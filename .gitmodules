@@ -1,0 +1,3 @@
+[submodule "imtvault"]
+	path = imtvault
+	url = https://github.com/cldf-datasets/imtvault.git
