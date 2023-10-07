@@ -1,0 +1,12 @@
+\t dobăr i vesel măž
+\g good:M and cheerful.M man(M)
+\l good and cheerful man
+
+\t dobr-a i vesel-a žena
+\g good-F and cheerful-F woman(F)
+\l good and cheerful woman
+
+\t dobr-i i vesel-i žen-i
+\g good-PL and cheerful-PL woman-F.PL
+\l good and cheerful women
+

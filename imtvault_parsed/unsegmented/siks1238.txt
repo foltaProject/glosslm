@@ -1,0 +1,44 @@
+\t Nita’pihkahtoo’pwa amo aipasstaam .
+\g 1-sell.TI-TH-3SG DEM.SG apple
+\l = ‘I’m selling 1 apple.’ ≠ I’m selling >1 apple.
+
+\t Nita’pihkahtoo’pyi amoistsi aipasstaamistsi .
+\g 1-sell.TI-TH-3PL DEM-PL apple-PL
+\l = ‘I’m selling >1 apple.’ ≠ I’m selling 1 apple.
+
+\t Nitiponota’siwa aipasstaam .
+\g 1-sell.AI-3SG apple
+\l = ‘I’m selling ≥1 apple.
+
+\t Nitooyi aipasstaamistsi .
+\g 1-eat.AI apple-PL
+\l I ate apples.
+
+\t Nitooyi aipasstaam .
+\g 1-eat.AI apple
+\l I ate [one or more than one] apple./*I ate one apple.
+
+\t Amoksi aakííkoaiks ohkanáísinao’sskipiiyaawa   omi sááhkomaapii otáákomimmayi pro   .
+\g DEM-PL girl-PL all-kiss-3OBJ-PL=3PL.PRN  DEM-OBV boy-OBV 3-love-3OBJ-OBV  
+\l Every girl kissed [the boy she loved].
+
+\t *  Anna sááhkomaapi otáákomimmoka pro   ohkanáísinao’sskipiiyaawa amoksi aakííkoaiks .
+\g  DEM-PROX boy 3-love-INV-PROX   all-kiss-3OBJ-PL=3PL.PRN DEM-PL girl-PL
+\l [The boy she loved] kissed every girl.
+
+\t Amoksi aakííkoaiks otohkanáísinao’sskipokyaawa   omi sááhkomaapii otáákomimmayi pro   .
+\g DEM-PL girl-PL 3-all-kiss-INV-PL=3PL.PRN  DEM-OBV boy-OBV 3-love-3OBJ-OBV  
+\l [The boy she loved] kissed every girl.
+
+\t *  Anna sááhkomaapiwa otáákomimmoka pro   otohkanáísinao’sskipoka anniksi aakííkoaiks .
+\g  DEM-PROX boy-PROX 3-love-INV-PROX   3-all-kiss-INV-SG DEM-PL girl-PL
+\l Every girl kissed [the boy she loved].
+
+\t nitiksstaata anwa Leo ninaahksspommoahsi .
+\g 1SG-want.TA-1SG:3SG DEM-PROX Leo 1-MOD-help.TA-1SG:3SG-CONJ
+\l I want to help Leo.
+
+\t noxkówa ki niistówa nitsíksstattsiiyixpinnaani náxka'po'takssinnaan .
+\g my.son.3 and 1SG 1SG-want-RECP-1PL 1-might-work-CONJ-1PL
+\l lit.: `My son and I want of each other that we work.
+

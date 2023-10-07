@@ -1,0 +1,296 @@
+\t K’at’uk p’iyu .
+\g cat-ERG meow-3PST
+\l The cat meowed.
+
+\t Purkik msk’va gont’u .
+\g flower-ERG nice smell-3PST
+\l The flower smelled nice.
+
+\t Aynak farfalu .
+\g mirror-ERG shine-3PST
+\l The mirror shined.
+
+\t Berek ibiru .
+\g child-ERG VAL-play-3PST
+\l The child played.
+
+\t Berek igzalu .
+\g child-ERG VAL-walk-3PST
+\l The child walked.
+
+\t Balonepe t’vatsun .
+\g balloon-PL pop-TS-3COP
+\l The balloons are popping.
+
+\t Tzari nçxun .
+\g water heat-TS-3COP
+\l The water is heating up.
+
+\t Bere ncaşe eyulun .
+\g child tree-ALL PV-climb-TS-3COP
+\l The child is climbing the tree.
+
+\t Dişk’a miğen .
+\g wood PV-VAL-bring-TS-3PRS
+\l Someone is bringing the wood.
+
+\t Oxori itzopxen .
+\g house VAL-build-TS-3PRS
+\l Someone is building the house.
+
+\t Ma yalis Ali bdziri .
+\g I mirror-DAT Ali 1-see-1PST
+\l I saw Ali in the mirror.
+
+\t Ma yalis çendi bdziri .
+\g I mirror-DAT self 1-see-1PST
+\l I saw myself in the mirror.
+
+\t Ma yalis vidziri .
+\g I mirror-DAT 1-REFL-see-1PST
+\l I saw myself in the mirror.
+
+\t *Ma yalis çendi vidziri .
+\g I mirror-DAT self 1-REFL-see-1PST
+\l I saw myself in the mirror.
+
+\t Ma Ali bdziri .
+\g I Ali 1SBJ-see-1PST
+\l I saw Ali.
+
+\t Ma si gdziri .
+\g I you 2OBJ-see-1PST
+\l I saw you.
+
+\t Ma si *bgdziri .
+\g I you 1SBJ-1OBJ-see-1PST
+\l I saw you.
+
+\t Berek imbonu .
+\g child-ERG VAL-wash-3PST
+\l The child washed.
+
+\t Nanik beres ombonapu .
+\g mother-ERG child-DAT VAL-wash-CAUS-3PST
+\l The mother made the child wash himself.
+
+\t Ar oxori mvirgen .
+\g a house PV-VAL-build-TS-3PRS
+\l A house is being built.
+
+\t Ar oxori xordzas mvargen .
+\g a house woman-dat PV-appl-build-TS-3prs
+\l A house is being built for the woman.
+
+\t Bereşi ombonu / *oimbonu .
+\g child-GEN NMZL-wash-NMZL / NMZL-VAL-wash-NMZL
+\l The child’s washing (himself)
+
+\t Mboneri / *imboneri , berek lebepemuşi kogamiyonu .
+\g wash-PTCP / VAL-wash-PTCP child-ERG dirt-PL-3POSS PV-PV-VAL-rid.off-3PST
+\l Washing himself, the child got rid off the dirts on him.
+
+\t Cami k’asite amolva şeni ç’ak’uç’ite it’axen .
+\g window intention-with enter for hammer-with VAL-break-TS-3PRS
+\l The window is intentionally broken with a hammer in order to enter (the place).
+
+\t Alik çendiØ var msk’vams .11
+\g Ali-ERG self-NOM NEG praise-TS-3PRS
+\l Ali does not praise himself.
+
+\t Ek’na molidzen .
+\g door PV-VAL-close-TS-3PRS
+\l The door is being closed (by someone).
+
+\t Alik igzalams .
+\g Ali-ERG VAL-walk-TS-3PRS
+\l Ali is walking.
+
+\t Bere molun .
+\g child PV-come-TS-3COP
+\l The child is coming.
+
+\t Ham metali matzindi oyapu şeni ndrukhun .
+\g this metal ring make for bend-TS-3PRS
+\l *This metal is bending to make a ring.
+
+\t Yaği xalva oyapu şeni ndgulun .
+\g butter halva make for melt-TS-3PRS
+\l *The butter is melting to make halva.
+
+\t Noti k’elemite Alis parti goşinu şeni nç’arun .
+\g note pen-with Ali-DAT party remind for write-TS-3PRS
+\l The note is written (in a written state) with a pen to remind Ali the party.
+
+\t Çendi ndrukhun .
+\g self bend-TS-PRES.3PS
+\l Something is bending itself.
+
+\t Çendi indrikhen .
+\g self VAL-bend-TS-3PRS
+\l Somone is bending himself.
+
+\t Çendi cari oşkhomu şeni arabate mulun .
+\g self food eat for car-with PV-come-CAUS-TS-3PRS
+\l He is coming (i.e. bringing himself) to have dinner by car.
+
+\t Çendi cari oşkhomu şeni arabate moilvinen .
+\g self food eat for car-with PV-VAL-come-CAUS-TS-3PRS
+\l People are coming (i.e.bringing themselves) to have dinner by car.
+
+\t Ham metali ndrukhun .
+\g this metal bend-TS-PRES.3PS
+\l The metal is bendable/bending/can bend.
+
+\t Ham metali indrikhen .
+\g this metal.NOM VAL-bend-TS-3PRS
+\l This metal is being bent/bending.
+
+\t Ombri purkun .
+\g plum.tree bloom-TS-3PRS
+\l The plum tree blooms/is blooming.
+
+\t K’romi liç’un .
+\g onion sprout-TS-3PRS
+\l The onion sprouts.
+
+\t Topuri liç’un .
+\g honey crystalize-TS-3PRS
+\l The honey crystalizes.
+
+\t Lazut’i xindun .
+\g corn fade-TS-3PRS
+\l The corn plant is fading.
+
+\t Ombri berepe oxelu şeni purkun .
+\g plum.tree child-PL make.happy for bloom-TS-3PRS
+\l The plum tree is blooming to make the children happy.
+
+\t Ombrik berepe oxelu şeni ipurkams .
+\g plum.tree-ERG child-PL make.happy for VAL-bloom-TS-3PRS
+\l The plum tree is blooming to make the children happy.
+
+\t Alik ibgaru .
+\g Ali-ERG VAL-cry-3PST
+\l Ali cried.
+
+\t *Ahmedik Ali obgaru .
+\g Ahmed-ERG Ali VAL-cry-3PS
+\l Ahmet made Ali cry.
+
+\t Ahmedik Ali obgarapu .
+\g Ahmed-ERG Ali VAL-cry-CAUS-3PST
+\l Ahmet made Ali cry.
+
+\t Alik t’abaxi çxu .
+\g Ali-ERG plate wash-3PST
+\l Ali washed the plate.
+
+\t Xordzak Alis t’abaxi oçxapu .
+\g woman-ERG Ali-DAT plate VAL-wash-CAUS-3PST
+\l The woman made Ali wash the plate.
+
+\t *Alik ar vorsi nciri inciru .16
+\g Ali-ERG a great sleep VAL-sleep-3PST
+\l Ali sleept a great sleep.
+
+\t Ntsak gurgulams .
+\g sky-ERG clap-TS-3PRS
+\l The sky is thundering.
+
+\t Gurgula cext’u .
+\g thunder PV-fall-3PST
+\l Thunder struck.
+
+\t Ntsak gurgula ik’ums .
+\g sky-ERG thunder make-TS-3PRS
+\l The sky is making thunder claps.
+
+\t *Ntsak ar vorsi gurgula gurgulu .
+\g sky-ERG a good thunder clap-3PST
+\l The sky thundered a great thunder.
+
+\t Çiçek güzel bir koku kokuyor .
+\g flower nice a smell smell-IMPF
+\l The flower smells a nice smell.
+
+\t Ntsak ar vorsi gurgulu .
+\g sky-ERG a good clap-3PST
+\l The sky thundered a great (thunder).
+
+\t Ko’çik si bere guncğonu .
+\g man-ERG you.DAT child 2OBJ-APPL-send-3PST
+\l The man sent the child to you.
+
+\t Beres Ali aceru .
+\g child-DAT Ali APPL-believe-3PST
+\l The child believed Ali.
+
+\t Alik past’a şk’omu .
+\g Ali-ERG cake eat-3PST
+\l Ali ate (some) cake.
+
+\t Alik past’a oşk’omu .
+\g Ali-ERG cake PV-eat-3PST
+\l Ali ate the (whole) cake.
+
+\t Cami t’axeri on .
+\g glass break-PRTC 3COP
+\l The glass is broken.
+
+\t Cami t’axeri dosk’udu .
+\g glass break-PRTC PV-remain-3PST
+\l The glass remained broken.
+
+\t Ma dişk’a meviğamØ .
+\g I wood PV-1SBJ-bring-TS-1PRS
+\l I am bringing wood.
+
+\t Ma para miğun .
+\g I money 1OBJ-APPL-bring-TS-3PRS
+\l I have money.’ (Lit: Money is brought to me)
+
+\t Alik Ayşe ocerams .
+\g Ali-ERG Ayşe VAL-convince-TS-3PRS
+\l Ali is convincing Ayşe.
+
+\t Ayşes muti var aceren .
+\g Ayşe-DAT nothing NEG APPL-believe-TS-3PRS
+\l Ayşe believes in nothing’ (Lit: Nothing convinces Ayşe)
+
+\t Ma ham mişk’un .
+\g I this 1OBJ-APPL-send-TS-3PRS
+\l I know this. (Lit: This is sent to me)
+
+\t Nanak bere soti var oşk’ums .
+\g mother-ERG child anywhere NEG-VAL -send-TS-3PRS
+\l The mother does not send the child anywhere.
+
+\t Camepe bombate it’axu .
+\g window-PL bomb-with VAL-break-3PST
+\l Windows were broken with the bomb.
+
+\t *Camepe zelzelete it’axu .
+\g window-PL earthquake-with VAL-break-3PST
+\l Windows were broken from the earthquake.
+
+\t Camepe zelzeles it’axu .
+\g window-PL bomb-LOC VAL-break-3PST
+\l Windows were broken during the earthquake.
+
+\t Bombak camepe t’axu .
+\g bomb-ERG windw-PL break-3PST
+\l The bomb broke the windows.
+
+\t Zelzelek camepe t’axu .
+\g earthquake-ERG window-PL break-3PST
+\l The earthquake broke the windows.
+
+\t Çendik Ali dziru .
+\g self-ERG Ali see-3PST
+\l Self saw Ali.
+
+\t *Alik ar vorsi nciri nciru .
+\g Ali-ERG a great sleep VAL-sleep-3PST
+\l Ali slept a great sleep.
+

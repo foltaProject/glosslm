@@ -1,0 +1,656 @@
+Input file: data/Lezgi/source_data/lez-CLDFmaster.csv
+Output file: data/Lezgi/st_data/lez-CLDFmaster.txt
+Filter punctuation: False
+Skipping example 1.1: Missing gloss/segmentation
+Skipping example 1.3: number of morphemes in 'чирхьа-ай-ла' doesn't match 'knowledge-happened-AOP-TEMP'.
+Skipping example 2.2: Missing gloss/segmentation
+Skipping example 2.6: Missing gloss/segmentation
+Skipping example 2.7: Missing gloss/segmentation
+Skipping example 2.8: Missing gloss/segmentation
+Skipping example 2.1: number of morphemes in 'вад-ругуд' doesn't match 'five.six'.
+Skipping example 3.1: Missing gloss/segmentation
+Skipping example 3.2: number of morphemes in 'вуч-злугьун-й-тӏа' doesn't match 'what-DAT-say-PST-CND'.
+Skipping example 3.3: number of morphemes in 'валлагь-биллагь' doesn't match 'vallah.billah'.
+Skipping example 3.4: Missing gloss/segmentation
+Skipping example 4.1: Missing gloss/segmentation
+Skipping example 4.8: Missing gloss/segmentation
+Skipping example 4.1: Missing gloss/segmentation
+Skipping example 4.14: Missing gloss/segmentation
+Skipping example 5.2: Missing gloss/segmentation
+Skipping example 5.4: Missing gloss/segmentation
+Skipping example 5.5: Missing gloss/segmentation
+Skipping example 5.9: Missing gloss/segmentation
+Skipping example 6.2: number of morphemes in 'финфин-н' doesn't match 'go-go-HORT'.
+Skipping example 6.5: Missing gloss/segmentation
+Skipping example 6.6: Missing gloss/segmentation
+Skipping example 6.14: Missing gloss/segmentation
+Skipping example 7.2: Missing gloss/segmentation
+Skipping example 7.4: Missing gloss/segmentation
+Skipping example 7.8: Missing gloss/segmentation
+Skipping example 7.9: Missing gloss/segmentation
+Skipping example 7.1: Missing gloss/segmentation
+Skipping example 7.11: Missing gloss/segmentation
+Skipping example 7.12: Missing gloss/segmentation
+Skipping example 7.13: number of morphemes in 'язава' doesn't match 'was-I'.
+Skipping example 7.17: Missing gloss/segmentation
+Skipping example 7.19: Missing gloss/segmentation
+Skipping example 7.21: Missing gloss/segmentation
+Skipping example 7.22: Missing gloss/segmentation
+Skipping example 7.23: Missing gloss/segmentation
+Skipping example 8.1: Missing gloss/segmentation
+Skipping example 8.2: Missing gloss/segmentation
+Skipping example 8.7: number of morphemes in 'сен-Аллагь' doesn't match 'sen.Allah'.
+Skipping example 8.8: Missing gloss/segmentation
+Skipping example 8.9: Missing gloss/segmentation
+Skipping example 8.1: Missing gloss/segmentation
+Skipping example 8.14: number of morphemes in 'вичи-н' doesn't match 'himself-ergative-GEN'.
+Skipping example 8.19: Missing gloss/segmentation
+Skipping example 8.23: Missing gloss/segmentation
+Skipping example 1.2: Missing gloss/segmentation
+Skipping example 5.0: number of morphemes in 'са-сад' doesn't match 'one.another'.
+Skipping example 6.0: number of morphemes in 'алатун-да-чки' doesn't match 'pass-FUT-NEG-that'.
+Skipping example 7.0: number of morphemes in 'ахъйун-зватир' doesn't match 'talk-IMPF-was'.
+Skipping example 8.0: number of morphemes in 'крар--ди-й-к-ай' doesn't match 'THING-OBL-PST-SUB-EL'.
+Skipping example 12.0: number of morphemes in 'яваш-яваш' doesn't match 'slowly'.
+Skipping example 15.0: Missing gloss/segmentation
+Skipping example 16.0: number of morphemes in 'кӀвал-югъ' doesn't match 'home'.
+Skipping example 25.1: Missing gloss/segmentation
+Skipping example 25.3: Missing gloss/segmentation
+Skipping example 26.0: Missing gloss/segmentation
+Skipping example 27.0: Missing gloss/segmentation
+Skipping example 28.0: Missing gloss/segmentation
+Skipping example 30.0: Missing gloss/segmentation
+Skipping example 31.1: Missing gloss/segmentation
+Skipping example 31.2: Missing gloss/segmentation
+Skipping example 32.1: Missing gloss/segmentation
+Skipping example 32.2: Missing gloss/segmentation
+Skipping example 32.3: Missing gloss/segmentation
+Skipping example 35.0: number of morphemes in 'и-бури' doesn't match 'this-ABS.PL-ergative'.
+Skipping example 38.2: Missing gloss/segmentation
+Skipping example 40.0: number of morphemes in 'яни' doesn't match 'cop-which'.
+Skipping example 41.0: Missing gloss/segmentation
+Skipping example 43.2: Missing gloss/segmentation
+Skipping example 46.0: Missing gloss/segmentation
+Skipping example 47.0: Missing gloss/segmentation
+Skipping example 1.4: Missing gloss/segmentation
+Skipping example 1.5: Missing gloss/segmentation
+Skipping example 1.6: Missing gloss/segmentation
+Skipping example 1.7: Missing gloss/segmentation
+Skipping example 1.9: Missing gloss/segmentation
+Skipping example 1.1: Missing gloss/segmentation
+Skipping example 1.11: Missing gloss/segmentation
+Skipping example 1.12: Missing gloss/segmentation
+Skipping example 1.13: Missing gloss/segmentation
+Skipping example 1.14: Missing gloss/segmentation
+Skipping example 1.16: Missing gloss/segmentation
+Skipping example 1.18: Missing gloss/segmentation
+Skipping example 1.19: Missing gloss/segmentation
+Skipping example 1.21: Missing gloss/segmentation
+Skipping example 1.22: Missing gloss/segmentation
+Skipping example 1.25: Missing gloss/segmentation
+Skipping example 1.26: Missing gloss/segmentation
+Skipping example 1.27: Missing gloss/segmentation
+Skipping example 1.28: Missing gloss/segmentation
+Skipping example 1.29: Missing gloss/segmentation
+Skipping example 1.0: number of morphemes in 'руша-к-ай' doesn't match 'girl-obl.stm-SBSS-EL'.
+Skipping example 2.1: Missing gloss/segmentation
+Skipping example 2.4: number of morphemes in 'вааар-девлет' doesn't match 'riches'.
+Skipping example 3.1: Missing gloss/segmentation
+Skipping example 3.3: Missing gloss/segmentation
+Skipping example 3.4: number of morphemes in 'ятӀа' doesn't match 'cop-if'.
+Skipping example 3.5: number of morphemes in 'руша-л' doesn't match 'girl-obl.stm-SPSS'.
+Skipping example 3.6: Missing gloss/segmentation
+Skipping example 4.1: Missing gloss/segmentation
+Skipping example 4.2: Missing gloss/segmentation
+Skipping example 4.3: Missing gloss/segmentation
+Skipping example 4.5: number of morphemes in 'вилера-л' doesn't match 'eyes-obl.stm-SPSS'.
+Skipping example 4.8: Missing gloss/segmentation
+Skipping example 4.9: Missing gloss/segmentation
+Skipping example 4.12: number of morphemes in 'вилера-л' doesn't match 'eyes-obl.stm-SPSS'.
+Skipping example 4.15: Missing gloss/segmentation
+Skipping example 5.1: Missing gloss/segmentation
+Skipping example 5.2: Missing gloss/segmentation
+Skipping example 5.9: number of morphemes in 'цавалайа-л-ай' doesn't match 'air.from.off-obl.stm-SPSS-INELAT'.
+Skipping example 5.11: Missing gloss/segmentation
+Skipping example 5.12: Missing gloss/segmentation
+Skipping example 5.16: number of morphemes in 'икьван' doesn't match 'this-so.much'.
+Skipping example 5.17: Missing gloss/segmentation
+Skipping example 5.18: Missing gloss/segmentation
+Skipping example 5.19: Missing gloss/segmentation
+Skipping example 5.21: Missing gloss/segmentation
+Skipping example 6.1: Missing gloss/segmentation
+Skipping example 6.2: Missing gloss/segmentation
+Skipping example 6.3: Missing gloss/segmentation
+Skipping example 6.5: Missing gloss/segmentation
+Skipping example 6.8: Missing gloss/segmentation
+Skipping example 7.3: Missing gloss/segmentation
+Skipping example 7.5: Missing gloss/segmentation
+Skipping example 7.6: Missing gloss/segmentation
+Skipping example 7.8: Missing gloss/segmentation
+Skipping example 8.1: number of morphemes in 'кор-пешман' doesn't match 'very.sad'.
+Skipping example 8.4: Missing gloss/segmentation
+Skipping example 8.8: Missing gloss/segmentation
+Skipping example 8.9: Missing gloss/segmentation
+Skipping example 8.14: Missing gloss/segmentation
+Skipping example 8.2: Missing gloss/segmentation
+Skipping example 9.2: Missing gloss/segmentation
+Skipping example 9.3: Missing gloss/segmentation
+Skipping example 9.7: Missing gloss/segmentation
+Skipping example 9.8: Missing gloss/segmentation
+Skipping example 9.12: Missing gloss/segmentation
+Skipping example 9.14: Missing gloss/segmentation
+Skipping example 9.15: Missing gloss/segmentation
+Skipping example 10.3: Missing gloss/segmentation
+Skipping example 10.4: Missing gloss/segmentation
+Skipping example 10.7: Missing gloss/segmentation
+Skipping example 10.8: Missing gloss/segmentation
+Skipping example 10.1: Missing gloss/segmentation
+Skipping example 10.11: Missing gloss/segmentation
+Skipping example 10.17: Missing gloss/segmentation
+Skipping example 10.18: Missing gloss/segmentation
+Skipping example 10.19: Missing gloss/segmentation
+Skipping example 10.2: Missing gloss/segmentation
+Skipping example 10.21: Missing gloss/segmentation
+Skipping example 11.1: Missing gloss/segmentation
+Skipping example 12.2: number of morphemes in 'руша-к-ай' doesn't match 'girl-obl.stm-SBSS-INELAT'.
+Skipping example 12.3: Missing gloss/segmentation
+Skipping example 12.4: number of morphemes in 'жува-з' doesn't match 'us-obl.stm-DAT'.
+Skipping example 12.5: number of morphemes in 'жува-жув' doesn't match 'oneself'.
+Skipping example 12.6: Missing gloss/segmentation
+Skipping example 12.7: Missing gloss/segmentation
+Skipping example 12.9: Missing gloss/segmentation
+Skipping example 12.1: Missing gloss/segmentation
+Skipping example 13.1: Missing gloss/segmentation
+Skipping example 13.2: Missing gloss/segmentation
+Skipping example 13.5: Missing gloss/segmentation
+Skipping example 13.6: Missing gloss/segmentation
+Skipping example 13.7: Missing gloss/segmentation
+Skipping example 13.9: Missing gloss/segmentation
+Skipping example 13.11: Missing gloss/segmentation
+Skipping example 13.13: number of morphemes in 'ашукьже-да' doesn't match 'ashuq-be-ENT'.
+Skipping example 13.15: Missing gloss/segmentation
+Skipping example 13.17: Missing gloss/segmentation
+Skipping example 13.18: Missing gloss/segmentation
+Skipping example 13.22: Missing gloss/segmentation
+Skipping example 13.23: Missing gloss/segmentation
+Skipping example 13.25: Missing gloss/segmentation
+Skipping example 13.26: Missing gloss/segmentation
+Skipping example 13.27: Missing gloss/segmentation
+Skipping example 13.33: Missing gloss/segmentation
+Skipping example 13.35: number of morphemes in 'ибурув-ай-ни' doesn't match 'They-in-AOP-FOC'.
+Skipping example 13.37: Missing gloss/segmentation
+Skipping example 13.4: Missing gloss/segmentation
+Skipping example 13.41: Missing gloss/segmentation
+Skipping example 13.42: Missing gloss/segmentation
+Skipping example 14.1: Missing gloss/segmentation
+Skipping example 14.2: number of morphemes in 'базарризи-з' doesn't match 'market.to-ergative-DAT'.
+Skipping example 14.3: Missing gloss/segmentation
+Skipping example 14.4: Missing gloss/segmentation
+Skipping example 14.5: Missing gloss/segmentation
+Skipping example 14.7: Missing gloss/segmentation
+Skipping example 14.9: Missing gloss/segmentation
+Skipping example 14.13: Missing gloss/segmentation
+Skipping example 15.2: Missing gloss/segmentation
+Skipping example 15.3: Missing gloss/segmentation
+Skipping example 15.4: Missing gloss/segmentation
+Skipping example 15.6: Missing gloss/segmentation
+Skipping example 15.8: Missing gloss/segmentation
+Skipping example 16.1: Missing gloss/segmentation
+Skipping example 16.2: Missing gloss/segmentation
+Skipping example 16.3: Missing gloss/segmentation
+Skipping example 16.4: Missing gloss/segmentation
+Skipping example 16.5: Missing gloss/segmentation
+Skipping example 16.7: Missing gloss/segmentation
+Skipping example 16.11: Missing gloss/segmentation
+Skipping example 16.12: Missing gloss/segmentation
+Skipping example 16.14: Missing gloss/segmentation
+Skipping example 16.15: Missing gloss/segmentation
+Skipping example 16.16: Missing gloss/segmentation
+Skipping example 16.18: Missing gloss/segmentation
+Skipping example 16.19: Missing gloss/segmentation
+Skipping example 17.2: Missing gloss/segmentation
+Skipping example 17.4: Missing gloss/segmentation
+Skipping example 17.5: Missing gloss/segmentation
+Skipping example 17.6: Missing gloss/segmentation
+Skipping example 17.7: Missing gloss/segmentation
+Skipping example 17.1: number of morphemes in 'Куз-куз' doesn't match 'burning'.
+Skipping example 17.11: Missing gloss/segmentation
+Skipping example 17.12: Missing gloss/segmentation
+Skipping example 17.13: Missing gloss/segmentation
+Skipping example 17.2: Missing gloss/segmentation
+Skipping example 17.21: Missing gloss/segmentation
+Skipping example 18.4: Missing gloss/segmentation
+Skipping example 19.0: number of morphemes in 'руша-кай-ни' doesn't match 'girl-obl.stm-SUBELATIVE-FOC'.
+Skipping example 2.3: Missing gloss/segmentation
+Skipping example 3.1: Missing gloss/segmentation
+Skipping example 3.3: Missing gloss/segmentation
+Skipping example 4.1: Missing gloss/segmentation
+Skipping example 4.3: Missing gloss/segmentation
+Skipping example 4.5: number of morphemes in 'вучизалагьа-ай-тӀа' doesn't match 'what-this-1sg.ERG-say-AOP-COND'.
+Skipping example 6.1: Missing gloss/segmentation
+Skipping example 6.2: Missing gloss/segmentation
+Skipping example 7.1: Missing gloss/segmentation
+Skipping example 7.3: number of morphemes in 'Гьа-гьа-гьа' doesn't match 'ha.ha.ha'.
+Skipping example 7.4: Missing gloss/segmentation
+Skipping example 8.2: Missing gloss/segmentation
+Skipping example 10.1: number of morphemes in 'инсанр-ди-к-ай' doesn't match 'man-plr-ERG-SBSS-AOP'.
+Skipping example 10.2: Missing gloss/segmentation
+Skipping example 11.1: Missing gloss/segmentation
+Skipping example 11.2: Missing gloss/segmentation
+Skipping example 11.3: Missing gloss/segmentation
+Skipping example 12.2: number of morphemes in 'фад-фад' doesn't match 'often'.
+Skipping example 14.1: number of morphemes in 'вучизлагьа-ай-тӏа' doesn't match 'why-say-AOP-CND'.
+Skipping example 15.0: number of morphemes in 'зава' doesn't match '1sg.ERG-and'.
+Skipping example 16.0: Missing gloss/segmentation
+Skipping example 17.0: Missing gloss/segmentation
+Skipping example 18.0: Missing gloss/segmentation
+Skipping example 19.0: Missing gloss/segmentation
+Skipping example 21.0: Missing gloss/segmentation
+Skipping example 22.0: Missing gloss/segmentation
+Skipping example 23.0: number of morphemes in 'идавайва-й' doesn't match 'he.from-2sg-PST'.
+Skipping example 24.1: Missing gloss/segmentation
+Skipping example 25.1: Missing gloss/segmentation
+Skipping example 25.2: Missing gloss/segmentation
+Skipping example 27.3: Missing gloss/segmentation
+Skipping example 28.0: Missing gloss/segmentation
+Skipping example 29.1: Missing gloss/segmentation
+Skipping example 29.3: Missing gloss/segmentation
+Skipping example 2.0: number of morphemes in 'эскервили-з' doesn't match 'military.service-ergative-DAT'.
+Skipping example 5.0: number of morphemes in 'границаяр' doesn't match 'border-pl'.
+Skipping example 7.0: Missing gloss/segmentation
+Skipping example 9.0: number of morphemes in 'кьуд-вад-ди-з' doesn't match 'four.five-OBL-DAT'.
+Skipping example 15.2: Missing gloss/segmentation
+Skipping example 16.0: number of morphemes in 'зуни' doesn't match 'my-which'.
+Skipping example 17.0: number of morphemes in 'немец-ари-н' doesn't match 'german-PL-ergative-GEN'.
+Skipping example 19.0: number of morphemes in 'Гьи-гьин' doesn't match 'the.same'.
+Skipping example 20.0: Missing gloss/segmentation
+Skipping example 22.2: Missing gloss/segmentation
+Skipping example 23.0: number of morphemes in 'акуна-ни' doesn't match 'look-you-FOC'.
+Skipping example 30.0: number of morphemes in 'и-бури' doesn't match 'this-ABS.PL-ergative'.
+Skipping example 34.0: number of morphemes in 'фу-затӀ' doesn't match 'bread'.
+Skipping example 35.0: Missing gloss/segmentation
+Skipping example 42.0: Missing gloss/segmentation
+Skipping example 46.0: Missing gloss/segmentation
+Skipping example 48.0: number of morphemes in 'кьведлагьа-й' doesn't match 'two-say-PST'.
+Skipping example 53.0: Missing gloss/segmentation
+Skipping example 58.0: Missing gloss/segmentation
+Skipping example 62.0: number of morphemes in 'кьведлагьа-й' doesn't match 'two-say-PST'.
+Skipping example 63.0: number of morphemes in 'американ-ари' doesn't match 'American-PL-this'.
+Skipping example 64.0: number of morphemes in 'американ-ари' doesn't match 'American-PL-ergative'.
+Skipping example 66.0: Missing gloss/segmentation
+Skipping example 68.0: Missing gloss/segmentation
+Skipping example 5.0: Missing gloss/segmentation
+Skipping example 6.0: number of morphemes in 'машин-ева-з' doesn't match 'car-INESS-2sg-DAT'.
+Skipping example 12.0: number of morphemes in 'фена-ш' doesn't match 'go-you-NEG'.
+Skipping example 16.0: Missing gloss/segmentation
+Skipping example 22.0: number of morphemes in 'лугьу-злугьу-з' doesn't match 'say-INF-say-DAT'.
+Skipping example 25.0: Missing gloss/segmentation
+Skipping example 27.0: Missing gloss/segmentation
+Skipping example 28.0: number of morphemes in 'хурук-хурук' doesn't match 'by.crawling'.
+Skipping example 29.0: number of morphemes in 'хурук-хурук' doesn't match 'by.crawling'.
+Skipping example 30.0: number of morphemes in 'кьуд-вад' doesn't match 'four.five'.
+Skipping example 31.0: number of morphemes in 'кьуд-вад' doesn't match 'four.five'.
+Skipping example 37.0: Missing gloss/segmentation
+Skipping example 41.0: Missing gloss/segmentation
+Skipping example 42.0: Missing gloss/segmentation
+Skipping example 43.0: Missing gloss/segmentation
+Skipping example 45.0: Missing gloss/segmentation
+Skipping example 1.4: Missing gloss/segmentation
+Skipping example 1.5: number of morphemes in 'ахъатун-айтир' doesn't match 'appereance-AOP-was'.
+Skipping example 1.8: Missing gloss/segmentation
+Skipping example 1.13: Missing gloss/segmentation
+Skipping example 1.15: number of morphemes in 'вичи-н' doesn't match 'himself-this-GEN'.
+Skipping example 1.16: Missing gloss/segmentation
+Skipping example 1.18: Missing gloss/segmentation
+Skipping example 1.19: Missing gloss/segmentation
+Skipping example 1.1: Missing gloss/segmentation
+Skipping example 1.3: Missing gloss/segmentation
+Skipping example 1.5: Missing gloss/segmentation
+Skipping example 1.6: Missing gloss/segmentation
+Skipping example 1.7: Missing gloss/segmentation
+Skipping example 1.11: Missing gloss/segmentation
+Skipping example 1.13: Missing gloss/segmentation
+Skipping example 1.14: Missing gloss/segmentation
+Skipping example 1.17: Missing gloss/segmentation
+Skipping example 1.19: Missing gloss/segmentation
+Skipping example 1.22: Missing gloss/segmentation
+Skipping example 1.23: Missing gloss/segmentation
+Skipping example 1.25: Missing gloss/segmentation
+Skipping example 1.27: Missing gloss/segmentation
+Skipping example 1.28: Missing gloss/segmentation
+Skipping example 1.29: number of morphemes in 'чиринхьа-йиди-ла-й' doesn't match 'know-happened-UNK-TEMP-PTP'.
+Skipping example 1.3: Missing gloss/segmentation
+Skipping example 1.32: Missing gloss/segmentation
+Skipping example 3.0: Missing gloss/segmentation
+Skipping example 5.0: Missing gloss/segmentation
+Skipping example 10.0: Missing gloss/segmentation
+Skipping example 12.0: Missing gloss/segmentation
+Skipping example 13.0: Missing gloss/segmentation
+Skipping example 17.0: Missing gloss/segmentation
+Skipping example 19.0: Missing gloss/segmentation
+Skipping example 21.0: MOR, GLS and TXT lengths don't match
+Skipping example 22.0: Missing gloss/segmentation
+Skipping example 28.1: Missing gloss/segmentation
+Skipping example 29.0: Missing gloss/segmentation
+Skipping example 2.1: number of morphemes in 'кӀанхьа-на' doesn't match 'want-happened-AOR'.
+Skipping example 2.2: number of morphemes in 'шиле-куьле' doesn't match 'things'.
+Skipping example 3.0: number of morphemes in 'галатун-нва-йтир' doesn't match 'tire-PERF-PTP-was'.
+Skipping example 7.0: Missing gloss/segmentation
+Skipping example 8.0: Missing gloss/segmentation
+Skipping example 9.0: Missing gloss/segmentation
+Skipping example 12.1: Missing gloss/segmentation
+Skipping example 12.2: Missing gloss/segmentation
+Skipping example 15.1: Missing gloss/segmentation
+Skipping example 19.2: Missing gloss/segmentation
+Skipping example 20.1: Missing gloss/segmentation
+Skipping example 20.2: Missing gloss/segmentation
+Skipping example 20.3: Missing gloss/segmentation
+Skipping example 21.2: Missing gloss/segmentation
+Skipping example 25.0: Missing gloss/segmentation
+Skipping example 26.0: number of morphemes in 'кӀанхьа-й-ла' doesn't match 'want-happened-PTP-TEMP'.
+Skipping example 27.0: number of morphemes in 'лувгун-на' doesn't match 'wing-give-AOC'.
+Skipping example 29.3: Missing gloss/segmentation
+Skipping example 30.1: Missing gloss/segmentation
+Skipping example 30.2: Missing gloss/segmentation
+Skipping example 30.4: Missing gloss/segmentation
+Skipping example 31.0: Missing gloss/segmentation
+Skipping example 32.3: number of morphemes in 'яд-затӀ' doesn't match 'wateror.something.else'.
+Skipping example 4.0: Missing gloss/segmentation
+Skipping example 8.0: Missing gloss/segmentation
+Skipping example 9.0: Missing gloss/segmentation
+Skipping example 10.0: Missing gloss/segmentation
+Skipping example 11.0: Missing gloss/segmentation
+Skipping example 16.0: Missing gloss/segmentation
+Skipping example 17.0: Missing gloss/segmentation
+Skipping example 18.0: Missing gloss/segmentation
+Skipping example 19.0: Missing gloss/segmentation
+Skipping example 1.0: Missing gloss/segmentation
+Skipping example 2.0: Missing gloss/segmentation
+Skipping example 3.0: number of morphemes in 'регьметдизфин-на' doesn't match 'die-go-AOR'.
+Skipping example 4.0: Missing gloss/segmentation
+Skipping example 6.0: number of morphemes in 'вад-ругуд' doesn't match 'five.six'.
+Skipping example 9.0: Missing gloss/segmentation
+Skipping example 11.3: MOR, GLS and TXT lengths don't match
+Skipping example 14.2: number of morphemes in 'хьана-вуш' doesn't match 'what.is'.
+Skipping example 15.0: Missing gloss/segmentation
+Skipping example 17.0: MOR, GLS and TXT lengths don't match
+Skipping example 1.3: number of morphemes in 'гва-йтир' doesn't match 'have-PTP-was'.
+Skipping example 3.1: Missing gloss/segmentation
+Skipping example 6.1: Missing gloss/segmentation
+Skipping example 6.2: Missing gloss/segmentation
+Skipping example 6.3: Missing gloss/segmentation
+Skipping example 6.4: Missing gloss/segmentation
+Skipping example 7.1: Missing gloss/segmentation
+Skipping example 7.2: Missing gloss/segmentation
+Skipping example 7.3: Missing gloss/segmentation
+Skipping example 8.1: Missing gloss/segmentation
+Skipping example 9.1: Missing gloss/segmentation
+Skipping example 9.2: Missing gloss/segmentation
+Skipping example 10.1: Missing gloss/segmentation
+Skipping example 10.2: Missing gloss/segmentation
+Skipping example 10.3: Missing gloss/segmentation
+Skipping example 11.2: Missing gloss/segmentation
+Skipping example 11.3: Missing gloss/segmentation
+Skipping example 12.1: Missing gloss/segmentation
+Skipping example 12.2: Missing gloss/segmentation
+Skipping example 12.3: Missing gloss/segmentation
+Skipping example 12.4: Missing gloss/segmentation
+Skipping example 13.1: Missing gloss/segmentation
+Skipping example 13.2: Missing gloss/segmentation
+Skipping example 13.3: Missing gloss/segmentation
+Skipping example 13.4: Missing gloss/segmentation
+Skipping example 2.0: number of morphemes in 'эскервили-з' doesn't match 'military.service-ergative-DAT'.
+Skipping example 5.0: number of morphemes in 'границаяр' doesn't match 'border-pl'.
+Skipping example 7.0: Missing gloss/segmentation
+Skipping example 9.0: number of morphemes in 'кьуд-вад-ди-з' doesn't match 'four.five-OBL-DAT'.
+Skipping example 15.2: Missing gloss/segmentation
+Skipping example 16.0: number of morphemes in 'зуни' doesn't match 'my-which'.
+Skipping example 17.0: number of morphemes in 'немец-ари-н' doesn't match 'german-PL-ergative-GEN'.
+Skipping example 19.0: number of morphemes in 'Гьи-гьин' doesn't match 'the.same'.
+Skipping example 20.0: Missing gloss/segmentation
+Skipping example 22.2: Missing gloss/segmentation
+Skipping example 23.0: number of morphemes in 'акуна-ни' doesn't match 'look-you-FOC'.
+Skipping example 30.0: number of morphemes in 'и-бури' doesn't match 'this-ABS.PL-ergative'.
+Skipping example 34.0: number of morphemes in 'фу-затӀ' doesn't match 'bread'.
+Skipping example 35.0: Missing gloss/segmentation
+Skipping example 42.0: Missing gloss/segmentation
+Skipping example 46.0: Missing gloss/segmentation
+Skipping example 48.0: number of morphemes in 'кьведлагьа-й' doesn't match 'two-say-PST'.
+Skipping example 53.0: Missing gloss/segmentation
+Skipping example 58.0: Missing gloss/segmentation
+Skipping example 62.0: number of morphemes in 'кьведлагьа-й' doesn't match 'two-say-PST'.
+Skipping example 63.0: number of morphemes in 'американ-ари' doesn't match 'American-PL-this'.
+Skipping example 64.0: number of morphemes in 'американ-ари' doesn't match 'American-PL-ergative'.
+Skipping example 66.0: Missing gloss/segmentation
+Skipping example 68.0: Missing gloss/segmentation
+Skipping example 1.0: number of morphemes in 'руша-к-ай' doesn't match 'girl-obl.stm-SBSS-EL'.
+Skipping example 2.1: Missing gloss/segmentation
+Skipping example 2.4: number of morphemes in 'вааар-девлет' doesn't match 'riches'.
+Skipping example 3.1: Missing gloss/segmentation
+Skipping example 3.3: Missing gloss/segmentation
+Skipping example 3.4: number of morphemes in 'ятӀа' doesn't match 'cop-if'.
+Skipping example 3.5: number of morphemes in 'руша-л' doesn't match 'girl-obl.stm-SPSS'.
+Skipping example 3.6: Missing gloss/segmentation
+Skipping example 4.1: Missing gloss/segmentation
+Skipping example 4.2: Missing gloss/segmentation
+Skipping example 4.3: Missing gloss/segmentation
+Skipping example 4.5: number of morphemes in 'вилера-л' doesn't match 'eyes-obl.stm-SPSS'.
+Skipping example 4.8: Missing gloss/segmentation
+Skipping example 4.9: Missing gloss/segmentation
+Skipping example 4.12: number of morphemes in 'вилера-л' doesn't match 'eyes-obl.stm-SPSS'.
+Skipping example 4.15: Missing gloss/segmentation
+Skipping example 5.1: Missing gloss/segmentation
+Skipping example 5.2: Missing gloss/segmentation
+Skipping example 5.11: Missing gloss/segmentation
+Skipping example 5.12: Missing gloss/segmentation
+Skipping example 5.16: number of morphemes in 'икьван' doesn't match 'this-so.much'.
+Skipping example 5.17: Missing gloss/segmentation
+Skipping example 5.18: Missing gloss/segmentation
+Skipping example 5.19: Missing gloss/segmentation
+Skipping example 5.21: Missing gloss/segmentation
+Skipping example 6.1: Missing gloss/segmentation
+Skipping example 6.2: Missing gloss/segmentation
+Skipping example 6.3: Missing gloss/segmentation
+Skipping example 6.5: Missing gloss/segmentation
+Skipping example 6.8: Missing gloss/segmentation
+Skipping example 7.3: Missing gloss/segmentation
+Skipping example 7.5: Missing gloss/segmentation
+Skipping example 7.6: Missing gloss/segmentation
+Skipping example 7.8: Missing gloss/segmentation
+Skipping example 8.1: number of morphemes in 'кор-пешман' doesn't match 'very.sad'.
+Skipping example 8.4: Missing gloss/segmentation
+Skipping example 8.8: Missing gloss/segmentation
+Skipping example 8.9: Missing gloss/segmentation
+Skipping example 8.14: Missing gloss/segmentation
+Skipping example 8.2: Missing gloss/segmentation
+Skipping example 9.2: Missing gloss/segmentation
+Skipping example 9.3: Missing gloss/segmentation
+Skipping example 9.7: Missing gloss/segmentation
+Skipping example 9.8: Missing gloss/segmentation
+Skipping example 9.12: Missing gloss/segmentation
+Skipping example 9.14: Missing gloss/segmentation
+Skipping example 9.15: Missing gloss/segmentation
+Skipping example 10.3: Missing gloss/segmentation
+Skipping example 10.4: Missing gloss/segmentation
+Skipping example 10.7: Missing gloss/segmentation
+Skipping example 10.8: Missing gloss/segmentation
+Skipping example 10.1: Missing gloss/segmentation
+Skipping example 10.11: Missing gloss/segmentation
+Skipping example 10.17: Missing gloss/segmentation
+Skipping example 10.18: Missing gloss/segmentation
+Skipping example 10.19: Missing gloss/segmentation
+Skipping example 10.2: Missing gloss/segmentation
+Skipping example 10.21: Missing gloss/segmentation
+Skipping example 12.2: number of morphemes in 'руша-к-ай' doesn't match 'girl-obl.stm-SBSS-INELAT'.
+Skipping example 12.3: Missing gloss/segmentation
+Skipping example 12.4: number of morphemes in 'жува-з' doesn't match 'us-obl.stm-DAT'.
+Skipping example 12.5: number of morphemes in 'жува-жув' doesn't match 'oneself'.
+Skipping example 12.6: Missing gloss/segmentation
+Skipping example 12.7: Missing gloss/segmentation
+Skipping example 12.9: Missing gloss/segmentation
+Skipping example 12.1: Missing gloss/segmentation
+Skipping example 13.1: Missing gloss/segmentation
+Skipping example 13.2: Missing gloss/segmentation
+Skipping example 13.5: Missing gloss/segmentation
+Skipping example 13.6: Missing gloss/segmentation
+Skipping example 13.7: Missing gloss/segmentation
+Skipping example 13.9: Missing gloss/segmentation
+Skipping example 13.11: Missing gloss/segmentation
+Skipping example 13.13: number of morphemes in 'ашукьже-да' doesn't match 'ashuq-be-ENT'.
+Skipping example 13.15: Missing gloss/segmentation
+Skipping example 13.18: Missing gloss/segmentation
+Skipping example 13.22: Missing gloss/segmentation
+Skipping example 13.23: Missing gloss/segmentation
+Skipping example 13.25: Missing gloss/segmentation
+Skipping example 13.26: Missing gloss/segmentation
+Skipping example 13.27: Missing gloss/segmentation
+Skipping example 13.33: Missing gloss/segmentation
+Skipping example 13.35: number of morphemes in 'ибурув-ай-ни' doesn't match 'They-in-AOP-FOC'.
+Skipping example 13.37: Missing gloss/segmentation
+Skipping example 13.4: Missing gloss/segmentation
+Skipping example 13.41: Missing gloss/segmentation
+Skipping example 13.42: Missing gloss/segmentation
+Skipping example 14.1: Missing gloss/segmentation
+Skipping example 14.2: number of morphemes in 'базарризи-з' doesn't match 'market.to-ergative-DAT'.
+Skipping example 14.3: Missing gloss/segmentation
+Skipping example 14.4: Missing gloss/segmentation
+Skipping example 14.5: Missing gloss/segmentation
+Skipping example 14.7: Missing gloss/segmentation
+Skipping example 14.9: Missing gloss/segmentation
+Skipping example 14.13: Missing gloss/segmentation
+Skipping example 15.2: Missing gloss/segmentation
+Skipping example 15.3: Missing gloss/segmentation
+Skipping example 15.4: Missing gloss/segmentation
+Skipping example 15.6: Missing gloss/segmentation
+Skipping example 15.8: Missing gloss/segmentation
+Skipping example 16.1: Missing gloss/segmentation
+Skipping example 16.2: Missing gloss/segmentation
+Skipping example 16.3: Missing gloss/segmentation
+Skipping example 16.4: Missing gloss/segmentation
+Skipping example 16.5: Missing gloss/segmentation
+Skipping example 16.7: Missing gloss/segmentation
+Skipping example 16.11: Missing gloss/segmentation
+Skipping example 16.12: Missing gloss/segmentation
+Skipping example 16.14: Missing gloss/segmentation
+Skipping example 16.15: Missing gloss/segmentation
+Skipping example 16.16: Missing gloss/segmentation
+Skipping example 16.18: Missing gloss/segmentation
+Skipping example 16.19: Missing gloss/segmentation
+Skipping example 17.2: Missing gloss/segmentation
+Skipping example 17.4: Missing gloss/segmentation
+Skipping example 17.5: Missing gloss/segmentation
+Skipping example 17.6: Missing gloss/segmentation
+Skipping example 17.7: Missing gloss/segmentation
+Skipping example 17.1: number of morphemes in 'Куз-куз' doesn't match 'burning'.
+Skipping example 17.11: Missing gloss/segmentation
+Skipping example 17.12: Missing gloss/segmentation
+Skipping example 17.13: Missing gloss/segmentation
+Skipping example 17.2: Missing gloss/segmentation
+Skipping example 17.21: Missing gloss/segmentation
+Skipping example 18.4: Missing gloss/segmentation
+Skipping example 19.0: number of morphemes in 'руша-кай-ни' doesn't match 'girl-obl.stm-SUBELATIVE-FOC'.
+Skipping example 1.0: number of morphemes in 'хьайи' doesn't match 'happened-AOP'.
+Skipping example 12.2: number of morphemes in 'чашмишхьун-на' doesn't match 'make.mistakes-be-AOR'.
+Skipping example 18.3: number of morphemes in 'где-то' doesn't match 'somewhere'.
+Skipping example 21.0: Missing gloss/segmentation
+Skipping example 28.0: number of morphemes in 'кӀвачер-гъилер' doesn't match 'feet.hands'.
+Skipping example 30.0: Missing gloss/segmentation
+Skipping example 33.0: Missing gloss/segmentation
+Skipping example 1.3: Missing gloss/segmentation
+Skipping example 1.4: Missing gloss/segmentation
+Skipping example 1.18: Missing gloss/segmentation
+Skipping example 1.19: number of morphemes in 'къырхбеш-элли' doesn't match 'forty.five.fifty'.
+Skipping example 1.2: number of morphemes in 'дигишарзава-й-ди' doesn't match 'changes-I-PST-SBST'.
+Skipping example 1.23: number of morphemes in 'гьарайун-нагьарайун-на' doesn't match 'screaming-AOR-screaming-AOR'.
+Skipping example 1.26: number of morphemes in 'по-русски' doesn't match 'in.Russian'.
+Skipping example 1.32: Missing gloss/segmentation
+Skipping example 1.4: Missing gloss/segmentation
+Skipping example 1.42: Missing gloss/segmentation
+Skipping example 1.43: Missing gloss/segmentation
+Skipping example 1.45: number of morphemes in 'фин-на-штавур' doesn't match 'go-AOR-NEG-NEG.make.PTP'.
+Skipping example 1.3: Missing gloss/segmentation
+Skipping example 1.4: number of morphemes in 'чи-зва-й-дитучир' doesn't match 'know-IMPF-PST-SBST-wasn't'.
+Skipping example 1.8: number of morphemes in 'ванхьун-на' doesn't match 'voice-be-AOR'.
+Skipping example 1.9: number of morphemes in '-вал' doesn't match 'PURP'.
+Skipping example 1.13: number of morphemes in 'яргъа-зтир' doesn't match 'far-DAT-was'.
+Skipping example 1.16: Missing gloss/segmentation
+Skipping example 1.17: number of morphemes in 'гуьзел-гуьрчек' doesn't match 'beautiful'.
+Skipping example 1.2: Missing gloss/segmentation
+Skipping example 1.21: number of morphemes in 'садсада-л-ай' doesn't match 'one-one-SPSS-INELAT'.
+Skipping example 1.3: number of morphemes in 'руш--ар-ди-н' doesn't match 'GIRL-PL-OBL-GEN'.
+Skipping example 1.33: number of morphemes in 'рекъетуна' doesn't match 'way.road-put.outting'.
+Skipping example 26.6: Missing gloss/segmentation
+Skipping example 33.0: number of morphemes in 'Йифиз-юкъуз' doesn't match 'day.and.night'.
+Skipping example 35.1: Missing gloss/segmentation
+Skipping example 52.3: number of morphemes in 'вири--е-л-ай' doesn't match 'EVERYTHING-INESS-SPSS-EL'.
+Skipping example 1.1: Missing gloss/segmentation
+Skipping example 1.2: Missing gloss/segmentation
+Skipping example 2.0: Missing gloss/segmentation
+Skipping example 3.0: Missing gloss/segmentation
+Skipping example 4.0: Missing gloss/segmentation
+Skipping example 6.0: Missing gloss/segmentation
+Skipping example 7.0: Missing gloss/segmentation
+Skipping example 8.1: Missing gloss/segmentation
+Skipping example 8.2: Missing gloss/segmentation
+Skipping example 8.3: Missing gloss/segmentation
+Skipping example 9.0: Missing gloss/segmentation
+Skipping example 10.0: Missing gloss/segmentation
+Skipping example 11.2: Missing gloss/segmentation
+Skipping example 11.3: Missing gloss/segmentation
+Skipping example 12.2: number of morphemes in 'сада-з-ни' doesn't match 'one-obl.stm-DAT-FOC'.
+Skipping example 13.0: Missing gloss/segmentation
+Skipping example 14.0: Missing gloss/segmentation
+Skipping example 16.0: Missing gloss/segmentation
+Skipping example 17.0: Missing gloss/segmentation
+Skipping example 18.0: Missing gloss/segmentation
+Skipping example 19.0: Missing gloss/segmentation
+Skipping example 20.1: Missing gloss/segmentation
+Skipping example 20.2: Missing gloss/segmentation
+Skipping example 22.1: Missing gloss/segmentation
+Skipping example 22.2: Missing gloss/segmentation
+Skipping example 23.1: Missing gloss/segmentation
+Skipping example 23.2: Missing gloss/segmentation
+Skipping example 23.3: Missing gloss/segmentation
+Skipping example 24.0: number of morphemes in 'хъуьти-хъ-ай' doesn't match 'winter-ergative-POESS-AOP'.
+Skipping example 25.2: Missing gloss/segmentation
+Skipping example 27.0: Missing gloss/segmentation
+Skipping example 31.1: number of morphemes in 'экъечӏ-зваче' doesn't match 'get.out-IMPF-give'.
+Skipping example 31.2: Missing gloss/segmentation
+Skipping example 31.3: Missing gloss/segmentation
+Skipping example 32.1: Missing gloss/segmentation
+Skipping example 1.1: Missing gloss/segmentation
+Skipping example 1.3: Missing gloss/segmentation
+Skipping example 1.11: Missing gloss/segmentation
+Skipping example 1.12: Missing gloss/segmentation
+Skipping example 1.4: Missing gloss/segmentation
+Skipping example 1.5: Missing gloss/segmentation
+Skipping example 1.6: Missing gloss/segmentation
+Skipping example 1.9: Missing gloss/segmentation
+Skipping example 1.1: Missing gloss/segmentation
+Skipping example 1.11: Missing gloss/segmentation
+Skipping example 1.13: Missing gloss/segmentation
+Skipping example 1.14: Missing gloss/segmentation
+Skipping example 1.17: Missing gloss/segmentation
+Skipping example 1.18: Missing gloss/segmentation
+Skipping example 1.19: Missing gloss/segmentation
+Skipping example 1.2: Missing gloss/segmentation
+Skipping example 1.0: Missing gloss/segmentation
+Skipping example 3.0: number of morphemes in 'къвалаха-л' doesn't match 'work-obl.stm-SPSS'.
+Skipping example 4.0: Missing gloss/segmentation
+Skipping example 9.0: Missing gloss/segmentation
+Skipping example 10.0: Missing gloss/segmentation
+Skipping example 11.0: Missing gloss/segmentation
+Skipping example 12.1: Missing gloss/segmentation
+Skipping example 14.0: Missing gloss/segmentation
+Skipping example 15.0: Missing gloss/segmentation
+Skipping example 18.0: Missing gloss/segmentation
+Skipping example 22.0: Missing gloss/segmentation
+Skipping example 27.0: Missing gloss/segmentation
+Skipping example 30.0: Missing gloss/segmentation
+Skipping example 31.0: Missing gloss/segmentation
+Skipping example 32.0: Missing gloss/segmentation
+Skipping example 34.0: Missing gloss/segmentation
+Skipping example 37.0: Missing gloss/segmentation
+Got 876 glossed sentences
+Filtered out 650 sentences
+

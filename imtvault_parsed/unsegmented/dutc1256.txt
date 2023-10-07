@@ -1,0 +1,1474 @@
+\t Aap zei , “Jij krijgt de auto” .
+\g monkey say.PST you get.PRES the car
+\l Monkey said, “You get the car.
+
+\t Aap zei dat jij de auto krijgt .
+\g monkey say.PST that you the car get.PRES
+\l Monkey said that you get the car.
+
+\t Jan hoeft *(niet) te vertrekken .
+\g Jan needs not to leave
+\l Jan doesn’t have to leave.
+
+\t Zij moet niet vertrekken .   
+\g she must not leave   ☐ > ¬
+\l She mustn’t leave.
+
+\t Zij moet niet vertrekken .       EXH > MUST > DE
+\g she must not leave       
+\l She mustn’t leave.
+
+\t … dat zij niet moet vertrekken    EXH > MUST > DE
+\g … that she must not leave    DE > EXH > MUST
+\l … she mustn’t leave’ / ‘… she doesn’t have to leave
+
+\t *Zij moet niet vertrekken , maar het mag wel .
+\g she must not leave, but it may PRT
+\l She mustn’t leave, but it is allowed.
+
+\t Zij moet niet vertrekken , omdat het verboden is .
+\g she must not leave, because it forbidden is
+\l She mustn’t leave, because it is forbidden.
+
+\t Ik weet dat zij niet moet vertrekken , maar dat het wel mag .
+\g I know that she not must leave, but that it PRT may
+\l I know that she doesn’t have to leave, but that it is allowed.
+
+\t Ik weet dat zij niet moet vertrekken , omdat het verboden is .
+\g I know that she not must leave, because it forbidden is
+\l I know that she mustn’t leave, because it is forbidden.
+
+\t Iedereen vertrok niet .        
+\g everybody left not        ∀ > ¬;*¬ > ∀
+\l Nobody left.
+
+\t Weinig mensen moeten vertrekken .     few > must; must > few
+\g few people must leave     
+\l Few people must leave.
+
+\t Hoogstens vijf mensen moeten vertrekken .  at most 5 > must;
+\g at most 5 people must leave  must > at most 5
+\l At most 5 people must leave.
+
+\t Alleen Jan moet vertrekken .      only > must; must > only
+\g only John must leave      
+\l Only John must leave.
+
+\t Weinig mensen zouden moeten vertrekken .    *few > should;
+\g few people would must leave    should > few
+\l Few people should leave.
+
+\t Hoogstens vijf mensen zouden moeten vertrekken . *at most 5 > should;
+\g at most 5 people would must leave should > at most 5
+\l At most 5 people should leave.
+
+\t Alleen Jan zou moeten vertrekken .     *only > should;
+\g only Jan would must leave     should > only
+\l Only Jan should leave.
+
+\t Wie denk je niet dat zij uitgenodigd heeft ?
+\g who think you not that she invited has
+\l Who don’t you think she has invited?
+
+\t *Wat denk je niet wie zij uitgenodigd heeft ?
+\g what think you not who her invited has
+\l Who don’t you think she has invited?
+
+\t *Wie denk je niet wie zij uitgenodigd heeft ?
+\g who think you not who she invited has
+\l Who don’t you think she has invited?
+
+\t Het zit gemakkelijk op deze stoel .
+\g it sits easily on this chair
+\l One sits comfortably in this chair.
+
+\t Dit boek leest gemakkelijk .
+\g the book reads easily
+\l The book reads easily.
+
+\t *Ik zie het boek moeilijk lezen .
+\g I see the book with-difficulty read
+\l I see the book reads with difficulty.
+
+\t Wat gebeurt er ? #De baby verschoont moeilijk .
+\g what happens there? the baby cleans with-difficulty
+\l What is happening? It is difficult to change the baby’s nappies.
+
+\t *Ik voelde het lekker zitten op deze stoel .
+\g I felt it comfortably sit on this chair
+\l I felt this chair sits comfortably.
+
+\t Wat gebeurt er ? #Het zit lekker op deze stoel .
+\g what happens there? it sits comfortably on this chair
+\l What is happening? It is comfortable to sit on this chair.
+
+\t Vers brood snijdt moeilijk (*door Jan) .
+\g freshly.baked bread cuts not.easily by Jan
+\l Freshly baked bread doesn’t cut easily (*by Jan).
+
+\t *Door ouden van dagen zit het lekker op deze stoel .
+\g by old of days sits it comfortably on this chair
+\l (Intended: ‘Elderly people can sit comfortably on this chair.’)
+
+\t *Het rijdt prettig op deze fiets door lange mensen .
+\g it rides nicely on this bike by tall people
+\l (Intended: ‘Tall people can rid this bike nicely.’)
+
+\t Het zit gemakkeljik *(op deze stoel) .
+\g it sits easily on this chair
+\l One sits comfortably in this chair.
+
+\t Op deze stoel zit *(het) gemakkelijk .
+\g on this chair sits it well
+\l One sits nicely in this chair.
+
+\t Het/*er fietst lekker op het fietspad .
+\g it/      there cycles nicely on the bikeway
+\l It is nice to cycle on the bikeway.
+
+\t Het/*er eet niet prettig in een hoog tempo .
+\g it/      there eats not pleasantly in a high speed
+\l It is not pleasant to eat at a high speed.
+
+\t De trampoline springt lekker .
+\g the trampoline jumps nicely
+\l Available reading: ‘It is nice to jump on the trampoline.’ Impossible reading: ‘It is nice to jump onto the trampoline.
+
+\t Het springt lekker   op de trampoline  .
+\g it jumps nicely on the trampoline
+\l Available reading: ‘It is nice to jump on the trampoline.’ Impossible reading: ‘It is nice to jump onto the trampoline.
+
+\t Het klimt lekker op dat dak .
+\g it climbs easily on that roof
+\l It is easy to climb on the roof.’ ‘It is easy to climb onto the roof.
+
+\t Deze stoel zit lekker .
+\g this chair sits comfortably
+\l This chair is comfortable to sit on.
+
+\t Deze tafel eet prettig .
+\g this table eats pleasantly
+\l This table is pleasant to eat at.
+
+\t Ze speelden op straat .
+\g they play-PST.3PL on street
+\l They were playing in the street.
+
+\t Wat betreurde jij (*het) dat hij gezegd had ?
+\g what regretted you it that he said had
+\l You regretted that he had said what?
+
+\t Arjen is gaan zwemmen .
+\g Arjen is go.INF swim.INF
+\l Arjen has started to swim.
+
+\t Arjen is komen werken .
+\g Arjen is come.INF work.INF
+\l Arjen has started to work.
+
+\t Arjen is blijven staan .
+\g Arjen is remain.INF stand.INF
+\l Arjen has continued to stand.
+
+\t Hij liep zijn schoenen scheef .
+\g he walked his shoes askew
+\l He walked his shoes worn on one side.
+
+\t Hij schaatste het ijs kapot .
+\g he skated the ice cracked
+\l He skated the ice cracked.
+
+\t Hij schreeuwde zijn keel rauw .
+\g he screamed his throat sore
+\l He screamed his throat sore.
+
+\t %De ruiter galoppeerde het paard voorbij de schuur .
+\g the horseman galloped the horse past the barn
+\l The jockey galloped the horse past the barn.
+
+\t %Marie liep haar fiets naar de winkel .
+\g Mary walked her bike to the shop
+\l Mary walked her bike to the shop.
+
+\t %De generaal marcheerde de soldaten naar hun tenten .
+\g The general marched the soldiers to their tents
+\l The general marched the soldiers to their tents.
+
+\t Je hebt het boek vast niet gelezen .
+\g 2SG have the book certainly NEG read
+\l You certainly didn’t read the book.
+
+\t Ik heb het boek WEL gelezen .
+\g 1SG have the book PRT read
+\l I DID read the book.
+
+\t Heb je het boek gelezen ?
+\g have 2SG the book read
+\l Did you read the book?
+
+\t Ik heb het boek inderDAAD gelezen .
+\g 1SG have the book indeed read
+\l I DID read the book.
+
+\t het makkelijk snijdende/*gesneden vlees
+\g the easily cutting/*cut meat\t Alles wat je moet doen is dat terzijde leggen .
+\g all what you must do is that aside put
+\l All you should do is put that aside.
+
+\t de man *(die) ik zag t
+\g the man that I saw 
+\l the man that I saw
+
+\t Dat is alles *(wat) je hoeft te doen .
+\g that is all what you need to do
+\l That’s all you need to do.
+
+\t alle kinderen
+\g all children\t Ik heb alles gekocht .
+\g I have everything (=all) bought
+\l I bought everything.
+
+\t Het Den Haag uit mijn jeugd was een prachtige stad .
+\g the The Hague from my childhood was a wonderful town
+\l The Hague from my childhood was a wonderful town.
+
+\t dat mooie plaatje daar
+\g DEM pretty picture ADV
+\l that nice picture
+
+\t De Smitten
+\g the Smith-PL\t Marie sloeg zichzelf/*zich/*haar .  DO 
+\g Marie hit herself/REFL/her 
+\l Marie was hitting herself.
+
+\t Marie gaf zichzelf/*zich/*haar een boek .  IO 
+\g Marie gave herself/REFL/her a book 
+\l Marie gave herself a book.
+
+\t Marie vertrouwt op zichzelf/*zich/*haar .  PPobject 
+\g Marie relies on herself/REFL/her 
+\l Marie relies on herself.
+
+\t Marie spreekt namens zichzelf/*zich/*haar .  adverbial PP 
+\g Marie speaks on.behalf.of herself/REFL/her 
+\l Marie is speaking on behalf of herself.
+
+\t Ik sloeg *zichzelf/*zich/haar .  DO 
+\g I hit himself/REFL/her 
+\l I hit her.
+
+\t Ik gaf *zichzelf/*zich/haar een boek .  IO 
+\g I gave himself/REFL/her a book 
+\l I gave her a book.
+
+\t Ik vertrouw op *zichzelf/*zich/haar .  PPobject 
+\g I rely on himself/REFL/her 
+\l I rely on her.
+
+\t Ik spreek namens *zichzelf/*zich/haar .  adverbial PP 
+\g I speak on.behalf.of himself/REFL/her 
+\l I speak on behalf of her.
+
+\t Jan vergist zich/*Marie .
+\g Jan mistakes REFL/Marie
+\l Jan is mistaken.
+
+\t Jan schaamt zich/*Marie .
+\g Jan shames REFL/Marie
+\l Jan is ashamed.
+
+\t Marie houdt   de honden bij elkaar/*zich/*ze  .
+\g Marie keeps  the dogs with each.other/REFL/them
+\l Marie keeps the dogs together.
+
+\t Marie houdt   de honden bij zich/’r/*zichzelf  .
+\g Marie keeps  the dogs with REFL/her/herself
+\l Marie keeps the dogs with her.
+
+\t Marie denkt   dat ik   de honden bij ’r/*zich/*zichzelf  breng  .
+\g Marie thinks  that I  the dogs with her/REFL/herself bring
+\l Marie thinks that I will bring the dogs to her.
+
+\t Jan scheert zijn vader met een scheermes .  transitive 
+\g Jan shaves his father with a razor 
+\l Jan shaves his father with a razor.
+
+\t Zijn vader scheert zich met een scheermes .  reflexive 
+\g his father shaves REFL with a razor 
+\l His father shaves with a razor.
+
+\t Jan scheert zijn vader met een scheermes .  transitive verb 
+\g Jan shaves his father with a razor \t Zijn vader scheert zich met een scheermes .  reflexive verb 
+\g his father shaves REFL with a razor \t Jan verwondde zijn tegenstander met zijn mes/*aan het hek .  transitive verb 
+\g Jan hurt his opponent with his knife/on the gate 
+\l Jan hurt his opponent with his knife.
+
+\t Jan verwondde zich aan het hek/met zijn mes .  reflexive verb 
+\g Jan hurt REFL on the gate/with his knife 
+\l Jan hurt himself on the gate.
+
+\t De politie verspreidt de demonstranten/*demonstrant .  transitive verb 
+\g the police disperses the demonstrators/demonstrator 
+\l The police disperse the demonstrators.
+
+\t De demonstranten verspreiden zich .  reflexive verb 
+\g the demonstrators disperse REFL \t *De demonstrant verspreidt zich .
+\g the demonstrator disperses REFL\t Jan heeft/*is het glas gebroken .  transitive; causative 
+\g Jan has/is the glass broken 
+\l Jan has broken the glass.
+
+\t Het glas is/*heeft gebroken .  ergative; inchoative 
+\g the glass is/has broken 
+\l The glass has broken.
+
+\t Jan heeft zich vergist/geschoren .
+\g Jan has REFL mistaken/shaved
+\l Jan has been mistaken/has shaved.
+
+\t Het glas heeft/*is zich gebroken .  Heerlen Dutch 
+\g the glass has/is REFL broken 
+\l The glass has broken.
+
+\t Jan heeft het gerucht verspreid .  transitive/causative 
+\g Jan has the rumor spread \t Het gerucht heeft zich verspreid .  inchoative 
+\g the rumor has REFL spread 
+\l The rumor has spread.
+
+\t Eucalypta verandert Paulus/zichzelf in een schildpad .  transitive/causative 
+\g Eucalypta changes Paulus/herself into a tortoise 
+\l Eucalypta turns Paulus/herself into a tortoise.
+
+\t Eucalypta verandert zich per ongeluk in een schildpad .  inchoative 
+\g Eucalypta changes REFL by accident into a tortoise 
+\l Eucalypta accidentally turns herself into a tortoise.
+
+\t Paulus verandert (*zich) gelukkig niet in een schildpad .  inchoative 
+\g Paulus changes REFL happily not into a tortoise 
+\l Paulus fortunately does not turn into a tortoise.
+
+\t Jan brak zijn arm .  subject  agent 
+\g Jan broke his arm 
+\l Jan broke his (≠ Jan’s) arm.
+
+\t Zijn arm is (door Jan) gebroken .
+\g his arm has.been by Jan broken
+\l His (≠ Jan’s) arm has been broken by Jan.
+
+\t Jan brak zijn arm .  subject  possessor 
+\g Jan broke his arm 
+\l Jan broke his (= Jan’s) arm.
+
+\t *Zijn arm is (door Jan) gebroken .
+\g his arm has.been by Jan broken
+\l Impossible: ‘His (= Jan’s) arm has been broken by Jan.
+
+\t Jan bezeerde zijn arm met het mes/*aan het hek .  subject  agent 
+\g Jan hurt his arm with the knife/on the gate \t Jan bezeerde zichzelf met het mes/*aan het hek .
+\g Jan hurt himself with the knife/on the gate\t Jan bezeerde zijn arm aan het hek/met het mes .  subject  possessor 
+\g Jan hurt his arm on the gate/with the knife \t Jan bezeerde zich aan het hek/met het mes .
+\g Jan hurt REFL on the gate/with the knife\t Jan bezeerde zijn vinger .
+\g Jan hurt his finger\t ⊫ Jan bezeerde zijn hand .
+\g  Jan hurt his hand\t ⊫ Jan bezeerde zich .
+\g  Jan hurt REFL\t Jan brak zijn vinger .
+\g Jan broke his finger\t ⊯ Jan brak zijn hand .
+\g  Jan broke his hand\t ⊯ *Jan brak zich .
+\g  Jan broke REFL\t Jan bezeerde zijn neus
+\g Jan hurt his nose\t ⊫ Jan bezeerde zijn gezicht .
+\g  Jan hurt his face\t ⊯ Jan bezeerde zijn hoofd .
+\g  Jan hurt his head\t Jan waste zijn handen .  subject  agent 
+\g Jan washed his hands \t Zijn handen zijn (door Jan) gewassen .
+\g his hands have.been by Jan washed
+\l His (≠ Jan’s) hands have been washed by Jan.
+
+\t Jan waste zijn handen .  subject  possessor 
+\g Jan washed his hands \t *Zijn handen zijn (door Jan) gewassen .
+\g his hands have.been by Jan washed
+\l Impossible: ‘His (= Jan’s) hands have been washed by Jan.
+
+\t Jan waste zijn vinger .
+\g Jan washed his finger\t ⊯ Jan waste zijn hand
+\g  Jan washed his hand\t ⊯ Jan waste zich
+\g  Jan washed REFL\t Jan waste zich .
+\g Jan washed REFL\t ⊫ Jan waste zijn bovenlijf/armen/…
+\g  Jan washed his upper.body/arms\t Jan brak zijn been/*zich .
+\g Jan broke his leg/REFL\t Jan verveelde zich/*zijn N .  N  body part 
+\g Jan bored REFL/his N 
+\l Jan was bored.
+
+\t Das Pferd hat seinen Fuss verletzt .
+\g the horse has his foot hurt
+\l The horse hurt its foot.
+
+\t Ik was hem de handen .  easternDutch varieties 
+\g I wash him the hands \t Ik was zijn handen .  standard Dutch 
+\g I wash his hands 
+\l I wash his hands.
+
+\t Ik was   de handen R  P hem   .
+\g I was  the hands him\t Jan gaf   het boek R  aan Marie  
+\g Jan gave  the book  to Marie\t Marie zette de tas voor haar voeten (neer) .
+\g Marie put the bag in.front.of her feet down
+\l Marie put the bag (down) in front of her feet.
+
+\t Marie zette de tas voor zich (neer) .
+\g Marie put the bag in.front.of REFL down
+\l Marie put the bag (down) in front of her.
+
+\t Jan legde   het boek voor zich/’m  .
+\g Jan put the book in.front.of REFL/him
+\l Jan put the book in front of him.
+
+\t Jan vindt   het huis te klein voor ’m/*zich  .
+\g Jan considers the house too small for him/REFL\t Jan vindt   dit een probleem voor ’m/*zich  .
+\g Jan considers this a problem for him/REFL
+\l Jan believes this to be a problem for him (= Jan).
+
+\t Marie zette Jan het kind op zijn knie .  possessive dative 
+\g Marie put Jan the child onto his knee \t Marie zette het kind bij Jan op zijn knie .  possessive bijPP 
+\g Marie put the child with Jan on his knee 
+\l Marie put the child on Jan’s knee.
+
+\t  Bij Jan op zijn knie  zette Marie het kind .
+\g with Jan on his knee put Marie the child\t Marie hoorde   Jan ’r/*zich roepen  .
+\g Marie heard Jan her/REFL call
+\l Marie heard Jan call her.
+
+\t Marie liet   Jan op ’r/zich schieten  .
+\g Marie let Jan at REFL/her shoot\t Marie liet Jan   op ’r/zich schieten  .
+\g Marie let Jan at REFL/her shoot
+\l Marie made/let Jan shoot at her.
+
+\t Jan zag zichzelf/zich zwemmen (op TV) .
+\g Jan saw himself/REFL swim on TV\t Jan laat zichzelf/*zich zwemmen .
+\g Jan makes himself/REFL swim\t Jan hoorde zichzelf/zich over Peter praten .
+\g Jan heard himself/REFL about Peter talk\t Jan laat zichzelf/*zich over Peter praten .
+\g Jan makes himself/REFL about Peter talk\t Jan liet zich/zichzelf vallen .
+\g Jan let REFL/himself fall
+\l Jan dropped/fell down.
+
+\t Marie liet   Jan ’r/*zich wekken  .
+\g Marie let Jan her/REFL wake
+\l Marie let Jan wake here up.
+
+\t Marie hoorde   zich/*’r (door Jan) roepen  .
+\g Marie heard REFL/her by Jan call
+\l Marie heard someone/Jan call her.
+
+\t Marie liet   zich/*’r (door Jan) wekken  .
+\g Marie let REFL/her by Jan wake
+\l Marie let someone/Jan wake her up.
+
+\t Marie laat Jan  PRO zich wassen  .
+\g Marie makes Jan  REFL wash
+\l Marie makes Jan wash himself.
+
+\t Marie laat  zich (door Jan) wassen  .
+\g Marie lets REFL by Jan wash
+\l Marie lets herself be washed (by Jan).
+
+\t Jan wast het truitje .  transitive 
+\g Jan washes the sweater \t *Het truitje wast zich gemakkelijk .  reflexive middle 
+\g the sweater washes REFL easily \t Het truitje laat zich gemakkelijk wassen .  reflexive middle 
+\g the sweater lets REFL easily wash 
+\l The sweater washes easily.
+
+\t Marie liet Jan op zich/’r schieten .
+\g Marie let Jan at REFL/her shoot
+\l Marie made/let Jan shoot at her.
+
+\t Marie zag   Jan naar ’r/zich zwaaien  .
+\g Marie saw Jan at himself/REFL/him wave
+\l Marie saw Jan wave at herself.
+
+\t Marie hoorde   Jan naar ’r/zich roepen  .
+\g Marie heard Jan to her/REFL call
+\l Marie heard Jan call to her.
+
+\t Marie hoorde   Jan over ’r/zich praten  .
+\g Marie heard Jan about her/REFL talk
+\l Marie heard Jan talk about her.
+
+\t Jan is     t naar haar toe  gekomen  .  prepositional SC 
+\g Jan is  to her TOE come 
+\l Jan has come towards her.
+
+\t Jan heeft   naar haar gekeken/geroepen  .  PPcomplement 
+\g Jan has to her looked/called 
+\l Jan has looked at/called to her.
+
+\t Marie liet Jan   (PRO) naar zich/’r toe komen  .
+\g Marie let Jan on her/REFL TOE come
+\l Marie made/let Jan come towards her.
+
+\t Marie zag/hoorde   Jan naar zich/’r toe komen 
+\g Marie saw/heard Jan on her/REFL TOE come
+\l Marie saw/heard Jan come towards her.
+
+\t Jon skammer seg/*seg selv .  inherently reflexive verb 
+\g Jon shames REFL/himself 
+\l Jon is ashamed.
+
+\t Jon vasket seg/seg selv .  reflexive/transitive verb 
+\g Jon washed REFL/herself 
+\l Jon washed (himself).
+
+\t Jon beundrer seg selv/*seg .  transitive verb 
+\g Jon admires himself/REFL 
+\l Jon admires himself.
+
+\t Jon snakket om seg selv/*seg .  intransitive verb with objectPP 
+\g Jon talks about himself/REFL 
+\l Jon talked about himself.
+
+\t Hun malte munnen/seg rød .  subject of SC 
+\g she painted the.mouth/REFL red 
+\l She painted her mouth/herself red.
+
+\t Hun trakk dynen over hodet/seg .  compl . of P in locational SC 
+\g she pulled the.duvet over the.head/REFL 
+\l She pulled the duvet over her head/her.
+
+\t Jon så meg sikte på seg/ham .
+\g Jon saw me aim at REFL/him
+\l John saw me aim at him.
+
+\t Jon bad meg   PRO hjelpe ham/seg  .
+\g Jan asked me help him/refl\t Jan vroeg mij   PRO hem/*zich te helpen  .
+\g Jan asked me him/REFL to help
+\l Jon/Jan asked me to help him.
+
+\t Jon gjorde   oss glad i seg/ham 
+\g Jon made us fond on him/REFL\t Jan maakte   ons dol op hem/*zich  .
+\g Jan made us fond of him/REFL
+\l Jon/Jan made us fond of him.
+
+\t Jan is volgens zichzelf/*zich erg aardig .
+\g Jan is according.to himself/REFL very nice
+\l According to himself, Jan is very nice.
+
+\t Jan spreekt namens zichzelf/*zich .
+\g Jan speaks for himselfREFL
+\l Jan speaks for himself.
+
+\t Jan werd door zichzelf/*zich verdedigd .
+\g Jan was by himself/REFL defended
+\l Jan was defended by himself.
+
+\t Jan keek voor/achter/… zich/zichzelf .
+\g Jan looked in.front.of/behind/… REFL/himself
+\l Jan looked in front of/behind/… himself.
+
+\t Jan zag een slang (voor zich/*zichzelf) .
+\g Jan saw a snake in.front.of REFL/himself
+\l Jan saw a snake in front of him.
+
+\t Jan hoorde iemand (achter zich/*zichzelf) .
+\g Jan heard someone behind REFL/himself
+\l Jan heard someone behind him.
+
+\t Det fløy en fugl  over hodet på ham  .
+\g there flew a bird over head-the on him
+\l A bird flew over his head.
+
+\t De måtte fjerne  leveren på ham  .
+\g they must remove the.liver on him
+\l They must remove his liver.
+
+\t * Hendene på henne  gled over ryggen hans .
+\g the.hands on her slid over the.back his
+\l Intended reading: ‘Her hands slid over his back
+
+\t Neglene må klippes  t på ham  .
+\g nails.the must cut-pass on him
+\l His nails must be cut.
+
+\t Marije gaat naar school en Fenna gaat naar de universiteit .
+\g Marije goes to school and Fenna goes to the university
+\l Marije goes to school and Fenna goes to the university.
+
+\t  ?Marije gaat naar school en naar de universiteit gaat Fenna .
+\g Marije goes to school and to the university goes Fenna
+\l Marije goes to school and to University, Fenna goes.
+
+\t *Marije gaat naar school en naar de universiteit Fenna .
+\g Marije goes to school and to the university Fenna\t weil heute nicht gearbeitet wird
+\g because today not worked AUX
+\l because there will be no work done today
+
+\t  weil  der Mann dem Kind das Buch gibt
+\g because the man the child the book gives
+\l because the man gives the book to the child
+
+\t Karl hat mir  ein Bild  einer Frau __i   gegeben ,  die schon lange tot ist _i .
+\g Karl has me a picture a woman _ given that PART long dead is
+\l Karl gave me a picture of a woman that has been dead some time.
+
+\t Karl hat mir  eine Fälschung  des Bildes  einer Frau __i    gegeben ,  die schon lange tot ist _i .
+\g Karl has me a forgery of.the picture of.a woman _ given that PART long dead is
+\l Karl gave me a forgery of the picture of a woman that has been dead for some time.
+
+\t Karl hat mir  eine Kopie  einer Fälschung  des Bildes  einer Frau __i     gegeben ,  die schon lange tot ist _i .
+\g Karl has me a copy of.a forgery of.the picture of.a woman _ given that PART long dead is
+\l Karl gave me a copy of a forgery of the picture of a woman that has been dead for some time.
+
+\t weil er den Wagen zu reparieren versuchen will
+\g because he.NOM the.ACC car to repair try wants
+\l because he wants to try to repair the car
+
+\t Kim ergert zich aan Sandy .
+\g Kim annoys REFL to Sandy
+\l Kim is/gets annoyed at Sandy.
+
+\t Kim ärgert sich über Sandy .
+\g Kim annoys REFL above Sandy
+\l Kim is/gets annoyed at Sandy.
+
+\t Los damit geht es schon am 15 . April .
+\g PART there.with goes it already at.the 15 April
+\l It already starts on April the 15th.
+
+\t Jan z’n boek
+\g Jan POSS book
+\l Jan’s book
+
+\t sebentar pasti hujang karna awang hitam to ?
+\g in.a.moment definitely rain because cloud be.black right?
+\l in a bit it will certainly rain because of the black clouds, right?
+
+\t de suda tidor , kang ? , dia hosa to ?
+\g 3SG already sleep you.know 3SG pant right?
+\l she was already sleeping, you know?, she has breathing difficulties, right?
+
+\t damay , sa bulang oktober sa pu alpa cuma dua saja
+\g peace 1SG month October 1SG POSS be.absent just two just
+\l my goodness!, in October I, I had just only two absences
+
+\t dat het boek Marie waarschijnlijk bevallen zal
+\g that the book.NOM Mary.DAT probably please will
+\l that the book will probably appeal to Mary
+
+\t dat de teugels de jongen waarschijnlijk ontglipten
+\g that the reins.NOM the boys.DAT probably slipped
+\l that the reins probably slipped out of the boys’ hands
+
+\t E tahi nō mahana o te pahī holandese nei i noho mai i nei i Rapa Nui .
+\g NUM one just day of ART ship Dutch PROX PFV stay hither at PROX at Rapa Nui
+\l The Dutch ship only stayed one day here on Rapa Nui (lit. Just one day of the Dutch ship that stayed).
+
+\t Ki iri tāua ki te tāua māmari vīvī kimi .
+\g HORT ascend 1DU.INCL to ART 1DU.INCL egg partridge search
+\l Let’s go up to look for partridge eggs (lit. to search our partridge eggs).
+
+\t Mo pohe ōoku mo oho mo hī , he oho au ki tāaku ika .
+\g if desire POSS.1SG.O for go for to_fish NTR go 1SG to POSS.1SG.A fish
+\l If I desire to go fishing, I go fishing (lit. to my fish).
+
+\t Wat gaat er dan gebeuren , Sander ?
+\g what goes there then happen Sander
+\l What is going to happen then, Sander?
+
+\t Jan heeft het boek gisteren gelezen .
+\g John AUX.3SG the book yesterday GE-read-PART
+\l John read the book yesterday.
+
+\t Hij beweert …
+\g he claim-3SG …
+\l He claims …
+
+\t … te slapen .
+\g _ INF sleep-INF
+\l … to be asleep.
+
+\t … te hebben geslapen toen ik binnen kwam .
+\g _ INF AUX-INF GE-sleep-PART when I in come:PAST.SG
+\l … to have been asleep when I came in.
+
+\t l … dat Tasman het Zuidland wil ontdekken
+\g _ … COMP Tasman DEF.NTR South.Land AUX.VOLITION.SG discover-INF
+\l … that Tasman wants to discover the South Land.
+
+\t … dat Tasman het probeert te ontdekken
+\g _ COMP Tasman it try-3SG INF discover-INF
+\l … that Tasman is trying to discover it.
+
+\t heeft { gewild / *willen }
+\g AUX.3SG _ GE-want-PART / want-INF _
+\l wanted
+
+\t … dat ik schrievm ewild had
+\g _ COMP I write-INF GE-want-PART AUX.PAST.SG
+\l … that I had wanted to write.
+
+\t … obs de hollänesch geleiert hues schwätzen
+\g _ comp.INT-2SG you Dutch GE-learn-PART AUX.2SG speak-INF
+\l … whether you learned to speak Dutch.
+
+\t Hulle het  PP vir reën  gebid .
+\g they have _ for rain prayed
+\l They prayed for rain.
+
+\t Hulle het gebid  PP vir reën  .
+\g they have prayed _ for rain
+\l They prayed for rain.
+
+\t Hulle het  PP daarvoor  gebid .
+\g they have _ there.for prayed
+\l They prayed for it.
+
+\t Hij is op den berg op geklommen .
+\g he is on the hill on climbed
+\l He climbed onto the hill.
+
+\t We moeten maken dat we wegkomen !
+\g we must make that we away-get
+\l We need to leave!
+
+\t fix und fertig / *fertig und fix
+\g fast and ready _ ready and fast
+\l exhausted
+
+\t des duivels
+\g the.GEN devil.GEN
+\l to be very angry
+
+\t van NP houden
+\g from someone/something hold
+\l love someone/something
+
+\t Ik dacht dat ik van mijn aapje houden wou .
+\g I thought that I from my little_monkey hold would.
+\l I though that I would love my little monkey
+
+\t Ik hield van mijn aapje ,
+\g I held from my little_monkey
+\l I loved my little monkey.
+
+\t Hoe groot is Jan ?
+\g how tall is John
+\l How tall is John?
+
+\t Hoe is Jan groot ?
+\g how is John tall
+\l How tall is John?
+
+\t Maria is groter dan hoe groot Jan is .
+\g Mary is taller than how tall John is
+\l Mary is taller than John.
+
+\t Maria is groter dan hoe Jan groot is .
+\g Mary is taller than how John tall is
+\l Mary is taller than John.
+
+\t De tafel is langer dan hoe breed het kantoor is .
+\g the table is longer than how wide the.N office is
+\l The table is longer than the office is wide.
+
+\t De tafel is langer dan hoe het kantoor breed is .
+\g the table is longer than how the.N office wide is
+\l The table is longer than the office is wide.
+
+\t Maria is groter dan hoe Jan is .
+\g Mary is taller than how John is
+\l Mary is taller than John.
+
+\t Nog jaren is / *ben / *bent / *zijn naar een oplossing gezocht .
+\g still years be-3SG / be.1SG / be.2SG / be.PL for a solution searched
+\l People searched for a solution for many years.
+
+\t Het zijn zij die de whisky gestolen hebben .
+\g it are.PL they who the whisky stolen have
+\l It’s them who stole the whisky.
+
+\t Het ben ik die de whisky gestolen heeft .
+\g it am I who the whisky stolen has
+\l It’s me who stole the whisky.
+
+\t Het ben jij die de whisky gestolen heeft .
+\g it are.SG you.SG who the whisky stolen has
+\l It’s you who stole the whisky.
+
+\t Het is hij die de whisky gestolen heeft .
+\g it is he who the whisky stolen has
+\l It’s him who stole the whisky.
+
+\t Het zijn / *is zij die de whisky gestolen hebben .
+\g it are.PL / is they that the whisky stolen have
+\l It’s them who stole the whisky.
+
+\t Ik ben even weg .
+\g I am momentarily away
+\l I am out at the moment.
+
+\t Ik ben aan het/’t werken .
+\g I am on the working
+\l I am working.
+
+\t vloek
+\g curse(C).SG
+\l curse
+
+\t boek
+\g book(N).SG
+\l book
+
+\t dat meisje dat uh die daar achter het stuur zat
+\g DEM.SG.N girl(N)SG REL.SG.N eh REL.SG.C there behind DEF.SG.N wheel(N) sit.PST.3SG
+\l that girl who sat behind the wheel
+
+\t Combien astu lu   de livres en latin  ?
+\g how.many have-you read _ of books in Latin
+\l How many books have you read in Latin?
+
+\t Wat zijn dat   voor vreemde geluiden  ?
+\g what are that _ for strange noises
+\l What kind of strange noises are those?
+
+\t weil deshalb jemand gestern dem Kind schnell das Buch gab
+\g because therefore somebody yesterday the child quickly the book gave
+\l because somebody quickly gave the child the book yesterday
+
+\t weil heute nicht gearbeitet wird
+\g because today not worked is
+\l because there will be no work done today
+
+\t Málo studentů mělo sebemenší šanci složit tu zkoušku .
+\g few students had slightest chance to.pass the exam
+\l Few students had the slightest chance to pass the exam.
+
+\t Málo studentů mělo žádnou šanci složit tu zkoušku .
+\g few students had N-ADJ chance to.pass the exam
+\l Intended: `Few students had any chance to pass the exam.
+
+\t Jan heeft ze geholpen , maar Maria mocht niet .
+\g J. has them helped but M. could not
+\l Jan helped them, but Maria could not.' (Dutch)
+
+\t Jan heeft ze geholpen , maar Ik heb niet .
+\g J. has them helped but I have not
+\l Intended: `Jan helped them, but I did not.' (Dutch)
+
+\t Ik weet wie Katrien moet uitnodigen maar ik weet niet wie ze moet niet .
+\g I know who K. must invite but I know not who she must not
+\l Intended: `I know whom Katrien must invite, but I don't know whom she must not.' (Dutch; )
+
+\t Deze broek moet niet gewassen worden , maar die rok moet wel .
+\g this pants must not washed become but that skirt must PRT
+\l These pants don't need to be washed, but that skirt does.' (Dutch; )
+
+\t Hij moet goed kunnen koken .
+\g he must well can cook
+\l He must be able to cook well.'(Dutch; )
+
+\t Jan kon naar het feest kommen , maar Piet mocht niet .
+\g J. could to the party come but P. could not
+\l Jean could come to the party, but Piet was not allowed.' (Dutch)
+
+\t Het zou waar kunnen zijn , maar het hoeft niet .
+\g it should true can be but it should not
+\l It should be true, but it shouldn't have to.' (Dutch)
+
+\t Jan zal je antwoorden , maar ik kan ( het) niet .
+\g J. will you answer but I can _ it not
+\l Jan will answer you, but I can't.' (Dutch)
+
+\t Joris leest elk boek dat hij (* het) kan .
+\g J. reads every book that he _ it can
+\l Joris reads every book he can.' (Dutch)
+
+\t Joris leest elk boek dat Monika moet niet .
+\g J. reads every book that M. must not
+\l Intended: `Joris reads every book that Monika doesn't have to.' (Dutch; )
+
+\t Het speelgoed had ik al gekocht , maar het boekje kon ik niet .
+\g the toy have I already bought but the book could I not
+\l Intended: `I have already bought the toy, but I haven't yet been able to buy the book.' (Dutch)
+
+\t Ik zal voor hem stemmen , en je kan voor haar .
+\g I will for him vote and you can for her
+\l Intended: `I will vote for him and you can for her.' (Dutch; )
+
+\t Deze tekst kan hardop gelezen worden , maar deze poëzie kan echt niet (* zijn) .
+\g this text can aloud read be but this poetry can really not _ be
+\l This text can be read aloud but this poetry cannot be.' (Dutch)
+
+\t Dit probleem had al lang geleden opgelost moeten worden maar niemand kon *( het opgelessen) .
+\g this problem had already long ago solved must be but nobody could _ it solve
+\l This problem had to be solved long ago, but nobody could solve it.' (Dutch)
+
+\t Svoje starše se spoštuje .
+\g self parents.ACC SE respect.3SG
+\l People respect their parents.
+
+\t Janez se spoštuje svoje starše .
+\g Janez.NOM SE respect.3SG self parents.ACC
+\l Intended: `Janez respects his parents.
+
+\t Des te meer je leest , je begrijpt des te minder .
+\g the.GEN TE more you read you understand the.GEN TE less
+\l *The more you read the more you understand.
+
+\t Jij loopt dagelijks met een hondje over straat .
+\g you walk-2SG daily with a doggy over street\t Ne sceole ge swa softe sinc gegangen .
+\g NEG must you so easily treasure obtain
+\l You must not obtain treasure so easily.
+
+\t Jan heeft het gisteren  PP daar over (*daar)  gehad .
+\g Jan has it yesterday _ there about _ had
+\l Jan talked about that yesterday.
+
+\t Er werd hard gewerkt .
+\g there became hard worked
+\l *There was hard work.
+
+\t * Er werd gebloed .
+\g _ there became bled
+\l * *There was bleeding.
+
+\t Ik word verslagen .
+\g I become beaten
+\l *I am beaten.
+
+\t Het beeldje heeft op de tafel gestaan .
+\g the picture has on the table stood
+\l *The picture stood on the table.
+
+\t Sofie is een geode docente gebleken .
+\g Sofie is a good teacher seemed
+\l *Sofie seemed a good teacher.
+
+\t Gisteren vierde Ian zijn verjaardag .
+\g Yesterday celebrated Ian his birthday
+\l *Ian celebrated his birthday yesterday.
+
+\t Gisteren Ian vierde zijn verjaardag .
+\g yesterday Ian celebrated his birthday
+\l Intended: `Ian celebrated his birthday yesterday.
+
+\t En dan hij gaat weg .
+\g and then he goes away
+\l *And then he goes away.
+
+\t toen we hadden eerst twee autos
+\g then we had first two cars
+\l *Then, we first had two cars (and later only one).
+
+\t NoordWales , dat is echt een mooie plek om op vakantie te gaan .
+\g North_Wales that is really a lovely place to on holiday to go.INF
+\l *North Wales, thats a really lovely place to go on holiday.
+
+\t Die boeken , die moet je zorgvuldig behandelen .
+\g those books those must you carefully treat.INF
+\l *As for those books, you should treat those with care.
+
+\t Als je haar iets vraagt , nooit antwoordt ze op tijd .
+\g if you her something ask.2SG never reply.3SG she on time
+\l *If you ask her something, she never replies on time.
+
+\t Als er morgen een probleem is , MIJ moet je niet bellen .
+\g if there tomorrow a problem is me must you not call
+\l *If there is a problem tomorrow, don't call ME!
+
+\t Als mijn tekst klaar is , ik zal hem opsturen .
+\g when my text ready is I shall it send
+\l *When my text is ready, I will send it.
+
+\t Een keertje ik was gewoon aan het fietsen
+\g one time I was just on the cycle.INF
+\l *One time I was just cycling.
+
+\t Op een gegeven moment hij douwt zo'n mais in zijn kont .
+\g at a given moment he pushes such.a corn.cob in his butt
+\l *At some point he pushes a corn cob in his butt.
+
+\t Een keertje was ik gewoon aan het fietsen
+\g one time was I just on the cycle.INF
+\l *One time I was just cycling.
+
+\t Omdat ik vind het niet goed .
+\g because I find it not good
+\l *Because I don't think it's right.
+
+\t Omdat hij is Marokkaan natuurlijk .
+\g because he is Moroccan obviously
+\l *Obviously because he is Moroccan.
+
+\t … omdat ik het niet goed vind .
+\g _ because I it not good find
+\l *… because I don't think it's right.
+
+\t … omdat hij Marokkaan is natuurlijk .
+\g _ because he Moroccan is obviously
+\l *… obviously because he is Moroccan.
+
+\t Want ik vind het niet goed .
+\g because I find it not good
+\l *Because I don't think it's right.
+
+\t zogenaamd je hebt geen geld meer
+\g as-if you have no money anymore
+\l *As if you no longer have any money (left).
+
+\t … maar wel ik begrijp alles .
+\g _ but still I understand everything
+\l *…but I do understand everything
+
+\t je hebt zogenaamd geen geld meer
+\g you have as-if no money anymore
+\l *As if you no longer have any money (left).
+
+\t … maar ik begrijp wel alles .
+\g _ but I understand still everything
+\l *… but I do understand everything
+
+\t Soms ik gooi iets op de grond .
+\g sometimes I throw something on the floor
+\l *Sometimes I throw something on the floor.
+
+\t één keer we zaten bij big Mo film te , televisie te kijken
+\g one time we sat.PL at big Mo film to tv to watch.INF
+\l *Once we were watching a film, tv at big Mos.
+
+\t Toen ze vroegen ID .
+\g then they asked.PL ID
+\l *Then they asked for ID.
+
+\t Daarna jij ging mee .
+\g afterwards you went along
+\l *Afterwards you went along.
+
+\t vroeger mensen gingen lopend
+\g in.the.past people went.PL on.foot
+\l *In the past people would go on foot.
+
+\t daarna die , die leraar heeft niet meer lesgegeven
+\g afterwards that that teacher has no longer taught
+\l *Afterwards that, that teacher hasn't taught anymore.
+
+\t Op een gegeven moment iemand zegt tegen hem je moet naar Fez
+\g at a certain time someone says to him you must to Fez
+\l *At some point someone says to him: you must go to Fez.
+
+\t daarna de rest zegt ik ga niet
+\g afterwards the rest says I go not
+\l *Afterwards the rest says: I'm not going.
+
+\t Vaak het probleem is dat ze met de jaren verwachten ze meer .
+\g often the problem is that they with the years expect.PL they more
+\l *Often the problem is that they – as the years go by – expect more.
+
+\t Toen vroegen ze ID .
+\g then asked.PL they ID
+\l *Then they asked for ID.
+
+\t Denk je hij weet Gouda uit zijn hoofd ?
+\g think you he knows Gouda from his head
+\l *Do you think (that) he knows Gouda by heart?
+
+\t Denk je dat hij Gouda uit zijn hoofd weet ?
+\g think you that hij Gouda from his head knows
+\l *Do you think (that) he knows Gouda by heart?
+
+\t Ik heb hem het eten bezorgd .
+\g I have him the food delivered
+\l I delivered the food to him.
+
+\t Hij werd het eten bezorgd (door mij) .
+\g he was the food delivered (by me)
+\l He was delivered the food by me.
+
+\t Het eten werd hem bezorgd (door mij) .
+\g the food was him delivered (by me)
+\l The food was delivered to him by me.
+
+\t Jan schaamt zich / *zichzelf .
+\g Jan shames REFL.3 _ REFL.3-SELF
+\l *John is ashamed (of himself).
+
+\t Jan haat *zich / zichzelf .
+\g John hates REFL.3 _ REFL.3-SELF
+\l *John hates himself.
+
+\t een wat ik zou noemen eenvoudig*(e) oplossing
+\g a what I would call simple solution\t een erg(e) leuke auto
+\g a very-(e) nice-e car\t een   erg(E) / afgrijselijk(E) / ongelofelijk(E) dure   auto
+\g a _ very(-E) _ horrible(-E) _ unbelievable(-E) expensive-AGR _ car
+\l a very/horribly/unbelievably expensive car
+
+\t een  erg(E) leuke  auto
+\g a very-E nice-AGR car\t  erg(E) leuke  auto's
+\g very-E nice-AGR cars\t een  erg(*E) leuk  huis
+\g a very-E nice house\t erg(E) leuke huizen
+\g very(-E) nice-AGR houses\t Jan heeft   een   heel lief   konijn   en Marie heeft   een   heel stout   konijn   .
+\g Jan has _ a _ very sweet _ rabbit _ and Marie has _ a _ very naughty _ rabbit _\t Deze auto is erg(*E) leuk .
+\g this car is very(-E) nice
+\l *This car is really nice.
+
+\t een compleet /
+\g a complete _
+\l *a completely empty room
+
+\t een volledig /
+\g a complete _
+\l *a completely naked woman
+
+\t een praktisch /
+\g a virtual _
+\l *a practically empty room
+
+\t een   vermoedelijk(*E) / tijdelijk(*E) /   gelukkig(*E) goedkope   fiets
+\g a _ presumable-E _ temporary-E _ _ fortunate-E cheap-AGR _ bike
+\l *a presumably/temporarily/fortunately cheap bike
+
+\t een zeer/*zerE dure auto
+\g a very/very-E expensive-AGR car\t een  AxP helE ergE dure   fiets
+\g a _ very-E much-E expensive-AGR _ bike
+\l *a really very expensive bike
+
+\t een  AxP heel erg dure   auto
+\g a _ real very expensive-AGR _ car
+\l *a really very expensive car
+
+\t een erg erg dure auto
+\g a very very expensive car
+\l *a really very expensive car
+
+\t een erg ja erg ja erg goeie grap
+\g a very yes very yes very good joke
+\l *a really, yes, really good joke!
+
+\t een   maandenlang over zijn toekomst erg(*E) twijfelende   leerling
+\g a _ months.long about his future much(-E) doubting-AGR _ student
+\l *a student who has been very much in doubt about his future for months
+
+\t een   zich al jaren daarop erg(*E) verheugende   man
+\g a _ REFL already years that.to much(-E) look.forward-AGR _ man
+\l *a man who has been rejoiced at that for many years
+
+\t een   toendertijd door iedereen erg(*E) gehate   dictator
+\g a _ at.the.time by everyone very(-E) hated-AGR _ dictator
+\l a dictator who was hated very much by everyone at the time
+
+\t een   toendertijd door iedereen erg(*E) gewantrouwde   president
+\g a _ at.the.time by everyone very-E distrusted-AGR _ president
+\l *a president who was distrusted very much by everyone at the time
+
+\t een   erg(E) opwindende   gebeurtenis
+\g a _ very(-E) exciting-AGR _ event
+\l *a very exciting event
+
+\t een   nog opwindendere   gebeurtenis
+\g an _ even exciting-CMPR-AGR _ event
+\l an even more exciting event
+
+\t een   nog geïnteresseerdere   student
+\g an _ even interested-CMPR-AGR _ student
+\l an even more interested student
+
+\t een   onopwindende   gebeurtenis
+\g an _ unexciting-AGR _ event
+\l an unexciting event
+
+\t een   ongeïnteresseerde   student
+\g an _ uninterested-AGR _ student
+\l an uninterested student
+
+\t een  heel opwindende  gebeurtenis
+\g a very exciting-AGR event
+\l a very exciting event
+
+\t een nog twijfelendere student
+\g an even doubting-CMPR-AGR student
+\l a student who is even more in doubt
+
+\t een   hem erg(*E) opwindende   jurk
+\g a _ him very(-E) exciting-AGR _ dress
+\l *a dress that excites him a lot
+
+\t een   erg(E) opwindende   jurk
+\g a _ very(-E) exciting-AGR _ dress
+\l *a very exciting dress
+
+\t een   niet alleen  AP afgrijselijkE dure   maar ook  AP afgrijselijkE lelijke    fiets
+\g a _ not only _ horrible-E expensive _ but also _ horrible-E ugly _ bike
+\l a horribly expensive but also horribly ugly bike
+
+\t een daarvan ergE afhankelijke jongen
+\g a that.on very-E dependent-AGR boy
+\l *a boy who is very dependent on that
+
+\t  DP een  daarvani  NP ergE  NP  ti afhankelijke   NP jongen     
+\g _ a that-on _ very-E _ _ dependent-AGR _ boy
+\l *a boy very much dependent on that
+
+\t  DP een  NP vriendelijke  NP  daarvan afhankelijke   NP jongen    
+\g _ a _ friendly-AGR _ that-on dependent-AGR _ boy
+\l *a friendly boy who is very much dependent on that
+
+\t een   {vermoedelijk / tijdelijk / gelukkig}   vreselijk goedkope    fiets
+\g a _ presumably _ temporarily _ fortunately _ extremely cheap-AGR _ bike
+\l *a presumably/temporarily/fortunately extremely cheap bike
+
+\t  AP Daarmee erg *daarmee blij daarmee   was Jan .
+\g _ 〈that.with very _ happy _ _ was Jan
+\l *Jan was very happy with that.
+
+\t een  AxP heel erg dure  fiets
+\g a _ real very expensive-AGR bike
+\l *a really very expensive bike
+
+\t een   daarvan erg daarvan afhankelijke   man
+\g a _ 〈that.on very _ dependent-AGR _ man
+\l *a man who is very dependent on that
+
+\t een   daarop erg daarop gestelde   man
+\g a _ 〈that.on very _ keen-AGR _ man
+\l *a man who is very keen on that
+
+\t een   daaraan erg daaraan verkochte   man
+\g a _ 〈that.to very _ devoted-AGR _ man
+\l *a man who is very devoted to that
+
+\t een   daarmee heel blije   man
+\g a _ that.with very happy-AGR _ man
+\l *a man who is very happy with that
+
+\t een   daarvan heel *daarvan afhankelijke   man
+\g a _ that.on very _ dependent-AGR _ man
+\l *a man who is very dependent on that
+
+\t Jan heeft zich daarop voldoende daarop verheugd .
+\g Jan has REFL that.on sufficiently _ looked.forward
+\l *Jan has looked forward to that sufficiently.
+
+\t Jan is   daarvan voldoende daarvan afhankelijk daarvan  
+\g Jan is _ that.on sufficiently _ dependent _ _
+\l *Jan is sufficiently dependent on that.
+
+\t Jij krijgt geen ijsje maar ik(e) wel !
+\g you get no ice-cream but I(-e) PTCLpositive
+\l *You wont get an ice cream, but I will!
+
+\t A: Wie wil er een ijsje ? B: Ik(e) !
+\g _ who wants there an ice-cream _ I(-e)
+\l A: *Who would like to have an ice cream? B: *Me!
+
+\t noar kerke
+\g to church-e
+\l *to church
+
+\t Lampe wil nait bran'n .
+\g lamp-e will not light
+\l *The lamp won't light.
+
+\t Jan heeft  een  AP verdomd(E) leuk   huis !
+\g Jan has a _ damned-E nice _ house
+\l *Jan has a really nice house.
+
+\t Jan heeft  een  AP verrekt(E) leuk   huis !
+\g Jan has a _ damned-E nice _ house
+\l *Jan has a really nice house.
+
+\t Deze auto is  verdomd(E) leuk  .
+\g this car is damned-E nice
+\l *This car is really nice!
+
+\t Deze auto is  verrekt(E) leuk 
+\g this car is damned-E nice
+\l *This car is really nice!
+
+\t Verrekt(*E) ! Je hebt gelijk !
+\g damned you have right
+\l Gosh! You are right!
+
+\t Verdomd(*E) ! Je hebt gelijk !
+\g damned you have right
+\l Gosh! You are right!
+
+\t Deze auto is   erg∅ leuk∅   .
+\g this car is _ very nice _
+\l *This car is really nice.
+
+\t Er werd mij beloofd / aangeboden om me op de hoogte te houden .
+\g there was I.DAT promised _ offered COMP me on the height to keep.INF
+\l It was promised/offered to me to keep me informed.
+
+\t De kinderen hebben de leraren overtuigd om ze te mogen kietelen .
+\g the children have the teachersL convinced COMP themL to may tickle
+\l The children convinced the teachers to be allowed to tickle them.’ (PRO=children 51)
+
+\t De leraren werden overtuigd om ze te mogen kietelen .
+\g the teachersL were convinced COMP themL to may tickle
+\l Lit. ‘The teachers were convinced to be allowed to tickle them.
+
+\t De leraren werden door de kinderen overtuigd ze te mogen kietelen .
+\g the teachersL were by the children convinced themL to may tickle
+\l The teachers were convinced by the children that they (the
+
+\t Der Lehrer wurde von den Kindern gebeten , ihn kitzeln zu dürfen .
+\g the.NOM teacherL was by the children begged himL tickle to may
+\l Lit. ‘The teacher was begged to be allowed to tickle him.
+
+\t De leraar werd door de kinderen gesmeekt niet weer hun best te hoeven doen .
+\g the teacher was by the children begged not again their best to have do
+\l The teacher was begged by the children that they wouldn’t have to do their best again.
+
+\t Der Lehrer wurde von den Kindern angefleht , nicht wieder ihr Bestes geben zu müssen .
+\g the.NOM teacher was by the children beseeched not again their best give to must
+\l The teacher was beseeched by the kids that they wouldn’t have to give their best again.
+
+\t Mij werd beloofd (om) zijn / haar / hun best to doen .
+\g I.DAT was promised COMP his _ her _ their best to do
+\l lit. ‘I was promised to do his/her/their best.
+
+\t veel brodjes
+\g many bread-DIM-PL
+\l many rolls'(Dutch; )
+
+\t Eén patat met , één zonder , en één met satésaus , alstublieft .
+\g one french.fries with one without and one with peanut.sauce please
+\l One french fries with [mayonnaise], one without, and one with peanut sauce, please.' (Dutch, )
+
+\t frontovaja stogrammovka
+\g front-ADJ-F.SG 100-gram-KA.NOM.SG
+\l a standard 100-gram portion of vodka for soldiers
+
+\t Prinjav… neskol'ko “ frontovyx stogrammovok” , general rasslabilsja , podobrel .
+\g having.taken few _ front 100-gram-KA.GEN.PL general relaxed became.kinder
+\l Having drunk a few front 100-gram portions of vodka, the general got himself into a more relaxed and kind mood.' [[proza.ru](https://www.proza.ru/2012/07/06/1250)]
+
+\t … dat Jan het boek aan Marie gaf
+\g … that John the book to Mary gave
+\l … that John gave the book to Mary.
+
+\t Ik heb niemand nie gezien .
+\g I have nobody NEG seen
+\l I have seen nobody.
+
+\t Ik heb iemand nie gezien .
+\g I have somebody NEG seen
+\l I have seen nobody.
+
+\t (Aan) wie laat Paul zijn viool zien ?
+\g to whom allows Paul his violin see
+\l Who allows Paul to see his violin?
+
+\t (Aan) Toos .
+\g to Toos
+\l Toos.
+
+\t Hij heeft iemand gezien , maar ik weet niet {wie |*wie of |*wie dat |*wie of dat} .
+\g he has somone seen but I know not {who |*who if |*who that |*who if that
+\l He saw someone, but I don’t know who.
+
+\t Hon gav mig brevet .
+\g she gave me letter:DEF
+\l She gave me the letter.’ (1976–1999)
+
+\t Hon räckte honom brödfatet .
+\g she handed him bread_plate:DEF
+\l She handed him the bread plate.’ (1976–1999)
+
+\t så jag tyckte jag skulle skicka er brevet .
+\g so I thought I should send you letter:DEF
+\l so I thought I should send you the letter.’ (1976–1999)
+
+\t dat hij graag wilde kraanvogels fotograferen
+\g that he gladly wanted cranes photograph
+\l Intended reading: ‘that he gladly wanted to photograph cranes
+
+\t dat hij zal naar huis willen gaan
+\g that he will to home want go
+\l Intended reading: ‘that he’ll want to go home’ (from )
+
+\t Er baut die Häuser .
+\g he.NOM builds the.ACC houses
+\l He builds the houses.
+
+\t Er verbaut die schöne Aussicht (mit den Häusern) .
+\g he.NOM PREF-builds the.ACC beautiful view with the.DAT houses
+\l He obstructs the beautiful view (by building houses).
+
+\t Er baut die schöne Aussicht (mit den Häusern) zu .
+\g he.NOM builds the.ACC beautiful view with the.DAT houses PTCL
+\l He obstructs the beautiful view (by building houses).
+
+\t eine   hervorragend geeignete (*dafür)   Kandidatin  
+\g an outstandingly eligible for.it candidate
+\l an outstandingly eligible candidate for this
+
+\t eine   um Vieles bessere (*als gedacht)   Lösung  
+\g a by much better than thought solution
+\l a by much better solution than thought
+
+\t Diese Beschränkung könnte  VP  viel faszinierender als das EPP  sein  .
+\g this constraint could _ much more.fascinating than the EPP be
+\l This constraint could be much more fascinating than the EPP.
+
+\t dat beslissingen  veel meer dan werd gedacht  gedreven worden door emoties
+\g that decisions much more than was thought driven were by emotions
+\l that decisions were driven by emotions much more than thought
+
+\t een veel sneller (*dan een paard) dier
+\g a much faster than a horse animal
+\l a much faster animal than a horse
+
+\t Der Preis ist  AP als der Wert höher  .
+\g the price is _ than the value higher
+\l The price is higher than the value.
+
+\t der  AgrP  AP ei als der Wert  höherei  Preis
+\g the _ _ _ than the value higher price
+\l the price which is higher than the value
+
+\t  Er  hat   viel öfter (als jeder andere)  gepunktet . 
+\g he has much more.often than anyone else scored
+\l He has scored much more often than anyone else.
+
+\t Hij heeft vaker (dan iemand anders) gescoord .
+\g he has more.often than anyone else scored
+\l He has scored more often than anyone else.
+
+\t wa me nika wa me pi watko kanietet to
+\g PROX TOP fishing_line PROX TOP 1PL.INCL PROX.LOC tie= right
+\l This is fishing line, this we tie here, don't we?' *[[stim15_1:11]](http://hdl.handle.net/10050/00-0000-0000-0004-1C75-D)
+
+\t tumun opa me per nerunggo to
+\g child ANA TOP water inside right
+\l So that child is in the water, you see?' *[[stim21_0:28]](http://hdl.handle.net/10050/00-0000-0000-0004-1B94-F)
+
+\t Kim sieht den Fuchs .
+\g Kim sees the fox
+\l Kim sees the fox.
+
+\t Kim hat den Fuchs gesehen .
+\g Kim has the fox seen
+\l Kim has seen the fox.
+
+\t Toen hebben de autoriteiten het kind de moeder teruggegeven
+\g then have the authorities the child the mother back.given
+\l Intended: `The authorities gave back the child to the mother.
+
+\t omdat het kind de eekhoorn de noot gisteren gaf
+\g because the child the squirrel the nut yesterday gave
+\l because the child gave the squirrel the nut yesterday
+
+\t dat Kim het boek wil lezen
+\g that Kim the book wants read
+\l 'that Kim wants to read the book
+
+\t dat Kim Sandy het boek laat lezen
+\g that Kim Sandy the book lets read
+\l 'that Kim lets Sandy read the book
+
+\t dat Kim Sandy het boek wil laten lezen
+\g that Kim Sandy the book wants let read
+\l 'that Kim wants to let Sandy read the book
+
+\t weil heute nicht gearbeitet wird
+\g because today not worked AUX
+\l because there will be no work done today
+
+\t Den Roman hat jemand dem Kind gegeben .
+\g the.ACC novel has somebody.NOM the.DAT child given
+\l Somebody has given the child the novel.
+

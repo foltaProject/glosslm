@@ -1,0 +1,56 @@
+\t čofta odt pērrht
+\g very new house(NOM:SG)
+\l a very new house
+
+\t čofta odt pērhtes't
+\g very new house-LOC:SG
+\l in a very new house
+
+\t čofta odt
+\g very new(NOM:SG)
+\l a very new one
+
+\t čofta odes't
+\g very new-LOC:SG
+\l in a very new one
+
+\t tuel' al'n
+\g chair\GEN on
+\l on the chair
+
+\t vīl'kes' puaz
+\g white-ATTR reindeer
+\l white reindeer
+
+\t puaz lī vīll'ke
+\g reindeer is white-PRED
+\l the reindeer is white
+
+\t Tedt pērrht lī ēll .
+\g DEM house COP high
+\l This house is high.
+
+\t Tedt lī ēl'l'es' pērrht .
+\g DEM COP high-ATTR house
+\l This is a high house.
+
+\t Tegk liev ēl'l'es' pērht .
+\g DEM COP high-ATTR house\PL
+\l These are high houses.
+
+\t ēl'l'es' pērrht .
+\g high-MOD house
+\l a/the high house
+
+\t pērht al'n
+\g house\MOD on
+\l on a/the house
+
+\t ja munn naadʹeda tedt lańń meellt tońńe .
+\g and 1SG believe.1SG this country please.3SG 2SG.ILL
+\l and I believe that you will like this country.
+
+\t Peennge meellt kuullʹ .
+\g dog.ILL please.3SG fish
+\l The dog likes fish.’ (Lit. ‘Fish pleases the dog.’)
+

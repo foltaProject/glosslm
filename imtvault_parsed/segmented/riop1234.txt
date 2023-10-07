@@ -1,0 +1,153 @@
+\t A Menem , nadie lo votará a ese estafador sinvergüenza .
+\g A Menem.M.SG nobody CL.M.SG vote.FUT.3SG A that swindler shameless.M.SG
+\l (Carlos) Menem, nobody will vote for that shameless swindler.
+
+\t A los políticos los odio a los idiotas .
+\g A the politicians.M.PL CL.M.PL hate.1SG A the idiots.M.PL
+\l I hate politicians, those idiots.
+
+\t En el trabajo , a su hermano Mara me dijo que no lo aguantan a ese tarugo .
+\g in the work A his brother.M.SG Mara me tell.PST.3SG that no CL.M.SG stand.3PL A that jackass.M.SG
+\l Mara told me that they can’t stand her idiot brother at work.
+
+\t En el trabajo , Mara me dijo que no lo aguantan   ese tarugo su hermano  .
+\g in the work Mara me tell.PST.3SG that no CL.M.SG stand.3PL  that jackass.M.SG his brother.M.SG\t A ningún estudiante lo bocharon a los suertudos .
+\g A no.one student.M.SG CL.M.SG fail.PST.3PL A the lucky.M.PL
+\l But no student was failed, the lucky dogs.
+
+\t *A ningún estudiante los bocharon a los suertudos .
+\g A no.one student.M.SG CL.M.PL fail.PST.3PL A the lucky.M.PL
+\l (‘But no student was failed, the lucky dog(s).’)
+
+\t *A ningún estudiante lo bocharon al suertudo .
+\g A no.one student.M.SG CL.M.SG fail.PST.3PL A.the lucky.M.SG
+\l (‘But no student was failed, the lucky dog.’)
+
+\t *Lo bocharon a los suertudos .
+\g CL.M.SG fail.PST.3PL A the lucky.M.PL
+\l (‘They failed the lucky devils.’)
+
+\t Ningún estudiante es un suertudo /* unos suertudos .
+\g no.one student.M.SG be.3SG a lucky.M.SG  some lucky.M.PL
+\l No student is a lucky dog.
+
+\t No considero a   ningún estudiante un suertudo /* unos suertudos 
+\g no consider.1SG A  no.one student.M.SG a lucky.M.SG  some lucky.M.PL
+\l I do not consider any student a lucky dog.
+
+\t No lo/los bocharon *  unos/los suertudos ningún estudiante 
+\g no CL.M.SG/CL.M.PL fail.PST.3PL  some/the lucky.M.PL no.one student.M.SG
+\l (‘The students weren’t failed, the lucky bastards.’)
+
+\t No bocharon a ningún estudiante . *pro Había estudiado mucho .
+\g no fail.PST.3PL A no.one student.M.SG  have.PST.3SG studied much
+\l They did not fail any student. *S/he had studied a lot.
+
+\t No bocharon a ningún estudiante . pro Habían estudiado mucho .
+\g no fail.PST.3PL A no.one student.M.SG  have.PST.3PL studied much
+\l They did not fail any student. They had studied a lot.
+
+\t No bocharon a ningún estudiante . *pro Es un suertudo .
+\g no fail.PST.3PL A no.one student.M.SG  be.3SG a lucky.M.SG
+\l They did not fail any student. *He is lucky.
+
+\t No bocharon a ningún estudiante . pro Son unos suertudos .
+\g no fail.PST.3PL A no.one student.M.SG  be.3PL some lucky.PL
+\l They did not fail any student. They are lucky.
+
+\t A Pepe lo odio al idiota .
+\g A Pepe CL.M.SG hate.1SG A.the idiot.M.SG
+\l I hate that idiot Pepe.
+
+\t A su mujer todo marido la engaña a la muy desgraciada .
+\g A his wife every husband CL.F.SG cheat.on.3SG A the very unfortunate.F.SG
+\l Every husband cheats on his poor unfortunate wife.
+
+\t Lo odio a Pepe . No lo puedo ver al idiota .
+\g CL.M.SG hate.1SG A Pepe. no CL.M.SG can.1SG see A.the idiot.M.SG
+\l I hate Pepe. I can’t stand the idiot.
+
+\t A mi vecina yo no la considero a esa yegua una amiga .
+\g A my neighbor.F.SG I no CL.F.SG consider.1SG A that mare.F.SG a friend.F.SG
+\l My neighbor, I don’t consider that bitch a friend.
+
+\t A Mara la atropellaron a la pobre a propósito .
+\g A Mara.F.SG CL.F.SG run.over.PST.3PL A the poor.F.SG on purpose
+\l They ran Mara over on purpose, the poor sod.
+
+\t A los alumnos los dejo a los tarambanas copiarse .
+\g A the students.M.PL CL.M.PL leave.1SG A the scatterbrains.M.PL to.copy
+\l The students, I let those scatterbrains copy off of someone else.
+
+\t A Mara la considero a esa loca linda una genia .
+\g A Mara.F.SG CL.F.SG consider.1SG A that crazy cutie.F.SG a genius.F.SG
+\l I consider Mara, that crazy cutie, a genius.
+
+\t A Mara la considero una genia a esa loca linda .
+\g A Mara.F.SG CL.F.SG consider.1SG a genius.F.SG A that crazy cutie.F.SG
+\l I consider Mara, that crazy cutie, a genius.
+
+\t A pocos corruptos los condenan a los hijos de puta .
+\g A few corrupt.PL CL.M.PL sentence.3PL A the sons of bitch.M.PL
+\l Few corrupt politicians are sentenced, the bastards (=all corrupt politicians).
+
+\t No voté a Méndez . No voté al peor presidente que tuvimos .
+\g no vote.PST.1SG A Méndez no vote.PST.1SG A.the worst president.M.SG that have.PST.1PL
+\l I didn’t vote for Méndez. I didn’t vote for the worst president we’ve had.
+
+\t *A Méndez no lo voté al peor presidente que tuvimos .
+\g A Méndez no CL.M.SG vote.PST.1SG A.the worst president.M.SG that have.PST.1PL
+\l (‘I didn’t vote for Méndez, the worst president that we’ve had.’)15
+
+\t Premiaron a cada estudiante . pro Son unos suertudos .
+\g give.award.PST.3PL A each student.SG  be.3PL some lucky.M.PL
+\l They gave awards to each student. They are lucky.
+
+\t *A cada estudiante lo premiaron a los suertudos .
+\g A each student.SG CL.M.SG give.award.PST.3PL A the lucky.M.PL
+\l (‘Each student was given a prize, the lucky dogs.’)
+
+\t *A cada estudiante lo premiaron al suertudo .
+\g A each student.SG CL.M.SG give.award.PST.3PL A.the lucky.M.SG
+\l (‘Each student was given a prize, the lucky dog.’)
+
+\t Tenés que hablar con cada estudiante .
+\g have.2SG that to.talk with each student.SG
+\l You have to talk with each student.’ (one by one but not all together)
+
+\t Habló con casi todos los estudiantes . / * casi cada estudiante .
+\g talk.PST.3SG with almost all the student.M.PL almost each student.SG
+\l S/he talked to almost every/*each student.
+
+\t  ?A cada estudiante lo premiaron sus padres a los suertudos .
+\g A each student.SG CL.M.SG give.award.PST.3PL his parents A the lucky.M.PL
+\l Each student was given a prize by their (own) parents, the lucky dogs.
+
+\t La moto la vendí esa porquería .
+\g The motorcycle.F.SG CL.F.SG sell.PST.1SG that junk.F.SG
+\l I sold the motorcycle, that piece of junk.
+
+\t Lo considero un genio .
+\g CL.M.SG consider.1SG a.M.SG genius.M.SG
+\l I consider him a genius.
+
+\t A Pepe lo odio a *un idiota .
+\g A Pepe.M.SG CL.M.SG hate.1SG A a.M.SG idiot.M.SG
+\l (‘I hate that idiot Pepe.’)
+
+\t A mi jefe lo odio a esa víbora .
+\g A my boss.M.SG CL.M.SG hate.1SG A that snake.F.SG
+\l I hate my boss, that snake.
+
+\t Mi jefe es una víbora .
+\g my boss.M.SG be.3SG a snake.F.SG
+\l My boss is a snake.
+
+\t A Méndez no lo voté al hijo de una caravana de diez mil putas .
+\g A Méndez no CL.M.SG vote.PST.1SG A.the son of a caravan of ten thousand whores.M.SG
+\l I didn’t vote for Méndez, the son of a caravan of a thousand whores.
+
+\t Ana lo contrató a Juan y Paula lo contrató a Pedro .
+\g Ana CL.ACC.3SG hired DOM Juan and Paula CL.ACC.3SG hired DOM Pedro
+\l Ana hired John and Paula (hired) Pedro.
+

@@ -1,0 +1,404 @@
+\t rām ne jo kitab xarīdī vah bahut mahangī thī .
+\g Ram agent RelC book bought that very expensive was
+\l The book that Ram bought was very expensive.
+
+\t kamal ne kahā ki use nĩd ā rahī hai .
+\g Kamal agent said DeclC her to sleep come-ing is
+\l Kamal said that she feels sleepy.
+
+\t uskā yah dāvā ki munīsh ghũs letā  hai bilkul sahī hai  .
+\g His this claim DeclC Munish bribe takes [quite correct is]
+\l His claim that Munish takes bribes is quite correct.
+
+\t Uske-hī jūte mere kamre-meṁ paḍe the .
+\g his- shoes my room-in lie.PAST.PTCP.MSC.PL be.PAST.MSC.PL
+\l HIS shoes were lying in my room.
+
+\t Uske jūte mere-hī kamre-meṁ paḍe the .
+\g his shoes my- room-in lie.PAST.PTCP.MSC.PL be.PAST.MSC.PL
+\l His shoes were lying in MY room.
+
+\t *Uske-hī jūte mere-hī kamre-meṁ paḍe the .
+\g his- shoes my- room-in lie.PAST.PTCP.MSC.PL be.PAST.MSC.PL
+\l HIS shoes were lying in MY room.
+
+\t ilaa-ne bacce-ko /*baccaa uṭʰaayaa .
+\g Ila-ERG child-ACC child.NOM lift.PFV
+\l Ila lifted the / a child.
+
+\t ilaa-ne haar uṭʰaayaa .
+\g Ila-ERG necklace.NOM lift.PFV
+\l Ila lifted a / the necklace.
+
+\t ilaa-ne haar-ko uṭʰaayaa .
+\g Ila-ERG necklace-ACC lift.PFV
+\l Ila lifted the / *a necklace.
+
+\t raam anil-ko uṭʰaaegaa .
+\g Ram.NOM Anil-ACC lift/carry.FUT
+\l Ram will carry Anil.
+
+\t anil (raam-se) uṭʰaayaa jaaegaa .
+\g Anil.NOM Ram-INS carry.PFV go.FUT
+\l Anil will be carried by Ram.
+
+\t ram-ne Anil-ko haar bhej-aa .
+\g Ram-ERG Anil-DAT necklace.M send-PFV.M
+\l Ram sent Anil the necklace.
+
+\t anil-ko haar bhej-aa gay-aa .
+\g Anil-DAT necklace.M send-PFV.M go-PFV.M
+\l Anil was sent a/the necklace.
+
+\t haar Anil-ko bhej-aa gay-aa .
+\g necklace.M Anil-DAT send-PFV.M go-PFV.M
+\l The necklace was sent to Anil.
+
+\t raam-ne anil-ko piiṭaa .
+\g Ram-ERG Anil-ACC beat.PFV
+\l Ram beat Anil.
+
+\t raam-ne anil-ko giraayaa .
+\g Ram-ERG Anil-ACC fall.CAUS.PFV
+\l Ram dropped/caused-to-fall Anil.
+
+\t raam-ne anil-ko kʰuš kiyaa .
+\g Ram-ERG Anil-ACC happy do.PFV
+\l Ram made Anil happy.
+
+\t anil-ko piiṭaa gayaa .
+\g Anil-ACC beat.PFV go.PFV
+\l Anil was beaten.
+
+\t anil-ko giraayaa gayaa .
+\g Anil-ACC fall.CAUS.PFV go.PFV
+\l Anil was dropped/caused-to-fall.
+
+\t anil-ko kʰuš kiyaa gayaa .
+\g Anil-ACC happy do.PFV go.PFV
+\l Anil was made happy.
+
+\t anil piṭaa .
+\g Anil-NOM be beaten.PFV
+\l Anil was beaten.
+
+\t anil giraa .
+\g Anil-NOM fall.PFV
+\l Anil fell.
+
+\t anil kʰuš huaa .
+\g Anil-NOM happy become.PFV
+\l Anil became happy.
+
+\t Ram bhuukamp-pe maaraa gayaa .
+\g Ram.NOM earthquake-in kill.PFV go.PFV
+\l Ram was killed in an earthquake.
+
+\t Ram-ko bhuukamp-pe maaraa gayaa .
+\g Ram-ACC earthquake-in kill.PFV go.PFV
+\l Ram was murdered during the earthquake.
+
+\t   bazaar=meN dekhii gayii   mahilaa
+\g  market=in see.PFV.F PASS.PFV.F  woman
+\l the woman seen in the market
+
+\t   us mahila-ko dii gayii   kitaab
+\g  that woman-DAT give.PFV.F PASS.PFV.F  BOOK.F
+\l the book given to the woman
+
+\t *  kitaab dii gayii   mahilaa
+\g  book give.PFV.F PASS.PFV.F  woman.F
+\l intended: ‘the woman given the book
+
+\t Ram-ne chitthii-ko Anita-ko bhej-aa .
+\g Ram-ERG letter-DOM Anita-DAT send-PFV
+\l Ram sent the letter to Anita.
+
+\t Ilaa-ne mãã-ko baccaa /*bacce-ko diy-aa .
+\g Ila-ERG mother-DAT child.NOM child-DOM give-PFV
+\l Ila gave a/the child to the mother.
+
+\t niinaa-ko (ravi-se) guđ̣iyaa dii gaii aur us-ko / pro bađ̣ii kʰušii huii .
+\g Nina-DAT Ravi-INS doll.NOM give.PFV go.PFV and pron-DAT  much joy.NOM happen.PFV
+\l Nina was given a toy (by Ravi), and she / pro was very happy.
+
+\t ravii-ne niinaa-ko guđ̣iyaa dii , aur us-ko / *pro bađ̣ii kʰušii huii .
+\g Ravi-ERG Nina-DAT doll.NOM give.PFV and pron-DAT  much joy.NOM happen.PFV
+\l Ravi gave Nina a doll, and she / *pro was very happy.
+
+\t yah haraa aur yah piilaa jhandaa
+\g this.SG green.SG and this.SG yellow.SG flag.SG
+\l this green flag and this yellow flag’ (2 flags total)
+
+\t rɑm = ne  prət̪ɑp = kiː kʰub mərəmmət̪  kiː .
+\g Ram = ERG Pratap = GEN lot repair.F.SG do.PFV.F.SG
+\l Ram gave Pratap a good beating.’ (lit. Ram did Pratap’s many repairs.)
+
+\t # prət̪ɑp = kiː kʰub mərəmmət̪ ₁ rɑm = ne t₁ kiː .
+\g Pratap = GEN lot repair.F.SG Ram = ERG  do.PFV.F.SG
+\l Ram gave Pratap a good beating.’ (lit. Ram did Pratap’s many repairs.)8
+
+\t rɑm = ne  prət̪ɑp = kiː kʰub mərəmmət̪  kər-niː/-nɑ t∫ɑh-i:/-ɑ .
+\g Ram = ERG Pratap = GEN lot repair.F.SG do-INF.F.SG/-INF.M.SG want-F.SG/-M.SG
+\l Ram wanted to give Pratap a good beating.
+
+\t usee (yah) maluum hai  ki vee aa rahee haiN  .
+\g 3SG.DAT this known is that 3PL come PROG are
+\l He/She knows that they are coming.
+
+\t *usee  (ki) vee aa rahee haiN  maluum hai .
+\g 3SG.DAT that 3PL come PROG are known is
+\l He/She knows that they are coming.
+
+\t mai͂ .ne yah / apnā kām kiyā
+\g 1SG.ERG DEM.M.SG _ REFL work.M.SG do.M.SG
+\l I did this/my work.
+
+\t maĩ . yah / apnā kām kar .ū͂ .g .ī
+\g 1SG DEM.M.SG _ REFL work.M.SG do.1SG.FUT.F
+\l I will do this/my work.
+
+\t jamunājī .n .e tat .e
+\g Yamuna.HON.GEN.LOC bank.LOC
+\l On the bank of the Yamuna river.
+
+\t man͂e ki bolaba sakhi apana gen͂āna
+\g 1SG.OBL how speak.b friend REFL experience.M.PL
+\l O friend, how shall I speak out (my) feelings.’ (V 24, )
+
+\t maĩ tumko / Rām ko / apnī bet̩ī ko dekh rahā hū̃
+\g 1SG 2.ACC _ Ram ACC _ REFL daughter ACC see PROG.M.SG PRS.1SG
+\l I am looking at you /Ram / my daughter.
+
+\t maĩne tumko / Rām ko / apnī bet̩ī ko kal nahī̃ dekhā
+\g 1SG.ERG 2.ACC _ Ram ACC _ REFL daughter ACC yesterday NEG see.PFV.3M.SG
+\l I did not see you /Ram / my daughter yesterday.
+
+\t merī sahelī ne nayā naukar rakhā
+\g my friend.F.SG ERG new servant.M.SG place.PFV.M.SG
+\l My friend took a new servant.
+
+\t ve laṛkā dekh rahe haĩ
+\g 3PL boy.M.SG look PROG PRS.3M.PL
+\l They are visiting a boy (a suitable groom).
+
+\t maĩne bahut log dekhe , bahut gār̩iyā̃ dekhī̃ , bahut gandagī dekhī
+\g 1SG.ERG many people.M.PL see.M.PL many car.F.PL see.F.PL much dirt.F.SG see.F.SG
+\l I saw a lot of people, a lot of cars, much dirt.
+
+\t tum jaisā koī nahī dekhā
+\g 2 like.M.SG INDEF NEG saw.PFV.M.SG
+\l I didn’t see anybody like you’ (movie title)
+
+\t mai͂ne kisī ko nahī͂ dekhā
+\g 1SG.ERG INDEF ACC NEG saw
+\l I didn’t see anybody.
+
+\t cā̃d ko dekho !
+\g time ACC look.IMP
+\l Look at the moon!
+
+\t ham kyā samay ko / mrityu ko rok sakte haĩ ?
+\g 1PL INT time ACC _ death ACC stop can PRS.1M.PL
+\l Can we stop time, death?
+
+\t lohā sīse ko kāt̩tā hai
+\g iron glass ACC cut PRS.3M.SG
+\l ’Iron cuts glass.
+
+\t ham andhere ko rok dete
+\g 1PL darkness ACC stop give.COND.1M.PL
+\l We would stop the darkness.
+
+\t hamne pūre bāhar ko band kar diyā hai
+\g 1PL.ERG whole outside ACC closed make give PRF.3M.SG
+\l We have locked up all the outside.
+
+\t gār̩ī vāpas āī huī dekhkar maĩne socā…
+\g car.F.SG back come be.PTCP.F.SG see.CV 1SG.ERG think.PFV.M.SG
+\l I saw the car having come back and thought…
+
+\t kāle-kāle jāmun gāyab hote dekhkar uske mũh se zāl t̩apakne lagī
+\g black-black jamun vanished being see.CV his mouth from salive.F.SG drip start.PFV.F.SG
+\l Seeing the black Java plums disappearing his mouth started watering.’/ ‘He saw the black Java plums disappearing and he started salivating
+
+\t maĩ cor ko / *Ø cor kahtā hū̃
+\g 1SG thief ACC / _ thief say PRS.1SG
+\l I call a thief a thief.
+
+\t maĩ billī ko apnā duśman / beimān māntā hū̃
+\g 1SG cat ACC REFL enemy _ disloyal consider PRS.1SG
+\l I consider cats as my personal enemies/disloyal.
+
+\t ve rassī ko / *Ø sā̃p samajhte haĩ
+\g 3PL rope ACC / _ snake understand PRS.M.PL
+\l They mistake a rope for a snake’ (or ‘ropes for snakes’).
+
+\t ve pun̩ya ko / *Ø pāp banāte haĩ
+\g 3PL virtue ACC / _ sin make PRS.M.PL
+\l They transform virtue into sin.
+
+\t ham mez ko paũchẽge
+\g 1pl table ACC wipe.FUT.M.PL
+\l We will wipe the table.
+
+\t yah film kisne dekhī ?
+\g this film.F.SG who.ERG see.PFV.F.SG
+\l This film, who saw it?
+
+\t yah bāt to ham sab jānte haĩ
+\g this thing TOP 1PL all know PRS.PL
+\l This thing, we all know it.
+
+\t zindagī ko jīnā sthagit maut ko jīnā hai
+\g life ACC live postponed death ACC live is
+\l To live life is to live a deferred death.
+
+\t ek darvāze ko band kar , hamne pūre bāhar ko band kar diyā hai . … apne kamre kā darvāzā band kar sārī duniyā ko bāhar band kar diyā .
+\g one door ACC close do.CV 1PL all outside ACC close do give.PFV.3M.SG PRT _ REFL room of door closed do.CV all world ACC outside closed do give.PFV.3M.SG
+\l By closing a (mere) door, we have locked up the whole outside. (…) By closing the door of our room, we have locked outside the whole world.
+
+\t ‘Yah tālā maĩne xud lagāya hai’ ,
+\g this lock 1SG.ERG REFL put.PRF 3M.SG
+\l This lock, I put it myself,
+
+\t tāle ko Gurūjī ne jhanjhanāyā .
+\g lock ACC Guruji ERG shake.PFV.3M.SG
+\l Guruji shaked the lock noisily.
+
+\t mujhe aspat̩āl le jāyā gayā
+\g 1SG.ACC/DAT hospital take go PASS.PFV.3M.SG
+\l I was taken to the hospital.
+
+\t maĩ aspat̩āl le jāyī gayī
+\g 1SG hospital take go PASS.PFV.F.SG
+\l I was taken to the hospital.’ (feminine speaker)
+
+\t śef Hemant Oberāy apne das sahyogiyõ kesāth vahā̃ bheje gae the
+\g Chef Hemant Oberoy REFL ten helper.M.PL with there send PASS PPRF.M.PL
+\l The chef Hemant Oberoi had been sent there with ten of his helpers.
+
+\t mere hazārõ samarthakõ ko Madurai ikāī se nikāl diyā gayā hai
+\g my thousand supporter.M.PL ACC Madurai unit from expel give PASS PRF.M.SG
+\l Thousands of my supporters have been ousted from the Madurai unit.
+
+\t mr̥tyu ko / samay ko rokā nahī̃ jā saktā
+\g death ACC _ time ACC stop NEG PSV can.PRS.3M.SG
+\l Death / time cannot be stopped.’ (single entities, common knowledge) (own data)
+
+\t par bahut dinõ tak sthagit maut ko bhī nahī̃ jiyā jā saktā
+\g but many days till postponed death ACC even NEG live PASS can.PRS.3M.SG
+\l But one cannot live even a deferred death for very long.’ (Vinod Kumar Shukla, 1996, Khilega to dekhenge)
+
+\t unke vilamban ko 24 janvarī kī subah us vaqt kiyā gayā jab…
+\g 3PL.GEN suspension ACC 24 January of morning that time do PASS.M.SG when
+\l Their suspension occurred on the morning of January 24 when…’ (Times of India 13/1/2015)
+
+\t āpkā yahā͂ ānā mujhe bilkul acchā nahī͂ lagā
+\g 2H.GEN here come.INF 1SG.DAT really really NEG seem.PFV.M.SG
+\l I did not like at all (the fact) that you came here.
+
+\t rām ke āte (*rām āte) hī sab gāyab ho gae the
+\g Ram GEN coming Ram coming just all.M.PL disappeared be go PPRF.M.PL
+\l Right after Ram came, all had disappeared.
+
+\t andherā (* ?ke) hote hī sab gāyab ho gae the
+\g darkness GEN being just all.M.PL disappeared be go PPRF.M.PL
+\l Right after the coming of darkness all had disappeared.
+
+\t Rina kā / ko / *Ø bāzār mẽ dekhā jānā śaram kī bāt hai .
+\g Rina GEN / / DAT _ market in see PASS.INF shame of thing is
+\l For Rina to be seen in the market is a matter of shame.
+
+\t Per̩ kā / ko / Ø is tarah kāt̩ā jānā śaram kī bāt hai .
+\g tree GEN / _ DAT _ this way cut PASS.INF shame of thing is
+\l The fact that the/a tree was cut in this way/this kind of tree cutting is a matter of shame.
+
+\t bacce ne sāikil calānā śurū kiyā
+\g child.M.SG ERG bike.F.SG drive.INF.M.SG beginning do.PFV.3M.SG
+\l The boy started to ride a bicycle.’ (has started bicycle riding)
+
+\t bacce ne sāikil calānī śurū kī
+\g child.M.SG ERG bike.F.SG drive.INF.F.SG beginning do.PFV.3F.SG
+\l The boy started to ride a bicycle.
+
+\t baccõ ne skūl jānā śurū kiyā
+\g child.M.PL ERG school go.INF.M.SG beginning do.PFV.3M.SG
+\l The children started going to school.
+
+\t mujhe sāikil calānā ātā hai
+\g 1SG bike.F.GS drive.INF.M.SG come PRS.3M.SG
+\l I know how to ride a bicycle (how to cycle).
+
+\t mujhe sāikil calānī ātī hai
+\g 1M.SG bike.F.SG drive.INF.F.SG come PRS.3F.SG
+\l I know how to ride a bicycle.
+
+\t mujhe sabzī kharīdnā /  ? ? kharīdnī hai
+\g 1SG vegetable.F.SG buy.INF.M.SG / _ buy.INF.F.SG be.PRS.3.SG
+\l I have to buy vegetable.
+
+\t jākū̃ yahu jaga ghini kari cālai
+\g REL.ACC DEM world horrible do.CV go.PRS.3SG
+\l That which this world avoids with disgust.’ (lit. that which considering horrible the world goes by) (Kabir, verse 185.4)
+
+\t yā pada kū̃ bujhai tākū̃ tinyū̃ trībhuvana sūjhai
+\g DEM verse ACC understand.PRS.3SG 3SG.DAT three world think.PRS.3SG
+\l [Who] understands this pada, he knows the three worlds.
+
+\t ke garmī dafā kartā hai gulāb āhistā āhistā
+\g that/as heat off make PRS.3M.SG rose slowly slowly
+\l My faithful love has quenched the fire of my love (FOC), as rose dispels the effect of heat, step by step.’ (Wali, mid. 17th c.)
+
+\t jab sõ dekhā nahī̃ nazar-bhar kākul-e-muśkin-e-yār
+\g when from see.PFV NEG glance-full locks-EZ-scented-EZ-beloved
+\l Since I did not see fully her [my love’s] scented locks (FOC).’ (Wali, mid 17th c.)
+
+\t raam-ne lakdii kaatii
+\g Ram-ERG wood.NOM cut.PERF.F
+\l Ram cut wood.
+
+\t raam-ne nahaayaa
+\g Ram-ERG bath.PERF
+\l Ram bathed.
+
+\t raam (*-ne) giraa
+\g Ram (*-ERG) fall.PERF
+\l Ram fell.
+
+\t tusaar-ne vah kahaanii yaad kii
+\g Tushar-ERG that story.NOM memory.NOM do.PERF
+\l Tushar remembered that story.
+
+\t Jane # a pu / pouvait soulever cette table , mais elle ne l’a pas soulevée .
+\g Jane _ AUX could.PFV _ could.IPFV lift this table but she NEG it.AUX NEG lift
+\l Jane could lift this table, but she did not lift it.
+
+\t Darcy a eu / avait la possibilité de rencontrer Lizzie .
+\g Darcy AUX had.PFV _ had.IPFV the possibility to meet Lizzie
+\l Darcy had the possibility to meet Lizzie.
+
+\t Charon taraf baccha khel rahaa thaa .
+\g four ways child play PROG.SG be.SG.PST
+\l A (different) child was playing everywhere.
+
+\t Is mashin ke TukRe aam haiN .
+\g this machine of parts common are
+\l Parts of this machine are common.
+
+\t Lagtaa hai kamre meN cuhaa hai .
+\g seems be room in mouse be
+\l There seems to be a mouse in the room.
+
+\t Anil-ne kitaabẽ becĩĩ
+\g Anil-ERG book.F.PL sell.PFV-F.PL
+\l Anil sold (the) books.
+
+\t Anjum-ne saddaf-ko dekhaa
+\g Anjum.F.SG-ERG Saddaf.F.SG-DOM see.PFV.M.SG
+\l Anjum saw Saddaf.
+
+\t  jo laRkii khaRii hai  vo lambii hai .
+\g [REL girl standing is that tall is
+\l The girl who is standing is tall.
+

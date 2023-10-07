@@ -1,0 +1,148 @@
+\t Andr-is staigā pa mež-iem .
+\g A-NOM.SG walk.PRS.3 around forest-DAT.PL
+\l Andris is walking around the forests.
+
+\t Andr-is dzīvo aiz mež-iem .
+\g A-NOM.SG live.PRS.3 behind forest-DAT.PL
+\l Andris lives on the other side of the forests.
+
+\t Ziv-is ir uz gald-iem .
+\g fish-NOM.PL be.PRS.3 on table-DAT.PL
+\l The fish are on the tables.
+
+\t Brauc-u uz Cēs-īm .
+\g go.PRS-1SG to C(PL)-DAT.PL
+\l I am going to Cēsis.’3
+
+\t Mež-i zied .
+\g forest-NOM.PL blossom.PRS.3
+\l The forests are blossoming.
+
+\t Mež-u kok-i .
+\g forest-GEN.PL tree-NOM.PL
+\l The trees of the forests.
+
+\t Palīdz-iet mež-iem !
+\g help-IMP.2PL forest-DAT.PL
+\l Help the forests!
+
+\t Es redz-u mež-us .
+\g 1SG.NOM see.PRS-1SG forest-ACC.PL
+\l I see the forests.
+
+\t Mēs spēlē-j-am-ies mež-os .
+\g 1PL.NOM play-EP-1PL.PRS-RFL forest-LOC.PL
+\l We play in the forests.
+
+\t Gribētu satikties ar Jums paš-u .
+\g want.COND meet with 2PL.DAT self-ACC.SG
+\l [I] would like to meet with YOU specifically.
+
+\t Laps-a nogalinā-j-a putn-u .
+\g fox-NOM.SG kill.PST-EP-3 bird-ACC.SG
+\l The fox killed the bird.
+
+\t Tēv-s palīdz zēn-am .
+\g father-NOM.SG help.PRS.3 boy-DAT.SG
+\l The father is helping the boy.
+
+\t Es iz-lasī-j-u grāmat-u .
+\g 1SG.NOM PREV-read.PST-EP-1SG book-ACC.SG
+\l I read the book.
+
+\t Grāmat-a tik-a iz-lasī-t-a .
+\g book.F-NOM.SG AUX.PST-3 PREV-read-PASS.PST-F.NOM.SG
+\l The book was read.
+
+\t At-a cepur-e ir liel-a .
+\g A-GEN.SG hat.F-NOM.SG is big-F.NOM.SG
+\l Atis’s hat is big.
+
+\t Pilsēt-as iznīcinā-šan-a .
+\g city-GEN.SG destroy-NMNLZ-NOM.SG
+\l The destruction of the city.
+
+\t Es dod-u puķ-i Laur-ai .  θ:Rec 
+\g 1SG.NOM give.PRS-1SG flower-ACC.SG L-DAT.SG 
+\l I am giving Laura a flower.
+
+\t Es palīdz-u Laur-ai .  θ:Ben 
+\g 1SG.NOM help.PRS-1SG L-DAT.SG 
+\l I am helping Laura.
+
+\t Tagad es-am   Ø  P , Cas:Loc    Viļņ-ā .    
+\g now be.PRS-1PL   V-LOC.SG
+\l We are in Vilnius now.
+
+\t Es palīdzēj-u Rūt-ai .
+\g 1SG.NOM help.PST-1SG R-DAT.SG
+\l I helped Ruta.
+
+\t Rūt-ai tik-a palīdzē-t-s .
+\g R.-DAT.SG AUX.PASS.PST-3 help-PASS.PST-.NOM.SG
+\l Ruta was helped.
+
+\t Ed-u  æ:-  ar dakš-u .
+\g eat.PRS-1SG with fork-ACC.SG
+\l I am eating with a fork.
+
+\t Cieš-u man-a bērn-a dēļ .
+\g suffer.PRS-1SG my-M.GEN.SG child.M-GEN.SG for
+\l I suffer for my child.
+
+\t Cieš-u man-u bērn-u dēļ .
+\g suffer.PRS-1SG my-M.GEN.PL child.M-GEN.PL for
+\l I suffer for my children.
+
+\t Pretī bij-a liel-a māj-a .
+\g opposite be.PST-3 big-F.NOM.SG house.F-NOM.SG
+\l Opposite, there was a big house.
+
+\t Viņ-š nāc-a man pretī .
+\g 3SG-M.NOM.SG come.PST-3 1SG.DAT opposite
+\l He came toward me.
+
+\t liel-a māja
+\g big-F.NOM.SG house(F)
+\l a big house
+
+\t liel-ā māja
+\g big-ATTR:F.NOM.SG house(F)
+\l the big house
+
+\t māja
+\g house
+\l a house
+
+\t māja- ?Ø
+\g house-DEF
+\l the house
+
+\t liel-a māja
+\g big-F.NOM.SG house
+\l a big house
+
+\t liel-ā māja
+\g big-F.NOM.SG.DEFF house
+\l the big house
+
+\t Viņš ne-runā latviski .
+\g 3SG.M NEG-speak.PRS.3SG Latvian
+\l He doesn't speak Latvian.
+
+\t Ir savvaļas kaķi .
+\g PRS.COP wild cat.PL.NOM
+\l There are wild cats.
+
+\t Nav savvaļas kaķu .
+\g NEG.PRS.COP wild cat.PL.GEN
+\l There are no wild cats.
+
+\t Bija savvaļas kaķi .
+\g PST.COP wild cat.PL.NOM
+\l There were wild cats.
+
+\t Ne-bija savvaļas kaķu .
+\g NEG-PST.COP wild cat.PL.GEN
+\l There were no wild cats.
+

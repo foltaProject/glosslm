@@ -1,0 +1,4 @@
+\t ló bárí āmā
+\g DEF fish this
+\l this fish
+

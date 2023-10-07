@@ -1,0 +1,16 @@
+Input file: data/Gitksan/source_data/BS-20120116-scandinavianseries.txt
+Output file: data/Gitksan/st_data/BS-20120116-scandinavianseries.txt
+Got 31 glossed sentences
+Filtered out 0 sentences
+
+Input file: data/Gitksan/source_data/VG-20140129-kitwancoolsurveyed.txt
+Output file: data/Gitksan/st_data/VG-20140129-kitwancoolsurveyed.txt
+Skipping example 5: inaudible token
+Got 37 glossed sentences
+Filtered out 1 sentences
+
+Input file: data/Gitksan/source_data/HH-20120309-namestory_Interlinear.txt
+Output file: data/Gitksan/st_data/HH-20120309-namestory_Interlinear.txt
+Got 42 glossed sentences
+Filtered out 0 sentences
+

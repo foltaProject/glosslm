@@ -1,0 +1,24 @@
+\t Ggikenmin   gii baashkzwØad   .
+\g 2-know-2OBJ  PST= shoot-3OBJ-2SG>3CJ 
+\l I know that you shot him.
+
+\t *Ngikenmaa   gii baashkzwØad   .
+\g 1-know-3OBJ  PST= shoot-3OBJ-2SG>3CJ 
+\l Intended: ‘I know that you shot him.
+
+\t nwaabmaa
+\g 1-see-DIR
+\l I see him.
+
+\t nwaabmig
+\g 1-see-INV
+\l He sees me.
+
+\t gwaabami
+\g 2-see-DIR(local)
+\l You see me.
+
+\t gwaabmin
+\g 2-see-INV(local)
+\l I see you.
+

@@ -1,0 +1,8 @@
+\t logonne pustakkii tareef kii
+\g people.M=ERG book.F=GEN praise.F do-PERF.F
+\l People praised the book.' Lit: `People did praise of the book.
+
+\t pustakkii tareef huii
+\g book.F.SG=GEN praise.F be.PART-PERF.F.SG/be.PRES
+\l The book got praised.' Lit: `The praise of the book happened.
+

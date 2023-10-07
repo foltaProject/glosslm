@@ -1,0 +1,8 @@
+\t POINT₃ₐ KILL PERSON
+\g 3ₐ kill 3.OBJ
+\l They killed him.
+
+\t POINT₃ₐ KILL POINT
+\g 3ₐ kill 3
+\l He killed him/that one.’ (pointing to a physically present body)
+

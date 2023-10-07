@@ -1,0 +1,16 @@
+\t May-man-taq   José munan   María ____ aywanan-ta    ?
+\g where-to-Q  José wants  María  will-go-ACC 
+\l Where does José want María to go?
+
+\t   José munan   María may-man aywanan-ta    ?
+\g  José wants  María where-to will-go-ACC \t *Pi-taq Fuan musyan   ____ tanta-ta ruranqan-ta   ?
+\g who-Q Juan knows  bread-ACC made-ACC\t Fuan musyan   pi tanta-ta ruranqan-ta   ?
+\g Juan knows  who bread-ACC made-ACC
+\l Who is x such that Juan knows that x made bread?
+
+\t *Ima-ta-taq (qam) kuya-nki   ____ suwaq nuna-ta  ?
+\g what-ACC-Q you love-2PP  steal man-ACC
+\l What is x such that you love the man who stole x?
+
+\t  kuya-nki   ima-ta suwaq nuna-ta  ?
+\g you love-2PP  what-ACC steal man-ACC

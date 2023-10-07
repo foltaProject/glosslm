@@ -1,0 +1,822 @@
+\t wi' junab'
+\m wi' junab'
+\p EXS S
+\g EXS año
+\l Hay años.
+
+\t wi' jun istorya re aaj Lu'
+\m wi' jun istorya re aaj Lu'
+\p EXS NUM S SREL CLAS NOM
+\g EXS uno historia SREL CLAS Pedro
+\l Hay una historia de Pedro.
+
+\t ke wi' jun num q'iij,
+\m ke wi' jun num q'iij
+\p PART EXS NUM ADJ S
+\g que EXS uno grande día
+\l Que havía una fiesta.
+
+\t kinse de Mayo
+\m kinse de mayo
+\p NUM PREP S
+\g quince de mayo
+\l Quince de mayo.
+
+\t num q'iij San Isidr.
+\m num q'iij San Isidr
+\p ADJ S CLAS NOM
+\g grnade día CLAS Isidro
+\l Fiesta de San Isidro.
+
+\t ra jkaretaq neb'i re,
+\m ra j-karet-aq ??? ???
+\p DIM E3S-S-PL ??? ???
+\g DIM E3S-carreta-PL ??? ???
+\l La carreta como se llama.
+
+\t ra jkaretaq,
+\m ra j-karet-aq
+\p DIM E3S-S-PL
+\g DIM E3S-carreta-PL
+\l La carreta.
+
+\t ra jb'endisyonaq re jk'ayaq.
+\m ra j-b'endisyon-aq re j-k'ay-aq
+\p DIM E3S-S-PL SREL E3S-S-PL
+\g DIM E3S-vendicion-PL SREL E3S-venta-PL
+\l La vendición para suus ventecitas.
+
+\t Re la' nim q'iij San Isidr
+\m re la' nim q'iij San Isidr
+\p SREL PREP ADJ S CLAS NOM
+\g SREL PREP grande día CLAS Isidro
+\l De la fiesta de San Isidro.
+
+\t rik'il padre tib'ensaj
+\m r-ik'il padre ti-b'en-saj
+\p E3S-SREL S INC-VT-PAS
+\g E3S-SREL padre INC-hacer-PAS
+\l Con el padre hacen.
+
+\t tons xtaw re,
+\m tons x-taw re
+\p ADV COM-VT PRON
+\g entonces COM-llegar él/ella
+\l Entonces llego él.
+
+\t mulan chaq jkaretaq taq kristyan chi', chi', chótix.
+\m mul-an chaq j-karetaq taq kirtyaan chi' chi' chótix
+\p MED-AP PART E3S-S PL S SREL SREL S
+\g montón-AP PART E3S-carreta PL persona SREL SREL iglesia
+\l Amontonado están las carretas de las personas frente la iglesia.
+
+\t xk'amb' jkaret chirij wákix
+\m x-k'am-b' j-karet chi-r-ij wakix
+\p COM-VT-DIR E3S-S PREP-E3S-SREL S
+\g COM-recibir-DIR E3S-carreta PREP-E3S-SREL vaca
+\l Llebo su carreta detras de una vaca. (fue jalada la carreta por los bueyes)
+
+\t jurchuchul wi'l wákix
+\m jurchuchul wi'l wakix
+\p VT SREL S
+\g jalado SREL vaca
+\l Arastrado por vaca. (jalado por bueyes)
+
+\t tijk'am b'ik.
+\m ti-j-k'am b'ik
+\p INC-E3S-VT DIR
+\g INC-E3S-recibir DIR
+\l Se la llevo.
+
+\t I kom tijb'ij taq ke San Isidr
+\m i kom ti-j-b'ij taq ke San Isidr
+\p CONJ ADV INC-E3S-VT PL PART CLAS NOM
+\g CONJ como INC-E3S-decir PL que CLAS Isidro
+\l Y como le dicen a San Isidro.
+
+\t wi' jwákix.
+\m wi' j-wakix
+\p EXS E3S-S
+\g EXS E3S-vaca
+\l Tiene vacas.
+
+\t Entons re, re, ma xaqta chub' man karet
+\m entons r-e r-e ma xaq-ta ch-ub' man karet
+\p ADV E3S-SREL E3S-SREL NEG PART-NEG PREP-SREL ART S
+\g entonces E3S-SREL E3S-SREL NEG PART-NEG PREP-SREL ART carreta
+\l Entonces él no solo por la carreta.
+
+\t no ke konto wákix tib'ensaj bendesir xi'j.
+\m no ke kon-to wakix ti-b'en-sáj bendesir x-i'j
+\p ADV PART ADV-ADV S INC-VT-PAS VT COM-VT
+\g no que con-todo vaca INC-hacer-PAS vendecir COM-decir
+\l No que con toda y vacas le dan la vendición.
+
+\t I ruk' re, re kom étzel kristyan
+\m i ruk' r-e r-e kom étzel kirtyaan
+\p CONJ PART E3S-SREL E3S-SREL ADV ADJ S
+\g CONJ PART E3S-SREL E3S-SREL como demonio persona
+\l Y como él como mala persona.
+
+\t re ta' tijkoj neb'ire',
+\m r-e ta' ti-j-koj ne-b'i-re'
+\p E3S-SREL NEG INC-E3S-VT INT-VT-ENF
+\g E3S-SREL NEG INC-E3S-meter INT-decir-ENF
+\l Él no cree como se llama...
+
+\t si neb'ire'
+\m si ne-b'i-re'
+\p ADV INT-VT-ENF
+\g si INT-decir-ENF
+\l Si como se llama o como es...
+
+\t si awas tijb'alaj wákix ra la jaa
+\m si awas ti-j-b'ala-j wakix (ra) la jaa
+\p ADV ADV INC-E3S-VT-SC S ??? PREP S
+\g si pecado INC-E3S-meter-SC vaca ??? PREP casa
+\l Si es pecado meter vacas a la iglesia.
+
+\t o la jchótix,
+\m o la j-chotix
+\p CONJ PREP E3S-S
+\g CONJ PREP E3S-iglesia
+\l O en la iglesia.
+
+\t re xokb'ik dyunabes li, li konto wákix tijkoj b'ik la jchótix.
+\m r-e x-ok-b'ik dyunabes li li kon-to wakix ti-j-koj b'ik la j-chótix
+\p E3S-SREL COM-VI-DIR ADV DEM DEM ADV-ADV S INC-E3S-VT DIR PREP E3S-S
+\g E3S-SREL COM-entrar-DIR de@una@vez DEM DEM con-todo vaca INC-E3S-meter DIR PREP E3S-iglesia
+\l Él metio de una vez con todo las vacas en la iglesia.
+
+\t Tons xi'j padre re,
+\m tons x-i'j padre r-e
+\p ADV COM-VT S E3S-SREL
+\g entonces COM-decir padre E3S-SREL
+\l Entonces le dijo el padre a él.
+
+\t ke nen mod takoj wákix neri,
+\m ke nen mod t-a-koj wakix neri
+\p ADV INT ADV INC-E3S-VT S ADV
+\g que INT modo INC-E3S-meter vaca aqui
+\l Por que entras los bueyes aquí.
+
+\t wa'xenw rik'il laq loke nik'j wi' taq ki'li be
+\m wa'xen-w r-ik'il laq loke nik'j wi' taq ki'-li be
+\p VI-PART E3S-SREL PREP ADV ADV EXS PL PART-DEM VT
+\g estar-PART E3S-SREL PREP loque otros EXS PL PART-DEM ver
+\l Quédate con los que estan ahí vé.
+
+\t olb'eel jwi'laq, nen or tib'ensaj bendisyon, re maq karet,
+\m olb'eel j-wi'l-aq nen or ti-ben-saj bendisyon r-e maq karet
+\p VT E3S-SREL-PL INT ADV INC-VT-AP S E3S-SREL ART S
+\g esperar E3S-SREL-PL INT ahora INC-hacer-AP bendición E3S-SREL ART carreta
+\l Esperando que horas hacen la vendición de las carretas.
+
+\t waxenw rik'ilaq ki li,
+\m waxen-w r-ik'il-aq ki li
+\p VI-PART E3S-SREL-PL PART DEM
+\g estar-PART E3S-SREL-PL PART DEM
+\l Quedate con ellos ahí.
+
+\t ruk' niri takoojch niri ta' las tijye' re kristyan.
+\m ruk' niri t-a-kooj-ch niri ta' las ti-j-ye' r-e kirtyaan
+\p PART ADV INC-E3S-VT-DIR ADV NEG ADV INC-E3S-VT E3S-SREL S
+\g PART aqui INC-E3S-meter-DIR aqui NEG donde INC-E3S-dar E3S-SREL persona
+\l Y aquí lo entras, aquí no hay donde colocar a la gente.
+
+\t Ta' k'ex tib'ensaj k'ex re kristyaan
+\m ta' k'ex ti-b'en-sáj k'ex r-e kristyaan
+\p NEG ADJ INC-VT-PAS ADJ E3S-SREL S
+\g NEG dolor INC-hacer-PAS dolor E3S-SREL persona
+\l Derepente le hace daño a la gente.
+
+\t jwi'l wákix.
+\m j-wi'l wakix
+\p E3S-SREL S
+\g E3S-SREL vaca
+\l Por las vacas.
+
+\t A, si ta' chawaj ta'an bendesir inwákix pech inkaret
+\m a si ta' ch-aw-aj ta-'an bendesir in-wakix pech in-karet
+\p CONJ ADV NEG INC-E2S-VT INC-VT VT A1S-S S E1S-S
+\g CONJ si NEG INC-E2S-querer INC-hacer vendecir A1S-vaca compañero E1S-carreta
+\l A si no queres que bendigas mi vaca junto mi carreta. (bueyes)
+
+\t ya neejb'ij re ya iin
+\m ya ne-j-b'ij re ya iin
+\p VOC INT-E3S-VT PART VOC PRON
+\g ya INT-E3S-decir PART ya yo
+\l Ya como se llama... él ya yo.
+
+\t ya inkaret iin bendesid chaq, jwi'l dyawl,
+\m ya in-karet iin bendesid chaq j-wi'l dyawl
+\p VOC PRON-S PRON VT PL E3S-SREL S
+\g ya yo-carreta yo vendecido PL E3S-SREL diablo
+\l Ya mi carreta yo ya esta bendecido por él diablo.
+
+\t ticha',
+\m ti-cha'
+\p INC-VI
+\g INC-decir
+\l Dijo.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t Nad majwex ta' chiki ta' tzaq bendisyon at chub'.
+\m nad ma-jwex ta' chik-i ta' tzaq bendisyon at chub'
+\p ADV NEG-ADV NEG PART-ENF NEG VT ADJ PRON SREL
+\g nada NEG-necesidad NEG PART-ENF NEG hechar bendición tú/usted SREL
+\l Nada ya no es necesario que heche la bendición usted encima.
+
+\t Entons, elamb'ik pwes,
+\m entons el-am-b'-ik pwes
+\p ADV VI-E3S-DIR-SC ADV
+\g entonces salir-E3S-DIR-SC pues
+\l Entonces salite pues.
+
+\t ticha' Padre,
+\m ti-cha' padre
+\p INC-VI S
+\g INC-decir padre
+\l Dice el padre.
+
+\t nen tatok neri b'an si ya bendesid chaq jat.
+\m nen t-a-tok neri b'an si ya bendesid chaq jat
+\p INT INC-E2S-VT ADV VT ADV VOC ADJ PL IMP
+\g INT INC-E2S-buscar aqui hacer si ya vendecido PL anda
+\l Que buscas aquí pues si ya esta vendita bete.
+
+\t Sim ta' chawaj rooqtaj taq wákix,
+\m si-m ta' ch-aw-aj r-ooqta-j taq wakix
+\p ADV-NEG NEG INC-E2S-VT E3S-VI-SC PL S
+\g si-NEG NEG INC-E2S-querer E3S-correr-SC PL vaca
+\l Si no quieres coretió sus vacas.
+
+\t cha'
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t alajwersa raj tijkoj laj chótix
+\m alajwersa r-aj ti-j-koj laj chotix
+\p ADV E3S-VT INC-E3S-VT PREP S
+\g a@la@fuerza E3S-querer INC-E3S-meter PREP iglesia
+\l A la fuerza quería meterlo a la iglesia.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t Ntons xpe taq, taq wákix,
+\m ntons x-pe taq taq wakix
+\p ADV COM-VT PL PL S
+\g entonces COM-venir PL PL vaca
+\l Entonces vinieron las vacas. (vueyes)
+
+\t tons loke xen taq, taq wákix
+\m tons loke x-en taq taq wakix
+\p ADV ADV COM-VT PL PL S
+\g entonces loque COM-hacer PL PL vaca
+\l Entonces lo que hicieron las vacas.
+
+\t xjusaj rib'aq li yugo,
+\m x-jus-aj r-ib'-aq li yugo
+\p COM-VT-PART E3P-SREL-PL DEM S
+\g COM-safar-PART E3P-SREL-PL DEM yugo
+\l Se safaron del yugo.
+
+\t xkan maj yugo konto maj karet chi' chótix,
+\m x-kan ma-j yugo kon-to ma-j karet chi' chótix
+\p COM-VI ART-E3S S ADJ-ADV ART-E3S S SREL S
+\g COM-quedar ART-E3S yugo con-todo ART-E3S carreta SREL iglesia
+\l Se quedo su yugo con su carreta frente la iglesia.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t Taq wákix xel taq b'ik,
+\m taq wakix x-el taq b'ik
+\p PL S COM-VI PL DIR
+\g PL vaca COM-salir PL DIR
+\l Las vacas salieron.
+
+\t komo nik' ta' kil, rik'il komo jun kirtyan
+\m komo nik' ta' kil r-ik'il komo jun kirtyaan
+\p ADV ADV NEG SREL E3S-SREL ADV NUM S
+\g como igual NEG SREL E3S-SREL como uno persona
+\l Como no es igual que una persona.
+
+\t awaji'n, per xana' respetar.
+\m awaj-i'n per x-a--na' respetar
+\p S-ENF ADV COM-E3S--ENF VT
+\g animal-ENF pero COM-E3S--ENF respetar
+\l Animal es, pero respeto.
+
+\t I re, kirtyani'n, kita' tran respetar.
+\m i r-e kirtyaan-i'n kita' t-r-an respetar
+\p CONJ E3S-SREL S-ENF NEG INC-E3S-VT VT
+\g CONJ E3S-SREL persona-ENF NEG INC-E3S-hacer respetar
+\l Y él es persona no respeta.
+
+\t Awajin taq wákix
+\m awaj-in taq wákix
+\p S-ENF PL S
+\g animal-ENF PL vaca
+\l Animales son las vacas.
+
+\t ta' xok taq laj chótix
+\m ta' x-ok taq laj chótix
+\p NEG COM-VI PL PREP S
+\g NEG COM-entrar PL PREP iglesia
+\l No entraron a la iglesia.
+
+\t loke xen taq xjusaj b'ik rib'aq la' jyugo xe' taq,
+\m loke x-en taq x-jus-áj b'ik r-ib'-aq la' j-yugo xe' taq
+\p ADV COM-VT PL COM-VT-PART DIR E3S-SREL-PL PREP E3S-S VI PL
+\g loque COM-hacer PL COM-safar-PART DIR E3S-SREL-PL PREP E3S-yugo ir PL
+\l Lo que hicierón se safaron del yugo se fueron.
+
+\t xkaaj ye' taq man karet.
+\m x-kaa-j ye' taq man karet
+\p COM-VT-E3S VT PL ART S
+\g COM-quedar-E3S dar PL ART carreta
+\l Dejarón la carreta.
+
+\t Tons, yaa, xpe padre xij re,
+\m tons yaa x-pe padre x-ij r-e
+\p ADV VOC COM-VI S COM-VT E3S-SREL
+\g entonces ya COM-venir padre COM-decir E3S-SREL
+\l Entonces ya vino el padre dijo a él.
+
+\t nen mod at ta' a respet nad.
+\m nen mod at ta' a respet nad
+\p INT ADV PRON NEG E2S S ADV
+\g INT modo tú/usted NEG E2S respeto nada
+\l ¿Porqué tú no tienes respeto nada?
+
+\t Awaj wi' jrespet
+\m awaj wi' j-respeto
+\p S EXS E3S-S
+\g animal EXS E3S-respeto
+\l Animal tiene respeto.
+
+\t rechaq awaj taqan kita' xok taq la jchótix,
+\m rechaq awaj taq-an kita' x-ok taq la j-chótix
+\p PRON S PL-ENF PART COM-VI PL PREP E3S-S
+\g ellos/ellas animal PL-ENF PART COM-entrar PL PREP E3S-iglesia
+\l Ellos son animales pero no entrarón en la iglesia.
+
+\t nen mod ril kwand tawuqtaaj
+\m nen mod r-il kwand t-a-wuq-taaj
+\p INT ADV E3S-VT ADV INC-E3S-VI-???
+\g INT modo E3S-ver cuando INC-E3S-correr-???
+\l En que modo lo vio cuando lo coretiabas.
+
+\t xpe xjusaajb'i rib'aq
+\m x-pe x-jus-aj-bì r-ib'-aq
+\p COM-VI COM-VT-PART-DIR E3P-SREL-PL
+\g COM-venir COM-safar-PART-DIR E3P-SREL-PL
+\l Vinieron se safarón.
+
+\t i kita' xok taq la jchótix.
+\m i kita' x-ok taq la j-chótix
+\p CONJ NEG COM-VI PL PREP E3S-S
+\g CONJ NEG COM-entrar PL PREP E3S-iglesia
+\l Y por que no entrarón en la iglesia.
+
+\t Awajtaqe, rechaq bendesidtaqaan awaj li,
+\m awaj-taq-e rechaq bendesid-taq-aan awaj li
+\p S-PL-ENF PRON S-PL-ENF S DEM
+\g animal-PL-ENF ellos/ellas bendecido-PL-ENF animal DEM
+\l Solo son animales, ellos están bendecidos esos animales.
+
+\t enkamby at ata' chiki' bendesid,
+\m enkamby at at-a' chik-i' bendesid
+\p ADJ PRON E2S-ENF PART-ENF VT
+\g encambio tú/usted E2S-ENF PART-ENF bendecido
+\l En cambio tú ya no estas bendecido.
+
+\t ori loke abid aat
+\m ori loke a-bid aat
+\p ADV ADV E2S-S PRON
+\g ahora loque E2S-vida tú/usted
+\l Ahora loque es tu vida.
+
+\t at waakot laq b'e rik'il man akaret.
+\m at wakot laq b'e r-ik'il man akaret
+\p PRON VI PREP S E3S-SREL ART S
+\g tú/usted pasear PREP camino E3S-SREL ART carreta
+\l Usted pasiaras en el camino con la carreta.
+
+\t Atb'en la q'ab'
+\m at-b'en la q'ab'
+\p A2S-VI PREP S
+\g A2S-caminar PREP noche
+\l Caminas en la noche.
+
+\t dondekeer la' atb'e'w,
+\m donde-keer la' at-b'e'-w
+\p ADV-??? PREP E2S-VI-PART
+\g donde-quiera en E2S-ir-PART
+\l Por donde quiera que vayas.
+
+\t atwk'xin laq chee',
+\m at-wk'xin laq chee'
+\p E2S-VI PREP S
+\g E2S-acurrucar PREP árbol
+\l Andarás sigiloso o acurrucado entro los árboles.
+
+\t laq, b'e.
+\m laq b'e
+\p PREP S
+\g PREP camino
+\l En el camino.
+
+\t Ri li bendisyon chawe aat lajori,
+\m ri li bendisiyon ch-aw-e aat laj'ori
+\p DEM DEM S INC-E2S-SREL PRON ADV
+\g DEM DEM bendicón INC-E2S-SREL tú/usted ahora
+\l Eso es la bendición para usted ahora.
+
+\t ticha' padre re,
+\m ti-cha' padre r-e
+\p INC-VI S E3S-SREL
+\g INC-decir padre E3S-SREL
+\l Le dijo él padre a él.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t I xpe re, xalmaj
+\m i x-pe r-e x-almaj
+\p CONJ COM-VI E3S-SREL COM-VI
+\g CONJ COM-venir E3S-SREL COM-escaparse
+\l Y vino él se escapó.
+
+\t xk'am b'i jkaret,
+\m x-k'am b'i j-karet
+\p COM-VT DIR E3S-S
+\g COM-recibir DIR E3S-carreta
+\l Llevo su carreta.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t I juntir kirtyan loke wi' kla'
+\m i juntiir kirtyaan loke wi' kla'
+\p CONJ ADV S ADV EXS ADV
+\g CONJ todo persona loque EXS allí
+\l Y toda las personas loque están allí.
+
+\t xtzaq jch'olaq chuch.
+\m x-tzaq j-ch'olaq ch-uch
+\p COM-VT E3S-S PREP-SREL
+\g COM-botar E3S-estómago PREP-SREL
+\l Se asustarón en frente de.
+
+\t I kwand li jori'
+\m i kwand li jor-i'
+\p CONJ ADV DEM ADV-ENF
+\g CONJ cuando DEM ahora-ENF
+\l Y cuando es ahora.
+
+\t por es tijb'ij kirtyan ke kwand wi' jun alg
+\m por es ti-j-b'ij kirtyan ke kwand wi' jun algo
+\p ADV ADV INC-E3S-VT S PART ADV EXS NUM ADV
+\g por es INC-E3S-decir persona que cuando EXS uno algo
+\l Por eso dice la gente que cuando hay un algo.
+
+\t jun k'ex laq, laq tilmit
+\m jun k'ex laq laq tinmit
+\p NUM ADJ PREP PREP S
+\g uno dolor PREP PREP pueblo
+\l Un mal en el pueblo.
+
+\t o laq b'e
+\m o laq b'e
+\p CONJ PREP S
+\g CONJ PREP camino
+\l O en los caminos.
+
+\t wi' bes re tiq'ax,
+\m wi' bes r-e ti-q'ax
+\p EXS ADV E3S-SREL INC-VI
+\g EXS a@veces E3S-SREL INC-pasar
+\l Hay veces él pasa.
+
+\t tiwok'ok' rik'il maj karet tiq'ax la q'ab',
+\m ti-wok'ok' r-ik'il ma-j karet ti-q'ax la q'ab'
+\p INC-AFE E3S-SREL ART-E3S S INC-VI PREP S
+\g INC-AFE E3S-SREL ART-E3S carreta INC-pasar PREP noche
+\l Hace ruido con su carreta pasa en las noches.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t xtzaqow ch'ol laq'ab',
+\m x-tzaq-ow ch'ol la-q'ab'
+\p COM-VT-AP S PREP-S
+\g COM-botar-AP estómago PREP-noche
+\l Espanta en las noches.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Decir.
+
+\t Dyunabes xkaan reqe tzaqow ch'ol laq b'e,
+\m dyunabes x-kan r-eqe tzaq-ow ch'ol laq b'e
+\p ADV COM-VI E3S-VT VT-AP S PREP S
+\g de@una@vez COM-quedar E3S-encontrar botar-AP estómago PREP camino
+\l De una vez se volvió espanto en los caminos.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t Derepent qe tijta' jun
+\m derepent qe ti-j-ta' juun
+\p ADV PART INC-E3S-VT NUM
+\g de@repente PART INC-E3S-encontrar uno
+\l De repente lo ecuentra uno.
+
+\t tijiniin rikil maj, maj,
+\m ti-jiniin r-ik'il ma-j ma-j
+\p INC-AFE E3S-SREL ART-E3S ART-E3S
+\g INC-AFE E3S-SREL ART-E3S ART-E3S
+\l Ruido con su , su.
+
+\t maj ra jchee' tiq'ax.
+\m ma-j ra j-chee' ti-q'ax
+\p ART-E3S DIM E3S-S INC-VI
+\g ART-E3S DIM E3S-palo INC-pasar
+\l Su palo o su madera pasa.
+
+\t Kom maldisyaad chaq
+\m kom maldisyaad chaq
+\p PART VT PART
+\g como maldecido PART
+\l Como ya esta maldecido.
+
+\t kom ta' chiki'
+\m kom ta' chik-i'
+\p ADV NEG PART-AFE
+\g como NEG PART-AFE
+\l Como ya no hay.
+
+\t ta' tzii loke xen.
+\m ta' tzii loke x-en
+\p NEG ADJ ADV COM-VT
+\g NEG bueno loque COM-hacer
+\l No es bueno lo que hizo.
+
+\t ta' chiki' wákix
+\m ta' chik-i' wakix
+\p NEG PART-ENF S
+\g NEG PART-ENF vaca
+\l Ya no hay vacas.
+
+\t kom wákix xalmaji'n,
+\m kom wakix x-almaj-i'n
+\p ADV S COM-VI-ENF
+\g como vaca COM-escaparse-ENF
+\l Como las vacas se escaparón.
+
+\t re chaq xkaan rik'il maj karet
+\m re chaq x-kaan r-ik'il ma-j karet
+\p E3S PART COM-VI E3S-SREL ART-E3S S
+\g E3S PART COM-quedar E3S-SREL ART-E3S carreta
+\l Él solo quedo con su carreta.
+
+\t ri' chaq re tijooliin rik'il laq b'ee,
+\m ri' chaq re ti-jool-iin r-ik'il laq b'ee
+\p DEM PART PRON INC-VI-??? E3S-SREL PREP S
+\g DEM PART él/ella INC-correr-??? E3S-SREL PREP camino
+\l Ya solo él corre con el en el camino.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dece.
+
+\t Pores kwand wi' juun ch'ooj
+\m pores kwand wi' juun ch'ooj
+\p ADV ADV EXS NUM S
+\g poreso cuando EXS uno pleito
+\l Por eso cuando hay un pleito.
+
+\t ri' re tiq'ax, tiq'ax primero laq b'ee
+\m ri' r-e ti-q'ax ti-q'ax primero laq b'ee
+\p DEM E3S-SREL INC-VI INC-VI NUM PREP S
+\g DEM E3S-SREL INC-pasar INC-pasar primero PREP camino
+\l Es él el que pasa pasa primero en el camino.
+
+\t ori la q'ab' titzaqw ch'ool,
+\m ori la q'ab' ti-tzaq-w ch'ool
+\p ADV PREP S INC-VT-AP S
+\g ahora PREP noche INC-botar-AP estómago
+\l Ahora, de noche espantan.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t Jwi'l kita' tikojoon,
+\m j-wi'l kita' ti-kojoon
+\p E3S-SREL NEG INC-VI
+\g E3S-SREL NEG INC-aceptar
+\l Porque no quiere aceptar o respetar.
+
+\t cha'.
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t Mas étzel kristyan porke li.
+\m mas étzel kirtyaan porke li
+\p ADV ADJ S ADV DEM
+\g más demonio persona porque DEM
+\l Más mala persona por que lo que hizo.
+
+\t Sin lastima tijb'alaj wákix li miix
+\m sin lastima ti-j-b'ala-j wakix li miix
+\p CONJ ADJ INC-E3S-VT-E3S S DEM S
+\g sin lastima INC-E3S-llenar-E3S vaca DEM misa
+\l Sin lastima mete su vaca en la misa.
+
+\t cha'.
+\m cha'
+\p VI
+\g dice
+\l Dice.
+
+\t Konto, man ra jkaret,
+\m kon-to man ra j-karet
+\p ADV-ADV ART DIM E3S-S
+\g con-todo ART DIM E3S-carreta
+\l Con todo la carreta.
+
+\t cha',
+\m cha'
+\p VI
+\g decir
+\l Dice.
+
+\t ri k'uli tijb'ij taq
+\m ri k'u-li ti-j-b'ij taq
+\p DEM PART-DEM INC-E3S-VT PL
+\g DEM PART-DEM INC-E3S-decir PL
+\l Eso es lo que dicen.
+
+\t ke kristyan ta' k'u jrespetaq nad,
+\m ke kirtyaan ta' k'u j-respe-taq nad
+\p ADV S NEG PART E3P-S-PL ADV
+\g que persona NEG PART E3P-respeto-PL nada
+\l Que las personas no tienen respeto nada.
+
+\t ta' tijkooj taq dyoos
+\m ta' ti-koj-oon taq dyoos
+\p NEG INC-VT-AP PL S
+\g NEG INC-creer-AP PL Dios
+\l No creen en Dios.
+
+\t rechaq juntir itz'ab' jwi'laq.
+\m rechaq juntiir itz'ab' j-wi'l-aq
+\p PRON ADV S E3S-SREL-PL
+\g ellos/ellas todo juguete E3S-SREL-PL
+\l Ellos todos de jugete lo tienen.
+
+\t Kyere desir ta', ta' tikojoon taq
+\m kyere desir ta' ta' ti-koj-oon taq
+\p VI VI NEG NEG INC-VI-AP PL
+\g quiere decir NEG NEG INC-creer-AP PL
+\l Quiere decir que no, no aceptán o respetán.
+
+\t kyerdesir ta' jrespetaq nik'are' nad,
+\m kyerdesir ta' j-respet-aq nik'-ar-e' nad
+\p VT NEG E3S-S-PL ADJ-ITR-ENF ADV
+\g quiere@decir NEG E3S-respeto-PL igual-ITR-ENF nada
+\l Quiere decir no respeta nada el.
+
+\t jii'n, jii'n.
+\m jii'n jii'n
+\p AFI AFI
+\g AFI AFI
+\l Asi mero es.
+
+\t Tons xensaj bendesir
+\m tons x-en-sáj bendesir
+\p ADV COM-PREP-PAS VT
+\g entonces COM-hacer-PAS bendecir
+\l Entonces lo bendijeron.
+
+\t kyere desir jbid, rechi' tiwa'kot
+\m kyere desir j-bid r-ech-i' ti-wa'kot
+\p VI VI E3S-S E3S-SREL-ENF INC-VT
+\g quiere decir E3S-vida E3S-SREL-ENF INC-pasear
+\l Quiere decir su vida es de pasear.
+
+\t laq q'uqum
+\m laq q'uqum
+\p PREP ADJ
+\g PREP oscuridad
+\l En la obscuridad.
+
+\t la q'ab'
+\m la q'aab'
+\p PREP S
+\g PREP noche
+\l De noche.
+
+\t jwi'li'li.
+\m j-wi'l-i'-li
+\p E3S-SREL-ENF-DEM
+\g E3S-SREL-ENF-DEM
+\l Por eso es.
+
+\t Kom tijb'ij ke, étzel bendesid jwi'l.
+\m kom ti-j-b'ij ke étzel bendesid j-wi'l
+\p PART INC-E3S-VT ADV S VT E3S-SREL
+\g como INC-E3S-decir que demonio bendecido E3S-SREL
+\l Como dicen que él mal lo bendijo.
+
+\t tonses medyabes kita' tijkoj dyoos.
+\m tonses medyabes kita' ti-j-koj dyoos
+\p ADV ADV NEG INC-E3S-VT S
+\g entonces media@vez NEG INC-E3S-meter Dios
+\l Entonces mediaves que no cree en Dios.
+
+\t Pwes tiwa'kot laq b'e nojeel a q'ab'.
+\m pwes ti-wakot laq b'e nojeel a q'ab'
+\p ADV INC-VI PREP S ADV CONJ S
+\g pues INC-pasear PREP camino todo CONJ noche
+\l Pues pasea en él camino todas las noches.
+
+\t I lon qe li, tijk'isb'ej sik' jbid.
+\m i lon qe li ti-j-k'is-b'ej sik' j-bid
+\p CONJ PART PART DEM INC-E3S-VT-??? AFE E3S-S
+\g CONJ PART PART DEM INC-E3S-terminar-??? AFE E3S-vida
+\l Y solo asi terminara su vida él pobre.
+
+\t Chuk' tijb'ij kristyan
+\m chuk' ti-j-b'ij kirtyaan
+\p ADV INC-E3S-VI S
+\g así@como INC-E3S-decir persona
+\l Asi como dicen las personas.
+
+\t ma aan taq k'ex,
+\m ma aan taq k'ex
+\p NEG VT PL ADJ
+\g NEG hacer PL dolor
+\l No hagan daño.
+
+\t porke ta' tzii tib'ensaj maldisyar jbid jun.
+\m porke ta' tzii ti-b'en-saj maldisyar j-bid jun
+\p ADV NEG ADJ INC-VT-PAS VT E3S-S NUM
+\g porque NEG bueno INC-hacer-PAS maldecir E3S-vida uno
+\l Porque no es bueno que maldicen la vida de uno.
+
+\t Rik'il jun kitz tikaan sach jun,
+\m r-ik'il jun kitz ti-kaan sach jun
+\p E3S-SREL NUM ADV INC-VI VI NUM
+\g E3S-SREL uno poco INC-quedar perder uno
+\l Solo con un poco se queda perdido uno.
+
+\t ta' chiki' jcholajl tren jun,
+\m ta' chik-i' j-chola-j-l t-r-en jun
+\p NEG PART-ENF E3S-ADV-???-SC INC-E3S-VT NUM
+\g NEG PART-ENF E3S-manera-???-SC INC-E3S-hacer uno
+\l Ya no hay manera que hace uno.
+
+\t jii'n ri li.
+\m ji-i'n ri li
+\p AFI-ENF DEM DEM
+\g AFI-ENF DEM DEM
+\l Asi es es. 16/11/05.
+

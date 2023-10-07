@@ -1,0 +1,16 @@
+\t arammba yare zaneme zf äfiyokwre
+\g arammba bag DEM:PROX=INS IMM 1PL:SBJ>2|3PL:OBJ:NONPAST:IPFV/make
+\l We make the Arammba bags with this one right here.'tci20130907-02JAA #410
+
+\t ebar fobo fof zäbtha zanemr zena znrä
+\g head DIST.ALL EMPH 2|3SG:SBJ:PST:PFV/finish DEM:PROX=PURP today PROX=1PL:SBJ:NONPAST:IPFV/be
+\l From this time onwards, the head-hunting finished. For this (reason), we are here today.' tci20111107-01MAK #148-149
+
+\t nafanmedben keke znsä rä zanemanzo ŋathwekwrth ( .) yusi fathsimanzo
+\g .ANIM.LOC NEG work 3SG.F:SBJ:NONPAST:IPFV/be DEM:PROX=CHAR=ONLY 2|3PL:SBJ:NONPAST:IPFV/be.happy (.) grass hold-NMLZ=CHAR=ONLY
+\l The (hard) work is not theirs (but ours). They are happy with doing just this … just the weeding.' tci20130823-06STK #109-111
+
+\t zane fthé keke srarä zyarä keke kwa sräthorth moneyme zanekaräsü ane srarä kwot
+\g DEM:PROX when NEG 3SG.MASC:IRR:IPFV/be PROX=3SG.MASC:IO:NONPAST:IPFV/be NEG FUT 2|3PL:SBJ>3SG.MASC:OBJ:IRR:PFV/carry money=INS DEM:PROX=PROP=ETC DEM 3SG.MASC:SBJ:IRR:IPFV/be properly
+\l If this (root) is not here, they won't buy it. Only with all of this will, they buy it.' tci20130907-02RNA #471-473
+

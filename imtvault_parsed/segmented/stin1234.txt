@@ -1,0 +1,24 @@
+\t Siapa men-cintai Sally (wh-subject in situ)
+\g who TRANS-loves Sally \t Siapa yang men-cintai Sally (moved wh-subject)
+\g who FOC TRANS-loves Sally 
+\l Who loves Sally?
+
+\t Sally men-cintai siapa (wh-object in situ)
+\g Sally TRANS-loves who \t Siapa yang Sally Ø-cintai (moved wh-object)
+\g who FOC Sally loves 
+\l Who does Sally love?
+
+\t Bill men-gira Tom men-harap Fred men-cintai siapa
+\g Bill TRANS-thinks Tom TRANS-expects Fred TRANS-loves who\t Siapa yang Bill Ø-kira Tom Ø-harap Fred Ø-cintai
+\g who FOC Bill think Tom expect Fred love
+\l Who did Bill think Tom expects Fred loves?
+
+\t Bill men-beri Tom men-harap siapa men-cintai Fred
+\g Bill TRANS-thinks Tom TRANS-expects who TRANS-loves Fred\t Siapa yang Bill Ø-beri Tom Ø-harap men-cintai Fred
+\g who FOC Bill thinks Tom expects TRANS-loves Fred
+\l Who does Bill think Tom expects loves Fred?
+
+\t *Siapa yang Bill men-gira Tom men-harap Fred men-cintai
+\g who FOC Bill TRANS-thinks Tom TRANS-expects Fred TRANS-loves
+\l Who did Bill think Tom expects Fred loves?
+

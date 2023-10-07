@@ -1,0 +1,96 @@
+\t guolli / guolá-š / guolá-ža-t
+\g fish _ fish-DIM _ fish-DIM-PL
+\l fish’ / ‘little fish’ / ‘little fishes
+
+\t stuorra guolli / guoli-t / guolá-š / guolá-ža-t
+\g big:ATTR fish _ fish-PL _ fish-DIM _ fish-DIM-PL
+\l big fish’ / ‘big fishes’ / ‘big little-fish’ / ‘big little-fishes
+
+\t unna guolá-š / guolá-ža-t
+\g small:ATTR fish-DIM _ fish-DIM-PL
+\l small fish’ / ‘small fishes
+
+\t guhke(WK)-s suohkku(STR)
+\g long-ATTR stocking
+\l the long stocking
+
+\t suohkku(STR)-s lea guhkki(STR)
+\g stocking-POSS:3SG is long.PRED.
+\l her stocking is long
+
+\t juhhki olmmoš
+\g drinking person
+\l drinking person
+
+\t juhkke-s olmmoš
+\g drinking-ATTR person
+\l alcoholic (i.e., a person addicted to drinking)
+
+\t šaddi soahki / soahki lea šaddi
+\g growing birch _ birch is growing
+\l growing birch’ / ‘(a/the) birch is growing
+
+\t arve-dálki
+\g rain-weather
+\l rain-weather
+
+\t arvve-s dálki
+\g rain-ATTR weather
+\l wet weather (i.e., weather full of rain)
+
+\t ođđa lága birra mánáidgárddiid várás
+\g new law.GEN about kindergarten.PL.GEN for
+\l about a/the new law for kindergartens
+
+\t Eará olbmuid birra govas sus eai lean gal dieđut .
+\g other person.PL.GEN about picture.LOC s/he.Loc NEG.3PL be.PAST.CONNEG PRT information.PL.NOM
+\l S/he had no information about other people in the picture.
+
+\t Johtalusa dáfus mielli alde , ferte atnit čielggasin ahte …
+\g traffic.GEN concerning river.bank.GEN on must.PRES.3SG consider.INF clear.ESS that …
+\l Concerning traffic on the river bank, one must consider it clear that …
+
+\t Gávdnen iežan niibbi duorggaid vuolde .
+\g find.PAST.1SG own.1SG knife.ACC twig.PL.GEN at.under
+\l I found my knife under the (heap of) twigs.
+
+\t Doppe čakŋala liegga gokčasa vuollái .
+\g there creep.PRES.3S warm blanket.GEN to.under
+\l There s/he creeps under a/the warm blanket.
+
+\t Geaidnu manai bávtte vuole .
+\g road.NOM go.PAST.3SG cliff.GEN past.under
+\l The road passed under a cliff.
+
+\t Dát iešguđetge doaimmat sáme-giela várás leat hábme-juvvon iešguđetge sektor-surggiin .
+\g these separate activity.PL.NOM sámi-language.GEN for are form-PASS.PTCP separate sector-branch.PL.LOC
+\l These different activities for the Sámi language are designed in the different sector branches.
+
+\t Vástit gažaldaga~gažaldahkii !
+\g answer.IMP.2SG question.GENACC~question.ILL
+\l Answer the question!
+
+\t Itgo liiko gažaldaga~gažaldahkii~gažaldagas ?
+\g NEG.2SG.Q like.CNG question.GENACC~question.ILL~question.LOC
+\l Don’t you like the question?
+
+\t Liikot guolis ? De han de liikot dán govas maid ?
+\g like.2SG fish.LOC then DPT then like.2SG this.GENACC picture.LOC also
+\l You like fish? Then you must like this picture too, right?
+
+\t Mun liikon dutnje~du~dus .
+\g 1SG like.1SG 2SG.ILL~2SG.GENACC~2SG.LOC
+\l I like you.
+
+\t Mun in liiko guollái~guoli~guolis .
+\g 1SG NEG.1SG like.CNG fish.ILL~fish.GENACC~fish.LOC
+\l I don’t like fish.
+
+\t Nuorran diggejin Beatles joavkku .
+\g young.ESS dig.PST.1SG Beatles group.GENACC
+\l When I was young, I dug the Beatles.
+
+\t Sii ballet guliin~guliid !
+\g 3PL fear.3PL fish.PL.LOC~fish.PL.GENACC
+\l They are afraid of fish!
+

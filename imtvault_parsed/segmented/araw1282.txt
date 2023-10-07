@@ -1,0 +1,16 @@
+\t osonaa=ko ?
+\g PN=Q.M
+\l Is he a Kashinawa?
+
+\t osonaa=ki ?
+\g PN=Q.F
+\l Is she a Kashinawa?
+
+\t Ee man-o koma-ke .
+\g 1PL.INCL.INALIEN arm-DERIV.M be.sore-DECL.F
+\l Our (inclusive) arms are sore.
+
+\t ojoro ka-bodi-ni ka-karaho
+\g turtle(KA;F) KA-mouth(N.KA;F)-3SG.F.DERIV KA-big
+\l big mouth of a turtle' or `mouth of a big turtle
+

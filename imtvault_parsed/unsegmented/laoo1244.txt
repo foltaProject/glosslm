@@ -1,0 +1,60 @@
+\t kuu3 sùù4 paa3 sòòng3 too3
+\g 1SG.B buy fish two NUM_CL:ANIMATE
+\l I bought two fish.
+
+\t kuu3 lak1 lot1 sòòng3 khan2
+\g 1SG.B steal vehicle two NUM_CL:VEHICLE
+\l I stole two cars.
+
+\t kuu3 siøkin3 paa3 toønii4
+\g 1SG.B IRR=eat fish MOD_CL:NON.HUMAN=DEM
+\l I’m going to eat this fish.
+
+\t kuu3 siøkin3 paa3 (toø)ñaaw2
+\g 1SG.B IRR=eat fish (MOD_CL:NON.HUMAN=)long
+\l I’m going to eat the long fish.
+
+\t khòòj5 mak1 sin5 toønii4
+\g 1SG.P like Lao.skirt MOD_CL:NON.HUMAN=DEM
+\l I like this skirt.
+
+\t khòòj5 mak1 sin5 qanønii4
+\g 1SG.P like Lao.skirt MOD_CL:INANIMATE=DEM
+\l I like this skirt.
+
+\t kuu3 siøkin3 paa3 sòòng3 toønii4
+\g 1SG.B IRR=eat fish two MOD_CL:NON.HUMAN=DEM
+\l I’m going to eat these two fish.
+
+\t mèèw2 saam3 qan3
+\g cat three NUM_CL:SMALL.OBJECT
+\l three toy cats
+
+\t mèèw2 qanønii4
+\g cat MOD_CL:INANIMATE=DEM
+\l this toy cat
+
+\t cia4 saam3 kòòn4
+\g paper three NUM_CL:LUMP
+\l three crumpled pieces of paper
+
+\t cia4 kòònønii4
+\g paper MOD_CL:LUMP=DEM
+\l this crumpled piece of paper
+
+\t woqe'enge agēnē 'erē mom kal 'i …
+\g wood DEM.SPKR.A PL put up DEL …
+\l This wood here [in speaker's hand], put (it) up, I have just cut (it).' HouseBuilding10_FQ.005
+
+\t n gasel luwo mum gēn
+\g ART knife big POSS.GEN-2SG DEM.SPKR
+\l Your bush knife is here [where I am]!' observed
+
+\t ruwan nōk ēn bē agēnē nbē nōk anē ga mana nē .
+\g HUM:DL=ART POSS.DOM-1SG ART water DEM.SPKR.A ART=water POSS.DOM-1SG DEM.SPKR.A STAT power DEM.ADDR
+\l Hey you two, I have some water here. This water of mine has magic powers.' AS.1.100–101
+
+\t n qō gēnē won man̄ra gēnē no me gis gidēk van .
+\g ART pig DEM.SPKR and=ART money DEM.SPKR 1SG FUT hold 1PL.IN=AOR go
+\l I have a pig here, and some money here. I'll take it and then let's go.' ISWM.219
+

@@ -1,0 +1,254 @@
+\t  Kitab–ni oqu –p baq–tim .
+\g book–ACC read–CVB try.AUX–PST:1S
+\l I tried to read the book.
+
+\t Boston–gha bér–ip baq–tim .
+\g B.–DAT go–CVB look.AUX–PST:1S
+\l I gave going to Boston a try.’ entails that I arrived in Boston
+
+\t Ali öy–ge kél–ip , tapshuruq ishle–p , andin tamaq yé–di .
+\g A. house-DAT come–CVB, homework do–CVB, and then food eat–PST:3S
+\l Ali came home, did his homework, and ate some food.
+
+\t Men bu hékayi–ni oqu–p bol–masmen .
+\g I this story–ACC read–CVB become.AUX–AOR.NEG=COP.1S
+\l I cannot read this story
+
+\t Kélidighanlarning hemmisi kélip boldi , majlisni bashlayli
+\g come-IPFV-PL-GEN everyone-3S.POSS come-CVB become.AUX-PST:3 meeting-ACC begin-OPT.1P
+\l All who are coming have arrived, so let’s begin the meeting.
+
+\t #Déngiz–gha besh minut qara–p bol–dum .
+\g sea–DAT five minute look at–CVB bol–PST:1S
+\l I looked at the ocean for five minutes.
+
+\t #Men bayliq tép–ip bol–dum .
+\g I treasure find–CVB become.AUX–PST:3S
+\l I found the treasure.
+
+\t #Put–um–ni sun–dur–up bol–dum .
+\g leg-1S-ACC break–CAUS–CVB become.AUX–PST:1S
+\l I broke my leg
+
+\t #Korli–gha bér–ip bol–duq .
+\g Korla–DAT go-CVB become.AUX-PST:1P\t #Korla–ga bar–ib bo‘l–dik .
+\g Korla–DAT go-CVB become.AUX-PST:1P
+\l We went to Korla.
+
+\t Kéme chök–ti .
+\g ship sink–PST:3S
+\l The ship sank.’ (true whether part or all of the ship sank)
+
+\t Kéme chök–üp bo‘l–di .
+\g ship sink–CVB become.AUX–PST:3S
+\l The ship sank.’ (only true if all of it sank)
+
+\t  ?Besh sa’et–te kitab–ni oqu–dum .
+\g five hour–LOC book–ACC read–PST:1S
+\l I read the book in five hours.
+
+\t Besh sa’et kitab–ni oqu–dum .
+\g five hour book–ACC read–PST:1S
+\l I read the book for five hours.
+
+\t Besh sa’et–te kitab–ni oqu–p bol–dum .
+\g five hour–LOC book–ACC read–CVB become.AUX–PST:1S
+\l I read the book in five hours.
+
+\t #Besh sa’et kitab–ni oqu–p bol–dum .
+\g five hour book–ACC read–CVB become.AUX–PST:1S
+\l I read the book for five hours.
+
+\t Ali kitab–ni oqu–p , tapshuruq ishle–p boldi .
+\g A. book–ACC read–CVB homework do–CVB become.AUX–PST:3S
+\l Ali read the book, and did all his homework.’ (true if he only read part of the book)
+
+\t Ali kitab–ni oqu–p bol–up , tapshuruq–nimu ishle–p bol–di .
+\g A. book–ACC read–CVB become.AUX–CVB homework–ACC=even do–CVB become.AUX–PST:3S
+\l Ali read the whole book, and (even) did all his homework.
+
+\t Kitab–ni oqu–p bol–mu–dum .
+\g book–ACC read–CVB become.AUX–NEG–PST:1S
+\l I did not read the (whole) book.
+
+\t Kéme chök–üp bol–ar .
+\g ship sink–CVB become.AUX–AOR:3S
+\l A ship sinks all the way’ (e.g., if it has a hole in the bottom)
+
+\t #Qeshqer–ge bér–ip bol–duq .
+\g (city)–DAT go–CVB become.AUX–PST:1S\t #Qarshi–ga bar–ib bo‘l–dik .
+\g (city)–DAT go–CVB become.AUX–PST:1S
+\l We went to Qashgar/Qarshi.
+
+\t Kéme chök–üp bol–mi–di .
+\g ship sink–CVB become.AUX–NEG–PST:3S
+\l The ship did not sink.’ =The ship did not sink at all or The ship sank, but not all the way.
+
+\t Ali kitab–ni oqu–p bol–uptu .
+\g A. book–ACC read–CVB become.AUX–PAST.EVID:3S
+\l Ali read the book, and I heard he read it all./I hear he read the whole book.
+
+\t Ali put–i–ni sun–dur–up bol–uptu .
+\g A. leg–3S–ACC break–CAUS–CNV become.AUX–PAST.EVID:3S
+\l Ali broke his leg.’ (I heard)
+
+\t Men ishin–imen ki , Ali put–i–ni sun–dur–up bol–di .
+\g I believe–PRS:1S that A. leg–3S–ACC break–CAUS–CVB become.AUX–PST:3S
+\l I believe that Ali broke his leg.
+
+\t Men ishin–imen ki , Ali tapshuruq–i–ni ishle–p bol–di .
+\g I believe–PRS:1S that A. homework–3S–ACC do–CVB become.AUX–PST:3S
+\l I believe that Ali did his homework.
+
+\t Mashina–m soq–ul–up bol–di .
+\g car–1S smash–PASS–CVB become.AUX–PST:3S
+\l I got in a wreck.’ (lit. ‘my car got smashed’)
+
+\t #Yaq , Korli–gha bér–ip bol–duq .
+\g No, Korla–DAT go–CVB become.AUX–PST:1P
+\l No, we went to Korla.
+
+\t #Yo‘q , Samarqand–ga bar–ib bo‘l–dik .
+\g No, Samarqand–DAT come–CVB become.AUX–PST:1P
+\l No, we went to Samarqand.
+
+\t Harry Cho bilen söy–üsh–üp bol–di .
+\g H. C. with kiss–RECP–CVB become.AUX–PST:3S
+\l Harry and Cho kissed.
+
+\t Pirenik–ler–ni ye–may bol–maydu .
+\g cookie–PL–ACC eat– bol–NEG.PRTP=PST:3S
+\l He must eat the cookies.’ (=he can’t not)
+
+\t Ahmet  mening kitkenlikimni  didi .
+\g Ahmet [1.SG.GEN leave-REL-NMLZ-1SG-ACC] say-PAST.3P
+\l ✔ (non-shifted) ‘Ahmet said that I left.’ * (shifted) ‘Ahmet said that he left.
+
+\t Ahmet  men kettim  didi .
+\g Ahmet [1 leave-PAST.1SG] say-PAST.3P
+\l *(non-shifted) ‘Ahmet said that I left.’ ✔ (shifted) ‘Ahmet said that he left.
+
+\t fatsɪxa kɛvɛ̃limu ?
+\g house-ACC build-finish-PFV=Q
+\l Is the house built?
+
+\t ni thamxa ʃɪmala khuɛ̃tɛli ?
+\g 2SG 2PL-ACC what-INST wait-?-?INT
+\l What would you serve them with?’ (: 866, 868)
+
+\t qeldingmu ?
+\g do-PST=Q
+\l Did you do?
+
+\t qelamsan ?
+\g do-NPST-Q-2SG
+\l Do you do?
+
+\t ätä kelälämsiz ?
+\g tomorrow come-ABIL-NPST-Q-2SG.POL
+\l Can you come tomorrow?’ (: 366)
+
+\t sän tapšuruqni išläp bolduŋmu ?
+\g 2SG homework-ACC make-CVB aux-PST.2SG=Q
+\l Have you finished your homework?’ (: 219)
+
+\t bayiqi gäpni aŋlimidiŋma ?
+\g just.now talk-ACC hear-NEG-PST=Q
+\l Didn’t you hear what was just said?’ (: 367)
+
+\t nima bâr ?
+\g what exist
+\l What is there?
+
+\t bu nemä ?
+\g this what
+\l What is this?’ (: 367)
+
+\t bügün kelamsiz (yaki) ätimu ?
+\g today come-NPST-Q-2SG.POL or tomorrow=Q
+\l Do you come today or tomorrow?’ (: 321)
+
+\t sän zadi baramsän , barmamsän ?
+\g 2SG actually go-PRS-Q-2SG go-NEG-Q-2SG
+\l Will you actually go or not?
+
+\t saŋa jan keräkmu ämäsmu ?
+\g 2SG.DAT life need=Q NEG=Q
+\l Do you want to live?
+
+\t bašqilardin alγan qärzni qayturalamsän yoq ?
+\g other-PL-ABL take-P.PFV debt-ACC pay-ABIL-Q-2SG NEG
+\l Can you pay the debt you have from the others or not?’ (: 368)
+
+\t öjde öʃke barmu joq(mu) ?
+\g house-LOC goat COP=Q NEG(=Q)
+\l Are there any goats in the house or not?
+
+\t ma jɛktʃɛʃmɛ kiʃi kim ?
+\g this one.eyed person who
+\l Who is this one-eyed person?’ (: 46)
+
+\t ular bügün kälmäydu , šundaqqu ?
+\g 3PL today come-NEG-3NPST just.so=Q
+\l You are not coming today, right?’ (: 322)
+
+\t /t͡ʃoŋ/
+\g [t͡ʃoɴ]
+\l big
+
+\t   Menɨŋ jigen   tamaqim jaχʃi .
+\g _ 1SG-GEN eat-RAN _ food-1SG.POSS good
+\l The food that I ate is good.
+
+\t   Ötkürnɨŋ oquʁan   kitavi uzum .
+\g _ Ötkür-GEN read-RAN _ book-3SG.POSS long
+\l The book that Ötkür read is long.
+
+\t   Ötkür oquʁan   kitap uzum .
+\g _ Ötkür read-RAN _ book long
+\l The book that Ötkür read is long.
+
+\t Ajgülnuŋ resimi
+\g Aygül-GEN picture-3SG.POSS
+\l picture belonging to Aygül' or `picture depicting Aygül
+
+\t Ötkürnɨŋ Ajgülnuŋ resimi
+\g Ötkür-GEN Aygül-GEN picture-3SG.POSS
+\l int.: `picture that depicts Aygül and belongs to Ötkür
+
+\t   Ötkürnɨŋ oquʁan  Ajgülnuŋ kitavi uzum .
+\g _ Ötkür-GEN read-RAN Aygül-GEN book-3SG.POSS long
+\l int.: `Aygül's book that Ötkür read is long.
+
+\t   Ötkür oquʁan  Ajgülnuŋ kitavi uzum .
+\g _ Ötkür read-RAN Aygül-GEN book-3SG.POSS long
+\l Aygül's book that Ötkür read is long.
+
+\t   χeqiqi Ajgülniŋ jazʁan   kitivini korset !
+\g _ truly Aygül-GEN write-RAN _ book-3SG.POSS-ACC show
+\l Show me the book that Aygül truly wrote.
+
+\t   χeqiqi meniŋ jaχʃi körigen   tamaqimni ber !
+\g _ truly I-GEN well see-IMPF-RAN _ food-1SG.POSS-ACC give
+\l Give (me) the food that I truly like.
+
+\t Men   Ajgulnuŋ katʃan ketken(lik)   heqiqetini sordum .
+\g 1SG _ Aygül-GEN when leave-RAN-LIQ _ fact-3SG.POSS-ACC asked
+\l I asked when Aygül left.
+
+\t   Ötkürnɪŋla kelgenlik   xeveri muhim .
+\g _ Otkür-GEN-only come-RAN-LIQ _ news-3SG.POSS important
+\l The news that only Ötkür came is important.
+
+\t   meniŋla jaχʃi körgen   kitavim uzun .
+\g _ 1SG-GEN-only well see-RAN _ book-1SG.POSS long
+\l The book that only I like is long.
+
+\t Ötkür   Ajgülnuŋ kelgenlikini   didimu ?
+\g Ötkür _ Ajgül-GEN come-RAN-LIQ-3.POSS-ACC _ said-Q
+\l Did Ötkür say that Aygül came?
+
+\t Yaq , Ötkür   Mehemmetnɨŋ kelgenlikini   didi .
+\g no Otkür _ Mehemmet-GEN come-RAN-LIQ-3.POSS-ACC _ said
+\l No, Ötkür said that MEHEMMET came.
+

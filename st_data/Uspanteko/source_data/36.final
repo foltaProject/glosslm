@@ -1,0 +1,1175 @@
+\nom Pedro-Malo
+
+\ref trtex036Usp04 001
+\t Tengo el gusto de realizar una grabación con don Vicente Pinula Chamatun. El cuenta con veintisiete años de edad, la fecha del día de hoy veintises de julio del año dos mil cuatro. Él es originario de aqui de la aldea Chipaj, al igual que sus padres. El cuento que nos va relatar en este momento se llama Pedro malo,él autoriza a OKMA para que se publique en todos los medios este contenido de esta grabación. Dejo en compañia de ustedes a don Vicente Pinula Chamatun. If. Ataq alch'e xik tanyool jun istorya chawe chaq re yaj Lu' étzel Lu',+
+
+\ref trtex036Usp04 002
+\t wi' ju... un+
+\m wi' ju un
+\g EXS uno uno
+\c EXS NUM NUM
+\l Hay un.
+\p EXS#EXS NUM NUM
+
+\ref trtex036Usp04 003
+\t wi' junab'+
+\m wi' junab'
+\g EXS año
+\c EXS S
+\l Hay años.
+\p EXS#EXS S
+
+\ref trtex036Usp04 004
+\t wi' jun istorya re aaj Lu'+
+\m wi' jun istorya re aaj Lu'
+\g EXS uno historia SREL CLAS Pedro
+\c EXS NUM S SREL CLAS NOM
+\l Hay una historia de Pedro.
+\p EXS#EXS NUM S SREL#SREL CLAS#CLAS NOM
+
+\ref trtex036Usp04 005
+\t ke wi' jun num q'iij,+
+\m ke wi' jun num q'iij
+\g que EXS uno grande día
+\c PART EXS NUM ADJ S
+\l Que havía una fiesta.
+\p PART EXS#EXS NUM ADJ S
+
+\ref trtex036Usp04 006
+\t kinse de Mayo+
+\m kinse de mayo
+\g quince de mayo
+\c NUM PREP S
+\l Quince de mayo.
+\p NUM PREP S
+
+\ref trtex036Usp04 007
+\t num q'iij San Isidr.+
+\m num q'iij San Isidr
+\g grnade día CLAS Isidro
+\c ADJ S CLAS NOM
+\l Fiesta de San Isidro.
+\p ADJ S CLAS#CLAS NOM
+
+\ref trtex036Usp04 008
+\t Xpet ke juntir kristyan tijk'am. taq b'i... ra jneb'i re,+
+\m x- pet ke juntiir kristyan ti- j- k'am taq b'i ra j- ne -b'i re
+\g COM venir que todo persona INC E3S recibir PL DIR DIM E3S INT DIR PART
+\c TAM VI PART ADV S TAM PERS VT PART DIR PART PERS PART DIR PART
+\l Vinieron que todas las personas llevaron su como se llama a él.
+\p COM#TAM VI PART ADV S INC#TAM E3S#PERS VT PL#PART DIR#DIR DIM#PART E3S#PERS INT#PART DIR#DIR PART#PART
+
+\ref trtex036Usp04 009
+\t ra jkaretaq neb'i re,+
+\m ra j- karet -aq ??? ???
+\g DIM E3S carreta PL ??? ???
+\c PART PERS S PART ??? ???
+\l La carreta como se llama.
+\p DIM#PART E3S#PERS S PL#PART ??? ???
+
+\ref trtex036Usp04 010
+\t ra jkaretaq,+
+\m ra j- karet -aq
+\g DIM E3S carreta PL
+\c PART PERS S PART
+\l La carreta.
+\p DIM#PART E3S#PERS S PL#PART
+
+\ref trtex036Usp04 011
+\t ra jb'endisyonaq re jk'ayaq.+
+\m ra j- b'endisyon -aq re j- k'ay -aq
+\g DIM E3S vendicion PL SREL E3S venta PL
+\c DIM PERS S PART SREL PERS S PART
+\l La vendición para suus ventecitas.
+\p DIM#DIM E3S#PERS S PL#PART SREL#SREL E3S#PERS S PL#PART
+
+\ref trtex036Usp04 012
+\t Re la' nim q'iij San Isidr+
+\m re la' nim q'iij San Isidr
+\g SREL PREP grande día CLAS Isidro
+\c SREL PREP ADJ S CLAS NOM
+\l De la fiesta de San Isidro.
+\p SREL#SREL PREP#PREP ADJ S CLAS#CLAS NOM
+
+\ref trtex036Usp04 013
+\t rik'il padre tib'ensaj
+\m r- ik'il padre ti- b'en -saj
+\g E3S SREL padre INC hacer PAS
+\c PERS SREL S TAM VT SUF
+\l Con el padre hacen.
+\p E3S#PERS SREL#SREL S INC#TAM VT PAS#SUF
+
+\ref trtex036Usp04 014
+\t tons xtaw re,+
+\m tons x- taw re
+\g entonces COM llegar él/ella
+\c ADV TAM VT PRON
+\l Entonces llego él.
+\p ADV COM#TAM VT PRON
+
+\ref trtex036Usp04 015
+\t mulan chaq jkaretaq taq kristyan chi', chi', chótix.+
+\m mul -an chaq j- karetaq taq kirtyaan chi' chi' chótix
+\g montón AP PART E3S carreta PL persona SREL SREL iglesia
+\c MED SUF PART PERS S PART S SREL SREL S
+\l Amontonado están las carretas de las personas frente la iglesia.
+\p MED AP#SUF PART#PART E3S#PERS S PL#PART S SREL#SREL SREL#SREL S
+
+\ref trtex036Usp04 016
+\t I xpe re... lokexen re xk'amb',+
+\m i x- pe r- e loke- x- en r- e x- k'am -b'
+\g CONJ COM venir E3S SREL loque COM hacer E3S SREL COM recibir DIR
+\c CONJ TAM VI PERS SREL ADV TAM VT PERS SREL TAM VT DIR
+\l Y vino él lo que hizo, se llevó.
+\p CONJ#CONJ COM#TAM VI E3S#PERS SREL#SREL ADV COM#TAM VT E3S#PERS SREL#SREL COM#TAM VT DIR#DIR
+
+\ref trtex036Usp04 017
+\t xk'amb' jkaret chirij wákix+
+\m x- k'am -b' j- karet chi- r- ij wakix
+\g COM recibir DIR E3S carreta PREP E3S SREL vaca
+\c TAM VT DIR PERS S PREP PERS SREL S
+\l Llebo su carreta detras de una vaca. (fue jalada la carreta por los bueyes)
+\p COM#TAM VT DIR#DIR E3S#PERS S PREP#PREP E3S#PERS SREL#SREL S
+
+\ref trtex036Usp04 018
+\t jurchuchul wi'l wákix+
+\m jurchuchul wi'l wakix
+\g jalado SREL vaca
+\c VT SREL S
+\l Arastrado por vaca. (jalado por bueyes)
+\p VT SREL#SREL S
+
+\ref trtex036Usp04 019
+\t tijk'am b'ik.+
+\m ti- j- k'am b'ik
+\g INC E3S recibir DIR
+\c TAM PERS VT DIR
+\l Se la llevo.
+\p INC#TAM E3S#PERS VT DIR#DIR
+
+\ref trtex036Usp04 020
+\t I kom tijb'ij taq ke San Isidr+
+\m i kom ti- j- b'ij taq ke San Isidr
+\g CONJ como INC E3S decir PL que CLAS Isidro
+\c CONJ ADV TAM PERS VT PART PART CLAS NOM
+\l Y como le dicen a San Isidro.
+\p CONJ#CONJ ADV INC#TAM E3S#PERS VT PL#PART PART CLAS#CLAS NOM
+
+\ref trtex036Usp04 021
+\t wi' jwákix.+
+\m wi' j- wakix
+\g EXS E3S vaca
+\c EXS PERS S
+\l Tiene vacas.
+\p EXS#EXS E3S#PERS S
+
+\ref trtex036Usp04 022
+\t Entons re, re, ma xaqta chub' man karet+
+\m entons r- e r- e ma xaq -ta ch- ub' man karet
+\g entonces E3S SREL E3S SREL NEG PART NEG PREP SREL ART carreta
+\c ADV PERS SREL PERS SREL PART PART PART PREP SREL ART S
+\l Entonces él no solo por la carreta.
+\p ADV E3S#PERS SREL#SREL E3S#PERS SREL#SREL NEG#PART PART#PART NEG#PART PREP#PREP SREL#SREL ART#ART S
+
+\ref trtex036Usp04 023
+\t no ke konto wákix tib'ensaj bendesir xi'j.+
+\m no ke kon- to wakix ti- b'en -sáj bendesir x- i'j
+\g no que con todo vaca INC hacer PAS vendecir COM decir
+\c ADV PART ADV ADV S TAM VT SUF VT TAM VT
+\l No que con toda y vacas le dan la vendición.
+\p ADV PART ADV ADV S INC#TAM VT PAS#SUF VT COM#TAM VT
+
+\ref trtex036Usp04 024
+\t I ruk' re, re kom étzel kristyan+
+\m i ruk' r- e r- e kom étzel kirtyaan
+\g CONJ PART E3S SREL E3S SREL como demonio persona
+\c CONJ PART PERS SREL PERS SREL ADV ADJ S
+\l Y como él como mala persona.
+\p CONJ#CONJ PART#PART E3S#PERS SREL#SREL E3S#PERS SREL#SREL ADV ADJ S
+
+\ref trtex036Usp04 025
+\t re ta' tijkoj neb'ire',+
+\m r- e ta' ti- j- koj ne- b'i -re'
+\g E3S SREL NEG INC E3S meter INT decir ENF
+\c PERS SREL PART TAM PERS VT PART VT PART
+\l Él no cree como se llama...
+\p E3S#PERS SREL#SREL NEG#PART INC#TAM E3S#PERS VT INT#PART VT ENF#PART
+
+\ref trtex036Usp04 026
+\t si neb'ire'+
+\m si ne- b'i -re'
+\g si INT decir ENF
+\c ADV PART VT PART
+\l Si como se llama o como es...
+\p ADV INT#PART VT ENF#PART
+
+\ref trtex036Usp04 027
+\t si awas tijb'alaj wákix ra la jaa+
+\m si awas ti- j- b'ala -j wakix (ra) la jaa
+\g si pecado INC E3S meter SC vaca ??? PREP casa
+\c ADV ADV TAM PERS VT SUF S ??? PREP S
+\l Si es pecado meter vacas a la iglesia.
+\p ADV ADV INC#TAM E3S#PERS VT SC#SUF S ??? PREP#PREP S
+
+\ref trtex036Usp04 028
+\t o la jchótix,+
+\m o la j- chotix
+\g CONJ PREP E3S iglesia
+\c CONJ PREP PERS S
+\l O en la iglesia.
+\p CONJ#CONJ PREP#PREP E3S#PERS S
+
+\ref trtex036Usp04 029
+\t re xokb'ik dyunabes li, li konto wákix tijkoj b'ik la jchótix.+
+\m r- e x- ok- b'ik dyunabes li li kon- to wakix ti- j- koj b'ik la j- chótix
+\g E3S SREL COM entrar DIR de@una@vez DEM DEM con todo vaca INC E3S meter DIR PREP E3S iglesia
+\c PERS SREL TAM VI DIR ADV DEM DEM ADV ADV S TAM PERS VT DIR PREP PERS S
+\l Él metio de una vez con todo las vacas en la iglesia.
+\p E3S#PERS SREL#SREL COM#TAM VI DIR#DIR ADV DEM#DEM DEM#DEM ADV ADV S INC#TAM E3S#PERS VT DIR#DIR PREP#PREP E3S#PERS S
+
+\ref trtex036Usp04 030
+\t Tons xi'j padre re,+
+\m tons x- i'j padre r- e
+\g entonces COM decir padre E3S SREL
+\c ADV TAM VT S PERS SREL
+\l Entonces le dijo el padre a él.
+\p ADV COM#TAM VT S E3S#PERS SREL#SREL
+
+\ref trtex036Usp04 031
+\t ke nen mod takoj wákix neri,+
+\m ke nen mod t- a- koj wakix neri
+\g que INT modo INC E3S meter vaca aqui
+\c ADV PART ADV TAM PERS VT S ADV
+\l Por que entras los bueyes aquí.
+\p ADV INT#PART ADV INC#TAM E3S#PERS VT S ADV
+
+\ref trtex036Usp04 032
+\t wa'xenw rik'il laq loke nik'j wi' taq ki'li be+
+\m wa'xen -w r- ik'il laq loke nik'j wi' taq ki'- li be
+\g estar PART E3S SREL PREP loque otros EXS PL PART DEM ver
+\c VI PART PERS SREL PREP ADV ADV EXS PART PART DEM VT
+\l Quédate con los que estan ahí vé.
+\p VI PART#PART E3S#PERS SREL#SREL PREP#PREP ADV ADV EXS#EXS PL#PART PART#PART DEM#DEM VT
+
+\ref trtex036Usp04 033
+\t olb'eel jwi'laq, nen or tib'ensaj bendisyon, re maq karet,+
+\m olb'eel j- wi'l -aq nen or ti- ben -saj bendisyon r- e maq karet
+\g esperar E3S SREL PL INT ahora INC hacer AP bendición E3S SREL ART carreta
+\c VT PERS SREL SUF ADV ADV TAM VT SUF S PERS SREL ART S
+\l Esperando que horas hacen la vendición de las carretas.
+\p VT E3S#PERS SREL#SREL PL#SUF INT#ADV ADV INC#TAM VT AP#SUF S E3S#PERS SREL#SREL ART#ART S
+
+\ref trtex036Usp04 034
+\t waxenw rik'ilaq ki li,+
+\m waxen -w r- ik'il -aq ki li
+\g estar PART E3S SREL PL PART DEM
+\c VI PART PERS SREL PART PART DEM
+\l Quedate con ellos ahí.
+\p VI PART#PART E3S#PERS SREL#SREL PL#PART PART#PART DEM#DEM
+
+\ref trtex036Usp04 035
+\t ruk' niri takoojch niri ta' las tijye' re kristyan.+
+\m ruk' niri t- a- kooj -ch niri ta' las ti- j- ye' r- e kirtyaan
+\g PART aqui INC E3S meter DIR aqui NEG donde INC E3S dar E3S SREL persona
+\c PART ADV TAM PERS VT DIR ADV PART ADV TAM PERS VT PERS SREL S
+\l Y aquí lo entras, aquí no hay donde colocar a la gente.
+\p PART#PART ADV INC#TAM E3S#PERS VT DIR#DIR ADV NEG#PART ADV INC#TAM E3S#PERS VT E3S#PERS SREL#SREL S
+
+\ref trtex036Usp04 036
+\t Ta' k'ex tib'ensaj k'ex re kristyaan+
+\m ta' k'ex ti- b'en -sáj k'ex r- e kristyaan
+\g NEG dolor INC hacer PAS dolor E3S SREL persona
+\c PART ADJ TAM VT SUF ADJ PERS SREL S
+\l Derepente le hace daño a la gente.
+\p NEG#PART ADJ INC#TAM VT PAS#SUF ADJ E3S#PERS SREL#SREL S
+
+\ref trtex036Usp04 037
+\t jwi'l wákix.+
+\m j- wi'l wakix
+\g E3S SREL vaca
+\c PERS SREL S
+\l Por las vacas.
+\p E3S#PERS SREL#SREL S
+
+\ref trtex036Usp04 038
+\t A, si ta' chawaj ta'an bendesir inwákix pech inkaret+
+\m a si ta' ch- aw- aj ta- 'an bendesir in- wakix pech in- karet
+\g CONJ si NEG INC E2S querer INC hacer vendecir A1S vaca compañero E1S carreta
+\c CONJ ADV PART TAM PERS VT TAM VT VT PERS S S PERS S
+\l A si no queres que bendigas mi vaca junto mi carreta. (bueyes)
+\p CONJ#CONJ ADV NEG#PART INC#TAM E2S#PERS VT INC#TAM VT VT A1S#PERS S S E1S#PERS S
+
+\ref trtex036Usp04 039
+\t ya neejb'ij re ya iin+
+\m ya ne- j- b'ij re ya iin
+\g ya INT E3S decir PART ya yo
+\c VOC PART PERS VT PART VOC PRON
+\l Ya como se llama... él ya yo.
+\p VOC INT#PART E3S#PERS VT PART#PART VOC PRON
+
+\ref trtex036Usp04 040
+\t ya inkaret iin bendesid chaq, jwi'l dyawl,+
+\m ya in- karet iin bendesid chaq j- wi'l dyawl
+\g ya yo carreta yo vendecido PL E3S SREL diablo
+\c VOC PRON S PRON VT PART PERS SREL S
+\l Ya mi carreta yo ya esta bendecido por él diablo.
+\p VOC PRON S PRON VT PL#PART E3S#PERS SREL#SREL S
+
+\ref trtex036Usp04 041
+\t ticha',+
+\m ti- cha'
+\g INC decir
+\c TAM VI
+\l Dijo.
+\p INC#TAM VI
+
+\ref trtex036Usp04 042
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 043
+\t Nad majwex ta' chiki ta' tzaq bendisyon at chub'.+
+\m nad ma- jwex ta' chik -i ta' tzaq bendisyon at chub'
+\g nada NEG necesidad NEG PART ENF NEG hechar bendición tú/usted SREL
+\c ADV PART ADV PART PART PART PART VT ADJ PRON SREL
+\l Nada ya no es necesario que heche la bendición usted encima.
+\p ADV NEG#PART ADV NEG#PART PART#PART ENF#PART NEG#PART VT ADJ PRON SREL#SREL
+
+\ref trtex036Usp04 044
+\t Entons, elamb'ik pwes,+
+\m entons el -am -b' -ik pwes
+\g entonces salir E3S DIR SC pues
+\c ADV VI PERS DIR SUF ADV
+\l Entonces salite pues.
+\p ADV VI E3S#PERS DIR#DIR SC#SUF ADV
+
+\ref trtex036Usp04 045
+\t ticha' Padre,+
+\m ti- cha' padre
+\g INC decir padre
+\c TAM VI S
+\l Dice el padre.
+\p INC#TAM VI S
+
+\ref trtex036Usp04 046
+\t nen tatok neri b'an si ya bendesid chaq jat.+
+\m nen t- a- tok neri b'an si ya bendesid chaq jat
+\g INT INC E2S buscar aqui hacer si ya vendecido PL anda
+\c ADV TAM PERS VT ADV VT ADV VOC ADJ PART IMP
+\l Que buscas aquí pues si ya esta vendita bete.
+\p INT#ADV INC#TAM E2S#PERS VT ADV VT ADV VOC ADJ PL#PART IMP
+
+\ref trtex036Usp04 047
+\t Sim ta' chawaj rooqtaj taq wákix,+
+\m si -m ta' ch- aw- aj r- ooqta -j taq wakix
+\g si NEG NEG INC E2S querer E3S correr SC PL vaca
+\c ADV PART PART TAM PERS VT PERS VI SUF PART S
+\l Si no quieres coretió sus vacas.
+\p ADV NEG#PART NEG#PART INC#TAM E2S#PERS VT E3S#PERS VI SC#SUF PL#PART S
+
+\ref trtex036Usp04 048
+\t cha'+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 049
+\t alajwersa raj tijkoj laj chótix
+\m alajwersa r- aj ti- j- koj laj chotix
+\g a@la@fuerza E3S querer INC E3S meter PREP iglesia
+\c ADV PERS VT TAM PERS VT PREP S
+\l A la fuerza quería meterlo a la iglesia.
+\p ADV E3S#PERS VT INC#TAM E3S#PERS VT PREP#PREP S
+
+\ref trtex036Usp04 050
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 051
+\t Ntons xpe taq, taq wákix,+
+\m ntons x- pe taq taq wakix
+\g entonces COM venir PL PL vaca
+\c ADV TAM VT PART PART S
+\l Entonces vinieron las vacas. (vueyes)
+\p ADV COM#TAM VT PL#PART PL#PART S
+
+\ref trtex036Usp04 052
+\t tons loke xen taq, taq wákix+
+\m tons loke x- en taq taq wakix
+\g entonces loque COM hacer PL PL vaca
+\c ADV ADV TAM VT PART PART S
+\l Entonces lo que hicieron las vacas.
+\p ADV ADV COM#TAM VT PL#PART PL#PART S
+
+\ref trtex036Usp04 053
+\t e... xch'ujer taq+
+\m e x- ch'uj -er taq
+\g CONJ COM loco ITR PL
+\c CONJ TAM ADJ SUF PART
+\l E... se enloquecierón.
+\p CONJ#CONJ COM#TAM ADJ ITR#SUF PL#PART
+
+\ref trtex036Usp04 054
+\t xjusaj rib'aq li yugo,+
+\m x- jus -aj r- ib' -aq li yugo
+\g COM safar PART E3P SREL PL DEM yugo
+\c TAM VT PART PERS SREL PART DEM S
+\l Se safaron del yugo.
+\p COM#TAM VT PART#PART E3P#PERS SREL#SREL PL#PART DEM#DEM S
+
+\ref trtex36Uspo4 055a
+\t xkan maj yugo konto maj karet chi' chótix,+
+\m x- kan ma -j yugo kon- to ma -j karet chi' chótix
+\g COM quedar ART E3S yugo con todo ART E3S carreta SREL iglesia
+\c TAM VI ART PERS S ADJ ADV ART PERS S SREL S
+\l Se quedo su yugo con su carreta frente la iglesia.
+\p COM#TAM VI ART#ART E3S#PERS S ADJ ADV ART#ART E3S#PERS S SREL#SREL S
+
+\ref trtex036Usp04 055b
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 056
+\t Taq wákix xel taq b'ik,+
+\m taq wakix x- el taq b'ik
+\g PL vaca COM salir PL DIR
+\c PART S TAM VI PART DIR
+\l Las vacas salieron.
+\p PL#PART S COM#TAM VI PL#PART DIR#DIR
+
+\ref trtex036Usp04 057
+\t tons x...i taq wákix kita' xen taq intento xok taq laj chótix+
+\m tons xi taq wakix kita' x- en taq intento x- ok taq laj chótix
+\g entonces ir PL vaca NEG COM hacer PL intento COM entrar PL PREP iglesia
+\c ADV VI PART S PART TAM VT PART VT TAM VI PART PREP S
+\l Entonces solamente las vacas no hicieron él intento de entrar a la iglesia.
+\p ADV VI PL#PART S NEG#PART COM#TAM VT PL#PART VT COM#TAM VI PL#PART PREP#PREP S
+
+\ref trtex036Usp04 058
+\t komo nik' ta' kil, rik'il komo jun kirtyan+
+\m komo nik' ta' kil r- ik'il komo jun kirtyaan
+\g como igual NEG SREL E3S SREL como uno persona
+\c ADV ADV PART SREL PERS SREL ADV NUM S
+\l Como no es igual que una persona.
+\p ADV ADV NEG#PART SREL#SREL E3S#PERS SREL#SREL ADV NUM S
+
+\ref trtex036Usp04 059
+\t kere desir komo jun kistyan wi'...+
+\m kere desir komo jun kirtyaan wi'
+\g quiere decir como uno persona EXS
+\c VT VI ADV NUM S EXS
+\l Quiere decir como una persona tiene.
+\p VT VI ADV NUM S EXS#EXS
+
+\ref trtex036Usp04 060
+\t awaji'n, per xana' respetar.+
+\m awaj -i'n per x- a- -na' respetar
+\g animal ENF pero COM E3S ENF respetar
+\c S PART ADV TAM PERS PART VT
+\l Animal es, pero respeto.
+\p S ENF#PART ADV COM#TAM E3S#PERS ENF#PART VT
+
+\ref trtex036Usp04 061
+\t I re, kirtyani'n, kita' tran respetar.+
+\m i r- e kirtyaan -i'n kita' t- r- an respetar
+\g CONJ E3S SREL persona ENF NEG INC E3S hacer respetar
+\c CONJ PERS SREL S PART PART TAM PERS VT VT
+\l Y él es persona no respeta.
+\p CONJ#CONJ E3S#PERS SREL#SREL S ENF#PART NEG#PART INC#TAM E3S#PERS VT VT
+
+\ref trtex036Usp04 062
+\t Awajin taq wákix+
+\m awaj -in taq wákix
+\g animal ENF PL vaca
+\c S PART PART S
+\l Animales son las vacas.
+\p S ENF#PART PL#PART S
+
+\ref trtex036Usp04 063
+\t ta' xok taq laj chótix+
+\m ta' x- ok taq laj chótix
+\g NEG COM entrar PL PREP iglesia
+\c PART TAM VI PART PREP S
+\l No entraron a la iglesia.
+\p NEG#PART COM#TAM VI PL#PART PREP#PREP S
+
+\ref trtex036Usp04 064
+\t loke xen taq xjusaj b'ik rib'aq la' jyugo xe' taq,+
+\m loke x- en taq x- jus -áj b'ik r- ib' -aq la' j- yugo xe' taq
+\g loque COM hacer PL COM safar PART DIR E3S SREL PL PREP E3S yugo ir PL
+\c ADV TAM VT PART TAM VT PART DIR PERS SREL PART PREP PERS S VI PART
+\l Lo que hicierón se safaron del yugo se fueron.
+\p ADV COM#TAM VT PL#PART COM#TAM VT PART#PART DIR#DIR E3S#PERS SREL#SREL PL#PART PREP#PREP E3S#PERS S VI PL#PART
+
+\ref trtex036Usp04 065
+\t xkaaj ye' taq man karet.+
+\m x- kaa -j ye' taq man karet
+\g COM quedar E3S dar PL ART carreta
+\c TAM VT PERS VT PART ART S
+\l Dejarón la carreta.
+\p COM#TAM VT E3S#PERS VT PL#PART ART#ART S
+
+\ref trtex036Usp04 066
+\t Tons, yaa, xpe padre xij re,+
+\m tons yaa x- pe padre x- ij r- e
+\g entonces ya COM venir padre COM decir E3S SREL
+\c ADV VOC TAM VI S TAM VT PERS SREL
+\l Entonces ya vino el padre dijo a él.
+\p ADV VOC COM#TAM VI S COM#TAM VT E3S#PERS SREL#SREL
+
+\ref trtex036Usp04 067
+\t nen mod at ta' a respet nad.+
+\m nen mod at ta' a respet nad
+\g INT modo tú/usted NEG E2S respeto nada
+\c ADV ADV PRON PART PERS S ADV
+\l ¿Porqué tú no tienes respeto nada?
+\p INT#ADV ADV PRON NEG#PART E2S#PERS S ADV
+
+\ref trtex036Usp04 068
+\t Awaj wi' jrespet+
+\m awaj wi' j- respeto
+\g animal EXS E3S respeto
+\c S EXS PERS S
+\l Animal tiene respeto.
+\p S EXS#EXS E3S#PERS S
+
+\ref trtex036Usp04 069
+\t nen mod rechaq ta'x..+
+\m nen mod rechaq ta' -x
+\g INT modo ellos/ellas NEG COM
+\c ADV ADV PRON PART TAM
+\l Por que ellos no...
+\p INT#ADV ADV PRON NEG#PART COM#TAM
+
+\ref trtex036Usp04 070
+\t rechaq awaj taqan kita' xok taq la jchótix,+
+\m rechaq awaj taq -an kita' x- ok taq la j- chótix
+\g ellos/ellas animal PL ENF PART COM entrar PL PREP E3S iglesia
+\c PRON S PART PART PART TAM VI PART PREP PERS S
+\l Ellos son animales pero no entrarón en la iglesia.
+\p PRON S PL#PART ENF#PART PART#PART COM#TAM VI PL#PART PREP#PREP E3S#PERS S
+
+\ref trtex036Usp04 071
+\t nen mod ril kwand tawuqtaaj+
+\m nen mod r- il kwand t- a- wuq -taaj
+\g INT modo E3S ver cuando INC E3S correr ???
+\c ADV ADV PERS VT ADV TAM PERS VI ???
+\l En que modo lo vio cuando lo coretiabas.
+\p INT#ADV ADV E3S#PERS VT ADV INC#TAM E3S#PERS VI ???
+
+\ref trtex036Usp04 072
+\t xpe xjusaajb'i rib'aq+
+\m x- pe x- jus -aj -bì r- ib' -aq
+\g COM venir COM safar PART DIR E3P SREL PL
+\c TAM VI TAM VT PART DIR PERS SREL PART
+\l Vinieron se safarón.
+\p COM#TAM VI COM#TAM VT PART#PART DIR#DIR E3P#PERS SREL#SREL PL#PART
+
+\ref trtex036Usp04 073
+\t i kita' xok taq la jchótix.+
+\m i kita' x- ok taq la j- chótix
+\g CONJ NEG COM entrar PL PREP E3S iglesia
+\c CONJ PART TAM VI PART PREP PERS S
+\l Y por que no entrarón en la iglesia.
+\p CONJ#CONJ NEG#PART COM#TAM VI PL#PART PREP#PREP E3S#PERS S
+
+\ref trtex036Usp04 074
+\t Awajtaqe, rechaq bendesidtaqaan awaj li,+
+\m awaj -taq -e rechaq bendesid -taq -aan awaj li
+\g animal PL ENF ellos/ellas bendecido PL ENF animal DEM
+\c S PART PART PRON S PART PART S DEM
+\l Solo son animales, ellos están bendecidos esos animales.
+\p S PL#PART ENF#PART PRON S PL#PART ENF#PART S DEM#DEM
+
+\ref trtex036Usp04 075
+\t enkamby at ata' chiki' bendesid,+
+\m enkamby at at -a' chik -i' bendesid
+\g encambio tú/usted E2S ENF PART ENF bendecido
+\c ADJ PRON PERS PART PART PART VT
+\l En cambio tú ya no estas bendecido.
+\p ADJ PRON E2S#PERS ENF#PART PART#PART ENF#PART VT
+
+\ref trtex036Usp04 076
+\t ori loke abid aat+
+\m ori loke a- bid aat
+\g ahora loque E2S vida tú/usted
+\c ADV ADV PERS S PRON
+\l Ahora loque es tu vida.
+\p ADV ADV E2S#PERS S PRON
+
+\ref trtex036Usp04 077
+\t at waakot laq b'e rik'il man akaret.+
+\m at wakot laq b'e r- ik'il man akaret
+\g tú/usted pasear PREP camino E3S SREL ART carreta
+\c PRON VI PREP S PERS SREL ART S
+\l Usted pasiaras en el camino con la carreta.
+\p PRON VI PREP#PREP S E3S#PERS SREL#SREL ART#ART S
+
+\ref trtex036Usp04 078
+\t Atb'en la q'ab'+
+\m at- b'en la q'ab'
+\g A2S caminar PREP noche
+\c PERS VI PREP S
+\l Caminas en la noche.
+\p A2S#PERS VI PREP#PREP S
+
+\ref trtex036Usp04 079
+\t dondekeer la' atb'e'w,+
+\m donde -keer la' at- b'e' -w
+\g donde quiera en E2S ir PART
+\c ADV ??? PREP PERS VI PART
+\l Por donde quiera que vayas.
+\p ADV ??? PREP E2S#PERS VI PART#PART
+
+\ref trtex036Usp04 080
+\t atwk'xin laq chee',+
+\m at- wk'xin laq chee'
+\g E2S acurrucar PREP árbol
+\c PERS VI PREP S
+\l Andarás sigiloso o acurrucado entro los árboles.
+\p E2S#PERS VI PREP#PREP S
+
+\ref trtex036Usp04 081
+\t laq, b'e.+
+\m laq b'e
+\g PREP camino
+\c PREP S
+\l En el camino.
+\p PREP#PREP S
+
+\ref trtex036Usp04 082
+\t Ri li bendisyon chawe aat lajori,+
+\m ri li bendisiyon ch- aw- e aat laj'ori
+\g DEM DEM bendicón INC E2S SREL tú/usted ahora
+\c DEM DEM S TAM PERS SREL PRON ADV
+\l Eso es la bendición para usted ahora.
+\p DEM#DEM DEM#DEM S INC#TAM E2S#PERS SREL#SREL PRON ADV
+
+\ref trtex036Usp04 083
+\t ticha' padre re,+
+\m ti- cha' padre r- e
+\g INC decir padre E3S SREL
+\c TAM VI S PERS SREL
+\l Le dijo él padre a él.
+\p INC#TAM VI S E3S#PERS SREL#SREL
+
+\ref trtex036Usp04 084
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 085
+\t I xpe re, xalmaj+
+\m i x- pe r- e x- almaj
+\g CONJ COM venir E3S SREL COM escaparse
+\c CONJ TAM VI PERS SREL TAM VI
+\l Y vino él se escapó.
+\p CONJ#CONJ COM#TAM VI E3S#PERS SREL#SREL COM#TAM VI
+
+\ref trtex036Usp04 086
+\t xk'am b'i jkaret,+
+\m x- k'am b'i j- karet
+\g COM recibir DIR E3S carreta
+\c TAM VT DIR PERS S
+\l Llevo su carreta.
+\p COM#TAM VT DIR#DIR E3S#PERS S
+
+\ref trtex036Usp04 087
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 088
+\t I juntir kirtyan loke wi' kla'+
+\m i juntiir kirtyaan loke wi' kla'
+\g CONJ todo persona loque EXS allí
+\c CONJ ADV S ADV EXS ADV
+\l Y toda las personas loque están allí.
+\p CONJ#CONJ ADV S ADV EXS#EXS ADV
+
+\ref trtex036Usp04 089
+\t xtzaq jch'olaq chuch.+
+\m x -tzaq j- ch'olaq ch- uch
+\g COM botar E3S estómago PREP SREL
+\c TAM VT PERS S PREP SREL
+\l Se asustarón en frente de.
+\p COM#TAM VT E3S#PERS S PREP#PREP SREL#SREL
+
+\ref trtex036Usp04 090
+\t I kwand li jori'+
+\m i kwand li jor -i'
+\g CONJ cuando DEM ahora ENF
+\c CONJ ADV DEM ADV PART
+\l Y cuando es ahora.
+\p CONJ#CONJ ADV DEM#DEM ADV ENF#PART
+
+\ref trtex036Usp04 091
+\t por es tijb'ij kirtyan ke kwand wi' jun alg+
+\m por es ti- j- b'ij kirtyan ke kwand wi' jun algo
+\g por es INC E3S decir persona que cuando EXS uno algo
+\c ADV ADV TAM PERS VT S PART ADV EXS NUM ADV
+\l Por eso dice la gente que cuando hay un algo.
+\p ADV ADV INC#TAM E3S#PERS VT S PART ADV EXS#EXS NUM ADV
+
+\ref trtex036Usp04 092
+\t jun k'ex laq, laq tilmit+
+\m jun k'ex laq laq tinmit
+\g uno dolor PREP PREP pueblo
+\c NUM ADJ PREP PREP S
+\l Un mal en el pueblo.
+\p NUM ADJ PREP#PREP PREP#PREP S
+
+\ref trtex036Usp04 093
+\t o laq b'e+
+\m o laq b'e
+\g CONJ PREP camino
+\c CONJ PREP S
+\l O en los caminos.
+\p CONJ#CONJ PREP#PREP S
+
+\ref trtex036Usp04 094
+\t wi' bes re tiq'ax,+
+\m wi' bes r- e ti- q'ax
+\g EXS a@veces E3S SREL INC pasar
+\c EXS ADV PERS SREL TAM VI
+\l Hay veces él pasa.
+\p EXS#EXS ADV E3S#PERS SREL#SREL INC#TAM VI
+
+\ref trtex036Usp04 095
+\t tiwok'ok' rik'il maj karet tiq'ax la q'ab',+
+\m ti- wok'ok' r- ik'il ma -j karet ti- q'ax la q'ab'
+\g INC AFE E3S SREL ART E3S carreta INC pasar PREP noche
+\c TAM PART PERS SREL ART PERS S TAM VI PREP S
+\l Hace ruido con su carreta pasa en las noches.
+\p INC#TAM AFE#PART E3S#PERS SREL#SREL ART#ART E3S#PERS S INC#TAM VI PREP#PREP S
+
+\ref trtex036Usp04 096
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 097
+\t Tzaq ch'ol,+
+
+\ref trtex036Usp04 098
+\t xtzaqow ch'ol laq'ab',+
+\m x- tzaq -ow ch'ol la- q'ab'
+\g COM botar AP estómago PREP noche
+\c TAM VT SUF S PREP S
+\l Espanta en las noches.
+\p COM#TAM VT AP#SUF S PREP#PREP S
+
+\ref trtex036Usp04 099
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Decir.
+\p VI
+
+\ref trtex036Usp04 100
+\t Dyunabes xkaan reqe tzaqow ch'ol laq b'e,+
+\m dyunabes x- kan r- eqe tzaq -ow ch'ol laq b'e
+\g de@una@vez COM quedar E3S encontrar botar AP estómago PREP camino
+\c ADV TAM VI PERS VT VT SUF S PREP S
+\l De una vez se volvió espanto en los caminos.
+\p ADV COM#TAM VI E3S#PERS VT VT AP#SUF S PREP#PREP S
+
+\ref trtex036Usp04 101
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 102
+\t Derepent qe tijta' jun+
+\m derepent qe ti- j- ta' juun
+\g de@repente PART INC E3S encontrar uno
+\c ADV PART TAM PERS VT NUM
+\l De repente lo ecuentra uno.
+\p ADV PART#PART INC#TAM E3S#PERS VT NUM
+
+\ref trtex036Usp04 103
+\t tijiniin rikil maj, maj,+
+\m ti- jiniin r- ik'il ma -j ma -j
+\g INC AFE E3S SREL ART E3S ART E3S
+\c TAM PART PERS SREL ART PERS ART PERS
+\l Ruido con su , su.
+\p INC#TAM AFE#PART E3S#PERS SREL#SREL ART#ART E3S#PERS ART#ART E3S#PERS
+
+\ref trtex036Usp04 104
+\t maj ra jchee' tiq'ax.+
+\m ma -j ra j- chee' ti- q'ax
+\g ART E3S DIM E3S palo INC pasar
+\c ART PERS DIM PERS S TAM VI
+\l Su palo o su madera pasa.
+\p ART#ART E3S#PERS DIM#DIM E3S#PERS S INC#TAM VI
+
+\ref trtex036Usp04 105
+\t Kom maldisyaad chaq+
+\m kom maldisyaad chaq
+\g como maldecido PART
+\c PART VT PART
+\l Como ya esta maldecido.
+\p PART VT PART#PART
+
+\ref trtex036Usp04 106
+\t kom ta' chiki'+
+\m kom ta' chik -i'
+\g como NEG PART AFE
+\c ADV PART PART PART
+\l Como ya no hay.
+\p ADV NEG#PART PART#PART AFE#PART
+
+\ref trtex036Usp04 107
+\t ta' tzii loke xen.+
+\m ta' tzii loke x- en
+\g NEG bueno loque COM hacer
+\c PART ADJ ADV TAM VT
+\l No es bueno lo que hizo.
+\p NEG#PART ADJ ADV COM#TAM VT
+
+\ref trtex036Usp04 108
+\t S.. kya rík'an chaq re jurchuchul maj karet+
+\m s k -ya r- íkan chaq r- e jurchuchu -l ma- j karet
+\g si que ya E3S solo PART E3S SREL jalar SC ART E3S carreta
+\c ADV ADV VOC PERS ADJ PART PERS SREL VT SUF ART PERS S
+\l Ya solito él jalava su casrreta.
+\p ADV ADV VOC E3S#PERS ADJ PART#PART E3S#PERS SREL#SREL VT SC#SUF ART#ART E3S#PERS S
+
+\ref trtex036Usp04 109
+\t ta' chiki' wákix+
+\m ta' chik -i' wakix
+\g NEG PART ENF vaca
+\c PART PART PART S
+\l Ya no hay vacas.
+\p NEG#PART PART#PART ENF#PART S
+
+\ref trtex036Usp04 110
+\t kom wákix xalmaji'n,+
+\m kom wakix x- almaj -i'n
+\g como vaca COM escaparse ENF
+\c ADV S TAM VI PART
+\l Como las vacas se escaparón.
+\p ADV S COM#TAM VI ENF#PART
+
+\ref trtex036Usp04 111
+\t re chaq xkaan rik'il maj karet+
+\m re chaq x- kaan r- ik'il ma -j karet
+\g E3S PART COM quedar E3S SREL ART E3S carreta
+\c PERS PART TAM VI PERS SREL ART PERS S
+\l Él solo quedo con su carreta.
+\p E3S#PERS PART#PART COM#TAM VI E3S#PERS SREL#SREL ART#ART E3S#PERS S
+
+\ref trtex036Usp04 112
+\t ri' chaq re tijooliin rik'il laq b'ee,+
+\m ri' chaq re ti- jool -iin r- ik'il laq b'ee
+\g DEM PART él/ella INC correr ??? E3S SREL PREP camino
+\c DEM PART PRON TAM VI ??? PERS SREL PREP S
+\l Ya solo él corre con el en el camino.
+\p DEM#DEM PART#PART PRON INC#TAM VI ??? E3S#PERS SREL#SREL PREP#PREP S
+
+\ref trtex036Usp04 113
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dece.
+\p VI
+
+\ref trtex036Usp04 114
+\t Pores kwand wi' juun ch'ooj+
+\m pores kwand wi' juun ch'ooj
+\g poreso cuando EXS uno pleito
+\c ADV ADV EXS NUM S
+\l Por eso cuando hay un pleito.
+\p ADV ADV EXS#EXS NUM S
+
+\ref trtex036Usp04 115
+\t ri' re tiq'ax, tiq'ax primero laq b'ee+
+\m ri' r- e ti- q'ax ti- q'ax primero laq b'ee
+\g DEM E3S SREL INC pasar INC pasar primero PREP camino
+\c DEM PERS SREL TAM VI TAM VI NUM PREP S
+\l Es él el que pasa pasa primero en el camino.
+\p DEM#DEM E3S#PERS SREL#SREL INC#TAM VI INC#TAM VI NUM PREP#PREP S
+
+\ref trtex036Usp04 116
+\t ori la q'ab' titzaqw ch'ool,+
+\m ori la q'ab' ti- tzaq -w ch'ool
+\g ahora PREP noche INC botar AP estómago
+\c ADV PREP S TAM VT SUF S
+\l Ahora, de noche espantan.
+\p ADV PREP#PREP S INC#TAM VT AP#SUF S
+
+\ref trtex036Usp04 117
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 118
+\t Jwi'l kita' tikojoon,+
+\m j- wi'l kita' ti- kojoon
+\g E3S SREL NEG INC aceptar
+\c PERS SREL PART TAM VI
+\l Porque no quiere aceptar o respetar.
+\p E3S#PERS SREL#SREL NEG#PART INC#TAM VI
+
+\ref trtex036Usp04 119
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 120
+\t Mas étzel kristyan porke li.+
+\m mas étzel kirtyaan porke li
+\g más demonio persona porque DEM
+\c ADV ADJ S ADV DEM
+\l Más mala persona por que lo que hizo.
+\p ADV ADJ S ADV DEM#DEM
+
+\ref trtex036Usp04 121
+\t Sin lastima tijb'alaj wákix li miix+
+\m sin lastima ti- j- b'ala -j wakix li miix
+\g sin lastima INC E3S llenar E3S vaca DEM misa
+\c CONJ ADJ TAM PERS VT PERS S DEM S
+\l Sin lastima mete su vaca en la misa.
+\p CONJ ADJ INC#TAM E3S#PERS VT E3S#PERS S DEM#DEM S
+
+\ref trtex036Usp04 122
+\t cha'.+
+\m cha'
+\g dice
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 123
+\t Konto, man ra jkaret,+
+\m kon -to man ra j- karet
+\g con todo ART DIM E3S carreta
+\c ADV ADV ART DIM PERS S
+\l Con todo la carreta.
+\p ADV ADV ART#ART DIM#DIM E3S#PERS S
+
+\ref trtex036Usp04 124
+\t cha',+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex036Usp04 125
+\t ri k'uli tijb'ij taq+
+\m ri k'u -li ti- j- b'ij taq
+\g DEM PART DEM INC E3S decir PL
+\c DEM PART DEM TAM PERS VT PART
+\l Eso es lo que dicen.
+\p DEM#DEM PART#PART DEM#DEM INC#TAM E3S#PERS VT PL#PART
+
+\ref trtex036Usp04 126
+\t ke kristyan ta' k'u jrespetaq nad,+
+\m ke kirtyaan ta' k'u j- respe -taq nad
+\g que persona NEG PART E3P respeto PL nada
+\c ADV S PART PART PERS S PART ADV
+\l Que las personas no tienen respeto nada.
+\p ADV S NEG#PART PART#PART E3P#PERS S PL#PART ADV
+
+\ref trtex036Usp04 127
+\t ta' tikojon taq nad. U...+
+\m ta' ti- kojón taq nad ???
+\g NEG INC creer PL nada ???
+\c PART TAM VT PART ADV ???
+\l No respetan nada.
+\p NEG#PART INC#TAM VT PL#PART ADV ???
+
+\ref trtex036Usp04 128
+\t ta' tijkooj taq dyoos+
+\m ta' ti- koj -oon taq dyoos
+\g NEG INC creer AP PL Dios
+\c PART TAM VT SUF PART S
+\l No creen en Dios.
+\p NEG#PART INC#TAM VT AP#SUF PL#PART S
+
+\ref trtex036Usp04 129
+\t rechaq juntir itz'ab' jwi'laq.+
+\m rechaq juntiir itz'ab' j- wi'l -aq
+\g ellos/ellas todo juguete E3S SREL PL
+\c PRON ADV S PERS SREL PART
+\l Ellos todos de jugete lo tienen.
+\p PRON ADV S E3S#PERS SREL#SREL PL#PART
+
+\ref trtex036Usp04 130
+\t Kyere desir ta', ta' tikojoon taq+
+\m kyere desir ta' ta' ti- koj -oon taq
+\g quiere decir NEG NEG INC creer AP PL
+\c VI VI PART PART TAM VI SUF PART
+\l Quiere decir que no, no aceptán o respetán.
+\p VI VI NEG#PART NEG#PART INC#TAM VI AP#SUF PL#PART
+
+\ref trtex036Usp04 131
+\t kyerdesir ta' jrespetaq nik'are' nad,+
+\m kyerdesir ta' j- respet -aq nik' -ar -e' nad
+\g quiere@decir NEG E3S respeto PL igual ITR ENF nada
+\c VT PART PERS S PART ADJ SUF PART ADV
+\l Quiere decir no respeta nada el.
+\p VT NEG#PART E3S#PERS S PL#PART ADJ ITR#SUF ENF#PART ADV
+
+\ref trtex036Usp04 132
+\t jii'n, jii'n.+
+\m jii'n jii'n
+\g AFI AFI
+\c PART ADV
+\l Asi mero es.
+\p AFI#PART AFI#ADV
+
+\ref trtex036Usp04 133
+\t Tons xensaj bendesir+
+\m tons x- en -sáj bendesir
+\g entonces COM hacer PAS bendecir
+\c ADV TAM PREP SUF VT
+\l Entonces lo bendijeron.
+\p ADV COM#TAM PREP PAS#SUF VT
+
+\ref trtex036Usp04 134
+\t kyere desir jbid, rechi' tiwa'kot+
+\m kyere desir j- bid r- ech -i' ti- wa'kot
+\g quiere decir E3S vida E3S SREL ENF INC pasear
+\c VI VI PERS S PERS SREL SUF TAM VT
+\l Quiere decir su vida es de pasear.
+\p VI VI E3S#PERS S E3S#PERS SREL#SREL ENF#SUF INC#TAM VT
+
+\ref trtex036Usp04 135
+\t laq q'uqum+
+\m laq q'uqum
+\g PREP oscuridad
+\c PREP ADJ
+\l En la obscuridad.
+\p PREP#PREP ADJ
+
+\ref trtex036Usp04 136
+\t la q'ab'+
+\m la q'aab'
+\g PREP noche
+\c PREP S
+\l De noche.
+\p PREP#PREP S
+
+\ref trtex036Usp04 137
+\t jwi'li'li.+
+\m j- wi'l -i' -li
+\g E3S SREL ENF DEM
+\c PERS SREL PART DEM
+\l Por eso es.
+\p E3S#PERS SREL#SREL ENF#PART DEM#DEM
+
+\ref trtex036Usp04 138
+\t Kom tijb'ij ke, étzel bendesid jwi'l.+
+\m kom ti- j- b'ij ke étzel bendesid j- wi'l
+\g como INC E3S decir que demonio bendecido E3S SREL
+\c PART TAM PERS VT ADV S VT PERS SREL
+\l Como dicen que él mal lo bendijo.
+\p PART INC#TAM E3S#PERS VT ADV S VT E3S#PERS SREL#SREL
+
+\ref trtex036Usp04 139
+\t tonses medyabes kita' tijkoj dyoos.+
+\m tonses medyabes kita' ti- j -koj dyoos
+\g entonces media@vez NEG INC E3S meter Dios
+\c ADV ADV PART TAM PERS VT S
+\l Entonces mediaves que no cree en Dios.
+\p ADV ADV NEG#PART INC#TAM E3S#PERS VT S
+
+\ref trtex036Usp04 140
+\t Pwes tiwa'kot laq b'e nojeel a q'ab'.+
+\m pwes ti- wakot laq b'e nojeel a q'ab'
+\g pues INC pasear PREP camino todo CONJ noche
+\c ADV TAM VI PREP S ADV CONJ S
+\l Pues pasea en él camino todas las noches.
+\p ADV INC#TAM VI PREP#PREP S ADV CONJ#CONJ S
+
+\ref trtex036Usp04 141
+\t I lon qe li, tijk'isb'ej sik' jbid.+
+\m i lon qe li ti- j- k'is -b'ej sik' j- bid
+\g CONJ PART PART DEM INC E3S terminar ??? AFE E3S vida
+\c CONJ PART PART DEM TAM PERS VT ??? PART PERS S
+\l Y solo asi terminara su vida él pobre.
+\p CONJ#CONJ PART#PART PART#PART DEM#DEM INC#TAM E3S#PERS VT ??? AFE#PART E3S#PERS S
+
+\ref trtex036Usp04 142
+\t Chuk' tijb'ij kristyan+
+\m chuk' ti- j- b'ij kirtyaan
+\g así@como INC E3S decir persona
+\c ADV TAM PERS VI S
+\l Asi como dicen las personas.
+\p ADV INC#TAM E3S#PERS VI S
+
+\ref trtex036Usp04 143
+\t ma aan taq k'ex,+
+\m ma aan taq k'ex
+\g NEG hacer PL dolor
+\c PART VT PART ADJ
+\l No hagan daño.
+\p NEG#PART VT PL#PART ADJ
+
+\ref trtex036Usp04 144
+\t porke ta' tzii tib'ensaj maldisyar jbid jun.+
+\m porke ta' tzii ti- b'en -saj maldisyar j- bid jun
+\g porque NEG bueno INC hacer PAS maldecir E3S vida uno
+\c ADV PART ADJ TAM VT SUF VT PERS S NUM
+\l Porque no es bueno que maldicen la vida de uno.
+\p ADV NEG#PART ADJ INC#TAM VT PAS#SUF VT E3S#PERS S NUM
+
+\ref trtex036Usp04 145
+\t Rik'il jun kitz tikaan sach jun,+
+\m r- ik'il jun kitz ti- kaan sach jun
+\g E3S SREL uno poco INC quedar perder uno
+\c PERS SREL NUM ADV TAM VI VI NUM
+\l Solo con un poco se queda perdido uno.
+\p E3S#PERS SREL#SREL NUM ADV INC#TAM VI VI NUM
+
+\ref trtex036Usp04 146
+\t ta' chiki' jcholajl tren jun,+
+\m ta' chik -i' j- chola -j -l t- r- en jun
+\g NEG PART ENF E3S manera ??? SC INC E3S hacer uno
+\c PART PART SUF PERS ADV ??? SUF TAM PERS VT NUM
+\l Ya no hay manera que hace uno.
+\p NEG#PART PART#PART ENF#SUF E3S#PERS ADV ??? SC#SUF INC#TAM E3S#PERS VT NUM
+
+\ref trtex036Usp04 147
+\t jii'n ri li.+
+\m ji -i'n ri li
+\g AFI ENF DEM DEM
+\c PART PART DEM DEM
+\l Asi es es. 16/11/05.
+\p AFI#PART ENF#PART DEM#DEM DEM#DEM

@@ -1,0 +1,679 @@
+\t John-i sakwa-lul kkak-un khal
+\g John-NOM apple-ACC peel-ADN knife
+\l the knife with which John peeled an apple
+
+\t John-i sakwa-lul mek-un sasil
+\g John-NOM apple-ACC eat-ADN fact
+\l the fact that John ate an apple
+
+\t twu kay-uy sakwa
+\g two CL-GEN apple
+\l two apples
+
+\t twu pyeng-uy wain
+\g two CL-GEN wine
+\l two bottles of wine
+
+\t haksayng ney myeng cwung-eyse twu myeng-i tachy-ess-ta .
+\g student four CL among-from two CL-NOM get hurt-PST-DEC
+\l Among the four students, two got hurt.
+
+\t ku haksayng-tul cwung-eyse  hankuk haksayng -i tachy-ess-ta .
+\g that student-PL among-from [Korea student]-NOM get hurt-PST-DEC
+\l Among those students, a Korean student got hurt.
+
+\t ku haksayng-tul cwung-eyse  Cheli-wa Juni -ka tachy-ess-ta .
+\g that student-PL among-from [Cheli-CONJ Juni]-NOM get hurt-PST-DEC
+\l Among those students, Cheli and Juni got hurt.
+
+\t ku haksayng-tul cwung-eyse  nam-haksayng twu myeng -i tachy-ess-ta .
+\g that student-PL among-from [male-student two CL]-NOM get hurt-PST-DEC
+\l Among those students, two male students got hurt.
+
+\t  ? ?Cheli-nun i wain cwung-eyse twu can-ul massy-ess-ta .
+\g Cheli-TOP this wine among-from two CL-ACC drink-PST-DEC
+\l Cheli drank two glasses of this wine.
+
+\t Cheli-ka  thakca wi-ey iss-te-n sakwa -lul (cayppali) twu kay mek-ess-ta .
+\g Cheli-NOM [table above-LOC exit-RT-REL apple]-ACC (quickly) two CL eat-PST-DEC
+\l Cheli quickly ate two of the apples on the table.
+
+\t *ku haksayng-tul-i  Cheli-wa Juni  tachy-ess-ta .
+\g that student-PL-NOM [Cheli-CONJ Juni] get hurt-PST-DEC
+\l Among those students, Cheli and Juni got hurt.
+
+\t *ku haksayng-tul-i  nam-haksayng (twu myeng)  tachy-ess-ta .
+\g that student-PL-NOM [male-student (two CL)] get hurt-PST-DEC
+\l Among those students, (two) male students got hurt.
+
+\t ku haksayng-tul-i twu myeng tachy-ess-ta .
+\g that student-PL-NOM two CL get hurt-PST-DEC
+\l Four of those students got hurt.
+
+\t Cheli-ka i wain-ul  twu can  massy-ess-ta .
+\g Cheli-NOM this wine-ACC [two CL] drink-PST-DEC
+\l Cheli drank two glasses of this wine.
+
+\t Cheli-ka wain-ul twu can masy-ess-ta .
+\g Cheli-NOM wine-ACC two CL drink-PST-DEC
+\l Cheli drank two glasses of wine/two glasses of the wine.
+
+\t Cheli-ka  twu kay-uy sakwa -lul mek-ess-ta .
+\g Cheli-NOM [two CL-GEN apple]-ACC eat-PST-DEC
+\l Cheli ate two apples.
+
+\t Cheli-ka  sakwa twu kay -lul mek-ess-ta .
+\g Cheli-NOM [apple two CL]-ACC eat-PST-DEC\t Emma-ka   ai-uy   chakawun  son -ul cap-ass-ta .
+\g mom-NOM [[kid-GEN] [cold] hand]-ACC grab-PST-DEC
+\l The mom grabbed the kid’s cold hand
+
+\t Emma-ka   chakawun   ai-uy  son -ul cap-ass-ta .
+\g mom-NOM [[cold] [kid-GEN] hand]-ACC grab-PST-DEC\t  ?Cheli-ka   chakawun   twu pyeng-uy  wain -ul masy-ess-ta .
+\g Cheli-NOM [[cold] [two CL-GEN] wine ]-ACC drink-PST-DEC
+\l Cheli drank two bottles of cold wine.
+
+\t Cheli-ka   twu pyeng-uy   chakawun  wain -ul masy-ess-ta .
+\g Cheli-NOM [[two CL-GEN] [cold] wine]-ACC drink-PST-DEC\t  NP twu -uy  NP  
+\g  two CL-GEN \t  ? ?Cheli-ka  twu pyeng-uy wain -ul kkayttuly-ess-ta .
+\g Cheli-NOM [two CL-GEN wine]-ACC break-PST-DEC
+\l Cheli broke two bottles of wine.
+
+\t Cheli-ka  wain twu pyeng -ul kkayttuly-ess-ta .
+\g Cheli-NOM [wine two CL]-ACC break-PST-DEC\t Cheli-ka  wain -ul  twu pyeng  kkayttuly-ess-ta .
+\g Cheli-NOM [wine]-ACC [two CL] break-PST-DEC\t Cheli-ka  il lithe-uy mwul -ul masy-ess-ta .
+\g Cheli-NOM [one liter-GEN water]-ACC drink-PST-DEC
+\l Cheli drank one liter of water.
+
+\t Cheli-ka  mwul il lithe -lul masy-ess-ta .
+\g Cheli-NOM [water one liter]-ACC drink-PST-DEC\t Cheli-ka  mwul -ul  il lithe  masy-ess-ta .
+\g Cheli-NOM [water]-ACC [one liter] drink-PST-DEC\t Cheli-ka  osip tossi-uy mwul -ul masy-ess-ta .
+\g Cheli-NOM [fifty degree-GEN water]-ACC drink-PST-DEC
+\l Cheli drank fifty-degree water.
+
+\t *Cheli-ka  mwul osip tossi -lul masy-ess-ta .
+\g Cheli-NOM [water fifty degree]-ACC drink-PST-DEC\t *Cheli-ka  mwul -ul  osip tossi  masy-ess-ta .
+\g Cheli-NOM [water]-ACC [fifty degree] drink-PST-DEC\t Cheli-nun  cacenke twu tay -lul ssakey sa-lyeko ha-n-ta .
+\g Cheli-TOP [bicycle two CL]-ACC cheap buy-intending do-PRE-DEC
+\l Cheli intends to buy two bicycles/the two bicycles cheap.
+
+\t Cheli-nun  cacenke -lul ssakey twu tay sa-lyeko ha-n-ta .
+\g Cheli-TOP [bicycle]-ACC cheap two CL buy-intending do-PRE-DEC
+\l Cheli intends buy two bicycles/#the two bicycles cheap.
+
+\t Cheli-ka  ku-ke twu kay/sey kay -lul mek-ess-ta .
+\g Cheli-NOM [that-thing two CL/ three CL]-ACC eat-PST-DEC
+\l Cheli ate two of those/ those three (lit. the three of those).
+
+\t Cheli-ka  ku-ke -lul twu kay/#sey kay mek-ess-ta .
+\g Cheli-NOM [that-thing]-ACC two CL/ three CL eat-PST-DEC
+\l Cheli ate two of those /#those three.
+
+\t Cheli-ka kapcaki  sonkalak yel kay -lul phyelchyepoi-ess-ta .
+\g Cheli-NOM suddenly [finger ten CL]-ACC spread out-PST-DEC
+\l Cheli spread out his ten fingers.
+
+\t  ? ?Cheli-ka sonkalak-ul kapcaki yel kay phyelchyepoi-ess-ta .
+\g Cheli-NOM finger-ACC suddenly ten CL spread out-PST-DEC\t Cheli-ka  pwumonim twu pwun -ul han-tongan mosi-ko sal-ass-ta .
+\g Cheli-NOM [parent-ACC two CL]-ACC a while-during take care-CONJ live-PST-DEC
+\l Cheli lived with his two parents and took care of them for a while.
+
+\t  ? ?Cheli-ka pwumonim-ul han-tongan twu pwun mosi-ko sal-ass-ta .
+\g Cheli-NOM parent-ACC a while-during two CL take care-CONJ live-PST-DEC\t Cheli-ka  sakwa -lul twu kay mek-ess-ta .
+\g Cheli-NOM [apple]-ACC two CL eat-PST-DEC
+\l Cheli ate two apples.
+
+\t  ? ?Cheli-ka twu kay  sakwa -lul mek-ess-ta .
+\g Cheli-NOM two CL [apple]-ACC eat-PST-DEC\t Cheli-ka thakca-lul  swuken twu cang -ulo takk-ass-ta .
+\g Cheli-NOM table-ACC [towel two CL]-INST clean-PST-DEC
+\l Cheli cleaned the tables with two towels (quickly).
+
+\t  ? ?Cheli-ka thakca-lul swuken-ulo twu cang takk-ass-ta .
+\g Cheli-NOM table-ACC towel-INST two CL clean-PST-DEC\t Cheli-ka sakwa-lul cayppali twu kay mek-ess-ta .
+\g Cheli-NOM apple-ACC quickly two CL eat-PST-DEC
+\l Cheli ate two apples quickly.
+
+\t Cheli-ka   sakwa-lul   cayppali    t twu kay  mek-ess-ta    .
+\g Cheli-NOM apple-ACC quickly  two CL eat-PST-DEC\t *Cheli-ka  sakwa-lul twu kay -wa  bay-lul sey kay  mek-ess-ta .
+\g Cheli-NOM [apple-ACC two CL]-CONJ [pear-ACC three CL] eat-PST-DEC
+\l Cheli ate two apples and three pears.
+
+\t Cheli-ka  sakwa twu kay -wa  bay sey kay -lul mek-ess-ta .
+\g Cheli-NOM [apple two CL]-CONJ [pear three CL]-ACC eat-PST-DEC\t *Cheli-ka mek-un kes-un  sakwa-lul twu kay -(i)-ta .
+\g Cheli-NOM eat-REL thing-TOP [apple-ACC two CL]-(COP)-DEC
+\l What Cheli ate is two apples.
+
+\t Cheli-ka mek-un kes-un  sakwa twu kay -(i)-ta .
+\g Cheli-NOM eat-REL thing-TOP [apple two CL]-(COP)-DEC\t  ? ?wain-ul sonnim-i twu pwun masy-ess-ta .
+\g wine-ACC guest-NOM two CL drink-PST-DEC
+\l Two guests drank wine.
+
+\t *sonnim-i wain-ul twu pwun masy-ess-ta .
+\g guest-NOM wine-ACC two CL drink-PST-DEC\t sonnim-i twu pwun wain-ul masy-ess-ta .
+\g guest-NOM two CL wine-ACC drink-PST-DEC\t  ? ?namhaksayng-i twu myeng yengliha-ta .
+\g male student-NOM two CL be smart-DEC
+\l Two male students are smart.
+
+\t  namhaksayng twu myeng -i yengliha-ta .
+\g [male student two CL]-NOM be smart-DEC\t namhaksayng-i twu myeng aphu-ta .
+\g male student-NOM two CL be sick-DEC
+\l Two male students are sick.
+
+\t  namhaksayng twu myeng -i aphu-ta .
+\g [male student two CL]-NOM be sick-DEC\t Cheli-ka  wain twu pyeng -ul mas-ess-ta .
+\g Cheli-NOM [wine two CL]-ACC drink-PST-DEC
+\l Cheli broke (the) two bottles of (the) wine.
+
+\t yehaksayng-i twu myeng kyelsek-hay-ss-ko , namhaksayng-to kuleh-ta .
+\g female student-NOM two CL absence-do-PST-CONJ, male student-also do so-DEC
+\l Two female students were absent, and two male students were absent too.
+
+\t (ku) sakwa-ka twu kay ssekk-ess-ta .
+\g (that) apple-NOM two CL be rotten-PST-DEC
+\l Two of the apples were rotten.
+
+\t Cheli-ka (ku) sakwa-lul twu kay mek-ess-ta .
+\g Cheli-NOM (that) apple-ACC two CL eat-PST-DEC
+\l Cheli ate two of the apples.
+
+\t  ? ?ku-ka thakca-lul swuken-ulo twu cang takk-ass-ta .
+\g he-NOM table-ACC towel-INST two CL clean-PST-DEC
+\l He cleaned the tables with two towels.
+
+\t sonnim-i twu pwun ku wain-ul masy-ess-ta .
+\g guest-NOM two CL that wine-ACC drink-PST-DEC
+\l Two guests drank the wine.
+
+\t *sonnim-i ku wain-ul twu pwun masy-ess-ta .
+\g guest-NOM that wine-ACC two CL drink-PST-DEC\t  ? ?sonnim-i twu pyeng ku wain-ul masy-ess-ta .
+\g guest-NOM two CL that wine-ACC drink-PST-DEC
+\l Guests drank two bottles of that wine.
+
+\t ku-nun wain tases can cwung-eyse twu can-ul massy-ess-ta .
+\g he-TOP wine five CL among-from two CL-ACC drink-PST-DEC
+\l He drank two out of the five glasses of wine.
+
+\t *ku haksayng-tul cwung-eyse  motwu/cenpwu -ka tachy-ess-ta .
+\g that student-PL among-from [all/all]-NOM get hurt-PST-DEC
+\l (Lit.) Among those students, all got hurt.
+
+\t ku haksayng-tul-i  motwu/cenpwu (-ka) tachy-ess-ta .
+\g that student-PL-NOM [all/all](-NOM) get hurt-PST-DEC
+\l All of those students got hurt.
+
+\t Cheli-ka mwues-ul sey kay mek-ess-ni ?
+\g Cheli-NOM what-ACC three CL eat-PST-INT
+\l Cheli ate three of what?
+
+\t Cheli-ka sakwa-lul sey kay mek-ess-ta .
+\g Cheli-NOM apple-ACC three CL eat-PST-DEC
+\l Cheli ate three of the apples.
+
+\t wain-ul sonnim-i twu pyeng masy-ess-ta .
+\g wine-ACC guest-NOM two CL drink-PST-DEC
+\l Guests drank two bottles of wine.
+
+\t  ? ?acwumma , yel kay-uy sakwa cwu-sey-yo .
+\g missus, ten CL-GEN apple give-SH-POL\t acwumma , sakwa yel kay cwu-sey-yo .
+\g missus, apple 10 CL give-SH-POL
+\l Missus, please give me 10 apples.
+
+\t haksayng-un chayk-ul ilkessta .
+\g student-TOP book-ACC read
+\l A student/Students read a book/books.
+
+\t sakwa-ka chayksang wui-ey issta .
+\g apple-NOM desk top-at exist
+\l There is an apple on the desk.’ ‘There are apples on the desk.
+
+\t sakwa-tul-i chayksang wui-ey issta .
+\g apple-PL-NOM desk top-at exist
+\l There are apples on the desk.’ # ‘There is an apple on the desk.
+
+\t Kumsokhwalca-nun hankwukin-i palmyeng hay-ss-ta .
+\g metal.type-NUN Korean-NOM invention do-PST-DEC
+\l As for metallic type, Koreans invented it.
+
+\t Inswu-nun soselchayk-ul sa-ss-e-yo .
+\g Inswu-NUN novel.book-ACC buy-PST-DEC-HON
+\l Inswu bought a novel.’ (answering “What did Inswu buy?”)
+
+\t (Kyay) Seoul-ey-nun ka-pwa-ss-e .
+\g he Seoul-DAT-NUN go-see-PST-DEC
+\l (He) has been to Seoul.
+
+\t Ikey yakkan-un sasil yenkuk-ulo choyen-i-ki ttaymwun-ey changcakkuk-kathu-n nukkim-I iss-nuntey …
+\g this-NOM a.little-NUN in.fact play-as premiere-COP-AVZ because-DAT original.play-seem-ANZ feeling-NOM exist-but
+\l Since this work is on the stage for the first time as a play, it feels a little like (this) is an original play, but …
+
+\t *Minsu-man nuku-lû-l po-ss-ni ?
+\g Minsu-only who-ACC see-Past-Q
+\l Who did only Minsu see?
+
+\t Minsu-mun nuku-lû-l po-ss-ni ?
+\g Minsu-Top who-ACC see-Past-Q
+\l Who did Minsu see?
+
+\t Nuku-lû-l Minsu-man po-ss-ni ?
+\g who-ACC Minsu-only see-Past-Q
+\l Who did only Minsu see?
+
+\t Kongpuha-e-la !
+\g study-SSP-IMP
+\l Study!
+
+\t Kamki keli-si-ess-unikka swui-si-eyo
+\g cold catch-HON.PST-since rest-HON-IMP.POL
+\l Since you have a cold, rest!
+
+\t Na-lul 1SG .ACC
+\g follow-come-IMP ttala-o-la!
+\l Follow me!’ (Rally cry)
+
+\t Na-lul ttala-o-#la/ala !
+\g 1SG.ACC follow-come-IMP
+\l Follow me!’ (Specific student-teacher interaction)
+
+\t Yumi-ka Inho-hanthey  choysen-ul ta ha-la/*ela-ko  malha-ess-ta
+\g Yumi-NOM Inho-to best-ACC all do-IMP.COMP say-PST-DEC.PLAIN
+\l Yumi told Inho to do his best.
+
+\t Ne-na cal ha-si-eyo
+\g you-na well do-HON-DEC.POL
+\l Mind your own business.’ (Lit: ‘YOU do well.’)
+
+\t ku chentwung penkay-ka Minho-lul mwusep-key hay-ess-ta .4
+\g the thunder lightning-NOM Minho-ACC scared-ADVR do-PST-DECL
+\l The thunderstorm frightened Minho.
+
+\t Mina-ka Minho-lul ilpwule / ku-lul ttena-key ha-ki wihay mwusep-key hay-ess-ta .
+\g Mina-NOM Minho-ACC intentionally / him-ACC leave-ADVR do-NMLZ for scared-ADVR do-PST-DECL
+\l Mina frightened Minho intentionally / to make him go away.
+
+\t kwahakca-ka Cinho-lul nolla-key ha-lyeko kyelsimhay-ss-ta .
+\g scientist-NOM Cinho-ACC get.surprised-ADVR do-CNJ decide-PST-DECL
+\l The scientist decided to make Cinho get surprised.
+
+\t miyongsa-ka Yuna-lul wenmangsulep-key ha-lyeko kyelsimhay-ss-ta .
+\g hairdresser-NOM Yuna-ACC be.resentful-ADVR do-CNJ decide-PST-DECL
+\l intended: ‘The hairdresser decided to make Yuna resentful.
+
+\t Mina-ka (kapcaki) culkew-eci-ess-ta .
+\g Mina-NOM suddenly pleased-INCH-PST-DECL
+\l Mina (suddenly) became pleased.
+
+\t *Mina-ka (kapcaki) nolla-eci-ess-ta .
+\g Mina-NOM suddenly get.surprised-INCH-PST-DECL
+\l intended: ‘Mina (suddenly) got surprised.
+
+\t Mina-ka Minho-lul culkep-key / nolla-key ha-l ppen hay-ess-ta (kulena macimak swunkan-ey Mina-nun amwukesto ha-ci anh-ass-ta) .
+\g Mina-NOM Minho-ACC pleased-ADVR / get.surprised-ADVR do-ATTR verge do-PST-DECL but last moment-LOC Mina-TOP nothing do-NMLZ NEG-PST-DECL
+\l Mina almost made Minho pleased / get surprised (but at the last moment, Mina decided not to do anything).
+
+\t Mina-ka / ku yenghwa-ka Minho-lul sip-pwun tongan / maney culkep-key hay-ess-ta .
+\g Mina-NOM / the movie-NOM Minho-ACC ten-minutes for / in pleased-ADVR do-PST-DECL
+\l Mina / the movie made Minho pleased for / in(=after) ten minutes.
+
+\t Mina-ka / ku yenghwa-ka Minho-lul sip-pwun tongan / maney nolla-key hay-ess-ta .
+\g Mina-NOM / the movie-NOM Minho-ACC ten-minutes for / in get.surprised-ADVR do-PST-DECL
+\l Mina / the movie made Minho get surprised for / in(=after) ten minutes.
+
+\t Mina-ka / ku yenghwa-ka Minho-lul nolla-key hay-ess-ta .
+\g Mina-NOM / the movie-NOM Minho-ACC get.surprised-ADVR do-PST-DECL
+\l Mina / the movie made Minho get surprised.
+
+\t Mina-ka / ku yenghwa-ka Minho-lul culkep-key hay-ess-ta .
+\g Mina-NOM / the movie-NOM Minho-ACC pleased-ADVR do-PST-DECL
+\l Mina / the movie made Minho pleased.
+
+\t hwacangsil-eyse motun haksayng-i son-ul an ssis-ess-ta-ko iyaki-un malhaycwunta
+\g in the restroom every student-NOM hand-ACC NEG wash-PST-DECL-COMP story-TOP tell
+\l The story tells that every student did not wash her hands in the restroom.
+
+\t ecey pam-ey Sehee-ka motun chospwul-ul an khye-(e)ss-ta-ko iyaki-nun malhaycwunta
+\g last night Sehee-NOM every candle-ACC NEG light-PST-DECL-COMP story-TOP tell
+\l The story tells that Sehee did not light every candle last night.
+
+\t Jinho-nun   totwuk-i tomangka-n -un kes -ul capassta
+\g Jinho-TOP thief-NOM run.away-IPFV-REL thing-ACC caught
+\l A/The thief was running away and Jinho caught him.
+
+\t Jinho-nun   _ tomangka-n -un totwuk -ul capassta
+\g Jinho-TOP  run.away-IPFV-REL thief-ACC caught
+\l Jinho caught a/the thief who was running away.
+
+\t John-un    chayk-(ul) pilli-n  kes -ul toli-ecwu-ess-ta
+\g John-TOP  book-ACC borrow-REL.PST thing-ACC return-AUX-PST-DECL
+\l John returned the book he borrowed.
+
+\t    John-i _ ilk-ul  chayk  
+\g  John-TOP  read-REL.FUT book
+\l the book that John will read
+
+\t Eti-ey sensayng-nim-i ka-sipni-kka ?
+\g where.to teacher-HON-NOM go-HON-Q
+\l Where did the teacher go?
+
+\t Hoysa-ka  yeca-(uy) osip-phulo -lul ceyyonghayssta .
+\g company-NOM woman-GEN fifty-percent-ACC hired
+\l The company hired fifty percent of the women.’ (conservative)
+
+\t Hoysa-ka yeca-lul osip-phulo ceyyonghayssta .
+\g company-NOM woman-ACC fifty-percent hired
+\l The company hired fifty percent women.’ (non-conservative)
+
+\t Hoysa-ka yeca-lul (maynyen) osip-phulo (maynyen) ceyyonghayssta .
+\g Company-NOM woman-ACC every.year fifty-percent every.year hired.
+\l The company hired fifty percent women every year.’ (non-conservative)
+
+\t Sonyen-i swuley-lul kul-ko sonye-ka mile-ss-ta .
+\g garçon-NOM carriole-ACC tirer-et fille-NOM pousser-PAST-DECL
+\l Le garçon a tiré, et la fille a poussé la carriole.
+
+\t Anei îi plac merele , {şi *iar}  şi Marei F perele .
+\g Ana.DAT DAT.3SG plaisent pommes.DEF {et et} aussi Mara.DAT poires.DEF
+\l Ana aime les pommes et Mara aussi les poires.
+
+\t Chayk=ul ilk-ess-supnita .
+\g book=ACC read-PAST-DECL.FORM
+\l I read the book.’ 5cmChayk=ul ilk-usipsio.
+
+\t Chayk=ul ilk-ess-eyo .
+\g book=ACC read-PAST-DECL.POL
+\l I read the book.’ 5cmChayk=ul ilk-useyyo.
+
+\t Pi=ka w-ayo .
+\g rain=NOM come-DECL.POL
+\l It is raining.’ (polite)
+
+\t Pi=ka an-w-ayo .
+\g rain=NOM NEG-come-DECL.POL
+\l It is not raining.’ (polite)
+
+\t Pi=ka w-ayo ?
+\g rain=NOM come-DECL.POL
+\l Is it raining?’ (polite)
+
+\t  ce il-ul  nwu-ka mak-keyss-ni .
+\g [that thing-ACC] who-NOM block-will-Q
+\l Who would be able to block that?
+
+\t narssi-ka tʃoh-ta .
+\g weather-NOM good-DECL.PLAIN
+\l The weather is good.
+
+\t narssi-ka tʃoh-ni ?
+\g weather-NOM good-Q.PLAIN
+\l Is the weather good?’ (: 57)
+
+\t ka-nɯnka ?
+\g go-Q.FAM
+\l Are (you) going?
+
+\t k‘ɯ-nka ?
+\g big-Q.FAM
+\l Is (it) big?’ (: 31)
+
+\t muɣəs-ɯr ha-nɯnka ?
+\g what-ACC do-Q.FAM
+\l What are (you) doing?’ (: 42)
+
+\t mues-ul ha-ni ?
+\g what-ACC do-Q.PLAIN
+\l What are (you) doing?
+
+\t kitʃ‘a-ka məntʃə o-r-ka , tʃatoŋtʃ‘a-ka o-r-ka ?
+\g train-NOM first arrive-PRS-Q.FAM car-NOM arrive-PRS-Q.FAM
+\l Does the train or does the car arrive first?’ (: 94)
+
+\t wuli-ka ka-l-kka .yo salam-ul ponay-l-kka .yo ?
+\g we-NOM go-PRS-Q.FAM person-ACC send-PRS-Q.FAM
+\l Shall we go or shall (we) send someone?
+
+\t yongho-ka te khu-ni , animyen nami-ka te khu-ni ?
+\g PN-NOM more big-Q.PLAIN or PN-NOM more big-Q.PLAIN
+\l Is Yongho taller or Nami?
+
+\t ka-l-kka ma-l-kka ?
+\g go-PRS-Q NEG-PRS-Q
+\l whether to go or not
+
+\t canton iss-ni eps-ni ?
+\g change COP-Q.PLAIN NEG-Q.PLAIN
+\l Do you have change or not?’ (: 150)
+
+\t hwuchwu mac-cyo ?
+\g black.pepper correct-COMM.POL
+\l It is black pepper, right?
+
+\t wenlay khu-canh-a .yo ?
+\g originally tall-COMM.NEG-POL
+\l She has been tall since birth, right?
+
+\t nayil hakkyo-ey ka-pnikka ?
+\g tomorrow school-DIR go-Q.DEF
+\l Do (you) go to school tomorrow?
+
+\t hakkyo-ey nayil ka-pnikka ?
+\g school-DIR tomorrow go-Q.DEF
+\l Do (you) go to school tomorrow?
+
+\t tangsin-un nayil hakkyo ka-pnikka ?
+\g 2SG-TOP tomorrow school go-Q.DEF
+\l Do you go to school tomorrow?’ (elicited, slightly adjusted)
+
+\t ni pap mek-ess-nya ?
+\g 2SG meal eat-PST-Q.PLAIN
+\l Did you have your meal?
+
+\t ka-wu ?
+\g go-Q.FAM
+\l Does (she) go?
+
+\t etu .m ey ka-si-p-ney-kka ?
+\g where to go-SH-AH-IND-Q
+\l Where are you going?
+
+\t ni pap muk-ess-nya ?
+\g 2SG meal eat-PST-Q.PLAIN
+\l Did you have your meal?
+
+\t moosoon băpi iss-um .mê ?
+\g what meal COP-Q.FAM
+\l What food is there?’ (: 13)
+
+\t ni etey ka-ss-no ?
+\g 2SG where go-PST-Q.PLAIN
+\l Where did you go?
+
+\t i ke nwu chayk i-ko ?
+\g this ?NOM who book COP-Q.PLAIN
+\l Whose book is this?
+
+\t pap mun-na ?
+\g meal eat-Q.PLAIN
+\l Did you eat?
+
+\t kuk i ni chayk i-ka ?
+\g that ?NOM 2SG book COP-Q.PLAIN
+\l Is that your book?
+
+\t i-nón sang-ka pel-a ?
+\g this-TOP prize-Q punishment-Q
+\l Is this a prize or a punishment?
+
+\t Cheolsu-neun Yeonghi-leul/ka kake-e ka-tolok seolteukha-eoss-ta
+\g Cheolsu-TOP Yeonghi-ACC/NOM store-to go-COMP persuade-PAST-DECL
+\l Cheolsu persuaded Yeonghi to go to the store.
+
+\t Cheolsu-neun Yeonghi-leuli  △i kake-e ka-tolok  seolteukha-eoss-ta
+\g Cheolsu-TOP Yeonghi-ACC _ store-to go-COMP persuade-PAST-DECL
+\l Cheolsu persuaded Yeonghi to go to the store.
+
+\t Cheolsu-neun △i  Yeonghi-kai kake-e ka-tolok  seolteukha-eoss-ta
+\g Cheolsu-TOP _ Yeonghi-NOM store-to go-COMP persuade-PAST-DECL
+\l Cheolsu persuaded Yeonghi to go to the store.
+
+\t Na-nun  pi-ka w-ass-ul ttay-(ey)  ttena-ss-ta .
+\g I-TC rain-NOM come-PST-PROSP time-at leave-PST-DECL
+\l I left when it had rained.
+
+\t Inho-ka Jwuhi-eykey  caki-ka cip-ey ka-keyss-ko  yaksok-ha-yess-ta .
+\g Inho-NOM Jwuhi-DAT self-NOM home-LOC go-VOL-COMP promise-do-PST-COMP
+\l Inho promised Jwuhi to go home.
+
+\t Gyeolhonski-e gatda . Sinbu-ga / #ku sinbu-ga paransek-ul ipeotda .
+\g wedding-to went bride-NOM / #that bride-NOM blue-ACC wore
+\l (I) went to a wedding. The bride / #that bride wore blue.
+
+\t Chayk=ul ilk-ess-supnita .
+\g book=ACC read-PAST-DECL.FORM
+\l I read the book.’ 5cmChayk=ul ilk-usipsio.
+
+\t Chayk=ul ilk-ess-eyo .
+\g book=ACC read-PAST-DECL.POL
+\l I read the book.’ 5cmChayk=ul ilk-useyyo.
+
+\t Pi=ka w-ayo .
+\g rain=NOM come-DECL.POL
+\l It is raining.’ (polite)
+
+\t Pi=ka an-w-ayo .
+\g rain=NOM NEG-come-DECL.POL
+\l It is not raining.’ (polite)
+
+\t Pi=ka w-ayo ?
+\g rain=NOM come-DECL.POL
+\l Is it raining?’ (polite)
+
+\t Ch’ŏlsu-ga na-rŭl sarang-ha-ndago saenggak-hae(-yo)
+\g Ch’ŏlsu-NOM moi-ACC amour-faire-PRES.INF pensée-faire(-POLITESSE)
+\l Je crois que Cholsu m’aime
+
+\t Ku pwun-i cap-hi-si-ess-ess-keyss-sup-ti-kka ?
+\g the person-NOM catch-PASS-AGR-ANT-PAST-EPIST-AGR-EVID-Q
+\l Did you feel that he has been caught?
+
+\t Mia-ka wul-e pely-ess-ta .
+\g Mia-NOM cry-CONN end.up-PST-DECL
+\l Mia ended up crying.
+
+\t Mimi-nun congi-lul hyucithong-ey pely-ess-ta .
+\g Mimi-TOP paper-ACC trash.can-LOC throw.away-PST-DECL
+\l Mimi threw away the paper in the trash can.
+
+\t Mimi-nun amwukes-to mek-ci anh-ass-ta .
+\g Mimi-TOP anything-also eat-CONN not-PST-DECL
+\l Mimi did not eat anything.
+
+\t Mimi-nun amwukes-to mek-ko siph-ci anh-ass-ta .
+\g Mimi-TOP anything-also eat-CONN wish-CONN not-PST-DECL
+\l Mimi did not feel like eating anything.
+
+\t Mimi-lul amwukes-to mek-tolok seltukha-ci anh-ass-ta .
+\g Mimi-ACC anything-also eat-CONN persuade-CONN not-PST-DECL
+\l Intended: `(We) did not persuade Mimi to eat anything.
+
+\t Mary-ka hayekan sakwa-lul mek-ko iss-ta .
+\g Mary-NOM anyway apple-ACC eat-CONN be.in.the.process.of-DECL
+\l Anyway, Mary is eating an apple.
+
+\t Mary-ka sakwa-lul mek-ko hayekan iss-ta .
+\g Mary-NOM apple-ACC eat-CONN anyway be.in.the.process.of-DECL
+\l Intended: `Anyway, Mary is eating an apple.
+
+\t Mimi-nun Haha-lul (cengmal) ttena-tolok (cengmal) seltukha-yess-ta .
+\g Mimi-TOP Haha-ACC really leave-CONN really persuade-PST-DECL
+\l Mimi (really) persuaded Haha to (really) leave.
+
+\t Kim-un   sakwa-ka cayngpan-wi-ey iss-nun  kes -ul mek-ess-ta .
+\g Kim-TOP apple-NOM tray-TOP-LOC exist-MOD KES-ACC eat-PST-DECL
+\l Kim ate an apple which was on the tray.
+
+\t sensayng-nim-i o-ci anh-usi-ess-ta .
+\g teacher-HON-NOM come-CONN NEG-HON-PST-DECL
+\l The teacher didn't come.
+
+\t John-un ku chayk-ul ilk-ci anh-ass-ta .
+\g John-TOP that book-ACC read-CONN NEG-PST-DECL
+\l John did not read the book.
+
+\t ilk-ko/*-ci siph-ta .
+\g read-CONN/CONN would.like-DECL
+\l (I) would like to read.
+
+\t ilk-ci anh-ass-ta .
+\g read-CONN NEG-PST-DECL
+\l (I) did not read.
+
+\t Mimi-nun (yehathun) tosi-lul (yehathun) ttena-ci (*yehathun) anh-ass-ta .
+\g Mimi-TOP anyway city-ACC anyway leave-CONN anyway NEG-PST-DECL
+\l Anyway, Mimi didn't leave the city.
+
+\t Kim-i hakkyo-eyse pelsse tolawa-ss-ni ?
+\g Kim-NOM school-SRC already return-PST-QUE
+\l Did Kim return from school already?
+
+\t ka-ci-to anh-ass-e .
+\g go-CONN-DEL NOT-PST-DECL
+\l (He) didn't even go.
+
+\t Sakwa-lul  mek-ci anh-ta  .
+\g apple-ACC eat-CONN NEG-DECL
+\l (I/he/she) do/does not eat the apple.
+
+\t Sakwa-lul   mek-ko siph-ci  anh-ta  .
+\g apple-ACC eat-CONN wish-CONN NEG-DECL
+\l (I/he/she) would not like to eat the apple.
+
+\t Sakwa-lul    mek-ko siph-e  ha-ci  anh-ta  .
+\g apple-ACC eat-CONN wish-CONN do-CONN NEG-DECL
+\l (I/he/she) do/does not like to eat the apple.
+
+\t Nwukwu-ka ku chaek-ul sa-ass-ni ?
+\g who-NOM the book-ACC buy-PST-QUE
+\l Who bought the book?
+
+\t Yongsu-ka / Yongsu / * Yongsu-lul .
+\g Yongsu-NOM _ Yongsu _ _ Yongsu-ACC
+\l Yongsu.
+
+\t Yongsu-ka / * Yongsu ku chaek-ul sa-ass-e .
+\g Yongsu-NOM _ _ Yongsu the book-ACC buy-PST-DECL
+\l Yongsu bought the book.
+
+\t Bibi-ka kay-lul cha-ss-ta
+\g Bibi-NOM dog-ACC kick-PAST-DECL
+\l Bibi kicked the dog.
+
+\t nemwu manh-un ton-ul sopi hayss-eyo
+\g too much-REL money-ACC spend DO.PAST-DECL
+\l He spent too much money.
+
+\t sensayng-nim-i haksayng-ul kitali-si-n-ta
+\g teacher-HON-NOM student-ACC wait-HON-PRES-DECL
+\l The teacher is waiting for a/the student.
+
+\t (yesnal-ey) Bibi-ka han/etten yeca-lul mannass-ta
+\g long.time-LOC Bibi-NOM one/some woman-ACC meet.PAST-DECL
+\l (A long time ago) Bibi met a woman.’ (focalized/emphatic)
+
+\t Chayk=ul ilk-ess-supnita .
+\g book=ACC read-PAST-DECL.FORM
+\l I read the book.’ 5cmChayk=ul ilk-usipsio.
+
+\t Chayk=ul ilk-ess-eyo .
+\g book=ACC read-PAST-DECL.POL
+\l I read the book.’ 5cmChayk=ul ilk-useyyo.
+
+\t Pi=ka w-ayo .
+\g rain=NOM come-DECL.POL
+\l It is raining.’ (polite)
+
+\t Pi=ka an-w-ayo .
+\g rain=NOM NEG-come-DECL.POL
+\l It is not raining.’ (polite)
+
+\t Pi=ka w-ayo ?
+\g rain=NOM come-DECL.POL
+\l Is it raining?’ (polite)
+

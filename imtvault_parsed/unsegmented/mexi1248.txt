@@ -1,0 +1,19 @@
+\t ¿Quién compró el periódico ayer ?
+\g who bought the newspaper yesterday
+\l Who bought the newspaper yesterday.
+
+\t #Juan compró ayer el periódico .
+\g Juan bought yesterday the newspaper\t Ayer compró el periódico Juan .
+\g yesterday bought the newspaper Juan
+\l Juan bought the newspaper yesterday.
+
+\t ¿Quién compró un carro ?
+\g who bought a car
+\l Who bought a car?
+
+\t Mi tío compró un carro .
+\g my uncle bought a car
+\l My uncle bought a car.
+
+\t #Compró un carro mi tío .
+\g bought a car my uncle

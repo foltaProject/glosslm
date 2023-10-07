@@ -1,0 +1,180 @@
+\t Dibidu way daaqayaan .
+\g oxen-DEF-SBJ DECL-PRO.3 graze-PROG-PRS.3PL
+\l The oxen are grazing.
+
+\t Dibidu way daaqaysaa .
+\g oxen-DEF-SBJ DECL-PRO.3 graze-PROG-PRS.3FSG
+\l The oxen are grazing.
+
+\t Dibiyadu way daaqayaan .
+\g ox-PL-DEF-SBJ DECL-PRO.3 graze-PROG-PRS.3PL
+\l The oxen are grazing.
+
+\t *Dibiyadu way daaqaysaa .
+\g ox-PL-DEF-SBJ DECL-PRO.3 graze-PROG-PRS.3FSG
+\l The oxen are grazing.
+
+\t Faarax qoyskiisu waxa ay dhaqdaan geel .
+\g Faarax family\MSG-DEF-POSS.3MSG-SBJ FFOC PRO.3 breed-PRS.3PL camel\M.COLL
+\l Faarax’s family breeds camels.
+
+\t Diinku inta badan ma sameeyaan wax dhaqdhaqaaq ah .
+\g turtle\MSG-DEF-SBJ amount much not make-PRS.3PL thing movement being.
+\l For a long period of time turtles don’t make any movements.
+
+\t biabantaabeLH
+\g COMPL-fall.hard=3SG.ANIM
+\l He fell.
+
+\t bireeche dxumiLH peLHra stiLHbeLH
+\g COMPL-spill basket pear POSS-3SG.ANIM
+\l His basket of pears spilled.
+
+\t Wadda+hálaqu waa fiicán tahay .
+\g road+snake-M.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The way snakes go/move is good.' cf. waddá-du (F), hálaq-u (M)
+
+\t Málabku waa fiicán yahay .
+\g honey(M.SG)-M.DEF.NOM DECL good 3SG.M.COP.PRS
+\l The honey is good.
+
+\t Shimbírtu waa fiicán tahay .
+\g bird(F.SG)-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The bird is good.
+
+\t gaari+fáraska
+\g car+horse-M.DEF
+\l the horse cart
+
+\t búugga macállinka
+\g book-M.DEF teacher-M.DEF
+\l the book of the teacher
+
+\t Gaari+fárasku waa fiicán yahay .
+\g car+horse-M.DEF.NOM DECL good 3SG.M.COP.PRS
+\l The horse cart is good.' cf. gaarígu (M), fárasku (M)
+
+\t Fool+maroodígu waa fiicán yahay .
+\g tooth+elephant-M.DEF.NOM DECL good 3SG.M.COP.PRS
+\l The ivory/elephant's tusk is good.' cf. fóolku (M), maroodígu (M)
+
+\t Laf+aráxdu waa fiicán tahay .
+\g bone+vertebra-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The spine is good.' cf. láftu (F), aráxdu (F)
+
+\t Kabsar+caleéntu waa fiicán tahay .
+\g herb+leaf-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The parsley/cilantro is good.' cf. kabsártu (F), caleéntu (F)
+
+\t Bur+saliídku waa fiicán yahay .
+\g cake/flour+oil-M.DEF.NOM DECL good 3SG.M.COP.PRS
+\l The fritter is good.' cf. búrku (M), saliíddu (F)
+
+\t Daacuun+caloólku waa xún yahay .
+\g cholera+stomach-M.DEF.NOM DECL bad 3SG.M.COP.PRS
+\l The cholera/stomach disease is bad.' cf. daacúunku (M), caloóshu (F)
+
+\t Shimbir+málabtu waa fiicán tahay .
+\g bird+honey-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The honey-bird is good.' cf. shimbírtu (F), málabku (M)
+
+\t Laf+gárabtu waa fiicán tahay .
+\g bone+shoulder-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The shoulder bone is good.' cf. láftu (F), gárabku (M)
+
+\t Fool+díinku waa xún tahay .
+\g labor.pain+turtle.M.DEF.NOM DECL bad 3SG.F-COP.PRS
+\l The false labor pains are bad.' cf. foóshu (F), díinku (M)
+
+\t Laf+sakáarku ∼tu waa fiicán tahay .
+\g bone+chest-M.DEF.NOM ∼-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The breast bone/sternum is good.' cf. láftu (F), sakáarku (M)
+
+\t Bir+jíirku ∼tu waa fiicán tahay .
+\g iron+mouse-M.DEF.NOM ∼-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The mouse trap is good.' cf. bírtu (F), jíirku (M)
+
+\t Wadda+hungúrigu waa fiicán tahay .
+\g road+throat-M.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The esophagus (the throat-road) is good.
+
+\t Wadda+hungúridu waa fiicán tahay .
+\g road+throat-F.DEF.NOM DECL good 3SG.F.COP.PRS
+\l The esophagus (the throat-road) is good.
+
+\t Bir+xárbidu waa xún tahay .
+\g iron+war-F.DEF.NOM DECL bad 3SG.F.COP.PRS
+\l The barrel cleaning rod is bad' (cf. bír-tu (F), xárbi-gu (M))
+
+\t Das Mädchen , das ich gesehen habe . . .
+\g DEF.N girl that.N I seen have
+\l the girl I saw…
+
+\t Schau dir dieses Mädchen an , wie gut sie/es Tennis spielt
+\g look you this.N girl at how good 3SG.F/N tennis plays
+\l Do look at this girl, see how well she plays tennis.
+
+\t Èta vzyskatel'nost' , samokritičnost' tože raspolagali k nemu .
+\g This-F.SG.NOM exactingness.(F.SG.NOM) self-criticalness.(F.SG.NOM) also disposed-PL to 3SG.M.DAT
+\l This exactingness and self-criticalness also disposed me favorably towards him.
+
+\t Gabádhdha iyo wíilkuba waa baahán yihiin .
+\g girl-F.DEF and boy-M.DEF.NOM=each DECL hungry 3PL.COP.PRS
+\l The girl and the boy are hungry.
+
+\t Wíilka iyo gabádhdhuba waa baahán yihiin .
+\g boy-M.DEF and girl-F.DEF.NOM=each DECL hungry 3PL.COP.PRS
+\l The boy and the girl are hungry.
+
+\t Hálkáas báaay joogeen libáaxa ama abeesáda .
+\g there FOC=3PL stay-PST.3PL lion-M.DEF or python-F.DEF
+\l The lion or the python was there.
+
+\t Hálkáas báaay joogeen abeesáda ama libáaxa .
+\g there FOC=3PL stay-PST.3PL python-F.DEF or lion-M.DEF
+\l The python or the lion was there.
+
+\t Búugga macállinku waa adág yahay .
+\g book-M.DEF teacher-M.DEF.NOM DECL hard 3SG.M.COP.PRS
+\l The book of the (male) teacher is hard/difficult.
+
+\t Búugga macallimáddu waa adág yahay .
+\g book-M.DEF teacher-F.DEF.NOM DECL hard 3SG.M.COP.PRS
+\l The book of the (female) teacher is hard/difficult.
+
+\t Warqádda macállinku waa adág tahay .
+\g paper-F.DEF teacher-M.DEF.NOM DECL hard 3SG.F.COP.PRS
+\l The paper of the (male) teacher is hard/difficult.
+
+\t Warqádda macallimáddu waa adág tahay .
+\g paper-F.DEF teacher-F.DEF.NOM DECL hard 3SG.F.COP.PRS
+\l The paper of the (female) teacher is hard/difficult.
+
+\t hooyó iyo aabbé
+\g mother and father
+\l a mother and a father
+
+\t hooyáda iyo aabbáha
+\g mother-F.DEF and father-M.DEF
+\l the mother and the father
+
+\t hooyó iyo aabbáha
+\g mother and father-M.DEF
+\l (Intended: `the mother and father')
+
+\t hooyáda iyo aabbé
+\g mother-F.DEF and father
+\l (Intended: `the mother and father')
+
+\t Labáda nínba waa dheerdhéer yihiin .
+\g two-F.DEF man.GEN=each DECL tall.PL 3PL.COP.PRS
+\l The two men (lit. the two of man) are tall.
+
+\t Tobánka naagoódba waa dheerdhéer yihiin .
+\g ten-M.DEF women.GEN=each DECL tall.PL 3PL.COP.PRS
+\l The ten women (lit. the ten of women) are tall.
+
+\t tobániyolabáda
+\g ten(M)-and-two(F)-F.DEF
+\l the twelve, twelve o'clock
+

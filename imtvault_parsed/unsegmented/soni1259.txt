@@ -1,0 +1,44 @@
+\t Ké yúgó xàrá .
+\g DEM man study
+\l This man studied.
+
+\t Ké yúgó má xàrà .
+\g DEM man CPL.NEG studyL
+\l This man did not study.
+
+\t Lémínèn dà í hàabá ŋàrí .
+\g child-D TR REFL father see
+\l The child saw his father.
+
+\t Lémínèn má í hàabá ŋàrì .
+\g child-D CPL.NEG REFL father seeL
+\l The child did not see his father.
+
+\t Ké yúgó nì tàgén ñà yí .
+\g DEM man EQCOP blacksmith-D FOC POSTP
+\l This man is a blacksmith.
+
+\t Ké yúgó hètí tàgé yì .
+\g DEM man EQCOP.NEG blacksmith POSTP
+\l This man is not a blacksmith.
+
+\t Múusá wá kónpèn dí .
+\g Moussa LOCCOP room-D in
+\l Moussa is in the room.
+
+\t Múusá ntá kónpèn dí .
+\g Moussa LOCCOP.NEG room-D in
+\l Moussa is not in the room.
+
+\t À háyí màní ñàanà ?
+\g 3SG look what do-GERL
+\l What is he doing?’ (lit. ‘Lookimper at him doing what?’)
+
+\t À háyí sòxònó bà ?
+\g 3SG look cultivate-GER Q
+\l Is he cultivating?’ (lit. ‘Lookimper at him cultivating?’)
+
+\t Kó háyí sòxònò ?
+\g who look cultivate-GERL
+\l Is he cultivating?’ (lit. ‘Lookimper at whom cultivating?’)
+

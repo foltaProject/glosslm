@@ -1,0 +1,272 @@
+\t X-at-in-tz’ët .
+\g CP-A2S-A1S-see
+\l I saw you.
+
+\t X-i-tz’et .
+\g CP-A1S-see.PAS
+\l I was seen.
+
+\t X-Ø-käm .
+\g CP-A3S-die
+\l He died.
+
+\t X-Ø-ki-kam-isaj .
+\g CP-A3S-E3P-die-CAUS
+\l They killed him.
+
+\t nu-b’aq
+\g E1S-bone
+\l My bone
+
+\t nu-b’aq-il
+\g E1S-bone-ABST
+\l My very bones
+
+\t ri nim-äq che’
+\g the big-PL tree
+\l the big trees
+
+\t X-Ø-nim-ïr .
+\g CP-a3s-big-INCH
+\l It got big.
+
+\t At ch’eq-ël .
+\g A2S wet-P.STAT
+\l You’re wet.
+
+\t X-a-ch’eq-e’ .
+\g CP-A2S-wet-P.ITV
+\l You got wet.
+
+\t ri ch’eq-ech’-äq ak’wal-a’
+\g the wet-P.ADJ-PL child-PL
+\l the very wet children
+
+\t X-e’-ru-ch’eq-eb’a ri ak’wal-a’ .
+\g CP-A3P-E2S-wet-P.TV the child-PL
+\l You got the children wet.
+
+\t *At ch’eq .
+\g A2S wet
+\l You’re wet.
+
+\t *X-a-ch’eq .
+\g CP-A2S-wet
+\l You got wet.
+
+\t *ri ch’eq-äq ak’wal-a’
+\g the wet-PL child-PL
+\l the very wet children
+
+\t At nïm .
+\g A2S big
+\l You’re big.
+
+\t X-a-nüm .
+\g CP-A2S-get.hungry
+\l You got hungry.
+
+\t ri nim-äq ak’wal-a’
+\g the big-PL child-PL
+\l the big children
+
+\t Ri a Xwan (más) nïm ch-u-wäch xta Mariy .
+\g the CLF Juan (more) big PREP-E3S-face CLF Maria
+\l Juan is bigger than Maria.’ lit. ‘Juan is big(ger) in front of Maria
+
+\t Ri käq jot-öl r-ajil ch-u-wäch ri xar .
+\g the red elevated-P.STAT E3s-price P-E3s-face the blue
+\l The red is more expensive than the blue.’ lit. ‘The red one’s price is higher than the blue one’s.
+
+\t La xat’at’ la’ kot-öl ch-u-wäch ri jun chïk .
+\g that staff there bent-P.STAT P-E3s-face the one other
+\l That forked staff there is more bent than the other one.
+
+\t Ru-chi ri jay jaq-äl ch-u-wäch ru-chi ri ch’ich’ .
+\g E3S-door the house open-P.STAT PREP-E3S-face E3S-door the car
+\l The door to the house is more open than the door to the car.
+
+\t Ri ala’ ch’eq-ël ch-u-wäch ri xtän .
+\g the boy wet-P.STAT PREP-E3S-face the girl
+\l The boy is more wet than the girl.
+
+\t Ri pa’s pach’-äl ch-u-wäch ri po’t .
+\g the belt rip-P.STAT PREP-E3S-face the blouse
+\l The belt is more ripped than the blouse.
+
+\t Ø b’uy-ül , po man Ø b’uy-üb’-ïk ta .
+\g A3S soft-P.STAT, but NEG A3s soft-P.ADJ-SG IRR
+\l It’s soft, but it’s not very soft.
+
+\t #Ø b’uy-üb’-ïk , po man Ø b’uy-ül ta .
+\g A3s soft-P.ADJ-SG, but NEG A3s soft-P.STAT IRR
+\l It’s very soft, but it’s not soft.
+
+\t Ø jech’-ël , po man Ø jech’-ej-ïk ta .
+\g A3s twist-P.STAT, but NEG A3s twist-P.ADJ-SG IRR
+\l It’s twisted, but it’s not extremely twisted.
+
+\t #Ø jech-ej-ïk , po man Ø jech’-ël ta .
+\g A3s soft-P.ADJ-SG, but NEG A3s soft-P.STAT IRR
+\l It’s extremely twisted, but it’s not twisted.
+
+\t Man Ø jor-öl ta , po man Ø ti’oj ta chuqa’ .
+\g NEG A3S skinny-P.STAT IRR, but NEG A3S fat IRR also
+\l He’s not skinny, but he’s not fat either.
+
+\t Man Ø kich-ïl ta , po man Ø nuk’-ül ta chuqa’ .
+\g NEG A3S messy-P.STAT IRR, but NEG A3S tidy-P.STAT IRR also
+\l It’s not messy, but it’s not tidy either.
+
+\t #Man Ø ch’eq-ël ta w-aq’a’ , po k’o b’a ya’ ch-r-ij .
+\g NEG A3S wet-P.STAT IRR E1S-hand, but exist little water PREP-E3S-back
+\l My hands are not wet, but they got a little water on them.
+
+\t #Man Ø ch’em-ël ta , po jub’a x-Ø-pax el ru-chi’ .
+\g NEG A3S chip-P.STAT IRR, po little CP-A3S-break DIR E3S-mouth
+\l It isn’t chipped, but its edge cracked a bit and fell off.
+
+\t #Jam-äl la chachäch la’ , po t-Ø-a-chap-a’ el jun aw-ik’oy .
+\g empty-P.STAT that basket there, but IMP-A3S-E2S-handle-SS DIR a E2S-güicoy
+\l That basket there is empty, but grab yourself a Güicoy.
+
+\t #Titz-ïl ri costal ch-u-pan , po t-Ø-a-ya’ más ch-u-pan .
+\g empty-P.STAT the bag PREP-E3S-inside, but IMP-A3S-E2S-give more PREP-E3S-inside
+\l The bag is full of beans, but put more in.
+
+\t Ri ak’wäl mas qeb’-äl chi-ki-waäch r-ach’alal .
+\g the child more seated(fat)-P.STAT PREP-e3p-front E3S-brother
+\l The boy is fatter (seated) than his brothers.
+
+\t Ø Jot-öl r-ajil .
+\g A3S elevated-P.STAT E3S-price
+\l That’s expensive.
+
+\t #Ø Jot-öl r-ajil .
+\g A3S elevated-P.STAT E3S-price
+\l That’s expensive.
+
+\t Yalan Ø jot-öl r-ajil .
+\g very A3S elevated-P.STAT E3S-price
+\l It’s very expensive.
+
+\t Yalan Ø tew .
+\g very A3S cold
+\l It’s very cold.
+
+\t Jub’a Ø jot-öl r-ajil .
+\g little A3S elevated-P.STAT E3S-price
+\l It’s a little expensive.
+
+\t Jub’a Ø tew .
+\g little A3S cold
+\l It’s a little cold.
+
+\t Ri käq (mas) jot-öl r-ajil ch-u-wäch ri xar .
+\g the red (mas) elevated-P.STAT E3S-price P-E3S-face the blue
+\l The red is more expensive than the blue.’ lit. ‘The red one’s price is higher than the blue one’s.
+
+\t Ri jun ala’ (mas) nïm r-aqan ch-u-wäch ri jun chïk .
+\g the one boy (mas) big E3S-leg P-E3S-face the one other
+\l The one boy is taller than the other.’ lit. ‘The one boy’s leg is bigger than the other one’s.
+
+\t Ø A3S
+\g white säq.
+\l It’s white.
+
+\t Ø jot-öl .
+\g A3S high-P.STAT
+\l It’s high.
+
+\t *Ø jot r-ajil .
+\g A3S high E3S-price
+\l It’s expensive.
+
+\t Yalan Ø ch’eq-ël .
+\g very A3S wet-P.STAT
+\l It’s very wet.
+
+\t Jub’a Ø k’äy .
+\g little A3S bitter
+\l It’s a little bitter.
+
+\t Ju-jaj jot-öl nu-ch’akät chi kaj .
+\g one-arm.length elevated-P.STAT E1S-chair P heaven
+\l My chair is one arm-length tall in height.
+
+\t In (mas) ch’eq-ech-ïk ch-u-wäch rija’ .
+\g A1S (mas) wet-P.ADJ-SG P-E3S-face PRO.3S
+\l I’m more soaked than him.
+
+\t Ø ch’eq-ech-ïk .
+\g A3S wet-P.ADJ-SG
+\l It’s very wet.
+
+\t paj-b’äl
+\g measure-INSTR
+\l measuring instrument
+
+\t war-b’äl
+\g sleep-INSTR
+\l sleeping place
+
+\t weq-b’äl
+\g adorned-INSTR
+\l adornments
+
+\t tzuy-b’äl
+\g seated-INSTR
+\l seat
+
+\t qaj-en
+\g lower-NOM
+\l lowering
+
+\t war-en
+\g sleep-NOM
+\l sleeping
+
+\t jot-ol-en
+\g high-P.STAT-NOM
+\l height
+
+\t tzuy-ul-en
+\g sit-P.STAT-NOM
+\l sitting
+
+\t Ø Yun-uy-ïk ru-chi ri rij-iläj achin .
+\g A3S shut (mouth)-P.ADJ-SG E3S-mouth the old-SUP man
+\l The old man’s mouth was shut tight.’ SPEAKER COMMENT: His mouth is shut tight and his face all wrinkled.
+
+\t *Ju-jaj nu-ch’akät jot-öl chi kaj .
+\g one-arm.length E1S-chair elevated-P.STAT P heaven
+\l My chair is one arm-length tall in height.
+
+\t Nu-ch’akät ju-jaj jot-öl chi kaj .
+\g E1S-chair one-arm.length elevated-P.STAT P heaven
+\l My chair is one arm-length tall in height.
+
+\t rat x-∅-aw-ax-aj ri achin .
+\g you.SG COM-3SG.ABS-2SG.ERG-hear-ACT the man
+\l You heard the man.
+
+\t ri achin x-a-r-ax-aj rat .
+\g the man COM-2SG.ABS-3SG.ERG-hear-ACT you.SG
+\l The man heard you.
+
+\t ja yïn x-in / *∅-ax-an ri achin .
+\g FOC me COM-1SG / *3SG.ABS-hear-AF the man
+\l It was me that heard the man.
+
+\t ja ri achin x-in / *∅-ax-an yïn .
+\g FOC the man COM-1SG / *3SG.ABS-hear-AF me
+\l It was the man that heard me.
+
+\t ja rat x-at / *∅-ax-an ri achin .
+\g FOC you.SG COM-2SG / *3SG.ABS-hear-AF the man
+\l It was you that heard the man.
+
+\t ja ri achin x-at / *∅-ax-an rat .
+\g FOC the man COM-2SG / *3SG.ABS-hear-AF you.SG
+\l It was the man that heard you.
+

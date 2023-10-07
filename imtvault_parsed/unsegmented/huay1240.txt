@@ -1,0 +1,16 @@
+\t Maymantaq   José munan   María ____ aywananta    ?
+\g where-to-Q  José wants  María  will-go-ACC 
+\l Where does José want María to go?
+
+\t   José munan   María mayman aywananta    ?
+\g  José wants  María where-to will-go-ACC \t *Pitaq Fuan musyan   ____ tantata ruranqanta   ?
+\g who-Q Juan knows  bread-ACC made-ACC\t Fuan musyan   pi tantata ruranqanta   ?
+\g Juan knows  who bread-ACC made-ACC
+\l Who is x such that Juan knows that x made bread?
+
+\t *Imatataq (qam) kuyanki   ____ suwaq nunata  ?
+\g what-ACC-Q you love-2PP  steal man-ACC
+\l What is x such that you love the man who stole x?
+
+\t  kuyanki   imata suwaq nunata  ?
+\g you love-2PP  what-ACC steal man-ACC

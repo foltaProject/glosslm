@@ -1,0 +1,48 @@
+\t roori
+\g run-3SGM.PAST
+\l he ran
+
+\t roorti
+\g run-3SGF.PAST
+\l she ran
+
+\t rooreena
+\g run-3PL.PAST
+\l they ran
+
+\t ɗeerya
+\g be.tall-3SGM.STATIVE
+\l he is tall
+
+\t ɗeerta
+\g be.tall-3SGF.STATIVE
+\l she is tall
+
+\t ɗeeryena
+\g be.tall-3PL.STATIVE
+\l they are tall
+
+\t kooye
+\g come-3SGM.FUTURE
+\l he will come
+
+\t kooyase
+\g come-3SGF.FUTURE
+\l she will come
+
+\t kooyayeena
+\g come-3PL.FUTURE
+\l they will come
+
+\t aamoye
+\g eat-PRES.PROG-3SGM.PRESENT
+\l he is eating
+
+\t aamoyte
+\g eat-PRES.PROG-3SGF.PRESENT
+\l she is eating
+
+\t aamoyeena
+\g eat-PRES.PROG-3PL.PRESENT
+\l they are eating
+

@@ -1,0 +1,20 @@
+\t ma yas pasalmā patrikā kinchu .
+\g 1 DEM.OBL store-LOC newspaper.NOM buy-NPST-1
+\l I buy the newspaper in this store.
+
+\t maile yas pasalmā patrikā kinē/ *kinyo .
+\g 1 DEM.OBL store-LOC newspaper.NOM buy-PST.1/ buy.PST.3MSG
+\l I bought the newspaper in this store.
+
+\t yini mahilãle jhyãl phoɖinan
+\g DEM woman-ERG window break-NEG.PST.3SG
+\l The woman didn't break the window.
+
+\t bārimã birāloharu chhainan
+\g garden-LOC cat-PL be-NEG.PST.3SG
+\l (He is looking outside.) There are no cats in the garden.
+
+\t jãgali birāloharu thienan
+\g jungle cat-PL be.PST-NEG.PST.3SG
+\l There were no wild cats (back in the day, before they were brought
+

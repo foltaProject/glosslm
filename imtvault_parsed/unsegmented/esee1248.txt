@@ -1,0 +1,16 @@
+\t ekwaa motor ishwa’axanaje
+\g 1EXCL.ERG motorboat wait-FRUST-PST
+\l We vainly waited for the motorboat.
+
+\t jamaya esea aniani , xaishwakianiani
+\g so=FOC 1INCL.ABS sit-IPFV ANTP-wait-ANTP-IPFV-PRS
+\l So we usually sit and wait.
+
+\t eyaya ekwebakwa jabeje
+\g 1SG.ERG 1SG.POSS=child comb-FUT
+\l I will comb my child.
+
+\t epona xajabekiani
+\g woman.ABS REFL-comb-REFL-PRS
+\l The woman is combing herself.
+

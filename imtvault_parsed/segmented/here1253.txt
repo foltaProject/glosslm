@@ -1,0 +1,32 @@
+\t Omukazendu ma pe ovazandu ovikurya .
+\g 1.woman PRES 1SM.give 2.boys 8.food
+\l The woman gives the boys food.
+
+\t Omukazendu me ve pe ovikurya .
+\g 1.woman PRES.1SM 2OM give 8.food
+\l The woman gives them food.
+
+\t Omukazendu me vi pe ovazandu .
+\g 1.woman PRES.1SM 8OM give 2.boys
+\l The woman gives it to the children.
+
+\t Má-vé vè tjáng-ér-é òm-bàpírà .
+\g PRS-2SM 2OM write-APPL-FV 9-letter
+\l They are writing them a letter.
+
+\t Má-vá ì tjáng-ér-é òvà-nâtjé .
+\g PRS-2SM 9OM write-APPL-FV 2-children
+\l They are writing the children it.
+
+\t Ma-ve ve tjang-is-a om-bapira .
+\g PRS-2SM 2OM write-CAUS-FV 9-letter
+\l They make them write a letter.
+
+\t Ma-ve i tjang-is-a ova-natje .
+\g PRS-2SM 9OM write-CAUS-FV 2-children
+\l They make the children write it.
+
+\t mò-ngàndá mw-á-hìtí òvá-ndú
+\g 18-9.house 18.SM-PST-enter 2-people
+\l Into the house/home entered (the) guests.
+

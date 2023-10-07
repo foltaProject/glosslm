@@ -1,0 +1,148 @@
+\t wasipi /man /manda /paj
+\g house-LOC /-DIR /-ABL /-GEN
+\l in/to/from/of the house
+
+\t wasi ukupi /man /manda
+\g house interior-LOC /-DIR /-ABL
+\l within/into/from within the house
+
+\t maypimi pundaniki ingaka kawsarka ?
+\g where-LOC-FOC first Inka-TOP live-PAST.3
+\l Where did the first Inka live?
+
+\t Qampis maqamashkankimi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=DIRECT
+\l You also hit me (I saw and/or felt it).
+
+\t Qampis maqamashkankishi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=HEARSAY
+\l (Someone told me that) you also hit me (I was drunk and can’t remember).
+
+\t Qampis maqamashkankichi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=CONJECT
+\l (I infer that) you also hit me.
+
+\t Inesqa manas qaynunchaw ñañantachu watukurqan .
+\g Inés-TOP not=REPORT yesterday sister-3-ACC-NEG visit-PAST1-3
+\l propositional content = ‘Inés didn’t visit her sister yesterday.
+
+\t Inesqa qaynunchay ñañantas watukusqa .
+\g Inés-TOP yesterday sister-ACC=REPORT visit-PAST2
+\l propositional content = ‘Inés visited her sister yesterday.
+
+\t Parashansi , ichaqa mana creinichu .
+\g rain-PROG-3=REPORT but not believe-1-NEG
+\l It is raining (someone says), but I don’t believe it.
+
+\t Pilarqa yachashan Maryaq hamusqanta{n/s/chá} .
+\g Pilar-TOP know-PROG-3 Marya-GEN come-PAST.PTCP-3-ACC{-DIR/-REPORT/-CONJECT}
+\l propositional content = ‘Pilar knows that Marya came.
+
+\t  Marya Agatupi kawsaj ta krirkani .
+\g Mary Agato-in live-PRES-ACC believe-PAST-1SUBJ
+\l I believed that Mary was living (at that time) in Agato.
+
+\t  Marya Agatupi kawsashka ta krirkani .
+\g Mary Agato-in live-PAST-ACC believe-PAST-1SUBJ
+\l I believed that Mary had lived (at some previous time) in Agato.
+
+\t  Marya Agatupi kawsana ta krirkani .
+\g Mary Agato-in live-FUT-ACC believe-PAST-1SUBJ
+\l I believed that Mary would (some day) live in Agato.
+
+\t wasiymaŋ hamuŋkichu ?
+\g house-1-DAT come-2=Q.FOC
+\l Do you come to my house?
+
+\t wasiymaŋchu hamuŋki ?
+\g house-1-DAT=Q.FOC come-2
+\l Do you come to my house?
+
+\t kaykan
+\g COP-PROG-3S
+\l S/he is in the process of being/having.
+
+\t Qampis maqamashkankimi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=DIRECT
+\l You also hit me (I saw and/or felt it).
+
+\t Qampis maqamashkankishi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=HEARSAY
+\l (Someone told me that) you also hit me (I was drunk and can’t remember).
+
+\t Qampis maqamashkankichi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=CONJECT
+\l (I infer that) you also hit me.
+
+\t Inesqa manas qaynunchaw ñañantachu watukurqan .
+\g Inés-TOP not=REPORT yesterday sister-3-ACC-NEG visit-PAST1-3
+\l propositional content = ‘Inés didn’t visit her sister yesterday.
+
+\t Inesqa qaynunchay ñañantas watukusqa .
+\g Inés-TOP yesterday sister-ACC=REPORT visit-PAST2
+\l propositional content = ‘Inés visited her sister yesterday.
+
+\t Parashansi , ichaqa mana creinichu .
+\g rain-PROG-3=REPORT but not believe-1-NEG
+\l It is raining (someone says), but I don’t believe it.
+
+\t Pilarqa yachashan Maryaq hamusqanta{n/s/chá} .
+\g Pilar-TOP know-PROG-3 Marya-GEN come-PAST.PTCP-3-ACC{=DIR/=REPORT/=CONJECT}
+\l propositional content = ‘Pilar knows that Marya came.
+
+\t  Marya Agatupi kawsaj ta krirkani .
+\g Mary Agato-in live-PRES-ACC believe-PAST-1SUBJ
+\l I believed that Mary was living (at that time) in Agato.
+
+\t  Marya Agatupi kawsashka ta krirkani .
+\g Mary Agato-in live-PAST-ACC believe-PAST-1SUBJ
+\l I believed that Mary had lived (at some previous time) in Agato.
+
+\t  Marya Agatupi kawsana ta krirkani .
+\g Mary Agato-in live-FUT-ACC believe-PAST-1SUBJ
+\l I believed that Mary would (some day) live in Agato.
+
+\t pro rikuwarqanki pro
+\g _ see-1SG-PAST-2 _
+\l You saw me.
+
+\t Qampis maqamashkankimi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=DIRECT
+\l You also hit me (I saw and/or felt it).
+
+\t Qampis maqamashkankishi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=HEARSAY
+\l (Someone told me that) you also hit me (I was drunk and can’t remember).
+
+\t Qampis maqamashkankichi .
+\g you-also hit-1.OBJ-PRF-2.SUBJ=CONJECT
+\l (I infer that) you also hit me.
+
+\t Inesqa manas qaynunchaw ñañantachu watukurqan .
+\g Inés-TOP not=REPORT yesterday sister-3-ACC-NEG visit-PAST1-3
+\l propositional content = ‘Inés didn’t visit her sister yesterday.
+
+\t Inesqa qaynunchay ñañantas watukusqa .
+\g Inés-TOP yesterday sister-ACC=REPORT visit-PAST2
+\l propositional content = ‘Inés visited her sister yesterday.
+
+\t Parashansi , ichaqa mana creinichu .
+\g rain-PROG-3=REPORT but not believe-1-NEG
+\l It is raining (someone says), but I don’t believe it.
+
+\t Pilarqa yachashan Maryaq hamusqanta{n/s/chá} .
+\g Pilar-TOP know-PROG-3 Marya-GEN come-PAST.PTCP-3-ACC{=DIR/=REPORT/=CONJECT}
+\l propositional content = ‘Pilar knows that Marya came.
+
+\t  Marya Agatupi kawsaj ta krirkani .
+\g Mary Agato-in live-PRES-ACC believe-PAST-1SUBJ
+\l I believed that Mary was living (at that time) in Agato.
+
+\t  Marya Agatupi kawsashka ta krirkani .
+\g Mary Agato-in live-PAST-ACC believe-PAST-1SUBJ
+\l I believed that Mary had lived (at some previous time) in Agato.
+
+\t  Marya Agatupi kawsana ta krirkani .
+\g Mary Agato-in live-FUT-ACC believe-PAST-1SUBJ
+\l I believed that Mary would (some day) live in Agato.
+

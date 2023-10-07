@@ -1,0 +1,8 @@
+\t ɲOkpa^3 .3 touri^1 .1 .3 ji3 lEtrI^3 .2 kOpa^3 .23 na3
+\g who Touri.NAME will letter send Q
+\l To whom will Touri send a letter?
+
+\t bEba^2 .2 touri^1 .1 .3 ji3 aci^2 .2 kOpa^3 .23 na3
+\g what Touri.NAME will Djatchi.NAME send Q
+\l What will Touri send to Djatchi?
+

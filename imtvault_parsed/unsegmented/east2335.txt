@@ -1,0 +1,8 @@
+\t a sheyn meydl
+\g INDEF:F pretty:INDEF.F girl(F)
+\l a pretty girl
+
+\t a meydl a sheyne
+\g INDEF:F girl(F) ATTR:INDEF.F pretty:ATTR:INDEF.F
+\l a PRETTY girl
+

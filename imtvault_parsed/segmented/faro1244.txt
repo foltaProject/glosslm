@@ -1,0 +1,113 @@
+\t mjólk er gott
+\g milk(F) is good.N
+\l Milk is good (in general).’4
+
+\t mjólk-in er góð/*gott
+\g milk-the.F is good.F/*good.N
+\l The milk is good.
+
+\t  Þeir sem í Osló hafa búið  segja að það sé fínn bær .
+\g those that in Oslo have lived say that it is nice town
+\l Those that have lived in Oslo say that itʼs a nice town.ʼ
+
+\t Nú rignir (*það) .
+\g now rains it
+\l Now it’s raining.
+
+\t Það hefur einhver köttur étið mýsnar .
+\g there has some cat eaten the-mice\t Honum tørvar ikki at hugsa meira um tað .
+\g him.DAT needs not to think more about that
+\l He doesn’t have to think more about that.
+
+\t Hann tørvar ikki at hava svar til alt .
+\g he.NOM needs not to have answer to everything
+\l He doesn’t have to have answers to everything.
+
+\t Henni dámar at hyggja í sjónvarp .
+\g her.DAT likes to look at TV
+\l She likes to watch TV.
+
+\t Hon dámar at lurta eftir tónleiki .
+\g she.NOM likes to listen after music
+\l She likes to listen to music.
+
+\t Honum manglar at gera húsini liðug .
+\g him.DAT needs to make the-houses ready
+\l He needs to finish the house.
+
+\t Hann manglar at prógva tað í verki .
+\g he.NOM needs to prove it in work
+\l He needs to prove it in action.
+
+\t Henni nýtist ikki at hugsa um klokkuna .
+\g her.DAT needs not to think about the-clock
+\l She doesn’t have to think about the clock.
+
+\t Hon nýtist ikki at standa í bíðirøð .
+\g she.NOM need not to stand in line
+\l She doesn’t have to stand in line.
+
+\t Skúlastjórin helt talu fyri teimum , sum liðug vóru við skúlan .
+\g the-principal held speech for those that done were with the-school
+\l ʽThe principal gave a speech for those who were graduating.ʼ
+
+\t Hon fer ikki í baðikarið , um har hava verið mýs .
+\g she goes not in the-bathtub if in-that-place have been mice
+\l ʽShe doesnʼt go into the bathtub if there have been mice there.ʼ
+
+\t Tey vilja keypa ein bil , sum vælegnaður er til eina barnafamilju .
+\g they want buy a car that well-suited is for a family-with-children
+\l ʽThey want to buy a car that is suitable for a family with children.ʼ
+
+\t Øll , sum einki høvdu etið , vóru svong .
+\g all that nothing had eaten were hungry
+\l ʽEverybody who hadnʼt eaten anything was hungry.ʼ
+
+\t Tillukku til øll , sum vald vórðu .
+\g congratulations to all that elected were
+\l ʽCongratulations to all who were elected.ʼ
+
+\t Lønarhækking er tað , sum ovast er á breddanum .
+\g salary-raise is that which topmost is on the-page
+\l ʽSalary raise is at the top of the agenda.ʼ
+
+\t Kennir tú onkran , sum verið hevur í Kekkia ?
+\g know you anybody that been has in Czech-Republic
+\l ʽDo you know anybody that has been to the Czech Republic?ʼ
+
+\t Tá varð nógv dansað heima við hús .
+\g then was much danced home with house
+\l ʽThen there was a lot of dancing at home.ʼ
+
+\t Tá varð tað tosað saman um kvøldarnar .
+\g then was there talked together during the-evenings
+\l ʽThen people would talk during the evening.ʼ
+
+\t Í fleiri dagar varð tað etið og drukkið .
+\g in many days was there eaten and drunk
+\l ʽPeople were eating and drinking for several days.ʼ
+
+\t Í Havn regnar / regnar tað ofta .
+\g in Tórshavn rains _ rains it often
+\l ʽIn Tórshavn it often rains.ʼ
+
+\t Fríggjadagin bleiv / bleiv tað skotin ein hvítabjørn har .
+\g the-Friday was _ was there shot a polar_bear there
+\l ʽLast Friday a polar bear was shot there.ʼ
+
+\t Tað hevur helst eingin lisið hana til enda .
+\g there has probably nobody read her to end
+\l Probably no-one has read it to the end.
+
+\t Kennir tú onkran , sum hevur verið í Kekkia ?
+\g know you anybody that has been in Czech-Republic
+\l ʽDo you know anybody that has been to the Czech Republic?ʼ
+
+\t Onkur hevði etið súreplið .
+\g somebody had eaten the-apple
+\l Somebody had eaten the apple.
+
+\t Hon fortelur at hann fer at koma i dag .
+\g she tell.PRS COMP he go.PRS AT come.INF in day
+\l *She says that he is going to come today.
+

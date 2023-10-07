@@ -1,0 +1,250 @@
+\t te u ‘aka ‘a e tangata-ná   -a  na‘e ‘uma kia Mele ‘aneafi      
+\g FUT 1.SG kick ABS the man     -DEM-DEFACC PST kiss DAT Mary yesterday\t te u ‘aka ‘a e tangata-na  na‘e ‘uma kia Mele ‘aneafí       -i
+\g FUT 1.SG kick ABS the man     -DEM PST kiss DAT Mary yesterday -DEFACC
+\l I will kick that man who kissed Mary yesterday.
+
+\t ‘oku lele ‘a e kumaa ‘i he fale    -ni .
+\g PRS run ABS the mouse LOC the house-DEM
+\l The mouse is running in this house.
+
+\t ‘oku lele ‘a e kumaa ‘i he fale fo‘ou-ni .
+\g PRS run ABS the mouse LOC the house new -DEM
+\l The mouse is running in this new house.
+
+\t *‘oku lele ‘a e kumaa ‘i he  NP fale    -ni fo‘ou  
+\g PRS run ABS the mouse LOC the  house-DEM new\t he fále
+\g the house
+\l the house
+
+\t he falé
+\g the house.DEFACC
+\l the house
+
+\t he  NP falé     -V
+\g the  house  -DEFACC
+\l the house
+
+\t he  NP fale fo‘oú  -V
+\g the  house new    -DEFACC
+\l the new house
+
+\t *he  NP falé    -V fo‘ou 
+\g the  house-DEFACC new
+\l Intended: ‘the new house
+
+\t he  NP saalioté -V
+\g the  cart       -DEFACC
+\l the cart
+
+\t he  NP saaliote ‘a Feletí  -V
+\g the  cart POSS Feleti  -DEFACC
+\l Feleti’s cart
+
+\t he  NP saaliote ‘a Feleti mo Sioné -V
+\g the  cart POSS Feleti -DEFACC 
+\l Feleti and Sione’s cart
+
+\t he ‘ene  NP fakahaofi kinautolú -V
+\g the 3SG.POSS  rescuing 3PL           -DEFACC
+\l His rescuing of them
+
+\t Na‘e lea ‘a Sione(*-V)
+\g PST speak ABS Sione(*-DEFACC)
+\l Sione spoke.
+
+\t Na‘e lea ‘a kinautolu(*-V)
+\g PST speak ABS 3PL         (*-DEFACC)
+\l They spoke.
+
+\t Na‘e lea ‘a e tamaiki (-V)
+\g PST speak ABS the children(-DEFACC)
+\l The children spoke.
+
+\t Na‘e lea ha tamaiki (*-V)
+\g PST speak INDEF children(*-DEFACC)
+\l Some children spoke.
+
+\t he fale fo‘ou-ní    -i
+\g the house new -DEM-DEFACC
+\l this new house
+
+\t *he fale fo‘ou-ú         -ni
+\g the house new -DEFACC-DEM
+\l Intended: ‘this new house
+
+\t afto to vivlio 
+\g this the book 
+\l this book
+
+\t den gamla häst -en 
+\g  old horse- 
+\l the old horse
+
+\t ce livre jaune -ci 
+\g  book yellow- 
+\l this (here) yellow book
+
+\t KO Piúla , ‘óku túli ‘a e  teevólo ‘okú ne túi ‘óku ‘i tu‘a        (#-a)
+\g KO Piula, PRS chase ABS the devil PRS 3.SG believe PRS LOC outside (#-DEFACC)
+\l Piula, she is chasing the devil that she believes is outside (but there is no devil).
+
+\t e íka vale    -ní   -i
+\g the fish stupid-DEM-DEFACC
+\l this stupid fish
+
+\t ce livre jaune  -ci 
+\g DEM book yellow-DEM 
+\l this (here) yellow book
+
+\t ‘oku ma‘a ‘a e sote (-na) (-a)  na‘a ku foo     
+\g PRS clean ABS the shirt (-DEM) -DEFACC PST 1.SG wash
+\l That/the shirt that I washed is clean.
+
+\t ‘oku ma‘a ‘a e sote (-na)  na‘a ku foo     (-o)
+\g PRS clean ABS the shirt (-DEM) PST 1.SG wash -DEFACC\t *‘oku ma‘a ‘a e sote  na‘a ku foo     -na
+\g PRS clean ABS the shirt PST 1.SG wash -DEM\t *‘oku ma‘a ‘a e sote  na‘a ku foo     -na -a
+\g PRS clean ABS the shirt PST 1.SG wash -DEM -DEFACC\t ‘oku fiefia he ahoni ‘a e  tangata fa‘utohi  na‘e paaki‘enau tohi aneafi         { -i / *-ni    }
+\g PRS happy the today ABS the authors PST print their book yesterday -DEFACC  *-DEM
+\l The/*these authors who printed their book yesterday are happy today.
+
+\t Na‘a ne fakapuliki ‘a e pousikaati  na‘e ‘omai ‘e hono kaume‘a nofo ‘i Ha‘amoa 
+\g PST 3SG lose ABS the postcard PST give ERG 3SG.OBJ.GEN friend reside LOC Samoa
+\l She lost the postcard that her friend living in Samoa sent.
+
+\t e sóte lahi  -ní    -i na‘á ku fóo
+\g the shirt large-DEM-DEFACC PST 1.SG wash
+\l this large shirt that I washed
+
+\t e sóte lahí  -ni na‘á ku foó   -o
+\g the shirt large-DEM PST 1.SG wash-DEFACC
+\l this large shirt that I washed
+
+\t AFFIXSUPPORT
+\g An affix must not be prosodically separated from its morpho-phonological host. Assign one violation for each prosodic boundary that separates the host and the affix.\t ALIGN(DefAcc ,R;ω ,R)
+\g Align the right edge of DefAcc with the right edge of the prosodic word. Assign one violation for each syllable that separates the DefAcc’s and the prosodic word’s right edges.\t ALIGN(CP ,L;IP ,L)
+\g Align the left edge of an Intonation Phrase (IP) to the left edge of a CP. Assign one violation for each syllable that separates the IP’s and CP’s left edges.\t ALIGN(LowDP* ,L;IP ,L)
+\g Align the left edge of an Intonation Phrase (IP) to the left edge of a lexically filled LowDP. Assign one violation for each syllable that separates the IP’s and the LowDP*’s left edges.\t  IP ‘óku má‘a ‘á e soté -e              IP na‘á -ku fóo     
+\g  PRES clean ABS the shirt-DEFACC  PAST 1.SG wash
+\l The shirt that I washed is clean.
+
+\t  IP ‘oku ma‘a ‘a e sote     IP na‘a ku foo     
+\g  PRES clean ABS the shirt  PAST 1.SG wash\t  IP ‘oku ma‘a ‘a e sote na‘a ku foo     
+\g  PRES clean ABS the shirt PAST 1.SG wash\t  IP ‘óku má‘a ‘á e (soté -e)         IP(na‘á -ku) fóo      
+\g  PRES clean ABS the shirt-DEFACC PAST 1.SG wash
+\l The shirt that I washed is clean.
+
+\t ‘i  DP he púha lahí  -i           
+\g LOC  the box large-DEFACC
+\l in the large box
+
+\t ‘i  DP he puhá-a           fóki
+\g LOC  the box  -DEFACC also
+\l also in the box
+
+\t  DP he soté -e na‘e fóo     
+\g  the shirt-DEFACC PST wash
+\l the shirt that he washed
+
+\t e hu‘akaú -u   ná‘e ínu ‘e   Sióne  
+\g the milk -DEFACC  PAST drink ERG  Sione
+\l …the milk that Sione drank…
+
+\t e hu‘akáu   ná‘e ínu ‘e   Sioné   -e
+\g the milk  PAST drink ERG  Sione -DEFACC
+\l …the milk that Sione drank…
+
+\t e soté -e na‘a ku foó    -o
+\g the shirt-DEFACC PST 1.SG wash-DEFACC
+\l the shirt that I washed
+
+\t *e sote -ná   -a na‘á ku foó   -o
+\g the shirt-DEM-DEFACC PAST 1.SG wash-DEFACC
+\l Intended: ‘That shirt that I washed
+
+\t he  ta‘u  kuo ‘osi       -na
+\g DET year PERF finish    -DEM
+\l Last year’ (Lit. ‘that just-finished year’)
+
+\t  IP … e sote     IP na‘a ku foo   -o          
+\g   the shirt  PST 1.SG wash-DEFACC\t <inline-graphic xmlns:xlink="http://www .w3 .org/1999/xlink" xlink:href="figures/Icon1_web .jpg"/>☹ IP … e sote na‘a ku foo   -o          
+\g   the shirt PST 1.SG wash-DEFACC\t  IP … e sote -ni   IP na‘a ku foo    
+\g   the shirt-DEM  PST 1.SG wash\t ‘oku kau kiate kitautolu Tonga    -Vµ
+\g PRS pertain to 1.PL Tongans-DEFACC
+\l It pertains to us Tongans.
+
+\t Nɑ’e mɑ’u ‘e Sione ‘ɑ e ika .
+\g PST get ERG Sione ABS the fish
+\l Sione got the fish.
+
+\t Ko hɑi nɑ’ɑ ne fili ‘ɑ Pilɑ ?
+\g PRED who PST 3SG choose ABS Pila
+\l Who chose Pila?
+
+\t Na‘e fili ‘e Sione ‘a Pila .
+\g PST choose ERG Sione ABS Pila
+\l Sione chose Pila.
+
+\t Na‘e fili ‘a Pila ‘e Sione .
+\g PST choose ABS Pila ERG Sione
+\l Sione chose Pila.
+
+\t Na’e ha’u ‘a Mele ‘o nej kaiha’asi ‘a e siaine .
+\g PST come ABS Mele  3SG steal ABS DET banana
+\l Mele came and stole the banana.’4
+
+\t ‘Oku ‘ikai te u ‘ilo pe ‘oku lelei pe kovi .
+\g PRS NEG FUT 1SG know   good or bad
+\l I do not know whether it is good or bad.
+
+\t Kuo pau ke ‘oua te u ‘alu .
+\g PFV necessary  NEG  1SG go
+\l I must not go.’ (lit. ‘It is necessary that I will not go.’)
+
+\t Ka nan ka fehu’i mai , te u tala kiate kinautolu .
+\g if 3PL  ask towards FUT 1SG tell DAT 3PL
+\l If they ask me, I will tell them.
+
+\t ka ke ka ha’u , ‘oku ‘atā ‘a to’ohema
+\g if 2SG  leave PROG free ABS left
+\l if you leave, the left will be free.
+
+\t {‘Okú ne} ‘álu
+\g PRS 3SG go
+\l He is going.
+
+\t He ea ki ruŋa , he tere he oho mai ki Mauŋa Teatea , ki Mahatua … He oho , he tuu ki Vaipū . . .
+\g NTR go_out to above NTR run NTR go hither to Ma’unga Teatea to Mahatua _ NTR go NTR arrive to Vaipu
+\l They got up and travelled to Ma’unga Teatea, to Mahatua … They went and arrived at Vaipu…
+
+\t Tumu nei e ai rō ā tōona maŋa roaroa .
+\g tree PROX IPFV exist EMPH CONT POSS.3SG.O branch long:RED
+\l This tree has long branches (lit. there are its long branches).
+
+\t Tāaku aŋa he manava mate ki te tumu nei . E ai rō ana te maŋa pakapaka o te niu nei .
+\g POSS.1SG.A do PRED stomach die to ART tree PROX IPFV exist EMPH CONT ART branch dry:RED of ART palm_tree PROX
+\l I always like this tree. This palm tree has dry branches.
+
+\t He aŋa e tōona matua vahine i te manu parau māana .
+\g NTR make AG POSS.3SG.O parent female ACC ART bird paper BEN.3SG.A
+\l His mother made a paper bird for him.
+
+\t He pua i te hoi e tahi mōona , e tahi mo te matua .
+\g NTR cover ACC ART horse NUM one BEN.3SG.O NUM one for ART parent
+\l He saddled one horse for himself, one for the priest.
+
+\t He rae mau mai era i te kai . . .
+\g PRED first carry hither DIST ACC ART food
+\l They first brought food (to her)…
+
+\t I te ao era ā o tū raā era , he oho mai he tuu mai ki tū rūau era .
+\g at ART dawn DIST IDENT of DEM day DIST NTR go hither NTR arrive hither to DEM old_woman DIST
+\l In the morning of that day, they came and arrived at that old lady.
+
+\t Ina rō atu he noho i a au .
+\g NEG EMPH away NTR stay at PROP 1SG
+\l I couldn’t keep (my fishing line) steady (lit. It didn’t stay at all to me).
+
+\t e fefine   na'a ne fili ‘a Sione —  
+\g DEF woman _ PST 3SG choose ABS John 〈ST〉 _
+\l the woman who chose John
+

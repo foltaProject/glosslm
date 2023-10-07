@@ -1,0 +1,48 @@
+\t nangu ni-ndi-n-kody-a munu n'ng'ande .
+\g I 1SG.SM-PST-1.OM-find-FV 1.person inside.the.house
+\l I found someone inside the house.
+
+\t *nangu ni-ndi-kody-a munu n'ng'ande .
+\g I 1SG.SM-PST-find-FV 1.person inside.the.house
+\l (‘I found someone inside the house.’)
+
+\t nangu ni-ndi-va-kody-a vanu n'ng'ande .
+\g I 1SG.SM-PST-2.OM-find-FV 2.people inside.the.house
+\l I found some people inside the house.
+
+\t *nangu ni-ndi-kody-a vanu n'ng'ande .
+\g I 1SG.SM-PST-find-FV 2.people inside.the.house
+\l (‘I found some people inside the house.’)
+
+\t nangu ni-ndi-n-nivat-a lipuluputu .
+\g I 1SG.SM-PST-1.OM-step-FV 5.butterfly
+\l I stepped on the butterfly (a definite one).
+
+\t nangu ni-ndi-n-kang'an-a shiboko na upanga .
+\g I 1SG.SM-PST-1.OM-poke-FV 7.hippo with 14.machete
+\l I have poked the hippo (a definite one) with a machete.
+
+\t nangu ni-ndi-n-gang'ol-a mbudi .
+\g I 1SG.SM-PST-1.OM-push-FV 9.goat
+\l I pushed the goat (a definite one).
+
+\t ngw-on-ile lijanga .
+\g 1SG.SM-see-PST 5.stone
+\l I saw a stone.
+
+\t *ngw-li-on-ile lijanga .
+\g 1SG.SM-5.OM-see-PST 5.stone
+\l (‘I saw the stone (a definite one).’)
+
+\t nangu ni-ndy-on-a shijiko .
+\g I 1SG.SM-PST-see-FV 7.spoon
+\l I saw a spoon.
+
+\t Paukile ndawika kukaja kumwaulila ndyagwe do: “Ndyangu , taleka shakulya ,  imbogwa namanya PRESUPPOSITION  nimwene . FOCUS”
+\g when he.went and.arrived he.told.her his.wife QUOT my.wife cook staple.food [sauce I.will.know [myself
+\l When he got home he told his wife, “Get some food ready for me, wife – but as for the meat sauce, I’ll deal with that.”
+
+\t mu-ɲande mwake mu-ndi-pawa ŵa-nu
+\g 18-9.house 18.POSS1 SM18-PFV-be.present 2-people
+\l There are people in his house.
+

@@ -1,0 +1,40 @@
+\t li chiens mort l' ome
+\g DETER.SBJ dog-NOM bites DETER.OBL man.OBL
+\l The dog bites the man.
+
+\t le chien mort li uem
+\g DETER.OBL dog.OBL bites DETER.NOM man.NOM
+\l It is the dog whom the man bites.
+
+\t boosa babɪlɪ balɪnkʊja bandʊ baa kʊbʊʊka m̩bʊganga
+\g 2-all 2-two 2-NARR-be(come)-FV 2-person 2-ASSOC 15-go-FV 18-1-doctor
+\l The two of them set out to go to a healer.
+
+\t boobʊno∼bʊno balɪnkwenda , balɪnkwenda , balɪnkwenda , balɪnkwenda nʊkwenda
+\g REF.14=REDUPL∼14-DEM 2-NARR-walk/travel-FV 2-NARR-walk/travel-FV 2-NARR-walk/travel-FV 2-NARR-walk/travel-FV COM=AUG-15-walk/travel-FV
+\l Thus they travelled, travelled, travelled and travelled.
+
+\t baaja kʊfika nkiisʊ kɪmo
+\g 2-SUBSEC-go-FV 15-arrive-FV 18-7-land 7-one
+\l Finally they arrived in some land.
+
+\t jeo ne di
+\g 1SG NEG SAY.PRS.1SG
+\l I do not say.
+
+\t d’ ist di / cist meon fradre
+\g from this day _ this my brother
+\l *From this day on vs. *This brother of mine
+
+\t kost káu̯k fero un músč
+\g this here is a moss
+\l *This one is a moss.
+
+\t Eisint revindrent li mesage en la ville .
+\g then returned the messenger to the town
+\l Then the messenger returned to town.
+
+\t Respundi li evesches .
+\g answered the bishop
+\l *The bishop answered.
+

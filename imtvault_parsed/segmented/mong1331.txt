@@ -1,0 +1,200 @@
+\t Ojuutan bür neg professor / neg professor-yg šüümžle-ne .
+\g student each a professor / a professor-ACC critisize-FUT
+\l Each student will criticize a professor.
+
+\t Tujaa Dorži-d neg nom(-yg) ög-sön .
+\g Tujaa.NOM Dorz-DAT a book-ACC give-PST
+\l Tujaa gave Dorz a book.
+
+\t Tujaa  neg nom*(-yg)  Dorži-d __ ög-sön .
+\g Tujaa.NOM a book-ACC Dorz-DAT  give-PST
+\l Tujaa gave Dorz a book.
+
+\t Zaxiral  neg ojuutn-yg  /  neg ojuutan  šalga-san .
+\g director.NOM a student-ACC / a student examine-PST
+\l The director examined a student.
+
+\t  Neg ojuutn-yg  / * neg ojuutan  zaxiral __ šalga-san .
+\g a student-ACC / a student director.NOM  examine-PST
+\l The director examined a student.
+
+\t Tujaa Bat neg noxoj(-g) surga-san gež med-sen .
+\g Tujaa.NOM Bat.NOM a dog-ACC train-PST that know-PST
+\l Tujaa knew that Bat trained a dog.
+
+\t  Neg noxoj*(-g)  Tujaa  Bat __ surga-san gež  med-sen .
+\g a dog-ACC Tujaa.NOM Bat.NOM  train-PST that know-PST
+\l Tujaa knew that Bat trained a dog.
+
+\t *Bi  ene nom-yg unsh-san  öchigdör .                            S OV Adv
+\g 1SG.NOM DEM book-ACC read-PST today
+\l I read this book today.
+
+\t *Tujaa  ene nom-yg ög-sön  Dorži-d .                                 S OV IO
+\g Tujaa.NOM DEM book-ACC give-PST Dorz-DAT
+\l Tujaa gave Dorz this book.
+
+\t * Ene ojuutn-yg šalga-san  zaxiral .                                                   OV S
+\g DEM student-ACC examine-PST director.NOM
+\l The director examined this student.
+
+\t *Murat öchigdör ir-sen Ankarag-aas .
+\g Murat today come-PST Ankara-ABL
+\l Murat returned from Ankara yesterday.
+
+\t Tujaa öchigdör ir-sen | German-aas .
+\g Tujaa today come-PST  Germany-ABL
+\l Yesterday, Tujaa came – from Germany.
+
+\t Bulgan narma-ig nee-sen .                              S OV 
+\g Bulgan nose-ACC burst-PST
+\l Literal meaning: ‘Bulgan burst a nose.’ Idiomatic meaning: ‘Bulgan beat someone.
+
+\t  Bulgan nee-sen  narma-ig .                       SV O
+\g Bulgan burst-PST nose-ACC
+\l Literal meaning: ‘Bulgan burst a nose.’ Idiomatic meaning: ‘Bulgan beat someone.
+
+\t  Bulgan pro / ter-ig unsh-san  nom-ig .                                         SV O
+\g Bulgan  / DEM-ACC read-PST book-ACC
+\l Bulgan read this, the book.
+
+\t Nom-ig Bulgan __ / *ter-ig unsh-san .                                        O SV 
+\g book-ACC Bulgan  / DEM-ACC read-PST
+\l Bulgan read the book.
+
+\t Tujaa  Bat neg noxoj-g surga-san gež  med-sen .
+\g Tujaa.NOM Bat.NOM a dog-ACC train-PST that know-PST
+\l Tujaa knew that Bat trained a dog.
+
+\t *  neg noxoj-g surga-san  Tujaa  Bat __ gež  med-sen .
+\g a dog-ACC train-PST Tujaa.NOM Bat.NOM  that know-PST
+\l Tujaa knew that Bat trained a dog.
+
+\t *  xurdan neg ojuutn-yg  zaxiral __ šalga-san .
+\g  quickly a student-ACC director.NOM  examine-PST
+\l The director quickly examined a student.
+
+\t *Tujaa   xurdan neg nom-yg  Dorži-d __ butsaa-j ög-sön .
+\g Tujaa.NOM  quickly a book-ACC Dorz-DAT  give.back-CV.IPFV give-PST
+\l Tujaa quickly gave Dorz a book back.
+
+\t *  xurdan neg nom-yg  Tujaa .NOM Dorži-d __ butsaa-j ög-sön .
+\g  quickly a book-ACC Tujaa Dorz-DAT  give.back-CV.IPFV give-PST
+\l Tujaa quickly gave Dorz a book back.
+
+\t Tujaa  (*sain) Bat (sain) neg noxoj-g (sain) surga-san gež  med-sen .
+\g Tujaa.NOM well Bat.NOM well a dog-ACC well train-PST that know-PST
+\l Tujaa knew that Bat trained a dog well.
+
+\t *  (sain) neg noxoj-g (sain)  Tujaa  Bat __ surga-san gež  med-sen .
+\g  well a dog-ACC well Tujaa.NOM Bat.NOM  train-PST that know-PST
+\l Tujaa knew that Bat trained a dog well.
+
+\t ta sayin=uu ?
+\g 2PL good=Q
+\l Are you well?
+
+\t ta ken bui ?
+\g 2PL who COP>Q
+\l Who are you?’ (, transcription changed)
+
+\t cii xedzee yab-sen bwai ?
+\g 2SG when depart-PST COP>Q
+\l When did you go?
+
+\t ci surguul-ruu-g .aa yaw-j bai-g .aa youm=uu ?
+\g 2SG school-DIR-POSS.REFL depart-CVB.IPFV COP-P.IPFV COP=Q
+\l Are you going to school?
+
+\t ci tzai uu-x=uu , eswel airag uu-x=uu ?
+\g 2SG tea drink-P.FUT=Q or kumis drink-P.FUT=Q
+\l Do you drink tea or kumis?
+
+\t ci surguul-ruu-g .aa yaw-a .x=uu eswel yaw-a .x-güi=y .uu ?
+\g 2SG school-DIR-POSS.REFL depart-P.FUT=Q or depart-P.FUT-NEG=Q
+\l Do you go to school or not?
+
+\t ci tzai uu-x youm=uu , eswel airag uu-x youm=uu ?
+\g 2SG tea drink-P.FUT COP=Q or kumis drink-P.FUT COP=Q
+\l Do you drink tea or kumis?
+
+\t ci xedzee surguul-ruu-g .aa yaw-a .x=uu ?
+\g 2SG when school-DIR-POSS.REFL depart-P.FUT=Q
+\l When are you going to school?
+
+\t xen tsai uu-san be ?
+\g who tea drink-P.PFV Q
+\l Who drank tea?
+
+\t ci surguul ruu-g .aa yab-na tee ?
+\g 2SG school DIR-POSS.REFL depart-DUR so
+\l You are going to school, right?
+
+\t ir-sen biš=oo ?
+\g come-P.PFV NEG=Q
+\l (S)he arrived, didn’t (s)he?
+
+\t ax=cin õnõõdõr yaw-n=uu ?
+\g brother=2SG today depart-DUR=Q
+\l Is your brother leaving today?
+
+\t e .n yamar yum=béé ?
+\g this what thing=Q
+\l What kind of thing is this?’ (: 182, 107)
+
+\t ənə bɔl nɔm=ʊʊ ?
+\g this TOP book=Q
+\l Is this a book?
+
+\t bii ənuur jab-aal taar-n=ʊʊ , tiiš-əə jab-aal taar-n=ʊʊ ?
+\g 1SG here go-CVB.COND fit-prs=Q there-REFL go-CVB.COND fit-PRS=Q
+\l Do I have to go in this or that direction?’ (: 282, 292)
+
+\t tɛr xun jɛb-lɛɛ=j .ii ?
+\g that person depart-CONF=Q
+\l Did that man go?
+
+\t čii xən=ji ?
+\g 2PL who=Q
+\l Who are you?
+
+\t činii aab=čin’ xaa bii ?
+\g 2SG.GEN father=2SG.POSS where COP
+\l Where is your father?’ (: 282, 284)
+
+\t ən tɛxaa xən-ɛɛ jimɛɛ ?
+\g this chicken who-GEN COP.Q
+\l Whose chicken is this?
+
+\t en taxyaa xen-ii(-x) youm bwai ?
+\g this chicken who-GEN(-NOM) COP Q
+\l Whose chicken is this?
+
+\t činii ax=čin' bas duč bɔl-ɔɔdue=ba ?
+\g 2SG.GEN e.brother=2SG.POSS also forty become-NEG.IPFV=Q
+\l Your elder brother is not yet forty, right?
+
+\t tərə xun baxš bišə , tiim=ba ?
+\g that person teacher NEG like.that=Q
+\l That person is not a teacher, right?
+
+\t xədən čag bɔl-ǰ=ji ? xɔjɔr čag=ʊʊ ? tiim=uu ?
+\g when hour become-CVB.IPFV=Q two hour=Q like.that=Q
+\l What time is it? Two o’clock? Right?’ (: 283, 286)
+
+\t ən udur ʃin tabən sar-iin nəgən ʃii ?
+\g this day new five month-GEN one Q
+\l Is today not the first day of May?
+
+\t mi .n-ii ner-iig delger+maa ge-deg .
+\g 1SG.OBL-GEN name-ACC PN say-PTCP.HAB
+\l My name is Delgerma.
+
+\t bi Dorj mön .
+\g 1SG Dorj COP
+\l I am (indeed) Dorj.
+
+\t Ulaanbaatar utaa-güi bol mön goyo .
+\g Ulaanbaatar smog-PRIV TOP PTC nice
+\l It would be really nice if Ulaanbaatar was without smog.
+

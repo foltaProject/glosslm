@@ -1,0 +1,421 @@
+\t O Luis pulou .
+\g the Luis jump.PST.3SG
+\l Luis jumped.
+
+\t Imagina só ! Por essa bestinha da Júlia ele foi se apaixonar !
+\g imagine only for that animal of Julie he fell-in-love
+\l Just imagine! He fell in love with that idiot of Julie!
+
+\t Levou muito tempo pra mim terminar a tarefa .
+\g took much time for me finish the homework
+\l It took a long time for me to finish the homework.
+
+\t A Maria disse que o João viu quem ?
+\g the Maria said that the João saw who\t Quem a Maria disse que o João viu ?
+\g who the Maria said that the João saw
+\l Who did Maria say that João saw?
+
+\t O João acha que a Maria comprou o quê ?
+\g the João thinks that the Maria bought what\t *O João acha que a Maria o que comprou ?
+\g the João thinks that the Maria what bought\t O que o João acha que a Maria comprou ?
+\g what the João thinks that the Maria bought
+\l What does João think that Maria bought?
+
+\t O João acha que quem criticou a Maria ?
+\g the João thinks that who criticized the Maria\t *O João quem acha que criticou a Maria ?
+\g the João who thinks that criticized the Maria\t Quem o João acha que criticou a Maria ?
+\g who the João thinks that criticized the Maria
+\l Who does João think criticized Maria?
+
+\t  O João  cumprimentou quem depois de   entrar na sala  ?
+\g the João greeted who after of  enter in-the room
+\l Who did João greet after entering the room?
+
+\t Quem  o João  cumprimentou t depois de   entrar na sala  ?
+\g who the João greeted after of  enter in-the room
+\l Who did João greet after he entered the room?
+
+\t A Maria esbofeteou quem por causa d o irmão ec  ?
+\g the Maria slapped who by cause of-the brother 
+\l Who did Maria slap because of her brother?
+
+\t Quem a Maria esbofeteou t por causa d o irmão ec  ?
+\g who the Maria slapped  by cause of-the brother 
+\l Who did Maria slap because of her brother?
+
+\t   que livro  você recomendou t  depois que comPROU ec ONtem   ?
+\g which book you recommended after that bought  yesterday\t  você recomendou  que livro   depois que comPROU ec ONtem   ?
+\g you recommended which book after that bought  yesterday
+\l Which book did you recommend after you bought yesterday?
+
+\t Os vizinhos parecem que viajaram .
+\g the neighbors seem-3 that travelled-3PL\t *Parecem que os vizinhos viajaram .
+\g seem-3 that the neighbors travelled-3PL
+\l The students seem to have traveled.
+
+\t Quem cumprimentou  o João   depois de  entrar na sala  ?
+\g who greeted the João after of  enter in-the room
+\l Who greeted João after entering the room?
+
+\t Quem esbofeteou  a Maria   por causa do irmão   ?
+\g who slapped the Maria by cause of-the brother 
+\l Who slapped Maria because of his brother?
+
+\t Cê não me disse nada .
+\g you not me.OCL tell.2SG.PAST nothing
+\l You did not tell me anything.
+
+\t Cê canta e dança .
+\g you sing.2SG and dance.2SG
+\l You are singing and dancing.
+
+\t O João sempre come bolos .
+\g the John always eat.3SG cakes
+\l John always eats cakes.
+
+\t esse aquele
+\g DEM.close to me/you-M.SG DEM.far from me/you-M.SG\t O filme foi visto por 1/3 dos jornalistas .
+\g the movie was seen by 1/3 of.the journalists
+\l The movie was seen by 1/3 of the journalists.’ (conservative)
+
+\t O filme foi visto por 1/3 de jornalistas .
+\g the movie was seen by 1/3 of journalists
+\l One third of the people who saw the movie were journalists.’ (non-conservative)
+
+\t O filme foi visto por 1/3 de jornalista .
+\g The movie was seen by 1/3 of journalist
+\l One third of the people who saw the movie were journalists.’ (non-conservative)
+
+\t A Maria leu revista ontem .
+\g the Maria read magazine yesterday
+\l Mary read magazines yesterday.’ (episodic sentence)
+
+\t Baleia está em extinção .
+\g whale is in extinction
+\l Whales are/ the whale is on the verge of extinction.’ (kind predication)
+
+\t João tem mais mobília que a Maria .
+\g João have.3SG.PRS more furniture than the Maria
+\l ✔ ‘João has more pieces of furniture than Maria.
+
+\t  ? ?Comprei duas mobílias hoje .
+\g buy.PST.1SG two.FEM furniture.PL today
+\l I bought two furnitures today.
+
+\t As duas mobílias que mais vendem são cadeiras e mesas .
+\g the.FEM.PL two.FEM furniture.PL that most sell.3PL.PRS are chair.PL and table.PL
+\l The two best-selling furnitures are chairs and tables.
+
+\t Os dois tipos de mobília que mais vendem são cadeiras e mesas .
+\g the.MSC.PL two.MSC kind.PL of furniture that sell.3PL.PRS most are chair.PL and table.PL
+\l The two best-selling kinds of furniture are chairs and tables.
+
+\t Emprestar a caneta para a Maria , o João emprestou .
+\g to.lend the pen for the Maria the João lent.3SG
+\l As for lending the pen to Maria, João lent it.
+
+\t Emprestar a caneta para Maria , o João emprestou .
+\g to.lend the pen for Maria the João lent
+\l As for lending the pen to Maria, João lent it.
+
+\t Ler o livro , acho que João leu .
+\g to.read the book think.1SG that João read.PST.3SG
+\l As for reading the book, I think that João read it.
+
+\t Ler o livro , tenho certeza que João leu .
+\g to.read the book have.1SG certainty that João read.PST.3SG
+\l As for reading the book, I know that João read it.
+
+\t *Ler o livro , lamento que João tenha lido .
+\g to.read the book regret.1SG that João have.3SG read
+\l As for reading the book, I regret that João read it.
+
+\t Aqui vende camisa .
+\g here sell:3 shirt.
+\l T-shirts are sold here.
+
+\t João afirma que elei/j/Øi/*j fala inglês bem .
+\g João claim:3 that he/Ø speak:3 English well
+\l John claims that he speaks English well.
+
+\t João afirma que no Brasil fala inglês muito bem .
+\g John claim:3 that in.the Brazil speak:3 English very well
+\l John claims that in Brazil people speak English very well.
+
+\t João/se levantou a mão na sala para fazer pergunta .
+\g John/one raised:3 the hand in.the classroom to ask:INF question
+\l John/one raised his hand to ask questions in the class.
+
+\t  ?* Na sala_de_aula levanta a mão para fazer pergunta .
+\g _ in.the classroom raise:3 the hand to make:INF question
+\l In classrooms, one raises his hand to ask questions.
+
+\t No Brasil só trabalha pra ganhar dinheiro .
+\g In.the Brazil only work:3 to earn money
+\l In Brazil one only works to earn money.
+
+\t * Naquela escola de culinária prepara doce com maestria/ com atenção .
+\g _ in.that school of culinary prepare:3 sweet with mastery/ with attention
+\l One prepares sweets with mastery/with attention in that culinary school.
+
+\t * Naquela escola de culinária prepara doce para alimentar criança .
+\g _ in.that school of culinary prepare:3 sweet to feed:INF child.
+\l One prepares sweets to feed the children in that culinary school.
+
+\t * Naquele hospital nasce com saúde .
+\g _ in.that hospital born:3 with healthy
+\l Intended: ‘One who is born in that hospital is healthy.
+
+\t * Naquela casa teme a morte .
+\g _ In.that house fear:3 the death
+\l Intended: ‘One fears the death in that house.
+
+\t Na semana passada entrou um cara na minha casa .
+\g In.the week last enter:PST.3 a man in.the my house
+\l Last week a man (= a thief) entered my house.
+
+\t Morre Maria da Silva .
+\g Die.PRS:3 Maria da Silva.
+\l Maria da Silva died today.
+
+\t * Morreu a Maria da Silva .
+\g _ Died:3 the Maria of.the Silva
+\l Do you remember what happened 10 years ago? Maria da Silva died.
+
+\t Cabe muita camisa nessas gavetas .
+\g Fit:3 a.lot T-shirt in.these drawers\t  Essas gavetas  cabem muita camisa .
+\g These drawers fit:3PL a.lot T-shirt
+\l It fits a lot of things in these drawers.
+
+\t * Na semana passada entrei eu na minha casa nova .
+\g _ In.the week last enter:PST.1 I in.the my house new
+\l I entered my new house last week.
+
+\t João afirma que elei/j / Øi/*j fala inglês bem .
+\g DP claim:3 that he / Ø speak:3 English well
+\l John claims that he speaks English well.
+
+\t João1 me contou que (ele1) vende cachorro quente na praia .
+\g João1 me tell:PST.3 that (he1) sell:3 hot dog in.the beach
+\l João told me that he sells hot dogs at the beach.
+
+\t João me contou que na praia vende cachorro quente .
+\g João me tell:PST.3 that in.the beach sell:3 dog hot
+\l João told me that hot dogs are sold at the beach.
+
+\t * Aqui vendeu camisa .
+\g _ here sell:PST.3 T-shirt
+\l One sold T-shirts here.
+
+\t  ?* Na escola de culinária preparou doce .
+\g _ in.the school of culinary prepare:PST.3 sweet
+\l At the culinary school someone prepared sweets.
+
+\t Aqui já / por muito tempo vendeu camisa .
+\g here once / for much time sell:PST.3 T-shirt
+\l One sold T-shirts here for a long period of time/once.
+
+\t Matou um rapaz no show do Zezé di Camargo e Luciano ontem .
+\g Killed:PST.3 a guy in.the show of.the Zezé di Camargo e Luciano yesterday
+\l A guy was killed at Zezé di Camargo e Luciano’s show yesterday.
+
+\t Telefonou aí da CEB pra você .
+\g Telephone:PST.3 there of.the CEB to you
+\l Someone from CEB called you.
+
+\t É assim que faz o doce .
+\g is thus that makes the sweet
+\l This is how one makes the dessert.
+
+\t A Fernanda é atriz e o Paulo também é ⟨ ator⟩ .
+\g the Fernanda is actress and the Paulo also is _ actor
+\l Intended: `Fernanda is an actress and Paulo is (an actor) too.' (Brazilian Portuguese; )
+
+\t Além do atendimento pedagógico , a escola tem responsabilidades sociais .
+\g Beyond of+the service pedagogical the school has responsibilities social
+\l The school has social responsibilities, which goes beyond the pedagogical service.
+
+\t Os alunos nadavam todo dia na escola .
+\g The students swam every day in+the school
+\l The students swam every day in the school.
+
+\t Os vândalos quebraram a escola durante a festa .
+\g The vandals broke the school during the party
+\l Vandals broke the school during the party.
+
+\t As ruas do centro não tão passando carro .
+\g the.PL streets of-the downtown not are passing car
+\l No cars are passing through downtown.
+
+\t Aquelas crianças já estão nascendo dente .
+\g those children already are born tooth
+\l The teeth of those children are already growing in.
+
+\t A minha escola aceita cartão_de_crédito
+\g the my school accept.3SG credit_card
+\l My school accepts credit cards.
+
+\t Parece   que as crianças estão chorando   .
+\g seem.3SG _ that the children are crying _
+\l It seems that the children are crying.
+
+\t As criança(s) brincava na varanda .
+\g the.PL children played.3SG in-the veranda
+\l The children played on the veranda.
+
+\t O João é difícil de agradar .
+\g the João is tough of please
+\l a. ‘It is tough to please João.
+
+\t Dei o pai um presente
+\g gave the father a gift
+\l I gave a gift to my father
+
+\t O João tem medo *(de) fantasmas
+\g the João has fear of ghosts
+\l *João fears ghosts
+
+\t o amor *(de) João *(por) Maria
+\g the love of João by Maria
+\l *João fears ghosts
+
+\t ∅ .2SG sabe o_que é pinho de riga ?
+\g _ know what is pine of riga
+\l Do you know what riga pine is?
+
+\t ∅ .1SG não gosto de boxe .
+\g _ not like of boxing
+\l I don´t like boxing
+
+\t Ela .I gosta de cozinhar . ∅ .3SG .I Aprende com as amigas .
+\g she likes of to.cook. _ learns with the friends.
+\l *She likes to cook. She learns with her friends
+
+\t   O meu irmão   .I ? ∅ .3SG .I Mudou pros Estados Unidos .
+\g _ the my brother? _ _ moved to.the United States.
+\l *My brother? He's moved to the United States
+
+\t mas ele .I sentiu   que ∅ .3SG .I era o único novo ali , recémcasado …
+\g but he.I felt _ that _ was the only young there, newly-married …
+\l *But he felt he was the only young guy there, newly married….
+
+\t   Esse filme   .I emocionou muita gente quando (ele) .I ficou pronto
+\g _ That film.I _ touched many people when he was ready
+\l *That film touched many people when it was shown
+
+\t Quando a gente / você / *∅ .GENC é menor , a gente / você não dá muito valor a essas coisas .
+\g when the people _ you _ _ are little, the people _ you not give much value to these things
+\l *When we /you are young, we / you do not value such things
+
+\t O Pedro .I disse que (ele .I) fala bem espanhol .
+\g the Peter said that he speaks well Spanish
+\l *Peter said that he speaks Spanish well.
+
+\t VOCÊ , cê come pizza
+\g YOU you eat pizza
+\l *YOU, you eat pizza.
+
+\t Eu acho que um trabalho .I , ele .I teria que começar por aí .
+\g I think that a task it should-have to start from there.
+\l *I think that a task should have to start from here.
+
+\t A Maria achou um carro que *∅ .I tem grana pra comprar .
+\g the Maria found a car that _ has money to buy
+\l *Mary found a car that she has money to buy.
+
+\t A Maria .I achou o carro que ∅ .I queria .
+\g the Maria found a car that _ wanted
+\l *Mary found a car that she wanted.
+
+\t Paulo .1 convenceu o Pedro .2 que ∅ .1/*2/*3 tinha que ir embora .
+\g Paulo convinced the Pedro that _ had to go home
+\l *Paulo convinced Peter that he had to go home.
+
+\t O Paulo .1 convenceu o Pedro .2 que ∅ .1/2 devia estudar mais .
+\g the Paulo convinced the Peter that _ should study more
+\l *Paul convinced peter that he should study more.
+
+\t (N)o quintal tem dois cachorros .
+\g in.the yard has two dogs
+\l *There are two dogs in the yard.
+
+\t ∅ Está nevando desde ontem nesta cidade .
+\g _ is snowing since yesterday in.this city
+\l *It is snowing since yesterday in this city.
+
+\t A neve cai desde ontem nesta cidade .
+\g the snow falls since yesterday in.this city
+\l *The snow has been falling since yesterday in this city
+
+\t As cidades nessa região nevam muito .
+\g the cities in.this region rain.3PL a_lot
+\l *In the cities in this region it rains a lot.
+
+\t ∅ kutsuo naoshimasu .
+\g _ shoes-ACC repair-do
+\l *One repairs shoes.
+
+\t Você não tem mais comércio no centro da cidade
+\g you not have more commerce in.the center of.the city
+\l *There is no commerce downtown anymore
+
+\t Você / a gente não pode entrar de sapato .
+\g you _ the folks not can enter of shoes
+\l You / We can’t get in with your / our shoes on.
+
+\t Pedro vai casar amanhã mas Maria não sabe ∅ .
+\g Pedro go marry tomorrow but Maria not know ∅
+\l Pedro is going to get married tomorrow but Mary doesn't know (that Pedro is going to marry tomorrow / it).
+
+\t Pedro vai casar amanhã mas Maria não o sabe .
+\g Pedro go marry tomorrow but Maria not it know
+\l Pedro is going to get married tomorrow but Mary doesn't know it.
+
+\t He visto *(a) tu padre .
+\g have seen to your father
+\l I saw your father.
+
+\t He visto (*a) tu coche .
+\g have seen to your car
+\l I saw your car.
+
+\t O estudante levou o livro para a biblioteca depois que leu ∅ .
+\g The student took the book to the library after that read ∅
+\l Pedro took the book to the library after he read (it).
+
+\t Pedro considera um livro necessário (para o projeto) e vai comprar ∅ .
+\g Pedro considers a book necessary for the project and go buy ∅
+\l a book >> necessary; necessary >> a book
+
+\t Pedro considera um estudante necessário (para o projeto) e vai contratar ∅ .
+\g Pedro considers a student necessary for the project and go hire ∅
+\l *a student >> necessary; necessary >> a student
+
+\t Consideră o studentă necesară (pentru un proiect) .
+\g consider a student.F.SG necessary.F.SG for a project)
+\l a student > consider; consider > a student
+
+\t (O) consideră pe o studentă necesară .
+\g CL.3SG.F.ACC considers DOM a student.F.SG necessary.F.SG
+\l a student > consider; *consider > a student
+
+\t Pedro considera um estudante necessário (para o projeto) e vai contratar ele .
+\g Pedro considers a student necessary for the project and go hire him
+\l a student > necessary; *necessary > a student
+
+\t Pedro considera um livro necessário (para o projeto) e vai comprar ele .
+\g Pedro considers a book necessary for the project and go buy it
+\l a book > necessary; *necessary > a book
+
+\t Os tiras insultavam   presos   .I e depois prendiam  .I / *eles .I
+\g the cops insulted _ prisoners _ and afterwards locked_up _ _ them
+\l The cops insulted prisoners and afterwards locked (them) up.
+
+\t Os tiras insultavam   os presos   .I e depois prendiam * .I / eles .I
+\g the cops insulted _ the prisoners _ and afterwards locked_up _ _ them
+\l The cops insulted the prisoners and afterwards locked them up.
+
+\t Os tiras puxavam   armas   .I e depois escondiam  .I / *elas .I
+\g the cops drew _ guns _ and afterwards hid _ _ them
+\l The cops drew guns and afterwards hid (them).
+

@@ -1,0 +1,16 @@
+\t 2SG .S .poke .RR(21) .FUTarise
+\g [CS]-[LS]
+\l stand up
+
+\t 2SG .S .poke .RR(21) .FUTariseFUT
+\g [CS]-[LS]-[TAM]
+\l you will stand up
+
+\t 2SG .S .poke(19) .FUT3SG .M .IOask
+\g [CS]-[Obj]-[LS]
+\l ask him
+
+\t 2SG .S .poke(19) .FUT3SG .M .IOaskFUT
+\g [CS]-[Obj]-[LS]-[TAM]
+\l you will ask him
+

@@ -1,0 +1,68 @@
+\t mulopwana oomuona m’miravo .
+\g 1.man 1.SM-PST-1.OM-see-FV 1.boy
+\l The man has seen the boy.
+
+\t *mulopwana ooona m’miravo .
+\g 1.man 1.SM-PST-see-FV 1.boy
+\l (‘The man has seen the boy.’)
+
+\t mulopwana oowoona apaakha .
+\g 1.man 1.SM-PST-2.OM-see-FV 2.cat
+\l The man has seen the cats.
+
+\t *mulopwana ooona apaakha .
+\g 1.man 1.SM-PST-see-FV 2.cat
+\l (‘The man has seen the cats.’)
+
+\t mulopwana ohona nikhule .
+\g 1.man 1.SM-PST-see-FV 3.rat
+\l The man has seen the/a rat.
+
+\t *mulopwana oomuona nikhule .
+\g 1.man 1.SM-PST-3.OM-see-FV 3.rat
+\l (‘The man has seen the rat.’)
+
+\t mulopwana ohona njojo .
+\g 1.man 1.SM-PST-see-FV 5.giraffe
+\l The man has seen the/a giraffe.
+
+\t *mulopwana ooniona njojo .
+\g 1.man 1.SM-PST-5.OM-see-FV 5.giraffe
+\l (‘The man has seen the giraffe.’)
+
+\t mulopwana ooona ekhuluwe .
+\g 1.man 1.SM-PST-see-FV 7.pig
+\l The man has seen the/a pig.
+
+\t *mulopwana ooyiona ekhuluwe .
+\g 1.man 1.SM-PST-7.OM-see-FV 7.pig
+\l (‘The man has seen the pig.’)
+
+\t nlópwáná ohoóníheríyá epuluútsá
+\g 1.man 1SM-PFV.DJ-see-CAUS-APPL-PASS-FV 9.blouse
+\l the man was shown the blouse
+
+\t khamwaatsúwéla
+\g NEG-2PL.SM-IPFV-know
+\l you didn't know
+
+\t Xaviéré onúḿváhá anelá Lusiána .
+\g 1.Xavier 1SM-PFV.PRS-1OM-give 1.ring 1.Lusiana
+\l Xavier gave Lusiana a ring.
+
+\t Kimphéélá ekanetá tsikivahalyááwé (Alí) .
+\g 1SG-SM-PRS.CJ-want 10.pens 10-1SG.OM-give-PFV.REL-POSS.1 1.Ali
+\l I want the pens that he (Ali) gave me.
+
+\t aarí nlopwana mmotsá
+\g SM1.PST-be 1.man 1-one
+\l There was a man.
+
+\t eliívúrú erí wameétsa
+\g 9.book SM9-be 16-table
+\l The book is on the table.
+
+\t yaáháavo enámá emotsá
+\g SM9-PST-be.present 9-animal 9-one
+\l There was an animal …
+

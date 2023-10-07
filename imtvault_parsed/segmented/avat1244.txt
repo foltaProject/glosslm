@@ -1,0 +1,266 @@
+\t Àyapè a-klà ke-plekpà
+\g Ayape 3SG.PERF-read CL-book
+\l Ayape read the book.
+
+\t ɛ́ɛ́-dɔ srasɛ̀
+\g 3SG.PROG-sleep sleep
+\l He is sleeping.’ 1.2[0pt][0pt]Declarative
+
+\t ɛ́ɛ́-dɔ srasɛ̀ (na) ?
+\g 3SG.PROG-sleep sleep Q
+\l Is he sleeping?’ 1.2[0pt][0pt]Yes/No
+
+\t wò-zulu ke-plekpà
+\g 2SG.PERF-steal CL-book
+\l You stole the book.’ 1.2[0pt][0pt]Declarative
+
+\t egé wò-zulu (na) ?
+\g what 2SG.PERF-steal Q
+\l What did you steal?’ 1.2[0pt][0pt]wh-Question
+
+\t egé wɔ-ŋà (na)
+\g what 2SG.PERF-eat Q
+\l What did you eat?’ 1.2[0pt][0pt]what Ex-situ
+
+\t wɔ-ŋà egè (na)
+\g 2SG.PERF-eat what Q
+\l What did you eat?’ 1.2[0pt][0pt]what In-situ
+
+\t lìpolí Àyapɛ̀ a-yɔ ní kisà (na)
+\g when Ayape 3SG.PERF-wake.up P ? Q
+\l When did Ayape wake up?
+
+\t Àyapɛ̀ a-yɔ ní kisà lìpolì (na)
+\g ayape 3SG.PERF-wake.up P ? when Q
+\l When did Ayape wake up?
+
+\t tuàsɛ̀ ki-mimí ónyime e-dzi (na)
+\g how.much rice man-DEF 3SG.PERF-buy Q
+\l How much rice did the man buy?’ 1.2[0pt][0pt]how much Ex-situ
+
+\t ónyime e-dzi tuàsɛ̀ kimimì (na)
+\g man-DEF 3SG.PERF-buy how.much rice Q
+\l How much rice did the man buy?’ 1.2[0pt][0pt]how much In-situ
+
+\t ege losó wo-tsyi máŋgo-e (na)
+\g what reason 2SG.PERF-peel mango-DEF Q
+\l Why did you peel the mango?’ 1.2[0pt][0pt]why Ex-situ
+
+\t wo-tsyi máŋgo-e ege losò (na)
+\g 2SG.PERF-peel mango-DEF what reason Q
+\l Intended: `Why did you peel the mango?’ 1.2[0pt][0pt]*why In-situ
+
+\t be-dzi ke-plekpà kè-dzya mɛ̀
+\g 3PL.PERF-buy CL-book CL-market P
+\l They bought a book at the market.
+
+\t  ki-dzí  be-dzi ke-plekpà kè-dzya mɛ̀
+\g NOM-buy 3PL.PERF-buy CL-book CL-market P
+\l They BOUGHT a book at the market (as opposed to, say, selling one).
+
+\t {*ege}  ki-dzi  {*ege} be-dzi {51ege} kè-dzya mɛ̀
+\g what NOM-buy what 3PL.PERF-buy what CL-market P
+\l What did they BUY at the market (as opposed to sell there)?
+
+\t {*nɩfɔ}  ki-dzì  {*nɩfɔ} be-dzi ke-plekpla {51nɩfɔ}
+\g where NOM-buy where 3PL.PERF-buy CL-book where
+\l Where did they BUY the book (as opposed to sell it)?
+
+\t {ege losó}  ki-dzi  {*ege losó} be-dzi ke-plekpà kè-dzia mɛ̀
+\g what reason NOM-buy what reason 3PL.PERF-buy CL-book CL-market P
+\l Why did they BUY a book at the market (as opposed to, say, selling one)?
+
+\t me-ʋí Kòfi sì {egé} be-dzi {ege} (na)
+\g 1SG.PERF-ask kofi COMP what 3PL.PERF-buy what Q
+\l I asked Kofi what they bought.
+
+\t me-ʋí Kòfi sì {nɩ̀fɔ́} be-dzi lì-mwɛ-nɛ̀ {nɩ̀fɔ́} (na)
+\g 1SG.PERF-ask kofi COMP where 3PL.PERF-buy CL-orange-DET where Q
+\l I asked Kofi where they bought the oranges.
+
+\t me-ʋí Kòfi sì {kɩtɛ́} be-dzi lì-mwɛ-nɛ̀ {kɩtɛ́} (na)
+\g 1SG.PERF-ask kofi COMP how 3PL.PERF-buy CL-orange-DEF how Q
+\l I asked Kofi how they bought the oranges.
+
+\t Àyapɛ̀ e-bù sì Mɛ́rì e-dzi lì-mwɛ-nɛ̀
+\g ayape 3SG.PERF-think COMP mary 3SG.PERF-buy CL-orange-DEF
+\l Ayape thinks that Mary bought oranges.
+
+\t me-ʋí Kòfi sì egé sì Àyapɛ e-ye
+\g 1SG.PERF-ask Kofi COMP what COMP ayape 3SG.PERF-kill
+\l I asked Kofi what Ayape killed.
+
+\t me-ʋí Kòfi sì nìfɔ́ sì be-dzi ɔ-kɔ̀-lɔ
+\g 1SG.PERF-ask Kofi COMP where COMP 3PL.PERF-buy CL-chicken-DEF
+\l I asked Kofi where they bought the chicken.
+
+\t Kòfi e-bù sì Àyapɛ̀ e-ye ɔ-kɔ̀-lɔ kí Kwamè
+\g Kofi 3SG.PRES-think COMP Ayape 3SG.PERF-kill CL-chicken-DEF P Kwame
+\l Kofi thinks that Ayape killed a chicken for Kwame
+
+\t egé Kòfi e-bù sì Àyapɛ e-ye kí Kwamè
+\g what Kofi 3SG.PRES-think COMP Ayape 3SG.PERF-kill P Kwame
+\l What does Kofi think that Ayape killed for Kwame?
+
+\t Kòfi e-bù sì egé Àyapɛ e-ye kí Kwamè
+\g kofi 3SG.PRES-think COMP what Ayape 3SG.PERF-kill P Kwame
+\l What does Kofi think that Ayape killed for Kwame?
+
+\t Kòfi e-bù sì Àyapɛ e-ye egé kí Kwamè
+\g kofi 3SG.PRES-think COMP Ayape 3SG.PERF-kill what P Kwame
+\l What does Kofi think that Ayape killed for Kwame?
+
+\t nyàwɛ́ Kòfi e-bù sì e-ye ɔ-kɔ̀-lɔ kí Kwamè
+\g who Kofi 3SG.PRES-think COMP 3SG.PERF-kill CL-chicken-DEF P Kwame
+\l Who does Kofi think killed the chicken for Kwame?
+
+\t Kòfi e-bù sì nyàwɛ́ e-ye ɔ-kɔ̀-lɔ kí Kwamè
+\g Kofi 3SG.PRES-think COMP who 3SG.PERF-kill CL-chicken-DEF P Kwame
+\l Who does Kofi think killed the chicken for Kwame?
+
+\t Kofì e-bù sì Àyapɛ̀ e-ye ɔ-kɔ̀-lɔ̀ kí Kwamè ní kɛ̀-dzia mɛ̀
+\g Kofi 3SG.PRES-think COMP Ayape 3SG.PERF-kill CL-chicken-DEF P Kwame LOC CL-market P
+\l Kofi thinks that Ayape killed a chicken for Kwame at the market
+
+\t nɪfɔ́ Kofì e-bù sì Àyapɛ̀ e-ye ɔ-kɔ̀-lɔ̀ kí Kwamè
+\g where Kofi 3SG.PRES-think COMP Ayape 3SG.PERF-kill CL-chicken-DEF P Kwame
+\l Where does Kofi think that Ayape killed a chicken for Kwame?
+
+\t Kofì e-bù sì nɪfɔ́ Àyapɛ̀ e-ye ɔ-kɔ̀-lɔ̀ kí Kwamè
+\g Kofi 3SG.PRES-think COMP where Ayape 3SG.PERF-kill CL-chicken-DEF P Kwame
+\l Where does Kofi think that Ayape killed a chicken for Kwame?
+
+\t Kofì e-bù sì Àyapɛ̀ e-ye ɔ-kɔ̀-lɔ̀ kí Kwamè (ní) nɪfɔ̀
+\g Kofi 3SG.PRES-think COMP Ayape 3SG.PERF-kill CL-chicken-DEF P Kwame LOC where
+\l Where does Kofi think that Ayape killed a chicken for Kwame?
+
+\t ma-mɔ̀ kà-druí kà(-kɔ)-lɔ̀ gì/*sɪ̀ wɔ-kpɔ́ *(ɛ̀)
+\g 1SG.PERF-see CL-dog CL-DEM-DET REL/*COMP 2SG.PERF-praise CDET
+\l I saw the dog that you praised.
+
+\t ma-mɔ̀ kà-druí kà-tɔ gì/*sɪ̀ wɔ-kpɔ́ *(ɛ̀)
+\g 1SG.PERF-see CL-dog CL-DET REL/*COMP 2SG.PERF-praise CDET
+\l I saw a dog that you praised
+
+\t ma-mɔ̀ kù-druí kù-tɔ gì/*sɪ̀ wɔ-kpɔ́ *(ɛ̀)
+\g 1SG.PERF-see CL.PL-dog CL.PL-DET REL/*COMP 2SG.PERF-praise CDET
+\l I saw some dogs that you praised
+
+\t kpɔ̀ ka-druí kà-kɔ-lɔ̀
+\g praise.IMPER CL-dog CL-DEM-DEF
+\l Praise that dog!
+
+\t nyàwɛ́ gì a-dà lì-mwɛ-nɛ̀ (*ɛ)
+\g who REL 2SG.PERF-sell CL-oranges-DEF CDET
+\l Who sold the oranges?
+
+\t be-bù sì gì wo-dzì ke-plekpà
+\g 3PL-think.PRES COMP REL 2SG-buy.PERF CL-book
+\l They think that you bought a book.
+
+\t nɪ̀fɔ́ gì be-dzì lì-mwɛ-nɛ̀ (*ɛ)
+\g where REL 3PL.PERF-buy CL-oranges-DEF CDET
+\l Where did they buy the oranges?
+
+\t egé gì be-ye (*e)
+\g what REL 3PL.PERF-kill CDET
+\l What did they kill?
+
+\t (*gì) wo-dzì lì-mwɛ-nɛ̀ nɩfɔ̀
+\g REL 2SG.PERF-buy CL-oranges-DEF where
+\l Where did you buy the oranges?
+
+\t mɛ-tá-dɔ srasɛ̀  gì Kòfi e-dzì ì 
+\g 1SG-FUT-sleep sleep REL Kofi 3SG-arrive CDET
+\l I will sleep when Kofi arrives.
+
+\t maá-dɔ srasɛ̀  xɛ́ gì Kofi o-dzì ì 
+\g 1SG.FUT-sleep sleep whether REL kofi 3SG-arrive CDET
+\l I will sleep when Kofi arrives.
+
+\t egé ka(-kɔ)-lɔ̀ gì be-dzi (*ì)
+\g what CL-DEM-DET REL 3PL.PERF-buy CDET
+\l What did they buy?
+
+\t *ka(-kɔ)-lɔ̀ gì be-dzi (*ì) egè
+\g CL-DEM-DET REL 3PL.PERF-buy CDET what
+\l What did they buy?
+
+\t bi-kù wòlí bɛ-(wɔ)-lɔ̀ gì be-dzi (*ì)
+\g CL.PL-yam which CL-DEM-DET REL 3PL.PERF-buy CDET
+\l Which yams did they buy?
+
+\t nɪfɔ́ lɛ́-(wɔ)-lɔ̀ gì be-dzi lì-mwɛ-nɛ̀ (*ɛ̀)
+\g where CL-DEM-DET REL 3PL.PERF-buy CL.PL-oranges-DEF CDET
+\l Where did they buy the oranges?
+
+\t bi-kù wòlí bɛ-lɔ̀ gì be-bù sì be-dzi (*ì)
+\g CL.PL-yam which CL-DET REL 3PL.PRES-think COMP 3PL.PERF-buy.PERF CDET
+\l Which yams do they think that they bought?
+
+\t ka-druì wòlí be-bù sì Àyapɛ a-kpɔ̀ (*ɛ)
+\g CL-dog which 3PL.PRES-think COMP Ayape 3SG.PERF-praise CDET
+\l Which dog do they think that Ayape praised?
+
+\t ka-druì wòlí ka-lɔ̀ gì be-bù sì Àyapɛ a-kpɔ̀ (*ɛ)
+\g CL-dog which CL-DET REL 3PL.PRES-think COMP Ayape 3SG.PERF-praise CDET
+\l Which dog do they think that Ayape praised?
+
+\t *ka-druì wòlí wɔ-mɔ̀ ká
+\g CL-dog which 2SG.PERF-see CL
+\l Which dog did you see?
+
+\t ka-druì wòlí ká wɔ-mɔ̀
+\g CL-dog which CL 2SG.PERF-see
+\l Which dog did you see?
+
+\t bɛ-kpɔ̀ ó-nyime lɛ-kɔ-lɔ̀  gì a-dà ki-mimì-ɛ ɛ 
+\g 3PL.PERF-praise CL-man CL-?-DET REL 3SG.PERF-sell CL-rice-DEF CDET
+\l They praised the man who sold the rice.
+
+\t *egé bɛ-kpɔ̀ ó-nyime lɛ-kɔ-lɔ̀  gì a-dà ∅/wa e 
+\g what 3PL.PERF-praise CL-man CL-?-DET REL 3SG.PERF-sell ∅/CL.PRON CDET\t bɛ-kpɔ̀ ó-nyime lɛ-kɔ-lɔ̀  gì a-dà ege e 
+\g 3PL.PERF-praise CL-man CL-?-DET REL 3SG.PERF-sell what CDET
+\l What thing is such that they praised the man who sold it?
+
+\t be-dzì  xɛ́ áblé Àyapɛ̀ a-kpɔ̀ Kòfi 
+\g 3PL.PERF-arrive whether before Ayape 3SG.PERF-praise Kofi
+\l They arrived before Ayape praised Kofi.
+
+\t *nyàwé be-dzì  xɛ́ áblé Àyapɛ̀ a-kpɔ̀ yɛ/__  
+\g who 3PL.PERF-arrive whether before Ayape 3SG.PERF-praise CL1.SG.PRON _\t be-dzì  xɛ́ áblé Àyapɛ̀ a-kpɔ̀ nyàwè 
+\g 3SG.PERF-arrive whether before Ayape 3SG.PERF-praise who
+\l They arrived before Ayape praised who?
+
+\t bɛ-dà  ke-plekpà nì ɔ̀-mwɛ-nɔ̀ 
+\g 3PL.PERF-sell CL-book and CL-orange-DEF
+\l They sold a book and an orange.
+
+\t *ègé bɛ-dà  ke-plekpà nì lɔ/∅  
+\g what 3PL.PERF-sell CL-book and CL2.SG.PRON _
+\l What did they sell the book and?
+
+\t *ègé bɛ-dà  ka/∅ nì ɔ̀-mwɛ-nɔ̀ 
+\g what 3PL.PERF-sell CL6.SG.PRON and CL-orange-DEF
+\l What did they sell and the orange?
+
+\t bɛ-dà  ke-plekpà nì egè 
+\g 3PL.PERF-sell CL-book and what
+\l They sold a book and what?
+
+\t bɛ-dà  ège nì ɔ̀-mwɛ-nɔ̀ 
+\g 3PL.PERF-sell what and CL-orange-DEF
+\l They sold what and an orange?
+
+\t me-nú liwɔlɛmɛ̀ sì Àyapɛ a-dà ke-plekpà ní kɛ̀-dzia mɛ̀
+\g 1SG.PERF-hear rumor COMP Ayape 3SG.PERF-sell CL-book LOC CL-market P
+\l I heard the rumor that Ayape sold a book at the market.
+
+\t ègé wo-nú liwɔlɛmɛ̀ sì Àyapɛ a-dà ní kɛ̀-dzia mɛ̀
+\g what 2SG.PERF-hear rumor COMP Ayape 3SG.PERF-sell LOC CL-market P
+\l What did you hear the rumor that Ayape sold at the market?
+
+\t nɪfɔ́ wo-nú liwɔlɛmɛ̀ sì Àyapɛ a-dà ke-plekpà
+\g where 2SG.PERF-hear rumor COMP Ayape 3SG.PERF-sell CL-book
+\l Where did you hear the rumor that Ayape sold a book?
+

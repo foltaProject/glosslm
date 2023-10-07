@@ -1,0 +1,313 @@
+\t noget stort
+\g something big
+\l something big
+
+\t noget stort hus
+\g something big house
+\l some big house
+
+\t *Han blev forsvundet
+\g he became disappeared\t Esbjerg  satser på trænersiden  , mens Aalborg ikke gør det .
+\g Esbjerg emphasizes on coach-side-DEF while Aalborg not does DET
+\l Esbjerg emphasizes coaching, while Aalborg doesn’t.
+
+\t Tjener ! Bestilte jeg ikke en gin og tonic ?
+\g waiter ordered I not a gin and tonic
+\l Waiter, didn’t I order a gin and tonic?
+
+\t en stor mand
+\g INDEF.COM big.UTR man(UTR)
+\l a tall man
+
+\t ett stort hus
+\g INDEF.N big-N house(N)
+\l a big house
+
+\t den store mand
+\g DEF.COM big-DEF man(UTR)
+\l the tall man
+
+\t det store hus
+\g DEF.N big-DEF house(N)
+\l the big house
+
+\t at han må_1 have_2 set_3 ham
+\g that he must have seen him
+\l that he must have seen him
+
+\t Der blev skrivet tre bøger om dette .
+\g EX became written.PCP three books about this
+\l Three books were written about this.
+
+\t der bliver næsten ikke optaget nye elever
+\g EX becomes almost not admitted.PCP new pupils
+\l Hardly any new pupils are admitted.
+
+\t Der er blevet produceret flere terrorister i de sidste år pga . den politik ,
+\g EX is become produced.PCP more terrorists in the last years because-of that policy
+\l More terrorists have been produced in recent years because of that policy.
+
+\t Hver gang der bliver en ny indlagt , skal man sætte sig ind i patientens journaler .
+\g every time EX becomes a new admitted.PCP shall one put REFL into in patient.DEF.POSS notes
+\l Every time a new patient is admitted, one has to familiarize oneself with his/her notes.
+
+\t Der blev ingenting sagt , før det ringede på døren ,
+\g EX became nothing said.PCP before EX rang on door.DEF
+\l Nothing was said before the door bell rang.
+
+\t Ifølge SAS blev der ingen fejl fundet på nogle af flyene ,
+\g according SAS became EX no fault found.PCP on any of planes.DEF
+\l According to SAS, no fault was found on any of the planes.
+
+\t der blev inte noget gjort ved det_der
+\g EX became not anything done.PCP with that
+\l Nothing was done with that.
+
+\t klokken fem om morgenen der blev der én skudt ned
+\g clock.DEF five in morning there became EX one.C shot.PCP down
+\l At 5 o’clock in the morning one person was shot down there.
+
+\t da blev der en stor gryde grød kogt hver dag
+\g then became EX a large pot porridge.C cooked.PCP every day
+\l Then a large pot of porridge was cooked every day.
+
+\t Der blev en sølvske staalen .
+\g EX became a silverspoon.C stolen.C
+\l A silver spoon was stolen.
+
+\t Der blev en Död udbaaren .
+\g EX became a dead.C out-carried.C
+\l A dead person was carried out.
+
+\t Dær ble ejnj værja tesatter .
+\g EX became a sword.MASC added.MASC
+\l A sword was added.
+
+\t Manden havde måske ingenting sagt .
+\g man.DEF had maybe nothing said.PCP
+\l Maybe the man hadn’t said anything.
+
+\t Jeg skulle være naturlig , der blev ikke pålagt mig noget .
+\g I should be natural EX beccame not imposed.PCP me anything
+\l I was supposed to be natural, nothing was imposed on me.
+
+\t Der bliver pålagt børn et alt for stort ansvar i dag .
+\g EX becomes imposed.PCP children a too for big responsibility in day
+\l A too big responsibility is imposed on children today.
+
+\t De udførte blot de opgaver , der blev dem pålagt af folketinget ,
+\g they carried-out just the tasks that became them imposed.PCP by parliament.DEF
+\l They only carried out the tasks that had been imposed on them by the parliament.
+
+\t Vent og se , hvem der bliver dig tildelt .
+\g wait and see who that becomes you assigned.PCP.
+\l Wait and see who is asssigned to you.
+
+\t Jeg mødte_ham ikke .
+\g I met=him not
+\l I didn’t meet him.
+
+\t Hvorfor mødte Peter_ham ikke .
+\g why met Peter=him not
+\l Why didn’t Peter meet him.
+
+\t Jeg kender+jo+ik+(h)am .
+\g I know=JO=NEG=him
+\l ’I don’t know him.
+
+\t Hva synes du om det huset ?
+\g What think.PRS you of that.NEUT house.DEF.SG{NEUT}?
+\l What do you think of that house?
+
+\t og  i det nederste vindue _T  tager man og saetter urtepotten _F
+\g and in the lowest window takes one and puts flowerpot.DEF
+\l And in the lowest window you take and put the flowerpot.
+
+\t Hun tvivler på at han er der .
+\g she doubt.PRS on COMP he be.PRS there
+\l *She doubts that he is there.
+
+\t Du könntest schon mal die Teller auf den Tisch stellen .
+\g you can.SBJV.2SG already PRT the plates on the table put
+\l You could now put the plates on the table.
+
+\t Så seer man här tilgått wara
+\g so sees one here about.go.PTCP be
+\l one sees that things have happened in this way here’ (16th century; from : 156)
+
+\t godh villia medh redne
+\g good will with ride.PTCP
+\l Jost Cursel … and several other Livonians who had ridden along out of free will’ (17th century; from : 262)
+
+\t Kan man wel merkia huru thå haffuer tilgått
+\g can one well notice how then has about.go.PTCP
+\l One can well notice how things then have happened’ (16th century; from : 156)
+
+\t j samu stund førþes døþ vt af staþenom
+\g in same moment bring.PST.PASS dead out of town.DEF.M.SG.DAT
+\l in the same moment [a woman] was brought dead out of the town’ (Leg, EOS, p. 151)
+
+\t Efter danske konungen Kristian IV:s nederlag fråndömdes hans son Fredrik biskopsdömet i Halberstadt
+\g after Danish king.DEF Kristian IV.POSS defeat from-sentence.PST.PASS his son Fredrik bishopric.DEF in Halberstadt
+\l After the Danish king Kristian IV’s defeat, his son Fredrik was sentenced to forfeit the bishopric in Halberstadt’ (SPF, 1900)
+
+\t Det erböds dem mat ur kungliga köket
+\g it offer.PST.SG.PASS them.OBJ food from royal kitchen.DEF
+\l They were offered food from the royal kitchen’ (SPF, 1841)
+
+\t snart räcktes honom wärdens hand till ett redligt handslag
+\g soon hand.PST.PASS him.OBJ host.DEF.POSS hand to an honest handshake
+\l Soon the host’s hand was held out to him for an honest handshake’ (SPF, 1816)
+
+\t Skulle der borta någon förmånlig anställning erbjudas dig så är du naturligtvis fri
+\g shall.PST there over some advantageous position offer.INF.PASS you.OBJ so be.PRS you of.course free
+\l If you should be offered some advantageous position over there, you are of course free’ (SPF, 1900)
+
+\t Först bjuds vi i prästgår’n kaffe och dopp
+\g first offer.PRS.SG.PASS we.SBJ in parsonage.DEF coffee and buns
+\l First, we are offered coffee and buns in the parsonage.’ (SPF, 1900)
+
+\t Combær han til at köpæ iorþ
+\g comes he there IM buy.INF soil
+\l He comes there to buy land’ (EWL, EOS)
+
+\t siþæn ær han skyldughær kunungær wæræ
+\g then is he obliged king be.INF
+\l then he is obliged to be king’ (UL, EOS)
+
+\t Nu ær þæt klokkarans skuld . bæra bok ok stol i sokn
+\g now is it clerc.DEF.GEN obligation carry.INF book and stole in parish.DEF
+\l Now it is the liability of the clerk to bring the Bible and the stole to the parish’ (ÖgL, EOS)
+
+\t Sedan Danske skeep flotten had liggat söder i Callmars sundh och blockuerat i 2 veckor så gick han åth Gottland för att forsorga sigh medh wedh och proviant .
+\g since Danish ship fleet.DEF had layed south in Kalmar.GEN channel and blocked in 2 weeks so went he to Gotland for IM support.INF REFL with firewood and provisions
+\l Since the Danish fleet had been in the south, blocking the channel of Kalmar for two weeks, he went to Gotland to get supplies of firewood and provisions.’ (Bol, ca. 1697, p. 78)
+
+\t Jeg ved , at Gert ikke har læst bogen i_dag
+\g I know that Gert not has read book.DEF today
+\l I know that Gert did not read the book today.
+
+\t Gert har givet ham bogen .
+\g Gert has given him book.DEF
+\l Gert gave him the book.
+
+\t Jeg ved , hvem_i  Gert har givet __i bogen  .
+\g I know who Gert has given _ book.DEF
+\l I know who Gert has given the book.
+
+\t Politiet ved ikke , hvem der havde placeret bomben .
+\g police.DEF knows not who EXPL has placed bomb.DEF
+\l The police does not know who placed the bomb.
+
+\t fordi der bliver arbejdet
+\g because EXPL is worked
+\l because there is working there
+
+\t fordi der arbejdes
+\g because EXPL work.PASS
+\l because there is working there
+
+\t at Bjarne læste bogen
+\g that Bjarne read book.DEF
+\l that Bjarne read the book
+
+\t weil er morgen anfängt
+\g because he tomorrow at.catches
+\l because he starts tomorrow
+
+\t Er fängt morgen an .
+\g he catches tomorrow at
+\l He starts tomorrow.
+
+\t dass er ihn gesehen_3 haben_2 muss_1
+\g that he him seen have must
+\l that he must have seen him
+
+\t dass er ihn sah
+\g that he him saw
+\l that he saw him
+
+\t dass er ihn gesehen hat
+\g that he him seen has
+\l that he has seen him
+
+\t Muss er ihn gesehen haben ?
+\g must he him seen have
+\l Must he have seen him?
+
+\t Må han have set ham ?
+\g must he have seen him
+\l Must he have seen him?
+
+\t at Conny ikke  VP læser bogen 
+\g that Conny not _ reads book.DEF
+\l that Conny does not read the book
+
+\t Conny læser ikke bogen .
+\g Conny reads not book.DEF
+\l Conny is not reading the book.
+
+\t Conny læser_i ikke  VP __i bogen  .
+\g Conny reads not _ _ book.DEF
+\l Conny does not read the book.
+
+\t Liest Conny das Buch ?
+\g reads Conny the book
+\l Does Conny read the book?
+
+\t Har_i Conny   __i læst bogen  ?
+\g has Conny _ _ read book.DEF
+\l Has Conny read the book?
+
+\t Das Buch liest Conny .
+\g the book reads Conny
+\l Conny reads the book.
+
+\t Bogen læser Conny .
+\g book.DEF reads Conny
+\l Conny reads the book.
+
+\t Peter læser avisen .
+\g Peter reads newspaper.DEF
+\l Peter is reading the newspaper.
+
+\t Avisen læses af Peter .
+\g newspaper.DEF read.PRES.PASS by Peter
+\l The newspaper is read by Peter.
+
+\t Avisen læstes af Peter .
+\g newspaper.DEF read.PAST.PASS by Peter
+\l The newspaper was read by Peter.
+
+\t Avisen læses hver dag .
+\g newspaper.DEF reads every day
+\l The newspaper is read every day.
+
+\t Avisen bliver læst af Peter .
+\g newspaper.DEF is read by Peter
+\l The newspaper is read by Peter.
+
+\t Avisen skal læses hver dag .
+\g newspaper.def must read.INF.PASS every day
+\l The newspaper must be read every day.
+
+\t at der bliver danset
+\g that EXPL is danced
+\l that there is dancing
+
+\t at der danses
+\g that EXPL dance.PRES.PASS
+\l that there is dancing
+
+\t dass der Aufsatz gelesen wurde
+\g that the.NOM paper read AUX
+\l that the paper was read
+
+\t at Gert har læst bogen
+\g that Gert has read book.DEF
+\l that Gert has read the book
+
+\t hvem der læser bogen
+\g who EXPL reads book.DEF
+\l who reads the book
+

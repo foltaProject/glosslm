@@ -1,0 +1,16 @@
+\t khuruma muti buna ?
+\g car hold-MED IPFV=Q
+\l Do (you) have a car?
+
+\t suuti khatidu buruna ?
+\g book write-MED=FOC IPFV-PTCP=Q
+\l (Are you) writing a book?
+
+\t ndaja tharunki nu(ba) thuranga ?
+\g 2SG=TOP PN=DIR what(=FOC) give=Q
+\l What will you give to Taro?
+
+\t nmaŋa(ba) dunanccimaja ?
+\g where=NOM(=FOC) PN-island=Q
+\l Where exactly is Yonaguni island?’ (: 468, 466, 469)
+

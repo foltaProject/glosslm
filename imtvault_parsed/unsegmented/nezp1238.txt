@@ -1,0 +1,49 @@
+\t ‘aayatom hikwyekey’se∅ ‘iine picpic cuu’yem
+\g woman-ERG 3SUBJ-feed-APPL-IMPF-PRES 1SG-OBJ cat.NOM fish.NOM\t Haamapim hineeswewkunye’nyØe hahaacwalna lawtiwaa .
+\g man-ERG 3SBJ-OBJ.PL-meet-APPL-PFV-REM.PST PL-boy-OBJ friend.NOM
+\l The man met the boys’ friend.
+
+\t ’Isiine ’esewleke’ykey’seØ ’aatoc ?
+\g who-OBJ 3OBJ-drive-APPL-IPFV-PRS car.NOM
+\l Whose car are you driving?
+
+\t ’Aaxnay’saqa  ’ipnim huukux  .
+\g 3OBJ-see-APPL-IPFV-REC.PST 3SG.GEN hair.NOM
+\l I saw her hair.
+
+\t ’Ehiteemeney’se Cecilne tiim’es .
+\g 3OBJ-read-APPL-IPFV.PRS Cecil-OBJ book.NOM
+\l I’m reading Cecil the book.
+
+\t Kaa pée’wiènye tilóqana wewúkiye .
+\g and 3ERG-shoot-APPL.ASP people-OBJ elk.NOM
+\l And he shot the elk for the people/And he shot the people’s elk.
+
+\t Haacwalnimagent peekiwyekey’seØ  ’ipnim ciq’aamqal   Melinm ke’niks  .
+\g boy-ERG 3>3-feed-APPL-IPFV-PRS 3SG.GEN dog.NOM Mary-GEN leftovers.NOM
+\l The boy is feeding his/her dog Mary’s leftovers.
+
+\t Háama hi'wíye wewúkiye .
+\g man(NOM) 3-shoot-ASP elk(ACC)
+\l The man shot an elk.
+
+\t Háamanm pée'wiye wewúkiyene .
+\g man-ERG 3/3-shoot-ASP elk-OBJ
+\l The man shot an elk.
+
+\t Hineeshexne’nye mamay’asna pist .
+\g 3rd-PL.OBJ-see-μ-PAST PL-child-OBJ father
+\l He saw the children’s father.
+
+\t ’Ew’niise Tatlona Angelnim taaqmaaɬ .
+\g 3OBJ-give-IMPERF Tatlo-OBJ Angel-GEN hat
+\l I’m giving Tatlo Angel’s hat.
+
+\t Pit’iin’im paa’yax̂na’nya ’ipne picpic .
+\g girl-ERG 3/3-find-μ-REM.PAST his/her-OBJ cat
+\l The girli found his/herj cat.’ (no coreference)
+
+\t Pit’iin’ hi’yaax̂na  ’ipnimi picpic  .
+\g girl(NOM) 3-find-ASP-REM.PAST [her-GEN cat]
+\l The girli found heri cat.’ (coreference)
+

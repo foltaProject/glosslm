@@ -1,0 +1,1330 @@
+\t den bok *att/som Erik köpte
+\g the book DeclC/RelC Erik bought
+\l the book that Erik bought
+
+\t Janne sa att/*som Erik köpte en bok .
+\g Janne said DeclC/RelC Erik bought a book
+\l Janne said that Erik bought a book.
+
+\t det factum att/*som Johan var här
+\g the fact DeclC/RelC Johan was here
+\l the fact that Johan was here
+
+\t rycktet att/*som Johan var här
+\g rumor-the DeclC/RelC Johan was here
+\l the rumor that Johan was here
+
+\t Johan undrade vem som/*att hade öppnat dörren .
+\g Johan wondered who RelC/DeclC had opened door-the
+\l Johan wondered who has opened the door.
+
+\t Lisa vet vem som/*att köpte kakor .
+\g Lisa knows who RelC/DeclC bought cookies
+\l Lisa knows who bought cookies.
+
+\t Det var min idé som/*att vann priset .
+\g it was my idea RelC/DeclC won prize-the
+\l It was my idea that won the prize.
+
+\t Det var han som/*att hade öppnat dörren .
+\g it was he RelC/DeclC had opened door-the
+\l It was he that had opened the door.
+
+\t Frågan   vem som har vunnit  besvaras senare .
+\g question-the  who RelC has won is-answered later
+\l The question of who has won it is answered later.
+
+\t Rickard ångrade att han inte var hemma .
+\g Rickard regretted DeclC he not was home\t *Rickard ångrade att han var inte hemma .
+\g Rickard regretted DeclC he was not home
+\l Rickard regretted that he was not home.
+
+\t Rickard sa att han inte var hemma .
+\g Rickard said DeclC he not was home\t Rickard sa att han var inte hemma .
+\g Rickard said DeclC he was not home
+\l Rickard said that he was not home.
+
+\t De upptäckte att han läste den bloggen varje dag , #men det gjorde han inte .
+\g they discovered that he read that blog-the every day but that did he not
+\l They discovered that he read this blog every day #but he didn’t.
+
+\t De upptäckte att den bloggen läste han varje dag , #men det gjorde han inte .
+\g they discovered that that blog-the read he every day but that did he not
+\l They discovered that this blog he read every day #but he didn’t.
+
+\t Han läste inte den bloggen varje dag .
+\g he read not that blog-the every day
+\l He didn’t read this blog every day.
+
+\t Vi upptäckte faktiskt inte att han inte läste den bloggen varje dag .
+\g we discovered actually not that he not read that blog-the every day
+\l We actually didn’t discover that he didn’t read this blog every day.
+
+\t Vi upptäckte faktiskt inte att den bloggen läste han inte varje dag .
+\g we discovered actually not that that blog-the read he not every day
+\l We actually didn’t discover that this blog he didn’t read every day.
+
+\t John spred ryktet att Mary inte hjälpte Paul .
+\g John spread rumor-the that Mary not helped Paul
+\l John spread the rumor that Mary did not help Paul.
+
+\t *John spred ryktet att Mary hjälpte inte Paul .
+\g John spread rumor-the that Mary helped not Paul
+\l John spread the rumor that Mary did not help Paul.
+
+\t Marias upptäckt att Christer gillar bönor var en överraskning .
+\g Maria’s discovery that Christer likes beans was a surprise
+\l Maria’s discovery that Christer likes beans was a surprise.
+
+\t *Marias upptäckt att bönor gillar Christer var en överraskning .
+\g Maria’s discovery that beans likes Christer was a surprise
+\l Maria’s discovery that beans, Christer likes was a surprise.
+
+\t Jon {sa/trodde/visste} att han hade inte sett filmen .
+\g Jon {said/thought/knew} that he had not seen movie.DEF
+\l Jon {said/thought/knew} that he hadn’t seen the movie.
+
+\t *Jon {förnekade/ångrade} att han hade inte sett filmen .
+\g Jon {denied/regretted} that he had not seen movie.DEF
+\l Jon {denied/regretted} that he hadn’t seen the movie.
+
+\t Jon {sa/trodde/visste} att han inte hade sett filmen .
+\g Jon {said/thought/knew} that he not had seen movie.DEF
+\l Jon {said/thought/knew} that he hadn’t seen the movie.
+
+\t Jon {förnekade/ångrade} att han inte hade sett filmen .
+\g Jon {denied/regretted} that he not had seen movie.DEF
+\l Jon {denied/regretted} that he hadn’t seen the movie.
+
+\t Hon gillar katter .
+\g she likes cats
+\l She likes cats.
+
+\t Hon gillar inte katter .
+\g she likes not cats
+\l She doesn’t like cats.
+
+\t  Den filmen  gillade hon t .
+\g [that movie.DEF] liked she
+\l That movie, she liked.’ EV2
+
+\t * Den filmen  hon gillade t .
+\g [that movie.DEF] she liked
+\l That movie, she liked.’ *V-in situ
+
+\t Jon hade inte sett filmen .
+\g Jon had not seen movie.DEF
+\l Jon hadn’t seen the movie.’ EV2
+
+\t *Jon inte hade sett filmen .
+\g Jon not had seen movie.DEF
+\l Jon hadn’t seen the movie.’ *V-in situ
+
+\t Jon {sa/trodde/visste} att han (hade) inte (hade) sett filmen .
+\g Jon {said/thought/knew} that he had not had seen movie.DEF
+\l Jon {said/thought/knew} that he hadn’t seen the movie.
+
+\t Varför kom han inte på festen ?
+\g why came he not to party.DEF
+\l Why didn’t he come to the party?
+
+\t Kristine sa att han fick inte .
+\g Kristine said that he was.allowed not
+\l Kristine said that he wasn’t allowed to.’ EV2
+
+\t Antingen snöar det i Umeå , eller så skiner solen i Skellefteå .
+\g either snows it in Umeå or so shines sun.DEF in Skellefteå
+\l It is ether snowing in Umeå or the sun is shining in Skellefteå.
+
+\t Kan du inte bara slappna av och acceptera att socialisterna kan inte vinna alla gånger ?
+\g can you not just chill out and accept that socialists.DEF can not win all times
+\l Why can’t you just relax and accept that the socialists aren’t going to win every time?
+
+\t Acceptera att du kan inte älska alla men du kan inte hata alla heller
+\g accept that you can not love everyone but you can not hate everyone either
+\l Accept that you can’t love everyone, but you can’t hate everyone either.
+
+\t Pannkakor är gott .
+\g pancake-COMM.PL be.PRES good.N.SG
+\l Situations involving pancakes are good.’ (i.e. eating pancakes is good)
+
+\t Per arbetade på en privatklinik .
+\g Per worked for a private clinic
+\l Per worked in a private clinic.
+
+\t Martin arbetade på en privatklinik .
+\g Martin worked for a private clinic
+\l Martin worked in a private clinic.
+
+\t det stora huset
+\g DEF big-WEAK house-DEF
+\l the big house
+
+\t Jon sa att han hade inte sett filmen .
+\g Jon said that he had not seen movie.the
+\l Jon said that he hadn’t seen the movie. The speaker is not committed to the truth of “Jon hadn’t seen the movie.
+
+\t Han sa/trodde/upptäckte/*ångrade/*tvivlar på  att vi hade inte sett den  .
+\g he said/believed/discovered/regretted/doubts on that we had not seen it
+\l He said/believed/discovered/regretted/doubts that we hadn’t seen it.
+
+\t Sportspegeln somnar jag om/när jag ser
+\g sports-program.DEF fall asleep I if/when I see
+\l The sports program, I fall asleep if/when I see’ (Anward 1982: 74)
+
+\t ett stort ett
+\g INDEF:N big:N ART:INDEF:N.SG
+\l a big one
+
+\t Vi har häst .
+\g we have.PRS horse
+\l We have a horse, i.e. we are horse-owners.
+
+\t Hon äter soppa med ( ?en) sked .
+\g she eat.PRS soup with INDF spoon
+\l She eats soup with a spoon.
+
+\t Mormor blev alldeles röd i ögonen .
+\g Granny become.PST quite red in eye.DEFF.PL
+\l Granny’s face became quite red.
+
+\t Tog du med dig kniven/en kniv/kniv ?
+\g take.PST you with you knife.DEFF/INDF knife/knife
+\l Did you bring a knife?
+
+\t …vitgardinene jussom vinka aten .
+\g …white_curtain.DEFF.PL like wave.INF at_one
+\l …the white curtains waved at you as it were.’ (Cat Corpus)
+
+\t bortom brunnen och skalade kottar .
+\g beyond well.DEFF and peel.PST cone.PL
+\l [The first thing he saw when he went out into the yard was] a squirrel that sat in the big pine behind the well, peeling cones.’ (Cat Corpus)
+
+\t Han är ju redan stora karn .
+\g he be.PRS PRAG already big man.DEFF
+\l (lit.) He is already the big man.
+
+\t Det är ju inte långa biten ner till oss .
+\g it be.PRSis PRAG NEG long.WK piece.DEFF down to us
+\l It is not far (to go) down to us.’ (Cat Corpus)
+
+\t När jag var liten badade man bara på fredagar .
+\g when I was little bathed MAN only on Fridays
+\l When I was little, we only had a bath on Fridays.
+
+\t I_går blev man avskedad .
+\g yesterday was MAN fired
+\l yesterday afternoon I was fired
+
+\t I Spanien äter man middag sent .
+\g In Spain eats MAN dinner late
+\l a. ‘In Spain people have dinner late
+
+\t Man arbetat för mycket nuförtiden .
+\g MAN works too much nowadays
+\l People/I have work too much nowadays.
+
+\t Man blir lätt avskedad nuförtiden .
+\g MAN is easily fired nowadays
+\l People / I get fired easily nowadays.
+
+\t Man har arbetat i två månader för att lösa problemet .
+\g MAN has worked in two months for to solve problem.the
+\l People/I have been working for two months to solve the problem
+
+\t Det blev skrivet / *skrivna tre böcker om detta .
+\g EX became written.N / written.PL three books about this
+\l Three books were written about this.
+
+\t Det blev tre böcker *skrivet / skrivna om detta .
+\g EX became three books written.N / written.PL about this
+\l Three books were written about this.
+
+\t Det blev många böcker skrivna .
+\g EX became many books written.PL
+\l Many books were written.
+
+\t Det har skrivits tre böcker om detta .
+\g EX has written.S three books about this
+\l Three books have been written about this.
+
+\t men jag har en känsla av att det blir inte någonting gjort där ändå
+\g but I have a feeling of that EX becomes not something done.N there still
+\l but I have a feeling that still nothing gets done there
+
+\t Det blev inte så mycket sagt kanske .
+\g EX became not so much.N said.N maybe
+\l Not much was said, maybe.
+
+\t Men då blev det ingenting gjort .
+\g but then became EX nothing.N done.N
+\l But nothing got done then.
+
+\t Det blev ingen post utdelad alls igår .
+\g EX became no post.C distributed.C at-all yesterday
+\l No post whatsoever was distributed yesterday.
+
+\t Jag sitter där vid datorn och ska skriva , jag vet vad jag ska göra men det blir ändå inget gjort .
+\g I sit there by computer.DEF and shall write I know what I shall do but EX becomes still nothing.N done.N
+\l I sit there in front of the computer, about to write, I know what I should do, but still nothing gets done.
+
+\t Utan deras försörjning och rimliga villkor , blir det inga filmer gjorda , inga böcker skrivna , inga låtar komponerade .
+\g without their support and reasonable conditions become EX no films made.PL no books written.PL no songs composed.PL
+\l Without their support and reasonable conditions, there won't be any films made, books written or songs composed.
+
+\t “så hit med en skyffel så det blir något gjort .”
+\g so here with a shovel so EX becomes something.N done.N
+\l Hand me a shovel so that something gets done.
+
+\t I_går blev det bara två mål insläppta ,
+\g yesterday became EX only two goals let-in.PL
+\l Yesterday only two goals were let in.
+
+\t Allt som allt blev det fem hus byggda .
+\g all as all became EX five houses built.PL
+\l Altogether there were five houses built.
+
+\t Så det blev inte skrivet någon berättelse om loppet .
+\g so EX became not written.PCP any story.C about race.DEF
+\l So no story about the race was written.
+
+\t Mannen hade kanske ingenting sagt .
+\g man.DEF had maybe nothing said.PCP
+\l Maybe the man hadn’t said anything.
+
+\t Det har ingenting sagts (*ingenting) om detta .
+\g EX has nothing said.S _ about this
+\l Nothing has been said about this.
+
+\t Det har ( ? ?mycket) sagts (okmycket) om detta .
+\g EX has _ said.S much about this
+\l Much has been said about this.
+
+\t Det blev givet pojken presenter .
+\g EX became given.N boy.C.DEF presents
+\l The boy was given presents.
+
+\t Det blev inte många barn givna presenter den julen .
+\g EX became not many children given.PL presents that Christmas.DEF
+\l Not may children were given presents that Christmas.
+
+\t Det skulle bli oss en belöning tilldelad .
+\g EX should become us a reward.C awarded.C.
+\l We were supposed to receive an award.
+
+\t Det blev oss inte mycket anförtrott .
+\g EX became us not much.N confided.N
+\l Not much was confided to us.
+
+\t Det blev ingen särskilt mycket anförtrott .
+\g EX became nobody very much.N confided.N
+\l Not much was confided to anybody.
+
+\t  ?* Vi har ingen anförtrott särskilt mycket .
+\g _ we have nobody confided very much
+\l Intended: ‘We have not confided very much to anybody.
+
+\t Laget kom in på planen inställda på att vinna .
+\g team-SG.DEF come-PRT in on field-SG.DEF determined-PL on to win-INF
+\l The team entered the playground determined to win.
+
+\t Den här boken läste han inte .
+\g this here book.DEF read he not
+\l This book, he didn't read.
+
+\t Carina gissade att han (hade) nog inte (hade) väntat sig så mycket action .
+\g Carina guessed that he (had) maybe not (had) expected self so much action
+\l Carina guessed that he probably hadn't expected that much action.
+
+\t Jag mötte honom inte .
+\g I met him not
+\l I didn’t meet him.
+
+\t Jag mötte inte honom .
+\g I met not him
+\l I didn’t meet him.
+
+\t Johan köpte den inte .
+\g John bought it not
+\l John did not buy it.
+
+\t *Johan köpte boken inte .
+\g John bought book.the not
+\l John did not buy the book.
+
+\t Dricker Johan inte kaffe ?
+\g drinks Johan not coffee
+\l Does Johan not drink coffee?
+
+\t Nej .
+\g no
+\l (‘He doesn’t drink coffee.’)
+
+\t Varför sälja huset ?
+\g why sell-INF house.the
+\l Why sell the house?
+
+\t Varför säljer ni huset ?
+\g why sell-PRES you house.the
+\l Why do you sell the house?
+
+\t #Vad göra ?
+\g what do.INF
+\l What to do?
+
+\t #Vart vända sig ?
+\g where turn.INF REFL
+\l Where to turn?
+
+\t Varför inte gå på bio ?
+\g why not go.INF to movie
+\l Why don’t you go to the movie?
+
+\t Hur få personalen att förstå ?
+\g how get.INF staff.the to understand
+\l How to get the staff to understand?
+
+\t Johan läste en roman .
+\g Johan read-TNS a novel
+\l Johan read a novel.
+
+\t Läs en roman !
+\g read a novel
+\l Read a novel!
+
+\t Varför läsa en roman ! ?
+\g why read-INF a novel
+\l Why read a novel!?
+
+\t Varför läste Johan en roman ?
+\g why read-PAST Johan a novel
+\l Why did Johan read a novel?
+
+\t Varför läsa boken ?
+\g why read-INF book-the
+\l Why read the book?
+
+\t Varför stänger Lisa dörren ?
+\g why shut-PRES Lisa door-the
+\l Why does Lisa shut the door?
+
+\t Varför stänga dörren ?
+\g why shut-INF door-the
+\l Why shut the door?
+
+\t Vem väljer vi denna gång ?
+\g who vote-PRES we this time
+\l Who do we vote for this time?
+
+\t #Vem välja denna gång ?
+\g who vote-INF this time
+\l Who vote for this time?
+
+\t Varför stänger Lisa inte dörren ?
+\g why shut-PRES Lisa not door-the
+\l Why doesn’t Lisa shut the door?
+
+\t *Varför stänga inte dörren ?
+\g why shut-INF not door-the
+\l Why not shut the door?
+
+\t Varför inte stänga dörren ?
+\g why not shut-INF door-the
+\l Why not shut the door?
+
+\t Varför stänger han fönstret ?
+\g why shut-PRES he window-the
+\l Why does he shut the window?
+
+\t Varför stänga (*han) fönstret ?
+\g why shut-INF he window-the
+\l Why shut the window?
+
+\t Varför gömma sig under sängen ?
+\g why hide-INF REFL under bed-the
+\l Why hide under the bed?
+
+\t Varför gömma sin bok under sängen ?
+\g why hide-INF REFL book under bed-the
+\l Why hide his book under the bed?
+
+\t Varför komma fullø / fulla till festen ?
+\g why come-INF drunk-SG / drunk-PL to party-the
+\l Why come drunk to the party?
+
+\t Varför gömmer han sig under sängen ?
+\g why hide-PRES he REFL under bed-the
+\l Why does he hide under the bed?
+
+\t Varför gömmer han sin bok unde sängen ?
+\g why hide-PRES he POSS.REFL book under bed-the
+\l Why hide his book under the bed?
+
+\t Varför kommer han fullø / de fulla till festen ?
+\g why come-PRES he drunk-SG / they drunk-PL to party-the
+\l Why does he / they come drunk to the party?
+
+\t Varför fruktar hon hundar ?
+\g why fear-PRES she dogs
+\l Why does she fear dogs?
+
+\t Varför frukta hundar ?
+\g why fear-INF dogs
+\l Why fear dogs?
+
+\t Varför sprang Erik till affären ?
+\g why run.PAST Erik to shop-the
+\l Why did Erik run to the shop?
+
+\t Varför springa till affären ? !
+\g why run-INF to shop-the
+\l Why run to the shop?
+
+\t Varför dog han efter operationen ?
+\g why die.PAST he after operation-the
+\l Why did he die after the operation?
+
+\t Varför sjönk fartyget snabbt ?
+\g why sink.PAST ship-the fast
+\l Why did the ship sink fast?
+
+\t Varför sa du att Johan skrev brevet ?
+\g why say.PAST you that Johan write.PAST letter-the
+\l Why did you say that Johan wrote the letter?
+
+\t Varför säga att Johan skrev brevet ? !
+\g why say.INF that Johan wrote letter-the
+\l Why say that Johan wrote the letter?!
+
+\t Gloria sålde godast glass .
+\g Gloria sold delicious-SPRL ice_cream
+\l Gloria sold the most delicious ice cream.' (relative only)
+
+\t den gamla musen
+\g the old mouse-DEF
+\l the old mouse
+
+\t Huset är gott .
+\g house-DEF.N.SG be.PRS good.N.SG
+\l The house is good.
+
+\t Pannkakan är god .
+\g pancake-DEF.COM.SG be.PRS good.COM.SG
+\l The pancake is good.
+
+\t { Husen / Pannkakorna } är goda .
+\g _ house-PL.DEF _ pancake-PL.DEF _ be.PRS good-PL
+\l The houses / The pancakes are good.
+
+\t Pannkakor är gott .
+\g pancake-PL be.PRS good.N.SG
+\l Situations involving pancakes are good.’ (e.g. `Eating pancakes is good.’)
+
+\t Att äta pannkakor är gott .
+\g to eat pancakes be.PRS good.N.SG
+\l Eating pancakes is good.
+
+\t Det är gott att äta pannkakor .
+\g it be.PRS good.N.SG to eat pancakes
+\l It is good to eat pancakes.
+
+\t Det är gott pannkakor .
+\g it be.PRS good.N.SG pancakes
+\l Intended: `It is good to eat pancakes.
+
+\t Oscar tog tåget till Stockholm .
+\g Oscar take.PST train.DEF to Stockholm
+\l *Oscar took the train to Stockholm.
+
+\t Oscar gav boken till läraren .
+\g Oscar give.PST book.DEF to teacher.DEF
+\l *Oscar gave the book to the teacher.
+
+\t Oscar sparkade till däcket .
+\g Oscar kick.PST to tyre.DEF
+\l *Oscar gave the tyre a kick.
+
+\t Hon njöt av att efter många år åter känna fast mark under fötterna .
+\g she enjoy.PST of ATT after many year again feel.INF solid ground under foot.PL.DEF
+\l *She enjoyed feeling solid ground under her feet again after many years.
+
+\t då alla börja(de) hata henne
+\g then everyone started hate her
+\l *Then everyone started hating her.
+
+\t Vi barn borde tas mera på allvar .
+\g we children should take.PASS more on serious
+\l We children should be taken more seriously.
+
+\t Dom ser ner på oss barn .
+\g they look down on us children
+\l They look down on us children.
+
+\t   Hela han   var täckt av lera
+\g _ whole he _ was covered of mud
+\l He was all covered in mud.
+
+\t   våra barn   åsikter
+\g _ our children _ opinions
+\l Intended: `we childrens opinions
+
+\t haffver herr Nils Bielke … rididt till herttigen
+\g has sir Nils Bielke _ ride.PTCP to duke.DEF
+\l has Sir Nils Bielke ridden to the duke’ (17th century; from : 263)
+
+\t Men min GuFar , har intet Fru Lotta orsak at wara swartsiuk
+\g but my god-father has not Madam Lotta reason to be jealous
+\l But my godfather, doesn’t Madam Lotta have reason to be jealous?’ (Gyllenborg, b. 1679)
+
+\t så är Juncker Torbiörn intet mas
+\g so is nobleman Torbjörn not miser
+\l Noble Torbjörn is not a miser’ (Gyllenborg, b. 1679)
+
+\t Men fast än hwarken de gamla sådane Lärosätt skulle älskat eller nyare frägdade Folckeslag dem älska
+\g but although than neither the ancient such lessons would love.PTCP or newer esteemed people.PL them love
+\l But although neither the ancient nor newer esteemed peoples would have loved such lessons’ (Argus)
+
+\t Utan vidare ceremonier , herr öfverste , gif mig åter min fostersyster . Hon tillhör inte er .
+\g without further ceremonies sir colonel give me back my foster.sister she belongs.to not you
+\l Without further ceremonies, Colonel, give me back my foster sister. She does not belong to you.’ (Jolin, b. 1818)
+
+\t Nej , maschär mär , ja vill inte dä
+\g no ma.chère mère I want not it
+\l No, ma chère mère, I don’t want that’ (Ristell, b. 1744)
+
+\t FREDRIC: Ja , men hvar före lydde han inte mäj , när ja befalte .
+\g Fredric yes but where fore obeyed he not me when I commanded
+\l The teacher: is it true that Baron Fredric has beaten the boy? Fredric: Yes, but why didn’t he obey me when I commanded?’ (Ristell, b. 1744)
+
+\t Hon har gifvit mig den aftalta vinken
+\g she has given me the agreed.upon wave.DEF
+\l She has waved at me as we agreed.’ (19th century; from : 280)
+
+\t Och hwilken Fader som gifwer sin Dotter til en Man som hon icke kan tåla
+\g and what father who gives POSS.REFL daughter to a man that she not can stand
+\l And what a father, who gives his daughter to a man that she can’t stand’ (18th century; from : 284)
+
+\t om vi skulle ge rum åt vår vän
+\g if we would give room for our friend
+\l if we would give room to our friend’ (18th century; from : 280)
+
+\t ok gaf gul ok self fatøco folke .
+\g and gave gold.N.SG.ACC and silver.N.SG.ACC poor.DAT people.N.SG.DAT
+\l and gave gold and silver to poor people’ (EOS; from : 280)
+
+\t Stevie Wonder tillägnade sin hustru konserten .
+\g Stevie Wonder dedicated POSS.REFL wife concert.DEF
+\l Stevie Wonder dedicated the concert to his wife.
+
+\t Hon erbjöds ett jobb .
+\g she offer.PST.PASS a job
+\l She was offered a job.
+
+\t Jobbet erbjöds henne .
+\g job.DEF offer.PST.PASS her
+\l The job was offered to her.
+
+\t en stor Bok
+\g a.C.SG great.C.SG book[C]
+\l a great book
+
+\t många kloka ord
+\g many.PL wise.PL word[N.PL]
+\l many wise words
+
+\t utländske Böcker
+\g foreign.PL book.PL
+\l foreign books
+
+\t den stora hopen
+\g the.C.SG large.DEF group.DEF.C.SG
+\l the large group
+
+\t det magra hufwudet
+\g the.N.SG meagre.DEF head.DEF.N.SG
+\l the meagre head
+
+\t Menniskian är högmodig .
+\g man.DEF.C.SG is conceited.C.SG
+\l Man is conceited.
+
+\t om en Satz är falsk eller sann
+\g if a.C.SG sentence[C] is false.C.SG or true.C.SG
+\l if a sentence is false or true
+
+\t detta omdömet är ädelt
+\g this.N.SG opinion.DEF.N.SG is noble.N.SG
+\l this opinion is noble
+
+\t fast de sielwa icke äro ostraffbare
+\g although they self.PL not be.PRS.PL unpunishable.PL
+\l although they are not unpunishable themselves’ (examples from Argus)
+
+\t han är din .
+\g M.3SG is yours.C/M.SG
+\l Take the rope and pull the sledge, so Father will believe that it is yours.’ (19th century; from SAOB)
+
+\t tenckia alt wel om sin öfwerhet , tala wel om henne
+\g think all well about POSS.REFL.C/F.SG authority[C/F] speak well of F.3SG
+\l think only well of their authority, speak well of it’ (18th century; from SAOB)
+
+\t se bLe där sätt fram ett feskefâd
+\g so become.PST there put.PTCP forth a.N.SG fish.plate[N]
+\l then, a fish plate was put on the table’ (Orust 27:2)
+
+\t Han erbjöds en lägenhet
+\g He.SBJ offer.PST.PASS an apartment
+\l He was offered an apartment
+
+\t En lägenhet erbjöds honom
+\g an apartment offer.PST.PASS him.OBJ
+\l He was offered an apartment
+
+\t rettferdighet hwilken mig skenckes
+\g justice which me.OBJ give.PRS.PASS
+\l justice that is given to me’ (SAOB skänka, 1709)
+
+\t honom måtte tillåtas een lägenhet uthi Götha rijkes hofrett .
+\g him.OBJ shall.PST allow.INF.PASS a prospect in Göta land.POSS court
+\l he should be guaranteed prospects at the court of appeal in Götaland’ (SAOB tillåta, 1646)
+
+\t … at frachten först biwdes borgare
+\g _ that cargo.DEF first offer.PRS.SG.PASS burghers
+\l … that the cargo is first offered to burgers’ (SAOB bjuda, 1529)
+
+\t Ett afskräckande exempel måste gifvas verlden
+\g a warning example must give.INF.PASS world.DEF
+\l The world must be given a warning example’ (SPF, 1841)
+
+\t swa lyptis jak vij sinnum hwar dagh a . xxx arum aff guz ænglum
+\g so lift.PST.SG.PASS I.NOM seven times each day in 30 years by God.POSS angel.PL.DAT
+\l I was lifted seven times each day for 30 years by God’s angels’ (Leg Bil, EOS, p. 273)
+
+\t Jag gav honom sin docka
+\g I give.PST him POSS.REFL doll
+\l I gave him his doll
+
+\t de i trångmål stadda grupperna måste lämnas allt möjligt bistånd
+\g the in trouble being group.PL.DEF must render.INF.PASS all possible help
+\l the groups in trouble must be given all possible help’ (SPF, 1900)
+
+\t Mången af oss fattige syndare förunnas det icke en så lång betänketid som han fått
+\g many of us poor sinners grant.PRS.PASS it not a such long time.for.consideration that he got.SUP
+\l For many of us, poor sinners, there is not such a long time for consideration granted as he had got’ (SPF, 1880)
+
+\t I en not tilldelas der Sara Widebeck en örfil
+\g in a note to-share.PRS.PASS there Sara Widebeck a box.on.the.ear
+\l In a note, Sara Widebeck is given a box on the ear’ (SPF, 1840)
+
+\t i samma stund mamsell Hagman der lemnades inträde
+\g in same moment miss Hagman there leave.PST.PASS entry
+\l just as Miss Hagman was given permission to enter there’ (SPF, 1841)
+
+\t det mått af bildning och kunskaper , våra barn kunde bibringas
+\g the amount of education and knowledge our children can.PST impart.INF.PASS
+\l the amount of education and knowledge that could be imparted to our children’ (SPF, 1886)
+
+\t Dessa orolige varelser som gifwits talande tungor
+\g these anxious creatures that give.SUP.PASS speaking tongues
+\l These anxious creatures that have been given speaking tongues’ (SPF, 1900)
+
+\t Glad öfver det bifall som skänktes detta hennes försök
+\g delighted over the applause that give.PST.PASS this her try
+\l Delighted at the applause that was given to this try of hers …’ (SPF, 1840)
+
+\t Hon var ganska lydig och snäll , men nekades just heller ingenting
+\g she be.PST quite obedient and kind but deny.PST.PASS really neither nothing
+\l She was quite obedient and kind, on the other hand, she was never denied anything’ (SPF, 1898)
+
+\t jag  var  utsedd att på en gång beröfvas allt hvad för mit hjerta utgjort sällhet och fröjd
+\g I was destined to at one time deprive.INF.PASS all what for my heart constitute.SUP happiness and joy
+\l I was destined to be deprived at the same time of everything that had been happiness and joy for me’ (SPF, 1840)
+
+\t Tha giwis gotz hans fore siäl hans , kirkium ok klostrum
+\g then give.PRS.SG.PASS property.NOM his for soul his church.PL.DAT and monastery.PL.DAT
+\l Then his property is given to churches and monasteries for his soul’ (legal text, early 14th century; from : 249)
+
+\t at them skulle witas thiwffnadher
+\g that them.DAT shall.PST.SG accuse.INF.PASS theft.SG.NOM
+\l in order to accuse them of the theft’ (Bible paraphrase, 1330s; from : 345)
+
+\t Hwadh orätt och swårigheeter som och omkostningar iag af denna Människian lider och påkastas
+\g what wrong and troubles as also costs I.SBJ by this person.DEF suffer.PRS.SG and on-throw.PRS.PASS
+\l Such troubles as well as costs that I suffer and that are thrown on me’ (SAOB påkasta, 1704)
+
+\t När människiom är något affstulit
+\g when human.beings.DAT be.PRS.SG something from-steal.PTCP
+\l When something is stolen from human beings’ (SAOB avstjäla, 1629)
+
+\t Lycklig derföre den … som besparades den svåra kampen
+\g happy therefore any _ that spare.PST.PASS the difficult struggle.DEF
+\l Therefore, anyone who was spared the difficult struggle ought to be happy’ (SPF, 1840)
+
+\t Då han sedan blef frisk och begärde äfven den tredje dagen vägrades detta honom
+\g when he then get.PST well and demand.PST also the third day.DEF refuse.PST.PASS this him.OBJ
+\l When he later on got well and asked for the third day also, he was refused this.’ (1900; SPF)
+
+\t Broder , dig gifves bilderna som en hälsning
+\g brother you.OBJ give.SG.PRS.PASS pictures.DEF as a greeting
+\l Brother, you are given the pictures as a greeting’ (SPF, 1900)
+
+\t jag ålägges böter för underlåten bevakning
+\g I.NOM on-lay.SG.PRS.PASS pentalty for withheld guard
+\l Penalty is laid upon me because of withheld guard’ (SPF, 1880)
+
+\t alt thz … som hanum giordhis for gudz sculd
+\g all that _ that him.DAT do.PST.SG.PASS for God.GEN sake
+\l everything … that was done to him in the name of God’ (Leg Bil, EOS, p. 119)
+
+\t rettferdighet … hwilken mig skenkes
+\g justice _ which me.OBJ give.PRS.SG.PASS
+\l justice that I am given’ (SAOB skänka, 1709)
+
+\t den arm , som erbjudes er
+\g the arm that offer.PRS.SG.PASS you.OBJ
+\l the arm that you are offered’ (SPF, 1849)
+
+\t att ersätta den fattige bonden all den skada honom tillfogats
+\g to compensate.INF the poor peasant.DEF all the damage him.OBJ to-add.SUP.PASS
+\l to compensate the poor peasant for all the damage that had been inflicted upon him’ (SPF, 1880)
+
+\t Pappa stickade/köpte/stal mig en tröja
+\g Daddy knit.PST/buy.PST/steal.PST me.OBJ a sweater
+\l Daddy knitted/bought/stole a sweater for me.
+
+\t Om fadren bevisligen vore rubbad till sina sinnen så skulle folket sedermera lätt kunna bibringas farhågan , att galenskap blefve sonens arfvedel
+\g if father.DEF obviously be.PST.SBJV deranged at POSS.REFL senses so would people.DEF later easily can.INF impart.INF.PASS fear.DEF that madness become.PST.SUBJV son.DEF.POSS heritage
+\l If it were proved that the father was mentally deranged, fear that madness would become the son’s heritage would possibly be imparted to the people’ (SPF, 1844)
+
+\t Små pillor och bekymmer gifwas mig wäl ibland
+\g small peddling.things and trouble give.PRS.PL.PASS me.OBJ certainly sometimes
+\l Certainly, I sometimes get troubles and small things to peddle at’ (Argus, 1732)
+
+\t tå then hedern igenom Feltmarskalken Gr . Dücher böds mig
+\g when this honour.DEF through field-marshal.DEF count Dücher offer.PST.SG.PASS me.OBJ
+\l when I was offered this mark of honour thanks to Field Marshal Count Dücher’ (Reuterholm, 1730–1740)
+
+\t Äsch , den där slöfocken PELLE kommer det erbjudas
+\g ugh the that dullard.DEF Pelle will it offer.INF.PASS
+\l What about the job you applied for? Ugh, it was offered to that dullard Pelle
+
+\t som redan hade vållat honom idel elände
+\g which already had caused him nothing_but misery
+\l The remains of a fruitless and pointless religion, which had already caused him nothing but misery’ (1976–1999)
+
+\t om jag i stället kunde beröva honom hans glädje ?
+\g if I in stead could deprive him his happiness
+\l Would it perhaps be a triumph, she pondered bitterly, if instead I could deprive him of his happiness?’ (1976–1999)
+
+\t Mats planerar att bygga dem en ny villa
+\g Mats plans to build them a new house
+\l Mats is planning to build them a new house’ (1976–1999)
+
+\t en familj härborta ska visa oss sin nya lägenhet
+\g a family over_here will show us their new apartment
+\l a family over here is going to show us their new apartment’ (1976–1999)
+
+\t Hindiah lät framsatta silfwerpannan och tända eld , för att bereda oss den aromatiska kaffedryck , som endast rätt kan tillagas och njutas i sitt hemland , Indien .
+\g Hindiah let put_forth silver_kettle:DEF and light fire for to prepare us that aromatic coffee_drink which only rightly can be_made and be_relished in its homeland India
+\l Hindiah had the silver kettle put forth and a fire lit, in order to prepare us that aromatic coffee drink, which can only be rightly made and relished in its homeland, India’ (1800–1844)
+
+\t Och det skulle bereda mig det största nöje !
+\g and that would cause me the greatest pleasure
+\l And that would bring me the greatest pleasure!’ (1976–1999)
+
+\t men kammarpigan berättade hans svar för sin fröken , hvilken leende lemnade henne en flaska malörtsdroppar
+\g but maid.DEF told his answer to her lady who smiling handed her a bottle wormwood_tincture
+\l but the maid told his answer to her lady, who smiling handed her a bottle of wormwood tincture’ (1800–1844)
+
+\t en iskall närgången vind som inte lämnade henne någon ro
+\g an icy intrusive wind that not gave her any peace
+\l an icy creeping wind that didn’t give her any peace’ (1976–1999)
+
+\t jag besvor henne att säga mig orsaken till sin förändring
+\g I urged her to tell me reason:DEF for her change
+\l I urged her to tell me the reason for her change’ (1800–1844)
+
+\t på knä besvor jag honom , att säga mig sin sorg .
+\g on knee urged I him to say me his sorrow
+\l on my knees I urged him to tell me his sorrow.’ (1800–1844)
+
+\t Jag tänker hitta honom och minsann säga honom ett sanningens ord .
+\g I intend find him and indeed tell him a truth:DEF.POSS word
+\l I intend to find him and tell him a word of truth indeed.’ (1976–1999)
+
+\t Harry tyckte inte om kritik – säg mig den poet som gör det
+\g Harry thought not about criticism _ say me the poet who does that
+\l Harry didn’t like to be criticized – but what poet does?’ (1976–1999)
+
+\t Hon hemtade sig likwäl snart och räckte honom handen med en obeskrifligt mild wänlighet
+\g she recovered REFL nevertheless soon and handed him hand:DEF with an indescribably gentle kindness
+\l Nevertheless, she soon recovered and extended her hand to him with an indescribably gentle kindness’ (1800–1844)
+
+\t Han stannade och hon räckte honom ficklampan .
+\g he stopped and she handed him torch:DEF
+\l He stopped and she handed him the torch.’ (1976–1999)
+
+\t Grefvinnan Piper omfattade med nöje tillfället att vara en person nyttig , som under hennes olycka visat henne uppmärksamhet .
+\g countess:DEF Piper embraced with pleasure opportunity:DEF to be a person useful who during her misfortune shown her attention
+\l Lady Piper embraced with pleasure the opportunity to be of use to a person, who had paid attention to her during her misfortune.’ (1800–1844)
+
+\t Han tog upp sin plånbok ur fickan och visade oss en papperslapp .
+\g he took up his wallet out_of pocket:DEF and showed us a piece_of_paper
+\l He took his wallet out of his pocket and showed us a piece of paper.’ (1976–1999)
+
+\t Min längtan beröfvar mig all upmärksamhet på de föremål som verkeligen omgifva mig .
+\g my longing deprives me all attention to those items that really surround me
+\l My longing deprives me of all attention to those items that really surround me.’ (1800–1844)
+
+\t Vore det kanske en triumf , tänkte hon bittert , om jag i stället kunde beröva honom hans glädje ?
+\g Were it perhaps a triumph pondered she bitterly if I in stead could deprive him his happiness
+\l Would it perhaps be a triumph, she pondered bitterly, if instead I could deprive him of his happiness?’ (1976–1999)
+
+\t Det berusade folket uppreste sig för att erbjuda honom kejsarkronan
+\g the exalted people:DEF rose REFL for to offer him imperial-crown:DEF
+\l The exalted people rose to offer him the imperial crown’ (1800–1844)
+
+\t Han erbjöd mig en valp , men det var en katt jag önskade
+\g he offered me a puppy but it was a cat I wanted
+\l He offered me a puppy, but I actually wanted a cat.’ (1976–1999)
+
+\t Det är förgäfves du söker ingifva mig en styrka som jag icke äger .
+\g it is in.vain you seek infuse me a strength that I not possess
+\l You seek to infuse me with a strength I don’t possess, all in vain.’ (1800–1844)
+
+\t Hennes hundar lågo drottningen ständigt ömt på hjertat och kostade henne ej obetydliga summor .
+\g her dogs lay queen:DEF always tenderly on heart:DEF and cost her not insignificant amounts
+\l Her dogs were always close to the queen’s heart and they cost her no insignificant amounts of money.’ (1800–1844)
+
+\t Men det var en dyrköpt seger , den hade varit nära att kosta honom livet .
+\g but it was a hard_won victory it had been close to cost him life:DEF
+\l But it was a hard-won victory, it had almost cost him his life.’ (1976–1999)
+
+\t Och nu har du till råga på allt skaffat mig det här extra eländet
+\g and now have you on top of all obtained me that here extra misery:DEF
+\l And now, on top of it all, you have brought me this misery’ (1898–1901)
+
+\t ville han ändå inte att de skulle skaffa honom ett anständigt hus ?
+\g wanted he after_all not that they would obtain him a decent house
+\l didn’t he after all want them to get him a decent house?’ (1976–1999)
+
+\t Var god och skicka mig biljetterna vid tillfälle
+\g be kind and send me ticket:DEF.PL at opportunity
+\l Please send me the tickets when you have the opportunity’ (1800–1844)
+
+\t Han skickade honom sina dikter med ett ödmjukt och bönfallande brev .
+\g he sent him REFL poems with a humble and pleading letter
+\l He sent him his poems with a humble and pleading letter.’ (1976–1999)
+
+\t Charlotte vann sådan nåd för konungens ögon , att han skänkte henne sitt eget etui af guld , som han alltid bar i fickan .
+\g Charlotte won such mercy for king:DEF.POSS eyes that he gave her his own case of gold which he always carried in pocket:DEF
+\l Charlotte gained such mercy in the king’s eyes, that he gave her his own case of gold, which he always carried in his pocket.’ (1800–1844)
+
+\t En av bönderna tyckte synd om honom och skänkte honom en avlagd fårskinnspäls
+\g one of farmer:DEF.PL felt sorry for him and gave him a disused sheepskin_coat
+\l One of the farmers felt sorry for him and gave him a hand-me-down sheepskin coat.’ (1976–1999)
+
+\t Minnet skänker honom glädje och han ler igen och vinkar .
+\g Memory:DEF gives him joy and he smiles again and waves
+\l The memory gives him joy and he smiles again and waves.’ (1976–1999)
+
+\t Man gaf henne en kortlek , den hon genast började rangera
+\g INDEF gave her a deck_of_cards which she instantly started arrange
+\l They gave her a deck of cards, which she instantly started to put in order’ (1800–1844)
+
+\t Hans upprörda ansigte gaf mig anledning att tro honom hafva inlåtit sig i någon envigssak
+\g his upset face gave me reason to believe him have engaged REFL in some duel_case
+\l His upset-looking face gave me reason to believe that he had gotten himself involved in some case related to a duel’ (1800–1844)
+
+\t Då ska jag ge er en smörgås
+\g then will I give you a sandwich
+\l Then I will give you a sandwich’ (1976–1999)
+
+\t Han gav mig en misstänksam blick .
+\g He gave me a suspicious look
+\l He gave me a suspicious look.’ (1976–1999)
+
+\t Hon ställde in mjölken i kylskåpet .
+\g she put in milk.DEF in refrigerator.DEF
+\l She put the milk in the refrigerator.
+
+\t Hon ställde in konserten .
+\g she put in concert.DEF
+\l She cancelled the concert.
+
+\t he danced in room .DEF
+\g * (atelic, locative PP)
+\l He danced in the room.
+
+\t Han dansade sönder sina skor på fem minuter .
+\g he danced broken POSS.REFL shoes in five minutes
+\l He danced his shoes broken in five minutes.
+
+\t Han dansade sina skor i/på fem minuter .
+\g he danced POSS.REFL shoes for/in five minutes.’
+\l He danced his shoes for/in five minutes.
+
+\t Han stängde (igen) fönstret .
+\g he closed PART window.DEF
+\l He closed the window.
+
+\t Hon körde honom hem .
+\g she drove him home
+\l She drove him home.
+
+\t Hon torkade den ren .
+\g she wiped it clean
+\l She wiped it clean.
+
+\t skriva PÅ kontraktet
+\g write PART contract.DEF
+\l sign the contract
+
+\t SKRIVA på en bit papper
+\g write on a piece paper
+\l write on a piece of paper
+
+\t På kontraktet skrev jag .
+\g PART contract.DEF wrote I
+\l Intended: ‘The contract, I signed.
+
+\t På en bit papper skrev jag .
+\g on a piece paper wrote I
+\l On a piece of paper, I wrote.
+
+\t Hon gav honom rejält med stryk , men ihjäl slog hon honom inte .
+\g she gave him properly with beating but PART beat she him not
+\l She gave him a proper beating, but she didn’t beat him to death.
+
+\t Kysst har jag henne inte , bara hållit henne i handen .
+\g kissed have I her not only held her in hand.DEF
+\l I haven’t kissed her, only held her hand.
+
+\t Kontraktet blev påskrivet .
+\g contract.DEF was PART-write.PTCP
+\l The contract was signed.
+
+\t Kontraktet har blivit skrivet på .
+\g contract.DEF has been write.PTCP on
+\l The contract has been written on.’ (pseudopassive)
+
+\t Hon hoppade i vattnet .
+\g she jumped in water.DEF
+\l She jumped into the water.
+
+\t Hon HOPPADE i vattnet .
+\g she jumped in water.DEF
+\l She jumped in the water.
+
+\t I vattnet hoppade hon .
+\g in water.DEF jumped she
+\l She jumped in the water
+
+\t Det var över gatan hon gick .
+\g it was over street.DEF she went
+\l It was across the street she went.' (: 12b)
+
+\t Hon kastade upp honom i luften .
+\g she threw up him in air.DEF
+\l She threw him up in the air.
+
+\t Hon kastade honom upp i luften .
+\g she threw him up in air.DEF
+\l She threw him up in the air.’ (Lindgren, Känner du Pippi Långstrump, 1947)
+
+\t Upp i luften kastade hon honom .
+\g up in air.DEF threw she him
+\l She threw him up in the air.’ (from )
+
+\t Hon klädde upp sig igår .
+\g she dressed up REFL yesterday
+\l She dressed up yesterday.
+
+\t þa skal lanz asyn næmnæ til
+\g then shall land.GEN inspection appoint.INF PART
+\l then shall an inspection of the land be appointed’ (EWL, 13th c.; from Falk p.c.)
+
+\t ær vnöt ær
+\g which unnecessary is
+\l shall then take away all the dowry that is necessary’ (EWL, 13th c.; from )
+
+\t oc brøt mang slot nid
+\g and tore many castles down
+\l and tore down many castles’ (Didrik, ca. 1450, p. 32)
+
+\t slog swerdit sunder
+\g broke sword.DEF PART
+\l broke the sword’ (Didrik, ca. 1450, p. 48)
+
+\t Sände så in till Stocholm en gammall Biscop , benempd…
+\g sent so in to Stockholm an old Bishop called
+\l then sent into Stockholm an old Bishop, called…’ (Swart 1560: 4)
+
+\t skött han eelden in på Staden
+\g shot he fire.DEF in on town.DEF
+\l he shot in fire on the town’ (Swart 1560: 30)
+
+\t burit Wedh och Eeld up i Huuset
+\g carried wood and fire up to house.DEF
+\l carried wood and fire up to the house’ (Kiöping, b. 1621, p. 66)
+
+\t när hon skule kläda på mig
+\g when she would dress PART me
+\l when she would dress me’ (Horn, b. 1629, p. 38)
+
+\t så torde di inte häler så gå åt oss
+\g so dared they not either so go PART us
+\l so didn’t they dare to get at us so, either’ (Horn, b. 1629, p. 11)
+
+\t at iag icke länge sedan har gråtit vt dem
+\g that I not long ago have cried out them
+\l that I hadn’t long ago cried them [my eyes] out’ (Horn, b. 1629, p. 38)
+
+\t Och toge de mig vp
+\g and took they me up
+\l and they took me up’ (Horn, b. 1629, p. 29)
+
+\t tvungit ut dem
+\g forced out them
+\l forced them out’ (Modée, b. 1698)
+
+\t åto up dem så råa som de voro
+\g ate up them as raw as they were
+\l ate them up as raw as they were’ (Salvius, b. 1706, chapter 79)
+
+\t skulle betala det ut
+\g would pay it out
+\l would pay it out’ (Modée, b. 1698)
+
+\t kände mig igen
+\g recognize me PART
+\l recognized me’ (Salvius, b. 1706, chapter 76)
+
+\t Iag kune kläda på mig
+\g I could dress PART REFL
+\l I could dress myself’ (Horn, b. 1629, p. 65)
+
+\t sedan vi hade väl friskat up oss
+\g as we had well freshened up REFL
+\l as we had freshened up well’ (Salvius, b. 1706, chapter 21)
+
+\t om wåra förfäder skulle nu sätta sina hufwuden upp
+\g if our forefathers would now put their heads up
+\l if our forefathers would now put their heads up’ (Dalin, b. 1708)
+
+\t Skulle han lösa sin fas hus in
+\g would he redeem POSS.REFL father’s house PART
+\l would he redeem his father’s house’ (Horn, b. 1629, p. 52)
+
+\t skrifwit min h är  f ar  til
+\g written my sir father to
+\l written to my father’ (Horn, b. 1629, p. 49)
+
+\t Sedan taga the Blyringarna aff
+\g then take they lead.ring.PL.DEF off
+\l then they take off the lead rings’ (Kiöping, b. 1621, p. 98)
+
+\t Måste sluta alla wåra lukor till
+\g must close all our hatches PART
+\l must close all our hatches’ (Kiöping, b. 1621, p. 44)
+
+\t kasta mig in til fru eba
+\g threw me in to Madam Ebba
+\l threw me in to Madam Ebba’ (Horn, b. 1629, p. 13)
+
+\t Och gaf mig inte öfwer för någet litet
+\g and gave me not PART for something small
+\l and didn’t abandon me for a small thing’ (Horn, b. 1629: 24)
+
+\t När han gaf hene någet , sade iag: Hwar_före gefwa i inte mig och
+\g when he gave her something said I why give you not me too
+\l When he gave her something, I said: Why don’t you give me, too’ (Horn, b. 1629, p. 78)
+
+\t Kalle borde idag ha kastat ut hunden .
+\g Kalle should today have thrown out dog.DEF
+\l Kalle should have thrown out the dog today.
+
+\t Det har aldrig stått ut någon med det .
+\g it has never stood out anyone with that
+\l No one has ever endured that.
+
+\t bleff … förd vth till galgan
+\g was _ taken out to gallows.DEF
+\l was taken out to the gallows’ (Swart, 1560, p. 40)
+
+\t blef sat in i kiörkan den sama hösten
+\g was put in to church.DEF the same fall.DEF
+\l was put in the church the same fall’ (Horn, b. 1629, p. 14)
+
+\t Han gjorde sig oumbärlig genom att alltid vara steget före .
+\g he made REFL indispensable through IM always be.INF step.DEF before
+\l He made himself indispensable by always being one step ahead.
+
+\t Då jag efter att ha likafullt gått ut … åter tillbaka kom holt jag före att man borde i så critiqva omständigheter ej våga dröja längre utan strax gjöra Revolten .
+\g as I after IM have.INF nevertheless gone.SUP out … again back came held I for that one should in such critical circumstances not dare wait longer but soon make revolt.DEF
+\l As I, after nevertheless having gone out, came back, I meant that one should, in such critical conditions, not dare to wait any longer but immediately begin the revolt.’ (Ehrensvärd, 1779, p. 6)
+
+\t konsten segrar icke genom att trotsa , utan genom att följa naturen
+\g art.DEF prevails not through IM defy.INF but through IM follow.INF nature.DEF
+\l Art will not prevail by defying, but by following nature’ (von Unge, 1829)
+
+\t Jag skulle omöjeligen kunna inbilla mig det
+\g I would impossibly be.able imagine REFL it
+\l I couldn’t possibly imagine that’ (1A503)
+
+\t at okänd få sluta mina dagar här i denna skogspark
+\g to unknown get end my days here in this forest.park
+\l to have to die unknown here in this forest park’ (2E101)
+
+\t när winet likwäl skulle wid tullen eller uplastningen proberas
+\g when wine.DEF nevertheless would at customs.DEF or unloading.DEF be.investigated
+\l when the wine would nevertheless be investigated at the customs or at the unloading’ (1E101)
+
+\t at I ej länge få derutinnan framhärda
+\g that you not long may in.this.thing persevere
+\l that you don’t need to persevere for a long time in this matter’ (1B502)
+
+\t fickv  IP vi nog tv ta hand om sedan .   
+\g get.PST _ we probably _ take.INF hand about later
+\l We came to the conclusion that we would probably have to
+
+\t  IP man ju tv ledsen .   
+\g _ one of_course _ sad.
+\l Of course, then you become sad.
+
+\t ärv  IP knappast tv rumsrena än .   
+\g be.PRS _ hardly _ housebroken yet
+\l The puppies are too small to be transported.
+
+\t om han gillar det .   
+\g whether he like.PRS it
+\l I have bought Kalle a necklace. However, I do not
+
+\t Han pluggar på universitetet . Fast att jag vet inte om han gillar det .
+\g he study.PRS on university.DEF although that I know.PRS not whether he like.PRS it
+\l He studies at university. However, I do not know if he likes it.
+
+\t inte tv bli behandlad .   
+\g not _ become.INF treat.PTCP
+\l Anna went home, because she did not want
+
+\t skälldev  IP helt enkelt tv ut honom .   
+\g scold.PST _ whole simple _ out him
+\l She was so angry that she simply scolded him.
+
+\t instängd .   
+\g trap.PTCP
+\l In the end, I was actually trapped.
+
+\t ådem särskilt gröd
+\g eat.PST.1PL particularly porridge
+\l I cannot remember that there was a particular tradition for us to have porridge’ (Strå)
+
+\t Hon fick lite hjälp av sina grannar
+\g she got little.N.SG help of POSS.REFL neighbours
+\l She got little/some help from her neighbours
+
+\t Jag önskar Er lycka , Cousin , mycken lycka !
+\g I wish you.OBJ happiness, cousin, much.C.SG happiness.C.SG
+\l I wish you happiness, (my) cousin, much happiness’ (1B)
+
+\t Nå , nu lär Ni väl föra mycket varor med Er ?
+\g well now AUX you DM bring much.N.SG merchandise.PL with you.OBJ
+\l Well, now you will bring much merchandise with you’ (2C)
+
+\t Lite sill har jag gudskelov
+\g little herring.C.SG have I god.be.praised
+\l Little/some herring, I have, thank god’ (5B)
+
+\t så skulle mycket ondt kunna undvikas
+\g so should much.N.SG evil.N.SG be.able.to be.avoided
+\l In that way, a lot of evil should possibly be avoided’ (4B)
+
+\t mycken oro
+\g much.C.SG unrest.C.SG
+\l much unrest
+
+\t myckna tårar
+\g much.PL tears.PL
+\l much tears
+
+\t det myckna skrivandet
+\g the much.DEF writing.N.SG
+\l the abundant writing
+
+\t mycket mjölk
+\g much.N.SG milk.C.SG
+\l much milk
+
+\t mycket pengar
+\g much.N.SG money.PL
+\l much money
+
+\t mycket kött
+\g much.N.SG meat.N.SG
+\l much meat
+
+\t mycket folk
+\g much.N.SG people.N.SG/PL
+\l much people
+
+\t Men en sten har man mycket liten användning för
+\g but a stone has one very little.C.SG use.C.SG for
+\l You only have very little use for a stone’ (5H)
+
+\t Junkaren Tusenskön , som har litet pengar
+\g young.man.DEF T. who has little.N.SG money.PL
+\l Young T., who has little money’ (2C)
+
+\t Nu får du lite böcker
+\g Now get you.SG little.N.SG book.PL
+\l Now, you will get some books’ (6C)
+
+\t Han har fått ‘MYke pengar .
+\g he has received much money
+\l He has received lots of money.
+
+\t Hon har blivit ‘MYke klokare .
+\g she has become much wiser
+\l She has become much wiser.
+
+\t Han har inte FÅTT ˌmyke pengar .
+\g he has not received much money
+\l He has not received very much money.
+
+\t Hon har inte BLIvit ˌmyke klokare .
+\g she has not become much wiser
+\l She hasn’t become very much wiser.
+
+\t Han har FÅTT ˌlite pengar .
+\g he has received little money
+\l He has received some money.
+
+\t Hon har BLIvit ˌlite klokare .
+\g she has become little wiser
+\l She has become a little bit wiser.
+
+\t Han har inte FÅTT ˌlite pengar .
+\g he has not received little money
+\l He hasn’t received any money.
+
+\t Hon har inte BLIvit ˌlite klokare .
+\g she has not become little wiser
+\l She hasn’t become a little bit wiser.
+
+\t Har hon fått ˌlite pengar ?
+\g has she received little money
+\l Has she received some money?
+
+\t Vem kan skala ˌlite potatis ?
+\g who can peel little potatoes
+\l Who wants to peel some potatoes?
+
+\t Om du har fått ˌlite pengar , så…
+\g if you.SG have received little money, then…
+\l If you have received some money, then…
+
+\t Hon var lika djupt (*som oss)  VP sårad över hans tystnad  .
+\g she was equally deeply as us _ hurt by his silence
+\l She was hurt by his silence equally deeply as us.
+

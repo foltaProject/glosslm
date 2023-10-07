@@ -1,0 +1,416 @@
+\t Òbí hụ̀rụ̀ Àdá n’áhị́á .
+\g Obi saw Ada P-market
+\l Òbí saw Àdá at the market.’ declarative
+
+\t Ònyé (*kà) hụ̀rụ̀ Àdá n’áhị́á ?
+\g who FOC saw Ada P-market
+\l Who saw Àdá at the market?’ SU question
+
+\t Ònyé *(kà) Òbí hụ̀rụ̀ n’áhị́á ?
+\g who FOC Obi saw P-market
+\l Who did Òbí see at the market?’ DO question
+
+\t Èbéē *(kà) Òbí hụ̀rụ̀ Àdá ?
+\g where FOC Obi saw Ada
+\l Where did Òbí see Àdá?’ ADJ question
+
+\t Ònyé *(kà) Òbí nyèrè égō ?
+\g who FOC Obi gave money
+\l Who did Òbí give money to?’ IO question
+
+\t Òbí nyèrè Àdá égō nà ḿgbèdè .
+\g Obi gave Àdá money P evening
+\l Òbí gave Àdá money in the evening.
+
+\t Àdá hụ̀rụ̀ Òbí .
+\g Ada saw Obi
+\l Àdá sees Òbí.
+
+\t Àdá gààhụ́ Òbí .
+\g Ada FUT-PFX-see Obi
+\l Àdá will see Òbí.
+
+\t Àdá áhụ̄ghị́ Òbí .
+\g Ada PFX-see-NEG Obi
+\l Àdá does not see Òbí.
+
+\t Àdá ágāghị́ àhụ́ Òbí .
+\g Ada PFX-FUT-NEG see Obi
+\l Àdá will not see Òbí.
+
+\t Òléē ónyé kà Àdá hụ̀rụ̀ n’áhị́á ?
+\g which person FOC Ada saw P-market
+\l Which person did Àdá see at the market?
+
+\t Òbí hụ̀rụ̀ Àdá n’Àbá .
+\g Obi saw Ada P-Aba
+\l Òbí saw Àdá in Àbá.’ declarative
+
+\t Òbí hụ̀rụ̀ ònyé (*kà) n’Àbá ?
+\g Obi saw who (FOC) P-Aba
+\l Who did Òbí see in Àbá?’ in-situ wh-DO
+
+\t Òbí hụ̀rụ̀ Àdá n’èbéē (*kà) ?
+\g Obi saw Ada P-where (FOC)
+\l Where did Òbí see Àdá?’ in-situ wh-ADJ
+
+\t Úchè chèrè nà Òbí hụ̀rụ̀ Àdá n’áhị́á .
+\g Uche thinks that Obi saw Ada P-market
+\l Úchè thinks that Òbí saw Àdá at the market.’ declarative
+
+\t Ònyé *(kà) Úchè chèrè ___ hụ̄rụ̄ Àdá n’áhị́á ?
+\g who FOC Uche thinks  saw Ada P-market
+\l Who does Úchè think saw Àdá at the market?’ SU question
+
+\t Ònyé *(kà) Úchè chèrè nà Òbí hụ̀rụ̀ ___ n’áhị́á ?
+\g who FOC Uche thinks that Obi saw P-market
+\l Who does Úchè think that Òbí saw at the market?’ DO question
+
+\t   Òléē fòtó   ònwé yā     (kà) Òbí hụ̀rụ̀ ___ ?
+\g  which picture  SELF 3SG.ACC  FOC Obi saw
+\l Which picture of himself did Òbí see?’ DO question
+
+\t Òlée baby yā Úchè si nà nwátà ọ̀bụ́là hụ̀rụ̀ n’ányá kárị́chá ?
+\g which toy 3SG Uche say that child every see P-eye exceed.all
+\l Which of his toys does Úchè say that every child likes best?
+
+\t Úchè si nà Àdá hụ̀rụ̀ bọ́llụ̀ yá n’ányá kárị́chá , Òbí hụ̀rụ̀ ńkítā yā n’ányá kárị́chá , mà Ézè hụ̀rụ̀ búsù yā n’ányá kárị́chá .
+\g Uche say that Ada see ball 3SG P-eye exceed.all, Obi see dog 3SG P-eye exceed.all and Eze see cat 3SG P-eye exceed.all
+\l Úchè says that Àdá likes her ball best, Òbí likes his dog best, and Ézè likes his cat best.
+
+\t Gị́nị̄ kà í chèrè nà ónyé ọ̀bụ́là gàéwètá nà m̀mèmé ?
+\g what FOC 2SG think that person every FUT-bring P party
+\l What do you think that everybody will bring to the party?
+
+\t Ḿ chèrè nà Àdá gàéwètá òsíkápá , Òbí gàéwètá ánụ̄ , mà Úchè gàéwètá ḿmányá .
+\g I think that Ada FUT-bring rice, Obi FUT-bring meat and Uche FUT-bring wine
+\l I think that Àdá will bring rice, Òbí will bring meat and Úchè will bring wine.
+
+\t Ó chèrè nà Òbí hụ̀rụ̀ Àdá .
+\g 3SG.NOM think that Obi saw Ada
+\l S/he thinks that Obi saw Ada.’ declarative
+
+\t Ònyé kà ó chèrè nà Òbí hụ̀rụ̀ ___ .
+\g who FOC 3SG.NOM think that Obi saw
+\l *for which x, x thinks that Obi saw x ✓for which x, y thinks that Obi saw x DO question
+
+\t Ònyé kà ó chèrè ___ hụ̄rụ̄ Àdá .
+\g who FOC 3SG.NOM think saw Ada
+\l *for which x, x thinks that x saw Ada ✓for which x, y thinks that x saw Ada SU question
+
+\t *Ònyé Obi (kà) hụ̄rụ̄ (kà) ___ nà m̀gbèdè (kà) n’áhị́á (kà) ?
+\g who Obi (FOC) saw (FOC) P evening (FOC) P-market (FOC)
+\l Who did Òbí see in the evening at the market?
+
+\t *Kà Òbí hụ̀rụ̀ Àdá
+\g FOC Obi saw Ada
+\l Òbí saw Àdá.
+
+\t   N’áhị́á (*kà) óchíè   kà Òbí hụ̀rụ̀ Àdá ___ .
+\g  P-market (FOC) old FOC Obi saw Ada
+\l Òbí saw Àdá at the old MARKET.’ (and not at the old farm)
+
+\t Ákwúkwọ̄ àhụ́ , ònyé kà Òbí nyèrè ___ yā ?
+\g book DEM who FOC Obi gave 3SG.ACC
+\l As for the book, who did Òbí give it to?’ DO topic + IO question
+
+\t Ònyé kà Òbí hụ̀rụ̀ n’èbéē ?
+\g whom FOC Obi saw P-where
+\l Who did Òbí see where?
+
+\t N’èbéē kà Òbí hụ̀rụ̀ ònyé ?
+\g P-where FOC Obi saw whom
+\l Who did Òbí see where?
+
+\t *Ònyé kà n’èbéē kà Òbí hụ̀rụ̀ ?
+\g whom FOC where FOC Obi saw
+\l Who did Òbí see where?
+
+\t Úchè chèrè nà Òbí hụ̀rụ̀ / *hụ̄rụ̄ Àdá n’áhị́á .
+\g Uche thinks that Obi saw  Ada P-market
+\l Úchè thinks that Òbí saw Àdá at the market.’ declarative
+
+\t Ònyé kà Úchè chèrè ___ hụ̄rụ̄ / *hụ̀rụ̀ Àdá n’áhị́á ?
+\g who FOC Uche thinks saw  Ada P-market
+\l Who does Úchè think saw Àdá at the market?’ SU question
+
+\t Ònyé kà Úchè chèrè nà Òbí hụ̀rụ̀ / *hụ̄rụ̄ ___ n’áhị́á ?
+\g who FOC Uche thinks that Obi saw  P-market
+\l Who does Úchè think that Òbí saw at the market?’ DO question
+
+\t Ònyé hụ̀rù / *hụ̄rụ̄ Àdá n’áhị́á ?
+\g who saw  Ada P-market
+\l Who saw Àdá at the market?’ SU question
+
+\t Úchè mà ónyé   OP ___ hụ̄rụ̄ / *hụ̀rụ̀ Àdá n’áhị́á   .
+\g Uche knows person  saw  Ada P-market 
+\l Úchè knows the person who saw Àdá at the market.’ SU-RC
+
+\t Úchè mà ónyé   OP Òbí hụ̀rụ̀ / *hụ̄rụ̄ ___ n’áhị́á   .
+\g Uche knows person  Obi saw  P-market 
+\l Úchè knows the person who Òbí saw at the market.’ DO-RC
+
+\t Ònyé kà     Úchè hụ̀rụ̀ ___ n’ányá   mà   Àdá kpọ̀rọ̀ ___ ásị̀     ?
+\g who FOC  Uche see P-eye and  Ada bear hatred 
+\l Who does Úchè love and Àdá hate?’ DO-ATB
+
+\t Ònyé     hụ̀rụ̀ Òbí n’ányá   mà   kpọ̀ Ézè ásị̀    ?
+\g who   see Obi P-eye  and  bear Eze hatred 
+\l Who loves Òbí and hates Ézè?’ SU-ATB
+
+\t *Ònyé (kà)     Úchè hụ̀rụ̀ ___ n’ányá   mà   kpọ̀ Ézè ásị̀     ?
+\g who FOC  Uche see P-eye  and  bear Eze hatred 
+\l Intended: ‘Who does Uche like and hates Eze?
+
+\t Ụ́jọ̄ nààtụ́ gị̄ .
+\g fear PROG-grip 2SG.ACC
+\l You are afraid.’ (Lit. ‘Fear is gripping you.’)
+
+\t Ị́ nààtụ́ ụ́jọ̄ .
+\g 2SG.NOM PROG-grip fear
+\l You are afraid.’ (Lit. ‘You are gripped by fear.’)
+
+\t Ònyé *(kà) ụ́jọ̄ nààtụ́ ___  ?
+\g who FOC fear PROG-grip 
+\l Who is afraid?’ (Lit. ‘Who is fear gripping?’)
+
+\t Ònyé (*kà)___ nààtụ́ ụ́jọ̄ ?
+\g who  PROG-grip fear
+\l Who is afraid?’ (Lit. ‘Who is gripped by fear?’)
+
+\t Úchè chèrè *(nà) Òbí hụ̀rụ̀ Àdá n’áhị́á .
+\g Uche thinks that Obi saw Ada P-market
+\l Úchè thinks that Òbí saw Àdá at the market.’ declarative
+
+\t Ònyé kà Úchè chèrè (*nà) ___ hụ̄rụ̄ Àdá n’áhị́á ?
+\g who FOC Uche thinks (*that)  saw Ada P-market
+\l Who does Úchè think saw Àdá at the market?’ SU question
+
+\t Ònyé kà Úchè chèrè *(nà) Òbí hụ̀rụ̀ ___ n’áhị́á ?
+\g who FOC Uche thinks that Obi saw  P-market
+\l Who does Úchè think that Òbí saw at the market?’ DO question
+
+\t Ònyé kà Úchè chèrè sí ___ hụ̄rụ̄ Àdá n’áhị́á ?
+\g who FOC Uche thinks that  saw Ada P-market
+\l Who does Uche think saw Ada at the market?
+
+\t Ònyé kà Úchè chèrè nà ọ̀ hụ̀rụ̀ Àdá n’áhị́á ?
+\g who FOC Uche thinks that 3SG.NOM saw Ada P-market
+\l Who does Uche think s/he saw Ada at the market?
+
+\t Gị́nị̄ kà Àdá ágụ̄ghị́ ?
+\g what FOC Ada PFX-read-NEG
+\l What did Àdá not read?
+
+\t Àdá ágụ̄ghị́ gị́nị̄ ?
+\g Ada PFX-read-NEG what
+\l What did Àdá not read?
+
+\t Òbí hụ̀rụ̀ Àdá n’èbéē ?
+\g Obi saw Ada P-where
+\l Where did Òbí see Àdá?
+
+\t *Gínī kà Àdá gòsìrì ònyé   túpù ọ̀ nyé pg₁ pg₂   ?
+\g what FOC Ada show who  before she give pg pg 
+\l Lit. ‘What did Ada show whom before she gave (it to him)?
+
+\t *Èbéē kà Òbí hụ̀rụ̀ Àdá   nà ___   ?
+\g where FOC Obi saw Ada  P 
+\l Lit. ‘Where did Òbí see Àdá at?
+
+\t Àdá , Úchè pụ̀rụ̀ túpú Òbí àhụ́ *(yā) n’áhị́á .
+\g Ada Uche left before Obi saw 3SG.ACC P-market
+\l As for Àdá, Úchè left before Òbí saw her at the market.’ topicalization from ADJ-island
+
+\t Gị́nị̄ kà ònyé chèrè nà Òbí nyèrè Àdá ___ ?
+\g what FOC who think that Obi gave Ada
+\l What does who think that Òbí gave to Àdá?
+
+\t   Àdá nà Úchè   zùrù .
+\g  Ada and Uche met
+\l Àdá and Úchè met each other.
+
+\t *Ònyé kà ó hụ̀rụ̀ Àdá ?
+\g who FOC 3SG.NOM saw Ada
+\l Lit. ‘Who s/he saw Àdá?’ (intended: ‘Who saw Àdá?’)
+
+\t ọ́ tụ́fùrù ákwụ́kwọ́ .
+\g he throw-be.lost-TNS paper
+\l He threw paper away.’ (Igbo; )
+
+\t Miḍúwn ovo mịtáān ?
+\g 1SG=follow=FE who 1SG=go=FE
+\l I went with who?
+
+\t Ovó nụ́ miḍúw Ø tạ́ān ?
+\g who that 1SG=follow _ go=FE
+\l Who did I go with?
+
+\t kụ́ ọ́yi nụ miḍúw Ø tạ́ān .
+\g not her/him that 1SG=follow _ go=FE
+\l It was not her/him that I went with.
+
+\t le nü ihe o mere  PAUSE  Did you see that ?
+\g look at thing he do-IND _ did you see that
+\l Look at what he did. Did you see that?
+
+\t ha gaanö week abüö na Abuja .
+\g they AUX-stay week NUM/D PREP Abuja
+\l They will stay for two weeks in Abuja.
+
+\t eze anyï bïara gbaghee hospital ahü .
+\g chief our come-IND open hospital DEM/D
+\l Our chief came and opened that hospital.
+
+\t ïgaabia ïhü councilor ha na opening ceremony a ?
+\g CL-AUX-come INF-see councilor PRN/D PREP opening ceremony DEM
+\l Will you come to meet their councillor at the opening ceremony?
+
+\t ha küdara booth dum na polling station ahü .
+\g they break-IND booth Q PREP polling station DEM/D
+\l They broke all (the) booths at that polling station.
+
+\t asi na agaeme wedding Ngozi ma ö gbakee .
+\g CL-said C CL-AUX-do wedding Ngozi C she recovers
+\l They said that they will hold Ngozi’s wedding when she recovers.
+
+\t ö nacö ïzü portmanteau öhüü .
+\g she AUX-want INF-buy portmanteau new
+\l She wants to buy (a/the) new portmanteau.
+
+\t ha fere exam na Abuja .
+\g they pass-IND exam PREP Abuja
+\l They passed (the) exam in Abuja.
+
+\t ha bi na ülö öhüü ahü .
+\g they live PREP house new that
+\l They live in that new house.
+
+\t ö naagba igwe Kanye .
+\g 3SG AUX-ride bicycle Kanye
+\l He rides Kanye’s bicycle.
+
+\t obodo anyï nö na nnukwu trouble .
+\g country our BE PREP big trouble
+\l Our country is in big trouble
+
+\t ndï INEC wepütara election results dum na TV .
+\g people.of INEC bring.out-IND election results all PREP TV
+\l The INEC released all the election results on TV.
+
+\t returning officer ahü abüghï onye iberibe .
+\g returning officer DEM V-BE-NEG person stupid
+\l That returning officer is not a stupid person.
+
+\t ma ceremony ahü furu n̩nukwu ego .
+\g but ceremony D cost-IND big money
+\l but that ceremony cost a lot of money
+
+\t election afö a adïghï mfe m’ölï .
+\g election year D V-BE-NEG easy at.all
+\l This year’s election is not easy at all.
+
+\t üfödü students anaghï abïa na oge .
+\g Q students V-BE-NEG V-come/arrive PREP time
+\l Some students do not arrive on time.
+
+\t tractors ndï ahü emebicala .
+\g tractors PRN/D DEM/D damage-ENCL-PERF
+\l Those tractors have been damaged completely
+
+\t Òbí hụ̀rụ̀ Àdá n'áhíá .
+\g Obi saw Ada P-market
+\l Òbí saw Àdá at the market.
+
+\t Sọ̀ọ́sọ̀ Òbí hụ̀rụ̀ Àdá n'áhíá .
+\g only Obi saw Ada P-market
+\l Only ÒBÍ saw Àdá at the market.
+
+\t Àdá *(kà) Òbí hụ̀rụ̀ _ n'áhíá .
+\g Ada FOC Obi saw _ P-market
+\l Òbí saw ÀDÁ at the market.' DO focus
+
+\t N'áhíá *(kà) Òbí hụ̀rụ̀ Àdá _ .
+\g P-market FOC Obi saw Ada _
+\l Òbí saw Àdá AT THE MARKET.' ADJ focus
+
+\t Òbí (kà) hụ̀rụ̀ Àdá n'áhíá .
+\g Obi FOC saw Ada P-market
+\l ÒBÍ saw Àdá at the market.' SBJ focus
+
+\t Ọ́ bụ̀ Àdá kà Òbí hụ̀rụ̀ nà m̀gbède .
+\g it COP Ada FOC Obi saw P evening
+\l It is Àdá that Òbí saw in the evening.' DO focus
+
+\t Ọ́ bụ̀ nà m̀gbède kà Òbí hụ̀rụ̀ Àdá .
+\g it COP P evening FOC Obi saw Ada
+\l It is in the evening that Òbí saw Àdá.' ADJ focus
+
+\t Ọ́ bụ̀ Òbí hụ̀rụ̀ Àdá nà m̀gbède .
+\g it COP Obi saw Ada P evening
+\l It is Òbí who saw Àdá in the evening.' SBJ-cleft
+
+\t Àdá *(kà) Úchè chèrè nà Òbí hụ̀rụ̀ _ n'áhíá .
+\g Ada FOC Uche think that Obi saw _ P-market
+\l Úchè thinks that Òbí saw ÀDÁ at the market.' long DO focus
+
+\t Òbí kà Úchè chèrè (*nà) _ hụ̄rụ̄ Àdá n'áhíá .
+\g Obi FOC Uche think (*that) _ saw Ada P-market
+\l Úchè thinks that ÒBÍ saw Àdá at the market.' long SBJ focus
+
+\t Ọ́ bụ̀ Òbí kà Úchè chèrè nà Àdá hụ̀rụ̀ _ .
+\g it COP Obi foc Uche thinks that Ada saw _
+\l It is Òbí that Úchè thinks that Àdá saw.' long DO focus
+
+\t Ọ́ bụ̀ Àdá kà Úchè chèrè (*nà) _ hụ̄rụ̄ Òbí .
+\g it COP Ada FOC Uche thinks (*that) _ saw Obi
+\l It is Àdá that Úchè thinks saw Òbí.' long SBJ focus
+
+\t M̀bà , Òbí hụ̀rụ̀ Úchè n'áhíá .
+\g no Obi saw Uche P-market
+\l No, Ò. saw ÚCHÈ at the market.' in-situ
+
+\t Ọ́ nàènwétá ótù ǹdè n'ọ́nwá .
+\g 3SG IPFV-NMZL.have.DIR one million P-moon
+\l S/he earns (at least) one million a month.' in-situ, upward entailing
+
+\t Ótù ǹdè kà ọ́ nàènwétá n'ọ́nwá .
+\g one million FOC 3SG IPFV-NMZL.have.DIR P-moon
+\l S/he earns (exactly) one million a month.' in-situ, not upward entail
+
+\t Ọ́ bụ̀ ótù ǹdè kà ọ́ nàènwétá n'ọ́nwá .
+\g 3SG COP one million FOC 3SG IPFV-IPFV.have.DIR P-moon
+\l S/he earns (exactly) one million a month.' cleft, not upward entailing
+
+\t Ònyé hụ̀rụ̀ Àdá n'áhíá .
+\g who saw Ada P-market
+\l Who saw Àdá at the market?' wh-SBJ, in-situ
+
+\t Òbí hụ̀rụ̀ ònyé n'áhíá .
+\g Obi saw who P-market
+\l Who did Òbí see at the market?' wh-DO, in-situ
+
+\t Ònyé kà hụ̀rụ̀ Àdá n'áhíá .
+\g who FOC saw Ada P-market
+\l Who saw Àdá at the market?' wh-SBJ, ex-situ
+
+\t Ònyé *(kà) Òbí hụ̀rụ̀ n'áhíá .
+\g who FOC Obi saw P-market
+\l Who did Òbí see at the market?' wh-DO, ex-situ
+
+\t Ọ̀ bụ̀ ònyé hụ̀rụ̀0 Àdá .
+\g it COP who saw Ada
+\l Who saw Àdá?' wh-SBJ, cleft
+
+\t Ọ̀ bụ̀ ònyé *(kà) Òbí hụ̀rụ̀ .
+\g it COP who FOC Obi saw
+\l Who did Òbí see?' wh-DO, cleft
+
+\t Ònyé Obi (kà) hụ̀rụ̀ (kà) _ nà m̀gbèdè (kà) n'áhíá (kà) .
+\g who Obi (FOC) saw (FOC) _ P evening (FOC) P-market (FOC)
+\l Who did Òbí see in the evening at the market?
+
+\t M̀bà ,  _PP N'áhíá (*kà) ochie   kà _ Òbí hụ̀rụ̀ Àdá .
+\g no _ P-market (FOC) old _ FOC _ Obi saw Ada
+\l No, Òbí saw Àdá at the old MARKET.
+

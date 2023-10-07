@@ -1,0 +1,524 @@
+\t Bíːká dìg *(Ká) bʷāː ?
+\g child.DEF cook Q what
+\l What did the child cook?
+
+\t (Ká) wānā ālì dìg bʷāː ?
+\g Q who ALI cook what
+\l Who cooked what?
+
+\t Bíːká dìg lāmmú .
+\g child.DEF cook meat.DEF
+\l The child cooked the meat.
+
+\t *Bíːká lāmmú dìg .
+\g child.DEF meat.DEF cook
+\l The child cooked the meat.
+
+\t *Lāmmú bíːká dìg .
+\g meat.DEF child.DEF cook
+\l The child cooked the meat.
+
+\t Bíːká dìg *(ká) bʷāː ?
+\g child.DEF cook Q what
+\l What did the child cook?
+
+\t Bíːká tè *(ká) wānā lāmmúː ?
+\g child.DEF give Q who meat.DEF
+\l Who did the child give the meat?
+
+\t Bíːká dìg lāmmú *(ká) bɛ̄ː ?
+\g child.DEF cook meat.DEF Q where
+\l Where did the child cook the meat?
+
+\t Bíːká dìg lāmmú tē *(ká) wānā: ?
+\g child.DEF cook.DEF meat.DEF give Q who
+\l Who did the child cook the meat for?
+
+\t (Ká) wānā *(ālì) dìg lāmmúː ?
+\g Q who ALI cook meat.DEF
+\l Who cooked the meat?
+
+\t (Ká) bʷā *(ātì) bíːká dìgìː ?
+\g Q what ATI child.DEF cook
+\l What is it that the child cooked?
+
+\t Fì wèːnì āyīn bíːká dìg *(ká) bʷāː ?
+\g 2SG say C child.DEF cook Q what
+\l What did you say the child cooked?
+
+\t Fì páː-chīm mì dìg *(ká) bʷāː ?
+\g 2SG think 1SG cook Q what
+\l What do you think I cooked?
+
+\t Fì páː-chīm mì tē *(ká) wānā lāmmúː ?
+\g 2SG think 1SG give Q who meat.DEF
+\l Who do you think I gave the meat?
+
+\t Mary bèg āsī John dìg *(ká) bʷāː .
+\g Mary ask C John cook Q what
+\l Mary asked what John has cooked.
+
+\t Mary à-bā āsī John dìg *(ká) bʷāː .
+\g Mary IMPF-wonder C John cook Q what
+\l Mary wonders what John has cooked.
+
+\t Bíːká dìg lāmmú *(ká) bɛ̄-gēŋa ?
+\g child.DEF cook meat.DEF Q what-direction
+\l Where did the child cook the meat?
+
+\t Bíːká dìg lāmmú *(ká) bʷān-ɲíŋa ?
+\g child.DEF cook meat.DEF Q what-body
+\l Why did the child cook the meat?
+
+\t Bíːká dìg lāmmú *(ká) dā-dīnā: ?
+\g child.DEF cook meat.DEF Q day-which
+\l When did the child cook the meat?
+
+\t Azuma dà ká gbáŋ ālì bʷāː ?
+\g Azuma buy Q book CONJ what
+\l Azuma bought a book and what?
+
+\t *Azuma dà gbáŋ ālì b ká ?
+\g Azuma buy book CONJ what Q
+\l Azuma bought a book and what?
+
+\t Asouk dà ká wān gbáŋaː ?
+\g Asouk buy Q who book
+\l Whose book did Asouk buy?
+
+\t *Asouk dà wān ká gbáŋaː ?
+\g Asouk buy who Q book
+\l Whose book did Asouk buy?
+
+\t Asouk dà ká Azuma b ?
+\g Asouk buy Q Azuma what
+\l What belonging to Azuma did Asouk buy?
+
+\t *Asouk dà Azuma b ká ?
+\g Asouk buy Azuma what Q
+\l What belonging to Azuma did Asouk buy?
+
+\t *Fí á-yáalí  núrpók wāi ālì dà ká bʷā lá: ? 
+\g 2SG IMPF-love woman REL.PRO C buy Q what PRT
+\l You love the woman who bought what?
+
+\t *Fí á-yáalí  núrpók  ká  wāi ālì dà bʷā lá: ?   
+\g 2SG IMPF-love woman Q REL.PRO INFL buy what PRT
+\l You love the woman who bought what?
+
+\t Fí á-yáalí ká  núrpók  wāi ālì dà bʷā lá: ? 
+\g 2SG IMPF-love Q woman REL.PRO C buy what PRT
+\l You love the woman who bought what?
+
+\t *Ká  bíːká dìg bʷāː  ?
+\g Q child.DEF cook what
+\l What did the child cook?
+
+\t *Fì wèːnì āyīn ká bíːká dìg bʷāː ?
+\g 2SG say C Q child.DEF cook what
+\l What did you say the child cooked?
+
+\t *Fì wèːnì ká āyīn bíːká dìg bʷāː ?
+\g 2SG say Q C child.DEF cook what
+\l What did you say the child cooked?
+
+\t John tè bí:ká lām .
+\g John give child.DEF meat
+\l John gave the child meat.
+
+\t John tè ká wān bʷāː ?
+\g John give Q who what
+\l Who did John give what?
+
+\t *John tè ká wān ká bʷāː ?
+\g John give Q who Q what
+\l Who did John give what?
+
+\t *Asouk dà Azuma ká b ?
+\g Asouk buy Azuma Q what
+\l What belonging to Azuma did Asouk buy?
+
+\t Bíːká dìg ká lām būna: ?
+\g child.DEF cook Q meat which
+\l Which meat did the child cook?
+
+\t *Bíːká dìg lām ká būna: ?
+\g child.DEF cook meat Q which
+\l Which meat did the child cook?
+
+\t Fì chèŋ alī bí:ká .
+\g 2SG go P child.DEF
+\l You went with the child.
+
+\t *Fì chèŋ alī ká wānāː ?
+\g 2SG go P Q who
+\l Who did you go with?
+
+\t *Fì chèŋ ká alī wānāː ?
+\g 2SG go Q P who
+\l Who did you go with?
+
+\t Amary à-yā: wà-dēk
+\g Mary IMPF-like 3SG-self
+\l Mary likes herself
+
+\t *Amary wè:ni āyīn mì à-yā: wà-dēk
+\g Mary say C 1SG IMPF-like 3SG-self
+\l Mary said that I like herself
+
+\t *Amary doama à-yā: wà-dēk
+\g Mary friends IMPF-like 3SG-self
+\l Mary’s friends like herself
+
+\t Amary wè:ni āyīn mì à-yā: ká wà-dēk foto kuna: ?
+\g Mary say C 1SG IMPF-like Q 3SG-self picture which
+\l Mary said that I like which picture of herself?
+
+\t *Amary wè:ni āyīn mì à-yā: wà-dēk foto wa-dɛ .
+\g Mary say C 1SG IMPF-like 3SG-self picture DET-DEM
+\l Mary said that I like this picture of herself
+
+\t Fí kàn yáalí ká  núrpók wāi ālì dà b lá: ? 
+\g 2SG NEG love Q woman REL.PRO C buy what PRT
+\l You don’t love the woman who bought what?
+
+\t John mɛ̄ dìg ká bʷāː ?
+\g John also cook Q what
+\l What did John also cook?
+
+\t John àn dìg ká bʷāː ?
+\g John NEG cook Q who
+\l What did John not cook?
+
+\t John ɲī:ŋī dìg ká bʷāː ?
+\g John only cook Q what
+\l What did only John cook?
+
+\t (Ká) bʷā ātì John mɛ̄ dìgìː ?
+\g Q what C John also cook
+\l What did John also cook?
+
+\t (Ká) bʷā ātì John àn dìg ya ?
+\g Q what C John NEG cook PRT
+\l What did John not cook?
+
+\t (Ká) bʷā ātì John ɲī:ŋī dìgìː ?
+\g Q what C John only cook
+\l What did only John cook?
+
+\t Wāi-mē:nā dìg *(ká) bʷāː ?
+\g person-all cook Q what
+\l What did every one cook?’ ‘For each person y, what is the x st y cooked x.’ ‘What is the x st everyone cooked x.
+
+\t Ajohn tè ká wān bʷāː ?
+\g John give Q who what
+\l Who did John give what?
+
+\t (Ká) bʷā ātì wānā dìgìː ?
+\g Q what C who cook
+\l What is it that who cook?
+
+\t *Ajohn tè ká wān ká bʷāː ?
+\g John give Q who Q what
+\l Who did John give what?
+
+\t *Ajohn tè wān ká bʷāː ?
+\g John give who Q what
+\l Who did John give what?
+
+\t Amary pā-chīm bísāŋá tè ká wān bʷāː ?
+\g Mary think child.DEF.PL give Q who what
+\l Who does Mary think the children gave what?
+
+\t Amary pā-chīm bísāŋá tè núrmà ká wà-dēk foto kuna: ?
+\g Mary think child.DEF.PL give man.DEF.PL Q 3SG-self picture which
+\l Which picture of herself does Mary think the children gave to the people?
+
+\t *Amary pā-chīm bísāŋá tè ká núr bānā wà-dēk foto kuna: ?
+\g Mary think child.DEF.PL give Q man which 3SG-self picture which
+\l Which people does Mary think the children gave which picture of herself?
+
+\t *Ajohn àn tè ká wān bʷāː ?
+\g John NEG give Q who what
+\l Who did John not give what?
+
+\t *Ká wānā ālì kàn dìg b ?
+\g Q who INFL NEG cook what
+\l Who did not cook what?
+
+\t  bʷā ātì wānā àn dìgì yā: ?
+\g Q what C who NEG cook PRT
+\l What is it that who did not cook?
+
+\t (Ká) wānā *(ātì) bíːká dìg lāmmú tēː ?
+\g Q who ATI child.DEF cook meat.DEF give
+\l Who is it that the child cooked the meat for?
+
+\t (Ká) bʷā *(ātì) fì wèːnì āyīn bíːká dìgìː ?
+\g Q what ATI 2SG say C child.DEF cook
+\l What did you say the child cooked?
+
+\t (Ká) bʷā *(ātì) fì páː-chīm mì dìgìː ?
+\g Q what ATI 2SG think 1SG cook
+\l What do you think I cooked?
+
+\t Wà ɲà ká wà-dēk fōtō kūnā: ?
+\g 3SG see Q 3SG-DEK picture which
+\l Which picture of himself did he see?
+
+\t Ká wà-dēk fōtō kūnā ati wà ɲàː ?
+\g Q 3SG-DEK picture which ATI 3SG see
+\l Which picture of himself did he see?
+
+\t Ajohn ɲà ká wà-dēk fōtō kūnā: ?
+\g John see Q 3SG-DEK picture which
+\l Which picture of himself did John see?
+
+\t *Ká wà-dēk fōtō kūnā ati John ɲàː ?
+\g Q 3SG-DEK picture which C John see
+\l Which picture of himself did John see?
+
+\t *Wà màwá à-yā: John .
+\g 3SG mother.DEF IMPF-like John
+\l His mother likes John.
+
+\t Wà màwá à-yā: wà .
+\g 3SG mother.DEF IMPF-like 3SG
+\l His mother likes him.
+
+\t Ajohn màwá à-yā: wá .
+\g John mother.DEF IMPF-like 3SG
+\l John’s mother likes him.
+
+\t *Wà ɲà ká John fōtō kūnā: ?
+\g 3SG see John Q picture which
+\l Which picture of John did he see?
+
+\t Ká John fōtō kūnā ati wà ɲàː ?
+\g Q John picture which C 3SG see
+\l Which picture of John did he see?
+
+\t *Wà pà ká Ajohn gāŋ kùnā fōtō: ?
+\g 3SG take Q John side which photograph
+\l Which side of John did he photograph?
+
+\t Ká Ajohn gāŋ kùnā ātì wà pà fōtō: ?
+\g Q John side which C 3SG take photograph
+\l Which side of John did he photograph?
+
+\t Asibi dà gbǎŋ .
+\g Asibi buy book
+\l Asibi bought a book.
+
+\t Asouk sèbì Ajohn .
+\g Asouk know John
+\l Asouk knows John.
+
+\t Asouk_i tìerì  *(wà_i/*j) dā gbáŋ  .
+\g Asouk remember 3SG buy book
+\l Asouk remembered to buy a book.
+
+\t Núrmà_i zèrì  *(bà_i/*j) dā gbáŋ  .
+\g people.DEF.PL refuse 3PL buy book
+\l The people refused to buy a book.
+
+\t Mí túlím Asouk_i zúk  *(wà_i/*j) dā gbáŋ  .
+\g 1SG turn Asouk head 3SG buy book
+\l I convinced Asouk to buy a book.
+
+\t Mí túlím núrmà_i zúk  *(bà_i/*j) dā gbáŋ  .
+\g 1SG turn people.DEF.PL head 3PL buy book
+\l I convinced the people to buy a book.
+
+\t Mí à-yā: Asouk dā gbáŋ .
+\g 1SG ASP-want Asouk buy book
+\l I want Asouk to buy a book.
+
+\t Nà:wǎ tè síuk Asouk dā gbáŋ .
+\g chief.DEF give path Asouk buy book
+\l The chief gave permission for Asouk to buy a book.
+
+\t Kù à-fɛ̄ ātī Asouk dā gbáŋ .
+\g 3SG ASP-necessary C Asouk buy book
+\l It is necessary for Asouk to buy a book.
+
+\t Kù nālā ātī Asouk dā gbáŋ .
+\g 3SG good C Asouk buy book
+\l It is good for Asouk to buy a book.
+
+\t Wà dà gbǎŋ .
+\g 3SG buy book
+\l S/he bought a book.
+
+\t Bí:ká wa dà gbǎŋ .
+\g child.DEF 3SG buy book
+\l S/he bought a book.
+
+\t Asouk pàchìm wà dà gbǎŋ .
+\g Asouk think 3SG buy book
+\l Asouk thought he bought a book.
+
+\t Asibi àlí dā gbáŋ .
+\g Asibi FUT buy book
+\l Asibi will buy a book.
+
+\t Asouk pàchìm Asibi chūm *(àlí) dā gbáŋ .
+\g Asouk think Asibi tomorrow FUT buy book
+\l Asouk thought Asibi will buy a book tomorrow.
+
+\t Asouk sìak *(wà_i/*j) chūm (*àlí) dā gbáŋ .
+\g Asouk agree 3SG tomorrow FUT buy book
+\l Asouk agreed to buy a book tomorrow.
+
+\t Mí_i à-yā: Asouk chūm (*àlí) dā gbáŋ .
+\g 1SG ASP-want Asouk tomorrow FUT buy book
+\l I want Asouk to buy a book tomorrow.
+
+\t Ká wānā *(àlì) dā gbáŋ a
+\g Q who ALI buy book PRT
+\l Who bought a book?
+
+\t Asouk pàchìm ka wana *(àlì) dā gbáŋ a
+\g Asouk think Q who ALI buy book PRT
+\l Who does Asouk think bought a book?
+
+\t Mí_i à-yā: ka wana (*àlì) dā gbáŋ a ?
+\g 1SG ASP-want Q who ALI buy book PRT
+\l Who do I want for him to buy a book?
+
+\t Nà:wà tè síuk ka wānā (*àlì) dā gbáŋ a ?
+\g chief.DEF give path Q who ALI buy book PRT
+\l Who did the chief give permission to buy a book?
+
+\t (Ká) wānā *(ātì) fì pá:-chīm *(wà) àlì dīg lāmmú: ?
+\g Q who ATI 2SG think 3SG ALI cook meat.DEF
+\l Who do you think cooked the meat?
+
+\t (Ká) wānā *(ātì) mi_i à-yā: *(wà) (*àlì) dā gbáŋ a ?
+\g Q who ATI 1SG ASP-want 3SG ALI buy book PRT
+\l Who do I want to buy a book?
+
+\t (Ká) wānā *(ātì) nà:wà tè síuk *(wà) (*àlì) dā gbáŋ a ?
+\g Q who ATI chief.DEF give path 3SG ALI buy book PRT
+\l Who did the chief give permission to buy a book?
+
+\t Asouk *(àn) dīg jāab-jāab *(ā) .
+\g Asouk NEG1 cook thing-thing NEG2
+\l Asouk didn't cook anything.
+
+\t Wāi-wāi *(àn) dīg lām *(ā) .
+\g someone-someone NEG1 cook meat NEG2
+\l Nobody cooked meat.
+
+\t Wāi-wāi *(àn) dīg jāab-jāab *(ā) .
+\g someone-someone NEG1 cook thing-thing NEG2
+\l Nobody cooked anything.
+
+\t Asouk àn tīeri wà dīg jāab-jāab *(ā) .
+\g Asouk NEG1 remember 3SG cook thing-thing NEG2
+\l Asouk didn't remember to cook anything.
+
+\t Asouk àn tīeri āsī wà dìg jāab-jāab *(ā) .
+\g Asouk NEG1 remember C 3SG cook thing-thing NEG2
+\l Asouk didn't remember that he cooked anything.
+
+\t Asouk_i tìerì *(wà_i/*j) dā gbáŋ .
+\g Asouk remember 3SG buy book
+\l Asouk remembered to buy a book.
+
+\t Núrmà_i bàŋ *(bà_i/*j) kpārī tóukú .
+\g people.DEF.PL forget 3PL lock door
+\l The people forgot to lock the door.
+
+\t Mì túlím Asouk_i zuk *(wà_i/*j) bāsī dēlā .
+\g 1SG turn Asouk head 3SG leave here
+\l I convinced Asouk to leave.
+
+\t Núr-wá fὲ bísáŋá_i *(bà_i/*j) bāsī dēlā .
+\g man.DEF force children 3PL leave here
+\l The man forced the children to leave.
+
+\t Asouk_i nỳa āsī núrmà_j tìeri *wà_i/bà_j dā gbáŋ .
+\g Asouk realize C people.DEF.PL remember 3SG/3PL buy book
+\l Asouk realized that the people remembered to buy a book.
+
+\t Asouk_i nyà āsī núrmà_j wèin āyīn wà_i/bà_j dà gbáŋ .
+\g Asouk realize C people.DEF.PL say C 3SG/3PL buy book
+\l Asouk realized that the people say that he bought a book.
+
+\t Asouk_i dóamà_j bàŋ *wà_i/bà_j kpārī tóukú .
+\g Asouk friend.DEF.PL forget 3SG/3PL lock door
+\l Asouk's friends forgot to lock the door.
+
+\t Asouk_i dóamà_j pàchìm wa_i/bà_j kpàrì tóukú .
+\g Asouk friend.DEF.PL think 3SG/3PL lock door
+\l Asouk's friends thought he locked the door.
+
+\t Asouk_i wìen wà dà gbáŋ àlēgē Asibi_j wìen wài/j dà gbáŋ .
+\g Asouk say 3SG buy book before Asibi say 3SG buy book
+\l Asouk said he bought a book before Asibi said that he bought a book.
+
+\t Asouk_i sìak wa_i dā gbáŋ àlēgē Asibi_j sìak wa*i/j dā gbáŋ .
+\g Asouk agree 3SG buy book before Asibi agree 3SG buy book
+\l Asouk agreed to buy a book before Asibi agreed to buy a book.
+
+\t Wā:-wāi_i àn tīeri wài/*j dā gbáŋ a .
+\g someone-someone NEG1 remember 3SG buy book NEG2
+\l No one remembered to buy a book.
+
+\t Wā:-wāi_i àn wēn wà_i/j dā gbáŋ a .
+\g someone-someone NEG1 say 3SG buy book NEG2
+\l No one said that he bought a book.
+
+\t Asouk_i à-zīentī wà_i chīm nà:b .
+\g Asouk eager 3SG become chief
+\l Asouk is eager to become a chief.
+
+\t Asouk_i sàik *(wà_i/*wá_i) dā gbáŋ .
+\g Asouk agree 3SG buy book
+\l Asouk agreed to buy a book.
+
+\t Asouk_i sàik *(*wà_i/wá_i) mɛ̄ dā gbá .ŋ
+\g Asouk agree 3SG also buy book
+\l Asouk agreed to also buy a book.
+
+\t Asibi_i (*wà_i) dà gbáŋ .
+\g Asibi 3SG buy book
+\l Asibi bought a book.
+
+\t Asouk pàchìm Asibi_i (*wà_i) dà gbáŋ .
+\g Asouk think Asibi 3SG buy book
+\l Asouk thought Asibi bought a book.
+
+\t Mí à-yā: Asouk_i (*wà_i) dā gbáŋ .
+\g 1SG ASP-want Asouk 3SG buy book
+\l I want Asouk to buy a book.
+
+\t Kù à-fɛ̄ ātī Asouk_i (*wà_i) dā gbáŋ .
+\g 3SG ASP-necessary C Asouk 3SG buy book
+\l It is necessary for Asouk to buy a book.
+
+\t Asibi chúm àlí dā gbáŋ .
+\g Asibi tomorrow FUT buy book
+\l Asibi will buy a book tomorrow.
+
+\t Wà chúm àlí dā gbáŋ .
+\g 3SG tomorrow FUT buy book
+\l He will buy a book tomorrow.
+
+\t Asouk_i sàik *(wài/*j) chúm dā gbáŋ .
+\g Asouk agree 3SG tomorrow buy book
+\l Asouk agreed to buy a book tomorrow.
+
+\t Asouk_i à-yā: *(wài/*j) chúm dā gbáŋ .
+\g Asouk ASP-want 3SG tomorrow buy book
+\l Asouk wants to buy a book tomorrow.
+
+\t Asouk mɛ̄ dà gbáŋ .
+\g Asouk also buy book
+\l Asibi also bought a book.
+
+\t Asouk_i à-yā: *(wái/*j) mɛ̄ dā gbáŋ .
+\g Asouk ASP-want 3SG also buy book
+\l Asouk wants to also buy a book.
+

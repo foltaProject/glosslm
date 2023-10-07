@@ -1,0 +1,104 @@
+\t mango sweet-DEF .3 .PL DEM .3 .PL seven
+\g N Adj-D Dem Num
+\l these seven sweet mangoes
+
+\t lo-gəl
+\g mango-DEF.3.PL
+\l the mangoes
+
+\t gəl lo
+\g DEF.3.PL mango
+\l the mangoes
+
+\t lo  (dɛl) tã / tã (tɛl)  -gəl
+\g mango [(very) sweet / sweet (very) ]-DEF.3.PL
+\l the very sweet mangoes
+
+\t pɔm tã-bɛl bal
+\g apple sweet-DEF.1.PL DEM.1.PL
+\l these sweet apples
+
+\t pɔm bal tã-bɛl
+\g apple DEM.1.PL sweet-DEF.1.PL
+\l these sweet apples
+
+\t pɔm-u nuã
+\g apple-DEF.1.SG one.1
+\l the one apple
+
+\t ʧi-g nuŋgɔ
+\g tree-DEF.2.SG one.2
+\l the one tree
+
+\t lo-n nunã
+\g mango-DEF.3.SG one.3
+\l the one mango
+
+\t pɔm-u kɔrʃi
+\g apple-DEF.1.PL seven
+\l the seven apples
+
+\t ʧi-i kɔrʃi
+\g tree-DEF.2.PL seven
+\l the seven trees
+
+\t lo-gel kɔrʃi
+\g mango-DEF.3.PL seven
+\l the seven mangoes
+
+\t mango sweet-DEF .3 .PL DEM .3 .PL seven
+\g N Adj-D Dem Num
+\l these seven sweet mangoes
+
+\t lo tã-gəl
+\g mango sweet-DEF.3.PL
+\l the sweet mangoes
+
+\t tã lo-gəl
+\g sweet mango-DEF.3.PL
+\l the sweet mangoes
+
+\t tã-gəl lo
+\g sweet-DEF.3.PL mango
+\l the sweet mangoes
+
+\t kodivware ʃju-u
+\g Ivorian man-DEF.3.SG
+\l the Ivorian man
+
+\t ʃju-u kodivware
+\g man-DEF.1.SG Ivorian
+\l the Ivorian man
+
+\t ʃju kodivware-u
+\g man Ivorian-DEF.1.SG
+\l the Ivorian man
+
+\t kodivware-u ʃju
+\g Ivorian-DEF.1.SG man
+\l the Ivorian man
+
+\t pɔm tã ʧɛ ɲe-bɛl
+\g apple sweet good red-DEF.1.PL
+\l the sweet good red apples
+
+\t pɔm ʧɛ tã ɲe-bɛl
+\g apple good sweet red-DEF.1.PL
+\l the sweet good red apples
+
+\t pɔm ʧɛ ɲe tã-bɛl
+\g apple good red sweet-DEF.1.PL
+\l the sweet good red apples
+
+\t pɔm ɲe tã ʧɛ-bɛl
+\g apple red sweet good-DEF.1.PL
+\l the sweet good red apples
+
+\t Ivorian mango good sweet-DEF .3 .PL DEM .3 .PL seven
+\g Ahigh N Alow Alow-D Dem Num
+\l these seven good sweet Ivorian mangoes
+
+\t lo tã-gəl gal kɔrʃi
+\g mango sweet-DEF.3.PL DEM.3.PL seven
+\l these seven sweet mangoes
+

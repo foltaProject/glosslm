@@ -1,0 +1,56 @@
+\t aakhohlwe xigqoko xakwe .
+\g 1-T/A-forget-FV 7.hat 7-his
+\l and (then) (he) forgot his hat (on the ground).
+
+\t se . . . svimuivitana .
+\g then... 8.SM-1.OM-call-FV
+\l Then they called him
+
+\t a_ku_va ateka xigqoko lexiya .
+\g for 1SM-pick-FV 7.hat that
+\l in order for him to pick up that hat.
+
+\t mufana avonile wansati .
+\g 1.boy 1.SM-see-PST 1.woman
+\l The boy has seen a woman.
+
+\t mufana amuvonile wansati .
+\g 1.boy 1.SM-1.OM-see-PST 1.woman
+\l The boy has seen the woman (a specific and definite one).
+
+\t mufana avonile xipixi .
+\g 1.boy 1.SM-see-PST 7.cat
+\l The boy has seen a cat.
+
+\t mufana axivonile xipixi .
+\g 1.boy 1.SM-7.OM-see-PST 7.cat
+\l The boy has seen the cat (a specific and definite one).
+
+\t mufana avonile zambana .
+\g 1.boy 1.SM-see-PST 5.potato
+\l The boy has seen a potato.
+
+\t mufana adrivonile zambana .
+\g 1.boy 1.SM-5.OM-see-PST 5.potato
+\l The boy has seen the potato (a specific and definite one).
+
+\t mufana agamile kuxiba xipixi .
+\g 1.boy 1.SM-finish-PST INF-7.OM-hit-FV 7.cat
+\l The boy finished hitting the dog.
+
+\t *mufana axigamile kuba xipixi .
+\g 1.boy 1.SM-7.OM-finish-PST INF-hit-FV 7.cat
+\l (‘The boy finished hitting the dog.’)
+
+\t nahani asvekela vapfumba tihlampfi .
+\g 1.aunt 1.SM-cook-APPL-FV 2.guest 10.fish
+\l My aunt is cooking fish for the guests.
+
+\t hahani avasvekela tihlampfi vapfumba .
+\g 1.aunt 1.SM-2.OM-cook-APPL-FV 10.fish 2.guest
+\l My aunt is cooking fish for them, the guests (and not chicken).
+
+\t vapfumba vasvekeliwa tihlampfi (hi hahani) .
+\g 2.guest 2.SM-cook-APPL-PASS-FV 10.fish by 1.aunt
+\l The guests are being cooked some fish (by my aunt).
+

@@ -1,0 +1,856 @@
+\t kirja , jonka/*että Erkki osti
+\g book RelC/*DeclC Erkki bought
+\l the book that Erkki bought
+
+\t Janne sanoi , että/*jonka Erkki osti kirjan .
+\g Janne said DeclC/*RelC Erkki bought a book
+\l Janne said that Erkki bought a book.
+
+\t se , että/*joka Johannes oli täällä
+\g it, DeclC/RelC Johannes was here
+\l the fact that Johannes was here
+
+\t huhu , että/*joka Johannes oli täällä
+\g rumor DeclC/*RelC Johannes was here
+\l the rumor that Johannes was here
+
+\t Huomenna saa kahvi-a .
+\g tomorrow get.3SG coffee-PTV
+\l One can get coffee tomorrow.’5
+
+\t Loma-a suunnitel-le-ssa kannattaa miettiä esimerkiksi , kaipaa-n-ko toiminta-a vai lepo-a .
+\g holiday-PTV plan-INF-INESS be.worth.3SG think.INF for.example miss-1-Q activity-PTV or rest-PTV
+\l ’When planning a holiday, it’s worth thinking for example whether one needs activities or rest.
+
+\t Huomenna Pekka tulee ja ∅ saa kahvi-a .
+\g tomorrow Pekka come.3SG and  get.3SG coffee-PTV
+\l Tomorrow Pekka is coming and will get coffee.
+
+\t Me mentiin Annan kanssa kaupunkiin .
+\g we.NOM went.1PL Anna.GEN with town
+\l Anna and I went into town.’/‘We went into town with Anna.
+
+\t Näin tytön . Se tyttö itki .
+\g see-IPFV-1SG girl-ACC it girl cry-IPFV-3SG
+\l I saw a girl. That girl was crying.
+
+\t (Minä) puhu-n hyvin italiaa .
+\g (I) speak-1SG well Italian
+\l I speak Italian well.
+
+\t Nämä kirja-t ol-i halunnut ostaa Merjalta Jari .
+\g these book-PL.ACC had-3SG wanted to.buy from.Merja Jari.NOM
+\l Jari had wanted to buy these books from Merja.
+
+\t *Halua-a ostaa kirja-n .
+\g want-3SG to-buy book-ACC
+\l Intended: ‘He wants to buy a book.
+
+\t Halua-n ostaa kirja-n .
+\g want-1SG to.buy book-ACC
+\l I want to buy a book.
+
+\t Jari sanoi että  halua-a ostaa kirja-n . 
+\g Jari said that want-3SG to.buy book-ACC
+\l Jari said that he (=Jari) wants to buy a book.
+
+\t Epäonnistuminen pakotta-a __  harjoittelemaan enemmän . 
+\g failure.NOM forces-3SG  to.practise more
+\l A failure forces people/one to practice more.
+
+\t Tässä istu-u mukavasti .
+\g in.here sit-3SG comfortably
+\l One can sit here comfortably.
+
+\t Jari halusi lähteä .
+\g Jari wanted to.leave
+\l Jari wanted to leave.
+
+\t *Jari halusi Merja-n lähteä .
+\g Jari wanted Merja-GEN to.leave
+\l Jari wanted Merja to leave.
+
+\t *Jari halusi lähte-vän .
+\g Jari.NOM wanted leave-VA/INF
+\l Intended: ‘Jari wanted to leave.
+
+\t Jari halusi Merja-n lähte-vän .
+\g Jari.NOM wanted Merja-GEN leave-VA/INF
+\l Jari wanted Merja to leave.
+
+\t Kuka ihaile-e Merja-a ? (#36)
+\g who.NOM admire-3SG Merja-PAR 
+\l who admires Merja?
+
+\t Ketä hän ihaile-e ___ ? (#37)
+\g who.PAR he.NOM admire-3SG 
+\l Who does he admire?
+
+\t Ihaile-n Merja-a . (#2100)
+\g admire-1SG Merja-PAR
+\l [ T [ v [ admire Merja]]] (Simplified output) ‘I admire Merja.
+
+\t *Ihaile-e Merja-a . (#2102)
+\g admire-3SG Merja-PAR
+\l (No parsing solution found.)
+
+\t Pekka sano-o että ihaile-e Merja-a . (#25 , 43)
+\g Pekka say-3SG that admire-3SG/D_ Merja-PAR
+\l Pekka says that he (=Pekka) admires Merja.
+
+\t *Minä sanon että ihaile-e Merja-a . (#44)
+\g I say-1SG that admire-3SG/D_ Merja-PAR
+\l Intended: ‘I say that (he) admires Merja.
+
+\t Pekka sanoo että Jukka sanoo että ihaile-e Merja-a . (#45)
+\g Pekka says that Jukka says that admire-3SG Merja-PAR
+\l Pekka says that Jukka says that he (=Jukka/*Pekka) admires Merja.
+
+\t Pekka sanoo että  istu-u mukavasti .  (#46)
+\g Pekka says that sit-3SG comfortable
+\l Pekka says that he (=Pekka) sits comfortably.
+
+\t *Istu-u tässä mukavasti . (Holmberg 2010 , ex . 1a) (#47)
+\g sit-3SG here comfortably\t Tässä istu-u mukavasti . (#48)
+\g here sit-3SG comfortably
+\l People sit here (e.g., in this chair) comfortably.
+
+\t Pekka sanoo että tässä istu-u mukavasti . (#49)
+\g Pekka says that here sit-3SG comfortably
+\l Pekka says that one can sit here comfortably.’ *‘Pekka says that he (=Pekka) sits here comfortably.
+
+\t *Minä halua-n . (#50)
+\g I.NOM want-1SG 
+\l Intended: ‘I want (myself/one/people in general).
+
+\t Pekka halusi  lähte-ä .  (#57)
+\g Pekka wanted leave-A/INF
+\l Pekka wanted to leave.
+
+\t *Pekka halusi  Merja-n lähte-ä .  (#58)
+\g Pekka wanted Merja-GEN lähte-A/INF\t Pekka käski  Merja-n lähte-ä .  (#59)
+\g Pekka ordered Merja-GEN leave-A/INF
+\l ’Pekka ordered Merja to leave.
+
+\t *Pekka käski  lähte-ä .  (#60)
+\g Pekka ordered leave-A/INF\t Pekka halusi  Merja-n lähte-vän .  (#61)
+\g Pekka wanted Merja-GEN leave-VA/INF
+\l Pekka wanted Merja to leave.
+
+\t *Pekka yritti  Merja-n lähte-vän .  (#62)
+\g Pekka tried Merja-GEN leave-VA/INF\t *Pekka yritti  lähte-vän .  (#63)
+\g Pekka tried leave-VA/INF\t *Pekka yritti . (#64)
+\g Pekka tried\t Pekka uskoo lähte-vä-nsä . (#65)
+\g Pekka believes leave-VA/INF-PX/3SG
+\l Pekka₁ believes that he will leave.
+
+\t *Pekka uskoo lähte-vän . (#66)
+\g Pekka believes leave-VA/INF\t Huomenna halua-a lähte-ä Pekka .
+\g tomorrow want-3SG leave-A/INF Pekka.NOM
+\l Tomorrow Pekka wants to leave.
+
+\t Huomenna käske-e Merja-n lähte-ä Pekka .
+\g tomorrow order-3SG Merja-GEN leave-A/INF Pekka.NOM
+\l Pekka orders Merja to leave tomorrow.
+
+\t Huomenna käske-e Pekka Merja-n lähte-ä .
+\g tomorrow order-3SG Pekka.NOM Merja-GEN leave-A/INF
+\l Pekka orders Merja to leave tomorrow.
+
+\t Huomenna käske-e Merja-n Pekka lähte-ä .
+\g tomorrow order-3SG Merja-GEN Pekka.NOM leave-A/INF
+\l Pekka orders Merja to leave tomorrow.
+
+\t Pekka etsi-i Merja-a juost-en . (#73)
+\g Pekka search-3SG Merja-PAR run-ADV
+\l Pekka searches Merja by running.
+
+\t Pekka e-i   nähnyt  Merja-a  ⟨kävele-mässä .⟩ 
+\g Pekka not-3SG  see Merja-PAR walk-MA/INF
+\l Pekka did not see Merja walking.
+
+\t Pekka pyytää lähte-mään . (#75)
+\g Pekka asks leave-MA/INF
+\l Pekka asks people to leave.
+
+\t Pekka pyytää laulamaan .
+\g Pekka asks to.sing
+\l Pekka asks (people, one) to sing.
+
+\t Pekka haluaa laulamaan .
+\g Pekka wants to.sing
+\l Pekka wants to sing.
+
+\t Halua-n lähte-ä . (#76)
+\g want-1SG leave-A/INF
+\l I want to leave.
+
+\t *Halua-a lähte-ä . (#77)
+\g want-3SG leave-A/INF
+\l Intended: ‘He wants to leave.
+
+\t Pekka sano-o että halua-a lähte-ä . (#78)
+\g Pekka say-3SG that want-3SG leave-A/INF
+\l Pekka says that he (=Pekka) wants to leave.
+
+\t Kyllä se on ostanut auton .                                                                                                     Aux  V O  
+\g indeed he has bought car\t Kyllä se on auton ostanut .                                                                                                     Aux  O V  
+\g indeed he has car bought\t Kyllä se auton ostanut on .                                                                                                      O V  Aux 
+\g indeed he car bought has\t *Kyllä se ostanut auton on .                                                                                                      V O  Aux 
+\g indeed he bought car has\t Ja sitten oon mä ja kaksi muu-ta tyttö-ä .
+\g and then be.1SG I and two other-PART girl-PART
+\l And then there is me and two other girls.
+
+\t kuka ke-t-kä ke-tä ke-i-tä
+\g who.NOM who-PL-NOM who-PART who-PL-PART\t iso-t talo-t
+\g big-PL house-PL
+\l big houses
+
+\t iso-i-ssa talo-i-ssa
+\g big-PL-INESS house-PL-INESS
+\l in big houses
+
+\t iso talo-ni
+\g big house-POSS:1SG
+\l my big house
+
+\t Wen glaubst du , dass ich getroffen habe .
+\g who believe you that I met have
+\l Who do you think I met?
+
+\t ja sit se poika . . .
+\g and then this boy
+\l …so then the man went and bought all the balloons and gave them to the boy, and the boy…’ 
+
+\t Ostin olutta .
+\g buy.PRET.1SG beer.PART
+\l I bought beer.
+
+\t Ostin oluen .
+\g buy.PRET.1SG beer.ACC
+\l I bought the beer.
+
+\t Opiskelijat ovat suomalaisia .
+\g student.NOM.PL be.PRS.3PL Finn.PARTICLE.PL
+\l The students are Finns.
+
+\t Meillä on hevonen .
+\g we.ALL be.PRS.3SG horse.NOM
+\l We have a horse
+
+\t Olut on kylmää .
+\g beer be.PRS.3SG cold.PARTICLE.SG
+\l The beer is cold.
+
+\t Olut on virvoitusjuoma .
+\g beer.NOM.SG be.PRS.3SG beverage.NOM.SG
+\l Beer is a beverage.
+
+\t * (Hän) puhuu englantia .
+\g _ (s/he) speak:3 English:PAR
+\l S/he speaks English.
+
+\t * (Ele) fala inglês .
+\g _ (he) speak:3 English:PAR
+\l He speaks English.
+
+\t Tässä istuu mukavasti .
+\g here sit:3 comfortably
+\l One can sit comfortably here.
+
+\t Pekkai väittää  että häni/j/Øi/*j puhuu englantia hyvin  .
+\g Pekka claim:3 that 3SG/Ø speak:3 English well
+\l Pekka claims that he speaks English well.
+
+\t Jari sanoo että tässä istuu mukavasti .
+\g Jari say:3 that here sit:3 comfortably
+\l Jari says that one can sit comfortably here.
+
+\t Nyt täytyy pestä auntonsa .
+\g Now must:3 wash car:POSS;RFL
+\l One must wash one’s car now.
+
+\t Täällä voi ostaa auton / * auto .
+\g Here can:3 buy car:ACC / / car:NOM
+\l You can buy a car here.
+
+\t Tänne tulee mielellään  PRO ostamaan keramiikkaa  .
+\g here come:3 with.pleasure PRO buy.INF pottery
+\l It is nice to come here to buy pottery.
+
+\t Sitä huolestuu helposti .
+\g EXPL get.worried easily
+\l One gets worried easily.
+
+\t Sitä ei tiedä milloin kuolee .
+\g EXPL not know:3 when die:3
+\l One doesn’t know when one dies.
+
+\t Pariisissa minä olen käynyt (mutten Roomassa) .
+\g Paris:INE I be:1 visited but.not Rome:INE
+\l I've been to PARIS (but not Rome).
+
+\t Jari sanoo että (hän) istuu mukavasti tässä .
+\g Jari say:3 that (he) sit:3 comfortably here
+\l Jari says that he sits comfortably here.
+
+\t Olen väsynyt .
+\g be.1SG tired
+\l I’m tired.
+
+\t Sataa (vettä) .
+\g Rains (water)
+\l It is raining.
+
+\t (Sitä) leikkii lapsia kadulla .
+\g SITÄ play children in.street
+\l There are children playing in the street.
+
+\t NAMA LAPSET sitä olisivat oppineet uimaan .
+\g these children SITÄ have.COND.3PL learn to.swim
+\l THESE CHILDREN would have learned to swim.
+
+\t Morgen goa (tet) Valère niet kommen .
+\g Tomorrow goes TET Valere not come
+\l Tomorrow Valère is not coming.
+
+\t … dat (tet) Valere nie goa kommen
+\g … that TET Valère not goes come
+\l …that Valère isn't coming.
+
+\t We moeten wij uitprikken en dat telt hij niet mee .
+\g we must we logout and that counts hij not with.
+\l We have to log out and that does not count.
+
+\t Wien is dadde ?
+\g who is that
+\l Who’s that?
+
+\t Dat is Valère .
+\g that is Valère
+\l That’s Valère.
+
+\t Dat is tet Valère !
+\g that is TET Valère
+\l That’s Valère!
+
+\t *(Hän) puhuu englantia .
+\g S/he speak.3SC English
+\l S/he speaks English.
+
+\t Hän on vanha .
+\g he.NOM be.3SG old.NOM
+\l He is old.
+
+\t Minu-lla on häne-t .
+\g I-ADESS be.3SG him-ACC
+\l I have him.
+
+\t Tytöt istu-vat tuolilla .
+\g girls sit-3PL chair.ADE
+\l The girls sit on the chair.
+
+\t Istu-ta-an tuolilla .
+\g sit-PASS-PASS chair.ADE
+\l It is sat on the chair.
+
+\t Tytöt istu-i-vat tuolilla .
+\g girls sit-PAST-3PL chair.ADE
+\l The girls sat on the chair.
+
+\t Istu-tt-i-in tuolilla .
+\g sit-PASS-PAST-PASS chair.ADE
+\l It was sat on the chair.
+
+\t Tytöt istu-isi-vat tuolilla .
+\g girls sit-COND-3PL chair.ADE
+\l The girls would sit on the chair.
+
+\t Istu-tta-isi-in tuolilla .
+\g sit-PASS-COND-PASS chair.ADE
+\l One would sit on the chair.
+
+\t Tytöt o-vat istu-nee-t tuolilla .
+\g girls be-3PL sit-PTC-3PL chair.ADE
+\l The girls have sat on the chair.
+
+\t On istu-tt-u tuolilla .
+\g be-3SG sit-PASS-PTC chair.ADE
+\l It has been sat on the chair.’ ‘One has sat on the chair.
+
+\t Tytöt ol-i-vat istu-nee-t tuolilla .
+\g girls be-PAST-3PL sit-PTC-3PL chair-ADE
+\l The girls had sat on the chair.
+
+\t Ol-i istu-tt-u tuolilla .
+\g be-PAST.3SG sit-PASS-PTC chair.ADE
+\l It was sat on the chair.
+
+\t Tytöt ei-vät istu-nee-t tuolilla .
+\g girls not-3PL sit-PTC-PL chair.ADE
+\l The girls did not sit on the chair.
+
+\t Ei istu-tt-u tuolilla .
+\g not.3SG sit-PASS-PTC chair.ADE
+\l It was not sat on the chair.
+
+\t Tytöt ei-vät ole istu-neet tuolilla .
+\g girls not-3PL be sit-PTC.PL chair.ADE
+\l The girls have not sat on the chair.
+
+\t Ei ole istu-tt-u tuolilla .
+\g not-3SG be sit-PASS-PTC chair.ADE
+\l It has not been sat on the chair.
+
+\t Tytöt ei-vät ol-leet istu-neet tuolilla .
+\g girls not-3PL be-PTC-PL sit-PTC-PL chair.ADE
+\l The girls had not sat on the chair.
+
+\t Ei ol-lut istu-tt-u tuolilla .
+\g not.3SG be-PTC sit-PASS-PTC chair.ADE
+\l It had not been sat on the chair.
+
+\t ketkäi ti eivät olisi istuneet tuolilla ?
+\g who.PL(NOM) t not.3PL be.COND sit.PTC.PL chair.ADE
+\l Who(PL) would not have sat on the chair?
+
+\t istuisimme
+\g eat-COND-1PL
+\l we would eat
+
+\t olisimme istuneet
+\g be-COND-1PL sit-PASTPTC-PL
+\l we would have sat
+
+\t istu-tt-i-in
+\g sit-PASS-PAST-PASS
+\l it was sat
+
+\t emme istuisi
+\g not-1PL sit-COND
+\l we would not eat
+
+\t emme istu
+\g not-1PL sit
+\l we do not sit
+
+\t Tyttö ei istunut tuolissa .
+\g girl.NOM not.3SG sit.PASTPTC chair.INE
+\l The girl did not sit on the chair.
+
+\t Tytöt eivät istuneet tuolissa .
+\g girl.PL.NOM not.3PL sit.PASTPTC chair.INE
+\l The girls did not sit on the chair.
+
+\t Tytöt eivät ole istuneet tuolissa .
+\g girl.PL.NOM not.3PL be sit.PASTPTC chair.INE
+\l The girl did have not sat on the chair.
+
+\t ei istunut
+\g not-3SG sit-PASTPTC
+\l (she/he/it) did not sit
+
+\t eivät istuneet
+\g not-3PL sit-PASTPTC-PL
+\l ’(they) did not sit
+
+\t eivät ole istuneet
+\g not-PL be sit-PASTPTC-PL
+\l (they) have not sat
+
+\t eivät olleet istuneet
+\g not-PL3 be-PASTPTC-PL sit-PASTPTC-PL
+\l (they) had not sat
+
+\t ei ollut istuttu
+\g not be-PASTPTC sit-PASS-PASTPTC
+\l it had not been sat
+
+\t ei oltu istuttu
+\g not be-PASS-PASTPTC sit-PASS-PTC
+\l it had not been sat
+
+\t Milloin Jussi olisi romaanin kirjoittanut ?
+\g when Jussi would-have INDEF-novel written
+\l When would Jussi have written a novel?
+
+\t Milloin Jussi romaanin kirjoittanut olisi ?
+\g When Jussi INDEF-novel written would-have
+\l When would Jussi have written a novel?
+
+\t Milloin Jussi kirjoittanut romaanin olisi ?
+\g when Jussi written INDEF-novel would-have
+\l When would Jussi have written a novel?
+
+\t yli  rajan  maitten välillä  
+\g across border countries between
+\l across the border between the countries
+
+\t yli    maitten väli-se-n   rajan 
+\g across _ countries between-ADJ-GEN _ border
+\l across the border between the countries
+
+\t    maitten väli-se-n   rajan   yli
+\g _ countries between-ADJ-GEN _ border _ across
+\l across the border between the countries
+
+\t Tul-i-vat-ko lapset kotiin ?
+\g come-PST-3PL-Q children home
+\l Did the children come home?
+
+\t Tul-i-vat .
+\g come-PST-3PL
+\l Yes.
+
+\t Isä-s-kö ja äiti-s-kö se-n auto-n ost-i ?
+\g father-poss-Q and mother-poss-Q that-ACC car-ACC buy-3SG.past
+\l Was it your father and your mother who bought that car?
+
+\t Hän avasi ikkunan .
+\g he open.3SG.PST window.ACC.SG
+\l He opened the window.
+
+\t Hän avasi ikkunaa .
+\g he open.3SG.PST window.PART.SG
+\l (i) ‘He was opening the window.
+
+\t Söin omena-n / omena-a .
+\g eat.1sIPFV apple-ACC / apple-PART
+\l I ate/was eating an apple.
+
+\t En syönyt omena-a .
+\g NEG-1s eat-2PTCP apple-PART
+\l I didn’t eat/was not eating an apple.
+
+\t Kupi-ssa on kahvi-a .
+\g cup-INE be.PRS.3SG coffee-PAR
+\l There is coffee in the cup.
+
+\t Leikkikentä-llä juokse-e laps-i-a .
+\g playground-ADE run-PRS.3SG child-PL-PAR
+\l There are children running in the playground.
+
+\t Pöydä-llä on kirja .
+\g table-ADE be.PRS.3SG book.NOM
+\l There is a book on the table.
+
+\t Use-i-ta sotila-i-ta sa-i surma-nsa taistelu-ssa .
+\g several-PL-PAR soldier-PL-PAR get-PST.3SG death-ACC.3POSS battle-INE
+\l Several soldiers got killed (literally: ‘got their death’) in the battle.
+
+\t Mon-i-a ihmis-i-ä odott-i satee-ssa bussi-a .
+\g many-PL-PAR person-PL-PAR wait-PST.3SG rain-INE bus-PAR
+\l Many people were waiting for the bus in the rain.
+
+\t Keitto-a seuras-i erilais-i-a liha- , kala- ja vihannes-ruok-i-a .
+\g soup-PAR follow-PST.3SG differentd-PL-PAR meat fish and vegetable-dish-PL-PAR
+\l The soup was followed by different dishes of meat, fish, and vegetables.
+
+\t tulirokko-a seura-a usein jälkitaute-j-a
+\g scarlet.fever-PAR follow-PRS.3SG often complication-PL-PAR
+\l Scarlet fever is often followed by complications.
+
+\t Jo-ta-in unkarilais-i-a esitt-i siellä kansa-n-tansse-j-a .
+\g some-PAR-CLIT Hungarian-PL-PAR perform-PST.3SG there folk-GEN-dance-PL-PAR
+\l Some Hungarians were performing folk dances there.’ (from a private conversation; example courtesy of Jaakko Leino)
+
+\t korti-n on saa-nut henkilö-i-tä ,
+\g card-ACC have.PRS.3SG get-PTCP person-PL-PAR
+\l (joilla ei ole mitään yhteyttä keskustaan?)
+
+\t Tuhans-i-a ihmis-i-ä seuras-i tapahtum-i-a ääneti .
+\g thousand-PL-PAR person-PL-PAR follow-PST.3SG event-PL-PAR silently
+\l Thousands of people were following / followed the events silently.
+
+\t ihmis-i-ä seuras-i puhe-tta esityspaika-n ulkopuole-lla-kin .
+\g person-PL-PAR follow-PST.3SG speech-PAR venue-GEN outside-ADE-also
+\l (The venue was full, so that) there were people following the speech even outside the venue.
+
+\t si-tä seuras-i use-i-ta voimakka-i-ta räjähdyks-i-ä luol-i-ssa .
+\g it-PAR follow-PST.3SG several-PL-PAR powerful-PL-PAR explosion-PL-PAR cave-PL-INE
+\l (First a minor explosion was heard and) it was followed by several powerful explosions in the caves.
+
+\t Teoria-sta-si seura-a ongelm-i-a .
+\g theory-ELA-2SG.POSS follow-PRS.3SG problem-PL-PAR
+\l Problems will follow from your theory.
+
+\t Tuhans-i-a kelkko-j-a palvele-e matkailu-a .
+\g thousand-PL-PAR sleigh-PL-PAR serve-PRS.3SG tourism-PAR
+\l Thousands of sleighs serve tourism.’ (Newspaper headline, Helsingin Sanomat 9.12.2000, example courtesy of Jaakko Leino)
+
+\t Sato-j-a-tuhans-i-a ihmis-i-ä jätt-i Suome-n .
+\g hundred-PL-PAR-thousand-PL-PAR person-PL-PAR leave-PST.3SG Finland-ACC
+\l Hundreds of thousands of people left Finland.
+
+\t Viera-i-ta ihmis-i-ä hak-i tavaro-i-ta piene-stä vaaleanpunaise-sta huonee-sta .
+\g strange-PL-PAR person-PL-PAR fetch-PST.3SG thing-PL-PAR small-ELA pink-ELA room-ELA
+\l Strange people were fetching things from the small pink room.
+
+\t Vasta .ranna-n möki-llä ihmis-i-ä viett-i ilta-a ja soittel-i kitara-a .
+\g opposite.shore-GEN cabin-ADE person-PL-PAR spend-PST.3SG night-PAR and play-PST.3SG guitar-PAR
+\l At the cabin on the opposite shore there were people spending the night and playing the guitar.
+
+\t että tietty-j-ä historiallis-i-a muutoks-i-a seura-a välttämättä jo-ta-kin muu-ta
+\g that certain-PL-PAR historical-PL-PAR change-PL-PAR follow-PRS.3SG necessarily something<PAR> else-PAR
+\l 'that certain historical changes are necessarily followed by something else
+
+\t Rakens-i-n talo-n~talo-a .
+\g build-PST-1SG house-ACC~PAR
+\l I built [and completed] a/the house.’ [ACC] / ‘I was building a/the house ~ built a/the house a bit ~ did some house-building.’ [PAR] (C)
+
+\t Löys-i-n kirja-n~kirja-t~kirjo-j-a~*kirja-a
+\g find-PST-1SG book-ACC~PL.NOM~PL-PAR~*SG.PAR
+\l I found [a/the] book.’ [SG.ACC]
+
+\t Ihaile-n Kallu-a~*Kallu-n .
+\g admire-PRS-1SG Kallu-PAR~*ACC
+\l I admire Kallu.’ (C)
+
+\t ja se-n on saa-nut tosi hieno-j-a kirjailijo-i-ta .
+\g and it-ACC have.PRS.3SG get-PTCP really fine-PL-PAR writer-PL-PAR
+\l (It is an old prize given to young writers,) and some really fine writers have won it.
+
+\t ( ?)Kirkko-a / *kirkon rakens-i kymmen-i-ä sukupolvi-a .
+\g church-PAR _ *ACC build-PST.3SG ten-PL-PAR generation-PL-PAR
+\l Tens of generations built [participated in the building of] the church.’ (C)
+
+\t Sotila-i-ta seuras-i aina huolto .joukko-j-a ja kauppia-i-ta huolto .varmuude-n ylläpitämise-ksi .
+\g soldier-PL-PAR follow-PST.3SG always maintenance.troop-PL-PAR and vendor-PL-PAR maintenance.certainty-GEN securing-TRA
+\l Soldiers were always followed by maintenance troops and vendors to secure the maintenance.
+
+\t Tyttö-j-ä seuras-i poik-i-a .
+\g girl-PL-PAR follow-PST.3SG boy-PL-PAR
+\l [Some] girls followed [some/the] boys’ / ‘[Some/the] girls were followed by [some] boys.
+
+\t Kymmen-i-ä , ell-ei sato-j-a sotila-i-ta seuras-i hän-tä .
+\g ten-PL-PAR if-NEG hundred-PL-PAR soldier-PL-PAR follow-PST.3SG 3SG-PAR
+\l Tens if not hundreds of soldiers followed him/her.
+
+\t Turiste-j-a saapu-u ihastele-ma-an rakennus-ta .
+\g tourist-PL-PAR arrive-PRS.3SG admire-INF-ILL building-PAR
+\l Tourists arrive to admire the building.’ (C)
+
+\t Ole-n luke-ma-ssa tä-tä raportti-a-si .
+\g be-PRS.1SG read-INF-INE this-PAR report-PAR-2SG.POSS
+\l I am reading this report of yours.’ (C)
+
+\t Use-i-ta auto-j-a seiso-o piha-lla .
+\g several-PL-PAR car-PL-PAR stand-PRS.3SG yard-ADE
+\l There are several cars standing in the yard.’ (C)
+
+\t Paljon auto-j-a seiso-o piha-lla .
+\g a.lot.of car-PL-PAR stand-PRS.3SG yard-ADE
+\l There are a lot of cars standing in the yard.’ (C)
+
+\t Täysi torillinen ihmis-i-ä seuras-i Valoviikko-jen avajais-i-a Tamperee-lla .
+\g full market.place.full person-PL-PAR follow-PST.3SG ligh.week-PL.GEN opening-PL-PAR Tampere-ADE
+\l A full market-place-full of people was following the openings of the Illuminations in Tampere.
+
+\t Suuri joukko ihmis-i-ä seuras-i Schwarzeneggeri-n ja olympiatule-n yhteis-tä matka-a .
+\g big crowd person-PL-PAR follow-PST.3SG Schwarzenegger-GEN and olympic.fire-GEN joint-PAR journey-PAR
+\l A big crowd of people followed the journey of Schwarzenegger and the Olympic Flame.
+
+\t Runsaa-sti ihmis-i-ä seuras-i vappupuhe-i-ta aurinkoise-lla mutta tuulise .lla kauppatori-lla .
+\g abundant-ADV person-PL-PAR follow-PST.3SG 1st.of.May.speech-PL-PAR sunny-ADE but windy-ADE market.square-ADE
+\l A lot of [lit. abundantly] people were following the 1st of May speeches on the sunny but windy market square.
+
+\t sama-n verra-n ihmis-i-ä seuras-i paika-n pää-llä häne-n hautajais-i-a-an .
+\g same-ACC amount-ACC person-PL-PAR follow-PST.3SG spot-GEN on-ADE 3SG-GEN funeral-PL-PAR-3POSS
+\l (Elvis Presley’s death in 1977 immediately brought over 100 000 mourners to the gates of Graceland, and) the same amount of people followed his funeral on the spot.
+
+\t paljon ihmis-i-ä seuras-i hän-tä .
+\g a.lot.of person-PL-PAR follow-PST.3SG 3SG-PAR
+\l (Wherever He [Christ] went), a lot of people followed Him.
+
+\t minu-a tuijott-i use-i-ta silmä .pare-j-a varjo-i-sta .
+\g 1SG-PAR stare-PST.3SG several-PL-PAR eye.pair-PL-PAR shadow-PL-ELA
+\l (Then I noticed that) I was stared at by several pairs of eyes from the shadows.
+
+\t hundred-PL-PAR person-PL-PAR have .PRS .3SG read-PTCP message-ACC .2SG .POSS
+\g (niin harva kuitenkaan vaivautuu vastaamaan)
+\l (Even though you see that) hundreds of people have read your message, (only few bother to answer you).
+
+\t Poim-i-n sien-i-ä tunni-n (*tunni-ssa) .
+\g pick-PST.1SG mushroom-PL-PAR hour-ACC (*INE)
+\l I picked mushrooms for (*in) an hour.’ (C)
+
+\t Poim-i-n siene-t tunni-ssa (*tunni-n) .
+\g pick-PST.1SG mushroom-PL.NOM hour-INE (*ACC)
+\l I picked the mushrooms in (*for) an hour.’ (C)
+
+\t Poim-i-n use-i-ta sien-i-ä tunni-ssa (*tunni-n) .
+\g pick-PST.1SG several-PL-PAR mushroom-PL.NOM hour-INE (*ACC)
+\l I picked several mushrooms in (*for) an hour.’ (C)
+
+\t Poim-i-n kymmen-i-ä sien-i-ä tunni-ssa (*tunni-n) .
+\g pick-PST-1SG ten-PL-PAR mushroom-PL-PAR hour-INE (*ACC)
+\l I picked tens of mushrooms in (*for) an hour.’ (C)
+
+\t Tyttö-j-ä seuras-i use-i-ta poik-i-a .
+\g girl-PL-PAR follow-PST.3SG several-PL-PAR boy-PL-PAR
+\l The girls were followed by several boys’ / ?? ’[Some] girls followed several boys.’ (C)
+
+\t Kymmen-i-ä tyttö-j-ä seuras-i poik-ia .
+\g ten-PL-PAR girl-PL-PAR follow-PST.3SG boy-PL-PAR
+\l Tens of girls followed the boys’. / ??’Tens of girls were followed by boys.’ (C)
+
+\t Tyttö-j-ä seuras-i paljon poik-i-a
+\g girl-PL-PAR follow-PST.3SG a.lot.of boy-PL-PAR
+\l The girls were followed by a lot of boys.’ (C)
+
+\t Kymmen-i-ä tyttö-j-ä seuras-i use-i-ta poik-i-a .
+\g ten-PL-PAR girl-PL-PAR follow-PST.3SG several-PL-PAR boy-PL-PAR
+\l Tens of girls were followed by several boys.’ / ’Tens of girls followed several boys.’ (C)
+
+\t Heikki rakasta-a kolme-a nais-ta .
+\g Heikki love-PRS.3SG three-PAR woman-SG.PAR
+\l Heikki loves three women.’ (C)
+
+\t Viisi mies-tä saapu-i .
+\g five.NOM man-SG.PAR arrive-PST.3SG
+\l Five men arrived.’ (C)
+
+\t Viide-llä miehe-llä on flunssa .
+\g five-ADE man-SG.ADE is.PRS.3SG flu.NOM
+\l Five men have the flu.’ (C)
+
+\t Mon-ta mies-tä saapu-i .
+\g many-PAR man-SG.PAR arrive-PST.3SG
+\l Many men arrived.’ (C)
+
+\t Viisi (*viit-tä) mies-tä saapu-i .
+\g five.NOM (*PAR) man-SG.PAR arrive-PST.3SG
+\l Five men arrived.’ (C)
+
+\t Ole-n luke-nut mon-ta~kaksi kirja-a .
+\g have-PRS.1SG read-PTCP many-PAR~two.NOM book-SG.PAR
+\l I have read many ~ two books [completely].’ (C)
+
+\t Ole-n luke-nut mon-ta-a~kah-ta kirja-a .
+\g have-PRS.1SG read-PRTC many-PAR-PAR~two-PAR book-SG.PAR
+\l I have read many ~ two books [not completely]’; ‘I have been reading many ~ two books.’ (C)
+
+\t Eemeli rakasta-a mon-ta(-a) nais-ta .
+\g Eemeli love-PRS.3SG many-PAR(-PAR) woman-SG.PAR
+\l Eemeli loves many women.
+
+\t Eemeli rakasta-a kah-ta (*kaksi) nais-ta .
+\g Eemeli love-PRS.3SG two-PAR (*NOM) woman-SG.PAR
+\l Eemeli loves two women.
+
+\t Minu-a katsel-i mon-ta utelias-ta silmä-ä .
+\g 1SG-PAR watch-PST.3SG many-PAR curious-SG.PAR eye-SG.PAR
+\l I was watched by many curious eyes.
+
+\t Mon-ta ihmis-tä on rakenta-nut talo-n .
+\g many-PAR person-SG.PAR have.PRS.3SG build-PRTC house-ACC
+\l Many people have built a house [each their own].
+
+\t Sata ihmis-tä on rakenta-nut talo-n .
+\g hundred person-SG.PAR have.PRS.3SG build-PRTC house-ACC
+\l A hundred people have built a/the house [together or each their own].’ (C)
+
+\t Tä-ssä on mon-ta-a~viit-tä kahvi-a .
+\g here-INE be.PRS.3SG many-PAR-PAR~five-PAR coffee-SG.PAR
+\l Here is coffee of many ~ five kinds.’ (C)
+
+\t Tä-ssä on mon-ta~viisi kahvi-a .
+\g here-INE be.PRS.3SG many-PAR~five.NOM coffee-SG.PAR
+\l Here are many ~ five [portions of] coffee.’ (C)
+
+\t Pidätkö kalasta ?
+\g like.2SG.Q fish.ELA
+\l Do you like fish?
+
+\t He pelkäävät kaloja !
+\g 3PL fear.3PL fish.PL.PTV
+\l They are afraid of fish!
+
+\t Liisa muisti matkan vuoden .
+\g Liisa.NOM remembered trip.ACC year.ACC
+\l Liisa remembered the trip for a year.
+
+\t Lapsen täytyy lukea kirja  kolmannen kerran .
+\g child.GEN must read book.NOM [third time].ACC
+\l The child must read the book for a third time.
+
+\t Kekkoseen luotettiin  yksi kerta .
+\g KekkonenILL trust [one time].NOM
+\l Kekkonen was trusted once.
+
+\t Kekkoseen luotettiin  yhden kerran  yksi vuosi .
+\g KekkonenILL trust [one time].ACC [one year].NOM
+\l Kekkonen was trusted for one year once.
+
+\t Minä e-n puhu-isi .
+\g I.NOM NEG-1SG speak-COND
+\l I would not speak.
+
+\t Ammuin karhu-a .
+\g I.shot bear-PART
+\l *I shot at the bear.
+
+\t Ammuin karhu-n .
+\g I.shot bear-ACC
+\l *I shot the bear.
+
+\t teidän lapsien mielipiteet
+\g you.GEN children.GEN opinions
+\l you children’s opinions
+
+\t teidän mielipitee-nne
+\g you.GEN opinions-2PL
+\l your.PL opinions
+
+\t teidän lapsien mielipitee (*-nne)
+\g you.GEN children.GEN opinions -2PL
+\l you children’s opinions
+
+\t Me lapset voimme tulla mukaan .
+\g we.NOM children.NOM can.1PL come along
+\l We children can come along.
+
+\t Ne eivät ota meitä lapsia vakavasti .
+\g they.NOM not.3PL take we.PART children.PART seriously
+\l They don’t take us children seriously.
+
+\t (Meidän) mielipiteitä-mme ei oteta vakavasti .
+\g we.GEN opinions.PART-1PL not take.PASS seriously
+\l Our opinions are not taken seriously.
+
+\t Heidän mielipiteitä-nsä ei oteta vakavasti .
+\g their.GEN opinions.PART-3 not take.PASS seriously
+\l Their opinions are not taken seriously.
+
+\t Lapsien mielipiteitä(*-nsä) ei oteta vakavasti .
+\g children.GEN opinions-3 not take.PASS seriously
+\l (The) children’s opinions are not taken seriously.
+
+\t meidän lapsie-mme mielipiteitä
+\g we.GEN children-1PL opinions
+\l our children’s opinions
+
+\t Sitä leikkii lapsia kadulla .
+\g EXPL play children in.street
+\l *There are children
+
+\t Sitä väsyy nykyään helpommin kuin ennen .
+\g EXPL gets-tired nowadays easier than before
+\l *One gets tired these days easier than before.
+
+\t Täällä ei saa polttaa
+\g here not may smoke
+\l *One can't smoke here.
+
+\t poika söi jäätelö-n
+\g boy.NOM eat.PST.3SG ice.cream-ACC
+\l The boy ate the ice cream.
+
+\t jäätelö syö-tiin
+\g ice.cream.NOM eat-PST.PASS
+\l The ice cream was eaten.
+
+\t * Milloin Jussi kirjoittanut romaanin olisi ?
+\g _ when Jussi written novel would.have
+\l Intended reading: ‘When would Jussi have written a novel?’ (from : 177)
+

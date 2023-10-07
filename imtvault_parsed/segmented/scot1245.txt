@@ -1,0 +1,272 @@
+\t Tha Calum faiceallach .
+\g Be.PRS Calum careful
+\l *Calum is (being) careful.
+
+\t Tha Calum anns a' bhùth .
+\g Be.PRS Calum in the shop
+\l *Calum is in the shop.
+
+\t * Tha Calum oileanach .
+\g _ Be.PRS Calum student
+\l * intended: `Calum is a student.
+
+\t Tha Calum na oileanach .
+\g Be.PRS I in.POSS.3SG.M student
+\l *Calum is a student.
+
+\t Is cat Lilly
+\g COP cat Lilly
+\l *Lilly is a cat
+
+\t 'S e oileanach a th' ann_an Calum
+\g COP it student REL be.PRS in Calum
+\l *Calum is a student.
+
+\t Bha e nam/nad/na thaigh
+\g be.PST he in-my/in-your/in-his house
+\l He was in my/your/his house.
+
+\t Bha e na/nar/nur/nan taigh
+\g be.PST he in-her/in-our/in-your[pl]/in-their house
+\l He was in her/our/your/their house.
+
+\t * Tha oileanach na Calum .
+\g _ Be.PRS student in.POSS.3SG.M Calum
+\l * intended: `Calum is a student.
+
+\t 'S e oileanach a th' anns a' bhalach
+\g COP it student REL be.PRS in.DEF the boy
+\l *The boy is a student.
+
+\t * 'S e am balach a th' ann_an oileanach
+\g _ COP it the boy REL be.PRS in student
+\l * intended: `The boy is a student.
+
+\t Tha Calum ag òl .
+\g Be.PRS Calum ASP drink.VN
+\l *Calum is drinking.
+
+\t Tha Calum air òl .
+\g Be.PRS Calum ASP drink.VN
+\l *Calum has drunk.
+
+\t Tha Calum gu òl .
+\g Be.PRS Calum ASP drink.VN
+\l *Calum is about to drink.
+
+\t Tha Calum na shuidhe .
+\g be.PRS Calum in.POSS.3SG.M sit.VN
+\l *Calum is sitting.
+
+\t Tha sinn nar cadal .
+\g be.PRS we in.POSS.1PL sleep.VN
+\l *We are sleeping.
+
+\t * Tha Calum ann_an oileanach .
+\g _ Be.PRS Calum in student
+\l * *Calum is a student.
+
+\t Tha mi nam oileanach .
+\g Be.PRS I in.POSS.1SG student
+\l *I am a student.
+
+\t Tha na balaich nan oileanaich .
+\g Be.PRS the boys in.POSS.3PL student
+\l *The boys are students.
+
+\t na caileagan mòra
+\g the.PL girls big.PL
+\l *the big girls
+
+\t Tha na caileagan mòr/*mòra
+\g be.PRS the.PL girls big/*big.PL
+\l *The girls are big.
+
+\t Tha na caileagan nan oileanaich
+\g be.PRS the girls in.POSS.3PL students
+\l *The girls are students.
+
+\t Tha sibh nur oileanach
+\g be.PRS you in.POSS.2PL student
+\l *You are a student.
+
+\t * Tha oileanach ann_an Calum
+\g _ be.PRS student in Calum
+\l * intended: `Calum is a student.
+
+\t 's e oileanach a th' ann_an Calum .
+\g COP it student REL be.PRS in Calum
+\l *Calum is a student.
+
+\t  ?* Tha Lilly na cat
+\g _ be.PRS Lilly in.POSS.3SG.F cat
+\l ?* *Lilly is a cat
+
+\t 'S e cat a th' ann_an Lilly
+\g COP it cat REL be.PRS in Lilly
+\l *Lilly is a cat.
+
+\t Tha mi nam òraidaiche .
+\g be.PRS I in.POSS.1SG lecturer
+\l *I am a lecturer
+
+\t Is eun (an) iolaire .
+\g COP bird (the) eagle
+\l *The eagle is a bird/An eagle is a bird.
+
+\t * Tha (an) iolaire na eun
+\g _ be.PRS (the) eagle in.POSS.3SG.M bird
+\l * intended: `The eagle is a bird/An eagle is a bird.
+
+\t 's e eun a th' anns an iolaire / a th' ann_an iolaire
+\g COP it bird REL be.PRS in.DEF the eagle / REL be.PRS in eagle
+\l *The eagle is a bird/An eagle is a bird.
+
+\t 's e òraidaiche a th' annam
+\g COP it lecturer REL be.PRS in.1SG
+\l *I'm a lecturer.
+
+\t Shuidh mi
+\g sit.PST I
+\l *I sat (down).
+
+\t Bha mi a' suidhe
+\g be.PST I SIMP sit.VN
+\l *I sat/was sitting.
+
+\t Bha mi nam shuidhe
+\g be.PST I in.POSS.1SG sit.VN
+\l *I was sitting/seated.
+
+\t Sheas mi
+\g stand.PST I
+\l *I stood (up).
+
+\t Bha mi a' seasamh
+\g be.PST I SIMP stand.VN
+\l *I stood/was standing.
+
+\t Bha mi nam sheasamh
+\g be.PST I in.POSS.1SG stand.VN
+\l *I was standing.
+
+\t Chaidil mi
+\g sleep.PST I
+\l *I fell asleep.
+
+\t Bha mi a' cadal
+\g be.PST I SIMP sleep.VN
+\l *I slept/was falling asleep.
+
+\t Bha mi nam chadal
+\g be.PST I in.POSS.1SG sleep.VN
+\l *I was sleeping/asleep.
+
+\t Dè tha sin a' ciallachadh
+\g what be.PRS that SIMP mean.VN
+\l *What does that mean?
+
+\t Dè tha sin na ciallachadh
+\g what be.PRS that in.POSS.3SG mean.VN
+\l intended: `What does that mean?
+
+\t Dh'èirich e na shuidhe
+\g rise.PST he in.POSS.3SG.M sit.VN
+\l *He sat up (literally, he rose in his sitting).
+
+\t Leum mi nam sheasamh
+\g jump.PST I in.POSS.1SG stand.VN
+\l *I jumped to a standing position (literally, I jumped in my standing).
+
+\t Bha Iain na shuidhe fad uair a thìde
+\g be.PST Iain in.POSS.3SG.M sit.VN length hour of time
+\l *Iain was sitting for an hour.
+
+\t Bha Iain na oileanach fad dà bhliadhna
+\g be.PST Iain in.POSS.3SG.M sit.VN length two year
+\l *Iain was a student for two years.
+
+\t nam b' e shape-changer a bh' innte
+\g if COP.COND it shape-changer REL be.PST in.3SG.F
+\l *if she was a shape-changer.
+
+\t Tha mi a' faicinn a' chait
+\g be.PRS I SIMP see.VN the.GEN cat.GEN
+\l *I see the cat.
+
+\t Tha a phiuthair na comhairle a gheibh a' vote agam .
+\g be.PRS her sister in.POSS.3SG.F councillor that get.FUT the vote at.1SG
+\l *His sister is a councillor who I will vote for.
+
+\t Tha Calum na oileanach ùr
+\g be.PRS Calum in.POSS.3SG.M student new
+\l *Calum is a new student
+
+\t Bha iad nan còig oileanaich
+\g be.PST they in.POSS.3PL five students
+\l *They were five students.
+
+\t Bha iad nam mòran oileanaich
+\g be.PST they in.POSS.3PL many students
+\l *They were many students.
+
+\t 's e còig oileanaich a bh' annta
+\g COP it five students REL be.PRS in.3PL
+\l *They were five students.
+
+\t 's e mòran oileanaich a bh' annta
+\g COP it many students REL be.PRS in.3PL
+\l *They were many students.
+
+\t Tha sinn nar deugairean
+\g be.PRS we in.POSS.1PL teenager.PL
+\l *We are teenagers.
+
+\t Tha i na deugaire
+\g be.PRS she in.POSS.3SG.F teenager
+\l *She is a teenager.
+
+\t na balaich mòra
+\g the.M.PL boy.PL big-PL
+\l *The big boys.
+
+\t Tha na balaich mòra
+\g be.PRS the.M.PL boy.PL big-PL
+\l intended: `The boys are big.
+
+\t Is eun sgarbh
+\g COP bird cormorant
+\l *A cormorant is a bird (Generic)
+
+\t 's e Calum an oileanach
+\g Cop.PRS it Calum the student
+\l *Calum is the student.
+
+\t Tha ceann mòr ann_an Calum
+\g be.PRS head big in Calum
+\l Calum is big-headed.
+
+\t * Dè an oileanach a th' ann_an Calum
+\g _ What the student REL be.PRS in Calum
+\l * intended: `What kind of student is Calum?
+
+\t * 'S e ceann mòr a th' ann_an Calum
+\g _ COP it big head that be.PRS in Calum
+\l * intended: `It's big-headed that Calum is
+
+\t Dè an seòrsa oileanach a th' ann_an Calum
+\g What the sort student REL be.PRS in Calum
+\l *What kind of a student is Calum.
+
+\t cha chreid mi nach eil iad gu math
+\g NEG believe.INDF 1SG NEG.COMP be.PRS 3PL ADV good
+\l I believe they are well.
+
+\t Tha cait fhiathaich ann .
+\g COP.PRS cat.PL wild in.3SG.M
+\l There are wild cats.
+
+\t Chan eil cait fhiathaich (idir) ann .
+\g NEG COP.PRS.DEP cat.PL wild (at.all) in.3SG.M
+\l There are no wild cats.
+

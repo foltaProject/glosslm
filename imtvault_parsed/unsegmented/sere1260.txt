@@ -1,0 +1,310 @@
+\t Jegaan a nafaxam .
+\g Jegaan 3 hit-DV-1SG.OBJ
+\l Jegaan hit me.
+
+\t Jegaan a nafaang .
+\g Jegaan 3 hit-DV-2SG.OBJ
+\l Jegaan hit you.
+
+\t Jegaan a nafaan .
+\g Jegaan 3 hit-DV-3SG.OBJ
+\l Jegaan hit him/her/it.
+
+\t Jegaan a nafa a in .
+\g Jegaan 3 hit-DV OBJ 1PL
+\l Jegaan hit us.
+
+\t Jegaan a nafa a nuun .
+\g Jegaan 3 hit-DV OBJ 2PL
+\l Jegaan hit you guys.
+
+\t Jegaan a nafa a den .
+\g Jegaan 3 hit-DV OBJ 3PL
+\l Jegaan hit them.
+
+\t Mataar a jawa  DP maalo fe 
+\g Mataar 3 cook-DV _ rice DET
+\l Mataar cooked the rice.
+
+\t Mataar a jawaani  DP maalo fe i
+\g Mataar 3 cook-DV-3SG.OBJ _ rice DET
+\l Intended: `Mataar cooked the rice.
+
+\t Jegaan a bugaani  DP ya' um oxe i .
+\g Jegaan 3 love-DV-3SG.OBJ _ mother 3POSS DET
+\l Intended: `Mataar loves his mother.' Kinship term
+
+\t Jegaan a ga'axami  DP a mi i .
+\g Jegaan 3 see-DV-1SG.OBJ _ OBJ 1SG
+\l Intended: `Jegaan saw me.' Free pronoun
+
+\t Jegaan a ga'aani  DP okoor oxe i .
+\g Jegaan 3 see-DV-3SG.OBJ _ man DET
+\l Intended: `Jegaan saw the man.' Human animate
+
+\t Jegaan a ga'aani  DP muus ne i .
+\g Jegaan 3 see-DV-3SG.OBJ _ cat DET
+\l Intended: `Jegaan saw the cat.' Non-human animate
+
+\t Jegaan a jikaani  DP mbin ne i
+\g Jegaan 3 buy-DV-3SG.OBJ _ house DET
+\l Intended: `Jegaan bought the house.' Inanimate
+
+\t xari Ami a jikuni ?
+\g what Ami 3 buy-EXT-3SG.OBJ
+\l Intended: `What did Ami buy?' Inanimate -word
+
+\t ani Ami a buguni ?
+\g who Ami 3 love-EXT-3SG.OBJ
+\l Intended: `Who does Ami love?' Animate -word
+
+\t JegaaniFOC Ami a buguni .
+\g Jegaan Ami 3 love-EXT-3SG.OBJ
+\l Intended: `It's Jegaan that Ami loves.' DP focus
+
+\t (a) wo'iFOC Ami a bugongi .
+\g OBJ 2SG Ami 3 love-2SG.OBJ.EXT
+\l Intended: `It's you that Ami loves.' Pronoun focus
+
+\t  N maalo i  CP ne Ami a ñamuunia 
+\g _ rice _ REL.DET Ami 3 eat-EXT-3SG.OBJ-REL
+\l Intended: `the rice that Ami ate
+
+\t aniini Ami a bugu a deni ?
+\g who.PL Ami 3 love-EXT OBJ 3PL
+\l Intended: `Who all does Ami love?' Plural -word
+
+\t (a) nuuniFOC Ami a ga'u a nuuni .
+\g OBJ 2PL Ami 3 see-EXT OBJ 2PL
+\l Intended: `It's you all that Ami saw.' Plural DP focus
+
+\t maalo fe , Mataar a jawaan .
+\g rice DET Mataar 3 cook-DV-3SG.OBJ
+\l The rice, Mataar cooked it.' Suffix
+
+\t maalo fe , Mataar a jawaØ .
+\g rice DET Mataar 3 cook-DV
+\l Intended: `The rice, Mataar cooked it.' No Suffix
+
+\t (a) mi , Mataar a buga*(xam) .
+\g OBJ 1SG Mataar 3 cook-DV-1SG.OBJ
+\l Intended: `Me, Mataar likes.
+
+\t (a) wo' , Mataar a buga*(ang) .
+\g OBJ 2SG Mataar 3 cook-DV-1SG.OBJ
+\l Intended: `You, Mataar likes.
+
+\t goor we , Mataar a ga'a a den .
+\g men DET Mataar 3 see-DV OBJ 3PL
+\l The men, Mataar saw them.' Pronoun
+
+\t Jegaan a falaang .
+\g Jegaan 3 kick-DV-2SG.OBJ
+\l Jegaan kicked you.' Object suffix
+
+\t Jegaan a fala (a) wo' .
+\g Jegaan 3 kick-DV OBJ 2SG
+\l Intended: `Jegaan kicked you.' Free pronoun
+
+\t Jegaan a falaang faak .
+\g Jegaan 3 kick-DV-2SG.OBJ yesterday
+\l Jegaan kicked you yesterday.
+
+\t Jegaan a fala faak (a) wo' .
+\g Jegaan 3 kick-DV yesterday OBJ 2SG
+\l Intended: `Jegaan kicked you yesterday.
+
+\t Jegaan a fala (a) wo' faak .
+\g Jegaan 3 kick-DV OBJ 2SG yesterday
+\l Intended: `Jegaan kicked you yesterday.
+
+\t Jegaan a ga'a (a nuun) faak (a nuun) .
+\g Jegaan 3 kick-DV OBJ 2PL yesterday OBJ 2PL
+\l Jegaan saw you guys yesterday.' Plural pronoun
+
+\t Jegaan a ga'a (otew oxe) faak (otew oxe) .
+\g Jegaan 3 kick-DV woman DET yesterday woman DET
+\l Jegaan saw the woman yesterday.' Full DP
+
+\t Jegaan a ci'a  DP okoor oxe  ↔  DP atere le  .
+\g Jegaan 3 give-DV _ man DET _ book DET _
+\l Jegaan gave the man the book.' GOAL < THEME / THEME < GOAL
+
+\t a jawana  DP okoor oxe  ↔  DP maalo fe  .
+\g 3 cook-BEN-DV _ man DET _ rice DET _
+\l He cooked the rice for the man.' BEN < THEME / THEME < BEN
+
+\t Jegaan a ci'aangGOAL  DP a ten THEME .
+\g Jegaan 3 give-DV-2SG.OBJ _ OBJ 3SG
+\l Jegaan gave you it.'Goal suffix
+
+\t Jegaan a ci'aanTHEME  DP a wo' GOAL .
+\g Jegaan 3 give-DV-3SG.OBJ _ OBJ 2SG
+\l Jegaan gave it to you.'Theme suffix
+
+\t Jegaan a ci'aangGOALinTHEME .
+\g Jegaan 3 give-DV-2SG.OBJ-3SG.OBJ
+\l Intended: `Jegaan gave you it.'Two suffixes
+
+\t Jegaan a falnoora  DP okoor oxe   DP naak le O .
+\g Jegaan 3 kick-CAUS-DV _ man DET _ cow DET
+\l Jegaan made the man kick the cow.' CAUSEE < OBJECT
+
+\t Jegaan a falnoora  DP naak le O  DP okoor oxe  .
+\g Jegaan 3 kick-CAUS-DV _ cow DET _ man DET
+\l Intended: `Jegaan made the man kick the cow.' *OBJECT < CAUSEE
+
+\t Jegaan a falnooraangCAUSEE  DP naak le OBJECT .
+\g Jegaan 3 kick-CAUS-DV-2SG.OBJ _ cow DET
+\l Jegaan made you kick the cow.' Object suffix
+
+\t Jegaan a falnoora  DP a wo' CAUSEE  DP naak le OBJECT .
+\g Jegaan 3 kick-CAUS-DV _ OBJ 2SG _ cow DET
+\l Jegaan made you kick the the cow.' Free pronoun
+
+\t Jegaan a falnooraangOBJECT  DP okoor oxe CAUSEE .
+\g Jegaan 3 kick-CAUS-DV-2SG.OBJ _ man DET
+\l Jegaan made the man kick you.' Object suffix
+
+\t Jegaan a falnooraangCAUSEEinOBJECT .
+\g Jegaan 3 kick-CAUS-DV-2SG.OBJ-3SG.OBJ
+\l Intended: `Jegaan made you kick it.'Two suffixes
+
+\t  DP okoor oxe GOAL a ci'en
+\g _ man DET 3 give-PASS-3SG.OBJ
+\l Intended: 'The man was given it.' Goal suffix
+
+\t  DP atere le THEME a ci'en
+\g _ book DET 3 give-PASS-3SG.OBJ
+\l Intended: `The book was given to him/her.' Theme suffix
+
+\t  DP okoor oxe GOAL a ci'e  DP a ten THEME
+\g _ man DET 3 give-PASS _ OBJ 3SG
+\l The man was given it.
+
+\t  DP atere le THEME a ci'e  DP a ten GOAL
+\g _ book DET 3 give-PASS _ OBJ 3SG
+\l The book was given to him/her.
+
+\t o njaaƈ onqe ɓoguirkatiran
+\g CL child CLDEF wash-REF-INST-IPFV-IT-NEG-3OBJ
+\l The child will not wash him/herself with this again
+
+\t xa caaƈ axe ɓoguirkatiran
+\g CLPL child CLDEF-PL wash-REF-INST-IPFV-IT-NEG-OBJ
+\l The children will not wash him/herself with this again
+
+\t Faatu a buga Maamkoor
+\g Faatu 3SG love-PERF Maamkoor
+\l Faatu loves Mamkoor
+
+\t Awa a diid lat a o fes ole
+\g Awa 3SG be.scared -CAUS PERF CL young.man CLDEF
+\l Awa frightened the young man
+
+\t Faatu a beta o njaaƈ onqe
+\g Faatu 3SG surprise-PERF CL child CLDEF
+\l Faatu surprised the child
+
+\t o fes ole a sooɓ a o tew oxe
+\g CL young.man CLDEF 3SG miss PERF CL woman CLDEF
+\l The woman misses the young man
+
+\t o tew oxe a and a Maamkoor
+\g CL lady CLDEF 3SG know PERF Maamkoor
+\l The lady knows Mamkoor
+
+\t Faatu a jaax ɗat a o tew oxe
+\g Faatu 3SG be.worried -CAUS PERF CL lady CLDEF
+\l Faatu made the woman worried
+
+\t Faatu a bet a o njaaƈ onqe
+\g Faatu 3SG surprise PERF CL child CLDEF
+\l Faatu suprised the child
+
+\t Faatu a weg a o tew oxe
+\g Faatu 3SG be.unlucky PERF CL lady CLDEF
+\l Faatu brought bad luck to the woman
+
+\t Awa a fel a o njaaƈ onqe
+\g Awa 3SG appeal PERF CL boy CLDET
+\l Awa appeals to the boy
+
+\t Awa a ñaam a maalo fe
+\g Awa 3SG eat PERF rice CLDEF
+\l Awa ate the rice
+
+\t maalo fe a ñaameɁ (*Awa)
+\g rice CLDEF 3SG eat-PASS Awa
+\l the rice was eaten
+
+\t Awa a diidlat a o fes ole
+\g Awa 3SG be.scared-CAUS PERF CL young.man CLDEF
+\l Awa frightened the young man
+
+\t o fes ole a diidlateɁ
+\g CL young.man CLDEF 3SG be.scared-CAUS-PASS
+\l The young man was frightened
+
+\t o njaaƈ onqe a beteɁ
+\g CL child CL 3SG surprise-PASS
+\l the child was surprised
+
+\t o tew oxe a sooɓeɁ
+\g CL woman CLDEF 3SG miss-PASS
+\l The woman was missed' (intended)
+
+\t o njaaƈ onqe a fel eɁ
+\g CL chile CLDEF 3SG appeal.to -PASS
+\l The child was appealed to' (intended)
+
+\t o diidlat ole no o fes ole
+\g CL be.scared-CAUS CLDEF P CL young.man CLDEF
+\l The frightening of the young man
+
+\t o bet ole no o njaaƈ onqe
+\g CL surprise CLDEF P CL child CLDEF
+\l the surprising of the child
+
+\t Awa a sooɓ a o tew oxe
+\g Awa 3SG miss PERF CL woman CLDEF
+\l Awa misses the woman
+
+\t o sooɓ ole no no tew oxe
+\g CL miss CLDEF P CL woman CLDEF
+\l The woman being missed' (intended)
+
+\t Awa a fel a o tew oxe
+\g Awa 3SG appeal.to PERF CL woman CLDEF
+\l Awa appeals to the woman
+
+\t o fel ole no no tew oxe
+\g CL appeal.to CLDEF P CL woman CLDEF
+\l The woman being appealed to' (intended)
+
+\t o pelel ole no o njaaƈ onqe
+\g CL appeal-PASS CLDEF P CL boy CLDEF
+\l The appealing to the young man' (intended)
+
+\t o pel ole no o njaaƈ onqe
+\g CL appeal CLDEF P CL boy CLDEF
+\l The young man being appealed to
+
+\t o ɓox ole a ŋat a o njaaƈ onqe
+\g CL dog CLDEF 3SG bite PERF CL boy CLDEF
+\l The dog bit the boy
+
+\t Faatu kaa bet a a
+\g Faatu IPFV.3SG surprise -ANTIP PERF
+\l Faatu surprised
+
+\t Awa kaa felaa
+\g Awa IPFV.3SG appeal-ANTIP-PERF
+\l Awa appealed to' (intended)
+
+\t o njaaƈ onqe a sooɓ a o tew oxe
+\g CL boy CLDEF 3SG miss PERF CL woman CLDEF
+\l The woman misses the boy
+
+\t o njaaƈ onqe kaa sooɓa
+\g o njaaƈ CLDEF IPFV.3SG miss-antip

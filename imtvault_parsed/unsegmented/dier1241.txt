@@ -1,0 +1,20 @@
+\t karna wapayi
+\g man.ABS go-PRS
+\l The man is going.
+
+\t karnali wapayi wilhanhi
+\g man-ERG go-PRS woman-LOC
+\l The man is going with the woman.
+
+\t karnali wilha wapalkayi
+\g man-ERG woman.ABS go-APPL-PRS
+\l The man is going with the woman.
+
+\t baàna bàdi ùambula mikàndà
+\g CLF2-child CLF2-be CLF1-carry-FIN CLF4-book
+\l The children are carrying the books.
+
+\t baàna bàdi bàambulila maamù mikàndà
+\g CLF2-child CLF2-be CLF2-carry-APPL-FIN mother CLF4-book
+\l The children are carrying the books for the mother.
+

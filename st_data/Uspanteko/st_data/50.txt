@@ -1,0 +1,456 @@
+\t qachuuch ójor pwes.
+\m qa-chuuch ójor pwes
+\p E1P-S ADV ADV
+\g E1P-mamá antiguamente pues
+\l Nuestras madres antiguamente pues.
+
+\t qaswaan qatilmit.
+\m qa-swaan qa-tilmit
+\p E1P-S E1P-S
+\g E1P-barranco E1P-pueblo
+\l Nuestro barranco nuestro pueblo.
+
+\t segun loke xyool taq
+\m segun loke x-yool taq
+\p ADV ADV COM-VT PL
+\g a@según loque COM-platicar PL
+\l segun loque nos contaron.
+
+\t re nemoo jb'anik raa, ra luwaar.
+\m re ne-moo j-b'an-ik raa ra luwaar
+\p PART INT-ADV E3S-VT-SC DIM DIM S
+\g PART INT-modo E3S-hacer-SC DIM DIM lugar
+\l De que modo estaba el pobre lugarcito.
+
+\t li jun nose de kwan toos junab' lajori.
+\m li jun nose de kwan toos jun-ab' lajori
+\p PREP NUM ADV PREP ADV ADV NUM-S ADV
+\g PREP uno nose de cuando entonces uno-año ahora
+\l En unos no se cuantos años ahora.
+
+\t Ke xijb'ij taq kwando xpee re juwisiyo,
+\m ke x-i-j-b'ij taq kwando x-pee re juwisiyo
+\p PART COM-DIM-E3S-VT PL ADV COM-VI PART S
+\g que COM-DIM-E3S-decir PL cuando COM-venir PART jucio
+\l Que fueron adecir cuando vino el juicio.
+
+\t cha'.
+\m cha'
+\p VI
+\g dice
+\l Dice.
+
+\t Ta' inkwin inyolow laj qayólij berdaa.
+\m ta' in-kwin in-yolow laj qa-yóli-j berdaa
+\p NEG A1S-VI A1S-VI PREP E1P-S-SC S
+\g NEG A1S-poder A1S-platicar PREP E1P-idioma-SC verdad
+\l No puedo platicar en nuestro idioma verdad.
+
+\t Re juwisyi,
+\m re juwisyi
+\p SREL S
+\g SREL juicio
+\l Del juicio.
+
+\t re kwando xpet.
+\m re kwando x-pet
+\p PART ADV COM-VI
+\g PART cuando COM-venir
+\l Cuando se vino.
+
+\t Xk'otsaji' juntir ra qalwar niri.
+\m x-k'ot-sáj-i' juntir ra qa-luwar niri
+\p COM-VT-PAS-ENF ADV DIM E1P-S ADV
+\g COM-escarbar-PAS-ENF todo DIM E1P-lugar aqui
+\l Escarbaron todo nuestro lugar aqui.
+
+\t Pores ke lajori lamasi' b'awitz,
+\m pores ke lajori lamas-i' b'a-witz
+\p ADV PART ADV ADV-ENF SREL-S
+\g poreso que ahora dónde-ENF SREL-cerro
+\l Por eso que ahora sobre el cerro.
+
+\t juntir ya, ya komoo ra, ra swaan chaq.
+\m juntir ya ya komoo ra ra swaan chaq
+\p ADV VOC VOC ADV DIM DIM S PART
+\g todo ya ya como DIM DIM barranco PART
+\l Todo ya ya como es un barranco.
+
+\t Por lamas wooj niri ra ta'ji'n.
+\m por lamas wooj niri ra tá'j-i'n
+\p ADV ADV PRON ADV DIM S-ENF
+\g por dónde nosotros aqui DIM planicies-ENF
+\l Por donde estamos nosotros aquí es plano.
+
+\t I mas tijk'ul ja'.
+\m i mas ti-j-k'ul ja'
+\p CONJ ADV INC-E3S-VT S
+\g CONJ más INC-E3S-recibir agua
+\l Y más recibe agua.
+
+\t tijk'ula' mas ja'.
+\m ti-j-k'ul-a' mas ja'
+\p INC-E3S-VT-ENF ADV S
+\g INC-E3S-recibir-ENF más agua
+\l Recibe más agua.
+
+\t I rex ulewi'n.
+\m i rex ulew-i'n
+\p CONJ ADJ S-ENF
+\g CONJ verde tierra-ENF
+\l Y es tierra fertil. (húmedo)
+
+\t lajorii pongamos tijna' juntir tiko'n chuch.
+\m lajorii pongamos ti-j-na' juntir tiko'n ch-uch
+\p ADV VT INC-E3S-PART ADV S PREP-SREL
+\g ahora pongamos INC-E3S-PART todo siembra PREP-SREL
+\l Ahora pongamos se da todo tipo de siembras allí.
+
+\t Ke nimoo kafee,
+\m ke nimoo kafee
+\p ADV ADV S
+\g que nimodo cafe
+\l Que como cafe.
+
+\t ab'iix,
+\m ab'iix
+\p S
+\g milpa
+\l Milpas.
+
+\t kinaq' nimoo re ortalisa baa.
+\m kinaq' nimoo re ortalisa baa
+\p S ADV SREL S VOC
+\g frijol nimodo SREL hortaliza baya
+\l Frijol como para hortalisas berdad.
+
+\t Re kwalkyer otros produkto mas.
+\m re kwalkyer otros produkto mas
+\p PART ADV ADV S ADV
+\g PART cualquiera otros productos más
+\l Para cualquier otros productos más.
+
+\t Baay lajq'or ke tipee taq chik lajori.
+\m baay laj-or ke ti-pee taq chik lajori
+\p VOC PREP-ADV PART INC-VI PL PART ADV
+\g baya PREP-hora que INC-venir PL PART ahora
+\l Baya luego que vienen otra vez ahora.
+
+\t Ke tijin twa'r sa'j juntiir.
+\m ke tijin t-wa'r saq'j juntiir
+\p PART PRG INC-VT S ADV
+\g que PRG INC-parar época@seca todo
+\l Que se esta parando la época de verano todo.
+
+\t Por nejchaak
+\m por ne-j-chaak
+\p ADV INT-SC-S
+\g por INT-SC-trabajo
+\l Por que necesitan.
+
+\t jwi'li' maq tra chee' tijin tijtzaq taq qawá'xik.
+\m j-wi'l-i' maq tra chee' tijin ti-j-tzaq taq qa-wa'x-ik
+\p E3S-SREL-ENF ART DIM S PRG INC-E3S-VT PL E1P-VI-SC
+\g E3S-SREL-ENF ART DIM árbol PRG INC-E3S-hechar PL E1P-estar-SC
+\l Por los arboles estan botando nuestra gente.
+
+\t Lajori wi' chaq kwan toos
+\m lajori wi' chaq kwan toos
+\p ADV EXS PART ADV ADV
+\g ahora EXS PART cuando entonces
+\l Ahora ya hay entonces.
+
+\t de, de tantos re, re neen moo tqa'ij re.
+\m de de tantos re re neen moo t-q-ij re
+\p ADV ADV ADV PART PART INT ADV INC-E3S-VT PRON
+\g de de tantos PART PART INT modo INC-E3S-decir él/ella
+\l De de tantos de de así como decimos.
+
+\t Makinas neen moo motosyera,
+\m makinas neen moo motosyera
+\p S INT ADV S
+\g máquinas INT modo motosiera
+\l Maquinas así como motocierras.
+
+\t Pores jwi'l niri,
+\m pores j-wi'l niri
+\p ADV E3S-SREL ADV
+\g por@eso E3S-SREL aqui
+\l Por eso por culpa aquí.
+
+\t jwi'l kistyan ooj lajori tijin tren taq sufrir jun kiitz.
+\m j-wi'l kirtyan ooj lajori tijin t-r-en taq sufrir jun kiitz
+\p E3S-SREL S PRON ADV PRG INC-E3S-VT PL VI NUM ADV
+\g E3S-SREL persona nosotros ahora PRG INC-E3S-haceer PL sufrir uno poco
+\l Por culpa de las personas nosotros ahora estamos sufriendo un poco.
+
+\t ya chee' tijin tik'is.
+\m ya chee' tijin ti-k'is
+\p VOC S PRG INC-VT
+\g ya árbol PRG INC-terminar
+\l Ya los arboles se estan terminando.
+
+\t Tqaya' kwent re nemoo niri laq miq'in,
+\m t-q-ya' kwent re ne-moo niri laq miq'in
+\p INC-E1P-VT ADV PART INT-ADV ADV PREP ADJ
+\g INC-E1P-dar cuenta PART INT-modo aqui PREP caliente
+\l Nos damos cuenta así como aquí en tierra caliente.
+
+\t niri Poso Berdee,
+\m niri poso berdee
+\p ADV S ADJ
+\g aqui pozo verde
+\l Aquí en Pozo verde.
+
+\t Las Planes nemoo niri San Lukas.
+\m las planes ne-moo niri San Lukas
+\p ART TOP INT-ADV ADV CLAS S
+\g los planes INT-modo aqui San Lucas
+\l Las Planes como aquí San Lucas.
+
+\t Ya mas pikim Chixikiin
+\m ya mas pi-ikim chixikiin
+\p VOC ADV PREP-ADV TOP
+\g ya más PREP-abajo chixiquín
+\l Ya más abajo por Chixiquín.
+
+\t ya tijin jun tk'is juntir maq tra chee'.
+\m ya tijin jun t-k'is juntiir maq tra chee'
+\p VOC PRG NUM INC-VT ADV ART DIM S
+\g ya PRG uno INC-terminar todo ART DIM árbol
+\l Ya se esta un terminando todos los arboles.
+
+\t Ta' chki' jaab'.
+\m ta' chk-i' jaab'
+\p NEG PART-ENF S
+\g NEG PART-ENF lluvia
+\l Ya no hay lluvia.
+
+\t Winaa tra kitz.
+\m wi'-naa tra kiitz
+\p EXS-PART DIM ADV
+\g EXS-PART DIM poco
+\l Hay todavía un poco.
+
+\t qamaam,
+\m qa-maam
+\p E1P-S
+\g E1P-abuelo
+\l Nuestros abuelos.
+
+\t qatiit' lajori xkantose' taq.
+\m qa-tiit' lajori x-kan-tos-e' taq
+\p E1P-S ADV COM-VI-VT-SC PL
+\g E1P-abuela ahora COM-quedar-separar-SC PL
+\l Nuestras abuelas ahora nos dejaron apartado.
+
+\t Lajori limaq taq chee' taq chaq lajori.
+\m lajori nim-aq taq chee' taq chaq lajori
+\p ADV ADJ-PL PL S PL PART ADV
+\g ahora grande-PL PL árbol PL PART ahora
+\l Ahora ya son grandes arbles ahora.
+
+\t poreso es ke tijb'ij taq.
+\m poreso es ke ti-j-b'ij taq
+\p ADV ADV ADV INC-E3S-VT PL
+\g poreso es que INC-E3S-decir PL
+\l Por eso es que dicen.
+
+\t Ke tra chee' rejwexi'n re jaab',
+\m ke tra chee' rejwex-i'n re jaab'
+\p ADV DIM S S-ENF PART S
+\g que DIM árbol necesidad-ENF PART lluvia
+\l Que los arboles sirven para la lluvia.
+
+\t rejwexi' re jaab' juntir.
+\m rejwex-i' re jaab' juntiir
+\p S-ENF PART S ADV
+\g necesidad-ENF PART lluvia todo
+\l Es necesario para la lluvia todo.
+
+\t ta' chki' chee'.
+\m ta' chk-i' chee'
+\p NEG PART-ENF S
+\g NEG PART-ENF árbol
+\l Ya no hay arboles.
+
+\t Ta' chki' tqej jaab',
+\m ta' chk-i' t-qej jaab'
+\p NEG PART-ENF INC-VI S
+\g NEG PART-ENF INC-bajar lluvia
+\l Ya no baja la lluvia.
+
+\t ta' chki' tqej jaab'.
+\m ta' chk-i' t-qej jaab'
+\p NEG PART-ENF INC-VI S
+\g NEG PART-ENF INC-bajar lluvia
+\l Ya no baja la lluvia.
+
+\t K'omoo re qaqaaj taq wi' taq Uspantán,
+\m k'omoo re qa-qaaj taq wi' taq Uspantán
+\p ADV PART E1P-S PL EXS PL TOP
+\g gracias PART E1P-papá PL EXS PL Uspantán
+\l Gracias a nuestros padres que estan en Uspantán.
+
+\t wi' taq niri de otros de munisipyo baa.
+\m wi' taq niri de otros de munisipyo baa
+\p EXS PL ADV CONJ ADV CONJ S VOC
+\g EXS PL aqui CONJ otros CONJ municipio baya
+\l Que estan aquí en otros municipios berda.
+
+\t tijin tren taq semyer re.
+\m tijin t-r-en taq semyer re
+\p PRG INC-E3S-VT PL S PRON
+\g PRG INC-E3S-hacer PL semillero él/ella
+\l Estan haciendo semilleros.
+
+\t I tijtaqtaqch en aldeyas,
+\m i ti-j-taq-taq-ch en aldeyas
+\p CONJ INC-E3S-VT-PL-DIR PREP S
+\g CONJ INC-E3S-mandar-PL-DIR PREP aldeas
+\l Y los mandan en las aldeas.
+
+\t Porke tawila' ademas,
+\m porke t-aw-il-a' ademas
+\p ADV INC-E2S-VT-ENF ADV
+\g porque INC-E2S-ver-ENF además
+\l Por que mirás a demas.
+
+\t tiyempo re qelk'waal mas despwes ta' chki' chee'.
+\m tiyempo re q-elk'waal mas despwes ta' chk-i' chee'
+\p S PART E1P-S ADV ADV NEG PART-ENF S
+\g tiempo PART E1P-hijo más después NEG PART-ENF árbol
+\l Tiempo de nuestros hijos más despues ya no hay arboles.
+
+\t Ta' chki' chee'.
+\m ta' ??? chee'
+\p NEG ??? S
+\g NEG ??? árbol
+\l Ya no hay arboles.
+
+\t I despwes por es jwi'l li xtikmaj
+\m i despwes por es j-wi'l li x-tik-maj
+\p CONJ ADV ADV ADV E3S-SREL DEM COM-VT-???
+\g CONJ después por es E3S-SREL DEM COM-sembrar-???
+\l Y después por eso ya sembramos.
+
+\t loke nemoo tijb'ij taq qaqaaj,
+\m loke ne-moo ti-j-b'ij taq qa-qaaj
+\p ADV INT-ADV INC-E3S-VT PL E1P-S
+\g loque INT-modo INC-E3S-decir PL E1P-papá
+\l Así como decian nuestros padres.
+
+\t qachuuch ójor.
+\m qa-chuuch ójor
+\p E1P-S ADV
+\g E1P-mamá antiguamente
+\l Nuestras madres antiguamente.
+
+\t Re jun istorya re Chipaajaa',
+\m re jun istorya re chipaaj-a'
+\p PART NUM S PART TOP-ENF
+\g PART uno historia PART chipaj-ENF
+\l De una historia de Chipaj.
+
+\t neen jchak tijb'ij taq re Chipaaj.
+\m neen j-chaak ti-j-b'ij taq re chipaaj
+\p INT E3S-ADV INC-E3S-VT PL PART S
+\g INT E3S-trabajo INC-E3S-decir PL PART chipaj
+\l Por que le dicen a chipaj.
+
+\t niri wi' nimoo tqaye' kwent re.
+\m niri wi' ni-moo t-qa-ye' kwent re
+\p ADV EXS INT-ADV INC-E1P-VOC ADV PRON
+\g aqui EXS INT-moo INC-E1P-hay cuenta él/ella
+\l Aquí hay como nos damos cuenta.
+
+\t Nimoo nili li,
+\m ni-moo ni-li li
+\p CONJ-ADV CONJ-DEM DEM
+\g CONJ-modo CONJ-DEM DEM
+\l Como aquí es.
+
+\t li man suwaan niri.
+\m li man suwaan niri
+\p DEM ART S ADV
+\g DEM ART barranco aqui
+\l Ese barranco aquí.
+
+\t Li paja',
+\m li paj-a'
+\p DEM VT-ENF
+\g DEM medir-ENF
+\l En la paja.
+
+\t kla' wi' ja'.
+\m kla' wi' ja'
+\p ADV EXS S
+\g allí EXS agua
+\l Allí hay agua.
+
+\t Kla' wi' k'aslik taq ja',
+\m kla' wi' (k'aslik) taq ja'
+\p ADV EXS ??? PL S
+\g allí EXS ??? PL agua
+\l Allí hay agua viva.
+
+\t nejchak.
+\m ne-j-chak
+\p INT-E3S-S
+\g INT-E3S-trabajo
+\l Por que.
+
+\t Porke komoo jwisyi' xen ójor,
+\m porke komoo jwisy-i' x-en ójor
+\p ADV ADV S-ENF COM-VT ADV
+\g porque como jucio-ENF COM-hacer antiguamente
+\l Porque como fue tremendo lo que hizo antiguamente.
+
+\t kwand xk'otmaaj.
+\m kwand x-k'ot-maaj
+\p ADV COM-VT-???
+\g cuando COM-escarbar-???
+\l Cuando se escarbo.
+
+\t I lajori wi' chaq ja' niri.
+\m i lajori wi' chaq ja' niri
+\p CONJ ADV EXS PART S ADV
+\g CONJ ahora EXS PART agua aqui
+\l Y ahora ya hay agua aquí.
+
+\t Per ójor kita' naa,
+\m per ójor kita'-a'n naa
+\p ADV ADV NEG-ENF ADV
+\g pero antiguamente NEG-ENF nada
+\l Pero antiguamente no habia nada.
+
+\t komoo segun tijb'ij taq.
+\m komoo asegun ti-j-b'ij taq
+\p ADV ADV INC-E3S-VT PL
+\g como a@según INC-E3S-decir PL
+\l Como a según dicen.
+
+\t xk'otmaji' juntir,
+\m x-k'ot-maj-i' juntiir
+\p COM-VT-VT-ENF ADV
+\g COM-escarbar-quitar-ENF todo
+\l Se escarbo todo.
+
+\t es komoo es jun chiste,
+\m es komoo es jun chiste
+\p ADV ADV ADV NUM S
+\g es como es uno chiste
+\l Es como un chiste.
+
+\t kom es jun istorya baa.
+\m kom es jun istorya baa
+\p PART ADV NUM S VOC
+\g como es uno historia baya
+\l Como es una historia berdad.
+
+\t Si pwes xaq li xk'is.
+\m si pwes xaq li x-k'is
+\p ADV ADV PART DEM COM-VT
+\g si pues PART DEM COM-terminar
+\l Si pues solo eso termino.
+

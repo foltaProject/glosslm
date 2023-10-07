@@ -1,0 +1,2647 @@
+\nom Mujer-con-nawal
+
+\ref trtex054Usp04 001
+\t Tengo el gusto de realizar una gravación con don Avelino Chamatun Castro, aqui en la aldea de Chipaj del municipio de San Miguel Uspantán. La fecha del dia de hoy es 27 de julio del 2,004, don Avelino Chamatun cuenta con 45 años de edad él es oriundo de esta alde al igual que sus padres él es hablante Maya Uspanteko. La historia que nos ba relatar en este momento es Una Mujer Con Nawal. Él autoriza a OKMA para que se publique en todos los medios posibles el contenido de esta gravación. If. Lajori chuwaj tinyol jun, jun istoriya.+
+
+\ref trtex054Usp04 002
+\t Re juun anm,+
+\m r- e jun ánim
+\g E3 SREL uno mujer
+\c PERS SREL NUM S
+\l De una mujer.
+\p E3#PERS SREL#SREL NUM S
+
+\ref trtex054Usp04 003
+\t jun ra q'opoj anm.+
+\m jun ra q'opoj ánim
+\g uno DIM señorita mujer
+\c NUM PART S S
+\l Una jovencita.
+\p NUM DIM#PART S S
+
+\ref trtex054Usp04 004
+\t Jb'iij Lupaa,+
+\m j- b'iij lupaa
+\g E3S nombre guadalupe
+\c PERS S NOM
+\l De nombre guadalupe.
+\p E3S#PERS S NOM
+
+\ref trtex054Usp04 005
+\t re Lupaa jb'iij ra, ra anm.+
+\m re lupaa j- b'iij ra ra ánim
+\g él/ella guadalupe E3S nombre DIM DIM mujer
+\c PRON NOM PERS S PART PART S
+\l Ella guadalupe es su nombre de la jovencita.
+\p PRON NOM E3S#PERS S DIM#PART DIM#PART S
+
+\ref trtex054Usp04 006
+\t Re, re jchuuch jqaaj,+
+\m re re j- chuuch j- qaaj
+\g él/ella él/ella E3S mamá E3S papá
+\c PRON PRON PERS S PERS S
+\l Los, sus papas.
+\p PRON PRON E3S#PERS S E3S#PERS S
+
+\ref trtex054Usp04 007
+\t wi' jchuuch wi' jqaaj.+
+\m wi' j- chuuch wi' j- qaaj
+\g EXS E3S mamá EXS E3S papá
+\c EXS PERS S EXS PERS S
+\l Tiene mamá y tiene papá.
+\p EXS#EXS E3S#PERS S EXS#EXS E3S#PERS S
+
+\ref trtex054Usp04 008
+\t I diske,+
+\m i diske
+\g CONJ dice@que
+\c CONJ ADV
+\l Y dice que.
+\p CONJ#CONJ ADV
+
+\ref trtex054Usp04 009
+\t kaa bes kwand titaqsajk.+
+\m kaa bes kwand ti- taq -sáj -ik
+\g cada vez cuando INC mandar PAS SC
+\c ??? ADV ADV TAM VT SUF SUF
+\l Cada ves cuando lo mandan.
+\p ??? ADV ADV INC#TAM VT PAS#SUF SC#SUF
+
+\ref trtex054Usp04 010
+\t Ta' tkojon chuch jchuuch,+
+\m ta' t- koj -on ch- uch j- chuuch
+\g NEG INC meter AP PREP SREL E3S mamá
+\c PART TAM VT SUF PREP SREL PERS S
+\l No obedece a su mamá.
+\p NEG#PART INC#TAM VT AP#SUF PREP#PREP SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 011
+\t ni ta' tkojon chuch jqaaj.+
+\m ni ta' t- koj -on ch- uch j- qaaj
+\g CONJ NEG INC meter AP PREP SREL E3S papá
+\c CONJ PART TAM VT SUF PREP SREL PERS S
+\l Y no respeta a sus papás.
+\p CONJ#CONJ NEG#PART INC#TAM VT AP#SUF PREP#PREP SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 012
+\t I re trena'n loke, loke neen raj tren,+
+\m i re t- r- en -a'n loke loke neen r- aj t- r- en
+\g CONJ él/ella INC E3S hacer ENF loque loque INT E3S querer INC E3 hacer
+\c CONJ PRON TAM PERS VT PART ADV ADV ADV PERS VT TAM PERS VT
+\l Y ella hace lo que ella quiere hacer.
+\p CONJ#CONJ PRON INC#TAM E3S#PERS VT ENF#PART ADV ADV INT#ADV E3S#PERS VT INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 013
+\t trena'n.+
+\m t- r- en -a'n
+\g INC E3S hacer ENF
+\c TAM PERS VT PART
+\l Si hace.
+\p INC#TAM E3S#PERS VT ENF#PART
+
+\ref trtex054Usp04 014
+\t I re loke neen tichokon jwi'l.+
+\m i re loke neen ti- chokon j- wi'l
+\g CONJ él/ella loque INT INC sirve E3S SREL
+\c CONJ PRON ADV ADV TAM ADV PERS SREL
+\l Y ella lo que ella necesita por ella.
+\p CONJ#CONJ PRON ADV INT#ADV INC#TAM ADV E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 015
+\t Tril tichokoni'n jwi'l tril.+
+\m t- r- il ti- chok -on -i'n j- wi'l t- r- il
+\g INC E3 ver INC sirve AP ENF E3S SREL INC E3 ver
+\c TAM PERS VT TAM ADV SUF PART PERS SREL TAM PERS VT
+\l Mira que ella necesita.
+\p INC#TAM E3#PERS VT INC#TAM ADV AP#SUF ENF#PART E3S#PERS SREL#SREL INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 016
+\t I... chu'sil, chu'sil.+
+\m i ch- u'usil ch- u'sil
+\g CONJ PREP despacio PREP despacio
+\c CONJ PREP ADV PREP ADV
+\l Y poco a poco.
+\p CONJ#CONJ PREP#PREP ADV PREP#PREP ADV
+
+\ref trtex054Usp04 017
+\t I baa titaqsaj, titaqsaj anm ri.+
+\m i baa ti- taq -sáj ti- taq -sáj ánim ri
+\g CONJ va INC mandar PAS INC mandar PAS mujer DEM
+\c CONJ VOC TAM VT SUF TAM VT SUF S DEM
+\l Y va de mandar demandar esa mujer.
+\p CONJ#CONJ VOC INC#TAM VT PAS#SUF INC#TAM VT PAS#SUF S DEM#DEM
+
+\ref trtex054Usp04 018
+\t I kita' tikojoon,+
+\m i kita' ti- koj -on
+\g CONJ NEG INC meter AP
+\c CONJ PART TAM VT SUF
+\l Y no obedece.
+\p CONJ#CONJ NEG#PART INC#TAM VT AP#SUF
+
+\ref trtex054Usp04 019
+\t xaq derepent xijsaj re jun welte.+
+\m xaq derepeet x- ij -sáj re jun welte
+\g PART de@repente COM decir PAS él/ella uno ves
+\c PART ADV TAM VT SUF PRON PRON ADV
+\l Derrepente le dijeron a ella una ves.
+\p PART#PART ADV COM#TAM VT PAS#SUF PRON PRON ADV
+
+\ref trtex054Usp04 020
+\t Aat lajori tib'ab'ene' tal kosa,+
+\m aat lajori ti- b'a- ben -e' tal kosa
+\g tú/usted ahora INC DIR hacer ENF tal cosa
+\c PRON ADV TAM DIR VT PART ADJ S
+\l Vos ahora vas hacer tal cosa.
+\p PRON ADV INC#TAM DIR#DIR VT ENF#PART ADJ S
+
+\ref trtex054Usp04 021
+\t xyu'tzajch.+
+\m x- yu'tza -j -ch
+\g COM decir E3S DIR
+\c TAM VT PERS DIR
+\l Le dijeron.
+\p COM#TAM VT E3S#PERS DIR#DIR
+
+\ref trtex054Usp04 022
+\t A... neen ku' chi kosa laal tinb'ene',+
+\m a neen k'u chi kosa laal t- in- b'en -e'
+\g CONJ INT PART PREP cosa duda INC E1S hacer ENF
+\c CONJ ADV PART PREP S PART TAM PERS VT PART
+\l A pero que cosa es pues que hago.
+\p CONJ#CONJ INT#ADV PART#PART PREP#PREP S PART INC#TAM E1S#PERS VT ENF#PART
+
+\ref trtex054Usp04 023
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VI PRON
+\l Le dijo él.
+\p VI PRON
+
+\ref trtex054Usp04 024
+\t No loke kosa tb'ab'ene' lajori,+
+\m no loke kosa t- b'a- b'e -ne' lijori
+\g no loque cosa INC DIR hacer ENF ahora
+\c ADV ADV S TAM DIR VT PART ADV
+\l No lo que la cosa que vas hacer ahora.
+\p ADV ADV S INC#TAM DIR#DIR VT ENF#PART ADV
+
+\ref trtex054Usp04 025
+\t tb'a tzeke' jun b'o'j kinaq'.+
+\m t- b'a tzak -e' jun b'o'j kinaq'
+\g INC DIR cocer ENF uno olla frijol
+\c TAM DIR VT PART NUM S S
+\l Vas ir a cocer una olla de frijoles.
+\p INC#TAM DIR#DIR VT ENF#PART NUM S S
+
+\ref trtex054Usp04 026
+\t Disk,+
+\m disk
+\g dice@que
+\c ADV
+\l Dice que.
+\p ADV
+
+\ref trtex054Usp04 027
+\t cha' taq re.+
+\m cha' taq re
+\g decir PL él/ella
+\c VI PART PRON
+\l Le dijerón a ella dice.
+\p VI PL#PART PRON
+
+\ref trtex054Usp04 028
+\t Ay neen ku' moo jtzekik tanb'an,+
+\m ay neen k'u moo j- tzek -ik t- an- b'an
+\g ¡hay! INT PART modo E3S cocer SC INC A1S hacer
+\c VOC ADV PART ADV PERS VT SUF TAM PERS VT
+\l Hay que modo cocer lo hago. (como cocerlo pues)
+\p VOC INT#ADV PART#PART ADV E3S#PERS VT SC#SUF INC#TAM A1S#PERS VT
+
+\ref trtex054Usp04 029
+\t cha' re cha'.+
+\m cha' re cha'
+\g decir él/ella decir
+\c VI PRON VI
+\l Dijo ella dice.
+\p VI PRON VI
+
+\ref trtex054Usp04 030
+\t Noo loke jtzekik tab'an,+
+\m noo loke j- tzek -ik t- a- b'an
+\g no loque E3S cocer SC INC E2S hacer
+\c ADV ADV PERS VT SUF TAM PERS VT
+\l No lo forma de cocer que tienes que hacer.
+\p ADV ADV E3S#PERS VT SC#SUF INC#TAM E2S#PERS VT
+
+\ref trtex054Usp04 031
+\t ri' tb'aye' juun, juun juj tajkiil re,+
+\m ri' ti- b'a- ye' juun juun ju -j tajkiil re
+\g DEM INC DIR dar uno uno uno E3S mandado él/ella
+\c DEM TAM DIR VT NUM NUM NUM PERS S PRON
+\l Si le vas a dejar un un mandado a ella.
+\p DEM#DEM INC#TAM DIR#DIR VT NUM NUM NUM E3S#PERS S PRON
+
+\ref trtex054Usp04 032
+\t re jun awech'elxik.+
+\m r- e jun aw- ech'elxiik
+\g E3 SREL uno E2 familiar
+\c PERS SREL NUM PERS S
+\l De un tu familiar.
+\p E3#PERS SREL#SREL NUM E2#PERS S
+
+\ref trtex054Usp04 033
+\t O jun awel..., awech'... jun a jun.+
+\m o jun (awel) aw- ech' jun a jun
+\g o uno ??? E2 familiar uno E3S uno
+\c CONJ NUM ??? PERS S NUM PERS NUM
+\l O un tú familiar un un.
+\p CONJ NUM ??? E2#PERS S NUM E3S#PERS NUM
+
+\ref trtex054Usp04 034
+\t A kom seyama jun awech'elxik,+
+\m a- kom se yama jun aw- ech'elxiik
+\g CONJ como se llama uno E2 familiar
+\c CONJ ADV ADV ADJ NUM PERS S
+\l A como se llama un tu familiar.
+\p CONJ#CONJ ADV ADV ADJ NUM E2#PERS S
+
+\ref trtex054Usp04 035
+\t ke wi' chanaqaj.+
+\m ke wi' ch- a- naq -aj
+\g que EXS PREP E2S serca PART
+\c ADV EXS PREP PERS ADV PART
+\l Que esta serca de vos.
+\p ADV EXS#EXS PREP#PREP E2S#PERS ADV PART#PART
+
+\ref trtex054Usp04 036
+\t O atnika' atilw neen, neen moo tab'an.+
+\m o' at- nik -a' at- il -w neen neen moo t- a- b'an
+\g CONJ A2S PART ENF A2S ver PART INT INT modo INC E2S hacer
+\c CONJ PERS PART PART PERS VT PART ADV ADV ADV TAM PERS VT
+\l O tú miras pues que modo bas hacer.
+\p CONJ#CONJ A2S#PERS PART#PART ENF#PART A2S#PERS VT PART#PART INT#ADV INT#ADV ADV INC#TAM E2S#PERS VT
+
+\ref trtex054Usp04 037
+\t Tu'tzaj jwi'l jqaaj,+
+\m t- u'tzaj j- wi'l j- qaaj
+\g INC decir E3S SREL E3S papá
+\c TAM VT PERS SREL PERS S
+\l Le dijo por su papá.
+\p INC#TAM VT E3S#PERS SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 038
+\t jwi'l jchuuch.+
+\m j- wi'l j- chuuch
+\g E3S SREL E3S mamá
+\c PERS SREL PERS S
+\l Por su mamá.
+\p E3S#PERS SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 039
+\t Antonses re kita', kita',+
+\m antonses re kita' kita'
+\g entonces él/ella NEG NEG
+\c ADV PRON PART PART
+\l Entonces no hay no hay.
+\p ADV PRON NEG#PART NEG#PART
+
+\ref trtex054Usp04 040
+\t kita', kita' xtaaw rk'i rch'exik li tijb'iij.+
+\m kita' kita' x- taaw r- k'i r- ch'exik li ti- j- b'iij
+\g NEG NEG COM llegar E3S SREL E3S familiar DEM INC E3S decir
+\c PART PART TAM VI PERS SREL PERS S DEM TAM PERS VT
+\l No no llego con su familiar que dijo.
+\p NEG#PART NEG#PART COM#TAM VI E3S#PERS SREL#SREL E3S#PERS S DEM#DEM INC#TAM E3S#PERS VT
+
+\ref trtex054Usp04 041
+\t Si no ke mas ke xtaw rk'i juj tiit'.+
+\m si no ke mas ke x- taw r- k'i ju -j tiit'
+\g si no que más que COM llegar E3S SREL uno E3S abuela
+\c ADV ADV ADV ADV ADV TAM VT PERS SREL NUM PERS S
+\l Si no que mas que llego con una su abuelita.
+\p ADV ADV ADV ADV ADV COM#TAM VT E3S#PERS SREL#SREL NUM E3S#PERS S
+
+\ref trtex054Usp04 042
+\t Tons jtiit' jb'iij Liya,+
+\m tons j- tiit' j- b'iij Liya
+\g entonces E3S abuela E3S nombre María
+\c ADV PERS S PERS S NOM
+\l Entonces la abuela se llama Maria.
+\p ADV E3S#PERS S E3S#PERS S NOM
+
+\ref trtex054Usp04 043
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 044
+\t Tiit' neen moo tinb'an cha' nikare,+
+\m tiit' neen moo t- in- b'an cha' nika -re
+\g abuela INT modo INC A1S hacer decir PART ENF
+\c S ADV ADV TAM PERS VT VI PART PART
+\l Abuela por que haces le dijo.
+\p S INT#ADV ADV INC#TAM A1S#PERS VT VI PART#PART ENF#PART
+
+\ref trtex054Usp04 045
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 046
+\t A... xaq derepent xij, xij jtiit' re.+
+\m a xaq derepent x- ij x- ij j- tiit' re
+\g E2S PART de@repente COM decir COM decir E3S abuela él/ella
+\c PERS PART ADV TAM VT TAM VT PERS S PRON
+\l A solo derepente dijo dijo su abuela a ella.
+\p E2S#PERS PART#PART ADV COM#TAM VT COM#TAM VT E3S#PERS S PRON
+
+\ref trtex054Usp04 047
+\t Ke loke lajori tab'an+
+\m ke loke lajori t- a- b'an
+\g que loque ahora INC E2S hacer
+\c PART ADV ADV TAM PERS VT
+\l Que lo que ahora tienes que hacer.
+\p PART ADV ADV INC#TAM E2S#PERS VT
+
+\ref trtex054Usp04 048
+\t ri' tatzek jun rajb'aq'wich ra kinaq'
+\m ri' ti- tzak jun ra -j -b'aq' -wi -ch ra kinaq'
+\g DEM INC cocer uno DIM SC pepita DIR DIR DIM frijol
+\c DEM TAM VT NUM PART SUF S DIR DIR PART S
+\l eso coces un granito de frijol le dijerón.
+\p DEM#DEM INC#TAM VT NUM DIM#PART SC#SUF S DIR#DIR DIR#DIR DIM#PART S
+
+\ref trtex054Usp04 049
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dice.
+\p VT
+
+\ref trtex054Usp04 050
+\t I jun rajb'aq'wich ra kinaq'.+
+\m i jun ra- j- b'aq' -wich ra kinaq'
+\g CONJ uno DIM E3S pepita ojo DIM frijol
+\c CONJ NUM DIM PERS S S PART S
+\l Y un granito de frijol.
+\p CONJ#CONJ NUM DIM#DIM E3S#PERS S S DIM#PART S
+
+\ref trtex054Usp04 051
+\t Kita' tatzaq ni kib',+
+\m kita' ti- tzaq ni kib'
+\g NEG INC hechar no dos
+\c PART TAM VT ART NUM
+\l No hechas ni dos.
+\p NEG#PART INC#TAM VT ART NUM
+
+\ref trtex054Usp04 052
+\t ni uxib',+
+\m ni uxib'
+\g ni tres
+\c ADV NUM
+\l Ni tres.
+\p ADV NUM
+
+\ref trtex054Usp04 053
+\t ni kiijab',+
+\m ni kijab'
+\g ni cuatro
+\c ADV NUM
+\l Ni cuatro.
+\p ADV NUM
+
+\ref trtex054Usp04 054
+\t ni job' jb'aq'wich.+
+\m ni job' j- b'aq' -wich
+\g ni cinco E3S pepita ojo
+\c ADV NUM PERS S S
+\l Ni cinco pepitas o granitos.
+\p ADV NUM E3S#PERS S S
+
+\ref trtex054Usp04 055
+\t Si no ke juun qe tatzek xutzaj,+
+\m si no ke juun qe ti- tzek x- utzá -j
+\g si no que uno PART INC cocer COM decir SC
+\c ADV ADV ADV NUM PART TAM VT TAM VI SUF
+\l Si no que uno nada mas le dijerón.
+\p ADV ADV ADV NUM PART#PART INC#TAM VT COM#TAM VI SC#SUF
+
+\ref trtex054Usp04 056
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 057
+\t Toxex, toxex xta... ra anm li jb'iij Lupaa.+
+\m (toxex) (toxex) x- ta' ra ánim li j- b'iij Lupaa
+\g entonces entonces COM oir DIM mujer DEM E3S nombre Guadalupe
+\c ADV ADV TAM VT DIM S DEM PERS S NOM
+\l Entonces entonces escucho la mujercita que se llama guadalupe.
+\p ADV ADV COM#TAM VT DIM#DIM S DEM#DEM E3S#PERS S NOM
+
+\ref trtex054Usp04 058
+\t Toos neen k'u moo tinb'an,+
+\m toos neen k'u moo t- in- b'an
+\g entonces INT PART modo INC E1S hacer
+\c ADV ADV PART ADV TAM PERS VT
+\l Entonces que es lo que boy hacer.
+\p ADV INT#ADV PART#PART ADV INC#TAM E1S#PERS VT
+
+\ref trtex054Usp04 059
+\t tcha',+
+\m t- cha'
+\g INC decir
+\c TAM VI
+\l Decia.
+\p INC#TAM VI
+
+\ref trtex054Usp04 060
+\t tcha',+
+\m t- cha'
+\g INC decir
+\c TAM VI
+\l Decía dice.
+\p INC#TAM VI
+
+\ref trtex054Usp04 061
+\t tcha' Lupaa.+
+\m t- cha' Lupaa
+\g INC decir guadalupe
+\c TAM VI NOM
+\l Decía Lupaa.
+\p INC#TAM VI NOM
+
+\ref trtex054Usp04 062
+\t Si tintzek juj rajb'aq'wich,+
+\m si t- in- tzek ju -j r- aj- b'aq' -wich
+\g si INC E1S cocer uno E3S E3 AGT pepita ojo
+\c ADV TAM PERS VT NUM PERS PERS PREF S S
+\l Si pongo a cocer un solo granito.
+\p ADV INC#TAM E1S#PERS VT NUM E3S#PERS E3#PERS AGT#PREF S S
+
+\ref trtex054Usp04 063
+\t ta' tren per ni chweyn,+
+\m ta' t- r- en per ni ch- we- yn
+\g NEG INC E3 hacer pero ni INC E1S yo
+\c PART TAM PERS VT ADV PART TAM PERS PRON
+\l No alcanza ni para mi.
+\p NEG#PART INC#TAM E3#PERS VT ADV PART INC#TAM E1S#PERS PRON
+
+\ref trtex054Usp04 064
+\t tcha' re cha'.+
+\m t- cha' re cha'
+\g INC decir él/ella decir
+\c TAM VI PRON VI
+\l Le dijo a ella dice.
+\p INC#TAM VI PRON VI
+
+\ref trtex054Usp04 065
+\t A' noo,+
+\m a noo
+\g CONJ no
+\c CONJ ADV
+\l A no.
+\p CONJ#CONJ ADV
+
+\ref trtex054Usp04 066
+\t tcha' re cha'.+
+\m t- cha' re cha'
+\g INC decir él/ella decir
+\c TAM VI PRON VI
+\l Le dijo ella dice.
+\p INC#TAM VI PRON VI
+
+\ref trtex054Usp04 067
+\t Noo lajori tinb'an mejor,+
+\m noo lajori t- in- b'an mejor
+\g no ahora INC A1S hacer mejor
+\c ADV ADV TAM PERS VT ADV
+\l No ahora loque boy hacer mejor.
+\p ADV ADV INC#TAM A1S#PERS VT ADV
+
+\ref trtex054Usp04 068
+\t ri' tink'am b'i juun, juun, juun job' jb'aq'wich.+
+\m ri' t- in- k'am b'i juun juun juun job' j- b'aq' -wich
+\g DEM INC A1S recibir DIR uno uno uno cinco E3S pepita ojo
+\c DEM TAM PERS VT DIR NUM NUM NUM NUM PERS S S
+\l Si yo llevo unos unos unos cinco granitos.
+\p DEM#DEM INC#TAM A1S#PERS VT DIR#DIR NUM NUM NUM NUM E3S#PERS S S
+
+\ref trtex054Usp04 069
+\t I ri' li tinch'aje',+
+\m i ri' li t- in- ch'aj -e'
+\g CONJ DEM DEM INC A1S lavar ENF
+\c CONJ DEM DEM TAM PERS VT PART
+\l Y eso es lo que voy a labar.
+\p CONJ#CONJ DEM#DEM DEM#DEM INC#TAM A1S#PERS VT ENF#PART
+
+\ref trtex054Usp04 070
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 071
+\t I kesi wi' jun ra b'inb'el ja',+
+\m i ke -si wi' jun ra (b'inb'el) ja'
+\g CONJ que si EXS uno DIM ??? agua
+\c CONJ ADV ADV EXS NUM PART ??? S
+\l Y que si hay un caminito de agua.
+\p CONJ#CONJ ADV ADV EXS#EXS NUM DIM#PART ??? S
+
+\ref trtex054Usp04 072
+\t ri, ri chi jnaqajaq jun ra tb'en ra ja'.+
+\m ri ri chi j- naqaj -aq jun ra t- b'en ra ja'
+\g DEM DEM PREP E3S cerca PL uno DIM INC caminar DIM agua
+\c DEM DEM PREP PERS ADV PART NUM PART TAM VI PART S
+\l Si si serca de ellos hay un caminito de agua. (arrollo)
+\p DEM#DEM DEM#DEM PREP#PREP E3S#PERS ADV PL#PART NUM DIM#PART INC#TAM VI DIM#PART S
+
+\ref trtex054Usp04 073
+\t Pur jun ra xo'l suwaan.+
+\m pur jun ra xo'l suwaan
+\g puro uno DIM SREL barranco
+\c ADV NUM PART SREL S
+\l Parece en medio de un barranco.
+\p ADV NUM DIM#PART SREL#SREL S
+
+\ref trtex054Usp04 074
+\t Derepent xi', xi' xijk'ome'.+
+\m derepent xi' xi' x- i- j- k'om -e'
+\g de@repente ir ir COM DIR E3S recibir ENF
+\c ADV VI VI TAM DIR PERS VT PART
+\l De repente fue fue a traer.
+\p ADV VI VI COM#TAM DIR#DIR E3S#PERS VT ENF#PART
+
+\ref trtex054Usp04 075
+\t Per si tintzaq ab'aj pijpech,+
+\m per si ti- in- tzaq ab'aj pi- j- pech
+\g pero si INC E1S hechar piedra PREP E3S compañero
+\c ADV ADV TAM PERS VT S PREP PERS S
+\l Pero si le hecho piedras con ellos.
+\p ADV ADV INC#TAM E1S#PERS VT S PREP#PREP E3S#PERS S
+
+\ref trtex054Usp04 076
+\t neen k'u tren ra, ra, ra b'o'j ri,+
+\m neen k'u t- r- en ra ra ra b'o'j ri
+\g INT PART INC E3 hacer DIM DIM DIM olla DEM
+\c ADV PART TAM PERS VT PART PART PART S DEM
+\l ¿Que hara pues esta olla?
+\p INT#ADV PART#PART INC#TAM E3#PERS VT DIM#PART DIM#PART DIM#PART S DEM#DEM
+
+\ref trtex054Usp04 077
+\t tcha' re cha'.+
+\m t- cha' re cha'
+\g INC decir él/ella decir
+\c TAM VI PRON VI
+\l Decia ella dice.
+\p INC#TAM VI PRON VI
+
+\ref trtex054Usp04 078
+\t Si tintzaq ab'aj pijpech kinaq',+
+\m si t- in- tzaq ab'aj pu- j- pech kinaq'
+\g si INC E3S hechar piedra PREP E3S compañero frijol
+\c ADV TAM PERS VT S PREP PERS S S
+\l Si le hecho piedras con los frijoles.
+\p ADV INC#TAM E3S#PERS VT S PREP#PREP E3S#PERS S S
+
+\ref trtex054Usp04 079
+\t neen k'u moo ri tren,+
+\m neen k'u moo ri t- r- en
+\g INT PART modo DEM INC E3 hacer
+\c ADV PART ADV DEM TAM PERS VT
+\l ¿Y que es lo que hace?
+\p INT#ADV PART#PART ADV DEM#DEM INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 080
+\t tcha' re cha'.+
+\m t- cha' re cha'
+\g INC decir él/ella decir
+\c TAM VI PRON VI
+\l Decia ella dice.
+\p INC#TAM VI PRON VI
+
+\ref trtex054Usp04 081
+\t Baay xaa,+
+\m baay ???
+\g baya ???
+\c VOC ???
+\l Baya.
+\p VOC ???
+
+\ref trtex054Usp04 082
+\t xok chij,+
+\m x- ok chi -j
+\g COM entrar PREP E3S
+\c TAM VI PREP PERS
+\l Empezó a.
+\p COM#TAM VI PREP#PREP E3S#PERS
+
+\ref trtex054Usp04 083
+\t ra anm li jb'ij Lupaa.+
+\m ra ánim li j- b'ij ???
+\g DIM mujer DEM E3S decir ???
+\c PART S DEM PERS VT ???
+\l la mujer se llama Lupa.
+\p DIM#PART S DEM#DEM E3S#PERS VT ???
+
+\ref trtex054Usp04 084
+\t Xok chij chomorsajk+
+\m x- ok chi -j chomorsa -j -ik
+\g COM entrar PREP E3S pensar SC SC
+\c TAM VI PREP PERS VT SUF SUF
+\l Empezo a pensar.
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF SC#SUF
+
+\ref trtex054Usp04 085
+\t i baa jchomorsaj tren.+
+\m i baa j- chomorsa -j t- r- en
+\g CONJ va E3S pensar SC INC E3 hacer
+\c CONJ VOC PERS VT SUF TAM PERS VT
+\l Y va de pensar está haciendo.
+\p CONJ#CONJ VOC E3S#PERS VT SC#SUF INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 086
+\t Neen k'u moo ri tinb'an,+
+\m neen k'u moo ri t- in- b'an
+\g INT PART modo DEM INC E1S hacer
+\c ADV PART ADV DEM TAM PERS VT
+\l En que modo puedo hacer.
+\p INT#ADV PART#PART ADV DEM#DEM INC#TAM E1S#PERS VT
+
+\ref trtex054Usp04 087
+\t neen k'u moo ri tinb'an.+
+\m neen k'u moo ri t- in- b'an
+\g INT PART modo DEM INC A1S hacer
+\c ADV PART ADV DEM TAM PERS VT
+\l Que modo puedo hacer.
+\p INT#ADV PART#PART ADV DEM#DEM INC#TAM A1S#PERS VT
+
+\ref trtex054Usp04 088
+\t Sera ke iin tiin...,+
+\m sera ke iin tiin
+\g será que yo PART
+\c ADV PART PRON PART
+\l Sera que yo ha...
+\p ADV PART PRON PART#PART
+
+\ref trtex054Usp04 089
+\t sera ke iin tinwaa'x chij,+
+\m sera ke iin t- in- waa'x chi -j
+\g sera que yo INC E1S estar PREP E3S
+\c ADV PART PRON TAM PERS VI PREP PERS
+\l Sera que puedo estar en.
+\p ADV PART PRON INC#TAM E1S#PERS VI PREP#PREP E3S#PERS
+
+\ref trtex054Usp04 090
+\t chijchi' ra ja' ri.+
+\m chi- j- chi' ra ja' ri
+\g PREP E3S orilla DIM agua DEM
+\c PREP PERS S PART S DEM
+\l En la orilla de esta agua.
+\p PREP#PREP E3S#PERS S DIM#PART S DEM#DEM
+
+\ref trtex054Usp04 091
+\t Para ke ta' inijk'am b'ik ra ja'.+
+\m para ke ta' in- i- j- k'am b'ik ra ja'
+\g para que NEG A1S E1S E3S recibir DIR DIM agua
+\c ADV ADV PART PERS PERS PERS VT DIR PART S
+\l Para que no me lleve el agua.
+\p ADV ADV NEG#PART A1S#PERS E1S#PERS E3S#PERS VT DIR#DIR DIM#PART S
+
+\ref trtex054Usp04 092
+\t Per si ra ja',+
+\m per si ra ja'
+\g pero si DIM agua
+\c ADV ADV PART S
+\l Pero si el agua.
+\p ADV ADV DIM#PART S
+
+\ref trtex054Usp04 093
+\t ta' raj nimal,+
+\m ta' ra nim -aal
+\g NEG DIM grande SAB
+\c PART PART ADJ SUF
+\l Pero como no es grande.
+\p NEG#PART DIM#PART ADJ SAB#SUF
+
+\ref trtex054Usp04 094
+\t tcha',+
+\m t- cha'
+\g INC decir
+\c TAM VI
+\l Decía dice.
+\p INC#TAM VI
+
+\ref trtex054Usp04 095
+\t tcha' nika' anm jb'iij Lupaa.+
+\m t- cha' nika' anim j- b'iij Lupaa
+\g INC decir PART mujer E3S nombre guadalupe
+\c TAM VI PART S PERS S NOM
+\l Decía la mujer de nombre guadalupe.
+\p INC#TAM VI PART#PART S E3S#PERS S NOM
+
+\ref trtex054Usp04 096
+\t Pero iin neen moo tinb'an.+
+\m pero iin neen moo t- in- b'an
+\g pero yo INT modo INC A1S hacer
+\c ADV PRON ADV ADV TAM PERS VT
+\l Pero yo que modo puedo hacer.
+\p ADV PRON INT#ADV ADV INC#TAM A1S#PERS VT
+
+\ref trtex054Usp04 097
+\t I xok+
+\m i x- ok
+\g CONJ COM entrar
+\c CONJ TAM VI
+\l Y entro.
+\p CONJ#CONJ COM#TAM VI
+
+\ref trtex054Usp04 098
+\t i baa tontal+
+\m i baa tontal
+\g CONJ va tonterías
+\c CONJ VOC S
+\l Y va tonterias.
+\p CONJ#CONJ VOC S
+
+\ref trtex054Usp04 099
+\t i baach...+
+\m i baach
+\g CONJ ???
+\c CONJ ???
+\l Y va.
+\p CONJ#CONJ ???
+
+\ref trtex054Usp04 100
+\t i baa chomorsaan tren.+
+\m i baa chomorsa -an t- r- en
+\g CONJ baya pensar ??? INC E3 hacer
+\c CONJ VOC S ??? TAM PERS VT
+\l Y va de pensar esta.
+\p CONJ#CONJ VOC S ??? INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 101
+\t Xaq derefente xok chi jun b'i...s+
+\m xaq derefente x- ok chi jun b'is
+\g PART derrepente COM entrar PREP uno tristeza
+\c PART ADV TAM VI PREP NUM S
+\l Solo derepente empezo en una tristeza.
+\p PART#PART ADV COM#TAM VI PREP#PREP NUM S
+
+\ref trtex054Usp04 102
+\t i baa b'iis tren.+
+\m i baa b'iis t- r- en
+\g CONJ baya tristeza INC E3 hacer
+\c CONJ VOC S TAM PERS VT
+\l Y va de tristear esta. (esta muy triste)
+\p CONJ#CONJ VOC S INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 103
+\t Komoo jun ra su'+
+\m komoo jun ra su'
+\g como uno DIM chirimilla
+\c ADV NUM PART S
+\l Como una chirimilla.
+\p ADV NUM DIM#PART S
+
+\ref trtex054Usp04 104
+\t i baa chaq b'ison.+
+\m i baa chaq b'is -on
+\g CONJ baya PART tristeza AP
+\c CONJ VOC PART S SUF
+\l Y va de estar triste.
+\p CONJ#CONJ VOC PART#PART S AP#SUF
+
+\ref trtex054Usp04 105
+\t I baa chaq b'ison+
+\m i baa chaq b'is -on
+\g CONJ va PART tristeza AP
+\c CONJ VOC PART S SUF
+\l Y va de tristear.
+\p CONJ#CONJ VOC PART#PART S AP#SUF
+
+\ref trtex054Usp04 106
+\t i ba chaq tijqech'ech'ej tra wchre.+
+\m i ba chaq ti- j- qech'ech'e -j tra wch -re
+\g CONJ va PART INC E3S crujir SC DIM SREL dientes
+\c CONJ VOC PART TAM PERS AFE SUF PART SREL S
+\l Y va de crujir sus dientes de adelante.
+\p CONJ#CONJ VOC PART#PART INC#TAM E3S#PERS AFE SC#SUF DIM#PART SREL#SREL S
+
+\ref trtex054Usp04 107
+\t I ba chaq tijqech'ech'ej tra wchre.+
+\m i ba chaq ti- j- qech'ech'e -j tra wch -re
+\g CONJ va PART INC E3S crujir SC DIM SREL diente
+\c CONJ VOC PART TAM PERS AFE SUF PART SREL S
+\l Y va de crujir sus dientes de adelante.
+\p CONJ#CONJ VOC PART#PART INC#TAM E3S#PERS AFE SC#SUF DIM#PART SREL#SREL S
+
+\ref trtex054Usp04 108
+\t Xaq derefente xtaw kla'. Kita', kita' re,+
+\m xaq derefente x- taw kla' kita' kita re
+\g PART derrepente COM llegar allí NEG NEG él/ella
+\c PART ADV TAM VT ADV PART PART PRON
+\l Solo derepente llego allí y no no esta ella.
+\p PART#PART ADV COM#TAM VT ADV NEG#PART NEG#PART PRON
+
+\ref trtex054Usp04 109
+\t kita' chki' tijta' neen tren.+
+\m kita' kita' ti- j- ta' neen t- r- en
+\g NEG NEG INC E3S encontrar INT INC E3 hacer
+\c PART PART TAM PERS VT ADV TAM PERS VT
+\l Ya no encuentra que hacer.
+\p NEG#PART NEG#PART INC#TAM E3S#PERS VT INT#ADV INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 110
+\t Xok chi b'iis+
+\m x- ok chi b'iis
+\g COM entrar PREP tristeza
+\c TAM VI PREP S
+\l Empezó a entristecerse.
+\p COM#TAM VI PREP#PREP S
+
+\ref trtex054Usp04 111
+\t i baa b'iis i baa b'iixon tren.+
+\m i baa b'iis i baa b'iix -on t- r- en
+\g CONJ va tristeza CONJ va cantar AP INC E3 hacer
+\c CONJ VOC S CONJ VOC VT SUF TAM PERS VT
+\l Y va de tristear y va de cantar estaba.
+\p CONJ#CONJ VOC S CONJ#CONJ VOC VT AP#SUF INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 112
+\t Xaq derefente xkuxtaj jwi'l,+
+\m xaq derefente x- kuxta -j j- wi'l
+\g PART derrepente COM recordar SC E3S SREL
+\c PART ADV TAM VT SUF PERS SREL
+\l Solo derepente se recordó.
+\p PART#PART ADV COM#TAM VT SC#SUF E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 113
+\t wi' b'a juj tajkiil xye'saj.+
+\m wi' b'a ju -j tajkiil x- ye' -sáj
+\g EXS va uno E3S mandado COM dar PAS
+\c EXS VOC NUM PERS S TAM VT SUF
+\l Tenia un su mandado que le dejaron.
+\p EXS#EXS VOC NUM E3S#PERS S COM#TAM VT PAS#SUF
+
+\ref trtex054Usp04 114
+\t Re ta' chki' kuxtal jwi'l.+
+\m re ta' chik -i' kuxta -l j- wi'l
+\g él/ella NEG PART ENF recordar SC E3S SREL
+\c PRON PART PART PART VT SUF PERS SREL
+\l Ella ya no se recordaba.
+\p PRON NEG#PART PART#PART ENF#PART VT SC#SUF E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 115
+\t Chaq derefente xye'saj juj tajkiil.+
+\m chaq derefente x- ye' -sáj ju -j tajkiil
+\g PART derrepente COM dar PAS uno E3S mandado
+\c PART ADV TAM VT SUF NUM PERS S
+\l Solo derepente le dieron un mandado.
+\p PART#PART ADV COM#TAM VT PAS#SUF NUM E3S#PERS S
+
+\ref trtex054Usp04 116
+\t Ke twa'x li, li, li ke tb'e li tzakow kinaq'.+
+\m ke t- wa'x li li li ke t- b'e li tzak -ow kinaq'
+\g que INC estar PREP PREP PREP que INC ir PREP cocer AP frijol
+\c PART TAM VI PREP PREP PREP PART TAM VI PREP VT SUF S
+\l Que se quede en en en que se va a cocinar frijol.
+\p PART INC#TAM VI PREP#PREP PREP#PREP PREP#PREP PART INC#TAM VI PREP#PREP VT AP#SUF S
+
+\ref trtex054Usp04 117
+\t Toos re mejor,+
+\m toos re mejor
+\g entonces él/ella mejor
+\c TAM PRON ADV
+\l Entonces ella mejor.
+\p TAM PRON ADV
+
+\ref trtex054Usp04 118
+\t mejor antes, antes ke inb'e li tzekow kinaq',+
+\m mejor antes antes ke in- b'e li tzek -ow kinaq'
+\g mejor antes antes que A1S ir PREP cocer AP frijol
+\c ADV ADV ADV PART PERS VI PREP VT SUF S
+\l Mejor antes antes que me vaya a cocer frijol.
+\p ADV ADV ADV PART A1S#PERS VI PREP#PREP VT AP#SUF S
+
+\ref trtex054Usp04 119
+\t tcha' re.+
+\m t- cha' re
+\g INC decir él/ella
+\c TAM VI PRON
+\l Dijo ella.
+\p INC#TAM VI PRON
+
+\ref trtex054Usp04 120
+\t Mejor tinb'an b'i ra witiin,+
+\m mejor t- in- b'an b'i ra w- itin
+\g mejor INC A1S hacer DIR DIM E1S bañar
+\c ADV TAM PERS VT DIR PART PERS VT
+\l Mejor me hago mi baño.
+\p ADV INC#TAM A1S#PERS VT DIR#DIR DIM#PART E1S#PERS VT
+
+\ref trtex054Usp04 121
+\t tcha' re cha'.+
+\m t- cha' re cha'
+\g INC decir él/ella decir
+\c TAM VI PRON VI
+\l Decia ella dice.
+\p INC#TAM VI PRON VI
+
+\ref trtex054Usp04 122
+\t I xok chij resaj,+
+\m i x- ok chi -j r- esa -j
+\g CONJ COM entrar PREP E3S E3 sacar SC
+\c CONJ TAM VI PREP PERS PERS VT SUF
+\l Y empezo a sacar.
+\p CONJ#CONJ COM#TAM VI PREP#PREP E3S#PERS E3#PERS VT SC#SUF
+
+\ref trtex054Usp04 123
+\t xok chij resaaj nik'aj ra, ra ritz'iq.+
+\m x- ok chi -j r- esaa -j nik'aj ra ra r- itz'iq
+\g COM entrar PREP E3S E3 sacar SC unos DIM DIM E3 ropa
+\c TAM VI PREP PERS PERS VT SUF ADV PART PART PERS S
+\l Empezo a sacar unas de sus ropas.
+\p COM#TAM VI PREP#PREP E3S#PERS E3#PERS VT SC#SUF ADV DIM#PART DIM#PART E3#PERS S
+
+\ref trtex054Usp04 124
+\t Xok chij resaaj ritz'iq+
+\m x- ok chi -j r- esaa -j r- itz'iq
+\g COM entrar PREP E3S E3 sacar SC E3 ropa
+\c TAM VI PREP PERS PERS VT SUF PERS S
+\l Empezo a sacar su ropa.
+\p COM#TAM VI PREP#PREP E3S#PERS E3#PERS VT SC#SUF E3#PERS S
+
+\ref trtex054Usp04 125
+\t i baa ritz'iq tresaj.+
+\m i baa r- itz'iq t- r- esa -j
+\g CONJ va E3 ropa INC E3 sacar SC
+\c CONJ VOC PERS S TAM PERS VT SUF
+\l Y va ropa esta sacando.
+\p CONJ#CONJ VOC E3#PERS S INC#TAM E3#PERS VT SC#SUF
+
+\ref trtex054Usp04 126
+\t Derefente xtaw li,+
+\m derefente x- taw li
+\g derrepente COM llegar DEM
+\c ADV TAM VT DEM
+\l Derepente llego en.
+\p ADV COM#TAM VT DEM#DEM
+
+\ref trtex054Usp04 127
+\t xtaw li jun li.+
+\m x- taw li jun li
+\g COM llegar PREP uno DEM
+\c TAM VT PREP NUM DEM
+\l Llego en uno de esos.
+\p COM#TAM VT PREP#PREP NUM DEM#DEM
+
+\ref trtex054Usp04 128
+\t Per kita' inxab'oon k'omolch inwi'l,+
+\m per kita' in- xab'on k'om -ol -ch in- wi'l
+\g pero PART A1S jabon recibir AGT DIR A1S SREL
+\c ADV PART PERS S VT SUF DIR PERS SREL
+\l Pero no traigo jabon.
+\p ADV PART#PART A1S#PERS S VT AGT#SUF DIR#DIR A1S#PERS SREL#SREL
+
+\ref trtex054Usp04 129
+\t tcha' re cha'.+
+\m t- cha' re cha'
+\g INC decir él/ella decir
+\c TAM VI PRON VI
+\l Le dijo a ella dice.
+\p INC#TAM VI PRON VI
+
+\ref trtex054Usp04 130
+\t Antons niri xab'oon wi' ketant,+
+\m antons niri xab'oon wi' ke -tant
+\g entonces aqui jabon EXS que tantos
+\c ADV ADV S EXS ADV ???
+\l Entonces aquí jabon hay bastante.
+\p ADV ADV S EXS#EXS ADV ???
+
+\ref trtex054Usp04 131
+\t wi' niri,+
+\m wi' niri
+\g EXS aqui
+\c EXS ADV
+\l Hay aquí.
+\p EXS#EXS ADV
+
+\ref trtex054Usp04 132
+\t cha',+
+\m cha'
+\g decir
+\c VI
+\l Dijo.
+\p VI
+
+\ref trtex054Usp04 133
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 134
+\t Xok chij tokik traj jwich chee'.+
+\m x- ok chi -j tok -ik tra -j j- wich chee'
+\g COM entrar PREP E3S buscar SC DIM E3S E3S SREL árbol
+\c TAM VI PREP PERS VT SUF PART PERS PERS SREL S
+\l Empezo a buscar las frutas de los árboles.
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF DIM#PART E3S#PERS E3S#PERS SREL#SREL S
+
+\ref trtex054Usp04 135
+\t I baa jtokik tra jwich chee' tren.+
+\m i baa j- tok -ik tra j- wich chee' t- r- en
+\g CONJ va E3S buscar SC DIM E3S SREL árbol INC E3 hacer
+\c CONJ VOC PERS VT SUF PART PERS SREL S TAM PERS PREP
+\l Y va de buscar las frutas del árbol hace.
+\p CONJ#CONJ VOC E3S#PERS VT SC#SUF DIM#PART E3S#PERS SREL#SREL S INC#TAM E3#PERS PREP
+
+\ref trtex054Usp04 136
+\t I baa tra... i baa jtokik.+
+\m i baa tra i baa j- tok -ik
+\g CONJ va DIM CONJ va E3S buscar SC
+\c CONJ VOC PART CONJ VOC PERS VT SUF
+\l Y va de y va de cortar.
+\p CONJ#CONJ VOC DIM#PART CONJ#CONJ VOC E3S#PERS VT SC#SUF
+
+\ref trtex054Usp04 137
+\t Komoo tra ch'amach',+
+\m komoo tra ch'amach'
+\g como DIM guayaba@ácida
+\c ADV PART S
+\l Como las guayabas agrias.
+\p ADV DIM#PART S
+
+\ref trtex054Usp04 138
+\t tra nimaq.+
+\m tra nimaq
+\g DIM grande
+\c PART ADJ
+\l Los grandes.
+\p DIM#PART ADJ
+
+\ref trtex054Usp04 139
+\t Toses xmol k'iy,+
+\m toses x- mol k'iy
+\g entonces COM juntar mucho
+\c ADV TAM VT ADV
+\l Entoces junto bastantes.
+\p ADV COM#TAM VT ADV
+
+\ref trtex054Usp04 140
+\t xmol,+
+\m x- mol
+\g COM juntar
+\c TAM VT
+\l Juntar.
+\p COM#TAM VT
+
+\ref trtex054Usp04 141
+\t xmola' jun ra mutzaj,+
+\m x- mol -a' jun ra mutz -aj
+\g COM juntar ENF uno DIM puño PART
+\c TAM VT PART NUM PART MED PART
+\l Juntó un puño.
+\p COM#TAM VT ENF#PART NUM DIM#PART MED PART#PART
+
+\ref trtex054Usp04 142
+\t xmol pwes xok chij b'aqik jb'aa la'.+
+\m x- mol pwes x- ok chi -j b'aq -ik j- b'aa la'
+\g COM juntar pues COM entrar PREP E3S enjuagar SC E3S cabeza PREP
+\c TAM VT ADV TAM VI PREP PERS VT SUF PERS S PREP
+\l Juntó pues y empezó a enjuagarse la cabeza con ella.
+\p COM#TAM VT ADV COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF E3S#PERS S PREP#PREP
+
+\ref trtex054Usp04 143
+\t I tz'et qe tpuluw tra, tra ch'amach' tijyaw.+
+\m i tz'et qe t- puluw tra tra ch'amach' ti- j- ya' -w
+\g CONJ cierto PART INC espuma DIM DIM guayaba@ácida INC E3S dar PART
+\c CONJ ADV PART TAM S PART PART ADJ TAM PERS VT PART
+\l Y cierto pues que espumea las las guayabas agrias se dan.
+\p CONJ#CONJ ADV PART#PART INC#TAM S DIM#PART DIM#PART ADJ INC#TAM E3S#PERS VT PART#PART
+
+\ref trtex054Usp04 144
+\t Komoo tra ch'amach' rilik,+
+\m komoo tra ch'amach' r- il -ik
+\g como DIM guayaba@ácida E3 ver SC
+\c ADV PART ADJ PERS VT SUF
+\l Como guayabas agrias se ve.
+\p ADV DIM#PART ADJ E3#PERS VT SC#SUF
+
+\ref trtex054Usp04 145
+\t per maa ch'amach' ta'n.+
+\m per maa ch'amach' ta'n
+\g pero NEG guayaba@ácida NEG
+\c ADV PART ADJ ADV
+\l Pero no son guayabas agrias no.
+\p ADV NEG#PART ADJ NEG#ADV
+
+\ref trtex054Usp04 146
+\t Toos xok chij molik lajb'a.+
+\m toos x- ok chi -j mol -ik laj- b'a
+\g entonces COM entrar PREP E3S juntar SC PREP cabeza
+\c ADV TAM VI PREP PERS VT SUF PREP S
+\l Entonces empezo a juntar en su cabeza.
+\p ADV COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF PREP#PREP S
+
+\ref trtex054Usp04 147
+\t I baa ri' chaq tril tiwooqow, tiwooqow chi riij,+
+\m i baa ri' chaq t- r- il ti- wooq -ow ti- wooqow chi r- iij
+\g CONJ va DEM PART INC E3 ver INC espuma AP INC espuma PREP E3S SREL
+\c CONJ VOC DEM PART TAM PERS VT TAM ADJ SUF TAM ADJ PREP PERS SREL
+\l Y va de de ver si espumeaba espumeaba de tras.
+\p CONJ#CONJ VOC DEM#DEM PART#PART INC#TAM E3#PERS VT INC#TAM ADJ AP#SUF INC#TAM ADJ PREP#PREP E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 148
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 149
+\t I... xok chij b'anik.+
+\m i x- ok chi -j b'an -ik
+\g CONJ COM entrar PREP E3S hacer SC
+\c CONJ TAM VI PREP PERS VT SUF
+\l Y empezo a hacer.
+\p CONJ#CONJ COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF
+
+\ref trtex054Usp04 150
+\t I derefent xentaj ritin jwi'l.+
+\m i derefent x- en -ta -j r- itin j- wi'l
+\g CONJ derrepente COM hacer ??? SC E3 bañar E3S SREL
+\c CONJ ADV TAM VT ??? SUF PERS VI PERS SREL
+\l Y derepente termino de bañarce.
+\p CONJ#CONJ ADV COM#TAM VT ??? SC#SUF E3#PERS VI E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 151
+\t Baay xentaj ritin jwi'l,+
+\m baay x- en -taaj r- itin j- wi'l
+\g baya COM hacer ??? E3 bañar E3S SREL
+\c VOC TAM VT ??? PERS VI PERS SREL
+\l Baya termino de bañarce.
+\p VOC COM#TAM VT ??? E3#PERS VI E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 152
+\t baay re baa ch'opiin chaq tren,+
+\m baay re baa ch'opi -in chaq t- r- en
+\g baya él/ella va brincar AP PART INC E3 hacer
+\c VOC PRON VOC VI SUF PART TAM PERS VT
+\l Baya ella va de brincar estaba.
+\p VOC PRON VOC VI AP#SUF PART#PART INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 153
+\t cha'+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 154
+\t i baa ch'opiin chaq tren cha'.+
+\m i baa ch'opi -iin chaq t- r- en cha'
+\g CONJ va brincar AP PART INC E3 hacer decir
+\c CONJ VOC VI SUF PART TAM PERS VT VT
+\l Y va de brincar estaba dice.
+\p CONJ#CONJ VOC VI AP#SUF PART#PART INC#TAM E3#PERS VT VT
+
+\ref trtex054Usp04 155
+\t I baa ch'opiin chaq tren li ja'.+
+\m i baa ch'opi -in chaq t- r- en li ja'
+\g CONJ va brincar AP PART INC E3 hacer PREP agua
+\c CONJ VOC VI SUF PART TAM PERS VT PREP S
+\l Y va de brincar estaba en el agua.
+\p CONJ#CONJ VOC VI AP#SUF PART#PART INC#TAM E3#PERS VT PREP#PREP S
+
+\ref trtex054Usp04 156
+\t I kom tzii tril ra ja' ra nuch',+
+\m i kom tzii t- r- il ra ja' ra nuch'
+\g CONJ como bueno INC E3 ver DIM agua DIM pequeño
+\c CONJ PART ADJ TAM PERS VT PART S PART ADJ
+\l Y como le gusta pues que el agua es pequeñita.
+\p CONJ#CONJ PART ADJ INC#TAM E3#PERS VT DIM#PART S DIM#PART ADJ
+
+\ref trtex054Usp04 157
+\t ra chaal qe.+
+\m ra chaal qe
+\g DIM pequeño PART
+\c PART ADJ PART
+\l Solo es pequeño.
+\p DIM#PART ADJ PART#PART
+
+\ref trtex054Usp04 158
+\t I derepente xtaw chij yolik+
+\m i derepente x- taw chi -j yol -ik
+\g CONJ de@repente COM llegar PREP E3S contar SC
+\c CONJ ADV TAM VT PREP PERS VT SUF
+\l Y derepente llego a contar.
+\p CONJ#CONJ ADV COM#TAM VT PREP#PREP E3S#PERS VT SC#SUF
+
+\ref trtex054Usp04 159
+\t i baa jyolik tren.+
+\m i baa j- yol -ik t- r- en
+\g CONJ va E3S contar SC INC E3 hacer
+\c CONJ VOC PERS VT SUF TAM PERS VT
+\l Y va de contar estava.
+\p CONJ#CONJ VOC E3S#PERS VT SC#SUF INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 160
+\t I kwand xaq derepent xen mejor, mejor tinb'ane' na intajkiil,+
+\m i kwand xaq derepent x- en mejor mejor t- in- b'an -e' na in- tajkiil
+\g CONJ cuando PART de@repente COM hacer mejor mejor INC E1S hacer ENF PART E1S mandado
+\c CONJ ADV PART ADV TAM VT ADV ADV TAM PERS VT PART PART PERS S
+\l Y como solo tan derepente hizo mejor mejor hago mi mandado.
+\p CONJ#CONJ ADV PART#PART ADV COM#TAM VT ADV ADV INC#TAM E1S#PERS VT ENF#PART PART#PART E1S#PERS S
+
+\ref trtex054Usp04 161
+\t cha',+
+\m cha'
+\g decir
+\c VI
+\l Dijo.
+\p VI
+
+\ref trtex054Usp04 162
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 163
+\t Juntir chik,+
+\m juntiir chik
+\g todo PART
+\c ADV PART
+\l O tra vez.
+\p ADV PART#PART
+
+\ref trtex054Usp04 164
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 165
+\t I... derepent xtaw+
+\m i derepeet x- taw
+\g CONJ de@repente COM llegar
+\c CONJ ADV TAM VT
+\l Y derepente llego.
+\p CONJ#CONJ ADV COM#TAM VT
+
+\ref trtex054Usp04 166
+\t i xok mejor,+
+\m i x- ok mejor
+\g CONJ COM entrar mejor
+\c CONJ TAM VI ADV
+\l Y enpezo mejor.
+\p CONJ#CONJ COM#TAM VI ADV
+
+\ref trtex054Usp04 167
+\t x... xen ji'non li jo' xek'.+
+\m x x- en ji'non li jo' xek'
+\g COM COM hacer DEM DEM ir ir
+\c TAM TAM VT DEM DEM VI VI
+\l Y lo que hizo se fue corriendo.
+\p COM#TAM COM#TAM VT DEM#DEM DEM#DEM VI VI
+
+\ref trtex054Usp04 168
+\t Xij tzake' ra kinaq' mejor,+
+\m x- ij tzak -e' ra kinaq' mejor
+\g COM ir cocer ENF DIM frijol mejor
+\c TAM VI VT PART PART S ADV
+\l Fue a cocer su frijolito.
+\p COM#TAM VI VT ENF#PART DIM#PART S ADV
+
+\ref trtex054Usp04 169
+\t xtzek.+
+\m x- tzek
+\g COM cocer
+\c TAM VT
+\l lo cocio.
+\p COM#TAM VT
+
+\ref trtex054Usp04 170
+\t I xijsaj re ke juun qe raj b'aq'wich tijtzek.+
+\m i x- íj -sáj re ke jun qe ra b'aq' -wich ti- j- tzek
+\g CONJ COM decir PAS él/ella que uno PART DIM pepita ojo INC E3S cocer
+\c CONJ TAM VT SUF PRON PART NUM PART PART S S TAM PERS VT
+\l Y le dijerón a ella que un solo granito tiene que cocer.
+\p CONJ#CONJ COM#TAM VT PAS#SUF PRON PART NUM PART#PART DIM#PART S S INC#TAM E3S#PERS VT
+
+\ref trtex054Usp04 171
+\t I xaq derepente,+
+\m i xaq derepente
+\g CONJ PART de@repente
+\c CONJ PART ADV
+\l Y solo derepente.
+\p CONJ#CONJ PART#PART ADV
+
+\ref trtex054Usp04 172
+\t xaq derepente xtzeksaj.+
+\m xaq derepente x- tzek -sáj
+\g PART de@repente COM cocer PAS
+\c PART ADV TAM VT SUF
+\l Solo derepente cocierón.
+\p PART#PART ADV COM#TAM VT PAS#SUF
+
+\ref trtex054Usp04 173
+\t Derepente juun qe ra jb'aq'wich kinaq' tijtzek xijsaj re.+
+\m derepente jun qe ra j- b'aq' -wich kinaq' ti- j- tzek x- ij -sáj re
+\g de@repente uno PART DIM E3S pepita ojo frijol INC E3S cocer COM decir PAS él/ella
+\c ADV NUM PART PART PERS S S S TAM PERS VT TAM VT SUF PRON
+\l Derepente un solo granito de frijol lo coces le dijeron a ella.
+\p ADV NUM PART#PART DIM#PART E3S#PERS S S S INC#TAM E3S#PERS VT COM#TAM VT PAS#SUF PRON
+
+\ref trtex054Usp04 174
+\t I derepente xijsaj re ke re xye'saj jtajkiil+
+\m i derepente x- ij -sáj re ke re x- ye' -sáj j- tajkiil
+\g CONJ de@repente COM decir PAS él/ella que él/ella COM dar PAS E3S mandado
+\c CONJ ADV TAM VT SUF PRON PART PRON TAM VT SUF PERS S
+\l Y derepente le dijeron a ella que solo le dieron el mandado.
+\p CONJ#CONJ ADV COM#TAM VT PAS#SUF PRON PART PRON COM#TAM VT PAS#SUF E3S#PERS S
+
+\ref trtex054Usp04 175
+\t ke juun qe tijtzek.+
+\m ke jun qe ti- j- tzek
+\g que uno PART INC E3S cocer
+\c ADV NUM PART TAM PERS VT
+\l Que uno nada mas lo coce.
+\p ADV NUM PART#PART INC#TAM E3S#PERS VT
+
+\ref trtex054Usp04 176
+\t I kesi ke re tzekikqe chi job' jb'aq'wich xen.+
+\m i ke -si ke re tzek -ik -qe chi job' j- b'aq' -wich x- en
+\g CONJ que si que él/ella cocer SC PART PREP cinco E3S pepita ojo COM hacer
+\c CONJ ADV ADV ADV PRON VT SUF PART PREP NUM PERS S S TAM VT
+\l Y que si que ella cocio los cinco granitos.
+\p CONJ#CONJ ADV ADV ADV PRON VT SC#SUF PART#PART PREP#PREP NUM E3S#PERS S S COM#TAM VT
+
+\ref trtex054Usp04 177
+\t I xaq derepente, derepente xmulajch rib' ra, ra, ra tiko'n chuch.+
+\m i xaq derepente derepent x- muláj -ch r- ib' ra ra ra tiko'n ch- uch
+\g CONJ PART de@repente de@repente COM amontonar DIR E3S SREL DIM DIM DIM siembra PREP SREL
+\c CONJ PART ADV ADV TAM VT DIR PERS SREL DIM DIM DIM S PREP SREL
+\l Y solo derepente derepente se amontono su fruta en frente.
+\p CONJ#CONJ PART#PART ADV ADV COM#TAM VT DIR#DIR E3S#PERS SREL#SREL DIM#DIM DIM#DIM DIM#DIM S PREP#PREP SREL#SREL
+
+\ref trtex054Usp04 178
+\t Ra, ra, ra kinaq' xk'iiych, xk'iiych chuch.+
+\m ra ra ra kinaq' x- k'iy -ch x- k'iy -ch ch- uch
+\g DIM DIM DIM frijol COM abundar DIR COM abundar DIR PREP SREL
+\c DIM DIM DIM S TAM VI DIR TAM VI DIR PREP SREL
+\l Su su su frijol abundo abundo enfrente. (se le abundó el frijol)
+\p DIM#DIM DIM#DIM DIM#DIM S COM#TAM VI DIR#DIR COM#TAM VI DIR#DIR PREP#PREP SREL#SREL
+
+\ref trtex054Usp04 179
+\t Total ke ta' chki' xen ra, ra, ra, ra b'o'j chuch.+
+\m total ke ta' chk -i' x- en ra ra ra ra b'o'j ch- uch
+\g total que NEG PART ENF COM hacer DIM DIM DIM DIM olla PREP SREL
+\c ADV ADV PART PART PART TAM VT DIM DIM DIM DIM S PREP SREL
+\l Total que ya no alcanzó su su su su olla enfrente.
+\p ADV ADV NEG#PART PART#PART ENF#PART COM#TAM VT DIM#DIM DIM#DIM DIM#DIM DIM#DIM S PREP#PREP SREL#SREL
+
+\ref trtex054Usp04 180
+\t Raqin ra b'o'j.+
+\m raqin ra b'o'j
+\g romper DIM olla
+\c VT PART S
+\l Exploto su olla. (se rompió)
+\p VT DIM#PART S
+
+\ref trtex054Usp04 181
+\t I xkan ra kinaq'.+
+\m i x- kan ra kinaq'
+\g CONJ COM quedar DIM frijol
+\c CONJ TAM VI PART S
+\l Y se quedo el frijolito.
+\p CONJ#CONJ COM#TAM VI DIM#PART S
+
+\ref trtex054Usp04 182
+\t I xk'at ra kinaq'.+
+\m i x- k'at ra kinaq'
+\g CONJ COM quemar DIM frijol
+\c CONJ TAM VT PART S
+\l Y se quemo el frijol.
+\p CONJ#CONJ COM#TAM VT DIM#PART S
+
+\ref trtex054Usp04 183
+\t Despwes de ke xk'at ra kinaq'.+
+\m despwes de ke x- k'at ra kinaq'
+\g después de que COM quemar DIM frijol
+\c ADV ADV ADV TAM VT PART S
+\l Despues de que se quemo el frijol.
+\p ADV ADV ADV COM#TAM VT DIM#PART S
+
+\ref trtex054Usp04 184
+\t Despwes xok chi b'iis+
+\m despwes x- ok chi b'iis
+\g después COM entrar PREP tristeza
+\c ADV TAM VI PREP S
+\l Despues empezó a entristecerse.
+\p ADV COM#TAM VI PREP#PREP S
+
+\ref trtex054Usp04 185
+\t i xok chi ch'opiink.+
+\m i x- ok chi ch'opi -in -ik
+\g CONJ COM entrar PREP brincar AP SC
+\c CONJ TAM VI PREP VI SUF SUF
+\l Y empezó a brincar.
+\p CONJ#CONJ COM#TAM VI PREP#PREP VI AP#SUF SC#SUF
+
+\ref trtex054Usp04 186
+\t Ya xk'ati' ra kinaq'+
+\m ya x- k'at -i'n ra kinaq'
+\g ya COM quemar ENF DIM frijol
+\c VOC TAM VT PART PART S
+\l Ya se quemó el frijolito.
+\p VOC COM#TAM VT ENF#PART DIM#PART S
+
+\ref trtex054Usp04 187
+\t i baa ch'opiin tren+
+\m i baa ch'opi -in t- r- en
+\g CONJ va brincar AP INC E3 hacer
+\c CONJ VOC VI SUF TAM PERS VT
+\l Y va de brincar estaba.
+\p CONJ#CONJ VOC VI AP#SUF INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 188
+\t i baa ch'opiin tren.+
+\m i baa ch'opi -in t- r- en
+\g CONJ va brincar AP INC E3 hace
+\c CONJ VOC VI SUF TAM PERS VT
+\l Y va de brincar estaba.
+\p CONJ#CONJ VOC VI AP#SUF INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 189
+\t Xaq derepente kwando xqej b'i jchuuch,+
+\m xaq derepente kwando x- qej b'i j- chuuch
+\g PART de@repente cuando COM bajar DIR E3S mamá
+\c PART ADV ADV TAM VI DIR PERS S
+\l Solo derepente cuando bajo su mamá.
+\p PART#PART ADV ADV COM#TAM VI DIR#DIR E3S#PERS S
+
+\ref trtex054Usp04 190
+\t jqaaj rik'il.+
+\m j- qaaj r- ik'il
+\g E3S papá E3 SREL
+\c PERS S PERS SREL
+\l Su papá con ella.
+\p E3S#PERS S E3#PERS SREL#SREL
+
+\ref trtex054Usp04 191
+\t Neen xata' aat.+
+\m neen xata' aat
+\g INT encontrar tú/usted
+\c ADV VT PRON
+\l Que le paso a usted.
+\p INT#ADV VT PRON
+
+\ref trtex054Usp04 192
+\t Pwes inxk'at inkinaq',+
+\m pwes in- x- k'at in- kinaq'
+\g pues A1S COM quemar A1S frijol
+\c ADV PERS TAM VT PERS S
+\l Pues a mi se me quemo mi frijol.
+\p ADV A1S#PERS COM#TAM VT A1S#PERS S
+
+\ref trtex054Usp04 193
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 194
+\t Jurub' jb'aq'wich xatzek pwes.+
+\m jurub' j- b'aq' -wich x- a- tzak pwes
+\g cuanto E3S pepita ojo COM E2S cocer pues
+\c ADV PERS S S TAM PERS VT ADV
+\l ¿Cuantos granos cocistes pues?
+\p ADV E3S#PERS S S COM#TAM E2S#PERS VT ADV
+
+\ref trtex054Usp04 195
+\t In job' jb'aq'wich.+
+\m iin job' j- b'aq' -wich
+\g yo cinco E3S pepita ojo
+\c PRON NUM PERS S S
+\l Yo cinco granos.
+\p PRON NUM E3S#PERS S S
+
+\ref trtex054Usp04 196
+\t I noo xijsaj chawe ke xaq juun qe,+
+\m i noo x- ij -sáj ch- aw- e ke xaq jun qe
+\g CONJ no COM decir PAS INC E2S SREL que PART uno PART
+\c CONJ ADV TAM VT SUF TAM PERS SREL ADV PART NUM PART
+\l Y no te dijeron que solo uno.
+\p CONJ#CONJ ADV COM#TAM VT PAS#SUF INC#TAM E2S#PERS SREL#SREL ADV PART#PART NUM PART#PART
+
+\ref trtex054Usp04 197
+\t xaq juun qe tatzek.+
+\m xaq jun qe ta- tzek
+\g PART uno PART INC cocer
+\c PART NUM PART TAM VT
+\l solamente uno tienes que cocer.
+\p PART#PART NUM PART#PART INC#TAM VT
+
+\ref trtex054Usp04 198
+\t Per eske iin nab'ena,+
+\m per eske iin nab'e -na
+\g pero es@que yo primero PART
+\c ADV ADV PRON NUM PART
+\l Pero es que yo primero.
+\p ADV ADV PRON NUM PART#PART
+
+\ref trtex054Usp04 199
+\t xinb'ane' witiin,+
+\m x- in- b'an -e' w- itiin
+\g COM A1S hacer ENF E1S baño
+\c TAM PERS VT PART PERS S
+\l Hice mi baño.
+\p COM#TAM A1S#PERS VT ENF#PART E1S#PERS S
+
+\ref trtex054Usp04 200
+\t tcha' re jqaaj.+
+\m t- cha' re j- qaaj
+\g INC decir él/ella E3S papá
+\c TAM VI PRON PERS S
+\l Le dejo ella a su papá.
+\p INC#TAM VI PRON E3S#PERS S
+
+\ref trtex054Usp04 201
+\t Xok chij yolik re jqaaj,+
+\m x- ok chi -j yol -ik re j- qaaj
+\g COM entrar PREP E3 contar SC SREL E3S papá
+\c TAM VI PREP PERS VT SUF SREL PERS S
+\l Empezó a contarle a su papá.
+\p COM#TAM VI PREP#PREP E3#PERS VT SC#SUF SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 202
+\t xok chij yolik re chuuch.+
+\m x- ok chi -j yol -ik re chuuch
+\g COM entrar PREP E3S platicar SC él/ella mamá
+\c TAM VI PREP PERS VT SUF PRON S
+\l Empezó a contarle a su mamá.
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF PRON S
+
+\ref trtex054Usp04 203
+\t I... neen k'u moo xab'aan+
+\m i neen k'u moo x- a- b'an
+\g CONJ INT PART modo COM E2S hacer
+\c CONJ ADV PART ADV TAM PERS VT
+\l Y que modo hicistes.
+\p CONJ#CONJ INT#ADV PART#PART ADV COM#TAM E2S#PERS VT
+
+\ref trtex054Usp04 204
+\t i neen k'u moo xab'an.+
+\m i neen k'u moo x- a- b'an
+\g CONJ INT PART modo COM E2S hacer
+\c CONJ ADV PART ADV TAM PERS VT
+\l Y que modo hicistes.
+\p CONJ#CONJ INT#ADV PART#PART ADV COM#TAM E2S#PERS VT
+
+\ref trtex054Usp04 205
+\t I baa jtayik re.+
+\m i baa j- ta- yik re
+\g CONJ va E3S INC SC él/ella
+\c CONJ VOC PERS TAM SUF PRON
+\l Y va de preguntarle a ella.
+\p CONJ#CONJ VOC E3S#PERS INC#TAM SC#SUF PRON
+
+\ref trtex054Usp04 206
+\t I neen k'u moo xab'aan.+
+\m i neen k'u moo x- a- b'an
+\g CONJ INT PART modo COM E2S hacer
+\c CONJ ADV PART ADV TAM PERS VT
+\l Y que modo lo hicistes.
+\p CONJ#CONJ INT#ADV PART#PART ADV COM#TAM E2S#PERS VT
+
+\ref trtex054Usp04 207
+\t Xaq derepente+
+\m xaq derepente
+\g PART de@repente
+\c PART ADV
+\l Solo derepente.
+\p PART#PART ADV
+
+\ref trtex054Usp04 208
+\t in xinok chij b'anik witin+
+\m iin x- in- ok chi- ij b'an -ik w- itín
+\g yo COM A1S entrar PREP decir hacer SC E1S bañar
+\c PRON TAM PERS VI PREP VT VT SUF PERS VI
+\l Yo empecé a bañarme.
+\p PRON COM#TAM A1S#PERS VI PREP#PREP VT VT SC#SUF E1S#PERS VI
+
+\ref trtex054Usp04 209
+\t li jun ja'.+
+\m li jun ja'
+\g PREP uno río
+\c PREP NUM S
+\l En un rio.
+\p PREP#PREP NUM S
+
+\ref trtex054Usp04 210
+\t Depas ke ra b'inb'el ja',+
+\m depas ke ra (b'inb'el) ja'
+\g depaso que DIM ??? río
+\c ADV ADV PART ??? S
+\l Depaso que su caminito del rio.
+\p ADV ADV DIM#PART ??? S
+
+\ref trtex054Usp04 211
+\t wi' raj choq'w.+
+\m wi' ra choq'w
+\g EXS DIM fuerza
+\c EXS PART S
+\l Tiene su fuerza.
+\p EXS#EXS DIM#PART S
+
+\ref trtex054Usp04 212
+\t Antonses lajori loke neen tab'an chik.+
+\m antonses lajori loke neen t- a- b'an chik
+\g entonces ahora loque INT INC E2S hacer PART
+\c ADV ADV ADV ADV TAM PERS VT PART
+\l Entonces ahora lo que tienes que hacer pues.
+\p ADV ADV ADV INT#ADV INC#TAM E2S#PERS VT PART#PART
+
+\ref trtex054Usp04 213
+\t Tonses xkan xutsaj laj, laj, laj...+
+\m tonses x- kan xut -sáj la -j la -j la -j
+\g entonces COM quedar despreciar PAS PREP E3S PREP E3S PREP E3S
+\c ADV TAM VI VT SUF PREP PERS PREP PERS PREP PERS
+\l Entonces la dejarón despreciada en en en en.
+\p ADV COM#TAM VI VT PAS#SUF PREP#PREP E3S#PERS PREP#PREP E3S#PERS PREP#PREP E3S#PERS
+
+\ref trtex054Usp04 214
+\t k'ixijsaj re.+
+\m k'i- x- ij -sáj re
+\g mucho COM decir PAS él/ella
+\c ADV TAM VT SUF PRON
+\l Mucho le dijerón a ella.
+\p ADV COM#TAM VT PAS#SUF PRON
+
+\ref trtex054Usp04 215
+\t At atqaxut,+
+\m at at- qa- xut
+\g A2S A2S E1P despreciar
+\c PERS PERS PERS VT
+\l A vos tebamos a despreciar.
+\p A2S#PERS A2S#PERS E1P#PERS VT
+
+\ref trtex054Usp04 216
+\t at ati'lw neen taye'chqe punrat.+
+\m at at- i'l -w neen ta- ye' -ch -qe p- un -rato
+\g A2S A2S ver PART INT INC dar PREP SREL PREP uno rato
+\c PERS PERS VT PART ADV TAM VT PREP SREL PREP NUM ADV
+\l Allí vos miras que nos vas a dar mas tarde.
+\p A2S#PERS A2S#PERS VT PART#PART INT#ADV INC#TAM VT PREP#PREP SREL#SREL PREP#PREP NUM ADV
+
+\ref trtex054Usp04 217
+\t Neen, neen qa neen ka' rikiil qaw taye'w xu'tzaj.+
+\m neen neen qa neen ka' r- ikiil q- aw ta- ye' -w x- u'tza -j
+\g INT INT E1P INT PART E3S comida E1P tortil INC dar PART COM decir SC
+\c ADV ADV PERS ADV PART PERS S PERS S TAM VT PART TAM VT SUF
+\l Que que que nos vas a dar de comida le dijerón.
+\p INT#ADV INT#ADV E1P#PERS INT#ADV PART#PART E3S#PERS S E1P#PERS S INC#TAM VT PART#PART COM#TAM VT SC#SUF
+
+\ref trtex054Usp04 218
+\t I xaq derefent xok chij tokik tra...,+
+\m i xaq derefent x- ok chi -j tok -ik tra
+\g CONJ PART derrepente COM entrar PREP E3S buscar SC DIM
+\c CONJ PART ADV TAM VI PREP PERS VT SUF PART
+\l Y derrepente empezó a buscar.
+\p CONJ#CONJ PART#PART ADV COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF DIM#PART
+
+\ref trtex054Usp04 219
+\t wi' tra jut li ja'.+
+\m wi' tra jut li ja'
+\g EXS DIM jutes PREP río
+\c EXS PART S PREP S
+\l hay jutes en el rio.
+\p EXS#EXS DIM#PART S PREP#PREP S
+
+\ref trtex054Usp04 220
+\t Despwes tra juut+
+\m despwes tra juut
+\g después DIM jutes
+\c ADV PART S
+\l Después los jutes.
+\p ADV DIM#PART S
+
+\ref trtex054Usp04 221
+\t i xok chij molik.+
+\m i x- ok chi -j mol -ik
+\g CONJ COM entrar PREP E3S juntar SC
+\c CONJ TAM VI PREP PERS VT SUF
+\l Y empeso a juntar.
+\p CONJ#CONJ COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF
+
+\ref trtex054Usp04 222
+\t I baa jmolik tren.+
+\m i baa j- mol -ik t- r- en
+\g CONJ va E3S juntar SC INC E3 hacer
+\c CONJ VOC PERS VT SUF TAM PERS VT
+\l Y va de juntar estaba.
+\p CONJ#CONJ VOC E3S#PERS VT SC#SUF INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 223
+\t Xaq derefente xta' juun, jun ra mutzaj re.+
+\m xaq derefente x- ta' jun jun ra mutz -aj re
+\g PART derrepente COM encontrar uno uno DIM puño SC él/ella
+\c PART ADV TAM VT NUM NUM PART MED SUF PRON
+\l Solo derrepente encontro un su monton de.
+\p PART#PART ADV COM#TAM VT NUM NUM DIM#PART MED SC#SUF PRON
+
+\ref trtex054Usp04 224
+\t Baa xokchik+
+\m baa x- ok -chik
+\g va COM entrar PART
+\c VOC TAM VI PART
+\l Va empezó otra vez.
+\p VOC COM#TAM VI PART#PART
+
+\ref trtex054Usp04 225
+\t chij tokik ri', ri' chki' jtokiik lamaas trenw,+
+\m chi -j tok -ik ri' ri' chk -i' j- tok -iik lamaas t- r- en -w
+\g PREP E3S buscar SC DEM DEM PART ENF E3S buscar SC donde INC E3 hacer PART
+\c PREP PERS VT SUF DEM DEM PART PART PERS VT SUF ADV TAM PERS VT PART
+\l A buscar en en donde hace.
+\p PREP#PREP E3S#PERS VT SC#SUF DEM#DEM DEM#DEM PART#PART ENF#PART E3S#PERS VT SC#SUF ADV INC#TAM E3#PERS VT PART#PART
+
+\ref trtex054Usp04 226
+\t lamaas tijtzekw.+
+\m lamaas ti- j- tzek -w
+\g donde INC E3S cocer PART
+\c ADV TAM PERS VT PART
+\l En donde cocerlo.
+\p ADV INC#TAM E3S#PERS VT PART#PART
+
+\ref trtex054Usp04 227
+\t Lamaas nech ja' laal.+
+\m lamaas nee -ch ja' laal
+\g donde INT PART agua duda
+\c ADV ADV PART S PART
+\l Donde que agua le hechare.
+\p ADV INT#ADV PART#PART S PART
+
+\ref trtex054Usp04 228
+\t Xaq derepente xkwin,+
+\m xaq derepente x- kwin
+\g PART de@repente COM poder
+\c PART ADV TAM VI
+\l Solo derepente pudo.
+\p PART#PART ADV COM#TAM VI
+
+\ref trtex054Usp04 229
+\t xmejor xpe juj chomb'al laj b'a.+
+\m x- mejor x- pe ju -j chomb'al la -j b'a
+\g COM mejor COM venir uno E3S pensamiento PREP E3S cabeza
+\c TAM ADV TAM VI NUM PERS S PREP PERS S
+\l Mejor vino un su pensamiento en su cabeza.
+\p COM#TAM ADV COM#TAM VI NUM E3S#PERS S PREP#PREP E3S#PERS S
+
+\ref trtex054Usp04 230
+\t Xijmole' tra, tra, tra, tra riij chee'.+
+\m x- i- j- mol -e' tra tra tra tra r- iij chee'
+\g COM DIR E3S juntar ENF DIM DIM DIM DIM E3S cáscara palo
+\c TAM DIR PERS VT PART PART PART PART PART PERS S S
+\l Se fue a juntó su su su su cáscara de palo.
+\p COM#TAM DIR#DIR E3S#PERS VT ENF#PART DIM#PART DIM#PART DIM#PART DIM#PART E3S#PERS S S
+
+\ref trtex054Usp04 231
+\t Tra riij juntir,+
+\m tra r- iij juntiir
+\g DIM E3S cáscara todo
+\c PART PERS S ADV
+\l Su cáscara todos.
+\p DIM#PART E3S#PERS S ADV
+
+\ref trtex054Usp04 232
+\t baay xok chij tz'aqik jun raj b'o'j re.+
+\m baay x- ok chi -j tz'aq -ik jun ra b'o'j r- e
+\g baya COM entrar PREP E3S construir SC uno DIM olla E3 SREL
+\c VOC TAM VI PREP PERS VT SUF NUM PART S PERS SREL
+\l Baya empezó a hacer una su ollita de ella.
+\p VOC COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF NUM DIM#PART S E3#PERS SREL#SREL
+
+\ref trtex054Usp04 233
+\t Xtz'aqmaj xtz'aqmaj.+
+\m x- tz'aq -maj x- tz'aq -maj
+\g COM construir ??? COM construir ???
+\c TAM VT ??? TAM VT ???
+\l Termino de hacer.
+\p COM#TAM VT ??? COM#TAM VT ???
+
+\ref trtex054Usp04 234
+\t I despwes neen la' xnek'b'ej.+
+\m i despwes neen la' x- nek' -b'e -j
+\g CONJ después INT PREP COM pegar INS SC
+\c CONJ ADV ADV PREP TAM VT SUF SUF
+\l Y despues que uso para pegarlo.
+\p CONJ#CONJ ADV INT#ADV PREP#PREP COM#TAM VT INS#SUF SC#SUF
+
+\ref trtex054Usp04 235
+\t La' tra saneb' re, ra ja' xnek'b'ej rib'.+
+\m la' tra saneb' r- e ra ja' x- nek' -b'e -j r- ib'
+\g PREP DIM arena@de@rio E3 SREL DIM río COM pegar INS SC E3S SREL
+\c PREP PART S PERS SREL PART S TAM VT SUF SUF PERS SREL
+\l Con las harenas del rio se pego.
+\p PREP#PREP DIM#PART S E3#PERS SREL#SREL DIM#PART S COM#TAM VT INS#SUF SC#SUF E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 236
+\t Baay xnek'b'ej rib'.+
+\m baa x- nek' -b'ej r- ib'
+\g va COM pegar INS E3 RFX
+\c VOC TAM VT PART PERS RFX
+\l Baya termino de pegarlo.
+\p VOC COM#TAM VT INS#PART E3#PERS RFX#RFX
+
+\ref trtex054Usp04 237
+\t I kabal xkwini' chij tz'aqik.+
+\m i kabal x- kwin -i' chi -j tz'aq -ik
+\g CONJ cabal COM poder ENF PREP E3S construir SC
+\c CONJ ADV TAM VI PART PREP PERS VT SUF
+\l Y cabal pudo hacerlo.
+\p CONJ#CONJ ADV COM#TAM VI ENF#PART PREP#PREP E3S#PERS VT SC#SUF
+
+\ref trtex054Usp04 238
+\t Baay xaq derepent xentaj li jwi'l.+
+\m baay xaq derepent x- en -taj li j- wi'l
+\g baya PART de@repente COM hacer ??? DEM E3S SREL
+\c VOC PART ADV TAM VT ??? DEM PERS SREL
+\l Baya solo derepente termino de hacerlo.
+\p VOC PART#PART ADV COM#TAM VT ??? DEM#DEM E3S#PERS SREL#SREL
+
+\ref trtex054Usp04 239
+\t Baay ta' chki' tkojon chuch jqaaj,+
+\m baay ta' chk -i' t- koj -on ch- uch j- qaaj
+\g baya NEG PART ENF INC meter AP PREP SREL E3S papá
+\c VOC PART PART PART TAM VT SUF PREP SREL PERS S
+\l Baya no obedece a su papá.
+\p VOC NEG#PART PART#PART ENF#PART INC#TAM VT AP#SUF PREP#PREP SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 240
+\t ta' chki' tkojon chuch jtiit'...,+
+\m ta' chk -i' t- koj -on ch- uch j- chit'
+\g NEG PART ENF INC meter AP PREP SREL E3S abuela
+\c PART PART PART TAM VT SUF PREP SREL PERS S
+\l No obedece a su abuela.
+\p NEG#PART PART#PART ENF#PART INC#TAM VT AP#SUF PREP#PREP SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 241
+\t chuch jtiit'.+
+\m ch- uch j- tiit'
+\g PREP SREL E3S abuela
+\c PREP SREL PERS S
+\l Frente de su abuelita.
+\p PREP#PREP SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 242
+\t Chuch jtiit',+
+\m ch- uch j- tiit'
+\g PREP SREL E3S abuela
+\c PREP SREL PERS S
+\l Frente de su abuelita.
+\p PREP#PREP SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 243
+\t chuch jmaam,+
+\m ch- uch j- maam
+\g PREP SREL E3S abuelo
+\c PREP SREL PERS S
+\l Frente de su abuelito.
+\p PREP#PREP SREL#SREL E3S#PERS S
+
+\ref trtex054Usp04 244
+\t juntir.+
+\m juntir
+\g todo
+\c ADV
+\l Todos.
+\p ADV
+
+\ref trtex054Usp04 245
+\t Xaq derepente mejor loke xen,+
+\m xaq derepente mejor loke x- en
+\g PART de@repente mejor loque COM hacer
+\c PART ADV ADV ADV TAM VT
+\l Solo derepente lo que hizo.
+\p PART#PART ADV ADV ADV COM#TAM VT
+
+\ref trtex054Usp04 246
+\t xe', xe' laq tza'l.+
+\m xe' xe' laq tza'l
+\g ir ir PREP matorrales
+\c VI VI PREP S
+\l Se fue se fue en los matorrales.
+\p VI VI PREP#PREP S
+
+\ref trtex054Usp04 247
+\t Xe' laq woron+
+\m xe' laq woron
+\g ir PREP monte
+\c VI PREP S
+\l Se fue entre el monte.
+\p VI PREP#PREP S
+
+\ref trtex054Usp04 248
+\t i xe' laq tza'l,+
+\m i xe' laq tza'l
+\g CONJ ir PREP matorrales
+\c CONJ VI PREP S
+\l Y se fue entre los matorrales.
+\p CONJ#CONJ VI PREP#PREP S
+
+\ref trtex054Usp04 249
+\t laq woron.+
+\m laq woron
+\g PREP monte
+\c PREP S
+\l Entre el monte.
+\p PREP#PREP S
+
+\ref trtex054Usp04 250
+\t I xaq derepente xijsaj re.+
+\m i xaq derepente x- ij -sáj re
+\g CONJ PART de@repente COM decir PAS él/ella
+\c CONJ PART ADV TAM VT SUF PRON
+\l Y solo derepente le dijeron a ella.
+\p CONJ#CONJ PART#PART ADV COM#TAM VT PAS#SUF PRON
+
+\ref trtex054Usp04 251
+\t Bwen lajori ta' xatkojon chuch anaan.+
+\m bwen lajori ta' x- at- koj -on ch- uch a- naan
+\g bueno ahora NEG COM A2S meter AP PREP SREL E2S mamá
+\c ADV ADV PART TAM PERS VT SUF PREP SREL PERS S
+\l Bueno ahora no obedecistes frente de tu mamá.
+\p ADV ADV NEG#PART COM#TAM A2S#PERS VT AP#SUF PREP#PREP SREL#SREL E2S#PERS S
+
+\ref trtex054Usp04 252
+\t Ta' xatkojon chuch at taat.+
+\m ta' x- at- koj -on ch- uch at taat
+\g NEG COM A2S meter AP PREP SREL A2S papá
+\c PART TAM PERS VT SUF PREP SREL PERS S
+\l No obedecistes frente de tú papá. (obedecer)
+\p NEG#PART COM#TAM A2S#PERS VT AP#SUF PREP#PREP SREL#SREL A2S#PERS S
+
+\ref trtex054Usp04 253
+\t Ta' xatkojon chuch amaam,+
+\m ta' x- at- koj -on ch- uch a- maam
+\g NEG COM A2S meter AP PREP SREL E2S abuelo
+\c PART TAM PERS S SUF PREP SREL PERS S
+\l No obedecistes a tú abuelo.
+\p NEG#PART COM#TAM A2S#PERS S AP#SUF PREP#PREP SREL#SREL E2S#PERS S
+
+\ref trtex054Usp04 254
+\t atiit'.+
+\m a- tiit'
+\g E3S abuela
+\c PERS S
+\l A tu buela.
+\p E3S#PERS S
+
+\ref trtex054Usp04 255
+\t Juntir loke xijsaj chawe,+
+\m juntir loke x- ij -sáj ch- aw- e
+\g todo loque COM decir PAS PREP E2S SREL
+\c ADV ADV TAM VT SUF PREP PERS SREL
+\l Todo lo que le dijeron.
+\p ADV ADV COM#TAM VT PAS#SUF PREP#PREP E2S#PERS SREL#SREL
+
+\ref trtex054Usp04 256
+\t baay lajori si at'elich'.+
+\m baay lajori si at'- el -ich'
+\g baya ahora si tú/usted salir DIR
+\c VOC ADV ADV PRON VI DIR
+\l Baya ahora si vas a salir.
+\p VOC ADV ADV PRON VI DIR#DIR
+
+\ref trtex054Usp04 257
+\t I derepent aatb'i' li, lii.+
+\m i derepent aat- b'i' li lii
+\g CONJ de@repente E2S DIR PREP PREP
+\c CONJ ADV PERS DIR PREP PREP
+\l Y derrepente te bas en en.
+\p CONJ#CONJ ADV E2S#PERS DIR#DIR PREP#PREP PREP#PREP
+
+\ref trtex054Usp04 258
+\t I lajori aat atb'ek ya ri' chaq rik'aj ra, ra anm jb'ij Lupita.+
+\m i lajori aat at- b'e -ik ya ri' chaq r- ik'a -j ra ra anim j- b'ij Lupita
+\g CONJ ahora tú/usted A2S ir SC ya DEM PART E3 sentir SC DIM DIM mujer E3S nombre guadalupe
+\c CONJ ADV PRON PERS VI SUF VOC DEM PART PERS VT SUF DIM DIM S PERS S NOM
+\l Y ahora tú te vas ya cuando sintio la mujer la mujercita llamada Lupita.
+\p CONJ#CONJ ADV PRON A2S#PERS VI SC#SUF VOC DEM#DEM PART#PART E3#PERS VT SC#SUF DIM#DIM DIM#DIM S E3S#PERS S NOM
+
+\ref trtex054Usp04 259
+\t Kabaal xelch tra rsmaal,+
+\m kabal x- el -ch tra r- ismaal
+\g cabal COM salir DIR DIM E3 pelo
+\c ADV TAM VI DIR PART PERS S
+\l Cabal le salieron sus pelos.
+\p ADV COM#TAM VI DIR#DIR DIM#PART E3#PERS S
+
+\ref trtex054Usp04 260
+\t xelch jee',+
+\m x- el -ch j- ee'
+\g COM salir DIR E3S cola
+\c TAM VI DIR PERS S
+\l Le salio cola.
+\p COM#TAM VI DIR#DIR E3S#PERS S
+
+\ref trtex054Usp04 261
+\t xelch li.+
+\m x- el -ch li
+\g COM salir DIR DEM
+\c TAM VI DIR PART
+\l Salio entonces.
+\p COM#TAM VI DIR#DIR DEM#PART
+
+\ref trtex054Usp04 262
+\t Xelch rsmaal ra anm li.+
+\m x- el -ch r- smaal ra anim li
+\g COM salir DIR E3 pelos DIM mujer DEM
+\c TAM VI DIR PERS S PART S DEM
+\l Le salierón pelos a la mujer pues.
+\p COM#TAM VI DIR#DIR E3#PERS S DIM#PART S DEM#DEM
+
+\ref trtex054Usp04 263
+\t Ri' chaq trik'aj re,+
+\m ri' chaq t- r- ik'aa -j re
+\g DEM PART INC E3 sentir SC él/ella
+\c DEM PART TAM PERS VT SUF PRON
+\l Derepente sintio ella.
+\p DEM#DEM PART#PART INC#TAM E3#PERS VT SC#SUF PRON
+
+\ref trtex054Usp04 264
+\t xelch rsmaal,+
+\m x- el -ch r- smaal
+\g COM salir DIR E3 pelos
+\c TAM VI DIR PERS S
+\l Le salio pelos.
+\p COM#TAM VI DIR#DIR E3#PERS S
+
+\ref trtex054Usp04 265
+\t xelch rsmaal.+
+\m x- el -ch r- smaal
+\g COM salir DIR E3 pelos
+\c TAM VI DIR PERS S
+\l Le salio pelos.
+\p COM#TAM VI DIR#DIR E3#PERS S
+
+\ref trtex054Usp04 266
+\t Aruk' ree' xen bolber+
+\m aruk' ree' x- en bolber
+\g PART ENF COM hacer volver
+\c PART PART TAM VT VI
+\l Entonces se volvió.
+\p PART#PART ENF#PART COM#TAM VT VI
+
+\ref trtex054Usp04 267
+\t ya, ya mi, mi, mi Lupaa ta' chki' jb'iij.+
+\m ya ya mi mi mi Lupaa ta' chk -i' j- b'iij
+\g ya ya no no no guadalupe NEG PART ENF E3S nombre
+\c VOC VOC ADV ADV ADV NOM PART PART PART PERS S
+\l Ya ya no no no es Lupa su nombre.
+\p VOC VOC ADV ADV ADV NOM NEG#PART PART#PART ENF#PART E3S#PERS S
+
+\ref trtex054Usp04 268
+\t Si noke ra b'uuq chaq jb'iij,+
+\m si no@ke ra b'uuq chaq j- b'iij
+\g si no@que DIM siguamonta PART E3S nombre
+\c ADV ADV PART S PART PERS S
+\l Si no que ya siguamonta se llama.
+\p ADV ADV DIM#PART S PART#PART E3S#PERS S
+
+\ref trtex054Usp04 269
+\t b'uuq chaq loke tqab'ij ooj re, ra siguamonta.+
+\m b'uuq chaq loke t- qa- b'ij ooj r- e ra siguamonta
+\g siguamonta PART lo@que INC E1P decir nosotros E3 SREL DIM siguamonta
+\c S PART ADV TAM PERS VT PRON PERS SREL PART S
+\l Siguamonta lo que le desimos nosotros del siguamonte.
+\p S PART#PART ADV INC#TAM E1P#PERS VT PRON E3#PERS SREL#SREL DIM#PART S
+
+\ref trtex054Usp04 270
+\t Lajori toos ri' li tb'en,+
+\m lajori toos ri' li t- b'en
+\g ahora entonces DEM DEM INC caminar
+\c ADV ADV DEM DEM TAM VI
+\l Ahora entonces ese es quien camina.
+\p ADV ADV DEM#DEM DEM#DEM INC#TAM VI
+
+\ref trtex054Usp04 271
+\t tiwa'kot,+
+\m ti- wa'kot
+\g INC pasea
+\c TAM VI
+\l Es la que pasea.
+\p INC#TAM VI
+
+\ref trtex054Usp04 272
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex054Usp04 273
+\t I baa xojooj chaq tren,+
+\m i baa xojooj chaq t- r- en
+\g CONJ va vaile PART INC E3 hacer
+\c CONJ VOC S PART TAM PERS VT
+\l Y va de vailar estaba haciendo. (y bailando se esta dice)
+\p CONJ#CONJ VOC S PART#PART INC#TAM E3#PERS VT
+
+\ref trtex054Usp04 274
+\t ta' chki' tijta' lamaas tib'e'w.+
+\m ta' chk -i' ti- j- ta' lamaas ti- b'ee -w
+\g NEG PART ENF INC E3S encontrar donde INC ir PART
+\c PART PART PART TAM PERS VT ADV TAM VI PART
+\l Ya no encuentra donde irse.
+\p NEG#PART PART#PART ENF#PART INC#TAM E3S#PERS VT ADV INC#TAM VI PART#PART
+
+\ref trtex054Usp04 275
+\t Ta' chki' tijta' lamaas tib'e'w.+
+\m ta' chk -i' ti- j -ta' lamaas ti- b'ee -w
+\g NEG PART ENF INC E3S encontrar donde INC ir PART
+\c PART PART PART TAM PERS VT ADV TAM VI PART
+\l Ya no encuentra a donde irse.
+\p NEG#PART PART#PART ENF#PART INC#TAM E3S#PERS VT ADV INC#TAM VI PART#PART
+
+\ref trtex054Usp04 276
+\t I xaq derepente,+
+\m i xaq derepente
+\g CONJ PART de@repente
+\c CONJ PART ADV
+\l Y solo derepente.
+\p CONJ#CONJ PART#PART ADV
+
+\ref trtex054Usp04 277
+\t baay derepente xijsaj re.+
+\m baay derepente x- ij -sáj re
+\g baya de@repente COM decir PAS él/ella
+\c VOC ADV TAM VT SUF PRON
+\l Baya derrepente le dijeron a ella.
+\p VOC ADV COM#TAM VT PAS#SUF PRON
+
+\ref trtex054Usp04 278
+\t Saber neen xinre,+
+\m saber neen x- in- re
+\g saber INT COM A1S él/ella
+\c ADV ADV TAM PERS PRON
+\l Saber quien le dijo a ella.
+\p ADV INT#ADV COM#TAM A1S#PERS PRON
+
+\ref trtex054Usp04 279
+\t xaq derepente xijsaj re.+
+\m xaq derepente x- ij -sáj re
+\g PART de@repente COM decir PAS él/ella
+\c PART ADV TAM VT SUF PRON
+\l Solo derrepente le dijeron a ella.
+\p PART#PART ADV COM#TAM VT PAS#SUF PRON
+
+\ref trtex054Usp04 280
+\t B'en lajori medya bes aat xat...,+
+\m b'en lajori media bes aat x- at
+\g hacer ahora media vez tú/usted COM tú/usted
+\c VT ADV ADV ADV PRON TAM PRON
+\l Bien ahora media ves tú.
+\p VT ADV ADV ADV PRON COM#TAM PRON
+
+\ref trtex054Usp04 281
+\t xatwa'x qik'il.+
+\m x- at- wa'x q- ik'il
+\g COM A2S estar E1P SREL
+\c TAM PERS VI PERS SREL
+\l Estubistes con nosotros.
+\p COM#TAM A2S#PERS VI E1P#PERS SREL#SREL
+
+\ref trtex054Usp04 282
+\t Pwes ya lajori aat chaq,+
+\m pwes ya lajori aat chaq
+\g pues ya ahora tú/usted PART
+\c ADV VOC ADV PRON PART
+\l Pues ya ahora tú ya eres.
+\p ADV VOC ADV PRON PART#PART
+
+\ref trtex054Usp04 283
+\t aat chaq ra aat chaq ra b'uuq.+
+\m aat chaq ra aat chaq ra b'uuq
+\g tú/usted PART DIM tú/usted PART DIM siguamonta
+\c PRON PART PART PRON PART PART S
+\l Tú ya sos tú ya sos una siguamonta.
+\p PRON PART#PART DIM#PART PRON PART#PART DIM#PART S
+
+\ref trtex054Usp04 284
+\t Muu Lup ta' chki' ab'ij,+
+\m muu Lup ta' chk -i' a- b'ij
+\g NEG guadalupe NEG PART ENF E2S nombre
+\c PART NOM PART PART PART PERS S
+\l Ya no es guadalupe tu nombre.
+\p NEG#PART NOM NEG#PART PART#PART ENF#PART E2S#PERS S
+
+\ref trtex054Usp04 285
+\t si noke ra b'uuq chaq ab'ij.+
+\m si no@ke ra b'uuq chaq a- b'ij
+\g si no@que DIM siguamonta PART E2S nombre
+\c ADV ADV PART S PART PERS S
+\l Si no que ya siguamonta te llamas.
+\p ADV ADV DIM#PART S PART#PART E2S#PERS S
+
+\ref trtex054Usp04 286
+\t Tons lajori atb'en+
+\m tons lajori at- b'en
+\g entonces ahora A2S caminar
+\c ADV ADV PERS VI
+\l Entonces ahora caminas.
+\p ADV ADV A2S#PERS VI
+
+\ref trtex054Usp04 287
+\t i atwa'kot.+
+\m i at- wa'kot
+\g CONJ A2S pasear
+\c CONJ PERS VI
+\l Y tienes que pesear.
+\p CONJ#CONJ A2S#PERS VI
+
+\ref trtex054Usp04 288
+\t Baa ntons lajori+
+\m baa ntons lajori
+\g baya entonces ahora
+\c VOC ADV ADV
+\l baya entonces ahora.
+\p VOC ADV ADV
+
+\ref trtex054Usp04 289
+\t i atb'en,+
+\m i at- b'en
+\g CONJ A2S caminar
+\c CONJ PERS VI
+\l Y caminas.
+\p CONJ#CONJ A2S#PERS VI
+
+\ref trtex054Usp04 290
+\t atwa'kot chij xo'l tilmit,+
+\m at- wakot chi -j xo'l tinmit
+\g A2S pasear PREP E3S SREL pueblo
+\c PERS VI PREP PERS SREL S
+\l Paseas en medio del pueblo.
+\p A2S#PERS VI PREP#PREP E3S#PERS SREL#SREL S
+
+\ref trtex054Usp04 291
+\t laq tza'l,+
+\m laq tza'l
+\g PREP matorrales
+\c PREP S
+\l Entre los matorrales.
+\p PREP#PREP S
+
+\ref trtex054Usp04 292
+\t atb'en,+
+\m at- b'en
+\g A2S caminar
+\c PERS VI
+\l Caminas.
+\p A2S#PERS VI
+
+\ref trtex054Usp04 293
+\t atb'e laq b'ee.+
+\m at- b'e laq b'ee
+\g A2S ir PREP camino
+\c PERS VI PREP S
+\l Tevas en los caminos.
+\p A2S#PERS VI PREP#PREP S
+
+\ref trtex054Usp04 294
+\t Atb'e li lii i kada wunaq ke taq'atij jb'ee.+
+\m at- b'e li lii i kada wunaq ke t- a- q'ati -j j- b'ee
+\g A2S ir PREP PREP CONJ cada hombre que INC E2S cortar E3S E3S camino
+\c PERS VI PREP PREP CONJ ADV S ADV TAM PERS VT PERS PERS S
+\l Tevas en en y cada hombre que le cortes el camino.
+\p A2S#PERS VI PREP#PREP PREP#PREP CONJ#CONJ ADV S ADV INC#TAM E2S#PERS VT E3S#PERS E3S#PERS S
+
+\ref trtex054Usp04 295
+\t U kada anm ke taq'atij jb'ee.+
+\m u kada anim ke t- a- q'ati -j j- b'ee
+\g CONJ cada mujer que INC E2S cortar E3S E3S camino
+\c CONJ ADV S ADV TAM PERS VT PERS PERS S
+\l U cada mujer que le cortes el camino.
+\p CONJ#CONJ ADV S ADV INC#TAM E2S#PERS VT E3S#PERS E3S#PERS S
+
+\ref trtex054Usp04 296
+\t At kom ati' anm.+
+\m at kom at- i' anim
+\g tú/usted como A2S ENF mujer
+\c PRON PART PERS PART S
+\l Tú como sos mujer.
+\p PRON PART A2S#PERS ENF#PART S
+
+\ref trtex054Usp04 297
+\t Toos ati' ri atyaw swerte,+
+\m toos at- i' ri at- ya' -w swerte
+\g entonces A2S ENF DEM A2S dar PART suerte
+\c ADV PERS PART DEM PERS VT PART S
+\l Entonces sos vos quien dara la suerte.
+\p ADV A2S#PERS ENF#PART DEM#DEM A2S#PERS VT PART#PART S
+
+\ref trtex054Usp04 298
+\t ati' ri atya'w partun re, re k'ojol taq wunaq.+
+\m at- i' ri at- ya' -w partun r- e r- e k'ojol taq wunaq
+\g A2S ENF DEM A2S dar PART fortuna E3 SREL E3 SREL joven PL hombre
+\c PERS PART DEM PERS VT PART S PERS SREL PERS SREL S PART S
+\l Sos la que les das la suerte y fortuna a los jóvenes.
+\p A2S#PERS ENF#PART DEM#DEM A2S#PERS VT PART#PART S E3#PERS SREL#SREL E3#PERS SREL#SREL S PL#PART S
+
+\ref trtex054Usp04 299
+\t Re q'apooj taq anm.+
+\m r- e q'apooj taq anm
+\g E3 SREL señorita PL mujer
+\c PERS SREL S PART S
+\l De las señoritas.
+\p E3#PERS SREL#SREL S PL#PART S
+
+\ref trtex054Usp04 300
+\t Kwand tb'en+
+\m kwand t- b'en
+\g cuando INC caminar
+\c ADV TAM VI
+\l Cuando camina.
+\p ADV INC#TAM VI
+
+\ref trtex054Usp04 301
+\t tb'ochijtaq wi', wi', wi', wi', wi' kwalkyer wunaq.+
+\m t- b'ochi -j -taq wi' wi' wi' wi' wi' kwalkyer wunaq
+\g INC cortejar E3S PL EXS EXS EXS EXS EXS cualquier hombre
+\c TAM VT PERS PART EXS EXS EXS EXS EXS ADV S
+\l Cuando los cortejean hay hay hay hay hay hay cualquier hombre. (por)
+\p INC#TAM VT E3S#PERS PL#PART EXS#EXS EXS#EXS EXS#EXS EXS#EXS EXS#EXS ADV S
+
+\ref trtex054Usp04 302
+\t Toos rechaq,+
+\m toos rechaq
+\g entonces ellos/ellas
+\c ADV PRON
+\l Entonces ellas.
+\p ADV PRON
+
+\ref trtex054Usp04 303
+\t toos aat.+
+\m toos aat
+\g entonces tú/usted
+\c ADV PRON
+\l Entonces tú.
+\p ADV PRON
+
+\ref trtex054Usp04 304
+\t I si wi' jun wunaq aat b'ochin.+
+\m i si wi' jun wunaq aat b'och -in
+\g CONJ si EXS uno hombre tú/usted cantinear AP
+\c CONJ ADV EXS NUM S PRON VT SUF
+\l Y si hay un hombre que tú te cortejea o cantinea.
+\p CONJ#CONJ ADV EXS#EXS NUM S PRON VT AP#SUF
+
+\ref trtex054Usp04 305
+\t Toos aat atb'ochin.+
+\m toos aat at- b'och -in
+\g entonces tú/usted A2S cantinear AP
+\c ADV PRON PERS VT SUF
+\l Entonces tú vas a cantinear.
+\p ADV PRON A2S#PERS VT AP#SUF
+
+\ref trtex054Usp04 306
+\t I aat ch'opiin.+
+\m i aat ch'opi -n
+\g CONJ tú/usted brincar AP
+\c CONJ PRON VI SUF
+\l Y tú brincas.
+\p CONJ#CONJ PRON VI AP#SUF
+
+\ref trtex054Usp04 307
+\t I tch'opiin re,+
+\m i t- ch'opi -in re
+\g CONJ INC brincar AP él/ella
+\c CONJ TAM VI SUF PRON
+\l Y brinca él.
+\p CONJ#CONJ INC#TAM VI AP#SUF PRON
+
+\ref trtex054Usp04 308
+\t tich'opiin man wunaq ke atb'ochin.+
+\m ti- ch'opi -n man wunaq ke at- b'och -in
+\g INC brincar AP ART hombre que A2S cantinear AP
+\c TAM VI SUF ART S ADV PERS VT SUF
+\l Brinca ese hombre que te esta cantineando.
+\p INC#TAM VI AP#SUF ART#ART S ADV A2S#PERS VT AP#SUF
+
+\ref trtex054Usp04 309
+\t I tch'opiin man ra ka'n juntir, juntir.+
+\m i t- ch'opi -n man ra ka'n juntiir juntiir
+\g CONJ INC brincar AP ART DIM animal todo todo
+\c CONJ TAM VI SUF ART PART S ADV ADV
+\l Y brinca ese animalito todo todo.
+\p CONJ#CONJ INC#TAM VI AP#SUF ART#ART DIM#PART S ADV ADV
+
+\ref trtex054Usp04 310
+\t Xaq derepent ra ka'n,+
+\m xaq derepent ra ka'n
+\g PART de@repente DIM animal
+\c PART ADV PART S
+\l Solo derepente ese animalito.
+\p PART#PART ADV DIM#PART S
+
+\ref trtex054Usp04 311
+\t ri titaw pcha' jun ajtzoo'.+
+\m ri ti- taw (pcha') jun ajtzoo'
+\g DEM INC llegar ??? uno chompipe
+\c DEM TAM VT ??? NUM S
+\l Y llega como un chompipe.
+\p DEM#DEM INC#TAM VT ??? NUM S
+
+\ref trtex054Usp04 312
+\t Titaw pcha' jun ajtzoo',+
+\m ti- taw (pcha') jun ajtzoo'
+\g INC llegar ??? uno chompipe
+\c TAM VT ??? NUM S
+\l Llega como un chompipe.
+\p INC#TAM VT ??? NUM S
+
+\ref trtex054Usp04 313
+\t b'an antonses ya si xtaw pcha' jun ajtzoo'.+
+\m b'an antonses ya si x- taw (pcha') jun ajtzoo'
+\g hacer entonces ya si COM llegar ??? uno chompipe
+\c VT ADV VOC ADV TAM VT ??? NUM S
+\l Hacer entonces ya si llego como un chompipe.
+\p VT ADV VOC ADV COM#TAM VT ??? NUM S
+
+\ref trtex054Usp04 314
+\t Baay tich'opiin,+
+\m baay ti- ch'opi -n
+\g baya INC brincar AP
+\c VOC TAM VI SUF
+\l Baya de brincar.
+\p VOC INC#TAM VI AP#SUF
+
+\ref trtex054Usp04 315
+\t tich'opiin ra ka'n.+
+\m ti- ch'opi -n ra ka'n
+\g INC brincar AP DIM animal
+\c TAM VI SUF PART S
+\l Brinca el animalito.
+\p INC#TAM VI AP#SUF DIM#PART S
+
+\ref trtex054Usp04 316
+\t I tich'opiin, tich'opiin man wunaq.+
+\m i ti- ch'opi -n ti- ch'opi -n man wunaq
+\g CONJ INC brincar AP INC brincar AP ART hombre
+\c CONJ TAM VI SUF TAM VI SUF ART S
+\l Y brinca brinca ese hombre.
+\p CONJ#CONJ INC#TAM VI AP#SUF INC#TAM VI AP#SUF ART#ART S
+
+\ref trtex054Usp04 317
+\t Baay ya desipwes tititaw li.+
+\m baay ya desipwees ti- ti- -taw li
+\g baya ya despues INC INC llegar PREP
+\c VOC VOC ADV TAM TAM VI PREP
+\l Baya despues llega en.
+\p VOC VOC ADV INC#TAM INC#TAM VI PREP#PREP
+
+\ref trtex054Usp04 318
+\t Despwes tresajch jun ra,+
+\m despwes t- r- esa -j -ch jun ra
+\g después INC E3 sacar SC DIR uno DIM
+\c ADV TAM PERS VT SUF DIR NUM PART
+\l Despues saca una.
+\p ADV INC#TAM E3#PERS VT SC#SUF DIR#DIR NUM DIM#PART
+
+\ref trtex054Usp04 319
+\t jun ra chibola ra jee'.+
+\m jun ra chibola ra jee'
+\g uno DIM chibolaa DIM cola
+\c NUM PART S PART S
+\l Una su chibola de su cola.
+\p NUM DIM#PART S DIM#PART S
+
+\ref trtex054Usp04 320
+\t Jun ra,+
+\m jun ra
+\g uno DIM
+\c NUM PART
+\l Una su:
+\p NUM DIM#PART
+
+\ref trtex054Usp04 321
+\t jun ra bolita tresajch laj jee'.+
+\m jun ra bolita t- r- esa -j -ch laj jee
+\g uno DIM bolita INC E3 sacar SC DIR PREP cola
+\c NUM PART S TAM PERS VT SUF DIR PREP S
+\l Una bolita saca en su cola.
+\p NUM DIM#PART S INC#TAM E3#PERS VT SC#SUF DIR#DIR PREP#PREP S
+
+\ref trtex054Usp04 322
+\t I tikaj t'oje'.+
+\m i ti- ka -j t'oj -e'
+\g CONJ INC quedar E3S tirar ENF
+\c CONJ TAM VI PERS VT PART
+\l Y deja tirado.
+\p CONJ#CONJ INC#TAM VI E3S#PERS VT ENF#PART
+
+\ref trtex054Usp04 323
+\t I titaw jun li baay.+
+\m i ti- taw jun li baay
+\g CONJ INC llegar uno PREP baya
+\c CONJ TAM VT NUM PREP VOC
+\l Y llega uno entonces vaya.
+\p CONJ#CONJ INC#TAM VT NUM PREP#PREP VOC
+
+\ref trtex054Usp04 324
+\t Tonses kabal titaw+
+\m tonses kabal ti- taw
+\g entonces cabal INC llegar
+\c ADV ADV TAM VI
+\l Entonces cabal llega.
+\p ADV ADV INC#TAM VI
+
+\ref trtex054Usp04 325
+\t i el ke neen xb'itiw b'i ra li.+
+\m i el ke neen x- b'iti -w b'i ra li
+\g CONJ PRON que INT COM levantar PART DIR DIM DEM
+\c CONJ PRON ADV ADV TAM VT PART DIR PART DEM
+\l Y el quien lo levanto ese es.
+\p CONJ#CONJ PRON#PRON ADV INT#ADV COM#TAM VT PART#PART DIR#DIR DIM#PART DEM#DEM
+
+\ref trtex054Usp04 326
+\t Wi' jswerte re anm.+
+\m wi' j- swerte r- e anim
+\g EXS E3S suerte E3 SREL mujer
+\c EXS PERS S PERS SREL S
+\l Tiene suerte de mujeres.
+\p EXS#EXS E3S#PERS S E3#PERS SREL#SREL S
+
+\ref trtex054Usp04 327
+\t Wi' swerte re kwalkyer kosa loke neen tren.+
+\m wi' swerte r- e kwalkyer kosa loke neen t- r- en
+\g EXS suerte E3 SREL cualquier cosa loque INT INC E3S hacer
+\c EXS S PERS SREL ADV S ADV ADV TAM PERS VT
+\l Tiene suerte de cualquir cosa que hace.
+\p EXS#EXS S E3#PERS SREL#SREL ADV S ADV INT#ADV INC#TAM E3S#PERS VT
+
+\ref trtex054Usp04 328
+\t Ri' li,+
+\m ri' li
+\g DEM DEM
+\c DEM DEM
+\l Eso es.
+\p DEM#DEM DEM#DEM
+
+\ref trtex054Usp04 329
+\t per ri' li ra b'uuq ra anm jb'iij Lupaa.+
+\m per ri' li ra b'uuq ra anim j- b'iij Lupaa
+\g pero DEM DEM DIM siguamonta DIM mujer E3S nombre guadalupe
+\c ADV DEM DEM PART S PART S PERS S NOM
+\l Pero eso es la siguamonta la mujercita de nombre Lupaa.
+\p ADV DEM#DEM DEM#DEM DIM#PART S DIM#PART S E3S#PERS S NOM
+
+\ref trtex054Usp04 330
+\t Tkan ye'saj re jb'ij Lu... jb'ij b'uuq,+
+\m t- kan ye' -sáj re j- b'ij Lu j- b'ij b'uuq
+\g INC quedar dar PAS él/ella E3S nombre guadalupe E3S nombre siguamonta
+\c TAM VI VT SUF PRON PERS S NOM PERS S S
+\l Se deja el nombrecito guadalupe su nombre siguamonta.
+\p INC#TAM VI VT PAS#SUF PRON E3S#PERS S NOM E3S#PERS S S
+
+\ref trtex054Usp04 331
+\t lajori.+
+\m lajori
+\g ahora
+\c ADV
+\l Ahora.
+\p ADV
+
+\ref trtex054Usp04 332
+\t 11:52 25/11/05

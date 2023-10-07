@@ -1,0 +1,12 @@
+\t burutbuu ?
+\g escape-TERM=Q
+\l Did (you) escape?
+
+\t caqu’u gürbe ?
+\g time=Q arrive-TERM
+\l Has the time arrived?
+
+\t jöbü’ü tabu’u ügülerün ?
+\g appropriate=Q ?convenient=Q say-CVB
+\l Saying: is it appropriate, is it convenient?
+

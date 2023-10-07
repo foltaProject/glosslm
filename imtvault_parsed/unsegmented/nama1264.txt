@@ -1,0 +1,280 @@
+\t súűku
+\g pots\t ǀápa̋ sùùku
+\g red pots\t ǃnáni̋ ǀàpa sùùku
+\g six red pots\t ǁnáa̋ ǃnàni ǀàpa sùùku
+\g those six red pots\t Khőmai go b ge Dandagoba ǂkhanisa .
+\g read pst =3ms decl D. book
+\l Dandago read the book.
+
+\t Dandagob ge ǂkhanisa go khómai .
+\g D. decl book pst read.
+\l Dandago read the book.
+
+\t Aob ge maie húni̋ tsi ǁgane ám̋ tama .
+\g man decl pap stir and meat grill neg.nf
+\l The man didn’t stir the pap or grill the meat.
+
+\t Aob ge maie húni̋ tsi ǁgane go àm .
+\g man decl pap stir and meat pst grill
+\l The man stirred the pap and grilled the meat.
+
+\t Aob ge maie go hùni tsi ǁgane àm .
+\g man decl pap pst stir and meat grill
+\l The man stirred the pap and grilled the meat.
+
+\t Khoeb ge oms ǀkha go oa .
+\g man decl home to pst return
+\l The man went home.
+
+\t Khoeb ge oms ǀkha oa tama .
+\g man decl home to return neg.nf
+\l The man didn’t return home.
+
+\t ǁNa tarasa go taee am ?
+\g that woman pst what grill
+\l What did that woman grill?
+
+\t ǁNa tarasa taee am tama ?
+\g that woman what grill neg.nf
+\l What didn’t that woman grill?
+
+\t Oms ǀkha go oa khoeb ge .
+\g home to pst return man decl
+\l It was that man who returned home.
+
+\t Oms ǀkha oa tama khoeb ge .
+\g home to return neg.nf man decl
+\l It was the man who didn’t return home.
+
+\t Mî ta ge ra Dandagob go oms ǀkha oa sa .
+\g say I decl imp D. pst home to return -comp
+\l I am saying that Dandago returned home.
+
+\t Mî ta ge ra Dandagob oms ǀkha oa tama sa .
+\g say I decl imp D. home to return neg.nf comp
+\l I am saying that Dandago didn’t return home.
+
+\t Mî ta ge ra arib ge ǀhôasa go mû ti .
+\g say I decl imp dog decl cat pst see c.quot
+\l I am saying that the dog saw the cat.
+
+\t Mî ta ge ra arib ge ǀhôasa mû tama ti .
+\g say I decl imp dog decl cat see neg.nf c.quot
+\l I am saying that the dog didn’t see the cat.
+
+\t Aob ge maie go huni tsi ǁgane am .
+\g man decl pap pst stir and meat grill
+\l The man stirred the pap and grilled the meat.
+
+\t Aob ge maie huni tsi ǁgane go am .
+\g man decl pap stir and meat pst grill
+\l The man stirred the pap and grilled the meat.
+
+\t Aob ge maie huni tsi ǁgane am tama .
+\g man decl pap stir and meat grill neg.nf
+\l The man didn’t stir the pap or grill the meat.
+
+\t Aob ge maie go huni tsi ǁgame am .
+\g man decl pap pst stir and meat grill
+\l The man stirred the pap and grilled meat.
+
+\t Khoeb ge oms ǀkha go ro oa .
+\g man decl home to pst -imp return
+\l The man was returning home.
+
+\t Khoeb ge oms ǀkha oa hâ .
+\g man decl home to return perf
+\l The man has returned home.
+
+\t ǀGôab ge maie go huni .
+\g boy decl pap pst stir
+\l The boy stirred the pap.
+
+\t ǀGôab ge maie go ro huni .
+\g boy decl pap pst -imp stir
+\l The boy was stirring the pap.
+
+\t ǀGôab ge maie huni tama .
+\g boy decl pap stir neg.nf
+\l The boy didn’t stir the pap.
+
+\t ǀGôab ge maie huni hâ .
+\g boy decl pap stir perf
+\l The boy has stirred the pap.
+
+\t Mî ta ge ra   Dandagob go oms ǀkha oa sa .  
+\g say I decl imp  D. pst home to return -comp 
+\l I am saying that Dandago returned home.
+
+\t Mî ta ge ra   Dandagob oms ǀkha oa tama sa .  
+\g say I decl imp  D. home to return neg.nf -comp 
+\l I am saying that Dandago didn’t return home.
+
+\t Mî ta ge ra   ǀgôab go maie huni sa .  
+\g say I decl imp  boy pst pap stir -comp 
+\l I am saying that the boy stirred the pap.
+
+\t Mî ta ge ra   ǀgôab maie huni tama sa .  
+\g say I decl imp  boy pap stir tama -comp 
+\l I am saying that the boy didn’t stir the pap.
+
+\t Aob ge   maie huni   tsi   ǁgane go am .  
+\g man decl  pap stir  and  meat pst grill 
+\l The man stirred the pap and grilled the meat.
+
+\t Aob ge   maie go huni   tsi   ǁgane am .  
+\g man decl  pap pst stir  and  meat grill 
+\l The man stirred the pap and grilled the meat.
+
+\t Aob ge   maie huni   tsi   ǁgane am tama .  
+\g man decl  pap stir  and  meat grill neg.nf 
+\l The man didn’t stir the pap or grill the meat.
+
+\t Khoedages ge   omsa om   tsi   ǁgame go ā .  
+\g K. decl  house build  and  water pst drink 
+\l Khoedage built the house and drank water.
+
+\t Khoedages ge   omsa go om   tsi   ǁgame ā .  
+\g K. decl  house pst build  and  water drink 
+\l Khoedage built the house and drank water.
+
+\t Khoedages ge   omsa om   tsi   ǁgame ā tama .  
+\g K. decl  house build  and  water drink neg.nf 
+\l Khoedage didn’t build the house and drink water.
+
+\t   Oms ǀkha go oa   khoeb ge .
+\g  home to pst return  man decl
+\l It was the man who returned home.
+
+\t   Oms ǀkha oa tama   khoeb ge .
+\g  home to return neg.nf  man decl
+\l It was the man who didn’t return home.
+
+\t   Maie go ro huni   ǀgôab ge .
+\g  pap pst -imp huni  boy decl
+\l It was the boy who stirred the pap.
+
+\t   Maie huni hâ   ǀgôab ge .
+\g  pap huni perf  boy decl
+\l It is the boy who has stirred the pap.
+
+\t Mî ta ge ra   arib ge ǀhôasa go mû ti .  
+\g say I decl imp  dog decl cat pst see c.quot 
+\l I am saying that the dog saw the cat.
+
+\t Mî ta ge ra   arib ge ǀhôasa mû tama ti .  
+\g say I decl imp  dog decl cat see neg.nf c.quot 
+\l I am saying that the dog didn’t see the cat.
+
+\t Mî ta ge ra   ne khoes ge ǁgane go am ti .  
+\g say I decl imp  this woman decl meat pst grill c.quot 
+\l I am saying that this woman grilled the meat.
+
+\t Mî ta ge ra   ne khoes ge ǁgane am hâ ti .  
+\g say I decl imp  this woman decl meat grill perf c.quot 
+\l I am saying that this woman has grilled the meat.
+
+\t ǁNa ǀgôaba go ro taee ā ?
+\g that boy pst -imp what drink
+\l What did that boy drink?
+
+\t ǁNa ǀgôaba taee ā hâ ?
+\g that boy what drink perf
+\l What has that boy drunk?
+
+\t ǁAri b ge ne khoeba ǁnaba ǂna tama .
+\g yesterday =3ms decl this man there dance neg.nf
+\l This man didn’t dance there yesterday.
+
+\t ǁAri b ge ǁnaba ne khoeba ǂna tama .
+\g yesterday =3ms decl there this man dance neg.nf
+\l This man didn’t dance there yesterday.
+
+\t Nesi b ge ariba ǀhôasa nâ tide .
+\g now =3ms decl dog cat bite neg.fut
+\l Now the dog will not bite the cat.
+
+\t Nesi b ge ǀhôasa ariba nâ tide .
+\g now =3ms decl cat dog bite neg.fut
+\l Now the dog will not bite the cat.
+
+\t Netsē b ge khoeba oms ǀkha go oa ǀkhi .
+\g today =3ms decl man home to pst return come
+\l Today the man came back home.
+
+\t Netsē b ge oms ǀkha khoeba go oa ǀkhi .
+\g today 3ms decl home to man pst return come
+\l Today the man came back home.
+
+\t ǁNaba s ge tarasa ǃgâise go ro ǁnae .
+\g there =3fs decl woman well pst -imp sing
+\l The woman was singing well there.
+
+\t ǁNabas ge ǃgâise tarasa go ro ǁnae . 
+\g there =3fs decl well woman pst -imp sing
+\l The woman was singing well there.
+
+\t Netsē b ge axaba ǃhaese ǂû hâ .
+\g today =3ms decl boy quickly eat perf
+\l Today the boy has eaten quickly.
+
+\t Netsē b ge ǃhaese axaba ǂû hâ .
+\g today =3ms decl quickly boy eat perf
+\l Today the boy has eaten quickly.
+
+\t Tsī b ge ǀgôaba ǀhūsa go mû .
+\g and.then =3ms decl boy spider pst see
+\l And then the boy saw the spider.
+
+\t Tsī b ge ǀhūsa ǀgôaba go mû .
+\g and.then =3ms decl spider boy pst see
+\l And then the boy saw the spider.
+
+\t Dandagob ge ǂkhanisa ǁîb ǀgôasa khomai ba hâ .
+\g D. decl book his daughter read -appl perf
+\l Dandago has read the book to his daughter.
+
+\t Dandagob ge ǁîb ǀgôasa ǂkhanisa khomai ba hâ .
+\g D. decl his daughter book read -appl perf
+\l Dandago has read the book to his daughter.
+
+\t Khoedages ge ǁgauǃnaaoba ǁnaba ra ǃhoau .
+\g K. decl teacher there imp talk.to
+\l Khoedage is talking to the teacher over there.
+
+\t Khoedages ge ǁnaba ǁgauǃnaaoba ra ǃhoau .
+\g K. decl there teacher imp talk.to
+\l Khoedage is talking to the teacher over there.
+
+\t Tita ge ǂkhanisa ǁkhawa ra xoa .
+\g I decl book again imp write
+\l I am writing a book again.
+
+\t Tita ge ǁkhawa ǂkhanisa ra xoa .
+\g I decl again book imp write
+\l I am writing a book again.
+
+\t ǀHôas ge ariba netsē mû tama .
+\g cat decl dog today see neg.nf
+\l The cat didn’t see the dog today.
+
+\t ǀHôas ge netsē ariba mû tama .
+\g cat decl today dog see neg,nf
+\l The cat didn’t see the dog today.
+
+\t ǁNa ǀgôai ge khoee ǂanebegase nâ tama .
+\g that child decl someone on.purpose bite neg.nf
+\l That child bit someone on purpose.
+
+\t ǁNa ǀgôai ge ǂanebegase khoee nâ tama .
+\g that child decl on.purpose someone bite neg.nf
+\l That child bit someone on purpose.
+
+\t ǁGauǃnaaos ge ne axaba netsē ǃhoau tide .
+\g teacher decl this boy today talk.to neg.fut
+\l The teacher didn’t talk to this boy today.
+
+\t ǁGauǃnaaos ge netsē ne axaba ǃhoau tide .
+\g teacher decl today this boy talk.to neg.fut
+\l The teacher didn’t talk to this boy today.
+

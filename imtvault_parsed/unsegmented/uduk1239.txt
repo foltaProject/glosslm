@@ -1,0 +1,160 @@
+\t àcʼí kʼūtʰúɗ
+\g CL2=child(CL2) cough:IPFV-3SG
+\l The child coughed.
+
+\t àɲáw ūrúɗā tʼíkʰ
+\g CL2=cat(CL2) chase:IPFV-3SG=ACC.CL2 rat(CL2)
+\l The cat chased the rat.
+
+\t àɲáw wǔcʼmā kʼá
+\g CL2=cat(CL2) bite:PFV=ERG.CL2 dog(CL2)
+\l The dog bit the cat.
+
+\t kʼwāní lǒɓónā kʰúrā
+\g people(CL1) play:IPFV-3PL=ACC.CL2 ball(CL2)
+\l The people are playing football.
+
+\t àkʰúrā lǒɓā kʼwāní
+\g CL2=ball(CL2) play:IPFV=ERG.CL1 people(CL1)
+\l The people are playing football.
+
+\t àkʰúrā lǒɓmā cʼí
+\g CL2=ball(CL2) play:IPFV=ERG.CL2 child(CL2)
+\l The child is playing football.
+
+\t ànós gì wàt̪íʔ
+\g CL2=pot(CL2) GEN.CL1 man(CL1)
+\l the man's pot
+
+\t ànósmā ɓóm
+\g CL2=pot(CL2)=GEN.CL2 woman(CL2)
+\l the woman's pot
+
+\t àrǐs kʼwāní
+\g CL2=many.PL(CL2) people(CL1)
+\l very many people
+
+\t àrǐsā kúnùʔ
+\g CL2=many.PL(CL2)=ASSOC.CL2 owl(CL2)
+\l very many owls
+
+\t ràkʰ tāø kúʃ mò í mīs
+\g cloud(CL1) COP:PFV-3SG white MO LOC:CL1 sky(CL1)
+\l The clouds are white in the sky.
+
+\t áhā wòláø yìɗé á kʰs
+\g 1SG(CL1) pour:IPFV-1SG=CL1 water(CL1) LOC:CL2 cup(CL2)
+\l I poured the water in the cup.
+
+\t é gǎmøø tō yán pʼéní máná ?
+\g 2SG(CL1) find:IPFV-3SG=CL1 thing(CL1) DEM.PROX from:CL1 where(CL1)
+\l Where did you get this thing from?
+
+\t gǎmkāʔ pʼéná Yúsìf
+\g find:IPFV-ERG.1SG from:CL2 Yousef(CL2)
+\l I got (it) from Yousef.
+
+\t wàt̪íʔ tā gì mì
+\g man(CL1) COP:PFV PP.CL1 goat(CL1)
+\l The man has a goat.
+
+\t áhā tāná gà kʼá
+\g 1SG(CL1) COP:PFV-1SG PP.CL2 dog(CL2)
+\l I have a dog.
+
+\t áhā tʰōʃá kí wàt̪íʔ mǐɗì tʼā kí pʰúɗ mò ʃwànéʔ
+\g 1SG(CL1) think:IPFV-1SG COMP:CL1 man(CL1) do.AUX:IPFV:AD2-3SG=LNK CF.AUX COMP arrive MO today
+\l I thought that the man would have arrived today.
+
+\t áhā tʰōʃá ká ʃōkʼ mìɗì hét̪ʼ kāt̪ʼámō
+\g 1SG(CL1) think:IPFV-1SG COMP:CL2 rain(CL2) do.AUX:IPFV-3SG=LNK rainverb tomorrow
+\l I hope it rains tomorrow.
+
+\t únī dǒʃón kī mís
+\g 3PL(CL1) stand:IPFV-3PL with:CL1 sky(CL1)
+\l They stood up.
+
+\t jàmàs bǔnī kʼón kā rìs
+\g kind(CL1) POSS.3PL exist.PL:PFV-3PL with:CL2 many(CL2)
+\l There are many kinds of them.
+
+\t wàkʰkí wàt̪íʔ kʼóʃóɗā shētʰ , kʼúpʰ tō mínù míì kʰál bwày cōmá ?
+\g if:CL1 man(CL1) kill:PFV-3SG=ACC.CL2 antelope(CL2), head(CL1) thing(CL1) do.AUX:PFV-IMPRS do.AUX=LNK carry to:CL1 his.father(CL1)=Q
+\l If a person kills an antelope, is the head carried to the father's home?
+
+\t áhā mìʃáø ārí mì
+\g 1SG(CL1) see:IPFV-1SG=ACC.CL1 DIM:CL1(CL1) goat(CL1)
+\l I saw the little goat.
+
+\t áhā mìʃáø ārá ɲǎw
+\g 1SG see:IPFV-1SG=ACC.CL1 DIM:CL2(CL1) cat(CL2)
+\l I saw the little cat.
+
+\t àɓóm mìʃà wàt̪íʔ
+\g CL2=woman(CL2) see:IPFV=ERG.CL1 man(CL1)
+\l The man sees the woman.
+
+\t àɓóm mìʃà d̪àn wàt̪íʔ
+\g CL2=woman(CL2) see:IPFV=ERG.CL1 big(CL1) man(CL1)
+\l The big man sees the woman.
+
+\t wàt̪íʔ mìʃmà ɓóm
+\g man(CL1) see:IPFV=ERG.CL2 woman(CL2)
+\l The woman sees the man.
+
+\t wàt̪íʔ mìʃmà d̪ànà ɓóm
+\g man(CL1) see:IPFV=ERG.CL2 big(CL1)=ASSOC.CL2 woman(CL2)
+\l The big woman sees the man.
+
+\t wàt̪íʔ cʼít̪ʼíɗā yíɗ
+\g man(CL1) cut:IPFV-3SG=ACC.CL2 skin(CL2)
+\l The man is cutting the pelt.
+
+\t é gǎmánā cʼí
+\g 2SG(CL1) find:IPFV-2SG=ACC.CL2 child(CL2)
+\l You have found the child.
+
+\t únī gǎmánā dàwà kā rìs
+\g 3PL(CL1) find:IPFV-3PL=ACC.CL2 baboon(CL2) with:CL2 many(CL2)
+\l They found many baboons.
+
+\t áhā pʰīnáā sū
+\g 1SG(CL1) drink:IPFV-1SG=ACC.CL2 beer(CL2)
+\l I am drinking the beer.
+
+\t áɗī cʼít̪ʼøø bùɲjè
+\g 3SG(CL1) cut:IPFV-3SG=ACC.CL1 cloth(CL1)
+\l S/he's cutting the cloth.
+
+\t únī ɗékʼøø kʼwā
+\g 3PL(CL1) pick_up:IPFV-3PL=ACC.CL1 bowl(CL1)
+\l They pick up the bowl.
+
+\t é gǎmøø tō yán
+\g 2SG(CL1) find:IPFV-3SG=ACC.CL1 thing(CL1) DEM.PROX
+\l You found this thing.
+
+\t áhā pʰīnáø yìɗé
+\g 1SG(CL1) drink:IPFV-1SG=ACC.CL1 water(CL1)
+\l I am drinking the water.
+
+\t àcí kí kʼóshø wàt̪íʔ mò
+\g CL2=creature(CL2) NARR hitNF=ACC.CL1 man(CL1) MO
+\l He attacks the man.
+
+\t áʼdī kí bùt̪à cʼí d̪àlì kʼóshā cʼí mò
+\g 3SG(CL1) NARR catchNF=ACC.CL2 child(CL2) and hitNF=ACC.CL2 child(CL2) MO
+\l She catches the child and beats the child.
+
+\t àkʰúrā lǒɓā áɗī
+\g CL2=ball(CL2) play:IPFV=ERG.CL1 3SG(CL1)
+\l S/he is playing football.
+
+\t wàt̪íʔ kʼōʃóɗā Rǎbì
+\g man(CL1) hit:IPFV-3SG=ACC.CL2 Rabi(CL2)
+\l The man hits Rabi.
+
+\t wàt̪íʔ kʼʃøø áɗī
+\g man(CL1) hit:IPFV-3SG=ACC.CL1 3SG(CL1)
+\l The man hits him/her/it.
+

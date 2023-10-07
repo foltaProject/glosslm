@@ -1,0 +1,325 @@
+\t Ngi-fun-a  ukuthi u-Sipho a-phek-e i-qanda  .
+\g 1SG-want-FV [C AUG-1a.Sipho 1.SM-cook-SUBJ AUG-5.egg]
+\l I want Sipho to cook an egg.
+
+\t Ngi-fun-a u-Sipho  ukuthi a-phek-e i-qanda  .
+\g 1SG-want-FV AUG-1a.Sipho [C 1.SM-cook-SUBJ AUG-5.egg]
+\l I want Sipho to cook an egg.
+
+\t *Ngi-fun-a i-qanda  ukuthi u-Sipho a-phek-e  .
+\g 1SG-want-FV AUG-5.egg [C AUG-1a.Sipho 1.SM-cook-SUBJ]
+\l (intended: ‘I want Sipho to cook an egg.’)
+
+\t U-mama u-nik-e aba-ntwana in-cwadi .
+\g 1a-mama 1SM-give-PFV 2-children 9-book
+\l Mama gave the children a book.
+
+\t U-mama u-ba-nik-e in-cwadi (aba-ntwana) .
+\g 1a-mama 1SM-2OM-give-PFV 9-book 2-children
+\l Mama gave them a book (the children).
+
+\t U-mama u-yi-nik-e aba-ntwana (in-cwadi) .
+\g 1a-mama 1SM-9OM-give-PFV 2-children 9-book
+\l Mama gave the children it (a book).
+
+\t In-cwadi y-a-fund-el-w-a aba-ntwana .
+\g 9-book 9SM-REM.PST-read-APPL-PASS-FV 2-children
+\l The book was read (for) the children.
+
+\t UJohn u-nik-a abantwana imali .
+\g 1a.John 1SM-give-FV 2.children 9.money
+\l John is giving the children money.
+
+\t UJohn u-ba-nik-a imali (abantwana) .
+\g 1a.John 1SM-2OM-give-FV 9.money 2.children
+\l John is giving them money (the children).
+
+\t UJohn u-yi-nik-a abantwana (imali) .
+\g 1a.John 1SM-9OM-give-FV 2.children 9.money
+\l John is giving it to the children (the money).
+
+\t Ngi-ya-m-theng-el-a u-bisi u-Sipho .
+\g 1SG.SM-PRES.DJ-1OM-buy-APPL-FV 11-milk 1a-Sipho
+\l I am buying milk for Sipho.
+
+\t Ngi-ya-lu-theng-el-a u-bisi u-Sipho .
+\g 1SG.SM-PRES.DJ-11OM-buy-APPL-FV 11-milk 1a-Sipho
+\l int. ‘I am buying milk for Sipho.
+
+\t Usipho u-m-fund-is-el-a abafundi Zulu (uLanga) .
+\g 1aSipho 1SM-1OM-learn-CAUS-APPL-FV 2.student 7.Zulu 1a.Langa
+\l Sipho is teaching the students Zulu for him (Langa).
+
+\t Usipho u-ba-fund-is-el-a uLanga Zulu (abafundi) .
+\g 1aSipho 1SM-2OM-learn-CAUS-APPL-FV 1a.Langa 7.Zulu 2.student
+\l Sipho is teaching them Zulu for Langa (the students).
+
+\t Usipho u-si-fund-is-el-a uLanga abafundi (Zulu) .
+\g 1aSipho 1SM-7OM-learn-CAUS-APPL-FV 1a.Langa 2.student 7.Zulu
+\l Sipho is teaching it to the students for Langa (Zulu).
+
+\t Aba-ntwana ba-ya-yi-fund-el-w-a (in-cwadi) .
+\g 2-child 2SM-PRES.DJ-9OM-read-APPL-PASS-FV 9-book
+\l The children are being read it (the book).
+
+\t In-cwadi i-ya-ba-fund-el-w-a (aba-ntwana) .
+\g 9-book 9SM-PRES.DJ-2OM-read-APPL-PASS-FV 2-children
+\l int. ‘The book is being read to them (the children).
+
+\t ngi-zo-ba ne-mali .
+\g 1SG-FUT-be with.AUG-9money
+\l I will have money.
+
+\t ngi-zo-dinga imali .
+\g 1SG-FUT-need AUG.9money
+\l I will need money.
+
+\t ngi-zo-yi-funa .
+\g 1SG-FUT-9O-want
+\l I will want it (money).
+
+\t ngi-zo-yi-dinga .
+\g 1SG-FUT-9O-need
+\l I will need it (money).
+
+\t ngi-zo-ba na-yo .
+\g 1SG-FUT-be with-9PRONOUN
+\l I will have it (money).
+
+\t y-imali-ni e-ngi-zo-yi-funa ?
+\g COP-AUG.9money-what REL-1SG-FUT-9O-want
+\l How much money will I want?
+
+\t y-imali-ni e-ngi-zo-yi-dinga ?
+\g COP-AUG.9money-what REL-1SG-FUT-9O-need
+\l How much money will I need?
+
+\t y-imali-ni e-ngi-zo-ba na-yo ?
+\g COP-AUG.9money-what REL-1SG-FUT-be with-9PRONOUN
+\l How much money will I have?
+
+\t y-imali-ni e-ngi-zo-yi-ba na-(yo) ?
+\g COP-AUG.9money-what REL-1SG-FUT-9O-be with-(9PRONOUN)\t ubhuthi e-ngi-hamba na-ye (u)-ng-uSipho .
+\g AUG.1brother REL-1SG-go with-1PRONOUN (1S)-COP-AUG.1Sipho
+\l The guy I'm going with is Sipho.
+
+\t ubhuthi e-ngi-khuluma nga- ye u- zo ba (ng)- umongameli .
+\g AUG.1br REL-1SG-speak INSTR- 1PRO 1S- FUT- be (COP)- AUG.1president
+\l The guy who I'm talking about will be president.
+
+\t ngi-bona u-muntu .
+\g 1SG-see AUG-1person
+\l I see someone/the person.
+
+\t A-ngi-bon-i muntu .
+\g NEG-1SG-see-NEG 1person
+\l I don't see anybody.
+
+\t ngi-dinga i-mali .
+\g 1SG-need AUG-9money
+\l I need money.
+
+\t A-ngi-ding-i mali .
+\g NEG-1SG-need-NEG 9money
+\l I don't need any money.
+
+\t ngi-ne-mali .
+\g 1SG-with.AUG-9money
+\l I have money.
+
+\t A-ngi-na mali .
+\g NEG-1SG-with 9money
+\l I don't have any money.
+
+\t u-Mfundo u-dlala i-bhola no-muntu .
+\g AUG-1Mfundo 1S-play AUG-5ball NA.AUG-1person
+\l Mfundo is playing soccer with someone/the person.
+
+\t u-Mfundo a-ka-dlal-i na-muntu i-bhola .
+\g AUG-1Mfundo NEG-1S-play-NEG NA-1person AUG-5ball
+\l Mfundo isn't playing soccer with anyone.
+
+\t u-Sipho u-zo-pheka ukudla kwa-zingane/ *kwe-zingane .
+\g AUG-1Sipho 1S-FUT-cook AUG.15food KWA-10child/ *KWA.AUG-10child
+\l Sipho will cook food for the children.
+
+\t u-Sipho u-zo-thumela imali ku-bantwana .
+\g AUG-1Sipho 1S-FUT-send.APPL AUG.9money KU-2child
+\l Sipho will send money to the children
+
+\t (a-kaalɪ) a-twele ɪ-kɪ-kapʊ
+\g (1-PERS) 1-carry.PFV AUG-7-basket
+\l S/he is (still) carrying a/the basket.
+
+\t bɪɪk-a ʊ-lw-igi lʊ-mo lw-ene saam-il-a bʊbʊʊ∼bo
+\g put-FV AUG-11-door 11-one 11-only migrate-APPL-FV REDUPL∼REF.14
+\l ‎‎Put one door in, so you can move in.
+
+\t ʊ-m-fis-e kʊʊ-sofu tʊ-m̩-buut-e
+\g 2SG-1-hid-SUBJ 17-room(9) 1PL-1-slaughter-SUBJ
+\l Hide him [Hare] in the room, we shall slaughter him.' [Saliki and Hare]
+
+\t ((Ú-siipho) (ú-yí-phékéla BAANI) ín-kuukhu) ?
+\g CL1-Sipho CL1SBJ-CL9OBJ-cook.for CL1.who CL9-chicken
+\l Who is Sipho cooking the chicken for?
+
+\t ((Ú-síph’ ú-yí-phékél’ ÍZÍ-VAKÁASH’) ín-kuukhu) .
+\g CL1-Sipho CL1SBJ-CL9OBJ-cook.for CL8-visitor CL9-chicken
+\l Sipho is cooking the chicken for the visitors.
+
+\t U-Sipho u-ya-yi-thanda lo-mculo .
+\g AUG-1.Sipho 1SM-DJ-9OM-love 3.DEM-3.song
+\l Sipho likes this song.
+
+\t U-Sipho u-ya-yi-thanda lo-mculo na ?
+\g AUG-1.Sipho 1SM-DJ-9OM-love 3.DEM-3.song Q
+\l Does Sipho like this song?
+
+\t U-mama u-nik-e aba-ntwana in-cwadi .
+\g 1a-mama 1SM-give-PFV 2-children 9-book
+\l Mama gave the children a book.
+
+\t U-mama u-ba-nik-e in-cwadi (aba-ntwana) .
+\g 1a-mama 1SM-2OM-give-PFV 9-book 2-children
+\l Mama gave them a book (the children).
+
+\t U-mama u-yi-nik-e aba-ntwana (in-cwadi) .
+\g 1a-mama 1SM-9OM-give-PFV 2-children 9-book
+\l Mama gave the children it (a book).
+
+\t  U-ku-nikeza kwa-khe izingane amavuvuzela  ku-ya-ngi-casula .
+\g AUG-15-give 15.ASSOC-1PRO AUG.10child AUG.6vuvuzela SM15-DJ-1SG.OM-annoy
+\l His giving the children vuvuzelas annoys me.
+
+\t  U-ku-nikeza izingane amavuvuzela kwa-khe  ku-ya-ngi-casula .
+\g AUG-15-give AUG.10child AUG.6vuvuzela 15.ASSOC-1PRO SM15-DJ-1SG.OM-annoy
+\l His giving the children vuvuzelas annoys me.
+
+\t (UZinhle) u-xova ujeqe .
+\g AUG.1Zinhle SM1-make AUG.1steamed.bread
+\l Zinhle is making steamed bread.
+
+\t (Omakhelwane) ba-xova ujeqe .
+\g AUG.2neighbor SM1-make AUG.1steamed.bread
+\l The neighbors are making steamed bread.
+
+\t Ku-pheka uZinhle kahle .
+\g SM17-cook AUG.1Zinhle well
+\l Zinhle cooks well.
+
+\t UZinhle u-ya-m-xova kahle ujeqe .
+\g AUG.1Zinhle SM1-DJ-OM1-make well AUG.1steamed.bread
+\l Zinhle makes steamed bread well.
+
+\t Ku-phek-e uSipho amaqanda .
+\g SM17-cook-PST AUG.1Sipho AUG.6egg
+\l SIPHO cooked eggs.
+
+\t A-phek-e uSipho (amaqanda) .
+\g SM6-cook-PST AUG.1Sipho AUG.6egg
+\l intended: `SIPHO cooked them.
+
+\t Kw-a-phek-e uSipho (amaqanda) .
+\g SM17-OM6-cook-PST AUG.1Sipho AUG.6egg
+\l intended: `SIPHO cooked them.
+
+\t Kw-a-nikeza uMfundo izingane amavuvuzela .
+\g SM17-PST-give AUG.1Mfundo AUG.10child AUG.6vuvuzela
+\l MFUNDO gave the children vuvuzelas.
+
+\t Kw-a-zi-nikeza uMfundo amavuvuzela (izingane) .
+\g SM17-PST-OM10-give AUG.1Mfundo AUG.6vuvuzela AUG.10child
+\l intended: `MFUNDO gave them vuvuzelas.
+
+\t Kw-a-wa-nikeza uMfundo izingane (amavuvuzela) .
+\g SM17-PST-OM6-give AUG.1Mfundo AUG.10child AUG.6vuvuzela
+\l intended: `MFUNDO gave them to the children.
+
+\t Ngi-funa  uku-xova ujeqe  .
+\g 1SG-want AUG.15-make AUG.1bread
+\l I want to make steamed bread.
+
+\t Ngi-yethemba  uku-ni-bona  .
+\g 1SG-hope AUG.15-2PL.OM-see
+\l I hope to see you all.
+
+\t uku-nga-zi-bon-i
+\g AUG.15-NEG-REFL-see-NEG
+\l to not see oneself
+
+\t uku-sa-m-thanda kabi uSipho
+\g AUG.15-DUR-OM1-love badly AUG.1Sipho
+\l to still really love Sipho
+
+\t Ngi-ya-ku-funa   uku-xova ujeqe   .
+\g 1SG.SM-DJ-15OM-want _ AUG.15-make AUG.1bread _
+\l I want to make steamed bread.
+
+\t Uku-xova ujeqe ku-mnandi .
+\g AUG.15-make AUG.1bread 15SM-nice
+\l Making steamed bread is nice.
+
+\t umkhovu wo-mthakathi
+\g AUG.3zombie 3ASSOC.AUG-1wizard
+\l the wizard's zombie
+
+\t isiminyaminya se-mikhovu
+\g AUG.7swarm 7ASSOC.AUG-4zombie
+\l a horde of zombies
+
+\t um-cabango we-mikhovu
+\g AUG.3thought 3ASSOC.AUG-4zombie
+\l the thought of zombies
+
+\t isiminyaminya se-mikhovu so-mthakathi
+\g AUG.7swarm 7ASSOC-4zombie 7ASSOC-1wizard
+\l the wizard's horde of zombies
+
+\t uku-bhubha kwe-zwe
+\g AUG.15-destroy 15ASSOC.AUG-5country
+\l the destruction of the country/to destroy the country
+
+\t u-no-ku-saba kwe-gundane
+\g 1SM-with.AUG-15-fear 15ASSOC.AUG-5mouse
+\l S/he has a mouse's fear.' (same fears as a mouse, NOT a fear of mice)
+
+\t u-ku-saba igundane
+\g AUG-15-fear AUG.5mouse
+\l to fear mice/a fear of mice
+
+\t Uku-saba kwa-mi ku-khulu .
+\g AUG.15-fear 15ASSOC-1SG.PRO 15SM-big
+\l My fear is big.
+
+\t Ngi-fisa uku-thola iziqu .
+\g 1SG.SM-wish AUG.15-get AUG.8degree
+\l I wish to get a degree.
+
+\t Isi-fiso sa-kho so-ku-thola iziqu si-zo-fezeka .
+\g AUG.7-wish 7ASSOC-2SG.PRO 7ASSOC.AUG-15-get AUG.8degree SM7-FUT-come.true
+\l Your wish to get a degree will come true.
+
+\t Isi-fiso sa-wo wonke umtwana so-ku-bona uma wa-khe si-zo-fezeka .
+\g AUG.7-wish 7ASSOC-1DEM 1.every AUG.1person 7ASSOC.AUG-15-see AUG.1mom 1ASSOC-1PRO SM7-FUT-come.true
+\l Every child's_k wish to see her_m mother will come true.' (non-bound reading salient, speakers find bound reading difficult)
+
+\t Uku-nikeza kwa-wo wonke umuntu intombi isithombe sa-khe ku-thatha isikhathi .
+\g AUG.15-give 15ASSOC-1DEM 1.every AUG.1person AUG.9girl AUG.7picture 7ASSOC-1PRO SM15-take AUG.7time
+\l For everyone_k to give the girl_m his_k picture takes a long time.
+
+\t  Uku-zi-nikeza kwakhe amavuvuzela  ku-ya-ngi-casula .
+\g AUG15-10OM-give 15.ASSOC-1PRO AUG.6vuvuzela SM15-DJ-1SG.OM-annoy
+\l His giving them vuvuzelas annoys me.
+
+\t  Uku-wa-nikeza kwakhe izingane  ku-ya-ngi-casula .
+\g AUG15-6OM-give 15.ASSOC-1PRO AUG.10child SM15-DJ-1SG.OM-annoy
+\l His giving them to the children annoys me.
+
+\t USipho w-a-nikez-w-a w-uMary incwadi .
+\g AUG.1Sipho SM1-PST-give-PASS COP-AUG.1Mary AUG.9book
+\l Sipho was given a book by Mary.
+
+\t ne' kwawaka chi-pula
+\g PERS.1SG NEG.EX 7-knife
+\l I don't have a knife.
+

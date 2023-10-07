@@ -1,0 +1,48 @@
+\t te lhíxw swíweles
+\g DET three boy
+\l the three boys
+
+\t te lhíxw swóweles
+\g DET three boy.PL
+\l the three boys
+
+\t T’ílém ye sí:wí:qe .
+\g sing DET.PL man.PL
+\l The men are singing.
+
+\t T’ílém te sí:wí:qe .
+\g sing DET man.PL
+\l The men are singing.
+
+\t T’ílém ye swíyeqe .
+\g sing DET.PL man
+\l The men are singing.
+
+\t T’ílém te swíyeqe .
+\g sing DET man
+\l The man is singing.
+
+\t swóweles
+\g boy.PL
+\l boys
+
+\t swíweles
+\g boy
+\l a boy or boys
+
+\t p’eq’
+\g white
+\l white
+
+\t sp’eq’
+\g NMLZ-white
+\l white spot on skin
+
+\t sp’eq’p’eq’ (*sp’eq’sp’eq’)
+\g NMLZ-white.PL
+\l white spots on skin
+
+\t sxexp’í:tsel
+\g NMLZ-stripe.PL-back
+\l chipmunk
+

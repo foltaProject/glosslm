@@ -1,0 +1,604 @@
+\t babaandu balolekhana (mbo) bakwa .
+\g 2people 2SA-seem (that) 2SA.PAST-fall
+\l The people seem like they fell/The people seem to have fallen.
+
+\t *Mikaeli alolekhana ali asikona .
+\g Michael 1SA-seem that 1SA.PRES-sleep
+\l Michael seems to be still sleeping.
+
+\t Babandu babolela Alfredi bali akhakhile .
+\g 2-2-people 2S-said-APPL-FV 1Alfred 2-that 1S-FUT-conquer
+\l The people told Alfred that he will win.
+
+\t Alfredi kabolela babandu ali bakhakhile .
+\g 1Alfred 1S-said-APPL-FV 2-2-people 1-that 2S-FUT-conquer
+\l Alfred told the people that they will win.
+
+\t Babandu babolela Alfredi bali akhakhile .
+\g 2-2-people 2S-said-AP-FV 1Alfred 2-that 1S-FUT-conquer
+\l The people told Alfred that he will win.
+
+\t Alfredi kabolela babandu ali bakhakhile .
+\g 1Alfred 1S-said-AP-FV 2-2-people 1-that 2S-FUT-conquer
+\l Alfred told the people that they will win.’ (Diercks 2013: 358)
+
+\t Umusore yahiingiye umugore umurima .
+\g 1.young.man 1SM-PST-plough-APPL-ASP 1.woman 3.field
+\l The young man ploughed the field for the woman.
+
+\t Umugore yawuhiingiwe n’ umusore .
+\g 1.woman 1SM-PST-3OM-plough-APPL-PASS-ASP by 1.young.man
+\l lit. ‘The woman was it ploughed for by the young man.
+
+\t Umurima wamuhiingiwe n’ umusore .
+\g 3.field 3SM-PST-1OM-plough-APPL-PASS-ASP by 1.young.man
+\l The field was ploughed (for) her by the young man.
+
+\t Baasooreri baachieebwa (chikhaafu) .
+\g 2.boys 2SM-PAST-10OM-give-PASS-FV 10-cows
+\l The boys were given them (cows).
+
+\t Chikaafu chaabaeebwa (baasooreri) .
+\g 10-cows 10SM-PST-2OM-give-PASS-FV 2-boys
+\l Cows were given to them (the boys).
+
+\t  DP okoor oxe GOAL a ci'e  DP atere le THEME
+\g _ man DET 3 give-PASS _ book DET
+\l The man was given the book.' Goal subject
+
+\t  DP atere le THEME a ci'e  DP okoor oxe GOAL
+\g _ book DET 3 give-PASS _ man DET
+\l The book was given to the man.' Theme subject
+
+\t John alolekhana mbo kaakwa .
+\g 1John 1S-seems that 1S-PST-fell
+\l John seems like he fell/John seems to have fallen.
+
+\t babaana bataru bange baabofu be liiria baakona bano
+\g 2-2-person 2-three 2-mine 2.2-big of 5.5-respect 2.REL-sleep-FV 2-DEM
+\l these three big respectful children of mine who are sleeping
+
+\t omundu omubofu
+\g 1-1-person 1-1-big
+\l big person
+
+\t babandu baabofu
+\g 2-2-person 2.2-big
+\l big people
+
+\t kumusala kumubofu
+\g 3-3-tree 3-3-big
+\l big tree
+
+\t kimisala kimibofu
+\g 4-4-tree 4-4-big
+\l big trees
+
+\t liliino liibofu
+\g 5-5-tooth 5.5-big
+\l big tooth
+
+\t kameeno kamabofu
+\g 6-6-tooth 6-6-big
+\l big teeth
+
+\t sisyuma siibofu
+\g 7-7-bead 7.7-big
+\l big bead
+
+\t bibyuma biibofu
+\g 8.8-bead 8.8-big
+\l big beads
+
+\t endika embofu
+\g 9-9-bicycle 9-9-big
+\l big bicycle
+
+\t chindika chimbofu
+\g 10-10-bicycle 10-10-big
+\l big bicycles
+
+\t luluichi luubofu
+\g 11-11-river 11.11-big
+\l big river
+
+\t chinjichi chimbofu
+\g 10-10-river 10-10-big
+\l big rivers
+
+\t Ombofu oyu asiima omwana wewe .
+\g 1-1-blind DEM-1 1-PRS-love-FV 1-1-child his/hers
+\l That blind person loves his/her child.
+
+\t Baatambi baasabanga byaakhulya .
+\g 2.2-poor 2-PRS-beg-HAB-FV 8.8-food
+\l The poor usually beg for food.
+
+\t Kumuleeyi kwafuniikhe .
+\g 3-3-tall 3-PST-break-FV
+\l The tall (one) broke.
+
+\t Liliimbi lyaakwa .
+\g 5-5-short 5-PST-fall-FV
+\l The short (one) fell.
+
+\t Wafula aayetanga baatambi .
+\g 1.Wafula 1-PRS-help-HAB-FV 2.2-poor
+\l Wafula usually helps the poor.
+
+\t Mayi aakulile lii .bofu .
+\g Mother 1-PST-buy-ASP-FV 5.5-big
+\l Mother bought the big (one).
+
+\t Wafula aara siibofu khumesa .
+\g Wafula 1-PST-put-FV 7.7-big on.PRF-table
+\l Wafula put the big (one) on the table.
+
+\t Wafula aara siitabu khumubofu .
+\g Wafula 1-PST-put-FV 7.7-book 17-17-big
+\l Wafula put the book on the big one.
+
+\t omusoreri omuleyi
+\g 1-1-boy 1-1-tall
+\l the/a tall boy
+
+\t omuleyi omusoreri
+\g 1-1-tall 1-1-boy
+\l (Intended: ‘the/a tall boy’)
+
+\t kumusala kumuleeyi
+\g 3-3-tree 3-3-tall
+\l the/a tall tree
+
+\t kumuleyi kumusala
+\g 3-3-tall 3-3-tree
+\l (Intended: ‘the/a tall tree’)
+
+\t Wafula omusangafu
+\g Wafula 1-1-happy
+\l happy Wafula’ (Individual-level)
+
+\t Kumusala kumuleyi
+\g 3-3-tree 3-3-tall
+\l tall tree’ (Individual level)
+
+\t Kumusala kwaleile .
+\g 3-3-tree SA-PRS-tall-ASP-FV
+\l The tree has become tall.’ (Stage-level)
+
+\t Wafula ali omusangafu .
+\g Wafula 1-be 1-1-happy
+\l Wafula is a happy person.
+
+\t Kumusala kuli kumuleyi .
+\g 3-3-tree 3-be 3-3-tall
+\l The tree is tall.
+
+\t Wafula alasaangala
+\g Wafula 1-FUT-happy-FV
+\l Wafula will be happy today.
+
+\t Wafula akhasaangale
+\g Wafula 1-FUT-happy-FV
+\l Wafula will be happy tomorrow/next week.
+
+\t Wafula alisaangala
+\g Wafula 1-FUT-happy-FV
+\l Wafula will be happy sometime in the remote future.
+
+\t Wafula aasaangala
+\g Wafula 1-PST-happy-FV
+\l Wafula was happy a long time ago.
+
+\t ∅aruma ebarwa mu posta .
+\g 1S-PST-send-IMP letter in post.office
+\l S/he sent the letter to the post office.
+
+\t ∅arumera ebarwa mu posta .
+\g 1S-PST-send-LOC-IMP letter in post.office
+\l S/he sent the letter from the post office.'(Lubukusu)
+
+\t Omukhangarani ∅apisibwa lisisi ne omwekesi .
+\g 1-warrior 1S-PST-hit-CAUS-PASS-IMP 5-wall by 1-teacher
+\l The warrior was made to hit the wall by the teacher.
+
+\t Lisisi lyapisibwa omukhangarani ne omwekesi .
+\g 5-wall 5S-PST-hit-CAUS-PASS-IMP 1-warrior by 1-teacher
+\l The wall was made to be hit by the warrior by the teacher.
+
+\t Bob ne Billi baabon*(an)a (babeene khu beene) .
+\g Bob and Bill SM.C2-PST-see-RCM-FV C2-C2-own on C2-own
+\l Bob and Bill saw each other.’ (ID1377, 1379)
+
+\t  Basaani baabiyilana  khukhila bakhasi .
+\g [C2-man C2-PST-hate-RCM-FV C15-defeat-FV C2-woman
+\l i. `The men hate each other more than the women hate each other.' sloppy
+
+\t Naanu niye basaani baapa lukali ?
+\g who that-AGR C2-man C2-TNS-beat fiercely
+\l Who did the men beat fiercely?
+
+\t A1: Basaani baapa Yohana lukali .
+\g _ C2-man C2-TNS-beat John fiercely
+\l The men beat John fiercely.
+
+\t Wahena niyo Yohana aakona bwangu ?
+\g where that-AGR John C1-TNS-sleep quickly
+\l Where did John sleep quickly?
+
+\t A1: Yohana akona musikuri bwangu
+\g _ John C1-TNS-sleep C18-field quickly
+\l John slept in the field quickly.
+
+\t Wahena niyo Yohana aara sitabu bwangu ?
+\g where that-AGR John C1-TNS-put C7-book quickly
+\l Where did John put the book quickly?
+
+\t A1: Yohana aara sitabu khumesa bwangu .
+\g _ John C1-TNS-put C7-book C17-table quickly
+\l John put the book on the table quickly.
+
+\t Naanu niye basaani barumira bitabu ?
+\g who that-AGR C2-man C2-send-APPL-FV C8-book
+\l Who did the men send the books to?
+
+\t A1: Basaani barumira Maria bitabu .
+\g _ C2-men C2.TNS-send-APPL-FV Mary C8-book
+\l The men sent Mary books.
+
+\t Naanu niye basaani bafumia lukali ?
+\g who that-AGR C2-men C2-praise-FV fiercely
+\l Who did the men praise fiercely?
+
+\t Basaani bafumiana babeene khu beene lukali .
+\g C2-men C2-praise-RCM-FV C2-C2-own on C2-own fiercely
+\l The men praised each other fiercely.
+
+\t Basaani barumirana babeene khu beene bitabu .
+\g C2-men C2.TNS-send-APPL-RCM-FV C2-C2-own on C2-own C8-book
+\l The men sent each other books.
+
+\t Omundu ne embwa biarekukha .
+\g C1-C1-person and C9-C9-dog C8-PST-leave-FV
+\l The man and the dog left.
+
+\t Embwa yiarekukha ne omundu .
+\g C9-C9-dog C9-PST-leave-FV with C1-C1-person
+\l The dog left with the man.’/‘The dog and the man left.
+
+\t Omundu arekukha ne embwa .
+\g C1-C1-person C1-PST-leave-FV with C9-C9-dog
+\l The man left with the dog.’/‘The man and the dog left.
+
+\t Omuhayi ne etwika biabonana .
+\g C1-C1-hunter and C9-giraffe C8-TNS-see-RCM-FV
+\l The hunter and the giraffe saw each other.
+
+\t Omuhayi aabonana ne etwika .
+\g C1-C1-hunter C1-PST-see-RCM-FV with C9-giraffe
+\l The hunter and the giraffe saw each other.
+
+\t Omuhayi ne etwika biaibona .
+\g C1-C1-hunter and C9-giraffe C8-PST-RFM-see-FV
+\l The hunter and the giraffe saw themselves.
+
+\t Omuhayi aaibona ne etwika .
+\g C1-C1-hunter C1-PST-RFM-see-FV with C9-giraffe
+\l The hunter saw himself with the giraffe.
+
+\t Bakhasi baaiyeetana (babeene khu babeene) .
+\g C2-woman C2-PST-RFM-help-RCM-FV C2-C2-own on C2-C2-own
+\l The women helped each other and themselves.’ (ID1533)
+
+\t Babandu babolela Alfredi bali akhakhile .
+\g 2-2-people 2SA-said-AP-FV 1Alfred 2-that 1SA-FUT-conquer-FV
+\l The people told Alfred that he will win.
+
+\t Alfredi kabolela babandu ali bakhakhile .
+\g 1Alfred 1SA-said-AP-FV 2-2-person 1-that 2SA-FUT-conquer-FV
+\l Alfred told the people that they will win.
+
+\t Nenya Barack Obama ndi akhile .
+\g 1SG.SA-want-FV 1Barack Obama 1SG-that 1SA-win-FV
+\l I want Barack Obama to succeed.
+
+\t Emuenya ndi akhile .
+\g 1SG.SA.PRS-1OM-want-FV 1SG-that 1SA-win-FV
+\l I want him to succeed.
+
+\t Emuenya Barack Obama ndi akhile .
+\g 1SG.SA.PRS-1OM-want-FV 1Barack Obama 1SG-that 1SA-win-FV
+\l I DO want Barack Obama to succeed.
+
+\t Chisaang’i chilolekhana chikona
+\g 10.animal 10.SM-seem 10.SM-sleep.PRS
+\l The animals seem to be sleeping.
+
+\t 1SG .SMPST1OMseeFV (#Wekesa)
+\g *No OM-doubling
+\l I saw him.’ (licit in a context where Wekesa is salient in the discourse)
+
+\t Nákiβona #( ,) éembwa .
+\g 1SG.SM-REM-9OM-see-FV _ 9-9-dog
+\l I saw it, the dog.
+
+\t naaβulíílé βúusuma .
+\g 1SG.SM-PST-14OM-eat-PFV 14.14-ugali
+\l I did eat the ugali!
+
+\t Nakateekha kamakanda bwaangu
+\g 1SG.SM-PST-6OM-cook-FV 6-6-beans quickly
+\l I cooked the beans quickly.’ (not: `I did cook the beans quickly.’)
+
+\t Babaana baa(ka)kesa kamaindi liina ?
+\g 2-2-children 2SM-PST-6OM-harvest-FV 6-6-maize when
+\l When did the children harvest the maize?’ OK without verum
+
+\t Babaana ba(ka)kesile kamaindi likolooba .
+\g 2-2-children 2SM-6OM-harvest-PFV 6-6-maize yesterday
+\l The children harvested the maize yesterday.’ OK without verum
+
+\t Babaana baa(ba)rerera babebusi kamechi kong’ene .
+\g 2-2-children 2SM-PST-(2OM)-bring-APPL-FV 2-2-parents 6-6-water 6-only
+\l The children brought their parents only water.' OK without verum
+
+\t Babaana baabulya busuma bwangu , seli kalaa ta .
+\g 2-2-children 2SM-PST-14OM-eat-FV 14-ugali quickly NEG-be slowly NEG
+\l The children ate the ugali QUICKLY, not slowly.’ OK without verum
+
+\t Babaana baakakesa kamaindi liina ?
+\g 2-2-children 2SM-PST-6OM-harvest-FV 6-6-maize when
+\l When did the children harvest the maize?' Does not require verum
+
+\t Liina nilwo babaana baa(#ka)kesa kamaindi ?
+\g when COMP-11 2-2-children 2SM-PST-6OM-harvest-FV 6-6-maize
+\l When did the children harvest the maize?' Requires verum
+
+\t Babaana bakakesile kamaindi likolooba .
+\g 2-2-children 2SM-6OM-harvest-PFV 6-6-maize 11-yesterday
+\l The children harvested maize yesterday.' Does not require verum
+
+\t Likolooba nilwo babaana ba(#ka)kesile kamaindi .
+\g 11-yesterday COMP11 2-2-children 2SM-6OM-harvest-PRF 6-6-maize
+\l It was yesterday that the children harvested maize.' Requires verum
+
+\t Naanu wa(#ka)kesile kamaindi ?
+\g 1who 1SM-PST-6OM-harvest-PFV 5-5-maize
+\l Who harvested the maize?’ Doubling requires verum
+
+\t Babaana baa(#ka)kesile kamaindi
+\g 2-2-children 2SM-PST-6OM-harvest-PFV 6-6-maize.
+\l The children harvested the maize.' Doubling requires verum
+
+\t Babaana bong’ene baa(#ba)rerera babebusi kamechi .
+\g 2-2-children 2-only 2SM-PST-2OM-bring-APPL-FV 2-2-parents 6-6-water
+\l Only the children brought their parents water.’ Doubling requires verum
+
+\t Babaana baa(#bu)lya busuma , seli babebusi ta .
+\g 2-2-children 2SM-PST-14OM-eat-FV 14-ugali NEG-be 2-2-parents NEG
+\l The children ate ugali, not the parents.' (i.e. the parents didn’t eat ugali) Doubling requires verum
+
+\t Babaana baa(#ka)kesa kamaindi wae ?
+\g 2-2-children 2SM-PST-6OM-harvest-FV 6-6-maize where
+\l Where did the children harvest maize?' Doubling requires verum
+
+\t Babaana baa(#ka)kesa kamaindi mumukunda .
+\g 2-2-children 2SM-PST-6OM-harvest-FV 6-6-maize 18-3-shamba
+\l The children harvested maize in the shamba.' Doubling requires verum
+
+\t Nawa omwaana kamabeele .
+\g 1SG.SM-PST-give-FV 1-1-child 6-6-milk
+\l I gave a child milk.' (could be any child)
+
+\t Namuwa omwaana kamabeele .
+\g 1SG.SM-PST-1OM-give-FV 1-1-child 6-6-milk
+\l I gave a specific child milk.' (i.e. it is known who the child is)
+
+\t nababona babaana  ?(abo)
+\g 1SG.SM-PST-2OM-see-FV 2-2-children 2DEM
+\l I did see those children.' (requires verum)
+
+\t Naanu niye wabona ?
+\g 1who COMP-1 2SG.SM-PST-see-FV
+\l Who did you see?
+
+\t Babaana baa(*ba)kesela naanu kamaindi ?
+\g 2-2-children 2SM-PST-(*2OM)-harvest-APPL-FV 2who 6-6-maize
+\l Who did the children harvest maize for?
+
+\t Babaana baabakesela baandu siina kamaindi ?
+\g 2-2-children 2SM-PST-2OM-harvest-AP-FV 2-people 7what 6-6-maize
+\l Which people did the children harvest maize for?
+
+\t Babaana baakesela naanu kamaindi ?
+\g 2-2-children 2SM-PST-harvest-APPL-FV 1who 6-6-maize
+\l Who did the children harvest maize for?
+
+\t Babaana baabakesela babebusi kamaindi .
+\g 2-2-children 2SM-PST-2OM-harvest-APPL-FV 2-2-parents 6-6-maize
+\l The children harvested maize for (their) parents.' OK without verum
+
+\t Babaana baabokesya baakhaana bong’ene kamareeba .
+\g 2-2-children 2SM-PST-2OM-show-FV 2-2-girls 2-only 6-6-questions
+\l The children showed only the girls the questions.' (i.e. they didn't show the boys) OK without verum
+
+\t Na# ?(mu)wela Wekesa babaana bianwa .
+\g 1SG.SM-PST-1OM-give-APPL-FV 1Wekesa 2-2-children 8-gifts
+\l I gave the children gifts for Wekesa.
+
+\t Lionéeli ká(#ku)lya kúmúchéele , sekályá búusumá tá .
+\g 1Leonnel 1SM-PST-3OM-eat-FV 3-3-rice NEG-1SM-PST-eat-FV 14.14-ugali NEG
+\l Leonell ate the rice, he didn’t eat the ugali.’ (OM-doubling requires verum)
+
+\t Umama u*(ya)yipheka  vP inyama .
+\g AUG-1a.mother 1SM-DJ-9OM-cook-FV _ AUG-9-meat
+\l Mother is cooking it, the meat.
+
+\t Ngiyamthengela  vP uSipho ubisi .
+\g 1SG-DJ-1OM-buy-APPL-FV _ AUG-1a.Sipho AUG-11.milk
+\l I AM buying milk for Sipho.
+
+\t Wekesa aawele babaana luno ( ? ?) bianwa biong'ene .
+\g 1Wekesa 1SM-PST-give-PFV 2-2-children this.time _ 8-gifts 8-only
+\l Wekesa gave the children only gifts this time.
+
+\t Wekesa aabawele ( ? ?) luno babaana bianwa biong'ene .
+\g 1Wekesa 1SM-PST-2OM-give-PFV _ this.time 2-2-children 8-gifts 8-only
+\l Wekesa gave the children only gifts this time.
+
+\t Namuwela Wekesa babaana bianwa .
+\g 1SG.SM-PST-1OM-give-APPL-FV 1Wekesa 2-2-children 8-gifts
+\l I gave the children gifts for Wekesa.' OK without verum, without additional context
+
+\t Namuwela Wekesa babaana bianwa bulayi .
+\g 1SG.SM-PST-1OM-give-APPL-FV 1Wekesa 2-2-children 8-gifts well
+\l I gave the children gifts well for Wekesa.' OK without verum, without additional context
+
+\t Namuwela Wekesa babaana bianwa likolooba .
+\g 1SG.SM-PST-1OM-give-APPL-FV 1Wekesa 2-2-children 8-gifts yesterday
+\l I gave the children gifts yesterday for Wekesa.' OK without verum, without additional context
+
+\t Siina nisyo mwaba nemukhola ?
+\g 7what COMP-7 2PL.SM-PST-be -2PL.SM-do-FV
+\l What was it that you were doing?
+
+\t Wekesa aba (n)aanywa kamalwa buli nyanga
+\g 1Wekesa 1-be -1SM-PST-drink-FV 6-6-alcohol every 9day
+\l Wekesa (certainly) used to drink alcohol everyday.
+
+\t Wekesa aba aa(#ka)nywa kamalwa buli nyanga .
+\g 1Wekesa 1SM-be 1SM-PST-6OM-drink-FV 6-6-alcohol every 9day
+\l Wekesa used to drink alcohol everyday.' Requires verum for OM-doubling to be acceptable
+
+\t Wekesa aba naakanywa kamalwa buli nyanga
+\g 1Wekesa 1-be -1SM-PST-6OM-drink-FV 6-6-alcohol every 9day
+\l Wekesa (certainly) used to drink alcohol everyday.' Doubling OK without verum
+
+\t khonywe echai yoo
+\g KH-2SG.SM-drink-SUBJ 9tea 9your
+\l Drink your tea.
+
+\t nonywe echai yoo !
+\g -2SG.SM-drink-SUBJ 9tea 9-your
+\l Drink your tea!
+
+\t #Kinywe echai yoo !
+\g 9OM-drink-SUBJ 9tea 9-your
+\l Drink your tea!' Requires verum, i.e. `DO drink your tea.
+
+\t nokinywe echai yoo !
+\g -2SG.SM-9OM-drink-SUBJ 9tea 9-your
+\l Drink your tea!' OK without verum
+
+\t Ich glaube von ihm , dass er ein ganz guter Trainer ist .
+\g I believe.1SG of he.DAT that he a quite good coach be.3SG
+\l I believe of him that he is a pretty good coach.
+
+\t Maer die serjanten sijn kenden  den coninc van Israël  , dat hi niet was harde fel .
+\g but the sergeants his knew the.ACC king of Israel that he.NOM not was very fierce
+\l lit. `But his sergeants knew the king of Israel that he was not very fierce.
+
+\t Wekesa aakula siitabu .
+\g Wekesa SM.C1-PST-buy-FV C7-book
+\l Wekesa bought a book.
+
+\t Namubona (#Wekesa) .
+\g 1SG.S-PST-OM.C1-see-FV Wekesa
+\l I saw him.
+
+\t Wekesa aamupa (niye) .
+\g Wekesa SM.C1-PST-OM.C1-beat-FV him
+\l Wekesa beat him.' (Afranaph ID: 3734/5039)
+
+\t Yòháná ááibona (omueene) .
+\g Yohana SM.C1-PST-REFL-see-FV C1-C1-own
+\l John saw himself.' (Afranaph ID:1248/1249)
+
+\t Billi aabona omueene .
+\g Billi SM.C1-PST-see-FV C1-C1-own
+\l Bill saw him.' (ID: 1367)
+
+\t Jack amanyile ali George amusiima omueene .
+\g Jack SM.C1-knows-TNS-FV C1-that George SM.C1-OM.C1-like-FV C1-C1-own
+\l Jack knows that George likes him.
+
+\t John asubila khu Bill ali omueene/niye ali omumiliyu .
+\g John SM.C1-believe-FV PREP Bill C1-that C1-C1-own/him C1-be C1-C1-smart
+\l John believes of Bill that he is smart/clean.
+
+\t John akanakanila Jane ali Bill amusiima omueene/niye .
+\g John SM.C1-think-APPL-FV Jane C1-that Bill SM.C1-OM.C1-like-FV C1-C1-own/her
+\l John thinks of Jane that Bill likes her.
+
+\t dass Peter von sich denkt , dass er der Größte ist .
+\g that Peter of self thinks that he the greatest be.3SG
+\l that Peter thinks of himself that he is the greatest.
+
+\t John aloma khumueene ali Bill akhaenja  omuundu owamulipa omueene  .
+\g John SM.C1-say-FV PREP-C1-own C1-that Bill SM.C1-look.for-FV C1-C1-person WH-C1-OM.C1-PST-pay-FV C1-C1-own
+\l John said about himself that Bill is looking for the person who paid himself.
+
+\t Jack aimanyile ali George amusiima omueene .
+\g Jack SM.C1-REFL-knows-TNS-FV C1-that George SM.C1-OM.C1-like-FV C1-C1-own
+\l Jack knows that George likes him.
+
+\t Jack aikanakanila omueene ali Lisa amanyile ali Wendy amusiima omueene .
+\g Jack SM.C1-REFL-think-APPL-FV C1-C1-own C1-that Lisa SM.C1-know-TNS-FV C1-that Wendy SM.C1-OM.C1-like-FV C1-C1-own
+\l Jack thought for himself that Lisa thinks that Wendy likes him.
+
+\t John aamuloma ali omueene aasiima Mary .
+\g John SM.C1-PST-OM.C1-say-FV C1-that C1-C1-own SM.C1-PST-like-FV Mary
+\l John said about him that he likes Mary.
+
+\t John aamuloma ali Mary aaloma khu omueene .
+\g John SM.C1-PST-OM.C1-say-FV C1-that Mary SM.C1-PST-say-FV of C1-C1-own
+\l John said about him that Mary speaks of him.
+
+\t John aamuloma ali George amusiima .
+\g John SM.C1-PST-OM.C1-say-FV C1-that George SM.C1-OM.C1-like-FV
+\l John say of him that George likes him.
+
+\t John ailoma ali Bill akhaenja  omuundu owamulipa omueene  .
+\g John SM.C1-REFL-say-FV C1-that Bill SM.C1-look.for-FV C1-C1-person WH-C1-OM.C1-PST-pay-FV C1-C1-own
+\l John said that Bill is looking for [the person who paid himself].
+
+\t Jack aimanyile ali George acha nge amubona omueene .
+\g Jack SM.C1-REFL-know-APPL?-FV C1-that George SM.C1-leave-FV when SM.C1-OM.C1-see-FV C1-C1-own
+\l Jack knows that George left when he saw himself.
+
+\t Bill ainyola  chilomo mbo John amulipa omueene  .
+\g Bill SM.C1-receive-FV information that John SM.C1-OM.C1-pay-FV C1-C1-own
+\l Bill heard [a rumor (about himself) that John paid him].
+
+\t John aisubila  likhuwa mbo Bill amubona omueene  .
+\g John SM.C1-REFL-hope-FV claim that Bill SM.C1-OM.C1-see-FV C1-C1-own
+\l John believes [the claim that Bill saw himself].
+
+\t John aamuloma ali George akhaenja  omuundu owamulipa omueene  .
+\g John SM.C1-PST-OM.C1-say-FV C1-that George SM.C1-look.for C1-C1-person WH-C1-PST-pay-FV C1-C1-own
+\l John said of him that George is looking for [the person who paid him].
+
+\t Naanu niye Wafula akhaenja  omuundu owakula  .
+\g who PRED-C1-PRON Wafula C1-PRS-look.for-FV C1-C1-person WH-C1-PST-buy-FV
+\l What is it that Wafula is looking for [the person who bought]?
+
+\t Naanu niye Nasike aarekukha  paata ye t khukhuupa Nanjala  .
+\g who PRED-C1-PRON Nasike C1-PST-leave-FV after of _ inf-beat-FV Nanjala
+\l Who is that Nasike left [after t hitting Nanjala]?
+
+\t  Chilomo mbo Wafula aaiba si(ina) chaachunia  Nafula kumwoyo ?
+\g C7-report that Wafula C1-PST-steal-FV what C7-PST-hurt-CAUS-FV Nafula PP-3-heart
+\l What did [the report that Wafula stole] hurt Nafula?
+
+\t John ailoma ali Mary asiima omueene .
+\g John SM.C1-REFL-say-FV C1-that Mary SM.C1-like-FV C1-C1-own
+\l John said that Mary likes him.
+
+\t John ailoma ali George akhaeknja omuundu owalipa omueene .
+\g John SM.C1-REFL-say-FV C1-that George SM.C1-look.for-FV C1-C1-person WH-C1-pay-FV C1-C1-own
+\l John said that George is looking for the person who paid him.
+
+\t Nuîtshisseniten tshetshî mûpishtâshkuenit kassinu kâuâpikueshit .
+\g 1-want-know-TI if visited-2/INV every priest
+\l I want to know if every priest visited you.
+

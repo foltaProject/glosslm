@@ -1,0 +1,68 @@
+\t (Kòfí_1 bé) Ámã́_2 dí  bé jè_*1/2/*3 lá ɖù n  .
+\g Kofi say Ama want COMP LOG POT eat thing
+\l (Kofi said that) Ama wants to eat.
+
+\t Akú lá ɖù nṹ .
+\g Aku POT eat thing
+\l Aku will/might eat.
+
+\t Akú n ɖù nṹ .
+\g Aku JUSS eat thing
+\l Aku should eat.'/`I want Aku to eat.
+
+\t Ámã́ dí  bé Àkú lá ɖù nṹ  .
+\g Ama want COMP Aku POT eat thing
+\l Intended: `Ama wants Aku to eat.
+
+\t Ámã́ dí  bé Àkú n ɖù nṹ  .
+\g Ama want COMP Aku JUSS eat thing
+\l Ama wants Aku to eat.
+
+\t Ámã́_1 kã́_ɖó_é_dí  bé jè_1/*2 ɖù nṹ  .
+\g Ama be.certain COMP LOG eat thing
+\l Ama is certain that she (= Ama) ate.
+
+\t Kòfí_1 bé Ámã́_2 kã́_ɖó_é_dí  bé jè_1/2/*3 ɖù nṹ  .
+\g Kofi say Ama be.certain COMP LOG eat thing
+\l Kofi said Ama is certain that he/she (= Kofi/Ama) ate.
+
+\t Kòfí_1 bé Ámã́_2 dí  bé jè_*1/2/*3 lá ɖù nṹ  .
+\g Kofi say Ama want COMP LOG POT eat thing
+\l Kofi said Ama wants to eat.' CONTROL
+
+\t Kòfí_1 bé Ámã́_2 dí  bé jè_1/*2/*3 n ɖù nṹ  .
+\g Kofi say Ama want COMP LOG JUSS eat thing
+\l Kofi said Ama wants him ( = Kofi) to eat.' OBVIATION
+
+\t Ámã́_1 dí  bé jè_1/*2 lá ɖù nṹ  .
+\g Ama want COMP LOG POT eat thing
+\l Ama wants to eat.
+
+\t Ámã́ dí  bé jè n ɖù nṹ  .
+\g Ama want COMP LOG JUSS eat thing
+\l Intended: `Ama wants to eat.
+
+\t Kòfí bé Ámã́ kã́_ɖó_é_dí  bé Àkú lá ɖù nṹ  .
+\g Kofi say Ama be.certain COMP Aku POT eat thing
+\l Kofi said Ama is certain that Aku will eat.
+
+\t Kòfí bé Ámã́ kã́_ɖó_é_dí  bé Àkú n ɖù nṹ  .
+\g Kofi say Ama be.certain COMP Aku JUSS eat thing
+\l Kofi said Ama is certain that Aku should eat.
+
+\t Kòfí_1 bé Ámã́_2 kã́_ɖó_é_dí  bé jè_1/2 lá ɖù nṹ  .
+\g Kofi say Ama be.certain COMP LOG POT eat thing
+\l Kofi said Ama is certain that he/she (= Kofi/Ama) will eat.
+
+\t Kòfí_1 bé Ámã́_2 kã́_ɖó_é_dí  bé jè_1/*2 n ɖù nṹ  .
+\g Kofi say Ama be.certain COMP LOG JUSS eat thing
+\l Kofi said Ama is certain that he ( = Kofi) should eat.
+
+\t Kofi yi Lome be ye-a-ƒle avØ .
+\g Kofi go Lome COMP LOG-SUBJ-buy cloth
+\l Kofi went to Lome to buy cloth.
+
+\t Kofi wØ be e/*ye dzo .
+\g Kofi do COMP 3SG/LOG leave
+\l Kofi caused himself to leave.' (:96)
+

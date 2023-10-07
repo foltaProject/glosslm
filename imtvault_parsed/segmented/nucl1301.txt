@@ -1,0 +1,749 @@
+\t Can  pro anne-si -ni eleştir-di .
+\g John his mother-3SG-ACC criticize-PAST
+\l John criticized his mother.
+
+\t Mete-yse e öv-dü .
+\g Mete-however  praise-PAST
+\l Lit. Meter, however, praised e.
+
+\t Can   pro oğl-u  İngilizce öğren-iyor diye  bil-iyor .
+\g John his son-3SG English learn-PRES COMP know-PRES
+\l John knows that his son learns English.
+
+\t Filiz-se  e Fransızca öğren-iyor diye  bil-iyor .
+\g Phylis-however  French learn-PRES COMP know-PRES
+\l Lit. Phylis, however, knows that e learns French.
+
+\t Can üç hırsız yakala-dı .
+\g John three burglar catch-PAST
+\l John caught three burglars.
+
+\t Filiz-se e sorgula-dı .
+\g Phylis-however  interrogate-PAST
+\l Lit. Phylis, however, interrogated e.
+
+\t Üç öğretmen Can-ı eleştir-di .
+\g three teacher John-ACC criticize-PAST
+\l Three teachers criticized John.
+
+\t e Filiz-i-yse öv-dü .
+\g  Phylis-ACC-however praise-PAST
+\l Lit. e praised Phylis, however.
+
+\t (Ben) bu makale-yi yavaşyavaş oku-yacağ-ım .
+\g (I) this article-ACC slowly read-FUT-1
+\l I will read this article slowly.
+
+\t (Biz) her hafta sinema-ya gid-er-iz .
+\g (we) every week movie-DAT go-AOR-1
+\l We go to the movies every week.
+
+\t doǧum yer-i
+\g birth place-POSS.3SG
+\l birth place
+
+\t (siz-in) doǧum yer-iniz
+\g you.PL-GEN birth place-POSS.2PL
+\l your birth place
+
+\t (siz-in) doǧum yer-iniz ve tarih-iniz
+\g you.PL-GEN birth place-POSS.2PL and date-POSS.2PL
+\l your birth place and date’, Kharytonava (2012: 175)
+
+\t *(siz-in) doǧum-in yer ve tarih-iniz
+\g you.PL-GEN birth- place and date-POSS.2PL
+\l your birth place and date’ (intended)
+
+\t Ben dun aksam cok guzel bir biftek yedim .
+\g I yesterday evening very nice a steak ate
+\l Yesterday evening, I ate a very nice steak.
+
+\t Ben bifteg-i dun aksam   t yedim  .
+\g I steak-ACC yesterday evening   ate
+\l I ate the steak yesterday evening.
+
+\t Işte sana bir dilim kek .
+\g PART you.DAT a slice cake
+\l Here’s you a slice of cake.
+
+\t Hasan   birşey-I gezdir-en bir çocuk -la konuş-muş .
+\g Hasan  something-ACC walk-NOM one child-COM talk-EVD
+\l Apparently, Hasan spoke with a child that walked something.
+
+\t Evet , köpeğ-i .
+\g Yes dog-ACC
+\l Yes, a dog.
+
+\t Hasan   kedi-yi gezdir-en bir çocuk -la konuş-tu .
+\g Hasan  cat-ACC walk-NOM one child-COM talk-PST
+\l Hasan spoke with a child that walked a cat.
+
+\t Hayır , köpeğ-i .
+\g no dog-ACC
+\l No, a dog.
+
+\t *{Evet / Hayır} , (O) köpeğ-i-y-di
+\g yes no it dog-ACC-COP-PST
+\l {Yes/No}, it was a dog.
+
+\t Ali   Ayşe-yi bir sebepten davet ed-en adam -a kız-dı .
+\g Ali  Ayşe-ACC a reason invitation make-NOM man-DAT get.angry-PST
+\l Ali is angry at the man that Ayşe invited for a particular reason.
+
+\t *Evet , mecburiyetten .
+\g yes out.of.obligation\t Hasan   ne-yi gezdir-en bir çocuk -la konuş-tu ?
+\g Hasan  what-ACC walk-NOM one child-COM talk-PST
+\l What thing was it such that Hasan spoke with a child that walked that thing?
+
+\t *Ali   Ayşe-yi niye davet ed-en adam -a kız-dı ?
+\g Ali  Ayşe-ACC why invitation make-NOM man-DAT get.angry-PST
+\l What reason was it such that Ali was angry at the man who Ayşe invited for that reason?
+
+\t   Hasan iş-in-i bit-ir-ip   ev-in-e git-ti .
+\g Hasan work-3.POSS-ACC end-CAUS-SS.CVB house-3.POSS.DAT go-PST.3
+\l Hasan finished his work and went home.
+
+\t *  Hasan iş-in-i bit-ir-ip   Ali ev-in-e git-ti .
+\g Hasan work-3.POSS.ACC end-CAUS-SS.CVB Ali house-3.POSS.DAT go-PST.3
+\l intended: ‘Hasan finished his work and Ali went home.
+
+\t Bu hava-da   ev-de otur-ma-yıp   yürüyüş-e çık-malı-yız .
+\g this weather-LOC house-LOC sit-NEG-SS.CVB walk-DAT leave-DEB-1PL
+\l In this weather we must not stay indoors but go out for a walk.
+
+\t   Tam o saat-te Semra iş-i bırak-ıp   Ahmet işbaşı yap-ıyor .
+\g exactly that time-LOC Semra work-ACC leave-SS.CVB Ahmet clocking.on do-IPFV.3
+\l At exactly that time Semra leaves work and Ahmet goes on duty.
+
+\t   Bu kitap yüz sayfa ol-up   fiyat-ı iki lira-dir .
+\g this book 100 pages be-SS.CVB price-3.POSS two lira-COP
+\l This book contains 100 pages and its price is two lira.
+
+\t  ? ?Ahmet mağaza-ya git-ti ve ne al-dı ?
+\g Ahmet store-DAT go-PST.3 and what buy-PST.3\t Ahmet mağaza-ya gid-ip ne al-dı ?
+\g Ahmet store-DAT go-SS.CVB what buy-PST.3
+\l What did Ahmet go to the store and buy?
+
+\t   Ev-e gel-ip   yemeğ-i pişir-me-ye başla-dı-m .
+\g house-DAT come-SS.CVB food-ACC cook-AN.DAT start-PST.1SG
+\l I came home and started cooking.
+
+\t   Ev-e gel-ince   yemeğ-i pişir-me-ye başla-dı-m .
+\g house-DAT come-CVB food-ACC cook-AN.DAT start-PST.1SG
+\l When she/I came home, I started cooking.
+
+\t *  Nurhan ev-e gel-ip   (ben) yemeğ-i pişir-me-ye başla-dı-m .
+\g Nurhan house-DAT come-SS.CVB 1SG.NOM food-ACC cook-AN.DAT start-PST.1SG
+\l intended: ‘When Nurhan came home, I started cooking.
+
+\t *  Nurhan ev-e gel-ip   Umut yemeğ-i pişir-me-ye başla-dı-m .
+\g Nurhan house-DAT come-SS.CVB Umut food-ACC cook-AN.DAT start-PST.1SG
+\l intended: ‘When Nurhan came home, Umut started cooking.
+
+\t   Tüm gece koş-up   Selcen-’in ayakkabı-sı yıpran-dı .
+\g all night run-SS.CVB Selcen-GEN shoe-3.POSS wear.out-PST.3
+\l Selcen ran all night long and her shoes wore out.’, lit. ‘Running all night long, Selcen’s shoes wore out.
+
+\t   Çok genç ol-up   oğl#(-u) yok .
+\g very young be-SS.CVB son-3.POSS NEG
+\l Being very young, s/he does not have a son.’ lit., ‘Being very young, his/her son does not exist.
+
+\t   Çok genç ol-up   araba#(-sı) yok .
+\g very young be-SS.CVB car-3.POSS NEG
+\l Being very young, s/he does not have a car.’ lit., ‘Being very young, his/her car does not exist.
+
+\t Genç kadın   ağla-ya ağla-ya   hikaye-si-ni anlat-tı .
+\g young woman cry-SS.CVB cry-SS.CVB story-3.POSS.ACC tell-PST.3
+\l The young woman told her story, weeping continually.
+
+\t   Çalış-a çalış-a   bilgisayar#(-ım) boz-ul-du .
+\g work-SS.CVB work-SS.CVB computer-1SG.POSS break-PASS-PST.3
+\l I was working and working and my computer broke.
+
+\t   Yürü-ye yürü-ye   ayağ#(-ım) ağrı-dı .
+\g walk-SS.CVB walk-SS.CVB foot-1SG.Poss hurt-PST.3
+\l I was walking and walking and my legs hurt.
+
+\t   Yürü-ye yürü-ye   ayakkabı#(-m) yıpran-dı .
+\g walk-SS.CVB walk-SS.CVB shoe-1SG.POSS wear.out-PST.3
+\l I was walking and walking and my shoes wore out.
+
+\t Araba-nın motor-u boz-ul-up tekerlek-ler-i dur-du .
+\g car-GEN engine-3SG.POSS break-PASS-SS.CVB wheel-PL-TSG.POSS stop-PST.3
+\l The car’s engine broke and its wheels stopped.
+
+\t  Sen-in sɪnav-ɪ geç-tiɡ̆-in -i bil-iyor-um .
+\g you-GEN test-ACC pass-FIN-2SG-ACC know-PRES.PROG-1SG
+\l I know that you passed the exam.
+
+\t  Sen-in sɪnav-ɪ geç-me-n -i isti-yor-um .
+\g you-GEN test-ACC pass-NFIN-2SG-ACC want-PRES.PROG-1SG
+\l I want that you should pass the exam.
+
+\t  Ali sɪnav-ɪ geç-ecek  san-ɪyor-um .
+\g Ali.NOM test-ACC pass-FUT believe-PRES.PROG-1SG
+\l I believe Ali will pass the test.
+
+\t Hasan bir kitap aldı .
+\g Hasan a book bought
+\l Hasan bought a book
+
+\t Hasan bir kitab-ı aldı .
+\g Hasan one book-ACC bought
+\l Hasan bought one book
+
+\t *Bir kitap Hasan aldı .
+\g a book Hasan bought
+\l Hasan bought a book
+
+\t Bir kitab-ı Hasan aldı .
+\g one book-ACC Hasan bought\t Hasan kitab-ı tamamen okudu .
+\g Hasan book-ACC completely read
+\l Hasan read the book completely.
+
+\t *Hasan tamamen kitab-ı okudu .
+\g Hasan completely book-ACC read\t Hasan tamamen kitap okudu .
+\g Hasan completely book read
+\l Hasan read a book completely.
+
+\t Ahmet  bu kitab å Berna’ya vermis8
+\g Ahmet(NOM) this book-ACC Berna’-DAT give-PST-3SG
+\l Ahmet gave this book to Berna
+
+\t  Sen ev-de yemek pişir-ecek-sin  (diye) duy-du-m
+\g you(NOM) home-LOC food cook-FUT-2SG(verbal AGR) (saying) hear-PST-1SG
+\l (I) heard that you will cook food at home.
+
+\t  Sen-in ev-de yemek pişir-eceğ-in -i duy-du-m
+\g you- home-LOC food cook-FUT-2SG-ACC hear-PST-1SG\t sen-in şapka-n
+\g you-GEN hat-2SG
+\l your hat
+
+\t Biz sen gel-di-n diye düşün-dü-k .
+\g we(NOM) you(NOM) come-PST-2SG.VA C think-PST-1PL.VA
+\l We thought that you came.
+
+\t Biz sen-in gel-diğ-in-i düşündük
+\g we(NOM) you-GEN come-NOM-2SG.NA-ACC think-PST-1PL.VA
+\l We thought that you came.
+
+\t Ali bir piyano-yu kiralamak istiyor .
+\g Ali one piano-ACC to-rent wants
+\l Ali wants to rent a certain piano.
+
+\t Ali bir piyano kiralamak istiyor .
+\g Ali one piano to-rent wants
+\l Ali wants to rent a (nonspecific) piano.
+
+\t Hasan-ɪn kitab-ɪn
+\g Hasan-GEN book-POSS.3SG
+\l Hasan’s book
+
+\t Her öğrenci bir kitap / bir kitab-ı oku-du .
+\g every student a book / a book-ACC read-PST
+\l Every student read a book.
+
+\t Çay ben __ iç-me-di-m .
+\g tea I  drink-NEG-PST-1SG
+\l I did not do tea-drinking.
+
+\t Öğretmen (ödev) öğrenci-ler-e (ödev) ver-di-∅ .
+\g teacher.NOM homework student-PL-DAT homework give-PFV-3
+\l The teacher gave homework to the students.
+
+\t *Kitap Ali  Ayşe-nin __ oku-duğ-un -u biliyor .
+\g book Ali.NOM Ayse-GEN  read-NMLZ-3SG-ACC know.PRS.3SG
+\l Ali knows that Ayse does book-reading.
+
+\t *Kitap Ali  Ayşe-nin __ oku-mas-ın -ı istedi .
+\g book Ali.NOM Ayse-GEN  read-NMLZ-3SG-ACC want.PST.3SG
+\l Ali wants Ayse to do book-reading.
+
+\t Kitap ben  Ali-nin __ oku-duğ-un -u düşün-mü-yor-um .
+\g book I Ali-GEN  read-NMLZ-3SG-ACC think-NEG-PRS-1SG
+\l I don’t think that Ali does book-reading.
+
+\t Kitap Ayşe  Ali-nin __ oku-duğ-un -u söyle-m-iyor-∅ .
+\g book Ayşe.NOM Ali-GEN  read-NMLZ-3SG-ACC say-NEG-IPFV-3
+\l Ayşe doesn’t say that Ali does book-reading.
+
+\t Öğretmen öğrenci-ler-e ödev ver-di-∅ .
+\g teacher student-PL-DAT homework give-PFV-3
+\l The teacher did homework-giving to the students.
+
+\t Öğretmen  ödev ver-di-∅  öğrenci-ler-e __
+\g teacher homework give-PFV-3 student-PL-DAT 
+\l What the teacher did to the students was homework-giving.
+
+\t  Ödev ver-di-∅  öğretmen öğrenci-ler-e __
+\g homework give-PFV-3 teacher student-PL-DAT 
+\l What the teacher did to the students was homework-giving.
+
+\t  Kitap oku-duğ-un -u ben  Ali-nin __    düşün-mü-yor-um .
+\g book read-NMLZ-3SG-ACC 1SG.NOM Ali-GEN  think-NEG-IPFV-1SG
+\l I don’t think that Ali does book-reading.
+
+\t  Kitap oku-duğ-u -nu ben  Ali-nin __    söyle-m-iyor-um .
+\g book read-NMLZ-3SG-ACC 1SG.NOM Ali-GEN  say-NEG-IPFV-1SG
+\l I don’t say that Ali does book-reading.
+
+\t   Hızlıca kitab-ı __   ben  Ali-nin __ oku-duğ-u -nu düşün-m-üyor-um .
+\g  quickly book-ACC  1SG.NOM Ali-GEN  read-NMLZ-3SG-ACC think-NEG-IPFV-1SG
+\l I don’t think that Ali read (s) the book rapidly.
+
+\t Ali-nin ben  anne-si-nin dün kitap oku-duğ-u -nu duy-du-m .
+\g Ali-GEN 1SG.NOM mother-POSS.3SG-GEN yesterday book read-NMLZ-3SG-ACC hear-PFV-3SG
+\l I have heard that Ali’s mother read books yesterday.
+
+\t Anne-si dün kitap oku-du-∅ Ali-nin .
+\g mother-POSS.3SG yesterday book read-PFV-3 Ali-GEN
+\l Ali’s mother read books yesterday.
+
+\t Ali-nin dün kitap oku-du-∅ anne-si .
+\g Ali-GEN yesterday book read-PFV-3 mother-POSS.3SG
+\l Ali’s mother read books yesterday.
+
+\t *Anne-si-nin ben  Ali-nin dün kitap oku-duğ-u -nu duy-du-m .
+\g mother-POSS.3SG-GEN 1SG.NOM Ali-GEN yesterday book read-NMLZ-3SG-ACC hear-PFV-3SG
+\l I have heard that Ali’s mother read books yesterday.
+
+\t Ali uyku uyu-yor .
+\g Ali sleep sleep-IMPF
+\l Ali is sleeping (a sleep).
+
+\t Yağmur yağ-iyor .
+\g rain rain.PROG.PRES.3SG
+\l It is raining.
+
+\t    _ geçen yaz ada-da ben-i gör-en   kişi-ler  
+\g  _ last summer island-LOC I-ACC see-(SPart) person-PL
+\l the people who saw me on the island last summer
+
+\t Neden kiminle iciyolar ? Asil sorun ictikleri !
+\g why with.who they.drink real issue that.they.drink
+\l Why who are they drinking with?! The real issue is that they’re drinking!
+
+\t Nasil kiminle iciyolar ? …
+\g how with.who they.drink 
+\l Why who are they drinking with? …
+
+\t Şirket öğrenci-ler-in yüz-de yetmiş-in-i istihdam .et-ti
+\g company student-PL-GEN hundred-LOC seventy-POSS.ACC hire-PST
+\l The company hired seventy percent of the students
+
+\t Şirket yüz-de yetmiş öğrenci istihdam .et-ti
+\g company hundred-LOC seventy student hire-PST
+\l Seventy percent of those hired by the company were students.
+
+\t *Şirket öğrenci-ler-in çoğunlukla-sın-ı/sadece-sin-i istihdam .et-ti
+\g company student-PL-GEN mostly-POSS-ACC/only-POSS.ACC hire-PST\t Şirket çoğunlukla/sadece öğrenci istihdam .et-ti
+\g company mostly/only student hire-PST
+\l The company hired mostly/only students
+
+\t Şirket çoğunlukla/sadece öğrenci-ler-i istihdam .et-ti
+\g company mostly/only student-PL-ACC hire-PST
+\l The company hired mostly/only the students
+
+\t *Şirket yüz-de yetmiş öğrenci-ler-i istihdam .et-ti
+\g company hundred-LOC seventy student-PL-ACC hire-PST\t  Şirket t₁ öğrenci istihdam .et-ti  çoğunlukla₁/sadece₁
+\g company  student hire-PST mostly/only
+\l The company hired mostly/only students
+
+\t * Şirket t₁ öğrenci istihdam .et-ti  yüz-de yetmiş₁
+\g company  student hire-PST hundred-LOC seventy\t yüz-de yetmiş öğrenci 
+\g hundred-LOC seventy student 
+\l 70% students
+
+\t öğrenci-ler-in yüz-de yetmiş-i (proportional)
+\g student-PL-GEN hundred-LOC seventy-POSS 
+\l 70% of the students
+
+\t o öğrenci-ler-in yüz-de yetmiş-i
+\g that student-PL-GEN hundred-LOC seventy-POSS
+\l seventy percent of those students
+
+\t *yüz-de yetmiş o öğrenci(-ler)
+\g ‘hundred-LOC seventy that student(-PL)\t Ali-nin araba-(sı)
+\g Ali-GEN car-POSS
+\l Ali’s car’ (the car that Ali owns/likes/chose etc.)
+
+\t kadın-ın katil-i
+\g woman-GEN murderer-POSS
+\l the murderer of the woman
+
+\t kadın-ın katil
+\g woman-GEN murderer
+\l # ‘The murderer of the woman’ ‘the murderer the woman hired/chose/liked etc.
+
+\t öğretmen-in hala*(-sı)
+\g teacher-GEN aunt-POSS\t bina-nın yıkım*(-ı)
+\g building-GEN demolition-POSS\t masa-nın kenar*(-ı)
+\g table-GEN edge-POSS\t *öğrenci-ler-in yüz-de yetmiş
+\g student-PL-GEN hundred-LOC seventy
+\l 70% of the students
+
+\t Şirket kadın-lar-ın yüzde yetmiş-in(-i) işe aldı
+\g company woman-PL-GEN hundred-LOC seventy-POSS-ACC job.DAT take.PST
+\l The company hired 70% of the women.
+
+\t Şirket (işe) yüz-de yetmiş kadın(/-ı) aldı
+\g company job.DAT hundred-LOC seventy woman-ACC take.PST
+\l The company hired 70% women.
+
+\t Ali (*güzel) şarkıyı güzel söyledi
+\g Ali beautiful.ADV song-ACC beautiful.ADV say.PST
+\l Ali sang the song beautifully
+
+\t Ali güzel şarkı (*güzel) söyledi
+\g Ali beautiful.ADV song beautiful.ADV say.PST
+\l Ali sang (a song) beautifully.
+
+\t Ahmet (*tamamen) kitap-lar-ın yüz-de yetmiş-in-i tamamen okudu .
+\g Ahmet completely book-PL-GEN hundred-LOC seventy-POSS-ACC completely read
+\l Ahmet read seventy percent of the books completely.
+
+\t Şirket hemen (işe) yüz-de yetmiş kadın (*hemen) aldı .
+\g company immediately job.DAT hundred-LOC seventy woman immediately take.PST
+\l The company hired seventy percent women immediately.
+
+\t Çocuk-lar çok çalış-tı(-lar)
+\g child-PL a.lot work-PST-3PL
+\l The children worked hard.
+
+\t Öğrenci-ler-in yüz-de yetmiş-i bu şirket-te çalış-ıyor(-lar)
+\g student-PL-GEN hundred-LOC seventy-POSS this company-LOC work-IMPF-3PL
+\l Seventy percent of the students work in this company.
+
+\t Bu şirket-te yüz-de yetmiş öğrenci çalış-ıyor(*-lar)
+\g this company-LOC hundred-LOC seventy student work-IMPF-3PL
+\l In this company, seventy percent of the workers are students.
+
+\t */ ? ?Yüz-de yetmiş öğrenci bu şirket-te çalış-yor
+\g hundred-LOC seventy student this company-LOC work-IMPF\t (Bu şirkette) yüz-de 70 öğrenci çalışıyor
+\g (This company-LOC) hundred-LOC 70 student work.IMPF
+\l %70 of the workers (in this company) are students
+
+\t Bu şirket-te yüz-de 70  Türk öğrenCI  çalışıyor .
+\g this company-LOC hundred-LOC 70 Turkish student work.IMPF
+\l %70 of the workers in the company are students from Turkey.
+
+\t Bu şirket-te yüz-de 70  TÜRK  öğrenci çalışıyor
+\g this company-LOC hundred-LOC 70 Turkish student work.IMPF
+\l %70 of the student workers in the company are from Turkey.
+
+\t If φ has two daughters , α and β , of type <e ,t>
+\g Then ⟦ φ ⟧ = {λx. g(x) ∧ h(x): g ∈ ⟦α ⟧, h ∈ ⟦β ⟧}\t Öğrenci-ler-in yüz-de yetmiş-i suşi-yi ÇATAL ile yedi .
+\g student-PL-GEN hundred-LOC seventy-POSS sushi-ACC fork with eat.PST
+\l 70% of the students who ate sushi ate it with a fork.
+
+\t Öğrenci-ler-in yüz-de yetmiş-i SUŞI-YI çatal ile yedi .
+\g student-PL-GEN hundred-LOC seventy-POSS sushi-ACC fork with eat.PST
+\l 70% of the students who ate something with a fork ate sushi with a fork.
+
+\t ‘Few of the applicants are cooks’
+\g ‘Few of the cooks applied.’\t #‘Few of those who know how to make a soufflé are cooks .’
+\g ‘Few of the cooks know how to make a soufflé.’\t #Yüz-de yetmiş kadın siyah saçlı-Ø
+\g hundred-LOC seventy woman black haired-COP
+\l Int. ‘Seventy percent of the people who have black hair are women.
+
+\t #Yüz-de yetmiş kadın 160 santim-den uzun-Ø
+\g hundred-LOC seventy woman 160 cm-ABL tall-COP
+\l Int. ‘Seventy percent of the people who are taller than 160 cm are women.
+
+\t #Yüz-de yetmiş kadın sufle yapmayı biliyor .
+\g hundred-LOC seventy woman soufflé make.NMZ know.IMPF
+\l Int. ‘Seventy percent of those who can make a soufflé are women.
+
+\t Hasan üç /pek .çok/çok .az/birkaç kitap okudu .
+\g Hasan three /many/few/some book read.PST
+\l Hasan read three/many/few/some books.
+
+\t Hasan çoğu/her kitap*(-ı) okudu
+\g Hasan most/every book-ACC read.PST
+\l Hasan read most/every book(s).
+
+\t Şirket kadın-lar-ın yüz-de yetmiş-in(-i) işe .aldı
+\g company woman-PL-GEN hundred-LOC seventy-POSS-ACC hire.PST
+\l The company hired %70 of the women.
+
+\t Adam kitabı çocuğa verdi .
+\g man book-ACC child-DAT give.PST
+\l The man gave the book to the child.
+
+\t yüz-de yetmiş öğrenci-(*ler)
+\g hundred-LOC seventy student-PL
+\l seventy percent students
+
+\t üç öğrenci-(*ler)
+\g three student-PL
+\l three students
+
+\t  ?Ayşe Merve-nin işe .aldığı yüz-de yetmiş kadın-ı kovdu .
+\g Ayşe Merve-GEN hire.REL hundred-LOC seventy woman-ACC fire.PST
+\l Ayşe fired the seventy percent women that Merve hired.’ # ‘Ayşe fired seventy percent of the women that Merve hired.
+
+\t If φ has two daughters , α and β , where α is of type <σ ,τ> and β is of type σ
+\g Then ⟦ φ ⟧ = {g(h): g ∈ ⟦ α ⟧, h ∈ ⟦ β ⟧}\t  ? ?/* Yüz-de 70 kadın siyah saçlı-Ø
+\g  hundred-LOC 70 woman black haired-COP
+\l 70% of the people who have dark hair are women.
+
+\t YOLISA-ka 90-puhlo swuphulley-lul mantul-cwul-anta
+\g cook-NOM 90-percent souffle-ACC know-how.to-make
+\l %90 of those who know how to make a souffle are cooks.
+
+\t Ahmet-ler biz-e gel-di .
+\g Ahmet-PL we-DAT come-PAST
+\l (i) ‘Ahmet and his family/friends/associates came to us together (collective)’ (ii) *‘Ahmet and his family/friends/associates came to us at different times (distributive)
+
+\t Neu-e Film- sehen yapiyor .
+\g new film- see do
+\l Seeing a new film.
+
+\t Adam gel-di
+\g man.NOM come-PST
+\l The man came.
+
+\t Öǧretmen adam-ı gör-dü
+\g teacher man-ACC see-PST
+\l The teacher saw the man.
+
+\t kara-sını / kızıl-ını aldım
+\g black-ATTR:ACC _ red-ATTR:ACC I_bought
+\l (Which pen did you buy?) ‘I bought a/the black / red one.
+
+\t Adam kitab-ı okudu , çocuk da dergi-yi .
+\g homme livre-ACC lire.PST.3SG enfant CONJ revue-ACC
+\l L’homme a lu le livre et l’enfant la revue.
+
+\t Adam kitab-ı okudu , dergi-yi de çocuk .
+\g homme livre-ACC lire.PST.3SG revue-ACC CONJ enfant
+\l L’homme a lu le livre et l’enfant la revue.
+
+\t dilbilim öğrenci-si
+\g linguistics student-CM
+\l linguistics student
+
+\t (çalışkan) dilbilim (*çalışkan) öğrenci-si
+\g (diligent) linguistics diligent student-CM
+\l diligent linguistics (*diligent) student
+
+\t  en çabuk nasıl zengin ol-un-duğ-u  (*ilginç) soru-su
+\g most fast how rich become-PASS-FACT-NOM-3.SG (interesting) question-CM
+\l The (interesting) question (of) how one gets rich fastest
+
+\t  en çabuk nasıl zengin ol-un-ur  (*ilginç) soru-su
+\g most fast how rich become-PASS-AORIST interesting question-CM
+\l The “how does one get rich fastest” (*interesting) question
+
+\t širið-u ɣavurmas
+\g PORK-CM kavurma
+\l pork kavurma
+
+\t širið-u ɣavurma-lu-s
+\g PORK-CM KAVURMA-REL-NOM.SG
+\l with pork kavurma
+
+\t zejtin-u alima-suz-i
+\g OLIVE-CM OIL-PRV-NOM.SG
+\l without olive oil
+
+\t yemek oda-sı
+\g food room-CM
+\l dining room
+
+\t Çağla-nın oda-sı
+\g Çağla-GEN.3SG room-POSS.3SG
+\l Çağla's room
+
+\t Çağla-nın yemek oda-sı / *oda-sı-sı
+\g Çağla-GEN.3SG food room-POSS.3SG / room-CM-POSS.3SG
+\l Çağla's dining room
+
+\t yemek oda-lar-ı / *oda-sı-lar
+\g food room-PL-CM / room-CM-PL
+\l dining rooms
+
+\t Çağla-nın oda-lar-ı
+\g Çağla-GEN.3SG room-PL-POSS.3SG
+\l Çağla's rooms
+
+\t lise-ye yeni başla-yan ergen tavr-ı
+\g high.school-DAT new start-SBJREL adolescent attitude-CM
+\l [adolescent who has just started high school] attitude
+
+\t şıllık tatlı-sı
+\g hussy dessert-CM
+\l a type of baklava-like dessert
+
+\t şıllık tatlı-cı-sı
+\g hussy dessert-DER-CM
+\l someone who makes/sells the dessert in (ex:59a)
+
+\t polis orantısız güç kullan-dı-Ø haber-i
+\g police disproportionate force use-PST-3SG news-CM
+\l the news that the police used disproportionate force
+
+\t polis-in orantısız güç kullan-dığ-ı haber-i
+\g police-GEN.3SG disproportionate force use-FNOM-3SG news-CM
+\l the news that the police used disproportionate force
+
+\t RELC tu čo kateš ɣwoses o nomat-u xáli
+\g _ that not understand.3SG languages the.NOM.SG man-CM situation
+\l int.: `[the man who does not listen to reason] situation
+
+\t “tavuk-mu-yumurta-mı” soru-su
+\g chicken-Q-egg-Q question-CM
+\l is-it-the-chicken-or-the-egg? question
+
+\t “Bekle , gör-ür-üz” kafa-sı/tutum-u
+\g wait see-AOR-1PL head-CM/attitude-CM
+\l wait-and-(we shall) see-thinking/attitude
+
+\t yavasca sözcü-gü
+\g slowly word-CM
+\l (the) word slowly
+
+\t yan-ar dön-er meyva
+\g burn-PTCP turn-PTCP fruit
+\l Lit. `burning-turning fruit
+
+\t ana baba gün-ü
+\g mother father day-CM
+\l (a) crowded (place)
+
+\t baba-lar ve ogul-lar toplanti-si
+\g father-PL and son-PL meeting-CM
+\l fathers-and-sons meeting
+
+\t tabiat-a dön-üs politika-si
+\g nature-DAT return-NOM policy-CM
+\l return-to-nature-policy
+
+\t  Ne paha-sin-a olur-sa ol-sun tabiat-i kurtar-ma  politika-si
+\g what cost-3SG-DAT be-COND be-OPT nature-ACC save-NFNOM policy-CM
+\l Saving nature whatever the cost policy
+
+\t  ic camasir-in-i göster-me  oyun-u
+\g internal laundry-3SG-ACC show-nfnom game-CM
+\l showing-your-underwear-game
+
+\t  Köy-ü bir haydut-un bas-tığ-ın -ı duy-du-m .
+\g village-ACC a robber-GEN raid-FN-3SG-ACC hear-PST-1SG
+\l I heard that a (certain) robber raided the village.’ (specific)
+
+\t  Köy-ü haydut bas-tığ-ın -ı duy-du-m .
+\g village-ACC robber raid-FN-3SG-ACC hear-PST-1SG
+\l I heard that robbers raided the village.’ (non-specific, generic)
+
+\t  (bir)ari-nin bugün cocug-u sok-tug-un -u duy-du-m
+\g bee-GEN today child-ACC sting-F.NOM-3SG-ACC hear-PST-1SG
+\l I heard that the bee/a bee (+specific) stung the child today.
+
+\t  cocug-u bugün (bir)ari sok-tug-un -u duy-du-m
+\g child-ACC today bee sting-F.NOM-3SG-ACC hear-PST-1SG
+\l I heard that today bees/a bee [-specific] stung the child.
+
+\t * (bir)ari Ø cocug-u bugün sok-tug-un -u duy-du-m
+\g bee _ child-ACC today sting-F.NOM-3SG-ACC hear-PST-1SG
+\l I heard that today bees/a bee [-specific] stung the child.
+
+\t Nermin okul-a git-miş=mı ?
+\g PN school-DAT go-PFV.EV=Q
+\l Has Nermin gone to school?
+
+\t Nermin okul-a=mı git-miş ?
+\g PN school-DAT=Q go-PFV.EV
+\l Has Nermin gone to school?
+
+\t Cemal okul-a git-ti=mi , (yoksa) git-me-de=mi ?
+\g PN school-DAT go-PFV=Q (or) go-NEG-PFV=Q
+\l Did Cemal go to school or not?
+
+\t Ev-e ne zaman gid-ecek-sin ?
+\g home-DAT what time go-FUT-2SG
+\l When will you be going home?’ (: 257, 254, 259)
+
+\t Cemal bugün okul-a git-me-di , değil mi ?
+\g PN today school-DAT go-NEG-PFV NEG Q
+\l Cemal didn’t go to school today, did(n’t) he?
+
+\t Esra Handan-ın abla-sı-ymış , öyle mi ?
+\g PN PN-GEN elder.sister-3SG.POSS-EV.COP so Q
+\l So Esra is Handan’s elder sister, right?’ (: 253)
+
+\t Hasan  kitab-ı san-a ver-diğ-im için  çok kız-dı .
+\g Hasan book-ACC you-DAT give-F.NMLZ-1SG for very angry-PST
+\l Hasan got very angry because I gave the book to you.
+
+\t Dün “Suç ve Ceza” okudum – kitap harikaydı .
+\g yesteday “Crime and Punishment read-PST _ book terrific-PST
+\l Yesterday I read Crime and Punishment. The book was terrific.
+
+\t Kel kartal , Kuzey Amerika'da bulunur Güç ve hız-ın sembolü olarak tanınır . Ayerica , kuşun gözleri oldukça keskindir
+\g bald eagle North America-LOC is_found strength and speed-GEN symbol as recognized also bird-GEN eyes quite sharp
+\l The bald eagle is found in North America. It is the symbol of strength and speed. Also, the bird's eyes are quite sharp.
+
+\t Daha iyi ol-du .
+\g more good become-PRF.3SG
+\l It became better.
+
+\t al-mille tākl-u b-arð̣ al-laḥam
+\g DEF-people eat.IMPF.3SG.F-3SG.M in-place DEF-meat
+\l The people eat it instead of meat.
+
+\t b-arð̣-in tibči ʔigir āya
+\g in-place-LINK cry.IMPF.2SG.M read.IMP.SG.M verse
+\l Instead of crying recite a (Koranic) verse!
+
+\t baba-m çoban-dır
+\g father-POSS.1SG shepherd-3SG
+\l My father is a shepherd.
+
+\t hasta değil-ler
+\g sick NEG.COP-3PL
+\l They are not sick.
+
+\t qazan sāwa
+\g win do.PRF.3SG.M
+\l to win
+
+\t išāret sāwa
+\g sign do.PRF.3SG.M
+\l to sign
+
+\t kedi ve köpek-ler-im-e
+\g cat and dog-PL-1SG-DAT
+\l to my cat(s) and dogs
+
+\t Ali elmalar-i ser-me-di-∅ .
+\g Ali apples-ACC like-NEG-PST-3SG
+\l Ali didn't like apples.
+
+\t Git-me-yeceg̃-∅-im
+\g go-NEG-FUT-COP-1SG
+\l I will not come.
+
+\t Jablaka-ttan ikki-ni / ikki-te sie . (*Jablaka-ta . . .)
+\g apple-ABL two-ACC / two-PART eat.IMP (*apple-PART)
+\l Eat two of the apples!
+
+\t Jablaka-ttan sie !
+\g apple-ABL eat.IMP
+\l Eat some of the apple/apples.
+
+\t Ali bir piyano-yu kiralamak istiyor .
+\g Ali one piano-acc to-rent wants
+\l Ali wants to rent a certain piano.
+
+\t Ali bir piyano kiralamak istiyor .
+\g Ali one piano to-rent wants
+\l Ali wants to rent a (non-specific) piano.
+
+\t Mehmet kitab-i oku-du
+\g _ book-ACC read-PAST
+\l Mehmet read the book.
+
+\t Hasan Elif-in gel-diğ-in-i biliyor .
+\g Hasan Elif-GEN come-DIK-3POSS-ACC knows
+\l Hasan knows that Elif came/is coming/will come.
+

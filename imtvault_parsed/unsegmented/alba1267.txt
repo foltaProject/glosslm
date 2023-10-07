@@ -1,0 +1,144 @@
+\t Mami shkon / shkoj tani .
+\g mommy.the go.PRS.3 / go.PRS.1 now
+\l Mommy is going (away) now.’ (speaker-imposter)
+
+\t djali
+\g boy(M)=DEF:M.SG
+\l the boy
+
+\t djali i mire
+\g boy(M)=DEF:M.SG ATTR:DEF.M.SG good.M.SG
+\l the good boy
+
+\t i miri djalë
+\g ATTR:DEF.M.SG good=DEF:M.SG boy(M)
+\l the GOOD boy
+
+\t shoku i mirë
+\g friend:DEF:NOM.SG.M NMLZ:NOM.SG.M good:NOM.SG.M
+\l the good friend
+
+\t ɲə́ djáʎə imírə
+\g one:M boy:INDEF.M M-good:M
+\l one good boy
+
+\t djáʎi imírə
+\g boy:DEF.M M-good:M
+\l the good boy
+
+\t misoingrə́nə / misotəngrə́nə
+\g half-M-mounted:M _ half-ACC.M-mounted:M
+\l half-mounted
+
+\t libri i msusɛs
+\g book-M.SG.NOM.DEF LKR.M.SG.NOM.DEF teacher-F.SG.OBL.DEF
+\l the book of the teacher
+
+\t kɑ:ma ɛ tʃɛnit
+\g paw-F.SG.NOM.DEF LKR.F.SG.NOM.DEF dog-M.SG.OBL.DEF
+\l the paw of the dog
+
+\t paɾa librit t msusɛs
+\g before book-M.SG.OBL.DEF LKR.M.SG.OBL.DEF teacher-F.SG.OBL.DEF
+\l in front of the book of the teacher
+
+\t Ky ɑʃt i diɑlit .
+\g this is LKR boy-OBL.SG-DEF
+\l This is of the boy’s.
+
+\t Ky ɑʃt i ɲi diɑli .
+\g this is LKR a-obl.sg boy-OBL.SG
+\l This is of a boy’s.
+
+\t diɑlit t mɑð
+\g boy-OBL.M.DEF LKR.OBL grown-up.M
+\l (to) the big boy
+
+\t vɑizəs t mɑðɛ
+\g girl-OBL.F.DEF LKR.OBL grown-up.F
+\l (to) the big girl
+
+\t diemvɛ t mɑði
+\g boys-OBL.PL LKR.OBL grown-up.M.PL
+\l (to) the big boys
+
+\t diɑli i mɑð
+\g boy-NOM.M.DEF LKR.M grown-up.M
+\l (to) the grown-up boy
+
+\t Po krihem .
+\g PROG comb.1SG.NACT
+\l (i) ‘I am combing myself.
+
+\t Po kreh fëmijën .
+\g PROG comb.1SG.ACT child.the
+\l I am combing the child.
+
+\t Do t’u përgjigjem pyetjeve .
+\g FUT SBJV.CL.DAT.3PL answer questions.DAT
+\l I’ll answer the questions.
+
+\t Do t’i përgjigj pyetjet .
+\g FUT SBJV.CL.ACC.3PL answer questions.ACC
+\l intended: ‘I’ll answer the questions.
+
+\t Eva iu lut Benit (për muaj me rradhë) .
+\g Eva.NOM CL.3SG.DAT.NACT begged Ben.DAT for months on end
+\l Eva begged Ben (for months on end).
+
+\t Eva e luti Benin (për muaj me rradhë) .
+\g Eva.NOM CL.3SG.ACC begged.ACT.3SG Ben.ACC for months on end
+\l Eva begged Ben (for months on end).
+
+\t Mendohem *(për) të_ardhmen
+\g ponder.1SG.PRS.NACT for future.the.ACC
+\l I ponder/think about the future.
+
+\t Mendoj (për) të_ardhmen
+\g think.1SG.PRS.ACT about future.the.ACC
+\l I think about the future.
+
+\t Dielli u duk (*nga Zoti / qielli) .
+\g sun NACT appeared from/by God _ sky
+\l The Sun appeared (*by/from God / the sky).
+
+\t Krenohem (*nga djali) / për / me djalin .
+\g am.proud.PRS.NACT from/by son.the.NOM _ for _ with son.the.ACC
+\l I am proud of my son.
+
+\t Në rregull , po zhdukem atëhere .
+\g in order PROG disappear.NACT then
+\l OK, I (will) disappear then.
+
+\t I zhduka gjurmët .
+\g CL.3PL.ACC disappear traces
+\l I made the traces / evidence disappear.’ (i.e. ‘I destroyed the evidence’.)
+
+\t Duk diellin / gjurmët .
+\g appear.ACT sun.the _ traces.the
+\l I make the sun/the traces (i.e. evidence) appear.
+
+\t ky djali
+\g this boy.DEF
+\l this boy’ (Albanian)
+
+\t Ana e_i dinte  CP qe Eva kishte shkuar _i .
+\g Ana.the.NOM 3SG.CL.ACC knew _ that Eva had left
+\l Ana knew (it) that Eva had left.'(Albanian; )
+
+\t Nuk vajta (më) në bibliotekë .
+\g NEG go.PST.1SG (anymore) in library
+\l I didn't go to the library (anymore).
+
+\t S’vajta (më) në bibliotekë .
+\g NEG-go.PST.1SG (anymore) in library
+\l I didn't go to the library (anymore).
+
+\t Në mulli ka drithë e miell .
+\g in mill have.3SG grain and flour
+\l In the mill there is grain and flour.
+
+\t Ndër ne s’ka kundërshtime .
+\g among 1PL.ACC NEG-have.3SG objection.PL
+\l There are no conflicts among us.
+

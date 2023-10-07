@@ -1,0 +1,12 @@
+\t dobr-y cłowjek
+\g good-SG:M person(M)
+\l a good person
+
+\t dobr-e cłowjek-y
+\g good-PL person-PL
+\l good people
+
+\t k dobr-emu cłowjek-oju
+\g to good-SG:M:DAT person-SG:M:DAT
+\l to a good person
+

@@ -1,0 +1,448 @@
+\t àbátálíkígúlíràgànà
+\g AUG-they-NEG-FUT-it-buy-APPL-RECIP-FV
+\l they who will not buy it for each other
+
+\t Kizito asinga Kato obukulu
+\g Kizito nc1-exceed Kato aug-nc14-old
+\l Kizito is older than Kato.
+
+\t Kizito mukulu okusinga Kato
+\g Kizito nc1-old aug-nc15-exceed Kato
+\l Kizito is older than Kato.
+
+\t Charlotte aasinga Rita okuwandiika amabaluwa
+\g Charlotte nc1-pst-exceed Rita aug-nc15-write aug-nc6-letter
+\l Charlotte wrote more letters than Rita.
+
+\t Charlotte aawandiika amabaluwa okusinga Rita
+\g Charlotte nc1-pst-write aug-nc6-letter aug-nc15-exceed Rita
+\l Charlotte wrote more letters than Rita.
+
+\t Charlotte ku mande aasinga Rita ku lw'okubiri okuwandiika amabaluwa amangi
+\g Charlotte loc Monday nc1-pst-exceed R loc Tuesday aug-nc15-write aug-nc6-letter aug-nc6-many
+\l Intended: `Charlotte wrote more letters on Monday than Rita wrote on Tuesday.' MAIN VERB
+
+\t Charlotte aawandiika amabaluwa mangi ku mande okusinga Rita ku lw'okubiri
+\g Charlotte nc1-pst-write aug-nc6-letter nc6-many loc Monday aug-nc15-exceed Rita loc Tuesday
+\l Intended: `Charlotte wrote more letters on Monday than Rita wrote on Tuesday.' subordinate
+
+\t obuwanvu bua eNmeeza businga obugazi buayo
+\g aug-nc14-long nc14-gen aug-nc9-table nc14-exceed aug-nc14-wide nc14-poss
+\l The table's length exceeds its width.
+
+\t obuwanvu bua Lydia bue wunyisa
+\g AUG-NC14-tall NC14-GEN Lydia NC14-CLEFT surprise
+\l Lydia's height is surprising.
+
+\t Nzinye (ku matya) .
+\g 1sg.dance.rec.pst (LOC morning)
+\l I danced (this morning).' RECENT PAST
+
+\t Nazinye (jjo) .
+\g 1SG.dance.int.pst (yesterday)
+\l I danced (yesterday).' INTERMEDIATE PAST
+
+\t Nazina (luli) .
+\g 1sg.dance.dist.pst (another.time)
+\l I danced (the other day).' DISTANT PAST
+
+\t Babilie abadde lubuto .
+\g B. 3sg.be.REC.PST NC11.pregnant.woman
+\l Babilie was just pregnant.
+
+\t Babilie yabadde lubuto .
+\g B. 3sg.be.INT.PST NC11.pregnant.woman
+\l Babilie was pregnant (a little while ago).
+
+\t Babilie yali lubuto .
+\g B. 3sg.be.DIS.PST NC11.pregnant.woman
+\l Babilie was pregnant (a long time ago).
+
+\t Kato azinye .
+\g K. 3sg.dance.REC.PST
+\l Kato just danced.
+
+\t Kato yazinye .
+\g K. 3sg.dance.INT.PST
+\l Kato danced (a little while ago).
+
+\t Kato yazina .
+\g K. 3sg.dance.DIS.PST
+\l Kato danced (a long time ago).
+
+\t Kato addusse mairo biri .
+\g K. 3sg.run.REC.PST mile three
+\l Kato just ran three miles.
+
+\t Kato yaddusse mairo biri .
+\g K. 3sg.run.INT.PST mile three
+\l Kato ran three miles (a little while ago).
+
+\t Kato yadduka mairo biri .
+\g K. 3sg.run.DIS.PST mile three
+\l Kato ran three miles (a long time ago).
+
+\t Ensuwa eyatisse .
+\g AUG.NC9.pot NC9.break.REC.PST
+\l The pot just broke.
+
+\t Ensuwa yeyatisse .
+\g AUG.NC9.pot NC9.break.INT.PST
+\l The pot broke (a little while ago).
+
+\t Ensuwa yeyatika .
+\g AUG.NC9.pot NC9.break.DIST.PST
+\l The pot broke (a long time ago).
+
+\t Nzinye saawa {satu/#tano} emabega .
+\g 1sg.dance.rec.pst hour {three/five} behind
+\l I danced {three/five} hours ago.' (RECENT PAST)
+
+\t Nazinye saawa {satu/tano} emabega .
+\g 1SG.dance.int.pst hour {three/five} behind
+\l I danced {three/five} hours ago.' (INTERMEDIATE PAST)
+
+\t Eno TV wagigguladi ?
+\g this.nc9 TV 2SG.SUBJ-NC9.OBJ-buy-dis.pst-when
+\l When did you buy this TV?
+
+\t Naagigguzze jjo .
+\g 1SG.SUBJ.NC9.OBJ.buy.int.pst yesterday
+\l I just bought it yesterday.
+
+\t Eno TV wagigguzzedi ?
+\g this.nc9 TV 2SG.SUBJ.NC9.OBJ.buy.int.pst.when
+\l When did you buy this TV?' (Suggests it happened recently)
+
+\t Naagiggula luli .
+\g 1SG.SUBJ.NC9.OBJ.buy.dis.pst another.time
+\l I bought it a while ago.' (Sounds contradictory)
+
+\t Nzinye saawa {satu/ ?nnya/#tano} emabega .
+\g 1sg.dance.rec.pst hour {three/four/five} behind
+\l I danced {three/four/five} hours ago.' (RECENT PAST)
+
+\t Baakubye Twist and Shout .
+\g 3PL.play.int.pst Twist and Shout
+\l They played Twist and Shout.
+
+\t Baakuba Twist and Shout .
+\g 3PL.play.dist.pst Twist and Shout
+\l They played Twist and Shout.
+
+\t Bakubye Twist and Shout .
+\g 3PL.play.rec.pst Twist and Shout
+\l They played Twist and Shout.
+
+\t Baazizako YMCA .
+\g 3PL.add.int.pst-part YMCA
+\l Then they played YMCA.
+
+\t Baakuba YMCA .
+\g 3.SG.play.dist.pst YMCA
+\l They played YMCA.
+
+\t Omusóta gwáákútte emmése .
+\g 3A-3PX-snake 3SM-PAST-catch.PERF 9A-9.rat
+\l A/The snake caught a/the rat.
+
+\t Afúmbíirá ábáana emmére .
+\g 1SM-cook-APPL-FS 2A-2PX-children 9A-9PX-food
+\l She cooks food for the children.
+
+\t Afúmbírá ání emmére ?
+\g 1SM-cook-APPL-FS who 9A-9PX-food
+\l Who does she cook the food for?
+
+\t *Afúmbírá émmére aní ?
+\g 1SM-cook-APPL-FS 9A-9PX-food who
+\l (‘Who does she cook the food for?’)
+
+\t Omusómésa yawá ábáanà emmére .
+\g 1A-1PX-teacher 1SM-PAST-give 2A-2PX-children 9A-9PX-food
+\l The teacher gave the children food.
+
+\t Omusómésa yawá kí ábáanà ?
+\g 1A-1PX-teacher 1SM-PAST-give what 2A-2PX-children
+\l What did the teacher give the children?
+
+\t *Omusómésa yawá àbáana kí ?
+\g 1A-1PX-teacher 1SM.PAST-give 2A-2PX-children what
+\l (‘What did the teacher give the children?’)
+
+\t Afúmbyé átyá empúúta ?
+\g 1SM-cook.PERF 1-how 9A-9PX-Nile.perch
+\l How has she cooked the Nile perch?
+
+\t Agifúmbyé búlúngi .
+\g 1SM-9OM-cook.PERF well
+\l She has cooked it well.
+
+\t (Empúúta) agifúmbyé búlúngi .
+\g 9A-9PX-Nile.perch 1SM-9OM-cook.PERF well
+\l (The Nile perch) She has cooked it well.
+
+\t Yagúlira abáana ebítábó .
+\g 1SM-PAST-buy-APPL 2A-2PX-children 8A-8PX-books
+\l He bought the children books.
+
+\t Yágúlíddé _mmótoka _mupíira .
+\g 1SM-PAST-buy.PERF 9PX-car 3PX-tyre
+\l He BOUGHT A TYRE FOR THE CAR.’ (i.e. this was the only work he did)
+
+\t #Yágúlíddé _mmótoka _mupíira , sí picipici .
+\g 1SM-PAST-buy.PERF 9PX-car 3PX-tyre NEG.COP motorbike
+\l HE BOUGHT A TYRE FOR THE CAR, not for the motorcycle.
+
+\t Muno músúlámú àni ?
+\g 18-DEM 18SM-sleep-18LOC who
+\l Who sleeps in here?
+
+\t Muno músúlámú mulalû .
+\g 18-DEM 18SM-sleep-18LOC 1PX-crazy
+\l It’s a mad person who sleeps here.
+
+\t Kukyalo kwáfíírákó omusájja .
+\g 17-7.village 17SM-PAST-die-APPL-FS-17LOC 1A-1PX-man
+\l In the village died the man.
+
+\t Emmése omusóta gye gwakuttê .
+\g 9A-9PX-rat 3A-3PX-snake 9-e 3SM-PAST-catch.PRF
+\l It’s a/the rat that the snake caught.
+
+\t Omusóta gwe gwálya emmése .
+\g 3A-3PX-snake 3-e 3SM-PAST-eat 9A-9PX-rat
+\l It’s a/the snake that ate the rat.
+
+\t Eggulo lwe yalimyé .
+\g 11A-yesterday 11-e 1SM-PAST-dig.PERF
+\l It’s yesterday that he dug.
+
+\t Aní gwe wákúbyȇ ?
+\g who 1-e 2SG.SM-PAST-hit.PERF
+\l Who is it that you hit?
+
+\t #Sírínâ . / Tewálî .
+\g NEG.1SG.SM-be-with _ NEG-16SM-be
+\l Nobody.
+
+\t Wákúbyé ání ?
+\g 2SG.SM-PAST-hit.PERF who
+\l Who did you hit?
+
+\t Sírínâ . / Tewálî .
+\g NEG.1SG.SM-be-with _ NEG-16SM-be
+\l Nobody.
+
+\t Yákúbyé omuntu .
+\g 1SM-PAST-hit.PERF 1A-1PX-person
+\l He hit someone.
+
+\t Omuntu gwe yakubyȇ .
+\g 1A-1PX-person 1-e 1SM-PAST-hit.PERF
+\l It’s a person he hit.
+
+\t Omuntu agudde .
+\g 1A-1PX-person 1SM-fall.PERF
+\l (A certain) Someone fell.
+
+\t Omuntu y’ aagudde .
+\g 1A-1PX-person 1.e 1SM-fall.PERF
+\l It’s a human being who fell.
+
+\t Thomas aliná kkápâ ?
+\g 1.Thomas 1SM-be-with 9.cat
+\l Does Thomas have a cat?
+
+\t Yee , Thomas aliná kkápa .
+\g yes 1.Thomas 1SM-be-with 9.cat
+\l Yes, Thomas has a cat.
+
+\t Yee , Thomas aliná kkápa , nayé aliná ne ákámyû .
+\g yes 1.Thomas 1SM-be-with 9.cat but 1SM-be-with and 12A-12PX-rabbit
+\l Yes, Thomas has a cat, but he has a rabbit too.
+
+\t Kikáámuláli ekimyúfu Maria kye aliná ?
+\g 7.pepper 7A-7PX-red 1.Maria 7-e 1SM-be-with
+\l Is it a red pepper that Maria has?
+
+\t Ye , kyokka/naye aliná ne ekyá kyénvu .
+\g yes only/but 1SM-be-with also 7-7-CONN 7-yellow
+\l Yes, only/but she also has a yellow one.
+
+\t #Era/ate aliná ne ekyá kyénvu .
+\g and/and.even 1SM-be-with also 7-7-CONN 7-yellow
+\l And she also has a yellow one.
+
+\t Maria aliná kikáámuláli ekimyúfu ?
+\g 1.Maria 1SM-be-with 7.pepper 7A-7PX-red
+\l Does Maria have a red pepper?
+
+\t Ye , era/ate aliná ne ekyá kyénvu .
+\g yes and/and.even 1SM-be-with also 7-7-CONN 7-yellow
+\l Yes, and she has also/even a yellow one.
+
+\t Kawûnga kokká ke yalyâ .
+\g 12PX-ugali 12-only 12-e 1SM-PAST-eat
+\l It is only ugali that he ate.
+
+\t Nnyúmba yokká ye yayérebwa .
+\g 9.house 9-only 9-e 9SM-PAST-sweep-PASS-FS
+\l Only the house was swept.
+
+\t *Nnyúmba yokká yayérebwa .
+\g 9.house 9-only 9SM-PAST-sweep-PASS-FS
+\l (‘Only the house was swept.’)
+
+\t Ne ákáwûngá yakálya .
+\g even 12A-12PX-ugali 1SM-PAST-12OM-eat
+\l He ate even ugali.
+
+\t *Ne akawûnga ke yalyâ .
+\g even 12A-12PX-ugali 12-e 1SM-PAST-eat
+\l (‘It’s even ugali that he ate.’)
+
+\t Né énnyúmba yayérebwa .
+\g even 9.house 9SM-PAST-sweep-PASS-FS
+\l Even the house was swept.
+
+\t *Né énnyúmba ye yayérebwa .
+\g even 9.house 9-e 9SM-PAST-sweep-PASS-FS
+\l (‘It is even the house that was swept.’)
+
+\t Tebááwa _báana _bitábó .
+\g NEG-2SM-PAST-give-FS 2PX-children 8PX-books
+\l They didn't give the children books.
+
+\t Yagúla ebítábó .
+\g 1SM-PAST-buy 8A-8PX-books
+\l He bought books.
+
+\t Yagúla _bitábó .
+\g 1SM-PAST-buy 8PX-books
+\l He bought BOOKS.
+
+\t Oyágálá mágí obá nnyamá ?
+\g 2SG.SM-want 6.eggs or 9.meat
+\l Do you want eggs or meat?
+
+\t *Oyágálá amágí obá ennyama ?
+\g 2SG.SM-want 6A-6.eggs or 9A-9.meat
+\l (‘Do you want eggs or meat?’)
+
+\t Njágálá nnyámá / #énnyámá .
+\g 1SG.SM-want 9.meat / 9A-9.meat
+\l It’s meat that I want’, ‘I want MEAT.
+
+\t Nnyámá .
+\g 9.meat
+\l Meat.
+
+\t Yayéra olúggya .
+\g 1SM-PAST-sweep 11A-11PX-yard
+\l She swept the yard.
+
+\t Máaka abáaná yabágúlíra essúúkâ .
+\g 1.Mark 2A-2PX-children 1SM-PAST-2OM-buy-APPL-FS 10A-10.bedsheets
+\l Mark bought the children bedsheets.
+
+\t Nákúbyé omuntu .
+\g 1SG.SM-PAST-hit.PERF 1A-1PX.person
+\l I beat someone.
+
+\t Nákúbyé muntú , si kkapa .
+\g 1SG.SM-PAST-hit.PERF 1PX-person NEG.COP 9.cat
+\l I beat a person, not a cat.
+
+\t Yayérá nnyúmba / *ennyúmba yokká , sí kiyûngu .
+\g 1SM-PAST-sweep 9.house / 9A-9.house 9-only NEG.COP 7PX-kitchen
+\l She swept only the house, not the kitchen.
+
+\t Teyalyá n’ ákáwûnga .
+\g NEG-1SM-PAST-eat even 12A-12PX-ugali
+\l He didn’t even eat ugali.’ (though it’s his favourite dish)
+
+\t *Teyalyá né káwûnga .
+\g NEG-1SM-PAST-eat even 12PX-ugali
+\l (‘He didn’t even eat ugali.’ (though it’s his favourite dish))
+
+\t Yalyá n’ ákáwûnga .
+\g 1SM-PAST-eat even 12A-12PX-ugali
+\l He ate even ugali.
+
+\t *Yalyá né káwûnga .
+\g 1SM-PAST-eat even 12PX-ugali
+\l (‘He ate even ugali.’)
+
+\t Omunyá gukutte ki ?
+\g 3A-3PX-gecko 3SM-catch.PERF what
+\l What has the gecko caught?
+
+\t Gúkutte ensirî .
+\g 3SM-catch.PERF 9A-9mosquito
+\l It caught a mosquito.
+
+\t Gúkútté nsírî .
+\g 3SM-catch.PERF 9mosquito
+\l It caught a MOSQUITO.
+
+\t Musómésa ye yamúlaba .
+\g 1PX-teacher 1-e 1SM-PAST-1OM-see
+\l It’s the teacher that saw him.
+
+\t *Musómésa yamúlaba .
+\g 1PX-teacher 1SM-PAST-1OM-see
+\l (‘It’s the teacher that saw him.’)
+
+\t Omusómésa ye yamúlaba .
+\g 1A-1PX-teacher 1-e 1SM-PAST-1OM-see
+\l The teacher saw him.
+
+\t Omusómésa yamúlaba .
+\g 1A-1PX-teacher 1SM-PAST-1OM-see
+\l The teacher saw him.
+
+\t Mukatále mwáábáddémú báána bokká .
+\g 18-market 18SM-PAST-be.PERF-LOC18 2.children 2-only
+\l In the market were only children.
+
+\t Mukatále mwáábáddémú baantú , si mbwa .
+\g 18-market 18SM-PAST-be.PERF-LOC18 2.people NEG.COP 10.dogs
+\l In the market were people, not dogs.
+
+\t Emmése yalííbwá músótâ .
+\g 9A-9PX-rat 9SM-PAST-eat-PASS-FS 3PX-snake
+\l The rat was eaten by a snake.’ (implying ‘not by a cat’)
+
+\t Omwána ye asomâ .
+\g 1A-1PX-child 1-e 1SM-read
+\l It’s a/the child that is reading.
+
+\t Mwána ye asomâ .
+\g 1PX-child 1-e 1SM-read
+\l It’s the child that is reading.
+
+\t Aní ásula mu nnyúmba eyo ?
+\g 1.who REL1SM-sleep 18 9.house 9.DEM
+\l Who sleeps in this house?
+
+\t Muwála ye asúlámû .
+\g 1PX-girl 1.e 1SM-sleep-18LOC
+\l A girl sleeps there.
+
+\t Omuwála ye asúlámû .
+\g 1A-1PX-girl 1.e 1SM-sleep-18LOC
+\l The girl sleeps there.
+
+\t Maama awadde taata ssente .
+\g 1.mother 1SM-give-PFV 1.father 10.money
+\l Mother has given father money.
+
+\t Maama azimuwadde .
+\g 1.mother 1SM-10OM-1OM-give-PFV
+\l Mother has given him it.
+
+\t Mukasa yatambuledde Katonga .
+\g Mukasa PAST-walk-APPL-PAST Katonga
+\l Muksasa walked for Katonga.
+

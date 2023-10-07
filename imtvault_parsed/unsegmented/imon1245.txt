@@ -1,0 +1,16 @@
+\t agõianèim ainam faikõhõ
+\g women-NONPL-GL quickly CL-LNK-go
+\l He grabbed the woman
+
+\t magm adianèim
+\g one-GL boys-SRC-GL
+\l To one of the boys
+
+\t Agõianèim ainam faikõhõ .
+\g women-NONPL-GL quickly CLF-LNK-go
+\l He grabbed the woman.
+
+\t magm adianèim
+\g one-GL boy-SRC-GL
+\l to one of the boys
+

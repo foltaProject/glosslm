@@ -1,0 +1,377 @@
+\t N-a̋-i̋-lyì-í-à m̀-ṛì-nyì k-élyà .
+\g FOC-1S-PR-eat-AP-FV 3-homestead-LOC 7-food
+\l He/She is eating food at the homestead.
+
+\t N-a̋-i̋-ly-à k-élyà .
+\g FOC-1S-PR-eat-FV 7-food
+\l He/She is eating food.
+
+\t Ena sminos apo F-16 iperiptate tis polis mas .
+\g A cluster.NOM from F-16 over.fly.3SG the town.GEN our.CL.GEN
+\l A cluster of F-16 is flying over our town.
+
+\t O proθipurγos epiveni tu oximatos .
+\g The prime.minister.NOM on.ride.3SG the car.GEN
+\l The Prime Minister rides on the vehicle.
+
+\t O Olimbiakos iperisxii (tu Panaθinaiku) .
+\g The Olimbiakos.NOM prevails (the Panathinaiku.GEN)
+\l Olimbiakos prevails over Panathinaikos.
+
+\t O Janis epezise tu ðistiximatos .
+\g The Janis.NOM survived.3SG the accident.GEN
+\l John survived from/after the accident.
+
+\t O Janis iperaminete tu nomu .
+\g The John.NOM in.favor.of.defend.3SG the law.GEN
+\l John is defending the law.
+
+\t O Janis aγorase to vivlio .
+\g The Janis.NOM bought.3SG the book.ACC
+\l John bought the book.
+
+\t O Janis estile tu Kosta mia karta .
+\g The Janis.NOM sent.3SG the Kosta.GEN a card.ACC
+\l John sent Kostas a card.
+
+\t *O proθipurγos tu epiveni .
+\g The prime.minister.NOM it.CL.GEN on.ride.3SG
+\l The Prime Minister rides on it.
+
+\t *Tu epiveni tu oximatos .
+\g It.CL.GEN on.ride.3SG the vehicle.GEN
+\l Literally: He rides on it the vehicle.
+
+\t *Tu oximatos tu epiveni .
+\g The vehicle.GEN it.CL.GEN on.ride.3SG
+\l Literally: The vehicle he rides on it.
+
+\t *Tu epiveni , tu oximatos .
+\g It.CL.GEN on.ride.3SG the vehicle.GEN
+\l Literally: He rides on it, the vehicle.
+
+\t *To oxima pu tu epiveni o proθipurγos .
+\g The vehicle.NOM that it.CL.GEN on.ride.3SG the prime.minister.NOM
+\l Literally: the vehicle that the Prime Minister is riding on it.
+
+\t O Janis to aγorase .
+\g The Janis.NOM it.CL.ACC bought.3SG
+\l John bought it.
+
+\t O Janis tu estile mia karta .
+\g The Janis.NOM him.CL.GEN sent.3SG a card.ACC
+\l John sent him a card.
+
+\t *To oxima epivenete apo ton proθipurγo .
+\g The vehicle.NOM on.ride.PASS.3SG from the prime.minister.ACC
+\l The vehicle is ridden on by the Prime Minister
+
+\t *I Maria stalthike to γrama mu .
+\g The Maria.NOM sent.PASS.3SG the letter.ACC my.CL.GEN
+\l Mary was sent my letter.
+
+\t To γrama mu tis stalθike tis Marias .
+\g The letter.NOM my.CL.GEN her.CL.GEN sent.PASS.3SG the Maria.GEN
+\l My letter was sent to Mary.
+
+\t O Kostas epofeliθike (tis katastasis) .
+\g The Kostas.NOM on.profited.3SG (the situation.GEN)
+\l Kostas profited from/took advantage of (the situation).
+
+\t O proθipurγos eksilθe (tis vulis) .
+\g The prime.minister.NOM out.came.3SG (the parliament.GEN)
+\l The Prime Minister came out of (the parliament).
+
+\t To aeroskafos iperiptate (tis polis) .
+\g The airplane.NOM over.fly.3SG (the town.GEN)
+\l The airplane flies over (the town).
+
+\t To provlima proipirxe (tis krisis) .
+\g The problem.NOM pre.existed.3SG (the crisis.GEN)
+\l The problem existed before (the crisis).
+
+\t O Kostas ofeliθike (*tis katastasis) .
+\g The Kostas.NOM profited.3SG (*the situation.GEN)
+\l *Kostas profited (the situation).
+
+\t O proθipurγos ilθe (*tis vulis) .
+\g The prime.minister.NOM came.3SG (*the parliament.GEN)
+\l *The Prime Minister came (the Parliament).
+
+\t To aeroskafos iptate (*tis poleos) .
+\g The airplane.NOM fly.3SG (*the city.GEN)
+\l *The airplane flies (the city).
+
+\t To provlima ipirxe (*tis krisis) .
+\g The problem.NOM existed.3SG (*the problem.GEN)
+\l *The problem existed (the crisis).
+
+\t (Tu xronu) i epitropi θa ðosi to vravio tis Marias .
+\g (The year.GEN) the committee.NOM FM give.3SG the prize.ACC the Maria.GEN
+\l (Next year) the committee will give Mary the prize.
+
+\t Tu xronu , i epitropi θa (*tu) ðosi to vravio tis Marias .
+\g The year.GEN the committee.NOM FM (*him) give.3SG the prize.ACC the Maria.GEN
+\l Next year, the committee will give (*it) Mary the prize.
+
+\t *O xronos tha ðothi tis Marias/ sti Maria to vravio .
+\g The year.NOM FM give.PASS.3SG the Maria.GEN / to.the Maria.ACC the prize.ACC.
+\l *Next year will be given Mary the book/the book to Mary.
+
+\t O Panaθinaikos θa iperisxisi (tu Olimbiaku) .
+\g The Panaθinaikos.NOM FM prevail.3SG (the Olimbiaku.GEN)
+\l Panaθinaikos will prevail (over Olimbiakos).
+
+\t O Panaθinaikos θa iperisxisi (tu xronu) .
+\g The Panaθinaikos.NOM FM prevail.3SG (the year.GEN)
+\l Panaθinaikos will prevail (next year).
+
+\t Θa ekselθi tu nosokomiu tin Kiriaki .
+\g FM out.of.come.3SG the hospital.GEN the Sunday.ACC
+\l He will come out of the hospital on Sunday.
+
+\t Θa elθi (*tu nosokomiu) tin Kiriaki .
+\g FM come.3SG (*the hospital.GEN) the Sunday.ACC
+\l He will come on Sunday.
+
+\t Eksilθe tu nosokomiu /*to nosokomio .
+\g Out.came.3SG the hospital.GEN /*the hospital.ACC
+\l He came out of the hospital.
+
+\t Θa ekselθi tu nosokomiu tin Kiriaki /tu xronu .
+\g FM out.come.3SG the hospital.GEN the Sunday.ACC /the year.GEN
+\l He will come out of the hospital next year.
+
+\t Tin Kiriaki eksilθe tu nosokomiu .
+\g The Sunday.ACC out.came.3SG the hospital.GEN
+\l On Sunday, he came out of the hospital.
+
+\t Tin Kiriaki θa ðosun tu Kosta tin ipotrofia .
+\g The Sunday.ACC FM give.3PL the Kostas.GEN the scholarship.ACC
+\l On Sunday, they will give Kostas the scholarship.
+
+\t O Olimbiakos iperisxise tu Panaθinaiku to Savato ke to iðjo ekane ke i AEK tin Kiriaki .
+\g The Olimbiakos.NOM prevailed.3SG the Panaθinaikos.GEN the Saturday.ACC and the same did.3SG and the.NOM AEK the Sunday.ACC
+\l Olimbiakos beat Panathinaikos last Saturday and AEK did so last Sunday.
+
+\t O Olimbiakos iperisxise tu Panaθinaiku ke to iðjo ekane ke i AEK (* ?tu PAOK) .
+\g The Olimbiakos.NOM prevailed.3SG the Panaθinaikos.GEN and the same did.3SG and the.NOM AEK (*?the.GEN PAOK)
+\l Olimbiakos beat Panathinaikos and AEK did so (*over PAOK).
+
+\t iperaminome
+\g in.favor.of.defend.1SG
+\l to defend
+
+\t iperiptame
+\g over.fly.1SG
+\l to fly over
+
+\t Psifisame iper tu nomosxeðiu .
+\g Voted.1PL in.favor.of the bill.GEN
+\l We voted in favor of the bill.
+
+\t *iper tu orus
+\g over the mountain.GEN
+\l over the mountain
+
+\t minima ek tu proeðru
+\g message from the president.GEN
+\l Message from the President
+
+\t Ine epi tis oðu Skufa .
+\g Is on the street.GEN Skufa.GEN
+\l It is on the Skufa street.
+
+\t i pro tu Aθo perioxi
+\g the before the Aθo.GEN area.NOM
+\l The area before Athos
+
+\t iper tu nomosxeðiu
+\g in.favor.of the bill.GEN
+\l In favor of the bill
+
+\t ipo to eðafos
+\g under the ground.ACC
+\l Under the ground
+
+\t apo to nosokomio
+\g from the hospital.ACC
+\l From the hospital
+
+\t minima ek tu proeðru /*tu
+\g message from the president.GEN /*him.CL.GEN
+\l Message from the President/*him
+
+\t Ine epi tis oðu Skufa /*tis .
+\g Is on the street.GEN Skufa.GEN /*his.CL.GEN
+\l It is at the Skufa street/*it.
+
+\t i pro tu Aθo /*tu perioxi
+\g the before the Aθo.GEN /*it.CL.GEN area.NOM
+\l The area before Athos/*it
+
+\t ipo to eðafos /*to
+\g under the ground.ACC /*it.CL.ACC
+\l Under the ground/*it
+
+\t apo to nosokomio /*to
+\g from the hospital.ACC /*it.CL.ACC
+\l From the hospital/*it
+
+\t iper tu nomosxeðiu / √tu
+\g in.favor.of the bill.GEN / √it.CL.GEN
+\l In favor of the bill/it
+
+\t minima ek *(tu proeðru)
+\g message from *(the president.GEN)
+\l Message from *(the President)
+
+\t Ine epi *(tis oðu Skufa) .
+\g Is on *(the street.GEN Skufa.GEN)
+\l It is on *(the Skufa street).
+
+\t i pro *(tu Aθo) perioxi
+\g the before *(the Aθo.GEN) area.NOM
+\l The area before (Athos)
+
+\t ipo *(to eðafos)
+\g under *(the ground.ACC)
+\l Under (the ground)
+
+\t apo *(to nosokomio)
+\g from *(the hospital.ACC)
+\l From *(the hospital)
+
+\t iper (tu nomosxeðiu)
+\g in.favor.of (the bill.GEN)
+\l In favor of (the bill)
+
+\t To provlima proipirxe tis krisis .
+\g The problem.NOM pre.existed.3SG the crisis.GEN\t To provlima ipirxe pro tis krisis .
+\g The problem.NOM existed.3SG before the crisis.GEN
+\l The problem existed before the crisis.
+
+\t *O proθipurγos veni epi tu oximatos .
+\g The prime.minister.NOM ride.3SG on the vehicle.GEN
+\l The Prime Minister rides on the vehicle.
+
+\t *Iperisxise tu andipalu tis eksandlimenu .
+\g Prevailed.3SG the opponent.GEN her.CL.GEN exhausted.GEN
+\l *She prevailed over her opponent exhausted.
+
+\t *To aeroplano iperiptate ekato metra tis polis .
+\g The airplane.NOM over.fly.3SG hundred meters.ACC the town.GEN
+\l The airplane flies a hundred meters above the town.
+
+\t To aeroplano petai ekato metra pano apo tin poli .
+\g The airplane.NOM fly.3SG hundred meters.ACC above from the town.ACC
+\l The airplane flies 100 meters above the town.
+
+\t Iperisxise i mia fititria tu filu tis alis .
+\g Prevailed.3SG the one.NOM student.FEM.NOM the boyfriend.GEN the other.FEM.GEN
+\l Each female student prevailed over the other’s boyfriend.
+
+\t *Iperisxise i fititria tu alu tu enos filu .
+\g Prevailed.3SG the student.FEM.NOM the other.MASC.GEN the one.GEN boyfriend.GEN
+\l *The other’s female student prevailed over each boyfriend.
+
+\t Iperisxise tis mias fititrias o filos tis alis .
+\g Prevailed.3SG the one.GEN student.FEM.GEN the boyfriend.NOM the other.GEN
+\l The boyfriend of the other one prevailed over each female student.
+
+\t * ?Tu iperisxise i Maria tu Jani .
+\g Him.CL.GEN prevailed.3SG the Maria.NOM the John.GEN
+\l Mary prevailed over him, John.
+
+\t Ekserxonde vuleftes tu ktiriu tis vulis .
+\g Out.come.3PL members.of.parliament.NOM the building.GEN the parliament.GEN
+\l Members of parliament are coming out of the parliament building.
+
+\t Tinos iperisxise o Nikos ?
+\g who.GEN prevailed.3SG the Nikos.NOM
+\l Who did Nick prevail over?
+
+\t  Akuγondas PRO tin istoria  tu Petru iperaminθike i Maria
+\g Hearing PRO the story.ACC the Peter.GEN over.defended.3SG the Maria.NOM
+\l While she was listening to the story, Mary defended Peter.
+
+\t  Akuγondas PRO tin istoria  i Maria iperaminθike tu Petru .
+\g Hearing PRO the story.ACC the Maria.NOM over.defended.3SG the Peter.GEN
+\l While she was listening to the story, Mary defended Peter.
+
+\t  Akuγondas PRO tin istoria  iper tu Petru milise i Maria .
+\g Hearing PRO the story.ACC in.favor.of the Peter.GEN talked.3SG the Maria.NOM
+\l While she was listening to the story, Mary talked in favor of Peter.
+
+\t  Akuγondas PRO tin istoria  i Maria milise iper tu Petru .
+\g Hearing PRO the story.ACC the Maria.NOM talked.3SG in.favor.of the Peter.GEN
+\l While she was listening to the story, Mary talked in favor of Peter.
+
+\t  ? ?Estilan γramata ston anðra ke sti γineka pu zusan mazi .
+\g Sent.3PL letters.ACC to.the man.ACC and to.the woman.ACC that were.living.3PL together
+\l They sent letters to the man and to the woman who were living together.
+
+\t Estilan γramata ston anðra ke ti γineka pu zusan mazi .
+\g Sent.3PL letters.ACC to.the man.ACC and the woman.ACC that were.living.3PL together
+\l They sent letters to the man and the woman who were living together.
+
+\t Stus aγones epikratise tu anðra ke tis γinekas pu zusan mazi .
+\g In.the games.ACC prevailed.3SG the man.GEN and the woman.GEN that lived.3PL together
+\l In the games, she prevailed over the man and the woman who were living together.
+
+\t Proeðrevi tu simvuliu .
+\g Preside.3SG the meeting.GEN
+\l She presides over the meeting.
+
+\t Proeðrevi sto simvulio .
+\g Preside.3SG at.the meeting.ACC
+\l She presides at the meeting.
+
+\t O proθipurγos eksilθe apo ti vuli .
+\g The prime.minister.NOM out.came.3SG from the parliament.ACC
+\l The Prime Minister came out of the Parliament.
+
+\t O proθipurγos ilθe apo ti vuli .
+\g The prime.minister.NOM came.3SG from the parliament.ACC
+\l The Prime Minister came from the Parliament.
+
+\t O proθipurγos vjike apo ti vuli .
+\g The prime.minister.NOM came out.3SG from the parliament.ACC
+\l The Prime Minister came out of the Parliament.
+
+\t O proθipurγos eksilθe tis vulis .
+\g The prime.minister.NOM out.came.3SG the parliament.GEN
+\l The Prime Minister came out of the Parliament.
+
+\t *O proθipurγos ilθe tis vulis .
+\g The prime.minister.NOM came.3SG the parliament.GEN
+\l The Prime Minister came from the Parliament.
+
+\t *O proθipurγos vjike tis vulis .
+\g The prime.minister.NOM came out.3SG the parliament.GEN
+\l The Prime Minister came out of the Parliament.
+
+\t Iperaminθike iper tis kivernisis .
+\g In.favor.of.defended.3SG in.favor.of the government.GEN
+\l He defended the government
+
+\t Iperiptate pano apo tin poli .
+\g Over.fly.3SG above from the city.ACC
+\l He flies over the city.
+
+\t I Maria iperisxise apo ton Kosta .35
+\g The Maria.NOM prevailed.3SG from the Kosta.ACC
+\l Mary prevailed over Kostas.
+
+\t I Maria proeðrevi sto staðio Irinis ke Filias .
+\g The Maria.NOM presides.3SG at.the stadium.ACC Peace.GEN and Friendship.GEN
+\l Mary presides inside the stadium of Peace and Friendship.
+
+\t O Olimbiakos epikratise enandi tu Panaθinaiku , ke to iðjo ekane ke i AEK enandi tu PAOK .
+\g The Olimbiakos.NOM prevailed.3SG against the Panaθinaikos.GEN and the same did.3SG and the.NOM AEK against the.GEN PAOK
+\l Olimbiakos prevailed over Panathinaikos, and AEK did so over PAOK.
+
+\t  ? ?O Petros eksilθe apo tin anatoliki pteriγa , ke to iðjo ekane o Kostas apo ti ðitiki .
+\g The Petros.NOM out.came3SG from the.ACC east.ACC wing.ACC and the same did.3SG the Kostas.NOM from the.ACC west.ACC
+\l ??Peter came out of the east wing and Kostas did the same out of the west wing.
+

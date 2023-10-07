@@ -1,0 +1,1120 @@
+\t n-maite
+\g 1SG.SBJ-know:PFV
+\l I know
+
+\t a-n-nen-ire
+\g 1SBJ-1SG.OBJ-bite-PFV
+\l he has bitten me
+
+\t n-nyaat-ire
+\g 1SG.SBJ-roll-PFV
+\l I have rolled
+
+\t o-Kato a-kya-li e Kampala
+\g AUG-1.Kato 1SG.SBJ-PERS-COP 23.LOC 1.Kampala
+\l Kato is still in Kampala.
+
+\t o-Isingoma a-yanan-a o-Kato
+\g AUG-1.Isingoma 1SBJ-resemble-FV AUG-1.Kato
+\l Isingoma resembles Kato.
+
+\t e-irai a-bakali a-Baganda ti-ba-li-a-nga ntaama
+\g AUG-in_the_past AUG-2.woman AUG-2.Baganda NEG-2SBJ-eat-FV-HAB 9.mutton
+\l In the past, Baganda women used not to eat mutton.
+
+\t a-Baganda ba-angiriz-a muno o-Kanca
+\g AUG-2.Baganda 2SBJ-praise-FV much AUG-1.god
+\l The Baganda praise God a lot.
+
+\t izukir-a ni tu-a-iruk-iire o-ku Lango
+\g remember-FV when 1PL.SBJ-PST-run-APPL:PFV AUG-17.LOC Lango
+\l Remember when we ran to Lango.
+
+\t a-bakali ba biro bi-ni
+\g AUG-2.woman 2.GEN 8.time 8-PROX
+\l today’s women
+
+\t tu-lin-a o-nyonyi gwe ba-et-a o-kisyo
+\g 1PL.SBJ-have-FV AUG-1.bird 1.REL 2SBJ-call-FV AUG-1.weaver.bird
+\l We have a bird which they call weaver bird.
+
+\t ti-n-ku-ab-a
+\g NEG-1SG.SBJ-PROG-go-FV
+\l I am not going.
+
+\t o-mukali ti musomesya
+\g AUG-1.woman NEG.COP 1.teacher
+\l The woman is not a teacher.
+
+\t o-mukali ti mu-kooto
+\g AUG-1.woman NEG.COP 1-big
+\l The woman is not big.
+
+\t o-nte a-nyw-ire a-maizi ni a-kuuk-a
+\g AUG-1.cow 1SBJ-drink-PFV AUG-6.water CONJ 1SBJ-be.satisfied-FV
+\l The cow had drunk water and is satisfied.
+
+\t o-ti-esimb-a ku iteewo nga a-ku-li-a
+\g 2SG.SBJ-NEG-stand-FV 17.LOC 1.your_father CONJ 1SBJ-PROG-eat-FV
+\l Don’t stand next to your father while he is eating.
+
+\t a-a-ab-ire o-ku igombolola
+\g 1SBJ-PST-go-PFV AUG-17.LOC 7.subcounty
+\l He has gone to the sub-county.
+
+\t a-a-boine o-itimba o-mu kisiko
+\g 1SBJ-PST-see:PFV AUG-1.python AUG-18.LOC 7.bush
+\l He saw a python in the bush.
+
+\t tu-a-ab-a e Kampala
+\g 1PL.SBJ-FUT-go-FV 23.LOC 1.Kampala
+\l We will go to Kampala.
+
+\t ba-ku-singaanisy-a mu misinde
+\g 1SBJ-PROG-compete-FV 18.LOC 4.athletics
+\l They are competing in athletics.
+
+\t wa-li=wo e-njawulo .
+\g 16SBJ-COP=16.LOC AUG-9.difference
+\l There is a difference.
+
+\t naye nje e-isumu n-a-li-zu-ire=ku .
+\g but 1SG AUG-5.spear 1SG.SBJ-PST-5OBJ-abandon-PFV=17.LOC
+\l But as for me, I abandoned the spear.
+
+\t iswe tu-li-ire bunyonyi na o-busolo
+\g 1PL 1PL.SBJ-eat-PFV 14.bird COM AUG-14.animal
+\l As for us, we have eaten birds and animals.’ (Speaker’s translation: `For us, we have eaten birds and animals.')
+
+\t nje a-baana ba-a-nge ti-ba-maite
+\g 1SG AUG-2.child 2-ASSOC-1SG NEG-2SBJ-know:PFV
+\l As for me, my children don't know.
+
+\t musaale gu-kooto gwo te-gu-twal-a e-myaka zi-ingi
+\g 3.tree 3-big 3 NEG-3SBJ-take-FV AUG-4.year 4-many
+\l It is a big tree. It doesn't take many years (to grow).
+
+\t nje-na n-ku-kob-a ki-ni
+\g 1SG-ADD.FOC 1SG.SBJ-PROG-say-FV 7-PROX
+\l I also say this.
+
+\t iswe-na ni-tu-kyuk-a
+\g 1PL-ADD.FOC NAR-1PL.SBJ-change-FV
+\l We also changed.
+
+\t o-musaiza o-ni
+\g AUG-1.man 1-PROX
+\l this man
+
+\t e-kisolo ki-ni
+\g AUG-7.animal 7-PROX
+\l this animal
+
+\t o-musaiza oy-o
+\g AUG-1.man 1-MED
+\l that man
+
+\t e-kisolo eki-o
+\g AUG-7.animal 7-MED
+\l that animal
+
+\t o-musaiza o-di
+\g AUG-1.man 1-DIST
+\l that man
+
+\t e-kisolo ki-di
+\g AUG-7.animal 7-DIST
+\l that animal
+
+\t o-mwana wa-a-nge
+\g AUG-1.child 1-ASSOC-1SG
+\l my child
+
+\t o-mwana wa-a-iswe
+\g AUG-1.child 1-ASSOC-1PL
+\l our child
+
+\t o-mwana wa-a-mu
+\g AUG-1.child 1-ASSOC-2SG
+\l your (sg.) child
+
+\t o-mwana wa-a-nywe
+\g AUG-1.child 1-ASSOC-2PL
+\l your (pl.) child
+
+\t o-mwana wa-a-mwe
+\g AUG-1.child 1-ASSOC-1
+\l his/her child
+
+\t o-mwana wa-a-bwe
+\g AUG-1.child 1-ASSOC-2
+\l their child
+
+\t a-maizi ga-a-nge
+\g AUG-6.water 6-ASSOC-1SG
+\l my water
+
+\t a-maido ga-a-iswe
+\g AUG-6.groundnuts 6-ASSOC-1PL
+\l our groundnuts
+
+\t a-maka ga-a-mu
+\g AUG-6.home 6-ASSOC-2SG
+\l your (sg.) home
+
+\t a-matai ga-a-nywe
+\g AUG-6.milk 6-ASSOC-2PL
+\l your (pl.) milk
+
+\t a-mabeere ga-a-mwe
+\g AUG-6.breast 6-ASSOC-1
+\l his/her breasts
+
+\t a-maaba ga-a-bwe
+\g AUG-6.breast 6-ASSOC-2
+\l their departure
+
+\t e-ntikko ya-a-gwo
+\g AUG-9.culmination 9-ASSOC-3
+\l its culmination' (e.g. of a function (mukolo `function (3)')
+
+\t e-ngeso za-a-lyo
+\g AUG-10.norm 10-ASSOC-5
+\l its norms' (e.g. of a tribe (iyanga `tribe (5)')
+
+\t n-kya-son-a mukeeka gu-a-nge
+\g 1SG.SBJ-PERS-weave-FV 3.mat 3-ASSOC-1SG
+\l I am still weaving my mat.
+
+\t o-yendy-a ku-li-a ki
+\g 2SG.SBJ-want-FV INF-eat-FV what
+\l What do you want to eat?
+
+\t a-bantu ba-ku-somok-a e-nyanja
+\g AUG-2.man 2SG.SBJ-PROG-cross-FV AUG-9.lake
+\l The people are crossing the lake.
+
+\t ti-o-ku-ab-a
+\g NEG-2SG.SBJ-PROG-go-FV
+\l You are not going.
+
+\t naye nje e-isumu n-a-li-zu-ire=ku
+\g but 1SG AUG-5.spear 1SG.SBJ-PST-5OBJ-abandon-PFV=17.LOC
+\l But as for me, I abandoned the spear.
+
+\t mu-ba-tum-ire o-ku iduuka
+\g 2SG.SBJ-2OBJ-send-PFV AUG-17.LOC 5.shop
+\l You have sent them to the shop.
+
+\t a-mu-wa-ire e-saati
+\g 1SBJ-1OBJ-give-PFV AUG-9.shirt
+\l He has given him a shirt.
+
+\t e-kisunsuzo n-ki-wa-ire maama
+\g AUG-7.comb 1SG.SBJ-7OBJ-give-PFV 1.mother
+\l I have given the comb to mother.
+
+\t ti-a-n-som-ere kitabo
+\g NEG-1SBJ-1SG.OBJ-read-APPL:PFV 7.book
+\l He has not read for me the book.
+
+\t o-mwala tu-mu-egesy-a o-ku-lamuc-a
+\g AUG-1.girl 1PL.SBJ-1OBJ-teach-FV AUG-INF-greet-FV
+\l We teach the girl to greet.
+
+\t o-garamba ba-mu-li-a mu-okye
+\g AUG-1.sweet_plantain 2SBJ-1OBJ-eat-FV 1-roasted
+\l Sweet plantain is usually eaten after being roasted.
+
+\t a-a-tu-suubiz-a e-bbaasi ya-a-iswe
+\g 1SBJ-PST-1PL.OBJ-promise-FV AUG-9.bus 9-ASSOC-1PL
+\l He promised us our bus.
+
+\t a-a-li mukama
+\g 1SBJ-PST-COP 1.leader
+\l He was a leader.
+
+\t a-bantu ba-a-binuk-a o-ku biici e-mambya
+\g AUG-2.person 2SBJ-FUT-have_fun-FV AUG-17.LOC 9.beach AUG-tomorrow
+\l The people will have fun at the beach tomorrow.
+
+\t n-li-iz-a mu magula
+\g 1SG.SBJ-FUT-come-FV 18.LOC 6.buying_season
+\l I will come during the buying season.
+
+\t tu-a-nen-eibwe e-mida e-njunzai
+\g 1PL.SBJ-PST-bite-PASS:PFV AUG-4.louse AUG-10.jigger
+\l We were bitten by lice, jiggers.
+
+\t a-a-kang-ir-ire mu irembo
+\g 1SBJ-PST-stop-APPL-PFV 18.LOC 5.house
+\l He has stopped in front of the house.
+
+\t o-nkoko a-ku-maamir-a mawuli
+\g AUG-1.hen 1SBJ-PROG-incubate-FV 6.egg
+\l The hen is sitting on eggs.
+
+\t n-li ani n-ku-nyumirw-a nyembo
+\g 1SG.SBJ-COP here 1SG.SBJ-PROG-enjoy-FV 9.music
+\l I am here enjoying the music.
+
+\t a-bantu ba-irai ba-a-zwal-a-nga e-ndoobe
+\g AUG-2.person 2-ancient 2SBJ-PST-wear-FV-HAB AUG-9.loin_cloth
+\l The people in the past used to wear loin cloths.
+
+\t ti-o-ab-a-nga mu kisiko nga ti-o-kwaite mwigo
+\g NEG-2SG.SBJ-go-FV-HAB 18.LOC 7.bush while NEG-2SG.SBJ-hold:PFV 3.stick
+\l Never go to the bush without a stick.
+
+\t a-bantu ba-ingi ba-kya-kolesy-a e .mole o-ku-ombok-a e-nyumba z-a-abwe
+\g AUG-2.people 2-many 2SBJ-PERS-use-FV 10.reed AUG-INF-build-FV AUG-10.house 10-ASSOC-2
+\l Many people still use reeds to construct their houses.
+
+\t a-bantu ba-ingi ti-ba-kya-kolesy-a e-mole o-ku-ombok-a enyumba za-a-abwe
+\g AUG-2.people 2-many NEG-2SBJ-PERS-use-FV AUG-10.reed AUG-INF-build-FV 10.house 10-ASSOC-2
+\l Many people no longer use reeds to construct their houses.
+
+\t a-bantu ba-ingi ba-kya-li ku-kolesy-a e-mole
+\g AUG-2.people 2-many 2SBJ-PERS-AUX INF-use-FV AUG-10.reed
+\l Many people do not yet use reeds (to construct their houses.)
+
+\t n-ku-ab-a
+\g 1SG.SBJ-PROG-go-FV
+\l I am going.
+
+\t o-ku-ab-a
+\g 2SG.SBJ-PROG-go-FV
+\l You are going.
+
+\t n-a-ab-a
+\g 1SG.SBJ-FUT-go-FV
+\l I will go (soon).
+
+\t ti-n-a-ab-e .
+\g NEG-1SG.SBJ-FUT-go-SBJV
+\l I will not go (soon).
+
+\t ti-n-a-ab-a
+\g NEG-1SG.SBJ-FUT-go-FV
+\l Intended: ‘I will not go (soon).
+
+\t oKato ti-a-kya-li e Kampala
+\g AUG-1.Kato NEG-1SG.SBJ-PERS-COP 23.LOC 1.Kampala
+\l Kato is no longer in Kampala.
+
+\t n-kya-li ku-ab-a
+\g 1SG.SBJ-PERS-AUX INF-go-FV
+\l I have not gone yet.
+
+\t a-bba-ire a-ikal-a mpani obwomi bu-a-mwe bu-ona
+\g 1SBJ-AUX-PFV 1SBJ-live-FV here 14.life 14-ASSOC-1 14-all
+\l He has been living here for all his life.
+
+\t e-mabega edi a-Banyala ba-bba-ire ti-ba-tak-a kusoma
+\g AUG-6.past 23.LOC.DIST AUG-2.Banyala 2SBJ-AUX-PFV NEG-2SBJ-want-FV 15.education
+\l In the past, the Banyala there did not want education.
+
+\t o-musaiza o-mu-gezi
+\g AUG-1.man AUG-1-intelligent
+\l an intelligent man
+
+\t o-nyana o-mu-eru
+\g AUG-1.calf AUG-1-white
+\l a white calf
+
+\t o-nyana o-mu-iragazu
+\g AUG-1.calf AUG-1-black
+\l a black calf
+
+\t ba-ona ba-li=mu ba-sai
+\g 2-all 2SBJ-be=18.LOC 2-good
+\l They are all fine.
+
+\t o-muyembe o-gu-bbisi ti gu-sai ku-li-a
+\g AUG-3.mango AUG-3-raw NEG.COP 3-good INF-eat-FV
+\l A raw mango is not good for eating.
+
+\t e-nsi e-gi-nambulabuculeeri ti-e-kulaakulan-a
+\g AUG-9.country AUG-9-insecure NEG-1SBJ-develop-FV
+\l An insecure country does not develop.
+
+\t o-muyembe gu-nul-a muno
+\g AUG-3.mango 3SBJ-taste.well-FV much
+\l A mango is very tasty.
+
+\t o-musuma a-ibb-ire o-bwita bu-a-ange
+\g AUG-1.thief 1SBJ-steal-PFV AUG-14.millet 14-ASSOC-1SG
+\l A thief has stolen my millet.
+
+\t o-mwana a-mu-gingiire ku mabega
+\g AUG-1.child 1SBJ-1OBJ-carry:APPL:PFV 17.LOC 6.shoulder
+\l She is carrying the baby on the shoulders.
+
+\t n-ku-som-a saayansi o-ku kyegeseryo
+\g 1SG.SBJ-PROG-study-FV 9.science AUG-17.LOC 17.college
+\l I am studying science at the college.
+
+\t n-a-iz-a=yo o-ku Paasika
+\g 1SG.SBJ-FUT-come-FV=23.LOC AUG-17.LOC 9.Easter_Sunday
+\l I will come there on Easter Sunday.
+
+\t e Buganda o-musaiza ti-a-li-a bifuka
+\g 23.LOC 14.Buganda AUG-1.man NEG-1SBJ-eat-FV 8.leftovers
+\l In Buganda a man does not eat leftovers.
+
+\t o-ku isana e-nte zi-li-a bisagazi
+\g AUG-17.LOC 5.drought AUG-10.cow 10SBJ-eat-FV 8.elephant_grass
+\l During a drought cows eat elephant grass.
+
+\t o-ku kyalo ki-ni ku-li=ku o-Mubiito
+\g AUG-17.LOC 7.village 7-PROX 17.SBJ-COP=17.LOC AUG-1.Mubiito
+\l Is there any Mubiito (a person from the bushbuck clan) in this village?
+
+\t o-ku nzira ya Jinja bu-kang-a ku kagera Waligga
+\g AUG-17.LOC 9.road 9.GEN 9.Jinja 14-end-FV 17.LOC 12.river 9.Waligga
+\l On Jinja road it (the river Sezibwa) ends at a small river Waligga.
+
+\t o-mukali musomesya
+\g AUG-1.woman 1.teacher
+\l The woman is a teacher.
+
+\t o-mukali ma wa-a-nge
+\g AUG-1.woman 1.mother 1-ASSOC-1SG
+\l The woman is my mother.
+
+\t o-mukali mu-kooto
+\g AUG-1.woman 1-big
+\l The woman is big.
+
+\t o-mukali a-a-li musomesya
+\g AUG-1.woman 1SBJ-PST-COP 1.teacher
+\l The woman was a teacher.
+
+\t o-mukali a-a-li ma wa-a-nge
+\g AUG-1.woman 1-PST-COP 1.mother 1-ASSOC-1SG
+\l The woman was my mother.
+
+\t o-mukali a-a-li mu-kooto
+\g AUG-1.woman 1-PST-COP 1-big
+\l The woman was big.
+
+\t ati o-li musaiza mu-kulu
+\g now 2SG.SBJ-COP 1.man 1-mature
+\l Now you are a mature man.
+
+\t o-lusozi Rwenzori lu-ta mu Uganda
+\g AUG-11.mountain 11.Rwenzori 11-COP 18.LOC 1.Uganda
+\l Moutain Rwenzori is (found) in Uganda (implied: only in Uganda).
+
+\t o-mukali a-bba mu Kampala .
+\g AUG-1.woman 1SBJ-COP 18.LOC 1.Kampala
+\l The woman lives/stays in Kampala.
+
+\t o-mukali a-ta mu Kampala .
+\g AUG-1.woman 1SBJ-COP 18.LOC 1.Kampala
+\l The woman is in Kampala.
+
+\t o-mukali a-li mu Kampala
+\g AUG-1.woman 1SBJ-COP 18.LOC 1.Kampala
+\l The woman is in Kampala.
+
+\t o-mukali a-li na a-baana
+\g AUG-1.woman 1SBJ-COP COM AUG-2.child
+\l The woman has children.
+
+\t o-mukali a-ta na a-baana
+\g AUG-1.woman 1-COP COM AUG-2.child
+\l The woman has children.
+
+\t o-mukali a-bba na a-baana
+\g AUG-1.woman 1-COP COM AUG-2.child
+\l The woman is supposed to have children./The woman stays with the children.
+
+\t wa-li=wo o-muzumu
+\g 16SBJ-COP=16.LOC AUG-1.devil
+\l There is a devil.
+
+\t ku-li=ku o-mwojo
+\g 17SBJ-COP=17.LOC AUG-1.boy
+\l There is a boy.
+
+\t mu-li=mu o-muntu
+\g 18SBJ-COP=18.LOC AUG-1.person
+\l There is a person.
+
+\t wa-li=yo e-kintu e-kindi
+\g 16SBJ-COP=23.LOC AUG-7.thing AUG-7.other
+\l There is another thing.
+
+\t mu-li=mu iswe a-Balanda mu-li=mu _ a-Bayinda wa-li=wo a-Bakurubyo _ _ wa-li=wo a-Bapapali
+\g 18SBJ-COP=18.LOC 1PL AUG-2.Mulanda 18SBJ-COP=18.LOC _ AUG-2.Muyinda 16SBJ-COP=16.LOC AUG-2.Mukurubyo _ _ 16SBJ-COP=16.LOC AUG-2.Mupapali
+\l There are us the Balanda, there are the Bayinda, there are the Bakurubyo, there are the Bapapali.
+
+\t o-mukali ni-ye musomesya
+\g AUG-1.woman COP-1SBJ 1.teacher
+\l The woman is the one who is a teacher.
+
+\t o-mukali ni-ye ma wa-a-nge
+\g AUG-1.woman COP-1SBJ 1.mother 1-ASSOC-1SG
+\l The woman is the one who is my mother.
+
+\t o-mukali ni-ye mu-kooto
+\g AUG-1.woman COP-1SBJ 1-big
+\l The woman is the one who is big.
+
+\t o-mukali ni-ye mu Kampala
+\g AUG-1.woman COP-1SBJ 18.LOC 1.Kampala
+\l Intended: ‘It is the woman who is in Kampala.
+
+\t o-mukali ni-ye a-li mu Kampala
+\g AUG-1.woman COP-1SBJ 2SBJ-COP 18.LOC 1.Kampala
+\l It is the woman who is in Kampala.
+
+\t o-mukali ti ma wa-a-nge
+\g AUG-1.woman NEG.COP 1.mother 1-ASSOC-1SG
+\l The woman is not my mother.
+
+\t ti-ki-a-li ki-angu
+\g NEG-7SBJ-PST-COP 7-easy
+\l It was not easy.
+
+\t kubba ti-o-li Muganda
+\g because NEG-2SG.SBJ-COP 1.Muganda
+\l Because you are not a Muganda.
+
+\t o-mukali ti-ni-ye mu-kooto
+\g AUG-1.woman NEG-COP-1SBJ 1-big
+\l It is not the woman who is big.
+
+\t o-musaale gu-li mu kibira
+\g AUG-3.tree 3SBJ-COP 18.LOC 7.forest
+\l The tree is in the forest.
+
+\t o-musaale ti-gu-li mu kibira
+\g AUG-3.tree NEG-3SBJ-COP 18.LOC 7.forest
+\l The tree is not in the forest.
+
+\t o-musaale gu-ta mu kibira
+\g AUG-3.tree 3SBJ-COP 18.LOC 7.forest
+\l The tree is in the forest.
+
+\t o-musaale ti-gu-ta mu kibira
+\g AUG-3.tree NEG-3SBJ-COP 18.LOC 7.forest
+\l The tree is not in the forest.
+
+\t o-musaale gu-bba mu kibira
+\g AUG-3.tree 3SBJ-AUX 18.LOC 7.forest
+\l The tree stays in the forest/is supposed to be in the forest.
+
+\t o-musaale ti-gu-bba mu kibira
+\g AUG-3.tree NEG-3SBJ-COP 18.LOC 7.forest
+\l The tree does not stay in the forest/is not supposed to be in the forest.
+
+\t o-mukali ti-a-li na baana
+\g AUG-1.woman NEG-1SBJ-COP COM 2.child
+\l The woman does not have children.
+
+\t o-mukali ti-a-ta na baana
+\g AUG-1.woman NEG-1SBJ-COP COM 2.child
+\l The woman does not have children.
+
+\t o-mukali ti-a-bba na baana
+\g AUG-1.woman NEG-1SBJ-COP COM 2.child
+\l The woman is not supposed to have children/does not stay with the children.
+
+\t e-irai budi ti-wa-a-li=wo sente
+\g AUG-long_ago last_time NEG-16SBJ-PST-COP=16.LOC 9.money
+\l Long ago there was no money.
+
+\t naye ndoo=wo mugaso
+\g but NEG.EX=16.LOC 3.importance
+\l But there is no importance.
+
+\t ndoo=wo Munyala
+\g NEG.EX=16.LOC 1.Munyala
+\l There was no Munyala.
+
+\t o-mukoli wa-a-nge mu-garambi
+\g AUG-1.worker 1-ASSOC-1SG 1-lazy
+\l My worker is lazy.
+
+\t a-membe ga nte wa-a-nge ga-songoli
+\g AUG-6.horn 6.GEN 1.cow 1-ASSOC-1SG 6-straight
+\l The horns of my cow are straight.
+
+\t ba-tum-e a-ba-a-bwe o-wa-a-nge ti-ab-a kol-a eby-o
+\g 2SBJ-send-SBJV AUG-2-ASSOC-2 AUG-1-ASSOC-1SG NEG-AUX-FV do-FV 8-MED
+\l Let them send theirs (=their children, noun class 2) because mine (=my child, noun class 1) will not do that.
+
+\t o-musaiza wa maani
+\g AUG-1.man 1.GEN 6.strength
+\l a strong man' (lit. `a man of strength')
+
+\t o-mwana wa Bob
+\g AUG-1.child 1.GEN 1.Bob
+\l Bob’s child
+
+\t o-mwana wa leero
+\g AUG-1.child 1.GEN today
+\l today’s child
+
+\t o-mukubi gwa maido
+\g AUG-3.sauce 3.GEN 6.groundnut
+\l the groundnut sauce
+
+\t o-mukonda gwa kikopo
+\g AUG-3.handle 3.GEN 7.cup
+\l the handle of the cup
+
+\t e-ryato lya Musoke
+\g AUG-5.boat 5.GEN 1.Musoke
+\l Musoke's boat
+
+\t a-matwi ga mbwene
+\g AUG-6.ear 6.GEN 1.dog
+\l the dog's ears
+
+\t e-kooti ya byoya
+\g AUG-9.coat 9.GEN 8.wool
+\l a wool coat
+
+\t o-busanso bwa musaale
+\g AUG-14.twig 14.GEN 3.tree
+\l tree twigs
+
+\t o-kufa kwa Walusimbi
+\g AUG-15.death 15.GEN 1.Walusimbi
+\l Walusimbi's death
+
+\t a-baana ba mu kyalo
+\g AUG-2.child 2.GEN 18.LOC 7.village
+\l children in the countryside
+
+\t a-bantu ba mu Kampala
+\g AUG-2.man 2.GEN 18.LOC 1.Kampala
+\l people in Kampala
+
+\t bu-li=mu ati e-bika bi-satu
+\g 8-COP=18.LOC now AUG-8.type 8-three
+\l They are now of three types.
+
+\t cw-a e-kisaale eky-o e-bicweka bi-biri
+\g break-FV AUG-7.stick 7-MED AUG-8.piece 8-two
+\l Break that stick into two pieces.
+
+\t a-a-n-lek-ir-ire a-baana musanju
+\g 2SBJ-PST-1SG.OBJ-leave-APPL-FV AUG-2.child seven
+\l He left seven children to me.
+
+\t tu-li=mu e-bigurupu munaanai
+\g 1PL.SBJ-COP=18.LOC AUG-8.group eight
+\l We are in eight groups.
+
+\t ti-mu-a-li-a-nga binage bi-bbisi
+\g NEG-2SG.SBJ-PST-eat-FV-HAB 8.tilapia 8-raw
+\l You used to not eat raw fish.
+
+\t tu-li bantu ba idembe
+\g 1PL.SBJ-COP 2.person 2.GEN 5.peace
+\l We are peaceful people.’ (lit. ‘We are people of peace.’)
+
+\t a-a-li musaiza wa maani
+\g 1SBJ-PST-COP 1.man 1.GEN 6.power
+\l He was a powerful man.’ (lit. ‘He was a man of power.’)
+
+\t n-eekunwire _ _ o-ku-sang-a _ _ o-musaiza _ e-a-a-tak-a-nga _ o-ku-n-swer-a
+\g 1SG.SBJ-be_shy:PFV _ _ AUG-INF-meet-FV _ _ AUG-1.man _ SBJ.REL-1SBJ-PST-want-FV-HAB _ AUG-INF-1SG.OBJ-marry-FV
+\l I was shy to meet the man who wanted to marry me.
+
+\t tu-lin-a e-bintu e-bi-tu-siis-ir-a e-bintu
+\g 1PL.SBJ-have-FV AUG-8.thing SBJ.REL-8SBJ-1PL.OBJ-spoil-APPL-FV AUG-8.thing
+\l We have things (i.e. birds) which spoil for us things (i.e. crops).
+
+\t a-bamagye ba-kwat-a o-bwato bwe ba-sang-a o-ku nyanja
+\g AUG-2.soldier 2SBJ-confiscate-FV AUG-14.boat 14.REL 2SBJ-find-FV AUG-17.LOC 9.lake
+\l The soldiers confiscate boats they find on the lake.
+
+\t tu-ku-iz-a o-ku-fun-a we tu-a-bb-a
+\g 1PL.SBJ-PROG-AUX-FV AUG-INF-get-FV 16.REL 1PL.SBJ-FUT-stay-FV
+\l We will get (a place) where we will stay.
+
+\t o-ku-bon-a  kye n-ku-kob-a 
+\g 2SG.SBJ-PROG-see-FV 7.REL 1SG.SBJ-PROG-say-FV
+\l Do you understand what I am saying?
+
+\t ab-a o-mu-kayul-e tu-bon-e  kye a-a-kol-a 
+\g go-FV 2SG.SBJ-1OBJ-annoy-SBJV 1PL.SBJ-see-SBJV 7.REL 1SBJ-FUT-do-FV
+\l Go and annoy her, let's see what she will do.
+
+\t naye  a-ba-ta-a-bba-a-nga na kifo  ni-ba-ab-a
+\g but REL-2SBJ-NEG-PST-COP-FV-HAB COM 7.place NAR-2SBJ-go-FV
+\l But those who didn't have a place (to sleep) went.
+
+\t a-maani ga kanca  gwe o-ta-sobol-a ku-bon-a=ku 
+\g AUG-6.power 6.GEN 1.God 1.REL 2SG.SBJ-NEG-can-FV INF-see-FV=17.LOC
+\l The power of God whom you cannot see…
+
+\t a-sumb-ir-ire o-mwana e-biyaata
+\g 1SBJ-cook-APPL-PFV AUG-1.child AUG-8.potato
+\l She has cooked potatoes for the child.
+
+\t n-kol-ir-a=yo o-musokoto gwa taaba
+\g 1SG.OBJ-make-APPL-FV=23.LOC AUG-3.hand-rolled_cigarette 3.GEN 1.tobacco
+\l Make for me a hand-rolled cigarette.
+
+\t e Nalufeenya _ ba-a-kol-ir-ire=yo e-bikolobero bi-ingi
+\g 23.LOC 9.Nalufeenya _ 2SBJ-PST-do-APPL-PFV=23.LOC AUG-8.crime 8-numerous
+\l They committed a lot of crimes in Nalufeenya.
+
+\t e-nkangu zi-tambul-ir-a mu nyiriri
+\g AUG-10.stink_ant 10S-walk-APPL-FV 18.LOC 10.line
+\l Stink ants walk in lines.
+
+\t Obote a-a-baz-ir-a-nga mu ngero
+\g 1.Obote 1SBJ-PST-speak-APPL-FV-HAB 18.LOC 10.parable
+\l Obote used to speak in parables.
+
+\t a-a-ab-ir-ire kyarumwe
+\g 1SBJ-PST-go-APPL-PFV-FV for_good
+\l He left for good.
+
+\t o-mutaani wa-a-mwe a-a-mu-kubb-ir-ire bwereere
+\g AUG-1.som 1-ASSOC-1 1SBJ-PST-1OBJ-beat-APPL-PFV for_no_reason
+\l He has beaten his son for no reason.
+
+\t o-maama a-ku-bin-a
+\g AUG-1.mother 1SBJ-PROG-dance-FV
+\l Mother is dancing.
+
+\t o-bin-isy-a o-maama
+\g 2SG.SBJ-dance-CAUS-FV AUG-1.mother
+\l You make (my) mother dance.
+
+\t o-mu-bin-isy-a
+\g 2SG.SBJ-1OBJ-dance-CAUS-FV
+\l You make her dance.
+
+\t ba-ab-ire ku-bandw-a mbandwa Katigo
+\g 2SBJ-go-PFV INF-worship-FV 1.spirit 1.Katigo
+\l They have gone to worship the spirit called Katigo.
+
+\t o-mukali wa-a-nge n-mu-gait-ire o-lugoye lu-ni
+\g AUG-1.wife 1-ASSOC-1SG 1SG.SBJ-1OBJ-pay_fine-PFV AUG-11.garment 11-PROX
+\l I paid this garment as a fine to my wife.
+
+\t tu-mu-gait-isy-a o-ntaama
+\g 1PL.SBJ-1OBJ-pay-CAUS-FV AUG-1.sheep
+\l We make him pay a sheep (as a fine).
+
+\t a-iruk-ire
+\g 1SBJ-run-PFV
+\l He ran.
+
+\t ba-tu-iruky-a
+\g 2SBJ-1PL.OBJ-chase-FV
+\l They chase us away.’ (lit. `They make us run.')
+
+\t ombok-a e-nyumba ya nkoko .
+\g build-FV AUG-9.house 9.GEN 10.chicken
+\l Build a chicken shed.
+
+\t o-mutoma ogw-o ba-gu-ombok-esy-a-nga a-mayumba
+\g AUG-3.Ficus_natalensis 3-MED 2SBJ-3OBJ-build-CAUS-FV-HAB AUG-6.house
+\l That bark cloth tree (Lat. Ficus natalensis), it is used it to build houses.
+
+\t nadala a-bantu a-ba-bb-a-nga ba-ku-eetaag-a e-miyo gi-ni o-ku-kek-esy-a e-biteere
+\g especially AUG-2.people REL-2SBJ-AUX-FV-HAB 2SBJ-PROG-need-FV AUG-4.knife 4-PROX AUG-INF-slice-CAUS-FV AUG-8.sweet_potatoe
+\l Especially people who needed these knives to slice sweet potatoes, …
+
+\t o-nen-esy-a a-maino
+\g 2SG.SBJ-bite-CAUS-FV AUG-6.tooth
+\l You bite using the teeth.
+
+\t e-irai a-bantu ba-ee-yamb-isy-a-nga muno a-bantu a-ba-kulu
+\g AUG-in_the_past AUG-2.man 2SBJ-REFL-help-CAUS-FV-HAB much AUG-2.man AUG-2-elderly
+\l In the past, people used to help themselves a lot with (the advice from) elders.
+
+\t e-birumba bi-ni ti-bi-nen-a bantu
+\g AUG-8.wasp 8-PROX NEG-8SBJ-bite-FV 2.person
+\l These wasps don't bite people.
+
+\t e-itakali lya Nantaba ba-li-send-ire
+\g AUG-5.land 5.GEN 1.Nantaba 2SBJ-5OBJ-grade-PFV
+\l Nantaba's land was graded.
+
+\t o-mwojo oyo ba-a-mu-siramw-ire
+\g AUG-1.boy 1.MED 2SBJ-PST-1OBJ-circumcise-PFV
+\l That boy was circumcised.
+
+\t o-Nakato na o-Babirye ba-kubb-angan-a
+\g AUG-1.Nakato COM AUG-1.Babirye 2SBJ-hit-RECP-FV
+\l Nakato and Babirye hit each other.
+
+\t a-bafumbo ba-nweger-angan-a .
+\g AUG-2.lover 2SBJ-kiss-RECP-FV
+\l Lovers kiss each other.
+
+\t e-bbandeegi ya-ku-swek-a mukono
+\g AUG-9.bandage 9SBJ-PROG-cover-FV 3.hand
+\l The bandage is covering the hand.
+
+\t o-ee-swek-e e-bbulangiti
+\g 2SG.SBJ-REFL-cover-SBJV AUG-9.blanket
+\l Cover yourself with the blanket.
+
+\t tu-ku-ab-a ku-alik-a a-baana a-mabara
+\g 1PL.SBJ-PROG-AUX-FV INF-name-FV AUG-2.child AUG-6.name
+\l We are going to give the children names.
+
+\t o-ee-a-alik-a ibara Nampiina
+\g 2SG.SBJ-REFL-PST-name-FV 5.name 1.Nampiina
+\l You named yourself Nampiina.
+
+\t n-lum-a pampa
+\g 1SG.SBJ-cultivate-FV 9.cotton
+\l I cultivate cotton.
+
+\t nje-ena n-ee-lum-ir-a eyo
+\g 1SG-also 1SG.SBJ-REFL-cultivate-APPL-FV there
+\l I also cultivate (crops) for myself there.
+
+\t mu-eesamb-e e-ntalo za basaiza ab-o
+\g 2PL.SBJ-avoid-SBJV AUG-10.fight 10.GEN 2.man 2-MED
+\l Avoid the fights of those men.
+
+\t ati n-sobol-a o-ku-ir-a
+\g now 1SG.SBJ-can-FV AUG-INF-return-FV
+\l Now I can come back.
+
+\t ba-leet-a-nga mbuli ni o-nte a-ku-esobol-a
+\g 2SBJ-bring-FV-HAB 10.goat even AUG-1.cow 1SBJ-PROG-be_capable(REFL)-FV
+\l They could bring goats, even a cow in case one was capable.
+
+\t o-musyetete o-gu-maite
+\g AUG-3.mousebird 2SG.SBJ-3OBJ-know:PFV
+\l Do you know the mousebird?
+
+\t o-musyetete n-gu-maite
+\g AUG-3.mousebird 1SG.SBJ-3OBJ-know:PFV
+\l I know the mousebird.
+
+\t lwaki o-mbwene a-ku-bwoigol-a
+\g why AUG-1.dog 1SBJ-PROG-bark-FV
+\l Why is the dog barking?
+
+\t naye lwaki ti-o-byal-a
+\g but why NEG-2SG.SBJ-give_birth-FV
+\l But why don’t you bear children?
+
+\t e-bintu _ bi-a-mu _ lwaki _ o-bi-kol-a _ biralebirale
+\g AUG-8.thing _ 8-ASSOC-2SG _ why _ 2SG.SBJ-8OBJ-do-FV _ carelessly
+\l Why do you do your things carelessly?
+
+\t o-mwana a-ab-ire ayi
+\g AUG-1.child 1SBJ-go-PFV where
+\l Where has the child gone?
+
+\t o-a-tol-ire ayi o-buyinza o-ku-vug-a mmotoka ya-a-nge
+\g 2SG.SBJ-PST-get-PFV where AUG-14.permission AUG-INF-drive-FV 9.car 9-ASSOC-1SG
+\l Where did you get the permission to drive my car?
+
+\t Ati o-wa-a-mu a-li-ayi
+\g now AUG-1-ASSOC-2SG 1SBJ-COP-where
+\l Now where is yours?
+
+\t o-mwana a-li-eg-a di o-ku-luk-a e-kiibbo
+\g AUG-1.child 1SBJ-FUT-learn-FV when AUG-INF-weave-FV AUG-7.basket
+\l When will the child learn how to weave a basket?
+
+\t a-a-ab-ire di
+\g 1SBJ-PST-go-PFV when
+\l When did he go?
+
+\t naani a-maite o-ku-bumb-a e-binaga
+\g who 1SBJ-know:PFV AUG-INF-mould-FV AUG-8.pot
+\l Who knows how to mould pots?
+
+\t o-ku-domawaly-a naani
+\g 2SG.SBJ-PROG-fool-FV who
+\l Whom are you fooling?
+
+\t mwala wa naani
+\g 1.daughter 1.GEN who
+\l Whose daughter is she?
+
+\t kaisi ba-naani
+\g by.the.way 2-who
+\l By the way who are they?
+
+\t ba-ku-sasul-a ba-naani
+\g 2SBJ-PROG-pay-FV 2-who
+\l To whom are they paying
+
+\t a-bageni o-ba-genyul-ire ki
+\g AUG-2.visitor 2SG.SBJ-2OBJ-serve-PFV what
+\l What have you served to the visitors?
+
+\t ba-ga-biik-a mu kiki
+\g 2SBJ-6OBJ-keep-FV 18.LOC what
+\l Where do they keep it?' (lit. `They keep it in what?')
+
+\t mu-ku-baz-a bi-kiki
+\g 2PL.SBJ-PROG-talk-FV 8-what
+\l What are you talking?
+
+\t mu-ku-kol-a bi-ki
+\g 2PL.SBJ-PROG-do-FV 8-what
+\l What are you doing?
+
+\t kiki eky-o e-ki-kol-ire e-iraka e-ri-kooto
+\g what 7-MED REL-7SBJ-make-PFV AUG-5.sound AUG-5-loud
+\l What has made the loud sound?
+
+\t o-Museveni ki-ki kye a-lek-ere=wo
+\g AUG-1.Museveni 7-what 7.REL 1-leave-PFV=16.LOC
+\l What has Museveni left?
+
+\t ni-ba-zi-kol-a ki ni-ba-zi-li-a
+\g NAR-2SBJ-10OBJ-do-FV what NAR-2SBJ-10OBJ-eat-FV
+\l And they did what to it? They ate it.
+
+\t nayenga Amin ti-a-a-li mu-ki mu-zibu muno
+\g but 1.Amin NEG-1SBJ-PST-COP 1-what 1-difficult very
+\l But Amin wasn't what? Very difficult.
+
+\t by-ona by-ona bi-lig-a mu ki-ki mu nte
+\g 8-all 8-all 8-come_from-FV 18.LOC 7-what 18.LOC 10.cattle
+\l All that come from what? From the cattle.
+
+\t o-many-a o-tyai ?
+\g 2SG.SBJ-know-FV 2SG-how
+\l How do you know?
+
+\t agenda e-li e-tyai
+\g 9.agenda 1SBJ-COP 9-how
+\l How is the agenda?
+
+\t ba-wangul-ire ba-tyai a-kalulu
+\g 2SBJ-succeed_in-PFV 2-how AUG-12.election
+\l How did they win the elections?
+
+\t o-ku-endy-a e-gologolo zi-ingai e-za biyimba
+\g 2SG.SBJ-PROG-want-FV AUG-10.container 10-how_many AUG-10.GEN 8.bean
+\l How many containers of beans do you want?
+
+\t Nakasongola e-li=mu e-miruka i-mekai
+\g 9.Nakasongola 1SBJ-COP=18.LOC AUG-4.parish 4-how_many
+\l How many parishes are in Nakasongola?
+
+\t ba-mekai a-ba-ab-ire e-igolo
+\g 2SBJ-how_many REL-2SBJ-go-PFV AUG-yesterday
+\l How many (people) went yesterday?
+
+\t iz-a
+\g come-FV
+\l Come.
+
+\t mu-iz-e
+\g 2PL.SBJ-come-SBJV
+\l You (pl.), come.
+
+\t o-ee-kuuty-e o-ku mwomo
+\g 2SG.SBJ-REFL-rub-SBJV AUG-17.LOC 3.wall
+\l Rub yourself against the wall!
+
+\t mu-eesamb-e entalo
+\g 2PL.SBJ-avoid-SBJV 10.fight
+\l Avoid fights!’ (plural addressee)
+
+\t Iz-a o-zingulul-e o-lukosi !
+\g come-FV 2SG.SBJ-uncoil-SBJV AUG-11.thread
+\l Come and uncoil the thread!
+
+\t Mu-iz-e mw-eroor-e o-ku musyoli !
+\g 2PL.SBJ-come-SBJV 2PL.SBJ-see-SBJV AUG-17.LOC 1.magician
+\l Come and see the magician!
+
+\t kubb-a enkaito za-a-mu
+\g polish-FV 10.shoe 10-ASSOC-2SG
+\l Polish your shoes!
+
+\t zi-kubb-e !
+\g 10OBJ-polish-SBJV
+\l Polish them (e.g. shoes)!
+
+\t mu-zi-kubb-e
+\g 2PL.SBJ-10OBJ-polish-SBJV
+\l You (pl.), polish them (e.g. shoes)!
+
+\t *zi-kubb-a
+\g 10OBJ-polish-FV
+\l Intended: ‘Polish them (e.g. shoes)!
+
+\t *mu-zi-kubb-a/-e
+\g 2PL.SBJ-10OBJ-polish-FV/-SBJV
+\l Intended: ‘You (pl.), polish them (e.g. shoes)!
+
+\t o-ta-kubb-a nkaito za-a-mu
+\g 2SG.SBJ-NEG-polish-FV 10.shoe 10-ASSOC-2SG
+\l Don't polish your shoes.
+
+\t o-ta-eebulyabuly-a
+\g 2SG.SBJ-NEG-be_evasive-FV
+\l Don't be evasive.
+
+\t mu-ta-kubb-a nkaito
+\g 2PL.SBJ-NEG-polish-FV 10.shoes
+\l You (pl.), don't polish the shoes.
+
+\t o-ta-zi-kubb-a
+\g 2SG.SBJ-NEG-10OBJ-polish-FV
+\l Don't polish them (e.g. the shoes).
+
+\t o-ta-ab-a ku-syom-a maizi
+\g 2SG.SBJ-NEG-go_away-FV INF-fetch-FV 6.water
+\l Don't go to fetch water.
+
+\t mu-ta-ab-a ku-syom-a maizi
+\g 2PL.SBJ-NEG-go_away-FV INF-fetch-FV 6.water
+\l You (pl.), don't go and bring water.
+
+\t tu-igal-e o-lwige
+\g 1PL.SBJ-close-SBJV AUG-11.door
+\l Let's close the door.
+
+\t tu-ta-igal-a lwige
+\g 1PL.SBJ-NEG-close-FV 11.door
+\l Let's not close the door.
+
+\t ba-igal-e a-madirisa
+\g 2SBJ-close-SBJV AUG-10.window
+\l Let them close the windows.
+
+\t ba-ta-igal-a madirisa
+\g 2SBJ-NEG-close-FV 10.window
+\l Let them not close the windows.
+
+\t n-sobola o-ku-sosoitoor-a o-muntu e-kiibulo
+\g 1SG.SBJ-can-FV AUG-INF-serve-FV AUG-1.person AUG-7.meal
+\l I can serve a person a meal
+
+\t o-sobol-a o-ku-ab-a o-mu kanisa
+\g 2SG.SBJ-can-FV AUG-INF-go-FV AUG-18.LOC 9.church
+\l You can go to church.
+
+\t o-yinz-a ku-n-fun-ir-a=yo o-nkowu o-mwei
+\g 2SG.SBJ-can-FV INF-1SG.OBJ-get-APPL-FV=23.LOC AUG-1.guinea_fowl 1-one
+\l Can you get me one guinea fowl?
+
+\t e Kidera eyo o-mu katale ga-yinz-a _ _ o-ku-bb-a=yo=ku
+\g 23.LOC Kidera there AUG-18.LOC 12.market 6SBJ-can-FV _ _ AUG-INF-be-FV=23.LOC=17.LOC
+\l There may be some (spears to buy) there at Kidera in the market.
+
+\t o-lin-a ku-sal-a musaayi
+\g 2SG.SBJ-have.to-FV INF-sacrifice-FV 3.blood
+\l You have to sacrifice blood.
+
+\t ka-teek-a o-ku-bba=mu o-mu kidoodolo
+\g 12SBJ-must-FV AUG-INF-be=18.LOC AUG-18.LOC 7.granary
+\l It must be there in the granary.
+
+\t n-ku-yendy-a ku-tanak-a
+\g 1SG.SBJ-PROG-need-FV INF-vomit-FV
+\l I need to vomit.
+
+\t babon-ire  ti-e-kya-li ya mugaso 
+\g 2SBJ-see-PFV NEG-1SBJ-PERS-COP 9.GEN 3.importance
+\l They have seen they are no longer of importance.
+
+\t tu-somesy-e baana
+\g 1PL.SBJ-teach-SBJV 2.child
+\l Let us educate children.
+
+\t o-tak-a  o-ta-e=wo o-lukonko 
+\g 2SG.SBJ-want-FV 2SG.SBJ-put-SBJV=16.LOC AUG-11.rift
+\l You want to cause a rift.
+
+\t ti-n-tak-a ku-nyw-a isara
+\g NEG-1SG.SBJ-like-FV INF-drink 5.stale.brew
+\l I don’t like drinking stale brew.
+
+\t o-musaiza a-yinz-a  o-bu-ta-leet-a=wo mukali 
+\g AUG-1.man 2SBJ-be_able-FV AUG-16-NEG-bring-FV=16.LOC 1.wife
+\l The man may not bring there a wife.
+
+\t o-muganda ni-a-yindul-a mangu e-ibara lya-a-mu
+\g AUG-1.Muganda NAR-1SBJ-interpret-FV quickly AUG-5.name 5-ASSOC-2SG
+\l The Muganda quickly interpreted your name.
+
+\t e-bintu by-a-mu lwaki o-bi-kol-a biralebirale
+\g AUG-8.thing 8-ASSOC-2SG why 2SG.SBJ-8OBJ-make-FV carelessly
+\l Why do you do your things carelessly?
+
+\t ni-o-luk-a o-buguwa bu-a-mu mpola-mpola
+\g NAR-2SG.SBJ-weave-FV AUG-14.string 14-ASSOC-2SG slowly-<RED>
+\l You weaved your strings very slowly.
+
+\t e-mambya tu-a-li-a kaita ka mweryai
+\g AUG-tomorrow 1PL.SBJ-FUT-eat-FV 12.millet 12.GEN 3.fresh_millet
+\l Tomorrow we will eat a meal of freshly harvested millet.
+
+\t a-a-liire e-nyaawo e-igolo
+\g 1SBJ-PST-eat:PFV AUG-9.udder_meat AUG-yesterday_evening
+\l He ate udder meat yesterday evening.
+
+\t a-Bakagiri a-bo n-ba-many-ire kimwei a-Bakagiri a-bo bantu ba-tuufu
+\g AUG-2.Bakagiri 2-MED 1SG.SBJ-2OBJ-know-PFV totally AUG-2.Bakagiri 2-MED 2.person 2-correct
+\l I totally know those Bakagiri, those Bakigiri are correct people.
+
+\t a-a-mu-kubb-iire kaakimwe
+\g 1SBJ-PST-1OBJ-beat-APPL:PFV thoroughly
+\l He beat him thoroughly.
+
+\t ti-n-li-a muceere
+\g NEG-1SG.SBJ-eat-FV 3.rice
+\l I don't eat rice.
+
+\t ti-n-lyair-a kimwe muceere
+\g NEG-1SG.SBJ-eat:APPL-FV totally 3.rice
+\l I don't eat rice at all.
+
+\t ti-n-lyair-a kaakimwe muceere
+\g NEG-1SG.SBJ-eat:APPL-FV thoroughly 3.rice
+\l I don't eat rice at all.
+
+\t ti-n-lyair-a kakyarumwe muceere
+\g NEG-1SG.SBJ-eat:APPL-FV completely 3.rice
+\l I don't eat rice at all.
+
+\t n-a-iz-a nga e-isana li-gu-ire
+\g 1SG.SBJ-FUT-come-FV when AUG-5.sun 5SBJ-set-FV
+\l I will come at dusk.' (lit. `I will come, when the sun sets.')
+
+\t n-ku-many-isy-e=mu nga tu-ire=yo o-ku bbaibbuli
+\g 1SG.SBJ-2SG.OBJ-know-CAUS-SBJV=18.LOC when 1PL.SBJ-return.PVF=23.LOC AUG-17.LOC 9.Bible
+\l Should I let you know when we return to the Bible?
+
+\t a-a-iz-ire=yo eyo nga ti-a-a-lin-a motoka
+\g 1SBJ-PST-come-PFV=23.LOC there CONJ NEG-1SBJ-PST-have-FV 9.car
+\l He came there without a car.' (lit. `He came there while he did not have a car.')
+
+\t a-a-ab-ire omu irwaliro nga ti-a-lin-a mugendya
+\g 1SBJ-PST-go-PFV 18.LOC 5.hospital while NEG-1SBJ-have-FV 1.caretaker
+\l He went to the hospital without a caretaker.’ (lit. ‘He went to the hospital while he did not have a caretaker.’)
+
+\t ba-a-mu-bbwere nga ndoo=wo bujuurwa
+\g 2SBJ-PST-1OBJ-detain:PFV while NEG.EX=16.LOC 14.evidence
+\l He was imprisoned without any evidence.
+
+\t nga ti-a-liisirye nkoko a-a-tambwire=mbe
+\g CONJ NEG-1SBJ-feed:PFV 10.chicken 1SBJ-PST-walk:PFV=FOC
+\l He just walked away without feeding the chicken.' (lit. `While he had not fed the chicken, he just walked away.')
+
+\t ni ba-ku-kob-a a-fiire ta-o-gaan-a
+\g if 2SBJ-2SG.OBJ-say-FV 1SBJ-die:PFV NEG-2SG.SBJ-refuse-FV
+\l If you are told, that he has died, don't refuse.
+
+\t o-ikendi ni a-gu-toony-a=ku gu-jund-a
+\g AUG-1.rain when 1SBJ-3OBJ-rain-FV 3SBJ-decompose-FV
+\l When it rains on it, it decomposes.
+

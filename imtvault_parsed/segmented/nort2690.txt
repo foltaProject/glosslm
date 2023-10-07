@@ -1,0 +1,354 @@
+\t Yoz-a-siz
+\g write-PRS-2
+\l You write.
+
+\t Yoz-d-ingiz
+\g write-PST-2
+\l You wrote.
+
+\t Yoz-gan-man .
+\g write-PTCP-1SG
+\l I have written.
+
+\t Yoz-gan-d-im .
+\g write-PTCP-PST-1SG
+\l I had written.
+
+\t Qiziq-siz .
+\g interesting-2
+\l You are interesting.
+
+\t Qiziq e-d-ingiz .
+\g interesting E-PST-2
+\l You were interesting.
+
+\t Talaba-man .
+\g student-1SG
+\l I am a student.
+
+\t Talaba e-d-im .
+\g student E-PST-1SG
+\l I was a student.
+
+\t Farhod bilan-man .
+\g Farhod with-1SG
+\l I am with Farhod.
+
+\t Farhod bilan e-d-im .
+\g Farhod with E-PST-1SG
+\l I was with Farhod.
+
+\t Yoz-ma-y-man .
+\g write-NEG-PRS-1SG
+\l I don’t write.
+
+\t Yoz-ma-d-im .
+\g write-NEG-PST-1SG
+\l I didn’t write.
+
+\t *Yoz-ma(s) e-d-im .
+\g write-NEG E-PST-1SG\t Talaba-mas-man .
+\g student-NEG-1SG
+\l I’m not a student.
+
+\t *Talaba-mas-d-im .
+\g student-NEG-PST-1SG\t Talaba-mas e-d-im .
+\g student-NEG E-PST-1SG
+\l I was not a student.
+
+\t Yoz-ma-d-ingiz .
+\g write-NEG-PST-2
+\l You didn’t write.
+
+\t *Yoz e-ma(s) e-d-ingiz .
+\g write E-NEG E-PST-2\t *Yoz-ma(s) e-d-ingiz .
+\g write-NEG E-PST-2\t *Yoz e-ma(s)-d-ingiz .
+\g write E-NEG-PST-2\t Yoz-ma-y-siz
+\g write-NEG-PRS-2
+\l You don’t write.
+
+\t *Yoz e-ma(s) e-siz .
+\g write E-NEG E-2\t *Yoz-ma(s) e-siz .
+\g write-NEG E-2\t *Yoz e-ma(s)-siz .
+\g write E-NEG-2\t *Talaba-mas-d-ingiz .
+\g student-NEG-PST-2\t Talaba e-mas e-d-ingiz .
+\g student E-NEG E-PST-2
+\l You weren’t a student.
+
+\t Talaba-mas e-d-ingiz .
+\g student-NEG E-PST-2
+\l You weren’t a student.
+
+\t  ?Talaba e-mas-d-ingiz .
+\g student E-NEG-PST-2
+\l You weren’t a student.
+
+\t Talaba-mas-siz .
+\g student-NEG-2
+\l You are not a student.
+
+\t *Talaba e-mas e-siz .
+\g student E-NEG E-2\t *Talaba-mas e-siz .
+\g student-NEG E-2\t Talaba e-mas-siz .
+\g student E-NEG-2
+\l You aren’t a student.
+
+\t Yoz-ma-y(-*mi)-siz-mi ?
+\g write-NEG-PRS(-*Q)-2-Q
+\l Aren’t you writing?
+
+\t Yoz-ma(-*mi)-d-ingiz-mi ?
+\g write-NEG(-*Q)-PST-2-Q
+\l Weren’t you writing?
+
+\t Qiziq-mi-siz ?
+\g interesting-Q-2
+\l Are you interesting?
+
+\t Qiziq-siz-mi ?
+\g interesting-2-Q
+\l Are you interesting?
+
+\t Qiziq-mas-mi-siz ?
+\g interesting-NEG-Q-2
+\l Aren’t you interesting?
+
+\t Qiziq-mas-siz-mi ?
+\g interesting-NEG-2-Q
+\l Aren’t you interesting?
+
+\t Qiziq e-mas-mi-siz ?
+\g interesting E-NEG-Q-2
+\l Aren’t you interesting?
+
+\t Qiziq e-mas-siz-mi ?
+\g interesting E-NEG-2-Q
+\l Aren’t you interesting?
+
+\t Qiziq-mas-mi-d-ingiz(-*mi) ?
+\g interesting-NEG-Q-PST-2(-*Q)
+\l Weren’t you interesting?
+
+\t Talaba-mas-mi-d-ik(-*mi) ?
+\g student-NEG-Q-PST-1PL(-*Q)
+\l Weren’t we students?
+
+\t Qiziq e-mas-mi-d-ingiz(-*mi) ?
+\g interesting E-NEG-Q-PST-2(-*Q)
+\l Weren’t you interesting?
+
+\t Talaba e-mas-mi-d-ik(-*mi) ?
+\g student E-NEG-Q-PST-1PL(-*Q)
+\l Weren’t we students?
+
+\t Kitob-ni yoz-gan-d-ingiz .
+\g book-ACC write-PTCP-PST-2
+\l You had written the book.
+
+\t Kitob-ni o’qi-gan-d-im .
+\g book-ACC read-PTCP-PST-1SG
+\l I had read the book.
+
+\t Kitob-ni yoz-ma-gan-d-ingiz .
+\g book-ACC write-NEG-PTCP-PST-2
+\l You hadn’t written the book.
+
+\t Kitob-ni o’qi-ma-gan-d-im .
+\g book-ACC read-NEG-PTCP-PST-1SG
+\l I hadn’t read the book.
+
+\t Kitob-ni yoz-ma-gan e-d-ingiz .
+\g book-ACC write-NEG-PTCP E-PST-2
+\l You hadn’t written the book.
+
+\t Kitob-ni o’qi-ma-gan e-d-im .
+\g book-ACC read-NEG-PTCP E-PST-1SG
+\l I hadn’t read the book.
+
+\t Kitob-ni yoz-ma-gan-d-ingiz-mi ?
+\g book-ACC write-NEG-PTCP-PST-2-Q
+\l Hadn’t you written the book?
+
+\t Kitob-ni yoz-ma-gan-mi-d-ingiz ?
+\g book-ACC write-NEG-PTCP-Q-PST-2
+\l Hadn’t you written the book?
+
+\t Kitob-ni o’qi-ma-gan-d-im-mi ?
+\g book-ACC read-NEG-PTCP-PST-1SG-Q
+\l Hadn’t I read the book?
+
+\t Kitob-ni o’qi-ma-gan-mi-d-im ?
+\g book-ACC read-NEG-PTCP-Q-PST-1SG
+\l Hadn’t I read the book?
+
+\t Kitob-ni yoz-gan-mas-d-ingiz .
+\g book-ACC write-PTCP-NEG-PST-2
+\l You hadn’t written the book.
+
+\t Kitob-ni yoz-gan e-mas-d-ingiz .
+\g book-ACC write-PTCP E-NEG-PST-2
+\l You hadn’t written the book.
+
+\t *Kitob-ni yoz-ma-gan-mas-d-ingiz .
+\g book-ACC write-NEG-PTCP-NEG-PST-2\t *Kitob-ni yoz-ma-gan e-mas-d-ingiz .
+\g book-ACC write-NEG-PTCP E-NEG-PST-2\t Bu kitob-ni yoz-ma-d-ingiz-mi ?
+\g this book-ACC write-NEG-PST-2-Q
+\l Didn’t you write this book?
+
+\t Qiziq e-mas-mi-d-ingiz ?
+\g interesting E-NEG-Q-PST-2
+\l Weren’t you interesting?
+
+\t Qiziq e-mas(*-e)-mi-(*e-)d-ingiz ?
+\g interesting E-NEG(*-E)-Q-(*E-)PST-2
+\l Weren’t you interesting?
+
+\t Qiziq e-mas e-d-ingiz-mi ?
+\g interesting E-NEG E-PST-2-Q
+\l Weren’t you interesting?
+
+\t *Qiqiz e-mas e-mi-d-ingiz ?
+\g interesting E-NEG E-Q-PST-2\t *Qiziq e-mas mi-e-d-ingiz ?
+\g interesting E-NEG Q-E-PST-2\t Yoz-ma-gan-mi-d-ingiz ?
+\g write-NEG-PTCP-Q-PST-2
+\l Haven’t you written?
+
+\t Yoz-ma-gan(*-e)-mi(*-e)-d-ingiz ?
+\g write-NEG-PTCP(*-E)-Q(*-E)-PST-2
+\l Haven’t you written?
+
+\t Yoz-ma-gan e-d-ingiz-mi ?
+\g write-NEG-PTCP E-PST-2-Q
+\l Haven’t you written?
+
+\t *Yoz-ma-gan e-mi-d-ingiz ?
+\g write-NEG-PTCP E-Q-PST-2\t *Yoz-ma-gan mi-e-d-ingiz ?
+\g write-NEG-PTCP Q-E-PST-2\t *Talaba-d-im .
+\g student-PST-1SG\t  ?/*Talaba-mas-d-im .
+\g student-NEG-PST-1SG\t Yoz-gan-mas-mi-d-ingiz(-*mi) ?
+\g write-PTCP-NEG-Q-PST-2(-*Q)
+\l Haven’t you written?
+
+\t Yoz-gan e-mas-mi-d-ingiz(-*mi) ?
+\g write-PTCP E-NEG-Q-PST-2(-*Q)
+\l Haven’t you written?
+
+\t Talaba-mi-d-ingiz ?
+\g student-Q-PST-2
+\l Were you a student?
+
+\t *Talaba-d-ingiz-mi ?
+\g student-PST-2-Q\t Qiziq-mi-d-ingiz ?
+\g interesting-Q-PST-2
+\l Were you interesting?
+
+\t *Qiziq-d-ingiz-mi ?
+\g interesting-PST-2-Q\t Kitob-ni o’qi-d-ingiz-mi ?
+\g book-ACC read-PST-2-Q
+\l Did [you] read the book?
+
+\t Ha , o’qi-d-im . / Yo’q , o’qi-ma-d-im .
+\g yes read-PST-1SG / no read-NEG-PST-1SG
+\l Yes, [I] read [the book].’ / ‘No, [I] didn’t read [the book].
+
+\t Men Farhod sabzi-ni xomligicha ye-ma-d-i deb o’yla-d-im , lekin siz ye-d-i deb ayt-d-ingiz .
+\g 1SG Farhod carrot-ACC raw eat-NEG-PST-3 C think-PST-1SG but 2SG eat-PST-3 C say-PST-2
+\l I thought that Farhod didn’t eat the carrot raw, but you said that [he] ate [the carrot raw].
+
+\t Bu mashina-ni bir qo’l-i bilan boshqara ol-a-di .
+\g this machine-ACC one hand-3SG.POSS with manage take-PRS-3SG
+\l [(S)he (#someone)] can operate this machine with one hand.
+
+\t Bu yerda kecha sigaret chek-d-i-mi ? Ha , chek-d-i .
+\g this here yesterday cigarette smoke-PST-3-Q yes smoke-PST-3
+\l Did [(s)he (#someone)] smoke a cigarette here yesterday?’ ‘Yes, [(s)he (#someone)] smoked [a cigarette here yesterday].
+
+\t Doska-da yoz-ayot-gan-d-i-mi ? Ha , yoz-ayot-gan-d-i .
+\g board-LOC write-PROG-PTCP-PST-3-Q yes write-PROG-PTCP-PST-3
+\l Had [(s)he (#someone)] been writing on the blackboard?’ ‘Yes, [(s)he (#someone)] had been writing [on the blackboard].
+
+\t Kim-dir bu mashina-ni bir qo’l-i bilan boshqara ol-a-di-mi ? Ha , boshqara ol-a-di .
+\g some-one this machine-ACC one hand-3SG.POSS with manage take-PRS-3SG-Q yes manage take-PRS-3SG
+\l Can someone operate this machine with one hand?’ ‘Yes, [someone] can operate [this machine with one hand].
+
+\t Kim-dir bu yerda kecha sigaret chek-d-i-mi ? Ha , chek-d-i .
+\g some-one this here yesterday cigarette smoke-PST-3-Q yes smoke-PST-3
+\l Did someone smoke a cigarette here yesterday?’ ‘Yes, [someone] smoked [a cigarette here yesterday].
+
+\t Kim-dir doska-da yoz-ayot-gan-d-i-mi ? Ha , yoz-ayot-gan-d-i .
+\g some-one board-LOC write-PROG-PTCP-PST-3-Q yes write-PROG-PTCP-PST-3
+\l Had someone been writing on the blackboard?’ ‘Yes, [someone] had been writing [on the blackboard].
+
+\t Farhod Zamira-ga savol ber-d-i-mi ? Yo’q , Farida-ga ber-d-i .
+\g Farhod Zamira-DAT question give-PST-3-Q no Farida-DAT give-PST-3
+\l Did Farhod ask a question of Zamira? No, [he] asked [a question] of Farida.
+
+\t Farhod ko’ylak-ni kirligicha sumka-ga sol-d-i . Zamira esa , tozaligicha sumka-ga sol-d-i .
+\g Farhod clothes-ACC dirty bag-LOC put-PST-3 Zamira EMPH clean bag-LOC put-PST-3
+\l Farhod put clothes into the bag dirty. Zamira, on the other hand, put [clothes] into the bag clean.
+
+\t Farhod kim-ni-dir hursandligida ko’r-d-i . Hasan esa , xafaligida ko’r-d-i .
+\g Farhod who-ACC-one happy see-PST-3 Hasan EMPH happy see-PST-3
+\l Farhod saw someone (being) happy. Hasan, on the other hand, saw [someone] (being) sad.
+
+\t Biror kishi hursand bo’l-d-i-mi ? Ha , bo’l-d-i .
+\g any person happy become-PST-3-Q yes become-PST-3
+\l Did anyone become happy? Yes, [someone] became [happy].
+
+\t Biror kishi hursand e-d-i-mi ?
+\g any person happy E-PST-3-Q
+\l Was anyone happy?
+
+\t Ha , *(hursand) e-d-i .
+\g yes happy E-PST-3
+\l Yes, [someone] was happy.
+
+\t *Ha , -d-i .
+\g yes PST-3\t Farhod Zamira-ni bugun jinni qil-d-i .
+\g Farhod Zamira-ACC today crazy do-PST-3
+\l Farhod made Zamira crazy today.
+
+\t Farhod Zamira-ni bugun kasal qil-d-i .
+\g Farhod Zamira-ACC today sick do-PST-3
+\l Farhod made Zamira sick today.
+
+\t Farhod Zamira-ni bugun jinni qil-d-i . Kecha esa , qil-ma-d-i .
+\g Farhod Zamira-ACC today crazy do-PST-3 yesterday EMPH do-NEG-PST-3
+\l Farhod made Zamira crazy today. Yesterday, though, [he] didn’t make [Zamira crazy].
+
+\t Farhod Zamira-ni bugun kasal qil-d-i . Kecha esa , qil-ma-d-i .
+\g Farhod Zamira-ACC today sick do-PST-3 yesterday EMPH do-NEG-PST-3
+\l Farhod made Zamira sick today. Yesterday, though, [he] didn’t make [Zamira sick].
+
+\t Farhod Zamira-ni bugun jinni qil-d-i . Kecha esa , u Nigora-ni *(jinni qil-d-i .
+\g Farhod Zamira-ACC today crazy do-PST-3 Yesterday EMPH 3SG Nigora-ACC crazy do-PST-3
+\l Farhod made Zamira crazy today. Yesterday, though, he made Nigora crazy.
+
+\t Farhod bugun devor-ni qumshuvoq qil-d-i . O’tgan yili ham qil-gan-d-i .
+\g Farhod today wall-ACC spackle do-PST-3 last year also do-PTCP-PST-3
+\l Farhod spackled the wall today. [He] had done [spackling the wall] last year too.
+
+\t Bugun Farhod to’siq-ni qizil-ga bo’ya-d-i . Ancha yil oldin ham bo’ya-gan-d-i .
+\g today Farhod fence-ACC red-DAT paint-PST-3 many year ago also paint-PTCP-PST-3
+\l Today Farhod painted the fence red. Many years ago [he] also had painted [the fence red.]
+
+\t Siz bu marafon-da yug’ur-di-ngiz-mi ?
+\g 2SG this marathon-LOC run-PST-2SG-Q
+\l Did you run in the marathon?
+
+\t Yo’q , men faqatgina yur-d-im xolos .
+\g no 1SG only walk-PST-1SG only
+\l No, I only walked.
+
+\t Men tarvuz shirin chiq-a-di deb o’yla-d-im . Lekin u faqat shirin ko’rin-gan e-kan xolos .
+\g 1SG watermelon sweet exit-PRS-3 C think-PRS-1SG but 3SG only sweet seem-PTCP E-EVID only
+\l I thought the watermelon would be sweet but it only appeared sweet.
+
+\t Qiziq(-*mi)-miz-mi ?
+\g interesting(-*Q)-1PL-Q
+\l Aren’t we interesting?
+
+\t Qiziq(-*mi)-man-mi ?
+\g interesting(-*Q)-1SG-Q
+\l Aren’t I interesting?
+

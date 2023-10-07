@@ -1,0 +1,60 @@
+\t samlaɣunkyasom upe
+\g mid.size:II-girl(II) II-that
+\l that mid-size boy/girl
+
+\t samlaɣinkyasom ipe
+\g mid.size:I/II.PL-girls(II) I/II.PL-that
+\l those mid-size boys/girls
+
+\t samlaɣanda epe
+\g mid.size:III-sago(III) III-that
+\l that mid-size sago palm/those mid-size sago palms
+
+\t samlaɣinbomi ipe
+\g mid.size:IV-termite.mound(IV) IV-that
+\l that mid-size termite mound/those mid-size termite mounds
+
+\t ipenamnasake
+\g ABSC:I/II.PL-RECP-1.U-fight-IPFV
+\l They are fighting.
+
+\t kosiawe upØkwaɣita !
+\g small-fish(II) ABSC:II-3SG.A-be.swimming.inside
+\l A little fish is swimming in there!
+
+\t epakolaɣe !
+\g ABSC:I-1.A-3SG.DAT-talk-IPFV
+\l I am talking to him!
+
+\t noɣamuke
+\g 1.A-2SG.U-kill-IPFV
+\l I'm going to kill you.
+
+\t nadahetok
+\g 3PL.A-return
+\l They returned.
+
+\t anaɣam
+\g 3SG.A-many.come
+\l They came.
+
+\t awe ahlaleh !
+\g fish(II) IMP-string:3SG.U
+\l String one fish!
+
+\t awe ahlalah !
+\g fish(II) IMP-string:3PL.U
+\l String many fish!
+
+\t muy ahlalig !
+\g meat(III) IMP-string.inanimate
+\l String the piece(s) of meat!
+
+\t saleɣ anasib
+\g inflorescence(IV) 3SG.A-1.U-hit
+\l The coconut inflorescence (fell and) hit me.
+
+\t yabamesin ipe tikatnesole
+\g big-machine(IV) IV-that GIV-IV-PRS-PRSTL-3PL.A-make.noise-IPFV
+\l The generator is making noise.
+

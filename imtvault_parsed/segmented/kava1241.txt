@@ -1,0 +1,8 @@
+\t quni=pa=isu ?
+\g go.where=FUT=2SG.ABS
+\l Where are you going?
+
+\t qumuni=isu tangi ?
+\g AVdo.what=2SG.ABS just.now
+\l What were you doing just now?
+

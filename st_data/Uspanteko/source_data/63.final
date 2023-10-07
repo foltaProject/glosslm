@@ -1,0 +1,5303 @@
+\nom Niña-huérfana
+
+\ref trtex063Usp04 001
+\t Tengo el gusto de realizar una gravación con el joven Anastasio Pinula Chamatun, aca en la aldea de Chipaj de San Miguel Uspantán. La fecha de hoy es 28 de julio del año 2,004, Anastasio es de profeción agricultor. Él nos ba relatar en estos momentos una historia relacionado a Una Niña Huerfana. Él autoriza a OKMA para que se publique en los medios posibles el contenido esta gravación. If. Wi' jun wunaq,+
+
+\ref trtex063Usp04 002
+\t xx...xkajye' rixóqil rk'i jun ra lek'el.+
+\m x- kan -ye' r- ixóqil r- k'i jun ra lek'el
+\g COM quedar dar E3S esposa E3S SREL uno DIM niño
+\c TAM VI VT PERS S PERS SREL NUM PART S
+\l Dejo su esposa con un niño.
+\p COM#TAM VI VT E3S#PERS S E3S#PERS SREL#SREL NUM DIM#PART S
+
+\ref trtex063Usp04 003
+\t I x...xe' man wunaq naj.+
+\m i xe' man wunaq naj
+\g CONJ ir ART hombre lejos
+\c CONJ VI ART S ADV
+\l Y se fue el hombre lejos.
+\p CONJ#CONJ VI ART#ART S ADV
+
+\ref trtex063Usp04 004
+\t I xkaj seche' ra lék'el rk'i rixóqil.+
+\m i x- kan seche' ra lek'l r- k'i r- ixóqil
+\g CONJ COM quedar perder DIM niño E3S SREL E3S esposa
+\c CONJ TAM VI VT PART S PERS SREL PERS S
+\l Y dejo perdido el niño con la esposa.
+\p CONJ#CONJ COM#TAM VI VT DIM#PART S E3S#PERS SREL#SREL E3S#PERS S
+
+\ref trtex063Usp04 005
+\t Xpe man anm xkaye' ra lék'el rk'i jmaam.+
+\m x- pe man ánim x- ka -ye' ra lek'el r- k'i j- maam
+\g COM venir ART mujer COM dejar dar DIM niño E3S SREL E3S abuelo
+\c TAM VI ART S TAM VT VT DIM S PERS SREL PERS S
+\l Vino la mujer, dejo al niño con su abuelo.
+\p COM#TAM VI ART#ART S COM#TAM VT VT DIM#DIM S E3S#PERS SREL#SREL E3S#PERS S
+
+\ref trtex063Usp04 006
+\t I xpe jmaam ril ra lék'el.+
+\m i x- pe j- maam r- il ra lék'el
+\g CONJ COM venir E3S abuelo E3S ver DIM niño
+\c CONJ TAM VI PERS S PERS VT PART S
+\l Y vino su abuelo cuido al niño.
+\p CONJ#CONJ COM#TAM VI E3S#PERS S E3S#PERS VT DIM#PART S
+
+\ref trtex063Usp04 007
+\t I xk'iy ra anm,+
+\m i x- k'iiy ra ánim
+\g CONJ COM crecer DIM mujer
+\c CONJ TAM VI PART S
+\l Y crecio la mujer.
+\p CONJ#CONJ COM#TAM VI DIM#PART S
+
+\ref trtex063Usp04 008
+\t xk'iiy xen q'opoj anm.+
+\m x- k'iiy x- en q'opoj ánim
+\g COM crecer COM hacer señorita mujer
+\c TAM VI TAM PREP S S
+\l Crecio se hizo una señorita.
+\p COM#TAM VI COM#TAM PREP S S
+
+\ref trtex063Usp04 009
+\t Wi' jun wunaq jb'ij Sergiyo,+
+\m wi' jun wunaq j- b'iij Sergiyo
+\g EXS uno hombre E3S decir Sergio
+\c EXS NUM S PERS VT NOM
+\l Habia un hombre llamado sergio.
+\p EXS#EXS NUM S E3S#PERS VT NOM
+
+\ref trtex063Usp04 010
+\t xch'ab'en re.+
+\m x- ch'ab'e -n re
+\g COM hablar AP él/ella
+\c TAM VT SUF PRON
+\l Le hablo a ella.
+\p COM#TAM VT AP#SUF PRON
+
+\ref trtex063Usp04 011
+\t I jaan,+
+\m i jaan
+\g CONJ bueno
+\c CONJ ADV
+\l Y esta bien.
+\p CONJ#CONJ ADV
+
+\ref trtex063Usp04 012
+\t cha' ra anm re man wunaq Sergiyo.+
+\m cha' ra anm re man wunaq Sergiyo
+\g decir DIM mujer SREL ART hombre Sergio
+\c VT PART S SREL ART S NOM
+\l Le dijo la mujer a ese hombre llamado Sergio.
+\p VT DIM#PART S SREL#SREL ART#ART S NOM
+
+\ref trtex063Usp04 013
+\t Ri'j, ri'j chaq tzik' jmaam,+
+\m ri'j ri'j chaq tzik' j- maam
+\g viejo viejo PART AFE E3S abuelo
+\c ADJ ADJ PART ADJ PERS S
+\l Viejo viejo hera ya su pobre abuelo.
+\p ADJ ADJ PART#PART AFE#ADJ E3S#PERS S
+
+\ref trtex063Usp04 014
+\t pech tzik' jtit'.+
+\m pech tzik' j- tiit'
+\g compañero AFE E3S abuela
+\c S ADJ PERS S
+\l Juntos con su abuela.
+\p S AFE#ADJ E3S#PERS S
+
+\ref trtex063Usp04 015
+\t I ri'j chaq tzik' jmaam,+
+\m i ri'j chaq tzik' j- maam
+\g CONJ viejo PART AFE E3S abuelo
+\c CONJ ADJ PART ADJ PERS S
+\l Y ya es viejo su abuelo.
+\p CONJ#CONJ ADJ PART#PART AFE#ADJ E3S#PERS S
+
+\ref trtex063Usp04 016
+\t pech jtit'.+
+\m pech j- tiit'
+\g compañero E3S abuela
+\c S PERS S
+\l Con su abuela.
+\p S E3S#PERS S
+
+\ref trtex063Usp04 017
+\t Ril man k'ojol wunaq,+
+\m r- il man k'ojol wunaq
+\g E3S ver ART joven hombre
+\c PERS VT ART S S
+\l Vio ese joven.
+\p E3S#PERS VT ART#ART S S
+
+\ref trtex063Usp04 018
+\t ri'j chaq tzik' jmaam.+
+\m ri'j chaq tzik' j- maam
+\g viejo PART AFE E3S abuelo
+\c ADJ PART ADJ PERS S
+\l Ya hera viejito su abuelo.
+\p ADJ PART#PART AFE#ADJ E3S#PERS S
+
+\ref trtex063Usp04 019
+\t Xkwin chij b'ochij ra anm+
+\m x- kwin chi -j b'ochi -j ra anim
+\g COM poder PREP E3S cantinear SC DIM mujer
+\c TAM VI PREP PERS VT SUF PART S
+\l Pudo enamorar a la mujer joven.
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF DIM#PART S
+
+\ref trtex063Usp04 020
+\t xk'om b'i rk'i maj chuuch.+
+\m x- k'om b'i r- k'i maj chuuch
+\g COM recibir DIR E3S SREL quitar mamá
+\c TAM VT DIR PERS SREL VT S
+\l Se la llevó con esa su mamá.
+\p COM#TAM VT DIR#DIR E3S#PERS SREL#SREL VT S
+
+\ref trtex063Usp04 021
+\t Xtaw rk'i maaj chuuch+
+\m x- taw r- k'i maa -j chuuch
+\g COM llegar E3S SREL ART E3S mamá
+\c TAM VT PERS SREL ART PERS S
+\l Llego con esa su mamá.
+\p COM#TAM VT E3S#PERS SREL#SREL ART#ART E3S#PERS S
+
+\ref trtex063Usp04 022
+\t xiij re.+
+\m x- iij re
+\g COM decir él/ella
+\c TAM VT PRON
+\l Le dijo él.
+\p COM#TAM VT PRON
+
+\ref trtex063Usp04 023
+\t Xink'omach' ra anm,+
+\m x- in- k'oma -ch' ra ánim
+\g COM E1S recibir DIR DIM mujer
+\c TAM PERS VT DIR PART S
+\l Me traje a la mujercita.
+\p COM#TAM E1S#PERS VT DIR#DIR DIM#PART S
+
+\ref trtex063Usp04 024
+\t cha' re maj chuuch.+
+\m cha' re ma -j chuuch
+\g decir él/ella ART E3S mamá
+\c VI PRON ART PERS S
+\l Le dijo a su mamá.
+\p VI PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 025
+\t Ruk' maj chuuch xiij re man Sergiyo.+
+\m ruk' ma -j chuuch x- iij re man Sergiyo
+\g PART ART E3S mamá COM decir él/ella ART Sergio
+\c PART ART PERS S TAM VT PRON ART NOM
+\l Entonces la mamá le dijo a ese Sergio.
+\p PART#PART ART#ART E3S#PERS S COM#TAM VT PRON ART#ART NOM
+
+\ref trtex063Usp04 026
+\t Neejchukuj man anm li awi'l,+
+\m nee- j- chuku -j man anim li a- wi'l
+\g INT E3S trabajar SC ART mujer DEM E2S SREL
+\c ADV PERS S SUF ART S DEM PERS SREL
+\l Para que quieres a esa mujer.
+\p INT#ADV E3S#PERS S SC#SUF ART#ART S DEM#DEM E2S#PERS SREL#SREL
+
+\ref trtex063Usp04 027
+\t man tz'il rij anm,+
+\m man tz'il r- ij anim
+\g ART sucio E3S SREL mujer
+\c ART ADJ PERS SREL S
+\l Esa mujer sucia. (mugrienta)
+\p ART#ART ADJ E3S#PERS SREL#SREL S
+
+\ref trtex063Usp04 028
+\t cha' re man Sergiyos.+
+\m cha' re man Sergiyos
+\g decir él/ella ART Sergio
+\c VT PRON ART NOM
+\l Le dijo a ese Sergio.
+\p VT PRON ART#ART NOM
+
+\ref trtex063Usp04 029
+\t Enkesey tz'il rij,+
+\m enkesey tz'il r- ij
+\g aunque@sea sucio E3S SREL
+\c ADV ADJ PERS SREL
+\l Aunque sea sucia.
+\p ADV ADJ E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 030
+\t iin chuwaji' jwich,+
+\m iin ch- waj -i' j- wiich
+\g yo INC querer ENF E3S cara
+\c PRON TAM VT PART PERS S
+\l Yo la quiero.
+\p PRON INC#TAM VT ENF#PART E3S#PERS S
+
+\ref trtex063Usp04 031
+\t cha' man Sergiyo.+
+\m cha' man Sergiyo
+\g decir ART Sergio
+\c VT ART NOM
+\l Dijo ese Sergio.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 032
+\t Tzile enkesey tz'il,+
+\m tzi -le enkesey tz'il
+\g bueno DEM aunque@sea sucio
+\c ADV DEM ADV ADJ
+\l Esta bien asi aunque sea sucia.
+\p ADV DEM#DEM ADV ADJ
+
+\ref trtex063Usp04 033
+\t iin chuwaji' jwich,+
+\m iin ch- waaj -i' j- wiich
+\g yo INC querer ENF E3S cara
+\c PRON TAM VT PART PERS S
+\l Yo la quiero.
+\p PRON INC#TAM VT ENF#PART E3S#PERS S
+
+\ref trtex063Usp04 034
+\t cha' man Sergiyo.+
+\m cha' man Sergiyo
+\g decir ART Sergio
+\c VT ART NOM
+\l Dijo ese sergio.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 035
+\t I xpe maj chuuch tijsek' ra anm.+
+\m i x- pe ma -j chuuch ti- j- sek' ra ánim
+\g CONJ COM venir ART E3S mamá INC E3S pegar DIM mujer
+\c CONJ TAM VI ART PERS S TAM PERS VT PART S
+\l Y vino la mamá y pega a la mujercita.
+\p CONJ#CONJ COM#TAM VI ART#ART E3S#PERS S INC#TAM E3S#PERS VT DIM#PART S
+
+\ref trtex063Usp04 036
+\t I kuwand man Sergiyo t'el li chaak,+
+\m i kwand man Sergiyo t- el li chaak
+\g CONJ cuando ART Sergio INC salir PREP trabajo
+\c CONJ ADV ART NOM TAM VI PREP S
+\l Y cuando ese Sergio se va a trabajar.
+\p CONJ#CONJ ADV ART#ART NOM INC#TAM VI PREP#PREP S
+
+\ref trtex063Usp04 037
+\t maj tpe maj chuuch,+
+\m ma -j t- pe ma -j chuuch
+\g ART E3S INC venir ART E3S mamá
+\c ART PERS TAM VI ART PERS S
+\l Y viene esa su mamá,
+\p ART#ART E3S#PERS INC#TAM VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 038
+\t Angelika tijsek' ra anm.+
+\m Angelika' ti- j- sek' ra anim
+\g Angelica INC E3S pegar DIM mujer
+\c NOM TAM PERS VT DIM S
+\l Angelica le pega a la mujercita.
+\p NOM INC#TAM E3S#PERS VT DIM#DIM S
+
+\ref trtex063Usp04 039
+\t I tyuq chik+
+\m i t- yu' chik
+\g CONJ INC llegar PART
+\c CONJ TAM VI PART
+\l Y llega otra vez.
+\p CONJ#CONJ INC#TAM VI PART#PART
+
+\ref trtex063Usp04 040
+\t tq'ajch man rk'lal li chaak.+
+\m t- q'aj -ch man r- k'laal li chaak
+\g INC regresar DIR ART E3S hijo PREP trabajo
+\c TAM VI DIR ART PERS S PREP S
+\l Y regresa ese su hijo del trabajo.
+\p INC#TAM VI DIR#DIR ART#ART E3S#PERS S PREP#PREP S
+
+\ref trtex063Usp04 041
+\t Tok chij kojik tzij re man rk'lal.+
+\m t- ok chi -j koj -ik tzij re man r- k'laal
+\g INC entrar PREP E3S meter SC palabra él/ella ART E3S hijo
+\c TAM VT PREP PERS VT SUF S PRON ART PERS S
+\l Empieza a decirle cosas a su hijo.
+\p INC#TAM VT PREP#PREP E3S#PERS VT SC#SUF S PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 042
+\t Tpe chik man rk'lal,+
+\m t- pe chik man r- k'laal
+\g INC venir PART ART E3S hijo
+\c TAM VI PART ART PERS S
+\l Entonces viene ese su hijo.
+\p INC#TAM VI PART#PART ART#ART E3S#PERS S
+
+\ref trtex063Usp04 043
+\t t'ok chij sek'ik' ra anm.+
+\m t'- ok chi -j sek' -ik ra anim
+\g INC meter PREP E3S pegar SC DIM mujer
+\c TAM VT PREP PERS VT SUF DIM S
+\l Y empieza a pegar a la mujercita.
+\p INC#TAM VT PREP#PREP E3S#PERS VT SC#SUF DIM#DIM S
+
+\ref trtex063Usp04 044
+\t I xpetk maj chuuch Angelika,+
+\m i x- pet -k maj chuuch Angelika'
+\g CONJ COM venir SC quitar ART Angelica
+\c CONJ TAM VI SUF VT ART NOM
+\l Y vino esa mamá Angelica.
+\p CONJ#CONJ COM#TAM VI SC#SUF VT ART#ART NOM
+
+\ref trtex063Usp04 045
+\t xen konsejar man rk'lal+
+\m x- en konsejar man r- k'lal
+\g COM hacer consejar ART E3S hijo
+\c TAM VT VT ART PERS S
+\l Aconsejó a su hija.
+\p COM#TAM VT VT ART#ART E3S#PERS S
+
+\ref trtex063Usp04 046
+\t ke xelmaj b'i chuch ra anm.+
+\m ke x- el -maj b'i ch- uch ra anim
+\g que COM salir PAS DIR PREP SREL DIM mujer
+\c ADV TAM VI SUF DIR PREP SREL PART S
+\l Que huyera delante de la mujercita.
+\p ADV COM#TAM VI PAS#SUF DIR#DIR PREP#PREP SREL#SREL DIM#PART S
+
+\ref trtex063Usp04 047
+\t Xtaq b'i man rk'lal Mexiko.+
+\m x- taq b'i man r- k'laal Mexiko
+\g COM PL DIR ART E3S hijo México
+\c TAM PART DIR ART PERS S TOP
+\l Mando a su hojo en Mexico.
+\p COM#TAM PL#PART DIR#DIR ART#ART E3S#PERS S TOP
+
+\ref trtex063Usp04 048
+\t Xpe chik+
+\m x- pe chik
+\g COM venir PART
+\c TAM VI PART
+\l Vino otra vez.
+\p COM#TAM VI PART#PART
+
+\ref trtex063Usp04 049
+\t kond xril maj chuuch,+
+\m kond x- r- il ma -j chuuch
+\g cuando COM E3S ver ART E3S mamá
+\c ADV TAM PERS VT ART PERS S
+\l Cuando vio esa su mamá.
+\p ADV COM#TAM E3S#PERS VT ART#ART E3S#PERS S
+
+\ref trtex063Usp04 050
+\t ta' chki' man rk'lal,+
+\m ta' chk -i' man r- k'laal
+\g NEG PREP ENF ART E3S hijo
+\c PART PREP PART ART PERS S
+\l Ya no estaba su hijo.
+\p NEG#PART PREP#PREP ENF#PART ART#ART E3S#PERS S
+
+\ref trtex063Usp04 051
+\t xpe man jchuuch+
+\m x- pe man j- chuuch
+\g COM venir ART E3S mamá
+\c TAM VI ART PERS S
+\l Vino esa su mamá.
+\p COM#TAM VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 052
+\t xok chij sek'ik ra anm.+
+\m x- ok chi -j sek' -ik ra anim
+\g COM entrar PREP E3S pegar SC DIM mujer
+\c TAM VI PREP PERS VT SUF PART S
+\l Empezó a pegarle a la mujercita.
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF DIM#PART S
+
+\ref trtex063Usp04 053
+\t I xpe xen jun q'iij,+
+\m i x- pe x- en jun q'iij
+\g CONJ COM venir COM hacer uno día
+\c CONJ TAM VI TAM VT NUM S
+\l Y vino hizo un dia.
+\p CONJ#CONJ COM#TAM VI COM#TAM VT NUM S
+
+\ref trtex063Usp04 054
+\t xen jun nimlaaj xoq'o'l,+
+\m x- en jun nim -laa -j xoq'o'l
+\g COM hacer uno grande PP SC lodo
+\c TAM VT NUM ADJ SUF SUF S
+\l Hizo un gran lodasal.
+\p COM#TAM VT NUM ADJ PP#SUF SC#SUF S
+
+\ref trtex063Usp04 055
+\t tpuq'w man xoq'o'l+
+\m t- puq' -w man xoq'o'l
+\g INC batir PART ART lodo
+\c TAM VT PART ART S
+\l Un gran lodasal.
+\p INC#TAM VT PART#PART ART#ART S
+
+\ref trtex063Usp04 056
+\t tnek'owk.+
+\m t- nek' -ow -k
+\g INC pegar AP SC
+\c TAM VT SUF SUF
+\l Pegajoso.
+\p INC#TAM VT AP#SUF SC#SUF
+
+\ref trtex063Usp04 057
+\t Xt'oj ni'j uu xilj,+
+\m x- t'oj ni'j uu xílj
+\g COM tirar unos collar SREL
+\c TAM VT ADV S SREL
+\l Tiró algunos collares detntro. (tiró unas perlas dentro del lodo)
+\p COM#TAM VT ADV S SREL#SREL
+
+\ref trtex063Usp04 058
+\t pech ni'j pwaq.+
+\m pech n'j pwaq
+\g compañero unos dinero
+\c S ADV S
+\l Juntos con dinero.
+\p S ADV S
+
+\ref trtex063Usp04 059
+\t I xi'j re ra anm.+
+\m i x- i'j re ra anim
+\g CONJ COM decir él/ella DIM mujer
+\c CONJ TAM VT PRON DIM S
+\l Y le dijo a la mujercita.
+\p CONJ#CONJ COM#TAM VT PRON DIM#DIM S
+
+\ref trtex063Usp04 060
+\t Tawesaj maq uu li man xoq'o'l+
+\m t- a- we -saaj maq uu li man xoq'o'l
+\g INC E2S E2S PAS ART collar PREP ART lodo
+\c TAM PERS PERS SUF ART S PREP ART S
+\l Saca esas perlas del lodo.
+\p INC#TAM E2S#PERS E2S#PERS PAS#SUF ART#ART S PREP#PREP ART#ART S
+
+\ref trtex063Usp04 061
+\t la', la', la' awee.+
+\m la' la' la' aw- ee
+\g en en en E2S diente
+\c PREP PREP PREP PERS S
+\l Con con con tus dientes.
+\p PREP PREP PREP E2S#PERS S
+
+\ref trtex063Usp04 062
+\t I la' akeyb'el tatukxij man xoq'o'l,+
+\m i la' a- key -b'el t- a- tuk -xij man xoq'o'l
+\g CONJ PREP E2S cara INS INC E2S menear PP ART lodo
+\c CONJ PREP PERS S PART TAM PERS VT SUF ART S
+\l Y co tu cara rebuelves el lodo.
+\p CONJ#CONJ PREP#PREP E2S#PERS S INS#PART INC#TAM E2S#PERS VT PP#SUF ART#ART S
+
+\ref trtex063Usp04 063
+\t tatok maq uu xilj,+
+\m t- a- tok maq uu xílj
+\g INC E2S buscar ART collar SREL
+\c TAM PERS VT ART S SREL
+\l Buscas el collar adentro.
+\p INC#TAM E2S#PERS VT ART#ART S SREL#SREL
+
+\ref trtex063Usp04 064
+\t cha' re cha',+
+\m cha' re cha'
+\g decir él/ella decir
+\c VI PRON VI
+\l Le dejo dice.
+\p VI PRON VI
+
+\ref trtex063Usp04 065
+\t re anm ra anm,+
+\m re anm ra anim
+\g él/ella mujer DIM mujer
+\c PRON S PART S
+\l La mujer a la mujer.
+\p PRON S DIM#PART S
+
+\ref trtex063Usp04 066
+\t seb'laaj t'oq'.+
+\m seb' -laaj t'- oq'
+\g ITS PP INC llorar
+\c PART SUF TAM VI
+\l Como llorava.
+\p ITS#PART PP#SUF INC#TAM VI
+
+\ref trtex063Usp04 067
+\t Seb'laaj t'oq',+
+\m seb' -laaj toq'
+\g ITS PP llorar
+\c PART SUF VI
+\l Como llorava.
+\p ITS#PART PP#SUF VI
+
+\ref trtex063Usp04 068
+\t numoo tuwa... xi'j re man.+
+\m nu- moo tu- wa xi'j re man
+\g INT modo INC sacar decir él/ella ART
+\c ADV ADV TAM VT VT PRON ART
+\l Como lo voy a sacar le dijo esa.
+\p INT#ADV ADV INC#TAM VT VT PRON ART#ART
+
+\ref trtex063Usp04 069
+\t Angelika nemoo tuwesaj man uu li xoq'o'l,+
+\m Angelika ne- moo tu- we -sáj man uu li xoq'o'l
+\g Angelica INT modo INC SREL PAS ART collar DEM lodo
+\c NOM ADV ADV TAM SREL SUF ART S DEM S
+\l Angelica pero como voy a sacar el collar en el lodo.
+\p NOM INT#ADV ADV INC#TAM SREL#SREL PAS#SUF ART#ART S DEM#DEM S
+
+\ref trtex063Usp04 070
+\t si kita' tk'utunk,+
+\m si kita' t- k'utu -n -k
+\g si NEG INC eseñar AP SC
+\c ADV PART TAM VT SUF SUF
+\l Si no se ve.
+\p ADV NEG#PART INC#TAM VT AP#SUF SC#SUF
+
+\ref trtex063Usp04 071
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 072
+\t Seb'laaj t'oq' ra anm,+
+\m seb' -laaj t- oq' ra anim
+\g ITS PP INC llorar DIM mujer
+\c PART SUF TAM VI PART S
+\l Como llorava la mujercita.
+\p ITS#PART PP#SUF INC#TAM VI DIM#PART S
+
+\ref trtex063Usp04 073
+\t xuker,+
+\m xuk -er
+\g arrodillar ITR
+\c POS SUF
+\l Se arrodillo.
+\p POS ITR#SUF
+
+\ref trtex063Usp04 074
+\t xuker x... xjut jkeyb'el li xoq'o'l.+
+\m xuk -er x x- jut j- keyb'el li xoq'o'l
+\g arrodillar ITR COM COM meter E3S cara PREP lodo
+\c POS SUF TAM TAM VT PERS S PREP S
+\l Metio su cara en el lodo.
+\p POS ITR#SUF COM#TAM COM#TAM VT E3S#PERS S PREP#PREP S
+
+\ref trtex063Usp04 075
+\t Xok chij tokik maq uu xilj man xoq'o'l,+
+\m x- ok chi -j tok -ik maq uu xílj man xoq'o'l
+\g COM entrar PREP E3S buscar SC ART collar adentro ART lodo
+\c TAM VI PREP PERS VT SUF ART S SREL ART S
+\l Empezó a buscar el collar dentro del lodazal. (las perlas)
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF ART#ART S SREL ART#ART S
+
+\ref trtex063Usp04 076
+\t jor t'oq' ra anm x... tresaaj.+
+\m jor ti- oq' ra anim x t- r- es -aaj
+\g mejor INC llorar DIM mujer COM tres E3S sacar PAS
+\c ADV TAM VI PART S TAM NUM PERS VT SUF
+\l Como llorava la mujercita sacaba.
+\p ADV INC#TAM VI DIM#PART S COM#TAM NUM E3S#PERS VT PAS#SUF
+
+\ref trtex063Usp04 077
+\t Tok xij tokik man xoq'o... man uu li xoq'o'l.+
+\m t- ok (xí) -j tok -ik man xoq'o man uu li xoq'o'l
+\g INC entrar ??? E3S buscar SC ART lodo ART collar en lodo
+\c TAM VI ??? PERS VT SUF ART S ART S PREP S
+\l Empieza a buscar ese collar en el lodo.
+\p INC#TAM VI ??? E3S#PERS VT SC#SUF ART#ART S ART#ART S PREP S
+
+\ref trtex063Usp04 078
+\t I man Angel jor tijtze'j jwich ra anm.+
+\m i man Angel jor ti- j- tze' -j j- wiich ra anim
+\g CONJ ART Angel mejor INC E3S reir E3S E3S cara DIM mujer
+\c CONJ ART NOM ADV TAM PERS VI PERS PERS S PART S
+\l Y esa Angelica como se reia de la mujercita.
+\p CONJ#CONJ ART#ART NOM ADV INC#TAM E3S#PERS VI E3S#PERS E3S#PERS S DIM#PART S
+
+\ref trtex063Usp04 079
+\t Usil, usil xpete, xpet,+
+\m usil usil x- pet -e x- pet
+\g despacio despacio COM venir ??? COM venir
+\c ADV ADV TAM VI ??? TAM VI
+\l Poco apoco vino vino.
+\p ADV ADV COM#TAM VI ??? COM#TAM VI
+
+\ref trtex063Usp04 080
+\t xpe man anm xi'j re.+
+\m x- pe man anim x- i'j re
+\g COM venir ART mujer COM decir él/ella
+\c TAM VI ART S TAM VT PRON
+\l Vino esa mujer le dijo a ella.
+\p COM#TAM VI ART#ART S COM#TAM VT PRON
+
+\ref trtex063Usp04 081
+\t Nej chukuj wat uk'il niri,+
+\m ne -j chuku -j w -at uk'il niri
+\g INT E3S trabajar E3S COND E2S SREL aqui
+\c ADV PERS VT PERS PART PERS SREL ADV
+\l Y por que estas aquí conmigo.
+\p INT#ADV E3S#PERS VT E3S#PERS COND#PART E2S#PERS SREL#SREL ADV
+
+\ref trtex063Usp04 082
+\t ta' chiki' man Sergiyo,+
+\m ta' chik -i' man Sergiyo
+\g NEG PART ENF ART Sergio
+\c PART PART PART ART NOM
+\l Si Sergio ya no esta.
+\p NEG#PART PART#PART ENF#PART ART#ART NOM
+
+\ref trtex063Usp04 083
+\t cha' re.+
+\m cha' re
+\g dice él/ella
+\c VI PRON
+\l Le dijo a ella.
+\p VI PRON
+
+\ref trtex063Usp04 084
+\t Riil,+
+\m r- iil
+\g E3S ver
+\c PERS VT
+\l Vió.
+\p E3S#PERS VT
+
+\ref trtex063Usp04 085
+\t xta ra anm non li.+
+\m x- ta ra anim non li
+\g COM oir DIM mujer DEM DEM
+\c TAM VT DIM S DEM DEM
+\l Escucho la mujercita que es así.
+\p COM#TAM VT DIM#DIM S DEM#DEM DEM#DEM
+
+\ref trtex063Usp04 086
+\t Xe' xijtoke' jchaak,+
+\m xe' x- i- j- tok' -e j- chaak
+\g ir COM DIR E3S buscar ENF E3S trabajo
+\c VI TAM DIR PERS VT PART PERS S
+\l Se fue a buscr su trabajo.
+\p VI COM#TAM DIR#DIR E3S#PERS VT ENF#PART E3S#PERS S
+
+\ref trtex063Usp04 087
+\t xijtoke' jchaak.+
+\m x- i- j- tok -e' j- chaak
+\g COM DIR E3S buscar ENF E3S trabajo
+\c TAM DIR PERS VT PART PERS S
+\l Se fue a buscar su trabajo.
+\p COM#TAM DIR#DIR E3S#PERS VT ENF#PART E3S#PERS S
+
+\ref trtex063Usp04 088
+\t Rk'i jun anm chik.+
+\m r- k'i jun anim chik
+\g E3S SREL uno mujer PART
+\c PERS SREL NUM S PART
+\l Con una mujer aparte.
+\p E3S#PERS SREL#SREL NUM S PART#PART
+
+\ref trtex063Usp04 089
+\t I xi'j man anm re.+
+\m i x- i'j man anim re
+\g CONJ COM decir ART mujer él/ella
+\c CONJ TAM VT ART S PRON
+\l Y le dijo esa mujer a ella.
+\p CONJ#CONJ COM#TAM VT ART#ART S PRON
+
+\ref trtex063Usp04 090
+\t Kont xi'j ra anm re.+
+\m kon -t x- i'j ra anim re
+\g COND NEG COM decir DIM mujer él/ella
+\c PART PART TAM VT PART S PRON
+\l Cuando le dijo la mujercita a ella.
+\p COND#PART NEG#PART COM#TAM VT DIM#PART S PRON
+
+\ref trtex063Usp04 091
+\t Man rajo jaa.+
+\m man r- ajo jaa
+\g ART E3S dueño casa
+\c ART PERS S S
+\l La dueña de la casa.
+\p ART#ART E3S#PERS S S
+
+\ref trtex063Usp04 092
+\t Konta' chaak ák'al,+
+\m kon -ta' chaak ák'el
+\g COND NEG trabajo SREL
+\c PART PART S SREL
+\l Si no hay trabajo con usted.
+\p COND#PART NEG#PART S SREL#SREL
+
+\ref trtex063Usp04 093
+\t cha' re man anm.+
+\m cha' re man anim
+\g decir él/ella ART mujer
+\c VI PRON ART S
+\l Le dijo a esa mujer.
+\p VI PRON ART#ART S
+
+\ref trtex063Usp04 094
+\t Noo kita',+
+\m noo kita'
+\g no NEG
+\c ADV PART
+\l No no hay.
+\p ADV NEG#PART
+
+\ref trtex063Usp04 095
+\t cha' man anm re.+
+\m cha' man anim re
+\g decir ART mujer él/ella
+\c VI ART S PRON
+\l Le dijo esa mujer a ella.
+\p VI ART#ART S PRON
+
+\ref trtex063Usp04 096
+\t Xe' chik la' jun jaa chik.+
+\m xe' chik la' jun jaa chik
+\g ir PART PREP uno casa PART
+\c VI PART PREP NUM S PART
+\l Se fue otra casa.
+\p VI PART#PART PREP#PREP NUM S PART#PART
+
+\ref trtex063Usp04 097
+\t I kla' xyesaj jchaak.+
+\m i kla' x- ye' -sáj j- chaak
+\g CONJ allí COM dar PAS E3S trabajo
+\c CONJ ADV TAM VT SUF PERS S
+\l Y allí le dieron su trabajo.
+\p CONJ#CONJ ADV COM#TAM VT PAS#SUF E3S#PERS S
+
+\ref trtex063Usp04 098
+\t Ntons i kabal.+
+\m tons i kabal
+\g entonces CONJ cabal
+\c ADV CONJ ADJ
+\l Entonces y cabal.
+\p ADV CONJ#CONJ ADJ
+
+\ref trtex063Usp04 099
+\t I loke lamas xijte' jchaak+
+\m i loke lamas x- i- j- ta' -e' j- chaak
+\g CONJ loque dónde COM DIR E3S ??? ??? E3S trabajo
+\c CONJ ADV ADV TAM DIR PERS ??? ??? PERS S
+\l Y loque en donde fue a pedir su trabajo.
+\p CONJ#CONJ ADV ADV COM#TAM DIR#DIR E3S#PERS ??? ??? E3S#PERS S
+
+\ref trtex063Usp04 100
+\t ri' jcha... ri' ranab' man jqaaj.+
+\m ri' j- cha ri' r- anab' man j- qaaj
+\g DEM E3S decir DEM E3S hermana ART E3S papá
+\c DEM PERS VT DEM PERS S ART PERS S
+\l Con su tia hermana de su papá.
+\p DEM#DEM E3S#PERS VT DEM#DEM E3S#PERS S ART#ART E3S#PERS S
+
+\ref trtex063Usp04 101
+\t I xpee man wu... xpe man anm+
+\m i x- pee man wu x- pe man anim
+\g CONJ COM venir ART COND COM venir ART mujer
+\c CONJ TAM VI ART PART TAM VI ART S
+\l Y vino ese vino esa mujer.
+\p CONJ#CONJ COM#TAM VI ART#ART COND#PART COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 102
+\t xya' jchaak ra anm,+
+\m x- ya' j- chaak ra anim
+\g COM dar E3S trabajo DIM mujer
+\c TAM VT PERS S PART S
+\l Le dio trabajo a la mujercita.
+\p COM#TAM VT E3S#PERS S DIM#PART S
+
+\ref trtex063Usp04 103
+\t xi'j re.+
+\m x- i'j re
+\g ir decir él/ella
+\c VI VT PRON
+\l Le dijo a ella.
+\p VI VT PRON
+
+\ref trtex063Usp04 104
+\t Niri xaq tames jaa+
+\m niri xaq t- a- mes jaa
+\g aqui PART INC E2S barrer casa
+\c ADV PART TAM PERS VT S
+\l Aquí solo barres la casa.
+\p ADV PART#PART INC#TAM E2S#PERS VT S
+
+\ref trtex063Usp04 105
+\t i tach'aj qelen+
+\m i t- a- ch'aj qelen
+\g CONJ INC E3S lavar cosas
+\c CONJ TAM PERS VT S
+\l Y lavas las cosas.
+\p CONJ#CONJ INC#TAM E3S#PERS VT S
+
+\ref trtex063Usp04 106
+\t i xaq li ta'an,+
+\m i xaq li t- a- b'an
+\g CONJ PART DEM INC E2S hacer
+\c CONJ PART DEM TAM PERS VT
+\l Y solo eso haces.
+\p CONJ#CONJ PART#PART DEM#DEM INC#TAM E2S#PERS VT
+
+\ref trtex063Usp04 107
+\t tcha' re.+
+\m t- cha' re
+\g INC decir él/ella
+\c TAM VT PRON
+\l Le decia a ella.
+\p INC#TAM VT PRON
+
+\ref trtex063Usp04 108
+\t Laj kab' q'iij xuq maj, maj jxib'al.+
+\m la -j kab' q'iij x- uq ma -j ma -j j- xib'al
+\g PREP E3S segundo día COM llegar ART E3S ART E3S E3S hermano
+\c PREP PERS NUM S TAM VI ART PERS ART PERS PERS S
+\l Al segundo dia vino ese ese su hermano.
+\p PREP#PREP E3S#PERS NUM S COM#TAM VI ART#ART E3S#PERS ART#ART E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 109
+\t Xi'j re,+
+\m x- i'j re
+\g COM decir él/ella
+\c TAM VT PRON
+\l Le dijo a él.
+\p COM#TAM VT PRON
+
+\ref trtex063Usp04 110
+\t xi'j re, xi'j re maj xi...+
+\m x- i'j re x- i'j re ma -j xi
+\g COM decir él/ella COM decir él/ella ART E3S heramano
+\c TAM VT PRON TAM VT PRON ART PERS S
+\l Le dijo le dijo a su hermano.
+\p COM#TAM VT PRON COM#TAM VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 111
+\t xi'j man anm re maj xib'al.+
+\m x- i'j man anim re ma -j xib'al
+\g COM decir ART mujer él/ella ART E3S hermano
+\c TAM VT ART S PRON ART PERS S
+\l Le dijo la mujer a su hermano.
+\p COM#TAM VT ART#ART S PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 112
+\t Twilin ra anm ri ri',+
+\m t- w- i'l -i'n ra anim ri ri'
+\g INC SREL ver E1S DIM mujer DEM DEM
+\c TAM SREL VT PERS PART S DEM DEM
+\l Yo miro que esta mujercita.
+\p INC#TAM SREL#SREL VT E1S#PERS DIM#PART S DEM#DEM DEM#DEM
+
+\ref trtex063Usp04 113
+\t arab'in loke xkan asache' nab'e.+
+\m a- rab'in loke x- k'a'n a- sach -e' nab'e
+\g E2S hija loque COM quedar E2S perder ENF primero
+\c PERS S ADV TAM VI PERS VT SUF ADV
+\l Es tu hija loque dejastes olvidada antes.
+\p E2S#PERS S ADV COM#TAM VI E2S#PERS VT ENF#SUF ADV
+
+\ref trtex063Usp04 114
+\t Kand xatk'uli' rk'i man jun anm,+
+\m kand x- at- k'uli' r- k'i man jun anim
+\g cuando COM A2S casar E3S SREL ART uno mujer
+\c ADV TAM PERS VI PERS SREL ART NUM S
+\l Cuando te casastes con la otra mujer.
+\p ADV COM#TAM A2S#PERS VI E3S#PERS SREL#SREL ART#ART NUM S
+
+\ref trtex063Usp04 115
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l Dijo.
+\p VI
+
+\ref trtex063Usp04 116
+\t Xpe maj xib'al sik'ij taq ra anime,+
+\m x- pe ma -j xib'al sik'ij taq ra anim
+\g COM venir ART E3S hermano llamar PL DIM mujer
+\c TAM VI ART PERS S VT PART PART S
+\l Vino ese su hermano llamo a la mujercita.
+\p COM#TAM VI ART#ART E3S#PERS S VT PL#PART DIM#PART S
+
+\ref trtex063Usp04 117
+\t xtz'onaj taq neen jb'ij.+
+\m x- tz'ona -j taq neen j- b'iij
+\g COM pedir SC PL INT E3S nombre
+\c TAM VT SUF PART ADV PERS S
+\l Le preguntaron como se llama.
+\p COM#TAM VT SC#SUF PL#PART INT#ADV E3S#PERS S
+
+\ref trtex063Usp04 118
+\t I ruk' ra anm xi'j.+
+\m i ruk' ra anim x- i'j
+\g CONJ PART DIM mujer COM decir
+\c CONJ PART PART S TAM VT
+\l Y entonces la mujercita dijo.
+\p CONJ#CONJ PART#PART DIM#PART S COM#TAM VT
+
+\ref trtex063Usp04 119
+\t Kee iin ínb'iij Marimar,+
+\m kee iin iin- b'iij Marimar
+\g que yo yo nombre Miramar
+\c ADV PRON PRON S NOM
+\l Que yo mi nombre es Marimar.
+\p ADV PRON PRON S NOM
+
+\ref trtex063Usp04 120
+\t cha' re maj,+
+\m cha' re ma -j
+\g decir él/ella ART E3S
+\c VI PRON ART PERS
+\l Le dijo a su.
+\p VI PRON ART#ART E3S#PERS
+
+\ref trtex063Usp04 121
+\t maj jun wunaq.+
+\m ma -j jun wunaq
+\g ART E3S uno hombre
+\c ART PERS NUM S
+\l El otro hombre.
+\p ART#ART E3S#PERS NUM S
+
+\ref trtex063Usp04 122
+\t Toses xpe man wunaq x.+
+\m toses x- pe man wunaq x
+\g entonces COM venir ART hombre COM
+\c ADV TAM VI ART S TAM
+\l Entonces vino ese hombre.
+\p ADV COM#TAM VI ART#ART S COM#TAM
+
+\ref trtex063Usp04 123
+\t Tz'et ri aati, aati inrab'in,+
+\m tz'et ri aat -i' aat -i' in- rab'in
+\g cierto DEM tú/usted ENF tú/usted ENF A1S hija
+\c ADV DEM PRON PART PRON SUF PERS S
+\l ¿Es cierto heres mi hija?
+\p ADV DEM#DEM PRON ENF#PART PRON ENF#SUF A1S#PERS S
+
+\ref trtex063Usp04 124
+\t kom ch'eb'aa jb'ij+
+\m kom ch'eb' -aa j- b'ij
+\g como conocer ENF E3S nombre
+\c ADV VT PART PERS S
+\l Como conoce su nombre.
+\p ADV VT ENF#PART E3S#PERS S
+
+\ref trtex063Usp04 125
+\t ri aati inrab'in+
+\m ri aat -i' in- rab'in
+\g DEM tú/usted ENF A1S hija
+\c DEM PRON PART PERS S
+\l Así es heres mi hija.
+\p DEM#DEM PRON ENF#PART A1S#PERS S
+
+\ref trtex063Usp04 126
+\t xat kan inseche' ójor,+
+\m x -at' kan in- sach -e' ójor
+\g COM E2S quedar E1S perder ENF antiguamente
+\c TAM PERS VI PERS VT PART ADV
+\l Te deje perdida antes.
+\p COM#TAM E2S#PERS VI E1S#PERS VT ENF#PART ADV
+
+\ref trtex063Usp04 127
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VI PRON
+\l Le dijo él.
+\p VI PRON
+
+\ref trtex063Usp04 128
+\t I oori ta' chiki' aat chakunk,+
+\m i oori ta' chik -i' aat chak -un -k
+\g CONJ hora NEG PART ENF tú/usted trabajo AP SC
+\c CONJ ADV PART PART PART PRON S SUF SUF
+\l Y ahora ya no vas a trabajar.
+\p CONJ#CONJ ADV NEG#PART PART#PART ENF#PART PRON S AP#SUF SC#SUF
+
+\ref trtex063Usp04 129
+\t ta' chki' aat chakunk.+
+\m ta' chk -i' aat chak -un -k
+\g NEG PART ENF tú/usted trabajo AP SC
+\c PART PART PART PRON S SUF SUF
+\l Ya no vas a trabajr.
+\p NEG#PART PART#PART ENF#PART PRON S AP#SUF SC#SUF
+
+\ref trtex063Usp04 130
+\t Lok ta' tinb'an chawe,+
+\m lok ta' t- in- b'an ch- aw- e
+\g loque NEG INC A1S hacer INC E2S SREL
+\c ADV PART TAM PERS VT TAM PERS SREL
+\l Loque no puedo hacer con vos.
+\p ADV NEG#PART INC#TAM A1S#PERS VT INC#TAM E2S#PERS SREL#SREL
+
+\ref trtex063Usp04 131
+\t tintoj aa atinkoj lestudy,+
+\m t- in- toj aa a t- in- toj
+\g INC E2S pagar E2S E2S COM E2S pagar
+\c TAM PERS VT PERS PERS TAM PERS VT
+\l Pago pago.
+\p INC#TAM E2S#PERS VT E2S#PERS E2S#PERS COM#TAM E2S#PERS VT
+
+\ref trtex063Usp04 132
+\t cha' re cha'.+
+\m cha' re cha'
+\g dice él/ella dice
+\c VI PRON VI
+\l Le dijo él dice.
+\p VI PRON VI
+
+\ref trtex063Usp04 133
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 134
+\t cha' re.+
+\m cha' re
+\g dice él/ella
+\c VI PRON
+\l Le dijo.
+\p VI PRON
+
+\ref trtex063Usp04 135
+\t A no per tons xi'j ra anm,+
+\m a no per tons x- i'j ra anim
+\g a no pero entonces COM decir DIM mujer
+\c PREP ADV ADV ADV TAM VT PART S
+\l A no pero entonces dijo la mujer.
+\p PREP ADV ADV ADV COM#TAM VT DIM#PART S
+
+\ref trtex063Usp04 136
+\t cha'.+
+\m cha'
+\g dice
+\c VI
+\l Dice.
+\p VI
+
+\ref trtex063Usp04 137
+\t Si iin chaak tantok,+
+\m si iin chaak t- an- tok
+\g si yo trabajo INC E1S buscar
+\c ADV PRON S TAM PERS VT
+\l Si yo trabajo estoy buscando.
+\p ADV PRON S INC#TAM E1S#PERS VT
+
+\ref trtex063Usp04 138
+\t ma, ma jinon ta' li chup ta'ij chuwe.+
+\m ma ma jilon ta' li chup t- a- ij ch- uw -e
+\g NEG NEG DEM NEG DEM asi@como INC E2S decir PREP E1S SREL
+\c PART PART DEM PART DEM ADV TAM PERS VT PREP PERS SREL
+\l No es asi como me dices a mi.
+\p NEG#PART NEG#PART DEM#DEM NEG#PART DEM#DEM ADV INC#TAM E2S#PERS VT PREP#PREP E1S#PERS SREL#SREL
+
+\ref trtex063Usp04 139
+\t Inaakoj lestudy,+
+\m in- aa- koj l- estudy
+\g yo E2S meter PREP estudio
+\c PRON PERS VT PREP S
+\l Me pones en el estudio.
+\p PRON E2S#PERS VT PREP#PREP S
+
+\ref trtex063Usp04 140
+\t cha'.+
+\m cha'
+\g decir
+\c VI
+\l dijo.
+\p VI
+
+\ref trtex063Usp04 141
+\t Enkesey aat chaak chawaj,+
+\m enkesey aat chaak ch- aw- aj
+\g aunque@sea tú/usted trabajo INC E1S querer
+\c ADV PRON S TAM PERS VT
+\l Aunque usted trabajo quires.
+\p ADV PRON S INC#TAM E1S#PERS VT
+
+\ref trtex063Usp04 142
+\t kom yori xat yuqi'n uk'il.+
+\m kom yori x -at' yuq -i'n uk'iil
+\g como ahora COM E2S alargar ENF SREL
+\c ADV ADV TAM PERS POS PART SREL
+\l Como ahora ya venistes con migo.
+\p ADV ADV COM#TAM E2S#PERS POS ENF#PART SREL#SREL
+
+\ref trtex063Usp04 143
+\t I aati' inrab'in+
+\m i aat -i' in- rab'in
+\g CONJ tú/usted ENF E1S hija
+\c CONJ PRON PART PERS S
+\l Y sos mi hija.
+\p CONJ#CONJ PRON ENF#PART E1S#PERS S
+
+\ref trtex063Usp04 144
+\t i yori tach'eb' inwch iin aqaaj.+
+\m i yori t- a- ch'eb' in- ch iin a- qaaj
+\g CONJ ahaora INC A2S conocer A1S SREL yo E2S papá
+\c CONJ ADV TAM PERS VT PERS SREL PRON PERS S
+\l Y ahora ya me conoces que soy tu papá.
+\p CONJ#CONJ ADV INC#TAM A2S#PERS VT A1S#PERS SREL#SREL PRON E2S#PERS S
+
+\ref trtex063Usp04 145
+\t I aat inrab'in,+
+\m i aat in- rab'in
+\g CONJ tú/usted A1S hija
+\c CONJ PRON PERS S
+\l Y tú heres mi hija.
+\p CONJ#CONJ PRON A1S#PERS S
+
+\ref trtex063Usp04 146
+\t cha' re.+
+\m cha' re
+\g dice él/ella
+\c VI PRON
+\l Le dijo aella.
+\p VI PRON
+
+\ref trtex063Usp04 147
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 148
+\t cha' ra anm re.+
+\m cha' ra anim re
+\g dice DIM mujer él/ella
+\c VI PART S PRON
+\l Le dijo la mujercita a él.
+\p VI DIM#PART S PRON
+
+\ref trtex063Usp04 149
+\t Xkojt lestudy,+
+\m x- koj -t le- study
+\g COM meter INC PREP estudio
+\c TAM VT TAM PREP S
+\l Lo viera metido al estudio.
+\p COM#TAM VT INC#TAM PREP#PREP S
+
+\ref trtex063Usp04 150
+\t xjokt lestudy.+
+\m x- koj -t le- study
+\g COM meter INC PREP estudio
+\c TAM VT TAM PREP S
+\l Lo viera metido en estudio.
+\p COM#TAM VT INC#TAM PREP#PREP S
+
+\ref trtex063Usp04 151
+\t I xpe ra anm xen estudiyar.+
+\m i x- pe ra anm x- en estudiyar
+\g CONJ COM venir DIM mujer COM hacer estudiar
+\c CONJ TAM VI PART S TAM VT S
+\l Y vino la mujercita estudió.
+\p CONJ#CONJ COM#TAM VI DIM#PART S COM#TAM VT S
+
+\ref trtex063Usp04 152
+\t I man jqaaj lisensiyadin,+
+\m i man j- qaaj lisensiyad -i'n
+\g CONJ ART E3S papá licenciado ENF
+\c CONJ ART PERS S PART PART
+\l Y su papá es licenciado.
+\p CONJ#CONJ ART#ART E3S#PERS S PART ENF#PART
+
+\ref trtex063Usp04 153
+\t x... xpet xkoj lestudy.+
+\m x x- pet x- koj le- study
+\g COM COM venir COM meter PREP estudio
+\c TAM TAM VI TAM VT PREP S
+\l Y vino lo metio a estudiar.
+\p COM#TAM COM#TAM VI COM#TAM VT PREP#PREP S
+
+\ref trtex063Usp04 154
+\t I ta xi'j re man ranamb' ke ta' chki' tchapon ra anm.+
+\m i ta' x- i'j re man (ranamb') ke ta' chk -i' t- chap -on ra anim
+\g CONJ NEG ir decir él/ella ART ??? que NEG PART ENF INC agarrar AP DIM mujer
+\c CONJ PART VI VT PRON ART ??? ADV PART PART PART TAM VT SUF PART S
+\l Y no dijo la hermana que no haga nada de oficios la mujercita.
+\p CONJ#CONJ NEG#PART VI VT PRON ART#ART ??? ADV NEG#PART PART#PART ENF#PART INC#TAM VT AP#SUF DIM#PART S
+
+\ref trtex063Usp04 155
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 156
+\t cha' man ranamb' re,+
+\m cha' man (ranamb') re
+\g decir ART ??? él/ella
+\c VI ART ??? PRON
+\l Le dijo su hermana a él.
+\p VI ART#ART ??? PRON
+
+\ref trtex063Usp04 157
+\t chaq tren estudyar ra anm juntir.+
+\m chaq t- r- en estudyar ra anim juntiir
+\g PART INC E3S hacer estudiar DIM mujer todo
+\c PART TAM PERS VT VT PART S ADV
+\l Ya esta estudiando la mujercita todo.
+\p PART#PART INC#TAM E3S#PERS VT VT DIM#PART S ADV
+
+\ref trtex063Usp04 158
+\t I maj qaaj wi' jchaak.+
+\m i ma -j qaaj wi' j- chaak
+\g CONJ ART E3S papá EXS E3S trabajo
+\c CONJ ART PERS S EXS PERS S
+\l Y su papá tiene trabajo.
+\p CONJ#CONJ ART#ART E3S#PERS S EXS#EXS E3S#PERS S
+
+\ref trtex063Usp04 159
+\t Xpe jun q'iij,+
+\m x- pe jun q'iij
+\g COM venir uno día
+\c TAM VI NUM S
+\l Vino un dia.
+\p COM#TAM VI NUM S
+
+\ref trtex063Usp04 160
+\t maj qaaj xi'j re man ranab'.+
+\m maj qaaj x- i'j re man r- anab'
+\g quitar papá ir decir él/ella ART E3S hermana
+\c VT S VI VT PRON ART PERS S
+\l Su papá le dijo a su hermana.
+\p VT S VI VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 161
+\t Kond ti' laj chaak+
+\m kond (ti') laj chaak
+\g cuando ??? PREP trabajo
+\c ADV ??? PREP S
+\l Cuando en su trabajo.
+\p ADV ??? PREP#PREP S
+
+\ref trtex063Usp04 162
+\t xkan la jaa,+
+\m x- kan la jaa
+\g COM quedar PREP casa
+\c TAM VI PREP S
+\l Se quedo en la casa.
+\p COM#TAM VI PREP#PREP S
+
+\ref trtex063Usp04 163
+\t xi'j re man ranab'.+
+\m x- i'j re man r- anab'
+\g COM decir él/ella ART E3S hermana
+\c TAM VT PRON ART PERS S
+\l Le dijo a su hermana.
+\p COM#TAM VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 164
+\t Tawiq, tawiq man anm.+
+\m ti- wiq ti- wiq man ánim
+\g INC adornar INC adornar ART mujer
+\c TAM VT TAM VT ART S
+\l Le tienes que vestir a esa mujercita.
+\p INC#TAM VT INC#TAM VT ART#ART S
+
+\ref trtex063Usp04 165
+\t I tq'axime' junrat,+
+\m i t- q'ax -iin -e' jun- rat
+\g CONJ INC pasar E1S ENF uno rato
+\c CONJ TAM VI PERS PART NUM ADV
+\l Y lo paso a traer al rato.
+\p CONJ#CONJ INC#TAM VI E1S#PERS ENF#PART NUM ADV
+
+\ref trtex063Usp04 166
+\t xaq tine' jun intajkiil kili,+
+\m xaq t- in -e' jun in- tajkiil ki -li
+\g PART INC E1S ENF uno A1S mandado PART DEM
+\c PART TAM PERS PART NUM PERS S PART DEM
+\l Solo boy hacer un mandado allí.
+\p PART#PART INC#TAM E1S#PERS ENF#PART NUM A1S#PERS S PART#PART DEM#DEM
+
+\ref trtex063Usp04 167
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Dijo él.
+\p VT PRON
+
+\ref trtex063Usp04 168
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 169
+\t cha' man ranab'.+
+\m cha' man r- anab'
+\g decir ART E3S hermana
+\c VI ART PERS S
+\l Dijo su hermana.
+\p VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 170
+\t Per tatok maq atz'iq,+
+\m per t- a- tok maq atz'iq
+\g pero INC E2S buscar ART ropa
+\c ADV TAM PERS VT ART S
+\l Pero buscas la ropa.
+\p ADV INC#TAM E2S#PERS VT ART#ART S
+
+\ref trtex063Usp04 171
+\t mas qus taq atz'iq takoj chi rij.+
+\m mas qus taq atz'iq ta- koj chi r- ij
+\g más bueno PL ropa PART meter PREP E3S SREL
+\c ADV ADJ PART S PART VT PREP PERS SREL
+\l Más buena ropa le pones detras. (vestirla con buena ropa)
+\p ADV ADJ PL#PART S PART#PART VT PREP#PREP E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 172
+\t Pech maq xajab',+
+\m pech maq xajab'
+\g compañero ART zapato
+\c S ART S
+\l Acompañado con los zapatos.
+\p S ART#ART S
+
+\ref trtex063Usp04 173
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijol.
+\p VT PRON
+
+\ref trtex063Usp04 174
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 175
+\t cha' man ranab',+
+\m cha' man r- anab'
+\g decir ART E3S hermana
+\c VT ART PERS S
+\l Dijo su hermana.
+\p VT ART#ART E3S#PERS S
+
+\ref trtex063Usp04 176
+\t xtoke'ch' maq atz'iq,+
+\m x- tok -e' -ch maq atz'iq
+\g COM buscar ENF DIR ART ropa
+\c TAM VT PART DIR ART S
+\l Fue abuscar buena ropa.
+\p COM#TAM VT ENF#PART DIR#DIR ART#ART S
+
+\ref trtex063Usp04 177
+\t maq galan taq xajab',+
+\m maq galan taq xajab'
+\g ART galan PL zapato
+\c ART ADJ PART S
+\l Los buenos zapatos.
+\p ART#ART ADJ PL#PART S
+
+\ref trtex063Usp04 178
+\t pech atz'iq juntir xkoj chi rij.+
+\m pech atz'iq juntir x- koj chi r- ij
+\g compañero ropa todo COM usar PREP E3S SREL
+\c S S ADV TAM VT PREP PERS SREL
+\l Acompañado con la ropa todo lo uso.
+\p S S ADV COM#TAM VT PREP#PREP E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 179
+\t Kwand xq'ajch,+
+\m kwand x- q'aj -ch
+\g cuando COM regresar DIR
+\c ADV TAM VI DIR
+\l Cuando regreso.
+\p ADV COM#TAM VI DIR#DIR
+
+\ref trtex063Usp04 180
+\t kwand xq'ajchi... kwand xq'ajch,+
+\m kwand x- q'aj -chi kwand x- q'aj -ch
+\g cuando COM regresar DIR cuando COM regresar DIR
+\c ADV TAM VI DIR ADV TAM VI DIR
+\l Cuando regreso cuando regreso.
+\p ADV COM#TAM VI DIR#DIR ADV COM#TAM VI DIR#DIR
+
+\ref trtex063Usp04 181
+\t xq'ajch maj qaaj.+
+\m x- q'aj -ch ma -j qaaj
+\g COM regresar DIR ART E3S papá
+\c TAM VI DIR ART PERS S
+\l Cuando regresó ese su papá.
+\p COM#TAM VI DIR#DIR ART#ART E3S#PERS S
+
+\ref trtex063Usp04 182
+\t Xi re ya xwiqmaji'.+
+\m x- i re ya x- wiq -maj -i'
+\g COM decir él/ella ya COM adornar PAS ENF
+\c TAM VT PRON VOC TAM VT SUF PART
+\l Le dijo si ya esta areglada.
+\p COM#TAM VT PRON VOC COM#TAM VT PAS#SUF ENF#PART
+
+\ref trtex063Usp04 183
+\t Ya,+
+\m ya
+\g ya
+\c VOC
+\l Ya.
+\p VOC
+
+\ref trtex063Usp04 184
+\t cha' maj ranab' re.+
+\m cha' ma -j r- anab' re
+\g dice ART E3S E3S hermana él/ella
+\c VI ART PERS PERS S PRON
+\l Dijo su hermana a él.
+\p VI ART#ART E3S#PERS E3S#PERS S PRON
+
+\ref trtex063Usp04 185
+\t Bwen jo',+
+\m bwen jo'
+\g bueno ir
+\c ADV VI
+\l Bueno vamos.
+\p ADV VI
+
+\ref trtex063Usp04 186
+\t cha' re maj rab'in.+
+\m cha' re ma -j rab'in
+\g decir él/ella ART E3S hija
+\c VT PRON ART PERS S
+\l Le dijo a esa su hija.
+\p VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 187
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien,
+\p ADV
+
+\ref trtex063Usp04 188
+\t cha' maaj rab'in,+
+\m cha' ma -j rab'in
+\g decir ART E3S hija
+\c VI ART PERS S
+\l Dijo a esa su hija.
+\p VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 189
+\t xe' rk'il.+
+\m xe' r- k'il
+\g ir E3S SREL
+\c VI PERS SREL
+\l Se fue con él.
+\p VI E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 190
+\t I xtaw taq chij chi'.+
+\m i x- taw taq chi -j chi'
+\g CONJ COM llegar PL PREP E3S orilla
+\c CONJ TAM VT PART PREP PERS S
+\l Y llegaron a la orilla.
+\p CONJ#CONJ COM#TAM VT PL#PART PREP#PREP E3S#PERS S
+
+\ref trtex063Usp04 191
+\t I xtaw taq chi jun nim q'iij,+
+\m i x- taw taq chi jun nim q'iij
+\g CONJ COM llegar PL PREP uno grande día
+\c CONJ TAM VT PART PREP NUM ADJ S
+\l Y llegaron en una fiesta.
+\p CONJ#CONJ COM#TAM VT PL#PART PREP#PREP NUM ADJ S
+
+\ref trtex063Usp04 192
+\t xtaw taq chi nim q'iij.+
+\m x- taw taq chi nim q'iij
+\g COM llegar PL PREP grande día
+\c TAM VT PART PREP ADJ S
+\l Llegaron a una fiesta.
+\p COM#TAM VT PL#PART PREP#PREP ADJ S
+
+\ref trtex063Usp04 193
+\t Kwand xtaw taq xilj nim q'iij.+
+\m kwand x- taw taq xílj nim q'iij
+\g cuando COM llegar PL SREL grande día
+\c ADV TAM VT PART SREL ADJ S
+\l Cuando llegaron dentro de la fiesta.
+\p ADV COM#TAM VT PL#PART SREL#SREL ADJ S
+
+\ref trtex063Usp04 194
+\t Xpe maj qaaj,+
+\m x- pe ma -j qaaj
+\g COM venir ART E3S papá
+\c TAM VI ART PERS S
+\l Vino ese su papá.
+\p COM#TAM VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 195
+\t kom wi' jch'ich' xk'om b'i juj.+
+\m kom wi' j- ch'iich' x- k'om b'i ju -j
+\g como EXS E3S vehículo COM llevar DIR uno E3S
+\c PART EXS PERS S TAM VT DIR NUM PERS
+\l Y como tiene vehículo llevo uno.
+\p PART EXS#EXS E3S#PERS S COM#TAM VT DIR#DIR NUM E3S#PERS
+
+\ref trtex063Usp04 196
+\t Xkoj b'i rab'in li ch'ich'.+
+\m x- koj b'i rab'in li ch'iich'
+\g COM meter DIR hija PREP vehículo
+\c TAM VT DIR S PREP S
+\l Metio a su hija en el vehículo.
+\p COM#TAM VT DIR#DIR S PREP#PREP S
+
+\ref trtex063Usp04 197
+\t I xpe taq,+
+\m i x- pe taq
+\g CONJ COM venir PL
+\c CONJ TAM VI PART
+\l Y se vinieron.
+\p CONJ#CONJ COM#TAM VI PL#PART
+
+\ref trtex063Usp04 198
+\t xtaw taq li nim q'iij.+
+\m x- taw taq li nim q'iij
+\g COM llegar PL PREP grande día
+\c TAM VT PART PREP ADJ S
+\l Llegaron en la fiesta.
+\p COM#TAM VT PL#PART PREP#PREP ADJ S
+
+\ref trtex063Usp04 199
+\t Ntos maj qaaj,+
+\m ntos ma -j qaaj
+\g entonces ART E3S papá
+\c ADV ART PERS S
+\l Entonces ese su papá.
+\p ADV ART#ART E3S#PERS S
+
+\ref trtex063Usp04 200
+\t xqasaj li ch'ich',+
+\m x- qe -sáj li ch'iich'
+\g COM bajar PAS PREP vehículo
+\c TAM VT SUF PREP S
+\l La bajo del vehículo.
+\p COM#TAM VT PAS#SUF PREP#PREP S
+
+\ref trtex063Usp04 201
+\t xchop b'ik xij q'ab' rab'in.+
+\m x- chop b'ik x- ij q'ab' rab'in
+\g COM agarrar DIR COM decir mano hija
+\c TAM VT DIR TAM VT S S
+\l La agarro de la mano a su hija.
+\p COM#TAM VT DIR#DIR COM#TAM VT S S
+
+\ref trtex063Usp04 202
+\t Ruk'u man richjil man Sergiyo nab'e,+
+\m r- uk'u man r- ichijil man Sergiyo nab'e
+\g E3S PART ART E3S esposo ART Sergio primero
+\c PERS PART ART PERS S ART NOM NUM
+\l Y ese su marido el Sergio de primero.
+\p E3S#PERS PART#PART ART#ART E3S#PERS S ART#ART NOM NUM
+
+\ref trtex063Usp04 203
+\t loke xk'omow ra anm.+
+\m loke x- k'om -ow ra ánim
+\g loque COM recibir AP DIM mujer
+\c ADV TAM VT SUF PART S
+\l El que se llevo a la mujercita.
+\p ADV COM#TAM VT AP#SUF DIM#PART S
+
+\ref trtex063Usp04 204
+\t Kow chaq latun chi rij,+
+\m kow chaq latun chi r- ij
+\g duro PART ver PREP E3S SREL
+\c ADJ PART VT PREP PERS SREL
+\l Duro lo estaba mirando. (ver fijamente)
+\p ADJ PART#PART VT PREP#PREP E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 205
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dice.
+\p VT
+
+\ref trtex063Usp04 206
+\t Wi' juj pech.+
+\m wi' ju -j pech
+\g EXS uno E3S compañero
+\c EXS NUM PERS S
+\l Tenia un su compañero.
+\p EXS#EXS NUM E3S#PERS S
+
+\ref trtex063Usp04 207
+\t Ri'nti man Marimar li,+
+\m ri' -nti man Marimar li
+\g DEM INT ART Marimar DEM
+\c PART ADV ART NOM DEM
+\l Sera que es Marimar esa.
+\p DEM#PART INT#ADV ART#ART NOM DEM#DEM
+
+\ref trtex063Usp04 208
+\t ri'nti man Marimar li.+
+\m ri'- nti man Marimar li
+\g DEM INT ART Marimar DEM
+\c PART ADV ART NOM DEM
+\l Sera es Marimar esa.
+\p DEM#PART INT#ADV ART#ART NOM DEM#DEM
+
+\ref trtex063Usp04 209
+\t Loke xkan inye' jli rk'i inaan,+
+\m loke x- kan in- ye' jli r- k'i in- aan
+\g loque COM quedar A1S dar allá E3S SREL E1S mamá
+\c ADV TAM VI PERS VT ADV PERS SREL PERS S
+\l La que deje alla con mi mamá.
+\p ADV COM#TAM VI A1S#PERS VT ADV E3S#PERS SREL#SREL E1S#PERS S
+
+\ref trtex063Usp04 210
+\t cha' re man.+
+\m cha' re man
+\g dice él/ella ART
+\c VI PRON ART
+\l Le dijo a ese.
+\p VI PRON ART#ART
+
+\ref trtex063Usp04 211
+\t Wu... Saber,+
+\m wu saber
+\g COND saber
+\c PART ADV
+\l O saber.
+\p COND#PART ADV
+
+\ref trtex063Usp04 212
+\t li rita'n.+
+\m li ri- ta' -a'n
+\g DEM DEM NEG ENF
+\c DEM PART PART PART
+\l Eso no es.
+\p DEM#DEM DEM#PART NEG#PART ENF#PART
+
+\ref trtex063Usp04 213
+\t Por kom Marimar ri' ta' tijmaaj,+
+\m por kom Marirmar ri' ta' ti- j- ma -aaj
+\g por como Marimar DEM NEG INC E3S NEG MED
+\c ADV ADV NOM DEM PART TAM PERS PART SUF
+\l Pero como Marimar no se parece.
+\p ADV ADV NOM DEM#DEM NEG#PART INC#TAM E3S#PERS NEG#PART MED#SUF
+
+\ref trtex063Usp04 214
+\t nik' tlatun yamer nik' tlatun.+
+\m nik' t- latun yamer nik' t- latun
+\g igual INC ver yamero igual INC ver
+\c ADV TAM VT ADV ADV TAM VT
+\l Es igual yamero igual su cara.
+\p ADV INC#TAM VT ADV ADV INC#TAM VT
+
+\ref trtex063Usp04 215
+\t Loke jbistuwaro Marimar jilonta' li,+
+\m loke j- bistuwaro Marimar jilon -ta' li
+\g loque E3S vistuario Marimar DEM NEG DEM
+\c ADV PERS ADV NOM DEM PART DEM
+\l Loque es su vistuario Marimar no es asi.
+\p ADV E3S#PERS ADV NOM DEM#DEM NEG#PART DEM#DEM
+
+\ref trtex063Usp04 216
+\t pyor kita' len twiqw re jili,+
+\m pyor kita' neen t- wiq -w re jili
+\g peor NEG INT INC adornar PART él/ella allá
+\c ADV PART ADV TAM VT PART PRON ADV
+\l Peor no hay quien le compra ropa allá.
+\p ADV NEG#PART INT#ADV INC#TAM VT PART#PART PRON ADV
+
+\ref trtex063Usp04 217
+\t cha' majpech.+
+\m cha' ma- j- pech
+\g decir ART E3S compañero
+\c VI ART PERS S
+\l Dijo su compañero.
+\p VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 218
+\t Kow chaq tril jwich,+
+\m kow chaq t- r- il j- wich
+\g duro PART INC E3S ver E3S cara
+\c ADJ PART TAM PERS VT PERS S
+\l Duro se le queda viendo. (ver fijamente)
+\p ADJ PART#PART INC#TAM E3S#PERS VT E3S#PERS S
+
+\ref trtex063Usp04 219
+\t kow chaq tril jwich,+
+\m kow chaq t- r- il j- wiich
+\g duro PART INC E3S ver E3S cara
+\c ADJ PART TAM PERS VT PERS S
+\l Duro se le quedo viendo su cara.
+\p ADJ PART#PART INC#TAM E3S#PERS VT E3S#PERS S
+
+\ref trtex063Usp04 220
+\t juntir tril jwich nemo rilik.+
+\m juntir t- r- il j- wiich ne- mo r- il -ik
+\g todo INC E3S ver E3S cara INT modo E3S ver SC
+\c ADV TAM PERS VT PERS S PART ADV PERS VT SUF
+\l Todo vio su rosto como se parese.
+\p ADV INC#TAM E3S#PERS VT E3S#PERS S INT#PART ADV E3S#PERS VT SC#SUF
+
+\ref trtex063Usp04 221
+\t Twilin rii'n, rii'n, rii'n,+
+\m t- w- il -in ri -i'n ri -i'n ri -i'n
+\g INC SREL ver E1S DEM ENF DEM ENF DEM ENF
+\c TAM SREL VT PERS DEM PART DEM PART DEM PART
+\l Miro yo es es es ella.
+\p INC#TAM SREL#SREL VT E1S#PERS DEM#DEM ENF#PART DEM#DEM ENF#PART DEM#DEM ENF#PART
+
+\ref trtex063Usp04 222
+\t cha' re maj pech.+
+\m cha' re ma -j pech
+\g decir él/ella ART E3S compañero
+\c VI PRON ART PERS S
+\l Le dijo él a su compañero.
+\p VI PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 223
+\t Noo ri' ta'n,+
+\m noo ri' ta'n
+\g no DEM NEG
+\c ADV DEM ADV
+\l No no es ella.
+\p ADV DEM#DEM NEG#ADV
+
+\ref trtex063Usp04 224
+\t chusil, chusil xpe maj,+
+\m ch- usiil ch- usiil x- pe ma -j
+\g INC despacio INC despacio COM venir ART E3S
+\c TAM ADV TAM ADV TAM VI ART PERS
+\l Poco a poco vino su.
+\p INC#TAM ADV INC#TAM ADV COM#TAM VI ART#ART E3S#PERS
+
+\ref trtex063Usp04 225
+\t xen anm xch'ab'ej.+
+\m x- en anm x- ch'ab'e -j
+\g COM hacer valor COM hablar SC
+\c TAM VT ADV TAM VT SUF
+\l Tubo valor de hablarle.
+\p COM#TAM VT ADV COM#TAM VT SC#SUF
+
+\ref trtex063Usp04 226
+\t Xej tz'onaj jb'ij.+
+\m xe -j tz'ona -j j- b'iij
+\g ir E3S pedir E3S E3S nombre
+\c VT PERS VT PERS PERS S
+\l Le fue apreguntar su nombre.
+\p VT E3S#PERS VT E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 227
+\t Neen áb'ij,+
+\m neen a- b'iij
+\g INT E2S nombre
+\c ADV PERS S
+\l Como te llamas.
+\p INT#ADV E2S#PERS S
+
+\ref trtex063Usp04 228
+\t cha' re.+
+\m cha' re
+\g dice él/ella
+\c VI PRON
+\l Le dijo a ella.
+\p VI PRON
+
+\ref trtex063Usp04 229
+\t Iin,+
+\m iin
+\g yo
+\c PRON
+\l Yo.
+\p PRON
+
+\ref trtex063Usp04 230
+\t kom xpe maj qaaj,+
+\m kom x- pe ma -j qaaj
+\g como COM venir ART E3S papá
+\c ADV TAM VI ART PERS S
+\l Como vino su papá.
+\p ADV COM#TAM VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 231
+\t xk'ex jb'ij,+
+\m x- k'ex j- b'iij
+\g COM dolor E3S nombre
+\c TAM ADJ PERS S
+\l Le cambio de nombre.
+\p COM#TAM ADJ E3S#PERS S
+
+\ref trtex063Usp04 232
+\t kom ya wi' chaq rk'il,+
+\m kom ya wi' chaq r- k'il
+\g como ya EXS PART E3S SREL
+\c ADV VOC EXS PART PERS SREL
+\l Como ya esta con él.
+\p ADV VOC EXS#EXS PART#PART E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 233
+\t xk'ex jb'ij.+
+\m x- k'ex j- b'iij
+\g COM dolor E3S nombre
+\c TAM ADJ PERS S
+\l Le cambio de nombre.
+\p COM#TAM ADJ E3S#PERS S
+
+\ref trtex063Usp04 234
+\t Xkoj jb'ij Beyaldama,+
+\m x- koj j- b'ij Beyaldama
+\g COM meter E3S nombre Beyaldama
+\c TAM VT PERS S NOM
+\l Le puso de nombre Beyaldama.
+\p COM#TAM VT E3S#PERS S NOM
+
+\ref trtex063Usp04 235
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo él.
+\p VT PRON
+
+\ref trtex063Usp04 236
+\t Neen áb'ij,+
+\m neen a- b'iij
+\g INT E2S nombre
+\c ADV PERS S
+\l ¿Como te llamas?
+\p INT#ADV E2S#PERS S
+
+\ref trtex063Usp04 237
+\t cha' man Sergiyo re.+
+\m cha' man Sergiyo re
+\g dice ART Sergio él/ella
+\c VI ART NOM PRON
+\l le dijo ese Sergio a ella.
+\p VI ART#ART NOM PRON
+
+\ref trtex063Usp04 238
+\t Iin Beyaldama,+
+\m iin Beyaldama
+\g yo Beyaldama
+\c PRON NOM
+\l Yo Beyaldama.
+\p PRON NOM
+
+\ref trtex063Usp04 239
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo a él.
+\p VT PRON
+
+\ref trtex063Usp04 240
+\t Xok chij mutz'ik jwich chi rij man wunaq,+
+\m x- ok chi -j mutz' -ik j- wich chi r- ij man wunaq
+\g COM entrar PREP E3S cerrar SC E3S ojo PREP E3S SREL ART hombre
+\c TAM VI PREP PERS VT SUF PERS S PREP PERS SREL ART S
+\l Empezo a serar sus ojos detras de ese hombre. (hacer guiños)
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF E3S#PERS S PREP#PREP E3S#PERS SREL#SREL ART#ART S
+
+\ref trtex063Usp04 241
+\t loke xe'taw jb'ij re.+
+\m loke xe'- ta -w j- b'iij re
+\g loque ir preguntar PART E3S nombre él/ella
+\c ADV VI VT PART PERS S PRON
+\l Loque le fue a preguntar su nombre a ella.
+\p ADV VI VT PART#PART E3S#PERS S PRON
+
+\ref trtex063Usp04 242
+\t Tons xpet, xpe maj qaaj.+
+\m tons x- pet x- pet ma -j qaaj
+\g entonces COM venir COM venir ART E3S papá
+\c ADV TAM VI TAM VI ART PERS S
+\l Entonces vino vino su papá.
+\p ADV COM#TAM VI COM#TAM VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 243
+\t Xi'kub'er taq,+
+\m x- i'- kub' -er taq
+\g COM DIR sentar ITR PL
+\c TAM DIR POS SUF PART
+\l Se fueron asentarse.
+\p COM#TAM DIR#DIR POS ITR#SUF PL#PART
+
+\ref trtex063Usp04 244
+\t albwen rat xok q'ojoom.+
+\m al- buen rat x- ok q'ojoom
+\g al buen rato COM entrar marimba
+\c CONJ ADJ ADV TAM VI S
+\l Al buen rato empezo la marimba.
+\p CONJ ADJ ADV COM#TAM VI S
+
+\ref trtex063Usp04 245
+\t Tons maj qaaj xok chi xojoj rk'il.+
+\m tons ma -j qaaj x- ok chi xojo -j r- k'il
+\g entonces ART E3S papá COM entrar PREP baile SC E3S SREL
+\c ADV ART PERS S TAM VI PREP S SUF PERS SREL
+\l Entonces su papá empezó a bailar con ella.
+\p ADV ART#ART E3S#PERS S COM#TAM VI PREP#PREP S SC#SUF E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 246
+\t Ruk' man wunaq loke xk'omow re.+
+\m ruk' man wunaq loke x- k'om -ow re
+\g PART ART hombre loque COM recibir AP él/ella
+\c PART ART S ADV TAM VT SUF PRON
+\l Entonces el hombre el que se llevo a ella.
+\p PART#PART ART#ART S ADV COM#TAM VT AP#SUF PRON
+
+\ref trtex063Usp04 247
+\t Kow chaq tlatun.+
+\m kow chaq t- latun
+\g duro PART INC ver
+\c ADJ PART TAM VT
+\l Duro se le quedaba viendo.
+\p ADJ PART#PART INC#TAM VT
+
+\ref trtex063Usp04 248
+\t Iin tanwesaji' li xojoj,+
+\m iin t- an- w- e -saj -i' li xojo -j
+\g yo INC E1S E1S sacar PAS ENF DEM baile SC
+\c PRON TAM PERS PERS VT SUF PART DEM S SUF
+\l Yo lo sacare a bailar.
+\p PRON INC#TAM E1S#PERS E1S#PERS VT PAS#SUF ENF#PART DEM#DEM S SC#SUF
+
+\ref trtex063Usp04 249
+\t cha' re maj pech.+
+\m cha' re ma -j pech
+\g decir él/ella ART E3S compañero
+\c VT PRON ART PERS S
+\l Le dijo él a su compañero.
+\p VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 250
+\t A... si, si, si atkuwin chij resaj,+
+\m a si si si at- kwin chi -j r- e -sáj
+\g CONJ si si si E2S poder PREP E3S E3S sacar PAS
+\c CONJ ADV ADV ADV PERS VI PREP PERS PERS VT SUF
+\l A si si si puedes sacarla.
+\p CONJ#CONJ ADV ADV ADV E2S#PERS VI PREP#PREP E3S#PERS E3S#PERS VT PAS#SUF
+
+\ref trtex063Usp04 251
+\t esaj,+
+\m e -saj
+\g sacar PAS
+\c VT SUF
+\l Sácala.
+\p VT PAS#SUF
+
+\ref trtex063Usp04 252
+\t cha' maj pech re.+
+\m cha' ma -j pech re
+\g decir ART E3S compañero él/ella
+\c VI ART PERS S PRON
+\l Le decia su compañero a él.
+\p VI ART#ART E3S#PERS S PRON
+
+\ref trtex063Usp04 253
+\t Jaan,+
+\m jaan
+\g esta@bien
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 254
+\t jaan,+
+\m jaan
+\g esta@bien
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 255
+\t cha' man Sergiyo.+
+\m cha' man Sergiyo
+\g decir ART Sergio
+\c VT ART NOM
+\l Decia ese Sergio.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 256
+\t Usil xen anm xch'ab'ej man anm.+
+\m usil x- en anm x- ch'ab'e -j man anim
+\g despacio COM hacer valor COM hablar E3S ART mujer
+\c ADV TAM VT ADV TAM VT PERS ART S
+\l Poco a poco se animo de hablar a la mujercita.
+\p ADV COM#TAM VT ADV COM#TAM VT E3S#PERS ART#ART S
+
+\ref trtex063Usp04 257
+\t Jo' li xojoj,+
+\m jo' li xojo -j
+\g ir DEM baile SC
+\c VI DEM S SUF
+\l Vamos a bailar.
+\p VI DEM#DEM S SC#SUF
+
+\ref trtex063Usp04 258
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo él.
+\p VT PRON
+
+\ref trtex063Usp04 259
+\t Bwen,+
+\m bwen
+\g bueno
+\c ADV
+\l Bueno.
+\p ADV
+
+\ref trtex063Usp04 260
+\t cha' man anm re.+
+\m cha' man anm re
+\g dice ART mujer él/ella
+\c VI ART S PRON
+\l Le dijo la mujercita a él.
+\p VI ART#ART S PRON
+
+\ref trtex063Usp04 261
+\t Xojow taq kila',+
+\m xoj -ow taq kla'
+\g baile AP PL allí
+\c S SUF PART ADV
+\l Vailaron allí.
+\p S AP#SUF PL#PART ADV
+
+\ref trtex063Usp04 262
+\t xtz'onaj re.+
+\m x- tz'ona -j re
+\g COM pedir SC él/ella
+\c TAM VT SUF PRON
+\l Le pregunto a ella.
+\p COM#TAM VT SC#SUF PRON
+
+\ref trtex063Usp04 263
+\t Awichjili' man wunaq li,+
+\m aw- ichijil -i' man wunaq li
+\g E2S esposo ENF ART hombre DEM
+\c PERS S PART ART S DEM
+\l ¿Es tu esposo ese hombre?
+\p E2S#PERS S ENF#PART ART#ART S DEM#DEM
+
+\ref trtex063Usp04 264
+\t neen ab'anik rk'il,+
+\m neen a- b'an -ik r- k'il
+\g INT E2S hacer SC E3S SREL
+\c ADV PERS VT SUF PERS SREL
+\l Que sos con él.
+\p INT#ADV E2S#PERS VT SC#SUF E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 265
+\t cha' re man anm.+
+\m cha' re man anim
+\g decir él/ella ART mujer
+\c VI PRON ART S
+\l Le dijo él a la mujercita.
+\p VI PRON ART#ART S
+
+\ref trtex063Usp04 266
+\t Noo li inqajin,+
+\m noo li in- qaj -i'n
+\g no DEM A1S papá ENF
+\c ADV DEM PERS S PART
+\l No eso es mi papá.
+\p ADV DEM#DEM A1S#PERS S ENF#PART
+
+\ref trtex063Usp04 267
+\t cha' man anm.+
+\m cha' man anim
+\g decir ART mujer
+\c VI ART S
+\l Dijo la mujercita.
+\p VI ART#ART S
+
+\ref trtex063Usp04 268
+\t A...,+
+\m a
+\g CONJ
+\c CONJ
+\l ¡A!
+\p CONJ#CONJ
+
+\ref trtex063Usp04 269
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo él.
+\p VT PRON
+
+\ref trtex063Usp04 270
+\t Tose xk'is jun q'ojoom.+
+\m tose x- k'is jun q'ojoom
+\g entonces COM terminar uno marimba
+\c ADV TAM VT NUM S
+\l Entonces termino una piesa.
+\p ADV COM#TAM VT NUM S
+
+\ref trtex063Usp04 271
+\t Toos maj qaaj xk'am chik li ch'ich',+
+\m toos ma -j qaaj x- k'am chik li ch'iich'
+\g entonces ART E3S papá COM recibir PART PREP vehículo
+\c ADV ART PERS S TAM VT PART PREP S
+\l Entonces su papá lo llevo otra vez en el vehiculo.
+\p ADV ART#ART E3S#PERS S COM#TAM VT PART#PART PREP#PREP S
+
+\ref trtex063Usp04 272
+\t xk'om b'i chi rchoch,+
+\m x- k'am b'i chi r- chooch
+\g COM recibir DIR PREP E3S casa
+\c TAM VT DIR PREP PERS S
+\l La llevo a su casa.
+\p COM#TAM VT DIR#DIR PREP#PREP E3S#PERS S
+
+\ref trtex063Usp04 273
+\t xk'om b'i chi rchoch.+
+\m x- k'om b'i chi r- chooch
+\g COM recibir DIR PREP E3S casa
+\c TAM VT DIR PREP PERS S
+\l Se la llevo a su casa.
+\p COM#TAM VT DIR#DIR PREP#PREP E3S#PERS S
+
+\ref trtex063Usp04 274
+\t I xtaw laj rchoch,+
+\m i x- taw la -j r- choch
+\g CONJ COM llegar PREP E3S E3S casa
+\c CONJ TAM VT PREP PERS PERS S
+\l Y llego en su casa.
+\p CONJ#CONJ COM#TAM VT PREP#PREP E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 275
+\t kla' kom wi' reqle'n maj qaaj juntir.+
+\m kla' kom wi' r- eqle'n ma -j qaaj juntir
+\g allí como EXS E3S cargo ART E3S papá todo
+\c ADV ADV EXS PERS S ART PERS S ADV
+\l Allí como tiene cargo su papá en todo.
+\p ADV ADV EXS#EXS E3S#PERS S ART#ART E3S#PERS S ADV
+
+\ref trtex063Usp04 276
+\t Kla' xkaj jache' juntir ulew,+
+\m kla' x- ka -j jach -e' juntir ulew
+\g allí COM quedar E3S repartir ENF todo tierra
+\c ADV TAM VI PERS VT PART ADV S
+\l Allí dejo entegado todas las tierras.
+\p ADV COM#TAM VI E3S#PERS VT ENF#PART ADV S
+
+\ref trtex063Usp04 277
+\t qlen re maj rab'in.+
+\m qlen re ma -j rab'in
+\g cosas SREL ART E3S hija
+\c S SREL ART PERS S
+\l Cosas a ella su hija.
+\p S SREL#SREL ART#ART E3S#PERS S
+
+\ref trtex063Usp04 278
+\t Kom jrab'in chaq,+
+\m kom j- rab'in chaq
+\g como E3S hija PART
+\c ADV PERS S PART
+\l Como ya es su hija.
+\p ADV E3S#PERS S PART#PART
+
+\ref trtex063Usp04 279
+\t xch'ob' jwich,+
+\m x- ch'ob' j- wiich
+\g COM conocer E3S cara
+\c TAM VT PERS S
+\l La conocio.
+\p COM#TAM VT E3S#PERS S
+
+\ref trtex063Usp04 280
+\t xkaj jache' juntir qelen.+
+\m x- ka -j jach -e' juntir qelen
+\g COM quedar E3S entregar ENF todo cosas
+\c TAM VI PERS VT PART ADV S
+\l Dejo entregado todas las cosas.
+\p COM#TAM VI E3S#PERS VT ENF#PART ADV S
+
+\ref trtex063Usp04 281
+\t I eskrituras juntir,+
+\m i eskrituras juntir
+\g CONJ escrituras todo
+\c CONJ S ADV
+\l Y las escrituras todas.
+\p CONJ#CONJ S ADV
+
+\ref trtex063Usp04 282
+\t loke jchaak maj qaaj,+
+\m loke j- chaak ma -j qaaj
+\g loque E3S trabajo ART E3S papá
+\c ADV PERS S ART PERS S
+\l Loque su trabajo de su papá.
+\p ADV E3S#PERS S ART#ART E3S#PERS S
+
+\ref trtex063Usp04 283
+\t xkaj ye' re jrab'in.+
+\m x- ka -j ye' re j- r- ab'in
+\g COM quedar E3S dar él/ella E3S E3S hija
+\c TAM VI PERS VT PRON PERS PERS S
+\l Le dejo a su hija.
+\p COM#TAM VI E3S#PERS VT PRON E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 284
+\t I xpe, xpe man wunaq,+
+\m i x- pe x- pe man wunaq
+\g CONJ COM venir COM venir ART hombre
+\c CONJ TAM VI TAM VI ART S
+\l Y vino vino ese hombre.
+\p CONJ#CONJ COM#TAM VI COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 285
+\t rayaaj chik jwich man anm.+
+\m ray -aaj chik j- wiich man anim
+\g desear PAS PART E3S cara ART mujer
+\c VI SUF PART PERS S ART S
+\l Deseo otra vez a la mujercita.
+\p VI PAS#SUF PART#PART E3S#PERS S ART#ART S
+
+\ref trtex063Usp04 286
+\t Kom byen wiqil chaq,+
+\m kom byen wiq -il chaq
+\g como bien adornar PP PART
+\c ADV ADV VT SUF PART
+\l Como ya esta bien vestida.
+\p ADV ADV VT PP#SUF PART#PART
+
+\ref trtex063Usp04 287
+\t kla' xta,+
+\m kla' x- ta'
+\g allí COM encontrar
+\c ADV TAM VT
+\l Allí la pidio.
+\p ADV COM#TAM VT
+
+\ref trtex063Usp04 288
+\t xel laj chaak.+
+\m x- el la -j chaak
+\g COM salir PREP E3S trabajo
+\c TAM VI PREP PERS S
+\l Salio de su trabajo.
+\p COM#TAM VI PREP#PREP E3S#PERS S
+
+\ref trtex063Usp04 289
+\t I xijte' jchaak rk'il man anm.+
+\m i x- i- j- te' j- chaak r- k'il man anim
+\g CONJ COM DIR E3S pedir E3S trabajo E3S SREL ART mujer
+\c CONJ TAM DIR PERS VT PERS S PERS SREL ART S
+\l Y fue a pedirle trabajo a la mujercita.
+\p CONJ#CONJ COM#TAM DIR#DIR E3S#PERS VT E3S#PERS S E3S#PERS SREL#SREL ART#ART S
+
+\ref trtex063Usp04 290
+\t Kom xkami' jqaaj.+
+\m kom x- kam -i' j- qaaj
+\g como COM morir ENF E3S papá
+\c ADV TAM VI PART PERS S
+\l Como ya murio su papá.
+\p ADV COM#TAM VI ENF#PART E3S#PERS S
+
+\ref trtex063Usp04 291
+\t Tons xkan qelen laj q'ab'.+
+\m tons x- kan qelen la -j q'ab'
+\g entonces COM quedar cosas PREP E3S mano
+\c ADV TAM VI S PREP PERS S
+\l Entonces dejaron las cosas en sus manos.
+\p ADV COM#TAM VI S PREP#PREP E3S#PERS S
+
+\ref trtex063Usp04 292
+\t Xpe re xijte' jchaak rk'il,+
+\m x- pe re x- i- j- te' j- chaak r- k'il
+\g COM venir él/ella COM DIR E3S pedir E3S trabajo E3S SREL
+\c TAM VI PRON TAM DIR PERS VT PERS S PERS SREL
+\l Vino él le fue a pedir su trabajo con ella.
+\p COM#TAM VI PRON COM#TAM DIR#DIR E3S#PERS VT E3S#PERS S E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 293
+\t rk'i man anm.+
+\m r- k'i man anim
+\g E3S SREL ART mujer
+\c PERS SREL ART S
+\l Con la mujercita.
+\p E3S#PERS SREL#SREL ART#ART S
+
+\ref trtex063Usp04 294
+\t Xpe man anm.+
+\m x- pe man anm
+\g COM venir ART mujer
+\c TAM VI ART S
+\l Vino la mujercita.
+\p COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 295
+\t Tawen wi' chaak uk'il,+
+\m tawen wi' chaak uk'iil
+\g esta@bien EXS trabajo SREL
+\c ADV EXS S SREL
+\l Esta bien hay trabjo con migo.
+\p ADV EXS#EXS S SREL#SREL
+
+\ref trtex063Usp04 296
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo.
+\p VT PRON
+
+\ref trtex063Usp04 297
+\t Xye'saj jchaak+
+\m x- ye' -sáj j- chaak
+\g COM dar PAS E3S trabajo
+\c TAM VT SUF PERS S
+\l Le dieron su trabajo.
+\p COM#TAM VT PAS#SUF E3S#PERS S
+
+\ref trtex063Usp04 298
+\t i xye'saj juj richoch+
+\m i x- ye' -sáj ju -j r- ichoch
+\g CONJ COM dar PAS uno E3S E3S casa
+\c CONJ TAM VT SUF NUM PERS PERS S
+\l Y le dieron una casa.
+\p CONJ#CONJ COM#TAM VT PAS#SUF NUM E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 299
+\t lamas tuwer,+
+\m lamas tu- wer
+\g dónde INC dormir
+\c ADV TAM VT
+\l Donde se duerme.
+\p ADV INC#TAM VT
+
+\ref trtex063Usp04 300
+\t xye'saj juj richoch la tuwer.+
+\m x- ye' -sáj ju -j r- ichoch la tu- wer
+\g COM dar PAS uno E3S E3S casa PREP INC dormir
+\c TAM VT SUF NUM PERS PERS S PREP TAM VT
+\l Le dieron una casa en donde dormir.
+\p COM#TAM VT PAS#SUF NUM E3S#PERS E3S#PERS S PREP#PREP INC#TAM VT
+
+\ref trtex063Usp04 301
+\t I xok li chaak,+
+\m i x- ok li chaak
+\g CONJ COM entrar PREP trabajo
+\c CONJ TAM VI PREP S
+\l Y empezó a trabajar.
+\p CONJ#CONJ COM#TAM VI PREP#PREP S
+
+\ref trtex063Usp04 302
+\t xok li chaak.+
+\m x- ok li chaak
+\g COM entrar PREP trabajo
+\c TAM VI PREP S
+\l Empezo a trabajar.
+\p COM#TAM VI PREP#PREP S
+
+\ref trtex063Usp04 303
+\t I ruk' man chuuch man Angelika,+
+\m i ruk' man chuuch man Angelika
+\g CONJ PART ART mamá ART Angelica
+\c CONJ PART ART S ART NOM
+\l Y su mamá esa Angelica.
+\p CONJ#CONJ PART#PART ART#ART S ART#ART NOM
+
+\ref trtex063Usp04 304
+\t xkanel taq rk'i maj qaaj,+
+\m x- kan -el taq r- k'i ma -j qaaj
+\g COM quedar PP PL E3S SREL ART E3S papá
+\c TAM VI SUF PART PERS SREL ART PERS S
+\l Se quedaron con su papá.
+\p COM#TAM VI PP#SUF PL#PART E3S#PERS SREL#SREL ART#ART E3S#PERS S
+
+\ref trtex063Usp04 305
+\t jri.+
+\m jri
+\g allá
+\c ADV
+\l Por este lado.
+\p ADV
+
+\ref trtex063Usp04 306
+\t Xpe man Angelika xtok jun jalaan wunaq chik,+
+\m x- pe man Angelika x- tok jun jalaan wunaq chik
+\g COM venir ART Angelica COM buscar uno diferente hombre PART
+\c TAM VI ART NOM TAM VT NUM ADV S PART
+\l Vino esa Angelica busco un hombre aparte.
+\p COM#TAM VI ART#ART NOM COM#TAM VT NUM ADV S PART#PART
+
+\ref trtex063Usp04 307
+\t xtok jun jalaan wunaq chik.+
+\m x- tok jun jalaan wunaq chik
+\g COM buscar uno diferente hombre PART
+\c TAM VT NUM ADV S PART
+\l Busco otro hombre diferente.
+\p COM#TAM VT NUM ADV S PART#PART
+
+\ref trtex063Usp04 308
+\t I xpe juj jqaaj man Sergiyo,+
+\m i x- pe ju -j j- qaaj man Sergiyo
+\g CONJ COM venir uno E3S E3S papá ART Sergio
+\c CONJ TAM VI NUM PERS PERS S ART NOM
+\l Y vino un papá de ese Sergio.
+\p CONJ#CONJ COM#TAM VI NUM E3S#PERS E3S#PERS S ART#ART NOM
+
+\ref trtex063Usp04 309
+\t kabal xijte' man Angelika rk'i jun jalaan wunaq.+
+\m kabal x- i- j- te' man Angelika r- k'i jun jalaan wunaq
+\g cabal COM DIR E3S encontrar ART Angelica E3S SREL uno diferente hombre
+\c ADJ TAM DIR PERS VT ART NOM PERS SREL NUM ADV S
+\l Cabal lo fue a encontrar a esa Angelica con otro hombre.
+\p ADJ COM#TAM DIR#DIR E3S#PERS VT ART#ART NOM E3S#PERS SREL#SREL NUM ADV S
+
+\ref trtex063Usp04 310
+\t I xpe jqaaj man Sergiyo+
+\m i x- pe j- qaaj man Sergiyo
+\g CONJ COM venir E3S papá ART Sergio
+\c CONJ TAM VI PERS S ART NOM
+\l Y vino su papá de ese sergio.
+\p CONJ#CONJ COM#TAM VI E3S#PERS S ART#ART NOM
+
+\ref trtex063Usp04 311
+\t xkomsaaj man kab' wunaq+
+\m x- kom -saaj man kab' wunaq
+\g COM morir PAS ART segundo hombre
+\c TAM VI SUF ART NUM S
+\l Mató el segundo hombre.
+\p COM#TAM VI PAS#SUF ART#ART NUM S
+
+\ref trtex063Usp04 312
+\t re rk'i rxóqil.+
+\m re r- k'i r- xóqil
+\g él/ella E3S SREL E3S esposa
+\c PRON PERS SREL PERS S
+\l El con su esposa.
+\p PRON E3S#PERS SREL#SREL E3S#PERS S
+
+\ref trtex063Usp04 313
+\t xkomsaaj man wunaq.+
+\m x- kom -saaj man wunaq
+\g COM morir PAS ART hombre
+\c TAM VI SUF ART S
+\l Mató a ese hombre.
+\p COM#TAM VI PAS#SUF ART#ART S
+
+\ref trtex063Usp04 314
+\t Jwi'l xaye' taq,+
+\m j- wi'l x- a- ye' taq
+\g E3S SREL COM E2S dar PL
+\c PERS SREL TAM PERS VT PART
+\l Por eso dieron.
+\p E3S#PERS SREL#SREL COM#TAM E2S#PERS VT PL#PART
+
+\ref trtex063Usp04 315
+\t xab'ijtqa' re q'ab'tziij+
+\m x- a- b'ij -tq -a' re q'ab'tzij
+\g COM A2S decir PL ENF SREL autoridad
+\c TAM PERS VT PART PART SREL S
+\l Le dijeron a las autoridades.
+\p COM#TAM A2S#PERS VT PL#PART ENF#PART SREL#SREL S
+
+\ref trtex063Usp04 316
+\t ke man wunaq.+
+\m ke man wunaq
+\g que ART hombre
+\c PART ART S
+\l Que ese hombre.
+\p PART ART#ART S
+
+\ref trtex063Usp04 317
+\t Xkomsaaj man jkab' richjil,+
+\m x- kom -saaj man j- kab' r- ichijil
+\g COM morir PAS ART E3S segundo E3S esposo
+\c TAM VI SUF ART PERS NUM PERS S
+\l Mato al segundo esposo.
+\p COM#TAM VI PAS#SUF ART#ART E3S#PERS NUM E3S#PERS S
+
+\ref trtex063Usp04 318
+\t man anm chik.+
+\m man anim chik
+\g ART mujer PART
+\c ART S PART
+\l esa mujer otra vez.
+\p ART#ART S PART#PART
+
+\ref trtex063Usp04 319
+\t Chopel chaq rij maj qaaj man Sergiyo+
+\m chop -el chaq r- ij ma -j qaaj man Sergiyo
+\g agarrar PP PART E3S SREL ART E3S papá ART Sergio
+\c VT SUF PART PERS SREL ART PERS S ART NOM
+\l Ya lo tenia agarrado al papá de Sergio.
+\p VT PP#SUF PART#PART E3S#PERS SREL#SREL ART#ART E3S#PERS S ART#ART NOM
+
+\ref trtex063Usp04 320
+\t re t'ok li karsel.+
+\m re t'- ok li karsel
+\g él/ella INC entrar PREP carcel
+\c PRON TAM VI PREP S
+\l Para que entre en la carcel.
+\p PRON INC#TAM VI PREP#PREP S
+
+\ref trtex063Usp04 321
+\t Loke xen man Angelika,+
+\m loke x- en man Angelika'
+\g loque COM hacer ART Angelica
+\c ADV TAM VT ART NOM
+\l Loque hizo esa Angelica.
+\p ADV COM#TAM VT ART#ART NOM
+
+\ref trtex063Usp04 322
+\t xch'ab'ej b'i man rk'lal+
+\m x- ch'ab'e -j b'i man r- k'lal
+\g COM hablarle SC DIR ART E3S hijo
+\c TAM VT SUF DIR ART PERS S
+\l Hablo a su hijo.
+\p COM#TAM VT SC#SUF DIR#DIR ART#ART E3S#PERS S
+
+\ref trtex063Usp04 323
+\t li li ch'ich'.+
+\m li li ch'ich'
+\g PREP PREP vehículo
+\c PREP PREP S
+\l En en vehículo.
+\p PREP#PREP PREP#PREP S
+
+\ref trtex063Usp04 324
+\t I pen chawaj tatok jchaak aqaaj jili,+
+\m i pen ch- aw- aj t- a- tok j- chaak a- qaaj jili
+\g CONJ de@repente INC E2S querer INC E2S buscar E3S trabajo E2S papá allá
+\c CONJ ADV TAM PERS VT TAM PERS VT PERS S PERS S ADV
+\l Y derepente le buscas su trabajo a tu papá allí.
+\p CONJ#CONJ ADV INC#TAM E2S#PERS VT INC#TAM E2S#PERS VT E3S#PERS S E2S#PERS S ADV
+
+\ref trtex063Usp04 325
+\t niri kársel chaq rij.+
+\m niri kársel chaq r- ij
+\g aqui carcel PART E3S SREL
+\c ADV S PART PERS SREL
+\l Aquí ya esta para irse a la carcel.
+\p ADV S PART#PART E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 326
+\t Xkomsaj jun wunaq,+
+\m x- kom -sáj jun wunaq
+\g COM morir PAS uno hombre
+\c TAM VI SUF NUM S
+\l Mato a un hombre.
+\p COM#TAM VI PAS#SUF NUM S
+
+\ref trtex063Usp04 327
+\t cha' re man.+
+\m cha' re man
+\g dice él/ella ART
+\c VI PRON ART
+\l Le dijo a ese.
+\p VI PRON ART#ART
+
+\ref trtex063Usp04 328
+\t Rk'lal.+
+\m r- k'lal
+\g E3S hijo
+\c PERS S
+\l Su hijo.
+\p E3S#PERS S
+
+\ref trtex063Usp04 329
+\t B'ij re tpe niri tantok jchaak,+
+\m b'ij re t- pe niri t- an- tok j- chaak
+\g decir él/ella INC venir aqui INC E1S buscar E3S trabajo
+\c VT PRON TAM VI ADV TAM PERS VT PERS S
+\l Dígale que se venga aquí le buscare trabajo.
+\p VT PRON INC#TAM VI ADV INC#TAM E1S#PERS VT E3S#PERS S
+
+\ref trtex063Usp04 330
+\t cha' man Sergiy re.+
+\m cha' man Sergiy re
+\g decir ART Sergio él/ella
+\c VT ART NOM PRON
+\l Le dijo Sergio a ella.
+\p VT ART#ART NOM PRON
+
+\ref trtex063Usp04 331
+\t Xpe man Sergiy xch'ab'ej man anm.+
+\m x- pe man Sergiy x- ch'ab'e -j man anim
+\g COM venir ART Sergio COM hablarle SC ART mujer
+\c TAM VI ART NOM TAM VT SUF ART S
+\l Vino ese Sergio le hablo a la mujercita.
+\p COM#TAM VI ART#ART NOM COM#TAM VT SC#SUF ART#ART S
+
+\ref trtex063Usp04 332
+\t I ke pent chawaj ni' tab'an jun toq'ob',+
+\m i ke pent ch- aw- aj ni' t- a- b'an jun toq'ob'
+\g CONJ que derepente INC E2S querer CONJ INC E2S hacer uno favor
+\c CONJ ADV ADV TAM PERS VT CONJ TAM PERS VT NUM S
+\l Y que derrepente quieres hacerme un fabor.
+\p CONJ#CONJ ADV ADV INC#TAM E2S#PERS VT CONJ#CONJ INC#TAM E2S#PERS VT NUM S
+
+\ref trtex063Usp04 333
+\t takoj,+
+\m t- a- koj
+\g INC E2S ITS
+\c TAM PERS SUF
+\l Poner.
+\p INC#TAM E2S#PERS ITS#SUF
+
+\ref trtex063Usp04 334
+\t tatoko' jchaak intaat,+
+\m t- a- tok -o j- chaak in- taat
+\g INC E3S buscar ENF E3S trabajo A1S papá
+\c TAM PERS VT PART PERS S PERS S
+\l Le buscas trabajo a mi papá.
+\p INC#TAM E3S#PERS VT ENF#PART E3S#PERS S A1S#PERS S
+
+\ref trtex063Usp04 335
+\t jili ta' chki' tzii wi'.+
+\m jili ta' chk -i' tzii wi'
+\g allá NEG PART ENF bueno EXS
+\c ADV PART PART PART ADJ EXS
+\l Allá ya no esta bien.
+\p ADV NEG#PART PART#PART ENF#PART ADJ EXS#EXS
+
+\ref trtex063Usp04 336
+\t I kars rij,+
+\m i kars r- ij
+\g CONJ carcel E3S SREL
+\c CONJ S PERS SREL
+\l Y esta para irse a la carcel.
+\p CONJ#CONJ S E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 337
+\t saa neen xen.+
+\m saa neen x- en
+\g saber INT COM hacer
+\c ADV ADV TAM VT
+\l Saber que hizo.
+\p ADV INT#ADV COM#TAM VT
+
+\ref trtex063Usp04 338
+\t Ta'i'j re tpet,+
+\m t- a'- i'j re t- pet
+\g INC E3S decir él/ella INC venir
+\c TAM PERS VT PRON TAM VI
+\l Le dices que se venga.
+\p INC#TAM E3S#PERS VT PRON INC#TAM VI
+
+\ref trtex063Usp04 339
+\t cha' re man Sergiyo,+
+\m cha' re man Sergiyo
+\g decir él/ella ART Sergio
+\c VT PRON ART NOM
+\l Le dijo ella a ese Sergio.
+\p VT PRON ART#ART NOM
+
+\ref trtex063Usp04 340
+\t t'iij man Sergiyo xch'aw chik.+
+\m t'- iij man Sergiyo x- ch'aw chik
+\g INC decir ART Sergio COM hablar PART
+\c TAM VT ART NOM TAM VI PART
+\l Dijo Sergio cuando habló otra vez.
+\p INC#TAM VT ART#ART NOM COM#TAM VI PART#PART
+
+\ref trtex063Usp04 341
+\t Ijre tpet.+
+\m ij -re t- pet
+\g decir él/ella INC venir
+\c VT PRON TAM VI
+\l Dígale que venga.
+\p VT PRON INC#TAM VI
+
+\ref trtex063Usp04 342
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 343
+\t cha' maj qaaj.+
+\m cha' ma -j qaaj
+\g decir ART E3S papá
+\c VT ART PERS S
+\l Dijo su papá.
+\p VT ART#ART E3S#PERS S
+
+\ref trtex063Usp04 344
+\t Xek' kuwand xtaw taq,+
+\m xek' kwand x- taw taq
+\g ir cuando COM llegar PL
+\c VI ADV TAM VT PART
+\l Se fue cuando llegaron.
+\p VI ADV COM#TAM VT PL#PART
+
+\ref trtex063Usp04 345
+\t xtaw xij k'ule' maj qaaj.+
+\m x- taw x- i -j k'uli' ma -j qaaj
+\g COM llegar COM DIR E3S encontrar ART E3S papá
+\c TAM VT TAM DIR PERS VT ART PERS S
+\l Llego y se fue a encotrar a su papá.
+\p COM#TAM VT COM#TAM DIR#DIR E3S#PERS VT ART#ART E3S#PERS S
+
+\ref trtex063Usp04 346
+\t Xpet xk'am maj qaaj laj richoch man anm.+
+\m x- pet x- k'am ma -j qaaj la -j r- ichoch man anim
+\g COM venir COM recibir ART E3S papá PREP E3S E3S casa ART mujer
+\c TAM VI TAM VT ART PERS S PREP PERS PERS S ART S
+\l Se vino yse llevo a su papá en la casa de la mujercita.
+\p COM#TAM VI COM#TAM VT ART#ART E3S#PERS S PREP#PREP E3S#PERS E3S#PERS S ART#ART S
+
+\ref trtex063Usp04 347
+\t Xi'j re.+
+\m x- i'j re
+\g COM decir él/ella
+\c TAM VT PRON
+\l Le dijo.
+\p COM#TAM VT PRON
+
+\ref trtex063Usp04 348
+\t Ri' ri intaat,+
+\m ri' ri in- taat
+\g DEM DEM E1S papá
+\c DEM DEM PERS S
+\l Este es mi papá.
+\p DEM#DEM DEM#DEM E1S#PERS S
+
+\ref trtex063Usp04 349
+\t pen chawaj tatok jchaak,+
+\m pen ch- w- aj t- a- tok j- chaak
+\g de@repente INC E2S querer INC E2S buscar E3S trabajo
+\c ADV TAM PERS VT TAM PERS VT PERS S
+\l De repente quieres buscarle trabajo.
+\p ADV INC#TAM E2S#PERS VT INC#TAM E2S#PERS VT E3S#PERS S
+
+\ref trtex063Usp04 350
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo.
+\p VT PRON
+
+\ref trtex063Usp04 351
+\t Neen jb'ij aqaaj,+
+\m neen j- b'iij a- qaaj
+\g INT E3S nombre E2S papá
+\c ADV PERS S PERS S
+\l ¿Cómo se llama tu papá?
+\p INT#ADV E3S#PERS S E2S#PERS S
+
+\ref trtex063Usp04 352
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo.
+\p VT PRON
+
+\ref trtex063Usp04 353
+\t Renato jb'ij.+
+\m Renato j- b'iij
+\g Renato E3S nombre
+\c NOM PERS S
+\l Renato se llama.
+\p NOM E3S#PERS S
+
+\ref trtex063Usp04 354
+\t Neen áb'ij,+
+\m neen a- b'iij
+\g INT E2S nombre
+\c ADV PERS S
+\l ¿Como te nombre?
+\p INT#ADV E2S#PERS S
+
+\ref trtex063Usp04 355
+\t cha' re man wunaq.+
+\m cha' re man wunaq
+\g decir él/ella ART hombre
+\c VT PRON ART S
+\l Le dijo a ese hombre.
+\p VT PRON ART#ART S
+
+\ref trtex063Usp04 356
+\t Iin Renato,+
+\m iin Renato
+\g yo Renato
+\c PRON NOM
+\l Yo Renato.
+\p PRON NOM
+
+\ref trtex063Usp04 357
+\t Renato ínb'ij,+
+\m Renato ín- b'iij
+\g renato E1S nombre
+\c NOM PERS S
+\l Renato me llamo.
+\p NOM E1S#PERS S
+
+\ref trtex063Usp04 358
+\t cha' man wunaq re man anm.+
+\m cha' man wunaq re man anim
+\g decir ART hombre él/ella ART mujer
+\c VT ART S PRON ART S
+\l Dijo ese hombre a la mujercita.
+\p VT ART#ART S PRON ART#ART S
+
+\ref trtex063Usp04 359
+\t Toos... xpe man wunaq,+
+\m toos x- pe man wunaq
+\g entonces COM venir ART hombre
+\c ADV TAM VI ART S
+\l Entonces vino ese hombre.
+\p ADV COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 360
+\t xpe man anm xi' okchik laj richoch.+
+\m x- pe man anim x -i' ok -chik la -j r- ichoch
+\g COM venir ART mujer COM DIR entrar PART PREP E3S E3S casa
+\c TAM VI ART S TAM DIR VI PART PREP PERS PERS S
+\l Vino la mujercita se fue a entrar en su casa.
+\p COM#TAM VI ART#ART S COM#TAM DIR#DIR VI PART#PART PREP#PREP E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 361
+\t Ruk' maj qaaj man Sergiyo,+
+\m ruk' ma -j qaaj man Sergiyo
+\g PART ART E3S papá ART Sergio
+\c PART ART PERS S ART NOM
+\l Y ese papá de Sergio.
+\p PART#PART ART#ART E3S#PERS S ART#ART NOM
+
+\ref trtex063Usp04 362
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 363
+\t Twilin ri' man anm xwa'x qik'il ójor,+
+\m t- w- i'l -i'n ri' man anim x- wa'x q- ik'il ójor
+\g INC E1S SREL yo DEM ART mujer COM estar E1P SREL antiguamente
+\c TAM PERS SREL PRON DEM ART S TAM VI PERS SREL ADV
+\l Miro yo es la mujer que estubo con nosotros antes.
+\p INC#TAM E1S#PERS SREL#SREL PRON DEM#DEM ART#ART S COM#TAM VI E1P#PERS SREL#SREL ADV
+
+\ref trtex063Usp04 364
+\t cha' re maj k'ajol.+
+\m cha' re ma -j k'ajol
+\g decir él/ella ART E3S hijo
+\c VT PRON ART PERS S
+\l Le dijo él a su hijo.
+\p VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 365
+\t Ri' ta'n, ri' ta'n,+
+\m ri' ta'n ri' ta'n
+\g DEM NEG DEM NEG
+\c DEM ADV DEM ADV
+\l No es ella no es ella.
+\p DEM#DEM NEG#ADV DEM#DEM NEG#ADV
+
+\ref trtex063Usp04 366
+\t cha' maj k'ajol.+
+\m cha' ma -j k'ajol
+\g decir ART E3S hijo
+\c VT ART PERS S
+\l Dijo ese su hijo.
+\p VT ART#ART E3S#PERS S
+
+\ref trtex063Usp04 367
+\t Usil, usil, usil xpe man... xpet man anm,+
+\m usil usil usil x- pe man x- pet man anim
+\g despacio despacio despacio COM venir ART COM venir ART mujer
+\c ADV ADV ADV TAM VI ART TAM VI ART S
+\l Poco a poco poco a poco vino la vino la mujercita.
+\p ADV ADV ADV COM#TAM VI ART#ART COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 368
+\t xch'eb' jwich.+
+\m x- ch'eb' j- wiich
+\g COM conocer E3S cara
+\c TAM VT PERS S
+\l Lo reconoció.
+\p COM#TAM VT E3S#PERS S
+
+\ref trtex063Usp04 369
+\t Cha' tons xpe man anm,+
+\m cha' tos x- pe man anim
+\g decir entonces COM venir ART mujer
+\c VI ADV TAM VI ART S
+\l Dice entonces vino la mujercita.
+\p VI ADV COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 370
+\t xch'eb' jwich,+
+\m x- ch'eb' j- wich
+\g COM conocer E3S cara
+\c TAM VT PERS S
+\l Lo reconoció.
+\p COM#TAM VT E3S#PERS S
+
+\ref trtex063Usp04 371
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dice.
+\p VT
+
+\ref trtex063Usp04 372
+\t Toos xtz'onaj re.+
+\m toos x- tz'ona -j re
+\g entonces COM pedir E3S él/ella
+\c ADV TAM VT PERS PRON
+\l Entonces le pregunto a él.
+\p ADV COM#TAM VT E3S#PERS PRON
+
+\ref trtex063Usp04 373
+\t Toos at aat renat,+
+\m toos at aat renat
+\g entonces tú/usted tú/usted renato
+\c ADV PRON PRON NOM
+\l Entonces usted usted es Renato.
+\p ADV PRON PRON NOM
+
+\ref trtex063Usp04 374
+\t toos a' antons ati'n,+
+\m toos a' antons at -i'n
+\g entonces CONJ entonces tú/usted ENF
+\c ADV CONJ ADV PRON PART
+\l Entonces a entonces es Usted.
+\p ADV CONJ#CONJ ADV PRON ENF#PART
+
+\ref trtex063Usp04 375
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 376
+\t Toos tawen wi' achaak niri.+
+\m toos tawen wi' a- chaak niri
+\g entonces esta@bien EXS E2S trabajo aqui
+\c ADV ADV EXS PERS S ADV
+\l Entonces esta bien tienes trabajo aquí.
+\p ADV ADV EXS#EXS E2S#PERS S ADV
+
+\ref trtex063Usp04 377
+\t Toos xi'j chik man Sergiyo.+
+\m toos x- i'j chik man Sergiyo
+\g entonces COM decir PART ART Sergio
+\c ADV TAM VT PART ART NOM
+\l Entonces dijo otra vez este Sergio.
+\p ADV COM#TAM VT PART#PART ART#ART NOM
+
+\ref trtex063Usp04 378
+\t B'an pen chawaj tatok juj kwart intaat+
+\m b'an pen ch- aw- aj t- a- tok ju -j kwart in- taat
+\g hacer pena INC E3S querer INC E2S buscar uno E3 cuarto A1S papá
+\c VT S TAM PERS VT TAM PERS VT NUM PERS S PERS S
+\l Talvez le puedes buscar un cuarto para mi papá.
+\p VT S INC#TAM E3S#PERS VT INC#TAM E2S#PERS VT NUM E3#PERS S A1S#PERS S
+
+\ref trtex063Usp04 379
+\t lamas twa'x,+
+\m lamas t- wa'x
+\g dónde INC estar
+\c ADV TAM VI
+\l Donde pueda estar.
+\p ADV INC#TAM VI
+
+\ref trtex063Usp04 380
+\t twer.+
+\m t- wer
+\g INC dormir
+\c TAM VI
+\l Para dormir.
+\p INC#TAM VI
+
+\ref trtex063Usp04 381
+\t Tziin ko' jun jaa li,+
+\m tziin ko' jun jaa li
+\g esta@bien PART uno casa DEM
+\c ADV PART NUM S DEM
+\l Esta bien, aqui esta una casa.
+\p ADV PART#PART NUM S DEM#DEM
+
+\ref trtex063Usp04 382
+\t cha',+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 383
+\t xtoksaj jchaak.+
+\m x- tok -sáj j- chaak
+\g COM buscar PAS E3S trabajo
+\c TAM VT SUF PERS S
+\l Le buscaron su trabajo.
+\p COM#TAM VT PAS#SUF E3S#PERS S
+
+\ref trtex063Usp04 384
+\t Ruk'u xtoksaj jchaak jwi' jun anm.+
+\m r- u -k'u x- tok -sáj j- chaak j- wi'l jun anim
+\g E3S DEM PART COM buscar PAS E3S trabajo E3S SREL uno mujer
+\c PERS DEM PART TAM VT SUF PERS S PERS SREL NUM S
+\l Entonces le buscó trabajo la mujer.
+\p E3S#PERS DEM#DEM PART#PART COM#TAM VT PAS#SUF E3S#PERS S E3S#PERS SREL#SREL NUM S
+
+\ref trtex063Usp04 385
+\t Rk'u rxóqil man wunaq xkan,+
+\m r- k'u r- xoqil man wunaq x- kan
+\g E3S PART E3S esposa ART hombre COM quedar
+\c PERS PART PERS S ART S TAM VI
+\l Y la esposa de ese hombre se quedó.
+\p E3S#PERS PART#PART E3S#PERS S ART#ART S COM#TAM VI
+
+\ref trtex063Usp04 386
+\t sow seb'laaj t'oq',+
+\m (sow) seb'laaj t'oq'
+\g ??? ITS llorar
+\c ??? PART VI
+\l Como llorava.
+\p ??? ITS#PART VI
+
+\ref trtex063Usp04 387
+\t cha',+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 388
+\t chi rij man rchjil,+
+\m chi r- ij man r- chijiil
+\g PREP E3S SREL ART E3S esposo
+\c PREP PERS SREL ART PERS S
+\l Detras de su esposo. (por el esposo)
+\p PREP#PREP E3S#PERS SREL#SREL ART#ART E3S#PERS S
+
+\ref trtex063Usp04 389
+\t pech man rk'lal.+
+\m pech man r- k'laal
+\g compañero ART E3S hijo
+\c S ART PERS S
+\l Junto con su hijo.
+\p S ART#ART E3S#PERS S
+
+\ref trtex063Usp04 390
+\t Porke rk'an chaq kanel,+
+\m porke r- k'a'n chaq kan -el
+\g porque E3S sola PART quedar quedar
+\c ADV PERS ADJ PART VI S
+\l Porque sola se quedo.
+\p ADV E3S#PERS ADJ PART#PART VI S
+
+\ref trtex063Usp04 391
+\t pok tijch'ab'ej man richjil.+
+\m pok ti- j- ch'ab'e -j man r- ichijil
+\g poco INC E3S hablarle SC ART E3S esposo
+\c ADV TAM PERS VT SUF ART PERS S
+\l Cómo habla a su esposo.
+\p ADV INC#TAM E3S#PERS VT SC#SUF ART#ART E3S#PERS S
+
+\ref trtex063Usp04 392
+\t Ke ne' jun toq'ob' man anm+
+\m ke ne' jun toq'ob' man anim
+\g que hacer uno favor ART mujer
+\c ADV VT NUM S ART S
+\l Que le haga un fabor esa mujercita.
+\p ADV VT NUM S ART#ART S
+
+\ref trtex063Usp04 393
+\t toksaj jun richoch lamas t'ewa'x.+
+\m tok -sáj jun r- ichoch lamas te- wa'x
+\g buscar PAS uno E3S casa dónde INC estar
+\c VT SUF NUM PERS S ADV TAM VI
+\l Buscarle una su casa en donde puede estar.
+\p VT PAS#SUF NUM E3S#PERS S ADV INC#TAM VI
+
+\ref trtex063Usp04 394
+\t Porke re pok tb'ison chi rij man richjil xe'.+
+\m porke re pok t- b'is -on chi r- ij man r- ichijil xe'
+\g porque él/ella poco INC tristeza AP PREP E3S SREL ART E3S esposo ir
+\c ADV PRON ADV TAM ADV SUF PREP PERS SREL ART PERS S VI
+\l Porque ella esta muy trizte, por su esposo que se fue.
+\p ADV PRON ADV INC#TAM ADV AP#SUF PREP#PREP E3S#PERS SREL#SREL ART#ART E3S#PERS S VI
+
+\ref trtex063Usp04 395
+\t Komo uxub' ik',+
+\m komo uxib' ik'
+\g como tres mes
+\c ADV NUM S
+\l Como tres meses.
+\p ADV NUM S
+
+\ref trtex063Usp04 396
+\t kijab' ik',+
+\m kijab' iik'
+\g cuatro mes
+\c NUM S
+\l Cuatro meses.
+\p NUM S
+
+\ref trtex063Usp04 397
+\t jchaak man richjil.+
+\m j- chaak man r- ichijil
+\g E3S trabajo ART E3S esposo
+\c PERS S ART PERS S
+\l Su trabajo de ese su esposo.
+\p E3S#PERS S ART#ART E3S#PERS S
+
+\ref trtex063Usp04 398
+\t Toos xtaw chik man,+
+\m toos x- taw chik man
+\g entonces COM llegar PART ART
+\c ADV TAM VT PART ART
+\l Entonces llego otra vez esa.
+\p ADV COM#TAM VT PART#PART ART#ART
+
+\ref trtex063Usp04 399
+\t xtaw chik xtaw chik, man rixóqil chij jb'ij re.+
+\m x- taw chik x- taw chik man r- ixóqil chi -j j- b'ij re
+\g COM llegar PART COM llegar PART ART E3S esposa PREP E3S E3S decir él/ella
+\c TAM VT PART TAM VT PART ART PERS S PREP PERS PERS VT PRON
+\l Llego otra vez llego otra vez ea su esposa, para decirle a él.
+\p COM#TAM VT PART#PART COM#TAM VT PART#PART ART#ART E3S#PERS S PREP#PREP E3S#PERS E3S#PERS VT PRON
+
+\ref trtex063Usp04 400
+\t Xij b'ij re,+
+\m x- i -j b'ij re
+\g COM DIR E3S decir él/ella
+\c TAM DIR PERS VT PRON
+\l Le fue a decirle a él.
+\p COM#TAM DIR#DIR E3S#PERS VT PRON
+
+\ref trtex063Usp04 401
+\t xi'j re man.+
+\m x- i' -j re man
+\g COM DIR E3S él/ella ART
+\c TAM DIR PERS PRON ART
+\l Le fue a decir a ese.
+\p COM#TAM DIR#DIR E3S#PERS PRON ART#ART
+
+\ref trtex063Usp04 402
+\t Xpe maj qaaj pech maj k'ajol.+
+\m x- pe ma -j qaaj pech ma -j k'ajol
+\g COM venir ART E3S papá compañero ART E3S hijo
+\c TAM VI ART PERS S S ART PERS S
+\l Vino ese su papá y ese su hijo.
+\p COM#TAM VI ART#ART E3S#PERS S S ART#ART E3S#PERS S
+
+\ref trtex063Usp04 403
+\t Xi'j taq re man anm.+
+\m x- i'j taq re man anim
+\g COM decir PL él/ella ART mujer
+\c TAM VT PART PRON ART S
+\l Le dijeron a la mujercita.
+\p COM#TAM VT PL#PART PRON ART#ART S
+
+\ref trtex063Usp04 404
+\t Pent chawaj tatok juj qchoch,+
+\m pent ch- aw- aj t- a- tok ju -j q- choch
+\g de@repente INC E1S querer INC E2S buscar uno E3S E1P casa
+\c ADV TAM PERS VT TAM PERS VT NUM PERS PERS S
+\l Derepente quieres buscar una nuestra casa.
+\p ADV INC#TAM E1S#PERS VT INC#TAM E2S#PERS VT NUM E3S#PERS E1P#PERS S
+
+\ref trtex063Usp04 405
+\t esk wxóqil tb'ison chqij,+
+\m esk w- xóq t- b'is -on ch- q- ij
+\g esque E1S esposa INC tristeza AP INC E1P SREL
+\c ADV PERS S TAM S SUF TAM PERS SREL
+\l Esque mi esposa esta muy triste por nosotros.
+\p ADV E1S#PERS S INC#TAM S AP#SUF INC#TAM E1P#PERS SREL#SREL
+
+\ref trtex063Usp04 406
+\t wi' jili,+
+\m wi' jili
+\g EXS allá
+\c EXS ADV
+\l Esta allá.
+\p EXS#EXS ADV
+
+\ref trtex063Usp04 407
+\t cha' re man anm,+
+\m cha' re man anim
+\g decir él/ella ART mujer
+\c VI PRON ART S
+\l Le dijo ella a la mujercita.
+\p VI PRON ART#ART S
+
+\ref trtex063Usp04 408
+\t tcha' re man,+
+\m t- cha' re man
+\g INC decir él/ella ART
+\c TAM VT PRON ART
+\l Le dejo a esa.
+\p INC#TAM VT PRON ART#ART
+
+\ref trtex063Usp04 409
+\t tcha' re man anm,+
+\m t- cha' re man anim
+\g INC decir él/ella ART mujer
+\c TAM VT PRON ART S
+\l Le dijo a la mujercita.
+\p INC#TAM VT PRON ART#ART S
+
+\ref trtex063Usp04 410
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dice.
+\p VT
+
+\ref trtex063Usp04 411
+\t Tzili b'ij re tpet,+
+\m tzi -li b'ij re t- pet
+\g bueno DEM decir él/ella INC venir
+\c ADV DEM VT PRON TAM VI
+\l Esta bien digale que se venga.
+\p ADV DEM#DEM VT PRON INC#TAM VI
+
+\ref trtex063Usp04 412
+\t cha' man anm re man wunaq.+
+\m cha' man anim re man wunaq
+\g decir ART mujer él/ella ART hombre
+\c VT ART S PRON ART S
+\l Le dijo la mujercita a ese hombre.
+\p VT ART#ART S PRON ART#ART S
+
+\ref trtex063Usp04 413
+\t Xpet xujme' chik maj rxóqil.+
+\m x- pet x- u -j -ne' chik ma -j r- xóqil
+\g COM venir COM llegar E3S ENF PART ART E3S E3S esposa
+\c TAM VI TAM VI PERS PART PART ART PERS PERS S
+\l Vino a traer otra vez a su mujer.
+\p COM#TAM VI COM#TAM VI E3S#PERS ENF#PART PART#PART ART#ART E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 414
+\t I xtaaw man anm.+
+\m i x- taaw man anim
+\g CONJ COM llegar ART mujer
+\c CONJ TAM VT ART S
+\l Y llego esa mujer.
+\p CONJ#CONJ COM#TAM VT ART#ART S
+
+\ref trtex063Usp04 415
+\t I xtaw man anm,+
+\m i x- taw man anim
+\g CONJ COM llegar ART mujer
+\c CONJ TAM VT ART S
+\l Y llego esa mujer.
+\p CONJ#CONJ COM#TAM VT ART#ART S
+
+\ref trtex063Usp04 416
+\t xi'j re man,+
+\m x- i'j re man
+\g COM decir él/ella ART
+\c TAM VT PRON ART
+\l Le dijo a esa.
+\p COM#TAM VT PRON ART#ART
+
+\ref trtex063Usp04 417
+\t xi'j, xi'j re man rich...+
+\m x- i'j x- i'j re man r- ich
+\g COM decir COM decir él/ella ART E3S esposo
+\c TAM VT TAM VT PRON ART PERS S
+\l Le dijo a ese su marido.
+\p COM#TAM VT COM#TAM VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 418
+\t xi'j re man rk'lal.+
+\m x- i'j re man r- k'laal
+\g COM decir él/ella ART E3S hijo
+\c TAM VT PRON ART PERS S
+\l Le dijo a ese su hijo.
+\p COM#TAM VT PRON ART#ART E3S#PERS S
+
+\ref trtex063Usp04 419
+\t Neench, neench neen chiki' anm li,+
+\m neen -ch neen -ch neen chik -i' anim li
+\g INT PART INT PART INT PART ENF mujer DEM
+\c ADV PART ADV PART ADV PART PART S DEM
+\l ¿Quien quien quien sera esa mujer?
+\p INT#ADV PART#PART INT#ADV PART#PART INT#ADV PART#PART ENF#PART S DEM#DEM
+
+\ref trtex063Usp04 420
+\t ri' chki' anm oj chakunk,+
+\m ri' chk- i' anim oj chaak -un -k
+\g DEM PART ENF mujer nosotros trabajo AP SC
+\c DEM PART PART S PRON S SUF SUF
+\l Ya somos nosotros quienes vamos a trabajar con ella.
+\p DEM#DEM PART#PART ENF#PART S PRON S AP#SUF SC#SUF
+
+\ref trtex063Usp04 421
+\t oj chakun,+
+\m oj chaak -un
+\g nosotros trabajo AP
+\c PRON S SUF
+\l Nosotros trabajamos.
+\p PRON S AP#SUF
+
+\ref trtex063Usp04 422
+\t cha' re man,+
+\m cha' re man
+\g decir él/ella ART
+\c VT PRON ART
+\l Le dijo ella a ese.
+\p VT PRON ART#ART
+
+\ref trtex063Usp04 423
+\t cha' re man wunaq.+
+\m cha' re man wunaq
+\g decir él/ella ART hombre
+\c VT PRON ART S
+\l Le dijo ella a ese hombre.
+\p VT PRON ART#ART S
+
+\ref trtex063Usp04 424
+\t A...',+
+\m a
+\g CONJ
+\c CONJ
+\l ¡A...!
+\p CONJ#CONJ
+
+\ref trtex063Usp04 425
+\t cha' re,+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo.
+\p VT PRON
+
+\ref trtex063Usp04 426
+\t tu... xpe man xpe man Sergiyo,+
+\m (tu) x- pe man x- pe man Sergiyo
+\g ??? COM venir ART COM venir ART Sergio
+\c ??? TAM VI ART TAM VI ART NOM
+\l Vino ese vino ese Sergio.
+\p ??? COM#TAM VI ART#ART COM#TAM VI ART#ART NOM
+
+\ref trtex063Usp04 427
+\t xi'j re.+
+\m x- i'j re
+\g COM decir él/ella
+\c TAM VT PRON
+\l Le dijo a ella.
+\p COM#TAM VT PRON
+
+\ref trtex063Usp04 428
+\t Ri' ri innaan,+
+\m ri' ri in- naan
+\g DEM DEM A1S mamá
+\c DEM DEM PERS S
+\l Esta es mi mamá.
+\p DEM#DEM DEM#DEM A1S#PERS S
+
+\ref trtex063Usp04 429
+\t cha' re.+
+\m cha' re
+\g dice él/ella
+\c VI PRON
+\l Le dijo él.
+\p VI PRON
+
+\ref trtex063Usp04 430
+\t A...,+
+\m a
+\g CONJ
+\c CONJ
+\l ¡A...!
+\p CONJ#CONJ
+
+\ref trtex063Usp04 431
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo ella.
+\p VT PRON
+
+\ref trtex063Usp04 432
+\t A...,+
+\m a
+\g CONJ
+\c CONJ
+\l ¡A...!
+\p CONJ#CONJ
+
+\ref trtex063Usp04 433
+\t cha' man anm re.+
+\m cha' man anim re
+\g dice ART mujer él/ella
+\c VI ART S PRON
+\l Dijo la mujercita a él.
+\p VI ART#ART S PRON
+
+\ref trtex063Usp04 434
+\t Xpet,+
+\m x- pet
+\g COM venir
+\c TAM VI
+\l Vino.
+\p COM#TAM VI
+
+\ref trtex063Usp04 435
+\t xpe man anm.+
+\m x- pe man anim
+\g COM venir ART mujer
+\c TAM VI ART S
+\l Vino esa mujercita.
+\p COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 436
+\t Ri' re neen jb'ij anaan,+
+\m ri' re neen j- b'iij a- naan
+\g DEM él/ella INT E3S nombre E2S mamá
+\c DEM PRON ADV PERS S PERS S
+\l ¡Ella es! ¿como se llama tú mamá?
+\p DEM#DEM PRON INT#ADV E3S#PERS S E2S#PERS S
+
+\ref trtex063Usp04 437
+\t cha' re Angelika,+
+\m cha' re Angelika
+\g decir él/ella Angelica
+\c VT PRON NOM
+\l De dijo, Angelica.
+\p VT PRON NOM
+
+\ref trtex063Usp04 438
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo.
+\p VT PRON
+
+\ref trtex063Usp04 439
+\t Twil in,+
+\m t- w- il in
+\g INC E1S ver yo
+\c TAM PERS VT PRON
+\l Miro yo.
+\p INC#TAM E1S#PERS VT PRON
+
+\ref trtex063Usp04 440
+\t toos xe'chik man anm la jaa.+
+\m toos xe' -chik man anim la jaa
+\g entonces ir PART ART mujer PREP casa
+\c ADV VI PART ART S PREP S
+\l Entonses se fue otra vez esa mujercita para adentro de la casa.
+\p ADV VI PART#PART ART#ART S PREP#PREP S
+
+\ref trtex063Usp04 441
+\t Richoch chik xe'jtz'ib'aj ni'j wuj chik.+
+\m r- ichoch chik x- e'- j- tz'ib'a -j ni'j wuj chik
+\g E3S casa PART COM DIR E3S escribir E3S unos papel PART
+\c PERS S PART TAM DIR PERS VT PERS ADV S PART
+\l Su casa, otra vez fue a escribir unos papeles más.
+\p E3S#PERS S PART#PART COM#TAM DIR#DIR E3S#PERS VT E3S#PERS ADV S PART#PART
+
+\ref trtex063Usp04 442
+\t xpe man anm,+
+\m x- pe man anim
+\g COM venir ART mujer
+\c TAM VI ART S
+\l Vino la mujercita.
+\p COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 443
+\t xe'.+
+\m xe'
+\g ir
+\c VI
+\l Se fue.
+\p VI
+
+\ref trtex063Usp04 444
+\t Twil in ri man, maa man Marimar+
+\m t- w- il in ri man maa man Marimar
+\g INC E1S ver yo DEM ART ART ART Marimar
+\c TAM PERS VT PRON DEM ART ART ART NOM
+\l Miro yo es esa esa Marimar.
+\p INC#TAM E1S#PERS VT PRON DEM#DEM ART#ART ART#ART ART#ART NOM
+
+\ref trtex063Usp04 445
+\t xwa'x qik'il ójor,+
+\m x- wa'x q- ik'il ójor
+\g COM estar E1P SREL antiguamente
+\c TAM VI PERS SREL ADV
+\l Estubo con nosotros antes.
+\p COM#TAM VI E1P#PERS SREL#SREL ADV
+
+\ref trtex063Usp04 446
+\t cha' maj chuuch re.+
+\m cha' ma -j chuuch re
+\g decir ART E3S mamá él/ella
+\c VT ART PERS S PRON
+\l Le dijo su mamá a él.
+\p VT ART#ART E3S#PERS S PRON
+
+\ref trtex063Usp04 447
+\t Noo ri' ta'n,+
+\m noo ri' ta'n
+\g no DEM NEG
+\c ADV DEM ADV
+\l No no es ella.
+\p ADV DEM#DEM NEG#ADV
+
+\ref trtex063Usp04 448
+\t cha',+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 449
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dice.
+\p VT
+
+\ref trtex063Usp04 450
+\t Re xpe chik man,+
+\m re x- pe chik man
+\g él/ella COM venir PART ART
+\c PRON TAM VI PART ART
+\l Él vino otra vez ese.
+\p PRON COM#TAM VI PART#PART ART#ART
+
+\ref trtex063Usp04 451
+\t xpe man wunaq.+
+\m x- pe man wunaq
+\g COM venir ART hombre
+\c TAM VI ART S
+\l Vino ese hombre.
+\p COM#TAM VI ART#ART S
+
+\ref trtex063Usp04 452
+\t Pent ko' jun jaa li+
+\m pent ko' jun jaa li
+\g de@repente PART uno casa DEM
+\c ADV PART NUM S DEM
+\l Derepente, allí esta una casa.
+\p ADV PART#PART NUM S DEM#DEM
+
+\ref trtex063Usp04 453
+\t lamas twa'x anaan,+
+\m lamas t- wa'x a- naan
+\g dónde INC estar E2S mamá
+\c ADV TAM VI PERS S
+\l Donde va estar tú mamá.
+\p ADV INC#TAM VI E2S#PERS S
+
+\ref trtex063Usp04 454
+\t pech aqaaj,+
+\m pech a- qaaj
+\g compañero E2S papá
+\c S PERS S
+\l En compañia de tú papá.
+\p S E2S#PERS S
+
+\ref trtex063Usp04 455
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo ella.
+\p VT PRON
+
+\ref trtex063Usp04 456
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 457
+\t cha' man,+
+\m cha' man
+\g decir ART
+\c VT ART
+\l Dijo ese.
+\p VT ART#ART
+
+\ref trtex063Usp04 458
+\t cha' man,+
+\m cha' man
+\g decir ART
+\c VT ART
+\l Dijo ese.
+\p VT ART#ART
+
+\ref trtex063Usp04 459
+\t man Angelika xi'wa'x laj richoch.+
+\m man Angelika x- i'- wa'x la -j r- ichoch
+\g ART Angelica COM DIR estar PREP E3S E3S casa
+\c ART NOM TAM DIR VI PREP PERS PERS S
+\l Esa Angelica se fue a estar en la casa.
+\p ART#ART NOM COM#TAM DIR#DIR VI PREP#PREP E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 460
+\t Twil in ri' man Marimar,+
+\m t- w- il iin ri' man Marimar
+\g INC E1S ver yo DEM ART Marimar
+\c TAM PERS VT PRON DEM ART NOM
+\l Miro yo que es esa Marimar.
+\p INC#TAM E1S#PERS VT PRON DEM#DEM ART#ART NOM
+
+\ref trtex063Usp04 461
+\t porke wi' tk'utun laj keyb'el rii'n,+
+\m porke wi' t- k'ut -un la -j keyb'el ri -i'n
+\g porque EXS INC enseñar AP PREP E3S cara DEM ENF
+\c ADV EXS TAM VT SUF PREP PERS S DEM PART
+\l Porque tiene su pareser en su rostro, que ella es.
+\p ADV EXS#EXS INC#TAM VT AP#SUF PREP#PREP E3S#PERS S DEM#DEM ENF#PART
+
+\ref trtex063Usp04 462
+\t cha' man Mari...,+
+\m cha' man Mari
+\g decir ART Mary
+\c VT ART NOM
+\l Dijo esa mujer.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 463
+\t cha' man Angelika re man Sergiyo.+
+\m cha' man Angelika re man Sergiyo
+\g decir ART Angelica él/ella ART Sergio
+\c VT ART NOM PRON ART NOM
+\l Dijo esa Angelica a él Sergio.
+\p VT ART#ART NOM PRON ART#ART NOM
+
+\ref trtex063Usp04 464
+\t Ri' ta'n,+
+\m ri' ta'n
+\g DEM NEG
+\c DEM ADV
+\l No es ella.
+\p DEM#DEM NEG#ADV
+
+\ref trtex063Usp04 465
+\t cha' man Sergiyo re.+
+\m cha' man Sergiyo re
+\g decir ART Sergio él/ella
+\c VT ART NOM PRON
+\l Le dijo ese Sergio a ella.
+\p VT ART#ART NOM PRON
+
+\ref trtex063Usp04 466
+\t Xpe chik man Angelika.+
+\m x- pe chik man Angelika
+\g COM venir PART ART Angelica
+\c TAM VI PART ART NOM
+\l Vino otra vez esa Angelica.
+\p COM#TAM VI PART#PART ART#ART NOM
+
+\ref trtex063Usp04 467
+\t X... xok twil in, twil in ri' man Marimar,+
+\m x x- ok t- w- il in t- w- il in ri' man Marimar
+\g COM COM entrar INC E1S er yo INC E1S ver yo DEM ART Marimar
+\c TAM TAM VI TAM PERS VT PRON TAM PERS VT PRON DEM ART NOM
+\l Entro, miro yo miro yo que es esa Marimar.
+\p COM#TAM COM#TAM VI INC#TAM E1S#PERS VT PRON INC#TAM E1S#PERS VT PRON DEM#DEM ART#ART NOM
+
+\ref trtex063Usp04 468
+\t ri' ri tkutun laj keyb'el rii'n,+
+\m ri' ri t- k'utun -un la -j keyb'el ri -ii'n
+\g DEM DEM INC ver AP PREP E3S cara DEM ENF
+\c DEM DEM TAM VT SUF PREP PERS S DEM PART
+\l Ese es se le nota en su cara que es ella.
+\p DEM#DEM DEM#DEM INC#TAM VT AP#SUF PREP#PREP E3S#PERS S DEM#DEM ENF#PART
+
+\ref trtex063Usp04 469
+\t cha' re cha'.+
+\m cha' re cha'
+\g decir él/ella dice
+\c VT PRON VI
+\l Decía ella dice.
+\p VT PRON VI
+
+\ref trtex063Usp04 470
+\t Re man ri' ta'n,+
+\m re man ri' ta'n
+\g SREL ART DEM NEG
+\c SREL ART DEM ADV
+\l Ella, no es ella.
+\p SREL#SREL ART#ART DEM#DEM NEG#ADV
+
+\ref trtex063Usp04 471
+\t cha',+
+\m cha'
+\g decir
+\c VT
+\l Dice.
+\p VT
+
+\ref trtex063Usp04 472
+\t ruk' man Marimar,+
+\m ruk' man Marimar
+\g PART ART Marimar
+\c PART ART NOM
+\l Entonces esa Marima.
+\p PART#PART ART#ART NOM
+
+\ref trtex063Usp04 473
+\t tijch'eb'aa jwich,+
+\m ti- j- ch'eb' -aa j- wiich
+\g INC E3S conocer ENF E3S cara
+\c TAM PERS VT PART PERS S
+\l La conoce.
+\p INC#TAM E3S#PERS VT ENF#PART E3S#PERS S
+
+\ref trtex063Usp04 474
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 475
+\t At,+
+\m aat
+\g tú/usted
+\c PRON
+\l Usted.
+\p PRON
+
+\ref trtex063Usp04 476
+\t ¿ati' ri Angelika?,+
+\m at -i' ri Angelika
+\g tú/usted ENF DEM Angelica
+\c PRON PART DEM NOM
+\l ¿Usted es Ángelica?
+\p PRON ENF#PART DEM#DEM NOM
+
+\ref trtex063Usp04 477
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo a ella.
+\p VT PRON
+
+\ref trtex063Usp04 478
+\t Iini'n,+
+\m iin -i'n
+\g yo ENF
+\c PRON PART
+\l Si soy yo.
+\p PRON ENF#PART
+
+\ref trtex063Usp04 479
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 480
+\t A',+
+\m a'
+\g CONJ
+\c CONJ
+\l ¡Ha!.
+\p CONJ#CONJ
+
+\ref trtex063Usp04 481
+\t cha' man Marimar re.+
+\m cha' man Marimar re
+\g decir ART Marimar él/ella
+\c VT ART NOM PRON
+\l Dijo esa Marimar a ella.
+\p VT ART#ART NOM PRON
+
+\ref trtex063Usp04 482
+\t Toos aati' awk'lali' man Sergiyo.+
+\m toos aat -i' aw- k'lal -i' man Sergiyo
+\g entonces tú/usted ENF E2S hijo ENF ART Sergio
+\c ADV PRON PART PERS S PART ART NOM
+\l Entonces es usted, es su hijo Sergio.
+\p ADV PRON ENF#PART E2S#PERS S ENF#PART ART#ART NOM
+
+\ref trtex063Usp04 483
+\t Wik'lali'n.+
+\m w- ik'lal -i'n
+\g E1S hijo ENF
+\c PERS S PART
+\l Es mi hijo.
+\p E1S#PERS S ENF#PART
+
+\ref trtex063Usp04 484
+\t I awichjil man Renato.+
+\m i aw- ichjil man Renato
+\g CONJ E2S esposo ART Renato
+\c CONJ PERS S ART NOM
+\l Y es tú esposo Renato.
+\p CONJ#CONJ E2S#PERS S ART#ART NOM
+
+\ref trtex063Usp04 485
+\t Wichjili'n.+
+\m w- ichjil -i'n
+\g E1S esposo ENF
+\c PERS S PART
+\l Es mi esposo.
+\p E1S#PERS S ENF#PART
+
+\ref trtex063Usp04 486
+\t Tons aati' ri,+
+\m tons aat -i' ri
+\g entonces tú/usted ENF DEM
+\c ADV PRON PART DEM
+\l Entonces eres tú.
+\p ADV PRON ENF#PART DEM#DEM
+
+\ref trtex063Usp04 487
+\t aati' ri xa'an taq k'ex chuwe ójor,+
+\m aat -i' ri x- a- 'an taq k'ex ch- we ójor
+\g tú/usted ENF DEM COM E2S hacer PL daño INC SREL antiguamente
+\c PRON PART DEM TAM PERS VT PART ADJ TAM SREL ADV
+\l Ustedes fueron los que me hicieron daño antes.
+\p PRON ENF#PART DEM#DEM COM#TAM E2S#PERS VT PL#PART ADJ INC#TAM SREL#SREL ADV
+
+\ref trtex063Usp04 488
+\t cha' man,+
+\m cha' man
+\g decir ART
+\c VT ART
+\l Dijo esa.
+\p VT ART#ART
+
+\ref trtex063Usp04 489
+\t cha' man Marimar re.+
+\m cha' man Marimar re
+\g decir ART Marimar él/ella
+\c VT ART NOM PRON
+\l Le dijo esa Marimar a ella.
+\p VT ART#ART NOM PRON
+
+\ref trtex063Usp04 490
+\t Ruk' xta man Angelika jinon li.+
+\m ruk' x- ta man Angelika jilon li
+\g PART COM oir ART Angelica DEM DEM
+\c PART TAM VT ART NOM DEM DEM
+\l Cuando oyó esa Angelica que así es.
+\p PART#PART COM#TAM VT ART#ART NOM DEM#DEM DEM#DEM
+
+\ref trtex063Usp04 491
+\t Xukerik.+
+\m xuk -er -ik
+\g garabato ITR SC
+\c S SUF SUF
+\l Se arrodillo.
+\p S ITR#SUF SC#SUF
+
+\ref trtex063Usp04 492
+\t Yoos kuy inmak,+
+\m yoos kuy in- maak
+\g dios perdonar A1S pecado
+\c S S PERS S
+\l Dios perdoname mi pecado.
+\p S S A1S#PERS S
+
+\ref trtex063Usp04 493
+\t kuy inmak oji' ri xqa'an k'ex chawe.+
+\m kuy in- maak oj -i' ri x- qa- 'an k'ex ch- aw- e
+\g perdonar A1S pecado somos ENF DEM COM E1P hacer dolor INC E2S SREL
+\c VT PERS S PRON PART DEM TAM PERS VT ADJ TAM PERS SREL
+\l Perdoname mis pecados, somos nosotros quienes te hicimos daño.
+\p VT A1S#PERS S PRON ENF#PART DEM#DEM COM#TAM E1P#PERS VT ADJ INC#TAM E2S#PERS SREL#SREL
+
+\ref trtex063Usp04 494
+\t Per ori kuy qamak,+
+\m per ori kuy qa- maak
+\g pero ahora perdonar E1P pecado
+\c ADV ADV VT PERS S
+\l Pero ahora perdona nuestras faltas.
+\p ADV ADV VT E1P#PERS S
+
+\ref trtex063Usp04 495
+\t cha',+
+\m cha'
+\g decir
+\c VI
+\l Dijo.
+\p VI
+
+\ref trtex063Usp04 496
+\t xpet xk'om,+
+\m x- pet x- k'om
+\g COM venir COM recibir
+\c TAM VI TAM VT
+\l Vino y tomó.
+\p COM#TAM VI COM#TAM VT
+
+\ref trtex063Usp04 497
+\t xuker chuch jun Marimar.+
+\m xuk -er ch- uch jun Marimar
+\g garabato ITR PREP SREL uno Marimar
+\c S SUF PREP SREL NUM NOM
+\l Se arrodillo delante de una Marimar.
+\p S ITR#SUF PREP#PREP SREL#SREL NUM NOM
+
+\ref trtex063Usp04 498
+\t Xk'am jq'ab',+
+\m x- k'am j- q'aab'
+\g COM recibir E3S mano
+\c TAM VT PERS S
+\l Lo tomo de la mano.
+\p COM#TAM VT E3S#PERS S
+
+\ref trtex063Usp04 499
+\t siq jq'ab',+
+\m siq j- q'aab'
+\g oler E3S mano
+\c VT PERS S
+\l Le besó la mano.
+\p VT E3S#PERS S
+
+\ref trtex063Usp04 500
+\t xtz'ub' jq'ab',+
+\m x- tz'ub' j- q'aab'
+\g COM beso E3S mano
+\c TAM S PERS S
+\l Le beso la mano.
+\p COM#TAM S E3S#PERS S
+
+\ref trtex063Usp04 501
+\t pech rqan Marimar.+
+\m pech r- qan Marimar
+\g compañero E3S pies Marimar
+\c S PERS S NOM
+\l Junto con los pies de Miramar.
+\p S E3S#PERS S NOM
+
+\ref trtex063Usp04 502
+\t Xuker chuch.+
+\m xuk -er ch- uch
+\g garaabto ITR PREP SREL
+\c POS SUF PREP SREL
+\l Se arrodilló delante de ella.
+\p POS ITR#SUF PREP#PREP SREL#SREL
+
+\ref trtex063Usp04 503
+\t Noo ta' chuwaj aat xuker chinwch,+
+\m noo ta' ch- uw- aaj aat xuk -er ch- i'n- wch
+\g no NEG INC E1S querer tú/usted garabato ITR PREP E1S SREL
+\c ADV PART TAM PERS VT PRON S SUF PREP PERS SREL
+\l No no quiero que te arrodilles delante de mi.
+\p ADV NEG#PART INC#TAM E1S#PERS VT PRON S ITR#SUF PREP#PREP E1S#PERS SREL#SREL
+
+\ref trtex063Usp04 504
+\t loke xana'n,+
+\m loke x- an -a'n
+\g loque COM hacer ENF
+\c ADV TAM VT PART
+\l Loque hicites hicites.
+\p ADV COM#TAM VT ENF#PART
+
+\ref trtex063Usp04 505
+\t loke xab'an chwe iin.+
+\m loke x- a- b'an ch- we iin
+\g loque COM E2S hacer INC SREL yo
+\c ADV TAM PERS VT TAM SREL PRON
+\l Loque me hicistes a mi.
+\p ADV COM#TAM E2S#PERS VT INC#TAM SREL#SREL PRON
+
+\ref trtex063Usp04 506
+\t Ta' tsach chwe.+
+\m ta' t- sach ch- we
+\g NEG INC perder INC SREL
+\c PART TAM VT TAM SREL
+\l No se me olvida a mi.
+\p NEG#PART INC#TAM VT INC#TAM SREL#SREL
+
+\ref trtex063Usp04 507
+\t I iin ta' moo tsach chwe,+
+\m i iin ta' moo t- sach ch- we
+\g CONJ yo NEG modo INC perder INC SREL
+\c CONJ PRON PART ADV TAM VT TAM SREL
+\l Y no tengo modo como se me olvida a mi. (no lo puedo olvidar)
+\p CONJ#CONJ PRON NEG#PART ADV INC#TAM VT INC#TAM SREL#SREL
+
+\ref trtex063Usp04 508
+\t pork pok k'ex xa'an chwe,+
+\m por -k pok k'ex x- a- 'an ch- we
+\g por que poco dolor COM E2S hacer INC SREL
+\c ADV ADV ADV ADJ TAM PERS VT TAM SREL
+\l Porque me hicites mucho daño ami.
+\p ADV ADV ADV ADJ COM#TAM E2S#PERS VT INC#TAM SREL#SREL
+
+\ref trtex063Usp04 509
+\t cha' man Marimar re.+
+\m cha' man Marimar re
+\g decir ART Marimar PART
+\c VT ART NOM PART
+\l Dijo Marimar a ella.
+\p VT ART#ART NOM PART#PART
+
+\ref trtex063Usp04 510
+\t Noo kuy inmak,+
+\m noo kuy in- maak
+\g no perdonar A1S pecado
+\c ADV VT PERS S
+\l No perdoname mi culpa.
+\p ADV VT A1S#PERS S
+
+\ref trtex063Usp04 511
+\t kuy inmak,+
+\m kuy in- maak
+\g perdonar A1S culpa
+\c VT PERS S
+\l Perdoname mi culpa.
+\p VT A1S#PERS S
+
+\ref trtex063Usp04 512
+\t tcha' re.+
+\m t- cha' re
+\g INC decir él/ella
+\c TAM VT PRON
+\l Le decia a ella.
+\p INC#TAM VT PRON
+
+\ref trtex063Usp04 513
+\t Noo b'iten,+
+\m noo b'it -en
+\g no levantar AP
+\c ADV VT SUF
+\l No levantate.
+\p ADV VT AP#SUF
+
+\ref trtex063Usp04 514
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo a ella.
+\p VT PRON
+
+\ref trtex063Usp04 515
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 516
+\t cha',+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 517
+\t xb'it jor t'oq', t'oq'.+
+\m x- b'it jor t'oq' toq'
+\g COM levantar mejor llorar llorar
+\c TAM VT ADV VI VI
+\l Se levanto como llorava llorava.
+\p COM#TAM VT ADV VI VI
+
+\ref trtex063Usp04 518
+\t Xpeti, xpet man,+
+\m x- pet -i' x- pet man
+\g COM venir ENF COM venir ART
+\c TAM VI PART TAM VI ART
+\l Vino vino ese.
+\p COM#TAM VI ENF#PART COM#TAM VI ART#ART
+
+\ref trtex063Usp04 519
+\t jor t'oq' chuch man Maria...+
+\m jor toq' ch- uch man Mari
+\g mejor llorar PREP SREL ART Mary
+\c ADV VI PREP SREL ART NOM
+\l Como llorava delanmte de Marimar.
+\p ADV VI PREP#PREP SREL#SREL ART#ART NOM
+
+\ref trtex063Usp04 520
+\t xpe man Marimar.+
+\m x- pe man Marimar
+\g COM venir ART Marimar
+\c TAM VI ART NOM
+\l Vino esa Marimar.
+\p COM#TAM VI ART#ART NOM
+
+\ref trtex063Usp04 521
+\t Tawen ko' achaakaq li,+
+\m tawen ko' a- chaak -aq li
+\g esta@bien aqui@esta E2S trabajo PL DEM
+\c ADV ADV PERS S PART DEM
+\l Esta bien aqui esta sus trabajos.
+\p ADV ADV E2S#PERS S PL#PART DEM#DEM
+
+\ref trtex063Usp04 522
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo ella.
+\p VT PRON
+
+\ref trtex063Usp04 523
+\t Usil, usil+
+\m usil usil
+\g despacio despacio
+\c ADV ADV
+\l Poco a poco.
+\p ADV ADV
+
+\ref trtex063Usp04 524
+\t kom wi' chaq jchaak,+
+\m kom wi' chaq j- chaak
+\g como EXS PART E3S trabajo
+\c ADV EXS PART PERS S
+\l Como ya tenian trabajo.
+\p ADV EXS#EXS PART#PART E3S#PERS S
+
+\ref trtex063Usp04 525
+\t wi' chaq jpech man Marimar.+
+\m wi' chaq j- pech man Marimar
+\g EXS PART E3S compañero ART Marimar
+\c EXS PART PERS S ART NOM
+\l Ya tenia su compañero Marimar.
+\p EXS#EXS PART#PART E3S#PERS S ART#ART NOM
+
+\ref trtex063Usp04 526
+\t Wi' chaq k'iy jpech kristyan,+
+\m wi' chaq k'iy j- pech kristyaan
+\g EXS PART crecer E3S compañero persona
+\c EXS PART VI PERS S S
+\l Ya tenia varios compañeros.
+\p EXS#EXS PART#PART VI E3S#PERS S S
+
+\ref trtex063Usp04 527
+\t x...xya' ni'j q'iij kla'.+
+\m x- ya' ni'j q'iij kla'
+\g COM dar unos día allí
+\c TAM VT NUM S ADV
+\l Dejo algunos dias allí.
+\p COM#TAM VT NUM S ADV
+
+\ref trtex063Usp04 528
+\t Usil xpe chik jun Marimar,+
+\m usil x- pe chik jun Marimar
+\g despacio COM venir PART uno Marimar
+\c ADV TAM VI PART NUM NOM
+\l Poco a poco vino otra vez Marimar.
+\p ADV COM#TAM VI PART#PART NUM NOM
+
+\ref trtex063Usp04 529
+\t xtok jun moos,+
+\m x- tok jun moos
+\g COM buscar uno moso
+\c TAM VT NUM S
+\l Busco un moso.
+\p COM#TAM VT NUM S
+
+\ref trtex063Usp04 530
+\t xtok jun moos.+
+\m x- tok jun moos
+\g COM buscar uno moso
+\c TAM VT NUM S
+\l Busco un moso.
+\p COM#TAM VT NUM S
+
+\ref trtex063Usp04 531
+\t Xtaq chik maj moos.+
+\m x- taq chik ma -j moos
+\g COM mandar PART ART E3S moso
+\c TAM VT PART ART PERS S
+\l Mando a su moso.
+\p COM#TAM VT PART#PART ART#ART E3S#PERS S
+
+\ref trtex063Usp04 532
+\t B'atokik ni'j xoq'o'l chik.+
+\m b'a- tok -ik ni'j xoq'o'l chik
+\g va buscar SC unos lodo PART
+\c ADV VT SUF ADV S PART
+\l Ba de buscar lodo.
+\p ADV VT SC#SUF ADV S PART#PART
+
+\ref trtex063Usp04 533
+\t I xpe chik re,+
+\m i x- pe chik re
+\g CONJ COM venir PART él/ella
+\c CONJ TAM VI PART PRON
+\l Y vino otra vez ella.
+\p CONJ#CONJ COM#TAM VI PART#PART PRON
+
+\ref trtex063Usp04 534
+\t xt'oj chik,+
+\m x- t'oj chik
+\g COM tirar PART
+\c TAM VT PART
+\l Tiro otra vez.
+\p COM#TAM VT PART#PART
+
+\ref trtex063Usp04 535
+\t xen chik jk'iixel chik re man Angelika.+
+\m x- en chik j- k'ixel chik re man Angelika
+\g COM hacer PART E3S tuco PART él/ella ART Angelica
+\c TAM VT PART PERS S PART PRON ART NOM
+\l Le hizo lo mismo a esa Angelicale.
+\p COM#TAM VT PART#PART E3S#PERS S PART#PART PRON ART#ART NOM
+
+\ref trtex063Usp04 536
+\t Neen moo xen man Angelika re ójor.+
+\m neen moo x- en man Angelika re ójor
+\g INT modo COM hacer ART Angelica él/ella antiguamente
+\c ADV ADV TAM VT ART NOM PRON ADV
+\l Asi como le hico Angelica a ella antes.
+\p INT#ADV ADV COM#TAM VT ART#ART NOM PRON ADV
+
+\ref trtex063Usp04 537
+\t Kwand wi' rk'i man Sergiyo.+
+\m kwand wi' r- k'i man Sergiyo
+\g cuando EXS E3S SREL ART Sergio
+\c ADV EXS PERS SREL ART NOM
+\l Cuando esta con Sergio.
+\p ADV EXS#EXS E3S#PERS SREL#SREL ART#ART NOM
+
+\ref trtex063Usp04 538
+\t Toos man Marimar xen chik jk'ixel re man man Angelika.+
+\m toos man Marimar x- en chik j- k'ixel re man man Angelika
+\g entonces ART Marimar COM hacer PART E3S tuco él/ella ART ART Angelica
+\c ADV ART NOM TAM VT PART PERS S PRON ART ART NOM
+\l Entonces la Marimar le hizo asi como Angelica le hizo a ella.
+\p ADV ART#ART NOM COM#TAM VT PART#PART E3S#PERS S PRON ART#ART ART#ART NOM
+
+\ref trtex063Usp04 539
+\t Nemoo xensaj re.+
+\m ne- moo x- en -sáj re
+\g INT modo COM hacer PAS él/ella
+\c PART ADV TAM VT SUF PRON
+\l Asi como le hicieron a ella.
+\p INT#PART ADV COM#TAM VT PAS#SUF PRON
+
+\ref trtex063Usp04 540
+\t I re rk'an ta' chiki' man rk'an ta' chiki',+
+\m i re r- ik'an ta' chik -i' man r- ik'an ta' chik -i'
+\g CONJ él/ella E3S solo NEG PART ENF ART E3S solo NEG PART ENF
+\c CONJ PRON PERS ADV PART PART PART ART PERS ADV PART PART SUF
+\l Y ella sola ya no hay, sola ya no hay.
+\p CONJ#CONJ PRON E3S#PERS ADV NEG#PART PART#PART ENF#PART ART#ART E3S#PERS ADV NEG#PART PART#PART ENF#SUF
+
+\ref trtex063Usp04 541
+\t nemoo xen loke man xen man Angelika re.+
+\m ne- moo x- en loke man x- en man Angelika re
+\g INT modo COM hacer loque ART COM hacer ART Angelica él/ella
+\c ADV ADV TAM VT ADV ART TAM VT ART NOM PRON
+\l Asi como loque le hizo esa Angelica a ella.
+\p INT#ADV ADV COM#TAM VT ADV ART#ART COM#TAM VT ART#ART NOM PRON
+
+\ref trtex063Usp04 542
+\t Si no ke re xen inbitar juntir maq jpech lisensiyado.+
+\m si no ke re x- en inbitar juntiir maq j- pech lisensiyado
+\g si no que él/ella COM hacer invitar todo ART E3S compañero licenciado
+\c ADV ADV ADV PRON TAM VT VT ADV ART PERS S S
+\l Si no que ella invito a todos sus compañeros licenciados.
+\p ADV ADV ADV PRON COM#TAM VT VT ADV ART#ART E3S#PERS S S
+
+\ref trtex063Usp04 543
+\t Juntir chuch juntir, juntir kristyan,+
+\m juntir ch- uch juntir juntir kristyan
+\g todo PREP SREL todo todo persona
+\c ADV PREP SREL ADV ADV S
+\l Todos en frente de todos todas las personas.
+\p ADV PREP#PREP SREL#SREL ADV ADV S
+
+\ref trtex063Usp04 544
+\t lokex loke xen man Angelika re.+
+\m loke -x loke x- en man Angelika re
+\g loque COM loque COM hacer ART Angelica él/ella
+\c ADV TAM ADV TAM VT ART NOM PRON
+\l Loque loque le hizo esa Angelica a ella.
+\p ADV COM#TAM ADV COM#TAM VT ART#ART NOM PRON
+
+\ref trtex063Usp04 545
+\t Iin tanb'an chik re,+
+\m iin t- an- b'an chik re
+\g yo INC E1S hacer PART él/ella
+\c PRON TAM PERS VT PART PRON
+\l Yo se lo voy hacer a ella.
+\p PRON INC#TAM E1S#PERS VT PART#PART PRON
+
+\ref trtex063Usp04 546
+\t cha' re.+
+\m cha' re
+\g decir él/ella
+\c VT PRON
+\l Le dijo ella.
+\p VT PRON
+
+\ref trtex063Usp04 547
+\t Xen chik inbitar,+
+\m x- en chik inbitar
+\g COM hacer PART invitar
+\c TAM VT PART VT
+\l Invotó otra vez.
+\p COM#TAM VT PART#PART VT
+
+\ref trtex063Usp04 548
+\t xpe re,+
+\m x- pe re
+\g COM venir él/ella
+\c TAM VI PRON
+\l Vino ella.
+\p COM#TAM VI PRON
+
+\ref trtex063Usp04 549
+\t xi'j re kristyan.+
+\m x- i'j re kristyan
+\g COM decir PART persona
+\c TAM VT PART S
+\l Le dijo a las personas.
+\p COM#TAM VT PART#PART S
+
+\ref trtex063Usp04 550
+\t Onli xen man anm li chwe ójor.+
+\m on -li x- en man anim li ch- we ójor
+\g DEM DEM COM hacer ART mujer DEM PREP SREL antiguamente
+\c DEM DEM TAM VT ART S DEM PREP SREL ADV
+\l Así me hizo esa mujer a mi antes.
+\p DEM#DEM DEM#DEM COM#TAM VT ART#ART S DEM#DEM PREP#PREP SREL#SREL ADV
+
+\ref trtex063Usp04 551
+\t Kwand iin nuch' xinb'e rk'i man rk'lal.+
+\m kwand iin nuch' x- in- b'e r- k'i man r- k'lal
+\g cuando yo pequeño COM E1S ir E3S SREL ART E3S hijo
+\c ADV PRON ADJ TAM PERS VI PERS SREL ART PERS S
+\l Cuando yo hera pequeña, me fui con ese su hijo.
+\p ADV PRON ADJ COM#TAM E1S#PERS VI E3S#PERS SREL#SREL ART#ART E3S#PERS S
+
+\ref trtex063Usp04 552
+\t Jnon li xen chwe.+
+\m jlon li x- en ch- we
+\g DEM DEM COM hacer PREP SREL
+\c DEM DEM TAM VT PREP SREL
+\l Así me hizo a mi.
+\p DEM#DEM DEM#DEM COM#TAM VT PREP#PREP SREL#SREL
+
+\ref trtex063Usp04 553
+\t I ori tinb'an iin jk'ixel re.+
+\m i ori t- in- b'an iin j- k'ixel re
+\g CONJ ahora INC E1S hacer yo E3S tuco él/ella
+\c CONJ ADV TAM PERS VT PRON PERS S PRON
+\l Y ahora le voy hacer lo mismo a ella.
+\p CONJ#CONJ ADV INC#TAM E1S#PERS VT PRON E3S#PERS S PRON
+
+\ref trtex063Usp04 554
+\t Per uk'anta' chiki',+
+\m per u- k'an -ta' chik -i'
+\g pero E1S sola NEG PART ENF
+\c ADV PERS ADV PART PART PART
+\l Pero ya no soy sola.
+\p ADV E1S#PERS ADV NEG#PART PART#PART ENF#PART
+
+\ref trtex063Usp04 555
+\t iin tina'n,+
+\m iin t- in- a'n
+\g yo INC E1S hacer
+\c PRON TAM PERS VT
+\l Yo lo voy hacer.
+\p PRON INC#TAM E1S#PERS VT
+
+\ref trtex063Usp04 556
+\t iin chuch+
+\m iin ch- uch
+\g yo PREP SREL
+\c PRON PREP SREL
+\l Y delante de ellos..
+\p PRON PREP#PREP SREL#SREL
+
+\ref trtex063Usp04 557
+\t noke chawch ataq juntir.+
+\m noke ch- aw- ch at- aq juntiir
+\g no@que PREP E2S SREL E2P PL todo
+\c ADV PREP PERS SREL PERS PART ADV
+\l No que delante de todos ustedes..
+\p ADV PREP#PREP E2S#PERS SREL#SREL E2P#PERS PL#PART ADV
+
+\ref trtex063Usp04 558
+\t Tawil taq neen moo xen iin chwe,+
+\m t- aw- il taq neen moo x- en iin ch- we
+\g INC E2S ver PL INT modo COM hacer yo INC SREL
+\c TAM PERS VT PART ADV ADV TAM VT PRON TAM SREL
+\l Verán ustedes como me hizo a mi.
+\p INC#TAM E2S#PERS VT PL#PART INT#ADV ADV COM#TAM VT PRON INC#TAM SREL#SREL
+
+\ref trtex063Usp04 559
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 560
+\t I ori tina'n jk'ixel re,+
+\m i ori t- in- a'n j- k'ixel re
+\g CONJ hora INC E1S hacer E3S tuco él/ella
+\c CONJ ADV TAM PERS VT PERS S PRON
+\l Y ahora le voy hacer a ella.
+\p CONJ#CONJ ADV INC#TAM E1S#PERS VT E3S#PERS S PRON
+
+\ref trtex063Usp04 561
+\t cha'+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 562
+\t cha' man Marimar.+
+\m cha' man Marimar
+\g decir ART Marimar
+\c VT ART NOM
+\l Dijo la Marimar.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 563
+\t Xpe chik re,+
+\m x- pe chik re
+\g COM venir PART él/ella
+\c TAM VI PART PRON
+\l Vino otra vez ella.
+\p COM#TAM VI PART#PART PRON
+
+\ref trtex063Usp04 564
+\t xt'o'j chik ni'j,+
+\m x- t'oj chik ni'j
+\g COM tirar PART unos
+\c TAM VT PART ADV
+\l Tiró unos:
+\p COM#TAM VT PART#PART ADV
+
+\ref trtex063Usp04 565
+\t jun uu jun uu+
+\m jun uu jun uu
+\g uno collar uno collar
+\c NUM S NUM S
+\l Un collar un collar.
+\p NUM S NUM S
+
+\ref trtex063Usp04 566
+\t pech ni'j qelen chik li xoq'o'l.+
+\m pech ni'j qelen chik li xoq'o'l
+\g compañero unos cosas PART PREP lodo
+\c S ADV S PART PREP S
+\l Con otras cosas más en el lodo.
+\p S ADV S PART#PART PREP#PREP S
+
+\ref trtex063Usp04 567
+\t Tawesaj man uu rii.+
+\m t- aw- e -saj man uu ri
+\g INC E2S sacar PAS ART collar DEM
+\c TAM PERS VT SUF ART S DEM
+\l Vas a sacar este collar.
+\p INC#TAM E2S#PERS VT PAS#SUF ART#ART S DEM#DEM
+
+\ref trtex063Usp04 568
+\t I tawik'aaj k'ut,+
+\m i t- aw- ik'aa -j k'ut
+\g CONJ INC E2S sentir SC PART
+\c CONJ TAM PERS VT SUF PART
+\l Y lo vas a sentir pues.
+\p CONJ#CONJ INC#TAM E2S#PERS VT SC#SUF PART#PART
+
+\ref trtex063Usp04 569
+\t loke ta' tzii xab'an chuweyin.+
+\m loke ta' tzii x- a- b'an ch- w- e -i'n
+\g loque NEG bueno COM E2S hacer PREP E1S SREL yo
+\c ADV PART ADJ TAM PERS VT PREP PERS SREL PRON
+\l Loque no es bueno loque me hicistes a mi.
+\p ADV NEG#PART ADJ COM#TAM E2S#PERS VT PREP#PREP E1S#PERS SREL#SREL PRON
+
+\ref trtex063Usp04 570
+\t I tawik'aaj k'ut ta' k'ex xab'an chuweyin,+
+\m i t- aw- ik'aa -j k'ut ta' k'ex x- a- b'an ch- w- e -i'n
+\g CONJ INC E2S sentir SC PART NEG dolor COM E2S hacer PREP E1S SREL yo
+\c CONJ TAM PERS VI SUF PART PART ADJ TAM PERS VT PREP PERS SREL PRON
+\l Y que sientas el dolor que me hicistes a mi.
+\p CONJ#CONJ INC#TAM E2S#PERS VI SC#SUF PART#PART NEG#PART ADJ COM#TAM E2S#PERS VT PREP#PREP E1S#PERS SREL#SREL PRON
+
+\ref trtex063Usp04 571
+\t cha' man Marimar re.+
+\m cha' man Marimar re
+\g decir ART Marimar él/ella
+\c VI ART NOM PRON
+\l Dijo Marimar a ella.
+\p VI ART#ART NOM PRON
+
+\ref trtex063Usp04 572
+\t Jaan,+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 573
+\t cha',+
+\m cha'
+\g decir
+\c VT
+\l Dijo.
+\p VT
+
+\ref trtex063Usp04 574
+\t yoos nemo xpe man Sergi...,+
+\m yoos ne- mo x- pe man Sergi
+\g dios INT modo COM venir ART Sergio
+\c VOC PART ADV TAM VI ART NOM
+\l Dios saber como vino Sergio.
+\p VOC INT#PART ADV COM#TAM VI ART#ART NOM
+
+\ref trtex063Usp04 575
+\t xij ch'ab'ej taq Marimar+
+\m x- ij ch'ab'e -j taq Marimar
+\g COM decir hablarle E3S PL Marimar
+\c TAM VT VT PERS PART NOM
+\l Fueron hablar a Marimar.
+\p COM#TAM VT VT E3S#PERS PL#PART NOM
+
+\ref trtex063Usp04 576
+\t pech maj richjil.+
+\m pech ma -j r- ichjil
+\g compañero ART E3S E3S esposo
+\c S ART PERS PERS S
+\l En compañia de su esposo.
+\p S ART#ART E3S#PERS E3S#PERS S
+
+\ref trtex063Usp04 577
+\t Nemoo ta'an re innaan jnon li,+
+\m ne- moo t- a- b'an re in- naan jnon li
+\g INT modo INC E2S hacer él/ella E1S mamá DEM DEM
+\c ADV ADV TAM PERS VT PRON PERS S DEM DEM
+\l ¿Como le háces a mi mamá asi?
+\p INT#ADV ADV INC#TAM E2S#PERS VT PRON E1S#PERS S DEM#DEM DEM#DEM
+
+\ref trtex063Usp04 578
+\t kuy jmak,+
+\m kuy j- maak
+\g perdonar E3S pecado
+\c VT PERS S
+\l Perdona sus pecados.
+\p VT E3S#PERS S
+
+\ref trtex063Usp04 579
+\t sech jmak,+
+\m sach j- mak
+\g perder E3S pecado
+\c VT PERS S
+\l Perdona su pecado.
+\p VT E3S#PERS S
+
+\ref trtex063Usp04 580
+\t re ta' retam loke xen chawe ójor.+
+\m re ta' r- etam loke x- en ch- aw- e ójor
+\g él/ella NEG E3S conocimiento loque COM hacer INC E2S SREL antiguamente
+\c PRON PART PERS S ADV TAM VT TAM PERS SREL ADV
+\l Ella no savía loque te hizo antes.
+\p PRON NEG#PART E3S#PERS S ADV COM#TAM VT INC#TAM E2S#PERS SREL#SREL ADV
+
+\ref trtex063Usp04 581
+\t Per ori kuy qamak,+
+\m per ori kuy qa- mak
+\g pero ahora perdonar E1P pecado
+\c ADV ADV S PERS S
+\l Pero ahora perdona nuestros pecados.
+\p ADV ADV S E1P#PERS S
+
+\ref trtex063Usp04 582
+\t xuker taq chuch,+
+\m xuk -er taq ch- uch
+\g garabato ITR PL PREP SREL
+\c S SUF PART PREP SREL
+\l Se arrodillaron delante de ella.
+\p S ITR#SUF PL#PART PREP#PREP SREL#SREL
+
+\ref trtex063Usp04 583
+\t cha'.+
+\m cha'
+\g decir
+\c VT
+\l Dicen.
+\p VT
+
+\ref trtex063Usp04 584
+\t Noo ta' tankuy amakaq,+
+\m noo ta' t- an- kuy a- mak -aq
+\g no NEG INC E1S perdonar E2S pecado PL
+\c ADV PART TAM PERS S PERS S PART
+\l No no puedo perdonarles sus pecados.
+\p ADV NEG#PART INC#TAM E1S#PERS S E2S#PERS S PL#PART
+
+\ref trtex063Usp04 585a
+\t pork pok k'ex xab'an taq chwe.+
+\m por -k pok k'ex x- a- b'an taq ch- we
+\g por que poco dolor COM E2S hacer PL INC SREL
+\c ADV ADV ADV ADJ TAM PERS VT PART TAM SREL
+\l Porque mucho daño me hicierón a mi.
+\p ADV ADV ADV ADJ COM#TAM E2S#PERS VT PL#PART INC#TAM SREL#SREL
+
+\ref trtex063Usp04 585b
+\t I ast xak'ate' taq tzik' intaat.+
+\m i ast x- a- k'at -e' taq tzik' in- taat
+\g CONJ asta COM E2S quemar ENF PL AFE A1S papá
+\c CONJ ADV TAM PERS VT PART PART ADJ PERS S
+\l Y asta fueron a quemar a mi pobre papá.
+\p CONJ#CONJ ADV COM#TAM E2S#PERS VT ENF#PART PL#PART AFE#ADJ A1S#PERS S
+
+\ref trtex063Usp04 586
+\t I tzik' inmaam,+
+\m i tzik' in- maam
+\g CONJ AFE E1S abuelo
+\c CONJ ADJ PERS S
+\l Y mi pobre abuelo.
+\p CONJ#CONJ AFE#ADJ E1S#PERS S
+
+\ref trtex063Usp04 587
+\t pok ya ri'j chaq,+
+\m pok ya ri'j chaq
+\g poco ya viejo PART
+\c ADV VOC ADJ PART
+\l Y ya hera muy viejito.
+\p ADV VOC ADJ PART#PART
+
+\ref trtex063Usp04 588
+\t xak'ate' taq richoch.+
+\m x- a- k'at -e' taq r- ichoch
+\g COM E2S quemar ENF PL E3S casa
+\c TAM PERS VT PART PART PERS S
+\l Y le fueron a quemar su casa.
+\p COM#TAM E2S#PERS VT ENF#PART PL#PART E3S#PERS S
+
+\ref trtex063Usp04 589
+\t Par ke loke ta'an taq chuweyin,+
+\m par ke loke t- a- 'an taq ch- we -i'n
+\g para que loque INC E2S hacer PL INC SREL yo
+\c ADV ADV ADV TAM PERS VT PART TAM SREL PRON
+\l Para que loque me hacen a mi.
+\p ADV ADV ADV INC#TAM E2S#PERS VT PL#PART INC#TAM SREL#SREL PRON
+
+\ref trtex063Usp04 590
+\t ta' tawi...+
+\m ta' t- aw- i
+\g NEG INC E2S ver
+\c PART TAM PERS VT
+\l No lo sienten.
+\p NEG#PART INC#TAM E2S#PERS VT
+
+\ref trtex063Usp04 591
+\t ta' tril rechaq,+
+\m ta' t- r- il rechaq
+\g NEG INC E3S ver ellos/ellas
+\c PART TAM PERS VT PRON
+\l No lo miran ellos.
+\p NEG#PART INC#TAM E3S#PERS VT PRON
+
+\ref trtex063Usp04 592
+\t ta' tril rechaq+
+\m ta' t- r- il rechaq
+\g NEG INC E3S ver ellos/ellas
+\c PART TAM PERS VT PRON
+\l No lo miran ellos.
+\p NEG#PART INC#TAM E3S#PERS VT PRON
+
+\ref trtex063Usp04 593
+\t xak'ate' richoch tzik' inmaam.+
+\m x- a- k'at -e' r- ichoch tzik' in- maam
+\g COM E2S quemar ENF E3S casa AFE A1S abuelo
+\c TAM PERS VT PART PERS S ADJ PERS S
+\l Fuistes a quemar la casa de mi pobre abuelo.
+\p COM#TAM E2S#PERS VT ENF#PART E3S#PERS S AFE#ADJ A1S#PERS S
+
+\ref trtex063Usp04 594
+\t Juntir, est xk'ataq li q'aaq'.+
+\m juntir est x- k'at -aq li q'aaq'
+\g todo ests COM quemar PL PREP fuego
+\c ADV ADV TAM VT PART PREP S
+\l Todos asta se quemaron en el fuego.
+\p ADV ADV COM#TAM VT PL#PART PREP#PREP S
+
+\ref trtex063Usp04 595
+\t Pok k'ex xa'an taq re,+
+\m pok k'ex x- a- 'an taq re
+\g poco dolor COM E2S hacer PL él/ella
+\c ADV ADJ TAM PERS VT PART PRON
+\l Mucho daño le hicieron a ellos.
+\p ADV ADJ COM#TAM E2S#PERS VT PL#PART PRON
+
+\ref trtex063Usp04 596
+\t xakamsaj taq inmaam+
+\m x- a- kam -sáj taq in- maam
+\g COM E2S morir PAS PL A1S abuelo
+\c TAM PERS VI SUF PART PERS S
+\l Mataron a mi abuelo.
+\p COM#TAM E2S#PERS VI PAS#SUF PL#PART A1S#PERS S
+
+\ref trtex063Usp04 597
+\t juntir,+
+\m juntiir
+\g todo
+\c ADV
+\l A todos.
+\p ADV
+
+\ref trtex063Usp04 598
+\t cha' man Angel...,+
+\m cha' man Angel
+\g decir ART Angel
+\c VT ART NOM
+\l Dijo la Angelica.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 599
+\t cha' man Marimar rechaq.+
+\m cha' man Marimar rechaq
+\g decir ART Marimar ellos/ellas
+\c VT ART NOM PRON
+\l Les dijo Marimar a ellos.
+\p VT ART#ART NOM PRON
+
+\ref trtex063Usp04 600
+\t Noo kuy qamak,+
+\m noo kuy qa- mak
+\g no perdonar E1P pecado
+\c ADV VT PERS S
+\l No perdonanos nuestros pecados.
+\p ADV VT E1P#PERS S
+
+\ref trtex063Usp04 601
+\t kuy qamak,+
+\m kuy qa- maak
+\g perdonar E1P pecado
+\c VT PERS S
+\l Perdona nuestro pecado.
+\p VT E1P#PERS S
+
+\ref trtex063Usp04 602
+\t cha' taq re.+
+\m cha' taq re
+\g decir PL él/ella
+\c VT PART PRON
+\l Le decian a ella.
+\p VT PL#PART PRON
+
+\ref trtex063Usp04 603
+\t Noo lori pok xakamsaj taq inmaam,+
+\m noo ljori pok x- a- kam -sáj taq in- maam
+\g no ahora poco COM E2S morir PAS PL A1S abuelo
+\c ADV ADV ADV TAM PERS VI SUF PART PERS S
+\l No ahora por que mataron a mi abuelo.
+\p ADV ADV ADV COM#TAM E2S#PERS VI PAS#SUF PL#PART A1S#PERS S
+
+\ref trtex063Usp04 604
+\t intit'+
+\m in- tit'
+\g A1S abuela
+\c PERS S
+\l Mi abuela.
+\p A1S#PERS S
+
+\ref trtex063Usp04 605
+\t juntir la jaa.+
+\m juntir la jaa
+\g todo PREP casa
+\c ADV PREP S
+\l Todos en la casa.
+\p ADV PREP#PREP S
+
+\ref trtex063Usp04 606
+\t I xak'ataq richoch.+
+\m i x- a- k'at -aq r- ichoch
+\g CONJ COM E2S quemar PL E3S casa
+\c CONJ TAM PERS VT PART PERS S
+\l Y le quemaron su casa.
+\p CONJ#CONJ COM#TAM E2S#PERS VT PL#PART E3S#PERS S
+
+\ref trtex063Usp04 607
+\t I kwand xkom rechaq,+
+\m i kwand x- kom rechaq
+\g CONJ cuando COM morir ellos/ellas
+\c CONJ ADV TAM VI PRON
+\l Y cuando murieron ellos.
+\p CONJ#CONJ ADV COM#TAM VI PRON
+
+\ref trtex063Usp04 608
+\t xa'an taq k'ex chweyin,+
+\m x- a- 'an taq k'ex ch- w- e -i'n
+\g COM E2S hacer PL dolor INC E1S SREL yo
+\c TAM PERS VT PART ADJ TAM PERS SREL PRON
+\l Me hicieron daño a mi.
+\p COM#TAM E2S#PERS VT PL#PART ADJ INC#TAM E1S#PERS SREL#SREL PRON
+
+\ref trtex063Usp04 609
+\t cha' man Marimar.+
+\m cha' man Marimar
+\g decir ART Marimar
+\c VT ART NOM
+\l Dijo la Marimar.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 610
+\t I a oraa ik'aj taq k'ut neen moo xa'an taq chwe.+
+\m i a oraa ik'aj taq k'ut neen moo x- a- 'an taq ch- we
+\g CONJ a ahora sentir PL PART INT modo COM E2S hacer PL INC SREL
+\c CONJ PREP ADV VI PART PART ADV ADV TAM PERS VT PART TAM SREL
+\l Y ahora sientan ustedes como me lo hicieron a mi.
+\p CONJ#CONJ PREP ADV VI PL#PART PART#PART INT#ADV ADV COM#TAM E2S#PERS VT PL#PART INC#TAM SREL#SREL
+
+\ref trtex063Usp04 611
+\t Esaaj taq man b'ij re,+
+\m e -saj taq man b'ij re
+\g sacar PAS PL ART nombre él/ella
+\c VT SUF PART ART S PRON
+\l Saquen ese como se llama ombre.
+\p VT PAS#SUF PL#PART ART#ART S PRON
+
+\ref trtex063Usp04 612
+\t anaan tresaj man uu li xoq'o'l.+
+\m a- naan t- r- e -sáj man uu li xoq'o'l
+\g E2S mamá INC E3S sacar PAS ART collar PREP lodo
+\c PERS S TAM PERS VT SUF ART S PREP S
+\l Tú mamá que saque el collar del lodo.
+\p E2S#PERS S INC#TAM E3S#PERS VT PAS#SUF ART#ART S PREP#PREP S
+
+\ref trtex063Usp04 613
+\t Jaan.+
+\m jaan
+\g bueno
+\c ADV
+\l Esta bien.
+\p ADV
+
+\ref trtex063Usp04 614
+\t Yoos kuy inmak,+
+\m yoos kuy in- maak
+\g dios perdonar A1S pecado
+\c VOC VT PERS S
+\l Dios perdona mi pecado.
+\p VOC VT A1S#PERS S
+
+\ref trtex063Usp04 615
+\t iin ta' wetam loke xinan chawe.+
+\m iin ta' w- etaam loke x- in- an ch- aw- e
+\g yo NEG E1S conocimiento loque COM A1S hacer PREP E2S SREL
+\c PRON PART PERS S ADV TAM PERS VT PREP PERS SREL
+\l Yo no savía lo que te hice.
+\p PRON NEG#PART E1S#PERS S ADV COM#TAM A1S#PERS VT PREP#PREP E2S#PERS SREL#SREL
+
+\ref trtex063Usp04 616
+\t Noo esaj+
+\m noo e -saj
+\g no sacar PAS
+\c ADV VT SUF
+\l No sácalo.
+\p ADV VT PAS#SUF
+
+\ref trtex063Usp04 617
+\t i yastu,+
+\m i ya- stu
+\g CONJ ya estubo
+\c CONJ IMP ADV
+\l Y ya estubo.
+\p CONJ#CONJ IMP ADV
+
+\ref trtex063Usp04 618
+\t cha' man Marimar.+
+\m cha' man Marimar
+\g decir ART Marimar
+\c VT ART NOM
+\l dijo la Marimar.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 619
+\t Ween,+
+\m weno
+\g bueno
+\c ADV
+\l Bueno.
+\p ADV
+
+\ref trtex063Usp04 620
+\t cha' man Angelika,+
+\m cha' man Angelika
+\g decir ART Angelica
+\c VT ART NOM
+\l Dijo esa Angelica.
+\p VT ART#ART NOM
+
+\ref trtex063Usp04 621
+\t xuker,+
+\m xuk -er
+\g garabato ITR
+\c S SUF
+\l Se arrodilló.
+\p S ITR#SUF
+
+\ref trtex063Usp04 622
+\t tok t'oq' chresaj man uu li xoq'o'l.+
+\m tok t'- oq' ch- r- e -sáj man uu li xoq'o'l
+\g buscar INC llorar INC E3S sacar PAS ART collar PREP lodo
+\c VT TAM VI TAM PERS VT SUF ART S PREP S
+\l Buscar llorando para sacar el collar entre el lodo.
+\p VT INC#TAM VI INC#TAM E3S#PERS VT PAS#SUF ART#ART S PREP#PREP S
+
+\ref trtex063Usp04 623
+\t K'isil jkeyeb'el chuch kristyan,+
+\m k'is -il j- keyeb'el ch- uch kristyan
+\g terminar SAB E3S cara PREP SREL persona
+\c VT SUF PERS S PREP SREL S
+\l Toda la cara tenía embarrado delante de la gente.
+\p VT SAB#SUF E3S#PERS S PREP#PREP SREL#SREL S
+
+\ref trtex063Usp04 624
+\t tijut jtzam li xoq'o'l,+
+\m ti- jut j- tzam li xoq'o'l
+\g INC meter E3S nariz PREP lodo
+\c TAM VT PERS S PREP S
+\l Metía su nariz en el lodo.
+\p INC#TAM VT E3S#PERS S PREP#PREP S
+
+\ref trtex063Usp04 625
+\t tresaj man uu li xoq'o'l.+
+\m t- r- e -sáj man uu li xoq'o'l
+\g INC E3S sacar PAS ART collar PREP lodo
+\c TAM PERS VT SUF ART S PREP S
+\l Para saca el collar en el lodo.
+\p INC#TAM E3S#PERS VT PAS#SUF ART#ART S PREP#PREP S
+
+\ref trtex063Usp04 626
+\t Toos xpe man,+
+\m toos x- pe man
+\g entonces COM venir ART
+\c ADV TAM VI ART
+\l Entonces vino ese.
+\p ADV COM#TAM VI ART#ART
+
+\ref trtex063Usp04 627
+\t xpe man.+
+\m x- pe man
+\g COM venir ART
+\c TAM VI ART
+\l Vino ese.
+\p COM#TAM VI ART#ART
+
+\ref trtex063Usp04 628
+\t Tons man Angelika tresaj,+
+\m tons man Angelika t- r- e -sáj
+\g entonces ART Angelica INC E3S sacar PAS
+\c ADV ART NOM TAM PERS VT SUF
+\l Entonces esa Angelica saca.
+\p ADV ART#ART NOM INC#TAM E3S#PERS VT PAS#SUF
+
+\ref trtex063Usp04 629
+\t tukxij man xoq'o'l lajkeyb'el.+
+\m tukxi -j man xoq'o'l la- j- keyb'el
+\g menear SC ART lodo PREP E3S cara
+\c VT SUF ART S PREP PERS S
+\l Meneava el lodo con su cara.
+\p VT SC#SUF ART#ART S PREP#PREP E3S#PERS S
+
+\ref trtex063Usp04 630
+\t Tresaj,+
+\m t- r- e -sáj
+\g INC E3S sacar PAS
+\c TAM PERS VT SUF
+\l Lo saca.
+\p INC#TAM E3S#PERS VT PAS#SUF
+
+\ref trtex063Usp04 631
+\t tukxij man xoq'o'l laj keyeb'el,+
+\m tukxi -j man xoq'o'l la -j keyeb'el
+\g menear SC ART lodo PREP E3S cara
+\c VT SUF ART S PREP PERS S
+\l Lo muebe el lodo con la cara.
+\p VT SC#SUF ART#ART S PREP#PREP E3S#PERS S
+
+\ref trtex063Usp04 632
+\t tresaj man uu chuch kristyan.+
+\m t- r- e -sáj man uu ch- uch kristyan
+\g INC E3S sacar PAS ART collar PREP SREL persona
+\c TAM PERS VT SUF ART S PREP SREL S
+\l Saca el collar en frente de la gente.
+\p INC#TAM E3S#PERS VT PAS#SUF ART#ART S PREP#PREP SREL#SREL S
+
+\ref trtex063Usp04 633
+\t I ruk' maq jpech, jpech man Marimar.+
+\m i ruk' maq j- pech j- pech man Marimar
+\g CONJ PART ART E3S compañero E3S compañero ART Marimar
+\c CONJ PART ART PERS S PERS S ART NOM
+\l Y sus compañeros compañeros de Marimar.
+\p CONJ#CONJ PART#PART ART#ART E3S#PERS S E3S#PERS S ART#ART NOM
+
+\ref trtex063Usp04 634
+\t Xi'j re kee.+
+\m x- i'j re kee
+\g COM decir él/ella que
+\c TAM VT PRON ADV
+\l Le dijo que.
+\p COM#TAM VT PRON ADV
+
+\ref trtex063Usp04 635
+\t Lonk'u xen taq chawe.+
+\m (lo) -nk'u x- en taq ch- aw- e
+\g ??? PART COM hacer PL INC E2S SREL
+\c ??? PART TAM VT PART TAM PERS SREL
+\l Asi es como te hiceron.
+\p ??? PART#PART COM#TAM VT PL#PART INC#TAM E2S#PERS SREL#SREL
+
+\ref trtex063Usp04 636
+\t Jilon xen taq chweyin ójor,+
+\m jilon x- en taq ch- w- e -i'n ójor
+\g DEM COM hacer PL INC E1S SREL yo antiguamente
+\c DEM TAM VT PART TAM PERS SREL PRON ADV
+\l Asi me hicieron a mi antes.
+\p DEM#DEM COM#TAM VT PL#PART INC#TAM E1S#PERS SREL#SREL PRON ADV
+
+\ref trtex063Usp04 637
+\t kwand xinb'e rk'ilaq.+
+\m kwand x- in- b'e r- k'il -aq
+\g cuando COM E1S ir E3S SREL PL
+\c ADV TAM PERS VI PERS SREL PART
+\l Cuando me fui con ellos.
+\p ADV COM#TAM E1S#PERS VI E3S#PERS SREL#SREL PL#PART
+
+\ref trtex063Usp04 638
+\t I yori xuq taq niri,+
+\m i yori x- uq taq niri
+\g CONJ ahora COM llegar PL aqui
+\c CONJ ADV TAM VI PART ADV
+\l Y ahora llegaron aquí.
+\p CONJ#CONJ ADV COM#TAM VI PL#PART ADV
+
+\ref trtex063Usp04 639
+\t cha' man Marimar re maq jpech.+
+\m cha' man Marimar re maq j- pech
+\g decir ART Marimar PART ART E3S compañero
+\c VI ART NOM PART ART PERS S
+\l Dijo Marimar a sus compañeros.
+\p VI ART#ART NOM PART#PART ART#ART E3S#PERS S
+
+\ref trtex063Usp04 640
+\t Xpe maq jpech.+
+\m x- pe maq j- pech
+\g COM venir ART E3S compañero
+\c TAM VI ART PERS S
+\l Vinieron sus compañeros.
+\p COM#TAM VI ART#ART E3S#PERS S
+
+\ref trtex063Usp04 641
+\t Tons ta' tzii xen taq chawe,+
+\m tons ta' tzii x- en taq ch- aw- e
+\g entonces NEG bueno COM hacer PL INC E2S SREL
+\c ADV PART ADJ TAM VT PART TAM PERS SREL
+\l Entonces no te hicieron bien.
+\p ADV NEG#PART ADJ COM#TAM VT PL#PART INC#TAM E2S#PERS SREL#SREL
+
+\ref trtex063Usp04 642
+\t xpe man Angelika jor sub'laaj t'oq',+
+\m x- pe man Angelika jor sub'laaj ti- oq'
+\g COM venir ART Angelica mejor ITS INC llorar
+\c TAM VI ART NOM ADV PART TAM VI
+\l Vino esa Angelica como estaba llorando.
+\p COM#TAM VI ART#ART NOM ADV ITS#PART INC#TAM VI
+
+\ref trtex063Usp04 643
+\t chuch man kristyan.+
+\m ch- uch man kristyan
+\g PREP SREL ART persona
+\c PREP SREL ART S
+\l En frente de las personas.
+\p PREP#PREP SREL#SREL ART#ART S
+
+\ref trtex063Usp04 644
+\t Xok chij tukxij man xoq'o'l+
+\m x- ok chi -j tukxi -j man xoq'o'l
+\g COM entrar PREP E3S menear SC ART lodo
+\c TAM VI PREP PERS VT SUF ART S
+\l Enpezo a menear el lodo.
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF ART#ART S
+
+\ref trtex063Usp04 645
+\t chuch kristyan juntir.+
+\m ch- uch kristyan juntiir
+\g PREP SREL persona todo
+\c PREP SREL S ADV
+\l En frente de todas las personas.
+\p PREP#PREP SREL#SREL S ADV
+
+\ref trtex063Usp04 646
+\t Xok chij resaj man uu xilj.+
+\m x- ok chi -j r- e -sáj man uu xílj
+\g COM entrar PREP E3S E3S sacar PAS ART collar adentro
+\c TAM VI PREP PERS PERS VT SUF ART S SREL
+\l Empezo a sacar el collar a dentro.
+\p COM#TAM VI PREP#PREP E3S#PERS E3S#PERS VT PAS#SUF ART#ART S SREL
+
+\ref trtex063Usp04 647
+\t I i xpe man Marimar+
+\m i i x- pe man Marimar
+\g CONJ CONJ COM venir ART Marimar
+\c CONJ CONJ TAM VI ART NOM
+\l Y y vino la Marimar.
+\p CONJ#CONJ CONJ#CONJ COM#TAM VI ART#ART NOM
+
+\ref trtex063Usp04 648
+\t xok chij tz'ib'aj xilj nimaq libros+
+\m x- ok chi -j tzib'a -j xílj nim -aq libros
+\g COM entrar PREP E3S escribir SC adentro grande PL libros
+\c TAM VI PREP PERS VT SUF SREL ADJ PART S
+\l empezo a escribir dentro de los grandes libros.
+\p COM#TAM VI PREP#PREP E3S#PERS VT SC#SUF SREL ADJ PL#PART S
+
+\ref trtex063Usp04 649
+\t juntir.+
+\m juntiir
+\g todo
+\c ADV
+\l Todo.
+\p ADV
+
+\ref trtex063Usp04 650
+\t Loke xensaj re.+
+\m loke x- en -sáj re
+\g loque COM hacer PAS él/ella
+\c ADV TAM VT SUF PRON
+\l Loque le hiceron a ella.
+\p ADV COM#TAM VT PAS#SUF PRON
+
+\ref trtex063Usp04 651
+\t Kom lisensiyad chaq,+
+\m kom lisensiyad chaq
+\g como licenciado PART
+\c ADV S PART
+\l Como ya hera licenciada.
+\p ADV S PART#PART
+
+\ref trtex063Usp04 652
+\t juntir wi' chaq jchaak juntir.+
+\m juntir wi' chaq j- chaak juntiir
+\g todo EXS PART E3S trabajo todo
+\c ADV EXS PART PERS S ADV
+\l Todos ya tenia su trabajo todo. (ya estava muy bien)
+\p ADV EXS#EXS PART#PART E3S#PERS S ADV
+
+\ref trtex063Usp04 653
+\t I ri' li like xensaj rechaq ójor.+
+\m i ri' li like x- en -sáj rechaq ójor
+\g CONJ DEM DEM loque COM hacer PAS ellos/ellas antiguamente
+\c CONJ DEM DEM ADV TAM VT SUF PRON ADV
+\l Y eso es loque le hiceron antes.
+\p CONJ#CONJ DEM#DEM DEM#DEM ADV COM#TAM VT PAS#SUF PRON ADV
+
+\ref trtex063Usp04 654
+\t Xen man Angelika re...+
+\m x- en man Angelika r- e
+\g COM hacer ART Angelica E3S SREL
+\c TAM VT ART NOM PERS SREL
+\l Loque hizo la Ángelica a ella.
+\p COM#TAM VT ART#ART NOM E3S#PERS SREL#SREL
+
+\ref trtex063Usp04 655
+\t Por es loke tb'ensaj ójor,+
+\m por es loke t- b'en -sáj ójor
+\g por es loque INC hacer PAS antiguamente
+\c ADV ADV ADV TAM VT SUF ADV
+\l Por eso loque se hace antes.
+\p ADV ADV ADV INC#TAM VT PAS#SUF ADV
+
+\ref trtex063Usp04 656
+\t loke tren kristyan re jalan kristyan.+
+\m loke t- r- en kristyan re jalan kristyan
+\g loque INC E3S hacer persona él/ella difeernte persona
+\c ADV TAM PERS VT S PRON ADV S
+\l Lo que hace una persona a otras personas.
+\p ADV INC#TAM E3S#PERS VT S PRON ADV S
+
+\ref trtex063Usp04 657
+\t Syempre tijtoj na+
+\m syempre ti- j- toj na
+\g siempre INC E3S pagar PART
+\c ADV TAM PERS VT PART
+\l Siempre se paga.
+\p ADV INC#TAM E3S#PERS VT PART#PART
+
+\ref trtex063Usp04 658
+\t jalan kristyan chik.+
+\m jalan kristyan chik
+\g diferente persona PART
+\c ADJ S PART
+\l Otras personas más.
+\p ADJ S PART#PART
+
+\ref trtex063Usp04 659
+\t Jalan kristyan chik,+
+\m jalan kristyan chik
+\g diferente persona PART
+\c ADJ S PART
+\l Otras personas más.
+\p ADJ S PART#PART
+
+\ref trtex063Usp04 660
+\t loke tren jun kristyan re jun kristyan.+
+\m loke t- r- en jun kristyan re jun kristyaan
+\g loque INC E3S hacer uno persona PART uno persona
+\c ADV TAM PERS VT NUM S PART NUM S
+\l Loque hace una persona a una otra persona.
+\p ADV INC#TAM E3S#PERS VT NUM S PART#PART NUM S
+
+\ref trtex063Usp04 661
+\t Syempr tijtoj na loke tren re.+
+\m syempr ti- j- toj na loke t- r- en re
+\g siempre INC E3S pagar PART loque INC E3S hacer SREL
+\c ADV TAM PERS VT PART ADV TAM PERS VT SREL
+\l Siempre tiene que pagar loque uno hace.
+\p ADV INC#TAM E3S#PERS VT PART#PART ADV INC#TAM E3S#PERS VT SREL#SREL
+
+\ref trtex063Usp04 662
+\t Ri' li tanb'ij.+
+\m ri' li t- an- b'ij
+\g DEM DEM INC E1S decir
+\c DEM DEM TAM PERS VT
+\l Eso es lo que digo.
+\p DEM#DEM DEM#DEM INC#TAM E1S#PERS VT
+
+\ref trtex063Usp04 663
+\t 18:51 25/1/06.

@@ -1,0 +1,440 @@
+\t tuláakal le meyaj-o’ob=o’
+\g all DEF worker-PL-ADDR.PROX
+\l all the workers
+
+\t A=ti’a’l le=nah=a’ ?
+\g 2.ERG/POSS=property DEM=house=SPKR.PROX
+\l Is this house yours?
+
+\t le=x-ch’úup chak u=nòok’=o’
+\g DEF.F-female red 2.ERG/POSS=garment=ADDR.PROX
+\l the woman dressed in red
+
+\t le kajtalil way=a’
+\g DEM hamlet here-SPKR.PROX
+\l this hamlet here
+
+\t A=ti’a’l lel=a’ ?
+\g 2.ERG/POSS=property DEM=SPKR.PROX
+\l Is this yours?
+
+\t Ba’x k’ìin k-uy=úuch-ul lel=o’ ?
+\g what sun IMPF-3.ERG/POSS=happen-INCH DEM=ADDR.PROX
+\l What day does that usually happen?
+
+\t lekan taa-k-ø le  máax bi-s-ik-ø le paca ti’ Enlace =o’
+\g when come-IRR-3.SG.ABS DEM who go-CAUS-IND-3.SG.ABS DEF bale PREP PN=ADDR.PROX
+\l when the one who takes the (henequen) bales to Enlace comes …’14 (Lit. “when that who takes the bales to Enlace comes”)
+
+\t le  ba’ax k-in tsikbal-t-ik-ø te’ex =a’
+\g DEM what HAB-1.SG.ERG/POSS chat-TR-IND-3.SG.ABS 2.PL=SPKR.PROX
+\l this thing that I’m telling you’ (Lit. “this which I am telling you”)
+
+\t le  tu’ux ts’-u yáax máan le meyaj =o’
+\g DEM where TERM-3.ERG/POSS first pass DEF work=ADDR.PROX
+\l [that place] where they first went to work’ (Lit. “that where they first passed to work”)
+
+\t Yaan-ø  máax k’am-ik-ø  .
+\g EX-3.SG.ABS who receive-IND-3.SG.ABS
+\l There were those who received it.’ (Lit. “There is who receives it”)
+
+\t K-o’on-e’ex il-ik-ø  ba’ax kan u beet-ej-ø  .
+\g go-1.PL.ABS-2.PL.ABS see-IND-3.SG.ABS what AUX 3.ERG/POSS do-IRR-3.SG.ABS
+\l Let’s go see what it (the rain) is going to do.
+
+\t tak  tu’ux jach ma’alob le lu’um=o’ 
+\g even where very good DEF soil=ADDR.PROX
+\l even where the soil is very good
+
+\t puroh káaltal k-in bèet-ik
+\g mere drink IMPF-ERG.1.SG do-INCOMPL
+\l mere drinking was what I did
+
+\t kʊʊ-nongwa ɪ-jo lɪnga ʊ-n-nyambala a-bagiile ʊ-kʊ-tol-igw-a ʊ-kʊ-mmw-ag-a ʊ-n-kiikʊlʊ ʊ-gw-a kʊ-mmw-eg-a , a-ba-ndʊ bi-kʊ-mmw-inogon-aga ʊ-mu-ndʊ ʊ-jo ʊkʊtɪ m-oolo pa-kʊ-bomb-a ɪ-m-bombo
+\g 17-issue AUG-REF.9 if/when AUG-1-man 1-be_able.PFV AUG-15-defeat-PASS-FV AUG-15-1-find-FV AUG-1-woman AUG-1-ASSOC 15-1-marry-FV AUG-2-person 2-MOD.FUT-1-think-MOD.FUT AUG-1-person AUG-REF.1 COMP 1-lazy 16-15-work-FV AUG-9-work
+\l Because of this, if a man is unable to get a woman to marry, people (will) think that this person is lazy in doing work.
+
+\t bo ba-m-peele ɪ-fi-bombelo , a-ka-bagɪl-a ʊ-kʊ-bomb-el-a a-ka-balɪlo a-ka-tali
+\g as 2-1-give.PFV AUG-8-tool 1-NEG-be_able-FV AUG-15-work-APPL-FV AUG-12-time AUG-12-long
+\l When they have given him tools, he cannot work with them for a long time.
+
+\t in kiik síih-mah-il ten
+\g A.1.SG elder.sister give.as.present-PRF-DEP(B.3.SG) me
+\l this little clay bowl, my elder sister gave it to me’ (ACC_0039)
+
+\t h bin-ech
+\g PFV go(CMPL)-B.2.SG
+\l you went
+
+\t t=u t'an-ech
+\g PFV=A.3 call(CMPL)-B.2.SG
+\l he called you
+
+\t u p’at-ik-ech
+\g A.3 leave-DEP.INCMPL-B.2.SG
+\l (that) he leaves you’ (Motul s.v. Hun chilbac)
+
+\t u k'am-ah-∅ nikte' in mehen
+\g A.3 get-CMPL-B.3.SG flower A.1.SG son
+\l my son got the flower (i.e. got married)’ (Motul s.v. kamnicte)
+
+\t In watan=e' mina'n way=e'; táant=u bin=e' .
+\g A.1.SG wife=TOP NEG.EXIST(B.3.SG) here=R3 REC.PST=A.3 go(INCMPL)=R3
+\l My wife isn't here; she just left.’ (BVS_05-01-36.2)
+
+\t ti’ kanáan
+\g LOC watch
+\l for watching
+
+\t ethas-ak-ech ti’=in han-al
+\g just.in.time-past-B.2.SG LOC=A.1.SG eat-DEP
+\l you arrived just in time (to meet me) at having my meal
+
+\t in k’áat-ih a ben-el
+\g A.1.SG want-CFP A.2 go-DEP
+\l I want you to go
+
+\t u k’iin ook-s-ah
+\g A.3 day enter-CAUS-INTROV
+\l (it is) the sowing season
+
+\t in k’áat-ih a kanbes-ik-∅ in mehen
+\g A.1.SG want-CFP A.2 teach-DEP-B.3.SG A.1.SG son
+\l I want you to teach my son
+
+\t ti'=k léech-t-ik le haaleh=a' !
+\g LOC=A.1.PL trap-TRR-INCMPL DEM paca=R1
+\l Make a trap for us to trap this paca!’ (RMC_1993)
+
+\t táan y-isíins-a'l=u yatan yuum ahaw
+\g PROG A.3-bathe-INCMPL.PASS=A.3 wife master/father chief
+\l Exactly at sunset, the chief's wife was washed’ (HK'AN_502)
+
+\t t=u yil-ik !
+\g LOC=A.3 see-INCMPL(B.3.SG)
+\l How happy was the king to see him!’ (HK'AN_527)
+
+\t h lúub-en
+\g PFV fall(CMPL)-B.1.SG
+\l I fell
+
+\t k=in lúub-ul
+\g IPFV=A.1.SG fall-INCMPL
+\l I fall
+
+\t bíin lúub-uk-en
+\g FUT fall-SUBJ-B.1.SG
+\l I will fall
+
+\t bin=in ka’h lúub-ul
+\g IMM.FUT=A.1.SG do fall-INCMPL
+\l I am going to fall
+
+\t u ch’ab-t-ah-o’n dios
+\g A.3 create-TRR-CMPL-B.1.PL god
+\l god created us’ (Motul s.v. chab.tah.t)
+
+\t bin-ih fiscal ti’ y-otoch k’uh
+\g go-CMPL(B.3.SG) inspector LOC A.3-house god
+\l The inspector went to the church
+
+\t káa=u hats’-ah paal-alo’b
+\g CONJ=A.3 beat-CMPL child-PL
+\l and beat the children
+
+\t ti’ bin-ih padre
+\g HOD go-CMPL(B.3.SG) father
+\l the father (reverend) went today / has gone
+
+\t t=in hats'-ah paal
+\g HOD=A.1.SG beat-CMPL child
+\l I beat the child today / have beaten the child
+
+\t ba'l=u chuun=a hats'-k-ih
+\g what=A.3 ground=A.2 beat-DEP-CMPL(B.3.SG)
+\l why did you beat her?
+
+\t ba'l=u chuun t=a hats'-k-ih
+\g what=A.3 ground HOD=A.2 beat-DEP-CMPL(B.3.SG)
+\l why have you beaten her?
+
+\t makx ti’ taal-ih
+\g who HOD come-CMPL(B.3.SG)
+\l Who has come?
+
+\t ti' k'am-chi'-n-ech wáa o: t=a k'amah wáa=a chi'
+\g HOD get-mouth-CMPL-B.2.SG INT or: HOD=A.2 get-CMPL INT=A.2 mouth
+\l Have you had breakfast?
+
+\t o: ma' ti’ k'am-chi'-n-en
+\g or: NEG HOD get-mouth-CMPL-B.1.SG
+\l I have not had breakfast’ (Motul s.v. kamchij)
+
+\t séeb-h-ih=in kan-ik maaya t’aan
+\g fast=COP-CMPL=A.1.SG learn-INCMPL Maya speech
+\l I learnt Maya quickly’ (lit.: ‘it was quick that I learnt Maya’)
+
+\t u nah=a ben-el
+\g A.3 decorum=A.2 go-INCMPL
+\l you ought to go
+
+\t ti’ lik / tamuk’ / ti’ walak=u han-al
+\g LOC this.span / while / LOC this.time=A.3 eat-INCMPL
+\l my father was killed while eating
+
+\t lik=u ts'o’kol=a han-al káa tal-ak-ech way=e'
+\g span=A.3 end-INCMPL=A.2 eat-INCMPL CONJ come-SUBJ-B.2.SG here=R3
+\l when you have eaten, you should come here’ (Motul s.v. ca6)
+
+\t lik=in wen-el tamuk'=in han-al
+\g HAB=A.1.SG sleep-INCMPL while=A.1.SG eat-INCMPL
+\l I usually fall asleep while eating’ (Motul s.v. lic2)
+
+\t lik=bin=a hats’-ik=a paal-il tumen=u tuus
+\g IPFV=QUOT=A.2 beat-INCMPL=A.2 child-REL because=A.3 lie\INTROV
+\l They say you (habitually) beat your boy because he lies.
+
+\t lik(-ih)
+\g IPFV-CFP
+\l Yes.’ (Motul s.v. lici lic)
+
+\t ba’l k=a wook’-t-ik
+\g what IPFV=A.2 weep-TRR-INCMPL
+\l What are you crying for?
+
+\t in k’eban lik w-ook’-t-ik
+\g A.1.SG sin IPFV A.1.SG-weep-TRR-INCMPL
+\l It is for my sins that I am crying.
+
+\t bíin=u chuk-óol-t ts’abilah
+\g FUT=A.3 attain-mind-TRR(SUBJ) grace
+\l as long as Peter obeys god, he will attain grace
+
+\t lik wáah=u han-al k’oha’n=e’ lik
+\g IPFV INT=A.3 eat-INCMPL sick=R3 IPFV
+\l Does the sick person eat? – He does.
+
+\t k=in yáakunt-ik bin
+\g IPFV=A.1.SG love-DEP QUOT
+\l it is said that I love him
+
+\t táan kah
+\g middle village
+\l (in) the village center
+
+\t t=u táan dios
+\g LOC=A.3 front god
+\l in front of god
+
+\t káa kim-s-a’b-ih
+\g CONJ die-CAUS-PASS-CMPL(B.3.SG)
+\l my father was in the middle of eating when he was killed’ or: ‘while my father was eating, he was killed
+
+\t káa xol-hih t=u píix
+\g CONJ kneel-CMPL(B.3.SG) LOC=A.3 knee
+\l While I was teaching the child, he knelt down.
+
+\t u táan=in beel-t-ik
+\g A.3 PROG=A.1.SG make-TRR-DEP.INCMPL
+\l I am (in the middle of) doing it
+
+\t ma’ táan=a tu’b-ul ten
+\g NEG PROG=A.2 escape-INCMPL me
+\l I am not going to forget you
+
+\t táan=in tse’k káa lúub k’u-nah
+\g PROG=A.1.SG preach(INCMPL) CONJ fall(CMPL) god-house
+\l I was preaching, there the church collapsed
+
+\t káa kim Juan
+\g CONJ die(CMPL) John
+\l I was preaching god’s word to them, there John died
+
+\t Táan wáah=a bin ?
+\g PROG INT=A.2 go(INCMPL)
+\l Are you going (leaving)?’ (Hnazario_406)
+
+\t Túun tsikbal .
+\g PROG:A.3 tell(INCMPL)
+\l He was talking.
+
+\t káa h téek líik' y-ich hun-túul le peek'=o'
+\g CONJ PFV for.a.moment rise(CMPL) A.3-eye one-CL.AN DEM dog=R2
+\l It was dawning when one of the dogs suddenly rose his glance’ (hts'oon_310.1)
+
+\t ho'p'-ih=in beel-t-ik
+\g start-CMPL(B.3.SG)=A.1.SG make-TRR-DEP.INCMPL
+\l I have begun to do it
+
+\t sáamal=u ho'p'-ol=in ts'íib-t-ik
+\g tomorrow=A.3 start-INCMPL=A.1.SG write-TRR-DEP.INCMPL
+\l tomorrow I will start writing it
+
+\t ts'o'k-ih=in kan-ik
+\g end-CMPL(B.3.SG)=A.1.SG learn-DEP.INCMPL
+\l I finished learning / have learnt it
+
+\t sáamal=u ts'o'k-ol=in kan-ik
+\g tomorrow=A.3 end-INCMPL=A.1.SG learn-DEP.INCMPL
+\l tomorrow I will finish learning it
+
+\t k=u ts'a'bal píib …
+\g IMPF=A.3 put/give:INCMPL.PASS underground.oven …
+\l When they have been formed, they are put into the earth-oven …’ (chaak_028)
+
+\t beey túun ts'o'k-ol=u kuxtal le p'us-o'b=o'
+\g thus then finish-INCMPL=A.3 life DEM hunchback-PL=R2
+\l This then was the end of the life of the P'uz.’ (chem_ppuzoob_011)
+
+\t (h) ts’o’k=in meyah
+\g PFV finish(CMPL:B.3.SG)=A.1.SG work
+\l my work ended = I finished working = I have already worked’ 
+
+\t Ts'o'k wáah=in bo'l-t-ik=in p'aax ?
+\g finish(CMPL:B.3.SG) INT=A.1.SG pay-TRR-INCMPL=A.1.SG debt
+\l Have I paid my debt?
+
+\t Ma' ts'o'k-ok=i' .
+\g NEG finish-SUBJ=NEGF
+\l No (you haven't).’ (hnazario_375f)
+
+\t ts'=in w-a'l-ik te'x
+\g TERM=A.1.SG 0-say-INCMPL you.all
+\l I have told it to you’ (muuch_340)
+
+\t K=u ts'o'k-ol=e' k=in p'o'-ik;
+\g IPFV=A.3 finish-INCMPL=TOP IPFV=A.1.SG wash-INCMPL
+\l Then I wash it;
+
+\t k=in ts'a'-ik t=eh k'áak'=o’ …
+\g IPFV=A.1.SG put/give-INCMPL LOC=DEM fire=R2 …
+\l then I put it on fire …’ (chakwaah_03f)
+
+\t yaan kuts
+\g EXIST turkey
+\l there are turkeys' 
+
+\t ti' yaan ti' y-otoch
+\g there EXIST LOC A.3-home
+\l there he is at his home
+
+\t yaan=in nah-il
+\g EXIST=A.1.SG house-REL
+\l I have got a house' (muuch_274)
+
+\t ba'l=e' yan=a bo'l-t-ik-en
+\g however=TOP DEB=A.2 pay-TRR-INCMPL-B.1.SG
+\l however, you must pay me' (hala'ch_084)
+
+\t yan=u kaxt-ik-ech=a taatah
+\g DEB=A.3 search-INCMPL-B.2.SG=A.2 father
+\l your father will search you' (hnazario_402.1)
+
+\t t bin-en=in kim-es wakax
+\g PFV go(CMPL)-B.1.SG=A.1.SG die-CAUS(SUBJ) cow
+\l I went to kill cows’ (, §110)
+
+\t bíin bo’l-nak-en ts’e’ts’etak
+\g FUT pay-SUBJ-B.1.SG little.by.little
+\l I shall pay little by little
+
+\t bíin=in síih-ib tech
+\g FUT=A.1.SG present-SUBJ(B.3.SG) you
+\l although it is half of my meal, I’ll give it to you
+
+\t Bíin suu-nak yéetel bíin=in wil-eh .
+\g FUT return-SUBJ(B.3.SG) and FUT=A.1.SG see-SUBJ(B.3.SG)
+\l He will come back and I will see him.' (xipaal_032)
+
+\t bay bíin=u kib-ik Dios te’x
+\g thus go=A.3 do-DEP.INCMPL god you.PL
+\l thus will god do with you’ ( = )
+
+\t bíin wáah p'áat-ak-en hun-p'éel k'iin he'bix-ech=a'
+\g FUT INT stay-SUBJ-B.1.SG one-CL.INAN sun/day ever:how-B.2.SG=R1
+\l will I become like you one day?’ (xipaal_092)
+
+\t balam-il=u ka'h Pedro
+\g tiger-ADVR=A.3 do Peter
+\l Peter makes the tiger / Peter is like a tiger’ (lit.: ‘tiger-like is what Peter does’; Motul s.v. cah3)
+
+\t han-al=u ka'h
+\g eat-INCMPL=A.3 do
+\l he is eating
+
+\t han-al=u kib-ah
+\g eat-INCMPL=A.3 do-CMPL
+\l he was eating
+
+\t han-al bíin=u kib
+\g eat-INCMPL go=A.3 do(SUBJ)
+\l he is going to eat’ (; cf. )
+
+\t lúub-ul t=u kib-ah
+\g fall-INCMPL HOD=A.3 do-CMPL
+\l he fell (earlier today)
+
+\t kambes-ah=in ka'h ti' paal-alo'b
+\g teach-INTROV(INCMPL)=A.1.SG do LOC child-PL
+\l I am teaching the children
+
+\t ti’ kim-il=in ka’h
+\g LOC die-INCMPL=A.1.SG do
+\l at/by my being ill
+
+\t tsi’k-il=in ka’h
+\g obey\PASS-INCMPL=A.1.SG do
+\l I am (being) obeyed
+
+\t lúub-ul t=u meet-ah
+\g fall-INCMPL PFV=A.3 make-CMPL
+\l fall was what he did’ (~ ‘all of a sudden, he fell’)
+
+\t Chéen uk’ul=u ka’h .
+\g only drink:INTROV(INCMPL)=A.3 do
+\l drinking is all he does / he only drinks (all the time)
+
+\t ben-el=in ka’h ti’ han-al
+\g go-INCMPL=A.1.SG do LOC eat-INCMPL
+\l I am going to eat
+
+\t bin-el=in ka’h=in kan-bes paal-alo’b
+\g go-INCMPL=A.1.SG do=A.1.SG learn-CAUS(SUBJ) child-PL
+\l I am going to teach the children.
+
+\t tal(-el)=u ka’h=in bo’t-ik=in p’aax
+\g come-INCMPL=A.3 do=A.1.SG pay-INCMPL=A.1.SG debt
+\l I would like to pay my debt
+
+\t bin =in ka'h xíimbal ti' le chaan kaah  . . .=e'
+\g IMM.FUT =A.1.SG do walk(INCMPL) LOC DEM little village =R3
+\l I am going to walk to that little village’ (hts'on_016)
+
+\t bin=in ka'h=in xíimba-t yuum ahaw
+\g IMM.FUT=A.1.SG do=A.1.SG walk-TRR(SUBJ) master/father chief
+\l I am going to visit the chief’ (hts'on_020)
+
+\t bin=in ka'h kíim-il
+\g IMM.FUT=A.1.SG do die-INCMPL
+\l I am going to die’ (FCP 395)
+
+\t bin=u ka'h-o'b suut ba'ba'l-il-o'b
+\g IMM.FUT=A.3 do-3.PL turn\INTROV demon-ADVR-PL
+\l they were becoming demons’ (hnazario_415.5)
+
+\t Behe'la'=e' bin=in ka'h wáah túun=in kíins-ech ?
+\g today=R3 IMM.FUT=A.1.SG do INT then=A.1.SG kill-B.2.SG
+\l And now I shall kill you?’ (hk'an_610)
+
+\t Ni-ka’h meyah t=in kool .
+\g IMM.FUT\A.1.SG-do work LOC=A.1.SG milpa
+\l I am going to work on my cornfield.’ 
+
+\t Ni-k=in hant bak’
+\g IMM.FUT\A.1.SG-do=A.1.SG eat:TRR(SUBJ) meat
+\l I am going to eat meat’ 
+
+\t mi-ka'h-en=in wa'l te'x …
+\g IMM.FUT\A.1.SG-do-B.1.SG=A.1.SG say(SUBJ) you.PL …
+\l I’m going to tell you …’ (FCP_043)
+

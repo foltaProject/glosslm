@@ -1,0 +1,231 @@
+\t Siapa yang adik baca buku-nya ?
+\g who REL younger.sibling read book-D
+\l Who is it that little brother is reading (her) book?
+
+\t Rumah Adi yang di-rata-kan kemarin .
+\g house Adi REL PASS-flat-APPL yesterday
+\l It was Adi’s house that was destroyed yesterday.’ ‘Adi’s house that was destroyed yesterday.
+
+\t Jakarta sudah mulai ber-ubah wajah-nya .
+\g Jakarta PERF begin INTR-change face-D
+\l The face of Jakarta has begun to change.
+
+\t Penyanyi itu me-rasa ter-ancam nyawa-nya .
+\g singer that ACTV-feel INVOL-threaten soul-D
+\l The singer’s life felt threatened.
+
+\t Susan tahu Lani suka kue .
+\g Susan know Lani like cake
+\l Susan knows Lani likes cake.
+
+\t Susan dapat kesimpulan bahwa Lani suka kue .
+\g Susan get conclusion that Lani like cake
+\l Susan got the conclusion that Lani likes cake.
+
+\t Aku mau bertemu dengan Ibu guru .
+\g 1SG want meet with Mrs teacher
+\l I will meet with the teacher.
+
+\t Yang baca buku ini Siti .
+\g REL read book this who
+\l The one reading this book is Siti.
+
+\t Rumah Adi di-rata-kan kemarin .
+\g house Adi PASS-flat-APPL yesterday
+\l Adi’s house was destroyed yesterday.
+
+\t *Rumah orang di-rata-kan kemarin .
+\g house person PASS-flat-APPL yesterday
+\l (‘Somebody’s house was destroyed yesterday.’)
+
+\t Adik mem-baca buku gadis itu .8
+\g younger.sibling ACTV-read book girl that
+\l Little brother is reading the girl’s book.
+
+\t Adik yang mem-baca buku gadis itu .
+\g younger.sibling REL ACTV-read book girl that
+\l It is little brother who is reading the girl’s book.
+
+\t Adik mem-baca buku siapa ?
+\g younger.sibling ACTV-read book who
+\l Whose book is little brother reading?
+
+\t Tempat-*(nya) bagus buat foto~foto .
+\g place-D good make photo~PL
+\l The place was good for photos.
+
+\t Tempat-nah pro bagus buat foto~foto .
+\g place-D  good make photo~PL
+\l Her place was good for photos.
+
+\t Buku(-nya) dia biru , kalau buku(-nya) Desy kuning .
+\g book-D 3SG blue as.for book-D Desy yellow
+\l His book is blue, but Desy’s book is yellow.
+
+\t Ke-lihat-an-nya Djoko sakit demam .
+\g NMLZ-see-NMLZ-NYA Djoko sick fever
+\l Apparently, Djoko was sick with fever.
+
+\t Ibu mem-per-indah baju-ku dengan men-jahit-(nya) .
+\g Mother ACTV-CAUS-beautiful shirt-1SG with ACTV-sew-NYA
+\l Mother adorned my shirt by sewing it.
+
+\t *Ibu mem-per-indah baju-ku dengan men-jahit-nya itu/saku .20
+\g Mother ACTV-CAUS-beautiful shirt-1SG with ACTV-sew-NYA that/pocket
+\l (‘Mother adorned my shirt by sewing it/a pocket.’)
+
+\t Surat ini , saya yang me-nulis-(nya) .
+\g letter this 1SG REL ACTV-write-NYA
+\l As for this letter, it is I who wrote it.
+
+\t *Apa yang adik baca-nya ?
+\g what REL younger.sibling read-NYA
+\l (‘What did little brother read?’)
+
+\t buku  cerita anak 
+\g book story child
+\l book of children’s stories
+
+\t %Aku/kamu yang rumah-nya di-rata-kan kemarin .
+\g 1SG/2SG REL house-D PASS-flat-APPL yesterday
+\l It is I/you whose house was destroyed yesterday.
+
+\t *Aku yang rumah-ku di-rata-kan kemarin .
+\g 1SG REL house-1SG PASS-flat-APPL yesterday
+\l (‘It is I whose house was destroyed yesterday.’)
+
+\t orang yang adik baca buku-nya
+\g person REL younger.sibling read book-D
+\l the person that little brother read (his) book
+
+\t Susan dapat kesimpulan bahwa Lani lebih suka kue Fetty .
+\g Susan get conclusion that Lani more like cake Fetty
+\l Susan got the conclusion that Lani prefers Fetty’s cake.
+
+\t Kamu mem-beli-kan ibu-mu bunga .
+\g 2SG ACTV-buy-APPL mother-2SG flower
+\l You bought your mother flowers.
+
+\t *orang yang kamu beli-kan istri-nya bunga
+\g person REL 2SG buy-APPL wife-D flower
+\l (‘the person that you bought his wife flowers’)
+
+\t buku→buku∼buku ‘book’→’books’
+\g wanita→wanita∼wanita ‘woman’→’women’\t Agta (Moravcsik 1978: 311) 
+\g takki→tak∼takki ‘leg’→’legs’\t Atiga ma atiga tang tiggung (allang) hisnakkung
+\g three come three on add (then) six
+\l Bring three, add on three, (then) [get] six.
+
+\t Yerig ma yerig taxa' si a tiaam
+\g three come three add SIM 3SG six
+\l Add three with three so (it's) six.
+
+\t … tapi de ana juga cepat ikut ter–pengaru
+\g _ but 3SG child also be.fast follow ACL–influence
+\l … but he/she, a kid, also quickly follows (others) to be influenced
+
+\t de su pengaru dengang orang~orang yang minum
+\g 3SG already influence with RDP~person REL drink
+\l he has already been influenced by people who drink
+
+\t bebang masala de punya dia perlu … harus di–ber–doa
+\g burden problem 3SG POSS 3SG need _ have.to UV–VBLZ–prayer
+\l [Conversation about problems of a church congregation:] ‘(all) burdens (and) problems (that) it has, (the congregation) needs … has to be prayed for’ [080917-008-NP.0089/0091]
+
+\t jadi itu suda ke–biasa–ang dari dulu
+\g so D.DIST already NMLZ–be.usual–NMLZ from first
+\l so already that (has become) a habit from the past
+
+\t distrik kedua di mana
+\g district second at where
+\l where is the second district?
+
+\t ini bibit nangka yang ketiga yang sa bli
+\g D.PROX 1SG POSS REL third REL 1SG buy
+\l this is the third jackfruit seedling that I bought
+
+\t Speaker-2: bukang , de punya pacar
+\g _ NEG 3SG POSS date\t Musuko=ga ikite i-tara , ii noni naa !
+\g son=NOM alive be-if good though EXCLAM
+\l If my son is alive, I’ll be so happy.
+
+\t Atiga ma atiga tang tiggung (allang) hisnakkung
+\g three come three on add (then) six
+\l Bring three, add on three, (then) [get] six.
+
+\t Yerig ma yerig taxa' si a tiaam
+\g three come three add SIM 3SG six
+\l Add three with three so (it's) six.
+
+\t Mel meng-ambil kimono .
+\g Mel MEN-fetch kimono
+\l Mel fetched (her) kimono.
+
+\t Sepasang suami istri yang sedang pergi ke tahlilan keluarga di Cirebon di-serang oleh geng motor .
+\g one.couple husband wife REL in.process go to tahlilah family LOC Cirebon DI-attack by gang motor
+\l A husband and wife, who went to a family tahlilan event in Cirebon, were attacked by a motorcycle gang.’ (, Indosiar, 9/11/2015)
+
+\t Ku-guyur seluruh tubuh-ku dengan air dari keran wudu .
+\g 1SG-pour.water entire body-1SG with water from tap wudu
+\l I poured water on my body with water from the wudu tap.
+
+\t Almashirai mem-buka gorden biru muda bermotif vineyard , me-natap-i tetes hujan deras yang mem-basah-i jendela kamar-nya yang ter-letak di tempat yang paling private di rumah-nya , alias di loteng . Di-ambil-nyai sweter-nyaj yang gombrong dan nyaman , lalu me-makai-kan-nyaj di tubuh-nya yang langsing .
+\g Almashira MEN-open curtain blue light have.pattern vineyard MEN-gaze-APPL drop rain hard REL MEN-wet-APPL window bedroom-3SG REL TER-position LOC place REL most private LOC house-3SG none.other.than LOC upstairs DI-get-3SG sweater-3SG REL loose and comfortable then MEN-put.on-APPL-3SG LOC body-3SG REL slim
+\l Almashirai opened the light blue curtain with a vineyard motif, stared at the raindrops falling on the window of her bedroom which is located in the most private section of her house, namely upstairs. Shei grabbed her loose and comfortable sweaterj, and put itj on her slim body.
+
+\t ang matangkad na dalaga
+\g NOM tall LNK girl
+\l the tall girl
+
+\t Matangkad ang dalaga .
+\g tall NOM girl
+\l The girl is tall.
+
+\t Presiden (saja) bisa menilai kinerja menteri .
+\g president (*only can AV:evaluate output minister
+\l A president can evaluate a minister's output.
+
+\t Presiden saja yang bisa menilai kinerja menteri .
+\g president only RELT can AV:evaluate output minister
+\l Only a president can evaluate a minister's output.
+
+\t Presiden bisa menilai kinerja menteri saja .
+\g president can AV:evaluate output minister only
+\l A president can only evaluate a minister's output.
+
+\t Siapa yang datang
+\g who RELT arrive
+\l Who arrived?
+
+\t Datang abang-nya . . .
+\g arrive elder.brother-3S.GEN
+\l His brother arrived…' (Hikayat Pahang 128:9)
+
+\t Dia adalah yang di-tua-kan di antara sesamanya .
+\g 3S COP RELT PV-old-APPL PREP among colleague
+\l It's him who is treated as an elder among colleagues.
+
+\t Siapa (adalah) yang di-tua-kan
+\g who (*COP RELT PV-old-APPL
+\l Who is treated as an elder?
+
+\t Moal aja deui hajam (a)nu bisa hibar lapas .
+\g NEG EXT anymore chicken RELT can fly fast
+\l In no case are there anymore chickens which can fly fast.
+
+\t Musuko=ga ikite i-tara , ii noni naa !
+\g son=NOM alive be-if good though EXCLAM
+\l If my son is alive, I’ll be so happy.
+
+\t tadi ia di .sini sekarang tidak
+\g a.while.ago 3SG here now NEG
+\l He was here a while ago; now he is not.
+
+\t anak tadi mulai naik turun tangga∼tangga istana
+\g child aforementioned start go.up go.down stairs∼RED palace
+\l The aforementioned child started to go up and down the stairs of the palace.
+
+\t Musuko=ga ikite i-tara , ii noni naa !
+\g son=NOM alive be-if good though EXCLAM
+\l If my son is alive, I’ll be so happy.
+

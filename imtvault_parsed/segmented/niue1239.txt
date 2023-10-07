@@ -1,0 +1,24 @@
+\t Takafaga tūmau nī e ia e tau ika .
+\g hunt always EMPH ERG he ABS PL fish
+\l He is always fishing.
+
+\t Takafaga ika tūmau nī a ia .
+\g hunt fish always EMPH ABS he
+\l He is always fishing.
+
+\t Ne inu kofe kono a Mele .
+\g PST drink coffee bitter ABS Mele
+\l Mele drank bitter coffee.
+
+\t Ne inu e Sione e kofe .
+\g past drink ERG Sione NOM coffee
+\l Sione drank the coffee.
+
+\t Ne inu kofe a Sione .
+\g PAST drink coffee NOM Sione
+\l Sione drank coffee.
+
+\t ne inu kofe kono i Sione
+\g PST drink coffee bitter ABS Sione
+\l *Sione drank bitter coffee.
+

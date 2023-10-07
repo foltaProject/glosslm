@@ -1,0 +1,585 @@
+\t Yana kaza če/*deto Erik kupi kniga .
+\g Yana said DeclC/RelC Erik bought book
+\l Yana said that Erik bought a book.
+
+\t knigata deto/*če Erik ja kupi
+\g book RelC/DeclC Erik it bought
+\l the book that Erik bought
+
+\t faktat če/*deto Ivan beshe tuk
+\g fact.DEF DeclC/RelC Ivan was here
+\l the fact that Ivan was here
+
+\t sluhat če/*deto Ivan beshe tuk
+\g rumor.DEF DeclC/RelC Ivan was here
+\l the rumor that Ivan was here
+
+\t Faktat če/*deto Zemjata e kragla e interesen .
+\g fact-DEF DeclC/RelC Earth.DEF is round is interesting
+\l The fact that the Earth is round is interesting.
+
+\t Petar sazhaljava če/deto Ivan vidja Maria .
+\g Petar regrets DeclC/RelC Ivan saw Maria
+\l Petar regrets that Ivan saw Maria.
+
+\t * Koja kniga  razprostranjavaše žurnalistaȃt  malvata če senatoraȃt iska da zabrani t   ?
+\g which book spread journalist rumor that senator wanted to ban
+\l [Which book] did the journalist spread the rumor that the senator wanted to ban t?
+
+\t  ? Koj žurnalist   koja kniga  t razprostranjavaše  maȃlvata če senatoraȃt iska da zabrani t   ?
+\g which journalist which book  spread rumor that senator wanted to ban
+\l [Which journalist] t spread the rumor that the senator wanted to ban [which book]?
+
+\t Vie ste bili (standard) / bila (possible) umorena .
+\g you AUX.2.PL been-PL  / been-F.SG  tired-F.SG
+\l You (female addressee) were tired.
+
+\t Vie ste bili umorena .
+\g you AUX.2.PL been-PL tired-F.SG
+\l You (female addressee) were tired.
+
+\t Paulina e pročela knigata .
+\g Paulina.F be read-PRF.PTCP-F the.book
+\l Pauline has read the book.
+
+\t Knigata e pročetana ot Ivan .
+\g the.book be read-PASS.PTCP-F by Ivan
+\l The book is read by Ivan.
+
+\t bǎlgarskija i ruski narodi
+\g Bulgarian-SG.M-the and Russian-SG.M nation-PL
+\l the Bulgarian nation and the Russian nation
+
+\t pǎrvata i posledna stranici
+\g first-SG.F-the and last-SG.F page-PL
+\l the first page and the last page
+
+\t Studeno i e bilo .
+\g cold-N.SG she.DAT.SG AUX.3SG be.PST-N.SG
+\l She was cold.’ (literally ‘her was cold’)
+
+\t Ne by mi umrĭlŭ bratŭ .
+\g not be.COND 1SG.DAT died brother.NOM
+\l My brother would not have died on me.
+
+\t Ne by umrŭlŭ mi bratŭ .
+\g not be.COND died 1SG.DAT brother.NOM
+\l My brother would not have died.
+
+\t Znam  adresa mu  .
+\g know.1SG address.DEF 3SG.DAT.M\t Znam  mu   adresa  .
+\g know.1SG 3SG.DAT.M address.DEF
+\l I know his address.
+
+\t Tja  mu  ščupi  malkija prăst  .
+\g 3SG.F 3SG.DAT broke.3SG little.DEF finger
+\l She broke his little finger (on him).
+
+\t *Poveče turisti posetixa Sofia ot Varna .
+\g more tourists visited Sofia than.PHRASAL Varna
+\l More tourists visited Sofia than Varna.
+
+\t Poveče turisti posetixa Sofia otkolkoto Varna .
+\g more tourists visited Sofia than.CLAUSAL Varna
+\l More tourists visited Sofia than Varna.’ (Pancheva 2009: 2)
+
+\t Poseštavam Sofia počesto ot Varna .
+\g visit.1SG Sofia more-often than.PHRASAL Varna
+\l I visit Sofia more often than (I do) Varna.
+
+\t Toj pišel pismo točno sega .
+\g He written.EVID letter right now
+\l He is apparently writing a letter.
+
+\t vašite ime i familija
+\g your--DEF. name(N)[SG] and surname(F)-SG
+\l your name and surname
+
+\t tezi golemi gradove
+\g these big-PL towns
+\l these big towns
+
+\t tezi gradove golemi
+\g these towns big-PL
+\l these big towns
+
+\t momčeto
+\g boy(N)=DEF.N.SG
+\l the boy
+
+\t dobroto momče
+\g good=DEF.M.SG boy(N)
+\l the good boy
+
+\t dva stola
+\g two chair(M)-CONSTRUCT
+\l two chairs
+
+\t a mustra cugetul (pe cineva) – mustrare de cuget
+\g to chide the.conscience (on someone) – chiding by conscience
+\l to have remorse’ – ‘having remorse
+
+\t săvestta grize (nyakogo) – grizene na săvestta
+\g the.conscience gnaws (someone) – gnawing of the.conscience
+\l to have remorse’ – ‘having remorse
+
+\t svętь bô mõžъ stvorilъ ja jestь
+\g holy because man create.PART.M.SG them.ACC is.AUX
+\l Because a holy man has created them' (9th c. Bg, )
+
+\t tova se pomoli Juda bogu
+\g that.TOP REFL ask.PART.SG.M Judas God
+\l Judas asked God that.TOP'(18th c. Bg, )
+
+\t a tïa gy zlě mõčaše
+\g and she them.ACC badly tortured
+\l She tortured them badly' (17th c. Bg, )
+
+\t Včera li Penka ja e dala knigata na Petko ?
+\g yesterday Q Penka her.REFL is.AUX give.PART.F.SG book.the to Petko
+\l Was it yesterday that Penka gave the book to Petko?' (Bg, )
+
+\t deto si së javilь na mòata žena
+\g where are.AUX.2SG REFL appear.PART.SG.M to my.the wife
+\l Where you have appeared to my wife' (17th c. Bg, )
+
+\t nó sa gi zváli gotïi
+\g and are.AUX.3PL them.ACC.PL call.PART.PL Goths
+\l And they called them Goths' (18th c. Bg, )
+
+\t Az sŭm čel knigata .
+\g I am.AUX read.PART.SG.M book.the
+\l I have read the book.
+
+\t Čel sŭm knigata .
+\g read.PART.SG.M am.AUX book.the
+\l I have read the book.' (Bg)
+
+\t Gledali sa filma .
+\g watch.PART.PL are.AUX.3PL movie.the
+\l They have watched the movie.
+
+\t Gledali bjaxa filma .
+\g watch.PART.PL were.AUX.3PL movie.the
+\l They had WATCHED the movie.
+
+\t ne ostavitъ li devęti desętъ i devęti vъ pustyni
+\g NEG leaves Q nine ten and nine in wilderness
+\l Does he not leave the ninety-nine in the wilderness?' (OCS, Luke 15.4)
+
+\t sego avraamъ něstъ sъtvorilъ
+\g this Abraham NEG.is.AUX do.PART.SG.M
+\l Abraham did not do this' (OCS, John 8.40)
+
+\t ne moglъ bi tvoriti ničesože
+\g NEG can.PART.SG.M be.COND.3SG do.INF nothing
+\l He couldn’t do anything' (OCS, John 9.33, )
+
+\t Toj ritna topkata / neja .
+\g he kicked ball.F.DEF _ her.ACC
+\l He kicked the ball.' / `He kicked it.
+
+\t Toj ja ritna .
+\g he it.CL kicked
+\l He kicked it.
+
+\t Na kogo kakvo dade Ivan ?
+\g to who what gave Ivan
+\l What did Ivan give to who?
+
+\t knigata
+\g book-DEF
+\l the book
+
+\t xubavata kniga
+\g nice-DEF book
+\l the nice book
+
+\t vsjako momče
+\g every boy
+\l every boy
+
+\t vsičkite momčeta
+\g every-DET.PL boy.PL
+\l all the boys
+
+\t Filma Marija li gleda ?
+\g film Marija FOC watch
+\l As for the film, it is Marija who is watching it?
+
+\t Ivan poskoro e v ofisa otkolkoto vkušti .
+\g Ivan more-soon is in office than home
+\l According to the speaker, it is more plausible that Ivan is at work than at home.' (Bulgarian)
+
+\t Ivan bil poskoro v offisa otkolkoto vkušti .
+\g Ivan be.PST.PTCP more-soon in office than home
+\l Intended: `Apparently, it is more plausible that Ivan is in the office than at home.' (Bulgarian)
+
+\t Ivan poskoro moje da e v ofisa otkolkoto vkušti .
+\g Ivan more-soon can DA is in office than home
+\l It is more plausible that Ivan might be at work than at home.' (Bulgarian)
+
+\t Toj dojde poskoro otkolkoto očakvah .
+\g he came more-soon than expected.1SG
+\l He came sooner than I expected.'(Bulgarian)
+
+\t Ivan bil vkušti .
+\g Ivan be.PST.PTCP=EVID home
+\l Apparently, Ivan is at home.'(Bulgarian)
+
+\t Ivan bil poskoro v ofisa otkolkoto vkušti .
+\g Ivan be.PST.PTCP more-soon in office than home
+\l Intended: `Apparently, it is more plausible that Ivan is in the office than at home.'(Bulgarian)
+
+\t Ivan bil postastliv ot Maria .
+\g Ivan be-PST.PTCP=IIE more-happy from Maria
+\l Apparently, Ivan is happier than Maria.' (Bulgarian)
+
+\t Ivan bil vjarval na vsički l'ži .
+\g Ivan be.PST.PTCP=IIE believe.PFV on all lies
+\l Apparently, Ivan believes all the lies.' (Bulgarian)
+
+\t Kazvat Ivan poskoro e v offisa otkolkoto vkušti .
+\g they.say Ivan more-soon is in office than home
+\l As they say, Ivan is at work rather than at home.' (Bulgarian)
+
+\t Vidimo , Ivan poskoro moje da e v ofisa otkolkoto vkušti .
+\g apparently, Ivan more-soon can DA is in office than home
+\l It is more plausible that Ivan might be at work than at home.' (Bulgarian)
+
+\t Ivan ne šte da byde na rabota , a poskoro v kušti .
+\g Ivan not FUT DA be at work but more-soon at home
+\l Ivan will not be at work rather than at home.' (Bulgarian)
+
+\t Ivan e postroil pjasâčna kula .
+\g Ivan be-3SG.PRS build-PRF.M.SG sand castle
+\l Ivan has been building a sandcastle.
+
+\t Ivan li vleze ?
+\g Ivan LI enter.PRS.3SG
+\l Is Ivan the one who entered?' (Bulgarian; )
+
+\t Pisal / pišel săm .
+\g write.AOR.IPFV _ write.IPF.IPFV am
+\l I have written'/`I have been writing
+
+\t Napisal / napišel săm .
+\g write.AOR.PFV _ write.IPF.PFV am
+\l I have finished writing'/`I have been finishing writing
+
+\t Ivan rabotel !
+\g Ivan work.IPF.PTCP
+\l Ivan works!
+
+\t Toj rabotel !
+\g he work.IPF.PTCP
+\l He works!
+
+\t Maria pisala kniga .
+\g Maria write.AOR.PTCP.IPFV book
+\l Maria was writing a book, [I inferred].
+
+\t Maria e pisala kniga .
+\g Maria is write.AOR.PTCP.IPFV book
+\l Maria was writing a book, [I inferred].
+
+\t Maria e pišela kniga .
+\g Maria is write.IPF.PTCP.IPFV book
+\l Maria was writing a book, [I inferred].
+
+\t To ( e) stanalo veče mnogo kăsno .
+\g it _ is become.AOR.PTCP.PFV already very late
+\l It has already become very late.
+
+\t Stojan rabotel ! / # Stojan e rabotel !
+\g Stojan work.IPF.PTCP.IPFV _ _ Stojan is work.IPF.PTCP.IPFV
+\l Stojan is working!/Stojan has been working!
+
+\t Ja go viž ti , kakvo ( e) namislil starijat djavol !
+\g well he.ACC look.IMP you what _ is plotted.AOR.PTCP.PFV old.DEF devil
+\l Look what he has plotted, the old devil!
+
+\t Ne bjah prava , kogato pisah , če Košlukov ne raboti . To se okaza ošte pološo – toj rabotel .
+\g NEG was right when wrote that Košlukov NEG work.PRS it REFL turned.out more worse _ he work.IPF.PTCP
+\l I was not right when I wrote that Košlukov wasn't working. It turned out to be worse – he obviously is working.
+
+\t Misleh , če e zlato , a to ne bilo .
+\g think.1SG.IPF that be.3SG.PRS gold, but it NEG be.IPF/AOR.PTCP
+\l I thought it was gold, but it isn't.
+
+\t Misleh , če raboti , a toj ne rabotel / * rabotil .
+\g think.1SG.IPF that work.3SG.PRS but he NEG work.IPF.PTCP _ _ AOR.PTCP
+\l I thought he was working, but he isn't.
+
+\t Misleh , če e rabotel / rabotil , a toj ne *(e) rabotel / rabotil .
+\g think.1SG.IPF that be.3SG.PRS work.IPF.PTCP _ AOR.PTCP, but he NEG *(be.3SG.PRS work.IPF.PTCP _ AOR.PTCP
+\l I thought he was/has been working, but he was not/has not been working.
+
+\t Toj rabotel / * rabotil ! # Tova ne e vjarno . / # Tova se očakvaše .
+\g he work.IPF.PTCP _ _ AOR.PTCP _ this NEG is true _ _ this REFL expected
+\l He is working! This is not true./This was to be expected.
+
+\t Toj e rabotel / rabotil !
+\g he is work.IPF.PTCP _ AOR.PTCP
+\l He was/has been working!
+
+\t Toj rabotel ! Kakva iznenada ! / Tova ne e vjarno ! / Tova se očakvaše !
+\g he work.IPF.PTCP what surprise _ this NEG is true _ this REFL expected
+\l He is/was working! What a surprise!/This is not true!/This was to be expected!
+
+\t Toj rabotil ! Kakva iznenada ! / Tova ne e vjarno ! / Tova se očakvaše !
+\g he work.AOR.PTCP what surprise _ this NEG is true _ this REFL expected
+\l He worked! What a surprise!/This is not true!/This was to be expected!
+
+\t Znaja , če Petăr pušel . No ne znam dali naistina puši . / No toj văobšte ne puši .
+\g know.1SG.PRS that Petăr smoke.IPF.PTCP but NEG know if really smoke.3SG.PRS _ but he at_all NEG smoke.3SG.PRS
+\l I know that it is claimed that Petăr smokes/smoked. But I don't know if he really does./But he doesn't smoke at all.
+
+\t Ne znaeh , če Petăr pušel . Az lično njamam predstava dali puši / e pušil ili ne . / Az lično znam , če ne puši / ne e pušil .
+\g NEG know.1SG.AOR that Petăr smoke.IPF.PTCP I personally do.not.have idea if smoke.3SG.PRS _ is smoke.AOR.PTCP or NEG _ I personally know that NEG smoke.3SG.PRS _ NEG is smoke.AOR.PTCP
+\l I didn't know that Petăr supposedly smokes/smoked. I personally have no idea if he does/did or not./I personally know that he doesn't/didn't smoke.
+
+\t Ivan rabotil včera !
+\g Ivan work.AOR.PTCP yesterday
+\l Ivan worked yesterday!
+
+\t Vseki păt kogato napišel edno izrečenie , Petăr otival da puši .
+\g every time when write.IPF.PFV.PTCP one sentence Petăr go.IPF.IPFV.PTCP PTCL smoke.3SG.PRS
+\l Each time Petăr wrote a sentence he went to smoke, it is said.
+
+\t Maria *( e) napisala kniga !
+\g Maria _ is write.AOR.PFV.PTCP book
+\l Maria has written a book!
+
+\t Ti ču li ? Maria napisala kniga !
+\g you hear.AOR.2SG Q Maria write.AOR.PFV.PTCP book
+\l Did you hear? Maria has written a book, they say!
+
+\t Znači toj si izmisljal !
+\g mean.3SG.PRS he REFL make.up.IPF.PFV.PTCP
+\l So he is making up things!
+
+\t Kogato vljazox , Niksăn trieše njakakvi zapisi . Toj zaličaval ulikite .
+\g when enter-PAST Nixon erase-PAST some-PL tape-PL. he remove-EV clue-PL-DEF
+\l When I walked in, I saw Nixon erase some tapes. He was covering up the clues, as I learned later.
+
+\t tija novite koli
+\g these new.DEF cars
+\l these new cars'(Bulgarian)
+
+\t   toja otvratitelnija navik kojto imaš da pljunčiš prăsta si  …
+\g _ that disgusting.DEF habit which have.2SG to spit.2SG finger REFL …
+\l that disgusting habit you have of licking your finger' (makes me not want to touch your books)(Bulgarian; social media)
+
+\t Ej ,   tezi našite prijateli  napravo ni ostavixa bez dumi .
+\g wow _ those our.DEF friends straight us left.3PL without words
+\l Wow, those friends of ours simply left us speechless.' (they served such great food)(social media)
+
+\t Drazni me samoto prisăstvie na Ivan .
+\g bothers me mere.DEF presence of Ivan
+\l Ivan's mere presence annoys me.
+
+\t Drazni me tova samo prisăstvie na Ivan .
+\g bothers me that mere presence of Ivan
+\l intended: `That mere presence of Ivan annoys me.'(Bulgarian)
+
+\t Ima knigite v bibliotekata .
+\g there's books.DEF in library.DEF
+\l intended: `There's the books in the library.
+
+\t Ima tezi knigi v bibliotekata .
+\g there's these books in library.DEF
+\l There's these books in the library.' (Bulgarian)
+
+\t tija tvoite hubavi(te) rokli
+\g these your.DEF pretty.DEF dresses
+\l those pretty dresses of yours’ (Bulgarian)
+
+\t tvoite hubavi(*te) rokli
+\g your.DEF pretty.DEF dresses
+\l your pretty dresses’ (Bulgarian)
+
+\t taja tetradkata
+\g that notebook.DEF
+\l intended: `that notebook' (Bulgarian)
+
+\t Daj mi taja , tetradkata !
+\g give me that notebook.DEF
+\l Give me that one, the notebook!
+
+\t Daj mi tova , tetradkata !
+\g give me that.N.SG notebook.DEF
+\l Give me that (thing), the notebook!' (Bulgarian)
+
+\t tvojata starata kola
+\g your.DEF old.DEF car
+\l intended: `your old car' (Bulgarian)
+
+\t Da vzemem tvojata , starata kola !
+\g to take.1PL your.DEF old.DEF car
+\l Let's take yours, the old car!' (Bulgarian)
+
+\t taja novata kăšta
+\g this new.DEF house
+\l this new house’ (only possible order) (Bulgarian)
+
+\t kăštata , taja novata
+\g house.DEF this new.DEF
+\l the house, this new one' (Bulgarian)
+
+\t mebelite , porăčanite
+\g furnishings.DEF ordered.DEF
+\l the furniture, the (stuff that was) ordered’ (Bulgarian)
+
+\t našite tri beli koli
+\g our.DEF three white cars
+\l our three white cars’ (Bulgarian)
+
+\t mnogo gordija ot bašta si sin
+\g very proud.DEF of father REFL son
+\l the son who is very proud of his father’ (Bulgarian)
+
+\t tija knigite
+\g these books.DEF
+\l these books' (Bulgarian)
+
+\t tijate knigi
+\g these.DEF books
+\l (Bulgarian)
+
+\t Tazi nejnata torta e straxotna !
+\g this her.DEF cake is awesome
+\l That cake of hers is awesome!’ (Bulgarian)
+
+\t onija četirimata šašavi razbojnici
+\g those four.DEF foolish robbers
+\l 'those four foolish robbers' (Bulgarian; Roman Dimitrov Decata na Perun)
+
+\t taja tvojata / interesnata kniga(*ta)
+\g this your.DEF _ interesting.DEF book.DEF
+\l this book of yours / this interesting book' (Bulgarian)
+
+\t moite knigi / tija moite knigi
+\g my.DEF books _ these my.DEF books
+\l my books / these books of mine' (Bulgarian)
+
+\t tija novite mi knigi
+\g these new.DEF my books
+\l these new books of mine’ (Bulgarian)
+
+\t Ivan pi vino .
+\g Ivan drank.IPFV wine.ACC
+\l Ivan drank / was drinking wine.
+
+\t Ivan izpi vino*(to) .
+\g Ivan drank.PFV wine.ACC-DEF
+\l Ivan drank the wine.'(Bulgarian; )
+
+\t Vasja s”el jabloki .
+\g Vasja ate.PFV apples.ACC
+\l Vasja ate the apples.
+
+\t Vasja el jabloki .
+\g Vasja ate.IPFV apples.ACC
+\l Vasja ate / was eating (the) apples.
+
+\t Vasja s”el jablok .
+\g Vasja ate.PFV apples.GEN
+\l Vasja ate some apples.
+
+\t Ne mu se speše samo na Ivan .
+\g not him.CL.DAT REFL slept only to Ivan
+\l Only Ivan didn't feel like sleeping.
+
+\t Poznavam go tova čuvstvo .
+\g know.1SG it.CL.ACC this sentiment
+\l I know this sentiment.
+
+\t Tja i bez tova ne moga da ja nakaram da jade .
+\g she.NOM and without that not can.1SG COMP her.CL.ACC make.1SG to eat.3SG
+\l Her, anyway, I cannot make her eat.’ (Bulgarian)
+
+\t Na Maria njama da ì piša az .
+\g To Maria NEG.will to her.CL.ACC write.1SG I
+\l To Maria I will not write.
+
+\t Mene me je jat .
+\g me.ACC me.CL.ACC is anger
+\l I am angry.
+
+\t Na Marinu gu se spije .
+\g to Marina.DAT her.CL.DAT REFL sleep.3SG
+\l Marina is sleepy.
+
+\t Vera mi go dade .
+\g Vera me.CL.DAT it.CL.ACC gave.3SG
+\l Vera gave it to me.
+
+\t Koj kakvo ti e kazal ?
+\g who what you.CL.DAT AUX told
+\l Who told you that?
+
+\t Milovana ga poznavam .
+\g Milovan him.CL.ACC know.1SG
+\l I know Milovan.
+
+\t Ga poznavam Milovana .
+\g him.CL.ACC know.1SG Milovan
+\l Intended: `I know Milovan.
+
+\t Odamna ga upozna Milovana .
+\g long.time.ago him.CL.ACC met.1SG Milovan
+\l I met Milovan a long time ago.
+
+\t Odamna ga Milovana upozna .
+\g long.time.ago him.CL.ACC Milovan met.1SG
+\l I met Milovan a long time ago.
+
+\t Milovana ga upozna odamna .
+\g Milovan him.CL.ACC met.1SG long.time.ago
+\l I met Milovan a long time ago.
+
+\t Ivan pi vino .
+\g Ivan drank.IPFV wine.ACC
+\l Ivan drank/was drinking wine.
+
+\t Ivan izpi vino*(to) .
+\g Ivan drank.PFV wine.ACC-the
+\l Ivan drank the wine.
+
+\t Petja razdelil ljudej na dobryx i zlyx .
+\g Petja divided.PFV people.ACC in kind.ACC and mean.ACC
+\l Petja divided people into kind ones and mean ones.
+
+\t Maria pee .
+\g Maria sing.3SG.PRS
+\l Maria sings.
+
+\t Maria ne pee .
+\g Maria NEG sing.3SG.PRS
+\l Maria does not sing.
+
+\t Ima divi kotki
+\g have.3SG.PRS wild-PL cat-PL
+\l There are wild cats.
+
+\t Njama divi kotki .
+\g not.have.3SG.PRS wild-PL cat-PL
+\l There aren't any wild cats.
+
+\t Dovečera shte xodja na kino .
+\g tonight FUT go.1SG.PRS to cinema
+\l I will go to the movies tonight.
+
+\t Dovečera njama da xodja na kino .
+\g tonight not.have.3SG.PRS sub go.1SG.PRS to cinema
+\l I will not go to the movies tonight.
+
+\t Njama da xodja na kino .
+\g not.have.3SG.PRS to go-1SG.PRS to movies
+\l I will not go to the movies.
+
+\t  vernijat (na žena si)  măž
+\g faithful-DEF to wife his.REFL husband
+\l a husband faithful to his wife
+

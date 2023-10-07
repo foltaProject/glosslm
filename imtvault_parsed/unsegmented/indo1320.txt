@@ -1,0 +1,16 @@
+\t tumi take cenô .
+\g 2SG 3SG.OBJ know.2.PR.S
+\l You know him.
+
+\t tumi ki take cenô .
+\g 2SG Q 3SG.OBJ know.2.PR.S
+\l Do you know him?
+
+\t Tiberium quidem Gracchum
+\g Tiberius.ACC.SG.M indeed Gracchus.ACC.SG.M
+\l indeed, Tiberius Gracchus' (Cicero, Laelius de Amicitia 37)
+
+\t tam pol id quidem
+\g so by.Pollux he.NOM.SG.N indeed
+\l indeed, it [is] so' (Plautus, Bacchides 1194)
+
