@@ -1,0 +1,35 @@
+\t kogosein tuumali?
+\m ko-gosein tuu-mali?
+\g  2SG-do.what.to:REALIS brother-2SG:MASCULINE
+\l What have you done to your brother?
+
+\t amu           vinin              vuas
+\m amu           vinin              vuas
+\g 3pl-REAL-hit kill-comm/obj       pig
+\l They killed the pig
+
+\t kogosein tuumali?
+\m ko-gosein tuu-mali?
+\g  2SG-do.what.to:REALIS brother-2SG:MASCULINE
+\l What have you done to your brother?
+
+\t (5 3 0 )    inau nuas vuas hemat.
+\m (5 3 0 )    inau n-uas vuas he-mat.
+\g             1s 1s:dist.fut-hit pig 3s:dist.fut-die
+\l I will hit the pig to death.
+
+\t (5 3 1 )    isal vinin vuas.
+\m (5 3 1 )    i-sal vini-n vuas.
+\g             3p:dist.fut-spear kill-obj pig
+\l They will spear the pig to death.
+
+\t iire     reheso oni            vakilii rehehaa
+\m iire     rehe-so oni            vakilii rehe-haa
+\g 1Pl.Incl 1Pl.Incl-Distant.Throw cano e 1Pl.Incl-Distant.Go
+\l We will go, putting (throwing) our cano e to sea.
+
+\t inau       nasaani        ratioo    minie
+\m inau       na-saani        ratioo    mini-e
+\g 1SG        1SG.REAL-give radio       PUNCT.DAT-3SG
+\l I gave him my radio
+

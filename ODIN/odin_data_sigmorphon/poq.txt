@@ -1,0 +1,80 @@
+\t ma?       kdök
+\m ma?       k-dök
+\g PERF 1p-go
+\l I went.
+
+\t u       jdök
+\m u       j-dök
+\g IMPF 2p-go
+\l You are going.
+
+\t hEpE? Øka?p(ES)
+\m hEpE? Ø-ka?-p(ES)
+\g he    3p-die-FUT
+\l he will die
+
+\t hEpE? ma? Øka?
+\m hEpE? ma? Ø-ka?
+\g he PERF 3p-die
+\l He died
+
+\t hEpE?      ?u? jka?
+\m hEpE?      ?u? j-ka?
+\g he       IMPF 3p-die
+\l He is    dying
+
+\t u        jkEt
+\m u        j-kEt
+\g IMPF      3-fall
+\l She is   falling
+
+\t u?ba?j ?anhöùtS
+\m u?-ba?j ?anhöùtS
+\g PERF 1/3-sell tamale
+\l I sell tamales.
+
+\t ma?          jhatstSi?        (?ötsö?)
+\m ma?          j-hatstSi?        (?ötsö?)
+\g PERF 2p/3p-lend                 (me)
+\l You lent it to me
+
+\t ma?          jhats.tSi?
+\m ma?          j-hats.tSi?
+\g PERF 2p/3p-lend
+\l You lent it.
+
+\t ma?wEù?k (kuj)
+\m ma?-wEù?k (kuj)
+\g PERF 1ERG-split (the.wood)
+\l I have split it (the wood).
+
+\t ma?         tawEù?k            (kuj)
+\m ma?         ta-wEù?k            (kuj)
+\g PERF 1inERG-split              (the.wood)
+\l We have split it (the wood).
+
+\t ma?             jwEù?k      (kuj)
+\m ma?             j-wEù?k      (kuj)
+\g PERF     2ERG-split        (the.wood)
+\l You have split it (the wood).
+
+\t ma?       jwEù?k
+\m ma?       j-wEù?k
+\g PERF      3ERG-split
+\l She has split it (the wood).
+
+\t ma?         kwEù?k
+\m ma?         k-wEù?k
+\g PERF        1ABS-split
+\l It split   me apart.
+
+\t ma?         tewEù?k
+\m ma?         te-wEù?k
+\g PERF        1inABS-split
+\l It split    us apart.
+
+\t ma?         kjwEù?k
+\m ma?         kj--wEù?k
+\g PERF        2ABS-split
+\l It split   you apart.
+

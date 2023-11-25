@@ -1,0 +1,1010 @@
+\t Devojka je                    oborila       drvo.
+\m Devojk-a je                    oborila       drv-o.
+\g girl-NOM AUX.3.SG.PRES chop.PPT.F.SG         tree-ACC
+\l The girl chopped the tree.
+
+\t Devojka bi                    oborila       drvo.
+\m Devojk-a bi                    oborila       drv-o.
+\g girl-NOM AUX.3.SG.AOR chop.PPT.F.SG          tree-ACC
+\l The girl would chop the tree.
+
+\t Devojka u                     oboriti drvo.
+\m Devojk-a u                     oboriti drv-o.
+\g girl-NOM AUX.3.SG.PRES chop.INF tree-ACC
+\l The girl will chop the tree.
+
+\t Devojka ga              obori.
+\m Devojk-a ga              obori.
+\g girl-NOM DO.3.SG.N chop.3.SG.PRES
+\l The girl is chopping it.
+
+\t Devojka mi          je          dala                      knjigu.
+\m Devojk-a mi          je          dala                      knjig-u.
+\g girl-NOM IO.1.SG AUX.3.SG.PRES give.PPT.F.SG   book-ACC
+\l The girl gave me the book.
+
+\t Marija mu             je                      da.
+\m Marija mu             je                      da.
+\g Marija IO.3.SG.M DO.3.SG.F    give.3.SG.PRES
+\l Marija is giving it to him.
+
+\t Jovan     mi       ih        je                     dao.
+\m Jovan     mi       ih        je                     dao.
+\g Jovan     IO.1.SG DO.3.PL AUX.3.SG.PRES             give.PASTP.M.SG
+\l Jovan   gave them to me.
+
+\t Dala          mu          je               knjigu.
+\m Dala          mu          je               knjigu.
+\g give.PPT.F.SG IO.3.SG.M AUX.3.SG.PRES book
+\l She gave him a book.
+
+\t Dala          sam/si                 mu          knjigu.
+\m Dala          sam/si                 mu          knjigu.
+\g give.PPT.F.SG AUX.1.SG/2.SG.PRES     IO.3.SG.M book
+\l I/you.SG/we/you.PL/they gave him a book.
+
+\t U Beogradu ju/*je         je                       Marija kupila
+\m U Beogradu ju/*je         je                       Marija kupila
+\g In Beograd DO.3.SG.F AUX.3.SG.PRES        Marija buy.PPT.F.  SG
+\l Marija bought it in Beograd.
+
+\t Marija     mu           je            da.
+\m Marija     mu           je            da.
+\g Marija     IO.3.SG.M DO.3.SG.F   give.3.SG.PRES
+\l Marija   is giving it to him.
+
+\t Jovan je               citao            knjigu.
+\m Jovan je               citao            knjigu.
+\g Jovan AUX.3.SG.PRES read.PPT.M.SG   book
+\l Jovan read the book.
+
+\t Marija je                kupila       knjigu.
+\m Marija je                kupila       knjigu.
+\g Marija AUX.3.SG.PRES buy.PPT.F.SG book
+\l Marija bought a book.
+
+\t Sta    je              Marija kupila?
+\m Sta    je              Marija kupila?
+\g what AUX.3.SG.PRES Marija buy.PPT.F.SG
+\l What did Marija buy?
+
+\t U Beogradu ju             je                    Marija kupila
+\m U Beogradu ju             je                    Marija kupila
+\g In Beograd DO.3.SG.F AUX.3.SG.PRES      Marija buy.PPT.F. SG
+\l Marija bought it in Beograd.
+
+\t Mladi je                covek        citao             knjigu.
+\m Mladi je                covek        citao             knjigu.
+\g young AUX.3.SG.PRES man              read.PPT.M.SG   book
+\l The young man read a book.
+
+\t Devojka je                  oborila                         drvo.
+\m Devojk-a je                  oborila                         drv-o.
+\g girl-NOM AUX.3.SG.PRES chop.PPT.F.SG      tree-ACC
+\l The girl chopped the tree.
+
+\t Devojka ga              obori.
+\m Devojk-a ga              obori.
+\g girl-NOM DO.3.SG.N chop.3.SG.PRES
+\l The girl is chopping it.
+
+\t Devojka ga            je                              oborila.
+\m Devojk-a ga            je                              oborila.
+\g girl-NOM DO.3.SG.N AUX.3.SG.PRES   chop.PPT.F.SG
+\l The girl chopped it.
+
+\t Mladi je                covek              citao           knjigu.
+\m Mladi je                covek              citao           knjigu.
+\g young AUX.3.SG.PRES man                    read.PPT.M.SG   book
+\l The young man read a book.
+
+\t Oborila           ga                      j e.
+\m Oborila           ga                      j e.
+\g chop.PPT.F.SG     DO.3.SG.N        AUX.3.SG.PRES
+\l She chopped it.
+
+\t Jucer      ga             je                          oborila.
+\m Jucer      ga             je                          oborila.
+\g Yesterday DO.3.SG.N       AUX.3.SG.PRES    chop.PPT.F.SG
+\l Yesterday she chopped it.
+
+\t ova     dva coveka su dobra/dobri
+\m ov-a     dva covek-a su dobr-a/dobr-i
+\g these-PL.NEUT two man-SG.GEN          are good-PL.NEUT/good-PL.MASC
+\l these two men are good
+
+\t dva coveka koja/koji ...
+\m dva covek-a koj-a/koj-i ...
+\g two men-SG.GEN       who-PL.NEUT/who-PL.MASC...
+\l two men who ...
+
+\t Milan    nikada *(ne) vozi.
+\m Milan    nikada *(ne) vozi.
+\g Milan    n-when not drive.3sg
+\l Milan   never drives.
+
+\t Milan ne tvrdi [da Marija poznaje {*ni(t)koga/i(t)koga}].
+\m Milan ne tvrdi [da Marija poznaje {*ni(t)koga/i(t)koga}].
+\g Milan not claim.3sg that Maria know.3sg n-person
+\l Milan does not claim that Mary knows anybody.
+
+\t Ne zelim da vidim {ni(t)koga/i(t)koga}.
+\m Ne zelim da vidim {ni(t)koga/i(t)koga}.
+\g not wish.1sg that see.1sg n-person
+\l I do not wish to see anybody.
+
+\t Najbolje             se             slazem              s'        pomladutu            S              mi                  erku.       
+\m Najbolje             se             slazem              s'        pomladutu            S              mi                  erku.       
+\g best                 Impers.Acc.Cl agree.1Sg            with      younger+the.F.Sg.Acc               1Sg.Dat.Cl           daughter.Acc
+\l I agree best with   my younger daughter.
+
+\t Nesm               (ga)        videl            ovcara(toga).
+\m Nesm               (ga)        videl            ovcara(toga).
+\g not+ am.Aux.Cl 3Sg.M.Cl.Acc.Cl seen.M.Sg.l-Part shepherd+the.M.Sg.Acc
+\l I haven't seen the shepherd.
+
+\t Dala              s m                 (mu)             cvee              na      sefa/                  edno dete.
+\m Dala              s m                 (mu)             cvee              na      sefa/                  edno dete.
+\g given.F.Sg.l-Part am.Aux.Cl           3Sg.M.Dat.Cl     flowers           to      chief.Acc/             a child   
+\l I gave the flowers to the chief/a child. 
+
+\t Devojka je                    oborila       drvo.
+\m Devojk-a je                    oborila       drv-o.
+\g girl-NOM AUX.3.SG.PRES chop.PPT.F.SG         tree-ACC
+\l The girl chopped the tree.
+
+\t Devojka bi                    oborila       drvo.
+\m Devojk-a bi                    oborila       drv-o.
+\g girl-NOM AUX.3.SG.AOR chop.PPT.F.SG          tree-ACC
+\l The girl would chop the tree.
+
+\t Devojka u                     oboriti drvo.
+\m Devojk-a u                     oboriti drv-o.
+\g girl-NOM AUX.3.SG.PRES chop.INF tree-ACC
+\l The girl will chop the tree.
+
+\t Devojka ga              obori.
+\m Devojk-a ga              obori.
+\g girl-NOM DO.3.SG.N chop.3.SG.PRES
+\l The girl is chopping it.
+
+\t Devojka mi          je          dala                      knjigu.
+\m Devojk-a mi          je          dala                      knjig-u.
+\g girl-NOM IO.1.SG AUX.3.SG.PRES give.PPT.F.SG   book-ACC
+\l The girl gave me the book.
+
+\t Marija mu             je                      da.
+\m Marija mu             je                      da.
+\g Marija IO.3.SG.M DO.3.SG.F    give.3.SG.PRES
+\l Marija is giving it to him.
+
+\t Jovan     mi       ih        je                     dao.
+\m Jovan     mi       ih        je                     dao.
+\g Jovan     IO.1.SG DO.3.PL AUX.3.SG.PRES             give.PASTP.M.SG
+\l Jovan   gave them to me.
+
+\t Dala          mu          je               knjigu.
+\m Dala          mu          je               knjigu.
+\g give.PPT.F.SG IO.3.SG.M AUX.3.SG.PRES book
+\l She gave him a book.
+
+\t Dala          sam/si                 mu          knjigu.
+\m Dala          sam/si                 mu          knjigu.
+\g give.PPT.F.SG AUX.1.SG/2.SG.PRES     IO.3.SG.M book
+\l I/you.SG/we/you.PL/they gave him a book.
+
+\t U Beogradu ju/*je         je                       Marija kupila
+\m U Beogradu ju/*je         je                       Marija kupila
+\g In Beograd DO.3.SG.F AUX.3.SG.PRES        Marija buy.PPT.F.  SG
+\l Marija bought it in Beograd.
+
+\t Marija     mu           je            da.
+\m Marija     mu           je            da.
+\g Marija     IO.3.SG.M DO.3.SG.F   give.3.SG.PRES
+\l Marija   is giving it to him.
+
+\t Jovan je               citao            knjigu.
+\m Jovan je               citao            knjigu.
+\g Jovan AUX.3.SG.PRES read.PPT.M.SG   book
+\l Jovan read the book.
+
+\t Marija je                kupila       knjigu.
+\m Marija je                kupila       knjigu.
+\g Marija AUX.3.SG.PRES buy.PPT.F.SG book
+\l Marija bought a book.
+
+\t Sta    je              Marija kupila?
+\m Sta    je              Marija kupila?
+\g what AUX.3.SG.PRES Marija buy.PPT.F.SG
+\l What did Marija buy?
+
+\t U Beogradu ju             je                    Marija kupila
+\m U Beogradu ju             je                    Marija kupila
+\g In Beograd DO.3.SG.F AUX.3.SG.PRES      Marija buy.PPT.F. SG
+\l Marija bought it in Beograd.
+
+\t Mladi je                covek        citao             knjigu.
+\m Mladi je                covek        citao             knjigu.
+\g young AUX.3.SG.PRES man              read.PPT.M.SG   book
+\l The young man read a book.
+
+\t Devojka je                  oborila                         drvo.
+\m Devojk-a je                  oborila                         drv-o.
+\g girl-NOM AUX.3.SG.PRES chop.PPT.F.SG      tree-ACC
+\l The girl chopped the tree.
+
+\t Devojka ga              obori.
+\m Devojk-a ga              obori.
+\g girl-NOM DO.3.SG.N chop.3.SG.PRES
+\l The girl is chopping it.
+
+\t Devojka ga            je                               oborila.
+\m Devojk-a ga            je                               oborila.
+\g girl-NOM DO.3.SG.N AUX.3.SG.PRES    chop.PPT.F.SG
+\l The girl chopped it.
+
+\t Mladi je                covek              citao           knjigu.
+\m Mladi je                covek              citao           knjigu.
+\g young AUX.3.SG.PRES man                    read.PPT.M.SG   book
+\l The young man read a book.
+
+\t Oborila           ga                      j e.
+\m Oborila           ga                      j e.
+\g chop.PPT.F.SG     DO.3.SG.N        AUX.3.SG.PRES
+\l She chopped it.
+
+\t Jucer      ga             je                           oborila.
+\m Jucer      ga             je                           oborila.
+\g Yesterday DO.3.SG.N       AUX.3.SG.PRES     chop.PPT.F.SG
+\l Yesterday she chopped it.
+
+\t  mi                  erku.
+\m  mi                  erku.
+\g 1Sg.Dat.Cl           daughter.Acc
+\l I agree best with   my younger daughter.
+
+\t Nesm               (ga)        videl            ovcara(toga).
+\m Nesm               (ga)        videl            ovcara(toga).
+\g not+ am.Aux.Cl 3Sg.M.Cl.Acc.Cl seen.M.Sg.l-Part shepherd+the.M.Sg.Acc
+\l I haven't seen the shepherd.
+
+\t Dala              s m                 (mu)             cvee              na      sefa/                  edno dete.
+\m Dala              s m                 (mu)             cvee              na      sefa/                  edno dete.
+\g given.F.Sg.l-Part am.Aux.Cl           3Sg.M.Dat.Cl     flowers           to      chief.Acc/             a child   
+\l I gave the flowers to the chief/a child. 
+
+\t kamenorezac
+\m kamen-o-rez-ac
+\g stone-AGR-carve-AGENT
+\l stone carver
+
+\t Koliko     su otpustili radnika?
+\m Koliko     su otpustili radnika?
+\g   how.many aux fired    workers
+\l How many workers did they fire?
+
+\t Koju su zatvorili fabriku?
+\m Koju su zatvorili fabriku?
+\g which aux closed factory
+\l Which factory did they close?
+
+\t Koliko    radnika su otpustili?
+\m Koliko    radnika su otpustili?
+\g how.many workers aux fired
+\l How many workers did they fire?
+
+\t Koju fabriku su zatvorili?
+\m Koju fabriku su zatvorili?
+\g which factory aux.closed
+\l Which factory did they close?
+
+\t sve        knjige
+\m sve        knjige
+\g all-N.F.Pl books-N.F.Pl
+\l all books
+
+\t ova         knjiga
+\m ova         knjiga
+\g this-N.F.Sg book-N.F.Sg
+\l this book
+
+\t Jovanova        knjiga
+\m Jovanova        knjiga
+\g Jovan's-N.F.Sg book-N.F.Sg
+\l Jovan's book
+
+\t stara       knjiga
+\m stara       knjiga
+\g old-N.F.Sg book-N.F.Sg
+\l old book
+
+\t sve         ove         Jovanove       stare      knjige
+\m sve         ove         Jovanove       stare      knjige
+\g all-N.F.Pl these-N.F.Pl Jovan's-N.F.Pl old-N.F.Pl books-N.F.Pl
+\l all of these old books of Jovan's
+
+\t mnogo      starih knjiga
+\m mnogo      starih knjiga
+\g many-G.Pl old-G.Pl books-G.Pl
+\l many old books
+
+\t ovih       nekoliko      slika
+\m ovih       nekoliko      slika
+\g these-G.Pl several-G.PL pictures-G.Pl
+\l these several pictures
+
+\t Petrovi    oni      gosti
+\m Petrovi    oni      gosti
+\g  Peter's    those    guests
+\l Peter's    those   guests
+
+\t dosadni     oni     gosti
+\m dosadni     oni     gosti
+\g  boring      those   guests
+\l boring    those    guests
+
+\t njegov jedan/neki clanak
+\m njegov jedan/neki clanak
+\g  his     one/some article
+\l his a/some article
+
+\t dosadni Petrovi gosti
+\m dosadni Petrovi gosti
+\g boring Peter's friends
+\l Peter's boring friends
+
+\t Prodao je nekoliko ovih knjiga.
+\m Prodao je nekoliko ovih knjiga.
+\g sold aux several these books
+\l He sold several of these books
+
+\t Prodao je ovih nekoliko knjiga
+\m Prodao je ovih nekoliko knjiga
+\g Sold aux these several books
+\l He sold these several books.
+
+\t Cijeg je on gosta istukao?
+\m Cijeg je on gosta istukao?
+\g whose aux.he guest beaten
+\l Whose has he beaten up guest?
+
+\t I samu Mariju to nervira.
+\m I samu Mariju to nervira.
+\g and alone Mary that irritates
+\l That irritates even Mary.
+
+\t I nju/mene samu to nervira.
+\m I nju/mene samu to nervira.
+\g   and her/me alone that irritates
+\l That irritates even her/me.
+
+\t Jovanovo saslusavanje je trajalo satima.
+\m Jovanovo saslusavanje je trajalo satima.
+\g Jovan's interrogation aux.lasted hours
+\l The interrogation of/by Jovan lasted for hours.
+
+\t Jovanovo saslusavanje osumnjicenih je trajalo satima.
+\m Jovanovo saslusavanje osumnjicenih je trajalo satima.
+\g Jovan's interrogation suspects         aux lasted hours
+\l Jovan's interrogation of the suspects lasted for hours.
+
+\t ovaj njegov brbljivi sused
+\m ovaj njegov brbljivi sused
+\g this his      talkative neighbour
+\l this talkative neighbour of his
+
+\t Koliko   su otpustili radnika?
+\m Koliko   su otpustili radnika?
+\g how.many aux fired    workers
+\l How many workers did they fire?
+
+\t Koju su zatvorili fabriku?
+\m Koju su zatvorili fabriku?
+\g which aux closed factory
+\l Which factory did they close?
+
+\t Ciju su objavili knjigu?
+\m Ciju su objavili knjigu?
+\g whose aux.published book
+\l Whose book did they publish?
+
+\t Kakav     su kupili stan?
+\m Kakav     su kupili stan?
+\g what.kind aux bought flat
+\l What kind of flat did they buy?
+
+\t Koji si cuo da je auto slupao?
+\m Koji si cuo da je auto slupao?
+\g which aux heard that aux car crashed
+\l Which car did you hear he crashed?
+
+\t Koliko   mislis da je piva popio?
+\m Koliko   mislis da je piva popio?
+\g how.much think that aux beer drunk
+\l How much beer do you think he drank?
+
+\t Ciji je      Marko auto slupao?
+\m Ciji je      Marko auto slupao?
+\g whose aux-cl Marko car crashed
+\l Whose car did Marko crash?
+
+\t Koji mislis da ce?kandidat pobediti na izborima.
+\m Koji mislis da ce?kandidat pobediti na izborima.
+\g which think that will candidate win     at elections
+\l Which candidate do you think will win the elections.
+
+\t Koliko   mislis da je stiglo pisama?
+\m Koliko   mislis da je stiglo pisama?
+\g how.many think that aux arrived letters
+\l How many letters do you think have arrived?
+
+\t Cije mislis da su knjige objavljene?
+\m Cije mislis da su knjige objavljene?
+\g whose think that aux books published
+\l Whose books do you think were published?
+
+\t Koju su oni fabriku zatvorili?
+\m Koju su oni fabriku zatvorili?
+\g which aux they factory closed
+\l Which factory did they close?
+
+\t Ciju je on knjigu preveo?
+\m Ciju je on knjigu preveo?
+\g whose aux he book translated
+\l Whose book did he translate?
+
+\t On je pozajmio knjigu ovog studenta.
+\m On je pozajmio knjigu ovog studenta.
+\g he aux borrowed book this student
+\l He borrowed a book of this student.
+
+\t Kojeg je on pozajmio [knjigu studenta]?
+\m Kojeg je on pozajmio [knjigu studenta]?
+\g  which aux he borrowed book student
+\l Of which did he borrow a book student.
+
+\t On je izgubio adresu njihove sestre.
+\m On je izgubio adresu njihove sestre.
+\g he aux lost     address their sister
+\l He lost the address of their sister.
+
+\t Cije je on izgubio [adresu sestre]?
+\m Cije je on izgubio [adresu sestre]?
+\g  whose aux he lost     address sister
+\l Of whose did he lose address sister?
+
+\t Jovan je trcao prema velikoj kuci. ?
+\m Jovan je trcao prema velikoj kuci. ?
+\g Jovan aux ran towards big        house
+\l Jovan ran towards a big house.
+
+\t Sa kojim je Natasa profesorom razgovarala?
+\m Sa kojim je Natasa profesorom razgovarala?
+\g with which aux Natasa professor talked
+\l Which professor did Natasa talk to?
+
+\t On je usao pravo u veliku sobu.
+\m On je usao pravo u veliku sobu.
+\g he aux entered straight into big room
+\l He went straight into the big room.
+
+\t a. *[Kojih partija]Gen je on verovao voama              ?
+\m a. *[Kojih partija]Gen je on verovao voama              ?
+\g     which parties      aux he trust    leaders   D at
+\l Leaders of which parties did he trust?
+
+\t [Kojih studenata]Gen se ponosio radovimaI       nstr
+\m [Kojih studenata]Gen se ponosio radovimaI       nstr
+\g  which students       aux proud.of papers
+\l Papers by which students was he proud of?
+
+\t [Kojih ljudi]Gen se plasio optuzbiGen ?
+\m [Kojih ljudi]Gen se plasio optuzbiGen ?
+\g  which people aux be.afraid accusations
+\l Accusations by which people was he afraid of?
+
+\t [Ovog studenta]Gen sam pronasla knjiguAcc ?
+\m [Ovog studenta]Gen sam pronasla knjiguAcc ?
+\g  this student          aux found book
+\l Of this student, I found a book?
+
+\t KogaGen si pronasla knjiguAcc ?
+\m KogaGen si pronasla knjiguAcc ?
+\g  who     aux found book
+\l Of whom did you find a book.
+
+\t (?)? [Kojih studenata]Gen podrzavas protestAcc ?
+\m (?)? [Kojih studenata]Gen podrzavas protestAcc ?
+\g      which students       support protest
+\l Which students do you support a protest of?
+
+\t (?)? [Cije majke]Gen je on video prijatelja           ?
+\m (?)? [Cije majke]Gen je on video prijatelja           ?
+\g      whose mother    aux he seen friend        Ac c
+\l Whose mother did he see a friend of?
+
+\t             
+\m             
+\g what    feel lack
+\l What do you feel a lack of?
+
+\t O     kome su oni objavili clanak?
+\m O     kome su oni objavili clanak?
+\g about whom aux they published article
+\l Who did they publish an article about?
+
+\t Na koju zemlju oni planiraju napad?
+\m Na koju zemlju oni planiraju napad?
+\g on which country they plan       attack
+\l Which country are they planning an attack on?
+
+\t O      kome su oni objavili ovaj clanak?
+\m O      kome su oni objavili ovaj clanak?
+\g   about whom aux they published this article
+\l Who did they publish this article about?
+
+\t CegaGen si prodao kolekciju?
+\m CegaGen si prodao kolekciju?
+\g   what    aux sold collection
+\l What did you sell a collection of?
+
+\t KakvihGen se on ljudiGen plasi?
+\m KakvihGen se on ljudiGen plasi?
+\g what.kind refl he people be.afraid
+\l What kind of people is he afraid of?
+
+\t [Kojih ljudi]Gen se plasio optuzbiGen ?
+\m [Kojih ljudi]Gen se plasio optuzbiGen ?
+\g  which people aux be.afraid accusations
+\l Accusations by which people was he afraid of?
+
+\t KojimDat on politicarimaDat veruje?
+\m KojimDat on politicarimaDat veruje?
+\g which he politicians         trust
+\l Which politicians does he trust?
+
+\t [Kojih partija]Gen je on verovao voama              ?
+\m [Kojih partija]Gen je on verovao voama              ?
+\g  which parties      aux he trust    leaders   D at
+\l Leaders of which parties did he trust?
+
+\t (?)? [Kojih studenata]Gen podrzavas protestAcc ?
+\m (?)? [Kojih studenata]Gen podrzavas protestAcc ?
+\g      which students       support protest
+\l Which students do you support a protest of?
+
+\t (?)? [Cije majke]Gen je on video prijatelja          ?
+\m (?)? [Cije majke]Gen je on video prijatelja          ?
+\g      whose mother    aux he seen friend       Ac c
+\l Whose mother did he see a friend of?
+
+\t             
+\m             
+\g what    feel lack
+\l What do you feel a lack of?
+
+\t Markov ga je sin udario.
+\m Markov ga je sin udario.
+\g Marko's him aux son punched
+\l It was Marko's son that punched him.
+
+\t Koji mislis da ce?kandidat pobediti?
+\m Koji mislis da ce?kandidat pobediti?
+\g which think that will candidate win
+\l Which candidate do you think will win.
+
+\t U veliku je Jovan usao sobu.
+\m U veliku je Jovan usao sobu.
+\g into big aux Jovan walked room
+\l Jovan walked into a big room.
+
+\t U    ovu sam se zaljubio lepu studentkinju.
+\m U    ovu sam se zaljubio lepu studentkinju.
+\g   in   this aux refl fell.in.love pretty student
+\l I   fell in love with this pretty student.
+
+\t U      ovu sam se zaljubio studentkinju fizike.
+\m U      ovu sam se zaljubio studentkinju fizike.
+\g   in   this aux refl fell.in.love student      physics
+\l I   fell in love with this student of physics.
+
+\t Sobu je Jovan usao u veliku.
+\m Sobu je Jovan usao u veliku.
+\g  room aux Jovan walked into big
+\l Jovan walked into a big room.
+
+\t Ovu Jovan cita zanimljivu knjigu.
+\m Ovu Jovan cita zanimljivu knjigu.
+\g this Jovan read interesting book
+\l Jovan is reading this interesting book.
+
+\t Jovan je trcao prema velikoj kuci.  ?
+\m Jovan je trcao prema velikoj kuci.  ?
+\g Jovan aux ran towards big         house
+\l Jovan ran towards a big house.
+
+\t Natasa je razgovarala sa ovim profesorom.
+\m Natasa je razgovarala sa ovim profesorom.
+\g Natasa aux talked        to this professor
+\l Natasa talked to this professor.
+
+\t Sa kojim je Natasa profesorom razgovarala?
+\m Sa kojim je Natasa profesorom razgovarala?
+\g to which aux Natasa professor talked
+\l Which professor did Natasa talk to?
+
+\t On je usao pravo u veliku sobu.
+\m On je usao pravo u veliku sobu.
+\g he aux entered straight into big room
+\l He went straight into the big room.
+
+\t Koliko   su oni radnika otpustili?
+\m Koliko   su oni radnika otpustili?
+\g how.many aux they workers fired
+\l How many workers did they fire?
+
+\t Koju su oni fabriku zatvorili?
+\m Koju su oni fabriku zatvorili?
+\g which aux they factory closed
+\l Which factory did they close?
+
+\t Ciju su oni knjigu objavili?
+\m Ciju su oni knjigu objavili?
+\g whose aux they book published
+\l Whose book did they publish?
+
+\t Novi je on auto slupao.
+\m Novi je on auto slupao.
+\g new aux he car crashed
+\l He crashed the new car.
+
+\t Ciju su oni objavili prosle godine knjigu?
+\m Ciju su oni objavili prosle godine knjigu?
+\g  whose aux they published last year book
+\l Whose book did they publish last year?
+
+\t Sa kojim je Natasa razgovarala profesorom?
+\m Sa kojim je Natasa razgovarala profesorom?
+\g   to which aux Natasa talked      professor
+\l Which professor did Natasa talk to?
+
+\t Prema kojoj je Jovan trcao kuci? ?
+\m Prema kojoj je Jovan trcao kuci? ?
+\g   towards which aux Jovan ran house
+\l Towards which house did Jovan run?
+
+\t Iz koje je Jovan fioke uzeo kljuceve?
+\m Iz koje je Jovan fioke uzeo kljuceve?
+\g from which aux Jovan drawer took keys
+\l From which drawer did Jovan take the keys?
+
+\t Na ciju je Marija adresu poslala paket?
+\m Na ciju je Marija adresu poslala paket?
+\g to whose aux Marija address sent package
+\l To whose address did Marija send the package?
+
+\t Kojem su oni           kandidatu ponudili posao?
+\m Kojem su oni           kandidatu ponudili posao?
+\g which aux they         candidate offered job
+\l Which candida         te did they offer a job?
+
+\t On je pozajmio knjigu ovog studenta.
+\m On je pozajmio knjigu ovog studenta.
+\g he aux borrowed book this student
+\l He borrowed a book of this student.
+
+\t Kojeg je on pozajmio [knjigu studenta ]?
+\m Kojeg je on pozajmio [knjigu studenta ]?
+\g  which aux he borrowed book student
+\l Of which did he borrow a book student.
+
+\t On je izgubio adresu njihove sestre
+\m On je izgubio adresu njihove sestre
+\g he aux lost     address their sister
+\l He lost the address of their sister.
+
+\t Cije je on izgubio [adresu sestre]?
+\m Cije je on izgubio [adresu sestre]?
+\g  whose aux he lost     address sister
+\l Of whose did he lose address sister?
+
+\t Cije je on video prijatelja majke?
+\m Cije je on video prijatelja majke?
+\g  whose aux he seen friend mother
+\l A friend of whose mother has he seen?
+
+\t O     kojim su oni objavili clanak studentima?
+\m O     kojim su oni objavili clanak studentima?
+\g  about which aux they published article students
+\l About which students did they publish an article?
+
+\t Ciju su oni knjigu objavili?
+\m Ciju su oni knjigu objavili?
+\g whose aux.they book published
+\l Whose book did they publish?
+
+\t Novi je on auto     slupao.
+\m Novi je on auto     slupao.
+\g new aux he crashed car
+\l He crashed the new car.
+
+\t Lepu sam kupila majicu.
+\m Lepu sam kupila majicu.
+\g  nice aux bought shirt
+\l I bought a nice shirt.
+
+\t Novi je on auto slupao.
+\m Novi je on auto slupao.
+\g new aux he car crashed
+\l It was the new car that he crashed.
+
+\t Kakvu     tortu su oni narucili?
+\m Kakvu     tortu su oni narucili?
+\g what.kind cake aux they ordered
+\l What kind of cake did they order?
+
+\t Novi je on auto prodao, a ne novu kucu.
+\m Novi je on auto prodao, a ne novu kucu.
+\g  new aux he car sold, and not new house
+\l It was the new car that he sold, and not the new house.
+
+\t Novi je on auto prodao, a ne stari.
+\m Novi je on auto prodao, a ne stari.
+\g new aux he car sold        and not old
+\l It was the new car that he sold, and not the old one.
+
+\t Markov su oni roman objavili, a ne Markove                   pesme.
+\m Markov su oni roman objavili, a ne Markove                   pesme.
+\g  Marko's aux they novel published, and not Marko's           poems 
+\l It was Marko's novel that they published, and not Marko's poems.
+
+\t Markov su oni roman objavili, a ne Marijin.
+\m Markov su oni roman objavili, a ne Marijin.
+\g Marko's aux they novel published, and not Marija's
+\l It was Marko's novel that they published, and not Marija's.
+
+\t Policija je usla u Jovanovu kucu. ?
+\m Policija je usla u Jovanovu kucu. ?
+\g police aux go into Jovan's house
+\l Police went into Jovan's house.
+
+\t Cime je on pobegao zbog           pretnje?
+\m Cime je on pobegao zbog           pretnje?
+\g  what aux he run.away because.of threat
+\l He ran away because of the threat of what?
+
+\t Zbog       cijih je on studenata dosao?
+\m Zbog       cijih je on studenata dosao?
+\g because.of whose aux he students came
+\l He came because of whose students?
+
+\t Kojih partija je on verovao voamaDat ?
+\m Kojih partija je on verovao voamaDat ?
+\g  which parties aux he trust    leaders
+\l Leaders of which parties did he trust?
+
+\t Kojih ljudi se plasio optuzbiGen ?
+\m Kojih ljudi se plasio optuzbiGen ?
+\g  which people aux be.afraid accusations
+\l Accusations of which people was he afraid of?
+
+\t KojemDat je on politicaruDat verovao?
+\m KojemDat je on politicaruDat verovao?
+\g which    aux he politician      trust
+\l Which politician did he trust?
+
+\t KakvihGen se on ljudiGen plasi?
+\m KakvihGen se on ljudiGen plasi?
+\g what.kind refl he people be.afraid
+\l What kind of people is he afraid of.
+
+\t Marija je izgubila knjigu koju je Jovan pozajmio njenoj                  sestri.
+\m Marija je izgubila knjigu koju je Jovan pozajmio njenoj                  sestri.
+\g Marija aux lost      book which aux Jovan lent          her              sister 
+\l Marija has lost the book which Jovan lent to her sister.
+
+\t Kakve       dokumente su ga uhapsili zato       sto je                     ukrao?
+\m Kakve       dokumente su ga uhapsili zato       sto je                     ukrao?
+\g   what.kind documents aux him arrested because of aux                      stole 
+\l what kind of documents did they arrest him because he had stolen?
+
+\t U ovu sam se zaljubio lepu studentkinju.
+\m U ovu sam se zaljubio lepu studentkinju.
+\g   in this aux refl fell.in.love pretty student
+\l I fell in love with this pretty student.
+
+\t Visoke je on video devojke.
+\m Visoke je on video devojke.
+\g tall    aux he seen girls
+\l Tall girls, he saw.
+
+\t Lepe        je on video devojke.
+\m Lepe        je on video devojke.
+\g  beautiful aux he seen girls
+\l Beautiful girls, he saw.
+
+\t Sa visokom lepom on devojkom razgovara.
+\m Sa visokom lepom on devojkom razgovara.
+\g  with tall     beautiful he girl           talks
+\l He is talking to a tall beautiful girl.
+
+\t Novim je on zadovoljan poslom.
+\m Novim je on zadovoljan poslom.
+\g new aux he content        job
+\l He is content with his new job.
+
+\t Hrabrim/svojim je on veran vojnicima.
+\m Hrabrim/svojim je on veran vojnicima.
+\g brave/his         aux he loyal soldiers
+\l He is loyal to brave/his soldiers.
+
+\t Koji je Jovan novi auto slupao?
+\m Koji je Jovan novi auto slupao?
+\g Which aux Jovan new car crashed
+\l Which new car did Jovan crash?
+
+\t Koliko   je on ovih pilula popio?
+\m Koliko   je on ovih pilula popio?
+\g How.many aux he these pills drunk
+\l How many of these pills did he drink?
+
+\t Markovog su oni starijeg sina uhapsili.
+\m Markovog su oni starijeg sina uhapsili.
+\g Marko's aux they elder son arrested
+\l It is Marko's elder son that they have arrested.
+
+\t On je procitao ovu zanimljivu knjigu.
+\m On je procitao ovu zanimljivu knjigu.
+\g he aux read       this interesting book
+\l He read this interesting book.
+
+\t Ona je upoznala ovog Jovanovog brata.
+\m Ona je upoznala ovog Jovanovog brata.
+\g she aux met        this Jovan's     brother
+\l she met this brother of Jovan's.
+
+\t Kojeg on slavnog glumca uvek imitira?
+\m Kojeg on slavnog glumca uvek imitira?
+\g   which he famous actor always imitate
+\l Which famous actor does he always imitate?
+
+\t Prodao je nekoliko ovih knjiga.
+\m Prodao je nekoliko ovih knjiga.
+\g sold aux several these books
+\l He sold several of these books.
+
+\t Prodao je ovih nekoliko knjiga
+\m Prodao je ovih nekoliko knjiga
+\g Sold aux these several books
+\l He sold these several books.
+
+\t Koliko   je on ovih knjiga prodao?
+\m Koliko   je on ovih knjiga prodao?
+\g how.many aux he these books sold
+\l How many of these books did he sell?
+
+\t On kupi?te          piec ksiazek.
+\m On kupi?te          piec ksiazek.
+\g he bought theseAcc five booksGen
+\l He bought these five books.
+
+\t Ile      kupiëes tych                  ?
+\m Ile      kupiëes tych                  ?
+\g how.many bought theseGen             booksGen
+\l How many of these books            did you buy?
+
+\t Oni su narucili ogromnu svadbenu tortu.
+\m Oni su narucili ogromnu svadbenu tortu.
+\g they aux ordered huge     wedding cake
+\l They have ordered a huge wedding cake.
+
+\t Drskog je on masinskog inzinjera otpustio.
+\m Drskog je on masinskog inzinjera otpustio.
+\g rude aux he mechanical engineer fired
+\l He fired the rude mechanical engineer.
+
+\t Visoke lepe       on gleda devojke.
+\m Visoke lepe       on gleda devojke.
+\g  tall    beautiful he watches girls
+\l He is watching tall beautiful girls.
+
+\t Sa visokom lepom on devojkom razgovara.
+\m Sa visokom lepom on devojkom razgovara.
+\g  with tall      beautiful he girl          talks
+\l He is talking to a tall beautiful girl.
+
+\t             
+\m             
+\g what    feel lack
+\l What do you feel a lack of?
+
+\t O     kome su oni objavili clanak?
+\m O     kome su oni objavili clanak?
+\g about whom aux they published article
+\l Who did they publish an article about?
+
+\t Cime je on pobegao zbog           pretnje?
+\m Cime je on pobegao zbog           pretnje?
+\g  what aux he run.away because.of threat
+\l He ran away because of the threat of what?
+
+\t Zbog        cijih je on dosao studenata?
+\m Zbog        cijih je on dosao studenata?
+\g  because.of whose aux he came students
+\l He came because of whose students?
+
+\t Cijeg brata je policija usla u kucu?
+\m Cijeg brata je policija usla u kucu?
+\g   whose brother aux police go into house
+\l The police went into the house of whose brother?
+
+\t Iz koje partije su oni glasali za kandidata?
+\m Iz koje partije su oni glasali za kandidata?
+\g  from which party aux they voted for candidate
+\l From which party did they vote for a candidate?
+
+\t Za kojeg su oni kandidata glasali?
+\m Za kojeg su oni kandidata glasali?
+\g for which aux they cadidate voted
+\l Which candidate did they vote for?
+
+\t a. *[Kojih partija]Gen je on verovao voama                  ?
+\m a. *[Kojih partija]Gen je on verovao voama                  ?
+\g     which parties      aux he trust     leaders       dat
+\l Leaders of which parties did he trust?
+
+\t KojimDat on politicarimaDat veruje?
+\m KojimDat on politicarimaDat veruje?
+\g  which he politicians          trust
+\l Which politicians does he trust?
+
+\t O      kome su oni objavili ovaj clanak?
+\m O      kome su oni objavili ovaj clanak?
+\g   about whom aux they published this article
+\l Who did they publish this article about?
+
+\t Cega si prodao kolekciju?
+\m Cega si prodao kolekciju?
+\g   what aux sold collection
+\l What did you sell a collection of?
+
+\t Koliko    su otpustili radnika?
+\m Koliko    su otpustili radnika?
+\g how.many aux fired     workers
+\l How many workers did they fire?
+
+\t Koju su zatvorili fabriku?
+\m Koju su zatvorili fabriku?
+\g which aux closed factory
+\l Which factory did they close?
+
+\t on/ona je   cìtao/ cìtala
+\m on/ona je   cìta-o/ cìta-la
+\g he/she was read-Msg/read-Fsg
+\l He/she was reading ; he/she read.
+
+\t mi smo       cìtali/   cìtale
+\m mi smo       cìta-li/   cìta-le
+\g we are(1pl) read-Mpl read-Fpl
+\l We were reading; we read.
+
+\t oni/one su           cìtali/   cìtale
+\m oni/one su           cìta-li/   cìta-le
+\g they/they.f are(3pl) read-Mpl read-Fpl
+\l They were reading; they read.
+
+\t a Mora                     da radi                              +        +
+\m a Mora                     da radi                              +        +
+\g   must-prs                 that work-ipfv
+\l He must work /He must be working
+
+\t b Ona          mora        da postane             lekar         +
+\m b Ona          mora        da postane             lekar         +-
+\g   she          must-prs    that become-pfv        doctor
+\l She must become a doctor
+
+\t a Morali su                    da               idu             +
+\m a Morali su                    da               idu             +-
+\g     must-3pl.pst              that             go-3pl.prs
+\l They had to go
+

@@ -1,0 +1,205 @@
+\t tlata [n                twrar]
+\m tlata [n                twrar]
+\g        three [GEN hill]
+\l three hills
+
+\t axxam [n wryaz]
+\m axxam [n wryaz]
+\g    house [GEN man]
+\l the man's house
+
+\t ihramn  ª           imzzyann
+\m ihramn  ª           imzzyann
+\g       boy.PLUR small
+\l the small boys
+
+\t iqssudªn [d                     ª
+\m iqssudªn [d                     ª
+\g   wood           COP large
+\l large pieces of wood
+
+\t izra aKidar.
+\m i-zra a-Kidar.
+\g 3 SG-see 3SG-Kidar
+\l He saw the horse.
+
+\t iSSa                waryaz                 arum
+\m i-SSa                w-aryaz                 arum
+\g 3S.M-eat.PERF        CS-man.S.M              bread
+\l The/a man ate bread.
+
+\t SSin                   yaryazn             arum
+\m SSi-n                   y-aryazn             arum
+\g eat.PERF-3PL.M          CS-men.PL            bread
+\l The men ate bread.
+
+\t TSSa                   Tarbat           arum
+\m T-SSa                   Tarbat           arum
+\g  3S.F-eat.PERF          girl.S.F         bread
+\l The/a girl ate bread.
+
+\t SSint                  TarbaTin         arum
+\m SSi-nt                  TarbaTin         arum
+\g  eat.PERF-3PL.F         girls.PL.F       bread
+\l The girls ate bread.
+
+\t ysqad               waryaz        rfrus       i           warba
+\m y-sqad               w-aryaz        rfrus       i           w-arba
+\g 3S.M-send.PERF       CS-woman.S.M money         to          CS-boy
+\l The/a man sent money to the boy.
+
+\t ixSSd
+\m i-xSSd
+\g 3S.M-arrive.PERF
+\l The man who sent money to the boy has arrived.
+
+\t Tsqad           TamatuT      rfrus    i warba
+\m T-sqad           TamatuT      rfrus    i w-arba
+\g 3S.F-send.PERF woman.S.F money         to CS-boy
+\l The/a woman sent money to the boy.
+
+\t TxSSd
+\m T-xSSd
+\g 3S.F-arrive.PERF
+\l The woman who sent money to the boy has arrived.
+
+\t a.* (D)        aryaz    i      (g)    ysqad             rfrus        i warba
+\m a.* (D)        aryaz    i      (g)    y-sqad             rfrus        i w-arba
+\g     COP        man.S.M RM X           3S.M-send.PERF     money        to CS-boy
+\l It is   the man who sent money to the boy.
+
+\t b.* (D)        TamatuT         i      (g)    Tsqad          rfrus     i warba
+\m b.* (D)        TamatuT         i      (g)    T-sqad          rfrus     i w-arba
+\g     COP        woman.S.F       RM X          3S.F-send.PERF money      to CS-boy
+\l It is   the woman who sent money to the boy.
+
+\t min          ywSa            /(*ywSin)           Jamal     i Mena ?
+\m min          y-wSa            /(*y-wSi-n)           Jamal     i Mena ?
+\g   what       3S.M-give.PERF/(*PART-give.PERF-PART) Jamal      to Mena
+\l What     did Jamal give to Mena?
+
+\t zrix         a r yaz     i      (g)   yssqadn                /(*yssqad)    Tabrat i Mena 
+\m zri-x         a r yaz     i      (g)   y-ssqad-n                /(*y-ssqad)    Tabrat i Mena 
+\g see.PERF-1S man.S.M RM X              PART-send.PERF-PART/(*3S.M-send.PERF)    letter to Mena
+\l I saw the man who sent the letter to Mena.
+
+\t Tabrat i           (g)    yssqad                 /(*yssqadn)        war yaz     i Mena       TxSS                  d
+\m Tabrat i           (g)    y-ssqad                 /(*y-ssqad-n)        w-ar yaz     i Mena       T-xSS                  d
+\g  letter     RM X          3S.M-send.PERF/(*PART-send.PERF-PART) CS-man S.M          to Mena      3S.F-arrive.PERF CLdir  
+\l The letter which the man sent to Mena has arrived.
+
+\t (t)           tabrat         i        (g) ysqad           war yaz
+\m (t)           tabrat         i        (g) y-sqad           w-ar yaz
+\g   COP         letter         CM X         3S.M-send.PERF   CS-man.S.M
+\l It is a letter that the    man sent.
+
+\t (D) ar yaz       i       (g)     ysqadn              /(*ysqad)                   Tabrat
+\m (D) ar yaz       i       (g)     y-sqad-n              /(*y-sqad)                   Tabrat
+\g COP man.S.M CM X                 PART-send.PERF-PART/(*3S.M-send.PERF)              letter
+\l It is the man who sent the letter.
+
+\t wa     TwSi                  TamgharT      lktab    i     Mina
+\m wa     T-wSi                  TamgharT      lktab    i     Mina
+\g NEG 3S.F-give.NEG.PERF woman.S.F book                 to   Mina
+\l The woman did not give the book to Mina.
+
+\t  man      TamgharT     i      wa     ywSin            /(*TwSi)                  man       lktab      i Mina 
+\m  man      TamgharT     i      wa     y-wSi-n            /(*T-wSi)                  man       lktab      i Mina 
+\g which     woman.S.F RM NEG PART-give.NEG.PERF-PART      /(*3S.F-give.NEG.PERF) which         book       to Mina
+\l Who is the woman who did not give which book to Mina?
+
+\t  man      lktab     i      wa     TwSi            /(*ywSin)                       man       TamgharT     i Mina
+\m  man      lktab     i      wa     T-wSi            /(*y-wSi-n)                       man       TamgharT     i Mina
+\g which     book      RM NEG 3S.F-give.NEG.PERF      /(*PART-give.NEG.PERF-PART) which           woman.S.F to Mina  
+\l Which book which woman did not give to Mina?
+
+\t min ysa              manwn
+\m min y-sa              manwn
+\g what 3S.M-buy.PERF    who.3S.M
+\l What who bought?
+
+\t manwn ysin                   manayn
+\m manwn y-si-n                   manayn
+\g who      PART-buy.PERF-PART    what
+\l Who bought what?
+
+\t mri D           arba       i      s          t         id                yndan                           iri    yttfi                t
+\m mri D           arba       i      s          t         id                y-nda-n                           iri    y-ttfi                t
+\g if      COP boy.S.M CM CLDAT                 CLACC     CLDIR             PART-throw.PERF-PART              then 3S.M.catch.PERF CL.ACC   
+\l If it was the boy who threw it to him, he could have been able to catch it.
+
+\t mri s           t      id         ynda                    warba          iri     ittfi                    t     
+\m mri s           t      id         y-nda                    w-arba          iri     i-ttfi                    t     
+\g if      CLDAT CLACC CLDIR         3S.M-throw.PERF          CS-boy.S.M      then 3S.M.catch.PERF              CL.ACC
+\l If the boy threw it to him, he could have been able to catch it.
+
+\t Tsqad            TamatuT         rfrus      i warba
+\m T-sqad            TamatuT         rfrus      i w-arba
+\g 3S.F-send.PERF woman.S.F          money to CS-boy
+\l The woman sent money to the boy.
+
+\t (t)      TamatuT     i     (g)    ysqadn            rfrus i warba
+\m (t)      TamatuT     i     (g)    y-sqad-n            rfrus i w-arba
+\g COP woman.S.F RM X                PART-send.PERF-PART money to CS-boy
+\l It is the woman who sent money to the boy.
+
+\t arrajulu     huwa       ?llaDi     arrsala     ?nnuquDa ?ila llwladi
+\m arrajul-u     huwa       ?llaDi     arrsala     ?nnuquDa ?ila llwladi
+\g  man.NOM him.3S.M who.3S.M send.PERF.3S.M money to the.boy
+\l It is the man who sent the money to the boy.
+
+\t lmar?tu      hiya      ?llatti    arrsalat     ?nnuquDa ?ila llwladi
+\m lmar?t-u      hiya      ?llatti    arrsalat     ?nnuquDa ?ila llwladi
+\g woman.NOM she.3S.F who.3S.F send.PERF.3S.F money            to the.boy
+\l It is the woman who sent the money to the boy.
+
+\t sqssan             ma        ywSa                 Jamal      lktab     i  warba
+\m sqssa-n             ma        y-wSa                 Jamal      lktab     i  w-arba
+\g ask.PERF-3PL.M      whether 3S.M-give.PERF          J.book      to CS-boy
+\l They asked whether Jamal gave the book to the boy.
+
+\t man lktab ixef sqssan                   ma         D     Jamal          i    *(T)       ywSin                    i warba
+\m man lktab ixef sqssa-n                   ma         D     Jamal          i    *(T)       y-wSi-n                    i w-arba
+\g which book about ask.PERF-3PL.M          whether COP J.RM CLACC                          PART-give.PERF-PART to CS-boy      
+\l Which book did they wonder whether it is Jamal who gave it to the bo   y?
+
+\t ysqssa           Jamal      ma       iir                 warba qa              yssSSmD              Omar      man lktab 
+\m y-sqssa           Jamal      ma       i-ir                 w-arba qa              y-ssSSmD              Omar      man lktab 
+\g 3S.M-ask.PERF Jamal          whether 3S.M-believe.PERF CS-boy that                3S.M-burn.PERF        Omar      which book
+\l Jamal asked the boy whether he believed that Omar burned which book.
+
+\t ysqssa           Jamal      ma       iir                 warba qa      yssSSmD              man       lktab Omar
+\m y-sqssa           Jamal      ma       i-ir                 w-arba qa      y-ssSSmD              man       lktab Omar
+\g 3S.M-ask.PERF Jamal          whether 3S.M-believe.PERF CS-boy that        3S.M-burn.PERF        which     book Omar 
+\l Jamal asked the boy whether he believed that Omar burned which book.
+
+\t ysqssa           Jamal x       man lktab        i      g iir                   warba qa         yssSSmDi           *(T)      Omar
+\m y-sqssa           Jamal x       man lktab        i      g i-ir                   w-arba qa         y-ssSSmDi           *(T)      Omar
+\g 3S.M-ask.PERF Jamal about which book             RM X 3S.M-believe.PERF      CS-boy that 3S.M-burn.PERF            CLACC      Omar   
+\l Jamal asked about which book did the boy believe that Omar burned it.
+
+\t man       lktab       ixef ysqssa            Jamal ma        iir             warba qa         yssSSmD            *(T)       Omar
+\m man       lktab       ixef y-sqssa            Jamal ma        i-ir             w-arba qa         y-ssSSmD            *(T)       Omar
+\g which     book        about 3S.M-ask.PERF Jamal whether 3S.M-believe.PERF      CS-boy that 3S.M-burn.PERF            CLACC      Omar
+\l Which book did Jamal ask the boy whether he believed that Omar burned it.
+
+\t ysiwrr                 Muhandj      ag    Omari    x       ixefinessi/j
+\m y-siwrr                 Muhandj      ag    Omari    x       ixefinessi/j
+\g 3S.M-talk.PERF          Muhand       with Omar      about   himself
+\l Muhand talked with Omar about himself.
+
+\t D        ixefinessi/j   ixef     ysiwrr            Muhandj     ag       Omari
+\m D        ixefinessi/j   ixef     y-siwrr            Muhandj     ag       Omari
+\g COP himself             about    3S.M-talk.PERF     Muhand      with Omar
+\l It is himself that Muhand talked with Omar about.
+
+\t D        Muhandj i         g ysiwrrn              ag
+\m D        Muhandj i         g y-siwrr-n              ag
+\g COP Muhand CM X PART-talk.PERF-PART with Omar about himself
+\l It is Muhand who talked with Omar about himself.
+
+\t D        Omari        i    kD    ysiwrr         Muhandj    x      ixefinessi/*j
+\m D        Omari        i    kD    y-siwrr         Muhandj    x      ixefinessi/*j
+\g COP Omar              CM with 3S.M-talk.PERF Muhand         about himself
+\l It is with Omar that Muhand talked about himself.
+

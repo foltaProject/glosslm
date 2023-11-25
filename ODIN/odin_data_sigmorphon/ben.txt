@@ -1,0 +1,725 @@
+\t vo         so jati           thi
+\m vo         so ja-ti           th-i
+\g Pron.Nom sleep go-Impf.F.Sg be.Past-Sg.F
+\l She to used to go to sleep.
+
+\t vo         so jati            vati               thi
+\m vo         so ja-ti            va-ti               th-i
+\g Pron.Nom sleep go-Impf.F.Sg go.Redup-Impf.F.Sg be.Past-Sg.F
+\l She used to keep going to sleep (at inopportune moments).
+
+\t vo        so rAhi       thi
+\m vo        so rAh-i       th-i
+\g Pron.Nom sleep Prog-F.Sg be.Past-Sg.F
+\l She was sleeping.
+
+\t vo        so rAhi       vahi      thi
+\m vo        so rAh-i       vah-i      th-i
+\g  Pron.Nom sleep Prog-F.Sg Prog-Redup be.Past-Sg.F
+\l She was sleeping.
+
+\t vo         soti         thi
+\m vo         so-ti         th-i
+\g Pron.Nom sleep-Impf.F.Sg be.Past-Sg.F
+\l She used to sleep.
+
+\t vo         soti         thi        si
+\m vo         so-ti         th-i        s-i
+\g  Pron.Nom sleep-Impf.F.Sg be.Past-Sg.F be.Redup
+\l She used to sleep.
+
+\t so to bAcca                 gaya
+\m so to bAcca                 ga-ya
+\g sleep Top child.M.Sg.Nom go-Perf.M.Sg
+\l The child has gone to sleep.
+
+\t so to bAcca              rAha     hE
+\m so to bAcca              rAh-a     hE
+\g  sleep Top child.M.Sg.Nom Prog-M.Sg be.Pres.3.Sg
+\l The child is sleeping.
+
+\t kal          EkTa        lOmba chele eSechilo2
+\m kal          Ek-Ta        lOmba chele eSechilo2
+\g yesterday one-CLA         tall  boy came
+\l a tall boy came yesterday
+
+\t kal       ke     eSechilo?
+\m kal       ke     eSechilo?
+\g yesterday who came
+\l who came yesterday?
+
+\t kal      kon     cheleTa              eSechilo?
+\m kal      kon     chele-Ta              eSechilo?
+\g yeserday which boy-CLA                 came
+\l which boy came yesterday?
+
+\t oi        duTo                lal      boi
+\m oi        duTo                lal      boi
+\g those     two-CLA             red      book
+\l those two red books
+
+\t oi        lal     boi         duTo
+\m oi        lal     boi         duTo
+\g those     red     book        two-CLA
+\l those two red books
+
+\t du deSer           moitri
+\m du deS-er           moitri
+\g two country-GEN friendship
+\l friendship between two countries
+
+\t tin        cakar          gaRi
+\m tin        caka-r          gaRi
+\g three      wheel-GEN       vehicle
+\l three-wheeled vehicle
+
+\t tin        bOchor
+\m tin        bOchor
+\g three      year
+\l three years
+
+\t car        paS
+\m car        paS
+\g four       sides
+\l Four sides
+
+\t tin        dik
+\m tin        dik
+\g three      direction
+\l three directions
+
+\t tin       hat
+\m tin       hat
+\g three     hand/arm
+\l three cubits
+
+\t amar11      ei     duTo boi
+\m ama-r11      ei     du-To boi
+\g my-GEN       this two-CLA book
+\l these two books of mine
+
+\t ramer         gaRi
+\m ram-er         gaRi
+\g  Ram-GEN       car
+\l Ram's car
+
+\t tomar         duTo           lal boi
+\m toma-r         du-To           lal boi
+\g  you-GEN       two-CLA         red book
+\l your two red books
+
+\t rakhaler      bORo bhai
+\m rakhal-er      bORo bhai
+\g  Rakhal-GEN big brother
+\l Rakhal's elder brother
+
+\t amar buRo baba khub bhalo
+\m amar buRo baba khub bhalo
+\g my old father very good
+\l my old father is very good
+
+\t amar     boii         duTo             ti
+\m amar     boii         du-To             ti
+\g my       book         two-CLA
+\l my two books
+
+\t ei duTo            lal             boi
+\m ei du-To            lal             boi
+\g this two-CLA        red             book
+\l these two red books
+
+\t rajeni         baRi jabe
+\m rajen-i         baRi jabe
+\g Rajen-EMP       home go-will
+\l Only Rajen/ Rajen himself will go home
+
+\t ei        duTo          boi
+\m ei        du-To          boi
+\g this      two-CLA        book
+\l these two books (here)
+
+\t amar        ei     duTo boi
+\m ama-r        ei     du-To boi
+\g my-GEN       this two-CLA book
+\l these two books of mine
+
+\t bonTi amar       khub    SadaSidhe
+\m bon-Ti amar       khub    Sada-Sidhe
+\g sister-CLA        my      very plain-straight
+\l sister mine is   very   plain and simple
+
+\t rakhaler     bhai/ *bhai      rakhaler              khub bhalo
+\m rakhal-er     bhai/ *bhai      rakhal-er              khub bhalo
+\g Rakhal-GEN brother/ brother Rakhal-GEN                very good
+\l Rakhal's bother is very good
+
+\t bhai       duTo            amar, ...
+\m bhai       duTo            amar, ...
+\g brother two-CLA            mine
+\l brothers two (of) mine, ....
+
+\t amar    BON khub bhalo, bhaiTai                     bOjjat
+\m amar    BON khub bhalo, bhai-Ta-i                     bOjjat
+\g my      sister very good brother-CLA-EMP              nasty
+\l my SISTER is very good, it's only the brother who's nasty!
+
+\t AMAR bon           khub bhalo, (tomarTa bojjat)
+\m AMAR bon           khub bhalo, (tomar-Ta bojjat)
+\g my       sister very good your-CLA nasty
+\l MY sister is very good, (it's yours who is nasty!)
+
+\t ei duTo            boi
+\m ei du-To            boi
+\g this two-CLA        book
+\l these two books (here)
+
+\t amar         ei     duTo chele
+\m ama-r         ei     du-To chele
+\g my-GEN        this two-CLA son
+\l these two sons of mine
+
+\t amar         ei     chele duTo
+\m ama-r         ei     chele du-To
+\g my-GEN        this son     two-CLA
+\l these two sons of mine
+
+\t amar ei duTo               chele khub bhalo, rakhalTai            boka
+\m ama-r ei du-To               chele khub bhalo, rakhal-Ta-i            boka
+\g my       this two-CLA        son    very good Rakhal-CLA-EMP          foolish
+\l these two sons of mine are very good, it's only Rakhal who's a fool
+
+\t ei duTo             bhai        amar      ....
+\m ei du-To             bhai        amar      ....
+\g this two-CLA         brother     mine
+\l these two brothers (of) mine,   ....
+
+\t b. ei bhaii duTo ti
+\m b. ei bhaii du-To ti
+\g    this two-CLA         brother
+\l these two brothers
+
+\t amar duTo            bhai
+\m amar duTo            bhai
+\g my two-CLA           brother
+\l my two brothers
+
+\t ei duTo             bhai                     amar              ....
+\m ei du-To             bhai                     amar              ....
+\g this two-CLA         brother                  mine
+\l these two brothers (of) mine,                ....
+
+\t j:n kon boi3a poilo
+\m j:n kon boi-3a poilo
+\g John which book-CL read
+\l Which book did John read?
+
+\t kapoi debe]
+\m kapoi debe]
+\g clothes give.will
+\l You told each boy who will give him new clothes at Durga Puja.
+
+\t kake    kew/sudhu meri vo3                    d yni
+\m ka-ke    kew/sudhu meri vo3                    d y-ni
+\g  who-DAT anyone/only Mary vote                 gave-not
+\l Who did no one vote for?/Who                 did only Mary not vote for?
+
+\t ram       ese     porlo
+\m ram       es-e     por-l-o
+\g Ram.Nom come-Perf fall-Past.3
+\l Ram arrived.
+
+\t se             ekti     sundor            meyeke      dekhlo.
+\m se             ekti     sundor            meyeke      dekhlo.
+\g he:NOM         a        pretty            girl:ACC    saw
+\l He saw a prettygirl'.
+
+\t taar           ghum         bhaanglo.
+\m taar           ghum         bhaanglo.
+\g him:DAT        sleep        broke
+\l His sleep broke (He awakened).
+
+\t taar         asukh               holo.
+\m taar         asukh               holo.
+\g him:DAT      illness             became
+\l He becameunwell'.
+
+\t aamaar        tomaake            mone           porbe.
+\m aamaar        tomaake            mone           porbe.
+\g me:DAT        you:ACC            mind-LOC       fall:FUT
+\l I will rememberyou'.
+
+\t modhu ki         aSbe?
+\m modhu ki         aS-be?
+\g Madhu what      come-fut
+\l Will Madhu come?
+
+\t Ruma cithiDlekhe                  phello
+\m Ruma cithi-Dlekh-e                  phello
+\g Ruma letter-DEF write-PERFPART threw-3RDPAST
+\l Ruma wrote the letter (completely)
+
+\t ami amTa            khelam   na
+\m ami am-Ta            khel-am   na
+\g I.nom mango-class eat.past-1st neg
+\l I didn't eat the mango
+
+\t ami amTa            khai ni
+\m ami am-Ta            kha-i ni
+\g I.nom mango-class eat-1st neg.past
+\l I didn't eat the mango
+
+\t John deRi kore uThlo
+\m John deRi kore uThlo
+\g John late got up
+\l John got up late
+
+\t o janlar baire       dekhlo
+\m o janlar baire       dekhlo
+\g he out.of the.window looked
+\l He looked out of the window
+
+\t o briSTir kono lokkhon dekhlo       na
+\m o briSTir kono lokkhon dekhlo       na
+\g he sign   of   rain    see.past.3rd neg
+\l He didn't see any sign of rain
+
+\t tai o chhaTa chere rOna    holo
+\m tai o chhaTa chere rOna    holo
+\g so he without his umbrella left
+\l So he left without his umbrella
+
+\t kalke     gaRi `start' hoi     ni
+\m kalke     gaRi `start' hoi     ni
+\g yesterday car start become.3rd neg.past
+\l Yesterday, the car didn't start (at all)
+
+\t kalke     gaRi `start' holo        na
+\m kalke     gaRi `start' hol-o        na
+\g yesterday car start become.past-3rd neg
+\l Yesterday, the car didn't start (but then the neighbour came and fixed it)
+
+\t ritu rOmar     ghOr Sajiye     dilo
+\m ritu rOma-r     ghOr Saj-iye     di-l-o
+\g  Ritu Rama-gen room decorate-cp give-3 pt
+\l Ritu decorated Ramaa's room
+
+\t age nijer ghOr Sajiye         nii /?dii, tarpOr tomarTa Sajiye debo
+\m age nije-r ghOr Saj-iye         ni-i /?dii, tarpOr tomar-Ta Saj-iye de-bo
+\g First self-gen room decorate-cp take-1 pr then your-cl decorate-cp give-3ft
+\l Let me first decorate my room, then I will do yours
+
+\t kOyekghOnTar moddhe ritu ghOrTa Sajiye         phello
+\m kOyekghOnTa-r moddhe ritu ghOr-Ta Saj-iye         phel-l-o
+\g few hours-gen within Ritu room-cl decorate-cp drop-3 pt
+\l Ritu managed to decorate the room within few hours (showing Ritu's ability)
+
+\t ami age bole nii,         tarpOr tomar pala
+\m ami age bole nii,         tarpOr tomar pala
+\g I first say-cp take-1 pr then your turn
+\l Let me say first, then comes your turn
+
+\t lokTa amar kach theke pãcSo       Taka niye charlo
+\m lok-Ta amar kach theke pãcSo       Taka ni-ye char-l-o
+\g man-cl mine near from five hundred rupees take-cp leave-3 pt
+\l The man did not give up before he managed to extort five hundred rupees from me
+
+\t ritu kOyek ghOnTar moddhe kajTa kore phello
+\m ritu kOyek ghOnTa-r moddhe kajTa kor-e phel-l-o
+\g Ritu few hour-gen within work-cl do-cp drop-3 pt
+\l Ritu finished her work within few hours (showing her ability)
+
+\t ritu ghOrdor pray guchiye                  eneche
+\m ritu ghOrdor pray guchiye                  en-eche
+\g Ritu house almost put (things) in order bring-3 pr pft
+\l Ritu has almost put things in order in the house
+
+\t cheleTa bencer opor dãRalo
+\m chele-Ta benc-er opor dãRa-lo
+\g boy-cl bench-gen on stand-3 pt
+\l The boy stood on the bench
+
+\t bEparTa khub joTil hoye dãralo
+\m bEpar-Ta khub joTil hoy-e dãra-lo
+\g matter-cl very complex be-cp stand-3 pt
+\l The matter turned out to be very serious
+
+\t  ma Sarajibon SonSarer jonne kheTe               morlen
+\m  ma Sarajibon SonSar-er jonne kheTe               mor-l-en
+\g mother whole life family-gen for work hard-cp die-3 pt
+\l Mother worked the whole of her life for the family in vain
+
+\t  meyeTa Saradin nece          bEracche
+\m  meye-Ta Saradin nec-e          bEra-cche
+\g girl-cl whole day dance-cp roam-3 pr cont
+\l The girl is dancing around the whole day
+
+\t tumi Ojothai cciye morcho,         keu tomar kOtha Sunbe na
+\m tumi Ojothai cciye mor-cho,         keu tomar kOtha Sun-b-e na
+\g you in vain shout-cp die-2 pr cont nobody your word hear-3 ft not
+\l You are shouting in vain, nobody will hear you
+
+\t ritu Ekdiner      moddhe lekhaTa SeS koreche
+\m ritu Ekdiner      moddhe lekhaTa SeS kor-eche
+\g Ritu one day-gen in        writing-cl finish do-3 pr pft
+\l Ritu finished the writing within one day
+
+\t Lokti kerani.
+\m Lokti kerani.
+\g man clerk
+\l The man is a clerk.
+
+\t Lokti dhoni.
+\m Lokti dhoni.
+\g man wealthy
+\l The man is wealthy.
+
+\t Boiti tebile        ache.
+\m Boiti tebile        ache.
+\g book table-LOC COP
+\l The book is on the table.
+
+\t bolchi < bole + achi
+\m bolchi < bole + achi
+\g            say     COP.1sg
+\l I am saying
+
+\t màsIpànyÒ kà yi na Ò ká mÒ yamà
+\m màsIpànyÒ kà yi na Ò ká mÒ yamà
+\g healer    FUT come NA he FUT you healthy-MA
+\l The healer will come to make you healthy
+
+\t màsIpànyÒ kà mÒ yamà          ka yi
+\m màsIpànyÒ kà mÒ yamà          ka yi
+\g healer    FUT you healthy-MA KA come
+\l The healer will come to make you healt hy
+
+\t cheleTa [[or baba aSbe] bole ] Suneche
+\m chele-Ta [[or baba aS-be] bole ] Sune-che
+\g boy-CF his father come-FUT3 COMP hear-PTS3
+\l The boy has heard that his father will come
+
+\t a.      cheleTa [or baba je aSbe] Soneni
+\m a.      chele-Ta [or baba je aS-be] Sone-ni
+\g          boy-CF his father JE come-FUT3 hear-NEG/PTS
+\l The boy hasn't heard that his father will come
+
+\t [tomar beralke]i amra SObai [paSer baRir kukur ti                kamReche bole] Sunechilam
+\m [tomar beral-ke]i amra SObai [paS-er baRi-r kukur ti                kamRe-che bole] Sune-chilam
+\g  your cat-ACC we all side-GEN house-GEN dog                         bite-PTS3 COMP hear-PTS1   
+\l Your cat, we have all heard that the dog from next door has bitten
+
+\t [bas theke]i amar didi [Otogulo duronto       bacca ti         laphiye nambe bole] bhabe ni           
+\m [bas theke]i amar didi [Otogulo duronto       bacca ti         laphi-ye nam-be bole] bhabe ni           
+\g  bus from my sister so-many uncontrollable children            jump-PPT descend-FUT3 COMP think3 NEG-PTS
+\l From the bus, my sister didn't think that so many uncontrollable children would jump off
+
+\t SEmoli Sudhu bhebeche [je ami rObindro SONgit                pocchondo kori na]
+\m SEmoli Sudhu bhebe-che [je ami rObindro SONgit                pocchondo kor-i na]
+\g Shyamali only think-PTS3 that I Rabindra song                 like     do-1 NEG  
+\l Syamali only thought that I dislike songs by Rabindranath Tagore
+
+\t SEmoli bhebeche [je [Sudhu ami] rObindro SONgit         pocchondo kori na]
+\m SEmoli bhebe-che [je [Sudhu ami] rObindro SONgit         pocchondo kor-i na]
+\g Shyamali think-PTS3 that only I Rabindra song            like     do-1 NEG  
+\l Syamali thought that only I dislike songs by Rabindranath Tagore
+
+\t SEmoli bhebeche [Sudhu [je ami rObindro SONgit pocchondo kori na]]
+\m SEmoli bhebeche [Sudhu [je ami rObindro SONgit pocchondo kori na]]
+\g intended: "Syamali thought [only [that I dislike songs by
+\l Rabindranath Tagore]]
+
+\t SEmoli [Sudhu [ami rObindro SONgit pocchondo kori na bole]]                bhebeche.    SEmoli ar      kichui bhabe ni            
+\m SEmoli [Sudhu [ami rObindro SONgit pocchondo kor-i na bole]]                bhebe-che.    SEmoli ar      kichu-i bhab-e ni            
+\g Shyamali only I Rabindra song like             do-1 NEG BOLE                think-PTS3 Shymali further anything-at all think-3 NEG-PTS
+\l S yamali only thought that I dislike songs by Rabindranath Tagore. Shyamali did not think anything else
+
+\t SEmoli [Sudhu [agami bochor kolkatay      aSbe bole]]         janieche.    Se ar      kichui janae ni                  
+\m SEmoli [Sudhu [agami bochor kolkata-y      aS-be bole]]         jani-e-che.    Se ar      kichu-i jan-a-e ni                  
+\g Shyamali only coming year Calcutta-LOC come-3FUT BOLE           know-CAUS-3PTS she further anything-at all know-CAUS-3 NEG-PTS
+\l Shyamali let (us) know only that she would come to Calcutta next year. She didn't let (us) know anything else
+
+\t ami ekhane eSechi [[tomar SONge kOtha bolbo] bole]
+\m ami ekhane eSe-chi [[tomar SONge kOtha bol-bo] bole]
+\g I here come-PTS1 you with speech say-FUT1 BOLE
+\l I have come here in order to talk with you
+
+\t tumi kolkata jaccho bole {*dekhlam / Sunlam / janlam}
+\m tumi kolkata ja-cch-o bole {*dekh-l-am / Sun-l-am / jan-l-am}
+\g you Calcutta go-PROG-2 BOLE see-PTS-1 / hear-PTS-1 / know-PTS-1
+\l I {*saw / heard / came to know} you were going to Calcutta
+
+\t (i)         tumi rOnjonke [baRi jete] bolecho
+\m (i)         tumi rOnjon-ke [baRi je-te] bole-cho
+\g             you Ronjon-OBJ home go-INF tell-PTS2
+\l You told Ronjon to go home
+
+\t e kotha bole ram ghumiye porlo
+\m e kotha bol-e ram ghumi-ye por-l-o
+\g thus speech say-PPT Ram sleep-LOC fall-PTS-3
+\l Having said that, Ram fell asleep
+
+\t cheleTa ([e kOtha]) jane na [je baba aSbe ]
+\m chele-Ta ([e kOtha]) jan-e na [je baba aS-be ]
+\g boy-CF thi s talk know-3 not JE father come-FUT3
+\l That his father will come, the boy does not know this
+
+\t mægnifai             kraa
+\m mægnifai             kraa
+\g magnify               do
+\l to magnify
+
+\t ami jani na [sita biye           korbe ki       na ]
+\m ami jani na [sita biye           kor-be ki       na ]
+\g I know not Sita marrying make-FUT what not
+\l I don't know whether Sita will get married (or not)
+
+\t amar     tomake      cai
+\m amar     tomake      cai
+\g I-GEN you-ACC wants
+\l I need you (me is need of you)
+
+\t tar         nak ake
+\m tar         nak ake
+\g (s)he-GEN nose calls
+\l (S)he snores
+
+\t tar         sukh kreche / hoyeche
+\m tar         sukh kreche / hoyeche
+\g (s)he-GEN illness made / became
+\l (S)he became unwell
+
+\t ami      tomake cai
+\m ami      tomake cai
+\g I-NOM you-ACC want
+\l I want you
+
+\t [(amar) bair             ranna bhalo na lagle] ami restorante           khabo
+\m [(amar) bair             ranna bhalo na lag-le] ami restorant-e           khabo
+\g    I-GEN home-GEN cooking not-liking-if I     restaurant-LOC eat-will
+\l If I don't like the food cooked at home, I'm going to eat in a restaurant
+
+\t ami       bai theke gElam                ar    amar        kanna peyeche
+\m ami       bai theke gElam                ar    amar        kanna peyeche
+\g  I-NOM house from went                    and I-GEN         crying came
+\l I left the house and I felt like       crying
+
+\t amar kanna peyeche ar                    ami     bai       theke gElam
+\m amar kanna peyeche ar                    ami     bai       theke gElam
+\g   I-GEN crying came           and         I-NOM house       from went
+\l I felt like crying and I left the      house
+
+\t cheleTa Suneche [je         [or baba aSbe]]
+\m chele-Ta Sune-che [je         [or baba aS-be]]
+\g boy-CF hear-PTS3 COMP his father come-FUT3
+\l The boy has heard that his father will come
+
+\t cheleTa [[ or baba    aSbe]         bole ] Suneche
+\m chele-Ta [[ or baba    aS-be]         bole ] Sune-che
+\g boy-CF his father come-FUT3 COMP hear-PTS3
+\l The boy has heard that his father will come
+
+\t SEmoli Sudhu bhebeche [je ami ROBINDRO Songit pocchondo kori na]
+\m SEmoli Sudhu bhebe-che [je ami ROBINDRO Songit pocchondo kor-i na]
+\g Shyamali only think-PTS3 that I Rabindra         song like     do-1 NEG
+\l Syamali only thought that I dislike songs by RABINDRANATH (TAGORE)
+
+\t ami prottekTa cheleke1 bolechi [CP je          Ekjon   take1 durga pujoY notun jama kapoR debe]          
+\m ami prottek-Ta chele-ke1 bole-chi [CP je          Ek-jon   ta-ke1 durga pujo-Y notun jama kapoR de-be]          
+\g I each-CF boy-OBJ say-PTS1         that one-CF             he-OBJ Durga Puja-LOC new clothes           give-FUT3
+\l I told each boy that someone will give him new clothes at the festival of Durga Puja
+
+\t ami biSSas kori na [ je           Sipra ekTuo     ingreji bolte    pare]
+\m ami biSSas kori na [ je           Sipra ekTu-o     ingreji bolte    pare]
+\g I     belief make not that Sipra little-even English speak          can
+\l I don't believe that Sipra can speak any English
+
+\t cheleTa [ta ]1 / [e kOtha]1 jane         na [je baba           aSbe]1
+\m chele-Ta [ta ]1 / [e kOtha]1 jane         na [je baba           aS-be]1
+\g boy-CL this / this story        knows not that father           come-will
+\l The boy does not know it that his father will come
+
+\t tumi bhebecho [ke baRi koreche]
+\m tumi bhebe-cho [ke baRi kore-che]
+\g  you think-PTS2 who house make-PTS3
+\l You thought who has built a house?
+
+\t tumi Sunecho      [ke baRi koreche]
+\m tumi Sune-cho      [ke baRi kore-che]
+\g you hear-PTS2       who house make-PTS3
+\l You heard who     has built a house
+
+\t tomar mon kharap [ami kolkataY     jabo       na bole]
+\m tomar mon kharap [ami kolkata-Y     ja-bo       na bole]
+\g your mood bad      I Calcutta-LOC go-FUT1 NEG because
+\l You are in bad mood because I won't go to Calcutta
+
+\t kothaY1    tomar mon kharap [ami t1 jabo     na bole]?
+\m kotha-Y1    tomar mon kharap [ami t1 ja-bo     na bole]?
+\g where-LOC your mood bad         I     go-FUT1 NEG because
+\l Where are you in bad mood because I won't go?
+
+\t [tomar beralke]1 amra SObai [ paSer           baRir kukur t1         kamReche bole] Sunechilam
+\m [tomar beral-ke]1 amra SObai [ paS-er           baRi-r kukur t1         kamRe-che bole] Sune-chilam
+\g your     cat-ACC we all            side-GEN house-GEN dog               bite-PTS3 COMP hear-PTS1   
+\l Your cat, we have all heard that the dog from next door has bitten
+
+\t [bas theke]1 amar didi [Otogulo duronto         bacca t1    laphiye nambe       bole] bhabe ni     
+\m [bas theke]1 amar didi [Otogulo duronto         bacca t1    laphi-ye nam-be       bole] bhabe ni     
+\g  bus from my sister so-many uncontrollable children         jump-PPT descend-FUT3 COMP think3 NEG-PTS
+\l From the bus, my sister didn't think that so many uncontrollable children would jump off
+
+\t Sipra amake ekTuo         bhalobaSe na
+\m Sipra ama-ke ekTu-o         bhalobaS-e na
+\g Sipra me       little-even loves-3   not
+\l Sipra doesn't love me at all
+
+\t ami okhane dekhi ni         kauke
+\m ami okhane dekh-i ni         kau-ke
+\g I     there see-1 not anyone
+\l I didn't see anyone
+
+\t ami [Sipra ekTuo         ingreji bolte pare bole] bhabi ni
+\m ami [Sipra ekTu-o         ingreji bolte pare bole] bhab-i ni
+\g I Sipra little-even English speak can COMP think-1 not
+\l I didn't think that Sipra can speak any English
+
+\t ami biSSas kori          na [je Sipra ekTuo            ingreji bolte pare]
+\m ami biSSas kor-i          na [je Sipra ekTu-o            ingreji bolte pare]
+\g  I     belief make-1 not that Sipra little-even English speak can
+\l I don't believe that Sipra can speak any English
+
+\t amar Sondeho ache [je o                amader jonno ekTuo          angul narabe]
+\m amar Sondeho ache [je o                amader jonno ekTu-o          angul nara-be]
+\g  me doubt           is    that (s)he us          for little-even finger move-FUT
+\l I doubt that he/she will lift a finger for us
+
+\t keu    bhabe na [je Sipra ekTuo            Sahajje       aSbe]
+\m ke-u    bhab-e na [je Sipra ekTu-o            Sahajj-e       aS-be]
+\g someone-even think-3 not that Sipra little-even help-LOC            come-FUT2
+\l It is not believed by anybody that Sipra will help even a little
+
+\t Ami kokhono an khai ni
+\m Ami kokhono an khai ni
+\g I ever mangoes ate neg
+\l I never ate mangoes
+
+\t Ami kokhono an khai na
+\m Ami kokhono an khai na
+\g I ever mangoes ate neg
+\l I never ate mangoes
+
+\t Saemoli amar bari ese hilo
+\m Saemoli amar bari ese hilo
+\g Shamoli my house had-come-to
+\l Shamoli had come to my house.
+
+\t samprati gantavy¯ puri             a a. i       may¯ a
+\m samprati gan-tavy¯ puri             a a. i       may¯ a
+\g now      go-Gerund city.Nom.F.Sg Benares.Nom.F.Sg I.Inst
+\l now I want to go to the city of Benares
+
+\t Ami bollam cheleTA je lingwistiks pORe.
+\m Ami bol-lam chele-TA je lingwistiks pORe.
+\g I-said-boyDEF-SUB-linguistics-studies
+\l I said that the boy studied linguistics.
+
+\t o    je    nachlo, *(sheTa) amaderke hashalo.
+\m o    je    nachlo, *(sheTa) amaderke hashalo.
+\g he-SUB-danced-this-us-amused
+\l that he danced, this amused us.
+
+\t cheleTA je lingwistiks pORe, *(sheTa) ami bollam.
+\m chele-TA je lingwistiks pORe, *(sheTa) ami bol-lam.
+\g boy-SUB-linguistics-studies-this-I-said
+\l that the boy studies linguistics, this I said.
+
+\t amar mone hOe [ (je) [ chele(Ta) (je) [VP lingwistiks poRbe ]···] Ek din
+\m amar mone hOe [ (je) [ chele(-Ta) (je) [VP lingwistiks poR-be ]···] Ek din
+\g  (I think)-SUB-boyDEF-SUB ­ linguistics-readFUT-one-day
+\l I think that one day the boy will study linguistics.
+
+\t Ami bollam cheleTA lingwistiks je PORE.
+\m Ami bol-lam chele-TA lingwistiks je PORE.
+\g I-said-boyDEF-linguistics-SUB-studies
+\l I said that the boy studied Linguistics.
+
+\t lingwistiksi       cheleTA poRbe
+\m lingwistiks-i       chele-TA poR-be
+\g linguistics-TOP-boyDEF-readFUT
+\l Linguistics, the boy will study.
+
+\t oi    lal boi duTo
+\m oi    lal boi du-To
+\g those red book two-Cl
+\l those two red books
+
+\t oi    duTo lal boi
+\m oi    du-To lal boi
+\g those two-Cl red book
+\l those two red books
+
+\t (13)a. rajeni       baRi jabe
+\m (13)a. rajen-i       baRi jabe
+\g        Rajen-EMP     home go-will
+\l Only Rajen/ Rajen himself will go home
+
+\t (14)a. ami          boi    duTo     dekhechi
+\m (14)a. ami          boi    du-To     dekhechi
+\g        I            book two-CLA seen.1
+\l I have      seen the two books
+
+\t (18)a. bonTi       amar khub SadaSidhe
+\m (18)a. bon-Ti       amar khub Sada-Sidhe
+\g         sister-CLA my very plain-straight
+\l sister mine is very plain and simple
+
+\t (19)a. rakhaler       bhai/ *bhai rakhaler  khub bhalo
+\m (19)a. rakhal-er       bhai/ *bhai rakhal-er  khub bhalo
+\g        Rakhal-GEN brother/ brother Rakhal-GEN very good
+\l Rakhal's bother is very good
+
+\t (20)a. ei            duTo         bhai amar ....
+\m (20)a. ei            du-To         bhai amar ....
+\g        this          two-CLA       brother mine
+\l these       two brothers (of) mine, ....
+
+\t (32)a. amar naTok lekha
+\m (32)a. amar naTok lekha
+\g        my      play writing
+\l my play writing
+
+\t amar lekha naTok
+\m amar lekha naTok
+\g  my      written play
+\l a play written by me
+
+\t (33)a. amar gaRi calano
+\m (33)a. amar gaRi cala-no
+\g        my      car     drive-GER
+\l my driving a car
+
+\t (35)a. jOn kon boiTa          poRlo
+\m (35)a. jOn kon boi-Ta          poRlo
+\g        John which book-CLA read?
+\l Which book did John read?
+
+\t (36)a. jOn ke cole gEche bollo
+\m (36)a. jOn ke cole gEche bollo
+\g        John who left gone said?
+\l Who did John say left?
+
+\t [jOn      kei bollo [ ti cole gEche]
+\m [jOn      kei bollo [ ti cole gEche]
+\g [John    who said        leave gone]?
+\l Who      did John say left?
+
+\t jon Dilonse      kal       [kon boiTa]i    kinlo ti
+\m jon Dilons-e      kal       [kon boi-Ta]i    kinlo ti
+\g John Dillons-LOC yesterday which book-CLA bought?
+\l Which book did John buy yesterday in Dillons?
+
+\t Ami paËer ba ir kukur a tomake kamrech e Ëunech ilam.
+\m Ami paËer ba ir kukur a tomake kamre-ch e Ëune-ch ilam.
+\g I    [next house dog      you     bitten-has] heard-have
+\l I heard the next door's dog has bitten you
+

@@ -1,0 +1,55 @@
+\t mahEisia            / //               lOilO
+\m mahEisia            / //               lOilO
+\g chiefs            SM   3P-leopard      see.PAST
+\l The chiefs saw a leopard
+
+\t mahEi/       tilOilO
+\m mahEi/       ti-lOilO
+\g chief        OM3P-saw
+\l The chief saw them
+
+\t mahEi/       tiwaailO
+\m mahEi/       ti-waailO
+\g chief        OM3P-killed
+\l The chief killed them
+
+\t mahEi/       tOilO
+\m mahEi/       tOilO
+\g chief        OM3SNH.saw
+\l The chief saw it
+
+\t mbEi/         ve       kpana/   wE
+\m mbEi/         ve       kpana/   wE
+\g   rice        give     Kpana    to
+\l Give the rice to Kpana
+
+\t fe                     kpana/   wE
+\m fe                     kpana/   wE
+\g   OM3SNH.give      Kpana    to
+\l Give it to Kpana
+
+\t mbEi/         ve       ngiE/
+\m mbEi/         ve       ngiE/
+\g   rice        give     3SH.to
+\l Give the rice to him
+
+\t fe                     ngiE/
+\m fe                     ngiE/
+\g   OM3SNH.give      3SH.to
+\l Give it to him
+
+\t kpana$       gO/        a          mbEi/
+\m kpana$       gO/        a          mbEi/
+\g   Kpana      give       with       rice
+\l Give the rice to Kpana
+
+\t kpana$       gO/        la
+\m kpana$       gO/        la
+\g   Kpana      give       with.it
+\l Give it to Kpana
+
+\t ngigO/            a            mbEi/
+\m ngi-gO/            a            mbEi/
+\g   OM3SH-give with            rice
+\l Give the rice to him
+

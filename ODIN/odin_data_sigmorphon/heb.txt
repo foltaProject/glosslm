@@ -1,0 +1,3405 @@
+\t hayeled student.
+\m ha-yeled student.
+\g the-boy student
+\l The boy is a student.
+
+\t hayalda pikxit.
+\m ha-yalda pikxit.
+\g the-girl smart-f
+\l The girl is smart.
+
+\t Dani hamore.
+\m Dani ha-more.
+\g Dani the-teacher
+\l Dani is the teacher.
+
+\t Hamelex hu           david
+\m Ha-melex hu           david
+\g the-king 3.sing.masc David
+\l David is the King/The king is David
+
+\t Dani more
+\m Dani more
+\g Dani teacher
+\l Dani is a teacher
+
+\t hu *hu student(cf. Dani hu student)
+\m hu *hu student(cf. Dani hu student)
+\g He     agr student
+\l he is a student
+
+\t hu hu hamore
+\m hu hu ha-more
+\g he agr the teacher.
+\l he is the teacher
+
+\t ca'if hayalda
+\m ca'if ha-yalda
+\g scarf det-girl
+\l The girl's scarf
+
+\t Dani more
+\m Dani more
+\g Danny teacher
+\l Danny is a teacher
+
+\t Dani hu more
+\m Dani hu more
+\g Danny 3sng teacher
+\l Danny is the teacher
+
+\t Dani hamore
+\m Dani ha-more
+\g Danny the teacher
+\l Danny is the teacher
+
+\t astronawtim higiu layareax, aval KO Z M Onawtim hayu risonim baxalal.
+\m astronawtim higiu la-yareax, aval KO Z M Onawtim hayu risonim ba-xalal.
+\g astronauts arrived to.the-moon but cosmonauts     were first       in.the-space
+\l Astronauts reached the moon, but cosmonauts were first in space.
+
+\t (1) hayeladim gvohim venemuxim
+\m (1) ha-yelad-im gvoh-im ve-nemux-im
+\g     the-child-pl tall-pl and-short-pl
+\l (2) The children are tall and short.
+
+\t hanamux (haze) hu sofer mefursam
+\m ha-namux (ha-ze) hu sofer mefursam
+\g the-short the-this P R writer famous
+\l The/this short [person] is a famous writer
+
+\t (20)*hanamux mimeter vaxeci (haze) hu sofer mefursam
+\m (20)*ha-namux mi-meter va-xeci (ha-ze) hu sofer mefursam
+\g      the-short than-meter and-half the-this P R writer famous
+\l The/this shorter than 1.50m. . . 
+
+\t hayeladim gvohim mimeter vaxeci venemuxim mimeter slosim
+\m ha-yelad-im gvoh-im mi-meter va-xeci ve-nemux-im mi-meter slosim
+\g the-child-pl tall-pl than-meter and-half and-short-pl than-meter thirty
+\l The children are taller than 1.50m and shorter than 1.30m.
+
+\t (28)#hayeladim gvohim veulay      nemuxim
+\m (28)#ha-yelad-im gvoh-im ve-ulay      nemux-im
+\g      the-child-pl tall-pl and-perhaps short-pl
+\l (29)#The children are tall and perhaps short.
+
+\t (30) hayeladim gvohim verazim
+\m (30) ha-yelad-im gvoh-im ve-raz-im
+\g      the-child-pl tall-pl and-thin-pl
+\l (31) The children are tall and thin.
+
+\t hayeladim bnei ses vebnei seva
+\m ha-yelad-im bn-ei ses ve-bn-ei seva
+\g the-child-pl ben-pl six and-ben-pl seven
+\l The children are six years old and seven years old.
+
+\t hayeladim bnei ses veseva
+\m ha-yelad-im bn-ei ses ve-seva
+\g the-child-pl ben-pl six and-seven
+\l The children are six and seven years old.
+
+\t hayeladim sxorei `enayim vesxorei se`ar
+\m ha-yelad-im sxor-ei `enayim ve-sxor-ei se`ar
+\g the-child-pl black-pl eyes    and-black-pl hair
+\l The children are black-eyed and black-haired.
+
+\t hayeladim sxorei `enayim vese`ar
+\m ha-yelad-im sxor-ei `enayim ve-se`ar
+\g the-child-pl black-pl eyes    and-hair
+\l The children are black-eyed and -haired.
+
+\t hayeladim bikru      ecel doda klara ksehem hayu bnei ses vebnei           seva 
+\m ha-yelad-im bikr-u      ecel doda klara kse-hem hay-u bn-ei ses ve-bn-ei           seva 
+\g the-child-pl visited-pl at aunt Clara when-they was-pl ben-pl six and-ben-pl       seven
+\l The children visited Aunt Clara when they were six years old and seven years old.
+
+\t hayeladim bikru      ecel doda klara ksehem hayu bnei ses veseva
+\m ha-yelad-im bikr-u      ecel doda klara kse-hem hay-u bn-ei ses ve-seva
+\g the-child-pl visited-pl at aunt Clara when-they was-pl ben-pl six and-seven
+\l The children visited Aunt Clara when they were six and seven years old.
+
+\t hacvaQim batmuna         hem adom vesaxor
+\m ha-cvaQ-im ba-tmuna         hem adom ve-saxor
+\g the-color-pl in.the-picture P R red.sg and-black.sg
+\l The colors in the picture are red and black
+
+\t hadgalim batmuna        adumim vesxorim
+\m ha-dgal-im ba-tmuna        adum-im ve-sxor-im
+\g the-flag-pl in.the-picture red-pl and-black-pl
+\l The flags in the picture are red and black
+
+\t hayeladim, hagavoah vehanamux, mesaxkim kadursal
+\m ha-yelad-im, ha-gavoah ve-ha-namux, mesaxk-im kadursal
+\g the-child-pl the-tall.sg and-the-short.sg play-pl      basketball
+\l The children, the tall one and the short one, are playing basketball
+
+\t (56)*hayeladim, hagavoah mimeter vaxeci vehanamux mimeter slosim,                  mesaxkim kadursal  
+\m (56)*ha-yelad-im, ha-gavoah mi-meter va-xeci ve-ha-namux mi-meter slosim,                  mesaxk-im kadursal  
+\g      the-child-pl the-tall.sg than-meter and-half and-the-short.sg than-meter thirty       play-pl   basketball
+\l The children, the taller than 1.50m and shorter than 1.30m. . . 
+
+\t hayeladim, hagavoah veharaze,        mesaxkim kadursal
+\m ha-yelad-im, ha-gavoah ve-ha-raze,        mesaxk-im kadursal
+\g the-child-pl the-tall.sg and-the-thin.sg play-pl      basketball
+\l The children, the tall one and the thin one, are playing basketball
+
+\t hanesiim,      hakodem      vehanoxexi,      hitvakxu kol hazman
+\m ha-nesi-im,      ha-kodem      ve-ha-noxexi,      hitvakxu kol ha-zman
+\g the-president-pl the-former.sg and-the-current.sg argued all the-time
+\l The presidents, the former one and the current one, argued the whole time
+
+\t etmol     hayu bamesiba sganei alufim vetatei alufim
+\m etmol     hayu ba-mesiba sgan-ei aluf-im ve-tat-ei aluf-im
+\g yesterday were at.the-party deputy-pl general-pl and-sub-pl general-pl
+\l At the party yesterday there were lt. colonels and brigadier generals
+
+\t etmol     hayu bamesiba sganei vetatei alufim
+\m etmol     hayu ba-mesiba sgan-ei ve-tat-ei aluf-im
+\g yesterday were at.the-party deputy-pl and-sub-pl general-pl
+\l At the party yesterday there were lt. colonels and brigadier generals
+
+\t etmol     hayu bamesiba rofe             verofat       sinayim
+\m etmol     hay-u ba-mesiba rofe             ve-rof-at       sinayim
+\g yesterday were-pl at.the-party doctor.m.sg and-doctor-f.sg teeth
+\l At the party yesterday there were a male dentist and a female dentist
+
+\t etmol     hayu bamesiba sgan            aluf       vetat      aluf
+\m etmol     hay-u ba-mesiba sgan            aluf       ve-tat      aluf
+\g yesterday were-pl at.the-party deputy.sg general.sg and-sub.sg general.sg
+\l At the party yesterday there were a lt. colonel and a brigadier general
+
+\t dani hikir et matan vilnai betor sgan        vetat      aluf
+\m dani hikir et matan vilnai betor sgan        ve-tat      aluf
+\g Danny knew acc Matan Vilnai as deputy.sg and-sub.sg general.sg
+\l Danny knew Matan Vilnai as a lt. colonel and a brigadier general
+
+\t ra'iti.I 'et haciyurim le'aba
+\m ra'iti.I 'et ha-ciyurim le-'aba
+\g    saw.1sg OM the-paintings to-daddy.
+\l I showed the paintings to Daddy
+
+\t 'ani roca se'aba          yokal.I       'oti    9aksab
+\m 'ani roca se-'aba          yokal.I       'oti    9aksab
+\g  I     want that-daddy eat.fut.3.sg OM.me now
+\l I want Daddy to feed me now
+
+\t 'ima         zuzi.I                      li    'et hakise
+\m 'ima         zuzi.I                      li    'et ha-kise
+\g  mommy move.intrans.imperative to-me OM the-chair
+\l Mommy, move the chair for me
+
+\t ze lo mesader.III                             Na'ama, 2;2
+\m ze lo mesader.III                             Na'ama, 2;2
+\g  this no arrange
+\l It doesn't fit/become arranged
+
+\t ze lo madbiq.V                               Na'ama, 2;2
+\m ze lo madbiq.V                               Na'ama, 2;2
+\g this no stick.trans
+\l it doesn't stick
+
+\t hoci.V 'oto mehabor                                      (26a)       Na'ama, 2;3
+\m hoci.V 'oto me-ha-bor                                      (26a)       Na'ama, 2;3
+\g took-out it from-the-hole
+\l (he) got it out of the hole
+
+\t NAA: ken hu moci.V [=yoce.I] lebad
+\m NAA: ken hu moci.V [=yoce.I] lebad
+\g           yes he (comes-out)            by-itself
+\l it comes out by itself, too
+
+\t lama ze hakol nipraq.II                                       3;11
+\m lama ze ha-kol nipraq.II                                       3;11
+\g  why it the-all fell-apart
+\l Why did it all fall apart?
+
+\t 'ani nora mit9aleb.VII kse'omrim li           kaka            5;2
+\m 'ani nora mit9aleb.VII kse-'omrim li           kaka            5;2
+\g  I very offended            when-say.pl to-me that
+\l I become very offended when someone says that to me
+
+\t dani     yihye           xaxam
+\m dani     yihye           xaxam
+\g Dani     cop-3sg.fut     wise
+\l Dani   will be wise.
+
+\t Dani     (*hu) me'od 'ayef         hayom
+\m Dani     (*hu) me'od 'ayef         ha-yom
+\g Dani      3m.sg very tired         the day
+\l Dani    is very tired today.
+
+\t telaviv ??(hi) beyisrael
+\m tel-aviv ??(hi) be-yisrael
+\g Tell Aviv 3f.sg Israel
+\l Tel Aviv is in Israel.
+
+\t Rina (*hi) 'asuka haboker
+\m Rina (*hi) 'asuka ha-boker
+\g Rina 3f.sg busy the morning
+\l Rina is busy this morning.
+
+\t hakli haze *(hu) patiS
+\m ha-kli ha-ze *(hu) patiS
+\g the tool the this 3m.sg hammer
+\l This tool is a hammer.
+
+\t Dani (*hu) me'od 'ayef hayom
+\m Dani (*hu) me'od 'ayef ha-yom
+\g Dani 3m.sg very tired the day
+\l Dani is very tired today.
+
+\t Hamaftexot naflu li.
+\m Ha-maftexot naflu li.
+\g  the-keys       fell   to.me
+\l My keys fell.
+
+\t Hapo'alim 'avdu         li.
+\m Ha-po'alim 'avdu         li.
+\g  the-workers worked to.me
+\l My workers worked.
+
+\t Hasimla hayta          lebana (*li).
+\m Ha-simla hayta          lebana (*li).
+\g  the-dress be.past white (to.me)
+\l The (*my) dress was white.
+
+\t Habat          hayta     xola (*leRina).
+\m Ha-bat          hayta     xola (*le-Rina).
+\g  the-daughter be.past sick (to Rina)
+\l The (*Rina's) daughter was sick.
+
+\t  yaxsil     ·otoi
+\m  yaxsil     ·otoi
+\g  will flunk him
+\l This is the guy that I informed his parents that the teacher will flunk him
+
+\t ha·is          se    ·imo       ·ohevet ·oto
+\m ha-·is          se    ·im-o       ·ohevet ·oto
+\g  the-man that mother-his loves            him
+\l The man that his mother loves (him)
+
+\t Ze habaxuri se yidaqti            ·et hahorim seloi se       hamore        yaxsil       ·oto  i
+\m Ze ha-baxuri se yidaqti            ·et ha-horim sel-oi se       ha-more        yaxsil       ·oto  i
+\g  this the-guy that informed-I ACC the parents of-him that the-teacher          will-flunk him      
+\l This is the guy that I informed his parents that the teacher will flunk him
+
+\t Ze habaxuri se         yidaqti   ·et  hahorim   sel haidioti se        hamore       yaxsil      ·otoi
+\m Ze ha-baxuri se         yidaqti   ·et  ha-horim   sel ha-idioti se        ha-more       yaxsil      ·otoi
+\g   this the-guy that informed-I ACC the-parents of the idiot that          the-teacher will-flunk him     
+\l This is the guy that I informed the idiot's parents that the teacher will flunk him
+
+\t para shel ikar
+\m para shel ikar
+\g cow of         farmer
+\l a farmer's cow
+
+\t haima     shelo
+\m haima     shelo
+\g mother of-his
+\l his mother
+
+\t haknisa          (shel zarim)          laxacer       hi    asura.
+\m haknisa          (shel zarim)          laxacer       hi    asura.
+\g the-entrance     (of    strangers) to-the-yard       is    forbidden
+\l Strangers are forbidden to enter the yard.
+
+\t haknisa        (laxacer)         hi cara          miday        bishvilo.
+\m haknisa        (laxacer)         hi cara          miday        bishvilo.
+\g the-entrance (to-the yard) is         narrow too.much          for him
+\l The entrance of the yard is too narrow for him.
+
+\t knisa       shel       yeled
+\m knisa       shel       yeled
+\g entrance of            boy
+\l the entrance of the   boy
+
+\t habitul               shel     haxoq
+\m ha-bitul               shel     ha-xoq
+\g the-cancellation       of       the-law
+\l the cancellation of   the law
+
+\t hadxiya        shel dan       et    hahacaa
+\m ha-dxiya        shel dan       et    ha-hacaa
+\g the-rejection of        Dan ACC the-offer
+\l Dan's rejection of the offer
+
+\t ligmor       et      haavoda      ze        xashuv        lánu.
+\m ligmor       et      haavoda      ze        xashuv        lánu.
+\g to finish    OM the-work          it(is)    important     for-us
+\l To finish the work is important for us.
+
+\t ligmor               avoda        ze        xashuv        lánu.
+\m ligmor               avoda        ze        xashuv        lánu.
+\g to finish            (a)work      it(is)    important     for-us
+\l To finish a work is important for us.
+
+\t bigmor          Dan      et     haavoda      hu         shav        habáyta.
+\m bigmor          Dan      et     haavoda      hu         shav        habáyta.
+\g on-finishing    Dan      OM the-work         he         return      home
+\l On Dan's finishing the work, he returned home.
+
+\t bigmor          Dan            avoda         hu    shav             habáyta.
+\m bigmor          Dan            avoda         hu    shav             habáyta.
+\g on-finishing    Dan            (a) work      he    return           home
+\l On Dan's finishing a/some work, he returns home.
+
+\t gmirat      Dan      et      haavoda     garma lo             sipuk.
+\m gmirat      Dan      et      haavoda     garma lo             sipuk.
+\g finishing Dan        OM      the-work give         him        satisfaction.
+\l Dan's completion of the work gave him satisfaction.
+
+\t gmirat     Dan              avoda       garma lo         sipuk.
+\m gmirat     Dan              avoda       garma lo         sipuk.
+\g finishing Dan                (a)work     give     him satisfaction.
+\l Dan's completion of a/some work gives him satisfaction.
+
+\t hadxiya        shel hahacaa al ydey dan
+\m ha-dxiya        shel ha-hacaa al ydey dan
+\g the-rejection of        the-offer by      Dan
+\l Dan's rejection of the offer
+
+\t hadxiya         shel dan      et      hahacaa
+\m ha-dxiya         shel dan      et      ha-hacaa
+\g the-rejection    of       Dan ACC the-offer
+\l Dan's rejection of the offer
+
+\t dxiyatdan     shel hahacaa
+\m dxiyat-dan     shel ha-hacaa
+\g rejection-of Dan of          the-offer
+\l Dan rejection of the offer
+
+\t hadxiya        shel hahacaa al ydey dan
+\m ha-dxiya        shel ha-hacaa al ydey dan
+\g the-rejection of        the-offer by      Dan
+\l Dan's rejection of the offer
+
+\t dxiyathahacaa     shel   dan
+\m dxiyat-ha-hacaa     shel   dan
+\g the-rejection-of-the-offer       of     Dan
+\l Dan's rejection of the offer
+
+\t parato       shel   ikar
+\m parato       shel   ikar
+\g cow-his of          farmer
+\l a farmer'cow
+
+\t Dan kara *(et) hasefer.
+\m Dan kara *(et) ha-sefer.
+\g Dan read *(et) the-book
+\l Dan read the book.
+
+\t Dan kara (*et)         sefer.
+\m Dan kara (*et)         sefer.
+\g Dan read (*et)         book
+\l Dan read a book.
+
+\t xulcat hayeled hablondini
+\m xulcat ha-yeled ha-blondini
+\g shirt the-boy the-blond
+\l the blond boy's shirt
+
+\t gag re'afim adumim
+\m gag re'afim adumim
+\g roof tiles red
+\l a roof of red tiles
+
+\t mexirat habayit
+\m mexirat ha-bayit
+\g selling     the-house
+\l the selling of the house
+
+\t mapat hair
+\m mapat ha-ir
+\g map the-city
+\l the map of the city
+
+\t mapat *(hair)
+\m mapat *(ha-ir)
+\g map the-city
+\l the map of the city'8
+
+\t mapa (sel      hair)
+\m mapa (sel      ha-ir)
+\g map of         the-city
+\l a map of the city
+
+\t kvucat     mumxim gdola
+\m kvucat     mumxim gdola
+\g group.FEM experts     big.FEM
+\l a big group of experts
+
+\t ibadeti     *(et) mapat hair          *(ha)meforetet.
+\m ibadeti     *(et) mapat ha-ir          *(ha-)meforetet.
+\g lost.1SG *(et) map the-city *(the-)detailed
+\l I lost the detailed map of the city.
+
+\t ra'iti     (*et) migdaley misradim (*ha)mexo'a rim.
+\m ra'iti     (*et) migdaley misradim (*ha-)mexo'a rim.
+\g saw.1SG (*et) towers        offices (*the-)ugly
+\l I saw ugly office towers.
+
+\t sloset     hasfarim
+\m sloset     ha-sfarim
+\g three      the-books
+\l the three books
+
+\t hayeled *(ha)xaxam
+\m ha-yeled *(ha-)xaxam
+\g the-boy *(the-)smart
+\l the smart boy
+
+\t ra'iti     *(et)      hayeled.
+\m ra'iti     *(et)      ha-yeled.
+\g saw.1SG *(et)         the-boy
+\l I saw the boy.
+
+\t ra'iti     (*et)      yeled.
+\m ra'iti     (*et)      yeled.
+\g saw.1SG (*et)         boy
+\l I saw a boy.
+
+\t kara't i    sefer ze.
+\m kara't i    sefer ze.
+\g read.1SG book this
+\l I read this book.
+
+\t ri'ayanti         (*et) kol      mu'amad (*ha)recini.
+\m ri'ayanti         (*et) kol      mu'amad (*ha-)recini.
+\g interviewed.1SG (*et) every candidate (*the-)serious
+\l I interviewed every serious candidate.
+
+\t ri'ayanti          *(et) kol hamu'amadim               *(ha)reciniyim.
+\m ri'ayanti          *(et) kol ha-mu'amadim               *(ha-)reciniyim.
+\g interviewed.1SG *(et) all the-candidates                *(the-)serious.PL
+\l I interviewed all the serious candidates.
+
+\t kol      slosa      yeladim yaxinu              uga.
+\m kol      slosa      yeladim yaxinu              uga.
+\g every    three      children make.FUT           cake
+\l Every three children will bake a cake.
+
+\t ra' iti   *(et) axad hayeladim.
+\m ra' iti   *(et) axad ha-yeladim.
+\g saw.1SG *(et) one        the-boys
+\l I saw one of the boys.
+
+\t ra' iti    (*et) slosa/harbe/ xelek mehayeladim.
+\m ra' iti    (*et) slosa/harbe/ xelek me-ha-yeladim.
+\g saw.1SG (*et) three/many/part of-the-boys
+\l I saw three/many/some of the boys.
+
+\t Esconde *(a) Bárbara.
+\m Esconde *(a) Bárbara.
+\g hide      (to)  Barbara
+\l Hide Barbara.
+
+\t tosav     hastaxim         ne'ecar   laxakira.
+\m tosav     ha-staxim         ne'ecar   la-xakira.
+\g resident the-territories arrested to-interrogation
+\l A resident of the territories was arrested for interrogation.
+
+\t necigat        habank xilka            alonim.
+\m necigat        ha-bank xilka            alonim.
+\g representative the-bank handed-out      brochures
+\l A representative of the bank handed out brochures.
+
+\t masarti       et hasefer leoved            hasifriya.
+\m masarti       et ha-sefer le-oved            ha-sifriya.
+\g handed.1SG et the-book to-worker             the-library
+\l I handed the book to a worker of the library.
+
+\t hapixut          besa'ar    hadolar tox     (*ha)horada sel             haribit    
+\m ha-pixut          be-sa'ar    ha-dolar tox     (*ha-)horada sel             ha-ribit    
+\g the-devaluation   in-rate     the-dollar while (the)decrease of             the-interest
+\l the devaluation in the exchange rate combined with the decrease of interest
+
+\t hapixut          besa'ar    hadolar tox     horadat              haribit    
+\m ha-pixut          be-sa'ar    ha-dolar tox     horadat              ha-ribit    
+\g the-devaluation   in-rate     the-dollar while decrease             the-interest
+\l the devaluation in the exchange rate combined with the decrease of interest
+
+\t hakatav       ri 'ayen       et tosav        hastaxim.
+\m ha-katav       ri 'ayen       et tosav        ha-staxim.
+\g the-reporter interviewed et resident the-territories
+\l the reporter interviewed the resident of the territories.
+
+\t ani makir et oved         hasifriya.
+\m ani makir et oved         ha-sifriya.
+\g   I know et worker the-library
+\l I know the worker of the library.
+
+\t bakbuk hayayin
+\m bakbuk ha-yayin
+\g bottle      the-wine
+\l the bottle of wine
+
+\t maxacit/rov hasfarim crixim laavor        lamadaf.
+\m maxacit/rov ha-sfarim crixim la-avor        la-madaf.
+\g half/most      the-books need to-move to-the-shelf
+\l Half/most of the books have to move to the shelf.
+
+\t aron hametim          lo      mat'im li.
+\m aron ha-metim          lo      mat'im li.
+\g closet the-dead.PL     NEG     fit    to-me
+\l The coffin doesn't fit me.
+
+\t aron hasfarim omed rek.
+\m aron ha-sfarim omed rek.
+\g closet the-books stands empty
+\l The book closet is standing empty.
+
+\t ra'iti     *(et) sloset/aseret/kol/rov hayeladim.
+\m ra'iti     *(et) sloset/aseret/kol/rov ha-yeladim.
+\g saw.1SG *(et) three/ten/all/most           the-children
+\l I saw the three/the ten children/all the children/most of the children
+
+\t ra'iti     (*et) tmuna mehasefer.
+\m ra'iti     (*et) tmuna me-ha-sefer.
+\g saw.1SG (*et) picture from-the-book
+\l I saw a picture from the book
+
+\t den rode hest
+\m den rode hest
+\g the    red      horse
+\l the red horse
+
+\t hesten
+\m hest-en
+\g horse-the
+\l the horse
+
+\t harisat       hacava et hair
+\m harisat       ha-cava et ha-ir
+\g destruction the-army et the-city
+\l the army's destruction of the city
+
+\t yes/en leDan et hasefer haze.
+\m yes/en le-Dan et ha-sefer ha-ze.
+\g yes/en to-Dan et the-book the-this
+\l Dan has/doesn't have this book.
+
+\t katuv      et ze        baitonim.
+\m katuv      et ze        ba-itonim.
+\g written.SG et this      in-the-newspapers
+\l This is written in the newspapers.
+
+\t ( of a. kaniti                gam et an independent gam et                   ha           mixnasayim.
+\m ( of a. kaniti                gam et an independent gam et                   ha-           mixnasayim.
+\g           bought.1SG     also    et the-shirt   and also   et the-                         pants      
+\l I bought both the shirt and the pants.
+
+\t yasavti     gam al hakise        ve       gam   al hasapa.
+\m yasavti     gam al ha-kise        ve       gam   al ha-sapa.
+\g sat.1SG     also on the-chair and also           on the-sofa
+\l I sat both on the chair and on the sofa.
+
+\t kaniti         et haxulca ve                 (et)     hamixnasayim.
+\m kaniti         et ha-xulca ve                 (et)     ha-mixnasayim.
+\g bought.1SG et the-shirt and                   et       the-pants
+\l I bought the shirt and the pants.
+
+\t ani    mecape miDan/           mimenu lehitpater.
+\m ani    mecape mi-Dan/           mimenu lehitpater.
+\g I      expect     from-Dan/             from-him to-resign
+\l I expect Dan/him to resign.
+
+\t sama'ti   et Dan sar.
+\m sama'ti   et Dan sar.
+\g heard.1SG et Dan singing
+\l I heard Dan singing.
+
+\t sama'ti        yeladim sarim.
+\m sama'ti        yeladim sarim.
+\g heard.1SG      children singing
+\l I heard children singing.
+
+\t hasofet maca ne'esam exad asem.
+\m ha-sofet maca ne'esam exad asem.
+\g the-judge found defendant one       guilty
+\l The judge found one defendant guilty.
+
+\t ra'iti     tmuna       sel [yeladim mesaxakim].
+\m ra'iti     tmuna       sel [yeladim mesaxakim].
+\g saw.1SG picture        of children playing
+\l I saw a picture of children playing.
+
+\t sama'ti        kolot sel [ciporim           sarot].
+\m sama'ti        kolot sel [ciporim           sarot].
+\g heard.1SG      voices of birds              singing
+\l I heard voices of birds singing.
+
+\t yalda     kxulat       enayim    sipra ma         kara.
+\m yalda     kxulat       enayim    sipra ma         kara.
+\g girl.FM   blue.FM      eyes      told.FM what     happened
+\l A blue-eyed girl told what happened.
+
+\t gdoley    haxokrim          histatfu        bakenes.
+\m gdoley    ha-xokrim          histatfu        ba-kenes.
+\g big.PL    the-researchers participated.PL in-the-conference
+\l The greatest researchers participated in the conference.
+
+\t halaxti   habayta/         haira/       yamina
+\m halaxti   ha-bayt-a/         ha-ir-a/       yamin-a
+\g went.1SG the-home-DAT/       the-town-DAT / right-DAT
+\l I went home/to town/to the right
+
+\t axalti     uga/ et hauga/        mehauga.
+\m axalti     uga/ et ha-uga/        me-ha-uga.
+\g ate.1SG    cake/ et the-cake/ of-the-cake
+\l I ate a/some cake/the cake/of the cake.
+
+\t yes/en li      et hasug      haze/       mehasug haze.
+\m yes/en li      et ha-sug      ha-ze/       me-ha-sug ha-ze.
+\g yes/en to-me et the-kind the-this/ of-the-kind the-this
+\l I have/don't have this kind/of this kind.
+
+\t mapat hair       sel Dan
+\m mapat ha-ir       sel Dan
+\g map the-city of Dan
+\l Dan's map of the city
+
+\t mapa sel hair
+\m mapa sel ha-ir
+\g map of the-city
+\l a map of the city
+
+\t harisat       hacava et hair
+\m harisat       ha-cava et ha-ir
+\g destruction the-army et the-city
+\l the army's destruction of the city
+
+\t axalti     uga/ et hauga/        mehauga.
+\m axalti     uga/ et ha-uga/        me-ha-uga.
+\g ate.1SG    cake/ et the-cake/ of-the-cake
+\l I ate a/some cake/the cake/of the cake.
+
+\t yes    slo sa     anasim     baxacer.
+\m yes    slo sa     anasim     ba-xacer.
+\g yes three         men        in-the-garden
+\l There are three men in the garden.
+
+\t yes    li      hasefer haze.
+\m yes    li      ha-sefer ha-ze.
+\g yes to-me the-book the-this
+\l I have this book.
+
+\t higi'u       slosa       anasim     baboker.
+\m higi'u       slosa       anasim     ba-boker.
+\g arrived.PL   three       men        in-the-morning
+\l Three men arrived in the morning.
+
+\t higi'u        sloset     haanasim baboker.
+\m higi'u        sloset     ha-anasim ba-boker.
+\g    arrived.PL    three      the-men in-the-morning
+\l The three men arrived in the morning.
+
+\t nimsar       li     et hahoda'a     hazot.
+\m nimsar       li     et ha-hoda'a     ha-zot.
+\g handed.MASC to-me et the-message.FEM the-this.FEM
+\l This message was delivered to me.
+
+\t kri'at     hasfarim hatxufa /      bimhirut
+\m kri'at     ha-sfarim ha-txufa /      bi-mhirut
+\g reading the-books the-frequent/ in-speed
+\l the frequent/speedy reading of the books
+
+\t (?ze) nidme li         seharakevet acra.
+\m (?ze) nidme li         se-ha-rakevet acra.
+\g (it)    seems to-me that-the-train stopped
+\l It seems to me that the train stopped.
+
+\t (*ze) haya tapuz al hasulxan.
+\m (*ze) haya tapuz al ha-sulxan.
+\g (there) was orange on the-table
+\l There was an orange on the table.
+
+\t hayu      tapuzim al hasulxan.
+\m hayu      tapuz-im al ha-sulxan.
+\g were.PL orange-PL on the-table
+\l There were oranges on the table.
+
+\t ne'elmu            kol    haugiyot.
+\m ne'elmu            kol    ha-ugiy-ot.
+\g disappeared.3PL all       the-cooky-PL
+\l All the cookies disappeared.
+
+\t asuy/alul likrot     kama                dvarim.
+\m asuy/alul likrot     kama                dvarim.
+\g may.SG happen        several             things.PL
+\l Several things may happen.
+
+\t yaxol     lipol alexa        egozey               kokos.
+\m yaxol     lipol alexa        egozey               kokos.
+\g can.SG    fall   on-you      nuts.PL              coconut
+\l Coconut nuts can fall on you.
+
+\t ba              li      glida         begavi'a.
+\m ba              li      glida         be-gavi'a.
+\g comes.MASC to-me ice-cream.FEM in-cone
+\l I feel like having (some) ice cream in a cone.
+
+\t magi'a           lo     makot.
+\m magi'a           lo     makot.
+\g arrives.SG.FEM
+\l He deserves spanking.
+
+\t mat'im    li      mis'ada        sinit.
+\m mat'im    li      mis'ada        sinit.
+\g fits.MASC to-me restaurant.FEM Chinese.FEM
+\l A Chinese restaurant suits me.
+
+\t ba              li      haglida           sekaninu.
+\m ba              li      ha-glida           se-kaninu.
+\g   comes.MASC to-me the-ice-cream.FEM that-bought.1PL
+\l I feel like having the ice cream that we bought.
+
+\t mat'im    li      hamis'ada       hasinit.
+\m mat'im    li      ha-mis'ada       ha-sinit.
+\g   fits.MASC to-me the-restaurant.FEM the-Chinese.FEM
+\l The Chinese restaurant suits me.
+
+\t Dan rakad       rikud/ vals.
+\m Dan rakad       rikud/ vals.
+\g Dan danced      dance/waltz
+\l Dan danced a dance/a waltz.
+
+\t Dan rac       kilometer.
+\m Dan rac       kilometer.
+\g Dan ran       kilometer
+\l Dan ran a kilometer.
+
+\t Dan nafal nefila recinit.
+\m Dan nafal nefila recinit.
+\g Dan fell      fall    serious
+\l Dan had a serious fall.
+
+\t Dan kilef et hatapu'ax           kiluf     muslam.
+\m Dan kilef et ha-tapu'ax           kiluf     muslam.
+\g Dan peeled et the-apple           peeling   perfect
+\l Dan peeled the apple perfectly.
+
+\t Dan daxaf        et hadelet     dxifa      kala.
+\m Dan daxaf        et ha-delet     dxifa      kala.
+\g Dan pushed       et the-door     pushing    light
+\l Dan pushed the door lightly.
+
+\t Dan caxak        *(et) hacxok                 hamitgalgel selo.
+\m Dan caxak        *(et) ha-cxok                 ha-mitgalgel selo.
+\g Dan laughed *(et) the-laughter                 the-rolling  his
+\l Dan laughed his rolling laughter.
+
+\t Dan daxaf et hadelet *(et)                hadxifa         harisona.
+\m Dan daxaf et ha-delet *(et)                ha-dxifa         ha-risona.
+\g Dan pushed et the-door *(et)               the-pushing      first
+\l Dan pushed the door first.
+
+\t axilat Dan et hauga
+\m axilat Dan et ha-uga
+\g eating Dan et the-cake
+\l Dan's eating of the cake
+
+\t axilat Dan tapuxeyec      rabim
+\m axilat Dan tapuxey-ec      rabim
+\g   eating Dan apples          many
+\l Dan's eating many apples
+
+\t natati        leDan egozim.
+\m natati        le-Dan egozim.
+\g gave.1SG      to-Dan nuts
+\l I gave (some) nuts to Dan.
+
+\t et mi     ra'ita     rac?
+\m et mi     ra'ita     rac?
+\g et who saw.2SG running
+\l Who did you see running?
+
+\t ani makir (*et) Sara axat.
+\m ani makir (*et) Sara axat.
+\g I know (*et) Sara one
+\l I know one (person named) Sara.
+
+\t tmuna     axat (hi)            xadasa.
+\m tmuna     axat (hi)            xadasa.
+\g picture one       is           new
+\l One picture is new.
+
+\t tmunat    praxim      axat (hi)             xadasa.
+\m tmunat    praxim      axat (hi)             xadasa.
+\g picture flowers       one     is            new
+\l One picture of flowers is new.
+
+\t salos tmunot       praxim     (hen) xadasot.
+\m salos tmunot       praxim     (hen) xadasot.
+\g three pictures flowers        are    new
+\l Three pictures of flowers are new.
+
+\t kaniti         et tmunat hasaxkanit. ani ma'aric             ota.
+\m kaniti         et tmunat ha-saxkanit. ani ma'aric             ota.
+\g bought.1SG et picture the-actress          I admire           her
+\l I bought the picture of the actress. I admire her.
+
+\t kaniti         tmunat      saxkanit. ani ma'aric      ota.
+\m kaniti         tmunat      saxkanit. ani ma'aric      ota.
+\g    bought.1SG picture         actress     I admire       her
+\l I bought a picture of an actress. I admire her.
+
+\t hexela mexira sel sifrey Amos Oz xatumim.
+\m hexela mexira sel sifrey Amos Oz xatumim.
+\g began selling of books Amos Oz signed
+\l A sale of signed Amoz Oz books has begun.
+
+\t hexela mexira sel sifrey Amos Oz haxatumim.
+\m hexela mexira sel sifrey Amos Oz ha-xatumim.
+\g began selling of books Amos Oz the-signed
+\l A sale of the signed Amos Oz books has begun.
+
+\t hexela mexira sel sifrey hasofer haxatumim.
+\m hexela mexira sel sifrey ha-sofer ha-xatumim.
+\g began selling of books the-author the-signed
+\l A sale of the signed books of the author has begun.
+
+\t ani    mexapes (et)       exad mehasfarim          seli.
+\m ani    mexapes (et)       exad me-ha-sfarim          seli.
+\g I      search      et     one    from-the-books      my
+\l I am looking for one of my book.
+
+\t ra'iti     *(et) batey hakfar .
+\m ra'iti     *(et) batey ha-kfar .
+\g saw.1SG *(et) houses the-village
+\l I saw the houses of the village.
+
+\t tosav      hastaxim        ne'ecar    laxakira.
+\m tosav      ha-staxim        ne'ecar    la-xakira.
+\g resident the-territories arrested to-interrogation
+\l A/the resident of the territories was arrested for interrogation.
+
+\t xayal      cva      hadarom neherag etmol.
+\m xayal      cva      ha-darom neherag etmol.
+\g soldier    army the-south killed          yesterday
+\l A/the soldier of the army of the south was killed yesterday.
+
+\t tmunat     haxasud        pursema baiton.
+\m tmunat     ha-xasud        pursema ba-iton.
+\g picture the-suspect        published in-the-newspaper
+\l A/the picture of the suspect was published in the newspaper.
+
+\t gufata    sel ovedet     sagrirut Kenya nimce'a be          dirata.          
+\m gufata    sel ovedet     sagrirut Kenya nimce'a be-          dirata.          
+\g body.3SG of employee embassy Kenya found            in-      apartment.3SG.FEM
+\l The body of an/the employee of the Kenyan embassy was found in her apartment.
+
+\t maxar         epages         im      necig           habank.
+\m maxar         epages         im      necig           ha-bank.
+\g tomorrow      meet.FUT.1SG with representative the-bank
+\l Tomorrow I'll meet with a/the representative of the bank.
+
+\t bxirat    hava'ada     beezrax medinat          yisra'el latafkid      mesuna.
+\m bxirat    ha-va'ada     be-ezrax medinat          yisra'el la-tafkid      mesuna.
+\g selection the-committee in-citizen state           Israel to-the-job      strange
+\l The committee's selection of a/the citizen of the state of Israel to the job is strange.
+
+\t Dan (hu) boger            haxug             lebalsanut.
+\m Dan (hu) boger            ha-xug             le-balsanut.
+\g Dan (is)       graduate the-department to-linguistics
+\l Dan is a/the graduate of the linguistics department.
+
+\t hamistara acra       et tosav         hastaxim.
+\m ha-mistara acra       et tosav         ha-staxim.
+\g the-police arrested et resident the-territories
+\l The police arrested the resident of the territories.
+
+\t hahafgaza harga et xayal cva            hadarom.
+\m ha-hafgaza harga et xayal cva            ha-darom.
+\g the-bombing killed et soldier army the-south
+\l The bombing killed the soldier of the army of the south.
+
+\t yes    li      et tmunat haxasud.
+\m yes    li      et tmunat ha-xasud.
+\g exist to-me et picture the-suspect
+\l I have the picture of the suspect.
+
+\t hikarti    et ovedet      sagrirut Kenya.
+\m hikarti    et ovedet      sagrirut Kenya.
+\g knew.1SG et employee embassy Kenya
+\l I knew the employee of the Kenyan embassy.
+
+\t maxar    efgos           et necig            habank.
+\m maxar    efgos           et necig            ha-bank.
+\g tomorrow meet.FUT.1SG et representative the-bank
+\l Tomorrow I'll meet the representative of the bank.
+
+\t bxirat    hava'ada     et ezrax medinat           yisra'el latafkid      mesuna.
+\m bxirat    ha-va'ada     et ezrax medinat           yisra'el la-tafkid      mesuna.
+\g selection the-committee et citizen state           Israel to-the-job       strange
+\l The committee's selection of the citizen of the state of Israel to the job is strange.
+
+\t hasaxen     sama et boger             haxug              lebalsanut nixnas.    
+\m ha-saxen     sama et boger             ha-xug              le-balsanut nixnas.    
+\g the-neighbor heard et graduate         the-department      to-linguistics entering
+\l The neighbor heard the graduate of the linguistics department coming in.
+
+\t xavrey  salos       katot   sodiyot     senexsefu   laaxrona             servu      lehitra'ayen.
+\m xavrey  salos       katot   sodiyot     se-nexsefu   la-axrona             servu      le-hitra'ayen.
+\g members three       sects   secret      that-exposed recently              refused to-be.interviewed
+\l (The) members of three secret sects which were recently exposed refused to be interviewed.
+
+\t hamistara      acra        xavrey  salos       katot   sodiyot      senexsefu     laaxrona .
+\m ha-mistara      acra        xavrey  salos       katot   sodiyot      se-nexsefu     la-axrona .
+\g the-police      arrested    members three       sects   secret       that-exposed recently     
+\l The police arrested members of three secret sects which were recently exposed.
+
+\t hamistara      acra        et xavrey  salos        katot   sodiyot      senexsefu     laaxrona .
+\m ha-mistara      acra        et xavrey  salos        katot   sodiyot      se-nexsefu     la-axrona .
+\g the-police      arrested    et members three        sects   secret       that-exposed recently     
+\l The police arrested the members of three secret sects which were recently exposed.
+
+\t hamistara acra       et xavreyhen  sel salos        katot            sodiyot senexsefu        laaxrona .
+\m ha-mistara acra       et xavrey-hen  sel salos        katot            sodiyot se-nexsefu        la-axrona .
+\g the-police arrested   et members.3PL of three         sects            secret     that-exposed recently     
+\l The police arrested the members of three secret sects which were recently exposed.
+
+\t ma    hizmanta?
+\m ma    hizmanta?
+\g what ordered.2SG
+\l What did you order?
+
+\t ma    hizmanta?
+\m ma    hizmanta?
+\g what ordered.2SG
+\l What did you order?
+
+\t et hamarak / sney salatim / sum        davar
+\m et ha-marak / sney salatim / sum        davar
+\g et the-soup / two salads / no           thing
+\l The soup / two salads / nothing.
+
+\t (et) mi       ra'ita      baxeder?
+\m (et) mi       ra'ita      ba-xeder?
+\g   et    who saw.2SG in-the-room
+\l Who did you see in the room?
+
+\t ani     ohev ??(et) mi       seDan ohev.
+\m ani     ohev ??(et) mi       se-Dan ohev.
+\g I       love et      who that-Dan-loves
+\l I love whoever Dan loves/the person that Dan loves.
+
+\t ani     ohev (et)     ma     seDan ohev.
+\m ani     ohev (et)     ma     se-Dan ohev.
+\g I       love et       what that-Dan-loves
+\l I love whatever Dan loves/the thing that Dan loves.
+
+\t ani     oxal ma       seDan      oxel.
+\m ani     oxal ma       se-Dan      oxel.
+\g I       eat.FUT what that-Dan     eats
+\l I will eat what Dan eats.
+
+\t ma   seDan             mexapes ze et hasefer seazar                     leRon   lesayem et hateza.      
+\m ma   se-Dan             mexapes ze et ha-sefer se-azar                     le-Ron   lesayem et ha-teza.      
+\g what that-Dan           looks-for is et the-book that-helped               to-Ron finish        et the-thesis
+\l What Dan is looking for is the book that helped Ron finish his thesis.
+
+\t ma    seDan     ra'a    ze et hasaxen.
+\m ma    se-Dan     ra'a    ze et ha-saxen.
+\g what that-Dan saw is et the-neighbor
+\l What Dan saw is the neighbor.
+
+\t ani makir Sara axat.
+\m ani makir Sara axat.
+\g I know Sara one
+\l I know one (person named) Sara.
+
+\t kaniti         et haxulca ve              et hamixnasayim.
+\m kaniti         et ha-xulca ve              et ha-mixnasayim.
+\g bought.1SG et the-shirt and                et the-pants
+\l I bought the shirt and the pants.
+
+\t xitanti             et Dan            ve      et Sara.
+\m xitanti             et Dan            ve      et Sara.
+\g caused-marry.1SG    et Dan            and     et Sara
+\l I made Dan and Sara marry.
+
+\t Dilan avar     bemispar hasirim sekatav et Simon                ve    Garfunkel.
+\m Dilan avar     be-mispar ha-sirim se-katav et Simon                ve    Garfunkel.
+\g Dylan exceeded in-number the-songs that-wrote et Simon             and Garfunkel   
+\l Dylan wrote more songs than Simon and Garfunkel.
+
+\t Dilan avar     bemispar hasirim sekatav et Simon         ve    et Garfunkel.
+\m Dilan avar     be-mispar ha-sirim se-katav et Simon         ve    et Garfunkel.
+\g Dylan exceeded in-number the-songs that-wrote et Simon      and et Garfunkel   
+\l Dylan wrote more songs than both Simon and Garfunkel.
+
+\t tosav      hastaxim        ne'ecar    laxakira.
+\m tosav      ha-staxim        ne'ecar    la-xakira.
+\g resident the-territories arrested to-interrogation
+\l A/the resident of the territories was arrested for interrogation.
+
+\t hamistara acra       et tosav         hastaxim.
+\m ha-mistara acra       et tosav         ha-staxim.
+\g the-police arrested et resident the-territories
+\l The police arrested the resident of the territories.
+
+\t Dan kara et axad hasfarim.
+\m Dan kara et axad ha-sfarim.
+\g Dan read et one          the-books
+\l Dan read one of the books.
+
+\t Dan kara et sefer         exad.
+\m Dan kara et sefer         exad.
+\g   Dan read et one           book
+\l Dan read one books.
+
+\t hamistara     acra        et xavrey  salos       katot   sodiyot             senexsefu     laaxrona .
+\m ha-mistara     acra        et xavrey  salos       katot   sodiyot             se-nexsefu     la-axrona .
+\g the-police     arrested    et members three       sects   secret              that-exposed recently     
+\l The police arrested the members of three secret sects which were recently exposed.
+
+\t hamistara     acra       et xavrey    kat      axat.
+\m ha-mistara     acra       et xavrey    kat      axat.
+\g    the-police     arrested et members sect one
+\l The police arrested the members of some sect.
+
+\t ma    seDan     ra'a    ze et hasaxen.
+\m ma    se-Dan     ra'a    ze et ha-saxen.
+\g what that-Dan saw is et the-neighbor
+\l What Dan saw is the neighbor.
+
+\t hagadol
+\m ha-gadol
+\g    DEF-large.SG.MASC
+\l the large one
+
+\t hayalda kilkela leDan             et haradio.
+\m ha-yalda kilkela le-Dan             et ha-radio.
+\g  the-girl     spoiled   to-Dan (DAT) ACC the-radio
+\l The girl broke Dan's radio.
+
+\t Gil gar leRina baxacer.
+\m Gil gar le-Rina ba-xacer.
+\g  Gil lives to-Rina   in-the-yard
+\l Gil lives in Rina's yard.
+
+\t Gil lakax leRina et hatik.
+\m Gil lakax le-Rina et ha-tik.
+\g  Gil took    to-Rina     Acc the-bag
+\l Gil took Rina's bag.
+
+\t Gil histakel leRina al habayit.
+\m Gil histakel le-Rina al ha-bayit.
+\g  Gil looked-at    to-Rina     on the-house
+\l Gil looked at Rina's house.
+
+\t Gil maca leRina et hataba `at.
+\m Gil maca le-Rina et ha-taba `at.
+\g  Gil found to-Rina ACC the-ring
+\l Gil found Rina's ring.
+
+\t Gil caxak leRina bamitbax.
+\m Gil caxak le-Rina ba-mitbax.
+\g  Gil laughed to-Rina        in-the-kitchen
+\l Gil laughed in Rina's kitchen.
+
+\t Gil s&avar leRina et hamis&kafayim s&el Sigal.
+\m Gil s&avar le-Rina et ha-mis&kafayim s&el Sigal.
+\g    Gil broke to-Rina ACC the-glasses              of Sigal
+\l Gil broke Sigal's glasses on Rina.
+
+\t beSavu'ot 'oxlim givna.
+\m be-Savu'ot 'oxlim givna.
+\g in-Pentecost eat.benoni.mpl cheese
+\l One eats cheese in Pentecost.
+
+\t Hadinozaur nixnas      la xeder.
+\m Ha-dinozaur nixnas      l-a- xeder.
+\g the-dinosaur enter.PST to-the- room
+\l The dinosaur entered the room.
+
+\t Nungu        ina phíkíts     a      kadzidzi maûngu
+\m Nungu        i-na- phík-íts-     a      kadzidzi maûngu
+\g (9)porcupine 9SUBJ-PST- cook-CAUS- VWL (1a)owl (6)pumpkins
+\l The porcupine had the owl cook the pumpkins.
+
+\t Pnina sama al hasulxan.
+\m Pnina sama al ha-sulxan.
+\g Pnina put on the-table
+\l Pnina put it on the table.
+
+\t Gidalt      ogrim.
+\m Gidal-t      ogrim.
+\g raise.PST-2FSG hamsters
+\l You (f.) raised hamsters.
+
+\t Tegadl        i     ogrim.
+\m Te-gadl-        i     ogrim.
+\g 2-raise.FUT- FSG hamsters
+\l You (f.) will raise hamsters.
+
+\t Megadel et ogrim.
+\m Me-gadel- et ogrim.
+\g  PRES-raise- F hamsters
+\l You (f.) raise hamsters.
+
+\t At     megadel et ogrim.
+\m At     me-gadel- et ogrim.
+\g you.F PRES-raise- F hamsters
+\l You (f.) raise hamsters.
+
+\t Medabrim          ivrit      be Yisrael.
+\m Medabrim          ivrit      be Yisrael.
+\g speak.PRES.M.PL Hebrew in Israel
+\l Hebrew is spoken (lit. [they] speak Hebrew) in Israel.
+
+\t Haya               lerina sefer.
+\m Haya               le-rina sefer.
+\g be.PAST.3MSG DAT-Rina book
+\l Rina had a book.
+
+\t Haya               li      keev ros.
+\m Haya               li      keev ros.
+\g be.PAST.3MSG DAT.1SG ache head
+\l I had a headache.
+
+\t Haya             lerina et hasefer.
+\m Haya             le-rina et ha-sefer.
+\g be.PAST.3MSG DAT-Rina ACC the-book
+\l Rina had the book.
+
+\t b.     ?Haya                      li             mexonit        kazot.
+\m b.     ?Haya                      li             mexonit        kazot.
+\g         be.PAST.3MSG              DAT.1SG        car(F)         such
+\l I had such a car.
+
+\t b.    Haya               lanu        et    hamexonit                        hazot od kse          garnu betel aviv.                
+\m b.    Haya               lanu        et    ha-mexonit                        hazot od kse          garnu be-tel aviv.                
+\g       be.PAST.3MSG DAT.1PL ACC the-car(F)                                    this still when       live.PAST.1PL          in-Tel Aviv
+\l We had this car when we were living in Tel Aviv.
+
+\t Mi ata xosev        se xibek     et Pnina                           ?
+\m Mi ata xosev        se xibek     et Pnina                           ?
+\g who you think.PRES that hug.PST ACC Pnina
+\l Who do you think hugged Pnina?
+
+\t Mi saalta      im xibek      et    Pnina                   ?
+\m Mi saalta      im xibek      et    Pnina                   ?
+\g  who you.asked if hug.PST ACC Pnina
+\l Who did you ask if hugged Pnina?
+
+\t haya               lerina sefer.
+\m haya               le-rina sefer.
+\g be.PAST.3MSG DAT-Rina book
+\l Rina had a book.
+
+\t haya               li      keev ros.
+\m haya               li      keev ros.
+\g be.PAST.3MSG DAT.1SG ache head
+\l I had a headache.
+
+\t haya             lerina et hasefer.
+\m haya             le-rina et ha-sefer.
+\g be.PAST.3MSG DAT-Rina ACC the-book
+\l Rina had the book.
+
+\t b.     ?haya                              li                mexonit        kazot.
+\m b.     ?haya                              li                mexonit        kazot.
+\g         be.PAST.3MSG                      DAT.1SG           car(F)         such
+\l I had such a car.
+
+\t b.    haya              lanu        et    hamexonit hazot od kse          garnu            betel aviv
+\m b.    haya              lanu        et    ha-mexonit hazot od kse-          garnu            be-tel aviv
+\g       be.PAST.3MSG DAT.1PL ACC the-car(F)            this still when-       live.PAST.1PL in-Tel Aviv   
+\l We had this car when we were living in Tel Aviv.
+
+\t parca              sam et        hasrefa      haxi gdola bair.
+\m parca              sam et        hasrefa      haxi gdola bair.
+\g broke.out.3FSG there ACC the.fire(F) the.most big        in.the.city
+\l The biggest fire in the city broke out there.
+
+\t kara                sam et       oto haason         gam basana        seavra.    
+\m kara                sam et       oto haason         gam basana        seavra.    
+\g happened.3MSG there ACC same the.disaster(M) also in.the.year         that.passed
+\l The same disaster occurred there last year too.
+
+\t xaverim tovim yatxilu              lihyot lo        rak ba sana                          habaa. 
+\m xaverim tovim yatxilu              lihyot lo        rak b-a- sana                          ha-baa. 
+\g friends good begin.FUT.3PL to.be DAT.3MSG only in-the- year                                the-next
+\l He will start having good friends only next year.
+
+\t carot        lo regilot cfuyot           lihyot la            im hi               titgares.        
+\m carot        lo regilot cfuyot           lihyot la            im hi               titgares.        
+\g troubles(F) un-usual foreseen.FPL to.be DAT.3FSG if she                           will.get.divorced
+\l She can expect to have unusual troubles if she gets divorced.
+
+\t tixtov
+\m ti-xtov
+\g 2m.sg/3f.sg will-write
+\l You-ms will write.
+
+\t moxrim             Sam      kartisim.
+\m moxrim             Sam      kartisim.
+\g sell[benoni]-3m.pl there tickets
+\l They(arb) sell tickets there.
+
+\t eyn(en)i/xa/ex/enu kotev/et/im sipurim.
+\m eyn-(en)i/-xa/-ex/-enu kotev/et/im sipurim.
+\g neg-1sg /2msg/2fsg/1pl write(benoni)-m.sg/f.sg/pl stories
+\l I/you.m/you.f/we do not write stories.
+
+\t ?eyno kotev sipurim.
+\m ?eyn-o kotev sipurim.
+\g neg 3m.sg write(benoni)-m.sg stories
+\l He doesn't write stories.
+
+\t ?eynan             mitxolelot         kan sufot.
+\m ?eyn-an             mitxolelot         kan sufot.
+\g   neg-3fpl occur(benoni).fplhere storms
+\l Storms don't occur here.
+
+\t ?eyno              kaSe      lilmod polanit.
+\m ?eyn-o              kaSe      li-lmod polanit.
+\g   neg 3msg        difficult to-learn Polish
+\l It isn't difficult to learn Polish.
+
+\t c. * ?eynam             dofkim             badelet.
+\m c. * ?eyn-am             dofkim             ba-delet.
+\g      neg 3mpl        knock(benoni).mpl on-the door
+\l                  No one is knocking on the door.
+
+\t ?eynam             ma?arixim ?et hatruma                 Sela.
+\m ?eyn-am             ma?arixim ?et ha-truma                 Sela.
+\g   neg-3mpl value(benoni).mpl acc the-contribution        her
+\l People don't value her contribution.
+
+\t ?eyno kar.
+\m ?eyn-o kar.
+\g   neg-3mg cold
+\l It isn't cold.
+
+\t (29) David       kana la naalayim xadashot ve ani gam.
+\m (29) David       kana la naalayim xadashot ve ani gam.
+\g       David bought to.3psf shoes new           and I too
+\l David bought her new shoes and I did too.
+
+\t (30) David kana le acmo naalayim xadashot ve ani gam.
+\m (30) David kana le acmo naalayim xadashot ve ani gam.
+\g      David bought to self.3psm shoes new            and I too
+\l David bought himself new shoes and I did too.
+
+\t hakelev ne'elam    leRina
+\m ha-kelev ne'elam    le-Rina
+\g the-dog disappeared to-Rina
+\l Rina's dog disappeared
+
+\t hakelev hitrocec leRina
+\m ha-kelev hitrocec le-Rina
+\g   the-dog ran.around to-Rina
+\l Rina's dog ran around
+
+\t cilamti        lacava     et haharisa        sel ha'ir
+\m cilamti        la-cava     et ha-harisa        sel ha-'ir
+\g   I.photographed to-the.army Acc the-destruction of the-city
+\l I photographed the army's destruction of the city
+
+\t Gil ripe leRina et hagur      sel hakalba.
+\m Gil ripe le-Rina et ha-gur      sel ha-kalba.
+\g Gil cured to-Rina Acc the-puppy of the-dog.(Fem)
+\l Gil cured the dog's puppy which belongs to Rina
+
+\t hapgisa    im habos hukdema          leRina bes'a
+\m ha-pgisa    im ha-bos hukdema          le-Rina be-s'a
+\g the-meeting with the-boss was-advanced to-Rina in-hour
+\l Rina's meeting with the boss was moved up an hour.
+
+\t tixtov
+\m ti-xtov
+\g 2m.sg/3f.sg will-write
+\l You-ms will write.
+
+\t moxrim             Sam      kartisim.
+\m moxrim             Sam      kartisim.
+\g sell[benoni]-3m.pl there tickets
+\l They(arb) sell tickets there.
+
+\t eyn(en)i/xa/ex/enu kotev/et/im sipurim.
+\m eyn-(en)i/-xa/-ex/-enu kotev/et/im sipurim.
+\g neg-1sg /2msg/2fsg/1pl write(benoni)-m.sg/f.sg/pl stories
+\l I/you.m/you.f/we do not write stories.
+
+\t ?eyno kotev sipurim.
+\m ?eyn-o kotev sipurim.
+\g neg 3m.sg write(benoni)-m.sg stories
+\l He doesn't write stories.
+
+\t ?eynan             mitxolelot         kan sufot.
+\m ?eyn-an             mitxolelot         kan sufot.
+\g   neg-3fpl occur(benoni).fplhere storms
+\l Storms don't occur here.
+
+\t ?eyno              kaSe      lilmod polanit.
+\m ?eyn-o              kaSe      li-lmod polanit.
+\g   neg 3msg        difficult to-learn Polish
+\l It isn't difficult to learn Polish.
+
+\t c. * ?eynam             dofkim             badelet.
+\m c. * ?eyn-am             dofkim             ba-delet.
+\g      neg 3mpl        knock(benoni).mpl on-the door
+\l                  No one is knocking on the door.
+
+\t ?eynam             ma?arixim ?et hatruma                 Sela.
+\m ?eyn-am             ma?arixim ?et ha-truma                 Sela.
+\g   neg-3mpl value(benoni).mpl acc the-contribution        her
+\l People don't value her contribution.
+
+\t ?eyno kar.
+\m ?eyn-o kar.
+\g   neg-3mg cold
+\l It isn't cold.
+
+\t Haseret herPa ethamilxama.
+\m Ha-seret herPa et-ha-milxama.
+\g the-movie showed acc-the-war
+\l The movie showed the war.
+
+\t Haseret herPa (*et)milxama.
+\m Ha-seret herPa (*et)-milxama.
+\g the-movie showed acc-war
+\l The movie showed a war.
+
+\t karati    et     hasefer.
+\m karati    et     ha-sefer.
+\g I.read    ACC the-book
+\l I read   the book.
+
+\t karati    sefer.
+\m karati    sefer.
+\g I.read    book
+\l I read   a book.
+
+\t haisha     hatova
+\m ha-isha     ha-tov-a
+\g the-woman the-good-FEM.SG
+\l the good woman
+
+\t kol profesor se dani roce lehazmin ____i aval lo maarix ?oto i maspik
+\m kol profesor se dani roce lehazmin ____i aval lo maarix ?oto i maspik
+\g every prof.that Dani wants to-invite ____ i but not esteems him i enough
+\l every professor that Dani wants to invite but doesn't respect enough
+
+\t rina hi ha'isa      se [ha 'anasim se ani sixnati levaker ___i] [te'aru otai]
+\m rina hi ha'isa      se [ha 'anasim se ani sixnati levaker ___i] [te'aru otai]
+\g Rina is the-womani that the-people that I convinced to-visit __i described
+\l heri`Rina is the woman that the people that I convinced to visit ___ described.
+
+\t hayeledi se dalya makira ?et      ha?isa     se  ?ohevet ?otoi/*____i
+\m ha-yeledi se dalya makira ?et      ha-?isa     se  ?ohevet ?otoi/*____i
+\g the-boyi that Dalya knows ACC the-woman that loves         himi /*___i
+\l the boy that Dalya knows the woman who loves him
+
+\t Mi taanta         se niceax et          haromulanim?
+\m Mi taanta         se niceax et          ha-romulanim?
+\g who you.claimed that defeated ACC the-Romulans
+\l Who did you claim (that) defeated the Romulans?
+
+\t Mi saalta      im niceax et        haromulanim?
+\m Mi saalta      im niceax et        ha-romulanim?
+\g  who you.asked if defeated ACC the-Romulans
+\l Who did you ask if defeated the Romulans?
+
+\t `ish hakore `iton          barexov hu meragel
+\m `ish ha-kore `iton          ba-rexov hu meragel
+\g man the-reading newspaper in.the.street is spy
+\l A man reading a newspaper in the street is a spy.
+
+\t habayit hagadol
+\m ha-bayit ha-gadol
+\g the-house the-big
+\l the big house
+
+\t `ish hakore `iton             barexov
+\m `ish ha-kore `iton             ba-rexov
+\g  man the reading newspaper in-the street
+\l a man reading a newspaper in the street
+
+\t Katafti   et   kol   hapraxim   bizhirut
+\m Katafti   et   kol   ha-praxim   bi-zhirut
+\g  I picked ACC all     the-flowers with-care
+\l I picked all the flowers carefully
+
+\t (27)a. Gil hivtiax leRina lishtof et acmo beyesodiyut
+\m (27)a. Gil hivtiax le-Rina lishtof et acmo be-yesodiyut
+\g        Gil promised to-Rina to-wash A        CC      himself in-thoroughness
+\l Gil promised Rina to wash himself thoroughly.
+
+\t Gil hivtiax lishtof et acmo beyesodiyut
+\m Gil hivtiax lishtof et acmo be-yesodiyut
+\g Gil promised to-wash ACC himself in-thoroughness
+\l Gil promised to wash himself thoroughly.
+
+\t dan makir et   rina ve/o sara
+\m dan makir et   rina ve/o sara
+\g Dan knows ACC Rina and/or Sara
+\l Dan knows Rina and/or Sara
+
+\t dan makir et   rina ve/o et    sara
+\m dan makir et   rina ve/o et    sara
+\g Dan knows ACC Rina and/or ACC Sara
+\l Dan knows Rina and/or Sara
+
+\t dan makir gam et      rina ve gam et sara
+\m dan makir gam et      rina ve gam et sara
+\g Dan knows too ACC Rina and too ACC Sara
+\l Dan knows both Rina and Sara
+
+\t dan makir o et     rina o et    sara
+\m dan makir o et     rina o et    sara
+\g Dan knows or ACC Rina or ACC Sara
+\l Dan knows either Rina or Sara
+
+\t (32) haxavera haxi tova seli (hi) mora.
+\m (32) ha-xavera haxi tova seli (hi) mora.
+\g      the-friend most good of-I (is) teacher
+\l My best friend is a teacher
+
+\t dana (hi) hamora, lo at!
+\m dana (hi) ha-mora, lo at!
+\g Dana (is) the-teacher, not you
+\l Dana is the teacher, not you!
+
+\t haxavera haxi tova seli hi dana.
+\m ha-xavera haxi tova seli hi dana.
+\g the-friend most good of-I is Dana
+\l My best friend is Dana
+
+\t hamora hi at, lo dana!
+\m ha-mora hi at, lo dana!
+\g the-teacher is you, not Dana!
+\l The teacher is you, not Dana!
+
+\t dana hi eizo mora seani makir.
+\m dana hi eizo mora se-ani makir.
+\g Dana is some teacher that-I know
+\l Dana is some teacher I know
+
+\t rina sa'ala im dani psantran sesaxaxti et    smo
+\m rina sa'ala im dani psantran se-saxaxti et    smo
+\g Rina asked if Dani pianist that-forgot-I ACC name-his
+\l Rina asked whether Dani was a pianist whose name I had forgotten
+
+\t dana (hi) soferet vemora.
+\m dana (hi) soferet ve-mora.
+\g Dana (is) author and-teacher
+\l Dana is an author and a teacher
+
+\t (shtey) hanasim halalu hen soferet vemora.
+\m (shtey) ha-nasim halalu hen soferet ve-mora.
+\g (two) the-women these are author and-teacher
+\l These (two) women are an author and a teacher
+
+\t hayalda kilkela       leDan et     haradio.
+\m ha-yalda kilkela       le-Dan et     ha-radio.
+\g the-girl    spoiled    to-Dan Acc the-radio
+\l The girl broke Dan's radio on him.
+
+\t hakelev ne'elam         leRina.
+\m ha-kelev ne'elam         le-Rina.
+\g the-dog    disappeared to-Rina
+\l Rina's dog disappeared.
+
+\t hakelev hitrocec     leRina
+\m ha-kelev hitrocec     le-Rina
+\g  the-dog ran-around to-Rina
+\l Rina's dog ran around on her.
+
+\t lirkod,   Gil lo yirkod      baxayim
+\m lirkod,   Gil lo yirkod      ba-xayim
+\g to-dance, Gil not will-dance in-the-life
+\l Dance, Gil never will
+
+\t Aliti          al harakevet.
+\m Aliti          al ha-rakevet.
+\g step-PAST.1SG on the-train
+\l I boarded the train
+
+\t hayalda     kilkela     leDan et       haradio.
+\m ha-yalda     kilkela     le-Dan et       ha-radio.
+\g the-girl    spoiled     to-Dan Acc       the-radio
+\l The girl broke Dan's radio on him
+
+\t Gil sàavar leRina et       hamiskafayim sàel Sigal
+\m Gil sàavar le-Rina et       ha-miskafayim sàel Sigal
+\g Gil broke to-Rina Acc        the-glasses  of Sigal
+\l Gil broke Sigal's glasses on Rina
+
+\t Gil sàavar leRina      et       miskafei          hamore
+\m Gil sàavar le-Rina      et       miskafei          ha-more
+\g Gil broke to-Rina        Acc      glasses           the-teacher
+\l Gil broke the teacher's glasses on Rina
+
+\t Gil ra'a leRina et     hapupik
+\m Gil ra'a le-Rina et     ha-pupik
+\g Gil saw to-Rina ACC the-belly button
+\l Gil saw Rina's belly button
+
+\t Gil     ra'a    leRina et      habayit
+\m Gil     ra'a    le-Rina et      ha-bayit
+\g Gil      saw     to-Rina ACC      the-house
+\l Gil saw Rina's house
+
+\t Gil ra'a     leRina et    hamismaxim
+\m Gil ra'a     le-Rina et    ha-mismaxim
+\g Gil saw      to-Rina ACC the-documents
+\l Gil saw the documents that Rina had
+
+\t Gil  ra'a      leRina et  habayit
+\m Gil  ra'a      le-Rina et  ha-bayit
+\g Gil   saw       to-Rina ACC the-house
+\l Gil saw Rina's house
+
+\t Gil   histakel     leRina et           habayit
+\m Gil   histakel     le-Rina et           ha-bayit
+\g Gil   looked-at to-Rina ACC              the-house
+\l Gil looked at Rina's house
+
+\t harisat      hacava     et        ha'ir
+\m harisat      ha-cava     et        ha-'ir
+\g destruction the-army ACC the-city
+\l the army's destruction of the city
+
+\t haharisa       sàel hacave     et       ha'ir
+\m ha-harisa       sàel ha-cave     et       ha-'ir
+\g the-destruction of the army       ACC      the-city
+\l the army's destruction of the city
+
+\t cilamti            lacava     et     haharis a       sàel ha'ir.
+\m cilamti            la-cava     et     ha-haris a       sàel ha-'ir.
+\g I-photographed      to-the-army Acc    the-destruction of the-city
+\l I photographed the army's destruction of the city
+
+\t Gil saraf lekol yalda et              haxulca haxi            yafa.
+\m Gil saraf le-kol yalda et              ha-xulca haxi            yafa.
+\g Gil burned to-every girl ACC            the-shirt the-most     pretty
+\l Gil burned every girl's prettiest shirt
+
+\t Gil    natan lekol         yalda et      haxulca         haxi        yafa.
+\m Gil    natan le-kol         yalda et      ha-xulca         haxi        yafa.
+\g Gil     gave to-every girl              Acc the-shirt       the-most pretty
+\l Gil gave every girl her prettiest shirt
+
+\t hamenahel     natan lekol      poel      et hamaskoret
+\m ha-menahel     natan le-kol      poel      et ha-maskoret
+\g the-manager gave to-every worker ACC the-salary
+\l The manager gave every worker their salary
+
+\t Gil gar       leRina     baxacer.
+\m Gil gar       le-Rina     ba-xacer.
+\g Gil lives to-Rina          in-the-yard
+\l Gil lives in Rina's yard
+
+\t yesà   leJon yelel
+\m yesà   le-Jon yelel
+\g is      to-Jon son
+\l Jon has a son
+
+\t beit hamore
+\m beit ha-more
+\g house the-teacher
+\l the teacher's house
+
+\t habeit hamore
+\m ha-beit ha-more
+\g the house the teacher
+\l the house of the teacher
+
+\t hu 'axrai 'axra'yut 'elyona
+\m hu 'axrai 'axra'yut 'elyona
+\g he responsible responsibility supreme
+\l He has supreme responsibility.
+
+\t harofe biker xole yapani sisa bikurim .
+\m ha-rofe biker xole yapani sisa bikurim .
+\g the-doctor visited patient Japanese six visits
+\l The doctor paid six visits to a Japanese patient.
+
+\t Macati      [sefer [she t nafal al haricpa]]
+\m Macati      [sefer [she t nafal al haricpa]]
+\g found-1ps    book that    fell on the floor
+\l I found a book that fell on the floor.
+
+\t Macati    [sefer [she ata zarakta t]]
+\m Macati    [sefer [she ata zarakta t]]
+\g found-1ps book that you discarded
+\l I found a book that you threw out.
+
+\t [Hamora       [she     natata (le) t sefer]] lo   baa               hayom.
+\m [Hamora       [she     natata (le) t sefer]] lo   baa               hayom.
+\g the teacher    that gave-2ps to        book not come-3psf today
+\l The teacher that you gave a book to is not coming today.
+
+\t Raiti    et [hamilon          [she ata histakalta (be) t]]
+\m Raiti    et [hamilon          [she ata histakalta (be) t]]
+\g saw-1ps acc the dictionary that you looked            at
+\l I saw the dictionary that you looked at.
+
+\t Natati     sefer le oto [yeled [she Miriam natna (*le) t sefer]]
+\m Natati     sefer le oto [yeled [she Miriam natna (*le) t sefer]]
+\g give-1ps book to same child that Miriam gave               to        book
+\l I gave a book to the same child to whom Miriam gave a book.
+
+\t Histakalti [bamilon            [she ata histakalta (*be) t]]
+\m Histakalti [bamilon            [she ata histakalta (*be) t]]
+\g saw-1ps in-the-dictionary that you looked            at
+\l I looked at the dictionary that you looked at.
+
+\t Haseret        her a     ethamilxama
+\m Ha-seret        her a     et-ha-milxama
+\g the-movie       showed ACC-the-war
+\l The movie    showed the war.
+
+\t Haseret        her a     (*et) milxama
+\m Ha-seret        her a     (*et) milxama
+\g the-movie       showed (ACC)war
+\l The movie    showed a war.
+
+\t kara ti sefer ze
+\m kara ti sefer ze
+\g I-read      book this
+\l I read this book.
+
+\t kara ti et         hasefer     haze
+\m kara ti et         ha-sefer     ha-ze
+\g I-read      ACC the-book        the-this
+\l I read this book.
+
+\t Appo vistu a tie
+\m Appo vistu a tie
+\g I-have seen to you
+\l I saw you.
+
+\t Amus          mandatu        (*a) sa       littera    a Núgoro
+\m Amus          mandatu        (*a) sa       littera    a Núgoro
+\g we-have       sent           (to) the      letter     to Nuoro
+\l We sent the letter to Nuoro.
+
+\t Appo vistu a duttore Ledda
+\m Appo vistu a duttore Ledda
+\g I-have seen to doctor        Ledda
+\l I saw doctor Ledda.
+
+\t Appo       vistu (% a) cudd' ómine
+\m Appo       vistu (% a) cudd' ómine
+\g I-have     seen (to) that man
+\l I saw that man.
+
+\t Raiti et Miriam etmol
+\m Raiti et Miriam etmol
+\g I-saw Acc Mary yesterday
+\l I saw Mary yesterday.
+
+\t Raiti (*et) ec yafe         etmol
+\m Raiti (*et) ec yafe         etmol
+\g I-saw Acc tree beautiful yesterday
+\l I saw a beautiful tree yesterday.
+
+\t Hitsbáti al zvuv/hazvuv.
+\m Hitsbáti al zvuv/ha-zvuv.
+\g I-point to a fly/the fly
+\l I pointed to a fly/the fly.
+
+\t Dani haya hamore lematematika.
+\m Dani haya ha-more le-matematika.
+\g Dani was the-teacher to-math
+\l Dani was the math teacher.
+
+\t Dani yihye more bauniversita.
+\m Dani yihye more ba-universita.
+\g Dani will-be teacher in-the-university
+\l Dani will be a teacher at the university.
+
+\t Dani more.
+\m Dani more.
+\g Dani teacher
+\l Dani is a teacher.
+
+\t Dani hu more.
+\m Dani hu more.
+\g Dani he teacher
+\l Dani is a teacher.
+
+\t habáyit         shelHa zoti              dugmai       tova.
+\m ha-báyit         shelHa zoti              dugmai       tova.
+\g the-house.M.SG your      COP/DEM.F.SG     example.F.SG good
+\l Your house is a goodexample.'
+
+\t ze       tov [shebat].
+\m ze       tov [she-bat].
+\g it       good SUB-you.came
+\l It's good that you came.
+
+\t Pnina    {nora    xamuda / tinoket / ba       bayit}.
+\m Pnina    {nora    xamuda / tinoket / b-a-       bayit}.
+\g Pnina    {awfully cute.F / baby.F / in-the- house}
+\l Pnina   is {awfully cute / a baby / in the house}.
+
+\t Pnina    hayta          {nora    xamuda / tinoket / ba bayit}.
+\m Pnina    hayta          {nora    xamuda / tinoket / b-a- bayit}.
+\g Pnina    be.PST.3FSG {awfully cute.F / baby.F / in-the- house}
+\l Pnina   was {awfully cute / a baby / in the house}.
+
+\t Pnina    hi           {nora    xamuda / hatinoket                    / ...}.
+\m Pnina    hi           {nora    xamuda / ha-tinoket                    / ...}.
+\g Pnina    PRON.FSG {awfully cute.F / the-baby.F                        /...}
+\l Pnina   is {awfully cute / the baby / ...}.
+
+\t Pnina    hayta          {nora     xamuda / hatinoket                   /   ...}.
+\m Pnina    hayta          {nora     xamuda / ha-tinoket                   /   ...}.
+\g Pnina    be.PST.3FSG {awfully cute.F / the-baby.F                       /...}
+\l Pnina   was {awfully cute / the baby / ...}.
+
+\t Pnina    yesna         (ba bayit).
+\m Pnina    yesna         (b-a- bayit).
+\g Pnina    YES.3FSG (in-the- house)
+\l Pnina   is (t)here / is (exists) in the house.
+
+\t Pnina    hayta             (ba bayit).
+\m Pnina    hayta             (b-a- bayit).
+\g Pnina    be.PST.3FSG (in-the- house)
+\l Pnina   was (t)here / was (existed) in the house.
+
+\t Pnina    eynena       (ba bayit).
+\m Pnina    eynena       (b-a- bayit).
+\g Pnina    EYN.3FSG (in-the- house)
+\l Pnina   isn't (t)here / isn't (in existence) in the house.
+
+\t Pnina    lo hayta             (ba bayit).
+\m Pnina    lo hayta             (b-a- bayit).
+\g Pnina    not be.PST.3FSG (in-the- house)
+\l Pnina   wasn't (t)here/ wasn't in the house.
+
+\t Yes tinoket ba          bayit.
+\m Yes tinok-et b-a-          bayit.
+\g YES baby-F in-the-         house
+\l There is a girl baby in     the house.
+
+\t Hayta           tinoket     ba    bayit.
+\m Hayta           tinok-et     b-a-    bayit.
+\g be.PST.3FSG baby-F           in-the- house
+\l There was a girl baby      in the house.
+
+\t Eyn tinoket ba bayit.
+\m Eyn tinok-et b-a- bayit.
+\g EYN baby-F in-the- house
+\l There isn't a girl baby in the house.
+
+\t Lo hayta             tinoket ba bayit.
+\m Lo hayta             tinok-et b-a- bayit.
+\g not be.PST.3FSG baby-F in-the- house
+\l There wasn't a girl baby in the house.
+
+\t Yes lePnina caacuim       meacbenim.
+\m Yes le-Pnina caacuim       meacbenim.
+\g YES DAT-Pnina toys             annoying.MPL
+\l Pnina has annoying toys.
+
+\t Hayu         lePnina       caacuim meacbenim.
+\m Hayu         le-Pnina       caacuim meacbenim.
+\g be.PST.3PL DAT-Pnina          toys    annoying.MPL
+\l Pnina had annoying toys.
+
+\t Eyn lePnina caacuim meacbenim.
+\m Eyn le-Pnina caacuim meacbenim.
+\g EYN DAT-Pnina toys         annoying.MPL
+\l Pnina doesn't have annoying toys.
+
+\t Lo hayu          lePnina caacuim meacbenim.
+\m Lo hayu          le-Pnina caacuim meacbenim.
+\g not be.PST.3PL DAT-Pnina toys        annoying.MPL
+\l Pnina didn't have annoying toys.
+
+\t Pnina, hi nora         xamuda.
+\m Pnina, hi nora         xamuda.
+\g Pnina, she awfully cute.F
+\l Pnina, she is awfully cute.
+
+\t Pnina, hi hayta             nora xamuda.
+\m Pnina, hi hayta             nora xamuda.
+\g Pnina, she be.PST.3FSG awfully cute.F
+\l Pnina, she was awfully cute.
+
+\t Pnina hi            hayta  nora    xamuda.
+\m Pnina hi            hayta  nora    xamuda.
+\g  Pnina PRON.FSG be.PST.3FSG awfully cute.F
+\l Pnina was awfully cute.
+
+\t a     Pnina, hi ohevet            ledaber.
+\m a     Pnina, hi ohevet            ledaber.
+\g       Pnina, she love.PRES.FSG talk.INF
+\l Pnina, she loves to talk.
+
+\t Pnina hi             ohevet  ledaber.
+\m Pnina hi             ohevet  ledaber.
+\g  Pnina PRON.FSG love.PRES.FSG talk.INF
+\l Pnina loves to talk.
+
+\t Gabi    lo haya              ayef.
+\m Gabi    lo haya              ayef.
+\g Gabi    not be.PST.3MSG tired.M
+\l Gabi   wasn't tired.
+
+\t Gabi    lo nire                 ayef.
+\m Gabi    lo nire                 ayef.
+\g Gabi    not seem.PRES.MSG tired.M
+\l Gabi   doesn't seem tired.
+
+\t Gabi    lo hu               ayef.
+\m Gabi    lo hu               ayef.
+\g  Gabi    not PRON.MSG tired.M
+\l Gabi   isn't tired.
+
+\t Gabi     hu            lo ayef.
+\m Gabi     hu            lo ayef.
+\g Gabi     PRON.MSG not tired.M
+\l Gabi   isn't tired.
+
+\t Todi'i       lebaalex               lakaxat et     haoto hayom,                    ki       maxar          ani eyneno.
+\m Todi'i       le-baalex               lakaxat et     ha-oto hayom,                    ki       maxar          ani eyneno.
+\g inform.IMP DAT-husband.2FSGposs take.INF ACC the-car today                           because tomorrow        I EYN.3MSG 
+\l Tell your husband       to take the car today, because tomorrow I'm not in.
+
+\t Im ata         yesno        ba bayit, ani af paam lo           mit'oreret            ba layla kse hayeladim boxim.       
+\m Im ata         yesno        b-a- bayit, ani af paam lo           mit'oreret            b-a- layla kse ha-yeladim boxim.       
+\g if you.MSG YES.3MSG in-the- house I never             not        wake.up.PRES.FSG in-the- night when the-children cry.PRES.MPL
+\l If you're in the house, I never wake at night when the children cry.
+
+\t A: Kse at        yesna,       ani lo nogea        ba tinok.
+\m A: Kse at        yesna,       ani lo nogea        b-a- tinok.
+\g     when you.FSG YES.3FSG I not touch.PRES.MSG in-the- baby
+\l When you're present, I don't touch the baby.
+
+\t B: Ve kse ani eynena           ?
+\m B: Ve kse ani eynena           ?
+\g     and when I EYN.3FSG
+\l And when I'm not present?
+
+\t Ani pasut yesno.
+\m Ani pasut yesno.
+\g I     simply YES.3MSG
+\l I just am.
+
+\t havanat        hatinoket et      hateoria
+\m havanat        ha-tinoket et      ha-teoria
+\g understanding the-baby(F) ACC the-theory
+\l the baby's understanding of the theory
+
+\t Mati kibel     haftaa lo neima.
+\m Mati kibel     haftaa lo neima.
+\g Mati received surprise not pleasant
+\l Mati got an unpleasant surprise.
+
+\t Hastudent    Eli.
+\m Ha-student    Eli.
+\g  the-student    Eli
+\l The    student   is Eli.
+
+\t Hasakana se haoger         yoxal             et haxatul.
+\m Ha-sakana se ha-oger         yoxal             et ha-xatul.
+\g  the-danger that the-hamster eat.FUT.3MSG ACC the-cat
+\l The danger is that the hamster will eat the cat.
+
+\t Hadinozaur hu            sikor.
+\m Ha-dinozaur hu            sikor.
+\g the-dinosaur PRON.MSG drunk.MSG
+\l The dinosaur is a drunkard.
+
+\t Hadinozaur sikor.
+\m Ha-dinozaur sikor.
+\g the-dinosaur drunk.MSG
+\l The dinosaur is drunk.
+
+\t Haorxim higiu.
+\m Ha-orxim higiu.
+\g the-guests arrive.PST.3PL
+\l The guests arrived.
+
+\t Higiu             orxim.
+\m Higiu             orxim.
+\g arrive.PST.3PL guests
+\l Guests arrived.
+
+\t Hatinok et yesna       ba bayit.
+\m Ha-tinok- et yesna       b-a- bayit.
+\g the-baby- F YES.3FSG in-the- house
+\l The baby is in the house.
+
+\t Yesna       tinoket ba bayit.
+\m Yesna       tinok-et b-a- bayit.
+\g YES.3FSG baby-F in-the- house
+\l A baby is in the house.
+
+\t Hatinok et eynena     ba bayit.
+\m Ha-tinok- et eynena     b-a- bayit.
+\g the-baby- F EYN.3FS in-the- house
+\l The baby is not in the house.
+
+\t Eynena      tinoket ba bayit.
+\m Eynena      tinok-et b-a- bayit.
+\g  EYN.3FSG baby-F in-the- house
+\l A baby is not in the house.
+
+\t Yes tinoket.
+\m Yes tinok-et.
+\g YES baby-F
+\l There is a baby.
+
+\t Eyn tinoket.
+\m Eyn tinok-et.
+\g EYN baby-F
+\l There is no baby.
+
+\t Yes et      hacaacua haze ba xanut selanu.
+\m Yes et      ha-caacua ha-ze b-a- xanut selanu.
+\g YES ACC the-toy         the-this in-the- store ours
+\l This toy exists in our store.
+
+\t Eyn et      hacaacua haze ba xanut hamitxara
+\m Eyn et      ha-caacua ha-ze b-a- xanut ha-mitxara
+\g EYN ACC the-toy          the-this in-the- store the-competing
+\l This toy does not exist in the competing store.
+
+\t Yes le     Pnina harbe smalot.
+\m Yes le     Pnina harbe smalot.
+\g YES DAT Pnina many dresses
+\l Pnina has many dresses.
+
+\t Eyn le     Pnina et      hasimla hazot.
+\m Eyn le     Pnina et      ha-simla ha-zot.
+\g EYN DAT Pnina ACC the-dress the-this
+\l Pnina doesn't have this dress.
+
+\t Hatinoket lo hayta            ba bayit.
+\m Ha-tinoket lo hayta            b-a- bayit.
+\g the-baby not be.PST.3FSG in-the- house.
+\l The baby wasn't in the house.
+
+\t Lo hayta          tinoket.
+\m Lo hayta          tinok-et.
+\g not be.PST.3FSG baby-F
+\l There was no baby.
+
+\t Lo haya            le     Mati et    hasefer hanaxon.
+\m Lo haya            le     Mati et    ha-sefer ha-naxon.
+\g not be.PST.3MSG DAT Mati ACC the-book the-right
+\l Mati didn't have the right book.
+
+\t Haya            li         mexonit    kazot.
+\m Haya            li         mexonit    kazot.
+\g  be.PST.3MSG DAT.1SG        car(F)     such
+\l I had such a car.
+
+\t Haya           lanu     et       hamexonit hazot od kse               garnu         be Tel Aviv.
+\m Haya           lanu     et       ha-mexonit ha-zot od kse               garnu         be Tel Aviv.
+\g be.PST.3MSG DAT.1PL ACC          the-car(F) the-this still when         live.PST.1PL in Tel Aviv  
+\l We had this car when we were    living in Tel Aviv.
+
+\t Be     yalduto , Eli patar              targiley matematika          be      kalut.
+\m Be     yaldut-o , Eli patar              targil-ey matematika          be      kalut.
+\g in     childhood-his , Eli solve.PST.3MSG exercise-PL mathematics      in      ease  
+\l In    his childhood, Eli solved math exercises easily.
+
+\t Be    yalduto patar              Eli targiley matematika                   be    kalut.
+\m Be    yaldut-o patar              Eli targil-ey matematika                   be    kalut.
+\g in    childhood-his solve.PST.3MSG Eli exercise-PL mathematics               in    ease  
+\l In   his childhood, Eli solved math exercises easily.
+
+\t Be yalduto      haya            Eli poter              targiley        matematika be        kalut.
+\m Be yaldut-o      haya            Eli poter              targil-ey        matematika be        kalut.
+\g in childhood-his     AUX.PST.3MSG Eli solve.PART.MSG exercise-PL         mathematics in       ease  
+\l In his childhood,   Eli would solve math exercises easily.
+
+\t Sipru         li        se be yalduto patar              Eli      targiley matematika be kalut. 
+\m Sipru         li        se be yaldut-o patar              Eli      targil-ey matematika be kalut. 
+\g tell.PST.3PL me.DAT that in childhood-his solve.PST.3MSG Eli       exercise-PL mathematics in ease
+\l I have been told that in his childhood, Eli solved math exercises easily.
+
+\t Be yalduto     patar         be kalut Eli targiley              matematika.
+\m Be yaldut-o     patar         be kalut Eli targil-ey              matematika.
+\g  in childhood-his    solve.PST.MSG in ease Eli exercise-PL        mathematics
+\l In his childhood,   Eli solved math exercises easily.
+
+\t a          Yoni haya           nora   xamud.
+\m a          Yoni haya           nora   xamud.
+\g            Yoni be.PST.3MSG awfully cute.MSG
+\l Yoni was awfully cute.
+
+\t Haya           Yoni nora   xamud.
+\m Haya           Yoni nora   xamud.
+\g  be.PST.3MSG Yoni awfully cute.MSG
+\l Yoni was awfully cute.
+
+\t Lifney harbe sanim, Yoni haya            nora  xamud.
+\m Lifney harbe sanim, Yoni haya            nora  xamud.
+\g before many years Yoni be.PST.3MSG awfully cute.MSG
+\l Many years ago, Yoni was awfully cute.
+
+\t Lifney harbe sanim haya           Yoni nora   xamud.
+\m Lifney harbe sanim haya           Yoni nora   xamud.
+\g before many years be.PST.3MSG Yoni awfully cute.MSG
+\l Many years ago, Yoni was awfully cute.
+
+\t Kse hi mexayexet,                  Pnina     hi         nora    xamuda.
+\m Kse hi mexayexet,                  Pnina     hi         nora    xamuda.
+\g when she smile.PRES.FSG            Pnina     is.FSG     awfully cute.FSG
+\l When she smiles, Pnina is         awfully    cute.
+
+\t Kse hi mexayexet                   hi         Pnina     nora    xamuda.
+\m Kse hi mexayexet                   hi         Pnina     nora    xamuda.
+\g  when she smile.PRES.FSG            is.FSG     Pnina     awfully cute.FSG
+\l When she smiles, Pnina is         awfully    cute.
+
+\t Karega yesnam      Mati ve Gabi.
+\m Karega yesnam      Mati ve Gabi.
+\g now     YES.3MPL Mati and Gabi
+\l Right now, Mati and Gabi are here.
+
+\t Karega eynam       Mati ve Gabi.
+\m Karega eynam       Mati ve Gabi.
+\g  now     EYN.3MPL Mati and Gabi
+\l Right now, Mati and Gabi are not here.
+
+\t Dani tzavaA ?it habayet bi?adoom.
+\m Dani tzavaA ?it ha-bayet bi-?adoom.
+\g Dani painted P(Acc) the-house in-red
+\l Dani painted the house in (the color) red.
+
+\t b.     hasefer se       karati
+\m b.     ha-sefer se       kara-ti
+\g        the-book that     read.PST-1SG
+\l the book that I read
+
+\t Elu hasfarim se Dan tiyek otam bli               likro                    pg.
+\m Elu hasfarim se Dan tiyek otam bli               likro                    pg.
+\g  these the.books that Dan filed them without to.read
+\l These are the books that Dan filed without reading.
+
+\t Zohi habaxura se haanasim se tearu               pg lo hikiru ota hetev.
+\m Zo-hi habaxura se haanasim se tearu               pg lo hikiru ota hetev.
+\g  this-is the.girl that the.people that described       not knew her well
+\l This is the girl that the people who described didn't know very well.
+
+\t hasefer se kaniti       ve se divaxti     alav
+\m ha-sefer se kaniti       ve se divaxti     al-av
+\g the-book that I.bought and that I.reported on-it
+\l the book that I bought and reported on
+
+\t hasefer     se karati        oto / * ve nirdamti
+\m ha-sefer     se karati        oto / * ve nirdamti
+\g the-book     that I.read      it         and fell.asleep
+\l the book    that I read it    and fell asleep
+
+\t hasefer se riayanti          et  haisa    se katva oto / *
+\m ha-sefer se riayanti          et  ha-isa    se katva oto / *
+\g the-book that I.interviewed ACC the-woman that wrote it
+\l the book that I interviewed the woman who wrote (it)
+
+\t hasefer    se      samati alav / *
+\m ha-sefer    se      samati al-av / *
+\g the-book     that    I.heard about it
+\l the   book    that I    heard about
+
+\t haisa      se kol gever hizmin ___ hodeta lo.
+\m ha-isa      se kol gever hizmin ___ hodeta lo.
+\g the-woman that every man invited        thanked him
+\l The [one] woman every man invited thanked him [=one particular man].
+
+\t haisa     se kol gever hizmin ota hodeta lo.
+\m ha-isa     se kol gever hizmin ota hodeta lo.
+\g the-woman that every man invited her thanked him
+\l The [one] woman every man invited thanked him [=one particular man].
+
+\t Dan lo yimca et        haisa         se hu mexapes ___.
+\m Dan lo yimca et        haisa         se hu mexapes ___.
+\g Dan not will.find ACC the.woman that he looks.for
+\l Dan will not find the [specific, existing] woman he is looking for.
+
+\t Dan lo yimca et           haisa         se hu mexapes ota.
+\m Dan lo yimca et           haisa         se hu mexapes ota.
+\g Dan not will.find ACC the.woman that he looks.for her
+\l Dan will find the [specific, existing] woman he is looking for.
+
+\t Dan mexapes isa.        Gam Ram mexapes ota.
+\m Dan mexapes isa.        Gam Ram mexapes ota.
+\g Dan looks.for woman also Ram looks.for her
+\l Dan is looking for a [specific, existing] woman. Ram is also looking for her.
+
+\t im mi nifgsta?
+\m im mi nifgsta?
+\g with who you.met
+\l Who did you meet with?
+
+\t mi nifgasta ito?
+\m mi nifgasta ito?
+\g  who you.met with.him
+\l Who did you meet with?
+
+\t eyze student nifgasta ito? [grammatical for some speakers of
+\m eyze student nifgasta ito? [grammatical for some speakers of
+\g which student you.met with.him
+\l Which student did you meet with?
+
+\t kol gever se Dina xosevet se hu ohev et      Rina
+\m kol gever se Dina xosevet se hu ohev et      Rina
+\g every man that Dina thinks that he loves ACC Rina
+\l every man that Dina thinks loves Rina
+
+\t Sosana hi haisa        se nili ohevet ota.
+\m Sosana hi ha-isa        se nili ohevet ota.
+\g  Shoshana is the-woman that Nili loves her
+\l Shoshana is the woman that Nili loves.
+
+\t Sosana hi haisa         se dani siper se mose rixel            se nili           ohevet ota.
+\m Sosana hi ha-isa         se dani siper se mose rixel            se nili           ohevet ota.
+\g Shoshana is the-woman that Dani said that Moshe gossiped that Nili                loves her  
+\l Shoshana is the woman that Dani said that Moshe gossiped that Nili loves her.
+
+\t hais se rak al kesef hu / ??___ xosev
+\m ha-is se rak al kesef hu / ??___ xosev
+\g the-man that only on money he        thinks
+\l the man who only thinks about money
+
+\t hais   se al politika hu / ??___ lo          ohev ledaber
+\m ha-is   se al politika hu / ??___ lo          ohev ledaber
+\g the-man that on politics he            NEG likes to.speak
+\l the man who doesn't like to talk about politics
+
+\t hal muttahame rfto         !nno hiyye nIabasit.
+\m ha-l- muttahame rfto         !nno hiyye nIabasit.
+\g this-the- suspect.F know.2PL that she imprisoned.3FSG
+\l This suspect, you know was imprisoned.
+
+\t kll mzrim        fakkarto     !nno lbolisiyye la!atuu.
+\m kll mzrim        fakkarto     !nno l-bolisiyye la!atu-u.
+\g each criminal.M thought.2PL that the-police        caught.3P-him
+\l Each criminal, you thought that the police had caught him.
+
+\t Eize xesbon kol maskia lo          zoxer     im hu noten ribit       tova?
+\m Eize xesbon kol maskia lo          zoxer     im hu noten ribit       tova?
+\g which account every investor NEG remembers if he gives interest good
+\l Which account does every investor not remember if it gives good interest?
+
+\t Eize xesbon kol maskia lo           zoxer     im noten ribit       tova?
+\m Eize xesbon kol maskia lo           zoxer     im noten ribit       tova?
+\g  which account every investor NEG remembers if gives interest good
+\l Which account does every investor not remember if it gives good interest?
+
+\t harofe se otam salaxti elav
+\m ha-rofe se otam salaxti elav
+\g the-doctor that them I.sent to.him
+\l the doctor that I sent them to
+
+\t harofe otam salaxti elav
+\m ha-rofe otam salaxti elav
+\g  the-doctor them I.sent to.him
+\l the doctor that I sent them to
+
+\t Haisa      ota kol gever      hizmin higia ito.
+\m Ha-isa      ota kol gever      hizmin higia ito.
+\g the-woman her every man        invited arrived with.him
+\l The [one] woman ev    ery man invited arrived with him [=one particular man].
+
+\t Haisa     se ota kol gever hizmin higia ito.
+\m Ha-isa     se ota kol gever hizmin higia ito.
+\g the-woman that her every man invited arrived with.him
+\l The [one] woman every man invited arrived with him [=one particular man].
+
+\t hayalda     kilkela     leDan et       haradio.
+\m ha-yalda     kilkela     le-Dan et       ha-radio.
+\g the-girl    spoiled     to-Dan Acc       the-radio
+\l The girl broke Dan's radio on him
+
+\t Gil sàavar leRina et       hamiskafayim sàel Sigal
+\m Gil sàavar le-Rina et       ha-miskafayim sàel Sigal
+\g Gil broke to-Rina Acc        the-glasses  of Sigal
+\l Gil broke Sigal's glasses on Rina
+
+\t Gil sàavar leRina      et       miskafei          hamore
+\m Gil sàavar le-Rina      et       miskafei          ha-more
+\g Gil broke to-Rina        Acc      glasses           the-teacher
+\l Gil broke the teacher's glasses on Rina
+
+\t Gil ra'a leRina et     hapupik
+\m Gil ra'a le-Rina et     ha-pupik
+\g Gil saw to-Rina ACC the-belly button
+\l Gil saw Rina's belly button
+
+\t Gil     ra'a    leRina et      habayit
+\m Gil     ra'a    le-Rina et      ha-bayit
+\g Gil      saw     to-Rina ACC      the-house
+\l Gil saw Rina's house
+
+\t Gil ra'a     leRina et    hamismaxim
+\m Gil ra'a     le-Rina et    ha-mismaxim
+\g Gil saw      to-Rina ACC the-documents
+\l Gil saw the documents that Rina had
+
+\t Gil  ra'a      leRina et  habayit
+\m Gil  ra'a      le-Rina et  ha-bayit
+\g Gil   saw       to-Rina ACC the-house
+\l Gil saw Rina's house
+
+\t Gil   histakel     leRina et           habayit
+\m Gil   histakel     le-Rina et           ha-bayit
+\g Gil   looked-at to-Rina ACC              the-house
+\l Gil looked at Rina's house
+
+\t harisat      hacava     et        ha'ir
+\m harisat      ha-cava     et        ha-'ir
+\g destruction the-army ACC the-city
+\l the army's destruction of the city
+
+\t haharisa       sàel hacave     et       ha'ir
+\m ha-harisa       sàel ha-cave     et       ha-'ir
+\g the-destruction of the army       ACC      the-city
+\l the army's destruction of the city
+
+\t cilamti            lacava     et     haharis a       sàel ha'ir.
+\m cilamti            la-cava     et     ha-haris a       sàel ha-'ir.
+\g I-photographed      to-the-army Acc    the-destruction of the-city
+\l I photographed the army's destruction of the city
+
+\t Gil saraf lekol yalda et              haxulca haxi            yafa.
+\m Gil saraf le-kol yalda et              ha-xulca haxi            yafa.
+\g Gil burned to-every girl ACC            the-shirt the-most     pretty
+\l Gil burned every girl's prettiest shirt
+
+\t Gil    natan lekol         yalda et      haxulca         haxi        yafa.
+\m Gil    natan le-kol         yalda et      ha-xulca         haxi        yafa.
+\g Gil     gave to-every girl              Acc the-shirt       the-most pretty
+\l Gil gave every girl her prettiest shirt
+
+\t hamenahel     natan lekol      poel      et hamaskoret
+\m ha-menahel     natan le-kol      poel      et ha-maskoret
+\g the-manager gave to-every worker ACC the-salary
+\l The manager gave every worker their salary
+
+\t Gil      lixlex laRina 1    [et      hasatiax     [PRO 1 lenakot]]
+\m Gil      lixlex la-Rina 1    [et      ha-satiax     [PRO 1 lenakot]]
+\g Gil       dirtied to-Rina      ACC the-carpet        PRO to clean
+\l Gil dirtied Rina i a carpet [PRO 1 to clean]
+
+\t Gil masar laRina 1    [et      ha satiax [PRO 1 lenakot]]
+\m Gil masar la-Rina 1    [et      ha satiax [PRO 1 lenakot]]
+\g Gil handed to-Rina      ACC the-carpet PRO to-clean
+\l Gil handed Rina the carpet to clean
+
+\t Gil gar       leRina     baxacer.
+\m Gil gar       le-Rina     ba-xacer.
+\g Gil lives to-Rina          in-the-yard
+\l Gil lives in Rina's yard
+
+\t Gil      gar     leRina    baxeder              sàel  savta          sàelo
+\m Gil      gar     le-Rina    ba-xeder              sàel  savta          sàel-o
+\g Gil      lives to-Rina       in-the-room          of     grandmother   of-him
+\l Gil lives in Rina's grandmother's room
+
+\t yesà   leJon yelel
+\m yesà   le-Jon yelel
+\g is      to-Jon son
+\l Jon has a son
+
+\t hayalda kilkela leDan             et haradio.
+\m ha-yalda kilkela le-Dan             et ha-radio.
+\g  the-girl     spoiled   to-Dan (DAT) ACC the-radio
+\l The girl broke Dan's radio.
+
+\t Gil gar leRina baxacer.
+\m Gil gar le-Rina ba-xacer.
+\g    Gil lives to-Rina   in-the-yard
+\l Gil lives in Rina's yard.
+
+\t hakelev hitrocec leRina
+\m ha-kelev hitrocec le-Rina
+\g   the-dog        ran-around to-Rina
+\l Rina's dog ran around.
+
+\t Gil lakax leRina et hatik.
+\m Gil lakax le-Rina et ha-tik.
+\g   Gil took    to-Rina     Acc the-bag
+\l Gil took Rina's bag.
+
+\t Gil histakel leRina al habayit.
+\m Gil histakel le-Rina al ha-bayit.
+\g   Gil looked-at    to-Rina     on the-house
+\l Gil looked at Rina's house.
+
+\t Gil maca leRina et hataba `at.
+\m Gil maca le-Rina et ha-taba `at.
+\g   Gil found to-Rina ACC the-ring
+\l Gil found Rina's ring.
+
+\t Gil caxak leRina bamitbax.
+\m Gil caxak le-Rina ba-mitbax.
+\g   Gil laughed to-Rina        in-the-kitchen
+\l Gil laughed in Rina's kitchen.
+
+\t Gil s&avar leRina et hamis&kafayim s&el Sigal.
+\m Gil s&avar le-Rina et ha-mis&kafayim s&el Sigal.
+\g  Gil broke to-Rina ACC the-glasses              of Sigal
+\l Gil broke Sigal's glasses on Rina.
+
+\t Gil himlic (leRina) lir'ot rofe.
+\m Gil himlic (le-Rina) lir'ot rofe.
+\g Gil recommended (to Rina) to-see doctor
+\l Gil recommended (to-Rina) to see a doctor
+
+\t Rina xadla (me)le'acben et Gil.
+\m Rina xadla (me-)le'acben et Gil.
+\g Rina stopped (from-)to-irritate acc.Gil
+\l Rina stopped irritating Gil
+
+\t Hamuzika haro'eset xadla (*me)le'acben et Gil.
+\m Ha-muzika ha-ro'eset xadla (*me-)le'acben et Gil.
+\g the-music the-noisy stopped (*from-)to-irritate acc.Gil
+\l The loud music stopped irritating Gil
+
+\t hayeled     ve hayalda    haktanim ha?ele
+\m ha-yeled     ve ha-yalda    ha-ktanim ha-?ele
+\g the-boy.SG & the-girl.SG the-small.PL the-these.PL
+\l this small [boy and girl]
+
+\t hayld studnt
+\m ha-yld studnt
+\g DEF-boy student
+\l The boy is a student.
+
+\t shomea? % boxe.
+\m shomea? % boxe.
+\g hear-SG-MS % cry-SG-MS
+\l Do you hear? is crying!
+
+\t hine ani kishkashti kan. ze shabur. ani shabarti %
+\m hine ani kishkashti kan. ze shabur. ani shabarti %
+\g here I scribble-1SG-PAST here.it broken.I broke %.
+\l Look I scribbled here. It's broken. I broke.
+
+\t tadiki % gam kan.
+\m tadiki % gam kan.
+\g light-2SG-FM % also here
+\l Switch it on here too.
+
+\t tavii % yad.
+\m tavii % yad.
+\g bring-2SG-FM % hand
+\l Let me hold your hand.
+
+\t tni % daf.
+\m tni % daf.
+\g give-2SG-FM % page
+\l Give a piece of paper.
+
+\t % cayrim kax.                       ­
+\m % cayrim kax.                       ­
+\g % draw-PL so
+\l This is how you/people draw.
+
+\t loh ledaber!
+\m loh le-daber!
+\g (do) not to-talk
+\l Don't talk!
+
+\t latet lo?                          ­
+\m la-tet lo?                          ­
+\g to-give to-him
+\l Should I give it to him?
+
+\t % bo'i hena!
+\m % bo'i hena!
+\g % come-2SG FM-IMP here
+\l Come here!
+
+\t % gamarnu
+\m % gamarnu
+\g % finished-1PL-PAST
+\l All done.
+
+\t % nigmor kvar.
+\m % nigmor kvar.
+\g % will-finish-1PL already
+\l We'll finish soon.
+
+\t hem kor'im ( iton) .
+\m hem kor'im ( iton) .
+\g they read-PL-MS (newspaper)
+\l They're reading ( the paper).
+
+\t % tiftax Raz.
+\m % tiftax Raz.
+\g % open-SG-MS-IMP
+\l Open, Raz.
+
+\t B: % holexet layam.
+\m B: % holexet la-yam.
+\g     % go-SG-FM to the beach
+\l Going to the beach.
+
+\t Mi amarta sehalax?
+\m Mi amar-ta se-halax?
+\g who said-2sm that-left
+\l Who did you say left?
+
+\t b.     hasefer se       karati
+\m b.     ha-sefer se       kara-ti
+\g        the-book that     read.PST-1SG
+\l the book that I read
+
+\t Elu hasfarim se Dan tiyek otam bli               likro                    pg.
+\m Elu hasfarim se Dan tiyek otam bli               likro                    pg.
+\g  these the.books that Dan filed them without to.read
+\l These are the books that Dan filed without reading.
+
+\t Zohi habaxura se haanasim se tearu               pg lo hikiru ota hetev.
+\m Zo-hi habaxura se haanasim se tearu               pg lo hikiru ota hetev.
+\g  this-is the.girl that the.people that described       not knew her well
+\l This is the girl that the people who described didn't know very well.
+
+\t hasefer se kaniti       ve se divaxti     alav
+\m ha-sefer se kaniti       ve se divaxti     al-av
+\g the-book that I.bought and that I.reported on-it
+\l the book that I bought and reported on
+
+\t hasefer      se karati        oto / * ve nirdamti
+\m ha-sefer      se karati        oto / * ve nirdamti
+\g the-book      that I.read      it         and fell.asleep
+\l the book     that I read it    and fell asleep
+
+\t hasefer se riayanti          et  haisa    se katva oto / *
+\m ha-sefer se riayanti          et  ha-isa    se katva oto / *
+\g the-book that I.interviewed ACC the-woman that wrote it
+\l the book that I interviewed the woman who wrote (it)
+
+\t haisa     se kol gever hizmin ota hodeta lo.
+\m ha-isa     se kol gever hizmin ota hodeta lo.
+\g the-woman that every man invited her thanked him
+\l The [one] woman every man invited thanked him [=one particular man].
+
+\t Dan lo yimca et        haisa        se hu mexapes ___.
+\m Dan lo yimca et        haisa        se hu mexapes ___.
+\g Dan not will.find ACC the.woman that he looks.for
+\l Dan will not find the [specific, existing] woman he is looking for.
+
+\t Dan lo yimca et           haisa         se hu mexapes ota.
+\m Dan lo yimca et           haisa         se hu mexapes ota.
+\g Dan not will.find ACC the.woman that he looks.for her
+\l Dan will find the [specific, existing] woman he is looking for.
+
+\t Dan mexapes isa.        Gam Ram mexapes ota.
+\m Dan mexapes isa.        Gam Ram mexapes ota.
+\g Dan looks.for woman also Ram looks.for her
+\l Dan is looking for a [specific, existing] woman. Ram is also looking for her.
+
+\t im mi nifgsta?
+\m im mi nifgsta?
+\g with who you.met
+\l Who did you meet with?
+
+\t mi nifgasta ito?
+\m mi nifgasta ito?
+\g  who you.met with.him
+\l Who did you meet with?
+
+\t kol gever se Dina xosevet se hu ohev et      Rina
+\m kol gever se Dina xosevet se hu ohev et      Rina
+\g every man that Dina thinks that he loves ACC Rina
+\l every man that Dina thinks loves Rina
+
+\t Sosana hi haisa        se nili ohevet ota.
+\m Sosana hi ha-isa        se nili ohevet ota.
+\g  Shoshana is the-woman that Nili loves her
+\l Shoshana is the woman that Nili loves.
+
+\t Sosana hi haisa         se dani siper se mose rixel            se nili           ohevet ota.
+\m Sosana hi ha-isa         se dani siper se mose rixel            se nili           ohevet ota.
+\g Shoshana is the-woman that Dani said that Moshe gossiped that Nili                loves her  
+\l Shoshana is the woman that Dani said that Moshe gossiped that Nili loves her.
+
+\t hais se rak al kesef hu / ??___ xosev
+\m ha-is se rak al kesef hu / ??___ xosev
+\g the-man that only on money he        thinks
+\l the man who only thinks about money
+
+\t hais   se al politika hu / ??___ lo          ohev ledaber
+\m ha-is   se al politika hu / ??___ lo          ohev ledaber
+\g the-man that on politics he            NEG likes to.speak
+\l the man who doesn't like to talk about politics
+
+\t Conozco a      un tipo que él me     aconseja a mí.
+\m Conozco a      un tipo que él me     aconseja a mí.
+\g I.know ACC a guy that he me.DAT advises to me
+\l I know a guy that (he) advises me.
+
+\t hal muttahame rfto         !nno hiyye nIabasit.
+\m ha-l- muttahame rfto         !nno hiyye nIabasit.
+\g this-the- suspect.F know.2PL that she imprisoned.3FSG
+\l This suspect, you know was imprisoned.
+
+\t kll muttahame sa!alto      !za       hal mazduube nIabasit.
+\m kll muttahame sa!alto      !za       ha-l- mazduube nIabasit.
+\g each suspect.F asked.2PL whether this-the- idiot.F       imprisoned.3FS
+\l Each suspect, you asked whether this idiot was imprisoned.
+
+\t kll mzrim        fakkarto     !nno lbolisiyye la!atuu.
+\m kll mzrim        fakkarto     !nno l-bolisiyye la!atu-u.
+\g each criminal.M thought.2PL that the-police        caught.3P-him
+\l Each criminal, you thought that the police had caught him.
+
+\t Eize xesbon kol maskia lo          zoxer     im hu noten ribit       tova?
+\m Eize xesbon kol maskia lo          zoxer     im hu noten ribit       tova?
+\g which account every investor NEG remembers if he gives interest good
+\l Which account does every investor not remember if it gives good interest?
+
+\t Eize xesbon kol maskia lo           zoxer     im noten ribit       tova?
+\m Eize xesbon kol maskia lo           zoxer     im noten ribit       tova?
+\g  which account every investor NEG remembers if gives interest good
+\l Which account does every investor not remember if it gives good interest?
+
+\t harofe se otam salaxti elav
+\m ha-rofe se otam salaxti elav
+\g the-doctor that them I.sent to.him
+\l the doctor that I sent them to
+
+\t harofe otam salaxti elav
+\m ha-rofe otam salaxti elav
+\g  the-doctor them I.sent to.him
+\l the doctor that I sent them to
+
+\t hayld studnt
+\m ha-yld studnt
+\g DEF-boy student
+\l The boy is a student.
+
+\t parat ikar
+\m parat ikar
+\g cow farmer
+\l a farmer's cow
+
+\t haaxila shel Dan et hatapuax
+\m ha-axila shel Dan et ha-tapuax
+\g the-eating of Dan of the-apple
+\l Dan's eating of the apple
+
+\t hayalda kilkela leDan          et   haradio.
+\m ha-yalda kilkela le-Dan          et   ha-radio.
+\g  the-girl   spoiled to-Dan (DAT) ACC the-radio
+\l The girl broke Dan's radio.
+
+\t Gil gar leRina baxacer.
+\m Gil gar le-Rina ba-xacer.
+\g  Gil lives to-Rina in-the-yard
+\l Gil lives in Rina's yard.
+
+\t hakelev hitrocec leRina
+\m ha-kelev hitrocec le-Rina
+\g     the-dog         ran-around to-Rina
+\l Rina's dog ran around.
+
+\t Gil ripe leRina et hagur      s&el hakalba.
+\m Gil ripe le-Rina et ha-gur      s&el ha-kalba.
+\g  Gil cured to-Rina ACC the-puppy of the-dog (FEM)
+\l Gil cured the dog's puppy which belongs to Rina.
+
+\t Gil ripe leRina et haima       s&el hagur.
+\m Gil ripe le-Rina et ha-ima       s&el ha-gur.
+\g  Gil cured to-Rina ACC the-mother of the-puppy
+\l Gil cured the puppy's mother which belongs to Rina.
+
+\t Tim pflegte Lena        [das Fohlen [der Stute]] gesund.
+\m Tim pflegte Lena        [das Fohlen [der Stute]] gesund.
+\g  Tim treated Lena (DAT) the      foal          the mare (GEN) healthy
+\l Tim cured the mare's foal which belongs to Lena.
+
+\t Tim pflegte Lena        [die Mutter [des Fohlens]] gesund.
+\m Tim pflegte Lena        [die Mutter [des Fohlens]] gesund.
+\g  Tim treated Lena (DAT) the mother             the foal (GEN)   healthy
+\l Tim cured the foal's mother which belongs to Lena.
+
+\t Gil lakax leRina et hatik.
+\m Gil lakax le-Rina et ha-tik.
+\g Gil took   to-Rina ACC the-bag
+\l Gil took Rina's bag.
+
+\t Gil histakel leRina al habayit.
+\m Gil histakel le-Rina al ha-bayit.
+\g Gil looked-at to-Rina on the-house
+\l Gil looked at Rina's house.
+
+\t Gil maca leRina et hataba `at.
+\m Gil maca le-Rina et ha-taba `at.
+\g Gil found to-Rina ACC the-ring
+\l Gil found Rina's ring.
+
+\t Gil caxak leRina bamitbax.
+\m Gil caxak le-Rina ba-mitbax.
+\g    Gil laughed to-Rina in-the-kitchen
+\l Gil laughed in Rina's kitchen.
+
+\t Gil s&avar leRina et hamis&kafayim s&el Sigal.
+\m Gil s&avar le-Rina et ha-mis&kafayim s&el Sigal.
+\g    Gil broke to-Rina ACC the-glasses         of Sigal
+\l Gil broke Sigal's glasses on Rina.
+
+\t Gil gar leRina baxacer.
+\m Gil gar le-Rina ba-xacer.
+\g  Gil lives to-Rina   in-the-yard
+\l He lives in Rina's yard.
+
+\t mexonit `aduma yafa
+\m mexonit `aduma yafa
+\g  car        red    beautiful
+\l a beautiful red car
+
+\t pri katom ta'im
+\m pri katom ta'im
+\g fruit orange tatsy
+\l a tasty orange fruit
+
+\t tilix        lxnut        mxr3
+\m tilix        lxnut        mxr3
+\g go-fut.2ms   to-the-store tomorrow
+\l Go to the   store tomorrow!
+
+\t ni hlxti lxnut            hEjom vdt tilix           mxr
+\m ni hlxti lxnut            hEjom vdt tilix           mxr
+\g I went-1s to-the-store today and-you go-fut.2ms tomorrow
+\l I went to the store today and you will go tomorrow
+
+\t John lo oved
+\m John lo oved
+\g John Neg works
+\l John doesn't work
+
+\t John lo metzaltzel leaf exhad
+\m John lo metzaltzel le-af exhad
+\g John neg calls to-n-body
+\l John doesn't call anybody
+
+\t Lo tziltzel af exhad
+\m Lo tziltzel af exhad
+\g Neg called n-body
+\l Nobody called
+
+\t Af exhad lo tziltzel
+\m Af exhad lo tziltzel
+\g N-body neg called
+\l Nobody called
+
+\t Avod!
+\m Avod!
+\g Work.IMP
+\l Work!
+
+\t Lo avod!
+\m Lo avod!
+\g Neg work
+\l Don't work!
+
+\t Kulam lo bau lamesiba
+\m Kulam lo bau la-mesiba
+\g Everybody neg came to-DEF.party
+\l Not everybody came to the party
+
+\t Haseret her?a ?ethamilxama
+\m Ha-seret her?a ?et-ha-milxama
+\g the-movie showed acc-the-war
+\l The movie showed the war.
+
+\t Haseret   her?a   (*?et)milxama
+\m Ha-seret   her?a   (*?et-)milxama
+\g the-movie showed (*acc-)war
+\l The movie showed a war
+
+\t Kol ha?anas&im         hit?asfu            ¿im s&aÌar.
+\m Kol ha?anas&im         hit?asfu            ¿im s&aÌar.
+\g        the-man-pl.refl-gathered-3pl with dawn
+\l All the men gathered at dawn.
+
+\t Kol is&    hit?asef              ¿im s&aÌar.
+\m Kol is&    hit?asef              ¿im s&aÌar.
+\g        man refl-gathered-3sg with dawn
+\l *Every man gathered at dawn.
+
+\t Kol ha?anas&im saÌvu           s&alos& mizvadot.
+\m Kol ha?anas&im saÌvu           s&alos& mizvadot.
+\g        the-man-pl.carried-3pl three suitcases
+\l All the men carried three suitcases.
+
+\t (17)a. *Ala                 al harakevet
+\m (17)a. *Ala                 al ha-rakevet
+\g         step-PAST.3SG.MASC on the-train
+\l He boarded the train
+
+\t Aliti          al harakevet.
+\m Aliti          al ha-rakevet.
+\g step-PAST.1SG on the-train
+\l I boarded the train
+
+\t (58)a. Hayom Nogai hitxila im Shimon, uledaati
+\m (58)a. Hayom Nogai hitxila im Shimon, u-le-daati
+\g        tomorrow    start-fut with David
+\l Today Noga made a pass at Shimon, and in my opinion, tomorrow (she) will make a pass at David
+
+\t Talilai amra leItamar she(proi)tavo
+\m Talilai amra le-Itamar she-(proi-)tavo
+\g Talila said-F to-Itamar that         come-fut.F
+\l Talila said to Itamar that she will come
+
+\t para    svecarit    xuma
+\m para    svecarit    xuma
+\g cow     Swiss       brown
+\l a brown Swiss cow
+
+\t hamexonit haamerika'it     haaduma
+\m ha-mexonit ha-amerika'it     ha-aduma
+\g the-car      the-American    the-red
+\l the red American car
+
+\t Tesader
+\m Te-sader
+\g FUT-tidy
+\l Tidy!
+
+\t beit is
+\m beit is
+\g house man
+\l a house of a man
+
+\t hem lo         hisigu éla heskem elki
+\m hem lo         hisigu éla heskem elki
+\g they not       reached but agreement partial
+\l They only      reached a partial agreement.
+
+\t Gil     higdil            et        hatmuna           sel      Rina
+\m Gil     higdil            et        ha-tmuna           sel      Rina
+\g Gil     enlarged          ACC       the-picture        of       Rina
+\l Gil enlarged Rina's picture
+
+\t Gil     higdil            leRina         et         hatmuna
+\m Gil     higdil            le-Rina         et         ha-tmuna
+\g Gil     enlarged          to-Rina         ACC        the-picture
+\l Gil enlarged Rina's picture
+
+\t hakelev     ne'elam          leRina
+\m ha-kelev     ne'elam          le-Rina
+\g the-dog      disappeared      to-Rina
+\l Rina's dog disappeared
+
+\t hakelev        hitrocec          leRina
+\m ha-kelev        hitrocec          le-Rina
+\g     the-dog      ran-around        to-Rina
+\l Rina's dog ran around
+
+\t Gil      cilem              leRinai    et      haax/xaver/ima           *(selai)
+\m Gil      cilem              le-Rinai    et      ha-ax/xaver/ima           *(selai)
+\g Gil      photographed       to-Rina     ACC     the-brother/friend/mother *(her)
+\l Gil photographed Rina's brother/friend/mother
+
+\t ze              ha'is          [ se         oto        ra'iti        etmol ]
+\m ze              ha'is          [ se         oto        ra'iti        etmol ]
+\g this-is         the man          COMP       him        I-saw         yesterday
+\l This is the man that I saw yesterday
+
+\t kol       gever    se      dina    xosevet    [ se         hu   ohevet    rina ]
+\m kol       gever    se      dina    xosevet    [ se         hu   ohevet    rina ]
+\g every     man      COMP    Dina    thinks       COMP       he   loves     Rina
+\l every man that Dina thinks loves Rina
+
+\t kol      geveri, Rina       xosevet     'alavi
+\m kol      geveri, Rina       xosevet     'alavi
+\g every    man        Rina    thinks      about-him
+\l every man, Rina thinks about him
+
+\t dan rac ¸slo¸sa kilometrim arukim
+\m dan rac ¸slo¸sa kilometrim arukim
+\g Dan ran three kilometers long
+\l Dan ran three kilometers.
+
+\t ha¸slo¸sim ¸sékel
+\m ha-¸slo¸sim ¸sékel
+\g the-three shekel
+\l the three shekels
+
+\t haméa      kilo
+\m ha-méa      kilo
+\g the-hundred kilo
+\l the hundred kilos
+
+\t henaxti et hasefer hahu al ha¸sulxan
+\m henaxti et ha-sefer hahu al ha-¸sulxan
+\g put1S ACC the-book that on the-table
+\l I put that book on the table.
+
+\t henaxti al ha¸sulxan et hasefer hahu
+\m henaxti al ha-¸sulxan et ha-sefer hahu
+\g put1S on the-table ACC the-book that
+\l I put on the table that book.
+
+\t lamadti harbe dvarim meha ax          ¸seli
+\m lamadti harbe dvarim me-ha ax          ¸sel-i
+\g learned1S many things from-the brother POSS-CL1S
+\l I learned many things from my brother.
+
+\t lamadti meha ax           ¸seli   harbe dvarim
+\m lamadti me-ha ax           ¸sel-i   harbe dvarim
+\g learned1S from-the brother POSS-CL1S many things
+\l I learned from my brother many things.
+
+\t xataxti prusat lexem basakin haze
+\m xataxti prusat lexem ba-sakin haze
+\g cut1S slice bread with-knife this
+\l I cut a slice of bread with this knife.
+
+\t xataxti basakin haze prusat lexem
+\m xataxti ba-sakin haze prusat lexem
+\g cut1S with-knife this slice bread
+\l I cut a slice of bread with this knife.
+
+\t natanu pras leDina
+\m natanu pras le-Dina
+\g gave1P prize to-Dina
+\l We gave a prize to Dina.
+
+\t natanu leDina pras
+\m natanu le-Dina pras
+\g gave1P to-Dina prize
+\l We gave Dina a prize.
+
+\t Q:       mi acar  et haroceax?
+\m Q:       mi acar  et ha-roceax?
+\g          who detained ACC the-murderer?
+\l Who arrested the murderer?
+
+\t et haroceax acra hami¸stara
+\m et ha-roceax acra ha-mi¸stara
+\g ACC the-murderer detained the-police
+\l It was the police who arrested the murderer.
+
+\t Q:     lemi carix lehaxzir et hamaftaxot?
+\m Q:     le-mi carix le-haxzir et ha-maftaxot?
+\g        to-whom must to-return ACC the-keys?
+\l Who do we have to return the keys to?
+
+\t carix lehaxzir leRina et hamaftaxot
+\m carix le-haxzir le-Rina et ha-maftaxot
+\g must to-return to-Rina ACC the-keys
+\l The keys must be given back to Rina.
+
+\t etmol natan Dani matana leRina
+\m etmol natan Dani matana le-Rina
+\g yesterday gave Dani present to-Rina
+\l Dani gave Rina a present yesterday.
+
+\t etmol heniax Dani et havaza fial ha¸sulxan
+\m etmol heniax Dani et ha-vaza fial ha-¸sulxan
+\g yesterday placed Dani ACC the-vase on the-table
+\l Yesterday, Dani placed the vase on the table.
+
+\t (610)          lehaxzir leRina  et hamaftaxot
+\m (6-10)          le-haxzir le-Rina  et ha-maftaxot
+\g                 to-return to-Rina ACC the-keys
+\l to return the keys to Rina
+
+\t ata rak carix lalexet larexov     hasamux kede? limco gvina tova.
+\m ata rak carix lalexet larexov     hasamux kede? limco gvina tova.
+\g  You only need to-go to-the-street the-near-by in-order to-find cheese good
+\l In order to find good cheese, you only need to go to the near-by street
+
+\t hatovah          h'rets
+\m ha-tovah          h'rets
+\g INTERR-good       the.land
+\l Is the land good?
+
+\t hinneoe haoe'isûhaoeho®sûeoebraq 'al kesep
+\m hinneoe haoe'isûhaoeho®sûeoebraq 'al kesep
+\g here the-man REL-think(MS PTCP) only about money
+\l here is the man who thinks only about money
+
+\t haoe}^îs¥ s¥eraoe}^ît^î            }et }is¥to®/*}is¥t
+\m haoe}^îs¥ s¥eraoe}^ît^î            }et }is¥to®/*}is¥t-
+\g the-man that-see(1CS      PERF   ) ACC wife-his
+\l the man who I saw his wife
+
+\t haoe}^îs¥ s¥ehaoes¥abt^î             {aoelaoeyw/*{aoel
+\m haoe}^îs¥ s¥ehaoes¥abt^î             {aoelaoeyw/*{aoel-
+\g the-man that-think(1CS     PERF    ) about-him
+\l the man that I thought about him
+
+\t haoe}^îs¥ s¥eraoe}^ît^î             (}ooeto®)
+\m haoe}^îs¥ s¥eraoe}^ît^î             (}ooeto®)
+\g the-man that-see(1CS      PERF   ) (him)
+\l the man that I saw (him)
+
+\t haoe}^îs¥ s¥ehaoes¥abt                s¥edaoen^î paoegas¥             (}ooeto®)
+\m haoe}^îs¥ s¥ehaoes¥abt                s¥edaoen^î paoegas¥             (}ooeto®)
+\g the-man that-think(2FS    PERF)       that-Dani meet(3MS    PERF)     (him)
+\l the man that you thought that Dani met (her)
+
+\t haoe}^îs¥ s¥ehaoes¥abt                 s¥e(hu®}) m´lameoed              }angl^ît
+\m haoe}^îs¥ s¥ehaoes¥abt                 s¥e(hu®}) m´lameoed              }angl^ît
+\g the-man that-think(2FS     PERF)       that-(he) teaches(MS   PTCP)     English
+\l the man that you thought that (he) teaches English
+
+\t sam §et nafs­o be­xap­o
+\m sam §et nafs­o be­xap­o
+\g put acc life­his in­palm­his
+\l He took his life in his hand.
+
+\t hem         lo    hisigu       éla heskem      xelki.
+\m hem         lo    hisigu       éla heskem      xelki.
+\g they        not reached        but agreement partial
+\l They only reached a partial agreement.
+
+\t ata rak carix lalexet larexov       hasamux kede? limco gvina                  tova.
+\m ata rak carix lalexet larexov       hasamux kede? limco gvina                  tova.
+\g  You only need to-go to-the-street the-near-by in-order to-find cheese         good 
+\l In order to find good cheese, you only need to go to the near-by street
+
+\t anaxnu halaxnu
+\m anaxnu halax-nu
+\g 1PL.NOM go.PST-1PL
+\l W e went.
+
+\t haqelev          halax
+\m ha-qelev          halax-
+\g DEF-dog.NOM       go.PST-3SG.M
+\l The dog went.
+
+\t anaxnu raxacnu              et    haqelev
+\m anaxnu raxac-nu              et    ha-qelev
+\g 1PL.NOM wash.PST-1PL         ACC   DEF-dog
+\l W e washed the dog.
+
+\t haqelev          raxacotanu
+\m ha-qelev          raxac-otanu
+\g DEF-dog.NOM       wash.PST-3SG.M 1PL.ACC
+\l The dog washed us.
+
+\t anaxnu raxacnu                    qelev
+\m anaxnu raxac-nu                    qelev
+\g 1PL.NOM wash.PST-1PL         ACC   dog
+\l W e washed a nonspecific/specific dog.
+
+\t Dan hitnasek      im Dina.
+\m Dan hitnasek      im Dina.
+\g Dan kissed.Recip with Dina
+\l Dan and Dina kissed.
+
+\t dan ra'a namer
+\m dan ra'a namer
+\g Dan saw tiger
+\l Dan saw a tiger
+
+\t hayamim çavru                maher.                                       font!
+\m ha-yam-im çavru                maher.                                       font!
+\g The day-pl pass.past.3pl quickly.
+\l The days passed quickly.
+
+\t namer/hanamer hu xaya            torefet
+\m namer/ha-namer hu xaya            torefet
+\g tiger/ the-tiger is animal carnivorous
+\l the tiger is a carnivorous animal
+
+\t hayeled                            harishon                 hagadol    haze
+\m ha-yeled                            ha-rishon                 ha-gadol    ha-ze
+\g  DEF-child(MASC.SG) DEF-first:MASC.SG DEF-big:MASC.SG         DEF-this:MASC.SG
+\l this first big boy.
+
+\t Hu nafal nefila kaa.
+\m Hu nafal nefila kaa.
+\g He fell falling hard
+\l He had a heavy fall
+
+\t a. haprahim    navlu li
+\m a. ha-prahim    navlu li
+\g  The-flowers wilted to me
+\l My flowers wilted
+
+\t  Hakelev ne'elam li
+\m  Ha-kelev ne'elam li
+\g the dog was disappeared to me
+\l My dog disappeared lost
+
+\t aliti          et  hamadregot
+\m aliti          et  ha-madregot
+\g go.up.pst.1.sg ACC the-stairs
+\l I climbed/ascended the stairs.
+
+\t H a s e re t   h e r' a   `etamilxama
+\m H a s e re t   h e r' a   `et-a-milxama
+\g the movie showed ACC-the-war
+\l The movie showed the war
+
+\t H a s e re t   h e r' a   (*'et)milxama
+\m H a s e re t   h e r' a   (*'et-)milxama
+\g the movie showed (ACC-)war
+\l The movie showed a war
+
+\t haqelev          halax
+\m ha-qelev          halax-
+\g DEF-dog.NOM       go.PST-3SG.M
+\l The dog went.
+
+\t haqelev          raxacotanu
+\m ha-qelev          raxac-otanu
+\g DEF-dog.NOM       wash.PST-3SG.M 1PL.ACC
+\l The dog washed us.
+
+\t  eize kita avra kula                         et hamivxan ?
+\m  eize kita avra kul-a                         et ha-mivxan ?
+\g which class passed all-it(3.S I N G.F E M) AC C the-exam
+\l Which class all passed the exam?
+
+\t eize tapu ax axalta et kulo?
+\m eize tapu ax axalta et kul-o?
+\g  which apple you-ate AC C all-it
+\l Which apple did you eat all of?
+
+\t hasefer
+\m ha-sefer
+\g def-book
+\l the book
+
+\t Dan kara *(et) hasefer.
+\m Dan kara *(et) ha-sefer.
+\g Dan read *(et) the-book
+\l Dan read the book.
+
+\t Dan kara (*et) sefer.
+\m Dan kara (*et) sefer.
+\g Dan read (*et) book
+\l Dan read a book.
+
+\t dan hu xaxam.
+\m dan hu xaxam.
+\g Dan he smart(masc)
+\l Dan is smart.
+
+\t ze hais1 sehama'amar te'er (?oto1).
+\m ze ha-is1 se-ha-ma'amar te'er (?oto1).
+\g this the-man that-the-article described (?him)
+\l This is the man that the article described
+
+\t ze hais1 sehama'amar hid'ig *(oto1).
+\m ze ha-is1 se-ha-ma'amar hid'ig *(oto1).
+\g this the-man that-the-article worried *
+\l This is the man that the article worried
+
+\t yes beGil eyva gdola klapey soxney bituax.
+\m yes be-Gil eyva gdola klapey soxney bituax.
+\g there-is in-Gil rancor great toward agents-of insurance
+\l Gil has a great rancor toward insurance agents
+
+\t yes betox Rina tsuka amitit leomanut.
+\m yes be-tox Rina tsuka amitit le-omanut.
+\g there-is inside Rina passion real to-art
+\l Inside Rina there is a real passion for art
+
+\t hasefer arux alyedey orex mikco'i.
+\m ha-sefer arux al-yedey orex mikco'i.
+\g the-book edited by editor professional
+\l The book is edited by a professional editor
+
+\t hasetax kavus alyedey cava zar.
+\m ha-setax kavus al-yedey cava zar.
+\g the-area occupied by army foreign
+\l The area is occupied by a foreign army
+
+\t haxalon savur alyedey/me/be/al pirxaxim.
+\m ha-xalon savur al-yedey/me-/be-/al pirxaxim.
+\g   the-window broken by/from/in/on rogues
+\l The window is broken by rogues
+
+\t hadegel karu'a alyedey/me/be/al mafginim.
+\m ha-degel karu'a al-yedey/me-/be-/al mafginim.
+\g   the-flag torn by/from/in/on demonstrators
+\l The flag is torn by demonstrators
+
+\t hasir haze a'huv/mu'adaf al/*alyedey harbe ma'azinim.
+\m ha-sir ha-ze a'huv/mu'adaf al/*al-yedey harbe ma'azinim.
+\g the-song the-this loved/hated on/*by many listeners
+\l This song is loved/hated(Adj) by many listeners
+
+\t hasir haze ne'ehav/hu'adaf alyedey/*al harbe ma'azinim.
+\m ha-sir ha-ze ne'ehav/hu'adaf al-yedey/*al harbe ma'azinim.
+\g the-song the-this was-loved/was-preferred by/*on many listeners
+\l This song is loved/preferred(V) by many listeners
+
+\t ahavat/ha'adafat hasir haze alyedey/*al harbe ma'azinim.
+\m ahavat/ha'adafat ha-sir ha-ze al-yedey/*al harbe ma'azinim.
+\g love/preference the-song the-this by/*on many listeners
+\l The love/preference for this song by many listeners
+
+\t Rina lavsa xulca.
+\m Rina lavsa xulca.
+\g Rina wore shirt
+\l Rina wore a shirt
+
+\t Gil hilbis et Rina bexulca.
+\m Gil hilbis et Rina be-xulca.
+\g Gil dress acc.Rina in-shirt
+\l Gil dressed Rina with a shirt
+
+\t Rina katva mixtav.
+\m Rina katva mixtav.
+\g Rina wrote letter
+\l Rina wrote a letter
+
+\t Gil hixtiv leRina et hamixtav.
+\m Gil hixtiv le-Rina et ha-mixtav.
+\g Gil dictated to-Rina acc.the-letter
+\l Gil dictated the letter to Rina
+
+\t Gil sana/xibev et beythasefer.
+\m Gil sana/xibev et beyt-ha-sefer.
+\g Gil hated/like acc.the-school
+\l Gil hated/liked school
+
+\t Rina hisni'a/xibeva al Gil et beythasefer.
+\m Rina hisni'a/xibeva al Gil et beyt-ha-sefer.
+\g Rina caused-to-hate/like on Gil acc.the-school
+\l Rina made Gil hate/like school
+
+\t haseret hipil paxad al Gil.
+\m ha-seret hipil paxad al Gil.
+\g the-movie dropped fear on Gil
+\l The movie frightened Gil
+
+\t hamar'e orer beGil hitragsut raba.
+\m ha-mar'e orer be-Gil hitragsut raba.
+\g the-sight evoked in-Gil excitement a-lot
+\l The sight excited Gil very much
+
+\t hais1 seRina hikira (?oto1) higia.
+\m ha-is1 se-Rina hikira (?oto1) higia.
+\g the-man the-Rina knew (?him) arrived
+\l The man that Rina knew has arrived
+
+\t hais1 seRina xasva al*(av1 pro1) higia.
+\m ha-is1 se-Rina xasva al-*(av1 pro1) higia.
+\g the-man that-Rina thought of-*(him) arrived
+\l The man that Rina thought of has arrived
+
+\t a          hamuamadim sehatoca'ot hiftiu *(otam) lo amru mila.
+\m a          ha-muamadim se-ha-toca'ot hiftiu *(otam) lo amru mila.
+\g            the-candidates that-the-results surprised *(them) not said word
+\l The candidates that the results surprised did not utter a word
+
+\t hamuamadim sehaitonay hiftia (otam) lo amru mila.
+\m ha-muamadim se-ha-itonay hiftia (otam) lo amru mila.
+\g the-candidates that-the-journalist surprised (them) not said word
+\l The candidates that the journalist surprised did not utter a word
+
+\t limadti et hayeladim et hasir.
+\m limadti et ha-yeladim et ha-sir.
+\g I-taught acc.the-children acc.the-song
+\l I taught the children the song
+
+\t hasir selimadti et hayeladim (?oto) haya arox.
+\m ha-sir se-limadti et ha-yeladim (?oto) haya arox.
+\g the-song that-I-taught acc.the-children (?it) was long
+\l The song I taught the children was long
+
+\t hayeladim selimadti *(otam) et hasir hayu xasreysavlanut
+\m ha-yeladim se-limadti *(otam) et ha-sir hayu xasrey-savlanut
+\g the-children that-I-taught *(them) acc.the-song were lacking-patience
+\l The children I taught the song to were impatient
+
+\t Eyze sxenim lo yadata im Rina hitrida?
+\m Eyze sxenim lo yadata im Rina hitrida?
+\g   which neighbors not know-2sg.M whether Rina bothered
+\l Which neighbors didn't you know whether Rina bothered?
+
+\t Eyze sxenim lo yadata im haaspa hitrida?
+\m Eyze sxenim lo yadata im ha-aspa hitrida?
+\g    which neighbors not know-2sg.M whether the-garbage bothered
+\l Which neighbors didn't you know whether the garbage bothered?
+
+\t Abbiamo insegnato ai bambini a piacersi.
+\m Abbiamo insegnato ai bambini a piacersi.
+\g have taught to-the children to appeal-si
+\l We taught the children to like themselves / think highly of themselves
+
+\t hu xaser et hanexisut hanexuca.
+\m hu xaser et ha-nexisut ha-nexuca.
+\g he.NOM misses acc.the-resolve the-necessary
+\l He misses the necessary resolve
+
+\t habosit/habdixa he'eliva et Gil.
+\m ha-bosit/ha-bdixa he'eliva et Gil.
+\g the-boss/the-joke insulted acc.Gil
+\l The boss/joke insulted Gil
+
+\t Gil hu'alav alyedey habosit.
+\m Gil hu'alav al-yedey ha-bosit.
+\g Gil was-insulted by the-boss
+\l Gil was insulted by the boss
+
+\t Gil hu'alav alyedey/mehabdixa.
+\m Gil hu'alav al-yedey/me-ha-bdixa.
+\g   Gil was-insulted by/of the-joke
+\l Gil was insulted by the joke
+
+\t Gil hufta me/alyedey haorxim.
+\m Gil hufta me-/al-yedey ha-orxim.
+\g Gil was-surprised of/by the-guests
+\l Gil was surprised at/by the guests
+
+\t Gil hufta me/*alyedey haxadasot.
+\m Gil hufta me/*al-yedey ha-xadasot.
+\g Gil was-surprised of/*by the-news
+\l Gil was surprised at/*by the news
+
+\t Gil hitrages me/*alyedey haseret.
+\m Gil hitrages me-/*al-yedey ha-seret.
+\g Gil was-moved of/*by the-movie
+\l Gil was moved by the movie
+
+\t habama hustera alyedey hamasax.
+\m ha-bama hustera al-yedey ha-masax.
+\g the-stage was-hidden by the-screen
+\l The stage was hidden by the screen
+
+\t Gil nig'al me/*alyedey hamarak.
+\m Gil nig'al me-/*al-yedey ha-marak.
+\g Gil was-disgusted of/*by the-soup
+\l Gil was disgusted by the soup
+
+\t ani xosev sehuzmenu harbe studentim.
+\m ani xosev se-huzmenu harbe studentim.
+\g I think that-were-invited many students
+\l I think that many students were invited
+
+\t ani xosev sehitragzu harbe studentim mehasvita.
+\m ani xosev se-hitragzu harbe studentim me-ha-svita.
+\g    I think that-were-angry many students of-the-strike
+\l I think that many students were angry at the strike
+
+\t ani xosev sehutredu harbe studentim mehasvita.
+\m ani xosev se-hutredu harbe studentim me-ha-svita.
+\g    I think that-were-bothered many students of-the-strike
+\l I think that many students were bothered with the strike
+
+\t Gil hufta/hutrad/huksam/zu'aza legalot sehaarec agula.
+\m Gil hufta/hutrad/huksam/zu'aza legalot se-ha-arec agula.
+\g Gil was-surprised/bothered/enchanted/shocked to-discover that-the-earth round
+\l Gil was surprised/bothered/enchanted/shocked to discover that the earth is round
+
+\t Rina hiftia/hitrida/hiksima/zi'aze'a et Gil legalot sehaarec agula.        
+\m Rina hiftia/hitrida/hiksima/zi'aze'a et Gil legalot se-ha-arec agula.        
+\g  Rina surprised/bothered/enchanted/shocked acc.Gil to-discover that-the-earth       round
+\l Rina surprised/bothered/enchanted/shocked Gil to discover that the earth is round
+
+\t Gil hitragez/nexrad legalot sehaarec agula.
+\m Gil hitragez/nexrad legalot se-ha-arec agula.
+\g Gil was annoyed/appalled to-discover that-the-earth round
+\l Gil was annoyed/appalled to discover that the earth is round
+
+\t Gil bexavana icben/zi'azea et Rina al/mehatoxnit.
+\m Gil be-xavana icben/zi'azea et Rina al/me-ha-toxnit.
+\g   Gil in-intention irritated/shocked acc.Rina on/of the-program
+\l Gil deliberately irritated/shocked Rina about/with the program
+
+\t zi'azua Rina/haxadasot et Gil.
+\m zi'azua Rina/ha-xadasot et Gil.
+\g   shock.CAUS.NMZ Rina/the-news acc.Gil
+\l Rina's / the news' shock of Gil
+
+\t hahafta'a sel Gil et isto tuxnena zman rav.
+\m ha-hafta'a sel Gil et isto tuxnena zman rav.
+\g  the-surprise.CAUS.NMZ of Gil acc.his-wife was-planned time long
+\l Gil's surprise of his wife was long planned
+
+\t habilbul (hamexuvan) sel Gil/hakolot et Rina.
+\m ha-bilbul (ha-mexuvan) sel Gil/ha-kolot et Rina.
+\g   the-bafflement.CAUS.NMZ the-deliberate of Gil/the-voices acc.Rina
+\l Gil's/the voices'(deliberate) bafflement of Rina
+
+\t A nadie lo llaman por el apellido aquí.
+\m A nadie lo llaman por el apellido aquí.
+\g to nobody cl.ACC they call by his/her last name here
+\l They don't call anyone by his/her last name here
+
+\t Gil dey hitrid et Rina (*bexavana).
+\m Gil dey hitrid et Rina (*be-xavana).
+\g Gil rather hitrid acc.Rina (*deliberately)
+\l Gil rather bothered Rina
+
+\t Gil (*dey) hitrid et Rina bexavana.
+\m Gil (*dey) hitrid et Rina be-xavana.
+\g Gil (*rather) hitrid acc.Rina deliberately
+\l Gil (*rather) harassed Rina deliberately
+
+\t Haya                  li        mexonit   kazot.
+\m Haya                  li        mexonit   kazot.
+\g  be.PAST.3MSG          DAT.1SG   car(F)    such
+\l I had such a car.   
+
+\t Haya                     lanu    et  hamexonit hazot od kse garnu                     betel aviv.
+\m Haya                     lanu    et  ha-mexonit hazot od kse garnu                     be-tel aviv.
+\g be.PAST.3MSG             DAT.1PL ACC the-car(F) this still when live.PAST.1PL          in-Tel Aviv 
+\l We had this car       when we were living in Tel Aviv.
+
+\t Naadyaa xat          likVtii      hai.
+\m Naadyaa xat          likV-tii      hai.
+\g Nadya(F) letter(M) write-IMPF.F.SG be.PRES.3SG
+\l Nadya writes a letter.
+
+\t Naadyaa ne      xat         likVaa    hai.
+\m Naadyaa ne      xat         likV-aa    hai.
+\g Nadya(F) ERG letter(M) write-PERF.M.SG be.PRES.3SG
+\l Nadya has written a letter.
+
+\t Naadyaa ne      cit t Vii likVii    hai.
+\m Naadyaa ne      cit t Vii likV-ii    hai.
+\g Nadya(F) ERG note(F) write-PERF.F.SG be.PRES.3SG
+\l Nadya has written a note.
+
+\t Naadyaa ne      cit t Vii ko    likVaa              hai.
+\m Naadyaa ne      cit t Vii ko    likV-aa              hai.
+\g Nadya(F) ERG note(F) ACC write-PERF.M.SG be.PRES.3SG
+\l Nadya has written a (particular) note.
+
+\t bayit      xadas
+\m bayit      xadas
+\g house(M) new.M
+\l a new house
+
+\t dira          xadasa
+\m dira          xadas-a
+\g apartment(F) new-F
+\l a new apartment
+
+\t batim         xadasim
+\m batim         xadas-im
+\g houses(MPL) new-MPL
+\l new houses
+
+\t hadirot              haxadas ot
+\m ha-dirot              ha-xadas- ot
+\g DEF-apartments(FPL) DEF-new- FPL
+\l the new apartments
+
+\t Habayit haya xadas.
+\m Ha-bayit haya xadas.
+\g DEF-house was new.MSG
+\l The house was new.
+
+\t Hadirot        hayu xadasot.
+\m Ha-dirot        hayu xadas-ot.
+\g DEF-apartments were new-FPL
+\l The apartments were new.
+
+\t Hadirot         hayu haxadas ot.
+\m Ha-dirot         hayu ha-xadas- ot.
+\g  DEF-apartments were DEF-new- FPL
+\l The apartments were new.
+
+\t Hadirot        hayu xadas.
+\m Ha-dirot        hayu xadas.
+\g  DEF-apartments were new.MSG
+\l The apartments were new.
+

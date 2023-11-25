@@ -1,0 +1,125 @@
+\t likm     tiwactx
+\m likm     ti-wac-tx
+\g run(3)       DEIC-dog-DEIC
+\l the dog is running
+
+\t wac         tilikmtx
+\m wac         ti-likm-tx
+\g dog(3)      DEIC-run-DEIC
+\l the one running is a dog
+
+\t a. txis       ?aleks tiqlsxtx
+\m a. tx-is       ?aleks ti-qlsx-tx
+\g     cut-he/it Alex-rope-
+\l Alex cut the rope/Alex is cutting the rope.
+
+\t txaØ         ?aleks     xti qlstx
+\m tx-a-Ø         ?aleks     x-ti- qls-tx
+\g  cut-INTR- he Alex        PREP...-rope-
+\l Alex is cutting a rope.
+
+\t txa tus          ?aleks mat x tiqlstx
+\m tx-a- tus          ?aleks mat x ti-qls-tx
+\g cut-INTR- he/him Alex Matt PREP...-rope-
+\l Alex cut the rope for Matt.
+
+\t imlkc
+\m imlk-c
+\g man-1SG
+\l I am a father.
+
+\t Ò©ikmc
+\m Ò©ikm-c
+\g run-1SG
+\l I run.
+
+\t k©xic          tiya        tiÒ©mstatx
+\m k©x-ic          ti-ya        ti-Ò©msta-tx
+\g see-3SG.1SG D-good           D-person-D
+\l I see the good person.
+
+\t k©xic          tiÒ©ap tiÒ©mstatx
+\m k©x-ic          ti-Ò©ap ti-Ò©msta-tx
+\g see-3SG.1SG D-go D-person-D
+\l I see the going person.
+
+\t k©xic          tistaltmx                    tiimlktx
+\m k©x-ic          ti-staltmx                    ti-imlk-tx
+\g see-3SG.1SG      D-chief                      D-man-D
+\l I see the man who is chief.
+
+\t k©xic        tiimlk tistaltmxtx
+\m k©x-ic        ti-imlk ti-staltmx-tx
+\g see-3SG.1SG D-man           D-chief-D
+\l I see the man who is chief.
+
+\t k©xic          tiÒ©msta tiyatx
+\m k©x-ic          ti-Ò©msta ti-ya-tx
+\g see-3SG.1SG D-person D-good-D
+\l I see the good person.
+
+\t k©xic          tiÒ©msta tiÒ©aptx
+\m k©x-ic          ti-Ò©msta ti-Ò©ap-tx
+\g see-3SG.1SG D-person D-go-D
+\l I see the person who is going.
+
+\t a. txis       ?aleks tiqlsxw tx
+\m a. tx-is       ?aleks ti-qlsxw- tx
+\g     cut-he/it Alex-rope-
+\l Alex cut the rope/Alex is cutting the rope.
+
+\t txa tus          ?aleks mat x tiqlstx   w
+\m tx-a- tus          ?aleks mat x ti-qls-tx   w
+\g cut-INTR- he/him Alex Matt PREP...-rope-
+\l Alex cut the rope for Matt.
+
+\t imlkc
+\m imlk-c
+\g man-1SG
+\l I am a father.
+
+\t Ò©ikmc
+\m Ò©ikm-c
+\g run-1SG
+\l I run.
+
+\t k©xic          tiya        tiÒ©mstatx
+\m k©x-ic          ti-ya        ti-Ò©msta-tx
+\g see-3SG.1SG D-good           D-person-D
+\l I see the good person.
+
+\t k©xic          tiÒ©ap tiÒ©mstatx
+\m k©x-ic          ti-Ò©ap ti-Ò©msta-tx
+\g see-3SG.1SG D-go D-person-D
+\l I see the going person.
+
+\t                  tistaltmx                              k©xic                                        tiimlktx
+\m                  ti-staltmx                              k©x-ic                                        ti-imlk-tx
+\g see-3SG.1SG      D-chief                      D-man-D
+\l I see the man who is chief.
+
+\t k©xic        tiimlk tistaltmxtx
+\m k©x-ic        ti-imlk ti-staltmx-tx
+\g see-3SG.1SG D-man           D-chief-D
+\l I see the man who is chief.
+
+\t k©xic          tiÒ©msta tiyatx
+\m k©x-ic          ti-Ò©msta ti-ya-tx
+\g see-3SG.1SG D-person D-good-D
+\l I see the good person.
+
+\t k©xic          tiÒ©msta tiÒ©aptx
+\m k©x-ic          ti-Ò©msta ti-Ò©ap-tx
+\g see-3SG.1SG D-person D-go-D
+\l I see the person who is going.
+
+\t staltmxaw waPimlk
+\m staltmx-aw wa-Pimlk
+\g chief-intr prox-man
+\l The man is a chief.
+
+\t staltmxaw          waPimlk
+\m staltmx-aw          wa-Pimlk
+\g chief(3PL.)(INTR.) (PROX.)man
+\l The man is a chief.
+

@@ -1,0 +1,35 @@
+\t vaCa       ike minut             xuSAncE           xypara        pEltercE.
+\m vaCa       ike minut             xuSAncE           xypar-a        pElter-c-E.
+\g Basil      two   minute          within            news-DA        let.know-PFV-3:SG
+\l Basil announced a news in two minutes. <quantized direct object>
+
+\t b . *vaCa ike         minut         xypara             pEltercE.
+\m b . *vaCa ike         minut         xypar-a             pElter-c-E.
+\g    Basil      two     minute        news-DA             let.know-PFV-3:SG
+\l Basil announced a news for two minutes. <quantized direct object>
+
+\t vaCa ike         minut           xuSAncE           xyparsene             pEltercE.
+\m vaCa ike         minut           xuSAncE           xypar-se-n-e             pElter-c-E.
+\g Basil     two    minute          withinnews-PL-OBL-DA                       know-CAUS-PFV-3:SG
+\l Basil announced the news in two minutes. <quantized direct object>
+
+\t vaCa       ike     minut              xyparsene               pEltercE.
+\m vaCa       ike     minut              xypar-se-n-e               pElter-c-E.
+\g Basil      two     minute             news-PL-OBL-DA          let.know-PFV-3:SG
+\l Basil announced news for two minutes. <cumulative direct object>
+
+\t maCa       ike kun           xuSAncE         koftana               CixrE.
+\m maCa       ike kun           xuSAncE         kofta-n-a               Cix-r-E.
+\g Masha      two   day         within          jacket-OBL-DA           knit-PFV-PST
+\l Masha knitted a jacket in two days. <quantized direct object>
+
+\t maCa       ike kun           koftana               CixrE.
+\m maCa       ike kun           kofta-n-a               Cix-r-E.
+\g Masha      two   day         jacket-OBL-DA           knit-PFV-PST
+\l Masha was involved in knitting a jacket for two days. <quantized direct object>
+
+\t maCa       ike kun             xuSAncE         koftana              CixrE.
+\m maCa       ike kun             xuSAncE         kofta-n-a              Cix-r-E.
+\g Masha      two   day           within          jacket-OBL-DA          knit-PFV-PST
+\l Masha knitted the||* jackets in two days. <quantized direct object>
+

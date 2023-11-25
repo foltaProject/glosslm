@@ -1,0 +1,240 @@
+\t wat tinke jo w^ er't      Jan wennet?
+\m wat tinke jo w^ er't      Jan wennet?
+\g what think you where-that Jan resides
+\l Where do you think Jan resides?
+
+\t [Reduzem] dêr woe ik wol wenje.
+\m [Reduzem] dêr woe ik wol wenje.
+\g    Reduzem RP would I sure live
+\l Reduzem, there I sure would like to live.
+
+\t Ik woe wol Reduzem wenje.
+\m Ik woe wol Reduzem wenje.
+\g   I would sure Reduzem live
+\l I sure would like to live *(in) Reduzem.
+
+\t Ik woe wol dêr wenje.
+\m Ik woe wol dêr wenje.
+\g   I would sure RP live
+\l I sure would like to live there.
+
+\t [Syn berteplak] dêr soe     elkenien wol wenje wolle.
+\m [Syn berteplak] dêr soe     elkenien wol wenje wolle.
+\g  his birthplace RP would everybody sure live want
+\l His birthplace, there everybody sure would like to live.
+
+\t Wa tinke jo     [dat ik sjoen haw] ?
+\m Wa tinke jo     [dat ik sjoen haw] ?
+\g who think you that I seen have
+\l Who do you think (that) I have seen?
+
+\t WAT tinke jo       [wa't       ik sjoen haw] ?
+\m WAT tinke jo       [wa't       ik sjoen haw] ?
+\g WHAT think you who.that I seen          have
+\l Who do you think (that) I have seen?
+
+\t Wui         da?
+\m Wui         da?
+\g where       thatDEM
+\l Where?    
+
+\t Tege        wou     da?
+\m Tege        wou     da?
+\g against     whom thatDEM
+\l Against     whom?
+
+\t Hy   frege, wa (of) 't             jûn      kaam.
+\m Hy   frege, wa (of) 't             jûn      kaam.
+\g he   asked who if thatC° tonight came
+\l He  asked who came tonight.
+
+\t Hja     koe har net yn 't sin bringe tsjin          wa ...          ...  (of) 't        se soks sein hie.
+\m Hja     koe har net yn 't sin bringe tsjin          wa ...          ...  (of) 't        se soks sein hie.
+\g she     could her not in the mind bring against whom                      if    thatC° she such said had 
+\l She couldn't remember who she had said such a thing to.
+
+\t Ik frege, hokker stik *(of) 't                se  lêzen hie.
+\m Ik frege, hokker stik *(of) 't                se  lêzen hie.
+\g I asked which article if              thatC° she read had
+\l I asked which article she had read.
+
+\t A:      Jan hat juster          in praatsje holden.        B:     Wêr     dat       oer?
+\m A:      Jan hat juster          in praatsje holden.        B:     Wêr     dat       oer?
+\g         John has yesterday a talk           held                  where thatDEM about   
+\l A: John gave a talk yesterday. B: What about?
+
+\t Mei      wa (*dat)       stie     Jan juster     te       praten?
+\m Mei      wa (*dat)       stie     Jan juster     te       praten?
+\g with     who    thatDEM stood John yesterday to           talk
+\l Who    was John talking to yesterday?
+
+\t A:     Ik haw in boek fan Jan liend.           B:     Hokker boek (*dat)?      
+\m A:     Ik haw in boek fan Jan liend.           B:     Hokker boek (*dat)?      
+\g        I have a book of John borrowed                 which book        thatDEM
+\l A: I borrowed a book from John. B: Which book?
+
+\t Wa DAT? / * WA dat?
+\m Wa DAT? / * WA dat?
+\g who thatDEM / who thatDEM
+\l Who?
+
+\t (ii) * Nee? Wa noch mear wie dat             dy't er ...               ... útnoege hie?
+\m (ii) * Nee? Wa noch mear wie dat             dy't er ...               ... útnoege hie?
+\g        no    who else more was thatDEM REL.thatC° he                       invited had 
+\l A: John hadn't just invited Pete. B: No? Who else?
+
+\t A:       Jan hat juster          in praatsje holden.         B:     Wêr     dat       oer?
+\m A:       Jan hat juster          in praatsje holden.         B:     Wêr     dat       oer?
+\g          John has yesterday a talk           held                   where thatDEM about   
+\l A: John gave a talk yesterday. B: What about?
+
+\t Jan hat juster       in praatsje holden, mar ik wyt net wêroer
+\m Jan hat juster       in praatsje holden, mar ik wyt net wêroer
+\g John has yesterday a talk            held    but I know not where.about
+\l John gave a talk yesterday, but I don't know what about
+
+\t Wêr giet dat boek OER?
+\m Wêr giet dat boek OER?
+\g where goes that book over
+\l What is that book ABOUT?
+
+\t WA      giet     dat boek oer?
+\m WA      giet     dat boek oer?
+\g who     goes     that book over
+\l Who   is that   book ABOUT?
+
+\t Wa      giet     dat BOEK oer?
+\m Wa      giet     dat BOEK oer?
+\g who     goes     that book over
+\l Who   is that   BOOK about?
+
+\t  B:     a.      Wêr       dat     oer?
+\m  B:     a.      Wêr       dat     oer?
+\g                 where thatDEM about
+\l A: John gave a talk yesterday. B: What about?
+
+\t Hokker tiidrek GIET dat boek oer?
+\m Hokker tiidrek GIET dat boek oer?
+\g which era        goes     that book about
+\l Which era is that book about?
+
+\t A:      Jan hat juster          in praatsje holden.        B:     Wêr     dat       oer?
+\m A:      Jan hat juster          in praatsje holden.        B:     Wêr     dat       oer?
+\g         John has yesterday a talk           held                  where thatDEM about   
+\l A: John gave a talk yesterday. B: About what?
+
+\t Wa dat?
+\m Wa dat?
+\g who that
+\l Who?
+
+\t Tsjin wa dat?
+\m Tsjin wa dat?
+\g against who that
+\l Against whom?
+
+\t Hy frege, wa 't        jûn   kaam.
+\m Hy frege, wa 't        jûn   kaam.
+\g he asked who that tonight came
+\l He asked who came tonight.
+
+\t Hja koe har net yn 't sin bringe tsjin              wa ...         ... 't    se soks sein hie.
+\m Hja koe har net yn 't sin bringe tsjin              wa ...         ... 't    se soks sein hie.
+\g she could her not in the mind bring against whom                       that she such said had 
+\l She couldn't remember who she had said such a thing to.
+
+\t Hy frege, wa deale 't             de roltsjeredens op'e ...         ... trep      set hie.
+\m Hy frege, wa deale 't             de roltsjeredens op'e ...         ... trep      set hie.
+\g   he asked who devil that the roller.skates on.the                      staircase put had 
+\l He asked who the devil had put the roller skates on the staircase.
+
+\t A:      Jan hat juster          in praatsje holden.        B:     Wêr     dat       oer?
+\m A:      Jan hat juster          in praatsje holden.        B:     Wêr     dat       oer?
+\g         John has yesterday a talk           held                  where thatDEM about   
+\l A: John gave a talk yesterday. B: About what?
+
+\t Wa tinke jo     [dat ik sjoen haw] ?
+\m Wa tinke jo     [dat ik sjoen haw] ?
+\g who think you that I seen have
+\l Who do you think (that) I have seen?
+
+\t WAT tinke jo       [wa't       ik sjoen haw] ?
+\m WAT tinke jo       [wa't       ik sjoen haw] ?
+\g WHAT think you who.that I seen          have
+\l Who do you think (that) I have seen?
+
+\t Komst        (do)    jûn?
+\m Kom-st        (do)    jûn?
+\g  come-2SG you         tonight
+\l Do you come tonight?
+
+\t datst      (do) jûn            komst
+\m dat-st      (do) jûn            kom-st
+\g  that-2SG you tonight come-2SG
+\l that you come tonight
+
+\t Heit sei datsto/*dat do          soks net leauwe moast.
+\m Heit sei datst-o/*dat do          soks net leauwe moast.
+\g dad said that-2sg=you/that you that not believe must-2sg
+\l Dad said that you should not believe such things.
+
+\t Hy freget wa (of) *('t)         jûn     komt.
+\m Hy freget wa (of) *('t)         jûn     komt.
+\g he asks who if           that.CL tonight comes
+\l He's asking who's coming tonight.
+
+\t    d.    * wa     of 't.
+\m    d.    * wa     of 't.
+\g             who if that.CL
+\l Someone's coming tonight, and he's asking who.
+
+\t Komst        (do)    jûn?
+\m Kom-st        (do)    jûn?
+\g  come-2SG you         tonight
+\l Do you come tonight?
+
+\t datst      (do) jûn            komst
+\m dat-st      (do) jûn            kom-st
+\g  that-2SG you tonight come-2SG
+\l that you come tonight
+
+\t Heit sei datsto/*dat do          soks net leauwe moast.
+\m Heit sei datst-o/*dat do          soks net leauwe moast.
+\g dad said that-2sg=you/that you that not believe must-2sg
+\l Dad said that you should not believe such things.
+
+\t Zitte hjir nergens gjin muizen?
+\m Zitte hjir nergens gjin muizen?
+\g Sit here n-where n-mice
+\l Are there any mice around here
+
+\t Moatst       Pyt      helpe
+\m Moatst       Pyt      helpe
+\g must-2SG Pete         help-INF
+\l You must help Pete.
+
+\t de plysje soe       by him komme        en helje                                him op
+\m de plysje soe       by him komme        en helje                                him op
+\g the police would by him come-I N F and pick.IMP    him up
+\l The police would come by and pick him up
+
+\t ik ried     jimme oan          en drink                         net te folle kofje
+\m ik ried     jimme oan          en drink                         net te folle kofje
+\g I advise you.P L on.P RT and drink.I M                      P   not too much coffee
+\l I advise you not to drink too much coffee
+
+\t de plysje soe       by him komme        en helje                                him op
+\m de plysje soe       by him komme        en helje                                him op
+\g the police would by him come-I N F and pick.IMP    him up
+\l The police would come by and pick him up
+
+\t ik ried     jimme oan          en drink                         net te folle kofje
+\m ik ried     jimme oan          en drink                         net te folle kofje
+\g I advise you.P L on.P RT and drink.I M                      P   not too much coffee
+\l I advise you not to drink too much coffee
+
+\t Wêr    tinke jo    wêr't            Jan wennet?
+\m Wêr    tinke jo    wêr't            Jan wennet?
+\g where think you where that-CL J.resides
+\l Where do you think that John lives?
+

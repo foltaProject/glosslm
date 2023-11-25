@@ -1,0 +1,610 @@
+\t       ¢£ ¢¡                                 ¢£ ¢¡                 ¤                  ¢£ ¥¡       £  £ ©¨ §¦                                               ¢£ ¢¡                    ¨   ¡                             !¤   ¢£ ¥¡                  $ #"    & % "
+\m       ¢£ ¢¡                                 ¢£ ¢¡                 ¤                  ¢£ ¥¡       £  £ ©¨ §¦                                               ¢£ ¢¡                    ¨   ¡                             !¤   ¢£ ¥¡                  $ #"    & % "
+\g NEG reach me be.better TOP leave me my hand
+\l Don't get near me is better than leave my hand.
+
+\t       ¢£ ¢¡                                 ¢£ ¢¡                 ¤                  ¢£ ¥¡
+\m       ¢£ ¢¡                                 ¢£ ¢¡                 ¤                  ¢£ ¥¡
+\g NEG reach 1.SG
+\l                                                    £  )
+
+\t n    ©   © §¨ ¦¥ £ § ©¨ ¦¥ §£ ¦¥ ¤£ ¢¡                        ¦ #£ "!                     © #¨ ' §' ¥&% $                    ¥ 0) ¥  (   2¥ ©1 ©¨  ©  #1
+\m n    ©   © §¨ ¦¥ £ § ©¨ ¦¥ §£ ¦¥ ¤£ ¢¡                        ¦ #£ "!                     © #¨ ' §' ¥&% $                    ¥ 0) ¥  (   2¥ ©1 ©¨  ©  #1
+\g monkey-male-old NEG forget-IMP tree climb-NOM
+\l An old monkey never forgets how to climb trees.
+
+\t n    ©   © §¨ ¦¥ £ § ©¨ ¦¥ §£ ¦¥ ¤£ ¢¡
+\m n    ©   © §¨ ¦¥ £ § ©¨ ¦¥ §£ ¦¥ ¤£ ¢¡
+\g monkey-male-old
+\l An old monkey
+
+\t n    ©   © §¨ ¦¥ £ § ©¨ ¦¥ §£ ¦¥ ¤£ ¢¡                                             ¥
+\m n    ©   © §¨ ¦¥ £ § ©¨ ¦¥ §£ ¦¥ ¤£ ¢¡                                             ¥
+\g monkey-male-old be 1.SG
+\l I am an old mo nkey. 
+
+\t ¥&% ¦$ ¦ 4£ ¥ § ©¨  3% ©¡  ¢% '               ¦ #£ !                        © ¨ 76 ¦¥ §1 ¦¥ 51 ¡                 ¦ 76 ¥&% $ 8  9 8   (
+\m ¥&% ¦$ ¦ 4£ ¥ § ©¨  3% ©¡  ¢% '               ¦ #£ !                        © ¨ 76 ¦¥ §1 ¦¥ 51 ¡                 ¦ 76 ¥&% $ 8  9 8   (
+\g eye-PL two NEG peep-IMP baobab.fruit
+\l You do not use two eyes to look into a baobab.fruit (like a bottle).
+
+\t   § ©¨  0£  #£ !           0£  ¢£ 9  ©'  0S ¦ F RQ ¥&% ¦$ ¦ "£                             £ !                    S § ©¨ ¥ #S !
+\m   § ©¨  0£  #£ !           0£  ¢£ 9  ©'  0S ¦ F RQ ¥&% ¦$ ¦ "£                             £ !                    S § ©¨ ¥ #S !
+\g dog-PL two rabbit          NEG lose-IMP
+\l When two dogs chase a rabbit, it hardly escapes.
+
+\t a.
+\m a.
+\g        stranger TOP greet-IMP deaf
+\l It is only a stranger who greets the deaf
+
+\t  sa a na la pu oro wo ngo                                                  £ ££                      £       £ !!                      !           £
+\m  sa a na la pu o-ro wo ngo                                                  £ ££                      £       £ !!                      !           £
+\g stranger TOP greet-IMP deaf
+\l It is only a stranger who greets the deaf
+
+\t c                                                                               (! ©2 £ 8 7 (6 ¡ © ¤£ '¡ ¤£ ¡ &         ¤£ (¡ 9" ¤£ 2  © (! §2 ¥
+\m c                                                                               (! ©2 £ 8 7 (6 ¡ © ¤£ '¡ ¤£ ¡ &         ¤£ (¡ 9" ¤£ 2  © (! §2 ¥
+\g        stranger and 3.SG deaf FOC
+\l It is a case of a stranger and the deaf.
+
+\t a      ¤£ D2 3 ¨ ' C! B1 A) (£ ¡ @ (! ¡                                                                                               (! '¡ ¤£ 4¡ 3 ¨ (! F2 'E ¨ (! ¡          £  ' ¤£ 2 & £ 8 H £G  (! 2
+\m a      ¤£ D2 3 ¨ ' C! B1 A) (£ ¡ @ (! ¡                                                                                               (! '¡ ¤£ 4¡ 3 ¨ (! F2 'E ¨ (! ¡          £  ' ¤£ 2 & £ 8 H £G  (! 2
+\g        they NEG praise-IMP dog-run-AG it face in front
+\l You do not praise a fast dog in its presence.
+
+\t  bazora a
+\m  ba-zo-ra a
+\g dog-run-AG
+\l A fast dog
+
+\t (! ©¡ ¤£ D¡ 3 ¨ (! F2 'E ¨ (! ¡ P ¤£ D2 3 ¨ ' C! B1 A) ¤£ ¤¡ I"   (! ¡                                                                                               £  ' ¤£ 2 & !?
+\m (! ©¡ ¤£ D¡ 3 ¨ (! F2 'E ¨ (! ¡ P ¤£ D2 3 ¨ ' C! B1 A) ¤£ ¤¡ I"   (! ¡                                                                                               £  ' ¤£ 2 & !?
+\g who FOC praise dog-run-AG 3.SG face in front
+\l Who praises a fast dog in its presence?
+
+\t a      ¤£ 42 ©3 ¨ C! Q2 RE ¤£ ¤¡ @" ¤£ D¡ 3 ©¨ ¤£ '¡ ¤£ ¢¡     ©¨ ¤£ Q1 E                                                                                       £  (! 2 &
+\m a      ¤£ 42 ©3 ¨ C! Q2 RE ¤£ ¤¡ @" ¤£ D¡ 3 ©¨ ¤£ '¡ ¤£ ¢¡     ©¨ ¤£ Q1 E                                                                                       £  (! 2 &
+\g        head-cut-AG TOP fear-IMP knife
+\l The executioner fears the knife
+
+\t ¦ ¥ ©£  ¥  ¥¤ £  £ ¨  ¤ !§ £¢¡ ¥  £¢¡
+\m ¦ ¥ ©£  ¥  ¥¤ £  £ ¨  ¤ !§ £¢¡ ¥  £¢¡
+\g child-small-better-than-dog
+\l A quite grown child
+
+\t N6mbdd n& Q6mbud nd ? Kp&irg wMni
+\m N6m-bdd n& Q6m-bud nd ? Kp&i-rg wM-ni
+\g Person-whoFOC person-who FOC ? enter-IMP come-IMP
+\l Who is it, who is it ? Come in,
+
+\t wi    yil hd        yHiking             wb
+\m wi    yil hd        yHiking             wb
+\g come speak 2.SG matter COMP.t.SG hear
+\l come and tell me what you have to say.*
+
+\t Ki    zind hddg       gM skud, wili, wi        ird kyi, i y&LM sdng    zii king          wdiid    Hddg       gii skd& bdfigwkl...
+\m Ki    zind hddg       gM skud, wili, wi        ird kyi, i y&LM sdng    zii king          wd-iid    Hddg       gii skd& bdfigwkl...
+\g COMP today 2.SG-TOP go school, what, come stand here and say.diem well all COMP.l.SGhear-IMP.2.SG.TOP go school what come...      
+\l Today when you went to school, what, come and stand here and say it all
+
+\t M.tfdiig     gtesMH bd, bd           ki    hd      ttkyi ytl
+\m M.tfdiig     gtesMH bd, bd           ki    hd      ttkyi ytl
+\g    2.SG.T0P go school what, what COMP 2.SG teacher say
+\l When you went to school today, what, what did your teacher say ?*
+
+\t M: YM kpttngdd kp6£ngte. Hdtig         gkk stOMt kk   bd d ?
+\m M: YM kpttngdd kp6£ngte. Hdtig         gkk stOMt kk   bd d ?
+\g   Speak hard hard.2.SG.TOP go school, COMP what do
+\l Speak up ! When you went to school what happened?
+
+\t M: Yi 6 n£ &glis...n6£        ik£ mdng ytte D&g£dr66 k& bdrdfdrd n6ng
+\m M: Yi 6 n£ &glis...n6£        ik£ mdng ytte D&g£dr66 k& bdrdfdrd n6ng
+\g things stuff, stuff there.
+\l English and all kinds of things are being stuffed everywhere in your speech.
+
+\t if      ttewdl n£ hdng w££n4      n6ng b6 ?
+\m if      ttewdl n£ hdng w££-n4      n6ng b6 ?
+\g 1.SG towel FOC 2.SG.TOP come-IMP with PART
+\l Is it my towel you are bringing?
+
+\t M: T55 hd, y£ blng            ky£ ghtoi yaa\
+\m M: T55 hd, y£ blng            ky£ ghtoi yaa\
+\g   0.k.2.SG then put down and go.IMP PART
+\l Alright, you just put it down and go, eh ?
+
+\t ò dà dé          lá gánè kò má
+\m ò dà dé          lá gánè kò má
+\g 3.sg past take   foc book give 1.sg
+\l S/he gave me    a book.
+
+\t nànkpááná dà tùùró           lá gbéngné
+\m nànkpááná dà tùù-ró           lá gbéng-né
+\g hunter    past follow-imp foc lion-sg
+\l Hunter was trailing a lion.
+
+\t nànkpááná dà zòró      tùùró     lá gbéngné
+\m nànkpááná dà zò-ró      tùù-ró     lá gbéng-né
+\g hunter    past run-imp follow-imp foc lion-sg
+\l Hunter was running after a lion.
+
+\t ò dà dááø    má lá lffø ´´
+\m ò dà dáá-ø    má lá lff-ø ´´
+\g 3.sg past push-perf 1.sg foc caus-fall-perf
+\l S/he pushed me down.
+
+\t ò dà dááø         má lá lèø
+\m ò dà dáá-ø         má lá lè-ø
+\g   3.sg past push-perf 1.sg foc fall-perf
+\l S/he pushed me and fell.
+
+\t ò nà dé lá à tómá bàrè
+\m ò nà dé lá à tómá bàrè
+\g 3.sg fut take foc def work leave
+\l S/he will leave (= stop) the work.
+
+\t ò dà zòwà7      `       lá
+\m ò dà zò-wà-7      `       lá
+\g 3.sg past run-come-perf foc
+\l S/he ran here / s/he came running.
+
+\t ò dà zò wà dé lá à gánè kò má
+\m ò dà zò wà dé lá à gánè kò má
+\g 3.sg past run come take foc def book give 1.sg
+\l S/he ran here and took the book for me.
+
+\t n da s re la             a      ane      na   e/*o  nan       bin      ky
+\m n da s re la             a      ane      na   e/*o  nan       bin      ky
+\g 1Sg.PST read F           D     book      DEM ø/3Sg.REL       put      here
+\l I read the book that     is   lying    here.
+
+\t n da s re la a ane na Dakoraa nan n maa e/*o deyan
+\m n da s re la a ane na Dakoraa nan n maa e/*o deyan
+\g 1Sg.PST read F D book DEM Dakoraa REL write ø/3Sg.last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n da s re la [a Dakoraa nan n maa ane (kam a) deyan ]
+\m n da s re la [a Dakoraa nan n maa ane (kam a) deyan ]
+\g 1Sg.PST read F D Dakoraa REL write book ID     last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n da s re la [a Dakoraa nan n maa ane (na) deyan ]
+\m n da s re la [a Dakoraa nan n maa ane (na) deyan ]
+\g 1Sg.PST read F D Dakoraa REL write book DEM last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n da s re la a ane na Dakoraa nan n maa deyan
+\m n da s re la a ane na Dakoraa nan n maa deyan
+\g 1Sg.PST read F D book DEM Dakoraa REL write last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n     da s re la ane (kan (a)) Dakoraa nan n maa deyan
+\m n     da s re la ane (kan (a)) Dakoraa nan n maa deyan
+\g 1Sg.PST read F book (ID)          Dakoraa REL write last-year
+\l I read a book that Dakoraa wrote last year.
+
+\t n     da     la a ane na.
+\m n     da     la a ane na.
+\g 1Sg.bought F D book DEM
+\l I bought that book.
+
+\t n da s re la a ane (na) *(nan ) bin ky
+\m n da s re la a ane (na) *(nan ) bin ky
+\g 1Sg.PST read F D book DEM REL put here
+\l I read the book that is lying here.
+
+\t n     da s re la a ane (na) Dakoraa*(nan ) n maa deyan
+\m n     da s re la a ane (na) Dakoraa*(nan ) n maa deyan
+\g 1Sg.PST read F D book DEM Dakoraa REL write last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n     da      ny la a p     na n        nan s re o ane deyan
+\m n     da      ny la a p     na n        nan s re o ane deyan
+\g 1Sg.PST     saw F D woman DEM 1Sg.REL read 3Sg.book last-year
+\l I saw the   woman whose book I read last year.
+
+\t n da            la a    pe    na   Dakoraa nan de b rb       en e
+\m n da            la a    pe    na   Dakoraa nan de b rb       en e
+\g 1Sg.buy.PERF F D      basket DEM Dakoraa REL take pineapple put-in
+\l I bought the basket   into which Dakoraa put a pineapple.
+
+\t a pe na      Dakoraa nan an           o     zu e la kpon
+\m a pe na      Dakoraa nan an           o     zu e la kpon
+\g D root DEM Dakoraa REL lie.PERF 3Sg.on be F big
+\l The roof top on which Dakoraa slept is big.
+
+\t a d na Dakoraa nan e wo i an e e zaa                   kpie la
+\m a d na Dakoraa nan e wo i an e e zaa                   kpie la
+\g D man DEM Dakoraa REL be tall pass           yesterday die F
+\l The man who Dakoraa is taller than died yesterday.
+
+\t n     da s re la ø          ane na nan bin ky
+\m n     da s re la ø          ane na nan bin ky
+\g 1Sg.PST read F (D)        book DEM REL put here
+\l I read the book that is   lying here.
+
+\t n     da s re la a ane ø            nan bin ky
+\m n     da s re la a ane ø            nan bin ky
+\g 1Sg.PST read F D book (DEM) REL put here
+\l I read the book that is lying here.
+
+\t n da s re la ø ane ø             Dakoraa nan n maa deyan
+\m n da s re la ø ane ø             Dakoraa nan n maa deyan
+\g 1Sg.PST read F D book (DEM) Dakoraa REL write last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n da         la a ane na
+\m n da         la a ane na
+\g  1Sg.bought F D book DEM
+\l I bought that book.
+
+\t n da          ø ane na
+\m n da          ø ane na
+\g  1Sg.bought that book DEM
+\l I bought that book.
+
+\t n da           ø ane na ?(la)!
+\m n da           ø ane na ?(la)!
+\g  1Sg.bought (D) book DEM (F)
+\l I bought that book!
+
+\t a mon ori na
+\m a mon o-ri na
+\g D mango-PL DEM
+\l Those mangoes
+
+\t mon ori na la ka Dakoraa di zaamen
+\m mon o-ri na la ka Dakoraa di zaamen
+\g mango-PL.DEM F C Dakoraa ate yesterday
+\l It's those mangoes that Dakoraa ate yesterday
+
+\t Ayuo da      la a ane na n         nan b n ka Dakoraa *(nan ) s re (o) la deyan
+\m Ayuo da      la a ane na n         nan b n ka Dakoraa *(nan ) s re (o) la deyan
+\g Ayuo bought F D book DEM 1Sg.REL know C Dakoraa (REL) read 3Sg.F.last-year
+\l Ayuo bought the book that I know that Dakoraa read last year.
+
+\t Ayuo da     la a ane na n *(nan ) b n ka Dakoraa s re (o) la deyan
+\m Ayuo da     la a ane na n *(nan ) b n ka Dakoraa s re (o) la deyan
+\g Ayuo bought F D book DEM 1Sg.know C Dakoraa read 3 Sg.F last-year
+\l Ayuo bougth the book that I know that Dakoraa read last year.
+
+\t Ayuo da     ny la a d     na     n nan b n ka (o) (*nan ) zaa n m la Dakoraa
+\m Ayuo da     ny la a d     na     n nan b n ka (o) (*nan ) zaa n m la Dakoraa
+\g Ayuo PST     saw F D man DEM 1Sg.REL know C 3Sg.REL PST hit F Dakoraa
+\l Ayuo saw    the man who I know hit Dakoraa.
+
+\t Ayuo da ny la a d       na n *(nan ) b n ka *(o) nan zaa n m la Dakoraa
+\m Ayuo da ny la a d       na n *(nan ) b n ka *(o) nan zaa n m la Dakoraa
+\g Ayuo PST saw F D man DEM 1Sg.REL know C 3Sg.REL PST hit      F Dakoraa
+\l Ayuo saw the man who I know hit Dakoraa.
+
+\t n da s re la ane na n nan ny la a p              na nan n maa (o)
+\m n da s re la ane na n nan ny la a p              na nan n maa (o)
+\g 1Sg.PST read F book DEM I REL saw F D woman DEM REL write (3Sg.)
+\l I read the book that I saw the woman who wrote.
+
+\t n da s re la a ane na, n nan ny la a p                o      nan n maa (o)
+\m n da s re la a ane na, n nan ny la a p                o      nan n maa (o)
+\g 1Sg.PST read F D book DEM I REL saw F D woman 3Sg.REL write (3Sg.)
+\l I read the book that I saw the woman when she was writing it.
+
+\t bon la ka fo da ny a p              nan n maa deyan
+\m bon la ka fo da ny a p              nan n maa deyan
+\g  what F C 2Sg.PST see D woman REL wrote last-year
+\l What did you see the woman that wrote last year?
+
+\t fo da ny a p           nan n maa bon la deyan
+\m fo da ny a p           nan n maa bon la deyan
+\g 2Sg.PST see D woman REL wrote what F last-year
+\l What did you see the woman that wrote last year?
+
+\t ad     nan ar               la
+\m ad     nan ar               la
+\g D man still stand.PERF F
+\l The man is still standing.
+
+\t a d nan wa ta,                 n de la ane ko o
+\m a d nan wa ta,                 n de la ane ko o
+\g D man when come read.PERF 1Sg.take F book give 3Sg.
+\l When the man arrived I gave him a book.
+
+\t n da ny la a ane na Dakoraa nan nan n maara.
+\m n da ny la a ane na Dakoraa nan nan n maara.
+\g 1Sg.PST saw F D book DEM Dakoraa REL still write.IMP.
+\l I saw the book that Dakoraa was still writing.
+
+\t n da s re la a ane na Dakoraa (*da) nan (da) n maa deyan
+\m n da s re la a ane na Dakoraa (*da) nan (da) n maa deyan
+\g 1Sg.PST read F D book DEM Dakoraa (PST) REL (PST) write last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n     da s re la a ane na Dakoraa (*zaa) nan (za ) n maa
+\m n     da s re la a ane na Dakoraa (*zaa) nan (za ) n maa
+\g 1Sg.PST read F D book DEM Dakoraa (PST) REL (PST) write
+\l I read the book that Dakoraa wrote yesterday.
+
+\t      da nan ba wa s re
+\m      da nan ba wa s re
+\g 2Sg.PST still NEG come yet
+\l He hasn't come yet.
+
+\t n ny la a ane na           Dakoraa nan da nan n maa
+\m n ny la a ane na           Dakoraa nan da nan n maa
+\g 1Sg.saw F D book DEM Dakoraa REL PST still write
+\l I saw the book that Dakoraa was still writing.
+
+\t n da      ny la a ane na         Dakoraa nan na ko ma bieu
+\m n da      ny la a ane na         Dakoraa nan na ko ma bieu
+\g I PST     see F D book DEM Dakoraa REL FUT give me tomorrow
+\l I saw    the book that Dakoraa will give me tomorrow.
+
+\t n ny          a ane na Dakoraa nan n ma (*la)
+\m n ny          a ane na Dakoraa nan n ma (*la)
+\g  1Sg.saw.F D book DEM Dakoraa REL wrote F
+\l I saw the book that Dakoraa wrote.
+
+\t n ny         a ane na Dakoraa nan n maa
+\m n ny         a ane na Dakoraa nan n maa
+\g 1Sg.saw.F D book DEM Dakoraa REL wrote               F
+\l I saw the book that Dakoraa wrote.
+
+\t n da s re la [a ane deyan na Dakoraa nan n maa]
+\m n da s re la [a ane deyan na Dakoraa nan n maa]
+\g 1Sg.PST read F D book last-year DEM Dakoraa REL write
+\l I read the book that Dakoraa wrote last year.
+
+\t n da s re la [a ane na deyan Dakoraa nan n maa]
+\m n da s re la [a ane na deyan Dakoraa nan n maa]
+\g 1Sg.PST read F D book DEM last-year Dakoraa REL write
+\l I read the book that Dakoraa wrote last year. 
+
+\t /?? n       da s re la [deyan a ane na Dakoraa nan n maa]
+\m /?? n       da s re la [deyan a ane na Dakoraa nan n maa]
+\g       1Sg.PST read F last-year D book DEM Dakoraa REL write
+\l I read the book that Dakoraa wrote last year.
+
+\t n da s re la [ a ane na Dakoraa nan deyan n maa]
+\m n da s re la [ a ane na Dakoraa nan deyan n maa]
+\g 1Sg.PST read F D book DEM Dakoraa REL last-year write
+\l I read the book that Dakoraa wrote last year.
+
+\t n da s re la [ a ane na Dakoraa nan n maa deyan ]
+\m n da s re la [ a ane na Dakoraa nan n maa deyan ]
+\g 1Sg.PST read F D book DEM Dakoraa REL write last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t deyan Dakoraa da n maa la a ane
+\m deyan Dakoraa da n maa la a ane
+\g last-year Dakoraa PST write F D book
+\l Last year Dakoraa wrote the book.
+
+\t n da s re la a ane na [Dakoraa nan n maa deyan ][Ayuo nan da               zaamen ]
+\m n da s re la a ane na [Dakoraa nan n maa deyan ][Ayuo nan da               zaamen ]
+\g 1Sg.PST read F D book DEM Dakoraa REL wrote last-year Ayuo REL bought yesterday
+\l I read the book that Dakoraa wrote last year that Ayuo bought yesterday.
+
+\t n     da s re la a ane na [Dakoraa nan n maa deyan ][ka Ayuo da            zaamen ]
+\m n     da s re la a ane na [Dakoraa nan n maa deyan ][ka Ayuo da            zaamen ]
+\g 1Sg.PST read F D book DEM Dakoraa REL wrote last-year C Ayuo bought yesterday
+\l I read the book that Dakoraa wrote last year that Ayuo bought yesterday.
+
+\t /* n da ny la Dakoraa nan n maa a ane deyan
+\m /* n da ny la Dakoraa nan n maa a ane deyan
+\g      1Sg.PST saw F Dakoraa REL wrote D book last-year
+\l I saw Dakoraa, who wrote the book last year.
+
+\t n     da ny la a Dakoraa na nan n maa a ane deyan
+\m n     da ny la a Dakoraa na nan n maa a ane deyan
+\g 1Sg.PST saw F D Dakoraa DEM REL wrote D book last-year
+\l I saw the Dakoraa who wrote the book last year.
+
+\t n da ny la a p              na      n    nan s re o ane deyan
+\m n da ny la a p              na      n    nan s re o ane deyan
+\g 1Sg.PST saw F D woman DEM 1Sg.REL read 2Sg.book last-year
+\l I saw the woman whose book I read last year.
+
+\t (a) una/maa/foo                       nan aa Gaana deyan b n la     te ten yl
+\m (a) una/maa/foo                       nan aa Gaana deyan b n la     te ten yl
+\g D 3Sg.Emph./1Sg.Emph./2Sg.Emph. REL go Ghana last-year know FACT 1PL.ground   matter
+\l He/I/You, who went to Ghana last year, know(s) about our country.
+
+\t n da s re la a ane na Dakoraa nan n maa e/*o deyan .
+\m n da s re la a ane na Dakoraa nan n maa e/*o deyan .
+\g 1Sg.PST read F D book DEM Dakoraa REL write ø/3Sg.last-year
+\l I read the book that Dakoraa wrote last year.
+
+\t n     (da) di la a mon ori (na) zaa/mine/ya a zie
+\m n     (da) di la a mon o-ri (na) zaa/mine/ya a zie
+\g 1Sg.(PST) eat F D mango-PL (DEM) al/some/many-places
+\l I ate all/some/many of those mangoes.
+
+\t n (da) di la a mon ori zaa/mine/ya a zie (na)
+\m n (da) di la a mon o-ri zaa/mine/ya a zie (na)
+\g 1Sg.(PST) eat F D mango-PL all/some/many-places
+\l I ate all/some/many of those mangoes.
+
+\t        (da) di la a mon ori (na) zaa          Dakoraa nan da
+\m        (da) di la a mon o-ri (na) zaa          Dakoraa nan da
+\g 1Sg.(PST) eat F D mango-PL (DEM) all           Dakoraa REL buy.PST
+\l I ate all the (those) mangoes that Dakoraa   bought.
+
+\t n     (da) di la a mon ori (na) zaa/mine/ya a zie [Dakoraa          nan da     zaamen ]  
+\m n     (da) di la a mon o-ri (na) zaa/mine/ya a zie [Dakoraa          nan da     zaamen ]  
+\g 1Sg.(PST) ear F D mango-PL (DEM) all/some/many-places Dakoraa        REL buy.PST yesterday
+\l I ate all/some/most of the (those) mangoes that Dakoraa bought yesterday.
+
+\t n (da) di la a mon ori (na) [Dakoraa nan da             zaa/mine/ya a zie zaamen ]    
+\m n (da) di la a mon o-ri (na) [Dakoraa nan da             zaa/mine/ya a zie zaamen ]    
+\g 1Sg.(PST) eat F D mango-PL (DEM) Dakoraa REL buy.PST     all/some/many-places yesterday
+\l I ate all/some/most of the (those) mangoes that Dakoraa bought.
+
+\t n (da) di la a mon ori (na) [Dakoraa nan da        zaamen ]       zaa/mine/ya a zie   
+\m n (da) di la a mon o-ri (na) [Dakoraa nan da        zaamen ]       zaa/mine/ya a zie   
+\g 1Sg.(PST) eat F D mango-PL (DEM) Dakoraa REL buy.PST yesterday     all/some/many places
+\l I ate all/some/most of the (those) mangoes that Dakoraa bought.
+
+\t n     (da) di la a mon ori anuu na
+\m n     (da) di la a mon o-ri anuu na
+\g 1Sg.(PST) eat F G mango-PL.five DEM
+\l I ate those five mangoes.
+
+\t n      (da) di la a mon ori na anuu
+\m n      (da) di la a mon o-ri na anuu
+\g 1Sg.(PST) eat F D mango-PL DEM five
+\l I ate five of those mangoes.
+
+\t Dakoraa da       la mon ori      anuu ka n di a
+\m Dakoraa da       la mon o-ri      anuu ka n di a
+\g Dakoraa bought F mango-PL.five C 1Sg.ate them
+\l Dakoraa bought five mangoes      and I ate them.
+
+\t Dakoraa da     la mon ori mine ka n di a anuu
+\m Dakoraa da     la mon o-ri mine ka n di a anuu
+\g Dakoraa bought F mango-PL.some C 1Sg.ate D five
+\l Dakoraa bought (some) mangoes and I ate five of them
+
+\t mon ori anuu na la ka Dakoraa di zaamen
+\m mon o-ri anuu na la ka Dakoraa di zaamen
+\g  mango-PL.five DEM F C Dakoraa ate yesterday
+\l It is those five mangoes/five of those mangoes that Dakoraa ate yesterday.
+
+\t mon ori na anuu la ka Dakoraa di zaamen
+\m mon o-ri na anuu la ka Dakoraa di zaamen
+\g mango-PL.DEM five F C Dakoraa ate yesterday
+\l It is five of those mangoes/ those five mangoes that Dakoraa ate yesterday.
+
+\t Dakoraa nan       zaa      da       a mon ori anuu na, n di la a ata
+\m Dakoraa nan       zaa      da       a mon o-ri anuu na, n di la a ata
+\g Dakoraa when     yesterday bought D mango-PL.five DEM 1Sg.ate F D three
+\l When Dakoraa    bought the five mangoes yesterday, I ate three of them.
+
+\t a pe     na       zu Dakoraa nan an          e la kpon
+\m a pe     na       zu Dakoraa nan an          e la kpon
+\g D roof DEM       on Dakoraa REL lie.PERF be F big
+\l The roof top    on which Dakoraa slept is big.
+
+\t a pe na       Dakoraa nan an          *(o) zu e la kpon
+\m a pe na       Dakoraa nan an          *(o) zu e la kpon
+\g D roof DEM Dakoraa REL lie.PERF 2Sg.on be F big
+\l The roof top on which Dakoraa slept is big.
+
+\t a pe zu na       Dakoraa nan an            e la kpon
+\m a pe zu na       Dakoraa nan an            e la kpon
+\g  D roof on DEM Dakoraa REL lie.PERF be F big
+\l The roof top on which Dakoraa slept is big.
+
+\t zupil     boo la ka fo      bo r ?
+\m zu-pil     boo la ka fo      bo r ?
+\g head-cover which F C 2Sg.want.IMP.
+\l Which hat do you want?
+
+\t a na
+\m a na
+\g  D that
+\l That one
+
+\t on n
+\m on n
+\g that
+\l That (one)
+
+\t a ny
+\m a ny
+\g D this
+\l This one
+
+\t [a pe na Dakora nan an ] zu e la kpon
+\m [a pe na Dakora nan an ] zu e la kpon
+\g  D roof DEM Dakoraa REL lie.PERF on be F big
+\l The roof top on which Dakoraa slept is big.
+
+\t n     da         ny la      ap        na    n nan s re *(o) ane deyan
+\m n     da         ny la      ap        na    n nan s re *(o) ane deyan
+\g 1Sg.PST         saw F      D woman DEM 1Sg.REL read 3Sg.book last-year
+\l I saw the      woman      whose book I read last year.
+
+\t n da        ny la a p         na      ane n nan s re deyan
+\m n da        ny la a p         na      ane n nan s re deyan
+\g 1Sg.PST     saw F D woman DEM book 1Sg.REL read last-year
+\l I saw the   woman whose book I read last year.
+
+\t n da       ny la a p          na a        ane (na)     nan s re deyan
+\m n da       ny la a p          na a        ane (na)     nan s re deyan
+\g 1Sg.PST     saw F D woman DEM D           book DEM 1Sg.REL read last-year
+\l I saw the   woman whose book I read       last year.
+
+\t n     zaa      d ny la a p            na o ane     nan s re deyan
+\m n     zaa      d ny la a p            na o ane     nan s re deyan
+\g 1Sg.yesterday PST saw F D women DEM 3Sg.book 1Sg.REL read last-year
+\l I saw the woman whose book I read last year.
+
+\t a Dakora nan n maa           a ane deyan y l      p le       la o    p ()        po      ya a 
+\m a Dakora nan n maa           a ane deyan y l      p le       la o    p ()        po      ya a 
+\g  D Dakoraa REL write.PERF D book last-year MATTER whiten.PERF F 3.Sg wife        stomach a lot
+\l The fact that Dakoraa wrote a book last year pleased his wife a lot.
+
+\t a ane na   Dakora nan n maa deyan       yl     p le        la o p ( )       po      ya a 
+\m a ane na   Dakora nan n maa deyan       yl     p le        la o p ( )       po      ya a 
+\g D book DEM Dakkoraa REL write last-year MATTER whiten.PERF F 3.Sg wife      stomach a.lot
+\l The book that Dakoraa wrote last year pleased his wife a lot.
+
+\t n b n la          a ane na                Dakoraa nan n maa     deyan
+\m n b n la          a ane na                Dakoraa nan n maa     deyan
+\g 1Sg.know.PERF F D book REL              Dakoraa REL write.PERF last-year
+\l I know the book that Dakoraa w          rote last year.
+
+\t n     bn        ka Dakoraa n maa         la ane deyan
+\m n     bn        ka Dakoraa n maa         la ane deyan
+\g 1Sg.know.PERF C Dakoraa write.PERF F book last-year
+\l I know that Dakoraa wrote a paper/book last year.
+
+\t (a) Dakoraa nan n maa           a ane deyan      yl  pl      la                                 o    p () po       ya a
+\m (a) Dakoraa nan n maa           a ane deyan      yl  pl      la                                 o    p () po       ya a
+\g D Dakoraa REL write.PERF D book last-year MATTER whiten.PERF F                                  3.Sg wife stomach a lot
+\l The fact that Dakoraa wrote a book last year pleased his wife a lot.
+
+\t a.
+\m a.
+\g         DEF woman-small past stand.PERF, FOC IDEOPH.
+\l The girl stood there, IDEOPH.
+
+\t b.
+\m b.
+\g       DEF pole        past fall lie.down FOC IDEOPH.
+\l It has fallen down, IDEOPH.
+
+\t (54) a. Bayuo       da        ngmEO          la         a        gan       lOOO
+\m (54) a. Bayuo       da        ngmE-O          la         a        gan       lOO-O
+\g        Bayuo        PAST beat-PERF         FACT.DEF.           book      caus+fall-perf
+\l Bayuo knocked the book down
+
+\t b. o      da        de        la           a         bie           zegle        bare
+\m b. o      da        de        la           a         bie           zegle        bare
+\g    3.s PAST         take      FACT.DEF. Child                 seat          leave
+\l S/he seated away the child.
+
+\t  bayou da          ba     ngmEo       la            Ayuo LOOo
+\m  bayou da          ba     ngmE-o       la            Ayuo LOO-o
+\g Bayuo PAST          NEG beat-PERF FACT                Ayuo caus+fall-PERF
+\l Bayuo did not knocked Ayuo down
+
+\t nè bOèngeæ laæ aè               dOæOæ
+\m nè bOèngeæ laæ aè               dOæOæ
+\g 1SG know      TOP DEF           man
+\l I know the man.
+
+\t nè   bOèngEèEè   laæ   kaæ      aè      dOæOæ eæ laæneængveèlaèaæ
+\m nè   bOèngEèEè   laæ   kaæ      aè      dOæOæ eæ laæneæng-veèlaèaæ
+\g 1.SG know.PERF TOP COMP DEF man be TOP person-good
+\l I know that the man is a good person.
+
+\t       teæEæreæ kaæ      yEælEæ          veèEèlEæ
+\m       teæEæreæ kaæ      yEælEæ          veèEèlEæ
+\g 1.SG think COMP 3.SG matter             good        TOP
+\l I think he is good.
+
+\t b. nè        teæEæreæ laæ aè dOæOæ
+\m b. nè        teæEæreæ laæ aè dOæOæ
+\g       1.SG      think TOP DEF man
+\l I think the man.
+

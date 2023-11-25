@@ -1,0 +1,80 @@
+\t a. Kafe `sish k                pastel `mashk7
+\m a. Kafe `-sish- k                pastel `-mash-k7
+\g      coffee 1-drink+dual-SS pie           1-eat+dual-ASP
+\l We drank coffee and ate pie
+
+\t b. Kafe `sish m                pastel mashk
+\m b. Kafe `-sish- m                pastel mash-k
+\g      coffee 1-drink+dual-SS pie           eat+dual-ASP
+\l We drank coffee and they ate pie
+
+\t . Miima'yuu.
+\m . M-iima-'yuu.
+\g    2-dance-SEE=EV
+\l You danced (I know because I saw it
+
+\t Iima'yuu
+\m Iima-'yuu
+\g dance-SEE=EV
+\l He danced (I know because I saw it)
+
+\t `iima k'yuu
+\m `-iima- k'yuu
+\g  1-dance-1=SEE=EV
+\l I danced (for sure, in the past)
+
+\t Bonniesh chuyk uu'ishk
+\m Bonnie-sh chuy-k uu'ish-k
+\g  Bonnie-SJ marry-k say+PL-ASP
+\l They say Bonnie got married
+
+\t John       Bill         ñi?yuuk
+\m John       Bill         ñi-?-yuu-k
+\g John(ACC) Bill( ACC) PL.OBJ-1-see.SG-REALIS
+\l I saw John and Bill.
+
+\t a. Kafe `sishk pastel `mashk
+\m a. Kafe `-sish-k pastel `-mash-k
+\g   coffee 1-drink+dual-SS       1-eat+dual-ASP8
+\l We drank coffee and ate pie
+
+\t b. Kafe `sishm pastel mashk
+\m b. Kafe `-sish-m pastel mash-k
+\g   coffee 1-drink+dual-SS pie eat+dual-ASP
+\l We drank coffee and they ate pie
+
+\t `iipaanysh puyk
+\m `iipaa-ny-sh puy-k
+\g  man-DEM-SJ die-ASP
+\l The man died
+
+\t Bonniesh chuyk uu'ishk
+\m Bonnie-sh chuy-k uu'ish-k
+\g Bonnie-SJ marry-k say=PL-ASP
+\l They say Bonnie got married
+
+\t Walymarshmayuu.
+\m Waly-marsh-ma-yuu.
+\g NEG-win.DUAL-NEG-VIS
+\l (I saw) They didn't win.
+
+\t ashvara
+\m ashvar-a
+\g sing-NONVIS
+\l He sang (I heard)
+
+\t Miimayuu.
+\m M-iima-yuu.
+\g 2SG-dance-VIS
+\l You danced (I know because I saw it).
+
+\t Marshm                walyyuumak
+\m Marsh-m                waly--yuu-ma-k
+\g win:DUAL-DS            NEG-1SG-see-NEG-ASP
+\l I didn't see them win.
+
+\t Walymarshmayuu.
+\m Waly-marsh-ma-yuu.
+\g NEG-win:DUAL-NEG-VIS
+\l (I saw) they didn't win.
+

@@ -1,0 +1,10 @@
+\t             du1 n'4 ne       ne1                      3
+\m             du1 n'4 ne       ne1                      3
+\g 1,PRON      pound     
+\l I have pounded it
+
+\t                          3
+\m                          3
+\g 2,PRON      pound
+\l You have pounded it
+

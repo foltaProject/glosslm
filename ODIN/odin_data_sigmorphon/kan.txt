@@ -1,0 +1,2040 @@
+\t baagilannu muchgichide             anta heeLabeeDa
+\m baagil-annu much-gich-id-e             anta heeLa-beeDa
+\g door-ACC      close-RED-PST-1 S that say-PROH
+\l Don't say that I closed the door or did related activities.
+
+\t baagilannu muchidegichide anta heeLabeeDa
+\m baagil-annu much-id-e-gichide anta heeLa-beeDa
+\g door-ACC      close-PST-1 S-RED that say-PROH
+\l Don't say that I closed the door or did related activities.
+
+\t baagilgiigilannu muchide
+\m baagil-giigil-annu much-id-e
+\g door-RED-ACC            close-PST-1S
+\l I closed the door and related things.
+
+\t baagilannugiigilannu muchide
+\m baagil-annu-giigilannu much-id-e
+\g door-ACC-RED                 close-PST-1S
+\l I closed the door and related things.
+
+\t nannu baagilannu muchide                 giigilannu muchide         anta heeLabeeDa
+\m nannu baagil-annu much-id-e                 giigilannu muchide         anta heeLa-beeDa
+\g I-NOM door-ACC            close-PST-1 S RED                            that say-PROH   
+\l Don't say that I closed the door or did related activities.
+
+\t pustavannu meejina meele giijina meele                   nooDide
+\m pustav-annu meejin-a meele giijina meele                   nooD-id-e
+\g book-ACC      table-gen on          RED                    see-PST-1S
+\l I saw the book on the table and in related places.
+
+\t muchu
+\m muchu
+\g close
+\l to close (tr.)
+
+\t muchikoLLu
+\m muchi-koLLu
+\g close-REFL
+\l to close (intr.)
+
+\t baagilu     muchigichikoNDitu anta heeLabeeDa
+\m baagilu     muchi-gichi-koND-itu anta heeLa-beeDa
+\g door-NOM close-RED-REFL.PST-3 SN that say-PROH
+\l Don't say that the door closed or did related things.
+
+\t baagilu     muchikoNDitugichikoNDitu anta heeLabeeDa
+\m baagilu     muchi-koND-itu-gichikoNDitu anta heeLa-beeDa
+\g door-NOM close-REFL.PST-3 SN-RED                 that say-PROH
+\l Don't say that the door closed or did related things.
+
+\t hogaLu
+\m hogaLu
+\g praise
+\l to praise
+
+\t hogaLikoLLu
+\m hogaLi-koLLu
+\g praise-REFL
+\l to praise oneself.
+
+\t rashmi tannannu hogaLigigaLikoNDaLu anta heeLabeeDa
+\m rashmi tann-annu hogaLi-gigaLi-koND-aLu anta heeLa-beeDa
+\g Rashmi self-ACC praise-RED-REFL.PST-3SF             that say-PROH
+\l Don't say that Rashmi praised herself and did related activities.
+
+\t rashmi tannannu hogaLikoNDaLugigaLikoNDaLu      anta heeLabeeDa
+\m rashmi tannannu hogaLi-koND-aLu-gigaLikoNDaLu      anta heeLa-beeDa
+\g Rashmi self-ACC praise-REFL.PST-3SF-RED            that say-PROH   
+\l Don't say that Rashmi praised herself and did related activities.
+
+\t kaTTu
+\m kaTTu
+\g build
+\l to build
+
+\t kaTTisu
+\m kaTT-isu
+\g build-CAUS
+\l to make build
+
+\t naanu maneyannu kaTTgiTTiside                anta heeLabeeDa
+\m naanu mane-yannu kaTT-giTT-is-id-e                anta heeLa-beeDa
+\g I-NOM house-ACC build-RED-CAUS-PST-1S that say-proh
+\l Don't say that I had a house built and did related activities.
+
+\t naanu maneyannu kaTTisigiTTiside anta      heeLabeeDa
+\m naanu mane-yannu kaTT-isi-giTTis-id-e anta      heeLa-beeDa
+\g I-NOM house-ACC build-CAUS-RED-PST-1S that      say-PROH   
+\l Don't say that I had a house built and did related activities.
+
+\t naanu maneyannu kaTTisidegiTTiside anta    heeLabeeDa
+\m naanu mane-yannu kaTT-is-id-e-giTTiside anta    heeLa-beeDa
+\g I-NOM house-ACC build-CAUS-PST-1S-RED that      say-PROH   
+\l Don't say that I had a house built and did related activities.
+
+\t patra
+\m patra
+\g letter
+\l letter
+
+\t patrisu
+\m patr-isu
+\g letter-CAUS
+\l to write a letter
+
+\t Rashmi Vijayige patragitrisidaLu           anta heeLabeeDa
+\m Rashmi Vijay-ige patra-gitr-is-id-aLu           anta heeLa-beeDa
+\g Rashmi Vijay-DAT letter-RED-CAUS-PST-3SF that say-PROH
+\l Don't say that Rashmi wrote Vijay a letter and did related activi- ties.
+
+\t Rashmi Vijayige patrisgitrisidaLu          anta heeLabeeDa
+\m Rashmi Vijay-ige patr-is-gitris-id-aLu          anta heeLa-beeDa
+\g Rashmi Vijay-DAT letter-CAUS-RED-PST-3SF that say-PROH
+\l Don't say that Rashmi wrote Vijay a letter and did related activi- ties.
+
+\t cikka
+\m cikka
+\g small
+\l small
+
+\t cikkavanu
+\m cikk-avanu
+\g small-he
+\l one who is small.
+
+\t avanu cikkgikkavanu alla
+\m avanu cikk-gikk-avanu alla
+\g he-NOM small-RED-he           NEG
+\l It's not as if he's a young etc. man.
+
+\t avanannu cikkavanugikkavanu anta heeLabeeDa
+\m avan-annu cikk-avanu-gikkavanu anta heeLa-beeDa
+\g he-ACC      small-he-RED              that say-PROH
+\l Don't say that he's a young man and such.
+
+\t toorike
+\m toor-ike
+\g show-NMNL
+\l appearance
+
+\t toorike    giirike
+\m toor-ike    giirike
+\g show-nmnl RED
+\l appearances and related things
+
+\t tooruvike
+\m tooru-vike
+\g show-GER
+\l showing
+
+\t tooruvike giiruvike
+\m tooruvike giiruvike
+\g show-ger RED
+\l showing and related activities
+
+\t ooDaaTa
+\m ooD-aaTa
+\g run-play
+\l running around
+
+\t ooDaaTa giiDaaTa
+\m ooD-aaTa giiDaaTa
+\g run-play RED
+\l running around and related activities
+
+\t hooguvudu
+\m hoogu-vudu
+\g go-GER
+\l going
+
+\t hooguvudu giiguvudu
+\m hoogu-vudu giiguvudu
+\g go-GER        RED
+\l going and related activities
+
+\t doDDatana
+\m doDDa-tana
+\g large-NOM
+\l largeness
+
+\t Hari kannu muchida
+\m Hari kannu much-id-a
+\g Hari eye close-PST-3SM
+\l Hari died.
+
+\t Rashmi Harige maNNu tinnisidaLu
+\m Rashmi Hari-ge maNNu tinn-is-id-aLu
+\g Rashmi Hari-DAT mud          eat-CAUS-PST-3SF
+\l Rashmi ruined Hari.
+
+\t toorike
+\m toor-ike
+\g show-NMNL
+\l appearance
+
+\t tooruvike
+\m tooru-vike
+\g show-GER
+\l showing
+
+\t beeDisu
+\m beeD-isu
+\g beg-CAUS
+\l to cause to beg
+
+\t beeDgiiDisu
+\m beeD-giiD-isu
+\g beg-RED-CAUS
+\l to cause to beg and related activities
+
+\t beeDisugiiDisu
+\m beeD-isu-giiDisu
+\g beg-CAUS-RED
+\l to cause to beg and do related activities
+
+\t kaalugaLu
+\m kaalu-gaLu
+\g leg-PL
+\l legs
+
+\t kaalugiilugaLu
+\m kaalu-giilu-gaLu
+\g leg-RED-PL
+\l legs and stuff
+
+\t kaalugaLugiilugaLu
+\m kaalu-gaLu-giilugaLu
+\g leg-PL-RED
+\l legs and stuff
+
+\t Rashmi avanannu hogaLidaLu
+\m Rashmi avan-annu hogaL-id-aLu
+\g Rashmi he-ACC         praise-PST-3SF
+\l Rashmi praised him.
+
+\t Rashmi avanannu gishmiavanannu hogaLidaLu
+\m Rashmi avan-annu gishmi-avanannu hogaL-id-aLu
+\g   Rashmi he-ACC           RED                    praise-PST-3SF
+\l Rashmi and related people praised him and related people.
+
+\t baagilannu muchgichide
+\m baagil-annu much-gich-id-e
+\g   door-ACC       close-RED-PST-1S
+\l I closed the door and did related activities.
+
+\t a'. baagilannu muchgichide anta heeLabeeDa
+\m a'. baagil-annu much-gich-id-e anta heeLa-beeDa
+\g     door-ACC      close-RED-PST-1 S that say-PROH
+\l Don't say that I closed the door and did related actitivites.
+
+\t baagilannu muchide gichide
+\m baagil-annu much-id-e gichide
+\g   door-ACC close-PST-1S RED
+\l I closed the door and did related activities.
+
+\t b'. baagilannu muchide gichide anta heeLabeeDa
+\m b'. baagil-annu much-id-e gichide anta heeLa-beeDa
+\g     door-ACC close-PST-1 S-RED that say-PROH
+\l Don't say that I closed the door and did related activities.
+
+\t naanu baagilannu muchide                giigilannu muchide
+\m naanu baagil-annu muchide                giigilannu muchide
+\g I-NOM door-ACC            close-PST-1S RED
+\l I closed the door and did related activities.
+
+\t c'. naanu baagilannu muchide                 giigilannu muchide     anta heeLabeeDa
+\m c'. naanu baagil-annu muchide                 giigilannu muchide     anta heeLa-beeDa
+\g     I-NOM door-ACC close-PST-1 S RED                                 that say-PROH   
+\l Don't say that I closed the door and did related activities.
+
+\t baagilannugiigilannu muchide
+\m baagil-annu-giigilannu muchide
+\g door-ACC-RED                 close-PST-1   S
+\l I closed the door and related things.
+
+\t hari baagilannu muchigichalilla
+\m hari baagilannu muchi-gich-al-illa
+\g Hari door-ACC close-RED-INF-NEG
+\l Hari didn't close the door or do any such thing.
+
+\t niinu baagilannu muchigichalillavallaa
+\m niinu baagil-annu muchi-gich-al-illa-valla-a
+\g you door-ACC         close-RED-INF-NEG-TAG-Q
+\l You didn't close the door or do any such thing, did you?
+
+\t hari baagilannu muchigichidaa
+\m hari baagil-annu muchi-gich-id-a-a
+\g Hari door-ACC close-RED-PST-3SM-Q
+\l Did Hari close the door or do any such thing?
+
+\t patrisu
+\m patr-isu
+\g letter-CAUS
+\l to write a letter
+
+\t toorike
+\m toor-ike
+\g show-NMNL
+\l appearance
+
+\t hari tannannu hogaLikoNDa
+\m hari tann-annu hogaL-i-koND-a
+\g Hari self-ACC praise-PP-REFL.PST-3      SM
+\l Hari praised himself.
+
+\t hari rashmiyannu hogaLikoNDa
+\m hari rashmi-yannu hogaL-i-koND-a
+\g   Hari Rashmi-ACC praise-PP-REFL.PST-3     SM
+\l Hari praised Rashmi.
+
+\t hari tannannu hogaLida
+\m hari tann-annu hogaL-id-a
+\g   Hari self-ACC praise-PST-3    SM
+\l Hari praised himself.
+
+\t hari rashmiyannu hogaLida
+\m hari rashmi-yannu hogaL-id-a
+\g Hari Rashmi-ACC praise-PST-3       SM
+\l Hari praised Rashmi.
+
+\t baagilu muchitu
+\m baagil-u muchi-tu
+\g door-NOM close-PST-3  SN
+\l The door closed.
+
+\t baagilu muchikoNDitu
+\m baagil-u muchi-koND-itu
+\g door-NOM close-PP-REFL.PST-3     SN
+\l The door closed.
+
+\t hari baagilannu muchida
+\m hari baagil-annu much-id-a
+\g Hari door-ACC      close-PST-3   SM
+\l Hari closed the door.
+
+\t hari baagilannu muchikoNDa
+\m hari baagil-annu much-i-koND-a
+\g   Hari door-ACC     close-PP-REFL.PST-3           SM
+\l Hari closed the door.
+
+\t hari kannugaLannu tereda
+\m hari kannu-gaL-annu tere-d-a
+\g Hari eye-PL-ACC       open-PST-3      SM
+\l Hari opened his eyes.
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-PL-ACC      open-PP-REFL.PST-3            SM
+\l Hari opened his eyes
+
+\t hari rashmiya kannugaLannu tereda
+\m hari rashmiy-a kannu-gaL-annu tere-d-a
+\g Hari rashmi-GEN eye-PL-ACC     open-PST-3               SM
+\l Hari opened Rashmi's eyes.
+
+\t hari rashmiya kannugaLannu teredukoNDa
+\m hari rashmiy-a kannu-gaL-annu tere-du-koND-a
+\g   Hari Rashmi-GEN eye-PL-ACC    open-PP-REFL.PST-3              SM
+\l Hari opened Rashmi's eyes.
+
+\t rashmige tannu ishtaaada
+\m rashmi-ge tannu ishta-aada
+\g Rashmi-DAT self-NOM liking-becomes
+\l Rashmi likes herself
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-PL-ACC        open-PP-REFL.PST-3  SM
+\l Hari opened his eyes
+
+\t raaju       tanna angiyannu harida
+\m raaju       tann-a angiy-annu hari-d-a
+\g Raaju-NOM self-GEN shirt-ACC tear-PST-3    SM
+\l Raaju tore his shirt
+
+\t raaju       tanna angiyannu haridukoNDa
+\m raaju       tann-a angiy-annu hari-du-koND-a
+\g Raaju-NOM self-GEN shirt-ACC tear-PP-REFL-PST-3SM
+\l Raaju got his shirt torn
+
+\t raaju       hariya angiyannu harida
+\m raaju       hariy-a angiy-annu hari-d-a
+\g Raaju-NOM Hari-GEN shirt-ACC tear-PST-3     SM
+\l Raaju tore Hari's shirt.
+
+\t raaju       hariya angiyannu haridukoNDa
+\m raaju       hariy-a angiy-annu hari-du-koND-a
+\g   Raaju-NOM Hari-GEN shirt-ACC tear-PP-REFL.PST-3      SM
+\l Raaju tore Hari's shirt.'7
+
+\t hariyu tanna kalannu murida
+\m hari-yu tann-a kal-annu mur-id-a
+\g Hari-NOM self-GEN leg-ACC break-PST-3SM
+\l Hari broke his leg (accidentally)
+
+\t hariyu tanna kalannu muridukoNDa
+\m hari-yu tann-a kal-annu mur-idu-koND-a
+\g Hari-NOM self-GEN leg-ACC break-PP-REFL.PST-3SM
+\l Hari broke his leg (deliberately)
+
+\t hariyu tanna taleyannu eTTida
+\m hari-yu tann-a tale-yannu eTT-id-a
+\g Hari-NOM self-GEN head-ACC lift-PST-3SM
+\l Hari lifted his head
+
+\t hariyu tanna taleyannu eTTikoNDa
+\m hari-yu tann-a tale-yannu eTT-i-koND-a
+\g Hari-NOM self-GEN head-ACC lift-PP-REFL.PST-3SM
+\l Hari lifted his head
+
+\t hariyu kannugaLannu tereda
+\m hari-yu kannu-gaL-annu tere-d-a
+\g Hari-NOM eye-PL-ACC    open-PST-3       SM
+\l Hari opened his eyes
+
+\t hariyu kannugaLannu teredukoNDa
+\m hari-yu kannu-gaL-annu tere-du-koND-a
+\g Hari-NOM eye-PL-ACC    open-PP-REFL.PST-3        SM
+\l Hari opened his eyes
+
+\t hariyu tanna kalannu koolininda murida
+\m hari-yu tann-a kal-annu kooli-ninda mur-id-a
+\g   Hari-NOM self-GEN leg-ACC stick-INSTR break-PST-3SM
+\l Hari broke his leg with a stick
+
+\t hariyu tanna kalannu koolininda muridukoNDa
+\m hari-yu tann-a kal-annu kooli-ninda mur-idu-koND-a
+\g Hari-NOM self-GEN leg-ACC stick-INSTR break-PP-REFL.PST-3SM
+\l Hari broke his leg with a stick
+
+\t hariyu tanna taleyannu kaigaLinda eTTida
+\m hari-yu tann-a tale-yannu kai-gaL-inda eTT-id-a
+\g   Hari-NOM self-GEN head-ACC hand-PL-INSTR lift-PST-3SM
+\l Hari lifted his head with his hands
+
+\t hariyu tanna taleyannu kaigaLinda eTTikoNDa
+\m hari-yu tann-a tale-yannu kai-gaL-inda eTT-i-koND-a
+\g Hari-NOM self-GEN head-ACC hand-PL-INSTR lift-PP-REFL.PST-3       SM
+\l Hari lifted his head with his hands
+
+\t hariyu kannugaLannu kaigaLinda tereda
+\m hari-yu kannu-gaL-annu kai-gaL-inda tere-d-a
+\g   Hari-NOM eye-PL-ACC         hand-PL-INSTR open-PST-3SM
+\l Hari opened his eyes with his hands
+
+\t hariyu kannugaLannu kaigaLinda teredukoNDa
+\m hari-yu kannu-gaL-annu kai-gaL-inda tere-du-koND-a
+\g Hari-NOM eye-PL-ACC hand-PL-INSTR open-PP-REFL.PST-3             SM
+\l Hari opened his eyes with his hands
+
+\t raaju       tanna angiyannu kaigaLinda harida
+\m raaju       tann-a angiy-annu kai-gaL-inda hari-d-a
+\g Raaju-NOM self-GEN shirt-ACC hand-PL-INSTR tear-PST-3       SM
+\l Raaju tore his shirt with his hands
+
+\t raaju       tanna angiyannu kaigaLinda haridukoNDa
+\m raaju       tann-a angiy-annu kai-gaL-inda hari-du-koND-a
+\g   Raaju-NOM self-GEN shirt-ACC hand-PL-INSTR tear-PP-REFL.PST-3SM
+\l Raaju got his shirt torn with his hands
+
+\t Rashmi baagilannu kaigaLinda muchidaLu
+\m Rashmi baagil-annu kai-gaL-inda much-id-aLu
+\g Rashmi door-ACC hand-PL-INSTR close-PST-3SF
+\l Rashmi closed the door with her hands.
+
+\t naanu baagilannu muchide
+\m naan-u baagil-annu much-i-de
+\g I-NOM door-ACC close-PST-1S
+\l I closed the door
+
+\t baagilu muchitu
+\m baagil-u much-i-tu
+\g door-NOM close-PST-3SN
+\l The door closed
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed
+
+\t divyala celuvige divaakara          mana soota
+\m divya-la celuv-ige divaakara          mana soot-a
+\g Divya-GEN beauty-DAT Divakara-NOM mind lose.PST-3SM
+\l Divakara lost his mind because of Divya's beauty
+
+\t caLige avanige jvara         bantu
+\m caL-ige avan-ige jvara         bant-u
+\g cold-DAT he-DAT fever-NOM come-PST-3SN
+\l He got a fever because of the cold
+
+\t gaaLige baagilu muchikoNDitu
+\m gaaL-ige baagil-u much-i-koND-itu
+\g wind-DAT door-NOM close-PP-REFL.PST-3SN
+\l the door closed because of the wind
+
+\t raaju       hariya kannugaLannu teredukoNDa
+\m raaju       hari-ya kannu-gaL-annu tere-du-koND-a
+\g   Raaju-NOM Hari-GEN eye-PL-ACC     open-PP-REFL.PST-3SM
+\l Raaju opened Hari's eyes
+
+\t aaghaatadinda raaju hariyannu hoDedukoNDa
+\m aaghaata-dinda raaju hariy-annu hoDe-du-koND-a
+\g   accident-INSTR Raaju Hari-ACC hit-PP-REFL.PST-3SM
+\l Raaju accidentally hit Hari
+
+\t bagilu muchikoNDitu
+\m bagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed.
+
+\t hari bagilannu muchida
+\m hari bagil-annu much-id-a
+\g Hari door-ACC close-PST-3SM
+\l Hari closed the door
+
+\t gaaLige baagilu muchikoNDitu
+\m gaaL-ige baagil-u much-i-koND-itu
+\g wind-DAT door-NOM close-PP-REFL.PST-3SN
+\l the door closed because of the wind
+
+\t hariyu kannugalannu teredukoNDa
+\m hari-yu kannu-gal-annu tere-du-koND-a
+\g Hari-NOM eye-PL-ACC        open-PP-REFL.PST-3SM
+\l Hari opened his eyes (with some instrument)
+
+\t hari kannugaLannu tereda
+\m hari kannu-gaL-annu tere-d-a
+\g Hari-NOM eye-PL-ACC open-PST-3            SM
+\l Hari opened his eyes
+
+\t hariyu (tannannu) hoDedukoNDa
+\m hari-yu (tann-annu) hoDe-du-koNDa
+\g Hari-NOM (self-ACC) hit-PP-REFL.PST-3SM
+\l Hari hit himself
+
+\t rashmige hari      ishtaaada
+\m rashmi-ge hari      ishta-aad-a
+\g Rashmi-DAT Hari-NOM liking-become.NPST-3       SM
+\l Rashmi likes Hari
+
+\t rashmige tannu ishtaaada
+\m rashmi-ge tannu ishta-aad-a
+\g Rashmi-DAT self-NOM liking-become.NPST-3      SM
+\l Rashmi likes herself
+
+\t Hari tannannu priitisukoLLuttaane
+\m Hari tann-annu priitisu-koLL-utt-aane
+\g    Hari self-ACC love-REFL-NPST-3SM
+\l Hari loves himself.
+
+\t Hari mattu Rashmi priitisukoLLuttaare
+\m Hari mattu Rashmi priitisu-koLL-utt-aare
+\g Hari and Rashmi love-REFL-NPST-3PL
+\l Hari and Rashmi love each other.
+
+\t Hari tannannu mechikoLLuttaane
+\m Hari tann-annu mechi-koLL-utt-aane
+\g Hari self-ACC like-REFL-NPST-3SM
+\l Hari likes himself.
+
+\t Rashmi tannannu hachikoLLuttaaLe
+\m Rashmi tann-annu hachi-koLL-utt-aaLe
+\g Rashmi self-ACC be.fond.of-REFL-NPST-3      SF
+\l Rashmi is fond of herself.
+
+\t avanu bevata
+\m avan-u beva-t-a
+\g he-NOM sweat-PST-3   SM
+\l he sweated
+
+\t avanige bevatitu
+\m avan-ige beva-t-itu
+\g he-DAT sweat-PST-3    SN
+\l He sweated
+
+\t avanu bevatukoNDa
+\m avan-u beva-tu-koND-a
+\g he-NOM sweat-PP-REFL.PST-3     SM
+\l He sweated.
+
+\t rashmi awanagetaane hariyannu toorisidaLu
+\m rashmi awan-age-taane hari-yannu tooris-id-aLu
+\g Rashmi he-DAT-self    Hari-ACC show-PST-3SF
+\l Rashmi showed Hari to himself.
+
+\t hari santooshaagiruwaage kaNisuttaane
+\m hari santooshaag-iruw-aage kaNis-utt-aane
+\g Hari happy-be-PRED          seem-PRES-3SM
+\l Hari seems to be happy
+
+\t hari tanage santooshaagiruwaage kaNisuttaane
+\m hari tan-age santooshaag-iruw-aage kaNis-utt-aane
+\g Hari self-DAT happy-be-PRED          seem-PRES-3SM
+\l Hari seems to himself to be happy.
+
+\t hari tanage santooshaagiruwaage kaNiskoLLuttaane
+\m hari tan-age santooshaag-iruw-aage kaNis-koLL-utt-aane
+\g   Hari self-DAT happy-be-PRED         seem-REFL-PST-3SM
+\l Hari seems to himself to be happy
+
+\t hari taanu      rashmiyannu hoDedukoNDa anta heeLida
+\m hari taanu      rashmiy-annu hoDe-du-koND-a anta heeL-id-a
+\g   Hari self-NOM Rashmi-ACC hit-PP-REFL.PST-3SM that say-PST-3SM
+\l Hari said that he hit Rashmi
+
+\t hari tannu rashmiyannu hoDeda anta heeLidukoNDa
+\m hari tannu rashmi-yannu hoDe-d-a anta heeL-idu-koND-a
+\g   Hari self-NOM Rashmi-ACC hit-PST-3SM that say-PP-REFL.PST-3SM
+\l Hari said that he hit Rashmi
+
+\t hari tannu rashmiyannu hoDeda anta heeLida
+\m hari tannu rashmi-yannu hoDe-d-a anta heeL-id-a
+\g Hari self-NOM Rashmi-ACC hit-PST-3SM that say-PST-3     SM
+\l Hari said that he hit Rashmi
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3   SN
+\l The door closed
+
+\t baagilu muchitu
+\m baagil-u much-i-tu
+\g door-NOM close-PST-3    SN
+\l The door closed
+
+\t gaalige baagilu muchikoNDitu
+\m gaal-ige baagil-u much-i-koND-itu
+\g wind-DAT door-NOM close-PP-REFL.PST-3     SN
+\l Because of the wind, the door closed
+
+\t gaalige baagilu muchitu
+\m gaal-ige baagil-u much-i-tu
+\g   wind-DAT door-NOM close-PST-3SN
+\l Because of the wind, the door closed
+
+\t hari (tannannu) hoDedukoNDa
+\m hari (tann-annu) hoDe-du-koND-a
+\g Hari (self-ACC) hit-PP-REFL.PST-3     SM
+\l Hari hit himself
+
+\t hari kannugaLannu tereda
+\m hari kannu-gaL-annu tere-d-a
+\g Hari eye-PL-ACC        open-PST-3SM
+\l Hari opened his eyes
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-pl-ACC        open-PP-REFL.PST-3SM
+\l Hari opened his eyes
+
+\t hari kannugaLannu kaigaLinda tereda
+\m hari kannu-gaL-annu kai-gaL-inda tere-d-a
+\g   Hari eye-PL-ACC       hand-PL-INSTR open-PST-3     SM
+\l Hari opened his eyes with his hands
+
+\t hari kannugaLannu kaigaLinda teredukoNDa
+\m hari kannu-gaL-annu kai-gaL-inda tere-du-koND-a
+\g Hari eye-PL-ACC       hand-PL-INSTR open-PP-REFL.PST-3       SM
+\l Hari opened his eyes with his hands
+
+\t hari (tanage) pustakavannu koTTukoNDa
+\m hari (tan-age) pustaka-vannu koTTu-koND-a
+\g Hari (self-DAT) book-ACC     give.PP-REFL.PST-3     SM
+\l Hari gave himself a book
+
+\t hari (*tanage) kannugaLannu teredukoNDa
+\m hari (*tan-age) kannu-gaL-annu tere-du-koND-a
+\g Hari (*self-DAT) eye-PL-ACC     open-PP-REFL.PST-3       SM
+\l Hari opened his eyes
+
+\t hari hoDedukoNDa
+\m hari hoDe-du-koND-a
+\g Hari hit-PP-REFL.PST-3  SM
+\l hari hit himself
+
+\t hari tannannu hoDedukoNDa
+\m hari tann-annu hoDe-du-koND-a
+\g Hari self-ACC hit-PP-REFL.PST-3SM
+\l Hari hit himself
+
+\t hari tannannu hogaLikoNDa
+\m hari tann-annu hogaL-i-koND-a
+\g Hari self-ACC praise-PP-REFL.PST-3       SM
+\l Hari praised himself.
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3    SN
+\l The door closed.
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-PL-ACC      open-PP-REFL.PST-3       SM
+\l Hari opened his eyes.
+
+\t Hari tannannu mattu tanna hendatiyannu hoDeda
+\m Hari tann-annu mattu tann-a hendatiy-annu hoDe-d-a
+\g Hari self-ACC and self-GEN wife-ACC            hit-PST-3SM
+\l Hari hit himself and his wife.
+
+\t Hari pustakavannu tanna hindee nooDida
+\m Hari pustakavannu tann-a hindee nooD-id-a
+\g Hari book-ACC     self-GEN behind see-PST-3SM
+\l Hari saw the book behind him(self).
+
+\t avaru      obbarannuobbaru       hoDeda
+\m avar-u      obbar-annu-obbaru       hoDe-d-a
+\g they-NOM someone-ACC-someone hit-PST-3SM
+\l They hit each other.
+
+\t avaru     obbarannuobbaru       hoDedukoNDa
+\m avar-u     obbar-annu-obbaru       hoDe-du-koND-a
+\g   they-NOM someone-ACC-someone hit-PP-REFL.PST-3SM
+\l They hit each other.
+
+\t Hari tannannutaane hoDeda
+\m Hari tann-annu-taane hoDe-d-a
+\g Hari self-ACC-self      hit-PST-3SM
+\l Hari hit himself.
+
+\t Hari tannannutaane hoDedukoNDa
+\m Hari tann-annu-taane hoDe-du-koND-a
+\g Hari self-ACC-self hit-PP-REFL.PST-3SM
+\l Hari hit himself.
+
+\t Hari tanna     naaligeyannu chaachi(koND)a
+\m Hari tanna     naaligey-annu chaach-i-(koND)-a
+\g hari self-GEN tongue-ACC stick.out-PP-REFL.PST-3SM
+\l hari stuck out his tongue
+
+\t rashmi tanagetaane hariyannu paricayamaaDikoNDaLu
+\m rashmi tan-age-taane hariy-annu paricaya-maaDi-koND-aLu
+\g Rashmi self-DAT-self Hari-ACC introduction-do-REFL.PST-3SF
+\l Rashmi introduced Hari to herself.
+
+\t moegikaazi *(nungungu)        mathamaydhin
+\m moegikaazi *(nungungu)        matham-ay-dhin
+\g child-ABS *(self-ELATIVE) hit-INTRANS-PST
+\l The child hit himself
+
+\t hari tannannu hogaLikoNDa
+\m hari tann-annu hogaL-i-koND-a
+\g Hari self-ACC praise-PP-REFL.PST-3      SM
+\l Hari praised himself.
+
+\t hari rashmiyannu hogaLikoNDa
+\m hari rashmi-yannu hogaL-i-koND-a
+\g   Hari Rashmi-ACC praise-PP-REFL.PST-3SM
+\l Hari praised Rashmi.
+
+\t hari tannannu hogaLida
+\m hari tann-annu hogaL-id-a
+\g   Hari self-ACC praise-PST-3     SM
+\l Hari praised himself.
+
+\t hari rashmiyannu hogaLida
+\m hari rashmi-yannu hogaL-id-a
+\g Hari Rashmi-ACC praise-PST-3       SM
+\l Hari praised Rashmi.
+
+\t baagilu muchitu
+\m baagil-u muchi-tu
+\g door-NOM close-PST-3SN
+\l The door closed.
+
+\t baagilu muchikoNDitu
+\m baagil-u muchi-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed.
+
+\t hari baagilannu muchida
+\m hari baagil-annu much-id-a
+\g Hari door-ACC     close-PST-3   SM
+\l Hari closed the door.
+
+\t hari baagilannu muchikoNDa
+\m hari baagil-annu much-i-koND-a
+\g   Hari door-ACC close-PP-REFL.PST-3SM
+\l Hari closed the door.
+
+\t hari kannugaLannu tereda
+\m hari kannu-gaL-annu tere-d-a
+\g Hari eye-PL-ACC       open-PST-3SM
+\l Hari opened his eyes.
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-PL-ACC       open-PP-REFL.PST-3SM
+\l Hari opened his eyes.
+
+\t hari rashmiya kannugaLannu tereda
+\m hari rashmiy-a kannu-gaL-annu tere-d-a
+\g Hari rashmi-GEN eye-PL-ACC     open-PST-3        SM
+\l Hari opened Rashmi's eyes.
+
+\t hari rashmiya kannugaLannu teredukoNDa
+\m hari rashmiy-a kannu-gaL-annu tere-du-koND-a
+\g   Hari Rashmi-GEN eye-PL-ACC     open-PP-REFL.PST-3SM
+\l Hari opened Rashmi's eyes.
+
+\t rashmige tannu ishtaaada
+\m rashmi-ge tannu ishta-aada
+\g Rashmi-DAT self-NOM liking-becomes
+\l Rashmi likes herself.
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-PL-ACC       open-PP-REFL.PST-3SM
+\l Hari opened his eyes.
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed.
+
+\t raaju      tanna angiyannu harida
+\m raaju      tann-a angiy-annu hari-d-a
+\g Raaju-NOM self-GEN shirt-ACC tear-PST-3SM
+\l Raaju tore his shirt.
+
+\t raaju      tanna angiyannu haridukoNDa
+\m raaju      tann-a angiy-annu hari-du-koND-a
+\g Raaju-NOM self-GEN shirt-ACC tear-PP-REFL-PST-3SM
+\l Raaju got his shirt torn.
+
+\t raaju      hariya angiyannu harida
+\m raaju      hariy-a angiy-annu hari-d-a
+\g Raaju-NOM Hari-GEN shirt-ACC tear-PST-3   SM
+\l Raaju tore Hari's shirt.
+
+\t raaju      hariya angiyannu haridukoNDa
+\m raaju      hariy-a angiy-annu hari-du-koND-a
+\g   Raaju-NOM Hari-GEN shirt-ACC tear-PP-REFL.PST-3SM
+\l Raaju tore Hari's shirt.7
+
+\t hariyu tanna kalannu murida
+\m hari-yu tann-a kal-annu mur-id-a
+\g Hari-NOM self-GEN leg-ACC break-PST-3SM
+\l Hari broke his leg (accidentally).
+
+\t hariyu tanna kalannu muridukoNDa
+\m hari-yu tann-a kal-annu mur-idu-koND-a
+\g Hari-NOM self-GEN leg-ACC break-PP-REFL.PST-3SM
+\l Hari broke his leg (deliberately).
+
+\t hariyu tanna taleyannu eTTida
+\m hari-yu tann-a tale-yannu eTT-id-a
+\g Hari-NOM self-GEN head-ACC lift-PST-3SM
+\l Hari lifted his head.
+
+\t hariyu      tanna taleyannu eTTikoNDa
+\m hari-yu      tann-a tale-yannu eTT-i-koND-a
+\g Hari-NOM self-GEN head-ACC lift-PP-REFL.PST-3SM
+\l Hari lifted his head.
+
+\t hariyu kannugaLannu tereda
+\m hari-yu kannu-gaL-annu tere-d-a
+\g Hari-NOM eye-PL-ACC     open-PST-3       SM
+\l Hari opened his eyes.
+
+\t hariyu kannugaLannu teredukoNDa
+\m hari-yu kannu-gaL-annu tere-du-koND-a
+\g Hari-NOM eye-PL-ACC    open-PP-REFL.PST-3SM
+\l Hari opened his eyes.
+
+\t hariyu tanna kalannu koolininda murida
+\m hari-yu tann-a kal-annu kooli-ninda mur-id-a
+\g   Hari-NOM self-GEN leg-ACC stick-INSTR break-PST-3SM
+\l Hari broke his leg with a stick.
+
+\t hariyu tanna kalannu koolininda muridukoNDa
+\m hari-yu tann-a kal-annu kooli-ninda mur-idu-koND-a
+\g Hari-NOM self-GEN leg-ACC stick-INSTR break-PP-REFL.PST-3SM
+\l Hari broke his leg with a stick.
+
+\t hariyu tanna taleyannu kaigaLinda eTTida
+\m hari-yu tann-a tale-yannu kai-gaL-inda eTT-id-a
+\g   Hari-NOM self-GEN head-ACC hand-PL-INSTR lift-PST-3SM
+\l Hari lifted his head with his hands.
+
+\t hariyu tanna taleyannu kaigaLinda eTTikoNDa
+\m hari-yu tann-a tale-yannu kai-gaL-inda eTT-i-koND-a
+\g Hari-NOM self-GEN head-ACC hand-PL-INSTR lift-PP-REFL.PST-3SM
+\l Hari lifted his head with his hands.
+
+\t hariyu kannugaLannu kaigaLinda tereda
+\m hari-yu kannu-gaL-annu kai-gaL-inda tere-d-a
+\g   Hari-NOM eye-PL-ACC         hand-PL-INSTR open-PST-3SM
+\l Hari opened his eyes with his hands.
+
+\t hariyu kannugaLannu kaigaLinda teredukoNDa
+\m hari-yu kannu-gaL-annu kai-gaL-inda tere-du-koND-a
+\g Hari-NOM eye-PL-ACC        hand-PL-INSTR open-PP-REFL.PST-3       SM
+\l Hari opened his eyes with his hands.
+
+\t raaju      tanna angiyannu kaigaLinda harida
+\m raaju      tann-a angiy-annu kai-gaL-inda hari-d-a
+\g Raaju-NOM self-GEN shirt-ACC hand-PL-INSTR tear-PST-3SM
+\l Raaju tore his shirt with his hands.
+
+\t raaju      tanna angiyannu kaigaLinda haridukoNDa
+\m raaju      tann-a angiy-annu kai-gaL-inda hari-du-koND-a
+\g   Raaju-NOM self-GEN shirt-ACC hand-PL-INSTR tear-PP-REFL.PST-3SM
+\l Raaju got his shirt torn with his hands.
+
+\t Rashmi baagilannu kaigaLinda muchidaLu
+\m Rashmi baagil-annu kai-gaL-inda much-id-aLu
+\g Rashmi door-ACC hand-PL-INSTR close-PST-3SF
+\l Rashmi closed the door with her hands.
+
+\t naanu baagilannu muchide
+\m naan-u baagil-annu much-i-de
+\g I-NOM door-ACC close-PST-1S
+\l I closed the door.
+
+\t baagilu muchitu
+\m baagil-u much-i-tu
+\g door-NOM close-PST-3SN
+\l The door closed.
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed.
+
+\t divyala celuvige divaakara          mana soota
+\m divya-la celuv-ige divaakara          mana soot-a
+\g Divya-GEN beauty-DAT Divakara-NOM mind lose.PST-3SM
+\l Divakara lost his mind because of Divya's beauty.
+
+\t caLige avanige jvara         bantu
+\m caL-ige avan-ige jvara         bant-u
+\g cold-DAT he-DAT fever-NOM come-PST-3SN
+\l He got a fever because of the cold.
+
+\t gaaLige baagilu muchikoNDitu
+\m gaaL-ige baagil-u much-i-koND-itu
+\g wind-DAT door-NOM close-PP-REFL.PST-3SN
+\l The door closed because of the wind.
+
+\t raaju      hariya kannugaLannu teredukoNDa
+\m raaju      hari-ya kannu-gaL-annu tere-du-koND-a
+\g   Raaju-NOM Hari-GEN eye-PL-ACC      open-PP-REFL.PST-3SM
+\l Raaju opened Hari's eyes.
+
+\t aaghaatadinda raaju hariyannu hoDedukoNDa
+\m aaghaata-dinda raaju hariy-annu hoDe-du-koND-a
+\g   accident-INSTR Raaju Hari-ACC hit-PP-REFL.PST-3SM
+\l Raaju accidentally hit Hari.
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed.
+
+\t hari bagilannu muchida
+\m hari bagil-annu much-id-a
+\g Hari door-ACC close-PST-3SM
+\l Hari closed the door.
+
+\t gaaLige baagilu muchikoNDitu
+\m gaaL-ige baagil-u much-i-koND-itu
+\g wind-DAT door-NOM close-PP-REFL.PST-3SN
+\l The door closed because of the wind.
+
+\t hariyu kannugalannu teredukoNDa
+\m hari-yu kannu-gal-annu tere-du-koND-a
+\g Hari-NOM eye-PL-ACC         open-PP-REFL.PST-3SM
+\l Hari opened his eyes (with some instrument).
+
+\t hari     kannugaLannu tereda
+\m hari     kannu-gaL-annu tere-d-a
+\g Hari-NOM eye-PL-ACC      open-PST-3            SM
+\l Hari opened his eyes.
+
+\t hari tanna naaligeyannu chaachida
+\m hari tanna naaligey-annu chaach-id-a
+\g Hari self-GEN tongue-ACC   stick.out-PST-3SM
+\l Hari stuck out his tongue.
+
+\t hari tanna naaligeyannu chaachikoNDa
+\m hari tanna naaligey-annu chaach-i-koND-a
+\g Hari self-GEN tongue-ACC stick.out-PP-REFL.PST-3SM
+\l Hari stuck out his tongue.
+
+\t hariyu (tannannu) hoDedukoNDa
+\m hari-yu (tann-annu) hoDe-du-koNDa
+\g Hari-NOM (self-ACC) hit-PP-REFL.PST-3SM
+\l Hari hit himself.
+
+\t rashmige hari     ishtaaada
+\m rashmi-ge hari     ishta-aad-a
+\g Rashmi-DAT Hari-NOM liking-become.NPST-3SM
+\l Rashmi likes Hari.
+
+\t rashmige tannu ishtaaada
+\m rashmi-ge tannu ishta-aad-a
+\g Rashmi-DAT self-NOM liking-become.NPST-3SM
+\l Rashmi likes herself.
+
+\t Hari tannannu priitisukoLLuttaane
+\m Hari tann-annu priitisu-koLL-utt-aane
+\g    Hari self-ACC love-REFL-NPST-3SM
+\l Hari loves himself.
+
+\t Hari mattu Rashmi priitisukoLLuttaare
+\m Hari mattu Rashmi priitisu-koLL-utt-aare
+\g Hari and Rashmi love-REFL-NPST-3PL
+\l Hari and Rashmi love each other.
+
+\t Hari tannannu mechikoLLuttaane
+\m Hari tann-annu mechi-koLL-utt-aane
+\g Hari self-ACC like-REFL-NPST-3SM
+\l Hari likes himself.
+
+\t Rashmi tannannu hachikoLLuttaaLe
+\m Rashmi tann-annu hachi-koLL-utt-aaLe
+\g Rashmi self-ACC be.fond.of-REFL-NPST-3SF
+\l Rashmi is fond of herself.
+
+\t avanu bevata
+\m avan-u beva-t-a
+\g he-NOM sweat-PST-3SM
+\l He sweated.
+
+\t avanige bevatitu
+\m avan-ige beva-t-itu
+\g he-DAT sweat-PST-3SN
+\l He sweated.
+
+\t avanu bevatukoNDa
+\m avan-u beva-tu-koND-a
+\g he-NOM sweat-PP-REFL.PST-3SM
+\l He sweated.
+
+\t rashmi awanagetaane hariyannu toorisidaLu
+\m rashmi awan-age-taane hari-yannu tooris-id-aLu
+\g Rashmi he-DAT-self    Hari-ACC show-PST-3SF
+\l Rashmi showed Hari to himself.
+
+\t hari santooshaagiruwaage kaNisuttaane
+\m hari santooshaag-iruw-aage kaNis-utt-aane
+\g Hari happy-be-PRED          seem-PRES-3SM
+\l Hari seems to be happy.
+
+\t hari tanage santooshaagiruwaage kaNisuttaane
+\m hari tan-age santooshaag-iruw-aage kaNis-utt-aane
+\g Hari self-DAT happy-be-PRED        seem-PRES-3SM
+\l Hari seems to himself to be happy.
+
+\t hari tanage santooshaagiruwaage kaNiskoLLuttaane
+\m hari tan-age santooshaag-iruw-aage kaNis-koLL-utt-aane
+\g   Hari self-DAT happy-be-PRED        seem-REFL-PST-3SM
+\l Hari seems to himself to be happy
+
+\t hari taanu     rashmiyannu hoDedukoNDa anta heeLida
+\m hari taanu     rashmiy-annu hoDe-du-koND-a anta heeL-id-a
+\g   Hari self-NOM Rashmi-ACC hit-PP-REFL.PST-3SM that say-PST-3       SM
+\l Hari said that he hit Rashmi.
+
+\t hari tannu rashmiyannu hoDeda anta heeLidukoNDa
+\m hari tannu rashmi-yannu hoDe-d-a anta heeL-idu-koND-a
+\g   Hari self-NOM Rashmi-ACC hit-PST-3SM that say-PP-REFL.PST-3       SM
+\l Hari said that he hit Rashmi.
+
+\t hari tannu rashmiyannu hoDeda anta heeLida
+\m hari tannu rashmi-yannu hoDe-d-a anta heeL-id-a
+\g Hari self-NOM Rashmi-ACC hit-PST-3SM that say-PST-3SM
+\l Hari said that he hit Rashmi.
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed.
+
+\t baagilu muchitu
+\m baagil-u much-i-tu
+\g door-NOM close-PST-3SN
+\l The door closed.
+
+\t gaalige baagilu muchikoNDitu
+\m gaal-ige baagil-u much-i-koND-itu
+\g wind-DAT door-NOM close-PP-REFL.PST-3SN
+\l Because of the wind, the door closed.
+
+\t gaalige baagilu muchitu
+\m gaal-ige baagil-u much-i-tu
+\g   wind-DAT door-NOM close-PST-3SN
+\l Because of the wind, the door closed.
+
+\t hari (tannannu) hoDedukoNDa
+\m hari (tann-annu) hoDe-du-koND-a
+\g Hari (self-ACC) hit-PP-REFL.PST-3SM
+\l Hari hit himself.
+
+\t hari kannugaLannu tereda
+\m hari kannu-gaL-annu tere-d-a
+\g Hari eye-PL-ACC       open-PST-3SM
+\l Hari opened his eyes.
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-pl-ACC       open-PP-REFL.PST-3SM
+\l Hari opened his eyes.
+
+\t hari kannugaLannu kaigaLinda tereda
+\m hari kannu-gaL-annu kai-gaL-inda tere-d-a
+\g   Hari eye-PL-ACC       hand-PL-INSTR open-PST-3SM
+\l Hari opened his eyes with his hands.
+
+\t hari kannugaLannu kaigaLinda teredukoNDa
+\m hari kannu-gaL-annu kai-gaL-inda tere-du-koND-a
+\g Hari eye-PL-ACC      hand-PL-INSTR open-PP-REFL.PST-3SM
+\l Hari opened his eyes with his hands.
+
+\t hari (tanage) pustakavannu koTTukoNDa
+\m hari (tan-age) pustaka-vannu koTTu-koND-a
+\g Hari (self-DAT) book-ACC    give.PP-REFL.PST-3SM
+\l Hari gave himself a book.
+
+\t hari (*tanage) kannugaLannu teredukoNDa
+\m hari (*tan-age) kannu-gaL-annu tere-du-koND-a
+\g Hari (*self-DAT) eye-PL-ACC   open-PP-REFL.PST-3SM
+\l Hari opened his eyes.
+
+\t hari hoDedukoNDa
+\m hari hoDe-du-koND-a
+\g Hari hit-PP-REFL.PST-3SM
+\l Hari hit himself.
+
+\t hari tannannu hoDedukoNDa
+\m hari tann-annu hoDe-du-koND-a
+\g Hari self-ACC hit-PP-REFL.PST-3SM
+\l Hari hit himself.
+
+\t hari tannannu hogaLikoNDa
+\m hari tann-annu hogaL-i-koND-a
+\g Hari self-ACC praise-PP-REFL.PST-3    SM
+\l Hari praised himself.
+
+\t baagilu muchikoNDitu
+\m baagil-u much-i-koND-itu
+\g door-NOM close-PP-REFL.PST-3SN
+\l The door closed.
+
+\t hari kannugaLannu teredukoNDa
+\m hari kannu-gaL-annu tere-du-koND-a
+\g Hari eye-PL-ACC       open-PP-REFL.PST-3SM
+\l Hari opened his eyes.
+
+\t Hari tannannu mattu tanna hendatiyannu hoDeda
+\m Hari tann-annu mattu tann-a hendatiy-annu hoDe-d-a
+\g Hari self-ACC and self-GEN wife-ACC             hit-PST-3SM
+\l Hari hit himself and his wife.
+
+\t Hari pustakavannu tanna hindee nooDida
+\m Hari pustakavannu tann-a hindee nooD-id-a
+\g Hari book-ACC self-GEN behind see-PST-3SM
+\l Hari saw the book behind him(self).
+
+\t avaru obbarannuobbaru            hoDeda
+\m avar-u obbar-annu-obbaru            hoDe-d-a
+\g they-NOM someone-ACC-someone hit-PST-3SM
+\l They hit each other.
+
+\t avaru obbarannuobbaru            hoDedukoNDa
+\m avar-u obbar-annu-obbaru            hoDe-du-koND-a
+\g they-NOM someone-ACC-someone hit-PP-REFL.PST-3SM
+\l They hit each other.
+
+\t Hari tannannutaane hoDeda
+\m Hari tann-annu-taane hoDe-d-a
+\g Hari self-ACC-self       hit-PST-3SM
+\l Hari hit himself.
+
+\t Hari tannannutaane hoDedukoNDa
+\m Hari tann-annu-taane hoDe-du-koND-a
+\g Hari self-ACC-self hit-PP-REFL.PST-3SM
+\l Hari hit himself.
+
+\t Hari tanna naaligeyannu chaachi(koND)a
+\m Hari tanna naaligey-annu chaach-i-(koND)-a
+\g hari self-GEN tongue-ACC stick.out-PP-REFL.PST-3SM
+\l hari stuck out his tongue
+
+\t rashmi tanagetaane hariyannu paricayamaaDikoNDaLu
+\m rashmi tan-age-taane hariy-annu paricaya-maaDi-koND-aLu
+\g Rashmi self-DAT-self Hari-ACC introduction-do-REFL.PST-3SF
+\l Rashmi introduced Hari to herself.
+
+\t moegikaazi *(nungungu) mathamaydhin
+\m moegikaazi *(nungungu) matham-ay-dhin
+\g child-ABS *(self-ELATIVE) hit-INTRANS-PST
+\l The child hit himself
+
+\t  Avanu nanage bisketannu tinnisidanu
+\m  Avanu nanage bisketannu tinnisidanu
+\g he(nom) I(dat) biscuit       eat(causat)
+\l He fed me a biscuit
+
+\t  Avanu nanninda bisketannu tinnisidanu
+\m  Avanu nanninda bisketannu tinnisidanu
+\g he(nom) I(instr) biscuit        eat(causat)
+\l He got me to eat the biscuit
+
+\t baagilannu muchgichide anta heeLabeeDa
+\m baagil-annu much-gich-id-e anta heeLa-beeDa
+\g door-ACC close-RED-PST-1S that say-PROH
+\l Don't say that I closed the door or did related activities.
+
+\t baagilannu muchidegichide anta heeLabeeDa
+\m baagil-annu much-id-e-gichide anta heeLa-beeDa
+\g door-ACC close-PST-1S-RED that say-PROH
+\l Don't say that I closed the door or did related activities.
+
+\t baagilgiigilannu muchide
+\m baagil-giigil-annu much-id-e
+\g door-RED-ACC         close-PST-1S
+\l I closed the door and related things.
+
+\t baagilannugiigilannu muchide
+\m baagil-annu-giigilannu much-id-e
+\g door-ACC-RED              close-PST-1S
+\l I closed the door and related things.
+
+\t nannu baagilannu muchide giigilannu muchide             anta heeLabeeDa
+\m nannu baagil-annu much-id-e giigilannu muchide             anta heeLa-beeDa
+\g I-NOM door-ACC close-PST-1S RED                            that say-PROH   
+\l Don't say that I closed the door or did related activities.
+
+\t pustavannu meejina meele giijina meele nooDide
+\m pustav-annu meejin-a meele giijina meele nooD-id-e
+\g book-ACC table-gen on RED                    see-PST-1S
+\l I saw the book on the table and in related places.
+
+\t baagilu muchigichikoNDitu anta heeLabeeDa
+\m baagilu muchi-gichi-koND-itu anta heeLa-beeDa
+\g door-NOM close-RED-REFL.PST-3SN that say-PROH
+\l Don't say that the door closed or did related things.
+
+\t baagilu muchikoNDitugichikoNDitu anta                    heeLabeeDa
+\m baagilu muchi-koND-itu-gichikoNDitu anta                    heeLa-beeDa
+\g door-NOM close-REFL.PST-3SN-RED              that           say-PROH   
+\l Don't say that the door closed or did related things.
+
+\t rashmi tannannu hogaLigigaLikoNDaLu anta           heeLabeeDa
+\m rashmi tann-annu hogaLi-gigaLi-koND-aLu anta           heeLa-beeDa
+\g Rashmi self-ACC praise-RED-REFL.PST-3SF that           say-PROH   
+\l Don't say that Rashmi praised herself and did related activities.
+
+\t rashmi tannannu hogaLikoNDaLugigaLikoNDaLu           anta heeLabeeDa
+\m rashmi tannannu hogaLi-koND-aLu-gigaLikoNDaLu           anta heeLa-beeDa
+\g Rashmi self-ACC praise-REFL.PST-3SF-RED                 that say-PROH   
+\l Don't say that Rashmi praised herself and did related activities.
+
+\t naanu maneyannu kaTTgiTTiside             anta           heeLabeeDa
+\m naanu mane-yannu kaTT-giTT-is-id-e             anta           heeLa-beeDa
+\g I-NOM house-ACC build-RED-CAUS-PST-1S that                    say-PROH   
+\l Don't say that I had a house built and did related activities.
+
+\t naanu maneyannu kaTTisigiTTiside          anta           heeLabeeDa
+\m naanu mane-yannu kaTT-isi-giTTis-id-e          anta           heeLa-beeDa
+\g I-NOM house-ACC build-CAUS-RED-PST-1S that                    say-PROH   
+\l Don't say that I had a house built and did related activities.
+
+\t naanu maneyannu kaTTisidegiTTiside anta           heeLabeeDa
+\m naanu mane-yannu kaTT-is-id-e-giTTiside anta           heeLa-beeDa
+\g I-NOM house-ACC build-CAUS-PST-1S-RED that             say-PROH   
+\l Don't say that I had a house built and did related activities.
+
+\t Rashmi Vijayige patragitrisidaLu         anta          heeLabeeDa
+\m Rashmi Vijay-ige patra-gitr-is-id-aLu         anta          heeLa-beeDa
+\g Rashmi Vijay-DAT letter-RED-CAUS-PST-3SF that               say-PROH   
+\l Don't say that Rashmi wrote Vijay a letter and did related activities.
+
+\t Rashmi Vijayige patrisgitrisidaLu         anta          heeLabeeDa
+\m Rashmi Vijay-ige patr-is-gitris-id-aLu         anta          heeLa-beeDa
+\g Rashmi Vijay-DAT letter-CAUS-RED-PST-3SF that                say-PROH   
+\l Don't say that Rashmi wrote Vijay a letter and did related activities.
+
+\t avanu cikkgikkavanu alla
+\m avanu cikk-gikk-avanu alla
+\g he-NOM small-RED-he         NEG
+\l It's not as if he's a young etc. man.
+
+\t avanannu cikkavanugikkavanu anta heeLabeeDa
+\m avan-annu cikk-avanu-gikkavanu anta heeLa-beeDa
+\g he-ACC     small-he-RED            that say-PROH
+\l Don't say that he's a young man and such.
+
+\t toorike
+\m toor-ike
+\g show-NMNL
+\l appearance
+
+\t toorike    giirike
+\m toor-ike    giirike
+\g show-NMNL RED
+\l appearances and related things
+
+\t tooruvike
+\m tooru-vike
+\g show-GER
+\l showing
+
+\t tooruvike giiruvike
+\m tooruvike giiruvike
+\g show-GER RED
+\l showing and related activities
+
+\t ooDaaTa
+\m ooD-aaTa
+\g run-play
+\l running around
+
+\t ooDaaTa giiDaaTa
+\m ooD-aaTa giiDaaTa
+\g run-play RED
+\l running around and related activities
+
+\t hooguvudu
+\m hoogu-vudu
+\g go-GER
+\l going
+
+\t hooguvudu giiguvudu
+\m hoogu-vudu giiguvudu
+\g go-GER       RED
+\l going and related activities
+
+\t doDDatana
+\m doDDa-tana
+\g large-NOM
+\l largeness
+
+\t Hari kannu muchida
+\m Hari kannu much-id-a
+\g Hari eye      close-PST-3SM
+\l Hari died.
+
+\t Rashmi Harige maNNu tinnisidaLu
+\m Rashmi Hari-ge maNNu tinn-is-id-aLu
+\g Rashmi Hari-DAT mud         eat-CAUS-PST-3SF
+\l Rashmi ruined Hari.
+
+\t toorike
+\m toor-ike
+\g show-NMNL
+\l appearance
+
+\t tooruvike
+\m tooru-vike
+\g show-GER
+\l showing
+
+\t beeDisu
+\m beeD-isu
+\g beg-CAUS
+\l to cause to beg
+
+\t beeDgiiDisu
+\m beeD-giiD-isu
+\g beg-RED-CAUS
+\l to cause to beg and related activities
+
+\t beeDisugiiDisu
+\m beeD-isu-giiDisu
+\g beg-CAUS-RED
+\l to cause to beg and do related activities
+
+\t kaalugaLu
+\m kaalu-gaLu
+\g leg-PL
+\l legs
+
+\t kaalugiilugaLu
+\m kaalu-giilu-gaLu
+\g leg-RED-PL
+\l legs and stuff
+
+\t kaalugaLugiilugaLu
+\m kaalu-gaLu-giilugaLu
+\g leg-PL-RED
+\l legs and stuff
+
+\t Rashmi avanannu hogaLidaLu
+\m Rashmi avan-annu hogaL-id-aLu
+\g Rashmi he-ACC     praise-PST-3SF
+\l Rashmi praised him.
+
+\t Rashmi avanannu gishmiavanannu hogaLidaLu
+\m Rashmi avan-annu gishmi-avanannu hogaL-id-aLu
+\g     Rashmi he-ACC       RED                praise-PST-3SF
+\l Rashmi and related people praised him and related people.
+
+\t baagilannu muchgichide
+\m baagil-annu much-gich-id-e
+\g     door-ACC close-RED-PST-1S
+\l I closed the door and did related activities.
+
+\t baagilannu muchgichide anta heeLabeeDa
+\m baagil-annu much-gich-id-e anta heeLa-beeDa
+\g door-ACC close-RED-PST-1S that say-PROH
+\l Don't say that I closed the door and did related actitivites.
+
+\t baagilannu muchide gichide
+\m baagil-annu much-id-e gichide
+\g     door-ACC close-PST-1S-RED
+\l I closed the door and did related activities.
+
+\t baagilannu muchide gichide anta heeLabeeDa
+\m baagil-annu much-id-e gichide anta heeLa-beeDa
+\g door-ACC close-PST-1S-RED that say-PROH
+\l Don't say that I closed the door and did related activities.
+
+\t naanu baagilannu muchide giigilannu muchide
+\m naanu baagil-annu muchide giigilannu muchide
+\g     I-NOM door-ACC close-PST-1S RED
+\l I closed the door and did related activities.
+
+\t c'.       naanu baagilannu muchide          giigilannu muchide anta                heeLabeeDa
+\m c'.       naanu baagil-annu muchide          giigilannu muchide anta                heeLa-beeDa
+\g           I-NOM door-ACC        close-PST-1S RED                     that            say-PROH  
+\l Don't say that I closed the door and did related activities.
+
+\t baagilannugiigilannu muchide
+\m baagil-annu-giigilannu muchide
+\g door-ACC-RED              close-PST-1S
+\l I closed the door and related things.
+
+\t hari baagilannu muchigichalilla
+\m hari baagilannu muchi-gich-al-illa
+\g Hari door-ACC close-RED-INF-NEG
+\l Hari didn't close the door or do any such thing.
+
+\t niinu baagilannu muchigichalillavallaa
+\m niinu baagil-annu muchi-gich-al-illa-valla-a
+\g you door-ACC close-RED-INF-NEG-TAG-Q
+\l You didn't close the door or do any such thing, did you?
+
+\t hari baagilannu muchigichidaa
+\m hari baagil-annu muchi-gich-id-a-a
+\g Hari door-ACC close-RED-PST-3SM-Q
+\l Did Hari close the door or do any such thing?
+
+\t patrisu
+\m patr-isu
+\g letter-CAUS
+\l to write a letter
+
+\t toorike
+\m toor-ike
+\g show-NMNL
+\l appearance
+
+\t Hari tannannu puNyavantanendu nambikoLLuttaane
+\m Hari tann-annu puNyavantanendu nambi-koLL-utt-aane
+\g H.self-AC C wealthy              believe-V R M-N P          ST-3sm
+\l Hari believes himself to be wealthy.
+
+\t Hari tannannu hogaLikoLLuttaane
+\m Hari tann-annu hogaLi-koLL-utt-aane
+\g H.self-AC C praise-V R M-N P                  ST-3sm
+\l Hari praises himself.'1
+
+\t Hari tannannu chappateyaagi taTTikoNDa
+\m Hari tann-annu chappatey-aag-i taTTi-koND-a
+\g   H.self-AC C flat-be(cm)-P P hammer-V R M.P                           ST-3sm
+\l Hari hammered himself flat.
+
+\t Hari tannage keTTadaagi nakkikoNDa
+\m Hari tann-age keTTad-aag-i nakki-koND-a
+\g   H.self-DAT bad-be(come)-P P laugh-V R M.P                      ST-3sm
+\l Hari laughed himself hoarse.
+
+\t Hari tannannu chappateyisikoNDa
+\m Hari tann-annu chappatey-isi-koND-a
+\g H.self-AC C flat-C AU S-V R M.P                      ST-3sm
+\l Hari flattened himself.
+
+\t Hari tannannu chappateyaagi maaDikoNDa
+\m Hari tann-annu chappatey-aag-i maaDi-koND-a
+\g H.self-AC C flat-be(come)-P P make-V R M.P                 ST-3sm
+\l Hari made himself flat.
+
+\t harige tannu      hedarikoLLuttaane
+\m hari-ge tann-u      hedari-koLL-utt-aane
+\g   H.-DAT self-N O M fear-V R M-N P         ST-3sm
+\l Hari fears himself.
+
+\t hari tannannu hedarisi  *(koLL)uttaane
+\m hari tann-annu hedar-isi  *(-koLL)-utt-aane
+\g H.self-AC C fear-C AU S-V R M-N P                             ST-3sm
+\l Hari frightens himself.
+
+\t Raamanu     mangagalinda     Siiteyannu          hudukisidanu.
+\m Raamanu     manga-gal-inda     Siite-yannu          huduki-si-danu.
+\g Rama(NOM) monkey-PL-INSTR Sita-ACC                  search-CAUS-3SG
+\l Rama had the monkeys search for Sita.
+
+\t ka:garu:galu       ª            a:stre:liya:dalli    iruttave
+\m ka:garu:-galu       ª            a:stre:liya:-dalli    iruttave
+\g         garoo-NOM,PL             Australia-LOC         be,NONPAST,3PL,NEUT
+\l Kangaroos live in Australia
+
+\t nanage mu:varu hennu makkalu    ªª            ª          idda:re
+\m nana-ge mu:varu hennu makkalu    ªª            ª          idda:re
+\g   1SG-DAT three              female children,NOM,PL be,NONPAST,3PL,HUMAN
+\l I have three daughters
+
+\t Neer          kuditu.
+\m Neer          kud-i-tu.
+\g water-ACC boil-PAST-1.S.NEUT
+\l The water boiled.
+
+\t Naanu neerannu kudide.
+\m Naan-u neer-annu kud-id-e.
+\g   I-NOM water-ACC boil-PAST-1.S
+\l I boiled the water.
+
+\t Naanu neerannu kudiside.
+\m Naan-u neer-annu kud-is-id-e.
+\g I-NOM      water-ACC boil-CAUS-PAST-1.S
+\l I boiled the water.
+
+\t jaananuØ Frenchannu maatadaballanu
+\m jaananu-Ø French-annu maatada-ball-anu
+\g John-Nom      French-Acc speak-can-PNG
+\l John can speak French
+
+\t jaananuØ       seebannu/Ø          maatra    tindanu
+\m jaananu-Ø       seeb-annu/Ø          maatra    tind-anu
+\g John-Nom        apple-Acc/Nom        only       ate-PNG
+\l John ate only apples
+
+\t jaananuØ seebannu/Ø        maneya           meele esadanu
+\m jaananu-Ø seeb-annu/Ø        maneya           meele esad-anu
+\g John-Nom apple-Acc/Nom house-gen              on    threw-PNG
+\l John threw the apples on the house
+
+\t jaananuØ        ii   pustakawannu/Ø           nanage     t       koTTanu
+\m jaananu-Ø        ii   pustakaw-annu/Ø           nana-ge     t       koTT-anu
+\g John-Nom         this book-Acc/Nom              to me               gave-PNG
+\l John gave me a book
+
+\t ii   baTTeyannu/Ø        [jaananuØ        nanage    t       koTTanu]
+\m ii   baTTey-annu/Ø        [jaananu-Ø        nana-ge    t       koTT-anu]
+\g this cloth-Acc/Nom       John-Nom            to me              gave-PNG
+\l John gave me this cloth
+
+\t jaananuØ        ondu seebannu      tindanu
+\m jaananu-Ø        ondu seeb-annu      tind-anu
+\g John-Nom         one apple-Acc       ate-PNG
+\l John ate an apple
+
+\t se:buØ/*annu tinnalpattitu
+\m se:bu-Ø/*annu tinnal-patt-itu
+\g apple-Nom/-Acc eat-Passive-Past
+\l An apple was eaten
+
+\t jaananuØ haNNannu/ Ø         tinalilla
+\m jaananu-Ø haNN-annu/ Ø         tin-al-illa
+\g John-Nom fruit-Acc/Nom           eat-infinitive-neg
+\l John did not eat the fruit
+
+\t jaananuØ katheyannu/ Ø       baredane?
+\m jaananu-Ø kathe-y-annu/ Ø       bare-dan-e?
+\g  John-Nom story-Acc/Nom          write-pst-Q
+\l Did John write thestory'?
+
+\t Sittei¡j     ?tannannuii/*j/*k/avanannui   kaaNalu        bandaaga            raajui       sattu hoogidda
+\m Sittei¡j     ?tannannuii/*j/*k/avanannui   kaaNalu        bandaaga            raajui       sattu hoogidda
+\g Sita         self-acc             he-acc   to see         came then           Raju         was dead      
+\l Rajui was    dead when Sitaj came to see ?selfi/*l/*k/himi.
+
+\t Hari tannannu puNyavantanendu nambikoLLuttaane
+\m Hari tann-annu puNyavantanendu nambi-koLL-utt-aane
+\g Hari self-Acc      wealthy           believe-Vrm-Npast-3SgM
+\l Hari believes himself to be wealthy.
+
+\t Hari tannannu hogaLikoLLuttaane
+\m Hari tann-annu hogaLi-koLL-utt-aane
+\g Hari self-Acc       parise-Vrm-Npast-3SgM
+\l Hari praises himself.
+
+\t Hari tannannu chappateyaagi taTTikoND         a   
+\m Hari tann-annu chappatey-aag-i taTTi-koND         -a   
+\g Hari self-Acc     flat-be(come)-Pp hammer-Vrm.Pst -3SgM
+\l Hari hammered himself flat.
+
+\t Hari tannage keTTadaagi nakkikoNDa
+\m Hari tann-age keTTad-aag-i nakki-koND-a
+\g Hari self-Dat bad-be(come)-Pp laugh-Vrm.Pst-3SgM
+\l Hari laughed himself hoarse.
+
+\t Hari tannannu chappateyaagi taTTida
+\m Hari tann-annu chappatey-aag-i taTT-id-a
+\g Hari self-Acc   flat-be(come)-Pp hammer-Pst-3SgM
+\l Hari hammered himself flat.
+
+\t Hari tannage keTTadaagi nakkida
+\m Hari tann-age keTTad-aag-i nakk-id-a
+\g Hari self-Dat bad-be(come)-Pp laugh-Pst-3SgM
+\l Hari laughed himself hoarse.
+
+\t Narahariyu: So:mas &e:kharanu: pe:t5ege     ho:daru.
+\m Narahariy-u: So:mas &e:kharan-u: pe:t5e-ge     ho:-d-aru.
+\g Narahari-and    Somashekhara-and   market-DAT go-PAST-3PL
+\l Narahari and Somashekhara went to the market.
+
+\t avanu    (tannannu) *hoDeda/hoDedukoNDa.
+\m avan-u    (tann-annu) *hoDe-da/hoDe-du-koND-a.
+\g he-NOM self-ACC          beat-PST.3sg.m/beat-PPL-REFL.PST-3sg.m
+\l He beat himself.
+
+\t naanu    siitege       avaLannee        tooriside.
+\m naan-u    siite-ge       avaL-ann-ee        tooriside.
+\g I-NOM     Sita-DAT       she-ACC-EMPH    show.PST.1sg
+\l I showed Sita to herself.
+
+\t rashmige taanu       ishtaaada/*ishtaaaddukoLLuttaaLe.9
+\m rashmi-ge taan-u       ishta-aad-a/*ishta-aad-du-koLL-utt-aaLe.9
+\g R-DAT        self-NOM like-INCH-NPST.3sg.m/like-INCH-PPL-REFL.NPST-3sg.f
+\l Rashmi likes herself.
+
+\t Ramanannu         kollalayitu.
+\m Rama-nannu         kollalayitu.
+\g Ramma-ACC          kill.PASS
+\l Rama was killed.
+
+\t e:n                   ijdan
+\m e:n                   ij-d-an
+\g I                     stand-PRES-1SG
+\l I stand
+
+\t en:                   ijkan
+\m en:                   ij-k-an
+\g I                     stand-PAST-1SG
+\l I stood
+
+\t e:n                   ij?on
+\m e:n                   ij?-on
+\g I                     stand-(FUT)-1SG
+\l I will stand
+
+\t Raamai       [taanui geddanu         anta]     heeLidanu.
+\m Raamai       [taanui gedd-anu         anta]     heeLid-anu.
+\g   Rama       self      won-3SG.M     COMP      said-3SG.M
+\l Ramai said that hei won.
+
+\t Hari tannannu puNyavantanendu nambikoLLuttaane
+\m Hari tann-annu puNyavantanendu nambi-koLL-utt-aane
+\g Hari self-Acc      wealthy           believe-Vrm-Npast-3SgM
+\l Hari believes himself to be wealthy.
+
+\t Hari tannannu hogaLikoLLuttaane
+\m Hari tann-annu hogaLi-koLL-utt-aane
+\g Hari self-Acc       parise-Vrm-Npast-3SgM
+\l Hari praises himself.
+
+\t Hari tannannu chappateyaagi taTTikoND         a   
+\m Hari tann-annu chappatey-aag-i taTTi-koND         -a   
+\g Hari self-Acc     flat-be(come)-Pp hammer-Vrm.Pst -3SgM
+\l Hari hammered himself flat.
+
+\t Hari tannage keTTadaagi nakkikoNDa
+\m Hari tann-age keTTad-aag-i nakki-koND-a
+\g Hari self-Dat bad-be(come)-Pp laugh-Vrm.Pst-3SgM
+\l Hari laughed himself hoarse.
+
+\t Hari tannannu chappateyaagi taTTida
+\m Hari tann-annu chappatey-aag-i taTT-id-a
+\g Hari self-Acc   flat-be(come)-Pp hammer-Pst-3SgM
+\l Hari hammered himself flat.
+
+\t Hari tannage keTTadaagi nakkida
+\m Hari tann-age keTTad-aag-i nakk-id-a
+\g Hari self-Dat bad-be(come)-Pp laugh-Pst-3SgM
+\l Hari laughed himself hoarse.
+
+\t avanu eraDu biskit tinnalilla
+\m avanu eraDu biskit tinn-al-illa
+\g he    two cookie eat-inf-neg
+\l He didn't eat two cookies.
+
+\t X kãe hoXguGhoXgi
+\m X kãe hoXguGhoXgi
+\g that side go-imv-2s/go-imv-2p
+\l (You-s/p) go to that side!
+
+\t mXãEuttEiyeGmXãEuttEiri
+\m mXãEuttEiyeGmXãEuttEiri
+\g do-pres-2s/do-pres-2p
+\l (You-s/p) are acting
+
+\t [shyaama tannannui priitisuttaane anta] raamai heeLidanu
+\m [shyaama tannannui priitisuttaane anta] raamai heeLidanu
+\g  Shyama selfacc      loves         that Rama said
+\l Rama said that Shyama loves him (=Rama)
+
+\t makkaLui [naanu obbaranna obbarui baide anta] heeLidaru
+\m makkaLui [naanu obbaranna obbarui baide anta] heeLidaru
+\g  children    I      one a c c   onenom scolded that said
+\l The children said that I scolded one another
+
+\t Hari tannannu hoDeda
+\m Hari tann-annu hoDe-d-a
+\g    Hari self-ACC    hit-PST-3  SM
+\l Hari hit himself
+
+\t Hari tannannu hoDedukoNDa
+\m Hari tann-annu hoDe-du-koND-a
+\g Hari self-ACC    hit-PP-REFL.PST-3SM
+\l Hari hit himself
+
+\t Hari tannannutaane hoDeda
+\m Hari tann-annu-taane hoDe-d-a
+\g Hari self-ACC-self      hit-PST-3SM
+\l Hari hit himself.
+
+\t Hari tannannu nodikoNDa
+\m Hari tann-annu nod-i-koND-a
+\g Hari self-ACC     see-PP-REFL.PST-3SM
+\l Hari saw himself (=Hari, *statue)
+
+\t Zij verdedigde zich beter dan Peter
+\m Zij verdedigde zich beter dan Peter
+\g she defended self better than Peter
+\l She defended herself better than Peter defended himself
+
+\t Zij verdedigde zichzelf beter dan Peter
+\m Zij verdedigde zichzelf beter dan Peter
+\g she defended selfself better than Peter
+\l She defended herself better than Peter defended himself
+
+\t Hari tannannu noDidukoNDa
+\m Hari tann-annu noDi-du-koND-a
+\g Hari self-ACC    see-PP-REFL.PST-3SM
+\l Hari saw himself
+
+\t naanu baagilannu muchide
+\m naanu baagil-annu much-id-e
+\g I-NOM door-ACC           close-PST-1S
+\l I closed the door.
+
+\t baagilu muchikoNDitu
+\m baagilu muchi-koND-itu
+\g door-NOM close-REFL.PST-3SN
+\l The door closed.
+
+\t Hari Rashmige pustakavannu kalisida
+\m Hari Rashmi-ge pustaka-vannu kalis-id-a
+\g Hari Rashmi-DAT book-ACC      send-PST-3SM
+\l Hari sent a book to Rashmi.
+
+\t Hari Rashmige pustakavannu kalisikoTTa
+\m Hari Rashmi-ge pustaka-vannu kalisi-koTT-a
+\g Hari Rashmi-DAT book-ACC send-BEN.PST-3SM
+\l Hari sent a book to Rashmi.
+
+\t Hari tannage pustakavannu kalisikoNDa
+\m Hari tann-age pustaka-vannu kalisi-koND-a
+\g Hari self-DAT book-ACC         send-VRM.PST-3   SM
+\l Hari sent a book to himself.
+
+\t Hari Rashmige pustakavannu kalisi(koTT)a
+\m Hari Rashmi-ge pustaka-vannu kalisi-(koTT)-a
+\g Hari Rashmi-DAT book-ACC send-(BEN.PST)-3SM
+\l Hari sent a book to Rashmi.
+
+\t Hari pustakavannu Rashmige kalisi(koTT)a
+\m Hari pustaka-vannu Rashmi-ge kalisi-(koTT)-a
+\g Hari book-ACC       Rashmi-DAT send-(BEN.PST)-3SM
+\l Hari sent a book to Rashmi.
+
+\t Hari tannage pustakavannu kalisikoNDa
+\m Hari tann-age pustaka-vannu kalisi-koND-a
+\g Hari self-DAT book-ACC         send-VRM.PST-3SM
+\l Hari sent a book to himself.
+
+\t % Hari bangalorige tannannu kalisikoNDa
+\m % Hari bangalor-ige tann-annu kalisi-koND-a
+\g   Hari Bangalore-DAT self-ACC send-VRM.PST-3SM
+\l Hari sent himself to Bangalore.
+
+\t % Hari tannannu bangalorige kalisikoNDa
+\m % Hari tann-annu bangalor-ige kalisi-koND-a
+\g   Hari self-ACC Bangalore-DAT send-VRM.PST-3SM
+\l Hari sent himself to Bangalore.
+
+\t nannu rashmige keekannu suTTukoTTe
+\m nannu rashmi-ge keek-annu suTT-u-koTT-e
+\g I     rashmi-DAT cake-ACC prepare-PP-BEN.PST-1S
+\l I made rashmi a cake...
+
+\t adare adannu nanna taayige    koTTe
+\m adare ad-annu nann-a taayi-ge    koTT-e
+\g    but it-ACC I-GEN mother-DAT give.PST-1S
+\l ...but I gave it to my mother.
+
+\t nannu rashmige keekannu suTTe
+\m nannu rashmi-ge keek-annu suTT-e
+\g I     rashmi-DAT cake-ACC prepare.PST-1S
+\l I made a cake for Rashmi...
+
+\t Hari tannage pustakavannu kalisikoNDa
+\m Hari tann-age pustaka-vannu kalisi-koND-a
+\g Hari self-DAT book-ACC       send-VRM.PST-3SM
+\l Hari sent a book to himself.
+
+\t Rashmi tannage keekannu suTTukoNDaLu
+\m Rashmi tann-age keek-annu suTTu-koND-aLu
+\g Rashmi self-DAT cake-ACC prepare-VRM.PST-3SF
+\l Rashmi made a cake for herself...
+
+\t adare adannu tanna taayige       koTTaLu
+\m adare ad-annu tann-a taayi-ge       koTT-aLu
+\g but it-ACC she-GEN mother-DAT give.PST-3SF
+\l ...but she gave it to her mother.
+
+\t Hari tannage pustakavannu kalisikoNDa
+\m Hari tann-age pustaka-vannu kalisi-koND-a
+\g Hari self-DAT book-ACC         send-VRM.PST-3SM
+\l Hari sent a book to himself.
+
+\t Hari tannannu hogaLikoLLuttaane
+\m Hari tann-annu hogaLi-koLL-utt-aane
+\g Hari self-ACC praise-VRM-NPST-3SM
+\l Hari praises himself.
+
+\t gaalige baagilu teredukoNDitu
+\m gaali-ge baagilu tere-du-koND-itu
+\g wind-DAT door open-PP-VRM.PST-3SN
+\l Because of the wind, the door opened
+
+\t Hari tannannu chappateyisikoNDa
+\m Hari tann-annu chappatey-isi-koND-a
+\g Hari self-ACC flat-CAUS-VRM.PST-3SM
+\l Hari flattened himself.
+
+\t Hari tannannu puNyavantanendu nambikoLLuttaane
+\m Hari tann-annu puNyavantanendu nambi-koLL-utt-aane
+\g Hari self-ACC wealthy              believe-VRM-NPST-3SM
+\l Hari believes himself to be wealthy.
+
+\t Hari tannannu chappateyaagi taTTida
+\m Hari tann-annu chappatey-aagi taTT-id-a
+\g Hari self-ACC flat-ADVL       hammer-PST-3SM
+\l Hari hammered himself flat.
+
+\t A:      ka:De ho:gabe:Da!
+\m A:      ka:De ho:g-a-be:Da!
+\g that    side     go-INF-NEG
+\l Don't go that way!
+
+\t Hari tanna pyjamagalannu shubravaagi tolida.
+\m Hari tanna pyjamaga-lannu shubrav-aagi tol-id-a.
+\g H.his     pyjamas-acc clean-adv wash-past-3sm
+\l Hari washed his pyjamas clean.
+
+\t (5 6 3 )   Hari tanna pyjamagalannu shubravaagi tolida.
+\m (5 6 3 )   Hari tanna pyjamaga-lannu shubrav-aagi tol-id-a.
+\g            H.his     pyjamas-acc clean-adv wash-past-3sm
+\l Hari washed his pyjamas clean.
+
+\t raamai taanui tumba jaaNa anta       heeLuttaane
+\m raamai taanui tumba jaaNa anta       heeLuttaane
+\g Rama self     very    clever Comp says
+\l Rama says that he (=Rama) is very clever
+
+\t (1)    Nimma            pustaka           avara     hattira illav ante           
+\m (1)    Nimma            pustaka           avara     hattira illav- ante           
+\g        your              book           he:POSS     near                  NEG-QUOT
+\l (It is said that) your book is not here.
+
+\t ka:garu:galu       ª            a:stre:liya:dalli    iruttave
+\m ka:garu:-galu       ª            a:stre:liya:-dalli    iruttave
+\g         garoo-NOM.PL             Australia-LOC         be.NONPAST.3PL.NEUT
+\l Kangaroos live in Australia
+
+\t nanage mu:varu hennu makkalu    ªª            ª          idda:re
+\m nana-ge mu:varu hennu makkalu    ªª            ª          idda:re
+\g   1SG-DAT three              female children.NOM.PL be.NONPAST.3PL.HUMAN
+\l I have three daughters
+
+\t avanu tannannu hoDedukoNDa
+\m avan-u tann-annu hoDe-du-koND-a
+\g he-NOM self-ACC hit-PP-REFL.PST-3SM
+\l He hit himself.
+
+\t intha janarige     tamagenee       naachike aagabeeku
+\m intha janar-ige     tamage-nee       naachike aagabeeku
+\g such people-DAT ANPH.DAT-EMPH shame            should.happen
+\l Such people should themselves feel ashamed.
+
+\t oodagiida     beeDa
+\m ooda-giida     beeDa
+\g run-ECHO       PROHIB
+\l Don't run or do related activities!
+
+\t oodagiida     beeDa
+\m ooda-giida     beeDa
+\g run-ECHO       PROHIB
+\l Don't run or do related activities!
+
+\t [baagilannu] [giigilannu] muchide
+\m [baagilannu] [giigilannu] muchide
+\g  door.acc      echo        close.past.1s
+\l I closed the door and related things.
+
+\t baagilannu [muchide] [gichide] anta hee abee a                                                          ¡
+\m baagilannu [muchide] [gichide] anta hee abee a                                                          ¡
+\g door.acc     close.past.1s echo     that say.prohib
+\l Don't say that I closed the door or did related activities.
+
+\t [oo a] [gii a]bee a
+\m [oo a] [gii a]bee a
+\g  run.infin echo.prohib
+\l Don't run or do such things.
+
+\t rashmi tannannu [hoga iko a u] [giga iko a u] anta hee abee a
+\m rashmi tannannu [hoga iko a u] [giga iko a u] anta hee abee a
+\g Rashmi self.acc praise.refl.past.3sf echo             that say.prohib
+\l Don't say that Rashmi praised herself and did related activities.
+
+\t rashmi vijayige [patris] [gitris]ida u anta hee abee a                                                                      ¡
+\m rashmi vijayige [patris] [gitris]ida u anta hee abee a                                                                      ¡
+\g Rashmi Vijay.dat letter.caus echo.past.3sf that say.prohib
+\l Don't say that Rashmi wrote Vijay a letter and did r elated activities.
+
+\t hari [kannu muchida]
+\m hari [kannu muchida]
+\g Hari eye close.past.3sm echo
+\l Hari died (lit. closed his eyes).
+
+\t pustavannu [meejina meele] [giijina meele] noo ide ¡
+\m pustavannu [meejina meele] [giijina meele] noo ide ¡
+\g book.acc     table.gen on      echo            see.past.1s
+\l I saw the book on the table and in related places.
+
+\t nannu [baagilannu muchide] [giigilannu muchide] anta hee abee a          ¡
+\m nannu [baagilannu muchide] [giigilannu muchide] anta hee abee a          ¡
+\g I.nom door.acc close.past.1s echo                        that say.prohib
+\l Don't say that I closed the door or did related activities.
+
+\t So'manige      a'nu tumba ishta
+\m So'manige      a'nu tumba ishta
+\g Soma-D         self-N much liking
+\l Soma is very fond of himself
+
+\t Ja'n Me'rige          tanna ja'gavannu        biTTukoTTanu
+\m Ja'n Me'rige          tanna ja'gavannu        biTTukoTTanu
+\g  John Mary-D          self's place-A          gave
+\l John gave up his own place for Mary
+
+\t b)*Ja'n        me'rige       tanna ja'gavannu    biTTukoTTanu
+\m b)*Ja'n        me'rige       tanna ja'gavannu    biTTukoTTanu
+\g  John         Mary-D        self's       place-A      gave up
+\l John gave her own place (back) to Mary
+
+\t c)*Ja'n       Me'riyannu tanna manege        karedukonDu ho'danu
+\m c)*Ja'n       Me'riyannu tanna manege        karedukonDu ho'danu
+\g  John        Mary-A           self's home-D        took
+\l John took Mary to her home
+
+\t Mu'rtige tanna makkaLa               bagge tumba abhima'na
+\m Mu'rtige tanna makkaLa               bagge tumba abhima'na
+\g  Murti-D      self's kids            of toward   much pride
+\l Murti is very proud of his kids
+
+\t  So'manige ta'nu           tumba ishta
+\m  So'manige ta'nu           tumba ishta
+\g Soma-D      self-N much liking
+\l Soma is very fond of himself
+
+\t  Tanage    so'manu        tumba ishta
+\m  Tanage    so'manu        tumba ishta
+\g self-D     Soma-N         much liking
+\l Soma is very fond of himself
+
+\t Ta'nu        So'manige      tumba ishta
+\m Ta'nu        So'manige      tumba ishta
+\g self-N       Soma-D         much             liking
+\l Soma is very fond of himself.
+
+\t Uma angadige ho'gi Ø taraka'ri      tandu Ø adige        ma'DidaLu
+\m Uma angadige ho'gi Ø taraka'ri      tandu Ø adige        ma'DidaLu
+\g Uma shop-to          having-gone vegetables having-brought meal made.
+\l Uma, having gone to the shop and having brought vegetables, cooked the meal.
+
+\t b) *a'ke ku'liyavanannu karedu Ø              sa'ma'nu     iLisidanu
+\m b) *a'ke ku'liyava-nannu karedu Ø              sa'ma'nu     iLisidanu
+\g   she porter-acc              having called baggage        put down (masc)
+\l She having called the porter, (he) set the baggage down
+
+\t b) Ø bisilinalli tirugi      Sure'shanige          ba'ya'rike      a'yitu
+\m b) Ø bisilinalli tirugi      Sure'shanige          ba'ya'rike      a'yitu
+\g     sun-in having wandered Suresha-D               thirst          happened
+\l Having wandered in the sun, Suresha became thirsty
+
+\t a)*Ø nannannu cenna'gi ma'tana'Disi            nanage avaLu         ishTa a'daLu
+\m a)*Ø nannannu cenna'gi ma'tana'Disi            nanage avaLu         ishTa a'daLu
+\g        I-A nicely having talked to           I-D    she-N liking became
+\l She having talked to me nicely, I like her
+
+\t b)*avaLu nannannu cenna'gi ma'tana'Disi              nanage Ø      ishtTa a'daLu
+\m b)*avaLu nannannu cenna'gi ma'tana'Disi              nanage Ø      ishtTa a'daLu
+\g   She-N I-A          nicely having talked to         I-D    l      iking became
+\l She having talked to me nicely, I like her
+
+\t N¯ u allige hogabeda.
+\m N¯ u allige hoga-beda.
+\g you there go-NEG
+\l Don't go there.
+
+\t N¯ u allige hogabaradu.
+\m N¯ u allige hoga-baradu.
+\g you there go-MODNEG
+\l You should not go.
+
+\t Raama tannannu/avanannee hogaLikoNDanu
+\m Raama tann-annu/avan-ann-ee hogaLi-koNDanu
+\g Ram selfACC        /heACC           praised-REFL-AGR
+\l Ram praised himself
+
+\t taavu ii        kaDe banni
+\m taavu ii        kaDe banni
+\g self    this    side     comeH
+\l Please come to this side.
+
+\t tanu somanige tumba ishta.
+\m tanu somanige tumba ishta.
+\g self.NOM Soma.DAT much liking
+\l Soma is very fond of himself
+
+\t tanage somanu tumba ishta.
+\m tanage somanu tumba ishta.
+\g   self.DAT Soma.NOM much liking
+\l Soma is very fond of himself
+

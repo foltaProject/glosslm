@@ -1,0 +1,55 @@
+\t Ramesh       pen     kh@ridto      h@to
+\m Ramesh       pen     kh@rid-t-o      h@-t-o
+\g Ramesh.masc pen.fem buy-impf-masc aux-impf-masc
+\l Ramesh was buying the pen.
+
+\t Rameshe          pen     kh@ridyi
+\m Ramesh-e          pen     kh@rid-y-i
+\g Ramesch.masc-erg pen.fem buy-perf-fem
+\l Ramesh bought a pen.
+
+\t  . mane [[tenii    aadhyaatmiktaa ochii thaatii hoy] em] naathi laagtuM
+\m  . ma-ne [[te-nii    aadhyaatmiktaa ochii thaatii hoy] em] naathi laagtuM
+\g I-dat    this-from spiritual value   less be-cont-3s-such not strike-pres-3s
+\l It did not seem to me [that their spiritual value was diminished
+
+\t c [[maarii buddhi mand         hashe] evuM] tethii huM anamaan karuM chuM
+\m c [[maarii buddhi mand         hashe] evuM] te-thii huM anamaan karuM chuM
+\g   my      intellect sluggish be-fut-3s such-n this-from 1s inference do-1s be-pres-1s
+\l From this I make the inference that my intellect must have been sluggish'.
+
+\t raju         e    svati    ne  joyi.
+\m raju         e    svati    ne  joyi.
+\g Raju(M.SG) ERG Svati(F.SG) ACC saw.F.SG
+\l Raju saw Svati.
+
+\t Ramne tav che
+\m Ram-ne tav che
+\g Ram-dat fever be.pres
+\l Ram has a fever
+
+\t mahne m¯ ¯ bh¯ e           a     a ap an¯        che
+\m mahne m¯ ¯ bh¯ e           a     a ap an¯        che
+\g I.dat my brother.dat a-little money give.gerund.dat be.pres
+\l I have to give some money to my brother
+
+\t sikshake      vidaarthine pustak                moklyun
+\m sikshak-e      vidaarthi-ne pustak                mokl-y-un
+\g teacher-ERG student-DAT book.NEUTR.SG             send-PASTPERF-NEUTR.SG
+\l The teacher sent a/the book to the student
+
+\t sikshake      delhi     pustak              moklyun
+\m sikshak-e      delhi     pustak              mokl-y-un
+\g teacher-ERG Delhi        book.NEUTR.SG       send-PASTPERF-NEUTR.SG
+\l The teacher sent a/the book to Delhi
+
+\t Ramesh pen kheridto                 heto
+\m Ramesh pen kherid-t-o                 he-t-o
+\g  Ramesh pen buy-IMP-MASC          AUX-IMP-MASC
+\l Ramesh was buying the pen
+
+\t Rameshe        pen kheridyI
+\m Ramesh-e        pen kherid-y-I
+\g  Ramesh-ERG pen buy-PERF-FEM
+\l Ramesh bought the pen
+

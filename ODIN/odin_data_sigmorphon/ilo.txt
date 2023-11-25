@@ -1,0 +1,85 @@
+\t nakíta=nak                     [ni                 Maria]
+\m nakíta=n-ak                     [ni                 Maria]
+\g       see=3SG.ERG-1SG.ABS PROPER.CORE.SG Maria
+\l Maria saw me
+
+\t nakíta=nak                [ti                  babái] [iti                madióngan]
+\m nakíta=n-ak                [ti                  babái] [iti                madióngan]
+\g    see=3SG.ERG-1SG.ABS COMMON.CORE.SG girl COMMON.OBL.SG mah.jong.parlour
+\l the girl saw me at the mah jong parlour
+
+\t Nasayaat ni Dolores, sumangkasayaat pay ni Enkarnasion.
+\m Nasayaat ni Dolores, sumangka-sayaat pay ni Enkarnasion.
+\g pretty-one SUBJ Dolores, more-pretty    even SUBJ Enkarnasion
+\l Enkarnasion is prettier than Dolores.
+
+\t ti              nalaíng nga             ubíng
+\m ti              nalaíng nga             ubíng
+\g         ART smart            LINK       child
+\l the smart child
+
+\t ti          ubíng        a          nalaíng
+\m ti          ubíng        a          nalaíng
+\g     ART child            LINK       smart
+\l the smart child (as opposed to the others)
+
+\t ti               nalaíng nga              ubíng
+\m ti               nalaíng nga              ubíng
+\g         ART smart              LINK       child
+\l the smart child
+
+\t ti           ubíng         a          nalaíng
+\m ti           ubíng         a          nalaíng
+\g     ART child              LINK       smart
+\l the smart child (as opposed to the others)
+
+\t pinagtaray    nak       ni                       Juan
+\m p-in-ag-taray    n-ak       ni                       Juan
+\g CS-PST-INTR-run 3GEN-1NOM det                      John
+\l John made me run.
+
+\t pinakan   diay taraken       ti    linugaw                        iti        ubing
+\m p-in-a-kan   diay taraken       ti    linugaw                        i-ti        ubing
+\g CS-PST-eat  det maid           det porri dge                        OBL-det child
+\l The maid had the child eat the porridge.
+
+\t pinapaturog ko         diay ubing                 iti        daydiay taraken
+\m p-in-a-pa-turog ko         diay ubing                 i-ti        daydiay taraken
+\g CS-PST-CS-sleep 1GEN     det child                  OBL-det det     maid
+\l I had the maid put the child to sleep.
+
+\t pinaipakan                    ko        diay linugaw           ti    daydiay ubing        ken daydiay taraken29
+\m p-in-a-i-pa-kan                    ko        diay linugaw           ti    daydiay ubing        ken daydiay taraken29
+\g   CS-PST-AFF.OBJ-CS-eat      1GEN      det porri dge          det   det     child              OBL det        maid  
+\l I had the maid feed the child porridge.
+
+\t Pinapaturog ko         diay ubing               iti    daydiay taraken
+\m P-in-a-pa-turog ko         diay ubing               i-ti    daydiay taraken
+\g CS-PST-CS-sleep 1GEN      det child                obl-det det     maid
+\l I had the maid put the child to sleep.
+
+\t pinagtaraynak                          ni     Juan
+\m p-in-ag-taray-n-ak                          ni     Juan
+\g CS-PST-INTR-run-3GEN-1NOM                 det    John
+\l John made me run.
+
+\t pinakan   diay taraken       ti    linugaw                     iti        ubing
+\m p-in-a-kan   diay taraken       ti    linugaw                     i-ti        ubing
+\g CS-PST-eat  det maid           det porri dge                     OBL-det child
+\l The maid had the child eat the porridge.
+
+\t pinapaturog ko         diay ubing                            iti        daydiay taraken
+\m p-in-a-pa-turog ko         diay ubing                            i-ti        daydiay taraken
+\g CS-PST-CS-sleep 1GEN     det child                             OBL-det det     maid
+\l I had the maid put the child to sleep.
+
+\t pinaipakan                             ko         diay linugaw             ti    daydiay ubing            ken daydiay taraken
+\m p-in-a-i-pa-kan                             ko         diay linugaw             ti    daydiay ubing            ken daydiay taraken
+\g    CS-PST-AFF.OBJ-CS-eat       1GEN       det porri dge            det   det     child                         OBL det        maid
+\l I had the maid feed the child porridge.
+
+\t pinaipakan                   ko      diay linugaw        ti     daydiay ubing            ken daydiay taraken
+\m p-in-a-i-pa-kan                   ko      diay linugaw        ti     daydiay ubing            ken daydiay taraken
+\g   CS-PST-AFF.OBJ-CS-eat    1GEN    det porri dge       det    det     child                   OBL det        maid
+\l I had the maid feed the child porridge.
+

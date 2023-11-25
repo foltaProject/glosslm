@@ -1,0 +1,225 @@
+\t ma koCi bore
+\m ma koCi bore
+\g 1.SG man COP.1.SG
+\l I am a man
+
+\t ma Peteri         bore
+\m ma Peteri         bore
+\g 1.SG Peter        COP.1.SG
+\l I am Peter
+
+\t ma kirali bore
+\m ma kirali bore
+\g 1.SG king COP.1.SG
+\l I am (the) king
+
+\t ma didi bore
+\m ma didi bore
+\g 1.SG tall COP.1.SG
+\l I am tall
+
+\t bziGam
+\m b-ziG-am
+\g 1.SG-laugh-PRES
+\l I laugh
+
+\t Peteri biCi var on
+\m Peteri biCi var on
+\g Peter boy NEG COP.3.SG
+\l Peter is not a boy
+
+\t Peteri vaziGay
+\m Peteri va-ziG-ay
+\g Peter NEG-laugh-3.SG.PRES
+\l Peter does not laugh
+
+\t bziram
+\m b-zir-am
+\g 1.SG-see-PRES
+\l I see/find him
+
+\t gziram
+\m g-zir-am
+\g 2.SG-see-PRES
+\l I see you
+
+\t mziram
+\m m-zir-am
+\g 1.SG-see-PRES
+\l you see me
+
+\t mziray
+\m m-zir-ay
+\g 1.SG-see-3.SG.PRES
+\l he sees me
+
+\t bimpulam
+\m b-i-mpul-am
+\g 1.SG-OR-hide-PRES
+\l I hide
+
+\t impulam
+\m i-mpul-am
+\g OR-hide-PRES
+\l you hide
+
+\t impulay
+\m i-mpul-ay
+\g OR-hide-PRES.3.SG
+\l he hides
+
+\t bampulam
+\m b-a-mpul-am
+\g 1.SG-OR-hide-PRES
+\l I hide from him
+
+\t ampulam
+\m a-mpul-am
+\g OR-hide-PRES
+\l you hide from him
+
+\t mampulam
+\m m-a-mpul-am
+\g 1.SG-OR-hide-PRES
+\l you hide from me
+
+\t gampulam
+\m g-a-mpul-am
+\g 2.SG-OR-hide-PRES
+\l I hide from you
+
+\t bompulam
+\m b-o-mpul-am
+\g 1.SG-OR-hide-PRES
+\l I hide him
+
+\t gompulam
+\m g-o-mpul-am
+\g 2.SG-OR-PRES
+\l I hide you
+
+\t mompulam
+\m m-o-mpul-am
+\g 1.SG-OR-hide-PRES
+\l you hide me
+
+\t mompulay
+\m m-o-mpul-ay
+\g 1.SG-OR-hide-PRES.3.SG
+\l he hides me
+
+\t ompulam
+\m o-mpul-am
+\g OR-hide-PRES
+\l you hide him
+
+\t bumpulam
+\m b-u-mpul-am
+\g 1.SG-OR-hide-PRES
+\l I hide something from him
+
+\t umpulam
+\m u-mpul-am
+\g OR-hide-PRES
+\l you hide something from him
+
+\t cekCam
+\m ce-k-C-am
+\g PV-2.SG-hit-PRES
+\l I hit you
+
+\t KoCi laCi ceCay
+\m KoCi laCi ce-C-ay
+\g man dog PV-hit-3.SG.PRES
+\l The man hits the dog
+
+\t KoCi oxorza manto meCu
+\m KoCi oxorza manto me-C-u
+\g man woman coat       PV-give-3.SG.PERF
+\l the man gave the woman a coat
+
+\t laCi KoCi Kale ciCen
+\m laCi KoCi Kale c-i-C-en
+\g dog      man side PV-OR-hit-MED
+\l the dog was beaten by (on the side of) the man
+
+\t laCi ciCen
+\m laCi c-i-C-en
+\g dog PV-OR-beat-MED
+\l the dog got beaten
+
+\t araba benzinite ulun
+\m araba benzini-te ulu-n
+\g car petrol-INS drive-PRES
+\l the car drives with petrol
+
+\t Peteri oxoriSa       ulun
+\m Peteri oxori-Sa       ulu-n
+\g Peter home-MOT        go-PRES
+\l Peter goes home
+
+\t Peteri oxoriSa    mulun
+\m Peteri oxori-Sa    mulu-n
+\g Peter home-MOT come-PRES
+\l Peter comes from home
+
+\t Peteri livadi on
+\m Peteri livadi on
+\g Peter garden COP.3.SG
+\l Peter is in the garden
+
+\t PeteriSi oxori
+\m Peteri-Si oxori
+\g Peter-GEN house
+\l Peter's house
+
+\t hani biTumi SKimi msKva mCita xut diSka toPi masa na goozun
+\m hani biTumi SKimi msKva mCita xut diSka toPi masa na goo-z-un
+\g these all      my     beautiful red 5 wood ball table REL PV-lie-3.PL.PRES
+\l all these five beautiful red wooden balls which are lying on the table
+
+\t oxorepe SkimiSa bulur
+\m oxore-pe Skimi-Sa bulur
+\g house-PL my-MOT go:1SG:PRES
+\l I go to my houses
+
+\t para     na dvaCirerteipe
+\m para     na dvaCirertei-pe
+\g money REL need:3PL-PL
+\l the ones who need money
+
+\t Metini SevimiSa daha        didi on
+\m Metini Sevimi-Sa daha        didi on
+\g Metin Sevim-MOT COMP tall COP.3.SG
+\l Metin is taller than Sevim
+
+\t Ali MetiniSa     daha      laCi on
+\m Ali Metini-Sa     daha      laCi on
+\g Ali Metin-MOT COMP dog COP.3.SG
+\l Ali is more dog-like (sillier than) Metini
+
+\t okosale
+\m o-kos-ale
+\g INF.PREF-sweep-NL
+\l broom
+
+\t okosu
+\m o-kos-u
+\g INF.PREF-sweep-INF.SUFF
+\l to sweep
+
+\t Babak meçcaps skiris cxeni
+\m Baba-k meçcaps skiri-s cxeni
+\g father-ERG 3sg.give.3sg.3sg child-DAT horse.nom
+\l The father gives a horse to his child
+
+\t babak    cxeni          mec&u            skiris
+\m baba-k    cxeni          mec&u            skiri-s
+\g father-ERG horse(NOM)         give(AOR) child-DAT
+\l The father gave a horse to (his) son.
+
+\t babas       cxeni            nuc&amun skirisa
+\m baba-s       cxeni            nuc&amun skiri-sa
+\g father-DAT horse(NOM)         give(PF)    child-ALL
+\l The father has given a horse to (his) son.
+

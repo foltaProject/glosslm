@@ -1,0 +1,125 @@
+\t Ùdíny         Juààny bèh'cw re'        cùn yàg.
+\m Ù-díny         Juààny bèh'cw re'        cùn yàg.
+\g com-hit        John dog      that       with stick
+\l John hit that dog with astick'.
+
+\t Juààny ùdíny bèh'cw cùn              yàg.
+\m Juààny ù-díny bèh'cw cùn              yàg.
+\g John com-hit dog     with             stick
+\l John (TOPIC/     FOCUS   ) hit the dog with a stick.
+
+\t Bèh'cw ùdíny Juààny cùn yàg.
+\m Bèh'cw ù-díny Juààny cùn yàg.
+\g dog   com-hit John with stick
+\l John hit the dog (TOPIC/      FOCUS   ) with a stick.
+
+\t ¿Cálóò gwíí        Juáàny?
+\m ¿Cálóò gwíí        Juáàny?
+\g   where com:go John
+\l Where did John go to?       5:3
+
+\t ¿Túú ùdíny Juààny cùn       yàg?
+\m ¿Túú ù-díny Juààny cùn       yàg?
+\g    what com-hit John with stick
+\l What (anim.) did John with a stick?'3
+
+\t ¿Lá=Juáány gù Móòny zè'èh lò ìnyá'?
+\m ¿Lá=Juáány gù Móòny zè'èh lò ìnyá'?
+\g    q=John    or Ramón com:go to field
+\l Was it John or Ramón who went to the field?
+
+\t ¿Lá=bèh'ty Juáány bzììny?
+\m ¿Lá=bèh'ty Juáány bzììny?
+\g    q=com:kill John     rat
+\l Did John kill the rat?
+
+\t ¿Xhíícùn ùdíny  Juààny bèh'cw?
+\m ¿Xhíícùn ù-díny  Juààny bèh'cw?
+\g what with com-hit John dog
+\l What did John hit the dog with?
+
+\t Juààny cù'á   [NP xpèh'cw Màríí].
+\m Juààny cù'á   [NP x-pèh'cw Màríí].
+\g John com:grab     p-dog Mary
+\l John grabbed Mary's dog.'4:214
+
+\t ¿[NPTúú xpèh'cw] cù'á   Juààny?
+\m ¿[NPTúú x-pèh'cw] cù'á   Juààny?
+\g     who p-dog     com:grab John
+\l Whose dog did John grab?'4:214
+
+\t Juààny cù'á   bèh'cw re'
+\m Juààny cù'á   bèh'cw re'
+\g John com:grab dog that
+\l John grabbed that dog.
+
+\t ¿Túú bèh'cw cù'á Juààny?
+\m ¿Túú bèh'cw cù'á Juààny?
+\g which dog com:grab John
+\l Which dog did John grab?
+
+\t Juáány rútèh'cà túú bzììny be`tybí.
+\m Juáány rú-tèh'cà túú bzììny be-`ty-bí.
+\g John anim-not any mouse com-kill-3
+\l John didn't kill any mice.'4:175
+
+\t Xtéh'cà xhíí gèhht ùdáòwà.
+\m X-téh'cà xhíí gèhht ù-dáòw-à.
+\g inan-not any tortilla com-eat-1s
+\l I didn't eat any tortillas.'4:241
+
+\t Xtéh'cà xhíí gèhht ùdáò Juààny.
+\m X-téh'cà xhíí gèhht ù-dáò Juààny.
+\g inan-not any tortilla com-eat John
+\l John didn't eat any tortillas.'5:33
+
+\t Juààny xtéh'cà xhíí gèhht ùdáò.
+\m Juààny x-téh'cà xhíí gèhht ù-dáò.
+\g John inan-not any tortilla com-eat
+\l John didn't eat any tortillas.'5:33
+
+\t Rútèh'cà túú   lò ùdéhhdy Màríí cààrrt.
+\m Rú-tèh'cà túú   lò ù-déhhdy Màríí cààrrt.
+\g anim-not anyone to com-give Mary letter
+\l Mary didn't give the letter to anyone.'5:35
+
+\t Rútèh'cà túú   xpèh'cw ùdíny Màríí.
+\m Rú-tèh'cà túú   x-pèh'cw ù-díny Màríí.
+\g anim-not anyone p-dog    com-hit Mary
+\l Mary didn't hit anyone's dog.
+
+\t Ùdíny Juààny bèh'cw cùn yàg ré'.
+\m Ù-díny Juààny bèh'cw cùn yàg ré'.
+\g com-hit John dog with stick that
+\l John hit the dog with that stick.
+
+\t ¿Cùn xhíí   yàg ùdíny Juààny bèh'cw?
+\m ¿Cùn xhíí   yàg ù-díny Juààny bèh'cw?
+\g  with which stick com-hit John dog
+\l With which stick did John hit the dog?
+
+\t ¿Cùn túú xcyàg ùdíny Juààny bèh'cw?
+\m ¿Cùn túú x-cyàg ù-díny Juààny bèh'cw?
+\g  with whose p-stick com-hit John dog
+\l With whose stick did John hit the dog?
+
+\t Rútèh'cà túú    lò chèh' ùdèhhdy Màrìì cààrrt.
+\m Rú-tèh'cà túú    lò chèh' ù-dèhhdy Màrìì cààrrt.
+\g anim-not anyone to husband com-give Mary letter
+\l Mary didn't give the letter to anyone's husband.
+
+\t Rútèh'cà lò túú   chèh'     ùdèhhdy Màrìì cààrrt.
+\m Rú-tèh'cà lò túú   chèh'     ù-dèhhdy Màrìì cààrrt.
+\g anim-not to anyone husband com-give Mary letter
+\l Mary didn't give the letter to anyone's husband.
+
+\t ¿Cùn túú    xcyàg ùdíny Juààny                 bèh'cw?
+\m ¿Cùn túú    x-cyàg ù-díny Juààny                 bèh'cw?
+\g  with whose p-stick com-hit John                    dog
+\l With whose stick did John hit the dog?
+
+\t ...c_àna xi_queñà=to...
+\m ...c_àna xi_queñà=to...
+\g irr_plow poss_land=2p
+\l ...you are to plow your land...
+

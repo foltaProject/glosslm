@@ -1,0 +1,50 @@
+\t ek'wa        woq'io
+\m ek'wa        w-oq'-io
+\g man          SGM-come-PF.   NEG.SGM
+\l The man did not come
+
+\t jase jeq'ie
+\m jase j-eq'-ie
+\g girl    SGF-come-PF.NEG.SGF
+\l The girl did not come
+
+\t masina beq'ie
+\m masina b-eq'-ie
+\g car          SGN-come-PF.NEG.SGN
+\l The car did not come
+
+\t ek'wasswe           jase jicie
+\m ek'wassw-e           jase j-ic-ie
+\g man-ERG           girl   SGF-push-PF.NEG.SGF
+\l The man did not push the girl
+
+\t ek'wasswe           masina bicie
+\m ek'wassw-e           masina b-ic-ie
+\g man-ERG           car         SGN-push-PF.NEG.SGN
+\l The man did not push the car
+
+\t  jasode ek'wa            wucio
+\m  jaso-de ek'wa            w-uc-io
+\g girl-ERG   man         SGM-push-PF.    NEG.SGM
+\l The girl did not push the man
+
+\t  ek'wasswe         jasoga eqere                  godi
+\m  ek'wassw-e         jaso-ga eq-ere                  godi
+\g man-ERG         girl-LAT   look at-CONV COP.SGN
+\l The man is looking at the girl
+
+\t  wede          jasoge q'alac'ari
+\m  we-de          jaso-ge q'alac'-ari
+\g dog-ERG     girl-ESS     bite-PF
+\l The dog bit the girl
+
+\t  mik'ide       dige               q'it'ari
+\m  mik'i-de       di-ge               q'it'ari
+\g child-ERG       PRO1S-ESS           pinch-PF
+\l The child pinched me
+
+\t ek'wasswe      jasoge 'orari
+\m ek'wassw-e      jaso-ge 'or-ari
+\g man-ERG      girl-ESS   hit-PF
+\l The man hit the girl
+

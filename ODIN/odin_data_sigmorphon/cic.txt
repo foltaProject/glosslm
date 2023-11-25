@@ -1,0 +1,320 @@
+\t John imofi'at  illih.
+\m John im-ofi'-at  illi-h.
+\g John III-dog-nom die-tns
+\l John's dog died.
+
+\t John imofi'at illih.
+\m John im-ofi'-at illi-h.
+\g John III-dog-nom die-tns
+\l John's dog died.
+
+\t Johnat ofi'(at) imillih.
+\m John-at ofi'(-at) im-illi-h.
+\g John-nm dog(-nm) III-die-tns
+\l John's dog died.
+
+\t Oblaashaash [John imofi'at] illitok.
+\m Oblaashaash [John im-ofi'-at] illi-tok.
+\g yesterday   John III-dog-NM die-PT
+\l Yesterday John's dog died.
+
+\t Johnat ofi'at       imambiikatok               [sakisilitokat]
+\m John-at ofi'-at       im-ambiika-tok               [sa-kisili-tokat]
+\g John-nm dog-nm III-sick-pt                         1sII-bite-when:ss
+\l Johni's dogj was sick when hei/itj bit me.
+
+\t John imofi'at abiikatok               [sakisilitokat]
+\m John im-ofi'-at abiika-tok               [sa-kisili-tokat]
+\g John III-dog-NM sick-PT                  1sII-bite-when:SS
+\l John(i)'s dog(j) was sick when it(j)/*he(i) bit me.
+
+\t Kisilili
+\m Kisili-li
+\g bite-1sgI
+\l I bite him.
+
+\t Sakisili
+\m Sa-kisili
+\g 1sgII-bite
+\l He bites me.
+
+\t Ofi' sabanna.
+\m Ofi' sa-banna.
+\g dog 1sgII-want
+\l I want a dog.
+
+\t Talowa' amalhkaniya tok.
+\m Talowa' am-alhkaniya- tok.
+\g song      1sgIII-forget-    PST
+\l I forgot the song.
+
+\t Chimambi li.
+\m Chim-ambi- li.
+\g 2sgIII-beat- 1sgI
+\l I beat you (in a contest).
+
+\t ChÇhollo li.
+\m ChÇ-hollo- li.
+\g 2sgIII-love- 1sgI
+\l I love you.
+
+\t Malilili
+\m Malili-li
+\g ran-1sgI
+\l I ran.
+
+\t Hotolhkoli
+\m Hotolhko-li
+\g coughed-1sgI
+\l I coughed (on purpose).
+
+\t Sachokma
+\m Sa-chokma
+\g 1sgII-good
+\l I am good.
+
+\t Sahotolhko
+\m Sa-hotolhko
+\g 1sgII-coughed
+\l I coughed.
+
+\t Antakho'bi
+\m An-takho'bi
+\g 1sgIII-lazy
+\l I am lazy.
+
+\t Hattakat    malili.
+\m Hattak-at    malili.
+\g man-NOM run
+\l The man runs.
+
+\t Hattakat    ihoo      pÇsa.
+\m Hattak-at    ihoo      pÇsa.
+\g man-NOM woman see
+\l The man sees the woman.
+
+\t Hattakat    ank        ã    abitok.
+\m Hattak-at    an-k-        ã    abi-tok.
+\g man-NOM my-father- OBL kill-PST
+\l The man killed my father.
+
+\t Hattakat    chokma.
+\m Hattak-at    chokma.
+\g man-NOM good
+\l The man is good.
+
+\t Hattakat    intakho'bi.
+\m Hattak-at    in-takho'bi.
+\g man-NOM 3III-lazy
+\l The man is lazy.
+
+\t Talowa' amalhkaniya tok.
+\m Talowa' am-alhkaniya- tok.
+\g song      1sgIII-forget-     PST
+\l I forgot the song.
+
+\t Hakkatat      talowa' imalhkaniya tok.
+\m Hakkat-at      talowa' im-alhkaniya- tok.
+\g man-NOM song             3III-forget- PST
+\l The man forgot the song.
+
+\t Kisilili
+\m Kisili-li
+\g bite-1sgI
+\l I bite him.
+
+\t Sakisili
+\m Sa-kisili
+\g 1sgII-bite
+\l He bites me.
+
+\t Ofi' sabanna.
+\m Ofi' sa-banna.
+\g dog 1sgII-want
+\l I want a dog.
+
+\t Talowa' amalhkaniya tok.
+\m Talowa' am-alhkaniya- tok.
+\g song      1sgIII-forget-    PST
+\l I forgot the song.
+
+\t Chimambi li.
+\m Chim-ambi- li.
+\g 2sgIII-beat- 1sgI
+\l I beat you (in a contest).
+
+\t ChÉhollo li.
+\m ChÉ-hollo- li.
+\g 2sgIII-love- 1sgI
+\l I love you.
+
+\t Malilili
+\m Malili-li
+\g ran-1sgI
+\l I ran.
+
+\t Hotolhkoli
+\m Hotolhko-li
+\g coughed-1sgI
+\l I coughed (on purpose).
+
+\t Sachokma
+\m Sa-chokma
+\g 1sgII-good
+\l I am good.
+
+\t Sahotolhko
+\m Sa-hotolhko
+\g 1sgII-coughed
+\l I coughed.
+
+\t Antakho'bi
+\m An-takho'bi
+\g 1sgIII-lazy
+\l I am lazy.
+
+\t Hattakat    malili.
+\m Hattak-at    malili.
+\g man-NOM run
+\l The man runs.
+
+\t Hattakat    ihoo      pÉsa.
+\m Hattak-at    ihoo      pÉsa.
+\g man-NOM woman see
+\l The man sees the woman.
+
+\t Hattakat    ank        ã    abitok.
+\m Hattak-at    an-k-        ã    abi-tok.
+\g man-NOM my-father- OBL kill-PST
+\l The man killed my father.
+
+\t Hattakat    chokma.
+\m Hattak-at    chokma.
+\g man-NOM good
+\l The man is good.
+
+\t Hattakat    intakho'bi.
+\m Hattak-at    in-takho'bi.
+\g man-NOM 3III-lazy
+\l The man is lazy.
+
+\t Talowa' amalhkaniya tok.
+\m Talowa' am-alhkaniya- tok.
+\g song      1sgIII-forget-     PST
+\l I forgot the song.
+
+\t Hakkatat      talowa' imalhkaniya tok.
+\m Hakkat-at      talowa' im-alhkaniya- tok.
+\g man-NOM song             3III-forget- PST
+\l The man forgot the song.
+
+\t Ayal     a'chikat   ithaanali.
+\m Aya-l-     a'chi-kat   ithaana-li.
+\g go-1sgI- FUT-COMP.SS know-1sgI
+\l I know I am going.
+
+\t Ishiyy a'chikã     ithannali.
+\m Ish-iyy- a'chi-kã     ithanna-li.
+\g 2sgI-go- FUT-COMP.DS know-1sgI
+\l I know you are going.
+
+\t Hattakat ofi' banna
+\m Hattak-at ofi' banna
+\g man-NOM dog want
+\l The man wants a dog
+
+\t Hattakat ofi'at    woocha'ni banna
+\m Hattak-at ofi'-at    wooch-a'ni banna
+\g man-NOM dog-NOM bark-MOD want
+\l The man wants the dog to bark
+
+\t Katahta        Johnat      Billat     issa'ni banna?
+\m Kata-hta        John-at      Bill-at     iss-a'ni banna?
+\g who-INT.ACC John-NOM Bill-NOM hit-MOD want
+\l Who does John want Bill to hit?
+
+\t Aai'pa'     pakna'at homma.
+\m Aai'pa'     pakna'-at homma.
+\g table       top-NOM        be.red
+\l The top of the table is red
+
+\t Kowi'at aai'pa'        pakna'       owáyya'a.
+\m Kowi'-at aai'pa'        pakna'       o-wáyya'a.
+\g cat-NOM table           top          on-stand
+\l The cat is on the table
+
+\t chissoli.
+\m chi-sso-li.
+\g 2(acc)-hit-1
+\l I hit you.
+
+\t issöthaana.
+\m is-sö-thaana.
+\g 2(nom)-1(acc)-know
+\l You know me.
+
+\t chimambili.
+\m chim-ambi-li.
+\g 2(dat)-beat-1
+\l I beat you.
+
+\t inkasholi.
+\m in-kasho-li.
+\g 3(dat)-forgive-1
+\l I forgive him.
+
+\t Catherineat Larry Bonnieak        pitimpilashtok.  
+\m Catherine-at Larry Bonnie-ak        pit-im-pilash-tok.  
+\g Catherine-subj Larry Bonnie-nonsubj pit-3(dat)-send-past
+\l Catherine sent Larry to Bonnie.
+
+\t éiyimmi.
+\m é-iyimmi.
+\g 3(acc)-believes
+\l He believes it.
+
+\t iiyimmi.
+\m i-iyimmi.
+\g 3(dat)-believes
+\l He believes him.
+
+\t söhotolhko.
+\m sö-hotolhko.
+\g 1(acc)-coughed
+\l I coughed.
+
+\t hotolhkoli.
+\m hotolhko-li.
+\g coughed-1(nom)
+\l I coughed (on purpose).
+
+\t Ihoo        imofi'at                   ishto
+\m Ihoo        im-ofi'-at                   ishto
+\g woman       AGR(III   )-dog-SUBJECT   big
+\l The woman's dog is big
+
+\t Ihooat             ofi'at                imishto
+\m Ihoo-at             ofi'-at                im-ishto
+\g woman-SUBJECT   dog-SUBJECT         AGR(III   )-big
+\l The woman's dog is big
+
+\t Ofi'at          ihoo         impaska                            apatok
+\m Ofi'-at          ihoo         im-pask-a                            apa-tok
+\g dog-SUBJECT   woman        AGR(III   )-bread-NON.SUBJECT     eat-PERF
+\l The dog ate the woman's bread
+
+\t Ofi'at          ihooa                        pask          imapatok
+\m Ofi'-at          ihoo-a                        pask          im-apa-tok
+\g dog-SUBJECT   woman-NON.SUBJECT          bread         AGR(III   )-eat-PERF
+\l The dog ate the woman's bread
+
+\t topat     tiwwalikat    sahotolhkotok.
+\m top-at     tiwwa-li-kat    sa-hotolhko-tok.
+\g bed-NO M lie-1sA-SUB.SS   1sO-cough-PST
+\l Lying in bed, I coughed.
+
+\t Janat  fosh'at intaloowa.
+\m Jan-at  fosh'-at in-taloowa.
+\g Jan-Nom bird-Nom 3-sing
+\l Jan's bird sings.
+

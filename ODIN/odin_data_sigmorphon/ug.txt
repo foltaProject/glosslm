@@ -1,0 +1,200 @@
+\t Yokaana tayagala omukazi          oyo
+\m Yokaana ta-yagala o-mu-kazi          oyo
+\g John    not likes IV-ncp/sg woman this
+\l John does not like the woman
+
+\t Yokana tayagalira mukazi
+\m Yokana ta-yagalira mukazi
+\g John    not likes     woman
+\l John does not like any woman
+
+\t omusawo          namulaba
+\m o-mu-sawo          na-mu-laba
+\g IV-the doctor,    I-him-saw
+\l I saw the doctor
+
+\t 10   togula nte
+\m 10   to-gula nte
+\g      NEG+buy cow
+\l don't buy a cow
+
+\t Ente togigula
+\m E-nte to-gigula
+\g IV+cow Neg+buy
+\l don't the cow
+
+\t Njagala omudumu
+\m Njagala o-mu-dumu
+\g I want IV-ncp-jug
+\l I want the/a jug
+
+\t omusajja       ne embwaye        byagwa
+\m omu-sajja       ne em-bwaye        by-agwa
+\g 1-man            and 9-dog-his      8-fell
+\l The man and    his dog fell down.
+
+\t omusajja        yagwa ne          embwaye
+\m omu-sajja        y-agwa ne          em-bwa-ye
+\g 1-man            1-fell    with     9-dog-his
+\l The man fell   down as did his dog.
+
+\t omusajja      ne embwaye          byagwa
+\m omu-sajja      ne em-bwa-ye          by-agwa
+\g 1-man           and 9-dog-his         8-fell
+\l The man and    his dog fell down.
+
+\t omusajja      ne embwaye          baagwa
+\m omu-sajja      ne em-bwa-ye          ba-agwa
+\g 1-man           and 9-dog-his         2-fell
+\l The man and    his dog fell down.
+
+\t ekkazi,       akaana          ne        olusajja   baalabwa
+\m ek-kazi,       aka-ana          ne        olu-sajja   ba-alabwa
+\g  5-fat.woman 12-small.child and 11-tall.man           2-were.seen
+\l The fat woman, small child, and tall man were seen.
+
+\t ente,     omusu,    ekibe         ne     elyato bialabwa
+\m en-te,     omu-su,    eki-be         ne     ely-ato bi-alabwa
+\g  9-cow     3-wildcat 7-jackal        and 5-canoe 8-were.seen
+\l The cow, the wildcat, the jackal, and the canoe were seen.
+
+\t Petero yajju           amazzi              mugilaasi.
+\m Petero ya-jju           a-mazzi              mu-gilaasi.
+\g Petero filled           the water            into-glass
+\l *Petero filled water into the glass.
+
+\t Petero yajjuza         gilaasi              namazzi.
+\m Petero ya-jjuza         gilaasi              na-mazzi.
+\g Petero filled           glass                with-water
+\l Petero filled the glass with water.
+
+\t Mukasa     yasomedde           Katonga             ekitabo
+\m Mukasa     ya-som-e-dde           Katonga             ekitabo
+\g Mukasa     3G.PAST-read-APPL-past Katonga             book
+\l Mukasa read Katonga a book
+
+\t Mukasa    yatambuledde               Katonga
+\m Mukasa    ya-tambu-le-dde               Katonga
+\g Mukasa    PAST-walk-APPL-PAST           Katonga
+\l Mukasa walked for Katonga
+
+\t Katonga yakwaantidde                  Mukasa    ensawo
+\m Katonga ya-kwaant-i-dde                  Mukasa    ensawo
+\g Katonga    PAST-hold-APPL-PAST          Mukasa    bag
+\l Katonga held the pot for Mukasa
+
+\t Mukasa     yalidde                     enyama        (nga)    embisi
+\m Mukasa     ya-li-dde                     enyama        (nga)    embisi
+\g Mukasa     PAST.3sg-eat-PAST                meat                   raw
+\l Mukasa ate the meat raw
+
+\t Mukasa    yakoze                    (nga)    akooye
+\m Mukasa    ya-koze                    (nga)    akooye
+\g Mukasa    PAST.3sg-work                       tired
+\l Mukasa worked tired 
+
+\t Mukasa     yalidde                     enyama        nga      akooye
+\m Mukasa     ya-li-dde                     enyama        nga      akooye
+\g Mukasa     PAST.3sg-eat-PAST             meat                   tired
+\l Mukasa ate the meat tired 
+
+\t Enyama bagilidde             nga akooye
+\m Enyama ba-gi-li-dde             nga akooye
+\g meat       PAST.3sg-PASS-eat-PAST     tired
+\l The meat was eaten tired
+
+\t Mustafa     yakoledde               Katonga nga          mulwadde
+\m Mustafa     ya-ko-le-dde               Katonga nga          mulwadde
+\g Mustafa     past.3SG-work-APPL-past Katonga DEP sick
+\l Mustafa worked for Katonga sick 
+
+\t Mukasa       yakoledde              Katonga     nga     akooye
+\m Mukasa       ya-ko-le-dde              Katonga     nga     akooye
+\g Mukasa       past.3sg-work-APPL-past Katonga       DEP tired
+\l Mukasa worked for Katonga tired 
+
+\t Mukasa     yasomedde           Katonga             ekitabo
+\m Mukasa     ya-som-e-dde           Katonga             ekitabo
+\g Mukasa     3G.PAST-read-APPL-past Katonga             book
+\l Mukasa read Katonga a book
+
+\t Mukasa    yatambuledde               Katonga
+\m Mukasa    ya-tambu-le-dde               Katonga
+\g Mukasa    PAST-walk-APPL-PAST           Katonga
+\l Mukasa walked for Katonga
+
+\t Mukasa     yalidde                     enyama        (nga)    embisi
+\m Mukasa     ya-li-dde                     enyama        (nga)    embisi
+\g Mukasa     PAST.3sg-eat-PAST                meat                   raw
+\l Mukasa ate the meat raw
+
+\t Mukasa    yakoze                    (nga)    akooye
+\m Mukasa    ya-koze                    (nga)    akooye
+\g Mukasa    PAST.3sg-work                       tired
+\l Mukasa worked tired 
+
+\t Mukasa     yalidde                     enyama        nga      akooye
+\m Mukasa     ya-li-dde                     enyama        nga      akooye
+\g Mukasa     PAST.3sg-eat-PAST             meat                   tired
+\l Mukasa ate the meat tired 
+
+\t Enyama bagilidde             nga akooye
+\m Enyama ba-gi-li-dde             nga akooye
+\g meat       PAST.3sg-PASS-eat-PAST     tired
+\l The meat was eaten tired
+
+\t Katonga i yatambudde ne             Mukasaj nga      akooye
+\m Katonga i ya-tambudde ne             Mukasaj nga      akooye
+\g Katonga past.3sg-walk with           Mukasa      tired
+\l Katonga i walked with Mukasa j tired (üi *,j)
+
+\t Mustafa     yakoledde               Katonga nga          mulwadde
+\m Mustafa     ya-ko-le-dde               Katonga nga          mulwadde
+\g Mustafa     past.3SG-work-APPL-past Katonga DEP sick
+\l Mustafa worked for Katonga sick 
+
+\t Mukasa       yakoledde              Katonga     nga     akooye
+\m Mukasa       ya-ko-le-dde              Katonga     nga     akooye
+\g Mukasa       past.3sg-work-APPL-past Katonga       DEP tired
+\l Mukasa worked for Katonga tired 
+
+\t Omusomesa      yawandisa             Katonga ne obu nyikivu
+\m Omusomesa      ya-wandi-s-a             Katonga ne obu nyikivu
+\g teacher        3SG.PAST-write-CAUSE-FV Katonga with the dedication
+\l The teacher made Katonga WRITE WITH DEDICATION
+
+\t Omusomesa          yawandisa Katonga           ne obu nyikivu
+\m Omusomesa          ya-wandi-s-a Katonga           ne obu nyikivu
+\g  teacher       3sg.PAST-write-CAUSE-FV            Katonga with the dedication
+\l The teacher made Katonga WRITE WITH DEDICATION
+
+\t kiri kiti
+\m ki-ri ki-ti
+\g 7-be 7-like.this
+\l It is like this. It is as follows ...
+
+\t kibuuka       (bwe) kiti               ...
+\m ki-buuka       (bwe) ki-ti               ...
+\g 7-jump:PRS MA             7-like.this
+\l It jumps like this ... (suiting the action to the word [by means of gesture]).
+
+\t ekikere kibuuka              kitya
+\m eki-kere ki-buuka              ki-tya
+\g 7-frog   7-jump:PRS            7-like.what
+\l How does a frog jump?
+
+\t otyo
+\m o-tyo
+\g 2S-like.that
+\l That's so! You've said it!
+
+\t agamba nti              oludde nnyo
+\m a-gamba nti              o-ludde nnyo
+\g 1-say:PRS Q/COMP 2-be.late very
+\l He says you are very late.
+
+\t omusajja alabye Petero
+\m omusajja a-labye Petero
+\g man     3S.rel-see Peter
+\l The man who saw Peter
+

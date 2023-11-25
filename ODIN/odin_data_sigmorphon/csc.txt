@@ -1,0 +1,60 @@
+\t SANTI CARN MENJAR NO
+\m SANTI CARN MENJAR NO
+\g   Santi meat        eat     not
+\l Santi doesn't eat meat.
+
+\t INDEX1 FUMAR     hs     NORES          hs
+\m INDEX1 FUMAR     hs     NO-RES          hs
+\g I          smoke.NEG NEG
+\l I haven't smoked (at all).
+
+\t BERTA VERDURA MENJAR MAI             hs         hs
+\m BERTA VERDURA MENJAR MAI             hs         hs
+\g Berta     vegetables eat.NEG   never
+\l Berta never eats vegetables.
+
+\t INDEX1 FUMAR     hs   NORES         hs   MAI  hs
+\m INDEX1 FUMAR     hs   NO-RES         hs   MAI  hs
+\g I         smoke.NEG NEG                   never
+\l I have never smoked (at all).
+
+\t JARDÍ INDEX3 NEN+++ JUGAR PROHIBIT                      hs
+\m JARDÍ INDEX3 NEN+++ JUGAR PROHIBIT                      hs
+\g garden index       child.PL    play       forbidden
+\l The children are not allowed to play in the garden.
+
+\t ÚLTIM INDEX1 DORMIR PODERNO                  hs
+\m ÚLTIM INDEX1 DORMIR PODER-NO                  hs
+\g last       index      sleep can.NEG
+\l Lately I can't sleep.
+
+\t AHIR       INDEX1 VENIR PODERNO NORES   hs                  hs
+\m AHIR       INDEX1 VENIR PODER-NO NO-RES   hs                  hs
+\g   yesterday I           come can.NEG NEG
+\l Yesterday I wasn't able to come.
+
+\t                                                    ______________RSi
+\m                                                    ______________RS-i
+\g YESTERDAY ANNAi IX-3a 3a-TELL-3b PEDRO IX-1i ANGRY AGR-2
+\l Yesterday Anna told Pedro that she was angry at him.
+
+\t                                         __________RSi
+\m                                         __________RS-i
+\g YESTERDAY ANNAi IX-3a 3a-TELL-1 IX-1i 1-HELP-2
+\l Yesterday Anna told me that she would help me.
+
+\t                       ____________________________________RSi        _________t            __________eg:1____________________eg:front
+\m                       ____________________________________RS-i        _________t            __________eg:1____________________eg:front
+\g PUPIL ALLi THINK^SEE.refl IX-1i INTELLIGENT SUPERLATIVE       
+\l Every pupil thinks that he is the most intelligent.
+
+\t                          ____________________________________RSi        ___________t             __________eg:1____________________eg:front
+\m                          ____________________________________RS-i        ___________t             __________eg:1____________________eg:front
+\g PUPIL EACHi THINK^SEE.refl IX-1i INTELLIGENT SUPERLATIVE         
+\l Each pupil thinks that he is the most intelligent.
+
+\t                         ___________________RSi
+\m                         ___________________RS-i
+\g ANNAi IX-3 3-TELL-2 IX-1i FED-UP LOSE+++
+\l Anna told you that she is fed up with losing all the time.
+

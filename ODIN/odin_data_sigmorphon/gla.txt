@@ -1,0 +1,275 @@
+\t Bu thoigh leam sibh/Màiri a bhith a'coiseachd don sgoil
+\m Bu thoigh leam sibh/Màiri a bhith a'coiseachd don sgoil
+\g C want with.1s you/Mary prt be prt walk        to school
+\l I want you/Mary to walk to school
+
+\t Bu thoigh leam sibh/Màiri a'coiseachd don sgoil
+\m Bu thoigh leam sibh/Màiri a'coiseachd don sgoil
+\g C want with.1s you/Mary prt walk       to school
+\l I want you/Mary to walk to school
+
+\t Locative        Tha     a' mhin anns     a' phoit.
+\m Locative        Tha     a' mhin anns     a' phoit.
+\g                 BE      the oatmeal      in        the pot
+\l The oatmeal is in the pot.
+
+\t Existential     Tha       min              anns    a'phoit
+\m Existential     Tha       min              anns    a'phoit
+\g                 BE        oatmeal in       the pot
+\l There   is oatmeal in the pot
+
+\t Possessive      Tha       an peann aig    Màiri
+\m Possessive      Tha       an peann aig    Màiri
+\g                 BE        the pen at      Mary
+\l Mary    has the pen
+
+\t Is      tidsear Dàibhidh.
+\m Is      tidsear Dàibhidh.
+\g Cop     teacher David
+\l David is a teacher.
+
+\t s       e       Dàibhidh        an        tidsear
+\m s       e       Dàibhidh        an        tidsear
+\g Cop     he      David           the       teacher
+\l David is the teacher.
+
+\t Th`                            or
+\m Th`                            or
+\g Arrive-[past] the woman      big and sat     she down.
+\l The woman arrived and she sat down.
+
+\t Dh'fh` ag     mi e
+\m Dh'fh` ag     mi e
+\g [past]-leave I him
+\l I left him.
+
+\t Is     faicilleach      Calum.
+\m Is     faicilleach      Calum.
+\g IS     careful          Calum
+\l Calum is a careful person (by nature).
+
+\t Tha     Calum            faicilleach.
+\m Tha     Calum            faicilleach.
+\g  BI     Calum            careful
+\l Calum is (being) careful.
+
+\t Tha        Calum thidsear
+\m Tha        Calum thidsear
+\g  be-PRES    Calum teacher
+\l Calum    is a teacher
+
+\t Tha       Calum an thidsear
+\m Tha       Calum an thidsear
+\g be-PRES    Calum the teacher
+\l Calum    is the teacher
+
+\t Tha       Calum anns an thidsear
+\m Tha       Calum anns an thidsear
+\g be-PRES    Calum in the teacher
+\l Calum    is the teacher
+
+\t Is       an thidsear Calum
+\m Is       an thidsear Calum
+\g COP-PRES the teacher Calum
+\l Calum is the teacher
+
+\t  Is      mòr duine
+\m  Is      mòr duine
+\g COP-PRES big man
+\l A man is big
+
+\t Bha        mi      ag       ràdh gun do          bhuaíl í        e
+\m Bha        mi      ag       ràdh gun do          bhuaíl í        e
+\g Was        I       ASP saying that       prt     struck she      him
+\l I was saying that she hit him.
+
+\t Cò           bha     thu      ag   ràdh a          bhuail í        ____
+\m Cò           bha     thu      ag   ràdh a          bhuail í        ____
+\g   who        were you         ASP saying that      struck she
+\l Who were you saying that she struck?
+
+\t Phóg Liam      Séan.
+\m Phóg Liam      Séan.
+\g kissed William John
+\l William kissed John.
+
+\t Phóg Seán Liam.
+\m Phóg Seán Liam.
+\g Kissed John William
+\l John kissed William.
+
+\t Phóg an fear an mhuc.
+\m Phóg an fear an mhuc.
+\g kissed the man the pig
+\l The man kissed the pig.
+
+\t Chonaic mé an mhuc mhór.
+\m Chonaic mé an mhuc mhór.
+\g Saw       I the pig big
+\l I saw the big pig.
+
+\t Rince     an bheán.
+\m Rince     an bheán.
+\g Danced    the woman
+\l The woman danced.
+
+\t Chonaic Eoghan Siobhan.
+\m Chonaic Eoghan Siobhan.
+\g   saw Eoghan Siobhan ´
+\l Eoghan saw Siobhan.
+
+\t Bha mi ag ràdh gun do bhuail i       e
+\m Bha mi ag ràdh gun do bhuail i       e
+\g was I ASP saying that PRT struck she him
+\l I was saying that she hit him.
+
+\t Cò bha thu         ag    ràdh      a            bhuail   i     tco
+\m Cò bha thu         ag    ràdh      a            bhuail   i     tco
+\g Who were you ASP saying            that         struck   she
+\l Who were you saying that she hit
+
+\t tha     Calum air na craobhan a      ghearradh
+\m tha     Calum air na craobhan a      ghearradh
+\g be.Pres Calum Asp the trees.Dir OAgr cut.VN
+\l Calum has cut the trees.
+
+\t tha     Calum a' ghearradh nan craobhan
+\m tha     Calum a' ghearradh nan craobhan
+\g be.Pres Calum Asp cut.VN       the trees.Gen
+\l Calum is cutting the trees (no tree has necessarily been cut yet).
+
+\t tha      mi air am ball     iarraidh
+\m tha      mi air am ball     iarraidh
+\g be.Pres I Asp the ball.Dir want.VN
+\l I have acquired the ball.
+
+\t tha     mi ag iarraidh a'bhuill
+\m tha     mi ag iarraidh a'bhuill
+\g be.Pres I Asp want.VN the ball.Gen
+\l I want the ball.
+
+\t Dh'fhàg Dàibhidh, tha mi cinnteach, Sabhal Mòr an dè
+\m Dh'fhàg Dàibhidh, tha mi cinnteach, Sabhal Mòr an dè
+\g left-past David, be-pres I sure, Sabhal Mòr yesterday
+\l David, I'm sure, left Sabhal Mòr yesterday
+
+\t Dh'fhàg, tha mi cinnteach, Dàibhidh Sabhal Mòr an dè
+\m Dh'fhàg, tha mi cinnteach, Dàibhidh Sabhal Mòr an dè
+\g left-past, be-pres I sure, David Sabhal Mòr yesterday
+\l David, I'm sure, left Sabhal Mòr yesterday
+
+\t Bhuailinn (*mi) an cat seo, mas urrain dhomh
+\m Bhuailinn (*mi) an cat seo, mas urrain dhomh
+\g       hit-cond-1s (*I) the cat this, if+Cop ability to-me
+\l I would hit this cat, if I could
+
+\t Bhuailinn (*mi)se is tusa an cat seo
+\m Bhuailinn (*mi)-se is tusa an cat seo
+\g    hit-cond-1s (*I)-Emph and you-Emph the cat this
+\l You and I would hit this cat
+
+\t a. 's e mise a thubhairt thu a sgriobhadh an leabhar
+\m a. 's e mise a thubhairt thu a sgriobhadh an leabhar
+\g  Cleft I-emph that said you that write-cond the book
+\l It's me that you said would write the book
+
+\t  Feumaidh mi na leobharaichean a sgrìobhadh
+\m  Feumaidh mi na leobharaichean a sgrìobhadh
+\g Must-pres I the books Agr write-VN
+\l I must write the book
+
+\t  's e na leabhraichean sin nach feumaidh sinn an leughadh
+\m  's e na leabhraichean sin nach feumaidh sinn an leughadh
+\g Cleft-pres the books Dem that-not must we Agr-pl read
+\l Its these books that we must not read
+
+\t Chonnaic mi e an dè
+\m Chonnaic mi e an dè
+\g  Saw I him-W yesterday
+\l I saw it yesterday
+
+\t Chonaic mi do mhàthair an dè
+\m Chonaic mi do mhàthair an dè
+\g   Saw I your mother yesterday
+\l I saw your mother yesterday
+
+\t taigh mòr ùr UAINE
+\m taigh mòr ùr UAINE
+\g     house big new green
+\l A big new green house
+
+\t a. ?Mharbh mi e an dè
+\m a. ?Mharbh mi e an dè
+\g  Kill-past I him yesterday
+\l I killed him yesterday
+
+\t Mharbh mi e gu luath
+\m Mharbh mi e gu luath
+\g Kill-past I him quickly
+\l I killed him quickly
+
+\t Chunnaic Mòrag do màithair ann an Lunnain an dè
+\m Chunnaic Mòrag do màithair ann an Lunnain an dè
+\g saw      Morag your mother     in the London yesterday
+\l Morag saw your mother in London yesterday.
+
+\t Chunnaic Mòrag ann an Lunnain an dè i
+\m Chunnaic Mòrag ann an Lunnain an dè i
+\g saw     Morag in the London yesterday her
+\l Morag saw her in London yesterday.
+
+\t Bhasaich Mòrag ann an Lunnain an dè
+\m Bhasaich Mòrag ann an Lunnain an dè
+\g died     Morag in the London yesterday
+\l Morag died in London yesterday.
+
+\t Tha a' mhin              anns a' phoit.
+\m Tha a' mhin              anns a' phoit.
+\g BE     the oatmeal       in    the pot
+\l The oatmeal is in the   pot.
+
+\t Tha      min             anns a'phoit
+\m Tha      min             anns a'phoit
+\g BE       oatmeal         in     the pot
+\l There   is oatmeal in the pot
+
+\t Tha      peann aig       Màiri
+\m Tha      peann aig       Màiri
+\g BE       pen     at      Mary
+\l Mary    has apen".
+
+\t Tha an peann aig        Màiri
+\m Tha an peann aig        Màiri
+\g BE    the pen at        Mary
+\l Mary has the pen
+
+\t tha       Calum a' ghearradh nan craobhan
+\m tha       Calum a' ghearradh nan craobhan
+\g be.Pres   Calum Asp cut.VN the trees.Gen
+\l Calum    is cutting the trees (no tree has necessarily been cut yet).
+
+\t tha        mi air am ball      iarraidh
+\m tha        mi air am ball      iarraidh
+\g   be.Pres I Asp the ball.Dir want.VN
+\l I have acquired the ball.
+
+\t tha       mi ag iarraidh a'bhuill
+\m tha       mi ag iarraidh a'bhuill
+\g  be.Pres I Asp want.VN the ball.Gen
+\l I want the ball.
+
+\t Chonaic Eoghan Siobhan.
+\m Chonaic Eoghan Siobhan.
+\g   saw Eoghan Siobhan ´
+\l Eoghan saw Siobhan.
+
+\t Is toil leam filmichean.
+\m Is toil leam filmichean.
+\g COP.Pres pleasure with-me films
+\l I like films / films are pleasing to me
+
+\t Tha gaol aig Catriona air Padraig.
+\m Tha gaol aig Catriona air Padraig.
+\g Be.Pres love at Catriona on Padraig
+\l Catriona loves Padraig
+

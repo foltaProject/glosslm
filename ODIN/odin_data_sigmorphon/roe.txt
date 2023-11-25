@@ -1,0 +1,10 @@
+\t a to aa saula
+\m a to a-a saula
+\g I IRR S:1S-eat banana
+\l I shall eat banana
+
+\t a to           aa saula
+\m a to           a-a saula
+\g I IRR*ALIS S:1S-eat banana
+\l I shall eat banana
+

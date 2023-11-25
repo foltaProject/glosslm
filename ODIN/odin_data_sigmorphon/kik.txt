@@ -1,0 +1,105 @@
+\t Karioki ç:nEirE              gari dereba.
+\m Karioki ç:n-E-irE              gari dereba.
+\g Karioki SBJ.find-APPL-PAST car driver
+\l Karioki found a driver for the car.
+
+\t Karioki ç:nEirE              dereba gari.
+\m Karioki ç:n-E-irE              dereba gari.
+\g Karioki SBJ.find-APPL-PAST driver car
+\l Karioki found a car for the driver.
+
+\t Moarimo neahEiruç                ihoa    ne mo:do.
+\m Moarimo ne-a-hE-ir-uç                ihoa    ne mo:do.
+\g teacher     FOC-SBJ-give-PAST-PASS flower by man
+\l The teacher was given the flower by the man.
+
+\t Ihoa     nerehEiruç         moarimo ne mo:do.
+\m Ihoa     ne-re-hE-ir-uç         moarimo ne mo:do.
+\g flower FOC-SBJ-give-PAST-PASS teacher        by man
+\l The flower was given to the teacher by the man.
+
+\t mondo        orea     Kama.! u aOn!´ E         KaanakE mbErE yakE
+\m mo-ndo        o-rea     Kama.! u a-On-!´ E         KaanakE mbErE ya-kE
+\g Class-person Pref-DEM K.SubjPref-see-Tense K.front of-Poss
+\l the person that Kamau saw Kaanake in front of him
+
+\t          a! tEm´ E      mote .
+\m          a-! tEm-´ E      mo-te .
+\g Karioki SubjPref-cut-Tense Class-tree
+\l Karioki cut a tree.
+
+\t  ´        otEm´ E
+\m  ´        o-tEm-´ E
+\g Focus-who Prefix-cut-Tense Class-tree
+\l Who cut a tree?
+
+\t ow!          eciiria         ´       Ngo e au´                             t oOn´ E                            KaanakE ] ] ?
+\m o-w!          eciiri-a         ´       Ngo e a-u-´                             t o-On-´ E                            KaanakE ] ] ?
+\g SubjPref-Tense think-Tense     Focus-who Ngugi SubjPref-say-Tense     Comp          Prefix-see-Tense                 Kaanake      
+\l Who do you think Ngugi said saw Kaanake?
+
+\t KaanakE ] ] ?
+\m KaanakE ] ] ?
+\g Kaanake
+\l Who do you think Ngugi said saw Kaanake?
+
+\t mondo        orea     Kama.! u aOn!´ E
+\m mo-ndo        o-rea     Kama.! u a-On-!´ E
+\g Class-person Pref-DEM K.SubjPref-see-Tense K.front of-Poss
+\l the person that Kamau saw Kaanake in front of him
+
+\t b. *nó.o    á!tE@mírE@ mote&!?
+\m b. *nó.o    á-!tE@m-írE@ mote&!?
+\g   who-CL1 CL1-cut TNS tree
+\l Who cut a tree?
+
+\t Karioki     ç:nEirE             gari dereba.
+\m Karioki     ç:n-E-irE             gari dereba.
+\g Karioki     SBJ.find-APPL-PAST     car driver
+\l Karioki   found a driver for the car.
+
+\t Karioki     ç:nEirE             dereba gari.
+\m Karioki     ç:n-E-irE             dereba gari.
+\g Karioki     SBJ.find-APPL-PAST     driver  car
+\l Karioki   found a car for the driver.
+
+\t Moarimo ne      ahEiruç            ihoa     ne     mo:do.
+\m Moarimo ne      a-hE-ir-uç            ihoa     ne     mo:do.
+\g teacher FOC SBJ-give-PAST-PASS flower by               man
+\l The teacher was given the flower by the man.
+
+\t Ihoa ne rehEiruç                moarimo      ne     mo:do.
+\m Ihoa ne re-hE-ir-uç                moarimo      ne     mo:do.
+\g flower FOC SBJ-give-PAST-PASS teacher           by     man
+\l The flower was given to the teacher by the man.
+
+\t N´oo   on´ ´ o ?
+\m N´oo   o-n-´ ´ o ?
+\g  fp-who pp-see-t who
+\l Who saw who?
+
+\t N´ i ´  weci´            u ir ate Kama.u a´n!´ ´ ti ?
+\m N´ i ´  w-eci´            u ir ate Kama.u a-´n-!´ ´ ti ?
+\g fp-who sp-t-think-t N.sp-say-t that K.sp-see-t
+\l Who do you think Ngugi said that Kamau saw?
+
+\t  ek´           u ir ate Kama.u nea´n!´! r´ Kaanak´! ti ?
+\m  e-k´           u ir ate Kama.u ne-a-´n-!´! r´ Kaanak´! ti ?
+\g fp-where N.sp-say-t that K.fp-sp-see-t K.
+\l Where did Ngugi say (that) Kamau saw Kanake?
+
+\t Nooi Ngo e a´ciriri hi´ i noo oni!r´ ti ?
+\m Nooi Ngo e a-´ciri-ri hi´ i noo o-n-i!r´ ti ?
+\g             sp-wonder-t           pp-see-t
+\l Who did Ngugi wonder who saw?
+
+\t N´ Kaanak´ n´ K´      ´ oring´ ´
+\m N´ Kaanak´ n´ K´      ´ o-ring-´ ´
+\g  fp-K.        fp-K.        pp-hit-t
+\l It's Kanake (that) it's Kamau (that) hit.
+
+\t Noo                ´ oring!´ ´ ?
+\m Noo                ´ o-ring-!´ ´ ?
+\g  fp-who fp-K.        pp-hit-t
+\l Who is it Kamau (that) hit?
+

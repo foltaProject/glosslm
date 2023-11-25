@@ -1,0 +1,2870 @@
+\t jaun kyaa so ctaa hai merii kisse      baat karegi.
+\m jaun kyaa so ctaa hai merii kis-se      baat karegi.
+\g John what thinking that Mary who-with talk will-do
+\l Who is John thinking that Mary will talk with?
+
+\t har bacaa kyaa so ctaa hai ki vo jaayegaa yaa nahiiN.
+\m har bacaa kyaa so ctaa hai ki vo jaayegaa yaa nahiiN.
+\g every child what think-PR that he go-F         or not
+\l What do es every child think: will he go or not?
+
+\t uslaokeekee paas mera kutta hai
+\m us-laokee-kee paas mera kutta hai
+\g that-boy-G near my dog is
+\l That boy has my dog.
+
+\t uslaRkeekee    paas     mera kutta          hai
+\m us-laRkee-kee    paas     mera kutta          hai
+\g That-boy-G       near     my      dog         is
+\l That boy has my dog.
+
+\t Raammsg roTiifsg khaanaamsg caahtaamsg thaamsg.
+\m Raammsg roTiifsg khaanaamsg caahtaamsg thaamsg.
+\g Ram        bread    eat.INF     want.IMPF be.PAST
+\l Ram habitually wanted to eat bread
+
+\t Raam ne roTiifsg khaaniifsg caahiif      thiifsg.
+\m Raam ne roTiifsg khaaniifsg caahiif      thiifsg.
+\g Ram ERG bread       eat.INF    want.PERF be.PAST
+\l Ram had wanted to eat bread
+
+\t Raam ne roTiifsg khaayiif lagtiif               thiifsg.
+\m Raam ne roTiifsg khaayiif lagtiif               thiifsg.
+\g Ram ERG bread        eat.PERF seem IMPF         be.PAST
+\l Ram seemed to have eaten bread
+
+\t Raam ne billiifsg aatiif      dekhiif           thiifsg.
+\m Raam ne billiifsg aatiif      dekhiif           thiifsg.
+\g Ram ERG cat       come.IMPF see.PERF            be.PAST
+\l Ram had seen a cat coming
+
+\t Siitaafsg ne chiiNkaamsg lagtaamsg thaamsg.
+\m Siitaafsg ne chiiNkaamsg lagtaamsg thaamsg.
+\g Sita ERG      sneeze.PERF seem.IMPF be.PAST
+\l Sita seemed to have sneezed
+
+\t niinaane         baalikaako uthaayaa.
+\m niinaa-ne         baalikaa-ko uthaa-y-aa.
+\g Nina.F-ERG        girl-ACC      lift-PERF-M
+\l Nina lifted up a/the girl.
+
+\t                   baalikaako uthaaegii.    niinaa
+\m                   baalikaa-ko uthaa-eg-ii.    niinaa
+\g Nina.F.NOM        girl-ACC      lift-FUT-F
+\l Nina will lift up a/the girl.
+
+\t niinaane        roTii            khaayii.
+\m niinaa-ne        roTii            khaa-y-ii.
+\g Nina.F-ERG       bread.F.NOM eat-PERF-F
+\l Nina ate bread.
+
+\t niinaa           kelaa               khaaegii.
+\m niinaa           kelaa               khaa-eg-ii.
+\g Nina.F.NOM       banana.M.NOM        eat-FUT-F
+\l Nina will eat a banana.
+
+\t tus`aarko    caand      dikhaa.
+\m tus`aar-ko    caand      dikh-aa.
+\g Tushar-ACC moon.M.NOM see-PERF-M
+\l Tushar saw the moon
+
+\t Raviine      baalakko/*baalak         baccaa/*bacceko           diyaa.
+\m Ravii-ne      baalak-ko/*baalak         baccaa/*bacce-ko           diy-aa.
+\g Ravi-ERG boy-ACC/boy.NOM                child.NOM/*child-ACC       give.PERF-M
+\l Ravi gave a/the child to a/the boy.
+
+\t Raviine      gaayko/*gaay             kelaa/*keleko                khilaayaa
+\m Ravii-ne      gaay-ko/*gaay             kelaa/*kele-ko                khilaay-aa
+\g Ravi-ERG cow-ACC/cow.NOM                banana.NOM/*banana-ACC        eat.CAUS.PERF-M
+\l Ravi fed a/the cow a/the banana.
+
+\t Locative  maNiN         hindustaanmeNeN thaa
+\m Locative  maNiN         hindustaan-meNeN thaa
+\g           I India-in            BE.sg.msc.pst
+\l I was in India
+
+\t Existential kamreemeNeN aadmiihai
+\m Existential kamree-meNeN aadmiihai
+\g             room-in     man    BE.3sg.msc.pres
+\l In the room is a man
+
+\t Possessive larkeekee      paas kattaa hai
+\m Possessive larkee-kee      paas kattaa hai
+\g                Boy-Obl-G near       dog BE.3sg.msc.pres
+\l The boy has a dog. (Lit,"Near the boy is a dog").
+
+\t uslaRkeekee paas         mera kutta         hai
+\m us-laRkee-kee paas         mera kutta         hai
+\g That-boy-G        near     my        dog      is
+\l That boy has my dog.
+
+\t b. agar Meera kal do baje bhaashaN de rahii hotii...
+\m b. agar Meera kal do baje bhaashaN de rahii ho-tii...
+\g     if M yesterday 2 o'clock speech give prog be-HAB
+\l if Meera had been giving a speech yesterday at 2:00...
+
+\t Sitaane kisiikobhii nah~~ dekhaa
+\m Sitaa-ne kisii-ko-bhii nah~~ dekhaa
+\g Sita-erg anyone          not saw
+\l Sita didn't see anyone.
+
+\t koibhii nah~~ aayaa
+\m koi-bhii nah~~ aayaa
+\g anyone not      came
+\l Anyone didn't come.
+
+\t raam aayaa nah~~ ii
+\m raam aayaa nah~~ ii
+\g Ram came not
+\l Ram didn't come.
+
+\t raam ti nah~~ aayaai
+\m raam ti nah~~ aayaai
+\g Ram      not came
+\l Ram didn't come.
+
+\t sab logone      kisiiko   maaraa
+\m sab logo-ne      kisii-ko   maaraa
+\g all people-erg someone-acc beat
+\l Everyone beat someone.' >  or  >
+
+\t koi      nah~~ aayaa
+\m koi      nah~~ aayaa
+\g someone not came
+\l Someone didn't come.' > ¬ or ¬ >
+
+\t koiibhii aayaa
+\m koii-bhii aayaa
+\g anyone     came
+\l Anyone came.
+
+\t koiibhii nah~~ aayaa
+\m koii-bhii nah~~ aayaa
+\g anyone not came
+\l No-one came.
+
+\t agar tumne injekshan lagnepar uf             kii to  mai tumhe        darpok samjhuungaa 
+\m agar tum-ne injekshan lagne-par uf             kii to  mai tum-he        darpok samjhuun-gaa 
+\g if       you-erg injection apply-on onom do then I            you-to     coward consider-will
+\l I'll consider you a coward if you make even a sound when you get the injection.
+
+\t usne      sabkuch bec daalaa lekin vimlaane uf               naa kii
+\m us-ne      sab-kuch bec daalaa lekin vimlaa-ne uf               naa kii
+\g (s)he-erg everything sold gave        but Vimla-erg onom not did
+\l (S)he sold off everything, but Vimla didn't show even the slightest distress.
+
+\t ganitme          fel honepar        kamhii vidyaarthii ufbhii               kartee ha~ i
+\m ganit-me          fel hone-par        kam-hii vidyaarthii uf-bhii               kartee ha~ i
+\g mathematics-in fail become-on few-encl students           onom-even             do      are 
+\l It matters to few students if they fail in mathematics.
+
+\t agar tumne injekshan lagnepar ufbhii            kii to   mai     tumhe darpok samjhuungaa 
+\m agar tum-ne injekshan lagne-par uf-bhii            kii to   mai     tum-he darpok samjhuun-gaa 
+\g if      you-erg injection apply-on onom-even do then I              you-to coward consider-will
+\l I'll consider you a coward if you make even a sound when you get the injection.
+
+\t usne      sabkuch bec daalaa lekin vimlaane ufbhii               naa     kii
+\m us-ne      sab-kuch bec daalaa lekin vimlaa-ne uf-bhii               naa     kii
+\g (s)he-erg everything sold gave        but Vimla-erg onom-even not            did
+\l (S)he sold off everything, but Vimla didn't show even the slightest distress.
+
+\t kuchbhii maange koiibhii agar
+\m kuch-bhii maange koii-bhii agar
+\g anything asks        anyone if
+\l If anyone asks for anything ... 
+
+\t siitaane laRkaa dekhaa
+\m siitaa-ne laRkaa dekhaa
+\g   Sita-erg boy-m saw-m
+\l Sita saw the boy.
+
+\t siitaa laRkaa dekh rahii hE
+\m siitaa laRkaa dekh rahii hE
+\g Sita-erg boy-m see-prog-be-f
+\l Sita is looking for a (suitable) boy (to marry).
+
+\t siitaane kOni sii tasviir uskei maalikko lOTaa dii
+\m siitaa-ne kOni sii tasviir uskei maalik-ko lOTaa dii
+\g     Sita-erg which book(DO)(f) its owner(IO) returned
+\l Which book did Sita return to its owner?
+
+\t siitaane kOni saa baccaa apnei pitaako dikhaayaa
+\m siitaa-ne kOni saa baccaa apnei pitaa-ko dikhaayaa
+\g     Sita-erg which child(DO)(m) self's father(IO) show-per
+\l Which child did Sita show to self's father?
+
+\t pulisne jaldiise cor pakaR liyaa
+\m pulis-ne jaldii-se cor pakaR liyaa
+\g     police-erg quickly thief(m) arrested
+\l The police quickly arrested the thief.
+
+\t pulisne cor jaldiise pakaR liyaa
+\m pulis-ne cor jaldii-se pakaR liyaa
+\g  police-erg thief(m) quickly arrested
+\l The police arrested the thief quickly.
+
+\t kutta aam      jaanvar hai
+\m kutta aam      jaanvar hai
+\g dog common animal be-PR
+\l The dog is a common animal.
+
+\t kutta bhauNktaa hai
+\m kutta bhauNktaa hai
+\g dog bark-PR
+\l The dog barks.
+
+\t anu kitaab paRh rahii hai
+\m anu kitaab paRh rahii hai
+\g Anu book read-PROG-PR
+\l Anu is reading a book.
+
+\t ek baccaai aayaa. baccaai bahut khush lagaa
+\m ek baccaai aayaa. baccaai bahut khush lagaa
+\g one child      came child       very happy seemed
+\l A child came. The child seemed very happy.
+
+\t anu kitaab nahiiN paRhegii
+\m anu kitaab nahiiN paRhegii
+\g Anu book not      read-F
+\l Anu won't read any book.
+
+\t anu ek kitaab nahiiN paRhegii
+\m anu ek kitaab nahiiN paRhegii
+\g Anu one book not read-F
+\l There's a book Anu will not read a book
+
+\t anu kitaab paRhnaa cahtii hai
+\m anu kitaab paRhnaa cahtii hai
+\g Anu book read-INF want-PR
+\l Anu wants to read a book (no particular book).
+
+\t anu ek kitaab paRhnaa cahtii hai
+\m anu ek kitaab paRhnaa cahtii hai
+\g Anu one book read-INF want-PR
+\l Anu wants to read a (particular) book.
+
+\t  anu puure din machhlii pakaRtii rahii
+\m  anu puure din machhlii pakaRtii rahii
+\g Anu whole day fish       catch-PAST
+\l Anu kept catching fish the whole day.
+
+\t anu puure din ek machhliiko pakaRtii rahii
+\m anu puure din ek machhlii-ko pakaRtii rahii
+\g Anu whole day one fish-ACC          catch-PAST
+\l Anu kept catching a fish the whole day.
+
+\t kitaab anu paRh rahii hai
+\m kitaab anu paRh rahii hai
+\g  book Anu read-PROG-PR
+\l Anu is reading the book.
+
+\t tofaa anune     raviiko bhejaa hai
+\m tofaa anu-ne     ravii-ko bhejaa hai
+\g gift Anu-ERG Ravi-ACC send-PERF-PAST
+\l Anu has sent Ravi the gift.
+
+\t anu paRh rahii hai, kitaab
+\m anu paRh rahii hai, kitaab
+\g  Anu read-PROG-PR book
+\l Anu is reading a/the book.
+
+\t anune     raviiko bhejaa hai   tofaa
+\m anu-ne     ravii-ko bhejaa hai   tofaa
+\g Anu-ERG Ravi-ACC send-PERF-PAST gift
+\l Anu has sent Ravi a/the gift.
+
+\t KITAAB anu paRh rahii hai
+\m KITAAB anu paRh rahii hai
+\g  book      Anu read-PROG-PR
+\l Anu is reading a book (not a newspaper).
+
+\t TOFAA anune        raviiko bhejaa hai
+\m TOFAA anu-ne        ravii-ko bhejaa hai
+\g gift    Anu-ERG Ravi-ACC send-PERF-PAST
+\l Anu has sent Ravi a gift (not something else).
+
+\t anu kyaa kar rahii hai?
+\m anu kyaa kar rahii hai?
+\g  Anu what do-PROG-PR
+\l What is Anu doing?
+
+\t anu kitaab paRh rahii hai
+\m anu kitaab paRh rahii hai
+\g  Anu book read-PROG-PR
+\l Anu is reading the book.
+
+\t kitaab anu paRh rahii hai
+\m kitaab anu paRh rahii hai
+\g   book Anu read-PROG-PR
+\l Anu is reading the book.
+
+\t aaj kaa     prograam pesh kar rahe haiN, ek bahut mashoor kalaakaar
+\m aaj kaa     prograam pesh kar rahe haiN, ek bahut mashoor kalaakaar
+\g today-GEN program present-PROG-PR a very famous artist
+\l A very famous artist is presenting today's program.
+
+\t KITAAB anu paRh rahii hai (akhbaar nahiiN)
+\m KITAAB anu paRh rahii hai (akhbaar nahiiN)
+\g  book      Anu read-PROG-PR (newspaper not)
+\l Anu is reading a BOOK (not a newspaper).
+
+\t kitaab ANU paRh rahii hai (ravi nahiiN)
+\m kitaab ANU paRh rahii hai (ravi nahiiN)
+\g book Anu read-PROG-PR (Ravi not)
+\l Anu is reading a BOOK (not Ravi).
+
+\t jhuuTh anune       bhii bolaa
+\m jhuuTh anu-ne       bhii bolaa
+\g lie     Anu-ERG also spoke
+\l Anu also told a lie/lied.
+
+\t faislaa ham *(roz)       kartee haiN
+\m faislaa ham *(roz)       kartee haiN
+\g decisions we everyday do-PR-PROG
+\l We make decisions everyday.
+
+\t jhuuTh anu *(aksar) boltii hai
+\m jhuuTh anu *(aksar) boltii hai
+\g   lie    Anu often speak-PR
+\l Anu often tells lies.
+
+\t Mombatt¯=to                         lekin abh machis
+\m Mombatt¯=to                         lekin abh machis
+\g the candle.F.NOM-TOP found.PERF.F.SG but now match.NOM lost go-PERF.PL
+\l The candle was found but now the matches are lost.
+
+\t Radh a=ne=h¯          bacch o=ko kahdan¯ sunay¯
+\m Radh a=ne=h¯          bacch o=ko kahdan¯ sunay¯
+\g Radhaa-ERG-EXCL FOC children-ACC story.F make hear.PEF.F.SG
+\l It was (only) Radha who told the children a story
+
+\t Nadya          [lahor or karach i]=se hE.
+\m Nadya          [lahor or karach i]=se hE.
+\g Nadya.F.SG.NOM Lahore and Karachi INST be.PRES.3.SG
+\l Nadya is from Lahore and Karachi.
+
+\t Siitaane Hariko [kitaab(ko) khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab(-ko) khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book(-acc) buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Sitane Hariko [kitaab(ko) khariidneko] kahaa
+\m Sita-ne Hari-ko [kitaab(-ko) khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [khariidneko kitaab] kahaa
+\m Siitaa-ne Hari-ko [khariid-ne-ko kitaab] kahaa
+\g   Sita-erg Hari-dat buy-inf         book told
+\l Sita told Hari to buy a/the book.
+
+\t Rucine Siitaako [Hariko [kitaab(ko) khariidneko] bolneko] kahaa
+\m Ruci-ne Siitaa-ko [Hari-ko [kitaab(-ko) khariid-ne-ko] bolne-ko] kahaa
+\g Ruci-erg Sita-dat Hari-dat book(-acc) buy-inf          tell-inf told
+\l Ruci told Sita to tell Hari to buy the book.
+
+\t Siitaane    Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne    Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg     Hari-dat book buy-inf            told
+\l Sita told   Hari to buy a/the book.
+
+\t Siitaane    Hariko [kitaabko khariidneko] kahaa
+\m Siitaa-ne    Hari-ko [kitaab-ko khariid-ne-ko] kahaa
+\g Sita-erg     Hari-dat book-acc buy-inf            told
+\l Sita told   Hari to buy the book.
+
+\t Siitaane    Hariko [Raviko [kitaab khariidneko] bolneko] kahaa
+\m Siitaa-ne    Hari-ko [Ravi-ko [kitaab khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg     Hari-dat Ravi-dat book buy-inf            tell-inf     told
+\l Sita told   Hari to tell Ravi to buy a/the book.
+
+\t Siitaane    Hariko [Raviko [kitaabko khariidneko] bolneko] kahaa
+\m Siitaa-ne    Hari-ko [Ravi-ko [kitaab-ko khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg     Hari-dat Ravi-dat book-acc buy-inf            tell-inf     told
+\l Sita told   Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [kitaabko khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab-ko khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [Raviko [kitaab khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book buy-inf           tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [Raviko [kitaabko khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab-ko khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf          tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t siitaane hariko    kitaab khariidneko kahaa
+\m siitaa-ne hari-ko    kitaab khariid-ne-ko kahaa
+\g Sita-erg Hari-dat    book buy-inf           told
+\l Sita told Hari to   buy a/the book.
+
+\t hariko siitaane    kitaab khariidneko kahaa
+\m hari-ko siitaa-ne    kitaab khariid-ne-ko kahaa
+\g Hari-dat Sita-erg    book buy-inf           told
+\l Sita told Hari to   buy a/the book.
+
+\t siitaane hariko    kitaab(ko) khariidneko kahaa
+\m siitaa-ne hari-ko    kitaab-(ko) khariid-ne-ko kahaa
+\g Sita-erg Hari-dat    book-acc buy-inf            told
+\l Sita told Hari to   buy the book.
+
+\t hariko siitaane    kitaab(ko) khariidneko kahaa
+\m hari-ko siitaa-ne    kitaab-(ko) khariid-ne-ko kahaa
+\g Hari-dat Sita-erg    book-acc buy-inf            told
+\l It was Hari who     Sita told to buy the book.
+
+\t anilne    ilaako   [yaad]      nahîõïõ [kiyaa]
+\m anil-ne    ilaa-ko   [yaad]      nahîõïõ [kiyaa]
+\g Anil-E(M) Ila-ACC(F) memory-N(F) not     do-PERF.M
+\l Anil didn't remember Ila
+
+\t anilne    ilaako nahîõïõ [yaad       kiyaa]
+\m anil-ne    ilaa-ko nahîõïõ [yaad       kiyaa]
+\g Anil-E(M) Ila-A(F) not     memory-N(F) do-PERF.M
+\l Anil didn't remember Ila
+
+\t anilne      ilaakii [prasÈamsaa] nahîõïõ [kiyaa]
+\m anil-ne      ilaa-kii [prasÈamsaa] nahîõïõ [kiyaa]
+\g Anil-E(MA) Ila-G(F) praise-N(F) not        do-PERF.M
+\l Anil didn't praise Ila
+
+\t anilne     ilaakii nahîõïõ [prasÈamsaa kiyaa]
+\m anil-ne     ilaa-kii nahîõïõ [prasÈamsaa kiyaa]
+\g   Anil-E(M) Ila-G(F) not       praise-N(F) do-PERF.M
+\l Anil didn't praise Ila
+
+\t anu kitaab paRh rahii hai
+\m anu kitaab paRh rahii hai
+\g Anu book read-PROG-PR
+\l Anu is reading a book.
+
+\t anu kitaab nahiiN paRhegii
+\m anu kitaab nahiiN paRhegii
+\g Anu book not           read-F
+\l Anu won't read any book.
+
+\t anu kitaabi paRh rahii hai. #voi bahut acchii hai
+\m anu kitaabi paRh rahii hai. #voi bahut acchii hai
+\g Anu book read Pr Prog.It             very good be-be
+\l Anu is reading a booki . Iti is very good.
+
+\t a ilaane    ma!a!ko        baccaa/*bacceko          diyaa.
+\m a ilaa-ne    ma!a!-ko        baccaa/*bacce-ko          diyaa.
+\g   Ila-ERG mother-DAT child.NOM/*child-ACC              give,PERF
+\l Ila gave a/the child to the mother
+
+\t ilaane     ma!a!ko       baccaa/ *bacceko                 detaa            hai.
+\m ilaa-ne     ma!a!-ko       baccaa/ *bacce-ko                 detaa            hai.
+\g Ila.NOM mother-ACC child.NOM child-ACC                       give.IMP   ERF   be.PRES
+\l Ila gives a/the child to the mother
+
+\t ma!a!ko     baccaa         diyaa     gayaa.
+\m ma!a!-ko     baccaa         diyaa     gayaa.
+\g mother-ACC child.NOM        give.PERF go.PERF
+\l the mother was given a/the child
+
+\t tus"aarko   caand
+\m tus"aar-ko   caand
+\g Tushar-ACC moon.NOM see-PERF
+\l Tushar saw the moon
+
+\t ilaane      ek bacceko uthaayaa.
+\m ilaa-ne      ek bacce-ko uthaayaa.
+\g Ila-ERG one child-ACC lift.PERF
+\l Ila lifted a child
+
+\t anil       (raamse)      uthaayaa jaaegaa.
+\m anil       (raam-se)      uthaayaa jaaegaa.
+\g Anil.NOM Ram-INSTR lift.PERF go.FUT
+\l Anil will be lifted/carried (by Ram)
+
+\t anilko (raamse)         uthaayaa jaaegaa.
+\m anil-ko (raam-se)         uthaayaa jaaegaa.
+\g Anil.ACC Ram-INSTR lift.PERF go.FUT
+\l Anil will be lifted/carried (by Ram)
+
+\t niinaa         kelaa                  khaaegii.
+\m niinaa         kelaa                  khaaegii.
+\g Nina.NOM.f banana.NOM.m               eat.FUT.fsg
+\l Nina will eat a/*the banana
+
+\t anjumne    xat         likhnaa hai.
+\m anjum-ne    xat         likh-naa hai.
+\g Anjum-ERG letter.NOM write-INF be.PRES.3sg
+\l Anjum wants to write a letter
+
+\t anjumko    xat         likhnaa hai.
+\m anjum-ko    xat         likh-naa hai.
+\g Anjum-ACC letter.NOM write-INF be.PRES.3sg
+\l Anjum should write a letter
+
+\t (27)a. Hindi:     Kisko raamne socaa ki siitaane dekhaa thaa
+\m (27)a. Hindi:     Kis-ko raam-ne socaa ki siitaa-ne dekhaa thaa
+\g                   Who Raam thought that Sita see-ANT be-PAST
+\l Who did R. think that S. had seen?
+
+\t Raam roTii khaataa rahtaa thaa
+\m Raam roTii khaataa rahtaa thaa
+\g Raam bread eat      PROG be-PAST
+\l R. used to keep on eating bread
+
+\t laérk~o=ka       chota             kamra
+\m laérk-~o=k---a       chot---a             kamr---a
+\g   boy-PL.OBL       of-MASC.SG small-MASC.SG room(MASC)-SG.NOM
+\l the small room of the boys
+
+\t laérk~o=ke         chote             kamre
+\m laérk-~o=k-e         chot-e             kamr-e
+\g  boy-PL.OBL       of-MASC.PL small-MASC.PL   room(MASC)-PL.NOM
+\l the small rooms of the boys
+
+\t siitaaki       do        behne he.
+\m siitaa-ki       do        behne he.
+\g Sita-GEN        two       sisters be-PRES.PL.FEM
+\l Sita has two sisters.
+
+\t uske bhaaine         har ek aadmiiko      maaraa.
+\m uske bhaai-ne         har ek aadmii-ko      maaraa.
+\g his     brother-ERG every man-OBJ            hit-PERF
+\l His brother hit everyone.
+
+\t har ek aadmiiko uske bhaaine  maaraa.
+\m har ek aadmii-ko uske bhaai-ne  maaraa.
+\g every man-OBJ his brother-ERG hit-PERF
+\l ???Everyone, his brother hit.
+
+\t uske bhaaine          maaraa har ek aadmiiko.
+\m uske bhaai-ne          maaraa har ek aadmii-ko.
+\g his     brother-ERG hit-PERF every man-OBJ
+\l His brother hit everyone.
+
+\t raamne     har ek aadmiiko l taaii uskii kitaab.
+\m raam-ne     har ek aadmii-ko l taaii uskii kitaab.
+\g Ram-ERG every man-DAT return-PERF his book
+\l Ram returned every man his book.
+
+\t raamne    uske maalikko       dii  har ek kitaab.
+\m raam-ne    uske maalik-ko       dii  har ek kitaab.
+\g Ram-ERG its       owner-DAT give-PERF every book
+\l Ram gave every book to its owner.
+
+\t raam sabko            dikhaayegaa tiin kitaabe.
+\m raam sab-ko            dikhaayegaa tiin kitaabe.
+\g Ram everyone-DAT show(FUT) three books
+\l Ram will show three books to everyone.
+
+\t sab             khariide ge tiin ciize.
+\m sab             khariide ge tiin ciize.
+\g everyone-DAT buy(FUT) three things
+\l Everyone will buy three things.
+
+\t raam roTii khaataa           thaa
+\m raam roTii khaataa           thaa
+\g Ram-m bread-f eat-m (imp.) be-m (pst.)
+\l Ram (habitually) ate bread.
+
+\t raamne roTii khaayii       thii
+\m raam-ne roTii khaayii       thii
+\g Ram-m bread-f eat-f (perf.) be-f
+\l Ram had eaten bread.
+
+\t uskii bahin           sabko       pyaar kartii     thii
+\m uskii bahin           sab-ko       pyaar kartii     thii
+\g      their sister-f (SUB) everyone (DO) love do-f (imp.) be-f
+\l Their sister loved everyone.
+
+\t Harine Sita Rameshko jaanti hai aisa kaha.
+\m Hari-ne Sita Ramesh-ko jaanti hai aisa kaha.
+\g Hari-erg Sita Ramesh-acc know is that said
+\l Hari said that Sita knows Ramesh.
+
+\t Harine kaha ki Sita Rameshko jaantii hai.
+\m Hari-ne kaha ki Sita Ramesh-ko jaantii hai.
+\g Hari-erg said that Sita Ramesh-acc know is
+\l Hari said that Sita knows Ramesh.
+
+\t ilaane           ek    bacceko        uth aayaa.
+\m ilaa-ne           ek    bacce-ko        uth aayaa.
+\g Ila-ERG           one   child-DAT       lift:PERF
+\l Ila lifted achild'.
+
+\t ilaane          ek      haar                  uth aayaa.
+\m ilaa-ne          ek      haar                  uth aayaa.
+\g Ila-ERG          one     necklace:NOM          lift:PERF
+\l Ila lifted anecklace'.
+
+\t niinaane    raamko           kitaabØ        dii.
+\m niinaa-ne    raam-ko           kitaab-Ø        dii.
+\g Nina-ERG     Ram-DAT           book-NOM        give:PERF
+\l Nina gave Ram abook'.
+
+\t baccaa        kamrese             niklaa.
+\m baccaa        kamre-se             niklaa.
+\g child:NOM     room-INSTR           emerge:PERF
+\l The child emerged from theroom'.
+
+\t raajaakaa     hasnaa        mantriiko       buraa lagaa.
+\m raajaa-kaa     hasnaa        mantrii-ko       buraa lagaa.
+\g king-GEN       laugh-NML minister-DAT bad be.struck:PERF
+\l The king's laughing made the minister feelbad'.
+
+\t ilaane         maako         yah             haar         diyaa.
+\m ilaa-ne         maa-ko         yah             haar         diyaa.
+\g Ila-ERG         mother-DAT this:NOM            necklace:NOM give:PERF
+\l Ila gave this necklace tomother'.
+
+\t maine          raamse   kitaab               parhvaaii.
+\m mai-ne          raam-se   kitaab               parh-vaa-ii.
+\g 1SG-ERG         Ram-INSTR book:NOM             read-CAUS-PERF
+\l I made Ram read thebook'.
+
+\t raamne        dandese       saapko                 maaraa.
+\m raam-ne        dande-se       saap-ko                 maaraa.
+\g Ram-ERG        stick-INSTR snake-DAT                  kill-PERF
+\l Ram killed the snakec with astick'.
+
+\t Naadyaa xat          lik*tii      hai.
+\m Naadyaa xat          lik*-tii      hai.
+\g Nadya(F) letter(M) write-IMPF.F.SG be.PRES.3SG
+\l Nadya writes a letter.
+
+\t Naadyaa ne xat             lik*aa     hai.
+\m Naadyaa ne xat             lik*-aa     hai.
+\g Nadya(F) ERG letter(M) write-PERF.M.SG be.PRES.3SG
+\l Nadya has written a letter.
+
+\t Naadyaa ne citt*ii lik*ii           hai.
+\m Naadyaa ne citt*ii lik*-ii           hai.
+\g Nadya(F) ERG note(F) write-PERF.F.SG be.PRES.3SG
+\l Nadya has written a note.
+
+\t Naadyaa ne citt*ii ko lik*aa            hai.
+\m Naadyaa ne citt*ii ko lik*-aa            hai.
+\g Nadya(F) ERG note(F) ACC write-PERF.M.SG be.PRES.3SG
+\l Nadya has written a (particular) note.
+
+\t b.    *Unkoi      maÇne [5i       dar laghu   ]     py.
+\m b.    *Unkoi      maÇne [5i       dar lag-hu-   ]     p-y.
+\g        3sACC      I.ERG (DAT)     fear feel-PERF AUX-PERF find-PST.MSG
+\l I found him to    be afraid.
+
+\t naadyaa            xat                liktii                                           hai.
+\m naadyaa            xat                lik-tii                                           hai.
+\g Nadya(F).NOM letter(M).NOM write-IMPF.FSG                                                be.PRES.3SG
+\l Nadya writes a letter.
+
+\t naadyaa ne        xat                likaa                                              hai.
+\m naadyaa ne        xat                lik-aa                                              hai.
+\g Nadya(F) ERG letter(M).NOM write-PERF.MSG                                                 be.PRES.3SG
+\l Nadya has written a letter.
+
+\t naadyaa ne        citt ii          likii     h                                        ai.
+\m naadyaa ne        citt ii          lik-ii     h                                        ai.
+\g Nadya(F) ERG note(F).NOM write-PERF.FSG b                                               e.PRES.3SG
+\l Nadya has written a note.
+
+\t naadyaa ne        citt ii   ko    likaa      h                                        ai.
+\m naadyaa ne        citt ii   ko    lik-aa      h                                        ai.
+\g Nadya(F) ERG note(F) ACC write-PERF.MSG b                                               e.PRES.3SG
+\l Nadya has written a (particular) note.
+
+\t Raam ne [rotii khaanii]caahii thii
+\m Raam ne [rotii khaa-nii]caah-ii thii
+\g Ram    ERG bread.f.SG.ABS eat-INF.f.SG want-PAST.f.SG    be.PAST.f. SG
+\l Ram had wanted to eat bread.
+
+\t Ravii (ek) gaay khariidnaa caahtaa hai
+\m Ravii (ek) gaay khariidnaa caahtaa hai
+\g Ravi one cow to-buy         wish AUX
+\l Ravi wishes to buy a (non-specific) cow
+
+\t Ravii ek gaayko khariidnaa caahtaa hai
+\m Ravii ek gaay-ko khariidnaa caahtaa hai
+\g Ravi one cow KO to-buy         wish AUX
+\l Ravi wishes to buy a (specific) cow
+
+\t Ilaane       mããko baccaa diyaa
+\m Ilaa-ne       mãã-ko baccaa diyaa
+\g   Ila ERG mother KO child gave
+\l Ila gave a/the child to the mother
+
+\t ilaane mããko bacceko diyaa
+\m ilaa-ne mãã-ko bacce-ko diyaa
+\g  Ila ERG mother KO child KO gave
+\l Ila gave a/the child to the mother
+
+\t Ravii (ek) gaay khariidnaa caahtaa hai
+\m Ravii (ek) gaay khariidnaa caahtaa hai
+\g Ravi one cow to-buy         wish AUX
+\l Ravi wishes to buy a (non-specific) cow
+
+\t Ravii ek gaayko khariidnaa caahtaa hai
+\m Ravii ek gaay-ko khariidnaa caahtaa hai
+\g Ravi one cow KO to-buy         wish AUX
+\l Ravi wishes to buy a (specific) cow
+
+\t Ilaane       mããko baccaa diyaa
+\m Ilaa-ne       mãã-ko baccaa diyaa
+\g   Ila ERG mother KO child gave
+\l Ila gave a/the child to the mother
+
+\t ilaane mããko bacceko diyaa
+\m ilaa-ne mãã-ko bacce-ko diyaa
+\g  Ila ERG mother KO child KO gave
+\l Ila gave a/the child to the mother
+
+\t sabkoi      unkiii bahin pyaar kartii     thii
+\m sab-koi      unkiii bahin pyaar kartii     thii
+\g everyone-ACC their sister loves do-IMP-FEM be-PAST-FEM
+\l Everyonei , theiri sister loves.
+
+\t sabkoi      uskiii bahinne socaa [(ki) raamne dekhaa]
+\m sab-koi      uskiii bahin-ne socaa [(ki) raam-ne dekhaa]
+\g   everyone-ACC his sister-ERG thought (that) Ram-ERG saw
+\l Everyonei , hisi sister thought that Ram saw.
+
+\t Siitaako laRke   pasand the
+\m Siitaa-ko laRke   pasand the
+\g Sita-DAT boys.NOM like   be.PAST.MASC.PL
+\l Sita likes the boys
+
+\t niinaane kuttoNko khariidaa hai
+\m niinaa-ne kuttoN-ko khariid-aa hai
+\g Nina-ERG me-ACC buy-PERF.SG.M be.3SG
+\l Nina has bought the dogs
+
+\t auratko  santare     pasand ha~
+\m aurat-ko  santare     pasand ha~
+\g woman-DAT oranges.NOM like   be-PRES-3PL.M
+\l The woman likes oranges
+
+\t Siitaane kyaa socaa [ki raviine kisko dekhaa?]
+\m Siitaa-ne kyaa socaa [ki ravii-ne kis-ko dekhaa?]
+\g Sita-Erg what thought [that Ravi-Erg who saw?]
+\l Who did Sita think Ravi saw?
+
+\t ravine kyaa kahaa ki anu aayegii yaa nahiiN
+\m ravi-ne kyaa kahaa ki anu aayegii yaa nahiiN
+\g Ravi-E what say-P that Anu come-F or not
+\l What did Ravi say, will Anu come or not?
+
+\t Siitaako laRke   pasand the
+\m Siitaa-ko laRke   pasand the
+\g Sita-DAT boys.NOM like   be.PAST.MASC.PL
+\l Sita likes the boys
+
+\t niinaane kuttoNko khariidaa hai
+\m niinaa-ne kuttoN-ko khariid-aa hai
+\g Nina-ERG me-ACC buy-PERF.SG.M be.3SG
+\l Nina has bought the dogs
+
+\t Sabko            uskii bahin t pyaar kartii    thi.
+\m Sab-ko            uskii bahin t pyaar kartii    thi.
+\g everyone-ACC his sister love do-FEM be-FEM.
+\l His sister loved everyone.
+
+\t un=ko      i        ma~"=ne                   [ø  i          Zdar lagÑa          huÑa]           pÑayÑa.
+\m un=ko      i        ma~"=ne                   [ø  i          Zdar lag-Ña          hu-Ña]           pÑa-yÑa.
+\g    3SG.OBL=DAT 1SG.OBL=ERG DAT fear feel-P.SG.M AUX-P.SG.M find-PT.SG.M
+\l I found him afraid.
+
+\t laZrkÑa       roZtÑ"               khÑaega
+\m laZrkÑa       roZtÑ"               khÑa-e-ga
+\g boy:SG.NOM bread(F):SG.NOM         eat-3SG-FUT.SG.M
+\l The boy will eat bread.
+
+\t laZrke=ne     roZtÑ"                khÑayÑ".
+\m laZrke=ne     roZtÑ"                khÑa-yÑ".
+\g boy:SG.OBL=ERG        bread(F):SG.NOM   eat-PT.SG.F
+\l The boy ate bread.
+
+\t laZrke=ne       bÑalikÑa=ko       uZthÑayÑa.
+\m laZrke=ne       bÑalikÑa=ko       uZthÑa-yÑa.
+\g boy:SG.OBL=ERG       girl:SG.OBL=DAT raise-PT.SG.M
+\l The boy lifted up the girl.
+
+\t RÑam=ne    SitÑa=ko      aktres              banÑayÑa       (*banÑayÑ").
+\m RÑam=ne    SitÑa=ko      aktres              banÑa-yÑa       (*banÑa-yÑ").
+\g R.:SG.OBL=ERG S.=DAT actress:SG.NOM make-PT.SG.M                  make-PT.SG.F
+\l He made Sita an actress.
+
+\t RÑam=ne NÑ"nÑa=ko              DillÑ"            / Kalkatte (=ko)                 bhejÑa          (*bhejÑ").   
+\m RÑam=ne NÑ"nÑa=ko              DillÑ"            / Kalkatte (=ko)                 bhej-Ña          (*bhej-Ñ").   
+\g   R.:SG.OBL=ERG N.:SG.OBL=DAT D.(F):SG.OBL                   K.(M):SG.OBL=to      send-PT.SG.M       send-PT.SG.F
+\l Ram sent Nina to Delhi/Calcutta.
+
+\t SultÑan=ne        RehÑan=ko i     apnei pad=se            haZtÑakar           use           BadÑayÑu=kÑ"         jÑagir                      dekar     udhar ravÑanÑa                kardiyÑa.       
+\m SultÑan=ne        RehÑan=ko i     apnei pad=se            haZtÑa-kar           use           BadÑayÑu=kÑ"         jÑagir                      de-kar     udhar ravÑanÑa                kar-di-yÑa.       
+\g S.:OBL=ERG R.:OBL=DAT REFL              post(M):OBL=ABL remove-CONV 3SG.DAT                  B.OBL=GEN.SG.F civil.service(F):SG.NOM           give-CONV there       departed           make-BENEF-PT.SG.M
+\l The sultan removed Rehan from his (Rehan's) office and, giving him the Badayun jÑOEgir, sent him there.
+
+\t Mohan=se         RÑam=kÑa       sÑamÑan           IlÑa=ne      kamre=m~e      rakhne=ko         kahÑa.   
+\m Mohan=se         RÑam=kÑa       sÑamÑan           IlÑa=ne      kamre=m~e      rakh-ne=ko         kah-Ña.   
+\g   M:OBL=INSTR R.:OBL=GEN luggage:SG.NOM I.:OBL=ERG room:SG.OBL=in             keep-INF.OBL=DAT tell-PT.SG.M
+\l Ila told Mohan to put Ram's luggage into the room.
+
+\t RÑam=ne        us=kÑ"*i,j                  kitÑab         Mohan=koi lauZtÑa dÑ".
+\m RÑam=ne        us=kÑ"*i,j                  kitÑab         Mohan=koi lauZtÑa d-Ñ".
+\g R.OBL=ERG 3SG.OBL=GEN.SG.F book(F):NOM M.OBL=DAT return give-PT.SG.F
+\l Ram returned his book to Mohan.
+
+\t Ma~"=ne            us=ko    *i,j          Mohan=kÑ"i        kitÑab                   lauZtÑa dÑ".
+\m Ma~"=ne            us=ko    *i,j          Mohan=kÑ"i        kitÑab                   lauZtÑa d-Ñ".
+\g 1SG.OBL=ERG 3SG.OBL=DAT M.OBL=GEN.SG.F book(F):SG.NOM return give-PT.SG.F
+\l I returned Mohan's book to him.
+
+\t Mohan=kÑ"i             kitÑab                 us=nei,j        hi          dekhÑ".
+\m Mohan=kÑ"i             kitÑab                 us=nei,j        hi          dekh-Ñ".
+\g M.:OBL=GEN.SG.F book(F):SG.NOM 3SG.OBL=ERG FOC see-PT.SG.F
+\l HE saw Mohan's book.
+
+\t RÑam=ne       us=kÑ"i,j         hi           kitÑab              Mohan=koi lauZtÑa dÑ".
+\m RÑam=ne       us=kÑ"i,j         hi           kitÑab              Mohan=koi lauZtÑa d-Ñ".
+\g R.:OBL=ERG 3SG.OBL=GEN.SG.F FOC book(F):SG.NOM M.OBL=DAT return give-PT.SG.F
+\l Ram returned his book to Mohan.
+
+\t raamne mohanpar bharosaa kiyaa
+\m raam-ne mohan-par bharosaa kiyaa
+\g Raam-ERG Mohan-LOC reliance did
+\l Raam relied on Mohan
+
+\t kyaa aap wahaaN aaeeNgii?
+\m kyaa aap wahaaN aaeeNgii?
+\g what you there  go-fut-2pl
+\l Are you going there?
+
+\t d. aap wahaaN aaeeNgii        kyaa ?
+\m d. aap wahaaN aaeeNgii        kyaa ?
+\g    you there go-fut-2pl       what
+\l Are you really going there!!??
+
+\t c.. *usee [[vee aa rahee haiN] kahkar/yah] maaluum hai
+\m c.. *usee [[vee aa rahee haiN] kah-kar/yah] maaluum hai
+\g      3s-dat 3pl come prog are say-Prt/this known is
+\l He knows [that they are coming].
+
+\t usee [[vee aa rahee haiN] maaluum hai
+\m usee [[vee aa rahee haiN] maaluum hai
+\g  3s-dat 3pl come prog are known is
+\l He knows [ they are coming].
+
+\t Raamne Raviiko piitaa.
+\m Raam-ne Ravii-ko piitaa.
+\g Ram-erg Ravi-acc beat-past
+\l Ram beat Ravi.
+
+\t Raam       Raviiko piitegaa.
+\m Raam       Ravii-ko piitegaa.
+\g Ram.nom Ravii-acc beat-fut
+\l Ram will beat Ravi.
+
+\t Nadyane zu         jana hai.
+\m Nadya-ne zu         ja-na hai.
+\g Nadya-erg zoo.obl go      be-pres
+\l Nadya wants to go to the zoo.
+
+\t Nadyako zu         jana hai.
+\m Nadya-ko zu         ja-na hai.
+\g Nadya-dat zoo.obl go      be-pres
+\l Nadya has to go to the zoo.
+
+\t Ilaane bacceko/*baccaa          uth aayaa.
+\m Ilaa-ne bacce-ko/*baccaa          uth aayaa.
+\g Ila-erg child-acc/child.nom lift-past
+\l Ila lifted the/a child.
+
+\t Ilaane haar              uth aayaa.
+\m Ilaa-ne haar              uth aayaa.
+\g Ila-erg necklace.nom lift-past
+\l Ila lifted the/a necklace.
+
+\t Ilaane haarko          uth aayaa.
+\m Ilaa-ne haar-ko          uth aayaa.
+\g Ila-erg necklace-acc lift-past
+\l Ila lifted the/*a necklace.
+
+\t Ilaane yah           kh at        likh aa.
+\m Ilaa-ne yah           kh at        likh aa.
+\g   Ila-erg this.nom letter.nom write-perf
+\l Ila wrote this letter.
+
+\t Ilaane is            kh atko      likh aa.
+\m Ilaa-ne is            kh at-ko      likh aa.
+\g   Ila-erg this.nnom letter-acc write-perf
+\l Ila wrote this letter.
+
+\t anu har kitaab/ har kitaabko paRhegii
+\m anu har kitaab/ har kitaab-ko paRhegii
+\g Anu every book every book-ACC will-read
+\l Anu will read every book.
+
+\t  anu kitaab/ kitaabko paRhegii
+\m  anu kitaab/ kitaab-ko paRhegii
+\g Anu book book-ACC will-read
+\l Anu will read a the book/the book.
+
+\t anu *har bacca/ har bacceko          sambhaal rahii hai
+\m anu *har bacca/ har bacce-ko          sambhaal rahii hai
+\g Anu every child every child-ACC is-looking-after
+\l Anu is looking after every child.
+
+\t anu bacca/ bacceko sambhaal rahii hai
+\m anu bacca/ bacce-ko sambhaal rahii hai
+\g Anu child child-ACC is-looking-after
+\l Anu is looking after children (one or more)/the child.
+
+\t anu bacca nahii samhaalegii
+\m anu bacca nahii samhaalegii
+\g Anu child not will-look-after
+\l Anu will not look after children.
+
+\t anu ek bacceko /bacceko nahii samhaalegii
+\m anu ek bacce-ko /bacce-ko nahii samhaalegii
+\g Anu one child-ACC child-ACC not will-look-after
+\l Anu will not look after a particular child/the child.
+
+\t har   aurat  bacca sambhaal rahii thii
+\m har   aurat  bacca sambhaal rahii thii
+\g every woman child is-looking after
+\l Every woman is looking after children.
+
+\t har aurat ek bacceko / bacceko sambhaal rahii thii
+\m har aurat ek bacce-ko / bacce-ko sambhaal rahii thii
+\g every woman one child-ACC child-ACC is-looking-after
+\l Every woman is looking after a particular child/the child.
+
+\t  kutte yehaaN aam      haiN
+\m  kutte yehaaN aam      haiN
+\g dogs here     common are
+\l Dogs are common here.
+
+\t kutte bahut bhauNkte haiN
+\m kutte bahut bhauNkte haiN
+\g dogs lot    bark
+\l The dogs/Dogs bark a lot.
+
+\t kuch bacce andar aaye. bacce bahut khush the
+\m kuch bacce andar aaye. bacce bahut khush the
+\g  some children inside came children very happy were
+\l Some children came in. The children were very happy.
+
+\t kamre meN cuuhe haiN
+\m kamre meN cuuhe haiN
+\g  room in     mice are
+\l There are mice in the room.
+
+\t kamre meN cuuhe nahiiN haiN
+\m kamre meN cuuhe nahiiN haiN
+\g  room in mice not           are
+\l There are no mice in the room.
+
+\t mujhe lagtaa hai ki kamre meN cuuhe ghuum rahe haiN
+\m mujhe lagtaa hai ki kamre meN cuuhe ghuum rahe haiN
+\g to-me seems      that room in      mice moving around are
+\l It seems to me that there are mice moving around in the room.
+
+\t (lagtaa hai) kamre meN cuuhaa hai
+\m (lagtaa hai) kamre meN cuuhaa hai
+\g   seems       room in mouse is
+\l It seems there's a mouse in the room.
+
+\t 14a.# caroN taraf baccaa khel rahaa thaa
+\m 14a.# caroN taraf baccaa khel rahaa thaa
+\g      four ways child was-playing
+\l The same child was playing everywhere.
+
+\t caroN taraf bacce khel rahe the
+\m caroN taraf bacce khel rahe the
+\g four ways children were-playing
+\l Children (different ones) were playing everywhere.
+
+\t puure din kamre meN cuuhaa ghustaa rahaa
+\m puure din kamre meN cuuhaa ghustaa rahaa
+\g whole day room in mouse kept-entering
+\l The whole day a mouse (the same one) kept entering the room.
+
+\t anu puure din cuuhaa pakaRtii rahii
+\m anu puure din cuuhaa pakaRtii rahii
+\g Anu whole day mouse kept-catching
+\l Anu kept catching mice (different ones) the whole day.
+
+\t anu laRkiiko dekhnaa caahtii hai
+\m anu laRkii-ko dekhnaa caahtii hai
+\g Anu girl-ACC to-see wants
+\l Anu wants to see the girl.
+
+\t 18a. anu Daktarse       baat karnaa caahtii hai
+\m 18a. anu Daktar-se       baat karnaa caahtii hai
+\g     Anu doctor-INSTR talk to-do wants
+\l Anu wants to talk to the/a doctor.
+
+\t anu Daktarse       shaadi    karnaa caahtii hai
+\m anu Daktar-se       shaadi    karnaa caahtii hai
+\g Anu doctor-INSTR marriage to-do wants
+\l Anu wants to marry the/a doctor.
+
+\t  pradhaan mantrii vidyarthiise    miliiN
+\m  pradhaan mantrii vidyarthii-se    miliiN
+\g prime    minister student-INSTR meet-PAST
+\l The prime minister met with the student.
+
+\t anu puure din Daktarse          baat kartii rahii
+\m anu puure din Daktar-se          baat kartii rahii
+\g  Anu whole day doctor-INSTR talk kept-doing
+\l Anu kept talking to the (same) doctor the whole day.
+
+\t puure raat mujhe machchaR kaaTtaa rahaa
+\m puure raat mujhe machchaR kaaTtaa rahaa
+\g  whole night I-DAT mosquito kept-biting
+\l Mosquitoes kept biting me all night.
+
+\t siitaa     macchlii pakaR rahii hai
+\m siitaa     macchlii pakaR rahii hai
+\g  Sita(fem) fish(fem) is-catching-fem-singular
+\l Ram/Sita is catching fish.
+
+\t 22a. raamne /siitaane (ek) macchlii              pakaRii
+\m 22a. raam-ne /siitaa-ne (ek) macchlii              pakaRii
+\g     Ram-ERG Sita-ERG (one) fish(fem)               caught-fem-singular
+\l Ram/Sita caught a fish.
+
+\t b. raamne /siitaane macchliiko                 pakaRaa
+\m b. raam-ne /siitaa-ne macchlii-ko                 pakaRaa
+\g    Ram-ERG Sita-ERG fish-(fem)ACC                 caught-masc-singular
+\l Ram/Sita caught the fish.
+
+\t anune kursiyaaN          toRnii          caahiiN
+\m anu-ne kursiyaaN          toRnii          caahiiN
+\g Anu-erg chairs-fem-plural to-break-fem    wanted-fem-pl
+\l Anu wanted to break chairs.
+
+\t puure din maiNne (apne kamre meN) kitaab            paRhii
+\m puure din maiN-ne (apne kamre meN) kitaab            paRhii
+\g whole day I-erg       self's room in      book-fem read-fem-sing.
+\l The whole day I read books in my room.
+
+\t  anu sirf puraanii kitaab becegii
+\m  anu sirf puraanii kitaab becegii
+\g A.only old        book will-sell
+\l Anu will only sell old books
+
+\t anu apne beTe keliye bahut sundar /paRhiilikhii laRkii DhuunDh rahii hai
+\m anu apne beTe ke-liye bahut sundar /paRhii-likhii laRkii DhuunDh rahii hai
+\g Anu self's son for      very beautiful educated       girl is-searching
+\l Anu is looking for a very beautiful/educated girl for her son.
+
+\t anu apne beTe keliye sundar aur paRhiilikhii laRkii DhuunDh rahii hai
+\m anu apne beTe ke-liye sundar aur paRhii-likhii laRkii DhuunDh rahii hai
+\g Anu self's son for       beautiful and educated       girl is-searching
+\l Anu is looking for a beautiful and educated girl for her son.
+
+\t anu kutta aur billi paaltii hai
+\m anu kutta aur billi paaltii hai
+\g  Anu dog and cat breeds
+\l Anu breeds cats and dogs.
+
+\t  anu bacca nahii samhaalegii
+\m  anu bacca nahii samhaalegii
+\g Anu child not will-look-after
+\l Anu will not look after children.
+
+\t (baRii     hokar)            anu macclii nahiiN becegii
+\m (baRii     hokar)            anu macclii nahiiN becegii
+\g   grown-up after-becoming Anu fish       not     will-sell
+\l Anu will not sell fish when she grows up.
+
+\t kitaab anu becegii, akbaar       nahiiN
+\m kitaab anu becegii, akbaar       nahiiN
+\g book A.will-sell, newspaper not
+\l Anu will sell books, not newspapers.
+
+\t kitaab Anu bhii becegii
+\m kitaab Anu bhii becegii
+\g book, Anu also will-sell
+\l Anu will also sell books.
+
+\t kitaab Anu zaroor      becegii
+\m kitaab Anu zaroor      becegii
+\g  book Anu definitely will-sell
+\l Anu will definitely sell books.
+
+\t anu apne beTe keliye laRkii/laRkiyaaN dekh rahii hai
+\m anu apne beTe ke-liye laRkii/laRkiyaaN dekh rahii hai
+\g Anu self's son for       girl girls          is-looking-at
+\l Anu is looking at prospective brides for her son.
+
+\t anu apne beTe ke liye laRkii/#laRkiyaaN DhuunDh rahii hai
+\m anu apne beTe ke liye laRkii/#laRkiyaaN DhuunDh rahii hai
+\g Anu self's son for       girl girls        is-searching
+\l Anu is searching for a bride/brides for her son.
+
+\t anune kitaab paRhii
+\m anu-ne kitaab paRhii
+\g Anu-erg book read
+\l Anu read a book.
+
+\t kitaabi anu ti paRh rahii hai
+\m kitaabi anu ti paRh rahii hai
+\g book Anu is-reading
+\l Anu is reading a book/books.
+
+\t anu kitaab nahiiN becegii
+\m anu kitaab nahiiN becegii
+\g  Anu book not sell
+\l Anu will not sell books.
+
+\t anu puure din kitaab paRhtii rahii
+\m anu puure din kitaab paRhtii rahii
+\g Anu whole day book kept-reading
+\l Anu kept reading books the whole day.
+
+\t anu apne beTe keliye laRkiyaaN DhuunDh rahii hai
+\m anu apne beTe ke-liye laRkiyaaN DhuunDh rahii hai
+\g Anu self's son for        girls       is-searching
+\l Anu is looking for girls for her son.
+
+\t anune kitaab paRhii. #vo/ kitaab/ i bahut acchii thii
+\m anu-ne kitaab paRhii. #vo/ kitaab/ i bahut acchii thii
+\g Anu book read           it book e very good was
+\l Anu read a book. It / The book / [pro] was very good.
+
+\t anu apne beTe keliye laRkii dekh rahii hai
+\m anu apne beTe ke-liye laRkii dekh rahii hai
+\g Anu self's son for       girl   is-looking-at
+\l Anu is looking at prospective brides for her son.
+
+\t vo #uskaa/laRkiikaa swabhaav jaanaa caahtii hai
+\m vo #uskaa/laRkii-kaa swabhaav jaanaa caahtii hai
+\g she her girl's         nature    to-know wants
+\l She wants to know #her/the girl's temperament.
+
+\t anu apne beTe keliye laRkiyaaN dekh rahii hai
+\m anu apne beTe ke-liye laRkiyaaN dekh rahii hai
+\g Anu self's son for       girls       is-looking-at
+\l Anu is looking at prospective brides for her son.
+
+\t vo unkaa/laRkiyoNkaa swabhaav jaanaa caahtii hai
+\m vo unkaa/laRkiyoN-kaa swabhaav jaanaa caahtii hai
+\g she her girl's       nature      to-know wants
+\l She wants to know their/the girls' temperament.
+
+\t anune apne beTe keliye laRkii cun lii.
+\m anu-ne apne beTe ke-liye laRkii cun lii.
+\g Anu self's son for         girl has-chosen
+\l Anu has chosen a bride for her son.
+
+\t usne usko ek soneka cen         diyaa hai
+\m us-ne us-ko ek sone-ka cen         diyaa hai
+\g  she her one gold         necklace has-given
+\l She has given her a gold necklace.
+
+\t anu aaj kal    santare bectii hai
+\m anu aaj kal    santare bectii hai
+\g anu these-days oranges sells
+\l Anu sells oranges these days.
+
+\t Un patr~ koo               parhie
+\m Un patr~ koo               parhie
+\g those letters accusative read
+\l Please read those letters.
+
+\t Ye patr parhie
+\m Ye patr parhie
+\g these letters read
+\l Please read these letters.
+
+\t Patr likhie
+\m Patr likhie
+\g letters write
+\l Write letters.
+
+\t la r kiyõ nee    roo t ii        khaaii.
+\m la r kiyõ nee    roo t ii        khaaii.
+\g girls     ERG    bread(FSG)      ate.FSG
+\l The girls ate   bread.
+
+\t la r kiyõ nee    roo t ii        ko  khaayaa.
+\m la r kiyõ nee    roo t ii        ko  khaayaa.
+\g girls     ERG    bread(FSG)      ACC ate.MSG
+\l The girls ate   (the) bread.
+
+\t l r ka       rat               bher ci t t hiyã       likhta       hai.
+\m l r ka       rat               bher ci t t hiyã       likhta       hai.
+\g boy(M.SG) night(F.SG) all letters(F.PL) writes(M.SG) AUX
+\l The boy writes letters all night.
+
+\t l r kõ       ne      rat             bh r kam                kiya.
+\m l r kõ       ne      rat             bh r kam                kiya.
+\g boys(M.PL) ERG night(F.SG) all work(M.SG) did.M.SG
+\l The boys worked all night.
+
+\t l r kõ       ne      ci t t hiyõ      ko        pha r diya.
+\m l r kõ       ne      ci t t hiyõ      ko        pha r diya.
+\g boys(M.PL) ERG letters(F.PL) ACC tore.up.M.SG
+\l The boys tore up the letters.
+
+\t Raam           sabzii          laayaa.
+\m Raam           sabzii          laayaa.
+\g Ram(M.SG) vegetable(F.SG) bought.M.SG
+\l Ram bought the vegetable(s).
+
+\t siitaa       nahaayii.
+\m siitaa       nahaayii.
+\g Sita(F.SG) bathed.F.SG
+\l Sita took a bath.
+
+\t Johnko sirdad     hai
+\m John-ko sirdad     hai
+\g John-dat headache be.pres
+\l John has a headache
+
+\t Johnko seb khaanaa        hai
+\m John-ko seb khaa-naa        hai
+\g John-dat apple eat-gerund be.pres
+\l John has to eat the apple
+
+\t jo     laRkiyaaN khaRii       haiN ve           do Lambii haiN.
+\m jo     laRkiyaaN khaRii       haiN ve           do Lambii haiN.
+\g which girls         standing b e-PR those two tall        b e-PR
+\l Which girls are standing, those two are tall.
+
+\t us    auratko     ignore kiyaa aur abhi usko        samadhan karnaa parhega           Johnko.
+\m us    aurat-ko     ignore kiyaa aur abhi usko        samadhan karnaa parhega           John-ko.
+\g that woman-Dat ignore did       and now she-Dat reassure      do     will have to      John-Dat
+\l John ignored that woman and will now have to reassure her.
+
+\t us auratko      ignore kiyaa aur abhi usko        samadhan karnaa parhega            Johnne.
+\m us aurat-ko      ignore kiyaa aur abhi usko        samadhan karnaa parhega            John-ne.
+\g that woman-Dat ignore did       and now she-Dat reassure     do     will have to      John-erg
+\l John ignored that woman and will now have to reassure her.
+
+\t us   auratko      samaadhan kiyaa aur abhi usko     ignore kareega John.
+\m us   aurat-ko      samaadhan kiyaa aur abhi usko     ignore kareega John.
+\g that woman-Dat reassure      did     and now she-dat ignore will do John
+\l John reassured that woman and will now ignore her.
+
+\t us auratko       samaadhan kiyaa aur abhi usko     ignore kareega Johnne.
+\m us aurat-ko       samaadhan kiyaa aur abhi usko     ignore kareega John-ne.
+\g that woman-Dat reassure      did     and now she-dat ignore will do John-Erg
+\l John reassured that woman and will now ignore her.
+
+\t      ~~
+\m      ~~
+\g eta-Fut
+\l I ate my cake today and I will eat the remaining part tomorrow.
+
+\t khaayegaa
+\m khaayegaa
+\g eta-Fut
+\l I ate the cake and Ram will eat the rest.
+
+\t us ne do gilaas biiyar pii                (*par puurii nah~~   ii    pii)      
+\m us ne do gilaas biiyar pii                (*par puurii nah~~   ii    pii)      
+\g he Erg two glasses beer drank-Perf but           entire Neg          drink-Perf
+\l He drank two glasses of beer (*but did not drink all of it).
+
+\t jaun jaantaa hai ki merine kyaa khariidaa
+\m jaun jaantaa hai ki meri-ne kyaa khariidaa
+\g John knows        that Mary what bought
+\l John knows what Mary bought.
+
+\t jaunne vo kitaab khariidii jo kisne likhii
+\m jaun-ne vo kitaab khariidii jo kis-ne likhii
+\g    John    that book bought that who wrote
+\l For which x, did John buy the book x wrote?
+
+\t johnne kiskii likhii kitaab khariidii
+\m john-ne kis-kii likhii kitaab khariidii
+\g John    whose written book bought
+\l For which x, did John buy the book x wrote?
+
+\t kaun jaantaa hai ki merine kahaaN kyaa khariidaa
+\m kaun jaantaa hai ki meri-ne kahaaN kyaa khariidaa
+\g who knows       that Mary where what bought
+\l Who knows where Mary bought what?
+
+\t un          a\H                        kako hame(        samajhe
+\m un          a\H                        kako hame(        samajhe
+\g they-OBL come-PERF.OBL.PART QP we-OBL understand-PERF.PL.PART
+\l We thought that he came
+
+\t tumne     yah kaha:ni            likhi
+\m tum-ne     yah kaha:ni            likhi
+\g you-ERG this story-ABS(f) write
+\l You wrote this story
+
+\t Raamne    yah kaha:ni            likhi
+\m Raam-ne    yah kaha:ni            likhi
+\g Ram-ERG this story-ABS(f) write
+\l Ram wrote this story
+
+\t Mohan Ra:kes ne vah kaha:ni likhi
+\m Mohan Ra:kes ne vah kaha:ni likhi
+\g Mohan Rakes-ERG this story-ABS(f) write
+\l Mohan Rakes wrote this story
+
+\t Mohan Ra:kes kaha:nya:N likhte haiN
+\m Mohan Ra:kes kaha:nya:N likh-t-e haiN
+\g Mohan Rakes-NOM stories(f) write-AUX
+\l Mohan Rakes writes stories
+
+\t anuko acchaa          nahiiN lagaa.
+\m anu-ko acchaa          nahiiN lag-aa.
+\g Anu-DAT good.SG.M not           strike-PRF.SG.M
+\l Anu didn't like the dogs' barking.
+
+\t anuko acchaa          nahiiN lagaa.
+\m anu-ko acchaa          nahiiN lag-aa.
+\g Anu-DAT good.SG.M not           strike-PRF.SG.M
+\l Anu didn't like Nina's buying the dogs.
+
+\t anuko acchaa          nahiiN lagaa.
+\m anu-ko acchaa          nahiiN lag-aa.
+\g Anu-DAT good.SG.M not           strike-PRF.SG.M
+\l Anu didn't like Nina's buying the bananas.
+
+\t Ramne seb kh a:ya
+\m Ram-ne seb kh a:ya
+\g Ram    apple ate
+\l Ram ate an apple
+
+\t Ram Angrezi bol s@kta hE
+\m Ram Angrezi bol s@kta hE
+\g Ram English speak able is
+\l Ram can speak English
+
+\t larkene carise    kuttoko ma:ra
+\m larke-ne cari-se    kutto-ko ma:ra
+\g boy      stick-with dog      hit
+\l The boy hit the dog with a stick
+
+\t Ramki ba
+\m Ram-ki ba
+\g Ram's sister
+\l Ram's sister
+
+\t safed ph ul
+\m safed ph ul
+\g white flower
+\l white flower
+
+\t siitaane laRkaa dekhaa
+\m siitaa-ne laRkaa dekhaa
+\g Sita-erg boy-m saw-m
+\l Sita saw the boy.
+
+\t siitaa laRkaa dekh rahii hE
+\m siitaa laRkaa dekh rahii hE
+\g Sita-erg boy-m see-prog-be-f
+\l Sita is looking for a (suitable) boy (to marry).
+
+\t Ramne seb kh a:ya
+\m Ram-ne seb kh a:ya
+\g Ram      apple ate
+\l Ram ate an apple
+
+\t Ram Angrezi bol s@kta hE
+\m Ram Angrezi bol s@kta hE
+\g Ram English speak able is
+\l Ram can speak English
+
+\t larkene carise    kuttoko ma:ra
+\m larke-ne cari-se    kutto-ko ma:ra
+\g boy      stick-with dog      hit
+\l The boy hit the dog with a stick
+
+\t Ramki ba
+\m Ram-ki ba
+\g Ram's sister
+\l Ram's sister
+
+\t safed ph ul
+\m safed ph ul
+\g white flower
+\l white flower
+
+\t mujhee    unciizõõkoo             deekhkar             bahut   gussaa aayaa.  
+\m mujhee    un-ciizõõ-koo             deekh-kar             bahut   gussaa aayaa.  
+\g me.DAT    those.OBL-things DAT           see-CP(=CO   NV) great   anger come.PERF
+\l When  I saw those things, I became very angry. 
+
+\t [akeelee    baithkar] caay pii                          thii.
+\m [akeelee    baith-kar] caay pii                          thii.
+\g alone-OBL sit-CONV        tea     drink.PERF.FEM   be.PST.FEM
+\l He used to sit alone and drink tea.
+
+\t caay [akeelee       baithkar] pii                    thii.
+\m caay [akeelee       baith-kar] pii                    thii.
+\g tea    alone-OBL sit-CONV         drink.PERF.FEM   be.PST.FEM
+\l He used to sit alone and drink tea.
+
+\t jaun jaantaa hai ki merine kyaa khariidaa
+\m jaun jaantaa hai ki meri-ne kyaa khariidaa
+\g John knows        that Mary what bought
+\l John knows what Mary bought.
+
+\t jaunne vo kitaab khariidii jo kisne likhii
+\m jaun-ne vo kitaab khariidii jo kis-ne likhii
+\g   John that book bought that who wrote
+\l For which x, did John buy the book x wrote?
+
+\t johnne kiskii likhii kitaab khariidii
+\m john-ne kis-kii likhii kitaab khariidii
+\g John whose written book bought
+\l For which x, did John buy the book x wrote?
+
+\t kaun jaantaa hai ki merine kahaaN kyaa khariidaa
+\m kaun jaantaa hai ki meri-ne kahaaN kyaa khariidaa
+\g who knows       that Mary where what bought
+\l Who knows where Mary bought what?
+
+\t Rucine    Siitaako [Hariko [kitaabko khariidneko] bolneko kahaa.
+\m Ruci-ne    Siitaa-ko [Hari-ko [kitaab-ko khariid-ne-ko] bolne-ko kahaa.
+\g Ruci-erg Siitaa-dat [Hari-dat book-acc buy-inf             ] tell-inf   told.
+\l Ruci told Sita to tell Hari to buy the book.
+
+\t Siitaane Hariko     [kitaabko khariidneko] kahaa.
+\m Siitaa-ne Hari-ko     [kitaab-ko khariid-ne-ko] kahaa.
+\g Sita-erg   Hari-dat    [book-acc buy-inf         ] told.
+\l Sita told Hari to buy the book.
+
+\t jo laRkii khaRii hai vo lambii hai
+\m jo laRkii khaRii hai vo lambii hai
+\g wh girl    standing be Dem tall       be
+\l The girl who is standing is tall.
+
+\t jo laRkiyaaN khaRii haiN ve lambii haiN
+\m jo laRkiyaaN khaRii haiN ve lambii haiN
+\g wh girls        standing be      Dem tall be
+\l The girls who are standing are tall.
+
+\t (9)a. jo bhii laRkii mehnat kar rahii hai vo safal       hogii
+\m (9)a. jo bhii laRkii mehnat kar rahii hai vo safal       hogii
+\g       wh ever girl effort is making she successful will be
+\l The girl who is making an effort will be succesful.
+
+\t  jo bhii laRkii mehnat kartii hai vo safal       hotii hai
+\m  jo bhii laRkii mehnat kartii hai vo safal       hotii hai
+\g wh ever girl effort does          she successful be
+\l Any girl who makes an effort succeeds
+
+\t MaiN yah taaraa deekh nahiiN sakii
+\m MaiN yah taaraa deekh nahiiN sak-ii
+\g I-nom this star see   not    be.able-pf
+\l I wasn't able to see that star.
+
+\t mohanko apne baccoN]ne ghar se t t nikaal diyaa
+\m mohan-ko apne baccoN]-ne ghar se t t nikaal diyaa
+\g Mohan-ACC self-GEN children-NOM house from              throw give-perf
+\l Self 's children threw Mohan out of the house.
+
+\t [jo    laRke KhaRe hai], ve           lambe haiN.
+\m [jo    laRke KhaRe hai], ve           lambe haiN.
+\g wh boys standing are those tall                are
+\l The boys who are standing are tall.
+
+\t [jo laRkii KhaRii hai] [* jo ravii kii           d o st   hai], vo   bahut lambii hai.
+\m [jo laRkii KhaRii hai] [* jo ravii kii           d o st   hai], vo   bahut lambii hai.
+\g wh girl     standing is       wh Ravi GEN friend is DEM very                 tall    is
+\l What girl is standing, [* who is Ravi's friend], she is very tall.
+
+\t ilaane        haarko       uthaayaa
+\m ilaa-ne        haar-ko       uthaayaa
+\g Ila.ERG        necklace.ACC lift.PAST
+\l Ila lifted   up the necklace.
+
+\t ilaane        haar          uthaayaa
+\m ilaa-ne        haar          uthaayaa
+\g Ila.ERG        necklace.NOM lift.PAST
+\l Ila lifted   up a/the necklace.
+
+\t raamne       raviiko   piitaa
+\m raam-ne       ravii-ko   piitaa
+\g  Ram.ERG      Ravi.ACC   beat-PERF
+\l Ram beat Ravi.
+
+\t raamne       raviiko   piitaa        hai
+\m raam-ne       ravii-ko   piitaa        hai
+\g  Ram.ERG      Ravi.ACC   beat-PERF     be-PRES
+\l Ram has beaten Ravi.
+
+\t b . r aa m       raviiko   piittaa   hai
+\m b . r aa m       ravii-ko   piittaa   hai
+\g     Ram.NOM      Ravi.ACC   beat-HAB be-PRES
+\l Ram beats Ravi.
+
+\t nadyane      zu         jana    hai
+\m nadya-ne      zu         ja-na    hai
+\g Nadya.ERG zoo.OBL go              be-PRES
+\l Nadya wants to go to the zoo.
+
+\t nadyako      zu         jana    hai
+\m nadya-ko      zu         ja-na    hai
+\g Nadya.DAT zoo.OBL go              be-PRES
+\l Nadya has to go to the zoo.
+
+\t Raamne       raviiko     piitaa
+\m Raam-ne       ravii-ko     piitaa
+\g Ram.ERG       Ravi.ACC     beat-PAST
+\l Ram beat Ravi.
+
+\t Raam      raviiko     piitegaa
+\m Raam      ravii-ko     piitegaa
+\g Ram       Ravi.ACC     beat-FUT
+\l Ram will beat Ravi.
+
+\t Raam         khaasa
+\m Raam         khaasa
+\g Ram.NOM      coughed
+\l Ram coughed.
+
+\t Raamne khaasa
+\m Raam-ne khaasa
+\g Ram.ERG coughed
+\l Ram coughed (purposefully).
+
+\t     uthayaa
+\m     uthayaa
+\g Ila.ERG child.ACC/ child.NOM   lift-PERF
+\l Ila lifted the/a child.
+
+\t ilaane      ek      bacceko /*baccaa    uthaayaa
+\m ilaa-ne      ek      bacce-ko /*baccaa    uthaayaa
+\g Ila.ERG one child.ACC /child.NOM          lift-PERF
+\l Ila lifted a child.
+
+\t ilaane      haar            uthaayaa
+\m ilaa-ne      haar            uthaayaa
+\g Ila.ERG necklace.NOM lift-PERF
+\l Ila lifted a/the necklace.
+
+\t ilaane      ek     haar       /*haarko              uthaayaa
+\m ilaa-ne      ek     haar       /*haar-ko              uthaayaa
+\g Ila.ERG one necklace.NOM /necklace.ACC                lift-PERF
+\l Ila lifted a necklace.
+
+\t ilaane      haarko          uthayaa
+\m ilaa-ne      haar-ko          uthayaa
+\g Ila.ERG necklace.ACC          lift-PERF
+\l Ila lifted the/*a necklace.
+
+\t xansaamene bazaarse        ¤¤£¢¡      xariidii
+\m xansaame-ne bazaar-se        ¤¤£¢¡      xariid-ii
+\g cook.ERG     market.INST chicken.NOM         buy-PERF
+\l The cook bought a chicken at the market.   
+
+\t ilaane    yah              khat       /*is      *khatko likhaa
+\m ilaa-ne    yah              khat       /*is      *khat-ko likhaa
+\g Ila.ERG this.NOM            letter.NOM this.NNOM letter.ACC write-PERF
+\l Ila wrote this letter.   
+
+\t khaayegaa
+\m khaayegaa
+\g eta-Fut
+\l I ate the cake and Ram will eat the rest.
+
+\t Siitaane KYAA socaa,            [ki raviine          kisko    dekhaa] ?
+\m Siitaa-ne KYAA socaa,            [ki ravii-ne          kis-ko    dekhaa] ?
+\g Sita-ERG WHAT think.PAST that Ravi-ERG                 who-DAT   see.PAST
+\l Who did Sita think that Ravi saw?
+
+\t John      KYAA soctaa hai,     [kaun kahaaN jaayegaa] ?
+\m John      KYAA soctaa hai,     [kaun kahaaN jaayegaa] ?
+\g John.NOM WHAT thinks            who where go.FUT
+\l Who does John think will go where?
+
+\t Sitaane KYAA socaa, ki       Raviine kisko dekhaa ?
+\m Sitaa-ne KYAA socaa, ki       Ravii-ne kis-ko dekhaa ?
+\g Sita-ERG WHAT thinks that Ravi-ERG who-DAT see.PAST
+\l Who does Sita think Ravi saw?
+
+\t Siitaane KYAA abhii abhii socaa,               ki   raviine kisko      dekhaa ?
+\m Siitaa-ne KYAA abhii abhii socaa,               ki   ravii-ne kis-ko      dekhaa ?
+\g Sita-ERG    WHAT now        now think.PAST       that Ravi-ERG who-DAT    see.PAST
+\l Who did Sita think just now that Ravi saw?
+
+\t Raamne KYAA socaa,         [ki raviine     *(KYAA) kahaa,     [ki   kon sa aadmii aayaa     thaa]] ?
+\m Raam-ne KYAA socaa,         [ki ravii-ne     *(KYAA) kahaa,     [ki   kon sa aadmii aayaa     thaa]] ?
+\g Ram-ERG WHAT think.PAST that Ravi-ERG          WHAT say.PAST     that which man      came     be.PAST 
+\l Which man did Ram think that Ravi said came?
+
+\t Hanna kehti hai ki.
+\m Hanna kehti hai ki.
+\g Hanna says that
+\l Hanna says that.
+
+\t Hanna kyaa soctaa hai ?
+\m Hanna kyaa soctaa hai ?
+\g Hanna what thinks
+\l What does Hanna think?
+
+\t Sirf Hanna yeh soctaa hai, [ki baarish ho                  rahi             hai].     
+\m Sirf Hanna yeh soctaa hai, [ki baarish ho                  rahi             hai].     
+\g only Hanna this thinks             that rain happen.INF    stay.NON-FIN(F) be.PRES.3SG
+\l Only Hanna thinks that it rains.
+
+\t Sitaane   yeh KYAA socaa,                     ki   raviine kisko      dekhaa ?
+\m Sitaa-ne   yeh KYAA socaa,                     ki   ravii-ne kis-ko      dekhaa ?
+\g  Sita-ERG this WHAT think.PAST                  that Ravi-ERG who-DAT    see.PAST
+\l Who did Sita think that Ravi saw?
+
+\t Koi bhii nahii KYAA soctaa thaa,       ki   kon aayegaa ?
+\m Koi bhii nahii KYAA soctaa thaa,       ki   kon aayegaa ?
+\g  no-one         WHAT thinks     be.PAST that who come.FUT
+\l Who did no-one think will come?
+
+\t Sitaane KYAA socaa, ki       Raviine kisko dekhaa ?
+\m Sitaa-ne KYAA socaa, ki       Ravii-ne kis-ko dekhaa ?
+\g Sita-ERG WHAT thinks that Ravi-ERG who-DAT see.PAST
+\l Who does Sita think Ravi saw?
+
+\t admine   jis caku se murgiko maratha, us cakuko             Ram ne    dekha.
+\m admine   jis caku se murgiko maratha, us cakuko             Ram ne    dekha.
+\g manERG   which knife with chickenAC C killed that knifeAC C RamERG    saw   
+\l Ram saw the knife with which the man killed the chicken.
+
+\t Siitaane KYAA socaa,            [ki raviine          kisko    dekhaa] ?
+\m Siitaa-ne KYAA socaa,            [ki ravii-ne          kis-ko    dekhaa] ?
+\g Sita-ERG WHAT think.PAST that Ravi-ERG                 who-DAT   see.PAST
+\l Who did Sita think that Ravi saw?
+
+\t John      KYAA soctaa hai,     [kaun kahaaN jaayegaa] ?
+\m John      KYAA soctaa hai,     [kaun kahaaN jaayegaa] ?
+\g John.NOM WHAT thinks            who where go.FUT
+\l Who does John think will go where?
+
+\t Sitaane KYAA socaa, ki       Raviine kisko dekhaa ?
+\m Sitaa-ne KYAA socaa, ki       Ravii-ne kis-ko dekhaa ?
+\g Sita-ERG WHAT thinks that Ravi-ERG who-DAT see.PAST
+\l Who does Sita think Ravi saw?
+
+\t Siitaane KYAA abhii abhii socaa,               ki   raviine kisko      dekhaa ?
+\m Siitaa-ne KYAA abhii abhii socaa,               ki   ravii-ne kis-ko      dekhaa ?
+\g Sita-ERG    WHAT now        now think.PAST       that Ravi-ERG who-DAT    see.PAST
+\l Who did Sita think just now that Ravi saw?
+
+\t Raamne KYAA socaa,         [ki raviine     *(KYAA) kahaa,     [ki   kon sa aadmii aayaa     thaa]] ?
+\m Raam-ne KYAA socaa,         [ki ravii-ne     *(KYAA) kahaa,     [ki   kon sa aadmii aayaa     thaa]] ?
+\g Ram-ERG WHAT think.PAST that Ravi-ERG          WHAT say.PAST     that which man      came     be.PAST 
+\l Which man did Ram think that Ravi said came?
+
+\t Tum KYAA socte ho, [[+Q] ki         Maryne Hansse baat kiyaa    yaa nahiiN] ?
+\m Tum KYAA socte ho, [[+Q] ki         Mary-ne Hans-se baat kiyaa    yaa nahiiN] ?
+\g you WHAT think                that Mary-ERG Hans-INS talked       or not       
+\l Do you think Mary talked to Hans or not?
+
+\t Hanna kehti hai ki.
+\m Hanna kehti hai ki.
+\g Hanna says that
+\l Hanna says that.
+
+\t Hanna kyaa soctaa hai ?
+\m Hanna kyaa soctaa hai ?
+\g Hanna what thinks
+\l What does Hanna think?
+
+\t Sirf Hanna yeh soctaa hai, [ki baarish ho                  rahi             hai].     
+\m Sirf Hanna yeh soctaa hai, [ki baarish ho                  rahi             hai].     
+\g only Hanna this thinks             that rain happen.INF    stay.NON-FIN(F) be.PRES.3SG
+\l Only Hanna thinks that it rains.
+
+\t Sitaane   yeh KYAA socaa,                     ki   raviine kisko      dekhaa ?
+\m Sitaa-ne   yeh KYAA socaa,                     ki   ravii-ne kis-ko      dekhaa ?
+\g  Sita-ERG this WHAT think.PAST                  that Ravi-ERG who-DAT    see.PAST
+\l Who did Sita think that Ravi saw?
+
+\t Koi bhii nahii KYAA soctaa thaa,       ki   kon aayegaa ?
+\m Koi bhii nahii KYAA soctaa thaa,       ki   kon aayegaa ?
+\g  no-one         WHAT thinks     be.PAST that who come.FUT
+\l Who did no-one think will come?
+
+\t Sitaane KYAA socaa, ki       Raviine kisko dekhaa ?
+\m Sitaa-ne KYAA socaa, ki       Ravii-ne kis-ko dekhaa ?
+\g Sita-ERG WHAT thinks that Ravi-ERG who-DAT see.PAST
+\l Who does Sita think Ravi saw?
+
+\t jis    laRkiinei jis     laRkekoj dekhaa       usnei        uskoj      passand kiyaa.
+\m jis    laRkii-nei jis     laRke-koj dekhaa       us-nei        us-koj      passand kiyaa.
+\g [REL girl-ERG REL         boy-ACC      saw]      DEM-ERG       DEM-ACC     liked         
+\l Which girl saw which boy, she liked him.
+
+\t mujhe vo            a:dmi:   si:ta:ko     jo   accha:      lagta:      h          pasand nah : h          
+\m mujhe vo            a:dmi:   si:ta:-ko     jo   accha:      lagta:      h          pasand nah : h          
+\g I:DAT      DEM      man      [Sita-DAT REL nice             seem-IMP be-PRES] like         not      be-PRES
+\l I do not like the man who Sita likes.
+
+\t mene Madhu se bethane ke liye kaha
+\m mene Madhu se bethane ke liye kaha
+\g I Madhu to sit        for said
+\l I told Madhu to sit down
+
+\t kiski [raam kab aataa] {ki /*Ø } maalum?
+\m kis-ki [raam kab aataa] {ki /*Ø } maalum?
+\g who-DAT Ram when comes DUB / Ø knowledge
+\l Who knows when Ram will come?
+
+\t uno kyaa bolaa ki mereku bataanaa
+\m uno kyaa bolaa ki mere-ku bataanaa
+\g he what said KI I-DAT tell
+\l Tell me what he said!
+
+\t aurat           ne kahaa [ki            aadmii ne        patthar maaraa]
+\m aurat           ne kahaa [ki            aadmii ne        patthar maaraa]
+\g    woman ERG said COMP man                        ERG rock          threw
+\l the woman said that the man threw the rock
+
+\t Sitane Hariko Raviko kitaabko khariidneko bolneko kahaa
+\m Sita-ne Hari-ko Ravi-ko kitaab-ko khariid-ne-ko bolne-ko kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf     tell-inf told
+\l Sita told Hari to tell Ravi to buy the book.
+
+\t Siitaane Hariko Raviko kitaabko khariidneko bolneko kahaa
+\m Siitaa-ne Hari-ko Ravi-ko kitaab-ko khariid-neko bol-neko kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf      tell-inf told
+\l Sita told Hari to tell Ravi to buy the book.
+
+\t Siitaane Hariko Raviko kitaabko jitnii jaldii ho sake khariidneko bolneko kahaa
+\m Siitaa-ne Hari-ko Ravi-ko kitaab-ko jitnii jaldii ho sake khariid-neko bol-neko kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc as soon as possible      buy-inf   tell-inf told
+\l Sita told Hari to tell Ravi to buy the book as soon as possible.
+
+\t Siitaane Hariko Raviko kitaabko ek barhiya dukaanse khariidneko bolneko kahaa
+\m Siitaa-ne Hari-ko Ravi-ko kitaab-ko ek barhiya dukaan-se khariid-neko bol-neko kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc a good shop-from            buy-inf tell-inf told
+\l Sita told Hari to tell Ravi to buy the book from a good shop.
+
+\t Siitaane Hariko Raviko kitaabko jo mezpar thii khariidneko bolneko kahaa
+\m Siitaa-ne Hari-ko Ravi-ko kitaab-ko jo mez-par thii khariid-neko bol-neko kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc that table-on was buy-inf         tell-inf told
+\l Sita told Hari to tell Ravi to buy the book that was lying on a/the table.
+
+\t vokaagaz jisko uslarkene dekhaa bahutpuraanaa thaa
+\m vo-kaagaz jisko us-larke-ne dekhaa bahut-puraanaa thaa
+\g that-paper which that-boy-erg saw   very-old      was
+\l That paper which that boy saw was very old.
+
+\t volarkaa jisne uskaagazko dekhaa bahutjigyaasu thaa
+\m vo-larkaa jisne us-kaagaz-ko dekhaa bahut-jigyaasu thaa
+\g that-boy who that-paper-acc saw      very-inquisitive was
+\l That boy who saw that (piece of ) paper was very inquisitive.
+
+\t vokaagaz jisko uslarkene mez kepiiche girehue dekhaa bahutpuraanaa thaa
+\m vo-kaagaz jisko us-larke-ne mez ke-piiche gire-hue dekhaa bahut-puraanaa thaa
+\g that-paper which that-boy-erg table behind    fallen    saw    very-old  was
+\l That paper which that boy saw fallen behind a/the table was very old.
+
+\t volarkaa jisne uskaagazko mez kepiiche girehue dekhaa bahutjigyaasu thaa
+\m vo-larkaa jisne us-kaagaz-ko mez ke-piiche gire-hue dekhaa bahut-jigyaasu thaa
+\g that-boy who that-paper-acc table behind       fallen   saw     very-inquisitive was
+\l That boy who saw that (piece of ) paper fallen behind a/the table was very inquisitive.
+
+\t vodukaandaar jisko uslarkene dekhaa bahutamiir thaa
+\m vo-dukaandaar jisko us-larke-ne dekhaa bahut-amiir thaa
+\g that-shopkeeper whom that-boy-erg saw   very-rich  was
+\l That shopkeeper whom that boy saw was very rich.
+
+\t volarkaa jisne usdukaandaarko dekhaa bahutjigyaasu thaa
+\m vo-larkaa jisne us-dukaandaar-ko dekhaa bahut-jigyaasu thaa
+\g that-boy who that-shopkeeper-acc saw    very-inquisitive was
+\l That boy who saw that shopkeeper was very inquisitive.
+
+\t vodukaandaar jisko uslarkene mez kesaamne kharehue dekhaa bahutamiir thaa
+\m vo-dukaandaar jisko us-larke-ne mez ke-saamne khare-hue dekhaa bahut-amiir thaa
+\g that-shopkeeper whom that-boy-erg table in-front-of standing    saw     very-rich   was
+\l That shopkeeper whom that boy saw standing in front of a/the table was very rich.
+
+\t volarkaa jisne usdukaandaarko mez kesaamne kharehue dekhaa bahutjigyaasu thaa
+\m vo-larkaa jisne us-dukaandaar-ko mez ke-saamne khare-hue dekhaa bahut-jigyaasu thaa
+\g that-boy who that-shopkeeper-acc table in-front-of standing     saw     very-inquisitive was
+\l That boy who saw that shopkeeper standing in front of a/the table was very inquisitive.
+
+\t Jaun soctaa hai ki laRkaa Meriise baat karegii.
+\m Jaun soctaa hai ki laRkaa Merii-se baat karegii.
+\g John think be that boy         Mary-with talk do
+\l John is thinking that the boy will talk with Mary.
+
+\t raamne      vah   kitaabe             parii                   thii
+\m raam-ne      vah   kitaabe             parii                   thii
+\g Ram-ERG those books-FEM.PL read-PERF.FEM.PL be-PAST.FEM.PL
+\l Ram had read those books.
+
+\t [ye]T      bh i meri=ki               t r~ h~
+\m [ye]T      bh i mer-i=ki               t r~ h~
+\g Pron.3.Sg also I.Gen-F.Sg=Gen.F.Sg like be.Pres.Pl
+\l Theytopic are also like me.
+
+\t ¡d r gaye            or pet                    b rk r      r gaye
+\m ¡d r ga-ye            or pet                    b rk r      r ga-ye
+\g there go-Perf.M.Pl and stomach.M.Sg.Nom fill having rise go-Perf.M.Pl
+\l there (theycont.topic ) go and having filled (their) stomach (theycont.topic ) fly away.
+
+\t acchaa          / *acche          laDkaa aur sabziwaalaa
+\m acchaa          / *acche          laDkaa aur sabziwaalaa
+\g good.MASC.SG / good.MASC.PL boy.MASC & vegetable.seller.MASC
+\l good [boy and vegetable seller]
+
+\t kaalaa            / *kaale    mozaa     aur jutaa
+\m kaalaa            / *kaale    mozaa     aur jutaa
+\g black.MASC.SG / black.MASC.PL sock.MASC & shoe.MASC
+\l black [sock and shoe]
+
+\t ek jaisaa          / *ek jaise    thailaa  aur jutaa
+\m ek jaisaa          / *ek jaise    thailaa  aur jutaa
+\g similar.MASC.SG / similar.MASC.PL bag.MASC & shoe.MASC
+\l similar [bag and shoe]
+
+\t acchaa          laDkaa       aur sabziwaalaa
+\m acchaa          laDkaa       aur sabziwaalaa
+\g good.MASC.SG boy.MASC & vegetable.seller.MASC
+\l good [boy and vegetable seller]
+
+\t Jo CD sale parhai, Maya us CDko khari:degi:
+\m Jo CD sale par-hai, Maya us CD-ko khari:d-egi:
+\g which CD sale on is   Maya this CD buy-will
+\l Maya will buy the CD that is on sale.
+
+\t Ramne kyaa ciiz khaaii
+\m Ram-ne kyaa ciiz khaa-ii
+\g Ram-ERG what thing.eat
+\l What thing did Ram eat?
+
+\t Jo CD sale parhai, Maya us CDko khari:degi:
+\m Jo CD sale par-hai, Maya us CD-ko khari:d-egi:
+\g which CD sale on is   Maya this CD buy-will
+\l Maya will buy the CD that is on sale.
+
+\t Raam kis laRkiise milaa?
+\m Raam kis laRkii-se milaa?
+\g Ram which girl-INS met
+\l Which girl did Raam meet?
+
+\t Raam jis     laRkiise milaa anu usko jaanti hai
+\m Raam jis     laRkii-se milaa anu usko jaanti hai
+\g Ram which girl-INSTR met Anu her-ACC knows
+\l Which girl Ram met, Anu knows her.
+
+\t Kis    laRkiise ravi soctaa hai ki raam milaa?
+\m Kis    laRkii-se ravi soctaa hai ki raam milaa?
+\g which girl-INS Ravi thinks that Ram met
+\l Which girl does Ravi think that Ram met?
+
+\t Jis laRkiise ravi soctaa hai ki Ram milaa anu usko jaantii hai
+\m Jis laRkii-se ravi soctaa hai ki Ram milaa anu us-ko jaantii hai
+\g which girl-INS Ravi thinks that Ram met Anu her knows
+\l Which girl Ravi thinks that Ram met, Anu knows her.
+
+\t Jis laRkiine jis laRkeko dekhaa usne usko passand kiyaa.
+\m Jis laRkiine jis laRkeko dekhaa usne usko passand kiyaa.
+\g REL girl-ERG REL boy-ACC saw that-ERG that-ACC likes
+\l Which girls saw which boy, she liked him.
+
+\t [ye]T      bh i meri=ki               t r~ h~
+\m [ye]T      bh i mer-i=ki               t r~ h~
+\g Pron.3.Sg also I.Gen-F.Sg=Gen.F.Sg like be.Pres.Pl
+\l Theytopic are also like me.
+
+\t jah~ dana                  dekha
+\m jah~ dana                  dekh-a
+\g where seed.M.Sg.Nom see-Perf.M.Sg
+\l where (theycont.topic ) see a seed
+
+\t Íd r gaye            or pet                    b rk r      Ír gaye
+\m Íd r ga-ye            or pet                    b rk r      Ír ga-ye
+\g there go-Perf.M.Pl and stomach.M.Sg.Nom fill having rise go-Perf.M.Pl
+\l there (theycont.topic ) go and having filled (their) stomach (theycont.topic ) fly away.
+
+\t [m~]T bais           b rf=se       yah~ rah raha      ~
+\m [m~]T bais           b rf=se       yah~ rah rah-a      ~
+\g I.Nom twenty-two winter=from here stay stay-Perf.M.Sg be.Pres.1.Sg
+\l Itopic have been living here for 22 years.
+
+\t rozana is hi           s r k=se       gÍz rta        hu
+\m rozana is hi           s r k=se       gÍz r-ta        hu
+\g daily this Emph street.F=from pass-Impf.M.Sg be.Pres.1.Sg
+\l Daily (Icont.topic ) go through this street.
+
+\t ram=ne jiraf            dekhi
+\m ram=ne jiraf            dekh-i
+\g Ram=Erg giraffe.F.Nom see-Perf.F.Sg
+\l Ram saw a/some giraffe.
+
+\t ram=ne jiraf=ko         dekha
+\m ram=ne jiraf=ko         dekh-a
+\g Ram=Erg giraffe.F=Acc see-Perf.M.Sg
+\l Ram saw the (particular) giraffe.
+
+\t ram=ne
+\m ram=ne
+\g Ram.M=Erg cough-Perf.M.Sg
+\l Ram coughed (purposefully).
+
+\t Siitaane Hariko kitaab khariidneko kahaa
+\m Siitaa-ne Hari-ko kitaab khariid-neko kahaa
+\g Sita-erg Hari-dat book buy-inf        said
+\l Sita told Hari to buy a/the book.
+
+\t kahaa
+\m kahaa
+\g Sita-erg Hari-dat book-acc as-soon-as-possible buy-inf
+\l Sita told Hari to buy the book as soon as possible.
+
+\t Siitaane Hariko Raviko [kitaabko khariidneko] bolneko kahaa
+\m Siitaa-ne Hari-ko Ravi-ko [kitaab-ko khariid-neko] bol-neko kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf        tell-inf told
+\l Sita told Hari to tell Ravi to buy the book.
+
+\t Siitaane Hariko Raviko [kitaabko jitnejaldihosake khariidneko] bolneko kahaa
+\m Siitaa-ne Hari-ko Ravi-ko [kitaab-ko jitne-jaldi-ho-sake khariid-neko] bol-neko kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc as-soon-as-possible  buy-inf        tell-inf told
+\l Sita told Hari to tell Ravi to buy the book as soon as possible.
+
+\t Mujhe nahi$i$ pataa        [ki Gautam ne kis se          baat kii        thii].
+\m Mujhe nahi$i$ pataa        [ki Gautam ne kis se          baat kii        thii].
+\g I.DAT NEG knowledge that Gautam ERG who with talk do.PFV PAST
+\l I don't know who Gautam talked to.
+
+\t Gautam ne     kisi         se baat kii        thii,   lekin
+\m Gautam ne     kisi         se baat kii        thii,   lekin
+\g Gautam ERG someone with talk do.PFV PAST but
+\l Gautam talked with someone, but...
+
+\t mujhe nah i$i$ pataa        [kis se].
+\m mujhe nah i$i$ pataa        [kis se].
+\g I.DAT NEG knowledge who with
+\l I don't know with who.
+
+\t [ CP (*ki) Gautam ne kis se baat kii              thii], mujhe (yeh) nahi$i$ pataa       thaa.
+\m [ CP (*ki) Gautam ne kis se baat kii              thii], mujhe (yeh) nahi$i$ pataa       thaa.
+\g        that Gautam ERG who with talk do.PFV PAST I.DAT it NEG knowledge PAST
+\l I didn't know who Gautam had talked to.
+
+\t Gautam ne kisi             se baat kii       thii lekin [(*ki) kis se] mujhe nahi$i$ pataa.
+\m Gautam ne kisi             se baat kii       thii lekin [(*ki) kis se] mujhe nahi$i$ pataa.
+\g Gautam ERG someone with talk do.PFV PAST but               that who with I.DAT NEG knowledge
+\l Gautam talked with someone, but I don't know who.
+
+\t jis   kitaab kebarem~eaap baat kar rahe the voh    kitaab/?kitaabko maine kharid li.      
+\m jis   kitaab ke-bare-m~eaap baat kar rahe the voh    kitaab/?kitaab-ko mai-ne kharid li.      
+\g which book about-Loc you talk do Prog Past that      book/book-ko      I-erg buy     take-Past
+\l I bought that book you were talking about.
+
+\t Hassanne voh kitaab/?kitaabko kharida.
+\m Hassan-ne voh kitaab/?kitaab-ko kharida.
+\g Hassan-Erg that book/book-ko    buy.Past
+\l Hassan bought that book.
+
+\t Hassanne voh kursi/*kursiko kharidi     jo dukaanm~ethi.
+\m Hassan-ne voh kursi/*kursi-ko kharidi     jo dukaan-m~ethi.
+\g Hassan-Erg that chair/chair-ko bought.Fem Rel shop-Loc be.Past
+\l Hassan bought that chair that was in the shop.
+
+\t us kitaabko/usko/*voh kitaab bec diyaa.
+\m us kitaab-ko/us-ko/*voh kitaab bec diyaa.
+\g that book-ko/that-ko/that book sell give.Past
+\l He sold it/that book.
+
+\t Hassan kisko/*kaun maaregaa?
+\m Hassan kis-ko/*kaun maaregaa?
+\g Hassan who-ko/who kill.Fut
+\l Whom will Hassan kill?
+
+\t Hassan kisiko/*koi           maaregaa.
+\m Hassan kisi-ko/*koi           maaregaa.
+\g Hassan someone-ko/someone.NOM kill.
+\l Hassan will kill someone.
+
+\t bheje the.
+\m bheje the.
+\g send Past
+\l Britain's Cabinet had sent its three representatives to India.
+
+\t duRu izus at'nar        uRnuv / uRnis
+\m duRu izus at'nar        uRn-uv / uRn-is
+\g she.Erg I.Dat socks.Nom knit-3   knit-1Sg.Dat
+\l She knitted socks for me.
+
+\t duRu izuqh       hit'ik'inuv / hit'ik'inuzuqh
+\m duRu izuqh       hit'ik'in-uv / hit'ik'inu-zuqh
+\g he.Erg I.Postess hide-3         hide-1Sg.Postess
+\l He hid behind me.
+
+\t raami nee apneei /*usikee nazdiik eek sarp deekhaa
+\m raami nee apneei /*usi-kee nazdiik eek sarp deekh-aa
+\g Ram-ERG self 's/3SG-of near           one snake see-PF
+\l Ram saw a snake near himself/him.
+
+\t hai merepas kitaab
+\m hai mere-pas kitaab
+\g is    me-with book
+\l I have a/the book.
+
+\t HAI merepas kitaab
+\m HAI mere-pas kitaab
+\g was me-with book
+\l I DO have the book.
+
+\t hai MEREpas kitaab
+\m hai MERE-pas kitaab
+\g was me-with        book
+\l It is me (and not someone else) who has the book.
+
+\t siitaa      ti khaatii       sabziii thii
+\m siitaa      ti khaat-ii       sabziii th-ii
+\g Sita(fem)      eat-imp-fem vegetables be-past-fem
+\l Sita used to eat vegetables.
+
+\t raam aayaa nah~~ ii
+\m raam aayaa nah~~ ii
+\g Ram came neg
+\l Ram didn't come.
+
+\t koiibhii aayaa
+\m koii-bhii aayaa
+\g anyone     came
+\l Anyone came.
+
+\t ganitme ~       fel honepar kamhii vidyaarthii uf          kartee ha~i
+\m ganit-me ~       fel hone-par kam-hii vidyaarthii uf          kartee ha~i
+\g mathematics-in fail become-on few-encl students           onom do     are
+\l It matters to few students if they fail in mathematics.
+
+\t agar tumne injekshan lagnepar uf            kii to   mai tumhe       darpok samjhuungaa 
+\m agar tum-ne injekshan lagne-par uf            kii to   mai tum-he       darpok samjhuun-gaa 
+\g if       you-erg injection apply-on onom do then I           you-to     coward consider-will
+\l I'll consider you a coward if you make even a sound when you get the injection.
+
+\t usne      sabkuch bec daalaa lekin vimlaane uf              naa kii
+\m us-ne      sab-kuch bec daalaa lekin vimlaa-ne uf              naa kii
+\g (s)he-erg everything sold gave        but Vimla-erg onom not did
+\l (S)he sold off everything, but Vimla didn't show even the slightest distress.
+
+\t ganitme~         fel honepar kamhii vidyaarthii ufbhii          kartee             ha~i
+\m ganit-me~         fel hone-par kam-hii vidyaarthii uf-bhii          kartee             ha~i
+\g mathematics-in fail become-on few-encl students           onom-even do                 are 
+\l It matters to few students if they fail in mathematics.
+
+\t agar tumne injekshan lagnepar ufbhii            kii to   mai tumhe      darpok samjhuungaa 
+\m agar tum-ne injekshan lagne-par uf-bhii            kii to   mai tum-he      darpok samjhuun-gaa 
+\g if      you-erg injection apply-on onom-even do then I           you-to     coward consider-will
+\l I'll consider you a coward if you make even a sound when you get the injection.
+
+\t usne      sabkuch bec daalaa lekin vimlaane ufbhii                naa kii
+\m us-ne      sab-kuch bec daalaa lekin vimlaa-ne uf-bhii                naa kii
+\g (s)he-erg everything sold gave        but Vimla-erg onom-even neg did
+\l (S)he sold off everything, but Vimla didn't show even the slightest distress.
+
+\t Jo     bhii laRkii vahaa khaRii hai vo Ravi kii dost hai.
+\m Jo     bhii laRkii vahaa khaRii hai vo Ravi kii dost hai.
+\g which ever girl    there standing is she Ravi's friend is
+\l {?Whichever girl is standing there/The girl standing there} is Ravi's friend.
+
+\t manaa kiyaa / rokaa
+\m manaa kiyaa / rokaa
+\g prohibited      / prevented
+\l I didn't keep Ramesh from talking to anyone
+
+\t d. mujhe nahiiN lagtaa [ki koi             bhii aaya]
+\m d. mujhe nahiiN lagtaa [ki koi             bhii aaya]
+\g     to-me not       seems that someone even came                          (Bhatia, 1977)
+\l It doesn't seem to me that anyone came
+
+\t Ravii (ek) gaay khariidnaa caahtaa hai
+\m Ravii (ek) gaay khariidnaa caahtaa hai
+\g Ravi one cow to-buy         wish       AUX
+\l Ravi wishes to buy a (non-specific) cow
+
+\t Ravii ek gaayko khariidnaa caahtaa hai
+\m Ravii ek gaay-ko khariidnaa caahtaa hai
+\g Ravi one cow KO to-buy         wish     AUX
+\l Ravi wishes to buy a (specific) cow
+
+\t Ilaane    ek haar *(ko) utohaayaa
+\m Ilaa-ne    ek haar *(-ko) utohaayaa
+\g Ila ERG one necklace KO lifted
+\l Ila lifted a necklace
+
+\t Ilaane    mããko baccaa diyaa
+\m Ilaa-ne    mãã-ko baccaa diyaa
+\g Ila ERG mother KO child        gave
+\l Ila gave a/the child to the mother
+
+\t a. ilaane       mããko baccaa diyaa
+\m a. ilaa-ne       mãã-ko baccaa diyaa
+\g      Ila ERG mother KO child gave
+\l Ila gave a/the child to the mother
+
+\t Siitaane Hariko kitaab khariidneko kahaa
+\m Siitaa-ne Hari-ko kitaab khariid-neko kahaa
+\g Sita-erg Hari-dat b o ok buy-inf-acc said
+\l Sita told Hari to buy a/the b o ok.
+
+\t kahaa Siitaane Hariko soneko
+\m kahaa Siitaa-ne Hari-ko so-neko
+\g said Sita-erg Hari-dat sleep-inf
+\l Sita told Hari to (go to)sleep'.
+
+\t niinaane         baalikaako uthaayaa.
+\m niinaa-ne         baalikaa-ko uthaa-y-aa.
+\g Nina.F-ERG        girl-ACC      lift-PERF-M
+\l Nina lifted up a/the girl.
+
+\t niinaa            baalikaako uthaaegii.
+\m niinaa            baalikaa-ko uthaa-eg-ii.
+\g Nina.F.NOM        girl-ACC      lift-FUT-F
+\l Nina will lift up a/the girl.
+
+\t niinaane         roTii             khaayii.
+\m niinaa-ne         roTii             khaa-y-ii.
+\g Nina.F-ERG        bread.F.NOM eat-PERF-F
+\l Nina ate bread.
+
+\t niinaa            kelaa             khaaegii.
+\m niinaa            kelaa             khaa-eg-ii.
+\g Nina.F.NOM        banana.M.NOM eat-FUT-F
+\l Nina will eat a banana.
+
+\t tumne     yah kaha:ni            likhi
+\m tum-ne     yah kaha:ni            likhi
+\g you-ERG this story-ABS(f) write
+\l You wrote this story
+
+\t Raamne    yah kaha:ni            likhi
+\m Raam-ne    yah kaha:ni            likhi
+\g Ram-ERG this story-ABS(f) write
+\l Ram wrote this story
+
+\t Mohan Ra:kes ne vah kaha:ni likhi
+\m Mohan Ra:kes ne vah kaha:ni likhi
+\g Mohan Rakes-ERG this story-ABS(f) write
+\l Mohan Rakes wrote this story
+
+\t Mohan Ra:kes kaha:nya:N likhte haiN
+\m Mohan Ra:kes kaha:nya:N likh-t-e haiN
+\g Mohan Rakes-NOM stories(f) write-AUX
+\l Mohan Rakes writes stories
+
+\t ye baat [kii raam jaanna caahtaa hE [kii siitaane laibreriise  kOnsi kitaab               nikaalii]]
+\m ye baat [kii raam jaanna caahtaa hE [kii siitaa-ne laibrerii-se  kOnsi kitaab               nikaalii]]
+\g this talk that Ram to know wants is that Sita-erg library-from which book                   took-out  
+\l the fact that Ram wants to know which book Sita took out from the library
+
+\t kisii saayerne har ghazal                likh ii
+\m kisii saayer-ne har ghazal                likh ii
+\g some poet-E R G every song-N        OM    write.f-PERF
+\l Some poet wrote every song.
+
+\t koi saayer           har ghazal           likh taa          hai
+\m koi saayer           har ghazal           likh taa          hai
+\g some poet-N     OM   every song-A    CC   write.m-IMPF   be-PRES
+\l Some poet writes every song.
+
+\t koi caukidaar               har mandirke samne       jh ukaa
+\m koi caukidaar               har mandir-ke samne       jh ukaa
+\g some watchman-NOM     every temple  in-front-of crouch-PERF
+\l Some guard crouched in front of every temple.
+
+\t koi aadmii          har kitaab          laayaa
+\m koi aadmii          har kitaab          laayaa
+\g some man-N O    M   every book-A   CC   bring-P   ERF
+\l Some man brought every book.
+
+\t niinaane         baalikaako     uthaayaa.
+\m niinaa-ne         baalikaa-ko     uthaa-y-aa.
+\g Nina.F-ERG        girl-ACC        lift-PERF-M
+\l Nina lifted up a/the girl.
+
+\t niinaa            baalikaako     uthaaegii.
+\m niinaa            baalikaa-ko     uthaa-eg-ii.
+\g Nina.F.NOM        girl-ACC        lift-FUT-F
+\l Nina will lift up a/the girl.
+
+\t niinaane         roTii              khaayii.
+\m niinaa-ne         roTii              khaa-y-ii.
+\g Nina.F-ERG        bread.F.NOM        eat-PERF-F
+\l Nina ate bread.
+
+\t  niinaa          kelaa             khaaegii.
+\m  niinaa          kelaa             khaa-eg-ii.
+\g Nina.F.NOM       banana.M.NOM eat-FUT-F
+\l Nina will eat a banana.
+
+\t Raviine      baalakko/*baalak       baccaa/*bacceko diyaa.
+\m Ravii-ne      baalak-ko/*baalak       baccaa/*bacce-ko diy-aa.
+\g Ravi-ERG boy-ACC/*boy.NOM child.NOM/*child-ACC         give.PERF-M
+\l Ravi gave a/the child to a/the boy.
+
+\t Raviine      gaayko/*gaay           kelaa/*keleko      khilaayaa
+\m Ravii-ne      gaay-ko/*gaay           kelaa/*kele-ko      khilaay-aa
+\g Ravi-ERG cow-ACC/*cow.NOM banana.NOM/*banana-ACC eat.CAUS.PERF-M
+\l Ravi fed a/the cow a/the banana.
+
+\t Ravi         ma)a)ko       baccaa     detaa hai.
+\m Ravi         ma)a)-ko       baccaa     detaa hai.
+\g Ravi.NOM mother-ACC child.NOM give.IMPERF be.PRES
+\l Ravi gives a/the child to the mother
+
+\t ma)a)ko      baccaa        diyaa            gayaa.
+\m ma)a)-ko      baccaa        diyaa            gayaa.
+\g mother-ACC child.NOM give.PERF               go.PERF
+\l The mother was given a/the child
+
+\t Siitaane Hariko [kitaab(ko) khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab(-ko) khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book(-acc) buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t                               ~
+\m                               ~
+\g Sita and Hari-erg shop in one book saw
+\l Sita and Hari saw a book in a shop.
+
+\t Sitane Hariko [kitaab(ko) khariidneko] kahaa
+\m Sita-ne Hari-ko [kitaab(-ko) khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [khariidneko kitaab] kahaa
+\m Siitaa-ne Hari-ko [khariid-ne-ko kitaab] kahaa
+\g   Sita-erg Hari-dat buy-inf         book told
+\l Sita told Hari to buy a/the book.
+
+\t Rucine Siitaako [Hariko [kitaab(ko) khariidneko] bolneko] kahaa
+\m Ruci-ne Siitaa-ko [Hari-ko [kitaab(-ko) khariid-ne-ko] bolne-ko] kahaa
+\g Ruci-erg Sita-dat Hari-dat book(-acc) buy-inf          tell-inf told
+\l Ruci told Sita to tell Hari to buy the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [kitaabko khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab-ko khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [Raviko [kitaab khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book buy-inf           tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [Raviko [kitaabko khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab-ko khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf          tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [kitaabko khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab-ko khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [Raviko [kitaab khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book buy-inf           tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [Raviko [kitaabko khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab-ko khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf          tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t siitaane hariko       kitaab khariidneko kahaa
+\m siitaa-ne hari-ko       kitaab khariid-ne-ko kahaa
+\g Sita-erg Hari-dat       book buy-inf           told
+\l Sita told Hari to      buy a/the book.
+
+\t hariko siitaane       kitaab khariidneko kahaa
+\m hari-ko siitaa-ne       kitaab khariid-ne-ko kahaa
+\g Hari-dat Sita-erg       book buy-inf           told
+\l Sita told Hari to      buy a/the book.
+
+\t siitaane hariko       kitaab(ko) khariidneko kahaa
+\m siitaa-ne hari-ko       kitaab-(ko) khariid-ne-ko kahaa
+\g Sita-erg Hari-dat       book-acc buy-inf            told
+\l Sita told Hari to      buy the book.
+
+\t hariko siitaane       kitaab(ko) khariidneko kahaa
+\m hari-ko siitaa-ne       kitaab-(ko) khariid-ne-ko kahaa
+\g Hari-dat Sita-erg       book-acc buy-inf            told
+\l It was Hari who        Sita told to buy the book.
+
+\t tum        Ãu
+\m tum        Ãu
+\g you-polite go-imp.2s
+\l You go!
+
+\t niinaane         baalikaako uthaayaa.
+\m niinaa-ne         baalikaa-ko uthaa-y-aa.
+\g Nina.F-ERG        girl-ACC      lift-PERF-M
+\l Nina lifted up a/the girl.
+
+\t niinaa            baalikaako uthaaegii.
+\m niinaa            baalikaa-ko uthaa-eg-ii.
+\g Nina.F.NOM        girl-ACC      lift-FUT-F
+\l Nina will lift up a/the girl.
+
+\t niinaane         roTii             khaayii.
+\m niinaa-ne         roTii             khaa-y-ii.
+\g Nina.F-ERG        bread.F.NOM eat-PERF-F
+\l Nina ate bread.
+
+\t niinaa            kelaa             khaaegii.
+\m niinaa            kelaa             khaa-eg-ii.
+\g Nina.F.NOM        banana.M.NOM eat-FUT-F
+\l Nina will eat a banana.
+
+\t Koibhii nah aayaa226
+\m Koi-bhii nah aayaa226
+\g Anybody neg came
+\l Nobody came
+
+\t aurat         ne kahaa [ki             aadmii ne         patthar maaraa]
+\m aurat         ne kahaa [ki             aadmii ne         patthar maaraa]
+\g    woman erg said comp man                        erg rock threw
+\l the woman said that the man threw the rock
+
+\t Mombatt?toi             i,           lekin abh machis   gum gaye.
+\m Mombatt?toi             i,           lekin abh machis   gum gaye.
+\g the candle.F.NOM-TOP found.PERF.F.SG but now match.NOM lost go-PERF.PL
+\l The candle was found but now the matches are lost.
+
+\t in      in ladko=ko=h?chot lag?     i
+\m in      in ladko=ko=h?chot lag?     i
+\g these three bo ys=DAT=FOC hurt-F be-applied-to-PERF.F.SG
+\l (Only) these three boys got hurt.
+
+\t raamnee         makaan                 banaayee
+\m raam-nee         makaan                 ban-aa-yee
+\g Ram-AGENT        house                  build-D.CS-PST
+\l Ram built a house.
+
+\t m~§nee       raamsee            makaan         banvaayaa
+\m m~§-nee       raam-see            makaan         ban-vaa-yaa
+\g I-AGENT       Ram-INST            house          build-I.CS-PST
+\l I had Ram build a house.
+
+\t M~m       ne       baccom ko gemd khil~§
+\m M~m       ne       baccom ko gemd khil~§
+\g mother SUBJ children IO     ball      pl ay.CS.PERF
+\l Mother made the children play ball.
+
+\t meraa kuttaa aur merii billii mere saath ghar me$ rahte ha$i$
+\m meraa kuttaa aur merii billii mere saath ghar me$ rahte ha$i$
+\g  my    dog and my      cat me      with house LOC live       SUBJ GEND=MASC
+\l My dog and my cat live with me in the house
+
+\t ilaane mohanko pasand           kiyaa
+\m ilaa-ne mohan-ko pasand           kiyaa
+\g   Ila-ERG Mohan-ACC liking.NOM.FEM do.PERF.MASC
+\l Ila liked (approved of) Mohan
+
+\t koi           nahiiN         kyaa paRhaa
+\m koi           nahiiN         kyaa paRhaa
+\g    anyone        not            what read-Perf.M
+\l What did no one read?
+
+\t kyaa koi             nahiiN         paRhaa
+\m kyaa koi             nahiiN         paRhaa
+\g what anyone          not            read-Perf.M
+\l What did no one read?
+
+\t tumne          kiskii        kitaab    paRhii          thii
+\m tum-ne          kis-kii        kitaab    paRh-ii          thii
+\g you-ERG      who-GEN.F   book.F    read-PERF.F   PAST
+\l Whose book had you read?
+
+\t kiskii,        tumne         kitaab    paRhii          thii
+\m kis-kii,        tum-ne         kitaab    paRh-ii          thii
+\g who-GEN.F    you-ERG     book.F    read-PERF.F   PAST
+\l Whose book had you read?
+
+\t tumne          Ramkii        kitaab    paRhii          thii
+\m tum-ne          Ram-kii        kitaab    paRh-ii          thii
+\g you-ERG      Ram-GEN.F   book.F    read-PERF.F   PAST
+\l You had read Ram's book
+
+\t Ramkii,        tumne         kitaab    paRhii          thii
+\m Ram-kii,        tum-ne         kitaab    paRh-ii          thii
+\g Ram-GEN.F    you-ERG     book.F    read-PERF.F   PAST
+\l As for Ram, you had read his book
+
+\t mãi     paanvaan       nahiin khaataa                    huuN
+\m mãi     paan-vaan       nahiin khaataa                    huuN
+\g I       paan-ECHO       NEG      eat-IMPF                 AUX.1.PRES
+\l I don't eat paan or other such things.
+
+\t mãi     paanvaan       nahiin khaataa        huuN
+\m mãi     paan-vaan       nahiin khaataa        huuN
+\g I       paan-ECHO       NEG      eat-IMPF     AUX.1.PRES
+\l I don't eat paan or other such things.
+
+\t Niina           baalakko uthaaegii.
+\m Niina           baalak-ko uthaaegii.
+\g Nina.F(Nom) boy.M-Acc lift-FUT.F.sg
+\l Nina will lift up the boy.
+
+\t Niinaane baalakko uthaayaa                 (*uthaayii)
+\m Niinaa-ne baalak-ko uthaayaa                 (*uthaayii)
+\g Nina.F-Erg boy.M-Acc lift-PERF.M.sg lift-PERF.F.sg
+\l (for these many years) I have been at your service.
+
+\t agar tum sacmuch yeh exam paas karnaa caahte           ho,      to             tumhen kaRii mehnat         karnii caahiye
+\m agar tum sacmuch yeh exam paas kar-naa caah-te           ho,      to             tumhen kaRii mehnat         kar-nii caahiye
+\g if you truly       this exam pass do-Inf want-Hab.MPl be.Prs.2Pl, then           you.Dat hard.f hardwork.f do-Inf.f should  
+\l If you truly want to pass this exam, you should work hard.
+
+\t agar tum sacmuch yeh exam paas karnaa caahte            ho,     to            tumhen kaRii mehnat         karnii hogii 
+\m agar tum sacmuch yeh exam paas kar-naa caah-te            ho,     to            tumhen kaRii mehnat         kar-nii ho-gii 
+\g if you truly       this exam pass do-Inf want-Hab.MPl be.Prs.2Pl then           you.Dat hard.f hardwork.f do-Inf.f be-Fut.f
+\l If you truly want to pass this exam, you will have to work hard.
+
+\t Ramko ghar aanaahii     thaa ki baccoNne ronaa shuruu kar                  diyaa  
+\m Ram-ko ghar aa-naa-hii     thaa ki baccoN-ne ro-naa shuruu kar                  di-yaa  
+\g Ram-Dat home come-Inf-only be.Pst that children-Erg cry-Inf start do            GIVE-Pfv
+\l Ram had only to come home and the children started crying.
+
+\t [ham] [vam] hindii siikh rahe     ha .
+\m [ham] [vam] hindii siikh rahe     ha .
+\g   we    echo Hindi learn prog.mpl be.pres.3pl
+\l We are learning Hindi.
+
+\t [la ko        ko] [va ko                                        ko] kursiyaa     do
+\m [la ko        ko] [va ko                                        ko] kursiyaa     do
+\g   boy.mpl.obl dat28 echo                                           chair.fpl.obl give.imp
+\l Give the boys the chairs.
+
+\t baccaa         aakkhaane        gayaa
+\m baccaa         aakkhaane        gayaa
+\g child.ms.dir post-office.ms.obl go.perf.ms
+\l The child went to the post-office.
+
+\t mujhe [likhnaa] [vikhnaa] pasand hai
+\m mujhe [likhnaa] [vikhnaa] pasand hai
+\g I.obl read.infin echo     pleasing be.pres.3s
+\l I like r eading.
+
+\t mez       ko saaf [karke]        [varke]
+\m mez       ko saaf [karke]        [varke]
+\g  table.obl acc clea n make.conj echo
+\l After cleaning the table, . . .
+
+\t raam ko kahaanii [yaad     aayii]        [vaad aayii]
+\m raam ko kahaanii [yaad     aayii]        [vaad aayii]
+\g  Ram dat story     memor y come.perf.fs echo
+\l Ram remember ed the story and so forth.
+
+\t pramod relgaa ii se [utar       aayaa]     [vutar aayaa]
+\m pramod relgaa ii se [utar       aayaa]     [vutar aayaa]
+\g  Pramod train.obl from descend come.perf.ms echo
+\l Pramod ca me down out of the train etc.
+
+\t niilii        aakhovaalii       la kiyaa
+\m niilii        aakho-vaalii       la kiyaa
+\g blue.fpl.obl eye.pl.obl suff.fpl.dir girl.fpl.dir
+\l girls with blue eyes
+
+\t [niilii]     [viilii] aakhovaalii        la kiyaa
+\m [niilii]     [viilii] aakho-vaalii        la kiyaa
+\g  blue.fpl.obl echo eye.pl.obl suff.fpl.dir girl.fpl.dir
+\l girls with blue and other light-coloured eyes
+
+\t muje malum nahin ki wo ladka kya padh raha hain?
+\m muje malum nahin ki wo ladka kya padh raha hain?
+\g IDAT ­ know ­ NEG ­ CMP ­ this ­ boy ­ what ­ studies
+\l I do not know what the boy studies.
+
+\t vah apne deÑ       ko laut         gay~.
+\m vah apne deÑ       ko laut         gay~.
+\g he own country to         return went
+\l He went back to his own country.
+
+\t landan Ram ko pasand                hai.
+\m landan Ram ko pasand                hai.
+\g London Ram to       pleasing        is
+\l Ram likes London.
+
+\t h r s b h m k h iz                 bhul jati h
+\m h r s b h m k h iz                 bhul jati h
+\g   every morning I somethings forget PROG be
+\l every morning I forget some (specific) thing
+
+\t h r partime m kIsIko             bhul jati h
+\m h r partime m kIsI-ko             bhul jati h
+\g   every party I someone-KO forget PROG be
+\l every party I forget someone
+
+\t Jiitnaa suuraj chamkaa utnii(hii) ThanD baRhii (comparative correlatives)
+\m Jiitnaa suuraj chamk-aa utnii-(hii) ThanD baRhii (comparative correlatives)
+\g   How-much sun shine that-much-(only) cold increase
+\l The more the sun shines, the colder it gets
+
+\t jo larkii kharii hai vo lambii hai
+\m jo larkii kharii hai vo lambii hai
+\g   REL girl standing is DEM tall is
+\l which girl is standing, that girl is tall
+
+\t Jo aapne banaayaa, vah meine khaayaa. (free relatives)
+\m Jo aapne banaayaa, vah meine khaayaa. (free relatives)
+\g   Which you-erg make-pst that I eat-pst
+\l I ate what you cooked
+
+\t vo2]] parh raha: hai
+\m vo2]] parh raha: hai
+\g DEM read prog be-pres
+\l Nowadays, Rahul is reading the book that Saira wrote and the cartoon that Shyam
+
+\t agar tum sacmuch yeh exam paas karnaa caahte           ho,               to tumhen kaRii mehnat            karnii caahiye.
+\m agar tum sacmuch yeh exam paas kar-naa caah-te           ho,               to tumhen kaRii mehnat            kar-nii caahiye.
+\g if    you truly     this exam pass do-Inf want-Hab.MPl be.Prs.2Pl,         then you.Dat hard.f hardwork.f do-Inf.f should    
+\l If you truly want to pass this exam, you should work hard.
+
+\t agar tum sacmuch yeh exam paas karnaa caahte            ho,             to tumhen kaRii mehnat            karnii hogii.
+\m agar tum sacmuch yeh exam paas kar-naa caah-te            ho,             to tumhen kaRii mehnat            kar-nii ho-gii.
+\g if    you truly     this exam pass do-Inf want-Hab.MPl be.Prs.2Pl         then you.Dat hard.f hardwork.f do-Inf.f be-Fut.f 
+\l If you truly want to pass this exam, you will have to work hard.
+
+\t Ramko ghar aanaahii     thaa ki baccoNne ronaa shuruu                kar diyaa.
+\m Ram-ko ghar aa-naa-hii     thaa ki baccoN-ne ro-naa shuruu                kar di-yaa.
+\g Ram-Dat home come-Inf-only be.Pst that children-Erg cry-Inf start         do give-Pfv
+\l Ram had only to come home and the children started crying.
+
+\t ma NiN         hindustaanmeNeN thaa
+\m ma NiN         hindustaan-meNeN thaa
+\g I       India-in           BE.sg.msc.pst
+\l I was in India
+
+\t anune kitaab paRhii. #Vo/kitaab/ bahut acchii thii
+\m anu-ne kitaab paRhii. #Vo/kitaab/ bahut acchii thii
+\g A nu    book read.It/book/e            very good was.
+\l Anu read a book. It/the book/[pro] was very good.
+
+\t laZrk~o=kÑa        kamrÑa
+\m laZrk-~o=k-Ña        kamr-Ña
+\g   boy-PL.OBL   of-MASC.SG room(MASC)-SG.NOM
+\l the room of the boys
+
+\t laZrk~o=ke                 kamre
+\m laZrk-~o=k-e                 kamr-e
+\g   boy-PL.OBL   of-MASC.PL room(MASC)-PL.NOM
+\l the rooms of the boys
+
+\t Siitaane Hariko [kitaab(ko) khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab(-ko) khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book(-acc) buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Sitane Hariko [kitaab(ko) khariidneko] kahaa
+\m Sita-ne Hari-ko [kitaab(-ko) khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [khariidneko kitaab] kahaa
+\m Siitaa-ne Hari-ko [khariid-ne-ko kitaab] kahaa
+\g   Sita-erg Hari-dat buy-inf         book told
+\l Sita told Hari to buy a/the book.
+
+\t Rucine Siitaako [Hariko [kitaab(ko) khariidneko] bolneko] kahaa
+\m Ruci-ne Siitaa-ko [Hari-ko [kitaab(-ko) khariid-ne-ko] bolne-ko] kahaa
+\g Ruci-erg Sita-dat Hari-dat book(-acc) buy-inf          tell-inf told
+\l Ruci told Sita to tell Hari to buy the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [kitaabko khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab-ko khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [Raviko [kitaab khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book buy-inf           tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [Raviko [kitaabko khariidneko] bolneko]    kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab-ko khariid-ne-ko] bol-ne-ko]    kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf          tell-inf      told 
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [kitaabko khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab-ko khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t Siitaane Hariko [Raviko [kitaab khariidneko] bolneko] kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab khariid-ne-ko] bol-ne-ko] kahaa
+\g Sita-erg Hari-dat Ravi-dat book buy-inf           tell-inf   told
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t Siitaane Hariko [Raviko [kitaabko khariidneko] bolneko]    kahaa
+\m Siitaa-ne Hari-ko [Ravi-ko [kitaab-ko khariid-ne-ko] bol-ne-ko]    kahaa
+\g Sita-erg Hari-dat Ravi-dat book-acc buy-inf          tell-inf      told 
+\l Sita told Hari to tell Ravi to buy a/the book.
+
+\t siitaane hariko kitaab khariidneko kahaa
+\m siitaa-ne hari-ko kitaab khariid-ne-ko kahaa
+\g Sita-erg Hari-dat book buy-inf         told
+\l Sita told Hari to buy a/the book.
+
+\t hariko siitaane kitaab khariidneko kahaa
+\m hari-ko siitaa-ne kitaab khariid-ne-ko kahaa
+\g Hari-dat Sita-erg book buy-inf         told
+\l Sita told Hari to buy a/the book.
+
+\t siitaane hariko kitaab(ko) khariidneko kahaa
+\m siitaa-ne hari-ko kitaab-(ko) khariid-ne-ko kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t hariko siitaane kitaab(ko) khariidneko kahaa
+\m hari-ko siitaa-ne kitaab-(ko) khariid-ne-ko kahaa
+\g Hari-dat Sita-erg book-acc buy-inf           told
+\l It was Hari who Sita told to buy the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf-acc said
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [kitaab khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book buy-inf           told
+\l Sita told Hari to buy a/the book.
+
+\t Siitaane Hariko [kitaabko khariidneko] kahaa
+\m Siitaa-ne Hari-ko [kitaab-ko khariid-ne-ko] kahaa
+\g Sita-erg Hari-dat book-acc buy-inf          told
+\l Sita told Hari to buy the book.
+
+\t ( 1 7 ) a. r am                     roti           kh ata      tha
+\m ( 1 7 ) a. r am                     roti           kh a-t-a      th-a
+\g            Ram.M.Sg.Nom             bread.F.Sg.Nom eat-Impf-M.Sg be.Past-M.Sg
+\l Ram used to eat         bread.
+
+\t ram=ne           roti             k h ay i    thi
+\m ram=ne           roti             k h a-y i    th-i
+\g  Ram.M.Sg=Erg bread.F.Sg.Nom eat-Perf.F.Sg be.Past-F.Sg
+\l Ram had eaten bread.
+
+\t ( 2 9 ) a. r am              g ar i        calata            h
+\m ( 2 9 ) a. r am              g ar i        cala-ta            h
+\g            Ram.M.Sg.Nom car.M.Sg.Nom drive-Impf.M.Sg be.Pres.3.Sg
+\l Ram drives a car.
+
+\t ram=ne           g ar i        calayi             h
+\m ram=ne           g ar i        cala-yi             h
+\g Ram.M.Sg=Erg car.M.Sg.Nom drive-Perf.M.F.Sg be.Pres.3.Sg
+\l Ram has driven a/the car.
+
+\t Raamko acaanak ser dikhaa. vah/*usne cillaayaa.
+\m Raam-ko acaanak ser dikhaa. vah/*us-ne cillaayaa.
+\g Ram-Dat suddenly lion-Nom appear-PERF he-Nom/he-Erg scream-perf
+\l Ram suddenly saw a lion. Hescreamed'.
+
+\t usne/*vah jaan buujhkar cillaayaa.
+\m us-ne/*vah jaan buujhkar cillaayaa.
+\g He-Erg/he-Nom deliberately shout-Perf
+\l He shouteddeliberately'.
+
+\t  raam         roTii     khaataa thaa
+\m  raam         roTii     khaataa thaa
+\g Ram (m.) bread (f.) eat(imp.m.) be
+\l Ram (habitually) ate bread
+
+\t raam ne roTii khaayii
+\m raam ne roTii khaayii
+\g   Ram (m.) erg bread (f.) eat
+\l Ram ate bread
+
+\t Raamne         chIIkaa
+\m Raam-ne         chIIkaa
+\g  Raam-ERG sneezed
+\l Raam sneezed (volitionally)
+
+\t raamne kuttoNko khariidaa                        hai
+\m raam-ne kuttoN-ko khariid-aa                        hai
+\g R.-ERG           dogs-ACC   buy-PRF.SG.M     be.PRS.3SG
+\l Ram has bought the dogs.
+
+\t raamne kele                         khariide          hai   N
+\m raam-ne kele                         khariid-e          hai   N
+\g R.-ERG           bananas   (M)   i   buy-PRF.PL.Mi   be.PRS.3PLi
+\l Ram has bought the bananas.
+
+\t raam ne roTii                    khaayii      lagtii       thii
+\m raam ne roTii                    khaayii      lagtii       thii
+\g Ram(m) ERGi bread(f.NOM)k [_i _k eat(PRF.f)] seem(IMPRF.f) was(f)
+\l Ram seemed to have eaten bread.
+
+\t hayo: nazi:ra:!
+\m hayo: nazi:ra:!
+\g Oh-msg Nazir-voc
+\l O Nazir!
+
+\t bare makan¯       me
+\m bare makan¯       me
+\g big house.SG.M.OBL
+\l in the big house
+
+\t un lõgõ me se t¯n i
+\m un lõgõ me se t¯n i
+\g that people in from three
+\l three from among those people
+
+\t   .           s¯ta         ko dekht¯       hã~.
+\m   .           s¯ta         ko dekht¯       hã~.
+\g girl.PL.F.DIR Sita.SG.F.OBL look.IMPF.PL.F be.PRES.3.PL
+\l The girls look at Sita.
+
+\t   .              ¯         parht¯         hã~.
+\m   .              ¯         parht¯         hã~.
+\g girl.PL.F.DIR book.SG.F.DIR read.IMPF.PL.F be.PRES.3.PL
+\l The girls read a book.
+
+\t   .          ne s¯ta              ¯
+\m   .          ne s¯ta              ¯
+\g girl.PL.F.OBL Sita.SG.F.OBL look.PERF.DFT
+\l The girls looked at Sita.
+
+\t  i¯          uc¯ hai.
+\m  i¯          uc¯ hai.
+\g wall.SG.F.DIR high be.PRES.3.SG
+\l The wall is high
+
+\t bare makan¯        me
+\m bare makan¯        me
+\g big house.SG.M.OBL
+\l in the big house
+
+\t Naadyaa ne      cit t Vii ko     likVaa hai.
+\m Naadyaa ne      cit t Vii ko     likV-aa hai.
+\g Nadya(F) ERG note(F) ACC write-PERF.M.SG be.PRES.3SG
+\l Nadya has written a (particular) note.
+
+\t Naadyaa xat          likVtii      hai.
+\m Naadyaa xat          likV-tii      hai.
+\g Nadya(F) letter(M) write-IMPF.F.SG be.PRES.3SG
+\l Nadya writes a letter.
+
+\t Naadyaa ne       xat          likVaa  hai.
+\m Naadyaa ne       xat          likV-aa  hai.
+\g Nadya(F) ERG letter(M) write-PERF.M.SG be.PRES.3SG
+\l Nadya has written a letter.
+
+\t Naadyaa ne      cit t Vii likVii    hai.
+\m Naadyaa ne      cit t Vii likV-ii    hai.
+\g Nadya(F) ERG note(F) write-PERF.F.SG be.PRES.3SG
+\l Nadya has written a note.
+
+\t Naadyaa ne      cit t Vii ko     likVaa             hai.
+\m Naadyaa ne      cit t Vii ko     likV-aa             hai.
+\g Nadya(F) ERG note(F) ACC write-PERF.M.SG be.PRES.3SG
+\l Nadya has written a (particular) note.
+
+\t Vivekne kitaab parhnii chaahii.
+\m Vivek-ne kitaab parh-nii chaah-ii.
+\g Vivek-Erg book.F read-Inf.F want-Perf.F
+\l Vivek wants to read the book.
+
+\t Shahrukhne tehnii     kaatnii chaahii.
+\m Shahrukh-ne tehnii     kaat-nii chaah-ii.
+\g Shahrukh-Erg branch.F cut-Inf.F want-Perf.F
+\l Shahrukh wanted to cut the branch.
+
+\t Shahrukhne tehnii     kaatnii chaahaa.
+\m Shahrukh-ne tehnii     kaat-nii chaah-aa.
+\g    Shahrukh-Erg branch.F cut-Inf.F want-Perf.M
+\l Shahrukh wanted to cut the branch.
+
+\t Shahrukhne tehnii     kaatnaa chaahii.
+\m Shahrukh-ne tehnii     kaat-naa chaah-ii.
+\g    Shahrukh-Erg branch.F cut-Inf.M want-Perf.F
+\l Shahrukh wanted to cut the branch.
+
+\t Rohanne aaj [phirse mehnat     karnii] chaahii
+\m Rohan-ne aaj [phir-se mehnat     kar-nii] chaah-ii
+\g Rohan-Erg today again hardwork.F do-Inf.F want-Perf.FSg
+\l Today Rohan wanted to work hard again.
+
+\t Firozne Shabnamkaa rotii        khaanaa chaahaa.
+\m Firoz-ne Shabnam-kaa rotii        khaa-naa chaah-aa.
+\g    Firoz-Erg Shabnam-Gen bread.F eat-Masc.want-Perf-Masc
+\l Firoz wanted Shabnam to eat bread.
+
+\t Firozne Shabnamkaa rotii     khaanii chaahii.
+\m Firoz-ne Shabnam-kaa rotii     khaa-nii chaah-ii.
+\g   Firoz-Erg Shabnam-Gen bread.F eat-F.want-Perf-F
+\l Firoz wanted Shabnam to eat bread.
+
+\t Shabnamkaai Firozne ti rotii     khaanii chaahii.
+\m Shabnam-kaai Firoz-ne ti rotii     khaa-nii chaah-ii.
+\g    Shabnam-Gen Firoz-Erg bread.F eat-F.want-Perf-F
+\l Firoz wanted Shabnam to eat bread.
+
+\t Kiskaai Firozne ti rotii    khaanii chaahii.
+\m Kis-kaai Firoz-ne ti rotii    khaa-nii chaah-ii.
+\g    who-Gen Firoz-Erg bread.F eat-F.want-Perf-F
+\l Who did Firoz want to eat bread?
+
+\t Firozne Kiskaa rotii      khaanii chaahii.
+\m Firoz-ne Kis-kaa rotii      khaa-nii chaah-ii.
+\g    Firoz-Erg who-Gen bread.F eat-F.want-Perf-F
+\l Who did Firoz want to eat bread?
+
+\t Rahul        kitaab parhtaa         thaa.
+\m Rahul        kitaab parh-taa         thaa.
+\g Rahul-Nom book.F read-Hab.M.Sg.be.Pst.M.Sg.
+\l Rahul used to read the book.
+
+\t Rahulne parhiithii kitaab       thii.
+\m Rahul-ne parhii-thii kitaab       thii.
+\g Rahul-Erg book.F      read-Perf.F be.Pst.F.Sg
+\l Rahul had read the book.
+
+\t kaun       kitaab parhtaa            thaa?
+\m kaun       kitaab parh-taa            thaa?
+\g who-Nom book.F read-Hab.M.Sg.be.Pst.M.Sg.
+\l Who used to read the book?
+
+\t kisne     parhiithii kitaab       thii?
+\m kisne     parhii-thii kitaab       thii?
+\g who-Erg book.F        read-Perf.F be.Pst.F.Sg
+\l Who had read the book?
+

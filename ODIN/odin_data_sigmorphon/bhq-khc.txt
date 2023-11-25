@@ -1,0 +1,600 @@
+\t d. te ana           [no`ita       te keneno]VP
+\m d. te ana           [no-`ita       te kene-no]VP
+\g    CASE child       3-see          CASE friend-3P
+\l The child saw its friend.
+
+\t Te wowine        [ku`ita`e na mia ]RC
+\m Te wowine        [ku-`ita-`e na mia ]RC
+\g CASE woman       1sg-see-3O NOM person
+\l The person that I see is a woman.
+
+\t Saba`ane      nolemba`e na kalaku         te amai
+\m Saba`ane      no-lemba-`e na kalaku         te amai
+\g all           3-carry-3O NOM coconut CASE 3pl
+\l They carried all of the coconuts.
+
+\t Nopepeaku na iaisu.
+\m No-pepe-aku na iai-su.
+\g 3-slap-1sgO      NOM younger.sibling-1sgP
+\l He slapped me my younger brother.
+
+\t Nosai     te      kolikoli na        La Udi.
+\m No-sai     te      kolikoli na        La Udi.
+\g 3R-make CORE canoe            NOM Mr Udin
+\l Udin's making a canoe.
+
+\t te     wunua     nu           wowine
+\m te     wunua     nu           wowine
+\g CORE   house     GEN          woman
+\l the woman's house
+
+\t te     wowine        iso
+\m te     wowine        iso
+\g CORE   woman         that
+\l that woman
+
+\t te     wowine mandawulu
+\m te     wowine mandawulu
+\g CORE   woman      beautiful
+\l the beautiful woman
+
+\t te     wowine [ k<um>ede i                kamara ] iso
+\m te     wowine [ k<um>ede i                kamara ] iso
+\g CORE   woman        sit<SI>      OBL      room     that
+\l that woman sitting in the room
+
+\t Anedo   nokede i            kamara      na      wowine      iso
+\m Ane-do   no-kede i            kamara      na      wowine      iso
+\g be-still 3R-sit       OBL     room        NOM     woman       that
+\l That woman is sitting in the room.
+
+\t Nowila kua       togo
+\m No-wila kua       togo
+\g 3R-go     ALL     town
+\l They went to town.
+
+\t Nowila kene honda           kua         togo
+\m No-wila kene honda           kua         togo
+\g 3R-go     INSTR motorbike ALL            town
+\l They went to town by motorbike.
+
+\t nowila te       honda      kua        togo
+\m no-wila te       honda      kua        togo
+\g  3R-go     CORE motorbike ALL            town
+\l They went to town by motorbike.
+
+\t Nowila=ako te        honda       kua       togo.
+\m No-wila=ako te        honda       kua       togo.
+\g 3R-go=APPL CORE motorbike ALL               town
+\l They went to town by motorbike.
+
+\t Pe      (ní=pa)       hòe      (ní=pa) pe=tue       (ní=pa) e        tue.
+\m Pe      (ní=pa)       hòe      (ní=pa) pe=tue       (ní=pa) e        tue.
+\g 3SG.F spoon=INSTR sago                    3SG.F=3SG.F.do    3SG.F.be 3SG.F.do
+\l She's cooking sago with a stirring spoon.
+
+\t Ku'ita           te      ana     (na         iaku).
+\m Ku-'ita           te      ana     (na         iaku).
+\g 1SG.AGR1-see      CASE 1 child CASE 2         1SG
+\l I saw a child.
+
+\t Kurato              (na             iaku) di   kampo.
+\m Ku-rato              (na             iaku) di   kampo.
+\g 1SG.AGR1-arrive CASE 2               1SG CASE 3 village
+\l I arrived at the village.
+
+\t Kubuti              (na             iaku) di   kampo.
+\m Ku-buti              (na             iaku) di   kampo.
+\g 1SG.AGR1-fall         CASE 2         1SG CASE 3 village
+\l I fell in the village.
+
+\t Ku'ita=`e                      (te         iaku) na   ana.
+\m Ku-'ita=`e                      (te         iaku) na   ana.
+\g 1SG.AGR1-see=3AGR2              CASE 1      1SG CASE 1 child
+\l I saw the child.
+
+\t Kuhu'u=ke te          boku (te          iaku) na       ana.
+\m Ku-hu'u=ke te          boku (te          iaku) na       ana.
+\g 1SG-see=3P CASE 1 book CASE 1            1SG CASE 1 child
+\l I gave the child a book.
+
+\t te     wunu(a    n)u      wowine
+\m te     wunu(a    n)u      wowine
+\g CORE   house     GEN      woman
+\l the woman's house
+
+\t te     wowine      iso
+\m te     wowine      iso
+\g CORE   woman       that
+\l that woman
+
+\t te     wowine mandawulu
+\m te     wowine mandawulu
+\g CORE   woman      beautiful
+\l the beautiful woman
+
+\t te     wowine [ k<um>ede i                kamara ] iso
+\m te     wowine [ k<um>ede i                kamara ] iso
+\g CORE   woman        sit<SI>      OBL      room     that
+\l that woman sitting in the room
+
+\t Anedo nokede i              kamara      na     wowine      iso
+\m Ane-do no-kede i              kamara      na     wowine      iso
+\g be-still 3S/A-sit OBL room                NOM    woman       that
+\l That woman is sitting in the room.
+
+\t Mbeaka   nokede i            kamara na          wowine      iso
+\m Mbeaka   no-kede i            kamara na          wowine      iso
+\g NEG      3S/A-sit OBL room               NOM     woman       that
+\l That woman is not sitting in the room.
+
+\t Te     amai te          mori.
+\m Te     amai te          mori.
+\g CORE   3PL     CORE student
+\l They are students.
+
+\t  nopogau=mo na           kadola     iso      kua ...
+\m  no-pogau=mo na           kadola     iso      kua ...
+\g  CORE     Wa Sabusaburengki this          3I-decapitate<SI> CORE       chicken
+\l Once upon a time, there was a lady, and her name                      was Wa Sabusaburengki. Wa Sabusaburengki was going to cut off a             chicken's head. Just as she was about to cut off its head, that chicken said  
+
+\t Norato            na     mori         di     kampo.
+\m No-rato            na     mori         di     kampo.
+\g     3S/A-arrive NOM student            OBL    village
+\l The students arrived at the village.
+
+\t (27)" Noratomi=`e            na       kampo      te       mori.
+\m (27)" No-rato-mi=`e            na       kampo      te       mori.
+\g          3S/A-arrive-APPL=3P NOM village           CORE student
+\l The students arrived at the village.
+
+\t Notoratomi                  na      kampo.
+\m No-to-rato-mi                  na      kampo.
+\g     3S/A-PASS-arrive-APPL NOM village
+\l The village was arrived at.
+
+\t Notu'o   te      kau    kene baliu.
+\m No-tu'o   te      kau    kene baliu.
+\g 3R-fell   CORE tree      INSTR axe
+\l He chopped the tree with an axe.
+
+\t Notu'o=ako te           baliu te        kau.
+\m No-tu'o=ako te           baliu te        kau.
+\g  3R-fell=APPL CORE axe           CORE tree
+\l He used the axe to chop the tree.
+
+\t Te     benusi      iso,          to'ambe      te       benu nu       kaluku.          Te cara=no,              tosimbi='e       te      kabali.          Te simbi iso,          totaha=ako='e            na      kabali     di      kaluku.          Totaha=ako='e,               sampe         topali='e             na      kaluku.          Maka          tobenu=si='e.   
+\m Te     benusi      iso,          to-'ambe      te       benu nu       kaluku.          Te cara=no,              to-simbi='e       te      kabali.          Te simbi iso,          to-taha=ako='e            na      kabali     di      kaluku.          To-taha=ako='e,               sampe         to-pali='e             na      kaluku.          Maka          to-benu=si='e.   
+\g TOP    husking yon               1PL.R-take CORE husk GEN coconut                      TOP method=3GEN          1PL.R-slash=3P CORE machete                TOP slash yon          1PL.R-hit.in=APPL=3P NOM machete OBL coconut                          1PL.R-hit.in=APPL=3P          such.that     1PL.R-go.around=3P NOM coconut                  and.then      1PL.R-husk=DIR=3P
+\l (For) that husking, you take off the husk of the coconut. The way to do it, you slash it with a machete. That slashing, you use the machete to hit into the coconut. You hit in with it, until you've gone all round the coconut. Then you husk it.
+
+\t Po'oli sambahaea, kuhelawe=mo ki'iki'i.                Pasi kuhelawe               ki'iki'i, kumakanu=mo.           Maka          la'a=mo kuwila            i      koranga. Te       koranga=su             ane   kene i          Walobu,           ane       'uka kene i,            i        Katapi.    Te      koranga=su               i      Katapi,   te      hembulati='e          te    jambu,      limata'omo           noba'e.                                                                      
+\m Po'oli sambahaea, ku-helawe=mo ki'iki'i.                Pasi ku-helawe               ki'iki'i, ku-makanu=mo.           Maka          la'a=mo ku-wila            i      koranga. Te       koranga=su             ane   kene i          Walobu,           ane       'uka kene i,            i        Katapi.    Te      koranga=su               i      Katapi,   te      hembula-ti='e          te    jambu,      lima-ta'o-mo           no-ba'e.                                                                      
+\g finish prayers         1SG.S/A-rest=PF little           after 1SG.S/A-rest           little    1SG-make.ready=PF and.then just=PF              1SG-go           OBL garden       TOP     garden=1SG.GEN exist and             OBL     Walobu            exist     also and                         Katapi             garden=1SG.GEN                                    OBL      OBL                 TOP                                OBL Katapi       CORE plant-APPL=3P             CORE jambu        five-year=PF           3R.S/A-fruit
+\l After I finish my prayers, I rest a little bit. When I'm rested, I get ready to go out. Then I head off to the garden. Well, my gardens, I have (one) in Walobu, I have one in Katapi as well. My garden in Katapi, it's planted with jambus, and I've been getting a crop for the last five years now.
+
+\t Te      wowine [RC s<um>ampi te                loka ]
+\m Te      wowine [RC s<um>ampi te                loka ]
+\g CORE    woman            pick.SI         CORE banana
+\l the woman who pick(ed, s) bananas
+
+\t Te         wowine [RC s<um>ampi=`e na                 loka ]
+\m Te         wowine [RC s<um>ampi=`e na                 loka ]
+\g    CORE woman               pick.SI=3P         NOM banana
+\l the woman who has picked the banana(s)
+
+\t Te         loka [RC isampi nu              wowine ]
+\m Te         loka [RC i-sampi nu              wowine ]
+\g    CORE banana          PP-pick     GEN     woman
+\l the bananas which were/are being picked by the woman
+
+\t 'ugonti'e        na     kau.
+\m 'u-gonti-'e        na     kau.
+\g  2sg.r-chop-3obj nom      wood
+\l You chopped the wood.
+
+\t nomogontimo             na      kau.
+\m no-mo-gonti-mo             na      kau.
+\g  3r-anticaus-chop-perf nom         wood
+\l The wood is chopped.
+
+\t Noala     te      uwe (ako te            embere / kene          embere).
+\m No-ala     te      uwe (ako te            embere / kene          embere).
+\g 3R-fetch CORE water INSTR CORE bucket INSTR                      bucket
+\l They fetched water with a bucket.
+
+\t Nowila na         amai kua       pante.
+\m No-wila na         amai kua       pante.
+\g 3R-go      NOM 3PL        ALL     beach
+\l They went to the beach.
+
+\t Nohokomate=`e=mo te  amai                 na       mo'ane.
+\m No-hoko-mate=`e=mo te  amai                 na       mo'ane.
+\g 3R-FACT-die=3P=PF CORE 3PL                  NOM      man
+\l They killed the man.
+
+\t Notohokomate=mo na        mo'ane              ( * te     amai    / * di       amai).
+\m No-to-hoko-mate=mo na        mo'ane              ( * te     amai    / * di       amai).
+\g 3R-PASS-FACT-die=PF NOM man                          CORE   3PL          OB L    3PL
+\l The man was killed (* by them).
+
+\t Nopamotiti=`e=mo te       `oloo na                  wurai.
+\m No-pa-motiti=`e=mo te       `oloo na                  wurai.
+\g 3R-CAUS-dry=3P=PF CORE sun        NOM                 sarong
+\l The sun dried the sarong.
+
+\t Nopamotiti=`e=mo te         mia pande na                     wurai.
+\m No-pa-motiti=`e=mo te         mia pande na                     wurai.
+\g 3R-CAUS-dry=3P=PF CORE person clever NOM                       sarong
+\l The shaman dried the sarong.
+
+\t Notopamotiti=mo        na      wurai               ( * te / *     di        mia    pande).
+\m No-to-pa-motiti=mo        na      wurai               ( * te / *     di        mia    pande).
+\g 3R-PASS-CAUS-dry=PF       NOM sarong                       CORE    / OB L      person clever
+\l The sarong was dried (* by the shaman).
+
+\t Noala      te       kaujawa       kene          kene=no           ako        te       ama=no          kene embere          kua      kampo         di        hawu'a. 
+\m No-ala      te       kaujawa       kene          kene=no           ako        te       ama=no          kene embere          kua      kampo         di        hawu'a. 
+\g 3R-fetch    CORE cassava           COM           friend=3GEN         B EN     CORE     father=3GEN     INSTR bucket         ALL      village       OB L      f i el d
+\l They fetched cassava to the village with   their friends for their father   with buckets in the field.
+
+\t nopamotiti=`e te         `oloo na            wurai ako    te   mena / kene mena)
+\m no-pa-motiti=`e te         `oloo na            wurai ako    te   mena / kene mena)
+\g   3R-CAUS-dry=3P CORE sun             NOM        sarong INSTR CORE hot    INSTR hot
+\l The sun dried the sarong with heat.
+
+\t Nokoho te       kau    te      baliu.
+\m No-koho te       kau    te      baliu.
+\g 3R-chop CORE wood CORE axe
+\l He chopped the wood with an axe.
+
+\t Nokoho=ako te baliu te kau.
+\m No-koho=ako te baliu te kau.
+\g 3R-chop=APPL
+\l He chopped the wood with an axe.
+
+\t Nokoho=`e na        kau te        baliu.
+\m No-koho=`e na        kau te        baliu.
+\g 3R-chop=3P NOM wood CORE axe
+\l He chopped the wood with an axe.
+
+\t Nokoho(=ako)=`e     te     kau     na              baliu.
+\m No-koho(=ako)=`e     te     kau     na              baliu.
+\g 3R-chop(=APPL)=3P CORE wood NOM                     axe
+\l He chopped the wood with the axe.
+
+\t nokoho te       kau       te     (ina=no         / koranga)
+\m no-koho te       kau       te     (ina=no         / koranga)
+\g  3R-chop CORE wood           CORE mother=3GEN          garden
+\l Theyi chopped the wood    the motherj / the gardenk
+
+\t nokoho * (ngkenei/apij/=akok)=`e te   kau    na    (ina=noi,k /         na     korangaj).
+\m no-koho * (-ngkenei/-apij/=akok)=`e te   kau    na    (ina=noi,k /         na     korangaj).
+\g 3R-chop (-APPL)=3P                  CORE wood NOM mother=3GEN              NOM garden       
+\l He chopped the wood (for/with his mother / in the garden).
+
+\t nokoho=`e    na     kau     ((ako te / kene )           ina=no              /i        koranga).
+\m no-koho=`e    na     kau     ((ako te / kene )           ina=no              /i        koranga).
+\g 3R-chop=3P NOM wood            BEN CORE COM              mother=3GEN             OB L  garden   
+\l He chopped the wood (for/with his mother / in the garden).
+
+\t Nowila kua       togo
+\m No-wila kua       togo
+\g 3R-go     ALL     town
+\l They went to town.
+
+\t Nowila kene honda           kua         togo
+\m No-wila kene honda           kua         togo
+\g 3R-go     INSTR motorbike ALL            town
+\l They went to town by motorbike.
+
+\t nowila te       honda      kua        togo
+\m no-wila te       honda      kua        togo
+\g  3R-go     CORE motorbike ALL            town
+\l They went to town by motorbike.
+
+\t Nowila=ako te        honda       kua       togo.
+\m No-wila=ako te        honda       kua       togo.
+\g 3R-go=APPL CORE motorbike ALL               town
+\l They went to town by motorbike.
+
+\t Noaso te            bae kua tolida=no.
+\m No-aso te            bae kua tolida=no.
+\g  3r.s/a-sell core    rice    all   cousin=3gen
+\l She sold the rice to his cousin.
+
+\t Noasoapi          te      tolida=no    te       bae.
+\m No-aso-api          te      tolida=no    te       bae.
+\g  3r.s/a-sell-dir    core cousin=3gen     core rice
+\l She sold the rice to his cousin.
+
+\t nowande
+\m no-wande
+\g   3.REALIS-rain
+\l it is raining
+
+\t nowande               na      wande/langi / lono / 'oloo
+\m no-wande               na      wande/langi / lono / 'oloo
+\g    3.REALIS-rain        NOM rain / sky /              cloud / day
+\l it's raining
+
+\t nowande               na       ia
+\m no-wande               na       ia
+\g    3.REALIS-rain        NOM it
+\l it is raining
+
+\t notinti
+\m no-tinti
+\g    3.REALIS-run
+\l she is running
+
+\t Norato=mo        na     totolu        atu.
+\m No-rato=mo        na     to-tolu        atu.
+\g 3R-arrive=PF      NOM    RED-three      that
+\l Those three arrived.
+
+\t Nomoturu=mo        na         mia       totolu             iso.
+\m No-moturu=mo        na         mia       to-tolu             iso.
+\g 3R-sleep=PF         NOM        child     RED-three           yon
+\l Those three children are (finally) asleep.
+
+\t Nomoturu=mo na             mia       tolumia        iso.
+\m No-moturu=mo na             mia       tolu-mia        iso.
+\g 3R-sleep=PF        NOM      child     three-CLF       yon
+\l Those three children are (finally) asleep.
+
+\t Tototolu='e!
+\m To-to-tolu='e!
+\g 1PL.R-RED-three=3P
+\l Let's do a third one!
+
+\t totolu(mia) nomoturu=mo (na           ana).
+\m totolu(-mia) no-moturu=mo (na           ana).
+\g three-CLF        3R-sleep=PF       NOM    child
+\l The three (children) are asleep now.
+
+\t Saba'ane/tolu(mia)      nomoturu=mo (na          ana).
+\m Saba'ane/tolu(-mia)      no-moturu=mo (na          ana).
+\g all       /three-CLF     3R-sleep=PF        NOM    child
+\l All of the(m)/The three (children) are asleep now.
+
+\t Nomoturu=mo na           ana [RC r<um>ato]                   iso.
+\m No-moturu=mo na           ana [RC r<um>ato]                   iso.
+\g 3R-sleep=PF      NOM      child       arrive< SI>             yon
+\l Those children who arrived are (finally) asleep.
+
+\t Nomoturu=mo        na         ana       kalu          iso.
+\m No-moturu=mo        na         ana       kalu          iso.
+\g 3R-sleep=PF         NOM        child     tired         yon
+\l Those tired children are (finally) asleep.
+
+\t Nomoturu=mo       na        ana       k<um>alu               iso.
+\m No-moturu=mo       na        ana       k<um>alu               iso.
+\g 3R-sleep=PF        NOM       child     tired< SI>             yon
+\l Those most tired children are (finally) asleep.
+
+\t Nosai kuikuimo
+\m No-sai kui-kui-mo
+\g 3r-make cakes-perf
+\l S/he has made cakes
+
+\t Nogonti te      kau     kene baliu.
+\m No-gonti te      kau     kene baliu.
+\g 3R-chop CORE wood with axe
+\l He chopped the wood with an axe.
+
+\t Nogonti=ako      te     baliu te      kau.
+\m No-gonti=ako      te     baliu te      kau.
+\g 3R-chop=APPL CORE axe            CORE wood
+\l He chopped the wood with an axe.
+
+\t Notogonti=ako=mo       te      kau     na      baliu.
+\m No-to-gonti=ako=mo       te      kau     na      baliu.
+\g 3R-PASS-chop=APPL=PF CORE wood NOM axe
+\l The axe was used to chop wood.
+
+\t Notopagonti=mo       na      mia        te   kau.
+\m No-to-pa-gonti=mo       na      mia        te   kau.
+\g 3R-PASS-CAUS-chop=PF NOM person            CORE wood
+\l The person was made to chop the wood.
+
+\t nopatogonti=mo       na     kau
+\m no-pa-to-gonti=mo       na     kau
+\g   3R-CAUS-PASS-chop=PF NOM wood
+\l the wood was made to be chopped
+
+\t Nohepehokoleama di         iaku te wurai.
+\m No-hepe-hoko-leama di         iaku te wurai.
+\g 3R-REQ-FACT-good OBL 1SG CORE sarong
+\l He asked me to repair the sarong.
+
+\t Ke=li=ko           te    te         te=jí.
+\m Ke=li=ko           te    te         te=jí.
+\g 3SG.NF=do= OBV 3PL      3PL        3PL=hit.PL
+\l He made them hit each other.
+
+\t Pe     ke=li=ko           nòepè=pe                             pe=fu          tangpaja.
+\m Pe     ke=li=ko           nòe-pè=pe                             pe=fu          tangpaja.
+\g 3SG.F 3SG.NF=do= OBV body-3SG.F.GEN=3SG. F.DAT           3SG.F=see. F mirror
+\l He made her see herself in the mirror.
+
+\t Saba'ane notinti        na kalambe.
+\m Saba'ane no-tinti        na kalambe.
+\g all        3R-run        NOM girl
+\l All of the girls ran.
+
+\t Saba'ane no'ita         te        `obu   na     kalambe.
+\m Saba'ane no-'ita         te        `obu   na     kalambe.
+\g all        3R-see        CORE      dog    NOM    girl
+\l All of the girls saw the dogs.
+
+\t notinti na           ana
+\m no-tinti na           ana
+\g 3S.R-run ART          child
+\l The child is running.
+
+\t ku`ita   te            ana      (na     iaku)
+\m ku-`ita   te            ana      (na     iaku)
+\g 1SG.A-see ACC           child     ART    1SG
+\l I saw a child.
+
+\t ku`ita`e    na              ana     (te         iaku)
+\m ku-`ita-`e    na              ana     (te         iaku)
+\g 1SG.A-see-3.O ART             child    ART.ERG    1SG
+\l I saw the child.
+
+\t ku`ita   te           ana       (na       iaku)
+\m ku-`ita   te           ana       (na       iaku)
+\g 1SG.A-see ACC          child         ART   1SG
+\l I saw a child.
+
+\t ku`ita`e    na               ana       (te           iaku)
+\m ku-`ita-`e    na               ana       (te           iaku)
+\g 1SG.A-see-3.O ART              child         ART.ERG   1SG
+\l I saw the child.
+
+\t Nosai    kuikuimo
+\m No-sai    kuikui-mo
+\g 3.r-make cakes-perf
+\l S/he has made cakes.
+
+\t Ku'ita='e      (te     iaku) na      ana.
+\m Ku-'ita='e      (te     iaku) na      ana.
+\g 1SG-see=3P        CORE 1SG      CORE child
+\l I saw the child.
+
+\t Ku'ita     te      ana         (na   iaku).
+\m Ku-'ita     te      ana         (na   iaku).
+\g 1SG-see CORE mother              NOM 1SG
+\l I saw a child.
+
+\t Nowaliako=mo na            ana     i     kampo.
+\m No-waliako=mo na            ana     i     kampo.
+\g 3R-return=PF        NOM child OBL         village
+\l The child returned to the village.
+
+\t Nowaliako=mo di          kampo,      maka       no'ita   te          ana.
+\m No-waliako=mo di          kampo,      maka       no-'ita   te          ana.
+\g 3R-return=PF      OBL     village     and.then 3R-see      CORE        child
+\l Øi returned home, and then Øi saw a childj.
+
+\t Nowaliako=mo          [RC tosiasia=`e          na mia        i      aba].
+\m No-waliako=mo          [RC to-siasia=`e          na mia        i      aba].
+\g  3R-return=PF               1PL.R-beat.up=3P NOM person        OBL    previous
+\l The person we     beat up before has gone home.
+
+\t nowaliako=mo        [RC tosiasia           te     mia      i      aba]
+\m no-waliako=mo        [RC to-siasia           te     mia      i      aba]
+\g  3R-return=PF               1PL.R-beat.up NOM person           OBL    previous
+\l The person we     beat up before has gone home.
+
+\t Nosiasia=ko=mo             na      ikaka=`u.
+\m No-siasia=ko=mo             na      ikaka=`u.
+\g   3R-beat.up=2SG.P=PF       NOM eSi=2SG.GEN
+\l They beat up your big brother.
+
+\t nosiasia=moq     (na / te)       iko'o (na / te)   ikaka=`u
+\m no-siasia=moq     (na / te)       iko'o (na / te)   ikaka=`u
+\g   3R-beat.up=PF      NOM / CORE 2SG        NOM / CORE eSi=2SG.GEN
+\l They beat up your big brother.
+
+\t Opepe='e        na      karama=no te      ana.
+\m O-pepe='e        na      karama=no te      ana.
+\g 3R-hit=3P        NOM     self=3GEN   CORE child
+\l The child   hit her/himelf.
+
+\t Opepe        te      karama=no na      ana.
+\m O-pepe        te      karama=no na      ana.
+\g 3R-hit        CORE self=3GEN       NOM child
+\l The child   hit her/himelf.
+
+\t `Utulumi         te    karama=`u.
+\m `U-tulumi         te    karama=`u.
+\g 2SG.R-help        CORE self=2SG.GEN
+\l You helped yourself.
+
+\t notulumi=ko        te     karama=`u
+\m no-tulumi=ko        te     karama=`u
+\g  3R-help=2SG.P        CORE self=2SG.GEN
+\l You were helped     by yourself.
+
+\t No'ita=aku te          ana    ( #! na    iaku ).
+\m No-'ita=aku te          ana    ( #! na    iaku ).
+\g 3R-see=1SG.P CORE child             NOM 1SG
+\l The child saw me.
+
+\t Te      iaku no'ita=aku te            ana.
+\m Te      iaku no-'ita=aku te            ana.
+\g CORE 1SG        3R-see=1SG.P CORE child
+\l The child saw me.
+
+\t ... te      iaku habuntu (')uhu'u=aku                te      kuli=no ...
+\m ... te      iaku habuntu (')u-hu'u=aku                te      kuli=no ...
+\g      CORE 1SG      in.fact     2SG.R-give=1SG.P       CORE skin=3GEN
+\l ...in fact you've just given me the peel (of the bananas) ...
+
+\t / # no'ita te      iaku na            ana
+\m / # no-'ita te      iaku na            ana
+\g       3R-see CORE 1SG NOM               child
+\l The child saw me.
+
+\t "Oho, 'upidi='e              te        iko'o na        loka        saba'ane=`e."
+\m "Oho, 'u-pidi='e              te        iko'o na        loka        saba'ane=`e."
+\g      yes 2SG.R-rubbish=3P CORE          2SG NOM         banana      all=3P
+\l Yes, you've rubbished all of the    bananas.
+
+\t "E     iaku iso          noha'a na           iso!          No'ido saro'o,        omate       saro'o."
+\m "E     iaku iso          no-ha'a na           iso!          No-'ido sa-ro'o,        o-mate       sa-ro'o."
+\g CORE 1SG      yon        3R-why NOM yon                     3R-live 1-leaf          3R-die       1-leaf   
+\l And me, it's just    like that (ie., nothing at all). One leaf lives, and one leaf dies   (ie., it's not doing too well).
+
+\t ... te      iaku ku[m]embula te     hu'u=no ...
+\m ... te      iaku ku-[m]e-mbula te     hu'u=no ...
+\g     CORE    1SG 1SG-VRB.SI-plant CORE trunk=3GEN
+\l I will plant the trunk.
+
+\t Po'oli te     ia     iso    no='eka=mo             na      La bela kape'ingkape'i kua        wunuano. 
+\m Po'oli te     ia     iso    no='eka=mo             na      La bela kape'ingkape'i kua        wunua-no. 
+\g finish CORE 3SG that        3R-ascend=PF           NOM     Mr dear Fool              ALL     house=3GEN
+\l And then he, The Fool, went (back) up to his house.
+
+\t Te     paira na       niala=`u?
+\m Te     paira na       ni-ala=`u?
+\g CORE what NOM PP-fetch=2SG.GEN
+\l What did you fetch?
+
+\t Te     emai na        [um]ala te         loka?
+\m Te     emai na        [um]ala te         loka?
+\g CORE what NOM fetch.SI           CORE banana
+\l Who fetched the banana(s)?
+
+\t Te     loka [RC nisampi nu        wowine ]
+\m Te     loka [RC ni-sampi nu        wowine ]
+\g CORE banana       PP-pick    GEN   woman
+\l the bananas which were/are being picked by the woman
+
+\t notinti na           ana
+\m no-tinti na           ana
+\g 3S.R-run ART          child
+\l The child is running.
+
+\t ku`ita   te            ana      (na     iaku)
+\m ku-`ita   te            ana      (na     iaku)
+\g 1SG.A-see ACC           child     ART    1SG
+\l I saw a child.
+
+\t a. ku`ita`e    na              ana     (te         iaku)
+\m a. ku-`ita-`e    na              ana     (te         iaku)
+\g    1SG.A-see-3.O ART             child    ART.ERG    1SG
+\l I saw the child.
+
+\t Te     ia no'ita       te   karama=no.
+\m Te     ia no-'ita       te   karama=no.
+\g CORE   3SG 3R-see       CORE self=3GEN
+\l S/he saw her/himself.
+
+\t Te     karama=no no'ita=`e te      ia.
+\m Te     karama=no no-'ita=`e te      ia.
+\g CORE   self=3GEN     3R-see=3P CORE 3SG
+\l S/he saw her/himself.
+

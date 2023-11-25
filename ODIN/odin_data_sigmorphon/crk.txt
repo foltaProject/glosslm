@@ -1,0 +1,550 @@
+\t caan waapameew osteesa                  wiikihk
+\m caan waapam-eew o-stees-a                  w-iik-ihk
+\g John see-DIRECT        [3-brother]-OBV 3-house-at
+\l Johnprox saw hisprox older brotherobv at hisprox house
+
+\t b. naapeew atimwa           waapameew eesipweehteeyit
+\m b. naapeew atimw-a           waapam-eew ee-sipweehtee-yit
+\g    man          dog-OBV see-DIRECT            CONJUNCT-leave-3OBV
+\l The man saw the dogobv as heobv left
+
+\t Niseekihaanaan atim.
+\m Ni-seekih-aa-naan atim.
+\g 1-scare-DIRECT-1pl dog
+\l We scare the dog
+
+\t Niseekihikonaan atim.
+\m Ni-seekih-iko-naan atim.
+\g 1-scare-INVERSE-1pl dog
+\l The dog scares us
+
+\t naapeew atimwa        waapameew eesipweehteet
+\m naapeew atimw-a        waapam-eew ee-sipweehtee-t
+\g man         dog-OBV see-DIRECT           CONJUNCT-leave-3
+\l The manprox saw the dog as heprox left
+
+\t naapeew atimwa        waapameew eesipweehteeyit
+\m naapeew atimw-a        waapam-eew ee-sipweehtee-yit
+\g man        dog-OBV see-DIRECT          CONJUNCT-leave-3    OBV
+\l The man saw the dogobv as itobv left
+
+\t Niseekihaanaan      atim.
+\m Ni-seekih-aa-naan      atim.
+\g 1-scare-DIRECT-1pl        dog
+\l We scare the dog
+
+\t Niseekihikonaan      atim
+\m Ni-seekih-iko-naan      atim
+\g 1-scare-INVERSE-1pl       dog
+\l The dog scares us
+
+\t caan waapameew osteesa                wiikihk
+\m caan waapam-eew o-stees-a                w-iik-ihk
+\g John see-DIRECT [3-brother]-OBV 3-house-at
+\l Johnprox saw hisprox older brotherobv at hisprox house
+
+\t caan waapameew osteesa                wiikiýihk
+\m caan waapam-eew o-stees-a                w-iik-iý-ihk
+\g John see-DIRECT [3-brother]-OBV 3-house-OBV.POSS-at
+\l John saw his older brotherobv at hisobv house
+
+\t naapeew atimwa waapameew eesipweehteet
+\m naapeew atimw-a waapam-eew ee-sipweehtee-t
+\g man      dog-OBV see-DIRECT        CONJUNCT-leave-3
+\l The manprox saw the dog as heprox left
+
+\t naapeew atimwa waapameew eesipweehteeyit
+\m naapeew atimw-a waapam-eew ee-sipweehtee-yit
+\g man      dog-OBV see-DIRECT        CONJUNCT-leave-3OBV
+\l The man saw the dogobv as heobv left
+
+\t ca:n ote:ma        ki:ma:kwamik
+\m ca:n o-te:m-a        ki:ma:kwam-ik
+\g Johni 3Pi-dog-OBV bite-INV
+\l It is his dog who bit John.
+
+\t ca:n ote:ma        ki:ma:kwame:w
+\m ca:n o-te:m-a        ki:ma:kwam-e:w
+\g Johni 3Pi-dog-OBV bite-DIR
+\l John bit HIS DOG.
+
+\t nikiske:yima:w          George e:=sa:kiha:t         okosisa
+\m ni-kiske:yim-a:-w          George e:=sa:kih-a:-t         o-kosis-a
+\g 1-know-DIR-3               George CONJ=love-DIR-3OBV 3-son-OBV
+\l I know that George loves his sons
+
+\t nikiske:yimima:wa George e:=sa:kihikot             okosisa
+\m ni-kiske:yim-im-a:-wa George e:=sa:kih-iko-t             o-kosis-a
+\g 1-know-im-DIR-3OBV         George CONJ=love-INV-3OBV 3-son-OBV
+\l I know that his sons love George
+
+\t kahkiyaw iskwe:wak              sa:kihe:wak ota:nisiwa:wa
+\m kahkiyaw iskwe:w-ak              sa:kih-e:w-ak o-ta:nis-iwa:w-a
+\g [all             woman-pl]TOP love-DIR-3pl 3-daughter-3pl-OBV
+\l All womeni (prox) love theiri daughters (obv).
+
+\t kahkiyaw iskwe:wak              sa:kihikwak ota:nisiwa:wa
+\m kahkiyaw iskwe:w-ak              sa:kih-ikw-ak o-ta:nis-iwa:w-a
+\g [all             woman-pl]TOP love-INV-3pl 3-daughter-3pl-OBV
+\l Theiri daughters (obv) love all womeni (prox).
+
+\t kisiwa:he:w o:hih         ka:=kimotamawa:t
+\m kisiwa:h-e:w o:hih         ka:=kimotamaw-a:-t
+\g anger-DIR        this.OBV PERF=steal.from-DIR-3OBV
+\l He (prox) angered the ones (obv) he had stolen from.
+
+\t pe:na:tima:wa         o:hih    ka:=ki:nipaha:t
+\m pe:-na:t-ima:wa         o:hih    ka:=ki:nipah-a:-t
+\g hither-fetch-pass.OBV this.OBV PERF=kill-DIR-3OBV(conj)
+\l The ones (obv) whom he (prox) had killed were fetched.
+
+\t na:pe:w      atimwa            wa:pame:w       e:=sipwe:hte:t
+\m na:pe:w      atimw-a            wa:pam-e:w       e:=sipwe:hte:-t
+\g [man]TOP     [dog-OBV]FOC       see-DIR          CONJ=leave-3
+\l The manprox saw the dog as     heprox left
+
+\t na:pe:w    atimwa          wa:pame:w            e:=sipwe:hte:yit
+\m na:pe:w    atimw-a          wa:pam-e:w            e:=sipwe:hte:-yit
+\g [man]TOP   [dog-OBV]FOC see-DIR                   CONJ=leave-3OBV
+\l The man saw the dogobv as heobv left
+
+\t ca:n         wa:pame:w       oste:sa            wi:kihk
+\m ca:n         wa:pam-e:w       o-ste:s-a            w-i:k-ihk
+\g [John]TOP see-DIR             [3-brother]-OBV 3-house-at
+\l Johnprox saw hisprox older brotherobv at hisprox house
+
+\t ca:n         wa:pame:w       oste:sa            wi:kiýihk
+\m ca:n         wa:pam-e:w       o-ste:s-a            w-i:k-iý-ihk
+\g [John]TOP see-DIR             [3-brother]-OBV 3-house-OBV.P-at
+\l Johnprox saw hisprox older brotherobv at hisobv house
+
+\t Niseekihaanaan      atim.
+\m Ni-seekih-aa-naan      atim.
+\g 1-scare-direct-1pl     dog
+\l We scare the dog.
+
+\t Niseekihikonaan     atim.
+\m Ni-seekih-iko-naan     atim.
+\g 1-scare-inverse-1pl    dog
+\l The dog scares us.
+
+\t namo¡ya awiyak wanikiskisitota¡k otawa¡simisa
+\m namo¡ya awiyak wanikiskisitota¡k otawa¡simisa
+\g no one           forget.Obv/3[Inv] his.child.Obv
+\l His½ (Prox) children (Obv) forget no one½ (Prox)
+
+\t awi¡na e¡sa¡kihikot   oma¡ma¡wa?
+\m awi¡na e¡-sa¡kihikot   oma¡ma¡wa?
+\g who love.Obv/3[Inv] his.mother.Obv
+\l Who½ (Prox) does his½ (Prox) mother (Obv) love?
+
+\t (28)23 a)      niwãpamãw
+\m (28)23 a)      ni-wãpam-ãw
+\g                1 see       SAP.sg
+\l I see him
+
+\t niwãpamik
+\m ni-wãpam-ik
+\g 1    see   INVERSE
+\l He sees me
+
+\t kiwãpamãwak
+\m ki-wãpam-ãw-ak
+\g 2 see      SAP.sg 3PL
+\l You see them
+
+\t kiwãpamikwak
+\m ki-wãpam-ikw-ak
+\g 2    see   INVERSE 3PL
+\l They see you
+
+\t niwa·pama·w
+\m ni-wa·pam-a·-w
+\g 1 see        dir3
+\l I see him.
+
+\t /niwa·pamekw·w/  niwa·pamik
+\m /ni-wa·pam-ekw·-w/  niwa·pamik
+\g  1 see        inv 3
+\l He sees me.
+
+\t kiwa·pamin
+\m ki-wa·pam-i-n
+\g 2 see       dirsg
+\l You (sg.) see me.
+
+\t kiwa·pamitin
+\m ki-wa·pam-iti-n
+\g 2 see       invsg
+\l I see you (sg.).
+
+\t nise·kihikon
+\m ni-se·kih-iko-n
+\g 1 scare inv sg
+\l It scares me.
+
+\t Ca·n        ote·ma               ki·ma·kwamik.
+\m Ca·n        ote·ma               ki·-ma·kwamik.
+\g John(prox.) his(prox.).dog(obv.) bite.inv
+\l John's dog bit him.
+
+\t caan waapameew osteesa                  wiikihk
+\m caan waapam-eew o-stees-a                  w-iik-ihk
+\g John see-DIRECT [3-brother]-OBV 3-house-at
+\l Johnprox saw hisprox older brotherobv at hisprox house
+
+\t caan waapameew osteesa                  wiikiýihk
+\m caan waapam-eew o-stees-a                  w-iik-iý-ihk
+\g John see-DIRECT [3-brother]-OBV 3-house-OBV-at
+\l John saw his older brotherobv at hisobv house
+
+\t naapeew atimwa waapameew eesipweehteet
+\m naapeew atimw-a waapam-eew ee-sipweehtee-t
+\g man      dog-OBV see-DIRECT          CONJUNCT-leave-3
+\l The manprox saw the dog as heprox left
+
+\t b. naapeew atimwa waapameew eesipweehteeyit
+\m b. naapeew atimw-a waapam-eew ee-sipweehtee-yit
+\g    man      dog-OBV see-DIRECT          CONJUNCT-leave-3OBV
+\l The man saw the dogobv as heobv left
+
+\t napew atimwa wa ame e sipwe te t
+\m napew atimw-a wa am-e e sipwe te t
+\g man      dog-OBV see-DIR         CONJ-leave-3
+\l The manprox saw the dog as heprox left
+
+\t kÈ·tahtawe·    miskam          mistik, ...
+\m kÈ·tahtawe·    miskam          mistik, ...
+\g presently       find (TI 3)    stick (0)
+\l Presently he [prox] found a stick [inanimate].
+
+\t ..., kÈ·tahtawe· ka·miskahk maskisinah      otinam,           e·wa·wa·pahtahk;                  e·hmiywa·siniyikih
+\m ..., kÈ·tahtawe· ka·-miskahk maskisinah      otinam,           e·-wa·-wa·pahtahk;                  e·h-miywa·siniyikih
+\g      soon          find (TI 3) moccasin (0p) take (TI 3)       examine (TI 3)                      pretty (II 0'p)    
+\l ..., soon he found some moccasins. He picked them up and examined them; they were very pretty.
+
+\t mo...hkiciwanipe...k itah e...haya...yik, ci...k e...kotah mostoswah aya...yiwa
+\m mo...hkiciwanipe...k itah e...h-aya...yik, ci...k e...kotah mostoswah aya...yiwa
+\g spring               loc be,inan.obv near there             buffalo,obv be,obv
+\l near a spring of water were some buffalos [obv]
+
+\t wa...pame...yiwa
+\m wa...pam-e...-yi-w-a
+\g see-direct-obv-3-obv
+\l He [obv] sees him [obv].
+
+\t niStemikonaanak
+\m ni-Stem-iko-naan-ak
+\g 1-...-D-1pl-3pl
+\l they . . . us (exc.)
+
+\t kîskikât                   êw
+\m kîsk-ikât-                   ê-w
+\g  severed(I)-leg.INC(M)               DIR-3S.3O
+\l He is cut off at the leg
+
+\t kîskikw                    êsw           êw
+\m kîsk-ikw-                    ê-sw-           ê-w
+\g severed(I)-neck.INC.N(M)-           INC-cut.TA(F)- DIR-3S.3O(P)
+\l he cuts off his head
+
+\t a. Niwa#pama#na#n     atim.
+\m a. Ni-wa#p-am-a#-na#n     atim.
+\g    1-see-TA-DIR-1pl dog
+\l We see the dog.
+
+\t Niwa#pamikona#n atim.
+\m Ni-wa#p-am-iko-na#n atim.
+\g 1-see-TA-INV-1pl dog
+\l The dog sees us.
+
+\t Niwa#pahte#naan.
+\m Ni-wa#p-aht-e#-naan.
+\g 1-see-TI-LOC.PERS-1pl
+\l We see it.
+
+\t wa#pame#w na#pe#w siisiipa.
+\m wa#pam-e#w na#pe#w siisiip-a.
+\g see-DIR      man       duck-OBV
+\l The man sees the duck (obv)
+
+\t wa#pame#w na#pe#wa       siisiip.
+\m wa#pam-e#w na#pe#w-a       siisiip.
+\g see-DIR      man-OBV duck
+\l The duck sees the man (obv)
+
+\t wa#pamaw na#pe#w / siisiip.
+\m wa#pam-aw na#pe#w / siisiip.
+\g see-3       man / duck
+\l The man/the duck was seen.
+
+\t ca#n wa#pame#ew oste#sa                    wi#kihk
+\m ca#n wa#pam-e#ew o-ste#s-a                    w-i#k-ihk
+\g John see-DIR         3P-brother-OBV       3P-house-at
+\l Johnprox saw hisprox older brotherobv at hisprox house
+
+\t ca#n wa#pame#w oste#sa                 wi#kiýihk
+\m ca#n wa#pam-e#w o-ste#s-a                 w-i#k-iý-ihk
+\g John see-DIR 3P-brother-OBV           3P-house-OBV.POSS-at
+\l John saw his older brotherobv at hisobv house
+
+\t kiwa:pamin
+\m ki-wa:pam-i-n
+\g 2-see-DIR-SG
+\l You see me
+
+\t kiwa:pamitin
+\m ki-wa:pam-iti-n
+\g 2-see-INV-SG
+\l I see you (sg)
+
+\t niwa:pama:w
+\m ni-wa:pam-a:-w
+\g 1-see-DIR-3
+\l I see him
+
+\t niwa:pamekww
+\m ni-wa:pam-ekw-w
+\g 1-see-INV-3
+\l He sees me
+
+\t nipimipahta:n
+\m ni-pimipahta:-n
+\g 1-run-SG
+\l I run
+
+\t kipimipahta:n
+\m ki-pimipahta:-n
+\g 2-run-SG
+\l You run
+
+\t nimaskisin
+\m ni-maskisin
+\g 1-shoe
+\l my shoe
+
+\t kimaskisin
+\m ki-maskisin
+\g 2-shoe
+\l your shoe
+
+\t niwâpamâw
+\m ni-wâpam-âw
+\g  1SG-see3DIR
+\l 1 see himlher.
+
+\t niwâpamik
+\m ni-wâpam-ik
+\g 1SG-see-3INV
+\l Sihe sees me.
+
+\t 6     kipêkiskwâiik
+\m 6     ki-pêkiskwâi-ik
+\g       2-talks.t~-3INV
+\l Sihe talks to you.
+
+\t "0wâpâmnlâwlê
+\m "0-wâpâm-nl-âwlê
+\g 3-see-l(variable 1SG suffixes)
+\l Whe sees me.
+
+\t 0pamihêwak                              awâsisak okimâwa
+\m 0-pamih-êw-ak                              awâsis-ak okimâw-a
+\g  3-take.care.of(TA)-3obvDIR-PL child-PL chief-OBV
+\l The children take care of the chief.
+
+\t 0pamihikwak                        awâsisak okimâwa
+\m 0-pamih-ik-wak                        awâsis-ak okimâw-a
+\g  3obv-take.care.of(TA)-3INV-PL        child-PL chief-OBV
+\l The chief [obv] takes care of the children [prox].
+
+\t nikiskêyimâw George      ê=sâkihAt                           okosisa
+\m ni-kiskêyim-âw George      ê=sâkih-At                           o-kosis-a
+\g 1-know-3DIR George           CONJ=love-3                          3POSS-son-OBV
+\l 1 know that George loves his sons.
+
+\t nikiskêyimâw George êsâkihikot                             Okosisa
+\m ni-kiskêyim-âw George êsâkih-ikot                             O-kosis-a
+\g 1-know-3DIR George CONJ=love-3INV                              3POSS-son-OBV
+\l 1 know that his sons love George.
+
+\t namoya         0kiskêymik ôhtâwiya                   hipwêhêt       
+\m namoya         0-kiskêym-ik ô-htâ-wiya                   hipwêh-êt       
+\g  not           3obv-know-3W3POSS-father-OBV              CONJ-leave-3KONJ
+\l His father[obv] did not know that he[pmx] had gone off.
+
+\t awa nâpêsis êkwah           aw ôskinîkiw mawîhkâtâwak
+\m awa nâpêsis êkwah           aw ôskinîkiw mawîhkât-âwak
+\g this boy          and       this young.man rnourn-3PUPASS
+\l This boy and this young man are king mourned.
+
+\t awîna      ê=sâkihiht
+\m awîna      ê=sâkih-iht
+\g who        CONJ=love-3/PASS/CONJ
+\l Who is loved?
+
+\t awîna     êsâkihiht            Omâmâwa
+\m awîna     êsâkih-iht            O-mâmâ-wa
+\g who        CONJ=love-3tPASSlCONJ his-mother-OBV
+\l Who is loved by his mother?
+
+\t nisêkihânân          atim
+\m ni-sêkih-â-nân          atim
+\g 1-scare3DIR-1PL         dog
+\l We scare the dog.
+
+\t nisêkihikonân       atim
+\m ni-sêkih-iko-nân       atim
+\g 1-scare-3W-1PL          dog
+\l The dog scares us.
+
+\t 70 a.        niwi:ciha:na:nak
+\m 70 a.        ni-wi:cih-a:-na:n-ak
+\g              1 help dir 1pl           3pl
+\l We help them.
+
+\t niwi:cihikona:nak
+\m ni-wi:cih-iko-na:n-ak
+\g 1 help inv 1pl           3pl
+\l They help us.
+
+\t Ospwkanak             mihctiwak.
+\m Ospwkan-ak             mihctiwak.
+\g  pipe-pANIM            they.were.numerous
+\l There were many pipes.
+
+\t Ømihkosiw5ak                   asiniyak.
+\m Ø-mihkosi-w5-ak                   asiniy-ak.
+\g  3-be.red-3-3pANIM                rock-pANIM
+\l The rocks are red.
+
+\t Wpamim12w5                                     okosisiyiwa.
+\m Wpam-im1-2-w5                                     o-kosis-iyi-wa.
+\g   see-SDIR-DIR-3                                  3POSS-son-OBV-OBV
+\l He              sees his             son            .
+
+\t wpamiko2w3ykw5                              okosisa.
+\m -wpam-iko2-w3-ykw5                              o-kosis-a.
+\g      CNJ-see-INV-OBV.S/A-2p                        3POSS-son-OBV
+\l His          son         sees youp.
+
+\t wpamØ2iyi3isk5                              okosisa.
+\m -wpam-Ø2-iyi3-isk5                              o-kosis-a.
+\g     CNJ-see-INV-OBV.S/A-2sINV                      3POSS-son-OBV
+\l His          son         sees yous.
+
+\t Tpw              awa              iskww Øpakamahw2w5             sa        hi            whtikowa.
+\m Tpw              awa              iskww Ø-pakamahw-2-w5             sa        hi            whtiko-wa.
+\g   truly          DEM:PROX         woman         3-strike-DIR-3      REP      DEM:OBV windigo-OBV      
+\l Truly the woman               struck down that windigoobv.
+
+\t Owcwkana                        Ømiskaw2w5 awa                           nhiyaw.
+\m O-wcwkan-a                        Ø-miskaw-2-w5 awa                           nhiyaw.
+\g   3POSS-companion-OBV 3-find-DIR-3                          DEM:PROX          Cree
+\l The Creeprox found his comradesobv.
+
+\t "Nisto ninipah2w5ak7,"                    Øit2w3.
+\m "Nisto ni-nipah-2-w5-ak7,"                    Ø-it-2-w3.
+\g   three         1-kill-DIR-3-3pANIM           3-say-DIR-3
+\l "I killed three of them," he               said to himobv.
+
+\t "Tpw, wskinkiyin,                     namoya kikost2w5ak7!"             Øitikw2Ø3w5.   
+\m "Tpw, wskinkiyin,                     namoya ki-kost-2-w5-ak7!"             Ø-it-ikw2-Ø3-w5.   
+\g   truly          young.man:VOC NEG                 2-fear-DIR-3-3pANIM      3-say-INV-OBV.S/A-3
+\l "Really, young man, you are not afraid of them!" he                    obv   said to himprox.
+
+\t htwiya                         hokimwiyi3t5.
+\m htwiy-a                         h-okimw-iyi3-t5.
+\g 3POSS:father-OBV                CNJ-be.chief-OBV.S/A-3ANIM
+\l His   prox   father   obv   was chief.
+
+\t Awa                   npsis        hi            kkaskatahomiht niynan            Ømiy2w5               misatimwa.
+\m Awa                   npsis        hi            k-kaskatahomiht niynan            Ø-miy-2-w5               misatim-wa.
+\g DEM:PROX              boy          DEM:OBV CNJ-he.was.wounded    five              3-give-DIR-3             horse-OBV  
+\l The boy       prox   gave the man who had been woundedobv five horsesobv.
+
+\t Kimiywyihtamw2n                 ksinhiyawt5?
+\m Ki-miywyihtamw-2-n                 ksi-nhiyaw-t5?
+\g 2-like-DIR?-N                      thus:CNJ-speak.Cree-3
+\l Do yous like (with respect to him) the way he talks Cree?
+
+\t Nitcimisoh2w5.
+\m Nit-cimiso-h-2-w5.
+\g  1-tell.story.about.oneself-CAUS-DIR-3
+\l I made him tell a story about himself.
+
+\t Nitcimisohikw2w5.
+\m Nit-cimiso-h-ikw2-w5.
+\g  1-tell.story.about.oneself-CAUS-INV-3
+\l He made me tell a story about myself.
+
+\t b2. *Nikiskyim2w5                 Georgeskihiko2t               okosisa.
+\m b2. *Ni-kiskyim-2-w5                 George-skih-iko2-t               o-kosis-a.
+\g     1-know-DIR-3-OBV                 G.CNJ-love-INV-3             3-son-OBV
+\l I know his            sons         love Georgeprox.
+
+\t Kahkiyaw skihikw2w5ak                     otnisiwwa              iskwwak.
+\m Kahkiyaw skih-ikw2-w5-ak                     o-tnis-iww-a              iskww-ak.
+\g   all              love-INV-3-3p             3-daughter-3p-OBV         woman-3pPROX
+\l All women are loved by their daughters.
+
+\t ... mna say               mihctnipahint5ik                      ayahciyiniwak.
+\m ... mna say               mihct-nipah-in-t5-ik                      ayahciyiniw-ak.
+\g      also      already many              CNJ-kill-INDEF.A/PASS-3-3p Blackfoot-3pPROX
+\l ...and that already many Blackfoot had been slain.
+
+\t San           Økhopd.
+\m San           Ø-khop-d.
+\g  child        3sI-hurt-be
+\l The child is sick.
+
+\t kiwa:pamin
+\m ki-wa:pam-i-n
+\g 2-see-DIR-SG
+\l You see me
+
+\t kiwa:pamitin
+\m ki-wa:pam-iti-n
+\g 2-see-INV-SG
+\l I see you (sg)
+
+\t niwa:pama:w
+\m ni-wa:pam-a:-w
+\g 1-see-DIR-3
+\l I see him
+
+\t niwa:pamekww
+\m ni-wa:pam-ekw-w
+\g 1-see-INV-3
+\l He sees me
+
+\t nipimipahta:n
+\m ni-pimipahta:-n
+\g 1-run-SG
+\l I run
+
+\t kipimipahta:n
+\m ki-pimipahta:-n
+\g 2-run-SG
+\l You run
+
+\t nimaskisin
+\m ni-maskisin
+\g 1-shoe
+\l my shoe
+
+\t kimaskisin
+\m ki-maskisin
+\g 2-shoe
+\l your shoe
+
+\t Nisekiha atim.
+\m Ni-sekih-a atim.
+\g  I-scare-DIR dog
+\l I scare the dog.
+
+\t Nisekihiko atim.
+\m Ni-sekih-iko atim.
+\g  I-scare-INV dog
+\l The dog scares me.
+

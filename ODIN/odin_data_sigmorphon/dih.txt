@@ -1,0 +1,90 @@
+\t ['ehatt gaat akewii]=ve=ch                     chepam
+\m ['ehatt gaat akewii]=ve=ch                     chepam
+\g      [dog        cat chase]=DEF=SUBJ get.away
+\l the cat that the dog chased got away
+
+\t ['ehatt gaat kwakewii]=ve=ch                            nyechuukuw
+\m ['ehatt gaat kw-akewii]=ve=ch                            nye-chuukuw
+\g    [dog cat REL.SUBJ-chase]=DEF=SUBJ                     1OBJ-bite
+\l the dog that chased the cat bit me
+
+\t 'iikwich=ve=ch             [aq kunemshap]=vu                aakwal
+\m 'iikwich=ve=ch             [aq ku-nemshap]=vu                aakwal
+\g     man=DEF=SUBJ           [bone REL.SUBJ-white]=DEF lick
+\l the man licked the white bone
+
+\t [[[Si:pac a:k(+ø)     wi:+m            tuc]]+pu a:k] +pu+ø     si:ny +c        wyaw
+\m [[[Si:pac a:k(+ø)     wi:+m            tuc]]+pu a:k] +pu+ø     si:ny +c        wyaw
+\g     man bone(+OBJ) rock+COMIT hit + DEM         bone+DEM+OBJ woman+SUBJ found      
+\l the woman found the bone that the man hit with the rock
+
+\t i: pac `wu: wpuc
+\m i: pac `wu: w-pu-c
+\g man I.saw-DEM-SUBJ
+\l The man that I saw
+
+\t t@nay       Pwa :Pwu :w
+\m t@nay       Pwa :Pwu :w
+\g yesterday house I       saw
+\l I saw the house yesterday.
+
+\t Pwa :puLy                 Pciyawx
+\m Pwa :-pu-Ly                 Pciyawx
+\g house definite-locative I.will.sing
+\l I will sing in the house
+
+\t [t@nay      Pwa :Pwu :w]puLy                   Pciyawx
+\m [t@nay      Pwa :Pwu :w]-pu-Ly                   Pciyawx
+\g yesterday house I       saw-definite-locative I.will.sing
+\l I will sing in the house that I saw yesterday.
+
+\t maayiichpem gaayiin         aakattchu
+\m maayiich-pe-m gaayiin         aakatt-chu
+\g what-DEM-INSTR chicken        cut-Q
+\l What did he use to cut up the chicken?
+
+\t menychaakeetpu ma<m>wia
+\m me-ny-chaakeet-pu ma<m>wi-a
+\g 2-ALIEN-jacket-DEM <2>do.what-Q
+\l What did you do with your jacket?
+
+\t puu         keyaw     che*<w>i         t*waaniwa
+\m puu         keyaw     che*<w>i         t*waaniw-a
+\g that.one    behalf    <3>say.what be.together-Q
+\l What did they say on his behalf?
+
+\t nyewiiw.
+\m nye-wiiw.
+\g 1:2-see
+\l I saw you.
+
+\t xikay nyinyma.
+\m xikay ny-iny-ma.
+\g some 1:2-give-prom
+\l I'll give you some.
+
+\t nyaach maap Goodwill nyinyx.
+\m nyaach maap Goodwill ny-iny-x.
+\g I:sub you Goodwill 1:2-give-irr
+\l I'm going to give you to Goodwill.
+
+\t  Xiikay nyinyma.
+\m  Xiikay ny-iny-ma.
+\g some     1>2-give-FUT
+\l I'll give you some.
+
+\t Nyaach maap Goodwill nyinyx.
+\m Nyaach maap Goodwill ny-iny-x.
+\g I.SBJ    you     Goodwill 1>2-give-IRR
+\l I'm going to give you to Goodwill.
+
+\t Öútaly
+\m Ö-útaly
+\g        1SG-mother
+\l my mother
+
+\t Öúnyewaò
+\m Öúny-ewaò
+\g   1SG.ALIENABLE-house
+\l my house
+

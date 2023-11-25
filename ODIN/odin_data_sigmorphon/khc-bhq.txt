@@ -1,0 +1,150 @@
+\t Nokiki'i      te           ana      na 'obu     kene notode.
+\m No-kiki'i      te           ana      na 'obu     kene no-tode.
+\g 3-bite         LESS.PROM child       NOM dog     and 3-flee
+\l The dog bit the child, and fled.
+
+\t Nokiki'ike na ana            te          'obu  kene notode.
+\m No-kiki'i-ke na ana            te          'obu  kene no-tode.
+\g 3-bite-3.ACC NOM child         LESS.PROM dog     and 3-flee
+\l The child was bitten by the dog, and fled.
+
+\t Noala     te      uwe (ako te            embere / kene          embere).
+\m No-ala     te      uwe (ako te            embere / kene          embere).
+\g 3R-fetch CORE water INSTR CORE bucket INSTR                      bucket
+\l They fetched water with a bucket.
+
+\t Te      amai na        [RC <um>ala te        uwe kene embere ].
+\m Te      amai na        [RC <um>ala te        uwe kene embere ].
+\g CORE 3PL       NOM         fetch.SI  CORE water INSTR bucket
+\l It was them who fetched water with a bucket.
+
+\t Te      uwe na          [RC iala=no       kene embere ].
+\m Te      uwe na          [RC i-ala=no       kene embere ].
+\g CORE water NOM              PP-fetch=3GEN INSTR bucket
+\l It was water that they fetched with a bucket.
+
+\t Nowila na         amai kua       pante.
+\m No-wila na         amai kua       pante.
+\g 3R-go      NOM 3PL        ALL     beach
+\l They went to the beach.
+
+\t Te      amai na        [RC w<um>ila kua          pante ].
+\m Te      amai na        [RC w<um>ila kua          pante ].
+\g CORE 3PL       NOM         fetch.SI  ALL         beach
+\l It was them who went to the beach.
+
+\t Te      embere        na       [RC itaupi=no             nu      uwe ].
+\m Te      embere        na       [RC i-tau-pi=no             nu      uwe ].
+\g CORE water            NOM          PP-place-APPL=3GEN GEN          water
+\l It was the bucket   that they put the water in.
+
+\t Te      embere        na       [RC t<um>otaupi           te      uwe ].
+\m Te      embere        na       [RC t<um>o-tau-pi           te      uwe ].
+\g CORE water            NOM          PASS<SI>-place-APPL CORE water
+\l It was the bucket   that the water was put in.
+
+\t Te      amai na        [RC ialaako=no            nu      uwe ].
+\m Te      amai na        [RC i-ala-ako=no            nu      uwe ].
+\g CORE 3PL       NOM         PP-fetch-APPL=3GEN GEN          water
+\l It was them who they fetched water for.
+
+\t Te      embere      na      [RC ialaako=no           nu     uwe ].
+\m Te      embere      na      [RC i-ala-ako=no           nu     uwe ].
+\g CORE bucket         NOM         PP-fetch-APPL=3GEN GEN        water
+\l It was a bucket that they fetched water with.
+
+\t Te      embere      na      [RC ala     te      uwe ].
+\m Te      embere      na      [RC ala     te      uwe ].
+\g CORE water          NOM          fetch CORE water
+\l It was the bucket that (they) fetched water with.
+
+\t te     embere      na      [RC tau(pi)        te uwe ].
+\m te     embere      na      [RC tau(-pi)        te uwe ].
+\g  CORE water          NOM          place-APPL CORE water
+\l It was the bucket that they put the water in.
+
+\t te     amai na       [RC ala    te        uwe ].
+\m te     amai na       [RC ala    te        uwe ].
+\g  CORE    water NOM          fetch CORE water
+\l It was them who they fetched water for.
+
+\t te      amai na      [RC hu'u te         embere (te ikita) ].
+\m te      amai na      [RC hu'u te         embere (te ikita) ].
+\g  CORE     3PL   NOM        give CORE bucket CORE 1PL
+\l It was them who (we) gave the bucket to.
+
+\t te      amai na      [RC poilu     te   ikita ].
+\m te      amai na      [RC po-ilu     te   ikita ].
+\g  CORE 3PL       NOM          REC-lust CORE 1PL
+\l It was them who loved us.
+
+\t Nohokomate=`e=mo te  amai                 na       mo'ane.
+\m No-hoko-mate=`e=mo te  amai                 na       mo'ane.
+\g 3R-FACT-die=3P=PF CORE 3PL                  NOM      man
+\l They killed the man.
+
+\t Notohokomate=mo na        mo'ane              ( * te     amai    / * di       amai).
+\m No-to-hoko-mate=mo na        mo'ane              ( * te     amai    / * di       amai).
+\g 3R-PASS-FACT-die=PF NOM man                          CORE   3PL          OB L    3PL
+\l The man was killed (* by them).
+
+\t Nopamotiti=`e=mo te       `oloo na                  wurai.
+\m No-pa-motiti=`e=mo te       `oloo na                  wurai.
+\g 3R-CAUS-dry=3P=PF CORE sun        NOM                 sarong
+\l The sun dried the sarong.
+
+\t Notopamotiti=mo        na       wurai                   `oloo.
+\m No-to-pa-motiti=mo        na       wurai                   `oloo.
+\g 3R-PASS-CAUS-dry=PF       NOM sarong                  CORE sun
+\l The sarong was dried by the sun.
+
+\t Nopamotiti=`e=mo te         mia pande na                     wurai.
+\m No-pa-motiti=`e=mo te         mia pande na                     wurai.
+\g 3R-CAUS-dry=3P=PF CORE person clever NOM                       sarong
+\l The shaman dried the sarong.
+
+\t Notopamotiti=mo        na      wurai               ( * te / *     di        mia    pande).
+\m No-to-pa-motiti=mo        na      wurai               ( * te / *     di        mia    pande).
+\g 3R-PASS-CAUS-dry=PF       NOM sarong                       CORE    / OB L      person clever
+\l The sarong was dried (* by the shaman).
+
+\t Noala      te       kaujawa       kene          kene=no           ako        te       ama=no          kene embere          kua      kampo         di        hawu'a. 
+\m No-ala      te       kaujawa       kene          kene=no           ako        te       ama=no          kene embere          kua      kampo         di        hawu'a. 
+\g 3R-fetch    CORE cassava           COM           friend=3GEN         B EN     CORE     father=3GEN     INSTR bucket         ALL      village       OB L      f i el d
+\l They fetched cassava to the village with   their friends for their father   with buckets in the field.
+
+\t nopamotiti=`e te         `oloo na            wurai ako    te   mena / kene mena)
+\m no-pa-motiti=`e te         `oloo na            wurai ako    te   mena / kene mena)
+\g   3R-CAUS-dry=3P CORE sun             NOM        sarong INSTR CORE hot    INSTR hot
+\l The sun dried the sarong with heat.
+
+\t Nokoho te       kau    te      baliu.
+\m No-koho te       kau    te      baliu.
+\g 3R-chop CORE wood CORE axe
+\l He chopped the wood with an axe.
+
+\t Nokoho=ako te baliu te kau.
+\m No-koho=ako te baliu te kau.
+\g 3R-chop=APPL
+\l He chopped the wood with an axe.
+
+\t Nokoho=`e na        kau te        baliu.
+\m No-koho=`e na        kau te        baliu.
+\g 3R-chop=3P NOM wood CORE axe
+\l He chopped the wood with an axe.
+
+\t Nokoho(=ako)=`e     te     kau     na              baliu.
+\m No-koho(=ako)=`e     te     kau     na              baliu.
+\g 3R-chop(=APPL)=3P CORE wood NOM                     axe
+\l He chopped the wood with the axe.
+
+\t nokoho * (ngkenei/apij/=akok)=`e te   kau    na    (ina=noi,k /         na     korangaj).
+\m no-koho * (-ngkenei/-apij/=akok)=`e te   kau    na    (ina=noi,k /         na     korangaj).
+\g 3R-chop (-APPL)=3P                  CORE wood NOM mother=3GEN              NOM garden       
+\l He chopped the wood (for/with his mother / in the garden).
+
+\t nokoho=`e    na     kau     ((ako te / kene )           ina=no
+\m no-koho=`e    na     kau     ((ako te / kene )           ina=no
+\g     OB L  garden
+\l He chopped the wood (for/with his mother / in the garden).
+

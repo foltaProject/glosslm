@@ -1,0 +1,55 @@
+\t Shenme Zhangsan maile?
+\m Shenme Zhangsan mai-le?
+\g what     Zhangsan buy-ASP
+\l What did Zhangsan buy?
+
+\t [da lan [hua ping]]
+\m [da lan [hua ping]]
+\g hit break flower vase
+\l to hit till breaking the vase
+
+\t (lofu d)
+\m (lo-fu d)
+\g tiger head
+\l tiger's head
+
+\t ve' z lofu ipo, z (lofu)(d:)
+\m ve' z lo-fu i-po, z (lo-fu)(d:)
+\g not be tiger tail     be tiger head
+\l It's not the tiger's tail, but the tiger's head.
+
+\t (k d)
+\m (k d)
+\g dog head
+\l dog's head
+
+\t ve' z k ipo, z
+\m ve' z k i-po, z
+\g not be dog tail      be dog head
+\l It's not the dog's tail, but the dog's head.
+
+\t (nõ) (deçi )   (sa)
+\m (nõ) (de-çi )   (sa)
+\g you carry-heart what
+\l What do you worry about?
+
+\t nõ tçhi ku va         mma'
+\m nõ tçhi ku va         m-ma'
+\g you go Asp Q not
+\l Did you go?
+
+\t TshElau nEN keng'uENqio tsoliau.
+\m TshElau nEN keng'uENqio tso-liau.
+\g thief    NEN police        catch-Perf
+\l The thief was caught by the police.
+
+\t Laufu phi tasihau.
+\m Laufu phi ta-si-hau.
+\g tiger PHI hit-die-Perf
+\l The tiger was killed.
+
+\t TshElau nEN keng'uENqio phi tsoliau.
+\m TshElau nEN keng'uENqio phi tso-liau.
+\g thief    NEN police        PHI catch-Perf
+\l The thief was caught by the police.
+

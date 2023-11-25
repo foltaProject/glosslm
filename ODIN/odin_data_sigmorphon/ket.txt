@@ -1,0 +1,125 @@
+\t m       d=ía=a                     qáina
+\m m       d=ía=a                     qáina
+\g mother FEM.SING=ABL=FEM.SBJ   answered
+\l Mother answered her.
+
+\t tu   qm        na=lga=a               ldaq
+\m tu   qm        na=lga=a               ldaq
+\g that woman AN.PL=near=FEM.SBJ lived
+\l That woman lived near them.
+
+\t s=da           ldaq=ka       blda      aqtám
+\m s=da           ldaq=ka       blda      aqtám
+\g there=FEM.SBJ lived=LOC all           good-N.PRED
+\l While she lived everything was very good.
+
+\t =da              ldaq=di=al qáddq             ús=am
+\m =da              ldaq=di=al qáddq             ús=am
+\g there=FEM.SBJ lived=N=ABL            very     warm-N.PRED
+\l Since she has lived there it has been very warm.
+
+\t bak. uk         it=ku=m         t=ne       qáà=s  ko=git?
+\m bak. uk         it=ku=m         t=ne       qáà=s  ko=git?
+\g      Pr.2.P.Sg.=2.P.Sg.=D.aff. Pr.1.P.Pl.=N-er.=D.aff.
+\l    ?
+
+\t sur. t           tuntan do=on=den      qaa,     d=ani=il'=get=in          komal's'u     us'=i   d=a=[j]a=tij=in
+\m sur. t           tuntan do=on=den      qaa,     d=ani=il'=get=in          komal's'u     us'=i   d=a=[j]a=tij=in
+\g      Pr.1P.Pl.1.P.Pl.=Pst.=   PostP.1.P.==PST=D.aff.=Pl.         =Pl. 3.P.=PRS=Pl==Pl.                         
+\l    , ,   .
+
+\t sur. at      d=ani=il'=bet    bis'a tude qoj            du=a=daq
+\m sur. at      d=ani=il'=bet    bis'a tude qoj            du=a=daq
+\g      Pr.1.P.1.P.==PST=D.aff.                           3.P=PRS=
+\l  ,    .
+
+\t (4) bu     sit=on=o          bu=re   don' qores'   ar'en'a kome   d=es=k=om=daq                ba=ga   
+\m (4) bu     sit=on=o          bu=re   don' qores'   ar'en'a kome   d=es=k=om=daq                ba=ga   
+\g    Pr.3.P.=PST=D.aff. 3.P.=Poss.                                   3.P.Sg.=D.aff.=D.aff.=PST=PostP=Loc.   3.P.Sg.=D.aff.=D.aff.=PST=PostP=Loc
+\l  ,        .
+
+\t (3)ü,
+\m (3)ü-,-----
+\g -DAT-IMP.3SG-POSS.1SG-ABL-NEG-                            PRS.3SG
+\l      ,     .
+
+\t [qodes      tdal o6k5o4n2{d}en0]          ked d{u}8e7bu6k5bes0
+\m [qodes      t-dal o6-k5-o4-n2-{d}en0]          ked d{u}8-e7-bu6-k5-bes0
+\g  [yesterday 2PL-ABL 3M8-TH5-PST4-PST2-go0] person 3M8-7-3COREF6-TH5-R       0
+\l The man, who left us yesterday, got lost.
+
+\t unadita s bnsa a                 kjkan [qode bt           bn d{u}8b3l2{a0}]
+\m una-dita s bnsa a                 kjka-n [qode bt           bn d{u}8-b3-l2-{a0}]
+\g net-3N.ADES fish NEG CONJ head-PL [REL old.man NEG 3M8-3N3-PST2-eat0]
+\l There was no fish in the net, but only (fish) heads, which the old man didn't eat.
+
+\t [qokdi     q     o6{k5}o4{n2de}n0]               de
+\m [qokdi     q     o6-{k5}-o4-{n2-de}n0]               de
+\g  [autumn REL 3AN.PL8-TH5-PST4-PST2-go0] people
+\l The people, who went away in autumn.
+
+\t bèd don
+\m bèd don
+\g make knife
+\l a knife, which is/was being made
+
+\t kide ked [bitse d{u}8b3il2i/bed0 ábata don]
+\m kide ked [bitse d{u}8-b3-il2-i/bed0 áb-ata don]
+\g this person [who.M 3M8-3N3-PST2-make0 1-BEN knife]
+\l This man, who made a knife for me.
+
+\t  bo6k5o4n2{de}n0 ba [boq d8b3l2{a0}]
+\m  bo6-k5-o4-n2-{de}n0 ba [boq d8-b3-l2-{a0}]
+\g 1 16-TH5-PST4-PST2-go0 place [fire 3F8-3N3-PST2-eat0]
+\l I went to the place, which was burned (place fire-ate-it).
+
+\t t kinij s       {di8}b3l2a   0    [qode qodes              {di8}daq7q5b3n2a0]
+\m t kinij s       {di8}-b3-l2-a   0    [qode qodes              {di8}-daq7-q5-b3-n2-a0]
+\g 1 today fish 18-3N3-PST2-eat0 [REL yesterday                  18-grill7-5-3N3-   PST2-R   0   ]
+\l Today I eat the fish that I grilled yesterday.
+
+\t ad inam     bn d{i}8a4(s)aq0 [bisa bad                     leske        {du8}t/o4l2ka0]
+\m ad inam     bn d{i}8-a4-(s)-aq0 [bisa bad                     les-ke        {du8}-t/o4-l2-ka0]
+\g  1 long.ago NEG 18-TH7-(MS)-go0 [where old.man forest-LOC 3M8-AT/PST4-PST2-walk0]
+\l I don't go for a long time (to the place) where the old man (bear) walked in the forest.
+
+\t [ana aqta d{u}8lobed7a4bet0]       tud       aqta   du8k5a4daq0
+\m [ana aqta d{u}8-lobed7-a4-bet0]       tu-d       aqta   du8-k5-a4-daq0
+\g [who good 3M8-work7-NPST4-ITER0] this-M   good 3M8-TH5-NPST4-live0
+\l Who works well, that lives well.
+
+\t en at       agdober'esa          bqoj
+\m en at       agdober'-esa          b-qoj
+\g now 1SG mark-making(INF)-TRL 1SG.POS-wish
+\l Now I want(=intend) to make marks (on trees).
+
+\t bu uros
+\m bu uros
+\g 3SG be-lazy(INF) man
+\l He is a lazy person
+
+\t bu ajtij
+\m bu ajtij
+\g 3SG insult(INF) man
+\l He is an insulting person.
+
+\t  ar uk      ajtijesa          bn bqoj
+\m  ar uk      ajtij-esa          bn b-qoj
+\g 1SG 2SG insult(INF)-TRL not 1SG.POS-wish
+\l I don't want to hurt you.
+
+\t bu      qus' kis'a hijes'a             dutabak
+\m bu      qus' kis'a hij-es'a             dutabak
+\g 3SG     tent here      put up(INF)-TRL 3SG-plan / intend
+\l He is going to put up a tent here.
+
+\t qus'    sujat    hl'sij      bimut,
+\m qus'    sujat    hl'sij      bimut,
+\g  one    dress sew(INF) it-ended,
+\l Sewing of one dress finished.
+
+\t bik qun's'a sujat      hl'sijqibit
+\m bik qun's'a sujat      hl'sijqibit
+\g another       dress 1SG-3 SG.INAN-PT-sewing-begin
+\l Another dress I began sewing.
+

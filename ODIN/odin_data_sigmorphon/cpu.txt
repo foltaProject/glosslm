@@ -1,0 +1,30 @@
+\t tshika itsimika
+\m tshika i-tsim-i-ka
+\g Q        3M-exist-NONFUT-Q
+\l Who is it?
+
+\t tshika pikantsika
+\m tshika pi-kants-i-ka
+\g Q        2-say-NONFUT-Q
+\l What did you say?
+
+\t tshika piyaatsika
+\m tshika p-iyaats-i-ka
+\g Q        2-go-NONFUT-Q
+\l Where did you go?
+
+\t tshika piraantari
+\m tshika p-ira-ant-a-ri
+\g Q        2-cry-INST-REFL-REL
+\l Why did you cry?
+
+\t tshikapaiteka    piyaatsi
+\m tshika-paite-ka    p-iyaats-i
+\g Q-TEMP-Q           2-go-NONFUT
+\l When did you go?
+
+\t tsika ikaratika irika
+\m tsika i-kara-ti-ka iri-ka
+\g   Q    3M-be-REAL-Q 3M-here
+\l How much is it?/How many are there?
+

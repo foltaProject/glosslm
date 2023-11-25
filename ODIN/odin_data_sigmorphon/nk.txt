@@ -1,0 +1,10 @@
+\t báabaa.lu yé kánkaraN.o tíñaa
+\m báabaa.lu yé kánkaraN.o tíñaa
+\g termite.pl PFV roof.RF          destroy
+\l Termites (have) destroyed the roof.
+
+\t búN.o    lòo.ta
+\m búN.o    lòo.ta
+\g house.RF build.PFV
+\l The house was/has been built.
+

@@ -1,0 +1,390 @@
+\t M      manje krab la.
+\m M      manje krab la.
+\g I      eat     crab det
+\l I   ate the crab.
+
+\t Jan rive a.
+\m Jan rive a.
+\g John arrive det
+\l Actually, John arrived.
+
+\t Bouki se malad
+\m Bouki se malad
+\g Bouki SE sick
+\l Bouki is sick
+
+\t Bouki se anba tab la (cf Bouki anba tab la)
+\m Bouki se anba tab la (cf Bouki anba tab la)
+\g Bouki SE under table the
+\l Bouki is under the table
+
+\t Bouki se doktè
+\m Bouki se doktè
+\g Bouki SE doctor
+\l Bouki is a doctor
+
+\t Bouki se {yon doktè/Aristide}9
+\m Bouki se {yon doktè/Aristide}9
+\g Bouki SE DET doctor/Aristide
+\l Bouki is {a doctor/Aristride}
+
+\t Pandan m wè ki jan ou jwe kat la, se kounyea m santi m ap                          renmen jwèt la
+\m Pandan m wè ki jan ou jwe kat la, se kounyea m santi m ap                          renmen jwèt la
+\g While 1sg see how 2sg play card DEF HL now                    1sg feel 1sg PROG like           game DEF
+\l It's (only) now that I see how you play the cards that I feel that I am liking (i.e., getting to like) the game
+
+\t Nan katye       sa a   pèsonn pa di pèsonn anyen
+\m Nan katye       sa a   pèsonn pa di pèsonn anyen
+\g in neighborhood DEM-sg nobody NEG say nobody nothing
+\l In this neighborhood, nobody says anything to anybody
+
+\t Bouki te marye ak yon bèl          wosiyòl.      Wosiyòl      te    renmen kowosòl.
+\m Bouki te marye ak yon bèl          wosiyòl.      Wosiyòl      te    renmen kowosòl.
+\g B    ANT marry with IND pretty nightingale, Nightingale ANT like             soursop
+\l Bouki was married to a beautiful nightingale. (Madame) Nightingale loved soursops
+
+\t Siklòn    Gòdonn kraze kay kote yo te rete a
+\m Siklòn    Gòdonn kraze kay kote yo te rete a
+\g Hurricane Gordon destroy house place 3p ANT live DET
+\l Hurricane Gordon destroyed the house where they used to live
+
+\t Bondye o! Ala bèl       bagay ou fè pou nou o!
+\m Bondye o! Ala bèl       bagay ou fè pou nou o!
+\g God o         beautiful thing 2s make for 1p o
+\l Oh, Lord! Oh, what beautiful things you have done for us!
+
+\t yon     machin
+\m yon     machin
+\g INDEF car
+\l a car
+
+\t tout/anpil/patwò p/lède machin
+\m tout/anpil/patwò p/lède machin
+\g every/many/few/both     car (s)
+\l every/many/few/both car(s)
+
+\t Jan     toujou ap travay f
+\m Jan     toujou ap travay f
+\g John    always ASP work hard
+\l John    is always (in the process of) working hard
+
+\t Jan     souvan ap rakonte yon              istwa
+\m Jan     souvan ap rakonte yon              istwa
+\g John     often ASP tell          INDEF story
+\l John    is often (in the process of) telling a story
+
+\t krab la
+\m krab la
+\g crab DM
+\l the crab
+
+\t [Moun nan ] detwi [ machin nan ] an
+\m [Moun nan ] detwi [ machin nan ] an
+\g  man DM destroy car          DM    DM
+\l The man destroyed the car
+
+\t Kimoun ou kwè           [CP ki     vini     a ]?
+\m Kimoun ou kwè           [CP ki     vini     a ]?
+\g  who      2sg believe       COMP come DM
+\l Who do you believe came? (it was expected that he/she/someone would come)
+
+\t Pè sonn pa       te   vote a
+\m Pè sonn pa       te   vote a
+\g  nobody NEG ANT vote DM
+\l No one had voted (as it was expected that no one would)
+
+\t Mari toujou ap travay.
+\m Mari toujou ap travay.
+\g   Mary always ASP work
+\l Mary is always (in the process of) working
+
+\t Mari ap travay toujou.
+\m Mari ap travay toujou.
+\g   Mary ASP work again
+\l Mary is again (in the process of) working
+
+\t Kimoun ou kwè            [CP ki      vini   a ]?
+\m Kimoun ou kwè            [CP ki      vini   a ]?
+\g    who      2sg believe      COMP come DM
+\l Who do you believe came
+
+\t [Bwè li bwè remè d          la ], l ap geri
+\m [Bwè li bwè remè d          la ], l ap geri
+\g  drink he drink medicine DM he FUT recover
+\l As soon as he takes the medicine, he will get better
+
+\t Jan ba(y) Mari liv la                                            ´
+\m Jan ba(y) Mari liv la                                            ´
+\g   Jean give Mary book DET
+\l John gave Mary the book.
+
+\t L ap rakonte Mari istwa a
+\m L ap rakonte Mari istwa a
+\g  3SG PROG tell      Mary story DET
+\l S/he told Mary a story.
+
+\t L ap rakonte istwa a ba(y) Mari                                   ´
+\m L ap rakonte istwa a ba(y) Mari                                   ´
+\g  3SG PROG tell      story DET give Mary
+\l S/he told a story to Mary.
+
+\t Jan pran dlo ba Mari                                                  ´
+\m Jan pran dlo ba Mari                                                  ´
+\g  John take water give Mary
+\l John gave Mary water.
+
+\t Men pran liv la montre Jan
+\m Men pran liv la montre Jan
+\g   1SG take book the show John
+\l I showed the book to John.
+
+\t Jan pran Mari montre liv la
+\m Jan pran Mari montre liv la
+\g  John take Mary show book the
+\l John showed Mary the book.
+
+\t (36)a. Bouki vann chat la
+\m (36)a. Bouki vann chat la
+\g             Bouki sell cat the
+\l Bouki sold the cat
+
+\t Bouki vann c
+\m Bouki vann c
+\g Bouki sell cat
+\l Bouki sells cats
+
+\t Zã dwe te maze
+\m Zã dwe te maze
+\g J.must PAST eat
+\l J. must (possibility) have eaten
+
+\t Zã te dwe maze
+\m Zã te dwe maze
+\g J.PAST must eat
+\l J. has had to eat
+
+\t Boukin t di toutmoun ( ke ) ; genl Jak renmen li
+\m Boukin t di toutmoun ( ke ) ; genl Jak renmen li
+\g Boukin t say everyone            that          seem Jak love        3sg
+\l Boukin t has told everyone that it seems that Jack loves her
+
+\t Mwen kw            ( ke ) ; te            f       fr t Kensco
+\m Mwen kw            ( ke ) ; te            f       fr t Kensco
+\g 1sg       believe     that         ANT make cold
+\l I believe that it was cold in Kensco
+
+\t Timoun yo            kw       ( ke ) ; gen jw t sou tab la
+\m Timoun yo            kw       ( ke ) ; gen jw t sou tab la
+\g child       the-PL believe       that          have toys on table the
+\l The children believe that there are toys on the table
+
+\t Mwen kw            ( ke )            ; te manke Bazin yon voum v t pou li monte prezidan              
+\m Mwen kw            ( ke )            ; te manke Bazin yon voum v t pou li monte prezidan              
+\g 1sg       believe     t                ANT lack Bazin a lot vote           for 3sg rise      president
+\l I believe that Bazin lacked the many votes that he needed to become president
+
+\t Mwen kw            ( ke )              ; ap rete liv              sou tab la  
+\m Mwen kw            ( ke )              ; ap rete liv              sou tab la  
+\g 1sg       believe     t                           FUT remain book on table the
+\l I believe that here will remain books on the table
+
+\t (mwen) achte twa liv
+\m (mwen) achte twa liv
+\g   1sg      buy three book
+\l I bought three books
+
+\t  Jani     pale ak tètlii
+\m  Jani     pale ak tèt-lii
+\g (John     speak with head-his)
+\l John   speaks with himself
+
+\t Lii wè li/2
+\m Lii wè li/2
+\g he see him/her/it
+\l S/he saw her(self)/him(self)/it
+
+\t a      Mwe, blese mwe ,
+\m a      Mwe, blese mwe ,
+\g       (I       hurt   me)
+\l I hurt myself
+
+\t b      U     blese u
+\m b      U     blese u
+\g       (you hurt      you)
+\l You hurt yourself
+
+\t c      Emil blese       li
+\m c      Emil blese       li
+\g       (Emil hurt        him)
+\l Emil hurt
+
+\t a     u     dwe      ede   u
+\m a     u     dwe      ede   u
+\g      (you should help you)
+\l You should help yourself
+
+\t  Jani pale ak tètlii
+\m  Jani pale ak tèt-lii
+\g (John speak with head-his)
+\l John speaks with himself
+
+\t  Emil tuye tètli
+\m  Emil tuye tèt-li
+\g (Emil killed head-his)
+\l Emil killed himself
+
+\t  U blésé    tètu
+\m  U blésé    tèt-u
+\g (you hurt   head/body your)
+\l You have hurt yourself
+
+\t  Emil tuye tètli
+\m  Emil tuye tèt-li
+\g (Emil kill      head-his)
+\l Emil killed himself
+
+\t Sèl pa        bezwen vante          tètli
+\m Sèl pa        bezwen vante          tèt-li
+\g salt NEG need            boast      head-3:SG
+\l Salt doesn't need to boast of itself
+
+\t Sèl pa        bezwen     vante tètli
+\m Sèl pa        bezwen     vante tèt-li
+\g salt NEG need            boast head-3:SG
+\l Salt doesn't need to   boast of itself
+
+\t Mweni wèmi       mwenimèm
+\m Mweni wè-mi       mweni--mèm
+\g I         see-me      me-MÈM
+\l I saw myself (emphatic)
+
+\t Sanble      Jan      pati.
+\m Sanble      Jan      pati.
+\g seems       John left
+\l It seems that John left.
+
+\t Jan sanble li pati.
+\m Jan sanble li pati.
+\g John seems he leave
+\l John seems he to have left.
+
+\t 20 a.          Bouki konnen Boukin t
+\m 20 a.          Bouki konnen Boukin t
+\g                Bouki know Boukin t
+\l Bouki knows Boukin t
+
+\t Bouki konnen li
+\m Bouki konnen li
+\g Bouki know 3sg
+\l Bouki knows him her it
+
+\t 26 a.       Bouki deja       konnen Boukin t
+\m 26 a.       Bouki deja       konnen Boukin t
+\g             Bouki already know Boukin t
+\l Bouki already knows Boukin t
+
+\t Bouki pa       konnen Boukin t
+\m Bouki pa       konnen Boukin t
+\g Bouki NEG know Boukin t
+\l Bouki doesn't know Boukin t
+
+\t Boukin      t     te       renmen    Bouki
+\m Boukin      t     te       renmen    Bouki
+\g Boukin      t     ANT renmen         Bouki
+\l Boukin     t    loved Bouki
+
+\t Boukin       t     ap       renmen   Bouki
+\m Boukin       t     ap       renmen   Bouki
+\g  Boukin      t     FUT love          Bouki
+\l Boukin     t    will love Bouki
+
+\t Boukin       t     a       renmen     Bouki si ...
+\m Boukin       t     a       renmen     Bouki si ...
+\g  Boukin      t     IRR love           Bouki if
+\l Boukin     t    would love Bouki    if ...
+
+\t mo t'a           voudrai pouvoir pass li dan droumi
+\m mo t'a           voudrai pouvoir pass li dan droumi
+\g 1sg TE+AVA? want+RAI be-able pass 3sg in sleep
+\l I would want to be able to pass it during sleep
+
+\t Fodre         ou ta     w jan m kontan
+\m Fodre         ou ta     w jan m kontan
+\g need+COND 2sg would see how 1sg happy
+\l You should see how happy I am
+
+\t Bouki konnen Boukin t
+\m Bouki konnen Boukin t
+\g Bouki know Boukin t
+\l Bouki knows Boukin t
+
+\t Bouki konnen li
+\m Bouki konnen li
+\g Bouki know 3sg
+\l Bouki knows him her it
+
+\t Se depale u ap depale
+\m Se depale u ap depale
+\g is stray you PRES stray
+\l You are straying
+
+\t [li     pas t      av ap   vi_ni_]
+\m [li     pas t      av ap   vi_ni_]
+\g    him NEG PST FUT PROG come
+\l he wouldn't be coming
+
+\t Ou (a)va ale demen.
+\m Ou (a)va ale demen.
+\g You FUT go tomorrow
+\l You will go tomorrow.
+
+\t (20) Emil      pran        liv        la   bay          Mari
+\m (20) Emil      pran        liv        la   bay          Mari
+\g      Emil       take        book DET       give         Mary
+\l Emil gave the book to Mary.
+
+\t   Yo wè tèt yo
+\m   Yo wè tèt yo
+\g 3pl see head 3pl
+\l They saw themselves.
+
+\t machin wouj papa m nan
+\m machin wouj papa m nan
+\g car       red father my the
+\l the red car of my father
+
+\t ki moun ou te wè pitit (li)        a
+\m ki moun ou te wè pitit (li)        a
+\g  Who you past        saw child          the
+\l Whose did you see the child of
+
+\t chen an ou pa kwè        m di       ke li kraze        a
+\m chen an ou pa kwè        m di       ke li kraze        a
+\g  dog det you not believe I said      tail his broken det
+\l The dog that you don't believe I   said his tail was broken
+
+\t Mwen pran liv        bay                             Pòl.
+\m Mwen pran liv        bay                             Pòl.
+\g   1   SG        take         book        give        Paul
+\l I gave the book to Paul.
+
+\t [Fam           ki        rete]    yo
+\m [Fam           ki        rete]    yo
+\g woman          Rel       arrest 3pl/Numb
+\l The women that arrested them
+
+\t b. Bouki         est     un      bon    docteur
+\m b. Bouki         est     un      bon    docteur
+\g     Bouki        Cop     Det     good   doctor
+\l Bouki is a good doctor
+
+\t li pas t     a ap vi_ni_
+\m li pas t     a ap vi_ni_
+\g him SN PAST FUT PROG come
+\l He wouldn't be coming.
+
+\t Jan te sanble li te sot
+\m Jan te sanble li te sot
+\g J.Pst seem he Pst stupid
+\l Jean seems he was stupid
+

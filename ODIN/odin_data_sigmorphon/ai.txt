@@ -1,0 +1,150 @@
+\t dekhauliaunh
+\m dekhau-l-i-au-nh
+\g  show-PT-1NOM-2NONHON-3HON
+\l I showed him/her to you.
+
+\t HarÑ"jÑ" i   lagait chaith             [je      øi,  bimÑar bhajetÑah].
+\m HarÑ"-jÑ" i   lag-ait ch-aith             [je      øi,  bimÑar bha-je-t-Ñah].
+\g H.-H.NOM seem-IP AUX:PRES-3H.NOM COMP NOM sick                     be-TEL-FUT-3H.NOM
+\l Hari seems to become sick.
+
+\t HarÑ"jÑ"i lagait chaith                    [je   øi       khu|sÑ" bhelainh].
+\m HarÑ"-jÑ"i lag-ait ch-aith                    [je   øi       khu|sÑ" bhe-l-ainh].
+\g    H.-H.NOM seem-IP AUX:PRES-3H.NOM COMP               DAT happy         be-PT-3H.NNOM
+\l Hari seems to have been happy.
+
+\t HarÑ"jÑ"i lagait chaith                  [je     t~u           øi        nah~" dekhlahunh].      
+\m HarÑ"-jÑ"i lag-ait ch-aith                  [je     t~u           øi        nah~" dekh-l-ah-unh].      
+\g  H.-H.NOM seem-IP AUX:PRES-3H.NOM COMP               2MH.NOM       DAT      NEG see-PT-2MH.NOM-3NH.NNOM
+\l *Hari seems to you have seen.
+
+\t RÑamak  i    bhÑaÑ"k~e           ui,j              he    dekhlak.
+\m RÑam-ak  i    bhÑaÑ"-k~e           ui,j              he    dekh-l-ak.
+\g R.-GEN        brother-DAT          3NH.REM:NOM FOC see-PT-3NOM
+\l HE saw Ram's brother.
+
+\t dekalthun
+\m dekalthun
+\g saw-3H.2MH
+\l He (H) saw you (MH).
+
+\t h@m tora       kitab d@it    chi@uk
+\m h@m to-ra       kitab d-@it    ch-i@uk
+\g I   you.NH-Ob j book give-Part be-1.2NH
+\l I gave you a book (NH).
+
+\t tohar babu Mohanke dekhalthun
+\m tohar babu Mohan-ke dekhalthun
+\g your father Mohan-Ob j saw.3H.2NH
+\l Your (NH) father (H) saw Mohan.
+
+\t o    tora      ¯         dekhalthun
+\m o    tora      ¯         dekhalthun
+\g he.H your.NH father-Ob j saw.3H.2NH
+\l He saw your (NH) father.
+
+\t tohar bap dekhal gel
+\m tohar bap dekhal gel
+\g your father seen went.3NH
+\l Your father was seen.
+
+\t ham cail      jebah
+\m ham cail      je-b-ah
+\g I   move.Conv Aux.Telic-Fut.1-2MH
+\l I will go (if you (MH) don't want me to stay).
+
+\t duRu jas     aga jis   k'a z      ik'nuv / ik'nas
+\m duRu jas     aga ji-s   k'a z      ik'n-uv / ik'n-as
+\g he.Erg I-Gen father-Dat letter.Nom write-3 write-1Sg.Gen
+\l He wrote a letter to my father.
+
+\t duq'ari jas    jak'uxi hit'urduv / hit'urdas
+\m duq'ari jas    jak'u-xi hit'urd-uv / hit'urd-as
+\g they.Erg I.Gen axe-Com cut-3         cut-1Sg.Gen
+\l They are cutting (wood) with my axe.
+
+\t u                              bh"igjet"uk.                            
+\m u                              bh"ig-je-t-"uk.                            
+\g 3NON.HON:DIST:NOM              run-TELIC-FUT:3NON.HON:NOM-2NON.HON:NON.NOM
+\l HeDISTR:NON.HON will run away (because he is afraid of youNON.HON).
+
+\t h"m ekr" ?
+\m h"m ekr" ?
+\g beat-PAST-1NOM-2MID.HON:NON.NOM
+\l I beat himPROX:NON.HON (who is related to youMID.HON).
+
+\t dekhauliaunh
+\m dekhau-l-i-au-nh
+\g  show-PT-1NOM-2NONHON-3HON
+\l I showed him/her to you.
+
+\t o                   Zdarlaith.
+\m o                   Zdar-l-aith.
+\g   3HON.REM.NOM         be.afraid-PT-3HON.NOM
+\l He was afraid.
+
+\t hunkÑa              Zdar laglainh.
+\m hunkÑa              Zdar lag-l-ainh.
+\g    3HON.REM.DAT fear         feel-PT-3HON.NONNOM
+\l He was afraid.
+
+\t o                kitÑab        nahi paZdhlaith.
+\m o                kitÑab        nahi paZdh-l-aith.
+\g 3HON.REM.NOM book[NOM] NEG read-PT-3HON.NOM
+\l He didn't read the book.
+
+\t hunkÑa=s~a            kitÑab         nahi    paZdhal gelainh.
+\m hunkÑa=s~a            kitÑab         nahi    paZdha-l ge-l-ainh.
+\g    3HON.REM.OBL=ABL book[NOM] NEG            read-P    AUX:PASS-PT-3H.NONNOM
+\l The book was not read by him.
+
+\t HarÑ"jÑ" lagait         chaith      [je   __ bimÑar bhajetÑah].
+\m HarÑ"-jÑ" lag-ait         ch-aith      [je   __ bimÑar bha-je-t-Ñah].
+\g  H.-H:NOM seem-IPFV.PART AUX-3H.NOM COMP               sick   be-TEL-FUT-3H.NOM
+\l Hari seems to become sick.
+
+\t h@m tora          kitab d@it chi@uk
+\m h@m to-ra          kitab d-@it ch-i@uk
+\g I    you.NH-Obj book give-Part be-1.2NH
+\l I gave a book to you (NH).
+
+\t toh@r babu      ælthunh
+\m toh-@r babu      æl-thunh
+\g your.NH father.H came-3H.2NH
+\l Your (NH) father (H) came.
+
+\t o    tora:    ba:pke dekhalthunh
+\m o    tora:    ba:p-ke dekhalthunh
+\g he.H your.NH father-Obj saw.3H.2NH
+\l He saw your (NH) father.
+
+\t tohar ba:p dekhal gel
+\m tohar ba:p dekhal gel
+\g your father seen went.3NH
+\l Your father was seen.
+
+\t o    tora:    ba:pke dekhalthunh
+\m o    tora:    ba:p-ke dekhalthunh
+\g he.H your.NH father-Obj saw.3H.2NH
+\l He saw your (NH) father.
+
+\t Rmk / *Rm           ehan kitb         pahab hk nahi aich.
+\m Rm-k / *Rm           ehan kitb         pah-ab hk nahi ai-ch.
+\g R.-DAT      R.NOM    such book.NOM read-INF     right not   3-be
+\l It is not good for Ram to read such a book.
+
+\t hamr / *ham         ghar ibk          pitj            khu heth.
+\m hamr / *ham         ghar ib-k          pit-j            khu he-t-h.
+\g 1DAT       1NO M home come-CONV father-HON.NO M happy be(come)-FUT-3HON.NO M
+\l When I come home, father will be happy.
+
+\t Hcm tora   kitab dcit chicuk.
+\m Hcm to-ra   kitab d-cit ch-icuk.
+\g I     you.HN-OBJ book give-PART be-1.2NH
+\l I gave a book to younon-honorific.
+
+\t T hunksa         kiae khisiael chahun?
+\m T hunk-sa         kiae khisiael chahun?
+\g you him.H-INST why angry             are.2MH.3H
+\l Why are you angry with himhonorific?
+

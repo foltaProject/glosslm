@@ -1,0 +1,20 @@
+\t subiqma          subiqmar  iq
+\m subiq-ma-          subiq-mar-  iq
+\g hit       PUNCT hit             PUNCT 3PERS
+\l He is always hitting
+
+\t tagaru      tagarur     iq
+\m taga-ru-      taga-rur-     iq
+\g touch     COMPL touch        COMPL 3PERS
+\l He is always looking, finishes and looks again
+
+\t Nubiq.
+\m N-ubiq.
+\g  1sg-hit.3sg
+\l He hit me.
+
+\t Kekiditehq.
+\m Keki-di-t-ehq.
+\g   burn-3pl.obj-ben-3sg.subj.nrpast
+\l He burned it for them.
+

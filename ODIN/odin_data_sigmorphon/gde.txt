@@ -1,0 +1,45 @@
+\t gus n            min
+\m gus n            min
+\g short SUBJ woman
+\l The woman is short
+
+\t nwnwu n              Kwalii
+\m nwnwu n              Kwalii
+\g chief       SUBJ Kwalii
+\l Kwalii is a chief
+
+\t agi             adn n            Musa Îfna
+\m agi             adn n            Musa Îfna
+\g    CONTIN eat            SUBJ Musa mush
+\l Musa is eating mush
+
+\t k@          vii Musa kwaâa ka ci.
+\m k@          vii Musa kwaâa ka ci.
+\g compl       give Musa money to him
+\l Musa       gave money to him.
+
+\t k@          kan@paa           Musa buura.
+\m k@          ka-n@-paa           Musa buura.
+\g compl       set down-3sgm-appl Musa bag
+\l Musa       set down the bag for him.
+
+\t mbus pu'                                   b. tufn nga tihin
+\m mbus pu'                                   b. tuf-n nga tihin
+\g      pumpkin ten                               five-ORD of horse
+\l ten pumpkins
+
+\t gus n            min
+\m gus n            min
+\g short SUBJ woman
+\l The woman is short
+
+\t nwnwu n             Kwalii
+\m nwnwu n             Kwalii
+\g chief       SUBJ Kwalii
+\l Kwalii is a chief
+
+\t agi            adn n           Musa Îfna
+\m agi            adn n           Musa Îfna
+\g   CONTIN eat           SUBJ Musa mush
+\l Musa is eating mush
+

@@ -1,0 +1,160 @@
+\t Waka.daba=ngawu=ninya.
+\m Waka.daba=ngawu=ninya.
+\g wash=1SG.NOM=2SG.ACC
+\l I wash you.
+
+\t Waka.daba=ninyji=ngaa(n).
+\m Waka.daba=ninyji=ngaa(n).
+\g wash=2SG.NOM=1SG.ACC
+\l You wash me.
+
+\t Waka.daba=ngaka.
+\m Waka.daba=ngaka.
+\g wash=1SG.REFL
+\l I wash myself.
+
+\t Waka.daba=nganyingka.
+\m Waka.daba=nganyi-ngka.
+\g wash=2SG-REFL
+\l You wash yourself.
+
+\t Daba=bula=ngaa(n)                  kirriyawiyaa.
+\m Daba=bula=ngaa(n)                  kirriya-wiya-a.
+\g hit=3D.NOM=1SG.ACC                 woman-pair-ERG
+\l Two women hit me.
+
+\t Daba=ngawu=bulanya                kirriyawiya.
+\m Daba=ngawu=bula-nya                kirriya-wiya.
+\g hit=1SG.NOM=3D-ACC                 woman-pair
+\l I hit the two women.
+
+\t Daba=bulangka         kirriyawiya.
+\m Daba=bula-ngka         kirriya-wiya.
+\g hit=3D-REFL           girl-pair
+\l Two girls (they) are fighting.
+
+\t Waka.daba=nganyingka marni.
+\m Waka.daba=nganyi-ngka marni.
+\g wash=2GEN-REFL             hand
+\l Wash your hands!
+
+\t Kard.bi.j.bi=nyulu kangkirinyaa.
+\m Kard.bi.j.bi=nyulu kangkirinya-a.
+\g CUT=3SG.S             knife-ERG
+\l He cut (him) with a knife.
+
+\t Makaraba=ngaka, jibaa.
+\m Makaraba=ngaka, jiba-a.
+\g cover=1SG.REFL         paperbark-ERG
+\l I cover myself, with paperbark.
+
+\t Nangkujarra kirriyawiya, muwa.j.ba=bulangka.
+\m Nang-kujarra kirriya-wiya, muwa.j.ba=bula-ngka.
+\g these-two      girl-pair       jealous=3D-REFL
+\l These two girls, they are jealous of each other.
+
+\t Narri,         daba=narriya.ngka jukulii.
+\m Narri,         daba=narri-ya.ngka jukuli-i.
+\g 2PL.NOM        hit=2PL-REFL          boomerang-ERG
+\l You lot, you hit each other with boomerangs.
+
+\t Winyjika(a)=ninya windi.j.bi                na.ngkanyi       mamaanyi?
+\m Winyjika(-a)=ninya windi.j.bi                na.ng-kanyi       mama-anyi?
+\g who(-ERG)=2SG.ACC give                       this-DAT          bread-DAT
+\l Who gave you this bread?
+
+\t b.       Nanangkaningandaaraa=ngan                       windi.j.bi,na.ngkanyi mama         anyi.
+\m b.       Nana-ngkaningandaara-a=nga-n                       windi.j.bi,na.ng-kanyi mama-         anyi.
+\g          that-ERG    old_woman-ERG=1SG.ACC-n give                        this-DAT       food-DAT
+\l That old woman gave me (of) this food.
+
+\t Windi.j.bi=yalungka jukuli,           mukura, barrku.
+\m Windi.j.bi=yalu-ngka jukuli,           mukura, barrku.
+\g give=3PL-REFL           boomerang,     spear,     nullanulla
+\l They gave each other boomerangs, spears and nullanullas.
+
+\t Ngarija.ba=nyului nangangii/j jukuli.
+\m Ngarija.ba=nyului na-ngangii/j jukuli.
+\g carve=3SG.NOM        3SG-DAT       boomerang
+\l He's carving a boomerang for him(self).
+
+\t Nanga.nja=nyulu mama                ni.yangi.
+\m Nanga.nja=nyulu mama                ni.ya-ngi.
+\g get=3SG.S            food           12-DAT
+\l He's getting food for us.
+
+\t Jurra.ngki.j.bi=nurriya.ngka,      wawurra.                   Wawurradarra.
+\m Jurra.ngki.j.bi=nurri-ya.ngka,      wawurra.                   Wawurra-darra.
+\g play=1PL.EX-REFL                    child                      child-PL
+\l We played with each other, as kids. All the kids.
+
+\t Jurra yalu,        jurra.ngki.j.bi=yalungka
+\m Jurra yalu,        jurra.ngki.j.bi=yalu-ngka
+\g play 3PL.NOM, play=3PL-REFL
+\l Play, them, they play (about).
+
+\t Yany.ba=ngamba,         murdungama. Turunu.
+\m Yany.ba=ngamba,         murdungama. Turu-nu.
+\g talk=12PL.NOM           morning        sun-LOC
+\l We'll talk (again) in the morning, after the sun comes up.
+
+\t Yany.ba=ngawu nganyi mirrirri.mbi=ninya ­ ngaki yanyi           Wanyi.
+\m Yany.ba=ngawu nganyi mirrirri.mbi=ninya ­ ngaki yanyi           Wanyi.
+\g speak=1SG.NOM 2SG.DAT teach=2SG.ACC            1SG.DAT language
+\l I am talking to you - teaching you my language, Wanyi.
+
+\t Yany.ba=bulangka yanyi=barri.
+\m Yany.ba=bula-ngka yanyi=barri.
+\g talk=3D-REFL         language/word=THEN
+\l They are having a yarn.
+
+\t Ku.j.bu=nyulungatanganyjaanyi ngindini.
+\m Ku.j.bu=nyulu-ngata-nganyja-anyi ngindi-ni.
+\g search=3SG.NOM         mother-ANAPH-DAT cry-LOC
+\l He's searching for his mother - (he) crying.
+
+\t Mularri.j.bi=ngawu ­ ngindiwurru.
+\m Mularri.j.bi=ngawu ­ ngindi-wurru.
+\g pick_up=1SG.NOM         cry-ALLAT
+\l I picked (him) up (he) crying.
+
+\t Jurra.ngki.j.bi=yalungkajungkunu.
+\m Jurra.ngki.j.bi=yalu-ngka-jungku-nu.
+\g play=3PL-REFL                 sit-LOC
+\l They are playing (while) sitting down.
+
+\t Daba=bulangka      kirriyawiya. Muwa.jini.
+\m Daba=bula-ngka      kirriya-wiya. Muwa.ji-ni.
+\g hit=D-REFL         girl-pair      jealous-LOC
+\l Two woman are hitting each other (i.e. fighting) being jealous.
+
+\t [Jawika.j.ba=ngawu=ninya], windikanyi=ninyji=ngaan      jukulianyi.
+\m [Jawika.j.ba=ngawu=ninya], windi-kanyi=ninyji=ngaa-n      jukuli-anyi.
+\g ask=1SG.NOM=2SG.ACC           give-PURP=2SG.NOM=1SG.ACC-n boomerang-DAT
+\l [I ask you] (that) you give me (of) a boomerang.
+
+\t [Budangku=yalu=ninya nguru.bu             na.ngkanyi],      daba=yalungka.
+\m [Budangku=yalu=ni-nya nguru.bu             na.ng-kanyi],      daba=yalu-ngka.
+\g [NEG=3PL.NOM=2SG-ACC tell                 this-DAT]          hit=3PL-REFL
+\l [They didn't tell you about it], (that) they had a fight.
+
+\t Ku.j.ba=ngawu kundaanyi [...] kurrikanyi=ngaka         mundirri.
+\m Ku.j.ba=ngawu kunda-anyi [...] kurri-kanyi=ngaka         mundirri.
+\g search=1SG      stick-DAT [...]    scratch-PURP=1SG.REFL back
+\l I'm looking for a stick to scratch my back with.
+
+\t jala     daba     yalungk=i.
+\m jala     daba     yalu-ngk=i.
+\g then     hit      3pl-RR=PST
+\l then they hit each other.
+
+\t Daba nangk=i       nanaba kurrukurru.
+\m Daba nangk=i       nanaba kurrukurru.
+\g fight 3sgRR=PST there       big.mob(NOM)
+\l Big mobs of people fought each other there.
+
+\t jala            daba           yalungk=i.
+\m jala            daba           yalu-ngk=i.
+\g then            hit            3pl-RR=PST
+\l then they hit each other.
+

@@ -1,0 +1,40 @@
+\t n| k|e l|o\îî   bo|î.
+\m n| k|e l|o-\î--î   bo|î.
+\g   child IND go-PROGR field
+\l The child is going to the field.
+
+\t n|=\      l\o       bo|î.
+\m n|=\      l\o       bo|î.
+\g   child=ACT go:DECL field
+\l The child goes to the field.
+
+\t k|o l|o bo|î.
+\m k|o l|o bo|î.
+\g 1PL.OPT go field.
+\l Let's go to the field.
+
+\t [n=´          yb              l á à ] e zé
+\m [-n=´          y-b-              l á à ] e zé
+\g 1sPOSS-father=SUB palm-REL      cut-CMPL.STAT SUB    3s here
+\l The palm tree that my father has cut is here.
+
+\t [n=´          yb              l á à ] e zé
+\m [-n=´          y-b-              l á à ] e zé
+\g 1sPOSS-father=SUB palm-REL      cut-CMPL.STAT SUB    3s here
+\l The palm tree that my father has cut is here.
+
+\t n|ä k|e l|o\"Ñ"     bo|".
+\m n|ä k|e l|o-\"Ñ"     bo|".
+\g    child IND go-PROGR field
+\l The child is going to the field.
+
+\t n|ä=\     l\o       bo|".
+\m n|ä=\     l\o       bo|".
+\g   child=ACT go:DECL field
+\l The child goes to the field.
+
+\t k|o     l|o bo|".
+\m k|o     l|o bo|".
+\g 1PL.OPT go field.
+\l Let's go to the field.
+

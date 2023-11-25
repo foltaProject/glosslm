@@ -1,0 +1,50 @@
+\t maji    yametokata
+\m maji    ya-me-tokata
+\g water it-PERF-boil
+\l The water boiled.
+
+\t Baba alimfun gisha           mtoto mlango
+\m Baba a-li-m-fun g-ish-a           mtoto mlango
+\g father he-TEMP-him-close-CS        child    door
+\l The father made the child close the door.
+
+\t Hamida anampikishisha33   Fatuma Halima ugali
+\m Hamida a-na-m-pik-ish-ish-a33   Fatuma Halima ugali
+\g  Hamida she-PRES-her-cook-CS-CS Fatuma Halima porri dge
+\l Hamida is making Fatuma make Halima cook porridge.
+
+\t Fatuma    ametokosa                maji
+\m Fatuma    a-me-toko-s-a                maji
+\g Fatuma    she-PERF-boil-CS            water
+\l Fatuma boiled the water.
+
+\t Juma      amemtokosesha                                     Fatuma       maji
+\m Juma      a-me-m-toko-s-esh-a                                     Fatuma       maji
+\g Juma      he-PERF-her-boil-CS-CS                                 Fatuma       water
+\l Juma made Fatuma boil the water.
+
+\t Juma      amemtokosesha      Fatuma                   maji
+\m Juma      a-me-m-toko-s-esh-a      Fatuma                   maji
+\g Juma      he-PERF-her-boil-CS-CS Fatuma                    water
+\l Juma made Fatuma boil the water.
+
+\t Baba alimfun gisha           mtoto mlango
+\m Baba a-li-m-fun g-ish-a           mtoto mlango
+\g father he-TEMP-him-close-CS        child    door
+\l The father made the child close the door.
+
+\t Hamida anampikishisha      Fatuma Halima ugali
+\m Hamida a-na-m-pik-ish-ish-a      Fatuma Halima ugali
+\g   Hamida she-PRES-her-cook-CS-CS Fatuma Halima porri dge
+\l Hamida is making Fatuma make Halima cook porridge.
+
+\t Umeleta    kitabu?
+\m U-me-leta    kitabu?
+\g 2.SG-P-bring book
+\l Have you brought a book?
+
+\t a. Umeleta    kitabu?
+\m a. U-me-leta    kitabu?
+\g   2.SG-P-bring book
+\l Have you brought a book?
+

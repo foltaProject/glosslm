@@ -1,0 +1,25 @@
+\t EEn               qniEqni
+\m EEn               qniEqni
+\g remote-1s-int/imp eat-redup
+\l I'd like to eat/I must eat
+
+\t si EoEno                 tuqmqiEmeto
+\m si EoEno                 tuqmqiEmeto
+\g neg remote-2s-int/imp think-heavy
+\l Don't worry
+
+\t tEn               qenoqoi
+\m tEn               qenoqoi
+\g 1pl.inc-int/imp return
+\l Let's go back/We must go back/We want to go back
+
+\t au imagu
+\m au ima-gu
+\g D:1S hand-P:1S
+\l my hand
+
+\t au egu              numa/daua
+\m au e-gu              numa/daua
+\g D:1S CL:D*FAuLT-P:1S house/banana
+\l my house/banana
+

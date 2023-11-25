@@ -1,0 +1,615 @@
+\t Tomi mhanat hota [ki Suej ni swataahlaai/j maarle].
+\m Tomi mhanat hota [ki Suej ni swataahlaai/j maarle].
+\g Tom said           that Sue erg anaphor-acc hit
+\l Tom said that Sue hit herself/*him.
+
+\t Tomi mhanat hota [ki Suej ni swataahlaai/j maarle].
+\m Tomi mhanat hota [ki Suej ni swataahlaai/j maarle].
+\g Tom said           that Sue erg anaphor-acc hit
+\l Tom said that Sue hit herself/*him.
+
+\t       ¯¿           s"» ¯       ¿ dte.
+\m       ¯¿           s"» ¯       ¿ d-te.
+\g girl(FEM)-SG:DAT saree(FEM):SG:NOM like-SG:FEM:NON.PAST
+\l The girl likes the saree.
+
+\t s"» ¯              ¿ d» ¿ ¯                      mulgi ¯         
+\m s"» ¯              ¿ d-» ¿ ¯                      mulgi ¯         
+\g  saree(FEM):SG:NOM please-ACT.PART:FEM:SG:NOM     girl(FEM):SG:NOM
+\l the girl who likes the saree
+
+\t to    pustak        waatsat                 baslaa
+\m to    pustak        waats-at                 bas-l-aa
+\g he    book          read-IMPF                sit-PF-M
+\l He kept on reading the book.
+
+\t prayatna              karat       rahaa/*bas
+\m prayatna              kar-at       rahaa/*bas
+\g try                   do-IMPF      stay/sit
+\l Keep trying hard.
+
+\t John laa Bill kaduun aaplyaa gharii           maarle gele.
+\m John laa Bill kaduun aaplyaa gharii           maarle gele.
+\g John ACC Bill by          self.GEN house.LOC hit     PASS
+\l Johni was hit by Billj at self'sj/*i house.
+
+\t raamne         shaamlaa      patra          lihaaylaa          laawla
+\m raam-ne         shaam-laa      patra          lih-aaylaa          laaw-l-a
+\g Ram-ERG         Sham-DAT        letter.N       write-PTCPL          make-PERF-N
+\l Ram made Sham write a letter.
+
+\t raamne         shaamlaa basaaylaa         bhaag paaDl a
+\m raam-ne         shaam-laa bas-aaylaa         bhaag paaD-l- a
+\g Ram-ERG         Sham-DAT sit-PTCPL make-PERF-N
+\l Ram left Sham with no choice but to sit.
+
+\t mi raamlaa basu             dil a
+\m mi raam-laa bas-u             di-l- a
+\g I       ram-DAT sit-PTCPL give-PERF-N
+\l I let Ram sit.
+
+\t mi raamkaDun         kholi     saaph      karun         ghetl i
+\m mi raam-kaDun         kholi     saaph      kar-un         ghet-l- i
+\g I       Ram-by        room.F clean         do-CONJ take-PERF-F
+\l I had the room cleaned by Ram. 
+
+\t kapDe          waaLl e
+\m kapDe          waaL-l- e
+\g  clothes.N     dry-PERF- N
+\l The clothes dried.
+
+\t raamne       kapDe         waalaw le
+\m raam-ne       kapDe         waal-aw- l-e
+\g  Ram-ERG clothes.N          dry-CAUS-PERF- N
+\l Ram dried the clothes.
+
+\t raamne      kapDyaannaa waaLaaylaa      laawla
+\m raam-ne      kapDyaan-naa waaL-aaylaa      laaw-l-a
+\g  Ram-ERG clothes-ACC          dry-PTCPL     make-PERF- N
+\l Ram made the clothes dry. 
+
+\t shaam buDl aa
+\m shaam buD-l- aa
+\g  Sham      drown-PERF- M
+\l Sham drowned.
+
+\t raamne       shaamlaa buDaw la
+\m raam-ne       shaam-laa buD-aw- l-a
+\g  Ram-ERG Sham-DAT drown-CAUS-PERF-N
+\l Ram drowned Sham. 
+
+\t raamne      shaamlaa buDaaylaa       laawla
+\m raam-ne      shaam-laa buD-aaylaa       laaw-l-a
+\g  Ram-ERG Sham-DAT drown-PTCPL make-PERF-N
+\l Ram made Sham drown. 
+
+\t mi kapDe            waaLu           dil e
+\m mi kapDe            waaL-u           di-l- e
+\g I      clothes.N         dry-PTCPL give-PERF-N
+\l I let the clothes dry. 
+
+\t mi shaamlaa buDu                      dil a
+\m mi shaam-laa buD-u                      di-l- a
+\g I Sham-DAT drown-PTCPL give-PERF-N
+\l I let Sham drown. 
+
+\t mi shaamlaa paLu                 dil a
+\m mi shaam-laa paL-u                 di-l- a
+\g I Sham-DAT run-PTCPL give-PERF-N
+\l I let Sham run.
+
+\t mi shaamlaa patra             lihu             dil a
+\m mi shaam-laa patra             lih-u             di-l- a
+\g I Sham-DAT letter.N write-PTCPL give-PERF-N
+\l I let Sham write a letter.
+
+\t mi raamkaDun patra           lihun              ghetla
+\m mi raam-kaDun patra           lih-un              ghet-l-a
+\g  I Ram-by          letter.N write-CONJ            take-PERF-N
+\l I had the letter written by Ram.
+
+\t mi raamkaDun kholi           saaph karun           ghetl i
+\m mi raam-kaDun kholi           saaph kar-un           ghet-l- i
+\g  I Ram-by          room.F clean do-CONJ take-PERF-F
+\l I had the room cleaned by Ram. 
+
+\t mi raamkaDun kombDi               maarun        ghetli
+\m mi raam-kaDun kombDi               maar-un        ghet-l-i
+\g  I Ram-by          chicken.F       kill-CONJ take-PERF-F
+\l I had the chicken killed by Ram.
+
+\t mi raamkaDun jhuraL                     maarun        ghetl a
+\m mi raam-kaDun jhuraL                     maar-un        ghet-l- a
+\g      I Ram-by           cockroach.N        kill-CONJ take-PERF-N
+\l I had the cockroach killed by Ram. 
+
+\t mi      raamkaDun basun             ghetla
+\m mi      raam-kaDun bas-un             ghet-l-a
+\g    I     Ram-by         sit-CONJ        take-PERF-N
+\l I benefited from Ram's sitting.
+
+\t mi raamkaDun buDun                  ghetla
+\m mi raam-kaDun buD-un                  ghet-l-a
+\g    I Ram-by        drown-CONJ take-PERF-N
+\l I benefited from Ram's drowning. 
+
+\t tyaane      bhaat      khaall aa
+\m tyaa-ne      bhaat      khaa-ll- aa
+\g  he-ERG       rice.M     eat-PERF- M
+\l He ate rice.
+
+\t raamne       tyaalaa   bhaat    bharawl aa
+\m raam-ne       tyaa-laa   bhaat    bharaw-l- aa
+\g  Ram-ERG he-DAT         rice.M   feed-PERF-M
+\l Ram fed him rice.
+
+\t raamne   tyaalaa bhaat           khaaylaa laawlaa
+\m raam-ne   tyaa-laa bhaat           khaa-ylaa laaw-l-aa
+\g Ram-ERG he-DAT rice.M             eat-PTCPL make-PERF- M
+\l Ram made him eat rice.
+
+\t raamne       tyaalaa bhaat        khaau    dil aa
+\m raam-ne       tyaa-laa bhaat        khaa-u    di-l- aa
+\g Ram-ERG       he-DAT rice.M eat-PTCPL give-PERF-M
+\l Ram let him eat rice.
+
+\t raamne       tyaacyaakaDun        bhaat   khaaun     ghetl aa
+\m raam-ne       tyaacyaa-kaDun        bhaat   khaa-un     ghet-l- aa
+\g  Ram-ERG       he-by                 rice.M eat-CONJ take-PERF-M
+\l Ram benefited through his eating rice.
+
+\t tyaane kapDe            ghaatl e
+\m tyaa-ne kapDe            ghaat-l- e
+\g  he-ERG clothes.N        wear-PERF-N
+\l He wore the clothes.
+
+\t raamne     tyaalaa     kapDe ghaatl e
+\m raam-ne     tyaa-laa     kapDe ghaat-l- e
+\g  Ram-ERG he-DAT         clothes.N dress-PERF-N
+\l Ram dressed him. 
+
+\t raamne   tyaalaa kapDe              ghaalaaylaa   laawle
+\m raam-ne   tyaa-laa kapDe              ghaal-aaylaa   laaw-l-e
+\g Ram-ERG he-ACC clothes.N             wear-PTCPL     make-PERF-N
+\l Ram made him wear the clothes.
+
+\t raam basl aa
+\m raam bas-l- aa
+\g  Ram sit-PERF-M
+\l Ram sat.
+
+\t mi raamlaa            basawl a
+\m mi raam-laa            bas-aw-l- a
+\g  I      Ram-DAT        sit-CAUS-PERF-N
+\l I sat/seated Ram. 
+
+\t mi raamlaa             kholit basaaylaa   laawla
+\m mi raam-laa             kholi-t bas-aaylaa   laaw-l-a
+\g  I      Ram-DAT         room-in sit-PTCPL     make-PERF-N
+\l I made Ram sit in     the room.
+
+\t raam don kilomiTar        paLlaa
+\m raam don kilomiTar        paL-l-aa
+\g Ram two kilometer         run-PERF-M
+\l Ram ran two kilometers.
+
+\t shaamne      raamlaa    don kilomiTar          paLaw la (Sociative)        paN shaam     raambarobar paLl aa            naahi
+\m shaam-ne      raam-laa    don kilomiTar          paL-aw- l-a (Sociative)        paN shaam     raam-barobar paL-l- aa            naahi
+\g  Sham-ERG    Ram-DAT two kilomete                   run-CAUS-PERF-N r             but Sham     Ram-with       run-PERF-M       not   
+\l Sham made   Ram run two kilometers but he did   not run with Ram. 
+
+\t shaamne raamlA      don kilomiTar         paLaaylaa laawl a (Indirect)    paN shaam    raambarobar paLlaa            naahi
+\m shaam-ne raam-lA      don kilomiTar         paL-aaylaa laaw-l- a (Indirect)    paN shaam    raam-barobar paL-l-aa            naahi
+\g Sham-ERG Ram-DAT two kilometer             run-PTCPL make-PERF-N               but Sham     Ram-with       run-PERF- M not        
+\l Sham made Ram run two kilometers but he did not run with Ram. 
+
+\t mi    raamkaDun kholi           saaph karaw li
+\m mi    raam-kaDun kholi           saaph kar-aw- l-i
+\g I     Ram-by      room.F         clean do-CAUS-PERF- F
+\l I had Ram clean the room. 
+
+\t shaamne       raamkaDun        patra      lihawla
+\m shaam-ne       raam-kaDun        patra      lih-aw-l-a
+\g Sham-ERG      Ram-by            letter.N   write-CAUS-PERF- N
+\l Sham had Ram write a letter.    
+
+\t mi ek        taas baaher         phiraaylaa gelo       aaNi tyaa       weLaat                  raamkaDun kholi             saaf karaw li (Sociative)
+\m mi ek        taas baaher         phiraaylaa gelo       aaNi tyaa       weL-aat                  raam-kaDun kholi             saaf kar-aw- l-i (Sociative)
+\g   I one          hour out             walk           went and during          time-in           Ram-by         room.F        clean do-CAUS- PERF-F       
+\l I went for a walk for one   hour and during that time had Ram clean the room. 
+
+\t mi ek         taas baaher         phiraayla gelo aaNi tyaa           weLaat     raamkaDun kholi             saaph karaaylaa laawli (Indirect)
+\m mi ek         taas baaher         phiraayla gelo aaNi tyaa           weL-aat     raam-kaDun kholi             saaph kar-aaylaa laaw-l-i (Indirect)
+\g   I one hour out                  walk       went and during         time-in     Ram-by         room.F        clean do-PTCPL make-PERF- F         
+\l I went for a walk for one   hour and during that time had Ram clean the room. 
+
+\t mi     raamkaDun kholi        saaph   karun       ghetl i
+\m mi     raam-kaDun kholi        saaph   kar-un       ghet-l- i
+\g I      Ram-by       room.F clean       do-CONJ      take-PERF-F
+\l I got the room cleaned by Ram. 
+
+\t shaamne raamkaDun patra              lihun          ghetla
+\m shaam-ne raam-kaDun patra              lih-un          ghet-l-a
+\g Sha m-ERG Ram-by          letter.N    write-CONJ      take-PERF-N
+\l Sham got the letter written by Ram.
+
+\t raamne      sitaalaa     pustak wikat          gheun      dila
+\m raam-ne      sitaa-laa     pustak wikat          ghe-un      di-l-a
+\g  Ram-ERG Sita-DAT           book.N purchase take-CONJ give-PERF-N
+\l Ram bought Sita a book.
+
+\t   raamne       sitaalaa            pustak wikat     gheu       dil a
+\m   raam-ne       sitaa-laa            pustak wikat     ghe-u       di-l- a
+\g Ram-ERG Sita-DATbook.N purchase                     take-PTCPL give-PERF- N
+\l Ram let Sita buy a book.
+
+\t raamne     sitaalaa     baadzaaraat     dzaau        dil a
+\m raam-ne     sitaa-laa     baadzaar-aat     dzaa-u        di-l- a
+\g Ram-ERG Sita-DAT           market-in        go-PTCPL give-PERF-N
+\l Ram let Sita go to the market.
+
+\t raamne     sitaakaDun patra lihun      ghetla
+\m raam-ne     sitaa-kaDun patra lih-un      ghet-l-a
+\g  Ram-ERG Sita-by            letter.N write-CONJ take-PERF-N
+\l Ram got the letter written by Sita.
+
+\t raamne          sitaakaDun baadzaaraat    dzaaun      ghetl a
+\m raam-ne          sitaa-kaDun baadzaar-aat    dzaa-un      ghet-l- a
+\g   Ram-ERG         Sita-by       market-in     go-CONJ take-PERF-N
+\l Ram got Sita to go to the market/Ram benefited from Sita's going to the market. 
+
+\t mulgÑ"lÑa         sÑaZdÑ"            ÑavaZdte.
+\m mulgÑ"-lÑa         sÑaZdÑ"            ÑavaZd-te.
+\g girl(F):SG-DAT saree(F):SG.NOM        please-F.SG.NPT
+\l The girl likes the saree.
+
+\t a´. *sÑaZdÑ"           ÑavaZdZnÑarÑ"             mulgÑ"
+\m a´. *sÑaZdÑ"           ÑavaZd-ZnÑarÑ"             mulgÑ"
+\g       saree(F):SG.NOM please-ACT.P:FsNOM girl(F):sNOM
+\l the girl who likes the saree
+
+\t to    mulgÑa            ghar                         pÑahato.
+\m to    mulgÑa            ghar                         pÑaha-to.
+\g   DEM boy(M):SG.NOM house(M):SG.NOM                  see-M.SG.NPT
+\l That boy sees the house.
+
+\t b´. ghar                     pÑahaZnÑarÑa                          mulgÑa
+\m b´. ghar                     pÑaha-ZnÑarÑa                          mulgÑa
+\g      house(F):SG.NOM         see-ACT.P:M.SG.NOM boy(M):SG.NOM
+\l the boy who sees the house
+
+\t b. [[to kal       parat aalaa             kaa(y)]mhaaNun/asa] raam malaa                     witSaarat hotaa    
+\m b. [[to kal       parat aalaa             kaa(y)]mhaaNun/asa] raam malaa                     witSaarat hotaa    
+\g      he yesterday back come-pst-3ms       Q/what Quot/such      Ram I-dat                    ask-prog.be-pst-3ms
+\l Ram was asking me [whether/if he came back yesterday
+
+\t to     mulgÑa        gÑaZnÑ"      mhaZnto.
+\m to     mulgÑa        gÑaZnÑ"      mhaZn-to.
+\g   DEM boy(M):sNOM song(F):sNOM sing-MsNPT
+\l That boy sings songs.
+
+\t a´. gÑaZnÑ"       mhaZnZnÑarÑa             mulgÑa
+\m a´. gÑaZnÑ"       mhaZn-ZnÑarÑa             mulgÑa
+\g      song(F):sNOM     sing-ACT.P:MsNOM boy(M):sNOM
+\l the boy who sings songs
+
+\t mulgÑ"lÑa sÑaZdÑ"        ÑavaZdte.
+\m mulgÑ"-lÑa sÑaZdÑ"        ÑavaZd-te.
+\g   girl(F)-sDAT saree(F):sNOM like-FsNPT
+\l The girl likes the saree.
+
+\t b´. *sÑaZdÑ"        ÑavaZdZnÑarÑ"           mulgÑ"
+\m b´. *sÑaZdÑ"        ÑavaZd-ZnÑarÑ"           mulgÑ"
+\g       saree(F):sNOM please-ACT.P:FsNOM girl(F):sNOM
+\l the girl who likes the sari
+
+\t Sudha Mumbai @la @ [ ] a@n 5i mi @ Triwendramla@ [dza@i @n].
+\m Sudha Mumbai @-la @ [ ] a@n 5i mi @ Triwendram-la@ [dza@i @n].
+\g    Susha      Mumbai.all        and I        Trivendram              went
+\l Sudha went to Mumbai, and I to Trivendram.
+
+\t Tomi     mhanat hota [ki Suej ni swataahlaa i=j maarle].
+\m Tomi     mhanat hota [ki Suej ni swataahlaa i=j maarle].
+\g Tom      said          that Sue ERG ANAPHOR-AC C hit
+\l Tom     said that Sue hit herself/*him.
+
+\t Janei    mhanaali [ki [swataacii         parikshaa] sampli].
+\m Janei    mhanaali [ki [swataacii         parikshaa] sampli].
+\g Jane     said       that ANAPHOR-GE N test        finished
+\l Jane    said that her test was over.
+
+\t [lili ghari geli {te/*asa}] Minila mahit ahe
+\m [lili ghari geli {te/*asa}] Minila mahit ahe
+\g  Lili home went TE/ASA Mini knows
+\l Mini knows that Lili went home
+
+\t [lili ghari geli {*te/asa}] Minila vatta
+\m [lili ghari geli {*te/asa}] Minila vatta
+\g  Lili home went TE/ASA Mini believes
+\l Mini believes that Lili went home
+
+\t lilii samajte [ki apani libral ahot]
+\m lilii samajte [ki apani libral ahot]
+\g Lili believes that SELF liberal is
+\l Lili believes that she is liberal
+
+\t lilinii samla j kalavla [ki swata i kam karnar nahi]
+\m lili-nii sam-la j kalavla [ki swata i kam karnar nahi]
+\g Lili-ERG Sam-to informed that SELF job do-FUT not
+\l Lili informed Sam t hat she herself won't do the job
+
+\t Minila [Lilini Ravila kay dila asa] vatta
+\m Minila [Lilini Ravila kay dila asa] vatta
+\g Mini Lili to-Ravi what gave COMP believes
+\l What does Mini believe that Lili gave to Ravi?
+
+\t sumani ladu.             dila
+\m suma-ni ladu.             di-la
+\g Suma-Erg sweet.M.Sg.Nom give-Part.Masc.Sg
+\l Suma gave (me/us) a sweet.
+
+\t mulgil"            ?di           "v"?
+\m mulgi-l"            ?di           "v"?
+\g girl(FEM)-SG:DAT saree(FEM):SG:NOM like-SG:FEM:NON.PAST
+\l The girl likes the saree.
+
+\t s"??                 ?d???                       mulgi ?         
+\m s"??                 ?d-???                       mulgi ?         
+\g  saree(FEM):SG:NOM please-ACT.PART:FEM:SG:NOM     girl(FEM):SG:NOM
+\l the girl who likes the saree
+
+\t raamne         shaamlaa      patra          lihaaylaa          laawla
+\m raam-ne         shaam-laa      patra          lih-aaylaa          laaw-l-a
+\g Ram-ERG         Sham-DAT        letter.N       write-PTCPL          make-PERF-N
+\l Ram made Sham write a letter.
+
+\t raamne         shaamlaa basaaylaa         bhaag paaDl a
+\m raam-ne         shaam-laa bas-aaylaa         bhaag paaD-l- a
+\g Ram-ERG         Sham-DAT sit-PTCPL make-PERF-N
+\l Ram left Sham with no choice but to sit.
+
+\t mi raamlaa basu             dil a
+\m mi raam-laa bas-u             di-l- a
+\g I       ram-DAT sit-PTCPL give-PERF-N
+\l I let Ram sit.
+
+\t mi raamkaDun         kholi     saaph      karun         ghetl i
+\m mi raam-kaDun         kholi     saaph      kar-un         ghet-l- i
+\g I       Ram-by        room.F clean         do-CONJ take-PERF-F
+\l I had the room cleaned by Ram. 
+
+\t kapDe          waaLl e
+\m kapDe          waaL-l- e
+\g  clothes.N     dry-PERF- N
+\l The clothes dried.
+
+\t raamne       kapDe         waalaw le
+\m raam-ne       kapDe         waal-aw- l-e
+\g  Ram-ERG clothes.N          dry-CAUS-PERF- N
+\l Ram dried the clothes.
+
+\t raamne      kapDyaannaa waaLaaylaa      laawla
+\m raam-ne      kapDyaan-naa waaL-aaylaa      laaw-l-a
+\g  Ram-ERG clothes-ACC          dry-PTCPL     make-PERF- N
+\l Ram made the clothes dry. 
+
+\t shaam buDl aa
+\m shaam buD-l- aa
+\g  Sham      drown-PERF- M
+\l Sham drowned.
+
+\t raamne       shaamlaa buDaw la
+\m raam-ne       shaam-laa buD-aw- l-a
+\g  Ram-ERG Sham-DAT drown-CAUS-PERF-N
+\l Ram drowned Sham. 
+
+\t raamne      shaamlaa buDaaylaa       laawla
+\m raam-ne      shaam-laa buD-aaylaa       laaw-l-a
+\g  Ram-ERG Sham-DAT drown-PTCPL make-PERF-N
+\l Ram made Sham drown. 
+
+\t mi kapDe            waaLu           dil e
+\m mi kapDe            waaL-u           di-l- e
+\g I      clothes.N         dry-PTCPL give-PERF-N
+\l I let the clothes dry. 
+
+\t mi shaamlaa buDu                      dil a
+\m mi shaam-laa buD-u                      di-l- a
+\g I Sham-DAT drown-PTCPL give-PERF-N
+\l I let Sham drown. 
+
+\t mi shaamlaa paLu                 dil a
+\m mi shaam-laa paL-u                 di-l- a
+\g I Sham-DAT run-PTCPL give-PERF-N
+\l I let Sham run.
+
+\t mi shaamlaa patra             lihu             dil a
+\m mi shaam-laa patra             lih-u             di-l- a
+\g I Sham-DAT letter.N write-PTCPL give-PERF-N
+\l I let Sham write a letter.
+
+\t mi raamkaDun patra           lihun              ghetla
+\m mi raam-kaDun patra           lih-un              ghet-l-a
+\g  I Ram-by          letter.N write-CONJ            take-PERF-N
+\l I had the letter written by Ram.
+
+\t mi raamkaDun kholi           saaph karun           ghetl i
+\m mi raam-kaDun kholi           saaph kar-un           ghet-l- i
+\g  I Ram-by          room.F clean do-CONJ take-PERF-F
+\l I had the room cleaned by Ram. 
+
+\t mi raamkaDun kombDi               maarun        ghetli
+\m mi raam-kaDun kombDi               maar-un        ghet-l-i
+\g  I Ram-by          chicken.F       kill-CONJ take-PERF-F
+\l I had the chicken killed by Ram.
+
+\t mi raamkaDun jhuraL                     maarun        ghetl a
+\m mi raam-kaDun jhuraL                     maar-un        ghet-l- a
+\g      I Ram-by           cockroach.N        kill-CONJ take-PERF-N
+\l I had the cockroach killed by Ram. 
+
+\t mi      raamkaDun basun             ghetla
+\m mi      raam-kaDun bas-un             ghet-l-a
+\g    I     Ram-by         sit-CONJ        take-PERF-N
+\l I benefited from Ram's sitting.
+
+\t mi raamkaDun buDun                  ghetla
+\m mi raam-kaDun buD-un                  ghet-l-a
+\g    I Ram-by        drown-CONJ take-PERF-N
+\l I benefited from Ram's drowning. 
+
+\t tyaane      bhaat      khaall aa
+\m tyaa-ne      bhaat      khaa-ll- aa
+\g  he-ERG       rice.M     eat-PERF- M
+\l He ate rice.
+
+\t raamne       tyaalaa   bhaat    bharawl aa
+\m raam-ne       tyaa-laa   bhaat    bharaw-l- aa
+\g  Ram-ERG he-DAT         rice.M   feed-PERF-M
+\l Ram fed him rice.
+
+\t raamne   tyaalaa bhaat           khaaylaa laawlaa
+\m raam-ne   tyaa-laa bhaat           khaa-ylaa laaw-l-aa
+\g Ram-ERG he-DAT rice.M             eat-PTCPL make-PERF- M
+\l Ram made him eat rice.
+
+\t raamne       tyaalaa bhaat        khaau    dil aa
+\m raam-ne       tyaa-laa bhaat        khaa-u    di-l- aa
+\g Ram-ERG       he-DAT rice.M eat-PTCPL give-PERF-M
+\l Ram let him eat rice.
+
+\t raamne       tyaacyaakaDun        bhaat   khaaun     ghetl aa
+\m raam-ne       tyaacyaa-kaDun        bhaat   khaa-un     ghet-l- aa
+\g  Ram-ERG       he-by                 rice.M eat-CONJ take-PERF-M
+\l Ram benefited through his eating rice.
+
+\t tyaane kapDe            ghaatl e
+\m tyaa-ne kapDe            ghaat-l- e
+\g  he-ERG clothes.N        wear-PERF-N
+\l He wore the clothes.
+
+\t raamne     tyaalaa     kapDe ghaatl e
+\m raam-ne     tyaa-laa     kapDe ghaat-l- e
+\g  Ram-ERG he-DAT         clothes.N dress-PERF-N
+\l Ram dressed him. 
+
+\t raamne   tyaalaa kapDe              ghaalaaylaa   laawle
+\m raam-ne   tyaa-laa kapDe              ghaal-aaylaa   laaw-l-e
+\g Ram-ERG he-ACC clothes.N             wear-PTCPL     make-PERF-N
+\l Ram made him wear the clothes.
+
+\t raam basl aa
+\m raam bas-l- aa
+\g  Ram sit-PERF-M
+\l Ram sat.
+
+\t mi raamlaa            basawl a
+\m mi raam-laa            bas-aw-l- a
+\g  I      Ram-DAT        sit-CAUS-PERF-N
+\l I sat/seated Ram. 
+
+\t mi raamlaa             kholit basaaylaa   laawla
+\m mi raam-laa             kholi-t bas-aaylaa   laaw-l-a
+\g  I      Ram-DAT         room-in sit-PTCPL     make-PERF-N
+\l I made Ram sit in     the room.
+
+\t raam don kilomiTar        paLlaa
+\m raam don kilomiTar        paL-l-aa
+\g Ram two kilometer         run-PERF-M
+\l Ram ran two kilometers.
+
+\t paN shaam     raambarobar paLl aa            naahi
+\m paN shaam     raam-barobar paL-l- aa            naahi
+\g   but Sham     Ram-with       run-PERF-M       not
+\l Sham made   Ram run two kilometers but he did   not run with Ram. 
+
+\t shaamne raamlA      don kilomiTar         paLaaylaa laawl a (Indirect)    paN shaam    raambarobar paLlaa            naahi
+\m shaam-ne raam-lA      don kilomiTar         paL-aaylaa laaw-l- a (Indirect)    paN shaam    raam-barobar paL-l-aa            naahi
+\g Sham-ERG Ram-DAT two kilometer             run-PTCPL make-PERF-N               but Sham     Ram-with       run-PERF- M not        
+\l Sham made Ram run two kilometers but he did not run with Ram. 
+
+\t mi    raamkaDun kholi           saaph karaw li
+\m mi    raam-kaDun kholi           saaph kar-aw- l-i
+\g I     Ram-by      room.F         clean do-CAUS-PERF- F
+\l I had Ram clean the room. 
+
+\t shaamne       raamkaDun        patra      lihawla
+\m shaam-ne       raam-kaDun        patra      lih-aw-l-a
+\g Sham-ERG      Ram-by            letter.N   write-CAUS-PERF- N
+\l Sham had Ram write a letter.    
+
+\t mi ek        taas baaher         phiraaylaa gelo       aaNi tyaa       weLaat
+\m mi ek        taas baaher         phiraaylaa gelo       aaNi tyaa       weL-aat
+\g   Ram-by         room.F        clean do-CAUS- PERF-F
+\l I went for a walk for one   hour and during that time had Ram clean the room. 
+
+\t mi ek         taas baaher         phiraayla gelo aaNi tyaa           weLaat
+\m mi ek         taas baaher         phiraayla gelo aaNi tyaa           weL-aat
+\g  Ram-by         room.F        clean do-PTCPL make-PERF- F
+\l I went for a walk for one   hour and during that time had Ram clean the room. 
+
+\t mi     raamkaDun kholi        saaph   karun       ghetl i
+\m mi     raam-kaDun kholi        saaph   kar-un       ghet-l- i
+\g I      Ram-by       room.F clean       do-CONJ      take-PERF-F
+\l I got the room cleaned by Ram. 
+
+\t shaamne raamkaDun patra              lihun          ghetla
+\m shaam-ne raam-kaDun patra              lih-un          ghet-l-a
+\g Sha m-ERG Ram-by          letter.N    write-CONJ      take-PERF-N
+\l Sham got the letter written by Ram.
+
+\t raamne      sitaalaa     pustak wikat          gheun      dila
+\m raam-ne      sitaa-laa     pustak wikat          ghe-un      di-l-a
+\g  Ram-ERG Sita-DAT           book.N purchase take-CONJ give-PERF-N
+\l Ram bought Sita a book.
+
+\t   raamne       sitaalaa            pustak wikat     gheu       dil a
+\m   raam-ne       sitaa-laa            pustak wikat     ghe-u       di-l- a
+\g Ram-ERG Sita-DATbook.N purchase                     take-PTCPL give-PERF- N
+\l Ram let Sita buy a book.
+
+\t raamne     sitaalaa     baadzaaraat     dzaau        dil a
+\m raam-ne     sitaa-laa     baadzaar-aat     dzaa-u        di-l- a
+\g Ram-ERG Sita-DAT           market-in        go-PTCPL give-PERF-N
+\l Ram let Sita go to the market.
+
+\t raamne     sitaakaDun patra lihun      ghetla
+\m raam-ne     sitaa-kaDun patra lih-un      ghet-l-a
+\g  Ram-ERG Sita-by            letter.N write-CONJ take-PERF-N
+\l Ram got the letter written by Sita.
+
+\t raamne          sitaakaDun baadzaaraat    dzaaun      ghetl a
+\m raam-ne          sitaa-kaDun baadzaar-aat    dzaa-un      ghet-l- a
+\g   Ram-ERG         Sita-by       market-in     go-CONJ take-PERF-N
+\l Ram got Sita to go to the market/Ram benefited from Sita's going to the market. 
+
+\t Tomi mhanat hota ki Sue ni swataahlaai maarle
+\m Tomi mhanat hota ki Sue ni swataahlaai maarle
+\g T     said.that S erg self     hit
+\l Tom said that Sue hit himself 
+
+\t Janei laa Tom ne swataacii pustake phekun dilyaace kalle
+\m Janei laa Tom ne swataacii pustake phekun dilyaace kalle
+\g Jane dat Tom erg self      books throw.learned
+\l Jane learned about Tom throwing away (her)self 's books
+
+\t Janei John ne swataahlaai maarlyaavar rusun
+\m Janei John ne swataahlaai maarlyaavar rusun
+\g Jane John erg self        hitting     angry
+\l Jane remained angry upon John hitting (her)self 
+
+\t Minini Ravilaa pakadla
+\m Mini-ni Ravi-laa pakad-la
+\g Mini-Erg Ravi-Dat catch-Past
+\l Mini caught Ravi.
+
+\t Minikadun Ravilaa pakadla    gela
+\m Mini-kadun Ravi-laa pakad-la    ge-l-a
+\g Mini-by     Ravi-Dat catch-PTCP Pass-Past-Agr
+\l Ravi was caught by Mini.
+
+\t Minikadun Ravilaa pakad(av)la gela naahi
+\m Mini-kadun Ravi-laa pakad-(av-)la ge-l-a naahi
+\g Mini-by     Ravi-Dat catch-CP-PTCP Pass-Past-Agr not
+\l Mini was unable/could not bring herself to catch Ravi.
+

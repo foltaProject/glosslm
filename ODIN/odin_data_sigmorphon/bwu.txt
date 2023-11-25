@@ -1,0 +1,85 @@
+\t john te      m     fb.
+\m john te      m     fb.
+\g John CNJ 1sg:DISJ slap
+\l I slapped JOHN.
+
+\t nuruwaa       le che la ka m           da.
+\m nuru-waa       le che la ka m           da.
+\g person-IND:CL CNJ go DET COP 1sg:DISJ friend
+\l The person who has left is my friend.
+
+\t f le yal        nuruwaa        la     ka m    da.
+\m f le yal        nuru-waa        la     ka m    da.
+\g 2sg CNJ marry person-IND:CL DET COP 1sg:DISJ friend
+\l The person you married is my friend.
+
+\t nuruwaa        te f yal         la    ka m    da.
+\m nuru-waa        te f yal         la    ka m    da.
+\g person-IND:CL CNJ 2sg marry DET COP 1sg:DISJ friend
+\l The person you married is my friend.
+
+\t te    ba d jentaa ...
+\m te    ba d jentaa ...
+\g CNJ 3pl cook soup.DEF
+\l and they cooked the soup ...
+
+\t wa chen       ka     bal.
+\m wa chen       ka     bal.
+\g CL come:ST FM next.year
+\l He is coming next year.
+
+\t bal,      wa le       jam.
+\m bal,      wa le       jam.
+\g next.year CL FUT come
+\l Next year, he will come.
+
+\t wa dem          a kaabya.
+\m wa dem          a kaab-ya.
+\g CL yesterday NEG sacrifice-ASS.NEG
+\l He didn't sacrifice yesterday.
+
+\t wa       kasma      puus ba.
+\m wa       kasm-a      puus ba.
+\g CL NEG always-IPF greet CL.NEG
+\l He does not always greet them.
+
+\t m       der n            tmu zuk lo.
+\m m       der n            tmu zuk lo.
+\g 1sg.E just come.out tree.DEF head fall
+\l I just fell from the tree.
+
+\t numu der yr jue tmu                   zuk.
+\m numu der yr jue tmu                   zuk.
+\g bird.DEF just get.up climb tree.DEF head
+\l The bird suddenly flew on top of the tree.
+
+\t m        dm       k ka buuk t        wa.
+\m m        dm       k ka buuk t        wa.
+\g 1sg.E last.year kill FM goat give CL
+\l I killed a goat for him last year.
+
+\t ba dm k ka buuk t                  m.
+\m ba dm k ka buuk t                  m.
+\g CL last.year kill FM goat give 1sg
+\l They killed a goat for me last year.
+
+\t bu dem           dem bo       ka dla.
+\m bu dem           dem bo       ka dla.
+\g CL yesterday still be:LOC FM here
+\l it was still here yesterday.
+
+\t chum,     f le    tu ba.
+\m chum,     f le    tu ba.
+\g tomorrow 2sg FUT meet CL
+\l Tomorrow, you will meet them.
+
+\t wa chum       ale jam.
+\m wa chum       ale jam.
+\g CL tomorrow FUT come.Q
+\l Will he come tomorrow?
+
+\t nuruwa     le jam chum.
+\m nuruwa     le jam chum.
+\g person.DEF FUT come tomorrow
+\l The man will come tomorrow.
+

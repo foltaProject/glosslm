@@ -1,0 +1,160 @@
+\t Imodoka, Yohani aavuze                  ko      iazanye           Poso.
+\m Imodoka, Yohani a-a-vuze                  ko      i-a-zanye           Poso.
+\g car           John     1-PAST-say.PERF that 9-PAST-buy.PERF Poso
+\l The car, John said that POSO bought it.
+
+\t Yohani aáraoógeje                     imiduga     néezá.
+\m Yohani a-á-ra-oógeje                     imiduga     néezá.
+\g John     3sg-PAST-FOC-wash.PERF          cars        well
+\l John washed cars well.
+
+\t Imiduga yiáoógeje                néezá         Yohani.
+\m Imiduga yi-á-oógeje                néezá         Yohani.
+\g cars      3PL-PAST-wash.PERF       well          John
+\l JOHN (e.g. not Peter) washed cars well.
+
+\t Yohani aáraoógeje                         imiduga     néezá.
+\m Yohani a-á-ra-oógeje                         imiduga     néezá.
+\g John     3sg-PAST-FOC-wash.PERF              cars        well
+\l John washed cars well.
+
+\t Imiduga yiáoógeje                néezá         Yohani.
+\m Imiduga yi-á-oógeje                néezá         Yohani.
+\g cars      3PL-PAST-wash.PERF       well          John
+\l JOHN (e.g. not Peter) washed cars well.
+
+\t Amatá         yáranyôye                abâna.          OVS
+\m Amatá         y-á-ra-nyôye                abâna.          O-V-S
+\g milk          3s-PST-drink:PERF           children
+\l CHILDREN drank milk
+
+\t Tuøshaka PRO kuøba                  turakora.24
+\m Tu-ø-shaka PRO ku-ø-ba                  tu-ra-kora.24
+\g  IPL-PRES-want        15 INF-COP IPL-AFOC-work
+\l We want to stay working (before...)
+
+\t Ikiti kiøgomba       t      kuøba           kiøri         mu nzu.
+\m Ikiti ki-ø-gomba       t      ku-ø-ba           ki-ø-ri         mu nzu.
+\g  7tree 7-PRES-bound.to 15-INF-COP 7-PRES-COP in 5house
+\l It is inevitable for the tree to be in the house.
+
+\t Tuzoba          tuøriko         turagura            ibitabu.
+\m Tu-zo-ba          tu-ø-riko         tu-ra-gura            ibi-tabu.
+\g  IPL-FUT-COP IPL-HAB-COP IPL-AFOC-buy 9pl-books
+\l We will be habitually buying.
+
+\t abana    ba ­ a ­ somye    ibitabo
+\m abana    ba ­ a ­ somye    ibitabo
+\g children 3PL-PST-read:PERF books
+\l The children read a books.
+
+\t Ibitabo bi ­ a ­ somye       abana
+\m Ibitabo bi ­ a ­ somye       abana
+\g booksi AGRi-PST-read:PERF children
+\l the books that the children read
+
+\t Ibitabo abana ba ­ a ­ somye
+\m Ibitabo abana ba ­ a ­ somye
+\g booksi AGRi-PST-read:PERF
+\l the books that the children read
+
+\t Ibitabo bi ­ a ­ somye      abana
+\m Ibitabo bi ­ a ­ somye      abana
+\g booksi AGRi-PST-read:PERF children
+\l the books that the children (not the parents) read
+
+\t igitabo ntigiasomye umuntu numwe
+\m igitabo nti-gi-a-somye umuntu numwe
+\g book NEG-AGR-PST-read person one
+\l the book that not one person read
+
+\t Abanyeshule baáramubonye.
+\m Abanyeshule ba-á-ra-mu-bonye.
+\g students    3P-PST-F-3Sobj-see:PERF
+\l Students saw him.
+
+\t Uwo mwarimu aárabon ­ uye      na abanyeshule.
+\m Uwo mwarimu a-á-ra-bon ­ u-ye      na abanyeshule.
+\g that teacher 3S-PST-F-see-PASS-PERF by students
+\l That teacher was seen by students.
+
+\t Uwo mwarimu aábonye          abanyeshule.
+\m Uwo mwarimu a-á-bonye          abanyeshule.
+\g that   teacher 3S-PST-see:PERF students
+\l The students (not the dean) saw that teacher.
+
+\t Abana baáriko     basoma       igitabo.
+\m Abana ba-á-riko     ba-soma       igitabo.
+\g children 3P-PST-be 3P-read:IMP book
+\l Children were reading a book.
+
+\t Igitabo kiriko kisoma aba^na.
+\m Igitabo ki--riko ki-soma aba^na.
+\g book 3S-PST-be 3S-read:IMPERF children
+\l Children (not adults) were reading a book.
+
+\t igitabo abana baáriko basoma
+\m igitabo abana ba-á-riko ba-soma
+\g book children 3P-PST-be 3P-read:IMP
+\l the book that children were reading
+
+\t Yohani nti ­ a ­ ásomye     ivyo bitabo.
+\m Yohani nti ­ a ­ á-somye     ivyo bitabo.
+\g John   NEG-3S-PST-read:PERF those books
+\l John didn't read those books.
+
+\t Ibitabo Yohani ataásomye
+\m Ibitabo Yohani a-ta-á-somye
+\g books    John 3S-NEG-PST-read:PERF
+\l books that John didn't read
+
+\t Ibitabo ntibiásomye Yohani.
+\m Ibitabo nti-bi-á-somye Yohani.
+\g books NEG-3P-PST-read:PERF John
+\l John (not Peter) didn't read the books.
+
+\t Ibitabo Yohani a ­ a ­ somye
+\m Ibitabo Yohani a ­ a ­ somye
+\g books    John 3SG-PST-read:PERF
+\l the books that John read
+
+\t Ivun e.
+\m I-vun- e.
+\g    R E FL-break- F V
+\l Break yourself!
+
+\t Abana baa ( ra) nyoye
+\m Abana ba-a- ( ra-) nyoye
+\g children 3 P-P S T-FOC-drink:P E R F milk
+\l Children drank milk.
+
+\t Yohani a´   ´                           ´´
+\m Yohani a-´   ´                           ´´
+\g    John       1.S B J-P S T-wash: P E R F cars        well
+\l John wash cars            WELL     (not badly).
+
+\t Yohani a´   ´                  ´´
+\m Yohani a-´   ´                  ´´
+\g John        1.S B J-P S T-wash:P E R F well     cars
+\l John washed          CARS        (not trucks) well.
+
+\t           ´   ´                    ´´
+\m           ´   ´                    ´´
+\g John     3 S-P S T-wash:P E R F well   cars
+\l John washed CARS well (not trucks).
+
+\t Uwo muhungu aaragaburiye                           ubuyabu.
+\m Uwo muhungu a-a-ra-gaburiye                           ubuyabu.
+\g that boy        3s-P S T-A F-feed.ASP   cats
+\l That boy fed the cats.
+
+\t Amatá yányoye             abana.
+\m Amatá y-á-nyoye             abana.
+\g Milk 3s-pst-drink :PERF children
+\l Children (not parents) drank milk.
+
+\t Abo bagabo baasamburanye               inzu yanje.
+\m Abo bagabo ba-a-sambur-an-ye               inzu yanje.
+\g those men SM-Pst-destroy-Recip-Asp house of-me
+\l Those men destroyed my house together/with peoplearb .
+

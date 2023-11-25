@@ -1,0 +1,40 @@
+\t 1sg>2sg           gwaabmin
+\m 1sg>2sg           g-waabm-in
+\g                   2-see-INV.TH
+\l I see you.
+
+\t 3>1               nwaabmigw
+\m 3>1               n-waabm-igw
+\g                   1-see-THEME
+\l He sees me.
+
+\t gwaabmi                             2>1
+\m g-waabm-i                             2>1
+\g 2-see-DIR.THEME
+\l You see me.
+
+\t gwaabmin                            1>2
+\m g-waabm-in                            1>2
+\g 2-see-INV.THEME
+\l I see you.
+
+\t nwaabmaa
+\m n-waabm-aa
+\g 1-see-DIR.THEME
+\l I see him.
+
+\t nwaabmi                            2>1
+\m n-waabm-i                            2>1
+\g 1-see-DIR.THEME
+\l You see me.
+
+\t gwaabmaanaan                               21>3
+\m g-waabm-aa-naan                               21>3
+\g 2-see-DIR.TH-naan
+\l We(incl.) see him
+
+\t gwaabmigonaan                              3>21
+\m g-waabm-igo-naan                              3>21
+\g 2-see-INV.TH-naan
+\l He sees us(inclusive)
+

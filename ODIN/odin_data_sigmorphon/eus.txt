@@ -1,0 +1,3290 @@
+\t (3>3) Eduk    neska      Toniri aipatu      dio.
+\m (3>3) Edu-k    neska      Toni-ri aipatu      d-io.
+\g          Edu-ERG     girl.ABS   Toni-DAT mention        3ABS-3 DAT.3 ERG
+\l Edu has mentioned the girl to Toni.
+
+\t (3>1) *Eduk ni     Toniri  aipatu ???.
+\m (3>1) *Edu-k ni     Toni-ri  aipatu ???.
+\g          Edu-ERG     I.ABS Toni-DAT    mention 1ABS-3 DAT.3 ERG
+\l Edu has mentioned me to Toni.
+
+\t Eduk       nere aipamena Toniri             egin dio.
+\m Edu-k       ne-re aipamena Toni-ri             egin d-io.
+\g Edu-ERG I-GEN mentioning Toni-DAT do                  3ABS-3 DAT.3 ERG   2
+\l Edu has mentioned me (lit. made my mentioning) to Toni.
+
+\t Eduk Toniri neska               deskribatu arazi dio.
+\m Edu-k Toni-ri neska               deskribatu arazi d-io.
+\g  Edu-ERG Toni-DAT girl.ABS describe          cause 3ERG-3 DAT
+\l Edu has made Toni describe the girl.
+
+\t Eduk Toniri ni      deskribatu arazi dioen.
+\m Edu-k Toni-ri ni      deskribatu arazi d-io-en.
+\g  Edu-ERG Toni-DAT I.ABS         describe     cause 3ERG-3 DAT-1 ABS
+\l Edu has made Toni describe me.
+
+\t Nik        pobreei     dirua            ematen        diet.
+\m Ni-k        pobre-ei     diru-a            ema-ten        diet.
+\g  1sg-ERG poor-pl.DAT money-DET.NOM give-IMPERF 3NOM.3plDAT.1ERG
+\l I am giving money to the poor
+
+\t Apezak niri         pobreentzat dirua             emanarazten dit.
+\m Apeza-k ni-ri         pobre-entzat diru-a             eman-araz-ten dit.
+\g  priest-ERG 1sg-DAT poor-pl.DEST money-DET.NOM give-CAUS-PERF 3NOM.1DAT.3ERG
+\l The priest induced me to give money to the poor
+
+\t PATATAK maite ditu Jonek.
+\m PATATAK maite ditu Jonek.
+\g potatoes love AUX Jon
+\l It is potatoes that Jon loves.
+
+\t MIKELI, ardoa ekarri diote.
+\m MIKELI, ardoa ekarri diote.
+\g for-Mikel wine bring AUX
+\l It is for Mikel that they brought wine.
+
+\t JONEK, ardoa ekarri du.
+\m JONEK, ardoa ekarri du.
+\g Jon        wine bring AUX
+\l It is Jon that brought the wine.
+
+\t PATATAK maite ditu Jonek.
+\m PATATAK maite ditu Jonek.
+\g potatoes love AUX Jon
+\l It is potatoes that Jon loves.
+
+\t MIKELI, ardoa ekarri diote.
+\m MIKELI, ardoa ekarri diote.
+\g for-Mikel wine bring AUX
+\l It is for Mikel that they brought wine.
+
+\t JONEK, ardoa ekarri du.
+\m JONEK, ardoa ekarri du.
+\g Jon        wine bring AUX
+\l It is Jon that brought the wine.
+
+\t ez       du       gizonak        ikusi      ikaslea.
+\m ez       du       gizonak        ikusi      ikaslea.
+\g NEG hat           Mann-ERG       gesehen    Student-ABS
+\l Der Mann hat den/einen Studenten gesehen.
+
+\t ez       du       gizonak        ikusi      ikaslerik.
+\m ez       du       gizonak        ikusi      ikaslerik.
+\g NEG hat           Mann-ERG       gesehen    Student-PART
+\l Der Mann hat keine Studenten/ nicht einen (einzigen) Studenten gesehen.
+
+\t Nik [anaia neskekin ibiltze]ari ondo deritsot
+\m Nik [anaia neskekin ibiltze]-ari ondo deritsot
+\g I-ERG brother-ABS girls-with go out-NOMINAL.DET.DAT well consider-I
+\l I think that my brother going out with girls is ok
+
+\t Bize        mektubu           Hasana                gösterttiler.
+\m Biz-e        mektub-u           Hasan-a                göster-t-ti-ler.
+\g we-DAT       letter-ACC         Hasan-DAT              show-CAUS-PAST-PL
+\l They let us show the letter to Hasan.
+
+\t Niri batez ere neure         buruak       ematen dit beldurra.
+\m Niri batez ere neure         buru-a-k       ematen dit beldurra.
+\g     I.DAT        above       all            my.own head-DET-ERG                          giveAUX   fear
+\l Above all it is myself that causes me fear.
+
+\t Egunotan,              neure          buruak       kezkatzen       nau.
+\m Egunotan,              neure          buru-a-k       kezkatzen       nau.
+\g   day.DET.in my.own head-DET-ERG worry.HAB me.has.it
+\l These days, my(own)self worries me.
+
+\t Neure buruak           ikusi nau       ni.
+\m Neure buru-a-k           ikusi nau       ni.
+\g   my.own head-DET-ERG seen me.has.it I
+\l Myself has seen me.
+
+\t Joni eta Mireni bata          besteak    ematen die beldurra.
+\m Jon-i eta Miren-i bat-a          beste-a-k    ematen die beldurra.
+\g  Jon-DATand Miren-DAT             one.DET      other-DET-ERG give      AUX    fear
+\l One another cause Jon and Miren fear.
+
+\t Jon      eta Miren      bata     besteak    kezkatzen ditu.
+\m Jon      eta Miren      bat-a     beste-a-k    kezkatzen ditu.
+\g   Jon.ABS and Miren.ABS one-DET other-DET-ERG worry          AUX
+\l One another worry Jon and Miren.
+
+\t Ez dut ea inor ikusi
+\m Ez dut ea inor ikusi
+\g NEG-have-1.SG almost anybody seen
+\l I haven't seen almost anybody
+
+\t Gela   hau                  hotza da.
+\m Gela   hau                  hotza da.
+\g room this-ABS               hot   IZAN
+\l This room is hot (permanently).
+
+\t Gela   hau              hotza dago.
+\m Gela   hau              hotza dago.
+\g room this-ABS           hot       EGON
+\l This room is hot (for now).
+
+\t Pellok      bere jabeari bueltatu dio txeke bakoitza.
+\m Pellok      bere jabeari bueltatu dio txeke bakoitza.
+\g Pello-ERG its       owner return AUX check each
+\l Pello returned each check to its owner.
+
+\t Mirenek        ni      ikusi   nau
+\m Mirenek        ni      ikusi   nau
+\g Miren-ERG      I-ABS see       1sg.ABS.-have-3.sg.ERG
+\l Miren saw me
+
+\t Ni      etorri naiz
+\m Ni      etorri naiz
+\g I-ABS come 1.sg.ABS.-be
+\l I came.
+
+\t Jonek          jaten           du
+\m Jonek          jaten           du
+\g Jon-ERG        eat-PRES        3sg.ABS.-have-3sg.ERG
+\l Jon eats
+
+\t emakumeak ogia      jaten du
+\m emakume-a-k ogi-a      jaten du
+\g woman-det-E bread-det eating has
+\l The woman eats the bread
+
+\t emakumea ogia       jaten ari da
+\m emakume-a ogi-a       jaten ari da
+\g woman-det bread-det eating prog is
+\l The woman is eating the bread
+
+\t emakumea [dantzan]        ari      da
+\m emakume-a [dantza-n]        ari      da
+\g woman-det dance-loc       engaged is
+\l the woman is engaged     in dance
+
+\t emakumea [ogia         jaten]      ari da
+\m emakume-a [ogi-a         ja-te-n]      ari da
+\g woman-det bread-det       eat-nom-loc engaged is
+\l the woman is (engaged     in) eating the bread
+
+\t gazteriak pilota uzten        ari du
+\m gazteri-a-k pilota uz-ten        ari du
+\g youth-det-E ball-det leave-impf prog has
+\l the youth is leaving the ball
+
+\t Amak        haurrari        zopa     janerazi             dio.
+\m Ama-k        haurr-a-ri        zopa     jan-eraz-i             dio.
+\g mother-ERG child-DET-DAT soup.NOM eat-CAUS-PERF                have.3N.3sgD.3sgE
+\l Mother let the child eat the soup
+
+\t katua            etzanda            dago
+\m katu-a            etza-n-da            d-a-go
+\g      cat-ABS lie.down-PERF-ADV 3-PRES-be
+\l The cat is lying down.
+
+\t amak               gona gorria      erosi       du
+\m ama-k               gona gorri-a      eros-i       d-u-
+\g   mother-ERG skirt red-ABS buy-PERF 3-AUX,PRES-3SG
+\l Mother has bought a red skirt
+
+\t nik             aitari     dirua          eskatu diot
+\m ni-k             aita-ri     diru-a          eska-tu d--io-t
+\g   1SG-ERG        father-DAT money-ABS ask-PERF 3-AUX-3SG-1SG
+\l I have asked father for money.
+
+\t bi esku
+\m bi esku
+\g       two hand
+\l two hands
+
+\t armiarmasare          asko
+\m armiarma-sare          asko
+\g   spider-web           many
+\l many spider webs
+
+\t Marik         liburua erosi      du eta Peruk         (*du) ez (*du)
+\m Marik         liburua erosi      du eta Peruk         (*du) ez (*du)
+\g Mary.ERG book            bought has and Peter.ERG (*AUX) not (*AUX)
+\l Mary has bought the book and Peter hasn't
+
+\t Jonek     Aitorri          min egin dio.
+\m Jonek     Aitorri          min egin dio.
+\g Jon.ERG Aitor.DA       T   hurt do AUX
+\l Jon hurt Aitor.
+
+\t Jonek      Mireni      min         egin dio.
+\m Jonek      Mireni      min         egin dio.
+\g Jon.ERG Miren.DAT hurt             do AUX
+\l Jon hurt Miren.
+
+\t Jonek     kandelari putz           egin dio.
+\m Jonek     kandelari putz           egin dio.
+\g Jon.ERG candle.DAT blow            do AUX
+\l John blew out the candle.
+
+\t Emakumeak       barre egin du.
+\m Emakumeak       barre egin du.
+\g woman.DEF.ERG laugh do AUX
+\l The woman has laughed.
+
+\t Nik eztul       egin dut.
+\m Nik eztul       egin dut.
+\g I.ERG cough do AUX
+\l I have coughed.
+
+\t Emakumea          erori da.
+\m Emakumea          erori da.
+\g woman.DEF.ABS     fallen AUX
+\l The woman has fallen.
+
+\t Kamioiak etorri dira.
+\m Kamioiak etorri dira.
+\g truck.DET.PL arrived AUX
+\l The trucks have arrived.
+
+\t Jonek [ Mirenek              bera    maite duela ]    uste du.
+\m Jonek [ Mirenek              bera    maite duela ]    uste du.
+\g Jon.ERG Miren.ERG            he.ABS love AUX.COMP think AUX
+\l Jon thinks that Miren       loves him.
+
+\t Nik          lanØ               egin       dut.
+\m Ni-k          lan-Ø               egin       d-u-t.
+\g 1SG-ERG       work-NOM            do         3SG:NOM-AUX-1SG:ERG
+\l I didwork'.
+
+\t Jonek          eskutitza      bidali         zuen.
+\m Jon-ek          eskutitz-a      bidali         zuen.
+\g John-ERG        letter-NOM      send           AUX
+\l John sent theletter'.
+
+\t Etxeak       zutik             iraungo       du
+\m Etxe-ak       zutik             iraun-go       du
+\g house-ERG on.foot               last-FUT       AUX
+\l The house willlast'.
+
+\t JonØ          heldu            da.
+\m Jon-Ø          heldu            da.
+\g John-NOM arrive                 AUX
+\l John hasarrived'.
+
+\t Mirenek       ni     jo nau.
+\m Miren-ek       ni     jo n-au.
+\g Miren-ERG me.ABS hit 1SG-have.3SG
+\l Miren hit me.
+
+\t Miren         erori da.
+\m Miren         erori d-a.
+\g Miren.ABS fallen 3SG-be
+\l Miren fell.
+
+\t Aitak        semeak ikusi nahi dut                 ¢
+\m Aitak        semeak ikusi nahi dut                 ¢
+\g Father-ERG Son-ERG see.INF want have.3SG.3SG
+\l The father wants the son to see him (father).'Alan King
+
+\t Amak           semea eskolan utzi eta klasera joan zen
+\m Amak           seme-a eskola-n utzi eta klase-ra joan zen
+\g Mother-ERG son-ABS school-at leave and class-to go AUX
+\l Mother left her son at school and went to class.
+
+\t Nik [ joan ] nahi dut
+\m Nik [ joan ] nahi dut
+\g I-ERG go.INF want have.1SG.3SG
+\l I want [ to go ].
+
+\t Nik [ kafea         egin ] nahi dut
+\m Nik [ kafea         egin ] nahi dut
+\g I-ERG coffee-ABS do.INF want have.1SG.3SG
+\l I want [ to make coffee ].
+
+\t Aitak       [ semeak ikusi ] nahi dut
+\m Aitak       [ semeak ikusi ] nahi dut
+\g Father-ERG Son-ERG see.INF want have.3SG.3SG
+\l The father wants the son to see him (father).'Alan King
+
+\t Nik   [ joan ] nahi dut
+\m Nik   [ joan ] nahi dut
+\g I-ERG go.INF want have.1SG.3SG
+\l I want [ to go ].
+
+\t Nik   [ kafea    egin ] nahi dut
+\m Nik   [ kafea    egin ] nahi dut
+\g I-ERG coffee-ABS do.INF want have.1SG.3SG
+\l I want [ to make coffee ].'Alan King
+
+\t 1      a.      Gizonak            liburua                  ikusi zuen.
+\m 1      a.      Gizon-ak            liburu-a                  ikusi zu-en.
+\g                man-DEF.ERG         book-DEF.ABS              see   3sA.3sE-PST
+\l The man saw the book.
+
+\t Gizona                etorri zen.
+\m Gizon-a                etorri zen.
+\g man-DEF.ABS            come 3sA.PST
+\l The man came.
+
+\t K'aci        c'igns            xedavs.
+\m K'ac-i        c'ign-s            xed-av-s.
+\g man-ABS       book-DAT           see-IPF-3sg
+\l The man sees the book.
+
+\t 4      a.      Amaiak      dantzatzen       du.
+\m 4      a.      Amaia-k      dantza-tzen       du.
+\g                Amaia-ERG dance-IPF            3sE.3sE.PRES
+\l Amaia dances.
+
+\t 6      a.      Liburua       non               dago?
+\m 6      a.      Liburua       non               dago?
+\g                book-(ABS) where?               3sA-be
+\l Where is the book?
+
+\t Miren berandu etortzen           da beti.
+\m Miren berandu etor-tzen           da beti.
+\g   Miren-A late     come-[-pf.]Asp Aux always
+\l Miren always comes late.
+
+\t Miren berandu etor(r)i        da gaur.
+\m Miren berandu etor(r)-i        da gaur.
+\g Miren-A late    come-[+pf.]Asp Aux today
+\l Today Miren came late.
+
+\t Ez al           zion         galdetuko?
+\m Ez al           zio-n         galde-tu-ko?
+\g Neg.speech act Aux-T(past) ask-Asp(perfect)-T
+\l Wasn't she going to ask him (that)?
+
+\t Ez ote          da [konturatuko].
+\m Ez ote          da [kontura-tu-ko].
+\g Neg Mod(eval) Aux realize-Asp(perfect)-T
+\l Won't he realize?
+
+\t Ez zuen         [hartuko].
+\m Ez zu-en         [har-tu-ko].
+\g Neg Aux-T(past) take-Asp(perfect)-T
+\l She wasn't going to take it.
+
+\t  Ez zuen         [hartu             behar].
+\m  Ez zu-en         [har-tu             behar].
+\g Neg Aux-T(past) take-Asp(perfect) Mod(necessity)
+\l She didn't have to take it
+
+\t Ez zuen         [hartu          nahi].
+\m Ez zu-en         [har-tu          nahi].
+\g Neg Aux-T(past) take-Asp(perfect) Mod(obligation)
+\l She didn't want to take it.
+
+\t Laguntzen              omen      zintuen.
+\m Lagun-tzen              omen      zintu-en.
+\g Help-Asp(imperfect) Mod(evid) Aux-T(past)
+\l It is said that he helped (imperfect) you.
+
+\t Bazkalduko                   bide        zuen.
+\m Bazkal-du-ko                   bide        zue-n.
+\g Lunch-Asp(perfect)-T(future) Mod(evid) Aux-T(past)
+\l It appears that he was going to have lunch.
+
+\t ez da etxea        erori.
+\m ez da etxea        erori.
+\g  no has house-the fallen
+\l The house hasn't fall down.
+
+\t etxea       erori da.
+\m etxea       erori da.
+\g  house-the fallen has
+\l The house has fallen down.
+
+\t [Zorrak ordaindu              ahal]    omen         dituzte.
+\m [Zorrak ordain-du              ahal]    omen         dituzte.
+\g  debts pay-Asp(perfect) be-able Mod(evid) Aux
+\l (It is said that) they can pay off their debts.
+
+\t [Zorrak ordaindu              nahi] omen         dituzte.
+\m [Zorrak ordain-du              nahi] omen         dituzte.
+\g  debts pay-Asp(perfect) want Mod(evid) aux.
+\l (It is said that) they want to pay off their debts.
+
+\t [Zorrak ordaindu                behar] ote         dituzte?
+\m [Zorrak ordaindu                behar] ote         dituzte?
+\g  debts pay-Asp(perfect) have-to Mod(eval) aux.
+\l (Is it possible that) they have to pay off their debts?
+
+\t Nork du Jon ikusi?
+\m Nork du Jon ikus-i?
+\g  who Aux John see-Asp(perfect)
+\l Who has seen John?
+
+\t MIRENEK du Jon ikusi.
+\m MIRENEK du Jon ikus-i.
+\g  Mary         Aux John see-Asp(perfect)
+\l MARY has seen John.
+
+\t Ez du Jon ikusi.
+\m Ez du Jon ikus-i.
+\g  Neg Aux John see-Asp(perfect)
+\l She didn't see John.
+
+\t Mirenek Jon ikusi               du.
+\m Mirenek Jon ikus-i               du.
+\g  Mary John see-Asp(perfect) Aux.
+\l Mary has seen John.
+
+\t Zorrak ordaindu             ahal     omen        dituzte.
+\m Zorrak ordain-du             ahal     omen        dituzte.
+\g debts pay-Asp(perfect) be-able Mod(evid) Aux
+\l (It is said that) they can pay off their debts.
+
+\t Jonek Mireni egia esandio.
+\m Jonek Miren-i egia esan-dio.
+\g  J.M-Dat truth say-Asp(perfect) Aux
+\l John has told Mary the truth.
+
+\t Jonek ez dio Mireni egia esan.
+\m Jonek ez dio Miren-i egia esan-.
+\g         Neg.
+\l John hasn't told Mary the truth.
+
+\t (28)Jonek ez dio esannahi       Mireni egia.
+\m (28)Jonek ez dio esan-nahi       Miren-i egia.
+\g     J.Neg Aux say-Asp(perfect) Mod(volitional) Mary-dat truth.
+\l John doesn't want to tell Mary the truth.
+
+\t (29)*Jonek ez dio esanMireni egia nahi.
+\m (29)*Jonek ez dio esan-Miren-i egia nahi.
+\g      J.Neg Aux say-Asp(perfect) Mary-dat truth Mod(volitional).
+\l John doesn't want to tell Mary the truth.
+
+\t Jonek esanMireni egia dio.
+\m Jonek esan-Miren-i egia dio.
+\g  J.say-Asp(perfect) M-dat truth Aux
+\l John hasn't told Mary the truth.
+
+\t Jonek ez dio esannahi       Mireni egia.
+\m Jonek ez dio esan-nahi       Miren-i egia.
+\g J.Neg Aux say-Asp(perfect) Mod(volitional) Mary-dat truth.
+\l John doesn't want to tell Mary the truth.
+
+\t  [nire etxea      ikusi    nahi] du
+\m  [nire etxe-a      ikus-i    nahi] du
+\g my house-abs see-Asp(perf) want Aux.
+\l She wants to see my house.
+
+\t Ez zen          Euskara ikasten            ari
+\m Ez zen          Euskara ikas-ten            ari
+\g Neg Aux T(past) Basque study-Asp(imperfect) Asp
+\l She wasn't studying Basque.
+
+\t Jonek ez dio esannahi       Mireni egia.
+\m Jonek ez dio esan-nahi       Miren-i egia.
+\g J.Neg Aux say-Asp(perfect) Mod(volitional) Mary-dat truth.
+\l John doesn't want to tell Mary the truth.
+
+\t [Zorrak ordaindu              ahal]    omen         dituzte.
+\m [Zorrak ordain-du              ahal]    omen         dituzte.
+\g  debts pay-Asp(perfect) be-able Mod(evid) Aux
+\l (It is said that) they can pay off their debts.
+
+\t [Zorrak ordaindu              nahi] omen         dituzte.
+\m [Zorrak ordain-du              nahi] omen         dituzte.
+\g  debts pay-Asp(perfect) want Mod(evid) aux.
+\l (It is said that) they want to pay off their debts.
+
+\t [Zorrak ordaindu                behar] ote         dituzte?
+\m [Zorrak ordaindu                behar] ote         dituzte?
+\g  debts pay-Asp(perfect) have-to Mod(eval) aux.
+\l (Is it possible that) they have to pay off their debts?
+
+\t Jonek esanMireni egia dio.
+\m Jonek esan-Miren-i egia dio.
+\g  J.say-Asp(perfect) M-dat truth Aux
+\l John hasn't told Mary the truth.
+
+\t Ez ohi                zuen        bazkaltzen .
+\m Ez ohi                zuen        bazkal-tzen .
+\g Neg Mod(habitual) Aux-T(past) eat-Asp(imperfect)
+\l She didn't usually come.
+
+\t Ez zuen            bazkaldu       ohi.
+\m Ez zuen            bazkal-du       ohi.
+\g Neg Aux-T(past) come-Asp(perfect) Mod(habitual)
+\l She didn't usually eat.
+
+\t Normalean, ez dira botiketan erabiltzen.
+\m Normalean, ez dira botik-etan erabil-tzen.
+\g normal-in, Neg Aux medicine-in use-Asp(imperfect)
+\l Usually, they aren't used in medicines.
+
+\t Ohi,          ez zuen         bazkaltzen .
+\m Ohi,          ez zuen         bazkal-tzen .
+\g Mod(habitual) Neg Aux-T(past) eat-Asp(imperfect)
+\l She didn't usually come.
+
+\t Ez omen         zuen       urik      topatu
+\m Ez omen         zue-n       ur-ik      topa-tu
+\g Neg Mod(evid) Aux-past water-part find-Asp(perfect)
+\l Supposedly, she didn't find any water.
+
+\t ez ohi                zuen        bazkaltzen
+\m ez ohi                zuen        bazkal-tzen
+\g Neg Mod(habitual) Aux-T(past) eat-Asp(imperfect)
+\l She didn't usually come.
+
+\t ez zuen            bazkaldu       ohi
+\m ez zuen            bazkal-du       ohi
+\g Neg Aux-T(past) come-Asp(perfect) Mod(habitual)
+\l She didn't usually eat.
+
+\t Ez omen        zinen        etorriko,       baina etorri zara azkenean.
+\m Ez omen        zinen        etorri-ko,       baina etorri zara azken-ean.
+\g Neg Mod(evid) Aux-T(past) come-T(future) but come Aux end-in.
+\l Supposedly, you weren't going to come, but in the end you've come.
+
+\t Ez omen zinen etorriko, baina ez zara etorri azkenean.
+\m Ez omen zinen etorriko, baina ez zara etorri azkenean.
+\g                                Neg.
+\l Supposedly, you weren't going to come but in the end you haven't come.
+
+\t Badakit [ez didazula egia esan]
+\m Badakit [ez didazu-la egia esan]
+\g I know Neg Aux-Comp truth say
+\l I know you didn't tell me the truth
+
+\t Badakit [egia esan didazula]
+\m Badakit [egia esan didazu-la]
+\g I know truth say Aux-Comp
+\l I know you told me the truth
+
+\t Badakit [ez didazula egia esan]
+\m Badakit [ez didazu-la egia esan]
+\g I know Neg Aux-Comp truth say
+\l I know you didn't tell me the truth.
+
+\t Badakit [egia esan didazula].
+\m Badakit [egia esan didazu-la].
+\g I know truth say Aux-Comp
+\l I know you told me the truth.
+
+\t [erori            ez den] etxea.
+\m [eror-i            ez de-n] etxea.
+\g  fall-Asp(perfect) Neg Aux-comp house-the.
+\l The house that hasn't fallen.
+
+\t [Aunitz bazkaltzen        ez ohi          baduzu], zergatik zara hain pottoloa?
+\m [Aunitz bazkal-tzen        ez ohi          ba-duzu], zer-gatik zara hain pottoloa?
+\g Much lunch-Asp(imperf) Neg Asp(habit) if-Aux, what-for Aux so chubby
+\l If you don't eat a lot for lunch, why are you so chubby?
+
+\t Goxoki bat emanen19 diot, [ongi portatu               omen        baitzen]
+\m Goxoki bat eman-en19 diot, [ongi porta-tu               omen        bait-z-en]
+\g candy one give-T(future), well behave-Asp(perfect) mood(evid) because-AuxT(past)
+\l I'm going to give him a candy, because he evidently behaved well.
+
+\t ez da etxea        erori.
+\m ez da etxea        erori.
+\g  no has house-the fallen
+\l The house hasn't fall down.
+
+\t etxea       erori da.
+\m etxea       erori da.
+\g  house-the fallen has
+\l The house has fallen down.
+
+\t ez omen         da etxea      erori.
+\m ez omen         da etxea      erori.
+\g  no Mod(evid) has house-the fallen
+\l Supposedly, the house hasn't fall down.
+
+\t etxea       erori omen      da.
+\m etxea       erori omen      da.
+\g  house-the fallen Mod(evid) has
+\l Supposedly, the house has fallen down.
+
+\t Badakit [ez didazula egia esan]
+\m Badakit [ez didazu-la egia esan]
+\g I know Neg Aux-Comp truth say
+\l I know you didn't tell me the truth
+
+\t Nork du Jon ikusi?
+\m Nork du Jon ikusi?
+\g  who has John seen
+\l Who has seen John?
+
+\t MIRENEK du Jon ikusi.
+\m MIRENEK du Jon ikusi.
+\g  Mary        has John seen.
+\l Mary has seen John.
+
+\t Patxi orain dator autobusean
+\m Patxi orain dator autobusean
+\g    Patxi now come bus-in
+\l Patxi is coming on the bus now.
+
+\t JONEK esandio Mireni egia.
+\m JONEK esan-dio Miren-i egia.
+\g J.say-Asp(perfect) Aux M-Dat truth
+\l JOHN has told Mary the truth.
+
+\t egin nahi ez badu,...
+\m egin nahi ez ba-du,...
+\g  make want Neg if-Aux.
+\l If she doesn't want to do (it),...
+
+\t ez badidazu egia esaten, ...
+\m ez ba-didazu egia esa-ten, ...
+\g   Neg if-Aux       truth say-Asp(imperfect)
+\l If she doesn't tell me the truth...
+
+\t Jonek neu              /        *ni         ikusi nauØ.
+\m Jon-ek neu              /        *ni         ikusi n-au-Ø.
+\g Jon-ERG me.EMPH.ABS      /me.ABS   seen 1   SG.ABS-Aux-1   SG.ERG
+\l Jon has seen ME.
+
+\t Ni          / *Neu               Jonek ikusi nauØ.
+\m Ni          / *Neu               Jon-ek ikusi n-au-Ø.
+\g me.ABS    /me.EMPH.ABS       Jon-ERG seen 1       SG.ABS-Aux-1   SG.ERG
+\l JON has seen me.
+
+\t Gu          kalea        gus.
+\m Gu          kale-a        g-us.
+\g we(ABS) street-ALL 1       PL.ABS-go
+\l We are going outside.
+
+\t Nik       suek                     atrapa      satxuet.
+\m Ni-k       sue-k                     atrapa      s-atxu-e-t.
+\g I-ER   G   you.PL-PL.ABS          caught 2     ABS-Aux-PL.     ABS-1   SG.ERG
+\l I caught y'all.
+
+\t Suk                  Bostonea         jun         siñan.
+\m Su-k                  Boston-ea         ju-n         s-iñ-an.
+\g   you(ABS.SG)     Boston-ALL go-PRF 2              SG.ABS-Aux-PST
+\l You went to Boston.
+
+\t Nik         liburo bat             darutØ.
+\m Ni-k         liburo bat             d-aru-t-Ø.
+\g   I-ER   G   book      one.ABS   3 ABS-carry-1   SG.ERG-PR
+\l I am carrying a book.
+
+\t Orrek gixonok           liburu      irakurri dabe.
+\m Orrek gixon-o-k           liburu      irakurr-i d-ab-e.
+\g those man-PROX.PL-ERG book(ABS) read-PRF 3PRF-Aux-3PL.ERG
+\l Those men have read the book.
+
+\t Guri          liburua          erori      zitzaigun.
+\m Gu-ri          liburu-a          eror-i      zitza-i-gu-n.
+\g we-DA      T   book-ABS.SG    fall-PRF Aux-DAT-1PL.DAT-PST
+\l We dropped the book.
+
+\t Guri          liburu           jausi       gaskun.
+\m Gu-ri          liburu           jaus-i       ga-sku-n.
+\g we-DA      T   book(ABS)        fall-PRF     Aux-1PL.DAT-PST
+\l We dropped the book.
+
+\t Es        totzut                                      emon     liburu.
+\m Es        to-tzu-t                                      emo-n     liburu.
+\g    Not Aux-DAT+2SG.DAT-1SG.  ERG        give-PRF book(ABS)
+\l I have not given you the book.
+
+\t Etorri            zatzaizkigute.
+\m Etorr-i            z-atza-i-zki-gu-te.
+\g    come-PRF 2           ABS-Aux-DAT-ZKI-1PL.DAT-PL.ABS
+\l Y'all have come to us.
+
+\t Nik zuØ miresten                   zaitut
+\m Ni-k zu-Ø mires-ten                   z-a-it-u-t
+\g I-E   you-A admire-IMP                2A-PRES-PL-root-1E
+\l I admire you.
+
+\t pro pro pro emanØ              Ødizkizut
+\m pro pro pro eman-Ø              Ø-d-i-zki-zu-t
+\g                 give-PERF 3A-PRES-root-PL-2D-1E
+\l (I) have given (them) (to you).
+
+\t Nik zuri              musuakØ               emanØ         Ødizkizut
+\m Ni-k zu-ri              musu-ak-Ø               eman-Ø         Ø-d-i-zki-zu-t
+\g I-E      you-D          kiss-DEF.PL-A           give-PERF 3A-PRES-root-PL-2D-1E
+\l I have given kisses to you.
+
+\t umeak           amari        baloiaØ        emanØ Ødio
+\m ume-a-k           ama-ri        baloi-a-Ø        eman-Ø Ø-d-i-o
+\g child-DEF-E mother-D ball-DEF-A give-PERF 3A-PRES-root-3D
+\l The child has given the ball to his/her mother.
+
+\t baloiaØ amari               umeak           emanØ               Ødio
+\m baloi-a-Ø ama-ri               ume-a-k           eman-Ø               Ø-d-i-o
+\g ball-DEF-A mother-D child-DEF-E give-PERF                             3A-PRES-root-3D
+\l THE CHILD has given the ball to his/her mother.
+
+\t BaloiaØ [umeak                     amari          emana]        da
+\m Baloi-a-Ø [ume-a-k                     ama-ri          eman-a]        da
+\g ball-A          [child-DEF-E           mother-D given-SG]17 is
+\l The ball is given to the mother (by) the child.
+
+\t [umeak            amari       uraØ       emateak]
+\m [ume-a-k            ama-ri       ura-Ø       ema-te-a-k]
+\g [child-DEF-E        mother-D water-A         give-NOM-DEF-E]
+\l The child giving water to his/her mother.
+
+\t [uraØ         amari     umeak        emateak]
+\m [ura-Ø         ama-ri     ume-a-k        ema-te-a-k]
+\g [water-A       mother-D child-DEF-E give-NOM-DEF-E]
+\l THE CHILD giving water to his/her mother.
+
+\t Ezin        dut sinetsi [Ainhoak tesiaØ       hain gaizki defendatu izana]
+\m Ezin        dut sinetsi [Ainhoa-k tesi-a-Ø       hain gaizki defendatu izan-a]
+\g cannot AUX believe [Ainhoa-E thesis-DEF-A so            badly defended have-DEF]
+\l I can't believe that Ainhoa defended her thesis so badly.
+
+\t Zuk        etsaiari         misila           saldu diozu
+\m Zuk        etsaiari         misila           saldu d--i-o-zu
+\g You-ERG enemy-DAT   missile-ABS sell           PRES-3  ABS-Aux-3   DAT-2ERG
+\l You sold the missile to the enemy.
+
+\t Zuk            etsaiari        ni        saldu naiozu
+\m Zuk            etsaiari        ni        saldu na-i-o-zu
+\g   You-ERG enemy-DAT   me-ABS sell       1   ABS-Aux-3   DAT-2ERG
+\l You sold me to the enemy.
+
+\t Etsaiak           zuri         ni         saldu naizu
+\m Etsaiak           zuri         ni         saldu na-i-zu-
+\g   Enemy-ERG   you-DAT me-ABS sell             1   ABS-Aux-2     DAT-3ERG
+\l The enemy sold me to you.
+
+\t Liburua        ekarri arazi diozu
+\m Liburua        ekarri arazi d--i-o-zu
+\g book-ABS bring             CAUS PRES-3ABS-Aux-3   DAT-2ERG
+\l You made him bring the book.
+
+\t Eskutitza JonenganA        bidali       dute
+\m Eskutitza Jonen-ganA        bidali       d--u-te
+\g letter-the John-ALLATIVE send            PRES-3 ABS-aux-3PLERG
+\l They sent the letter to John.
+
+\t Eskutitza JonI      bidali diote
+\m Eskutitza Jon-I      bidali d--i-o-te
+\g letter-the John-DAT send    PRES-3   ABS-aux-3      DAT   ­3   PLERG
+\l They sent the letter to John.
+
+\t Eskutitza PariseRA           bidali dute
+\m Eskutitza Parise-RA           bidali dute
+\g letter-the Paris-ALLATIVE send aux.3SGABS-3            PLERG
+\l They sent the letter to Paris.
+
+\t Eskutitza ParisI         bidali diote
+\m Eskutitza Paris-I         bidali d--i-o-te
+\g  letter-the Paris-DAT send      PRES-3ABS-aux-3DAT-3   PLERG
+\l They sent the letter to Paris.
+
+\t Nixon le         dio    un libro a Mailer
+\m Nixon le         dio    un libro a Mailer
+\g Nixon   CL.DAT   gave.3S a book to Mailer
+\l Nixon gave Mailer a book.
+
+\t Amak        haurrari        zopa     janerazi             dio.
+\m Ama-k        haurr-a-ri        zopa     jan-eraz-i             dio.
+\g mother-ERG child-DET-DAT soup.NOM eat-CAUS-PERF                have.3N.3sgD.3sgE
+\l Mother let the child eat the soup
+
+\t Neskatilak izozkia                     amaitu du
+\m Neskatil-ak izozki-a                     amai-tu du
+\g    girl-Erg.Sg ice-cream-Abs.Sg finish-Per have.3Sg_3Sg
+\l The girl finished her ice-cream
+
+\t Neskatilak       dei     egin      du
+\m Neskatil-ak       dei     egi-n      du
+\g Girl-Erg.Sg      call     do-Per     have.3Sg_3sg
+\l The girl called
+
+\t Mikelek     Jon        Edurneri      liburua           erostera  behartu       zuen     
+\m Mikel-ek     Jon        Edurne-ri      liburu-a           eros-te-ra  behar-tu       z-u-en     
+\g Mikel-ERG Jon-ABS Edurne-DAT book-SG/ABS                  buy-NML-ALL force-PERF 3SG/ERG-AUX-PST
+\l Mikel forced Jon to buy a book for Edurne.
+
+\t bihar      ez      nau                     parkera eramango
+\m bihar      ez      n-a-u                     parke-ra eraman-go
+\g tomorrow NEG 1SG/ABS-PRES-AUX(-3SG/ERG) park-ALL      carry-FUT
+\l She will not take me to the park tomorrow.
+
+\t ardoa    edango      dugu
+\m ardo-a    edango      dugu
+\g wine-Det drink-FUT AUX
+\l We will drink the/some wine.
+
+\t [zure     egunero berandu heltze]a             parkaezina da
+\m [zure     egunero berandu hel-tze]-a             parkaezina da
+\g  you-Gen every.day late        arrive-NZR-Det unforiveable be
+\l Your arriving late every day is unforgiveable.
+
+\t zuk       ni            ikusi nauzu
+\m zu-k       ni            ikusi n-au-zu
+\g you-ERG me-ABS           see 1A-AUX-2E
+\l You have seen me
+
+\t gizonak    Miren            ikusi du
+\m gizona-k    Miren            ikusi du
+\g  child-ERG Miren-ABS         see 3A-AUX-3E
+\l The child has seen Miren
+
+\t Gure     herriko    mutilak    traketsak       dira neskak      ordea      iaioak      Ø.
+\m Gu-re     herri-ko    mutil-ak    trakets-ak       d-i-ra neska-k      ordea      iaio-ak      Ø.
+\g we-GEN village-REL boy-PL.ABS clumsy-PL.ABS 3ABS-PRES-be  girl-PL.ABS however agile-PL.ABS       
+\l They boys in our village are clumsy, the girls, however, Ø agile.
+
+\t Tea          ala kafea        nahi duzu?
+\m Te-a          ala kafe-a        nahi duzu?
+\g  tea-ART or      coffee-ART want      you.it
+\l Do you want tea, or coffee? (= Do you want tea or do you want coffee?)
+
+\t Tea          edo kafea        nahi duzu?
+\m Te-a          edo kafe-a        nahi duzu?
+\g  tea-ART or      coffee-ART want      you.it
+\l Do you want tea or coffee? (= Do you want either tea or coffee?)
+
+\t Lindak ardau [ ] eta Anderek esnea                          [edaten dabez].
+\m Linda-k ardau [ ] eta Ander-ek esnea                          [edaten dabez].
+\g   Linda-ERG wine( ABS ) and Ander-ERG           milk( ABS ) drink          they.it
+\l Linda will drink wine and Ander milk.
+
+\t Lindak ardau     [edaten du],       eta               Anderek esnea          [ ].
+\m Linda-k ardau     [edaten du],       eta               Ander-ek esnea          [ ].
+\g Linda-ERG wine( ABS ) drink             he.will and    Ander-ERG     milk( ABS )
+\l Linda will drink wine and Ander milk.
+
+\t [Mikeli      zer esan ondoren] joan zen etxetik?
+\m [Mikeli      zer esan ondoren] joan zen etxetik?
+\g Mikel-Dat what say after           go AUX home-from
+\l [After saying what to Mikel] did he leave home?
+
+\t Amak               erriertaØ      eman      dio            lorontzirik           onena                 hautsi baitdu.
+\m Ama-k               errierta-Ø      ema-n      dio            lorontzi-rik           on-en-a                 hauts-i bait-du.
+\g mother-ERG.SG argument-ABS give-PF AUX.PRES flower.pot-PRT                           good-most-SG.ABS break-PF CAUS-AUX.PRES 
+\l Mother has quarelled with him because he has broken her best flower pot.
+
+\t [ahaztu zaidalako    liburura], etxera itzuli nintzan
+\m [ahaztu zaida-lako    liburura], etxera itzuli nintzan
+\g forget aux.3.1.-comp book.det house.to return aux.1.pst
+\l I returned home because I forgot the book.
+
+\t Nik    [ joan ] nahi dut
+\m Nik    [ joan ] nahi dut
+\g I-ERG go.INF want have.1SG.3SG
+\l I want [ to go ].
+
+\t Nik    [ kafea      egin ] nahi dut
+\m Nik    [ kafea      egin ] nahi dut
+\g I-ERG coffee-ABS do.INF want have.1SG.3SG
+\l I want [ to make coffee ].
+
+\t Aitak       [ semeak ikusi ] nahi dut
+\m Aitak       [ semeak ikusi ] nahi dut
+\g Father-ERG Son-ERG see.INF want have.3SG.3SG
+\l The father wants the son to see him (father).'Alan King
+
+\t Amak          [ semea eskolan utzi ] eta [ klasera joan zen ]
+\m Amak          [ seme-a eskola-n utzi ] eta [ klase-ra joan zen ]
+\g Mother-ERG son-ABS school-at leave and class-to go AUX
+\l Mother left her son at school and went to class.
+
+\t Gizonak    emakumeari liburua         eman dio.
+\m Gizon-a-k    emakume-a-ri liburu-a         eman dio.
+\g man-the-ERG woman-the-DAT book-the.ABS give has
+\l The man has given the book to the woman.'Comrie
+
+\t emakumeari liburua eman dion        gizona
+\m emakume-a-ri liburu-a eman dio-n        gizon-a
+\g woman-the-DAT book-the give has-REL man-the
+\l The man who has given the book to the woman
+
+\t gizonak     emakumeari eman dion        liburua
+\m gizona-k     emakume-a-ri eman dio-n        liburu-a
+\g man-the-ERG woman-the-DAT give has-REL book-the
+\l The book which the man has given to the woman
+
+\t gizonak    liburua eman dion   emakumea
+\m gizon-a-k    liburu-a eman dio-n   emakume-a
+\g man-the-ERG book-the give has-REL woman-the
+\l The woman to whom the man has given the book
+
+\t Amak         semea eskolan utzi (zuen)          eta klasera joan (zen)
+\m Ama-k         seme-a eskola-n utzi (zuen)          eta klase-ra joan (zen)
+\g mother-ERG son-ABS school-at leave AUX.3SG.3SG and class-to go AUX.3SG
+\l Mother left her son at school and went to class.
+
+\t Sagarrak   emakumeak egosten ditu              eta gizonak jaten ditu
+\m Sagarrak   emakumeak egosten ditu              eta gizonak jaten ditu
+\g Apples-ABS woman-ERG cook AUX.3SG.3PL and man-ERG eat AUX.3SG.3PL
+\l The woman cooks and the man eats apples.'Alan King
+
+\t Sagarrak   emakumeak egosten ditu      eta usteltzen dira
+\m Sagarrak   emakumeak egosten ditu      eta usteltzen dira
+\g Apples-ABS woman-ERG cook AUX.3SG.3PL and rot        AUX.3PL
+\l The woman cooks apples and they rot.
+
+\t Sagarrak     usteltzen dira    eta emakumeak egosten ditu
+\m Sagarrak     usteltzen dira    eta emakumeak egosten ditu
+\g Apples-ABS rot         AUX.3PL and woman-ERG cook AUX.3SG.3PL
+\l Apples rot and the woman cooks them.
+
+\t Neskatila ailegatu da
+\m Neskatil-a ailega-tu da
+\g girl-ABS.SG arrive-Per be.3SG
+\l The girl arrived.
+
+\t Nik    [ joan ] nahi dut
+\m Nik    [ joan ] nahi dut
+\g I-ERG go.INF want have.1SG.3SG
+\l I want [ to go ].
+
+\t Nik    [ kafea      egin ] nahi dut
+\m Nik    [ kafea      egin ] nahi dut
+\g I-ERG coffee-ABS do.INF want have.1SG.3SG
+\l I want [ to make coffee ].
+
+\t Aitak       [ semeak ikusi ] nahi dut
+\m Aitak       [ semeak ikusi ] nahi dut
+\g Father-ERG Son-ERG see.INF want have.3SG.3SG
+\l The father wants the son to see him (father).'Alan King
+
+\t Amak          [ semea eskolan utzi ] eta [ klasera joan zen ]
+\m Amak          [ seme-a eskola-n utzi ] eta [ klase-ra joan zen ]
+\g Mother-ERG son-ABS school-at leave and class-to go AUX
+\l Mother left her son at school and went to class.
+
+\t Gorriz            atzazalak           pintatzen ari naiz.
+\m Gorri-z            atz-azal-ak           pintatzen ari naiz.
+\g red-with/in finger+covering-Pl painting AUX
+\l I am painting my finger nails with/in red.
+
+\t (3>3) Eduk    neska       Toniri aipatu     dio.
+\m (3>3) Edu-k    neska       Toni-ri aipatu     d-io.
+\g          Edu-ERG      girl.ABS       Toni-DAT mention            3THM-3REC.3AG
+\l Edu has mentioned the girl to Toni.
+
+\t (3>1) *Eduk          ni            Toniri      aipatu     nio.
+\m (3>1) *Edu-k          ni            Toni-ri      aipatu     n-io.
+\g          Edu-ERG      I.ABS         Toni-DAT     mention 1   THM-3REC.3AG
+\l Edu has mentioned me to Toni.
+
+\t Ez degu ijitor ik      ikusi.
+\m Ez degu ijito-r ik      ikusi.
+\g NEG AU X gypsy-PA RT seen
+\l We have not seen a gypsy.
+
+\t nork    egin zuen                negar?
+\m nor-k    egin zuen                negar?
+\g who-ERG do          AUX                cry
+\l Who cried?
+
+\t Jonek Mireni egongelan liburua irakurri.
+\m Jon-ek Miren-i egon-gelan liburu-a irakur-ri.
+\g John-ERG Mary-to living.room-in book-the read-PAST
+\l John read the book to Mary in living room.
+
+\t egunotan, neure buruak       kezkatzen nau
+\m egunotan, neure buru-a-k       kezkatzen nau
+\g day-DET-in my-own head-DET-ERG worry-HAB me-has-it
+\l These days, my(own)self worries me
+
+\t Jon    eta Miren      bata    besteak         kezkatzen ditu.
+\m Jon    eta Miren      bat-a    beste-a-k         kezkatzen ditu.
+\g Jon.DET and Mary.DET one.DET other-DET-ERG give             AUX fear
+\l One another worry Jon and Mary.
+
+\t Jonek         nekatuta dagoela ematen                 du
+\m Jon-ek         nekatuta dago-ela ematen                 du
+\g John ERG tired               is     that give-IMPF AUX
+\l John seems that [he] is tired
+
+\t Nekatuta zaudela            ematen         duzu
+\m Nekatuta zaud-ela            ematen         duzu
+\g    tired        are that        give-IMPF AUX.2ERG
+\l You seem that [you] are tired
+
+\t Egunotan, neure buruak                   kezkatzen nau         (ni).
+\m Egunotan, neure buru-a-k                   kezkatzen nau         (ni).
+\g day.D E T.in my head-D E T-ERG   worry.H A B me.has.it I
+\l These days, my(own)self worries me.
+
+\t Bere buruak            Mirande hil zuen.
+\m Bere buru-a-k            Mirande hil zuen.
+\g his head-D E T-ERG   Mirande kill AU X
+\l Himself killed Mirande.
+
+\t Bere buruak          Miren          maite du.
+\m Bere buru-a-k          Miren          maite du.
+\g her head-D E T-ERG   Miren.ABS   love has
+\l Herself loves Miren.
+
+\t Mari               joan da.
+\m Mari               joan da.
+\g Mary.ABS           left    has
+\l Mary left.
+
+\t Marik              liburua        erosi             du.
+\m Marik              liburua        erosi             du.
+\g Mary.ERG           book-the.ABS bought              has
+\l Mary bought the book.
+
+\t Nik diot Mariri trikota                             ez eman.
+\m Nik diot Mariri trikota                             ez eman.
+\g I.ERG have Mary.DAT sweater-the.ABS                 not given
+\l I did not give the sweater to Mary.
+
+\t Ez da inor                     etorri.
+\m Ez da inor                     etorri.
+\g no has anybody.ABS             come
+\l Nobody came.
+
+\t Ez dio inork          Iboni      etxea    eman.
+\m Ez dio inork          Iboni      etxea    eman.
+\g no has anybody.ERG Ibon.DAT house-the.ABS given
+\l Nobody gave the house to Ibon.
+
+\t Ez dio Ibonek inori                etxea  eman.
+\m Ez dio Ibonek inori                etxea  eman.
+\g no has Ibon.ERG anybody.DAT house-the.ABS given
+\l Ibon didn't give the house to anybody.
+
+\t Lagunak ni        ikusi naikØ
+\m Lagunak ni        ikusi n----ai----k-------Ø
+\g  friend.ERG me.ACC seen       1sgA-+Pr.AUX-2sg.masc-3sgE
+\l The friend saw me
+
+\t  Hire arreba *da     / dük
+\m  Hire arreba *da     / dük
+\g your.SG sister    COP.3A.COP.3A.ALLO
+\l This is your [SG] sister
+
+\t Zien     laguna da
+\m Zien     laguna da
+\g  your.PL friend     COP.3A.
+\l This is your [PL] friend
+
+\t Ikusi haiala          erran *deit    / deitak
+\m Ikusi haiala          erran *deit    / deitak
+\g  seen     AUX.2sgA.3E.COMP said       AUX.1D.3E.AUX.1D.3E.ALLO
+\l He told me he saw you [SG]
+
+\t Ikusi zitiela        erran deit
+\m Ikusi zitiela        erran deit
+\g  seen    AUX.2plA.3E.COMP said      AUX.1D.3E
+\l He told me he saw you [PL]
+
+\t a. Lan egin düzü /dük           /dün
+\m a. Lan egin dü---zü /dü-k           /dü-n
+\g   worked     AUX-2vouvE /-2masc.E /-2fem.E
+\l You / thou / worked
+
+\t Gertatu Øzaizü   / Øzaik     /Øzain
+\m Gertatu Ø--zai-zü   / Ø-zai-k     /Ø-zai-n
+\g  happened 3A--AUX-2vouvD /-2masc.D /-2fem.D
+\l It happened to you /thee
+
+\t (Hik) (ni) ikusi nauk
+\m (Hik) (ni) ikusi n-a--u--k
+\g you.ERG me.ACC seen     1A-+P-AUX-2mascE
+\l You saw me
+
+\t Banenki        banikek
+\m Banenki        banikek
+\g  ba.1E.IRR.know ba.1E.IRR.have.ALLOmasc
+\l If I knew, I would have
+
+\t Bahenki      banenkike
+\m Ba-henki      ba-nenkike
+\g  if--2E.IRR.know ASS-1E.IRR.know
+\l If thou knew, I would know
+
+\t  Hire amak       badaki?
+\m  Hire amak       badaki?
+\g 2d.GEN mother.ERG ba.3A.know.3E
+\l Does your mother know it?
+
+\t pro        Lan egin duzue
+\m pro        Lan egin duzue
+\g  2pl.ERG worked        AUX.2plE
+\l You (pl.) worked
+
+\t pro         pro    Mirailean ikusi gaitut
+\m pro         pro    Mirailean ikusi gaitut
+\g    1sg.ERG 1.pl.ACC mirror.LOC   seen   1plA.AUX.1E
+\l I saw us in the mirror
+
+\t Hik    lan egin duk
+\m Hik    lan egin duk
+\g  2sg.ERG worked   AUX.2sg.mascE
+\l You worked
+
+\t pro Hi   /hik /hiri   mintza niaitekek
+\m pro Hi   /hik /hiri   mintza niaitekek
+\g        2sg.ABS/2sg.ERG/2sg.DAT parler    1A.AUX.POT.ALLOmasc.
+\l I can speak
+
+\t a.*pro [eALLO Manex joanen duala]                         uste duk
+\m a.*pro [eALLO Manex joanen duala]                         uste duk
+\g   2d.ERG             John.NOM go.FUT           3A.AUX.ALLOmasc.think AUX.2mascE
+\l You think that John will(+ALLO) go
+
+\t Ez beza         inork          pentsa [e   ALLO   Manex joanen duala]
+\m Ez beza         inork          pentsa [e   ALLO   Manex joanen duala]
+\g NEG IMP.AUX.3E nobody.ERG think
+\l Don't anybody think that John will(+ALLO) go
+
+\t [Lo egiten duen]      gizona Manex dun
+\m [Lo egiten duen]      gizona Manex dun
+\g   sleeping    AUX.3E.COMP man           John   COP.3A.ALLOfem
+\l The man [who is sleeping] is John
+
+\t  Ez dinat       nahi [gerta dakion]
+\m  Ez dinat       nahi [gerta dakion]
+\g NEG AUX.1E.ALLOfem want         happen 3A.AUX.3D.COMP
+\l I don't want it to happen to him
+
+\t  Ez dakinat        [zer     gertatu den]
+\m  Ez dakinat        [zer     gertatu den]
+\g NEG know.1E.ALLOfem what.NOM happened 3A.AUX.COMP
+\l I don't know what it is
+
+\t  Lan egiten duia     hire lagunak?
+\m  Lan egiten duia     hire lagunak?
+\g work          AUX.3E.Q your friend.ERG
+\l Does your friend work?
+
+\t Manex etorri zuan
+\m Manex etorri zuan
+\g  John.NOM come    AUX.3A.ALLOmasc
+\l John came
+
+\t (Hik) Manex ikusi huen
+\m (Hik) Manex ikusi huen
+\g  you.ERG John.ACC seen AUX.3A.2mascE
+\l You saw John
+
+\t  proi proj Elkarrezij hitz egin diegu
+\m  proi proj Elkarrezij hitz egin diegu
+\g we them RECIP.INST worg do AUX.3PLD.1PLE
+\l We talked to them about each other
+
+\t  Nihauri zidaie ekarriko
+\m  Nihauri zidaie ekarriko
+\g me.DAT 3A.AUX.1D.3plE.bring.FUT
+\l They will bring it TO ME
+
+\t (Hik Guri emon) do       skuna        do         na
+\m (Hik Guri emon) d-o-       sku-na        d-o-         na
+\g (You us gave)    3sg.abs-aux.trans- 1pl.dat-2sgf.erg  3sg.abs-aux.trans- 2sg.erg
+\l You (f.sg) [gave] it to us
+
+\t (Suek Guri emon) do       skusue      do        sue
+\m (Suek Guri emon) d-o-       sku-sue      d-o-        sue
+\g (Y'all us gave) 3sg.abs-aux.trans- 1pl.dat-2pl.erg  3sg.abs-aux.trans- 2pl.erg
+\l You (pl) [gave] it to us
+
+\t zuk       ni            ikusi nauzu
+\m zu-k       ni            ikusi n-au-zu
+\g you-ERG me-ABS           see 1A-AUX-2E
+\l You have seen me
+
+\t gizonak    Miren            ikusi du
+\m gizona-k    Miren            ikusi du
+\g  child-ERG Miren-ABS         see 3A-AUX-3E
+\l The child has seen Miren
+
+\t neure buruak             ikusi nau           ni
+\m neure buru-a-k             ikusi nau           ni
+\g my.own head-DET-ERG seen me.has.it I
+\l Myself has seen me
+
+\t Jonek ez du uste [Mirenek liburua irakurri duenik]
+\m Jonek ez du uste [Mirenek liburua irakurri duenik]
+\g J      no AUX think M          book read       AUX.C
+\l Jon doesn't think that Miren has read the book
+
+\t Jonek ez du           astiro libururik irakurri
+\m Jonek ez du           astiro libururik irakurri
+\g J      no AUX.3S.3S slowly book.PART read
+\l Jon hasn't read any books slowly
+
+\t Jonek        kotxea garbitu      du.
+\m Jon-ek        kotxe-a garbi-tu      du.
+\g  John-ERG car-DET clean-PERF AUX.3N.3sgE
+\l John cleaned the car.
+
+\t Garbitu      da.
+\m Garbi-tu      da.
+\g  clean-PERF AUX.3N
+\l Someone cleaned it.
+
+\t Jon igotzen            da.
+\m Jon igo-tzen            da.
+\g  John move.up-IMPF AUX.3N
+\l John moves up.
+
+\t Jonek        maletak      igotzen       ditu.
+\m Jon-ek        maleta-k      igo-tzen       ditu.
+\g  John-ERG suitcase-pl take.up-IMPF AUX.3plN.3sE
+\l John takes the suitcases up.
+
+\t Nik      pobreei      dirua       ematen      diet.
+\m Ni-k      pobre-ei      diru-a       ema-ten      diet.
+\g 1sg-ERG poor-pl.DAT money-DET give-IMPERF AUX.3N.3pD.1E
+\l I give money to the poor.
+
+\t Amak        haurrari        zopa        janarazten    dio.
+\m Ama-k        haurr-a-ri        zopa        jan-araz-ten    dio.
+\g mother-ERG child-DET-DAT soup.DET          eat-CAUS-IMPERF AUX.3N.3D.3E
+\l The mother lets the child eat the soup.
+
+\t lagun eta       ahaideei       agur     egin          diiei
+\m lagun eta       ahaide-ei       agur     egi-n          d-i-ie-i
+\g friend and      relative-PL:DAT salute make-PERF   3ABS-PRES:AUX2-3PL:DAT-3SG:ERG
+\l He has greeted his friends and family.
+
+\t Bere buruak        Mirande hil zuen
+\m Bere buru-a-k        Mirande hil zuen
+\g  his head-D E T-E R G Mirande kill AU X
+\l Himself killed Mirande
+
+\t Bere buruak        Miren                 maite du
+\m Bere buru-a-k        Miren                 maite du
+\g  her head-D E T-E R G Miren.ABS    love has
+\l Herself loves Miren
+
+\t Aitak               amari                 gona gorria              erosi     dø ioø.                      
+\m Aita-k               ama-ri                 gona gorri-a              erosi     d-ø- io-ø.                      
+\g  father-SG.ERG       mother-SG.DAT          skirt red-SG.ABS          buy       3.ABS-PRS.AUX-3.SG.DAT- 3.SG.ERG
+\l Father has bought a red skirt for mother.
+
+\t Gona      gorria          erosi dø ioø                          amari               aitak .
+\m Gona      gorria          erosi d-ø- io-ø                          ama-ri               aita-k .
+\g  skirt    red-SG.ABS buy 3.ABS-PRS.AUX-3.SG.DAT- 3.SG.ERG          mother-SG.DAT father-SG.ERG  
+\l Father has bought a red skirt for mother.
+
+\t Egunotan, neure buruak                   kezkatzen nau         (ni).
+\m Egunotan, neure buru-a-k                   kezkatzen nau         (ni).
+\g day.D E T.in my head-D E T-ERG   worry.H A B me.has.it I
+\l These days, my(own)self worries me.
+
+\t Bere buruak            Mirande hil zuen.
+\m Bere buru-a-k            Mirande hil zuen.
+\g his head-D E T-ERG   Mirande kill AU X
+\l Himself killed Mirande.
+
+\t Bere buruak          Miren          maite du.
+\m Bere buru-a-k          Miren          maite du.
+\g her head-D E T-ERG   Miren.ABS   love has
+\l Herself loves Miren.
+
+\t Gixonak liburûa         erosi  dau
+\m Gixona-k liburûa         erosi  dau
+\g man-ERG book.ABS buy            AUX.3s
+\l [The man]A has bought [the book]O
+
+\t Gixonâ       etorri   da
+\m Gixonâ       etorri   da
+\g man.ABS come AUX.3s
+\l [The man]S has come
+
+\t Gixonâ       ikusi       dot
+\m Gixonâ       ikusi       dot
+\g man.ABS see              AUX.1s
+\l [I]A have seen [the man]O
+
+\t Ni      ibiltzen       naiz
+\m Ni      ibil-tzen       naiz
+\g 1SG     walk-IMP        1SG.PRES.be
+\l I am walking
+
+\t Zu      ibiltzen       zara
+\m Zu      ibil-tzen       zara
+\g 2SG     walk-IMP        2SG.PRES.be
+\l You are walking
+
+\t Nik         zu         garbitzen   zaitut
+\m Ni-k         zu         garbi-tzen   zaitu-t
+\g 1SG-ERG 2SG             wash-IMP     2SG.PRES.have-1SG
+\l I am washing you
+
+\t Nik          zuri        sagarra     ematen         di=zu=t                  
+\m Ni-k          zu-ri        sagarr-a     ema-ten         di=zu=t                  
+\g 1SG-ERG 2SG-DAT apple-DEF give-IMP                      3SG.PRES.have=2SG(IO)=1SG
+\l I am giving you the apple
+
+\t Zuk         neri         sagarra     ematen    di=da=zu                 
+\m Zu-k         ne-ri         sagarr-a     ema-ten    di=da=zu                 
+\g 2SG-ERG 1SG-DAT apple-DEF give-IMP                 3SG.PRES.have=1SG(IO)=2SG
+\l You are giving me the apple
+
+\t Nik         zaldiari        sagarra    ematen    di=o=t                   
+\m Ni-k         zaldi-a-ri        sagarr-a    ema-ten    di=o=t                   
+\g 1SG-ERG horse-DEF-DAT apple-DEF give-IMP              3SG.PRES.have=3SG(IO)=1SG
+\l I am giving the apple to the horse
+
+\t Joni    liburua eman diot.
+\m Joni    liburua eman diot.
+\g Jon-Dat book-the give have-1sE-3sA-3sD
+\l I gave the book to Jon.
+
+\t Joni     eskua    ikusi diot.
+\m Joni     eskua    ikusi diot.
+\g  Jon-Dat hand-the see   have-1sE-3sA-3sD
+\l I saw Jon's hand.
+
+\t Joni    liburua eroski arazi diot.
+\m Joni    liburua eroski arazi diot.
+\g Jon-Dat book-the buy    make have-1sE-3sA-3sD
+\l I made Jon buy the book.
+
+\t Bapatean mamu bat agertu    zaio         Eduri.
+\m Bapatean mamu bat agertu    zaio         Eduri.
+\g suddenly ghost one appeared have-3sA.3sD Edu-DAT
+\l Suddenly, a ghost appeared to Edu.
+
+\t Peru             afaldu        da
+\m Peru             afaldu        da
+\g Peter-ABS        had-dinner    is (INTR.AUX)
+\l Peter has had   dinner.
+
+\t Peruk           afaldu        du
+\m Peru-k           afaldu        du
+\g Peter-ERG        had-dinner    has (TR.AUX)
+\l Peter has had   dinner.
+
+\t aita lanera joan=da
+\m aita lan-era joa-n=d-a
+\g father(sA) work-s.all go-prf 3A-prs-
+\l Father has gone to work.
+
+\t lagun=bat
+\m lagun=bat
+\g friend=one
+\l one friend
+
+\t a. gure lagunêk esan dau                                      Gernika
+\m a. gure lagunêk esan dau                                      Gernika
+\g our friend.ERG.SG say AUX
+\l our friend said it
+
+\t b. gure lagûnek esan dábe
+\m b. gure lagûnek esan dábe
+\g our friend.ERG.PL say AUX
+\l our friends said it
+
+\t O Jannis i       ton i  agapai ton eafto tui
+\m O Jannis i       ton i  agapai ton eafto tui
+\g The John:NOM CL:ACC loves         himself:ACC
+\l John loves himself
+
+\t Gixonak     liburûa erosi       dau
+\m Gixona-k     liburûa erosi       dau
+\g man-ERG      boek:ABS kopen      AUX:3SG
+\l De man-(A) heeft het boek-(O) gekocht.
+
+\t Gixonâ ikusi dot
+\m Gixonâ ikusi dot
+\g man:ABS zien AUX:1SG
+\l Ik-(A) heb de man-(O) gezien.
+
+\t katua           etzanda              dago
+\m katu-a           etza-n-da              d-a-go
+\g     cat-ABS lie.down-PERF-ADV 3-PRES-be
+\l The cat is lying down.
+
+\t amak               gona gorria        erosi       du
+\m ama-k               gona gorri-a        eros-i       d-u-
+\g   mother-ERG skirt red-ABS buy-PERF 3-AUX.PRES-3SG
+\l Mother has bought a red skirt
+
+\t nik             aitari       dirua          eskatu diot
+\m ni-k             aita-ri       diru-a          eska-tu d--io-t
+\g   1SG-ERG        father-DAT money-ABS ask-PERF 3-AUX-3SG-1SG
+\l I have asked father for money.
+
+\t bi        mutil(ak)
+\m bi        mutil(-ak)
+\g two       boy-PL
+\l two boys
+
+\t hiru        neska(k)
+\m hiru        neska(-k)
+\g three       girl-PL
+\l three girls
+
+\t bost      liburu(ak)
+\m bost      liburu(-ak)
+\g five      book-PL
+\l five books
+
+\t Azken bi       oraetan        hemen      egon    da.
+\m Azken bi       ora-etan        hemen      ego-n    d-a.
+\g last     two hour-PL.LOC here             be-PRF   3A-PRS
+\l S/he has been here within the last two hours.
+
+\t Ordubetean      bost dei izan ditut.
+\m Ordu-bete-an      bost dei iza-n d-it-u-t.
+\g hour-one-S.LOC five call be-PRF 3A-A.PL-AUX2-1SG.E
+\l I have had five calls in a single hour.
+
+\t Bada hemen neska ederrik.
+\m Ba-da hemen neska eder-rik.
+\g ba-is here girl     beautiful-PART.
+\l There are (some) beautiful girls here.
+
+\t ni      ibiltzen        naiz
+\m ni      ibil-tzen        naiz
+\g 1SG.ABS walk-IPFV        1SG.be.PRS
+\l I am walking.
+
+\t zu      ibiltzen        zara
+\m zu      ibil-tzen        zara
+\g 2SG.ABS walk-IPFV        2SG.be.PRS
+\l You are walking.
+
+\t zuk    ni      garbitzen nauzu
+\m zu-k    ni      garbi-tzen nau-zu
+\g 2SG.ERG 1SG.ABS wash-IPFV 1SG.have.PRS-2SG.A
+\l You are washing me.
+
+\t nik    zu      garbitzen zaitut
+\m ni-k    zu      garbi-tzen zaitu-t
+\g 1SG.ERG 2SG.ABS wash-IPFV 2SG.have.PRS-1SG.A
+\l I am washing you.
+
+\t ni      ibiltzen         naiz
+\m ni      ibil-tzen         naiz
+\g 1SG.ABS walk-IPFV         1SG.be.PRS
+\l I am walking.
+
+\t zu      ibiltzen         zara
+\m zu      ibil-tzen         zara
+\g 2SG.ABS walk-IPFV         2SG.be.PRS
+\l You are walking.
+
+\t zuk    ni              garbitzen   nauzu
+\m zu-k    ni              garbi-tzen   nau-zu
+\g 2SG-ERG 1SG.ABS         wash-IPFV    1SG.have.PRS-2SG.A
+\l You are washing me.
+
+\t nik    zu                garbitzen   zaitut
+\m ni-k    zu                garbi-tzen   zaitu-t
+\g 1SG-ERG 2SG.ABS           wash-IPFV    2SG.have.PRS-1SG.A
+\l I am washing you.
+
+\t zuk    ni       garbitzen nauzu
+\m zu-k    ni       garbi-tzen nau-zu
+\g 2SG-ERG 1SG      wash-IPFV 1SG.have.PRS-2SG.A
+\l You are washing me.
+
+\t gizon      guztiek   jaten              dute                      sagarrak
+\m gizon      guzti-ek   ja-ten              du-te                      sagar-rak
+\g man        all-PL.ERG eat-IPFV            3.have.PRS-3PL.A           apple-PL
+\l All the men are eating apples.
+
+\t emakumeak    neska guztiak                  garbitzen du
+\m emakume-ak    neska guzti-ak                  garbi-tzen du-
+\g woman-DEF.ERG girl  all-PL                    wash-IPFV 3.have.PRS-3SG.A
+\l The woman is washing all the girls.
+
+\t gizon    bakoitzak    sagar          bat     jaten   du
+\m gizon    bakoitz-ak    sagar          bat     ja-ten   du-
+\g man      every-DEF.ERG apple          one     eat-IPFV 3.have.PRS-3SG.A
+\l Every man is eating an apple.
+
+\t ni      ibiltzen        naiz
+\m ni      ibil-tzen        naiz
+\g 1SG.ABS walk-IPFV        1SG.be.PRS
+\l I am walking.
+
+\t zu      ibiltzen        zara
+\m zu      ibil-tzen        zara
+\g 2SG.ABS walk-IPFV        2SG.be.PRS
+\l You are walking.
+
+\t zuk    ni      garbitzen nauzu
+\m zu-k    ni      garbi-tzen nau-zu
+\g 2SG.ERG 1SG.ABS wash-IPFV 1SG.have.PRS-2SG.A
+\l You are washing me.
+
+\t nik    zu      garbitzen zaitut
+\m ni-k    zu      garbi-tzen zaitu-t
+\g 1SG.ERG 2SG.ABS wash-IPFV 2SG.have.PRS-1SG.A
+\l I am washing you.
+
+\t Mirenek         ni             jo nau.
+\m Miren-ek         ni             jo n-au.
+\g Miren-ERG me.NOM hit 1SG-have.3SG
+\l Miren hit me.
+
+\t Miren erori da.
+\m Miren erori d-a.
+\g Miren fallen 3SG-be
+\l Miren fell.
+
+\t Mirenek         ni            jo nau.
+\m Miren-ek         ni            jo n-au.
+\g Miren-ERG me.NOM hit 1SG-have.3SG
+\l Miren hit me.
+
+\t Miren erori da.
+\m Miren erori d-a.
+\g Miren fallen 3SG-be
+\l Miren fell.
+
+\t sæ'a            zæi'a
+\m sæ'-a            zæi'-a
+\g work-dosong-do
+\l work
+
+\t neure buruak        hilko     nau.
+\m neure buru-a-k        hilko     nau.
+\g my head-D E T-E R G it.kills.me AU X
+\l Something like my personality, the things I do and worry about. . . that is going to kill me.
+
+\t Niri     batez ere neure buruak             ematen                        dit    beldurra.
+\m Niri     batez ere neure buru-a-k             ematen                        dit    beldurra.
+\g 1S G.DAT above all my.own head-D E T-E R G give.I M               P E R F AU X     fear
+\l Above all it is myself that causes me fear.
+
+\t Bere buruak       Mirande hil zuen.
+\m Bere buru-a-k       Mirande hil zuen.
+\g his head-D E T-E R G Mirande kill AU X
+\l Himself killed Mirande.
+
+\t Bere buruak       Miren               maite du.
+\m Bere buru-a-k       Miren               maite du.
+\g her head-D E T-E R G Miren.ABS   love has
+\l Herself loves Miren.
+
+\t  Mirenek ni jo nau
+\m  Miren-ek ni jo n-au
+\g M.-Erg me-Nom hit have
+\l Miren hit me
+
+\t  Mirenek hitz egin du
+\m  Miren-ek hitz egin du
+\g M.-Erg word done have
+\l Miren spoke
+
+\t  Miren erori da
+\m  Miren erori d-a
+\g M-Nom fallen be
+\l Miren fell
+
+\t ibai hura        igaro      dute
+\m ibai hura        igaro      dute
+\g river that.ABS   pass.by AUX.TR
+\l they crossed that river
+
+\t Mirenek ni          jo    nau
+\m Miren-ek ni          jo    n-au
+\g M.-ERGi    me(NOM)j hit 1SG j-have.3SGi
+\l Miren hit me.
+
+\t Aquí nadie no       sabe       sobre eso
+\m Aquí nadie no       sabe       sobre eso
+\g    Here nobody Neg knows       about that
+\l Here nobody knows about that
+
+\t Inork             ez                 daki
+\m Inork             ez                 daki
+\g nobody.ERG        NEG                knows
+\l Nobody knows it
+
+\t Piarresek egin du etchea.
+\m Piarresek egin du etchea.
+\g Peter-ERG make has house-ABS
+\l Peter built the house.
+
+\t Piarresek egina da etchea.
+\m Piarresek egina da etchea.
+\g Peter-ERG made is house-ABS
+\l The house was built by Peter.
+
+\t Koldok        Gorkari          deitu        dio
+\m Koldo-k        Gorka-ri          deitu        dio
+\g Koldo-ERG   Gorka-DA      T   call.PF   AUX.PRES.S3SG.O3SG.D3SG
+\l Koldo called Gorka
+
+\t Jonek kotxe             berri bat         behar         du
+\m Jon-ek kotxe             berri bat         behar         du
+\g Jon-ERG   car         new     one       need          have.PRES.S3SG.O3SG
+\l Jon needs a new car
+
+\t b Jon           etxera              doa
+\m b Jon           etxe-ra              doa
+\g    Jon.ABS   house-SG.ALL      go.PRES.S3SG
+\l Jon is going home
+
+\t Jonek [etxera                   joan]            behar       du
+\m Jon-ek [etxe-ra                   joan]            behar       du
+\g Jon-ERG   house-SG.ALL      go.PF         need        have.PRES.S3SG.O3SG
+\l Jon must go home
+
+\t Jonek ogia                   erosten du
+\m Jon-ek ogi-a                   erosten du
+\g Jon-ERG   bread-SG.ABS   buy.IPF        AUX.PRES.S3SG.O3SG
+\l Jon is buying bread
+
+\t Jonek [ogia                     erosi]           behar       du
+\m Jon-ek [ogi-a                     erosi]           behar       du
+\g Jon-ERG   bread-SG.ABS      buy.PF     need        have.PRES.S3SG.O3SG
+\l Jon must buy bread
+
+\t (i)       a. Peruk ardoa       edan du
+\m (i)       a. Peruk ardoa       edan du
+\g    Peru-erg wine-D-abs drink Aux-T
+\l Peru drank wine
+
+\t Ardoa/Peru           iritsi  da
+\m Ardoa/Peru           iritsi  da
+\g wine-D-abs/Peru-abs arrived Aux-I
+\l The wine/Peru arrived
+
+\t Jonek liburuak irakurriak         ditu
+\m Jonek liburu-a-k irakurr-i-a-k         ditu
+\g   Jon-erg book-D-pl read-partc-D-pl       Aux-T
+\l Jon has those books read
+
+\t Adiskideak etorriak      dira
+\m Adiskide-a-k etorr-i-a-k      dira
+\g   friend-d-pl come-partc-D-pl Aux-I
+\l My friends have arrived
+
+\t Ez dakit     [ nori e e eman]
+\m Ez dakit     [ nori e e eman]
+\g neg know-I who-Dat give
+\l I don't know whom to give this
+
+\t Joni     esan dio      [zer e egin]
+\m Joni     esan dio      [zer e egin]
+\g Jon-dat say Aux-DT what do
+\l He/she told Jon what to do
+
+\t [Jonek semea eskolan utzi zuen] eta [ e klasera joan zen]
+\m [Jonek semea eskolan utzi zuen] eta [ e klasera joan zen]
+\g Jon-erg son-abs school-in leave Aux-T and class-to go Aux-I
+\l Jon left his son at school, and then he (Jon/*his son) went to class
+
+\t [Nik ikusteko] agindu/eskatu du
+\m [Ni-k ikusteko] agindu/eskatu du
+\g   I-erg see-N-for order/ask-partc Aux-T
+\l *He asked/ordered for me to see it
+
+\t a. Horren egiteko abiatu gara
+\m a. Horren egiteko abiatu gara
+\g   that-g do-N-for set out Aux-I
+\l We set out to do that (lit. ...to do of that)
+
+\t Adiskideek elkar         ikusi     dute
+\m Adiskideek elkar         ikusi     dute
+\g  friends-erg each-other see-partc Aux-T
+\l The friends saw each other
+
+\t Jonek ardoa      ekarri      du
+\m Jonek ardoa      ekarri      du
+\g Jon-erg wine-abs bring-partc Aux-T
+\l Jon brought the wine
+
+\t Jonek saltatu      du
+\m Jonek saltatu      du
+\g Jon-erg jump-partc Aux-T
+\l Jon jumped
+
+\t Elkar        joan ziren
+\m Elkar        joan ziren
+\g    each other go Aux-T
+\l *Each other went
+
+\t Elkarrek          ikusi     dituzte lagunak
+\m Elkarrek          ikusi     dituzte lagunak
+\g    each other-erg see-partc Aux-T friends
+\l Each other saw the friends
+
+\t Nekatuta / etxean dago
+\m Nekatuta / etxean dago
+\g  tired         home-at he-is (in a location)
+\l He is tired/home
+
+\t Gu ez gara nor,      gu ez gara ezer,       gu ez gara ab errilorrean
+\m Gu ez gara nor,      gu ez gara ezer,       gu ez gara ab erri-lorrean
+\g Asp are-Rel ant       miserable some but
+\l We are nobody, we are nothing, we are but miserable ants carrying the country
+
+\t Xab ier      argia       da
+\m Xab ier      argia       da
+\g Xabier-abs intellingent is
+\l Xabier is intelligent
+
+\t Jekill doktorea Mr. Hide zen
+\m Jekill doktorea Mr. Hide zen
+\g Jekill doctor Mr.Hide was
+\l Dr.Jekill was Mr.Hide
+
+\t Xabier      zerbitzari dago              kafetegi horretan
+\m Xabier      zerbitzari dago              kafetegi horretan
+\g Xabier-abs waiter      is-in a location cafe     that-in
+\l Xabier is working as a waiter in that cafe
+
+\t Xabier       zerbitzari(a) da
+\m Xabier       zerbitzari(a) da
+\g Xabier-Abs waiter       is
+\l Xabier is a waiter
+
+\t Badago          gizon bat atean
+\m Badago          gizon bat atean
+\g  Aff-is-location man a at the door
+\l There is a man at the door
+
+\t b. Gizon bat atean dago
+\m b. Gizon bat atean dago
+\g     man a door-at is-loc
+\l There is a man at the door
+
+\t Ez da hor kabitzen
+\m Ez da hor kabitzen
+\g neg Aux-I there fit
+\l It does not fit there
+
+\t Bertatik/hiru egunes        ib ili naiz
+\m Bertatik/hiru egunes        ib ili naiz
+\g there-through/for three days walk Aux-I
+\l I walked over there/for three days
+
+\t  Harainoko bidea/hiru kilometro ib ili dut/ditut
+\m  Harainoko bidea/hiru kilometro ib ili dut/ditut
+\g there-to-g way-D/three kilometers walk Aux-T(sing/plural)
+\l I walked three kilometers/the way to there
+
+\t a. Mendi     horretara igo naiz, baina ez naiz tontorreraino iritsi
+\m a. Mendi     horretara igo naiz, baina ez naiz tontorreraino iritsi
+\g    mountain that-to     climb Aux-I but neg Aux-I top-to            get
+\l I climbed to that mountain, but i didn´t get to the top
+
+\t Mendi     hura igo dut, #baina ez naiz tontorreraino iritsi
+\m Mendi     hura igo dut, #baina ez naiz tontorreraino iritsi
+\g mountain that climb Aux-T but neg Aux-I top-to              get
+\l I climbed that mountain, #but I didn't get to the top
+
+\t Kaxak 200 metro igo       ditut
+\m Kaxak 200 metro igo       ditut
+\g  boxes-D 200 mts take up Aux-T
+\l I took up the boxes 200 meters
+
+\t Kaxak 200 metro jeitsi ditut
+\m Kaxak 200 metro jeitsi ditut
+\g  boxes-D 200 mts take down Aux-T
+\l I took down the boxes 200 meters
+
+\t a. Kamioia Iruna iristen hasi da
+\m a. Kamioia Iruna iristen hasi da
+\g    runner Irun-to arrive begin Aux-I
+\l The truck began to arrive to Irun (a village)
+
+\t Kamioia Iruna      ailegatzen hasi da
+\m Kamioia Iruna      ailegatzen hasi da
+\g  runner stadium-to arrive         begin Aux-I
+\l The truck began to arrive to Irun
+
+\t Paketeak bukatu du iristen
+\m Paketeak bukatu du iristen
+\g package-Erg finish Aux-T arrive-N-Loc
+\l The package finished arriving
+
+\t Paketeak    b ukatu du    ailegatzen
+\m Paketeak    b ukatu du    ailegatzen
+\g package-Erg finish Aux-T arrive-N-Loc
+\l The package finished arriving
+
+\t Kamioia Iruna heltzen         hasi da
+\m Kamioia Iruna heltzen         hasi da
+\g  Truck-abs Irun-to arrive-N-ger begin Aux-I
+\l The truck began to arrive to Irun
+
+\t Heldu           da
+\m Heldu           da
+\g    Arrive-partc Aux-I
+\l It arrived
+
+\t Zakurra bidean gelditu    da
+\m Zakurra bidean gelditu    da
+\g dog-the way-in stop/remain aux
+\l The dog stopped/remained in the way
+
+\t Jonek zakurra gelditu du
+\m Jonek zakurra gelditu du
+\g Jon-Erg dog-the stop aux
+\l Jon stopped the dog
+
+\t Zakurra denb ora luzez egon da     etzanda
+\m Zakurra denb ora luzez egon da     etzanda
+\g  dog-D long         time be/stay Aux-I lying
+\l The dog stayed lying/laid for a long time
+
+\t Ezb ehar bat gertatu da
+\m Ezb ehar bat gertatu da
+\g accident one happen Aux-I
+\l An accident occurred
+
+\t Irrigarri gertatu        gara
+\m Irrigarri gertatu        gara
+\g ridiculous result-partc Aux-I
+\l We found ourselves in ridicule
+
+\t  Horrelako beharrean gertatu        naiz
+\m  Horrelako beharrean gertatu        naiz
+\g such          need        result-partc Aux-I
+\l I found myself in such a need
+
+\t a. Ibaiean zehar /ibaitik        pasatu naiz
+\m a. Ibaiean zehar /ibaitik        pasatu naiz
+\g     river-in through               pass Aux-I
+\l I went through the river
+
+\t Kontrabandoa pasatu    dute
+\m Kontrabandoa pasatu    dute
+\g contraband-D pass-partc Aux-T
+\l They passed the contraband
+
+\t  Halaxe/hori suertatu/fortunatu/tokatu da oraingoan
+\m  Halaxe/hori suertatu/fortunatu/tokatu da oraingoan
+\g so/that        happen-partc by chance      Aux-I this time
+\l So it happened this time/that happened this time (by chance)
+
+\t Untzi bat agertu da     ostertzean
+\m Untzi bat agertu da     ostertzean
+\g ship one appear Aux-I horizon-in
+\l A ship appeared in the horizon
+
+\t Azkenaldian problemak azaldu dira
+\m Azkenaldian problemak azaldu dira
+\g lately         problems pop up Aux
+\l Problems popped up lately
+
+\t Nere borondatea agertu nion
+\m Nere borondatea agertu nion
+\g my will            show Aux-DT
+\l I show him my willingness
+
+\t Teorema azaldu nion
+\m Teorema azaldu nion
+\g  theorem explain Aux-DT
+\l I explained the theorem to him
+
+\t Gorpua desagertarazi        dute
+\m Gorpua desagertarazi        dute
+\g corps   disappear-Cause     Au x
+\l they made the corps disappear
+
+\t Eraikin hura zaharetxe       bihurtu dute
+\m Eraikin hura zahar-etxe       bihurtu dute
+\g building that old folk's home convert Aux-T
+\l they converted that building into an old folk's home
+
+\t Aberatsentzako elkartokia    b ilakatu     dute
+\m Aberatsentzako elkartokia    b ilakatu     dute
+\g rich-for           meeting-club develop-into Aux-T
+\l They developed it into a meeting-club for the rich
+
+\t Triste/pozik jarri da
+\m Triste/pozik jarri da
+\g  sad/glad       put Aux-I
+\l He became sad/glad
+
+\t Atertu       du
+\m Atertu       du
+\g  clear-partc Aux-T
+\l It has become clear
+
+\t Herri horietan bero haundia egiten du/?dago
+\m Herri horietan bero haundia egiten du/?dago
+\g          day-D dark-partc Aux-I/T                 sky     clear Aux-I
+\l The day darkened
+
+\t Hego haizeak eguna berotu       du
+\m Hego haizeak eguna berotu       du
+\g  south wind-Erg day-D warm-partc Aux-T
+\l The south wind warmed the day
+
+\t Hodeiek     eguna ilundu      dute
+\m Hodeiek     eguna ilundu      dute
+\g  clouds-Erg day-D dark-partc Aux-T
+\l The clouds darkened the day
+
+\t [   ]i berotu    du ,            baina [ ]i ez zen berez      hain haize beroa
+\m [   ]i berotu    du ,            baina [ ]i ez zen berez      hain haize beroa
+\g           warm-partc Aux-T, but           not was by itself such warm wind-D
+\l *Iti warmed, but iti wasn't such a hot air
+
+\t [   ]i eguna berotu   du, baina [ ]i ez zen hain haize beroa
+\m [   ]i eguna berotu   du, baina [ ]i ez zen hain haize beroa
+\g          day-D warm-partc Aux-T, but          not was such warm wind-D
+\l It warmed the day, but it wasn't such a hot air
+
+\t Ifar poloan hotz haundia egiten du/?dago
+\m Ifar poloan hotz haundia egiten du/?dago
+\g north pole-in cold big         do-Hab Aux-T/be-in a location
+\l In the north pole, it is very cold (as a property of the pole)
+
+\t Euria ari du
+\m Euria ari du
+\g  rain ari Aux-T
+\l It is raining
+
+\t  N o b el a b e rr i b a t h a s i d u
+\m  N o b el a b e rr i b a t h a s i d u
+\g novel new one begin Aux-T
+\l He began a new novel
+
+\t Bere b urutazioak idazten ib iltzen da
+\m Bere b urutazioak idazten ib iltzen da
+\g my memories writing walking Aux-I
+\l He is/keeps writing his thoughts
+
+\t Ohitzen           joan d a
+\m Ohitzen           joan d a
+\g Custom-N-Loc go Aux-I
+\l He has got used to it gradually
+
+\t Xab ier irrifarre egiten saiatu/ahalegindu da
+\m Xab ier irrifarre egiten saiatu/ahalegindu da
+\g Xabier smile do-N-loc try                             Aux-I
+\l Xabier tried to smile
+
+\t  Mirenek soineko berria saiatu du
+\m  Mirenek soineko berria saiatu du
+\g Miren-Erg dress     new try       Aux-T
+\l Miren tried a new dress
+
+\t Jonek bere b urua ispiluan        ikusi du
+\m Jonek bere b urua ispiluan        ikusi du
+\g Jone-Erg his head     in the mirror see Aux-T
+\l Jon saw himself in the mirror
+
+\t Jon ispiluan ikusi da
+\m Jon ispiluan ikusi da
+\g jon mirror-in see Aux-I
+\l Jon saw himself in the mirror
+
+\t Xabier     etengabe    goraipatu da
+\m Xabier     etengabe    goraipatu da
+\g Xabier-Abs continuously praise      Aux-I
+\l Xabier has praised himself continuously
+
+\t Xabierrek etengabe    bere b urua goraipatu du
+\m Xabierrek etengabe    bere b urua goraipatu du
+\g Xabier-Erg continuously his head praise Aux-T
+\l Xabier has praised himself continuously
+
+\t Bab estu     gara      b. Gure buruak bab estu    ditugu
+\m Bab estu     gara      b. Gure buruak bab estu    ditugu
+\g protect-partc Aux-I             our heads-abs protect-partc Aux-T
+\l We protected ourselves
+
+\t Gerrilariak basora babestu        dira
+\m Gerrilariak basora babestu        dira
+\g partisans-abs wood-to protect-partc Aux-I
+\l The partisans protected themselves into the woods
+
+\t Gerrilariak beren b uruak basora  babestu     dituzte
+\m Gerrilariak beren b uruak basora  babestu     dituzte
+\g  partisans their heads-abs woods-to protect-partc Aux-T
+\l The partisans protected themselves inmto the woods
+
+\t a.Gerrilariek basoan bab estu      dituzte b eren buruak
+\m a.Gerrilariek basoan bab estu      dituzte b eren buruak
+\g    partisans-erg wood-in protect-partc Aux-T their heads-abs
+\l The partisans protected themselves in the wood
+
+\t Xabier    zubiazpian            b ota da
+\m Xabier    zubiazpian            b ota da
+\g Xabier-abs under the bridge-loc throw Aux-I
+\l Xabier threw himself under the bridge
+
+\t Xabierrek bere b urua zubiazpian bota    du
+\m Xabierrek bere b urua zubiazpian bota    du
+\g Xabier-erg his head-abs under the bridge-loc Aux-T
+\l Xabier threw himself under the bridge
+
+\t Xabierrek b ere burua zubiazpira         bota du
+\m Xabierrek b ere burua zubiazpira         bota du
+\g Xabier-erg his head-abs under the bridge-to throw Aux-T
+\l Xabier threw himself (to) under the bridge
+
+\t Xabierrek zakurra garbitu du
+\m Xabierrek zakurra garbitu du
+\g Xabier-erg dog-Abs wash Aux-T
+\l Xabier washed the dog
+
+\t Xabier    garbitu da
+\m Xabier    garbitu da
+\g Xabier-abs wash Aux-I
+\l Xabier washed
+
+\t Mirenek panpina jantzi du
+\m Mirenek panpina jantzi du
+\g Miren-erg doll      dress Aux-T
+\l Miren dressed her doll
+
+\t Mirenek b ere burua jantzi du
+\m Mirenek b ere burua jantzi du
+\g   Miren-erg his head dress Aux-T
+\l Miren dressed up
+
+\t Mirenek bere burua garbitu du
+\m Mirenek bere burua garbitu du
+\g     Miren-erg his head wash Aux-T
+\l Miren washed
+
+\t Mirenek ilea idortu du
+\m Mirenek ilea idortu du
+\g Miren-erg hair dry     Aux-T
+\l Miren dried up her hair
+
+\t Mirenek b ere burua idortu du
+\m Mirenek b ere burua idortu du
+\g   Miren-erg his head dry       Aux-T
+\l Miren dried herself up
+
+\t Xabier     ordubietan Jonengana joan da.             Lauretarako           iritsi gabea         zen (oraindik)
+\m Xabier     ordubietan Jonengana joan da.             Lauretarako           iritsi gabea         zen (oraindik)
+\g  Xabier-abs two o'clock-at Jon-to      go Aux-I(abs-dat) four-by           arrived without-Det was yet        
+\l Xabier went to Miren at two o'clock. By four o'clock he wasn't yet there
+
+\t Xabier    Mireni     ordubietan joan zaio.        # Lauretarako iritsi       gab ea       ze n
+\m Xabier    Mireni     ordubietan joan zaio.        # Lauretarako iritsi       gab ea       ze n
+\g Xabier-abs Miren-dat two o'clock go Aux-I(abs-dat) four o'clock-by arrive    without-Det was  
+\l Xabier went to Miren at two o'clock. By four o'clock he wasn't yet there
+
+\t a. Jonen adiskide bat    joan da
+\m a. Jonen adiskide bat    joan da
+\g   Jon-g friend one-abs leave Aux-I
+\l A friend of Jon left
+
+\t b. Joni adiskide b at joan zaio
+\m b. Joni adiskide b at joan zaio
+\g   Jon-dat friend one leave Aux(dat-abs)
+\l A friend of Jon left
+
+\t Hori     baliatu    z aio
+\m Hori     baliatu    z aio
+\g that-abs profit-partc Aux(dat-abs)
+\l That was profitable to him
+
+\t Hori baliatu        du
+\m Hori baliatu        du
+\g that-abs profit-partc Aux-T
+\l He made that profitable
+
+\t Zauriari odola dario
+\m Zauriari odola dario
+\g wound-dat blood spill(dat-abs)
+\l The wound bleeds
+
+\t Lehioko kristalak distiratu        du
+\m Lehioko kristalak distiratu        du
+\g window-of glass-erg shine-partc Aux-T
+\l The glass in the window shone
+
+\t Kristalak lurra distiratu      du
+\m Kristalak lurra distiratu      du
+\g   glass-erg floor shine-partc Aux-T
+\l *The glass shone the floor (made the floor shine)
+
+\t Jolas polit bat jolastu zuten
+\m Jolas polit bat jolastu zuten
+\g play nice one play-partc Aux-T
+\l They played a nice play
+
+\t Abraracourcixek b orroka luze b at borrokatzen du    istorio horretan
+\m Abraracourcix-ek b orroka luze b at borrokatzen du    istorio horretan
+\g Abraracourcix-erg fight       long one fight-ger    Aux-T story that-loc
+\l Abraracourcix fights a long fight in that story
+
+\t Jonek dantza b at dantza egin du
+\m Jonek dantza b at dantza egin du
+\g   Jon-erg dance one dance do Aux-T
+\l Jon danced a dance
+
+\t Jon    Urtainen kontra borrokatu da
+\m Jon    Urtainen kontra borrokatu da
+\g Jon-abs Urtain-g against fight-partc Aux-T
+\l Jon fought against Urtain
+
+\t Jonek b i dantza dantzatu ditu
+\m Jonek b i dantza dantzatu ditu
+\g Jon-erg two dance-abs dance-partc Aux-T
+\l Jon danced two dances
+
+\t Berrogei egun eta b errogei gau b arautu     zituen
+\m Berrogei egun eta b errogei gau b arautu     zituen
+\g forty day and forty           night fasten-partc Aux-T
+\l He fastened for forty days and forty nights
+
+\t Urtain     b orrokatu du     Jonek
+\m Urtain     b orrokatu du     Jonek
+\g Urtain-abs fight-partc Aux-T Jon-erg
+\l Jon fought Urtain
+
+\t Gu baino sendoagorik ez dugu ba gudukatuko
+\m Gu baino sendoagorik ez dugu ba gudukatuko
+\g us than stronger-part neg aux-T then war-partc-fut
+\l We want war those who are stronger that us, then
+
+\t Berriak Mikel      dardaratu du
+\m Berriak Mikel      dardaratu du
+\g   news-erg Mikel-abs tremble-partc Aux-T
+\l *The news trembled Mikel (made Mikel tremble)
+
+\t  Berriak Mikel   dardaraerazi du
+\m  Berriak Mikel   dardara-erazi du
+\g News-erg Mikel-abs tremble-cause Aux-T
+\l The news made Mikel tremble
+
+\t Pailazoak haurrak     jolastu  ditu
+\m Pailazoak haurrak     jolastu  ditu
+\g   clown-erg children-abs play-partc Aux-T
+\l The clown played the children (made the children play)
+
+\t Patxik soroan garia        erein du
+\m Patxik soroan garia        erein du
+\g Patxi-erg field-in wheat-abs sow Aux-T
+\l Patxi sowed wheat in the field
+
+\t Patxik soroa       gariz      erein du
+\m Patxik soroa       gariz      erein du
+\g Patxi-erg field-abs wheat-instr sow Aux-T
+\l Patxi sowed the field with wheat
+
+\t Patxik sagarrak kamioian kargatu ditu
+\m Patxik sagarrak kamioian kargatu ditu
+\g Patxi-erg apples-abs truck-in load     Aux-T(pl.abs)
+\l Patxi loaded the apples in the truck
+
+\t Patxik kamioia sagarrez kargatu zuen
+\m Patxik kamioia sagarrez kargatu zuen
+\g Patxi-erg truck-abs apple-instr load   Aux-T
+\l Patxi loaded the truck with apples
+
+\t Artaburuak aletu        dira
+\m Artaburuak aletu        dira
+\g corn-ears-abs pit-partc Aux-I
+\l The corn (ears of) grew pits
+
+\t Adarrak      kimatu dira
+\m Adarrak      kimatu dira
+\g  Branches-abs bud-partc Aux-I
+\l The branches budded
+
+\t Txitak     lumatu        dira
+\m Txitak     lumatu        dira
+\g chicks-abs grew-feathers-partc Aux-I
+\l The chicks grew feathers
+
+\t Txitak    lumatu      dituzte
+\m Txitak    lumatu      dituzte
+\g chicks-abs pluck-partc Aux-T
+\l They plucked the chicks
+
+\t Jonek lan egiten du
+\m Jonek lan egiten du
+\g  Jon-Erg work do-Gen Aux-T
+\l Jon works
+
+\t Mikelek salto egin du
+\m Mikelek salto egin du
+\g  Mikel-Erg jump do Aux-T
+\l Mikel jumped
+
+\t Jonek dantza egin du
+\m Jonek dantza egin du
+\g  Jon-erg dance do Aux-T
+\l Jon danced
+
+\t Jonek dantza egin du
+\m Jonek dantza egin du
+\g Jon-Erg dance do Aux-T
+\l Jon danced
+
+\t DANTZA egin du       Jonek
+\m DANTZA egin du       Jonek
+\g dance      do Aux-T Jon-Erg
+\l Jon DANCED
+
+\t Dantza, Jonek EGITEN du
+\m Dantza, Jonek EGITEN du
+\g dance Jon-Erg do-freq Aux-T
+\l As for dancing, Jon does dance
+
+\t Ez du zirkinik egiten
+\m Ez du zirkinik egiten
+\g neg Aux move-part do-prog
+\l He doesnt move (at all)
+
+\t Ez du      eztulik    egin
+\m Ez du      eztulik    egin
+\g neg Aux-T cough-part do
+\l He didn't cough (a single time)
+
+\t Joni     dantza eginarazi diote
+\m Joni     dantza eginarazi diote
+\g  Jon-dat dance do-cause Aux-DT
+\l They made Jon dance
+
+\t Jon       dantzarazi dute
+\m Jon       dantzarazi dute
+\g  Jon-abs dance-cause Aux-T
+\l They made Jon dance
+
+\t Joni      dantzarazi diote
+\m Joni      dantzarazi diote
+\g   Jon-dat dance-cause Aux-DT
+\l They made Jon dance
+
+\t Jonek dantza b at dantzatu du
+\m Jonek dantza b at dantzatu du
+\g Jon-Erg dance a dance-partc Aux-T
+\l Jon danced a dance
+
+\t Jonek dantza bat dantza egin du
+\m Jonek dantza bat dantza egin du
+\g   Jon-Erg dance a dance do Aux-T
+\l Jon danced a dance
+
+\t Zoro batek oinezko         b i ri   harrika egin zien
+\m Zoro batek oinezko         b i ri   harrika egin zien
+\g fool one-Erg pedestrians two-Dat stone-adv do Aux-DT
+\l A fool threw stones at two pedestrians
+
+\t Zoro batek oinezko          bi       harrikatu    zituen
+\m Zoro batek oinezko          bi       harrikatu    zituen
+\g fool one-Erg pedestrians two-Dat shoot-partc Aux-T
+\l A fool stoned two pedestrians
+
+\t Zakurrak hondakinei usna egin zien
+\m Zakurrak hondakinei usna egin zien
+\g dog-Erg garbage-dat smell do Aux-DT
+\l The dog smelled at the garbage
+
+\t Zakurrak hondakinak usnatu          zituen
+\m Zakurrak hondakinak usnatu          zituen
+\g dog-Erg garbage             smell-partc Aux-T
+\l The dog smelled (all) the garbage
+
+\t Jonek mahaiari (*b azterrera) bultza egin zion
+\m Jonek mahaiari (*b azterrera) bultza egin zion
+\g Jon-Erg table-Dat corner-to push do Aux-DT
+\l Jon pushed at the table (*to the corner)
+
+\t Jonek mahaia bazterrera b ultzatu zuen
+\m Jonek mahaia bazterrera b ultzatu zuen
+\g Jon-Erg table corner-to push-partc Aux
+\l Jon pushed the table to the corner
+
+\t Mikel b azterrera b ultzatu du
+\m Mikel b azterrera b ultzatu du
+\g Mikel corner-to push-partc Aux-T
+\l He pushed Mikel to the corner
+
+\t Mikeli (*bazterrera) bultzatu dio
+\m Mikeli (*bazterrera) bultzatu dio
+\g Mikel-Dat corner-to push-partc Aux-DT
+\l He pushed at Mikel (*to the corner)
+
+\t Nork   hartu du     min?
+\m Nork   hartu du     min?
+\g Who-erg pain Aux-T pain
+\l He/she hurt him/her in two minutes
+
+\t Proposamena goizeko          b ilkuran     onetsi/onartu      dute
+\m Proposamena goizeko          b ilkuran     onetsi/onartu      dute
+\g proposal-abs morning-of meeting-loc accept-partc                   Aux-T
+\l They accepted the offer in this morning's meeting
+
+\t Abertzale gehienek atentatua              gaitzetsi      dute
+\m Abertzale gehienek atentatua              gaitzetsi      dute
+\g nationalist most-erg terrorist act-abs condemn-partc Aux-T
+\l ´Most nationalists condemned the terrorist action
+
+\t c. ?Ehun      urte eta gero, pintura zahar horiek ederretsi           dituzte
+\m c. ?Ehun      urte eta gero, pintura zahar horiek ederretsi           dituzte
+\g      hundred year and then painting old those-abs consider beautiful Aux-T
+\l One hundred years later, they have considered those old pictures as beatiful
+
+\t Jonek hori       atzo         irrikatu/desiratu zuen
+\m Jonek hori       atzo         irrikatu/desiratu zuen
+\g   Jon-erg that-abs yesterday desire-partc              Aux-T
+\l *Jon desired that yesterday
+
+\t Jonek ez du         h o ri      era m a n
+\m Jonek ez du         h o ri      era m a n
+\g Jon-erg neg Aux-T that-abs bring
+\l Jon didn´t bring that/*Jon didn´t bear that
+
+\t c. Jonek ezin      du       hori eraman
+\m c. Jonek ezin      du       hori eraman
+\g   Jon-erg cannot Aux-T that bear
+\l Jon cannot bear/stand that
+
+\t Nere adiskideek errespetatzen naute
+\m Nere adiskideek errespetatzen naute
+\g my friends-erg respect-impf Aux-T
+\l My friends respect me/have me respect
+
+\t Nere adiskideek errespetatu naute
+\m Nere adiskideek errespetatu naute
+\g my friends-erg respect-partc Aux-T
+\l My friends showed me respect
+
+\t Horrekin tematu/setatu/ ob sesionatu da
+\m Horrekin tematu/setatu/ ob sesionatu da
+\g that-with become stubborn/obsess-partc Aux-I
+\l He became stubborn at that/obsessed with that
+
+\t Horretaz oroitu/akordatu da
+\m Horretaz oroitu/akordatu da
+\g that-instr remember        Aux-I
+\l He remembered that
+
+\t Xabierrek [musika hori gorroto ] du
+\m Xabierrek [musika hori gorroto ] du
+\g Xabier-erg music that hate          Aux-T
+\l Xabier hates that music
+
+\t Xabierrek barazkiak gorroto ditu
+\m Xabierrek barazkiak gorroto ditu
+\g Xabier-erg vegetables hate     Aux-T-plural
+\l Xabier hates vegetables
+
+\t Xabierrek [ barazkiak   er o s i ] nahi ditu
+\m Xabierrek [ barazkiak   er o s i ] nahi ditu
+\g Xabier-erg vegetables-abs buy-partc want Aux-T-plural
+\l Xabier wants to buy vegetables
+
+\t  Xabierrek [ b arazkiak  erostea ]     nahi du
+\m  Xabierrek [ b arazkiak  erostea ]     nahi du
+\g Xabier-erg vegetables-abs buy-nom-Det want Aux-T-sing
+\l Xabier wants someone else to buy vegetables
+
+\t Hori    bisitatu gogo du
+\m Hori    bisitatu gogo du
+\g that-abs visit-partc wish Aux-T
+\l He wishes to visit that
+
+\t  Xab ierrek bere burua zubiazpian     b ota behar du/*da
+\m  Xab ierrek bere burua zubiazpian     b ota behar du/*da
+\g Xabier-erg his head-abs under the bridge throw must Aux-T/I
+\l Xabier must throw himself under the bridge
+
+\t  Haserre/Beldur daude
+\m  Haserre/Beldur daude
+\g Anger / fear     are-in a location
+\l They are angry/fearful
+
+\t a.Eman daroat
+\m a.Eman daroat
+\g   Give carry-T(erg-abs)
+\l I usually give it
+
+\t Jonek      Mireni ardoa      ekarri dio
+\m Jonek      Mireni ardoa      ekarri dio
+\g Jon-e    rg Miren-dat wine-abs bring Aux-DT
+\l Jon b    rought wine for Miren
+
+\t Lanari ekin dio
+\m Lanari ekin dio
+\g work-dat engage-in Aux-DT
+\l He began to work, he engaged in working
+
+\t Eragon beti gauza onen bati (S. )
+\m Eragon beti gauza onen bati (S. )
+\g hold-on always thing good-g one-dat
+\l Hold on to some good thing always
+
+\t Emaztea hil eta gero, negarrari eman zion
+\m Emaztea hil eta gero, negarrari eman zion
+\g wife-abs die and after, cry-D-dat give Aux-DT
+\l After his wife died, he cried very often (gave himself to crying)
+
+\t Eman du     haurrari
+\m Eman du     haurrari
+\g    Give Aux-T child-dat
+\l He gave it to the child
+
+\t Xabier    b ulegora deitu        dute
+\m Xabier    b ulegora deitu        dute
+\g Xabier-abs office-ad call-partc Aux-T
+\l They called Xabier to the     office
+
+\t Xabierri bulegora deitu           diote
+\m Xabierri bulegora deitu           diote
+\g Xabier-dat office-adl call-partc Aux-DT
+\l They called Xabier to the     office
+
+\t Autobusera bultzatu gaituzte
+\m Autobusera bultzatu gaituzte
+\g bus-adl        push-partc Aux-T
+\l They pushed us into the bus
+
+\t Autobusean/?Autob usera b ultzatu digute
+\m Autobusean/?Autob usera b ultzatu digute
+\g bus-loc/adl                      push-partc Aux-DT
+\l They pushed us in the bus
+
+\t Autob usera b ultza egin digute
+\m Autob usera b ultza egin digute
+\g   bus-adl       push do Aux-DT
+\l They pushed us into the bus
+
+\t Ezezagun batzuek lagundu gaituzte
+\m Ezezagun batzuek lagundu gaituzte
+\g unknown some-erg help-partc Aux-T
+\l Unknown people helped us
+
+\t Ezezagun batzuek lagundu           digute
+\m Ezezagun batzuek lagundu           digute
+\g unknown some-erg help/accompany-partc Aux-DT
+\l Unknown people helped/accompanied us
+
+\t  Nik alproja horiek   adiskide(ak) ditut
+\m  Nik alproja horiek   adiskide(ak) ditut
+\g I-erg cur     those-abs friend(s)      Aux-T
+\l Those curs are my friends
+
+\t Nork deitzen du ?        Beren anaia da / ??Anaia dute
+\m Nork deitzen du ?        Beren anaia da / ??Anaia dute
+\g who call-ger Aux-T their brother Aux-I/ brother Aux-T
+\l Who's calling? It is their brother/??He is their brother
+
+\t Gela hori       etxearen ganbara da
+\m Gela hori       etxearen ganbara da
+\g room that-abs house-G loft         Aux-I
+\l That room is the loft of the house
+
+\t Etxeak      gela hori      ganb ara du
+\m Etxeak      gela hori      ganb ara du
+\g House-erg room that-abs loft          Aux-T
+\l That room is the loft of the house
+
+\t (Hango hura ) Eusko Jaurlaritzaren b ozeramailea                 da
+\m (Hango hura ) Eusko Jaurlaritzaren b ozeramailea                 da
+\g  that one-abs Basque Government-G spokesman/woman-abs is
+\l That one is the spokesman/woman of the Basque Government
+
+\t (Hango hura ) Eusko Jaurlaritzak          b o z er a m a i l e du
+\m (Hango hura ) Eusko Jaurlaritzak          b o z er a m a i l e du
+\g   that one-abs Basque Government-erg spokesman/woman has
+\l That one is the spokesman/woman of the government
+
+\t Jonek Aitor      anaia du
+\m Jonek Aitor      anaia du
+\g Jon-erg Aitor-abs brother Aux-T
+\l Aitor is Jon's brother
+
+\t Jonek kotxeak lanb ide ditu
+\m Jonek kotxeak lanb ide ditu
+\g Jon-erg cars-abs job      Aux-T
+\l Cars are Jon's occupation
+
+\t Nere eskuak ikara/bero      daude
+\m Nere eskuak ikara/bero      daude
+\g my hands-abs trembling/hot are-in a location
+\l My hands are trembling
+
+\t (*Nere) eskuak  ikara/b ero    ditut
+\m (*Nere) eskuak  ikara/b ero    ditut
+\g  I-erg my hands-abs trembling/hot Aux-T
+\l I have my hands trembling
+
+\t Jonek patata zakuak jaitsi        ditu
+\m Jonek patata zakuak jaitsi        ditu
+\g  Jon-erg potato sacks-abs take down Aux-T
+\l Jon took down the potato sacks
+
+\t Jonek 50 metro jaitsi          ditu urpean
+\m Jonek 50 metro jaitsi          ditu urpean
+\g Jon-erg 50 meters descend-partc Aux-T underwater
+\l Jon descended 50 meters
+
+\t Jonek patatak       jaitsi   dizkit
+\m Jonek patatak       jaitsi   dizkit
+\g Jon-erg potatoes-abs take down Aux-DT
+\l Jon took down my potatoes/Jon took down the potatoes on my interest
+
+\t Eskutitza Madriletik/n iritsi     zitzaion
+\m Eskutitza Madriletik/-n iritsi     zitzaion
+\g letter-abs Madrid-abl/loc arrive-partc Aux-I-dat-abs
+\l The letter got to him from/in Madrid
+
+\t Eskutitza Madrilera iritsi zaio
+\m Eskutitza Madrilera iritsi zaio
+\g   letter-abs Madrid-adl arrive Aux-I-dat-abs
+\l The letter got to him to Madrid (to his address in madrid)
+
+\t Mikelek Jonen kotxea hautsi     du
+\m Mikelek Jonen kotxea hautsi     du
+\g mikel-erg Jon-g car-abs break-partc Aux-T
+\l Mikel broke Jon's car
+
+\t Mikelek Joni (b ere) kotxea hautsi    dio
+\m Mikelek Joni (b ere) kotxea hautsi    dio
+\g Mikel-erg Jon-dat his car      break-partc Aux-DT
+\l Mikel broke his car to Jon
+
+\t Mikelek Jonen sudurra hautsi du
+\m Mikelek Jonen sudurra hautsi du
+\g Mikel-erg Jon-g nose-abs break Aux-T
+\l Mikel broke Jon's nose
+
+\t Mikelek Joni (*bere) sudurra hautsi     dio
+\m Mikelek Joni (*bere) sudurra hautsi     dio
+\g Mikel-erg Jon-dat his nose-abs break-partc Aux-DT
+\l Mikel broke Jon his nose
+
+\t Mikelek Jonen beso b at     hautsi du
+\m Mikelek Jonen beso b at     hautsi du
+\g Mikel-erg Jon-g arm one-abs break Aux-T
+\l Mikel broke one of Jon's arms
+
+\t Mikelek Joni    bere b eso(etako) bat hautsi dio
+\m Mikelek Joni    bere b eso(etako) bat hautsi dio
+\g Mikel-erg Jon-dat his arm(loc-g) one break Aux-DT
+\l Mikel broke Jon one of his arms
+
+\t San Vicenteren besoa hautsi dute
+\m San Vicenteren besoa hautsi dute
+\g  Saint Vincent-g arm-abs break Aux-T
+\l They broke Saint Vincent's arm
+
+\t San Vicenteri    besoa hautsi diote
+\m San Vicenteri    besoa hautsi diote
+\g Saint Vincent-dat arm-abs break Aux-DT
+\l They broke Saint Vincent's arm
+
+\t Mikelek b esoa hautsi du
+\m Mikelek b esoa hautsi du
+\g Mikel-erg arm-abs break Aux-T
+\l Mikel broke his arm
+
+\t Mikel   b esoa hautsi      da
+\m Mikel   b esoa hautsi      da
+\g Mikel-abs arm-abs break-partc Aux-I
+\l Mikel broke his arm
+
+\t Mikelek b esoa nahita      hautsi        du
+\m Mikelek b esoa nahita      hautsi        du
+\g Mikel-erg arm-abs voluntarily break-partc Aux-T
+\l Mikel broke his arm voluntarily
+
+\t Mikel    b e so a nahita     hautsi da
+\m Mikel    b e so a nahita     hautsi da
+\g    Mikel-abs arm-abs voluntarily break Aux-I
+\l Mikel broke his arm voluntarily
+
+\t Adiskideak besoak hautsi dira
+\m Adiskideak besoak hautsi dira
+\g   friends-abs arms-abs break Aux-I
+\l My friends broke their arms
+
+\t Adiskideak besoa hautsi dira
+\m Adiskideak besoa hautsi dira
+\g   friends-abs arm-abs break Aux-I(plural)
+\l My friends broke (each) an arm
+
+\t Adiskidea besoak hautsi da/dira
+\m Adiskidea besoak hautsi da/dira
+\g    friend-abs arms-abs break Aux-I(sing/plural)
+\l My friend broke his arms
+
+\t Gogoratu naizena        hori/horretaz da
+\m Gogoratu naizena        hori/horretaz da
+\g   recall-partc Aux-I-rel-D that-abs/instr     Aux-I
+\l What I recall is that
+
+\t Gogoratu dudana          hori    da
+\m Gogoratu dudana          hori    da
+\g recall-partc Aux-T-rel-D that-abs Aux-I
+\l What I recall is that
+
+\t    Horretaz mintzatu naiz
+\m    Horretaz mintzatu naiz
+\g That-about talk-partc Aux-I
+\l I talked about that
+
+\t    Nago              ez direla        garaiz etorriko
+\m    Nago              ez direla        garaiz etorriko
+\g Am-in a location neg Aux-I-Comp in time come-fut
+\l I think (am in the opinion) that they will not be on time
+
+\t Ez nago              etorriko direla/enik
+\m Ez nago              etorriko dir-ela/-enik
+\g   neg am-in a location come-fut Aux-I-Comp
+\l I don´t think that they will come
+
+\t a. Egingo nuke Xabier      taberna horretan dagoela
+\m a. Egingo nuke Xabier      taberna horretan dagoela
+\g     Do-fut hyp-T Xabier-abs pub       that-in   is-in a location-Comp
+\l I would say that Xabier is in that pub
+
+\t Egin nuen nere arterako lan hura       ez zela        komeni
+\m Egin nuen nere arterako lan hura       ez zela        komeni
+\g do Aux-T my own-for work that-abs neg was-Comp convenient
+\l I said to myself that that work wasn't convenient
+
+\t a. Emango nuke uzta ederra izango dugula
+\m a. Emango nuke uzta ederra izango dugula
+\g give-fut Aux-T-hyp good be-fut Aux-T-Comp
+\l I would say that we will have a good harvest
+
+\t Eman nuen ez zela             etorriko
+\m Eman nuen ez zela             etorriko
+\g give Aux-T neg Aux-I-Comp come-fut
+\l I conjectured that he would not come
+
+\t  Tontotzat jo dute
+\m  Tontotzat jo dute
+\g Dumb-pro hit Aux-T
+\l They considered him as dumb
+
+\t Iduri du  Jon    h a s err e  dagoela
+\m Iduri du  Jon    h a s err e  dagoela
+\g seem Aux-T Jon-abs angry be-in a location-Comp
+\l It seems that Jon is angry
+
+\t Jonek iduri du      b ere taldeak galdu duela
+\m Jonek iduri du      b ere taldeak galdu duela
+\g   Jon-erg seem Aux-T his team-erg lose-partc Aux-T-Comp
+\l *Jon seems that his team lost
+
+\t Nonbait, Xab ier    Joni    iruditu zaio           ez dela     joango
+\m Nonbait, Xab ier    Joni    iruditu zaio           ez dela     joango
+\g  Apparently, Xabier-abs Jon-dat seem Aux-I(dat.abs) neg Aux-I-Comp go-fut
+\l *Apparently, Xabier seems to Jon that (Xabier) will not come
+
+\t Jonek Xabier       etorriko dela          dio
+\m Jonek Xabier       etorriko dela          dio
+\g Jon-erg Xabier-abs come-fut Aux-I-Comp he-says
+\l Jon says that Xabier will come
+
+\t Nik horri interesgarri deritzot
+\m Nik horri interesgarri deritzot
+\g  I-erg that-dat interesting judge(dat-abs-erg)
+\l I judge that as interesting
+
+\t Pellok barre galantakØ egin ditu
+\m Pellok barre galantak-Ø egin ditu
+\g Peter.E laugh nice.Pl-A make AUX
+\l Peter had a good laugh
+
+\t Pellok barre(Ø) egin du
+\m Pellok barre(-Ø) egin du
+\g Peter.E laugh(-A) make AUX
+\l Peter laughed
+
+\t Pellok garai berriez          amets egin       du
+\m Pellok garai berriez          amets egin       du
+\g Peter.E time new.DETpl.INS dream make.PF AUX
+\l Peter dream of new times
+
+\t Pellok garai berriak       amets egin ditu
+\m Pellok garai berriak       amets egin ditu
+\g  Peter.E time new.DETpl.A dream make.PF AUX
+\l Peter dreamt of new times
+
+\t Pellok garai berriak       amestu ditu
+\m Pellok garai berriak       amestu ditu
+\g Peter.E time new.DETpl.A dream.PF AUX
+\l Peter dreamt of new times
+
+\t Pellok garai berriak          datozela               amets egin  du
+\m Pellok garai berriak          datozela               amets egin  du
+\g  Peter.E time new.DETpl.A come.3pl.A.COMP dream make.PF AUX
+\l Peter dreamt that new times were coming.
+
+\t Ez dut haragi           jan
+\m Ez dut haragi           jan
+\g   NEG AUX meat.IND.A eat.PF
+\l I did n't eat meat
+
+\t Ez dut haragirik          jan
+\m Ez dut haragirik          jan
+\g NEG AUX meat.PART eat.PF
+\l I didn't eat (any) meat
+
+\t Ez oihurik     egin!
+\m Ez oihurik     egin!
+\g NEG shout.PART make
+\l Don't shout!
+
+\t Gehiegi          [udareak]     jan  ditut
+\m Gehiegi          [udareak]     jan  ditut
+\g   too-much/many pear(ARTpl).A eat.PF AUX
+\l I ate pears too much
+
+\t [Udare gehiegi]         jan dut
+\m [Udare gehiegi]         jan dut
+\g   pear too-many.IND.A eat.PF AUX
+\l I ate too many pears
+
+\t [Haragi gutxi] jan    dut
+\m [Haragi gutxi] jan    dut
+\g   meat little eat.PF AUX
+\l I didn't eat much meat
+
+\t d     *Gutxi [haragia] jan     dut
+\m d     *Gutxi [haragia] jan     dut
+\g         little meat.A eat.PF AUX
+\l I didn't eat meat much
+
+\t [Lo gutxi] egin       dut
+\m [Lo gutxi] egin       dut
+\g   sleep little make.PF AUX
+\l I didn't sleep much
+
+\t [Lan gehiegi ]       egin dut
+\m [Lan gehiegi ]       egin dut
+\g   work too-much/many do.PF AUX
+\l I wo rked too much
+
+\t a     Haragia   jan     dut, ez ogia
+\m a     Haragia   jan     dut, ez ogia
+\g       meat.DET.A eat.PF AUX NEG bread.DET.A
+\l I ate meat, not bread
+
+\t Diru biltzen             hasi     naiz, ez    liburu
+\m Diru biltzen             hasi     naiz, ez    liburu
+\g  money collect.NOM.IN start.PF AUX NEG book
+\l I started money- collecting, not book
+
+\t Diru biltzen             hasi     naiz, ez liburuak
+\m Diru biltzen             hasi     naiz, ez liburuak
+\g money collect.NOM.IN start.PF AUX NEG book.DETpl.A
+\l I started money- collecting, not books
+
+\t Sagar jan     dut
+\m Sagar jan     dut
+\g   apple eat.PF AUX
+\l I ate apple
+
+\t Lo egin       dut
+\m Lo egin       dut
+\g sleep make.PF AUX
+\l I slept
+
+\t Ez dut etxe egin
+\m Ez dut etxe egin
+\g   NEG AUX ho use make.PF
+\l I didn't build a/any house
+
+\t Ez dut etxerik            egin
+\m Ez dut etxerik            egin
+\g NEG AUX house.PART make.PF
+\l I didn't build a/any house
+
+\t Ez dut lo egin
+\m Ez dut lo egin
+\g NEG AUX sleep make.PF
+\l I didn't sleep
+
+\t Pellok zure lana          ongi egin du
+\m Pellok zure lana          ongi egin du
+\g Peter.E your work DET.A well do.PF AUX
+\l Peter did your work well
+
+\t Pellok ongi zure lana        egin du
+\m Pellok ongi zure lana        egin du
+\g  Peter.E well your work.DET.A do.PF AUX
+\l Peter did well your work
+
+\t Pellok ongi lan      egin du
+\m Pellok ongi lan      egin du
+\g Peter.E well work do.PF AUX
+\l Peter worked well
+
+\t Pellok lan ongi egin du
+\m Pellok lan ongi egin du
+\g  Peter.E work well do.PF AUX
+\l Peter worked well
+
+\t Ohea        eta eskolako            lanak           egin ditut
+\m Ohea        eta eskolako            lanak           egin ditut
+\g bed.DET.A and school.DET.IN.ADN work.DETpl.A do.PF AUX
+\l I made the bed and [did] the homework
+
+\t Ele          eta lan egin dut
+\m Ele          eta lan egin dut
+\g conversation and work do.PF AUX
+\l I chatted and worked
+
+\t [ele          eta eskolako         lanak]       egin ditut
+\m [ele          eta eskolako         lanak]       egin ditut
+\g   conversation and school.DET.IN.ADN work.DETpl.A do.PF AUX
+\l I chatted and did the homework
+
+\t Lo ederra        egin duzu
+\m Lo ederra        egin duzu
+\g sleep fine DET.A do.PF AUX
+\l You slept well
+
+\t Lo    eder egin duzu
+\m Lo    eder egin duzu
+\g  sleep fine do.PF AUX
+\l You slept well
+
+\t Parisen bizi naiz
+\m Parisen bizi naiz
+\g Paris.IN living be.1A
+\l I live in Paris
+
+\t Paris ederrean              bizi naiz
+\m Paris ederrean              bizi naiz
+\g Paris beautiful.DETsg.IN living be.1A
+\l I live in beautiful Paris
+
+\t Paris ederre(ta)n          bizi naiz
+\m Paris ederre(ta)n          bizi naiz
+\g   Paris beautiful.(IND).IN living be.1A
+\l I live in beautiful Paris
+
+\t Garai hartan     liburuak i      goraki ti irakurtzen zireni
+\m Garai hartan     liburuak i      goraki ti irakurtzen zireni
+\g time 3DEM.IN book.DET.Pl.A out-loud read.IMP AUX.3plA
+\l At that time books were read out loud
+
+\t Garai hartan     lani   garbiki ti egiten zeni
+\m Garai hartan     lani   garbiki ti egiten zeni
+\g   time 3DEM.IN work.A cleanly do.IMP AUX.3sgA
+\l At that time one worked cleanly
+
+\t Garai hartan     proexp garbiki lan egiten zen
+\m Garai hartan     proexp garbiki lan egiten zen
+\g time 3DEM.IN pro.A cleanly work do.I MP AUX.3sgA
+\l At that time one worked cleanly
+
+\t Pellok garai berriak        amets egin      ditu
+\m Pellok garai berriak        amets egin      ditu
+\g  Peter.E time new.DETpl.A dream make.PF AUX
+\l Peter dreamt of new times
+
+\t Musikai       entzun zuen. proi Eztieztia        zen.
+\m Musikai       entzun zuen. proi Ezti-eztia        zen.
+\g music.DET.A hear AUX            sweet sweet.DET be.PAS
+\l He heard the music. It was very pretty
+
+\t Loi              egin nuen. *proi Gozogozoa  zen.
+\m Loi              egin nuen. *proi Gozo-gozoa  zen.
+\g sleep.DET.A make AUX               nice nice.DET be.PAS
+\l I s lept. It [i.e. my sleep] was very nice
+
+\t Han etxe i egiten        hasi dira. proi Ez      zaizkit gustatzen.
+\m Han etxe i egiten        hasi dira. proi Ez      zaizkit gustatzen.
+\g there house make.NOM begin AUX.NEG AUX like.IMP
+\l They've started building there. I don't like them [i.e. the houses]
+
+\t Liburui banatzen        hasi zara. proi Zertaz     dira?
+\m Liburui banatzen        hasi zara. proi Zertaz     dira?
+\g book distribute.NOM start AUX.what.INS be.PR
+\l You've started giving out books (book- distributing). What are they about?
+
+\t Barda ametsi egin dut. *proi Ez za(izk)it gustatu.
+\m Barda ametsi egin dut. *proi Ez za(izk)it gustatu.
+\g last-night dream make AUX           NEG AUX like.PF
+\l I dreamt last night. I didn't like them [i.e. the dreams]
+
+\t Lan egin dut . Horrek akitu nau.
+\m Lan egin dut . Horrek akitu nau.
+\g work make AUX that.E tire AUX
+\l I worked. That made me tired
+
+\t Nork etxeai         eginj     du     han        ti tj?
+\m Nork etxeai         eginj     du     han        ti tj?
+\g who.E house.DET.A make.PF AUX over-there
+\l Who built the house over there?
+
+\t Norekin etxeai        eginj      du Pellok ti tj?
+\m Norekin etxeai        eginj      du Pellok ti tj?
+\g  who.SOC house.DET.A make.PF AUX Peter.E
+\l With whom did Peter build the house?
+
+\t Arras ongi baratzeko           lanak      egiten ditut
+\m Arras ongi baratzeko           lanak      egiten ditut
+\g   very well garden.DET.IN.ADN work.DETpl.A do.IMP AUX
+\l I did the gardening very well
+
+\t Nork lo egin           du ohe horretan ?
+\m Nork lo egin           du ohe horretan ?
+\g who.E sleep make.PF AUX bed 2DEM.IN
+\l Who slept in that bed?
+
+\t Norekin lan egiten du       Pellok ?
+\m Norekin lan egiten du       Pellok ?
+\g who.SOC work do.IMP AUX Peter.E
+\l With whom did Peter work?
+
+\t Orain arras ongi lan egiten  dut
+\m Orain arras ongi lan egiten  dut
+\g now very well work faire.IMP AUX
+\l Now I work very well
+
+\t Zertaz     hitz egin du Pellok ?
+\m Zertaz     hitz egin du Pellok ?
+\g what.INS word do.PF AUX Peter.E
+\l What did Peter speak about?
+
+\t Zertaz    egin du    Pellok hitz ?
+\m Zertaz    egin du    Pellok hitz ?
+\g    what.INS do.PF AUX Peter.E word
+\l ditto
+
+\t Oso ondo hitz egin du Pellok
+\m Oso ondo hitz egin du Pellok
+\g very well word do.PF AUX Peter.E
+\l Peter spoke very well
+
+\t Oso ondo egin du Pellok hitz
+\m Oso ondo egin du Pellok hitz
+\g    very well do.PF AUX Peter.E word
+\l ditto
+
+\t Pellok [sagar gutxi]        jan    du
+\m Pellok [sagar gutxi]        jan    du
+\g Peter.E apple little/few-A eat.PF AUX
+\l Peter ate few apples
+
+\t Pellok gutxi ur(a)             edan       du
+\m Pellok gutxi ur(a)             edan       du
+\g  Peter.E little water(.DET).A drink.PF AUX
+\l Peter has drunk water little
+
+\t Pellok gutxi edani du         ur(a)
+\m Pellok gutxi edani du         ur(a)
+\g  Peter.E little drink.PF AUX wat er(.DET).A
+\l Peter has drunk little water
+
+\t Lo gutxi egin duzu
+\m Lo gutxi egin duzu
+\g sleep little do.PF AUX
+\l You have slept little
+
+\t Gutxi [ lo egin]i     duzu ti
+\m Gutxi [ lo egin]i     duzu ti
+\g little sleep make.PF AUX
+\l You slept little
+
+\t Pellok gutxi / gehiegi hitz egin           du
+\m Pellok gutxi / gehiegi hitz egin           du
+\g Peter.E little too-much word make.PF AUX
+\l Peter spoke little / too much
+
+\t Pellok hitz gutxi / gehiegi    egin du
+\m Pellok hitz gutxi / gehiegi    egin du
+\g   Peter.E word little too-much do.PF AUX
+\l Peter spoke little / too much
+
+\t Ederki / gutxi egin dugu lan
+\m Ederki / gutxi egin dugu lan
+\g fine.ADV little do.PF AUX work
+\l ditto
+
+\t Ederki / gutxi lan egin dugu
+\m Ederki / gutxi lan egin dugu
+\g fine.ADV little work do.PF AUX
+\l ditto
+
+\t Jonek liburua irakurri du.
+\m Jonek liburua irakurri du.
+\g Jon-ERG book-Det-ABS read Aux (3.ABS-3.ERG).
+\l John has read the book.
+
+\t Jon bihar etorriko da.
+\m Jon bihar etorriko da.
+\g Jon-ABS tomorrow come-fut Aux (3.ABS)
+\l John will come tomorrow.
+
+\t Nik Miren agurtu dut.
+\m Nik Miren agurtu dut.
+\g I-ERG Miren-ABS greet Aux (3.ABS-1.ERG)
+\l I have greeted Mary.
+
+\t Jonek ni agurtu nau.
+\m Jonek ni agurtu nau.
+\g Jon-ERG I-ABS greet Aux (1.ABS-3.ERG)
+\l Jon has greeted me.
+
+\t Ni etxera joan naiz.
+\m Ni etxera joan naiz.
+\g I-ABS home-all go Aux (1.ABS)
+\l I have gone home.
+
+\t Joni       [Øi ogia            egiten]       saiatu da.                                                   Try class
+\m Joni       [Øi ogia            egiten]       saiatu da.                                                   Try class
+\g Jon-ABS         bread-Det-ABS make-Nom-INN try Aux (3ABS)
+\l Jon has tried to make bread.
+
+\t Joneki [Øi ogia             egitea]     pentsatu du.                                                      Decide class
+\m Joneki [Øi ogia             egitea]     pentsatu du.                                                      Decide class
+\g Jon-ERG bread-Det-ABS make-Nom-Det-ABS decide Aux (3ABS-3ERG)
+\l Jon has decided to make bread.
+
+\t Jonek nii [Øi    ogia            egitera] bidali nau.                                                     Send class
+\m Jonek nii [Øi    ogia            egitera] bidali nau.                                                     Send class
+\g Jon-ERG I-ABS bread-Det-ABS make-Nom-ALL send Aux (1ABS-3ERG)
+\l Jon has sent me to make bread.
+
+\t Jonek nirii [Øi  ogia       egitea]           gomendatu dit.      Recommend class
+\m Jonek nirii [Øi  ogia       egitea]           gomendatu dit.      Recommend class
+\g Jon-ERG I-DAT bread-Det-ABS make-Nom-Det-ABS recommend Aux (3ABS-1DAT-3ERG)
+\l Jon has recommended me to make bread.
+
+\t Emakumeak arto*(a) erein du
+\m Emakumeak arto*(a) erein du
+\g woman-Det-ERG corn-DET-ABS planted Aux (ABS-ERG)
+\l The woman has planted (the) corn.
+
+\t Inor   etorri da
+\m Inor   etorri da
+\g  Nobody come has
+\l Nobody has come
+
+\t Ez da inor etorri
+\m Ez da inor etorri
+\g Neg-has nobody come
+\l Nobody has come
+
+\t Q: Nor etorri da?
+\m Q: Nor etorri da?
+\g    Who come has
+\l Who has come?
+
+\t Ezer     jan nahi al    duzu?
+\m Ezer     jan nahi al    duzu?
+\g Anything eat want COND.you
+\l Would you want anything to eat?
+
+\t Nor ikusi duzu?
+\m Nor ikusi duzu?
+\g Who see 3-have-2
+\l Who have you seen?
+
+\t Nortzuk ikusi dituzu?
+\m Nortzuk ikusi dituzu?
+\g Who-Pl see 3Pl-have-2
+\l Who have you seen?
+
+\t Jonek      nekatuta dagoela ematen         du
+\m Jon-ek      nekatuta dago-ela ematen         du
+\g John ERG tired          is    that give-IMPF AUX
+\l John seems that [he] is tired
+
+\t Nekatuta zaudela      ematen       duzu
+\m Nekatuta zaud-ela      ematen       duzu
+\g   tired      are that     give-IMPF AUX.2ERG
+\l You seem that [you] are tired
+
+\t Gizonak kurritu du.
+\m Gizona-k kurritu du.
+\g man-ERG run      AUX
+\l The man ran.
+
+\t Mirenek atea       ireki du.
+\m Miren-ek atea       ireki du.
+\g Miren-ERG door-NOM open AUX
+\l Miren opened the door.
+
+\t Ni    etorri naiz.
+\m Ni    etorri naiz.
+\g I-NOM come AUX
+\l I came.
+
+\t Niri zure oinetakoakgustatzen zaizkit.
+\m Ni-ri zure oinetako-a-k-gustatzen zaizkit.
+\g I-DAT your shoes-DET-NOM like      AUX
+\l I like your shoes.
+
+\t Niri zure oinetakoak gustatzen zaizkit.
+\m Ni-ri zure oinetako-a-k gustatzen zaizkit.
+\g I-DAT your shoes-DET-NOM like       AUX
+\l I like your shoes.
+
+\t Ni      kezkatzen naiz.
+\m Ni      kezkatzen naiz.
+\g I-NOM worry       AUX
+\l I worry.
+
+\t Ni    etorri naiz.
+\m Ni    etorri naiz.
+\g I-NOM come AUX
+\l I came.
+
+\t Gizonak kurritu du.
+\m Gizona-k kurritu du.
+\g man-ERG run      AUX
+\l The man ran.
+
+\t Mirenek atea       ireki du.
+\m Miren-ek atea       ireki du.
+\g Miren-ERG door-NOM open AUX
+\l Miren opened the door.
+
+\t Niri zure oinetakoakgustatzen zaizkit.
+\m Ni-ri zure oinetako-a-k-gustatzen zaizkit.
+\g I-DAT your shoes-DET-NOM like      AUX
+\l I like your shoes.
+
+\t Niri zure oinetakoakgustatzen zaizkit.
+\m Ni-ri zure oinetako-a-k-gustatzen zaizkit.
+\g I-DAT your shoes-DET-NOM like      AUX
+\l I like your shoes.
+
+\t Mikelek     ni    haserretu izan.
+\m Mikelek     ni    haserretu izan.
+\g Michael-ERG I-NOM angry-PERF AUX
+\l Michael angered me.
+
+\t Giltzak atea       ireki zuen.
+\m Giltzak atea       ireki zuen.
+\g key-ERG door-NOM open AUX
+\l The key opened the door.
+
+\t  emakumeari liburua           eman                 dion   gizona
+\m  emakume-a-ri liburu-a           eman                 dio-n   gizon-a
+\g woman-the-DAT book-the            give                has-REL   man-the
+\l The man who has given the book to the woman
+
+\t  gizonak   liburua         eman                 dion        emakumea
+\m  gizon-a-k   liburu-a         eman                 dio-n        emakume-a
+\g man-the-ERG book-the           give                has-REL         woman-the
+\l The woman to whom the man has given the book
+
+\t Gizonak    emakumeari    liburua        eman dio.
+\m Gizon-a-k    emakume-a-ri    liburu-a        eman dio.
+\g man-the-ERG woman-the-DAT book-the.ABS give has
+\l The man has given the book to the woman.
+
+\t emakumeari    liburua eman dion       gizona
+\m emakume-a-ri    liburu-a eman dio-n       gizon-a
+\g woman-the-DAT book-the give has-REL man-the
+\l The man who has given the book to the woman
+
+\t gizonak     emakumeari    eman dion       liburua
+\m gizona-k     emakume-a-ri    eman dio-n       liburu-a
+\g man-the-ERG woman-the-DAT give has-REL book-the
+\l The book which the man has given to the woman
+
+\t gizonak      liburua eman dion     emakumea
+\m gizon-a-k      liburu-a eman dio-n     emakume-a
+\g man-the-ERG book-the give has-REL woman-the
+\l The woman to whom the man has given the book
+
+\t Amak         semea eskolan utzi      (zuen)       eta klasera joan (zen)
+\m Ama-k         seme-a eskola-n utzi      (zuen)       eta klase-ra joan (zen)
+\g mother-ERG son-ABS school-at leave AUX.3SG.3SG and class-to go         AUX.3SG
+\l Mother left her son at school and went to class.
+
+\t Sagarrak   emakumeak egosten ditu             eta gizonak jaten ditu
+\m Sagarrak   emakumeak egosten ditu             eta gizonak jaten ditu
+\g Apples-ABS woman-ERG cook      AUX.3SG.3PL and man-ERG eat AUX.3SG.3PL
+\l The woman cooks and the man eats apples.'Alan King
+
+\t Sagarrak   emakumeak egosten ditu           eta usteltzen dira
+\m Sagarrak   emakumeak egosten ditu           eta usteltzen dira
+\g Apples-ABS woman-ERG cook       AUX.3SG.3PL and rot       AUX.3PL
+\l The woman cooks apples and they rot.
+
+\t Sagarrak     usteltzen dira    eta emakumeak egosten ditu
+\m Sagarrak     usteltzen dira    eta emakumeak egosten ditu
+\g Apples-ABS rot         AUX.3PL and woman-ERG cook    AUX.3SG.3PL
+\l Apples rot and the woman cooks them.
+
+\t  emakumeari liburua           eman                 dion   gizona
+\m  emakume-a-ri liburu-a           eman                 dio-n   gizon-a
+\g woman-the-DAT book-the            give                has-REL   man-the
+\l The man who has given the book to the woman
+
+\t  gizonak   liburua         eman                 dion        emakumea
+\m  gizon-a-k   liburu-a         eman                 dio-n        emakume-a
+\g man-the-ERG book-the           give                has-REL         woman-the
+\l The woman to whom the man has given the book
+
+\t Gizonak    emakumeari    liburua        eman dio.
+\m Gizon-a-k    emakume-a-ri    liburu-a        eman dio.
+\g man-the-ERG woman-the-DAT book-the.ABS give has
+\l The man has given the book to the woman.
+
+\t emakumeari    liburua eman dion       gizona
+\m emakume-a-ri    liburu-a eman dio-n       gizon-a
+\g woman-the-DAT book-the give has-REL man-the
+\l The man who has given the book to the woman
+
+\t gizonak     emakumeari    eman dion       liburua
+\m gizona-k     emakume-a-ri    eman dio-n       liburu-a
+\g man-the-ERG woman-the-DAT give has-REL book-the
+\l The book which the man has given to the woman
+
+\t gizonak      liburua eman dion     emakumea
+\m gizon-a-k      liburu-a eman dio-n     emakume-a
+\g man-the-ERG book-the give has-REL woman-the
+\l The woman to whom the man has given the book
+
+\t Amak         semea eskolan utzi      (zuen)       eta klasera joan (zen)
+\m Ama-k         seme-a eskola-n utzi      (zuen)       eta klase-ra joan (zen)
+\g mother-ERG son-ABS school-at leave AUX.3SG.3SG and class-to go         AUX.3SG
+\l Mother left her son at school and went to class.
+
+\t Sagarrak   emakumeak egosten ditu             eta gizonak jaten ditu
+\m Sagarrak   emakumeak egosten ditu             eta gizonak jaten ditu
+\g Apples-ABS woman-ERG cook      AUX.3SG.3PL and man-ERG eat AUX.3SG.3PL
+\l The woman cooks and the man eats apples.'Alan King
+
+\t Sagarrak   emakumeak egosten ditu           eta usteltzen dira
+\m Sagarrak   emakumeak egosten ditu           eta usteltzen dira
+\g Apples-ABS woman-ERG cook       AUX.3SG.3PL and rot       AUX.3PL
+\l The woman cooks apples and they rot.
+
+\t Sagarrak     usteltzen dira    eta emakumeak egosten ditu
+\m Sagarrak     usteltzen dira    eta emakumeak egosten ditu
+\g Apples-ABS rot         AUX.3PL and woman-ERG cook    AUX.3SG.3PL
+\l Apples rot and the woman cooks them.
+
+\t Gizonak kurritu                 du.
+\m Gizona-k kurritu                 du.
+\g man-ERG run                      aux
+\l The man ran.
+
+\t Mirenek      atea                     ireki    du
+\m Miren-ek      atea                     ireki    du
+\g Miren-ERG     door-NOM                 open     aux
+\l Miren opened the door.
+
+\t Ni              etorri naiz.
+\m Ni              etorri naiz.
+\g I(NOM)          come aux
+\l I came.
+
+\t Niri zure oinetakoak     gustatzen zaizkit.
+\m Ni-ri zure oinetakoak     gustatzen zaizkit.
+\g I-DAT your shoes-det(NOM)     like      aux
+\l I like your shoes.
+
+\t Ni        kezkatzen naiz.
+\m Ni        kezkatzen naiz.
+\g I(NOM) worry        aux
+\l I worry.
+
+\t Ni               etorri naiz.
+\m Ni               etorri naiz.
+\g I(NOM)           come aux
+\l I came.
+
+\t Gizonak kurritu               du.
+\m Gizona-k kurritu               du.
+\g man-ERG run                    aux
+\l The man ran.
+
+\t Mirenek      atea                   ireki    du
+\m Miren-ek      atea                   ireki    du
+\g Miren-ERG     door-NOM               open     aux
+\l Miren opened the door.
+
+\t Mikelek          ni     haserretu izan.
+\m Mikelek          ni     haserretu izan.
+\g Michael-ERG      I(NOM) angry-perf aux
+\l Michael angered me.
+
+\t Giltzak   atea           ireki                   zuen.
+\m Giltzak   atea           ireki                   zuen.
+\g key-ERG door(nom)        opened                  aux
+\l The key opened the door.
+

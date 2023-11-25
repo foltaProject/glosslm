@@ -1,0 +1,15 @@
+\t b.     Bikkja e bunde.                        Bikkjan e bunde.
+\m b.     Bikkja e bunde.                        Bikkjan e bunde.
+\g        the.dog is tied                         the.dogs are tied
+\l The dog is tied
+
+\t Me prøvde å få slaktet       {oppskore/*skore opp}.
+\m Me prøvde å få slaktet       {oppskore/*skore opp}.
+\g we tried to get the.carcass up.cut      cut up
+\l We tried to get the carcass cut up
+
+\t Me prøvde å få {skore opp/*oppskore} slaktet.
+\m Me prøvde å få {skore opp/*oppskore} slaktet.
+\g we tried to get cut up up.cut           the.carcass
+\l We tried to get the carcass cut up
+

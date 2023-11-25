@@ -1,0 +1,155 @@
+\t almu       jmta            agata                    k'prnm
+\m almu       jmta            agata                    k'prnm
+\g Alemu      dead            cat                      buried.3smS.3smO
+\l Alemu buried the dead cat
+
+\t raxel        jmta            agata          k'prtnm
+\m raxel        jmta            agata          k'prtnm
+\g Rachel       dead            cat            buried.3sfS.3smO
+\l Rachel buried the dead cat
+
+\t jraxel      jmta         agata             atk'prnjam
+\m j-raxel      jmta         agata             at-k'prnjam
+\g ACC-Rachel dead           cat               CAUS-buried.1plS.3sfO
+\l We had Rachel bury the dead cat
+
+\t jmta         agata          braxel         atk'prnem
+\m jmta         agata          b-raxel         at-k'prnem
+\g dead         cat            OBL-Rachel      CAUS-buried.1plS.3smO
+\l We had the dead cat buried by Rachel
+
+\t almu     jraxel       mt'af                      atannbna
+\m almu     j-raxel       mt'af                      at-an-nbna
+\g Alemu    ACC-Rachel book                           CAUS-NEG-read.3msS.3fsO
+\l Alemu made Rachel not read the book
+
+\t almu       mt'af         braxel       anatnbbm
+\m almu       mt'af         b-raxel       an-at-nbbm
+\g Alemu     book           OBL-Rachel NEG-CAUS-read.3msS
+\l Alemu didn't make the book read by Raxel
+
+\t almu     mt'af          braxel       atannbbm
+\m almu     mt'af          b-raxel       at-an-nbbm
+\g Alemu     book           OBL-Rachel CAUS-NEG-read.3msS
+\l Alemu made the book not be read by Raxel
+
+\t a. C'amwt                nmam ambr          tc%kr
+\m a. C'amwt                nmam ambr          tc%kr
+\g     C'.normally cabbage    cooks
+\l C'amwt normally cooks cabbage
+
+\t b. C'am t ambr x ta nmam                        tc%kwnn
+\m b. C'am t ambr x ta nmam                        tc%kwnn
+\g     C'.cabbage the normally              cooks
+\l C'am t normally cooks the cabbage
+
+\t Gy%                    f%r%z n%k%s%m
+\m Gy%                    f%r%z n%k%s%m
+\g   dog                  horse bit
+\l A dog bit a (non-specific) horse
+
+\t b. Gy% y%f%r%z                n%kw%s%nm
+\m b. Gy% y%-f%r%z                n%kw%s%nm
+\g   dog y% horse                 bit
+\l A dog bit a (specific) horse
+
+\t C'amwt y%at ms fra.k aw%cnm
+\m C'amwt y%-at ms fra.k aw%cnm
+\g   C'amwt y% one man money gave
+\l C'amwt gave money to a (specific or non-specific) man
+
+\t C'amwt y%tk% xwta gy% aw%cnm
+\m C'amwt y%-tk% xwta gy% aw%cnm
+\g    C'amwt y% child the dog gave
+\l C'amwt gave the child a/the dog
+
+\t a. *Gy% f%r%z xwta           n%kw%s%nm
+\m a. *Gy% f%r%z xwta           n%kw%s%nm
+\g    dog horse the             bit
+\l A dog bit the horse
+
+\t a. C'amwt                nmam ambr          tc%kr
+\m a. C'amwt                nmam ambr          tc%kr
+\g     C'.normally cabbage    cooks
+\l C'amwt normally cooks cabbage
+
+\t b. C'am t ambr x ta nmam                        tc%kwnn
+\m b. C'am t ambr x ta nmam                        tc%kwnn
+\g     C'.cabbage the normally              cooks
+\l C'am t normally cooks the cabbage
+
+\t Gy%                    f%r%z n%k%s%m
+\m Gy%                    f%r%z n%k%s%m
+\g   dog                  horse bit
+\l A dog bit a (non-specific) horse
+
+\t b. Gy% y%f%r%z                n%kw%s%nm
+\m b. Gy% y%-f%r%z                n%kw%s%nm
+\g   dog y% horse                 bit
+\l A dog bit a (specific) horse
+
+\t C'amwt y%at ms fra.k aw%cnm
+\m C'amwt y%-at ms fra.k aw%cnm
+\g   C'amwt y% one man money gave
+\l C'amwt gave money to a (specific or non-specific) man
+
+\t C'amwt y%tk%          xwta gy% aw%cnm
+\m C'amwt y%-tk%          xwta gy% aw%cnm
+\g      C'amwt y% child   the dog gave
+\l  C'amwt gave the   child a/the dog
+
+\t Gy% [vP        f%r%z n%k%s%m ]
+\m Gy% [vP        f%r%z n%k%s%m ]
+\g dog            horse bit
+\l A dog bit a horse
+
+\t a. *Gy% f%r%z xwta           n%kw%s%nm
+\m a. *Gy% f%r%z xwta           n%kw%s%nm
+\g    dog horse the             bit
+\l A dog bit the horse
+
+\t C'amw^t m^r c´k´r´c´m?
+\m C'amw^t m^r c´k´r´c´m?
+\g C'amw^t what cooked
+\l What did C'amw^t cook?
+
+\t a. C'amwt                nmam      ambr      tc%kr
+\m a. C'amwt                nmam      ambr      tc%kr
+\g    C'.normally cabbage cooks
+\l C'amwt normally cooks cabbage
+
+\t a. Gy% y%f%r%z n%kw%s%nm
+\m a. Gy% y%-f%r%z n%kw%s%nm
+\g      dog y% horse bit
+\l A dog bit a (specific) horse
+
+\t b. Gy% f%r%z n%k%s%m
+\m b. Gy% f%r%z n%k%s%m
+\g      dog horse bit
+\l A dog bit a (non-specific) horse
+
+\t Namaga attkar    ansy%
+\m Namaga attkar    ansy%
+\g Namaga anything NEG-bought
+\l Namaga didn't buy anything
+
+\t atts%" bk'wr% ansy%
+\m atts%" bk'wr% ansy%
+\g anyone mule NEG-bought
+\l Anyone didn't buy a mule
+
+\t a. C'amwt y%tk%     xwta gy% aw%cnm
+\m a. C'amwt y%-tk%     xwta gy% aw%cnm
+\g    C'amwt y% child the dog gave
+\l C'amwt gave the child a/the dog
+
+\t Gy% [  vP   f%r%z ] n%k%s%m
+\m Gy% [  vP   f%r%z ] n%k%s%m
+\g  dog        horse   bit
+\l A dog bit a (non-specific) horse
+
+\t y%"et    w%ka
+\m y%-"et    w%ka
+\g y% house roof-beam
+\l the house's roof-beams
+

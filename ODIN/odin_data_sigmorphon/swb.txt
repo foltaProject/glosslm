@@ -1,0 +1,40 @@
+\t nitsohuzunguha
+\m ni-tso-hu-zunguha
+\g SM1S-FUT-OM2S-look+for
+\l I'll look for you
+
+\t nitsomzunguha
+\m ni-tso-m-zunguha
+\g SM1S-FUT-OMC   1-look+for
+\l I'll look for him/her
+
+\t nitsolizunguha
+\m ni-tso-li-zunguha
+\g SM1S-FUT-OMC   5-look+for
+\l I'll look for it (cl.5)
+
+\t nitsozizunguha
+\m ni-tso-zi-zunguha
+\g SM1S-FUT-OMC   10-look+for
+\l I'll look for it/them (cl.10)
+
+\t nitsomba                 Haladi zimarke
+\m ni-tso-m-ba                 Haladi zimarke
+\g SM1S-FUT-OMC   1-give       1Haladi     DEF.CL10.money
+\l I'll give the money to Haladi
+
+\t nitsohußa                ligari
+\m ni-tso-hu-ßa                ligari
+\g SM1S-FUT-OM2S-give      DEF.CL5.car
+\l I'll give you the car
+
+\t nitsombazo                       Haladi
+\m ni-tso-m-ba-zo                       Haladi
+\g SM1S-FUT-OMC   1-give-XMC10          CL1.Haladi
+\l I'll give it to Haladi (the money)
+
+\t nitsohußalo
+\m ni-tso-hu-ßa-lo
+\g SM1S-FUT-OM2S-give-XMC5
+\l I'll give it to you
+

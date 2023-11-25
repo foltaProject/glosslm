@@ -1,0 +1,285 @@
+\t Meg droymdi ein so sáran dreym.
+\m Meg droymdi ein so sáran dreym.
+\g me-acc dreamt-3.sg one such painful dream-acc
+\l I had such a bad dream.
+
+\t Konuna       droymdi ein so sáran dreym.
+\m Konuna       droymdi ein so sáran dreym.
+\g the woman-acc dreamt-3.sg one such painful dream-acc
+\l The woman had such a bad dream.
+
+\t Konan         droymdi ein ringan dreym.
+\m Konan         droymdi ein ringan dreym.
+\g the woman-nom dreamt-3.sg a bad dream-acc
+\l The woman had a bad dream.
+
+\t Mær dámar væl hasa bókina.
+\m Mær dámar væl hasa bókina.
+\g me-dat likes well that book-acc
+\l I like this book a lot.
+
+\t Eg dámi          væl hasa bókina.
+\m Eg dámi          væl hasa bókina.
+\g I-nom like-1sg well that book-acc
+\l I like this book a lot.
+
+\t Honum     nýtist     fleiri bókahillar      heima                    hjá sær
+\m Honum     nýtist     fleiri bókahillar      heima                    hjá sær
+\g he-D      need-3.sg.more bookshelves-A.pl.at.home                  with self
+\l He needs more bookshelves in his home.
+
+\t Honum nttist    fleiri bókahillar    heima hjá sær.
+\m Honum nttist    fleiri bókahillar    heima hjá sær.
+\g him(D) needs-3sg more bookshelves(A) at-home with self
+\l He needs more bookshelves in his home.
+
+\t Honum nýtist      fleiri bókahillar      heima hjá sær.
+\m Honum nýtist      fleiri bókahillar      heima hjá sær.
+\g him(D) needs-3sg more bookshelves(A) at-home with self
+\l He needs more bookshelves in his home.
+
+\t Illa stendur til.
+\m Illa stendur til.
+\g  badly stands to/for
+\l Things are in a bad way.
+
+\t Teir vinda {?opp} reint flagg {opp}.
+\m Teir vinda {?opp} reint flagg {opp}.
+\g they wrang up clean flag up
+\l They hoisted a white sail
+
+\t Eg gloymdi at siga {??fram} hesi dømini {fram}.
+\m Eg gloymdi at siga {??fram} hesi dømini {fram}.
+\g I forgot to say         forth these examples forth
+\l I forgot to mention these examples
+
+\t Hann mátti skjóta {*frá} bátin {frá}.
+\m Hann mátti skjóta {*frá} bátin {frá}.
+\g he     must move     from the.boat from
+\l He had to move the boat around
+
+\t Hava {nakrir studentar} kanska {nakrir studentar} lisi> bókina?
+\m Hava {nakrir studentar} kanska {nakrir studentar} lisi> bókina?
+\g have any students maybe any student read the.book
+\l Have any students read the book, by chance?
+
+\t Í dag hava {nakrir studentar} kanska {nakrir studentar} lisi> bókina.
+\m Í dag hava {nakrir studentar} kanska {nakrir studentar} lisi> bókina.
+\g today have some students maybe some students read the.book
+\l Today perhaps some students have read the book
+
+\t Hava {nakrir studentar} møguliga {?nakrir studentar} lisi> bókina?
+\m Hava {nakrir studentar} møguliga {?nakrir studentar} lisi> bókina?
+\g have any students possibly           any student     read the.book
+\l Have any students possibly read the book?
+
+\t Í dag hava {nakrir studentar} møguliga {?nakrir studentar} lisi> bókina.
+\m Í dag hava {nakrir studentar} møguliga {?nakrir studentar} lisi> bókina.
+\g today have some students possibly        some students read the.book
+\l Today some students have possibly read the book
+
+\t Ta> er undarligt at {Jógvan} ikki {*Jógvan} dámar Gammel dansk.
+\m Ta> er undarligt at {Jógvan} ikki {*Jógvan} dámar Gammel dansk.
+\g it is odd         that Jógvan not     Jógvan likes Old   Danish
+\l It is odd that John doesn't like Old Danish (bitters)
+
+\t Har lá tá fiskurin, bert magin            var {úrskorin/skorin úr}.
+\m Har lá tá fiskurin, bert magin            var {úrskorin/skorin úr}.
+\g Here lay then the.fish, only the.stomach was out.cut cut       out
+\l There the fish lay, only the stomach cut out
+
+\t Snøri>     bleiv serliga       væl {uppgjørt/gjørt upp} leygarkvøldi>.
+\m Snøri>     bleiv serliga       væl {uppgjørt/gjørt upp} leygarkvøldi>.
+\g the.grinder was particularly well up.done done up Saturday.night
+\l The grinder was particularly well cleaned Saturday night
+
+\t Vit royndu at fáa ærnar       hongdar upp.
+\m Vit royndu at fáa ærnar       hongdar upp.
+\g we tried to get the.ewes up.hung      up
+\l We tried to get the ewes hung up
+
+\t Vit royndu at fáa hongt ærnar    upp.
+\m Vit royndu at fáa hongt ærnar    upp.
+\g we tried to get hung the.ewes up
+\l We tried to get the ewes hung up
+
+\t Vit royndu at fáa ærnar upphongdar
+\m Vit royndu at fáa ærnar upphongdar
+\g we tried to get the.ewes up.hung
+\l We tried to get the ewes hung up
+
+\t Í dag tekur Jógvan   kanska súpan í skúlan
+\m Í dag tekur Jógvan   kanska súpan í skúlan
+\g today takes John     maybe soup in school
+\l Today John might    take soup to school
+
+\t Í dag taka nakrar gentur kanska súpan í skúlan
+\m Í dag taka nakrar gentur kanska súpan í skúlan
+\g today take some girls maybe soup in school
+\l Today some girls might take soup to school
+
+\t Mær dámar væl hasa bókina.
+\m Mær dámar væl hasa bókina.
+\g me-DAT likes well that book-ACC
+\l I like that book.
+
+\t Eg dámi væl hasa bókina.
+\m Eg dámi væl hasa bókina.
+\g  I-NOM like well this book-ACC
+\l I like that book.
+
+\t Meg/mær lystir at vita ...
+\m Meg/mær lystir at vita ...
+\g me-ACC/DAT wants to know
+\l I want to know...
+
+\t Mær vantar pengar.
+\m Mær vantar pengar.
+\g me-DAT lacks money-ACC
+\l I am short of money.
+
+\t weardh theah       thaet wif   dha forspanen thurh dhaes deofles lare
+\m weardh theah       thaet wif   dha forspanen thurh dhaes deofles lare
+\g was nevertheless that woman then seduced by the devil's counsel
+\l Nevertheless, that woman was then seduced by the devil's counsel ...
+
+\t Honum nýtist      fleiri bókahillar      heima hjá sær.
+\m Honum nýtist      fleiri bókahillar      heima hjá sær.
+\g him(D) needs-3sg more bookshelves(A) at-home with self
+\l He needs more bookshelves in his home.
+
+\t Honum/hann leingist alti> heimaftur.
+\m Honum/hann leingist alti> heimaftur.
+\g     he-DAT/he-NOM longs always back home
+\l He is always homesick.
+
+\t Vit     komu
+\m Vit     komu
+\g we-NOM cameP
+\l We came.
+
+\t Honum nytist eiri bókahillar         heima hjá sær
+\m Honum nytist eiri bókahillar         heima hjá sær
+\g him-DAT needs3S more bookshelves-ACC at-home with self
+\l He needs more bookshelves in his home.
+
+\t            Fa. ... um henni   dámar     drongirnar
+\m            Fa. ... um henni   dámar     drongirnar
+\g ... if her.DAT likes.3SG boys-the.ACC
+\l ... if she likes the boys
+
+\t Fa. Mér    dámar     væl hasa      bókina
+\m Fa. Mér    dámar     væl hasa      bókina
+\g     Me.DAT likes.3SG well this.ACC book.ACC                                                                          In Icelandic, the verb hjálpa 'help' assigns dative to the object, (22a).In the passive in (22c), the dative is
+\l I really like the book over there
+
+\t Fa. Mér    dámar   / *dáma     væl hesar      bátarnar                                                                           c.     Honum   var     hjálpað
+\m Fa. Mér    dámar   / *dáma     væl hesar      bátarnar                                                                           c.     Honum   var     hjálpað
+\g     Me.DAT likes.3SG / like.3PL well these.ACC boats.ACC                                                                                 Him.DAT was.3SG helped.SUP
+\l I really like the boats over there
+
+\t Hann   varð       hjálptur
+\m Hann   varð       hjálptur
+\g He.NOM became.3SG helped.NOM.SG.MASC
+\l He was helped
+
+\t Fa. Hon     helt         meg    hava     sæð      jólakettuna                                                    The Old English verbs that are typically found in the DATNOM constructions described in section 2.1 belong to
+\m Fa. Hon     helt         meg    hava     sæð      jólakettuna                                                    The Old English verbs that are typically found in the DAT-NOM constructions described in section 2.1 belong to
+\g     She.NOM believed.3SG me.ACC have.INF seen.SUP Christmas cat-the.ACC
+\l She believed I had seen the Christmas cat
+
+\t Hún     helt         meg    hava     dámað     gávuna
+\m Hún     helt         meg    hava     dámað     gávuna
+\g She.NOM believed.3SG me.ACC have.INF liked.SUP present-the.ACC                                              three corpora which are based on the diachronic part of the Helsinki Corpus (see http://helmer.hit.uib.no/icame/cd/) are parts of the
+\l She thought I had liked the present'                                                                      English Parsed Corpora Series (see http://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/parsed-corpora-series.htm).
+
+\t Mær damar´        væl hesar      batarnar
+\m Mær damar´        væl hesar      batarnar
+\g Me.D likes.3SG well these.A.PL boats.A.PL
+\l I really like these boats here
+
+\t       ´                  ´
+\m       ´                  ´
+\g I.N like.1SG well this book
+\l I really like the book over there
+
+\t    ´    ´            ´                 ´
+\m    ´    ´            ´                 ´
+\g Me.D likes.3SG / like.3PL well these.A boats.A
+\l I really like the boats over there
+
+\t       ´                  ´
+\m       ´                  ´
+\g I.N like.1SG well this book
+\l I really like the book over there
+
+\t     hana.
+\m     hana.
+\g     her
+\l No one o¤ered to like her.
+
+\t At               skorta     mat er ræ¶ uligt.
+\m At               skorta     mat er ræ¶ uligt.
+\g  to    pro.dat lack.inf food is terrible
+\l To lack food is terrible.
+
+\t fólki.
+\m fólki.
+\g people
+\l Wanting to know as much as possible is a positive quality in people.
+
+\t Meg/m+r lystir at vita . . .
+\m Meg/m+r lystir at vita . . .
+\g    me.ACC/DAT wants to know
+\l I want to know ...
+
+\t M+r vantar pengar.
+\m M+r vantar pengar.
+\g me.DAT lacks money.ACC
+\l I am short of money.
+
+\t Eg dámi væl hasa bókina.
+\m Eg dámi væl hasa bókina.
+\g I.NOM like well that book.ACC
+\l I like that book very much
+
+\t Meg droymdi dreym.
+\m Meg droymdi dreym.
+\g me.ACC dreamt dream.ACC
+\l I dreamt a dream
+
+\t Mær dámar mjólkina.
+\m Mær dámar mjólkina.
+\g me.DAT likes the milk.ACC
+\l I like the milk
+
+\t 4 ) a . M ær      dámar         feskan   fisk
+\m 4 ) a . M ær      dámar         feskan   fisk
+\g         me (dat.) likes (3 sg.) fresh     fish
+\l I like fresh fish
+
+\t Okkum           v a rð         seld kýr
+\m Okkum           v a rð         seld kýr
+\g us (dat.1 pl.) became (3 sg.) sold cows
+\l We were sold cows
+
+\t       b.   Nú haldi eg [meg   hava prátað nóg   nógv]
+\m       b.   Nú haldi eg [meg   hava prátað nóg   nógv]
+\g            Now think I  me to have talked quite enough
+\l Now I think I've talked quite enough.
+
+\t Í dag er *(tað) komin ein drongur.
+\m Í dag er *(tað) komin ein drongur.
+\g today is (Expl) come a boy
+\l Today a boy came.
+
+\t Mær dámar væl hasa bókina.                          Modern
+\m Mær dámar væl hasa bókina.                          Modern
+\g I.dat like this book.acc
+\l I like this book.
+
+\t Ég dámi væl hasa bókina.                             Modern
+\m Ég dámi væl hasa bókina.                             Modern
+\g I.nom like this book.acc
+\l I like this book.
+

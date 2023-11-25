@@ -1,0 +1,70 @@
+\t kódi>nk'a>la >
+\m kódi>nk'a>la >
+\g fire-completion-you+futureA-augment-ignite-futureB-question                   5
+\l Will you light the fire?
+
+\t ná>nt'e>T
+\m ná>nt'e>T
+\g again-you+urgency-augment-cook
+\l Cook it again!
+
+\t /edéTi>nge>la>
+\m /edéTi>nge>la>
+\g self-state-you+futureA-augment-kill-futureB-question
+\l Will you kill yourself?
+
+\t /eTt Tét T
+\m /eTt Tét T
+\g I-eat
+\l I eat
+
+\t /é>Tt Te>di
+\m /é>Tt Te>di
+\g (it-)perfective-I-eat-final
+\l I have eaten
+
+\t dé>Tt Te¬
+\m dé>Tt Te¬
+\g completion-I+futureA-eat-futureB
+\l I will eat
+
+\t /á>y=t'e/i
+\m /á>y=t'e/i
+\g -perfective-I-augment-be-final
+\l I have been
+
+\t /áde>st'e>¬
+\m /áde>st'e>¬
+\g -completion-I+futureA-augment-be-futureB
+\l I will be
+
+\t yí>t se>i
+\m yí>t se>i
+\g y´-.conjugation-perfective-he-cry-final
+\l he has cried
+
+\t náda>t se¬
+\m náda>t se¬
+\g again-completion-he+futureA-cry-futureB
+\l he will cry again
+
+\t yá>y=tet S
+\m yá>y=tet S
+\g y´-.conjugation-?-perfective-I-augment-barking
+\l I have barked
+
+\t yáde>stet S
+\m yáde>stet S
+\g y´-.conjugation-?-completion-I+futureA-augment-barking
+\l I will bark
+
+\t dadénesdos
+\m dadénesdos
+\g rising-non.focal-surface-I-augment-boiling
+\l I am boiling it
+
+\t dadéne>sdos
+\m dadéne>sdos
+\g rising-non.focal-surface-I+futureA-augment-boiling
+\l I will boil it
+

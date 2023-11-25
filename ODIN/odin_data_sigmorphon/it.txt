@@ -1,0 +1,860 @@
+\t Berniukas           musa         vaikus.
+\m Berniuk-as           musa         vaik-us.
+\g boy-NOM.SG           beat(3SG)    child.ACC.PL
+\l The boy beats children.
+
+\t Berniukas           musasi.
+\m Berniuk-as           musa-si.
+\g boy-NOM.SG           beat(3SG)-DEOBJ
+\l The boy fights (is pugnacious).
+
+\t P uny         kurtcyliske.
+\m P uny         kurtcyl-isk-e.
+\g dog(NOM) bite-DEOBJ-3SG
+\l The dog bites.
+
+\t Jõn              búta                  kareino.
+\m Jõn              búta                  kareino.
+\g 3s.m.gen         been.imp              soldier.s.m.gen
+\l (They say) he was a soldier
+
+\t Charti bòòk waa khawi hen               Nuan
+\m Charti bòòk waa khawi hen               Nuan
+\g Chart speak say         he    see         Nuan
+\l Charti said that he saw Nuani.
+
+\t KhawI          bòòk waa Chart      i   hen    Nuan
+\m KhawI          bòòk waa Chart      i   hen    Nuan
+\g  he             speak say     Chart       see    Nuan
+\l He said that Chart saw Nuan.
+
+\t Petro       atsikelta          anksti.
+\m Petro       at-si-kelta          anksti.
+\g Petras:GEN     REFL got-up:-TA early
+\l Petras apparently got up early.
+
+\t Mokytojoi buvo
+\m Mokytojoi buvo
+\g teacher:GEN AUX:PAST corrected:NOM.FEM.PLREFL                     his mistakes:NOM.FEM.PL
+\l By the teacher was corrected his mistakes.
+
+\t Jo      pasirodyta didvyrio.
+\m Jo      pasirodyta didvyrio.
+\g he:GEN seemed:-TA hero:GEN
+\l He seemed (to be) a hero.
+
+\t Jo       tebesama gyvo.
+\m Jo       tebesama gyvo.
+\g he:GEN being:-MA alive:GEN
+\l (They say) he is still alive.
+
+\t c.
+\m c.
+\g      pinetrees:GEN been:-TA thick:GEN
+\l The pinetrees were apparently thick.
+
+\t b.
+\m b.
+\g      snowed:
+\l It (apparently?) snowed.
+
+\t a.
+\m a.
+\g    I-heard he:GEN AUX:PRES in-city house:NOM.MASC being-built:-MA
+\l I heard he is building a house in town.
+
+\t Namas                yra       (jo)      statomas                             mieste.
+\m Namas                yra       (jo)      statomas                             mieste.
+\g house:NOM.MASC.SG AUX:PRES he:GEN being-built:MASC.SG   in-city
+\l The house is being built by him in the city.
+
+\t a.
+\m a.
+\g    father:GEN being-invited:-MA guests:NOM
+\l Father is apparently inviting guests.
+
+\t a.
+\m a.
+\g    here me:GEN (GEN)          you:GEN (GEN)                             worked:-TA
+\l I / you apparently worked here.
+
+\t b.
+\m b.
+\g      me:GEN (GEN)          you:GEN (GEN)                       friend:NOM invited:-TA
+\l (Evidently) I / you invited a friend.
+
+\t a.
+\m a.
+\g    others:DAT letters:NOM to-write:-TI AUX:PAST much easier
+\l For others to write letters was much easier.
+
+\t b.
+\m b.
+\g      through forest man:DAT barefoot:DAT to-walk:-TI uncomfortable:
+\l It is uncomfortable for a man to walk barefoot through the forest.
+
+\t a.
+\m a.
+\g    sun:DAT rising:GER we-reached crossing:ACC
+\l We reached the crossing when the sun was rising.
+
+\t b.
+\m b.
+\g      perished:GER Mindaugas:DAT Lithuania:NOM found-itself in-danger
+\l After Mindaugas had perished, Lithuania found itself in danger.
+
+\t Jam       nepatiko        [ laukelis arti].
+\m Jam       nepatiko        [ laukelis arti].
+\g him:DAT didn't appeal field:NOM to-plough:-TI
+\l He didn't like to plough the field.
+
+\t Tau
+\m Tau
+\g you yourself:DAT will-be-necessary rye:NOM to-cut:-TI
+\l You will have to cut the rye yourself.
+
+\t Lithuanian: Infinitive +                  PRO Subject
+\m Lithuanian: Infinitive +                  PRO Subject
+\g                                     NOM                       student:GEN persuaded:-TA father:NOM PRO:NOM to-buy watch:ACC /*                      NOM
+\l The student apparently persuaded his father to buy a watch.
+
+\t a.
+\m a.
+\g    he:GEN NEG seen:-MA bird:GEN                             bird:   NOM
+\l Evidently he hasn't seen the bird.
+
+\t b.
+\m b.
+\g      parents:GEN NEG read:-TA these books:GEN                               these books:   NOM
+\l The parents apparently haven't read these books.
+
+\t                                             81
+\m                                             81
+\g  brother:GEN brought:-TA apples:GEN
+\l My brother apparently brought some apples.
+
+\t a.
+\m a.
+\g    they:GEN proud:-MA      SELF son:INST                    SELF   son:   NOM
+\l They were apparently proud of their son.
+
+\t b.
+\m b.
+\g      student:GEN asked:-TA father:GEN father:NOM to-come
+\l The student apparently asked his father to come.
+
+\t Jonoi      sudeginta        savoi / *joi namas.
+\m Jonoi      sudeginta        savoi / *joi namas.
+\g Jonas:GEN burnt-down:-TA REFL        his house:NOM
+\l Jonas apparently burned down his house.
+
+\t b.
+\m b.
+\g      teacher:GEN seen:-TA REFL:GEN him:ACC in-mirror
+\l The teacher apparently saw himself in the mirror.
+
+\t Petras       ir Ona            buèiuojasi
+\m Petr-as       ir On-a            buèiuoja-si
+\g  Peter-NOM and Ann-NOM           kiss-RFL/RECP
+\l Peter and Ann kiss each other
+
+\t Ona supasi
+\m Ona supa-si
+\g  Ann rock-RFL/RECP
+\l Ann is rocking [herself]
+
+\t    ´             ~               `
+\m    ´             ~               `
+\g father.NOM invites.3RD.PRES guests.MASC.PL.ACC
+\l  Father invites guests. 
+
+\t      ~                    `         ´              `
+\m      ~                    `         ´              `
+\g guests.MASC.PL.NOM be.3RD.PRES father.GEN invited.MASC.PL.NOM
+\l  Guests are invited by father. 
+
+\t    ~              ¯~´   ¯
+\m    ~              ¯~´   ¯
+\g buy.IMP        grain.NOM.PL/ACC.PL
+\l  Grain is    (being) bought. 
+
+\t    `            ~               `           `
+\m    `            ~               `           `
+\g hen.SG.NOM weigh.3RD.PRES two kilograms.PL.ACC
+\l  The chicken weighs two kilograms. 
+
+\t                ~         `         ~            `
+\m                ~         `         ~            `
+\g hen.SG.GEN weigh.IMP two kilograms.PL.NOM/PL.ACC
+\l  The weight of the chicken is two kilograms. 
+
+\t   `                 `                ~
+\m   `                 `                ~
+\g he.MASC.SG.NOM be.3RD.PAST soldier.MASC.SG.NOM
+\l  He was a soldier. 
+
+\t    ~               ´             ~
+\m    ~               ´             ~
+\g he.MASC.SG.GEN been.IMP soldier.MASC.SG.GEN
+\l  (They say) he was a soldier. 
+
+\t      ~   `           ´
+\m      ~   `           ´
+\g who.GEN here       been.PASS.NEUT.SG
+\l  Who was here     ?
+
+\t    ~                 ´     `seita.
+\m    ~                 ´     `seita.
+\g him.MASC.SG.GEN been.IMP left.IMP
+\l  (They say/Evidently) he has gone out. 
+
+\t Vaikas          skaito knygaç.
+\m Vaikas          skaito knygaç.
+\g    child:NOM reads book:ACC
+\l The child is reading a book.
+
+\t Dailininkas nutapeæ paveikslaç.
+\m Dailininkas nutapeæ paveikslaç.
+\g artist:NOM painted picture:ACC
+\l The artist has painted a picture.
+
+\t Jie stengiasi ª taisyti            keliaçº.
+\m Jie stengiasi ª taisyti            keliaçº.
+\g   they try            to-repair road:ACC
+\l They are trying to repair the road.
+
+\t Jis nori ªaplankyti draugaçº.
+\m Jis nori ªaplankyti draugaçº.
+\g he wants to-visit            friend:ACC
+\l He wants to visit a friend.
+
+\t Jis nez=ino,      ªkada skaityti knygaçº.
+\m Jis nez=ino,      ªkada skaityti knygaçº.
+\g he not-know when to-read book:ACC
+\l He doesn't know when to read the book.
+
+\t Jie dz=iaugeæsi pergale.
+\m Jie dz=iaugeæsi pergale.
+\g   they rejoiced victory:INST
+\l They rejoiced at the victory.
+
+\t Jis atstovavo darbininkams.
+\m Jis atstovavo darbininkams.
+\g he represented workers:DAT
+\l He represented the workers.
+
+\t Mes vengiame            to profesoriaus.
+\m Mes vengiame            to profesoriaus.
+\g we are-avoiding that professor:GEN
+\l We are avoiding that professor.
+
+\t Jie noreæjo ªdz=iaugtis pergaleº.
+\m Jie noreæjo ªdz=iaugtis pergaleº.
+\g   they wanted to-rejoice victory:INST
+\l They wanted to rejoice at the victory.
+
+\t Jis bijojo        ªatstovauti darbininkamsº.
+\m Jis bijojo        ªatstovauti darbininkamsº.
+\g he was-afraid to-represent workers:DAT
+\l He was afraid to represent the workers.
+
+\t Mes pamiréome ª vengti to profesoriausº.
+\m Mes pamiréome ª vengti to profesoriausº.
+\g we forgot               to-avoid that professor:GEN
+\l We forgot to avoid that professor.
+
+\t Pastateæ      darz=ineç       ªéienui       sukrautiº.
+\m Pastateæ      darz=ineç       ªéienui       sukrautiº.
+\g (they)-built hayloft:ACC hay:DAT to-keep
+\l They built a hayloft to keep hay.
+
+\t Iévaz=iavo ªkelio          taisytiº.
+\m Iévaz=iavo ªkelio          taisytiº.
+\g (they)-went road:GEN to-repair
+\l They went to repair the road.
+
+\t Man        nusibosta         ªlaikraétis          skaitytiº.
+\m Man        nusibosta         ªlaikraétis          skaitytiº.
+\g me:DAT is-boring:[­AGR] newspaper:NOM to-read
+\l It is boring for me to read the newspaper.
+
+\t Dailininkas nutapeæ paveikslaç.
+\m Dailininkas nutapeæ paveikslaç.
+\g    artist:NOM painted picture:ACC
+\l The artist painted a picture.
+
+\t Dailininkas nenutapeæ          paveikslo.
+\m Dailininkas nenutapeæ          paveikslo.
+\g  artist:NOM NEG-painted picture:GEN
+\l The artist didn't paint a picture.
+
+\t Jie dz=iaugeæsi pergale.
+\m Jie dz=iaugeæsi pergale.
+\g    they rejoiced victory:INST
+\l They rejoiced at the victory.
+
+\t Jie nesidz=iaugeæ pergale.
+\m Jie nesidz=iaugeæ pergale.
+\g  they NEG-rejoiced victory:INST
+\l They didn't rejoice at the victory.
+
+\t Pastateæ      darz=ineç   ªéienui sukrautiº.
+\m Pastateæ      darz=ineç   ªéienui sukrautiº.
+\g (they)-built hayloft:ACC hay:DAT to-keep
+\l They built a hayloft to keep hay.
+
+\t Atneéeæ        vandens         ª geæleæms       palaistytiº.
+\m Atneéeæ        vandens         ª geæleæms       palaistytiº.
+\g (he)-brought water:PART.GEN flowers:DAT to-pour
+\l He brought some water to pour on the flowers.
+
+\t Teævas parsivez=eæ malkuç                 ªtrobai       ku\rentiº.
+\m Teævas parsivez=eæ malkuç                 ªtrobai       ku\rentiº.
+\g father brought firewood:PART.GEN cottage:DAT to-heat
+\l Father brought some firewood to heat the cottage.
+
+\t Reikeæs                 ieékoti        arklio
+\m Reikeæs                 ieékoti        arklio
+\g it-will-be-necessary to-search-for horse:GEN land:DAT to-plow
+\l It will be necessary to search for a horse to plow the land.
+
+\t Mes pastateæme ligonineç                 ªru\pintis          vaikaisº.
+\m Mes pastateæme ligonineç                 ªru\pintis          vaikaisº.
+\g    we built              hospital:ACC to-take-care-of children:INST
+\l We built a hospital to take care of children.
+
+\t Jie pasidaveæ            ªvengti ilgo karoº.
+\m Jie pasidaveæ            ªvengti ilgo karoº.
+\g    they surrendered to-avoid long war:GEN
+\l They surrendered to avoid a long war.
+
+\t Mes pastateæme ligonineç                  ªvaikams          gydytiº.
+\m Mes pastateæme ligonineç                  ªvaikams          gydytiº.
+\g    we built              hospital:ACC children:DAT to-treat
+\l We built a hospital to treat children.
+
+\t Jie pasidaveæ            ªilgam karui            uz=baigtiº.
+\m Jie pasidaveæ            ªilgam karui            uz=baigtiº.
+\g    they surrendered long war:DAT to-end
+\l They surrendered to end the long war.
+
+\t peilis          ªduonai         riektiº
+\m peilis          ªduonai         riektiº
+\g    knife:NOM bread:DAT to-cut
+\l a knife for cutting bread
+
+\t lentyna       ªindams         sudeætiº
+\m lentyna       ªindams         sudeætiº
+\g  shelf:NOM dishes:DAT to-put
+\l a shelf to put the dishes on
+
+\t indas         ªarbatai virtiº
+\m indas         ªarbatai virtiº
+\g  kettle:NOM tea:DAT to-boil
+\l a kettle for making tea
+
+\t Iévaz=iavo ªkelio           taisytiº.
+\m Iévaz=iavo ªkelio           taisytiº.
+\g  (they)-went road:GEN to-repair
+\l They went to repair the road.
+
+\t Ateæjo      ªdraugo        aplankytiº.
+\m Ateæjo      ªdraugo        aplankytiº.
+\g  (he)-came friend:GEN to-visit
+\l He came to visit a friend.
+
+\t Parvaz=iavo         ªsukneleæs pasiimtiº.
+\m Parvaz=iavo         ªsukneleæs pasiimtiº.
+\g  (she)-came-back dress:GEN to-take
+\l She came back to take the dress.
+
+\t kelio          taisymas
+\m kelio          taisymas
+\g    road:GEN repair:NOM
+\l the road's repair.
+
+\t Jis ateæjo ªkarveæs      pirktuç].
+\m Jis ateæjo ªkarveæs      pirktuç].
+\g  he came        cow:GEN to-buy:SUP
+\l He came to buy a cow.
+
+\t Aé ateæjau ªgeæliuç       surinktuç].
+\m Aé ateæjau ªgeæliuç       surinktuç].
+\g  I     came     flowers:GEN to-gather:SUP
+\l I came to gather flowers.
+
+\t Siunteæ       mergaiteç ª vandens parneétiº.
+\m Siunteæ       mergaiteç ª vandens parneétiº.
+\g   (he)-sent girl:ACC water:GEN to-fetch
+\l He sent the girl to fetch the water.
+
+\t Ateæjo         ªaplankyti draugaçº.
+\m Ateæjo         ªaplankyti draugaçº.
+\g    (he)-came to-visit          friend:ACC
+\l He came to visit a friend.
+
+\t Parvaz=iavo           ªpasiimti sukneleçº
+\m Parvaz=iavo           ªpasiimti sukneleçº
+\g  (she)-came-back to-take dress:ACC
+\l She came back to take the dress.
+
+\t Puoleæ visi ªbuc=iuotuç rankas               seneliuiº.
+\m Puoleæ visi ªbuc=iuotuç rankas               seneliuiº.
+\g    fell    all to-kiss:SUP hands:ACC old-man:DAT
+\l All fell to kiss the old man's hands.
+
+\t Stanku\nas nubeægo ªsudeætuç               drabuz=iusº.
+\m Stanku\nas nubeægo ªsudeætuç               drabuz=iusº.
+\g  Stankunas ran-off to-collect:SUP clothes:ACC
+\l Stankunas ran off to gather his clothes.
+
+\t Pastateæ         darz=ineç     ªsukrauti éienaçº.
+\m Pastateæ         darz=ineç     ªsukrauti éienaçº.
+\g     (they)-built hayloft:ACC to-keep hay:ACC
+\l They built a hayloft to keep hay.
+
+\t Ateæjo          ªru\pintis          drauguº.
+\m Ateæjo          ªru\pintis          drauguº.
+\g    (he)-came to-take-care-of friend:INST
+\l He came to take care of a friend.
+
+\t Parvaz=iavo            ªdeækoti motinaiº.
+\m Parvaz=iavo            ªdeækoti motinaiº.
+\g    (she)-came-back to-thank mother:DAT
+\l She came back to thank her mother.
+
+\t Iéeæjo          pieno.
+\m Iéeæjo          pieno.
+\g    (he)-went milk:GEN
+\l He went for milk.
+
+\t Iésiunteæ su\nuç          daktaro.
+\m Iésiunteæ su\nuç          daktaro.
+\g  (he)-sent son:ACC doctor:GEN
+\l He sent his son for the doctor.
+
+\t Siunteæ       mergaiteç ªparneéti daktaroº.
+\m Siunteæ       mergaiteç ªparneéti daktaroº.
+\g   (he)-sent girl:ACC to-fetch doctor:GEN
+\l He sent the girl to fetch a doctor.
+
+\t Stanku\nas nubeægo [paimti piniguç].
+\m Stanku\nas nubeægo [paimti piniguç].
+\g   Stankunas ran-off to-get money:GEN
+\l Stankunas ran off to get the money.
+
+\t Man         nusibosta            ªlaikraétis       skaitytiº.
+\m Man         nusibosta            ªlaikraétis       skaitytiº.
+\g  me:DAT is-boring:[­AGR] newspaper:NOM to-read
+\l It is boring for me to read the newspaper.
+
+\t Jam           nepatiko              ª laukelis artiº.
+\m Jam           nepatiko              ª laukelis artiº.
+\g  him:DAT did-not-like:[­AGR] field:NOM to-plow
+\l He didn't like to plow the field.
+
+\t Jiems         buvo neiçdomu                ª radijas    klausytiº.
+\m Jiems         buvo neiçdomu                ª radijas    klausytiº.
+\g  them:DAT was uninteresting:[­AGR] radio:NOM to-listen
+\l It was boring for them to listen to the radio.
+
+\t Man         atsitiko            vakar     ªgeras arklys       pirktiº.
+\m Man         atsitiko            vakar     ªgeras arklys       pirktiº.
+\g  me:DAT happened:[­AGR] yesterday good horse:NOM to-buy
+\l I was fortunate yesterday to buy a good horse.
+
+\t Man           nusibosta          ªru\pintis           vaikaisº.
+\m Man           nusibosta          ªru\pintis           vaikaisº.
+\g    me:DAT is-boring:[­AGR] to-take-care-of children:INST
+\l It is boring for me to take care of children.
+
+\t Jam            nepatiko              ª laukti piniguçº.
+\m Jam            nepatiko              ª laukti piniguçº.
+\g    him:DAT did-not-like:[­AGR] to-wait money:GEN
+\l He didn't like to wait for money.
+
+\t Iévaz=iavo ªkelio
+\m Iévaz=iavo ªkelio
+\g  (they)-went road:GEN           quickly to-repair
+\l They went to quickly repair the road.
+
+\t Mes pastateæme ligonineç                ªru\pintis       vaikaisº.
+\m Mes pastateæme ligonineç                ªru\pintis       vaikaisº.
+\g    we built              hospital:ACC to-take-care-of children:INST
+\l We built a hospital to take care of children.
+
+\t Pastateæ           darz=ineç     ªéienui      sukrautiº.
+\m Pastateæ           darz=ineç     ªéienui      sukrautiº.
+\g    (they)-built hayloft:ACC hay:DAT to-keep
+\l They built a hayloft to keep hay.
+
+\t tureæti       piniguç       namui
+\m tureæti       piniguç       namui
+\g    to-have money:GEN house:DAT
+\l to have money for a house
+
+\t iésinuomoti kambariç        mezgyklai
+\m iésinuomoti kambariç        mezgyklai
+\g  to-rent          room:ACC knitting-shop:DAT
+\l to rent a room for a knitting shop
+
+\t atneéti vandens darz=ams
+\m atneéti vandens darz=ams
+\g  to-bring water:GEN kitchen-garden:DAT
+\l to bring water for the kitchen-garden
+
+\t popierius laiékams
+\m popierius laiékams
+\g  paper        letters:DAT
+\l paper for letters
+
+\t Parvez=eæm        lentuç        namui       (apmuéti).
+\m Parvez=eæm        lentuç        namui       (apmuéti).
+\g   we-brought boards:GEN house:DAT to-cover
+\l We brought some boards {for the house / to cover the house}.
+
+\t Iééoveæ         z=moneæms pagaçsdinti.
+\m Iééoveæ         z=moneæms pagaçsdinti.
+\g    (he)-fired people:DAT to-frighten
+\l He fired to frighten the people.
+
+\t Man           nusibosta         laikraétis.
+\m Man           nusibosta         laikraétis.
+\g    me:DAT is-boring:3SG/PL newspaper:NOM.MASC
+\l I am tired of the newspaper.
+
+\t Man         yra         nusibodeçs           tas pats      laikraétis.       
+\m Man         yra         nusibodeçs           tas pats      laikraétis.       
+\g  me:DAT AUX:PRES bored:PART.MASC same:NOM.MASC             newspaper:NOM.MASC
+\l I have gotten bored of the same newspaper.
+
+\t Teævams         yra          jau      nusibodusi        éi tema.
+\m Teævams         yra          jau      nusibodusi        éi tema.
+\g  parents:DAT AUX:PRES already bored:PART.FEM this theme:NOM.FEM
+\l The parents have already become tired of this topic.
+
+\t Man           nusibosta         ªlaikraétis       skaitytiº.
+\m Man           nusibosta         ªlaikraétis       skaitytiº.
+\g    me:DAT is-boring:[­AGR] newspaper:NOM to-read
+\l It is boring for me to read the newspaper.
+
+\t Man         yra         nusibodeç             vis ªtas pats      laikraétis                skaitytiº.
+\m Man         yra         nusibodeç             vis ªtas pats      laikraétis                skaitytiº.
+\g  me:DAT AUX:PRES bored:PART.[­AGR] always same:NOM.MASC          newspaper:NOM.MASC to-read          
+\l I have gotten bored with always reading the same newspaper.
+
+\t Teævams         yra          jau     nusibodeç            ª éi      tema                svarstytiº.
+\m Teævams         yra          jau     nusibodeç            ª éi      tema                svarstytiº.
+\g  parents:DAT AUX:PRES already bored:PART.[­AGR] this                theme:NOM.FEM to-discuss       
+\l The parents have already become tired of discussing this topic.
+
+\t Ne vaikui            kilometras        nueiti.
+\m Ne vaikui            kilometras        nueiti.
+\g    not child:DAT kilometer:NOM to-go
+\l It is not for a child to walk a kilometer.
+
+\t Ne jam             valanda iélaukti.
+\m Ne jam             valanda iélaukti.
+\g  not him:DAT hour:NOM to-wait
+\l It is not for him to wait an hour.
+
+\t Netrukus ir tau             teks                      kelios dienos      pasitraukti ié       tarnybos.
+\m Netrukus ir tau             teks                      kelios dienos      pasitraukti ié       tarnybos.
+\g  soon         PRT you:DAT will-be-necessary:[­AGR] several days:NOM      to-retire      from service   
+\l Soon even you will have to leave work for a few days.
+
+\t Ne vaikui            nueiti kilometraç.
+\m Ne vaikui            nueiti kilometraç.
+\g    not child:DAT to-go kilometer:ACC
+\l It is not for a child to walk a kilometer.
+
+\t Lijo valandaç.
+\m Lijo valandaç.
+\g  rained hour:ACC
+\l It rained for an hour.
+
+\t Tau         teks                         tarnauti kelias dienas.
+\m Tau         teks                         tarnauti kelias dienas.
+\g  you:DAT will-be-necessary:[­AGR] to-serve several days:ACC
+\l You will have to serve (for) a few days.
+
+\t Uz=sisakeæ       kambariç    nakc=iai     permiegoti.
+\m Uz=sisakeæ       kambariç    nakc=iai     permiegoti.
+\g   (he)-reserved room:ACC night:DAT to-sleep
+\l He rented a room to stay the night.
+
+\t Iésinuomavo namaç          vasarai        praleisti.
+\m Iésinuomavo namaç          vasarai        praleisti.
+\g (they)-rented house:ACC summer:DAT to-spend
+\l They rented a house to spend the summer.
+
+\t Nueæjo         iç stadionaç     kilometro        nubeægti.
+\m Nueæjo         iç stadionaç     kilometro        nubeægti.
+\g  (she)-went to stadium:ACC kilometer:GEN to-run
+\l She went to the stadium to run a kilometer.
+
+\t Jis nez=ino,        ªkada jam       skaityti knygaçº.
+\m Jis nez=ino,        ªkada jam       skaityti knygaçº.
+\g   he not-know when him:DAT to-read book:ACC
+\l He doesn't know when he should read the book.
+
+\t Pastateæ       darz=ineç   ªéienui mums sukrautiº.
+\m Pastateæ       darz=ineç   ªéienui mums sukrautiº.
+\g   (they)-built hayloft:ACC hay:DAT us:DAT to-keep
+\l They built a hayloft for us to keep hay.
+
+\t Pastateæ        darz=ineç       éienui.
+\m Pastateæ        darz=ineç       éienui.
+\g   (they)-built hayloft:ACC hay:DAT
+\l They built a hayloft for the hay.
+
+\t tureæti      piniguç          namui
+\m tureæti      piniguç          namui
+\g    to-have money:GEN house:DAT
+\l to have money for a house
+
+\t iésinuomoti kambariç           mezgyklai
+\m iésinuomoti kambariç           mezgyklai
+\g  to-rent         room:ACC knitting-shop:DAT
+\l to rent a room for a knitting shop
+
+\t atneéti vandens darz=ams
+\m atneéti vandens darz=ams
+\g  to-bring water:GEN kitchen-garden:DAT
+\l to bring water for the kitchen-garden
+
+\t Iéeæjo         pieno.
+\m Iéeæjo         pieno.
+\g    (he)-went milk:GEN
+\l He went for milk.
+
+\t Iésiunteæ su\nuç          daktaro.
+\m Iésiunteæ su\nuç          daktaro.
+\g  (he)-sent son:ACC doctor:GEN
+\l He sent his son for the doctor.
+
+\t Pastateæ darz=ineç éienui ªsukrauti · jiç     ¶ · jamº.
+\m Pastateæ darz=ineç éienui ªsukrauti · jiç     ¶ · jamº.
+\g                                       it:ACC      it:DAT
+\l They built a hayloft for hay in order to keep it.
+
+\t Iésiunteæ su\nuç      daktaro ª pakviesti ·jiç              ¶ · jo].
+\m Iésiunteæ su\nuç      daktaro ª pakviesti ·jiç              ¶ · jo].
+\g (he)-sent son:ACC doctor:GEN to-get              him:ACC him:GEN
+\l He sent his son for the doctor in order to get him.
+
+\t Man           yra        nusibodeç            vis       tas pats         laikraétis               skaityti.
+\m Man           yra        nusibodeç            vis       tas pats         laikraétis               skaityti.
+\g    me:DAT AUX:PRES bored:PART.[­AGR] always same:NOM.MASC                newspaper:NOM.MASC to-read        
+\l I have gotten bored with always reading the same newspaper.
+
+\t Parvez=eæm         lentuç         namui        (apmuéti).
+\m Parvez=eæm         lentuç         namui        (apmuéti).
+\g   we-brought boards:GEN house:DAT to-cover
+\l We brought some boards {for the house / to cover the house}.
+
+\t Iééoveæ        z=moneæms ·(L pagaçsdinti).
+\m Iééoveæ        z=moneæms ·(L pagaçsdinti).
+\g   (he)-fired people:DAT to-frighten
+\l He fired {*for people / to frighten people}.
+
+\t Mes pastateæme ligonineç               ligoms          ·( gydyti).
+\m Mes pastateæme ligonineç               ligoms          ·( gydyti).
+\g     we built           hospital:ACC diseases:DAT to-treat
+\l We built a hospital {*for diseases / to treat diseases}.
+
+\t Jie pasidaveæ           ilgam karui         ·( uz=baigti).
+\m Jie pasidaveæ           ilgam karui         ·( uz=baigti).
+\g   they surrendered long war:DAT                to-end
+\l They surrendered {*for the long war / to end the long war}.
+
+\t Jis paspruko auksui ·( pasleæpti).
+\m Jis paspruko auksui ·( pasleæpti).
+\g   he escaped gold:DAT to-hide
+\l He escaped {*for gold / to hide the gold}.
+
+\t Iévaz=iavo          kelio       ·( taisyti).
+\m Iévaz=iavo          kelio       ·( taisyti).
+\g     (they)-went road:GEN           to-repair
+\l They went {*to fetch the road / to repair the road}.
+
+\t Visi puoleæ rankuç             seneliui         ·( buc=iuoti).
+\m Visi puoleæ rankuç             seneliui         ·( buc=iuoti).
+\g   all fell        hands:GEN old-man:DAT to-kiss
+\l All fell {*to get/bring the old man's hands / to kiss the old man's
+
+\t Pastateæ          darz=ineç       éienui sukrauti.
+\m Pastateæ          darz=ineç       éienui sukrauti.
+\g   (they)-built hayloft:ACC hay:DAT to-keep
+\l They built a hayloft to keep hay.
+
+\t Pastateæ        darz=ineç      ªéienui sukrautiº ir ª gru\dams apsaugotiº.
+\m Pastateæ        darz=ineç      ªéienui sukrautiº ir ª gru\dams apsaugotiº.
+\g   (they)-built hayloft:ACC hay:DAT to-keep and grain:DAT to-protect
+\l They built a hayloft to keep hay and protect grain.
+
+\t Pastateæ        darz=ineç       tam.
+\m Pastateæ        darz=ineç       tam.
+\g   (they)-built hayloft:ACC this:DAT
+\l They built a hayloft for this (purpose).
+
+\t Kam            pastateæ       darz=ineç$
+\m Kam            pastateæ       darz=ineç$
+\g     for-what (they)-built hayloft:ACC
+\l Why (for what purpose) did they build a hayloft?
+
+\t Éienui sukrauti.
+\m Éienui sukrauti.
+\g   hay:DAT to-keep
+\l In order to keep hay.
+
+\t Tai ªéienui sukrautiº pastateæ            darz=ineç.
+\m Tai ªéienui sukrautiº pastateæ            darz=ineç.
+\g   it hay:DAT to-keep (they)-built hayloft:ACC
+\l It is for hay to keep that they built a hayloft.
+
+\t Kam            pastateæ      darz=ineç   ªt sukrauti]?
+\m Kam            pastateæ      darz=ineç   ªt sukrauti]?
+\g     what:DAT (they)-built hayloft:ACC to-keep
+\l What did they build a hayloft (in order) to keep?
+
+\t Kam           atneéeæ         vandens         ªt palaistytiº?
+\m Kam           atneéeæ         vandens         ªt palaistytiº?
+\g    what:DAT (he)-brought water:PART.GEN to-pour
+\l What did he bring some water (in order) to pour (on)?
+
+\t Ko            iévaz=iavo ªt taisytiº?
+\m Ko            iévaz=iavo ªt taisytiº?
+\g   what:GEN (they)-went          to-repair
+\l What did they go to repair?
+
+\t Ko             ateæjo     ªt aplankytiº?
+\m Ko             ateæjo     ªt aplankytiº?
+\g  whom:GEN (he)-came to-visit
+\l Whom did he come to visit?
+
+\t Ateæjo        ªaplankyti draugaçº.
+\m Ateæjo        ªaplankyti draugaçº.
+\g   (he)-came to-visit          friend:ACC
+\l He came to visit a friend.
+
+\t Parvaz=iavo           ªpasiimti sukneleçº
+\m Parvaz=iavo           ªpasiimti sukneleçº
+\g  (she)-came-back to-take dress:ACC
+\l She came back to take the dress.
+
+\t Ne vaikui            kilometras        nueiti.
+\m Ne vaikui            kilometras        nueiti.
+\g    not child:DAT kilometer:NOM to-go
+\l It is not for a child to walk a kilometer.
+
+\t Ne jam             valanda iélaukti.
+\m Ne jam             valanda iélaukti.
+\g  not him:DAT hour:NOM to-wait
+\l It is not for him to wait an hour.
+
+\t Netrukus ir tau             teks                       kelios dienos      pasitraukti ié       tarnybos.
+\m Netrukus ir tau             teks                       kelios dienos      pasitraukti ié       tarnybos.
+\g  soon         PRT you:DAT will-be-necessary:[­AGR] several days:NOM       to-retire      from service   
+\l Soon even you will have to leave work for a few days.
+
+\t Man          yra         nusibodeçs           tas pats        laikraétis.       
+\m Man          yra         nusibodeçs           tas pats        laikraétis.       
+\g   me:DAT AUX:PRES bored:PART.MASC same:NOM.MASC               newspaper:NOM.MASC
+\l I have gotten bored of the same newspaper.
+
+\t Man          yra         nusibodeç       vis ª tas pats        laikraétis                skaitytiº.
+\m Man          yra         nusibodeç       vis ª tas pats        laikraétis                skaitytiº.
+\g   me:DAT AUX:PRES bored:[­AGR] always same:NOM.MASC            newspaper:NOM.MASC to-read          
+\l I have gotten bored with always reading the same newspaper.
+
+\t Man           yra        nusibodeç       vis       ªskaityti taç patiç        laikraétiçº, 
+\m Man           yra        nusibodeç       vis       ªskaityti taç patiç        laikraétiçº, 
+\g   me:DAT AUX:PRES bored:[­AGR] always to-read same:ACC                        newspaper:ACC
+\l I have gotten bored with always reading the same newspaper.
+
+\t Teævo           kviec=iama svec=iai.
+\m Teævo           kviec=iama svec=iai.
+\g    father:GEN inviting:-MA guests:NOM
+\l Father is apparently inviting guests.
+
+\t Studento        sudeginta          namas.
+\m Studento        sudeginta          namas.
+\g  student:GEN burned-down:-TA house:NOM
+\l The student apparently burned down the house.
+
+\t Mokytojo iétaisyta              klaidos.
+\m Mokytojo iétaisyta              klaidos.
+\g  teacher:GEN corrected:-TA mistakes:NOM
+\l The teacher apparently corrected the mistakes.
+
+\t jis túri kn ¢¡
+\m jis túri kn ¢¡
+\g he has     book.NOM
+\l He has a book.
+
+\t jis netúri    kn¤ £¡
+\m jis netúri    kn¤ £¡
+\g he not-has book.GEN
+\l He has no book.
+
+\t ona               grazinasi
+\m on-a               grazina-si
+\g ann-NOM            adorns-REFL
+\l Ann adorns herself.
+
+\t ( 4 a)   Sve iai          (penkias minutes)            valg             makaronus.
+\m ( 4 a)   Sve iai          (penkias minutes)            valg             makaronus.
+\g         Guests.NOM         five.ACC minutes.ACC        eat.PAST.3       spaghetti.ACC.PL
+\l ,The guests ate spaghetti (for five minutes).`
+
+\t (4 b )   Sve iai           (per penkias minutes)                suvalg          makaronus.
+\m (4 b )   Sve iai           (per penkias minutes)                suvalg          makaronus.
+\g          Guests.NOM         through five.ACC minutes.ACC        PREF.eat.PAST.3 spaghetti.ACC.PL
+\l ,The guests ate up the spaghetti (in five minutes).`
+
+\t ( 9 a)   S nus suvalg               (visus) ledus, kuriuos buvau jam nupirk s.
+\m ( 9 a)   S nus suvalg               (visus) ledus, kuriuos buvau jam nupirk s.
+\g          son.NOM PREF.eat.PAST.3 all.ACC.PL.M        ice-cream.ACC.PL.M
+\l ,The son ate up (all) ice-cream, which I had bought for him.`
+
+\t (9 b )   S nus                 suvalg                           led .
+\m (9 b )   S nus                 suvalg                           led .
+\g          son.NOM               PREF.eat.PAST.3 ice-cream.GEN.PL
+\l ,The son ate up    (some) ice-cream.`
+
+\t ( 1 1 a)   Brol i      papras            i     atnesti   vandens.
+\m ( 1 1 a)   Brol i      papras            i     atnesti   vandens.
+\g            brother.ACC PREF.ask.PAST.3        bring.INF water.GEN
+\l They asked the brother to bring some water.
+
+\t (1 1 b )   Brolioi nepras             i         atnesti         vandens.
+\m (1 1 b )   Brolioi nepras             i         atnesti         vandens.
+\g            brother.GEN       NEG.ask.PAST.3 bring.INF           water.GEN
+\l They didn't ask the brother to bring some water.
+
+\t Jis         yra mokytojas.
+\m Jis         yra mokytoj-as.
+\g he.NOM is          teacher-NOM
+\l He is a teacher.
+
+\t Jis         buvo        mokytoju.
+\m Jis         buvo        mokytoj-u.
+\g he.NOM was.3SG teacher-INS           TR
+\l He was (working as) a teacher.
+
+\t Vaiko sergama
+\m Vaiko sergama
+\g child-Gen sick-Ntr./Sg.
+\l (evidently) the child is sick.
+
+\t Tas lapelis         veio        nupustas
+\m Tas lapelis         veio        nupustas
+\g that leaf (Nom.Sg.) wind (Gen.) blown (Nom./Masc./Sg.)
+\l That leaf was blown down by the wind.
+
+\t Karas padar j            ?neturting               / neturtingu.
+\m Karas padar j            ?neturting               / neturtingu.
+\g war made him.ACC ?poor.ACC                        / poor.INSTR
+\l The war made him poor.
+

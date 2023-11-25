@@ -1,0 +1,115 @@
+\t Xat         b'iinik.
+\m X-at-         b'iin-ik.
+\g PERF-2sgABS-      walk-SUFF
+\l You walked.
+
+\t Xoj        b'iinik.
+\m X-oj-        b'iin-ik.
+\g PERF-1plABS-     walk-SUFF
+\l We walked
+
+\t Xat         qach'ay o.
+\m X-at-         qa-ch'ay- o.
+\g PERF-2sgABS-      1plERG-hit-   SUFF
+\l We hit you.
+
+\t Xoj         ach'ay o.
+\m X-oj-         a-ch'ay- o.
+\g PERF-1plABS-      2sgERG-hit-   SUFF
+\l You hit us.
+
+\t (* )             ¯            eta
+\m (* )             ¯            eta
+\g (past-) 1pl.abs-bathe-perf when
+\l We had already bathed when...
+
+\t (* )                       c¯             ar¯ q
+\m (* )                       c¯             ar¯ q
+\g (past-) 2sg.abs-1sg.poss- lo ok.for.perf when
+\l I had been lo oking for you when...
+
+\t xatukunaj                     lee achi
+\m x-at-u-kuna-j                     lee achi
+\g ASP-2SG-3SG-heal-TR            the man
+\l The man healed you.
+
+\t xatchakunik
+\m x-at-chaku-nik
+\g ASP-2SG-work-INTR
+\l You worked.
+
+\t xØkunan                      lee achi             chaawee
+\m x-Ø-kuna-n                      lee achi             ch-aaw-ee
+\g ASP-3SG-cure-AP              the man              to-2SG-RN
+\l The man cured you.
+
+\t laa aree lee achi                 xatkunanik
+\m laa aree lee achi                 x-at-kuna-nik
+\g Q     FOC     the man             ASP-2SG-cure-AF
+\l Was it the man who cured you?
+
+\t laa at                  xatkunan                   lee achi
+\m laa at                  x-at-kuna-n                   lee achi
+\g Q     you.SG            ASP-2SG-cure-AF            the man
+\l Was it you who cured the man?
+
+\t aree          lee achi            xinkunanik
+\m aree          lee achi            x-in-kuna-nik
+\g FOC           the man            ASP-1SG-cure-AF
+\l It was the man who cured me.
+
+\t in xinkunan                   lee achi
+\m in x-in-kuna-n                   lee achi
+\g I ASP-1SG-cure-AF                the man
+\l It was I who cured the man.
+
+\t in     xatinkunaaj
+\m in     x-at-in-kunaaj
+\g I      ASP-2SG-1SG-cure
+\l It is I who cured you.
+
+\t Xujux          ri tzimaa chi uwach             ri ab'aj ri achi.
+\m X-u-jux          ri tzimaa chi u-wach             ri ab'aj ri achi.
+\g ASP-3SG-scrape the gourd        to 3SG-surface the stone the man
+\l The man scraped the gourd bowl against the stone.
+
+\t laa        at            xatkunan                    lee achi
+\m laa        at            x-at-kuna-n                    lee achi
+\g     Q      you.SG        ASP-2SG-cure-AF             the man
+\l Was it you who cured the man?
+
+\t xØaakunaj                     lee achi.
+\m x-Ø-aa-kuna-j                     lee achi.
+\g   ASP-3SG-2SG-cure-TR the man
+\l You cured the man.
+
+\t laa       aree          lee achi           xatkunanik
+\m laa       aree          lee achi           x-at-kuna-nik
+\g   Q       FOC           the man            ASP-2SG-cure-AF
+\l Was it the man who cured you?
+
+\t Xatwarik
+\m X-at-war-ik
+\g TNS-2 SG.ABS-sleep-SUFF
+\l You slept.
+
+\t Katuch'ayo                   ri    achi
+\m K-at-u-ch'ay-o                   ri    achi
+\g TNS-2 SG.ABS-3 ERG-hit-SUFF CLASS man
+\l The man hit you.
+
+\t x0ukamsaj                   riib'                lee    achih
+\m x-0-u-kamsa-j                   r-iib'                lee    achih
+\g Compl.3s.Abs-3s.Erg-kill-Suff   3s-self               the    man
+\l The man killed himself.
+
+\t (20)a. x0ukamsaj                   riib'               lee     achih
+\m (20)a. x-0-u-kamsa-j                   r-iib'               lee     achih
+\g        Compl.3s.Abs-3s.Erg-kill-Suff   3s-self              the     man
+\l The man killed himself.
+
+\t x0ukamsaj                   riib'                lee     achih
+\m x-0-u-kamsa-j                   r-iib'                lee     achih
+\g Compl.3s.Abs-3s.Erg-kill-Suff   3s-self               the     man
+\l The man killed himself.
+

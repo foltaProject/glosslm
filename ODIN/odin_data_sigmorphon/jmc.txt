@@ -1,0 +1,135 @@
+\t   ¨ i` ii`           kelya.
+\m   ¨ i-` i-i-`           k-elya.
+\g Foc-1S-Pres-1O-eat-Appl-FV 7-food
+\l He/she is eating food for/on him/her.
+
+\t Na¨ k`ly´ ´ a        mka.
+\m N-a-¨ k`-ly´ ´ a        m-ka.
+\g Foc-1S-Pres-7O-eat-Appl-FV 1-wife
+\l He/she is eating it for/on the wife.
+
+\t Mka na¨ ` ´ o               kelya
+\m M-ka n-a-¨ ` ´ o               k-elya
+\g 1-wife Foc-1S-Pres-eat-Appl-Pass 7-food
+\l The wife is being benefited/adversely affected by someone eating the food.
+
+\t Kelya k¨ ` ´ o           mka
+\m K-elya k-¨ ` ´ o           m-ka
+\g 7-food 7S-Pres-eat-Appl-Pass 1-wife
+\l The food is being eaten for/on the wife.
+
+\t   ¨ i` ii`                kelya.
+\m   ¨ i-` i-i-`                k-elya.
+\g Foc-1S-Pres-1O-eat-Appl-FV 7-food
+\l He/she is eating food for/on him/her.
+
+\t Na¨ k`ly´ ´ a             mka.
+\m N-a-¨ k`-ly´ ´ a             m-ka.
+\g Foc-1S-Pres-7O-eat-Appl-FV 1-wife
+\l He/she is eating it for/on the wife.
+
+\t Mka na¨ ` ´ o                kelya
+\m M-ka n-a-¨ ` ´ o                k-elya
+\g 1-wife Foc-1S-Pres-eat-Appl-Pass 7-food
+\l The wife is being benefited/adversely affected by someone eating the food.
+
+\t Kelya k¨ ` ´ o            mka
+\m K-elya k-¨ ` ´ o            m-ka
+\g 7-food 7S-Pres-eat-Appl-Pass 1-wife
+\l The food is being eaten for/on the wife.
+
+\t Kïmlyîíò
+\m K-ï-m-lyî-í-ò
+\g  7S-PR-1O-eat-APP-PAS
+\l It (the food) is being eaten for/on him/her.
+
+\t Näïkìmlyïà                   òó kyò                                                  ... NPÔÖÓ NPÔÖÓ
+\m N-ä-ï-kì-m-lyï-à                   òó kyò                                                  ... NPÔÖÓ NPÔÖÓ
+\g FO C-1S-PR-7O-1O-eat-AP-FV 1PRO 7PR       O
+\l He/she is eating it for/on him/her.
+
+\t Nlyìíà                 `
+\m N--lyì-í-à                 `
+\g FOC-1s-PR-eat-AP-FV 1-wife
+\l He is eating for the wife
+
+\t Naizrìcíà               mbùyà.
+\m N-a-i-zrìc-í-à               mbùyà.
+\g FOC-1SG-PRES-eat-APPL-FV 9-friend
+\l He is running for a friend
+
+\t Na_i_lyà                 kélyà.
+\m N-a_-i_-ly-à                 k-élyà.
+\g  FOC-1.SG-PRS-eat-FV 7-food
+\l He/She is eating food.
+
+\t Na_i_lyìíà                        m~rìnyì            kélyà.
+\m N-a_-i_-lyì-í-à                        m~-rì-nyì            k-élyà.
+\g  FOC-1.SG-PRS-eat-APPL-FV              3-homestead-LOC 7-food
+\l He/She is eating food at the homestead.
+
+\t         J        Jkz      `         lyzJ       e.
+\m         J        J-kz-      `         lyz-J-       e.
+\g FOC-1SUBJ- PRES-7OBJ- 1OBJ-eat- APPL-VOWEL
+\l S/he is eating it for/on him/her.
+
+\t Näïmlyìá                   kèlyá ò                                                               ... NPÔÖÓ
+\m N-ä-ï-m-lyì-á                   k-èlyá ò                                                               ... NPÔÖÓ
+\g FO C-1S-PR-1O-eat- AP-FV 7-food 1PRO                                                      OM
+\l He/she is eating food for/on him/her.
+
+\t Näïkìlyìà                  mkà kyô                                                             ... NPÔÖÓ
+\m N-ä-ï-kì-lyì-à                  m-kà kyô                                                             ... NPÔÖÓ
+\g FO C-1S-PR-7O-eat- AP-FV 1-wife 7PR    O                                                OM
+\l He/she is eating it for/on the wife.
+
+\t Naizrìcíà                     mbùyà.
+\m N-a-i-zrìc-í-à                     mbùyà.
+\g FOC-1s-PR-eat-AP-FV                 9 friend
+\l He is eating for a friend
+
+\t Näïlyìíà     mkà kélyà
+\m N-ä-ï-lyì-í-à     m-kà k-élyà
+\g (Hei) AGRSi-AgrOj-AgrOk-eat-BEN wifej food         k
+\l He is eating food for his wife
+
+\t Mkà näïlyìíò      kélyà
+\m M-kà n-ä-ï-lyì-í-ò      k-élyà
+\g Foodk AGRSk-AgrOj-eat-BEN-pass wifej
+\l Food is being eaten for the wife
+
+\t Kélyà kïlyìíò    mkà
+\m K-élyà k-ï-lyì-í-ò    m-kà
+\g Wifej AGRSj-AGROk-eat-BEN-pass food         k
+\l The wife is being beneficially affected by someone eating food
+
+\t Nailyiia      mka kelya
+\m Nailyi-i-a      mka kelya
+\g  he-eats-APPL wife food
+\l He is eating food for his wife
+
+\t Naizricia     mbuya
+\m Naizric-i-a     mbuya
+\g  he-runs-APPL friend
+\l He is running for a friend
+
+\t Nailyiia mka kelya
+\m Nailyi-i-a mka kelya
+\g  he-eats-APPL wife food
+\l He is eating food for his wife
+
+\t Mka nailyiio         kelya
+\m Mka nailyi-i-o         kelya
+\g  wife is-eaten-APPL food
+\l The wife is eaten food for
+
+\t Kelya kilyiio        mka
+\m Kelya kilyi-i-o        mka
+\g  food is-eaten-APPL wife
+\l The food is eaten for the wife
+
+\t Nailyiia      mka kelya
+\m Nailyi-i-a      mka kelya
+\g  he-eats-APPL wife food
+\l He is eating food for his wife
+

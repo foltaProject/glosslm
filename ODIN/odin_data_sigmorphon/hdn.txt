@@ -1,0 +1,20 @@
+\t aay              k
+\m --aay              k
+\g              dog-DEF horse-DEF see-PAST
+\l The dog saw the horse
+
+\t gyuúdaneexaayinggan
+\m gyuúdan-eex--aay--ing-gan
+\g horse-DEF dog-DEF see-PAST
+\l *The dog saw the horse
+
+\t 7adaáhl/uu   kaay
+\m 7adaáhl-/uu   k--aay
+\g yesterday-FOC chicken-DEF dog-DEF peck-PAST
+\l Yesterday the chicken pecked the dog
+
+\t 7adaáhl/uu  x       sawee
+\m 7adaáhl-/uu  x       s--aw-ee
+\g yesterday-FOC dog-DEF chicken-DEF peck-PAST
+\l Yesterday the chicken pecked the dog
+

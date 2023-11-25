@@ -1,0 +1,1805 @@
+\t A: Nei5     jam2gan2mat1 je5?
+\m A: Nei5     jam2-gan2mat1 je5?
+\g     2.SG    drink-ASP what thing
+\l What are you drinking?
+
+\t B: Jam2gan2 seoi2
+\m B: Jam2-gan2 seoi2
+\g    drink-ASP      water
+\l (I'm) drinking water.
+
+\t Ngo5      zi1        [keoi5 hai6 hok6saang1]
+\m Ngo5      zi1        [keoi5 hai6 hok6saang1]
+\g 1.SG      knows       3.SG      be student
+\l I knows that s/he is a student.
+
+\t ngo5 bei2zo2 bun2 syu1 keoi5
+\m ngo5 bei2-zo2 bun2 syu1 keoi5
+\g 1.SG give-PERF CL book 3.SG
+\l I have given him/her a b ook.
+
+\t ngo5 lo2zo2       bun2 syu1 bei2 keoi5
+\m ngo5 lo2-zo2       bun2 syu1 bei2 keoi5
+\g 1.SG take-PERF CL book give 3.SG
+\l I have taken a boo k fo r him/her.
+
+\t ngo5 bei2zo2 bun2 syu1 keo i5
+\m ngo5 bei2-zo2 bun2 syu1 keo i5
+\g  1.SG give-PERF CL book 3.SG
+\l I've given him/her a book
+
+\t ngo5        ze3zo2       keoi5      sap6 man1
+\m ngo5        ze3zo2       keoi5      sap6 man1
+\g 1.SG        lend-PERF 3.SG          ten    dollars
+\l I have lent him/her ten dollars.
+
+\t keoi5      gaau3 ngo5 jing1man2
+\m keoi5      gaau3 ngo5 jing1man2
+\g 3.SG       teach 1.SG English
+\l S/he teaches me English.
+
+\t ngo5       bei2zo2      bun2 hung4sik1ge3 syu1 siu2 ming4
+\m ngo5       bei2-zo2      bun2 hung4sik1ge3 syu1 siu2 ming4
+\g 1.SG       give.PERF      CL     red        book PN
+\l I have given a red book to Siu Ming.
+
+\t ngo5       bei2zo2      bun2 hung4sik1ge3 syu1 keoi5
+\m ngo5       bei2-zo2      bun2 hung4sik1ge3 syu1 keoi5
+\g 1.SG       give.PERF      CL      red       book 3.SG
+\l I have given a red book to him.
+
+\t keoi5 lo2zo2       bun2 syu1 bei2            ngo5
+\m keoi5 lo2-zo2       bun2 syu1 bei2            ngo5
+\g 3.SG take-PERF CL          book give          1.SG
+\l S/he took the book and gave it to me.
+
+\t keoi5 maa i3zo2 hou2do1 je3 bei2              ngo5
+\m keoi5 maa i3-zo2 hou2do1 je3 bei2              ngo5
+\g 3.SG buy-PERF many            thing give        1.SG
+\l S/he bought me many things.
+
+\t keoi5     jung6 zi1 coeng1 zi2zyu6           ngo5          go3    tau4
+\m keoi5     jung6 zi1 coeng1 zi2zyu6           ngo5          go3    tau4
+\g 3.SG      use    CL gun         point        1.SG          C L.head
+\l S/he is pointing a gun at my head.
+
+\t ngo5 mou 5 bei2 bun2 syu1 keoi5
+\m ngo5 mou 5 bei2 bun2 syu1 keoi5
+\g 1.SG NEG give CL book 3.SG
+\l I didn't give her/him a book.
+
+\t ngo5 maa i5 fan6 lai5mat6 bei2                     keoi5
+\m ngo5 maa i5 fan6 lai5mat6 bei2                     keoi5
+\g 1.SG buy           CL     gift give                3.SG
+\l I buy a gift for him/her.
+
+\t ngo5 mou4        maa i5 la i5 mat6 bei2 keoi5
+\m ngo5 mou4        maa i5 la i5 mat6 bei2 keoi5
+\g 1.SG NEG         buy         gift     give 3.SG
+\l I did not buy any gift for him/her.
+
+\t ngo5 bei2zo2       bun2 syu1 keoi5
+\m ngo5 bei2-zo2       bun2 syu1 keoi5
+\g 1.SG give-PERF CL           book 3.SG
+\l I have given him/her a b ook
+
+\t ngo5 lo2zo2       bun2 syu1 bei2 keoi5
+\m ngo5 lo2-zo2       bun2 syu1 bei2 keoi5
+\g 1.SG take-PERF CL book give 3.SG
+\l I have taken a boo k fo r him/her
+
+\t ngo5      ze3zo2        sap6man1          bei2    keoi5                  SVC
+\m ngo5      ze3-zo2        sap6man1          bei2    keoi5                  SVC
+\g 1.SG      lend-PERF     ten dollars       give    3.SG
+\l I have lent him/her ten do llars.
+
+\t ngo5 lo2zo2 bun2 syu2 bei2                  keoi5
+\m ngo5 lo2-zo2 bun2 syu2 bei2                  keoi5
+\g 1.SG take.PERF CL         book give          3.SG
+\l I have taken the book for him/her.
+
+\t bosue hai bin do a?
+\m bo-sue hai bin do a?
+\g Cl-book be where Q
+\l Where is the book?
+
+\t gohgingchaat waa ngoh jii              lak
+\m goh-ging-chaat waa ngoh jii              lak
+\g Cl-policeman say I               know Asp
+\l The policeman told me (that).
+
+\t Ngóh béimin       kéuih kéuih béimin                  ngóh
+\m Ngóh béi-min       kéuih kéuih béi-min                  ngóh
+\g I     give-face him         he give-face                me
+\l He and I respect each other.
+
+\t A: nei5 jam2gan2 mat1 je5?
+\m A: nei5 jam2-gan2 mat1 je5?
+\g     2.SG drink-ASP what thing
+\l What are you drinking?
+
+\t B: jam2gan2 seoi2
+\m B: jam2-gan2 seoi2
+\g     drink-ASP water
+\l (I'm) drinking water.
+
+\t wui5m4wui5 beng6 gaa3
+\m wui5-m4-wui5 beng6 gaa3
+\g Will-not-will ill    PART
+\l Would (they = the dogs) get ill?
+
+\t ji1gaa1 lok6gan2       jyu5
+\m ji1gaa1 lok6-gan2       jyu5
+\g now        fall-ASP     rain
+\l (It's) raining now.
+
+\t A: teng1gong2 seoi6si2         hou2 leng3 wo3
+\m A: teng1gong2 seoi6si2         hou2 leng3 wo3
+\g    Hear           Switzerland very pretty PART
+\l (I) hear that Switzerland is very pretty
+
+\t B: tai2 fung1ging2 lo1        hai6
+\m B: tai2 fung1ging2 lo1        hai6
+\g   See scenery         PART only
+\l (It's) only (good for) sight-seeing
+
+\t ngo5 lou5gung1 ci3ci3      faan1lei4 dou1 haak1 saai3 gam2
+\m ngo5 lou5gung1 ci3ci3      faan1lei4 dou1 haak1 saai3 gam2
+\g my husband every-time come-back also tanned like-this
+\l My husband is tanned every t ime he c omes back.
+
+\t nei5 jau6 m4 hai6 sau3ji1
+\m nei5 jau6 m4 hai6 sau3ji1
+\g you also not be vet
+\l You are not a vet.
+
+\t zan1 gaa4
+\m zan1 gaa4
+\g true FP
+\l Is that true?
+
+\t mat1 je5 waa2
+\m mat1 je5 waa2
+\g what
+\l What?
+
+\t zik1hai6 keoi5 mat1 dou1 laat6 gaa3
+\m zik1hai6 keoi5 mat1 dou1 laat6 gaa3
+\g that-is it     what all      hot FP
+\l Everyt hing was hot there.
+
+\t siu1 m4 sai2 cin2
+\m siu1 m4 sai2 cin2
+\g roast not need money
+\l The roasting was free.
+
+\t di1 hang4lei5 baai2zo2 hai2 go3 gaa2 soeng6bin1
+\m di1 hang4lei5 baai2zo2 hai2 go3 gaa2 soeng6bin1
+\g PL luggage place       at M shelf above
+\l The luggage was on the shelf.
+
+\t di1 min6baau1 sik6dou3 ngo5 hou2 baau2
+\m di1 min6baau1 sik6dou3 ngo5 hou2 baau2
+\g PL bread      eat-to me very full
+\l The bread made me full.
+
+\t e       jam2gan2      seoi2
+\m e       jam2-gan2      seoi2
+\g         drink-ASP      water
+\l (I'm) drinking water.
+
+\t A: nei5 jam2gan2          mat1 je5?
+\m A: nei5 jam2-gan2          mat1 je5?
+\g      2.SG drink-ASP        what thing
+\l What are you drinking?
+
+\t B: jam2gan2 seoi2
+\m B: jam2-gan2 seoi2
+\g    drink-ASP water
+\l (I'm) drinking water.
+
+\t ji1gaa1 lok6gan2       jyu5
+\m ji1gaa1 lok6-gan2       jyu5
+\g now        fall-ASP     rain
+\l (It's) raining now.
+
+\t A: teng1gong2 seoi6si2          hou2 leng3 wo3
+\m A: teng1gong2 seoi6si2          hou2 leng3 wo3
+\g    Hear           Switzerland very pretty PART
+\l (I) hear that Switzerland is very pretty
+
+\t B: tai2 fung1ging2 lo1        hai6
+\m B: tai2 fung1ging2 lo1        hai6
+\g    See scenery       PART only
+\l (It's) only (good for) sight-seeing
+
+\t kui     yiu/hohyi     tung    ngoh     hui
+\m kui     yiu/hoh-yi     tung    ngoh     hui
+\g he      must/may       with    me       go
+\l He must/may go with me.
+
+\t kui     lai     dak
+\m kui     lai     dak
+\g he      come can
+\l He can come.
+
+\t ngoh    dak     saamman         je
+\m ngoh    dak     saam-man         je
+\g I       have    3-dollars        only
+\l I only have $3 left
+
+\t kui     ho      faai    gam     ja        che
+\m kui     ho      faai    gam     ja        che
+\g he      very    fast    so      drive car
+\l He drove very fast.
+
+\t kui     ja      dak     ho      faai
+\m kui     ja      dak     ho      faai
+\g he      drive DAK very          fast
+\l He drove very fast.
+
+\t kui     jo      matye a?
+\m kui     jo      matye a?
+\g he      do      what    Q
+\l What did he do?
+
+\t kui     m        yau   dak     sui
+\m kui     m        yau   dak     sui
+\g he      not      travel can    water
+\l He can't swim.
+
+\t ngoh        tai    dak    neibosue     ma?
+\m ngoh        tai    dak    nei-bo-sue     ma?
+\g I           read   can    your-Cl-book Q
+\l Can I read your book?
+
+\t A: dak
+\m A: dak
+\g       can
+\l Yes.
+
+\t nei         tai    yuen   gohbo sue     ma?
+\m nei         tai    yuen   goh-bo sue     ma?
+\g you         read   Asp    that-cl-book   Q
+\l Did you finish reading that book?
+
+\t A2: taiyuen
+\m A2: tai-yuen
+\g      look-Asp
+\l Yes.
+
+\t ngoh    m       tai     dak     yuen    bosue
+\m ngoh    m       tai     dak     yuen    bo-sue
+\g I       Neg     read    can     Asp     Cl-book
+\l I can't finish reading the book.
+
+\t nei     [m      lai]   m       dak
+\m nei     [m      lai]   m       dak
+\g you     Neg     come Neg       can
+\l You can't not come = You must come.
+
+\t ngoh hui      m       HeungGong
+\m ngoh hui      m       Heung-Gong
+\g  I      go     Neg     Hong Kong
+\l I'm not going to Hong Kong.
+
+\t kui     yau     dak         sui
+\m kui     yau     dak         sui
+\g he      travel can          water
+\l He can swim.
+
+\t Yanfa seui, leuhtsi @ fai, gi@nggéi yúng                   do@u     yiu béi ge.
+\m Yanfa seui, leuhtsi @ fai, gi@nggéi yúng                   do@u     yiu béi ge.
+\g stamp      duty   lawyer      fee   agent      commission all       need pay PRT
+\l You have to pay stamp duty, legal fees and commission.
+
+\t keoi5 lo2dak1hei2 li1seung1         syu1.
+\m keoi5 lo2-dak1-hei2 li1-seung1         syu1.
+\g 3s       take-ACQ-up this-box          book
+\l S/he can lift this box of books (can get them up).
+
+\t ngo5 wui5 heoi3.
+\m ngo5 wui5 heoi3.
+\g 1s       will go
+\l I will go.
+
+\t di1    naan3man4 dak1zo2            jat1go3                      gwaai3 beng6.
+\m di1    naan3-man4 dak1-zo2            jat1-go3                      gwaai3 beng6.
+\g CL     refugees       ACQ-PRF         one-CL                        strange disease
+\l The refugees contracted a strange disease.
+
+\t keoi5           dak1dou2        s ap   6   fan1.
+\m keoi5           dak1-dou2        s ap   6   fan1.
+\g 3s              ACQ-SUCC         ten        points
+\l S/he got a ten points.
+
+\t ngo5dei6       dak1dou2        dai6jat1               ming4.
+\m ngo5-dei6       dak1-dou2        dai6-jat1               ming4.
+\g 1p              ACQ-SUCC         ORD-one                 name
+\l We got first.
+
+\t keoi5 zaa1dak1        li1gaa3 ce1.
+\m keoi5 zaa1-dak1        li1-gaa3 ce1.
+\g 3s     drive-ACQ       this-CL car
+\l S/he can (here: is permitted to) drive this car.
+
+\t keoi5 lo2dak1hei2 li1seung1         syu1.
+\m keoi5 lo2-dak1-hei2 li1-seung1         syu1.
+\g 3s     take-ACQ-up this-box            book
+\l S/he can (here: will manage to) lift this box of books.
+
+\t keoi5 jau5dak1        heoi3 Zung1gok3.
+\m keoi5 jau5-dak1        heoi3 Zung1-gok3.
+\g 3s     have-ACQ        go     China
+\l [Now the situation is such that] s/he gets to go to China.
+
+\t ngo5dei6     gam1jat6       jau5dak1        sik6 kaviar.
+\m ngo5-dei6     gam1-jat6       jau5-dak1        sik6 kaviar.
+\g 1p            today           have-ACQ         ea t   kaviar
+\l Tonight we will get to eat kaviar (such a special occasion).
+
+\t go       ping4gwo2      sik6(m4)dak1.
+\m go       ping4-gwo2      sik6(-m4-)dak1.
+\g CL       apple           eat-not-ACQ
+\l The apple is (in)edible.
+
+\t lei5     m4      sik6 m5          dak1 a3!
+\m lei5     m4      sik6 m5          dak1 a3!
+\g 2s       not     ea t     not     ACQ   PRT
+\l It's not okay if you don' t eat.
+
+\t lei5     m4      heoi3 dak1.
+\m lei5     m4      heoi3 dak1.
+\g 2s       not     go       ACQ
+\l It's okay if you don' t go.
+
+\t lei5     daa5 maa1mi4            zek3 sau2 m4          dak1 wo3!
+\m lei5     daa5 maa1-mi4            zek3 sau2 m4          dak1 wo3!
+\g 2s       hit     mummy            CL    hand not        ACQ  PRT
+\l You hitting your mother's hand is not good!
+
+\t ngo5 bei2 di1je5                 lei5  zou6 dak1m4dak1.
+\m ngo5 bei2 di1-je5                 lei5  zou6 dak1-m4-dak1.
+\g 1s       give CL-things           you   do     ACQ-not-ACQ
+\l Is it okay if I give you something to do?
+
+\t keoi5 heoi3m4heoi3 dou1 dak1.
+\m keoi5 heoi3-m4-heoi3 dou1 dak1.
+\g 3s        go-not-go      al l   ACQ
+\l It's all okay, whether he goes or not.
+
+\t b             keoi5 heoi3m4heoi3 dou1 dak1 me1?
+\m b             keoi5 heoi3-m4-heoi3 dou1 dak1 me1?
+\g               3s        go-not-go      al l   ACQ     PRT
+\l Is it all okay, whether he goes or not?
+
+\t keoi5 daa2dak1sei zek3         gat6zat2.
+\m keoi5 daa2-dak1-sei zek3         gat6zat2.
+\g 3s     hit-ACQ-dead CL           cockroach
+\l He can kill the cockroach.
+
+\t keoi5 tiu3dak1.
+\m keoi5 tiu3-dak1.
+\g 3s     jump-ACQ
+\l He can jump.
+
+\t keoi5 tiu3dak1yuk1.
+\m keoi5 tiu3-dak1-yuk1.
+\g 3s     jump-ACQ-DIR
+\l He can jump (up).
+
+\t keoi5 dim2 lo2dak1hei2           li1 seung1 syu1         {le1/*gaa3,*le1/gaa3}?
+\m keoi5 dim2 lo2-dak1-hei2           li1 seung1 syu1         {le1/*gaa3,*le1/gaa3}?
+\g 3s      HOW take-DAK-up            this box book           SFP
+\l Why the hell would he be able to lift this box of books?
+
+\t keoi5    tai2dak1 saam1bun2       syu1
+\m keoi5    tai2-dak1 saam1-bun2       syu1
+\g 3s       read-acq three-cl          book
+\l s/he only read three books
+
+\t sing3daan3lou5jan4      sung3dak1     leung5fan6              lai5mat6           bei2     ngo5
+\m sing3-daan3-lou5-jan4      sung3-dak1     leung5-fan6              lai5-mat6           bei2     ngo5
+\g Santa Claus                give-acq       two-cl                   gift                to       1s
+\l Santa Claus only gave me two presents
+
+\t Keoi bei2 *(ngo) naau.
+\m Keoi bei2 *(ngo) naau.
+\g he BEI I         scold
+\l He was scolded ( by me) .
+
+\t Zungtung bei6 zizaak.
+\m Zungtung bei6 zizaak.
+\g president BEI censure
+\l The president was censured.
+
+\t Ngo beizo      go bun syu bei keoi.
+\m Ngo bei-zo      go bun syu bei keoi.
+\g I     give-Perf that Cl book to he
+\l I gave that book to him.
+
+\t Go bun syu, ngo beizo        bei keoi.
+\m Go bun syu, ngo bei-zo        bei keoi.
+\g  that Cl book I give-Perf to he
+\l As for that book, I gave it to him.
+
+\t Go bun syu, ngo wui bei bei keoi.
+\m Go bun syu, ngo wui bei bei keoi.
+\g  that Cl book I will give to he
+\l As for that book, I will give it to him.
+
+\t Ngo beizo go bun syu ( bei ) keoi.
+\m Ngo bei-zo go bun syu ( bei ) keoi.
+\g I      give-Perf that Cl book to he
+\l I gave that book to him.
+
+\t Na ben shu, wo hui gei (*gei ) ta.
+\m Na ben shu, wo hui gei (*gei ) ta.
+\g  that Cl book I will give to he
+\l As for that book, I will give it to him.
+
+\t Keoi bei2 ngo naau.
+\m Keoi bei2 ngo naau.
+\g he BEI I scold
+\l He was scolded by me.
+
+\t Keoi jiging bei6 bou.
+\m Keoi jiging bei6 bou.
+\g he already BEI arrest
+\l He was already arrested.
+
+\t Keoi jiging bei2 gingcaat bei6 bou.
+\m Keoi jiging bei2 gingcaat bei6 bou.
+\g  he already BEI police BEI arrest
+\l He was already arrested by the police.
+
+\t Keoi bei2 pro/PRO naau.
+\m Keoi bei2 pro/PRO naau.
+\g  he BEI            scold
+\l He was scolded.
+
+\t Keoi bei2 ngo naau.
+\m Keoi bei2 ngo naau.
+\g he BEI I scold
+\l He was scolded by me.
+
+\t Keoi bei2 bun syu ngo.
+\m Keoi bei2 bun syu ngo.
+\g he give Cl book I
+\l He gave a book to me.
+
+\t Keoi bei2 ngo leihoi.
+\m Keoi bei2 ngo leihoi.
+\g he let I leave
+\l He let me leave.
+
+\t Keoi bei6 bun syu ngo.
+\m Keoi bei6 bun syu ngo.
+\g  he BEI Cl book I
+\l He gave a book to me.
+
+\t Keoi bei6 ngo leihoi.
+\m Keoi bei6 ngo leihoi.
+\g  he BEI I leave
+\l He let me leave.
+
+\t Keoi jiging beigwo ngo naau gaa laa.
+\m Keoi jiging bei-gwo ngo naau gaa laa.
+\g he already BEI-Exp I scold SFP SFP
+\l He had once been scolded by me.
+
+\t Nei beimbei    ngo naau, dou hai gam gaa laa!
+\m Nei bei-m-bei    ngo naau, dou hai gam gaa laa!
+\g you BEI-not-BEI I scold still be so SFP SFP
+\l Whether or not you are scolded by me, you will be the same!
+
+\t Keoi taamdak jatgo jan.
+\m Keoi taam-dak jat-go jan.
+\g he visit-only one-Cl person
+\l He visited only one person.
+
+\t Ngo [deoidak jatgo jan]      hou gwaansam.
+\m Ngo [deoi-dak jat-go jan]      hou gwaansam.
+\g  I    toward-only one-Cl person very care
+\l I care for only one person.
+
+\t Keoi beidak jatgo jan       naau.
+\m Keoi bei-dak jat-go jan       naau.
+\g  he BEI-only one-Cl person scold
+\l He was scolded only by one person.
+
+\t Di gingcaat bouzo       keoi.
+\m Di gingcaat bou-zo       keoi.
+\g  Cl police arrest-Perf he
+\l The police arrested him.
+
+\t zukkau      lo1 Billy zinghai zungji tai _
+\m zukkau      lo1 Billy zinghai zungji tai _
+\g football    SFP2 Billy only            like   watch
+\l It is obvious that Billy only likes to watch football (not cricket).
+
+\t zukkau zaa3 Billy zungji tai _
+\m zukkau zaa3 Billy zungji tai _
+\g football SFP Billy like         watch
+\l Billy only likes to watch football (not cricket).
+
+\t cin     lo1 Billy mou zeonsau keoi jiu zeonsi waan _ ge singnok
+\m cin     lo1 Billy mou zeonsau keoi jiu zeonsi waan _ ge singnok
+\g money SFP Billy not obey s/he must on-time return GE promise
+\l Billy broke the promise that he would return the money on time.
+
+\t hokfai lo1 keoi zou loeng fan gung janwai jiu            bong sailou gaau _
+\m hokfai lo1 keoi zou loeng fan gung janwai jiu            bong sailou gaau _
+\g fee       SFP s/he do two CL work because have-to help brother pay
+\l S/he has two jobs because s/he has to pay the tuition fees for his/her brother.
+
+\t jisang laa3 keoi waa m soeng zou _ zanhai giksei keoi aamaa
+\m jisang laa3 keoi waa m soeng zou _ zanhai giksei keoi aamaa
+\g  doctor SFP s/he say not want do really irritate her/his mother
+\l That s/he says s/he doesn't want to be a doctor really irritates his/her mother.
+
+\t Billyi hou gwaansam zigeii di hoksaang gaa3
+\m Billyi hou gwaansam zigeii di hoksaang gaa3
+\g Billy very care-about self CL student SFP
+\l Billyi cares about hisi students.
+
+\t hou gwaansam zigeii di hoksaang gaa3 Billyi
+\m hou gwaansam zigeii di hoksaang gaa3 Billyi
+\g very care-about self CL student SFP Billy
+\l Billyi cares about hisi students.
+
+\t zigeii di hoksaang gaa3 Billyi hou gwaansam
+\m zigeii di hoksaang gaa3 Billyi hou gwaansam
+\g self CL student SFP Billy very care-about
+\l Billyi cares about hisi students.
+
+\t Maryi waa Jennyj hou zungji zigeii/j aa3
+\m Maryi waa Jennyj hou zungji zigeii/j aa3
+\g Mary say Jenny very like              self SFP
+\l Maryi said Jennyj liked herself i/j.
+
+\t zigeii/j aa3 Maryi waa Jennyj hou zungji
+\m zigeii/j aa3 Maryi waa Jennyj hou zungji
+\g self     SFP Mary say Jenny very like
+\l Maryi said Jennyj liked herselfi/j.
+
+\t hou zungji zigeii/j aa3 Maryi waa Jennyj
+\m hou zungji zigeii/j aa3 Maryi waa Jennyj
+\g very like    self     SFP Mary say Jenny
+\l Maryi said Jennyj liked herself i/j.
+
+\t Maryi waa Jennyj hou zungji keoizigei*i/j aa3
+\m Maryi waa Jennyj hou zungji keoizigei*i/j aa3
+\g Mary say Jenny very like              him/herself SFP
+\l Maryi said Jennyj liked herself *i/j.
+
+\t hou zungji keoizigei*i/j aa3 Maryi waa Jennyj
+\m hou zungji keoizigei*i/j aa3 Maryi waa Jennyj
+\g very like    him/herself SFP Mary say Jenny
+\l Maryi said Jennyj liked herself *i/j.
+
+\t keoizigei*i/j aa3 Maryi waa Jennyj hou zungji
+\m keoizigei*i/j aa3 Maryi waa Jennyj hou zungji
+\g him/herself SFP Mary say Jenny very like
+\l Maryi said Jennyj liked herself *i/j.
+
+\t muigo sinsaangi dou hou gwaansam keoii di hoksaang gaa3
+\m muigo sinsaangi dou hou gwaansam keoii di hoksaang gaa3
+\g  every teacher all very care-about his CL student SFP
+\l Every teacher i cares about hisi students.
+
+\t dou hou gwaansam keoii di hoksaang gaa3 muigo sinsaangi
+\m dou hou gwaansam keoii di hoksaang gaa3 muigo sinsaangi
+\g all very care-about his CL student SFP every teacher
+\l Every teacher i cares about hisi students.
+
+\t hou gwaansam keoii di hoksaang gaa3 muigo sinsaangi dou
+\m hou gwaansam keoii di hoksaang gaa3 muigo sinsaangi dou
+\g very care-about his CL student SFP every teacher all
+\l Every teacher i cares about hisi students.
+
+\t keoii di hoksaang gaa3 muigo sinsaangi dou hou gwaansam
+\m keoii di hoksaang gaa3 muigo sinsaangi dou hou gwaansam
+\g   his CL student SFP every teacher all very care-about
+\l Every teacher i cares about hisi students.
+
+\t muigo sinsaangi dou gwaansam zigeii di hoksaang gaa3
+\m muigo sinsaangi dou gwaansam zigeii di hoksaang gaa3
+\g   every teacher all care-about self CL student SFP
+\l Every teacher i cares about hisi own students.
+
+\t dou gwaansam zigeii di hoksaang gaa3 muigo sinsaangi
+\m dou gwaansam zigeii di hoksaang gaa3 muigo sinsaangi
+\g all care-about self CL student SFP every teacher
+\l Every teacher i cares about hisi own students.
+
+\t gwaansam zigeii di hoksaang gaa3 muigo sinsaangi dou
+\m gwaansam zigeii di hoksaang gaa3 muigo sinsaangi dou
+\g care-about self CL student SFP every teacher all
+\l Every teacher i cares about hisi own students.
+
+\t zigeii di hoksaang gaa3 muigo sinsaangi dou gwaansam
+\m zigeii di hoksaang gaa3 muigo sinsaangi dou gwaansam
+\g self CL student SFP every teacher all care-about
+\l Every teacher i cares about hisi own students.
+
+\t muigo      sinsaangi dou gwaansam keoizigeii di hoksaang gaa3
+\m muigo      sinsaangi dou gwaansam keoizigeii di hoksaang gaa3
+\g  every     teacher all care-about him/herself CL student SFP
+\l Every   teacher i cares about hisi own students.
+
+\t dou gwaansam keoizigeii di hoksaang gaa3 muigo sin saangi
+\m dou gwaansam keoizigeii di hoksaang gaa3 muigo sin saangi
+\g all care-about him/herself CL student SFP every teacher
+\l Every teacher i cares about hisi own students.
+
+\t gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi dou
+\m gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi dou
+\g care-about him/herself CL student SFP every teacher all
+\l Every teacher i cares about hisi own students.
+
+\t keoizigeii di hoksaang gaa3 muigo sinsaangi dou gwaansam
+\m keoizigeii di hoksaang gaa3 muigo sinsaangi dou gwaansam
+\g him/herself CL student SFP every teacher all care-about
+\l Every teacher i cares about hisi own students.
+
+\t muigo sinsaangi dou zinghai gwaansam keoii di hoksaang gaa3
+\m muigo sinsaangi dou zinghai gwaansam keoii di hoksaang gaa3
+\g  every teacher all only care-about his CL student SFP
+\l Every teacher i cares only about hisi students.
+
+\t dou zinghai gwaansam keoii di hoksaang gaa3 muigo sinsaangi
+\m dou zinghai gwaansam keoii di hoksaang gaa3 muigo sinsaangi
+\g all only care-about his CL student SFP every teacher
+\l Every teacher i cares only about hisi students.
+
+\t zinghai gwaansam keoii di hoksaang gaa3 muigo sinsaangi dou
+\m zinghai gwaansam keoii di hoksaang gaa3 muigo sinsaangi dou
+\g only care-about his CL student SFP every teacher all
+\l Every teacher i cares only about hisi students.
+
+\t gwaansam keoii di hoksaang gaa3 muigo sinsaangi dou zinghai
+\m gwaansam keoii di hoksaang gaa3 muigo sinsaangi dou zinghai
+\g care-about his CL student SFP every teacher all only
+\l Every teacher i cares only about hisi students.
+
+\t keoii di hoksaang gaa3 muigo sinsaangi dou zinghai gwaansam
+\m keoii di hoksaang gaa3 muigo sinsaangi dou zinghai gwaansam
+\g   his CL student SFP every teacher all only care-about
+\l Every teacher i cares only about hisi students.
+
+\t muigo sinsaangi dou zinghai gwaansam zigeii di hoksaang gaa3
+\m muigo sinsaangi dou zinghai gwaansam zigeii di hoksaang gaa3
+\g   every teacher all only care-about self CL student SFP
+\l Every teacher i cares only about hisi own students.
+
+\t dou zinghai gwaansam zigeii di hoksaang gaa3 muigo sinsaangi
+\m dou zinghai gwaansam zigeii di hoksaang gaa3 muigo sinsaangi
+\g all only care-about self CL student SFP every teacher
+\l Every teacher i cares only about hisi own students.
+
+\t zinghai gwaansam zigeii di hoksaang gaa3 muigo sinsaangi dou
+\m zinghai gwaansam zigeii di hoksaang gaa3 muigo sinsaangi dou
+\g only care-about self CL student SFP every teacher all
+\l Every teacher i cares only about hisi own students.
+
+\t gwaansam zigeii di hoksaang gaa3 muigo sinsaangi dou zinghai
+\m gwaansam zigeii di hoksaang gaa3 muigo sinsaangi dou zinghai
+\g care-about self CL student SFP every teacher all only
+\l Every teacher i cares only about hisi own students.
+
+\t zigeii di hoksaang gaa3 muigo sinsaangi dou zinghai gwaansam
+\m zigeii di hoksaang gaa3 muigo sinsaangi dou zinghai gwaansam
+\g self CL student SFP every teacher all only care-about
+\l Every teacher i cares only about hisi own students.
+
+\t muigo      sinsaangi dou zinghai gwaansam keoizigeii di hoksaang gaa3
+\m muigo      sinsaangi dou zinghai gwaansam keoizigeii di hoksaang gaa3
+\g  every     teacher all only care-about him/herself CL student SFP
+\l Every   teacher i cares only about hisi own students.
+
+\t dou zinghai gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi
+\m dou zinghai gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi
+\g all only care-about him/herself CL student SFP every teacher
+\l Every teacher i cares only about hisi own students.
+
+\t zinghai gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi dou
+\m zinghai gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi dou
+\g only care-about him/herself CL student SFP every teacher all
+\l Every teacher i cares only about hisi own students.
+
+\t gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi dou zinghai
+\m gwaansam keoizigeii di hoksaang gaa3 muigo sinsaangi dou zinghai
+\g care-about him/herself CL student SFP every teacher all only
+\l Every teacher i cares only about hisi own students.
+
+\t keoizigeii di hoksaang gaa3 muigo sinsaangi dou zinghai gwaansam
+\m keoizigeii di hoksaang gaa3 muigo sinsaangi dou zinghai gwaansam
+\g him/herself CL student SFP every teacher all only care-about
+\l Every teacher i cares only about hisi own students.
+
+\t muigo hoksaang dou bei jat go sinsaang gaau                gwo gaa3
+\m muigo hoksaang dou bei jat go sinsaang gaau                gwo gaa3
+\g every student all by one CL teacher teach                  EXP SFP
+\l Every student is taught by a teacher.
+
+\t bei jat go sinsaang gaau gwo gaa3 muigo hoksaang dou
+\m bei jat go sinsaang gaau gwo gaa3 muigo hoksaang dou
+\g by one CL teacher teach EXP SFP every student all
+\l Every student is taught by a teacher.
+
+\t keoi zinghai heoi faantong wan Aaming lo4/zaa3
+\m keoi zinghai heoi faantong wan Aaming lo4/zaa3
+\g s/he only go canteen find Aaming SFP
+\l S/he only went to the canteen to find Aaming.
+
+\t keoi ze     cin   maai lau aa1maa3
+\m keoi ze     cin   maai lau aa1maa3
+\g s/he borrow money buy flat SFP
+\l S/he borrowed money to buy a flat.
+
+\t ngo zinghai sung zo loeng gin saam bei keoi                    lo4
+\m ngo zinghai sung zo loeng gin saam bei keoi                    lo4
+\g I     only give ASP two        CL clothes to him/her           SFP
+\l I only gave two clothes to him/her.
+
+\t Aaming sik     dak Aafan wo3
+\m Aaming sik     dak Aafan wo3
+\g Aaming know PRT Aafan SFP
+\l Aaming knows Aafan.
+
+\t Aafan jau Baalai heoi zo Saibaanngaa lo3wo3
+\m Aafan jau Baalai heoi zo Saibaanngaa lo3wo3
+\g Aafan from Paris go ASP Spain       SFP
+\l Aafan went to Spain from Paris.
+
+\t ngodei hai ukkei tai syu       zi1maa3
+\m ngodei hai ukkei tai syu       zi1maa3
+\g we     at home read book SFP
+\l We were only reading books at home.
+
+\t keoi siusamgam se go fung seon               wo3
+\m keoi siusamgam se go fung seon               wo3
+\g s/he carefully    writethat CL letter        SFP
+\l S/he carefully wrote the letter.
+
+\t Billy sung zo loeng go daangou lai  aa3
+\m Billy sung zo loeng go daangou lai  aa3
+\g Billy send ASP two CL cake     come SFP
+\l Billy sent two cakes here.
+
+\t loeng go daangou aa3 Billy sung            zo _ lai
+\m loeng go daangou aa3 Billy sung            zo _ lai
+\g two     CL cakes       SFP Billy send      ASP come
+\l Billy sent two cakes here.
+
+\t Billy daai zo loeng bun syu            zau aa3
+\m Billy daai zo loeng bun syu            zau aa3
+\g Billy take ASP two    CL book          go SFP
+\l Billy took away two books.
+
+\t loeng bun syu aa3 Billy daai zo _ zau
+\m loeng bun syu aa3 Billy daai zo _ zau
+\g two     CL bookSFP Billy take ASP go
+\l Billy took away two books.
+
+\t keoi heoi Baalai tai zinlaam aa3
+\m keoi heoi Baalai tai zinlaam aa3
+\g s/he go Paris see exhibition SFP
+\l S/he went to Paris to see the exhibition.
+
+\t tai zinlaam aa3 keoi heoi Baalai _
+\m tai zinlaam aa3 keoi heoi Baalai _
+\g see exhibition SFP s/he go Paris
+\l S/he went to Paris to see the exhibition.
+
+\t ngo maai zo bou dinnou lai sungbei keoi lo1
+\m ngo maai zo bou dinnou lai sungbei keoi lo1
+\g I    buy ASP CL computer to give to s/he SFP
+\l I bought a computer for him/her.
+
+\t bou dinnou le1, ngo maai zo _ lai sungbei keoi lo1
+\m bou dinnou le1, ngo maai zo _ lai sungbei keoi lo1
+\g CL computer TOP I       buy ASP to give to s/he SFP
+\l The computer, I bought it for him/her.
+
+\t bou dinnou lo1 ngo maai zo _ lai sung           bei keoi
+\m bou dinnou lo1 ngo maai zo _ lai sung           bei keoi
+\g CL computer SFP I        buy ASP to give        to s/he
+\l The computer, I bought it for him/her.
+
+\t ngo maai zo bou dinnou sung bei keoi lo1
+\m ngo maai zo bou dinnou sung bei keoi lo1
+\g I    buy ASP CL computer give to s/he SFP
+\l I bought a computer for him/her.
+
+\t jau Baalai aa1maa3 Aafan _ heoi zo Saibaanngaa
+\m jau Baalai aa1maa3 Aafan _ heoi zo Saibaanngaa
+\g from Paris SFP         Aafan      go ASP Spain
+\l Aafan went to Spain from Paris. (Didn't you know?)
+
+\t hai ukkei zi1maa3 ngodei _ daa maazoek
+\m hai ukkei zi1maa3 ngodei _ daa maazoek
+\g at home SFP         we      hit mahjong
+\l We only play mahjong at home .
+
+\t tautaudeigam aa3 keoi _ zaujap go cyufong tau je sik
+\m tautaudeigam aa3 keoi _ zaujap go cyufong tau je sik
+\g secretly     SFP s/he enter CL kitchen steal thingeat
+\l S/he sneaked into the kitchen to steal food.
+
+\t zoek jyulau go go naamjan aa1maa3 _ laudai zo go peigip haidou
+\m zoek jyulau go go naamjan aa1maa3 _ laudai zo go peigip haidou
+\g wear raincoat that CL man         SFP        leave ASPCL suitcase here
+\l The man who wore a rainco at left a suitcase here.
+
+\t syu, Billy tai zo loeng bun laa3
+\m syu, Billy tai zo loeng bun laa3
+\g book Billy read ASP two CL SFP
+\l Billy read two books.
+
+\t syu aa3 Billy tai zo loeng bun _
+\m syu aa3 Billy tai zo loeng bun _
+\g bookSFP Billy read ASP two CL
+\l Billy read two books.
+
+\t syu aa3 Billy tai zo ni bun _
+\m syu aa3 Billy tai zo ni bun _
+\g book SFP Billy read ASP this CL
+\l Billy read this book.
+
+\t ni bun syu aa3 Billy tai zo _
+\m ni bun syu aa3 Billy tai zo _
+\g this CL book SFP Billy read ASP
+\l Billy read this book.
+
+\t syu aa3 Billy tai zo ni loeng bun _
+\m syu aa3 Billy tai zo ni loeng bun _
+\g book SFP Billy read ASP this two CL
+\l Billy read these two books.
+
+\t ni loeng bun syu aa3 Billy tai zo _
+\m ni loeng bun syu aa3 Billy tai zo _
+\g this two CL book SFP Billy read ASP
+\l Billy read these two books.
+
+\t bun syu lo1 Billy maai zo _
+\m bun syu lo1 Billy maai zo _
+\g CL book SFP Billy buy ASP
+\l Billy bought the book.
+
+\t syu lo1 Billy maai zo bun _
+\m syu lo1 Billy maai zo bun _
+\g book SFP Billy buy ASP CL
+\l Billy bought the book.
+
+\t Billy tai zo Mary maai go bun syu lo1
+\m Billy tai zo Mary maai go bun syu lo1
+\g Billy read ASP Mary buy that CL bookSFP
+\l Billy read the book that Mary bought.
+
+\t syu     lo1 Billy tai zo Mary maai go bun _
+\m syu     lo1 Billy tai zo Mary maai go bun _
+\g book SFP Billy read ASP Mary buy that CL
+\l Billy read the book that Mary bought.
+
+\t Billy mou zeonsau keoijiu zeonsi waan cin          ge singnok aa3
+\m Billy mou zeonsau keoijiu zeonsi waan cin          ge singnok aa3
+\g Billy not obey s/he must on-time return money GE promise SFP
+\l Billy broke the promise that he would return the money on time.
+
+\t Billy mou zeonsau go go keoi jiu zeonsi waan cin         ge singnok
+\m Billy mou zeonsau go go keoi jiu zeonsi waan cin         ge singnok
+\g Billy not obey that CL s/hemust on-time return money GE promise
+\l Billy broke the promise that he would return the money on time.
+
+\t singnok aa3Billy mou zeonsau go go keoi jiu zeonsi waan cin ge _
+\m singnok aa3Billy mou zeonsau go go keoi jiu zeonsi waan cin ge _
+\g promise SFPBilly not obey that CL s/he must on-time return money GE
+\l Billy broke the promise that he would return the money on time.
+
+\t zukkau lo1 Billy zinghai zungji tai _
+\m zukkau lo1 Billy zinghai zungji tai _
+\g football SFP Billy only        like     watch
+\l Billy only likes to watch football (not cricket).
+
+\t zukkau zaa3 Billy zungji tai _
+\m zukkau zaa3 Billy zungji tai _
+\g football SFP Billy like     watch
+\l Billy only likes to watch football (not cricket).
+
+\t Billy zungji tai        ZUKKAU zaa3
+\m Billy zungji tai        ZUKKAU zaa3
+\g Billy like     watch football SFP
+\l Billy only likes to watch football (not cricket).
+
+\t zukkau       le1, Billy zinghai zungji tai _
+\m zukkau       le1, Billy zinghai zungji tai _
+\g football TOP Billy only like           watch
+\l Billy only likes to watch football (not cricket).
+
+\t zukkau       le1, Billy zungji tai _ zaa3
+\m zukkau       le1, Billy zungji tai _ zaa3
+\g football TOP Billy like watch SFP
+\l Billy only likes to watch football (not cricket).
+
+\t sausi lo1 keoi m zungji zing
+\m sausi lo1 keoi m zungji zing
+\g sushi SFP s/he not like      make
+\l S/he doesn't like to make SUSHI (as opposed to dumplings).
+
+\t keoi m       zungji     zing sausi lo1
+\m keoi m       zungji     zing sausi lo1
+\g s/he not     like       make sushi SFP
+\l S/he    doesn't   like to make SUSHI (as opposed to dumplings).
+
+\t A:      nei geisi heoi gwo Holaan?
+\m A:      nei geisi heoi gwo Holaan?
+\g         you when go ASP Holland
+\l When did you go to Holland?
+
+\t B1:    soenggojyut aa1maa3 _ heoi Holaan
+\m B1:    soeng-go-jyut aa1maa3 _ heoi Holaan
+\g        last-month      SFP         go Holland
+\l I went to Holland last month.
+
+\t B2:    #heoi Holaan aa1maa3 soenggojyut _
+\m B2:    #heoi Holaan aa1maa3 soeng-go-jyut _
+\g        go      Holland SFP         last-month
+\l I went to Holland last month.
+
+\t zou matje aa3 nei heoi Baalai _?
+\m zou matje aa3 nei heoi Baalai _?
+\g do   what SFP you go Paris
+\l What are you going to Paris for?
+
+\t Baalai aa3 nei heoimheoi _?
+\m Baalai aa3 nei heoi-m-heoi _?
+\g Paris   SFP you go-not-go
+\l Are you going to Paris?
+
+\t Baalai me1 nei heoi _?
+\m Baalai me1 nei heoi _?
+\g Paris   SFP you go
+\l Are you going to Paris?
+
+\t zinlaam        aa3 ngo heoi Baalai tai _
+\m zinlaam        aa3 ngo heoi Baalai tai _
+\g exhibition     SFP I      go Paris see
+\l I went to Paris to see an exhibition.
+
+\t /*matje aa3 nei sik zo _ ?
+\m /*matje aa3 nei sik zo _ ?
+\g     what SFP you eat ASP
+\l What did you eat?
+
+\t bindou aa3 nei heoi zo _ ?
+\m bindou aa3 nei heoi zo _ ?
+\g   where SFP you go ASP
+\l Where did you go?
+
+\t dungm at le1, cungsyu aa3 keoi zeoi zungji _
+\m dungm at le1, cungsyu aa3 keoi zeoi zungji _
+\g animal     TOP squirrel SFP s/he best like
+\l As for animals, s/he likes squirrels best.
+
+\t loulousatsat jiging ding zo gaa3laa3 go zyuzik           wai _
+\m loulousatsat jiging ding zo gaa3laa3 go zyuzik           wai _
+\g honestly     already fix ASP SFP          CL president post
+\l Honestly, the presidential post has been assigned already.
+
+\t houcoi bei zo Billy go sailou              zaa3 go zyuzik      wai _
+\m houcoi bei zo Billy go sailou              zaa3 go zyuzik      wai _
+\g luckily give ASP Billy CL younger-brother SFP CL president post
+\l Luckily, Billy's younger brother has been elected president.
+
+\t jaudi jan   mou tai saai jisap bun syu aa1maa3
+\m jaudi jan   mou tai saai jisap bun syu aa1maa3
+\g some person not read all 20 CL bookSFP
+\l Some people didn't read all the twenty books.
+
+\t jisap bun syu aa1maa3 jaudi jan          mou tai saai
+\m jisap bun syu aa1maa3 jaudi jan          mou tai saai
+\g 20    CL bookSFP          some person not read all
+\l Some people didn't read all the twenty books.
+
+\t cungsyu aa1maa3 keoi zeoi zungji lo1
+\m cungsyu aa1maa3 keoi zeoi zungji lo1
+\g squirrel    SFP        s/he best like SFP
+\l S/he likes squirrels best.
+
+\t di     hoksaang
+\m di     hoksaang
+\g Cl(pl) student
+\l the students
+
+\t di keoi
+\m di keoi
+\g   Pl he
+\l they
+
+\t di keoidei
+\m di keoidei
+\g   Pl they
+\l they
+
+\t Faai moseot geng jau saamgo ngo tungmaai houdo go keoidei.
+\m Faai moseot geng jau saam-go ngo tungmaai houdo go keoidei.
+\g Cl magic mirror have three-Cl I          and       many Cl they
+\l There are three images of myself and many images of them.
+
+\t keoi5 maai5zo2 zeon1 seoi2 jam2
+\m keoi5 maai5-zo2 zeon1 seoi2 jam2
+\g 3.sg buy-perf cl water drink
+\l S/he bought a bottle of water to drink.
+
+\t ngo5 waak6zo2 zoeng1 kaat1 sung3 bei2 keoi5
+\m ngo5 waak6-zo2 zoeng1 kaat1 sung3 bei2 keoi5
+\g 1.sg draw-perf cl        card give to 3.sg
+\l I drew a card to give to him (as a gift).
+
+\t go3 ging2caat3 zuk1zo2 go3 caak2
+\m go3 ging2caat3 zuk1-zo2 go3 caak2
+\g cl police      catch-perf cl thief
+\l The police caught the thief.
+
+\t go3 ging2caat3 heoi3zo2 zuk1 go3 caak2
+\m go3 ging2caat3 heoi3-zo2 zuk1 go3 caak2
+\g cl police      go-perf catch cl thief
+\l The police went and arrested the thief.
+
+\t ngo5 waak6gan2 zoeng1 kaat1 sung3 bei2 keoi5
+\m ngo5 waak6-gan2 zoeng1 kaat1 sung3 bei2 keoi5
+\g 1.sg draw-prog cl        card give to 3.sg
+\l I was drawing a card for him (as a gift).
+
+\t ngo5 mou5 waak6dou3 zoeng1 kaat1 sung3 bei2 keoi5
+\m ngo5 mou5 waak6-dou3 zoeng1 kaat1 sung3 bei2 keoi5
+\g 1.sg neg draw-imp cl           card give to 3.sg
+\l I was not drawing a card for him (as a gift).
+
+\t keoi5 jau4 baak6zo2 dou6 mun4
+\m keoi5 jau4 baak6-zo2 dou6 mun4
+\g 3.sg paint white-perf cl door
+\l S/he painted the door white.
+
+\t keoi5 lo2 baa2 dou1 cit3 juk6
+\m keoi5 lo2 baa2 dou1 cit3 juk6
+\g 3.sg take cl knife cut meat
+\l S/he cut meat with a knife.
+
+\t ni1 gin6 si6        ngo5 heoi3 zou6 laa1
+\m ni1 gin6 si6        ngo5 heoi3 zou6 laa1
+\g this cl business    1.sg go do part
+\l I'll do it.
+
+\t ni1 gin6 si6        ngo5 lai4 zou6 laa1
+\m ni1 gin6 si6        ngo5 lai4 zou6 laa1
+\g this cl business    1.sg come do part
+\l I'll do it.
+
+\t keoi5 paau2gan2 gwo3 lai4
+\m keoi5 paau2-gan2 gwo3 lai4
+\g 3.sg run-prog cross come
+\l S/he is running towards me.
+
+\t keoi5 teoi1zo2 gaa3 daan1ce1 zau2
+\m keoi5 teoi1-zo2 gaa3 daan1ce1 zau2
+\g 3.sg push-perf cl bicycle away
+\l S/he pushed the bicycle along.
+
+\t keoi5 daap3 ce1 faan1 hok6haau6 bong1 ngo5 waan4syu1
+\m keoi5 daap3 ce1 faan1 hok6haau6 bong1 ngo5 waan4-syu1
+\g 3.sg take car go school           help 1.sg return-book
+\l S/he took a bus to school to return a book for me.
+
+\t Ngo5 bong1 keoi5 gaau1 gung1 fo3
+\m Ngo5 bong1 keoi5 gaau1 gung1 fo3
+\g 1.sg help 3.sg submit assignment
+\l I helped him/her submit an assignment.
+
+\t Ngo ukkei ting din      lei.
+\m Ngo ukkei ting din      lei.
+\g I  home stop electricity Part
+\l My home had a power failure a short while ago
+
+\t Ngo taizo ni bun syu zaa.
+\m Ngo tai-zo ni bun syu zaa.
+\g I    read-Perf this Cl book only
+\l I only read this book.
+
+\t Ngo taizo bun syu jatci       zaa.
+\m Ngo tai-zo bun syu jat-ci       zaa.
+\g I    read-Perf Cl book one-time only
+\l I read the book once only.
+
+\t Ngo hou faaigam taizo      bun syu zaa.
+\m Ngo hou faai-gam tai-zo      bun syu zaa.
+\g I    very fast-ly read-Perf Cl book only
+\l I only read the book quickly.
+
+\t Ngo manmangam haang zaa.
+\m Ngo manmangam haang zaa.
+\g I    slowly       walk only
+\l I only walk slowly.
+
+\t Ngo hai tousyugwun taisyu       zaa.
+\m Ngo hai tousyugwun tai-syu       zaa.
+\g I     in library       read-book only
+\l I only read in the library.
+
+\t Ngo camjat taisyu       zaa.
+\m Ngo camjat tai-syu       zaa.
+\g I    yesterday read-book only
+\l I only read yesterday.
+
+\t Camjat ngo taisyu       zaa.
+\m Camjat ngo tai-syu       zaa.
+\g yesterday I    read-book only
+\l Yesterday I read only.
+
+\t Ngo jung ni zi bat cimmeng zaa.
+\m Ngo jung ni zi bat cimmeng zaa.
+\g I    by this Cl pen sign      only
+\l I only sign documents by using this pen.
+
+\t Ngo bei pin man bei Siu Ming zaa.
+\m Ngo bei pin man bei Siu Ming zaa.
+\g I    give Cl paper to Siu Ming only
+\l I gave (only) the paper (only) to Siu Ming.
+
+\t Ngo manzo Siu Ming jattiu mantai zaa.
+\m Ngo man-zo Siu Ming jat-tiu mantai zaa.
+\g I    ask-Perf Siu Ming one-Cl question only
+\l I asked Siu Ming only one question.
+
+\t Ngo manzo loenggo jan       ni tiu mantai zaa.
+\m Ngo man-zo loeng-go jan       ni tiu mantai zaa.
+\g I    ask-Perf two-Cl person this Cl question only
+\l I asked only two people this question.
+
+\t Bun syu, ngo saumaai zaa.
+\m Bun syu, ngo saumaai zaa.
+\g Cl book I store up only
+\l As for that book, I only store it up.
+
+\t Ngo tausin saizo     gaace (*zaa) lai (*zaa).
+\m Ngo tausin sai-zo     gaa-ce (*zaa) lai (*zaa).
+\g I    just wash-Perf Cl-car only Part only
+\l I just (*only) washed the car.
+
+\t Ngo saizo     gaace (*zaa) laa (*zaa).
+\m Ngo sai-zo     gaa-ce (*zaa) laa (*zaa).
+\g I    wash-Perf Cl-car only Part only
+\l I have (*only) washed the car.
+
+\t Nei zimzidou     [zingwaa lokgwo jyu lei] aa?
+\m Nei zi-m-zidou     [zingwaa lok-gwo jyu lei] aa?
+\g you know-not-know just        fall-Exp rain Part Q
+\l Do you know it just rained?
+
+\t Keoi dimgaai sikzo jatgo caang zaa.
+\m Keoi dimgaai sik-zo jat-go caang zaa.
+\g he why eat-Perf one-Cl orange only
+\l Why did he eat only one orange?
+
+\t Nei sikzo matje waa?
+\m Nei sik-zo matje waa?
+\g you eat-Perf what Q
+\l You ate WHAT?
+
+\t Nei sikgwo matje maa?
+\m Nei sik-gwo matje maa?
+\g you eat-Exp what Q
+\l Have you eaten anything?
+
+\t Nei sikgwo matje lei maa?
+\m Nei sik-gwo matje lei maa?
+\g  you eat-Exp what Part Q
+\l Did you just eat anything?
+
+\t Nei sing    matje lei?
+\m Nei sing    matje lei?
+\g  you surname what Part
+\l What was your surname?
+
+\t Nei heoizo/gwo bindou lei?
+\m Nei heoi-zo/gwo bindou lei?
+\g you go-Perf/Exp where Part
+\l Where did you go only a short while ago?
+
+\t Ngo mou taamgwo Wong sinsaang/go go jan              lei.
+\m Ngo mou taam-gwo Wong sinsaang/go go jan              lei.
+\g   I   not visit-Exp Wong mister/ that Cl person Part
+\l I didn't visit Mr. Wong/that person a short while ago.
+
+\t Ngo mou taamgwo bingo lei.
+\m Ngo mou taam-gwo bingo lei.
+\g I     not visit-Exp who Part
+\l I didn't visit anyone a short while ago.
+
+\t Dip sung, ngo lingzoceotheoi lei.
+\m Dip sung, ngo ling-zo-ceotheoi lei.
+\g Cl dish I       bring-Perf-out Part
+\l I just brought the dish out.
+
+\t Keoi tautaudei sik    jin   lei.
+\m Keoi tautaudei sik    jin   lei.
+\g he secretly smoke cigarette Part
+\l He just secretly smoked.
+
+\t Siu Ming daazo nei, Siu Koeng ngo.
+\m Siu Ming daa-zo nei, Siu Koeng ngo.
+\g  Siu Ming hit-Perf you Siu Koeng I
+\l Siu Ming hit you and Siu Koeng me.
+
+\t Siu Ming beizo    loengbun syu ngo.
+\m Siu Ming bei-zo    loeng-bun syu ngo.
+\g Siu Ming give-Perf two-Cl    book I
+\l Siu Ming gave two books to me.
+
+\t Siu Ming beizo    loengbun syu nei, saambun syu ngo.
+\m Siu Ming bei-zo    loeng-bun syu nei, saam-bun syu ngo.
+\g Siu Ming give-Perf two-Cl    book you three-Cl book I
+\l Siu Ming gave two books to you and three books to me.
+
+\t Nei go sogwaa!
+\m Nei go sogwaa!
+\g you Cl fool
+\l You fool!
+
+\t Nei tiu seizai.
+\m Nei tiu seizai.
+\g  you Cl dead-boy
+\l You bad boy.
+
+\t Neidei baan seoijan.
+\m Neidei baan seoijan.
+\g you(pl) Cl bad-person
+\l You bad guys.
+
+\t nei heoimheoi Baalai          aa3?
+\m nei heoi-m-heoi Baalai          aa3?
+\g you go-not-go    Paris          SFP
+\l Are you going to Paris?
+
+\t nei heoi Baalai me1?
+\m nei heoi Baalai me1?
+\g you go Paris SFP
+\l Are you going to Paris? (I thought you were not going.)
+
+\t nei m heoi Baalai me1?
+\m nei m heoi Baalai me1?
+\g you not go Paris SFP
+\l Are you not going to Paris? (I thought you were going.)
+
+\t keoi jingwai nei maai matje zeoihou?
+\m keoi jingwai nei maai matje zeoihou?
+\g s/he think       you buy what best
+\l What is the thing (x) such that s/he thinks that you buy x is the best?
+
+\t keoi jingwai nei dimgaai heoi Baalai zeoi haplei?
+\m keoi jingwai nei dimgaai heoi Baalai zeoi haplei?
+\g s/he   think you why           go Paris most reasonable
+\l Why (x), s/he thinks that you go to Paris x is the most reasonable?
+
+\t nei   gokdak ngo jingmjinggoi          heoi Baalai beigaau            hou?
+\m nei   gokdak ngo jing-m-jinggoi          heoi Baalai beigaau            hou?
+\g  you feel       I      should-not-should go Paris comparatively good
+\l Do you feel that it is better for me to go to Paris or not go to Paris?
+
+\t John janwai Mary gong zo matje nau                   ne?
+\m John janwai Mary gong zo matje nau                   ne?
+\g John because Mary say ASP what angry SFP
+\l What is the thing (x) such that John got angry because Mary said x?
+
+\t John janwai Mary dimgaai gongje           nau    ne?
+\m John janwai Mary dimgaai gongje           nau    ne?
+\g John because Mary why           say-thing angry SFP
+\l Why (x), John got angry because Mary said something x?
+
+\t John janwai Mary gongmgongje nau                  ne?
+\m John janwai Mary gong-m-gongje nau                  ne?
+\g John because Mary say-not-say-thing angry SFP
+\l Did John get angry because Mary said something or Mary didn't say anything?
+
+\t nei zungji bingo se       ge     syu?
+\m nei zungji bingo se       ge     syu?
+\g you like who write GEN book
+\l W ho is the person (x) such that you like the books that x wrote?
+
+\t nei zungji keoi dimgaai se          ge    syu?
+\m nei zungji keoi dimgaai se          ge    syu?
+\g  you like     s/he why       write GEN book
+\l Why (x), you like the books that s/he wrote x?
+
+\t nei gin gwo sikmsik           tiuseoi ge jan?
+\m nei gin gwo sik-m-sik           tiuseoi ge jan?
+\g  you see ASP know-not-know dive           GEN person
+\l Have you met people who can dive or people who cannot dive?
+
+\t jau loeng go hoksaang wuim wui caamgaa beicoi aa3? (numeral NP)
+\m jau loeng go hoksaang wui-m- wui caamgaa beicoi aa3? (numeral NP)
+\g have two CL student will-not-will participate contest SFP
+\l Are two students going to participate in the contest?
+
+\t zou segung          gingsoeng jiumjiu        ceot ngoizin gaa3?
+\m zou segung          gingsoeng jiu-m-jiu        ceot ngoizin gaa3?
+\g do    social worker often       need-not-need out outreach SFP
+\l As a social worker, do you often need to do outreach work?
+
+\t zou segung         jiumjiu       gingsoeng ceot ngoizin gaa3?
+\m zou segung         jiu-m-jiu       gingsoeng ceot ngoizin gaa3?
+\g do social worker need-not-need often          out outreach SFP
+\l As a social worker, do you often need to do outreach work?
+
+\t ngo zinghai homhoji gaau jat pin man?
+\m ngo zinghai ho-m-hoji gaau jat pin man?
+\g  I   only can-not-can submit one CL paper
+\l Can I only submit one paper?
+
+\t ngo homhoji      zinghai gaau jat pin man?
+\m ngo ho-m-hoji      zinghai gaau jat pin man?
+\g I   can-not-can only submit one CL paper
+\l Can I only submit one paper?
+
+\t ngo jatding       jiumjiu        gaau loeng pin man?
+\m ngo jatding       jiu-m-jiu        gaau loeng pin man?
+\g  I    necessarily need-not-need submit two CL paper
+\l Do I necessarily have to submit t wo papers?
+
+\t ngo jiumjiu        jatding      gaau loeng pin man?
+\m ngo jiu-m-jiu        jatding      gaau loeng pin man?
+\g  I    need-not-need necessarily submit two CL paper
+\l Do I necessarily have to submit two papers?
+
+\t ni tiu sou      homhoji   jung lingjatgo fongfaat heoi gaai aa3?
+\m ni tiu sou      ho-m-hoji   jung ling-jat-go fongfaat heoi gaai aa3?
+\g this CL problem may-not-may use other-one-CL method go solve SFP
+\l Is it possible to use another method to solve this problem?
+
+\t nei sikmsik       gong Dakman zaa3?
+\m nei sik-m-sik       gong Dakman zaa3?
+\g  you know-not-know speak German ZAA
+\l Do you only speak German?
+
+\t /??nei soengmsoeng sik zyugwulik tim1?
+\m /??nei soeng-m-soeng sik zyugwulik tim1?
+\g     you want-not- want eat chocolate TIM
+\l Do you also want to eat chocolates?
+
+\t nei sik gong Dakman zaa3 me1?
+\m nei sik gong Dakman zaa3 me1?
+\g you know speak German ZAA ME
+\l Do you only speak German?
+
+\t  nei soeng sik zyugwulik tim1 me1?
+\m  nei soeng sik zyugwulik tim1 me1?
+\g you want eat chocolate TIM ME
+\l Do you also want to eat chocolates?
+
+\t muigo hoksaang dou zungmzungji tai        dinsi aa3?
+\m mui-go hoksaang dou zung-m-zungji tai        dinsi aa3?
+\g  every CL student       all like-not-like watch TV SFP
+\l Does every student like watching TV?
+
+\t ni gaan poutau gingsoeng maaimmaai gwai            je    aa3?
+\m ni gaan poutau gingsoeng maai-m-maai gwai            je    aa3?
+\g this CL shop often             sell-not-sell expensive thing SFP
+\l Does this shop often sell expensive things?
+
+\t dimgaai i John waa Mary zinghai maai zo        saam bun syu ti?
+\m dimgaai i John waa Mary zinghai maai zo        saam bun syu ti?
+\g  why       John say Mary only buy ASP three CL book
+\l Why did John say that Mary only bought three books?
+
+\t haimhai mui go hoksaang dou zungji tai           dinsi aa3?
+\m hai-m-hai mui go hoksaang dou zungji tai           dinsi aa3?
+\g be-not-be every CL student          all like  watch TV SFP
+\l Is it that every student likes watching TV?
+
+\t gin Tseot haimhai jinggoi wui sukseoi?
+\m gin T-seot hai-m-hai jinggoi wui sukseoi?
+\g CL T-shirt be-not-be should will shrink
+\l Is it that the T-shirt should shrink?
+
+\t nei haimhai sik gong Dakman zaa3?
+\m nei hai-m-hai sik gong Dakman zaa3?
+\g you be-not-be know speak German ZAA
+\l Is it that you only speak German?
+
+\t haimhai ni gaan poutau gingsoeng maai gwai            je    aa3?
+\m hai-m-hai ni gaan poutau gingsoeng maai gwai            je    aa3?
+\g be-not-be this CL shop often              sell expensive thing SFP
+\l Does this shop often sells expensive things?
+
+\t Léih gú [Wai Ling sung mtyéh béi bngo] ?
+\m Léih gú [Wai Ling sung mtyéh béi bngo] ?
+\g you think Wai Ling send what              to who
+\l What do you think Wai Ling is giving to whom?
+
+\t Léih gú [Wai Ling sung mtyéh béi bngo] ?
+\m Léih gú [Wai Ling sung mtyéh béi bngo] ?
+\g you think Wai Ling send what              to who
+\l What do you think Wai Ling is giving to whom?
+
+\t bung coeng bei keoi ditzo
+\m bung coeng bei keoi dit-zo
+\g  Cl    wall Pass 3sg fall-Pfv
+\l The wall fell down.
+
+\t Nç     pei ts'in       pei koey.
+\m Nç     pei ts'in       pei koey.
+\g 1sg give money give 3sg
+\l I give money to him.
+
+\t Ngóh béimin kéuih kéuih béimin ngóh
+\m Ngóh béi-min kéuih kéuih béi-min ngóh
+\g  I     give-face him       he      give-face me
+\l He and I respect each other.
+
+\t Keoi5 hai6 leng3       neoi2
+\m Keoi5 hai6 leng3       neoi2
+\g 3SG be beautiful girl
+\l She is a beautiful girl.
+
+\t Keoi5 leng3zo2           wo3
+\m Keoi5 leng3-zo2           wo3
+\g 3SG beautiful-PERF PART
+\l She has become beautiful.
+
+\t gaan1 fong2 hak1 maa1 maa1, nei5 dim2 tai2 dou2 syu1 gaa3
+\m gaan1 fong2 hak1 maa1 maa1, nei5 dim2 tai2 dou2 syu1 gaa3
+\g CL room black maa maa 2.SG how read able to book PART
+\l This room is so dark. How can you read?
+
+\t keoi5 gam1 jat6 zoek3 hak1 sik1 kwan1
+\m keoi5 gam1 jat6 zoek3 hak1 sik1 kwan1
+\g 3.SG today       wear black      dress
+\l She is wearing a black dress today.
+
+\t keoi5 se2 dou3 di1 zi6 mat6 zat1 zat1 gam2, hou2                naan4 tai2 wo3
+\m keoi5 se2 dou3 di1 zi6 mat6 zat1 zat1 gam2, hou2                naan4 tai2 wo3
+\g 3.SG write dou DET words dense zat zat ­like, INTENS difficult read PART
+\l S/he writes in a"densely-packed" manner. It's so difficult to understand.
+
+\t keoi go faa jyun di            syu saang dak hou mat
+\m keoi go faa jyun di            syu saang dak hou mat
+\g 3.SG CL flower yard DET tree grow dak INTENS dense
+\l The trees in his/her garden are densely grown.
+
+\t go3 dei6 haa2 sap1 det6 det6, hou2         sin3      aa3!
+\m go3 dei6 haa2 sap1 det6 det6, hou2         sin3      aa3!
+\g CL floor            wet det det     INTENS slippery PART
+\l The floor is so wet and slippery.
+
+\t m4 goi1 lo2 faai3 sap1 mou4 gan1 bei2 ngo5 aa1
+\m m4 goi1 lo2 faai3 sap1 mou4 gan1 bei2 ngo5 aa1
+\g please take CL wet towel         bei 1.SG PART
+\l Please get me a wet towel.
+
+\t keoi5 zoek3 dou3 hung4 dong1 dong3 gam2, m4 zi1                hai6 mai6 heoi3 jam2 ne1?
+\m keoi5 zoek3 dou3 hung4 dong1 dong3 gam2, m4 zi1                hai6 mai6 heoi3 jam2 ne1?
+\g 3.SG wear dou red dong dong-like, NEG know whether                      go drink PART
+\l S/he is dressed in red today. Isn't she attending a banquet?
+
+\t keoi5 gwaa3 zo2            zi1 hung4 kei4 hai2 tin1faa1baan2
+\m keoi5 gwaa3 zo2            zi1 hung4 kei4 hai2 tin1faa1baan2
+\g 3.SG     hang     PERF CL red flag PREP ceiling
+\l S/he has hung a red flag on the ceiling.
+
+\t dim2 gaai2        bui1 seoi2 tim4 tim2/4 dei2           gam2 ge2?
+\m dim2 gaai2        bui1 seoi2 tim4 tim2/4 dei2           gam2 ge2?
+\g Why               CL water sweet-sweet-dei-like PART
+\l Why is this cup of water kind of sweet?
+
+\t nei5   jiu3    gwaai1 gwaai1 dei2 teng1 sin1 saang1 waa6    aa3
+\m nei5   jiu3    gwaai1 gwaai1 dei2 teng1 sin1 saang1 waa6    aa3
+\g 2.SG    have to good good-dei listen teacher         words PART
+\l You have to behave well and listen to the teachers.
+
+\t keoi5 zou6 je5       seng4 jat6 leon6 leon6 zeon6 zeon6 gam2 ge2
+\m keoi5 zou6 je5       seng4 jat6 leon6 leon6 zeon6 zeon6 gam2 ge2
+\g 3.SG do thing alwa ys            clumsy-like PART
+\l S/he does things clumsily.
+
+\t go2 go3 po4 po2 seng4 jat6 gu1 ling1 ling1 jat1 go3 jan4 sik6 faan6 gaa3
+\m go2 go3 po4 po2 seng4 jat6 gu1 ling1 ling1 jat1 go3 jan4 sik6 faan6 gaa3
+\g DET CL old lady alwa ys           lonely         one CL person eat rice PART
+\l That old lady is so lonely that she always has meals on her own.
+
+\t Nei5 laa4 laa2 seng1 zou6 maai4 di1 je5 jin4 hau6 heoi3 sik6 faan6 laa1
+\m Nei5 laa4 laa2 seng1 zou6 maai4 di1 je5 jin4 hau6 heoi3 sik6 faan6 laa1
+\g 2.SG hurry up          do PERF DET thing then              go eat rice PART
+\l You should hurry up and finish your work so that you can have your meal.
+
+\t goh saam bo sue
+\m goh saam bo sue
+\g Dem 3 CL book
+\l those three books
+
+\t goh saam bo sue
+\m goh saam bo sue
+\g Dem 3 CL book
+\l those three books
+
+\t Gihn    sam     mh leng
+\m Gihn    sam     mh leng
+\g CL       shirt    not nice
+\l The shirt doesn't look nice
+
+\t Gamyaht       ngóh mh gin haak
+\m Gam-yaht       ngóh mh gin haak
+\g today          I        not see client
+\l I am not seeing any clients today
+
+\t Ngódeih      gammáahn yiu         cheut                 heu      sihk
+\m Ngódeih      gam-máahn yiu         cheut                 heu      sihk
+\g we             tonight       need            out         go       eat
+\l We have to eat out tonight
+
+\t Ni¤ geui yéh           msái          joi     gói               la
+\m Ni¤ geui yéh           msái          joi     gói               la
+\g this CL        thing no-need         again correct             PRT
+\l There's no need to correct this sentence again
+
+\t Léih    béi     d       d       sìhgaan        ngóh    l !
+\m Léih    béi     d       d       sìhgaan        ngóh    l !
+\g you     give   more some time                 me     PRT
+\l Give me a bit longer, won't you?
+
+\t ngo bei daa zo.
+\m ngo bei daa zo.
+\g  I BEI hit PERF
+\l I was hit.
+
+\t ngo bei keoi da zo
+\m ngo bei keoi da zo
+\g I BEI him hitPERF
+\l I was hit by him.
+
+\t ngo bei jan     daa zo.
+\m ngo bei jan     daa zo.
+\g I BEI people hit PERF
+\l I was hit by someone.
+
+\t go jek laaihfan  hou yuhngyih sihk feih di bibhi.
+\m go jek laaih-fan  hou yuhngyih sihk feih di bibhi.
+\g that milk-powder very easily    eat fat cls baby
+\l That milk powder easily makes babies fat.
+
+\t Nei5     gaau3       [ngo5]
+\m Nei5     gaau3       [ngo5]
+\g 2.SG     teach        me
+\l You teach me.
+
+\t Nei5     bei2zo2      bun2 syu1           [ngo5]
+\m Nei5     bei2-zo2      bun2 syu1           [ngo5]
+\g 2.SG     give-PERF     CL book              1.SG
+\l You have given me a book.
+
+\t Ngo5       zyu6 [hai2      zung1waan4]
+\m Ngo5       zyu6 [hai2      zung1waan4]
+\g 1.SG       live at         Central
+\l I live in Central.
+
+\t Ngo5      zi1        [keoi5 hai6 hok6 saang1]
+\m Ngo5      zi1        [keoi5 hai6 hok6 saang1]
+\g 1.SG      knows       3.SG      be student
+\l I knows that s/he is a student.
+
+\t Keoi5    jiu3      ngo5    [zau2]
+\m Keoi5    jiu3      ngo5    [zau2]
+\g 3.SG     want      1.SG     leave
+\l He/she asked me to leave
+
+\t S[Keoi5 VP[waa6 VP[m4                 leng3]]]
+\m S[Keoi5 VP[waa6 VP[m4                 leng3]]]
+\g  3.SG        say          NEG         pretty
+\l S/he said that (it is) not pretty.
+
+\t Ngo5     zi1 dou3zo2 [keoi5 saat3gwo3 jan4]
+\m Ngo5     zi1 dou3-zo2 [keoi5 saat3-gwo3 jan4]
+\g 1.SG     know-PERF 3.SG             kill-PERF people
+\l I know that s/he has killed a person.
+
+\t [Keoi5 saat3gwo3 jan4]           bei21    ngo5      zi1 dou3zo2
+\m [Keoi5 saat3-gwo3 jan4]           bei21    ngo5      zi1 dou3-zo2
+\g   3.SG kill-PERF          people BEI         1.SG      know-PERF
+\l That s/he has killed a person is known by me.
+
+\t [Keoi5 saat3gwo3 jan4] li1 gin6 si6          bei2 ngo5 zi1 dou3zo2
+\m [Keoi5 saat3-gwo3 jan4] li1 gin6 si6          bei2 ngo5 zi1 dou3-zo2
+\g  3.SG kill-PERF people this CL matter BEI 1.SG know-PERF
+\l That s/he has killed a person is known by me.
+
+\t Ngo5      zi1 dou3 S[keoi5 hai6 hou2      jan4]
+\m Ngo5      zi1 dou3 S[keoi5 hai6 hou2      jan4]
+\g 1.SG      know         3.SG be good       people
+\l I know that s/he is a good person.
+
+\t Ngo5     zi1 dou3 DP[li1      gin6 si6]
+\m Ngo5     zi1 dou3 DP[li1      gin6 si6]
+\g 1.SG     know          this   CL matter
+\l I know (about) this.
+
+\t Ngo5      seon3       S[keoi5   hai6 hou2         jan4]
+\m Ngo5      seon3       S[keoi5   hai6 hou2         jan4]
+\g 1.SG      believe      3.SG be good               people
+\l I believe that s/he is a good person.
+
+\t Ngo5      seon3      DP[keoi5]
+\m Ngo5      seon3      DP[keoi5]
+\g 1.SG      believe       3.SG
+\l I believe (in) him/her.
+
+\t Ngo5       gok3 dak1       S[keoi5    hai6 hou2       jan4]
+\m Ngo5       gok3 dak1       S[keoi5    hai6 hou2       jan4]
+\g 1.SG       think            3.SG be good              people
+\l I think that s/he is a good person.
+
+\t Ngo5      hei1 mong6 S[keoi5 hai6 hou2                jan4]
+\m Ngo5      hei1 mong6 S[keoi5 hai6 hou2                jan4]
+\g 1.SG      hope              3.SG be good              people
+\l I hope that s/he is a good person.
+
+\t Ngo5      zi1       ni1 gin6 si6
+\m Ngo5      zi1       ni1 gin6 si6
+\g 1.SG      know      this matter
+\l I know this matter.
+
+\t b. Ngo5      zi1            keoi5
+\m b. Ngo5      zi1            keoi5
+\g      1.SG      know           3.SG
+\l I know it.
+
+\t Ngo5     ming4 baak6 nei5 ge3  gam2 sau6 tung4 maai4                 [nei5        ji2 ging1     zeon6zo2      lik6]   
+\m Ngo5     ming4 baak6 nei5 ge3  gam2 sau6 tung4 maai4                 [nei5        ji2 ging1     zeon6-zo2      lik6]   
+\g   1.SG     understand  2.SG POSS feeling   and                         2.SG       already       try-PERF       strength
+\l I understand your feeling and that you have tried your best.
+
+\t Ngo5     do1 ze6 ngo5 baa4 baa1 maa4 maa1             zung6 jau2 [di1         bang4 jau2 jat1 zik6         gam2      zi1 ci4 ngo5]
+\m Ngo5     do1 ze6 ngo5 baa4 baa1 maa4 maa1             zung6 jau2 [di1         bang4 jau2 jat1 zik6         gam2      zi1 ci4 ngo5]
+\g  1.SG      thank   1.SG father    mother                and        some       friend       all the way     so         support 1.SG
+\l I thank my parents and that my friends have supported me all the way.
+
+\t Ngo5       zung1 ji3 li1 fu3 ngaan5 geng2
+\m Ngo5       zung1 ji3 li1 fu3 ngaan5 geng2
+\g 1.SG       like       this CL glasses
+\l I like this pair of glasses.
+
+\t Ngo5 zung1 ji3       [nei5      daai3 li1 fu3 ngaan5 geng2]
+\m Ngo5 zung1 ji3       [nei5      daai3 li1 fu3 ngaan5 geng2]
+\g 1.SG like             2.SG      wear this CL glasses
+\l I like that you wear this pair of glasses.
+
+\t [Keoi5 hai6 hou2          jan4],    ngo5     zi1 dou3
+\m [Keoi5 hai6 hou2          jan4],    ngo5     zi1 dou3
+\g  3.SG      be good        people    1.SG     know
+\l S/he is a good person, I know.
+
+\t [Keoi5 hai6 hou2          jan4],    ngo5     gok3 dak1
+\m [Keoi5 hai6 hou2          jan4],    ngo5     gok3 dak1
+\g  3.SG     be good         people    1.SG     think
+\l S/he is a good person, I think.
+
+\t Ngo5 hou2 hoi1 sam1 [gaan1 gung1 si1 ceng2zo2    ngo5]
+\m Ngo5 hou2 hoi1 sam1 [gaan1 gung1 si1 ceng2-zo2    ngo5]
+\g 1.SG very happy           CL company employ-PREP 1.SG
+\l I am so happy that the company has employed me.
+
+\t Keoi5     gui6 dou3              [deoi3 goek3      jyun5    saai3]
+\m Keoi5     gui6 dou3              [deoi3 goek3      jyun5    saai3]
+\g 3.SG      tired to the extent CL           legs    feeble   all
+\l S/he is so tired that his/her legs are feeble.
+
+\t Keoi5     can3      [ngo5 dei6 m4      wai4 ji3] tau1zo2         bun2       syu1
+\m Keoi5     can3      [ngo5 dei6 m4      wai4 ji3] tau1-zo2         bun2       syu1
+\g 3.SG      during     1.PL      NEG aware          steal-PERF      CL         book
+\l S/he stole the book when we did not pay attention.
+
+\t Keoi5    soeng2 jau4 [ngo5 zyu2 ci4 li1                  go3 wui2]
+\m Keoi5    soeng2 jau4 [ngo5 zyu2 ci4 li1                  go3 wui2]
+\g 3.SG     want      from 1.SG chair     DET               CL meeting
+\l S/he wants me to chair this meeting.
+
+\t Keoi5    zi1       gwan1 jyu1 [ngo5 dei6       hap6 zok3 ge3             si6]
+\m Keoi5    zi1       gwan1 jyu1 [ngo5 dei6       hap6 zok3 ge3             si6]
+\g 3.SG     know      about          1.PL         cooperate POSS            matter
+\l S/he knows about the matter on which we cooperated.
+
+\t Ngóh    béimin      kéuih kéuih béimin ngóh
+\m Ngóh    béi-min      kéuih kéuih béi-min ngóh
+\g I       give-face    him he       give-face me
+\l He and I respect each other.
+
+\t ngo bei daa zo.
+\m ngo bei daa zo.
+\g  I BEI hit PERF
+\l I was hit.
+
+\t ngo bei keoi da zo
+\m ngo bei keoi da zo
+\g I BEI him hit PERF
+\l I was hit by him.
+
+\t ngo bei jan     daa zo.
+\m ngo bei jan     daa zo.
+\g I BEI people hit PERF
+\l I was hit by someone.
+
+\t Ni jyut gong, keoi jyut ganzoeng
+\m Ni jyut gong, keoi jyut ganzoeng
+\g You CM talk he CM nervous
+\l The more you talk, the more nervous he is
+
+\t ngo5 bei2zo2 bun2 syu1 keo i5
+\m ngo5 bei2-zo2 bun2 syu1 keo i5
+\g  1.SG give-PERF CL book 3.SG
+\l I've given him/her a book
+
+\t keoi5      gaau3 ngo5 jing1man2
+\m keoi5      gaau3 ngo5 jing1man2
+\g 3.SG       teach 1.SG English
+\l S/he teaches me English.
+
+\t ngo5       bei2zo2      bun2 hung4sik1ge3 syu1 siu2 ming4
+\m ngo5       bei2-zo2      bun2 hung4sik1ge3 syu1 siu2 ming4
+\g 1.SG       give.PERF      CL     red        book PN
+\l I have given a red book to Siu Ming.
+
+\t ngo5       bei2zo2      bun2 hung4sik1ge3 syu1 keoi5
+\m ngo5       bei2-zo2      bun2 hung4sik1ge3 syu1 keoi5
+\g 1.SG       give.PERF      CL      red       book 3.SG
+\l I have given a red book to him.
+
+\t keoi5 lo2zo2       bun2 syu1 bei2            ngo5
+\m keoi5 lo2-zo2       bun2 syu1 bei2            ngo5
+\g 3.SG take-PERF CL          book give          1.SG
+\l S/he took the book and gave it to me.
+
+\t keoi5 maa i3zo2 hou2do1 je3 bei2              ngo5
+\m keoi5 maa i3-zo2 hou2do1 je3 bei2              ngo5
+\g 3.SG buy-PERF many            thing give        1.SG
+\l S/he bought me many things.
+
+\t keoi5     jung6 zi1 coeng1 zi2zyu6           ngo5          go3    tau4
+\m keoi5     jung6 zi1 coeng1 zi2zyu6           ngo5          go3    tau4
+\g 3.SG      use    CL gun         point        1.SG          C L.head
+\l S/he is pointing a gun at my head.
+
+\t ngo5 mou 5 bei2 bun2 syu1 keoi5
+\m ngo5 mou 5 bei2 bun2 syu1 keoi5
+\g 1.SG NEG give CL book 3.SG
+\l I didn't give her/him a book.
+
+\t ngo5 bun2 syu1 m ou5 bei2 keoi5
+\m ngo5 bun2 syu1 m ou5 bei2 keoi5
+\g 1.SG CL book NEG give 3.SG
+\l  s for my book, I didn't give it to him/her. 
+
+\t ngo5 maa i5 fan6 lai5mat6 bei2                     keoi5
+\m ngo5 maa i5 fan6 lai5mat6 bei2                     keoi5
+\g 1.SG buy           CL     gift give                3.SG
+\l I buy a gift for him/her.
+
+\t ngo5 mou4        maa i5 la i5 mat6 bei2 keoi5
+\m ngo5 mou4        maa i5 la i5 mat6 bei2 keoi5
+\g 1.SG NEG         buy         gift     give 3.SG
+\l I did not buy any gift for him/her.
+
+\t ngo5 lo2zo2 bun2 syu2 bei2                keoi5
+\m ngo5 lo2-zo2 bun2 syu2 bei2                keoi5
+\g 1.SG take.PERF CL         book give        3.SG
+\l I have taken the book for him/her.
+
+\t Gou zungji sek juk.
+\m Gou zungji sek juk.
+\g Dog like eat meat
+\l Dogs love to eat meat.
+
+\t keoi zung heoi zo              Baalai           tim1 zaa3 me    1
+\m keoi zung heoi zo              Baalai           tim1 zaa3 me    1
+\g s/he also go          ASP      Paris            SFP SFP    s   FP
+\l Did s/he also only go to Paris?
+

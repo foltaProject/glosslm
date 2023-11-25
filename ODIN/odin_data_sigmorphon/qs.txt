@@ -1,0 +1,15 @@
+\t namu        de                      esi
+\m namu        de                      esi
+\g chicken     3SG.INAN.POSS           egg
+\l chicken eggs
+
+\t mo                    oma        meminyé
+\m mo                    oma        meminyé
+\g 3SG.AN.POSS           child      LOWER.AN.one
+\l her one child
+
+\t situ                  terahir    meminyé           do                    oma        meminyé     
+\m situ                  terahir    meminyé           do                    oma        meminyé     
+\g until                 at.last    LOWER.AN.one      3SG.INAN.POSS         child      LOWER.AN.one
+\l Until at last one   child...
+

@@ -1,0 +1,845 @@
+\t (1) cyux    muyay        qu       kneril ka mnihiy     yumin
+\m (1) cyux    m-uyay        qu       kneril ka m-n-ihiy     yumin
+\g   Aux.Prog AF-hungry      Nom      woman Lin AF-Perf-beat Yumin
+\l The woman who has beaten Yumin is hungry.
+
+\t [mnihiy       yumin ka] kneril ga cyux              muyay                        la
+\m [m-n-ihiy       yumin ka] kneril ga cyux              m-uyay                        la
+\g AF-Perf-beat    Yumin Lin woman Top Aux.Prog AF-hungry                              Par
+\l As for the woman who has beaten Yumin, (she) is hungry.
+
+\t kneril       [ka mnihiy     yumin] ga cyux          muyay                        la
+\m kneril       [ka m-n-ihiy     yumin] ga cyux          m-uyay                        la
+\g woman        Lin AF-Perf-beat Yumin Top     Aux.Prog AF-hungry                      Par
+\l As for the woman who has beaten Yumin, (she) is hungry.
+
+\t cyux    muyay        qu       [mnihiy    yumin                     ka] kneril
+\m cyux    m-uyay        qu       [m-n-ihiy    yumin                     ka] kneril
+\g  Aux.Prog AF-hungry     Nom      AF-Perf-beat Yumin                     Lin woman
+\l The woman who has beaten Yumin is hungry.
+
+\t cyux      muyay        qu       kneril [ka mnihiy    yumin]
+\m cyux      m-uyay        qu       kneril [ka m-n-ihiy    yumin]
+\g Aux.Prog AF-hungry      Nom      woman Lin AF-Perf-beat Yumin
+\l The woman who has beaten Yumin is hungry.
+
+\t smoya [mnihiy       yumin ka] kneril                    qu         watan
+\m s-m-oya [m-n-ihiy       yumin ka] kneril                    qu         watan
+\g  AF-like AF-Perf-beat Yumin Lin woman                        Nom        Watan
+\l Watan likes the woman who has beaten Yumin.
+
+\t smoya     kneril [ka mnihiy        yumin]                qu         watan
+\m s-m-oya     kneril [ka m-n-ihiy        yumin]                qu         watan
+\g AF-like     woman Lin AF-Perf-beat Yumin                     Nom        Watan
+\l Watan likes the woman who has beaten Yumin.
+
+\t (6) siconmaku          [binaziynya                  hira]     abaw         qasa
+\m (6) sic-on-maku          [b-in-aziy-nya                  hira]     abaw         qasa
+\g   like-UN-1S.G=past=buy-3S.G                 yesterday tea          that
+\l I like the tea he bought yesterday.
+
+\t [wal        maniq mqu           ka] yabamu            ga     cyux       pnep qulih
+\m [wal        m-aniq mqu           ka] yaba-mu            ga     cyux       pnep qulih
+\g Aux.Pst     AF-eat snake         Lin father-1SGen       Top    Aux.Prog   angle fish
+\l My father who ate snakes is angling.'     at least   two    fathers
+
+\t yabamu      [ka wal             maniq mqu]            ga     cyux       pnep qulih
+\m yaba-mu      [ka wal             m-aniq mqu]            ga     cyux       pnep qulih
+\g father-1SGen Lin Aux.Pst         AF-eat snake           Top    Aux.Prog   angle fish
+\l My father who ate snakes is angling.'     at least   two    fathers
+
+\t [mnihiy     yumin ka] kneril ga cyux              muyay                        la
+\m [m-n-ihiy     yumin ka] kneril ga cyux              m-uyay                        la
+\g AF-Perf-beat Yumin Lin woman Top Aux.Prog AF-hungry                               Par
+\l As for the woman who has beaten Yumin, (she) is hungry.
+
+\t siconmaku          [binaziynya     hira]    abaw qasa
+\m sic-on-maku          [b-in-aziy-nya     hira]    abaw qasa
+\g like-UN-1S.G=past=buy-3S.G yesterday tea that
+\l I like the tea he bought yesterday.
+
+\t [bnaziymaku          ka] sehuy     ga krahu yal
+\m [b-n-aziy-maku          ka] sehuy     ga krahu yal
+\g Perf-buy.PF-1SObl       Lin taro      Top big           very
+\l As for the taro which was bought by me, (it) is very big.
+
+\t [wal      sqaniq qulih      watan     ka] qway            ga qruyux
+\m [wal      s-qaniq qulih      watan     ka] qway            ga qruyux
+\g Aux.Pst IF-eat      fish     Watan Lin chopsticks          Top long
+\l As for the chopsticks which were used to eat fish by Watan, (they) are long.
+
+\t syon    na tali qu         asal        [ka qaniqan sehuy      na sayun]
+\m sy-on    na tali qu         asal        [ka q-aniq-an sehuy      na sayun]
+\g like-PF Obl Tali Nom        house       Lin eat-LF taro          Obl Sayun
+\l The house where Sayun ate taros is liked by Tali.
+
+\t [wal         sqaniq qulih     watan      ka] qway             ga qruyux
+\m [wal         s-qaniq qulih     watan      ka] qway             ga qruyux
+\g Aux.Pst      IF-eat    fish    Watan Lin chopsticks            Top long
+\l As for the chopsticks which were used to eat fish by Watan, (they) are long.
+
+\t [wal        maniq qulih      watan      ka] qway            ga qruyux
+\m [wal        m-aniq qulih      watan      ka] qway            ga qruyux
+\g Aux.Pst      AF-eat fish       Watan Lin chopsticks           Top long
+\l As for the chopsticks which were used to eat fish by Watan, they are long.
+
+\t [wal        sqaniq qway            watan    ka] qulih       ga qruyux
+\m [wal        s-qaniq qway            watan    ka] qulih       ga qruyux
+\g Aux.Pst      IF-eat    chopsticks    Watan Lin fish           Top long
+\l As for the fish which were eaten by Watan with chopsticks, it is long.
+
+\t syon na tali qu        asal       [ka qaniqan sehuy       na sayun]
+\m sy-on na tali qu        asal       [ka q-aniq-an sehuy       na sayun]
+\g like-PF Obl Tali Nom    house      Lin eat-LF taro           Obl Sayun
+\l The house where Sayun ate taros is liked by Tali.
+
+\t syon    na tali qu          asal       [ka mnaniq        sehuy      qu]     sayun
+\m sy-on    na tali qu          asal       [ka m-n-aniq        sehuy      qu]     sayun
+\g like-PF   Obl Tali Nom        house      Lin AF-Perf-eat     taro       Nom    Sayun
+\l The house where Sayun ate taros is liked by Tali.
+
+\t syon     na tali qu          sehuy     [ka mnaniq        asal       qu]     sayun
+\m sy-on     na tali qu          sehuy     [ka m-n-aniq        asal       qu]     sayun
+\g like-PF    Obl Tali Nom        taro      Lin AF-Perf-eat     house      Nom    Sayun
+\l The taro which Sayun ate in the house is liked by Tali.
+
+\t [mnihiy     yumin ka]         kneril    ga cyux         muyay                       la
+\m [m-n-ihiy     yumin ka]         kneril    ga cyux         m-uyay                       la
+\g AF-Perf-beat Yumin Lin          woman Top Aux.Prog AF-hungry                           Par
+\l As for the woman who has beaten Yumin, (she) is hungry.
+
+\t [wal      bhyan na yumin ka]           kneril      ga cyux  muyay       la 
+\m [wal      bhy-an na yumin ka]           kneril      ga cyux  m-uyay       la 
+\g Aux.Pst beat-PF Obl Yumin Lin           woman Top Aux.Prog AF-hungry      Par
+\l As for the woman who was beaten by Yumin, (she) is hungry.
+
+\t bnkisi     [ka mnihiy       yumin hiyai]                    qasa ga wagyaq yal
+\m bnkisi     [ka m-n-ihiy       yumin hiyai]                    qasa ga wagyaq yal
+\g old man    Lin AF-Perf-beat Yumin 3Nom                        that Top tall  very
+\l The old man who has beaten Yumin is very tall.
+
+\t bnkisi    [ka mnihiy       hiyai     yumin]                qasa ga wagyaq yal
+\m bnkisi    [ka m-n-ihiy       hiyai     yumin]                qasa ga wagyaq yal
+\g old man    Lin AF-Perf-beat 3Nom Yumin                        that Top tall  very
+\l The old man whom Yumin has beaten is very tall.
+
+\t bnkisi    [ka bnhyannyai   yumin] qasa ga wagyaq yal
+\m bnkisi    [ka b-n-hy-an-nyai   yumin] qasa ga wagyaq yal
+\g old man    Lin beat-Perf-PF-3Obl Yumin that Top tall      very
+\l The old man by whom Yumin has been beaten is very tall.
+
+\t  bnkisi [ka bnhyan     yumin hozilnyai]       qasa ga wagyaq yal
+\m  bnkisi [ka b-n-hy-an     yumin hozil-nyai]       qasa ga wagyaq yal
+\g old man Lin beat-Perf-PF Yumin dog-3Gen           that Top tall  very
+\l The old man whose dog has been beaten by Yumin is very tall.
+
+\t bnkisi [ka mnihiy     hozilnyai yumin] qasa ga wagyaq yal
+\m bnkisi [ka m-n-ihiy     hozil-nyai yumin] qasa ga wagyaq yal
+\g old man Lin AF-Perf-beat dog-3Gen Yumin that Top tall     very
+\l The old man whose dog Yumin has beaten is very tall.
+
+\t knerili   [ka siyon    na sayun       roziqnyai]      qasa ga blaq          ktan 
+\m knerili   [ka siy-on    na sayun       roziq-nyai]      qasa ga blaq          kt-an 
+\g woman     Lin like-PF Obl Sayun        eye-3Gen         that Top good         see-PF
+\l The woman whose eyes are liked by Sayun is beautiful.
+
+\t ktan
+\m kt-an
+\g see-PF
+\l The woman whose eyes are liked by Sayun is beautiful.
+
+\t [mnihiy      watan   hiyai    ka] bnkisi      ga wagyaq yal
+\m [m-n-ihiy      watan   hiyai    ka] bnkisi      ga wagyaq yal
+\g AF-Perf-beat Watan 3Nom           Lin old man Top tall        very
+\l As for the old man who has beaten Watan, (he) is very tall.
+
+\t 11. mu cu=ci awas=naha la        a,
+\m 11. m-u cu=ci awas=naha la        a,
+\g     [Neg.Imp=1PI.Gen forget.PF Nom word=1PI.Gen]
+\l I would think about my deceased grandparents. When I sleep at midnight, I would language!
+
+\t 7. hali       pastana        yasua=."
+\m 7. hal-i       pastana        yasua=."
+\g    [all:right say.PF=1S.Gen respond<AF>respond             say<AF>say]
+\l am going to pick up my father. He is working in the field. From home toTthe field, I
+
+\t nyel=mamuagent          mawas ci temuaccompanient       a
+\m nyel=mamuagent          m-awas ci temuaccompanient       a
+\g  [Prog.Prox=2P.Nom AF-sing Com Temu                     Q]
+\l Are you singing with Temu?
+
+\t (18)a. mpasra  i        kina           ka     hiya
+\m (18)a. mpa-sra  i        kina           ka     hiya
+\g        [Irr-make.friends 1S.Loc         Nom 3S.Neu]
+\l He wants to make friends       with me
+
+\t mpasra  i        sina           ka     hiya
+\m mpa-sra  i        sina           ka     hiya
+\g [Irr-make.friends 2S.Loc         Nom 3S.Neu]
+\l He wants to make friends       with you
+
+\t s<in>iliminni                              hira
+\m s<in>ili-min-ni                              hira
+\g [beat<Prf.PF>beat-1P.Nom-3S.Gen              yesterday]
+\l He beat us yesterday
+
+\t s<in>ilimamuni                             hira
+\m s<in>ili-mamu-ni                             hira
+\g [beat<Prf.PF>beat-2P.Nom-3S.Gen              yesterday]
+\l Did he beat you (pl) yesterday?
+
+\t s<in>layanmini                      hira
+\m s<in>lay-an-mini                      hira
+\g [beat<Prf>beat-LF-1P.Nom+3S.Gen yesterday]
+\l He beat us yesterday
+
+\t s<in>layanmani                      hira
+\m s<in>lay-an-mani                      hira
+\g [beat<Prf>beat-LF-2P.Nom+3S.Gen yesterday]
+\l He beat you (all) yesterday
+
+\t kinamilan
+\m k-in-amil-an
+\g scratch-Asp-LV
+\l the part which has been scratched
+
+\t kinacan
+\m k-in-ac-an
+\g bite-Asp-LV
+\l the part which has been bitten
+
+\t ini=sami      kaci               na mqu
+\m ini=sami      kac-i               na mqu
+\g N$G=NOM:1$P bite-PVC$2:AT$MP G$NA snake
+\l We have not been bitten by snakes.
+
+\t si=nha          sragi                  ma      ai
+\m si=nha          srag-i                  ma      ai
+\g ACTuAL=G$N:3P go.along-PVC$2:AT$MP it.is.said INT$RJ$CTION
+\l They were following (the river).
+
+\t laxi         zi                    snonan=maku isu
+\m laxi         z-i                    snonan=maku isu
+\g PROHIBITIV$ forget-PVC$2:AT$MP message=G$N:1S FR$$:2S
+\l You must not forget my message.
+
+\t maniq       cu/           Bu Na /         /i/        sayun
+\m m-aniq       cu/           Bu Na /         /i/        sayun
+\g AF-eat       Acc.Nrf       sweet:potato    Nom        Sayun
+\l Sayun is eating sweet potatoes
+
+\t paO/aaal cku/           pila/      ku/        /ulaqi/
+\m pa-O-/aaal cku/           pila/      ku/        /ulaqi/
+\g  Irr-AF-take Acc.Rf money Nom.Rf child
+\l The child wants the money
+
+\t m<in>uwah          ki/ watan /i/           yumin
+\m m<in>uwah          ki/ watan /i/           yumin
+\g  AF<Prf>come Loc Watan Nom Yumin
+\l Yumin came to Watan's place
+
+\t c'. kaBaxan ni/ limuy/ ki/ yumin ku/                   kulu/      ni/ Baicu/
+\m c'. kaBax-an ni/ limuy/ ki/ yumin ku/                   kulu/      ni/ Baicu/
+\g     borrow-LF Gen Limuy Loc Yumin Nom.Rf box/car Gen Baicu'
+\l Limuy borrowed Baicu's car from Yumin
+
+\t matiq          nku/        papatiq=su/     ku/          /ulaqi/=mu
+\m m-atiq          nku/        papatiq=su/     ku/          /ulaqi/=mu
+\g  AF-write       Gen.Rf      pen=2S.Gen      Nom.Rf child=1S.Gen
+\l My child is writing with your pen
+
+\t kaa         quriqi         ku/       qaraqarax ni/ yaya/=su/
+\m kaa         quriq-i         ku/       qaraqarax ni/ yaya/=su/
+\g  Neg.Imp steal-PF.Imp Nom.Rf thing               Gen mother=2S.Gen
+\l Don't steal your mother 's things!
+
+\t matutiN=cami           ki/       Ba/ay
+\m ma-tutiN=cami           ki/       Ba/ay
+\g  AF-beat=1PE.Nom Com Ba'ay
+\l I fought with Ba'ay
+
+\t maras=ci/              cu/                 uqiluh
+\m m-aras=ci/              cu/                 uqiluh
+\g AF-bring=1S.Nom         Acc.Nrf             banana
+\l I am bringing a banana
+
+\t a'. paO/aras=ci/                 cu/           uqiluh
+\m a'. pa-O-/aras=ci/                 cu/           uqiluh
+\g      Irr-AF-bring=1S.Nom           Acc.Nrf       banana
+\l I'll bring a banana
+
+\t a''. marasay=ci/                 cu/           uqiluh
+\m a''. m-aras-ay=ci/                 cu/           uqiluh
+\g      AF1-bring-AF2=1S.Nom Acc.Nrf                banana
+\l I want to bring a banana; I'll (definitely) bring a banana
+
+\t rasun=mu                  ku/           uqiluh
+\m ras-un=mu                  ku/           uqiluh
+\g   bring-PF=1S.Gen           Nom.Rf       banana
+\l I brought the banana
+
+\t b'. rarasun=mu                   ku/           uqiluh
+\m b'. ra-ras-un=mu                   ku/           uqiluh
+\g      Red-bring-PF=1S.Gen           Nom.Rf        banana
+\l I'll bring the banana
+
+\t b''. rasaw=mu                ku/           uqiluh
+\m b''. ras-aw=mu                ku/           uqiluh
+\g      bring-PF=1S.Gen           Nom.Rf       banana
+\l I want to bring the banana; I'll (definitely) bring the banana
+
+\t siaras=mi/                cu/           uqiluh      /i/      sayun
+\m si-aras=mi/                cu/           uqiluh      /i/      sayun
+\g   BF-bring=1S.Gen           Acc.Nrf      banana      Nom Sayun
+\l I'm bringing a banana for Sayun
+
+\t c'. /a/arasO=mi/                 cu/         uqiluh       /i/     sayun
+\m c'. /a-/aras-O=mi/                 cu/         uqiluh       /i/     sayun
+\g      Red-bring-BF=1S.Gen           Acc.Nrf banana           Nom Sayun
+\l I'll bring a banana for Sayun
+
+\t c''. rasanay=mi/             cu/           uqiluh      /i/      sayun
+\m c''. ras-anay=mi/             cu/           uqiluh      /i/      sayun
+\g      bring-BF=1S.Gen           Acc.Nrf      banana      Nom Sayun
+\l I'll (definitely) bring a banana for Sayun
+
+\t maniq     cu/         Bu Na /           /i/       sayun
+\m m-aniq     cu/         Bu Na /           /i/       sayun
+\g AF-eat     Acc.Nrf sweet:potato Nom Sayun
+\l Sayun is eating sweet potatoes
+
+\t a'.    niqun     ni/      sayun      ku /          Bu Na /
+\m a'.    niq-un     ni/      sayun      ku /          Bu Na /
+\g        eat-PF     Gen      Sayun      Nom.Rf sweet:potato
+\l The sweet potato was eaten by Sayun
+
+\t m<in>aniq        cu/         Bu Na /           /i/       sayun
+\m m<in>aniq        cu/         Bu Na /           /i/       sayun
+\g AF<Prf>eat       Acc.Nrf sweet:potato Nom Sayun
+\l Sayun ate sweet potatoes
+
+\t kia/     maniq       cu/          Bu Na /           /i/     sayun
+\m kia/     m-aniq       cu/          Bu Na /           /i/     sayun
+\g Prog     AF-eat       Acc.Nrf sweet:potato Nom Sayun
+\l Sayun is eating sweet potatoes (there)
+
+\t c'.    hani/an maniq cu/                 Bu Na /           /i/     sayun
+\m c'.    hani/an m-aniq cu/                 Bu Na /           /i/     sayun
+\g        Prog       AF-eat Acc.Nrf sweet:potato Nom Sayun
+\l Sayun is eating sweet potatoes (here)
+
+\t paOqaniq cu/             Bu Na /           /i/       sayun
+\m pa-O-qaniq cu/             Bu Na /           /i/       sayun
+\g Irr-AF-eat     Acc.Nrf sweet:potato Nom Sayun
+\l Sayun will eat sweet potatoes
+
+\t d'.    naniqun      ni/     sayun       ku /          Bu Na /
+\m d'.    na-niq-un      ni/     sayun       ku /          Bu Na /
+\g        Red-eat-PF Gen         Sayun       Nom.Rf sweet:potato
+\l The sweet potato will be eaten by Sayun
+
+\t Oaqih        ku/         q<um>uriq
+\m O-aqih        ku/         q<um>uriq
+\g AF-bad        Nom.Rf      steal<AF>steal
+\l Stealing is bad
+
+\t ki/icu/un           cu/ Balay      ku/         macvo/
+\m ki/icu/-un           cu/ Balay      ku/         m-acvo/
+\g frightening-PF       very           Nom.Rf      AF-fight
+\l The battle is frightening
+
+\t masituiN       cu/          matanah      /i/      yaBa/
+\m m-asituiN       cu/          ma-tanah      /i/      yaBa/
+\g AF-wear         Acc.Nrf      AF-red        Nom      father
+\l Father is wearing red clothes
+
+\t maqaBuBiN         cku/        OiBaBwiq     ku/        naBakis
+\m m-aqaBuBiN         cku/        O-iBaBwiq     ku/        naBakis
+\g AF-wear:hat        Acc.Rf      AF-tall       Nom.Rf old:man
+\l The old man is wearing the tall hat
+
+\t Q: ima/ ku/            {paO/aal cku/              pila/}
+\m Q: ima/ ku/            {pa-O-/aal cku/              pila/}
+\g    who     Nom.Rf       Irr-AF-take Acc.Rf          money
+\l Who is the one that will take the money?
+
+\t A: yaBa/ ku/            {paO/aal cku/           pila/}
+\m A: yaBa/ ku/            {pa-O-/aal cku/           pila/}
+\g    father Nom.Rf         Irr-AF-take Acc.Rf money
+\l Father is the one that will take the money
+
+\t Q: ima/ ku/             {maal        cku/     pila/}
+\m Q: ima/ ku/             {m-aal        cku/     pila/}
+\g    who      Nom.Rf       AF-take Acc.Rf money
+\l Who is the one that took the money?
+
+\t A: yaBa/ ku/            {maal        cku/     pila/}
+\m A: yaBa/ ku/            {m-aal        cku/     pila/}
+\g    father Nom.Rf         AF-take Acc.Rf money
+\l Father is the one that took the money
+
+\t Q: ima/         ku/        {suwa/an=su/}
+\m Q: ima/         ku/        {suwa/-an=su/}
+\g    who          Nom.Rf like-LF=2S.Gen
+\l Who is the one that you like?
+
+\t A: Baicu/       ku/        {suwa/an=mu}
+\m A: Baicu/       ku/        {suwa/-an=mu}
+\g    Baicu'       Nom.Rf like-LF=1S.Gen
+\l Baicu'is the one I like
+
+\t Q: nanuwan ku/             {B<in>ainayO      ni/ yaya/ /i/ isu/}
+\m Q: nanuwan ku/             {B<in>ainay-O      ni/ yaya/ /i/ isu/}
+\g    what         Nom.Rf buy<Prf>buy-PF Gen mother Acc 2S.Neu
+\l What was it that Mother bought for you?
+
+\t A: situiN       ku/        {B<in>ainayO      ni/ yaya/ /i/ ikuiN}
+\m A: situiN       ku/        {B<in>ainay-O      ni/ yaya/ /i/ ikuiN}
+\g    clothes      Nom.Rf buy<Prf>buy-PF Gen mother Acc 1S.Neu
+\l It was clothes that Mother bought for me
+
+\t Q: nanuwan ku/             {/a/alun    n i/    Ba/ay}
+\m Q: nanuwan ku/             {/a-/al-un    n i/    Ba/ay}
+\g    what         Nom.Rf Red-take-PF Gen Ba'ay
+\l What is it that Ba'ay will want?
+
+\t A: situiN       ku/        {/a/alun    n i/    Ba/ay}
+\m A: situiN       ku/        {/a-/al-un    n i/    Ba/ay}
+\g    clothes      Nom.Rf Red-take-PF Gen Ba'ay
+\l It is clothes that Ba'ay will want
+
+\t nanuwan ku/               {p<in>atiqO         nku/     /ulaqi/=su/}
+\m nanuwan ku/               {p<in>atiq-O         nku/     /ulaqi/=su/}
+\g  what          Nom.Rf write<Prf>write-PF Gen.Rf child=2S.Gen
+\l What does your child write? What is your child writing?
+
+\t Q: ima/ ku/           siBainay nku/       kanairil cu/       situiN
+\m Q: ima/ ku/           si-Bainay nku/       kanairil cu/       situiN
+\g    who Nom.Rf BF-buy              Gen.Rf woman Acc.Nrf clothes
+\l Who is the one that the woman bought clothes for?
+
+\t Q: nanuwan       ku /        {sipakahuy=su/}
+\m Q: nanuwan       ku /        {si-pakahuy=su/}
+\g    what          Nom.Rf       IF-chop:wood=2S.Gen
+\l What was it that you used to chop wood with?
+
+\t A: yasam         ku /        {sipakahuy=mu}
+\m A: yasam         ku /        {si-pakahuy=mu}
+\g    ax            Nom.Rf       IF-chop:wood=1S.Gen
+\l It was an ax that I used to chop wood with
+
+\t Oaqih      ku/          {t<um>utiN      cu/         xuil}
+\m O-aqih      ku/          {t<um>utiN      cu/         xuil}
+\g  AF-bad     Nom.Rf        beat<AF>beat Acc.Nrf       dog
+\l Beating dogs is bad
+
+\t nanuwan        ku/           {muhaa=nia/}
+\m nanuwan        ku/           {m-uhaa=nia/}
+\g  what          Nom.Rf         AF-sick=3S.Gen
+\l What is his disease? What illness does he have?
+
+\t hacuwalun       ku/           {t<um>inuq            cu/         situiN}
+\m hacuwal-un       ku/           {t<um>inuq            cu/         situiN}
+\g  how-PF          Nom.Rf         weave<AF>weave       Acc.Nrf     clothes
+\l How (do you) weave clothes?
+
+\t kia/    /i/ maniq ku/            {yakaat m<in>uwah             cu/ hisa/}
+\m kia/    /i/ m-aniq ku/            {yakaat m<in>uwah             cu/ hisa/}
+\g Prog    Lin AF-eat Nom.Rf Neg                AF<Prf>come        yesterday
+\l (The one) who did not come yesterday is eating (there)
+
+\t a'. kia/    /i/    maniq      k u/       cuquliq ka/        {yakaat m<in>uwah             cu/ hisa/}
+\m a'. kia/    /i/    m-aniq      k u/       cuquliq ka/        {yakaat m<in>uwah             cu/ hisa/}
+\g     Prog    Lin AF-eat         Nom.Rf person         Lin     Neg        AF<Prf>come        yesterday 
+\l The person who did not come yesterday is eating (there)
+
+\t Opayux        ku/         {BaBinasun=mi/       kisa/}
+\m O-payux        ku/         {Ba-Binas-un=mi/       kisa/}
+\g  AF-plenty     Nom.Rf       Red-buy-PF=1S.Gen today
+\l What I will buy today is plenty
+
+\t b'. Opayux       a/         qaraqarax ka/ {BaBinasun=mi/         kisa/}
+\m b'. O-payux       a/         qaraqarax ka/ {Ba-Binas-un=mi/         kisa/}
+\g     AF-plenty Nom.Nrf thing               Lin Red-buy-PF=1S.Gen today
+\l Things that I will buy today is plenty
+
+\t pakashahiya/         cu/ Balay ku/           {tatahqun=nia/}
+\m pa-ka-shahiya/         cu/ Balay ku/           {ta-tahq-un=nia/}
+\g  Irr-Stat-delicious    very          Nom.Rf     Red-cook-PF=3S.Gen
+\l What he is going to cook will be very delicious
+
+\t c'. pakashahiya/        cu/ Balay      ku/        raramat    ka/     {tatahqun=nia/} 
+\m c'. pa-ka-shahiya/        cu/ Balay      ku/        raramat    ka/     {ta-tahq-un=nia/} 
+\g     Irr-Stat-delicious    very           Nom.Rf dish           Lin     Red-cook-PF=3S.Gen
+\l The food that he is going to cook will be very delicious
+
+\t Ocikay        ku/        {sipaqut=nia/}
+\m O-cikay        ku/        {si-paqut=nia/}
+\g  AF-little     Nom.Rf      IF-ask=3S.Gen
+\l What he asked was little; He asked few questions
+
+\t ki/icu/un         cu/ Balay      ku/      macvo/
+\m ki/icu/-un         cu/ Balay      ku/      macvo/
+\g frightening-PF     very           Nom.Rf   fighting
+\l The fighting/battle is frightening
+
+\t a'. macvo/=cami              ki       nku/        siputo/
+\m a'. m-acvo/=cami              ki       nku/        siputo/
+\g      AF-fight=1PE.Nom         Com Gen.Rf           Hakka:people
+\l We fought with the Hakka people
+
+\t Oaqih        ku/         mahahowa/
+\m O-aqih        ku/         mahahowa/
+\g   AF-bad      Nom.Rf boasting
+\l Boasting is bad
+
+\t b'. mahahowa/ kariariax            /i/     yumin
+\m b'. m-ahahowa/ kariariax            /i/     yumin
+\g      AF-boast          often        Nom Yumin
+\l Yumin often boasts
+
+\t OBalaiq       ku/        maniq, OBalaiq ku/           maqilaap u/e9
+\m O-Balaiq       ku/        maniq, O-Balaiq ku/           maqilaap u/e9
+\g   AF-good      Nom.Rf eating AF-good Nom.Rf sleeping too
+\l Eating is important; sleeping is important, too
+
+\t c'. maniq kariariax         /i/    yumin
+\m c'. m-aniq kariariax         /i/    yumin
+\g      AF-eat often            Nom Yumin
+\l Yumin often eats
+
+\t c''. maqilaap kariariax /i/           yumin
+\m c''. m-aqilaap kariariax /i/           yumin
+\g      AF-sleep often           Nom Yumin
+\l Yumin often sleeps
+
+\t Oaqih        ku/         p/akiyaw
+\m O-aqih        ku/         p/akiyaw
+\g   AF-bad      Nom.Rf gambling
+\l Gambling is bad
+
+\t d'. Op/akiyaw       kariariax    /i/      watan
+\m d'. O-p/akiyaw       kariariax    /i/      watan
+\g      AF-gamble       every:day Nom Watan
+\l Watan often gambles
+
+\t Oaqih       ku/         maskaiyuN cu/ kaaN
+\m O-aqih       ku/         maskaiyuN cu/ kaaN
+\g AF-bad       Nom.Rf hungry              extreme
+\l Being too hungry is bad
+
+\t a'.    maskaiyuN       ku/         /ulaqi/
+\m a'.    ma-skaiyuN       ku/         /ulaqi/
+\g        AF-hungry        Nom.Rf child
+\l The child is hungry
+
+\t Oaqih       ku/         Businuq
+\m O-aqih       ku/         Businuq
+\g AF-bad       Nom.Rf drunk
+\l Being drunk is not good
+
+\t b'.    OBusinuq       ku/        naBakis ka/ haca
+\m b'.    O-Businuq       ku/        naBakis ka/ haca
+\g        AF-drunk        Nom.Rf old:man Lin that
+\l That old man is drunk
+
+\t Omamati/        cu/ Balay ku/             mauhaa=nia/
+\m O-mamati/        cu/ Balay ku/             mauhaa=nia/
+\g AF-serious       very          Nom.Rf illness=3S.Gen
+\l His illness is serious; He is badly ill
+
+\t a'.    mauhaa la/           /i/      hiya/
+\m a'.    ma-uhaa la/           /i/      hiya/
+\g        AF-sick       Part Nom 3S.Neu
+\l He is ill (now)
+
+\t pakamamati/ cu/ Balay ku/                  mauhaa=nia/
+\m pa-ka-mamati/ cu/ Balay ku/                  mauhaa=nia/
+\g Irr-Stat-serious very             Nom.Rf illness=3S.Gen
+\l His illness will become very serious
+
+\t b'.    pakauhaa /i/            hiya/
+\m b'.    pa-ka-uhaa /i/            hiya/
+\g        Irr-Stat-sick Nom 3S.Neu
+\l He will be ill
+
+\t Baqun=mu             ku/        papaquwas          ka/    haca/
+\m Baq-un=mu             ku/        papaquwas          ka/    haca/
+\g know-PF=1S.Gen Nom.Rf singer                        Lin    that
+\l I know that singer (who will sing there)
+
+\t a'. paOpaquwas ku/             irawiN=mu
+\m a'. pa-O-paquwas ku/             irawiN=mu
+\g     Irr-AF-sing       Nom.Rf friend=1S.Gen
+\l My friend will sing
+
+\t maiyay         ku/        paquriq    la
+\m m-aiyay         ku/        paquriq    la
+\g  AF-escape Nom.Rf thief               Part
+\l The thief has escaped
+
+\t b'. paOquriq      ru/    paaiyay      la
+\m b'. pa-O-quriq      ru/    pa-aiyay      la
+\g     Irr-AF-steal    and AF-escape Part
+\l He stole (things) and escaped
+
+\t Baqun=mu             ku/        maquwas          ka/     haca/
+\m Baq-un=mu             ku/        maquwas          ka/     haca/
+\g know-PF=1S.Gen Nom.Rf singer                      Lin     that
+\l I know that singer (who is singing there)
+
+\t a'. maquwas       ku/        irawiN=mu
+\m a'. m-aquwas       ku/        irawiN=mu
+\g     AF-sing        Nom.Rf friend=1S.Gen
+\l My friend is singing
+
+\t tutiNun=mu             ku/        mahahowa/
+\m tutiN-un=mu             ku/        mahahowa/
+\g  beat-PF=1S.Gen         Nom.Rf boaster
+\l I beat the boaster 
+
+\t b'. mahahowa/ kariariax           /i/   yumin
+\m b'. m-ahahowa/ kariariax           /i/   yumin
+\g     AF-boast          often        Nom Yumin
+\l Yumin often boasts
+
+\t maiyay           ku/        qumuriq   la
+\m m-aiyay           ku/        qumuriq   la
+\g  AF-escape        Nom.Rf thief         Part
+\l The thief has escaped
+
+\t c'. q<um>uriq             ru/    maiyay     la
+\m c'. q<um>uriq             ru/    m-aiyay     la
+\g     steal<AF>steal        and    AF-escape Part
+\l He stole (things) and escaped
+
+\t suwa/i=mu                     ku/      manaBalay            ka/      haca/
+\m suwa/i=mu                     ku/      manaBalay            ka/      haca/
+\g  younger:sibling=1S.Gen       Nom.Rf fat:person             Lin      that
+\l That fat one is my younger sibling
+
+\t d'. manaBalay        /i/      watan
+\m d'. m-anaBalay        /i/      watan
+\g     AF-fat            Nom Watan
+\l Watan is fat
+
+\t Oaqih        ku/           mahahowa/
+\m O-aqih        ku/           mahahowa/
+\g AF-bad        Nom.Rf        boasting
+\l Boasting is bad; The boaster is bad
+
+\t a'. tutiNun=mu              ku/            mahahowa/
+\m a'. tutiN-un=mu              ku/            mahahowa/
+\g     beat-PF=1S.Gen           Nom.Rf         boaster
+\l I beat the boaster; *I beat the boasting
+
+\t Oaqih         ku/           qumuriq
+\m O-aqih         ku/           qumuriq
+\g  AF-bad        Nom.Rf        stealing
+\l Stealing is bad; The thief is bad
+
+\t b'. maiyay            ku/            qumuriq       la
+\m b'. m-aiyay            ku/            qumuriq       la
+\g     AF-escape          Nom.Rf         thief         Part
+\l The thief has escaped; *Stealing has escaped
+
+\t OBalaiq ni/ yaBa/=mu              ku/           maniq cku/        tatimu/
+\m O-Balaiq ni/ yaBa/=mu              ku/           maniq cku/        tatimu/
+\g AF-good Gen father=1S.Gen Nom.Rf                 eat   Acc.Rf      salty:thing
+\l My father likes eating the salty things
+
+\t a'. Otatimu/      cu/ Balay       ku/               qulih
+\m a'. O-tatimu/      cu/ Balay       ku/               qulih
+\g     AF-salty       very            Nom.Rf            fish
+\l The fish is very salty
+
+\t OBalaiq=nia/             ku/          mani   q          cku/     siqsalsow
+\m O-Balaiq=nia/             ku/          mani   q          cku/     siqsalsow
+\g  AF-good=3S.Gen           Nom.Rf       eat               Acc.Rf   sour:thing
+\l He likes eating sour things
+
+\t b'. Osiqsalsow        hayhay      ku/               hani
+\m b'. O-siqsalsow        hayhay      ku/               hani
+\g     AF-sour            very        Nom.Rf            this
+\l This is very sour 
+
+\t m<in>aniq cu/           aqih na/        naniqun ru/ siputak=nia/
+\m m<in>aniq cu/           aqih na/        naniqun ru/ si-putak=nia/
+\g AF<Prf>eat Acc.Nrf bad Gen.Nrf food             and IF-vomit=3S.Gen
+\l He ate spoiled/bad food and threw up
+
+\t OBalaiq       ku/        nanuBu/un=mu
+\m O-Balaiq       ku/        nanuBu/un=mu
+\g AF-good        Nom.Rf drink=1S.Gen
+\l My drink is good
+
+\t hani/an      ku/          BaBinasun=mu
+\m hani/an      ku/          BaBinasun=mu
+\g exist        Nom.Rf       things:to:be:bought=1S.Gen
+\l I have things to buy
+
+\t kia/        ku/         paptwaun=nia/
+\m kia/        ku/         paptwaun=nia/
+\g exist       Nom.Rf      work=3S.Gen
+\l He has work to do
+
+\t OBalaiq     a/           pinatiq        nku/    /ulaqi/=su/
+\m O-Balaiq     a/           pinatiq        nku/    /ulaqi/=su/
+\g AF-good Nom.Nrf           handwriting Gen.Rf child=2S.Gen
+\l Your child's handwriting was good
+
+\t mahnuq        ku/        Binainay             nku/        naBakis
+\m ma-hnuq        ku/        Binainay             nku/        naBakis
+\g AF-cheap       Nom.Rf things:being:bought Gen.Rf           old:person
+\l The things the old man bought were cheap
+
+\t Opayux         ku/          pintwawaw=mu
+\m O-payux         ku/          pintwawaw=mu
+\g AF-plenty       Nom.Rf       work=1S.Gen
+\l I did many things
+
+\t OBalaiq=mi/         ku/         tinahuq       ni/      yaya/
+\m O-Balaiq=mi/         ku/         tinahuq       ni/      yaya/
+\g AF-good=1S.Gen Nom.Rf cooked:dish              Gen      mother
+\l I like what Mother cooked
+
+\t Oshahiya/        ku/          inhahapuy=su/
+\m O-shahiya/        ku/          inhahapuy=su/
+\g AF-delicious      Nom.Rf       cooked:food=2S.Gen
+\l What you cooked was delicious
+
+\t maniq=ci/             cu/         tinmamian      kariariax
+\m m-aniq=ci/             cu/         tinmamian      kariariax
+\g AF-eat=1S.Nom          Acc.Nrf     pickled:meat   often
+\l I often eat pickled meat
+
+\t ini/=mu          Baqi      ku/       cinyokan=nya/
+\m ini/=mu          Baq-i      ku/       cinyokan=nya/
+\g Neg=1S.Gen know-PF Nom.Rf answer=3S.Gen
+\l I don't know his answer 
+
+\t nanuwan         ku /         panao/an=nia/
+\m nanuwan         ku /         panao/an=nia/
+\g what            Nom.Rf       toy=3S.Gen
+\l What's his toy?
+
+\t Orahuwaa       ku/           naniqan=su/
+\m O-rahuwaa       ku/           naniqan=su/
+\g AF-big          Nom.Rf        dining:room=2S.Gen
+\l Your dining room is big
+
+\t ahapuyan ku/            naniqan        cu/      BuNa/ nku/    /ulaqi/
+\m ahapuyan ku/            naniqan        cu/      BuNa/ nku/    /ulaqi/
+\g kitchen       Nom.Rf eating:place Acc.Nrf yam         Gen.Rf child
+\l The kitchen is where the child eats yams
+
+\t B<in>ninay=mu             ku/          tathawnaqan   ka/ hani
+\m B<in>ninay=mu             ku/          tathawnaqan   ka/ hani
+\g buy<Prf>buy=1S.Gen        Nom.Rf chair               Lin this
+\l This chair was bought by me
+
+\t kia/ /i/ maquwas cku/             papqwasan=mu       /i/    watan
+\m kia/ /i/ m-aquwas cku/             papqwasan=mu       /i/    watan
+\g Prog Lin AF-sing Acc.Rf singing:hall=1S.Gen Nom Watan
+\l Watan is singing in my singing hall
+
+\t OBalaiq       cu/ Balay      ku/         pinavo/an=niam    cu/ Na/
+\m O-Balaiq       cu/ Balay      ku/         pinavo/an=niam    cu/ Na/
+\g AF-good        very           Nom.Rf battlefield=1PE.Gen before
+\l The (old)   battlefield is very beautiful
+
+\t maoBaq        cu/ Balay      ku/         cinapuxan      ni/ yaya/
+\m ma-oBaq        cu/ Balay      ku/         cinapuxan      ni/ yaya/
+\g AF-clean       very           Nom.Rf place:being:swept Gen mother
+\l The place   where Mother swept is very clean
+
+\t kaa            ptiqani           ku/           papatiq=mu
+\m kaa            ptiq-ani           ku/           papatiq=mu
+\g Neg.Imp        write-IF.Imp       Nom.Rf        pen=1S.Gen
+\l Don't write with my pen
+
+\t ini/     Okalo/    na/ /i/       hiya/. ukas a/           kakalo/=nia/
+\m ini/     O-kalo/    na/ /i/       hiya/. ukas a/           kakalo/=nia/
+\g Neg AF-comb still Nom 3S.Neu Neg Nom.Nrf comb=3S.Gen
+\l He hasn't combed yet, (because) he has no comb
+
+\t kiriani      cu/        hahirhir     /i/      yaBa/
+\m kiri-ani      cu/        hahirhir     /i/      yaBa/
+\g grind-BF Acc.Nrf saw                  Nom father
+\l Grind a saw for Father!
+
+\t kakiri=mu                   ku/           hani
+\m kakiri=mu                   ku/           hani
+\g knife:grinder=1S.Gen        Nom.Rf        this
+\l This is my knife grinder 
+
+\t sisama=mu              ku/         sasama        ka/    hani
+\m si-sama=mu              ku/         sasama        ka/    hani
+\g IF-place=1S.Gen         Nom.Rf mat                Lin    this
+\l I placed this mat
+
+\t kuzu qani
+\m kuzu qani
+\g shoe this
+\l this shoe
+
+\t laqi' qasa
+\m laqi' qasa
+\g kid that
+\l that kid
+
+\t sipakahuy=mu          ku'     takiis ka' hani.21
+\m si-pakahuy=mu          ku'     takiis ka' hani.21
+\g IF-cut:wood=1S.BG Nom.Rf knife KA' this
+\l I cut the meat with this knife.
+
+\t sawgalan ni' Sayun ku' 'ala'i' hani.
+\m sawgal-an ni' Sayun ku' 'ala'i' hani.
+\g like-LF Gen Sayun Nom kid             this
+\l Sayun liked that kid.
+
+\t laqi' (na) Sayun
+\m laqi' (na) Sayun
+\g kid Gen Sayun
+\l Sayun's kid
+
+\t 'ala'i' (ni') sayun
+\m 'ala'i' (ni') sayun
+\g kid     Gen Sayun
+\l Sayun's kid
+
+\t laqi' (na) sayun qasa22
+\m laqi' (na) sayun qasa22
+\g kid Gen Sayun that
+\l Sayun's that kid
+
+\t laqi' (na) sayun qasa
+\m laqi' (na) sayun qasa
+\g kid Gen Sayun that
+\l Sayun's that kid
+
+\t minbaziy        lukus giqas qasa quw sayun.
+\m m-in-baziy        lukus giqas qasa quw sayun.
+\g    AV-Perf-buy clothes new that Nom Sayun
+\l Sayun bought that new clothes.
+
+\t mtalah (na)/*ka lukus
+\m mtalah (na)/*ka lukus
+\g red      NA KA clothes
+\l red clothes
+
+\t giqas (na)/*ka lukus
+\m giqas (na)/*ka lukus
+\g new NA KA clothes
+\l new clothes
+
+\t cyugal (*na/*ka) lukus
+\m cyugal (*na/*ka) lukus
+\g three NA KA clothes
+\l three clothes
+
+\t smawya [bnaziyan na tali'] *na/(ka) ucya'       quw sayun.
+\m s-m-awya [b-n-aziy-an na tali'] *na/(ka) ucya'       quw sayun.
+\g AV-like Perf-buy-PV Gen Tali' NA KA tea              Nom Sayun.
+\l Sayun likes the tea that Tali'bought.
+

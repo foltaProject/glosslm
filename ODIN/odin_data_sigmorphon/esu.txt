@@ -1,0 +1,130 @@
+\t Arnaq            yruartuq.
+\m Arnaq            yruar-tuq.
+\g woman.ABS        dances
+\l The woman dances.
+
+\t Tengmiaq ayagtuq.
+\m Tengmiaq ayag-tuq.
+\g  bird.ABS      go.away-IND.3.SG
+\l The bird went away.
+
+\t Tan'gurraam tengmiaq          ivaraa.
+\m Tan'gurraa-m tengmiaq          ivar-a-a.
+\g boy-ERG/RLS      bird.ABS      seek-IND-A.3.SG.O.3.SG
+\l The boy looked for the bird.
+
+\t Uyurama               tengmiaq     ayagcitaa.
+\m Uyura-m-a               tengmiaq     ayag-cit-a-a.
+\g brother-ERG/RLS-1.SG bird.ABS        go.away-let-IND-A.3.SG.O.3.SG
+\l My younger brother made/let the boy go away.
+
+\t Uyurama               tengmiaq     tan'gurrarmun      ivarcitaa.
+\m Uyura-m-a               tengmiaq     tan'gurrar-mun      ivar-cit-a-a.
+\g brother-ERG/RLS-1.SG bird.ABS        boy-TMP             seek-let-IND-A.3.SG.O.3.SG
+\l My younger brother made/let the boy look for the bird.
+
+\t Arnam        mikelnguq      nunuraa
+\m Arna-m        mikelnguq      nunur-aa
+\g woman-ERG child(ABS) scold-3sERG.3sABS
+\l the woman is scolding the child
+
+\t Arnaq         ner'uq
+\m Arnaq         ner'uq
+\g woman(ABS) eat.3sABS
+\l the woman is eating
+
+\t Caanaq        Marymek       tangellruuq
+\m Caanaq        Mary-mek       tangellruuq
+\g John (ABS) Mary-MOD          see.past.ind.3sABS
+\l John saw Mary
+
+\t (103)a. Lucym        Maryq          utaqallrua.
+\m (103)a. Lucy-m        Mary-q          utaqallrua.
+\g         Lucy-Erg      Mary-Abs        wait.for.Past.Ind.3s.3s
+\l Lucy waited for Mary.
+
+\t Lucyq        Marymek        utaqallruuq.
+\m Lucy-q        Mary-mek        utaqallruuq.
+\g Lucy-Abs      Mary-Obl        wait.for.Past.Ind.3s
+\l Lucy waited for Mary.
+
+\t angutem kiputaa0
+\m angute-m kiputa-a-0
+\g man-ERG buy-OM-SM
+\l the man bought it
+
+\t angutem kuiga0
+\m angute-m kuiga-0
+\g man-ERG river-SM
+\l the man's river
+
+\t angutet kiputaat
+\m angute-t kiputa-a-t
+\g man-Erg (Pl) buy-OM-SM
+\l the men bought it
+
+\t angutet kuigat
+\m angute-t kuiga-t
+\g the man-Erg (Pl) river-SM
+\l the men's river
+
+\t Tomam           Dorisaq     cingallrua
+\m Tom-am           Doris-aq     cingallrua
+\g Tom-ERG          Doris-ABS    greeted
+\l Tom greeted Doris.
+
+\t Ayallruunga
+\m Ayallruu-nga
+\g  traveled-1sg
+\l I traveled.
+
+\t Ayallruuq
+\m Ayallruu-q
+\g traveled-3sg
+\l He traveled.
+
+\t Cingallruanga
+\m Cingallru-a-nga
+\g greeted-3sg-1sg
+\l He greeted me.
+
+\t kaipiallrulliniuk
+\m kai-pia-llru-llini-u-k
+\g  be.hungry-really-PT-apparently-IND-3DU
+\l The two of them were apparently really hungry.
+
+\t angun        atertellermini                 alingellruuq. [289]
+\m angun        aterte-ller-mini                 alinge-llru-uq. [289]
+\g        man:SG.ABS drift.with.the.current-WHEN-3SG.S.REFL be.afraid-PT-3SG.S
+\l When the man drifted with the current, he was afraid.
+
+\t tangllerminiu             tuntuvak       angun        ayallruuq. [288]
+\m tang-ller-miniu             tuntuvak       angun        aya-llru-uq. [288]
+\g   see-WHEN-3SG.A.REFL:3SG.P moose:SG.ABS man:SG.ABS                      go.away-PT-3SG.S
+\l When he saw the moose, the man went away.
+
+\t angutem   tangellrani              tuntuvak    ayallruuq. [288]
+\m angute-m   tange-llr-ani              tuntuvak    aya-llru-uq. [288]
+\g man-SG.ERG see-WHEN-3SG.A:3SG.P.REFL moose:SG.ABS go.away-PT-3SG.S
+\l When the man saw the moose, it went away.
+
+\t angutem tamaraa             nutek.
+\m angute-m tamar-a-a             nutek.
+\g man-sERG loose-TR-3s>3s        gun.sABS
+\l The man loses the gun.
+
+\t angun      tamariuq            nutegmek.
+\m angun      tamar-i-u-q            nuteg-mek.
+\g man.sABS loose-ANT IP-INTR-3sS gun-sABL
+\l The man loses a gun.
+
+\t Angutem tangrraa                arnaq
+\m Angutem tangrr-aa                arnaq
+\g man-ERG see-IND.3SG.3SG woman-ABS
+\l The man sees the woman.
+
+\t Angutem tangrraa                arnaq
+\m Angutem tangrr-aa                arnaq
+\g man-ERG see-IND.3SG.3SG woman-ABS
+\l The man sees the woman.
+

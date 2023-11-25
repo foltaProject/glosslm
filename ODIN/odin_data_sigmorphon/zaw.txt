@@ -1,0 +1,50 @@
+\t [lagahk president]       biææd.
+\m [lagahk president]       biææd.
+\g   INT    president       came
+\l The president himself came.
+
+\t (10) Juan [ensilaani        behn   rolihdzni].
+\m (10) Juan [ensilaani        behn   rolihdzni].
+\g    John INT(ADV) made his.house.
+\l John built his house himself.
+
+\t Juan bagu t [lagahk lohni].
+\m Juan bagu t [lagahk lohni].
+\g John killed INT(ADN) him.
+\l ,John killed himself.
+
+\t Nanisanälajz=ru xtad=ni, xnan=ni luxh narä...
+\m Nani-sa-nälajz=ru x-tad=ni, x-nan=ni luxh narä...
+\g rel ?-fut-love=mor e p-father=3 p-moth er=3 mor e I
+\l He who loves his father or mother more than me...
+
+\t nicla=za por lagajc bitiuyejc=lu
+\m nicla=za por lagajc bitiuyejc=lu
+\g nor=also by ow n head=2
+\l I say to you, do not swear by anything; neither by the earth... nor by the heavens...nor by Jerusalem... nor by y our own head.
+
+\t bawiä lagahk loä
+\m bawiä lagahk loä
+\g I.saw SELF me
+\l I saw myself.
+
+\t lagahk Juan kayuhnni           rolihdzni
+\m lagahk Juan kayuhn-ni           rolihdz-ni
+\g SELF Juan is.building-3SG house-3SG.POSS
+\l Juan himself is building his house.
+
+\t Juan ensilaani        kayuhnni          rolihdzni
+\m Juan ensilaani        kayuhn-ni          rolihdz-ni
+\g Juan SELF.AO          is.building-3SG house-3SG.POSS
+\l Juan is building his house himself.
+
+\t biääd [lagahk president]/*
+\m biääd [lagahk president]/*
+\g came INT         president
+\l The president himself came.
+
+\t gizee      xiääd      [lagahk president]NP
+\m gizee      xiääd      [lagahk president]NP
+\g tomorrow will.come INT          president
+\l The president himself will come tomorrow.
+

@@ -1,0 +1,150 @@
+\t HANSi      MARIE            MAG
+\m HANSi      MARIE            MAG
+\g                           j                  Hans         Marie            like
+\l Hans likes Marie.
+
+\t HANSi        iPAM     j       MARIE   j       MAG
+\m HANSi        iPAM     j       MARIE   j       MAG
+\g Hans         PAM              Marie           like
+\l Hans likes Marie.
+
+\t MUTTER BLUME KAUF NICHT
+\m MUTTER BLUME KAUF NICHT
+\g   mother    flower     buy       not
+\l Mother doesn't buy a flower.
+
+\t GARTEN INDEX3 KIND++ SPIEL DARF NICHT                       hs
+\m GARTEN INDEX3 KIND++ SPIEL DARF NICHT                       hs
+\g   garden      index    child.PL play       may not
+\l The children may not play in the garden.
+
+\t INDEX1 XINÈS LLEGIR PODER NO            hs
+\m INDEX1 XINÈS LLEGIR PODER NO            hs
+\g   index      Chinese read can not
+\l I can't read Chinese.
+
+\t GARTEN INDEX3 KIND++ SPIEL DARF^NEG                    hs
+\m GARTEN INDEX3 KIND++ SPIEL DARF^NEG                    hs
+\g garden      index    child.PL play       may.NEG
+\l The children may not play in the garden.
+
+\t KIND EIS ESS DARF^NEG NICHT      hs        hs
+\m KIND EIS ESS DARF^NEG NICHT      hs        hs
+\g   child    ice eat     may.not.NEG not
+\l The child may not eat icecream.
+
+\t INDEX1 XINÈS LLEGIR PODERNO NO          hs        hs
+\m INDEX1 XINÈS LLEGIR PODER-NO NO          hs        hs
+\g   index      Chinese read can.NEG not
+\l I can't read Chinese.
+
+\t arzt px         mann py      xxhelfy y
+\m arzt px         mann py      xxhelfy y
+\g  doctor index man index agr.s:help:agr.o
+\l The doctor is helping the man
+
+\t px      py     blume xgeby
+\m px      py     blume xgeby
+\g  index index flower agr.s:give:agr.o
+\l S/he is giving him/her a flower
+
+\t frau (px)         arzt (py)       1 vertrau2
+\m frau (px)         arzt (py)       1 vertrau2
+\g  woman (index) doctor (index) trust
+\l The woman trusts the doctor
+
+\t xwirbeidey buch++ [xxschenkyyschenkxx]
+\m xwir-beidey buch++ [xxschenkyyschenkxx]
+\g we-two       book:pl [give-as-present:rec
+\l We are giving books to each other as presents
+
+\t xwirbeidey [xxhelfyyhelfxx]
+\m xwir-beidey [xxhelfyyhelfxx]
+\g we-two       [help:rec
+\l We are helping each other
+
+\t arzt px        mann py      x helfy helfx
+\m arzt px        mann py      x helfy helfx
+\g  doctor index man index help:rec
+\l The doctor and the man are helping each other
+
+\t [arzt px        mann py      x helfy ]CP,     [proy yyHELFxx          prox]CP
+\m [arzt px        mann py      x helfy ]CP,     [proy yyHELFxx          prox]CP
+\g  [doctor index man index agr.s:help:agr.o     [pro agr.s:help:agr.o pro      
+\l The doctor is helping the man and (then) the man is helping the doctor
+
+\t arzt px mann py x helf         y helfx
+\m arzt px mann py x helf         y helfx
+\g  doctor IX man IX agr.s:help:agr.o/s:help:neg:agr.o
+\l The doctor is helping the man and the man is not helping the doctor
+
+\t arzt px mann py xxhelf++yyhelfxx
+\m arzt px mann py xxhelf++yyhelfxx
+\g  doctor IX man IX agr.s:help:ite:agr.o/s:help:agr.o
+\l The doctor is helping the man over and over again and the man is helping the doctor (once)
+
+\t xwirbeidey blume++ [xgebygebx]
+\m xwir-beidey blume++ [xgebygebx]
+\g  we-two       flower:pl [give:rec
+\l We are giving flowers to each other
+
+\t xwirbeidey blume++ [xygebyx]
+\m xwir-beidey blume++ [xygebyx]
+\g we-two        flower:pl [give:rec
+\l We are giving flowers to each other
+
+\t xwirbeidey [xybesuchyx]
+\m xwir-beidey [xybesuchyx]
+\g we-two        [visit:rec
+\l We are visiting each other
+
+\t xwirbeidey [xyhelfyx]
+\m xwir-beidey [xyhelfyx]
+\g  we-two       [help:rec
+\l We are helping each other
+
+\t xwirbeidey 11vertrau22
+\m xwir-beidey 11vertrau22
+\g  we-two       trust
+\l We trust each other
+
+\t xwirbeidey 1m^g2
+\m xwir-beidey 1m^g2
+\g  we-two       like
+\l We like each other
+
+\t xwirbeidey 11vertrau22 xpamypamx
+\m xwir-beidey 11vertrau22 xpamypamx
+\g  we-two       trust       pam:rec
+\l We trust each other
+
+\t xwirbeidey 1m^g2 xpamypamx
+\m xwir-beidey 1m^g2 xpamypamx
+\g  we-two       like pam:rec
+\l We like each other
+
+\t ich lieb xpamy
+\m ich lieb xpamy
+\g I love 1.sg.s:pam:2.sg.o
+\l I love (only) you
+
+\t xwirbeidey 11vertrau22
+\m xwir-beidey 11vertrau22
+\g  we-two       trust
+\l We trust each other
+
+\t xwirbeidey [x helfy helfx ]
+\m xwir-beidey [x helfy helfx ]
+\g we-two       [help:rec
+\l We are helping each other
+
+\t xwirbeidey blume++ [x geby ]
+\m xwir-beidey blume++ [x geby ]
+\g we-two       flower:pl [give:rec
+\l We are giving flowers to each other
+
+\t xwirbeidey 11vertrau22 [xypamyx]
+\m xwir-beidey 11vertrau22 [xypamyx]
+\g  we-two       trust       [pam:rec
+\l We trust each other
+

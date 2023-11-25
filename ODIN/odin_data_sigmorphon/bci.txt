@@ -1,0 +1,220 @@
+\t B'a        sa nzue a         nn.
+\m B-'a        sa nzue a         nn.
+\g 3ps2-PERF3 draw water PERF drink
+\l They have drawn water and drunk it.
+
+\t  toli          ofl     dili.
+\m  to-li          ofl     di-li.
+\g 3ss buy-COMPL papaya ate-COMPL
+\l S/he bought papaya and ate it.
+
+\t Be trali          kangale'n dili.
+\m Be tra-li          kangale-'n di-li.
+\g 3ps catch-COMPL panther-DEF eat-COMPL
+\l They caught the panther and ate it.
+
+\t  toli          ofl     kpkun *() dili.
+\m  to-li          ofl     kpkun *() di-li.
+\g 3ss buy-COMPL papaya and         *(3ss) ate-COMPL
+\l S/he bought papaya and ate it.
+
+\t  toli          ofl     y *() dili.
+\m  to-li          ofl     y *() di-li.
+\g 3ss buy-COMPL papaya and *(3ss) ate-COMPL
+\l S/he bought papaya and ate it.
+
+\t  toli            lomi yrli           *(i).
+\m  to-li            lomi yr-li           *(i).
+\g 3ss buy-COMPL orange burn-COMPL *
+\l S/he bought an orange and burned it.
+
+\t  toli            lomi y            yrli       *(i).
+\m  to-li            lomi y            yr-li       *(i).
+\g 3ss buy-COMPL orange and 3ss        burn-COMPL *(3so)
+\l S/he bought an orange and burned   it.
+
+\t  toli          ofl     dili    (*i).
+\m  to-li          ofl     di-li    (*i).
+\g 3ss buy-COMPL papaya ate-COMPL (*3so)
+\l S/he bought papaya and ate it.
+
+\t  toli          ofl       kpkun  dili            (*i).
+\m  to-li          ofl       kpkun  di-li            (*i).
+\g 3ss buy-COMPL papaya      and      3ss ate-COMPL (*3so)
+\l S/he bought papaya and   ate it.
+
+\t Aya toli         nzue  nnnin          object
+\m Aya to-li         nzue  nn-ni-n          object
+\g Aya buy-COMPL water 3ss drink-COMPL
+\l Aya bought the water and drank it.
+
+\t Aya toli         nzue  nnni                i ndnd.
+\m Aya to-li         nzue  nn-ni                i ndnd.
+\g Aya buy-COMPL water 3ss drink-COMPL 3so quickly
+\l Aya bought the water and drank it quickly.
+
+\t cf. (2)    to ofl         () dili.
+\m cf. (2)    to ofl         () di-li.
+\g           3ss buy papaya (3ss) ate-COMPL
+\l S/he bought papaya and ate it.
+
+\t  toli          ofl     kpkun *() dili.
+\m  to-li          ofl     kpkun *() di-li.
+\g 3ss buy-COMPL papaya and         *(3ss) ate-COMPL
+\l S/he bought papaya and ate it.
+
+\t  toli          ofl     y *() dili.
+\m  to-li          ofl     y *() di-li.
+\g 3ss buy-COMPL papaya and *(3ss) ate-COMPL
+\l S/he bought papaya and ate it.
+
+\t  sú       fà tánnì màn Kouàdió.
+\m  sú       fà tánnì màn Kouàdió.
+\g 3ss PROG take cloth give Kouadio
+\l He's giving the cloth to Kouadio.
+
+\t Talua nsan c be trali                 wuo dili.
+\m Talua nsan c be tra-li                 wuo di-li.
+\g girl three only 3ps catch-COMPL snake eat-COMPL
+\l Only three girls caught a snake and they ate it.
+
+\t B'a       sa nzue a         nn.
+\m B-'a       sa nzue a         nn.
+\g 3ps-PERF draw water PERF drink
+\l They have drawn water and drunk it.
+
+\t  Be tra           kpma wa di.
+\m  Be tra           kpma wa di.
+\g  3ps catch-COMPL agouti FUT eat
+\l They caught an agouti and they will eat it.
+
+\t Be su tra kpma wa di.
+\m Be su tra kpma wa di.
+\g 3ps PROG catch agouti FUT eat
+\l They are in the process of catching agoutis and they will eat them.
+
+\t Nzue'n y Aya toli                     kpkun  nnni         n.
+\m Nzue-'n y Aya to-li                     kpkun  nn-ni         n.
+\g Water-DEF FOC Aya buy water-DEF and          3ss drink-COMPL PART
+\l It's water that Aya bought and drank.
+
+\t  toli          ofl.     Y  dili.
+\m  to-li          ofl.     Y  di-li.
+\g 3ss buy-COMPL papaya and 3ss ate-COMPL
+\l S/he bought papaya. Then she ate it.
+
+\t Kofi kanni,        'Kpkun be dili          kangal'n.'
+\m Kofi kan-ni,        'Kpkun be di-li          kangal-'n.'
+\g Kofi said-COMPL and            3ps eat-COMPL panther-DEF
+\l Kofi said,"And they ate the panther."
+
+\t Talua mun be kunni       ni      ak  nyon nyon.
+\m Talua mun be kun-ni       ni      ak  nyon nyon.
+\g girls DEF-PL 3ps kill-COMPL chicken two two
+\l The girls killed two chickens each.
+
+\t Talua mun be kunni       ni      ak   nyon.
+\m Talua mun be kun-ni       ni      ak   nyon.
+\g girls DEF-PL 3ps kill-COMPL chicken two
+\l The girls killed two chickens total.
+
+\t Talua nsan be toli              abll        nyon nyon tabli klwaa su.
+\m Talua nsan be to-li              abll        nyon nyon tabli klwaa su.
+\g girls three 3ps buy-COMPL pineapple two two table all            on
+\l Three girls bought two pineapples at each table.
+
+\t N toli          abll         nyon nyon.
+\m N to-li          abll         nyon nyon.
+\g 1ss buy-PAST pineapple two two
+\l I bought pairs of pineapples.
+
+\t Talua mun be kunni                   ak nyon nyon.
+\m Talua mun be kun-ni                   ak nyon nyon.
+\g Girls DEF-PL 3ps kill-COMPL chicken two two
+\l The girls killed pairs of chickens.
+
+\t Be                                         
+\m Be                                         
+\g Be sk-li               ak        nyon nyon.         3ps prepare-COMPL chicken two two
+\l They prepared pairs of chickens.
+
+\t Talua mun be kunni    ni   ak      nyon nyon         kpkun / y be skli                    i nyon nyon.
+\m Talua mun be kun-ni    ni   ak      nyon nyon         kpkun / y be sk-li                    i nyon nyon.
+\g Girls DEF-PL 3ps kill-COMPL chicken two two           and / and 3ps prepare-COMPL 3so two two           
+\l The girls killed pairs of chickens and prepared them in pairs.
+
+\t skli            i nyon nyon.
+\m sk-li            i nyon nyon.
+\g prepare-COMPL 3so two two
+\l The girls killed pairs of chickens and prepared them in pairs.
+
+\t skli             i nsan nsan.
+\m sk-li             i nsan nsan.
+\g prepare-COMPL 3so three three
+\l The girls killed pairs of chickens and prepared them in threes.
+
+\t Bakangan mun be kpli               waka blu blu kikili
+\m Bakangan mun be kp-li               waka blu blu kiki-li
+\g  children DEF-PL 3ps cut-COMPL wood ten ten tie-COMPL 3so ten ten
+\l The children cut groups of ten pieces of wood and tied it in bundles of ten.
+
+\t Bakangan mun be kpli                 waka blu blu kikili
+\m Bakangan mun be kp-li                 waka blu blu kiki-li
+\g children DEF-PL 3ps cut-COMPL wood ten ten tie-COMPL
+\l The children cut groups of ten pieces of wood and tied it in bundles of ten.
+
+\t Bakangan mun be kpli                 waka blu blu y be kikili               ..
+\m Bakangan mun be kp-li                 waka blu blu y be kiki-li               ..
+\g children DEF-PL 3ps cut-COMPL wood ten ten and 3ps tie-COMPL
+\l The children cut groups of ten pieces of wood and tied it in bundles.
+
+\t Bakangan mun be kpli                 waka kikili     i blu blu.
+\m Bakangan mun be kp-li                 waka kiki-li     i blu blu.
+\g children DEF-PL 3ps cut-COMPL wood tie-COMPL 3so ten ten
+\l The children cut wood and tied it in bundles of ten.
+
+\t Bakangan mun be kpli                  waka y be kikili i blu blu.
+\m Bakangan mun be kp-li                  waka y be kiki-li i blu blu.
+\g children DEF-PL 3ps cut-COMPL wood and 3ps tie-COMPL 3so ten ten
+\l The children cut wood and tied it in bundles of ten.
+
+\t Bakangan mun be kpli                 waka blu blu y be kikili                      ..
+\m Bakangan mun be kp-li                 waka blu blu y be kiki-li                      ..
+\g children DEF-PL 3ps cut-COMPL wood ten ten and 3ps tie-COMPL
+\l The children cut groups of ten pieces of wood and tied it in bundles.
+
+\t Bakangan mun be kpli                 waka blu blu. Y            be kikili         ..
+\m Bakangan mun be kp-li                 waka blu blu. Y            be kiki-li         ..
+\g children DEF-PL 3ps cut-COMPL wood ten ten and                  3ps tie-COMPL
+\l The children cut groups of ten pieces of wood and tied it in   bundles.
+
+\t Bakangan mun be kpli                  waka kikili    i blu blu.
+\m Bakangan mun be kp-li                  waka kiki-li    i blu blu.
+\g children DEF-PL 3ps cut-COMPL wood tie-COMPL 3so ten ten
+\l The children cut wood and tied it in bundles of ten.
+
+\t Bakangan mun be kpli                  waka y be kikili i blu blu.
+\m Bakangan mun be kp-li                  waka y be kiki-li i blu blu.
+\g children DEF-PL 3ps cut-COMPL wood and 3ps tie-COMPL 3so ten ten
+\l The children cut wood and tied it in bundles of ten.
+
+\t               k n kanni      ni    sa?
+\m               k n kan-ni      ni    sa?
+\g               that 1ss say-COMPL way
+\l Did s/he eat the papaya seeds, like I said?
+
+\t Een,     toli         lomi     y  yrli
+\m Een,     to-li         lomi     y  yr-li
+\g yes     3ss buy-COMPL orange and 3ss burn-COMPL 3so
+\l S/he   bought an orange and burned it (the peel).
+
+\t Een,  toli          lomi     yrli
+\m Een,  to-li          lomi     yr-li
+\g yes 3ss buy-COMPL orange burn-COMPL 3so
+\l S/he bought an orange and burned it (the peel).
+
+\t  toli            ofl    nyon c dili.
+\m  to-li            ofl    nyon c di-li.
+\g 3ss buy-COMPL papaya two only eat-COMPL
+\l S/he bought only two papayas and ate them.
+

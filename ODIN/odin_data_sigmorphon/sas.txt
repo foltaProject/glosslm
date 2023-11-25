@@ -1,0 +1,190 @@
+\t Yaq=n         gitaq kanakkanak=no            isiq    Herman
+\m Yaq=n         gitaq kanak-kanak=no            isiq    Herman
+\g fut=3         see     child-child=tjat        by      NAME
+\l Herman will see the children
+
+\t Aku tegitaq           isiq    Ali
+\m Aku te-gitaq           isiq    Ali
+\g 1s      PASS-see       by      NAME
+\l I was seen by Ali
+
+\t Takutk        l éq  acòng
+\m Takutk        l éq  acòng
+\g afraid.1SG LOC dog
+\l I am afraid of dogs.
+
+\t Yaqn bèngk        hadiahnò
+\m Yaq-n bèng-k        hadiah-nò
+\g FUT-3     give-1SG  present-that
+\l He will give me that present.
+
+\t Aku balé          beli
+\m Aku balé          beli
+\g 1SG       house buy
+\l It is a house that I buy.
+
+\t Aku         mbeli     balé
+\m Aku         mbeli     balé
+\g 1SG         N.buy     house
+\l As for me, I buy a house.
+
+\t Imen           Aózar            kaput=ne         isiq       Ali
+\m Ime-n           Aózar            kaput=ne         isiq       Ali
+\g hand-link       Aozar            bandage=3        by         Ali
+\l Ali bandaged Aozar's hand
+
+\t Ali             ngaput=ne        imen            Aózar
+\m Ali             ngaput=ne        ime-n            Aózar
+\g Ali             N.bandage=3      hand-link        Aozar
+\l Ali bandaged Aozar's hand
+
+\t Kanak=nó             bace          buku=ni
+\m Kanak=nó             bace          buku=ni
+\g child=that           read          book=this
+\l That child reads this book
+
+\t Kanak=nó             mbace
+\m Kanak=nó             m-bace
+\g child=that           N-read
+\l That child is reading
+
+\t Iaq=n           gitaq          kanakkanak=nó                     isiq      Herman
+\m Iaq=n           gitaq          kanak-kanak=nó                     isiq      Herman
+\g    fut=3        see            reduplicated-child=that            by        Herman
+\l Herman will see the children.
+
+\t Aku         tegitaq         isiq      Ali
+\m Aku         te-gitaq         isiq      Ali
+\g 1sg         pass-see         by        Ali
+\l I was seen by Ali
+
+\t Kance      guru=m         iaq=k      bedait      lèmaq
+\m Kance      guru=m         iaq=k      bedait      lèmaq
+\g with       teacher=2      fut=1sg    meet        tomorrow
+\l It's with your teacher that I will meet tomorrow
+
+\t Lèmaq         kance      guru=m        iaq=k      bedait
+\m Lèmaq         kance      guru=m        iaq=k      bedait
+\g tomorrow      with       teacher=2     fut=1sg    meet
+\l It's with your teacher that I will meet tomorrow
+
+\t Guru        iaq=n     tulak    malik     sèngaqm       mpuk=k
+\m Guru        iaq=n     tulak    malik     sèngaqm       mpuk=k
+\g  teacher    fut=3     return   again     because=2     hit=1
+\l The teacher will come back again because you hit me
+
+\t Terus=k       iaq    bedait      kance       guru=nó
+\m Terus=k       iaq    bedait      kance       guru=nó
+\g  then=1       fut    meet        with        teacher=that
+\l Then I will meet that teacher
+
+\t Telu      jam=k      antih=m      wah
+\m Telu      jam=k      antih=m      wah
+\g three     hour=1     wait=2       already
+\l I already waited for you for three hours
+
+\t Inaq     iaq=n laló        jòk   peken            lèmaq
+\m Inaq     iaq=n laló        jòk   peken            lèmaq
+\g mother fut=3       go      to    market           tomorrow
+\l Mother will go to market tomorrow?
+
+\t Mbé         éléq=n     tulak
+\m Mbé         éléq=n     tulak
+\g where       from=3     return
+\l Where is he coming back from?
+
+\t Tulak=n      éléq    peken
+\m Tulak=n      éléq    peken
+\g return=3     from    market
+\l He comes back from the market
+
+\t Kanak=nó      ndéq=n       iaq      mancing
+\m Kanak=nó      ndéq=n       iaq      mancing
+\g child=that    not=3        fut      N.fish
+\l That child will not fish
+
+\t Iaq=m               gitaq=n       léq      peken
+\m Iaq=m               gitaq=n       léq      peken
+\g fut=2               see=3         loc      market
+\l Will you see him at the market?
+
+\t Iaq=m        bèng=k         kèpèng
+\m Iaq=m        bèng=k         kèpèng
+\g fut=2        give-link=1sg  money
+\l Will you give me some money?
+
+\t Muq=k               gitaq=n         léq    peken
+\m Muq=k               gitaq=n         léq    peken
+\g AUX=1sg             see=3           loc    market
+\l I saw him at the market
+
+\t Muq=n          bace          buku=ni          isiq        kanak=nó
+\m Muq=n          bace          buku=ni          isiq        kanak=nó
+\g AUX=3          read          book=this        by          child=that
+\l That child reads this book
+
+\t nu         ie       kanak       saq    gitaq=kò    nuqng
+\m nu         ie       kanak       saq    gitaq=kò    nuqng
+\g that       3        child       rel    see=1sg     that
+\l That   is the   child who   I saw
+
+\t Sai        guru=n              Ali           iaq=m                 kance        bedait?
+\m Sai        guru=n              Ali           iaq=m                 kance        bedait?
+\g which      teacher-link        Ali           fut=2                 with         meet
+\l Which teacher of Ali's will    you meet with?
+
+\t Sai    kance=m     bedait     léq    peken?
+\m Sai    kance=m     bedait     léq    peken?
+\g who    with=2      meet       loc    market
+\l Who do you meet with in the market?
+
+\t Ape     isiq=m      mpuk=n?
+\m Ape     isiq=m      mpuk=n?
+\g what    with=2      hit=3
+\l What did you hit him with?
+
+\t Sai   kance=m       iaq     bedait       léq      peken?
+\m Sai   kance=m       iaq     bedait       léq      peken?
+\g who   with=2        fut     meet         loc      market
+\l Who will you meet at the market?
+
+\t Sai   iaq=m         kance     bedait        léq     peken?
+\m Sai   iaq=m         kance     bedait        léq     peken?
+\g who   fut=2         with      meet          loc     market
+\l Who will you meet at the market?
+
+\t Gurun         sai     iaq=m       dengah    léq           masjit?
+\m Guru-n         sai     iaq=m       dengah    léq           masjit?
+\g teacher-link   who     fut=2       hear      loc           mosque
+\l Whose teacher will you hear at the mosque?
+
+\t Guru       éléq    mbé       harus=m       dengah?
+\m Guru       éléq    mbé       harus=m       dengah?
+\g teacher    from    where     must=2        hear
+\l The teacher from where must you listen to?
+
+\t Sai    gurun           Ali    kance=m       iaq       bedait?
+\m Sai    guru-n           Ali    kance=m       iaq       bedait?
+\g which teacher-link      Ali    with=2        fut       meet
+\l Which teacher of Ali's will you meet with?
+
+\t Saq mbé     bije           kance=m          iaq     bedait?
+\m Saq mbé     bije           kance=m          iaq     bedait?
+\g which       child          with=2           fut     meet
+\l Which child will you meet with?
+
+\t Yaqn bèngk        hadiahnò
+\m Yaq-n bèng-k        hadiah-nò
+\g FUT-3     give-1SG  present-that
+\l He will give me that present.
+
+\t Aku balé          beli
+\m Aku balé          beli
+\g 1SG       house buy
+\l It is a house that I buy.
+
+\t Aku         mbeli     balé
+\m Aku         mbeli     balé
+\g 1SG         N.buy     house
+\l As for me, I buy a house.
+

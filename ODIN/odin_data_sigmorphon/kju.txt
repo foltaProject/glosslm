@@ -1,0 +1,20 @@
+\t 'sihta=yah ma cahnow
+\m 'sihta=yah ma cahno-w
+\g bird-pl-subj sound-factual
+\l Birds sing.
+
+\t qowaqya
+\m qowaq-ya
+\g pack-VIS
+\l (I just saw) he packed.
+
+\t qowaqwa
+\m qowaq-wa
+\g pack-VIS
+\l (I see) he is packing.
+
+\t s'ihta=yachma          cahnow
+\m s'ihta=yachma          cahno-w
+\g bird=PL.SUBJ           sound-VIS
+\l Birds sing.
+

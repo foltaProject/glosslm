@@ -1,0 +1,30 @@
+\t Michal je        *peelom / peel.12
+\m Michal je        *peelom / peel.12
+\g Michal COPPRS friend*INST / NOM
+\l Michal is a friend.
+
+\t Mózes      *(z) ahom puowa.
+\m Mózes      *(z) ahom puowa.
+\g MayPRS:2:sg z trainINST travel
+\l You may travel by train.
+
+\t Miklaws bije        Jana *(z) pjasu.
+\m Miklaws bije        Jana *(z) pjasu.
+\g Miklaws hitPRS:3:sg Jan    z fistINST
+\l Miklaws hits Jan with his fist.
+
+\t Ruce a noze mje bola
+\m Ruce a noze mje bola
+\g hands.DUAL and feet.DUAL me hurt.PL
+\l my hands and feet hurt
+
+\t Janowa kniha
+\m Jan-ow-a kniha
+\g Jan-POSS-NOM.FEM.SG book.FEM.NOM.SG
+\l Jan's book
+
+\t mojeho              muzowa          sotra
+\m moj-eho              muz-ow-a          sotr-a
+\g my-MASC.GEN.SG husband-POSS-FEM.NOM.SG.sister-FEM.NOM.SG
+\l my husband's sister
+

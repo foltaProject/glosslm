@@ -1,0 +1,30 @@
+\t tumin chij
+\m tumin chij
+\g cotton deer
+\l sheep
+
+\t spisil          winiketik     ya         xbenik
+\m s-pisil          winik-etik     ya         x-ben--ik
+\g 3POSS-all        man-PL         ICOMPL     ICOMPL-
+\l All the men/every man walk(s).
+
+\t spisil          winiketik     ya         slo'ikmantzana
+\m s-pisil          winik-etik     ya         s-lo'-ik-mantzana
+\g 3POSS-all       man-PL         ICOMPL     3.A-eat-PL.A-3 apple
+\l All the men/every man eat(s) apples.
+
+\t jujutul      ya            xbenik             te     winiketik
+\m juju-tul      ya            x-ben--ik             te     winik-etik
+\g each-HUM      ICOMPL        ICOMPL-walk-3-PL      DEF    man-PL
+\l Each of the men walks.
+
+\t ya            sk'uxikmantzana      jujutul      te                winiketik=e
+\m ya            s-k'ux-ik-mantzana      juju-tul      te                winik-etik=e
+\g   ICOMPL      3.A-eat-PL.A-3     apple         each-HUM      DEF      man-PL=DEF  
+\l Each man is eating an apple.
+
+\t ya          jbijteste     alaletik=e
+\m ya          j-bijtes-te     alal-etik=e
+\g  ICOMPL     1.A-teach-3    DEF    child-PL=DEF
+\l I teach the children.
+

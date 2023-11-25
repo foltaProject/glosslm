@@ -1,0 +1,20 @@
+\t mis'a             carlosa's                  wa'k'kuk
+\m mis'-a             carlos-a's                  wa'k'-ku-k
+\g cat-3?             NAM E-OBJ                   bite-REC.PAST-3  SG
+\l El gato mordió a Carlos.
+
+\t mis'kuk           carlosa's                 wa'k'
+\m mis'-ku-k           carlos-a's                 wa'k'
+\g cat-REC.PAST.3SG NAME-OBJ                      bite
+\l Fue el gato el que mordió a Carlos.
+
+\t mis'a'            carlosa'skuk             wa'k'
+\m mis'-a'            carlos-a's-ku-k             wa'k'
+\g cat-3?             NAM E-OBJ-REC.PST-3    SG   bite
+\l Fue a Carlos a quien mordió el gato.
+
+\t yattekuk              mis'a'      Carlosa's        wa'k'
+\m yat-te-ku-k              mis'-a'      Carlos-a's        wa'k'
+\g casa-INES-REC.PAST-3SG cat-3?         NAM E-OBJ         bite
+\l Fue en la casa donde el gato mordió a Carlos.
+

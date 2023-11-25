@@ -1,0 +1,100 @@
+\t iØspet.
+\m i-Ø-s-pet.
+\g ASP-3ABS-3ERG-carry
+\l He/she carried him/her/it.
+
+\t Lispetotik.
+\m L-i-s-pet-otik.
+\g ASP-1ABS-3ERG-carry-1plINCL
+\l He/she carried us (inclusive).
+
+\t svixtak            iskolta.
+\m s-vixtak            i-s-kolta.
+\g 3-ERG-sisters       CP-3.ERG-help
+\l It was herprox   sistersobv that sheprox helped
+
+\t svixtak            ikoltaon.
+\m s-vixtak            i-kolta-on.
+\g 3.ERG-sisters       CP-help-AF
+\l It was herprox   sistersobv who helped herprox
+
+\t 7ispet     lok'el 7antz ti t'ule.
+\m 7i-s-pet     lok'el 7antz ti t'ul-e.
+\g CP-A3-carry away woman the rabbit-CL
+\l The rabbit carried away the woman.
+
+\t stot      li Xune
+\m s-tot      li Xun-e
+\g A3-father the Xun-CL
+\l Xun's father
+
+\t ta bala
+\m ta bala
+\g with bullets
+\l with bullets
+
+\t Muk'bu ¸imilvan.
+\m Muk'bu ¸-i-mil-van.
+\g never      ASP-1SA-kill-APASS
+\l I never killed anyone.
+
+\t ¸k'ot   sibatasvanuk0.
+\m ¸-k'ot   sibatas-van-uk-0.
+\g ASP-come frighten-APASS-uk-3SA
+\l He came to frighten someone.
+
+\t smalal
+\m s-malal
+\g 3ERG-husband
+\l her husband
+
+\t tsk'an                   ta                jk'el              ta       jtuk'ulantik      ti       kosil          jbanamiltike 
+\m t-s-k'an                   ta                j-k'el              ta       j-tuk'ulantik      ti       k-osil          j-banamiltik-e 
+\g   INCMPL-A3-want           INCMPL            A1-look.after       INCMPL   A1-take.care       DET      A1-earth        A1-country-DETF
+\l We have to look after the earth.
+
+\t Ik'ak'             li        (x)xik'        (s)sate
+\m I-k'ak'             li        (x-)xik'        (s-)sat-e
+\g   CMPL-burn         DET A3-wing               A3-eye-DETF
+\l He burned his lid, (...).
+
+\t ta            x/takij                    sti'
+\m ta            x-/-takij                    s-ti'
+\g  INCMPL       NEUT-B3-parched              A3-mouth
+\l he is thirsty
+
+\t ta            x/vi'naj
+\m ta            x-/-vi'naj
+\g  INCMPL       NEUT-B3-be.hungry
+\l he is hungry
+
+\t ta              x/'ilin
+\m ta              x-/-'ilin
+\g  INCMPL         NEUT-B3-be.angry
+\l he is angry
+
+\t Chkat                     ko'on yu'un i/lok'                 ech'el     ta      jna          li        jch'amale
+\m Ch-k-at                     k-o'on yu'un i-/-lok'                 ech'el     ta      j-na          li        j-ch'amal-e
+\g  INCMPL-A1-count            A1-heart because CMPL-B3-exit away               PREP A1-house         DET A1-son-DETF      
+\l I am sad, because my son left my house.
+
+\t            li       oy        xa        ta         yoxibal jabile.
+\m            li       oy        xa        ta         yoxibal jabil-e.
+\g            DET      EXIST     already PREP         third      year-DETF
+\l Nobody remembers having seen a snowfall like the one that came down three years ago.
+
+\t Li      antse           yakal     ta              sch'ay      ta   yo'on       li     anima smalale.    
+\m Li      ants-e           yakal     ta              s-ch'ay      ta   y-o'on       li     anima s-malal-e.    
+\g  DET woman-DETF PROG               INCMPL          A3-lose      PREP A3-heart     DET cadaver A3-husband-DETF
+\l The woman is already forgetting the death of her husband.
+
+\t x/ana'
+\m x-/-a-na'
+\g  NEUT-B3-A2-know
+\l You know it.
+
+\t  ispoxta sba li Xune
+\m  i-s-poxta s-ba li Xun-e
+\g Asp-3-care 3-self art Xun-clitic
+\l Xun treated himself 
+

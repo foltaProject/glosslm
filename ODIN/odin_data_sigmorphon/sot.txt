@@ -1,0 +1,480 @@
+\t Banana baphehela       `me     nama.
+\m Banana ba-pheh-el-a       `me     nama.
+\g girls    SP-cook-appl-fv mother meat
+\l The girls are cooking my mother meat.
+
+\t Bashanyana bahobella         morena.
+\m Bashanyana ba-hobel-l-a         morena.
+\g boys         SP-dance-appl-fv chief
+\l The boys are dancing for the chief.
+
+\t Lintja liholela       nkhono.
+\m Lintja li-hol-el-a       nkhono.
+\g dogs    SP-grow-appl-fv grandma
+\l The dogs are growing for my grandma.
+
+\t Baeti bafihletse         morena.
+\m Baeti ba-fihl-ets-e         morena.
+\g visitors SP-arrive-appl-fv chief
+\l The visitors have arrived for the chief.
+
+\t Nkhono liholela         lintja.
+\m Nkhono li-hol-el-a         lintja.
+\g grandma SP-grow-appl-fv dogs
+\l The dogs are growing for my grandma.
+
+\t `Me    ophehetsoe        nama
+\m `Me    o-pheh-ets-o-e        nama
+\g mother SP-cook-appl-pass-fv meat
+\l My mother has been cooked the meat.
+
+\t Letebele leo leholele         rona.
+\m Letebele leo le-hol-el-e         rona.
+\g Letelbele that SP-grow-appl-fv us
+\l May that Letebele (clan name) grow up for us!
+
+\t Letebele leo lereholele.
+\m Letebele leo le-re-hol-el-e.
+\g Letelbele that SP-us-grow-appl-fv
+\l May that Letebele (clan name) grow up for us!
+
+\t Nama ephehetsoe        `me.
+\m Nama e-pheh-ets-o-e        `me.
+\g meat SP-cook-appl-pass-fv mother
+\l The meat has been cooked my mother.
+
+\t Baeti bafihletse         morena.
+\m Baeti ba-fihl-ets-e         morena.
+\g visitors SP-arrive-appl-fv chief
+\l The visitors have arrived for the chief.
+
+\t Morena ofihletsoe             kebaeti.
+\m Morena o-fihl-ets-o-e             ke-baeti.
+\g chief    SP-arrive-appl-pass-fv by-visitors
+\l The visitors have arrived for the chief.
+
+\t Wa'katenohare'se'         ne atya'tawi.
+\m Wa'-k-ate-nohare-'s-e'         ne atya'tawi.
+\g fact-1sS-srfl-wash-ben-punc NE shirt
+\l The shirt came clean for/on me.
+
+\t a .   *Ngoana okulela              Lineo.
+\m a .   *Ngoana o-kul-el-a              Lineo.
+\g       child      SP-be.ill-appl-fv Lineo
+\l The child is ill on Lineo.
+
+\t Ntate okulela            sepetlele.
+\m Ntate o-kul-el-a            sepetlele.
+\g father SP-be.ill-appl-fv hospital
+\l My father is ill in the hospital.
+
+\t Ngoana okulela            Lineo.
+\m Ngoana o-kul-el-a            Lineo.
+\g child     SP-be.ill-appl-fv Lineo
+\l The child is ill on Lineo.
+
+\t Ntate okulela           sepetlele.
+\m Ntate o-kul-el-a           sepetlele.
+\g father SP-be.ill-appl-fv hospital
+\l My father is ill in the hospital.
+
+\t b. Baná      babítselítsoé          morena.
+\m b. Baná      ba-bítsel-íts-o-é          morena.
+\g     children II.SBJ-call-APPL-PASS-PAST chief
+\l The children benefitted from having the chief called.
+
+\t Sello oshapela            Lineo bashanyana. / bashanyana Lineo.
+\m Sello o-shap-el-a            Lineo bashanyana. / bashanyana Lineo.
+\g Sello I.SBJ-beat-APPL-FV Lineo boys
+\l Sello beats the boys for Lineo.
+
+\t b. Baná      babítselítsoé          morena.
+\m b. Baná      ba-bítsel-íts-o-é          morena.
+\g     children II.SBJ-call-APPL-PASS-PAST chief
+\l The children benefitted from haven the chief called.
+
+\t Kene               keødireka.
+\m Ke-ne               ke-ø-di-reka.
+\g  ISG-COP+PAST ISG-CONT-10them-buy
+\l I was buying them.
+
+\t Kese                   keødireka.
+\m Ke-se                   ke-ø-di-reka.
+\g  ISG-EXCL+PAST ISG-CONT-10them-buy
+\l I am already buying them.
+
+\t Keøna le buka.
+\m Ke-ø-na le buka.
+\g   ISG-PRES-COP with 9book
+\l I have (be with) a book.
+
+\t Ketlana le buka.
+\m Ke-tla-na le buka.
+\g   ISG-FUT-COP with 9book
+\l I will have (be with) a book.
+
+\t Ketlabe/bo       keøna le buka.
+\m Ke-tla-be/bo       ke-ø-na le buka.
+\g   ISG-FUT-COP ISG-CONT-COP with 9book
+\l I will have (be with) a book.
+
+\t Thabo otlapheha     dijo
+\m Thabo o-tla-pheh-a     dijo
+\g Thabo AGR-FUT-cook food
+\l Thabo will cook some food
+
+\t Thabo otlaphehela         bana    dijo
+\m Thabo o-tla-pheh-el-a         bana    dijo
+\g Thabo AGR-FUT-cook-APL children food
+\l Thabo will cook the children some food /some food for the children
+
+\t Dintja dihola  kapele
+\m Dintja di-hol-a  kapele
+\g dogs AGR-grow fast
+\l Dogs grow fast
+
+\t Dintja diholelaa     kapele serobeng
+\m Dintja di-hol-ela-a     kapele serob-eng
+\g dogs AGR-grow-APL fast          barn-LOC
+\l Dogs grow up fast in the barn
+
+\t Banna balwana kamatla
+\m Banna ba-lwan-a ka-matla
+\g men AGR-fight with-strength
+\l The men are fighting fiercely
+
+\t Banna balwanela      bashanyana
+\m Banna ba-lwan-el-a      bashanyana
+\g men AGR-fight-APL boys
+\l The men are fighting for the boys
+
+\t Banana bamatha lebaleng
+\m Banana ba-math-a lebal-eng
+\g girls   AGR-run playground-LOC
+\l The girls are running in the playground
+
+\t Banana bamathela bashanyana
+\m Banana ba-math-el-a bashanyana
+\g girls   AGR-run-APL boys
+\l The girls are running for the boys
+
+\t Bana     bapheha nama
+\m Bana     ba-pheh-a nama
+\g children AGR-cook meat
+\l The children are cooking meat
+
+\t Bana     baphehela   `me      nama
+\m Bana     ba-pheh-el-a   `me      nama
+\g children AGR-cook-APL mother meat
+\l The children are cooking meat for my mother
+
+\t Barutuwa babua      sekhowa
+\m Barutuwa ba-bu-a      sekhowa
+\g students AGR-speak English
+\l The students are speaking English
+
+\t Barutuwa babuela         ntate sekhowa
+\m Barutuwa ba-bu-el-a         ntate sekhowa
+\g students AGR-speak-APL father English
+\l The students speak English for/to my father
+
+\t Banana bamatha lebaleng
+\m Banana ba-math-a lebal-eng
+\g girls   AGR-run playground-LOC
+\l The girls are running in the playground
+
+\t Banana bamathela lebaleng
+\m Banana ba-math-el-a lebal-eng
+\g girls   AGR-run-APL playground-LOC
+\l The girls are running to/in the playground
+
+\t Banana bamathela ntate lebaleng
+\m Banana ba-math-el-a ntate lebal-eng
+\g girls   AGR-run-APL father playground-LOC
+\l The girls are running for/to my father in the playground
+
+\t Banana bapheela      `me     nama
+\m Banana ba-phe-el-a      `me     nama
+\g girls   AGR-cook-APL mother meat
+\l The girls are cooking meat for my mother
+
+\t Banana baphehela     nama `me
+\m Banana ba-pheh-el-a     nama `me
+\g girls     AGR-cook-APL meat mother
+\l The girls are cooking meat for my mother
+
+\t Rakhali oreketse    dieta tsahae pholeshe
+\m Rakhali o-rek-ets-e    dieta tsa-hae pholeshe
+\g aunt   AGR-buy-APL shoes of-her polish
+\l My aunt has bought her shoes polish 
+
+\t Rakhali oreketse    pholeshe dieta tsahae
+\m Rakhali o-rek-ets-e    pholeshe dieta tsa-hae
+\g aunt    AGR-buy-APL polish         shoes of-her
+\l My aunt has bought polish for her shoes
+
+\t Sello oshapela       Dineo bashanyana
+\m Sello o-shap-el-a       Dineo bashanyana
+\g Sello AGR-beat-APL Dineo boys
+\l Sello beats the boys for Lineo
+
+\t Sello oshapeela      bashanyana Dineo
+\m Sello o-shape-el-a      bashanyana Dineo
+\g Sello AGR-beat-APL boys              Dineo
+\l Sello beats Lineo for the boys
+
+\t Banana baphehela     `me      nama
+\m Banana ba-pheh-el-a     `me      nama
+\g girls   AGR-cook-APL mother meat
+\l The girls are cooking meat for my mother
+
+\t Banana bamophehela         nama
+\m Banana ba-mo-pheh-el-a         nama
+\g girls    AGR-OBJ-cook-APL meat
+\l The girls are cooking meat for her
+
+\t Banana baephehela          `me
+\m Banana ba-e-pheh-el-a          `me
+\g girls   AGR-OBJ-cook-APL mother
+\l The girls are cooking it for my mother
+
+\t `Me    ophehetswe         nama
+\m `Me    o-pheh-ets-w-e         nama
+\g mother AGR-cook-APL-PASS meat
+\l The meat has been cooked for my mother
+
+\t Nama ephehetswe          `me
+\m Nama e-pheh-ets-w-e          `me
+\g meat AGR-cook-APL-PASS mother
+\l The meat has been cooked for my mother
+
+\t kokwalela
+\m ko-kwalela
+\g AGR-OBJ-close-APL-APL
+\l I'm closing [it] up for you
+
+\t kekaekwalla
+\m ke-ka-e-kwalla
+\g AGR-POT-OBJ-close-APL
+\l I can close it up
+
+\t a rekela e mang?
+\m a rekela e mang?
+\g AGR-OBJ-buy-APL-PASS-PERF by whom
+\l You were bought it by who?
+
+\t mmatele
+\m mmatele
+\g OBJ-feed-APL
+\l Feed me [something]
+
+\t mmatele ijo
+\m mmatele ijo
+\g OBJ-feed-APL food
+\l Feed me some food
+
+\t e patel
+\m e patel
+\g AGR-RF-hide-APL
+\l I'm hiding from myself
+
+\t a patela koko
+\m a patela koko
+\g AGR-hide-APL chicken
+\l She's hiding from the chicken
+
+\t ha    kewele      mona
+\m ha    ke-w-el-e      mona
+\g NEG AGR-fall-APL ADV
+\l I'm not falling down here
+
+\t wena a mathela ma::::ne Chabadimachetse kwana
+\m wena a mathela ma::::ne Chabadimachetse kwana
+\g you AGR-run-APL ADV Chabadimaketse ADV
+\l You running over there to Chabidimaketse yonder
+
+\t ya masenke ke aolelang
+\m ya masenke ke aolelang
+\g of tin roof is REL/AGR-fall-APL-RL
+\l The tin-roofed one is that which is falling down
+
+\t ntlele e thime
+\m ntlele e thime
+\g OBJ-leave-APL AGR-jump
+\l Leave me alone so I can jump
+
+\t ntachele
+\m ntachele
+\g OBJ-visit-APL
+\l Pay me a visit
+
+\t kee thoballa
+\m kee thoballa
+\g AGR-PRES-RF-sleep-APL
+\l I'm going to sleep by myself
+
+\t ke (i)tholel
+\m ke (i)tholel
+\g AGR-PRES-RF-quiet-APL
+\l I'm keeping myself quiet
+
+\t ke o kokel?
+\m ke o kokel?
+\g AGR-OBJ-talk-APL
+\l Shall I talk [about something] with you?
+
+\t nka engolla mo
+\m nka engolla mo
+\g AGR-POT-RF-write-APL ADV
+\l I can write [something] by myself here
+
+\t amorekela
+\m amorekela
+\g AGR-OBJ-buy-APL
+\l She should buy [them] for him
+
+\t arekela namane
+\m arekela namane
+\g AGR-buy-APL Namane
+\l She should buy [them] for Namane
+
+\t a e tabolelele
+\m a e tabolelele
+\g AGR-FUT-OBJ-tear-APL
+\l I'll tear it up [for him]
+
+\t o ngolla lengol?
+\m o ngolla lengol?
+\g AGR-write-APL letter
+\l Are you writing a letter [for someone]?
+
+\t Ntselleng ha re tlo ngolela ka mona:
+\m Ntselleng ha re tlo ngolela ka mona:
+\g Ntselleng let-AGR-FUR-write-APL in here
+\l Ntselleng, let's write [a letter] in here
+
+\t otlisetsang pere mo?
+\m otlisetsang pere mo?
+\g AGR-bring-APL-WH horse here
+\l Why are you bring the horse here?
+
+\t a ye thibele?
+\m a ye thibele?
+\g AGR-OBJ-prevent-APL
+\l Might you stop it (from rolling)?
+
+\t a e tabolelele
+\m a e tabolelele
+\g AGR-FUT-OBJ-tear-APL
+\l I'll tear it up [for him]
+
+\t a e patele Ntselleng?
+\m a e patele Ntselleng?
+\g AGR-OBJ-hide-APL Ntselleng
+\l Are you hiding it [for someone], Ntselleng?
+
+\t wena a mathela ma::::ne Chabadimachetse kwana
+\m wena a mathela ma::::ne Chabadimachetse kwana
+\g you AGR-run-APL ADV Chabadimaketse ADV
+\l You running over there to Chabidimaketse yonder
+
+\t e phe a mame
+\m e phe a mame
+\g AGR-cook-APL-PASS-PERF by Mami
+\l It was cooked by Mami
+
+\t a rekela e mang?
+\m a rekela e mang?
+\g AGR-OBJ-buy-APL-PASS-PERF by who
+\l You were bought it by who?
+
+\t e feletswe ke peterone
+\m e feletswe ke peterone
+\g AGR-finish-APL-PASS-PERF by petrol
+\l It (the car) is finished by peterol
+
+\t setulo seo
+\m setulo seo
+\g chair DEM
+\l this chair
+
+\t Sello oshapela              Lineo bashanyana. / bashanyana Lineo.
+\m Sello o-shap-el-a              Lineo bashanyana. / bashanyana Lineo.
+\g Sello I.SBJ-beat-APPL-FV Lineo boys
+\l Sello beats the boys for Lineo.
+
+\t b. Baná      babítselítsoé             morena.
+\m b. Baná      ba-bítsel-íts-o-é             morena.
+\g     children II.SBJ-call-APPL-PASS-PAST chief
+\l The children benefitted from having the chief called.
+
+\t bashányana         báne          báfumane      diperekisi SESHOTO (Bantu)
+\m ba-shányana         bá-ne          bá-fumane      di-perekisi SESHOTO (Bantu)
+\g ncl:person/plur-boy ncl.plur-these ncl.plur-found ncl:tree/plur.peach
+\l These boys found peaches
+
+\t (25)(a) bashányana         báne          báfumane      diperekisi SESHO                                TO
+\m (25)(a) ba-shányana         bá-ne          bá-fumane      di-perekisi SESHO                                TO
+\g         ncl:person/plur-boy ncl.plur-these ncl.plur-found ncl:tree/plur.peach
+\l These boys found peaches
+
+\t Monna ashoetse          Lineo.
+\m Monna a-sho-ets-e          Lineo.
+\g       man AGR-die-APPL Lineo
+\l The husband has died on Lineo.
+
+\t Lineo oshoetsoe          kemonna.
+\m Lineo o-sho-ets-o-e          ke-monna.
+\g Lineo AGR-die-APPL-PASS by-husband
+\l Lineo has been bereaved of the husband.
+
+\t             a lahlíle
+\m             a lahlíle
+\g             SA1s­OA10­throw away­PERF-MOOD
+\l I threw them away.
+
+\t (13) a.        ta hâ:na
+\m (13) a.        ta hâ:na
+\g                 SA1s ­ pres ­ refuse ­   IND
+\l I refuse.
+
+\t         b.     áy shépa
+\m         b.     áy shépa
+\g                SA1s ­ pres ­ lash ­   IND
+\l S/he is lashing.
+
+\t Thabo ótlámorékéla dijó
+\m Thabo ó-tlá-mo-rék-él-a dijó
+\g 1T.1SM-FUT-1OM-buy-BEN-IN 8food
+\l Thabo will buy him/her food
+
+\t hakIUbonIY
+\m ha-kI-U-bonIY
+\g NEG-SM1S-OM2S-see
+\l I don't see you
+
+\t hakIlIbonIY
+\m ha-kI-lI-bonIY
+\g NEG-SM1S-OMC     5-see
+\l I don't see it (the broom)
+
+\t kIfa/              Y/            lIfiElOY
+\m kI-fa/              Y/            lIfiElOY
+\g SM1S-give      CL2.woman       CL5.broom
+\l I give the broom to the women
+
+\t Monna  ashoetse Lineo.
+\m Monna  a-sho-ets-e Lineo.
+\g  man    AGR-die-Appl Lineo
+\l The  husband has dies on Lineo.
+
+\t Lineo oshoetsoe kemonna.
+\m Lineo o-sho-ets-o-e ke-monna.
+\g Lineo AGR-die-APPL-PASS by-husband
+\l Lineo has been bereaved of the husband.
+
+\t ngwana [eo       nkgono         a      mo     fepang]
+\m ngwana [eo       nkgono         a      mo     fepa-ng]
+\g child1a DEM1a grandmother1a PART1 OC1a feed-RS
+\l the child whom the grandmother feeds
+

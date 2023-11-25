@@ -1,0 +1,315 @@
+\t Aran     vor girken      e k'artatsel ?
+\m Ara-n     vor girk-en      e k'artatsel ?
+\g Ara-Nom which book-Acc is read
+\l Which book did Ara read?
+
+\t vor      girken      e Aran         k'artatsel?
+\m vor      girk-en      e Ara-n         k'artatsel?
+\g which    book-Acc is Ara-Nom          read
+\l Which    book did Ara read?
+
+\t vor yerexini [ayn martun vor       xi sp'anel er ]     bandark'etsin
+\m vor yerex-ini [ayn mart-un vor       xi sp'anel er ]     bandark'etsin
+\g which child-Acc that man-Acc that          killed was imprisoned
+\l Which child they imprisoned the m   an that had killed?
+
+\t a.* umini [vor vreje xi mat'nel e] amboqj ent'anikin husahat'ets
+\m a.* umini [vor vrej-e xi mat'nel e] amboqj ent'anik-in husahat'ets
+\g    whom that Vrej-Nom denounced is whole family-Dat disappointed
+\l Whom the fact that Vrej denounced disappointed the whole family?
+
+\t a.* vor t'qini usutsiche bark'atsav [vorovhet'ev GaRnik'e xi tzetzel er]
+\m a.* vor t'q-ini usutsich-e bark'atsav [vorovhet'ev GaRnik'-e xi tzetzel er]
+\g    which boy-Acc teacher-Nom got angry because Garnik-Nom beat was
+\l Which boy did the teacher get angry because Garnik had beaten?
+
+\t a.* ovi e Aran      uzum    imana    vor x i inch girk e k'artatsel
+\m a.* ovi e Ara-n      uzum    imana    vor x i inch girk e k'artatsel
+\g   who is Ara-Nom wanting know-Subj that         what book is read
+\l Who did Ara want to know which book had read?
+
+\t a.* [ayn girken ]   es aRnelu [ vor         ov dasaranum k'artats]
+\m a.* [ayn girk-en ]   es aRnelu [ vor         ov dasaran-um k'artats]
+\g      that book-Acc are buy-Fut that         who class-Loc read
+\l Who are you going to buy the book that   read in class?
+
+\t a.* [vor vreje     umin e mat'nel] amboqj ent'anikin husahat'ets
+\m a.* [vor vrej-e     umin e mat'nel] amboqj ent'anik-in husahat'ets
+\g       that Vrej-Nom whom is denounced whole family-Dat disappointed
+\l Whom the fact that Vrej denounced disappointed the whole family?
+
+\t a.*usutsiche bark'atsav [vorovhet'ev GaRnik'e vor t'qini er tzetzel]
+\m a.*usutsich-e bark'atsav [vorovhet'ev GaRnik'-e vor t'q-ini er tzetzel]
+\g   teacher-Nom got angry because Garnik-Nom which boy-Acc was beat
+\l Which boy did the teacher get angry because Garnik had beaten?
+
+\t Aran    uzum e imana         vor ov e inch girk k'artatsel
+\m Ara-n    uzum e imana         vor ov e inch girk k'artatsel
+\g   Ara-Nom wantingis know-Subj that who is what book read
+\l Who did Ara want to know which book had read?
+
+\t polise     uzum e imana vor inchovi en ays martun xi           sp'anel?
+\m polis-e     uzum e imana vor inch-ovi en ays mart-un xi           sp'anel?
+\g police-Nom wanting is know that what-Inst are this man-Acc        killed
+\l The Police wonders that with what they killed this man?
+
+\t iri kuyre           umini     k'rak'ets
+\m iri kuyr-e           umini     k'rak'ets
+\g   his sister-Nom whom            shot
+\l Whoi did hisi sister shoot?
+
+\t umini       iri kuyre         k'rak'ets
+\m umini       iri kuyr-e         k'rak'ets
+\g  whom       his sister-Nom shot
+\l Whoi did hisi sister shoot?
+
+\t Aran     k'artzum e vor           ov e          k'at'vin k'erak'rel
+\m Ara-n     k'artzum e vor           ov e          k'at'v-in k'erak'rel
+\g Ara-Nom thinking is that who is                  cat-Acc   fed
+\l Who does Ara think that fed the cat?
+
+\t ARAn       e k'artzum vor ov            e k'at'vin k'erak'rel
+\m ARA-n       e k'artzum vor ov            e k'at'v-in k'erak'rel
+\g  Ara-Nom is thinking that who is cat-Acc fed
+\l Who is it Ara that thinks fed the cat?
+
+\t ARAn e uzum imana vor ov e k'at'vin k'erak'rel
+\m ARA-n e uzum imana vor ov e k'at'v-in k'erak'rel
+\g Ara-Nom is wanting know that who is cat-Acc    fed
+\l It is Ara who wants to know who fed the cat.
+
+\t ov         e ARAn k'artzum vor xi k'at'vin k'erak'ri
+\m ov         e ARA-n k'artzum vor xi k'at'v-in k'erak'ri
+\g who-Nom is Ara-Nom thinking that             cat-Acc feed-Subj
+\l Who does ARA think that will feed the cat?
+
+\t vor mekenan DU es k'artzum vor Aran            aRni
+\m vor mekena-n DU es k'artzum vor Ara-n            aRni
+\g which car-Acc you are thinking that Ara-Nom buy-Subj/3sg
+\l Which car do YOU think Ara will buy?
+
+\t a.* [ ayn girken ]      es aRnelu [vor ov dasaranum k'artats]
+\m a.* [ ayn girk-en ]      es aRnelu [vor ov dasaran-um k'artats]
+\g       that book-Acc are buy-Fut that who class-Loc read
+\l You are going to buy the book that who read in class?
+
+\t [um k'artatsatz girk]en       es     aRnelu
+\m [um k'artatsatz girk]-en       es     aRnelu
+\g whose read         book-Acc are buy-Fut
+\l Lit: You are going to buy whose read book?
+
+\t vor yerexini aysor [xi sp'anoq mart]un en bandark'el
+\m vor yerex-ini aysor [xi sp'anoq mart]-un en bandark'el
+\g which child-Acc today       killer    man ­Acc are imprisoned
+\l Which child today killing man did they imprison?
+
+\t [Vreji umin          mat'nel]e    amboqj ent'anikin husahat'ets
+\m [Vrej-i umin          mat'nel]-e    amboqj ent'anik-in husahat'ets
+\g  Vrej-Gen whom denouncing-Nom whole family-Dat disappointed
+\l Lit: Vrej's denouncing whom disappointed the whole family?
+
+\t umini [Vreji     xi mat'nel]e amboqj ent'anikin husahat'ets
+\m umini [Vrej-i     xi mat'nel]-e amboqj ent'anik-in husahat'ets
+\g whom     Vrej-Gen denouncing-Nom whole family-Dat disappointed
+\l Who did Vrej's denouncing (of) disappoint the whole family?
+
+\t vor t'qini [Gagik'i xi tzetzelu p'atch'aR]ov usutsiche bark'atsav
+\m vor t'q-ini [Gagik'-i xi tzetzel-u p'atch'aR]-ov usutsich-e bark'atsav
+\g which boy-Acc Gagik-Gen beat-Gen reason-Inst teacher-Nom got angry
+\l Which boy did the teacher get angry because of Gagik's beating?
+
+\t yerk'ri       mayrakaghaki            poghotsnere
+\m yerk'r-i       mayrakaghak-i            poghots-ner-e
+\g country-Gen capital-Gen                 street-Plur-Nom
+\l the streets of the country's capital
+
+\t (im)        koºtsadz                   trams
+\m (im)        koºtsadz                   tram-s
+\g 1SG-GEN stole-PST/PART                 money-1SG
+\l the money I stole
+
+\t im        spannvadz kaºaks
+\m im        spann-v-adz kaºak-s
+\g my        kill-PASS-PART city-1SG
+\l the city where I was killed
+
+\t (im)             koºtsadzs
+\m (im)             koºtsadz-s
+\g 1-SG/GEN         stolen-1SG
+\l my stolen thing
+
+\t Armenian (Kozinceva 1981:83)
+\m Armenian (Kozinceva 1981:83)
+\g      mother-ART wash-PRES AUX               Seda-DAT-ART
+\l Mother is washing Seda.
+
+\t Aran       yerexin       p'at'uhane        batsel     t'vets
+\m Ara-n       yerex-in       p'at'uhan-e        bats-el     t'v-ets
+\g Ara-Nom child-Dat          window-Acc         open-Inf    give-Aor.3sg
+\l Ara made the child open the window.
+
+\t shorere              choranum           en
+\m shor-er-e              chor-an-um           en
+\g dress-pl-Nom           dry-Inch-Imp         be-3pl
+\l The clothes are drying.
+
+\t Nairin      shorere                choratsnum             e
+\m Nairi-n      shor-er-e                chor-atsn-um             e
+\g Nairi-Nom         dress-pl-Acc        dry-Caus-Imp             be-3sg
+\l Nairi is drying the clothes.
+
+\t  yerexan            p'at'uhane         batsets
+\m  yerexa-n            p'at'uhan-e         bats-ets
+\g child-Nom            window-Acc          open-Aor.3sg
+\l The child opened the window.
+
+\t        yerexin      p'at'uhane             batsel      t'vetsi
+\m        yerex-in      p'at'uhan-e             bats-el      t'v-ets-i
+\g pro    child-Dat          window-Acc         open-Inf    give-Aor-1sg
+\l I made the child open the window.
+
+\t zinvore             ashak'ert'in            mekenayi           m ech            mt'tsrets
+\m zinvor-e             ashak'ert'-in            mekena-yi           m ech            mt'-ts-rets
+\g   soldier-Nom        student-Dat              car-Gen             inside           enter-Caus-Past/3sg
+\l The soldier pushed the student in the car.
+
+\t zinvore       ashak'ert'in         mekenayi                    m ech            mt'nel        t'vets
+\m zinvor-e       ashak'ert'-in         mekena-yi                    m ech            mt'nel        t'vets
+\g   soldier-Nom        student-Dat              car-Gen             inside           enter         gave
+\l The soldier made the student enter the car.
+
+\t menk      Arain         lav       xmel        t'vank
+\m menk      Ara-in         lav       xm-el        t'vank
+\g    we           Ara-Dat            good       drink-Inf         gave-1pl
+\l We made Ara drink a lot.
+
+\t yerexan             k'uk'lain           mt'tsrets               t'an                    m ech
+\m yerexa-n             k'uk'la-in           mt'-ts-rets               t'an                    m ech
+\g   child-Nom          doll-Dat             enter-Caus-Past/3sg       house(Gen)              inside
+\l The child pushed the doll into the house.
+
+\t yerexan         k'uk'lain       t'an                         m ech            mt'nel        t'vets
+\m yerexa-n         k'uk'la-in       t'an                         m ech            mt'nel        t'vets
+\g     child-Nom             doll-Dat            house(Gen)          inside           enter         gave
+\l The child made the doll enter the house.
+
+\t Aran            tRchunin        tRtsrets
+\m Ara-n            tRchun-in        tR-ts-rets
+\g Ara-Nom          bird-Dat         fly-Caus-Past/3sg
+\l Ara made the bird fly.
+
+\t bjishk'e             bandark'yalin          k'amats          nst'atsrets
+\m bjishk'-e             bandark'yal-in          k'amats          nst'-ats-rets
+\g doctor-Nom            prisoner-Dat            slow             sit-Caus-Past/3sg
+\l The doctor sat the prisoner down slowly.
+
+\t bjishk'e          bandark'yalin                k'amats         nst'el             t'vets
+\m bjishk'-e          bandark'yal-in                k'amats         nst'-el             t'v-ets
+\g doctor-Nom         prisoner-Dat                  slow            sit-Inf             gave.3sg
+\l The doctor slowly/quietly made the prisoner sit down.
+
+\t yes ashak'ert'nerin       ays      girke        k'artal t'vetsi, bayts deR mi t'oq              el        chen      k'artatsel
+\m yes ashak'ert'-ner-in       ays      girk-e        k'art-al t'vetsi, bayts deR mi t'oq              el        ch-en      k'artatsel
+\g I      student-Plur-Dat     this     book-Acc      read-Inf      gave      but     yet one line     even Neg-are read
+\l I made the students read this book, but they haven't yet read a single line.
+
+\t  usutsiche       Arain          ays    girke          k'artatsrets, bayts deR mi t'oq              el       chi     k'artatsel
+\m  usutsich-e       Ara-in          ays    girk-e          k'art-ats-rets, bayts deR mi t'oq              el       ch-i     k'artatsel
+\g teacher-Nom        Ara-Dat         this   book-Acc        read-Caus-Past     but     yet one line        even     Neg-is     read
+\l The teacher made Ara read this book, but he hasn't yet read a single line.
+
+\t Anushe      yerexin           knatsrets
+\m Anush-e      yerex-in           kn-ats-rets
+\g  anush-Nom   child-Dat          sleep-Caus-Past.3sg
+\l Anush put the child to sleep.
+
+\t Aran      Anushin       yerexin                 knatsatsrets
+\m Ara-n      Anush-in       yerex-in                 kn-ats-ats-rets
+\g   Ara-Nom    Anush-Dat          child-Dat            sleep-Caus-Caus-Past.3sg
+\l Ara made Anush put the child to sleep.
+
+\t Aran      Grikorin     duRe           batsel      t'vets
+\m Ara-n      Grikor-in     duR-e           bats-el      t'v-ets
+\g Ara-Nom    Grigor-Dat    door-Acc        open-Inf     gave.3sg
+\l Ara made Grigor open the door.
+
+\t Aran     dzeRkere      choratsrets
+\m Ara-n     dzeRker-e      chor-ats-rets
+\g Ara-Nom    hands-Acc        dry-Caus-Past.3sg
+\l Ara dried his hands.
+
+\t zayn nsan            arareal            r       nora
+\m zayn nsan            arareal            r       nora
+\g that   miracle-ACC performed            AUX     he-GE   N
+\l He performed that miracle
+
+\t al u hac'd
+\m al u hac'-d
+\g salt & bread-2SG
+\l your salt and bread (= hospitality)
+
+\t 8      a.     ayt baderzmin me¸c hink zinvor ¥sbannvecav
+\m 8      a.     ayt baderzm-i-n me¸c hink zinvor ¥sbann-ve-c-av
+\g               that battle-GEN-THE in 5      soldiers kill-PASS-AOR-3S
+\l In that battle were killed 5 soldiers.
+
+\t k¥san usano± k¥nutenem¥ caso± ecav
+\m k¥san usano± k¥nuten-e-m¥ caso± e-c-av
+\g twenty sudenttS exam-ABL-a    fail-AOR-3S
+\l Twenty students failed an exam.
+
+\t ayt baderazmin me¸c hink zinvorner ¥sbannvecan /*av
+\m ayt baderazm-i-n me¸c hink zinvor-ner ¥sbann-v-ec-an /*-av
+\g that battle-GEN-the in 5      soldier-P killPASSAOR-3P /-3S
+\l In that battle five soldiers were killed.
+
+\t ayt baderazmin me¸c hink zinvorner¥ ¥sbannvecan /*av
+\m ayt baderazm-i-n me¸c hink zinvor-ner-¥ ¥sbann-ve-c-an /*-av
+\g that battle-GEN-the in 5       soldier-P-the kill-PASS-AOR-3P /-3S
+\l In that battle the five soldiers were killed.
+
+\t k¥san usano±ner¥ k¥nutenem¥ caso ±ecan/*av
+\m k¥san usano±-ner-¥ k¥nuten-e-m¥ caso ±e-c-an/*-av
+\g twenty sudent-P-the exam-ABL-a    fail-AOR-3S /-3S
+\l The 20 students failed an exam.
+
+\t k¥san usano±ner k¥nutenem¥ caxo ±ecan/*av
+\m k¥san usano±-ner k¥nuten-e-m¥ caxo ±e-c-an/*-av
+\g twenty students-P exam-ABL-a  fail-AOR-3P /-3S
+\l 20 students failed an exam.
+
+\t ¸sad hay/#er ga/#an hon?
+\m ¸sad hay/#-er ga/-#an hon?
+\g  much Armenian-P exist3S/-3P there
+\l Are there many Armenians there?
+
+\t ¸sad    parsgasdanen nor yegad hay/er       gan hon?
+\m ¸sad    parsga-sdan-en nor yegad hay/-er       gan hon?
+\g  much   Iran-ABL-the  new comepart Armenian-P exist3P there
+\l Are    there many Armenians there who have recently arrived from    Iran?
+
+\t mer dun¥ kiser¥ ut¥ hyur/#er gecav/#an
+\m mer dun-¥ kiser-¥ ut¥ hyur/#-er ge-c-av/-#an
+\g GEN-1P house-the night-the eight guest-P stay-AOR-3S/-3P
+\l Eight guests stayed overnight at our house.
+
+\t gecan /av
+\m ge-c-an /-av
+\g stay-aor-3P/-3S
+\l Eight guests who had no money stayed overnight at our house.
+
+\t yergu had hovanoc unim
+\m yergu had hovanoc uni-m
+\g two Cl umbrella have-1s
+\l I have two umbrellas
+
+\t yergu hovanocner unim
+\m yergu hovanoc-ner uni-m
+\g two umbrella-pl have-1sg.
+\l I have two umbrellas
+
+\t yerk'ri       mayrakaghaki            poghotsnere
+\m yerk'r-i       mayrakaghak-i            poghots-ner-e
+\g country-Gen capital-Gen                 street-Plur-Nom
+\l the streets of the country's capital
+

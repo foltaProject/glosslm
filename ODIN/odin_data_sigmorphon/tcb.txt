@@ -1,0 +1,20 @@
+\t dgey0
+\m dgey0
+\g GEN-L-white
+\l it's white
+
+\t nantn!
+\m na-n-t-n-!
+\g ITER-2SG-INCP-THM-1SG:L-see:       FUT
+\l I'll see you again
+
+\t nantn
+\m na-n-t-n-
+\g ITER-2SG-INCP-THM-1SG:H-see:FUT
+\l I'll see you again [but you won't see me]
+
+\t dayuhnik
+\m dayuhnik
+\g THM-4OBJ-THM-H-catch
+\l he caught it
+

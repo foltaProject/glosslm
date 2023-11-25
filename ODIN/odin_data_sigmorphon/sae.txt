@@ -1,0 +1,1390 @@
+\t towali          ay                  ­i       ­telon
+\m towali          ay                  ­i       ­telon
+\g 1SUBJ           to go               ­VS      ­FUT EV
+\l I am leaving.
+
+\t [a maj      ]
+\m [a maj      ]
+\g to rain ­VS              ­PR ES N EUT        ­ASSR
+\l It rains.
+
+\t na wa.inun      ­mi
+\m na wa.inun      ­mi
+\g mani oc.CL: PD ­REF
+\l manioc meal
+
+\t kiliwa ­mi
+\m kiliwa ­mi
+\g house ­REF
+\l house
+
+\t tapawulu          ­mi
+\m tapawulu          ­mi
+\g clay pot          ­REF
+\l clay pot
+
+\t ulununu                                ­mi
+\m ulununu                                ­mi
+\g cap uchin monkey                       ­REF
+\l capuchin monkey
+
+\t alowa ­mi
+\m alowa ­mi
+\g jucum ­REF
+\l jucum
+
+\t kiata tapun ­t                         ­awi              ­mi
+\m kiata tapun ­t                         ­awi              ­mi
+\g corn    black ­LI   NK                 ­seed             ­REF
+\l black corn seed
+
+\t oto     ­mi
+\m oto     ­mi
+\g arrow ­REF
+\l arrow
+
+\t otopoka           ­mi
+\m otopoka           ­mi
+\g bow               ­REF
+\l bow
+
+\t wayulu ­mi
+\m wayulu ­mi
+\g dog    ­REF
+\l dog
+
+\t kiata      ­mali *kiata
+\m kiata      ­mali *kiata
+\g corn       ­REF
+\l corn/   a piece of corn/the corn
+
+\t kapune.mata ­mi         palan                   ­n       ­dana
+\m kapune.mata ­mi         palan                   ­n       ­dana
+\g paca.D IM       ­REF to not have                ­V S     ­PRES  EV
+\l S/he does not have a small paca.
+
+\t anolota ­mi
+\m anolota ­mi
+\g meat ­REF
+\l meat
+
+\t hala     ­n     ­mina ­dana                   anolota ­mi
+\m hala     ­n     ­mina ­dana                   anolota ­mi
+\g to stink ­VS    ­NEG ­PRES      EV            meat ­REF
+\l The meat does not stink.
+
+\t d­      anase ­mi
+\m d­      anase ­mi
+\g 1PO SS­ head ­REF
+\l my head
+
+\t ­ntal              ­i
+\m ­ntal              ­i
+\g ­PRET NEUT         ­ASSR
+\l I saw a male three-banded armadillo.
+
+\t t­        ip       ­i     ­ntal                ­i                totali                    atitapa              ­isi            ­n               ­ntal              ­i   
+\m t­        ip       ­i     ­ntal                ­i                totali                    atitapa              ­isi            ­n               ­ntal              ­i   
+\g 1O BJ­ to see ­VS         ­PRET N EUT          ­ASSR             three-banded armadillo female                  ­CL:RD  N       ­V S             ­PRET NEUT         ­ASSR
+\l I saw a female three-banded armadillo.
+
+\t iwnua ­k            ano                  ­n         ­mina         ­al                 ­i   
+\m iwnua ­k            ano                  ­n         ­mina         ­al                 ­i   
+\g star    ­ O BJ      much/ man y          ­V S       ­N EG         ­PRES NEUT          ­ASSR
+\l There are few    stars.
+
+\t d­       anose.mata      ­tiawa                      bala      ­n            ­ntal           ­i   
+\m d­       anose.mata      ­tiawa                      bala      ­n            ­ntal           ­i   
+\g 1PO SS­ bowl.D IM        ­CL: BA       RK          DUAL        ­VS           ­PRET NEUT      ­ASSR
+\l I have two small bowls.
+
+\t ­al               ­i
+\m ­al               ­i
+\g ­PRES NEUT        ­ASSR
+\l S/he has three (pairs of) scissors.
+
+\t bala.amulu       ­n       ­al               ­i
+\m bala.amulu       ­n       ­al               ­i
+\g two.one          ­VS      ­PR ES N EUT      ­ASSR
+\l It is three.
+
+\t d­      apipa ­mi
+\m d­      apipa ­mi
+\g 1PO SS­ hand ­REF
+\l my hand
+
+\t da­     kiliwa ­mi
+\m da­     kiliwa ­mi
+\g 1PO SS­ house ­REF
+\l my house
+
+\t p­               apikata                   ­mali
+\m p­               apikata                   ­mali
+\g 1PO SS PL­       table                     ­REF
+\l our table
+
+\t pi­              kiliwa                    ­mali
+\m pi­              kiliwa                    ­mali
+\g 1PO SS PL­       house                     ­REF
+\l our home
+
+\t bala­ kiliwa ­mali
+\m bala­ kiliwa ­mali
+\g DUAL­ house ­REF
+\l our (me + you) house
+
+\t bala­ ani                ­mi               palit          ­i                 ­al             ­i   
+\m bala­ ani                ­mi               palit          ­i                 ­al             ­i   
+\g DUAL­ firewood           ­REF              to cleave wood ­V    S            ­PRES NEUT      ­ASSR
+\l S/he cleaves our firewood.
+
+\t m­      apipa ­mi
+\m m­      apipa ­mi
+\g 2PO SS­ hand ­REF
+\l your
+
+\t ma­     kiliwa ­mali
+\m ma­     kiliwa ­mali
+\g 2PO SS­ house ­REF
+\l your
+
+\t ­        apipa ­mi
+\m ­        apipa ­mi
+\g 3PO SS­ hand ­REF
+\l her/his/its hand(s)
+
+\t a­       kiliwa ­mali
+\m a­       kiliwa ­mali
+\g 3PO SS­ house ­REF
+\l her/his house(s)
+
+\t maysunon. way ulu         ­mi
+\m maysunon. way ulu         ­mi
+\g bo y.dog                  ­REF
+\l boy's dog
+
+\t Gabliel.maliwunon         ­mi
+\m Gabliel.maliwunon         ­mi
+\g Gabriel.b ucket           ­REF
+\l Gabriel's bucket
+
+\t (a pair of) scissors       ­REF D EM     m­       ­i       ­al              ­i
+\m (a pair of) scissors       ­REF D EM     m­       ­i       ­al              ­i
+\g 2O BJ­ ­VS        ­PRES N EUT      ­ASSR
+\l This (pair of) scissors is mine.
+
+\t wayulu ­mi
+\m wayulu ­mi
+\g dog    ­REF
+\l dog
+
+\t way ulu. mata     ­mi
+\m way ulu. mata     ­mi
+\g dog.DIM           ­REF
+\l small dog
+
+\t yowla ­mi
+\m yowla ­mi
+\g knife ­REF
+\l knife
+
+\t yowla. mata       ­mi
+\m yowla. mata       ­mi
+\g knife.DIM         ­REF
+\l small knife
+
+\t kolu kolu               ­k       ila w                       ­n       ­mina          ­al               ­i   
+\m kolu kolu               ­k       ila w                       ­n       ­mina          ­al               ­i   
+\g (a pair of) scissors    ­OBJ to be bi g                      ­V S     ­N EG          ­PRES NEUT        ­ASSR
+\l The wooden scissors are small.
+
+\t ­mina ­al                ­i
+\m ­mina ­al                ­i
+\g (a pair of) scissors    ­CL:LO NG         ­O      BJ         to be big ­ VS
+\l The wooden scissors are small.
+
+\t maytelon                     ­k        yotop              ­an            ­al              ­i      
+\m maytelon                     ­k        yotop              ­an            ­al              ­i      
+\g female youngling             ­O  BJ    to know            ­VS            ­PRES NEUT       ­AS   SR
+\l The girl is smart.
+
+\t maliwu.anon ­mi
+\m maliwu.anon ­mi
+\g bucket.CL: H EMI ­REF
+\l bucket
+
+\t maliwu.anon.maysili                   ­mi
+\m maliwu.anon.maysili                   ­mi
+\g bucket.CL: H EMI.younglings          ­REF
+\l small buckets
+
+\t kolu kolu                  sukwi n          ­takata           ­mi
+\m kolu kolu                  sukwi n          ­takata           ­mi
+\g (a pair of) scissors       small/few        ­CL: LON  G       ­REF
+\l small scissors
+
+\t apia wa        sukwi n             ­tiawa             ­mi
+\m apia wa        sukwi n             ­tiawa             ­mi
+\g wooden b ark   small/ few          ­CL: BAR  K        ­REF
+\l small wooden bark
+
+\t towali sukwin              ilul    ­i       ­datinan
+\m towali sukwin              ilul    ­i       ­datinan
+\g 1SUBJ little                to eat ­V  S    ­PRET EV
+\l I ate just a little.
+
+\t sukwin ­mi
+\m sukwin ­mi
+\g little   ­REF
+\l little
+
+\t yowla.ta            ­mi   ilaw              ­n              ­al                 ­i   
+\m yowla.ta            ­mi   ilaw              ­n              ­al                 ­i   
+\g machete             ­REF to be big          ­V    S         ­PRES NEUT          ­ASSR
+\l The machete is     big.
+
+\t apia wa        ­mi
+\m apia wa        ­mi
+\g wooden bark ­REF
+\l wooden spoon
+
+\t aypo      ­mi
+\m aypo      ­mi
+\g axe       ­REF
+\l axe
+
+\t aypo.ta             ­mi
+\m aypo.ta             ­mi
+\g axe.AUG M           ­REF
+\l big axe
+
+\t koke ­mi
+\m koke ­mi
+\g hawk ­REF
+\l hawk
+
+\t oluma ­mi
+\m oluma ­mi
+\g tapir ­REF
+\l tapir
+
+\t olumata            ­mi
+\m olumata            ­mi
+\g bull               ­REF
+\l bull
+
+\t wayulu ­mi
+\m wayulu ­mi
+\g jaguar ­REF
+\l jaguar
+
+\t tapayli ­mi
+\m tapayli ­mi
+\g pacoba ­REF
+\l pacoba
+
+\t wayulu.tapayli ­mi
+\m wayulu.tapayli ­mi
+\g jaguar.pacoba ­REF
+\l spotted jaguar
+
+\t ate.mitawkosi ­mi
+\m ate.mitawkosi ­mi
+\g man.spider    ­REF
+\l spiderman
+
+\t kiata.isu                                                              ­mi
+\m kiata.isu                                                              ­mi
+\g corn.bone                                                              ­REF
+\l corncob
+
+\t cf. kiata ­mi
+\m cf. kiata ­mi
+\g     corn   ­REF
+\l corn
+
+\t isu    ­mi
+\m isu    ­mi
+\g bone ­REF
+\l bone
+
+\t kiata.isu      ­mi
+\m kiata.isu      ­mi
+\g corn.bone      ­REF
+\l corn cob
+
+\t kali             ta n           ­tisi         ­mi
+\m kali             ta n           ­tisi         ­mi
+\g horned frog      to be venomous ­CD:        RN D­REF
+\l a poisonous frog
+
+\t deypa tan            ­tamoka                           ­mi
+\m deypa tan            ­tamoka                           ­mi
+\g snake to be venomous ­CL: LON G          FLX AN        ­REF
+\l a poisonous snake
+
+\t kiata tapun                ­takata            ­mi
+\m kiata tapun                ­takata            ­mi
+\g corn    to be black        ­CL: LON  G        ­REF
+\l black corn
+
+\t kiata tapun                ­ t­   awi         ­isi             ­mi
+\m kiata tapun                ­ t­   awi         ­isi             ­mi
+\g corn    to be black        ­LINK­ tooth       ­CD:RN D         ­REF
+\l black corn kernel
+
+\t kokwayli          isey     ­mi
+\m kokwayli          isey     ­mi
+\g horse             tail     ­REF
+\l horse tail
+
+\t wayulu.pi         isey     ­mi
+\m wayulu.pi         isey     ­mi
+\g cat               tail     ­REF
+\l cat tail
+
+\t wayulu maysunon       ­mi
+\m wayulu maysunon       ­mi
+\g jaguar male youngling ­REF
+\l jaguar kitten
+
+\t waysili          sapa      ­mi
+\m waysili          sapa      ­mi
+\g assai palm       nut       ­REF
+\l assai palm nut
+
+\t misa             isi       ­mi
+\m misa             isi       ­mi
+\g inaja palm       seed      ­REF
+\l inaja palm seed
+
+\t kiliwa apia wa             ­tanon            ­mi
+\m kiliwa apia wa             ­tanon            ­mi
+\g house wooden b ark         ­CL: HE  MI       ­REF
+\l wooden house
+
+\t kiliwa tapuli ­tanon                 ­mi
+\m kiliwa tapuli ­tanon                 ­mi
+\g house stone ­CL:H EMI                ­REF
+\l stone house
+
+\t maliwa              ­anon                 ­mi
+\m maliwa              ­anon                 ­mi
+\g bucket              ­CL:H E   MI          ­REF
+\l bucket
+
+\t itatu               ­anon                 ­mi
+\m itatu               ­anon                 ­mi
+\g rainbow             ­CL:H E   MI          ­REF
+\l rainbow
+
+\t matowla             ­anon                 ­mi
+\m matowla             ­anon                 ­mi
+\g mortar              ­CL:H E   MI          ­REF
+\l mortar
+
+\t katatali .kolu kolu                       ­takata           ­mi
+\m katatali .kolu kolu                       ­takata           ­mi
+\g white man.(a p air of) scissors           ­CL: LON  G       ­REF
+\l iron scissors
+
+\t anaypa ­akata                   ­mi
+\m anaypa ­akata                   ­mi
+\g leg    ­CL: LO     NG           ­REF
+\l leg
+
+\t waysili           ­takata                 ­mi
+\m waysili           ­takata                 ­mi
+\g assai pal m       ­CL: LON     G          ­REF
+\l assai palm tree
+
+\t linhada             ­api                  ­mi
+\m linhada             ­api                  ­mi
+\g fishing line        ­CL:   LONG FLX       ­REF
+\l fishing line
+
+\t alowa ­api                  ­mi
+\m alowa ­api                  ­mi
+\g tucum ­CL: LO    NG FLX     ­REF
+\l tucum string
+
+\t katatali          motoka               ­ t­        iawa             ­mi
+\m katatali          motoka               ­ t­        iawa             ­mi
+\g white man         bottle gourd         ­LIN  K     ­CL: B AR K      ­REF
+\l tin can
+
+\t apia wa.mata                ­ t­       ­iawa                 ­mi
+\m apia wa.mata                ­ t­       ­iawa                 ­mi
+\g wooden bark.D IM            ­LIN  K    ­CL: B   AR K         ­REF
+\l small wooden board
+
+\t kupuli ­iawa                ­mi
+\m kupuli ­iawa                ­mi
+\g earring ­CL: B  A RK        ­REF
+\l earring
+
+\t tapawulu           ­isi             ­mi
+\m tapawulu           ­isi             ­mi
+\g clay pot           ­CD :  RN D      ­REF
+\l clay star
+
+\t kali               ­isi             ­mi
+\m kali               ­isi             ­mi
+\g horned frog        ­CD :  RN D      ­REF
+\l horned frog
+
+\t iwnua ­tisi                  ­mi
+\m iwnua ­tisi                  ­mi
+\g star   ­CD :    RN D         ­REF
+\l star
+
+\t kiata ­inun ­mi
+\m kiata ­inun ­mi
+\g corn    ­CL: PD ­REF
+\l maize flour
+
+\t kanayki                      ­inun ­mi
+\m kanayki                      ­inun ­mi
+\g cake of manic flour          ­CD: PD ­REF
+\l fine manioc flour
+
+\t kolowapi           sukwi n ­tapi              ­mi
+\m kolowapi           sukwi n ­tapi              ­mi
+\g cotton string      small ­CL: LO   N G FLX    ­REF
+\l short string
+
+\t oya             ­amoka                       ­mi
+\m oya             ­amoka                       ­mi
+\g buriti palm     ­CL: LONG FLX AN             ­REF
+\l buriti palm (Mauritia vinifera) larva
+
+\t kiata ­tinun ­mi
+\m kiata ­tinun ­mi
+\g corn     ­CD : PD ­REF
+\l grated corn
+
+\t kolu kolu                  ­takata           ila w             ­n          ­al               ­i   
+\m kolu kolu                  ­takata           ila w             ­n          ­al               ­i   
+\g (a pair of) scissors       ­CL: LON  G       to be bi g        ­VS         ­PRES NEUT        ­ASSR
+\l The (pair of) scissors is big.
+
+\t misa.sapa       ­tisi             tapay               ­i       ­telon
+\m misa.sapa       ­tisi             tapay               ­i       ­telon
+\g inaja palm.nut ­CD : RN D         to be rotten        ­V S     ­FUT EV
+\l The inaja palm nut is going to be rotten.
+
+\t anon               ­mi     san     ­n       t­     osa      ­n
+\m anon               ­mi     san     ­n       t­     osa      ­n
+\g CL: HEMI           ­REF to catch ­VS        1O BJ­ to give ­VS
+\l Catch it (her/his calabash) and give it to me!
+
+\t ia wa    katatali         ­mi      yey   ­i         ­al              ­i   
+\m ia wa    katatali         ­mi      yey   ­i         ­al              ­i   
+\g CL:B AR K white man       ­REF to stay ­VS          ­PRES NEUT       ­ASSR
+\l The whit e man sta ys on my b oat.
+
+\t isi     bala        ­n       ­tiaka ­ntal               ­i
+\m isi     bala        ­n       ­tiaka ­ntal               ­i
+\g CL:RDN DUAL         ­VS      ­QUOT ­PRET NEUT           ­ASSR
+\l It is said t hat she had twins.
+
+\t tapawulu          takayli.iawa     sukwin ­tanon              ­mi
+\m tapawulu          takayli.iawa     sukwin ­tanon              ­mi
+\g cla y pot         lid.CL: BARK    small ­CL: H EM   I        ­REF
+\l lid of a small clay pot
+
+\t tapawulu          takayli.iawa     sukwin ­tiawa              ­mi
+\m tapawulu          takayli.iawa     sukwin ­tiawa              ­mi
+\g cla y pot         lid.CL: BARK    small ­CL: BAR    K        ­REF
+\l small lid of a clay pot.
+
+\t {kiliwa tapuli} ­anon               ­mi
+\m {kiliwa tapuli} ­anon               ­mi
+\g house stone ­CL:H E      MI         ­REF
+\l stone house
+
+\t anose apili ­tanon                  ­mi
+\m anose apili ­tanon                  ­mi
+\g bowl embira ­CL:H EMI               ­REF
+\l embira-string b owl
+
+\t kolowapi.mata             ­tapi                 palan            ­i   ­al              ­i   
+\m kolowapi.mata             ­tapi                 palan            ­i   ­al              ­i   
+\g cotton string.DIM         ­CL: LO    N G FLX    to not have      ­V S ­PRES NEUT       ­ASSR
+\l S/he does not have strings.
+
+\t kanay.isi          ­mi
+\m kanay.isi          ­mi
+\g pepper.CL:   RD N   ­REF
+\l pepper
+
+\t or       ?kanaysi            ­mi
+\m or       ?kanaysi            ­mi
+\g          pepper              ­REF
+\l pepper
+
+\t kanaysi.ta      ­mi
+\m kanaysi.ta      ­mi
+\g pepper.AUGM ­REF
+\l sweet red pepper
+
+\t tapulisi ip      ­isi                 ­mi
+\m tapulisi ip      ­isi                 ­mi
+\g stone to run ­CL:      RN D           ­REF
+\l elongated stone
+
+\t apia wa       minu                    ­tiawa            ­mi
+\m apia wa       minu                    ­tiawa            ­mi
+\g wooden b ark  to be smooth            ­CL: BAR  K       ­REF
+\l smooth wooden bark
+
+\t apia wa        sowa                   ­tiawa            ­mi
+\m apia wa        sowa                   ­tiawa            ­mi
+\g wooden b ark   to be wet              ­CL: BAR  K       ­REF
+\l wet wooden bark
+
+\t kiata.tapun.tisi              ­mi
+\m kiata.tapun.tisi              ­mi
+\g corn.black.LIG.CL:   RD N    ­REF
+\l black corn seed
+
+\t ­al             ­i
+\m ­al             ­i
+\g ­PRES NEUT      ­AS    SR
+\l The corn is white.
+
+\t na wko ­ko        ­mi                 or na wkomi
+\m na wko ­ko        ­mi                 or na wko-mi
+\g mot her ­CT       ­REF
+\l mother
+
+\t waynko ­ko        ­mi                 or waynkomi
+\m waynko ­ko        ­mi                 or waynko-mi
+\g father ­CT        ­REF
+\l father
+
+\t koko          ­ko             ­mi     or kokomi
+\m koko          ­ko             ­mi     or koko-mi
+\g grandmot her  ­CT             ­REF
+\l grandmother
+
+\t kan     ­i        ­ ta              ­mi
+\m kan     ­i        ­ ta              ­mi
+\g to die ­VS        ­AC  NN R         ­REF
+\l the dead/t he death
+
+\t kal       ­i      ­ ta              ­mi
+\m kal       ­i      ­ ta              ­mi
+\g to cut ­VS        ­AC  NN R         ­REF
+\l the cut
+
+\t kal      ­i       ­bi               ­ ta              ­mi
+\m kal      ­i       ­bi               ­ ta              ­mi
+\g to cut ­VS        ­ PATN R          ­ACNNR            ­REF
+\l the cutter
+
+\t towali    koka     ip       ­i        ­ap      ­a         ­ntal               ­i         deypa ­ki 
+\m towali    koka     ip       ­i        ­ap      ­a         ­ntal               ­i         deypa ­ki 
+\g 1SUBJ     CO M     to see ­VS         ­ITER    ­LINK      ­PRETNEUT           ­ASSR      snake ­OBJ
+\l I and   he gazed at a snake.
+
+\t Gabliel koka uli         ilul         ­i       ­mina ­datinan
+\m Gabliel koka uli         ilul         ­i       ­mina ­datinan
+\g Gabriel COM     2SUBJ to eat          ­V  S    ­N EG ­PRET EV
+\l Gabriel and you did not eat.
+
+\t uli     wola kiki                   ­n        ­datinan
+\m uli     wola kiki                   ­n        ­datinan
+\g 2SUBJ a lot      to scratch         ­V  S     ­PRET EV
+\l You scratch it a lot.
+
+\t isun             ­i                                           ­al                        ­a
+\m isun             ­i                                           ­al                        ­a
+\g to be angr y     ­VS                                          ­PR       ES N EUT         ­INT
+\l Is s/he angry?
+
+\t isun             ­n                                           ­al                        ­a
+\m isun             ­n                                           ­al                        ­a
+\g to be angr y     ­VS                                          ­PR       ES N EUT         ­INT
+\l Is s/he angry?
+
+\t towali d­                                          way ulu palan                         ­i              ­al                                                ­i   
+\m towali d­                                          way ulu palan                         ­i              ­al                                                ­i   
+\g 1SUBJ 1PO SS­                                      dog     to not have                   ­V   S          ­PRES NEUT                                         ­ASSR
+\l I have no dog.
+
+\t ­ntal                                              ­i
+\m ­ntal                                              ­i
+\g ­PRET NEUT                                         ­ASSR
+\l S/he saw it and                                   caught it.
+
+\t anolota ­mi      hala               ­n        ­dana
+\m anolota ­mi      hala               ­n        ­dana
+\g meat ­REF to be rotten              ­V S      ­PRES   NEUT
+\l The meat is rotten.
+
+\t maysunon           ­k    ilaw                 ­n          ­mina            ­al                ­i   
+\m maysunon           ­k    ilaw                 ­n          ­mina            ­al                ­i   
+\g male youngl ing    ­OBJ to be big             ­V S        ­N EG            ­PRES NEUT         ­ASSR
+\l The boy is not   big.
+
+\t ayn               ­i        ­al                    ­i
+\m ayn               ­i        ­al                    ­i
+\g to be red         ­VS       ­PR ES N EUT           ­ASSR
+\l It is red.
+
+\t kiata ayn                   ­n        ­ ta                     ­akata                ­mi             ayn               ­i        ­al                    ­i   
+\m kiata ayn                   ­n        ­ ta                     ­akata                ­mi             ayn               ­i        ­al                    ­i   
+\g corn     to be red          ­VS       ­ACN  NR                 ­CL: LO NG            ­REF            to be red         ­VS       ­PRE S N EUT           ­ASSR
+\l The red corn is red.
+
+\t ano               ­i        ­al                    ­i
+\m ano               ­i        ­al                    ­i
+\g much/many         ­VS       ­PR ES N EUT           ­ASSR
+\l It is too much.
+
+\t ­al             ­i
+\m ­al             ­i
+\g ­PRES NEUT      ­AS                          SR
+\l My thumb is short.
+
+\t t­      ip       ­i                                          ­misina                        ­al                   ­i
+\m t­      ip       ­i                                          ­misina                        ­al                   ­i
+\g 1O BJ­ to run ­VS                                            ­NEG                           ­PR                   ­A
+\l I am not tall.
+
+\t t­       inan ­a                                             ­misina                        ­dana
+\m t­       inan ­a                                             ­misina                        ­dana
+\g 1O BJ­ to grow ­VS                                           ­NEG                           ­PRES      EV
+\l I do not grow.
+
+\t ay      ­i       ­mina ­tapanal                                                             ­i
+\m ay      ­i       ­mina ­tapanal                                                             ­i
+\g to go ­VS        ­NEG ­FUT N EUT                                                            ­A   SSR
+\l S/he does not go.
+
+\t tolun           ­i                                                         ­ntal                  ­i
+\m tolun           ­i                                                         ­ntal                  ­i
+\g to thunder      ­VS                                                        ­PRET  N EUT           ­ASSR
+\l It thundered.
+
+\t kanaysi ­k                                                ii                          ­n          ­mina            ­al                                                       ­i   
+\m kanaysi ­k                                                ii                          ­n          ­mina            ­al                                                       ­i   
+\g pepper ­OBJ                                               to be hot                   ­V S        ­N EG            ­PRES NEUT                                                ­ASSR
+\l The pepper is                                           not hot.
+
+\t amayl ­i                                                         ­al                  ­i
+\m amayl ­i                                                         ­al                  ­i
+\g to rain ­VS                                                      ­PR ES N EUT         ­ASSR
+\l It rains.
+
+\t ta w   ­i
+\m ta w   ­i
+\g to cut ­VS
+\l Cut!
+
+\t ta w    ­i       ­mina
+\m ta w    ­i       ­mina
+\g to cut ­VS       ­NEG
+\l Do not cut!
+
+\t osa      ­n
+\m osa      ­n
+\g to give ­VS
+\l Give it!
+
+\t osa     ­n        ­mina
+\m osa     ­n        ­mina
+\g to give ­VS       ­NEG
+\l Do not give it!
+
+\t t­      osa       ­n       ­misina
+\m t­      osa       ­n       ­misina
+\g 1O BJ­ to give ­VS         ­NEG
+\l Do not give it to me!
+
+\t Gabliel maysili palan               ­i       ­al                ­i
+\m Gabliel maysili palan               ­i       ­al                ­i
+\g Gabriel children to not have        ­V  S    ­PR ES NEUT        ­ASSR
+\l Gabriel has no children.
+
+\t isun             ­i        ­al                   ­a
+\m isun             ­i        ­al                   ­a
+\g to be angr y     ­VS       ­PR ES N EUT          ­INT
+\l Is s/he angry?
+
+\t towali wola yatonu                ­n        ­ap        ­a         ­datinan
+\m towali wola yatonu                ­n        ­ap        ­a         ­datinan
+\g 1SUBJ a lot      to cough         ­V  S     ­ITER      ­LINK      ­PRET EV
+\l I coughed relentlessly.
+
+\t t­      ilup    ­a        ­telon
+\m t­      ilup    ­a        ­telon
+\g 1O BJ­ to vomit­VS        ­FUT E   V
+\l I am going to vomit.
+
+\t t­       ilup   ­a        ­tapanal          ­i
+\m t­       ilup   ­a        ­tapanal          ­i
+\g 1O BJ­ to vomit­VS        ­FUT N EUT        ­A   SSR
+\l I will vomit.
+
+\t nan      ­i      ­ntal             ­i
+\m nan      ­i      ­ntal             ­i
+\g to cr y ­VS      ­PRET  N EUT      ­ASSR
+\l S/he cried.
+
+\t ilup     ­i     ­ntal                   ­i
+\m ilup     ­i     ­ntal                   ­i
+\g to vomit ­VS    ­PRET       N EUT       ­ASSR
+\l S/he vomited.
+
+\t wayulu ­mi     ip                 ­i      ­datinan
+\m wayulu ­mi     ip                 ­i      ­datinan
+\g dog    ­REF to run                ­VS     ­PRET EV
+\l The dog ran.
+
+\t towali yey       ­i              ­al                ­i
+\m towali yey       ­i              ­al                ­i
+\g 1SUBJ to stay ­VS                ­PR ES N EUT       ­ASSR
+\l I wait (here).
+
+\t towali ilul       ­i           ­dana
+\m towali ilul       ­i           ­dana
+\g 1SUBJ to eat      ­VS          ­PRES   EV
+\l I eat.
+
+\t t­       osa      ­n
+\m t­       osa      ­n
+\g 1O BJ­ to give ­VS
+\l Give it to me, please.
+
+\t t­       osa     ­n
+\m t­       osa     ­n
+\g 1O BJ­ to give ­VS
+\l Give it to me, now!
+
+\t ilul      ­i
+\m ilul      ­i
+\g to eat ­VS
+\l Eat it (2nd person singular
+
+\t pi­      kal       ­i         ­tinopi
+\m pi­      kal       ­i         ­tinopi
+\g PL­      to cut    ­VS        ­HO RT IN     CL
+\l Let's cut it !
+
+\t kal      ­i       ­tinopi
+\m kal      ­i       ­tinopi
+\g to cut ­VS         ­HO RT I   N CL
+\l Cut it!
+
+\t ilul         ­i
+\m ilul         ­i
+\g to eat       ­VS
+\l Eat!
+
+\t t­       osa      ­n
+\m t­       osa      ­n
+\g 1O BJ­ to give ­VS
+\l Give it to me, please.
+
+\t ilul      ­i       ­n
+\m ilul      ­i       ­n
+\g to eat ­VS         ­ST    IMP
+\l Eat (it is an order)!
+
+\t yey     ­i        ­n
+\m yey     ­i        ­n
+\g to stay ­VS       ­ST     IMP
+\l Stay!
+
+\t pi­      yey     ­i             ­n
+\m pi­      yey     ­i             ­n
+\g PL­      to stay ­VS            ­ST   IMP
+\l Stay!
+
+\t ay      ­i        ­mina ­n
+\m ay      ­i        ­mina ­n
+\g to go ­VS         ­NEG ­ST            IMP
+\l Do not go!
+
+\t ilul     ­i      ­ to
+\m ilul     ­i      ­ to
+\g to eat ­VS       ­HO RT
+\l Eat!
+
+\t pi­      ilul     ­i        ­tinopi
+\m pi­      ilul     ­i        ­tinopi
+\g PL­      to eat   ­VS       ­HO RT IN   CL
+\l Let's eat!
+
+\t ta w    ­i        ­misina
+\m ta w    ­i        ­misina
+\g to cut ­VS        ­NEG
+\l Do not cut!
+
+\t pi­      ilul     ­i      ­misina ­tinopi
+\m pi­      ilul     ­i      ­misina ­tinopi
+\g PL­      to eat ­VS       ­NEG ­H ORT                                                IN CL
+\l Let's not eat, peopl e!
+
+\t ilul    ­i         ­mina ­n
+\m ilul    ­i         ­mina ­n
+\g to eat ­VS         ­NEG ­ST                                    IMP
+\l Do not eat (it is an order)!
+
+\t m­     ilup     ­i       ­tiaka ­datinan
+\m m­     ilup     ­i       ­tiaka ­datinan
+\g 2O BJ­ to vomit­VS       ­QUOT ­PRET EV
+\l You vomited, they said.
+
+\t tan ­i           ­al                    ­i
+\m tan ­i           ­al                    ­i
+\g to want ­VS      PR ES NEUT              ­A SSR
+\l S/he wants.
+
+\t Malia ­mi        a­  kal                ­i          ­datinan
+\m Malia ­mi        a­  kal                ­i          ­datinan
+\g Maria ­REF 3OBJ­ to cut                 ­VS         ­PRET EV
+\l Maria cut herself.
+
+\t amayl ­i           ­datinan
+\m amayl ­i           ­datinan
+\g to rain ­VS        ­PRES EV
+\l It rains.
+
+\t milut             ­i          ­al                   ­i
+\m milut             ­i          ­al                   ­i
+\g to li ghten       ­VS         ­PR ES N EUT          ­ASSR
+\l There is lightening.
+
+\t win      ­n      ­al                    ­i
+\m win      ­n      ­al                    ­i
+\g to mist ­VS      ­PR ES N EUT           ­ASSR
+\l There is mist.
+
+\t kamayk           ­i       ­al                       ­i
+\m kamayk           ­i       ­al                       ­i
+\g to stop raining ­VS       ­PR     ES N EUT          ­ASSR
+\l The rain (season) stops.
+
+\t tapun             ­i       ­al                  ­i
+\m tapun             ­i       ­al                  ­i
+\g to be black       ­VS      ­PR ES N EUT         ­ASSR
+\l It is overcast.
+
+\t pan             ­i         ­al                  ­i
+\m pan             ­i         ­al                  ­i
+\g to be white     ­VS        ­PR ES N EUT         ­ASSR
+\l Morning is breaking.
+
+\t pan     ­n       ­ ta                ­mi
+\m pan     ­n       ­ ta                ­mi
+\g white ­VS        ­AC  NN R           ­REF
+\l (colour) white
+
+\t {panta ­mi} uni                      ­n        ­dana
+\m {panta ­mi} uni                      ­n        ­dana
+\g white ­REF to be good                ­V S      ­PRESEV
+\l S/he likes (the colour) white.
+
+\t d­      apipa ­mi
+\m d­      apipa ­mi
+\g 1PO SS­ hand ­REF
+\l my hand
+
+\t d­      isun                ­n        ­ta               ­mi
+\m d­      isun                ­n        ­ta               ­mi
+\g 1PO SS­ to be angr y        ­V S      ­ACNNR            ­REF
+\l my anger
+
+\t Manoel         ilup                  ­i        ­al               ­i
+\m Manoel         ilup                  ­i        ­al               ­i
+\g Manoel         to vomit              ­V  S     ­PR ES NEUT       ­ASSR
+\l Manoel vomits.
+
+\t na wa           is                   ­i         ­al                   ­i
+\m na wa           is                   ­i         ­al                   ­i
+\g manioc dough to be hard              ­V  S      ­PR ES NEUT           ­ASSR
+\l The dough is hard.
+
+\t towali ila w               ­n        ­al                   ­i
+\m towali ila w               ­n        ­al                   ­i
+\g 1SUBJ to be big            ­VS       ­PR  ES NEUT          ­ASSR
+\l I am fat.
+
+\t katal ­i         ­dana
+\m katal ­i         ­dana
+\g to cook ­VS      ­PRES      EV
+\l It is cooking.
+
+\t katal ­i           ­mina ­dana
+\m katal ­i           ­mina ­dana
+\g cook ­VS           ­NEG ­PRES        EV
+\l It is raw.
+
+\t katatali       isun                      ­n       ­ta             ­mi
+\m katatali       isun                      ­n       ­ta             ­mi
+\g white man      to be angr y              ­V  S    ­ACN NR         ­REF
+\l angry white man
+
+\t ­al             ­i
+\m ­al             ­i
+\g ­PRES NEUT      ­ASSR
+\l The {angry white man} is furious.
+
+\t kiata ayn        (­n)      ­ ta                   ­akata          ­mi
+\m kiata ayn        (­n)      ­ ta                   ­akata          ­mi
+\g corn     red     (­VS)     ­AC  NN R              ­CL: LONG       ­REF
+\l red corn
+
+\t kiata pan        (­n)    ­ ta                     ­akata          ­mi
+\m kiata pan        (­n)    ­ ta                     ­akata          ­mi
+\g corn    white (­VS) ­AC         NN R              ­CL: LONG       ­REF
+\l white corn
+
+\t sapa                ­n     ­dana
+\m sapa                ­n     ­dana
+\g to be flat          ­VS    ­PRES   EV
+\l It is flat.
+
+\t ta ­     siki              ­n       ­datinan
+\m ta ­     siki              ­n       ­datinan
+\g 1O BJ­ to tickle           ­VS      ­PRET EV
+\l S/he tickled me.
+
+\t ta­      siki.siki                 ­n             ­datinan
+\m ta­      siki.siki                 ­n             ­datinan
+\g 1O BJ­ to tickle.to ti ckle        ­V      S      ­PRET EV
+\l S/he almost tickled me to death.
+
+\t Manoel           wola         ilul      ­i        ­dana
+\m Manoel           wola         ilul      ­i        ­dana
+\g Manoel           a lot        to eat    ­V  S     ­PRES    EV
+\l Manoel eats a lot.
+
+\t Manoel          amu ­n           ­ap              ­a          ­datinan
+\m Manoel          amu ­n           ­ap              ­a          ­datinan
+\g Manoel          to sl eep ­VS    ­ITER            ­LINK       ­PRES EV
+\l Manoel slept for hours and hours.
+
+\t kanin                ­i        ­al                   ­i
+\m kanin                ­i        ­al                   ­i
+\g to be tall           ­VS       ­PR ES NEUT           ­ASSR
+\l S/he is tall.
+
+\t kanin                ­i        ­al                   ­i
+\m kanin                ­i        ­al                   ­i
+\g to be tall           ­VS       ­PR ES NEUT           ­ASSR
+\l S/he is fat.
+
+\t towali way ulu ­k           ip       ­a       ­datinan
+\m towali way ulu ­k           ip       ­a       ­datinan
+\g 1SUBJ dog        ­O   BJ    to see   ­V S     ­PRET EV
+\l I saw the dog.
+
+\t d­       oto     ­takata                 bala     ­n             ­PRES NEUT       ­ASSR
+\m d­       oto     ­takata                 bala     ­n             ­PRES NEUT       ­ASSR
+\g 1PO SS­ arrow ­CL: LON     G           DUAL       ­VS            ­al              ­i   
+\l I have two arrows.
+
+\t uli     ay          ­i       ­al                  ­a
+\m uli     ay          ­i       ­al                  ­a
+\g 2SUBJ to go         ­V  S    ­PR  ES NEUT         ­INT
+\l Do you go?
+
+\t uli     ­mi       ano                  ilul       ­i         ­dana
+\m uli     ­mi       ano                  ilul       ­i         ­dana
+\g 2SUBJ ­REF much/many                   to eat     ­V S       ­PRES EV
+\l You (PL) eat a lot!
+
+\t ilul     ­i        ­al                 ­i
+\m ilul     ­i        ­al                 ­i
+\g to eat ­V     S    ­PR ES NEUT         ­ASSR
+\l S/he eats.
+
+\t ip       ­a       ­ntal             ­i               sa       ­n       ­mina ­ntal              ­i             
+\m ip       ­a       ­ntal             ­i               sa       ­n       ­mina ­ntal              ­i             
+\g to see ­VS        ­PRET NEUT        ­ASSR            to catch ­VS       ­NEG ­PRET NEUT         ­A          SSR
+\l S/he saw it (but) s/he did not catch it.
+
+\t ip      ­i       ­al                ­a            da­     sapane                   ­ka  
+\m ip      ­i       ­al                ­a            da­     sapane                   ­ka  
+\g to see ­VS       ­PRES NEUT         ­IN   T       1PO SS­ little sister            ­O BJ
+\l Does s/he look at my little sister?
+
+\t amayl ­i           ­al                 ­i
+\m amayl ­i           ­al                 ­i
+\g to rain ­VS        ­PR ES NEUT         ­ASSR
+\l It is raining.
+
+\t milul               ­i      ­tapanal              ­i
+\m milul               ­i      ­tapanal              ­i
+\g to lighten          ­VS     ­FUT NEUT             ­A   SSR
+\l There wil l be li ghtening.
+
+\t tolun              ­a        ­ntal                ­i
+\m tolun              ­a        ­ntal                ­i
+\g to thunder         ­V  S     ­PRET NEUT           ­ASSR
+\l It thundered.
+
+\t motu               ­n        ­al                  ­i
+\m motu               ­n        ­al                  ­i
+\g to be round        ­V  S     ­PR ES NEUT          ­ASSR
+\l It is round.
+
+\t siki                       ­n           ­dana
+\m siki                       ­n           ­dana
+\g to be sharp p ointed       ­V  S        ­PRES  EV
+\l It has a sharp point.
+
+\t pi­               ilul     ­i           ­dana
+\m pi­               ilul     ­i           ­dana
+\g 1SUBJ PL­         to eat   ­V S         ­PRES EV
+\l We all eat.
+
+\t uli     pi­                kal          ­i        ­dana
+\m uli     pi­                kal          ­i        ­dana
+\g 2SUBJ 1O BJ     PL­        to cut       ­V S      ­PRES EV
+\l You cut us.
+
+\t uli    matowla              ­k           yow     ­a          ­datinan
+\m uli    matowla              ­k           yow     ­a          ­datinan
+\g 2SUBJ pestle                ­O  BJ       to make ­V    S     ­PRET EV
+\l You made the pestle.
+
+\t kan      ­n       ­al                    ­i
+\m kan      ­n       ­al                    ­i
+\g to die ­VS        ­PR ES NEUT            ­ASSR
+\l S/he dies.
+
+\t ta­      kaymat ­i          ­n
+\m ta­      kaymat ­i          ­n
+\g 1O BJ­ to mix ­V     S      ­STI MP
+\l Mix it up for me.
+
+\t palin             ­n        ­al          ­i
+\m palin             ­n        ­al          ­i
+\g to be cold        ­V  S     ­PR ES       ­ASSR
+\l It is cold.
+
+\t towali matowla            ­k             m­     yow     ­a          ­datinan
+\m towali matowla            ­k             m­     yow     ­a          ­datinan
+\g 1SUBJ pestle              ­O    BJ       2O BJ­ to make ­V  S       ­PRET EV
+\l I made the pestle for you.
+
+\t Josi    manala ­k         hop                       ­a       datinan
+\m Josi    manala ­k         hop                       ­a       datinan
+\g Josi    sieve ­O BJ       to weave                  ­V S     ­PRET EV
+\l Josi made a sieve for me.
+
+\t towali way ulu ­k               ip         ­i            ­datinan
+\m towali way ulu ­k               ip         ­i            ­datinan
+\g 1SUBJ dog      ­O       BJ      to see     ­V S          ­PRET EV
+\l I saw a dog.
+
+\t    way ulu ­mi    t­     ip                      ­i            ­datinan
+\m    way ulu ­mi    t­     ip                      ­i            ­datinan
+\g    dog            1O BJ­ to see                  ­V S          ­PRET EV
+\l The dog saw me.
+
+\t uli     kal      ­i       ­say             ­dana                   gabliel ­ka
+\m uli     kal      ­i       ­say             ­dana                   gabliel ­ka
+\g 2SUBJ to cut ­VS          ­PRO       G     ­PRES EV                Gabriel ­O BJ
+\l You are cutting Gabriel.
+
+\t Gabliel ma­       kal     ­i               ­datinan
+\m Gabliel ma­       kal     ­i               ­datinan
+\g Gabriel 2O BJ­ to cut ­V         S         ­PRET EV
+\l Gabriel is cutting you.
+
+\t towali a­        kal        ­i        ­datinan
+\m towali a­        kal        ­i        ­datinan
+\g 1SUBJ 3O BJ­ to cut         ­V S      ­PRET EV
+\l I cut her/him.
+
+\t towali ay          ­i       ­datinan
+\m towali ay          ­i       ­datinan
+\g 1SUBJ to go        ­V  S    ­PRET EV
+\l I left.
+
+\t Gabliel ay         ­i       ­datinan
+\m Gabliel ay         ­i       ­datinan
+\g Gabriel to go      ­V  S    ­PRET EV
+\l Gabriel left.
+
+\t towali wawal ­i             ­dana
+\m towali wawal ­i             ­dana
+\g 1SUBJ to shout ­V      S    ­PRES  EV
+\l I shout.
+
+\t ­ntal               ­i
+\m ­ntal               ­i
+\g ­PRET NEUT          ­ASSR
+\l The harpy eagle    ate the snake.
+
+\t anose     ­mi
+\m anose     ­mi
+\g bowl      ­REF
+\l Manoel    gave me a bowl.
+
+\t ­ntal          ­i
+\m ­ntal          ­i
+\g ­PRET NEUT     ­ASSR
+\l Manoel gave me a bowl.
+
+\t Gabliel ­mi
+\m Gabliel ­mi
+\g Gabriel ­REF
+\l Gabriel broke the bottle gourd.
+
+\t wola t­         isun                      ­i             ­dana
+\m wola t­         isun                      ­i             ­dana
+\g a lot    1O BJ­ to be angr y              ­V S           ­PRES   EV
+\l I am furious.
+
+\t towali ilul       ­i        ­dana
+\m towali ilul       ­i        ­dana
+\g 1SU BJ to eat     ­V  S     ­PRES  EV
+\l I eat.
+
+\t towali kiata      ­k        ilul      ­i       ­datinan
+\m towali kiata      ­k        ilul      ­i       ­datinan
+\g 1SU BJ corn       ­O  BJ    to eat    ­V S     ­PRET EV
+\l I ate corn.
+
+\t t­       ilup    ­i         ­dana
+\m t­       ilup    ­i         ­dana
+\g 1O BJ ­ to vomit ­V  S      ­PRES EV
+\l I vomit.
+
+\t ninu' ­ka         t­      ilup     ­i          ­dana
+\m ninu' ­ka         t­      ilup     ­i          ­dana
+\g juice ­O BJ       1O BJ ­ to vomit ­V   S      ­PRES EV
+\l I vomited the juice.
+
+\t towali miakali m­       osa ­n                         ­ntal            ­i   
+\m towali miakali m­       osa ­n                         ­ntal            ­i   
+\g 1SUBJ manioc 2O BJ­ to give ­V               S         ­PRET NEUT       ­ASSR
+\l I gave manioc to you.
+
+\t a­        sa       ­n           ­ntal               ­i
+\m a­        sa       ­n           ­ntal               ­i
+\g to see ­VS         ­PRET   NEUT         ­ASSR
+\l S/he saw it and caught      it.
+
+\t osa      ­n
+\m osa      ­n
+\g to give ­VS
+\l Give it to her/him/it.
+
+\t pi­              ma­     taw               ­i         ­telon
+\m pi­              ma­     taw               ­i         ­telon
+\g 1SUBJ PL­        2O BJ­ to cut             ­VS        ­FUT EV
+\l We are going to cut you.
+
+\t Gabliel    ikameyna          ay        ­i       ­telon
+\m Gabliel    ikameyna          ay        ­i       ­telon
+\g Gabriel    tomorrow          to go     ­V   S   FUT EV
+\l Gabriel   is going out tomorrow.
+
+\t towali way ulu ­k            ip        ­a       ­datinan
+\m towali way ulu ­k            ip        ­a       ­datinan
+\g 1SUBJ dog      ­O      BJ    to see    ­V S     ­PRET EV
+\l I saw a dog.
+
+\t yowla ­mi         ta­ taw                 ­i        ­dana
+\m yowla ­mi         ta­ taw                 ­i        ­dana
+\g knife ­REF 1O BJ­ to cut                  ­VS       ­PRESEV
+\l A knife cut me.
+
+\t Josi    manala ­k           hop                     ­a        datinan
+\m Josi    manala ­k           hop                     ­a        datinan
+\g Josi    sieve ­O      BJ    to weave                ­V S      ­PRET EV
+\l Josi made a sieve.
+
+\t uli    matowla              ­k            yow     ­a          ­datinan
+\m uli    matowla              ­k            yow     ­a          ­datinan
+\g 2SUBJ pestle                ­O  BJ        to make ­V   S      ­PRET EV
+\l You made a pestle.
+
+\t Manoel          ­mi         ilakan ­i               ­dana
+\m Manoel          ­mi         ilakan ­i               ­dana
+\g Manoel          ­REF        to work ­V       S      ­PRES EV
+\l Manoel works.
+
+\t Manoel          ilakan ­i                 ­dana
+\m Manoel          ilakan ­i                 ­dana
+\g Manoel          to work ­V      S         ­PRES  EV
+\l Manoel works.
+
+\t uli     kal      ­i       ­say            ­dana               gabliel ­ka
+\m uli     kal      ­i       ­say            ­dana               gabliel ­ka
+\g 2SUBJ to cut ­VS          ­PRO      G     ­PRES EV            Gabriel ­O BJ
+\l You are cutting Gabriel.
+
+\t iwnua ­k           ano               ­n       ­mina          ­al                ­i   
+\m iwnua ­k           ano               ­n       ­mina          ­al                ­i   
+\g star    ­O BJ      much/many         ­V S     ­N EG          ­PRES NEUT         ­ASSR
+\l There are few   stars.
+
+\t bala    ­n       ­al                  ­i
+\m bala    ­n       ­al                  ­i
+\g DUAL    ­VS      ­PR  ES NEUT         ­ASSR
+\l There are two.
+
+\t amayl ­i          ­al                 ­i
+\m amayl ­i          ­al                 ­i
+\g to rain ­V   S    ­PR ES NEUT         ­ASSR
+\l It rains.
+
+\t da­      kiliwa ­mali
+\m da­      kiliwa ­mali
+\g 1PO SS­ house ­REF
+\l This is my house.
+
+\t Manoel          kiliwa ­mali
+\m Manoel          kiliwa ­mali
+\g Manoel          house ­REF
+\l Manoel has a house.
+
+\t Manoel          alisin ­n            ip        ­i       ­datinan
+\m Manoel          alisin ­n            ip        ­i       ­datinan
+\g Manoel          to jump ­V    S      to run    ­V S     ­PRET EV
+\l Manoel ran and jumped.
+
+\t towali alisin ­n             t­     iney       ­i          ­ntal            ­i       
+\m towali alisin ­n             t­     iney       ­i          ­ntal            ­i       
+\g 1SUBJ to jump ­V      S      1O BJ­ to fall    ­VS         ­PRET NEUT       ­A    SSR
+\l I jumped and fell.
+
+\t towali wola ilul                  ­i        iney     ­i        ­dana
+\m towali wola ilul                  ­i        iney     ­i        ­dana
+\g 1SUBJ a lot       to eat          ­V  S     to drink ­V S      ­PRESEV
+\l I eat and drink a lot.
+
+\t uli       ip       ­a             ­mina ­ntal                  ­i
+\m uli       ip       ­a             ­mina ­ntal                  ­i
+\g 1SUBJ to run ­VS                  ­PRET NEUT                   ­A   SSR
+\l I run harder than you.
+
+\t ileypelu         ilul      ­i        ­tapanal            ­i
+\m ileypelu         ilul      ­i        ­tapanal            ­i
+\g toda y/now       to eat    ­V  S     ­FUT NEUT           ­ASSR
+\l S/he will eat now.
+
+\t ileypelu           amayl ­i          ­al                 ­a
+\m ileypelu           amayl ­i          ­al                 ­a
+\g toda y/now         to rain ­V  S     ­PR ES NEUT         ­INT
+\l Is it raining today?
+
+\t ileypelu           kamayki           ­n        ­al                  ­i
+\m ileypelu           kamayki           ­n        ­al                  ­i
+\g toda y/now         to dry            ­V  S     ­PR ES NEUT          ­ASSR
+\l It is the dry season now.
+
+\t ileytika         wola nan            ­n        ­datinan
+\m ileytika         wola nan            ­n        ­datinan
+\g yesterda y       a lot     to cr y   ­V  S     ­PRET EV
+\l Yesterday, s/he cried a lot.
+
+\t daliwulu         tamay m­        anasi         yey      ­i         ­dana
+\m daliwulu         tamay m­        anasi         yey      ­i         ­dana
+\g hat              over    2PO SS­ head          stay     ­V S       ­PRESEV
+\l The hat must stay above your head.
+
+\t sukwin ilul          ­a           ­ntal              ­i
+\m sukwin ilul          ­a           ­ntal              ­i
+\g little   to eat ­V       S        ­PRET  NEUT        ­ASSR
+\l S/he ate a little.
+
+\t towali sukwin ilul                ­a        ­ntal               ­i
+\m towali sukwin ilul                ­a        ­ntal               ­i
+\g 1SUBJ little      to eat          ­V  S     ­PRET NEUT          ­ASSR
+\l I ate a little.
+
+\t kolu kolu                  sukwin ­takata                 ­mi
+\m kolu kolu                  sukwin ­takata                 ­mi
+\g (a pair of) scissors       little ­CL: LON    G           ­REF
+\l small scissors
+
+\t apia wa        sukwin ­tiawa                   ­mi
+\m apia wa        sukwin ­tiawa                   ­mi
+\g wooden bark    little ­CL: BAR      K          ­REF
+\l small wooden bark
+
+\t wola amayl ­i              ­al                 ­i
+\m wola amayl ­i              ­al                 ­i
+\g a lot     to rain ­V  S    ­PR ES NEUT         ­ASSR
+\l It rains a lot.
+
+\t towali wola ayp        ­i            ­datinan
+\m towali wola ayp        ­i            ­datinan
+\g 1SUBJ a lot     to dig ­V       S    ­PRET EV
+\l I dug a lot.
+
+\t iwnua ­k           ano                ­n         ­mina         ­al                ­i   
+\m iwnua ­k           ano                ­n         ­mina         ­al                ­i   
+\g star    ­O BJ      much/many          ­V S       ­N EG         ­PRES NEUT         ­ASSR
+\l There are few   stars.
+
+\t amulu ­n         ­al                  ­i
+\m amulu ­n         ­al                  ­i
+\g onl y    ­VS     ­PR  ES NEUT         ­ASSR
+\l There is only one!
+
+\t bala      ­n         ­al                ­i
+\m bala      ­n         ­al                ­i
+\g DUAL      ­V  S      ­PR ES NEUT        ­ASSR
+\l It is two.
+
+\t ­al                  ­i
+\m ­al                  ­i
+\g ­PRES NEUT           ­ASSR
+\l My arrow has      a sharp point.
+
+\t iney    ­i       ­ntal              ­a
+\m iney    ­i       ­ntal              ­a
+\g to fall ­VS      ­PRET    NEUT      ­INT
+\l Did s/he fall?
+
+\t nan     ­i      ­ntal                  ­a
+\m nan     ­i      ­ntal                  ­a
+\g to cr y ­VS     ­PRET   NEUT           ­INT
+\l Did s/he cry?
+
+\t nan     ­i      ­np                    ­a
+\m nan     ­i      ­np                    ­a
+\g to cr y ­VS     ­PRET   NEUT I NF      ­INT
+\l Did s/he cry?
+
+\t towali ay        ­i           ­al                   ­i
+\m towali ay        ­i           ­al                   ­i
+\g 1SUBJ to go ­VS               ­PR ES NEUT           ­ASSR
+\l Yes, I am leaving.
+
+\t towali ay        ­i           ­dana
+\m towali ay        ­i           ­dana
+\g 1SUBJ to go ­VS               ­PRES      EV
+\l Yes, I am leaving.
+
+\t ­al              ­a
+\m ­al              ­a
+\g ­PRES NEUT       ­INT
+\l Whose house is it?
+
+\t ­al               ­a
+\m ­al               ­a
+\g ­PRES NEUT        ­INT
+\l Where do you   sleep ?
+
+\t ­a
+\m ­a
+\g ­INT
+\l How did you catch it?
+
+\t ­i     ­al              ­a
+\m ­i     ­al              ­a
+\g ­VS    ­PRES NEUT       ­INT
+\l What do you have in mind?
+

@@ -1,0 +1,395 @@
+\t ni     ím s                             s éni .
+\m ni     ím s                             s éni .
+\g AUX walk            DET                 woman:NOM
+\l The womanwalked'.
+
+\t ni     cám kw         nikw                     kw    smént
+\m ni     cám kw         nikw                     kw    smént
+\g AUX go.up DET uncle:NOM DAT                    DET    mountain
+\l Uncle went up into themountains'.
+
+\t ni     q' w lt s                     s éni     t           scé. t n.
+\m ni     q' w l-t- s                     s éni     t           scé. t n.
+\g AUX bake-TR-ERG:3         DET           woman:NOM DET         salmon:NOM
+\l The woman baked thesalmon'.
+
+\t ni       cn            q' wáqwt              kw     nsáp l.
+\m ni       cn            q' wáqw-t              kw     n-sáp l-.
+\g AUX NOM:1              club-TR          DAT    DET    GEN:2-shovel-PAST
+\l I hit him with yourshovel'.
+
+\t ni      cn          q' wál                    kw    ntél .
+\m ni      cn          q' wál                    kw    n-tél .
+\g AUX NOM:I           speak               DAT   DET    GEN:I-money
+\l I spoke about mymoney'.
+
+\t kw     púkw'              John
+\m kw     púkw-'              John
+\g DET book-GEN:3 DAT              John
+\l John's book
+
+\t Ni                t´ s´plíl æ sæ /
+\m Ni                t´ s´plíl æ sæ /
+\g AUX baked-3ERG the bread the woman
+\l The woman baked the bread
+
+\t ni7 cPn qw PlPt3 tT P
+\m ni7 cPn qw Pl-Pt3 tT P
+\g aux 1sub bake-tr det             salmon
+\l I barbecued the salmon.
+
+\t ni7 cPn 7PmPtstPxw lP sleni7.
+\m ni7 cPn 7PmPt-stPxw lP sleni7.
+\g aux 1sub sit-csþ3obj det woman
+\l I had the woman sit down.
+
+\t ni7 7imPs tT P swiwlPs.
+\m ni7 7imPs tT P swiwlPs.
+\g aux walk det boy
+\l The boy walked.
+
+\t                             tT P swiwlPs.
+\m                             tT P swiwlPs.
+\g aux 1sub walk-csþ3obj det boy
+\l I made the boy walk.
+
+\t ni7 qw PlPtPs                  kw TP sPplil.
+\m ni7 qw Pl-Pt-Ps                  kw TP sPplil.
+\g aux bake-tr-3erg det woman det           bread
+\l The woman baked the bread.
+
+\t ni7 cPn qw PlPtstPxw                       (7P) kw TP        sPplil.7
+\m ni7 cPn qw Pl-Pt-stPxw                       (7P) kw TP        sPplil.7
+\g   aux 1sub bake-tr-csþ3obj det woman obl det                   bread   
+\l I had the woman bake the bread.
+
+\t ni7 qw PlPm8 TP sleni7       7P tT P sPplil.9
+\m ni7 qw Pl-Pm8 TP sleni7       7P tT P sPplil.9
+\g aux bake-mid det woman obl det bread
+\l The woman baked the bread.
+
+\t ni7 cPn qw PlPmstPxw         TP sleni7      7P tT P
+\m ni7 cPn qw Pl-Pm-stPxw         TP sleni7      7P tT P
+\g aux 1sub bake-mid-csþ3obj det woman obl det             bread
+\l I made the woman bake the bread.
+
+\t ni7 kw PlPsTPt lP Mary.10
+\m ni7 kw PlPs-TPt lP Mary.10
+\g aux shoot-ref      det Mary
+\l Mary shot herself.
+
+\t ni7 cPn kw PlPsTPtstPxw        lP Mary.
+\m ni7 cPn kw PlPs-TPt-stPxw        lP Mary.
+\g aux 1sub shoot-ref-csþ3obj det Mary
+\l I made Mary shoot herself.
+
+\t ni7 qw PlPtPm tT P sPplil 7P TP sleni7.
+\m ni7 qw Pl-Pt-Pm tT P sPplil 7P TP sleni7.
+\g aux bake-tr-mid det bread obl det woman
+\l The bread was baked by the woman.
+
+\t ni7 cPn qw PlPtPmstPxw          tT P sPplil 7P
+\m ni7 cPn qw Pl-Pt-Pm-stPxw          tT P sPplil 7P
+\g   aux 1sub bake-tr-mid-csþ3obj det bread obl            det woman
+\l I made the bread be baked by the woman.
+
+\t ni7 nP7emstPxw lP sleni         kw TP     pukws.
+\m ni7 nP7em-stPxw lP sleni         kw TP     pukw-s.
+\g aux go-csþ3obj det woman det               book-3pos
+\l The woman took her book.
+
+\t ni7 cPn nP7emst(Pxw )stPxw        lP    sleni   (7P) kw TP       pukws.  
+\m ni7 cPn nP7em-st(Pxw )-stPxw        lP    sleni   (7P) kw TP       pukw-s.  
+\g  aux 1sub go-cs(þ3obj)-csþ3obj det       woman     obl det         book-3pos
+\l I had the woman take her book.
+
+\t ni7    qw PlPmstPm  TP sleni7    7P tT P sPplil.
+\m ni7    qw Pl-Pm-st-Pm  TP sleni7    7P tT P sPplil.
+\g aux    bake-mid-cs-mid det woman obl det bread
+\l The   woman was made to bake the bread.
+
+\t                           12   7P    tT P       }
+\m                           12   7P    tT P       }
+\g aux 1sub walk-cs-mid           obl   det    boy
+\l I made the boy walk.
+
+\t ni7    }              lP sleni7/lP    Mary.
+\m ni7    }              lP sleni7/lP    Mary.
+\g aux    bathe-baby det woman/det Mary
+\l The   woman/Mary bathed the baby.
+
+\t ni7    }                lP sleni7/*lP    Mary lP qeq.
+\m ni7    }                lP sleni7/*lP    Mary lP qeq.
+\g aux    bathe-tr-3erg det woman/*det Mary det baby
+\l The   woman/*Mary bathed the baby.
+
+\t              }
+\m              }
+\g aux 1sub comfort-child-cs
+\l I had him comfort the child.
+
+\t ni7 cPn 7PmPtstPnPq.
+\m ni7 cPn 7PmPt-st-PnPq.
+\g aux 1sub sit down-cs-people
+\l I sat the people down.
+
+\t ni7 7imPsstPnPq kw TP John.
+\m ni7 7imPs-st-PnPq kw TP John.
+\g aux walk-cs-people det      John
+\l John made someone/people walk.
+
+\t ni7 lxilPsstPnPq kw TP lPplit.
+\m ni7 lxilPs-st-PnPq kw TP lPplit.
+\g aux stand-cs-people det      priest
+\l The priest made the people stand up.
+
+\t ni7 qPqPma7steyPl        lP sleni7.
+\m ni7 qPqPma7-st-eyPl        lP sleni7.
+\g aux take.breast-cs-child det woman
+\l The woman breastfed a child.
+
+\t ni7 cPn lxilPsstPnPqstPxw .
+\m ni7 cPn lxilPs-st-PnPq-stPxw .
+\g aux 1sub stand-cs-people-csþ3obj
+\l I made him stand the people up.
+
+\t ni7 qPqPma7steyPlstPxwPs           lP                            n Ps    lP Mary.
+\m ni7 qPqPma7-st-eyPl-stPxw-Ps           lP                            n Ps    lP Mary.
+\g aux take.breast-cs-child-csþ3obj-3erg det                             nurse   det Mary
+\l The nurse had Mary breastfeed the child.
+
+\t ni7 kw PlPsTPt lP Mary.
+\m ni7 kw PlPs-TPt lP Mary.
+\g aux shoot-ref     det Mary
+\l Mary shot herself (on purpose).
+
+\t ni7 kw PlPsnamPt lP Mary.
+\m ni7 kw PlPs-namPt lP Mary.
+\g aux shoot-l.c.ref     det Mary
+\l Mary shot herself (accidentally).
+
+\t ni7 cPn kw PlPsTPtstPxw         lP Mary.
+\m ni7 cPn kw PlPs-TPt-stPxw         lP Mary.
+\g aux 1sub shoot-ref-csþ3obj        det Mary
+\l I made Mary shoot herself.
+
+\t ni7 cPn lxilPss(t)TPt.
+\m ni7 cPn lxilPs-s(t)-TPt.
+\g  aux 1sub stand-cs-ref
+\l I made myself stand up.
+
+\t ni7 cPn lxilPsnamPt.
+\m ni7 cPn lxilPs-namPt.
+\g aux 1sub stand-l.c.ref
+\l I managed to stand up.
+
+\t pasPtstPnamPt }
+\m pas-Pt-stP-namPt }
+\g hit-tr-cs-l.c.ref
+\l pretend to hit him
+
+\t                 }
+\m                 }
+\g take o¤-tr-cs-l.c.ref
+\l pretend to take it o¤ 
+
+\t ni7 cPn kw PnPtstPnamPt.  }
+\m ni7 cPn kw Pn-Pt-stP-namPt.  }
+\g aux 1sub take-tr-cs-l.c.ref
+\l I pretended to take it.
+
+\t  }               }             }      }
+\m  }               }             }      }
+\g aux 2sub certain call-trþ1obj-cs-l.c.ref
+\l Come just pretend that you are telephoning me.
+
+\t }                        }
+\m }                        }
+\g punch-face-trþ1obj-mid-cs-l.c.ref
+\l He pretended to hit me in the face.
+
+\t ni7 kw PnPtPmstPnamPt 7PL     }      John.
+\m ni7 kw Pn-Pt-Pm-stP-namPt 7P-L     }      John.
+\g aux take-tr-mid-cs-l.c.ref      obl-det John
+\l John pretended to take it.
+
+\t                 }                }              }    John.
+\m                 }                }              }    John.
+\g aux quest help-trþ2objþmid-cs-l.c.ref obl-det John
+\l Did John just pretend to help you?
+
+\t ni7 cPn 7PltPnstPxwPstPnamPt tT P sqw Pmey.
+\m ni7 cPn 7PltPn-stPxw-PstP-namPt tT P sqw Pmey.
+\g aux 1sub eat-cs-cs-l.c.ref            det dog
+\l I pretended to feed the dog.
+
+\t ni7 7PmPtstPnPqstPnamPt. }
+\m ni7 7PmPt-st-PnPq-stP-namPt. }
+\g aux sit down-cs-people-cs-l.c.ref
+\l He pretended to seat people./He played usher.
+
+\t ni7 7itT}PmstPmstPnamPt}tT P mPnaya7l 7PL   }        Mary.
+\m ni7 7itT}Pm-st-Pm-stP-namPt}tT P mPnaya7l 7P-L   }        Mary.
+\g aux clothe-cs-mid-cs-l.c.ref det doll         obl-det     Mary
+\l Mary pretended to dress the doll.
+
+\t ni7 cPn 7imPss(t)Pm         7P
+\m ni7 cPn 7imPs-s(t)-Pm         7P
+\g  aux 1sub walk-cs-mid          obl   det boy
+\l I made the boy walk.
+
+\t ni7 cPn qw PlPlcPtPs                                kw TP          sPplil.
+\m ni7 cPn qw Pl-Plc-Pt-Ps                                kw TP          sPplil.
+\g aux 1sub bake-ben-trþ1obj-3erg det woman obl           det            bread  
+\l I baked the bread for the woman.
+
+\t ni7 cPn qw PlPlcPm 7P lP sleni7       7P kw TP
+\m ni7 cPn qw Pl-Plc-Pm 7P lP sleni7       7P kw TP
+\g   aux 1sub bake-ben-mid obl det woman obl det          bread
+\l I baked bread for the woman.
+
+\t ni7 cPn qw PlPtPmstPxw            tT P sPplil 7P TP sleni7.
+\m ni7 cPn qw Pl-Pt-Pm-stPxw            tT P sPplil 7P TP sleni7.
+\g   aux 1sub bake-tr-mid-csþ3obj det bread obl det woman
+\l I had the bread baked by the woman.
+
+\t ni7      kw PnPtPmstPnamPt}7PL    }      John.
+\m ni7      kw Pn-Pt-Pm-stP-namPt}7P-L    }      John.
+\g aux      take-tr-mid-cs-l.c.ref    obl-det John
+\l John    pretended to take it.
+
+\t ni7        cPn pasPTamP.
+\m ni7        cPn pas-PTamP.
+\g aux 1      sub hit-trþ2obj
+\l I hit   you.
+
+\t ni7      pasPTa:m.
+\m ni7      pas-PTa:m.
+\g aux      hit-trþ2objþintr
+\l You     were hit.
+
+\t ni7 7P       c         pasPtPm?
+\m ni7 7P       c         pas-Pt-Pm?
+\g  aux quest 2sub         hit-tr-mid
+\l Were you hit.
+
+\t                                          }    John.
+\m                                          }    John.
+\g aux take-trþ1obj-mid-cs-l.c.ref obl-det John
+\l John pretended to take me.
+
+\t ni7 kw PnPTelPmstPxw .
+\m ni7 kw Pn-PTel-Pm-stPxw .
+\g  aux take-trþ1obj-mid-csþ3obj
+\l He had him get me taken.
+
+\t ni7 qw}PlPts(t)Pm TP sleni7   (7P) tT P       sPplil
+\m ni7 qw}Pl-Pt-s(t)-Pm TP sleni7   (7P) tT P       sPplil
+\g  aux bake-tr-cs-mid det woman (obl) det           bread
+\l The woman was made to bake the bread.
+
+\t ni7 qw}PlPtPms(t)Pm tT P sPplil 7P TP sleni7.
+\m ni7 qw}Pl-Pt-Pm-s(t)-Pm tT P sPplil 7P TP sleni7.
+\g  aux bake-tr-mid-cs-mid det bread obl det woman
+\l The bread was made to be baked by the woman.
+
+\t lícxw yáyes?
+\m lí-cxw yáyes?
+\g do-2SG work.PROG
+\l Did you work?
+
+\t líc       sppk?
+\m lí-c       sppk?
+\g do-FUT float
+\l Will it float?
+
+\t i?     ha:qwt(*s)                                t    sqwmqwmé
+\m i?     ha:qw-t(*-s)                                t    sqwmqwmé
+\g   AUX      smell:CONT-TR:REC(-3ERG) DET dogs
+\l The dogs are smelling one another.
+
+\t  i?     ha:qwt(*s)                      t   sqwmqwmé
+\m  i?     ha:qw-t(*-s)                      t   sqwmqwmé
+\g AUX      smell:CONT-TR:REC(-3ERG) DET dogs
+\l The dogs are smelling one another.
+
+\t  ni?     ?ims     kw        swýqe?
+\m  ni?     ?ims     kw        swýqe?
+\g AUX      walk     DET         man
+\l The man walked.
+
+\t ni?      c n       ?imsstxw               t swils
+\m ni?      c n       ?ims-stxw               t swils
+\g   AUX      I SUB     walk-CS:TR:3OBJ       DET boy
+\l I made the boy walk.
+
+\t ni?        c n       qwltstxw                l      sleni?   (?)        kw         spíl 
+\m ni?        c n       qwl-tstxw                l      sleni?   (?)        kw         spíl 
+\g    AUX      I SUB     bake-TR-CS:TR:3OBJ        DET woman      OBL       DET        bread
+\l I had the woman bake the bread.
+
+\t Yéthestéxwchexw                                                    Upriver
+\m Yéthe-st-éxw-chexw                                                    Upriver
+\g tell-caus-3o-2sg.s
+\l You told him.
+
+\t Lstl'i                   kw'els           t'it'elem            Upriver
+\m L-stl'i                   kw'-el-s           t'it'elem            Upriver
+\g 1sg.poss-want             C/det-1sg.poss-nom sing.redup
+\l I want to sing.
+
+\t ni/ t'ít'´l'´m'                              Downriver
+\m ni/ t'ít'´l'-´m'                              Downriver
+\g aux be.singing-intrans
+\l There is someone singing.
+
+\t elstl'í      [kw'els                 (*li/*i) élhtel]           Upriver
+\m el-stl'í      [kw'-el-s                 (*li/*i) élhtel]           Upriver
+\g 1sg.poss      det/C-1sg.poss-nom        aux      eat
+\l I want to eat.
+
+\t stl'ís       [kw'es      (*li/*i)     élhtel   tútl'ò]
+\m stl'í-s       [kw'e-s      (*li/*i)     élhtel   tú-tl'ò]
+\g want-3poss det/C-nom aux                eat      det-3indep
+\l He wants to eat.
+
+\t ném@       c´n    [/´] t´        sp´@¬x&´n   Downriver
+\m ném@       c´n    [/´] t´        sp´@¬x&´n   Downriver
+\g go         I      obl art(mp) prairie/pasture
+\l I'm   going to    the pasture (not far and visible).
+
+\t ni§ §a:mdsám§sds                            §d          kw d        pukw
+\m ni§ §a:m-ds-ám§s-ds                            §d          kw d        pukw
+\g aux give-ADV-TR +1OBJ-3               ERG     obl         det         book
+\l He gave me the book.
+
+\t i?       ha:qwt(*s)                   t sqwmqwmé
+\m i?       ha:qw-t(*-s)                   t sqwmqwmé
+\g AUX      smell:CONT-TR:REC(-3ERG) DET dogs
+\l The dogs are smelling one another.
+
+\t l@kwx´ en
+\m l@kw-x´ en
+\g get.broken-leg
+\l break a leg
+
+\t t'T q'welw@st
+\m t'T q'w-elw@s-t
+\g punch-side-trans
+\l punch him on the side
+
+\t st'íòlúm
+\m s-t'íòlúm
+\g    NZR-sing
+\l a song
+
+\t l@kwx´
+\m l@kw-x´
+\g get.broken-leg
+\l break a leg
+
+\t t'T q'welw@st
+\m t'T q'w-elw@s-t
+\g punch-side-trans
+\l punch him on the side
+

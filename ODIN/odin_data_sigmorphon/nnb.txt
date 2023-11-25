@@ -1,0 +1,370 @@
+\t Yosefu aka ha            EBIkEnE       ByO Marya
+\m Yosefu a-ka- ha            EBIkEnE       ByO Marya
+\g J.AGR-TENSE-give yams               AGR M.
+\l Joseph is giving the yams to Mary.
+
+\t EBIhI ByO       Yosefu akaha (*ByO) Marya
+\m EBIhI ByO       Yosefu akaha (*ByO) Marya
+\g what CAGR J.gives (* AGR) M.
+\l What is Joseph giving to Mary?
+
+\t Yosefu aka ha      EBIkEnE       ByO Marya
+\m Yosefu a-ka- ha      EBIkEnE       ByO Marya
+\g J.AGR-TENSE-give yams               AGR M.
+\l Joseph is giving the yams to Mary.
+
+\t Monahere          omukali y'eritunda.
+\m Mo-n-a-h-ere          omukali y'-eritunda.
+\g Aff-1sS-T-give-ext woman.1 Lk.1-fruit.5
+\l I gave a fruit to a woman.
+
+\t Nagula      eritunda.
+\m N-a-gul-a      eritunda.
+\g 1sS-past-buy fruit
+\l I bought a fruit.
+
+\t Eritunda, narigula.
+\m Eritunda, n-a-ri-gul-a.
+\g fruit      1sS-past-OM-buy-FV
+\l The fruit, I bought it.
+
+\t Nguligula      ebitsungu, Kambale aluandibikuka.
+\m Ng-u-li-gul-a      ebitsungu, Kambale a-luandi-bi-kuk-a.
+\g if-2sS-npst-buy-FV potatoes   Kambale SM-FUT-OM-cook-FV
+\l If you buy potatoes, Kambale will cook them.
+
+\t Nguligula      ebitsungu, Kambale aluandikuka.
+\m Ng-u-li-gul-a      ebitsungu, Kambale a-luandi-kuk-a.
+\g if-2sS-npst-buy-FV potatoes     Kambale SM-FUT-cook-FV
+\l If you buy potatoes, Kambale will do the cooking.
+
+\t Na(*ri)gula     eritunda.
+\m N-a-(*ri)-gul-a     eritunda.
+\g 1sS-T-OM-buy-FV fruit
+\l I bought a fruit.
+
+\t Eritunda, na*(ri)gula.
+\m Eritunda, n-a-*(ri)-gul-a.
+\g fruit        1sS-T-OM-buy
+\l The fruit, I bought it.
+
+\t Omukali moasatire.
+\m Omukali mo-a-sat-ire.
+\g woman    AFF-3s/T-dance-EXT
+\l The woman danced.
+
+\t Moasatire       omukali.
+\m Mo-a-sat-ire       omukali.
+\g AFF-3s/T-dance-EXT woman
+\l The woman danced.
+
+\t Kambale agula         ebihi?
+\m Kambale a-gul-a         ebihi?
+\g Kambale SM/T-buy-FV what
+\l What did Kambale buy?
+
+\t Ebihi    Kambale    abigula?
+\m Ebihi    Kambale    a-bi-gul-a?
+\g What      Kambale    SM/T-OM-buy-FV
+\l What did Kambale buy?
+
+\t Omukali moagulire          *(e)kindu.
+\m Omukali mo-a-gul-ire          *(e)-kindu.
+\g woman    AFF-SM/T-buy-FV AUG-thing
+\l The woman bought something.
+
+\t Omukali moatetagula           kindu.
+\m Omukali mo-a-teta-gul-a           kindu.
+\g woman     AFF-SM-NEG/past-buy-FV thing
+\l The woman didn't buy anything.
+
+\t Kindu, omukali moatetakigula.
+\m Kindu, omukali mo-a-teta-ki-gul-a.
+\g thing      woman AFF-SM-NEG/PAST-OM-buy-FV
+\l Anything, the woman didn't buy it.
+
+\t Kambale moatundagulire.
+\m Kambale mo-a-tunda-gul-ire.
+\g Kambale AFF-3sS/T-fruit-buy-EXT
+\l Kambale bought (some) fruit.
+
+\t Monasenyesirie       Kambale y' olukwi.
+\m Mo-n-a-seny-es-irie       Kambale y' olukwi.
+\g AFF-1sS-T-chop-caus-EXT Kambale LK wood
+\l I made Kambale chop the wood.
+
+\t Mobanyibwire      bati   Kambale moagulire   eritunda.
+\m Mo-ba-nyi-bw-ire      ba-ti   Kambale mo-a-gul-ire   eritunda.
+\g AFF-3pS-1sO-tell-EXT 3p-that Kambale AFF-3sS-buy-EXT fruit.
+\l They told me that Kambale bought fruit.
+
+\t EkIhI kyO     Mary 'akalangIra       t?
+\m EkIhI kyO     Mary 'a-ka-langIra       t?
+\g what.7 Comp.7 Mary.1 AGR.1-Pres-see
+\l What does Mary see?
+
+\t aBahI BO      Yosefu alangIra t?
+\m aBahI BO      Yosefu alangIra t?
+\g who.2 Comp.2 Joseph.1 saw
+\l Who did Joseph see?
+
+\t IyOndI y'        t akalangIra          Marya?
+\m IyOndI y'        t a-ka-langIra          Marya?
+\g     who.1 Comp.1 AGR.1-Pres-see-Mary
+\l Who sees Mary?
+
+\t IyOndI y'      t UkalangIra          Marya?
+\m IyOndI y'      t U-ka-langIra          Marya?
+\g who.1 Comp.1 AGR.1-Pres-see-Mary
+\l Who sees Mary?
+
+\t EBIhI Byo         Yosefu akaha t Byo Marya?
+\m EBIhI Byo         Yosefu akaha t Byo Marya?
+\g      what.8 Comp.8 Joseph gives AGR.8 Mary
+\l What is Joseph giving to Mary?
+
+\t EBIhI Byo      Yosefu akaha t Marya?
+\m EBIhI Byo      Yosefu akaha t Marya?
+\g what.8 Comp.8 Joseph gives Mary
+\l What is Joseph giving to Mary?
+
+\t EkIhI kyabya         EkyO Mary 'alangIra        t?
+\m EkIhI ky-a-bya         EkyO Mary 'alangIra        t?
+\g what.7 AGR.7-Past-be Comp.7 Mary.1 AGR.1-Past-see
+\l What was it that Mary saw?
+
+\t EkItabU kyO   Mary 'alangIra t
+\m EkItabU kyO   Mary 'alangIra t
+\g book.7 Comp.7 Mary saw
+\l The BOOK Mary saw.
+
+\t Yosefu akayenda.
+\m Yosefu a-ka-yenda.
+\g Joseph.1 AGR.1-Pres-leave
+\l Joseph is leaving.'       subject
+
+\t aBahI BO      Yosefu alangIra t?
+\m aBahI BO      Yosefu alangIra t?
+\g who.2 Comp.2 Joseph.1 saw
+\l Who did Joseph see?
+
+\t IyOndI y'        t akalangIra          Marya?
+\m IyOndI y'        t a-ka-langIra          Marya?
+\g     who.1 Comp.1 AGR.1-Pres-see-Mary
+\l Who sees Mary?
+
+\t IyOndI y'      t UkalangIra          Marya?
+\m IyOndI y'      t U-ka-langIra          Marya?
+\g who.1 Comp.1 AGR.1-Pres-see-Mary
+\l Who sees Mary?
+
+\t EBIhI Byo         Yosefu akaha t Byo Marya?
+\m EBIhI Byo         Yosefu akaha t Byo Marya?
+\g      what.8 Comp.8 Joseph gives AGR.8 Mary
+\l What is Joseph giving to Mary?
+
+\t EBIhI Byo      Yosefu akaha t Marya?
+\m EBIhI Byo      Yosefu akaha t Marya?
+\g what.8 Comp.8 Joseph gives Mary
+\l What is Joseph giving to Mary?
+
+\t EkIhI kyabya         EkyO Mary 'alangIra        t?
+\m EkIhI ky-a-bya         EkyO Mary 'alangIra        t?
+\g what.7 AGR.7-Past-be Comp.7 Mary.1 AGR.1-Past-see
+\l What was it that Mary saw?
+
+\t EkItabU kyO   Mary 'alangIra t
+\m EkItabU kyO   Mary 'alangIra t
+\g book.7 Comp.7 Mary saw
+\l The BOOK Mary saw.
+
+\t Yosefu akaha ki     kyo Marya?
+\m Yosefu akaha ki     kyo Marya?
+\g Joseph gave what.7 Agr.7 Mary
+\l What did Joseph give to Mary?
+
+\t (E)kindu,       omukali           moatetakigula.
+\m (E)-ki-ndu,       omukali           mo-a-teta-ki-gula.
+\g  (AU G)-C L7-thing C L1.woman A FF-C L1-N E G / P S T-CL   7-buy
+\l Anything, the woman didn't buy.
+
+\t Eritunda ryo      Kambale agula.
+\m Eri-tunda ry-o      Kambale a-gul-a.
+\g 5-fruit      5-foc Kambale.1 1S/T-buy-fv.
+\l It's fruit that Kambale bought.
+
+\t Ryo Kambale agula.
+\m Ry-o Kambale a-gul-a.
+\g 5-foc Kambale 1S/T-buy-fv.
+\l It's it (a fruit already discussed) that Kambale bought.
+
+\t Eritunda, monabwire       Kambale nyiti ryo nagula.
+\m Eritunda, mo-n-a-bw-ire       Kambale nyi-ti-- ry-o n-a-gul-a.
+\g fruit       aff-1sS-T-tell-fv Kambale 1s-that 5-foc 1sS-T-buy-fv
+\l The fruit, I told Kambale that it's it that I bought.
+
+\t Omukali moasenyire        olukwi     (lw'omombasa).
+\m Omukali mo-a-seny-ire        olukwi     (lw'-omo-mbasa).
+\g woman.1 AFF-1S/T-chop-EXT wood.11 LK11-LOC.18-axe.9
+\l The woman chopped wood (with an axe).
+
+\t Abakali     ba[a]gula    eritunda.
+\m Abakali     ba-[a]-gul-a    eritunda.
+\g woman.2     2S-T-buy-FV fruit.5
+\l The woman bought a fruit.
+
+\t Okomesa       kwahirawa     ehilanga.
+\m Oko-mesa       kw-a-hir-aw-a     ehilanga.
+\g LOC.17-table 17S-T-put-PASS-FV peanuts.19
+\l On the table were put peanuts.
+
+\t Mohatetasata                mukali (omosoko).
+\m Mo-ha-teta-sat-a                mukali (omo-soko).
+\g AFF-there-NEG/PAST-dance-FV woman.1 LOC.18-market
+\l No woman danced in the market.
+
+\t Omukali moasatire             (omosoko).
+\m Omukali mo-a-sat-ire             (omo-soko).
+\g woman    AFF-1S/T-dance-EXT LOC.18-market
+\l The woman danced in the market.
+
+\t Abakali ni/balue    bakuhi.
+\m A-ba-kali ni/ba-lue    ba-kuhi.
+\g 2-women PRED/2-were 2-short
+\l The women are short.
+
+\t abakali bakuhi
+\m a-ba-kali ba-kuhi
+\g 2-women 2-short
+\l the short women
+
+\t Mobanyibwire bati Kambale moagulire      eritunda.
+\m Mo-ba-nyi-bw-ire ba-ti Kambale mo-a-gul-ire      eritunda.
+\g Aff-2-1sO-tell-Ext 2-that Kambale AFF-1-buy-Ext fruit
+\l They told me that Kambale bought fruit.
+
+\t Monalayirire         Kambale indi        agule amatunda.
+\m Mo-n-a-layir-ire         Kambale in-di        a-gul-e amatunda.
+\g Aff-1sS-T-convince-Ext Kambale.1 1sS-that 1S-buy-Subj fruits.6
+\l I convinced Kambale that he should buy fruits.
+
+\t Ekihi kyo    Kambale akubwira         ati   nagula?
+\m Eki-hi ky-o    Kambale a-ku-bwir-a         a-ti   n-a-gul-a?
+\g 7?-what 7-FOC Kambale 1S/T-2sO-tell-FV 1-that/say 1sS-T-buy-FV
+\l What did Kambale tell you that I bought?
+
+\t Eritunda ryo         naha         omukali.
+\m Eritunda ry-o         n-a-h-a         omukali.
+\g fruit.5 5-FOC 1sS-T-give-FV woman.1
+\l It's a fruit that I gave to a woman.
+
+\t Amatunda w' omukali agula.
+\m Amatunda w' omukali agula.
+\g Fruits.6 6 1.woman bought
+\l It's fruits that the woman bought.
+
+\t Ebihi byo Kambale agula?
+\m Ebi-hi by-o Kambale a-gul-a?
+\g x-what x-FOC Kambale 3sS/T-guy-FV
+\l What did Kambale buy?
+
+\t Uti/*biti Kambale   agula     ebihi?
+\m Uti/*bi-ti Kambale   a-gul-a     ebi-hi?
+\g Q/x-Q      Kambale.1 1S/T-buy-FV x-what
+\l What did Kambale buy?
+
+\t Abakali      bakuhi
+\m Aba-kali      ba-kuhi
+\g CL2-woman CL2-short
+\l a/the short woman
+
+\t Thin'       abakhulu       siyakhuluma.
+\m Thin'       aba-khulu       si-yakhuluma.
+\g we CL2-big 1pS-be.speaking 1p-big
+\l We big ones are speaking.
+
+\t abakali bosi; amatunda wosi
+\m aba-kali b-osi; amatunda w-osi
+\g 2-woman 2-all 6-fruit        6-all
+\l all the women
+
+\t Kambale       akakanaya       na(*bo) abasyakulu
+\m Kambale       a-ka-kanay-a       na-(*bo) abasyakulu
+\g Kambale       3sS-Pres-speak-FV with-2 2.old.people
+\l Kambale is speaking with the old people.
+
+\t Abasyakulu sibalikanibawa         nabo.
+\m Abasyakulu si-ba-li-kan-ibaw-a         na-bo.
+\g 2.old.people neg-2S-Pres-speak-pass-fv with-2
+\l Old people are not spoken with.
+
+\t Eritunda, na*(ri)gula.
+\m Eritunda, n-a-*(ri)-gul-a.
+\g fruit.5 1sS-T-OM5-buy-FV
+\l The fruit, I bought it.
+
+\t Monahirire          okugulu k' omokihuna.
+\m Mo-n-a-hir-ire          okugulu k' omo-kihuna.
+\g AFF-1sS-T-put-EXT leg.15 LK.15 LOC.18-hole.7
+\l I put the leg in the hole.
+
+\t Kambale asengera           omwami y'ehilanga.
+\m Kambale a-seng-er-a           omwami y'-ehilanga.
+\g Kambale 1S/T-pack-Appl-Fv chief.1 Lk.1 peanuts.19
+\l Kambale packed peanuts for the chief.
+
+\t Monahirire         omokihuna m'okugulu.
+\m Mo-n-a-hir-ire         omo-kihuna m'-okugulu.
+\g Aff-1sS-T-put-Ext Loc.18-hole.7 Lk.18 leg.15
+\l I put the leg in the hole.
+
+\t Kambale asengera           ehilanga  hy'omwami.
+\m Kambale a-seng-er-a           ehilanga  hy'-omwami.
+\g Kambale 1S/T-pack-Appl-Fv peanuts.19 Lk.19 chief.1
+\l Kambale packed peanuts for the chief.
+
+\t Abakali babya bakagula      amatunda
+\m Abakali ba-bya ba-ka-gul-a      amatunda
+\g women.2 2S-were 2S-PCPL-buy-FV fruits.6
+\l The women were buying fruits.
+
+\t Túlwé túkálya.
+\m Tú-lwé tú-ká-ly-a.
+\g 1pS-leave 1pS-PCPL-eat-FV
+\l We were eating.
+
+\t Alinga abakali mobagendire.
+\m A-li-nga aba-kali mo-ba-gend-ir-e.
+\g 1S-be-if 2-woman AFF-2S-go-EXT-FV
+\l It seems that the women have left.
+
+\t Abakali balinga mobagendire.
+\m Aba-kali ba-li-nga mo-ba-gend-ir-e.
+\g 2-women 2S-be-if AFF-2S-go-EXT-FV
+\l The women seem to have left.
+
+\t Balinga abakali mobagendire.
+\m Ba-li-nga aba-kali mo-ba-gend-ir-e.
+\g 2agr-be-if 2-woman AFF-2agr-go-EXT-FV
+\l It seems that the women have left.
+
+\t Mobanyibwire bati Kambale moagulire     eritunda.
+\m Mo-ba-nyi-bw-ire ba-ti Kambale mo-a-gul-ire     eritunda.
+\g Aff-2-1sO-tell-Ext 2-that Kambale AFF-1-buy-Ext fruit
+\l They told me that Kambale bought fruit.
+
+\t Monalayirire         Kambale indi        agule amatunda.
+\m Mo-n-a-layir-ire         Kambale in-di        a-gul-e amatunda.
+\g Aff-1sS-T-convince-Ext Kambale.1 1sS-that 1S-buy-Subj fruits.6
+\l I convinced Kambale that he should buy fruits.
+
+\t Monalayirire         Kambale      indi      agule      amatunda.
+\m Mo-n-a-layir-ire         Kambale      in-di      a-gul-e      amatunda.
+\g Aff-1sS-T-convince-Ext Kambale.1 1sS-that 1S-buy-Subj fruits.6
+\l I convinced Kambale that he should buy fruits.
+
+\t imbiranisi,bua
+\m -imb-ir-an-isi,-bu-a
+\g -sing-APPL-REC-CAUS-PASS-FV
+\l be caused to sing for each other
+

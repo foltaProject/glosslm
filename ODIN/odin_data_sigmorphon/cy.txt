@@ -1,0 +1,980 @@
+\t ti           'n     licio sudd oren.
+\m ti           'n     licio sudd oren.
+\g [be+pres]2S PROG like juice orange
+\l You like orange juice.
+
+\t chi           ddim yn      licio sudd oren.
+\m chi           ddim yn      licio sudd oren.
+\g [be+pres]2PL not PROG like juice orange
+\l You don't like orange juice.
+
+\t Dw             i'n meddwl ti           'n   gwbod
+\m Dw             i'n meddwl ti           'n   gwbod
+\g Be.PRES.1SG I-PROG think [be+pres].2SG PROG know
+\l I think you know
+
+\t Dw           i'n     meddwl dadi 'n gwbod
+\m Dw           i'n     meddwl dadi 'n gwbod
+\g Be.PRES.1SG I-PROG think Daddy PROG know
+\l I think Daddy knowing
+
+\t Gweld y ci         y mae'r dyn
+\m Gweld y ci         y mae'r dyn
+\g See      the dog wh be-the man
+\l It is seeing the dog that the man is
+
+\t Dyma'r llyfraui [ a brynasant hwy [ei] [heb      wybod                  os                     byddai     [darllen [ei]] yn syniad da]]
+\m Dyma'r llyfraui [ a brynasant hwy [ei] [heb      wybod                  os                     byddai     [darllen [ei]] yn syniad da]]
+\g  here-the books wh bought they           without knowing                 whether               would-be read             prt idea good.
+\l Here are the books which they bought without knowing whether reading would be a good idea
+
+\t Dyma'r llyfraui [ a brynasant hwy [ei] [heb     wybod                  os              byddai      rhaid     iddynt [darllen [ei]]]]
+\m Dyma'r llyfraui [ a brynasant hwy [ei] [heb     wybod                  os              byddai      rhaid     iddynt [darllen [ei]]]]
+\g  here-the books wh bought they           without knowing                whether        would-be necessity to.3p read                
+\l Here are the books which they bought without knowing whether it would be necessary for them to read 
+
+\t Pwy a      ddywedodd beth?
+\m Pwy a      ddywedodd beth?
+\g who wh-prt saw        what
+\l Who saw what
+
+\t Beth a     ddywedodd pwy?
+\m Beth a     ddywedodd pwy?
+\g What wh-prt saw       who
+\l What saw who
+
+\t Redodd Siôn ddim i ffwrdd
+\m Redodd Siôn ddim i ffwrdd
+\g ran     John not away
+\l John didn't run away
+
+\t Mae [lle mae Siôn] [yn Llundain]
+\m Mae [lle mae Siôn] [yn Llundain]
+\g be where is John in London
+\l Where John is is in London
+
+\t [Yn Llundain] mae [lle mae Siôn]
+\m [Yn Llundain] mae [lle mae Siôn]
+\g in London     be where is John
+\l Where John is is IN LONDON
+
+\t [Niwsans iddo] ydy [beth ydy Siôn]
+\m [Niwsans iddo] ydy [beth ydy Siôn]
+\g Nuisance to-him be what is John
+\l What John is is A NUISANCE TO HIM
+
+\t [lle mae Siôn] sydd yn Llundain
+\m [lle mae Siôn] sydd yn Llundain
+\g where is John be in London
+\l WHERE JOHN IS is in London
+
+\t [Yn Llundain] ydy [lle mae Siôn]11
+\m [Yn Llundain] ydy [lle mae Siôn]11
+\g in London be where is John
+\l Where John is is in London
+
+\t y bachgen a            welodd y ci
+\m y bachgen a            welodd y ci
+\g  the boy        COMP saw.3sg the dog
+\l the boy who saw the dog
+
+\t y bachgen y           gwnaeth y ci ei weld
+\m y bachgen y           gwnaeth y ci ei weld
+\g the boy        COMP did.3sg    the dog he see
+\l the boy that the dog saw
+
+\t y bachgen a           welodd gi
+\m y bachgen a           welodd gi
+\g the boy        COMP saw.3sg dog
+\l the boy who saw a dog
+
+\t y bachgen a           welodd ci
+\m y bachgen a           welodd ci
+\g the boy        COMP saw.3sg dog
+\l the boy who a dog saw
+
+\t ...wedi eu        gweld nhw.
+\m ...wedi eu        gweld nhw.
+\g ASP       CL.3.PL see.PPT PRN.3.PL
+\l ...has seen them.
+
+\t Mi         ddistrywodd              Siôn   y      dref
+\m Mi         ddistrywodd              Siôn   y      dref
+\g PTCL.destroyed-3SGPST                     the    town
+\l John destroyed the town.
+
+\t distrywiad     Siôn o'r          dref
+\m distrywiad     Siôn o'r          dref
+\g destruction             of-the town.
+\l John's destruction of the town
+
+\t distrywiad     y        dref     gan      Siôn
+\m distrywiad     y        dref     gan      Siôn
+\g destruction the         town     by
+\l the destruction of the town by John
+
+\t ei      ddistrywiad o'r            dref
+\m ei      ddistrywiad o'r            dref
+\g his destruction of-the             town
+\l his destruction of the town
+
+\t ei distrywiad         gan       Siôn
+\m ei distrywiad         gan       Siôn
+\g its destruction       by
+\l its destruction by John
+
+\t Dolgellau  yn Nolgellau
+\m Dolgellau  yn Nolgellau
+\g Dolgellau  in Dolgellau
+\l In Dolgellau
+
+\t Wnaiff y   Rhufeiniaid ddistrywio            ein dinas.
+\m Wnaiff y   Rhufeiniaid ddistrywio            ein dinas.
+\g will   the Romans        destroy             our city
+\l The Romans will destroy our city.
+
+\t Gwelson nhw fi.
+\m Gwelson nhw fi.
+\g saw-3P they me
+\l They saw me.
+
+\t Ni         chaffodd ef   a'i              milwyr         eu    lladd yma
+\m Ni         chaffodd ef   a'i              milwyr         eu    lladd yma
+\g NEG got.3S          he   and-3SM          soldiers       3PL   kill   there
+\l He and his soldiers were not killed there
+
+\t Lladdodd y         ddraig     y       dyn.
+\m Lladdodd y         ddraig     y       dyn.
+\g killed     the     dragon     the     man
+\l The man killed the dragon.
+
+\t Mi welais        i        Megan.
+\m Mi welais        i        Megan.
+\g PRT saw          I        Megan
+\l I saw Megan.
+
+\t Mae      Aled yn         credu [y darllenith            Elen y      llyfr]
+\m Mae      Aled yn         credu [y darllenith            Elen y      llyfr]
+\g is        Aled PROG believe PRT read-FUT                Elen the    book
+\l Aled believes that Elen will read the book.
+
+\t Mi wnaeth            y      ceffyl fwyta'r        moron I gyd.
+\m Mi wnaeth            y      ceffyl fwyta'r        moron I gyd.
+\g PRT did              the horse eat the            carrots all
+\l The horse ate all   the carrots.
+
+\t Mi oedd John yn          chwerthin.
+\m Mi oedd John yn          chwerthin.
+\g PRT was John     in      laugh
+\l John was laughing.
+
+\t Mae      Mair      yn     gwybod [yr oedd John       yn   chwerthin]
+\m Mae      Mair      yn     gwybod [yr oedd John       yn   chwerthin]
+\g is       Mair      in     know PRT was John          in   laugh
+\l Mair knows that   John was laughing.
+
+\t Ni chiciodd      yr      bachgen y pel.
+\m Ni chiciodd      yr      bachgen y pel.
+\g NEG kicked       the boy         the ball
+\l The boy didn't kick the ball.
+
+\t Gwyddwn na          chiciodd       yr    bachgen       y   pel.
+\m Gwyddwn na          chiciodd       yr    bachgen       y   pel.
+\g I-know     NEG      kicked         the boy             the ball
+\l I know that the   boy didn't kick the ball.
+
+\t Petore paotred a    sonj deoc'h a      lenne (*lennent)                 al levrioù?
+\m Petore paotred a    sonj deoc'h a      lenne (*lennent)                 al levrioù?
+\g which boys COMP think to-1sg COMP read                                  the books  
+\l Which boys do you think read the books?
+
+\t Dw                 i'n                meddwl ti                  'n        gwbod
+\m Dw                 i'n                meddwl ti                  'n        gwbod
+\g Be.P R E S.1 S G 1 S G-P RO G   think [be+pres].2       S G P RO G   know
+\l I think you know.
+
+\t Dw                i'n      meddwl dadi 'n                   gwbod
+\m Dw                i'n      meddwl dadi 'n                   gwbod
+\g Be.P R E S.1 S G I-P RO G think Daddy P R             OG   know
+\l I think Daddy knowing.
+
+\t Roeddwn i ac Emyr yn ysgrifenwyr rhagorol.
+\m Roeddwn i ac Emyr yn ysgrifenwyr rhagorol.
+\g was-1S I and Emyr PT writers         excellent
+\l Emyr and I were excellent writers.
+
+\t Dw i a Gwenllian heb           gael ein talu.
+\m Dw i a Gwenllian heb           gael ein talu.
+\g am.1S I and Gwenllian without get 1PL pay
+\l Gwenllian and I have not been paid.
+
+\t Y bachgen a       oedd yn darllen
+\m Y bachgen a       oedd yn darllen
+\g the boy       who was a' readin'
+\l the boy who was reading
+
+\t dyma 'r llyfr y       darllenais y stori ynddo
+\m dyma 'r llyfr y       darllenais y stori ynddo
+\g here.is the book that read.1     the story in.it
+\l here is the book in which I read the story
+
+\t Gwelodd Gwen [ ], a rhybuddiodd Ifor, [y dyn].
+\m Gwelodd Gwen [ ], a rhybuddiodd Ifor, [y dyn].
+\g    saw           Gwen         and warned              Ifor     the man
+\l Gwen saw, and Ifor warned, the man.
+
+\t Gwelodd       Siôn   ddraig
+\m Gwelodd       Siôn   ddraig
+\g saw.John dragon
+\l John saw a dragon.
+
+\t Gwnaeth      Siôn   weld      draig
+\m Gwnaeth      Siôn   weld      draig
+\g do.3SG.PAST  John See.VN dragon
+\l John saw a dragon.
+
+\t ...wedi eu        gweld nhw.
+\m ...wedi eu        gweld nhw.
+\g ASP       CL.3.PL see.PPT PRN.3.PL
+\l ...has seen them.
+
+\t Gofynnodd Gwen [CP pwy (*bwy) a welodd               gath.]
+\m Gofynnodd Gwen [CP pwy (*bwy) a welodd               gath.]
+\g asked        G           who          Aff {L}-saw{L}-cat
+\l Gwen asked who saw a cat.
+
+\t Gofynydd Gwen        hynny a [CP phwy (=pwy)        a welodd gath ddu.]
+\m Gofynydd Gwen        hynny a [CP phwy (=pwy)        a welodd gath ddu.]
+\g  asked     G.that    & {S}-who             [+Wh] saw cat black
+\l Gwen asked that    and who saw a black cat.
+
+\t [ Gwelodd Gwen gath (=cath).]
+\m [ Gwelodd Gwen gath (=cath).]
+\g       saw      G.{L}-cat
+\l Gwen saw a cat.
+
+\t [   Gwelodd Gwen dair (=tair) cath.]
+\m [   Gwelodd Gwen dair (=tair) cath.]
+\g     saw     G.{L}-3.fem cat
+\l Gwen saw three cats.
+
+\t [ Gall Gwen weld (=gweld) cath.]
+\m [ Gall Gwen weld (=gweld) cath.]
+\g     Can G.{L}-see        cat
+\l Gwen can see a cat.
+
+\t [ GofynnoddGwen ][=CP pwy (*bwy) a welodd gath.]
+\m [ GofynnoddGwen ][=CP pwy (*bwy) a welodd gath.]
+\g asked       G             who        Aff {L}-saw{L}-cat
+\l Gwen asked who saw a cat.
+
+\t [ Gofynnodd      Gwen hynny ] [ [ a             phwy ] a welodd gath.]
+\m [ Gofynnodd      Gwen hynny ] [ [ a             phwy ] a welodd gath.]
+\g      asked       G        that        &         {S}-whoAff {L}-saw{L}-cat
+\l Gwen asked that and who saw a cat.
+
+\t [ Gofynnodd Gwen hynny ] [ [ a phwy ] a          welodd   gath.]
+\m [ Gofynnodd Gwen hynny ] [ [ a phwy ] a          welodd   gath.]
+\g      asked    G       that        & {S}-who [+Wh] {L}-saw {L}-cat
+\l Gwen asked that and who saw a cat.
+
+\t Gwelodd [         cath    a chi (=ci) NP]           ddraig (=draig)
+\m Gwelodd [         cath    a chi (=ci) NP]           ddraig (=draig)
+\g saw               cat     & {S}-dog                 dragon
+\l A cat and a     dog saw a dragon.
+
+\t u                      da~i~          hi~i~ jell              domb
+\m u                      da~i~          hi~i~ jell              domb
+\g pron.1.pl              house.pl       two see.PROG            comrade.PL
+\l Our two houses see   one another.
+
+\t Lladdodd y ddraig y dyn.
+\m Lladdodd y ddraig y dyn.
+\g killed   the dragon the man
+\l The dragon killed the man.
+
+\t Roedd y ddynes yn           prynu beic.
+\m Roedd y ddynes yn           prynu beic.
+\g was       the woman PROG buy-VN bike
+\l The woman was buying a bike.
+
+\t Wrth i Aled ddod                 allan, mi aeth           Mair i mewn.
+\m Wrth i Aled ddod                 allan, mi aeth           Mair i mewn.
+\g as     to A.come-VN out          PRT   went-3SG M.in
+\l As Aled came out, Mair went in.
+
+\t 'Rwy 'n       hoffi... ei gwmni a 'i wlad yn well na 'r                eiddot ti.
+\m 'Rwy 'n       hoffi... ei gwmni a 'i wlad yn well na 'r                eiddot ti.
+\g am PROG like.VN his company and his country PRD better than the        yours you 
+\l I like... his company and his country better than yours.
+
+\t ...nyt eydav vn tewyssav[c] e vudvgolyaeth namyn e gwyr                     a emlado                trostvnt.
+\m ...nyt eydav vn tewyssav[c] e vudvgolyaeth namyn e gwyr                     a emlado                trostvnt.
+\g     NEG EIDDO one prince          the victory        but     the men        REL fight.PRES.SUBJ.3S for-them  
+\l ...the victory is not a single prince's [property?] but the men who fight for them.
+
+\t Da i awen aeth              Duw yw          nol...
+\m Da i awen aeth              Duw yw          nol...
+\g good his muse go.PAST.3S God to+him fetch.VN...
+\l His muse [being] good, God went to fetch him...
+
+\t ...anfon kenad         I nol         gwrlais a      Orvc Uthr.
+\m ...anfon kenad         I nol         gwrlais a      Orvc Uthr.
+\g     send.VN messenger to fetch.VN Gwrlais PRT did Uthr
+\l ...Uthr sent a messenger to fetch Gwrlais.
+
+\t Nolwch          y Brenin i 'w examnio.
+\m Nolwch          y Brenin i 'w examnio.
+\g fetch.2P.IMPER the King to 3SM examine.VN
+\l Fetch the King to be cross-examined.
+
+\t ...gan      erchi yddo veddwl am               yr    awr nodedig i vyned      i hol           y daliad.
+\m ...gan      erchi yddo veddwl am               yr    awr nodedig i vyned      i hol           y daliad.
+\g     with ask.VN to.3SM think.VN about          the hour set       to go.VN    to fetch.VN his reward.  
+\l ...asking him to think about the hour set to go to collect his reward.
+
+\t Lladdodd                y ddraig             y dyn
+\m Lladdodd                y ddraig             y dyn
+\g killed                  the dragon           the man'
+\l The dragon killed    the man
+
+\t Gwelsant         (hwy) y         ferch.
+\m Gwel-sant         (hwy) y         ferch.
+\g   see-3PL.PAST    they     the girl
+\l They saw the girl.
+
+\t Gwelsant        y       plant      y      ferch.
+\m Gwel-sant        y       plant      y      ferch.
+\g   see-3PL.PAST    the children the girl
+\l The children saw the girl.
+
+\t Brynodd y dyn gar.
+\m Bryn-odd y dyn gar.
+\g buy-PAST the man car.
+\l The man bought a car.
+
+\t Euthum i a        Mair i'r   sinema.
+\m Euthum i a        Mair i'r   sinema.
+\g went     I with Mary to-the cinema
+\l I went with Mary to the movies.
+
+\t Disgwyliais i yr ennillai      John.
+\m Disgwyliais i yr ennillai      John.
+\g expected      I that would-win John
+\l I expected that John would win.
+
+\t Naeth y dyn brynu car.
+\m Naeth y dyn brynu car.
+\g did the man buy car
+\l The man did buy a car.
+
+\t Ac estyn       a     naeth Kollen i ben allan o 'i                 gvddigl...
+\m Ac estyn       a     naeth Kollen i ben allan o 'i                 gvddigl...
+\g and reach-VN PRT did        Collen his head out of his             cell      
+\l And Collen reached his head out of his cell...
+
+\t [VP Darllen y            llyfr]   a     wnaeth hi.
+\m [VP Darllen y            llyfr]   a     wnaeth hi.
+\g       read-VN the        book     PRT   did    she
+\l She read the book.
+
+\t [VP Astudio       yn     y     llyfrgell] y    bydd hi      heno.
+\m [VP Astudio       yn     y     llyfrgell] y    bydd hi      heno.
+\g       study-VN in        the library      PRT will-be she   tonight
+\l She'll be studying in   the library tonight.
+
+\t Ni   buasai       rai     ddim yn          derbyn y trydydd...
+\m Ni   buasai       rai     ddim yn          derbyn y trydydd...
+\g NEG  would-have some DDIM PROG accept-VN the third
+\l Some wouldn't have accepted the third...
+
+\t Ni bu              ar Fôr moi               chystled...
+\m Ni bu              ar Fôr moi               chystled...
+\g NEG was-PERF on sea MO+3SF-GEN like
+\l There was never its like on the sea...
+
+\t mi dewes i fy        spectol gartre
+\m mi dewes i fy        spectol gartre
+\g I left-1S I my glasses at-home
+\l I left my glasses at home.
+
+\t Ti      elli   di    fyn'd lle      gwelech    di  'n dda. ModW
+\m Ti      elli   di    fyn'd lle      gwelech    di  'n dda. ModW
+\g you can-2S you go            where see-2S-SUBJ you PRD good
+\l You can go wherever you please.
+
+\t Mi   welen     yno ffenest...
+\m Mi   welen     yno ffenest...
+\g MI   saw-3P there window
+\l They saw there a window...
+
+\t Fe    fydda      fi    bôb   Boreu   yn    gorfod                gweiddi...
+\m Fe    fydda      fi    bôb   Boreu   yn    gorfod                gweiddi...
+\g FE    will-be-1S I     every morning PROG have-to-VN             shout-VN  
+\l Every morning I'll have to shout...
+
+\t Dywedodd Steffan [i Nia baentio 'r llun].
+\m Dywedodd Steffan [i Nia baentio 'r llun].
+\g said         Steffan to Nia paint-VN the picture
+\l Steffan said that Nia had painted the picture.
+
+\t A     chyt archo         ytii     [PROi rodi      yr eil...]
+\m A     chyt archo         ytii     [PROi rodi      yr eil...]
+\g and though ask-SUBJ to-you                give-VN the second
+\l And though he ask you to give him the second...
+
+\t mae'r wal wedi dechrau [t disgyn]
+\m mae'r wal wedi dechrau [t disgyn]
+\g is.the wall perf begin          fall.nonfin
+\l the wall has begun to fall
+
+\t mae'n angenrheidiol [iddyn nhw/pro fynd]
+\m mae'n angenrheidiol [i-ddyn nhw/pro fynd]
+\g is-pred necessary        to-3pl they/pro go.nonfin
+\l it's necessary for them to go
+
+\t daeth y dyn [iddynt ei         gweld       hi]
+\m daeth y dyn [i-ddynt ei         gweld       hi]
+\g came the man to-3pl 3sgf see.nonfin her
+\l the man came so they could see her
+
+\t nad oedd yn           iawn [iddynt atal             y mab]
+\m nad oedd yn           iawn [i-ddynt atal             y mab]
+\g not was pred right to-3pl keep.nonfin the boy
+\l itwas notright for them tokeep theboy
+
+\t mae'n iawn i mi [iddyn (nhw) gael aros yn                    hirach]
+\m mae'n iawn i mi [i-ddyn (nhw) gael aros yn                    hirach]
+\g is-pred alright for me to-3pl (they) get stay pred longer
+\l I don't mind them being allowed to stay longer
+
+\t gofynnodd i Aled i Mair gael               dod      allan i chwarae
+\m gofynnodd i Aled i Mair gael               dod      allan i chwarae
+\g asked       to A.to M.be.allowed to.come out to play
+\l s/he asked Aled for Mair to be allowed to come out to play
+
+\t Canwyd        (gan y cor)   ^    neithiwr.
+\m Can-wyd        (gan y cor)   ^    neithiwr.
+\g sing-Past:Pass by the choir       last-night
+\l There was singing (by the cho   ir) last night.
+
+\t `r oeddwn (i) `n cwyno
+\m `r oeddwn (i) `n cwyno
+\g COMP     be-PAST-1.sg (I) in complain
+\l I was com plaining
+
+\t Dw       i       a Gwenllian         heb     gael ein               talu.
+\m Dw       i       a Gwenllian         heb     gael ein               talu.
+\g be.1 S G I.1 S G and Gwenllian.3 S G without get Cl.1          PL   pay
+\l Gwenllian and I have not been paid
+
+\t arno          fo
+\m arno          fo
+\g on.3ms         him
+\l on him
+
+\t arni          hi
+\m arni          hi
+\g on.3fs        her
+\l on her
+
+\t Gwelais i a'm      brawd ein hunain.
+\m Gwelais i a'm      brawd ein hunain.
+\g saw-1s 1s and-1s brother 1pl self
+\l I and my brother saw ourselves.
+
+\t Roedd Wyn yn       siarad amdanat ti a Si^on.
+\m Roedd Wyn yn       siarad amdanat ti a Si^on.
+\g was.3s Wyn prog speak about-2s 2s and Si^ on
+\l Wyn was talking about you and Si^ on.
+
+\t cwpan         mawr       gwyrdd      Sieineaidd
+\m cwpan         mawr       gwyrdd      Sieineaidd
+\g cup           big        green       Chinese
+\l a big green Chinese cup
+
+\t ci      mawr        du         Dafydd
+\m ci      mawr        du         Dafydd
+\g dog     big         black      Dafydd
+\l Dafydd's big black dog
+
+\t y     pedwar      ci
+\m y     pedwar      ci
+\g the   four        dog
+\l four dogs
+
+\t llawer   gwn fl
+\m llawer   gwn fl
+\g many     dogs
+\l many dogs
+
+\t fy        hoff          hen   gi
+\m fy        hoff          hen   gi
+\g 1S.GEN    favourite old       dog
+\l my favourite old dog
+
+\t ci       Dafydd
+\m ci       Dafydd
+\g dog      Dafydd
+\l Dafydd's dog
+
+\t y        ci         'ma / hwn
+\m y        ci         'ma / hwn
+\g the      dog        this
+\l this dog
+
+\t stori         am           Ffrainc
+\m stori         am           Ffrainc
+\g story         about        France
+\l a story about France
+
+\t dinasoedd             yng        Nghymru
+\m dinasoedd             yng        Nghymru
+\g cities                in         Wales
+\l cities in Wales
+
+\t pobl            sy               'n        gweithio   mewn       addysg
+\m pobl            sy               'n        gweithio   mewn       addysg
+\g people          be-REL           PROG      work.VN in            education
+\l people who work in education
+
+\t disgrifiad                o     'r      ddamwain     y      gyrrwr
+\m disgrifiad                o     'r      ddamwain     y      gyrrwr
+\g     description            of    the     accident     the    driver
+\l the driver's description of the accident
+
+\t stori       newydd           am        Ffrainc
+\m stori       newydd           am        Ffrainc
+\g story       new              about     France
+\l a new story about France
+
+\t Disgrifiodd        y      gyrrwr    y      ddamwain.
+\m Disgrifiodd        y      gyrrwr    y      ddamwain.
+\g described          the    driver    the    accident
+\l The driver described the accident.
+
+\t Disgrifiodd       y      gyrrwr    yn       fanwl      y      ddamwain.
+\m Disgrifiodd       y      gyrrwr    yn       fanwl      y      ddamwain.
+\g  described         the    driver    PRED     detailed   the    accident
+\l The driver described the accident in detail / carefully.
+
+\t cwpan        mawr       gwyrdd      Sieineaidd
+\m cwpan        mawr       gwyrdd      Sieineaidd
+\g cup          big        green       Chinese
+\l a large green Chinese cup
+
+\t buwch        ddu        gorniog
+\m buwch        ddu        gorniog
+\g cow          black      horned
+\l a black horned cow
+
+\t y     ferch        fach     dawel   hon
+\m y     ferch        fach     dawel   hon
+\g the   girl         little   quiet   this
+\l this little well-behaved girl
+
+\t caneuon    newydd     gwych
+\m caneuon    newydd     gwych
+\g songs      new        great
+\l great new songs
+
+\t athro     ifanc   hoffus
+\m athro     ifanc   hoffus
+\g teacher   young   likeable
+\l a likeable young teacher
+
+\t acen         Saesneg     gref
+\m acen         Saesneg     gref
+\g accent       English     strong
+\l strong English accent
+
+\t bardd ifanc        addawol
+\m bardd ifanc        addawol
+\g poet       young   promising
+\l a promising young poet
+
+\t rhai        addysgol          arbennig
+\m rhai        addysgol          arbennig
+\g      ones     educational       special
+\l special educational ones
+
+\t Mae       acen     Saesneg      gref         yn        haws      i    'w        deall                 nag   acen         Rwsieg       ysgafn.
+\m Mae       acen     Saesneg      gref         yn        haws      i    'w        deall                 nag   acen         Rwsieg       ysgafn.
+\g is        accent English        strong       PRED      easier    to   3SF.GEN   understand            than accent        Russian      mild   
+\l A strong English accent is easier to understand than a mild Russian accent.
+
+\t y        cwpan   mwyaf          gwyrdd Sieineaidd
+\m y        cwpan   mwyaf          gwyrdd Sieineaidd
+\g the cup           biggest        green      Chinese
+\l the biggest green Chinese cup
+
+\t y      cwpan      arall   gwyrdd      Sieineaidd
+\m y      cwpan      arall   gwyrdd      Sieineaidd
+\g  the    cup        other   green       Chinese
+\l the other green Chinese cup / *the green Chinese other cup
+
+\t y       cwpan      gwyrdd      arall    'ma / hwn
+\m y       cwpan      gwyrdd      arall    'ma / hwn
+\g the     cup        green       other    this / this
+\l this other green cup
+
+\t y        blaid   arall          hon
+\m y        blaid   arall          hon
+\g the      party other.SG         this.FEM
+\l this other party
+
+\t y        pleidiau        llai         eraill
+\m y        pleidiau        llai         eraill
+\g the      parties         smaller      other.PL
+\l the other smaller parties
+
+\t                                   PRED
+\m                                   PRED
+\g     is       the    boy                        other
+\l The boy is other.
+
+\t Ieuan    bach
+\m Ieuan    bach
+\g Ieuan    small
+\l small / little / dear Ieuan
+
+\t Mae      Ieuan     yn        fach     iawn.
+\m Mae      Ieuan     yn        fach     iawn.
+\g Is       Ieuan     PRED      small    very
+\l Ieuan is very
+
+\t y      llechgi     bach     busneslyd
+\m y      llechgi     bach     busneslyd
+\g the    sneak       little   interfering
+\l the interfering little sneak
+
+\t addasiad         Cymraeg       newydd   o      ddrama    Thomas     Middleton
+\m addasiad         Cymraeg       newydd   o      ddrama    Thomas     Middleton
+\g adaptation       Welsh         new      of     play      Thomas     Middleton
+\l a new Welsh adaptation of Thomas Middleton's play
+
+\t car   coch    newydd       Ieuan
+\m car   coch    newydd       Ieuan
+\g car   red     new          Ieuan
+\l Ieuan's new red car
+
+\t Mae       Siôn   wedi      gwahodd     pob      ffrind   arall   posib      i'w      barti.
+\m Mae       Siôn   wedi      gwahodd     pob      ffrind   arall   posib      i'w      barti.
+\g is        Siôn  PERF       invite.VN   every    friend   other possible     to-his   party
+\l Siôn has invited every other friend possible (every friend that it was possible for him to invite) to his party.
+
+\t Mae     Siôn   wedi         gwahodd            pob      ffrind    posib       arall   i'w       barti.
+\m Mae     Siôn   wedi         gwahodd            pob      ffrind    posib       arall   i'w       barti.
+\g is      Siôn  PERF          invite.VN          every    friend    possible    other to-his      party
+\l Siôn has invited every other potential friend to his party.
+
+\t caneuon      newydd       gwych eraill
+\m caneuon      newydd       gwych eraill
+\g songs        new          great     other.PL
+\l other great new songs
+
+\t Symudodd           Megan     ei         mab     i     ysgol     arall     Saesneg     (ei   chyfrwng).
+\m Symudodd           Megan     ei         mab     i     ysgol     arall     Saesneg     (ei   chyfrwng).
+\g moved.3SG          Megan     her        son     to    school    other     English     its   medium
+\l Megan moved her son to another English(-medium) school.
+
+\t ...buddsoddi     ym        mhensaernïaeth       fy      ngwlad,   yn   hen   ac      yn    newydd.
+\m ...buddsoddi     ym        mhensaernïaeth       fy      ngwlad,   yn   hen   ac      yn    newydd.
+\g   invest.VN      in        architecture         my      country   PRED old   and     PRED new
+\l ...to invest in the architecture of my country, old and new.
+
+\t pedwar      llyfr     ar    bymtheg       Wyn
+\m pedwar      llyfr     ar    bymtheg       Wyn
+\g four        book      on    fifteen       Wyn
+\l Wyn's nineteen books
+
+\t pedair    cân    Gymreig ar        hugain       arall
+\m pedair    cân    Gymreig ar        hugain       arall
+\g four      song   Welsh        on   twenty       other
+\l twenty four other Welsh songs
+
+\t y     pedair       ysgol       ar     ddeg   fwyaf           yng        Nghymru
+\m y     pedair       ysgol       ar     ddeg   fwyaf           yng        Nghymru
+\g the   four         school      on     ten    biggest         in         Wales
+\l the fourteen biggest schools in Wales
+
+\t y      pedwar           mesur    ar    hugain          traddodiadol
+\m y      pedwar           mesur    ar    hugain          traddodiadol
+\g the    four             meter    on    twenty          traditional
+\l the twenty-four traditional (poetic) meters (sc."it is traditional to divide Welsh meters into twenty-four types")
+
+\t pedwar       mesur       traddodiadol       ar    hugain
+\m pedwar       mesur       traddodiadol       ar    hugain
+\g four         meter       traditional        on    twenty
+\l (any) twenty-four traditional meters
+
+\t pedair          cân    ar     ddeg   newydd          wych
+\m pedair          cân    ar     ddeg   newydd          wych
+\g     four          song   on     ten    new             great
+\l fourteen great new songs
+
+\t y        tair    plaid   arall        hyn
+\m y        tair    plaid   arall        hyn
+\g the      three   party   other.SG     these.PL
+\l these three other parties
+
+\t ci    mawr du        arall
+\m ci    mawr du        arall
+\g dog   big   black    other
+\l another big black dog
+
+\t seddau   crwn     coch   moethus
+\m seddau   crwn     coch   moethus
+\g seats    round    red    soft
+\l soft round red seats
+
+\t disgrifiad      manwl o      'r     ddamwain.
+\m disgrifiad      manwl o      'r     ddamwain.
+\g described       careful of   the    accident
+\l the careful description of the accident
+
+\t Disgrifiodd      y    ddamwain      yn      fanwl.
+\m Disgrifiodd      y    ddamwain      yn      fanwl.
+\g described.3SG    the accident       PRED    careful
+\l He, she described the accident carefully.
+
+\t A: A       welwch     chwi        hwy?
+\m A: A       welwch     chwi        hwy?
+\g    INT     see        you         them
+\l Do you see them?
+
+\t Naethon       nhw gerdded            yn                syth heibio i'w     gilydd.
+\m Naethon       nhw gerdded            yn                syth heibio i'w     gilydd.
+\g aux.3pl.pst   3pl     walk           in                straightpast to 3pl RECIP
+\l They walked straight past each other.
+
+\t Naethon       nhw gerdded            yn                  syth heibio i'w     gilydd.
+\m Naethon       nhw gerdded            yn                  syth heibio i'w     gilydd.
+\g aux.3pl.pst   3pl     walk           in                  straightpast to 3pl RECIP
+\l They walked straight past each other.
+
+\t b . dywedais i [ei fod o'n                anhapus]
+\m b . dywedais i [ei fod o'n                anhapus]
+\g     said.1s I 3ms be he-pred unhappy
+\l I said that he was unhappy.
+
+\t Ddaru nhw fynd i Iwerddon.
+\m Ddaru nhw fynd i Iwerddon.
+\g did      they go to Ireland
+\l Did they go to Ireland?
+
+\t Rhoddias fwyd         i gath.
+\m Rhoddias fwyd         i gath.
+\g I gave      food      to cat
+\l I gave food to a cat.
+
+\t Dylem      ni    maddau     i'n    gelynion.
+\m Dylem      ni    maddau     i'n    gelynion.
+\g necessary we forgiving to­our enemies
+\l We ought to forgive our enemies.
+
+\t Lladdodd y ddraig y dyn
+\m Lladdodd y ddraig y dyn
+\g killed   the dragon the man
+\l The dragon killed the man.
+
+\t Lladdodd y ddraig y dyn
+\m Lladdodd y ddraig y dyn
+\g killed   the dragon the man
+\l The dragon killed the man.
+
+\t Gwelodd       Siôn   ddraig
+\m Gwelodd       Siôn   ddraig
+\g saw.John dragon
+\l John saw a dragon.
+
+\t Gwnaeth      Siôn   weld      draig
+\m Gwnaeth      Siôn   weld      draig
+\g do.3SG.PAST  John See.VN dragon
+\l John saw a dragon.
+
+\t Nid oedd Sioned yn gweithio.
+\m Nid oedd Sioned yn gweithio.
+\g SN be.IMPf.3SG Sioned PROG work
+\l Sioned was not working.
+
+\t Ni soniodd              Sioned ddim am y di      gwyddiad.
+\m Ni soniodd              Sioned ddim am y di      gwyddiad.
+\g SN mention.PAST.3SG Sioned SN about the          event
+\l Sioned did not talk about the event.
+
+\t Doedd            Gwyn ddim yn cysgu.
+\m Doedd            Gwyn ddim yn cysgu.
+\g NEG.be.IMPF.3SG Gwyn SN PROG sleep
+\l Gwyn was not sleeping.
+
+\t Nid oedd               Sioned yn gweithio
+\m Nid oedd               Sioned yn gweithio
+\g SN be.IMPF.3SG         Sioned PROG work
+\l Sioned was not working.
+
+\t Ni soniodd             Sioned ddim am y digwyddiad.
+\m Ni soniodd             Sioned ddim am y digwyddiad.
+\g NEG mention.PAST.3SG Sioned NEG about the event
+\l Sioned did not talk about the event.
+
+\t Doedd                  Gwyn ddim yn cysgu.
+\m Doedd                  Gwyn ddim yn cysgu.
+\g NEG.be.IMPF.3SG        Gwyn NEG PROG sleep
+\l Gwyn was not sleeping.
+
+\t Na'th                  Emrys ddim gweld dim byd.
+\m Na'th                  Emrys ddim gweld dim byd.
+\g do.PAST.3SG            Emrys NEG see NEG world
+\l Emrys didn't see anything.
+
+\t Dw            i ddim ddim yn poeni.
+\m Dw            i ddim ddim yn poeni.
+\g be.PRES.1SG I SN SN PROG worry.
+\l I don't not worry.
+
+\t Dydy       hi erioed ddim wedi helpu.
+\m Dydy       hi erioed ddim wedi helpu.
+\g NEG.be3SG she never SN      PERF help
+\l She has never not helped.
+
+\t Darllenais i y       llyfr
+\m Darllenais i y       llyfr
+\g read          I the book
+\l I read the book.
+
+\t Euthum i        ã      Mair i'r    sinema
+\m Euthum i        ã      Mair i'r    sinema
+\g went        I with Mary to-the cinema
+\l I went with Mary to the movies.
+
+\t Disgwyliais     i yr     ennilai    John
+\m Disgwyliais     i yr     ennilai    John
+\g expected        I that would-win    John
+\l I expected that John would win.
+
+\t Naeth y     dyn brynu car
+\m Naeth y     dyn brynu car
+\g Did    the man buy          car
+\l The man did buy the car.
+
+\t Y              maent             hwy         yn       ysgrifennu       llythyr
+\m Y              maent             hwy         yn       ysgrifennu       llythyr
+\g PARTICLE       be.3PL            they        YN       write.VN         a.letter
+\l They are writing a letter
+
+\t Y              maent          hwy       yn         gweld    y bachgen
+\m Y              maent          hwy       yn         gweld    y bachgen
+\g PARTICLE       be.3PL         they      YN         see.VN   the boy
+\l They see the boy
+
+\t Ysgrifennasant hwy               lythyr/*llythyr
+\m Ysgrifennasant hwy               lythyr/*llythyr
+\g write.PAST.3PL     they          a.letter
+\l They wrote a letter
+
+\t Y             maent           hwy       yn         ei       weld/*gweld    ef
+\m Y             maent           hwy       yn         ei       weld/*gweld    ef
+\g PARTICLE      be.3PL          they      YN         3SGM     see.VN         3SGM
+\l They see him
+
+\t Gwnaeth hi          weld y draig.
+\m Gwnaeth hi          weld y draig.
+\g do.PAST.3.SG 3.SG.F see the dragon
+\l She saw the dragon.
+
+\t Gwelodd       hi y draig.
+\m Gwelodd       hi y draig.
+\g see.PAST.3.SG 3SG.F the dragon
+\l She saw the dragon.
+
+\t mi gafodd y bachgen ei daro gan Mair
+\m mi gafodd y bachgen ei daro gan Mair
+\g PT got the boy      his hit LOC Mair
+\l The boy was hit by Mair.
+
+\t lladdwyd dyn (gan ddraig)
+\m lladdwyd dyn (gan ddraig)
+\g kill-Pass man by dragon
+\l A man was killed (by a dragon).
+
+\t mi gafodd y bachgen ei daro gan Mair
+\m mi gafodd y bachgen ei daro gan Mair
+\g PT got the boy      his hit LOC Mair
+\l The boy was hit by Mair.
+
+\t dannswyd gan y plant
+\m dannswyd gan y plant
+\g danced by the children
+\l It was danced by the children.
+
+\t gwywyd gan y blodau
+\m gwywyd gan y blodau
+\g  wilt-Pass by the flowers
+\l It was wilted by the flowers.
+
+\t Roedd Mair a fi i briodi.
+\m Roedd Mair a fi i briodi.
+\g was.3SG Mair and I to marry
+\l Mair and I were to marry. 
+
+\t Roeddwn i a Mair i briodi.
+\m Roeddwn i a Mair i briodi.
+\g was.1SG I and Mair to marry
+\l I and Mair were to marry.
+
+\t Roedd Mair a fi i briodi.
+\m Roedd Mair a fi i briodi.
+\g was-3s Mair and 1s to marry
+\l  Mair and I were to marry.
+
+\t Roeddwn i a Mair i briodi.
+\m Roeddwn i a Mair i briodi.
+\g was-1s 1s and Mair to marry
+\l  I and Mair were to marry.
+
+\t Roedd Wyn yn      siarad amdanom ni a nhw.
+\m Roedd Wyn yn      siarad amdanom ni a nhw.
+\g was.3s Wyn prog speak about-1pl 1pl and 3pl
+\l Wyn was talking about us and them.
+
+\t Fe a fi, aethon ni ddim yno.
+\m Fe a fi, aethon ni ddim yno.
+\g him and me, went-1pl we not there
+\l Him and me, we did not go there.
+
+\t Pan glywodd Math a Gwydion yr hanes, roedden            nhw'n drist iawn.
+\m Pan glywodd Math a Gwydion yr hanes, roedden            nhw'n drist iawn.
+\g when heard-3s Math and Gwydion the story, were-3pl      they-pt sad very 
+\l When Math and Gwydion heard the story, they were very sad.
+
+\t Ni chaffodd e a'i          milwyr eu l ladd yma.
+\m Ni chaffodd e a'i          milwyr eu l ladd yma.
+\g neg got-3s he and-3sm soldiers 3pl kill there
+\l He and his soldiers were not killed there.
+
+\t Roeddwn i ac Emyr yn ysgrifenwyr rhagorol.
+\m Roeddwn i ac Emyr yn ysgrifenwyr rhagorol.
+\g was-1s 1s and Emyr pt writers        excellent
+\l Emyr and I were excellent writers.
+
+\t Gwelais i a'm      brawd ein hunain.
+\m Gwelais i a'm      brawd ein hunain.
+\g saw-1s 1s and-1s brother 1pl self
+\l I and my brother saw ourselves.
+
+\t Gwelaist ti a'th   frawd eich hunain.
+\m Gwelaist ti a'th   frawd eich hunain.
+\g saw-2s 2s and-2s brother 2pl self
+\l You and your brother saw yourselves.
+
+\t Gwelodd e a'i      frawd eu hunain.
+\m Gwelodd e a'i      frawd eu hunain.
+\g saw-3s 3s and-3s brother 3pl self
+\l He and his brother saw themselves.
+
+\t Daethost ti a minnau.
+\m Daethost ti a minnau.
+\g came-2s 2s and 1s
+\l You and I came.
+

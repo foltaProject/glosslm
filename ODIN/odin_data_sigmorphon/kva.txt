@@ -1,0 +1,30 @@
+\t maHamad weLaaX                wuk'awo                  wech'e Rala
+\m maHamad weL-aaX                w-uk'a-w-o                  wech'e Rala
+\g Mohammed come-GERUND.IPF 1Cl-be-1Cl-GERUND.PF AUX.NEG MOD
+\l They say Mohammed was not coming
+
+\t maHammad waaRala/waach'iRala
+\m maHammad waa-Rala/waa-ch'i-Rala
+\g    Mohammed come.PAST-MOD/come.PAST-NEG-MOD
+\l They say Mohammed came/didn't come
+
+\t maHammad ek'wa                weLaaX
+\m maHammad ek'wa                weL-aaX
+\g    Mohammed AUX.POS           come-GERUND.IPF
+\l MOHAMMED is coming
+
+\t maHammad wech'e               weLaaX
+\m maHammad wech'e               weL-aaX
+\g    Mohammed AUX.NEG           come-GERUND.IPF
+\l NOT MOHAMMED is coming
+
+\t a. o}ur            [`era           minutiyi                 kaRal          qWô.
+\m a. o-}u-r            [`era           minuti-yi                 kaRal          qWô.
+\g    this-OBL-ERG           two            minute-INTERESS       letter         write:PFV
+\l He wrote a letter in two minutes
+
+\t b. o}ur             c'era         minutir            kaRal            qWô.
+\m b. o-}u-r             c'era         minuti-r            kaRal            qWô.
+\g    this-OBL-ERG       two           minute-ERG          letter-PL        write:PFV
+\l He wrote a letter for two minutes.
+

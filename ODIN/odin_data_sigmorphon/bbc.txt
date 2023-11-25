@@ -1,0 +1,120 @@
+\t [VP Mangida si         John] dirina.
+\m [VP Mang-ida si         John] diri-na.
+\g      AGT-see PROPER John self-his
+\l Himself saw John.
+
+\t [VP Diida dirina] si         John.
+\m [VP Di-ida diri-na] si         John.
+\g      DO-see self-his PROPER John
+\l Himself saw John.
+
+\t [VP Diida si         John] dirina.
+\m [VP Di-ida si         John] diri-na.
+\g     DO-see PROPER John self-his
+\l John saw himself.
+
+\t Mangida si Ria si Torus.
+\m Mang-ida si Ria si Torus.
+\g ACT-see PNM       PNM
+\l Torus sees Ria.
+
+\t Diida si Torus si Ria.
+\m Di-ida si Torus si Ria.
+\g UND-see
+\l Torus sees Ria.
+
+\t Mangida si Torus si Ria
+\m Mang-ida si Torus si Ria
+\g ACT-see
+\l Ria sees Torus.
+
+\t Diida si Ria si Torus.
+\m Di-ida si Ria si Torus.
+\g UND-see
+\l Ria sees Torus.
+
+\t Mangalean buku        siJohn     natoari                  tusiMary
+\m Mangalean buku        si-John     natoari                  tu-si-Mary
+\g ACT-give      book HON-John yesterday                      to-HON-Mary
+\l John gave the book to Mary yesterday.
+
+\t Dilean    siJohn      sada buku      tusiMary
+\m Dilean    si-John      sada buku      tu-si-Mary
+\g PASS-give HON-John     one    book to-HON-Mary
+\l One book was given to Mary by John.
+
+\t Mangida si Ria si Torus
+\m Mang-ida si Ria si Torus
+\g av-see    pm Ria pm Torus
+\l Torus sees/saw Ria.
+
+\t Diida si Torus si Ria
+\m Di-ida si Torus si Ria
+\g ov-see pm Torus pm Ria
+\l Torus sees/saw Ria.
+
+\t Manuhor baoang jala mangolompa mangga halak an
+\m Man-uhor baoang jala mang-olompa mangga halak an
+\g [av-buy onions] and [av-co ok      mango es] man
+\l The man buys onions and co oks mango es.
+
+\t Dituhor si Ore jala dilompa si Ruli mangga
+\m Di-tuhor si Ore jala di-lompa si Ruli mangga
+\g [ov-buy pm Ore] and [ov-buy pm Ruli] mango es
+\l Ore buys and Ruli co oks mango es.
+
+\t Mangelek si Bill si John dipareso       doktor
+\m Mang-elek si Bill si John di-pareso       doktor
+\g av-persuade pm Bill pm John ov-examine do ctor
+\l John is persuading Bill to be examined by a do ctor.
+
+\t Mangida dirina si John
+\m Mang-ida diri-na si John
+\g av-saw self-his pm John
+\l Johni saw himselfi .
+
+\t Mangida si John dirina
+\m Mang-ida si John diri-na
+\g  av-saw pm John self-his
+\l Himselfi saw Johni .
+
+\t Diida dirina si John
+\m Di-ida diri-na si John
+\g  ov-saw self-his pm John
+\l Himselfi saw Johni .
+
+\t Diida si John dirina
+\m Di-ida si John diri-na
+\g ov-saw pm John self-his
+\l Johni saw himselfi .
+
+\t Manuhor baoang jala mangolompa mangga halak an
+\m Man-uhor baoang jala mang-olompa mangga halak an
+\g [av-buy    onions] and [av-cook    mangoes] man
+\l The man buys onions and cooks mangoes.
+
+\t Dituhor si Ore jala dilompa si Ruli mangga
+\m Di-tuhor si Ore jala di-lompa si Ruli mangga
+\g [ov-buy pm Ore] and [ov-cook pm Ruli] mangoes
+\l Ore buys and Ruli cooks mangoes.
+
+\t         Dilean        si    Torus      biang i     tu si     Ria.
+\m         Dilean        si    Torus      biang i     tu si     Ria.
+\g -AT.give      PM Torus         dog    the to PM Ria
+\l Torus gave   the dog to Ria.
+
+\t    Dilean        si    Torus si       Riai biang i       ti
+\m    Dilean        si    Torus si       Riai biang i       ti
+\g -AT.give      PM Torus PM Ria dog                the
+\l Torus gave   Ria the dog.
+
+\t Mangalean buku        siJohn     natoari                  tusiMary
+\m Mangalean buku        si-John     natoari                  tu-si-Mary
+\g ACT-give      book HON-John yesterday                      to-HON-Mary
+\l John gave the book to Mary yesterday.
+
+\t Dilean    siJohn      sada buku      tusiMary
+\m Dilean    si-John      sada buku      tu-si-Mary
+\g PASS-give HON-John     one    book to-HON-Mary
+\l One book was given to Mary by John.
+

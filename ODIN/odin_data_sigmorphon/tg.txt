@@ -1,0 +1,3445 @@
+\t Doktor si     Beverly Crusher
+\m Doktor si     Beverly Crusher
+\g doctor NOM24 Beverly Crusher
+\l Beverly Crusher is a doctor
+
+\t Si JeanLuc Picard ang kapitan ng Enterprise
+\m Si Jean-Luc Picard ang kapitan ng Enterprise
+\g NOM Jean-Luc Picard NOM captain GEN Enterprise
+\l Jean-Luc Picard is the captain of the Enterprise
+
+\t Takot sa kulog na si Worf
+\m Takot sa kulog na si Worf
+\g afraid DAT thunder now NOM Worf
+\l Now, Worf is afraid of thunder
+
+\t Bumalik siya sa Maynila
+\m Bumalik siya sa Maynila
+\g returned she DAT Manila
+\l She went back to Manila
+
+\t Bumalik sa Maynila siya
+\m Bumalik sa Maynila siya
+\g returned DAT Manila she
+\l She went back to Manila
+
+\t Hindi siya bumalik sa Maynila
+\m Hindi siya bumalik sa Maynila
+\g not she returned DAT Manila
+\l She didn't go back to Manila
+
+\t Hindi bumalik siya sa Maynila
+\m Hindi bumalik siya sa Maynila
+\g  not returned she DAT Manila
+\l She didn't go back to Manila
+
+\t Hindi bumalik sa Maynila siya
+\m Hindi bumalik sa Maynila siya
+\g  not returned DAT Manila she
+\l She didn't go back to Manila
+
+\t Reyna siya sa Rumenya
+\m Reyna siya sa Rumenya
+\g Queen she DAT Rumania
+\l She is the queen of Rumania
+
+\t Reyna sa Rumenya siya
+\m Reyna sa Rumenya siya
+\g Queen DAT Rumania she
+\l She is the queen of Rumania
+
+\t Galing siya sa Maynila
+\m Galing siya sa Maynila
+\g from she DAT Manila
+\l She is from Manila
+
+\t Galing sa Maynila siya
+\m Galing sa Maynila siya
+\g from DAT Manila she
+\l She is from Manila
+
+\t Takot siya sa kulog
+\m Takot siya sa kulog
+\g Afraid she DAT thunder
+\l She is afraid of thunder
+
+\t Takot sa kulog siya
+\m Takot sa kulog siya
+\g afraid DAT thunder she
+\l She is afraid of thunder
+
+\t hindi puweding puro puso ang pinaiiral
+\m hindi puweding puro puso ang p-in-a-i-iral
+\g  NEG   can.be-LG   pure heart   REF REAL:UF-GER-R   1-prevail
+\l you can't allow the heart to rule
+
+\t mahal na mahal na mahal kita.
+\m mahal na mahal na mahal kita.
+\g  loved   LG   loved   LG   loved 2S:   REF
+\l you are loved, loved, loved.
+
+\t nababato ako gusto kong umuwi
+\m nababato ako gusto kong umuwi
+\g REAL:SF-INCM-stone 1S:REF        want 1S:     GEN-LG AF-go.home
+\l I am stoned [turned to stone], bored with my desire to go home.
+
+\t  Ayoko dito.
+\m  Ayoko dito.
+\g dislike:1S:   GEN PROX:LOC
+\l I don't like it here.
+
+\t  Wala akong kakampi, mamamatay ako sa lungkot.
+\m  Wala akong kakampi, mamamatay ako sa lungkot.
+\g lack 1S:   REF-LG R   1-ST-take.side   SF-R   1-die 1S:   REF DRC   melancholy
+\l I'm not taking sides, I'm dying of home sickness.
+
+\t Ang pakiramdam ko tama ang ginagawa ko pag ikaw kausap ko.
+\m Ang pa-ki-ramdam ko tama ang g-in-a-gawa ko pag ikaw ka-usap ko.
+\g REF GER-SOC-feel 1S:GEN right REF REAL:UG-R1-do 1S:GEN when 2S:REF ST-talk 1S:GEN
+\l My feeling is that what I am doing is right when you talk to me.
+
+\t Pero pag naririnig ko ang iyak ni Agnes,
+\m Pero pag na-ri-rinig ko ang iyak ni Agnes,
+\g but when   REAL:SF-R   1-hear 1SG:   GEN REF   cry   PR:GEN PRNM
+\l But when I hear the Agnes's crying,
+
+\t pag nababasa ko ang mga sulat niya parang mali eh.
+\m pag nababasa ko ang mga sulat niya parang mali eh.
+\g when   REAL:SF-R   1-read 1S:   GEN REF PL   letter 3S:   GEN   like-lg wrong eh
+\l when I read her letter it seems wrong, eh.
+
+\t Malaki na nga ang tampo niya sa akin.
+\m Malaki na nga ang tampo niya sa akin.
+\g great now   EMPH REF   hurt~anger 3S:   GEN DRC 1S:DRC
+\l She is really feeling hurt and resentful towards me.
+
+\t Naniwal. Bakit niya ako niloko?
+\m Na-niwal. Bakit niya ako ni-loko?
+\g REAL:SF-b    elieve why 3S:   GEN 1S:REF REAL:UG-fool
+\l I believed him. Why did he fool me?
+
+\t Huwag kang magpakagaga .
+\m Huwag kang magpakagaga .
+\g don't 2S:   REF IRR:AF-APTV-stupid
+\l Don't act stupid
+
+\t Mahirap magkaintindihan ang dalawang tao na nasa magkabilang dulo ng mundo.
+\m Mahirap magkaintindihan ang dalawang tao na nasa magkabilang dulo ng mundo.
+\g hard IRR:AF-ST-understand-LOC REF two-LG person LG LOC AF-side-LG end GEN world
+\l It is hard for two people to understand each other from the opposite ends of the world.
+
+\t Ang hirap Indianin.
+\m Ang hirap Indianin.
+\g REF   difficult Indian-IRR
+\l It's hard to stand someone up.
+
+\t  Feeling ko tae. 'Tang ina tae. Hindi ko na siya hawak.
+\m  Feeling ko tae. 'Tang ina tae. Hindi ko na siya hawak.
+\g feeling 1S:   GEN   shit puta-LG mother shit   NEG 1S:GEN LG 3SG:REF   hold
+\l I feel like shit. Putang mother shit. I don't control her.
+
+\t Pagod na pagod na ako sa kakapaliwanag kung sino at ano ko si Dave.
+\m Pagod na pagod na ako sa kakapaliwanag kung sino at ano ko si Dave.
+\g tired   LG   tired now 1S:   REF DRC R1:ST:GER      :bright   COND   who and what   PR:REF PRNM
+\l I am oppressed now by the realization that my who and what is Dave.
+
+\t Sawangsawa na ako sa kakaselos mo.
+\m Sawang-sawa na ako sa kakaselos mo.
+\g satisfied:   LG:satisfied   now 1S:   REF DRC R    1-ST-jealous 2S:   GEN
+\l I have had enough of your jealousy.
+
+\t Hindi na ako ang dating Agnes na sunod sunuran.
+\m Hindi na ako ang dating Agnes na sunod sunuran.
+\g NEG   now 1S:    REF REF    former-LG     PRNM LG    follow follow:   LOC
+\l I am not the former Agnes following in obediance.
+
+\t Pero huwag mo namang iparamdam sa akin na ganito na ako kaliit.
+\m Pero huwag mo namang iparamdam sa akin na ganito na ako kaliit.
+\g but don't 2S:    GEN   rather   UF-GER-feel   DRC 1S:DRC LG   like:   PROX 1S:REF ST:small
+\l But don't make me feel that I am small like this.
+
+\t Sinakripisyo ko ang magandang kinabukasan ko sa Pilipinas.
+\m Sinakripisyo ko ang magandang kinabukasan ko sa Pilipinas.
+\g REAL:UF-sa       crifice 1S:   GEN REF   beautiful   ST-REAL:UF-op        en-LOC 1S:   GEN DRC PRNM
+\l I sacrificed a beautiful future in the Philippines.
+
+\t Nilamon ko ang prinsipyo ko. Niloko ko ang pamilya ko.
+\m Nilamon ko ang prinsipyo ko. Niloko ko ang pamilya ko.
+\g REAL:UF-eat.bi    g.piece 1S:GEN REF principle 1S:GEN REAL:UF-fool 1S:GEN REF family 1S:GEN
+\l I ate a big piece of my principles. I fooled my family.
+
+\t Tiniis ko ang hirap ng buhay dito.
+\m Tiniis ko ang hirap ng buhay dito.
+\g REAL:UF-endu        re 1S:   GEN REF   difficult   GEN   life   PROX:DRC
+\l I endured a hard life here.
+
+\t Kahit nagsusumigaw ang kalooban ko, dahil mahal kita,
+\m Kahit nagsusumigaw ang kalooban ko, dahil mahal kita,
+\g in.spite.of   REAL:AF-R       1-AF-shout REF inner.feeling 1S:GEN because love 2S:REF
+\l In spite of this I am shouting out my inner feelings, because I love you,
+
+\t dahil nagbabakasakali akong maulit yung dati.                                              
+\m dahil nagbabakasakali akong maulit yung dati.                                              
+\g          REAL:AF-R   1-perhaps:in.case 1S:   REF-LG IRR:ST-re    peat   REM:REF-LG   former      because
+\l because I am perhaps hoping to repeat the past.
+
+\t Hindi mo alam kung gaano mo ako nasaktan.
+\m Hindi mo alam kung gaano mo ako nasaktan.
+\g NEG 2S:GEN    know   COND   how 2S:   GEN 1S:REF REAL:SF-hu      rt-LO   C
+\l You don't know how much you hurt me.
+
+\t Hindi mo alam kung gaano ako naghirap
+\m Hindi mo alam kung gaano ako naghirap
+\g NEG 2S:GEN    know   COND   how 1S:   REF REAL:AF-di   fficult
+\l You don't know how I have struggled
+
+\t bago ako nakarating sa kinaroroonan ko ngayon.
+\m bago ako nakarating sa kinaroroonan ko ngayon.
+\g change 1S:   REF REAL:SF-ST-a   rrive   DRC ST-REAL:UF-R   1-REM-LOC 1S:     GEN   now
+\l only recently to reach where I am now.
+
+\t Parang sasabog ang dibdib ko.
+\m Parang sasabog ang dibdib ko.
+\g like R1-burst   REF    chest 1S:   GEN
+\l As though bursting myheart'.
+
+\t Kung ako sa iyo ibaon mo na lang ang nararamdaman mo.
+\m Kung ako sa iyo ibaon mo na lang ang nararamdaman mo.
+\g COND 1S:REF DRC 2S:DRC UF:bur            y 2S:   GEN   now just   REF REAL:SF-R   1:feel:   LOC 2S:GEN
+\l If I were you, just bury your feelings.
+
+\t Matuto kang maging manhid.
+\m Matuto kang maging manhid.
+\g IRR:SF-l   earn 2S-LG IRR:SF-b   ecome insensitive
+\l Learn to become insensitive.
+
+\t Yung nangyayari sa loob, nasisira ang pagkatao.
+\m Yung nangyayari sa loob, nasisira ang pagkatao.
+\g  REM:REF-LG REAL:AF-R         1-happen    DRC    inside   REAL:SF-R   1-break   REF GER:ST-per    son
+\l What is happening inside, (my) humanity is disintegrating.
+
+\t Alam mong hindi ko kayang magmahal nang hindi buo ang pagkatao ko.
+\m Alam mong hindi ko kayang magmahal nang hindi buo ang pagkatao ko.
+\g  know 2S:    GEN-LG NEG 1S:GEN EX-LG IRR:AF-lov             e when    NEG   whole   REF GER-ST-
+\l You know I can't love when my humanity is not whole.
+
+\t Ayaw kong sa susunod mawalan ka na rin ng respecto sa akin.
+\m Ayaw kong sa susunod mawalan ka na rin ng respecto sa akin.
+\g  don't:want 1S:   GEN DRC R   1-FO   LLOW IRR:SF-LOSE 2S:REF   now also   GEN RESPECT DRC
+\l I don't want what follows to be losing you and also your respect for me.
+
+\t sila ni         Juan
+\m sila ni         Juan
+\g 3+3 CONJ        Juan
+\l them/him and Juan
+
+\t Bumili ang bata ng tela sa palengke para sa Nanay Agent
+\m B-um-ili ang bata ng tela sa palengke para sa Nanay Agent
+\g AV.prf-buy ANG child CS cloth DAT market P DAT mother
+\l The child bought cloth at the market for mother.
+
+\t BiniliØ ng bata ang tela sa palengke para sa Nanay Theme
+\m B-in-ili-Ø ng bata ang tela sa palengke para sa Nanay Theme
+\g TV.prf-buy CS child ANG cloth DAT market P DAT mother
+\l The child bought the cloth at the market for mother.
+
+\t Binilhan ng bata ng tela ang palengke para sa Nanay Dir.
+\m B-in-ilh-an ng bata ng tela ang palengke para sa Nanay Dir.
+\g DV.prf-buy CS child CS cloth ANG market P DAT mother
+\l The child bought cloth at the market for mother.
+
+\t Ibinili ng bata ng tela sa palengke ang Nanay              Ben.
+\m I-b-in-ili ng bata ng tela sa palengke ang Nanay              Ben.
+\g BV-prf-buy CS child CS cloth DAT market ANG mother
+\l The child bought (the) cloth at the market for mother.
+
+\t Itinakbo niya ang kanyang asawa unergative with benefactive
+\m I-tinakbo niya ang kanyang asawa unergative with benefactive
+\g Obl-asp-run he ANG poss.wife
+\l He ran for his wife.
+
+\t Ipinangtulog     niya ang bata.  unergative with instrumental
+\m I-pinangtulog     niya ang bata.  unergative with instrumental
+\g Obl-asp-pang-sleep he ANG robe.
+\l He used his robe for sleeping.
+
+\t Ang lalaki ay tumawa        [para sa kanyang asawa]
+\m Ang lalaki ay t-um-awa        [para sa kanyang asawa]
+\g ANG man AY Nom.asp-laugh P DAT poss.spouse
+\l The man laughed for his wife.
+
+\t Nagluto     ng adobo ng babae si Romeo.
+\m Nagluto     ng adobo ng babae si Romeo.
+\g Nom.asp-cook CS adobo CS woman ANG Romeo
+\l Romeo cooked adobo for a woman.
+
+\t Nagmamahal         ang kanyangi ama ng bawat anaki.
+\m Nagmamahal         ang kanyangi ama ng bawat anaki.
+\g Nom.asp-pag-love ANG poss.father CS every child
+\l Heri father loves every childi.
+
+\t Nagmamahal          ang bawat amai ng kanyangi anak.
+\m Nagmamahal          ang bawat amai ng kanyangi anak.
+\g Nom.asp-pag-love ANG every child CS poss.father
+\l Every fatheri loves his childi.
+
+\t MinamahalØ ng kanyangi ama ang bawat anaki.
+\m Minamahal-Ø ng kanyangi ama ang bawat anaki.
+\g Asp.love-Acc CS poss.father ANG every child
+\l Every childi heri father loves.
+
+\t Bumantay ako ng bawat anaki [para sa kanyangi magulang].
+\m B-um-antay ako ng bawat anaki [para sa kanyangi magulang].
+\g Nom.asp-watch ANG.I CS every child P DAT poss.parent
+\l I watched every childi for hisi parents.
+
+\t Ibinantay ko ng bawat anaki ang kanyangi magulang.
+\m I-binantay ko ng bawat anaki ang kanyangi magulang.
+\g Obl-asp-watch I CS every child ANG poss.parent.
+\l I watched every childi for hisi parents.
+
+\t Binigyan ko ang bawat bataj ng kanyangj laruan.
+\m Binigy-an ko ang bawat bataj ng kanyangj laruan.
+\g Asp-give-Dat I ANG every child CS poss.toy
+\l I gave every childj hisj toy.
+
+\t Binigyan ni Maria ng bawat anakj ang kanyangj ama.
+\m Binigy-an ni Maria ng bawat anakj ang kanyangj ama.
+\g Asp-give-Dat CS Maria CS each child ANG poss.father
+\l Maria gave hisj father each childj.
+
+\t Lulutuin     ng lalaki ang adobo.
+\m Lu-lutu-in     ng lalaki ang adobo.
+\g Asp-cook-Acc CS man ANG adobo
+\l The man will cook the adobo.
+
+\t Itinakbo ng lalaki ang para sa asawa
+\m I-tinakbo ng lalaki ang para sa asawa
+\g Obl-asp.run CS man ANG P DAT spouse
+\l The man ran for his wife.
+
+\t O Maria, tulungan mo po       kami sa oras ng panganib.
+\m O Maria, tulung-an mo po       kami sa oras ng panganib.
+\g Oh Mary, help-Dat you PRT ANG.us DAT hour CS danger
+\l Oh Mary, help us in the hour of danger.
+
+\t Labhan mo ang maruming damit.
+\m Labh-an mo ang marumi-ng damit.
+\g Wash-Dat you ANG dirty-LK clothes
+\l Wash the dirty clothes.
+
+\t Nagumpisa       si Mariang [magaral             PRO ng Ingles].
+\m Nag-umpisa       si Mariang [mag-aral             PRO ng Ingles].
+\g Asp.Nom.PAG-start ANG Maria-LK Nom.pag-study CS English
+\l Maria started [PRO] to study English.
+
+\t Nagpilit         si   Mariang [bigyan PRO ng pera ni Ben].
+\m Nagpilit         si   Mariang [bigy-an PRO ng pera ni Ben].
+\g Asp.Nom.PAG-insist ANG Maria-LK give-Dat CS money CS Ben
+\l Maria insisted on [PRO] being given money by Ben.
+
+\t Noong araw ay pinaniniwalaan ng mga tao [na ang mundo ay lapad].
+\m Noong araw ay pinaniniwala-an ng mga tao [na ang mundo ay lapad].
+\g One-LK time AY asp.think-Dat CS pl.person LK ANG world AY flat
+\l People used to think [that the world was flat].
+
+\t Ipinalagay niya[ng kailangang ipagbili ang lupa].
+\m I-pinalagay niya-[-ng kailangang i-pagbili ang lupa].
+\g Obl-asp.deem he-LK necessary Obl-PAG-sell ANG land
+\l He deemed [it necessary to sell the land].
+
+\t Para sababae ang regalo
+\m Para sababae ang regalo
+\g for-woman-the-gift
+\l The gift is for the woman.
+
+\t So nineteen ninety eight, itong [etong] nineteen ninety eight nakapások na ako na pagenroll
+\m So nineteen ninety eight, itong [etong] nineteen ninety eight nakapások na ako na pag-enroll
+\g na ako.. sa wákas nakapasok din akó sa Mirriam.
+\l So 1998, this 1998, I got in, I was able to enroll, finally I also got into Mirriam.
+
+\t nakita       siya       ni Pedro.
+\m nakita       siya       ni Pedro.
+\g   saw:P.VOICE 3SG.NOM        GEN P.
+\l Pedro saw him.
+
+\t nakita      ni        Pedro siya.
+\m nakita      ni        Pedro siya.
+\g    saw:P.VOICE GEN P.3SG.NOM
+\l Pedro saw him.
+
+\t nasa mesa=ng libro
+\m nasa mesa=ng libro
+\g     on     table=LINK book
+\l the book on the table
+
+\t libro=ng nasa mesa
+\m libro=ng nasa mesa
+\g    book=LINK on       table
+\l the book on the table
+
+\t Nagbigay ako ng pera sa babae
+\m Nagbigay ako ng pera sa babae
+\g AV-gave T-I Unm money Dat woman
+\l I gave money to the woman
+
+\t Ibinigay ko     ang pera sa babae
+\m Ibinigay ko     ang pera sa babae
+\g IV-gave Unm-I T money Dat woman
+\l I gave the money to the woman
+
+\t Binigyan ko      ng pera ang babae
+\m Binigyan ko      ng pera ang babae
+\g LV-gave Unm-I Unm money T woman
+\l I gave money to the woman
+
+\t ang babaeng binigyan ko        ng pera
+\m ang babae-ng binigyan ko        ng pera
+\g the woman that LV-gave Unm-I Unm money
+\l the woman that I gave the money to
+
+\t ang babaeng [sinabi ni Juan [na binigyan niya           ng pera]]
+\m ang babae-ng [sinabi ni Juan [na binigyan niya           ng pera]]
+\g the woman that TV-said Unm Juan that LV-gave Unm-he Unm money
+\l the woman that Juan said he gave the money to
+
+\t ang babaeng [pinaniwalaan ni Juan [na binigyan niya        ng pera]]
+\m ang babae-ng [pinaniwalaan ni Juan [na binigyan niya        ng pera]]
+\g the woman that LV-believed Unm Juan that LV-gave Unm-he Unm money
+\l the woman that Juan believed that he gave the money to
+
+\t Pinutol       ngmagsasaka            angsungay       ngkalabaw.
+\m Pinutol       ng-magsasaka            ang-sungay       ng-kalabaw.
+\g PERF-OV-cut ERG-farmer                NOM-horn         ERG-buffalo
+\l The farmer cut off the buffalo'shorn'.
+
+\t Galit         kahapon        siNenette                kayLito.
+\m Galit         kahapon        si-Nenette                kay-Lito.
+\g angry         yesterday      NOM-Nenette               DAT-Lito
+\l Nenette was angry atLito'.
+
+\t Binalutan            niya             ngpapel         anglibro.
+\m Binalutan            niya             ng-papel         ang-libro.
+\g PERF-DV-wrap         3SG:ERG          ERG-paper        NOM-book
+\l He covered the book with thepaper'.
+
+\t Ibinigay               lahat     ngmgaguro           samgabata         angpera.
+\m Ibinigay               lahat     ng-mga-guro           sa-mga-bata         ang-pera.
+\g IV-PERF-give           all       ERG-PL-teacher        DAT-PL-child        NOM-money
+\l The teachers gave all the money to thechildren'.
+
+\t Bumili             anglalake                  ngisda     satindahan.
+\m B-um-ili             ang-lalake                  ng-isda     sa-tindahan.
+\g PERF.AV-buy          NOM-man                     ERG-fish    DAT-store
+\l The man bought fish at thestore'.
+
+\t Bumabaha               saMaynila.
+\m Bumabaha               sa-Maynila.
+\g AV-IMPERF-flood DAT-Manila
+\l There is a flood inManila'.
+
+\t Binigyam               lahat     ngmgaguro           ngpera          angmgabata.
+\m Binigyam               lahat     ng-mga-guro           ng-pera          ang-mga-bata.
+\g DV-PERF-give           all       ERG-PL-teacher        ERG-money        NOM-PL-child 
+\l The teachers gave money to all thechildren'.
+
+\t Magaalis     ang tindero          ng     bigas sa     sako para sa    babae.
+\m Mag-aalis     ang tindero          ng     bigas sa     sako para sa    babae.
+\g AGT-take.out NOM storekeeper ACC rice DAT sack for DAT woman
+\l The storekeeper will take some rice out of a/the sack for a/the woman.
+
+\t Aalisin ng tindero             ang bigas sa        sako para sa    babae.
+\m Aalis-in ng tindero             ang bigas sa        sako para sa    babae.
+\g take.out-DO ERG storekeeper NOM rice DAT sack for DAT woman
+\l A/the storekeeper will take the rice out of a/the sack for a/the woman.
+
+\t Aalisan ng tindero            ng bigas ang sako para sa            babae
+\m Aalis-an ng tindero            ng bigas ang sako para sa            babae
+\g take.out-IO ERG storekeeper ACC rice NOM sack for DAT woman
+\l A/the storekeeper will take some rice out of the sack for a/the woman.
+
+\t Ipagaalis    ng tindero          ng bigas sa        sako ang babae.
+\m Ipag-aalis    ng tindero          ng bigas sa        sako ang babae.
+\g BEN-take.out ERG storekepper ACC rice DAT sack NOM woman
+\l A/the storekeeper will take some rice out of a/the sack for the woman.
+
+\t Ipangaalis    ng tindero          ng bigas sa sako ang sandok.
+\m Ipang-aalis    ng tindero          ng bigas sa sako ang sandok.
+\g INS-take.out ERG storekepper ACC rice DAT sack NOM scoop
+\l A/the storekeeper will take some rice out of a/the sack with the scoop.
+
+\t Masi ca.
+\m Ma-si ca.
+\g 1sgPAT-bad
+\l I am bad.
+
+\t Maya    kte.
+\m Ma-ya-    kte.
+\g 1sgPAT-2sgAGT- kill
+\l You kill me.
+
+\t Sinaktan ng babae ang kaniyang sarili.
+\m Sinakt-an ng babae ang kaniyang sarili.
+\g hurt-IO ERG woman NOM her            self
+\l A/The woman hurt herself.
+
+\t Iniisip         nila      ang kanilang sarili.
+\m Iniisip         nila      ang kanilang sarili.
+\g think.about.DO they.ERG NOM their       self
+\l They think about themselves.
+
+\t Nagiisip         sila      sa kanilang sarili.
+\m Nag-iisip         sila      sa kanilang sarili.
+\g AGT-think.about they.NOM DAT their        self
+\l They think about themselves.
+
+\t Magalis       ka         ng    bigas sa    sako.
+\m Mag-alis       ka         ng    bigas sa    sako.
+\g AGT.INF-take.out you.NOM ACC rice DAT sack
+\l Take some rice out of the/a sack.
+
+\t Basahin          mo        nga    ang    librong    ito.
+\m Basah-in          mo        nga    ang    libro-ng    ito.
+\g read-DO.INF you.ERG please NOM book-LNK this
+\l Please read this book.
+
+\t c.    *Sino ang      ibinili        ng     damit ang    bata'?
+\m c.    *Sino ang      ibinili        ng     damit ang    bata'?
+\g        who COMP BEN.bought ACC dress NOM child
+\l Who bought the dress for the child?
+
+\t c.    *Ano ang       ibinili        ng     tao ang     bata?
+\m c.    *Ano ang       ibinili        ng     tao ang     bata?
+\g        what COMP BEN.bought ERG man NOM child
+\l What was bought for the child by the man?
+
+\t c.    Sino ang         ibinili         ng tao      ng     damit?
+\m c.    Sino ang         ibinili         ng tao      ng     damit?
+\g       who COMP         BEN.bought ERG man          ACC    dress
+\l Who was bought the    dress (for) by the man?
+
+\t Pinangaakalaan si           Fidel [na       makakagawa       ng     mabute].
+\m Pinang-aakalaan si           Fidel [na       makakagawa       ng     mabute].
+\g IMPERF-think.IO NOM Fidel COMP ACT.NONVOL.FUT.do              ACC good       
+\l Fidel is thought to be able to do something good.
+
+\t Malapit       na       si     Manuel [na        hulihin ng polis].
+\m Malapit       na       si     Manuel [na        hulihin ng polis].
+\g STAT.close already NOM Manuel COMP catch.DO ERG police
+\l Manuel is about to be arrested by the police.
+
+\t Mapanganib ang lumapit                     sa  ahas.
+\m Mapanganib ang lumapit                     sa  ahas.
+\g dangerous NOM ACT.approach                 DAT snake
+\l To go near a snake is dangerous.
+
+\t Maaksayang itapon            ang damit na  ito.
+\m Maaksaya-ng i-tapon            ang damit na  ito.
+\g wasteful LNK INSTR-throw.out              NOM dress LNK this
+\l To throw out this dress would be a        waste.
+
+\t Huhugasan ko           ang mga pinggan, at pupunasan mo.
+\m Huhugasan ko           ang mga pinggan, at pupunasan mo.
+\g FUT.wash.IO I.ERG NOM PL dish                and FUT.dry.IO 2SG.ERG
+\l I will wash the dishes, and you dry (them).
+
+\t Niluto ni       Josie ang pagkain at hinugasan ang mga pinggan.
+\m Niluto ni       Josie ang pagkain at hinugasan ang mga pinggan.
+\g cook.DO ERG Josie NOM food            and wash.IO NOM PL dish
+\l The food was cooked by Josie and the dishes washed (by her).'[unexpressed
+
+\t Magbigay ka            sa  kaniya ng kape.
+\m Mag-bigay ka            sa  kaniya ng kape.
+\g ACT-give 2SG.NOM DAT him ACC coffee
+\l Give him some coffee.
+
+\t Bigyan mo         siya      ng kape.
+\m Bigy-an mo         siya      ng kape.
+\g give-IO 2SG.ERG him.NOM ACC coffee
+\l Give him some coffee.
+
+\t Ibigay mo         sa  kaniya ang kape.
+\m I-bigay mo         sa  kaniya ang kape.
+\g INSTR-give 2SG.ERG DAT him          NOM coffee
+\l Give him the coffee.
+
+\t Matalino ang lalaking bumasa                    ng diyaryo.
+\m Matalino ang lalaki-ng bumasa                    ng diyaryo.
+\g intelligent NOM man-LNK PERF.AGT.read ACC newspaper
+\l The man who read a newspaper is intelligent.
+
+\t Interesante ang    diyaryong binasa             ng lalaki.
+\m Interesante ang    diyaryo-ng binasa             ng lalaki.
+\g interesting NOM newspaper-LNK PERF.DO.read ERG man
+\l The newspaper that the man read is interesting.
+
+\t Interesante ang diyaryong bumasa               ang lalaki.
+\m Interesante ang diyaryo-ng bumasa               ang lalaki.
+\g   interesting NOM newspaper-LNK PERF.AGT.read NOM man
+\l The newspaper that the man read is interesting.
+
+\t Matalino ang lalaking binasa                  ang diyaryo.
+\m Matalino ang lalaki-ng binasa                  ang diyaryo.
+\g   intelligent NOM man-LNK PERF.DO.read NOM newspaper
+\l The man who read a newspaper is intelligent.
+
+\t d.      Iniwas an ko    [ng    tingnan 5 si     Lorna].
+\m d.      In-iwas- an ko    [-ng    tingn-an 5 si     Lorna].
+\g         PERF-avoid- IO I.ERG COMP look.at-IO      NOM Lorna
+\l I avoided looking at Lorna.
+
+\t Nakainum siya            ng     lasun.
+\m Naka-inum siya            ng     lasun.
+\g ACT.NONVOL.PERF-drink 3SG.NOM ACC poison
+\l He [accidentally] drank poison.
+
+\t Uminum siya           ng     lasun.
+\m Um-inum siya           ng     lasun.
+\g ACT.PERF-drink 3SG.NOM ACC poison
+\l He {intentionally drank / tried to drink} poison.
+
+\t Nagpilit              si    Maria [ng    bigyan ng pera ni
+\m Nagpilit              si    Maria [-ng    bigy-an ng pera ni
+\g PERF.AGT.insist.on NOM Maria COMP give-IO ACC money ERG Ben
+\l Maria insisted on being given the money by Ben.
+
+\t Nagpilit             si     Maria [ng     bigyan 5 ng pera            si     Ben].
+\m Nagpilit             si     Maria [-ng     bigy-an 5 ng pera            si     Ben].
+\g PERF.ACT.insist.on NOM Maria COMP give-IO            ACC money          NOM Ben     
+\l Maria insisted on giving money to Ben.
+
+\t Inutus an ko      si     Maria [ng      ma                          si      Pedro].
+\m In-utus- an ko      si     Maria [-ng      ma-                          si      Pedro].
+\g  PERF-order- IO I.ERG NOM Maria COMP NONVOL-kiss- IO                    NOM Pedro      
+\l I ordered Maria to kiss Pedro.
+
+\t Inutus an ko      si     Maria [ng      mahalik an             ni      Pedro 5].
+\m In-utus- an ko      si     Maria [-ng      ma-halik- an             ni      Pedro 5].
+\g PERF-order- IO I.ERG NOM Maria COMP NONVOL-kiss- IO                 ERG Pedro        
+\l I ordered Maria (to allow herself) to be kissed by Pedro.
+
+\t Magastos [ibili 5 ng      bigas sa     groseri      ang pamilya].
+\m Magastos [i-bili 5 ng      bigas sa     groseri      ang pamilya].
+\g expensive BEN-buy          ACC rice DAT supermarket NOM family
+\l It is expensive to buy rice for a family at a supermarket.
+
+\t Mabuting      [bigyan 5 ng       pera ang mga mahihirap].
+\m Mabuti-ng      [bigyan 5 ng       pera ang mga mahihirap].
+\g good-LNK give.IO           ACC money NOM PL poor
+\l It is good to give money to the poor.
+
+\t Pinangaakalaan si           Fidel [na       makakagawa                   ng     mabute 5 ].
+\m Pinang-aakalaan si           Fidel [na       makakagawa                   ng     mabute 5 ].
+\g IMPERF-think.IO NOM Fidel COMP ACT.NONVOL.FUT.do                          ACC good          
+\l Fidel is thought to be able to do something good.
+
+\t Malapit       na        si    Manuel [na        hulihin ng      polis 5 ].
+\m Malapit       na        si    Manuel [na        hulihin ng      polis 5 ].
+\g STAT.close already NOM Manuel COMP catch.DO ERG police
+\l Manuel is about to be arrested by the police.
+
+\t Inasahan ko       ang pambansang awit [na            awitin ni    Linda 5]
+\m Inasah-an ko       ang pambansang awit [na            awit-in ni    Linda 5]
+\g expect-IO I.ERG NOM national anthem           COMP sing-DO ERG Linda
+\l I expected the national anthem to be sung by Linda.
+
+\t Inasahan ko       si     Linda [na     awitin 5 ang pambansang awit].
+\m Inasah-an ko       si     Linda [na     awit-in 5 ang pambansang awit].
+\g  expect-IO I.ERG NOM Linda COMP sing-DO NOM national anthem
+\l I expected Linda to sing the national anthem.
+
+\t Inasahan ko         [na     awitin ni     Linda ang pambansang awit].
+\m Inasah-an ko         [na     awit-in ni     Linda ang pambansang awit].
+\g expect-IO I.ERG COMP sing-DO ERG Linda NOM national anthem
+\l I expected that Linda would sing the national anthem.
+
+\t Gusto ko      si     Charlie [na    lutuin niya/*5 ang suman].
+\m Gusto ko      si     Charlie [na    lutu-in niya/*5 ang suman].
+\g want I.ERG NOM Charlie COMP cook-DO 3SG.ERG NOM rice.cake
+\l I want Charlie to cook the suman.
+
+\t e. * Ang guro si Maria
+\m e. * Ang guro si Maria
+\g        the teacher Maria
+\l Maria is the teacher
+
+\t Bumili      ang=lalake ng=isda sa=tindahan.
+\m B-um-ili      ang=lalake ng=isda sa=tindahan.
+\g PERF.AV-buy NOM=man           GEN=fish DAT=store
+\l The man bought fish at the store
+
+\t Binili      ng=lalake ang=isda sa=tindahan.
+\m B-in-ili      ng=lalake ang=isda sa=tindahan.
+\g PERF.OV-buy GEN=man           NOM=fish DAT=store
+\l The man bought the fish at the store
+
+\t Binilhan   ng=lalake ng=isda ang=tindahan.
+\m B-in-ilh-an   ng=lalake ng=isda ang=tindahan.
+\g PERF-buy-DV GEN=man           GEN=fish NOM=store
+\l The man bought fish at the store
+
+\t Ipinambili ng=lalake ng=isda ang=pera.
+\m Ip-in-am-bili ng=lalake ng=isda ang=pera.
+\g IV-PERF-buy GEN=man GEN=fish NOM=money
+\l The man bought fish with the money
+
+\t Ibinili    ng=lalake ng=isda ang=bata.
+\m I-b-in-ili    ng=lalake ng=isda ang=bata.
+\g BV-PERF-buy GEN=man GEN=fish NOM=child
+\l The man bought fish for the child
+
+\t Masyadong mabilis ang=pagtugtug ng=lalake             ng=piyesa.
+\m Masyadong mabilis ang=pag-tugtug ng=lalake             ng=piyesa.
+\g too         fast    NOM=NOML-play GEN=man              GEN=piece
+\l The man's playing of the piece is too fast
+
+\t Binalak       niya=ng       magbigay          ng=pera    sa=Nanay.
+\m B-in-alak       niya=ng       mag-bigay          ng=pera    sa=Nanay.
+\g PERF.OV-plan 3sg.GEN=COMP AV-give                GEN=money DAT=mother
+\l He planned to give money to Mother
+
+\t Binalak       niya=ng        ibigay           sa=Nanay ang=pera.
+\m B-in-alak       niya=ng        i-bigay           sa=Nanay ang=pera.
+\g PERF.OV-plan 3sg.GEN=COMP IV-give                DAT=mother NOM=money
+\l He planned to give the money to Mother
+
+\t Iniwasan      ko=ng                tingnan   si=Lorna
+\m In-iwas-an      ko=ng                tingn-an   si=Lorna
+\g PERF-avoid-DV 1sg.GEN=COMP           look.at-DV NOM=Lorna
+\l I avoided looking at Lorna
+
+\t Magbigay ka           sa=kaniya       ngkape.
+\m Mag-bigay ka           sa=kaniya       ng-kape.
+\g AV-give     2sg.NOM DAT=3sg            GEN=coffee
+\l Give him some coffee
+
+\t Bigyan mo          siya ngkape.
+\m Bigy-an mo          siya ng-kape.
+\g give-DV 2sg.GEN 3sg.NOM GEN=coffee
+\l Give him some coffee
+
+\t Ibigay mo            sa=kaniya      angkape.
+\m I-bigay mo            sa=kaniya      ang-kape.
+\g IV-give 2sg.GEN DAT=3sg              NOM=coffee
+\l Give him the coffee
+
+\t [[Sinampal ng babae] ang sarili niya]
+\m [[Sinampal ng babae] ang sarili niya]
+\g slap+GF gen woman top self 3poss
+\l The woman slapped herself 
+
+\t [[Sinampal ang babae] ng sarili niya]
+\m [[Sinampal ang babae] ng sarili niya]
+\g slap+GF top woman gen self 3poss
+\l The woman slapped herself 
+
+\t Pinangaakalaan si           Fidel na       makakagawa ng     mabute.
+\m Pinang-aakalaan si           Fidel na       makakagawa ng     mabute.
+\g IMPERF-think.IO NOM Fidel COMP ACT.NONVOL.FUT.do       ACC good      
+\l Fidel is thought to be able to do something good.
+
+\t Malapit     na       si      Manuel na        hulihin ng polis.
+\m Malapit     na       si      Manuel na        hulihin ng polis.
+\g STAT.close already NOM Manuel COMP catch.DO ERG police
+\l Manuel is about to be arrested by the police.
+
+\t Nagpilit              si     Mariang    bigyan ng pera ni Ben.
+\m Nagpilit              si     Maria-ng    bigy-an ng pera ni Ben.
+\g PERF.ACT.insist.on NOM Maria COMP give-IO ACC money ERG Ben
+\l Maria insisted on being given the money by Ben.
+
+\t Nagpilit              si    Mariang    bigyan ng pera si Ben.
+\m Nagpilit              si    Maria-ng    bigy-an ng pera si Ben.
+\g PERF.ACT.insist.on NOM Maria COMP give-IO ACC money NOM Ben
+\l Maria insisted on giving money to Ben.
+
+\t Nagatubili si     Mariang       mabigy an ng pera      si    Ben.
+\m Nag-atubili si     Maria-ng       ma-bigy- an ng pera      si    Ben.
+\g PERF.ACT-hesitate NOM Maria COMP NONVOL-give- IO ACC money NOM Ben   
+\l Maria hesitated for (someone) to give the money to Ben.
+
+\t ang     maliít    na hayop
+\m ang     ma-liít    na hayop
+\g SPEC ST-smallness LK animal
+\l the small animal
+
+\t masaráp         ang  pagkain
+\m ma-saráp         ang  pag-kain
+\g ST-satisfaction SPEC GER-eating
+\l the food was good
+
+\t natà takot          silá
+\m na-tà- takot          silá
+\g RLS.ST-RDP1- fear 3.PL
+\l they were afraid (of the snake)
+
+\t napipe         sya.
+\m na-pipe         sya.
+\g RLS.ST-dumb 3.SG
+\l He got dumb.
+
+\t isáng   araw naupó                syá    sa      taburete
+\m isá-ng   araw na-upó                syá    sa      taburete
+\g one-LK day       RLS.ST-sitting 3.SG LOC stool
+\l One day he sat down on the chair (between the four pits) ...
+
+\t semantalang  sya 'y        nasa tabí   ng ilog
+\m semantala-ng  sya 'y        na-sa tabí   ng ilog
+\g meanwhile-LK 3.SG PM RLS.ST-LOC side GEN river
+\l When he was close to the riverside, ...
+
+\t nahulog       siyá sa         kabayo.
+\m na-hulog       siyá sa         kabayo.
+\g RLS.ST-fall 3.SG LOC horse
+\l S/he fell from a horse.
+
+\t nàihí'         akó sa       kàta tawa.
+\m nà-ihí'         akó sa       kà-ta- tawa.
+\g RLS.ST-urine 1.SG LOC ??-RDP- laugh
+\l I laughed so hard I wet my pants.
+
+\t nadalá                  ko            ang        libró
+\m na-dalá                  ko            ang        libró
+\g RLS.POT.PV-carried 1.SG.POSS SPEC book
+\l I took the book by accident.
+
+\t ang      dahun ay nadàdalá                         ng tubig
+\m ang      dahun ay na-dà-dalá                         ng tubig
+\g  SPEC leaf        PM RLS.POT.PV-RDP1- carried GEN water
+\l The leaf was being carried along by the water, ...
+
+\t nàkíta              niyá          ang  dugó'
+\m nà-kíta              niyá          ang  dugó'
+\g  RLS.POT.PV-seen 3.SG.POSS SPEC blood
+\l She saw (happened to see) the blood.
+
+\t nàkì kíta                   ba ninyó          yung          iskinita?
+\m nà-kì- kíta                   ba ninyó          yung          iskinita?
+\g   RLS.POT.PV-RDP1- seen Q 2.PL.POSS DIST.LK street corner
+\l Can you (are you able to) see that corner?
+
+\t ay nakuha                niyá            ang dahon
+\m ay na-kuha                niyá            ang dahon
+\g PM RLS.POT.PV-getting 3.SG.POSS SPEC leaf
+\l he was able to (managed to) get the leaf
+
+\t kung màbibilí                     iyán
+\m kung mà-bi-bilí                     iyán
+\g   if        POT.PV-RDP- sale MED
+\l if that can be sold/if this is sellable
+
+\t nàkita              niyá  ang  aso
+\m nà-kita              niyá  ang  aso
+\g RLS.POT.PV-seen 3.SG.POSS SPEC dog
+\l She saw a/the dog.
+
+\t nagalit       siyá    sa         aso
+\m na-galit       siyá    sa         aso
+\g RLS.ST-anger 3.SG LOC             dog
+\l She was angry with the dog.
+
+\t nakàkita       siyá ng  aso
+\m nakà-kita       siyá ng  aso
+\g RLS.POT.AV-seen 3.SG GEN dog
+\l She saw a dog.
+
+\t k<in>agalitan             niyá ang aso
+\m k<in>a-galit-an             niyá ang aso
+\g ST<RLS(UG)>-anger- LV 3.SG.POSS SPEC dog
+\l She was angry with the dog.
+
+\t nang màriníg            itò ng Kastila'
+\m nang mà-riníg            itò ng Kastila'
+\g when POT.PV-audible PRX GEN Spaniard
+\l When the Spaniard heard this, ...
+
+\t at nakàriníg                siyá     ng mga huni ng ibon
+\m at nakà-riníg                siyá     ng mga huni ng ibon
+\g and RLS.POT.AV-audible 3.SG GEN PL chirping GEN bird
+\l ... and then he heard some birds chirping.
+
+\t natàtákot          ako sa ahas
+\m na-tà-tákot          ako sa ahas
+\g RLS.ST-RDP1- fear 1.SG LOC snake
+\l I am afraid of snakes ...
+
+\t k<in>atàtakut an               siyá    ng mga tao               dito.
+\m k<in>a-tà-takut- an               siyá    ng mga tao               dito.
+\g ST<RLS(UG)>-RDP1- fear-LV 3.SG GEN PL people                      PRX.LOC
+\l People here are afraid of him.
+
+\t namùmuhí'                  akó sa        kanyá.
+\m na-mù-muhí'                  akó sa        kanyá.
+\g RLS.ST-RDP1- detestation 1.SG LOC 3.SG.DAT
+\l I am disgusted with him/loathe him/despise him.
+
+\t k<in>amùmuhi án                          ko               siyá sa         g<in>awá'           niyáng            iyón
+\m k<in>a-mù-muhi- án                          ko               siyá sa         g<in>awá'           niyá-ng            iyón
+\g ST<RLS(UG)>-RDP1- detestation-LV 1.SG.POSS                  3.SG LOC         <RLS(UG)>act 3.SG.POSS-LK DIST             
+\l I hate him for doing that.
+
+\t t<um>ìtimbáng        akó ng       110 libra.
+\m t<um>ì-timbáng        akó ng       110 libra.
+\g RDP1<AV>-weight 1.SG GEN              pound
+\l I weigh 110 pounds.
+
+\t nilunod             ng  sirena ng bapór ang         s<in>àsabi                        sa  amin                ng      dalaga.
+\m ni-lunod             ng  sirena ng bapór ang         s<in>à-sabi                        sa  amin                ng      dalaga.
+\g RLS(UG)-drown        GEN siren GEN boat SPEC         RDP1<RLS(UG)>-statement            LOC 1.PL.EX.DAT         GEN young.woman
+\l The boat's whistle drowned what the young woman was telling us.
+
+\t Huwág        mong               takutin ang  bata'.
+\m Huwág        mo-ng               takut-in ang  bata'.
+\g NEG.IMP 2.SG.POSS-LK fear-PV SPEC child
+\l Don't frighten/scare the child!
+
+\t Sino ang     t<um>akot sa         iyó?
+\m Sino ang     t<um>akot sa         iyó?
+\g who SPEC <AV>fear LOC 2.SG.DAT
+\l Who frightened you?
+
+\t Hindí mahulugan        ng      karayom ang        lugar        sa      dami    ng         tao.  
+\m Hindí ma-hulug-an        ng      karayom ang        lugar        sa      dami    ng         tao.  
+\g NEG POT-fall- LV         GEN needle          SPEC place          LOC amount GEN             people
+\l One could not drop a    ne edle in the place because of the amount of people.
+
+\t iyón ang           patibóng na k<in>ahulugan        ni    Gideon
+\m iyón ang           patibóng na k<in>a-hulug-an        ni    Gideon
+\g DIST SPEC trap               LK ST<RLS(UG)>-fall- LV PN.POSS
+\l that's the trap into which Gideon fell
+
+\t Naupu án            ko             ang    eyeglasses ko.
+\m Na-upu- án            ko             ang    eyeglasses ko.
+\g RLS.POT-sitting- LV 1.SG.POSS SPEC                     1.SG.POSS
+\l I happened to sit on my eyeglasses.
+
+\t bundók na k<in>aùupuán                           ng babae.
+\m bundók na k<in>a-ù-upu-án                           ng babae.
+\g mountain LK ST<RLS(UG)>-RDP1- sitting-LV GEN woman
+\l ... the mountains where the women were sitting.
+
+\t sila ni       Juan
+\m sila ni       Juan
+\g they GEN.ART Juan
+\l he/they and Juan
+
+\t Bumili       ang   bata ng tela sa      palengke para sa           nanay
+\m B-um-ili       ang   bata ng tela sa      palengke para sa           nanay
+\g Nom.asp-buy ANG child CS cloth DAT market               P    DAT mother
+\l The child bought cloth at the market for mother.
+
+\t BiniliØ    ng bata ang tela sa        palengke para sa            nanay
+\m B-in-ili-Ø    ng bata ang tela sa        palengke para sa            nanay
+\g asp-buy-Acc CS child ANG cloth DAT market P                 DAT      mother
+\l The child bought the cloth at the market for mother.
+
+\t Binilhan ng bata ng tela ang palengke para sa             nanay
+\m B-in-ilh-an ng bata ng tela ang palengke para sa             nanay
+\g asp-buy-Dat CS child CS cloth ANG market        P DAT mother
+\l The child bought (the) cloth at the market for mother.
+
+\t Ibinili    ng bata ng tela sa       palengke ang nanay
+\m I-b-in-ili    ng bata ng tela sa       palengke ang nanay
+\g Obl-asp-buy CS child CS cloth DAT market        ANG mother
+\l The child bought (the) cloth at the market for mother.
+
+\t Sino [ ang binigyan ng lalaki ng bulaklak __ ]?
+\m Sino [ ang binigy-an ng lalaki ng bulaklak __ ]?
+\g who ANG gave-Dat CS man CS flower
+\l Who did the man give the flowerto?
+
+\t Bumili       ang   bata ng tela sa       palengke para sa         nanay
+\m B-um-ili       ang   bata ng tela sa       palengke para sa         nanay
+\g Nom.asp-buy ANG child CS cloth DAT market            P      DAT mother
+\l The child bought cloth at the market for mother.
+
+\t BiniliØ    ng bata ang tela sa        palengke para sa           nanay
+\m B-in-ili-Ø    ng bata ang tela sa        palengke para sa           nanay
+\g asp-buy-Acc CS child ANG cloth DAT market P              DAT        mother
+\l The child bought the cloth at the market for mother.
+
+\t Binilhan ng bata ng tela ang palengke para sa            nanay
+\m B-in-ilh-an ng bata ng tela ang palengke para sa            nanay
+\g asp-buy-Dat CS child CS cloth ANG market         P DAT mother
+\l The child bought (the) cloth at the market for mother.
+
+\t Ibinili    ng bata ng tela sa       palengke ang nanay
+\m I-b-in-ili    ng bata ng tela sa       palengke ang nanay
+\g Obl-asp-buy CS child CS cloth DAT market         ANG mother
+\l The child bought (the) cloth at the market for mother.
+
+\t SinampalØ     ako    ng mandurukot
+\m Sinampal-Ø     ako    ng mandurukot
+\g asp.slap-Acc I.ANG CS pickpocket
+\l A/the pickpocket slapped me.
+
+\t Sumampal ko       ang mandurukot.
+\m S-um-ampal ko       ang mandurukot.
+\g Nom.asp-slap CS.me ANG pickpocket
+\l The pickpocket slapped me.
+
+\t Lulutuin       ng lalaki ang    adobo.
+\m Lu-lutu-in       ng lalaki ang    adobo.
+\g Asp-cook-Acc CS man        ANG adobo
+\l The man will cook the adobo.
+
+\t Magluluto              ang lalaki ng adobo
+\m Magluluto              ang lalaki ng adobo
+\g Nom-asp-cookANG man CS adobo
+\l The man will cook adobo
+
+\t Ipinagluto   ni Romeo ng adobo ang        babae
+\m I-pinagluto   ni Romeo ng adobo ang        babae
+\g Obl-asp-cook CS Romeo CS adobo ANG woman
+\l Romeo cooked (the)adobo for the woman
+
+\t NilutoØ      ni Romeo ang adobo para sa           babae
+\m Niluto-Ø      ni Romeo ang adobo para sa           babae
+\g asp-cook-Acc CS Romeo ANG adobo for DAT woman
+\l Romeo cooked the adobo for a woman
+
+\t NilutoØ     ni Romeo ng babae         ang adobo.
+\m Niluto-Ø     ni Romeo ng babae         ang adobo.
+\g  asp-cook-Acc CS Romeo CS woman ANG adobo
+\l Romeo cooked the adobo for a woman.
+
+\t Ipinagluto ni   Romeo ng adobo ang         babae.
+\m I-pinagluto ni   Romeo ng adobo ang         babae.
+\g Obl-cook CS Romeo CS adobo ANG woman
+\l Romeo cooked (the)adobo for the woman.
+
+\t Nagluto    ang lalaki ng adobo
+\m Nagluto    ang lalaki ng adobo
+\g Nom-cook ANG man CS adobo
+\l The man cooked adobo.
+
+\t NilutoØ     ng lalaki ang adobo
+\m Niluto-Ø     ng lalaki ang adobo
+\g asp-cook-Acc CS man ANG adobo
+\l A/the man cooked the adobo
+
+\t NilutoØ     ng lalaki ang adobo
+\m Niluto-Ø     ng lalaki ang adobo
+\g asp-cook-Acc CS man ANG adobo
+\l A/the man cooked the adobo
+
+\t Ipinagluto ni Romeo ng adobo ang            babae.
+\m I-pinagluto ni Romeo ng adobo ang            babae.
+\g  Obl-cook CS Romeo CS adobo ANG woman
+\l Romeo cooked (the) adobo for the woman.
+
+\t Ipinagluto          ni Romeo ng adobo ang babae
+\m I-pinagluto          ni Romeo ng adobo ang babae
+\g Obl-asp-cook CS Romeo CS adobo ANG woman
+\l Romeo cooked adobo for the woman
+
+\t NilutoØ             ni Romeo ang adobo para sa         babae
+\m Niluto-Ø             ni Romeo ang adobo para sa         babae
+\g asp-cook-Acc CS Romeo ANG adobo for DAT woman
+\l Romeo cooked the adobo for a woman
+
+\t Ang lalaki ay tumawa        [para sa     kanyang asawa]
+\m Ang lalaki ay t-um-awa        [para sa     kanyang asawa]
+\g ANG man AY Nom.asp-laugh P          DAT poss.spouse
+\l The man laughed for his wife.
+
+\t Nagluto        ng adobo ng babae     si   Romeo.
+\m Nagluto        ng adobo ng babae     si   Romeo.
+\g Nom.asp-cook CS adobo CS woman ANG Romeo
+\l Romeo cooked adobo for a woman.
+
+\t Nagmamahal           ang bawat amai ng kanyangi anak.
+\m Nagmamahal           ang bawat amai ng kanyangi anak.
+\g Nom.asp-pag-love ANG every father CS poss.child
+\l Every fatheri loves hisi child.
+
+\t Nagmamahal          ang kanyangi ama ng bawat anaki.
+\m Nagmamahal          ang kanyangi ama ng bawat anaki.
+\g Nom.asp-pag-love ANG poss.father CS every child
+\l Heri father loves every childi.
+
+\t MinamahalØ ng bawat amai ang kanyangi anak
+\m Minamahal-Ø ng bawat amai ang kanyangi anak
+\g asp-love-Acc CS every father ANG poss.child
+\l Every fatheri loves hisi child
+
+\t Ibinantay     ko ng bawat anaki ang kanyangi magulang.
+\m I-binantay     ko ng bawat anaki ang kanyangi magulang.
+\g Obl-asp-watch CS.I CS every child ANG poss.parent.
+\l I watched every childi for hisi parents.
+
+\t Nagbigay ang magsasaka ng bulaklak sa             kalabaw
+\m Nagbigay ang magsasaka ng bulaklak sa             kalabaw
+\g Nom-gave ANG farmer         CS flower      DAT water-buffalo
+\l The farmer gave a flower to the water buffalo
+
+\t Ibinigay ng magsasaka ang bulaklak sa     kalabaw
+\m I-binigay ng magsasaka ang bulaklak sa     kalabaw
+\g Obl-gave CS farmer       ANG flower DAT water-buffalo
+\l A/the farmer gave the flowertothe waterbuffalo
+
+\t Binigyan ng magsasaka ng bulaklak ang       kalabaw
+\m Binigy-an ng magsasaka ng bulaklak ang       kalabaw
+\g gave-Dat CS farmer        CS flower    ANG water-buffalo
+\l A/the farmer gave a/the flowerto the water buffalo
+
+\t Magsasabi     ang    kalabaw       na masarap ang bulaklak
+\m Magsasabi     ang    kalabaw       na masarap ang bulaklak
+\g Nom-will.say ANG water-buffalo that delicious ANG flower
+\l The waterbuffalo will say thatthe floweris delicious
+
+\t Sasabihin   ng kalabaw        na masarap ang       bulaklak
+\m Sasabih-in   ng kalabaw        na masarap ang       bulaklak
+\g will.say-Acc CS water-buffalo that delicious ANG flower
+\l A/the water buffalo will say that the flower is delicious
+
+\t Kailan [sasabihin ng sundalo             [na uuwi                 ang Pangulo e ]]?
+\m Kailan [sasabih-in ng sundalo             [na uuwi                 ang Pangulo e ]]?
+\g when will.say-Acc CS soldier               thatNom-will-go-homeANG President        
+\l When will the soldier say thatthe President will go home?
+
+\t Kailan [ magsasabi   ang sundalo        [na uuwi                  ang Pangulo e ]]?
+\m Kailan [ magsasabi   ang sundalo        [na uuwi                  ang Pangulo e ]]?
+\g when Nom-will.say ANG soldier            that Nom-will-go-homeANG President        
+\l When will the soldier say that the President would go home?
+
+\t Kailan [ipinangako ng sundalo             [na uuwi                 ang Pangulo e ]]?
+\m Kailan [i-pinangako ng sundalo             [na uuwi                 ang Pangulo e ]]?
+\g when Obl-promised CS soldier                thatNom-will-go-homeANG President        
+\l When did the soldier promise thatthe President would go home?
+
+\t Kailan [ nangako       ang sundalo         [na uuwi                  ang Pangulo e ]]?
+\m Kailan [ nangako       ang sundalo         [na uuwi                  ang Pangulo e ]]?
+\g when Nom-promised ANG soldier               that Nom-will-go-home ANG President       
+\l When did the soldier promise thatthe President would go home?
+
+\t Kailan [pinaniwalaan ng sundalo                  [na uuwi                  ang Pangulo e ]]?
+\m Kailan [pinaniwala-an ng sundalo                  [na uuwi                  ang Pangulo e ]]?
+\g when believed-Dat        CS soldier                that Nom-will-go-home ANG President       
+\l When did the soldier believe thatthe President would go home?
+
+\t Kailan [ naniwala     ang    sundalo          [na uuwi                   ang Pangulo e ]]?
+\m Kailan [ naniwala     ang    sundalo          [na uuwi                   ang Pangulo e ]]?
+\g  When Nom-believed ANG soldier                 that Nom-will-go-home ANG President        
+\l When did the soldier believe thatthe President would go home?
+
+\t ang kalabaw           [ na sinabiØ ng guro                 [ na bibigyan        ng lalaki ng bulaklak e ]
+\m ang kalabaw           [ na sinabi-Ø ng guro                 [ na bibigy-an        ng lalaki ng bulaklak e ]
+\g ANG water-buffalo that said-Acc CS teacher                   that will-give-Dat CS man       CS flower     
+\l the water buffalo that theteacher said that theman would give a flowerto
+
+\t ang kalabaw        [na ipinangako        ng guro            [ na bibigyan      ng lalaki ng bulaklak e]]
+\m ang kalabaw        [na i-pinangako        ng guro            [ na bibigy-an      ng lalaki ng bulaklak e]]
+\g ANG water-buffalo that Obl-promised CS teacher                thatwill-give-Dat CS man CS flower          
+\l the water buffalo thatthe teacher promised that theman would give a flowerto
+
+\t ang kalabaw        [na pinaniwalaan ng guro                    [na bibigyan        ng lalaki ng bulaklak e]]
+\m ang kalabaw        [na pinaniwala-an ng guro                    [na bibigy-an        ng lalaki ng bulaklak e]]
+\g ANG water-buffalo that believed-Dat       CS teacher            that will-give-Dat CS man CS flower           
+\l the water buffalo that theteacher believed that theman would give a flowerto
+
+\t Pinangakuan niya ako          [na bibigyan       niya ng bulaklak ang       kalabaw]   
+\m Pinangaku-an niya ako          [na bibigy-an       niya ng bulaklak ang       kalabaw]   
+\g promised-Dat CS-he ANG-me      that will-give-Dat CS-he CS flower       ANG water-buffalo
+\l He promised me that he will give a flower to the water buffalo.
+
+\t Sino[ang binigyan ng lalaki ng bulaklak __ ]?
+\m Sino[ang binigy-an ng lalaki ng bulaklak __ ]?
+\g who ANG gave-Dat CS man CS flower
+\l Who did the man give the flowerto?
+
+\t Sino [ang ibinigay ng lalaki ang bulaklak __ ]?
+\m Sino [ang i-binigay ng lalaki ang bulaklak __ ]?
+\g  who ANG Obl-gave CS man ANG flower
+\l Who did the man give the flowerto?
+
+\t Sino[ang nagbigay ang lalaki ng bulaklak __ ]?
+\m Sino[ang nagbigay ang lalaki ng bulaklak __ ]?
+\g who ANG Nom-gave ANG man CS flower
+\l Who did the man give the flowerto?
+
+\t Kailan binigyan ng lalaki ng bulaklak ang kalabaw?
+\m Kailan binigy-an ng lalaki ng bulaklak ang kalabaw?
+\g when    gave-Dat CS man CS flower           ANG water-buffalo
+\l When did the man give a flower to thewater buffalo?
+
+\t Kailan ibinigay ng lalaki ang bulaklak sa         kalabaw?
+\m Kailan i-binigay ng lalaki ang bulaklak sa         kalabaw?
+\g when Obl-gave CS man ANG flower              DAT water-buffalo
+\l When did the man give the flower to the water buffalo?
+
+\t Kailan nagbigay ang lalaki ng bulaklak sa        kalabaw?
+\m Kailan nagbigay ang lalaki ng bulaklak sa        kalabaw?
+\g when Nom-gave ANG man CS flower DAT water-buffalo
+\l When did the man give a flowerto the waterbuffalo?
+
+\t Sa aling kalabaw         ibinigay ng lalaki ang bulaklak?
+\m Sa aling kalabaw         i-binigay ng lalaki ang bulaklak?
+\g to which water-buffalo Obl-gave CS man ANG flower
+\l To which water buffalo did the man give the flower?
+
+\t Sa aling kalabaw       nagbigay     ang lalaki ng bulaklak?
+\m Sa aling kalabaw       nagbigay     ang lalaki ng bulaklak?
+\g to which water-buffalo Nom-gave ANG man CS flower
+\l To which water buffalo did the man give the flower?
+
+\t Ano ang isinauli           mo         sa aklatan?
+\m Ano ang i-sinauli           mo         sa aklatan?
+\g what ANG Obl-asp-return CS-you DAT library
+\l What did you return to the library?
+
+\t Nagluto    ang lalaki ng adobo
+\m Nagluto    ang lalaki ng adobo
+\g Nom-cook ANG man CS adobo
+\l The man cooked adobo.
+
+\t NilutoØ       ng lalaki ang adobo
+\m Niluto-Ø       ng lalaki ang adobo
+\g asp-cook-Acc CS man ANG adobo
+\l A/the man cooked the adobo
+
+\t Sino ang     nagluto     ng adobo?
+\m Sino ang     nagluto     ng adobo?
+\g      who ANG Nom-cook CS adobo
+\l Who cooked (the) adobo?
+
+\t a.Bakit sinabiØ ng Pangulo                [na inatake       niya ang bansang iyon]?
+\m a.Bakit sinabi-Ø ng Pangulo                [na inatake       niya ang bansang iyon]?
+\g   why said-Acc CS President                that attacked-Acc CS.he ANG country that 
+\l Why did the President say that he attacked that country?
+
+\t b. Bakit kinailaØ ng Pangulo             [na inatake       niya ang bansang iyon]?
+\m b. Bakit kinaila-Ø ng Pangulo             [na inatake       niya ang bansang iyon]?
+\g    why denied-Acc CS President            that attacked-Acc CS.he ANG country that 
+\l Why did the President deny that he attacked that country?
+
+\t a. Ég lána Maríu          bækurnar      ekki
+\m a. Ég lána Maríu          bækurnar      ekki
+\g    I   lend Maria (DAT) books (ACC) not
+\l I do not lend Maria the books
+
+\t Sinusulat lahat ng            mga bata ang mga liham
+\m Sinusulat lahat ng            mga bata ang mga liham
+\g UF.write     all      CORE    PL       child NOM PL            letter
+\l The/some children write all the letters.
+
+\t iniabot              ng    manggamot            sa   sundalo          ang itlog  
+\m iniabot              ng    manggamot            sa   sundalo          ang itlog  
+\g UF.REAL.within.reach GEN   IRR.AF.medicine      OBL  soldier          NOM     egg
+\l The physician handed the egg to the soldier.
+
+\t Bumili       ang     lalake   ng     isda    ng     pera             sa           tindahan
+\m Bumili       ang     lalake   ng     isda    ng     pera             sa           tindahan
+\g AF-buy       NOM     man      GEN    fish    GEN    money            OBL          store   
+\l The man bought fish with money in the store.
+
+\t Binili   ng   lalake ang isda ng              pera                   sa           tindahan
+\m Binili   ng   lalake ang isda ng              pera                   sa           tindahan
+\g UF-buy   GEN  man        NOM   fish   GEN     money                  OBL          store   
+\l The man bought the fish with money in the store.
+
+\t Binilhan       ng    lalake    ng     isda    ng     pera             ang          tindahan
+\m Binilhan       ng    lalake    ng     isda    ng     pera             ang          tindahan
+\g LF-buy         GEN   man       GEN    fish    GEN    money            NOM          store   
+\l The man bought fish with money in the store.
+
+\t isdang ibinigay          ng     lalake sa      bata
+\m isdang ibinigay          ng     lalake sa      bata
+\g fish.LNK   UV.PERF.give  GEN    man      OBL   child
+\l the fish which was given to the child by the man
+
+\t batang      binigyan      ng     lalake ng                isda
+\m batang      binigyan      ng     lalake ng                isda
+\g child.LNK PERF.give.DV GEN man            GEN             fish
+\l the child who was given fish by the man
+
+\t nagulat             ang      babae     sa      boyfriend          niya
+\m na-gulat             ang      babae     sa      boyfriend          niya
+\g AS-surprised         NOM      woman     OBL     boyfriend          3SG.POSS
+\l The woman was surprised at her boyfriend.
+
+\t kinagulatan        ng       babae         ang      boyfriend        niya
+\m k-in-a-gulat-an        ng       babae         ang      boyfriend        niya
+\g US-surprised           CORE     woman         NOM      boyfriend        3SG.POSS
+\l The woman was surprised at her boyfriend.
+
+\t Dito   siya         magtatayo ng=bahay
+\m Dito   siya         magtatayo ng=bahay
+\g here 3SG.NOM FUT.AV.build          GEN=house
+\l Here he will build a house.
+
+\t [Para kay=Pedro] ko                binili         ang=lauran
+\m [Para kay=Pedro] ko                binili         ang=lauran
+\g for      DAT=Pedro     1SG.GEN PERF.buy.OV NOM=toy
+\l For Pedro I bought the toy.
+
+\t Bumili   ang lalake ng       isda ng        pera      sa          tindahan
+\m Bumili   ang lalake ng       isda ng        pera      sa          tindahan
+\g AF-buy   NOM     man    GEN  fish     GEN   money OBL             store   
+\l The man is the one who bought fish with money in the store.
+
+\t Binili      ng    lalake ang isda ng         pera       sa          tindahan
+\m Binili      ng    lalake ang isda ng         pera       sa          tindahan
+\g UF-buy      GEN   man     NOM   fish   GEN   money OBL              store   
+\l The fish is what the man bought with money in the store.
+
+\t Binilhan ng       lalake ng     isda ng       pera                 ang          tindahan
+\m Binilhan ng       lalake ng     isda ng       pera                 ang          tindahan
+\g LF-buy      GEN   man     GEN   fish    GEN   money                NOM          store   
+\l The store is where the man bought fish with money.
+
+\t Ipinambili ng     lalake ng     isda ang pera                       sa           tindahan
+\m Ipinambili ng     lalake ng     isda ang pera                       sa           tindahan
+\g IF-buy      GEN   man     GEN   fish    NOM      money              OBL          store   
+\l The money is what the man bought fish with in the store.
+
+\t Bumili ang lalaki ng bigas
+\m Bumili ang lalaki ng bigas
+\g         AT-bought T man G rice
+\l The man bought rice
+
+\t b. Binili               ng lalaki ang bigas
+\m b. Binili               ng lalaki ang bigas
+\g       GT-bought A man T rice
+\l A man bought the rice
+
+\t Nagmamahal si Juan sa kanyang sarili
+\m Nagmamahal si Juan sa kanyang sarili
+\g       AT-loves                T Juan Loc his self
+\l Juan loves himself
+
+\t Minamahal ni Juan ang kanyang sarili
+\m Minamahal ni Juan ang kanyang sarili
+\g   GT-loves A Juan T                  his self
+\l Juan loves himself
+
+\t Baka kumain (siya) ng tambakol
+\m Baka kumain (siya) ng tambakol
+\g     maybe AT-ate T-he G mackerel
+\l Maybe he ate mackerel
+
+\t b. Baka kinain *(niya) ang tambakol
+\m b. Baka kinain *(niya) ang tambakol
+\g      maybe GT-ate A-he T mackerel
+\l Maybe he ate the mackerel
+
+\t Hinuhugasan niya ang mga pinggan
+\m Hinuhugasan niya ang mga pinggan
+\g   DT-washes A-he T pl.dish
+\l He's washing the dishes
+
+\t Ibinigay ni Juan ang premyo sa kanyang sarili
+\m Ibinigay ni Juan ang premyo sa kanyang sarili
+\g    GT-gave A Juan T prize D his             self
+\l Juan gave the prize to himself
+
+\t b. Binalak ni Juang kainin ang tambakol
+\m b. Binalak ni Juang kainin ang tambakol
+\g     GT-planned A Juan-Li GT-eat T mackerel
+\l Juan planned to eat the mackerel
+
+\t lapis ko
+\m lapis ko
+\g    pencil A-I
+\l my pencil
+
+\t b. Binili      ko ang lapis
+\m b. Binili      ko ang lapis
+\g     GT-bought A-I T pencil
+\l I bought the pencil
+
+\t b. aking lapis
+\m b. aking lapis
+\g     L-I pencil
+\l my pencil
+
+\t Bumili        ng isda ang lalaki
+\m Bumili        ng isda ang lalaki
+\g   AT-bought G fish T man
+\l The man bought (*the) fish
+
+\t Ibinili ng lalaki ng isda ang bata
+\m Ibinili ng lalaki ng isda ang bata
+\g  BT-bought A man G fish T child
+\l A/the man bought the child (the) fish
+
+\t Kabibili             lang ng lalaki ng isda
+\m Kabibili             lang ng lalaki ng isda
+\g Recent Past-bought just A man G fish
+\l A/The man just bought (the) fish
+
+\t pagtugtog niya ng piyesa
+\m pagtugtog niya ng piyesa
+\g Gerund-play A-he G piece
+\l His playing the piece
+
+\t Nagbuhos siya ng tubig na ito sa ulo ng bata
+\m Nagbuhos siya ng tubig na ito sa ulo ng bata
+\g      AT-poured T-he G water Li this L head Gen boy
+\l He poured this water on the boy's head
+
+\t Siya ang nagbuhos ng tubig na ito sa ulo ng bata
+\m Siya ang nagbuhos ng tubig na ito sa ulo ng bata
+\g  T-he T AT-poured G water Li this L head Gen boy
+\l He is the one who poured water on this boy's head
+
+\t Nagmamahal ang kanyangi ama ng bawat anaki
+\m Nagmamahal ang kanyangi ama ng bawat anaki
+\g      AT-loves T         his father G every child
+\l His father loves every child
+
+\t b. ?Minamahal ng kanyangi ama ang bawat anaki
+\m b. ?Minamahal ng kanyangi ama ang bawat anaki
+\g       GT-loves A his father T every child
+\l His father loves every child
+
+\t maliit na       bahay
+\m maliit na       bahay
+\g small linker    house
+\l small house
+
+\t bahay na        maliit
+\m bahay na        maliit
+\g house linker    house
+\l small house
+
+\t naglagay ng tubig sa baso ng           baba?e.
+\m nag-lagay ng tubig sa baso ng           baba?e.
+\g AT-put    det water Loc.vase Topic woman
+\l The woman (T) put (some) water in the vase.
+
+\t ilinagay ng baba?e sa baso ng       tubig.
+\m i-l-in-agay ng baba?e sa baso ng       tubig.
+\g OT-put       det woman Loc.vase Topic water
+\l The woman put the water (T) in the vase.
+
+\t linagyan ng baba?e ng tubig ng      baso.
+\m l-in-agy-an ng baba?e ng tubig ng      baso.
+\g LT-put      det woman det water Topic vase
+\l The woman put the water in the vase (T).
+
+\t ipaligo
+\m i-pa-ligo
+\g BT-cause-bathe
+\l bathe with
+
+\t mpaNbili
+\m m-paN-bili
+\g AT-trans-shop
+\l shops
+
+\t ipaNbayad
+\m i-paN-bayad
+\g IT-trans-pay
+\l will cut with
+
+\t kumaakain
+\m k-um-aa-kain
+\g AT-RED-eat
+\l is/are eating
+
+\t tumulak ako ng bato
+\m tumulak ako ng bato
+\g AT-drag I det rock
+\l I dragged the rock.
+
+\t nakatulak ako ng bato
+\m nakatulak ako ng bato
+\g AT-KA-drag I det rock
+\l I dragged the rock.
+
+\t Mangelek si Bill si John manuhor biang
+\m Mang-elek si Bill si John man-uhor biang
+\g av-persuade pm Bill pm John av-buy dog
+\l John is persuading Bill to buy a dog.
+
+\t Mahal      itong galang. Pero mura itong singsing
+\m Mahal      ito-ng galang. Pero mura ito-ng singsing
+\g expensive this-LIG bracelet but cheap this-LIG ring
+\l This bracelet is expensive. But this ring is cheap.
+
+\t Mahal      ang galang na ito. Pero mura ang galang na iyan
+\m Mahal      ang galang na ito. Pero mura ang galang na iyan
+\g expensive TRG bracelet LIG this but cheap TRG bracelet LIG that
+\l This bracelet is expensive. But that bracelet is cheap.
+
+\t Pinnalamudian             niJuan          ang puno         ng ilao
+\m P-in-nalamudi-an             ni-Juan          ang puno         ng ilao
+\g Past-decorate-Loc            Obl-John         Top tree         with lights
+\l The tree was decorated with lights by John.
+
+\t Ibinnalamud               niJuan          ang ilao        sa puno
+\m I-b-in-nalamud               ni-Juan          ang ilao        sa puno
+\g Top-Past-decorate            Obl-John         Top light       onto tree
+\l *The lights were decorated onto the tree by John.
+
+\t ang   maliít   na   langgám
+\m ang   maliít   na   langgám
+\g SPEC small     LK   ant
+\l the little ant
+
+\t ang paa ng mama... na bàbaríl sa                   kanyá
+\m ang paa ng mama... na bàbaríl sa                   kanyá
+\g SPEC foot GEN man            LK gun          LOC 3SG.DAT
+\l the feet of the man who was going to shoot at him
+
+\t sa isang mànlalakbáy
+\m sa isa-ng mànlalakbáy
+\g LOC one-LK traveler
+\l about a traveler
+
+\t ay       yuung mama
+\m ay       yuu-ng mama
+\g PRED DEM-LK man
+\l when that man
+
+\t anong        puno
+\m ano-ng        puno
+\g what-LK tree
+\l what tree
+
+\t Lulutuin=niya            ang     adobo        (para sa        kanila).
+\m Lulutu-in=niya            ang     adobo        (para sa        kanila).
+\g will.cook-PV=3SG.GEN      NOM adobo             for  DAT       3PL.DAT
+\l She will cook the adobo for them.
+
+\t Lulutuin=niya            ang     adobo        sa      bahay niya.
+\m Lulutu-in=niya            ang     adobo        sa      bahay niya.
+\g will.cook-PV=3SG.GEN      NOM adobo            DAT     house 3SG.GEN
+\l She will cook the adobo at her house.
+
+\t Lulutuan=niya=sila              ng        adobo.
+\m Lulutu-an=niya=sila              ng        adobo.
+\g will.cook-DV=3SG.GEN=3PL.NOM GEN           adobo
+\l She will cook them some adobo.
+
+\t Lulutuin=niya            ang     adobo        sa      pamamagitan ng        kutsara.
+\m Lulutu-in=niya            ang     adobo        sa      pamamagitan ng        kutsara.
+\g will.cook-PV=3SG.GEN      NOM adobo            DAT     use(n.)     GE N      spoon
+\l She will cook the adobo with a spoon.
+
+\t Lulutuin=niya         ang    adobo at         gamitin=niya  ang         kutsara.
+\m Lulutu-in=niya         ang    adobo at         gamit-in=niya  ang         kutsara.
+\g will.cook-PV=3SG.GENNOM adobo CONJ             use-PV=3SG.GEN NOM         spoon
+\l She will cook the adobo with a spoon.
+
+\t Lulutuin=niya            ng      kutsara           ang      adobo.
+\m Lulutu-in=niya            ng      kutsara           ang      adobo.
+\g will.cook-PV=3SG.GEN      GE N    spoon             NOM      adobo
+\l She will cook the adobo with a spoon.
+
+\t Sundutin=mo           ng     karayom ang                 lobo.
+\m Sundut-in=mo           ng     karayom ang                 lobo.
+\g poke-PV=2SG.GEN        GE N   needle  NOM                 balloon
+\l Poke the balloon with a needle.
+
+\t Bumili              ng isda      ang lalaki
+\m Bumili              ng isda      ang lalaki
+\g bought(Agent Topic) ACC/OBL-fish NOM/ABS-man
+\l The man bought (*the) fish.
+
+\t Binili              ng lalaki   ang isda
+\m Binili              ng lalaki   ang isda
+\g bought(Theme Topic) GEN/ERG-man NOM/ABS-fish
+\l A/The man bought the fish.
+
+\t sa tindahan bibilhin ng lalake ang isda
+\m sa tindahan bi-bilh-in ng lalake ang isda
+\g OBL store       IRR-buy ERG man ABS fish
+\l In the store the man will buy fish.
+
+\t umakyat ng/sa       puno ang bata
+\m um-akyat ng/sa       puno ang bata
+\g climb     ERG/OBL tree ABS child
+\l The child climbed a/the tree.
+
+\t [ Huhugasan ko             _nom ] at [ pupunasan mo           ang=mga=pinggan ]
+\m [ Huhugasan ko             _nom ] at [ pupunasan mo           ang=mga=pinggan ]
+\g FUT-wash-DV 1.SG.GEN              and FUT-dry-DV 2.SG.GEN NOM=PL=dish
+\l I will wash and you dry the dishes.
+
+\t [ Niluto      ang=pagkain _gen ] at [ hinugasan        ang=mga=pinggan ni=Josie ]
+\m [ Niluto      ang=pagkain _gen ] at [ hinugasan        ang=mga=pinggan ni=Josie ]
+\g PERF-cook-OV NOM=food              and PERF-wash­DV NOM=PL=dish          GEN=J
+\l The food was cooked and the dishes washed by Josie.
+
+\t [ Nanghuhuli     ang=ama     ko _gen ] at [ nagtitinda     ang=ina    ko ng=isda ]
+\m [ Nanghuhuli     ang=ama     ko _gen ] at [ nagtitinda     ang=ina    ko ng=isda ]
+\g AV.IMPERF-catch NOM=father my             and AV.IMPERF-sell NOM=mother my GEN=fish
+\l My father catches and my mother sells fish.
+
+\t [ Pumunta _nom sa=tindahan ] at [ bumili           ang=kapatid ko ng=bigas ]
+\m [ Pumunta _nom sa=tindahan ] at [ bumili           ang=kapatid ko ng=bigas ]
+\g PER-AV-go       DAT=store and PERF-AV-buy NOM=sibling my GEN=rice
+\l My brother went to the store and bought some rice.
+
+\t Nagbigay       ng=regalo     si=Maria at nagpadala             ng=Liham ang=mga=bata kay=Juan
+\m Nagbigay       ng=regalo     si=Maria at nagpadala             ng=Liham ang=mga=bata kay=Juan
+\g PERF.AV-give GEN=present NOM=M and PERF.AV-send GEN=letter NOM=PL=child DAT=J
+\l Maria gave a present and the children sent a letter to Juan.
+
+\t [ Huhugasan ko ]           at [ pupunasan mo ] ang=mga=pinggan
+\m [ Huhugasan ko ]           at [ pupunasan mo ] ang=mga=pinggan
+\g FUT-wash-DV 1.SG.ERG and FUT-dry-DV 2.SG.ERG ABS=PL=dish
+\l I will wash and you dry the dishes.
+
+\t [ Niluto      ang=pagkain ] at [ hinugasan       ang=mga=pinggan ] ni=Josie
+\m [ Niluto      ang=pagkain ] at [ hinugasan       ang=mga=pinggan ] ni=Josie
+\g PERF-cook-OV ABS=food         and PERF-wash­DV ABS=PL=dish           ERG=J
+\l The food was cooked and the dishes washed by Josie.
+
+\t [ Nanghuhuli              ang=ama ko ] at [ nagtitinda           ang=ina    ko ] ng=isda
+\m [ Nanghuhuli              ang=ama ko ] at [ nagtitinda           ang=ina    ko ] ng=isda
+\g AV(antierg).IMPERF-catch ABS=father my and AV.IMPERF(antierg)-sell ABS=mother my ERG=fish
+\l My father catches and my mother sells fish.
+
+\t [ nagpadala             ng=Liham ang=mga=bata ] kay=Juan
+\m [ nagpadala             ng=Liham ang=mga=bata ] kay=Juan
+\g PERF.AV(antierg)-send ERG=letter ABS=PL=child DAT=J
+\l Maria gave a present and the children sent a letter to Juan.
+
+\t Iyon ang=baro=ng         bumili               ang=babae
+\m Iyon ang=baro=ng         b-um-ili               ang=babae
+\g that ABS=dress=LNK PERF.AV(antierg).-buy ABS=woman
+\l That's the dress that a/the woman bought.
+
+\t Iyon ang=babae=ng        binili      ang=baro
+\m Iyon ang=babae=ng        b-in-ili      ang=baro
+\g that ABS=woman=LNK PERF-buy.OV ABS=dress
+\l That's a/the woman who bought a dress.
+
+\t Iyon ang=baro=ng         binili     ng=babae
+\m Iyon ang=baro=ng         b-in-ili     ng=babae
+\g that ABS=dress=LNK PERF-buy.OV ERG=woman
+\l That's the dress that a/the woman bought.
+
+\t Kabibili        lang ni Juan ng tela
+\m Kabibili        lang ni Juan ng tela
+\g buy-RECPAST just ERG J         ERG cloth
+\l Juan has just bought some cloth.
+
+\t Sino ang kabibili       lang ng tela?
+\m Sino ang kabibili       lang ng tela?
+\g who ABS buy-RECPAST just ERG cloth
+\l Who has just bought some cloth?
+
+\t Ano ang kabibili          lang ni Juan?
+\m Ano ang kabibili          lang ni Juan?
+\g what ABS buy-RECPAST just ERG J
+\l What has Juan just bought?
+
+\t P<um>unta ang bata sa                 pulo.
+\m P<um>unta ang bata sa                 pulo.
+\g examine:AV NOM child DAT island
+\l The child went to the island.
+
+\t S<um>uri           ng     kaibigan niya         ang bata.
+\m S<um>uri           ng     kaibigan niya         ang bata.
+\g    examine:AV GEN friend              3SG.GEN NOM child
+\l The child examined her/his friend.
+
+\t S<in>uri           ng     bata ang kaibigan niya.
+\m S<in>uri           ng     bata ang kaibigan niya.
+\g    examine:PV GEN child NOM friend                 3SG.GEN
+\l The child examined her/his friend.
+
+\t P<in>untahan ng           bata ang pulo.
+\m P<in>untah-an ng           bata ang pulo.
+\g examine:LV        GEN      child NOM island
+\l The child went to the island.
+
+\t S<in>uri=siya            ng       bata.
+\m S<in>uri=siya            ng       bata.
+\g examine:PV=3SG.NOM GEN            child
+\l The child examined her/him.
+
+\t S<in>uri=ko=siya.
+\m S<in>uri=ko=siya.
+\g examine:PV=1SG.GEN=3SG.NOM
+\l I examined her/him.
+
+\t Hindi=ko              s<in>uri       ang bata.
+\m Hindi=ko              s<in>uri       ang bata.
+\g    NEG=1SG.GEN        examine:PV NOM child
+\l I didn't examine the child.
+
+\t nagtatrabaho ang lalaki
+\m nagtatrabaho ang lalaki
+\g work          REF man
+\l The man is working
+
+\t lalaki ang nagtatrabaho
+\m lalaki ang nagtatrabaho
+\g man REF work
+\l The one who is working is a man
+
+\t Sino ang        nagbigay        ng bulaklak sa             kanya?
+\m Sino ang        nagbigay        ng bulaklak sa             kanya?
+\g  who ANG NOM-gave NG flower                        DAT 3
+\l Who gave him/her the flower?
+
+\t Sino ang        binigyan        mo          ng bulaklak?
+\m Sino ang        binigyan        mo          ng bulaklak?
+\g  who ANG DAT-gave NG-you NG flower
+\l Who did you give the flower to?
+
+\t Ano ang           ibinigay      mo          sa      kanya?
+\m Ano ang           ibinigay      mo          sa      kanya?
+\g  what ANG OBL-gave NG-you DAT 3
+\l What did you give him/her?
+
+\t Sinabi       ng mga pulis [na nagnakaw ang guro           ng   kotse]
+\m Sinabi       ng mga pulis [na nagnakaw ang guro           ng   kotse]
+\g ACC-said NG PL police that NOM-stole ANG teacher NG car
+\l The police said that the teacher stole a car
+
+\t Ang guro ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\m Ang guro ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\g ANG teacher AY ACC-said NG PL police that NOM-stole              NG car
+\l The teacher, the police said __ stole a car
+
+\t Siya  ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\m Siya  ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\g ANG-he/she AY ACC-said NG PL police that NOM-stole                 NG car
+\l He/she, the police said __ stole a car
+
+\t Ako ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\m Ako ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\g   ANG-I AY ACC-said NG PL police that NOM-stole                  NG car
+\l I, the police said __ stole a car
+
+\t Sino ang     nagbigay     ng bulaklak sa        kanya?
+\m Sino ang     nagbigay     ng bulaklak sa        kanya?
+\g  who ANG NOM-gave NG flower               DAT 3
+\l Who gave him/her the flower?
+
+\t Sino ang     binigyan     mo         ng bulaklak?
+\m Sino ang     binigyan     mo         ng bulaklak?
+\g  who ANG DAT-gave NG-you NG flower
+\l Who did you give the flower to?
+
+\t Ano ang       ibinigay    mo         sa     kanya?
+\m Ano ang       ibinigay    mo         sa     kanya?
+\g  what ANG OBL-gave NG-you DAT 3
+\l What did you give him/her?
+
+\t Sino ang      sinabi      ng magsasaka [na kumain         ng bulaklak]?
+\m Sino ang      sinabi      ng magsasaka [na kumain         ng bulaklak]?
+\g  what ANG ACC-said NG farmer                that NOM-ate NG flower
+\l Who did the farmer say ate the flower?
+
+\t Ano ang       sinabi      ng magsasaka [na kinain         ng kalabaw]?
+\m Ano ang       sinabi      ng magsasaka [na kinain         ng kalabaw]?
+\g  what ANG ACC-said NG farmer                that ACC-ate NG water-buffalo
+\l What did the farmer say the water-buffalo ate?
+
+\t la          lettr e        que Josèphe a écrite            hier
+\m la          lettr e        que Josèphe a écrite            hier
+\g the-FEM letter-FEM that Joseph has written-FEM yesterday
+\l the letter th at Joseph wrote yesterd ay
+
+\t la          lettr e        qu'il a dite           que Clair e lui a envoyée
+\m la          lettr e        qu'il a dite           que Clair e lui a envoyée
+\g   the-FEM letter-FEM that.he has said-FEM that Clair e him has sent
+\l the letter th at he said that Clair e sent him
+
+\t Siya  ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\m Siya  ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\g ANG-he/she AY ACC-said NG PL police that NOM-stole                NG car
+\l He/she, the police said __ stole a car
+
+\t Ako ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\m Ako ay sinabi ng mga pulis [na nagnakaw _ ng kotse]
+\g   ANG-I AY ACC-said NG PL police that NOM-stole                NG car
+\l I, the police said __ stole a car
+
+\t Siya             ay    Pilipino
+\m Siya             ay    Pilipino
+\g ANG-he/she AY Filipino
+\l He/she is Filipino
+
+\t Ako      ay Pilipino
+\m Ako      ay Pilipino
+\g ANG-I AY Filipino
+\l I'm Filipino
+
+\t Kumain      ang kalabaw         ng bulaklak
+\m Kumain      ang kalabaw         ng bulaklak
+\g NOM-ate ANG water.buffalo NG flower
+\l The water buffalo ate a flower
+
+\t Kabibili          lang ng lalaki ng tela
+\m Kabibili          lang ng lalaki ng tela
+\g Rec.Perf.-bought just NG man NG cloth
+\l The man just bought the cloth
+
+\t Ang kalabaw            ay kinain     ang    bulaklak
+\m Ang kalabaw            ay kinain     ang    bulaklak
+\g ANG water.buffalo AY ACC-ate ANG flower
+\l The water buffalo ate the flower
+
+\t Siya          ay binili             ang     tela
+\m Siya          ay binili             ang     tela
+\g ANG.he/she AY ACC-bought ANG cloth
+\l He/she bought the cloth
+
+\t Ako    ay   binili          ang tela
+\m Ako    ay   binili          ang tela
+\g   ANG.I AY ACC-bought ANG cloth
+\l I bought the cloth
+
+\t Ang babae ay sinuntok ang mandurukot.
+\m Ang babae ay sinuntok ang mandurukot.
+\g ANG woman AY ACC-hit ANG pickpocket
+\l The woman hit the pickpocket
+
+\t Ako     ay sinuntok ang      mandurukot.
+\m Ako     ay sinuntok ang      mandurukot.
+\g  ANG-I AY ACC-hit ANG pickpocket
+\l I hit the pickpocket
+
+\t Ang mandurukot ay sinuntok ako
+\m Ang mandurukot ay sinuntok ako
+\g ANG pickpocket AY ACC-hit ANG-I
+\l The pickpocket hit me
+
+\t Umuwi                   ako / ka          /     siya     /       ang     mga lalaki
+\m Umuwi                   ako / ka          /     siya     /       ang     mga lalaki
+\g NOM-went.home ANG.I ANG.you ANG.he/she ANG PL                                   man
+\l I/you/he/she/the men went home
+
+\t það     finnast mörgum stúdentum                    tölvurnar          ljótar
+\m það     finnast mörgum stúdentum                    tölvurnar          ljótar
+\g  there find-PL many               students-DAT the.computers-NOM ugly
+\l Many students find the computers ugly
+
+\t b.* það      finnast     einhverjum stúdentum                  tölvurnar          ljótar
+\m b.* það      finnast     einhverjum stúdentum                  tölvurnar          ljótar
+\g     there find-PL some                    student-DAT the.computers-NOM ugly
+\l Some student finds the computers ugly
+
+\t c.* það      finnast     mörgum stúdentum                tölvan            ljót
+\m c.* það      finnast     mörgum stúdentum                tölvan            ljót
+\g     there find-PL many                student-DAT the.computer-NOM ugly
+\l Many students find the computer ugly
+
+\t Mér          höfðu fundist [þær            vera gáfaðar]
+\m Mér          höfðu fundist [þær            vera gáfaðar]
+\g    me-DAT had        found    they-NOM be         intelligent
+\l I had found them to be intelligent
+
+\t b.* Þeim          höfum alltaf     fundist [ við        vinna vel]
+\m b.* Þeim          höfum alltaf     fundist [ við        vinna vel]
+\g       them-DAT have       always found       we-NOM work well
+\l They have always thought that we work well
+
+\t Øbilog ang  pv      buwan.
+\m Ø-bilog ang  pv      buwan.
+\g    Ø-round           moon
+\l The moon is round.
+
+\t mabilog           ang buwan.
+\m ma-bilog           ang buwan.
+\g  ma-round          pv        moon
+\l The moon is full.
+
+\t May trabaho na ba si             Ernesto?
+\m May trabaho na ba si             Ernesto?
+\g   have work        now Q     top Ernesto
+\l Does Ernesto have work now?
+
+\t Si     Juan [*(ang)        [pumunta sa                    Boracay]].
+\m Si     Juan [*(ang)        [pumunta sa                    Boracay]].
+\g SBJ    Juan      SBJ       go.AT.PRF.OBL                 Boracay
+\l It was Juan who went to Boracay.
+
+\t Ang        holen [*(ang)         [ibinigay ni                   Maria kay Pedro]].
+\m Ang        holen [*(ang)         [ibinigay ni                   Maria kay Pedro]].
+\g SBJ        marble     SBJ        give.TT.PRF.CS                Maria OBL Pedro
+\l It was the marble that Maria gave to Pedro.
+
+\t Sa    Boracay [(*ang)            [pumunta                 si       Juan]].
+\m Sa    Boracay [(*ang)            [pumunta                 si       Juan]].
+\g OBL   Boracay SBJ                go.AT.PRF                SBJ      Juan
+\l It was to Boracay that Juan went.
+
+\t Kay        Pedro [(*ang) [ibinigay        ni Maria ang                        holen]].
+\m Kay        Pedro [(*ang) [ibinigay        ni Maria ang                        holen]].
+\g OBL        Pedro      SBJ    give.TT.PRF.CS Maria SBJ                        marble
+\l It was to Pedro that Maria gave the marble.
+
+\t Sino [*(ang)           [pumunta                 sa         Boracay]]?
+\m Sino [*(ang)           [pumunta                 sa         Boracay]]?
+\g who    SBJ             go.AT.PRF.OBL        Boracay
+\l Who went to Boracay?
+
+\t Ano     [*(ang)          [ibinigay ni                 Maria      kay          Pedro]]?
+\m Ano     [*(ang)          [ibinigay ni                 Maria      kay          Pedro]]?
+\g what       SBJ           give.TT.PRF.CS              Maria      OBL          Pedro
+\l What did Maria give to Pedro?
+
+\t Saan [(*ang) [pumunta                  si      Juan]]?
+\m Saan [(*ang) [pumunta                  si      Juan]]?
+\g where    SBJ   go.AT.PRF               SBJ     Juan
+\l Where did Juan go?
+
+\t Kanino [ (*ang) [ibinigay    ni      Maria ang                     holen]]?
+\m Kanino [ (*ang) [ibinigay    ni      Maria ang                     holen]]?
+\g who.OBL SBJ give.TT.PRF.CS          Maria SBJ                     marble
+\l To whom did Maria give the marble?
+
+\t Tumatawa          si         Diego.
+\m Tumatawa          si         Diego.
+\g laugh.AT.IMPRF SBJ           Diego
+\l Diego is laughing.
+
+\t Kakainin      ni      Juan     ang          saging sa        bahay.
+\m Kakainin      ni      Juan     ang          saging sa        bahay.
+\g eat.TT.CONT CS        Juan     SBJ          banana OBL       house
+\l Juan will eat the banana at home.
+
+\t Doktor ni      Alejandro si           Juan.
+\m Doktor ni      Alejandro si           Juan.
+\g doctor CS      Alejandro SBJ          Juan
+\l Juan is Alejandro's doctor.
+
+\t Matangkad at          malusog na         bata ang      babaeng iyon.
+\m Matangkad at          malusog na         bata ang      babae-ng iyon.
+\g tall           and healthy        COMP child SBJ       girl  COMP that
+\l That girl is a tall and healthy child.
+
+\t Sina       Juan at     Diego ang pumunta sa                   Boracay.
+\m Sina       Juan at     Diego ang pumunta sa                   Boracay.
+\g SBJ.PL.Juan and Diego SBJ go.AT.PRF.OBL                  Boracay
+\l It was Juan and Diego who went to Boracay.
+
+\t Si      Juan ang       pumunta     sa         Boracay.
+\m Si      Juan ang       pumunta     sa         Boracay.
+\g SBJ     Juan SBJ       go.AT.PRF.OBL         Boracay
+\l It was Juan who went to Boracay.
+
+\t Matangkad        at      malusog na      bata ang babaeng         iyon.
+\m Matangkad        at      malusog na      bata ang babae-ng         iyon.
+\g tall             and     healthy COMP child SBJ girl                    COMP        that
+\l That girl is a tall and healthy child.
+
+\t Tinanggap             ko           ang        sulat kahapon.
+\m Tinanggap             ko           ang        sulat kahapon.
+\g receive.TT.PRF.1SG.CS.      SBJ        letter yesterday
+\l I received the letter yesterday.
+
+\t Si      Juan [ang         [pumunta    sa                 Boracay]]
+\m Si      Juan [ang         [pumunta    sa                 Boracay]]
+\g SBJ     Juan SBJ           go.AT.PRF.OBL                Boracay
+\l It was Juan who went to Boracay.
+
+\t Sa     Boracay at     sa        Baguio      pumunta    si Juan.
+\m Sa     Boracay at     sa        Baguio      pumunta    si Juan.
+\g OBL    Boracay and OBL          Baguio      go.AT.PRF.SBJ Juan
+\l It was to Boracay and Baguio that Juan went.
+
+\t Sa     Boracay           pumunta                si       Juan.
+\m Sa     Boracay           pumunta                si       Juan.
+\g OBL    Boracay           go.AT.PRF.SBJ      Juan
+\l It was to Boracay that Juan went.
+
+\t Kay MacapagalArroyo ang mga estudyante.
+\m Kay Macapagal-Arroyo ang mga estudyante.
+\g  OBL Macapagal-Arroyo SBJ PL               student
+\l The students are for Macapagal-Arroyo.
+
+\t Nasa     Maynila si          Juan.
+\m Nasa     Maynila si          Juan.
+\g CO       Manila SBJ          Juan.
+\l Juan is in Manila.
+
+\t Sa          Boracay [pumunta                  si       Juan].
+\m Sa          Boracay [pumunta                  si       Juan].
+\g OBL         Boracay      go.AT.PRF.SBJ      Juan
+\l It was to Boracay that Juan went.
+
+\t [Si     Juan]i      ay             nasa       Maynila             t i.
+\m [Si     Juan]i      ay             nasa       Maynila             t i.
+\g SBJ     Juan        AY             CO         Manila
+\l Juan is in Manila.
+
+\t  Sa         Boracay pumunta                       si         Juan.
+\m  Sa         Boracay pumunta                       si         Juan.
+\g OBL         Boracay      go.AT.PRF.SBJ        Juan
+\l It was to Boracay that Juan went.
+
+\t Ang lapis mo                 [ang [hiniram         ni Juan kahapon]].
+\m Ang lapis mo                 [ang [hiniram         ni Juan kahapon]].
+\g SBJ    pencil 2SG.CS.CL.SBJ borrow.TT.PRF.CS Juan yesterday
+\l It was your pencil that Juan borrowed yesterday.
+
+\t Kumain       si    Juan ng         pansit.
+\m Kumain       si    Juan ng         pansit.
+\g eat.AT.PRF.SBJ    Juan CS         noodles
+\l Juan ate some noodles.
+
+\t Matangkad          na       bata   ang   babaeng    iyon.
+\m Matangkad          na       bata   ang   babae-ng    iyon.
+\g tall               COMP child      SBJ   girl    COMP   that
+\l That girl is a tall child.
+
+\t Ang       pansit       ang [kinain          ni Juan                sa        kusina]].
+\m Ang       pansit       ang [kinain          ni Juan                sa        kusina]].
+\g SBJ       noodles      SBJ     eat.TT.PRF.CS Juan                 OBL       kitchen
+\l It was the noodles that Juan ate in the kitchen.
+
+\t Sa         kusina       [kumain      si Juan    ng     pansit].
+\m Sa         kusina       [kumain      si Juan    ng     pansit].
+\g OBL        kitchen      eat.AT.PRF.SBJ Juan    CS     noodles
+\l It was in the kitchen that Juan ate some noodles.
+
+\t Sa         kusina       [si Juan]x [kumain          t   x   ng pansit].
+\m Sa         kusina       [si Juan]x [kumain          t   x   ng pansit].
+\g OBL        kitchen      SBJ Juan     eat.AT.PRF.CS          noodles
+\l It was in the kitchen that Juan ate some noodles.
+
+\t Ano [*(ang) [binili       ni Juan           sa    Maynila]]?
+\m Ano [*(ang) [binili       ni Juan           sa    Maynila]]?
+\g what SBJ      BUY.TT.PRF.CS Juan           OBL   Manila
+\l What did Juan buy in Manila?
+
+\t Ang      laruan [*(ang) [binili         ni        Juan sa Maynila]].
+\m Ang      laruan [*(ang) [binili         ni        Juan sa Maynila]].
+\g  SBJ     toy        SBJ     buy.TT.PRF.CS        Juan OBL Manila
+\l It was the toy that Juan bought in Manila.
+
+\t Saan [(*ang) [binili          ni         Juan       ang      laruan]]?
+\m Saan [(*ang) [binili          ni         Juan       ang      laruan]]?
+\g where SBJ        buy.TT.PRF.CS          Juan       SBJ      toy
+\l Where did Juan buy the toy?
+
+\t Sa      Maynila [ (*ang) [binili          ni       Juan      ang    laruan]].
+\m Sa      Maynila [ (*ang) [binili          ni       Juan      ang    laruan]].
+\g  OBL    Manila      SBJ    buy.TT.PRF.CS          Juan      SBJ    toy
+\l It was in Manila that Juan bought the toy.
+
+\t Ano [ang          kinain      ni Juan           sa      kusina]]?
+\m Ano [ang          kinain      ni Juan           sa      kusina]]?
+\g what SBJ          eat.TT.PRF.CS Juan           OBL     kitchen
+\l What did Juan eat in the kitchen?
+
+\t Saan        [kumain     si Juan        ng      pansit]?
+\m Saan        [kumain     si Juan        ng      pansit]?
+\g where       eat.AT.PRF.SBJ Juan       CS      noodles
+\l Where did Juan eat noodles?
+
+\t Kumakain        ka          ng pansit     (*ka)                    kahapon           (*ka).
+\m Kumakain        ka          ng pansit     (*ka)                    kahapon           (*ka).
+\g eat.AT.IMPRF.2SG.SBJ.CL. CS noodles                               yesterday
+\l You were eating some noodles yesterday.
+
+\t Hindi ka          kumakain     (*ka) ng pansit (*ka) kahapon (*ka).
+\m Hindi ka          kumakain     (*ka) ng pansit (*ka) kahapon (*ka).
+\g not 2SG.SBJ.CL.eat.AT.IMPRF.         CS noodles     yesterday
+\l You were not eating some noodles yesterday.
+
+\t Kahapon ka              hindi (*ka) kumakain (*ka) ng pansit       (*ka).
+\m Kahapon ka              hindi (*ka) kumakain (*ka) ng pansit       (*ka).
+\g yesterday 2SG.SBJ.CL.not            eat.AT.PRF.CS noodles
+\l It was yesterday that you were not eating some noodles.
+
+\t Taj    covek    joj    ga      je         poklonio.
+\m Taj    covek    joj    ga      je         poklonio.
+\g that   man      her it         3SG.PST.presented
+\l That man presented her with it.
+
+\t Receno je              [CP da11 su        nasi uvazeni clanovi (*su)
+\m Receno je              [CP da11 su        nasi uvazeni clanovi (*su)
+\g      posed          one         question
+\l It has been said that our respected members posed one question.
+
+\t Bakit sa          Maynila [pumunta                              si        Juan]?
+\m Bakit sa          Maynila [pumunta                              si        Juan]?
+\g why   OBL         Manila       go.AT.PRF.SBJ       Juan
+\l Why was it to Manila that Juan went?
+
+\t Kailan kay       Pedro        [ibinigay ni Maria                                   ang   bola]?
+\m Kailan kay       Pedro        [ibinigay ni Maria                                   ang   bola]?
+\g when   OBL       Pedro        give.TT.PRF.CS Maria                                SBJ   ball
+\l When was it to Pedro that Maria gave the ball?
+
+\t Kay Pedro ni Maria iniwan                    ang pera.
+\m Kay Pedro ni Maria iniwan                    ang pera.
+\g  OBL Pedro       CS Maria     leave.TT.PRF.SBJ money
+\l It was with Pedro that Maria left the money.
+
+\t [Bakit]WH [sa Maynila]focus [si       Juan]bodyguard                 pumunta?
+\m [Bakit]WH [sa Maynila]focus [si       Juan]bodyguard                 pumunta?
+\g why         OBL Manila          SBJ   Juan                           go.AT.PRF.
+\l Why was it to Manila that Juan went?
+
+\t [Bakit]WH [si Juan]bodyguard [sa       Maynila]focu                  pumunta?                                                                   s
+\m [Bakit]WH [si Juan]bodyguard [sa       Maynila]focu                  pumunta?                                                                   s
+\g why         SBJ Juan             OBL Manila                          go.AT.PRF
+\l Why was it to Manila that Juan went?
+
+\t Bakit sa     Maynila siya            pumunta?
+\m Bakit sa     Maynila siya            pumunta?
+\g why OBL Manila 3SG.SBJ.CL go.AT.PRF
+\l Why was it to Manila that he went?
+
+\t Nagatubili        siya=ng          [ humiram ng=pera sa=bangko ]
+\m Nag-atubili        siya=ng          [ h-um-iram ng=pera sa=bangko ]
+\g PERF.AV-hesitate 3SG.NOM=COMP AV-borrow GEN=money DAT=bank
+\l He hesitated to borrow money from a/the bank.
+
+\t Nagatubili        siya=ng           [ hiraman ng=pera ang=bangko ]
+\m Nag-atubili        siya=ng           [ hiram-an ng=pera ang=bangko ]
+\g PERF.AV-hesitate 3SG.NOM=COMP borrow-DV GEN=money NOM=bank
+\l He hesitated to borrow money from the bank.
+
+\t nakakita si       Juani ng       ahas malapit sa      kaniyai /kaniyang sarilii
+\m nakakita si       Juani ng       ahas malapit sa      kaniyai /kaniyang sarilii
+\g see-PAST TOP Juan GOAL snake near                     3SG      3SG-POSS REFL   
+\l Juan saw a snake near him/himself.
+
+\t a. Umuwi          si Juan
+\m a. Umuwi          si Juan
+\g     went-home       Juan
+\l Juan went home
+
+\t b. Mataas si Juan
+\m b. Mataas si Juan
+\g     tall         Juan
+\l Juan is tall
+
+\t c. Tungkol sa balarila ang      libro
+\m c. Tungkol sa balarila ang      libro
+\g     about         grammar the   book
+\l The book is about grammar
+
+\t d. Guro si Maria
+\m d. Guro si Maria
+\g     teacher Maria
+\l Maria is a teacher
+
+\t a. Kumain si Maria ng bangos
+\m a. Kumain si Maria ng bangos
+\g     ate         Maria       milkfish
+\l Maria ate milkfish
+
+\t a. Si Maria ay ang pangulo
+\m a. Si Maria ay ang pangulo
+\g       Maria      the president
+\l Maria is the president
+
+\t Matalino ang lalaking bumasa                           ng   diyaryo.
+\m Matalino ang lalaki-ng bumasa                           ng   diyaryo.
+\g intelligent NOM man-LNK PERF.AGT.read ACC                    newspaper
+\l The man who read a newspaper is intelligent.
+
+\t Interesante ang       diyaryong binasa                  ng lalaki.
+\m Interesante ang       diyaryo-ng binasa                  ng lalaki.
+\g interesting NOM newspaper-LNK PERF.DO.read                   ERG man
+\l The newspaper that the man read is interesting.
+
+\t Interesante ang diyaryong bumasa                    ang lalaki.
+\m Interesante ang diyaryo-ng bumasa                    ang lalaki.
+\g  interesting NOM newspaper-LNK PERF.AGT.read                   NOM man
+\l The newspaper that the man read is interesting.
+
+\t Matalino ang lalaking binasa                         ang    diyaryo.
+\m Matalino ang lalaki-ng binasa                         ang    diyaryo.
+\g  intelligent NOM man-LNK PERF.DO.read NOM                     newspaper
+\l The man who read a newspaper is intelligent.
+
+\t Lulutuin=niya            ang     adobo        (para sa        kanila).
+\m Lulutu-in=niya            ang     adobo        (para sa        kanila).
+\g will.cook-PV=3SG.GEN      NOM adobo             for  DAT       3PL.DAT
+\l She will cook the adobo for them.
+
+\t Lulutuin=niya            ang     adobo        sa      bahay niya.
+\m Lulutu-in=niya            ang     adobo        sa      bahay niya.
+\g will.cook-PV=3SG.GEN      NOM adobo            DAT     house 3SG.GEN
+\l She will cook the adobo at her house.
+
+\t Lulutuan=niya=sila              ng        adobo.
+\m Lulutu-an=niya=sila              ng        adobo.
+\g will.cook-DV=3SG.GEN=3PL.NOM GEN           adobo
+\l She will cook them some adobo.
+
+\t Lulutuin=niya            ang     adobo        sa      pamamagitan ng        kutsara.
+\m Lulutu-in=niya            ang     adobo        sa      pamamagitan ng        kutsara.
+\g will.cook-PV=3SG.GEN      NOM adobo            DAT     use(n.)     GE N      spoon
+\l She will cook the adobo with a spoon.
+
+\t Lulutuin=niya         ang    adobo at         gamitin=niya  ang         kutsara.
+\m Lulutu-in=niya         ang    adobo at         gamit-in=niya  ang         kutsara.
+\g will.cook-PV=3SG.GENNOM adobo CONJ             use-PV=3SG.GEN NOM         spoon
+\l She will cook the adobo with a spoon.
+
+\t Lulutuin=niya            ng      kutsara           ang      adobo.
+\m Lulutu-in=niya            ng      kutsara           ang      adobo.
+\g will.cook-PV=3SG.GEN      GE N    spoon             NOM      adobo
+\l She will cook the adobo with a spoon.
+
+\t Sundutin=mo           ng     karayom ang                 lobo.
+\m Sundut-in=mo           ng     karayom ang                 lobo.
+\g poke-PV=2SG.GEN        GE N   needle  NOM                 balloon
+\l Poke the balloon with a needle.
+
+\t B<um>ili        ang=lalake ng=isda         ng=pera         sa=tindahan.
+\m B<um>ili        ang=lalake ng=isda         ng=pera         sa=tindahan.
+\g <PERF.AV>buy NOM=man GEN=fish              GEN=money       LOC=store
+\l The man bought fish in the store with money.
+
+\t B<in>ili        ng=lalake ang=isda         ng=pera         sa=tindahan.
+\m B<in>ili        ng=lalake ang=isda         ng=pera         sa=tindahan.
+\g <PERF.OV>buy GEN=man NOM=fish GEN=money                    LOC=store
+\l The man bought the fish in the store with money.
+
+\t B<in>ilhan     ng=lalake ng=isda          ng=pera         ang=tindahan.
+\m B<in>ilh-an     ng=lalake ng=isda          ng=pera         ang=tindahan.
+\g <PERF>buy-LV GEN=man GEN=fish              GEN=money       NOM=store
+\l The man bought fish in the store with money.
+
+\t Ib<in>ili      ng=lalake ng=isda          ang=bata.
+\m I-b<in>ili      ng=lalake ng=isda          ang=bata.
+\g BV-<PERF>buy GEN=man GEN=fish              NOM=child
+\l The man bought fish for the child.
+
+\t Ipinanbili   ng=lalake ng=isda          ang=pera            sa=tindahan.
+\m Ip-in-an-bili   ng=lalake ng=isda          ang=pera            sa=tindahan.
+\g IV-PERF-?-buy GEN=man GEN=fish             NOM=money           LOC=store
+\l The man bought fish in the store with the money.
+
+\t B<um>ili           ng=isda    sa=bata      ang=lalake.
+\m B<um>ili           ng=isda    sa=bata      ang=lalake.
+\g <PERF.AV>-buy GEN=fish LOC=child NOM=man
+\l The man bought some fish from the child.
+
+\t B<in>ilhan     ng=lalake ng=isda ang=bata.
+\m B<in>ilh-an     ng=lalake ng=isda ang=bata.
+\g <PERF>buy-LV GEN man GEN fish NOM child
+\l The man bought some fish from the child.
+
+\t batang      b<in>igyan         ng=lalake ng=isda
+\m bata-ng      b<in>igy-an         ng=lalake ng=isda
+\g child-COMP <PERF>give-LV GEN=man GEN=fish
+\l the child which was given fish by the man
+
+\t isdang      ib<in>igay         ng=lalake sa=bata
+\m isda-ng      i-b<in>igay         ng=lalake sa=bata
+\g fish-COMP OV-<PERF>give GEN=man LOC=child
+\l the fish which was given to the child by the man
+
+\t T a.        Bukas     siya aalis.
+\m T a.        Bukas     siya aalis.
+\g             tomorrow he leave-fut
+\l It's tomorrow that he is leaving
+
+\t Bukas,     aalis siya.
+\m Bukas,     aalis siya.
+\g tomorrow leave-fut he
+\l Tomorrow, he's leaving
+
+\t Hihiram     ang    babae ng laruan sa bata.
+\m Hihiram     ang    babae ng laruan sa bata.
+\g borrow.ACT         woman        toy          child
+\l The woman will borrow a toy from a/the child.
+
+\t Hihiramin    ng babae ang laruan sa bata.
+\m Hihiram-in    ng babae ang laruan sa bata.
+\g borrow-PASS      woman          toy          child
+\l A/the woman will borrow the toy from a/the child.
+
+\t Hihiraman ng babae ng laruan ang bata.
+\m Hihiram-an ng babae ng laruan ang bata.
+\g borrow-DIR      woman       toy          child
+\l A/the woman will borrow a toy from the child.
+
+\t Bumili      si Pedro ng isda.
+\m Bumili      si Pedro ng isda.
+\g bought.ACT              fish
+\l Pedro bought fish?
+
+\t Bumili    sino ng isda?
+\m Bumili    sino ng isda?
+\g bought.ACT who     fish
+\l Who bought fish?
+
+\t Bumili      si Pedro ng ano?
+\m Bumili      si Pedro ng ano?
+\g bought.ACT                what
+\l What did Pedro buy?
+
+\t Darating bukas                   ang isang babaeng        nakilala ko sa probinsya.
+\m Darating bukas                   ang isang babae-ng        nakilala ko sa probinsya.
+\g come.ACT tomorrow                      one      woman-LNK met.PASS I in province    
+\l A woman is coming tomorrow who I met in the province.
+
+\t Kailangan ng puno ang tubig.
+\m Kailangan ng puno ang tubig.
+\g need          t r ee      water
+\l Trees need water.
+
+\t Basahin       mo ang libro at        sabihin           mo sa akin,                  kung        makikita mo ang mali                   sa libro.
+\m Basahin       mo ang libro at        sabihin           mo sa akin,                  kung        makikita mo ang mali                   sa libro.
+\g read.PASS     you        book and tell                 you       me                 wheth    er see.PASS you         mistake              book  
+\l Read the    book and tell me whether you find         any mistake in the book!
+
+\t Gamitin mo ang anumang             pinggan.
+\m Gamitin mo ang anuma-ng             pinggan.
+\g use       2SG       any-LNK         dish
+\l Use any dish.
+
+\t Ibibigay niya sa akin ang           tasa, kung mayroon.
+\m Ibibigay niya sa akin ang           tasa, kung mayroon.
+\g give.PASS he        me              cup, if    there is
+\l He'll give me a cup, if there is   one/any.
+
+\t Sasabihin nila sa      iyo ang anumang mangyari.
+\m Sasabihin nila sa      iyo ang anumang mangyari.
+\g tell.PASS they         you        anything happen
+\l They will tell you   anything that happens.
+
+\t Pinapahinto nila       ang sinumang nagdaan.
+\m Pinapahinto nila       ang sinumang nagdaan.
+\g stop.PASS they               anyone     pass by
+\l They stop anyone     who passes by.
+
+\t Bumili   ng isda ang ano?
+\m Bumili   ng isda ang ano?
+\g buy.ACT      fish      what
+\l Who bought fish?
+
+\t Bumili   ng isda ang aling babae?
+\m Bumili   ng isda ang aling babae?
+\g buy.ACT      fish      which woman
+\l Which woman bought fish?
+
+\t Bumili ng isda ang ilang      babae?
+\m Bumili ng isda ang ilang      babae?
+\g buy.ACT     fish     how many woman
+\l How many women bought fish?
+
+\t Hindiko alam          kung bumili ng isda ang ano.
+\m Hindiko alam          kung bumili ng isda ang ano.
+\g   not I know.PASS COMP buy.ACT             fish      what
+\l I don't know who bought fish.
+
+\t Hindi maliwanag kung bumili           ng isda ang aling babae.
+\m Hindi maliwanag kung bumili           ng isda ang aling babae.
+\g           clear      COMP buy.ACT          fish       which woman
+\l Which woman bought fish is not clear.
+
+\t Dikalala ang tanong kung bumili ng isda ang ilang               babae.
+\m Dikalala ang tanong kung bumili ng isda ang ilang               babae.
+\g   unknown         question COMP buy.ACT         fish    how many woman
+\l The question of how many women bought fish is .
+
+\t Hindi ko alam            kung    bumili ng isda ang babae.
+\m Hindi ko alam            kung    bumili ng isda ang babae.
+\g not     I    know.PASS whether buy.ACT        fish  woman
+\l I don't know whether the woman bought fish.
+
+\t Hindi ko alam         kung ang aling         babae ang       bumili      ng isda.
+\m Hindi ko alam         kung ang aling         babae ang       bumili      ng isda.
+\g not I know.PASS COMP            which        woman           buy.ACT        fish
+\l I don't know which woman bought fish.
+
+\t May desk *(ang) bawa't bata.
+\m May desk *(ang) bawa't bata.
+\g have desk                each   child
+\l Each child has a desk.
+
+\t Narito na      *(ang) lahat ng tao.
+\m Narito na      *(ang) lahat ng tao.
+\g here now               all        people
+\l All the peolple are here now.
+
+\t Bumili     *(ang)      bata ng lapis.
+\m Bumili     *(ang)      bata ng lapis.
+\g buy.ACT                child      pencil
+\l The child bought a    pencil.
+
+\t Binili     ng bata       *(ang) lapis.
+\m Binili     ng bata       *(ang) lapis.
+\g buy.PASS      child             pencil
+\l A child bought the    pencil.
+
+\t (Ang) bawa't bata ay         may     desk.
+\m (Ang) bawa't bata ay         may     desk.
+\g         each child           have    desk
+\l Each child has a desk.
+
+\t (Ang) lahat ng tao           'y narito na.
+\m (Ang) lahat ng tao           'y narito na.
+\g         all      people         here now
+\l All the peolple are here   now.
+
+\t (Ang) bata ang bumili ng                     lapis.
+\m (Ang) bata ang bumili ng                     lapis.
+\g        child         buy.ACT                 pencil
+\l The one bought pencil is a child
+
+\t (Ang) lapis ang binili          ng           bata.
+\m (Ang) lapis ang binili          ng           bata.
+\g        pencil        buy.PASS                child
+\l The thing that the child bought is         a pencil.
+
+\t Gamitin mo (ang) kahit (na)         ano.
+\m Gamitin mo (ang) kahit (na)         ano.
+\g use     2SG      even               what
+\l Use anything.
+
+\t Sino ang bumili ng isda?
+\m Sino ang bumili ng isda?
+\g who      buy.ACT     fish
+\l Who bought fish?
+
+\t (Ang) ano ba ang nasunog?
+\m (Ang) ano ba ang nasunog?
+\g        what Q          burned
+\l What got burned?
+
+\t (Ang) alin ba ang punonglunsod ng Pilipinas, ang Maynila o ang Quezon?
+\m (Ang) alin ba ang punong-lunsod ng Pilipinas, ang Maynila o ang Quezon?
+\g        which Q           capital                             or
+\l Which is the capital of the Philippines, Manila or Quezon?
+
+\t (Ang) aling bahay ang inyo?
+\m (Ang) aling bahay ang inyo?
+\g        which house           yours
+\l Which house is yours?
+
+\t (*Ang) sino ba ang dumating?
+\m (*Ang) sino ba ang dumating?
+\g          who Q           came
+\l Who came?
+
+\t Bumili ang sino ng        isda?
+\m Bumili ang sino ng        isda?
+\g buy.ACT        who         fish
+\l Who bought fish?
+
+\t Masaráp              ang pagkain
+\m Ma-saráp              ang pag-kain
+\g  STAT-satisfaction SPEC GER-eating
+\l The food was good.
+
+\t Silá       maginá        ay    naulog             na
+\m Silá       mag-iná        ay    na-ulog             na
+\g  3.PL      RCP-mother   PM    REAL.STAT-sleep now
+\l The mother and her daughter fell asleep.
+
+\t ulól     na     unggó
+\m ulól     na     unggó
+\g  foolish LNK monkey
+\l foolish monkey
+
+\t unggó=ng            ulól
+\m unggó=ng            ulól
+\g  monkey=LNK foolish
+\l foolish monkey
+
+\t pataás
+\m pataás
+\g go up
+\l up ward
+
+\t gumising ang bata
+\m gumising ang bata
+\g awoke TOPIC child
+\l The child awoke
+
+\t bumabasa ng diyaryo        ang titser
+\m bumabasa ng diyaryo        ang titser
+\g read.AT78 ng newspaper TOPIC teacher
+\l The teacher is reading a newspaper
+
+\t bumabasa ng titser ang diyaryo
+\m bumabasa ng titser ang diyaryo
+\g read.TT79 ng teacher TOPIC newspaper
+\l The teacher is reading a newspaper
+
+\t ginawa ng modista      ang baro
+\m ginawa ng modista      ang baro
+\g make-TT ng dressmaker TOPIC dress
+\l The dressmaker made the dress
+
+\t ginawa ni Maria ang baro
+\m ginawa ni Maria ang baro
+\g make-TT ng Maria TOPIC dress
+\l Maria made the dress
+
+\t ginawa ko        ang baro
+\m ginawa ko        ang baro
+\g make-TT ng.1sg TOPIC dress
+\l I made the dress
+
+\t lapis ko
+\m lapis ko
+\g pensil ng.1sg
+\l my pencil
+
+\t Magalis     ang babae ng bigas           sa sako para sa bata
+\m Magalis     ang babae ng bigas           sa sako para sa bata
+\g FUT:pakken TOPIC vrouw THEME rijst       uit zak    voor kind           TOPIC=AGENT
+\l De vrouw zal voor een/het kind wat rijst uit een zak halen.
+
+\t Aalisin        ng babae     ang bigas sa sako para sa bata   
+\m Aalisin        ng babae     ang bigas sa sako para sa bata   
+\g FUT:pakken AGENT vrouw TOPIC rijst       uit zak    voor kind    TOPIC=THEME
+\l De rijst zal een/de vrouw voor een/het kind uit een zak halen.
+
+\t Aalisan       ng babae     ng bigas    ang sako        para sa bata
+\m Aalisan       ng babae     ng bigas    ang sako        para sa bata
+\g FUT:pakken AGENT vrouw THEME rijst     TOPIC zak       voor kind       TOPIC=LOCATIEF
+\l Uit de zak zal een/de vrouw voor een/het kind wat rijst halen.
+
+\t Ipagaalis    ng babae     ng bigas      sa sako ang bata     
+\m Ipagaalis    ng babae     ng bigas      sa sako ang bata     
+\g FUT:pakken AGENT vrouw THEME rijst      uit zak    TOPIC kind    TOPIC=BENIFICIARY
+\l Voor het kind zal een/de vrouw uit een zak wat rijst halen.
+
+\t Susulat           lahat ang mga bata ng mga liham       
+\m Susulat           lahat ang mga bata ng mga liham       
+\g FUT:schrijven     alle TOPIC PL kind      THEME PL brief        TOPIC=AGENS
+\l Alle kinderen zullen brieven schrijven.
+
+\t Susulatin         lahat ng mga bata       ang mga liham
+\m Susulatin         lahat ng mga bata       ang mga liham
+\g FUT:schrijven     alle AGENT PL kind TOPIC PL brief            TOPIC=THEME
+\l De kinderen/Kinderen zullen alle brieven schrijven.
+
+\t Nagatubili    siyang      [ humiram ___ ng pera                                 sa banko ]
+\m Nagatubili    siya-ng      [ humiram ___ ng pera                                 sa banko ]
+\g aarzelen      hij:TOPIC-NG    lenen           THEME geld                         uit bank
+\l Hij aarzelde om geld van een/de bank te lenen.
+
+\t Nagatubili    siyang      [ hiramin ___ ang pera                                sa banko ]
+\m Nagatubili    siya-ng      [ hiramin ___ ang pera                                sa banko ]
+\g aarzelen      hij:TOPIC-NG     lenen           TOPIC geld                        uit bank
+\l Hij aarzelde om het geld van een/de bank te lenen.
+
+\t ang maliit na langgam
+\m ang maliit na langgam
+\g SPEC small LK ant
+\l the little ant
+
+\t ang paa ng mama . . . na babaril sa kanya
+\m ang paa ng mama . . . na babaril sa kanya
+\g SPEC foot GEN man           LK gun LOC 3sg.DAT
+\l the feet of the man who was going to shoot at him
+
+\t sa     isang manlalakbay
+\m sa     isa-ng manlalakbay
+\g LOC one-LK traveler
+\l about a traveler
+
+\t ay       yuung mama
+\m ay       yuu-ng mama
+\g PRED DEM-LK man
+\l when that man
+
+\t matalino ang lalaking bumasa nang diyaryo
+\m matalino ang lalaki-ng bumasa nang diyaryo
+\g intelligent    TOP   man-LK   um-read     COMP   newspaper
+\l The man who read a newspaper is intelligent
+
+\t tinakot nang lalaki ang anak
+\m t-in-akot nang lalaki ang anak
+\g in-fear   COMP   man   TOP   child
+\l The child was afraid of/frightened by a/the man
+
+\t naki kita ang manga bulaklak
+\m n-a-ki- kita ang manga bulaklak
+\g REAL-ma-   RED-see   TOP   plural flower
+\l The flowers are being seen
+
+\t naki kita nang baba'e ang bulaklak
+\m n-a-ki- kita nang baba'e ang bulaklak
+\g REAL-ma-   RED-see   COMP   woman       TOP   flower
+\l The woman sees the flower(s)
+
+\t napatay            ni Juan ang tigre
+\m n-a-patay            ni Juan ang tigre
+\g perf-ma-die     COMP       J.TOP   tiger
+\l Juan killed the tiger
+
+\t may aksidente
+\m may aksidente
+\g EX     accident
+\l There's been an accident
+
+\t abogado ang malaking lalaki
+\m abogado ang malaki-ng lalaki
+\g lawyer    TOP   (? ma-)big   LK   (?   RED-)man
+\l The big man is a lawyer
+
+\t may libro ang abogado
+\m may libro ang abogado
+\g EX    book   TOP   lawyer
+\l The lawyer has a book
+
+\t Tinakot            nang tao      ang kan iyang sarili
+\m T-in-akot            nang tao      ang ka-n- iya-ng sarili
+\g   erg-frightened         COMP        man   TOP DAT-LK-3sg-   LK   self
+\l The man was frightened of/by himself
+
+\t larka    roti kha:ta
+\m lark-a    roti kha:-t-a
+\g boy-nom bread eat-pres-sg masculine
+\l The boy eats (the) bread
+
+\t larka   rotiko kha:ta
+\m lark-a   roti-ko kha:-t-a
+\g boy-nom bread-IOM eat-pres-sg masculine
+\l The boy eats the bread
+
+\t larkene roti kha:i
+\m lark-e-ne roti kha:-i
+\g boy-obl-erg bread eat-sg feminine
+\l The boy ate (the) bread
+
+\t larkene rotiko kha:ya
+\m lark-e-ne roti-ko kha:-ya
+\g boy-obl-erg bread-IOM eat-sg masculine
+\l The boy ate the bread
+
+\t Pupunta kami sa        Tagaytay búkas.
+\m Pupunta kami sa        Tagaytay búkas.
+\g go to   we PREP Tagaytay tomorrow
+\l We shall go to Tagaytay tomorrow.
+
+\t Ebibigay ko ito sa            kanya.
+\m Ebibigay ko ito sa            kanya.
+\g give to      I      this PREP her
+\l I shall give this to her.
+
+\t Galing    kami sa      Baguio.
+\m Galing    kami sa      Baguio.
+\g come from we PREP Baguio
+\l We came from Baguio.
+
+\t Bumibili sa         amin ang    bata.
+\m Bumibili sa         amin ang    bata.
+\g buy from PREP us          TOPIC child
+\l The child buys from us.
+
+\t Magaalis       ang tindero           ng       bigas sa       sako para sa    babae.
+\m Mag-aalis       ang tindero           ng       bigas sa       sako para sa    babae.
+\g AGT-take.out NOM storekeeper ACC rice DAT sack for DAT woman
+\l The storekeeper will take some rice out of a/the sack for a/the woman.
+
+\t Aalisin ng tindero           ang bigas sa            sako para sa    babae.
+\m Aalis-in ng tindero           ang bigas sa            sako para sa    babae.
+\g take.out-DO ERG storekeeper NOM rice DAT sack for DAT woman
+\l A/the storekeeper will take the rice out of a/the sack for a/the woman.
+
+\t Aalisan ng tindero          ng bigas ang sako para sa                babae
+\m Aalis-an ng tindero          ng bigas ang sako para sa                babae
+\g take.out-IO ERG storekeeper ACC rice NOM sack for DAT woman
+\l A/the storekeeper will take some rice out of the sack for a/the woman.
+
+\t Ipagaalis      ng tindero           ng bigas sa            sako ang babae.
+\m Ipag-aalis      ng tindero           ng bigas sa            sako ang babae.
+\g BEN-take.out ERG storekepper ACC rice DAT sack NOM woman
+\l A/the storekeeper will take some rice out of a/the sack for the woman.
+
+\t Ipangaalis      ng tindero           ng bigas sa sako ang sandok.
+\m Ipang-aalis      ng tindero           ng bigas sa sako ang sandok.
+\g INS-take.out ERG storekepper ACC rice DAT sack NOM scoop
+\l A/the storekeeper will take some rice out of a/the sack with the scoop.
+
+\t Magaalis       ang tindero           ng      bigas sa        sako para sa   babae.
+\m Mag-aalis       ang tindero           ng      bigas sa        sako para sa   babae.
+\g AGT-take.out NOM storekeeper ACC rice DAT sack for DAT woman
+\l The storekeeper will take some rice out of a/the sack for a/the woman.
+
+\t Aalisin ng tindero                ang bigas sa            sako para sa    babae.
+\m Aalis-in ng tindero                ang bigas sa            sako para sa    babae.
+\g take.out-DO ERG storekeeper NOM rice DAT sack for DAT woman
+\l A/the storekeeper will take the rice out of a/the sack for a/the woman.
+
+\t Aalisan ng tindero               ng bigas ang sako para sa                babae
+\m Aalis-an ng tindero               ng bigas ang sako para sa                babae
+\g take.out-IO ERG storekeeper ACC rice NOM sack for DAT woman
+\l A/the storekeeper will take some rice out of the sack for a/the woman.
+
+\t Ipagaalis      ng tindero           ng bigas sa            sako ang babae.
+\m Ipag-aalis      ng tindero           ng bigas sa            sako ang babae.
+\g BEN-take.out ERG storekepper ACC rice DAT sack NOM woman
+\l A/the storekeeper will take some rice out of a/the sack for the woman.
+
+\t Ipangaalis      ng tindero          ng bigas sa sako ang sandok.
+\m Ipang-aalis      ng tindero          ng bigas sa sako ang sandok.
+\g INS-take.out ERG storekepper ACC rice DAT sack NOM scoop
+\l A/the storekeeper will take some rice out of a/the sack with the scoop.
+
+\t nasa babae       ang   sanggol
+\m na-sa babae       ang   sanggol
+\g BE     at woman       TOP baby
+\l The baby is with the woman.
+
+\t may      relos ang       nanay
+\m may      relos ang       nanay
+\g BE       watch TOP       Mom
+\l Mom     has a watch
+
+\t Nagbigay ng mansanas sa        guro                  si Ikabod
+\m Nagbigay ng mansanas sa        guro                  si Ikabod
+\g AT-gave Obj apple LOCt teacher                       TOP Ikabod
+\l Ikabod gave an apple to the teacher
+
+\t Nagbigay      ng mansanas ng guro                   si Ikabod
+\m Nagbigay      ng mansanas ng guro                   si Ikabod
+\g AT-gave        Obj apple      Obj teacher            TOP Ikabod
+\l Ikabod gave the teacher an apple
+
+\t Binigyan     ni Ikabod        ng mansanas ang guro
+\m Binigy-an     ni Ikabod        ng mansanas ang guro
+\g LT-gave       A Ikabod         Obj apple   TOP teacher
+\l Ikabod gave an apple to the teacher
+
+\t Binalikan      ko           ang     aking pinanggalingan
+\m Binalik-an      ko           ang     aking pinanggaling-an
+\g LT-returned A-1sg TOP my             LT-came-from
+\l I went back to where I'd come from
+
+\t Ibinigay      ni Ikabod       sa guro     ang mansanas
+\m I-binigay      ni Ikabod       sa guro     ang mansanas
+\g TT-gave        A Ikabod        LOC teacher TOP apple
+\l Ikabod gave the apple to the teacher
+
+\t Isinuot      ni Ikebana     ang bago niyang damit
+\m I-sinuot      ni Ikebana     ang bago niyang damit
+\g TT-wore       A Ikebana      TOP new her dress
+\l Ikebana wore her new dress
+
+\t Matatakot       si Ikabod       sa pusa
+\m Matatakot       si Ikabod       sa pusa
+\g AT-is-afraid Ikabod             cat
+\l Ikabod is afraid of cats
+
+\t Gusto ng kanyang sarili si Amado
+\m Gusto ng kanyang sarili si Amado
+\g likes A his       self T Amado
+\l Himself likes Amado
+
+\t nakita       siya      ni Pedro.
+\m nakita       siya      ni Pedro.
+\g   saw:P.VOICE 3SG.NOM           GEN P.
+\l Pedro saw him.
+
+\t nakita      ni        Pedro siya.
+\m nakita      ni        Pedro siya.
+\g   saw:P.VOICE GEN P.3SG.NOM
+\l Pedro saw him.
+
+\t nasa mesa=ng libro
+\m nasa mesa=ng libro
+\g   on      table=LINK book
+\l the book on the table
+
+\t libro=ng nasa mesa
+\m libro=ng nasa mesa
+\g   book=LINK on          table
+\l the book on the table
+
+\t Mga      guro               sila
+\m Mga      guro               sila
+\g PL        teacher           they
+\l They are teachers
+
+\t gumising ang bata
+\m gumising ang bata
+\g awoke TOPIC child
+\l The child awoke
+
+\t bumabasa ng diyaryo        ang titser
+\m bumabasa ng diyaryo        ang titser
+\g read.AT78 ng newspaper TOPIC teacher
+\l The teacher is reading a newspaper
+
+\t bumabasa ng titser ang diyaryo
+\m bumabasa ng titser ang diyaryo
+\g read.TT79 ng teacher TOPIC newspaper
+\l The teacher is reading a newspaper
+
+\t ginawa ng modista      ang baro
+\m ginawa ng modista      ang baro
+\g make-TT ng dressmaker TOPIC dress
+\l The dressmaker made the dress
+
+\t ginawa ni Maria ang baro
+\m ginawa ni Maria ang baro
+\g make-TT ng Maria TOPIC dress
+\l Maria made the dress
+
+\t ginawa ko        ang baro
+\m ginawa ko        ang baro
+\g make-TT ng.1sg TOPIC dress
+\l I made the dress
+
+\t lapis ko
+\m lapis ko
+\g pensil ng.1sg
+\l my pencil
+
+\t Ano ang kinain       mo?
+\m Ano ang kinain       mo?
+\g What Nom Perf.OV-eat 2.Sg.Gen
+\l What did you eat?
+
+\t Kinain          ko   [ angisda ]F
+\m Kinain          ko   [ ang-isda ]F
+\g Perf.OV-eat 1.Sg.Gen Nom-fish
+\l I ate the fish
+
+\t Kumain      ako      [ ngisda ]F
+\m Kumain      ako      [ ng-isda ]F
+\g Perf.AV-eat 1.Sg.Nom Gen-fish
+\l I ate (some) fish.
+
+\t Ano ba    ang binili      mo       sapamilihan?
+\m Ano ba    ang binili      mo       sa-pamilihan?
+\g What Ques Nom Perf.OV-buy 2.Sg.Gen Dat-market
+\l What did you buy at the market?
+
+\t Binili      ko       [ itong damit ]F .
+\m Binili      ko       [ ito-ng damit ]F .
+\g Perf.OV-buy 1.Sg.Gen Nom-this-Link dress
+\l I b ought this dress.
+
+\t Sino ang gumawa      ngsapatos na  iyon?
+\m Sino ang gumawa      ng-sapatos na  iyon?
+\g who Nom AV.Perf-make Gen-sho e Link that
+\l Who made those sho es?
+
+\t Nagbabasa ang titser ng dyaryo.
+\m Nagbabasa ang titser ng dyaryo.
+\g read-past teacher newspap er
+\l The teacher read the newspap er
+
+\t Nagbabasa ng dyaryo ang titser.
+\m Nagbabasa ng dyaryo ang titser.
+\g read-past newspap er teacher
+\l The teacher read the newspap er
+
+\t T: Ano       ang       binabasa             ni     Maria?
+\m T: Ano       ang       b-in-a-basa             ni     Maria?
+\g    what      Abs       Red-Tr.Perf-read        Erg    Maria
+\l What is Maria    reading?
+
+\t T: *Sino ang binabasa                       ang     libro?
+\m T: *Sino ang b-in-abasa                       ang     libro?
+\g    who      Abs Red-Tr.Perf-read              Abs     book
+\l Who is reading the book?
+
+\t T: Sino     ang bumabasa                    ng      libro?
+\m T: Sino     ang b-um-abasa                    ng      libro?
+\g    who      Abs Red-AP.Perf-read              Obl     book
+\l Who is reading the book?
+
+\t Saanka            bumili        ng        libro?
+\m Saan-ka            b-um-ili        ng        libro?
+\g  Where-2sAbs-AP.Perf-buy Obl          book
+\l Where did you   buy books?
+
+\t Kailanka         pupunta      sa        Maynila?
+\m Kailan-ka         pu-punta      sa        Maynila?
+\g When-2sAbs        AP.Red-go     Dat       Manila
+\l When will you   go to Manila?
+
+\t      T: Kinain          ko      ang    isda.
+\m      T: K-in-ain          ko      ang    isda.
+\g -Tr.Perf-eat      1sErg   Abs    fish
+\l I ate the fish.
+
+\t      T: Kinainan           ko      ang      isda.
+\m      T: K-in-ain-an           ko      ang      isda.
+\g -Tr.Perf-eat-App      1sErg   Abs      fish
+\l I ate at the fish.
+
+\t T: Itong     plato na lang ang         kakainan     natin.
+\m T: Ito-ng     plato na lang ang         ka-kain-an     natin.
+\g    this-LK plate just             Abs   Red-eat-APP 1Pl
+\l We'll just eat off these plates.
+
+\t T: Inasahan           kong     bibili     si    Maria ng               libro tungkol kay Mao.     
+\m T: In-asah-an           ko-ng     bi-bili     si    Maria ng               libro tungkol kay Mao.     
+\g    TR.PERF-expect-APP 1SERG-LK AP.RED-buy ABS Maria            OBL         book about        DAT   Mao
+\l I expected Maria to buy a book about Mao.
+
+\t T: Si Maria ang            inasahan         kong    bibili               ng          libro tungkol kay Mao.     
+\m T: Si Maria ang            in-asah-an         ko-ng    bi-bili               ng          libro tungkol kay Mao.     
+\g    ABS Maria       COMP    TR.PERF-expect-APP 1SERG-LK AP.RED-buy            OBL         book about        DAT   Mao
+\l It was Maria I expected to buy a book about Mao.
+
+\t T: Saanka        bumili        ng      libro?
+\m T: Saan-ka        b-um-ili        ng      libro?
+\g    Where-2sAbs-AP.Perf-buy Obl           book
+\l Where did you buy books?
+
+\t T: Sa     Maynila ako          bumili       ng         libro.
+\m T: Sa     Maynila ako          b-um-ili       ng         libro.
+\g    Dat    Manila      1sAbs-AP.Perf-buy Obl          book
+\l I bought books in Manila.
+
+\t Umiyak        si        Maria.
+\m Um-iyak        si        Maria.
+\g Intr.Perf-cry Abs        Mari
+\l Maria cried.
+
+\t Umiyak        ang        bata.
+\m Um-iyak        ang        bata.
+\g Intr.Perf-cry Abs         child
+\l The child cried.
+
+\t      Kumain            ako     ng    isda.
+\m      K-um-ain            ako     ng    isda.
+\g -AP.Perf-eat        1sAbs   Obl   fish
+\l I ate a fish.
+
+\t      Kumain            ako     sa    isda.
+\m      K-um-ain            ako     sa    isda.
+\g -AP.Perf-eat        1sAbs   Dat   fish
+\l I ate the fish.
+
+\t Pupunta ako           sa      Maynila.
+\m Pu-punta ako           sa      Maynila.
+\g Red-go        1sAbs    Dat     Manila
+\l I will go to Manila.
+
+\t Sa      Maynila ako           pupunta.
+\m Sa      Maynila ako           pu-punta.
+\g Dat     Manila      1sAbs     Red-go
+\l I will go to Manila.
+
+\t Pupunta si         Maria sa        Maynila bukas.
+\m Pu-punta si         Maria sa        Maynila bukas.
+\g Red-go        Abs Maria       Dat Manila       tomorrow
+\l Maria will go to Manila tomorrow.
+
+\t Si      Maria ay         pupunta sa      Maynila bukas.
+\m Si      Maria ay         pu-punta sa      Maynila bukas.
+\g Abs Maria         Top Red-go        Dat Manila       tomorrow
+\l As for Maria, she will go to Manila tomorrow.
+
+\t         Binili        ng      babae      ang isda       kay     Huan.
+\m         B-in-ili        ng      babae      ang isda       kay     Huan.
+\g -Tr.Perf-buy    Erg     woman Abs fish            Dat     Juan
+\l The woman     bought   the fish from Juan.
+
+\t    Binili       ng      babae      kay Huan       ang     isda.
+\m    B-in-ili       ng      babae      kay Huan       ang     isda.
+\g -Tr.Perf-buy    Erg     woman Dat Juan            Abs     fish
+\l The woman     bought   the fish from Juan.
+
+\t Nahimok       ko       si       Pedro [na    bilhin yung                libro]
+\m Na-himok       ko       si       Pedro [na    bilh-in yung                libro]
+\g Perf-persuade 1sErg Abs          Pedro Comp buy-Tr that.Abs               book
+\l I persuaded Pedro to buy that   book.
+
+\t      Binili     ng    babae      ang isda                      kay               Huan.
+\m      B-in-ili     ng    babae      ang isda                      kay               Huan.
+\g -Tr.Perf-buy Erg woman Abs fish                             Dat               Juan
+\l The woman bought the fish from Juan.
+
+\t Saani ka        bumili                  ng             libro           ti
+\m Saani ka        b-um-ili                  ng             libro           ti
+\g where 2sAbs-AP.Perf-buy                  Obl            book
+\l Where did you buy books?
+
+\t Pupunta ako           sa         Maynila.
+\m Pu-punta ako           sa         Maynila.
+\g Red-go       1sAbs     Dat        Manila
+\l I will go to Manila.
+
+\t Nagbigay      ako     ng    libro               kay     Maria.
+\m Nag-bigay      ako     ng    libro               kay     Maria.
+\g Perf.AP-give 1sAbs Obl book                      Dat     Maria
+\l I gave a book to Maria.
+
+\t Kay Maria ako          nagbigay                 ng      libro.
+\m Kay Maria ako          nag-bigay                 ng      libro.
+\g Dat Maria 1sAbs AP.Perf-give                     Obl     book
+\l To Maria, I gave a book.
+
+\t Ipinakilala        ko      si               Juan      kay      Maria.
+\m I-p-in-akilala        ko      si               Juan      kay      Maria.
+\g App-Perf-introduce 1sErg Abs                   Juan      Dat      Maria
+\l I introduced Juan to Maria.
+
+\t Kay Maria ko            Ipinakilala         si    Juan.
+\m Kay Maria ko            I-p-inakilala         si    Juan.
+\g Dat Maria        1sErg App-Perf-introduce Abs Juan
+\l I introduced Juan to Maria (and not anyone else).
+
+\t Ano        ang binabasa        ni       Maria?
+\m Ano        ang b-in-a-basa        ni       Maria?
+\g what       Abs Red-Tr.Perf-read   Erg      Maria
+\l What    is Maria reading?
+
+\t Sino      ang binabasa        ang      libro?
+\m Sino      ang b-in-a-basa        ang      libro?
+\g who        Abs Red-Tr.Perf-read   Abs      Maria
+\l Who    is reading the book?
+
+\t T: Isda         ang     [binili        ni      Maria]
+\m T: Isda         ang     [b-in-ili        ni      Maria]
+\g    fish         Abs-Tr.Perf-buy    Erg     Maria
+\l A fish is what Maria bought.
+
+\t T: Hindiko       gusto ang      binili     ni           Maria.
+\m T: Hindi-ko       gusto ang      b-in-ili     ni           Maria.
+\g    Neg-1sErg like        Abs-Tr.Perf-buy Erg          Maria
+\l I don't like what Maria bought.
+
+\t T: Ano         ang    [binili         ni     Maria]
+\m T: Ano         ang    [b-in-ili         ni     Maria]
+\g    what        Abs-Tr.Perf-buy     Erg    Maria
+\l What did   Maria buy?
+
+\t T: Kailanka     pumunta            sa     Maynila?
+\m T: Kailan-ka     p-um-unta            sa     Maynila?
+\g    when-2sAbs-AP.Perf-go             P      Maynila
+\l When did you go to Maynila?       
+
+\t T: Ano        ang ginagawamo?
+\m T: Ano        ang g-in-a-gawa-mo?
+\g    what       Abs Red-Perf-do-2sErg
+\l What     are you doing?
+
+\t T: *Anomo        ang     ginagawa?
+\m T: *Ano-mo        ang     g-in-a-gawa?
+\g    What-2sErg Abs         Red-Perf-do
+\l What are you doing?
+
+\t T: Saanka       bumili       ng      libro?
+\m T: Saan-ka       b-um-ili       ng      libro?
+\g    Where-2sAbs-AP.Perf-buy Obl         book
+\l Where did you buy books?
+
+\t Ano         ang binabasa        ni     Maria?
+\m Ano         ang b-in-a-basa        ni     Maria?
+\g what        Abs Red-Tr.Perf-read   Erg    Maria
+\l What     is Maria reading?
+
+\t Sino       ang binabasa        ang     libro?
+\m Sino       ang b-in-a-basa        ang     libro?
+\g who         Abs Red-Tr.Perf-read   Abs     book
+\l Who     is reading the book?
+
+\t Ano     ang ginagawamo?
+\m Ano     ang g-in-a-gawa-mo?
+\g what Abs Red-Perf-do-2sErg
+\l What are you doing?
+
+\t Saanka         bumili    ng            libro?
+\m Saan-ka         b-um-ili    ng            libro?
+\g Where-2sAbs-AP.Perf-buy Obl              book
+\l Where did you buy books?
+
+\t Ano     ang binabasa             ni      Maria?
+\m Ano     ang b-in-a-basa             ni      Maria?
+\g what Abs Red-Tr.Perf-read           Erg     Maria
+\l What is Maria reading?
+
+\t Sino ang        binabasa                            ang                    libro?
+\m Sino ang        b-in-abasa                            ang                    libro?
+\g who      Abs     Red-Tr.Perf-read                      Abs                    book
+\l Who is reading the book?
+
+\t Ano ang         bumabasa                                    si              Maria?
+\m Ano ang         b-um-abasa                                    si              Maria?
+\g what     Abs     Red-AP.Perf-read                              Abs             Maria
+\l What is Maria reading?
+
+\t                                         Ò           ÔÓ
+\m                                         Ò           ÔÓ
+\g P E R F.AV-eat 1.S G.N   OM        G E N-fish
+\l I ate (some) fish.
+
+\t Ano ba          ang binili            mo                            sapamilihan?
+\m Ano ba          ang binili            mo                            sa-pamilihan?
+\g What Q U   ES   N O M P E R F.OV-buy 2.S G.G   EN              DAT-market
+\l What did you buy at the market?
+
+\t Binili           ko                           Ò             ÐÔ Ó
+\m Binili           ko                           Ò             ÐÔ Ó
+\g P E R F.OV-buy 1.S G.G           EN    N O M-this-L I N K dress
+\l I bought this dress.
+
+\t Sino ang gumawa            ngsapatos na                    iyon?
+\m Sino ang gumawa            ng-sapatos na                    iyon?
+\g who N O M AV.P E R F-make G E N-shoe L I              NK   that
+\l Who made those shoes?
+
+\t ÒSiBing ang gumawaÔÓ          ngsapatos na                        iyon.
+\m ÒSi-Bing ang gumawaÔÓ          ng-sapatos na                        iyon.
+\g N O M-Bing N O M AV.P E R F-make G E N-shoe L I                  NK   that
+\l Bing is the one who made those shoes.
+
+\t Sinusulat lahat ng            mga bata ang mga liham
+\m Sinusulat lahat ng            mga bata ang mga liham
+\g UF.write     all      CORE    PL       child NOM PL            letter
+\l The/some children write all the letters.
+
+\t iniabot              ng    manggamot            sa   sundalo          ang itlog  
+\m iniabot              ng    manggamot            sa   sundalo          ang itlog  
+\g UF.REAL.within.reach GEN   IRR.AF.medicine      OBL  soldier          NOM     egg
+\l The physician handed the egg to the soldier.
+
+\t Bumili       ang     lalake   ng     isda    ng     pera             sa           tindahan
+\m Bumili       ang     lalake   ng     isda    ng     pera             sa           tindahan
+\g AF-buy       NOM     man      GEN    fish    GEN    money            OBL          store   
+\l The man bought fish with money in the store.
+
+\t Binili   ng   lalake ang isda ng              pera                   sa           tindahan
+\m Binili   ng   lalake ang isda ng              pera                   sa           tindahan
+\g UF-buy   GEN  man        NOM   fish   GEN     money                  OBL          store   
+\l The man bought the fish with money in the store.
+
+\t Binilhan       ng    lalake    ng     isda    ng     pera             ang          tindahan
+\m Binilhan       ng    lalake    ng     isda    ng     pera             ang          tindahan
+\g LF-buy         GEN   man       GEN    fish    GEN    money            NOM          store   
+\l The man bought fish with money in the store.
+
+\t isdang ibinigay          ng     lalake sa      bata
+\m isdang ibinigay          ng     lalake sa      bata
+\g fish.LNK   UV.PERF.give  GEN    man      OBL   child
+\l the fish which was given to the child by the man
+
+\t batang      binigyan      ng     lalake ng                isda
+\m batang      binigyan      ng     lalake ng                isda
+\g child.LNK PERF.give.DV GEN man            GEN             fish
+\l the child who was given fish by the man
+
+\t nagulat             ang      babae     sa      boyfriend          niya
+\m na-gulat             ang      babae     sa      boyfriend          niya
+\g AS-surprised         NOM      woman     OBL     boyfriend          3SG.POSS
+\l The woman was surprised at her boyfriend.
+
+\t kinagulatan        ng       babae         ang      boyfriend        niya
+\m k-in-a-gulat-an        ng       babae         ang      boyfriend        niya
+\g US-surprised           CORE     woman         NOM      boyfriend        3SG.POSS
+\l The woman was surprised at her boyfriend.
+
+\t Dito   siya         magtatayo ng=bahay
+\m Dito   siya         magtatayo ng=bahay
+\g here 3SG.NOM FUT.AV.build          GEN=house
+\l Here he will build a house.
+
+\t Bumili   ang lalake ng       isda ng        pera      sa          tindahan
+\m Bumili   ang lalake ng       isda ng        pera      sa          tindahan
+\g AF-buy   NOM     man    GEN  fish     GEN   money OBL             store   
+\l The man is the one who bought fish with money in the store.
+
+\t Binili      ng    lalake ang isda ng         pera       sa          tindahan
+\m Binili      ng    lalake ang isda ng         pera       sa          tindahan
+\g UF-buy      GEN   man     NOM   fish   GEN   money OBL              store   
+\l The fish is what the man bought with money in the store.
+
+\t Binilhan ng       lalake ng     isda ng       pera                 ang          tindahan
+\m Binilhan ng       lalake ng     isda ng       pera                 ang          tindahan
+\g LF-buy      GEN   man     GEN   fish    GEN   money                NOM          store   
+\l The store is where the man bought fish with money.
+
+\t Ipinambili ng     lalake ng     isda ang pera                       sa           tindahan
+\m Ipinambili ng     lalake ng     isda ang pera                       sa           tindahan
+\g IF-buy      GEN   man     GEN   fish    NOM      money              OBL          store   
+\l The money is what the man bought fish with in the store.
+
+\t [Noong Lunes]i ay ipinagbili           ng mama ang kalabaw niya   ti .
+\m [Noong Lunes]i ay ipinagbili           ng mama ang kalabaw niya   ti .
+\g Last Monday AY buy.BT.CAUS.PRF CS man SBJ water buffalo 3SG.CS.CL
+\l The man sold his water buffalo last Monday.
+
+\t P[um]unta ang bata sa                 pulo.
+\m P[um]unta ang bata sa                 pulo.
+\g examine.AV NOM child DAT island
+\l The child went to the island.
+
+\t S[um]uri       ng      kaibigan niya        ang bata.
+\m S[um]uri       ng      kaibigan niya        ang bata.
+\g examine.AV GEN friend             3SG.GEN NOM child
+\l The child examined her/his friend.
+
+\t S[in]uri       ng      bata ang kaibigan niya.
+\m S[in]uri       ng      bata ang kaibigan niya.
+\g examine.PV GEN child NOM friend                3SG.GEN
+\l A child examined her/his friend.
+
+\t bumili ng isda sa tindahan ang lalake
+\m b-um-ili ng isda sa tindahan ang lalake
+\g vc-buy core fish obl store        man
+\l The man b ought fish in the store.
+
+\t bibilhin ng  lalake sa tindahan ang isda
+\m bi-bilh-in ng  lalake sa tindahan ang isda
+\g irr-buy-vc core man obl store          fish
+\l The man will buy the fish in the store.
+
+\t bibilhan ng  lalake ng isda ang tindahan
+\m bi-bilh-an ng  lalake ng isda ang tindahan
+\g irr-buy-vc core man core fish      store
+\l The man will buy fish in the store.
+
+\t ipambibili ng lalake ng isda ang salapi
+\m ipam-bi-bili ng lalake ng isda ang salapi
+\g vc-irr-buy core man core fish      money
+\l The man will buy fish with the money.
+
+\t ibibili  ng   lalake ng isda ang bata
+\m i-bi-bili  ng   lalake ng isda ang bata
+\g vc-irr-buy core man core fish      child
+\l The man will buy fish for the child.
+
+\t Nakakita=ako       ng=sarili=ko
+\m Naka-kita=ako       ng=sarili=ko
+\g V1:PERF-see=1SG.NOM GEN=self=1 SG.GEN
+\l I saw myself.
+
+\t Nakita=ko          ang=sarili=ko
+\m Na-kita=ko          ang=sarili=ko
+\g V2:PERF-see=1SG.GEN NOM=self=1SG.GEN
+\l I saw myself.
+
+\t bumili        ang=lalake       ng=isda sa=tindahan.
+\m bumili        ang=lalake       ng=isda sa=tindahan.
+\g PFV.A.buy PRO X=man            OBL=fish LOC=store
+\l The man bought fish at the/a store.
+
+\t binili         ng=lalake ang=isda            sa=tindahan.
+\m binili         ng=lalake ang=isda            sa=tindahan.
+\g PFV.O.bu y    OBL=man     PRO X=fish        LOC=store
+\l The/a man bought the fish at the/a store.
+
+\t binilhan ng=lalake ng=isda ang=tindahan
+\m binilhan ng=lalake ng=isda ang=tindahan
+\g  PFV.G.bu y OBL=man        OBL=fish PRO X=store
+\l The/a man bought fish at the store.
+
+\t tinukso         ng=mga=kaibigan at          kinagalitan      si=Juan ng=kaniya=ng guro.
+\m tinukso         ng=mga=kaibigan at          kinagalitan      si=Juan ng=kaniya=ng guro.
+\g  PFV.O.tease OBL=p=frien d           and PFV.G.an ger       PRO X=J.OBL=3sDAT=LNK teacher
+\l His friends teased and his teacher scolded Juan.
+
+\t pumunta sa=tindahan at               bumili         ang=kapatid ko          ng=bigas.
+\m pumunta sa=tindahan at               bumili         ang=kapatid ko          ng=bigas.
+\g  PFV.A.go      LOC=store       and PFV.A.buy        PRO X=siblin g my       OBL=rice
+\l My brother went to the store and bought some rice.
+
+\t /* niluto      ang=pagkain at hinugasan ang=mga=pinggan ni=Josie
+\m /* niluto      ang=pagkain at hinugasan ang=mga=pinggan ni=Josie
+\g  PFV.O.cook    PRO X=foo d      and PFV.G.wash PRO X=p=dish                 OBL=J.
+\l Josie cooked the food and washed the dishes.
+
+\t sumusalat        lahat ang=mga=bata          ng=mga=liham.
+\m sumusalat        lahat ang=mga=bata          ng=mga=liham.
+\g A.IPFV.write     all     PRO X=p=children    OBL=p=letter
+\l All the children are writing letters.
+
+\t sumusalat        lahat ng=mga=bata          ang=mga=liham.
+\m sumusalat        lahat ng=mga=bata          ang=mga=liham.
+\g A.IPFV.write     all     OBL=p=children     PRO X=p=letter
+\l The children are writing all the letters.
+
+\t ang malaki at galit na kalabaw
+\m ang malaki at galit na kalabaw
+\g   the big      and angry LI water-buffalo
+\l the big (and) angry water-buffalo
+
+\t mpagluluto      ang lalaki ng adobo para sa asawa (=magluluto)2
+\m m-pag-lu-luto      ang lalaki ng adobo para sa asawa (=magluluto)2
+\g AV-pag-asp-cook ANG man CS adobo             P DAT spouse
+\l The man will cook adobo for his wife.
+
+\t ipagluluto     ng lalaki ng adobo ang asawa
+\m i-pag-lu-luto     ng lalaki ng adobo ang asawa
+\g BV-pag-asp-cook CS man CS adobo ANG spouse
+\l The man will cook (the) adobo for his wife.
+
+\t Ølulutuin ng lalaki ang adobo para sa asawa
+\m Ø-lu-lutu-in ng lalaki ang adobo para sa asawa
+\g asp-cook-TV CS man ANG adobo P DAT spouse
+\l The man will cook the adobo.
+
+\t ipagluluto   ng lalaki ng adobo ang asawa
+\m i-pag-lu-luto   ng lalaki ng adobo ang asawa
+\g BV-pag-asp-cook CS man CS adobo ANG spouse
+\l The man will cook (the) adobo for his wife.
+
+\t Ano ba ang binili            mo sa pamilihan?
+\m Ano ba ang binili            mo sa pamilihan?
+\g what QUES ANG asp-buy-TV you DAT market
+\l What did you buy at the market?
+
+\t Binili      ko itong    damit.
+\m Binili      ko itong    damit.
+\g asp.TV-buy I this.ANG-LK dress
+\l I bought this dress.
+
+\t Bumili       ako ng gatas.
+\m Bumili       ako ng gatas.
+\g asp.AV-buy I.ANG CS milk
+\l I bought some milk.
+
+\t lulutuin  ng lalaki ang adobo
+\m lu-lutu-in  ng lalaki ang adobo
+\g asp-cook-TV CS man ANG adobo
+\l The man will cook the adobo.
+
+\t itinawa      ng lalaki ang kanyang asawa.
+\m itinawa      ng lalaki ang kanyang asawa.
+\g BV.asp-laugh CS man ANG his wife
+\l The man laughed for his wife.
+
+\t ang lalaki ay tumawa        [para sa kanyang asawa]
+\m ang lalaki ay tumawa        [para sa kanyang asawa]
+\g ANG man AY AV.asp-laugh P DAT his spouse
+\l The man laughed for his wife.
+
+\t ipagluluto   ng lalaki ng adobo ang asawa
+\m i-pag-lu-luto   ng lalaki ng adobo ang asawa
+\g BV-pag-asp-cook CS man CS adobo ANG spouse
+\l The man will cook (the) adobo for his wife.
+
+\t Ølulutuin ng lalaki ang adobo para sa asawa
+\m Ø-lu-lutu-in ng lalaki ang adobo para sa asawa
+\g asp-cook-TV CS man ANG adobo P DAT spoust
+\l The man will cook the adobo.
+
+\t ipagluluto    ng lalaki ng adobo ang asawa
+\m i-pag-lu-luto    ng lalaki ng adobo ang asawa
+\g BV-pag-asp-cook CS man CS adobo ANG spouse
+\l The man will cook (the) adobo for his wife.
+
+\t sinampal niya ako.
+\m sinampal niya ako.
+\g TV.asp-slap he I.ANG
+\l He slapped me.
+
+\t sumampal siya     ko.
+\m sumampal siya     ko.
+\g AV.asp-slap 3SG.ANG me
+\l He slapped me.
+
+\t Sino ang sumampal siya              sa akin.
+\m Sino ang sumampal siya              sa akin.
+\g  Who ANG AV.asp-slap 3SG.ANG DAT me
+\l Who slapped me?
+
+\t Sino ang      nagbigay    ng bulaklak sa        kanya?
+\m Sino ang      nagbigay    ng bulaklak sa        kanya?
+\g   who ANG NOM-gave NG flower               DAT 3
+\l Who gave him/her the flower?
+
+\t Sino ang      binigyan    mo          ng bulaklak?
+\m Sino ang      binigyan    mo          ng bulaklak?
+\g   who ANG DAT-gave NG-you NG flower
+\l Who did you give the flower to?
+
+\t Ano ang       ibinigay    mo          sa   kanya?
+\m Ano ang       ibinigay    mo          sa   kanya?
+\g   what ANG OBL-gave NG-you DAT 3
+\l What did you give him/her?
+
+\t Sino ang     nagbigay      ng bulaklak sa        kanya?
+\m Sino ang     nagbigay      ng bulaklak sa        kanya?
+\g  who ANG NOM-gave NG flower               DAT 3
+\l Who gave him/her the flower?
+
+\t Sino ang     binigyan      mo        ng bulaklak?
+\m Sino ang     binigyan      mo        ng bulaklak?
+\g  who ANG DAT-gave NG-you NG flower
+\l Who did you give the flower to?
+
+\t Ano ang       ibinigay     mo        sa    kanya?
+\m Ano ang       ibinigay     mo        sa    kanya?
+\g  what ANG OBL-gave NG-you DAT 3
+\l What did you give him/her?
+
+\t Sino ang       sinabi      ng magsasaka [na kumain          ng bulaklak]?
+\m Sino ang       sinabi      ng magsasaka [na kumain          ng bulaklak]?
+\g  what ANG ACC-said NG farmer                that NOM-ate NG flower
+\l Who did the farmer say ate the flower?
+
+\t Ano ang        sinabi      ng magsasaka [na kinain          ng kalabaw]?
+\m Ano ang        sinabi      ng magsasaka [na kinain          ng kalabaw]?
+\g  what ANG ACC-said NG farmer                that ACC-ate NG water-buffalo
+\l What did the farmer say the water-buffalo ate?
+
+\t Siya             ay    Pilipino
+\m Siya             ay    Pilipino
+\g ANG-he/she AY Filipino
+\l He/she is Filipino
+
+\t Ako      ay Pilipino
+\m Ako      ay Pilipino
+\g ANG-I AY Filipino
+\l I'm Filipino
+
+\t Kumain      ang kalabaw         ng bulaklak
+\m Kumain      ang kalabaw         ng bulaklak
+\g NOM-ate ANG water.buffalo NG flower
+\l The water buffalo ate a flower
+
+\t Kabibili          lang ng lalaki ng tela
+\m Kabibili          lang ng lalaki ng tela
+\g Rec.Perf.-bought just NG man NG cloth
+\l The man just bought the cloth
+
+\t Ang kalabaw            ay kinain     ang    bulaklak
+\m Ang kalabaw            ay kinain     ang    bulaklak
+\g ANG water.buffalo AY ACC-ate ANG flower
+\l The water buffalo ate the flower
+
+\t Siya          ay binili             ang     tela
+\m Siya          ay binili             ang     tela
+\g ANG.he/she AY ACC-bought ANG cloth
+\l He/she bought the cloth
+
+\t Ako    ay   binili          ang tela
+\m Ako    ay   binili          ang tela
+\g   ANG.I AY ACC-bought ANG cloth
+\l I bought the cloth
+
+\t Ang babae ay sinuntok ang mandurukot.
+\m Ang babae ay sinuntok ang mandurukot.
+\g ANG woman AY ACC-hit ANG pickpocket
+\l The woman hit the pickpocket
+
+\t Ako     ay sinuntok ang       mandurukot.
+\m Ako     ay sinuntok ang       mandurukot.
+\g   ANG-I AY ACC-hit ANG pickpocket
+\l I hit the pickpocket
+
+\t Ang mandurukot ay sinuntok ako
+\m Ang mandurukot ay sinuntok ako
+\g ANG pickpocket AY ACC-hit ANG-I
+\l The pickpocket hit me
+
+\t Umuwi               ako / ka      /    siya    /      ang   mga lalaki
+\m Umuwi               ako / ka      /    siya    /      ang   mga lalaki
+\g NOM-went.home ANG.I ANG.you ANG.he/she ANG PL                     man
+\l I/you/he/she/the men went home
+
+\t inasahan             ko      ang pambansang awit na awitin ni Maria
+\m inasahan             ko      ang pambansang awit na awitin ni Maria
+\g expect-COMPL-DF 1.sg.NT TOP national anthem LK sing-INF-OF NT Maria
+\l I expected the national anthem to be sung by Linda
+
+\t inasahan             ko       si Charlie na bibigyan niya ng pera si Linda
+\m inasahan             ko       si Charlie na bibigyan niya ng pera si Linda
+\g expect-COMPL-DF 1.Sg-NT TOP Ch.Lk give-CONT-OF 3.Sg-NT NT money TOP Linda
+\l I expected Charlie to give Linda some money.
+
+\t  a. Kumain ang bata ng isda.
+\m  a. Kumain ang bata ng isda.
+\g eat      A child G fish
+\l The child ate (some) fish.
+
+\t Kinain ng bata ang isda.
+\m K-in-ain ng bata ang isda.
+\g eat(PASS) G child A fish
+\l The child ate the fish.
+

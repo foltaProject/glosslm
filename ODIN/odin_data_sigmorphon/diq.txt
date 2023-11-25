@@ -1,0 +1,165 @@
+\t  Na r%ozu gê hewro, gê pakao.
+\m  Na r%ozu gê hewro, gê pakao.
+\g these days      now cloudy      now clear
+\l These days it is sometimes cloudy, sometimes the skies are clear.
+
+\t kitabo        sur
+\m kitab-o        sur
+\g book-linkadj.M red-M.
+\l The red book
+
+\t kitabe          layikio          sur
+\m kitab-e          layik-i-o          sur
+\g book-linkposs.M boy-gen.M-linkadj.M red-M.
+\l The boy's red book
+
+\t q l ma         layikia          sur
+\m q l m-a         layik-i-a          sur-
+\g pen-linkposs.F boy-gen.M-linkadj.F red-F.
+\l the boy's red pen
+
+\t q l me         layikie             suri
+\m q l m-e         layik-i-e             sur-i
+\g pen-linkposs.Pl boy-gen.M-linkadj-Pl.red-Pl.
+\l the boy's red pens
+
+\t q l me         layikane            suri
+\m q l m-e         layik-an-e            sur-i
+\g pen-linkposs.Pl boy-gen.Pl-linkadj.Pl red-Pl.
+\l the boys' red pens
+
+\t AishauMohamedi           maleme
+\m Aisha-u-Mohamed-i           malem-e
+\g Aisha-conj-Mohamed-comit.M teacher-pl.
+\l Aisha and Mohamed are teachers
+
+\t Mohamedio          Aisha maleme
+\m Mohamed-i-o          Aisha malem-e
+\g Mohamed-comit.M-conj Aisha teacher-pl.
+\l Mohamed and Aisha are teachers
+
+\t Hesenio          Mohamedi       maleme
+\m Hesen-i-o          Mohamed-i       maleme
+\g Hesen-comit.M-conj Mohamed-comit.M teacher-pl.
+\l Hesen and Mohamed are teachers
+
+\t Mehemedi kitab da     mal mi
+\m Mehemedi kitab da     mal m-i
+\g M.book gave-M.teacher-obl.M.
+\l Mohamed gave the book to the teacher
+
+\t Mehemedi q l me de     mal mi
+\m Mehemedi q l m-e d-e     mal m-i
+\g M.pen     gave-F.teacher-obl.M.
+\l Mohamed gave the pen to the teacher
+
+\t (17)    M. kitabio        q l me dai      mal mi
+\m (17)    M. kitab-i-o        q l me da-i      mal m-i
+\g         M.pen-conj book-com.M gave-m.teacher-obl.M.
+\l M. gave the book and pen to the teacher
+
+\t M maal m di
+\m M maal m di
+\g I-erg teacher saw-M.
+\l I saw the teacher
+
+\t M o pa k rt ci
+\m M o pa k rt ci
+\g I-erg he kiss did-M.
+\l I kissed him
+
+\t M a pa k rd  ci
+\m M a pa k rd  ci
+\g I-erg she kiss did-F.
+\l I kissed her
+
+\t M ooa           paci k rd
+\m M o-o-a           paci k rd
+\g I-erg he-conj-she kiss did-F.
+\l I kissed him and her
+
+\t M aoe             paci k rdi
+\m M a-o-e             paci k rdi
+\g I-erg she-conj-they kiss did-Pl.
+\l I kissed her and them
+
+\t m no brayexo...
+\m m n-o braye-xo...
+\g I-conj.brother-linkposs.m-self 's...
+\l I and my brother...
+
+\t ez xo wineno
+\m ez xo wineno
+\g I self see-M.
+\l I see myself 
+
+\t M braexo                       di
+\m M bra-e-xo                       di
+\g I-erg brother-linkposs.m-self 's saw-M.
+\l I saw my brother
+
+\t M wayaxo                      die
+\m M way-a-xo                      di-e
+\g I-erg sister-linkposs.f-self 's saw-F.
+\l I saw my sister
+
+\t Brae              m ez dia
+\m Bra-e              m ez dia
+\g Brother-linkposs.m my I saw
+\l My brother saw me
+
+\t Maleme m wayaxo          die.
+\m Maleme m waya-xo          di-e.
+\g Teacher my sister-self 's saw-F.
+\l My teacher saw his/*my sister
+
+\t maop ima
+\m ma-o-p i-ma
+\g mother-conj-father-linkposs.pl my-pl.
+\l my mother and father
+
+\t M biriiya                maya               xo k rda
+\m M biriiya                maya               xo k rda
+\g I-erg missing-linkposs.f mother-link-poss.f self 's did-F.
+\l I missed my mother
+
+\t M biriiya d                k rda
+\m M biriiya d                k rda
+\g I-erg missing 3sgmasc-gen.did
+\l I missed her
+
+\t M biriiya da              k rda
+\m M biriiya da              k rda
+\g I-erg missing 3sgfem-gen.did
+\l I missed her
+
+\t M biriiya dina         k rda
+\m M biriiya dina         k rda
+\g I-erg missing 3pl-gen.did
+\l I missed them
+
+\t M mayaxo                      xoviira    k rda
+\m M may-a-xo                      xoviira    k rda
+\g I-erg mother-linkposs.f-self 's forgetting did-F
+\l I forgot my mother
+
+\t M a xoviira          k rda
+\m M a xoviira          k rda
+\g I-erg she forgetting did-F(?)
+\l I forgot her
+
+\t M p iiexo                     xoviira    k rd
+\m M p ii-e-xo                     xoviira    k rd
+\g I-erg father-linkposs.m-self 's forgetting did-M.
+\l I forgot my father
+
+\t HEsen      va kE pyaay kE mIra             hes kene         pyaay    kE mIra         hes ne kene ame zuja.
+\m HEsen      va kE pyaay kE mI-ra             hes kene         pyaay    kE mI-ra         hes ne kene ame zuja.
+\g Hesen      says that people that me-OBL like do              people   that me-OBL like NEG do came together 
+\l Hesen   said that the people who like him/me and the people who don't like him/me met.
+
+\t Waxto k ma D.de bime, H.       mra va k o ita ame dina.
+\m Waxto k ma D.-de bime, H.       m-ra va k o ita ame dina.
+\g when that we D.-at were H.obv me-at said that he here came world
+\l When we were in Diyarbekir, Hesen told me he was born in D.
+

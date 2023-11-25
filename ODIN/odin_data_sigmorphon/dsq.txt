@@ -1,0 +1,485 @@
+\t '01( Anq`      `achc`        g`q stftct `ixhmÍdk                 ` rd    `imd,fdqsdsde
+\m '01( Anq`      `-a-chc`        g`q stftct `-i-xhmÍdk                 ` rd    `-i-md,fdqsdsde-
+\g        person 3s-TAM-walk TMP tree             3s-TAM-hit.against 3s BEN 3s-TAM-REF-stumble
+\l Somebody was walking when he hit against a tree stump and stumbled.
+
+\t '02( Snmch `ird,fdqsdsde                  `
+\m '02( Snmch `-i-rd,fdqsdsde                  `-
+\g         stone     3s-TAM-CAUS-stumble 3s
+\l A stone made him stumble.
+
+\t '03( @`akdmjdl              ` rd
+\m '03( @`-a-kdmjdl              ` rd
+\g         1s-TAM-sit.behind 3s BEN
+\l I sit behind him.
+
+\t '04( @ird,kdmjdl                   `xm     rtqf`x
+\m '04( @-i-rd,kdmjdl                   `xm     rtqf`x
+\g         3s-TAM-CAUS-sit.behind 3s.GEN woman
+\l He made his wife sit behind (on a camel).
+
+\t '05( Snqtes m           b`x `ixhcdq
+\m '05( Snqtes m           b`x `-i-xhcdq-
+\g         car       GEN foot 3s-TAM-be.glued
+\l The inner tube (of the car wheel) is glued.
+
+\t '06( R,'x(dcdq              ``x gn          md
+\m '06( R,'x(dcdq              ``x gn          md
+\g         CAUS-be.glued 1s        thing.DET here
+\l Glue the thing here for me!
+
+\t '07( S`ldm hil,'x(dcdq
+\m '07( S`ldm h-i-l,'x(dcdq-
+\g         sandals     3p-TAM-REC-be.glued
+\l The sandals are glued together.
+
+\t '08( Rd,l,'x(dcdq              ``x ``m           s`ldm+ hijnr
+\m '08( Rd,l,'x(dcdq              ``x ``m           s`ldm+ h-i-jnr-
+\g         CAUS-REC-be.glued 1s           1s.GEN sandals     3p-TAM-break
+\l Glue my sandals together (for me); they have fallen apart.
+
+\t '1/( @j `kl`m `,i,xhqjda>
+\m '1/( @j `kl`m `,i,xhqjda>
+\g       Q herd      3s-TAM-pull
+\l Is the herd pulled (from the well)?
+
+\t '10( @`,a,xhqjda a`Çh
+\m '10( @`,a,xhqjda a`Çh-
+\g       1s-TAM-pull       waterbag
+\l I am pulling the waterbag.
+
+\t '11( R,'x(dqjda `kl`m a`mft ad
+\m '11( R,'x(dqjda `kl`m a`mft ad
+\g       CAUS-pull     herd     well       LOC
+\l Pull the herd from the well!
+
+\t '12( @kl`m `,i,stv`,r,'x(dqjda
+\m '12( @kl`m `,i,stv`,r,'x(dqjda-
+\g       herd    3s-TAM-PASS-CAUS-pull
+\l The herd has been pulled (from the well).
+
+\t '13( HÇ`p``m h,a,m,'x(dqjda            `kl`m
+\m '13( HÇ`p``m h,a,m,'x(dqjda            `kl`m-
+\g       brother.PL 3p-TAM-REF-pull herd
+\l Brothers pull (animals of) the herd from each other.
+
+\t '14( H,e,stv`,m,'x(dqjda
+\m '14( H,e,stv`,m,'x(dqjda-
+\g       3p-TAM-PASS-REF-pull
+\l They are being pulled (animals of the herd).
+
+\t '15( G`mÇdm h,i,mdl,'x(dqjda ihe`
+\m '15( G`mÇdm h,i,mdl,'x(dqjda ihe`-
+\g       dog.PL 3p-TAM-REC-pull           carcass
+\l The dogs pulled on a carcass between them.
+
+\t '16( @ictlat             edih
+\m '16( @-i-ctlat             edih-
+\g       3s-TAM-slaughter sheep
+\l He slaughtered a sheep.
+
+\t '17( @iy,dfydl                    edih
+\m '17( @-i-y,dfydl                    edih-
+\g       3s-TAM-CAUS-slaughter sheep
+\l He had a sheep slaughtered.
+
+\t '18( Edih     `is,dfydl
+\m '18( Edih     `-i-s,dfydl-
+\g       sheep 3s-TAM-PASS-slaughter
+\l The sheep is slaughtered.
+
+\t '2/( @aÓ`             `xm       g`vqt
+\m '2/( @-a-Ó`             `xm       g`vqt-
+\g        3s-TAM-eat 3s.GEN meal
+\l He is eating his meal.
+
+\t '20( @aÇhjÇ`                 `xm         a`q`q
+\m '20( @-a-ÇhjÇ`                 `xm         a`q`q-
+\g        3s-TAM-CAUS.eat 3s.GEN child
+\l She is feeding her child.
+
+\t '21( Sdk`f`y`m bhmcdm h,e,sdjÇ`                           v`k`      ghm`
+\m '21( Sdk`f`y`m bhmcdm h,e,sdjÇ`                           v`k`      ghm`-
+\g        pumpkin.PL some            3p-TAM-PASS.eat without N:cook
+\l Some (kinds of) pumpkins are eaten without cooking.
+
+\t '22( Hms`xm`vs `,a,vh                 hhc`m
+\m '22( Hms`xm`vs `,a,vh                 hhc`m-
+\g        jackal           3s-TAM-kill kid.PL
+\l The jackal kills kids.
+
+\t '23( @l`mnj`k `,ir`rtv`m`                     `xm        `y`mfn
+\m '23( @l`mnj`k `,i-r`rtv`m`                     `xm        `y`mfn-
+\g        chief           3s-TAM-CAUS.kill 3s.GEN enemy
+\l The chief had his enemy killed.
+
+\t '24( @hc `istv`m`
+\m '24( @hc `-i-stv`m`-
+\g        kid      3s-TAM-PASS.kill
+\l The kid was killed.
+
+\t '25( @`x+           `sdstv`m`            l`q`cnc`
+\m '25( @`x+           `-sd-stv`m`            l`q`cnc`
+\g        1s.emph 1s-TAM-PASS.kill now
+\l I, I will be killed now!
+
+\t '26( Hamdl`m`
+\m '26( H-a-mdl`m`-
+\g        3p-TAM-REC.fight
+\l They are fighting each other.
+
+\t '27( @ird,mdl`m`                      `xm         hydkhm
+\m '27( @-i-rd,mdl`m`                      `xm         hydkhm-
+\g        3p-TAM-CAUS-REC.fight 3s.GEN billy.goats
+\l He made his billy goats fight each other.
+
+\t '0(    @j      `,i,xhltq,j`s        `xm         a`q`q      Z`n,i,a`q`         A`l`jnx\>
+\m '0(    @j      `,i,xhltq,j`s        `xm         a`q`q      Z`n,i,a`q`         A`l`jnx\>
+\g        QST     3S-PERF-bring-VEN    3S.GE   N   child       REL-PERF-be.in    Bamako
+\l Did he bring back his child who is in Bamako?
+
+\t '1(    @Ç``k    Z`n    ``,i,l`x         mhm     j`\     `,i,adm
+\m '1(    @Ç``k    Z`n    ``,i,l`x         mhm     j`\     `,i,adm-
+\g        work      REL   1S-PERF-have     2S      LOC     3S-PERF-be.finished
+\l The work that I have for you is finished.
+
+\t '2(    @`,i,ftm`              `¸`¸ha        Z"    i,c`        ÇhjÇhÌ\+        r`         Z`xm          lnm        gtqt      `,a,c`         h       j`\
+\m '2(    @`,i,ftm`              `¸`¸ha        Z"    i,c`        ÇhjÇhÌ\+        r`         Z`xm          lnm        gtqt      `,a,c`         h       j`\-
+\g        1S-PERF-see            phantom             PERF-do     fear            COMPZR      3S.GE   N    eyes       fire      3S-IMPF-do     3   P   LOC 
+\l I saw a phantom that causes fear, in whose eyes fire was burning.
+
+\t '3(    údlh           `,i,rtvtj            `vhbh         Z`n,i,c`                `yqte      j`\
+\m '3(    údlh           `,i,rtvtj            `vhbh         Z`n,i,c`                `yqte      j`\-
+\g        blacksmith     3S-PERF-rub          bracelet       REL-PERF-make           silver    LOC
+\l The blacksmith rubbed the bracelet that is made of silver.
+
+\t '4(    Bh    m`       hltm`rjnm            Z`nmcn,i,ytlat                "`kh      c`v\>
+\m '4(    Bh    m`       hltm`rjnm            Z`nmcn,i,ytlat                "`kh      c`v\>
+\g        who   DET      camel.riders          REL.PL-PERF-go.down          Rhali     LOC
+\l Who are the camel riders who dismounted at Rhali's (place)?
+
+\t '5(    `,i,f`q           g`lt        Z"      e,jdmh      `xj`q`m         c`v\
+\m '5(    `,i,f`q           g`lt        Z"      e,jdmh      `xj`q`m         c`v\-
+\g        3S-PERF-find      meat                IMPF-lie    puppies         LOC
+\l ...she (the lioness) found meat that was lying next to the cubs.
+
+\t '6(    @,a,ÇhÇjdm,`m           `xm         m`m`         rd+   Zr`           `xm            l`m     @lhm`s`\
+\m '6(    @,a,ÇhÇjdm,`m           `xm         m`m`         rd+   Zr`           `xm            l`m     @lhm`s`\-
+\g        3S-IMPF-greet-ALL    3S.GE   N   mother       BEN   COMPZR        3S.GEN         name    Aminata
+\l He greets his mother, whose name is Aminata.
+
+\t '7(   Jtm`     ``x        anq`       Z`n,i,Í`v,j`s                    mdc`\
+\m '7(   Jtm`     ``x        anq`       Z`n,i,Í`v,j`s                    mdc`\
+\g       find     1S         person      REL-PERF-reach-VEN              here
+\l Get me the person who arrived here!
+
+\t '8(   R`          hshk`     `qt      Z"     i,sdm             h       c`v\     h,sd,chmh      `        h,l,c`               `       dmc`     Í`lt
+\m '8(   R`          hshk`     `qt      Z"     i,sdm             h       c`v\     h,sd,chmh      `        h,l,c`               `       dmc`     Í`lt-
+\g       COMPZR      each      man             PERF-arrive       3   P   LOC      3P-FUT-take    3S       3P-SUBJ-make         3   S   COM      slave
+\l Each male who arrived at their (place) was taken to be made a slave.
+
+\t '0/( @,i,y`v              rtqf`x      en          Zr`         hshk`         y`qh `,sd,Ó`      hlt~`r          hÇ`\
+\m '0/( @,i,y`v              rtqf`x      en          Zr`         hshk`         y`qh `,sd,Ó`      hlt~`r          hÇ`\-
+\g      3S-PERF-marry        woman           INDEF    COMPZR     each          day  3S-FUT-eat    camel.PL        seven
+\l He married a certain woman, who (once they were married) used to eat seven camels a day.
+
+\t '00( @Ç``k Z`n ``,i,l`x                     mhm j`       '\       `,i,adm
+\m '00( @Ç``k Z`n ``,i,l`x                     mhm j`       '\       `,i,adm-
+\g      work   REL 1S-PERF-have                2S LOC                3S-PERF-be.finished
+\l The work I have for you is finished.
+
+\t '01( Jdk`    ``,i,ln      s`metrs Z"         ``m           a`a`       `n ¸dm,h              `,i,c`        '\
+\m '01( Jdk`    ``,i,ln      s`metrs Z"         ``m           a`a`       `n ¸dm,h              `,i,c`        '\-
+\g      once    1S-PERF-hear story              1S.GE   N     father     RELbe.old-ADJZ     3S-PERF-do
+\l Once I heard a story of a (courageous) deed that my grandfather did...
+
+\t '03( L`°`l`c       hms`xm`vs+    c` ``x gd               `ch    r`          Zmh,i,x`atj               '\
+\m '03( L`°`l`c       hms`xm`vs+    c` ``x gd               `ch    r`          Zmh,i,x`atj               '\-
+\g      NAME          jackal        do 1S  thing            DET    COMPZR       2S-PERF-be.about.to.do
+\l Mohamed jackal, do to me that thing which you were about to do.
+
+\t '04( V`x       m`,`n+       r`         Zs`bhc`vs         `,a,rdjm`          '   `qldmh\+    `,i,bh
+\m '04( V`x       m`,`n+       r`         Zs`bhc`vs         `,a,rdjm`          '   `qldmh\+    `,i,bh
+\g      woman     DET-REL      COMPZR      small.bird       3S-IMPF-show           suffering   3S-PERF-say
+\l The other woman (lit., woman who [was] that), (to) whom the small bird was showing suffering, said...
+
+\t '05( @`,i,ftm`       anq`        Z`n rd         `,i,m`               s`q`rvnxs\
+\m '05( @`,i,ftm`       anq`        Z`n rd         `,i,m`               s`q`rvnxs\-
+\g      1S-PERF-see     person      REL   BEN      3S-PERF-give         dress
+\l I saw the person to whom he had given a dress.
+
+\t '06( @kl`m Z`n       rd       `,i,xhkj`l\        `,i,vtytvty
+\m '06( @kl`m Z`n       rd       `,i,xhkj`l\        `,i,vtytvty-
+\g      herd   REL      BEN      3S-PERF-guard      3S-PERF-be.scattered
+\l The herd that he guarded was scattered.
+
+\t '07( @,i,xdc               hm              `mft     Z`n     j`        h,i,xhyc`\
+\m '07( @,i,xdc               hm              `mft     Z`n     j`        h,i,xhyc`\-
+\g      3S-PERF-return        3P.GE   N       place    REL     LOC       3P-PERF-live
+\l He returned to the(ir) place where they live.
+
+\t '08( @,e,j`xj`x        g`q       `,i,ftm`               dc`f     Z"     j`      s`g`qs    `,i,g`x\
+\m '08( @,e,j`xj`x        g`q       `,i,ftm`               dc`f     Z"     j`      s`g`qs    `,i,g`x\-
+\g      3S-IMPF-walk      until     3S-PERF-see            place           LOC     lioness   3S-PERF-give.birth
+\l She walked around till she saw a place where a lioness had given birth.
+
+\t '1/( H,i,jtm`           `q`s           m       s`ó`q`           Z" j`          h`q`q`m        `qxdm   h,i,gtqt            h\
+\m '1/( H,i,jtm`           `q`s           m       s`ó`q`           Z" j`          h`q`q`m        `qxdm   h,i,gtqt            h\-
+\g      3P-PERF-get        thing          GEN     N:sprinkle             LOC      dry.plain.PL   water   3S-PERF-enter       3S
+\l They got a sprinkle of rain from which the dry plains received water.
+
+\t '10( V` ghmihm `edqdf           Z" dmc` s`e`m h,i,a`q`\                        Z" dmc` `kl`m h,i,gtqt,j`s\
+\m '10( V` ghmihm `edqdf           Z" dmc` s`e`m h,i,a`q`\                        Z" dmc` `kl`m h,i,gtqt,j`s\-
+\g      IMP mend hedge                COM holes 3P-PERF-be.in                        COM  herd  3P-PERF-enter-VEN
+\l Mend the hedge wherever there are holes, wherever the animals enter.
+
+\t '11( Y`qh Z`n         j`        mh,rdacdc          h     ``m          ln       j`\+        y`qh   Z`n     `xc`\        ``,a,m`              `m`           s`hs  
+\m '11( Y`qh Z`n         j`        mh,rdacdc          h     ``m          ln       j`\+        y`qh   Z`n     `xc`\        ``,a,m`              `m`           s`hs  
+\g      day   REL        LOC       2S-stop            3P    1S.GE   N    face     LOC         day     REL    same         1S-IMPF-give         2S.BEN        heifer
+\l The day that you bring them before me, that same day (lit., day that [is] same) I will give you a heifer...
+
+\t '12( @r`Û`s       `,i,Í`v                  Z`n     j`      h,e,sdm\
+\m '12( @r`Û`s       `,i,Í`v                  Z`n     j`      h,e,sdm\-
+\g      moment       3S-PERF-reach              REL   LOC     3P-IMPF-arrive
+\l The moment has come when they (normally) arrive.
+
+\t '13( @,sd,c`         `       dmc` tltj          en
+\m '13( @,sd,c`         `       dmc` tltj          en-
+\g      2S-FUT-do       3   S   COM  manner        INDEF
+\l I will do it somehow.
+
+\t '14( A`x      k`l        `,rd,a`x                tltj              Z`n     dmc` `,sd,c`             `\
+\m '14( A`x      k`l        `,rd,a`x                tltj              Z`n     dmc` `,sd,c`             `\-
+\g      know     EXCL       1S-NEG.IMPF-know        manner            REL     COM  1S-FUT-do           3S
+\l I really don't know how I am going to do it.
+
+\t '15( L`m       m`        tltj      Z`n       dmc`\ `q,sd,ftm`                  v`x   Z"     i,a`q`             h¸hm`m\+       r`         Z`xm          gtft         `,e,jdch               s`y``ms       m      lhx` jtjt,`m\>  
+\m '15( L`m       m`        tltj      Z`n       dmc`\ `q,sd,ftm`                  v`x   Z"     i,a`q`             h¸hm`m\+       r`         Z`xm          gtft         `,e,jdch               s`y``ms       m      lhx` jtjt,`m\>  
+\g      where     DET       manner    REL       COM   1P-FUT-see                  woman        PERF-be.in         sky            COMPZR      3S.GEN       house        3S-IMPF-be.up          mast          GEN    end be.long-ADJZ
+\l How are we going to see the woman being in the sky, whose house is up at the end of a long mast?
+
+\t '16( @`,i,ftm`           `¸`¸ha+       r`             Z`xm          lnm        gtqt    `,a,c`             h    j`\
+\m '16( @`,i,ftm`           `¸`¸ha+       r`             Z`xm          lnm        gtqt    `,a,c`             h    j`\-
+\g      1S-PERF-see         phantom       COMPZR          3S.GE   N    eyes       fire    3S-IMPF-do         3P   LOC
+\l I saw a phantom, in whose eyes fire was burning.
+
+\t '17( @`,i,ftm`           `¸`¸ha        Z"     i,c`         ÇhjÇhÌ\+       r`         Zgtqt `,a,c`                 `xm         lnm            j`\
+\m '17( @`,i,ftm`           `¸`¸ha        Z"     i,c`         ÇhjÇhÌ\+       r`         Zgtqt `,a,c`                 `xm         lnm            j`\
+\g      1S-PERF-see         phantom              PERF-do      fear           COMPZR      fire 3S-IMPF-do             3S.GE   N   eyes           LOC
+\l I saw a phantom that caused fear, which had fire in his eyes...
+
+\t '18( @xv`+ c` ``x s`metrs `n+ r`                        Zmh,i,a``           `xm         c`\
+\m '18( @xv`+ c` ``x s`metrs `n+ r`                        Zmh,i,a``           `xm         c`\
+\g      well  do 1S  story   REL COMP                 ZR    2S-PERF-want       3S.GE   N   N:do
+\l Well, tell me that story, (the one) which you wanted to tell!
+
+\t '2/( Anq`       Z`n,e,jdch      s`k`ls\ `,i,ytlat,j`s
+\m '2/( Anq`       Z`n,e,jdch      s`k`ls\ `,i,ytlat,j`s-
+\g      person      REL-IMPF-be.up camel   3S-PERF-dismount-VEN
+\l The person who sat on the camel dismounted.
+
+\t '20( L`m       hltmrtv`       Z`nmc       ``,a,etq`m          `mch    rd\     ``,e,bh          `mcd,a,cdq`v>
+\m '20( L`m       hltmrtv`       Z`nmc       ``,a,etq`m          `mch    rd\     ``,e,bh          `mcd,a,cdq`v>
+\g       where    meal.PL         REL.PL     1S-IMPF-throw.ALL 2   P     BEN     1S-IMPF-say   2P-IMPF-sha   re
+\l Where are the foods that I threw to you, telling you to share (them)?
+
+\t '21( @r`Û`s       `,i,Í`v           Z`n     j`     h,e,sdm\
+\m '21( @r`Û`s       `,i,Í`v           Z`n     j`     h,e,sdm\-
+\g      moment       3S-PERF-reach     REL     LOC    3P-IMPF-arrive
+\l The moment has come when they normally arrive.
+
+\t '22( @,i,m`            `    rd     a`qh     Z`n     rdmc`     a,ydfdcdk\
+\m '22( @,i,m`            `    rd     a`qh     Z`n     rdmc`     a,ydfdcdk\-
+\g      3S-PERF-give      3S   BEN    horse     REL    DET.far   IMPF-limp
+\l He gave him that horse which limped.
+
+\t '24( c`s`v`          `mf` dmc` anqdm            h,a,vh               hg`qq`m dmc` hltc`q`m       Z`nmcdmn       adq,`mdm\    
+\m '24( c`s`v`          `mf` dmc` anqdm            h,a,vh               hg`qq`m dmc` hltc`q`m       Z`nmcdmn       adq,`mdm\-    
+\g      old.times       3S.T COM people            3P-IMPF-kill         lion.PL COM animal.PL        REL.PL        be.big-ADJZ.PL
+\l In olden times, it was with it (a large spear) that people killed lions and (other) big game.
+
+\t '25( S`q`c`p ghmbhmh Z`n           ¸dm,h\
+\m '25( S`q`c`p ghmbhmh Z`n           ¸dm,h\-
+\g      NAME    goat     REL          be.old-ADJZ
+\l Taradaq'is an old goat.
+
+\t '26( @ktjtjtÇ       bhch   Z`n      xhaq`q,`m\           Z`n j`        shch   `,i,a`p`s\
+\m '26( @ktjtjtÇ       bhch   Z`n      xhaq`q,`m\           Z`n j`        shch   `,i,a`p`s\-
+\g      Alukukush      salt    REL     be.bad-ADJZ          REL   LOC     dirt   3S-PERF-mix
+\l Alukukush'is salt [in plates] which is of bad (quality) in which dirt is mixed.
+
+\t '27( g`q     `,i,sdm              s`l`qs            en         c`v     Z"     i,a`q`        hy`f`y`m     m     ftrdm\
+\m '27( g`q     `,i,sdm              s`l`qs            en         c`v     Z"     i,a`q`        hy`f`y`m     m     ftrdm\-
+\g      till    3S-PERF-arrive       old.woman         INDEF      LOC            PERF-be.in    wildcat.PL   GEN   burrow.PL
+\l ...until he arrived at an old woman's who was (lived) in wildcats' burrows.
+
+\t '28( Hm          kdmjdl            `,md,ctv`                         anq`      rd     Z"    i,a``     `kÛ`ehx`s\
+\m '28( Hm          kdmjdl            `,md,ctv`                         anq`      rd     Z"    i,a``     `kÛ`ehx`s\-
+\g      3P.GEN   N:be.behind       3S-NEG.PERF-be.better             person    BEN          PERF-want peace
+\l Following them is not good for somebody who seeks peace.
+
+\t '3/( @`,a,Çhfhc             `m`        ``y`q en          ad       Z" a,xhy`q       `qh                 mdc`          j`\
+\m '3/( @`,a,Çhfhc             `m`        ``y`q en          ad       Z" a,xhy`q       `qh                 mdc`          j`\-
+\g      1S-IMPF-wait           2S.BEN     pond  INDE   F    on          IMPF-be.ahead 1P                  place.same    LOC
+\l I am waiting for you on a pond that is ahead of us here.
+
+\t '30( V`       ghmihm       `edqdf    Z" dmc` s`e`m h,i,a`q`\     Z" dmc` `kl`m h,i,gtqt,j`s\
+\m '30( V`       ghmihm       `edqdf    Z" dmc` s`e`m h,i,a`q`\     Z" dmc` `kl`m h,i,gtqt,j`s\-
+\g       IMP     mend         hedge        COM  holes 3P-PERF-be.in    COM  herd  3P-PERF-enter-VEN
+\l Mend the hedge wherever there are holes, wherever the animals enter.
+
+\t '31( Jdk`         ``,i,ln            s`metrs Z"   ``m             a`a`       `n     ¸dm,h               `,i,c`\
+\m '31( Jdk`         ``,i,ln            s`metrs Z"   ``m             a`a`       `n     ¸dm,h               `,i,c`\
+\g      once         1S-PERF-hear       story        1S.GE   N       father     REL    be.old-ADJZ      3S-PERF-do
+\l Once I heard a story of a (courageous) deed that my grandfather did...
+
+\t '32( R`             hshk`     `qt     Z" i,sdm            h        c`v\ h,sd,chmh              `        h,l,c`             `       dmc` Í`lt
+\m '32( R`             hshk`     `qt     Z" i,sdm            h        c`v\ h,sd,chmh              `        h,l,c`             `       dmc` Í`lt-
+\g       COMPZR        each      man        PERF-arrive      3   P    LOC  3P-FUT-take            3   S    3P-SUBJ-make       3   S   COM  slave
+\l Each man who arrived at their (place) was taken to be made a slave.
+
+\t '33( hshk`        Z"   `,i,xhjshj`s                      ``x\       s`bhc`vs `xc`             `,sd,Ôns,j`s         `xm           vtk       j` 
+\m '33( hshk`        Z"   `,i,xhjshj`s                      ``x\       s`bhc`vs `xc`             `,sd,Ôns,j`s         `xm           vtk       j` 
+\g      each              3S-PERF-remember.VEN              1S         bird     same             3S-FUT-fly-VEN       3S.GE   N     heart     LOC
+\l ...whenever he remembers me, the same bird flies from his heart...
+
+\t '34( g`q      y`qnch        `l`mnj`k     `,i,m`               `xm             sdlf`cdm         rd        hk`mjdm       Z" bhc`x,dmdm\  
+\m '34( g`q      y`qnch        `l`mnj`k     `,i,m`               `xm             sdlf`cdm         rd        hk`mjdm       Z" bhc`x,dmdm\-  
+\g      till     day.DE   T    chief        3S-PERF-give         3S.GE   N       daughters        BEN       ribbons          be.red-ADJZ.PL
+\l ...until the day the chief gave his daughters red ribbons (ribbons that were red).
+
+\t '35( S`at`ms           `,i,jnx         stftct en          Z"       adq,h\            m        bhc`x
+\m '35( S`at`ms           `,i,jnx         stftct en          Z"       adq,h\            m        bhc`x-
+\g      old.sheep         3S-PERF-go      tree   INDE   F             be.big-ADJZ    GEN      N:under
+\l The old sheep went under a big tree (a tree that was big).
+
+\t '36( Anq`         `,i,Çh         Z", i,l`x                   hlt~`r\ dmc`mf`                 vhih    Hc`jr`g`j
+\m '36( Anq`         `,i,Çh         Z", i,l`x                   hlt~`r\ dmc`mf`                 vhih    Hc`jr`g`j-
+\g      person       3S-PERF-be.not     PERF-own                camels if                       not     Idaksahak
+\l There is nobody who has camels if it is not the Idaksahak.
+
+\t '37( @`,i,a`x              r`            vtqshk`           `l~tr   Z`n,a,x`ytq`f                    sdrd``m j`\
+\m '37( @`,i,a`x              r`            vtqshk`           `l~tr   Z`n,a,x`ytq`f                    sdrd``m j`\
+\g      1S-PERF-know          COMPZR        there.is.not      camel    REL-IMPF-be.free                season.kind LOC
+\l I know that there is no camel that is left free during hot season...
+
+\t '38( @,md,xhcdq                  `xm         sdmm`+        `,md,c`                  gn               Z" `,i,bh\
+\m '38( @,md,xhcdq                  `xm         sdmm`+        `,md,c`                  gn               Z" `,i,bh\-
+\g      3S-NEG.PERF-hold            3S.GE   N   promise       3S-NEG.PERF-do           thing.DET        3S-PERF-say
+\l He did not keep his promise, he did not do what (lit., the thing that) he said.
+
+\t   `,rd,c`              `      rd        gd       Z" xhaq`q,`m\
+\m   `,rd,c`              `      rd        gd       Z" xhaq`q,`m\-
+\g   3S-NEG.IMPF-do       3S     BEN       thing       be.bad-ADJ     Z
+\l If she had known what was in the next world for her, she would not have done anything bad to him (her husband).
+
+\t '41( )H,i,jdmh             md           en      j`
+\m '41( )H,i,jdmh             md           en      j`-
+\g      3P-PERF-sleep         place        INDEF   LOC
+\l They slept somewhere.
+
+\t '42( @xm         ahcdm       md       Z" j`       h,i,ctlat           `mf`\
+\m '42( @xm         ahcdm       md       Z" j`       h,i,ctlat           `mf`\-
+\g      3S.GE   N   bones       place          LOC   3P-PERF-kill        3S.T
+\l Its bones were in the place where they had killed it.
+
+\t '43( @,i,Í`v,`m                hm          g`vxdm+       `,i,chmh    Z`n,i,l`m                   g`x,`m\
+\m '43( @,i,Í`v,`m                hm          g`vxdm+       `,i,chmh    Z`n,i,l`m                   g`x,`m\
+\g      3S-PERF-reach-ALL     3P.GE   N   cows          3S-PERF-take REL-PERF-be.close          birth-ADJ   Z
+\l He reached their cows, took the one that was pregnant...
+
+\t '44( R`          hshk` `qt       Z"        i,sdm          h    c`v\ h,sd,chmh           ` h,l,c`                 `        dmc` Í`lt
+\m '44( R`          hshk` `qt       Z"        i,sdm          h    c`v\ h,sd,chmh           ` h,l,c`                 `        dmc` Í`lt-
+\g       COMPZR     each man                  PERF-arrive    3P   LOC  3P-FUT-take         3S 3P-SUBJ-make          3S       COM  slave
+\l Each man who arrived at their (place) was taken to be made a slave.
+
+\t Z@n id          md,sd,xhv`             h     j`       `c`v`m`\       `,i,x`a`,j`s
+\m Z@n id          md,sd,xhv`             h     j`       `c`v`m`\       `,i,x`a`,j`s-
+\g  REL only       GEN-FUT-block          3P    LOC      N:talk         3S-PERF-miss-VEN
+\l Only the one who could outdo them in talking missed (becoming a slave).
+
+\t '45( Vtqshk`         Z`n,i,a``               r`           `xm          s`ltÔdj          `,sd,m`        `en       rd\
+\m '45( Vtqshk`         Z`n,i,a``               r`           `xm          s`ltÔdj          `,sd,m`        `en       rd\-
+\g      there.is.not     REL-PERF-want          COMPZR       3S.GE   N    milking.animal   3S-FUT-give    one       BEN
+\l There is no one who wants to give his livelihood to someone else.
+
+\t HÌdkdl`m c` j`              r`        Zh7,i,x`fnq           sdldyc`\
+\m HÌdkdl`m c` j`              r`        Zh7,i,x`fnq           sdldyc`\-
+\g Indeliman too        LOC COMPZR 3P-PERF-be.bigger dwelling.place.PL
+\l (They live) also in Indeliman, which is bigger than the (named) dwelling places.
+
+\t '47( @,i,y`v                rtqf`x      e n+        r`           Zhshk`      y`qh   `,sd,Ó`        hlt~`r       hÇ`\
+\m '47( @,i,y`v                rtqf`x      e n+        r`           Zhshk`      y`qh   `,sd,Ó`        hlt~`r       hÇ`\-
+\g      3S-PERF-marry          woman       INDEF       COMPZR        each       day    3S-FUT-eat     camel.PL     seven
+\l He married a certain woman, who (once they were married) used to eat seven camels a day.
+
+\t '48( V`x          m`,`n+         r`            Zs`bhc`vs       `ardjm`              `qldmh\+    `,i,bh
+\m '48( V`x          m`,`n+         r`            Zs`bhc`vs       `ardjm`              `qldmh\+    `,i,bh
+\g      woman        DET-REL        COMPZR         small.bird     3S.IMPF.show         suffering   3S-PERF-say
+\l The other woman (lit., woman who [was] that), (to) whom the small bird was showing suffering, said...
+
+\t '5/( @`,i,ftm`            `¸`¸ha        Z" i,c`               ÇhjÇhÌ\+        r`          Z`xm          lnm    gtqt       `,a,c`            h       j`\
+\m '5/( @`,i,ftm`            `¸`¸ha        Z" i,c`               ÇhjÇhÌ\+        r`          Z`xm          lnm    gtqt       `,a,c`            h       j`\-
+\g      1S-PERF-see          phantom              PERF-do        fear            COMPZR       3S.GE   N    eyes   fire       3S-IMPF-do        3   P   LOC 
+\l I saw a phantom that causes fear, in whose eyes fire was burning.
+
+\t '50( Hbh             `qt        en      m`       `ch     `,i,l`x              `xm    hy`bdm`m          j`q`c+        r`          Z`en     `,i,Çh                 h     Z" a,cdq`v    `en              dmc` m`m`\\
+\m '50( Hbh             `qt        en      m`       `ch     `,i,l`x              `xm    hy`bdm`m          j`q`c+        r`          Z`en     `,i,Çh                 h     Z" a,cdq`v    `en              dmc` m`m`\\-
+\g      they.said       man        INDEF   DET      DET     3S-PERF-own          his    young.man.PL      three         COMPZR       one     3S-PERF-be.not         3P       IMPF-share one              COM  mother 
+\l There was once a man, he had three sons, of whom there was not one who had the same mother.
+
+\t '51( @,i,g`rh,`m                hy`bd             `n     r`              Z`mf` md,l`x           s`a`j`qs\
+\m '51( @,i,g`rh,`m                hy`bd             `n     r`              Z`mf` md,l`x           s`a`j`qs\
+\g      3S-PERF-look-ALL           young.man         REL    COMPZR           3S.T FOC-own          ewe
+\l He looked toward the young man, the one who OWNED the ewe...
+
+\t '52( mh,sd,ltptr       dmc`      gd        en       r`           Zmh,md,cdads                      '\
+\m '52( mh,sd,ltptr       dmc`      gd        en       r`           Zmh,md,cdads                      '\-
+\g      2S-FUT-meet       COM       thing     INDEF    COMPZR        2S-NEG.PERF-be.able.to.do
+\l ...(you do not know, when) you come across anything that you are not able to do.
+
+\t '53( L`°`l`c hms`xm`vs c`             ``x gd             `ch   r`             Zmh,i,x`atj                 '\
+\m '53( L`°`l`c hms`xm`vs c`             ``x gd             `ch   r`             Zmh,i,x`atj                 '\-
+\g      Mohamed jackal    do             1S  thing          DET   COMPZR          2S-PERF-be.about.to.do
+\l Mohamed jackal, do to me that thing which you were about to do.
+
+\t '54( @qt     Z`n     nc`      dmc`       `,a,g`mf`\+            r`         Z`xm         l`m         Mhkdr\+ ``,i,bh                    rd9
+\m '54( @qt     Z`n     nc`      dmc`       `,a,g`mf`\+            r`         Z`xm         l`m         Mhkdr\+ ``,i,bh                    rd9
+\g      man      REL    DET      COM        3S-IMPF-accompany      COMPZR      3S.GE   N   name        Niels 1S-PERF-say          3   S   BEN
+\l This man whom he accompanied, whose name is Niels, I said to him:
+
+\t '55( Gd         Z`n    `r`°     `,a,ghmihm\  j`lhk `,sd,ghmihm `                `m`
+\m '55( Gd         Z`n    `r`°     `,a,ghmihm\  j`lhk `,sd,ghmihm `                `m`-
+\g      thing      REL    force    3S-IMPF-fix   all   1S-FUT-fix  3       S       2S.BE   N
+\l All that strength can fix, I will fix it for you.
+
+\t '56( Anq`         Z`n,a,xhÇdk       gtkdm\+ `xm            j`ladm      h,e,jdqÇhÇhm
+\m '56( Anq`         Z`n,a,xhÇdk       gtkdm\+ `xm            j`ladm      h,e,jdqÇhÇhm-
+\g      person        REL-IMPF-work    much 3S.GE       N     hand.PL     3P-IMPF-be.rough
+\l Somebody who works a lot, his hands are rough.
+
+\t '57( Gd    Z`n,e,stv`q`              dmc` S`k`s`xs c`\            j`lhk hm                  `l`mnj`k @xta`
+\m '57( Gd    Z`n,e,stv`q`              dmc` S`k`s`xs c`\            j`lhk hm                  `l`mnj`k @xta`-
+\g      thing REL-IMPF-PASS.call        COM      NAME         DISC   all   3P.GEN         chief    Ayuba
+\l (as for) The whole region called Talatayt, its (lit., their) chief was Ayuba.
+
+\t '58( V` jnx+         hshk`     `en   `qt      Z`n `,i,a``\               `,l,c`        `        `xm            ihmih   j`
+\m '58( V` jnx+         hshk`     `en   `qt      Z`n `,i,a``\               `,l,c`        `        `xm            ihmih   j`-
+\g      IMP leave       each      one   man       REL 3S-PERF-love          3S-SUBJ-do    3   S    3S.GE      N   neck    LOC
+\l Leave, may each one put it (ribbon) around the neck of the man that she loves.
+
+\t '6/( A`qh       Z`n,i,l`x      hyqdm\            `mf`       md,i,kdkkds
+\m '6/( A`qh       Z`n,i,l`x      hyqdm\            `mf`       md,i,kdkkds-
+\g      horse       REL-PERF-have endurance         3S.T       FOC-PERF-be.noble
+\l A horse that has endurance, it's THIS ONE that is noble.
+
+\t ldÇhm s`vÇ`s `n+ r`                  Z`,e,stvdm`           Hg`m`p`s`m\+  `mf` md,i,l`x                ``x
+\m ldÇhm s`vÇ`s `n+ r`                  Z`,e,stvdm`           Hg`m`p`s`m\+  `mf` md,i,l`x                ``x-
+\g but     clan    REL     COMPZR        3S-IMPF-PASS.call Ihanaqatan       3S.T   FOC-PERF-own       1S     
+\l ...but that clan, the one that is called `Ihanaqatan', it's TO IT that I belong.
+
+\t '61( Anqdm           j`    gd00     Z`n,i,l`x           `yqte\    hmfh    md,a,x`q`x                 dmc` `mf`
+\m '61( Anqdm           j`    gd00     Z`n,i,l`x           `yqte\    hmfh    md,a,x`q`x                 dmc` `mf`-
+\g      person.PL       LOC   thing     REL-PERF-have      money     3P.T    FOC-IMPF-go.toward         COM  3S.T
+\l Among the people, those who have (lots of) money, it's THEY who go toward it (where the camels are sold).
+

@@ -1,0 +1,40 @@
+\t nakanrei     Amir lokaku
+\m na-kanre-i     Amir loka-ku
+\g 3ERG-eat-3ABS NAME banana-1           POSS
+\l Amir ate my banana.
+
+\t Amir      angkanrei lokaku
+\m Amir      ang-kanre-i loka-ku
+\g NAM E     VOICE-eat-3ABS banana-1P        OSS
+\l (It is) Amir (who) ate my banana.
+
+\t lokaku          nakanre (Amir)
+\m lokaku          na-kanre (Amir)
+\g banana-1POSS 3ERG-eat NAME
+\l (It was) my banana he (Amir) ate.
+
+\t manna     Baco'      ,           suanga    natulung
+\m manna     Baco'      ,           suang-a    na-tulung
+\g even      NAM E      BREAK       often-1ABS 3ERG-help
+\l EvenBaco', he often helps me.
+
+\t nakanrei     Amir lokaku
+\m na-kanre-i     Amir loka-ku
+\g 3ERG-eat-3ABS NAME banana-1POSS
+\l Amir ate my banana.
+
+\t Amir      angkanrei lokaku
+\m Amir      ang-kanre-i loka-ku
+\g NAME      VOICE-eat-3ABS banana-1POSS
+\l (It is) Amir (who) ate my banana.
+
+\t lokaku          nakanre (Amir)
+\m lokaku          na-kanre (Amir)
+\g banana-1POSS 3ERG-eat NAME
+\l (It was) my banana he (Amir) ate.
+
+\t manna     Baco'      ,           suanga    natulung
+\m manna     Baco'      ,           suang-a    na-tulung
+\g even      NAME       BREAK       often-1ABS 3ERG-help
+\l EvenBaco', he often helps me.
+

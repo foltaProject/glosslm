@@ -1,0 +1,475 @@
+\t ala: atu bani:na
+\m ala: atu bani:na
+\g three(f)   sons
+\l three sons
+
+\t ala: u     bana:tu
+\m ala: u     bana:tu
+\g three(m) daughters
+\l three daughters
+
+\t dibídii       wáy        tagtay / wáy          tegeen
+\m dibí-dii       wáy        tagtay / wáy          tegeen
+\g bulls-detF Foc.3FS left.fs / Foc.3P             left.pl
+\l The bulls (it/she or they) left.
+
+\t dúmarkii     wáy        tageen / *wúu            tagay
+\m dúmar-kii     wáy        tageen / *wúu            tagay
+\g women-detM Foc.3P left.pl / Foc.3MS               left.ms
+\l The women (they) left.
+
+\t carruúrtani              xaggée                 bay            ká   timid?
+\m carruúr-tani              xag-gée                 bay            ká   timid?
+\g children-detF+dem[+nom] where-detM+Q              Foc.3FS        from come.fs
+\l Where do these children come from?
+
+\t árdayga       wanaagsan / árdaygii           wanaagsanaa
+\m árday-ga       wanaagsan / árday-gii           wanaagsanaa
+\g student-detM good        / student-detM[+past] good[+past]
+\l the good student
+
+\t ardayádda      wanaagsan / ardayáddii           wanaagsanayd
+\m ardayád-da      wanaagsan / ardayád-dii           wanaagsanayd
+\g student.f-detF good       / student.f-detF[+past] good[+past].f
+\l the good(f) student(f)
+
+\t ardáyda       wanwanaagsan / ardáydii           wanwanaagsanaa
+\m ardáy-da       wanwanaagsan / ardáy-dii           wanwanaagsanaa
+\g students-detF pl.good      / students-detF[+past] pl.good[+past]
+\l the good students
+
+\t árdaygii      wúu       yimid
+\m árday-gii      wúu       yimid
+\g student-detM Foc.3MS m.came
+\l The student (he) came.
+
+\t ardayáddii     wáy        timid
+\m ardayád-dii     wáy        timid
+\g student.f-detF Foc.3FS f.came
+\l The student (f) (she) came.
+
+\t ardáydii       wáy     yimaadeen
+\m ardáy-dii       wáy     yimaadeen
+\g students-detF Foc.3P came.3p
+\l The students (they) came.
+
+\t (ardáydu)            wáy       joogaan
+\m (ardáy-du)            wáy       joogaan
+\g students-detF[+nom] Foc.3P are-present.3p
+\l The students are present / they are present.
+
+\t ardáyda              baa   joogta
+\m ardáy-da              baa   joogta
+\g students-detF[+acc] Foc.pro is-present.fs
+\l The students are present.
+
+\t ardaydée         baa      joogta?
+\m ardaydée         baa      joogta?
+\g students-detF+Q Foc.pro is-present.fs
+\l Which students are present?
+
+\t waxaa          jooga       ardáyda
+\m wax-aa          jooga       ardáyda
+\g expl-Foc.pro is-present.ms students-detF
+\l The students are present.
+
+\t waxaa          akhriyay búuggan  ardáydii
+\m wax-aa          akhriyay búug-gan  ardáy-dii
+\g expl-Foc.pro read-ms book-detM+dem students-detF
+\l The students read this book.
+
+\t ardáyda                      wáy      joogan
+\m ardáy-d-a                      wáy      joogan
+\g students-DET.f-NONPST 3pl.f             are.present
+\l The students are present.
+
+\t ardáydii            wáy      joogan
+\m ardáy-d-ii            wáy      joogan
+\g students-DET.f-PST 3pl.f       are.present
+\l The students (I told you about) are present.
+
+\t bandhígga                     máad daawatay?
+\m bandhí-gg-a                     máad daawatay?
+\g exhibition-DET.m-NONPST Q.2sg saw
+\l Have you seen the exhibition.
+
+\t bandhíggii             máad daawatay?
+\m bandhí-gg-ii             máad daawatay?
+\g exhibition-DET.m-PST Q.2sg saw
+\l Did you see the exhibition.
+
+\t búuggii            waa kan
+\m búug-g-ii            waa kan
+\g book-DET.m-PST F         DEM.m
+\l Here is the book (distant/in mind).
+
+\t nimánkii          waa macallim'in
+\m nimán-k-ii          waa macallim'in
+\g men-DET.m-PST F         teachers
+\l The men (over there/in mind) are teachers.
+
+\t Nimánka keénayá wáan arkay
+\m Nimánka keénayá wáan arkay
+\g men.ABS.PL bring-RED.3pl PARTCL-1sg saw
+\l I saw the men who are bringing (it)
+
+\t miyàan kúu          kéenayaa
+\m miyàan kúu          kéenayaa
+\g Q.1SG    to.you bring.PRES.PROG
+\l Shall I bring it to you?
+
+\t árdaygii              hore
+\m árday-gii              hore
+\g student-detM.past      before
+\l the former student
+
+\t (weligay) dúhurkii             baan wax       cunaa
+\m (weligay) dúhur-kii             baan wax       cunaa
+\g (always) noon-detM.past         F.1S thing     eat.pres
+\l I (always) eat at noon.
+
+\t Inántii           hálkée          bay       joogta?
+\m Inán-tii           hálkée          bay       joogta?
+\g girl-detF.past     place-detM.Q    F.3S      stay.F.pres
+\l Where is thegirl'?
+
+\t Dele se           sabe pouco.
+\m Dele se           sabe pouco.
+\g  of him 3.SG.REFL knows little
+\l One knows little about him
+
+\t keentaan
+\m keen-t-aa-n
+\g bring-2-PRS-PL
+\l you (pl.) bring
+
+\t keentaan
+\m keen-t-aa-n
+\g bring-2-PRS-PL
+\l you (pl.) bring
+
+\t Cali           wuu             yimi.
+\m Cali           wuu             yimi.
+\g Ali            waa+uu          went                                 PF+he
+\l Ali went.
+
+\t Cali        miyuu              yimi?
+\m Cali        miyuu              yimi?
+\g Ali         ma+uu              went                           QM+he
+\l Did Ali go?
+
+\t A:(a)      (Inántii)      Qólkáas bày                   kú    jirtaa.
+\m A:(a)      (Inántii)      Qólkáas bày                   kú    jirtaa.
+\g            girl-the       room-that+NFOC+she            in    is
+\l (The girl),   She's in [F that room].
+
+\t (Inántii      qólkáas)      way                  kú           jirtaa.
+\m (Inántii      qólkáas)      way                  kú           jirtaa.
+\g girl-the       room-that     wàa+she              in           is
+\l The girl, that room, [F she is in it].
+
+\t Libàax yeedháy iyo libàax           aammusáy,               libàax         aammusáy      bàa xún
+\m Libàax yeedháy iyo libàax           aammusáy,               libàax         aammusáy      bàa xún
+\g lion   roared  and lion             kept:silent             l i on         kept:silent   NFOCbad
+\l (Of) a roaring lion and a silent lion, [F a silent lion] is worse.
+
+\t Q:          Maxáa         dhacáy?
+\m Q:          Maxáa         dhacáy?
+\g             what+NFOC happened
+\l [F What] happened?
+
+\t A:      (a)    Cáli        bàa               Fáarax       kú           dhuftay.
+\m A:      (a)    Cáli        bàa               Fáarax       kú           dhuftay.
+\g                Ali         NFOC              Farah        on           struck
+\l [F Ali hit Farah].
+
+\t Cáli       Fáarax            bùu             kú          dhuftay.
+\m Cáli       Fáarax            bùu             kú          dhuftay.
+\g Ali         Farah             NFOC   +he      on          struck
+\l Ali, he hit [F Farah]   .
+
+\t Cali       Fáarax        wùu                 kú          dhuftay.
+\m Cali       Fáarax        wùu                 kú          dhuftay.
+\g Ali         Farah         wàa+he              on          struck
+\l Ali, Farah, [F he hit   him].
+
+\t Cali má         bixín.
+\m Cali má         bixín.
+\g Ali     not     left:NEG
+\l Ali didn't leave.
+
+\t Cáli báan            bixín.
+\m Cáli báan            bixín.
+\g Ali     NFOC+not left:NEG
+\l [F Ali] didn't leave.
+
+\t Cali má         baxay?
+\m Cali má         baxay?
+\g Ali     QM      left
+\l Did Ali leave?
+
+\t Ma      Cáli bàa baxáy?
+\m Ma      Cáli bàa baxáy?
+\g QM      Ali     NFOC left
+\l Did [F Ali] leave?
+
+\t Ma     Cáli         báan     bixín?
+\m Ma     Cáli         báan     bixín?
+\g QM     Ali          NFOC+not left:NEG
+\l Didn't [F Ali] leave?
+
+\t A:      Wùu          iibiyey.
+\m A:      Wùu          iibiyey.
+\g         Waa+he       sold
+\l He [F sold] it.
+
+\t Gábadhíi má            timi?
+\m Gábadh-íi má            timi?
+\g girl-the      QM        came
+\l The girl, has she arrived?
+
+\t Hàa, wày              timi.
+\m Hàa, wày              timi.
+\g yes     waa+she       came
+\l Yes, she's arrived
+
+\t Miyàanú        sóo noqónayn?
+\m Miyàanú        sóo noqónayn?
+\g QM+not+he VEN return:PROG:NEG
+\l Isn't he coming
+
+\t Hàa, wuu              sóo     noqónayaa.
+\m Hàa, wuu              sóo     noqónayaa.
+\g yes     waa+he        VEN     return:PRES:PROG
+\l Yes, he's comingback'.
+
+\t Maxáad                      dóonaysaa?
+\m Maxáad                      dóonaysaa?
+\g   what+NFOC+you             want:PROG
+\l [F What] would you like?
+
+\t Wáxaan         dóonayaa koob shàah áh oo áan sonkór laháyn
+\m Wáxaan         dóonayaa koob shàah áh oo áan sonkór laháyn
+\g  wáxa+I        want         cup    tea      be and not sugar have:NEG
+\l I would like [F a cup of tea without sugar]
+
+\t Cali     wùu         yimi.=Predicate focus
+\m Cali     wùu         yimi.=Predicate focus
+\g Ali      wàa+he went
+\l Ali, he [F went].
+
+\t Cáli baa             yimí.=Narrow focus on NP
+\m Cáli baa             yimí.=Narrow focus on NP
+\g Ali     NFOC         went
+\l [F Ali] went
+
+\t London      bay                         iigá                      sóo iibsatay
+\m London      bay                         iigá                      sóo iibsatay
+\g L.NFOC       she              me+for+from                VEN    bought
+\l She bought it for me from             [F London].
+
+\t Nimánkii      wày            yimaaddeen.
+\m Nimánkii      wày            yimaaddeen.
+\g men-the       VFOC+they      came:PL
+\l The men came.
+
+\t Nimánkíi      bàa            yimí.
+\m Nimánkíi      bàa            yimí.
+\g men-the       NFOC           came:   SG
+\l [F The men] came.
+
+\t Nimánkii       má         imán.
+\m Nimánkii       má         imán.
+\g men-the        not        came:NEG
+\l The men did   n't come.
+
+\t Nimankíi       báan          imán.
+\m Nimankíi       báan          imán.
+\g men-the        NFOC+not      came:NEG
+\l [F The men]   didn't come.
+
+\t buugágga      ay      nimánku     keenàan
+\m buugágga      ay      nimánku     keenàan
+\g books-the     they men-the        bring:PL
+\l the books which they the men bring
+
+\t nimánka     (*ay)      buugágga      keená
+\m nimánka     (*ay)      buugágga      keená
+\g men-the     (*they) books-the        bring:SG
+\l the men who bring the books
+
+\t Wúxuu                     íi sheegay        ínuu Berberá             tegáy
+\m Wúxuu                     íi sheegay        ínuu Berberá             tegáy
+\g wáxa+he                   me+to told        that+he    B.went
+\l He told me that [F he went to Berbera]
+
+\t Wúxuu        igú           yidhi     `Berberàan             tegay'
+\m Wúxuu        igú           yidhi     `Berberàan             tegay'
+\g wáxa+he      me+to         said      Berbera+FOC+I          went
+\l He said to me [F`I'm going to [F Berbera]]
+
+\t Sùuqa         ayày       tegay ínay       dhár       sóo iibsato
+\m Sùuq-a         ayày       tegay ín-ay       dhár       sóo iibsato
+\g market-the     FOC+she went that-she clothes           VEN    buy
+\l She went to [F the market] to buy clothes.
+
+\t Dhár         ayày       sùuqa        u sóo      iibsánaysay.
+\m Dhár         ayày       sùuq-a        u sóo      iibsánaysay.
+\g clothes-the FOC+she market-the in VEN was:buying
+\l She went shopping for [F clothes] in the market.
+
+\t Naagtée          ayày         akhrist          een    bùuggíi    ay   qortáy?
+\m Naagtée          ayày         akhrist          een    bùuggíi    ay   qortáy?
+\g woman-which      NFOC+they read                       book-the she    wrote
+\l Which woman did they read the book            which she wrote?
+
+\t Kumàad            rumeysántahay                hádalka áh ínuu        imàankíi            lá      kulmay?
+\m Kumàad            rumeysántahay                hádalka áh ínuu        imàankíi            lá      kulmay?
+\g who+NFOC+you believe                           talk-the be that-he    imam-the            with    met    
+\l Who do you believe the claim that he          met the imam?
+
+\t Q:      Maxàynu              ráacaynaa?
+\m Q:      Maxàynu              ráacaynaa?
+\g         what+NFOC+we         travelling:by
+\l [F What] are we travelling by?
+
+\t Kúmàa             hooyádìis              jecéshahay?
+\m Kúmàa             hooyádìis              jecéshahay?
+\g who+NFOC          mother-his             love
+\l [F Whoi] does hisi mother love?
+
+\t A:       Jèeb bàynu             ráacaynaa.
+\m A:       Jèeb bàynu             ráacaynaa.
+\g          jeep NFOC+we           travelling:by
+\l We are travelling by [F a jeep].
+
+\t Há sugo!
+\m Há sugo!
+\g  OM wait:OPT
+\l May he wait!
+
+\t Fáarax      báan         tegín.
+\m Fáarax      báan         tegín.
+\g Farah       FOC+NEG      went:NEG
+\l [F Farah ]didn't go.
+
+\t Fáarax     má              tegín
+\m Fáarax     má              tegín
+\g Farah      NEG             went:   NEG
+\l Farah didn'tgo'.
+
+\t Q:      Kumàa         yimí?
+\m Q:      Kumàa         yimí?
+\g         who+NFOC      came
+\l [F Who] came?
+
+\t A:      (a)      Cáli       bàa     yimí
+\m A:      (a)      Cáli       bàa     yimí
+\g                  Ali        NFOC came
+\l [F Ali] came.
+
+\t Cidna      má      imán
+\m Cidna      má      imán
+\g no-one     not     came:NEG
+\l Nobody came.
+
+\t Cidna       báan        imán
+\m Cidna       báan        imán
+\g no-one       NFOC+not    came:NEG
+\l [F Nobody] came.
+
+\t Sayidkuna         gabaygan ayuu          ka     tiriyey      dilkaas      Koofil
+\m Sayidkuna         gabaygan ayuu          ka     tiriyey      dilkaas      Koofil
+\g Dauid-the-and poem-this NFOC+he about composed killing-that Corfield
+\l And the Sayidi, [F this poem] hei composed about that killing of Corfield
+
+\t Cigaal baa geelodii              la      raaciyey.
+\m Cigaal baa geelodii              la      raaciyey.
+\g Igal     NFOC camels-their       one     sent:with
+\l [F Igal] was sent along with their camels.
+
+\t Ka      dib abaar xun           bàa      dhacday
+\m Ka      dib abaar xun           bàa      dhacday
+\g more after drought bad          NFOC     happened
+\l Later [F a severe drought] occurred.
+
+\t Ninka reerka         lihi deeqsi               buu       ahaa
+\m Ninka reerka         lihi deeqsi               buu       ahaa
+\g man-the family-the had generous:person NFOC+he was
+\l The mani who had the family, hei was [F a generous person]
+
+\t Arooska        weyn had        dhow      baan        dhigaynaa
+\m Arooska        weyn had        dhow      baan        dhigaynaa
+\g wedding-the big        time near         NFOC+we arrange:PROG
+\l The big wedding, [F soon] we will be arranging it.
+
+\t Soomaalidu guurka            aad     bay            u tixgelin jirtey
+\m Soomaalidu guurka            aad     bay            u tixgelin jirtey
+\g       s-the marriage-the much NFOC+they ADP value                 used
+\l The Somalisi, marriagej, they used to value itj [F very highly].
+
+\t Markaana        dad     badan oo reer         Masar ah ayaa qaatay        diinta          islaamka 
+\m Markaana        dad     badan oo reer         Masar ah ayaa qaatay        diinta          islaamka 
+\g time-that-and people many and nation Egypt be NFOC took                   religion-the    Islam-the
+\l And then [F many Egyptians] converted to Islam.
+
+\t Libaax oo ah boqorkii            habar    dugaag       baa beri bukooday oo                   awoodi           kari          waayey       in     uu       ugaarsado
+\m Libaax oo ah boqorkii            habar    dugaag       baa beri bukooday oo                   awoodi           kari          waayey       in     uu       ugaarsado
+\g l i on   and is king-the         beasts               NFOC    day fell:ill         and        have:capacity    be:able       failed       that he         hunt     
+\l One day [F Lion, who is the   king of    beasts,] fell ill and lost the ability to hunt.
+
+\t Inta         qofku         nool        yahay ayuu           awood leeyahay oo              wax       qabsan                     karaa
+\m Inta         qofku         nool        yahay ayuu           awood leeyahay oo              wax       qabsan                     karaa
+\g amount-the person-the alive            is        NFOC+he potential has          and        thing     take:MIDDLE:INF            can  
+\l [F As long as a person is alive]   , he has potential and can achieve something.
+
+\t Berri          inuu        soo fufi      doono baan ku               fekeraa
+\m Berri          inuu        soo fufi      doono baan ku               fekeraa
+\g tomorrow that+it VEN sprout will                  NFOC+I on          think
+\l I reflect [F that it will sprout back again] tomorrow.
+
+\t Gacaliso      maxaad      i ga    doonaysaa?buu     weydiiyey                     yaxaaskii       
+\m Gacaliso      maxaad      i ga    doonaysaa?-buu     weydiiyey                     yaxaaskii       
+\g de a r        what+you    me+from want:PRES.PROG              NFOC+he asked        crocodile-t   he
+\l [F Dear,   what do you want from me?]"­ hei asked him, the crocodilei.
+
+\t Waxaa     keena uun            aad     u     yar    oo la       yiraahdo `Fiiruus'
+\m Waxaa     keena uun            aad     u     yar    oo la       yiraahdo `Fiiruus'
+\g wáxaa     brings creature INTENS ADP small and one calls                   `virus'
+\l What causes it is [F a very small organism called a virus]
+
+\t Waxa       la   wada          ogsoonyahay        nolosheennu in          ay ku        xidhantahay       roobka  
+\m Waxa       la   wada          ogsoonyahay        nolosheennu in          ay ku        xidhantahay       roobka  
+\g wáxa       one together aware-is                 life-our          that it to         bound-is          rain-the
+\l It is well known to all [F that our life is bound to the rain]
+
+\t Saahid Qamaan wuxuu            ahaa nin gabayaa ah             oo      aad    ugu            xe e l       dheeraa      gabayada xikmadda, waanada           i yo    duurxulka       
+\m Saahid Qamaan wuxuu            ahaa nin gabayaa ah             oo      aad    ugu            xe e l       dheeraa      gabayada xikmadda, waanada           i yo    duurxulka       
+\g Sahid    Qaman      wáxa+he was man poet              be       and     INTENS ADP+ADP        cleverness deep-was poems-the wisdom, counsel                  and     oblique:language
+\l Sahid Qaman was [F a poet who was very ingenious at the      poetry   of wisdom, counsel and of veiled language].
+
+\t Waxaa        la   doortay     goortii    Cismaan la       dilay
+\m Waxaa        la   doortay     goortii    Cismaan la       dilay
+\g wáxaa        one chose        time-the Osman        one killed
+\l He was     chosen [F when   Osman was killed]
+
+\t Kii         labaadna       wuxuu       yiri:   "Aniguna waxaan rabi lahaa           uubata        badan oo         arigaada        marisa" 
+\m Kii         labaadna       wuxuu       yiri:   "Aniguna waxaan rabi lahaa           uubata        badan oo         arigaada        marisa" 
+\g the:one     second-and     wáxa+he said:       "I-and      wáxa+I like would        wolves        many     and     goats-your      wipe:out
+\l And the    second one, what he said was: [F  "And what I would like is many wolves to wipe out    your goats].
+
+\t Nimán bàa yimí
+\m Nimán bàa yimí
+\g men       FOC came
+\l Some men came.
+
+\t Nimán ayàa yimí
+\m Nimán ayàa yimí
+\g men      FOC came
+\l Some men came.
+
+\t waan dhartolay
+\m waan dhartolay
+\g decl.1 clothes-sew.past.1sg
+\l I sewed.
+

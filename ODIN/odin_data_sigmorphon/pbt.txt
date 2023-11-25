@@ -1,0 +1,960 @@
+\t Sur Gwel        kitab      newishta key
+\m Sur Gwel        kitab      newishta key
+\g Sur Gwel        book       write       do
+\l Sur Gwel wrote a book
+
+\t kitab       Sur Gwel       newishta key
+\m kitab       Sur Gwel       newishta key
+\g  book        Sur Gwel       write       do
+\l Sur Gwel wrote a book
+
+\t spay,             pisho        khogawi
+\m spay,             pisho        khog-aw-i
+\g dog(DIR)          cat(DIR)     hurt-TRANS(PRES IMPF      )-3   SG
+\l the cat is hurting the dog
+
+\t spay,           pisho       yee         khogawi
+\m spay,           pisho       yee         khog-aw-i
+\g dog(DIR)        cat(DIR)    3SG         hurt-TRANS(PRES IMPF   )-3   SG
+\l the dog, the cat is hurting him
+
+\t de      dzhan           plaar
+\m de      dzhan           plaar
+\g POSS    John            father
+\l John's father
+
+\t de      kitaab     zzaanee de                mudir         de           wror       kor
+\m de      kitaab     zzaanee de                mudir         de           wror       kor
+\g POSS    book       house             POSS    manager       POSS         brother    house
+\l the house of the brother of the manager of the library
+
+\t dee     maktab          dee          shaagerdáano         dee       dars          dee     dawree       dee     wakht           le           khwakhey        na          ddáka         yaaduna 
+\m dee     maktab          dee          shaagerdáano         dee       dars          dee     dawree       dee     wakht           le           khwakhey        na          ddáka         yaaduna 
+\g POSS    school          POSS         students             POSS      study         POSS    period       POSS    time            from         happiness       from        full          memories
+\l memories full of happiness of the time period of students' studying at school
+
+\t [DP   daa     peeghla]             kitabúna       khe      lwali
+\m [DP   daa     peeghla]             kitabúna       khe      lwal-i
+\g       that    girl                 books          well     read-3SG
+\l That girl reads books well
+
+\t Mamaad          fíker     kewi    [CP tshi                Sur Gwel    day     khwaass dey]
+\m Mamaad          fíker     kewi    [CP tshi                Sur Gwel    day     khwaass dey]
+\g Mamaad          thought   do              COMP POSS       Sur Gwel    him     like    be
+\l Mamaad thinks Sur Gwel likes him
+
+\t kéla    [CP      tshi    dey     kor         te     raghey]    Sur Gwel    bide   su11
+\m kéla    [CP      tshi    dey     kor         te     raghey]    Sur Gwel    bide   su11
+\g when             COMP    he      home        to     arrive     Sur Gwel    sleep   be
+\l When he arrived home, Sur Gwel fell asleep
+
+\t daa     tapus        mee      dzéka       wekrre   [ tshee     hagha   ba             dee       qaber      na       dder      zyaat   weereedo]
+\m daa     tapus        mee      dzéka       wekrre   [ tshee     hagha   ba             dee       qaber      na       dder      zyaat   weereedo]
+\g this    question     1   SG   because     did          COMP    3SG     would          from      grave      from     very      heavy   fear     
+\l I asked this question because he was terrified of graves
+
+\t ze              taa/*te                           daftar     ta     leegem
+\m ze              taa/*te                           daftar     ta     leeg-em
+\g PN1SG(DIR   )   PN2SG(ACC)/PN2SG(DIR     )        office     to     send-1SG
+\l I am sending you to the office
+
+\t te              maa             daftar       ta    leegee
+\m te              maa             daftar       ta    leeg-ee
+\g PN2SG(DIR   )   PN1SG(ACC)      office       to    send-2SG
+\l you are sending me to the office
+
+\t minee           ze                 pe    baagh      kee      we     lidem
+\m minee           ze                 pe    baagh      kee      we     lid-em
+\g Meena(OBL)      PN1SG(DIR   )      at    garden in           PERF   saw-1   SG
+\l Meena saw me in the garden
+
+\t maa             mina               pe    baagh      kee      we     lida
+\m maa             mina               pe    baagh      kee      we     lid-a
+\g PN1SG(OBL   )   Meena(DIR)         at    garden in           PERF   saw-FEM3SG
+\l I saw Meena in the garden
+
+\t laylaa           delta   pinze     kaala            teer        krrel
+\m laylaa           delta   pinze     kaala            teer        krr-el
+\g Layla(OBL)       here    five      years(DIR)       passed     did-MASC3PL
+\l Layla spent five years here
+
+\t kháandem
+\m kháand-em
+\g laugh-1SG
+\l I am laughing
+
+\t maa               khandél(e)
+\m maa               khand-él(e)
+\g PN1SG(OBL   )     laugh-MASC3PL
+\l I was laughing
+
+\t khandél(e)                    mee
+\m khand-él(e)                    mee
+\g laugh-MASC3PL(PAST   )      1SG
+\l I was laughing
+
+\t ahmad           manna          we          ne    khwaarra
+\m ahmad           manna          we          ne    khwaarr-a
+\g Ahmad           apple(FEM)     PERF        NEG   ate-FEM3SG
+\l Ahmad did not eat the apple
+
+\t we        yee          ne     khwaarra
+\m we        yee          ne     khwaarr-a
+\g PERF      3SG          NEG    ate-FEM3SG
+\l he did not eat it
+
+\t ne      yee         khwaarra
+\m ne      yee         khwaarr-a
+\g NEG     3  SG       ate-FEM3SG
+\l he was not eating it
+
+\t khwaarra       yee
+\m khwaarr-a       yee
+\g ate-FEM3SG   3SG
+\l he was eating it
+
+\t sarray                 manna                 khwri
+\m sarr-ay                 mann-a                 khwr-i
+\g man(MASC)-DIR SG    apple(FEM)-DIR SG   eat-PRES3SG
+\l the man is eating the apple
+
+\t sarri                  manna                 khwaréla
+\m sarr-i                  mann-a                 khwar-él-a
+\g man(MASC)-OBL SG    apple(FEM)-DIR SG   eat-PAST-FEM3SG
+\l the man was eating the apple
+
+\t shaageerdaan        keenaastél
+\m shaageerdaan        kee-naast-él
+\g students            PREFIX-sit down-MASC3PL
+\l The students were sitting down
+
+\t shaageerdaan      kéenaastel
+\m shaageerdaan      kée-naast-el
+\g students          PREFIX-sit down-MASC3PL
+\l The students sat down
+
+\t shaageerdaan         nékeenaastel
+\m shaageerdaan         né-kee-naast-el
+\g students             NEG-PREFIX-sit down-MASC3PL
+\l The students were not sitting down
+
+\t shaageerdaan         keenénaastel
+\m shaageerdaan         kee-né-naast-el
+\g students             PREFIX-NEG-sit    down-MASC3PL
+\l The students did not sit down
+
+\t taa         kaalina         préekhoda
+\m taa         kaalina         prée-khod-a
+\g PN2SG       rug(FEM)        PREFIX-leave-   FEM3SG
+\l Did you leave the rug?
+
+\t prée        dee         khoda
+\m prée        dee         khod-a
+\g PREFIX      2SG         leave-FEM3SG
+\l Did you leave it?
+
+\t parun            dee         sona              ghanem                                  (pe)     baazaar       kee     wáakhistel    
+\m parun            dee         sona              ghanem                                  (pe)     baazaar       kee     wáa-khist-el    
+\g yesterday        2SG         how.much          wheat(MASC     PL)                      at       market        at      PERF-buy-   PAST
+\l How much wheat did you buy at the market yesterday?
+
+\t laylaa    (le)     amaan       sara      náasta                da
+\m laylaa    (le)     amaan       sara      náasta                da
+\g Layla     with     Aman        with      sitting(FEM   SG)     be(PRES   IMPF FEM3SG)
+\l Layla is sitting with Aman
+
+\t kushal            mee              zyaati            ne        wahi
+\m kushal            mee              zyaati            ne        wah-i
+\g Khoshal           1   SG           anymore           NEG       hit-PRES3SG
+\l Khoshal does not hit me anymore
+
+\t zyaati            mee              ne         wahi
+\m zyaati            mee              ne         wah-i
+\g anymore           1   SG           NEG        hit-PRES3SG
+\l He doesn't hit me anymore
+
+\t ne          mee            wahi
+\m ne          mee            wah-i
+\g NEG         1SG            hit-PRES3SG
+\l He doesn't hit me
+
+\t wahi                      mee
+\m wah-i                      mee
+\g hit-PRES3SG             1SG
+\l He hits me
+
+\t tor       dee         nen         khar        ne       raawali
+\m tor       dee         nen         khar        ne       raawal-i
+\g Tor       should      today       donkey      NEG      bring-PRES3SG
+\l Tor should not bring the donkey today
+
+\t nen        dee           khar       ne       raawali
+\m nen        dee           khar       ne       raawal-i
+\g today      should        donkey     NEG      bring-PRES3SG
+\l He should not bring the donkey today
+
+\t khar            dee         ne     raawali
+\m khar            dee         ne     raawal-i
+\g donkey          should      NEG    bring-PRES3SG
+\l He should not bring the donkey
+
+\t ne        dee         raawali
+\m ne        dee         raawal-i
+\g NEG       should      bring-PRES3SG
+\l He should not bring it
+
+\t mee         nen          byaa         welida
+\m mee         nen          byaa         welida
+\g I           today        again        saw
+\l I saw that twenty-year-old tall and pretty girl again today
+
+\t áa         mi      khiste     kho   hágha     wrost     wo
+\m áa         mi      khiste     kho   hágha     wrost     wo
+\g PREFIX     1SG     buy        but   that      rotten    be
+\l I would have bought it but it was rotten
+
+\t parun       mi          áakhiste        kho        hágha   wrost      wo
+\m parun       mi          áakhiste        kho        hágha   wrost      wo
+\g yesterday   1SG         buy             but        that    rotten     be
+\l Yesterday I would have bought it but it was rotten
+
+\t parun       mi        pe maaket ki              áakhiste   kho      hágha wrost         wo
+\m parun       mi        pe maaket ki              áakhiste   kho      hágha wrost         wo
+\g yesterday 1SG         at   market at            buy        but      that      rotten be
+\l Yesterday at the market I would have bought it but it was rotten
+
+\t wáa          dee           khistel
+\m wáa          dee           khist-el
+\g PERF         2SG           buy-PAST
+\l You bought them
+
+\t parun          dee      wáa         khistel
+\m parun          dee      wáa         khist-el
+\g yesterday      2SG      PERF        buy-PAST
+\l You bought them yesterday
+
+\t parun         wáa       dee         khistel
+\m parun         wáa       dee         khist-el
+\g  yesterday     PERF      2SG         buy-PAST
+\l You bought them yesterday
+
+\t tor          mee    we          lide
+\m tor          mee    we          lid-e
+\g         but              Spin       1SG       PERF     NEG       see-MASC3SG
+\l I saw Tor, but I didn't see Spin
+
+\t hágha    dzhorra     tshee      yee          aghustay   wa     genda      wa
+\m hágha    dzhorra     tshee      yee          aghust-ay   wa     genda      wa
+\g DET      suit        COMP       3   SG       wear-part   was    dirty      was
+\l the suit that he was wearing was dirty
+
+\t hágha    dzhorra     tshee      aghustay         yee    wa     genda      wa
+\m hágha    dzhorra     tshee      aghust-ay         yee    wa     genda      wa
+\g DET      suit        COMP       wear-part         3SG    was    dirty      was
+\l the suit that he was wearing was dirty
+
+\t hágha    dzhorra     tshee      aghustay         wa     yee    genda      wa
+\m hágha    dzhorra     tshee      aghust-ay         wa     yee    genda      wa
+\g  DET      suit        COMP       wear-part         was    3SG    dirty      was
+\l the suit that he was wearing was dirty
+
+\t kéla    tshi       mee      welide,             naadzhórr(a) wu
+\m kéla    tshi       mee      welid-e,             naadzhórr(a) wu
+\g when    COMP       1SG       saw-MASC3SG       sick          be(PAST.IMPF3SG)
+\l when I saw him, he was sick
+
+\t kéla    tshi       welide               mee,     naadzhórr(a) wu
+\m kéla    tshi       welid-e               mee,     naadzhórr(a) wu
+\g  when    COMP       saw-MASC3SG        1SG      sick          be(PAST.IMPF3SG)
+\l when I saw him, he was sick
+
+\t agha    kisa   tshee     dzhan        yee40 lweli               ddeera ugda   da
+\m agha    kisa   tshee     dzhan        yee40 lwel-i               ddeera ugda   da
+\g DET    story   COMP      John         3   SG   read-PRES3SG   very   long   be
+\l the story that John is reading is very long
+
+\t agha kisa      tshee     yee         dzhan     lweli            ddeera ugda   da
+\m agha kisa      tshee     yee         dzhan     lwel-i            ddeera ugda   da
+\g  DET    story   COMP      3 SG        John      read-PRES3SG   very   long   be
+\l the story that John is reading is very long
+
+\t hágha sarray        [tshi   te              yee      milma kérrey        wee] laarr
+\m hágha sarray        [tshi   te              yee      milma kérr-ey        wee] laarr
+\g that     man(DIR)   COMP    PN2SG(DIR     )3 SG      guest   do-PART   was   go
+\l the man who had invited you left
+
+\t hágha sarray        [tshi   yee      te              milma kérrey        wee] laarr
+\m hágha sarray        [tshi   yee      te              milma kérr-ey        wee] laarr
+\g  that     man(DIR)   COMP    3SG      PN2SG(DIR   )   guest   do-PART   was   go
+\l the man who had invited you left
+
+\t hágha sarray        [tshi   te              milma yee        kérrey      wee] laarr
+\m hágha sarray        [tshi   te              milma yee        kérr-ey      wee] laarr
+\g  that     man(DIR)   COMP    PN2SG(DIR     ) guest     3SG    do-PART   was   go
+\l the man who had invited you left
+
+\t khpel     zaan         spi                      khog   kerr
+\m khpel     zaan         spi                      khog   kerr
+\g own       self         dog(OBL      MASC)       hurt   do(PAST   PERF MASC3SG)
+\l the dog hurt himself
+
+\t khpel     zaan         spay             khogawi
+\m khpel     zaan         spay             khog-aw-i
+\g own       self         dog(DIR)         hurt-TRANS(PRES IMPF   )-3   SG
+\l the dog is hurting himself
+
+\t ahmad               ghwa                  lweshi
+\m ahmad               ghwa                  lwesh-i
+\g Ahmad(MASC)         cow(FEM     SG)       milk-3PRES
+\l Ahmad is milking the cow
+
+\t ahmad               ghwa                  lwashela
+\m ahmad               ghwa                  lwash-el-a
+\g Ahmad(MASC)         cow(FEM     SG)       milk-PAST-FEM3SG
+\l Ahmad was milking the cow
+
+\t (ze)        hara     wrez         pe    baagh      kee       gerzem
+\m (ze)        hara     wrez         pe    baagh      kee       gerz-em
+\g PN1SG       every    day          at    garden     in        walk-1SG
+\l I walk in the garden every day
+
+\t ahmad       (taa    ta)   yew     kitaab     der        kawi
+\m ahmad       (taa    ta)   yew     kitaab     der        kaw-i
+\g Ahmad       PN2SG   to    one     book       2SG(DAT)   do-3SG
+\l Ahmad is giving you a book
+
+\t minee       (mug    ta)   meewa       raa          we      leegela
+\m minee       (mug    ta)   meewa       raa          we      leegel-a
+\g Meena       PN1PL   to    fruit       1PL(DAT)     PERF    sent-FEM3SG
+\l Meena sent us fruit
+
+\t plaar       mee    byáyem
+\m plaar       mee    byáy-em
+\g father      1SG    bring-1SG
+\l I am bringing my father
+
+\t khoshal     khan    mee      plaar          day
+\m khoshal     khan    mee      plaar          day
+\g Khoshal Khan        1   SG   father         be(MASC3SG)
+\l Khoshal Khan is my father
+
+\t [PP      le         plaar        sara]        mee         naast                    yem
+\m [PP      le         plaar        sara]        mee         naast                    y-em
+\g          with       father       with         1SG         sitting(MASC     SG)     be-1SG
+\l I am sitting with my father
+
+\t [di       taa          plaar]           mee         dee           wélegi
+\m [di       taa          plaar]           mee         dee           wé-leg-i
+\g  poss     PN2SG        father           1SG         must          PERF-send-   PRES3SG
+\l Your father must send me
+
+\t taa              de       tsha          kitab                    pe     ashpazkhana      kee      we      lwest        
+\m taa              de       tsha          kitab                    pe     ashpazkhana      kee      we      lwest        
+\g PN2SG(OBL   )    POSS     who(OBL)      book                     in     kitchen          in       PERF    read(PAST3SG)
+\l whose book did you read in the kitchen?
+
+\t de      tsha            kitab     taa         pe     ashpazkhana      kee      we      lwest        
+\m de      tsha            kitab     taa         pe     ashpazkhana      kee      we      lwest        
+\g POSS    who(OBL)        book      PN2SG       in     kitchen          in       PERF    read(PAST3SG)
+\l whose book did you read in the kitchen?
+
+\t áhmad      tso             kitaabúna       lari
+\m áhmad      tso             kitaab-úna       lar-i
+\g Ahmad      how.many        book-PL       have-PRES3SG
+\l How many books does Ahmad have?
+
+\t tso          áhmad      kitaabúna    lari49
+\m tso          áhmad      kitaab-úna    lar-i49
+\g  how.many     Ahmad      book-PL      have-PRES3SG
+\l How many books does Ahmad have?
+
+\t taa         tsomra       ghanem             wáakhistel
+\m taa         tsomra       ghanem             wáa-khist-el
+\g 2SG(ERG)    how.much     wheat(MASC   PL)   PERF-buy-   PAST
+\l How much wheat did you buy?
+
+\t tsomra        taa         ghanem             wáakhistel
+\m tsomra        taa         ghanem             wáa-khist-el
+\g    how.much     2SG(ERG)    wheat(MASC   PL)   PERF-buy-   PAST
+\l How much wheat did you buy?
+
+\t tsomra       dee         ghanem             wáakhistel50
+\m tsomra       dee         ghanem             wáa-khist-el50
+\g  how.much     2SG(ERG)    wheat(MASC   PL)   PERF-buy-   PAST
+\l How much wheat did you buy?
+
+\t dee     asad      dee    plaar     tsalor      ddeeree   khaysta   lunnee
+\m dee     asad      dee    plaar     tsalor      ddeeree   khaysta   lunnee
+\g POSS    Asad      POSS   father    four        very      pretty    daughters
+\l Asad's father's four very pretty daughters
+
+\t (ze)              khandem
+\m (ze)              khand-em
+\g PN1SG(DIR     )   laugh-PRES1SG
+\l I am laughing
+
+\t maa               khandél(e)
+\m maa               khand-él(e)
+\g PN1SG(OBL     )   laugh-PAST
+\l I laughed
+
+\t ze                khandél(e)
+\m ze                khand-él(e)
+\g  PN1SG(DIR     )   laugh-PAST
+\l I laughed
+
+\t wrúna             khandi
+\m wrúna             khand-i
+\g brothers(DIR)     laugh-PRES3SG
+\l the brothers are laughing
+
+\t wrúno             khandel
+\m wrúno             khand-el
+\g brothers(OBL)     laugh-PAST
+\l the brothers laughed
+
+\t wrúna              mee       khandi
+\m wrúna              mee       khand-i
+\g brothers(DIR)      1SG       laugh-PRES3SG
+\l my brothers are laughing
+
+\t wrúno              mee       khandel
+\m wrúno              mee       khand-el
+\g brothers(OBL)      1SG       laugh-PAST
+\l my brothers laughed
+
+\t begaa    shpa      dee     ahmad     spi           dder      we     ghapel
+\m begaa    shpa      dee     ahmad     spi           dder      we     ghap-el
+\g last     night     POSS    Ahmad     dog(OBL)      very      PERF   bark-PAST
+\l Ahmad's dog barked a lot last night
+
+\t begaa      shpa      yee     spi          dder       we       ghapel
+\m begaa      shpa      yee     spi          dder       we       ghap-el
+\g last       night     3SG     dog(OBL)     very       PERF     bark-PAST
+\l his/her dog barked a lot last night
+
+\t khor        dee      raaghla
+\m khor        dee      raaghl-a
+\g sister      2   SG   came-FEM3SG
+\l your sister came
+
+\t khoshal     dee      haghee          'aks          loy   kerr
+\m khoshal     dee      haghee          'aks          loy   kerr
+\g Khoshal     POSS     PN3SG(FEM   )   picture       big   do(PAST   PERF MASC3SG)
+\l Khoshal enlarged her picture
+
+\t khoshal     yee       'aks         loy   kerr
+\m khoshal     yee       'aks         loy   kerr
+\g Khoshal     3   SG    picture      big   do(PAST   PERF MASC3SG)
+\l Khoshal enlarged her picture
+
+\t kheza          mee      kitaab           lweli
+\m kheza          mee      kitaab           lwel-i
+\g wife(DIR)      1SG      book(DIR)        read-PRES3SG
+\l my wife is reading a book
+
+\t kitaab         mee      kheza            lweli
+\m kitaab         mee      kheza            lwel-i
+\g book(DIR)      1SG      wife(DIR)        read-PRES3SG
+\l the wife is reading my book
+
+\t khezee         mee          kitaab         lweste
+\m khezee         mee          kitaab         lwest-e
+\g wife(OBL)      1SG          book(DIR)      read(PAST)-MASC3SG
+\l my wife was reading a book
+
+\t kitaab         mee          khezee         lweste
+\m kitaab         mee          khezee         lwest-e
+\g book(DIR)      1SG          wife(OBL)      read(PAST)-MASC3SG
+\l the wife was reading my book
+
+\t maaspekhin         mee         kheza          kitaab         lweli
+\m maaspekhin         mee         kheza          kitaab         lwel-i
+\g afternoon          1   SG      wife(DIR)      book(DIR)      read-PRES3SG
+\l my wife is reading a book in the afternoon
+
+\t maaspekhin         mee         kitaab         kheza          lweli
+\m maaspekhin         mee         kitaab         kheza          lwel-i
+\g afternoon          1   SG      book(DIR)      wife(DIR)      read-PRES3SG
+\l the wife is reading my book in the afternoon
+
+\t maaspekhin        mee           khezee           kitaab       lweste
+\m maaspekhin        mee           khezee           kitaab       lwest-e
+\g afternoon         1   SG        wife(OBL)        book(DIR)    read(PAST)-MASC3SG
+\l my wife was reading a book in the afternoon
+
+\t maaspekhin        mee           kitaab           khezee       lweste
+\m maaspekhin        mee           kitaab           khezee       lwest-e
+\g afternoon         1   SG        book(DIR)        wife(OBL)    read(PAST)-MASC3SG
+\l the wife was reading my book in the afternoon
+
+\t spi                    mee       pisho               khog    krra
+\m spi                    mee       pisho               khog    krr-a
+\g dog(OBL   MASC)        1   SG    cat(DIR   FEM   )   hurt    do(PAST   PERF)-FEM3SG
+\l my dog hurt the cat
+
+\t pisho                   mee      spi                    khog    krra
+\m pisho                   mee      spi                    khog    krr-a
+\g cat(DIR   FEM   )       1 SG     dog(OBL     MASC)      hurt    do(PAST       PERF)-FEM3SG
+\l the dog hurt my cat
+
+\t spay                mee        pisho         khogawi
+\m spay                mee        pisho         khog-aw-i
+\g dog(DIR)            1SG        cat(DIR)      hurt-TRANS(PRES IMPF   )-3   SG
+\l my dog is hurting the cat
+
+\t spay,               pisho         mee        khogawi
+\m spay,               pisho         mee        khog-aw-i
+\g dog(DIR)            cat(DIR)      1SG        hurt-TRANS(PRES IMPF   )-3   SG
+\l my cat is hurting the dog
+
+\t spi,                pisho               mee      khog   krra
+\m spi,                pisho               mee      khog   krr-a
+\g dog(OBL   MASC)     cat(DIR   FEM   )   1   SG   hurt   do(PAST   PERF)-FEM3SG
+\l the dog hurt my cat
+
+\t pisho,               spi                    mee      khog      krra
+\m pisho,               spi                    mee      khog      krr-a
+\g cat(DIR   FEM   )    dog(OBL    MASC)       1   SG   hurt      do(PAST     PERF)-FEM3SG
+\l my dog hurt the cat
+
+\t spay,            pisho         mee        khogawi
+\m spay,            pisho         mee        khog-aw-i
+\g dog(DIR)         cat(DIR)      1   SG     hurt-TRANS(PRES IMPF   )-3   SG
+\l the dog is hurting my cat
+
+\t te          mee        plaar      sara       khaberi    wu         krra
+\m te          mee        plaar      sara       khaberi    wu         krr-a
+\g PN2SG       1   SG     father     with       news       PERF       do(PAST   PERF)-IMP2SG
+\l you talk to my father!
+
+\t Tor       mee        plaar       meelma kerr
+\m Tor       mee        plaar       meelma kerr
+\g Tor       1SG        father      guest
+\l Tor invited my father/my father invited Tor
+
+\t dee     khowúnki            yaadúna                    yee         khe           di
+\m dee     khowúnki            yaadúna                    yee         khe           di
+\g POSS    teacher             memories(MASC    DIR   )   3SG         good(MASC) be(PRES3PL)
+\l his memories of the teacher are good
+
+\t dee     khowúnki             dee      wror             dee     kor         yaadúna                        mee         khe                di         
+\m dee     khowúnki             dee      wror             dee     kor         yaadúna                        mee         khe                di         
+\g POSS    teacher              POSS     brother          POSS    house       memories(MASC     DIR   )      1SG         good(MASC)         be(PRES3PL)
+\l my memories of the house of the brother of the teacher are good
+
+\t maa          agha        dzhiney      welida    [tshee              pe    kaabal     kee        oseegi]
+\m maa          agha        dzhiney      welid-a    [tshee              pe    kaabal     kee        oseeg-i]
+\g I(ERG)       DET         girl(ABS)    saw-FEM3SG COMP                at    Kabul      in         live-3SG
+\l I saw the girl who lives in Kabul
+
+\t maa          agha        spayi        welide     [tshee       taa            mor           ta     i       werkerray   we]       
+\m maa          agha        spayi        welid-e     [tshee       taa            mor           ta     i       werkerray   w-e]       
+\g I(ERG)       DET         dog(ABS)     saw-MASC3SG COMP         you(ERG)       mother        to             give        was-MASC3SG
+\l I saw the dog which you had given to mother
+
+\t maa       agha        dzhiney         welida          [(sok)       tshee pe     kaabal        kee     (*yee)        wuseegi]
+\m maa       agha        dzhiney         welid-a          [(sok)       tshee pe     kaabal        kee     (*yee)        wuseeg-i]
+\g I(ERG)    det         girl(ABS)       saw-FEM3SG    who(NOM)     COMP     at     Kabul         in      3SG           live-3SG 
+\l I saw the girl who lives in Kabul
+
+\t maa       agha        spay            welide             [(kem)   tshee taa          (*yee)        mor        ta      werkerray     we]        
+\m maa       agha        spay            welid-e             [(kem)   tshee taa          (*yee)        mor        ta      werkerray     w-e]        
+\g I(ERG)    det         dog(ABS)        saw-MASC3SG      which    COMP     you(ERG) 3      SG         mother to          give          was-MASC3 SG
+\l I saw the dog which you had given to mother
+
+\t agha       kisa                        [tshee     dzhan      yee      lweli]      ddeera            ugda                  da        
+\m agha       kisa                        [tshee     dzhan      yee      lwel-i]      ddeera            ugda                  da        
+\g DET        story(FEM    SG)            COMP       John       3   SG   read-PRES3SG very(FEM   SG)    long(FEM       SG)    be(FEM3SG)
+\l The story that John is reading is very long
+
+\t agha         kheza               [tshee       kitab         yee       waakhiste]         paysee            yee         maa       ta      raakrree  
+\m agha         kheza               [tshee       kitab         yee       waa-khist-e]         paysee            yee         maa       ta      raakrr-ee  
+\g det(ABS)     woman(ABS)          COMP         book(ABS)     3SG       PERF-take-   MASC3SG money(ABS)        3SG         I(OBL)    to      gave-FEM3PL
+\l That woman who took the book gave me the money
+
+\t aghee        khezee              [tshee       kitab         yee       waakhiste]           paysee            yee         maa       ta      raakrree  
+\m aghee        khezee              [tshee       kitab         yee       waa-khist-e]           paysee            yee         maa       ta      raakrr-ee  
+\g  det(ERG)     woman(ERG)          COMP         book(ABS)     3SG       PERF-take-   MASC3SG  money(ABS)        she         I(OBL)    to      gave-FEM3PL
+\l That woman who took the book gave me the money
+
+\t agha         kheza           [tshee      wror        yee       taarikh     lweli]       zmaa              gaawenddey             da                 
+\m agha         kheza           [tshee      wror        yee       taarikh     lwel-i]       zmaa              gaawenddey             da                 
+\g det(ABS)     woman(ABS)      COMP        brother     3   SG    history     study-PRES3SG PN1SG(POSS   )    neighbor(FEM)          be(PRES   IMPF FEM)
+\l That woman whose brother is studying history is my neighbor
+
+\t agha       kisa              [(kem)       tshee      dzhan     (yee) lweli]          ddeera            ugda              da        
+\m agha       kisa              [(kem)       tshee      dzhan     (yee) lwel-i]          ddeera            ugda              da        
+\g DET        story(FEM   SG)   which        COMP       John      3   SG    read-PRES3SG very(FEM   SG)    long(FEM   SG)    be(FEM3SG)
+\l The story that John is reading is very long
+
+\t agha             kheza60       [(tshaa)        tshee         kitab         (yee) waakhiste]               paysee          yee         maa       ta      raakrree
+\m agha             kheza60       [(tshaa)        tshee         kitab         (yee) waa-khist-e]               paysee          yee         maa       ta      raakrr-ee
+\g det(ABS)         woman(ABS)    who(ERG)        COMP          book(ABS)     3 SG  PERF-take-   MASC3SG    money(ABS)      3SG         I(OBL)    to      gave-FEM3PL 
+\l That woman who took the book gave me the money
+
+\t asad         kar       kawi
+\m asad         kar       kawi
+\g Asad         work      do
+\l Asad is working
+
+\t asad         tse       kawi
+\m asad         tse       kawi
+\g Asad         what      do
+\l What is Asad doing?
+
+\t laylaa     tshalaw         pakhawi
+\m laylaa     tshalaw         pakhawi
+\g Layla      rice            cook
+\l Layla is cooking the rice
+
+\t tsok            tshalaw       pakhawi
+\m tsok            tshalaw       pakhawi
+\g who(DIR)        rice          cook
+\l Who is cooking the rice?
+
+\t ágha     dee      laylaa      kitaab        day
+\m ágha     dee      laylaa      kitaab        day
+\g that     POSS     Layla       book          be
+\l That's Layla's book
+
+\t ágha     dee      tshaa            kitaab         day
+\m ágha     dee      tshaa            kitaab         day
+\g that     POSS     who(OBL)         book           be
+\l Whose book is that?
+
+\t agha       kisa                [(kem)     tshee   dzhan   (yee) lweli]                       ddeera              ugda             da
+\m agha       kisa                [(kem)     tshee   dzhan   (yee) lwel-i]                       ddeera              ugda             da
+\g DET        story(FEM   SG)     which      COMP    John    3   SG   read-PRES3SG               very(FEM   SG)      long(FEM   SG)   be
+\l The story that John is reading is very long
+
+\t spay,           pisho         yee        khogawi
+\m spay,           pisho         yee        khog-aw-i
+\g dog(DIR)        cat(DIR)      3SG        hurt-TRANS(PRES IMPF     )-3   SG
+\l the dog, the cat is hurting him
+
+\t khpel    zaan      spay             khogawi
+\m khpel    zaan      spay             khog-aw-i
+\g own      self      dog(DIR)         hurt-TRANS(PRES IMPF    )-3   SG
+\l the dog is hurting himself
+
+\t khpel    zaan,     spay           yee       khogawi
+\m khpel    zaan,     spay           yee       khog-aw-i
+\g  own      self      dog(dir)       3sg       hurt-trans(pres impf)-3sg
+\l the dog is hurting himself
+
+\t khpéla                    ghwaa,            Tor    yee     khartsawi
+\m khpéla                    ghwaa,            Tor    yee     kharts-aw-i
+\g self(POSS   FEM DIR SG)   cow(FEM    SG)    Tor   3   SG   spent-TRANS(PRES IMPF   )-3   SG
+\l his cow, Tor is selling her
+
+\t ar              sarri,               te               yee     milma kérrey          wee65
+\m ar              sarri,               te               yee     milma kérr-ey          wee65
+\g every(MASC)     man(MASC    OBL)     PN2SG(DIR   )3    SG     guest     did-PART   was(2SG)
+\l every man, he had invited you
+
+\t ára            kisa,                 dzhan   yee            lweli
+\m ára            kisa,                 dzhan   yee            lwel-i
+\g every(FEM)     story(FEM   DIR   )   John    3   SG         read-PRES3SG
+\l every story, John is reading it
+
+\t khezee         mee    dee      kitaab      lweste
+\m khezee         mee    dee      kitaab      lwest-e
+\g wife(OBL)      1SG    2 SG     book(DIR)   read(PAST)-MASC3SG
+\l my wife was reading your book
+
+\t kitaab         mee    dee      khezee      lweste
+\m kitaab         mee    dee      khezee      lwest-e
+\g book(DIR)      1SG    2 SG     wife(OBL)   read(PAST)-MASC3SG
+\l your wife was reading my book
+
+\t kheza          mee    dee      kitaab      lweli
+\m kheza          mee    dee      kitaab      lwel-i
+\g wife(DIR)      1SG    2 SG     book(DIR)   read-PRES3SG
+\l my wife is reading your book
+
+\t kitaab              mee        dee           kheza                 lweli
+\m kitaab              mee        dee           kheza                 lwel-i
+\g book(DIR)           1SG        2SG           wife(DIR)             read-PRES3SG
+\l your wife is reading my book
+
+\t spi                 dee        yee           pisho                   khog      krra
+\m spi                 dee        yee           pisho                   khog      krr-a
+\g dog(OBL)            2SG        3   SG        cat(DIR     FEM   )     hurt      do(PAST   PERF)-FEM3SG
+\l your dog hurt his cat
+
+\t pisho                   dee          yee           spi               khog      krra
+\m pisho                   dee          yee           spi               khog      krr-a
+\g cat(DIR   FEM   )       2 SG         3  SG         dog(OBL)          hurt      do(PAST   PERF)-FEM3SG
+\l his dog hurt your cat
+
+\t spay           dee        yee        pisho      khogawi
+\m spay           dee        yee        pisho      khog-aw-i
+\g dog(DIR)       2SG        3SG        cat(DIR)   hurt-TRANS(PRES IMPF   )-3   SG
+\l your dog is hurting his cat
+
+\t spay,          pisho          dee      yee      khogawi67
+\m spay,          pisho          dee      yee      khog-aw-i67
+\g dog(DIR)       cat(DIR)       2 SG     3   SG   hurt-TRANS(PRES IMPF   )-3   SG
+\l the dog, your cat is hurting him
+
+\t Tor      ba       dee     wuwini68
+\m Tor      ba       dee     wu-win-i68
+\g Tor      will     2SG     PERF-see-3SG
+\l Tor will see you
+
+\t asad     baayad      yawa           baja         raasi
+\m asad     baayad      yawa           baja         raas-i
+\g Asad     should      one            hour         come(PRES      PERF   )-3 SG
+\l Asad should be here at one
+
+\t te        baayad     pe             dee       po                see
+\m te        baayad     pe             dee       po                see
+\g PN2SG     should     about          this      informed          become(PRES     PERF2SG)
+\l you should know this
+
+\t laylaa   baayad     kor        ta      laarra             ne         si
+\m laylaa   baayad     kor        ta      laarr-a             ne         si
+\g Layla    should     house      to      way-FEM3SG       NEG        become(PRES   PERF3SG)
+\l Layla shouldn't go home
+
+\t baayad     yawa      baja           raasi
+\m baayad     yawa      baja           raas-i
+\g should     one       hour           come(PRES      PERF   )-3SG
+\l he/she should be here at one
+
+\t baayad     pe        dee        po                  see
+\m baayad     pe        dee        po                  see
+\g should     about     this       informed            become(PRES        PERF2SG)
+\l you should know this
+
+\t baayad          kor       ta     laarra              ne        si
+\m baayad          kor       ta     laarra              ne        si
+\g should          house     to     way-FEM3SG       NEG       become(PRES   PERF3SG)
+\l he/she shouldn't go home
+
+\t kor        ta         baayad     laarra              ne        si
+\m kor        ta         baayad     laarra              ne        si
+\g house      to         should     way-FEM3SG       NEG       become(PRES   PERF3SG)
+\l he/she shouldn't go home
+
+\t kor        ta         laarra            baayad       ne        si
+\m kor        ta         laarra            baayad       ne        si
+\g house      to         way-FEM3SG     should       NEG       become(PRES   PERF3SG)
+\l he/she shouldn't go home
+
+\t kor         ta   laarra                ne         baayad        si
+\m kor         ta   laarra                ne         baayad        si
+\g  house       to   way-FEM3SG         NEG        should        become(PRES   PERF3SG)
+\l he/she shouldn't go home
+
+\t khar             dee       ne       raawali
+\m khar             dee       ne       raawal-i
+\g donkey           should    NEG      bring-PRES3SG
+\l He should not bring the donkey
+
+\t ne         dee         raawali
+\m ne         dee         raawal-i
+\g NEG        should      bring-PRES3SG
+\l He should not bring it
+
+\t ne         ba          dee      pezani
+\m ne         ba          dee      pezan-i
+\g NEG        may         2SG      know-PRES3SG
+\l Maybe he doesn't know you
+
+\t no          ze            de    feelem        na       wrusta     berta            raaghlem
+\m no          ze            de    feelem        na       wrusta     berta            raaghl-em
+\g then        PN1SG         of    movie         from     after      return           came-1SG
+\l Then I came back after the movie
+
+\t wror         ta       dee         teeleepun        kho         wekrra
+\m wror         ta       dee         teeleepun        kho         we-krr-a
+\g brother      to       2SG         telephone        indeed      PERF-do-   IMP
+\l You (should) indeed call up your brother!
+
+\t agha        dzhega         pezrreporee         sra        maanney                kho           ba           dee        khwakha        wi  
+\m agha        dzhega         pezrreporee         sra        maanney                kho           ba           dee        khwakha        wi  
+\g that        tall           interesting         red        building               indeed        would        2SG        liked          were
+\l You would have indeed liked that tall, interesting red building
+
+\t tor        sra   skundéla
+\m tor        sra   skund-él-a
+\g Tor        Sra   pinch-PAST-FEM3SG
+\l Tor was pinching Sra
+
+\t tor        sra   wé           skundela
+\m tor        sra   wé           skund-el-a
+\g Tor        Sra   PERF         pinch-PAST-FEM3SG
+\l Tor pinched Sra
+
+\t matshawélee                 yee
+\m matsh-aw-él-ee                 yee
+\g kiss-TRANS-PAST-2SG      3SG
+\l He was kissing you
+
+\t tekhnawéla                          mee
+\m tekhn-aw-él-a                          mee
+\g tickle-TRANS-PAST-FEM3SG            1   SG
+\l I was tickling her
+
+\t wé        dee     ritte
+\m wé        dee     ritt-e
+\g PERF      2 SG     insult(PAST)-MASC3SG
+\l You insulted him
+
+\t wú        ba      dee      guri70
+\m wú        ba      dee      gur-i70
+\g PERF      will     2SG      see-3SG
+\l He will see you
+
+\t wáa           dee       khistel71
+\m wáa           dee       khist-el71
+\g PERF          2SG        buy-PAST
+\l You bought them
+
+\t akhistéle mee
+\m a-khistéle mee
+\g buy           1SG
+\l I was buying them
+
+\t á             mee       khistele
+\m á             mee       khistele
+\g PREFIX        1SG       buy
+\l I was buying them
+
+\t aghuste      mee
+\m a-ghuste      mee
+\g wear          1   SG
+\l I was wearing it
+
+\t á             mee       ghuste
+\m á             mee       ghuste
+\g PREFIX        1SG       wear
+\l I was wearing it
+
+\t saatem            yee
+\m saatem            yee
+\g keep              3SG
+\l I keep it
+
+\t sáatem            yee
+\m sáatem            yee
+\g keep              3SG
+\l I keep it
+
+\t pereebde        mee
+\m pereebde        mee
+\g beat            1SG
+\l I was beating him
+
+\t péreebde        mee
+\m péreebde        mee
+\g beat            1SG
+\l I was beating him
+
+\t tteelwaahé     mee
+\m tteel-waahé     mee
+\g push            1   SG
+\l I was pushing it
+
+\t ttéel       mee          waahe
+\m ttéel       mee          waahe
+\g PREFIX      1 SG         push
+\l I pushed it
+
+\t ttakwaahé         mee
+\m ttak-waahé         mee
+\g shake              1SG
+\l I was shaking it
+
+\t tták         mee         waahe
+\m tták         mee         waahe
+\g PREFIX       1SG         shake
+\l I shook it
+
+\t poreeweesté       mee
+\m poree-weesté       mee
+\g carry              1SG
+\l I was carrying it across
+
+\t póree        mee         weeste
+\m póree        mee         weeste
+\g PREFIX       1SG         carry
+\l I carried it across
+
+\t parun             dee     wáa         khistel
+\m parun             dee     wáa         khist-el
+\g yesterday         2SG     PERF        buy-PAST
+\l You bought them yesterday
+
+\t wáa         dee        khistel
+\m wáa         dee        khist-el
+\g PERF        2SG         buy-PAST
+\l You bought them
+
+\t Tor      dee           dee     wuwahi
+\m Tor      dee           dee     wu-wah-i
+\g  Tor      should        2SG     PERF-hit-3SG
+\l Tor should hit you
+
+\t Tor      dee           taa      wuwahi
+\m Tor      dee           taa      wu-wah-i
+\g Tor      should        PN2SG    PERF-hit-3SG
+\l Tor should hit you
+
+\t wror        mee       mee     wahi
+\m wror        mee       mee     wah-i
+\g  brother     1   SG    1SG     hit-3SG
+\l My brother is hitting me
+
+\t wror         mee      maa       wahi
+\m wror         mee      maa       wah-i
+\g brother      1   SG   PN1SG     hit-3SG
+\l My brother is hitting me
+
+\t kitab      am
+\m kitab      am
+\g  book       1/2PL
+\l our book; your (pl) book
+
+\t kitab      mo
+\m kitab      mo
+\g book       1/2PL
+\l our book; your (pl) book
+
+\t topakee             raaworre
+\m topak-ee             raaworr-e
+\g gun(MASC)-3  SG      brought-MASC3SG
+\l He brought a gun
+
+\t khezay                 wetessteeda
+\m kheza-y                 we-tessteed-a
+\g woman(ABS)-3  SG        PERF-fled-   FEM3SG
+\l He/she fled the woman
+
+\t tee               peezanee
+\m t-ee               peezan-ee
+\g PN2SG-3SG          know-2SG
+\l You know him/her
+
+\t topak          yee         raaworre
+\m topak          yee         raaworr-e
+\g gun(MASC)      3   SG      brought-MASC3SG
+\l He brought a gun
+
+\t kheza          yee         wetessteeda
+\m kheza          yee         we-tessteed-a
+\g woman(ABS)     3   SG      PERF-fled-   FEM3SG
+\l He/she fled the woman
+
+\t t              yee         peezanee75
+\m t              yee         peezan-ee75
+\g PN2SG          3   SG      know-2SG
+\l You know him/her
+
+\t tee               kho         peezanee
+\m t-ee               kho         peezan-ee
+\g PN2SG-3SG          indeed      know-2SG
+\l You indeed know him
+

@@ -1,0 +1,100 @@
+\t warmiyta         aqhata        llamichisaq.
+\m warmi-y-ta         aqha-ta        llami-chi-saq.
+\g woman-1sg-ACC chicha-ACC taste-CAUS-1sg.FUT
+\l I will have my wife taste the chicha
+
+\t warmiyman        aqhata        llamichisaq.
+\m warmi-y-man        aqha-ta        llami-chi-saq.
+\g woman-1sg-DIR chicha-ACC taste-CAUS-1sg.FUT
+\l I will let my wife taste from the chicha
+
+\t Pedroman (*wan/*ta)      quwita         rikuchirqa.
+\m Pedro-man (*-wan/*-ta)      quwi-ta         riku-chi-rqa.
+\g pedro-DIR (*INST/*ACC)      guinea_pig-ACC see-CAUS-PAST
+\l (S)he showed Pedro the guinea-pig
+
+\t Mariawan (*man/*ta)      wawata      mayllachin
+\m Maria-wan (*-man/*-ta)      wawa-ta      maylla-chi-n
+\g Maria-INST (*DIR/*ACC) child-ACC      wash-CAUS-n
+\l (S)he has the child washed by Maria
+
+\t (ñuqaman) t'antata             quwanqa
+\m (ñuqa-man) t'anta-ta             qu-wa-nqa
+\g     1sg-DIR       bread-ACC      give-1obj-FUT
+\l She/he will give me bread
+
+\t wawqiy (ñuqamanta) khuchunata               mañakuwan.
+\m wawqi-y (ñuqa-manta) khuchu-na-ta               maña-ku-wa-n.
+\g friend-1 I-SOURCE           cut-NOML-ACC        lend-REFL-1obj-3
+\l My friend borrows a knife from me
+
+\t warmiyta       aqhata         llamichisaq.
+\m warmi-y-ta       aqha-ta         llami-chi-saq.
+\g woman-1sg-ACC chicha-ACC taste-CAUS-1sg.FUT
+\l I will have my wife taste the chicha'(coercive)
+
+\t mamaykita      p'achata       t'aqsaysinayki tiyan.
+\m mama-yki-ta      p'acha-ta       t'aqsa-ysi-na-yki tiya-n.
+\g mother-2sg-ACC cloth-ACC         wash-ASS-NOM-2sg be-3sg
+\l You should help your mother wash the clothes
+
+\t kuranderota        hanpichini.
+\m kurandero-ta        hanpi-chi-ni.
+\g medicine_man-ACC cure-CAUS-1
+\l I made the medicine man cure her/him
+
+\t (ñoqawan) Mariata        mayllachiwan.
+\m (ñoqa-wan) Maria-ta        maylla-chi-wa-n.
+\g  I-INSTR      Maria-acc    wash-CAUS-1obj-3
+\l (S)he made me wash Maria
+
+\t Mariawan (ñoqata) mayllachiwan.
+\m Maria-wan (ñoqa-ta) maylla-chi-wa-n.
+\g Maria-INSTR I-ACC       wash-CAUS-1obj-3
+\l (S)he has me washed by Maria
+
+\t Yachachiq          alumnoman       musuq libruta       qurqa.
+\m Yacha-chi-q          alumno-man       musuq libru-ta       qu-rqa.
+\g know-CAUS-NOML pupil-DIR              new book-ACC         give-PAST
+\l The teacher gave the pupil a new book
+
+\t Yachachiq          alumnota        musuq libruta       qurqa.
+\m Yacha-chi-q          alumno-ta        musuq libru-ta       qu-rqa.
+\g know-CAUS-NOML pupil-ACC              new book-ACC         give-PAST
+\l The teacher gave the pupil a new book
+
+\t Yachachiq           alumnosman poemata            copiachirqa.
+\m Yacha-chi-q           alumno-s-man poema-ta            copia-chi-rqa.
+\g know-CAUS-NOML pupil-PL-DIR             poem-ACC       copy-CAUS-PAST
+\l The teacher let the pupils copy the poem
+
+\t Yachachiq           alumnosta       poemata       copiachirqa.
+\m Yacha-chi-q           alumno-s-ta       poema-ta       copia-chi-rqa.
+\g know-CAUS-NOML pupil-PL-ACC             poem-ACC       copy-CAUS-PAST
+\l The teacher made the pupils copy the poem
+
+\t warmiqa     n!uqamanta qulqita   man!akuwarqa.
+\m warmi-qa     n!uqa-manta qulqi-ta   man!a-ku-wa-rqa.
+\g woman-TOP 1sg-SOURCE money-ACC borrow-REFL-1OBJ-PAST
+\l The woman borrowed money from me
+
+\t N    uqa wawata       waqacini.
+\m N    uqa wawa-ta       waqa-ci-ni.
+\g I        child-ACC     cry-CAUS-1SG
+\l I   made the child cry.
+
+\t N    uqa kuranderoman             yuyacini.
+\m N    uqa kurandero-man             yuya-ci-ni.
+\g I        medicine.man-DAT remember-CAUS-1SG
+\l I   reminded the medicine man of it.
+
+\t N    uqa Fanwan       rumita     apacini.
+\m N    uqa Fan-wan       rumi-ta     apa-ci-ni.
+\g I        Juan-INSTR rock-ACC       carry-CAUS-1SG
+\l I   had Juan carry the rock.
+
+\t Mayllawarqayku.
+\m Maylla-wa-rqa-yku.
+\g wash-1O-PT-1peS/A
+\l You/he/they washed use.
+

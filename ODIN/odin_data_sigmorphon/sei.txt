@@ -1,0 +1,15 @@
+\t Myo     aÖ!kasni kokasni so mt      a!o ma / *.
+\m M-yo-     aÖ!-kasni kokasni so m-t-      a!o ma / *.
+\g 2sgSUBJ-DIST- PASS-bite snake a 2sgSUBJ-REAL- see DIFF
+\l You were bitten, after you had seen a snake.
+
+\t Pap kiP toXi ma yoaPit
+\m Pap kiP toXi ma yoaPit
+\g deer the it.died ds it.was.eaten
+\l Whenever a deer died, it was eaten.
+
+\t at            ki   paka          x,         epo ki       mos siaka        a=a.
+\m at            ki   p-a-ka          x,         epo ki       mos si-a-ka        a=a.
+\g limberbush the     IRR-PASS-seek AUX ratan y the           also   IRR-PASS-seek AUX=DECL
+\l If limberbush is looked for, white ratany should be looked for also.
+

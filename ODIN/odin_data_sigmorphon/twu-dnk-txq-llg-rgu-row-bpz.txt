@@ -1,0 +1,20 @@
+\t Sokula (a1)                   Pinga (b1) Pasa
+\m Soku-la (a1)                   Pinga (b1) Pasa
+\g  carry                         name     name
+\l They carry Pinga Pasa
+
+\t Ma ifala (a2) So'e (b2)                    Leli (c2)
+\m Ma ifa-la (a2) So'e (b2)                    Leli (c2)
+\g          lift                 name          name
+\l (and) they lift So'e Leli
+
+\t De ana sao (d1) Kolik (e1) Faenama
+\m De ana sao (d1) Kolik (e1) Faenama
+\g                 marry         name          name
+\l she marries Kolik Faenama
+
+\t Ma tu (d2) Buna (e2) Tunulama (f2).
+\m Ma tu (d2) Buna (e2) Tunulama (f2).
+\g          wed          name           name
+\l (and) weds Buna Tunulama.
+

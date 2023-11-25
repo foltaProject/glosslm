@@ -1,0 +1,290 @@
+\t a. a|lE      Xaw             alJa>a      wo=r.
+\m a. a|l-E      Xaw             alJa>a      wo=r.
+\g  Ali-ERG house                build.IPF   POS=1
+\l Ali is building the house.
+
+\t a|lE       wo=r           Xaw           alJa>a.
+\m a|l-E       wo=r           Xaw           alJa>a.
+\g Ali-ERG     POS=1          house         build.IPF
+\l [FAli] is building the house.
+
+\t a|lE       Xaw            wo=r          alJa>a.
+\m a|l-E       Xaw            wo=r          alJa>a.
+\g Ali-ERG house              POS=1         build.IPF
+\l Ali is building [Fthe house].
+
+\t (14) ma|hamad                 a=r=y.
+\m (14) ma|hamad                 a=r=y.
+\g    Mohammed,ABS               1=come.PF
+\l Mohammed came.
+
+\t (15) ma|hamadE       Xaw              alJa>u
+\m (15) ma|hamad-E       Xaw              alJa>-u
+\g   Mohammed-ERG house,ABS               4.build-PF
+\l Mohammed built the house.
+
+\t (17) a.ma|hamadE Xaw                      alJa>u.
+\m (17) a.ma|hamad-E Xaw                      alJa>-u.
+\g   Mohammed-ERG house,ABS                   4.build-PF
+\l Mohammed built the house.
+
+\t  ma|hamadE                 Xaw           alJa>u.
+\m  ma|hamad-E                 Xaw           alJa>-u.
+\g Mohammed-ERG                house.4,ABS 4.build-PF
+\l Mohammed built the house.
+
+\t b. ma|hamadE         Xaw                    alJa>a.
+\m b. ma|hamad-E         Xaw                    alJa>-a.
+\g   Mohammed-ERG house.4,ABS                   4.build-IPF
+\l Mohammed is building the house.
+
+\t c. ma|hamadE         Xaw                    alJa>as.
+\m c. ma|hamad-E         Xaw                    alJa>-as.
+\g   Mohammed-ERG house.4,ABS                   4.build-POT
+\l Mohammed will build the house.
+
+\t (19) ma|hamadE               Xaw                      alJa>u         wo=d/de].
+\m (19) ma|hamad-E               Xaw                      alJa>-u         wo=d/de].
+\g     Mohammed-ERG house.4,ABS                 4.build-PF          AUX=4/AUX.NEG
+\l Mohammed built/didn't build the house.
+
+\t (20) ma|hamadE       Xaw                    alJa>a             wo=d/de]..
+\m (20) ma|hamad-E       Xaw                    alJa>-a             wo=d/de]..
+\g   Mohammed-ERG house.4,ABS                   4.build-IPF         AUX=4/AUX.NEG
+\l Mohammed is/is not building the house.
+
+\t (21) ma|hamadE       Xaw                    alJa>as            wo=d/de]..
+\m (21) ma|hamad-E       Xaw                    alJa>-as            wo=d/de]..
+\g   Mohammed-ERG house.4,ABS                   4.build-POT AUX=4/AUX.NEG
+\l Mohammed will/will not build the house.
+
+\t ma|hamadE                Xaw                    alJa>u           wo=d.
+\m ma|hamad-E                Xaw                    alJa>-u           wo=d.
+\g Mohammed-ERG              house.4,ABS            4.build-PF        AUX=4
+\l Mohammed built/didn't build the house.
+
+\t (23) daKis              ma|hamad                     GaDes           yKano=r.
+\m (23) daK-i-s              ma|hamad                     GaD-es           yKan-o=r.
+\g      father-OBL-DAT [Mohammed.1,ABS                   1.see-POT]        1.want.IPF-AUX=1
+\l Father wants to see Mohammed.
+
+\t (24) ma|hamad                     wasqa                       ma]in           hiles          qaIjq'ano=r / *o=d.         
+\m (24) ma|hamad                     wa-s-qa                       ma]in           hil-es          qaIjq'an-o=r / *-o=d.         
+\g     Mohammed.1,ABS              [you.OBL-AD-ALL                 car.4,ABS       4.give-POT]     1.be.afraid.IPF-AUX=1/ *-AUX=4
+\l Mohammed is afraid to give you the car.
+
+\t (25)    a|lIwo=r      a=r=y.
+\m (25)    a|lI-wo=r      a=r=y.
+\g Ali.1-AUX=1 1=come.PF
+\l [F Ali] came.
+
+\t (26) a|lE      wo=d           ekyn            eza.
+\m (26) a|l-E      wo=d           ekyn            ez-a.
+\g Ali-ERG         AUX=4          field.4         4.plough-IPF
+\l [F Ali] ploughs the field.
+
+\t (27) rasul          balkanukWa                       wo=r    qa=r=y
+\m (27) rasul          balkan-u-kWa                       wo=r    qa=r=y
+\g      Rasul.1        horse-OBL-COMIT                    AUX=1 1=come.PF
+\l Rasul came [F by horse].
+
+\t (28) ma|hamad           wo=r             daKis               GaDes         yKan.
+\m (28) ma|hamad           wo=r             daK-i-s               GaD-es         yKan.
+\g         Mohammed.1 AUX=1                 father-OBL-DAT        1.see-POT      4.want.IPF
+\l Father wanted to see [F Mohammed].
+
+\t (29) a|lE              ekyn              eza                 wo=d.
+\m (29) a|l-E              ekyn              ez-a                 wo=d.
+\g     Ali-ERG             field.4           4.plough-IPF         AUX=4
+\l Ali ploughs the field.
+
+\t (30) rasul           balkanukWa                    qa=r=y            wo=r.
+\m (30) rasul           balkan-u-kWa                    qa=r=y            wo=r.
+\g      Rasul.1         horse-OBL-COMIT                 1=come.PF         AUX=1
+\l Rasul came by horse.
+
+\t (31) ma|hamad           daKis                  GaDes        yKan            wo=r.
+\m (31) ma|hamad           daK-i-s                  GaD-es        yKan            wo=r.
+\g         Mohammed.1 father-OBL-DAT                1.see-POT     4.want.IPF      AUX=1
+\l Father wanted to see [F Mohammed].
+
+\t (32) xJan       qojxar         de].
+\m (32) xJan       qojxar         de].
+\g      water.4    4.boil.IPF     AUX.NEG
+\l The water is not boiling.
+
+\t (33) xJan       de]                 qojxar.
+\m (33) xJan       de]                 qojxar.
+\g      water.4    AUX.NEG             4.boil.IPF
+\l Not the water is boiling.
+
+\t (34) ma|hamad                 de]             daKis         GaDes         yKan.
+\m (34) ma|hamad                 de]             daK-i-s         GaD-es         yKan.
+\g    Mohammed.1,ABS             AUX.NEG father-OBL-DAT          1.see-POT      4.want.IPF
+\l It is not Mohammed whom father wants to see.
+
+\t (35) xJan      qojxar          de]o=d.
+\m (35) xJan      qojxar          de]-o=d.
+\g      water.4   4.boil.IPF      AUX.NEG-AUX=4
+\l The water is not boiling.
+
+\t (36) ma|hamadE                Xaw                     alJa>u         wo=d=o=d.
+\m (36) ma|hamad-E                Xaw                     alJa>-u         wo=d=o=d.
+\g     Mohammed-ERG               house.4,ABS             4.build-PF      AUX=4=AUX=4
+\l Mohammed built/didn't build the house.
+
+\t (38)a. ma|hamadE            wo=d=o=d             Xaw                    alJa>u.
+\m (38)a. ma|hamad-E            wo=d=o=d             Xaw                    alJa>-u.
+\g     Mohammed-ERG             AUX=4=AUX=4          house.4,ABS            4.build-PF
+\l [FMohammed] built the house.
+
+\t (39) a. ma|hamadE           de]o=d              Xaw                    alJa>u.
+\m (39) a. ma|hamad-E           de]-o=d              Xaw                    alJa>-u.
+\g     Mohammed-ERG             AUX.NEG-AUX=4 house.4,ABS                   4.build-PF
+\l [F Not Mohammed] built the house.
+
+\t (40) ma|hamadE                Xaw                    alJa>u        wo=d/de]ne.
+\m (40) ma|hamad-E                Xaw                    alJa>-u        wo=d-/de]-ne.
+\g     Mohammed-ERG               house.4,ABS            4.build-PF     AUX=4/AUX.NEG-Q
+\l Did Mohammed (not) build the house?
+
+\t a|lE      Xaw               alJa>a wo=r.
+\m a|l-E      Xaw               alJa>a wo=r.
+\g Ali-ERG house                build.IPF      AUX=1
+\l Ali is building the house.
+
+\t (28) ma|hamad          wo=r           daKis                J       GaDes          yKan.
+\m (28) ma|hamad          wo=r           daK-i-s                J       GaD-es          yKan.
+\g        Mohammed.1 AUX=1               father-OBL-DAT         1.see-POT      4.want.IPF
+\l Father wants to see [F Mohammed].
+
+\t (43)   daKis                ma|hamad        wo=r           GaDes         yKan.
+\m (43)   daK-i-s                ma|hamad        wo=r           GaD-es         yKan.
+\g        father-OBL-DAT         Mohammed.1 AUX=1               1.see-POT      4.want.IPF
+\l Father wants to see [F Mohammed].
+
+\t (44) a. rasul          fAt'imato=r           a=r=InGa|             ark'in.
+\m (44) a. rasul          fAt'imat-o=r           a=r=InGa|             ark'in.
+\g         Rasul.1        [Fatimat.1-AUX=1       2=come-TEMP]          1.leave.PF
+\l After [F Fatimat] came, Rasul left.
+
+\t a.manGuk'le            my]le]kqa           wo=r           u|Qana              gade           GeDe.   
+\m a.ma-n-Gu-k'le            my]le]-k-qa           wo=r           u|Qa-na              gade           GeD-e.   
+\g he-A-OBL-AFF [[Ìishlesh-CONT-ALL               AUX=1           1.go.IPF-AA]         boy.1]         1.see-IPF
+\l He sees a boy going [F to Mishlesh].
+
+\t (46) a. ma|hamad       wasqa            wo=d/*wo=r                    ma]in hiles        q|ajq'an.   
+\m (46) a. ma|hamad       wa-sqa            wo=d/*wo=r                    ma]in hil-es        q|ajq'an.   
+\g        Mohammed.1 [you.OBL-ALL AUX=4/*AUX=1                    car.4   4.give-POT]         1.afraid.IPF
+\l Mohammed is afraid to give [Fyou] the car.
+
+\t b.     wasqa                  wo=d/*wo=r              ma|hamad                ti ma]in        hiles          q|ajq'an.
+\m b.     wa-sqa                  wo=d/*wo=r              ma|hamad                ti ma]in        hil-es          q|ajq'an.
+\g        you.OBL-ALL             AUX=4/*AUX=1            Mohammed.1              [ car.4         4.give-POT] 1.afraid.IPF 
+\l Mohammed is afraid to give [Fyou] the car.
+
+\t (47)   ma|hamad                wasqa               ma]in          hiles             q|ajq'ano=r/*o=d.       
+\m (47)   ma|hamad                wa-sqa               ma]in          hil-es             q|ajq'an-o=r/*-o=d.       
+\g        Mohammed.1              [you.OBL-ALL          car.4         4.give-POT]        1.afraid.IPF-AUX=1/*-AUX=4
+\l Mohammed is afraid to give you the car.
+
+\t (48) *ma|hamad                 wasqa               wo=d           ma]in hiles                q|ajq'ano=d/o=r.       
+\m (48) *ma|hamad                 wa-sqa               wo=d           ma]in hil-es                q|ajq'an-o=d/-o=r.       
+\g        Mohammed.1              [you.OBL-ALL         AUX=4          car.4    4.give-POT]        1.afraid.IPF-AUX=4/-AUX=1
+\l Mohammed is afraid to give [Fyou] the car.
+
+\t (49) ??wasqa          ma|hamad       ma]in hiles          qa|jq'an.
+\m (49) ??wa-sqa          ma|hamad       ma]in hil-es          qa|jq'an.
+\g        you.OBL-ALL Mohammed.1 [car.4 4.give-POT] 1.afraid.IPF
+\l Mohammed is afraid to give you the car.
+
+\t (51) ma|>allimE            Deni           balkanys       y|Xyna        i[I  gE]una. 
+\m (51) ma|>allim-E            De-ni           balkan-y-s       y|X-y-na        i[I  gE]-u-na. 
+\g     teacher-ERG             REFL-AOBL horse-OBL-DAT          hit-PF-ATR      girl cry-PF-ATR
+\l The girl whose horse the teacher hit cried.
+
+\t (52) *ma|hamad          wo=r           daKis               wuD            GaDes              yKan.     
+\m (52) *ma|hamad          wo=r           daK-i-s               wuD            GaD-es              yKan.     
+\g           Mohammed.1 AUX=1             father-OBL-DAT        REFL.ABS       1.see-POT           4.want.IPF
+\l Father wants to see [F Mohammed].
+
+\t (54) daKis           Xaw            uftan=da              alJa>as         yKan.     
+\m (54) daK-i-s           Xaw            uftan=da              alJa>-as         yKan.     
+\g     father-OBL-DAT house.4,ABS beautiful=ADV.4              build-POT        4.want.IPF
+\l Father wants to build a house beautifully.
+
+\t (55) uftan=da          wo=d           daKis               Xaw            alJa>as        yKan.     
+\m (55) uftan=da          wo=d           daK-i-s               Xaw            alJa>-as        yKan.     
+\g beautiful=ADV.4        AUX=4          father-OBL-DAT        house.4,ABS build-POT          4.want.IPF
+\l Father wants to build a house [Fbeautifully].
+
+\t ibrehim       wa]    baluRo=d             aQInGa|       Xaqa arkyn
+\m ibrehim       wa]    baluR-o=d             aQ-InGa|       Xaqa arkyn
+\g Ibrahim.1     100    fish.4-AUX=4          catch-when     home 1.came.PF
+\l Having caught [F one hundred fishes], Ibrahim returned home.
+
+\t (65)   a|lE           Xaw             alJa>a         wo=d.
+\m (65)   a|l-E           Xaw             alJa>-a         wo=d.
+\g        Ali-ERG         house,4         4.build-IPF     AUX=4
+\l Ali was building the house.
+
+\t (69)   a|lE           Xaw           alJa>a
+\m (69)   a|l-E           Xaw           alJa>-a
+\g        Ali-ERG         house.4       4.build-IPF
+\l Ali was building the house.
+
+\t (74)   rasul          fAt'imat        de]            a=r=InGa|              ark'in,           madinato=r            a=r=InGa| // * madinato=r.   
+\m (74)   rasul          fAt'imat        de]            a=r=InGa|              ark'in,           madinat-o=r            a=r=InGa| // * madinat-o=r.   
+\g        Rasul.1        [Patimat.2      AUX.NEG        2=come-TEMP]           1.leave.PF        Madinat.2-AUX=2        2=come-TEMP // Madinat.2-AUX=2
+\l Rasul left after Madinat came, not after Patimat came.
+
+\t (75) dakJE            iwhowo=d              a|lIwo=r      a=r=y.
+\m (75) dakJ-E            iwho-wo=d              a|lI-wo=r      a=r=y.
+\g     father-ERG         say.PF-AUX=4           [Ali.1-AUX=1 1=come.PF]
+\l Father said that [F Ali] came.
+
+\t (76) a. *rasul         fAt'imato=r            ma]inakWa     wo=r         a=r=InGa|           ark'in.   
+\m (76) a. *rasul         fAt'imat-o=r            ma]ina-kWa     wo=r         a=r=InGa|           ark'in.   
+\g        Rasul.1         [Fatimat.2-AUX=2        car-COMIT      AUX=2        2=come-TEMP]        1.leave.PF
+\l Rasul left after [F Fatimat] came [F by car].
+
+\t b.     *ma|hamad wo=r                  my]le]E         wo=r          daKis               GaDes          yKan.     
+\m b.     *ma|hamad wo=r                  my]le]-E         wo=r          daK-i-s               GaD-es          yKan.     
+\g        Mohammed.1 AUX=1                Mishlesh-ESS AUX-1             father-OBL-DAT        1.see-POT       4.want.IPF
+\l Father wants to see [F Mohammed].
+
+\t MaIhaImaIdeÚ Xaw             alya÷a=wo=d.
+\m MaIhaImaId-eÚ Xaw             alya÷a=wo=d.
+\g   M.-ERG               house(IV):NOM      build=AUX=IV
+\l Muhammed is building a house.
+
+\t MaIhaImaIdeÚ Xaw=wo=d                   alya÷a.
+\m MaIhaImaId-eÚ Xaw=wo=d                   alya÷a.
+\g   M.-ERG               house(IV):NOM=AUX=IV build
+\l Muhammed is building a HOUSE.
+
+\t MaIhaImaIdeÚ=wo=d      Xaw                          alya÷a.
+\m MaIhaImaId-eÚ=wo=d      Xaw                          alya÷a.
+\g M.-ERG=AUX=IV      house(IV):NOM       build
+\l M     UHAMMED   is building a house.
+
+\t rasule: wuze: wuz                          getu
+\m rasul-e: wuz-e: wuz                          getu
+\g Rasul-ERG INT-ERG REFL.NOM                   beat
+\l ,Rasul beat himself.
+
+\t MaIhaImaIdeò Xaw             alyaÖa=wo=d.
+\m MaIhaImaId-eò Xaw             alyaÖa=wo=d.
+\g   M.-ERG            house(IV):NOM   build=AUX=IV
+\l Muhammed is building a house.
+
+\t MaIhaImaIdeò Xaw=wo=d            alyaÖa.
+\m MaIhaImaId-eò Xaw=wo=d            alyaÖa.
+\g   M.-ERG            house(IV):NOM=AUX=IV build
+\l Muhammed is building a HOUSE.
+
+\t MaIhaImaIdeò=wo=d      Xaw                     alyaÖa.
+\m MaIhaImaId-eò=wo=d      Xaw                     alyaÖa.
+\g M.-ERG=AUX=IV    house(IV):NOM       build
+\l M   UHAMMED   is building a house.
+

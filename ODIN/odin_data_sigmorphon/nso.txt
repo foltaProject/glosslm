@@ -1,0 +1,330 @@
+\t Mokgalabje ónyaka                    mang?
+\m Mo-kgalabje ó-nyaka                    mang?
+\g CL1-old   man      3rd.CL1-look.for who      3
+\l Who is the old man looking for?
+
+\t Òbona        mang kamehla?
+\m Ò-bona        mang ka-mehla?
+\g you-see            who      always
+\l Who do you always see?
+
+\t Òbona            kamehla            mang?
+\m Ò-bona            ka-mehla            mang?
+\g  you-see           always              who
+\l Who do you always see?
+
+\t Mang òbona?
+\m Mang ò-bona?
+\g   who 2nd-see
+\l Who do you see?
+
+\t Ófa               mokgalabje eng?
+\m Ó-fa               mo-kgalabje eng?
+\g 3rd.CL1-give       CL1-old.man         what
+\l What does he give the old man?
+
+\t Ótli_et_a   mang sehlare?
+\m Ó-tli_et_a   mang se-hlare?
+\g 3rd.CL1-bring      who      CL7-medicine
+\l Who does he bring the medicine?
+
+\t Mokgalabje ónyaka                    ngaka                kae?
+\m Mo-kgalabje ó-nyaka                    ngaka                kae?
+\g CL1-old   man        3rd.CL1-look.for CL9.doctor            where
+\l Where is the old man looking for the doctor?
+
+\t Mokgalabje ójwala                    mohlare             neng?
+\m Mo-kgalabje ó-jwala                    mo-hlare             neng?
+\g CL1-old   man        3rd.CL1-plant     CL3-tree             when
+\l When is the old man planting a tree?
+
+\t Kgarebe              ebolela          maaka               bjang?
+\m Kgarebe              e-bolela          ma-aka               bjang?
+\g CL9.lady             3rd.CL9-tell      CL6.lie              how
+\l How is the lady telling lies?
+
+\t Ké     mang anyakang          ngaka?
+\m Ké     mang a-nyaka-ng          ngaka?
+\g COP    who     CL1-look.for-REL CL9.doctor
+\l Who is looking for the doctor?
+
+\t Ké    mang areki_ang maswi                    kotoropong?
+\m Ké    mang a-reki_a-ng ma-swi                    ko-toropo-ng?
+\g COP    who     CL1-sell-REL     CL6-milk         in-town-in
+\l Who is selling milk in town?
+
+\t Mang ódira            eng?
+\m Mang ó-dira            eng?
+\g Who    3rd.CL1-do      what
+\l Who is doing what?
+
+\t B:    Mang ótlhokomela            ngaka?
+\m B:    Mang ó-tlhokomela            ngaka?
+\g        Who     3rd.CL1-look.after        CL9.doctor
+\l Who is looking after the doctor?
+
+\t Dikgomo          di      fula   nageng.
+\m Di-kgomo          di      fula   nage-ng.
+\g CL10-cows         SC.CL10graze   CL9.country-LOC
+\l The cattle are grazing in the country.
+
+\t Nageng        go              fula dikgomo.
+\m Nage-ng        go              fula di-kgomo.
+\g CL9.country-LOC   SC.CL17        graze CL10-cows
+\l In the country are grazing the cattle.
+
+\t Nageng         go                fula eng?
+\m Nage-ng         go                fula eng?
+\g  CL9.Country-LOCSC.CL17           graze what
+\l What is grazing in the country?
+
+\t Go tla            mang?
+\m Go tla            mang?
+\g CL17 come         who
+\l Who is coming?
+
+\t Go bala mang puku?
+\m Go bala mang puku?
+\g CL17 read    who book
+\l Who is reading the book?
+
+\t Pitsha (yona) e      thubile            (ke mo_emane).
+\m Pitsha (yona) e      thub-ile            (ke mo_emane).
+\g  Pot            SC break.PASS-PAST       (by boy)
+\l The pot was broken (by the boy).
+
+\t Pitsha (yona) e      thubile            ke mang?
+\m Pitsha (yona) e      thub-ile            ke mang?
+\g  Pot            SC break.PASS-PAST       by who
+\l Who broke the pot?
+
+\t Mokgalabje ónyaka                  ngaka.
+\m Mokgalabje ó-nyaka                  ngaka.
+\g CL1-old   man 3rd.CL1-look.for CL9.doctor
+\l The old man is looking for the doctor.
+
+\t Mokgalabje ónyaka         ngaka toropong.
+\m Mokgalabje ó-nyaka         ngaka toropo-ng.
+\g CL1-old   man     3rd.CL1-look.for CL9.doctor CL9.town-in
+\l The old man is looking for the doctor in town.
+
+\t Mokgalabje ójwala     mohlare lehono.
+\m Mo-kgalabje ó-jwala     mo-hlare lehono.
+\g CL1-old   man     3rd.CL1-plant CL3-tree     today
+\l The old man is planting a tree today.
+
+\t Ké mokgalabje atlhokomelang ngaka.
+\m Ké mo-kgalabje a-tlhokomela-ng ngaka.
+\g COP CL1-old     man    3rd.CL1-look.for.REL CL9.doctor
+\l It is the old man who is looking after the doctor.
+
+\t Ké nna ketlhokomelang ngaka.
+\m Ké nna ke-tlhokomela-ng ngaka.
+\g COP   I   1st-look.for.REL          CL9.doctor
+\l It is me who is looking after the doctor.
+
+\t Mang obonye         Thabo?
+\m Mang o-bonye         Thabo?
+\g         who     SM.CL1-see.PAST Thabo
+\l Who saw Thabo?
+
+\t Go be go na le dinonyana le diphukubje t_eo                               di     bego di dula                 le_oke ng.      
+\m Go be go na le di-nonyana le di-phukubje t_-eo                               di     be-go di dula                 le-_oke- ng.      
+\g CL17 was   CL17   P   OSS   CL10-bird      and   CL10-jackal        CL10-REL CL10   was-R   EL CL10   live        CL5-wilderness-LOC
+\l There were birds and jackals that lived in the wilderness.
+
+\t Go     tsena Matalebele.
+\m Go     tsena Matalebele.
+\g CL17    enter         Matalebele
+\l ,Matalebele enters.
+
+\t Go      robala mang mpeteng?
+\m Go      robala mang mpete-ng?
+\g     CL17    sleep    who      bed-L   OC
+\l Who is sleeping in the bed?
+
+\t Go fihla baeti.
+\m Go fihla ba-eti.
+\g C L 17 arrive C L2-guest
+\l There are guests arriving.
+
+\t Ke kwele mokgala:bje.
+\m Ke kw-ele mo-kgala:bje.
+\g  1 hear-P S T C L1-old.man
+\l I heard the old man.
+
+\t Ke mo kwe:le mokgala:bje.
+\m Ke mo kw-e:le mo-kgala:bje.
+\g  1 C L1 hear-P S T C L1-old.man
+\l I heard him, the old man.
+
+\t Banna ba soma mo.
+\m Ba-nna ba soma mo.
+\g C L 2-man C L 2 work here
+\l The men are working here.
+
+\t Africa.
+\m Africa.
+\g Africa
+\l Raisetja likes to visit big African cities.
+
+\t    eng?
+\m    eng?
+\g    what
+\l Which doctor are you looking for?
+
+\t O bona neng mosadi?
+\m O bona neng mo-sadi?
+\g  2 see when C L1-woman
+\l When do you see the woman?
+
+\t [O direga eng ka monna le senotlelo?
+\m [O direga eng ka mo-nna le se-notlelo?
+\g 2 do      what with C L1-man and C L7-key
+\l What are you doing with the man and the key?
+
+\t [O mema mang?
+\m [O mema mang?
+\g   2 invite who
+\l Who do you invite?
+
+\t [O rema eng mosegare?
+\m [O rema eng mosegare?
+\g 2 chop what midday
+\l What do you chop at day?
+
+\t [O nwa eng labone?
+\m [O nwa eng labone?
+\g 2 drink what four.times
+\l What do you drink for the fourth time?
+
+\t [O dira eng bjale?
+\m [O dira eng bjale?
+\g      2 do what now
+\l What are you doing now?
+
+\t   le lekantsa le eng. [...]
+\m   le lekantsa le eng. [...]
+\g   C L5 compare with what
+\l My happiness, I don't know what I can compare it to.
+
+\t [O bala nonwane?
+\m [O bala nonwane?
+\g 2 read C L9.story
+\l Are you reading a story?
+
+\t [O rema morula          neng?
+\m [O rema mo-rula          neng?
+\g 2 chop C L3-marula when
+\l When do you chop the marula tree?
+
+\t O nyaka mang?
+\m O nyaka mang?
+\g 2 look.for who
+\l Who are you looking for?
+
+\t [O dira eng bjale?
+\m [O dira eng bjale?
+\g    2 do what now
+\l What are you doing now?
+
+\t [O dira eng ka morwalo?
+\m [O dira eng ka mo-rwalo?
+\g 2 do what with C L3-load
+\l What are you doing with the load?
+
+\t (ii) Ke ja namune.
+\m (ii) Ke ja namune.
+\g        1 eat C L9.orange
+\l I am eating an orange.
+
+\t Ke a [nwa]F .
+\m Ke a [nwa]F .
+\g  1-A- drink
+\l I am drinking.
+
+\t Ke bona gago:lo.
+\m Ke bona gago:lo.
+\g 1 see well
+\l I am seeing well.
+
+\t Ke fa moratho diapa:ro.
+\m Ke fa mo-ratho di-apa:ro.
+\g 1 give C L1-brother C L8-cloth
+\l I give the brother clothes.
+
+\t Ke a bo:na.
+\m Ke a bo:na.
+\g 1-A- see
+\l I am seeing.
+
+\t          ´
+\m          ´
+\g Ke a bo:na.
+\l I am seeing.
+
+\t O thusa mang?
+\m O thusa mang?
+\g     2 help who
+\l Who do you help?
+
+\t Aowa, ke thusetse [mokgalabje]F .
+\m Aowa, ke thus-etse [mo-kgalabje]F .
+\g no     1 help-P S T C L1-old.man
+\l No, I helped the O L D M A N.
+
+\t Naa o dula toropong         na?
+\m Naa o dula toropo-ng         na?
+\g QP 2 live C L9.town-L O C QP
+\l Are you living in town?
+
+\t Aowa, ke dula [polaseng]F .
+\m Aowa, ke dula [polase-ng]F .
+\g no     1 live C L9.farm-L O C
+\l No, I am living on A FA R M.
+
+\t  eng.
+\m  eng.
+\g  what
+\l While they were laughing, the chief didn't understand what they were laughing about.
+
+\t Ke eng seo                se bego            se     le ka        fao mangwalong?
+\m Ke eng seo                se be-go            se     le ka        fao ma-ngwalo-ng?
+\g   C O P what D E M.C L7 C L7 P S T-R   EL CL    7 ? PR    EP   there C L6-letter-L O C
+\l What was in those letters?
+
+\t Go fihla mang?
+\m Go fihla mang?
+\g  Ke mang a fihla-ng?
+\l Who is arriving?
+
+\t Go ngwala mang lengwalo?
+\m Go ngwala mang lengwalo?
+\g  Ke mang a ngwalang lengwalo?
+\l Who is writing a letter?
+
+\t Mpsa elomile      ngwana
+\m Mpsa e-lomile      ngwana
+\g hond SU-beet       kind
+\l De hond beet    het/een kind.
+
+\t Mpsa    elomile      ngwana
+\m M-psa    e-lomile      ngw-ana
+\g 9-hond SU:9-beet       1-kind
+\l De hond heeft een/het kind gebeten.
+
+\t Dimpsa dilomile    ngwana
+\m Dim-psa di-lomile    ngw-ana
+\g 10-hond SU:10-beet 1-kind
+\l De honden hebben een/het kind gebeten.
+
+\t Ngwana mpsa       emolomile
+\m Ngw-ana m-psa       e-mo-lomile
+\g 1-kind     9-hond SU:9-OB:1-beet
+\l Het kind, de hond heeft het gebeten.
+
+\t Mpsa     ngwana emolomile
+\m M-psa     ngw-ana e-mo-lomile
+\g 9-hond 1-kind       SU:9-OB:1-beet
+\l De hond, die heeft het kind gebeten.
+

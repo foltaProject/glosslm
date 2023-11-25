@@ -1,0 +1,340 @@
+\t án       àdáktâl
+\m án       à-dáktâl
+\g 1SG 1SG-doctor,HABIT
+\l I am a doctor
+
+\t àtíyô
+\m à-tíyô
+\g 1SG-work,HABIT
+\l I work
+
+\t án àdáktâl                  à b<r    oe
+\m án à-dáktâl                  à b<r    oe
+\g    1SG 1SG-doctor,HABIT REL good
+\l I am a good doctor
+
+\t  án àbédò               dàktàl
+\m  án à-bédò               dàktàl
+\g 1SG 1SG-stay,PERF doctor
+\l I was a doctor
+
+\t òkélò bínô                          bèdò         rwòt
+\m òkélò bínô                          bèdò         rwòt
+\g Okelo 3SG,come,HABIT                stay,INFIN   king
+\l Okelo will be king
+
+\t án dá àtíê                                  Ô oe cùkúl
+\m án dá à-tíê                                  Ô oe cùkúl
+\g    1SG also 1SG-be.at,PRESENT,HABIT at school
+\l I'm also at school
+
+\t Òkélò òmàtò         cây kèdè càk.
+\m Òkélò òmàtò         cây kèdè càk.
+\g Okelo   3SG.drink.PFV tea and       milk
+\l Okelo drank tea and milk.
+
+\t lóc´Y ònE~ná           án
+\m lóc´Y ò-nE~n-á           án
+\g   man   3SG.A-see.PERF-1  SG.P   me
+\l The man saw me.
+
+\t lóc´Y òmìyá               búk
+\m lóc´Y ò-mìy-á               búk
+\g   man   3SG.A-give.PERF-1SG.R book
+\l The man gave me the book.
+
+\t lóc´Y òmìyE!             bòt´!
+\m lóc´Y ò-mìy-E!             bòt-´!
+\g man   3SG.A-give.PERF-3SG.P to-1    SG
+\l The man gave him (e.g. a slave) to me.
+
+\t lóc ònná               án
+\m lóc ò-nn-á               án
+\g  man    3SG.A-see.PFV-1SG.P   me
+\l The man saw me.
+
+\t lóc òmìyá                 búk
+\m lóc ò-mìy-á                 búk
+\g   man   3SG.A-give.PFV-1 SG.R   book
+\l The man gave me the book.
+
+\t lóc òmìybòt
+\m lóc ò-mìy-bòt-
+\g man   3SG.A-give.PFV-3 SG.P   to-1 SG
+\l The man gave him (e.g. a slave) to me.
+
+\t  rwòtt=à=m     rà c
+\m  rwòtt=à=m     rà c
+\g king=ATTR=REL 3s.be.bad.HAB
+\l the/a king who is bad
+
+\t lóc=à=m       rwòt òmò               ly è c   bò=té
+\m lóc=à=m       rwòt òmò               ly è c   bò=té
+\g man=ATTR=REL king      3s.give.PFV   elephant to=3s
+\l The man that the king gave an elephant to.
+
+\t rwòtt=à ràc
+\m rwòtt=à ràc
+\g king=ATTR bad
+\l the/a bad king
+
+\t án àpé          àwótò           kàmpálà
+\m án à-pé          à-wótò           kàmpálà
+\g I     1SG-NEG 1SG-go.PERF Kampala
+\l I didn't go to Kampala.
+
+\t bèdò         kân
+\m bèdò         kân
+\g 3SG.sit      here
+\l It will be here
+
+\t ònwòò           kân
+\m ònwòò           kân
+\g 3SG.find        here
+\l It was here
+
+\t án      àdáktâl
+\m án      à-dáktâl
+\g 1SG 1SG-doctor.HABIT
+\l I am a doctor
+
+\t àtíyô
+\m à-tíyô
+\g 1SG-work.HABIT
+\l I work
+
+\t án àdáktâl                    à b<r  oe
+\m án à-dáktâl                    à b<r  oe
+\g     1SG 1SG-doctor.HABIT REL good
+\l I am a good doctor
+
+\t  án àbédò              dàktàl
+\m  án à-bédò              dàktàl
+\g 1SG 1SG-stay.PERF doctor
+\l I was a doctor
+
+\t òkélò bínô                      bèdò          rwòt
+\m òkélò bínô                      bèdò          rwòt
+\g Okelo 3SG.come.HABIT            stay.INFIN king
+\l Okelo will be king
+
+\t án dá àtíê                                     Ô oe cùkúl
+\m án dá à-tíê                                     Ô oe cùkúl
+\g     1SG also 1SG-be.at:PRESENT.HABIT at school
+\l I'm also at school
+
+\t aiyO ki       rrkana
+\m a-iyO- k-i-       r-r-k-an-a
+\g SP   1-PROG-   k-REFL-think-APPL-NEUT-ASS-PROG
+\l He isn't saying anything, he's thinking.
+
+\t vasiNga siva iyOk   ivaa      tk                   vaiyO bwta           
+\m va-siNga si-va- iyO-k-   i-va-a      tk                   va-iyO- bwt-a           
+\g IP   2-child   P.PFX-SP   2-PROG-     k-REFL-hit-PROG NEG SP   2-PROG-   play-PROG
+\l The children aren't fighting, they're playing.
+
+\t na       dOma      Økaayaia     vO
+\m n-a-       dOm-a      Ø-kaaya-i-a-     vO
+\g SP1SG-PFT-go-PFT   IP   9-house-LOC     DP   9-DET-POSS3PL
+\l I have been to their house (already, therefore I don't want to go back).
+
+\t sin adOma        Økaayaia     vO   tk
+\m si-n- a-dOm-a        Ø-kaaya-i-a-     vO   tk
+\g P.PFX-SP1SG- PFT-go-PFT   IP   9-house-LOC DP   9-DET-POSS3PL NEG
+\l I haven't been to their house (but would like to go).
+
+\t makaa    lOkirE ta                                         dOmirE            na     arusha
+\m m-aka-a-    lOk-irE t-a-                                         dOm-irE            na     arusha
+\g IP   3-year    SP   3-PFV-    pass-PFV   SP1PL-PFV-         go-PFV   CONN   Arusha
+\l Last year, we went to Arusha
+
+\t     haAlly aa
+\m     ha-Ally a-a-
+\g     IP   16-place Ally         SP3SG-PFV-       come-PFV
+\l Fatuma was working when Ally came.
+
+\t hayi vaa        r     ava vasiNga                sina         na          vaOna        tk                     
+\m hayi va-a-        r     ava va-siNga                si-n-a         n-a-          va-On-a        tk                     
+\g where     SP   2-PFT-COP    DEM2 IP         2-child P.PFX-SP1SG- PFT             SP1SG-PFT-OBJ2-          see-PFT   NEG
+\l Where were the children? I hadn't seen them.
+
+\t hant ta             ta       tulirE                                ma        ali       aka    lOka          
+\m ha-nt t-a             t-a-       tul-irE                                ma        ali       a-ka-    lOk-a          
+\g IP   16-place      SP1PL-PFV       SP1PL-PFV-                appear-PFV then      Ally      SP3SG-NAR-      pass-NAR
+\l When we appeared, then Ally left (lit. passed).
+
+\t ta        ta      iSianirE                     ma        nka       anda          tdZa                   na        idukii   
+\m t-a        t-a-      i-Si-an-irE                     ma        n-ka-       and-a          tdZ-a                   na        i-duki-i   
+\g SP1PL-PFV          SP1PL-PFV-      REFL-meet-REC-PFV    then      SP1SG-NAR-       start-NAR   run-SFX      CONN IP         5-store-LOC
+\l We had met, then (after which) I started running off to the store.
+
+\t mpaka mnEnya tndOpata habari  tEndO pata
+\m mpaka mnEnya tndOpata habari  t-EndO- pat-a
+\g      until             Mnenya            SP1PL-INV-      get-SFX    IP   10-news
+\l All the way to Mnenya we are bound to get the news.
+
+\t ma ha     mpitSiEndO kwatwa
+\m ma ha     m-pitSi-EndO- kwat-w-a
+\g then      here    IP   9-hyena   SP   9-INV-   touch-PASS-SFX
+\l Then, here, the hyena is going to get caught.
+
+\t aka fumya    NgO                              dZia              tSwE na        aEndO kOwa      
+\m a-ka- fum-y-a    N-gO                              dZi-a-              tSwE na        a-EndO- k-Ow-a      
+\g SP   1-NAR-   exit-CAUS-NAR   IP   10-clothes   DP   10-DET-POSS3SG         CONN SP    1-INV-   k-wash-SFX
+\l She took off her clothes (in order) to wash.
+
+\t aa    kwiirE ttO sONgOla                         Ømayitia        tSwE                 
+\m a-a-    kwi-irE t-tO- sONgOl-a                         Ø-mayiti-a-        tSwE                 
+\g SP   1-PFV-       die-PFV   SP1PL-DEC-      remove-SFX IP   9-corpse            DP9-DET-POSS3SG
+\l He is dead, we are going to remove his corpse.
+
+\t Nk klmEtO vEka     vi                                     kEyi kaka    tOOla            
+\m N-k k-lmE-tO- vEk-a     vi                                     kEyi ka-ka-    tOOl-a            
+\g IP   9-chicken-          male   SP   9-DEC-   crow-SFX    just then      SP   12-NAR-   take-NAR
+\l Just when the rooster was about to crow, he (small bird) took (clothes).
+
+\t nO        tOk       Owa        ld Zii
+\m n-O-        tO-k-       Ow-a        l-d Zi-i
+\g SP1SG-HAB-          DEC-k-     wash-HAB    IP   11-watering.hole-LOC
+\l I'm going to wash in the watering hole.
+
+\t ava       vadala                 siva       iyOtO            r ma      tk
+\m ava       va-dala                 si-va-       iyO-tO-            r m-a      tk
+\g DEM2 IP        2-woman                P.PFX-SP    2-PROG- DEC-farm-PROG NEG
+\l It's raining, the women are not going to farm.
+
+\t nOtSikuEndO tOrya    ndZ
+\m nO-tSiku-EndO- tO-ry-a    n-dZ
+\g REL       IP   14-night       SP   9-INV-    DEC-eat-SFX   IP   10-bean
+\l It's at night (that) he goes and eats beans."(Even though he knows he's
+
+\t hapana       kEndO tOk           Owa
+\m hapana       k-EndO- tO-k-           Ow-a
+\g   NEG                 IP   15-INV-      DEC-k-        wash-SFX
+\l Do not go and wash anyway."(Despite our orders).
+
+\t haha Øsimbar      kdZa                                          nO        Siana               mpitSi
+\m haha Ø-simba-r      k-dZ-a                                          nO        Sian-a               m-pitSi
+\g now       IP   9-lion                SP   9-COP    IP   15-come-SFX REL       meet-SFX   IP   9-hyena     
+\l Now the lion is coming to meet the hyena.
+
+\t ksEka          ta      r             ma h Ømaka aka    anda         rra          
+\m k-sEk-a          t-a-      r             ma h Ø-maka a-ka-    and-a         rr-a          
+\g  IP15-laugh-SFX SP1PL-PFT-          COP  then DEM1 IP1a-guy SP1-NAR-   start-NAR   cry-SFX
+\l We were laughing then this guy started to cry!
+
+\t hant     tO        yEnda             haha tO        tdZa
+\m ha-nt     t-O-        yEnd-a             haha t-O-        tdZ-a
+\g IP   16-place   SP1PL-HAB-         walk-HAB   now       SP1PL-HAB-          run-HAB
+\l We used to sing while walking, now we run.
+
+\t tidZa tO         kikala   Kondoa                    ma        tka       saama        na        London    
+\m t-idZa t-O-         k-ikal-a   Kondoa                    ma        t-ka-       saam-a        na        London    
+\g SP1PL-COP       SP1PL-HAB-         k-reside-HAB   Kondoa then      SP1PL-NAR-      migrate-NAR   CONN      London
+\l We used to live in Kondoa, then we migrated to London.
+
+\t masidZaa        varka
+\m m-as-idZa-a-        var-k-a
+\g IP   3-sun    SP   3-COP       SP   3-PFT-shine-NEUT-PFT
+\l When the sun was shining.
+
+\t Okati      na        idZa mdudi                      na       d Za       na       dudia        sana
+\m -Okati      n-a-        idZa m-dudi                      n-a-       d Za       n-a-       dudi-a        sana
+\g  IP14-moment           SP1SG-PFT-COP       DP   1-small  SP1SG-PFT- COP        SP1SG-PFT-be.small-PFT   very
+\l When I was small I was very small.
+
+\t nidZa sin ai   fyanirE                          na      Ømamaa   it                       tk                     
+\m n-idZa si-n- a-i-   fy-an-irE                          na      Ø-mama-a-   it                       tk                     
+\g SP1SG-COP     P.PFX-SP1SG- PFV-REFL- ressemble-ASS-PFV CONN IP   1a-mother           DP1-DET- POSS1PL                   NEG
+\l I used to not look like our mother.
+
+\t marm     kva sOmEra          ar     vasiNga                                  ktabu ØSulEi                
+\m m-arm     k-va- sOm-Er-a          a-r     va-siNga                                  k-tabu Ø-SulE-i                
+\g IP1-teacher             IP   15-OBJ2-     read-APPL-SFX   SP   1-COP   IP   2-child IP7-book      IP   9-school-LOC
+\l The teacher will read a book to the children at school.
+
+\t kOn na      dOmirE Økaayai                                rya       ndEr
+\m kOn n-a-      dOm-irE Ø-kaaya-i                                ry-a       ndE-r
+\g if     SP1SG-PFV-    go-PFV   IP   9-house-LOC   eat-SFX   SP1SG-COP
+\l If I go home, I will eat.
+
+\t kOna    mbirE n                                   vina    ndEr
+\m kOn-a-    mb-irE n                                   vin-a    ndE-r
+\g if     SP2SG-PFV-    sing-PFV   PERS1SG          dance-SFX      SP1SG-COP
+\l If you sing, me, I will dance.
+
+\t kOna     mbirE kk vinr a                   ndEr
+\m kOn-a-     mb-irE k-k- vin-r- a                   ndE-r
+\g if     SP2SG-PFV-    sing-PFV   IP   15-OBJ2SG-dance-APPL-SFX   SP1SG-COP
+\l If you sing, I will dance for you.
+
+\t n   marm       nO   ar                                       sOma            ktabu
+\m n   m-arm       nO   a-r                                       sOm-a            k-tabu
+\g PRES     IP   1-teacher             REL    SP   1-COP       read-SFX    IP   7-book
+\l It is the teacher who will read a book.
+
+\t Øtaata aaN        tEhErirE                  krma                kdundai            t k
+\m Ø-taata a-a-N-        tEh-Er-irE                  k-rm-a                k-dunda-i            t k
+\g IP1a-father SP1-PFV-      OBJ1SG-listen-APPL-PFV  IP15-farm-SFX         IP   7-hill-LOC   NEG   
+\l Papa told me: do not farm in the hills.
+
+\t tka        rEEta           mhEmbE      ma        dZka           v krwara    mOda                  
+\m t-ka-        rEEt-a           m-hEmbE      ma        dZ-ka-           v k-r-w-a-ra    m-Oda                  
+\g SP1PL-ADV-          bring-ADV    IP10-horn then      SP   10-ADV-   put-APPL-PASS-ADV DP4-DEM   IP   4-potion
+\l We must bring horns, and the horns must be filled with potion.
+
+\t ka  tahra   mad Zi    vi               ka dZa        na   Økaayai          
+\m -ka-  tah-r-a   ma-d Zi    vi               -ka- dZ-a        na   Ø-kaaya-i          
+\g SP2   SG-ADV- fetch-APPL-ADV IP6-water only SP2   SG-ADV- come-ADV CONN IP9-house-LOC
+\l Just go and fetch water, and come back home.
+
+\t   ka         kaka lOOlwE                                                          n    mambEya                vaaar                        
+\m   k-a         k-a-ka- lOOl-w-E                                                          n    mambEya                va-a-ar                        
+\g come-IMP2SG                come-IMP2           SG         SP2SG-INJ-     marry-PASS-INJ PRES Mambeya                DP   2-DET        IP14-porridge
+\l Come, come, you must be married to Mambeya vaa Waari.
+
+\t  rwòtt=à=m     rà c
+\m  rwòtt=à=m     rà c
+\g king=ATTR=REL 3s.be.bad.HAB
+\l the/a king who is bad
+
+\t lóc=à=m       rwòt òmò               ly è c   bò=té
+\m lóc=à=m       rwòt òmò               ly è c   bò=té
+\g man=ATTR=REL king      3s.give.PFV   elephant to=3s
+\l The man that the king gave an elephant to.
+
+\t rwòtt=à ràc
+\m rwòtt=à ràc
+\g king=ATTR bad
+\l the/a bad king
+
+\t gúlú     àd^k              òt ` `
+\m gúlú     àd^k              òt ` `
+\g  pot       three           3SG:die:   PERF
+\l Three pots broke
+
+\t àbínô          àbín  àwó'ró
+\m àbínô          àbín  àwó'ró
+\g 1SG.COME.PERF come.GER yesterday
+\l I did come yesterday
+
+\t ákô òmylò                  àmylâ
+\m ákô òmylò                  àmylâ
+\g girl     3SG.dance.PERF    dance.GER
+\l the girl just danced
+
+\t ` `o                          att`       rw`
+\m ` `o                          att`       rw`
+\g 1SG-want-PROG fat-INF exceed-INF king
+\l I want to be fatter than the king
+
+\t Dákó     òjwátò   lócà.
+\m Dákó     ò-jwát-ò   lócà.
+\g woman 3SG-hit-3 SG man
+\l The woman saw the man.
+
+\t Lócà    dákó     òjwátò.
+\m Lócà    dákó     ò-jwát-ò.
+\g man     woman 3SG-hit-3 SG
+\l The man was seen by the woman.
+

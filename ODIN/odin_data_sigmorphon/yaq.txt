@@ -1,0 +1,2525 @@
+\t 'aapo [DP 'uka    sialik   ti] kariek
+\m 'aapo [DP 'uka    siali-k   ti] kari-ek
+\g he        det.acc green-acc ti housei-perf
+\l He has that green house
+
+\t 'aapo     Huantau 'uka       vachita        makak
+\m 'aapo     Huan-tau 'uka       vachi-ta        maka-k
+\g he        John-dat det.acc corn-acc           give-perf
+\l He g     ave the corn to John
+
+\t 'aapo     Huanta 'uka        vachita       miikak
+\m 'aapo     Huan-ta 'uka        vachi-ta       miika-k
+\g he        John-acc det.acc corn-acc          give(food)-perf
+\l He g     ave John the corn.
+
+\t 'aapo 'uka    kava'ita ho'arata      vittuak
+\m 'aapo 'uka    kava'i-ta ho'ara-ta      vit-tua-k
+\g he det.acc horse-acc house-acc         see-cause-perf
+\l He showed the horse the house.
+
+\t 'aapo 'uka    kava'ita ho'arau       vittuak
+\m 'aapo 'uka    kava'i-ta ho'ara-u       vit-tua-k
+\g he det.acc horse-acc house-dat         see-cause-perf
+\l He sent the horse to the house.
+
+\t JoanØ      Peota       uka     vacita   miikak.
+\m Joan-Ø      Peo-ta       uka     vaci-ta   miika-k.
+\g Juan-NOM Pedro-ACC DET.ACC corn-ACC give-PERF
+\l Juan gave Pedro the corn.
+
+\t PeoØ        uka       vacita  miikwak.
+\m Peo-Ø        uka       vaci-ta  miik-wa-k.
+\g Pedro-NOM DET.ACC corn-ACC give-PASS-PERF
+\l Pedro was given the corn.
+
+\t b´.*U u         vaciØ      Peota miikwak.
+\m b´.*U u         vaci-Ø      Peo-ta miik-wa-k.
+\g      DET.NOM corn-NOM Pedro give-PASS-PERF
+\l The corn was given Peter.
+
+\t U u        maejto usita       mansanata yoemta miiktuak.
+\m U u        maejto usi-ta       mansana-ta yoem-ta miik-tua-k.
+\g DET.NOM teacher child-ACC apple-ACC man-ACC give-CAUS-PERF
+\l The teacher made the child give the man the apple.
+
+\t U u         usiØ        mansanata yoemta miiktuawak.
+\m U u         usi-Ø        mansana-ta yoem-ta miik-tua-wa-k.
+\g DET.NOM child-NOM apple-ACC man-ACC give-CAUS-PASS-PERF
+\l The child was made to give the man the apple.
+
+\t inepo karine
+\m inepo kari-ne
+\g I        house-FUT
+\l I will have a house.
+
+\t Hóanta huúbi
+\m Hóan-ta huúbi
+\g    John-GEN wife
+\l John's wife
+
+\t 'ín            tómi
+\m 'ín            tómi
+\g  1SG.POSS money
+\l my money
+
+\t Empo      Peota             bichak.
+\m Empo      Peo-ta             bicha-k.
+\g 2SG:NOM Pedro-ACC    see-PRFV
+\l You saw Pedro.
+
+\t a´. PeoØ      bitwak.
+\m a´. Peo-Ø      bit-wa-k.
+\g     Peo-NOM see-PASS-PRFV
+\l Pedro was seen.
+
+\t U o'ouØ       jamuttau      nookak.
+\m U o'ou-Ø       jamut-ta-u      nooka-k.
+\g the man-NOM woman-ACC-DIR talk-PRFV
+\l The man talked to the woman.
+
+\t b´. Jamuttau       nookawak.
+\m b´. Jamut-ta-u       nooka-wa-k.
+\g     woman-ACC-DIR talk-PASS-PRFV
+\l (Someone) talked to the woman.
+
+\t U goiØ          ume chu'uim ke'ekan.
+\m U goi-Ø          u-me chu'u-im ke'e-kan.
+\g the coyote-NOM the-PL dog-PL      bite-PASTC
+\l The coyote was biting the dogs.
+
+\t AureliaØ     [ enchi     laabenta ponakamta]              jikkak.
+\m Aurelia-Ø     [ enchi     laaben-ta pona-ka-m-ta]              jikka-k.
+\g Aurelia-NOM 2SG:ACC violin-ACC play-PRFV-NMZ-ACC   hear-PRFV
+\l Aurelia heard you play the violin.
+
+\t [ enchi   laabenta ponakamta]           jikkawak.
+\m [ enchi   laaben-ta pona-ka-m-ta]           jikka-wa-k.
+\g   2SG:ACC violin-ACC play-PRFV-NMZ-ACC hear-PASS-PRFV
+\l (Someone) heard that you play the violin.
+
+\t Nepo       si    majaen          [ ka nim           loteriata yo'onepo].
+\m Nepo       si    majae-n          [ ka nim           loteria-ta yo'o-ne-po].
+\g 1SG:NOM a lot be afraid-PASTC NEG 1SG:        GEN   lottery-ACC win-EXPE-CL    M
+\l I was afraid I would not win the lottery.
+
+\t PeoØ      [ kaba'im     enchi     jinuka`u]        sualen.
+\m Peo-Ø      [ kaba'i-m     enchi     jinu-ka-`u]        suale-n.
+\g Peo-NOM horse-PL          2SG:ACC buy-PRFV-CLM         believe-PASTC
+\l I believed that you had bought the horses.
+
+\t MariaØ     bo'obichaØ      [ simbaekai ]
+\m Maria-Ø     bo'obicha-Ø      [ sim-bae-kai ]
+\g Maria-NOM hope-PRES            go-DESID-CLM
+\l Mary hopes to leave.
+
+\t PeoØ       Goyota      toto'im suatuak
+\m Peo-Ø       Goyo-ta      toto'i-m sua-tua-k
+\g Pedro-NOM Goyo-ACC hen-PL           kill-cause-PRFV
+\l Pedro made Goyo to kill the hens.
+
+\t  JoanØ      tuuka       Tibuta      siimmaachiaØ.
+\m  Joan-Ø      tuuka       Tibu-ta      siim-maachia-Ø.
+\g Juan-NOM yesterday Tibu-ACC go-believe-PRES
+\l Juan believes Tibu to have left yesterday.
+
+\t GoyoØ     Tibuta     wakasta etbwakat'ean.
+\m Goyo-Ø     Tibu-ta     wakas-ta etbwa-ka-t-'ea-n.
+\g Goyo-NOM Tibu-ACC cow-ACC steal-PRFV-CLM-think-PASTC
+\l Goyo thought Tibu to have stoles the cow.
+
+\t GoyoØ      Tibuta    wakasta etbwaktian.
+\m Goyo-Ø      Tibu-ta    wakas-ta etbwa-k-tia-n.
+\g Goyo-NOM Tibu-ACC cow-ACC steal-PRFV-say-PASTC
+\l Goyo said you have stolen the cow.
+
+\t IvanØ        Florta    tubuktituak.
+\m Ivan-Ø        Flor-ta    tubukti-tua-k.
+\g  Ivan-NOM Flor-ACC jump-cause-PRFV
+\l Ivan made / let Flor jump.
+
+\t U tata paareØ ili uusita            teopota      tu'utenesu'utojak.
+\m U tata paare-Ø ili uusi-ta            teopo-ta      tu'ute-ne-su'utoja-k.
+\g the priest-NOM little child-ACC church-ACC fix-EXPE-allow-PRFV
+\l The priest allowed the child to clean the church.
+
+\t U tata paareØ ili    uusitai          su'utojak [ ai              teopota        tu'utene`u]
+\m U tata paare-Ø ili    uusi-tai          su'utoja-k [ ai              teopo-ta        tu'ute-ne-`u]
+\g the priest-NOM little child-ACC          allow-PRFV 3SG:     ACC      church-ACC     fix-EXPE-CLM 
+\l The priest allowed the child that he clean the church.
+
+\t U kapeØ           sebetaiteØ.
+\m U kape-Ø           sebe-taite-Ø.
+\g the coffee-NOM be cold-begin-PRES
+\l The coffee begins to become cold.
+
+\t Ume o'owim kuetem            pejtayaatek.
+\m U-me o'ow-im kuete-m            pejta-yaate-k.
+\g the-PL man-PL     firework-PL burst-stop-PRFV
+\l The men ceased setting off the fireworks.
+
+\t Ne          kaa yi'ibaeØ.
+\m Ne          kaa yi'i-bae-Ø.
+\g 1SG:NOM NEG dance-DESID-PRES
+\l I don't want to dance.
+
+\t Empo       Joanta     etpo          aniarokan.
+\m Empo       Joan-ta     et-po          ania-roka-n.
+\g 2SG:NOM Joan-ACC sown field-LOC help-PROMISE-PASTC
+\l You promised to help Juan in the sown field.
+
+\t Tuuka       beako LupeØ         teenkuk      [ Peota  kunakai].
+\m Tuuka       beako Lupe-Ø         teenku-k      [ Peo-ta  kuna-kai].
+\g yesterday night Lupe-NOM dream-PRFV              Peo-ACC marry-CLM
+\l Last night, Lupe dreamed of (herself) marrying Pedro.
+
+\t Nepo      [   Peota     enchi     kunakamta ]           teenkuk.
+\m Nepo      [   Peo-ta     enchi     kuna-ka-m-ta ]           teenku-k.
+\g 1SG:NOM        Peo-ACC 2SG:ACC marry-PRFV-NMZ-ACC    dream-PRF   V
+\l I dreamed    of Pedro marrying you!
+
+\t Nepo      [ puetata  nim        etaka`u]         wawaatek
+\m Nepo      [ pueta-ta  nim        eta-ka-`u]         wawaate-k
+\g 1SG:NOM door-ACC 1SG:GEN close-PRFV-CLM   remember-PRFV
+\l I remembered to have closed the door.
+
+\t Empo       aui    wawaatek              [ ume jiosia sewam enchi     ya'ane`u]i 
+\m Empo       aui    wawaate-k              [ u-me jiosia sewa-m enchi     ya'a-ne-`u]i 
+\g 2SG:NOM 3SG-DIR remember-PRFV     the-PL paper flower-PL 2SG:ACC        make-EXPE-CLM
+\l You remembered to do the paper flower.
+
+\t Empo       aui     wawaatek             [ ume jiosia sewam Carmenta     ya'aka`u]i 
+\m Empo       aui     wawaate-k             [ u-me jiosia sewa-m Carmen-ta     ya'a-ka-`u]i 
+\g 2SG:NOM 3SG-DIR remember-PRFV     the-PL paper flower-PL Carmen-ACC         make-PRFV-CLM
+\l You remembered it, that Carmen did the paper flower.
+
+\t AureliaØ       [ enchi    laabenta ponakamta]                 jikkak.
+\m Aurelia-Ø       [ enchi    laaben-ta pona-ka-m-ta]                 jikka-k.
+\g  Aurelia-NOM 2SG:ACC violin-ACC play-PRFV-NMZ-ACC    hear-PRFV
+\l Aurelia heard you play the violin.
+
+\t AureliaØ       enchi      laabenta ponajikkak.
+\m Aurelia-Ø       enchi      laaben-ta pona-jikka-k.
+\g  Aurelia-NOM 2SG:ACC violin-ACC play-hear-PRF           V
+\l Aurelia heard you playing the violin.
+
+\t AureliaØ       [ enchi    laabenta        ponakan`u]        jikkak.
+\m Aurelia-Ø       [ enchi    laaben-ta        pona-kan-`u]        jikka-k.
+\g  Aurelia-NOM 2SG:ACC violin-ACC             play-PASTC-CL   M   hear-PRFV
+\l Aurelia heard that you were playing     the violin.
+
+\t Ne           (nuen) `eaØ         [ Aureliata  yooko        yi'ine`u].
+\m Ne           (nuen) `ea-Ø         [ Aurelia-ta  yooko        yi'i-ne-`u].
+\g   1SG:NOM thus think-PRES Aurelia-ACC tomorrow dance-EXPE-CLM
+\l I think that Aurelia will dance tomorrow (but I am not sure).
+
+\t Ne           Peota    kaba'ita jinukat'ean.
+\m Ne           Peo-ta    kaba'i-ta jinu-ka-t-'ea-n.
+\g   1SG:NOM Peo-ACC horse-ACC buy-PRFV-CLM-think-PASTC
+\l I thought Pedro bought a horse.
+
+\t AureliaØ      junuen'eaØ     [ enchi     karita tu'utene`u].
+\m Aurelia-Ø      junuen'ea-Ø     [ enchi     kari-ta tu'ute-ne-`u].
+\g Aurelia-NOM wish-PRES            2SG:ACC house-ACC fix-EXPE-CLM
+\l Aurelia wishes that you would clean the house.
+
+\t AureliaØ       karita     enchi      tu'ute'ii'aaØ.
+\m Aurelia-Ø       kari-ta     enchi      tu'ute-'ii'aa-Ø.
+\g Aurelia-NOM house-ACC 2SG:ACC fix-want-PRES
+\l Aurelia wants you to clean the house.
+
+\t Ne          ju'uneak    [ enchi     kaba'ita jinukan`u].
+\m Ne          ju'unea-k    [ enchi     kaba'i-ta jinu-kan-`u].
+\g  1SG:NOM know-PRFV         2SG:ACC horse-ACC buy-PASTC-CL      M
+\l I knew that you were buying a horse.
+
+\t Ne         ai         ju'uneeyak [ kaba'ita am            jinukan`u]i
+\m Ne         ai         ju'uneeya-k [ kaba'i-ta am            jinu-kan-`u]i
+\g 1SG:NOM 3SG:ACC know-PRFV            horse-ACC 2PL:   ACC   buy-PASTC-CL    M
+\l I knew it, that they were buying a horse.
+
+\t PeoØ      Goyota       tuuka     kaba'ita    etbwaktiaØ
+\m Peo-Ø      Goyo-ta       tuuka     kaba'i-ta    etbwa-k-tia-Ø
+\g Peo-NOM Goyo-ACC yesterday horse-ACC steal-PRFV-SAY-PRES
+\l Pedro says Goyo have stolen the horse yesterday.
+
+\t PeoØ        junuen jiiane: GoyoØ       kaba'ita etbwa`e.
+\m Peo-Ø        junuen jiia-ne: Goyo-Ø       kaba'i-ta etbwa-`e.
+\g Peo-NOM       this    say-EXPE Goyo-ACC horse-ACC steal-IMPE                      R
+\l Pedro will say:"Goyo, steal the horse!
+
+\t huka        ili      usita        ne   tehwak    aman a    weesaekai
+\m hu-ka        ili      usi-ta        ne   tehwa-k    aman a    wee-sae-kai
+\g this-DEP little child-DEP I              tell-STA   there him go-PURP-DEP
+\l I told the little girl to go there.
+
+\t in   kuuna    bacita      ho/arapo nee               hipu/i/a
+\m in   kuuna    baci-ta      ho/ara-po nee               hipu-/i/a
+\g my husband corn-DEP        house-in      I             have-PURP
+\l My husband makes me keep corn in the house.
+
+\t a.JoanØ      Peota       uka     vacita   miikak.
+\m a.Joan-Ø      Peo-ta       uka     vaci-ta   miika-k.
+\g   Juan-NOM Pedro-ACC DET.ACC corn-ACC give-PERF
+\l Juan gave Pedro the corn.
+
+\t PeoØ        uka       vacita  miikwak.
+\m Peo-Ø        uka       vaci-ta  miik-wa-k.
+\g Pedro-NOM DET.ACC corn-ACC give-PASS-PERF
+\l Pedro was given the corn.
+
+\t b´.*U u         vaciØ      Peota miikwak.
+\m b´.*U u         vaci-Ø      Peo-ta miik-wa-k.
+\g      DET.NOM corn-NOM Pedro give-PASS-PERF
+\l The corn was given Pedro.
+
+\t a.U u        maejto usita       mansanata yoemta miiktuak.
+\m a.U u        maejto usi-ta       mansana-ta yoem-ta miik-tua-k.
+\g   DET.NOM teacher child-ACC apple-ACC man-ACC give-CAUS-PERF
+\l The teacher made the child give the man the apple.
+
+\t U u         usiØ        mansanata yoemta miiktuawak.
+\m U u         usi-Ø        mansana-ta yoem-ta miik-tua-wa-k.
+\g DET.NOM child-NOM apple-ACC man-ACC give-CAUS-PASS-PERF
+\l The child was made to give the man the apple.
+
+\t Née mukuko           kát=e`em      hi'osiata née sewátua.
+\m Née muku-k-o           kát=e`em      hi'osia-ta née sewá-tua.
+\g I     die-PERF-when NEG=you:PL paper-ACC me flower-cause
+\l When I die, don't put paper flowers on me.
+
+\t Hunáa'a yá'uraa hunáka'a hámutta nokriak.
+\m Hunáa'a yá'uraa hunáka'a hámutta nokriak.
+\g that     chief that        woman defend
+\l That chief defended that woman.
+
+\t Taáwe tótoi'asó'olam káamomólim híbatu'ure.
+\m Taáwe tótoi'asó'olam káamomólim híba-tu'ure.
+\g Hawk chickens        young         like
+\l (The) hawk likes young chickens.
+
+\t Tá'abwikasu           'áma yépsak.
+\m Tá'abwikasu           'áma yépsak.
+\g  different-person     there arrived
+\l A different person arrived there.
+
+\t Peo Huanta chochonak.
+\m Peo Huan-ta chochon-ak.
+\g Pete John-ACC punch-PERF
+\l Pete punched John.
+
+\t a') Huan chochonwak.
+\m a') Huan chochon-wa-k.
+\g     John punch-WA-PERF
+\l John was punched.
+
+\t `Ume uusim uka kuchuta kuchi'immea bwa'aka.
+\m `Ume uusi-m uka kuchu-ta kuchi'i-m-mea bwa'a-ka.
+\g the children-PL the-ACC fish-ACC knife-PL-INST eat-PERF
+\l The children ate the fish with knives.
+
+\t b') `U kuchu kuchi'immea bwa'awak.
+\m b') `U kuchu kuchi'i-m-mea bwa'a-wa-k.
+\g     the fish knife-PL-INST eat-WA-PERF
+\l The fish was eaten with knives.
+
+\t Peo bwiika.
+\m Peo bwiika.
+\g Pete sing
+\l Pete is singing.
+
+\t 'U wikia chukte.
+\m 'U wikia chukte.
+\g the rope come.loose
+\l The rope is coming loose.
+
+\t `U kaaro nasonte.
+\m `U kaaro nasonte.
+\g the car damage
+\l The car is damaged.
+
+\t `U kari veetek.
+\m `U kari veete-k.
+\g The house burn-PERF
+\l The house burned.
+
+\t `U vachi bwase'e.
+\m `U vachi bwase'e.
+\g The corn cook
+\l The corn is cooking.
+
+\t [Joan bwika]          into [Peo into          Maria ye'e].
+\m [Joan bwika]          into [Peo into          Maria ye'e].
+\g [John sing.PRS]       and   [Peter and        Maria dance.PRS   ]
+\l John sings and Peter and Mary dance.
+
+\t [Diana a=tu'urek]            [Peo into a                     jinuk].
+\m [Diana a=tu'ure-k]            [Peo into a                     jinu-k].
+\g [Diana 3NNOM.SG=like-PST] [Peter and 3NNOM.SG        buy-PST]
+\l Diana liked it and Peter bought it.
+
+\t [ju'u o'ou kia        au=`omte       mta      benasi]        [amau a'a=to'o               simlataka], [káa        au=bitchu      intoko].   
+\m [ju'u o'ou kia        a-u=`omte       mta      benasi]        [amau a'a=to'o               simlataka], [káa        a-u=bitchu      intoko].   
+\g [DET man just 3NNOM.SG-DIR=angry                like]         [back 3NNOM.SG=leave         went]       [not        3NNOM.SG-DIR=look and just]
+\l The man looks as though he is angry with her,       so he is leaving her behind and does not even look at her.
+
+\t [ili jamut yepsakai], [jichikiata       nu'ukai], [jichiktaitek].
+\m [ili jamut yepsa-kai], [jichikia-ta       nu'u-kai], [jichik-taite-k].
+\g [small woman arrive-SUB], [broom-NNOM.SG take-SUB], [sweep-INC-PST]
+\l The young woman arrived, she took the broom (and) she began to sweep.
+
+\t Alejandra      masota                     meak.
+\m Alejandra      maso-ta                     mea-k.
+\g Alejandra      deer-NNOM.SG            kill.SG.OBJ-PST
+\l Alejandra killed a deer.
+
+\t Alejandra masota                         suak.
+\m Alejandra maso-ta                         sua-k.
+\g  Alejandra     deer-NNOM.SG                kill.PL.OBJ-PST
+\l Alejandra killed a deer.
+
+\t Alejandra      [masota              into             kowita]        meak.
+\m Alejandra      [maso-ta              into             kowi-ta]        mea-k.
+\g Alejandra      [deer-NNOM.SG         and              [pig-NNOM.SG] kill.SG.OBJ-PST
+\l Alejandra killed a deer and a pig.
+
+\t Alejandra [masota                    into           kowita]        suak.
+\m Alejandra [maso-ta                    into           kowi-ta]        sua-k.
+\g Alejandra      [deer-NNOM.SG           and            pig-NNOM.SG]   killed.PL.OBJ-PST
+\l Alejandra killed a deer and a pig.
+
+\t Ruben ejkuelapo      ji'osiam      to'osiika.
+\m Ruben ejkuela-po      ji'osia-m      to'o-siika.
+\g Ruben school-LOC book-PL             leave-go.PST
+\l Ruben left the books in the school and left.
+
+\t Ruben ejkuelapo      am=to'osiika jume ji'osiam.
+\m Ruben ejkuela-po      am=to'o-siika jume ji'osia-m.
+\g Ruben school-LOC 3NNOM.PL=leave-go.PST DET.PL book-PL
+\l Ruben left the books in the school and left.
+
+\t inepo joantamak             teopo       bwiikak.
+\m inepo joan-ta-mak             teo-po       bwiika-k.
+\g 1SG John-NNOM.SG-COM church-LOC            sing-PST
+\l I sang in the church with John.
+
+\t inepo teopo          bwiikak      joantamak.
+\m inepo teo-po          bwiika-k      joan-ta-mak.
+\g 1SG church-LOC sing-PST             John-NNOM.SG-COM
+\l I sang in the church with John.
+
+\t Simon [uka          jamuta           [a=bépsukau]]                  waata.
+\m Simon [uka          jamu-ta           [a=bép-su-ka-u]]                  waata.
+\g Simon DET.NNOM.SG woman-NNOM.SG NNOM.SG=hit-CO            MPL-PST-REL   love.PRS
+\l Simon loves the woman that hit him/that he hit.
+
+\t Simon [uka           jamuta]              waata           [a=bépsukau].
+\m Simon [uka           jamu-ta]              waata           [a=bépsuka-u].
+\g Simon DET.NNOM.SG woman-NNOM.SG love.PRS                   3SG.OBJ=hit-RE   L
+\l Simon loves the woman that hit him/that he hit.
+
+\t María tuuka      [Peotau             into Pablotau]             nookak.
+\m María tuuka      [Peo-ta-u             into Pablo-ta-u]             nooka-k.
+\g  Mary yesterday [Peter-NNOM.SG-DIR and Pablo-NNOM.SG-DIR]   speak-PST
+\l Mary spoke to Peter and Pablo yesterday.
+
+\t [Joan], [Peo], [María], [Carlos], (into) [Tiibu]             si'ime bwiikak.
+\m [Joan], [Peo], [María], [Carlos], (into) [Tiibu]             si'ime bwiika-k.
+\g  [John] [Peter] [Maria] [Carlos]      (and) [Tiburcio]       all    sing-PST
+\l John, Peter, María, Carlos, (and) Tiburcio, all of them sang.
+
+\t Wiikit into taawe           ne'e.
+\m Wiikit into taawe           ne'e.
+\g bird and sparrowhawk fly.PRS
+\l The bird and the sparrowhawk are flying.
+
+\t María Peota           [juka                 lapista]                              into       [juka         yokiata]      mikbae.
+\m María Peo-ta           [juka                 lapis-ta]                              into       [juka         yokia-ta]      mik-bae.
+\g  Maria Peter-NNOM.SG DET.NNOM.SG             pencil-NNOM.SG        and                         DET.NNOM.SG pen-NNOM.SG gift-INT     
+\l María will give a pencil and a pen to Peter.
+
+\t [Kaba'i]       into [buuru]          ousi bwebwerem.
+\m [Kaba'i]       into [buuru]          ousi bwe-bwere-m.
+\g   Horse        and donkey            very RED-big-PL
+\l The horse and the donkey are really big.
+
+\t Joan [bemek]         into [tutulik]                             jamutta                  bichak.
+\m Joan [beme-k]         into [tutuli-k]                             jamut-ta                  bicha-k.
+\g  John young-NNOM and        beautiful-NNOM                        woman-NNOM.SG      see-PST
+\l John saw the young and beautiful woman.
+
+\t Joan [bemek]               into [tutulik]                            bichak.
+\m Joan [beme-k]               into [tutuli-k]                            bicha-k.
+\g John young-NNOM.SG          and beautiful-NNOM.SG        see-PST
+\l John saw the young (one) and beautiful one.
+
+\t Aapo [junak]           into [ketun ian]                  maestro.
+\m Aapo [junak]           into [ketun ian]                  maestro.
+\g  3SG then              and      still                    today teacher
+\l (S)he was and is today still a teacher.
+
+\t Joan      amau jo'arapo           bachita            e'echak into    bichapo         ketchia.
+\m Joan      amau jo'ara-po           bachi-ta            e'echa-k into    bicha-po         ketchia.
+\g John      behind house-LOC          corn-NNOM.SG plant-PST and          in.front-LOC     too
+\l John planted corn behind the house and in front too.
+
+\t Joan [torimpo]       into [bicampo]                   tekipanoa
+\m Joan [torim-po]       into [bicam-po]                   tekipanoa
+\g  John Torim-LOC and          Vicam-LOC                  work.PRS
+\l John works in Torim and in Vicam.
+
+\t Joan [bicha]            into          [jikkaja].
+\m Joan [bicha]            into          [jikkaja].
+\g  John see.PRS           and           hear.PRS
+\l Juan sees and hears.
+
+\t Peo [jita             jinu]                 into     [jita            nenka].
+\m Peo [jita             jinu]                 into     [jita            nenka].
+\g Peter something       buy.PRS               and      something        sell.PRS
+\l Pedro buys and sells something.
+
+\t Peo [jita           [jinu           into            nenka]].
+\m Peo [jita           [jinu           into            nenka]].
+\g Peter something       buy.PRS        and             sell.PRS
+\l Pedro buys and sells something.
+
+\t Joan ji'osiam         mariata               maakak Peo into                     au          am=nenkak.      
+\m Joan ji'osiam         maria-ta               maaka-k Peo into                     a-u          am=nenka-k.      
+\g  John book            Maria-NNOM.SG          give-PST Peter and                   him-to       3NNOM.SG=sell-PST
+\l John gave a book to Maria and Peter sold it to her.
+
+\t U      cu'u [wakasta        batte                   ke'eka]      into         [uka         parosta        batte                   bwiisek].
+\m U      cu'u [wakas-ta        batte                   ke'e-ka]      into         [uka         paros-ta        batte                   bwiise-k].
+\g DET    dog cow-NNOM.SG almost                        bite-PST      and          DET.NNOM.SG hare-NNOM.SG almost                      catch-PST 
+\l The dog almost bites the cow and it almost          caught the hare.
+
+\t Ume usim [bubusala(mme)]          into [enchi             nattemai(mme)].
+\m Ume usi-m [bu-busala(mme)]          into [enchi             nattemai(mme)].
+\g DET.PL boy-PL RED-awake.PRS (PL) and        2PL.OBL         ask.PRS (PL)
+\l The children are awake and asking for you.
+
+\t Nee jo'arau           siika.
+\m Nee jo'ara-u           siika.
+\g 1SG house-DIR          go.PST
+\l I went home.
+
+\t Nee lunestuk       siika.
+\m Nee lunes-tu-k       siika.
+\g 1SG Monday-VERB-when go.PST
+\l I left Monday.
+
+\t Nee jo'arau         lunestuk siika.
+\m Nee jo'ara-u         lunes-tu-k siika.
+\g 1SG house-DIR        Monday-VERB-when go.PST
+\l I went to the home Monday.
+
+\t [Joan bwitek]        bweta [Peo e'e].
+\m [Joan bwite-k]        bweta [Peo e'e].
+\g  John run-PST         but      Peter not
+\l John ran but Peter did not.
+
+\t Ruben tekipanoa o           matematikam                emo majta.
+\m Ruben tekipanoa o           matematika-m                emo majta.
+\g Ruben work.PRS       or     mathematics-PL              3REFL teach.PRS
+\l Ruben works or studies mathematics.
+
+\t [Dalia bwikak]       [Peo into          ji'ibwak].
+\m [Dalia bwika-k]       [Peo into          ji'ibwa-k].
+\g Dalia sing-PST        Peter and          eat-PST
+\l Dalia sang and Peter ate.
+
+\t [Joan bwiteka]      [po'opo'otisimeka]              [yo'ok].
+\m [Joan bwite-ka]      [po'o-po'oti-sime-ka]              [yo'o-k].
+\g John run-GER         RDP-bend.down-go.SG-GER    win-PST
+\l John running (and) bending down won.
+
+\t [kaa            tata]           ta       into   [kaa   seebe juni].
+\m [kaa            ta-ta]           ta       into   [kaa   seebe juni].
+\g NEG             RED-hot          but      and    NEG    cold either
+\l It is not hot but it is not cold either.
+
+\t [Joan kotpea]        bweytuk        [aapo kaa     allea].
+\m [Joan kot-pea]        bweytuk        [aapo kaa     allea].
+\g [John sleep-DES]      because        [3SGP not     happy]
+\l John wants to sleep because he is not happy.
+
+\t bweytuk       [aapo kaa      allea]         [Joan kotpea].
+\m bweytuk       [aapo kaa      allea]         [Joan kot-pea].
+\g because       [3SGP not      happy]         [John sleep-DES]
+\l John wants to sleep because he is not happy.
+
+\t [Joan kotpea]        into/bweta/o/          [áapo kaa       allea].
+\m [Joan kot-pea]        into/bweta/o/          [áapo kaa       allea].
+\g [John sleep-DES]      and/but/or/            [SG   not       happy]
+\l John wants to sleep and/but/or/ he is not happy.
+
+\t [Jorge tuuka     namuken] into         bweytuk        [neé=chaek,              née    a=tetemuk].           
+\m [Jorge tuuka     namuken] into         bweytuk        [neé=chae-k,              née    a=tetemu-k].           
+\g [Jorge yesterday drunk]   and          because        [1NNOM.SG=crie-PST        1SG 3NNOM.SG         kick-PST]
+\l Jorge was drunk yesterday and because he cried to me, I kicked him.
+
+\t [ini'i chu'u ousi junera] ta into [in           maala a=tu'ule].
+\m [ini'i chu'u ousi junera] ta into [in           maala a=tu'ule].
+\g [this dog       very ugly] but and [3SG.POSS mother 3NNOM.SG=like.PRS]
+\l This dog is very ugly but my mother loves it.
+
+\t Andrea        [bwika]          into    [yeewe].
+\m Andrea        [bwika]          into    [yeewe].
+\g Andrea        [sing.PRS]       and     [play.PRS]
+\l Andrea sings and plays.
+
+\t Fabian        carota        [jinuk]          into   [a=nenkak].
+\m Fabian        caro-ta        [jinu-k]          into   [a=nenkak].
+\g Fabián       car-NNOM.SG [buy-PST]            and    [3NNOM.SG=sell-PST  ]
+\l Fabian bougth and sold the car.
+
+\t Fabián       carota        [jinuk]         into   [nenkak].
+\m Fabián       caro-ta        [jinu-k]         into   [nenka-k].
+\g  Fabián       car-NNOM.SG [buy-PST]           and    [sell-PST]
+\l Fabian bougth and sold the car.
+
+\t Paola [wepul          na'asota]      into [wepul mansanata]                 bwaka.
+\m Paola [wepul          na'aso-ta]      into [wepul mansana-ta]                 bwa-ka.
+\g  Paola one            orange-NNOM.SG and one apple-NNOM.SG          eat-PST
+\l Paola ate one orange and one apple.
+
+\t Paola [wepul          na'asota]              bwaka into    [wepul mansanata].
+\m Paola [wepul          na'aso-ta]              bwa-ka into    [wepul mansana-ta].
+\g Paola one             orange-NNOM.SG          eat-PST and     one apple-NNOM.SG
+\l Paola ate one orange and one apple.
+
+\t Paulina       [bemelak              into teebek]           bichak.
+\m Paulina       [bemela-k              into teebe-k]           bicha-k.
+\g  Paulina       young-NNOM.SG         and tall-NNOM.SG   see-PST
+\l Paulina saw the young and (the) tall (one).
+
+\t Paulina       [bemelak]              bichak        into    [teebek].
+\m Paulina       [bemela-k]              bicha-k        into    [teebe-k].
+\g Paulina       young-NNOM.SG           see-PST        and     tall-PST
+\l Paulina saw the young and the tall.
+
+\t María into Peo nau                   sajak.
+\m María into Peo nau                   saja-k.
+\g Mary and Peter together              go.PL-PST
+\l Mary and Peter left together.
+
+\t Maria tajta'im         ya'ak          into María             tajka'im bwaka
+\m Maria tajta'im         ya'ak          into María             tajka'im bwa-ka
+\g María i tortillas      make-PST       and María    *i/j      tortillas eat-PST
+\l Maríai made tortillas and María j ate tortillas.
+
+\t Maria tajta'im         ya'ak          into María             tajka'im bwaka
+\m Maria tajta'im         ya'ak          into María             tajka'im bwa-ka
+\g María i tortillas      make-PST       and María    i/*j      tortillas eat-PST
+\l Maríai made tortillas and María i ate tortillas.
+
+\t Maria tajta'im        ya'ak           into   Ø        tajka'im      bwaka
+\m Maria tajta'im        ya'ak           into   Ø        tajka'im      bwa-ka
+\g María tortillas       make-PST        and             tortillas     at-PST
+\l Maria made tortillas and ate tortillas.
+
+\t Maria tajta'im        ya'ak          into          Ø      am=bwaka
+\m Maria tajta'im        ya'ak          into          Ø      am=bwa-ka
+\g María tortillas       make-PST       and                  3NNOM.PL=eat-PST
+\l María made tortillas and ate them.
+
+\t ¿jitá yeu siika?
+\m ¿jitá yeu siika?
+\g What out     going.SG?
+\l What's going on?
+
+\t Peo juka              wikitta    bwisek Diana into       a=nenkak.
+\m Peo juka              wikit-ta    bwise-k Diana into       a=nenka-k.
+\g Peter DET.NNOM        bird-NNOM grasp-PST Diana and        3NNOM.SG=    sell-PST
+\l Peter grasped the bird and Diana sold it.
+
+\t ¿jitá empo ya'ak?
+\m ¿jitá empo ya'a-k?
+\g What 2SG do-PST
+\l What did you do?
+
+\t née    [bocham            into               supem]            jinuk.
+\m née    [bocham            into               supem]            jinuk.
+\g 1SG shoes                 and                shirt    bought
+\l I bought shoes and     shirts.
+
+\t Née    [bocham]       jinuk                  [into    supem].
+\m Née    [bocham]       jinuk                  [into    supem].
+\g 1SG shoes             bought                   and    shirt.
+\l I bought shoes and shirts.
+
+\t Maria nojim          ya'asuk              Peo into                   am=nenkak.
+\m Maria nojim          ya'a-su-k              Peo into                   am=nenka-k.
+\g Maria tamal.PL       make-TERM-PST          Peter and                  3NNOM.PL=sell-PST
+\l Maria finished doing the tamales and Peter sold them.
+
+\t jitá          yeu siika?
+\m jitá          yeu siika?
+\g What out      go.SG
+\l What's going on/ what happened?
+
+\t [ju'u chu'u misita          ke'eka],             [Diana     into a=bebak].
+\m [ju'u chu'u misi-ta          ke'e-ka],             [Diana     into a=beba-k].
+\g [DET dog cat-NNOM.SG bite-PST]                     [Diana     and 3NNOM.SG=hit-PST   ]
+\l The dog bit the cat and Diana hit it.
+
+\t [Pablo ji'osiam      jinuk],     [María into yokiata].
+\m [Pablo ji'osiam      jinu-k],     [María into yokia-ta].
+\g [Pablo book          buy-PST],    [Mary and pen-NNOM.SG]
+\l Pablo bought a book and Mary a pen.
+
+\t [inepo Dianata               bichak,], [apoik   achai into                ketchia].
+\m [inepo Diana-ta               bicha-k,], [apoik   achai into                ketchia].
+\g [1SG Diana-NNOM.SG            see-PST], [3SG.POSS father and                too]
+\l I saw Diana and her father (saw her) too.
+
+\t [empo yeewek],      [inepo into           kochok].
+\m [empo yeewe-k],      [inepo into           kocho-k].
+\g [2SG play-PST]       [2SG and              sleep-PST]
+\l You played and I slept.
+
+\t [Aapo          kuchureo]         [into  aapo             bochareo].
+\m [Aapo          kuchureo]         [into  aapo             bochareo].
+\g [3SG           fisherman]        [and   3SG              shoemaker].
+\l Hei is a fisherman and hei is a shoemaker.
+
+\t [*ju'u chu'u misíta          ke'eka],     into              [Diana a=bebak].
+\m [*ju'u chu'u misí-ta          ke'e-ka],     into              [Diana a=beba-k].
+\g [ DET dog cat-NNOM.SG bite-PST]             and               [Diana 3NNOM.SG=hit-PST   ]
+\l The dog bit the cat and Diana hit him.
+
+\t [Pablo       ji'osiam     jinuk],                  into     [Maria yokiata].
+\m [Pablo       ji'osiam     jinu-k],                  into     [Maria yokia-ta].
+\g [Pablo        book         buy-PST]                  and      [Mary pen-NNOM.SG]
+\l Pablo bought a book and María a pen.
+
+\t [*inepo       Dianata               bichak],into [apoik                       achai ketchia].
+\m [*inepo       Diana-ta               bicha-k],into [apoik                       achai ketchia].
+\g [1SG          Diana-NNOM.SG.see-PST], and [3SG.POSS                    father too]
+\l I saw Diana and her father as well.
+
+\t [*empo       yeewek],             into     [inepo kochok].
+\m [*empo       yeewe-k],             into     [inepo kocho-k].
+\g [2SG         play-PST]             and      [1SG sleep-PST]
+\l You played and I slept.
+
+\t (nii juya)... [ian intok ujúyoisi             sawak].
+\m (nii juya)... [ian intok ujúyoisi             sawa-k].
+\g  this tree [now and            beautifully    leaves-POSS]
+\l This tree ... and now it's beautiful with leaves.
+
+\t (ilí    chu'u)..[kaa intok a'a=jajáseka]                [intok a'a=ta'áruk].
+\m (ilí    chu'u)..[kaa intok a'a=jajáse-ka]                [intok a'a=ta'áru-k].
+\g (little dog)...[not and       3NNOM.SG=follow-GER][and 3NNOM.SG=lost-PST   ]
+\l (The little dog) is not following it and lost it.
+
+\t [ií    into o'óu im mesata         bepa juka kuj        kutáta]         [toósiká].  
+\m [ií    into o'óu im mesa-ta         bepa juka kuj        kutá-ta]         [toó-siká].  
+\g [this and man here table-NNOM.SG upon this cross wood-NNOM.SG]            [leave-go.PL]
+\l And this man has laid the rosary wood on top of the table (and) left.
+
+\t [ií    into yoéme           jaksuma        yeu siika],     [jaibu                     juchi         aman aánneka             jum kujta                 bepa a'a=katek].       
+\m [ií    into yoéme           jak-su-ma        yeu siika],     [jaibu                     juchi         aman aánne-ka             jum kuj-ta                 bepa a'a=kate-k].       
+\g [this and man                where-INT-there out go.SG.PST] [already                    again         yonder be-SUB             there cross-NNOM.SG        on     3NNOM.SG=sit-PST]
+\l And this man, comi       ng out from somewhere again, is again there by               the cross.
+
+\t jitá  yeu siika?
+\m jitá  yeu siika?
+\g what out      go.SG
+\l What's going on/ what happened?
+
+\t [Joan chu'uta        beébak]               [into Ø           miísita          beébak].
+\m [Joan chu'u-ta        beéba-k]               [into Ø           miísi-ta          beéba-k].
+\g [John dog-NNOM.SG hit-PST]                   [and Ø            cat-NNOM.SG     hit-PST]
+\l John hit the dog and hit the cat.
+
+\t [Yoeme      bwiíka]        [into [Peo into                    Diana]            ye'emme].
+\m [Yoeme      bwiíka]        [into [Peo into                    Diana]            ye'e-mme].
+\g [Man        sing.PRS]      [and Peter and                     Diana             dance.PRS-3PL]
+\l The man sings and Peter and Diana dance.
+
+\t [Yoeme       bwiíka]       [[Peo into Diana] into                     ye'e].
+\m [Yoeme       bwiíka]       [[Peo into Diana] into                     ye'e].
+\g  [Man         sing.PRS]     [[Peter and Diana] and                     dance.PRS]
+\l The man sings and Peter and Diana dance.
+
+\t Jitapo      aapo tekipanoa?
+\m Jita-po      aapo tekipanoa?
+\g What-LOC     3SG work.PRS
+\l What does he work on?
+
+\t [Aapo kuchureo]       [into aapo bochareo].
+\m [Aapo kuchureo]       [into aapo bochareo].
+\g [3SG fisherman]       [and 3SG shoemaker]
+\l Hei is a fisherman and hei is a shoemaker.
+
+\t Jitapo       bempo tekipanoa?
+\m Jita-po       bempo tekipanoa?
+\g What-LOC      3PL   work.PRS?
+\l What do they work on?
+
+\t [Aapo kuchureo]       [aapo into bochareo].
+\m [Aapo kuchureo]       [aapo into bochareo].
+\g [3SG fisherman]       [3SG and shoemaker]
+\l Hei is a fisherman and hej (another guy) is a shoemaker.
+
+\t [Aapo kuchureo]       [into Ø      bochareo].
+\m [Aapo kuchureo]       [into Ø      bochareo].
+\g [3SG fisherman]       [and Ø       shoemaker]
+\l He is a fisherman and a shoemaker.
+
+\t [Aapo bwiíka ]         [into aapo ye'e].
+\m [Aapo bwiíka ]         [into aapo ye'e].
+\g [3SG sing.PRS]         [and 3SG dance.PRS]
+\l Hei is singing and hei (the same guy) is dancing.
+
+\t [Aapo bwiíka]          [aapo into ye'e].
+\m [Aapo bwiíka]          [aapo into ye'e].
+\g [3SG sing.PRS]         [3SG and dance.PRS]
+\l Hei is singing and hej (another guy) is dancing.
+
+\t [Aapo bwiíka]         [into Ø              ye'e].
+\m [Aapo bwiíka]         [into Ø              ye'e].
+\g [3SG sing.PRS         [and Ø               dance.PRS]
+\l He is singing and dancing.
+
+\t [...júébena wakásim         áe      áwine]        [intok áe       ji'ibwane],        [into jipi'ikim      júébenáne]...
+\m [...júébena wakásim         áe      áwi-ne]        [intok áe       ji'ibwa-ne],        [into jipi'ikim      júébená-ne]...
+\g [...much      cattle        with.it fatten-FUT] [and with.it eat-FUT],                 [and milk            much-FUT]...  
+\l Much cattle will fatten with it, and will eat it, and will be plenty of milk...
+
+\t [juchi `ae=konila     sikaa]     [intok jo'ot         `a'a=siisek].
+\m [juchi `ae=koni-la     sik-aa]     [intok jo'o-t         `a'a=siise-k].
+\g  again 3SG=circle-ADV go-PPL       and back-LOC          3NNOM.SG=urinate-PST
+\l And having going around him, it urinated on his back.
+
+\t [juchi `ae=konila     sikaa]        [jo'ot      intok `a'a=siisek].
+\m [juchi `ae=koni-la     sik-aa]        [jo'o-t      intok `a'a=siise-k].
+\g  again 3SG=circle-ADV go-PPL          back-LOC and 3NNOM.SG=urinate-PST
+\l And having going around him, it urinated on his back.
+
+\t [intok júmak ne       kaa     am=teakaatek(o) ]             [inepo intok        ino    tá'aruka'atek(o)]...
+\m [intok júmak ne       kaa     am=teakaate-k(o) ]             [inepo intok        ino    tá'aruka'ate-k(o)]...
+\g and maybe 1SG not             3NNOM.PL=find-COND              1SG and            1REFL lost-COND...          
+\l And perhaps if I don't find them, and if I get lost...
+
+\t        [...into junen au=jia                 kaa    ama yoeka'atek juni'i kia]
+\m        [...into junen au=jia                 kaa    ama yoeka'ate-k juni'i kia]
+\g ...and thus 3SG.OBL=say.PRS          not    there escape-PST     even just
+\l ...'And thus say to him, I did not escape...
+
+\t        [...intok       junuen jum joarapo           waiwa korapo ansisime]
+\m        [...intok       junuen jum joara-po           waiwa kora-po an-si-sime]
+\g ...and          that-way there home-LOC       inside fence-LOC walk-RED-go.PRS
+\l ...`And he is acting that way in this house inside the fence.' Crumrine
+
+\t [into=ne      kaa   jabem        neu           yajak        junii...]
+\m [into=ne      kaa   jabe-m        neu           yajak        junii...]
+\g and=1SG       not   someone-PL 1SG.OBL          come.PL.PST even
+\l And even if someone does not comeby'...
+
+\t          ...[ito am      bitbaeo              intok] [bemposu bina 11 botana          itom ane'e beas yajak...].              
+\m          ...[ito am      bit-bae-o              intok] [bempo-su bina 11 botana          itom ane'e beas yajak...].              
+\g ...[1PL 3PL.OBJ see-INTT-TEMP          and] [3SG-and    this side                        1PL are        of      arrive.PL.PST...]
+\l And (since) we wanted to see them, and they came over to this side where we are.
+
+\t [ju'u         o'ou kia        au=`omte                 mta      benasi],          [amau a'a=to'o simlataka], [káa                      au=bitchu        intoko].             
+\m [ju'u         o'ou kia        au=`omte                 mta      benasi],          [amau a'a=to'o simlataka], [káa                      au=bitchu        intoko].             
+\g [DET          man just 3SG.OBL=angry                          like]               [back 3NNOM.SG=leave went]                [not                  3SG.OBL=look      and just]
+\l The man looks as though he is angry with her,                   so he is leaving her behind and does not even look at her.
+
+\t [ju'u    ó'óu      kía        au=`ómtemta       benási],    [amáu a'a=tó'o           símlataka],        [intok     kía      káa áu               bitchu]  
+\m [ju'u    ó'óu      kía        au=`ómtemta       benási],    [amáu a'a=tó'o           símlataka],        [intok     kía      káa áu               bitchu]  
+\g [DET     man       just       3SG.OBL=angry like]           [back 3NNOM.SG=leave     went]              [and       just     not 3SG.OBL          look.PRS]
+\l at her.
+
+\t ju'u     a=téakame                   [tuisi   a'a=súae]                 [into   nákeka      [á'a=bitchá] [intok kía           káabeta             áma      kíkimútúa ]. 
+\m ju'u     a=téaka-me                   [tuisi   a'a=súa-e]                 [into   náke-ka      [á'a=bitchá] [intok kía           káa-beta             áma      kíkimútúa ]. 
+\g DET      3NNOM.SG-owns-REL      [well    3NNOM.SG=care-IMP   ]   [and    love-GER              [3NNOM.SG=see] [and       just     no-one               there    go.in.allow]
+\l The owner (said): take well care of it and loving it, see it and just don't let enter anyone.
+
+\t ju'u   a=téakame             [tuisi        a'a=súae]                [into nákeka          á'a=bitchá]           [káabeta              áma kíkimútúa             intoko]. 
+\m ju'u   a=téaka-me             [tuisi        a'a=súa-e]                [into náke-ka          á'a=bitchá]           [káabeta              áma kíkimútúa             intoko]. 
+\g DET    3NNOM.SG=owns-who well               3NNOM.SG=care-IMP          and love-GER          3NNOM.SG=see.PRS [no.one                    there go.in.allows        and.just]
+\l The owner (said): take well care of        it and loving it, see   it, and just don't let enter
+
+\t [...ápo a'a=tú'ute         into] [a'a=bá'atúa                        intoko].
+\m [...ápo a'a=tú'ute         into] [a'a=bá'atúa                        intoko].
+\g [...3SG 3NNOM.SG=clean              and] [3NNOM.SG=waters                     and]
+\l ...And he cleans it up and he waters it.
+
+\t [inime kábuim        ne     am=tá'áya]        [boetuk ne júébenasi             `ám=bitla          intoko].
+\m [inime kábuim        ne     am=tá'áya]        [boetuk ne júébenasi             `ám=bit-la          intoko].
+\g [these mountains     1SG 3NNOM.PL=know]       [because 1SG many.times           3NNOM.PL=seen-PFV and]     
+\l This mountains, I know them and because I have been through here so many times.
+
+\t          ...[bóetuk bá'a     jú'ebenáekan         intok] [ité   intok    aet          kia     jiba paséalo               restémcha      réjtem]...
+\m          ...[bóetuk bá'a     jú'ebenáe-ka-n         intok] [ité   intok    aet          kia     jiba paséalo               restémcha      réjtem]...
+\g ...[because water much.was                 and] [1SG moreover on.it                     just always joy.wandering          traveling.as traveled]   
+\l ...'And because much water was there. And moreover we traveled about it just as though always joy-wandering...
+
+\t [pá'akun yéu nóitéka]        [kújtaú      sejtul nóitéka intuchi]          [juchi nótteka]       [íntuchi      bemélasi     júchi     nótteka]             [hum puétau           í'an kiktek         intuchi].
+\m [pá'akun yéu nóité-ka]        [kúj-taú      sejtul nóité-ka int-uchi]          [juchi nótte-ka]       [ínt-uchi      bemélasi     júchi     nótte-ka]             [hum puétau           í'an kikte-k         int-uchi].
+\g [outside out go-GER]          [cross-DIR    once go-GER and-again ]            [again return-GER] [and-again         anew         again     return-GER]           now door              now stands-PST       and-again]
+\l Again returning, and again one more time returning, and again now he stands in front of the door.
+
+\t [ápo a'a                    éapo          a'a=páttáika]     [áma            [káá yéu wéye               ían     intoko].
+\m [ápo a'a                    éa-po          a'a=páttáika]     [áma            [káá yéu wéye               ían     intoko].
+\g 3SG 3SG.POSS                will-LOC       3NNOM.SG=closed    there          not   out    walk           now and         
+\l He determined to         close it, and now he doesn't want to come out.
+
+\t [bájta        juébenaku yukumak], [ju'u báso yu'in tobóktila intoko] 16.
+\m [báj-ta        juébenaku yuku-mak], [ju'u báso yu'in tobóktila intoko] 16.
+\g grass-NNOM.SG where.much rain-COM DET grassplenty risen             and.more
+\l And the grass, with the rain, has come up high.
+
+\t [áma jumak ápo wáiwa bó'oka]. [Júmak ramáapo],         [káá into bó'obaekai].
+\m [áma jumak ápo wáiwa bó'oka]. [Júmak ramáa-po],         [káá into bó'o-bae-kai].
+\g [there maybe 3SG inside lying].Maybe ramada-LOC         [not more lie-INTT-SUB] 
+\l He is inside lying down; not wanting to lie down in the ramada anymore.
+
+\t [bóetuk       bá'a jú'ebenáekan         intok].      [Ité intok         áet    kia    jiba paséalo                restémcha         réjtem] 
+\m [bóetuk       bá'a jú'ebenáe-ka-n         intok].      [Ité intok         áet    kia    jiba paséalo                restémcha         réjtem] 
+\g [because      water much-PST-CONT         and].We   moreover              on.it just always joy.wandering           traveling.as      traveled
+\l ...'And because much water was there. And moreover we traveled about it just as though always joy-wandering...
+
+\t í'ánsu intok empo káa im yúm              jó'ebáetek (o)               júni'i
+\m í'án-su intok empo káa im yúm              jó'e-báe-te-k (o)               júni'i
+\g now-and more 2SG not here tiredness rest-INTT-COUNT-COND                   even
+\l And now if you don't want to rest here even.
+
+\t inepo kaa     yeyena,       ¿emposu?
+\m inepo kaa     ye-yena,       ¿empo-su?
+\g 1SG not       RED-smoke, you-and
+\l I don't smoke, and (do) you?
+
+\t [ito am=bitbaeo      intok] [bemposu biná 17 botana                   itom ane'e beas yajak...].       
+\m [ito am=bit-bae-o      intok] [bempo-su biná 17 botana                   itom ane'e beas yajak...].       
+\g [1PL 3NNOM.PL      see-INT-when and]      2PL-and     this side          1PL   are    of    arrived.PL.PST
+\l And since we wanted to see them, they came over to this side were we are...
+
+\t i'ansu intok       empo kaa        im     yum      jo'ebaetek(o)                       juni'i.
+\m i'an-su intok       empo kaa        im     yum      jo'e-bae-te-k(o)                       juni'i.
+\g now-and more        2SG not         here tiredness rest-INTT-COND                         even
+\l And now if you don't want to rest here even.
+
+\t in            kaba'i che'awasu awi lobolai intok pappeya...
+\m in            kaba'i che'awa-su awi lobolai intok pappeya...
+\g 1SG.POSS      horse much.more fat          round and active...
+\l My horse is much fatter and round and is very active...
+
+\t [Joan bwikak]      [Maria            into   ye'eka].
+\m [Joan bwika-k]      [Maria            into   ye'e-ka].
+\g [John sing-PST]     [Mary             and    dance-PST]
+\l John sang and Mary danced.
+
+\t [Joan bwikak]      into [Maria ye'eka].
+\m [Joan bwika-k]      into [Maria ye'e-ka].
+\g [John sing-PST]     and   [María dance-PST]
+\l John sang and María danced.
+
+\t intok júmak            ne      káa             am=téakaatek                        inepo  intok ino              tá'aruka'atek(o).
+\m intok júmak            ne      káa             am=téakaate-k                        inepo  intok ino              tá'aruka'ate-k(o).
+\g And maybe              1SG     not             3NNOM.SG=    find-COND         1SG          and REF lost-COND                        
+\l And perhaps if I don't find them, and if I get lost...
+
+\t ini   jumak           chú'u
+\m ini   jumak           chú'u
+\g This maybe            dog
+\l Maybe this is a dog
+
+\t ilí    pánim           o       jitasa        puátota              jajáni.
+\m ilí    pánim           o       jitasa        puáto-ta              jajáni.
+\g little bread           or      whatever      plate-3NNOM.SG        perhaps
+\l There is perhaps a little bread, or something on the plate.
+
+\t nií    wíkit juma techóe           ja'ani.
+\m nií    wíkit juma techóe           ja'ani.
+\g this bird might do-bad-omen somehow
+\l This bird might be of bad omen somehow.
+
+\t          ...(uusim)... yum           jo'oebaetek          juni...
+\m          ...(uusi-m)... yum           jo'oe-bae-te-k          juni...
+\g ...(boy-PL)... tiredness     rest-INTT-PST           even
+\l ...'(boys)... if you want to take a rest...
+
+\t ite   jumak [wóika]      [[káa báeka]        juni'i] nábuhtia kátne.
+\m ite   jumak [wói-ka]      [[káa báe-ka]        juni'i] nábuhtia kátne.
+\g 1PL   maybe two-GER       [[not want-GER]      even beyond go-FUT...
+\l Maybe we, there being two of us, even if we don't want to, will go beyond...
+
+\t (59)     [puétata             ala  etapóka            o'oben]      [ta    bea].            [into kaá   eu        weáma]...   [jaisa      jumák jume       aulátakai].        
+\m (59)     [puéta-ta             ala  etapóka            o'oben]      [ta    bea].            [into kaá   eu        weáma]...   [jaisa      jumák jume       auláta-kai].        
+\g          Door-NNOM.SG          is   opening            nevertheless but    already          and not     out       walk                    what might the               have be-    SUB
+\l Nevertheless he opened the door but he doesn't want to walk out...
+
+\t [két    né hunen hiáusu]        [=hú sénu yoéme            i'im          táawabáe           jumakú'u].
+\m [két    né hunen hiáu-su]        [=hú sénu yoéme            i'im          táawa-báe           jumakú'u].
+\g Yet     1SG thus saying-and] [=DET one        man           here          remain-POT          probably  
+\l And now, as I was saying, one man probably wants to remain here.
+
+\t [into=né      káá   jabem        néu           yaják                        júnii]...
+\m [into=né      káá   jabe-m        néu           yaják                        júnii]...
+\g and=1SG       not   someone-PL 1SG.OBL          come.PL.PST                  even
+\l And even if someone does not comes by...
+
+\t [[into júnén          aú=jía]            káá     áma    yóeka'atek     juni'i          kía].
+\m [[into júnén          aú=jía]            káá     áma    yóeka'ate-k     juni'i          kía].
+\g  And           thus 3SGOBL=say not            there escape-PST      even just 
+\l And thus say to him, I did not escape.
+
+\t [iní'i má      ó'ou ían       kábáita              áma yéu tójak                     jum kórapo]           [intok áet          jajá'amu]             [ta     intok ket      juni únna wákíla]           má      chea káá       `a=túa               yúumaka.      
+\m [iní'i má      ó'ou ían       kábái-ta              áma yéu tójak                     jum kóra-po]           [intok á-et          ja-já'amu]             [ta     intok ket      juni únna wákíla]           má      chea káá       `a=túa               yúumaka.      
+\g This so        man now horse-NNOM.SG                there out     bring-PST           there fence-LOC         and on.it           RED-mounting           but     and yet        even very skinny             so     more not       3SG.OBL=truly       unable.to.carry
+\l This man now brought the horse inside the fence and is attempting to mount it but it (the horse) is very skinny so the horse is unable to carry him.
+
+\t into inwain mesapo           juka                  jí'ik            wáata          mánekámta                   jáiwa        ta       intok           ju'u áma wáatewame                   into ka=jita        áma      áuk.    
+\m into inwain mesa-po           juka                  jí'ik            wáata          máne-ká-m-ta                   jáiwa        ta       intok           ju'u áma wáate-wa-me                   into ka=jita        áma      áu-k.    
+\g And hither table-LOC          DET.NNOM.SG           needle           basket         stands-PST-NMLZ-NNOM.SG searching           but      and             DET    there want-PASS-NMLZ            and no-something there       exist-PST
+\l She came up here to the table searching for the basket where    it stands, but what she wants in the basket is not there.
+
+\t náiya'abáemta            benásia       tá      into   jumak           jume báji ibáktim           káá    juébena.
+\m náiya'a-báe-m-ta            benásia       tá      into   jumak           jume báji ibáktim           káá    juébena.
+\g Burn-INTT-NMLZ-NNOM.SG   like          but     and    might             those three armfuls        not   enough     
+\l As though he might want to build a fire, but maybe the three armfuls are not enough.
+
+\t [Joan bwiikak]      [María into     ye'eka].
+\m [Joan bwiika-k]      [María into     ye'e-ka].
+\g [John sing-PST]      [María and      dance-PST]
+\l John sang and María danced.
+
+\t [María ejkuelau     siika],        [Peo inte'e].
+\m [María ejkuela-u     siika],        [Peo int-e'e].
+\g [Mary school-DIR     go.SG.PRS], [Peter and-not]
+\l Mary went to school and Peter did not.
+
+\t Jabé        bibam         jinuk, [into jabé    vinota                    jinuk].
+\m Jabé        biba-m         jinu-k, [into jabé    vino-ta                    jinu-k].
+\g Someone     cigar-PL       buy-PST [and someone wine-NNOM.SG     buy-PST]
+\l Someone bought cigars and someone bought wine.
+
+\t inepo [kowíta         into misíta]           bwuisek.
+\m inepo [kowí-ta         into misí-ta]           bwuise-k.
+\g 1SG [pig-NNOM.SG and            cat-NNOM.SG] grasp-PST
+\l I caught the pig and the cat.
+
+\t inepo [kowíta]                bwuisek       [into   misíta].
+\m inepo [kowí-ta]                bwuise-k       [into   misí-ta].
+\g 1SG [pig-NNOM.SG]              grasp-PST      [and    cat-NNOM.SG]
+\l I caught the pig and the cat.
+
+\t [Joan bwiikak]      [María           into   ye'eka].
+\m [Joan bwiika-k]      [María           into   ye'e-ka].
+\g [John sing-PST]      [María           and    dance-PST]
+\l John sang and María danced
+
+\t Joan bwiika         into María ye'eka.
+\m Joan bwiika         into María ye'eka.
+\g John sing.PST        and   María danced.PST
+\l John sang and María danced.
+
+\t inepo Joan into.
+\m inepo Joan into.
+\g  1SG John and
+\l I and John
+
+\t inepo into      Joan.
+\m inepo into      Joan.
+\g 1SG and         John
+\l I and John
+
+\t Joan bwiikak,      María ye'eka       intoko.
+\m Joan bwiika-k,      María ye'e-ka       intoko.
+\g John sing-PST       Mary dance-PST      and
+\l John sang and (moreover) Mary danced.
+
+\t in             uusi tajkaim          bwaka,         in                       saila              into `a=bitchu.     
+\m in             uusi tajkaim          bwaka,         in                       saila              into `a=bitchu.     
+\g 1SG.POSS       son     tortillas     eats           1SG.POSS                 brother            and 3NNOM.SG=see.PRS
+\l My son is eating tortillas and my brother is looking at him.
+
+\t jume bemela        jamuchim    emo chikek          intok                  ejpejopo     emo bichak. 
+\m jume bemela        jamuchim    emo chike-k          intok                  ejpejopo     emo bicha-k. 
+\g DET.PL young       women              3REFL comb-PST        and            mirror       3REFL see-PST
+\l The young women combed themselves and saw themselves in the mirror.
+
+\t aapo juka            bweu tetata                           puatek          intoko?
+\m aapo juka            bweu teta-ta                           puate-k          intoko?
+\g 3SG DET.NNOM.SG big          stone-NNOM.SG         charge-PST    and
+\l And did she charge the big stone?
+
+\t Joanta simbae.              yepsako,                 Maria Vicammeu
+\m Joan-ta sim-bae.              yepsa-ko,                 Maria Vicam-me-u
+\g John-NNOM.SG          arrive-COND                María Vicam-me-DIR       go-INTT
+\l If John arrives, Mary will go to Vicam.
+
+\t Joanta                     yepsao,     Maria Vicammeu                    simbae.
+\m Joan-ta                     yepsa-o,     Maria Vicam-me-u                    sim-bae.
+\g John-NNOM.SG       arrive-TEMP María Vicam-me-DIR        go-INTT
+\l When John arrives, Mary will go to Vicam.
+
+\t jiba kaita            intoko               junum chupuk.
+\m jiba kaita            into-k-o               junum chupu-k.
+\g Only nothing          and-COUNT-TEMP         there finish-PST
+\l There is nothing else and it ends there.'Dedrick & Casad
+
+\t i'an intu'u          ilí    chu'u buásiata        yoaka.
+\m i'an int-u'u          ilí    chu'u buásiata        yoa-ka.
+\g Now and-that          little dog tail-NNOM.SG wag-GER
+\l And now that little dog wagging his tail...
+
+\t i'an intuchi       jumee bakochim        a'abo itóm=jariu
+\m i'an int-uchi       jumee bakoch-im        a'abo itóm=jariu
+\g Now and-again       those snake-PL         here 3PL.OBL=search:PRS
+\l And now the snakes come on this side to look for us.
+
+\t       ...kaa nooka          intuchi,     intitasa 21  jumak ama joa sisime.
+\m       ...kaa nooka          int-uchi,     int-itasa 21  jumak ama joa sisime.
+\g ...not talking        and-again     and-what      maybe there do going.HAB
+\l ...and, he doesn't say anything, and what he is doing there (we don't know).
+
+\t ian   intuka                        puetata             apo           mijmo         a'a=pattaika               into kaa=`a=teteaka.            
+\m ian   int-uka                        pueta-ta             apo           mijmo         a'a=pattai-ka               into kaa=`a=tetea-ka.            
+\g Now and-this.NNOM.SG                 gate-NNOM.SG         3SG           himself       3NNOM.SG=close-PST                  and not=3NNOM.SG=find-PST
+\l And now, though having             shut the gate himself, he cannot find it.
+
+\t inti'an      into jumee naba'asom                jume kuusim ae             a'a=kutuktane'u         kaa    teteaka.     
+\m inti'an      into jumee naba'aso-m                jume kuusim ae             a'a=kutukta-ne-'u         kaa    te-teaka.     
+\g And-now      and those blade-NNOM.SG              that rosaray with.it       3NNOM.SG=carve-FUT-REL           not    finding
+\l And now he cannot find the knife with which he carves the beads.
+
+\t intaapo    intok kaa   ju'unea    jitasa jumak a'a=waata'u          o      a'a=ju'uneyea.
+\m int-aapo    intok kaa   ju'unea    jitasa jumak a'a=waata-'u          o      a'a=ju'uneyea.
+\g And-3SG     and NEG know.PRS       what maybe 3NNOM.SG=want-REL       or     3NNOM.SG=know 
+\l And maybe he does not know what does he want or it knows.
+
+\t (117) i'an intim                  ramaata          punttapo         weeka      yentaitek.    
+\m (117) i'an int-im                  ramaata          puntta-po         weeka      yen-taite-k.    
+\g       Now and-here                 ramada                  end-LOC          standing smoke-INCEP- PST
+\l And now, standing at the end of the ramada, he has start to smoking.
+
+\t intum       kari beju'uku         kateka.
+\m int-um       kari beju'uku         kate-ka.
+\g And-there house leaves-LOC sit-GER
+\l And he sits under the leaves.
+
+\t ian   inti'i        samit         jikau tajtajti     weamsuka...
+\m ian   int-i'i        sami-t         jikau tajtajti     weam-su-ka...
+\g  Now and-this        adobe-LOC     up     through      walk-TERM-SUB...
+\l And now, after having walked up and down on the adobe ...
+
+\t intau              bo'oka              a'a=bitchu           ili    chu'u.
+\m int-a-u              bo'oka              a'a=bitchu           ili    chu'u.
+\g And-3NNOM.SG-DIR lay.down.PST            3NNOM.SG=look.PRS little dog
+\l And the little dog laying down besides him and is looking at him.
+
+\t [intuchi     juka yoemta          simsuk]     [intuchi     jaku'ubo         suma         yeu sika].             [intuchi    ko'om yepsaka         jum ramaata          betuk]
+\m [int-uchi     juka yoem-ta          sim-su-k]     [int-uchi     jaku'ubo         suma         yeu sika].             [int-uchi    ko'om yepsaka         jum ramaata          betuk]
+\g  and-again    that man-NNOM.SG go-CONT-PST and-again            somewhere        maybe        out    come.PST        and-again    down arrived          DET    ramada        under 
+\l And when the man was gone again, it (the bird) again came from somewhere. And again arrived going under the ramada.
+
+\t `amak intim káwi        áákamta                 bétukún       bicha         matánsaú    bichá      saká'ane.
+\m `amak int-im káwi        ááka-m-ta                 bétukún       bicha         matánsa-ú    bichá      saká'a-ne.
+\g Sometimes and-here mountain pithaya-NMLZ-NNOM.SG under           toward        Matanza-DIR toward      go-FUT    
+\l And sometimes we would go toward the mountain which has pitaya on it to the slaughter house.
+
+\t [aapo kuchureo]       [into aapo bochareo].
+\m [aapo kuchureo]       [into aapo bochareo].
+\g [3SG fisherman]       [and 3SG shoemaker]
+\l Hei is a fisherman and hei is a shoemaker.
+
+\t Joan jitá    bwaka                     intoko?
+\m Joan jitá    bwa-ka                     intoko?
+\g John what eat-PST                and
+\l And what did John eat?
+
+\t [aapo kuchureo]       [aapo into bochareo].
+\m [aapo kuchureo]       [aapo into bochareo].
+\g [3SG fisherman]       [3SG and shoemaker]
+\l Hei is a fisherman and hej (another guy) is a shoemaker.
+
+\t bempoi         yeusajak,    [joan into                  peo]i.
+\m bempoi         yeu-sajak,    [joan into                  peo]i.
+\g 3PL            out-go.PL.PST [John and                   Peter]
+\l They left, John and Peter.
+
+\t Joan jitá    bwaka?
+\m Joan jitá    bwa-ka?
+\g John what eat-PST?
+\l What did John eat?
+
+\t Peo into Maria into Joan emo ta'a.
+\m Peo into Maria into Joan emo ta'a.
+\g Peter and Mary and         John 3REFL know.PRS
+\l Peter and Mary and John know each other.
+
+\t [inepo Sandrata                 tu'ule]      [into   Evata]
+\m [inepo Sandra-ta                 tu'ule]      [into   Eva-ta]
+\g [1SG Sandra-NNOM.SG              like.PRS]    [and    Eva-NNOM.SG]
+\l I like Sandra and Eva.
+
+\t [bweta nee=tejwa],            [jitasa into            yaakamme?
+\m [bweta nee=tejwa],            [jitasa into            yaa-ka-mme?
+\g [but 1SG.OBL=tell.PRS]        [what and.more          do-PST-3PL
+\l But tell me, and what else did they do?
+
+\t [María into        bwikak]      [Peo into                          ye'eka].
+\m [María into        bwika-k]      [Peo into                          ye'eka].
+\g [Mary and.more     sing-PST]     [Peter and                         dance-PST]
+\l And moreover Mary sang and Peter danced.
+
+\t [Joan bwiikak]     [Maria into                  ye'eka].
+\m [Joan bwiika-k]     [Maria into                  ye'e-ka].
+\g [John sing-PST]     [Mary and                    dance-PST]
+\l John sang and Mary danced.
+
+\t [Joan bwiikak]    into [Maria into                       ye'eka].
+\m [Joan bwiika-k]    into [Maria into                       ye'eka].
+\g [John sing-PST]     and    [Mary and                       dance-PST]
+\l John sang and Mary danced.
+
+\t [Joan bwiikak]     [into Maria ye'eka].
+\m [Joan bwiika-k]     [into Maria ye'eka].
+\g  [John sing-PST]     [and Mary dance-PST]
+\l John sang and María danced.
+
+\t Joan bwiikak        [junakbea     Maria into                         ye'eka].
+\m Joan bwiika-k        [junakbea     Maria into                         ye'e-ka].
+\g John sing-PST        then          Mary and                           dance-PST
+\l John sang and then María danced.
+
+\t [Joan bwiikak]     into [[Maria                into   Peo] ye'eka].
+\m [Joan bwiika-k]     into [[Maria                into   Peo] ye'e-ka].
+\g John sing-PST]      and    [[Mary               and    Peter] dance-PST]
+\l John sang and Mary and Peter danced.
+
+\t [Joan bwiikak]    [[Maria into Peo] into             ye'eka].
+\m [Joan bwiika-k]    [[Maria into Peo] into             ye'e-ka].
+\g [John sing-PST]     [[Mary and Peter] and              dance-PST]
+\l John sang and Mary and Peter danced.
+
+\t u        yoi            a=karowa           tuchakai, uka           liachota         toboktakai a=kariwa                     bicha weetaitekai uka                    puetata       etapokai,   (into) a=jubiawa            tebotuak.
+\m u        yoi            a=karo-wa           tucha-kai, uka           liacho-ta         tobokta-kai a=kari-wa                     bicha wee-taite-kai uka                    pueta-ta       etapo-kai,   (into) a=jubia-wa            tebotua-k.
+\g   DET    (white).man 3SG.POSS=car-POSS stop-SUB DET.NNOM.SG bag-NNOM.SG                take-SUB       3SG.POSS=house-POSS        toward go.SG-begin-SUB DET.NNOM.SG         door-NNOM.SGopen-SUB        (and) 3SG.POSS=wife-POSS greed-PST     
+\l The man stopped his car, took the bag, went to his house, opened the door and greeted his wife.
+
+\t Joan      bwikak      Maria into                    ye'eka.
+\m Joan      bwika-k      Maria into                    ye'e-ka.
+\g  John     sing-PST     Mary and                      dance-PST
+\l John sang and Mary danced.
+
+\t Joan     bwikak      into Maria ye'eka.
+\m Joan     bwika-k      into Maria ye'e-ka.
+\g  John     sing-PST     and Mary dance-PST
+\l John sang and Mary danced.
+
+\t joan bwikak    maria intok ye'eka
+\m joan bwika-k    maria into-k ye'e-ka
+\g joan bwika-k    maria into-ko ye'e-ka
+\l John sang and Mary danced
+
+\t juchi `ae=konila          sikaa jo'ot        intok `a'a=siisek.
+\m juchi `ae=koni-la          sik-aa jo'o-t        intok `a'a=siise-k.
+\g Again 3NNOM.SG-circle-ADV go-PPL back-LOC and 3SGPOSS=urinate-PST
+\l And having going around him, it urinated on his back.
+
+\t b) juchi     `aekonila             sikaa intok ho'ot `a'a=siisek.
+\m b) juchi     `ae-konila             sik-aa intok ho'o-t `a'a=siise-k.
+\g    again     3NNOM.SG-circle-ADV go-PPL and back-LO 3SG.POSS=urinate-PST
+\l And having going around him, it urinated on his back.
+
+\t Joan         bwikak      into             Maria ye'eka.
+\m Joan         bwika-k      into             Maria ye'eka.
+\g John          sing-PST     and              Mary dance-PST
+\l John sang and Maria danced.
+
+\t [Joan      bocham jinuk] [panim into              Maria am=nenkak]
+\m [Joan      bocham jinu-k] [panim into              Maria am=nenka-k]
+\g [John      shoe.PL buy-PST] [bread      and        Mary 3NNOM.PL=sell-PST   ]
+\l John bought shoes and bread Mary sold it.
+
+\t [Joan      bocham       jinuk ]       [Maria into          panim nenkak].
+\m [Joan      bocham       jinu-k ]       [Maria into          panim nenka-k].
+\g [John      shoe.PL      buy-PST]       [Mary and            bread sell-PST]
+\l John bought shoes and Mary sold bread.
+
+\t tu'isi kaa aa         ye'e           intok kaa aa       eteho,              kia    teneka        kikne.
+\m tu'isi kaa aa         ye'e           intok kaa aa       eteho,              kia    tene-ka        kik-ne.
+\g good not       able dance.PRS        and not able       converse.PRS,       only mouth-SUB stand-FUT     
+\l He was not able to dance well, and he was not able to tell stories very well, he would just stand there with his tongue in his mouth.
+
+\t  junak      into joan kaa             yepsak.
+\m  junak      into joan kaa             yepsa-k.
+\g then        and John not              arrive-PST
+\l And then John did not arrive
+
+\t tuuka        jita    empo ya'ak?
+\m tuuka        jita    empo ya'a-k?
+\g yesterday    what 2SG do-PST
+\l What did you do yesterday?
+
+\t inepo Mariatamak sentrou              noitek.
+\m inepo Mariata-mak sentro-u              noite-k.
+\g 1SG Mary-COM          center-DIR        go-PST
+\l I with Mary went to the center
+
+\t inepo centrou              siika                Mariatamak.
+\m inepo centro-u              siika                Mariata-mak.
+\g 1SG downtown-DIR            go.PST.SG       Mary-COM
+\l I went (to) downtown with Mary.
+
+\t ¿jitá Maria jinuk              intoko?.
+\m ¿jitá Maria jinu-k              intoko?.
+\g What Mary buy-PST               and
+\l And what did Mary buy?
+
+\t empo kaa      Mariata                   tu'ule?
+\m empo kaa      Maria-ta                   tu'ule?
+\g 2SG not       Mary-NNOM.SG         like.PRS?
+\l Don't you like Mary?
+
+\t naaka, inepo a=waata              juka                 Mariata.
+\m naaka, inepo a=waata              juka                 Maria-ta.
+\g Yes, 1SG 3NNOM.SG=love.PRS DET.NNOM.SG   Mary-NNOM.SG
+\l Lit: Yes, I love her, the Mary.
+
+\t [inime kábuim       ne    am=tá'áya]      [boetuk       ne              júébenasi     ám=bitla      intoko]      
+\m [inime kábui-m       ne    am=tá'áya]      [boetuk       ne              júébenasi     ám=bit-la      intoko]      
+\g These mountain-PL 1SG 3NNOM.PL=know]               [because      I        many.times 3NNOM.PL=see-PFV          and]
+\l This mountains I know them, and because I have been through here so many times.
+
+\t  U     ili   usi              [cheptek             into   buitek].
+\m  U     ili   usi              [chept-e-k             into   buit-e-k].
+\g DET    small boy              [jump-INTR-PST      and    run-INTR-PST   ]
+\l The boy jumped and ran.
+
+\t  yoi                [bwika         into ye'e].
+\m  yoi                [bwika         into ye'e].
+\g (non-Yaqui).man     [sing.PRS      and dance.PRS]
+\l The (non Yaqui) man is singing and dancing.
+
+\t  u    uusi           [cheptine              into   buitine].
+\m  u    uusi           [chept-i-ne              into   buit-i-ne].
+\g DET   boy            [jump-INTR-FUT       and    run-INTR-FUT]
+\l The boy will jump and will run.
+
+\t u          uusi [cheptek                        into           buitibae].
+\m u          uusi [chept-e-k                        into           buit-i-bae].
+\g    DET     boy [jump-INTR-PST                     and            run-INTR-INTT]
+\l The boy jumped and will run.
+
+\t bempo torimmeu     [{sajak/ *siika}            into aman kokochok].
+\m bempo torimme-u     [{saja-k/ *siika}            into aman ko-kocho-k].
+\g 3PL torim-DIR       {go.PL-PST/*go.SG.PST   } and there RED.PL-sleep-PST   ]
+\l They went to Torim and slept there.
+
+\t a maalawa        [hoarau yepsak          into aman jichiktaitek].
+\m a maala-wa        [hoara-u yepsa-k          into aman jichik-taite-k].
+\g his mother-POSS [house-DIR arrive.SG-PST and there sweep-INCEP-PST]
+\l His mother arrived at the house and began to sweep there.
+
+\t Aapo pueplo betana yepsak          into          ji'ibwababaek.
+\m Aapo pueplo betana yepsa-k          into          ji'i-bwa-ba-bae-k.
+\g He      town from arrive.SG-PST and               something-eat-RED-INTT-PST
+\l He arrived from the town and decided to eat something.
+
+\t ian      buikak      into yooko           yi'ine.
+\m ian      buika-k      into yooko           yi'i-ne.
+\g today sing-PST        and     tomorrow     dance-FUT
+\l (He) sang today and will dance tomorrow.
+
+\t Joan Paolata         ateak         Maria into Peota                           tebotua        k.
+\m Joan Paola-ta         atea-k         Maria into Peo-ta                           tebotua-        k.
+\g John Paola-NNOM.SG meet-PST Maria and Pedro-NNOM.SG                    greet-PST         
+\l John found Paola and Mary greeted Peter.
+
+\t jabeta      Joan Ø ateak        Maria into Peota                   tebotuak.
+\m jabe-ta      Joan Ø atea-k        Maria into Peo-ta                   tebotua-k.
+\g who-NNOM.SG John Ø meet-PST Maria and Peter-NNOM.SG    greet-PST
+\l Who did John find and Maria greeted Peter.
+
+\t jabeta     Joan Paola ateak            Maria into Ø tebotuak.
+\m jabe-ta     Joan Paola atea-k            Maria into Ø tebotua-k.
+\g who-NNOM.SG John Paola meet-PST           Maria and Ø greet-PST
+\l Who did John find Paola and Maria greeted?
+
+\t jabeta     Joan Ø        ateak        Maria into Ø tebotuak.
+\m jabe-ta     Joan Ø        atea-k        Maria into Ø tebotua-k.
+\g who-NNOM.SG John Ø         meet-PST      Maria and Ø greet-PST
+\l Who did John find and Maria greeted?
+
+\t jabeta Joan ateak         into jabeta Maria tebotuak.
+\m jabeta Joan atea-k         into jabeta Maria tebotua-k.
+\g who John meet-PST          and who Maria greet-PST
+\l Who did John find and who did Maria greet.
+
+\t jabeta Joan      ateak         jabeta into        Maria    tebotuak.
+\m jabeta Joan      atea-k         jabeta into        Maria    tebotua-k.
+\g who    John      meet-PST       who      and       Maria    greet-PST
+\l Who did John find and who did Maria greet.
+
+\t  Jabeta Joan ateak        into jabeta aapo            tebotuak.
+\m  Jabeta Joan atea-k        into jabeta aapo            tebotua-k.
+\g Who John find-PST          and who 3SG                 greet-PST
+\l Who did John find and who did he greet?
+
+\t  inepo Peota                   bachita          miikak.
+\m  inepo Peo-ta                   bachi-ta          miika-k.
+\g 1SG Peter-NNOM.SG               corn-NNOM.SG   give-PST
+\l I gave corn to Peter.
+
+\t  inepo Peotau                 bachita          nenkak.
+\m  inepo Peo-ta-u                 bachi-ta          nenka-k.
+\g 1SG Peter-NNOM.SG-       DIR   corn-NNOM.  SG   sell-PST
+\l I sold corn to Peter.
+
+\t  inepo [Peotau              bachita nenkak]            into        [aa=miikak].              
+\m  inepo [Peo-ta-u              bachi-ta nenka-k]            into        [a-a=miika-k].              
+\g 1SG [Peter-NNOM.SG-DIR corn-NNOM.SG sell-PST]            and           [3NNOM.SG-3NNOM.SG=give-PST]
+\l I sold and gave corn to Peter.
+
+\t  inepo [peota                bachita              miikak]       into        [awa=nenkak]                 
+\m  inepo [peo-ta                bachi-ta              miika-k]       into        [a-w-a=nenka-k]                 
+\g 1SG [Peter-NNOM.SG            corn-NNOM.    SG     give-PST]      and          [3NNOM.SG=DIR-3NNOM.SG sell-PST]
+\l I gave and sold corn to Peter
+
+\t  Joan [karom         jiinu]          into    [am=nenka].
+\m  Joan [karo-m         jiinu]          into    [am=nenka].
+\g John [car-PL          buy.PRS]        and     [3NNOM.SG-PL=sell.PRS]
+\l John buys and sells cars.
+
+\t Joan karom jiinu              into   nenka.
+\m Joan karom jiinu              into   nenka.
+\g  John car-PL buy.PRS          and    sell.PRS
+\l John buys and sells cars.
+
+\t  [u    yoi                  a=karowa tuchakai],             [uka          liachota    toboktakai],        [a=kariwa      bicha weetaitekai]              [uka          puetata     etapokai],        [a=jubiawa tebotuak].     
+\m  [u    yoi                  a=karo-wa tucha-kai],             [u-ka          liacho-ta    tobokta-kai],        [a=kari-wa      bicha wee-taite-kai]              [u-ka          pueta-ta     etapo-kai],        [a=jubia-wa tebotua-k].     
+\g DET    (non-Yaqui) man      3SG.POSS=car-POSS stop-SUB         DET-NNOM.SG bag-NNOM.SG take-SUB                3SG.POSS=house-POSS toward go.SG-begin-SUB        DET-NNOM.SG door-NNOM.SG open-SUB              3SG.POSS=wife-POSS greet-PST
+\l The man stopped his car, took the bag, went to his house, opened the door and greeted his wife.
+
+\t Maria tajkaim                ya'asukai                      am=bwaka.
+\m Maria tajkaim                ya'a-su-kai                      am=bwa-ka.
+\g Maria tortillas              make-TERM-SUB                    3SG.NNOM.PL=eat-PST
+\l After finishing making tortillas, Maria ate them.
+
+\t  u     yoi                    tebetakai            anukichi.
+\m  u     yoi                    tebe-ta-kai            anukichi.
+\g The (non-Yaqui) man           tall-NNOM.SG-SUB       liar
+\l That white man is tall and a liar/ that white man, being tall, is a liar.
+
+\t   [u    yoi                       a=karowa           tuchakai],                [a=jubiawa       tebotuak].    
+\m   [u    yoi                       a=karo-wa           tucha-kai],                [a=jubia-wa       tebotua-k].    
+\g DET   (non-Yaqui) man       3SG.POSS=car-POSS                  stop-SUB          3SG.POSS=wife-POSS      greed-PST
+\l The man stopped the car and greeted his wife.
+
+\t [u    yoi                   a=jubiawa                  tebotuakai],              [a=karowa        tuchak].     
+\m [u    yoi                   a=jubia-wa                  tebotua-kai],              [a=karo-wa        tucha-k].     
+\g DET   (non-Yaqui)man        3SG.POSS=wife-POS                  greet-SUB,          3SG.POSS=car-POSS       stop-PST
+\l The man greeted his wife and stopped the car.
+
+\t Peo Mariata               bichakai               Joanata                  jikajak.
+\m Peo Maria-ta               bicha-kai               Joana-ta                  jikaja-k.
+\g Peter Maria-NNOM.SG        see-SUB                 Juana-NNOM.SG        hear-PST
+\l Peter saw Mary and heard Juana.
+
+\t jabeta bichakai            jabeta                  into        jikajak      ju      Peo?
+\m jabe-ta bicha-kai            jabe-ta                  into        jikaja-k      ju      Peo?
+\g Who-NNOM.SG see-SUB          who-NNOM.SG   and         hear-PST      DET     Peter
+\l Who did Peter se and hear?
+
+\t jabeta        bichakai     into              jabeta               jikajak      ju      Peo?
+\m jabe-ta        bicha-kai     into              jabe-ta               jikaja-k      ju      Peo?
+\g   Who-NNOM.SG see-SUB         and               who-NNOM.SG   hear-PST      DET     Peter
+\l Who did Peter see and hear?
+
+\t jitá   jume      jaamuchim         bwabae?
+\m jitá   jume      jaamuch-im         bwa-bae?
+\g What DET.PL woman-PL                eat-INTT
+\l What will these women eat?
+
+\t jabeta      bichak       into jabeta                       jikajak         ju     Peo?
+\m jabe-ta      bicha-k       into jabe-ta                       jikaja-k         ju     Peo?
+\g Who-NNOM.SG see-PST        and who-NNOM.SG   hear-PST         DET    Peter
+\l Who did Peter see and who did he hear?
+
+\t  jume librom,       Joan am=ji'ostekai                            am=nenkak
+\m  jume libro-m,       Joan am=ji'oste-kai                            am=nenka-k
+\g the    book-PL,      John 3NNOM.PL=write-                SUB        2NNOM.PL=sell-PST
+\l John wrote the book(s) and sold it (them)
+
+\t Joan         jume    librom            ji'ostekai        am=nenkak
+\m Joan         jume    libro-m            ji'oste-kai        am=nenka-k
+\g John         the.PL book-PL             write-SUB          them=sell-PST
+\l John wrote the book(s) and sold it (them)
+
+\t  jabeta            Joan kesum (*a=)                       maakak.
+\m  jabe-ta            Joan kesum (*a=)                       maaka-k.
+\g Who-NNOM.SG         John chess (3SG=)                      give-PST
+\l Who does John gave chess.
+
+\t Joan keesum           ai=maakak          [uka              mariata]i.
+\m Joan keesum           ai=maaka-k          [u-ka              maria-ta]i.
+\g  John chess           3NNOM.SG=     give-PST         DET-NNOM.SG   Maria-NNOM.SG
+\l John gave chess to Maria.
+
+\t [uka          mariata]i                     Joan     keesum           a i=maakak.
+\m [u-ka          maria-ta]i                     Joan     keesum           a i=maaka-k.
+\g  DET-NNOM.SG Maria-NNOM.SG                    John     chess            3NNOM.SG=give-PST
+\l To María, John gave chess.
+
+\t yoemei       ye'ekai,     bwikakai       into (aapoi)                       kochok            u     pajkopo.
+\m yoemei       ye'e-kai,     bwika-kai       into (aapoi)                       kocho-k            u     pajko-po.
+\g       man drink-SUB        sing-SUB        and     (3SG)                      sleep-PST          DET   feast-LOC
+\l The Yaqui man drank, sang, and (he) slept in the feast.
+
+\t aapoi ye'ekai,      bwikakai    into Yoemei            kochok u pajkopo
+\m aapoi ye'e-kai,      bwika-kai    into Yoemei            kocho-k u pajko-po
+\g 3SG drink-SUB         sing-SUB     and Yaqui.man sleep-PST the feast-LOC
+\l Hei drank, sang, and the Yaqui mani slept in the feast.
+
+\t  Peoi aman siika into Aapoi aman ji'ibwak
+\m  Peoi aman siika into Aapoi aman ji'ibwa-k
+\g Peter there went and 3SG here eat-PST
+\l Peteri went there and hei atethere'.
+
+\t Aapoi        aman siika Peoi into aman ji'ibwak
+\m Aapoi        aman siika Peoi into aman ji'ibwa-k
+\g  3SG there went Peter and there eat-PST
+\l (Hei went there and Peteri ate there).
+
+\t Joan      tiendau        buitekai,     bibata              jinukai,         (into)    pesiou                        bicha siika.
+\m Joan      tienda-u        buite-kai,     biba-ta              jinu-kai,         (into)    pesio-u                        bicha siika.
+\g John      store-to        run-SUB,       cigar-NNOM.SG        buy-SUB           and       Hermosillo-DIR         toward go.PST       
+\l John    run to the store, bought a cigar, and went to Hermosillo.
+
+\t  Ka      tua      ke      kowita         nenkakai     uka           wakasta          jinuk ju         Peo.          
+\m  Ka      tua      ke      kowi-ta         nenka-kai     uka           wakas-ta          jinu-k ju         Peo.          
+\g Not true          that    pig-NNOM.SG   sell-SUB      DET.NNOM.SG   cow-NNOM.SG         buy-PST            DET     Peter
+\l It is not true   that Peter sold the pig and bought the cow.
+
+\t Kat=nee        kokosayuk, wechekai.
+\m Kat=nee        kokos-ayu-k, weche-kai.
+\g Not=1SG hurt-be-PST fall-SUB
+\l I did not hurt, when I felt down.
+
+\t (62)     U        jamut jichikai,    sankoata            nau             tojakai,              mekka gootak.
+\m (62)     U        jamut jichi-kai,    sankoa-ta            nau             toja-kai,              mekka goota-k.
+\g          DET.SG   woman         sweep-SUB   garbage-NNOM.SG      together       pick.up-    kai                           away throw-PST
+\l The woman swept, pick up the garbage and throw it away.
+
+\t Joan     yepsakai,    Mariata              tebotuak.
+\m Joan     yepsa-kai,    Maria-ta              tebotua-k.
+\g John     arrive-SUB, Maria-NNOM.SG.SG greet-PST
+\l John arriving greeted Mary/John arrived and greeted Mary.
+
+\t yoeme       ye'ekai,     bwikakai,    jita           je'ekai                into        kochokan          u      paskopo.
+\m yoeme       ye'e-kai,     bwika-kai,    jita           je'e-kai                into        kocho-ka-n          u      pasko-po.
+\g        man dance-SUB      sing-SUB      something      drink-SUB               and         sleep-PST-CONT      DET    feast-LOC
+\l The Yaqui man danced, sang, drank something and slept in the feast.
+
+\t yoeme             paskopo        kochokan,           yi'isukai             bwiksukai,         into jita              je'esukai.  
+\m yoeme             pasko-po        kocho-ka-n,           yi'i-su-kai             bwik-su-kai,         into jita              je'e-su-kai.  
+\g        man         feast-LOC       sleep-PST-CONT       dance-TERM-SUB          sing-TERM-SUB,      and    something        drink-TERM-SUB
+\l The Yaqui man slept in the feast, after finishing dancing, singing and drinking something.
+
+\t  Joan paskopo      yi'isukai           kochok       into buiksukai,          into jita            ji'isukai.  
+\m  Joan pasko-po      yi'i-su-kai           kocho-k       into buik-su-kai,          into jita            ji'i-su-kai.  
+\g John feast-LOC       dance-TERM-SUB        sleep-PST    and sing-TERM-SUB          and something        drink-TERM-SUB
+\l John finished dancing in the feast and slept, and finished singing and finished drinking something.
+
+\t Joan    [buikakai]        yi'ibae.
+\m Joan    [buika-kai]        yi'i-bae.
+\g John sing-SUB              dance-INTT
+\l John will dance singing.
+
+\t Joan yi'ibae,           [buikakai].
+\m Joan yi'i-bae,           [buika-kai].
+\g John dance-INTT           sing-SUB
+\l John will dance, singing.
+
+\t [Maala      yoowe trasteta      baksiakai], [teopou             siika].
+\m [Maala      yoowe traste-ta      baksia-kai], [teopo-u             siika].
+\g Mother      old   dish-NNOM.SG wash-SUB         church-DIR         go.SG.PST
+\l The grandmother washed the dishes, and went to the church.
+
+\t  [Maala        yoowe trasteta       baksia{k/*kai}],   [ume                    ili     sim           into bubusa{k/*kai}],           [into     bem             malawa        into bem=achaiwa      teopou          sajak]  
+\m  [Maala        yoowe traste-ta       baksia-{k/*-kai}],   [ume                    ili     si-m           into bu-busa-{k/*-kai}],           [into     bem             mala-wa        into bem=achai-wa      teopo-u          saja-k]  
+\g Mother                 old    dish-NNOM.SG wash-{PST/*-SUB}         DET.PL        small child-PL         and    RED-get up-{PST/*-SUB},     and       2PL.POSS        mother-POSS and 3PLPOSS=father-POSS church-DIR         go.PL-PST
+\l The grandmother washed the dishes, the children got up and        their mother and their father went to the church.
+
+\t  née yeepsakai, yestekai,             nim           juubi           bitchusukai,           (nee) a=tebotuabae.     
+\m  née yeepsa-kai, yeste-kai,             nim           juubi           bitchu-su-kai,           (nee) a=tebotua-bae.     
+\g 1SG arrive.SG-PST sit.SG-SUB            1POSS.SG      wife            see-TERM-SUB,            (1SG) 3NNOM.SG=greet-INTT
+\l I will arrive, I will seat down, I will see my wife and I will greet her.
+
+\t u      yoi                  a=karowa         tuchakai,              uka           liachota    toboktakai,         a              kariwa      bicha        weetaitekai           uka           puetata     etapokai,   a         jubiawa     tebotuak.
+\m u      yoi                  a=karo-wa         tucha-kai,              u-ka           liacho-ta    tobokta-kai,         a              kari-wa      bicha        wee-taite-kai           u-ka           pueta-ta     etapo-kai,   a         jubia-wa     tebotua-k.
+\g DET    (non-Yaqui).man      3SG.POSS=car-POSS        stop-SUB         DET-NNOM.SG bag-NNOM.SG take-SUB                 3SG.POSS       house-POSS toward         go.SG-begin-SUB         the-NNOM.SG door-NNOM.SG open-SUB        3SG.POSS wife-POSS greet-PST     
+\l The man stopped his car, took the bag, went to his house, opened the door and greeted his wife.
+
+\t  Joan inien    ea              [karita                          jinupeesime].
+\m  Joan inien    ea              [kari-ta                          jinu-pee-sime].
+\g John this.way think.PRS        [house-NNOM.SG           buy-DESID-go.SG.PRS]
+\l John thinks that he is going to buy a house.
+
+\t Joani inien             ea        [aui karita              jinupeesime].
+\m Joani inien             ea        [a-ui kari-ta              jinu-pee-sime].
+\g John this way           think.Prs [him-to house-NNOM.SG buy-DESID-go.SG.PRS   ]
+\l Johni thinks that hei is going to buy a house// to buy a house.
+
+\t  Joan Peota          ji'osiam       jinuria*(kai)          awam                        bittuak.
+\m  Joan Peo-ta          ji'osia-m       jinu-ria-*(kai)          a-w-am                        bit-tua-k.
+\g John Peter-NNOM.SG book-PL            buy-BENEF-SUB            3NNOM.SG-DIR-3NNOM.SG.PL see-CAUS-PST   
+\l John bought a book for Peter and sent it to him.
+
+\t Tetebekai            into           wawakilakai                 emo   tu'ure.
+\m Te-tebe-kai            into           wa-wakila-kai                 emo   tu'ure.
+\g RED.PL-tall-SUB        and            RED.PL-thin-SUB                     3REFL like.PST
+\l Being tall and thin they believe that they are beautiful
+
+\t Aman mekkalekai             into a=obiachilekai          kaa          aman weebae.   
+\m Aman mekka-le-kai             into a=obiachi-le-kai          kaa          aman wee-bae.   
+\g There far away-believe-SUB and 3NNOM.SG=difficult-believe-SUB not         there go.SG-INTT
+\l Believing that it is far away and believing that it is difficult, he will not want to go there.
+
+\t Diana chu'uta              ibaktakai  a=muktuak.
+\m Diana chu'u-ta              ibakta-kai  a=muk-tua-k.
+\g Diana dog-NNOM.SG           embrace-SUB 3NNOM.SG=die-CAUS-PST
+\l Diana embracing the dog left it dead.
+
+\t Diana    chu'uta      bichakai     a=ibaktakai               into     a=muktuak.         
+\m Diana    chu'u-ta      bicha-kai     a=ibakta-kai               into     a=muk-tua-k.         
+\g  Diana   dog-NNOM.SG see-SUB         3NNOM.SG=embrace-SUB       and      3NNOM.SG=die-CAUS-PST
+\l Diana   saw the dog, embraced it and left it dead.
+
+\t Aapo jita            jikkajakai     Mariata               bitchu.
+\m Aapo jita            jikkaja-kai     Maria-ta               bitchu.
+\g 3SG something        hear-SUB        Maria-NNOM.SG       stare.PRS
+\l (S)he hears (something) and stares at Mary.
+
+\t Joan buikak          into    ye'eka.
+\m Joan buika-k          into    ye'e-ka.
+\g  John sing-PST        and     dance-PST
+\l John sang and danced.
+
+\t Joan buikak          Maria into      ye'eka.
+\m Joan buika-k          Maria into      ye'e-ka.
+\g John sing-PST         María and       dance-PST
+\l John sang and Maria dance.
+
+\t Joan tuuka            buikak        into yooko           yi'ibae.
+\m Joan tuuka            buika-k        into yooko           yi'i-bae.
+\g  John yesterday       sing-PST       and tomorrow         dance-INTT
+\l John sang yesterday and will dance tomorrow.
+
+\t Joan tuuka            buikak     Maria into yooko               yi'ibae.
+\m Joan tuuka            buika-k     Maria into yooko               yi'i-bae.
+\g John yesterday        sing-PST    María and     tomorrow         dance-INTT
+\l John sang yesterday and Maria will dance tomorrow.
+
+\t María tajkaim          ya'asukai          am            bwaka.
+\m María tajkaim          ya'a-su-kai          am            bwa-ka.
+\g  María tortillas      make-TERM-SUB        3NNOM.PL   eat-PST
+\l Doing tortillas, María ate them.
+
+\t [u        yoi                    a=karowa       tuchakai],            [uka          liachota      toboktakai]          [a             kariwa        bicha weetaitekai]          [uka          puetata       etapokai],          [a     jubiawa        tebotuak].
+\m [u        yoi                    a=karo-wa       tucha-kai],            [u-ka          liacho-ta      tobokta-kai]          [a             kari-wa        bicha wee-taite-kai]          [u-ka          pueta-ta       etapo-kai],          [a     jubia-wa        tebotua-k].
+\g    DET    (non-Yaqui).man        3SG.PL car-POSS      stop-SUB           DET-NNOM.SG bag-NNOM.SG take-SUB                   3SG.POSS       house-POSS toward go.SG-begin-SUB            DET-NNOM.SG door-NNOM.SG open-SUB                  3SG.PL wife-POSS       greet-PST  
+\l The man stopped his car, took the bag, went to his house, opened the door and greeted his wife.
+
+\t u       ili    jamut           yepsakai      jichiktaitek.
+\m u       ili    jamut           yepsa-kai      jichik-taite-k.
+\g   DET   small woman                   arrive-SUB      browse-INCEP-PST
+\l The woman, (after) arriving, began to browse.
+
+\t u       ili   jamut         yepsakai      into          jichiktaitek.
+\m u       ili   jamut         yepsa-kai      into          jichik-taite-k.
+\g   DET    small woman                arrive-SUB            and browse-INCEP-PST
+\l The woman arrived and began to browse.
+
+\t u       achai jibwakai,       joboakai,    mambaksiakai (into) a=            ili    usimmeu      etejotaitek.
+\m u       achai jibwa-kai,       joboa-kai,    mam-baksia-kai (into) a=            ili    usi-mme-u      etejo-taite-k.
+\g  DET    father eat-SUB,        full-SUB      hand-wash-SUB (and) 3SG.POSS        small child-PL-to     talk-begin-PST
+\l The father ate, (became) full, washed his hands and began to talk to his children.
+
+\t u        achai jibwak(*kai) (into) joboak          (into) mambaksiak       into     a=ili     usimmeu     etejotaitek.             
+\m u        achai jibwa-k(*-kai) (into) joboa-k          (into) mam-baksia-k       into     a=ili     usi-mme-u     etejo-taite-k.             
+\g DET      father eat-PST(*-SUB) (and) full-SUB         (and) hand-wash-SUB       and      3SG.POSS       small child-PL-to     talk-begin-PST
+\l The   father ate, (became) full, washed his hands and began to talk to his children.
+
+\t u       ili     uusi buitek          into    cheptek.
+\m u       ili     uusi buite-k          into    chepte-k.
+\g  DET    small boy run-PST             and     jump-PST
+\l The child ran and jumped.
+
+\t u      ili     uusi buite into       cheptek.
+\m u      ili     uusi buite into       chepte-k.
+\g  DET    small boy run         and     jump-PST
+\l The child ran and jumped.
+
+\t Diana    chu'uta       ibaktakai       a=muktuak.
+\m Diana    chu'u-ta       ibakta-kai       a=muk-tua-k.
+\g Diana    dog-NNOM.SG embrace-SUB 3NNOM.SG=die-CAUS-PST
+\l Diana embracing the dog, left it dead.
+
+\t Diana chu'uta          bichakai,      a=ibaktakai                  into      a=muktuak.                
+\m Diana chu'u-ta          bicha-kai,      a=ibakta-kai                  into      a=muk-tua-k.                
+\g Diana dog-NNOM.SG       see-SUB         3NNOM.SG=embrace-SUB          and              3NNOM.SG=die-CAUS-PST
+\l Diana saw the dog, embraced it and left it dead.
+
+\t Joan    [bochareota      bichakame] o'omtek             [into     maejtota         bichakame].
+\m Joan    [bocha-reo-ta      bicha-ka-me] o-'omte-k             [into     maejto-ta         bicha-ka-me].
+\g John     [shoe-NMLZ-NNOM.SG see-PST-NMLZ] RED-angry-PST       [and     teacher-NNOM.SG   see-PST-NMLZ] 
+\l John   who saw the shoemaker and who saw the teacher was angry.
+
+\t Joan      [bochareota      bichakame o'omtek]            [into     maejtota          bichakai     ketchia].
+\m Joan      [bocha-reo-ta      bicha-ka-me o-'omte-k]            [into     maejto-ta          bicha-kai     ketchia].
+\g John      [shoe-NMLZ-NNOM.SG see-PST-NMLZ RED-angry-PST]       [and      teacher-NNOM.SG    see-PST-SUB too]       
+\l John    who saw the shoemaker was angry and (he) saw the teacher too.
+
+\t Joan [bochareota         bichakame o'omtek]         [maejtota           into bichakai      ketchia].
+\m Joan [bocha-reo-ta         bicha-ka-me o-'omte-k]         [maejto-ta           into bicha-kai      ketchia].
+\g John [shoe-NMLZ-NNOM.SG see-PST-NMLZ RED-angry-PST]       [teacher-NNOM.SG     and   see-PST-SUB too]       
+\l John who saw the shoemaker was angry and (who) saw the teacher too.
+
+\t Joan [bochareota         bichakame o'omtek]         [maejtota          bichakai     intoko 42].
+\m Joan [bocha-reo-ta         bicha-ka-me o-'omte-k]         [maejto-ta          bicha-kai     intoko 42].
+\g John [shoe-NMLZ-NNOM.SG see-PST-NMLZ RED-angry-PST]       [teacher-NNOM.SG    see-PST-SUB and]         
+\l John who saw the shoemaker was angry and (who) saw the teacher too.
+
+\t Malia [malawatakai               into papáwai] Dianata                                    betchi'ibo
+\m Malia [mala-wa-ta-kai               into papá-wa-i] Diana-ta                                    betchi'ibo
+\g  Mary [mother-POSS-NNOM.SG-SUB and father-POSS-i] Diana-NNOM.SG   for
+\l Mary is mother and father for Diana.
+
+\t Malia au             achaitakai       into                       au                 malawai.
+\m Malia a-u             achai-ta-kai       into                       a-u                 mala-wa-i.
+\g Mary 3NNOM.SG-DIR father-NNOM.SG-SUB and                            3NNOM.SG-DIR    mother-POSS-i
+\l Mary is father and mother for him/her.
+
+\t u         ili   jamut lapista       jinuk           into   a=nenkak.
+\m u         ili   jamut lapis-ta       jinuk           into   a=nenka-k.
+\g  DETPST   small woman         pencil       buy-PST       and 3NNOM.SG=s   ell-
+\l The girl bought a pencil and sold it.
+
+\t Jitá bwiika          into jitá      bwiika           ju       Joan?
+\m Jitá bwiika          into jitá      bwiika           ju       Joan?
+\g What sing.PRS        and     what sing.PRS           DET      John
+\l What does (the) John sings and sings?
+
+\t Jitá bwiika         into bwiika              ju     Joan?
+\m Jitá bwiika         into bwiika              ju     Joan?
+\g What sing.PRS        and     sing.PRS         DET    John
+\l What does (the) John sings and sings.
+
+\t Malia jitá   jijinukan into        jitá    jijinukan.
+\m Malia jitá   ji-jinu-ka-n into        jitá    ji-jinu-ka-n.
+\g Mary what RED-buy-and         what    RED-buy-PST-CONT
+\l What did Mary buy and buy?
+
+\t Joan dulsem          into dulsem              jiba bwabwae.
+\m Joan dulsem          into dulsem              jiba bwa-bwae.
+\g John candies         and    candies           always RED-eat
+\l John always eats candies and candies.
+
+\t Jabeta        bichak     into jabeta jikkaja                          ju       Peo.
+\m Jabe-ta        bicha-k     into jabe-ta jikkaja                          ju       Peo.
+\g Who-NNOM.SG see-PST        and who-NNOM.SG hear.PST                      DET      Peter
+\l Who did Peter see and who did he hear?
+
+\t Jabeta       bichak      into         jikka           ju      Peo.
+\m Jabe-ta       bicha-k      into         jikka           ju      Peo.
+\g Who-NNOM.SG see-PST         and          hear.PST        DET     Peter
+\l Who did Peter see and hear?
+
+\t Jabeta       bichakai   jabeta        into                  jikajak ju Peo?
+\m Jabe-ta       bicha-kai   jabe-ta        into                  jikaja-k ju Peo?
+\g Who-NNOM.SG see-SUB       who-NNOM.SG and                      hear-PST DET Peter?
+\l Who does Peter saw and who does (he) heard?
+
+\t ume ili          usim ka=ai tu'ure amako,            into       ket    ka=ai     wantaroa       [ameu        o'omtiwako]i
+\m ume ili          usim ka=ai tu'ure amako,            into       ket    ka=ai     wantaroa       [ame-u        o'omti-wa-ko]i
+\g DET.PL small     boy not=it like sometimes, and                 too    not=it    support        3PL.OBL-DIR angry-PASS-when 
+\l Children do    not like and sometimes they do not support the anger towards them
+
+\t Joan yew=am           go'otak,     Peo       into ye=am            makak        ume maestrota                  ji'osteim jabeta           ama a=wanta juni'i.     
+\m Joan yew=am           go'ota-k,     Peo       into ye=am            maka-k        ume maestro-ta                  ji'oste-im jabe-ta           ama a=wanta juni'i.     
+\g John out=3NNOM.PL throw-PST         Peter     and HO=3NNOM.PL       make-PST      DET.PL teacher-NNOM.SG          writing-PL who-NNOM.SG       there 3NNOM.PL=like even
+\l John copied and Peter gave the teacher's   writings to whoever asks for them.
+
+\t Joan     a=jinupea      Peo into        junea                 jaisa    teak uka             karrota      1980     nenenkame.     
+\m Joan     a=jinu-pea      Peo into        junea                 jaisa    teak uka             karro-ta      1980     ne-nenka-me.     
+\g Joan     3NNOM.SG=buy-want          Peter and       know       how      name the.NNOM.SG car-NNOM.SG 1980           RED-sell-SUBJ.REL
+\l John   wants to buy and Peter knows the name of   the person who sells a 1980 car.
+
+\t Jose aman pasiyaloapea ta             a       beas       koptilawa            a=samaiwata           jo'akapo. 
+\m Jose aman pasiyaloa-pea ta             a       beas       kopti-la-wa            a=samai-wa-ta           jo'aka-po. 
+\g  Jose there visit-DES          but     3SG really         forget-PFV-PASS        3SG.POSS=aunt-POSS-NNOM.SG live-LOC
+\l Jose wants to visit there, but he really forgot where his aunt lives
+
+\t Jose           au             pasiyaloapea ta       a         beas         koptilawa            [a=samaiwata]             jo'akapo           
+\m Jose           a-u             pasiyaloa-pea ta       a         beas         kopti-la-wa            [a=samai-wa-ta]             jo'aka-po           
+\g  Jose          3NNOM.SG-DIRvisit-DES           but    3SG       really       forget-PFVA-PASS       [3SG.POSS=aunt-POSS-NNOM.SG]            live-LOC
+\l Jose wants to visit her, but he really forgot where his aunt    lives
+
+\t nem           juubi chu'uta           tu'ure.
+\m nem           juubi chu'u-ta           tu'ure.
+\g 1SG.POSS      wife dog-NNOM.SG   like.PRS
+\l My wife likes the dog.
+
+\t nem           juubi chu'um            tu'ure
+\m nem           juubi chu'u-m            tu'ure
+\g 1SG.POSS      wife dog-PL              like.PRS
+\l My wife likes the dogs.
+
+\t nem          juubi chu'umta                tu'ure.
+\m nem          juubi chu'u-m-ta                tu'ure.
+\g 1SG.POSS      wife dog-PL-NNOM.SG     like.PRS
+\l My wife likes the dogs.
+
+\t Wiikit     aa      nenne'e.
+\m Wiikit     aa      nen-ne'e.
+\g Bird       can     RED-fly.PRS
+\l The bird can fly.
+
+\t jume      wiikichim       nenne'e.
+\m ju-me      wiikich-im       nen-ne'e.
+\g DET.PL     bird-PL          RED-fly.PRS
+\l The birds are flying.
+
+\t Uusi      Vicammeu siika.
+\m Uusi      Vicamme-u siika.
+\g Boy       Vicam-DIR      go.SG.PRS
+\l The boy is going to Vicam.
+
+\t Uusim Vicammeu siika.
+\m Uusi-m Vicamme-u siika.
+\g Boy-PL Vicam-DIR        go.SG.PRS
+\l The boys go to Vicam.
+
+\t Peroonim         pesiou                     siika.
+\m Peroon-im         pesio-u                     siika.
+\g Soldier-PL         Hermosillo-DIR       go.SG.PRS
+\l The soldiers are going to Hermosillo.
+
+\t Peroonim          pesiou                     sajak.
+\m Peroon-im          pesio-u                     sajak.
+\g Soldier-PL         Hermosillo-DIR       go.PL.PRS
+\l The soldiers are going to Hermosillo.
+
+\t buuru        bachita                      bwaka.
+\m buuru        bachi-ta                      bwa-ka.
+\g donkey       corn-NNOM.SG             eat-PST
+\l The donkey ate corn.
+
+\t buuru        aman                buite.
+\m buuru        aman                buite.
+\g donkey       there               ran.SG.PRS
+\l The donkey ran there.
+
+\t buurum       aman                tenne.
+\m buuru-m       aman                tenne.
+\g donkey-PL     there               ran.PL.PRS
+\l The donkeys ran there.
+
+\t See'e                             lu'utibae.
+\m See'e                             lu'uti-bae.
+\g Sand                              finish-INTT.
+\l The sand will finish.
+
+\t See'e          korapo        bo'ote.
+\m See'e          kora-po        bo'ote.
+\g  Sand          yard-LOC       lying.SG.PRS
+\l The sand is lying in the yard (corral).
+
+\t See'e         korapo        to'ote.
+\m See'e         kora-po        to'ote.
+\g  Sand          yard-LOC       lying.PL.PRS
+\l The sand is lying in the yard (corral).)
+
+\t wuikuim       jupau             weye.
+\m wuikui-m       jupa-u             weye.
+\g alligator-PL tree-to              go.SG.PRS
+\l The alligator is going to the    tree.
+
+\t wuikuim       jupau            sajak.
+\m wuikui-m       jupa-u            sajak.
+\g alligator-PL tree-to             go.PL.PRS
+\l The alligators are going to   the tree.
+
+\t yooko         [Joan into Peo] tennibae
+\m yooko         [Joan into Peo] tenni-bae
+\g tomorrow      John and       Peter run.PL-INTT
+\l John and Peter will run tomorrowi
+
+\t yooko        [Joan into Peo] buitibae.
+\m yooko        [Joan into Peo] buiti-bae.
+\g Tomorrow      John and       Peter run.SG-INTT
+\l John and Peter will run tomorrow
+
+\t jume uúsim           into ju'u             maejto           aman sajak.
+\m jume uúsi-m           into ju'u             maejto           aman saja-k.
+\g DET.PL child-PL       and    DET.SG         teacher          there go.PL-PST
+\l The children and the teacher went over there.
+
+\t ju'u          maejto         into jume uúsim                 aman sajak.
+\m ju'u          maejto         into jume uúsi-m                 aman sajak.
+\g DET.SG        teacher        and DET.PL child-PL              there go.PL.PST
+\l The teacher and the children went over there.
+
+\t bejo'orim      nas          buibuite
+\m bejo'ori-m      nas          bui-buite
+\g lizard-PL       DIR          RED-run.SG.PRS
+\l The lizard is running (without a specific direction).
+
+\t bejo'orim     nas            tettenne.
+\m bejo'ori-m     nas            tet-tenne.
+\g lizard-PL      DIR            RED-run.PL.PRS
+\l The lizards are running. (without a specific direction)
+
+\t bejo'orim      yumjoe(mme).
+\m bejo'ori-m      yumjoe-(mme).
+\g lizard-PL       rest.PRS-(3PL)
+\l The lizard(s) is/are resting.
+
+\t bejo'orim     into sakkaom                 inim yumjoe.
+\m bejo'ori-m     into sakkao-m                 inim yumjoe.
+\g lizard-PL      and gila.monster-PL           here rest.PRS
+\l The lizards and the gila monsters are resting here.
+
+\t wepul bejo'orim     into wepul sakkaom                     inim   yumjoe.
+\m wepul bejo'ori-m     into wepul sakkao-m                     inim   yumjoe.
+\g one lizard-PL        and    one gila.monster-PL              here   rest.PRS
+\l One lizard and one gila monster are resting here.
+
+\t Yoeme                juyau         siika into                   uusim (ketchia).
+\m Yoeme                juya-u         siika into                   uusi-m (ketchia).
+\g Man         forest-DIR       go.SG and               boy-PL   (too)
+\l The man went to the forest and the boys (too).
+
+\t Joan sajak          into Peo (ketchia).
+\m Joan sajak          into Peo (ketchia).
+\g  John go.PL.PST      and     Peter (too)
+\l John went and Peter (too
+
+\t Ju'u wiikit nene'e.
+\m Ju'u wiikit ne-ne'e.
+\g DET.SG bird    RED-fly
+\l The bird flies.
+
+\t Jume wikichim         nene'e.
+\m Jume wikich-im         ne-ne'e.
+\g DET.PL bird-PL         RED-fly
+\l The birds fly.
+
+\t [UusiCONC:SG into          yoemeC              ]IND   :PL      tekipanoa.C            IND:Ø
+\m [UusiCONC:SG into          yoemeC              ]IND   :PL      tekipanoa.C            IND:Ø
+\g  Boy          and          man                                 work:.PRS
+\l The boy and the man are working.
+
+\t inepo yoemta                    kechak.
+\m inepo yoem-ta                    kecha-k.
+\g 1SG man-NNOM.SG         get.up.NNOM.SG-PST
+\l I got the man up.
+
+\t inepo yoemem              ja'abwak.
+\m inepo yoeme-m              ja'abwa-k.
+\g 1SG man-PL                 get.up.NNOM.PL-PST
+\l I got the men up.
+
+\t Maria yoemta                       into usita                    kechak.
+\m Maria yoem-ta                       into usi-ta                    kecha-k.
+\g Maria man-NNOM.SG and               child-NNOM.SG                  get.up.NNOM.SG-PST
+\l Maria got up the man and the child.
+
+\t Maria        yoemta        into          usita                            ja'abwak
+\m Maria        yoem-ta        into          usi-ta                            ja'abwa-k
+\g Maria man-NNOM.SG and               child-NNOM.SG                  get.up.NNOM.PL-PST
+\l Maria got up the man and the child.
+
+\t inepo yoemta         kechak                     into    usita.
+\m inepo yoem-ta         kecha-k                     into    usi-ta.
+\g 1SG man-NNOM.SG get.up.NNOM.SG-PST       and     child-NNOM.SG
+\l I get up the man and the child.
+
+\t inepo yoemta         kechak            into             usita               kechak
+\m inepo yoem-ta         kecha-k            into             usi-ta               kecha-k
+\g 1SG man-NNOM.SG get.up.NNOM.SG-PST and                    child-NNOM.SG     get.up.SG-PST
+\l I get up the man and get up the child.
+
+\t inepo yoemta         kechak                     into usita              kechia.
+\m inepo yoem-ta         kecha-k                     into usi-ta              kechia.
+\g 1SG man-NNOM.SG get.up.SG.OBJ-PST                 and child-NNOM.SG    too
+\l I get up the man and (to) the child too.
+
+\t inepo ja'abwak              yoemta             into    usita.
+\m inepo ja'abwa-k              yoem-ta             into    usi-ta.
+\g 1SG get.up.PL.OBJ-PST         man-NNOM.SG   and     child-NNOM.SG
+\l I get up the man and the child.
+
+\t inepo yoemta         ja'abwak                  into    usita               (ketchia)
+\m inepo yoem-ta         ja'abwa-k                  into    usi-ta               (ketchia)
+\g 1SG man-NNOM.SG get.up.PL.OBJ-PST                 and     child-NNOM.SG     (too)
+\l I get up the man and the child too.
+
+\t inepo maeche'etam             ja'abwak
+\m inepo maeche'eta-m             ja'abwa-k
+\g 1SG machete-PL                 put.up.PL.OBJ-PST
+\l I put up the machetes
+
+\t inepo maeche'etam             kechak
+\m inepo maeche'eta-m             kecha-k
+\g 1SG machete-PL                 put up.SG.OBJ-PST
+\l I put up the machete
+
+\t inepo mache'etam into kuchi'im                ja'abwak.
+\m inepo mache'eta-m into kuchi'i-m                ja'abwa-k.
+\g 1SG machete-PL and           knife-PL           put.up.PL.OBJ-PST
+\l I put up the machetes and the knifes.
+
+\t inepo mache'etam into kuchi'im                kechak.
+\m inepo mache'eta-m into kuchi'i-m                kecha-k.
+\g 1SG machete-PL and           knife-PL           put.up.SG.OBJ-PST
+\l I put up the machete and the knife.
+
+\t inepo mache'etam kechak                       into   kuchi'im
+\m inepo mache'eta-m kecha-k                       into   kuchi'i-m
+\g 1SG machete-PL put.up.SG.OBJ-PST      and    knife-PL
+\l I put up the machete and the knife
+
+\t inepo usita                  into ilí       jamuchim      to'ak.
+\m inepo usi-ta                  into ilí       jamuch-im      to'a-k.
+\g 1SG child-NNOM.SG             and little     woman-PL       put.down.PL.OBJ-PST
+\l I put down the child and the girls.
+
+\t inepo ilí     jamuchim       into usita                   to'ak.
+\m inepo ilí     jamuch-im       into usi-ta                   to'a-k.
+\g 1SG little woman-PL           and child-NNOM.SG         put down.PL.OBJ-PST
+\l I put down the girls and the child.
+
+\t inepo usita                 into ilí       jamuchim      teeka.
+\m inepo usi-ta                 into ilí       jamuch-im      teeka.
+\g 1SG child-NNOM.SG             and little     woman-PL       put.down.SG.OBJ.PST
+\l I put down the child and the girls.
+
+\t inepo ilí jamuchim          into usita                   teeka.
+\m inepo ilí jamuch-im          into usi-ta                   teeka.
+\g 1SG little woman-PL           and child-NNOM.SG         put.down.SG.OBJ.PST
+\l I put down the girls and the child.
+
+\t inepo usí      o'outa               into usí        jamutta           bankot         am=joák.              
+\m inepo usí      o'ou-ta               into usí        jamut-ta           banko-t         am=joá-k.              
+\g 1SG child male-NNOM.SG               and child female-NNOM.SG   chair-LOC               3OBJ.PL=sit.down.PL-PST
+\l I sit them down the boy and the girl in the chair.
+
+\t inepo bankot           am=yechak                            juka          usi             o'outa                 into juka              usí     jamutta.
+\m inepo banko-t           am=yecha-k                            juka          usi             o'ou-ta                 into juka              usí     jamut-ta.
+\g  1SG chair-LOC           3OBJ.PL=sit.down.SG.OBJ-PST           DET.NNOM.SG   child          male-NNOM.SG            and    DET.NNOM.sG child female-NNOM.SG 
+\l I sit them down in   the chair, the boy and the girl.
+
+\t inepo bankot         am=joák                               juka            usí         o'outa               into juka              usí      jamutta.
+\m inepo banko-t         am=joá-k                               juka            usí         o'ou-ta               into juka              usí      jamut-ta.
+\g 1SG chair-LOC         3OBJ.PL=sit.down:PL.OBJ-PST            DET.NNOM.SG   child         male-NNOM.SG          and      DET.NNOM.SG child female-NNOM.SG
+\l I sit them down in the chair, the boy and the girl.
+
+\t inepo bankot          a=yechak                            juka             usí      o'outa. 
+\m inepo banko-t          a=yecha-k                            juka             usí      o'ou-ta. 
+\g 1SG chair-LOC          3OBJ.SG=sit down.SG.OBJ-PST       DET.NNOM.SG         child male-NNOM.SG
+\l I sit him down in the chair, the boy.
+
+\t inepo bankot         a=yechak                           juka                 uusí o'outa             into juka           uusí jamutta.
+\m inepo banko-t         a=yecha-k                           juka                 uusí o'ou-ta             into juka           uusí jamut-ta.
+\g 1SG chair-LOC          3OBJ.SG=sit.down.SG.OBJ-PST         DET.NNOM.SG         child male-NNOM.SG and DET.NNOM.SG child female-NNOM.SG    
+\l I sit him/her down in the chair, the boy and the girl.
+
+\t inepo [usim CONC:PL] IND:PL                to'a CONC:PL/ IND:PL
+\m inepo [usi-m CONC:PL] IND:PL                to'a CONC:PL/ IND:PL
+\g 1SG            child-PL                     lay.down.PL.OBJ.PST
+\l I laid down the children.
+
+\t [bejo'orim]            siika.
+\m [bejo'ori-m]            siika.
+\g lizard-PL               left
+\l The lizard left.
+
+\t bejo'orim     into porowim                            sajak
+\m bejo'ori-m     into porowi-m                            saja-k
+\g  Lizard-PL     and porowi 45-PL                         leave.PL-PST
+\l The lizard and the porowi left
+
+\t Joan     imi'i into aman ket          weaman.
+\m Joan     imi'i into aman ket          weama-n.
+\g John     here and       there too     walk-PST.CONT
+\l John   was here and there too.
+
+\t Joan aman into imi'i ket            weaman.
+\m Joan aman into imi'i ket            weama-n.
+\g John there and        here too       to be-PST.CONT
+\l John was there and here.
+
+\t jiba bena iani junak benasia.
+\m jiba bena iani junak bena-sia.
+\g already         seem today then seem-sia
+\l It is the same now and then.
+
+\t jiba bena junak into ian            benasia.
+\m jiba bena junak into ian            bena-sia.
+\g already         seem then and        today seem-sia
+\l It is the same then and now.
+
+\t Em      chu'u into em           miisi nau=nassua.
+\m Em      chu'u into em           miisi nau=nassua.
+\g Your dog and          your      cat     together=fight.PRS
+\l Your dog and your cat are    fighting.
+
+\t Ju      achai into a=usiwa         nau            bwiika.
+\m Ju      achai into a=usi-wa         nau            bwiika.
+\g  DET    father and     3POSS=son-POSS         together       sing.PRS
+\l The father and his son are singing together.
+
+\t Ju     uusi into a=achaiwa       nau            bwiika.
+\m Ju     uusi into a=achai-wa       nau            bwiika.
+\g DET    boy and        3POSS=father-POSS together           sing.PRS
+\l The boy and his father are singing together.
+
+\t bwerem        into ilitchi sotoim          tu'ule.
+\m bwere-m        into ilitchi sotoi-m          tu'ule.
+\g Big-PL         and     small pot-PL          like.PRS
+\l (S)he likes big and small pots.
+
+\t ilitchim      into bwere            sotoim        tu'ule.
+\m ilitchi-m      into bwere            sotoi-m        tu'ule.
+\g small-PL       and    big            pot-PL         like.PRS
+\l (S)he likes small and big pots.
+
+\t uka              o'outa      into wepul jamutta                    nee             bichakan. 
+\m uka              o'ou-ta      into wepul jamut-ta                    nee             bicha-k-an. 
+\g  DET.NNOM.SG     man-NNOM.SG and one woman-NNOM.SG     1SG                           see-PST-CONT
+\l I was looking   a man and one woman.
+
+\t jamutta            into o'ou.ta            nee    bichak        amani.
+\m jamut-ta            into o'ou.-ta            nee    bicha-k        amani.
+\g woman-NNOM.SG       and man-NNOM.SG 1SG    see-PST        there
+\l I saw a woman and a man over there.
+
+\t bempo emo kukunak.
+\m bempo emo ku-kuna-k.
+\g They REFL PL-husband-POSS
+\l They are married.
+
+\t bempo emo jujubek.
+\m bempo emo ju-jube-k.
+\g They REFL PL-wife-POSS
+\l They are married.
+
+\t [Jamut      into uusim]           teopopo       bwuikbae.
+\m [Jamut      into uusi-m]           teopo-po       bwuik-bae.
+\g Woman       and boy-PL             church-LOC sing-INTT
+\l The woman and the boys will sing in the church.
+
+\t [uusim       into jamut]          teopopo       bwuikbae.
+\m [uusi-m       into jamut]          teopo-po       bwuik-bae.
+\g Boy-PL        and woman                    church-LOC sing-INTT
+\l The boys and the woman will sing in the church.
+
+\t u        cu'u [[buruta]               into       [kaba'ita]]          ke'eka.
+\m u        cu'u [[buru-ta]               into       [kaba'i-ta]]          ke'e-ka.
+\g    DET   dog donkey-NNOM.SG            and        horse-NNOM.SG       bite-PST
+\l The dog bites the donkey and the horse
+
+\t u        cu'u [[buru           into kaba'i]ta]                ke'eka.
+\m u        cu'u [[buru           into kaba'i]-ta]                ke'e-ka.
+\g    DET    dog donkey                   and horse-NNOM.SG      bite-PST
+\l The dog bites the donkey and the horse.
+
+\t [Bochareo   into kuchureo]        jo'arapo       nau       etejo.
+\m [Bochareo   into kuchureo]        jo'ara-po       nau       etejo.
+\g  Shoemaker and fisherman          house-LOC       togethe        r talk:PRS
+\l The shoemaker and the fisherman are talking in the house.
+
+\t [Sandrata               into Joelta]=ne yokiam                makak.
+\m [Sandra-ta               into Joel-ta]=ne yokia-m                maka-k.
+\g      Sandra-NNOM.SG and       Joel-NNOM.SG=1SG marker-PL              give-PST
+\l I gave the markers to Sandra and to Joel.
+
+\t (171) [Rosatau              into Patriciatau]=ne      na'asom        tojak.          
+\m (171) [Rosa-ta-u              into Patricia-ta-u]=ne      na'aso-m        toja-k.          
+\g        Rosa-NNOM.SG-DIR and        Patricia-NNOM.     SG-DIR=1SG     orange-PL       bring-    PST
+\l I brought oranges to Rosa and to Patricia.
+
+\t Aapo [Lupetamak          into Lolistamak]                    tekipanoa.
+\m Aapo [Lupe-ta-mak          into Lolis-ta-mak]                    tekipanoa.
+\g 3SG Lupe-NNOM.SG-COM and Lolis-NNOM.SG-                  COM    work.PRS
+\l (S)he works with Lupe and with Lolis.
+
+\t Joan into      [a=akowa              into a=saiwa]                   uka        karita               su'utojakame.
+\m Joan into      [a=ako-wa              into a=sai-wa]                   uka        kari-ta               su'utoja-ka-me.
+\g John and 3POSS=sister-POSS and 3POSS=brother-POSS DET.NNOM. SG                    house-NNOM.SG         left-PST-3PL   
+\l John and his sister and his brother left the house.
+
+\t Joan e'echa         into                                tekipanoa
+\m Joan e'echa         into                                tekipanoa
+\g John sow.PRT        and                                 work.PRT
+\l John sows and works
+
+\t u       cu'u [[buruta]              into     [kaba'ita]]              ke'eka.
+\m u       cu'u [[buru-ta]              into     [kaba'i-ta]]              ke'e-ka.
+\g  DET    dog donkey-NNOM.SG           and      horse-NNOM.SG         bite-PST
+\l The dog bites the donkey and the horse.
+
+\t u      cu'u [[buru           into kaba'i]ta]                ke'eka.
+\m u      cu'u [[buru           into kaba'i]-ta]                ke'e-ka.
+\g  DET    dog donkey                   and horse-NNOM.SG      bite-PST
+\l The dog bites the donkey and the horse.
+
+\t [Joan bwikak]     into [maria            ye'eka]
+\m [Joan bwika-k]     into [maria            ye'e-ka]
+\g John sing-PST       and    Mary            dance-PST
+\l John sang and Mary danced
+
+\t [Joan bwikak]      [maría into     ye'eka]
+\m [Joan bwika-k]      [maría into     ye'e-ka]
+\g John sing-PST       Mary and        dance-PST
+\l John sang and Mary danced
+
+\t Joan into Peo sajak/                        *siika
+\m Joan into Peo sajak/                        *siika
+\g John and Peter go.PL.PST   /      go.SG.PST
+\l John and Peter left
+
+\t Andrea Joanta       into peota                     kechak/        *ja'abwak
+\m Andrea Joan-ta       into peo-ta                     kecha-k/        *ja'abwa-k
+\g Andrea John-NNOM.SG and Peter-NNOM.SG    get up.SG.OBJ-PSTget up.PL.OBJ-PST
+\l Andrea got up John and Peter
+
+\t [jabe bibam jinuk]           [jabe into binota                               jinuk]
+\m [jabe bibam jinu-k]           [jabe into bino-ta                               jinu-k]
+\g Who cigars buy-PST            who and wine-NNOM:                    SG         buy-PST
+\l Who bought cigars and who bought wine?
+
+\t [jabe           bibam jinuk]         [jabe into binota                                jinuk]
+\m [jabe           bibam jinu-k]         [jabe into bino-ta                                jinu-k]
+\g Who cigars buy-PST                    who and        wine-NNOM:              SG         buy-PST
+\l Who bought cigars and bought wine?
+
+\t [jabe bibam jinuk]           [jabe into                 binota                   jinuk]
+\m [jabe bibam jinu-k]           [jabe into                 bino-ta                   jinu-k]
+\g Who cigars buy-PST            who and                    wine-NNOM:     SG         buy-PST
+\l Who bought cigars and wine?
+
+\t [jabe bibam jinuk]           [jabe into                 binota                   jinuk]
+\m [jabe bibam jinu-k]           [jabe into                 bino-ta                   jinu-k]
+\g Who cigars buy-PST            who and                    wine-NNOM:     SG        buy-PST
+\l Who bought cigars and wine?
+
+\t [jabe bibam jinuk]             [jabe into binota                                  jinuk]
+\m [jabe bibam jinu-k]             [jabe into bino-ta                                  jinu-k]
+\g Who cigars buy-PST              who and wine-NNOM:                            SG   buy-PST
+\l Who did buy cigars, who did buy wine?
+
+\t kwarénta péso dyáryota=ne                    nekóba íani ínine
+\m kwarénta péso dyáryota=ne                    ne-kóba íani ínine
+\g     forty         peso daily=CLIT.1SG 1SG-earn now here
+\l Now I make forty pesos a day here.
+
+\t  tuká=ne                  antónyta   bicak
+\m  tuká=ne                  antónyta   bicak
+\g yesterday=CLIT.1SG Antonio           saw
+\l Yesterday, I saw Antonio.
+
+\t (iii) /inepo ne/ame/ak
+\m (iii) /inepo ne-/a-me/ak
+\g     I       1SG-it-threw
+\l I threw it.
+
+\t  tuká=ne                 antónyta   bicak
+\m  tuká=ne                 antónyta   bicak
+\g yesterday=CLIT.1SG Antonio          saw
+\l Yesterday, I saw Antonio.
+
+\t tuká=ne                  antónyta   bicak.
+\m tuká=ne                  antónyta   bicak.
+\g yesterday=CLIT.1SG Antonio          saw
+\l Yesterday, I saw Antonio.
+
+\t tuká=ne                  antónyta   bicak.
+\m tuká=ne                  antónyta   bicak.
+\g yesterday=CLIT.1SG Antonio          saw
+\l Yesterday, I saw Antonio.
+
+\t kwarénta péso dyáryota=ne                    nekóba íani ínine
+\m kwarénta péso dyáryota=ne                    ne-kóba íani ínine
+\g     forty         peso daily=CLIT.1SG 1SG-earn now here
+\l Now I make forty pesos a day here.
+
+\t  tuká=ne                  antónyta   bicak
+\m  tuká=ne                  antónyta   bicak
+\g yesterday=CLIT.1SG Antonio           saw
+\l Yesterday, I saw Antonio.
+
+\t (iii) /inepo ne/ame/ak
+\m (iii) /inepo ne-/a-me/ak
+\g     I       1SG-it-threw
+\l I threw it.
+
+\t  tuká=ne                 antónyta   bicak
+\m  tuká=ne                 antónyta   bicak
+\g yesterday=CLIT.1SG Antonio          saw
+\l Yesterday, I saw Antonio.
+
+\t tú'ulise'e       `áa          hí'ohte
+\m tú'uli-s-e'e       `áa          hí'ohte
+\g pretty-ADV-2S able              write
+\l you can write beautifully
+
+\t kátte      bitwak
+\m kát-te      bit-wa-k
+\g NEG-1P      see-PASS-PRF
+\l we were not seen
+
+\t haísate    `ánnee
+\m haí-sa-te    `án-nee
+\g how-Q-1P do-FUT
+\l what shall we do?
+
+\t bína'abo           katé`em
+\m bín-a'abo           katé-`em
+\g this direction-here come-2P
+\l You (plural), come here!
+
+\t hunáa'a baákot 'ém          kó'okosi yáaka'u 'encí  ná'atehok
+\m hunáa'a baákot 'ém          kó'oko-si yáa-k-a'u 'encí  ná'ateho-k
+\g that     snake your(GEN) pain-ADV make-PRF-NML you-ACC accuse-PRF
+\l The snake that you hurt accused you.
+
+\t behák      née bakótta        bobókta     bwá'emta né bícak
+\m behák      née bakót-ta        bobók-ta     bwá'e-m-ta né bíca-k
+\g just:now I       snake-ACC frog-ACC eat-NML-ACC I see-PRF
+\l I just saw a snake that is eating a frog.
+
+\t tú'ulise'e        `áa      hí'ohte
+\m tú'uli-s-e'e        `áa      hí'ohte
+\g pretty-ADV-2S able           write
+\l you can write beautifully
+
+\t kátte        bitwak
+\m kát-te        bit-wa-k
+\g NEG-1P        see-PASS-PRF
+\l we were not seen
+
+\t haísate     `ánnee
+\m haí-sa-te     `án-nee
+\g how-Q-1P do-FUT
+\l what shall we do?
+
+\t bína'abo           katé`em
+\m bín-a'abo           katé-`em
+\g this direction-here come-2P
+\l You (plural), come here!
+
+\t Joan Peota        /uka      vacita     miikak.
+\m Joan Peo-ta        /uka      vaci-ta     miika-k.
+\g Juan Pedro-ACC DET.ACC corn-ACC give-PERF
+\l Juan gave Pedro the corn.
+
+\t Peo      /uka      vacita      miikwak.
+\m Peo      /uka      vaci-ta      miik-wa-k.
+\g Pedro    DET.ACC corn-ACC       give-PASS-PERF
+\l Pedro was given the corn.
+
+\t U/u        vaci Peota         miikwak.
+\m U/u        vaci Peo-ta         miik-wa-k.
+\g DET.NOM     corn Pedro-ACC give-PASS-PERF
+\l The corn was given to Pedro.
+
+\t U/u          maejto usita          mansanata yoemta      miiktuak.
+\m U/u          maejto usi-ta          mansana-ta yoem-ta      miik-tua-k.
+\g DET.NOM      teacher child-ACC apple-ACC man-ACC            give-CAUS-PERF
+\l The teacher made the child give the man the apple.
+
+\t U/u       usi mansanata yoemta          miiktuawak.
+\m U/u       usi mansana-ta yoem-ta          miik-tua-wa-k.
+\g DET.NOM child apple-ACC man-ACC           give-CAUS-PASS-PERF
+\l The child was made to give the man the apple.
+
+\t Nim      achai [ enchi            ye'emta]           bichak.
+\m Nim      achai [ enchi            ye'e-m-ta]           bicha-k.
+\g 1SG:GEN father 2SG:ACC            dance-NMZ-ACC   see-PRFV
+\l My father saw you dance.
+
+\t Nepo          [ am       uubane`u]i             bichan
+\m Nepo          [ am       uuba-ne-`u]i             bicha-n
+\g 1SG:NOM         3PL:ACC bath-EXPE-C        LM     see-PAS   TC
+\l I saw that they would take a bath.
+
+\t Nepo         ai         bichan      [ am                uubane`u]i
+\m Nepo         ai         bicha-n      [ am                uuba-ne-`u]i
+\g 1SG:NOM 3SG:ACC see-PASTC 3PL:                    ACC    bath-EXPE-C     LM
+\l I saw it, that they would take a bath.
+
+\t Nepo       Peotai     bichan     [ ai            uubane`u]
+\m Nepo       Peo-tai     bicha-n     [ ai            uuba-ne-`u]
+\g 1SG:NOM Peo-ACC see-PASTC 3SG:AC               C   bath-EXPE-C   LM
+\l I saw Pedro, that he would take a bath.
+
+\t Ne         [ yooko      Goyota     maskata jo'ane`u ]                       jikkak.
+\m Ne         [ yooko      Goyo-ta     maska-ta jo'a-ne-`u ]                       jikka-k.
+\g 1SG:NOM tomorrow Goyo-ACC mask-ACC make-EXPE-C                             LM   hear-PRFV
+\l I heard that Goyo will do the mask tomorrow.
+
+\t GoyoØ     ai         i'ineak [ Tibuta kaa jamutta             jubka'u]i
+\m Goyo-Ø     ai         i'inea-k [ Tibu-ta kaa jamut-ta             jub-ka-'u]i
+\g Goyo-NOM 3SG:ACC feel-PRFV Tibu-ACC NEG woman-ACC marry-PRFV-C                                   LM
+\l Goyo had a feeling of it, that Tibu didn't want to marry this woman.
+
+\t Ne            ai         ji'ibwen   [ wakabakta si osi cho'okokan`u]i
+\m Ne            ai         ji'ibwe-n   [ wakabak-ta si osi cho'oko-kan-`u]i
+\g 1SG:NOM 3SG:ACC taste-PASTC wakabaki-ACC a lot be salty-PASTC-CLM
+\l I tasted it, that the wakabaki was too salty.
+
+\t MariaØ     [ enchi           bwanamta]        jikkak.
+\m Maria-Ø     [ enchi           bwana-m-ta]        jikka-k.
+\g Maria-NOM 2SG:AC          C   cry-NMZ-ACC        hear-PRF   V
+\l Mary heard you cry.
+
+\t Ne       [ Peota     chu'uta jinukamta]            bichak.
+\m Ne       [ Peo-ta     chu'u-ta jinu-ka-m-ta]            bicha-k.
+\g 1SG:NOM Peo-ACC dog-ACC buy-PRFV-NMZ-ACC   see-PRFV
+\l I saw Pedro to have bought a dog.
+
+\t Ne         Peota    chu'uta     jinubichak.
+\m Ne         Peo-ta    chu'u-ta     jinu-bicha-k.
+\g 1SG:NOM Peo-ACC dog-ACC           buy-see-PRFV
+\l I saw Pedro buying a dog.
+
+\t Inian tuukapo     GoyoØ       Ibanta       simbichak.
+\m Inian tuuka-po     Goyo-Ø       Iban-ta       sim-bicha-k.
+\g that   night-LOC Goyo-NOM Ivan-AC         C   go-see-PRFV
+\l That night Goyo saw Ivan leaving.
+
+\t MariaØ      ai        bichak [ chubala enchi       serbesata je'eka`u]i
+\m Maria-Ø      ai        bicha-k [ chubala enchi       serbesa-ta je'e-ka-`u]i
+\g Maria-NOM 3SG:ACC see-PRFV time ago 2SG:ACC beer-ACC drink-PRFV-CLM
+\l Maria saw it, that you drank beer sometime ago (= she saw the empty bottles).
+
+\t FerminØ     ai          jikkak [ Ivanta     aabo siime`u yooko ]
+\m Fermin-Ø     ai          jikka-k [ Ivan-ta     aabo siime-`u yooko ]
+\g Fermin-NOM 3SG:ACC hear-PRFV Ivan-ACC here go-CLM tomorrow
+\l Fermín heard it, that Ivan will come tomorrow.
+
+\t GoyoØ     kaa [ Ibanta          siika`u]          bichak.
+\m Goyo-Ø     kaa [ Iban-ta          siika-`u]          bicha-k.
+\g Goyo-NOM NEG         Ivan-ACC go:PRFV-C         LM   see-PRFV
+\l Goyo didn't see that Ivan left.
+
+\t GoyoØ       ai         bichak      [ Ibanta        kaa siika`u]i
+\m Goyo-Ø       ai         bicha-k      [ Iban-ta        kaa siika-`u]i
+\g Goyo-NOM 3SG:ACC see-PRFV              Ivan-AC   C    NEG go:PRFV-C    LM
+\l Goyo saw it, that Ivan did not leave.
+
+\t GoyoØ        Ibanta      kaa simbichak
+\m Goyo-Ø        Iban-ta      kaa sim-bicha-k
+\g Goyo-NOM      Ivan-ACC NEG go-see-PRFV
+\l Goyo didn't see Ivan leaving / *Goyo saw Ivan not leave.
+
+\t Ne           ka [ Goyota maskata jo'amta ]              bichak.
+\m Ne           ka [ Goyo-ta maska-ta jo'a-m-ta ]              bicha-k.
+\g 1SG:NOM NEG Goyo-ACC mask-ACC make-NMZ-ACC see-PRFV
+\l I didn't see Goyo make the mask / *I saw Goyo didn't make the mask.
+
+\t AureliaØ      [ enchi     laabenta        ponamta]        jikkak.
+\m Aurelia-Ø      [ enchi     laaben-ta        pona-m-ta]        jikka-k.
+\g Aurelia-NOM 2SG:ACC violin-AC          C    play-NMZ-AC   C   hear-PR    FV
+\l Aurelia heard you play the violin.
+
+\t AureliaØ     [ enchi     laabenta ponaka`u]              jikkak.
+\m Aurelia-Ø     [ enchi     laaben-ta pona-ka-`u]              jikka-k.
+\g Aurelia-NOM 2SG:ACC violin-ACC play-PRFV-C             LM    hear-PR    FV
+\l Aurelia heard that you play the violin.
+
+\t AureliaØ     ai          jikkak      [ enchi        laabenta       ponaka`u ]i
+\m Aurelia-Ø     ai          jikka-k      [ enchi        laaben-ta       pona-ka-`u ]i
+\g Aurelia-NOM 3SG:ACC hear-PRFV            2SG:AC   C   violin-AC   C   play-PRFV-CLM
+\l Aurelia heard it, that you played the violin.
+
+\t AureliaØ      enchii    jikkak      [ enchii        laabenta       ponaka`u ]
+\m Aurelia-Ø      enchii    jikka-k      [ enchii        laaben-ta       pona-ka-`u ]
+\g Aurelia-NOM 2SG:ACC hear-PRFV           2SG:AC    C   violin-AC   C   play-PRFV-CLM
+\l Aurelia heard you that you played the violin.
+
+\t [Enchi      laabenta ponamta]            jikkawak.
+\m [Enchi      laaben-ta pona-m-ta]            jikka-wa-k.
+\g   2SG:ACC violin-ACC play-NMZ-ACC            hear-PASS-P   RFV
+\l It was heard that you play the violin.
+
+\t [Enchi      laabenta ponaka`u]          jikkawak.
+\m [Enchi      laaben-ta pona-ka-`u]          jikka-wa-k.
+\g  2SG:ACC violin-ACC play-PRFV-CLM hear-PASS-P            RFV
+\l It was heard that you played the violin.
+
+\t Ai        jikkawak         [ enchi     laabenta ponaka`u ]i
+\m Ai        jikka-wa-k         [ enchi     laaben-ta pona-ka-`u ]i
+\g 3SG:NOM hear-PASS-PRFV         2SG:ACC violin-ACC play-PRFV-CLM
+\l This was heard, that you played the violin.
+
+\t Empoi    jikkawak         [ enchii   laabenta ponaka`u ]
+\m Empoi    jikka-wa-k         [ enchii   laaben-ta pona-ka-`u ]
+\g 2SG:NOM hear-PASS-PRFV 2SG:ACC violin-ACC play-PRFV-CLM
+\l You were heard, that you played the violin.
+
+\t Ne         inoi        bichak [ si osi inoi             jaitimachiaka`u]
+\m Ne         inoi        bicha-k [ si osi inoi             jaiti-machia-ka-`u]
+\g 1SG:NOM 1SG:REFL see-PRFV            a lot 1SG:   REFL   dirty-appear-PRFV-C   LM
+\l I saw myself that I was too dirty.
+
+\t Ne         Ibantai     jikkak      [ sopam ai               bwa'aka'u]
+\m Ne         Iban-tai     jikka-k      [ sopa-m ai               bwa'a-ka-'u]
+\g 1SG:NOM Ivan-ACC hear-PRFV             soup-PL 3SG:    ACC     eat-PRFV-CLM
+\l I heard Ivan that he ate the soup.
+
+\t Ne          [ Ibanta     sopam bwa'aka'u]        jikkak.
+\m Ne          [ Iban-ta     sopa-m bwa'a-ka-'u]        jikka-k.
+\g 1SG:NOM Ivan-ACC soup-PL eat-PRFV-CLM                hear-PRFV
+\l I heard that Ivan ate the soup.
+
+\t Ne         Peota   chu'uta      jinubichak.
+\m Ne         Peo-ta   chu'u-ta      jinu-bicha-k.
+\g 1SG:NOM Peo-ACC dog-ACC           buy-see-PRFV
+\l I saw Pedro buying a dog.
+
+\t PeoØ     chu'uta jinubitwak.
+\m Peo-Ø     chu'u-ta jinu-bit-wa-k.
+\g Peo-NOM dog-ACC buy-see-PASS-P       RFV
+\l Pedro was seen buying a dog.
+
+\t MariaØ      [ ili   uusita          bwanamta]      jikkak.
+\m Maria-Ø      [ ili   uusi-ta          bwana-m-ta]      jikka-k.
+\g Maria-NOM little child-AC        C    cry-NMZ-ACC      hear-PRFV
+\l Maria heard the child cry.
+
+\t MariaØ      ili    uusita     bwanjikkak.
+\m Maria-Ø      ili    uusi-ta     bwan-jikka-k.
+\g Maria-NOM little child-ACC cry-hear-PRFV
+\l Maria heard the child crying.
+
+\t MariaØ [ enchi        kaba'im jinuka`u]                   bichak.
+\m Maria-Ø [ enchi        kaba'i-m jinu-ka-`u]                   bicha-k.
+\g Maria-NOM 2SG:ACC horse-PL buy-PRFV-C                  LM     see-PRFV
+\l Maria saw that you bought the horses.
+
+\t MariaØ      ai         bichak    [ enchi              kaba'im jinuka`u]i
+\m Maria-Ø      ai         bicha-k    [ enchi              kaba'i-m jinu-ka-`u]i
+\g Maria-NOM 3SG:ACC see-PRFV           2SG:AC        C    horse-PL buy-PRFV-C      LM
+\l Maria saw it, that you bought the horses.
+
+\t MariaØ     Goyotai     jikkak    [ kaba'im ai                   jinuka`u]
+\m Maria-Ø     Goyo-tai     jikka-k    [ kaba'i-m ai                   jinu-ka-`u]
+\g Maria-NOM Goyo-ACC hear-PRFV horse-PL 3SG:                    ACC    buy-PRFV-C   LM
+\l Maria heard Goyo that he bought the horses.
+
+\t GoyoØi    jikkawak       [ kaba'im ai                    jinuka`u]
+\m Goyo-Øi    jikka-wa-k       [ kaba'i-m ai                    jinu-ka-`u]
+\g Goyo-NOM hear-PASS-PRFV horse-PL 3SG:                 ACC    buy-PRFV-C    LM
+\l Goyo was heard that he bought the horses.
+

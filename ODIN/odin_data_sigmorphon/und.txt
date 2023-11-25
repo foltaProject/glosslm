@@ -1,0 +1,230 @@
+\t lægGutil    GjæXæuX tjElew          poX sjEts slOfsil                 spisiskEguX jigEEmt bælo   
+\m lægGutil    GjæXæuX tjElew          poX sjEts slOfsil                 spisiskEguX jigEEmt bælo   
+\g baker-GEN dog-NOM yard-LOC in            bitten butcher-GEN           cat-NOM       bird-AC C saw
+\l The butcher's cat, which the baker's dog had bitten in the yard, saw abird.
+
+\t ngarlarrni         mayi      ganima
+\m ngarlarr-ni         mayi      gani-ma
+\g policeman-ERG       man       3sg-hit.PP
+\l The policeman hit the man.
+
+\t ngarlarrni         mayi      walig          ganima
+\m ngarlarr-ni         mayi      walig          gani-ma
+\g policeman-ERG       man       walk around    3sg-hit.PP
+\l The policeman walked right around the man.
+
+\t yinyngawu    guyug        dililib    gayu
+\m yi-ny-ngawu    guyug        dililib    ga-yu
+\g 1-UA-see.PST fire           red        3sg-be.PRS
+\l We two saw a fire that is shining red.
+
+\t mulurru      ganiyu
+\m mulurru      gani-yu
+\g old woman 3sg-became
+\l She became an old woman.
+
+\t dililibdi   ganba
+\m dililib-di   ga-n-ba
+\g red-ERG       3sg>1sg-bit
+\l The red (dog) bit me.
+
+\t dililibbarini     ganba
+\m dililib-bari-ni     ga-n-ba
+\g red-QUAL-ERG        3sg>1sg-bit
+\l The red (dog) bit me.
+
+\t ngangawu       dililib
+\m nga-ngawu       dililib
+\g 1sg-saw          red
+\l I saw the red (dog).
+
+\t ngangawu        dililibbari
+\m nga-ngawu        dililib-bari
+\g 1sg-saw          red-QUAL
+\l I saw the red (dog).
+
+\t ngarrabbarini biyang gankirriga         yinyag           jurrunyni
+\m ngarrab-bari-ni biyang ga-n-kirriga         yi-ny-ag           jurruny-ni
+\g hot-QUAL-ERG now             3sg>1-cook.PRS 1-UA-OBL           hand-LOC
+\l The hot one is burning our hands.
+
+\t yurr bamaji           mangurrbbarini mangurrbbarigu           wirra
+\m yurr ba-ma-ji           mangurrb-bari-ni mangurrb-bari-gu           wirra
+\g rub   IMP-hit-REFL black-QUAL-ERG black-QUAL-DAT                    hair
+\l Rub your hair with black for blackness!
+
+\t yulang     dililibbari
+\m yulang     dililib-bari
+\g flower     red-QUAL
+\l The flower is red.
+
+\t yulang     dililibbari     gayu
+\m yulang     dililib-bari     ga-yu
+\g flower     red-QUAL         3sg-be.PRS
+\l The flower is red.
+
+\t yulang dililib gayu
+\m yulang dililib ga-yu
+\g flower red          3sg-be.PRS
+\l The flower is red.
+
+\t yulang dililib
+\m yulang dililib
+\g flower     red
+\l The flower is red.
+
+\t jardugalyarrh
+\m jardugal-yarrh
+\g kangaroo-lots
+\l lots of kangaroos
+
+\t gájilùl(h)ngan
+\m gáji-lùl(h)-ngan
+\g that-pair-PRM
+\l that pair
+
+\t angárndiwu
+\m a-ngárndi-wu
+\g I-throat-OBL
+\l throaty, he who was characterised by whispery voice
+
+\t atgùluwetdélkminy
+\m at-gùluwetdélk-mi-ny
+\g 1sgS-hiccup-Aux-PP
+\l I hiccupped.
+
+\t gàbwiyétjiny
+\m gà-bwiyét-ji-ny
+\g NP-smelly-inch-PP
+\l It stinks.
+
+\t abàmbúruyu
+\m a-bàm-búruyu
+\g I-head-long
+\l black-footed tree rat
+
+\t atnàbatdányhmiyiny
+\m at-nàbat-dányh-mi-yi-ny
+\g 1sgS-hand-cut-Aux-refl-PP
+\l I cut my hand.
+
+\t gatgùbaldányhmiyin
+\m ga-t-gùbal-dányh-mi-yi-n
+\g IRR-1sgS-nearly-cut-Aux-refl-P
+\l I nearly cut myself.
+
+\t atdùmbulángjiny
+\m at-dùm-buláng-ji-ny
+\g 1sgS-eye-cheeky-inch-PP
+\l My eye is irritated/inflamed.
+
+\t atdùmjáminyjiny
+\m at-dùm-jáminy-ji-ny
+\g 1sgS-eye-blocked-inch-PP
+\l My eye is blocked up.
+
+\t gánini
+\m gá-ni-ni
+\g NP-PR-sit:NP
+\l S/He is sitting.
+
+\t ganyípmanyìpmarl
+\m ga-nyípma-nyìp-ma-rl
+\g NP-ITER-bathe-Aux-NP
+\l S/He is bathing and bathing.
+
+\t Kofi ya, gan kpa me we kponon le            sui    do
+\m Kofi ya, gan kpa me we kponon le            su-i    do
+\g Kofi Top prison in      FM policeman the-PL shut-PERF-him LOC
+\l As for Kofi, the policemen put him IN PRISON
+
+\t c.      SORTSUP: The structurally highest wh phrase (in an Argument position) must
+\m c.      SORTSUP: The structurally highest wh phrase (in an Argument position) must
+\g         be the sorting key.81
+\l SORTSUP merely insures that the wh-phrase arboreally highest (prior to any wh- movement) appear first (leftmost) in overt syntax.
+
+\t He yaf nat of that text a pulled hen75
+\m He yaf nat of that text a pulled hen75
+\g He gave not of that text a pulled hen
+\l He didn't give a thing about that text
+
+\t =Ø======
+\m =Ø======
+\g =NOM=GEN=PartPast= POSS/3Sg=ACC=Pr=1Pl
+\l  ,   /.
+
+\t  Nin jttan ma n wöjtsem.
+\m  Nin jttan ma n wöjtsem.
+\g =PRP=2D            U=PAST=OBJ/1S   G
+\l   ,   .
+
+\t     [pet`t`a kilse ]                 amasna             siterc
+\m     [pet`t`a kil-se ]                 amas-n-a             si-ter-c-
+\g -CONV-3-DA-CAUS-PST-3
+\l  ,    .
+
+\t Sugar, 3 pounds
+\m Sugar, 3 pounds
+\g Bread, 2 loaves
+\l Wine, 4 bottles
+
+\t mother?                   husband
+\m mother-?                   husband
+\g mother-POSSESSOR:3sg        husband
+\l mother's husband
+
+\t Niwpamiko2Ø3nn5a7.
+\m Ni-wpam-iko2-Ø3-nn5-a7.
+\g   1-see-INV-OBV.S/A-1p-OBV
+\l Heobv sees us.
+
+\t  Ngikenim1ag       [aniniwag          gbskizw1w6d                    Mgan].
+\m  N-gikenim-1-ag       [aniniw-ag          g-bskizw-1-w6-d                    Mg-an].
+\g 1-know-DIR-3p         man-pANIM           PT-shoot-DIR-3p-3                  M.-OBV
+\l I know that the men          shot Margeobv.
+
+\t  Ngikenim1          [Mg                 gbskizwigw1d                    aniniwan.]
+\m  N-gikenim-1          [Mg                 g-bskizw-igw1-d                    aniniw-an.]
+\g 1-know-DIR            M.PT-shoot-INV-3                     man-OBV
+\l I know that the men          shot Marge           .
+
+\t  Ngikenim1          [gbskizwind.]
+\m  N-gikenim-1          [g-bskizw-ind.]
+\g 1-know-DIR            PT-shoot-3:PASS1
+\l I know that heprox was shot.
+
+\t  Ngikenim1         [Mgan              gbskizw1w6d                    aniniwag.]
+\m  N-gikenim-1         [Mg-an              g-bskizw-1-w6-d                    aniniw-ag.]
+\g 1-know-DIR            M.-OBV              PT-shoot-DIR-3p-3                  man-pANIM
+\l I know that the men             shot Margeobv.
+
+\t  Ngikenim1ag9 [aniniwan              gbskizwigw1d                    Mg.]
+\m  N-gikenim-1-ag9 [aniniw-an              g-bskizw-igw1-d                    Mg.]
+\g 1-know-DIR-3p         man-OBV             PT-shoot-INV-3                     M.
+\l I know that the men      obv    shot Marge    prox   .
+
+\t  Ms      ngosi(ini6)g              gsami1d7.
+\m  Ms      ngosi(-ini6)-g              g-sam-i1-d7.
+\g then     be.evening-OBV-3INAN        PT-feed-1O-3ANIM
+\l Then, in the evening, he fed me.
+
+\t  Ms      ngosi(ini6)g              gbskizw1w7.
+\m  Ms      ngosi(-ini6)-g              g-bskizw-1-w7.
+\g then     be.evening-OBV-3INAN        PT-shoot-DIR-3
+\l Then, in the evening, he was shot.
+
+\t lilbanâti    ±±ala± âti
+\m li-l-banât-i    ±-±ala± ât-i
+\g to-the-girlsFP-GEN the-threeFP-GEN
+\l to the three girls
+
+\t motherØ                    husband
+\m mother-Ø                    husband
+\g mother-POSSESSOR:3sg        husband
+\l mother's husband
+
+\t hak#kunassininihsa'
+\m hak#ku-nas-sininih-sa'
+\g ind#1.P-foot-tingle-impf
+\l My foot is asleep.
+

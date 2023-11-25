@@ -1,0 +1,740 @@
+\t Peter je razbil kozarec.
+\m Peter je razbil kozarec.
+\g Peter AUX break:PCP glass
+\l Peter broke the glass.
+
+\t Kozarec se je razbil.
+\m Kozarec se je razbil.
+\g glass:SG:MASC:NOM SE AUX break:PCP:       SG:MASC
+\l The glass broke.
+
+\t Peter je odprl okno.
+\m Peter je odprl okno.
+\g Peter AUX open:PCP window
+\l Peter opened the window.
+
+\t Okno se je odprlo.
+\m Okno se je odprlo.
+\g window:SG:NEUTER:NOM SE AUX open:         PCP:SG:NEUTER
+\l The window opened.
+
+\t Ana se smeje.
+\m Ana se smeje.
+\g Ana SE laughs
+\l Ana laughs.
+
+\t Ana smeje.
+\m Ana smeje.
+\g Ana laughs
+\l Ana laughs.
+
+\t Ana se joka.
+\m Ana se joka.
+\g Ana SE cries
+\l Ana cries.
+
+\t Ana joka.
+\m Ana joka.
+\g Ana cries
+\l Ana cries.
+
+\t Peter razbije okno/skledo/coln/zrcalo/jajce.
+\m Peter razbije okno/skledo/coln/zrcalo/jajce.
+\g Peter breaks window/bowl/boat/mirror/egg
+\l Peter breaks the window/the bowl/the boat/the mirror/the egg.
+
+\t Okno/Skleda/Coln/Zrcalo/Jajce se razbije.
+\m Okno/Skleda/Coln/Zrcalo/Jajce se razbije.
+\g window/bowl/boat/mirror/egg SE breaks
+\l The window/The bowl/The boat/The mirror/The egg breaks.
+
+\t Moski je pekel kruh.
+\m Moski je pekel kruh.
+\g man AUX bake:PCP bread
+\l The man baked the bread.
+
+\t Pek je pekel kruh.
+\m Pek je pekel kruh.
+\g baker AUX bake:PCP bread
+\l The baker baked the bread.
+
+\t Kruh se je pekel.
+\m Kruh se je pekel.
+\g bread SE AUX bake:PCP
+\l The bread baked.
+
+\t Pek se je pekel.
+\m Pek se je pekel.
+\g baker SE AUX bake:PCP
+\l *The baker baked.
+
+\t Ana se umiva.
+\m Ana se umiva.
+\g Ana SE washes
+\l Ana washes herself.
+
+\t Peter in Ana se gledata.
+\m Peter in Ana se gledata.
+\g Peter and Ana SE watch
+\l Peter and Ana watch each other.
+
+\t Peter se smeje.
+\m Peter se smeje.
+\g Peter SE laughs
+\l Peter laughs.
+
+\t Peter (se) joka.
+\m Peter (se) joka.
+\g Peter (SE) cries
+\l Peter cries.
+
+\t Ladja se naklada.
+\m Ladja se naklada.
+\g ship SE loads
+\l The ship is being loaded.
+
+\t Samo enkrat se zivi.
+\m Samo enkrat se zivi.
+\g only once SE lives
+\l You only live once.
+
+\t Okno se odpre.
+\m Okno se odpre.
+\g window SE opens
+\l The window opens.
+
+\t Ana umiva sebe.
+\m Ana umiva sebe.
+\g Ana washes herself
+\l Ana washes herself.
+
+\t Peter in Ana gledata eden drugega.
+\m Peter in Ana gledata eden drugega.
+\g Peter and Ana watch each other
+\l Peter and Ana watch each other.
+
+\t Ana umiva otroka.
+\m Ana umiva otroka.
+\g Ana washes child:ACC
+\l Ana washes a child.
+
+\t Peter in Ana gledata film.
+\m Peter in Ana gledata film.
+\g Peter and Ana watch film:ACC
+\l Peter and Ana watch a film.
+
+\t Peter se opomore.
+\m Peter se opomore.
+\g Peter SE recovers
+\l Peter recovers.
+
+\t Peter si opomore.
+\m Peter si opomore.
+\g Peter SI recovers
+\l Peter recovers.
+
+\t Okno se odpre (*od Petra).
+\m Okno se odpre (*od Petra).
+\g window SE opens (by Peter)
+\l The window opens (*by Peter).
+
+\t Vrata so se odprla sama od sebe.
+\m Vrata so se odprla sama od sebe.
+\g door AUX SE open:PCP by itself
+\l The door opened by itself.
+
+\t Ana poje sama od sebe.
+\m Ana poje sama od sebe.
+\g Ana sings by herself
+\l ??Ana sings by herself.
+
+\t Peter se je potopil sam od sebe.
+\m Peter se je potopil sam od sebe.
+\g Peter SE AUX dive:PCP by himself
+\l ??Peter dived by himself.
+
+\t Ladja se je potopila sama od sebe.
+\m Ladja se je potopila sama od sebe.
+\g ship SE AUX sink:PCP by itself
+\l The ship sank by itself.
+
+\t Ana je zardela Petra.
+\m Ana je zardela Petra.
+\g Ana AUX blush:PCP Peter
+\l *Ana blushed Peter.
+
+\t Sonce (se) blesci.
+\m Sonce (se) blesci.
+\g sun (SE) shines
+\l The sun shines.
+
+\t Peter je zmrznil meso.
+\m Peter je zmrznil meso.
+\g Peter AUX freeze:PCP meat
+\l Peter froze the meat.
+
+\t Meso je zmrznilo.
+\m Meso je zmrznilo.
+\g meat AUX freeze:PCP
+\l The meat froze.
+
+\t Peter je zakrknil srce.
+\m Peter je zakrknil srce.
+\g Peter AUX harden:PCP heart
+\l Peter hardened his heart.
+
+\t Srce (se) mu je zakrknilo.
+\m Srce (se) mu je zakrknilo.
+\g heart (SE) he:DAT AUX harden:PCP
+\l His heart hardened.
+
+\t Dim je pocrnil kuhinjo.
+\m Dim je pocrnil kuhinjo.
+\g smoke AUX blacken:PCP kitchen
+\l The smoke blackened the kitchen.
+
+\t Kuhinja je pocrnela.
+\m Kuhinja je pocrnela.
+\g kitchen AUX blacken:PCP
+\l The kitchen blackened.
+
+\t Sovraznik je oslabil napad.
+\m Sovraznik je oslabil napad.
+\g enemy AUX weaken:PCP attack
+\l The enemy weakened the attack.
+
+\t Napad je oslabel.
+\m Napad je oslabel.
+\g attack AUX weaken:PCP
+\l The attack weakened.
+
+\t Napad se je oslabil.
+\m Napad se je oslabil.
+\g attack SE AUX weaken:PCP
+\l The attack weakened.
+
+\t Peter jaha/jezdi brez sedla.
+\m Peter jaha/jezdi brez sedla.
+\g Peter rides/rides without saddle
+\l Peter rides without a saddle.
+
+\t Poskusajo poevropiti prebivalce.
+\m Poskusajo poevropiti prebivalce.
+\g try:PRES:3PL Europeanise:INFIN citizens
+\l They try to Europeanise the citizens.
+
+\t Moramo se poevropiti.
+\m Moramo se poevropiti.
+\g must:PRES:1PL SE Europeanise:INFIN
+\l We have to become Europeanised.
+
+\t Moramo poevropiti.
+\m Moramo poevropiti.
+\g must:PRES:1PL Europeanise:INFIN
+\l We have to become Europeanised.
+
+\t Moramo poevropeti.
+\m Moramo poevropeti.
+\g must:PRES:1PL Europeanise:INFIN
+\l We have to become Europeanised.
+
+\t Hocem vas videti *srecnimi / srecne.
+\m Hocem vas videti *srecnimi / srecne.
+\g Want1:sg you see      happy*INST / ACC
+\l I want to see you happy.
+
+\t Peter je        smatral      Janeza *lenobo / za lenobo.
+\m Peter je        smatral      Janeza *lenobo / za lenobo.
+\g Peter AUX3:sg considerPST Janez layabout*INST / za+ACC
+\l Peter considered Janez a layabout.
+
+\t Prisel     sem *(s) avtom.
+\m Prisel     sem *(s) avtom.
+\g ComePST AUX1:sg s car
+\l I came by car.
+
+\t Peter pise          *(s) svincnikom.
+\m Peter pise          *(s) svincnikom.
+\g Peter writePRS:3:sg s pencil
+\l Peter writes with a pencil.
+
+\t Peter    je      mesece         iskal    tisto knjigo.
+\m Peter    je      mesece         iskal    tisto knjigo.
+\g Peter    AUX3:sg monthACC:PL look-for that book
+\l Peter   was looking for that book for months.
+
+\t Peter    je      celo leto        iskal     tisto knjigo.
+\m Peter    je      celo leto        iskal     tisto knjigo.
+\g Peter    AUX3:sg whole yearACC look-for that book
+\l Peter   was looking for that book for one year.
+
+\t Igor in njegove sestre            bodo prisli
+\m Igor in njegove sestr-e            bodo prisl-i
+\g Igor and his           sister-PL will come-PL
+\l Igor and his sisters will come.
+
+\t Toncek in Igor sta                 prizadevna
+\m Toncek in Igor st-a                 prizadevn-a
+\g Toncek and Igor be-DU               assiduous-DU
+\l Toncek and Igor are assiduous.
+
+\t Marta     in     njegova brata            bodo prisli
+\m Marta     in     njegova brat-a            bodo prisl-i
+\g Martha and his               brother-DU will     come-PL
+\l Martha and his brothers will come.
+
+\t Groza                 in     strah          je     prevzela       vzo              vas.        
+\m Groza                 in     strah          je     prevzela       vzo              vas.        
+\g Horror.F.NOM.SG       and    fear.M.NOM.SG is      seized.F.SG    whole.ACC        village.ACC.
+\l Horror and fear seized the whole village.
+
+\t    pijanega/utrujenega/premladega].
+\m    pijanega/utrujenega/premladega].
+\g    drunk.acc/tired.acc/too-young.acc
+\l I was teaching Janez to drive drunk/tired/too young.
+
+\t Janeza       sem     videl delati.
+\m Janeza       sem     videl delati.
+\g  Janez.acc aux.1sg saw to-work
+\l I saw Janez working.
+
+\t Slial sem           jo      peti     prehlajeno.
+\m Slial sem           jo      peti     prehlajeno.
+\g   heard aux.1sg her.acc to-sing cold.acc
+\l I heard her sing with a cold.
+
+\t ·e nikoli v Ïivljenju nisem              videla        nobene         Ïenske       voziti     pijane.
+\m ·e nikoli v Ïivljenju nisem              videla        nobene         Ïenske       voziti     pijane.
+\g  still never in life          neg-aux.1sg saw          not-any.gen woman.gen to-drive drunk.gen      
+\l In all my life I never saw a single woman driving drunk.
+
+\t Peter se    je   spras& eval, kako 1 je S&pela popravila t1.
+\m Peter se    je   spras& eval, kako 1 je S&pela popravila t1.
+\g P.REFL AUX asked          what AUX Spela fixed.
+\l Peter wondered what Spela fixed.
+
+\t Nisem      vpras& al, kaj1 je komu2 S&pela kupila t1 t2.
+\m Nisem      vpras& al, kaj1 je komu2 S&pela kupila t1 t2.
+\g  NEG.I.AUX asked what AUX whom Spela bought
+\l I didn't ask what Spela bought for whom.
+
+\t S&pela je    popravila nekako,      a nisem        vpras& al, kako (*je).
+\m S&pela je    popravila nekako,      a nisem        vpras& al, kako (*je).
+\g Spela AUX fixed      something but NEG.I.AUX asked what AUX
+\l Spela fixed something, but I didn't ask what.
+
+\t Rad bi       vedel, koga da     je   Peter videl.
+\m Rad bi       vedel, koga da     je   Peter videl.
+\g glad SUBJ know whom C[-wh] AUX Peter seen
+\l I would like to know who Peter saw.
+
+\t Spras& ujm se,      koga ali          S&pela ljubi.
+\m Spras& ujm se,      koga ali          S&pela ljubi.
+\g I.ask      REFL whom C[+wh] Spela loves
+\l I wonder who Spela loves.
+
+\t Nisem ga vpras& al, komu kaj da                 zameri.
+\m Nisem ga vpras& al, komu kaj da                 zameri.
+\g not      him I.asked whom what C[-wh] blames
+\l I didn't ask him who he blames for what.
+
+\t Peter je    videl nekoga in rad bi              vedel, koga (*da).
+\m Peter je    videl nekoga in rad bi              vedel, koga (*da).
+\g Peter AUX seen someone and glad SUBJ know whom that
+\l Peter saw someone and I would like to know who.
+
+\t S&pela ljubi nekoga, a nisem              vpras& al, koga (*ali).
+\m S&pela ljubi nekoga, a nisem              vpras& al, koga (*ali).
+\g Spela loves someone but I.not.AUX asked            who    if
+\l Spela loves someone, but I didn't ask who.
+
+\t Nekomu            nekaj      ocita,      a nisem          ga vpras& al, komu        kaj (*da).
+\m Nekomu            nekaj      ocita,      a nisem          ga vpras& al, komu        kaj (*da).
+\g someone.DAT something he.blames but not.I.AUX him asked who.DAT                     what that 
+\l He blames someone for something, but I didn't ask him who he blames for what.
+
+\t Kdo je     Peter mislil,        da   je     pris& el?
+\m Kdo je     Peter mislil,        da   je     pris& el?
+\g  who AUX Peter thought that AUX come
+\l Who did Peter think that __ came?
+
+\t B: Ga _ . / *Jò.
+\m B: Ga _ . / *Jò.
+\g       cl.3.ACC.sg.m/ cl.3.ACC.sg.f
+\l I do seehim.'/ I do see her.
+
+\t D:        Míslil        sem, da     ga              NE, pa       GA
+\m D:        Míslil        sem, da     ga              NE, pa       GA
+\g           think.past.m aux, that  cl.3.GEN.m.sg NEG Prt.adv cl.3.ACC.m.sg
+\l I thought that I didn't,but I do.
+
+\t A:    Rekel         sem ji,            da ji              pase       obleka.
+\m A:    Rekel         sem ji,            da ji              pase       obleka.
+\g       Say.past.m.aux cl.3.DAT.f.sg,conj cl.3.DAT.f.sg suit.3.sg dress.
+\l I told her that the dress suits her.
+
+\t A:       Kóga vábi,              a         váju?
+\m A:       Kóga vábi,              a         váju?
+\g          Whom invite.3.sg, Q-compl tonic pron.2.ACC.dl
+\l Whom does (s)he invite? The two of you?
+
+\t A:       Diplómo            se          mu                 prizná.
+\m A:       Diplómo            se          mu                 prizná.
+\g          diploma.ACC cl.refl.ACC cl.3.DAT.m.sg recognize.3.sg
+\l They recognize his diploma.
+
+\t Sl Vztraja da pridi             jutri.
+\m Sl Vztraja da pridi             jutri.
+\g    insists that come-2Sg-Imp tomorrow
+\l He insists that you come tomorrow.
+
+\t Naj dela!
+\m Naj dela!
+\g naj work-3SG      PRES IND
+\l Let him work
+
+\t Delati         moras!
+\m Delati         moras!
+\g work-inf   must-2SG
+\l You must work!
+
+\t Ukazal mu je, (da) naj dela!
+\m Ukazal mu je, (da) naj dela!
+\g ordered him is (that) naj work-3SG PRES IND
+\l He ordered him to work.
+
+\t Naro_il mu je, (da) naj bi                   delal.
+\m Naro_il mu je, (da) naj bi                   delal.
+\g ordered him is (that) naj be-COND worked-SG                MASC
+\l He told him that he should work
+
+\t Rekel mu je, da mora                          delati.
+\m Rekel mu je, da mora                          delati.
+\g said him is that must-2SG           PRES IND   work
+\l He told him that he must work.
+
+\t Pojej               jabolko!
+\m Pojej               jabolko!
+\g eat-2SG IMP      apple
+\l Eat an apple.
+
+\t Poka_ita,           kaj znata.
+\m Poka_ita,           kaj znata.
+\g Show-2DU IMP   what can-2DU PRES IND
+\l Show (us/me) what you can (do).
+
+\t Telefonirajte mami, ko prispete                              v Washington.
+\m Telefonirajte mami, ko prispete                              v Washington.
+\g phone-2PL IMP   mom when arrive-2PL           PRES IND   in Washington
+\l Call mom when you get to Washington.
+
+\t Rekel je, da pojej                jabolko.
+\m Rekel je, da pojej                jabolko.
+\g said      is that eat-2SG   IMP   apple
+\l He said that you must/should eat an apple.
+
+\t Ukazal je, da poka_ita,                   kaj    znata.
+\m Ukazal je, da poka_ita,                   kaj    znata.
+\g Ordered is that show-2DU           IMP   what can-2DU     PRES IND
+\l He ordered you to show (him/us, etc.) what you can (do)
+
+\t Ali je ukazal, da telefonirajte mami, ko prispete v Washington?
+\m Ali je ukazal, da telefonirajte mami, ko prispete v Washington?
+\g Q is ordered that phone-2PL IMP   mom when arrive-2PLPRES IND   in W
+\l Did he order you to call mom when you arrive in DC?
+
+\t Rekel je, da pojdi/pojdita/pojdite          spat.
+\m Rekel je, da pojdi/pojdita/pojdite          spat.
+\g said is that go-2SG   IMP/2DU IMP/2PL IMP   sleep-INF
+\l He said that you must go to bed.
+
+\t Peter vztraja, da pridi/prideta/pridite                zgodaj zjutraj.
+\m Peter vztraja, da pridi/prideta/pridite                zgodaj zjutraj.
+\g Peter insists that come-2SG   IMP/2DU IMP/2PL IMP      early morning
+\l Peter insists that you must come early morning.
+
+\t To je avto, ki     ga prodaj/prodajta/prodajte _imprej.
+\m To je avto, ki     ga prodaj/prodajta/prodajte _imprej.
+\g this is car which it sell-2SG IMP/2DU IMP/2PL IMP       as soon as you can
+\l This is a car which you must sell as soon as you can.
+
+\t Zakaj te moje opozorilo, da bodi                previden, tako jezi?
+\m Zakaj te moje opozorilo, da bodi                previden, tako jezi?
+\g why you my       warning that be-2SG      IMP   careful    so   make angry
+\l Why does my advice that you must be careful make you so angry?
+
+\t Obljubil je, da pojdi/pojdita/pojdite             spat.
+\m Obljubil je, da pojdi/pojdita/pojdite             spat.
+\g promised is that go-2SG   IMP/2DU IMP/2PL IMP      sleep-INF
+\l He promised that you (must) go to bed.
+
+\t Peter dvomi, da pridi/prideta/pridite             zgodaj zjutraj.
+\m Peter dvomi, da pridi/prideta/pridite             zgodaj zjutraj.
+\g Peter doubts that come-2SG   IMP/2DU IMP/2PL IMP   early morning
+\l Peter doubts that you (must) come early morning.
+
+\t Potem pa    _e    komu zaupaj.
+\m Potem pa    _e    komu zaupaj.
+\g then   part part whom trust-2SG IMP
+\l And then trust anybody!
+
+\t Reci             bedaku, da   je pameten, pa        ti bo                verjel.
+\m Reci             bedaku, da   je pameten, pa        ti bo                verjel.
+\g Say-2SG IMP   fool    that is smart    part (and) you be-3SG FUT   believed
+\l Tell a fool that he's smart and he'll believe you.
+
+\t Ukazal mi je, (da) naj delam.
+\m Ukazal mi je, (da) naj delam.
+\g ordered me is (that) naj work-1SG   PRES IND
+\l He ordered me to work/He told me that I must work.
+
+\t Ukazal mi je delati.
+\m Ukazal mi je delati.
+\g ordered me is work-INF
+\l He ordered me to work.
+
+\t Ukazal mi je, da delati.
+\m Ukazal mi je, da delati.
+\g  ordered me is that work-INF
+\l He ordered me to work.
+
+\t Ukazal je, da delaj.
+\m Ukazal je, da delaj.
+\g ordered is that work-2SG IMP
+\l He ordered you to work/that you just work
+
+\t Peter je rekel, da pojej/pojejva/pojejta/pojejmo/pojejte jabolka.
+\m Peter je rekel, da pojej/pojejva/pojejta/pojejmo/pojejte jabolka.
+\g Peter is said that eat-2SG   IMP/1DU IMP/2DU IMP/1PL IMP/2PL IMP   apples
+\l Peter said that you/us two/you two/us three or more/you three or more must eat the apples.
+
+\t Peter mi je rekel, da pojejva/pojejta/pojejmo/pojejte                     jabolka.
+\m Peter mi je rekel, da pojejva/pojejta/pojejmo/pojejte                     jabolka.
+\g Peter me is said that eat-2SG       IMP/1DU IMP/2DU IMP/1PL IMP/2PL IMP   apples
+\l Peter told me that ... must eat the apples.
+
+\t Ali ti   je Peter rekel, da pojej/pojejva/pojejta/pojejmo/pojejte jabolka?
+\m Ali ti   je Peter rekel, da pojej/pojejva/pojejta/pojejmo/pojejte jabolka?
+\g Q you is Peter said that eat-2SG           IMP/1DU IMP/2DU IMP/1PL IMP/2PL IMP   apples
+\l Did Peter tell you that ... must eat ..?
+
+\t Peter je rekel Mariji, da pojej/pojejva/pojejta/pojejmo/pojejte jabolka.
+\m Peter je rekel Mariji, da pojej/pojejva/pojejta/pojejmo/pojejte jabolka.
+\g Peter is said Mary      that eat-2SG IMP/1DU IMP/2DU IMP/1PL IMP/2PL IMP      apples
+\l Peter told Mary that ... must eat the apples.
+
+\t Rekel je, da si              kupi                kolo.
+\m Rekel je, da si              kupi                kolo.
+\g said is that yourself buy-2SG IMP         bicycle
+\l He said that you must buy yourself a bicycle.
+
+\t Rekel je, da se      navadi                PRO pospraviti       svojo         sobo.
+\m Rekel je, da se      navadi                PRO pospraviti       svojo         sobo.
+\g said is that refl get used-2SG       IMP          to clean up your own room
+\l He said that you should learn to clean up your room.
+
+\t Rekel je, da bodi         previdna!
+\m Rekel je, da bodi         previdna!
+\g said is that be-2SG IMP   careful-SG FEM
+\l He said that you must be careful.
+
+\t Rekel je, da si         ti     kupi                   kolo,      ne Marija.
+\m Rekel je, da si         ti     kupi                   kolo,      ne Marija.
+\g said is that yourself you buy-2SG IMP          bicycle not Mary
+\l He said that you must buy yourself a bicycle, not Mary.
+
+\t Rekel je, da se vidva        navadita PRO pospraviti svojo                       sobo.
+\m Rekel je, da se vidva        navadita PRO pospraviti svojo                       sobo.
+\g said is that refl you-two get used-2DU         IMP    to clean up your own room
+\l He said that you two should learn to clean up your room.
+
+\t Rekel je, da vidva      z    Markom bodita                previdna!
+\m Rekel je, da vidva      z    Markom bodita                previdna!
+\g said is that you-two with Marc            be-2DU IMP   careful-SG FEM
+\l He said that you and Marc must be careful.
+
+\t U_iteljica opozarja, da vsi otroci bodite             previdni             v gozdu!
+\m U_iteljica opozarja, da vsi otroci bodite             previdni             v gozdu!
+\g teacher    warns     that all kids    be-2PL    IMP   careful-PL MASC   in wood
+\l The teacher warns that all kids must be careful in the wood.
+
+\t Ne        delaj            tako       po_asi
+\m Ne        delaj            tako       po_asi
+\g Neg       work-2SG   IMP   so         slowly
+\l Don't work so slowly.
+
+\t Rekel je, da ne delaj                 tako po_asi.
+\m Rekel je, da ne delaj                 tako po_asi.
+\g said is    that not work-2SG IMP   so    slowly
+\l He said that you shouldn't/mustn't work so slowly.
+
+\t Ne poka_em                         ti                        ga
+\m Ne poka_em                         ti                        ga
+\g not show-1SG PRES IND           you-CL- DAT            it-CL- ACC
+\l I'm not showing it to you.
+
+\t Daj                  mi                   mir.
+\m Daj                  mi                   mir.
+\g give-2SG IMP      me-CL-DAT         peace
+\l Leave me alone
+
+\t Mi             lahko prinese_                        vodo?
+\m Mi             lahko prinese_                        vodo?
+\g me-CL-DAT   can        bring-2SG PRES IND      water
+\l Can you bring me water?
+
+\t Poslu_aj             ga,                  _e         ho_e_.
+\m Poslu_aj             ga,                  _e         ho_e_.
+\g listen-2SG   IMP     him-CL-DAT           if         want-2SG PRES IND
+\l Listen to him if you want
+
+\t Vztrajal            je,       da         pokli_i              ga.
+\m Vztrajal            je,       da         pokli_i              ga.
+\g   insisted           is        that       call-2SG IMP      him-CL-ACC
+\l He insisted that you must call him.
+
+\t Vztrajal             je,           da      ga                   pokli_i
+\m Vztrajal             je,           da      ga                   pokli_i
+\g insisted             is        that       him-CL-ACC           call-2SG IMP
+\l He insisted that you must call him.
+
+\t Ne      pojem                 ga.
+\m Ne      pojem                 ga.
+\g not     eat-1SG PRES IND   it-CL-ACC SG
+\l I don't eat it.
+
+\t Ne      bom                   ga                    pojedel.
+\m Ne      bom                   ga                    pojedel.
+\g not     be-1SG FUT IND     it-CL-ACC   SG        eaten
+\l I won't eat it.
+
+\t Ne      pojej                 ga!
+\m Ne      pojej                 ga!
+\g not     eat-2SG IMP        it-CL-ACC   SG
+\l Don't eat it.
+
+\t Ne      poslusaj              jih.
+\m Ne      poslusaj              jih.
+\g not     listen-2SG IMP     them-CL-ACC PL
+\l Don't listen to them.
+
+\t Ne     jih                 poslusaj
+\m Ne     jih                 poslusaj
+\g  not    them-CL-ACC PL   listen-2SG   IMP
+\l Don't listen to them.
+
+\t Rekel je,        da                 ga                   ne        poslusaj.
+\m Rekel je,        da                 ga                   ne        poslusaj.
+\g said is          that               it-CL-ACC     SG     not      give-2SG IMP
+\l He said that you must not listen to him.
+
+\t Vztrajal je,     da         mu                   ga                ne           poka_i.
+\m Vztrajal je,     da         mu                   ga                ne           poka_i.
+\g insisted is      that       him-CL-DAT           it-CL-ACC   SG    not          show-2SG   IMP
+\l He insisted that you must not show it to him.
+
+\t Knjige jim                  berite.
+\m Knjige jim                  berite.
+\g books them-CL read-IMP
+\l Read them books!
+
+\t To drevo in gnezdo         na njem mi            bosta           ostala               v spominu 
+\m To drevo in gnezdo         na njem mi            bosta           ostala               v spominu 
+\g that tree.n and nest.n on it            me.dat fut.du            remained.m.du in         memory
+\l That tree and the nest on it will remain in my memory
+
+\t b . Janez      mu           ga      je        e     dal.
+\m b . Janez      mu           ga      je        e     dal.
+\g     Janez      him.dat it.acc aux.3sg still gave
+\l Janez still gave it to him.
+
+\t Rekel je da po jdi       spat
+\m Rekel je da po jdi       spat
+\g said is that go-imp.2s sleep-inf
+\l He said that you must go to bed
+
+\t Peter vztra ja da pridite        zgoda j zjutra j
+\m Peter vztra ja da pridite        zgoda j zjutra j
+\g Peter insists that come-imp.2p early morning
+\l Peter insists that you must come early in the morning
+
+\t Zaka j te mo je opozorilo da bodi          previden tako jezi
+\m Zaka j te mo je opozorilo da bodi          previden tako jezi
+\g why you my warning that be-imp.2s careful so make angry
+\l Why does my advice that you must be careful make you so angry?
+
+\t b')    Mama je rekla, da jés!
+\m b')    Mama je rekla, da jés!
+\g        Mum aux ppaf, that IND2Sg
+\l Mum said, that You should eat.
+
+\t Mu              bo    povédala,     kaj   stòri        in     kam           pójdi?
+\m Mu              bo    povédala,     kaj   stòri        in     kam           pójdi?
+\g Cl.3.Dat.Sg aux3 tell ppaf          Q     do IMP2Sg and       Q             go IMP2Sg
+\l Will she tell him what You should do and where You should go?
+
+\t Tó      je    móz, ki       se      ga               bój!
+\m Tó      je    móz, ki       se      ga               bój!
+\g Dem be3       man rel       refl    Cl.3.Gen.m       fear IMP2Sg
+\l This is a man You should be afraid of.
+
+\t Ti    si      móz, ki      se     ozèni                     z      mano!
+\m Ti    si      móz, ki      se     ozèni                     z      mano!
+\g You be2       man, rel     refl   marry IMP2Sg              prep   Pron1.Ins.Sg
+\l You are the man who should marry me.
+
+\t Groza           in strah            je prevzela           vso      vas.   
+\m Groza           in strah            je prevzela           vso      vas.   
+\g horror(fem.sg) and fear(masc.sg) has seized(fem.sg) the-whole      village
+\l Horror and fear have seized the whole village.
+
+\t knjige        in peresa          so se     pora zile.
+\m knjige        in peresa          so se     pora zile.
+\g book.fem.pl and pen.neut.pl are selves got dear.fem.pl
+\l Books and pens have become more expensive.
+
+\t Ona je poljubila KOGA?
+\m Ona je poljubila KOGA?
+\g      she is kissed       who
+\l She kissed WHO?
+
+\t C"igavo        knjigo          si            prebral?
+\m C"igavo        knjigo          si            prebral?
+\g whose          book            be(PRES2SG)   read
+\l Whose book did you read?
+
+\t C"igavo        si              prebral       knjigo?
+\m C"igavo        si              prebral       knjigo?
+\g whose          be(PRES2SG)     read          book
+\l Whose book did you read?
+
+\t Ne vrni        se spet prepozno.
+\m Ne vrni        se spet prepozno.
+\g Neg return-PFV REFL again too-late'
+\l Don't return too late again
+
+\t Ne vidim hise.
+\m Ne vidim hise.
+\g Neg see-1SG house-GEN.
+\l I don't see the house
+
+\t Jajc         ni bilo          v hladilniku.
+\m Jajc         ni bilo          v hladilniku.
+\g Eggs-GEN-PL neg was-3.SG.N in fridge
+\l There were no eggs in the fridge
+
+\t Daj mi kruha.
+\m Daj mi kruha.
+\g Give me bread-GEN.
+\l Give me (some) bread 
+
+\t Groza        in strah          je prevzela       vs o vas.
+\m Groza        in strah          je prevzela       vs o vas.
+\g horror(FSG) and fear(MSG) has seized.FSG the.whole village
+\l Horror and fear have seized the whole village.
+
+\t To drevo        in gnezdo            na njem mi bosta       ostala        v spominu
+\m To drevo        in gnezdo            na njem mi bosta       ostala        v spominu
+\g that tree(neut) and the nest(neut) on.it to    me will      remain(masc) in memory 
+\l That tree and the nest on it will remain in my memory
+

@@ -1,0 +1,1050 @@
+\t Abantwana bafund ela [ esikole ni. ]   PP
+\m A-bantwana ba-fund- el-a [ e-sikole- ni. ]   PP
+\g 2-2.child      2.sbj-study- appl-fv loc:7-7.school- loc
+\l The children study at the school.
+
+\t Abantwana bafund a isiZulu.
+\m A-bantwana ba-fund- a i-siZulu.
+\g 2-2.child     2.sbj-study- fv 7-7.
+\l The children study Zulu.
+
+\t Ngithand a uku cula ( esikole ni ).
+\m Ngi-thand- a u-ku- cul-a ( e-sikole- ni ).
+\g   1s.sbj-love-   fv 15-15- sing-fv loc:7-7.school- loc
+\l I like to sing (at school).
+
+\t Ngithand a uku culel              a *( esikole ni ).
+\m Ngi-thand- a u-ku- cul-el-              a *( e-sikole- ni ).
+\g   1s.sbj-love-   fv 15-15- sing-appl- fv     loc:7-7.school- loc
+\l I like to sing (at school).
+
+\t Umfana uzo funda incwadi.
+\m U-mfana u-zo- fund-a i-ncwadi.
+\g   1-1.boy 1.sbj-fut- study-fv 9-9.book
+\l The boy will study the book.
+
+\t Incwadi izo fundw a ( ngu mfana ).
+\m I-ncwadi i-zo- fund-w- a ( ng-u- mfana ).
+\g  9-9.book 9.sbj-fut- study-psv- fv by-1- 1.boy
+\l The book will be studied by the boy.
+
+\t Abantu bazo jabulel a imali.
+\m A-bantu ba-zo- jabul-el- a i-mali.
+\g  2-2.person 2.sbj-fut- rejoice-appl- fv 9-9.money
+\l People will rejoice over the money.
+
+\t Imali    izo jabulel wa ( nga bantu
+\m I-mali    i-zo- jabul-el- w-a ( ng-a- bantu
+\g  9-9.money 9.sbj-fut- rejoice-appl- psv-fv by-2- 2.person
+\l The money will be rejoiced over (by people).
+
+\t Ngilahl       ela uThandi udoti.
+\m Ngi-lahl-       el-a u-Thandi u-doti.
+\g  1s.sbj-dispose.of- appl-fv 1-1.Thandi 1-1.trash
+\l I'm taking out the trash for Thandi.
+
+\t UThandi ulahl     elw a udoti.
+\m U-Thandi u-lahl-     el-w- a u-doti.
+\g  1-1.Thandi 1s.sbj-dispose.of- appl-psv- fv 1-1.trash
+\l Thandi is being taken out the trash (for).
+
+\t Bazo cula, abantwana.
+\m Ba-zo- cul-a, a-bantwana.
+\g 2.sbj-fut- sing-fv 2-2.child
+\l The children will sing.
+
+\t proi Baizo cula.
+\m proi Bai-zo- cul-a.
+\g       2.sbj-fut- sing-fv
+\l They will sing.
+
+\t Abantwana bafund ela [ isikole. ]   DP
+\m A-bantwana ba-fund- el-a [ i-sikole. ]   DP
+\g     2-2.child     2.sbj-study- appl-fv 7-7.school
+\l The children study at the school.
+
+\t Kuzo fundw a (* ngabantwana ).
+\m Ku-zo- fund-w- a (* nga-bantwana ).
+\g   17.sbj-fut- study-psv- fv     by:2-2.child
+\l There will be studying going on (by children).
+
+\t ( Esikole ni, )i abantwana bazo fundel              a ti .
+\m ( E-sikole- ni, )i a-bantwana ba-zo- fund-el-              a ti .
+\g     loc:7-7.school- loc     2-2.child     2.sbj-fut- study-appl- fv
+\l (At the school), children will study.
+
+\t Isikole ngasinyei sifund ela abantwana basoi .
+\m I-sikole ngasinyei si-fund- el-a a-bantwana ba-soi .
+\g   7-7.school 7.each       7.sbj-study- appl-fv 2-2.child   2.of-7.it
+\l Eachi school is studied at by itsi children.
+
+\t Isikole sizo fundel      a ti e   ag ent   .
+\m I-sikole si-zo- fund-el-      a ti e   ag ent   .
+\g 7-7.school 7.sbj-fut- study-appl- fv
+\l The school will be studied at (by someone).
+
+\t Isikolei sizo fundel        a ti e            .                                                           ag ent
+\m I-sikolei si-zo- fund-el-        a ti e            .                                                           ag ent
+\g  7-7.school 7.sbj-fut- study-appl- fv               
+\l The school will be studied at.
+
+\t [ Esikole nii ]Top kuzo fundel                      a ti e            .                                                                            ag ent
+\m [ E-sikole- nii ]Top ku-zo- fund-el-                      a ti e            .                                                                            ag ent
+\g      loc:7-7.school- loc       17.sbj-fut- study-appl- fv                    
+\l The school will be studied at.
+
+\t Ngizo fundis a.
+\m Ngi-zo- fund-is- a.
+\g   1s.sbj-fut- study-caus- fv
+\l I will teach (someone).
+
+\t Kuzo lala.
+\m Ku-zo- lal-a.
+\g     17.sbj-fut- sleep-fv
+\l Someone will sleep.
+
+\t Isikole sizo fundel        wa.
+\m I-sikole si-zo- fund-el-        w-a.
+\g     7-7.school 7.sbj-fut- study-appl- psv-fv
+\l The school will be studied at.
+
+\t Baya cula ]XP abantwana.
+\m Ba-ya- cul-a ]XP a-bantwana.
+\g 2.sbj-foc- sing-fv          2-2.child
+\l Children are singing.
+
+\t Abantwana baya zicul a ]           izingoma.
+\m A-bantwana ba-ya- zi-cul- a ]           i-zingoma.
+\g  2-2.child     2.sbj-foc- 10.obj-sing- fv           10-10.song
+\l The children are singing the songs.
+
+\t Abantwana bacul a bonke. ]XP
+\m A-bantwana ba-cul- a bonke. ]XP
+\g   2-2.child     2.sbj-sing- fv 2.all
+\l The children are all singing.
+
+\t Izingoma, abantwana bazi      cula zonke. ]                 XP
+\m I-zingoma, a-bantwana ba-zi-      cul-a zonke. ]                 XP
+\g  10-10.song    2-2.child     2.sbj-10.obj- sing-fv 10.all
+\l The songs, the children are singing them all.
+
+\t Izikole zifund ela zonke. ]       XP
+\m I-zikole zi-fund- el-a zonke. ]       XP
+\g    8-8.school 8.sbj-study- appl-fv 8.all
+\l The schools are all studied at.
+
+\t izinti            zezintombi ( < za izin tombi)
+\m izin-ti            zezintombi ( < za-- izin-- tombi)
+\g 11/10PL-sticks of:girls           11/10PL 9/10PL girl
+\l the girls' sticks
+
+\t ubuso             bezintombi ( < ba izin tombi)
+\m ubu-so             bezintombi ( < ba-- izin-- tombi)
+\g 14-sticks          of:girls       14      9/10PL      girl
+\l the girls' faces
+
+\t izintombi zakwa
+\m izin-tombi za-kwa
+\g 9/10PL-girl 9/10PL-Zululand
+\l the girls of Zululand
+
+\t izintombi zi ka        thisha
+\m izin-tombi zi-- ka--        thisha
+\g 9/10PL-girl 9/10PL 1a/2a:POSS teacher
+\l the teacher's grils
+
+\t A: Itafula   labani?
+\m A: I-tafula   la-bani?
+\g    NC5-table POSS.NC5-whom
+\l Whose table is it?
+
+\t T: Lami
+\m T: La-mi
+\g    POSS.NC5-1.SG
+\l Mine.
+
+\t A : Isinkwa sabani?
+\m A : Isi-nkwa sa-bani?
+\g     NC7-bread POSS.NC7-whom
+\l Whose bread is it?
+
+\t T: Sami
+\m T: Sa-mi
+\g     POSS.NC7-1.SG
+\l Mine.
+
+\t Ngibe             ngiøthanda.
+\m Ngi-be             ngi-ø-thanda.
+\g ISG-COP+PAST ISG-CONT-love
+\l I was loving.
+
+\t Ngizoke         ngiøthande.
+\m Ngi-zo-ke         ngi-ø-thande.
+\g ISG-FUT-OCC ISG-CONT-love
+\l I will love sometime soon.
+
+\t umuntu ozandhla zake zimhlope
+\m umuntu o-zandhla z-ake zi-mhlope
+\g person REL-hand AGR-his AGR-is.white
+\l the person that his hand is white
+
+\t incwadi isitshudeni aisiyifundayo
+\m incwadi isitshudeni a-isi-yi-funda-yo
+\g letter   student     REL-AGR-OC9-read-RS
+\l the letter that the student is reading
+
+\t incwadi isitshudeni aisiyifundayo
+\m incwadi isitshudeni a-isi-yi-funda-yo
+\g letter   student     REL-AGR-OC9-read-RS
+\l the letter that the student is reading
+
+\t umuntu ozandhla zake zimhlope
+\m umuntu o-zandhla z-ake zi-mhlope
+\g person REL-hand AGR-his AGR-is.white
+\l the person that his hand is white
+
+\t incwadi isitshudeni aisiyifundayo
+\m incwadi isitshudeni a-isi-yi-funda-yo
+\g letter   student     REL-AGR-OC9-read-RS
+\l the letter that the student is reading
+
+\t umuntu ozandhla zake zimhlope
+\m umuntu o-zandhla z-ake zi-mhlope
+\g   person REL-hand AGR-his AGR-is.white
+\l the person that his hand is white
+
+\t Angi          funi       zincwadi.
+\m A-ngi-          fun-i       zincwadi.
+\g NEG-1 S.S B J-want- N E G 10.books
+\l I don't want any books.
+
+\t izincwadi
+\m i-zincwadi
+\g 10-10.books
+\l books
+
+\t uku cula
+\m u-ku- cula
+\g 15-15- sing
+\l to sing
+
+\t Abafana abancane bazo zitheng a izincwadi e                                         zinkulu.
+\m A-bafana a-bancane ba-zo- zi-theng- a i-zincwadi e-                                         zinkulu.
+\g 2-2.boy     REL-2.small   2.S B J-F U T-1 0.O B J-buy-   FV   10-10.book   REL.1 0-         10.big  
+\l The little boys will buy the big books.
+
+\t angi       ngeba        bone
+\m a-ngi-       nge-ba-        bon-e
+\g  NEG-1 S.S B J-P OT.N E G-2.O B J-see- F V
+\l I can't see them
+
+\t Zibus      e!
+\m Zi-bus-      e!
+\g  R E FL-govern- S U B J
+\l Govern yourself!
+
+\t Zifihl eni!
+\m Zi-fihl- e-ni!
+\g  R E FL-hide- F V-2 P
+\l Hide yourselves!
+
+\t Ngibamb a incwadi.
+\m Ngi-bamb- a i-ncwadi.
+\g 1 S.S B J-grab-      FV   9-9.book
+\l I'm grabbing a book.
+
+\t Ngibamb e                 incwadi.
+\m Ngi-bamb- e                 i-ncwadi.
+\g 1 S.S B J-grab-      PERF       9-9.book
+\l I grabbed a book.
+
+\t Ngiyi        bambile.
+\m Ngi-yi-        bamb-ile.
+\g 1 S.S B J-9.O B J-grab-      PERF
+\l I grabbed it.
+
+\t Ngithwal a incwadi.
+\m Ngi-thwal- a i-ncwadi.
+\g 1 S.S B J-carry-     FV   9-9.book
+\l I'm carrying a book.
+
+\t Ngithwel e                incwadi.
+\m Ngi-thwel- e                i-ncwadi.
+\g 1 S.S B J-carry-    PERF        9-9.book
+\l I carried a book.
+
+\t Ngiyi        thwele.
+\m Ngi-yi-        thwel-e.
+\g 1 S.S B J-9.O B J-carry-     PERF
+\l I carried it.
+
+\t / angi shoanga /  angishongo, angishonga, angishanga
+\m / a-ngi- sho-anga /  angishongo, angishonga, angishanga
+\g      NEG-1.S B J-say- N E G
+\l I didn't say
+
+\t uku bamba, uku banjw a
+\m u-ku- bamb-a, u-ku- banj-w- a
+\g    15-15- grab-FV   , 15-15- grab-P S V-F V
+\l to grab, to be grabbed
+
+\t uku bambel a, uku banjel                            wa
+\m u-ku- bamb-el- a, u-ku- banj-el-                            w-a
+\g    15-15- grab-APPL- FV      , 15-15- grab-A P P L-P S V-F V
+\l to grab for, to be grabbed for
+
+\t uku bambis a, uku banjis                             wa
+\m u-ku- bamb-is- a, u-ku- banj-is-                             w-a
+\g    15-15- grab-C AU S-F V   , 15-15- grab-C AU S-P S V-F V
+\l to make/help grab, to be made/helped to grab
+
+\t Angi             kubon anga.
+\m A-ngi-             ku-bon- anga.
+\g  NEG-1 S.S B J-2 S.O B J-see- N E G
+\l I didn't see you.
+
+\t Nina nonke niya cula.
+\m Nina n-onke ni-ya- cul-a.
+\g   you     2 P-all     2 P.S B J-ya- sing-F V
+\l All of you sing.
+
+\t Nina nodwa niya cula.
+\m Nina n-odwa ni-ya- cul-a.
+\g   you     2 P-only     2 P.S B J-ya- sing-F V
+\l Only you sing.
+
+\t uma ecul a
+\m uma e-cul- a
+\g if      1.S B J-sing- F V
+\l if she sings
+
+\t Aba           ngaka fiki,     sa be siphum ile.
+\m A-ba-           nga-ka- fik-i,     s-a- b-e si-phum- ile.
+\g NEG-2.S B J-N E G-yet- arrive-N E G 1 P.S B J-P S T-be- F V 1 P.S B J-leave-   PERF
+\l Before they arrived, we had left.
+
+\t Benza ni        phandle?
+\m B-enza- ni        phandle?
+\g 2.S B J-do-      what outside
+\l What are they doing outside?
+
+\t USipho uya yithand a lomculo.
+\m U-Sipho u-ya- yi-thand- a lo-mculo.
+\g   1-1.Sipho 1.S B J-ya- 9.O B J-love-      FV   that:3-3.song
+\l Sipho likes this song.
+
+\t USipho uya yithand a lomculo na?
+\m U-Sipho u-ya- yi-thand- a lo-mculo na?
+\g   1-1.Sipho 1.S B J-ya- 9.O B J-love-      FV   that:3-3.song na
+\l Does Sipho like this song?
+
+\t aka culi
+\m a-ka- cul-i
+\g  NEG-1.S B J-sing- N E G
+\l she doesn't sing
+
+\t ukuze anga culi
+\m ukuze a-nga- cul-i
+\g  so.that 1.S B J-N E G-sing- N E G
+\l so that she not sing
+
+\t Full: aka      zi           yu kucul a
+\m Full: a-ka-      z-i-           y-u- ku-cul- a
+\g       NEG-1.S B J-come- N E G-E P E N-15- 15-sing- F V
+\l she won't sing
+
+\t aka       culi
+\m a-ka-       cul-i
+\g NEG-1.S B J-sing- N E G
+\l he doesn't sing
+
+\t ( a) ba^   ´`
+\m ( a-) ba-^   ´`
+\g      NEG-2.S B J-C O N S-sing- F V
+\l and then they didn't sing
+
+\t aba              ´`
+\m a-ba-              ´`
+\g NEG-2.S B J-sing- N E G
+\l they didn't sing
+
+\t uma be´`
+\m uma be-´`
+\g if     2.S B J-N E G-sing- N E G
+\l if they didn't sing
+
+\t ai        namathel´ `
+\m a-i-        namathel´ `
+\g NEG-1 S.S B J-stick-    NEG
+\l I don't stick
+
+\t siba khulu;          asi         bakhulu
+\m si-ba- khulu;          a-si-         ba-khulu
+\g 1 P.S B J-2-   big           NEG-1 P.S B J-2-   big=N E G
+\l we're big; we aren't big
+
+\t silamb        ` e;                                             `e
+\m si-lamb-        ` e;                                             `e
+\g 1 P.S B J-get.hungry- P E R F           NEG-1 P.S B J-get.hungry- P E R F=N E G
+\l we're hungry; we're not hungry
+
+\t ayi       culi
+\m a-yi-       cul-i
+\g  NEG-9.S B J-sing- N E G
+\l he doesn't sing
+
+\t ayi      culw a
+\m a-yi-      cul-w- a
+\g  NEG-9.S B J-sing- P S V-F V
+\l it isn't sung
+
+\t Abantwana aba      culi.
+\m A-bantwana a-ba-      cul-i.
+\g  2-2.child         NEG-2.S B J-sing- N E G
+\l The children aren't singing.
+
+\t Ngifund e               ukuthi abantwana aba       culi.
+\m Ngi-fund- e               ukuthi a-bantwana a-ba-       cul-i.
+\g  1 S.S B J-read- P E R F that      2-2.child     NEG-2.S B J-sing- N E G
+\l I read that the children aren't singing.
+
+\t Ngiba            bonile benga culi.
+\m Ngi-ba-            bon-ile be-nga- cul-i.
+\g 1 S.S B J-2.O B J-see- P E R F 2.S B J-N E G-sing- N E G
+\l I saw them not singing.
+
+\t aba      kacul i
+\m a-ba-      ka-cul- i
+\g NEG-2.S B J-yet- sing-N E G
+\l they aren't singing yet
+
+\t siba khulu,             asi         bakhulu
+\m si-ba- khulu,             a-si-         ba-khulu
+\g 1 P.S B J-1-     big,           NEG-1 P.S B J-1-   big=N E G
+\l we're big; we aren't big
+
+\t siqotho,           asi          qotho
+\m si-qotho,           a-si-          qotho
+\g 1 P.S B J-honest,         NEG-1 P.S B J-honest=N E G
+\l we're honest, we aren't honest
+
+\t sikhona,         asi        kho(na)
+\m si-khona,         a-si-        kho(na)
+\g 1 P.S B J-there,       NEG-1 P.S B J-there
+\l we're there, we're not there
+
+\t nging umfana,               angi ngu mfana
+\m ngi-ng- u-mfana,               a-ngi- ng-u- mfana
+\g 1 S-C O P-1- 1.boy,            NEG-1 S-C O P-1- 1.boy
+\l I'm a boy; I'm not a boy
+
+\t Uya cula .
+\m U-ya- cul-a .
+\g 1.S B J-ya- sing-F V
+\l She sings.
+
+\t aka     culi
+\m a-ka-     cul-i
+\g NEG-1.S B J-sing- N E G
+\l she doesn't sing
+
+\t ngingu mfana
+\m ngi-ngu- mfana
+\g 1s.sbj-cop- 1.boy
+\l I'm a boy.
+
+\t angi ngumfana
+\m a-ngi- ngu-mfana
+\g neg-1s.sbj- cop-1.boy
+\l I'm not a boy.
+
+\t aba       culi
+\m a-ba-       cul-i
+\g NEG-2.S B J-sing- N E G
+\l they don't sing
+
+\t mncane, bancane, mncane, mincane, etc.
+\m m-ncane, ba-ncane, m-ncane, mi-ncane, etc.
+\g  1-small, 2-small, 3-small, 4-small
+\l she's small, they're small, it's small, they're small
+
+\t Angi sam bonanga waze wa hamba.
+\m A-ngi- sa-m- bon-anga w-aze w-a- hamb-a.
+\g   NEG-1 S.S B J-D U R-1.O B J-see- N E G 1.S B J-until 1.S B J-P S T-G O-FV
+\l I didn't see him before he left.
+
+\t silamb           ` e;            asi        lamb´`
+\m si-lamb-           ` e;            a-si-        lamb-´`
+\g 1 P.S B J-get.hungry- P E R F,          NEG-1 P.S B J-get.hungry- N E G
+\l we got hungry; we didn't get hungry
+
+\t silamb          ` e;                                          `e
+\m si-lamb-          ` e;                                          `e
+\g 1 P.S B J-get.hungry- P E R F,         NEG-1 P.S B J-get.hungry- P E R F=N E G
+\l we're hungry; we're not hungry
+
+\t of e         uhlangothi
+\m o-f- e         u-hlangothi
+\g REL   : 1.S B J-die- P E R F 11-11.side
+\l the one who is paralized
+
+\t an         oze na         phuma
+\m a-n-         oze n-a-         phum-a
+\g NEG-2 P.S B J-never 2 P.S B J-S B J N C-leave-   FV
+\l you will never leave
+
+\t Siyo mshay a anga nithuk a.
+\m Si-yo- m-shay- a a-nga- ni-thuk- a.
+\g  1 P.S B J-F U T-1.O B J-hit-    FV   1.S B J-C O N T-2 P.O B J-swear- F V
+\l We will hit him if he swears at you.
+
+\t Umfundisi uphum ile, bantwana.
+\m U-mfundisi u-phum- ile, bantwana.
+\g 1-1.teacher 1.S B J-leave-   PERF    2.children
+\l The teach has left, children.
+
+\t Cula ni kahle!
+\m Cul-a- ni kahle!
+\g sing-F V-2 P well
+\l Sing well!
+
+\t            ´
+\m            ´
+\g 1.S B J-ya- play-F V-where
+\l Where are they playing?
+
+\t ­     Aku           phekanga mina!
+\m ­     A-ku-           phek-anga mina!
+\g       NEG-17.S B J-cook- N E G me
+\l I didn't cook!
+
+\t Ngubani ocul e       ingoma?
+\m Ngu-bani o-cul- e       ingoma?
+\g COP-who R E L : 1.S B J-sing- P E R F 9.song
+\l Who sang a song?
+
+\t Ngu bani owa yenga thandi        ke uku hamba nge
+\m Ng-u- bani ow-a- ye-nga- thand-i-        ke u-ku- hamb-a nge-
+\g 9.aeroplane
+\l Who wouldn't like to ride an aeroplane?
+
+\t Aku          culanga muntu.
+\m A-ku-          cula-nga muntu.
+\g NEG-17.S B J-sing- N E G 1.person
+\l Nobody sang.
+
+\t Yini ndaba kuphek e      uSipho izambane?
+\m Yi-ni- ndaba ku-phek- e      u-Sipho i-zambane?
+\g  COP-what- 9.story 1 7.S B J-cook- P E R F 1-1.Sipho 5-5.potato
+\l Why did Sipho cook a potato (rather than Bill)?
+
+\t Yini ndaba kuphek e         uSipho?
+\m Yi-ni- ndaba ku-phek- e         u-Sipho?
+\g COP-what- 9.story 1 7.S B J-cook- P E R F 1-1.Sipho
+\l Why did Sipho cook (rather than Bill)?
+
+\t Ang azi       isikhathi oku       cula     ngaso uSipho.
+\m A-ng- az-i       i-sikhathi o-ku-       cul-a     nga-so u-Sipho.
+\g NEG-1.S B J-know- N E G 7-7.time      REL-17.S B J-sing-F V at-7.it 1-1.Sipho
+\l I don't know (the time) when Sipho sang.
+
+\t Emadeleni yilapho kuhlatshwa khona izinkomo kanye nezinye izilwane ezidli                 wayo         kanti ebhikawozi yilapho kubhak wa khona izinkwa.
+\m Emadeleni yilapho kuhlatshwa khona izinkomo kanye nezinye izilwane ezidli-                 wayo         kanti e-bhikawozi yi-lapho ku-bhak- w-a khona i-zinkwa.
+\g but     LOC   : 5-5.bakery     COP-there 17-bake- P S V-F V there        8-8.bread
+\l A slaughterhouse is where cattle are slaughtered along with other edible ani- mals, but a bakery is where bread is baked.
+
+\t Kukhona umntwana ocul ileyo.
+\m Ku-khona u-mntwana o-cul- ile-yo.
+\g 1 7.S B J-there    1-1.child           REL     : 1.S B J-sing- P E R F-yo
+\l A child sang. There's a child who sang.
+
+\t Kucul e          umntwana.
+\m Ku-cul- e          u-mntwana.
+\g 1 7.S B J-sing- P E R F 1-1.child
+\l A child sang.
+
+\t Ngiya bikezela ukuthi izinkinga ezintsha esinga                                                          kaz            azi       yo ziyo sihluph a isizukulwana sa                                          ngomuso.     
+\m Ngi-ya- bikezel-a ukuthi i-zinkinga ezi-ntsha esi-nga-                                                          ka-z-            az-i-       yo zi-yo- si-hluph- a i-sizukulwana sa-                                          ngomuso.     
+\g 1.S B J-ya- predict-FV   that          10-10.problem R E L : 1 0.S B J-new   REL   : 1 P.S B J-N E G-           yet-1 0.O B J-know- N E G-yo 1 0.S B J-F U T-7.O B J-bother- F V 7-7.generation               7.of-           in.the.future
+\l I predict that new problems which we do not know will trouble the future generation.
+
+\t Aku            kho mali.
+\m A-ku-            kho mali.
+\g NEG-1 7.S B J-there 9.money
+\l There isn't any money.
+
+\t Ayi           kho inhlobo yokudla eya yinge kho.
+\m A-yi-           kho i-nhlobo yo-kudla ey-a- yi-nge- kho.
+\g NEG-9.S B J-there 9-9.type   9.O F : 1 5-15.food R E L : 9.S B J-P S T-9.S B J-N E G-there
+\l Not a single kind of food wasn't there.
+
+\t Yi ngomai engi        mcul ele        yonai .
+\m Y-i- ngomai e-ngi-        m-cul- el-e        yonai .
+\g   COP-9- 9.song       REL-1 S.S B J-1.O B J-sing- A P P L-P E R F 9.it
+\l It's a song that I sang him.
+
+\t noSipho u*( wa) dlile.
+\m no-Sipho u-*( wa-) dl-ile.
+\g  and:1-1.Sipho 1.S B J-6.O B J-eat- P E R F
+\l I ate two apples, and so did Sipho.
+
+\t Angi              mbon anga           muntu.
+\m A-ngi-              m-bon- anga           muntu.
+\g   NEG-1 S.S B J-1.O B J-see- N E G.P S T 1.person
+\l I didn't see anyone.
+
+\t isikhathii engi        cule         ngaso    i
+\m i-sikhathii e-ngi-        cul-e         nga-so    i
+\g 7-7.time      REL-1 S.S B J-sing- P E R F by-7.it
+\l the time when I sang
+
+\t Angi           dansi kahle, kodwa ngicul a kahle.
+\m A-ngi-           dans-i kahle, kodwa ngi-cul- a kahle.
+\g NEG-1 S.S B J-dance- F V well   but    1 S.S B J-sing- F V well
+\l I don't dance well, but I sing well.
+
+\t Kushay e         uSipho umfana.
+\m Ku-shay- e         u-Sipho u-mfana.
+\g   17.S B J-hit-    PERF    1-1.Sipho 1-1.boy
+\l Sipho hit the/a boy.
+
+\t Kushay e         uSipho itafula.
+\m Ku-shay- e         u-Sipho i-tafula.
+\g   17.S B J-hit-    PERF    1-1.Sipho 5-5.table
+\l Sipho hit the/a table.
+
+\t Kushay e          uSipho ucingo.
+\m Ku-shay- e          u-Sipho u-cingo.
+\g 17.S B J-hit-     PERF   1-1.Sipho 11-11.wire
+\l Sipho made a phone call.
+
+\t "Sawubona!" Kwa bingelela ikhehla umngani walo.
+\m "Sawubona!" Kw-a- bingelel-a i-khehla u-mngani wa-lo.
+\g hello           17.S B J-P S T-greet-    FV   5-5.old.man 1-1.friend 1.of-5.it
+\l Hello,"greeted the old man his friend.
+
+\t  Ngiya sikhulum a ] isiXhosa.
+\m  Ngi-ya- si-khulum- a ] i-siXhosa.
+\g 1 S.S B J-ya- 7.O B J-speak-         FV    7-7.Xhosa
+\l I speak Xhosa.
+
+\t Ngikhulum a isiXhosa kahle. ]
+\m Ngi-khulum- a i-siXhosa kahle. ]
+\g    1 S.S B J-speak-    FV   7-7.Xhosa well
+\l I speak Xhosa well.
+
+\t Kukhulum e            uSipho.
+\m Ku-khulum- e            u-Sipho.
+\g  1 7.S B J-speak-     PERF   1-1.Sipho
+\l Sipho spoke.
+
+\t Kukhulum e        kahle uSipho.
+\m Ku-khulum- e        kahle u-Sipho.
+\g     1 7.S B J-speak-    PERF   well     1-1.Sipho.
+\l Sipho spoke well.
+
+\t indawo lapho kuhlal a khona uSipho
+\m i-ndawo lapho ku-hlal- a khona u-Sipho
+\g  9-9.place there 1 7.S B J-sit-      FV    there    1-1.Sipho
+\l the place where Sipho lives
+
+\t Abantwana bafund ela [ esikole ni. ]          P
+\m A-bantwana ba-fund- el-a [ e-sikole- ni. ]          P
+\g 2-2.child         2.S B J-study- A P P L-F V   LOC   :7-7.school- L O C
+\l The children study at the school.
+
+\t isikole
+\m i-sikole
+\g 7-7.school
+\l school
+
+\t esikole ni
+\m e-sikole- ni
+\g LOC   : 7-7.school- L O C
+\l at school
+
+\t Ngithand a uku cula ( esikole ni ).
+\m Ngi-thand- a u-ku- cul-a ( e-sikole- ni ).
+\g 1 S.S B J-love-   FV   15-15- sing-F V L O C:7-7.school- L O C
+\l I like to sing (at school).
+
+\t Ngithand a uku culel               a ( esikole ni ).
+\m Ngi-thand- a u-ku- cul-el-               a ( e-sikole- ni ).
+\g 1 S.S B J-love-   FV   15-15- sing-A P P L-F V   LOC   :7-7.school- L O C
+\l I like to sing (at school).
+
+\t Umfana uzo funda incwadi.
+\m U-mfana u-zo- fund-a i-ncwadi.
+\g 1-1.boy      1.S B J-F U T-study- F V 9-9.book
+\l The boy will study the book.
+
+\t Incwadi izo funda umfana.
+\m I-ncwadi i-zo- fund-a u-mfana.
+\g  9-9.book        9.S B J-F U T-study- F V 1-1.boy
+\l The book will be studied by the boy.
+
+\t Incwadi izo fundw a ( ngu mfana ).
+\m I-ncwadi i-zo- fund-w- a ( ng-u- mfana ).
+\g 9-9.book     9.S B J-F U T-study- P S V-F V by-1- 1.boy
+\l The book will be studied by the boy.
+
+\t ( Esikole ni )i kuzo fundel             a ( abantwana ) ti .
+\m ( E-sikole- ni )i ku-zo- fund-el-             a ( a-bantwana ) ti .
+\g   LOC   :7-7.school- L O C       1 7.S B J-F U T-study- A P P L-F V    2-2.child
+\l (At the school), children will study.
+
+\t ( Esikole ni, )i abantwana bazo fundel            a ti .
+\m ( E-sikole- ni, )i a-bantwana ba-zo- fund-el-            a ti .
+\g   LOC   :7-7.school- L O C       2-2.child          2.S B J-F U T-study- A P P L-F V
+\l (At the school), children will study.
+
+\t Yi sikole esinye esifund ela abantwana bami.
+\m Y-i- sikole esi-nye esi-fund- el-a a-bantwana ba-mi.
+\g COP-7- 7.school 7-one R E L.7-study- R E L-F V 2-2.child       2.of-me
+\l It's the other school that my children study at.
+
+\t Yisiphi isikole esifund ela abantwana bakho?
+\m Yi-siphi i-sikole esi-fund- el-a a-bantwana ba-kho?
+\g COP-7.which 7-7.school R E L.7-study- A P P L-F V 2-2.child        2.of-you
+\l Which school do your children study at?
+
+\t [ imali      ]i yoku sebenzel         a (* abantwana ) t       i
+\m [ i-mali      ]i yo-ku- sebenz-el-         a (* a-bantwana ) t       i
+\g   9-9.money      9.of:15-15- work-APPL- FV       2-2.child
+\l money (for children) to work for
+
+\t 22.child         2 . S B Jsing F V 2.all
+\m 2-2.child         2 . S B J-sing- F V 2.all
+\g                                                        I
+\l The children are all singing.
+
+\t 1010.song        22.child            2 . S B J1 0 . O B Jsing F V 10.all
+\m 10-10.song        2-2.child            2 . S B J-1 0 . O B J-sing- F V 10.all
+\g                                                                                        I
+\l The songs, the children are singing them all.
+
+\t Yini         oyibonayo?
+\m Y-ini         o-yi-bona-yo?
+\g COP-what9 RC2ndSG-OC9-see-RS
+\l What is it that you see?
+
+\t Ngubani ombonayo?
+\m Ng-ubani o-m-bona-yo?
+\g COP-who1a RC2ndSG-OC1a-see-RS
+\l Who is it that you see?
+
+\t Ubani ubanga lowo msindo?
+\m Ubani u-banga lowo msindo?
+\g  who1a SP1a-cause DEM3 noise3
+\l Who is making that noise?
+
+\t Ubani uyashaywa?
+\m Ubani u-ya-shay-wa?
+\g  who1a SP1a-FOC-beat-PASS
+\l Who is beaten?
+
+\t Ngubani obanga           lowo msindo?
+\m Ng-ubani o-banga           lowo msindo?
+\g COP-who1a RC1a-cause DEM3 noise3
+\l Who is it that is making that noise?
+
+\t Ngubani oshaywayo?
+\m Ng-ubani o-shay-wa-yo?
+\g COP-who1a RC1a-beat-PASS-Rs
+\l Who is it that is beaten?
+
+\t Ngubani ofikile?
+\m Ng-ubani o-fikile?
+\g  COP-who1a RC1a-arrived
+\l Who arrived?
+
+\t Abafana bayasebenza.
+\m Abafana ba-ya-sebenza.
+\g boy2 SP2-FOC-work
+\l The boys are WORKING.
+
+\t Abafana basebenza kakhulu.
+\m Abafana ba-sebenza kakhulu.
+\g boy2    SP2-work a.lot
+\l The boys are working A LOT.
+
+\t Abafana basebenza.
+\m Abafana ba-sebenza.
+\g  boy2        SP2-work
+\l The BOYS are working.
+
+\t Ngabafana abasebenzayo.
+\m Ng-abafana aba-sebenza-yo.
+\g  COP-boy2 RC2-work-RS
+\l It is the boys who are working.
+
+\t [Yindoda ocabanga         [ ukuthi uBev uyibonile ___ ]].
+\m [Y-indoda o-cabanga         [ ukuthi uBev u-yi-bonile ___ ]].
+\g  COP-man9 RC2ndSG-think that         Bev1a SP1a-Oc9-saw
+\l It was the man who you think that Bev saw.
+
+\t [Ucabanga [ ukuthi yindoda uBev ayibonileyo ___ ]].
+\m [U-cabanga [ ukuthi y-indoda uBev a-yi-bonile-yo ___ ]].
+\g  2ndSG-think that COP-man9 Bev RC1a-OC9-saw-RS
+\l You think that it was the man that Bev saw.
+
+\t [Ucabanga ukuthi [yini         ngumama       abantwana abamnike      yona]]?
+\m [U-cabanga ukuthi [y-ini         ng-umama       abantwana aba-m-nike      yona]]?
+\g   2ndSG-think that   COP-what9 COP-mother1a child2         RC2-OC1a-gave it9
+\l What do you think that the children gave to MOTHER?
+
+\t [Ucabanga ukuthi [yimali         ngubani abantwana abamnike       yona]]?
+\m [U-cabanga ukuthi [y-imali         ng-ubani abantwana aba-m-nike       yona]]?
+\g   2ndSG-think that   COP-money9 COP-who1a child2          RC2-OC1a-gave it9
+\l To whom do you think the children gave the MONEY?
+
+\t UThandi ungumfazi.
+\m UThandi u-ng-umfazi.
+\g Thandi1a SP1a-COP-woman1
+\l Thandi is a woman.
+
+\t UThemba uyindoda.
+\m UThemba u-y-indoda.
+\g Themba1a SP1a-COP-man9
+\l Themba is a man.
+
+\t umfana unika indoda isinkwa
+\m umfana u-nika indoda isinkwa
+\g    boy     SM-give man bread
+\l The boy gives bread to the man.
+
+\t Kukhuluma abakhula.
+\m Ku-khuluma aba-khula.
+\g c10-speak cl2-elders
+\l There are speaking elders.
+
+\t Abakhula bayakhuluma.
+\m Aba-khula ba-ya-khuluma.
+\g Cl2-elders cl2-?-speak
+\l (The) elders are speaking
+
+\t Thina sonke sifikile.
+\m Thina s-onke si-fik-ile.
+\g we     1p-all 1pS-arrive-perf
+\l We have all arrived
+
+\t Ngiyambona umuntu.
+\m Ngi-ya-m-bona umuntu.
+\g 1sS-??-1O-see person
+\l I see the person.
+
+\t Bayagula babuye        basinde.
+\m Ba-ya-gula ba-buye        ba-sind-e.
+\g 2S-hab-sick 2S-do.next 2S-(perf)-recover
+\l They get sick and then recover.
+
+\t Thina sonke sifikile.
+\m Thina s-onke si-fik-ile.
+\g we     1p-all 1pS-arrive-perf
+\l We have all arrived
+
+\t Min' omkhulu ngiyakhuluma. (*ngikhulu)
+\m Min' om-khulu ngi-yakhuluma. (*ngi-khulu)
+\g I      CL1-big 1sS-am.speaking 1s-big
+\l I, the big one, am speaking.
+
+\t Thin' abakhulu              siyakhuluma.
+\m Thin' aba-khulu              si-yakhuluma.
+\g  we    CL2-big        1pS-be.speaking                                1p-big
+\l We big ones are speaking.
+
+\t Abafana basebenza esitolo
+\m Abafana ba-sebenza esitolo
+\g boy2      SP2-work in.shop7
+\l The boys are working in the shop.
+
+\t Isitshudeni sifunda incwadi
+\m Isitshudeni si-funda incwadi
+\g student7 SP7-read letter9
+\l The student is reading the letter.
+
+\t Izintombi zidlala     nengane
+\m Izintombi zi-dlala     ne-ngane
+\g girl10     SP10-play with-child9
+\l The girls are playing with the child.
+
+\t Abafana [abasebenza esitolo] bafike              namhlanje
+\m Abafana [aba-sebenza esitolo] ba-fik-e              namhlanje
+\g boy2      RC2-work       in.shop SP2-arrive-PERF today
+\l The boys who work in the shop arrived today.
+
+\t Incwadi [esiyifundayo        isitshudeni] inde
+\m Incwadi [esi-yi-funda-yo        isitshudeni] in-de
+\g letter9 RC7-OC9-read-RS student7 SP9-long
+\l The letter that the student is reading is long.
+
+\t Ingane [ezidlala      nayo      izintombi] iyahleka
+\m Ingane [ezi-dlala      na-yo      izintombi] i-ya-hleka
+\g child9 RC10-play with-PC9 girl10             SP9-FOC-laugh
+\l The baby with whom the girls play is laughing.
+
+\t Umfana [osebenza lapha] uyagula
+\m Umfana [o-sebenza lapha] u-ya-gula
+\g boy1      RC1-work here SP1-FOC-be.sick
+\l The boy who works here is sick
+
+\t Ukudla [ugogo        akuphekayo]          kumnandi impela
+\m Ukudla [ugogo        a-ku-pheka-yo]          ku-mnandi impela
+\g food14 granny1a RC1a-OC14-cook-RS SP14-tasty indeed
+\l The food that granny cooks is tasty indeed
+
+\t Incwadi [efundwa          yisitshudeni] inde
+\m Incwadi [e-fund-wa          yi-sitshudeni] in-de
+\g letter9 RC9-read-PASS by.student7 SP9-long
+\l The letter that is being read by the student is long
+
+\t umfazi [obantwana bakhe          ubalimazile]
+\m umfazi [o-bantwana ba-khe          u-ba-limaz-ile]
+\g woman1 RC1-child2 POSS2-PC1 2ndSG-OC2-hurt-PERF
+\l the lady whose children you hurt
+
+\t ilahlekileyo]
+\m i-lahlek-ile-yo]
+\g SP9-be.lost-PERF-RS
+\l We shall buy the old man whose axe is        lost a new one.
+
+\t umuntu [o'zandhla zake        zimhlope]
+\m umuntu [o-'zandhla za-ke        zi-mhlope]
+\g person1 RC1-hand8 POSS8-PC1 SP8-white
+\l the person whose hands are white
+
+\t amakosi [a'masimu awo          si             wa bonayo]
+\m amakosi [a-'masimu a-wo          si             wa bona-yo]
+\g chief6 RC6-field6 POSS6-PC6 1stP           L   OC6 see-RS
+\l the chiefs whose fields we see
+
+\t Indoda [ebaba     ushaye      izinja zayo]         ithukuthele
+\m Indoda [e-baba     u-shay-e      izinja za-yo]         i-thukuthele
+\g man9 RC9-father1a SP1a-hit-PERF dog10 POSS10-PC9 SP9-be.angry
+\l The man whose dogs my father hit is angry.
+
+\t INgisi [elibaba     uhlala   endlini yalo]      liyavilapha
+\m INgisi [eli-baba     u-hlala   endlini ya-lo]      li-ya-vilapha
+\g Engl.5 RC5-father1a SP1a-stay in.hut9 POSS9-5 SP5-FOC-be.lazy
+\l The Englishman in whose hut my father is staying is lazy.
+
+\t Indoda [ubaba ashaye        izinja zayo]  ithukuthele
+\m Indoda [ubaba a-shay-e        izinja za-yo]  i-thukuthele
+\g man9 father1a RC1a-hit-PERF dog10 POSS10-Pc9 SP9-be.angry
+\l The man whose dogs my father hit is angry.
+
+\t Indoda [ebaba       uyayithanda]         iyinkosi
+\m Indoda [e-baba       u-ya-yi-thanda]         i-y-inkosi
+\g man9 RC9-father1a SP1a-FOC-OC9-love SP9-COP-chief9
+\l The man whom father likes is a chief.
+
+\t intombi [enina      azihlupha        ngayo]
+\m intombi [e-nina      a-zi-hlupha        nga-yo]
+\g girl9 RC9-mother1a SP1a-REFL-worry with-Pc9
+\l the young woman whose mother worries about her
+
+\t inkosi [emntwana wayo                uyagula]
+\m inkosi [e-mntwana wa-yo                u-ya-gula]
+\g chief9 RC9-child1 POSS1-PC9           SP1-FOC-be.sick
+\l the chief whose child is ill
+
+\t inkosi [emntwana wayo                 agulayo]
+\m inkosi [e-mntwana wa-yo                 a-gula-yo]
+\g chief9 RC9-child1 POSS1-PC9           SP1-be.sick-RS
+\l the chief whose child is ill
+
+\t Insizwa       [entombi ziyicelukhisi]         ayikho        namhlanje
+\m Insizwa       [e-ntombi zi-yi-celukhisi]         a-yi-kho        namhlanje
+\g young.man9 RC9-girl10 SP10-OC9-ask.for.kiss NEG-SP9-be.here      today    
+\l The charming young man is not here today.
+
+\t Indoda [engubaba]        ihambile
+\m Indoda [e-ng-ubaba]        i-hamb-ile
+\g man9 RC9-COP-father1a SP9-go-PERF
+\l The man who is a father has left.
+
+\t intombi [enina      azihlupha        ngayo]
+\m intombi [e-nina      a-zi-hlupha        nga-yo]
+\g girl9 RC9-mother1a SP-1a-REFL-worry with-Pc9
+\l the young woman whose mother worries about her
+
+\t intombi [le  unina     azihlupha       ngayo]
+\m intombi [le  unina     a-zi-hlupha       nga-yo]
+\g girl9 DEM9 mother1a SP-1a-REFL-worry with-Pc9
+\l the young woman whose mother worries about her
+
+\t lo     mfana
+\m lo     mfana
+\g DEM1 boy1
+\l this boy
+
+\t laba bafana
+\m laba bafana
+\g DEM2 boy2
+\l these boys
+
+\t Ubonani?
+\m U-bona-ni?
+\g 2nd SG-see(-)what9
+\l What do you see?
+
+\t Ubona bani?
+\m U-bona bani?
+\g 2nd SG-see whom1a
+\l Whom do you see?
+
+\t Yini        oyibonayo?
+\m Y-ini        o-yi-bona-yo?
+\g CO P-what9 RC2nd SG-OC9-see-RS
+\l What is it that you see?
+
+\t Ngubani ombonayo?
+\m Ng-ubani o-m-bona-yo?
+\g CO P-who1a RC2nd SG-OC1a-see-RS
+\l Who is it that you see?
+
+\t Ubani ubanga     lowo msindo?
+\m Ubani u-banga     lowo msindo?
+\g   who1a SP1a-cause DE M3 noise3
+\l Who is making that noise?
+
+\t Ubani uyashaywa?
+\m Ubani u-ya-shay-wa?
+\g   who1a SP1a-FO C-beat-PA S S
+\l Who is beaten?
+
+\t Ngubani obanga          lowo msindo?
+\m Ng-ubani o-banga          lowo msindo?
+\g CO P-who1a RC1a-cause DE M3 noise3
+\l Who is it that is making that noise?
+
+\t Ngubani oshaywayo?
+\m Ng-ubani o-shay-wa-yo?
+\g CO P-who1a RC1a-beat-PA S S-RS
+\l Who is it that is beaten?
+
+\t Ngubani ofikile?
+\m Ng-ubani o-fikile?
+\g CO P-who1a RC1a-arrived
+\l Who arrived?
+
+\t uBev     ]]?
+\m uBev     ]]?
+\g Bev1a
+\l What do you think Bev bought?
+
+\t osebenzile]]]?
+\m o-sebenzile]]]?
+\g RC1a-worked
+\l Who do you think they said worked?
+
+\t [Ucabanga [ ukuthi yindoda uBev ayibonileyo      ]].
+\m [U-cabanga [ ukuthi y-indoda uBev a-yi-bonile-yo      ]].
+\g 2nd SG-think that CO P-man9 Bev RC1a-OC9-saw-RS
+\l You think that it was the man that Bev saw.
+
+\t   abamnike       yona]]?
+\m   aba-m-nike       yona]]?
+\g   RC2-OC1a-gave it9
+\l What do you think that the children gave to M OT H E R?
+

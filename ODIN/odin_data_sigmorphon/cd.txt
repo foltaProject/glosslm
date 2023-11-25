@@ -1,0 +1,60 @@
+\t ÷ow?manta
+\m ÷ow?manta
+\g that    person
+\l that person
+
+\t gopalkay ram'i      sitak'akan
+\m gopal-kay ram-'i      si-tak-'aka-n
+\g Gopal-GL Rm-AG die-CAUS-TNS-DIR
+\l Ram caused Gopal to die.
+
+\t gopalkay ram'i      sitak'akathay
+\m gopal-kay ram-'i      si-tak-'aka-thay
+\g gopal-GL ram-AG die-CAUS-TNS-INV
+\l Ram caused Gopal to die.
+
+\t Pu'ais'i             bahkay haw                   dak'akacu
+\m Pu'-ais-'i             bah-kay haw                   dak-'aka-c-u
+\g older.brother-DU-AGT uncle-GL younger.brother deliver-TNS-DU-DIR
+\l The two older brothers delivered their younger brother to their uncle.
+
+\t Pu'nis'i                    bahkay haw                   dak'athay
+\m Pu'-nis-'i                    bah-kay haw                   dak'a-thay
+\g 01der.brother-DU-AGT          uncle-GL younger.brother deliver-TNS-RW
+\l The two older brothers delivered their younger brother to their uncle.
+
+\t 'i    sig'i    gakay      1i'na'tag'
+\m 'i    sig-'i    ga-kay      1i'-na'-ta-g'
+\g DEM wood-AG 1SG-DO weigh-TNS-INV-[classifier]
+\l This wood weighs me down.
+
+\t gaakaay laani               je'beytaq
+\m gaa-kaay laan-i               je'-bey-taq
+\g 1SG-DO demon-ERG              eat-have-[classifier]
+\l A demon is going to eat me.
+
+\t ga'i        @jikay         tyguly      bay'ne'nagja
+\m ga-'i        @-ji-kay         tyguly      bay'-ne'-na-g-ja
+\g 1SG-AG 2SG-2DU-GL drink                    give-TNS-2-1SG-2DU
+\l 1 will give you two a drink.
+
+\t nag'i      gakay ga prek'a ci
+\m nag-'i      ga-kay ga prek-'a- ci
+\g 2SG-AG 1SG-GL fish split-TNS-2SG
+\l You split a fish for me.
+
+\t 'iniskay 'ow'may''i ghanna'suna'thaca
+\m 'i-nis-kay 'ow'-may'-'i ghan-na'-s-u-na'-tha-ca
+\g this-DL-DO that-CPL-ERG beat-TNS-PL-DR-TNS-INV-[classifier]
+\l They beat these two.
+
+\t punisi h w satakacu
+\m pu-nis-i h w sat-aka-c-u
+\g OBro-DU-AG YoBro kill-PAST-DU-AG
+\l The two older brothers killed the younger brother (accidentally)
+
+\t h wkay punisi satath y
+\m h w-kay pu-nis-i sat-a-th y
+\g YoBro-GL OBro-DU-AG kill-PAST-GL
+\l The two older brothers killed the younger brother (on purpose)
+

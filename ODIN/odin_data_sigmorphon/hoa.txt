@@ -1,0 +1,50 @@
+\t tuke             sa           leboto
+\m tuke             sa           leboto
+\g throw away       ART:S        bushknife
+\l The bushknife was thrown away.
+
+\t tukea                  rao        sa          leboto
+\m tuke-a                  rao        sa          leboto
+\g throw away-O:3S         D:3S       ART:S       bushknife
+\l I threw the bushknife away.
+
+\t soko         sa               makariva
+\m soko         sa               makariva
+\g chop         ART:S            boy
+\l The boy chopped.
+
+\t sokoa       sa               makariva         sa          gato
+\m soko-a       sa               makariva         sa          gato
+\g chop-O:3S    ART:S            boy              ART:   S    tree
+\l The boy chopped the tree.
+
+\t Tahogi             rao
+\m Ta-hogi             rao
+\g PASS-gore           D:1S
+\l I was gored.
+
+\t Tahoginia                      rao            sa         boko
+\m Ta-hogi-ni-a                      rao            sa         boko
+\g PASS-gore-APPLIC-O:3S             D:1S           ART:   S   pig
+\l I was gored by the pig.
+
+\t Vainia            gato ria      [de        zomae                 vuana]
+\m Vai-ni-a            gato ria      [de        zoma-e                 vua-na]
+\g take-APPLIC-O:3S stick D:3P COMP poke down-TR:O:3P                  fruit-P:3S
+\l They took sticks to poke down its fruit.
+
+\t Kae ilalia            rao    sa     see        mae     pa     kapa    hore
+\m Kae ilali-a            rao    sa     see        mae     pa     kapa    hore
+\g NEG know-TR.O:3S D:1S ART:S crocodile come PREP beside canoe
+\l I did not know the crocodile came up beside the canoe.
+
+\t Hivania           ria    de         pule   mae       sa      geto
+\m Hiva-ni-a           ria    de         pule   mae       sa      geto
+\g want-APPLIC-O:3S D:3P COMP return come                 ART:S war party
+\l They wanted the war party to come back.
+
+\t Haku=hakunia                      ria     de         nagalia
+\m Haku=haku-ni-a                      ria     de         nagali-a
+\g REDUP=be tired of-APPLIC-O:3S D:3P          COMP       carry.TR-O:3S
+\l They were tired of carrying it.
+

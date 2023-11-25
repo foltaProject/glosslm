@@ -1,0 +1,20 @@
+\t Xwan papata mikhun
+\m Xwan papa-ta mikhu-n
+\g Juan potato-ACC eat-3
+\l Juan eats potatoes
+
+\t Xwan mikhun papata
+\m Xwan mikhu-n papa-ta
+\g Juan eat-3 potato-ACC
+\l Juan eats potatoes
+
+\t Xwan papata mikhusqanta yachani
+\m Xwan papa-ta mikhu-sqa-n-ta yacha-ni
+\g Juan potato-ACC eat-NOMINAL-3-ACC know-I
+\l I know that Juan eats potatoes
+
+\t Xwan mikhun papata sqanta yachani
+\m Xwan mikhu-n papa-ta sqa-n-ta yacha-ni
+\g Juan eat-3 potato-ACC eat-NOMINAL-ACC know-I
+\l I know that Juan eats potatoes
+

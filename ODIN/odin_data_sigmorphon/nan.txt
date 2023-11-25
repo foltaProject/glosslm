@@ -1,0 +1,940 @@
+\t WaN    ho sioti   kongpua.
+\m WaN    ho sioti   kongpua.
+\g bowl   HO brother break
+\l The   bowl was broken by my younger brother.
+
+\t WaN    ho sioti   ka kongpua.
+\m WaN    ho sioti   ka kongpua.
+\g bowl   HO brother KA break
+\l The   bowl was broken by my younger brother.
+
+\t WaN    ho sioti   ka i kongpua.
+\m WaN    ho sioti   ka i kongpua.
+\g bowl   HO brother KA it break
+\l The   bowl was broken by my younger brother.
+
+\t i   tiam    me    ua
+\m i   tiam    me    ua
+\g 3sg always scold me
+\l He keeps scolding me.
+
+\t tsa¢ hue    k'eG i     si k'  m
+\m tsa¢ hue    k'eG i     si k'  m
+\g Cl flower Pass 3sg die RVC
+\l The flower has died.
+
+\t kai noukia k'eG i     puaG loG  k'      m
+\m kai nou-kia k'eG i     puaG loG  k'      m
+\g Cl child      Pass 3sg fall down RVC
+\l The child fell over.
+
+\t ts'io~k'eG i    to loG  k'     m
+\m ts'io~k'eG i    to loG  k'     m
+\g wall Pass 3sg fall down RVC
+\l The wall fell down.
+
+\t ua tiam k'eG i        me
+\m ua tiam k'eG i        me
+\g I always Pass 3sg scold
+\l I keep being scolded by him.
+
+\t                            ~
+\m                            ~
+\g 3sg not.have give 1sg read this Cl book
+\l He didn't let me read this book.
+
+\t ua tiam      k'eG na¢     me
+\m ua tiam      k'eG na¢     me
+\g I always Pass people scold
+\l I keep getting scolded.
+
+\t ua tiam      k'ei     me
+\m ua tiam      k'ei     me
+\g I always Pass-3sg scold
+\l I keep getting scolded by him/her.
+
+\t tsiko bo       k'eG *(na¢) tsiaG  hu¢
+\m tsi-ko bo       k'eG *(na¢) tsiaG  hu¢
+\g here not-have allow people consume smoke
+\l Smoking is not allowed here.
+
+\t pu¢ tsm   k'eG *(na¢) boi k'     mlau
+\m pu¢ tsm   k'eG *(na¢) boi k'     mlau
+\g Cl book Pass person buy RVC PRT
+\l The book has been bought already.
+
+\t tsiaG "t'iG taG ni ho" k'eG i   tim loG   k'      m
+\m tsiaG "t'iG taG ni ho" k'eG i   tim loG   k'      m
+\g Cl    Titanic          Pass 3sg sink down RVC
+\l The Titanic sank.
+
+\t ua mkia¢ ki houtsia
+\m ua m-kia¢ ki hou-tsia
+\g I lose       Cl umbrella
+\l I lost the umbrella.
+
+\t kia sa      soi  ho     k'eG i    kiu   k'      m
+\m kia sa      soi  ho     k'eG i    kiu   k'      m
+\g Cl blouse wash RVC Pass 3sg shrink RVC
+\l The blouse shrank after being washed.
+
+\t i    bo          laG     t'ua ko       t'iG  k'mkau,          kau kai na¢          tsu k'eG i       puaG to hio k'oi ko     
+\m i    bo          laG     t'ua ko       t'iG  k'mkau,          kau kai na¢          tsu k'eG i       puaG to hio k'oi ko     
+\g 3sg not-have strength drag Def         metal go arrive        whole Cl person then Pass3sg          fall at that river there
+\l As he was so weak, when he was        dragging the metal, he fell into the river.
+
+\t sa~   kai ts'aG k'eG i   tsau k'      m
+\m sa~   kai ts'aG k'eG i   tsau k'      m
+\g three Cl thief Pass 3sg run RVC
+\l Three thieves escaped.
+
+\t lm  ki peG    tioG     k'ai, bo          ko baG tseGe tsu        k'eG i   ta k'        m
+\m lm  ki peG    tioG     k'ai, bo          ko baG tseG-e tsu        k'eG i   ta k'        m
+\g 2sg Cl brush should cover, not.have Cl ink a-while then           Pass 3sg dry RVC       
+\l You should put the cap on the brush, otherwise the ink will dry up.
+
+\t t'angtsa iu     k'eG i ~  i     k'  m
+\m t'ang-tsa iu     k'eG i ~  i     k'  m
+\g just-now again Pass 3sg sleep RVC
+\l Just now he fell asleep again.
+
+\t k'eG i     puaG loG    k' m
+\m k'eG i     puaG loG    k' m
+\g Pass 3sg fall down RVC
+\l He fell down.
+
+\t ts'io~k'eG i    to loG      k' m
+\m ts'io~k'eG i    to loG      k' m
+\g wall Pass 3sg fall down RVC
+\l The wall fell down (by itself).
+
+\t no kai noukia k'eG i (*na¢) puaG loG k'           m
+\m no kai noukia k'eG i (*na¢) puaG loG k'           m
+\g two Cl child Pass 3sg (Pl) fall down RVC
+\l The two children fell over.
+
+\t ua k'eG i      puaG loG k'     m
+\m ua k'eG i      puaG loG k'     m
+\g I Pass 3sg fall down RVC
+\l I fell over.
+
+\t i   t'a¢ ki houtsia kai i   mkia¢ ne.
+\m i   t'a¢ ki hou-tsia kai i   m-kia¢ ne.
+\g 3sg Pretr Cl umbrella OM 3sg lose   Prt
+\l He lost the umbrella!
+
+\t ua t'a¢ l m       kai i poi tiau ne
+\m ua t'a¢ l m       kai i poi tiau ne
+\g I Pretr you OM 3sg sell RVC Prt
+\l I'll sell you off!
+
+\t kai noukia ??(k'eG i) puaG loG    k'      m
+\m kai nou-kia ??(k'eG i) puaG loG    k'      m
+\g Cl child        Pass 3sg fall down RVC
+\l The child fell over.
+
+\t lmnasi bo ai ~    tsok'a¢k'ue tsu tioG    ?*(k'eG i) go    tioG
+\m lmnasi bo ai ~    tso-k'a¢-k'ue tsu tioG    ?*(k'eG i) go    tioG
+\g 2sg if not want do-work         then have-to Pass 3sg starve RVC
+\l (In those days) if you didn't work, you would starve.
+
+\t lm  tioG k'eG i      go   tioG
+\m lm  tioG k'eG i      go   tioG
+\g 2sg must Pass 3sg starve RVC
+\l You're going to starve.
+
+\t bue h m   k'eG i   ts'au k'    m
+\m bue h m   k'eG i   ts'au k'    m
+\g Cl fish Pass 3sg smelly RVC
+\l The fish turned smelly.
+
+\t tsa¢ hue    k'eG i    p'a¢    k'   m
+\m tsa¢ hue    k'eG i    p'a¢    k'   m
+\g  Cl flower Pass 3sg fragrant RVC
+\l The flower became fragrant.
+
+\t ua ~tsai oi                                                    m
+\m ua ~-tsai oi                                                    m
+\g 1sg before able swim, now           all Pass 3sg     not.able RVC
+\l I used to be able to swim, but now I can't.
+
+\t ua ~tsai boi                                                   m
+\m ua ~-tsai boi                                                   m
+\g  1sg before not.able swim, now           all Pass     3sg able RVC
+\l I used to be unable to swim, but now I can.
+
+\t ko bak ta bue?
+\m ko bak ta bue?
+\g Cl ink dry not.yet
+\l Has the ink dried up?
+
+\t ta lau
+\m ta lau
+\g dry Prt
+\l Yes, it has.
+
+\t ki pek ko bak k'eG i       ta k'     m
+\m ki pek ko bak k'eG i       ta k'     m
+\g Cl pen Cl ink Pass 3sg dry RVC
+\l The ink of the pen has gone dry.
+
+\t ua t'oi ~    tiangsi au       tsu k' ~i
+\m ua t'oi ~    tiangsi au       tsu k' ~i
+\g I watch TV            after then go sleep
+\l I went to sleep after watching TV.
+
+\t tsauzeG k'ui tseG zeG ts'ia, k'eG i heG kau mai    ~      ta~
+\m tsau-zeG k'ui tseG zeG ts'ia, k'eG i heG kau mai    ~      ta~
+\g yesterday drive one day car, Pass 3sg tired until not-want say
+\l I drove for a whole day yesterday and became dead tired.
+
+\t kai tou        k'eG i   tsiaG kau t'ia~si
+\m kai tou        k'eG i   tsiaG kau t'ia~si
+\g Cl stomach Pass 3sg eat until hurt RVC
+\l I ate until my stomach hurt.
+
+\t l    tioG   k'eG kai noukia k'       guapai kiki    sime¢
+\m l    tioG   k'eG kai noukia k'       gua-pai ki-ki    si-me¢
+\g you should give Cl child        go outside see-see world
+\l You should get your child to go out and see the world.
+
+\t k'iG i    tsa   k'u ~ G
+\m k'iG i    tsa   k'u ~ G
+\g give 3sg early go sleep
+\l Put him to bed early.
+
+\t k'ioG pue tsui      k'eG ua
+\m k'ioG pue tsui      k'eG ua
+\g bring glass water give me
+\l Bring me a glass of water.
+
+\t kih¢    kai sihau, go            tioG hoG     tsoi     na¢.
+\m ki-h¢    kai si-hau, go            tioG hoG     tsoi     na¢.
+\g     famine Poss time      starve-die very many people.
+\l Many people died of starvation during the period of famine.
+
+\t kih¢ kai       sihau,     go      si hoG tsoi      na¢.
+\m ki-h¢ kai       si-hau,     go      si hoG tsoi      na¢.
+\g famine Poss     time        starve die very many people
+\l Many people    died of    starvation during the period of famine.
+
+\t kih¢ kai       sihau,     hoG tsoi    na¢      k'eG i     gosi.
+\m ki-h¢ kai       si-hau,     hoG tsoi    na¢      k'eG i     go-si.
+\g famine Poss     time        very many people Pass 3sg starve-die
+\l Many people    died of    starvation during the period of famine.
+
+\t li ti kong shimi waNko?        goa long thiaN bo. (*tuei chite waNko)
+\m li ti kong shimi waNko?        goa long thiaN bo. (*tuei chite waNko)
+\g you at say what bowl-&-pot I all hear not which one bowl-&-pot
+\l What on earth are you talking about? I can't figure out a thing?
+
+\t li taote ti kong shimi waNko?
+\m li taote ti kong shimi waNko?
+\g You daodi at say what bowl-and-pot
+\l What the hell are you talking about?
+
+\t Ah Meng su     m    suka ji    bun zi?
+\m Ah Meng su     m    suka ji    bun zi?
+\g         like not like this CL            book
+\l Does Ah Meng like this book?
+
+\t Ah Meng ka suka ji      bun zi?
+\m Ah Meng ka suka ji      bun zi?
+\g         Q    like this CL     book
+\l Does Ah Meng like this book?
+
+\t Ah Meng (oi)    suka ji     bun zi        boi?
+\m Ah Meng (oi)    suka ji     bun zi        b-oi?
+\g         will    like this CL    book not-will
+\l Will Ah Meng like this book?
+
+\t Ah Meng   ai    lai     mai?
+\m Ah Meng   ai    lai     m-ai?
+\g   Ah Meng want come not-want
+\l Does Ah Meng want to come?
+
+\t Ah Meng oi         lai   mai?
+\m Ah Meng oi         lai   m-ai?
+\g  Ah Meng will come not-want
+\l Does Ah Meng want to come?
+
+\t Ah Meng    oi       lai   boi?
+\m Ah Meng    oi       lai   b-oi?
+\g Ah Meng will come not-will
+\l Will Ah Meng come?
+
+\t Ah Meng ka su        m    suka ji      bun zi?
+\m Ah Meng ka su        m    suka ji      bun zi?
+\g         Q   like not like this CL         book
+\l Does Ah Meng like this book?
+
+\t Ah Meng ka (oi)      suka ji     bun zi     boi?
+\m Ah Meng ka (oi)      suka ji     bun zi     b-oi?
+\g         Q   will     like this CL       book not-will
+\l Will Ah Meng like this book?
+
+\t Ah Meng su      m    suka ji   bun zi     boi?
+\m Ah Meng su      m    suka ji   bun zi     b-oi?
+\g            like not like this CL      book will-not
+\l Will Ah Meng like this book?
+
+\t Ah Meng oi      suka ji     bun zi     boi?
+\m Ah Meng oi      suka ji     bun zi     b-oi?
+\g            will like this CL    book will-not
+\l Will Ah Meng like this book?
+
+\t Ah Meng oi      su     m   suka ji    bun zi      boi?
+\m Ah Meng oi      su     m   suka ji    bun zi      b-oi?
+\g              will like not like this CL        book will-not
+\l Will Ah Meng like this book?
+
+\t Ah    Meng    pa    wa.
+\m Ah    Meng    pa    wa.
+\g Ah    Meng beat     me
+\l Ah Meng beats me.
+
+\t Ah Meng   pa      didiang?
+\m Ah Meng   pa      didiang?
+\g Ah Meng beat       who
+\l Who did Ah Meng beat?
+
+\t Didiang Ah Meng pa?
+\m Didiang Ah Meng pa?
+\g who       Ah Meng beat
+\l Who did Ah Meng beat?
+
+\t Ah Meng      dor   Muikok    zorgang
+\m Ah Meng      dor   Muikok    zorgang
+\g Ah Meng      at     U.S.work
+\l Ah Meng works in the US.
+
+\t Ah Meng dor digor        zorgang?
+\m Ah Meng dor digor        zorgang?
+\g Ah Meng   at where       work
+\l Where does Ah Meng work?
+
+\t Dor digor     Ah Meng     zorgang?
+\m Dor digor     Ah Meng     zorgang?
+\g  at   where    Ah Meng     work
+\l Where does Ah Meng work?
+
+\t b. Bozua     tha zongli kihmkih Mui Kok?
+\m b. Bozua     tha zongli kih-m-kih Mui Kok?
+\g      papers say PM    go-not-go     US
+\l Did the paper say whether the PM is going to the US?
+
+\t Wa kih    m     kih      Pakiah    you    hor?
+\m Wa kih    m     kih      Pakiah    you    hor?
+\g I    go   not   go       Beijing   better
+\l Is it better for me to go to Beijing or not?
+
+\t Le   suka tiao       m     tiaobu gai nang?
+\m Le   suka tiao       m     tiaobu gai nang?
+\g  you like dance not dance           person
+\l Do you prefer those who dance or those who don't?
+
+\t (i) i mng tha Ah Meng       ka u    boi liuliang     ga i gai boh jia m    jia liuliang
+\m (i) i mng tha Ah Meng       ka u    boi liuliang     ga i gai boh jia m    jia liuliang
+\g     he ask if   Ah Meng   ka have buy durian         and his wife eat not eat durian   
+\l He asked if Ah Meng bought durians and if his wife eats them.
+
+\t (ii) i mng tha Ah Meng ka u      kih tai wang      ga i boh ka jia m jia chao tauhu         
+\m (ii) i mng tha Ah Meng ka u      kih tai wang      ga i boh ka jia m jia chao tauhu         
+\g      he asked if Ah Meng ka have go Taiwan         and his wife eat not eat smelly bean curd
+\l He asked if Ah Meng had gone to Taiwan and if his wife eats smelly bean curd.
+
+\t Ah Meng      oi    suka    ji      bun    zi      boi     you hor?
+\m Ah Meng      oi    suka    ji      bun    zi      boi     you hor?
+\g   Ah Meng    will    like this      CL       book won't better
+\l Is it better for Ah Meng to like this book or not?
+
+\t Ah Meng     suka   oi     tiaobu      boi      gai       nang?
+\m Ah Meng     suka   oi     tiaobu      boi      gai       nang?
+\g   Ah Meng    like   know    dance      won't part.person
+\l Does Ah Meng like someone who can or can't dance?
+
+\t Ah Meng      oi boi       suka   ji      bun   zi         you hor?
+\m Ah Meng      oi boi       suka   ji      bun   zi         you hor?
+\g   Ah Meng    will won't like this          CL      book     better
+\l Is it better for Ah Meng to like this book or not?
+
+\t Ah Meng     suka   oi     boi    tiaobu     gai      nang?
+\m Ah Meng     suka   oi     boi    tiaobu     gai      nang?
+\g   Ah Meng    like   know won't dance         part.person
+\l Does Ah Meng like someone who can or can't dance?
+
+\t Goá chiåh pá liáu
+\m Goá chiåh pá liáu
+\g I eat full COMP
+\l I have finished eating
+
+\t goa ho phatio a.
+\m goa ho pha-tio a.
+\g I HO hit       PRT
+\l I was hit [by him/her].
+
+\t goa ho i phatio a.
+\m goa ho i pha-tio a.
+\g I HO him hit       PRT
+\l I was hit by him/her.
+
+\t Apin ho Atek khoaNtio chinche khuattiam.
+\m Apin ho Atek khoaN-tio chinche khuattiam.
+\g Apin BEI Atek seen      many flaws
+\l Apin had many of his flaws discovered by Atek.
+
+\t goa ho i tsaokhi a.
+\m goa ho i tsao-khi a.
+\g I HO him run-awayPRT
+\l I (adversely) experienced his running away.
+
+\t goa beh holi pehbekhilai.
+\m goa beh holi peh-be-khilai.
+\g I want HO you crawl-not-up
+\l I will cause you to be unable to get up.
+
+\t goa beh ho i seng tshutkhi.
+\m goa beh ho i seng tshut-khi.
+\g I want HO him first out-go
+\l I will let him get out first.
+
+\t goa bosiosim ho i tsaotshutkhi a.
+\m goa bosiosim ho i tsao-tshut-khi a.
+\g I careless HO him run-out-away PRT
+\l Due to my carelessness I had him running away (on me).
+
+\t goa ho i khoaNtio goae pibit.
+\m goa ho i khoaN-tio goa-e pibit.
+\g I HO him see-result my secret
+\l I had him discovering my secret.
+
+\t goa ho i thaothe nengpa kho.
+\m goa ho i thaothe neng-pa kho.
+\g I HO him steal 200           dollar
+\l I got stolen 200 dollars by him.
+
+\t goa ho i liahtio a.
+\m goa ho i liah-tio a.
+\g I HO him catch PRT
+\l I got caught by him.
+
+\t goa bosiosim ho ichaochhutkhi a.
+\m goa bosiosim ho ichao-chhut-khi a.
+\g I careless HO him run-out-away PRT
+\l Due to my carelessness I had him running away (on me).
+
+\t lan bosiosim ho iniaN kuia tiuN khi   a
+\m lan bosiosim ho iniaN kui-a tiuN khi   a
+\g we careless HO them win severalgames away PRT
+\l Due to our carelessness we had them walking away winning severalgames.
+
+\t goa ho i thattio patto     a.
+\m goa ho i that-tio patto     a.
+\g I HO him kick        stomach PRT
+\l kicked [my] stomach'by him.
+
+\t go  a ho i    yongtiao nengpa kho           khia.
+\m go  a ho i    yong-tiao nengpa kho           khi-a.
+\g I     HO him use-up     200     dollars     away-PRT
+\l a.  I had [my] 200 dollars used up by       him.
+
+\t yi ka goa tsaokhi a.
+\m yi ka goa tsao-khi a.
+\g he KA I run-away PRT
+\l He ran away on me.
+
+\t yin ka lan yiaN kuia tiuNkhi a.
+\m yin ka lan yiaN kui-a tiuNkhi a.
+\g they KA we win several games away PRT
+\l They won several games away on us already.
+
+\t goa kinazit be khimo, be lai ka i thetsa hapan.
+\m goa kinazit be khimo, be lai ka i thetsa hapan.
+\g  I today not happy will come KA him earlier take-off
+\l Today I'm pissed, so I will quit early for the day on him[e.g., my boss].
+
+\t i khunkah m cai chenn.
+\m i khun-kah m cai chenn.
+\g he sleep-KAH not know wake
+\l He slept so well that he did not wake up for a long time.
+
+\t i thiaukah cin thiam.
+\m i thiau-kah cin thiam.
+\g he dance-KAH very tired
+\l He danced himself tired.
+
+\t i thiaukah cin kin.
+\m i thiau-kah cin kin.
+\g   he dance-KAH very fast
+\l He danced very fast.
+
+\t i siakah    pit long bo         cui a.
+\m i sia-kah    pit long bo         cui a.
+\g he write-KAH pen all not-have ink PARTICLE
+\l He wrote so much that the pen ran out of ink.
+
+\t i ciong sann sekah         cin cingkhi.
+\m i ciong sann se-kah         cin cingkhi.
+\g he CIONG clothes wash-KAH very clean
+\l He washed his clothes clean.
+
+\t i cin kin.
+\m i cin kin.
+\g he very fast
+\l He is very fast.
+
+\t i thiaubu thiaukah cin kin.
+\m i thiaubu thiau-kah cin kin.
+\g he dance dance-KAH very fast
+\l He danced very fast.
+
+\t i chiongkah cin huannhi.
+\m i chiong-kah cin huannhi.
+\g he sing-KAH very happi(ly)
+\l He sang so much that he became very happy.
+
+\t i siakah      pit long bo       cui a.
+\m i sia-kah      pit long bo       cui a.
+\g he write-KAH pen all not-have ink PARTICLE
+\l He wrote so much that the pen ran out of ink.
+
+\t i sankah guan long jinbechutlai.
+\m i san-kah guan long jin-be-chutlai.
+\g he thin-KAH we all recognize-not-out
+\l He has become so thin that we could not recognize him.
+
+\t i ji     siakah    cin kin.
+\m i ji     sia-kah    cin kin.
+\g he word write-KAH very fast
+\l He writes very fast.
+
+\t ji    hoo i siakah     cin kin.
+\m ji    hoo i sia-kah     cin kin.
+\g word HOO he write-KAH very fast
+\l Words are written very fast.
+
+\t i ka in kiann phahkah lian chupinn long chutlai khuann.
+\m i ka in kiann phah-kah lian chupinn long chutlai khuann.
+\g he KA his child hit-KAH even neighbor all        out see
+\l He hit his child so much that even the neighbors came out to have a look.
+
+\t in kiann hoo i phahkah lian chupinn long chutlai khuann.
+\m in kiann hoo i phah-kah lian chupinn long chutlai khuann.
+\g his child HOO he hit-KAH even neighbor all out see
+\l His child was hit so much that even the neighbors came out to have a look.
+
+\t chupinn hoo i ka in kiann phahkah long chutlai khuann.
+\m chupinn hoo i ka in kiann phah-kah long chutlai khuann.
+\g neighbor HOO he KA his child hit-KAH all out see
+\l The neighbors came out to have a look because he hit his child so much.
+
+\t i ciong in kiann phahkah hunkhi.
+\m i ciong in kiann phah-kah hunkhi.
+\g he CIONG his child hit-KAH faint
+\l He hit his child so much that he/she fainted.
+
+\t in kiann hoo i phahkah hunkhi.
+\m in kiann hoo i phah-kah hunkhi.
+\g his child HOO he hit-KAH faint
+\l His child was hit so much that he/she fainted.
+
+\t i siakah      pit long bo         cui a.
+\m i sia-kah      pit long bo         cui a.
+\g he write-KAH pen all not-have ink PARTICLE
+\l He wrote so much that the pen ran out of ink.
+
+\t pit hoo i saikah       long bo         cui a.
+\m pit hoo i sai-kah       long bo         cui a.
+\g pen HOO he write-KAH all not-have ink PARTICLE
+\l The pen ran out of ink because he wrote so much.
+
+\t i chiokah ehai long lauhkhi a.
+\m i chio-kah ehai long lauhkhi a.
+\g he laugh-KAH jaw all drop PARTICLE
+\l He laughed so much that his jaw dropped.
+
+\t ehai hoo i chiokah long lauhkhi a.
+\m ehai hoo i chio-kah long lauhkhi a.
+\g jaw HOO he laugh-KAH all        drop PARTICLE
+\l His jaw dropped because he laughed so much.
+
+\t i caukah cin kin.
+\m i cau-kah cin kin.
+\g he run-KAH very fast
+\l He ran very fast.
+
+\t i caukah cin thiam.
+\m i cau-kah cin thiam.
+\g he run-KAH very tired.
+\l He got tired as a result of running.
+
+\t i ji    siakah      cin kin.
+\m i ji    sia-kah      cin kin.
+\g he word write-KAH very fast
+\l He writes very fast.
+
+\t i gina phahkah hunkhi.
+\m i gin-a phah-kah hunkhi.
+\g he child hit-KAH faint
+\l He hit the child so much that he/she fainted.
+
+\t i ka in kiann phahkah lian chupinn long chutlai khuann.
+\m i ka in kiann phah-kah lian chupinn long chutlai khuann.
+\g he KA his child hit-KAH even neighbor all        out see
+\l He hit his child so much that even the neighbors came out to have a look.
+
+\t i ciong sann sekah         cin cingkhi.
+\m i ciong sann se-kah         cin cingkhi.
+\g he CIONG clothes wash-KAH very clean
+\l He washed his clothes clean.
+
+\t Zhangsan kude shoupa         dou shi le.
+\m Zhangsan ku-de shoupa         dou shi le.
+\g Zhangsan cry-DE handkerchief all wet ASP
+\l Zhangsan cried so much that the handkerchief was all wet.
+
+\t i m kann ma        in kiann.
+\m i m kann ma        in kiann.
+\g he not dare scold his child
+\l He does not dare to scold his child.
+
+\t i lian in kiann long m kann ma.
+\m i lian in kiann long m kann ma.
+\g he even his child all not dare scold
+\l He does not even dare to scold his child.
+
+\t lian in kiann i long m kann ma.
+\m lian in kiann i long m kann ma.
+\g even his child he all not dare scold
+\l He does not dare to scold even his child.
+
+\t i khaukah chiukina      tamkhi a.
+\m i khau-kah chiukin-a      tamkhi a.
+\g he cry-KAH handkerchief wet PARTICLE
+\l He cried so much that the handkerchief was all wet.
+
+\t i khaukah lian chiukina     long tamkhi a.
+\m i khau-kah lian chiukin-a     long tamkhi a.
+\g he cry-KAH even handkerchief all wet PARTICLE
+\l He cried so much that even the handkerchief was all wet.
+
+\t haier, kan ni     na xie lande,       ba zhe shuang xie      chuanshang.
+\m haier, kan ni     na xie lan-de,       ba zhe shuang xie      chuan-shang.
+\g child look you that shoe worn-out-DE BA this pair shoe        wear-on     
+\l Child, look, your shoes are all worn out. Put on this pair.
+
+\t khuann ni kongkah!
+\m khuann ni kong-kah!
+\g look you talk-KAH
+\l Look at how you say it!
+
+\t caukah gua thiamkah.
+\m cau-kah gua thiam-kah.
+\g run-KAH I tired-KAH
+\l I got so tired from running.
+
+\t ...than kehue thankah o.
+\m ...than kehue than-kah o.
+\g     earn money earn-KAH PARTICLE
+\l ...earned so much money.
+
+\t i cukah hiah ce chai.
+\m i cu-kah hiah ce chai.
+\g he cook-KAH that many dish
+\l He cooked so many dishes.
+
+\t i khau cin ku.
+\m i khau cin ku.
+\g he cry very long
+\l He cried for very long.
+
+\t i khaukah chiukina       tamkhi a.
+\m i khau-kah chiukina       tamkhi a.
+\g he cry-KAH handkerchief wet PARTICLE
+\l He cried so much that the handkerchief was all wet.
+
+\t i leh      se sann.
+\m i leh      se sann.
+\g he DUR13 wash clothes
+\l He is washing clothes.
+
+\t i ciong sann sekah          cin cingkhi.
+\m i ciong sann se-kah          cin cingkhi.
+\g he CIONG clothes wash-KAH very clean
+\l He washed his clothes clean.
+
+\t i iking huan            cin ku a.
+\m i iking huan            cin ku a.
+\g he already feel-annoyed very long PARTICLE
+\l He has felt annoyed for a while.
+
+\t i huankah           beh    si.
+\m i huan-kah           beh    si.
+\g he feel-annoyed-KAH almost die
+\l He feels extremely annoyed.
+
+\t i takkang long leh huan in laope.
+\m i takkang long leh huan in laope.
+\g he every-day all DUR annoy his father
+\l He annoys his father every day.
+
+\t i ciong in laope huankah beh        si.
+\m i ciong in laope huan-kah beh        si.
+\g he CIONG his father annoy-KAH almost die
+\l His father was extremely annoyed by him.
+
+\t i caukah cin kin.
+\m i cau-kah cin kin.
+\g he run-KAH very fast
+\l He ran very fast.
+
+\t i ji     siakah    cin kin.
+\m i ji     sia-kah    cin kin.
+\g he word write-KAH very fast
+\l He writes very fast.
+
+\t i gina phahkah hunkhi.
+\m i gin-a phah-kah hunkhi.
+\g he child hit-KAH faint
+\l He hit the child so much that he/she fainted.
+
+\t i ciong sann sekah         cin cingkhi.
+\m i ciong sann se-kah         cin cingkhi.
+\g he CIONG clothes wash-KAH very clean
+\l He washed his clothes clean.
+
+\t i ciong tak nia sann long            sekah    cin cingkhi.
+\m i ciong tak nia sann long            se-kah    cin cingkhi.
+\g he CIONG every CL clothes all       wash-KAH very clean
+\l He washed his clothes and as a   result each of them was very clean.
+
+\t i sia jikah cin kin.
+\m i sia ji-kah cin kin.
+\g he write word-KAH very fast
+\l He writes very fast.
+
+\t i ji     siakah     cin kin.
+\m i ji     sia-kah     cin kin.
+\g he word write-KAH very fast
+\l He writes very fast.
+
+\t ji    hoo i siakah      cin kin.
+\m ji    hoo i sia-kah      cin kin.
+\g word HOO he write-KAH very fast
+\l Words are written very fast.
+
+\t i siakah      pit long bo         cui a.
+\m i sia-kah      pit long bo         cui a.
+\g he write-KAH pen all not-have ink PARTICLE
+\l He wrote so much that the pen ran out of ink.
+
+\t pit hoo i saikah        long bo        cui a.
+\m pit hoo i sai-kah        long bo        cui a.
+\g pen HOO he write-KAH all not-have ink PARTICLE
+\l The pen ran out of ink because he wrote so much.
+
+\t i leh sia     ji.
+\m i leh sia     ji.
+\g he DUR write word
+\l He is writing words.
+
+\t ji leh hoo i sia.
+\m ji leh hoo i sia.
+\g word DUR HOO he write
+\l Words are being written by him.
+
+\t gina hoo i phahkah hunkhi.
+\m gin-a hoo i phah-kah hunkhi.
+\g child HOO he hit-KAH faint
+\l The child fainted because he/she was hit so much by him.
+
+\t thinnting kngkah      chinchan jitsi kangkhuan.
+\m thinnting kng-kah      chinchan jitsi kangkhuan.
+\g sky      bright-KAH like            daytime same
+\l The sky is so bright that (it is) like the daytime.
+
+\t i ka in kiann phahkah lian chupinn long chutlai khuann.
+\m i ka in kiann phah-kah lian chupinn long chutlai khuann.
+\g he KA his child hit-KAH even neighbor all out see
+\l He hit his child so much that even the neighbors came out to have a look.
+
+\t i khunkah m cai chenn.
+\m i khun-kah m cai chenn.
+\g he sleep-KAH not know wake
+\l He slept so well that he did not wake up for a long time.
+
+\t i ka in kiann phahkah lian chupinn long chutlai khuann.
+\m i ka in kiann phah-kah lian chupinn long chutlai khuann.
+\g he KA his child hit-KAH even neighbor all        out see
+\l He hit his child so much that even the neighbors came out to have a look.
+
+\t in kiann hoo i phahkah lian chupinn long chutlai khuann.
+\m in kiann hoo i phah-kah lian chupinn long chutlai khuann.
+\g his child HOO he hit-KAH even neighbor all out see
+\l His child was hit so much that even the neighbors came out to have a look.
+
+\t chupinn hoo i ka in kiann phahkah long chutlai khuann.
+\m chupinn hoo i ka in kiann phah-kah long chutlai khuann.
+\g neighbor HOO he KA his child hit-KAH all out see
+\l The neighbors came out to have a look because he hit his child so much.
+
+\t goa ho phatio a.
+\m goa ho pha-tio a.
+\g I HO hit       PRT
+\l I was hit [by him/her].
+
+\t goa ho i     phatio a.
+\m goa ho i     pha-tio a.
+\g I HO him hit       PRT
+\l I was hit by him/her.
+
+\t  hite lang,     goa ho phatio a.
+\m  hit-e lang,     goa ho pha-tio a.
+\g that-CL person, I HO hit      PRT
+\l That person, I was hit [by him/her].
+
+\t i hong phiankhi a.
+\m i hong phian-khi a.
+\g he HONG cheat-go PRT
+\l He was cheated by someone.
+
+\t li kang kiaNtio a.
+\m li kang kiaN-tio a.
+\g you KANG frighten PRT
+\l You frightened them.
+
+\t goa ho i tsaokhi a.
+\m goa ho i tsao-khi a.
+\g I HO him run-away PRT
+\l I (adversely) experienced his running away.
+
+\t lan bosiosim ho in iaN kuia tiuN khi        a
+\m lan bosiosim ho in iaN kui-a tiuN khi        a
+\g we careless HO them win several games away PRT
+\l Due to our carelessness we (adversely) experienced their winning several games away from us.
+
+\t yi ka goa tsaokhi a.
+\m yi ka goa tsao-khi a.
+\g he KA me run-away PRT
+\l He ran away on me.
+
+\t (76) yin ka lan yiaN kuia tiuN khi        a.
+\m (76) yin ka lan yiaN kui-a tiuN khi        a.
+\g they KA we win several games away PRT
+\l They won several games away on us already.
+
+\t goa kinazit be khimo, be lai ka i thetsa hapan.
+\m goa kinazit be khimo, be lai ka i thetsa hapan.
+\g I today not happy will come KA him earlier take-off
+\l Today I'm pissed, so I will quit early for the day on him [e.g., my boss].
+
+\t goa beh ho li pehbekhilai.
+\m goa beh ho li peh-be-khilai.
+\g I want HO you crawl-not-up
+\l I will cause you to be unable to get up.
+
+\t goa beh ho i seng tshutkhi.
+\m goa beh ho i seng tshut-khi.
+\g I want HO him first out-go
+\l I will let him get out first.
+
+\t goa bosiosim ho i tsaotshutkhi a.
+\m goa bosiosim ho i tsao-tshut-khi a.
+\g I careless HO him run-out-away PRT
+\l Due to my carelessness I had him running away (on me).
+
+\t goa ho i khoaNtio goae pibit.
+\m goa ho i khoaN-tio goa-e pibit.
+\g I    HO him see-result my secret
+\l I had him discovering my secret.
+
+\t goa ho i thaothe nengpa kho.
+\m goa ho i thaothe neng-pa kho.
+\g I HO him steal 200           dollar
+\l I got stolen 200 dollars by him.
+
+\t goa ho i liahtio a.
+\m goa ho i liah-tio a.
+\g I HO him catch PRT
+\l I got caught by him.
+
+\t goa bosiosim ho i chaochhutkhi a.
+\m goa bosiosim ho i chao-chhut-khi a.
+\g I careless HO him run-out-away PRT
+\l Due to my carelessness I had him running away (on me).
+
+\t lan bosiosim ho in iaN kuia tiuN khi         a
+\m lan bosiosim ho in iaN kui-a tiuN khi         a
+\g we careless HO them win several games away PRT
+\l Due to our carelessness we had them walking away winning several games.
+
+\t goa ho i thattio patto    a.
+\m goa ho i that-tio patto    a.
+\g I HO him kick      stomach PRT
+\l kicked [my] stomach'by him.
+
+\t yi ka goa tsaokhi a.
+\m yi ka goa tsao-khi a.
+\g he KA I run-away PRT
+\l He ran away on me.
+
+\t yin ka lan yiaN kuia tiuN khi a.
+\m yin ka lan yiaN kui-a tiuN khi a.
+\g they KA we win several games away PRT
+\l They won several games away on us already.
+
+\t goa kinazit be khimo, be lai ka i thetsa hapan.
+\m goa kinazit be khimo, be lai ka i thetsa hapan.
+\g  I today not happy will come KA him earlier take-off
+\l Today I'm pissed, so I will quit early for the day on him [e.g., my boss].
+
+\t Wa     ho     i       zi     png.
+\m Wa     ho     i       zi     png.
+\g 1SG CAUS 3SG cook rice
+\l I made him cook rice
+
+\t Wa      ho     i      png.
+\m Wa      ho     i      png.
+\g 1SG CAUS 3SG rice
+\l I gave him (some) rice
+
+\t goa chaikhi thak bo chhe
+\m goa chaikhi thak bo chhe
+\g I morning read no book
+\l I read no book this morning.
+
+\t i than bo chiN, chhuei bo thaolo, tongjen ma chhua bo boh.
+\m i than bo chiN, chhuei bo thaolo, tongjen ma chhua bo boh.
+\g he earn no money, found no job, of-course and marry no wife
+\l He earned no money, found no job; of course he also married no wife.
+
+\t i ti kong saN, goa long sa bo liaoa mng.
+\m i ti kong saN, goa long sa bo liao-a mng.
+\g he at say what, I all grasp no cottage door
+\l Whatever he is talking about, I am grasping no cottage door. (I'm totally lost.)
+
+\t Q: lin chaikhi khuaN wu chhe bo?
+\m Q: lin chaikhi khuaN wu chhe bo?
+\g    you morning read have book no
+\l Did you guys succeed in reading books?
+
+\t A: i khuaN wu, goa khuaN bo.
+\m A: i khuaN wu, goa khuaN bo.
+\g    he read have I read no
+\l He did, I did not.
+
+\t li chiN tan bo,             taolo a chhuei bo,       biangong     boh ma chhua bo.
+\m li chiN tan bo,             taolo a chhuei bo,       biangong     boh ma chhua bo.
+\g you money earn not-have, job also found not-have, needless-say wife and marry not-have
+\l You have been unsuccessful in money-making, also in job-hunting, then needless to say you are also unsuccessful in [your efforts to] get married.
+
+\t i bat goe lang, goa bat bo lang.
+\m i bat go-e lang, goa bat bo lang.
+\g  he know 5-CL person, I know no person
+\l He knows 5 people, but I know none.
+
+\t [wo] [ho· a· hui] [jid· bun· tse]
+\m [wo] [ho· a· hui] [jid· bun· tse]
+\g   I give Ahui one CL book
+\l I gave Ahui a book
+

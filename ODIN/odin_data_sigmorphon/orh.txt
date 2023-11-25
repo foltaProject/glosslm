@@ -1,0 +1,50 @@
+\t tari     murin      uktitse
+\m tari     murin      ukti-tse
+\g   that   hourse     run-PST
+\l That horse ran.
+
+\t tari murin       uktitse      o:
+\m tari murin       ukti-tse      o:
+\g   that   hourse     run-PST    E VI D
+\l (Maybe) that horse ran
+
+\t tari murin      uktitse       dze
+\m tari murin      ukti-tse       dze
+\g   that   hourse     run-PST    E VI D
+\l (Of course) that horse ran.
+
+\t tari murin       uktitse     (ye)
+\m tari murin       ukti-tse     (ye)
+\g   that   hourse     run-PST    QM
+\l Did that horse run.
+
+\t bi:      tariduk yaralaptsaw        yeptsaw
+\m bi:      tari-duk yarala-p-tsa-w        ye-p-tsa-w
+\g   1S     that-ABL   injure-PASS-PST-1 SQM-PASS-PST-1S
+\l Was I injured by him or not?
+
+\t bi: beyumunem            yemunem
+\m bi: beyu-mun-e-m            ye-mun-e-m
+\g   1S     hunt-DESID-epen-1S    QM-DESID-epen-1S
+\l Do I want to go hunting or not?
+
+\t bi:    tariduk yaralaptsaw       yetsaw/*yep/*yew/*yetsa
+\m bi:    tari-duk yarala-p-tsa-w       ye-tsa-w/*ye-p/*ye-w/*ye-tsa
+\g  1S    that-ABL   injure-PASS-PST-1 SQM-PASS-PST-1S
+\l Was I injured by him or not?
+
+\t bi: beyumunem            yem/*yemun/
+\m bi: beyu-mun-e-m            ye-m/*ye-mun/
+\g  1S    hunt-DESID-epen-1S    QM-1 S
+\l Do I want to go hunting or not?
+
+\t bi: beyum yemunem
+\m bi: beyu-m ye-mun-e-m
+\g  1S    hunt-1S    QM-DESID-epen-1S
+\l Do I want to go hunting or not?
+
+\t si    gunendi esindi
+\m si    gune-ndi e-si-ndi
+\g 2S    g o-2 S   NEG-AOR-2S
+\l Are you going, or not?
+

@@ -1,0 +1,90 @@
+\t mballu(noo)mie
+\m mball-u-(noo)-mi-e
+\g help-REL:PAST:ACT-(PRET-)-I-them
+\l I had helped them
+
+\t mballu(no)moomi
+\m mball-u-(no)-moo-mi
+\g help-REL:PAST:ACT-(PRET-)-him-I
+\l I had helped him
+
+\t  debbo     wari
+\m  debbo     wari
+\g woman      came
+\l The woman came
+
+\t  rewe      Ngari
+\m  rewe      Ngari
+\g women      came
+\l The women came
+
+\t  owari
+\m  o-wari
+\g SM3S-came
+\l (S)he came
+
+\t eNgari
+\m e-Ngari
+\g  SM   3P-came
+\l They came
+
+\t Odafi/
+\m O-dafi/
+\g   SM3S-sleep
+\l He is sleeping
+
+\t kuaku/        di/E/   Odafi/
+\m kuaku/        di/E/   O-dafi/
+\g   Kuaku       TOP     SM3S-sleep
+\l As for Kuaku, he is sleeping
+
+\t Takko defanii     sukaab'e b'e gertogal.
+\m Takko def-an-ii     sukaab'e b'e gertogal.
+\g  Takko cook-Ben-Tns children Det chicken
+\l Takko cooked a chicken for the children.
+
+\t Sukaab'e b'e ndefanaama         gertogal.
+\m Sukaab'e b'e ndef-an-aama         gertogal.
+\g children Det cook-Ben-Tns/Passive chicken
+\l The children had a chicken cooked for them.
+
+\t Gertogal defanaama          sukaab'e b'e.
+\m Gertogal def-an-aama          sukaab'e b'e.
+\g  chicken cook-Ben-Tns/Passive children Det
+\l The chicken was cooked for the children.
+
+\t Aali tay'rii     lekki jammbere.
+\m Aali tay'-r-ii     lekki jammbere.
+\g  Aali cut-Inst-Tns tree axe
+\l Aali cut a tree with an axe.
+
+\t Mi amrii        pade.
+\m Mi am-r-ii        pade.
+\g I dance-Inst-Tns shoes
+\l I danced with shoes.
+
+\t Pad'e ngamraama.
+\m Pad'e ngam-r-aama.
+\g shoes dance-Inst-Tns/Passive
+\l Shoes were danced with.
+
+\t Lekki tay'raama          jammbere.
+\m Lekki tay'-r-aama          jammbere.
+\g tree cut-Inst-Tns/Passive axe
+\l A tree was cut by using an axe.
+
+\t Jammbere tay'raama          lekki.
+\m Jammbere tay'-r-aama          lekki.
+\g  axe      cut-Inst-Tns/Passive tree
+\l A tree was cut by using an axe.
+
+\t Aali tay'rii     lekki jammbere.
+\m Aali tay'-r-ii     lekki jammbere.
+\g  Aali cut-Inst-Tns tree axe
+\l Aali cut a tree with an axe.
+
+\t Aali tay'rii    jammbere lekki .
+\m Aali tay'-r-ii    jammbere lekki .
+\g  Aali cut-Inst-Tns axe      tree
+\l Aali cut a tree with an axe.
+

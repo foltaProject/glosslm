@@ -1,0 +1,45 @@
+\t omuntu                      omurungi
+\m omu-ntu                      omu-rungi
+\g    NOUN.CLASS-person NOUN.CLASS-good
+\l the good person
+
+\t esaati erikwera
+\m esaati e-rikw-era
+\g   shirt REL-PRES.CONT-white
+\l a white shirt
+
+\t omutsigazi w=amaani
+\m omutsigazi w=amaani
+\g    young.man of=strength
+\l a strong young man
+
+\t omuto akagamba                           naanye
+\m omuto a-ka-gamba                           na-anye
+\g   young 3SG-REMOTE.PAST-speak              with-me
+\l the young one spoke to me
+
+\t twagyenda na           Mugasho
+\m tw-a-gyenda na           Mugasho
+\g 1PL-past-go       with Mugasho
+\l I went with Mugasho; Mugasho and I went.
+
+\t Ebitakuri         biri       omu nyungu.
+\m Ebitakuri         bi-ri       omu nyungu.
+\g   potatoes        3.PL-be     in        pot
+\l The potatoes are in the pot.
+
+\t Naata           eboitakuri omu nyungu.
+\m N-aa-ta           eboitakuri omu nyungu.
+\g   I-TP-put        potatoes         in         pot
+\l I put the potatoes into the pot.
+
+\t Naiha ebitakuri             omu nyungu.
+\m N-a-iha ebitakuri             omu nyungu.
+\g   I-TP-take potatoes          in        pot
+\l I took the potatoes out of the pot.
+
+\t yaijana             embwa
+\m y-a-ija-na             embwa
+\g 3SG-TP-come-COM dog
+\l He came with/brought adog'.
+

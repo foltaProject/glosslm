@@ -1,0 +1,30 @@
+\t    _______________________________RSmother      __neg
+\m    _______________________________RS-mother      __neg
+\g IX-1 MOTHER FATHER HOME AGAIN / IX-1
+\l ...that my mother and father would go home again, not me.
+
+\t                         _______________________RSi
+\m                         _______________________RS-i
+\g ANNA i IX-3 3-TELL-2 TWO-OF-USi+2 WIN AT-LAST
+\l Anna told you that the two of you had won at last.
+
+\t _____________________t    ____________________________RSi
+\m _____________________t    ____________________________RS-i
+\g IXa MADRIDm MOMENT JOANi THINK IX-1i STUDY FINISH HEREb
+\l When he was in Madrid, Joan thought he would finish his study in Barcelona.
+
+\t __________t        ____________________________________ RSi
+\m __________t        ____________________________________ RS-i
+\g IXa MADRID JOANi THINK IX-1i STUDY FINISH HERE MADRID
+\l When he has in Madrid, John thought he would finish his studies there in Madrid.
+
+\t __________t           __________________________RSi
+\m __________t           __________________________RS-i
+\g LAST-YEAR JOANi THINK IX-1i STUDY FINISH NOW
+\l ´Last year, Joan thought he would finish his studies {now/#then}.
+
+\t __________t               __________________________________RSi
+\m __________t               __________________________________RS-i
+\g LAST-YEAR JOANi IX-3 THINK IX-1i STUDY FINISH YEAR THIS#
+\l ´Last year, Joan thought he would finish his studies {this year/#then-that year}.
+

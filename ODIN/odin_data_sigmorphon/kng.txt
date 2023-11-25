@@ -1,0 +1,60 @@
+\t Ga:na       Ngu:nú         mwá:na.
+\m Ga:na       Ngu:nú         mwá:na.
+\g  give       Ngunu          child
+\l Give Ngunu the child!
+
+\t Ga:na Masambá Ngu:nu.
+\m Ga:na Masambá Ngu:nu.
+\g   give      Masamba        Ngunu
+\l Give Masamba Ngunu!
+
+\t Ga:na       Ngu:nu         kwe Masamba.
+\m Ga:na       Ngu:nu         kwe Masamba.
+\g  give       Ngunu          to      Masamba
+\l Give Ngunu to Masamba!
+
+\t óZáki      awooki     kííbo óPoso aézaaki        bábana mwénzi.
+\m óZáki      a-wo-oki     kííbo óPoso a-éza-aki        bá-bana mw-énzi.
+\g  Jack      1-say-past that Poso          1-give-PAST 2-child CM-message
+\l Jack said that Poso gave the children a message.
+
+\t Yo        isabé              eso                nu.
+\m Yo        i-sabé              eso                nu.
+\g 1s        1s        know              that               not
+\l I don't know that.
+
+\t Ga:na        Ngu:nú         mwá:na.
+\m Ga:na        Ngu:nú         mwá:na.
+\g  give        Ngunu          child
+\l Give Ngunu the child!
+
+\t Ga:na Masambá Ngu:nu.
+\m Ga:na Masambá Ngu:nu.
+\g  give       Masamba        Ngunu
+\l Give Masamba Ngunu!
+
+\t Ga:na Ngu:nu    kwe Masamba.
+\m Ga:na Ngu:nu    kwe Masamba.
+\g give        Ngunu          to      Masamba
+\l Give Ngunu to Masamba!
+
+\t oPoso atomaki                   mukanda
+\m oPoso a-tom-aki                   mukanda
+\g  Poso      HE-send-Pst           letter
+\l Poso sent a letter.
+
+\t imukanda mutomaki oPoso.
+\m i-mukanda mu-tom-aki oPoso.
+\g   the-letter      IT-send-Pst Poso
+\l The letter was sent by Poso.
+
+\t imwete mukpetemeki                  {n/*}omwazi waabo
+\m i-mw-ete mu-kpet-em-eki                  {n/*}-o-mw-azi waabo
+\g the tree     IT-cut-Pass-Psp            by-the-woman           here
+\l The tree was chopped down by the woman here.
+
+\t imukanda oPoso amutomaki.
+\m i-mukanda oPoso a-mu-tom-aki.
+\g the-letter      Poso   HE-IT-send-Pst
+\l The letter, Poso sent.
+

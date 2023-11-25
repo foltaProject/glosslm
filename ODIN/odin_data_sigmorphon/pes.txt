@@ -1,0 +1,3195 @@
+\t Shahre bozorgi
+\m Shahr-e bozorg-i
+\g city+EZ big+inde
+\l a big city
+
+\t âqâye qomeshi
+\m âqâ-ye qomeshi
+\g sir+EZ Ghomeshi
+\l Mr. Ghomeshi
+
+\t xordane âb
+\m xordan-e âb
+\g drink+EZ water
+\l the drinking of water
+
+\t âbe xordan
+\m âb-e xordan
+\g water-EZ drink
+\l Drinking water
+
+\t kife in charm
+\m kif-e in charm
+\g bag+EZ the leather
+\l bag (made) of the leather
+
+\t marde negarân bachehashii
+\m mard-e negarân bache-ha-shi-i
+\g man-EZ worried child+pl+poss+indef
+\l A man worried about his children
+
+\t ketâbi , bozorgo qermez
+\m ketâb-i , bozorg-o qermez
+\g book+indef big+and red
+\l a book, big and red
+
+\t ahmedi       [ke diruz âmad]        injâst
+\m ahmed-i       [ke diruz âmad]        injâ-st
+\g Ahmed+indef that yesterday came     here+3s
+\l The Ahmad who came yesterday       is here
+
+\t [ketâbe bozorge qermez]i
+\m [ketâb-e bozorg-e qermez]-i
+\g book+EZ big+EZ red+indef
+\l A big red book
+
+\t mígereftæm
+\m mí-gereft-æm
+\g PROG-get-1SG
+\l I got
+
+\t kæbut´æri
+\m kæbut´ær-i
+\g pigeon-INDEF
+\l a pigeon
+
+\t dzaváne
+\m dzaván-e
+\g young-EZ
+\l the young man/woman of 
+
+\t mígereftæm
+\m mí-gereft-æm
+\g PROG-get-1SG)'
+\l I got
+
+\t birúnmikeidæm
+\m birún-mi-keid-æm
+\g out-PROG-pull-1SG
+\l I pulled out
+
+\t forunémiræftæm
+\m foru-né-mi-ræft-æm
+\g in-NEG-PROG-go-1SG
+\l I didn't sink in
+
+\t n´ægerefti
+\m n´æ-gereft-i
+\g NEG-get-2SG
+\l you didn't get
+
+\t n´æxani
+\m n´æ-xan-i
+\g read-2SG
+\l if you don't read
+
+\t némikeid
+\m né-mi-ke-id
+\g NEG-PROG-pull-2PL
+\l you don't pull
+
+\t næostehá
+\m næ-ost-e-há
+\g NEG-clean-PART-PL
+\l the unclean ones
+
+\t næxabidænhá
+\m næ-xabid-æn-há
+\g NEG-sleep-INF-PL
+\l the lack of sleep
+
+\t xah´æm ræft
+\m xah-´æm ræft
+\g want-1SG go
+\l I will go
+
+\t xahí keid
+\m xah-í keid
+\g want-2SG pull
+\l you will pull
+
+\t xah´æm gereft
+\m xah-´æm gereft
+\g want-1SG get
+\l I will get
+
+\t nâder kiro           did?
+\m nâder ki-ro           did?
+\g  Nader who-Acc        saw
+\l Who did Nader see?
+
+\t kiro        nâder       did?
+\m ki-ro        nâder       did?
+\g  who-A   cc Nader        saw?
+\l Who d   id Nader see?
+
+\t b.*kojâi ali [in shâye' ke nâder         kilintono xi dide]ro shenide
+\m b.*kojâi ali [in shâye' ke nâder         kilinton-o xi dide]-ro shenide
+\g    where Ali this rumor that Nader       Clinton-Acc has seen-Acc has heard
+\l Where Ali has heard the rumor that   Nader has seen Clinton?
+
+\t b.* Ki [inke        xi in ketâbro        xundeh]   taajobâvare
+\m b.* Ki [inke        xi in ketâb-ro        xundeh]   taajobâvar-e
+\g    who this-that       this book-Acc has read       surprising-is
+\l Who that has read this book is surprising?
+
+\t ki(o) i ali [ba'd az inke         xi busid]   raft madrese
+\m ki(-o) i ali [ba'd az in-ke         xi busid]   raft madrese
+\g who(-Acc) Ali after from this-that         kissed left school
+\l Who Ali left for school after he kissed?
+
+\t chii  nâder mixâhad bedânad       ke    ki xi xunde?
+\m chii  nâder mi-xâhad be-dânad       ke    ki xi xunde?
+\g   what Nader Prog-want Subj-know that who            has read
+\l Which book does Nader want to know who has read?
+
+\t b.* ali [in shâye' ke nâder kilintono      kojâ dide]ro        shenide
+\m b.* ali [in shâye' ke nâder kilinton-o      kojâ dide]-ro        shenide
+\g    Ali this rumor that Nader Clinton-ACC    where has seen-Acc has heard
+\l Where has Ali heard the rumor that Nad   er has seen Clinton?
+
+\t b.* [inke ki(yâ) bâ in ma'sale âshenâ hast(and)] xeyli jâlebe
+\m b.* [inke ki(yâ) bâ in ma'sale âshenâ hast(and)] xeyli jâleb-e
+\g   this-that who(pl) with this issue     familiar is(are) very interesting-is
+\l Who the fact that is familiar with this issue is very interesting?
+
+\t b.*ali [ba'd az      inke       kio        busid]     raft madrese
+\m b.*ali [ba'd az      in-ke       ki-o        busid]     raft madrese
+\g   Ali after from this-that who-Acc           kissed     went school
+\l Ali went to school after kissing who?
+
+\t b.*nâder mixâhad bedânad      ke ki     kodâm ketâbo    xunde?
+\m b.*nâder mi-xâhad be-dânad      ke ki     kodâm ketâb-o    xunde?
+\g    nader Prog-want Subj-know that who which book-Acc read?
+\l Which book does Nader want to know who read?
+
+\t dolat mixâd      bedoneh ke kihâ sefâratxânero âtish          zadand?
+\m dolat mi-xâd      be-doneh ke ki-hâ sefâratxâne-ro âtish          zadand?
+\g gvrnmt Prog-want Subj-know that who-pl embassy-Acc fire            hit
+\l The government wants to know who set the embassy on fire?
+
+\t mâdareshi      kiiro        dust                              dâre
+\m mâdar-eshi      kii-ro        dust                              dâre
+\g   mother-3sg      who-Acc       like                              have
+\l Whoi does hisi mother like?
+
+\t kiiro       mâdareshi       dust                                dâre
+\m kii-ro       mâdar-eshi       dust                                dâre
+\g who-Acc      mother-3sg       like                                have
+\l Whoi does hisi mother like?
+
+\t bâ kii            ali              fekr      mikone        [ ke      nâder        x       beraqse ]
+\m bâ kii            ali              fekr      mi-kone        [ ke      nâder        x       be-raqse ]
+\g with who          Ali              thought Prog-do            that Nader                   Subj-dance
+\l With who        m do             es Ali think that N       ader will dance?   
+
+\t bâ kii           ali              fekr      mikone        [ ke      nâder        x       xâhad raqsid ]
+\m bâ kii           ali              fekr      mi-kone        [ ke      nâder        x       xâhad raqsid ]
+\g   with who          Ali              thought Prog-do            that Nader                   future danced
+\l With who        m do             es Ali think that N       ader will dance?   
+
+\t ali fekr         mikone [ ke           nâder        bâ         ki  beraqse ]
+\m ali fekr         mi-kone [ ke           nâder        bâ         ki  be-raqse ]
+\g Ali thought      Prog-do       that     Na d e r     with       who Subj-dance
+\l With whom    does Ali think that Nad   er will    dance?   
+
+\t ali fekr       mikone [ ke nâder          bâ        ki         xâhad    raqsid ]
+\m ali fekr       mi-kone [ ke nâder          bâ        ki         xâhad    raqsid ]
+\g Ali thought    Prog-do that Nader          with      wh o       future   danced
+\l With whom    does Ali think that Nad   er will    dance?   
+
+\t har gâv gand châle dahâni âtashfeshâne roshane xashmi shod
+\m har gâv gand châle dahân-i âtashfeshân-e roshan-e xashm-i shod
+\g each cow rotten pit mouth-indef volcano-Ez lighted-Ez anger-indef became
+\l every cow rotten pit mouthed turned into an erupted volcano
+
+\t sage siahe       gonde
+\m sag-e siah-e       gonde
+\g dog-Ez black-Ez     big
+\l big black dog
+
+\t sage siyâhe gonde
+\m sag-e siyâh-e gonde
+\g dog-Ez black-Ez big
+\l big black dog
+
+\t sage siyâhe        mardi    ke    d i ru z   umad
+\m sag-e siyâh-e        mard-i    ke    d i ru z   umad
+\g dog-Ez black-Ez      man-rel   that yesterday came
+\l The black dog of the man who came yesterday
+
+\t jâru       khub mizad
+\m jâru       khub mizad
+\g broom      good was hitting
+\l he/she used to sweep well
+
+\t jâru       râ     zad
+\m jâru       râ     zad
+\g broom      OBJ hit
+\l he/she hit the broom
+
+\t ketâb syâh rezâ
+\m ketâb syâh rezâ
+\g book black Reza
+\l Reza's black book
+
+\t niruye havâye artesh irân
+\m niru-ye havâ-ye artesh irân
+\g force-EZ air-EZ army          Iran
+\l the air force of the army of Iran
+
+\t sedâye pâye      man
+\m sedâ-ye pâ-ye      man
+\g sound-ez foot-ez my
+\l (the) sound of my footsteps
+
+\t ruye miz
+\m ru-ye miz
+\g on-ez table
+\l on the table
+
+\t bachehâ     panjare râ shekastand
+\m bache-hâ     panjare râ shekast-and
+\g child-Plur window Obj break-Past-3pl
+\l The children broke the window.
+
+\t (mâ)    kabâb mikhorim
+\m (mâ)    kabâb mi-khor-im
+\g  (we)   kabob Imp-eat-Present/2pl
+\l We are eating kabob.
+
+\t Hushang   be bachehâ       nân dâd
+\m Hushang   be bache-hâ       nân dâd
+\g Hushang   to child-Plur bread gave/3sg
+\l Hushang gave (some) bread to the children.
+
+\t Hushang   nân râ be bachehâ dâd
+\m Hushang   nân râ be bache-hâ dâd
+\g Hushang   bread Obj to child-Plur gave/3sg
+\l Hushang gave the bread to the children.
+
+\t pirzan      vâse bachehâ       dâstâne "mâhi syâhe kuchulu" râ                  ta'rif kard
+\m pirzan      vâse bache-hâ       dâstân-e "mâhi syâh-e kuchulu" râ                  ta'rif kard
+\g old woman for     child-Plur story-Ez         fish black-Ez little      Obj        telling did/3sg
+\l The old woman told the children the story of the"little black fish".
+
+\t mardom dar khyâbânhâ tazâhorât                      mikardand
+\m mardom dar khyâbân-hâ tazâhorât                      mi-kard-and
+\g people    in     street-Plur demonstrations          Imp-do-3pl
+\l People were demonstrating in the streets.
+
+\t bachehâ      raftand     (be) manzel
+\m bache-hâ      raft-and     (be) manzel
+\g child-Plur go-Past-3pl (to) home
+\l The children went home.
+
+\t pâkat      râ      gozâsht       ruye miz
+\m pâkat      râ      gozâsht       ru-ye miz
+\g envelope Obj put-Past-3sg on-Ez table
+\l He/she put the envelope on the table.
+
+\t mardom nemikhâstand          (ke) rafsanjâni dar in entekhâbât barande shavad
+\m mardom ne-mi-khâst-and          (ke) rafsanjâni dar in entekhâbât barande shavad
+\g people neg-Imp-want-Past/3pl (that) Rafsanjani in these elections winner become-Subj/3sg
+\l People didn't want Rafsanjani to win in these elections.
+
+\t bachehâ chi râ shekastand?
+\m bache-hâ chi râ shekast-and?
+\g child-Plur what Obj break-Past-3pl
+\l What did the children break?
+
+\t ki     panjare râ shekast?
+\m ki     panjare râ shekast?
+\g who window Obj break-Past-3sg
+\l Who broke the window?
+
+\t in     do     tâ     ketâbe   kohne
+\m in     do     tâ     ketâb-e   kohne
+\g this two      CL book-Ez       old
+\l These two old books
+
+\t zan         budanash
+\m zan         budan-ash
+\g woman       be-her
+\l her being a woman
+
+\t koshtane          shir
+\m koshtan-e          shir
+\g kill-Ez            lion
+\l the killing of a lion
+
+\t ktab dvst          pdr    daryvsh
+\m ktab dvst          pdr    daryvsh
+\g book      friend father Dariush
+\l Dariush's father's friend's book
+
+\t jlsh     kmysyvn       amvr   daxly mjls              ayn kshvr
+\m jlsh     kmysyvn       amvr   daxly mjls              ayn kshvr
+\g meeting committee affairs internal parliament this country
+\l The meeting of the Committee on Internal affairs of this country's Parliament
+
+\t ketâbe     man
+\m ketâb-e     man
+\g book-Ez     1sg-pronoun1
+\l My book
+
+\t zn      zybay           daryvsh        vard shod
+\m zn      zybay           daryvsh        vard shod
+\g wife    beautiful-Ez    Dariush         entered
+\l Dariush's beautiful wife entered.
+
+\t zn        zyba         daryvsh    ra      shnaxt
+\m zn        zyba         daryvsh    ra      shnaxt
+\g woman     beautiful Dariush       OBJ     recognized
+\l The beautiful woman recognized Dariush.
+
+\t zani      ke     injâ neshaste ast          hamsare    Nâder ast
+\m zan-i      ke     injâ neshaste ast          hamsar-e    Nâder ast
+\g woman-Encl that here sit-Part is             spouse-Ez   Nader is
+\l The woman that is sitting here is Nader's wife.
+
+\t ktâbi      râ ke diruz           kharide budam emruz sobh           tamâm kardam
+\m ktâb-i      râ ke diruz           kharide budam emruz sobh           tamâm kard-am
+\g book-Encl Obj that yesterday bought was             today morning    finish did-1sg
+\l This morning, I finished the book that I had bought yesterday.
+
+\t mâ pesarâni       râ     entekhâb mikonim ke dar jang sherkat   nakardeand
+\m mâ pesar-ân-i       râ     entekhâb mi-kon-im ke dar jang sherkat   na-karde-and
+\g we   boy-Plur-Encl Obj choosing Imp-do-1pl that in war participation neg-done-3pl
+\l We choose (the) boys that have not participated in the war.
+
+\t in       bachehâ ke           az ânhâ        âdres          miporsidi ...
+\m in       bache-hâ ke           az ânhâ        âdres          mi-porsid-i ...
+\g this     kid-Plur       that   from them      address        Imp-ask-2sg
+\l These kids from whom you asked for the address...
+
+\t shahri       ke dar ân tazâhorât                 shode        bud ...
+\m shahr-i       ke dar ân tazâhorât                 shode        bud ...
+\g city-Encl     that in     it   demonstrations become was
+\l The city in which demonstrations took place...
+
+\t zani            ke       barâyash         ketâb kharidi ...
+\m zan-i            ke       barây-ash         ketâb kharid-i ...
+\g woman-Encl that           for-Clitic(3sg)   book   buy-Past-2sg
+\l The woman for whom you bought a book...'or
+
+\t Hushang   be bachehâ       nân dâd
+\m Hushang   be bache-hâ       nân dâd
+\g Hushang   to child-Plur bread gave/3sg
+\l Hushang gave (some) bread to the children.
+
+\t Hushang   nân râ be bachehâ dâd
+\m Hushang   nân râ be bache-hâ dâd
+\g Hushang   bread Obj to child-Plur gave/3sg
+\l Hushang gave the bread to the children.
+
+\t jangandehâye             esraili jonube lobnân       râ        bombârân   kardand
+\m jangande-hâ-ye             esraili jonub-e lobnân       râ        bombârân   kard-and
+\g fighter plane-Plur-Ez      Israeli south-Ez Lebanon Obj           bombing    did-3pl
+\l Israeli fighter planes bombed the south of Lebanon.
+
+\t bombârânhâye      esrail        ma'mulan motevajehe manâteqe          maskunie        jonube lobnân       ast
+\m bombârân-hâ-ye      esrail        ma'mulan motevajeh-e manâteq-e          maskuni-e        jonub-e lobnân       ast
+\g bombardment-Plur-Ez Israel        usually  directed-Ez regions-Ez         residential-Ez south-Ez Lebanon is(3sg)  
+\l Israel's bombardments are usually directed towards the residential regions of the south of Lebanon.
+
+\t sarbâzhâ       golesorxi    râ      dar zendân            shekanje         dâdand
+\m sarbâz-hâ       golesorxi    râ      dar zendân            shekanje         dâdand
+\g soldier-Pl      Golesorkhi Obj in           prison         torture          gave-3pl
+\l The soldiers tortured Golesorkhi in prison.
+
+\t golesorxi    dar zendân        (be daste          sarbâzhâ)      shekanje       did
+\m golesorxi    dar zendân        (be dast-e          sarbâz-hâ)      shekanje       did
+\g Golesorkhi in prison           (to     hand-Ez soldier-Pl)         torture        saw/3sg
+\l Golesorkhi was tortured in jail (by the soldiers).
+
+\t bachehâ       pirmard râ      kotakesh         zadand
+\m bache-hâ       pirmard râ      kotak-esh         zad-and
+\g child-Plur     old man Obj beating-him           hit-3pl
+\l The children beat up the old man.
+
+\t majnun âsheqe leyli shod
+\m majnun âsheq-e leyli shod
+\g Majnun lover-Ez Leyli became
+\l Majnun fell in love with Leyli.
+
+\t shomâre    bikârân          afzâyeshe shadidi           yâfte ast
+\m shomâr-e    bikâr-ân          afzâyesh-e shadid-i           yâfte ast
+\g number-Ez unemployed-Plur increase-Ez intense-Indef found is
+\l The number of the unemployed has increased intensely.
+
+\t englis    xâstâre     moshârekate      rusiye dar halle bohrâne kozovo shod
+\m englis    xâstâr-e     moshârekat-e      rusiye dar hall-e bohrân-e kozovo shod
+\g England requester-Ez cooperation-Ez Russia in solving crisis-Ez Kosovo became
+\l England requested Russia's cooperation in solving the Kosovo crisis.
+
+\t vaqti vâred shodam         nader       dâsht jâru         mizad
+\m vaqti vâred shodam         nader       dâsht jâru         mi-zad
+\g when enter became-1sg      Nader       had-3sg broom Imp-hit
+\l When I entered, Nader   was (in   the process of) sweeping.
+
+\t vaqti vâred shodam         nader       dâsht jâru         râ     mizad
+\m vaqti vâred shodam         nader       dâsht jâru         râ     mi-zad
+\g when enter became-1sg      Nader       had-3sg broom Obj Imp-hit
+\l When I entered, Nader   was (in   the process of) hitting the broom.
+
+\t nader dishab            zamin khord
+\m nader dishab            zamin khord
+\g Nader last night        floor    eat-Past-3sg
+\l Nader fell last night.
+
+\t zamini râ          ke      nader khord bâvar nakardani bud
+\m zamin-i râ          ke      nader khord bâvar nakardani bud
+\g floor-Encl Obj that Nader ate-3sg unbelievable was
+\l The floor that Nader ate was unbelievable.
+
+\t tagarg dishab      be baqe        man     latme zad
+\m tagarg dishab      be baq-e        man     latme zad
+\g hail    last night to garden-Ez my         damage hit-Past-3sg
+\l The hail damaged my garden last night.
+
+\t latmei       râ   ke     tagarg be baqe        man zad         bâvar nakardani bud
+\m latme-i       râ   ke     tagarg be baq-e        man zad         bâvar nakardani bud
+\g damage-Encl Obj that hail          to garden-Ez my hit-3sg unbelievable was
+\l The damage that the hail caused to my garden was unbelievable.
+
+\t in     do     tâ     ketâbe   kohne
+\m in     do     tâ     ketâb-e   kohne
+\g this two      CL book-EZ       old
+\l These two old books
+
+\t zan         budanash
+\m zan         budan-ash
+\g woman       be-her
+\l her being a woman
+
+\t koshtane          shir
+\m koshtan-e          shir
+\g kill-EZ            lion
+\l the killing of a lion
+
+\t ketâbe       man
+\m ketâb-e       man
+\g book-EZ       1sg-pronoun2
+\l My book
+
+\t ketâbe       dâryush
+\m ketâb-e       dâryush
+\g book-EZ       Dariush
+\l Dariush's book
+
+\t ktab dvst      pdr    daryvsh
+\m ktab dvst      pdr    daryvsh
+\g book   friend father Dariush
+\l Dariush's father's friend's book
+
+\t bh gfth        ayn xbrgzary         vzyr       xarJh    âyndh      kshvr   banv âlbrayt ast
+\m bh gfth        ayn xbrgzary         vzyr       xarJh    âyndh      kshvr   banv âlbrayt ast
+\g according to   this news agency minister foreign        future     country lady    Albright is
+\l According to this news agency the future foreign minister of the country is Lady Albright.
+
+\t bh gfth        xbrgzary        fransh vzyr          xarJh     âyndh    âmryka        banv âlbrayt ast
+\m bh gfth        xbrgzary        fransh vzyr          xarJh     âyndh    âmryka        banv âlbrayt ast
+\g according to   news agency France          minister foreign   future   United States lady   Albright is
+\l According to France's news agency the future foreign minister of United States is Lady Albright.
+
+\t shirâze        zibâye         mâ
+\m shirâz-e        zibâ-ye         mâ
+\g   Shiraz-ez     beautiful-ez our
+\l our beautiful Shiraz
+
+\t nkth~ay
+\m nkth~ay
+\g point-IE
+\l a point / an issue
+
+\t nkth ~ay mhm
+\m nkth ~ay mhm
+\g point-IE important
+\l an important point
+
+\t nkth mhmy
+\m nkth mhmy
+\g point important-IE
+\l an important point
+
+\t nkth Jalb            v    mhmy
+\m nkth Jalb            v    mhmy
+\g point interesting and important-IE
+\l an interesting and important point
+
+\t mrdmy         Azadh   rvabT    aqtSqdy     ayran      ra    mhm     mydannd kh ...
+\m mrdmy         Azadh   rvabT    aqtSqdy     ayran      ra    mhm     mydannd kh ...
+\g people-IE     noble   relations economic   Iran       OBJ important know-3pl   that...
+\l (Those) noble people consider Iran's economic relations important who...
+
+\t ktabsh
+\m ktabsh
+\g book-Clitic
+\l his/her book
+
+\t ktab khnh~ash [ketâbe kohneash]
+\m ktab khnh~ash [ketâb-e kohne-ash]
+\g book old-Clitic
+\l his/her old book
+
+\t hmsayganman                 ktab khnh shma               ra    brdashtnd
+\m hmsayganman                 ktab khnh shma               ra    brdashtnd
+\g neighbor-Plur-Clitic(1pl) book      old    you(2pl)      OBJ   took-3pl
+\l Our neighbors took your old book.
+
+\t zn       zybay         daryvsh      vard shod
+\m zn       zybay         daryvsh      vard shod
+\g wife     beautiful-EZ Dariush         entered
+\l Dariush's beautiful wife entered.
+
+\t zn       zyba     daryvsh     ra      shnaxt [zane zibâ dâryush râ shenâkht]
+\m zn       zyba     daryvsh     ra      shnaxt [zan-e zibâ dâryush râ shenâkht]
+\g woman beautiful Dariush       OBJ     recognized
+\l The beautiful woman recognized Dariush.
+
+\t  zny           kh      ktab myxvand
+\m  zn-y           kh      ktab myxvand
+\g woman-Encl that         book   read(pres/3sg)
+\l The woman who reads books
+
+\t  zny          kh    tv    myshnasy
+\m  zn-y          kh    tv    myshnasy
+\g woman-Encl that         you    know(pres/2sg)
+\l The woman that you know
+
+\t danshmndan bh plak kvchky                     dr mQz py brdhand kh An nyz taknvn nashnaxth mandh bvd.
+\m danshmndan bh plak kvchk-y                     dr mQz py brdhand kh An nyz taknvn nashnaxth mandh bvd.
+\g scientists         to plaque small-Encl in brain found                        that it also until now unknown had remained
+\l Scientists have found a small plaque in the brain that until now had remained undiscovered.
+
+\t ayn       bchhha kh             az Anha Adrs myprsydy [in bachehâ ke az ânhâ âdres miporsidi]
+\m ayn       bchh-ha kh             az Anha Adrs myprsydy [in bachehâ ke az ânhâ âdres miporsidi]
+\g this      kid-Plur that          from them address ask(imp/2sg)
+\l These kids from whom you asked for the address
+
+\t shhry         ke dr An                 tZahrat        shdh bvd
+\m shhr-y         ke dr An                 tZahrat        shdh bvd
+\g city-Encl      that in      it     demonstrations become(pluperf/3sg)
+\l The city in which demonstrations took place
+
+\t zny               kh       braysh               ktab xrydy
+\m zn-y               kh       bray-sh               ktab xrydy
+\g woman-Encl that             for-Clitic(3sg)       book      buy(past/2sg)
+\l The woman for whom you bought a book'                        or
+
+\t flsTynyany              ra kh            dr xyabanha               tZahrat         mykrdnd       kshtnd
+\m flsTynyan-y              ra kh            dr xyabanha               tZahrat         mykrdnd       kshtnd
+\g Palestinians-Encl        OBJ that         in      streets         demonstration     do(imp/3pl)   kill(past/3pl)
+\l (They) killed the Palestinians who were demonstrating in the streets.
+
+\t nxstyn       kary       ast kh           dr ayn       kshvr        bh   nfe        fransvyha     anJam shdh ast
+\m nxstyn       kar-y       ast kh           dr ayn       kshvr        bh   nfe        fransvyha     anJam shdh ast
+\g first     work-Encl is           that     in   this    country to        benefit    french-Plur perform(passive/perf/3sg)
+\l It is the first thing that has been performed to the benefit of the French in this country.
+
+\t bradr        av      nyz         kh       bshdt       eSbany        shdh bvd        nqshh qtl     Jan ra kshyd
+\m bradr        av      nyz         kh       bshdt       eSbany        shdh bvd        nqshh qtl     Jan ra kshyd
+\g brother      his     also        that     intensely angry           had become      plan   murder John OBJ pulled
+\l His brother also who had become intensely angry planned John's murder.
+
+\t natijaro bees          goftam
+\m natija-ro be-es          goft-am
+\g result-râ   to-Clitic.Pro told-1Sg
+\l I told her/him the result
+
+\t natijaro goftam bees
+\m natija-ro goft-am be-es
+\g result-râ told-1Sg to-Clitic.Pro
+\l I told her/him the result
+
+\t goftam natijaro bees
+\m goft-am natija-ro be-es
+\g told-1Sg result-râ to-Clitic.Pro
+\l I told him/her the result
+
+\t dânesjuâ ke       dars      nemixunan
+\m dânesju-â ke       dars      ne-mi-xun-an
+\g student-PL EMPH lesson       NEG-IMPF-read-3Pl
+\l As for students, they don't study
+
+\t ketâbi
+\m ketâb-i
+\g book-Indef
+\l a book
+
+\t ketâbhâi
+\m ketâb-hâ-i
+\g book-PL-Indef
+\l some books
+
+\t ketâbo
+\m ketâb-o
+\g book-râ
+\l the book
+
+\t ketâbhâro
+\m ketâb-hâ-ro
+\g book-PL-râ
+\l the books
+
+\t mehmoonâ       umadan
+\m mehmoon-â       umad-an
+\g  guest-PL       came-1Pl
+\l The guests came
+
+\t doxtar(h)â raftan     madrese
+\m doxtar-(h)â raft-an     madrese
+\g  girl-PL      went-3Pl school
+\l The girls went to the school
+
+\t dotâ      mâsin dâram
+\m do-tâ      mâsin dâr-am
+\g  two-CL car      have-1Sg
+\l (I) have two cars
+
+\t dotâ danesju burs               gereftan
+\m do-tâ danesju burs               gereft-an
+\g two-CL student     scholarship   received-3Pl
+\l Two students got scholarship
+
+\t ketâbro xaridam
+\m ketâb-ro xarid-am
+\g book-râ   bought-1Sg
+\l I bought the book
+
+\t beun doktore          etminân dâram
+\m be-un doktor-e          etminân dâr-am
+\g to-that doctor-DEF trust         have-1Sg
+\l I trust that doctor
+
+\t muzu/iro peyda kon o           benevis
+\m muzu/-i-ro peyda kon o           benevis
+\g  subject-Indef-râ   find     do    and write
+\l Find a subject and write it
+
+\t fârsi baladam
+\m fârsi balad-am
+\g  fârsi    know-1Sg
+\l I know Farsi (Persian)
+
+\t bime ândâram     ke...
+\m bim-e ân-dâr-am     ke...
+\g  fear-Ez that        have-1Sg that
+\l I am afraid that ...
+
+\t mâsino dareso             bastam
+\m mâsin-o dar-es-o             bast-am
+\g  car-râ     door-Clitic.Pro-râ    closed-1Sg
+\l As for the car, I closed its door
+
+\t sabe      piso    aslan naxâbidam
+\m sab-e      pis-o    aslan na-xâbid-am
+\g night-Ez last-râ    at all NEG-slept-1Sg
+\l As for last night, I didn't sleep at all
+
+\t marde      umad
+\m mard-e      umad
+\g man-DEF     came
+\l The man came
+
+\t ân      doxtar âmad
+\m ân      doxtar âmad
+\g DEM girl        came
+\l That girl came
+
+\t un      doxtare umad
+\m un      doxtar-e umad
+\g DEM girl-DEF came
+\l That girl came
+
+\t rubâh makkar ast
+\m rubâh makkar ast
+\g fox        swindler is
+\l Fox is a swindler
+
+\t ketâbiro xaridam
+\m ketâb-i-ro xarid-am
+\g    book-Indef-râ     bought-1Sg
+\l I bought a (specific) book
+
+\t yek ketâbiro           xaridam
+\m yek ketâb-i-ro           xarid-am
+\g    a    book-Indef-râ bought-1Sg
+\l I bought a (specific) book
+
+\t doxtare qasang
+\m doxtar-e qasang
+\g girl-Ez   pretty
+\l Pretty girl
+
+\t ârâmese qabl        az   tufân
+\m ârâmes-e qabl        az   tufân
+\g silence-Ez before of      storm
+\l The silence before the storm
+
+\t ârezuye sara
+\m ârezu-ye sara
+\g wish-Ez Sara
+\l Sara's wish
+
+\t sabhâye        rosane tâbestâne      sued
+\m sab-hâ-ye        rosan-e tâbestân-e      sued
+\g  night-PL-Ez light-Ez      summer-Ez     Sweden
+\l Sweden's light summer nights
+
+\t bedune        sak
+\m bedun-e        sak
+\g  without-Ez doubt
+\l no doubt, without doubt
+
+\t diruz       didames
+\m diruz       did-am-es
+\g yesterday   saw-1Sg-Clitic.Pro
+\l Yesterday (I) saw him/her
+
+\t be sâmân goftam
+\m be sâmân goft-am
+\g to   saman told-1Sg
+\l I told Saman
+
+\t bees          goftam
+\m be-es          goft-am
+\g to-Clitic.Pro told-1Sg
+\l I told him
+
+\t Farzaneh goft ke bâyad zood berim
+\m Farzaneh goft ke bâyad zood be-r-im
+\g Farzaneh     said   that must    early Subj-go-1Pl
+\l Farzaneh said that we should go early
+
+\t xorde     ast
+\m xord-e     ast
+\g ate-PSPT is
+\l He/she has eaten
+
+\t xorde     bud
+\m xord-e     bud
+\g ate-PSPT was
+\l He/she had eaten
+
+\t xorde     (ast)
+\m xord-e     (ast)
+\g ate-PSPT (is)
+\l He/she has eaten
+
+\t rafte
+\m raft-e
+\g went-PSPT
+\l He/she has gone
+
+\t mibini              ke      dâram       kâr   mikonam
+\m mi-bin-i              ke      dâr-am       kâr   mi-kon-am
+\g IMPF-see-2Sg          that    have-1Sg     work IMPF-do-1Sg
+\l You see that I work/am working
+
+\t sued       zendegi mikardam
+\m sued       zendegi mi-kard-am
+\g Sweden     life            IMPF-did-1Sg
+\l I was living in Sweden
+
+\t fekr      mikonam dide bâsam
+\m fekr      mi-kon-am did-e bâs-am
+\g thought IMPF-do-1Sg       seen   Subj-1Sg
+\l I think (that) I may have seen
+
+\t sâket bâs
+\m sâket bâs
+\g quiet be
+\l Be quiet
+
+\t negarân mibâsam
+\m negarân mi-bâs-am
+\g anxious     IMPF-Subj-1Sg
+\l I am anxious
+
+\t barghâ mirizan
+\m barg-hâ mi-riz-an
+\g leave-PL IMPF-fall-3Pl
+\l The leaves are falling
+
+\t barghâ mirize
+\m barg-hâ mi-riz-e
+\g leave-PL IMPF-fall-3Sg
+\l The leaves are falling
+
+\t (man) didam
+\m (man) did-am
+\g (I)       saw-1Sg
+\l I saw
+
+\t (mâ) didim
+\m (mâ) did-im
+\g (we) saw-1Pl
+\l We saw
+
+\t raftam
+\m raft-am
+\g went-1sg
+\l I went
+
+\t rafteim
+\m raft-e-im
+\g went-PSPT-1Pl
+\l We have gone
+
+\t Kimia zamin xord
+\m Kimia zamin xord
+\g  Kimea earth     collide.3Sg
+\l Kimea fell
+
+\t b. Kimia ketâb      xarid
+\m b. Kimia ketâb      xarid
+\g     Kimea book      bought
+\l Kimia bought book
+
+\t kimia ye ketâbi           xarid
+\m kimia ye ketâb-i           xarid
+\g  Kimea one book-INDF bought
+\l Kimia bought a book
+
+\t Kimia        be râdio gus dâd
+\m Kimia        be râdio gus dâd
+\g Keamia       to   radio ear gave
+\l Keamia listened to the radio
+
+\t pâni be sara ketâb dâd
+\m pâni be sara ketâb dâd
+\g Pani    to    Sara    book gave
+\l Pani gave (a) book to Sara
+
+\t gus dâd
+\m gus dâd
+\g  ear gave
+\l (He/she) listened
+
+\t ketâb dâd
+\m ketâb dâd
+\g  book gave
+\l (He/she) gave a book
+
+\t  mâsinro xaridam
+\m  mâsin-ro xarid-am
+\g car-râ      bought-1Sg
+\l I bought the car
+
+\t  mâsini xaridam
+\m  mâsin-i xarid-am
+\g car-Indef bought-1Sg
+\l I bought a car
+
+\t  mâsiniro xaridam
+\m  mâsin-i-ro xarid-am
+\g car-Indef-râ bought-1Sg
+\l I bought a (specific) car
+
+\t  mâsin xaridam
+\m  mâsin xarid-am
+\g car      bought-1Sg
+\l I car-bought
+
+\t farq             hast beine          lâle     va alaf
+\m farq             hast beine          lâle     va alaf
+\g  difference      is      between     tulip and weeds
+\l There is difference between tulip and weeds
+
+\t ia/ni allmänt trevlig bâ ham nistan
+\m ia/ni allmänt trevlig bâ ham ni-st-an
+\g mean general        nice      together NEG-Copula-3Pl
+\l It means that they are not generally nice to each other
+
+\t xob unâ         suedian,        mâ irunim,              vi     måste, vi     måste, vi         måste tänka              på hovviat   
+\m xob unâ         suedi-an,        mâ irun-im,              vi     måste, vi     måste, vi         måste tänka              på hovviat   
+\g well they       Swedish-are we Iranian-1Pl, we must,                    we must           we must          to think       of   identity
+\l Well they are Swedish, we are Iranian, we must, we must, we must think of identity
+
+\t mâ ke umadim sued                        emkânâte          bistari greftim
+\m mâ ke umad-im sued                        emkân-ât-e          bistari greft-im
+\g we that came-1Pl             Sweden       possibily-PL-Ez     more   received-1Pl
+\l We who have come to Sweden (live in Sweden) got more possibilities
+
+\t Speaker A: injâm hamin jure
+\m Speaker A: injâm hamin jur-e
+\g               here         same     kind-Copula
+\l Here it's also the same
+
+\t  (man) midavam
+\m  (man) mi-dav-am
+\g (I)        IMPF-run-1Sg
+\l I run
+
+\t (man) mispringam
+\m (man) mi-spring-am
+\g  (I)       IMPF-run-1Sg
+\l I run
+
+\t mâ ke umadim sued,             vi   har     fått flera möjligheter
+\m mâ ke umad-im sued,             vi   har     fått flera möjlighet-er
+\g  we that came-3Pl     Sweden, we have        got more possibility-PL
+\l We who have come to Sweden (live in Sweden), we have got more possibilities
+
+\t mâ ke       umadim sued             emkânâte         bistari greftim
+\m mâ ke       umad-im sued             emkân-ât-e         bistari greft-im
+\g we that     came-1Pl      Sweden     possibily-PL-Ez more       received-1Pl
+\l We who have come to Sweden (live in Sweden) got more possibilities
+
+\t vaqti tuye    fantaziye       mardom bere
+\m vaqti tu-ye    fantazi-ye       mardom be-re
+\g when into-Ez imagination-Ez people       Subj-go.3Sg
+\l When it enters into people's imagination
+
+\t golhâro      kâstam
+\m gol-hâ-ro      kâstam
+\g flower-PL-râ   planted
+\l (I) Planted the flowers
+
+\t gol     kâstam
+\m gol     kâstam
+\g flower planted
+\l (I) Flower-planted
+
+\t ketabo/ ketabi/ ketab           xundam
+\m ketab-o/ ketab-i/ ketab           xund-am
+\g book-râ/ book-INDEF/ book read-1s
+\l I read the book/ a book/ books
+
+\t ketabe        jiâno/ *jiâni/ *jiân     xundam
+\m ketab-e        jiân-o/ *jiân-i/ *jiân     xund-am
+\g book-EZ        Jian-râ/ Jian-INDEF/ Jian read-1s
+\l I read Jian's book
+
+\t zian    mixad           (ke)       [ nærges *mimune/bemune ].
+\m zian    mi-xa-d           (ke)       [ nærges *mi-mun-e/be-mun-e ].
+\g Jian    DUR-want-3SG (COMP) [ Narges *DUR-stay-3SG/SBJ-stay-3SG ]
+\l Jian wants Narges *will stay/to stay.
+
+\t zian    midune         (ke)       [ nærges mimune/*bemune ].
+\m zian    mi-dun-e         (ke)       [ nærges mi-mun-e/*be-mun-e ].
+\g Jian    DUR-know-3SG (COMP) [ Narges DUR-stay-3SG/*SBJ-stay-3SG ]
+\l Jian knows (that) Narges will stay/*to stay.
+
+\t zian     mitune              (ke)       [ (* æskan)        bere ].
+\m zian     mi-tun-e              (ke)       [ (* æskan)        be-r-e ].
+\g Jian     DUR-be.able-3SG (COMP) [ Ashkan                 SBJ-go-3SG ]
+\l Jian is able (*Ashkan) to go.
+
+\t (mæn) mitunæm               (ke)        [ beræm ].
+\m (mæn) mi-tun-æm               (ke)        [ be-r-æm ].
+\g (I)      DUR-be.able-1SG (COMP) [ SBJ-go-1SG ]
+\l I [can/am able to] go.
+
+\t (mæn) yadæm=ræft                              (ke)       [ beræm ].
+\m (mæn) yad-æm=ræft                              (ke)       [ be-r-æm ].
+\g  (I)     memory-1SG.CL=go.PAST.3SG (COMP) [ SBJ-go-1SG ]
+\l I forgot to go.
+
+\t (mæn) sæ'iy=kærdæm           (ke)        [ beræm ].
+\m (mæn) sæ'iy=kærd-æm           (ke)        [ be-r-æm ].
+\g  (I)     try=do.PAST-1SG (COMP) [ SBJ-go-1SG ]
+\l I tried go.
+
+\t (mæn) tæsmim=gereftæm               (ke)      [ beræm ].
+\m (mæn) tæsmim=gereft-æm               (ke)      [ be-r-æm ].
+\g  (I)     decision=get.PAST-1SG (COMP) [ SBJ-go-1SG ]
+\l I decided to go.
+
+\t (mæn) mixam              (ke )         [ beræm ].
+\m (mæn) mi-xa-m              (ke )         [ be-r-æm ].
+\g (I)      DUR-want-1SG (COMP)             [ SBJ-go-1SG ]
+\l I want to go.
+
+\t sima   dust=dare         [ ketab bexune ].
+\m sima   dust=dar-e         [ ketab be-xun-e ].
+\g Sima friend=have-3SG [ book SBJ-read-3SG ]
+\l Sima likes to read books.
+
+\t sima [ ketab xundæn ]o           dust=dare.
+\m sima [ ketab xundæn ]-o           dust=dar-e.
+\g Sima [ book reading ]-OM friend=have-3SG
+\l Sima likes reading books.
+
+\t sima   mixad            [ sibo         bexore ].
+\m sima   mi-xad            [ sib-o         be-xor-e ].
+\g Sima DUR-want.3SG [ apple-OM SBJ-eat-3SG ]
+\l Sima wants to eat the apple.
+
+\t sima     sibo      mixad.
+\m sima     sib-o      mi-xad.
+\g Sima apple-OM DUR-want.3SG
+\l Sima wants the apple.
+
+\t sima [ xundæne     ketab ]o      tamum kærd
+\m sima [ xundæn-e     ketab ]-o      tamum kærd
+\g   Sima    reading+EZ book-OM         finish   do.PAST.3SG
+\l Sima finished reading the book.
+
+\t midunæm         (ke)      [ færda          nasser    miad ].
+\m mi-dun-æm         (ke)      [ færda          nasser    mi-ad ].
+\g DUR-know-1SG (COMP) [ tomorrow Nasser                  DUR-come.3SG ]
+\l I know that Nasser is coming tomorrow.
+
+\t fekr=mikonæm            (ke)            [ færda     nasser   biad ].
+\m fekr=mi-kon-æm            (ke)            [ færda     nasser   bi-ad ].
+\g thought=DUR-make-1SG (COMP) [tomorrow Nasser SBJ-come.3SG ]
+\l I think that Nasser is coming tomorrow.
+
+\t zian bayæd        masin bexære.
+\m zian bayæd        masin be-xær-e.
+\g Jian must          car     SBJ-buy-3SG
+\l Jian must buy a car.
+
+\t bæcceha sayæd zud          bexabæn.
+\m bæcce-ha sayæd zud          be-xab-æn.
+\g child+PL might early SBJ-sleep-3PL
+\l The children might sleep early.
+
+\t sima sibo         mixad
+\m sima sib-o         mi-xad
+\g Sima apple-OM DUR-want.3SG
+\l Sima wants the apple.
+
+\t sima mixad             ( ke)     azær(*o)      bemune
+\m sima mi-xad             ( ke)     azær(*-o)      be-mun-e
+\g Sima DUR-want.3SG ( COMP) Azar(*-OM) SBJ-stay-3SG
+\l Sima wants Azar to stay.
+
+\t zian goft              (ke)      [ pro miad ].
+\m zian goft              (ke)      [ pro mi-ad ].
+\g Jian say.PAST.3SG (COMP) [                DUR-come.3SG ]
+\l Jian said he'll come.
+
+\t aræs    mitune          (ke)     [ pro biad ].
+\m aræs    mi-tun-e          (ke)     [ pro bi-ad ].
+\g Arash DUR-can-3SG (COMP) [                 SBJ-come.3SG ]
+\l Arash can come.
+
+\t fekr=mikonæm                (ke)         [ biad ].
+\m fekr=mi-kon-æm                (ke)         [ bi-ad ].
+\g thought=DUR-make-1SG (COMP) [SBJ-come.3SG ]
+\l I think he'll come.
+
+\t goftæm        (ke)         [ biad ].
+\m goft-æm        (ke)         [ bi-ad ].
+\g say.PAST-1SG (COMP) [ SBJ-come.3SG ]
+\l I told him to come.
+
+\t entezar=daræm             (ke)      [ biad ].
+\m entezar=dar-æm             (ke)      [ bi-ad ].
+\g expectation=have-1SG (COMP) [ SBJ-come.3SG ]
+\l I expect him to come.
+
+\t mitunæm           (ke)      [ biad ].
+\m mi-tun-æm           (ke)      [ bi-ad ].
+\g   DUR-be.able-1SG (COMP) [ SBJ-come.3SG ]
+\l I can him come.
+
+\t yadæm=ræft                              (ke)       [ biad ].
+\m yad-æm=ræft                              (ke)       [ bi-ad ].
+\g   memory-1SG.CL=go.PAST.3SG (COMP) [ SBJ-come.3SG ]
+\l I forgot him to come.
+
+\t sæ'iy=kærdæm         (ke)    [ biad ].9
+\m sæ'iy=kærd-æm         (ke)    [ bi-ad ].9
+\g    try=do.PAST-1SG (COMP) [ SBJ-come.3SG ]
+\l I tried him to come.
+
+\t tæsmim=gereftæm             (ke)       [ biad ].10
+\m tæsmim=gereft-æm             (ke)       [ bi-ad ].10
+\g    decision=get.PAST-1SG (COMP) [ SBJ-come.3SG ]
+\l I decided him to come.
+
+\t mixam           (ke)      [ biad ].
+\m mi-xa-m           (ke)      [ bi-ad ].
+\g DUR-want-1SG (COMP) [ SBJ-come.3SG ]
+\l I want him to come.
+
+\t zian mitune                 (ke)        [ bere ].
+\m zian mi-tun-e                 (ke)        [ be-r-e ].
+\g Jian DUR-be.able-3SG (COMP) [ SBJ-go-3SG ]
+\l Jian [can/is able to] go.
+
+\t zian yades=ræft                                (ke)       [ bere ].
+\m zian yad-es=ræft                                (ke)       [ be-r-e ].
+\g Jian memory-3SG.CL=go.PAST.3SG (COMP) [ SBJ-go-3SG ]
+\l Jian forgot to go.
+
+\t zian sæ'iy=kærd             (ke)        [ bere ].
+\m zian sæ'iy=kærd             (ke)        [ be-r-e ].
+\g Jian try=do.PAST.3SG (COMP) [ SBJ-go-3SG ]
+\l Jian tried to go.
+
+\t zian      yades=ræft                    (ke)          [ æskan    mire/raft ]
+\m zian      yad-es=ræft                    (ke)          [ æskan    mi-r-e/raft ]
+\g Jian      memory-3SG.CL=go.PAST (COMP) [ Ashkan DUR-go-3SG/go.PAST.3SG ]
+\l Jian forgot that Ashkan was going/went.
+
+\t zian sæ'iy=kærd              (ke)        [ æskan        bere ].12
+\m zian sæ'iy=kærd              (ke)        [ æskan        be-r-e ].12
+\g      Jian try=do.PAST.3SG (COMP) [ Ashkan SBJ-go-3SG ]
+\l Jian tried for Ashkan to go.
+
+\t zian       tæsmim=gereft               (ke)        [ bere ].
+\m zian       tæsmim=gereft               (ke)        [ be-r-e ].
+\g     Jian   decision=get.PAST.3SG (COMP) [ SBJ-go-3SG ]
+\l Jian decided to go.
+
+\t zian       mixad         (ke)          [ bere ].
+\m zian       mi-xa-d         (ke)          [ be-r-e ].
+\g Jian       DUR-want-3SG (COMP)           [ SBJ-go-3SG ]
+\l Jian wants to go.
+
+\t zian          tæsmim=gereft         (ke)        [ æskan      bayæd bere ]
+\m zian          tæsmim=gereft         (ke)        [ æskan      bayæd be-r-e ]
+\g Jian         decision=get.PAST.3SG (COMP) [ Ashkan must                SBJ-go-3SG ]
+\l Jian decided that Ashkan should go.
+
+\t zian       mixad         (ke)            [ æskan          bere ].
+\m zian       mi-xa-d         (ke)            [ æskan          be-r-e ].
+\g Jian       DUR-want-3SG (COMP)             [ Ashkan SBJ-go-3SG ]
+\l Jian wants Ashkan to go.
+
+\t zian       mixad         (ke)            [ un          bere ]
+\m zian       mi-xa-d         (ke)            [ un          be-r-e ]
+\g Jian       DUR-want-3SG (COMP)             [ he           SBJ-go-3SG ]
+\l Jian wants him to go.
+
+\t zian       g o ft       (ke)      [ pro          miad ]
+\m zian       g o ft       (ke)      [ pro          mi-a-d ]
+\g Jian say.PAST.3SG (COMP) [                 DUR-come-3SG ]
+\l Jian said he's coming.
+
+\t zian       g o ft        (ke)     [ un           miad ]
+\m zian       g o ft        (ke)     [ un           mi-a-d ]
+\g Jian say.PAST.3SG (COMP) [ he                   DUR-come-3SG ]
+\l Jian said he's coming.
+
+\t lazeme           (ke)          [ beræm ].
+\m lazem-e           (ke)          [ be-r-æm ].
+\g necessary-3sg (COMP) [ SBJ-go-1SG ]
+\l It is necessary that I go.
+
+\t mitunæm                (ke)     [ beræm ].
+\m mi-tun-æm                (ke)     [ be-r-æm ].
+\g DUR-be.able-1sg          (COMP) [ SBJ-go-1SG ]
+\l I can go.
+
+\t mitunæm             (ke)       [ lazem         base         (ke)       [ beræm ] ].
+\m mi-tun-æm             (ke)       [ lazem         bas-e         (ke)       [ be-r-æm ] ].
+\g   DUR-be.able-1sg (COMP) [ necessary SBJ.be-3SG (COMP) [ SBJ-go-1SG ] ]
+\l I can be necessary to go.
+
+\t fekr      mikonæm          (ke)      [ lazem       base        (ke)       [ beræm ] ]
+\m fekr      mi-kon-æm          (ke)      [ lazem       bas-e        (ke)       [ be-r-æm ] ]
+\g thought DUR-make-1sg (COMP) [ necessary SBJ.be-3SG (COMP) [ SBJ-go-1SG]]
+\l I think it is necessary that I go.
+
+\t bayæd     ræft.
+\m bayæd     ræft.
+\g must      go
+\l One must go.
+
+\t mise                ræft.
+\m mi-s-e                ræft.
+\g DUR-become-3SG go
+\l It is possible to go.
+
+\t bayæd     fekr=kærd (ke)         [ sima bærænde     mise ].
+\m bayæd     fekr=kærd (ke)         [ sima bærænde     mi-s-e ].
+\g   must      thought=do (COMP) [ Sima winner           DUR-become.3SG ]
+\l One must think that Sima will win.
+
+\t mise                goft (ke)        [ æli ketabo      naxunde         bud ].
+\m mi-s-e                goft (ke)        [ æli ketab-o      na-xunde         bud ].
+\g DUR-become-3SG say (COMP) [ Ali book+OM NEG-read.PART be.3SG ]
+\l One might say that Ali hadn't read the book.
+
+\t bayæd     tunest (ke)        [ bærænde      bese ]
+\m bayæd     tunest (ke)        [ bærænde      be-s-e ]
+\g   must      be.able (COMP) [ winner           SBJ-become.3SG ]
+\l One must be able to win.
+
+\t mise                sæ'iy=kærd (ke)         [ ketabo     bexune ]
+\m mi-s-e                sæ'iy=kærd (ke)         [ ketab-o     be-xun-e ]
+\g   DUR-become-3SG try=do                (COMP) [ book+OM SBJ-read-3SG ]
+\l It is possible to try to read the book.
+
+\t sima      fekr=mikone              (ke)          [ bese      ræft ]
+\m sima      fekr=mi-kon-e              (ke)          [ be-s-e      ræft ]
+\g Sima thought=DUR-do-3SG (COMP) [ SBJ-become-3SG go ]
+\l Sima thinks that it's possible to go.
+
+\t midunam            (ke)      [ bayæd        ræft ]
+\m mi-dun-am            (ke)      [ bayæd        ræft ]
+\g DUR-know-1SG (COMP) [ must                    go
+\l I know that one must go.
+
+\t bizæn    (ketabo)     bayæd      (ketabo)      bexune.
+\m bizæn    (ketab-o)     bayæd      (ketab-o)      be-xun-e.
+\g Bijan     (book-OM) must           (book-OM) SBJ-read-3SG
+\l Bijan must read the book.
+
+\t bizæn    (ketabo)     diruz         (ketabo)      xund.
+\m bizæn    (ketab-o)     diruz         (ketab-o)      xund.
+\g Bijan     (book-OM) yesterday (book-OM) read.PAST.3SG
+\l Bijan read the book yesterday.
+
+\t bizæn    (ketabo)     dast                   (ketabo)       mixund.
+\m bizæn    (ketab-o)     dast                   (ketab-o)       mi-xund.
+\g Bijan     (book-OM) have.PAST.3SG            (book-OM) DUR-read.PAST.3SG
+\l Bijan was reading the book.
+
+\t bizæn     [ ketabo ]SCR midune                (ke)       [t         mixune ]
+\m bizæn     [ ketab-o ]SCR mi-dun-e                (ke)       [t         mi-xun-e ]
+\g     Bijan     book-OM       DUR-know-3SG (COMP) [                         DUR-read-3SG ]
+\l Bijan knows he'll read the book.
+
+\t bizæn    diruz      mitunest                   (ke)      [ færda       bere ].
+\m bizæn    diruz      mi-tunest                   (ke)      [ færda       be-r-e ].
+\g   Bijan     yesterday DUR-be.able.PAST.3SG (COMP) [ tomorrow SBJ-go-3SG]
+\l Bijan could yesterday go tomorrow.
+
+\t bizæn diruz      yades=ræft                       (ke)    [ færda      bere ].
+\m bizæn diruz      yad-es=ræft                       (ke)    [ færda      be-r-e ].
+\g   Bijan yesterday memory-3SG.CL=go.PAST.3SG (COMP)[ tomorrow SBJ-go-3SG]
+\l Bijan forgot yesterday to go tomorrow.
+
+\t bizæn   diruz        sæ'iy=kærd           (ke)         [ færda        bere ].
+\m bizæn   diruz        sæ'iy=kærd           (ke)         [ færda        be-r-e ].
+\g   Bijan    yesterday try=do.PAST.3SG (COMP) [ tomorrow SBJ-go-3SG ]
+\l Bijan tried yesterday to go tomorrow.
+
+\t bizæn   diruz        mixast                   (ke)      [færda           bere ].
+\m bizæn   diruz        mi-xast                   (ke)      [færda           be-r-e ].
+\g Bijan    yesterday DUR-want.PAST.3SG (COMP) [ tomorrow SBJ-go-3SG ]
+\l Bijan wanted yesterday to go tomorrow.
+
+\t bizæn diruz       fekr=mikard                        (ke)       [færda      bere ].
+\m bizæn diruz       fekr=mi-kard                        (ke)       [færda      be-r-e ].
+\g Bijan yesterday thought=DUR-do.PAST.3SG (COMP) [ tomorrow SBJ-go-3S ]
+\l Bijan was thinking yesterday he'd go tomorrow.
+
+\t bizæn   diruz        goft               (ke)      [færda          mire ].
+\m bizæn   diruz        goft               (ke)      [færda          mi-r-e ].
+\g Bijan    yesterday said.PAST.3SG (COMP) [ tomorrow DUR-go-3SG ]
+\l Bijan said yesterday he'd go tomorrow.
+
+\t bizæn   diruz        midunest                  (ke)         [færda        mire ].
+\m bizæn   diruz        mi-dunest                  (ke)         [færda        mi-r-e ].
+\g Bijan    yesterday DUR-know.PAST.3SG (COMP) [ tomorrow DUR-go-3SG ]
+\l Bijan knew yesterday he'd go tomorrow.
+
+\t bizæn   mitune            (ke)       [ ketabo   bexune ]
+\m bizæn   mi-tun-e            (ke)       [ ketab-o   be-xun-e ]
+\g Bijan    DUR-be.able-3SG (COMP) [ book-OM SBJ-read-3SG ]
+\l Bijan [can/is able to] read the book.
+
+\t (mæn) bæcceharo mæjbur=kærdæm               [ (ke)      bexabænd/*æm].
+\m (mæn) bæcce-ha-ro mæjbur=kærd-æm               [ (ke)      be-xab-ænd/*-æm].
+\g (I)    child-PL-OM obligation=do.PAST-1SG [ (COMP) SBJ-sleep-3PL/*-1SG
+\l I made the children sleep.
+
+\t (ma) be zian dæstur=dadim                [ (ke)       biyad].
+\m (ma) be zian dæstur=dad-im                [ (ke)       bi-ya-d].
+\g (we) to Jian      order=give.PAST-1PL [ (COMP) SBJ-come-3SG ]
+\l We ordered Jian to come.
+
+\t (ma) be zian qol=dadim                        [ (ke)       biyaim].
+\m (ma) be zian qol=dad-im                        [ (ke)       bi-ya-im].
+\g (we) to Jian      promise=give.PAST-1PL [ (COMP) SBJ-come-1PL ]
+\l We promised Jian to come.
+
+\t diruz       særdet=bud.
+\m diruz       særd-et=bud.
+\g yesterday cold-2SG.CL=be.PAST.3SG
+\l You were cold yesterday.
+
+\t xabemun=amæd.
+\m xab-emun=amæd.
+\g sleep-1pl.CL=come.PAST.3SG
+\l We were sleepy.
+
+\t særæm=dærd=mikone.
+\m sær-æm=dærd=mi-kon-e.
+\g head-1SG.CL=ache=DUR-do-3SG
+\l I have a headache.
+
+\t yadet=ræft                         (ke)    ketabo     bexuni.
+\m yad-et=ræft                         (ke)    ketab-o     be-xun-i.
+\g memory-2SG.CL=go.PAST.3SG (COMP) book-OM SBJ-read-2SG
+\l You forgot to read the book.
+
+\t (mæn) ketabo       mixunæm.
+\m (mæn) ketab-o       mi-xun-æm.
+\g (I)     book-OM DUR-read-1SG
+\l I am reading the book.
+
+\t (mæn) ketabo       mixundæm.
+\m (mæn) ketab-o       mi-xund-æm.
+\g (I)     book-OM DUR-read.PAST-1SG
+\l I was reading the book.
+
+\t (mæn) daræm        ketabo           mixunæm.
+\m (mæn) dar-æm        ketab-o           mi-xun-æm.
+\g (I)    have-1SG book-OM DUR-read-1SG
+\l I am reading the book.
+
+\t (mæn) dasàtæm                 ketabo         mixundæm.
+\m (mæn) dasàt-æm                 ketab-o         mi-xund-æm.
+\g (I)    have.PAST-1SG book-OM DUR-read.PAST-1SG
+\l I was reading the book.
+
+\t sima    (ketabo)      dare            (ketabo)    mixune.
+\m sima    (ketab-o)      dar-e            (ketab-o)    mi-xun-e.
+\g Sima    (book-OM) have-3SG (book-OM) DUR-read-3SG
+\l Sima is reading the book.
+
+\t sima   næbayæd ketabo               bexune.
+\m sima   næ-bayæd ketab-o               be-xun-e.
+\g Sima NEG-must book-OM SBJ-read-3SG
+\l Sima musn't read the book.
+
+\t sima    nædare          ketabo         mixune.
+\m sima    næ-dar-e          ketab-o         mi-xun-e.
+\g   Sima    NEG-have-3SG book-OM DUR-read-3SG
+\l Sima is not reading the book.
+
+\t sima   ketabo      nædare .
+\m sima   ketab-o      næ-dar-e .
+\g Sima book-OM NEG-have-3SG
+\l Sima doesn't have the book.
+
+\t sima    ketabo       nemixune.
+\m sima    ketab-o       ne-mi-xun-e.
+\g Sima     book-OM NEG-DUR-read-3SG
+\l Sima is not reading the book.
+
+\t sima    dare         ketabo       nemixune.
+\m sima    dar-e         ketab-o       ne-mi-xun-e.
+\g   Sima    have-3SG      book-OM NEG-DUR-read-3SG
+\l Sima is not reading the book.
+
+\t lazem=budæn
+\m lazem=budæn
+\g necessary=be
+\l to be necessary
+
+\t be=næzær=amadæn/residæn
+\m be=næzær=amadæn/residæn
+\g to=view=come/arrive
+\l to seem/appear
+
+\t momken=budæn
+\m momken=budæn
+\g possible=be
+\l to be possible
+
+\t ehtemal=dastæn
+\m ehtemal=dastæn
+\g possibility=have
+\l to be possible
+
+\t lazeme            [ (ke)    bæcceha beræn     mædresse ].
+\m lazem-e            [ (ke)    bæcce-ha be-r-æn     mædresse ].
+\g necessary-3SG [ (COMP) child-PL SBJ-go-3PLschool ]
+\l It is necessary that the children go to school.
+
+\t momkene       [ (ke)       dustamun          biyan
+\m momken-e       [ (ke)       dust-a-mun          bi-y-an
+\g possible-3SG [ (COMP) friend-PL-1PL.CL SBJ-come-3PL here ]
+\l Our friends might come here.
+
+\t bæcceha lazeme/*ænd          [ (ke)     beræn      mædresse ].
+\m bæcce-ha lazem-e/*-ænd          [ (ke)     be-r-æn      mædresse ].
+\g child-PL   necessary-3SG/*3PL [ (COMP) SBJ-go-3PLschool ]
+\l It is necessary that the children go to school.
+
+\t dustamun        momkene/*ænd [ (ke)             biyan           inja ].
+\m dust-a-mun        momken-e/*-ænd [ (ke)             bi-y-an           inja ].
+\g friend-PL-1PL.CL possible-3SG/3PL [ (COMP) SBJ-come-3PL here ]
+\l Our friends might come here.
+
+\t momken=nist             [ ke      hæmsayehaye ma jom'e                             sæbha     xune     bemunæn ].
+\m momken=nist             [ ke      hæmsaye-ha-ye ma jom'e                             sæb-ha     xune     be-mun-æn ].
+\g possible=NEG.be.3SG [ COMP neighbour-PL-EZ us                 Friday                 night-PL home SBJ-stay-3PL ]    
+\l It's impossible for our neighbours to stay at home Friday nights.
+
+\t [ hæmsayehaye ma ]i momken=nist                       [ ke    ei jom'e           sæbha         xune     bemunæn ].
+\m [ hæmsaye-ha-ye ma ]i momken=nist                       [ ke    ei jom'e           sæb-ha         xune     be-mun-æn ].
+\g      neighbour-PL-EZ us       possible=NEG.be.3SG [ COMP            Friday         night-PL home SBJ-stay-3PL ]        
+\l It's impossible for our neighbours to stay at home Friday nights.
+
+\t [ jom'e sæbha]i        momken=nist            [ ke          hæmsayehaye ma         ei     xune        bemunæn ].
+\m [ jom'e sæb-ha]i        momken=nist            [ ke          hæmsaye-ha-ye ma         ei     xune        be-mun-æn ].
+\g     Friday night-PL possible=NEG.be.3SG [ COMP neighbour-PL-EZ us                            home SBJ-stay-3PL ]     
+\l It's impossible for our neighbours to stay at home Friday nights.
+
+\t [ xune ]i      momken=nist                [ ke   hæmsayehaye ma jom'e                     sæbha        ei     bemunæn ].   
+\m [ xune ]i      momken=nist                [ ke   hæmsaye-ha-ye ma jom'e                     sæb-ha        ei     be-mun-æn ].   
+\g      home      possible=NEG.be.3SG [ COMP neighbour-PL-EZ us                 Friday         night-PL              SBJ-stay-3PL ]
+\l It's impossible for our neighbours to stay at home Friday nights.
+
+\t meslinke [ dustamun             injaæn ].
+\m mesl-in-ke [ dust-a-mun             inja-æn ].
+\g seems         [ friend-PL-1PL.CL here-3PL]
+\l It seems/looks as if our friends are here.
+
+\t dustamun             meslinke injaæn.
+\m dust-a-mun             mesl-in-ke inja-æn.
+\g friend-PL-1PL.CL seems            here-3PL
+\l It seems/looks as if our friends are here.
+
+\t (mæn) fekr=mikonæm                  [ (ke)   æli pænjerera       sekæste].
+\m (mæn) fekr=mi-kon-æm                  [ (ke)   æli pænjere-ra       sekæst-e].
+\g (I)       thought=DUR-do-1SG [ (COMP) Ali window-OM break.PAST-3SG ]
+\l I think that Ali has broken the window.
+
+\t dust=daræm          bedunæm         [ (ke)      ki  pænjerera sekæste].
+\m dust=dar-æm          be-dun-æm         [ (ke)      ki  pænjere-ra sekæst-e].
+\g friend=have-1SG SBJ-know-1SG [ (COMP) who window-OM break.PAST-3SG ]
+\l I would like to know who has broken the window.
+
+\t mærdike           amæd                   bæradære     mænæst.
+\m mærd-i-ke           amæd                   bæradær-e     mæn-æst.
+\g man-REL-COMP come.PAST.3SG brother-EZ                    me-3SG
+\l The man who came is my brother.
+
+\t ræftæm [ (ke)         un    ketabo       bexæræm ].
+\m ræft-æm [ (ke)         un    ketab-o       be-xær-æm ].
+\g went-1SG [ (COMP) that book-OM SBJ-buy-1SG ]
+\l I went to buy that book.
+
+\t porsidæm      [ (ke)     aya     zian miyad            (ya næ) ].
+\m porsid-æm      [ (ke)     aya     zian mi-y-ad            (ya næ) ].
+\g ask.PAST-1SG [ (COMP) INTER Jian DUR-come-3SG (or not) ]
+\l I asked if Jian was coming.
+
+\t un ketabo         dust=daræm         [CP ke       æli bæram           xaride                   bud ].      
+\m un ketab-o         dust=dar-æm         [CP ke       æli bær-am           xaride                   bud ].      
+\g that book-OM friend=have-1SG [CP COMP Ali for-1SG.CL bought.PART                                  be.PAST.3SG]
+\l I like that book that Ali had bought for me.
+
+\t qæhve=ke        mixorid?
+\m qæhve=ke        mi-xor-id?
+\g coffee-EMPH DUR-drink-2SG
+\l You take coffee, don't you?
+
+\t soma=ke      mikesid?
+\m soma=ke      mi-kes-id?
+\g you-EMPH      DUR-smoke-2SG
+\l You do smoke [don't you]?
+
+\t ruye miz
+\m ru-ye miz
+\g on-ez table
+\l on the table
+
+\t Man pul           gereftam.
+\m Man pul           gereftam.
+\g I       money     took.1SG
+\l I took (sm) money.
+
+\t Man pulra         gereftam.
+\m Man pul-ra         gereftam.
+\g I       money-OBJ took.1SG
+\l I took the money.
+
+\t be mina mÅn [gol                    ra ]         dadÅm
+\m be mina mÅn [gol                    ra ]         dad-Åm
+\g    to Mina I               [flower OBJ.DEF] give.PAST-1SG
+\l I gave the flower to Mina
+
+\t ketabe an mard
+\m ketab-e an mard
+\g book-E that man
+\l that man's book
+
+\t marde xub
+\m mard-e xub
+\g man-E good
+\l a good man
+
+\t Kimea     ketâbha ro be Papar           dâd
+\m Kimea     ketâb-ha ro be Papar           dâd
+\g K        book-pl râ     to Papar         gave
+\l Kimea    gave the books to Papar.
+
+\t Kimea    be Paper ketâb dâd
+\m Kimea    be Paper ketâb dâd
+\g Kimea    to Paper book gave
+\l Kimea    gave book(s) to Papar.
+
+\t time mâ unâro shekast dâd
+\m tim-e mâ unâ-ro shekast dâd
+\g team-EZ we they-râ defeat gave
+\l Our team defeated them.
+
+\t Minu bachcharo kotak zad
+\m Minu bachcha-ro kotak zad
+\g Minu child-râ      beating hit
+\l Minu hit the child.
+
+\t bachche kotak xord
+\m bachche kotak xord
+\g child beating collided
+\l The child got hit.
+
+\t Kimea amdan             bachcharo zad                                 HV
+\m Kimea amdan             bachcha-ro zad                                 HV
+\g Kimea intentionally child-râ hit
+\l Kimea hit the child intentionally.
+
+\t Kimea amdan               be ghazâ dast zad                            LV
+\m Kimea amdan               be ghazâ dast zad                            LV
+\g K          intentionally to food    hand hit
+\l Kimea intentionally touched the food.
+
+\t Kimea amdan           dâd zad                                          LV
+\m Kimea amdan           dâd zad                                          LV
+\g K      intentionally yell hit
+\l Kimea yelled intentionally.
+
+\t Kimea amdan            dast zad                                        LV
+\m Kimea amdan            dast zad                                        LV
+\g K      intentionally hand hit
+\l Kimea clapped intentionally.
+
+\t Kimea amdan             be divâr xord                                 HV
+\m Kimea amdan             be divâr xord                                 HV
+\g K        intentionally to wall collided
+\l Kimea intentionally hit the wall.
+
+\t ghazâ amdan            dast xord                                      LV
+\m ghazâ amdan            dast xord                                      LV
+\g food      intentionally hand collided
+\l Food became intentionally touched.
+
+\t Kimea amdan          shekast xord                                      LV
+\m Kimea amdan          shekast xord                                      LV
+\g K     intentionally defeat collided
+\l Kimea intentionally got defeated.'3
+
+\t Kimea amdan               az xiyâbun gozasht                           HV
+\m Kimea amdan               az xiyâbun gozasht                           HV
+\g K     intentionally       of street passed
+\l Kimea intentionally      crossed the street.
+
+\t Kimea amdan               dar gozasht                                 LV
+\m Kimea amdan               dar gozasht                                 LV
+\g K     intentionally        away passed
+\l Kimea intentionally      passed away.
+
+\t Kimea amdan                âmad                                        HV
+\m Kimea amdan                âmad                                        HV
+\g K      intentionally       came
+\l Kimea intentionally      came.
+
+\t Kimea amdan         be donyâ âmad                          LV
+\m Kimea amdan         be donyâ âmad                          LV
+\g K      intentionally to world came
+\l Kimea was born intentionally.
+
+\t âb     be jush âmad
+\m âb     be jush âmad
+\g water to boil came
+\l The water boiled.
+
+\t Nimâ âbro be jush âvard
+\m Nimâ âb-ro be jush âvard
+\g Nima water-râ to boil brought
+\l Nima boiled the water.
+
+\t Homa be gerye oftâd
+\m Homa be gerye oftâd
+\g Homa to crying fell
+\l Homa started to cry.
+
+\t Nima Homaro be gerye andâxt
+\m Nima Homa-ro be gerye andâxt
+\g Nima Homa-râ to crying dropped
+\l Nima made Homa (start to) cry.
+
+\t Kimea ye sag dâre
+\m Kimea ye sag dâr-e
+\g K      one dog have-3sg
+\l Kimea has a dog.
+
+\t Kimea Paparo dust dâre
+\m Kimea Papar-o dust dâr-e
+\g K.P.-râ friend have-3sg
+\l Kimea loves papar.
+
+\t Kimea esme uno be yâd dâre
+\m Kimea esm-e un-o be yâd dâr-e
+\g K.name-Ez her-râ to memory have-3s
+\l Kimea has her name in her memory.
+
+\t Kimea esme uno be yâd            miyare
+\m Kimea esm-e un-o be yâd            mi-yar-e
+\g K.name-Ez her-râ to memory hab-bring-3sg
+\l Kimea remembers her name.
+
+\t Kimea esme      uno dâre be yâd          miyâre
+\m Kimea esm-e      un-o dâr-e be yâd          mi-yâr-e
+\g Kimea name-Ez her-râ have-3sg to memory hab-bring-3sg
+\l Kimea is remembering her name.
+
+\t Kimea    ye sâ'ate/* barâye ye sâ'at bidâr shod
+\m Kimea    ye sâ'ate/* barâye ye sâ'at bidâr shod
+\g K.one hour/for one hour awake became
+\l Kimea   became awake within an hour.
+
+\t Kimea    ye sâ'ate/ *barâye ye sâ'at Paparro bidâr kard
+\m Kimea    ye sâ'ate/ *barâye ye sâ'at Papar-ro bidâr kard
+\g K.one hour/for one hour P.-râ awake did
+\l Kimea   woke Papar up within an hour.
+
+\t Kimea     *ye sâ'ate/ barâye ye sâ'at gerye kard
+\m Kimea     *ye sâ'ate/ barâye ye sâ'at gerye kard
+\g K.one hour/for one hour cry did
+\l Kimea   cried for one hour.
+
+\t Kimea âmad.
+\m Kimea âmad.
+\g K         came.
+\l Kimea came.
+
+\t Kimea dâre        be kelas miyâd
+\m Kimea dâr-e        be kelas mi-yâ-d
+\g Kimea have-3sg to class hab-come-3sg
+\l Kimea is coming to class.
+
+\t Kimea diruz         be donyâ âmad.
+\m Kimea diruz         be donyâ âmad.
+\g K        yesterday to world came.
+\l Kimea was born yesterday.
+
+\t Kimea *kâmelan/*barâye ye sâ'at/? ye sâ'ate be donyâ âmad
+\m Kimea *kâmelan/*barâye ye sâ'at/? ye sâ'ate be donyâ âmad
+\g K        completely/for an hour/within one hour to world came
+\l Kimea was born within one hour.
+
+\t Kimea dâre        be donyâ miyâd
+\m Kimea dâr-e        be donyâ mi-yâ-d
+\g Kimea have-3sg to world hab-come-3sg
+\l Kimea is about to be born.
+
+\t Minu ?kâmelan/ barâye ye sâ'at/*ye sâ'ate Paparo zad
+\m Minu ?kâmelan/ barâye ye sâ'at/*ye sâ'ate Papar-o zad
+\g  M       completely/for an hour/within one hour P-râ hit
+\l Minu hit Papar for an hour.
+
+\t Minu dâre       Paparo mizane
+\m Minu dâr-e       Papar-o mi-zan-e
+\g M.have-3sg P-râ    hab-hit-3sg
+\l Minu is hitting Papar.
+
+\t Kimea dâre        be ghazâ dast mizane
+\m Kimea dâr-e        be ghazâ dast mi-zan-e
+\g K        have-3sg to food hand hab-hit-3sg
+\l Kimea is touching the food.
+
+\t Kimea kâmelan/ *barâye ye sâ'at/*ye sâ'ate be divâr xord
+\m Kimea kâmelan/ *barâye ye sâ'at/*ye sâ'ate be divâr xord
+\g K.completely/for an hour/within an hour to wall collided
+\l Kimea completely hit the wall.
+
+\t Kimea dâre      be divâr mixore
+\m Kimea dâr-e      be divâr mi-xor-e
+\g K     have-3sg to wall hab-collide-3sg
+\l Kimea is about to hit the wall.
+
+\t Kimea kâmelan/ *barâye ye sâ'at/ye sâ'ate shekast xord
+\m Kimea kâmelan/ *barâye ye sâ'at/ye sâ'ate shekast xord
+\g K.completely/for an hour/within an hour defeat collided
+\l Kimea got completely/within an hour defeated.
+
+\t Kimea dâre shekast mixore
+\m Kimea dâr-e shekast mi-xor-e
+\g K    have-3sg defeat hab-collide-3sg
+\l Kimea is about to get defeated.
+
+\t Kimea dâre ketâbro be Papar mide
+\m Kimea dâr-e ketâb-ro be Papar mi-d-e
+\g K have-3sg book-râ to P.hab-give-3sg
+\l Kimea is giving the book to Papar.
+
+\t Kimea kâmelan/ *barâye ye sâ'at/ye sâ'ate Paparo shekast dâd
+\m Kimea kâmelan/ *barâye ye sâ'at/ye sâ'ate Papar-o shekast dâd
+\g K      completely/for an hour/within an hour P.-râ defeat gave
+\l Kimea defeated Papar completely/within an hour.
+
+\t Kimea dâre Paparo shekast mide
+\m Kimea dâr-e Papar-o shekast mi-d-e
+\g K have-3sg P.-râ defeat hab-give-3sg
+\l Kimea is defeating Papar.
+
+\t Kimea dâre golro miyandâze
+\m Kimea dâr-e gol-ro mi-y-andâz-e
+\g K    have-3sg flower-râ        hab-throw-3sg
+\l Kimea is about to throw the flower.
+
+\t Kimea kâmelan/ barâye ye sâ'at/*ye sâ'ate Paparo dast andâxt
+\m Kimea kâmelan/ barâye ye sâ'at/*ye sâ'ate Papar-o dast andâxt
+\g K.completely/for an hour/within an hour P.-râ         hand threw
+\l Kimea completely/for an hour mocked Papar.
+
+\t Kimea dâre Paparo dast miyandâze
+\m Kimea dâr-e Papar-o dast mi-y-andâz-e
+\g K.have-3sg P.-râ hand hab-throw-3sg
+\l Kimea is mocking Papar.
+
+\t Kimea kâmelan/ barâye ye sâ'at/*ye sâ'ate           dasteshro keshid
+\m Kimea kâmelan/ barâye ye sâ'at/*ye sâ'ate           dast-esh-ro keshid
+\g K.completely/for an hour/within an hour hand-her-râ pulled
+\l Kimea completely/for an hour pulled her hand.
+
+\t Kimea dâre dasteshro mikeshe
+\m Kimea dâr-e dast-esh-ro mi-kesh-e
+\g K.have-3sg hand-her-râ hab-pull-3sg
+\l Kimea is pulling her hand.
+
+\t Kimea xunaro kâmelan/* barâye ye sâ'at/ye sâ'ate be âtash keshid
+\m Kimea xuna-ro kâmelan/* barâye ye sâ'at/ye sâ'ate be âtash keshid
+\g K house-râ completely/for an hour/within an hour to fire pulled
+\l Kimea completely/in an hour put the house on fire.
+
+\t Kimea dâre xunaro be âtash mikeshe
+\m Kimea dâr-e xuna-ro be âtash mi-kesh-e
+\g K.have-3sg house-râ to fire hab-pull-3sg
+\l Kimea is putting the house on fire.
+
+\t Kimea kâmelan/*barâye ye sâ'at/ye sâ'ate az xiyâbun gozasht
+\m Kimea kâmelan/*barâye ye sâ'at/ye sâ'ate az xiyâbun gozasht
+\g K.completely/for an hour/within an hour of street passed
+\l Kimea completely/in an hour crossed the street.
+
+\t Kimea dâre az xiyâbun migzare
+\m Kimea dâr-e az xiyâbun mi-gzar-e
+\g K.have-3sg of street hab-pass-3sg
+\l Kimea is crossing the street.
+
+\t Kimea kâmelan/*barâye ye sâ'at/?ye sâ'ate dar gozasht
+\m Kimea kâmelan/*barâye ye sâ'at/?ye sâ'ate dar gozasht
+\g K.completely/for an hour/within an hour away passed
+\l ?Kimea died within an hour.
+
+\t Kimea dâre dar migzare
+\m Kimea dâr-e dar mi-gzar-e
+\g K.have-3sg away hab-pass-3sg
+\l Kimea is dying.
+
+\t xorshid barfro     âb kard
+\m xorshid barf-ro     âb kard
+\g sun      snow-râ water made
+\l The sun melted the snow.
+
+\t barf âb      shod
+\m barf âb      shod
+\g snow water became
+\l The snow melted.
+
+\t Kimea dar ye sâ'at/ ye sâ'ate      Paparo shekast dâd
+\m Kimea dar ye sâ'at/ ye sâ'ate      Papar-o shekast dâd
+\g K.in one hour/within an hour P.-râ defeat gave
+\l Kimea defeated Papar in one hour.
+
+\t Kimea ye sâ'ate shekast xord
+\m Kimea ye sâ'ate shekast xord
+\g K        one hour      defeat collided
+\l Kimea got defeated in an hour.
+
+\t Kimea     sorx shod
+\m Kimea     sorx shod
+\g Kimea     red    became
+\l Kimea    blushed
+
+\t Kimea xunaro rang zad
+\m Kimea xuna-ro rang zad
+\g K      house-râ color hit
+\l Kimea colored the house.
+
+\t Kimea xunaro sefid rang zad
+\m Kimea xuna-ro sefid rang zad
+\g  K      house-râ white color hit
+\l Kimea colored the house white
+
+\t Kimea xunaro range sefid      kard tâ pro kâmelan           sefid shod.
+\m Kimea xuna-ro rang-e sefid      kard tâ pro kâmelan           sefid shod.
+\g K      house-râ color-Ez white did till             completely white became
+\l Kimea put white color on the house till it became completely white.
+
+\t ye gol     be Papar dâde shod
+\m ye gol     be Papar dâde shod
+\g  a flower to Paper given was
+\l A flower was given to Papar
+
+\t xune    xarâb    shod
+\m xune    xarâb    shod
+\g house destroyed became
+\l The house was destroyed.
+
+\t (mæn) ye        doxtær            daræm.
+\m (mæn) ye        doxtær            daræm.
+\g (I)     one     daughter          have-PRES-1sg
+\l I have a daughter.
+
+\t zæni         [ke                mæn         dust+daræm]          inja     nist.
+\m zæn-i         [ke                mæn         dust+daræm]          inja     nist.
+\g woman-RES COMP                  I            like-PRES-1sg        here     NEG-  be-3sg
+\l The woman that I love is not here.
+
+\t zæni         [___     mæn         dust+daræm]          inja     nist.
+\m zæn-i         [___     mæn         dust+daræm]          inja     nist.
+\g woman-RES       Ø      I            like-PRES-1sg        here     NEG-be-3sg
+\l The woman I love is not here.
+
+\t ... mærdi      ke               shoma           ra       did...
+\m ... mærd-i      ke               shoma           ra       did...
+\g ...man-RES      COMP             you             RA       see-PAST-3sg
+\l ...the man who saw you...
+
+\t ... mærdi       ke              shoma didid...
+\m ... mærd-i       ke              shoma didid...
+\g ...man-RES       COMP            you            see-PAST-3sg
+\l ...the man whom you saw...
+
+\t     mærdi       ke      pirahænæs           zærd               æst ...
+\m     mærd-i       ke      pirahænæs           zærd               æst ...
+\g ...man-RES       COMP shirt-his              yellow             be-PRES-3sg
+\l ...the man whose shirt is yellow ...
+
+\t mærdi    [ke ____    diruz      molaqat kærdid] aqaye Bayat bud.
+\m mærd-i    [ke ____    diruz      molaqat kærdid] aqay-e Bayat bud.
+\g man-RES COMP Ø       yesterday meet-PAST-2pl Mr.Bayat be-PAST-3sg
+\l The man whom you met yesterday was Mr. Bayat.
+
+\t mærdi    [ke    u ra2 diruz       molaqat kærdid] aqaye Bayat bud.
+\m mærd-i    [ke    u ra2 diruz       molaqat kærdid] aqay-e Bayat bud.
+\g man-RES COMP he RA yesterday meet-PAST-2pl Mr.Bayat be-PAST-3sg
+\l The man whom you met (*him) yesterday was Mr. Bayat.
+
+\t mærdi        ke       ____ pirahæne zærd                        pusidehæst
+\m mærd-i        ke       ____ pirahæn-e zærd                        pusideh-æst
+\g man-RES       COMP ____ shirt-EZ           yellow                 wear-PRESPART-3sg
+\l The man who is wearing a yellow shirt...
+
+\t mærdi       ke        u      pirahæne zærd              pusideh æst
+\m mærd-i       ke        u      pirahæn-e zærd              pusideh æst
+\g man-RES       COMP he          shirt-EZ yellow             wear-PRESPART-3sg
+\l The man who he is wearing a yellow shirt ...
+
+\t adresi     [ke mæn be doktori   [ke   u æli ra æmæl kærd                dadæm                  qælæt       bud.]]     
+\m adres-i     [ke mæn be doktor-i   [ke   u æli ra æmæl kærd                dadæm                  qælæt       bud.]]     
+\g address-RES COMP I to doctor-RES COMP he Ali RA  operation-PAST-3sg      do-give-PAST-1sg        wrong       be-PAST-3sg
+\l The address that I gave to the doctor who (he) did an operation on Ali was wrong.
+
+\t mærdi ke       soma diruz         æz     u pul                          gereftid ...
+\m mærd-i ke       soma diruz         æz     u pul                          gereftid ...
+\g man-RES COMP you       yesterday   from he money                          take-PAST-2pl
+\l The man from whom you took money yesterday ...
+
+\t ... mærdi          ke         be       soma             pul       dad ...
+\m ... mærd-i          ke         be       soma             pul       dad ...
+\g ...man-RES          COMP       to      you               money give-PAST-3sg...
+\l ...the man who gave money to you...
+
+\t mærdi        [ke        pirahæne            u          zærd                æst] ...
+\m mærd-i        [ke        pirahæn-e            u          zærd                æst] ...
+\g man-RES       COMP shirt-EZ                   he         yellow              be-PRES-3sg
+\l The man whose shirt is yellow ...
+
+\t husæng ketabi        ra [ke       pesaræm (an ra) xaridehbud] dozdid
+\m husæng ketab-i        ra [ke       pesaræm (an ra) xarideh-bud] dozdid
+\g Hushang book-RES RA COMP son-my              (it RA) buy-PP-3sg stole-3sg
+\l Hushang stole the book that my son had bought for me.
+
+\t mærdi    ke      soma ____ molaqat kærdid va ____ kolah be sær dast
+\m mærd-i    ke      soma ____ molaqat kærdid va ____ kolah be sær dast
+\g man-RES COMP you ____ visist-PAST-2pl and ___ hat wore-3sg
+\l The man that you visited ___ and ___was wearing a hat
+
+\t mærdi ke soma ____ molaqat kærdid va Yasmin kolah be+sær+dast
+\m mærd-i ke soma ____ molaqat kærdid va Yasmin kolah be+sær+dast
+\g man-RES COMP you ____ visist-PAST-2pl and Yasmin hat        wore-3sg
+\l The man that you visited ___ and Yasmin was wearing a hat
+
+\t mærdi   ke  soma ____ molaqat+kærdid va ____ kolah be+sær+dast æli     bud.
+\m mærd-i   ke  soma ____ molaqat+kærdid va ____ kolah be+sær+dast æli     bud.
+\g man-RES COMP you ____ visist-PAST-2pl and ___ hat wear-PAST-    3sg          Ali      be-PAST-3sg
+\l The man that you visited ___ and ___was wearing a hat was Ali.
+
+\t dadid                      æli      bud.
+\m dadid                      æli      bud.
+\g give-PAST-2pl              Ali      be-PAST-3sg
+\l The man whose shirt was yellow and you gave him water was Ali.
+
+\t mærdi     ke ____ pirahæne zærd pusideh+bud       væ shoma diruz             az   u            pul           qærz+gereftid           Ali     bud.
+\m mærd-i     ke ____ pirahæn-e zærd pusideh+bud       væ shoma diruz             az   u            pul           qærz+gereftid           Ali     bud.
+\g man-RES COMP ____ shirt-EZ yellow wear-PRESPART-3sg and you  yesterday         from him          money        borrow-PAST-2pl          Ali     be-  PAST-3sg
+\l The man who was wearing a yellow shirt and you borrowed money from was Ali.
+
+\t mærdi  ke shoma az   u                       pul          qærz+gereftid          væ  ____      pirahæne zærd            pusideh+bud                   Ali     bud.       
+\m mærd-i  ke shoma az   u                       pul          qærz+gereftid          væ  ____      pirahæn-e zærd            pusideh+bud                   Ali     bud.       
+\g man-RES COMP you from him                     money       borrow-PAST-2pl         and ____     shirt-EZ   yellow          wear-PRESPART-3sg             Ali     be-PAST-3sg
+\l The man who you borrowed money from and was wearing a yellow shirt was Ali.
+
+\t Kimea in ketab ro ghablaz in ke __ bexuneh          ___be man dad.
+\m Kimea in ketab ro ghablaz in ke __ bexuneh          ___be man dad.
+\g Kimea this book RA before this that __ SUB-read-3sg ___to me gave-3sg
+\l Kimea gave me this book before reading (it).
+
+\t Kimea in ketab ro ghablaz in ke      unro     bexuneh     ___be man dad.
+\m Kimea in ketab ro ghablaz in ke      unro     bexuneh     ___be man dad.
+\g Kimea this book RA before this that it+RA SUB-read-3sg __to me gave-3sg
+\l Kimea gave me this book before reading (it).
+
+\t [in     ede'a ke Ali Hæmid ra dideh]            Yasmin ra narahat kærd.
+\m [in     ede'a ke Ali Hæmid ra dideh]            Yasmin ra narahat kærd.
+\g [this claim COMP Ali Hamid RA see-PP-3sg] Yasmin RA annoyed
+\l The claim that Ali has seen Hamid annoyed Yasmin.
+
+\t ki    [in ede'a ke Ali ___ dideh]         Yasmin ra narahat kærd?
+\m ki    [in ede'a ke Ali ___ dideh]         Yasmin ra narahat kærd?
+\g who    [this claim that Ali ___see-PP-3sg] Yasmin RA annoyed.
+\l Who the claim that Ali has seen ___ annoyed Yasmin?
+
+\t mærdi         ra      ke   Ali                  ____      molaqat+kærd
+\m mærd-i         ra      ke   Ali                  ____      molaqat+kærd
+\g man-RES        RA      COMP Ali                  Ø         meet-PAST-3sg
+\l The man that Ali met ___.
+
+\t mærdi ra ke [in ede'a ke Ali __ molaqat+kærd] Yasmin ra narahat+kærd?
+\m mærd-i ra ke [in ede'a ke Ali __ molaqat+kærd] Yasmin ra narahat+kærd?
+\g man-RES RA COMP[this claim that Ali ___see-PP-3sg] Yasmin RA annoyed.
+\l The man the claim that Ali has seen ___ annoyed Yasmin?
+
+\t mærdi ke [in ede'a ke Ali u ra molaqat+kærd]Yasmin ra narahat+kærd?
+\m mærd-i ke [in ede'a ke Ali u ra molaqat+kærd]Yasmin ra narahat+kærd?
+\g man-RES COMP[this claim that Ali him see-PP-3sg] Yasmin RA annoyed.
+\l The man the claim that Ali has seen ___ annoyed Yasmin?
+
+\t mærdi         ke      Ali              u        ra        molaqat+kærd
+\m mærd-i         ke      Ali              u        ra        molaqat+kærd
+\g man-RES        COMP Ali                 him      RA        meet-PAST-3sg
+\l The man that Ali met *him.
+
+\t [in     ede'a ke   Hassan æz              Ali     dær     dærsæs           pisi  gerefteh+æst]                   baværkærdæni            nist  
+\m [in     ede'a ke   Hassan æz              Ali     dær     dærsæs           pisi  gerefteh+æst]                   baværkærdæni            nist  
+\g this    claim COMP Hassan than            Ali     in      study-his        ahead achieve-PRESPERF-3sg            believable     NEG-be-PRES-3sg
+\l The claim that Hassan has achieved more than Ali in his studies is not believable.
+
+\t ki bud ke soma __ molaqat+kærdid væ Yasmin kolah be+sær+dast?
+\m ki bud ke soma __ molaqat+kærdid væ Yasmin kolah be+sær+dast?
+\g Who was COMP you __ visist-PAST-2pl and Yasmin hat wore-3sg?
+\l Who was (the man) that you visited ___ and Yasmin was wearing a hat?
+
+\t ki    bud   ke      soma __ molaqat+kærdid væ ___ kolah be+sær+dast?
+\m ki    bud   ke      soma __ molaqat+kærdid væ ___ kolah be+sær+dast?
+\g Who was     COMP you __ visist-PAST-2pl and ___ hat wore-3sg?
+\l Who was (the man) that you visited ___ and ___was wearing a hat?
+
+\t mardi  ke  soma u   ra molaqat+kærdid væ be u    pul  dadid ...
+\m mard-i  ke  soma u   ra molaqat+kærdid væ be u    pul  dadid ...
+\g man-RES COMP you him RA visited        and to him money gave....
+\l The man that you visited (*him) and gave (*him) money to...
+
+\t DIVANE HAFEZO      man ti barâ Kimea         xaridam
+\m DIVAN-E HAFEZ-O      man ti barâ Kimea         xarid-am
+\g DIVAN-E HAFEZ-RA      I        for K         bought-1sg
+\l It was DIVAN-E HAFEZ that I bought for Kimea.
+
+\t be KIMEA man ti ye ketâb          dâdam
+\m be KIMEA man ti ye ketâb          dâd-am
+\g to KIMEA I            a book       gave-1sg
+\l It was to KIMEA that I gave a book.
+
+\t hâlâ pro barâ Sasan        nâme minevisan
+\m hâlâ pro barâ Sasan        nâme mi-nevis-an
+\g now       for Sasan         letter hab-write-3sg
+\l Now they are writing letters for Sasan.
+
+\t man un ketâbro be KIMEA dâdam
+\m man un ketâb-ro be KIMEA dâd-am
+\g I that book-râ to KIMEA gave-1sg
+\l It was to KIMEA that I gave that book (not to Sasan).
+
+\t man un ketâbro be KIMEA dâdam
+\m man un ketâb-ro be KIMEA dâd-am
+\g I that book-râ to KIMEA gave-1sg
+\l It was to KIMEA that I gave that book (not to Sasan).
+
+\t Kimea goft [CP ke Sasan ketâbâro az Sepide xaride]
+\m Kimea goft [CP ke Sasan ketâb-â-ro az Sepide xaride]
+\g K       said     that S     book-pl râ from S bought is
+\l Kimea said that Sasan has bought the books from Sepide.
+
+\t Sasan fekr     mikone [CP ke KI in kârro karde ]
+\m Sasan fekr     mi-kon-e [CP ke KI in kâr-ro karde ]
+\g S    thought hab-do-3sg that who this work-râ done is
+\l Who does Sasan think has done this job?
+
+\t KIi benazar miyâd [CP ke ti xeyli bâhush bâshe ]
+\m KIi be-nazar mi-yâd [CP ke ti xeyli bâhush bâshe ]
+\g who to view hab-come that          very smart is
+\l Lit: Who seems that (he) is very smart.
+
+\t Kimea pesarâro        tashvigh     kard [           ke pro         doxtarâro bebusan]  
+\m Kimea pesar-â-ro        tashvigh     kard [           ke pro         doxtar-â-ro be-bus-an]  
+\g K       boy-pl-râ encouragement did          CP    that              girl-pl-râ subj-kiss-3pl
+\l Kimea encouraged the boys to kiss the girls.
+
+\t Kimea pesarâro      tashvigh     kard [CP ke pro                  KIro     bebusan]
+\m Kimea pesar-â-ro      tashvigh     kard [CP ke pro                  KI-ro     be-bus-an]
+\g K      boy-pl-râ encouragement did       that                       who-râ subj-kiss-3pl
+\l WHO did Kimea encourage the boys to kiss?
+
+\t keyi Kimea goft ke Sepide ti xune xaride?
+\m keyi Kimea goft ke Sepide ti xune xaride?
+\g when K       said that S           house bought is
+\l When did Kimea say that Sepide has bought a house?
+
+\t tu madrese bâshe]
+\m tu madrese bâsh-e]
+\g in school be-3sg
+\l As for Kimea, they think (she) is at school today.
+
+\t Mardhai [ke ketabhara be anha dade budid]
+\m Mardha-i [ke ketabhara be anha dade budid]
+\g men         that books  to them you had.given
+\l the men that you had given the books to
+
+\t Mo'allef [ke nevisandeye xubist]
+\m Mo'allef [ke nevisandeye xubi-st]
+\g author that writer       good is
+\l the author, who is a good writer
+
+\t Man zani       ra [ke John be u sibe zamini dad] mishenasam
+\m Man zan-i       ra [ke John be u sibe zamini dad] mishenasam
+\g I     woman-the do that John to her potato       gave know
+\l I know the woman that John gave the potato to.
+
+\t tir=o       kæman
+\m tir=o       kæman
+\g arrow=and bow
+\l bow and arrow
+
+\t Xoda ye (dune) bæradær dad beh=és=o   ye xahær.
+\m Xoda ye (dune) bæradær dad beh=és=o   ye xahær.
+\g God one CLF brother gave to=3S.OBL=and one sister
+\l God gave him a brother and a sister.
+
+\t jâru       khub mizad
+\m jâru       khub mizad
+\g broom      good was hitting
+\l he/she used to sweep well
+
+\t jâru       râ     zad
+\m jâru       râ     zad
+\g broom      OBJ hit
+\l he/she hit the broom
+
+\t niruye havâye artesh irân
+\m niru-ye havâ-ye artesh irân
+\g force-EZ air-EZ army          Iran
+\l the air force of the army of Iran
+
+\t sedâye pâye      man
+\m sedâ-ye pâ-ye      man
+\g sound-ez foot-ez my
+\l (the) sound of my footsteps
+
+\t ruye miz
+\m ru-ye miz
+\g on-ez table
+\l on the table
+
+\t bachehâ     panjare râ shekastand
+\m bache-hâ     panjare râ shekast-and
+\g child-Plur window Obj break-Past-3pl
+\l The children broke the window.
+
+\t (mâ)    kabâb mikhorim
+\m (mâ)    kabâb mi-khor-im
+\g  (we)   kabob Imp-eat-Present/2pl
+\l We are eating kabob.
+
+\t Hushang   be bachehâ       nân dâd
+\m Hushang   be bache-hâ       nân dâd
+\g Hushang   to child-Plur bread gave/3sg
+\l Hushang gave (some) bread to the children.
+
+\t Hushang   nân râ be bachehâ dâd
+\m Hushang   nân râ be bache-hâ dâd
+\g Hushang   bread Obj to child-Plur gave/3sg
+\l Hushang gave the bread to the children.
+
+\t pirzan      vâse bachehâ       dâstâne "mâhi syâhe kuchulu" râ                  ta'rif kard
+\m pirzan      vâse bache-hâ       dâstân-e "mâhi syâh-e kuchulu" râ                  ta'rif kard
+\g old woman for     child-Plur story-Ez         fish black-Ez little      Obj        telling did/3sg
+\l The old woman told the children the story of the"little black fish".
+
+\t mardom dar khyâbânhâ tazâhorât                      mikardand
+\m mardom dar khyâbân-hâ tazâhorât                      mi-kard-and
+\g people    in     street-Plur demonstrations          Imp-do-3pl
+\l People were demonstrating in the streets.
+
+\t bachehâ      raftand     (be) manzel
+\m bache-hâ      raft-and     (be) manzel
+\g child-Plur go-Past-3pl (to) home
+\l The children went home.
+
+\t pâkat      râ      gozâsht       ruye miz
+\m pâkat      râ      gozâsht       ru-ye miz
+\g envelope Obj put-Past-3sg on-Ez table
+\l He/she put the envelope on the table.
+
+\t mardom nemikhâstand          (ke) rafsanjâni dar in entekhâbât barande shavad
+\m mardom ne-mi-khâst-and          (ke) rafsanjâni dar in entekhâbât barande shavad
+\g people neg-Imp-want-Past/3pl (that) Rafsanjani in these elections winner become-Subj/3sg
+\l People didn't want Rafsanjani to win in these elections.
+
+\t bachehâ chi râ shekastand?
+\m bache-hâ chi râ shekast-and?
+\g child-Plur what Obj break-Past-3pl
+\l What did the children break?
+
+\t ki     panjare râ shekast?
+\m ki     panjare râ shekast?
+\g who window Obj break-Past-3sg
+\l Who broke the window?
+
+\t in     do     tâ     ketâbe   kohne
+\m in     do     tâ     ketâb-e   kohne
+\g this two      CL book-Ez       old
+\l These two old books
+
+\t zan         budanash
+\m zan         budan-ash
+\g woman       be-her
+\l her being a woman
+
+\t koshtane          shir
+\m koshtan-e          shir
+\g kill-Ez            lion
+\l the killing of a lion
+
+\t ktab dvst          pdr    daryvsh
+\m ktab dvst          pdr    daryvsh
+\g book      friend father Dariush
+\l Dariush's father's friend's book
+
+\t jlsh     kmysyvn       amvr   daxly mjls              ayn kshvr
+\m jlsh     kmysyvn       amvr   daxly mjls              ayn kshvr
+\g meeting committee affairs internal parliament this country
+\l The meeting of the Committee on Internal affairs of this country's Parliament
+
+\t ketâbe     man
+\m ketâb-e     man
+\g book-Ez     1sg-pronoun1
+\l My book
+
+\t zani      ke     injâ neshaste ast          hamsare    Nâder ast
+\m zan-i      ke     injâ neshaste ast          hamsar-e    Nâder ast
+\g woman-Encl that here sit-Part is             spouse-Ez   Nader is
+\l The woman that is sitting here is Nader's wife.
+
+\t ktâbi      râ ke diruz           kharide budam emruz sobh           tamâm kardam
+\m ktâb-i      râ ke diruz           kharide budam emruz sobh           tamâm kard-am
+\g book-Encl Obj that yesterday bought was             today morning    finish did-1sg
+\l This morning, I finished the book that I had bought yesterday.
+
+\t mâ pesarâni       râ     entekhâb mikonim ke dar jang sherkat   nakardeand
+\m mâ pesar-ân-i       râ     entekhâb mi-kon-im ke dar jang sherkat   na-karde-and
+\g we   boy-Plur-Encl Obj choosing Imp-do-1pl that in war participation neg-done-3pl
+\l We choose (the) boys that have not participated in the war.
+
+\t dâneshmandân            be plâke      kuchaki         dar maqz           pey bordeand ke ân niz           tâkonun       nâshenâxte mânde bud.        
+\m dâneshmandân            be plâk-e      kuchak-i         dar maqz           pey borde-and ke ân niz           tâkonun       nâshenâxte mânde bud.        
+\g scientist-Plur          to plaque-Ez small-Encl         in     brain        found-3pl   that it also         until now     unknown          remained was
+\l Scientists have found a small plaque in the brain that until now had remained undiscovered.
+
+\t in       bachehâ ke           az ânhâ        âdres          miporsidi ...
+\m in       bache-hâ ke           az ânhâ        âdres          mi-porsid-i ...
+\g this     kid-Plur       that   from them      address        Imp-ask-2sg
+\l These kids from whom you asked for the address...
+
+\t shahri       ke dar ân tazâhorât                  shode       bud ...
+\m shahr-i       ke dar ân tazâhorât                  shode       bud ...
+\g city-Encl     that in     it   demonstrations become was
+\l The city in which demonstrations took place...
+
+\t Hushang   be bachehâ       nân dâd
+\m Hushang   be bache-hâ       nân dâd
+\g Hushang   to child-Plur bread gave/3sg
+\l Hushang gave (some) bread to the children.
+
+\t Hushang   nân râ be bachehâ dâd
+\m Hushang   nân râ be bache-hâ dâd
+\g Hushang   bread Obj to child-Plur gave/3sg
+\l Hushang gave the bread to the children.
+
+\t jangandehâye             esraili jonube lobnân       râ        bombârân   kardand
+\m jangande-hâ-ye             esraili jonub-e lobnân       râ        bombârân   kard-and
+\g fighter plane-Plur-Ez      Israeli south-Ez Lebanon Obj           bombing    did-3pl
+\l Israeli fighter planes bombed the south of Lebanon.
+
+\t bombârânhâye      esrail        ma'mulan motevajehe manâteqe          maskunie        jonube lobnân       ast
+\m bombârân-hâ-ye      esrail        ma'mulan motevajeh-e manâteq-e          maskuni-e        jonub-e lobnân       ast
+\g bombardment-Plur-Ez Israel        usually  directed-Ez regions-Ez         residential-Ez south-Ez Lebanon is(3sg)  
+\l Israel's bombardments are usually directed towards the residential regions of the south of Lebanon.
+
+\t sarbâzhâ       golesorxi    râ      dar zendân            shekanje         dâdand
+\m sarbâz-hâ       golesorxi    râ      dar zendân            shekanje         dâdand
+\g soldier-Pl      Golesorkhi Obj in           prison         torture          gave-3pl
+\l The soldiers tortured Golesorkhi in prison.
+
+\t golesorxi    dar zendân        (be daste          sarbâzhâ)      shekanje       did
+\m golesorxi    dar zendân        (be dast-e          sarbâz-hâ)      shekanje       did
+\g Golesorkhi in prison           (to     hand-Ez soldier-Pl)         torture        saw/3sg
+\l Golesorkhi was tortured in jail (by the soldiers).
+
+\t bachehâ       pirmard râ      kotakesh         zadand
+\m bache-hâ       pirmard râ      kotak-esh         zad-and
+\g child-Plur     old man Obj beating-him           hit-3pl
+\l The children beat up the old man.
+
+\t majnun âsheqe leyli shod
+\m majnun âsheq-e leyli shod
+\g Majnun lover-Ez Leyli became
+\l Majnun fell in love with Leyli.
+
+\t shomâre    bikârân          afzâyeshe shadidi           yâfte ast
+\m shomâr-e    bikâr-ân          afzâyesh-e shadid-i           yâfte ast
+\g number-Ez unemployed-Plur increase-Ez intense-Indef found is
+\l The number of the unemployed has increased intensely.
+
+\t englis    xâstâre     moshârekate      rusiye dar halle bohrâne kozovo shod
+\m englis    xâstâr-e     moshârekat-e      rusiye dar hall-e bohrân-e kozovo shod
+\g England requester-Ez cooperation-Ez Russia in solving crisis-Ez Kosovo became
+\l England requested Russia's cooperation in solving the Kosovo crisis.
+
+\t vaqti vâred shodam         nader       dâsht jâru         mizad
+\m vaqti vâred shodam         nader       dâsht jâru         mi-zad
+\g when enter became-1sg      Nader       had-3sg broom Imp-hit
+\l When I entered, Nader   was (in   the process of) sweeping.
+
+\t vaqti vâred shodam         nader       dâsht jâru         râ     mizad
+\m vaqti vâred shodam         nader       dâsht jâru         râ     mi-zad
+\g when enter became-1sg      Nader       had-3sg broom Obj Imp-hit
+\l When I entered, Nader   was (in   the process of) hitting the broom.
+
+\t nader dishab            zamin khord
+\m nader dishab            zamin khord
+\g Nader last night        floor    eat-Past-3sg
+\l Nader fell last night.
+
+\t zamini râ          ke      nader khord bâvar nakardani bud
+\m zamin-i râ          ke      nader khord bâvar nakardani bud
+\g floor-Encl Obj that Nader ate-3sg unbelievable was
+\l The floor that Nader ate was unbelievable.
+
+\t tagarg dishab      be baqe        man     latme zad
+\m tagarg dishab      be baq-e        man     latme zad
+\g hail    last night to garden-Ez my         damage hit-Past-3sg
+\l The hail damaged my garden last night.
+
+\t latmei       râ   ke     tagarg be baqe        man zad         bâvar nakardani bud
+\m latme-i       râ   ke     tagarg be baq-e        man zad         bâvar nakardani bud
+\g damage-Encl Obj that hail          to garden-Ez my hit-3sg unbelievable was
+\l The damage that the hail caused to my garden was unbelievable.
+
+\t  Ketâbhârâ be mardhâ dâde budid.
+\m  Ketâbhâ-râ be mardhâ dâde budid.
+\g books-acc to men given you.are
+\l You have given the books to the men.
+
+\t  mardhâi [ke ketâbhârâ be ânhâ dâde budid]
+\m  mardhâi [ke ketâbhâ-râ be ânhâ dâde budid]
+\g men that books-acc to them given you.are
+\l the man [to whom you have given the books --]
+
+\t Rafti to madrese?
+\m Rafti to madrese?
+\g  went you school
+\l Did you go to school?
+
+\t Bâyad un biyâd?
+\m Bâyad un biyâd?
+\g must he come
+\l Must he come?
+
+\t Man keyk napoxtam.
+\m Man keyk na-poxtam.
+\g I     cake not-cooked
+\l I did not bake cakes.
+
+\t Un naxâhad âmad.
+\m Un na-xâhad âmad.
+\g   he not-will come
+\l He will not come.
+
+\t Man          ruznâme         xaridam.
+\m Man          ruznâme         xarid-am.
+\g I            newspaper       bought-1SG
+\l I bought a newspaper.
+
+\t Simâ az           man         ruznâme   xâst.
+\m Simâ az           man         ruznâme   xâst.
+\g Sima from         me          newspaper wanted.3SG
+\l Sima wanted a newspaper from me.
+
+\t Ruznâmeye         man             injâst.
+\m Ruznâme-ye         man             injâ-st.
+\g newspaper-EZ       me              here-is
+\l My newspaper is here.
+
+\t Man           jiâno      didam.
+\m Man           jiân-o      didam.
+\g I             Jian-RÂ    saw.1SG
+\l I saw Jian.
+
+\t Jiân       mano          did.
+\m Jiân       man-o          did.
+\g Jian       I-RÂ           saw.3SG
+\l Jian saw me.
+
+\t Jiân    in       ketâbo     xarid.
+\m Jiân    in       ketâb-o     xarid.
+\g Jian    this     book+RÂ     bought.3SG
+\l Jian bought this book.
+
+\t Jiân     ye     ketâb        xund.
+\m Jiân     ye     ketâb        xund.
+\g Jian     a      book         read.3SG
+\l Jian read a book.
+
+\t Jiân     ketâbo          xund.
+\m Jiân     ketâb-o          xund.
+\g Jian     book-RÂ          read/3SG
+\l Jian read the book.
+
+\t Man     setâ    qalam xaridam.
+\m Man     se-tâ    qalam xarid-am.
+\g I       three pen      bought-1SG
+\l I bought three pens.
+
+\t Man     setâ     qalamo    xaridam.
+\m Man     se-tâ     qalam-o    xarid-am.
+\g I       three pen+RÂ        bought-1SG
+\l I bought the three pens.
+
+\t Jiân     pirhan        xarid.
+\m Jiân     pirhan        xarid.
+\g Jian    shirt          bought.3SG
+\l Jian bought a shirt.
+
+\t Jiân    pirhano     xarid.
+\m Jiân    pirhan-o     xarid.
+\g Jian    shirt+RÂ     bought.3SG
+\l Jian bought the shirt.
+
+\t k ri e     xúbi
+\m k ri e     xúb-i
+\g work LNK gook-INDEF
+\l good work
+
+\t xúb k ri
+\m xúb k ri
+\g good work
+\l good work
+
+\t mîbinadam
+\m mî-bin-ad-am
+\g DUR-see-3SG.NOM-1SG.ACC
+\l He sees me
+
+\t kojájat           dárd     mîkonad
+\m kojáj-at           dárd     mî-kon-ad
+\g where-2SG.ACC pain          DUR-make-3SG
+\l Where do you have pain?
+
+\t Hasan mardir ke      zan       (ur ) zad      misen sad.
+\m Hasan mardi-r ke      zan       (u-r ) zad      misen sad.
+\g Hasan man-ACC [that woman he-ACC hit]           knows     
+\l Hasan knows the man that the woman hit.
+
+\t "namhay"
+\m "namhay"
+\g name-Plur-Ezafe
+\l (the) names of 
+
+\t urayi              Devlet
+\m ura-yi              Devlet
+\g council-IZA   FET   state
+\l Council of State
+
+\t mîbinadam
+\m mî-bin-ad-am
+\g DUR-see-3SG.NOM-1SG.ACC
+\l He sees me
+
+\t mano behme mixande
+\m man-o beh-me mi-xand-e
+\g I-ra at-1Sg Impf-laugh-3Sg
+\l She laughed at me.
+
+\t man / *mano sardame
+\m man / *man-o sard-am-e
+\g I      I-ra cold-me-3Sg
+\l I am cold.
+
+\t zanira    [ke didid] injast
+\m zan-i-ra    [ke did-id] inja-st
+\g woman-Ez-RA that see-2Sg here-be
+\l The woman whom you saw is here.
+
+\t aliro / *ali man ba'es odam            a             a        s
+\m ali-ro / *ali man ba'es od-am            a             a        s
+\g Ali-ra Ali I      cause became-1Sg that house-ra to Mina Neg-sell-3Sg
+\l As for Ali, I caused him not to sell the house to Mina.
+
+\t ¯nh¯ / *anh¯ro benazar miresad          a    ¯        a         foruxtand]
+\m ¯nh¯ / *anh¯-ro be-nazar mi-res-ad          a    ¯        a         foruxt-and]
+\g they     they-ra to-sight Impf-appear-it that house-ra to Mina      sold-3Pl   
+\l As for them, it seems that they sold the house to Mina.
+
+\t xærab       bekonæd]
+\m xærab       be-kon-æd]
+\g destroy     SUB-do-3PL
+\l I predicted that the workers would destroy the house.
+
+\t Ali een ketab ra fekrmikone ke Mehry be Hassan dad.
+\m Ali een ketab ra fekrmikone ke Mehry be Hassan dad.
+\g Ali this book SPC thinks       that Mehry to Hassan gives
+\l Ali thinks that Mehry is giving this book to Hassan
+
+\t moege         un masine          to        nist?
+\m moege         un masin-e          to        nist?
+\g  INT          that car-EZ         you       isn't
+\l Isn't that car yours?
+
+\t sagh¯ tavassote Hasan kote      s
+\m sag-h¯ tavassot-e Hasan kot-e      s
+\g dog-Pl by.means-of Hasan killed-Ptc became-3Pl
+\l The dogs were killed by Hasan.
+
+\t lebâse         arusie         sefide            bi âstine                 maryam
+\m lebâs-e         arusi-e         sefid-e            bi âstin-e                 maryam
+\g dress-EZ        wedding-EZ      white-EZ           without sleeve-EZ          Maryam
+\l Maryam's white wedding dress without sleeves
+
+\t bahs                      bâ omid
+\m bahs                      bâ omid
+\g discussion                with Omid
+\l discussion with Omid
+
+\t bahse          diruze          maryam                 bâ omid
+\m bahs-e          diruz-e          maryam                 bâ omid
+\g discussion-EZ   yesterday-EZ     Maryam                 with Omid
+\l Maryam's yesterday's discussion with Omid
+
+\t mardi          ke         vâred sod
+\m mard-i          ke         vâred sod
+\g man-RESTR       that       entered become.P AS
+\l the man who entered
+
+\t bâ Omid          midânam ke            bâhse maryam                   natijei nadâd
+\m bâ Omid          mi-dân-am ke            bâhs-e maryam                   natije-i na-dâd
+\g with Omid        TMA-know.PRES-1SG that discussion-EZ Maryam             result-INDEF NEG-give.P AS
+\l I know that Maryam's discussion with Omid gave no result
+
+\t ân      ketâbi râ                  xaridam           ke       dar vitrin          bud
+\m ân      ketâb-i râ                  xarid-am           ke       dar vitrin          bud
+\g that     book-RESTR RÂ              buy.PAS-1.SG    that     in window           be.P  AS
+\l I bought the book that was in the window
+
+\t behtarin (*e)     ketâb
+\m behtarin (-*e)     ketâb
+\g best (-ez)         book
+\l the best book
+
+\t negarâne       maryam
+\m negarân-e       maryam
+\g worry-EZ        Maryam
+\l worried about maryam
+
+\t bizâr             az zendegi
+\m bizâr             az zendegi
+\g disgusted         of life
+\l disgusted of life
+
+\t  xaste az kâr /             xasteye kar
+\m  xaste az kâr /             xaste-ye kar
+\g tired     of work /         tired-EZ work
+\l tired of work
+
+\t ruye miz /        ru      miz
+\m ru-ye miz /        ru      miz
+\g on-EZ table /      on      table
+\l on (the) table
+
+\t ruye miz        râ       so st
+\m ru-ye miz        râ       so st
+\g on-EZ table      RÂ      wash.PAS
+\l  She/he washed the surface of the table
+
+\t maryam          ruye miz         ketâb     gozâst
+\m maryam          ru-ye miz         ketâb     gozâst
+\g Marya            on-EZ table      book      put.PAS
+\l Maryam put a/the book(s) on the table
+
+\t  ketâbe        târixe          sabze               bi arzese     maryam6
+\m  ketâb-e        târix-e          sabz-e               bi arzes-e     maryam6
+\g book-EZ         history-EZ       green-EZ             without value-EZ Maryam
+\l Maryam's green history book without any value
+
+\t  ketâbe        târixe          bi arzese       sabze                maryam
+\m  ketâb-e        târix-e          bi arzes-e       sabz-e                maryam
+\g book-EZ         history-EZ       without value-EZ green-EZ              Maryam
+\l Maryam's green history book without any value
+
+\t otâqe kucike zire sirvunie ali
+\m otâq-e kucik-e zir-e sirvuni-e ali
+\g room-EZ small-EZ under-EZ roof-EZ Ali
+\l Ali's small room under the roof
+
+\t mardome xasmgine tehrân bepâ xâstand
+\m mardom-e xasmgin-e tehrân bepâ xâstand
+\g people-EZ angry-EZ Tehran stand.PAS
+\l The angry people of Tehran rose up
+
+\t mardome xasmgin az ertejâye tehrân bepâ xâstand8
+\m mardom-e xasmgin az ertejâ-ye tehrân bepâ xâstand8
+\g         people-EZ angry at reactionaires-EZ Tehran stand-PAS
+\l The people of Tehran angry at the reactionary forces rose up
+
+\t mardome Tehran, xasmgin az erteja', bepâ xâstand
+\m mardom-e Tehran, xasmgin az erteja', bepâ xâstand
+\g people-EZ Tehran, angry at reactionaries, stand-PAS
+\l The people of Tehran, angry at the reactionary forces, rose up
+
+\t mardome iran, xoshâl ke sâh kesvar râ tark kard, jasn gereftand
+\m mardom-e iran, xoshâl ke sâh kesvar râ tark kard, jasn gereft-and
+\g people-EZ Iran, happy that Shah country left.PAS feast take.PAS-3.PL
+\l The people of Iran, happy that Shah left the country, celebrated
+
+\t âftâbe ba'd az bârun       qasange
+\m âftâb-e ba'd az bârun       qasang-e
+\g sun-EZ after from rain beautiful-C OP.3.   SG
+\l The sun after the rain is beautiful
+
+\t âftâb, ba'd az in ke bârun biâd,                               qasange
+\m âftâb, ba'd az in ke bârun biâd,                               qasang-e
+\g sun,    after from this that rain come.PRES,                   beautiful-C OP.3.   SG
+\l The sun, after it has rained, is beautiful
+
+\t molâqâte       qabl az zohre            mâ              jâleb bud
+\m molâqât-e       qabl az zohr-e            mâ              jâleb bud
+\g meeting-EZ      before from noon-EZ       us              interesting be.PAS
+\l Our meeting before noon was interesting
+
+\t bahse           bâ ajaleye       hasan jâleb bud
+\m bahs-e           bâ ajale-ye       hasan jâleb bud
+\g discussion-EZ    with haste-EZ     Hasan interesting be.PAS
+\l Hasan's hasty discussion was interesting
+
+\t otâqe           kucike          zire sirvunie ali
+\m otâq-e           kucik-e          zir-e sirvuni-e ali
+\g room-EZ          small-EZ         under-EZ roof-EZ Ali
+\l Ali's small room under the roof
+
+\t otâqe kucike             zire sirvunie jiâne        ali
+\m otâq-e kucik-e             zir-e sirvuni-e jiân-e        ali
+\g room-EZ small-EZ            under-EZ roof-EZ Jian-EZ   Ali
+\l Ali's small room under Jian's roof
+
+\t otâqe kucike ali, zire sirvunie Jiân
+\m otâq-e kucik-e ali, zir-e sirvuni-e Jiân
+\g room-EZ small-EZ Ali, under-EZ roof-EZ Jian
+\l Ali's small room, under Jian's roof
+
+\t otâqe            kucike         zire in sirvunie ali
+\m otâq-e            kucik-e         zir-e in sirvuni-e ali
+\g room-EZ            small-EZ        under-EZ Dem roof-EZ   Ali
+\l Ali's small room under this roof
+
+\t mardi,         negarâne baccehâyas,                               vâred sod
+\m mard-i,         negarân-e bacce-hâ-yas,                               vâred sod
+\g man-INDEF,      worried-EZ children-PL-PAF.3.S            G           entered become.P AS
+\l A man, worried about his children, entered
+
+\t  zâheran          abdoljalil         ham         bâ range                 paride     va        casmâne         [negarâne           forurixtane              divâre xâneas]AP         ân taraftar       istâde (...) bud. 
+\m  zâheran          abdoljalil         ham         bâ rang-e                 paride     va        casm-ân-e         [negarân-e           forurixtan-e              divâr-e xâne-as]AP         ân taraftar       istâde (...) bud. 
+\g apparently        Abdoljalil         also        with colour-EZ            flied      and       eye-PL-EZ         worried-EZ           crumble-EZ                wall-EZ house-PAF.3.SG     farther           stood (...) be.PAS
+\l of his house was staning farther.
+
+\t  marde         negarâne         baccehâyas                             vâred sod
+\m  mard-e         negarân-e         bacce-hâ-yas                             vâred sod
+\g man-EZ          worried-EZ        children-PL-P       AF.3.SG       entered become-P AS
+\l The man worried about his children entered
+
+\t  sahre tehrân, (...),        tavassote     niruhâye qazzâge     [mostaqqar dar qazvin      ] AP              fath sode bud10
+\m  sahr-e tehrân, (...),        tavassot-e     niru-hâ-ye qazzâg-e     [mostaqqar dar qazvin      ] AP              fath sode bud10
+\g city-EZ Tehran, (...),        by means-EZforce-PL-EZ Kozak-EZ        based in Qazvin                      conquered became be.PAS
+\l The city of Tehran was    conquerred by Kozak forced which were based in Qazvin
+
+\t  ...nazme ostân              tavassote          in javâne        [az suis               bar gaste]     bistar hâsel xâhad          âmad11    
+\m  ...nazm-e ostân              tavassot-e          in javân-e        [az suis               bar gaste]     bistar hâsel xâhad          âmad11    
+\g order-EZ province             by means-EZ         this young-EZ     from Switzerland       back came      more gained AUX               come.PAS
+\l (...) the province's order   will be better established by this young man came back from Switzerland
+
+\t (35)Agar sabr konid            zane [zibatar         va tannâztar                             az ân]         râ     peydâ xâhid kard12     
+\m (35)Agar sabr kon-id            zan-e [ziba-tar         va tannâz-tar                             az ân]         râ     peydâ xâhid kard12     
+\g     If waiting do.PRES-2.SG woman-EZ beautiful-CPR and charming-CPR                               of this    RÂ         found aux        do.PAS
+\l If you wait you will find a more beautiful and charming woman than her
+
+\t  ruze [qabl az                   dastgirie        farmânfarmâ va pesarânas]      PP
+\m  ruz-e [qabl az                   dastgiri-e        farmânfarmâ va pesar-ân-as]      PP
+\g day-EZ before of        arrest-EZ          Farmânfarma and son-PL-PAF.3.SG (...)
+\l The day before Farmânfarmâ's and his sons' arrest
+
+\t  cerâ           xâneye [be ân qasangi]PP râ           foruxte
+\m  cerâ           xâne-ye [be ân qasangi]PP râ           foruxte
+\g why             house-EZ to that beauty RÂ             sold
+\l Why has she sold such a beautiful house?
+
+\t  nemitavânestam           tasmim begiram          sobhhâye       [bâ mâdar]PP râ     bistar dust dâram           yâ       sobhhâye    [bâ kabutarhâ]PP râ15. more like.PRES1.       SG
+\m  ne-mi-tavânest-am           tasmim be-gir-am          sobh-hâ-ye       [bâ mâdar]PP râ     bistar dust dâr-am           yâ       sobh-hâ-ye    [bâ kabutar-hâ]PP râ15. more like.PRES-1.       SG
+\g NEG-TMA-can.PAS-1.SG         decision TAM-take-1.SG morning-PL-EZ with mother RÂ            or       morning-PL-EZ       with pigeon-PL RÂ                                                        
+\l I could not decide wheth   er I loved more the mornings with mother or the ones with the pigeons
+
+\t  sekkehâye      [tuye jibe      salvâras]PP           sarosedâ mikard
+\m  sekke-hâ-ye      [tu-ye jib-e      salvâr-as]PP           sar-o-sedâ mi-kard
+\g coin-PL-EZ         in-EZ pocket-EZ tousers-PAF.3.SG noise TAM-do.PAS
+\l The coins in his trousers' pocket were making some noise
+
+\t kabirakey    le her dû cejn              bû
+\m kabira-ke-y    le her dû cejn              bû
+\g man-DEF-EZ     to each two celebration be.P AS
+\l The man who could assist both celebrations
+
+\t taqe   hunerêkî         ke       bûy (...)
+\m taq-e   huner-êk-î         ke       bû-y (...)
+\g only-EZ talent-INDEF-EZ that        be.PAS-3.S   G
+\l The only talent that he had (...)
+
+\t  mardome        [nârâzi az inke            qeymate naft har ruz afzâyes      miyâbad]AP
+\m  mardom-e        [nârâzi az in-ke            qeymat-e naft har ruz afzâyes      mi-yâb-ad]AP
+\g people-EZ        upset of this-that          price-EZ petrol every day increase TAM-find.PRES-3.SG
+\l The people upset that petrol's price increase every day
+
+\t barâdare       [bizâr az tehrân]APe                    man
+\m barâdar-e       [bizâr az tehrân]AP-e                    man
+\g brother-EZ      disgusted of Tehran]-EZ                  me
+\l my brother who is disgusted with Tehran
+
+\t barâdare       [bizâr azas]APe         man
+\m barâdar-e       [bizâr az-as]AP-e         man
+\g brother-EZ        disgusted of-PAF.3.SG-EZ me
+\l my brother who is disgusted with it
+
+\t  ...nazme ostân              tavassote          in javâne        [az suis               bar gaste]RR   C     bistar hâsel xâhad          âmad16    
+\m  ...nazm-e ostân              tavassot-e          in javân-e        [az suis               bar gaste]RR   C     bistar hâsel xâhad          âmad16    
+\g order-EZ province             by means-EZ         this young-EZ     from Switzerland       back turn.PP         more gained AUX               come.PAS
+\l (...) the province's order   will be better established by this young man came back from Switzerland
+
+\t (48) mlnarmînê
+\m (48) ml-narmîn-ê
+\g     house-EZ.FEM   Narmin-O   BL.FEM
+\l Narmin's house
+
+\t doxtar kucike tu hayâte
+\m doxtar kucik-e tu hayât-e
+\g girl little-DEF in yard-COP.3.SG
+\l The little girl is in the yard
+
+\t lebâs germez bi âstine tu komode
+\m lebâs germez bi âstin-e tu komod-e
+\g dress red without sleeve-DEF in wardrobe-COP.3.SG
+\l The red dress without sleeves is in the wardrobe
+
+\t  doxtareye ahmaq
+\m  doxtar-e-ye ahmaq
+\g girl-DEF-EZ silly
+\l The silly girl
+
+\t  in bâr âhang    hamâni          bud ke            pesareye filme hendi       barâye doxtare        mizad19     
+\m  in bâr âhang    hamân-i          bud ke            pesar-e-ye film-e hendi       barâ-ye doxtar-e        mi-zad19     
+\g this time melody same-RESTR       be.PAS that       boy-DEF-EZ film-EZ Indian     for-EZ girl-DEF          TAM-beat/PAS
+\l This time the melody was the same as the one the boy was playing for the girl, in the Indian film 
+
+\t  lebâs qermezeye maryam         az hameye lebâsâs                 xosgeltare
+\m  lebâs qermez-e-ye maryam         az hame-ye lebâs-â-s                 xosgel-tar-e
+\g dress red-DEF-EZ Maryam           of all-EZ dress-PL-PAF.3.SG          beautiful-CPR-C   OP.3.SG
+\l Maryam's red dress is the most beautiful one of all her dresses
+
+\t koto salvare
+\m kot-o salvar-e
+\g coat-and trousers-DEF
+\l the suit
+
+\t ketâbe         târixe irâne mo'âseri                    ruye miz bud
+\m ketâb-e         târix-e irân-e mo'âser-i                    ru-ye miz bud
+\g book-EZ         history-EZ Iran-EZ contemporary-IND         on-EZ table be.P   AS
+\l A book of contemporary Iran's history was on the table
+
+\t irânie           moqime farânsei                 vâred sod
+\m irâni-e           moqim-e farânse-i                 vâred sod
+\g Iranian-EZ        resident-EZ France-IN   D         entered become.P AS
+\l An Iranian resident of France entered
+
+\t maryam          dar asemân         setârei            did
+\m maryam          dar asemân         setâre-i            did
+\g Maryam          in sky             star-IND   EF       see.P AS S
+\l Maryam saw a star in the sky
+
+\t setârei         ke maryam dar asemân did          poste abr penhân sod
+\m setâre-i         ke maryam dar asemân did          post-e abr penhân sod
+\g star-RESTR       that Maryam in sky see.PAS        behind-EZ cloud hidden become.P AS
+\l The star that Maryam saw in the sky disappeared behind a cloud
+
+\t irâniâne javâne moqime farânsei ke dar pâris didim
+\m irâni-ân-e javân-e moqim-e farânse-i ke dar pâris did-im
+\g Iranian-PL-EZ young-EZ resident-EZ France-INDEF that in Paris see.P AS-1.   PL
+\l The young Iranians resident of France whom we met in Paris
+
+\t bacce, arumes            xube
+\m bacce, arum-es            xub-e
+\g child, calm-PAF.3.SG good-C OP.3.   SG
+\l A good child is a calm one
+
+\t qahremâne         [az mihanas              rânde sode]RRCye                 in roman
+\m qahremân-e         [az mihan-as              rânde sode]RRC-ye                 in roman
+\g hero-EZ            from homeland-PAF.3.SG drive.PP become.PP]-EZ        this novel
+\l the heros of this novel, who is driven away from his homeland
+
+\t qahremâne       [rânde sode             az mihanas]RRC
+\m qahremân-e       [rânde sode             az mihan-as]RRC
+\g hero-EZ          drive.PP become.PP      from homeland-P AF.3.SG
+\l The hero driven away from his homeland
+
+\t  hamsâyeye negarâne baccehâyase            maryam
+\m  hamsâye-ye negarân-e bacce-hâ-yas-e            maryam
+\g neighbour-EZ    worried-EZ child-PL-PAF.3.SG-EZ maryam
+\l The neighbour of Maryam who is worried about his children
+
+\t hamvatanâne             moqime farânseye         mâ
+\m hamvatan-ân-e             moqim-e farânse-ye         mâ
+\g compatriot-PL-EZ          resident-EZ France-EZ      we
+\l Our compatriots resident in France
+
+\t ketâbe        târixe irâne mo'âsere              maryam
+\m ketâb-e        târix-e irân-e mo'âser-e              maryam
+\g book-EZ        history-EZ Iran-EZ contemporary       Maryam
+\l Maryam's book of contemporary Iran's history
+
+\t baccehâye      az panj sâl bozorgtare            in kelâs
+\m bacce-hâ-ye      az panj sâl bozorg-tar-e            in kelâs
+\g child-PL-EZ      from five year big-SPR-EZ           this class
+\l Those children of this class who are more than five years old
+
+\t  vilâye          labe daryâye xazare             amuyam
+\m  vilâ-ye          lab-e daryâ-ye xazar-e             amu-yam
+\g villa-EZ          edge-EZ sea-EZ Caspian-EZ          uncle-PAF.1.SG
+\l My uncle's villa on the Caspian sea coast
+
+\t yek ketâbe     maryam
+\m yek ketâb-e     maryam
+\g one book-EZ     Maryam
+\l A book of Maryam / one of Maryam's books
+
+\t in duste         âseqe filmhâye viskontie       man
+\m in dust-e         âseq-e film-hâ-ye viskonti-e       man
+\g DEM  friend-EZ fond-EZ movie-PL-EZ Visconti-EZ PRO.1.SG
+\l This friend of mine who is fond of Visconti's film
+
+\t maryam           âseqe omid               ast
+\m maryam           âseq-e omid               ast
+\g Maryam           in love-EZ Omid           be.PRES
+\l Maryam is in love with Omid
+
+\t maryam          goldân râ          ruye miz               gozâst
+\m maryam          goldân râ          ruy-e miz               gozâst
+\g Maryam          vase RÂ            on-EZ table             put.PAS
+\l Maryam put the vase on the table
+
+\t zanâne      sâkene            in mahalle
+\m zan-ân-e      sâken-e            in mahalle
+\g woman-PL-EZ   resident-EZ        this neighbourhood
+\l The women who are residents of this neighbourhood
+
+\t sâkenâne        in mahalle
+\m sâken-ân-e        in mahalle
+\g resident-PL-EZ this neighbourhood
+\l The residents of this neighbourhood
+
+\t  kafshâye qermeze tuye vitrin         az siâhhâye tuue in ja'be          qasangtar hastand
+\m  kafs-hâ-ye qermez-e tu-ye vitrin         az siâh-hâ-ye tu-ue in ja'be          qasang-tar hast-and
+\g shoe-PL-EZ red-EZ in-EZ window            of black-PL-EZ in-EZ this box         nice-SPR ba.PRES-3.PL
+\l The red shoes in the window are more beautiful that the black ones in this box
+
+\t maryam           âseqes               bud
+\m maryam           âseq-es               bud
+\g Maryam           in love-PAF.3.SG   be.P   AS
+\l Maryam is in love with him
+
+\t maryam          goldân râ             ruyas gozâst
+\m maryam          goldân râ             ruy-as gozâst
+\g Maryam          vase RÂ              on-PAF.3.SG
+\l Maryam put the vase on it
+
+\t sedâye bacce               senidam
+\m sedâ-ye bacce               senid-am
+\g voice-EZ child              hear.PAS-1.SG
+\l I heard a child's voice
+
+\t sedâye bacce râ            senidam
+\m sedâ-ye bacce râ            senid-am
+\g voice-EZ child RÂ           hear.PAS-1.SG
+\l I heard the child's voice
+
+\t umades
+\m umad-es
+\g come.PAS-PAF.3.SG
+\l She/he came
+
+\t sedâye         bacceye          in zan
+\m sedâ-ye         bacce-ye          in zan
+\g voice-EZ        child-EZ          this woman
+\l This woman's child's voice
+
+\t sedaye           bolande           bacce
+\m seda-ye           boland-e           bacce
+\g voice-EZ          high-EZ            child
+\l A high child's voice
+
+\t  sedâye          gusxarâse         havâpeymâ
+\m  sedâ-ye          gusxarâs-e         havâpeymâ
+\g sound-EZ          strident-EZ        plane
+\l a strident sound of plane
+
+\t sedâye           sekastane sise             senidam (...)27
+\m sedâ-ye           sekastan-e sise             senid-am (...)27
+\g sound-EZ          break.INF-EZ glass           hear.PAS-1.SG
+\l I heard a voice of breaking glass / I heard the glass breaking
+
+\t qabl az           dus gereftan,    Maryam          yek fenjân qahve               nusid
+\m qabl az           dus gereftan,    Maryam          yek fenjân qahve               nusid
+\g before of         shower take.INF, Maryam          one cup coffee                 drink.P AS
+\l Before taking a shower, Maryam drank a cup of coffee
+
+\t qabl az         dus gereftane Omid,             Maryam yek fenjân qahve nusid
+\m qabl az         dus gereftan-e Omid,             Maryam yek fenjân qahve nusid
+\g before of       shower take.INF-EZ Omid,         Maryam one cup coffee drink.PA            S
+\l Before Omid take a shower, Maryam drank a cup of coffee
+
+\t sab hengâm (...)            con      be xâne            bar gast,               bâ gereftane dus           va xâbidan dar vân (...) dobâre jân gereft28   
+\m sab hengâm (...)            con      be xâne            bar gast,               bâ gereftan-e dus           va xâbidan dar vân (...) dobâre jân gereft28   
+\g night time (...)            when to home                return.PAS              with take.INF-EZ shower     and sleep in bath (...)     again soul take.PAS
+\l At the evening, when h   e went back home, after tak   ing a shower and lying in the bath, he got his strength back
+
+\t setâ ketâbe hasan
+\m se-tâ ketâb-e hasan
+\g three-UNIT book-EZ Hasan
+\l Hasan's three books
+
+\t setâ az ketâbhâye hasan
+\m se-tâ az ketâb-hâ-ye hasan
+\g three-UNIT of book-PL-EZ Hasan
+\l three of Hasan's books
+
+\t yek dânesjuye sâbeqam            ham       injâ   dar ohayo        hast29
+\m yek dânesju-ye sâbeq-am            ham       injâ   dar ohayo        hast29
+\g one student-EZ ancient-PAF.1.SG also         here   in Ohio             be.PRES
+\l One of my Ancient studients is also here, in Ohio
+
+\t agar      yek muye sebilam râ               tuye bazaar     gerow begozâram (...)3   0
+\m agar      yek mu-ye sebil-am râ               tu-ye bazaar     gerow be-gozâr-am (...)3   0
+\g if        one hair-Ez mustache PAF.1.SG RÂ in-EZ bazaar         security put
+\l If I leave just one hair of my mustache as a security in bazar (...)
+
+\t ketâbie maryam
+\m ketâb-i-e maryam
+\g book-INDEF-EZ Maryam
+\l a book of Maryam
+
+\t ketâbe maryami
+\m ketâb-e maryam-i
+\g book-EZ Maryam-INDEF
+\l a book of Maryam
+
+\t ketâbe maryami ke ruye miz bud
+\m ketâb-e maryam-i ke ru-ye miz bud
+\g book-EZ Maryam-RESTR that on-EZ table be.PAS
+\l Maryam's book that was on the table
+
+\t yek most xâke irâni             ke maryam bâ xodas be xârej âvarde bud
+\m yek most xâk-e irân-i             ke maryam bâ xod-as be xârej âvarde bud
+\g one handful soil-EZ Iran-RESTR      that Maryam with self-PAF.3.SG to abroad taken be.P AS
+\l The handful of Iran's soil that Maryam had brought abroad with herself
+
+\t ân tâblohâye pikâsoi         ke dar in galeri be namâyes gozâste sodeand
+\m ân tâblo-hâ-ye pikâso-i         ke dar in galeri be namâyes gozâste sode-and
+\g DEM painting-PL-EZ Picasso-RESTR that in this galley to exposition put become-3.PL
+\l Those Picasso's painting which are axposed in this gallery
+
+\t zibâtarin        zan
+\m zibâtarin        zan
+\g beautiful.SPR    woman
+\l The most beautiful woman
+
+\t zibâtarin râ               mixâham
+\m zibâtarin râ               mi-xâh-am
+\g beautiful.SPR RÂ           TAM-want.P     RES-1  SG
+\l I want the most beautiful one
+
+\t zibâtarine                ânhâ râ                    mixâham
+\m zibâtarin-e                ânhâ râ                    mi-xâh-am
+\g beautiful.SPR-EZ           they RÂ                    TAM-want.P  RES-1  SG
+\l I want the most beautiful of them
+
+\t ruze avval
+\m ruz-e avval
+\g day-EZ first
+\l the first day
+
+\t zibâ            doxtarâne        maryam
+\m zibâ            doxtar-ân-e        maryam
+\g beautiful       girl-PL-EZ         Maryam
+\l Maryam's beautiful girls
+
+\t doxtarâne     zibâye          maryam
+\m doxtar-ân-e     zibâ-ye          maryam
+\g girl-PL-EZ      beautiful-EZ     Maryam
+\l Maryam's beautiful girls
+
+\t har zibâ doxtari
+\m har zibâ doxtar-i
+\g each beautiful girl-IN   DEF
+\l every beautiful girl
+
+\t avallin zibâ doxtar
+\m avallin zibâ doxtar
+\g first beautiful girl
+\l the first beautiful girl
+
+\t avallin va         âxarin române in nevisande
+\m avallin va         âxarin român-e in nevisande
+\g first    and       last novel-EZ      this author
+\l The first and the last novel of this author
+
+\t jâlebtarin      dastânhâye maryam       va romanhâye omid
+\m jâlebtarin      dastân-hâ-ye maryam       va roman-hâ-ye omid
+\g interesting.SPR story-PL-EZ Maryam        and novel-PL-EZ omid
+\l Maryam's most interesting stories and Omid's most interesting novels
+
+\t zibâ           va        ra'nâ doxtar
+\m zibâ           va        ra'nâ doxtar
+\g beautiful         and       slender girl
+\l a beautiful and slender girl
+
+\t kodâm romanhâye maryam        va dâstânhâye Omid
+\m kodâm roman-hâ-ye maryam        va dâstân-hâ-ye Omid
+\g which novel-PL-EZ Maryam        and story-PL-EZ Omid
+\l Which novels of Maryam and stories of Omid
+
+\t in lebâshâye maryam           va kafshâye omid
+\m in lebâs-hâ-ye maryam           va kafs-hâ-ye omid
+\g this dress-PL-EZ Maryam         and show-PL-EZ Omid
+\l Maryam's these dresses and Omid's these shows
+
+\t har irâni moqime farânse                  ya farânsavie moqime irâni
+\m har irân-i moqim-e farânse                  ya farânsavi-e moqim-e irân-i
+\g any Iranian-INDEF resident-EZ France        or French-EZ resident-EZ Iran-INDEF
+\l Any Iranian resident in France or any French resident in Iran
+
+\t do irânie moqime farânse va do farânsavie moqime irân
+\m do irâni-e moqim-e farânse va do farânsavi-e moqim-e irân
+\g two Iranian-EZ resident-EZ France and two French-EZ resident-EZ Iran
+\l Two Iranians resident of France and two French people resident of Iran
+
+\t lebâse âbi      va kolâhe siâhe          tuye   vitrin
+\m lebâs-e âbi      va kolâh-e siâh-e          tu-ye   vitrin
+\g dress-EZ blue    and hat-EZ black-EZ        in-EZ   window
+\l The blue dress and the black hat in the window
+
+\t lebâse âbi     va kolâhe siâhe          maryam
+\m lebâs-e âbi     va kolâh-e siâh-e          maryam
+\g dress EZ blue   and hat-EZ black-EZ        Maryam
+\l Maryam's blue dress and black hat
+
+\t mojgâne       az rimel sangine            (maryam)
+\m mojgân-e       az rimel sangin-e            (maryam)
+\g eyelid.PL-EZ   of mascara heavy-EZ       (Maryam)
+\l Maryam's mascara-laden eyelids
+
+\t maryam zibâye ast
+\m maryam zibâ-ye ast
+\g Maryam-EZ beautiful be.PRES
+\l Maryam is beautiful
+
+\t (Man) fekr nemikardam (ke) pesar zabanshenasi bekhanad.
+\m (Man) fekr ne-mikardam (ke) pesar zabanshenasi bekhanad.
+\g  I-thought-didn't-CMP-boy-linguistics-studiesSJT
+\l I did not think that the boy would study linguistics.
+
+\t (Man) midanestam (ke) pesar zabanshenasi khahad khand.
+\m (Man) midanestam (ke) pesar zabanshenasi khahad khand.
+\g  I-knew-CMP-boy-linguistics-FUT-studied
+\l I knew that the boy would study linguistics.
+
+\t    Ch. migooyad (ke) ghoveye zaban ensani fetri ast.
+\m    Ch. migooyad (ke) ghoveye zaban ensani fetri ast.
+\g N.C.-says-CMP-human-lang.-innate-is
+\l Noam Chomsky says (that) the human language faculty is innate.
+
+\t Ma pedar ra didim.
+\m Ma pedar ra didim.
+\g  we-father-ACC/DEF-saw
+\l We saw the father.
+
+\t Man sag didam
+\m Man sag didam
+\g  I-dog-saw
+\l I saw a dog.
+
+\t Man ghaza ra khordam
+\m Man ghaza ra khordam
+\g  I-food-ACC/DEF-ate
+\l I have eaten the food.
+
+\t Man ghazaii khordam
+\m Man ghazaii khordam
+\g  I-foodGEN-ate
+\l I ate some food.
+
+\t In ke u zabanshenasi mikhanad zarar nadarad.
+\m In ke u zabanshenasi mikhanad zarar nadarad.
+\g this-CMP-he-linguistics-studies-harm-NEGhave
+\l That he studies linguistics does not do any harm.
+
+\t In ke u raghsid       ma ra    khandand.
+\m In ke u raghsid       ma ra    khandand.
+\g this-CMP-he-danced ­ we ­ ACC/DEF-made-laugh
+\l That he danced amused us.
+
+\t (tou) zabanshenasi bekhan!
+\m (tou) zabanshenasi be-khan!
+\g you-linguistics ­ JUSSstudy
+\l Study linguistics!
+
+\t (tou) zabanshenasi nakhan!
+\m (tou) zabanshenasi na-khan!
+\g  you-linguistics-PROHstudy
+\l Don't (you) study linguistics !
+
+\t asbemard
+\m asb-e-mard
+\g horse-LINKER-man
+\l the man's horse
+
+\t  Ketâbhârâ be mardhâ dâde budid.
+\m  Ketâbhâ-râ be mardhâ dâde budid.
+\g books-acc to men given you.are
+\l You have given the books to the men.
+
+\t  mardhâi [ke ketâbhârâ be ânhâ dâde budid]
+\m  mardhâi [ke ketâbhâ-râ be ânhâ dâde budid]
+\g men that books-acc to them given you.are
+\l the man [to whom you have given the books --]
+
+\t in     do     tâ     ketâbe   kohne
+\m in     do     tâ     ketâb-e   kohne
+\g this two      CL book-EZ       old
+\l These two old books
+
+\t zan         budanash
+\m zan         budan-ash
+\g woman       be-her
+\l her being a woman
+
+\t koshtane          shir
+\m koshtan-e          shir
+\g kill-EZ            lion
+\l the killing of a lion
+
+\t ketâbe       man
+\m ketâb-e       man
+\g book-EZ       1sg-pronoun2
+\l My book
+
+\t ketâbe       dâryush
+\m ketâb-e       dâryush
+\g book-EZ       Dariush
+\l Dariush's book
+
+\t ktab dvst      pdr    daryvsh
+\m ktab dvst      pdr    daryvsh
+\g book   friend father Dariush
+\l Dariush's father's friend's book
+
+\t bh gfth        ayn xbrgzary         vzyr       xarJh    âyndh      kshvr   banv âlbrayt ast
+\m bh gfth        ayn xbrgzary         vzyr       xarJh    âyndh      kshvr   banv âlbrayt ast
+\g according to   this news agency minister foreign        future     country lady    Albright is
+\l According to this news agency the future foreign minister of the country is Lady Albright.
+
+\t bh gfth        xbrgzary        fransh vzyr          xarJh     âyndh    âmryka        banv âlbrayt ast
+\m bh gfth        xbrgzary        fransh vzyr          xarJh     âyndh    âmryka        banv âlbrayt ast
+\g according to   news agency France          minister foreign   future   United States lady   Albright is
+\l According to France's news agency the future foreign minister of United States is Lady Albright.
+
+\t shirâze        zibâye         mâ
+\m shirâz-e        zibâ-ye         mâ
+\g   Shiraz-ez     beautiful-ez our
+\l our beautiful Shiraz
+
+\t mrdmy         Azadh   rvabT    aqtSqdy     ayran      ra    mhm     mydannd kh ...
+\m mrdmy         Azadh   rvabT    aqtSqdy     ayran      ra    mhm     mydannd kh ...
+\g people-IE     noble   relations economic   Iran       OBJ important know-3pl   that...
+\l (Those) noble people consider Iran's economic relations important who...
+
+\t hmsayganman                 ktab khnh shma               ra    brdashtnd
+\m hmsayganman                 ktab khnh shma               ra    brdashtnd
+\g neighbor-Plur-Clitic(1pl) book      old    you(2pl)      OBJ   took-3pl
+\l Our neighbors took your old book.
+
+\t danshmndan bh plak kvchky                     dr mQz py brdhand kh An nyz taknvn nashnaxth mandh bvd.
+\m danshmndan bh plak kvchk-y                     dr mQz py brdhand kh An nyz taknvn nashnaxth mandh bvd.
+\g scientists         to plaque small-Encl in brain found                        that it also until now unknown had remained
+\l Scientists have found a small plaque in the brain that until now had remained undiscovered.
+
+\t ayn       bchhha kh             az Anha Adrs myprsydy [in bachehâ ke az ânhâ âdres miporsidi]
+\m ayn       bchh-ha kh             az Anha Adrs myprsydy [in bachehâ ke az ânhâ âdres miporsidi]
+\g this      kid-Plur that          from them address ask(imp/2sg)
+\l These kids from whom you asked for the address
+
+\t shhry         ke dr An                 tZahrat        shdh bvd
+\m shhr-y         ke dr An                 tZahrat        shdh bvd
+\g city-Encl      that in      it     demonstrations become(pluperf/3sg)
+\l The city in which demonstrations took place
+
+\t flsTynyany              ra kh            dr xyabanha               tZahrat         mykrdnd       kshtnd
+\m flsTynyan-y              ra kh            dr xyabanha               tZahrat         mykrdnd       kshtnd
+\g Palestinians-Encl        OBJ that         in      streets         demonstration     do(imp/3pl)   kill(past/3pl)
+\l (They) killed the Palestinians who were demonstrating in the streets.
+
+\t nxstyn       kary       ast kh           dr ayn       kshvr        bh   nfe        fransvyha     anJam shdh ast
+\m nxstyn       kar-y       ast kh           dr ayn       kshvr        bh   nfe        fransvyha     anJam shdh ast
+\g first     work-Encl is           that     in   this    country to        benefit    french-Plur perform(passive/perf/3sg)
+\l It is the first thing that has been performed to the benefit of the French in this country.
+
+\t bradr        av      nyz         kh       bshdt       eSbany        shdh bvd        nqshh qtl     Jan ra kshyd
+\m bradr        av      nyz         kh       bshdt       eSbany        shdh bvd        nqshh qtl     Jan ra kshyd
+\g brother      his     also        that     intensely angry           had become      plan   murder John OBJ pulled
+\l His brother also who had become intensely angry planned John's murder.
+
+\t omid in harfhâ râ zad
+\m omid in harf-hâ râ zad
+\g omid that word-Pl râ strike.PAS.3s
+\l Omid said those things
+

@@ -1,0 +1,2205 @@
+\t Kagen kan         spises
+\m Kagen kan         spises
+\g The-cake canpres be-eateni           nf
+\l The cake is edible
+
+\t Adskillige patienter har kunnet blive opereret
+\m Adskillige patienter har kunnet blive opereret
+\g Several patients have could become operated
+\l It has been possible to operate several patients
+
+\t    ... der ikke har kunnet               blive omskolet
+\m    ... der ikke har kunnet               blive omskolet
+\g ... who not have had the possibility to be retrained
+\l ... whom it has not been possible to retrain
+
+\t Alle       har kunnet            blive ansat
+\m Alle       har kunnet            blive ansat
+\g Everyone has had the possibility to be employed
+\l It has been possible to employ everyone
+
+\t Patienten har kunnet         opereres
+\m Patienten har kunnet         opereres
+\g The-patient has been able to be-operated
+\l The patient could be cured by means of operation
+
+\t Der kan komme nogen
+\m Der kan komme nogen
+\g There can come somebody
+\l Somebody may come
+
+\t Der     er kommet en dreng.
+\m Der     er kommet en dreng.
+\g  there is come a boy
+\l There has come a boy. / A boy has come.
+
+\t En dreng er kommet.
+\m En dreng er kommet.
+\g  a boy is come
+\l A boy has come.
+
+\t Det var *jeg/mig som købte den jakke
+\m Det var *jeg/mig som købte den jakke
+\g It was *I/me that bought this coat
+\l It was me that bought this coat.
+
+\t Peter selv løste opgaven.
+\m Peter selv løste opgaven.
+\g Peter self solved problem-the
+\l Peter himself solved the problem.
+
+\t Selv Peter løste opgaven.
+\m Selv Peter løste opgaven.
+\g self Peter solved problem-the
+\l Even Peter solved the problem.
+
+\t Peter løste opgaven selv.
+\m Peter løste opgaven selv.
+\g Peter solved problem-the self
+\l Peter solved the problem himself.
+
+\t Peter havde selv løst opgaven.
+\m Peter havde selv løst opgaven.
+\g Peter had self solved problem-the
+\l Peter had himself solved the problem.
+
+\t Peter sagde at Marie dansede med alle andre end ham selv.
+\m Peter sagde at Marie dansede med alle andre end ham selv.
+\g Peter said that Marie danced with all other than him self
+\l Peter said that Marie danced with everybody except (him) himself.
+
+\t ((a)+(i)) Peter vaskede sig selv.
+\m ((a)+(i)) Peter vaskede sig selv.
+\g          Peter washed REFL self
+\l Peter washed himself.
+
+\t Peter vaskede sig.
+\m Peter vaskede sig.
+\g Peter washed REFLE
+\l Peter washed.
+
+\t Læberne løsnede sig, munden blev større.
+\m Læberne løsnede sig, munden blev større.
+\g lips-the loosen REFL mouth-the became bigger
+\l The lips parted, the mouth grew bigger.
+
+\t Peter slog sig.
+\m Peter slog sig.
+\g Peter hit REFL
+\l Peter got hurt (accidentally).
+
+\t Peter skammer sig.
+\m Peter skammer sig.
+\g Peter shames REFL
+\l Peter is ashamed.
+
+\t Peteri vaskede           sigi         /         sigi selv.
+\m Peteri vaskede           sigi         /         sigi selv.
+\g Peter washed             REFL         /         REFL self
+\l Peteri washed (himselfi).
+
+\t Peter vasker             sig          /     sig selv      /       bilen.
+\m Peter vasker             sig          /     sig selv      /       bilen.
+\g Peter washes             REFL         /     REFL-SELF     /       car-the
+\l Peter washes himself / the car.
+
+\t Peter tørrer             sig          /     sig selv      /       Marie.
+\m Peter tørrer             sig          /     sig selv      /       Marie.
+\g Peter dries              REFL         /     REFL-SELF     /       Mary
+\l Peter dries himself / Mary.
+
+\t Peter misunde              *sig      /     sig selv /    Marie.
+\m Peter misunde              *sig      /     sig selv /    Marie.
+\g Peter envies               *REFL     /     REFL-SELF     /      Mary
+\l Peter envies himself /   Mary.
+
+\t Peter mistænker            *sig      /     sig selv      /       Marie.
+\m Peter mistænker            *sig      /     sig selv      /       Marie.
+\g Peter suspects             *REFL     /     REFL-SELF     /       Mary
+\l Peter suspects himself   / Mary.
+
+\t Peter dukkede            sig    /          *sig selv  /        *Marie.
+\m Peter dukkede            sig    /          *sig selv  /        *Marie.
+\g Peter ducked             RELF /            *REFL-SELF /        *Mary
+\l Peter ducked (*himself) / *Mary.
+
+\t Bill Clintoni barberede sigi selv.
+\m Bill Clintoni barberede sigi selv.
+\g Bill Clinton shaved     RELF/REFL self
+\l Bill Clinton shaved (himself).
+
+\t Joni vil giftes med en kvinde som er stolt af  hami / #hami selv.
+\m Joni vil giftes med en kvinde som er stolt af  hami / #hami selv.
+\g Jon wants marry-PASS with a woman who is proud of him / him self
+\l Jon wants to get married to a woman who is proud of him.
+
+\t Kongen troede at ingen kunne lide              hami / #hami selv.
+\m Kongen troede at ingen kunne lide              hami / #hami selv.
+\g king-the thought that nobody could like        him / him self
+\l The king thought that nobody liked him.
+
+\t Joni plejede at hade folk som var anderledes end hami / hami selv.
+\m Joni plejede at hade folk som var anderledes end hami / hami selv.
+\g Jon used to hate people who were different than him / him self
+\l Jon used to hate people who were different from himself.
+
+\t Carli sagde at Marie havde snakket med alle andre end hami / hami selv.
+\m Carli sagde at Marie havde snakket med alle andre end hami / hami selv.
+\g Carl said that Marie had talked to all others than him / him self
+\l Carl said that Marie had talked to all others than himself.
+
+\t Peter vasker sin                   /sin     egen / John's tegnebog.
+\m Peter vasker sin                   /sin     egen / John's tegnebog.
+\g Peter washes POSREF            /POSREF own/ John's wallet.
+\l Peter washes his /his own      / John's wallet.
+
+\t Peter hader       sin              /sin     egen / John's mor.
+\m Peter hader       sin              /sin     egen / John's mor.
+\g Peter hates       POSREF       /POSREF own/ John's mother.
+\l Peter hates his / his own /   John's mother.
+
+\t Peter er           *sin          /sin    egen / John's      fjende.
+\m Peter er           *sin          /sin    egen / John's      fjende.
+\g Peter is *POSREF /POSREFL own/ John's                       enemy.
+\l Peter is his / his own / his enemy.
+
+\t Peter stjal        *??sin       / sin    egen / John's      tegnebog.
+\m Peter stjal        *??sin       / sin    egen / John's      tegnebog.
+\g Peter stole        *??POSREF/ POSSREF own / John's          wallet.
+\l Peter stole his / his own / John's wallet.
+
+\t  Han var ved at gaa ud af sit /?* sit eget/*Peters gode skind af glæde.
+\m  Han var ved at gaa ud af sit /?* sit eget/*Peters gode skind af glæde.
+\g he was about to go out of POSREF/?*POSREF own/Peter's good skin of          happiness
+\l He nearly jumped out of his good skin of sheer happiness.
+
+\t a.      Peter vaskede   sig.
+\m a.      Peter vaskede   sig.
+\g         Peter vaskede   REFL / REFL self / Hans
+\l Peter washed   (himself)/Hans.
+
+\t Peter opførte sig / *sig selv / *Hans godt.
+\m Peter opførte sig / *sig selv / *Hans godt.
+\g Peter behaved REFL/REFL self/Hans well
+\l Peter behaved well.
+
+\t Peter skammer sig / *sig selv / *Hans.
+\m Peter skammer sig / *sig selv / *Hans.
+\g Peter shames REFL/REFL self/Hans
+\l Peter is ashamed.
+
+\t Peter slog sig (på bordkanten).
+\m Peter slog sig (på bordkanten).
+\g Peter hit REFL on table-edge-the
+\l Peter got hurt (on the edge of the table).
+
+\t Peter brændte sig (på ovnen).
+\m Peter brændte sig (på ovnen).
+\g Peter burned REFL on oven-the
+\l Peter got burned on the oven.
+
+\t Peter selv deltog i mødet.
+\m Peter selv deltog i mødet.
+\g Peter self partook in meeting-the
+\l Peter himself attended the meeting.
+
+\t Peter mistænkte sig selv.
+\m Peter mistænkte sig selv.
+\g Peter suspected REFL self
+\l Peter suspected himself.
+
+\t [..] på onsdag flyver Jakobsen til Malaysia for at forhandlei hvad der ifølge hami selv
+\m [..] på onsdag flyver Jakobsen til Malaysia for at forhandlei hvad der ifølge hami selv
+\g self can become to contracts on 300 km coast securing
+\l Wednesday Jacobsen flies to Malaysia to negotiate what according to (him) himself could turn into contracts for 300 km coast securing.
+
+\t Peter skrev stilen selv.
+\m Peter skrev stilen selv.
+\g Peter wrote essay-the self
+\l Peter wrote the essay himself.
+
+\t Selv Peter kom.
+\m Selv Peter kom.
+\g self Peter came
+\l Even Peter came.
+
+\t Même Pierre est venu.
+\m Même Pierre est venu.
+\g same Peter is come
+\l Even Peter came.
+
+\t Selvet er en central del af psyken.
+\m Selvet er en central del af psyken.
+\g self-the is a central part of psyche-the
+\l The self is a central part of the psyche.
+
+\t Selve huset er ikke meget værd.
+\m Selve huset er ikke meget værd.
+\g self house-the is not much worth
+\l The house itself isn't worth much.
+
+\t selvrespekt
+\m selvrespekt
+\g self-respect
+\l self-respect
+
+\t selvbygger
+\m selvbygger
+\g self-builder
+\l person building a house by himself/herself
+
+\t Selve dronningen
+\m Selve dronningen
+\g self-e queen-the
+\l the queen herself
+
+\t Selvets begred
+\m Selvets begred
+\g self-the-POSS concept
+\l the conception of self (/the ego)
+
+\t Selvet er en central del af psyken.
+\m Selvet er en central del af psyken.
+\g self-the is a central part of psyche-the
+\l The self is a central part of the psyche.
+
+\t Kun levende væsner kan have et selv.
+\m Kun levende væsner kan have et selv.
+\g only living creatures can have a self
+\l Only living creatures can have a self.
+
+\t Dronningen selv holdt talen.
+\m Dronningen selv holdt talen.
+\g queen-the self held speech-the
+\l The Queen herself held the speech.
+
+\t Jeg kom ikke til at interviewe kansleren selv; jeg kom kun til at tale med         hans kone.
+\m Jeg kom ikke til at interviewe kansleren selv; jeg kom kun til at tale med         hans kone.
+\g I came not to to interview chancellor-the self; I came only to to talk to his wife
+\l I did not get to interview the chancellor himself; I only got to talk to his wife.
+
+\t Jeg gav ikke Dronningen selv blomsterne; jeg gav dem til hendes kammerpige.
+\m Jeg gav ikke Dronningen selv blomsterne; jeg gav dem til hendes kammerpige.
+\g I gave not Queen-the self flowers-the; I gave them to her chamber-maid
+\l I didn't give the Queen herself the flowers; I gave them to her maid.
+
+\t Jeg gav blomsterne til Dronningen selv.
+\m Jeg gav blomsterne til Dronningen selv.
+\g I gave flowers-the to Queen-the self
+\l I gave the flowers to the Queen herself.
+
+\t Det var Dronningen selv, som modtog os.
+\m Det var Dronningen selv, som modtog os.
+\g it was Queen-the self who received us
+\l It was the Queen herself who received us.
+
+\t Dronningen selv så     vi ikke. Vi så kun prinsene.
+\m Dronningen selv så     vi ikke. Vi så kun prinsene.
+\g Queen-the self saw     we not we saw only princes-the
+\l The Queen herself     we didn't see. We only saw the princes.
+
+\t Det var Kongen selv, der løftede klaveret.
+\m Det var Kongen selv, der løftede klaveret.
+\g It was king-the self who lifted the piano
+\l It was the King himself who lifted the piano.
+
+\t skuespilleren som havde modtaget prisen
+\m skuespilleren som havde modtaget prisen
+\g actor-the who had received award-the
+\l the actor who had received the award
+
+\t dronningen med den gyldne krone
+\m dronningen med den gyldne krone
+\g queen-the with the golden crown
+\l the queen with the golden crown.
+
+\t dronningen af Sverige
+\m dronningen af Sverige
+\g queen-the of Sweden
+\l the queen of Sweden
+
+\t /*skuespilleren som havde modtaget prisen selv
+\m /*skuespilleren som havde modtaget prisen selv
+\g actor-the who had received award-the self
+\l the actor who had received the award himself
+
+\t /*dronningen med den gyldne krone selv
+\m /*dronningen med den gyldne krone selv
+\g queen-the with the golden crown self
+\l the queen with the golden crown herself
+
+\t dronningen af Sverige selv
+\m dronningen af Sverige selv
+\g queen-the of Sweden self
+\l the queen of Sweden herself
+
+\t Dronningen selv sammen med prinserne løftede klaveret.
+\m Dronningen selv sammen med prinserne løftede klaveret.
+\g Queen-the self together with princes-the liftede piano-the
+\l The Queen herself, together with the princes, lifted the piano.
+
+\t skuespilleren selv som havde modtaget prisen
+\m skuespilleren selv som havde modtaget prisen
+\g actor-the self who had received award-the
+\l the actor himself who had received the award
+
+\t /ok16dronningen selv med den gyldne krone
+\m /ok16dronningen selv med den gyldne krone
+\g queen-the self with the golden crown
+\l the queen herself with the golden crown.
+
+\t dronningen selv af Sverige
+\m dronningen selv af Sverige
+\g queen-the self of Sweden
+\l the queen herself of Sweden
+
+\t Dronningen selv løftede klaveret sammen med prinserne.
+\m Dronningen selv løftede klaveret sammen med prinserne.
+\g Queen-the self liftede piano-the together with princes-the
+\l The Queen herself lifted the piano together with the princes.
+
+\t skuespilleren selv kom til mødet som havde modtaget prisen
+\m skuespilleren selv kom til mødet som havde modtaget prisen
+\g actor-the self came to meeting-the who had received award-the
+\l the actor himself came to the meeting who had received the award
+
+\t dronningen selv satte sig på tronen med den gyldne krone
+\m dronningen selv satte sig på tronen med den gyldne krone
+\g queen-the self sat REFL on throne-the with the golden crown
+\l the queen herself sat down on the throne with the golden crown.
+
+\t dronningen selv satte sig på tronen af Sverige
+\m dronningen selv satte sig på tronen af Sverige
+\g queen-the self sat REFL on throne-the of Sweden
+\l the queen herself sat down on the throne of Sweden
+
+\t Kongen selv holdt en tale.
+\m Kongen selv holdt en tale.
+\g king-the self held a speech
+\l The king himself delivered a speech.
+
+\t Selv viseværten holdt en tale.
+\m Selv viseværten holdt en tale.
+\g self janitor held a speech
+\l Even the janitor delivered a speech.
+
+\t Det var selv biskoppen der holdt gudstjenesten.
+\m Det var selv biskoppen der holdt gudstjenesten.
+\g It was self bishop-the who held service-the
+\l *It was even the bishop who held the service.
+
+\t Det var biskoppen selv der holdt gudstjenesten.
+\m Det var biskoppen selv der holdt gudstjenesten.
+\g It was bishop-the self who held service-the
+\l It was the bishop himself who held the service.
+
+\t Selv Dronningen gav nytårstalen.
+\m Selv Dronningen gav nytårstalen.
+\g even queen-the gave new-years-speech-the
+\l #Even the Queen delivered the New Year's Speech.
+
+\t Dronningen selv gav nytårstalen.
+\m Dronningen selv gav nytårstalen.
+\g queen-the self gave new-years-speech-the
+\l The Queen herself delivered the New Year's Speech.
+
+\t dronningen selv
+\m dronningen selv
+\g queen-the self
+\l the Queen herself
+
+\t biskoppen selv
+\m biskoppen selv
+\g bishop-the self
+\l the bishop himself
+
+\t statsministeren selv
+\m statsministeren selv
+\g prime minister-the self
+\l the prime minister himself
+
+\t præsidenten selv
+\m præsidenten selv
+\g president-the self
+\l the president himself
+
+\t Læreren havde selv skrevet en stil.
+\m Læreren havde selv skrevet en stil.
+\g teacher-the had self written an essay
+\l The teacher had himself written an essay.
+
+\t Eleverne havde alle skrevet en stil.
+\m Eleverne havde alle skrevet en stil.
+\g Pupils-the had all written an essay
+\l The pupils had all written an essay.
+
+\t Ingen selv pudsede skoene.
+\m Ingen selv pudsede skoene.
+\g nobody self polished shoes-the
+\l *Nobody himself polished the shoes.
+
+\t Statsministeren selv pudsede skoene.
+\m Statsministeren selv pudsede skoene.
+\g prime minister-the self polished shoes-the
+\l The prime minister himself polished the shoes.
+
+\t Ingen pudsede skoene selv.
+\m Ingen pudsede skoene selv.
+\g nobody polished shoes-the self
+\l Nobody polished the shoes all by himself.
+
+\t Statsministeren pudsede skoene selv.
+\m Statsministeren pudsede skoene selv.
+\g prime minister-the polished shoes-the self
+\l The prime minister polished the shoes all by himself.
+
+\t /*Ingen pudsede selv skoene.
+\m /*Ingen pudsede selv skoene.
+\g nobody polished self shoes-the
+\l *Nobody polished himself the shoes.
+
+\t Ingen er selv en klovn.
+\m Ingen er selv en klovn.
+\g nobody is self a clown
+\l *Nobody is himself a clown.
+
+\t Statsministeren er selv en klovn.
+\m Statsministeren er selv en klovn.
+\g prime minister-the is self a clown
+\l The prime minister is himself a clown.
+
+\t Statsministeren er ogsaa en klovn.
+\m Statsministeren er ogsaa en klovn.
+\g prime minister-the is also a clown
+\l Peter is also a clown.
+
+\t Statsministeren er ogsaa selv en klovn.
+\m Statsministeren er ogsaa selv en klovn.
+\g prime minister-the is also self a clown
+\l The Prime minister is also a clown himself.
+
+\t Det var dronningen selv, som var blevet nomineret til en Oscar.
+\m Det var dronningen selv, som var blevet nomineret til en Oscar.
+\g it was queen-the self who was become nominated to an Oscar
+\l It was the Queen herself who had been nominated for an Oscar.
+
+\t (?)Det var dronningen, som selv var blevet nomineret til en Oscar.
+\m (?)Det var dronningen, som selv var blevet nomineret til en Oscar.
+\g it was queen-the self who was become nominated to an Oscar
+\l It was the Queen who had herself been nominated for an Oscar.
+
+\t Det var selv dronningen, som var blevet nomineret til en Oscar.
+\m Det var selv dronningen, som var blevet nomineret til en Oscar.
+\g it was queen-the self who was become nominated to an Oscar
+\l It was even the Queen who had been nominated for and Oscar.
+
+\t Statsministeren selv pudsede skoene selv.
+\m Statsministeren selv pudsede skoene selv.
+\g prime minister-the self polished shoes-the self
+\l The prime minister himself polished the shoes without help from any one.
+
+\t Statsministeren pudsede selv skoene selv.
+\m Statsministeren pudsede selv skoene selv.
+\g prime minister-the polished self shoes-the self
+\l The prime minister himself polished the shoes without help from any one.
+
+\t Statsministeren selv pudsede selv skoene.
+\m Statsministeren selv pudsede selv skoene.
+\g prime minister-the self polished self shoes-the
+\l The prime minister himself (himself) polished the shoes.
+
+\t Peter er SELV en klovn.
+\m Peter er SELV en klovn.
+\g Peter is self a clown
+\l Peter is HIMSELF a clown
+
+\t PETER er selv en klovn.
+\m PETER er selv en klovn.
+\g Peter is self a clown
+\l PETER is himself a clown
+
+\t Peter er selv en KLOVN.
+\m Peter er selv en KLOVN.
+\g Peter is self a clown.
+\l Peter is himself a CLOWN.
+
+\t Manden (*som var skaldet) selv kom til festen.
+\m Manden (*som var skaldet) selv kom til festen.
+\g man who was bald self came to party-the
+\l The man who was bald himself came to the party
+
+\t Den gamle mand (*med blå bukser) selv kom til festen.
+\m Den gamle mand (*med blå bukser) selv kom til festen.
+\g the old man with blue trousers self came to party-the
+\l The old man with blue trousers himself came to the party
+
+\t Manden som var skaldet kom selv til festen.
+\m Manden som var skaldet kom selv til festen.
+\g man-the who was bald came self to party-the
+\l The man who was bald himself came to the party
+
+\t Den gamle mand med blå bukser kom selv til festen.
+\m Den gamle mand med blå bukser kom selv til festen.
+\g the old man with blue trousers came self to party-the
+\l The old man with blue trousers himself came to the party
+
+\t (95)36 a.           Læreren         roste os                 alle.
+\m (95)36 a.           Læreren         roste os                 alle.
+\g                     teacher-the     praised us               all.
+\l The teacher praised us all.
+
+\t Alt      oksekødet        er             udsolgt.
+\m Alt      oksekødet        er             udsolgt.
+\g all      beef-the         is             sold out.
+\l All the beef is sold out.
+
+\t Læreren               roste     alle       eleverne.
+\m Læreren               roste     alle       eleverne.
+\g teacher-the           praised all          pupils-the
+\l The teacher praised all the pupils.
+
+\t Peter       gav       alle      børnene              en       krone.
+\m Peter       gav       alle      børnene              en       krone.
+\g Peter       gave      all       children-the         a        crown
+\l Peter gave all the children acrown'.
+
+\t Jeg       inviterede          alle    mine venner.
+\m Jeg       inviterede          alle    mine venner.
+\g I         invited all         my      friends
+\l I        invited             all     my      friends.
+
+\t Du        får      al         den     hjælp(common) du        behøver.
+\m Du        får      al         den     hjælp(common) du        behøver.
+\g you       get      all        the     help             you    need
+\l You're    getting all        the     help             you    need.
+
+\t Eleverne         bestod alle       eksamen.
+\m Eleverne         bestod alle       eksamen.
+\g pupils-the       passed all        exam-the
+\l The pupils all passed the exam.
+
+\t Vi      er       alle     tilfredse med resultatet.
+\m Vi      er       alle     tilfredse med resultatet.
+\g we      are      all      satisfied with result-the
+\l We are all satisfied with the result.
+
+\t Vi      er       selv     tilfredse med resultatet.
+\m Vi      er       selv     tilfredse med resultatet.
+\g we      are      self     pleased with    result-the
+\l We are ourselves pleased with the result.
+
+\t Peter malte ikke muren selv.
+\m Peter malte ikke muren selv.
+\g Peter painted not wall-the self
+\l Peter didn't paint the wall himself.
+
+\t Peter malte den ikke selv.
+\m Peter malte den ikke selv.
+\g Peter painted it not self
+\l Peter didn't paint it himself
+
+\t Peter havde (ikke) malt muren selv.
+\m Peter havde (ikke) malt muren selv.
+\g Peter had (not) painted wall-the self
+\l Peter had not painted the wall himself.
+
+\t Peter havde (ikke) selv malt muren.
+\m Peter havde (ikke) selv malt muren.
+\g Peter had (not) self painted wall-the
+\l Peter himself had not painted the wall.
+
+\t a         Peter havde (ikke) malt den selv.
+\m a         Peter havde (ikke) malt den selv.
+\g           Peter had (not) painted it self
+\l Peter had not painted it himself.
+
+\t Peter havde (ikke) selv malt den.
+\m Peter havde (ikke) selv malt den.
+\g Peter had (not) self painted it
+\l Peter himself had not painted it.
+
+\t           ...     at Peter ikke malte muren selv.
+\m           ...     at Peter ikke malte muren selv.
+\g ...     that Peter not painted wall-the self
+\l ...   that Peter didn't paint the wall himself.
+
+\t           ...     at Peter ikke malte den selv.
+\m           ...     at Peter ikke malte den selv.
+\g ...     that Peter not painted it self
+\l ...   that Peter didn't paint it himself.
+
+\t Jeg SELV tør aldrig modsige ham.
+\m Jeg SELV tør aldrig modsige ham.
+\g I self dare never contradict him
+\l I myself dare never contradict him.
+
+\t Kongen SELV har ringe magt.
+\m Kongen SELV har ringe magt.
+\g king-the self has slight power
+\l The king himself has little power.
+
+\t SELV tør jeg aldrig modsige ham.
+\m SELV tør jeg aldrig modsige ham.
+\g self dare I never contradict him
+\l I myself dare never contradict him.
+
+\t SELV har kongen ringe magt.
+\m SELV har kongen ringe magt.
+\g self has king-the slight power
+\l The king himself has little power.
+
+\t Selv JEG tør aldrig modsige ham.
+\m Selv JEG tør aldrig modsige ham.
+\g even I dare never contradict him
+\l Even I dare never contradict him.
+
+\t Selv KONGEN har ringe magt.
+\m Selv KONGEN har ringe magt.
+\g even king-the has slight power
+\l Even the king has little power.
+
+\t /??Selv har en konge ringe magt.
+\m /??Selv har en konge ringe magt.
+\g self has a king slight power
+\l A king himself has little power.
+
+\t /??En konge selv har ringe magt.
+\m /??En konge selv har ringe magt.
+\g a king self has slight power
+\l A king himself has little power.
+
+\t Selv en konge har ringe magt.
+\m Selv en konge har ringe magt.
+\g even a king has slight power
+\l Even a king has little power.
+
+\t Peter reparerede bilen selv.
+\m Peter reparerede bilen selv.
+\g Peter repaired car-the self
+\l Peter repaired the car himself
+
+\t Peter reparerede bilen helt selv.
+\m Peter reparerede bilen helt selv.
+\g Peter repaired the car completely self
+\l Peter repaired the car all by himself.
+
+\t Peter reparerede bilen helt alene.
+\m Peter reparerede bilen helt alene.
+\g Peter repaired the car completely alone
+\l Peter repaired the car all alone.
+
+\t (115)42 a.          *Peter malte helt selv huset.
+\m (115)42 a.          *Peter malte helt selv huset.
+\g                     Peter painted completely self house-the
+\l Peter painted the house all byhimself'.
+
+\t Peter reparerede (helt) alene bilen.
+\m Peter reparerede (helt) alene bilen.
+\g Peter painted completely alone house-the
+\l Peter repaired the car all alone
+
+\t Peter malte huset (meget) hurtigt.
+\m Peter malte huset (meget) hurtigt.
+\g Peter painted house-the (very) fast
+\l Peter painted the house very fast.
+
+\t Kun Peter reparerede bilen.
+\m Kun Peter reparerede bilen.
+\g Only Peter repaired car-the
+\l Only Peter repaired the car.
+
+\t Taj e     sam.
+\m Taj e     sam.
+\g he is     alone
+\l He is    alone.
+
+\t Taj dojde sam.
+\m Taj dojde sam.
+\g he came alone
+\l He came alone.
+
+\t Peter barberede kongen helt selv.
+\m Peter barberede kongen helt selv.
+\g Peter shaved king-the completely self
+\l Peter shaved the king all by himself.
+
+\t Kongen selv holdt talen.
+\m Kongen selv holdt talen.
+\g king-the self held speech-the
+\l The king himself delivered the speech.
+
+\t Selv viseværten holdt en tale.
+\m Selv viseværten holdt en tale.
+\g self janitor held a speech
+\l Even the janitor delivered a speech.
+
+\t Selv Peter var i stand til at løse problemet.
+\m Selv Peter var i stand til at løse problemet.
+\g even Peter was in state to to solve problem-the
+\l Even Peter was capable of solving the problem.
+
+\t Selv ham ville hun gerne kysse.
+\m Selv ham ville hun gerne kysse.
+\g even him would she willingly kiss
+\l She was willing to kiss even him.
+
+\t Han betalte selv for hende.
+\m Han betalte selv for hende.
+\g he paid even for her
+\l He paid even for her.
+
+\t Selv når det regner er han glad.
+\m Selv når det regner er han glad.
+\g even when it rains is he happy
+\l He is happy even when it rains.
+
+\t Selvom Janet er englænder, taler hun flydende dansk48.
+\m Selvom Janet er englænder, taler hun flydende dansk48.
+\g even-if Janet is Englishman speaks she fluent
+\l Although she's English, Janet speaks fluent Danish.
+
+\t Peter endog CYKLEDE rundt om blokken.
+\m Peter endog CYKLEDE rundt om blokken.
+\g Peter even BIKED around about block-the
+\l Peter even BIKED around the block.
+
+\t Selv kongen kom til mødet.
+\m Selv kongen kom til mødet.
+\g even king-the came to meeting-the
+\l Even the king came to the meeting.
+
+\t Det var selv Peter der kom for sent.
+\m Det var selv Peter der kom for sent.
+\g it was even Peter who came for late
+\l *It was even Peter who was late.
+
+\t Det var Peter selv der kom for sent.
+\m Det var Peter selv der kom for sent.
+\g it was Peter self who came for late
+\l It was Peter himself who was late.
+
+\t En student selv løste opgaven.
+\m En student selv løste opgaven.
+\g a student self solved problem-the
+\l *A student himself solved the problem.
+
+\t Selv en student løste opgaven.
+\m Selv en student løste opgaven.
+\g even a student solved problem-the
+\l Even a student solved the problem.
+
+\t selvets begred
+\m selvets begred
+\g self-the-POSS concept
+\l the conception of self (/the ego)
+
+\t Selvet er en central del af psyken.
+\m Selvet er en central del af psyken.
+\g self-the is a central part of psyche-the
+\l The self is a central part of the psyche.
+
+\t Kun levende væsner kan have et selv.
+\m Kun levende væsner kan have et selv.
+\g only living creatures can have a self
+\l Only living creatures can have a self.
+
+\t om det, der var Ens dybeste, inderste eget.
+\m om det, der var Ens dybeste, inderste eget.
+\g [...] which was one's deepest innermost own
+\l [...] which was one's deepest, innermost self.
+
+\t [...] der var Ens dybeste, inderste selv.
+\m [...] der var Ens dybeste, inderste selv.
+\g which was one's deepest innermost self
+\l [...] which was one's deepest, innermost self.
+
+\t Man bør værne om ens eget jeg/*mig/selv.
+\m Man bør værne om ens eget jeg/*mig/selv.
+\g one ought protect about one's own I/self
+\l One should protect one's own self.
+
+\t Chacun doit proteger sa propre *je/moi/*me/*même/personne.
+\m Chacun doit proteger sa propre *je/moi/*me/*même/personne.
+\g everyone ought protect his own me/same/person
+\l Everyone ought to protect his own self/person.
+
+\t Selve biskoppen kommer paa besøg.
+\m Selve biskoppen kommer paa besøg.
+\g self bishop-the comes on visit
+\l The bishop himself is paying a visit.
+
+\t Selve en sjællænder har fortalt mig det.
+\m Selve en sjællænder har fortalt mig det.
+\g self a Zealander has told me it
+\l A Zealander himself told me.
+
+\t En sjællænder selv har fortalt mig det.
+\m En sjællænder selv har fortalt mig det.
+\g a Zealander self has told me it
+\l A Zealander himself told me.
+
+\t Selve Peter kommer på besøg.
+\m Selve Peter kommer på besøg.
+\g self Peter comes on visit
+\l Peter himself is paying a visit.
+
+\t Selve biskoppen/Dronningen/præsidenten kommer på besøg.
+\m Selve biskoppen/Dronningen/præsidenten kommer på besøg.
+\g self bishop-the/Queen-the/president-the comes on visit
+\l The bishop himself is paying a visit.
+
+\t Vi blev inviteret til middag hos selveste direktøren.
+\m Vi blev inviteret til middag hos selveste direktøren.
+\g we were invited to dinner at self-est      boss-the
+\l We were invited to dinner with the managing director himself.
+
+\t Selveste dronningen tog imod os.
+\m Selveste dronningen tog imod os.
+\g self-est Queen-the took against us
+\l The Queen herself welcomed us.
+
+\t Peter bedrager sig selv.
+\m Peter bedrager sig selv.
+\g Peter deceives REFL self
+\l Peter deceives himself
+
+\t A:        Tak for i aftes.
+\m A:        Tak for i aftes.
+\g           thank for in evening
+\l Thank you for (the party, etc.) last night.
+
+\t B:        Selv tak!
+\m B:        Selv tak!
+\g           self thank
+\l Thank you!
+
+\t Det siger sig selv.
+\m Det siger sig selv.
+\g it says REFL self
+\l That is obvious.
+
+\t Døren åbnede sig af sig selv.64
+\m Døren åbnede sig af sig selv.64
+\g door-the opened REFL of REFL self
+\l The door opened all by itself.
+
+\t Peter vasker sig/sig selv.
+\m Peter vasker sig/sig selv.
+\g Peter washes REFL/REFL self
+\l Peter washes (himself).
+
+\t Peter hader *sig/sig selv.
+\m Peter hader *sig/sig selv.
+\g Peter hates REFL/REFL self
+\l Peter hates himself.
+
+\t Peter hviler sig/*sig selv.
+\m Peter hviler sig/*sig selv.
+\g Peter rests REFL/REFL self
+\l Peter is resting.
+
+\t Peter vasker sig.
+\m Peter vasker sig.
+\g Peter washes REFL-ACC
+\l Peter washes (himself).
+
+\t Peter købte sig et hus.
+\m Peter købte sig et hus.
+\g Peter bought REFL-DAT a house-ACC
+\l Peter bough himself a house.
+
+\t Peter vasker ham.
+\m Peter vasker ham.
+\g Peter washes him-ACC
+\l Peter washes himself.
+
+\t Peter købte him et hus.
+\m Peter købte him et hus.
+\g Peter bought him-DAT a house-ACC
+\l Peter bough him a house.
+
+\t Hvorfor barberer han sig?
+\m Hvorfor barberer han sig?
+\g why shaves he REFL
+\l Why does he shave (himself)?
+
+\t Han barberer sig.
+\m Han barberer sig.
+\g he shaves RELF
+\l He shaves (himself).
+
+\t Marie klæder (sig) og reder sig omhyggeligt.
+\m Marie klæder (sig) og reder sig omhyggeligt.
+\g Marie dresses (REFL) and combs REFL carefully
+\l Marie dresses and combs herself carefully.
+
+\t Peter barberede (sig), vaskede (sig) og tørrede sig.
+\m Peter barberede (sig), vaskede (sig) og tørrede sig.
+\g Peter shaved washed and dried REFL
+\l Peter shaved, washed and dried (himself).
+
+\t Peteri vasked   e sigi / *sigi selv / *HAMz / hamz / *bilen ikke.
+\m Peteri vasked   e sigi / *sigi selv / *HAMz / hamz / *bilen ikke.
+\g Peter washed     REFL/*REFL self/him/*car-the not
+\l Peter did not   wash (himself)/him/the car.
+
+\t Peteri vasked   e ikke *sigi / sigi selv / HAMz / *hamz / bilen.
+\m Peteri vasked   e ikke *sigi / sigi selv / HAMz / *hamz / bilen.
+\g Peter washed     not *REFL/REFL self/him/car-the
+\l Peter did not   wash himself/him/the car.
+
+\t Læreren havde selv skrevet en stil.
+\m Læreren havde selv skrevet en stil.
+\g teacher-the had self written an essay
+\l The teacher had himself written an essay.
+
+\t Selv har kongen ringe magt.
+\m Selv har kongen ringe magt.
+\g self has king-the slight power
+\l The king himself has little power.
+
+\t Peter vasker sig / sig selv / bilen.
+\m Peter vasker sig / sig selv / bilen.
+\g Peter washes REFL / REFL-SELF / car-the
+\l Peter washes himself / the car.
+
+\t Peter forsvarer sig /sig selv / Marie.
+\m Peter forsvarer sig /sig selv / Marie.
+\g Peter defends REFL / REFL-SELF / Mary
+\l Peter defends himself / Mary.
+
+\t Peter mistænker *sig / sig selv / Marie.
+\m Peter mistænker *sig / sig selv / Marie.
+\g Peter suspects *REFL / REFL-SELF / Mary
+\l Peter suspects himself / Mary.
+
+\t Peter misunder *sig / sig selv / Marie.
+\m Peter misunder *sig / sig selv / Marie.
+\g Peter envies *REFL / REFL-SELF / Mary
+\l Peter envies himself / Mary.
+
+\t Peter skammer sig /*sig selv /*Maire.
+\m Peter skammer sig /*sig selv /*Maire.
+\g Peter shames RELF / *REFL-SELF / *Mary
+\l Peter is ashamed of himself / Mary.
+
+\t Peter dukker sig / *sig selv / *Marie.
+\m Peter dukker sig / *sig selv / *Marie.
+\g Peter ducks REFL / *REFL-SELF / *Mary
+\l Peter ducks *himself / *Mary.
+
+\t Vagten afløste *sig / sig selv.
+\m Vagten afløste *sig / sig selv.
+\g guard-the replaced REFL / REFL self
+\l The guard replaced himself (as guard).
+
+\t Henry IV efterfulgte *sig / sig selv.
+\m Henry IV efterfulgte *sig / sig selv.
+\g Henry IV succeeded REFL / REFL self
+\l Peter succeeded himself (as king of England).
+
+\t Peter bønfaldte *sig / sig selv.
+\m Peter bønfaldte *sig / sig selv.
+\g Peter implored REFL / REFL self
+\l Peter implored himself.
+
+\t Peter mistænkte *sig /sig selv.
+\m Peter mistænkte *sig /sig selv.
+\g Peter suspected REFL / REFL self
+\l Peter suspected himself of doing something.
+
+\t Peter misude *sig / sig selv.
+\m Peter misude *sig / sig selv.
+\g Peter envied REFL / REFL self
+\l Peter envied himself
+
+\t Peter, i egenskab af barber, barberede *sig/sig selv.
+\m Peter, i egenskab af barber, barberede *sig/sig selv.
+\g Peter, in quality of barber, shaved REFL
+\l Peter, working as barber, shaved himself.
+
+\t Peter barberede/tørrede/pyntede        sig / sig selv / John.
+\m Peter barberede/tørrede/pyntede        sig / sig selv / John.
+\g Peter shaved / dried / adorned REFL / REFL self / John.
+\l Peter shaved/dried/adorned himself/John.
+
+\t Peter solede sig / *sig selv / *Marie.
+\m Peter solede sig / *sig selv / *Marie.
+\g Peter tanned REFL / REFL self / Marie
+\l Peter was tanning/sunbathing.
+
+\t Peter tog kniven med                    sig / *sig selv / *Mary.
+\m Peter tog kniven med                    sig / *sig selv / *Mary.
+\g Peter took knife-the with               RELF / REFL self / Mary
+\l Peter took the knife with              him / *himself / *Mary.
+
+\t Peter kogte     #sig     /        sig selv           /      Mary.
+\m Peter kogte     #sig     /        sig selv           /      Mary.
+\g Peter boiled    REFL /            REFL self         /       Mary
+\l Peter boiled himself / Mary.
+
+\t Marsbeboeren mistænkte *sig / sig selv / Peter.
+\m Marsbeboeren mistænkte *sig / sig selv / Peter.
+\g Mars-dweller-the suspected REFL / REFL self / Peter
+\l The Martian suspected himself / Peter.
+
+\t Q:       Hvem var det nu at Peter havde vasket? Havde han vasket sin hund?
+\m Q:       Hvem var det nu at Peter havde vasket? Havde han vasket sin hund?
+\g          who was it now that Peter had washed had he washed POSSREFL dog
+\l Who was it that Peter had washed? Had he washed his dog?
+
+\t A:       Nej, han havde vasket SIG SELV / *SIG.
+\m A:       Nej, han havde vasket SIG SELV / *SIG.
+\g          No he had washed REFL SELF / REFL
+\l No, he had washed himself.
+
+\t Q:       Hvad var det nu at Peter havde gjort før han gik i seng?
+\m Q:       Hvad var det nu at Peter havde gjort før han gik i seng?
+\g          what was it now that Peter had done before he went to bed
+\l What was it Peter had done before he went to bed?
+
+\t Havde han barberet sig?
+\m Havde han barberet sig?
+\g had he shaved RELF
+\l Had he shaved himself?
+
+\t A:       Nej, han havde VASKET sig / #sig selv.
+\m A:       Nej, han havde VASKET sig / #sig selv.
+\g          no he had WASHED REFL / REFL self
+\l No, He had WASHED himself.
+
+\t Peter vaskede hænderne.
+\m Peter vaskede hænderne.
+\g Peter washed hands-the.
+\l Peter washed his own two hands.
+
+\t Peter stjal hænderne.
+\m Peter stjal hænderne.
+\g Peter stole hands-the.
+\l Peter stole his own two hands.
+
+\t Peter kogte hænderne.
+\m Peter kogte hænderne.
+\g Peter boiled hands-the.
+\l Peter boiled his own two hands.' `Peter boiled the hands (of the body he was dissecting).
+
+\t Marsmanden kogte hænderne i olie førend han lavede mad.
+\m Marsmanden kogte hænderne i olie førend han lavede mad.
+\g Martian-the boiled hands-the in oil before he made food
+\l The Martian washed his hands in oil before cooking.
+
+\t Peter stjal sine hænder.
+\m Peter stjal sine hænder.
+\g Peter stole POSSREFL hands
+\l Peter stole his hands.
+
+\t Peter, i egenskab af barber, barberede ??*sig.
+\m Peter, i egenskab af barber, barberede ??*sig.
+\g Peter in quality of barber shaved REFL
+\l Peter, qua barber, shaved.
+
+\t Peter, i egenskab af barber, barberede sig selv.
+\m Peter, i egenskab af barber, barberede sig selv.
+\g Peter in quality of barber shaved REFL self
+\l Peter, qua barber, shaved himself.
+
+\t Henry IV efterfulgte *sig / sig selv.
+\m Henry IV efterfulgte *sig / sig selv.
+\g Henry IV succeeded REFL / REFL self
+\l Peter succeeded himself (as king of England).
+
+\t Soldaterne forsvarede sig.
+\m Soldaterne forsvarede sig.
+\g soldiers-the defended REFL
+\l The soldiers defended themselves.
+
+\t Soldaterne forsvarede sig selv.
+\m Soldaterne forsvarede sig selv.
+\g soldiers-the defended REFL self
+\l The soldiers defended themselves.
+
+\t (?)Soldaterne forsvarede sig, men overladte civil befolkningen til fjenden.
+\m (?)Soldaterne forsvarede sig, men overladte civil befolkningen til fjenden.
+\g soldiers-the defended REFL but left civil population to enemy-the
+\l The soldiers defended but left the civilians to the enemy.
+
+\t Soldaterne forsvarede sig selv, men overladte civil befolkningen til fjenden.
+\m Soldaterne forsvarede sig selv, men overladte civil befolkningen til fjenden.
+\g soldiers-the defended REFL self but left civil population to enemy-the
+\l The soldiers defended themselves but left the civilians to the enemy.
+
+\t Soldaterne vaskede sig.
+\m Soldaterne vaskede sig.
+\g soldiers-the washed REFL
+\l The soldiers washed (themselves).
+
+\t Soldaterne vaskede sig selv.
+\m Soldaterne vaskede sig selv.
+\g soldiers-the washed REFL self
+\l The soldiers washed themselves.
+
+\t a.        Peter arbejdede           sig                                            rig.
+\m a.        Peter arbejdede           sig                                            rig.
+\g           Peter worked              REFL/REFL self/his parents                     rich
+\l Peter worked himself/his parents rich.
+
+\t a.      Peter drak                #sig                        under bordet.
+\m a.      Peter drak                #sig                        under bordet.
+\g         Peter drank               REFL/REFL self/Hans under table-the
+\l Peter drank himself/Hans under the table.
+
+\t a.      Peter arbejdede           sig                                                svedig.
+\m a.      Peter arbejdede           sig                                                svedig.
+\g         Peter worked              REFL/REFLself/his parents                          sweaty
+\l Peter worked himself/#his parents sweaty.
+
+\t a.      Peter dansede             sig                      til verdensmesterskabet.
+\m a.      Peter dansede             sig                      til verdensmesterskabet.
+\g         Peter danced      REFL/REFLself/his parents        to the world championship
+\l Peter danced himself/#his parents to the world   championship.
+
+\t a.        Peter anså              sig                         for at være intelligent.
+\m a.        Peter anså              sig                         for at være intelligent.
+\g           Peter considered REFL/REFL self/his parents for to be intelligent
+\l Peter considered himself/his parents to be intelligent.
+
+\t a.     Peter anså              #sig                       for   at være død.
+\m a.     Peter anså              #sig                       for   at være død.
+\g        Peter considered REFL/REFL self/his parents for to       be dead
+\l Peter considered himself/his parents to be dead.
+
+\t Peter så #sig/sig selv danse på videooptagelsen.
+\m Peter så #sig/sig selv danse på video-optagelsen.
+\g Peter saw REFL/REFL self dance on video-recording-the
+\l Peter saw himself dance in the video-recording.
+
+\t [...] der var Ens dybeste, inderste selv.
+\m [...] der var Ens dybeste, inderste selv.
+\g [...] which was one's deepest innermost self
+\l [...] which was one's deepest innermost self.
+
+\t Peter lod forældrene sove i sin egen seng mens han selv sov på sofaen is               stuen.                
+\m Peter lod forældrene sove i sin egen seng mens han selv sov på sofaen is               stuen.                
+\g Peter let parents-the sleep in POSSREFL own bed while he self slept on sofa-           the in living room-the
+\l Peter let his parents sleep in his own bed while he himself slept on the sofa in the living room.
+
+\t Peter hader       sin                  /sin     egen / John's mor.
+\m Peter hader       sin                  /sin     egen / John's mor.
+\g Peter hates       POSREF           /POSREF own/ John's mother.
+\l Peter hates his / his own /       John's mother.
+
+\t Peter er           *sin          /sin    egen / John's                 fjende.
+\m Peter er           *sin          /sin    egen / John's                 fjende.
+\g Peter is *POSREF /POSREFL own/ John's                                  enemy.
+\l Peter is his / his own / his enemy.
+
+\t Peter stjal        *??sin       / sin    egen / John's                 tegnebog.
+\m Peter stjal        *??sin       / sin    egen / John's                 tegnebog.
+\g Peter stole        *??POSREF/ POSSREF own / John's                     wallet.
+\l Peter stole his / his own / John's wallet.
+
+\t  Han var ved at gaa ud af sit /?* sit eget/*Peters gode skind af glæde.
+\m  Han var ved at gaa ud af sit /?* sit eget/*Peters gode skind af glæde.
+\g he was about to go out of POSREF/?*POSREF own/Peter's good skin of          happiness
+\l He nearly jumped out of his good skin of sheer happiness.
+
+\t Peter bad Hans om at vaske*SIG / SIG SELV/ KONGEN.
+\m Peter bad Hans om at vaske*SIG / SIG SELV/ KONGEN.
+\g Peter asked Hans about to wash REFL/REFL SELF/ KING-the
+\l Peter asked Hans to wash *REFL/REFL SELF/the KING.
+
+\t Peter vaskede barnet og *sig / sig selv / hunden.
+\m Peter vaskede barnet og *sig / sig selv / hunden.
+\g Peter washed child-the and REFL /REFL self /dog-the
+\l Peter washed the child and *REFL / REFL SELF / the dog.
+
+\t Det var *sig / sig selv / hunden Peter vaskede.
+\m Det var *sig / sig selv / hunden Peter vaskede.
+\g it was REFL / REFL self / dog-the Peter washed
+\l It was *REFL / REFL SELF / the dog that Peter washed.
+
+\t Sig / sig selv / hunden vaskede Peter ikke.
+\m Sig / sig selv / hunden vaskede Peter ikke.
+\g REFL / REFL self / dog-the washed Peter not
+\l *REFL / REFL SELF / the dog Peter didn't wash.
+
+\t Peter er ikke som alle de andre børn. Han er noget for sig.
+\m Peter er ikke som alle de andre børn. Han er noget for sig.
+\g Peter is not like all the other children he is something for REFL
+\l Peter is not like all the other children. He is something special.
+
+\t Peter er stolt af *sig/sig selv/Marie.
+\m Peter er stolt af *sig/sig selv/Marie.
+\g Peter is proud of REFL/REFL self/Maire
+\l Peter is proud of himself/Marie.
+
+\t Peter er tilfreds med *sig/sig selv/Marie.
+\m Peter er tilfreds med *sig/sig selv/Marie.
+\g Peter is satisfied of REFL/REFL self/Marie
+\l Peter is happy with himself/Marie.
+
+\t Peter er misundelig på *sig/sig selv/Marie.
+\m Peter er misundelig på *sig/sig selv/Marie.
+\g Peter is jealous on REFL/REFL self/Maire
+\l Peter is jealous of himself/Marie.
+
+\t Peter sludrer med *sig/sig selv/Marie.
+\m Peter sludrer med *sig/sig selv/Marie.
+\g Peter chats with REFL/REFL self/Marie
+\l Peter is chatting with himself/Marie.
+
+\t at være bange af sig
+\m at være bange af sig
+\g to be afraid of REFL
+\l to be (naturally) timid
+
+\t at have en revolver på sig
+\m at have en revolver på sig
+\g to have a gun on REFL
+\l to carry a gun (with oneself)
+
+\t at bide smerten i sig
+\m at bide smerten i sig
+\g to bite pain-the in REFL
+\l to bear the pain without flinching
+
+\t at slå fra sig
+\m at slå fra sig
+\g to hit from REFL
+\l to defend oneself, hit back, fight back
+
+\t at bide fra sig
+\m at bide fra sig
+\g to bite from REFL
+\l (fig) hit back, fight back, give as good as one gets
+
+\t at være om sig
+\m at være om sig
+\g to be about REFL
+\l be enterprising, be busy; have an eye for opportunities
+
+\t Peter er bange af sig / *sig selv / *Mary.
+\m Peter er bange af sig / *sig selv / *Mary.
+\g Peter is afraid of REFL / REFL self / Mary
+\l Peter is (naturally) timid
+
+\t Peter så en slange bag sig / sig selv /Mary.
+\m Peter så en slange bag sig / sig selv /Mary.
+\g Peter saw a snake behind REFL / REFL self /Mary
+\l Peter saw a snake behind himself / Mary
+
+\t Peter så en slange foran sig / sig selv /Mary.
+\m Peter så en slange foran sig / sig selv /Mary.
+\g Peter saw a snake before REFL / REFL self /Mary
+\l Peter saw a snake in front of himself / Mary
+
+\t Peter er ude af *sig/sig selv/*Mary af glæde.
+\m Peter er ude af *sig/sig selv/*Mary af glæde.
+\g Peter is out of REFL/REFL self/Mary of happiness
+\l Peter is beside himself/*Mary with happiness.
+
+\t HAN kom til mødet.
+\m HAN kom til mødet.
+\g HE came to meeting-the
+\l HE came to the meeting.
+
+\t Han selv kom til mødet.
+\m Han selv kom til mødet.
+\g He self came to meeting-the
+\l He himself came to the meeting.
+
+\t KONGEN kom til mødet.
+\m KONGEN kom til mødet.
+\g KING-the came to meeting-the
+\l THE KING came to the meeting.
+
+\t Kongen selv kom til mødet.
+\m Kongen selv kom til mødet.
+\g King self came to meeting-the
+\l The king himself came to the meeting.
+
+\t Q:        Hvem er det Jon vil have, at den kvinde han vil giftes med skal være stolt                    af? Vil Jon absolut giftes med en kvinde, som er stolt af hans far?     
+\m Q:        Hvem er det Jon vil have, at den kvinde han vil giftes med skal være stolt                    af? Vil Jon absolut giftes med en kvinde, som er stolt af hans far?     
+\g           who is it Jon will have that the woman he will marry-PASS with shall be                       proud of will Jon absolutely marry-PASS with a woman who is proud of his                    father
+\l Who is it that Jon wants the woman he is going to marry to admire? Does Jon absolutely want to marry a woman who admires his father?
+
+\t A:        Nej, dit torskehovede! Jon vil giftes med en kvinde som er stolt af ham           selv.
+\m A:        Nej, dit torskehovede! Jon vil giftes med en kvinde som er stolt af ham           selv.
+\g           No you cod-head Jon will marry-PASS with a woman who is proud of him              self 
+\l No, idiot! Jon want to marry a woman who is proud of (him) himself.
+
+\t           dirrigent.
+\m           dirrigent.
+\g           as conductor
+\l Peter said that the orchestra couldn't play        with anybody but himself as conductor.
+
+\t Runez var ikke synderligt bange for at nogen anden skulle usurpere hansz
+\m Runez var ikke synderligt bange for at nogen anden skulle usurpere hansz
+\g could play with anybody but himself as conductor.
+\l Rune was not particularly afraid for that somebody else should usurp his place as conductor at the royal theater. That was because Peter had said that the orchestra couldn't play with anybody but himself as conductor.
+
+\t Han har skullet bo i Århus.
+\m Han har skullet bo i Århus.
+\g he has shallPERF liveINF in Århus
+\l He is said to have lived in Århus
+
+\t Der har måske nok kunnet være tale om en fejl.
+\m Der har måske nok kunnet være tale om en fejl.
+\g there has maybe PTL canPERF be talk of a mistake
+\l It might have been a mistake
+
+\t Hovmesteren skulle være morderen.
+\m Hovmesteren skulle være morderen.
+\g Butler-DEF supposed-to-PAST be the killer
+\l The butler was supposed to be thekiller'; root reading only of skulle
+
+\t ... at der blev spist et aeble
+\m ... at der blev spist et aeble
+\g that expl was eaten an apple
+\l ... that there was eaten an apple.
+
+\t ... at der er blevet danset
+\m ... at der er blevet danset
+\g that expl is been danced
+\l ... that there was dancing going on.
+
+\t ... at der blev spist et aeble
+\m ... at der blev spist et aeble
+\g that expl was eaten an apple
+\l ... that there was eaten an apple.
+
+\t ... at der er blevet danset
+\m ... at der er blevet danset
+\g that expl is been danced
+\l ... that there was dancing going on.
+
+\t Han knugede sine h nder sammen.
+\m Han knugede sine h nder sammen.
+\g he clasped his hands together.prt
+\l He clasped his hands.
+
+\t 7.4     a Vi      slap hunden ud.
+\m 7.4     a Vi      slap hunden ud.
+\g           we      let dog.the out.prt"
+\l We     let the dog out.
+
+\t 7.5     a Han knugede         sine h nder sammen.
+\m 7.5     a Han knugede         sine h nder sammen.
+\g           he clasped          his hands together.prt"
+\l He clasped his     hands.
+
+\t 7.9     a Han var langt borte.
+\m 7.9     a Han var langt borte.
+\g           he was far away.prt"
+\l He was far away.
+
+\t (4 8 )   a.       Børnen har set denne film
+\m (4 8 )   a.       Børnen har set denne film
+\g                   kids-the have seen this film
+\l The kids have seen this film.
+
+\t Denne film bar børnen set.
+\m Denne film bar børnen set.
+\g this film have kids-the seen
+\l The kids have seen this film.
+
+\t Denne film børnen har set.
+\m Denne film børnen har set.
+\g   this film kids-the have seen
+\l The kids have seen this film.
+
+\t (4 9 )   a.     * Jeg    ved ikke hvor i gar °      har koen staet.°
+\m (4 9 )   a.     * Jeg    ved ikke hvor i gar °      har koen staet.°
+\g                   I      know not where yesterday has cow-the stood
+\l I d   on't know where the cow stood yesterday.
+
+\t (5 0 )   a.       Børnen har ikke set denne film.
+\m (5 0 )   a.       Børnen har ikke set denne film.
+\g                   kids-the have not seen this film
+\l The kids haven't seen this movie.
+
+\t Børnen ikke har set denne film
+\m Børnen ikke har set denne film
+\g   kids-the not have seen this film
+\l The kids haven't seen this movie.
+
+\t Jeg ved at børnen ikke har set denne film
+\m Jeg ved at børnen ikke har set denne film
+\g I know that kids-the not have seen this film
+\l I know the kids haven't seen this movie.
+
+\t Jeg ved at børnen har ikke set denne film
+\m Jeg ved at børnen har ikke set denne film
+\g   I know that kids-the have not seen this film
+\l I know the kids haven't seen this movie.
+
+\t (6 7 )   a.      Jeg     spurgte   hvorfor Peter ikke havde        læst den.
+\m (6 7 )   a.      Jeg     spurgte   hvorfor Peter ikke havde        læst den.
+\g                  I       asked     why Peter not had               read it
+\l I a   sked wh    y Peter hadn't read it.
+
+\t Jeg     spurgte   hvorfor Peter havde ikke        læst den.
+\m Jeg     spurgte   hvorfor Peter havde ikke        læst den.
+\g   I       asked     why Peter had not               read it
+\l I a   sked wh    y Peter hadn't read it.
+
+\t Købte han bogen
+\m Købte han bogen
+\g bought he book-the
+\l Did he buy the book?
+
+\t Hun spiste heldigvis ikke nogensinde fisk
+\m Hun spiste heldigvis ikke nogensinde fisk
+\g She ate fortunately not ever fish
+\l She fortunately didn't ever eat fish
+
+\t Heldigvis ved jeg hvor hun bor
+\m Heldigvis ved jeg hvor hun bor
+\g Fortunately know I where she lives
+\l Fortunately I know where she lives
+
+\t Ikke ved jeg hvor hun bor
+\m Ikke ved jeg hvor hun bor
+\g Not know I where she lives
+\l I don't know where she lives
+
+\t Jeg ved det slet *(ikke)
+\m Jeg ved det slet *(ikke)
+\g I know it at all *(not)
+\l I don't know it at all
+
+\t Jeg ved det overhovedet *(ikke)
+\m Jeg ved det overhovedet *(ikke)
+\g I know it at all *(not)
+\l I don't know it at all
+
+\t Jeg ved det heller *(ikke)
+\m Jeg ved det heller *(ikke)
+\g I know it either *(not)
+\l I don't know it either
+
+\t Der var slet ingen der kom til festen
+\m Der var slet ingen der kom til festen
+\g There was at all no one that came to party-the
+\l No one came to the party at all
+
+\t Hun spiste slet ingenting
+\m Hun spiste slet ingenting
+\g She ate at all nothing
+\l She ate nothing at all
+
+\t Hun spurgte, om John ikke var hjemme
+\m Hun spurgte, om John ikke var hjemme
+\g She asked whether he not was home
+\l She asked whether he wasn't home
+
+\t Hun spurgte, om ikke John var hjemme
+\m Hun spurgte, om ikke John var hjemme
+\g She asked whether not he was home
+\l She asked whether he wasn't home
+
+\t Han bliver overrasket, hvis John ikke er hjemme
+\m Han bliver overrasket, hvis John ikke er hjemme
+\g He will be surprised if she not is home
+\l He will be surprised if she isn't home
+
+\t Han bliver overrasket, hvis ikke John er hjemme
+\m Han bliver overrasket, hvis ikke John er hjemme
+\g He will be surprised if not she is home
+\l He will be surprised if she isn't home
+
+\t Hvis ikke John kommer, vil jeg spørge om jeg må låne hans cykle
+\m Hvis ikke John kommer, vil jeg spørge om jeg må låne hans cykle
+\g If not John come, will I ask whether I may borrow his bicycle
+\l If John isn't coming, I will ask whether I may borrow his bicycle
+
+\t efter cykelturen.
+\m efter cykelturen.
+\g after bike.ride.def
+\l Rikke tried to comb her hair. It was all tangled up after the bike ride.
+
+\t Hun er lærer.
+\m Hun er lærer.
+\g She is teacher.
+\l She is a teacher.
+
+\t Han blev valgt til president.
+\m Han blev valgt til president.
+\g He was elected to president.
+\l He was elected president.
+
+\t Boris skruede {*ned} musikken {ned}.
+\m Boris skruede {*ned} musikken {ned}.
+\g Boris screwed down the.music down
+\l Boris turned the music down
+
+\t Boris flyttet {*rundt} møblene {rundt}.
+\m Boris flyttet {*rundt} møblene {rundt}.
+\g Boris moved around the.furniture around
+\l Boris moved the furniture around
+
+\t Boris skrev {*under} kontrakten {under}.
+\m Boris skrev {*under} kontrakten {under}.
+\g Boris wrote under the.contract under
+\l Boris signed the contract
+
+\t Har {nogen student} muligvis {*nogen student} læst bogen?
+\m Har {nogen student} muligvis {*nogen student} læst bogen?
+\g has any student possibly           any student read the.book
+\l Has any student possibly read the book?
+
+\t Det er mærkelig at {Johan} ikke {*Johan} kan lide Gammel Dansk.
+\m Det er mærkelig at {Johan} ikke {*Johan} kan lide Gammel Dansk.
+\g it is odd         that Johan not      Johan can suffer Old
+\l It is odd that Johan doesn't like Old Danish (bitters)
+
+\t Jens {gav op/opgav} sine studier.
+\m Jens {gav op/opgav} sine studier.
+\g Jens gave up up.gave his studies
+\l Jens abandoned his studies
+
+\t b.    Hunden blev smedet ud.            * Hunden blev     udsmedet.
+\m b.    Hunden blev smedet ud.            * Hunden blev     udsmedet.
+\g       the.dog   was thrown out            the.dog  was    out.thrown
+\l The dog was thrown out
+
+\t a.    Drengene     {*har forsvundet /er forsvundet}.
+\m a.    Drengene     {*har forsvundet /er forsvundet}.
+\g       the.boys       have disappeared/are disappeared
+\l The boys    have disappeared
+
+\t Næste eftermiddag laa stenene endnu urørte.
+\m Næste eftermiddag laa stenene endnu urørte.
+\g next afternoon lay the.stones still unmoved
+\l The next afternoon the stones still lay unmoved
+
+\t Dog kan også i Hovedsætninger Adverbialet staa foran Subjektet,...
+\m Dog kan også i Hovedsætninger Adverbialet staa foran Subjektet,...
+\g yet can also in main.clauses the.adverbial stand before the.subject
+\l Yet the adverbial can precede the subject, even in main clauses
+
+\t Saa maatte jo         /nok        /vist      Kongen bøje sig
+\m Saa maatte jo         /nok        /vist      Kongen bøje sig
+\g so must you.know/I.suppose/it.appears the.king bend rfx
+\l So of course the king had to yield
+
+\t Saa var pludselig Døren sprunget op
+\m Saa var pludselig Døren sprunget op
+\g so was suddenly the.door burst      open
+\l Then the door had suddenly burst open
+
+\t I Købstæderne        har sædvanligvis hvert Hus en lille Have
+\m I Købstæderne        har sædvanligvis hvert Hus en lille Have
+\g in the.market.towns has usually       every house a little yard
+\l In the market towns every house usually has a little yard
+
+\t Jeg tror at muligvis har nogen student læst                   bogen.
+\m Jeg tror at muligvis har nogen student læst                   bogen.
+\g I think that possibly has some student read                   the.book
+\l I think that possibly some student has read the               book
+
+\t Der må ikke ryges.
+\m Der må ikke ryges.
+\g there may not be.smoked
+\l Smoking is not allowed
+
+\t Peter tror han vinder
+\m Peter tror han vinder
+\g Peter thinks he wins
+\l Peter thinks he is going to win
+
+\t ham tror Peter e vinder
+\m ham tror Peter e vinder
+\g him thinks Peter wins
+\l he is the one of whom Peter believes that he is going to win
+
+\t han tror Peter e vinder
+\m han tror Peter e vinder
+\g   he thinks Peter wins
+\l he is the one of whom Peter believes that he is going to win
+
+\t dem ved jeg er gode!
+\m dem ved jeg er gode!
+\g them know I are good
+\l I know they are good
+
+\t ham ved jeg ikke lige       hvem er
+\m ham ved jeg ikke lige       hvem er
+\g him know I not exactly who is
+\l I don't quite know who he is
+
+\t dem ved jeg ikke hvordan smager
+\m dem ved jeg ikke hvordan smager
+\g them know I not how           taste
+\l I don't know how they taste
+
+\t det tror jeg ikke e passer
+\m det tror jeg ikke e passer
+\g that think I not e is true
+\l I really don't think that is true
+
+\t ham ved jeg ikke lige  hvem er
+\m ham ved jeg ikke lige  hvem er
+\g him know I not exactly who is
+\l I don't quite know who he is
+
+\t dem ved jeg ikke hvordan smager
+\m dem ved jeg ikke hvordan smager
+\g them know I not how      taste
+\l I don't know how they taste
+
+\t mig forventer de laver det hele
+\m mig forventer de laver det hele
+\g me expect they do ever ything
+\l they expect me to do everything
+
+\t ham der, han brokker sig altid
+\m ham der, han brokker sig altid
+\g him there, he is always complaining
+\l that man, he is always complaining
+
+\t HAN/*HAM kommer i hvert fald ikke
+\m HAN/*HAM kommer i hvert fald ikke
+\g HE/*HIM comes cer tainly not
+\l He certainly won't be here
+
+\t kun hun kan gøre det
+\m kun hun kan gøre det
+\g Only she can do it
+\l she alone can do it
+
+\t dem selv   tror ingen bliver opdaget       af skattevæsenet
+\m dem selv   tror ingen bliver opdaget       af skattevæsenet
+\g   themselves thinks noone will be discovered by the tax office
+\l noone thinks they will be discovered by the tax office
+
+\t John          bliver       syg i    loebet af de naeste par             dage.
+\m John          bliver       syg i    loebet af de naeste par             dage.
+\g    John       becomes      sick     in-run of the next       couple days
+\l John will become sick in the next few days.
+
+\t Det regner paa deres bryllupsdag.
+\m Det regner paa deres bryllupsdag.
+\g    it rains        on their     wedding-day
+\l It will rain on their wedding day.
+
+\t John       er ankommet igaar /              klokken fem /    in mandags
+\m John       er ankommet igaar /              klokken fem /    in mandags
+\g John       is arrived         yesterday     clock five       in Monday's
+\l John has arrived yesterday/at 5/on Monday.
+
+\t De kan russisk.
+\m De kan russisk.
+\g they know Russian
+\l They know Russian.
+
+\t Jeg       vil    hjem
+\m Jeg       vil    hjem
+\g I         want home
+\l I want to go home.
+
+\t Spise     og       sove grr      de      fra    morgen       til         aften
+\m Spise     og       sove grr      de      fra    morgen       til         aften
+\g eat       and      sleep do      they    from morning        until       night
+\l They do (present tense) eat and sleep   from morning until night.   
+
+\t Tage      position,       aabent og      umiddelbart, gjorde             han    ikke
+\m Tage      position,       aabent og      umiddelbart, gjorde             han    ikke
+\g take      position        openly and     directly      did               he     not 
+\l He did not take a position openly and   directly.
+
+\t Danse gjorde              hun    og      danse måtte    hun
+\m Danse gjorde              hun    og      danse måtte    hun
+\g    ce     did             she    and     dance must     she
+\l She did dance and she had to dance.
+
+\t Peter tror han vinder
+\m Peter tror han vinder
+\g Peter thinks he wins
+\l Peter thinks he is going to win
+
+\t ham tror Peter e vinder
+\m ham tror Peter e vinder
+\g him thinks Peter wins
+\l he is the one of whom Peter believes that he is going to win
+
+\t han tror Peter e vinder
+\m han tror Peter e vinder
+\g   he thinks Peter wins
+\l he is the one of whom Peter believes that he is going to win
+
+\t dem ved jeg er gode!
+\m dem ved jeg er gode!
+\g them know I are good
+\l I know they are good
+
+\t ham ved jeg ikke lige       hvem er
+\m ham ved jeg ikke lige       hvem er
+\g him know I not exactly who is
+\l I don't quite know who he is
+
+\t dem ved jeg ikke hvordan smager
+\m dem ved jeg ikke hvordan smager
+\g them know I not how           taste
+\l I don't know how they taste
+
+\t det tror jeg ikke e passer
+\m det tror jeg ikke e passer
+\g that think I not e is true
+\l I really don't think that is true
+
+\t det er ham som/e        jeg tror vinder
+\m det er ham som/e        jeg tror vinder
+\g it is him who.R    EL   I think wins
+\l he is the one who I think is going to win
+
+\t ham ved jeg ikke lige  hvem er
+\m ham ved jeg ikke lige  hvem er
+\g him know I not exactly who is
+\l I don't quite know who he is
+
+\t dem ved jeg ikke hvordan smager
+\m dem ved jeg ikke hvordan smager
+\g them know I not how      taste
+\l I don't know how they taste
+
+\t mig forventer de laver det hele
+\m mig forventer de laver det hele
+\g me expect they do ever ything
+\l they expect me to do everything
+
+\t ham der, han brokker sig altid
+\m ham der, han brokker sig altid
+\g him there, he is always complaining
+\l that man, he is always complaining
+
+\t HAN/*HAM kommer i hvert fald ikke
+\m HAN/*HAM kommer i hvert fald ikke
+\g HE/*HIM comes cer tainly not
+\l He certainly won't be here
+
+\t kun hun kan gøre det
+\m kun hun kan gøre det
+\g Only she can do it
+\l she alone can do it
+
+\t dem selv   tror ingen bliver opdaget       af skattevæsenet
+\m dem selv   tror ingen bliver opdaget       af skattevæsenet
+\g   themselves thinks noone will be discovered by the tax office
+\l noone thinks they will be discovered by the tax office
+
+\t % dem selv   tror ingen skattevæsenet far fat pa
+\m % dem selv   tror ingen skattevæsenet far fat pa
+\g   themselves thinks noone the tax office gets hold of
+\l noone thinks the tax office will get hold of them
+
+\t Laereren roste eleverne          alle
+\m Laereren roste eleverne          alle
+\g   teacher-the praised children-the all
+\l The teacher praised all the students.
+
+\t Laereren roste eleverne          uden tvivl.
+\m Laereren roste eleverne          uden tvivl.
+\g   teacher-the praised students-the without a doubt.
+\l The teacher without a doubt praised the students.
+
+\t Børnen har set denne film
+\m Børnen har set denne film
+\g kids-the have seen this film
+\l The kids have seen this film.
+
+\t Denne film bar børnen set.
+\m Denne film bar børnen set.
+\g this film have kids-the seen
+\l The kids have seen this film.
+
+\t Denne film børnen har set.
+\m Denne film børnen har set.
+\g   this film kids-the have seen
+\l The kids have seen this film.
+
+\t Jeg ved ikke hvor i gar °      har koen staet.°
+\m Jeg ved ikke hvor i gar °      har koen staet.°
+\g   I know not where yesterday has cow-the stood
+\l I don't know where the cow stood yesterday.
+
+\t Børnen har ikke set denne film.
+\m Børnen har ikke set denne film.
+\g kids-the have not seen this film
+\l The kids haven't seen this movie.
+
+\t Børnen ikke har set denne film
+\m Børnen ikke har set denne film
+\g   kids-the not have seen this film
+\l The kids haven't seen this movie.
+
+\t Jeg ved at børnen ikke har set denne film
+\m Jeg ved at børnen ikke har set denne film
+\g I know that kids-the not have seen this film
+\l I know the kids haven't seen this movie.
+
+\t Jeg ved at børnen har ikke set denne film
+\m Jeg ved at børnen har ikke set denne film
+\g   I know that kids-the have not seen this film
+\l I know the kids haven't seen this movie.
+
+\t Vi ved at denne bog har Bo ikke læst.
+\m Vi ved at denne bog har Bo ikke læst.
+\g we know that this book has Bo not read
+\l We know that Bo hasn't read this book.
+
+\t Jeg spurgte hvorfor Peter ikke havde læst den.
+\m Jeg spurgte hvorfor Peter ikke havde læst den.
+\g I asked why Peter not had read it
+\l I asked why Peter hadn't read it.
+
+\t Jeg spurgte hvorfor Peter havde ikke læst den.
+\m Jeg spurgte hvorfor Peter havde ikke læst den.
+\g   I asked why Peter had not read it
+\l I asked why Peter hadn't read it.
+
+\t Børnen har set denne film
+\m Børnen har set denne film
+\g kids-the have seen this film
+\l The kids have seen this film.
+
+\t Denne fil   m bar børnen set.
+\m Denne fil   m bar børnen set.
+\g this fil    m have kids-the seen
+\l The kids   have seen this film.
+
+\t Denne fil   m børnen har set.
+\m Denne fil   m børnen har set.
+\g   this fil    m kids-the have seen
+\l The kids   have seen this film.
+
+\t Je   g ved ikke hvor i går      har koen        stået.
+\m Je   g ved ikke hvor i går      har koen        stået.
+\g   I      know not where yesterday has cow-the     stood
+\l I   don't know where the cow stood yesterda   y.
+
+\t Je     g ved ikke hvor koen har i går             stået.
+\m Je     g ved ikke hvor koen har i går             stået.
+\g   I      know not where cow-the has yesterday     stood
+\l I   don't know where the cow stood yesterda   y.
+
+\t Børnen har ikke set denne film.
+\m Børnen har ikke set denne film.
+\g kids-the have not seen this film
+\l The kids haven't seen this movie.
+
+\t Børnen ikke har set denne film
+\m Børnen ikke har set denne film
+\g   kids-the not have seen this film
+\l The kids haven't seen this movie.
+
+\t Jeg ved at børnen ikke har set             denne film
+\m Jeg ved at børnen ikke har set             denne film
+\g   I know that kids-the not have seen       this film
+\l I know the kids haven't seen this mov   ie.
+
+\t Jeg ved at børnen har ikke set           denne film
+\m Jeg ved at børnen har ikke set           denne film
+\g   I know that kids-the have not seen       this film
+\l I know the kids haven't seen this mov   ie.
+
+\t Jeg spurgte hvorfor Peter ikke havde læst den.
+\m Jeg spurgte hvorfor Peter ikke havde læst den.
+\g I asked why         Peter not had read it
+\l I asked why Peter hadn't read it.
+
+\t Jeg spurgte hvorfor Peter havde ikke læst den.
+\m Jeg spurgte hvorfor Peter havde ikke læst den.
+\g   I asked why         Peter had not read it
+\l I asked why Peter hadn't read it.
+
+\t Købte han bogen
+\m Købte han bogen
+\g bought he book-the
+\l Did he buy the book?
+
+\t med I går
+\m med I går
+\g airplane-the      that       mother travelled
+\l the airplane mother travelled in yesterday
+
+\t flyvemaskineen, som/*ø mor             rejste
+\m flyvemaskine-en, som/*ø mor             rejste
+\g in      yesterday
+\l the airplane, which mother travelled in yesterday
+
+\t hesten
+\m hesten
+\g horse.def
+\l the horse
+
+\t den røde hest
+\m den røde hest
+\g def red horse
+\l the red horse
+
+\t hesten
+\m hesten
+\g horse.def
+\l the horse
+
+\t Den hest der vandt løbet,        er til salg.
+\m Den hest der vandt løbet,        er til salg.
+\g the horse that won race.def is for sale
+\l the horse that won the race is for sale
+
+\t Hesten, der vandt løbet,       er til salg.
+\m Hesten, der vandt løbet,       er til salg.
+\g horse.def that won race.def is for sale
+\l the horse, which won the race, is for sale
+
+\t den synkende skude
+\m den synkende skude
+\g the sink.prp ship
+\l the sinking ship
+
+\t A: Hvilken trøje  kan du bedst li' ?
+\m A: Hvilken trøje  kan du bedst li' ?
+\g    Which sweater can you best like?
+\l Which sweater do you like the best?
+
+\t B: Den gule.
+\m B: Den gule.
+\g    The yellow.
+\l The yel low one.
+
+\t Jeg vil gerne     ha' en gul
+\m Jeg vil gerne     ha' en gul
+\g I will willingly have a yellow
+\l I would like to have a yel low one
+
+\t Jeg kan godt li' skøre folk
+\m Jeg kan godt li' skøre folk
+\g I can well like crazy people
+\l I like crazy people
+
+\t Jeg vil gerne     ha' den grønne
+\m Jeg vil gerne     ha' den grønne
+\g I will willingly have the green
+\l I would like to have the green one
+
+\t Jeg vil gerne     ha' den grønne bold
+\m Jeg vil gerne     ha' den grønne bold
+\g I will willingly have the green ball
+\l I would like to have the green bal l
+
+\t Jeg kender en Maria
+\m Jeg kender en Maria
+\g I know a Mary
+\l I know someone cal led Mary
+
+\t Jeg kender to Maria.er
+\m Jeg kender to Maria.er
+\g I know two Mary.pl
+\l I know two people cal led Mary
+
+\t Den Maria som jeg kender, bor i København
+\m Den Maria som jeg kender, bor i København
+\g The Mary that I know lives in Copenhagen
+\l The Mary that I know lives in Copenhagen
+
+\t hesten
+\m hesten
+\g horse.def
+\l the horse
+
+\t den hest der vandt løbet
+\m den hest der vandt løbet
+\g the horse that won race.def
+\l the horse that won the race
+
+\t Jeg kender ham der vandt løb et
+\m Jeg kender ham der vandt løb et
+\g I   know him who won race.def
+\l I know the guy who won the race
+
+\t Jeg spurgte hvorfor Peter              ikke havde læst den.
+\m Jeg spurgte hvorfor Peter              ikke havde læst den.
+\g I     asked      why         Peter     not    had      read     it
+\l I asked why Peter didn't read it.
+
+\t Denne film har børnene          set.
+\m Denne film har børnene          set.
+\g this film have children-DEF seen
+\l The children have seen this film (rather than another one
+
+\t Vi ved      hvem (som) (at) der snakker med Marit.
+\m Vi ved      hvem (som) (at) der snakker med Marit.
+\g   we know who     C       C C talks     with Marit
+\l We know who is talking with Marit.
+
+\t Boris    skruede (*nedP) musikken (nedP)
+\m Boris    skruede (*nedP) musikken (nedP)
+\g B        screwed down music.the down
+\l Boris   turned the music down
+
+\t Jeg spurgte hvorfor Peter              ikke havde læst den.
+\m Jeg spurgte hvorfor Peter              ikke havde læst den.
+\g I     asked      why         Peter     not    had      read     it
+\l I asked why Peter didn't read it.
+
+\t Adskillige patienter har kunnet blive opereret
+\m Adskillige patienter har kunnet blive opereret
+\g Several patients have could become operated
+\l It has been possible to operate several patients
+
+\t    ... der ikke har kunnet               blive omskolet
+\m    ... der ikke har kunnet               blive omskolet
+\g ... who not have had the possibility to be retrained
+\l ... whom it has not been possible to retrain
+
+\t Alle       har kunnet            blive ansat
+\m Alle       har kunnet            blive ansat
+\g Everyone has had the possibility to be employed
+\l It has been possible to employ everyone
+
+\t Patienten har kunnet         opereres
+\m Patienten har kunnet         opereres
+\g The-patient has been able to be-operated
+\l The patient could be cured by means of operation
+
+\t Der kan komme nogen
+\m Der kan komme nogen
+\g There can come somebody
+\l Somebody may come
+
+\t Laereren roste eleverne          alle
+\m Laereren roste eleverne          alle
+\g   teacher-the praised children-the all
+\l The teacher praised all the students.
+
+\t Laereren roste eleverne          uden tvivl.
+\m Laereren roste eleverne          uden tvivl.
+\g   teacher-the praised students-the without a doubt.
+\l The teacher without a doubt praised the students.
+
+\t ... at børnene har set filmen
+\m ... at børnene har set filmen
+\g      that children-DEF have seen film-DEF
+\l ...that the children have seen the film
+
+\t Denne film har børnene           set.
+\m Denne film har børnene           set.
+\g this film have children-DEF seen
+\l The children have seen THISfilm'.
+
+\t Hvorfor læste studenterne (*artiklen) ikke (artiklen)?
+\m Hvorfor læste studenterne (*artiklen) ikke (artiklen)?
+\g Why read students-the (article-the) not (article-the)
+\l Why didn't the students read the article?
+
+\t Hvorfor læste studenterne (den) ikke (*den)
+\m Hvorfor læste studenterne (den) ikke (*den)
+\g Why read the-students it not (it)
+\l Why didn't the students read it?
+
+\t [At du ville        komme] blev der       regnet stærkt     med.
+\m [At du ville        komme] blev der       regnet stærkt     med.
+\g that you would come          was Expl counted strongly with
+\l People strongly counted on your coming.
+
+\t Der ventede mig den unbehagelige aften       hjemme.
+\m Der ventede mig den unbehagelige aften       hjemme.
+\g   Expl awaited me the unpleasant evening at.home
+\l The unpleasant evening awaited me at home.
+
+\t Der tilfaldt den ældste datter en stor sum penge.
+\m Der tilfaldt den ældste datter en stor sum penge.
+\g Expl to.fell the eldest daughter a large sum money
+\l The eldest daughter received a large sum of money.
+
+\t Der tilfaldt den ældste datter den store sum penge.
+\m Der tilfaldt den ældste datter den store sum penge.
+\g  Expl to.fell the eldest daughter the large sum money
+\l The eldest daughter received the large sum of money.
+
+\t Han knugede sine h nder sammen.
+\m Han knugede sine h nder sammen.
+\g he clasped his hands together.prt
+\l He clasped his hands.
+
+\t 7.4     a Vi      slap hunden ud.
+\m 7.4     a Vi      slap hunden ud.
+\g           we      let dog.the out.prt"
+\l We     let the dog out.
+
+\t 7.5     a Han knugede         sine h nder sammen.
+\m 7.5     a Han knugede         sine h nder sammen.
+\g           he clasped          his hands together.prt"
+\l He clasped his     hands.
+
+\t 7.8     a Han har l rt det P P af sin far.
+\m 7.8     a Han har l rt det P P af sin far.
+\g           he has learnt it              from his father
+\l He has learnt it from his father.
+
+\t b Jag fandt brevet         P P blandt mine papirer.
+\m b Jag fandt brevet         P P blandt mine papirer.
+\g   I found letter.the            among my papers
+\l I found the letter among my papers.
+
+\t 7.9     a Han var langt borte.
+\m 7.9     a Han var langt borte.
+\g           he was far away.prt"
+\l He was far away.
+
+\t Olivier var skuespiller.
+\m Olivier var skuespiller.
+\g Olivier was actor
+\l Olivier was an actor.
+
+\t Din lille pige er en skuespiller.
+\m Din lille pige er en skuespiller.
+\g your little girl is an actress
+\l Your little girl is an actress.
+
+\t der gives      dem         ...
+\m der gives      dem         ...
+\g there is-given them:OBJ
+\l There exist (lit. exists) those...
+
+\t Huset
+\m Hus-et
+\g House-the
+\l The house
+
+\t MD. Honum thøkte sek         vara i en lysteligen stath
+\m MD. Honum thøkte sek         vara i en lysteligen stath
+\g     Him.OBL thought SELF.OBL be   in a wonderful town
+\l He thought he was in a wonderful town
+
+\t Hun hjalp        ham
+\m Hun hjalp        ham
+\g She.N helped.3SG him.A
+\l She helped him
+
+\t Han kan        godt lide   dem
+\m Han kan        godt lide   dem
+\g He.N can.3SG good like.inf them.A
+\l He likes them
+
+\t Q        Hvem er det der har drukket ginen?                          A         Det var mig        / *jeg.
+\m Q        Hvem er det der har drukket ginen?                          A         Det var mig        / *jeg.
+\g          Wh o i s i t E X P L h a s d r u n k g i n.t h e                    It was me.A   CC   / I.N O     M
+\l Who is it that has drunk the gin?
+
+\t Igår      er *(der) kommet en dreng.
+\m Igår      er *(der) kommet en dreng.
+\g yesterday is (Expl) come a boy
+\l Yesterday a boy came.
+
+\t ...at *(der) er blevet danset.
+\m ...at *(der) er blevet danset.
+\g that (Expl) has been danced
+\l ... that there was dancing.
+
+\t Der har nogen spist et æble.
+\m Der har nogen spist et æble.
+\g  there has someone eaten an apple
+\l Someone has eaten an apple.
+

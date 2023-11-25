@@ -1,0 +1,40 @@
+\t Mame rena        naruk ia
+\m Mame rena        naruk ia
+\g uncle hear       news that
+\l Uncle heard the news
+
+\t Naruk ia    mame rena                         (ThExpV)
+\m Naruk ia    mame rena                         (Th-Exp-V)
+\g news that uncle hear
+\l The news, Uncle heard (or the news was heard by Uncle)
+
+\t Wae buang ia deri ei kadera
+\m Wae buang ia deri ei kadera
+\g face white that sit P chair
+\l The pretty girl sat on the chair
+
+\t Wae buang ia           deri     kadera
+\m Wae buang ia           deri     kadera
+\g   face white that sit             chair
+\l The pretty girl sat on the/a chair
+
+\t Kadera ia           wi    wae       buang ia           deri
+\m Kadera ia           wi    wae       buang ia           deri
+\g chair      that     REL face        white that         sit
+\l It is that chair which was sat on by the pretty girl
+
+\t Kadera ia          wi     wae      buang ia       deri     (marked)
+\m Kadera ia          wi     wae      buang ia       deri     (marked)
+\g chair      that FOC       face     white that sit
+\l It is that chair which was sat on by the pretty girl
+
+\t `Ami ina        piar       adang ganu te'i
+\m `Ami ina        piar       adang ganu te'i
+\g  1PL mother present sign like this
+\l We were presented with this gift by mother
+
+\t Adang ganu te'i ina          piar       `ami
+\m Adang ganu te'i ina          piar       `ami
+\g sign like this mother present           1PL
+\l This gift was presented to me by Mother
+

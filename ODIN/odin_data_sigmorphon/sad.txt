@@ -1,0 +1,60 @@
+\t nam       hótshòsà à:mè
+\m nam       hótshò-sà à:mè
+\g NAME what-3FS break
+\l what did Nam break?
+
+\t b,    nam     sómbá        útesà                thìmè
+\m b,    nam     sómbá        úte-sà                thìmè
+\g       NAME fish            yesterday-3FS         cook
+\l Nam cooked the fish YESTERDAY
+
+\t nam       hótshòsà à:mè
+\m nam       hótshò-sà à:mè
+\g NAME what-3FS break
+\l what did Nam break?
+
+\t b,    nam       sómbá      útesà               thìmè
+\m b,    nam       sómbá      úte-sà               thìmè
+\g       NAME fish            yesterday-3FS        cook
+\l Nam cooked the fish YESTERDAY
+
+\t  ,          " + " )#*                        2 " + !)
+\m  ,          " + " )-#*                        2 " + !)
+\g Nam         Gkoongoo-3f.sg., realis            meet
+\l Nam met Gkoongoo
+
+\t  " + " )#*                    2 " + !)
+\m  " + " )-#*                    2 " + !)
+\g Gkoongoo-3f.sg., realis        meet
+\l She met Gkoongoo
+
+\t   )!,#*                        " + " )#*                             2 "*    !)
+\m   )!,-#*                        " + " )-#*                             2 "*    !)
+\g yesterday-3f.sg., realis Gkoongoo-3f.sg., realis              meet
+\l She met Gkoongoo yesterday
+
+\t  ,#)      " + " )#*                              2 " * !)
+\m  ,-#)      " + " )-#*                              2 " * !)
+\g Nam-nom.Gkoongoo-3f.sg., realis                  meet
+\l Nam met Gkoongoo
+
+\t (23)1   7
+\m (23)1   7-
+\g             Nam          fish           yesterday-3f.sg., realis             cook
+\l Nam cooked the fish yesterday
+
+\t  ,            2 $) !)*(*
+\m  ,            2 $) !)-*-(*
+\g Nam            cook-fut.-3f.sg., irr.
+\l Nam is goin g to cook
+
+\t .  18                  2 $) #) #,*$
+\m -.  18                  2 $) #) #,-*-$-
+\g         arrow-sp.Dtaamba         look for-fut.-3m.sg., irr.
+\l Dtaamba will look for the arrow
+
+\t #)   #,                $1 !) #*
+\m #)   #,                $1 !) #*
+\g no     Nam              cook-3f.sg., realis
+\l No, Nam cooked
+

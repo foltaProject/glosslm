@@ -1,0 +1,945 @@
+\t Diné lí' yee
+\m Diné lí' y-ee
+\g  man horse he-with exists
+\l The man has a horse.
+
+\t diné       ¬ í ví v' yee               hóló v
+\m diné       ¬ í ví v' y-ee               hóló v
+\g manhorse he-with exists
+\l The man has a horse.
+
+\t a. Shizhé'é sitsilí        t¬÷óó¬ yich÷iv÷ hadayíí ¬déél
+\m a. Shizhé'é sitsilí        t¬÷óó¬ yi-ch÷iv÷ hada-y-íí- ¬-déél
+\g  My father my little brother rope him-to down-it-prf-tr-handle(4
+\l My father tossed the rope to my little brother
+
+\t b. Sitsilí shizhé'ét ¬÷óó¬ bich÷iv÷ hadayíí¬déél
+\m b. Sitsilí shizhé'ét ¬÷óó¬ bi-ch÷iv÷ hada-y-íí-¬-déél
+\g My little brother my father rope him-to down-it-perf-tr-handle
+\l My father tossed the rope to my little brother
+
+\t Shizhé'é sitsilí t ¬÷óó¬ hadayiyíí ¬déél
+\m Shizhé'é sitsilí t ¬÷óó¬ hada-yi-y-íí- ¬-déél
+\g My fathermy little brother rope down-him-it-perf-tr-handle
+\l My father tossed my little brother the rope.
+
+\t hado
+\m ha-do
+\g 3:IMPERSONAL-warm
+\l heat
+
+\t hak'az, `coldness
+\m ha-k'az, `coldness
+\g 3:IMPERSONAL-cold
+\l coldness
+
+\t 'ani'iihí
+\m 'ani'iih-í
+\g he:steals-NOMINALIZER
+\l thief
+
+\t bidookiiµii
+\m bidookiiµ-ii
+\g they:will:give:sustenance-NOMINALIZER
+\l provisions (for future use)
+
+\t jooµ yitalí
+\m jooµ yital-í
+\g ball it:is:kicked-NOMINALIZER
+\l football
+
+\t bee 'iigisí
+\m bee 'iigis-í
+\g with:it laundry:is:washed-NOMINALIZER
+\l washing machine
+
+\t 'atsiniltµ'ish bee 'adinídíín
+\m 'atsiniltµ'ish bee 'adinídíín
+\g electricity with:it light
+\l electric light
+
+\t ch'il bee naazkání
+\m ch'il bee naazkán-í
+\g plant with:it they:sit:around-NOMINALIZER
+\l flowerpot
+
+\t chidí bitoo'
+\m chidí bitoo'
+\g car its:juice
+\l gasoline
+
+\t kéyah `áµts'óózígo tó bita'gi ha'naa naní'áhígíí         
+\m kéyah `áµts'óózígo tó bita'gi ha'naa naní'áh-ígíí         
+\g land being:slender water at:a;location:between:them across                it:extends:across-NOMINALIZER
+\l isthmus
+
+\t chidí naa'na'í bee'eldoohtsoh bikáá' dahnaaznilígíí
+\m chidí naa'na'í bee'eldoohtsoh bikáá' dahnaaznil-ígíí
+\g caterpillar:tractor big:guns on:top:of:it they:sit:up-NOMINALIZER
+\l army tank
+
+\t líí    dzaanééz yizta¬.
+\m líí    dzaanééz yi-zta¬.
+\g  horse mule          3OBJ.LESS.PROM-kicked
+\l The horse kicked the mule.
+
+\t dzaanééz líí     bizta¬.
+\m dzaanééz líí     bi-zta¬.
+\g  mule        horse 3OBJ.MORE.PROM-kicked
+\l The mule kicked the horse.
+
+\t líí    dzaanééz yizta¬.
+\m líí    dzaanééz yi-zta¬.
+\g  horse mule          3OBJ.LESS.PROM-kicked
+\l The horse kicked the mule.
+
+\t dzaanééz líí     bizta¬.
+\m dzaanééz líí     bi-zta¬.
+\g  mule       horse 3OBJ.MORE.PROM-kicked
+\l The mule kicked the horse.
+
+\t Diné          ´ í ví v' bee           hóló v
+\m Diné          ´ í ví v' b-ee           hóló v
+\g  man horse he-with exists
+\l The man has a horse
+
+\t diné      ´ í ví v' yee               hóló v
+\m diné      ´ í ví v' y-ee               hóló v
+\g man horse he-with exists
+\l The man has a horse.
+
+\t b.   Sitsilí shizh é'é t´ óó ´ bichi v hadayíí´déél     
+\m b.   Sitsilí shizh é'é t´ óó ´ bi-chi v hada-y-íí-´-déél     
+\g      My little brother my father rope him-to down-it-perf-tr- handle
+\l My father tossed the rope to my little brother
+
+\t Shizhé'é sitsilí t´ óó´ hadayi yíí ´déél
+\m Shizhé'é sitsilí t´ óó´ hada-yi- y-íí- ´-déél
+\g My fathermy little brother rope down-him-it-perf-tr-handle
+\l My father tossed my little brother the rope.
+
+\t  ´      chid´´ yiy´´lcho
+\m  ´      chid´´ yiy´´lcho
+\g John     car.QFOC 3.3.PAST.wreck
+\l Did     John wreck the car?
+
+\t (77)   Jáan     chidí   ga'            yiyiilchoigíí          yinishdlá.
+\m (77)   Jáan     chidí   ga'            yiyiilcho-igíí          yinishdlá.
+\g        John     car     AssFoc                   wrecked-COMP          believe-I
+\l I believe that John wrecked [F the car].
+
+\t (78)   Jáan     chidí   hanii          yiyiilchoigíí          yinishdlá.
+\m (78)   Jáan     chidí   hanii          yiyiilcho-igíí          yinishdlá.
+\g        John     car     NegFoc         wrecked-COMP            believe-I
+\l It is not the car that I believe John wrecked.
+
+\t (79)   líí              hanii        nabíílgo'éê   ashkii shik'ihodíí'á.
+\m (79)   líí              hanii        nabíílgo'-éê   ashkii shik'ihodíí'á.
+\g        [horse           NegFoc         threw-REL]       boy    blamed:me
+\l It is not the boy that [F the horse] threw who blamed me.
+
+\t nihisiláo        náá+ts'ózí  yitaada'asdon
+\m nihi-siláo        náá+ts'ózí  yi-taa-da-'a-sdon
+\g 1.PL.POSS-soldier narrow.eyes 3.POSS-MED-DISTR-OBJ.INDEF-IPF:shoot
+\l Our soldiers fired at (among) the Japanese.
+
+\t nideeshhosh
+\m nideeshhosh
+\g 2SG-U-L-1SG-[CL-tickle]
+\l I will tickle you.
+
+\t 'adeeshháámlh
+\m 'adeeshháámlh
+\g 3i-U-L-1SG-[CL-snore]
+\l I will snore.
+
+\t deeshdlóólh
+\m deeshdlóólh
+\g U-L-1SG-[CL-freeze]
+\l I will freeze to death.
+
+\t ni'niishhóósh
+\m ni'niishhóósh
+\g 2SG-U-L-1SG-[CL-tickle]
+\l I start to tickle you.
+
+\t shi'niidlóóh
+\m shi'niidlóóh
+\g 1SG-U-L-[CL-freeze]
+\l I start to freeze to death.
+
+\t Jáan Jein yiÂ      naalnish.       Doo eii Séelii biÂ njilnishda.
+\m Jáan Jein yiÂ      naalnish.       Doo eii Séelii biÂ njilnishda.
+\g John Jane 3.with 3.works           Not Sally       3.with 4.works
+\l John works with Jane. He doesn't work with Sally.
+
+\t 'ashkii at'éé yi nílí
+\m 'ashkii at'éé yi nílí
+\g the-boy the-girl he-is-looking-at-her
+\l the boy is looking at the girl
+
+\t At'´´ n´          i´
+\m At'´´ n´          i´
+\g  girl   potato burnt
+\l The girl burnt the potato.
+
+\t Shil´' s´      biisx´i
+\m Shi-l´' s´      bi-isx´i
+\g my-horse old.age killed
+\l Old age killed my horse.
+
+\t at'ééd tó      yodla7@a7@'
+\m at'ééd tó      yodla7@a7@'
+\g girl   water [3DIR-]drink
+\l The girl drank the water
+
+\t chí'í awéé' biztal
+\m chí'í awéé' bi-ztal
+\g man baby [3INV-]kick
+\l The baby kicked the man
+
+\t at'e´ t´          ´¸
+\m at'e´ t´          ´¸
+\g girl water 3Acc(yi)-3Nom-drank
+\l The girl drank the water.
+
+\t dibe t´         i´ ´ el.
+\m dibe t´         i´ ´ el.
+\g sheep water 3Acc(bi)-3Nom-swept.off
+\l The water swept the sheep off.
+
+\t at'e´ t´         ¸´
+\m at'e´ t´         ¸´
+\g girl water 3Acc(yi)-3Nom-drank
+\l The girl drank the water.
+
+\t dibe t´       i´ ´ el.
+\m dibe t´       i´ ´ el.
+\g sheep water 3Acc(bi)-3Nom-swept.off
+\l The water swept the sheep off.
+
+\t dine´   bi¸           ´
+\m dine´   bi¸           ´
+\g man     deer    killed-Dir
+\l The    man     killed the deer.
+
+\t l¸´                ´
+\m l¸´                ´
+\g horse lightning killed-Inv
+\l Lightning killed the horse.
+
+\t nideeshhosh
+\m nideeshhosh
+\g 2SG-U-L-1SG-[CL-tickle]
+\l I will tickle you.
+
+\t 'adeeshháámlh
+\m 'adeeshháámlh
+\g 3I-U-L-1SG-[CL-snore]
+\l I will snore.
+
+\t deeshdlóólh
+\m deeshdlóólh
+\g U-L-1SG-[CL-freeze]
+\l I will freeze to death.
+
+\t ni'niishhóósh
+\m ni'niishhóósh
+\g 2SG-U-L-1SG-[CL-tickle]
+\l I start to tickle you.
+
+\t 'i'niishháámh
+\m 'i'niishháámh
+\g 3I-U-Ø-1SG-[CL-snore]
+\l I start to snore.
+
+\t shi'niidlóóh
+\m shi'niidlóóh
+\g 1SG-U-L-[CL-freeze]
+\l I start to freeze to death.
+
+\t hastiin OEasdzÌÌ ÈááOE yeiÞnølùùz
+\m hastiin OEasdzÌÌ ÈááOE y-e-i-Þ-nø-lùùz
+\g mani         womanj horsek 3.Oblj-to-3.Acck-3.Nomi-Pf-lead
+\l The man brought/led the horse to the woman
+
+\t yeiÞnølùùz
+\m y-e-i-Þ-nø-lùùz
+\g 3.Oblj-to-3.Acck-3.Nomi-Pf-lead
+\l He brought/led it to her
+
+\t At'ééd ashkii yiyiiltsá.
+\m At'ééd ashkii yiyiiltsá.
+\g girl   boy 3O-3SgS-saw
+\l The girl saw the boy.
+
+\t shash náshdóí yinoolchéél
+\m shash náshdóí yi-noolchéél
+\g bear     wildcat 3/3-chase
+\l The bear chased the wildcat.
+
+\t asdzáán askkii       yizts'õs
+\m asdzáán askkii       yizts'õs
+\g woman boy            3/3-kiss
+\l The woman kissed the boy.
+
+\t Jaan Jein yi     naalnish. Doo eii Seelii bi    njilnishda.
+\m Jaan Jein yi     naalnish. Doo eii Seelii bi    njilnishda.
+\g John Jane 3.with 3.works Not       Sally 3.with 4.works
+\l John works with Jane. He doesn't work with Sally.
+
+\t Jáan doo Bostongóó adoolbasda.
+\m Jáan doo Bostongóó adoolbasda.
+\g  John NEG Boston:to 1:F :dr ive:NEG
+\l John won't be dr iving to Boston.
+
+\t Jáan doo Bostongóó adoolbasda.
+\m Jáan doo Bostongóó adoolbas-da.
+\g  John NEG BOS T O N :to 1:FU T :dr ive-NEG
+\l John won't be dr iving to Boston.
+
+\t Doo Jáan Bostongóó adoolbasda.
+\m Doo Jáan Bostongóó adoolbas-da.
+\g NEG John BOS T O N :to 1:FU T :dr ive-NEG
+\l John won't be dr iving to Boston.
+
+\t Da'      kintahgóó díníyá?
+\m Da'      kintah-góó díníyá?
+\g  Q       town-to    you:go
+\l Are    you going to town?
+
+\t Silao deesháalgoda        'át'é.
+\m Silao deesh-áal-go-da        'át'é.
+\g ar my FU T-join-PTCL-might PTCL
+\l I might join the ar my.
+
+\t a*áán tl*éé*
+\m a*áán tl*éé*
+\g hole 3sgS.be.dark
+\l the hole is dark
+
+\t a*áángóne* hatl*éé*
+\m a*áán-góne* ha-tl*éé*
+\g hole-in        Loc-be.dark
+\l it is dark in the hole
+
+\t ashkii bikooh yiyii»ts
+\m ashkii bikooh yi-yii-»ts
+\g boy canyon 3sgO-3sgS.Perf-see
+\l the boy saw the canyon
+
+\t ashkii bikoohgóyaa hoo»ts
+\m ashkii bikooh-góyaa hoo-»ts
+\g boy canyon-down.in Loc-3sgS.Perf-see
+\l the boy saw the canyon
+
+\t ashkii hooghangóne* yah ííyá
+\m ashkii hooghan-góne* yah ííyá
+\g boy house-in           into 3sgS.Perf.go
+\l the boy went into the house
+
+\t haashjiid
+\m haa-sh-jiid
+\g up-I-lug.Impf
+\l I carry it up on my back (once).
+
+\t hahashjiid
+\m ha-ha-sh-jiid
+\g up-seriative-I-lug.Impf
+\l I carry a series of things up on my back.
+
+\t haashjiid
+\m haa-sh-jiid
+\g up-I-lug.heavy.object.Impf
+\l I carry it up on my back (once).
+
+\t hismáás
+\m hi-s-máás
+\g ser.-I-roll
+\l I roll them into it one after another.'3
+
+\t hahashjiid
+\m ha-ha-sh-jiid
+\g up-seriative-I-lug.Impf
+\l I carry a series of things up on my back.
+
+\t yiyii¬máás
+\m yi-yii-¬-máás
+\g 3rdperson obj.-ser.-classifier-roll.perf.
+\l He/she/it rolled them into it one after another
+
+\t neheldlóósh
+\m ne-he-l-dlóósh
+\g cessative-seriative-cl.-moving-on-four-legs.Impf
+\l They're coming to a point, one at a time (on 4 legs).
+
+\t heesht¢¢l
+\m hee-sh-t¢¢l
+\g ser.-I-slide.Progressive
+\l I drag it along end by end.
+
+\t hishchééh
+\m hi-sh-chééh
+\g ser-I-hobble.Impf
+\l I hop, hobble.
+
+\t heesht'eel
+\m hee-sh-t'eel
+\g ser-I-hop.Prog
+\l I am hopping along.
+
+\t 'Ashkii naalnish.
+\m 'Ashkii naa-l-nish.
+\g boy(sg) continuative-class.-work.Impf
+\l The boy is working.
+
+\t 'Ashiiké naalnish
+\m 'Ashiiké naa-l-nish
+\g boy(nonsg) continuative-class.-work
+\l The boys (dual) are working.
+
+\t 'Ashiiké ndaalnish
+\m 'Ashiiké n-daa-l-nish
+\g boy(nonsg) continuative-distr-cl.-work
+\l The boys (plural) are working.
+
+\t N¶d¶shch¶¶' yiyaadi daneeztª
+\m N¶d¶shch¶¶' yiyaadi daneeztª
+\g pine-tree      under-it dist.-lay-down
+\l They (two) (each) lie down under a (separate) pine tree
+
+\t N¶d¶shch¶¶' yiyaadi daneezhj¢¢'
+\m N¶d¶shch¶¶' yiyaadi daneezhj¢¢'
+\g pine-tree under-it da-lay-down (pl)
+\l They (pl) lie down under a pine tree (pine trees)
+
+\t niijeeh
+\m nii-jeeh
+\g terminal-(null cl.)-handle.plural.objects.impf
+\l They lie down, recline.
+
+\t hahasht··h
+\m ha-ha-sh-t··h
+\g out-ser-I-handle-sg.sticklike.obj
+\l I pull them out (of something) one after another
+
+\t hooghan góne' yah 'adahaaskai
+\m hooghan góne' yah 'a-da-haa-s-kai
+\g hogan      inside into away-dist-ser-perf-enter.pl
+\l They entered the hogan one after another
+
+\t (24)      hooghan góne' yah 'ahaaskai
+\m (24)      hooghan góne' yah 'a-haa-s-kai
+\g           hogan    inside into away-ser-enter.pl
+\l They entered the hogan separately, or in a series of groups
+
+\t 'adahiitee¬
+\m 'a-da-hii-tee¬
+\g   away-dist-ser.-slide
+\l They slide away one after another
+
+\t 'ahiitee¬
+\m 'a-hii-tee¬
+\g    away-ser-slide
+\l They slide away one after another
+
+\t niildlóósh
+\m nii-l-dlóósh
+\g cessative-cl.-moving-on-4-legs.Impf
+\l (4-legged animal) is coming to a point, crawling
+
+\t neheldlóósh
+\m ne-he-l-dlóósh
+\g cessative-seriative-cl.-moving-on-four-legs.Impf
+\l They're coming to a point, one at a time (on 4 legs).
+
+\t naalnoodii haalnood
+\m naalnoodii haa-l-nood
+\g lizard    up-cl.-dart.long.object.Impf
+\l A lizard darts up.
+
+\t naalnoodii hahalnood
+\m naalnoodii ha-ha-l-nood
+\g lizard     up-ser-cl-dart.long obj.Impf
+\l Lizards come darting up one after another.
+
+\t 'ashkii yah'ee'na'
+\m 'ashkii yah'ee'na'
+\g boy in-crawls.Impf
+\l The boy is crawling in
+
+\t 'ashiiké yah 'ahees'na'
+\m 'ashiiké yah 'ahees'na'
+\g boys in ser-crawls-Impf
+\l The boys crawled in one after another
+
+\t 'ashkii yah 'ahees'na'
+\m 'ashkii yah 'ahees'na'
+\g boy in ser-crawls.Impf
+\l The boy crawled in one after another.
+
+\t haa¬jiid
+\m haa-¬-jiid
+\g up/out-cl.-lug.Impf
+\l 3rd person brings out a pack of something
+
+\t hayii¬jiid
+\m ha-yii-¬-jiid
+\g up/out-ser.-cl.-lug.Impf
+\l 3rd sing. brings a series of things out
+
+\t hí¬m¡¡s
+\m hí-¬-m¡¡s
+\g 3rdperson obj.-cl.-roll.perf.
+\l 3rd person rolls it into it
+
+\t yiyii¬m¡¡s
+\m yi-yii-¬-m¡¡s
+\g 3rdperson obj.-ser.-cl.-roll.perf.
+\l 3rd sing rolls it or them, e.g. ball(s) or marble(s)
+
+\t ¬¢¢chTMTM'í    gah    yi¬nehedee¬
+\m ¬¢¢chTMTM'í    gah    yi¬--ne-he-dee¬
+\g dog           rabbit 3obj-cessative-ser-ropelike-object.Impf
+\l (one) dog is catching rabbits, (one at a time)
+
+\t 'ashkii gah yi¬didee¬
+\m 'ashkii gah yi-¬-di-dee¬
+\g Boy rabbit 3rdobj-ropelike-object.Impf
+\l The boy is catching the rabbit
+
+\t 'ashkii gah yi¬nehedee¬
+\m 'ashkii gah yi-¬-ne-he-dee¬
+\g boy rabbit 3rdobj-cessative-ser.-ropelike-object.Impf
+\l The boy is catching rabbits, one after the other
+
+\t (40) Hooghan góne' shimá       beeldléí   bá yah         'ahé¬tsooz
+\m (40) Hooghan góne' shimá       beeldléí   bá yah         'ahé¬tsooz
+\g     house inside my-mother blanket for into away-ser.-cl.-handle-flat-flexible-object
+\l I carried the blankets into the hogan for my mother one after another
+
+\t bizaass¶¶d
+\m bi-zaa-s-s¶¶d
+\g 3rdobj-mouth-I-handle-streaming.object
+\l I pour O into P's mouth.
+
+\t yizahyiiziid
+\m yi-zah-yii-ziid
+\g 3rdobj.-mouth-ser-handle-streaming object
+\l spoon liquid into (baby's) mouth one spoonful after another
+
+\t ch'il 'ahanin¶ziid
+\m ch'il 'ahani-n¶-ziid
+\g weeds toward-each-other-terminative-move-streaming-object
+\l He/she raked the weeds (together).
+
+\t ch'il 'ahanahiiziid
+\m ch'il 'ahana-hii-ziid
+\g weeds toward-each-other-ser.-move-streaming-object
+\l He/she raked the weeds with lots of little strokes.
+
+\t haashj¡¡h
+\m haa-sh-j¡¡h
+\g out-I-handle.plural.objects.Impf
+\l I take out plural objects
+
+\t hahashjááh
+\m ha-ha-sh-jááh
+\g out-ser-I-handle.plural.objects.Impf
+\l I take handfuls of plural objects out'(in succession)
+
+\t 'ayiijááh
+\m 'a-yii-jááh
+\g out-ser-handle.plural.objects
+\l S/he takes out handfuls in succession
+
+\t hishghaa¬
+\m hi-sh-ghaa¬
+\g ser-I-move.Impf
+\l I am wiggling.
+
+\t yish¡¡¬
+\m yi-sh-¡¡¬
+\g I-walk.sing.Prog
+\l I am walking along
+
+\t heesh¡¡¬
+\m hee-sh-¡¡¬
+\g ser-I-walk.sing.Prog
+\l I shuffle along, step along
+
+\t (51) ch'ídahiidááh
+\m (51) ch'í-da-hii-dááh
+\g       out-dist-ser.walk.sing.Impf
+\l They follow each other out
+
+\t ch'¶hiid¡¡h
+\m ch'¶-hii-d¡¡h
+\g out-dist.-ser-walk.sing.Impf
+\l They go out one by one.
+
+\t 'ashkii yázhí 'ºlta'd§§ yºº 'anáhalyeed
+\m 'ashkii yázhí 'ºlta'-d§§ yºº 'a-ná-ha-l-yeed
+\g boy little      school-from        away-reversionary-ser-cl.-run
+\l The little boy keeps running away (back) from school
+
+\t 'Ashdladigo neheshn¶¶sh
+\m 'Ashdladigo ne-he-sh-n¶¶sh
+\g five-o-clock    terminative-ser-I-work
+\l I (usually) quit working at five o'clock.
+
+\t 'Ashdladigo nahaaln¶¶sh
+\m 'Ashdladigo na-haa-l-n¶¶sh
+\g five-o-clock    terminative-ser-cl.-work
+\l 3rd person (customarily) quits working at five o'clock.
+
+\t (56) dadiniilt'éego         tsé           'adahaalghan
+\m (56) dadiniilt'éego         tsé           'a-da-haa-l-ghan
+\g      a-bunch-of-us        rock         away-dist.-ser.-cl.-move.forcefully.sg.
+\l A bunch of us threw one stone
+
+\t  dadiniilt'éego tsé          'adahaalt¬ííd
+\m  dadiniilt'éego tsé          'a-da-haa-l-t¬ííd
+\g a-bunch-of-us rock      away-dist.-ser.-cl.-move.forcefully.pl.
+\l A bunch of us threw stones
+
+\t 'ashkii gah yi¬didee¬
+\m 'ashkii gah yi¬-di-dee¬
+\g boy rabbit 3rdobj-handle-ropelike-object
+\l The boy is catching the rabbit
+
+\t gah bi¬'a'didee¬
+\m gah bi-¬-'a'-di-dee¬
+\g rabbit inverse-handle-ropelike-object
+\l A rabbit is being caught
+
+\t 'ashkii gah yi¬nehedee¬
+\m 'ashkii gah yi-¬-ne-he-dee¬
+\g boy rabbit ser.handle-ropelike-object
+\l The boy is catching rabbits, one after the other
+
+\t gah bi¬ne'iidee¬
+\m gah bi-¬-ne'-ii-dee¬
+\g rabbit inverse-ser-handle-ropelike-object
+\l The rabbits are being caught, one after the other
+
+\t hooghan góne' yah 'ahaasyá
+\m hooghan góne' yah 'a-haa-s-yá
+\g hogan      inside into away-ser-enter
+\l They entered the hogan one at a time, singularly
+
+\t naalnoodii hahalnood
+\m naalnoodii ha-ha-l-nood
+\g lizard      up-ser-cl-dart.long obj.Impf
+\l Lizards come darting up one after another.
+
+\t 'Ashdladigo nahaaln¶¶sh
+\m 'Ashdladigo na-haa-l-n¶¶sh
+\g five-o-clock terminative-ser-cl.-work
+\l 3rd person (customarily) quits working at five o'clock.
+
+\t heeshhéél
+\m hee-sh-héél
+\g ser.-I-handle.burden
+\l I am tugging it along, taking first one end and then another
+
+\t nehesxáás
+\m ne-he-s-xáás
+\g across-ser.-I-scratch
+\l I scratch him repeatedly
+
+\t chidi yihidilniish
+\m chidi yi-hi-di-l-niish
+\g car 3rdobj-ser-inceptive-cl.-work
+\l He repetitively starts work on the car (every morning)
+
+\t hahalts'ííd
+\m ha-ha-l-ts'ííd
+\g  out-ser.-cl.-free.movement.solid.round.object
+\l (solid round objects) fall out one after another
+
+\t ch'íhweesh'aah
+\m ch'í-hw-ee-sh-'aah
+\g out-3sing.obj.-ser-I-handle.small.obj/story
+\l I tell a series of stories
+
+\t ch'¶hiid¡¡h
+\m ch'¶-hii-d¡¡h
+\g  out-ser.-walk
+\l They go out one by one
+
+\t hishghaa¬
+\m hi-sh-ghaa¬
+\g ser-I-move.Impf
+\l I am wiggling.
+
+\t yisdáháshchééh
+\m yisdá-há-sh-chééh
+\g safety-ser.-I-hobble
+\l I hobble to safety
+
+\t  tóshjeeh 'ah¢¢n¶¬m¡¡s
+\m  tóshjeeh 'ah¢¢-n¶-¬-m¡¡s
+\g barrel circular-terminative-cl.-roll
+\l I rolled the barrel around in a circle.
+
+\t tóshjeeh 'ah¢¢h¢¬m¡¡s
+\m tóshjeeh 'ah¢¢-h¢-¬-m¡¡s
+\g barrel     circular-ser-cl.-roll
+\l I roll the barrel around in a succession of circles.
+
+\t 'ah¢¢h¢ldlººsh
+\m 'ah¢¢-h¢-l-dlººsh
+\g circular-ser-cl-go-4-feet
+\l It trots around and around in a circle
+
+\t At'ééd ashkii yiyiitsa
+\m At'ééd ashkii yiyii-tsa
+\g gi r l  boy 3SGOBJECT-3S      GSUBJECT-s   aw
+\l The girl saw the boy.
+
+\t Yiyiitsa
+\m Yiyii-tsa
+\g 3SGOBJECT-3SGSUBJECT-saw
+\l She/he saw her/him
+
+\t  chid´´ yiy´´lcho
+\m  chid´´ yiy´´lcho
+\g John     car.QFOC 3.3.PAST.wreck
+\l Is it   the car that John wrecked?
+
+\t shí    ashkii bil           yish'ash
+\m shí    ashkii bi-l           yi-sh-'ash
+\g I      boy      him-with     PROG-1SG-walk:DUAL
+\l I am walking with the boy
+
+\t nihí    la'         diiidáál
+\m nihí    la'         di-iid-áál
+\g we      subset      FUT-1NON:SG-walk:SG
+\l One of us will go
+
+\t sìcì            dìsníìnì
+\m sìcì            dìsníì-nì
+\g my.daughter I.told.her-PST
+\l I told my daughter.
+
+\t àkot'éélá   dìsnínì
+\m àkot'éélá   dìsní-nì
+\g in.that.fashion I.spoke-ASSERT
+\l I certainly spoke in that fashion.
+
+\t Ui        dzaanééz yiztai
+\m Ui        dzaanééz yi-ztai
+\g horse     mule        him-kicked
+\l The horse kicked the mule.
+
+\t lééchqq'i bets'aa             yihad
+\m lééchqq'i bets'aa             yihad
+\g dog       plate               yi-licking
+\l The dog is Licking the plate.
+
+\t ieets9aa'lééchqq'i bihaad
+\m ieets9aa'lééchqq'i bi-haad
+\g plate      dog          bi-licking
+\l The plate is being licked by the dog.
+
+\t dine     awee'ch'i biztal
+\m dine     awee'ch'i bi-ztal
+\g man      baby       bi-kicked
+\l The man was kicked by the baby.
+
+\t awee'chi7i diné yitzai
+\m awee'chi7i diné yi-tzai
+\g baby           man yi-kicked
+\l The baby kicked the man.
+
+\t iii       dzaanééz yiztd
+\m iii       dzaanééz yi-ztd
+\g home      mule        him-kicked
+\l The horse kicked the mule.
+
+\t dzaanétz lii        biztd
+\m dzaanétz lii        bi-ztd
+\g mule      horse      him-kicked
+\l The mule was kicked by the horse.
+
+\t chidi     tanésdgiz
+\m chidi     ta-né-s-d-giz
+\g car       PREF-PREF-MD-TI"-wring
+\l The car has been washed [by someone].
+
+\t 'asdz@  ?ashkii tané(y)igiz
+\m 'asdz@  ?ashkii ta-né-(y)i-giz
+\g woman boy          PREF-Pm-3ACC-wring
+\l The woman washed the boy.
+
+\t ashkii   tanbsdgiz
+\m ashkii   ta-nbs-d-giz
+\g boy       PREF-PREF-MD-TIv-wnng
+\l The boy was washed.
+
+\t 49 a.     'ashkii ts eyiztal.
+\m 49 a.     'ashkii ts eyiztal.
+\g           boy stone 3o-3sgs-kicked
+\l The boy kicked the stone.
+
+\t 54 a.          Yish al.
+\m 54 a.          Yish al.
+\g                1sg.walking
+\l I am walking
+
+\t Shi yish al.
+\m Shi yish al.
+\g I 1sg.walking
+\l I am walking.
+
+\t 55 a.          Yish ash.
+\m 55 a.          Yish ash.
+\g                1du.walking
+\l We two are walking.
+
+\t Nihi yish ash.
+\m Nihi yish ash.
+\g 1dual 1du.walking
+\l We two are walking.
+
+\t 56         ashkii b  yiyiilts
+\m 56         ashkii b  yiyiilts
+\g            boy her yi-saw
+\l The boy saw her.
+
+\t 57 a.        Ashkii at'eed    yiyiilts .
+\m 57 a.        Ashkii at'eed    yi-yiilts .
+\g              boy girl         yi-saw
+\l The boy saw    the girl.
+
+\t 59 Kii, s Mary an  s l  ' biztal n  .    igo
+\m 59 Kii, s Mary an  s l  ' biztal n  .    igo
+\g         K.M. recently horse bi-kick said
+\l Kii, Mary said that recently the horse kicked him.
+
+\t 61 a. Hastiin Baa' yil  '                         yizloh.
+\m 61 a. Hastiin Baa' yil  '                         yizloh.
+\g            man B.poss-horse 3sgo-3sgs-roped
+\l The man roped Baa's horse.
+
+\t Hastiin Baa' bil  '                   yizloh.
+\m Hastiin Baa' bil  '                   yizloh.
+\g    man B.poss-horse 3sgo-3sgs-roped
+\l Baa'roped the man's horse.
+
+\t dzaaneezl  ' haztal
+\m dzaaneezl  ' haztal
+\g   mule     horse ha-kicked
+\l The mule , the horse kicked it .
+
+\t shash náshdóí yinoolchéél
+\m shash náshdóí yi-noolchéél
+\g bear     wildcat 3/3-chase
+\l The bear chased the wildcat.
+
+\t asdzáán askkii       yizts'õs
+\m asdzáán askkii       yizts'õs
+\g woman boy            3/3-kiss
+\l The woman kissed the boy.
+
+\t diné ¬í ví v'       yee                   hóló v
+\m diné ¬í ví v'       y-ee                   hóló v
+\g man horse he-with                  exists
+\l The man has a horse.
+
+\t ¬í ví v'            shizhé'é             yee              hóló v
+\m ¬í ví v'            shi-zhé'é             y-ee              hóló v
+\g horse my father      he-with               exists
+\l My father has a horse.
+
+\t Sitsilí        shizhé'é       t¬÷óó ¬ bich÷iv÷        hadayíí¬déél
+\m Sitsilí        shizhé'é       t¬÷óó ¬ bi-ch÷iv÷        hada-y-íí-¬-déél
+\g My little brother my father rope him-to                down-it-perf-tr-handle(LFO)
+\l My father tossed the rope to my little brother
+
+\t Shizhé'é     sitsilí t¬÷óó ¬hadayiyíí¬déél
+\m Shizhé'é     sitsilí t¬÷óó ¬hada-yi-y-íí-¬-déél
+\g My father      my little brother       rope down-him-it-perf-tr-handle(LFO)
+\l My father tossed my little brother the rope.
+
+\t Da'      kintahgóó díníyá?
+\m Da'      kintah-góó díníyá?
+\g  Q       town-to    you:go
+\l Are    you going to town?
+
+\t béésò sìnìl
+\m béésò sì-nìl
+\g money perfect-lie(collection)
+\l Some money (small change) is lying (there).
+
+\t béésò sìltsòòz
+\m béésò sì-ltsòòz
+\g money perfect-lie(flat flexible entity)
+\l A note (bill) is lying (there).
+
+\t béésò sì?á
+\m béésò sì-?á
+\g money perfect-lie(round entity)
+\l A coin is lying (there).
+
+\t béésò sìnìl
+\m béésò sì-nìl
+\g money perfect-lie(collection)
+\l Some money (small change) is lying (there)
+
+\t béésò sìltsòòz
+\m béésò sì-ltsòòz
+\g money perfect-lie(flat flexible entity)
+\l A note (bill) is lying (there)
+
+\t béésh
+\m béésh
+\g knife
+\l knife
+
+\t shibéésh
+\m shi-béésh
+\g my-knife
+\l my knife
+
+\t béésh bee               'élzhéhé
+\m béésh bee               'élzhéhé
+\g knife with.it           something.is.peeled.NOM
+\l paring knife
+
+\t Háílá ha'át'íí nayiisnii?
+\m Háí-lá ha'át'íí nayiisnii?
+\g   who-Q what       bought
+\l Who bought what?
+
+\t Háí ha'át'íílá nayiisnii?
+\m Háí ha'át'íí-lá nayiisnii?
+\g who what-Q       bought
+\l Who bought what?
+
+\t shil hóóyéé.
+\m shil hóóyéé.
+\g with-me, became fear
+\l I am terrified
+
+\t shil yá'át'ééh.
+\m shil yá'át'ééh.
+\g with me, it is good
+\l I like it
+
+\t shiyaa hodeexiz.
+\m shiyaa hodeexiz.
+\g 1s-under HO-3-caused to spin
+\l He startled me
+
+\t At'ééd   to     yoodl
+\m At'ééd   to     yo-odl
+\g girl      water    ACT-drink.PAST
+\l The girl drank   the water.
+
+\t To at'ééd         boodl
+\m To at'ééd         bo-odl
+\g girl water        PASS-drink.PAST
+\l The water was    drunk by the girl.
+

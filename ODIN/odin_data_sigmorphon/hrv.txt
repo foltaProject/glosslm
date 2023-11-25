@@ -1,0 +1,180 @@
+\t (1.12)a. Marija            je    kupila         knjigu.
+\m (1.12)a. Marij-a            je    kupi-l-a         knjig-u.
+\g           Maria-FsgNOM be.3sg buy-PAST-Fsg book-FsgACC
+\l Maria bought the book.
+
+\t a´. Ona je       kupila        knjigu.
+\m a´. Ona je       kupi-l-a        knjig-u.
+\g     3sgF be.3sg buy-PAST-Fsg book-FsgACC
+\l She bought the book.
+
+\t Ja         sam kupila            knjigu.
+\m Ja         sam kupi-l-a            knjig-u.
+\g  1sgNOM be.1sg buy-PAST-Fsg book-FsgACC
+\l I bought the book.
+
+\t Taj muje pjesnik dao autogram
+\m Taj mu-je pjesnik dao autogram
+\g this him-is poet give.ptc autograph
+\l This poet has given him an autograph.
+
+\t Ivan ga je esto itao
+\m Ivan ga je esto itao
+\g Ivan it be.3s often read.ptc
+\l Ivan often read it.
+
+\t Jesam      itao knjigu.
+\m Jesam      itao knjigu.
+\g pos.be.1s read.ptc book
+\l I HAVE read the book.
+
+\t Nisam        itao knjigu.
+\m Nisam        itao knjigu.
+\g not.be.1s read.ptc book
+\l I didn't read the book.
+
+\t Taj pjesnik muje dao       autogram
+\m Taj pjesnik mu-je dao       autogram
+\g this poet him-is give.ptc autograph
+\l This poet has given him an autograph.
+
+\t U zelonoj ku i je stanovao.
+\m U zelonoj ku i je stanovao.
+\g in green house is stayed
+\l He stayed in the green house.
+
+\t Ivan je kupio zeleno auto.
+\m Ivan je kupio zeleno auto.
+\g Ivan be.3s buy.ptc green car
+\l Ivan bought a green car.
+
+\t Ivan je razbio tatino auto.
+\m Ivan je razbio tatino auto.
+\g Ivan be.3s ruin.ptc fathers car
+\l Ivan has ruined his father's car.
+
+\t  itao sam ga esto.
+\m  itao sam ga esto.
+\g read.ptc be.1s it often
+\l I have often read it.
+
+\t itao je ga Ivan esto.
+\m itao je ga Ivan esto.
+\g     read.ptc be.3s it Ivan often
+\l Ivan has often read it.
+
+\t Jive putuje        *(z) autom.
+\m Jive putuje        *(z) autom.
+\g Jive travelPRS:3:sg z carINST
+\l Jive travels by car.
+
+\t Nikola tuce        Luku *(z) pesicu.
+\m Nikola tuce        Luku *(z) pesicu.
+\g Nikola hitPRS:3:sg Luka z fistINST
+\l Nikola hits Luka with his fist.
+
+\t Ivan     je/j              spavao.
+\m Ivan     je/j              spavao.
+\g   Ivan   ist               geschlafen
+\l Ivan hat/HAT geschlafen.
+
+\t Marija i        Ivan     jesu     citali          novine.
+\m Marija i        Ivan     jesu     citali          novine.
+\g Maria und       Ivan     sind     gelesen         Zeitung
+\l Maria und Ivan haben eine Zeitung gelesen.
+
+\t Ivan   nje              skocio             sa    mosta.
+\m Ivan   n-je              skocio             sa    mosta.
+\g Ivan   NEG-ist           gesprungen         von   Brücke
+\l Ivan ist von der Brücke nicht gesprungen.
+
+\t Unuci                 su    baki                darovali              cvijece.
+\m Unuc-i                 su    bak-i                darova-l-i              cvijec-e.
+\g grandson-MplNOM be.3pl grandmother-FsgDAT give-PAST-pl                    flower-MplACC
+\l The grandsons gave flowers to [their] grandmother.
+
+\t Unuci                su     baku                darovali              cvijecem.
+\m Unuc-i                su     bak-u                darova-l-i              cvijec-em.
+\g grandson-MplNOM be.3pl grandmother-FsgACC give-PAST-pl                    flower-MplINST
+\l The grandsons gave [their] grandmother flowers.
+
+\t Cr a.       Lav je Tolstoi veliki ruski pisac
+\m Cr a.       Lav je Tolstoi veliki ruski pisac
+\g             Leo is Tolstoi great Russian writer
+\l Leo Tolstoi is a great Russian writer
+
+\t U ovu je veliku sobu usao.
+\m U ovu je veliku sobu usao.
+\g in that is big room entered
+\l (He) entered that big room
+
+\t Mario *(ne) vidi ni(t)koga.
+\m Mario *(ne) vidi ni(t)koga.
+\g Mario not see.3sg n-person
+\l Mario cannot see anyone.
+
+\t Ni(t)ko *(ne) vidi Mario.
+\m Ni(t)ko *(ne) vidi Mario.
+\g n-person not see.3sg Mario
+\l Nobody can see Mario.
+
+\t   radio/radila/radilo; vien/viena/vieno
+\m   radio/radila/radilo; vien/viena/vieno
+\g worked-present part.3.m.sg./f/n; seen-past part.3.m.sg/f/n
+\l he/she/it worked; he/she/it is seen
+
+\t   sam/jesam
+\m   sam/jesam
+\g am-pres.1.sg.nonemphatic/emphatic
+\l I am
+
+\t   u/hou
+\m   u/hou
+\g want-pres.1.sg.nonemphatic/emphatic
+\l I want
+
+\t Zoran je           obeao        se    dobro            oprati.
+\m Zoran je           obeao        se    dobro            oprati.
+\g Zoran    CL-AUX    promised self carefully wash
+\l Zoran promised to wash himself carefully.
+
+\t Nazvali smo klijenticu (od) [ [ odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\m Nazvali smo klijenticu (od) [ [ odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\g phoned are client      (of)     lawyer[Gen] that smokes pack cigarettes daily
+\l We phoned the client of a lawyer; the lawyer smokes a pack of cigarettes a day.
+
+\t Nazvali smo [ [ klijenticu (od) odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\m Nazvali smo [ [ klijenticu (od) odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\g phoned are      client     (of) lawyer[Gen] that smokes pack cigarettes daily
+\l We phoned the client of a lawyer; the client smokes a pack of cigarettes a day.
+
+\t Nazvali smo klijenticu (od) odvjetnice s<to pus<i.
+\m Nazvali smo klijenticu (od) odvjetnice s<to pus<i.
+\g phoned are client       (of) lawyer[Gen] that smokes
+\l We phoned the client of a lawyer; the lawyer smokes.
+
+\t Nazvali smo klijenticu (od) [ [ odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\m Nazvali smo klijenticu (od) [ [ odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\g phoned are client      (of)     lawyer[Gen] that smokes pack cigarettes daily
+\l We phoned the client of a lawyer; the lawyer smokes a pack of cigarettes a day.
+
+\t Nazvali smo [ [ klijenticu (od) odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\m Nazvali smo [ [ klijenticu (od) odvjetnice ] s<to pus<i   paket cigareta dnevno ]
+\g phoned are      client     (of) lawyer[Gen] that smokes pack cigarettes daily
+\l We phoned the client of a lawyer; the client smokes a pack of cigarettes a day.
+
+\t Nazvali smo klijenticu (od) odvjetnice s<to pus<i.
+\m Nazvali smo klijenticu (od) odvjetnice s<to pus<i.
+\g phoned are client       (of) lawyer[Gen] that smokes
+\l We phoned the client of a lawyer; the lawyer smokes.
+
+\t JOVANA savjetuje.
+\m JOVANA savjetuje.
+\g Jovan.ACC advises
+\l (S)he advises Jovan.
+
+\t Ima/evo       kruha.
+\m Ima/evo       kruh-a.
+\g There-is/here breag-GEN.
+\l There is bread./Here'sbread'.
+

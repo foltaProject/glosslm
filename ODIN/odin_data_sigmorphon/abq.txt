@@ -1,0 +1,365 @@
+\t Hpa      xsjº   yº¹ºn.
+\m H-pa      xsjº   yº¹ºn.
+\g our-son milk drank
+\l Our son drank the milk.
+
+\t Ahmet     ytdzº
+\m Ahmet     y-tdzº
+\g Ahmet     3SM-house
+\l Ahmet's house
+
+\t awiy am¸taxi
+\m awiy a-m¸taxi
+\g that     3SI-after
+\l after that
+
+\t dlbád
+\m d-l-bád
+\g 3sg.ms.ABS 3sg.fm.ERG-see-PST
+\l She saw him
+
+\t dfád
+\m d-fád
+\g 3sg.fm.ABS-go-PST
+\l She's gone
+
+\t sqwmart'
+\m s-qwmar-t'
+\g A1SG-play-DYN
+\l I played.
+
+\t dqwmart'
+\m d-qwmar-t'
+\g A3SG.H-play-DYN
+\l S/he played.
+
+\t yqwmart'
+\m y-qwmar-t'
+\g A3SG.N-play-DYN or A3PL-play-DYN
+\l It played.
+
+\t bUlbat'
+\m bU-l-ba-t'
+\g A2SG.F-E3SG.F-see-DYN
+\l She saw you (F.).
+
+\t dUlbawa+t'  [dUlbu+t']
+\m dU-l-ba-wa+-t'  [dUlbu+t']
+\g A3SG.F-E3SG.H-see-FUT-DYN
+\l She saw him/her.
+
+\t ÇUybayt'  [Çibit']
+\m ÇU-y-ba-y-t'  [Çibit']
+\g A1PL-E3SG.M-see-PRES-DYN
+\l He saw us.
+
+\t dUw+jUt'  [du+jUt']
+\m dU-w-+jU-t'  [du+jUt']
+\g A3SG.H-E2SG.M-kill-DYN
+\l You (m.) killed him/her.
+
+\t sara asabUy d[lUcU]ztat'
+\m sara a-sabUy d-[lU-cU]-z-ta-t'
+\g I     the-child A3SG.F-[P3SG.F-COM]-E1SG-carry-DYN
+\l I carried the child with her.
+
+\t atwraÇa y[ala]psq'Ut'
+\m a-twraÇa y-[a-la]-p-s-q'U-t'
+\g the-ax A3SG.N-[P3SG.N-INST]-PV-E1SG-cut-DYN
+\l I cut it with the ax.
+
+\t aAaramakwa bq'wUlk' [yta]lc'an                        aqarpatjUy            abraÇaqw [akw]lc'axd                       
+\m a-Aarama-kwa bq'wUl-k' [y-ta]-l-c'a-n                        a-qarpa-tjUy            abraÇaqw [a-kw]-l-c'a-x-d                       
+\g the-bunch-PL barrel-INDEF [P3SG.N-LOC.in]-3SG.F-put-PST the-lid-INT                  boulder [P3SG.N-LOC.on]-E3SG.F-put-ASP.again-DYN
+\l She put the bunches in a barrel and on the lid she also replaced the boulder.
+
+\t y[ÇUz]»akwUlc'at'
+\m y-[ÇU-z]-»a-kwU-l-c'a-t'
+\g A3SG.N-[P1PL-BEN]-DIR-PV-E3SG.F-place-DYN
+\l She put it (here) for us.
+
+\t y[ÇUcw]»akwUlc'at'
+\m y-[ÇU-cw]-»a-kwU-l-c'a-t'
+\g A3SG.N-[P1PL-ADV]-DIR-PV-E3SG.F-place-DYN
+\l She put it (here) against our will.
+
+\t y[ÇUc]»akwUlc'at'
+\m y-[ÇU-c]-»a-kwU-l-c'a-t'
+\g A3SG.N-[P1PL-COM]-DIR-PV-E3SG.F-place-DYN
+\l She put it (here) with us.
+
+\t y[ala]»akawUlc'at'
+\m y-[a-la]-»a-kawU-l-c'a-t'
+\g A3SG.N-[P3SG.N-INST]-DIR-PV-E3SG.F-place-DYN
+\l She put it (here) with it (e.g. tongs).
+
+\t y[ycw ]rUstat'
+\m y-[y-cw ]-rU-s-ta-t'
+\g A3sG.N-[P3SG.M-ADV]-D3PL-E1SG.-give-DYN
+\l I gave it to them against his will.
+
+\t y»a[ÇUdU]lc'at'
+\m y-»a-[ÇU-dU]-l-c'a-t'
+\g A3SG.N-DIR-[P1PL-LOC.near]-E3SG.F-place-DYN
+\l She placed it (here) near us.
+
+\t y»a[rc'a]lc'at'
+\m y-»a-[r-c'a]-l-c'a-t'
+\g A3SG.N-DIR-[P3PL-LOC.under]-E3SG.F-place-DYN
+\l She placed it (here) under them.
+
+\t y»a[ÇU+jta]lc'at'
+\m y-»a-[ÇU-+jta]-l-c'a-t'
+\g A3SG.N-DIR-[P1PL-LOC.behind]-E3SG.F-place-DYN
+\l She placed it (here) behind us.
+
+\t yÇzU»aÇwwan
+\m y-Ç-zU-»aÇw-wan
+\g  A3PL-P1PL-BEN-dance-IMPF
+\l They danced for us.
+
+\t arqan salaqalwan
+\m arqan s-a-la-qal-wan
+\g  rope A1SG-P3SG.N-INST-climb-IMPF
+\l I climbed with the rope.
+
+\t sakwc'wat'
+\m s-a-kw-c'wa-t'
+\g  A1SG-P3SG.N-LOC.on-sit-DYN
+\l I sat on it.
+
+\t ylUcUrzalaÇcjpat'
+\m y-lU-cU-r-z-a-la-Ç-cjpa-t'
+\g A3SG.N-P3SG.F-COM-P3PL-BEN-P3SG.N-INST-E1PL-do-DYN
+\l We did it with her for them with it.
+
+\t spÇa         ayAaza»w astol            dUyzakwsc'ayt'                          
+\m s-pÇa         ayAaza»w a-stol            dU-y-z-a-kw-s-c'a-y-t'                          
+\g 1SG-daughter doctor the-table            A3SG.H-P3SG.M-BEN-P3SG.N-LOC.on-E1SG-put-PRS-DYN
+\l I put my daughter on the table for the doctor.
+
+\t dUrzalacat'
+\m dU-r-z-a-la-ca-t'
+\g A3SG.H-P3PL-BEN-P3SG.N-INST-go-DYN
+\l S/he went with it to their house.'10
+
+\t dlUcyUzcat'
+\m d-lU-c-yU-z-ca-t'
+\g A3SG.H-P3SG.F-BEN-P3SG.M-COM-go-DYN
+\l S/he went with him to her house.
+
+\t dalayUccjat'
+\m d-a-la-yU-c-cja-t'
+\g A3SG.H-P3SG.N-INST-P3SG.M-COM-eat-DYN
+\l S/he ate with him with it.
+
+\t spÇa        ayAaza»w yUqazla        astol   dakwsc'ayt'
+\m s-pÇa        ayAaza»w yU-qaz-la        a-stol   d-a-kw-s-c'a-y-t'
+\g 1SG-daughter doctor     3SG.M-for-INST the-table A3SG.H-P3SG.N-LOC.on-E1SG-place-PRS-DYN
+\l I put my daughter on the table for the doctor.
+
+\t dlUzyUccat'
+\m d-lU-z-yU-c-ca-t'
+\g A3SG.H-P3SG.F-BEN-P3SG.M-COM-go-DYN
+\l S/he went to her house with him.
+
+\t dyUclUzcat'
+\m d-yU-c-lU-z-ca-t'
+\g A3SG.H-P3SG.M-COM-P3SG.F-BEN-go-DYN
+\l S/he went with him to her house.
+
+\t sara bilet wara wUqaz y»asawd
+\m sara bilet wara wU-qaz y-»a-s-aw-d
+\g I     ticket you 2SG.M-for A3SG.N-PV-E1SG-find-DYN
+\l I found the ticket for you.
+
+\t sara qwmartak' spa        yUqazla   ysUmab
+\m sara qwmarta-k' s-pa        yU-qaz-la   y-s-Uma-b
+\g I     toy-INDEF 1SG-son 3SG.M-for-AV A3SG.N-E1SG.-have-STP
+\l I have a toy for my son.
+
+\t awat rak'wb      adUwnay dUzzUkwUw,               yqa             aqazla      adUwnay dtjUkwUm         
+\m awat r-ak'w-b      a-dUwnay dU-z-z-UkwU-w,               y-qa             a-qaz-la      a-dUwnay d-tjU-kwU-m         
+\g they E3PL-be-STP the-world A3SG.H-PWH-BEN-be.in-PRP 3SG.M-head            3SG.N-for-AV the-world A3SG.H-INT-be.in-NEG
+\l He is living in the world for them, not for himself.
+
+\t aÇmet bey wac'wU Çara ÇacUta         sinema Çcata           Çamcaw+ta         tjama yUwdUrUwma            
+\m aÇmet bey wac'wU Çara Ç-acU-ta         sinema Ç-ca-ta           Ça-m-ca-w+-ta         tjama yU-w-dUr-Uw-ma            
+\g         B.tomorrow we 1PL-with-GER movies A1PL-go-GER           A1PL-NEG-go-FUT2-GER TAG    A3SG.N-E2SG.M-know-PRS-YNQ
+\l You don't know whether Ahmet Bey will go to the movies with us tomor- row, do you?
+
+\t acjk'wUn kjUmla dqwmarUyd
+\m a-cjk'wUn kjUm-la d-qwmarU-y-d
+\g the-boy top-INST A3SG.H-play-PRS-DYN
+\l The boy is playing with a top.
+
+\t acjk'wUn kjUm dalaqwmarUyd
+\m a-cjk'wUn kjUm d-a-la-qwmarU-y-d
+\g the-boy top A3SG.H-P3SG.N-INST-play-PRS-DYN
+\l The boy is playing with the top.
+
+\t awUy sadzqa        dc'wab
+\m awUy s-adzqa        d-c'wa-b
+\g s/he 1SG-beside A3SG.H-sit-STP
+\l S/he is sitting next to me.
+
+\t acjk'wUn ac'la ac'axj          dqwmarUyd
+\m a-cjk'wUn a-c'la a-c'axj          d-qwmarU-y-d
+\g the-boy the-tree 3SG.N-under A3SG.H-play-PRS-DYN
+\l The boy is playing under the tree.
+
+\t acjk'wUn ac'la apaxj                d»ayyd
+\m a-cjk'wUn a-c'la a-paxj                d-»ay-y-d
+\g the-boy the-tree 3SG.N-in.front.of A3SG.H-come-PRS-DYN
+\l The boy comes in front of the tree.
+
+\t Çara a»wata awac'a cUÇabayd
+\m Çara a-»wata a-wac'a cU-Ça-ba-y-d
+\g we the-mirror 3SG.N-in REFL-E1PL-see-PRS-DYN
+\l We see ourselves in the mirror.
+
+\t arq'anla ywcwUsUct'
+\m arq'an-la y-w-cwU-s-Uc-t'
+\g rope-INST A3SG.N-P2SG.M-ADV-E1SG-steal-DYN
+\l I stole it from you with a rope.
+
+\t arq'an yUwcwala»asUct'
+\m arq'an yU-w-cw-a-la-»a-s-Uc-t'
+\g rope A3SG.N-P2SG.M-ADV-P3SG.N-INST-DIR-E1SG-steal-DYN
+\l I stole it from you with the rope.
+
+\t acjk'wUn amÇac'wa yax+ja           dalayUccjat'
+\m a-cjk'wUn a-mÇac'wa y-ax+ja           d-a-la-yU-c-cja-t'
+\g the-boy the-spoon 3SG.M-sister A3SG.H-P3SG.N-INST-P3SG.M-COM-eat-DYN
+\l Hisi sister ate with the boyi with the spoon.
+
+\t acjk'wUn mÇac'wa yax+ja           dalayUccjat'
+\m a-cjk'wUn mÇac'wa y-ax+ja           d-a-la-yU-c-cja-t'
+\g  the-boy spoon 3SG.M-sister A3SG.H-P3SG.N-INST-P3SG.M-COM-eat-DYN
+\l His sister ate with the boy with spoons/a spoon.
+
+\t acjk'wUn mÇac'wala yax+ja           dyUccjat'
+\m a-cjk'wUn mÇac'wa-la y-ax+ja           d-yU-c-cja-t'
+\g the-boy spoon-INST 3SG.M-sister A3SG.H-P3SG.M-COM-eat-DYN
+\l Hisi sister ate with the boyi with spoons/a spoon.
+
+\t acjk'wUn awUla dqwmarit'
+\m a-cjk'wUn awU-la d-qwmar-i-t'
+\g  the-boy that-INST A3SG.H-play-PRS-DYN
+\l The boy is playing with that.
+
+\t acjk'wUn awUy dalaqwmarit'
+\m a-cjk'wUn awUy d-a-la-qwmar-i-t'
+\g  the-boy it/that A3SG.H-P3SG.N-INST-play-PRS-DYN
+\l The boy is playing with it/that.
+
+\t k'ama+j ... accwa         »waÇwatji yUcyc'an            xan ypa         yfUrtwUn             datwUkwst'           
+\m k'ama+j ... a-c-cwa         »waÇwa-tji yU-c-y-c'a-n            xan y-pa         y-fUrtwUn             d-a-twUkws-t'           
+\g K.the-horse-PL twenty-INT P3SG.M-COM-E3SG.M-put-PST khan 3SG.M-son 3SG.M-van                          A3SG.H-E3SG.N-attack-DYN
+\l Kamashi . . . took with himi twenty horsemen and fell on the khan's son's vanguard.
+
+\t Çara dÇUlaÇUrc'wawa
+\m Çara d-ÇU-la-ÇU-r-c'wa-wa
+\g we A3SG.H-P1PL-LOC.among-C1PL-CSE-sit-PRP
+\l [how can] he be seated among us?
+
+\t yUlzUlcjpat'
+\m yU-l-zU-l-cjpa-t'
+\g E3SG.N-P3SG.F-BEN-E3SG.F-do-DYN
+\l Shei did it for herj .
+
+\t sara atelevizor lUcUztat'
+\m sara a-televizor lU-cU-z-ta-t'
+\g I     the-television P3SG.F-COM-E1SG-carry-DYN
+\l I with her carried the television.
+
+\t Çara ala       Çacw+wayd
+\m Çara a-la       Ç-a-cw-+wa-y-d
+\g  we the-dog A1PL-P3SG.N-ADV-fear-PRS-DYN
+\l We are afraid of the dog.
+
+\t spÇa           ayAaza»w yUqazla        astol     dakwsc'it'
+\m s-pÇa           ayAaza»w yU-qaz-la        a-stol     d-a-kw-s-c'-i-t'
+\g  1SG-daughter doctor       3SG.M-for-INST the-table A3SG.H-P3SG.N-LOC.on-E1SG-place-PRS-DYN
+\l I put my daughter on the table for the doctor.
+
+\t sara bilet wara wUqaz y»asawd
+\m sara bilet wara wU-qaz y-»a-s-aw-d
+\g  I     ticket you 2SG.M-for A3SG.N-PV-E1SG-find-DYN
+\l I found the ticket for you.
+
+\t acjk'wUn ama+ina yU»wzacwa         dUrzalacat'
+\m a-cjk'wUn a-ma+ina yU-»wza-cwa         dU-r-z-a-la-ca-t'
+\g  the-boy the-car 3SG.M-friend-PL A3SG.H-P3PL-BEN-P3SG.N-INST-go-DYN
+\l The boy went with the car to his friends' house.
+
+\t laq'wUm zzUlrUdzUz
+\m laq'wUm z-zU-l-rUdzU-z
+\g lokum PWH-BEN-E3SG.F-cook-PSP
+\l (the one) who she cooked lokum for
+
+\t asabUykwa zUcw+wuya
+\m a-sabUy-kwa zU-cw-+w-u-ya
+\g the-child-PL PWH-ADV-fear-PRS-WHQ
+\l What are the children afraid of?
+
+\t yUzcwUÇcjpaz
+\m yU-z-cwU-Ç-cjpa-z
+\g A3SG.N-PWH-ADV-E1PL-do-PSP
+\l the one against whose will we did it
+
+\t wUzccuda
+\m wU-z-c-c-u-da
+\g A2SG.M-PWH-COM-go-PRS-WHQ
+\l Who are you going with?
+
+\t asabUykwa zcqwmarwa
+\m a-sabUy-kwa z-c-qwmar-wa
+\g the-child-PL PWH-COM-play-PRP
+\l the one with whom the children are playing
+
+\t dzU zla»aztwa
+\m dzU z-la-»a-z-t-wa
+\g water PWH-INST-DIR-E1SG-carry-PRP
+\l that with which I am carrying water
+
+\t dUzkwc'wuya
+\m dU-z-kw-c'w-u-ya
+\g A3SG.H-PWH-LOC.on-sit-PRS-WHQ
+\l What is s/he sitting on?
+
+\t ÇUzdzqatUlu                 ac'la
+\m ÇU-z-dzqa-tUl-u                 a-c'la
+\g A1PL-PWH-LOC.beside-stand-PRP the-tree
+\l the tree we are standing next to
+
+\t hthád
+\m h-thád
+\g 1PL-gaan
+\l W ij-(S) zijn weg.
+
+\t hlbád
+\m h-l-bád
+\g 1PL-3SG:FEM-zien
+\l Zij-(A) heeft ons-(O) gezien.
+
+\t hybád
+\m h-y-bád
+\g 1PL-3SG:MASC-zien
+\l Hij-(A) heeft ons-(O) gezien.
+
+\t dhbád
+\m d-h-bád
+\g O-A-V      3SG-1PL-zien
+\l W ij-(A) hebben hem/haar-(O) gezien.
+
+\t (sara) spn
+\m (sara) s-pn
+\g I      1sg-at
+\l at my house, by me
+
+\t (sara) spn
+\m (sara) s-pn
+\g I      1sg-at
+\l at my house, by me
+

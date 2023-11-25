@@ -1,0 +1,340 @@
+\t ma [pro] w@xwara
+\m ma [pro] w@-xwar-a
+\g I [pro] perf-eat-fem.sg
+\l I ate it
+
+\t de        Sangin    khyal      dee     [tshi       mashem    uda      dee]
+\m de        Sangin    khyal      dee     [tshi       mashem    uda      dee]
+\g POSS      Sangin    thought    be      COMP        baby      sleep    be
+\l Sangin thinks the baby is sleeping
+
+\t dzhobláwem                        dee
+\m dzhobl-áw-em                        dee
+\g injure-TRANS(PRES IMPF   )-1SG   2SG
+\l I am injuring you
+
+\t dzhoblawélem                      dee
+\m dzhobl-awél-em                      dee
+\g injure-TRANS(PAST IMPF   )-1SG   2SG
+\l you were injuring me
+
+\t dzhóbel      kem                           dee
+\m dzhóbel      k-em                           dee
+\g injured      do(PRES   PERF TRANS)-1SG      2SG
+\l I injure you
+
+\t dzhóbel      dee       kem
+\m dzhóbel      dee       k-em
+\g injured      2   SG    do(PRES   PERF TRANS)-1SG
+\l I injure you
+
+\t dzhóbel      krrem                         dee
+\m dzhóbel      krr-em                         dee
+\g injured      do(PAST   PERF TRANS)-1SG      2SG
+\l you injured me
+
+\t dzhóbel      dee       krrem
+\m dzhóbel      dee       krr-em
+\g injured      2   SG    do(PAST   PERF TRANS)-1SG
+\l you injured me
+
+\t khaaysta       kawem                        dee
+\m khaaysta       kaw-em                        dee
+\g beautiful      do(PRES   IMPF TRANS)-1SG     2SG
+\l I am making you beautiful
+
+\t khaaysta       dee       kawem
+\m khaaysta       dee       kaw-em
+\g  beautiful      2SG       do(PRES   IMPF TRANS)-1SG
+\l I am making you beautiful
+
+\t khaaysta      kawélem                       dee
+\m khaaysta      kawél-em                       dee
+\g beautiful     do(PAST    IMPF TRANS)-1SG     2SG
+\l you were making me beautiful
+
+\t  beautiful      2SG
+\m  beautiful      2SG
+\g                           do(PAST   IMPF TRANS)-1SG
+\l you were making me beautiful
+
+\t khaaysta       kem                           dee
+\m khaaysta       k-em                           dee
+\g beautiful      do(PRES   PERF TRANS)-1SG      2  SG
+\l I make you beautiful
+
+\t khaaysta       dee       kem
+\m khaaysta       dee       k-em
+\g beautiful      2SG       do(PRES   PERF TRANS)-1SG
+\l I make you beautiful
+
+\t khaaysta       krrem                            dee
+\m khaaysta       krr-em                            dee
+\g beautiful      do(PAST   PERF TRANS)-1SG         2SG
+\l you made me beautiful
+
+\t khaaysta        dee       krrem
+\m khaaysta        dee       krr-em
+\g beautiful       2SG       do(PAST    PERF TRANS)-1SG
+\l you made me beautiful
+
+\t sangin             kerkey                   maata             krra
+\m sangin             kerkey                   maat-a             krr-a
+\g Sangin(MASC)       window(FEM    SG)        broken-FEM SG   do(PAST   PERF)-FEM3SG
+\l Sangin broke the window
+
+\t sangin            kerkey                    maatee              krri
+\m sangin            kerkey                    maat-ee              krr-i
+\g Sangin(MASC)      windows(FEM     PL   )    broken-FEM PL     do(PAST       PERF)-FEM3PL
+\l Sangin broke the windows
+
+\t sangin            war                       maat                 krro
+\m sangin            war                       maat                 krr-o
+\g Sangin(MASC)      door(MASC     SG)         broken(MASC    SG)   do(PAST       PERF)-MASC3SG
+\l Sangin broke the door
+
+\t sangin            warúna                    maat                 krrel
+\m sangin            warúna                    maat                 krr-el
+\g Sangin(MASC)      doors(MASC    PL)         broken(MASC    PL)   do(PAST       PERF)-MASC3PL
+\l Sangin broke the doors
+
+\t sangin            kerkey                   maatawi
+\m sangin            kerkey                   maat-aw-i
+\g Sangin(MASC)      window(FEM)              broken-TRANS(PRES IMPF   )-3SG
+\l Sangin is breaking the window(s)
+
+\t sangin            war                      maatawi
+\m sangin            war                      maat-aw-i
+\g Sangin(MASC)      door(MASC     SG)        broken-TRANS(PRES IMPF   )-3SG
+\l Sangin is breaking the door
+
+\t sangin            warúna                     maatawi
+\m sangin            warúna                     maat-aw-i
+\g Sangin(MASC)      doors(MASC     PL)         broken-TRANS(PRES IMPF   )-3SG
+\l Sangin is breaking the doors
+
+\t táaso             warúna                     maatawey
+\m táaso             warúna                     maat-aw-ey
+\g 2PL               doors(MASC     PL)         broken-TRANS(PRES IMPF   )-2PL
+\l you (PL) are breaking the doors
+
+\t Sangin             kerkey                      maatawéla
+\m Sangin             kerkey                      maat-aw-éla
+\g Sangin(MASC)       window(FEM     SG)          broken-TRANS-FEM3SG
+\l Sangin was breaking the window
+
+\t Sangin             kerkey                      maatawéli
+\m Sangin             kerkey                      maat-aw-éli
+\g Sangin(MASC)       windows(FEM      PL   )     broken-TRANS-FEM3PL
+\l Sangin was breaking the windows
+
+\t Sangin             war                         maatawu
+\m Sangin             war                         maat-aw-u
+\g Sangin(MASC)       door(MASC     SG)           broken-TRANS-MASC3SG
+\l Sangin was breaking the door
+
+\t Sangin             warúna                      maatawel
+\m Sangin             warúna                      maat-aw-el
+\g Sangin(MASC)       doors(MASC    PL)           broken-TRANS-MASC3PL
+\l Sangin was breaking the doors
+
+\t táaso     kerkey                maata               key
+\m táaso     kerkey                maat-a               key
+\g 2 PL      window(FEM    SG)     broken-FEM SG     do(PRES    PERF 2PL   )
+\l you (PL) break the window
+
+\t táaso     kerkey                maatee              key
+\m táaso     kerkey                maat-ee              key
+\g 2 PL      windows(FEM    PL   ) broken-FEM PL     do(PRES    PERF 2PL   )
+\l you (PL) break the windows
+
+\t táaso     war                   maat                 key
+\m táaso     war                   maat                 key
+\g 2 PL      door(MASC   SG)       broken(MASC   SG)    do(PRES    PERF 2PL   )
+\l you (PL) break the door
+
+\t táaso       warúna               maat                      key
+\m táaso       warúna               maat                      key
+\g 2PL         doors(MASC     PL)   broken(MASC         PL)   do(PRES   PERF 2PL   )
+\l you (PL) break the doors
+
+\t sangin       ba      kerkey                   maata                 krri
+\m sangin       ba      kerkey                   maat-a                 krr-i
+\g Sangin       FUT     window(FEM    SG)        broken-FEM SG       do(PAST   PERF)-MASC3SG
+\l Sangin (   MASC)   will break the window
+
+\t sangin       ba      kerkey                   maatee                krri
+\m sangin       ba      kerkey                   maat-ee                krr-i
+\g Sangin       FUT     windows(FEM    PL   ) broken-FEM PL       do(PAST   PERF)-MASC3SG
+\l Sangin (   MASC)   will break the windows
+
+\t sangin       ba      war                      maat                   krri
+\m sangin       ba      war                      maat                   krr-i
+\g Sangin       FUT     door(MASC   SG)          broken(MASC   SG)      do(PAST   PERF)-MASC3SG
+\l Sangin (   MASC)   will break the door
+
+\t sangin       ba      warúna                   maat                   krri
+\m sangin       ba      warúna                   maat                   krr-i
+\g Sangin       FUT     doors(MASC   PL)         broken(MASC   PL)      do(PAST   PERF)-MASC3SG
+\l Sangin (   MASC)   will break the doors
+
+\t táaso        ba      warúna                   maat                   krrey
+\m táaso        ba      warúna                   maat                   krr-ey
+\g 2PL          FUT     doors(MASC   PL)         broken(MASC   PL)      do(PAST   PERF   )-2PL
+\l you (PL) will break the doors
+
+\t dzhorr                       ka
+\m dzhorr                       k-a
+\g built(MASC     SG)           do(PRES   PERF   )-2SG
+\l build it(   MASC SG)!
+
+\t dzhórra                      ka
+\m dzhórra                      k-a
+\g built(FEM     SG)            do(PRES   PERF   )-2SG
+\l build it(   FEM SG    )!
+
+\t dzhorr                       ka
+\m dzhorr                       k-a
+\g built(MASC     PL)           do(PRES   PERF   )-2SG
+\l build it(   MASC PL)!
+
+\t dzhórri                      ka
+\m dzhórri                      k-a
+\g built(FEM     PL   )         do(PRES   PERF   )-2SG
+\l build it(   FEM PL    )!
+
+\t dzhorr                       krrey
+\m dzhorr                       krr-ey
+\g built(MASC     SG)           do(PAST   PERF   )-2PL
+\l build it(   MASC SG)!
+
+\t dzhórra                      krrey
+\m dzhórra                      krr-ey
+\g built(FEM     SG)            do(PAST   PERF   )-2PL
+\l build it(   FEM SG    )!
+
+\t dzhorr                       krrey
+\m dzhorr                       krr-ey
+\g built(MASC     PL)           do(PAST   PERF   )-2PL
+\l build it(   MASC PL)!
+
+\t dzhórri                      krrey
+\m dzhórri                      krr-ey
+\g built(FEM     PL   )         do(PAST   PERF   )-2PL
+\l build it(   FEM PL    )!
+
+\t gadeedem                                   (*mee)
+\m gad-eed-em                                   (*mee)
+\g dance-INTR-1SG(PAST   IMPF   )        1SG
+\l I was dancing
+
+\t khkolewi                                   mee        (*yee)
+\m khkol-ew-i                                   mee        (*yee)
+\g kiss-TRANS-3SG(PRES IMPF     )            1SG        3SG
+\l he is kissing me
+
+\t ahmad             (*mee)        khkolewem
+\m ahmad             (*mee)        khkol-ew-em
+\g Ahmad             1SG           kiss-TRANS-1SG
+\l Ahmad was kissing me
+
+\t ahmad             (*yee)        gadígi
+\m ahmad             (*yee)        gad-íg-i
+\g Ahmad             3SG           dance-INTR-3SG
+\l Ahmad is dancing
+
+\t parun         aman       aw         asad    kitab    olwelewu
+\m parun         aman       aw         asad    kitab    olwelewu
+\g yesterday     Aman       and        Asad    book     read
+\l Aman and Asad read a book yesterday
+
+\t parun         taa        aw         maa     kitab    olwelewu
+\m parun         taa        aw         maa     kitab    olwelewu
+\g yesterday     PN2SG      and        PN1SG   book     read
+\l you and I read a book yesterday
+
+\t parun         Aman       aw         maa     kitab    olwelewu
+\m parun         Aman       aw         maa     kitab    olwelewu
+\g yesterday     Aman       and        PN1SG   book     read
+\l Aman and I read a book yesterday
+
+\t parun           maa       aw         Aman       kitab   olwelewu
+\m parun           maa       aw         Aman       kitab   olwelewu
+\g yesterday       PN1SG     and        Aman       book    read
+\l Aman and I read a book yesterday
+
+\t parun           dee       kitab        olwelewu
+\m parun           dee       kitab        olwelewu
+\g yesterday       2SG       book         read
+\l you read a book yesterday
+
+\t parun           mee       kitab        olwelewu
+\m parun           mee       kitab        olwelewu
+\g yesterday       1SG       book         read
+\l I read a book yesterday
+
+\t parun           dee        aw       mee        kitab   olwelewu
+\m parun           dee        aw       mee        kitab   olwelewu
+\g yesterday        2SG        and      1 SG       book    read
+\l you and I read a book yesterday
+
+\t parun           mee        aw       dee        kitab   olwelewu
+\m parun           mee        aw       dee        kitab   olwelewu
+\g yesterday        1SG        and      2 SG       book    read
+\l you and I read a book yesterday
+
+\t parun          Aman      aw      mee       kitab     olwelewu
+\m parun          Aman      aw      mee       kitab     olwelewu
+\g yesterday       Aman      and     1   SG    book      read
+\l Aman and I read a book yesterday
+
+\t parun          mee       aw      Aman      kitab     olwelewu
+\m parun          mee       aw      Aman      kitab     olwelewu
+\g yesterday       1SG       and     Aman      book      read
+\l Aman and I read a book yesterday
+
+\t maa               hagha      tsok             tshi     nepohigem                   Tor     meelma           kérrey                     wu                       (aw)     ka       na       welide           
+\m maa               hagha      tsok             tshi     ne-poh-ig-em                   Tor     meelma           kérr-ey                     wu                       (aw)     ka       na       we-lid-e           
+\g PN1SG(OBL     )   that       who(DIR)         COMP     NEG-wise-INTR-1SG              Tor     guest            do(PAST   PERF)-PART        be(PAST3SG)              and      or       not      PERF-saw-   MASC3SG
+\l I saw the person who I don't know whether Tor had invited or not
+
+\t hágha      sarray           [tshee    kema        dzhorra             [tshee     (yee)      aghustay        wa ]                   genda    wa ]             deer       bad      khkarido       
+\m hágha      sarray           [tshee    kema        dzhorra             [tshee     (yee)      aghust-ay        wa ]                   genda    wa ]             deer       bad      khkar-id-o       
+\g  DET        man(DIR)          COMP     which       suit                COMP      3SG        wear-PART     be(PAST.IMPF3SG)       dirty    be                  much       bad      look-INTR-PAST3SG
+\l the man who the suit that (he) was wearing was dirty looked very bad
+
+\t hágha      sarray           [tshee    kema        dzhorra             [tshee     agha       aghustay        wa ]                    genda   wa ]             deer       bad      khkarido       
+\m hágha      sarray           [tshee    kema        dzhorra             [tshee     agha       aghust-ay        wa ]                    genda   wa ]             deer       bad      khkar-id-o       
+\g  DET        man(DIR)          COMP     which       suit                COMP      PN3SG      wear-PART    be(PAST.IMPF3SG)     dirty   be                      much       bad      look-INTR-PAST3SG
+\l the man who the suit that (he) was wearing was dirty looked very bad
+
+\t hágha     sarrayi          [tshi        hágha deerishi                             [tshi   Øi      yee      ághundi ]            khirena                 da ]                             nen      deer      bad     khkarigi       
+\m hágha     sarrayi          [tshi        hágha deerishi                             [tshi   Øi      yee      ághund-i ]            khirena                 da ]                             nen      deer      bad     khkar-ig-i       
+\g  DET       man(DIR)         COMP         DET       suit(FEM   DIR   )              COMP            3SG      wear-PRES3SG       dirty(FEM   DIR SG)     be(PRES   IMPF FEM3SG)              today    much bad          look-INTR-PRES3SG
+\l the man who the suit that (he) wears is dirty looks very bad today
+
+\t hágha     sarray           [tshi        hágha deerishi                             [tshi   day/agha                 yee      ághundi ]           khirena        da ]                         nen      deer      bad     khkarigi       
+\m hágha     sarray           [tshi        hágha deerishi                             [tshi   day/agha                 yee      ághund-i ]           khirena        da ]                         nen      deer      bad     khkar-ig-i       
+\g  DET       man(DIR)         COMP         DET       suit(FEM   DIR   )              COMP    PN3SG(VIS/INVIS)         3 SG     wear-PRES3SG      dirty          be(PRES   IMPF3SG)              today    much bad          look-INTR-PRES3SG
+\l the man who the suit that he wears is dirty looks very bad today
+
+\t hágha     sarray         nen         deer      bad    khkarido
+\m hágha     sarray         nen         deer      bad    khkar-id-o
+\g DET       man(DIR)       today       much      bad    look-INTR-PAST3SG
+\l the man looked very bad today
+
+\t hágha dzhorra        tshee     kem     sarri         aghustay     wa   genda wa62
+\m hágha dzhorra        tshee     kem     sarri         aghust-ay     wa   genda wa62
+\g DET      suit        COMP      DET     man(OBL) wear-part          was   dirty   was
+\l the suit that the man was wearing was dirty
+
+\t hágha     sarray         nen         deer      bad    khkarigi
+\m hágha     sarray         nen         deer      bad    khkar-ig-i
+\g DET       man(DIR)       today       much      bad    look-INTR-PRES3SG
+\l the man looks very bad today
+
+\t hágha     deerishi              tshi     sarray     yee   ághundi                  khirena                 da                    
+\m hágha     deerishi              tshi     sarray     yee   ághund-i                  khirena                 da                    
+\g DET       suit(FEM    DIR   )   COMP     man(DIR)   3SG   wear-PRES3SG              dirty(FEM   DIR SG)     be(PRES   IMPF FEM3SG)
+\l the suit that the man wears is dirty
+

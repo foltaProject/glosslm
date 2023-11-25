@@ -1,0 +1,135 @@
+\t ang duktur ang babayi
+\m ang duktur ang babayi
+\g TOPIC doctor TOPIC woman
+\l the woman is the doctor
+
+\t duktur ang babayi
+\m duktur ang babayi
+\g doctor TOPIC woman
+\l the woman is a doctor
+
+\t nagtawag                         ang babayi nakuq.
+\m nag-tawag                         ang babayi nakuq.
+\g     SUBJ.FOCUS,DUR-call           TOPIC woman 1SG,NONTOPIC
+\l the woman was calling me
+
+\t babayi ang              nagtawag                     nakuq.
+\m babayi ang              nag-tawag                     nakuq.
+\g   woman TOPIC SUBJ.FOCUS,DUR-call                     1SG,NONTOPIC
+\l the one who was calling me was a woman
+
+\t túqa                                       si     Místir Abáya sa Amiriká
+\m túqa                                       si     Místir Abáya sa Amiriká
+\g      there,NOT.NEAR.HEARER,PRES TOPIC Mr.Abaya LOC America
+\l Mr. Abaya is in America
+
+\t ánhi                                  siyá        sa Sibú
+\m ánhi                                  siyá        sa Sibú
+\g   here,NEAR.1PL.INCL,FUT              3SG,TOPIC LOC Cebu
+\l he will be here in Cebu
+
+\t may bir
+\m may bir
+\g     exist beer
+\l there is (was, will be) beer
+
+\t may bir si                Lúling
+\m may bir si                Lúling
+\g exist beer TOPIC Loling
+\l Loling has/had beer
+
+\t midagan                      [ang [mipalit                     sa             saging]]
+\m mi-dagan                      [ang [mi-palit                     sa             saging]]
+\g    ACTOR.FOCUS-run            [TOPIC [ACTOR.FOCUS-buy NONTOPIC banana]]
+\l the one that bought bananas ran away
+
+\t midagan                      [ang babaye [nga mipalit                     sa             saging]]
+\m mi-dagan                      [ang babaye [nga mi-palit                     sa             saging]]
+\g    ACTOR.FOCUS-run            [TOPIC woman [REL ACTOR.FOCUS-buy             NONTOPIC banana]]      
+\l the woman that bought bananas ran away
+
+\t midagan                        [ang babaye]
+\m mi-dagan                        [ang babaye]
+\g      ACTOR.FOCUS-run            [TOPIC woman]
+\l the woman is running
+
+\t babaye [ang midagan]
+\m babaye [ang mi-dagan]
+\g  woman [TOPIC ACTOR.FOCUS-run]
+\l the one who is running is a woman
+
+\t Ako ang                          dalaga
+\m Ako ang                          dalaga
+\g I     TOP                        lady
+\l I am the                     lady
+
+\t gipalit               sa           babayi ang saging.
+\m gi-palit               sa           babayi ang saging.
+\g    OBJ.FOCUS-buy NONTOPIC woman TOPIC banana
+\l the woman bought the bananas
+
+\t gisulatan                    ni Maria si            Dudung ug isturya.
+\m gi-sulat-an                    ni Maria si            Dudung ug isturya.
+\g   LOC.FOC-write-LOC.FOC GEN Maria TOPIC Dodong INDEF story
+\l Maria wrote a story for Dodong
+
+\t gipalit              sa            babayi ang saging.
+\m gi-palit              sa            babayi ang saging.
+\g    OBJ.FOCUS-buy NONTOPIC woman TOPIC banana
+\l the woman bought the bananas
+
+\t gisulatan                  ni Maria si            Dudung ug isturya.
+\m gi-sulat-an                  ni Maria si            Dudung ug isturya.
+\g  LOC.FOC-write-LOC.FOC GEN Maria TOPIC Dodong INDEF story
+\l Maria wrote a story for Dodong
+
+\t ang duktur ang babayi
+\m ang duktur ang babayi
+\g TOPIC doctor TOPIC woman
+\l the woman is the doctor
+
+\t duktur ang babayi
+\m duktur ang babayi
+\g doctor TOPIC woman
+\l the woman is a doctor
+
+\t nagtawag                        ang babayi nakuq.
+\m nag-tawag                        ang babayi nakuq.
+\g     SUBJ.FOCUS.DUR-call          TOPIC woman 1SG.NONTOPIC
+\l the woman was calling me
+
+\t babayi ang            nagtawag                     nakuq.
+\m babayi ang            nag-tawag                     nakuq.
+\g  woman TOPIC SUBJ.FOCUS:DUR-call                    1SG.NONTOPIC
+\l the one who was calling me was a woman
+
+\t túqa                                    si      Místir Abáya sa Amiriká
+\m túqa                                    si      Místir Abáya sa Amiriká
+\g      there:NOT.NEAR.HEARER:PRES TOPIC Mr.Abaya LOC America
+\l Mr. Abaya is in America
+
+\t ánhi                               siyá          sa Sibú
+\m ánhi                               siyá          sa Sibú
+\g   here:NEAR.1PL.INCL:FUT           3SG.TOPIC LOC Cebu
+\l he will be here in Cebu
+
+\t may bir
+\m may bir
+\g     exist beer
+\l there is (was, will be) beer
+
+\t may bir si               Lúling
+\m may bir si               Lúling
+\g exist beer TOPIC Loling
+\l Loling has/had beer
+
+\t walaq=ku hugási            ang manga plátu
+\m walaq=ku hugás-i            ang manga plátu
+\g N$G=G$N:1S wash-PVC$2:AT$MP NOM P     plate
+\l I didn't wash the plates.
+
+\t nag ulan
+\m n-ag- ulan
+\g REAL-mag-rain
+\l It's raining
+

@@ -1,0 +1,245 @@
+\t KO~kú        má     ná      xO~     àsO!n       O!
+\m KO~kú        má     ná      xO~     àsO!n       O!
+\g Koku         Neg Fut        buy     crab            Det
+\l Koku will not buy the specific crab
+
+\t KO~kú        ná     xO~     àsO!n O!
+\m KO~kú        ná     xO~     àsO!n O!
+\g Koku         Fut    buy     crab Det                Neg
+\l Koku will not buy the specific crab
+
+\t Sú n ù    gb à     m tò     é
+\m Sú n ù    gb à     m tò     é
+\g man DM destroy car        INDEF      DM
+\l #'The man destroyed a car, as we knew a car would be destroyed
+
+\t Sú n ù     é     gbà     m tò
+\m Sú n ù     é     gbà     m tò
+\g man      INDEF destroy car           DM DM
+\l #'A   man destroyed the car, as   we knew a man would destroy the car
+
+\t S ún ù  m m tò
+\m S ún ù  m m tò
+\g man DM see car          DM      DM
+\l #'The man saw the car, as we knew the car would be seen
+
+\t S ún ù    sè          flá nsè
+\m S ún ù    sè          flá nsè
+\g man DM understand French DM
+\l #'The man understood French, as we knew French would be understood
+
+\t S ún ù      gb à     m tò                a
+\m S ún ù      gb à     m tò                a
+\g man DM destroy car          DM DM NEG
+\l The man did not destroy the car, as we knew the car would be destroyed
+
+\t S ún ù    gbà       m tò         a
+\m S ún ù    gbà       m tò         a
+\g man DM destroy car DM NEG DM
+\l The man did not destroy the car, as we knew he would not destroy the car
+
+\t Sú n ù      m m tò                      a
+\m Sú n ù      m m tò                      a
+\g  man DM see car              DM     DM NEG
+\l The man did not see the    car, as we knew the car would be seen
+
+\t S ún ù       m m tò               a
+\m S ún ù       m m tò               a
+\g man DM see car              DM NEG DM
+\l The man did not see the    car, as we knew the man would not see the car
+
+\t S ún ù         gbà     m tò
+\m S ún ù         gbà     m tò
+\g man DM destroy car              DM DM
+\l Actually, the man destroyed the car
+
+\t S ún ù      gbà      m tò
+\m S ún ù      gbà      m tò
+\g man DM destroy car             DM DM
+\l The man destroyed the car, as we knew the car would be destroyed
+
+\t S ún ù      gbà      m tò
+\m S ún ù      gbà      m tò
+\g man DM destroy car             DM DM
+\l The man destroyed the car, as we knew the man would destroy the car
+
+\t m tò é
+\m m tò é
+\g car     INDEF
+\l a car
+
+\t m tò V bi
+\m m tò V bi
+\g car     PL all
+\l all cars
+
+\t m tò ( V) gég é
+\m m tò ( V) gég é
+\g car      PL many
+\l many cars
+
+\t ji    jà gb èbígbè /t<gb</hw<hw<
+\m ji    jà gb èbígbè /t<gb</hw<hw<
+\g rain fall every-day /always/frequently
+\l Rain falls every day/always/frequently
+
+\t às n
+\m às n
+\g crab DM
+\l the crab
+
+\t    íe          lé    nú     Báyi
+\m    íe          lé    nú     Báyi
+\g sketches the Num for        Báyi
+\l the sketches for Bá yi
+
+\t í e          nú Bá yi      lé
+\m í e          nú Bá yi      lé
+\g  sketches the for Báyi       Num
+\l the sketches for Báyi
+
+\t Sú n ù                 gb à    m tò      é
+\m Sú n ù                 gb à    m tò      é
+\g man          DM        destroy car      INDEF         DM
+\l The        man      destroyed a car, as we knew     a car would be destroyed
+
+\t Sú n ù   é     gbà      m tò
+\m Sú n ù   é     gbà      m tò
+\g man    INDEF destroy car       DM                     DM
+\l A man destroyed the car, as we knew                 the car would be destroyed
+
+\t S ún ù    m m tò
+\m S ún ù    m m tò
+\g man DM see car          DM     DM
+\l #'The man saw the car, as we knew the car would be seen
+
+\t Vi     okpo okpo
+\m Vi     okpo okpo
+\g child every/each
+\l every child/each child
+
+\t Koku so aso yi/wa      axi
+\m Koku so aso yi/wa      axi
+\g Koku take crab go/come market
+\l Koku brought the crab to the market.'(direction away/towards
+
+\t Kòkú wà àzo ó       fó
+\m Kòkú wà àzo ó       fó
+\g Kòkú do work DET finish
+\l Kòkú finished doing the work
+
+\t Kòkú kló katake le vò
+\m Kòkú kló katake le vò
+\g Kòkú wash high stool PL finish
+\l Kòkú finished washing the high stools
+
+\t (10)a. Kòkú kló katake le vò
+\m (10)a. Kòkú kló katake le vò
+\g            Kòkú wash high stool PL finish
+\l Kòkú finished washing the high stools
+
+\t Kòkú wà àzo ó Kòkú fó
+\m Kòkú wà àzo ó Kòkú fó
+\g  Kòkú do work DET Kòkú finish
+\l Kòkú finished doing the work
+
+\t (17)a. Asíbá ná sá sèn dó hòn ó fó
+\m (17)a. Asíbá ná sá sèn dó hòn ó fó
+\g             Asíbá IRR pass on paint put door DET finish
+\l Asíbá will finish painting the door
+
+\t Kòkú mò Báyì fó
+\m Kòkú mò Báyì fó
+\g  Kòkú see Báyì finish
+\l Kòkú finished seeing Báyì
+
+\t Ajòtó lé xò kãnlìn lé fó
+\m Ajòtó lé xò kãnlìn lé fó
+\g  Thief PL hit animal PL finish
+\l The thieves finished hitting the animals
+
+\t Kòkú ná/ nó wà àzo
+\m Kòkú ná/ nó wà àzo
+\g Kòkú IRR HAB do work
+\l Kòkú will work/ usually works
+
+\t Kòkú vò mólìnkún ò
+\m Kòkú vò mólìnkún ò
+\g Kòkú finish rice DET
+\l Kòkú finished the (plate of) rice
+
+\t JC:          Im done di bammi
+\m JC:          Im done di bammi
+\g              S/he finish the bammy
+\l S/he finished the bammy
+
+\t (29)a.      *Kòkú fó wà àzo ó.
+\m (29)a.      *Kòkú fó wà àzo ó.
+\g              Kòkú finish do work DET
+\l Kòkú finished doing the work.
+
+\t Kòkú vò kló katake le
+\m Kòkú vò kló katake le
+\g  Kòkú finish wash high stool DET
+\l Kòkú finished washing the highstools.'
+
+\t Kòkú [Spec AspCompletive wà àzo ó] [ ? Kòkú]
+\m Kòkú [Spec AspCompletive wà àzo ó] [ ? Kòkú]
+\g  Kòkú do work DET Kòkú finish
+\l Kòkú finished doing the work
+
+\t Nu       a           ma wa    sØ      a          i      wa
+\m Nu       a           ma wa    sØ      a          i      wa
+\g work NEG
+\l If you don't       come tomorrow, we will not work.
+
+\t Kòkú só       flãsé    hélé Àsíbá.
+\m Kòkú só       flãsé    hélé Àsíbá.
+\g Koku take French teach Asiba
+\l Koku teaches French to Asiba.
+
+\t Bàyí  mç$ éÍéè
+\m Bàyí  mç$ é-Íéè
+\g Bayi    see she-REFL
+\l Bayi saw herself
+
+\t Ùn wá       bó      yì.
+\m Ùn wá       bó      yì.
+\g 1SG arrive COORD leave
+\l I arrived and then left.
+
+\t K kú wá b      Àsíbá yì.
+\m K kú wá b      Àsíbá yì.
+\g Koku arrive COORD Asiba leave
+\l Koku arrived and then Asiba left.
+
+\t s´s  s´ K´ k´ s´s         ´´       `           ` Bay´
+\m s´s  s´ K´ k´ s´s         ´´       `           ` Bay´
+\g tremble Koku tremble as.soon.as and fear           get Bayi
+\l As soon as Koku trembled, Bayi got frightened
+
+\t s´s  s´ K´ k´ s´s        ´´    `i i      `i
+\m s´s  s´ K´ k´ s´s        ´´    `i i      `i
+\g tremble Koku tremble cause fear get Bayi
+\l Because Koku trembled, Bayi got frightened
+
+\t s´s  s´ ee           Bay´ s´s       ,     v    u
+\m s´s  s´ e-e           Bay´ s´s       ,     v    u
+\g tremble op-res Bayi tremble, def bother            for me
+\l The fact that Bayi trembled bothered me
+
+\t KO~kú sO! àsO!n O!      yi   axi      mE~
+\m KO~kú sO! àsO!n O!      yi   axi      mE~
+\g NAME take crab DEF go market in
+\l Koku brought the crab to the market
+
+\t KkØ s asn lï yi axi mï.
+\m KkØ s asn lï yi axi mï.
+\g K.take crab PL go market interior
+\l KkØ brought the crabs to the market
+
+\t sís ~ sí    w,        K ú     sís
+\m sís ~ sí    w,        K ú     sís
+\g  tremble      it.is   Koku tremble
+\l It is tremble that Koku did
+

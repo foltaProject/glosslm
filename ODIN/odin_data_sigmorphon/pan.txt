@@ -1,0 +1,145 @@
+\t xat             likh ia=i?
+\m xat             likh ia=i?
+\g letter.M.Sg.Nom write.Past=2.Sg
+\l Have you written the letter?
+
+\t jandra           kh l gia=je?
+\m jandra           kh l gi-a=je?
+\g lo ck.M.Sg.Nom open go-Past.3.Sg-2.Pl
+\l Has the lo ck been opened by you?
+
+\t ´=ne        ¡
+\m ´=ne        ¡
+\g s/he=Erg work.M.Sg.Nom do.Past.M.Sg
+\l S/he did some work.
+
+\t kis=ne       m nde=nu m~ria?
+\m kis=ne       m nde=nu m~ria?
+\g who.Obl=Erg boy.Obl=Acc beat.Past.M.Sg
+\l Who beat the boy?
+
+\t m nde=nu m ria=s(u)
+\m m nde=nu m ria=s(u)
+\g boy.Obl=Acc beat.Past.M.Sg=3.Sg
+\l S/he beat the
+
+\t ji,        ditta
+\m ji,        ditta
+\g yes.Polite give.Perf.M.Sg
+\l Yes, gave.
+
+\t ji,        ditta
+\m ji,        ditta
+\g yes.Polite give.Perf.M.Sg
+\l Yes, gave.
+
+\t xat             likh iai?
+\m xat             likh ia-i?
+\g letter.M.Sg.Nom write-Past-2.Sg
+\l Have you written the letter?
+
+\t jandra           kh Íl gia       je?
+\m jandra           kh Íl gi-a       je?
+\g lo ck.M.Sg.Nom open go-Past.3.Sg 2.Pl
+\l Has the lo ck been opened by you?
+
+\t munde=ne        kitab      pari
+\m munde=ne        kitab      par-i
+\g boy.M.Obl=??? book.F.Sg read-Past.F.Sg
+\l The boy read a/the book.
+
+\t ad m i    ga
+\m ad m i    ga
+\g man.M.Sg go.Past.M.Sg
+\l A/the man went.
+
+\t                           .        ~h
+\m                           .        ~h
+\g two washerman.M.Sg/Pl clothes.Pl wash.Fut.M.Pl
+\l Two washermen will wash clothes.
+
+\t do tobi               r am=d e          kapre     d oge                  h
+\m do tobi               r am=d e          kapre     d oge                  h
+\g two washerman.M.Sg/Pl Ram.M.Sg=???.M.Pl clothes.Pl wash.Fut.M.Pl
+\l Two washermen will wash Ram's clothes.
+
+\t do tobia=ne                .
+\m do tobia=ne                .
+\g two washerman.M.Pl=??? clothes.Pl wash.Past.M.Pl
+\l Two washermen washed the clothes.
+
+\t munde=kolo/=to                  .~ ~        ga
+\m munde=kolo/=to                  .~ ~        ga
+\g boy.M.Obl=???/=??? flag.M.Sg hang-Past.M.Sg go.Past.M.Sg
+\l The flag was hung by the boy.
+
+\t tokri=to        do amb              dig pae
+\m tokri=to        do amb              dig pae
+\g basket.F.Sg=??? two mango.M.Sg/Pl   fall fall.Past.M.Pl
+\l Two mangoes dropped out from the   basket.
+
+\t (1 3 ) o         mina=kolo~
+\m (1 3 ) o         mina=kolo~
+\g        Pron.3.Sg Mina=??? be.Pres.3.Sg
+\l He/She is with/by Mina.
+
+\t ( 1 4 ) r am=d i           tokri=to      do amb
+\m ( 1 4 ) r am=d i           tokri=to      do amb
+\g         fall fall.Past.M.Pl
+\l Two mangoes dropped out from Ram's basket.
+
+\t sab=ne            tobia=nu                     ditta
+\m sab=ne            tobia=nu                     ditta
+\g officer.M.Sg=??? washerman.M.Pl=??? prize.M.Sg give.Past.M.Sg
+\l The officer gave the washermen a/the prize.
+
+\t inam        ditta
+\m inam        ditta
+\g prize.M.Sg give.Past.M.Sg
+\l The officer gave the washermen Ram's prize.
+
+\t   .       mundia=nu mardi
+\m   .       mundia=nu mar-di
+\g girl.F.Sg boy.M.Pl=??? hit-Pres.F.Sg be.Pres.3.Sg
+\l The girl is hitting the boys.
+
+\t   .              mundia=nu maria
+\m   .              mundia=nu mar-ia
+\g girl.M.Sg=??? boy.M.Pl=??? hit-Past.M.Sg be.Past.3.Sg
+\l The girl has hit the boys.
+
+\t tu          .         .
+\m tu          .         .
+\g you.F/M wood.F.Sg cut-Past.F.Sg
+\l You (male or female) cut the wood.
+
+\t tu              .             h
+\m tu              .             h
+\g you.F/M computer.M.Sg sell-Past.M.Sg
+\l You (male or female) sold the computer.
+
+\t m ~ kamputar  .        bechia
+\m m ~ kamputar  .        bech-ia
+\g I.F/M computer.M.Sg sell-Past.M.Sg
+\l I (male or female) sold the computer.
+
+\t ( 2 4 ) o=n e             kamputar     becia h
+\m ( 2 4 ) o=n e             kamputar     bec-ia h
+\g         Pron.3.Sg.F/M=??? computer.M.Sg sell-Past.M.Sg
+\l He/She sold the computer.
+
+\t M~ Tur sakdaa              a~
+\m M~ Tur sakdaa              a~
+\g I     walk able-PRES.M am
+\l I can walk
+
+\t   a. Koi kitab mez te rakkho.
+\m   a. Koi kitab mez te rakkho.
+\g some book table on put
+\l Put some book on the table.
+
+\t Ó nili kitab nu mez te rakkho.
+\m Ó nili kitab nu mez te rakkho.
+\g that blue book to table on put
+\l Put that blue book on the table.
+

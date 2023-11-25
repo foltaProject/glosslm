@@ -1,0 +1,915 @@
+\t (1.13)a. Hattak at      Øiyah.
+\m (1.13)a. Hattak at      Ø-iya-h.
+\g           man DCT 3SUBJ-go-PRES
+\l The man goes.
+
+\t Hattak at oho:yoh ( :)     ØØpi:sah.
+\m Hattak at oho:yoh ( :)     Ø-Ø-pi:sa-h.
+\g  man DCT woman (OBL) 3SUBJ-3OBJ-see-PRES
+\l The man sees the woman.
+
+\t Johnat abiikahaatokoosh ikiiyotok.
+\m John-at abiika-haatokoo-sh ik-iiy-o-tok.
+\g John-NM sick-because-SS III-go-NEG-PT
+\l Because Johni was sick, hei didn't go.
+
+\t Johnat abiikahaatokoon ikiiyotok.
+\m John-at abiika-haatokoo-n ik-iiy-o-tok.
+\g John-NM sick-because-DS III-go-NEG-PT
+\l Because Johni was sick, hej didn't go.
+
+\t Johnat hiilhachah taloowatok.
+\m John-at hiilha-chah taloowa-tok.
+\g John-NM dance:L-SS       sing-PT
+\l John danced and sang.
+
+\t Johnat hiilhanah taloowatok.
+\m John-at hiilha-nah taloowa-tok.
+\g John-NM dance:L-DS sing-PT
+\l John danced and (someone else) sang.
+
+\t Johnat    hiilhatoknah              Billat    taloowaachih
+\m John-at    hiilha-tok-nah              Bill-at    taloow-aachih
+\g  John-NM     dance-PT-DS               Bill-NM sing-IRR        
+\l John danced and Bill will sing.
+
+\t Johnat      hilhatok   anoti                Billat    taloowaachih.
+\m John-at      hilha-tok   anoti                Bill-at    taloow-aachih.
+\g John-NM      dance-PT    and                  Bill-NM sing-IRR         
+\l John danced and Bill will sing.
+
+\t Katahooshi Johnat taloowanah                ti hilhah?
+\m Katah-ooshi John-at taloowa-nah                ti hilhah?
+\g who-foc:nm John-nm sing:l-ds                      dance  
+\l Whoi did Johnj sing and ti dance?
+
+\t Johnat hiilhanah Billat taloowatok.
+\m John-at hiilha-nah Bill-at taloowa-tok.
+\g John-NM dance:L-DS Bill-NM sing-PT
+\l John danced and Bill sang.
+
+\t Johnat [ilipisachokmakat] anokfillih.
+\m John-at [ili-pisachokma-kat] anokfillih.
+\g John-NM RFL-goodlooking-SS think
+\l Johni thinks that selfi is goodlooking.
+
+\t Johnat [pisachokmakat] ilanokfillih.
+\m John-at [pisachokma-kat] il-anokfillih.
+\g John-NM     goodlooking-SS RFL-think
+\l Johni selfi-thinks that ti is goodlooking.
+
+\t Johnat (*ili)yaayah              [pro sipoknihaatokoosh]
+\m John-at (*ili-)yaayah              [pro sipokni-haatokoosh]
+\g John-NM        cry                 old-because:SS          
+\l John (*self-)cried because he is old.
+
+\t Pamat noklhakachatok         [Charlesat taloowanah]
+\m Pam-at noklhakacha-tok         [Charles-at taloowa-nah]
+\g Pam-NM surprise-PT             Charles-NM sing:L-DS    
+\l Pam was surprised that Charles sang.
+
+\t Pamat [Charlesat              taloowanah] noklhakachatok
+\m Pam-at [Charles-at              taloowa-nah] noklhakacha-tok
+\g Pam-NM Charles-NM               sing:l-DS    surprise-pt    
+\l Pam was surprised that Charles sang.
+
+\t Charlesat iliinoklhakachatok               [ ti abiikachah].
+\m Charles-at ilii-noklhakacha-tok               [ ti abiika-chah].
+\g Charles-NM RFL-surprise-PT                         sick-SS      
+\l Charlesi was selfi-surprised that ti got sick.
+
+\t Johnat sipoknichah               (*ili)nowahiikiiyoh.
+\m John-at sipokni-chah               (*ili-)now-ahii-kiiyoh.
+\g John-NM old-SS                     (*RFL-)-walk-POT-NEG   
+\l John is old and can't (*self-)walk.
+
+\t Anakoosh saniyah.
+\m Anakoosh sa-niyah.
+\g I:nom     1sII-fat
+\l I am fat.
+
+\t Takkon laawaka aapachah niyatok.
+\m Takkon laawa-ka aapa-chah niya-tok.
+\g  apple lots-acc eat:l-SS fat-pt
+\l He ate lots of apples and got fat.
+
+\t [Johnat takkon aapanah] abiikatok.
+\m [John-at takkon aapa-nah] abiika-tok.
+\g John-nm apple eat-ds     sick-pt
+\l John ate the apple and got sick.
+
+\t Alan     at        okhisa        an      tiwwih
+\m Alan     at        okhisa        an      tiwwih
+\g Alan     SUBJ      door          OBL     he-opens-it.
+\l Alan opens the door.
+
+\t okhisa at             tinwah
+\m okhisa at             tinwah
+\g door     SUBJ         open-PASS
+\l The door is open.
+
+\t chibashlilitok
+\m chi-bashli-li-tok
+\g 2(ACC)            cut        1(NOM)     PST
+\l I cut you.
+
+\t ano                  issa        hottopalitok
+\m ano                  is-sa-        hottopali-tok
+\g    I                 2(NOM)     1(ACC)     hurt         PST
+\l You hurt me.
+
+\t alla              towa       ishi          pilatok
+\m alla              towa       ish-i-          pila-tok
+\g child             ball       2(NOM)     3(DAT)      throw         PST
+\l You threw the ball to the child.
+
+\t ofi                 issami         lhiolitok
+\m ofi                 is-sami         lhioli-tok
+\g  dog                2(NOM)         1(BEN)       chase    PST
+\l You chased the dog for me.
+
+\t Ofi,      katos,   micha    allat               washohatok.
+\m Ofi,      katos,   micha    alla-t               washoha-tok.
+\g  dog      cat      and      child-NOM            play-PAST
+\l The dog, the cat, and the child played.
+
+\t chipisalitok
+\m chi-pisa-li-tok
+\g     2SG,UNDERGOER-see-1SG,ACTOR-PAST
+\l I saw you
+
+\t issassotok
+\m is-sa-sso-tok
+\g   2SG,ACTOR-1SG,UNDERGOER-hit-PAST
+\l you hit me
+
+\t Hattakat    ohoÖyo (ã)      ÇÖnoksoÖpa h.
+\m Hattak-at    ohoÖyo (ã)      ÇÖ-noksoÖpa- h.
+\g man-NOM woman OBL 3III-afraid-             PRES
+\l The man is afraid of the woman.
+
+\t Larry ishkinat      lakna.
+\m Larry ishkin-at      lakna.
+\g Larry eye-NOM brown
+\l Larry's eyes are brown.
+
+\t Larryat      ishkinat    lakna.
+\m Larry-at      ishkin-at    lakna.
+\g Larry-NOM eye-NOM brown
+\l Larry has brown eyes.
+
+\t Jan ipãshi'at         tapa.
+\m Jan ipãshi'-at         tapa.
+\g Jan hair-NOM           be.cut
+\l Jan's hair was cut.
+
+\t Janat      ipãshi'at  tapa.
+\m Jan-at      ipãshi'-at  tapa.
+\g Jan-NOM hair-NOM be.cut
+\l Jan got a haircut.
+
+\t Bonnieat      inchokk at   abohat talhlha'pi.
+\m Bonnie-at      in-chokk- at   aboh-at talhlha'pi.
+\g Bonnie-NOM 3III-house- NOM room-NOM five
+\l Bonnie has a five-room house.
+
+\t Ayal     a'chikat ithaanali.
+\m Aya-l-     a'chi-kat ithaana-li.
+\g go-1sgI- FUT-COMP.SS know-1sgI
+\l I know I am going.
+
+\t Ishiyy a'chikã     ithannali.
+\m Ish-iyy- a'chi-kã     ithanna-li.
+\g 2sgI-go- FUT-COMP.DS know-1sgI
+\l I know you are going.
+
+\t Tobi apali cha/*na oka ishkoli       tok.
+\m Tobi apa-li- cha/*na oka ishko-li-       tok.
+\g beans eat-1sgI- SS/*DS water drink-1sgI- PST
+\l I ate beans and drank water.
+
+\t Tobi apali na/*cha tãchi ishpa tok.
+\m Tobi apa-li- na/*cha tãchi ish-pa- tok.
+\g beans eat-1sgI-           DS/*SS  corn         2sgI-eat-                                    PST
+\l I ate beans and you ate corn.
+
+\t Sahohchafo cha/na tobi nonachili   tok.
+\m Sa-hohchafo- cha/na tobi nonachi-li-   tok.
+\g 1sgII-hungry- SS/DS beans cook-1sgI- PST
+\l I was hungry and cooked some beans.
+
+\t Soba sabanna cha/na chõpali                  tok.
+\m Soba sa-banna- cha/na chõpa-li-                  tok.
+\g horse 1sgII-want- SS/DS buy-1sgI-                    PST
+\l I wanted a horse and bought it.
+
+\t Steveat     [Danat     aaimpa' ikbitokã]        banna.
+\m Steve-at     [Dan-at     aaimpa' ikbi-tokã]        banna.
+\g Steve-NOM Dan-NOM table          make-PST.COMP.OBL want
+\l Steve wants the table Dan made.
+
+\t b.    Katah    õ                Johnat              tok?
+\m b.    Kata-h-    õ                John-at              tok?
+\g       who-TNS- PART.OBL           John-NOM     see-PST
+\l Who did John see?
+
+\t Natah    õ            Pamat    [Charlesat honnitok õ] hõkopatok?
+\m Nata-h-    õ            Pam-at    [Charles-at honni-tok- õ] hõkopa-tok?
+\g what-TNS- PART.OBL Pam-NOM Charles-NOM cook-PST- FOC.OBL    steal-PST  
+\l What did Pam steal that Charles cooked?
+
+\t Alla holisso chimima:litok.
+\m Alla holisso chim-im-a:-li-tok.
+\g child paper 2DAT-3DAT-give-1NOM-Past
+\l I gave your papers to the child.
+
+\t Hattakat    ohoÖyo (ã)      ÉÖnoksoÖpa h.
+\m Hattak-at    ohoÖyo (ã)      ÉÖ-noksoÖpa- h.
+\g man-NOM woman OBL 3III-afraid-             PRES
+\l The man is afraid of the woman.
+
+\t Tobi      apali cha/*na oka       ishkoli   tok.
+\m Tobi      apa-li- cha/*na oka       ishko-li-   tok.
+\g beans     eat-1sgI- SS/*DS water    drink-1sgI- PST
+\l I ate   beans    and drank water.
+
+\t Tobi      apali   na/*cha tãchi   ishpa tok.
+\m Tobi      apa-li-   na/*cha tãchi   ish-pa- tok.
+\g beans     eat-1sgI- DS/*SS corn     2sgI-eat- PST
+\l I ate   beans    and you ate corn.
+
+\t Sahohchafo cha/na tobi nonachili   tok.
+\m Sa-hohchafo- cha/na tobi nonachi-li-   tok.
+\g 1sgII-hungry- SS/DS beans cook-1sgI- PST
+\l I was hungry and cooked some beans.
+
+\t Soba sabanna cha/na chõpali              tok.
+\m Soba sa-banna- cha/na chõpa-li-              tok.
+\g horse 1sgII-want- SS/DS buy-1sgI-                PST
+\l I wanted a horse and bought it.
+
+\t b.    Katah    õ                Johnat     pûsatok?
+\m b.    Kata-h-    õ                John-at     pûsa-tok?
+\g       who-TNS- PART.OBL           John-NOM     see-PST
+\l Who did John see?
+
+\t Natah    õ            Pamat    [Charlesat honnitok õ]         hõkopatok?
+\m Nata-h-    õ            Pam-at    [Charles-at honni-tok- õ]         hõkopa-tok?
+\g what-TNS- PART.OBL Pam-NOM Charles-NOM cook-PST- FOC.OBL            steal-PST  
+\l What did Pam steal that Charles cooked?
+
+\t Chokka' ilah   pit kanallitok.
+\m Chokka' ila-h   pit kanalli-tok.
+\g house other-tns away move-pt
+\l They moved to a different house.
+
+\t Boswell bilika' yakni' habiinat chokka' otalaalit áyyaashatokoosh,        at     pihlichit     ichokka' isht iyattook.
+\m Boswell bilika' yakni' habiina-t chokka' o-talaali-t áyyaasha-tok-oo-sh,        at     pihlichi-t     i-chokka' isht iya-ttook.
+\g Boswell near land receive-ss house on-lay-ss be:located-pt-part-ss              come& lead-ss         III-house instr go-dpast 
+\l ... they had been alotted land near Boswell, where they had built a house, so they came and led them to the house.
+
+\t Hattakat tachi' at apatok.
+\m Hattak-at tachi' at apa-tok.
+\g man-nm corn come& eat-pt
+\l The men came and ate the corn.
+
+\t Chokka' ilah   (*ot) pit kanallitok.
+\m Chokka' ila-h   (*ot) pit kanalli-tok.
+\g house other-tns (go&) away move-pt
+\l They (*went and) moved to a different house.
+
+\t Hitokoosh chokfi'     oklah falaamatok.
+\m Hitokoosh chokfi'     oklah falaama-tok.
+\g and:then rabbit       plur meet-pt
+\l And then they met a rabbit.
+
+\t Hattakat oklah tachi' apatok.
+\m Hattak-at oklah tachi' apa-tok.
+\g man-nm plur corn eat-pt
+\l The men ate all the corn.
+
+\t Chokka' ilah   pit kanallitok.
+\m Chokka' ila-h   pit kanalli-tok.
+\g house other-tns away move-pt
+\l They moved to a different house.
+
+\t Iit     pilah.
+\m Iit     pila-h.
+\g toward throw/send-tns
+\l He threw it (toward me).
+
+\t Pit  pilah.
+\m Pit  pila-h.
+\g away throw/send-tns
+\l He threw it (away from himself/me).
+
+\t Johnat aaípa'ma towa' pit                         pilatok.
+\m John-at aaípa'-ma towa' pit                         pila-tok.
+\g John-nm table-d:ac ball away                        throw-pt
+\l John threw the ball under the table.
+
+\t Johnat towa' ot pilah.
+\m John-at towa' ot pila-h.
+\g John-nm ball go& throw-tns
+\l John went (there) and threw the ball.
+
+\t Iit amah!
+\m Iit am-a-h!
+\g toward 1sIII-give-tns
+\l Give it to me!
+
+\t Johnat Mary pit   imatok.
+\m John-at Mary pit   im-a-tok.
+\g John-nm Mary away III-give-pt
+\l John gave it to Mary.
+
+\t Leslieat Sandy pit pisatok.
+\m Leslie-at Sandy pit pisa-tok.
+\g Leslie-nm Sandy away see-pt
+\l Leslie saw Sandy.
+
+\t Maryat ofi' pit haklotok.
+\m Mary-at ofi' pit haklo-tok.
+\g Mary-nm dog away hear-pt
+\l Mary heard the dog.
+
+\t Pit chiashshowalaanah.
+\m Pit chi-ashshowa-l-aana-h.
+\g away 2sII-smell-1sI-pot-tns
+\l I can smell you.
+
+\t ofiyat  katos kopolitok
+\m ofi-yat  katos kopoli-tok
+\g    dog-NOM cat                  bite-PAST.3SG.NOM
+\l The dog bit the cat.
+
+\t alla  iskali ima:litok
+\m alla  iskali im-a:-li-tok
+\g child     money 3       IND-give-1NOM-PAST
+\l I gave money to the child.
+
+\t aboha chukkoat binilit takkon ish'pah
+\m aboha chukkoa-t binili-t takkon ish'pa-h
+\g room enter-conj sit-conj apple 2s/eat/tns
+\l You entered the room, sat down, and ate apples.
+
+\t Ibbak pahta tuklochit       bashlit iskanchituk
+\m Ibbak pahta tuklochi-t       bashli-t is-kanchi-tuk
+\g hand palm do twice-conj cut-conj 2s/dispose of-pst
+\l You cut both palms badly.
+
+\t ofiyat  katos Økopolitok
+\m ofi-yat  katos Ø-kopoli-tok
+\g      dog-NOM cat              3.ACC-bite-PAST.3 SG.NOM
+\l The dog bit the cat.
+
+\t alla  iskali ima:litok
+\m alla  iskali im-a:-li-tok
+\g child     money 3.DAT-give-1.NOM-PAST
+\l I gave money to the child.
+
+\t /Alla chipõtayat            amalahiiyã hasimahni.../
+\m /Alla chipõta-yat            am-al-ahii-yã has-im-ahni.../
+\g child small:PL-NOM   1SIII-come-IRR-DS     2PI-III-allow  
+\l Suffer the little children to come unto me...
+
+\t /Alla chipõtayat      amalahiiyã   hasimahni.../
+\m /Alla chipõta-yat      am-al-ahii-yã   has-im-ahni.../
+\g child small:PL-NOM   1SIII-come-IRR-DS 2PI-III-allow  
+\l Suffer the little children to come unto me...
+
+\t /Alla chipõtayat      amalahiiyã   hasimahni.../
+\m /Alla chipõta-yat      am-al-ahii-yã   has-im-ahni.../
+\g child small:PL-NOM   1SIII-come-IRR-DS 2PI-III-allow  
+\l Suffer the little children to come unto me...
+
+\t hohchifokat           Stratfordako               ashwattook.
+\m hohchifokat           Stratfordako               ashwattook.
+\g named-COMP:   SS      Stratford-CNTR :ACC         live:DU-DPAST
+\l When I was a child, my father and mother lived two miles west and two miles south of a town called Stratford.
+
+\t ilaachaachih            miyaho                   ilikhanattook
+\m ilaachaachih            miyaho                   ilikhanattook
+\g 1PI-say-IRR-TNS     say-TNS-PRT :DS      1P I-learn<      NGR   >-DPAST
+\l say our names.
+
+\t aachittook.
+\m aachittook.
+\g say-DPAST
+\l Although I didn't understand the teacher, the first thing she said was, "Stand up and say your name!
+
+\t ittibaapisa                alhiihayat                     oklah        siapiilattook.
+\m ittibaapisa                alhiihayat                     oklah        siapiilattook.
+\g RCP-COM-see           group]-NOM        PL           1S II-help-DPAST
+\l Although I didn't understand her, my classmates helped me.
+
+\t anopolilahiikiiyoka.
+\m anopolilahiikiiyoka.
+\g speak-1SI-IRR-not-   COMP :DS
+\l They knew that I didn't speak English.
+
+\t hikiiyalaachiho                             imikhanat                   hikiiyalittook.
+\m hikiiyalaachiho                             imikhanat                   hikiiyalittook.
+\g stand-1SI-IRR-TNS-PRT :DS       III-know-SS              stand-1S I-DPAST
+\l When the teacher asked me to stand up, one of my classmates lifted her hand, and I understood that I was to stand up, and I stood.
+
+\t     Ahma        híkkiyat              naa       sayoppattook.
+\m     Ahma        híkkiyat              naa       sayoppattook.
+\g be-when         stand<   GGR   >-ss     [thing 1sII-happy-DPAST   ]
+\l I stood up proudly.
+
+\t ponaklottook.
+\m ponaklottook.
+\g ask-DPAST
+\l The teacher asked me to say my name.
+
+\t imaka                    haklolittook.
+\m imaka                    haklolittook.
+\g give-COMP:      DS       hear<       NGR   >-1S I-DPAST
+\l I had heard the other kids give their names.
+
+\t chóyyohmihoosh                       sihohchifo               lohmat      anoolilittook.
+\m chóyyohmihoosh                       sihohchifo               lohmat      anoolilittook.
+\g sort:of<YGR >-TNS-PRT :SS          1SII-name          quiet-SS        tell-1S I-DPAST
+\l So I also said my name, timidly and softly.
+
+\t sihohchifo         aachittook.
+\m sihohchifo         aachittook.
+\g 1SII-name          say-DPAST
+\l And then the teacher repeated my name.
+
+\t      Hichah     biniililaachiho                            makattook.
+\m      Hichah     biniililaachiho                            makattook.
+\g do-SS           sit-1SI-IRR-TNS-PRT :DS             say-DPAST
+\l And she told me to sit down.
+
+\t      Naa      yoppahoosh                bínnililittook.
+\m      Naa      yoppahoosh                bínnililittook.
+\g thing         happy-PRT :SS    sit<   GGR   >-1S I-DPAST
+\l I was happy to sit down.
+
+\t makaachinah                oklah         ilanoolittook.
+\m makaachinah                oklah         ilanoolittook.
+\g say<LGR>-DS           PL            1PI-tell-DPAST
+\l The second day, she said we were supposed to say the names of (our) dogs and where they lived, so we said them.
+
+\t lhopollilittook.
+\m lhopollilittook.
+\g through-1SI-DPAST
+\l When the time came that I had to say it, my classmates helped me and I got through it.
+
+\t     Yak    michiish        anoolilittook.
+\m     Yak    michiish        anoolilittook.
+\g this       do-PRT :SS   tell-1S I-DPAST
+\l This is how I told it.
+
+\t akoshchonnolilittook.
+\m akoshchonnolilittook.
+\g nod-1SI-DPAST
+\l When the other kids said a dog's name, I nodded my head at whatever name I liked.
+
+\t akoshchonnolilittook.
+\m akoshchonnolilittook.
+\g nod-1SI-DPAST
+\l And when they pointed towards a direction where it lived, I nodded if I liked it.
+
+\t taahanah                       falaamat          akiiyokiittook.
+\m taahanah                       falaamat          akiiyokiittook.
+\g complete<      LGR   >-DS     return-SS    1S N-go<   LGR   >-NEG-NEG-DPAST
+\l On the third day, the school burned down, so I didn't go back.
+
+\t sasalahatok>
+\m sa-salaha-tok-->
+\g 1SII-slow-PT
+\l I am slow.
+
+\t ishachifatok>           [isachi:fatok]
+\m ish-achifa-tok-->           [isachi:fatok]
+\g 2SI-wash-PT             *[isa:chifatok]
+\l You washed it.
+
+\t imachifatok>        [imachi:fatok]
+\m im-achifa-tok-->        [imachi:fatok]
+\g III-wash-PT             *[ima:chifatok]
+\l He washed it for her.
+
+\t nokowachitok>
+\m nokowa-chi-tok-->
+\g angry-CAUS-PT
+\l He angered her.
+
+\t  sahatabish>
+\m  sa-hatabish-->
+\g 1SII-navel
+\l my navel
+
+\t alwashah
+\m alwashah
+\g fry<   STAT   >-STAT-TNS
+\l to be fried
+
+\t alhpiisah
+\m alhpiisah
+\g measure<      STAT   >-TNS
+\l to be measured; correct
+
+\t ahchifah
+\m ahchifah
+\g      wash<   STAT   >-TNS
+\l to be washed
+
+\t hohchifoh
+\m hohchifoh
+\g name<   STAT   >-TNS
+\l to be named
+
+\t Iichipisatok.
+\m Iichipisatok.
+\g 1PI-2SII-see<   NGR   >-PT
+\l We saw you.
+
+\t Ishpimanoolitok.
+\m Ishpimanoolitok.
+\g 2SI-1PIII-tell-PT
+\l You told us.
+
+\t Ichitokcholilih.
+\m Ichitokcholilih.
+\g III-2sII-tickle-1sI-tns
+\l I tickled you for her.
+
+\t Baliililitok.
+\m Baliililitok.
+\g run-1SI-PT
+\l I ran.
+
+\t Saniyah.
+\m Saniyah.
+\g 1SII-fat-TNS
+\l I am fat.
+
+\t naa sayoppattook.
+\m naa sayoppattook.
+\g thing 1SII-happy-DPAST
+\l ... I was happy.
+
+\t Aponnah.
+\m Aponnah.
+\g 1SIII-skilled-TNS
+\l I am skilled.
+
+\t Iyalittook
+\m Iyalittook
+\g go-1SI-DPAST
+\l I went.
+
+\t Ikiyah!
+\m Ikiyah!
+\g N-go-TNS
+\l Let her go!
+
+\t  Holissoyat           aaipa          otalayah.
+\m  Holissoyat           aaipa          otalayah.
+\g  book-NOM      [   LOC-eat]    SPR-lie-   TNS
+\l The book is lying on the table.
+
+\t Ibbak ishtipatok.
+\m Ibbak ishtipatok.
+\g hand     INST-eat-   PT
+\l They ate with their hands.
+
+\t aanonaachitok
+\m aanonaachitok
+\g LOC-cook-   PT
+\l She cooked some food on the fire.
+
+\t  Ilipisalitok.
+\m  Ilipisalitok.
+\g  REFL-see-1SI-    PT
+\l I saw myself.
+
+\t Pisaachilitok.
+\m Pisaachilitok.
+\g see-CAUS-1SI-   PT
+\l I showed it to him.
+
+\t Akpisaachotok.
+\m Akpisaachotok.
+\g 1SN-[see-CAUS   ]<   LGR   >-NEG-PT
+\l I didn't show it to him.
+
+\t Baliilih.
+\m Baliilih.
+\g run-TNS
+\l She runs.
+
+\t Baliilaachih.
+\m Baliilaachih.
+\g run-IRR-TNS
+\l She will run.
+
+\t Kobaffilih.
+\m Kobaffilih.
+\g break-ACT-1SI-   TNS
+\l I broke it.
+
+\t Tamaaha iyalih.
+\m Tamaaha iyalih.
+\g town       go-1SI-TNS
+\l I'm going to town.
+
+\t Tamaaha iyalaachih.
+\m Tamaaha iyalaachih.
+\g town      go-1SI-IRR-TNS
+\l I will go to town.
+
+\t Nipi awashlitokashah.
+\m Nipi awashlitokashah.
+\g meat fry-PT-GUESS
+\l She fried the meat.
+
+\t Awashlitoko?
+\m Awashlitoko?
+\g fry-PT-Q
+\l Did she fry it?
+
+\t Chahta        siahokiih!
+\m Chahta        siahokiih!
+\g         1SII-be-TNS-EXCL
+\l I'm Choctaw!
+
+\t Hoklihoh!
+\m Hoklihoh!
+\g hold-TNS-IMPT
+\l Hold on to it!
+
+\t  akiiyokiittook.
+\m  akiiyokiittook.
+\g  1SN-go<         LGR   >-NEG-NEG-DPAST
+\l ... (the school) burned down and I didn't go back.
+
+\t Ikpiisotok.
+\m Ikpiisotok.
+\g N-see<   LGR   >-NEG-PT
+\l He didn't see her.
+
+\t Ikpisaachotok.
+\m Ikpisaachotok.
+\g N-[see-CAUS   ]<   LGR   >-NEG-PT
+\l He didn't show her.
+
+\t Taloowah.
+\m Taloowah.
+\g sing-TNS
+\l He sang.
+
+\t Tálloowah.
+\m Tálloowah.
+\g sing<   GGR   >-TNS
+\l He finally sang.
+
+\t Bashah.
+\m Bashah.
+\g be:cut-TNS
+\l He got cut.
+
+\t Báyyashah.
+\m Báyyashah.
+\g be:cut<   YGR   >-TNS
+\l He finally got cut.
+
+\t Bashlih.
+\m Bashlih.
+\g cut-TNS
+\l He cut it.
+
+\t Bashlih.
+\m Bashlih.
+\g cut<   NGR   >-TNS
+\l He keeps cutting it.
+
+\t Obatok.
+\m Obatok.
+\g rain-PT
+\l It rained.
+
+\t Ohóbanah             nittak pókkooli oshtattook.
+\m Ohóbanah             nittak pókkooli oshtattook.
+\g rain<   HNGR   >-DS    day     ten          four-DPAST
+\l It kept on raining for forty days.
+
+\t Nosih.
+\m Nosih.
+\g    sleep-TNS
+\l He slept.
+
+\t Nóhsih.
+\m Nóhsih.
+\g sleep<   HGR   >-TNS
+\l He took a quick nap.
+
+\t Obatok.
+\m Obatok.
+\g rain-PT
+\l It rained.
+
+\t Niyah.
+\m Niyah.
+\g fat-TNS
+\l She/he/it is fat.
+
+\t Pisatok.
+\m Pisatok.
+\g see<   NGR   >-PT
+\l She/he/it/they saw her/him/it/them.
+
+\t Hoshiyat      apatok.
+\m Hoshiyat      apatok.
+\g bird-NOM   eat-PT
+\l The birds ate them.
+
+\t anopolilahiikiiyoka.]
+\m anopolilahiikiiyoka.]
+\g speak-1SI-IRR-not-   COMP :SS
+\l They knew that I didn't speak English.
+
+\t [Billat        iyaachiho]                     Maryat       makatok.
+\m [Billat        iyaachiho]                     Maryat       makatok.
+\g Bill-NOM    go-IRR-TNS-PRT :DS       Mary-NOM   say-PT
+\l Mary said that Bill would go.
+
+\t apalitok.
+\m apalitok.
+\g eat-1SI-PT
+\l I ate the cake that Mary made.
+
+\t hattak chíyyito
+\m hattak chíyyito
+\g man    big<   YGR   >
+\l a very big man
+
+\t hattak móyyoma
+\m hattak móyyoma
+\g man    all<   YGR   >
+\l all the men
+
+\t Sachaahah.
+\m Sachaahah.
+\g 1SII-tall
+\l I'm tall.
+
+\t  Iimomakat            iliyatok.
+\m  Iimomakat            iliyatok.
+\g 1PI-all-COMP :SS   1PI-go-PT
+\l We all went.
+
+\t Hattakat iyatokma                  pisalitok.
+\m Hattakat iyatokma                  pisalitok.
+\g    man-NOM      go-COMP-that:   ACC    see-1S I-PT
+\l I saw the man who went.
+
+\t Hattak chaahama                       pisalitok.
+\m Hattak chaahama                       pisalitok.
+\g   man           tall-that:      ACC   see-1S I-PT
+\l I saw the tall man.
+
+\t Anakoosh         sanokowah.
+\m Anakoosh         sanokowah.
+\g I-CNTR :NOM   1SII-angry-TNS
+\l I am angry.
+
+\t Kaah sabannahaatokoosh,            iskali ittahoblilitok.
+\m Kaah sabannahaatokoosh,            iskali ittahoblilitok.
+\g car   1SII-want-because-SS    money   save-1S I-PT
+\l Because I wanted a car, I saved money.
+
+\t Kaah bannahaatoko,         iskali ittahoblilitok.
+\m Kaah bannahaatoko,         iskali ittahoblilitok.
+\g car   want-because:   DS   money    save-1S I-PT
+\l Because he wanted a car, I saved money.
+
+\t Pisachokmakat          ikhanah.
+\m Pisachokmakat          ikhanah.
+\g handsome-COMP :SS   think<   NGR   >-TNS
+\l Hei thinks that hei is handsome.
+
+\t       hoshiyohmakoosh
+\m       hoshiyohmakoosh
+\g bird-even-NOM
+\l even the birds (nom.)
+
+\t okhisa at tinwah
+\m okhisa at tinwah
+\g door         open-MID
+\l The door is open.
+
+\t Hattakat    ohoyo iskali         amima:tok.
+\m Hattak-at    ohoyo iskali         am-im-a:-tok.
+\g man-NOM woman money 1.DAT-3.DAT-give-PAST
+\l The man gave my money to the woman.
+
+\t Alla towa chimipilalitok.
+\m Alla towa chim-i-pila-li-tok.
+\g child ball 2.DAT-3.DAT-throw-1.NOM-PAST
+\l I threw your ball to the child.
+
+\t chialikchilitok.
+\m chi-alikchi-li-tok.
+\g 2(acc)-doctor-1(nom)-past
+\l I doctored you.
+
+\t chimalikchilitok.
+\m chim-alikchi-li-tok.
+\g 2(dat)-doctor-1(nom)-past
+\l I doctored you.
+
+\t issoba éshillilitok.
+\m issoba é-shilli-li-tok.
+\g horse 3(acc)-comb-1(nom)-past
+\l I combed the horse.
+
+\t issoba ishillilitok.
+\m issoba i-shilli-li-tok.
+\g horse 3(dat)-comb-1(nom)-past
+\l I combed the horse.
+
+\t Issoba chimobinililitok
+\m Issoba chim-obinili-li-tok
+\g horse 2DAT-ride-1NOM-PAST
+\l I rode your horse.
+
+\t chipisalitok
+\m chi-pisa-li-tok
+\g      2SG.UNDERGOER-see-1SG.ACTOR-PAST
+\l I saw you
+
+\t issassotok
+\m is-sa-sso-tok
+\g    2SG.ACTOR-1SG.UNDERGOER-hit-PAST
+\l you hit me
+
+\t sahabishkotok
+\m sa-habishko-tok
+\g 1sII-sneeze-PAST
+\l I sneezed.
+
+\t hattakmat      ØØpi,satok
+\m hattak-mat      Ø-Ø-pi,sa-tok
+\g man-that:NOM 3I-3II-see-PAST
+\l That man saw him.
+
+\t hattakmã ØØpi,satok
+\m hattak-mã Ø-Ø-pi,sa-tok
+\g man-that:OBL 3I-3II-see-PAST
+\l He saw that man.
+
+\t Katah osh chinki?
+\m Katah osh chinki?
+\g who FOCUS your-father
+\l Who is your father?
+
+\t Hattak ma.
+\m Hattak ma.
+\g man that
+\l That man.
+
+\t Øpisalitok
+\m Ø-pisa-li-tok
+\g 3sII-see-1sI-PAST
+\l I saw it.
+
+\t akpi:sa na
+\m ak-pi:sa na
+\g 1sN-see-EXH
+\l Let me look!
+
+\t kil i:a na
+\m kil i:a na
+\g 1pN-go-EXH
+\l Let's go!
+
+\t oka ik ishko na
+\m oka ik ishko na
+\g water 3sN-drink-EXH
+\l Let him drink the water!
+
+\t Cipsalih.
+\m Ci-psa-li-h.
+\g   2sO-see-1sA-PRES
+\l I see yous.
+
+\t Salaksha
+\m Sa-laksha
+\g I-st-ACC sweat
+\l I sweated
+
+\t Hilhalitok
+\m Hilha-li-tok
+\g dance-1S-PST
+\l I danced.
+
+\t Hilhalitok.
+\m Hilha-li-tok.
+\g dance 1NOM PST
+\l I danced.
+

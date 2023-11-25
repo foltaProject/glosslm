@@ -1,0 +1,2950 @@
+\t < , SU>, <#, SU>                      vxedavt
+\m < , SU>, <#, SU>                      v-xedav-t
+\g                                       1-see-PL
+\l We see him.
+
+\t < , DO>, <#, DO>                      gxedavt
+\m < , DO>, <#, DO>                      g-xedav-t
+\g                                       2-see-PL
+\l I see you(Pl).
+
+\t < , DO>, <#, SU>                      gxedavt
+\m < , DO>, <#, SU>                      g-xedav-t
+\g                                       2-see-PL
+\l We see you(sg).
+
+\t minaxavs
+\m m-i-naxav-s
+\g 1-APPL-EVID.see-TNS
+\l I(   DAT)   have evidently seen him.
+
+\t vunaxavvar
+\m v-u-naxav-var
+\g 1-APPL-EVID.see-TNS
+\l He(DAT) has evidently seen me.
+
+\t mxedavs
+\m m-xedav-s
+\g 1-see-TNS
+\l He sees me.
+
+\t vxedav
+\m v-xedav
+\g 1-see
+\l I see him.
+
+\t gxedavt
+\m g-xedav-t
+\g 2-see-PL
+\l I see you all.
+
+\t mxedavs
+\m m-xedav-s
+\g 1-see-TNS
+\l He sees me.
+
+\t gxedavs
+\m g-xedav-s
+\g 2-see-TNS
+\l I sees you.
+
+\t vxedav
+\m v-xedav
+\g 1-see
+\l I see him.
+
+\t vano            tavis tavs xatavs
+\m vano            tavis tav-s xatav-s
+\g Vano(NOM)       self-DAT        draw-PRES
+\l Vano draws himself.
+
+\t vanos         tavisi tavi     xatavs
+\m vano-s         tavis-i tav-i     xatav-s
+\g Vano-DAT        self-nom          draw-PRES
+\l Himself draws Vano.
+
+\t nino           purs             qidulobs
+\m nino           purs             qidulobs
+\g Nino           bread            buys
+\l Nino is buying bread.
+
+\t vin            ras              qidulobs?
+\m vin            ras              qidulobs?
+\g who            what             buys
+\l Who is buying what?'                        cf. *Who what buys?
+
+\t vxedav(ø)
+\m v-xedav-(ø)
+\g 1-see-(NUMBER)
+\l I see him.
+
+\t gwaabmi                                    2>1
+\m g-waabm-i                                    2>1
+\g 2-see-DIR.THEME
+\l You see me.
+
+\t gwaabmin                                   1>2
+\m g-waabm-in                                   1>2
+\g 2-see-INV.THEME
+\l I see you.
+
+\t nwaabmaa                                    1>3
+\m n-waabm-aa                                    1>3
+\g 1-see-DIR.THEME
+\l I see him.
+
+\t nwaabmig(w)                                 3>1
+\m n-waabm-ig(w)                                 3>1
+\g 1-see-INV.THEME
+\l He sees me.
+
+\t nicastakapi
+\m ni-castaka-pi
+\g 2-strike-PL
+\l He strikes you.all
+
+\t unkaskapi
+\m un-kaska-pi
+\g 1-bind-PL
+\l He binds us.
+
+\t macukebs             am      cigns
+\m m-acukeb-s             am      cigns
+\g 1-give-PRES this       book
+\l He is giving me this book
+
+\t gacukebt     am     cigns
+\m g-acukeb-t     am     cigns
+\g 2-give-PL      this   book
+\l He is giving you(PL) this book
+
+\t øacukebs             tavis cigns cems stentebs
+\m ø-acukeb-s             tavis cign-s cems stent-eb-s
+\g DFLT-give-PRES         self's book-DAT      my     student-PL-DAT
+\l He is giving his book to my students
+
+\t sen             me             mimacvie                     sixarbes
+\m sen             me             mi-m-acvie                     sixarbe-s
+\g you(ERG)        me(NOM)        PreV-1-CAUS.accustomed*        greed-DAT
+\l You made me accustomed to greed.
+
+\t 3pl                                                                                     (unaxavt)17
+\m 3pl                                                                                     (u-naxav-t)17
+\g --------                 EV.see-PL
+\l They have seen him/them
+
+\t Ninos unda [rom Lalim        naxos tavisi tavi     televisorshi ]
+\m Nino-s unda [rom Lali-m        naxos tavisi tavi     televisor-shi ]
+\g N.-DAT wants that Lali-ERG          see(opt)   self-NOM television-on
+\l Nino wants Lali to see herself on TV
+
+\t Ninos unda [ rom      Lalis achuenos         tavisi tavi     televisorshi ]
+\m Nino-s unda [ rom      Lali-s achuenos         tavisi tavi     televisor-shi ]
+\g N-DAT wants that L.-DAT          watch(opt)        self-NOM television-on
+\l Nino wants Lali to watch herself on television
+
+\t (you)                     mogconst               pelamusi
+\m (you)                     mo-g-cons-t               pelamusi
+\g You-DAT                   preverb-2-like-pl         Pelamusi
+\l You(pl) like Pelamusi.
+
+\t minaxavart
+\m m-inaxavar-t
+\g 1-EV.see-Pl
+\l I have seen you(pl).
+
+\t moconsxart
+\m mo-consxar-t
+\g preV-like-pl
+\l He likes you(pl).
+
+\t vunaxavvar
+\m v-unaxav-var
+\g 1-EVIDsee-1
+\l He has seen me.
+
+\t movconsvar
+\m mo-v-consvar
+\g preverb-1-like
+\l He likes me.
+
+\t v/*mxedav
+\m v/*m-xedav
+\g 1-see
+\l I see him/them
+
+\t v/*gvxedavt
+\m v/*gv-xedav-t
+\g 1-see-PL
+\l we see him/them
+
+\t ø/*gxedav
+\m ø/*g-xedav
+\g 2-see
+\l you see him/them
+
+\t ø/*gxedavt
+\m ø/*g-xedav-t
+\g 2-see-PL
+\l you(pl) see him/them
+
+\t (me)       cignebi             davc'ere
+\m (me)       cign-eb-i             da-v-c'er-e
+\g I(ERG)     book-PL-NOM           PREV-1-write-INDIC.AOR
+\l I wrote the books.
+
+\t c .*    (me)       cignebi             davc'eren/t
+\m c .*    (me)       cign-eb-i             da-v-c'er-en/t
+\g         I(ERG)     book-PL-NOM           PREV-1-write-INDIC.AOR.PL/PL
+\l I wrote the books.
+
+\t (me)         tserils           davc'ere
+\m (me)         tseril-s           da-v-c'er-e
+\g I(NOM)       letter-DAT         PREV-1-write-INDIC.AOR
+\l I am writing the/a letter.
+
+\t (me)         tserils            daøc'ere
+\m (me)         tseril-s            da-ø-c'er-e
+\g       I(NOM)       letter-DAT          PREV-1-write-INDIC.AOR
+\l I am writing the/a letter.
+
+\t kmari              (me)           puls           majlevs
+\m kmar-i              (me)           pul-s           m-a-jl-ev-s
+\g husband-NOM         me(DAT)        money-DAT       1-APPL-give-THEME-TNS
+\l (My) husband gives me (the) money.
+
+\t kmari               (me)              puls          øajlevs
+\m kmar-i               (me)              pul-s          ø-a-jl-ev-s
+\g      husband-NOM me(DAT)                 money-DAT      Ø-APPL-give-THEME-TNS
+\l (My) husband gives me (the) money.
+
+\t Ìmé ámà étígha ídém (ám `)
+\m Ìmé ámà étígha ídém (ám `)
+\g Ime ? shot body hisError! No bookmark name given.
+\l Ime shot himself.
+
+\t Manêl ferí sê cabeça.
+\m Manêl ferí sê cabeça.
+\g Manuel hurt 3SG:POSS head
+\l Manuel hurt himself.
+
+\t k'acma     (me)1      tavi   2    gamacno
+\m k'ac-ma     (me)1      tav-i   2    gamacno
+\g man-ERG I(DAT) head-NOM he.acquainted.me.with.him
+\l The man acquainted me with himself (i.e. introduced himself to me)
+
+\t tavad/tviton/tvit p'rezident'i           daesc'ro          sexvedras
+\m tavad/tviton/tvit p'rezident'-i           daesc'ro          sexvedra-s
+\g  INTENSIFIER president-NOM he.attended.it meeting-DAT
+\l The president himself attended the meeting
+
+\t p'rezident'ma ucxoel dip'lomat'ebs                   tavi           c'arudgina
+\m p'rezident'-ma ucxoel dip'lomat'-eb-s                   tav-i           c'arudgina
+\g president-ERG foreign diplomat-PL-DAT self-NOM he.introduced.him.to.them
+\l The president introduced himself to the foreign diplomats
+
+\t p'rezident'ma tavisi           tavi          ixsna
+\m p'rezident'-ma tavis-i           tav-i          ixsna
+\g president-ERG self's-NOM head-NOM he.saved.him
+\l The president saved himself (and no-one else)
+
+\t (sen)       sens          tavs     umzadeb            sadils
+\m (sen)       sen-s          tav-s     umzadeb            sadil-s
+\g you(NOM) your-DAT self-DAT you.prepare.it.for.him dinner-DAT
+\l You prepare dinner for yourself rather than for somebody else
+
+\t (sen)       sadils         imzadeb
+\m (sen)       sadil-s         i-mzad-eb
+\g you(NOM) dinner-DAT i-prepare-PRES(=you.prepare.it.for.yourself)
+\l You make dinner for yourself
+
+\t (sen)      sens          tavs    sadils   imzadeb
+\m (sen)      sen-s          tav-s    sadil-s   i-mzad-eb
+\g you(NOM) your-DAT self-DAT dinner-DAT i-prepare-               PRES(=you.prepare.it.for.yourself)
+\l You prepare dinner for yourself
+
+\t (sen)       sadils         amzadeb                     sentvis
+\m (sen)       sadil-s         a-mzad-eb                     sen-tvis
+\g you(NOM) dinner-DAT a-prepare-PRES(=you.prepare.it) your-for
+\l You prepare dinner for yourself
+
+\t (me)    (mas)        tavi        shevaz'ule
+\m (me)    (mas)        tav-i        shevaz'ule
+\g I (ERG) he(DAT) self-NOM I.made.him.hate.him
+\l I made him hate me / *I made him hate himself
+
+\t (me)    (mas)       [e]emi      tavi        shevaz'ule
+\m (me)    (mas)       [e]em-i      tav-i        shevaz'ule
+\g I(ERG) he(DAT) my-NOM self-NOM I.made.him.hate.him
+\l I made him hate me
+
+\t (me)    (mas)       tavisi        tavi        shevaz'ule
+\m (me)    (mas)       tavis-i        tav-i        shevaz'ule
+\g I(ERG) he(DAT) self's-NOM self-NOM I.made.him.hate.him
+\l I made him hate himself
+
+\t p'rezident'ma tavisi     /    sak'utari tavi        ixsna
+\m p'rezident'-ma tavis-i     /    sak'utar-i tav-i        ixsna
+\g president-ERG self's-NOM / own-NOM self-NOM he.saved.him
+\l The president saved himself (and no-one else)
+
+\t (me)    [e]emi     / sak'utari tavi       semecoda
+\m (me)    [e]em-i     / sak'utar-i tav-i       semecoda
+\g I(ERG) my-NOM / own-NOM self-NOM I.pitied.him
+\l I pitied myself (and no-one else)
+
+\t (16)' p'rezident'ma tavi          ixsna
+\m (16)' p'rezident'-ma tav-i          ixsna
+\g          president-ERG self-NOM he.saved.him
+\l The president saved himself
+
+\t (17)' (me)       tavi        semecoda
+\m (17)' (me)       tav-i        semecoda
+\g          I(ERG) self-NOM I.pitied.him
+\l I pitied myself
+
+\t (is)       (me)     tavs       mixat'avs
+\m (is)       (me)     tav-s       mixat'avs
+\g he(NOM) I(DAT) self-DAT he.draws.him.for.me
+\l He draws himself / a head for me / *He draws me for myself'Error! No
+
+\t (is)       (sen)      sens        tavs       gixat'avs
+\m (is)       (sen)      sen-s        tav-s       gixat'avs
+\g he(NOM) you(DAT) your-DAT self-DAT he.draws.him.for.you
+\l He draws you / your head for yourself'Error! No bookmark name given.
+
+\t (is)       (sen)       tavs      gixat'avs
+\m (is)       (sen)       tav-s      gixat'avs
+\g he(NOM) you(DAT) self-DAT he.draws.him.for.you
+\l He draws himself / a head for you / *He draws you for yourself'Error! No
+
+\t (sen)       (mas)       tavs       uxat'av
+\m (sen)       (mas)       tav-s       uxat'av
+\g you(NOM) him(DAT) self-DAT you.draw.him.for.him
+\l You draw yourself for him / *You draw him for himself
+
+\t (sen)       (mas)       sens         tavs      uxat'av
+\m (sen)       (mas)       sen-s         tav-s      uxat'av
+\g you(NOM) him(DAT) your-DAT self-DAT you.draw.him.for.him
+\l You draw yourself for him
+
+\t (sen)       (mas)       tavis tavs         uxat'av
+\m (sen)       (mas)       tavis tav-s         uxat'av
+\g you(NOM) him(DAT) self's self-DAT you.draw.him.for.him
+\l You draw him for himself
+
+\t mk'urnalo,     ganik'urne             seni            tavi
+\m mk'urnal-o,     ganik'urne             sen-i            tav-i
+\g physician-VOC you.heal.it.for.yourself your-NOM self-NOM
+\l Physician, heal yourself
+
+\t mk'urnalo,     ganik'urne             tavi
+\m mk'urnal-o,     ganik'urne             tav-i
+\g physician-VOC you.heal.it.for.yourself self-NOM
+\l Physician, heal yourself
+
+\t (me)      (sen)       [e]ems tavs           gixat'av
+\m (me)      (sen)       [e]em-s tav-s           gixat'av
+\g I(NOM) you(DAT) my-DAT self-DAT I.draw.him.for.you
+\l I draw my head (and not the whole) for you
+
+\t Aitak        bere burua          hil du.
+\m Aita-k        bere buru-a          hil d-u.
+\g father-ERG his     head(ABS)-DET kill 3SG-have
+\l The father killed himself. / *The father killed his head.
+
+\t k'acma     ([e] ven) gagvacno                      tavisi     tavi
+\m k'ac-ma     ([e] ven) gagvacno                      tavis-i     tav-i
+\g man-ERG we(DAT) he.acquainted.us.with.him self's-NOM self-NOM
+\l The man acquainted us with himself /* The man acquainted us with his head
+
+\t k'acebma      ([e] ven) gagvacnes                      tavianti        tav(*eb)i   
+\m k'ac-eb-ma      ([e] ven) gagvacnes                      tav-ian-t-i        tav-(*eb)-i   
+\g man-PL-ERG we(DAT) they.acquainted.us.with.him head-POSS-PL-NOM             head-(*PL)-NOM
+\l The men acquainted us with themselves
+
+\t (sen)       (mas)       sens      tavs       uxat'av
+\m (sen)       (mas)       sen-s      tav-s       uxat'av
+\g you(NOM) him(DAT) your-DAT self-DAT you.draw.him.for.him
+\l You draw yourself for him
+
+\t (sen)       (mas)     ixat'av
+\m (sen)       (mas)     i-xat'-av
+\g you(NOM) he(DAT) i-draw-PRES (=you.draw.him.for.yourself)
+\l You draw him for yourself
+
+\t (sen)         (mas)       [e]ems tavs         uxat'av
+\m (sen)         (mas)       [e]em-s tav-s         uxat'av
+\g you (NOM) him(DAT) my-DAT head-DAT you.draw.him.for.him
+\l You draw me for him.
+
+\t (sen)          (mas)       *me        uxat'av
+\m (sen)          (mas)       *me        uxat'av
+\g you(NOM) he(DAT) I(DAT) you.draw.him.for.him
+\l You draw me for him
+
+\t (is)        (me)      saxls        misenebs
+\m (is)        (me)      saxl-s        m-i-sen-eb-s
+\g he(NOM) I(DAT) house-DAT IO1-i-build-PRES-S3 (=he.builds.it.for.me)
+\l He builds me a house
+
+\t (is)        (sen)        saxls           gisenebs
+\m (is)        (sen)        saxl-s           g-i-sen-eb-s
+\g he(NOM) you(DAT) house-DAT IO2-i-build-PRES-S3 (=he.builds.it.for.you)
+\l He builds you a house
+
+\t (is)        (mas)      saxlsusenebs
+\m (is)        (mas)      saxl-s-u-sen-eb-s
+\g he(NOM) he(DAT) house-DAT IO3-u-build-PRES-S3 (=he.builds.it.for.him)
+\l He builds him a house
+
+\t (me)       [e]ems tavs          msvid     garemos                   vukmni   
+\m (me)       [e]em-s tav-s          msvid     garemo-s                   v-u-kmni   
+\g I(NOM) my-DAT self-DAT pieceful environment-DAT                        S1-u-create
+\l I create a pieceful environment for myself
+
+\t (sen)         sens        tavs            msvid garemos ukmni              
+\m (sen)         sen-s        tav-s            msvid garemo-s -u-kmni              
+\g you(NOM) your-DAT self-DAT pieceful environment-DAT                  S2-u-create
+\l You create a pieceful environment for yourself
+
+\t mxat'av
+\m m-xat'-av
+\g O1-draw-PRES
+\l You draw me
+
+\t (me)      vxat'av                      [e]ems   tavs
+\m (me)      v-xat'-av                      [e]em-s   tav-s
+\g I(NOM) S1-draw-PRES(=I.draw.him) my-DAT self-DAT
+\l I draw myself
+
+\t mixat'av         [e]ems tavs
+\m m-i-xat'-av         [e]em-s tav-s
+\g IO1-i-draw-PRES my-DAT self-DAT
+\l I draw him for myself
+
+\t gixat'av         sens     tavs
+\m g-i-xat'-av         sen-s     tav-s
+\g IO2-i-draw-PRES your-DAT self-DAT
+\l You draw him for yourself
+
+\t tavisma tavma           ixsna            p'resident'i
+\m tavis-ma tav-ma           ixsna            p'resident'-i
+\g self's-ERG head-ERG he.saved.him president-NOM
+\l The president escaped from the emergency only because of himself (his past doings, personal charm, etc.)
+
+\t Me         ana       miqvars.
+\m Me         ana       m-i-qvar-s.
+\g 1sg.DAT Ana-NOM 1-PERC-love-PRES
+\l IExp love AnaT/SM.
+
+\t Mas       ana          uqvars.
+\m Mas       ana          u-qvar-s.
+\g 3sg.DAT Ana-NOM PERC-love-PRES
+\l HeExp loves AnaT/SM.
+
+\t mk¢lavs.
+\m m-k¢lav-s.
+\g 1DAT-kill-3PRES
+\l She/He kills me.
+
+\t gvk¢lavs.
+\m gv-k¢lav-s.
+\g 1PL.DAT-kill-3PRES
+\l She/He kills us.
+
+\t gk¢lavs.
+\m g-k¢lav-s.
+\g 2DAT-kill-3PRES
+\l She/He kills you (sg).
+
+\t miqvars.
+\m m-i-qvar-s.
+\g 1DAT-R-love-3PRES
+\l I love him/her/them.
+
+\t gviqvars.
+\m gv-i-qvar-s.
+\g 1PL.DAT-R-love-3PRES
+\l We love him/her/them.
+
+\t giqvars.
+\m g-i-qvar-s.
+\g 2DAT-R-love-3PRES
+\l You (sg) love him/her/them.
+
+\t vc¢erø.
+\m v-c¢er-ø.
+\g 1NOM-write-1/2PRES
+\l I write it.
+
+\t vuqvarvar.
+\m v-u-qvar-var.
+\g 1NOM-R-love-1PRES
+\l She/He loves me.
+
+\t rezo          dedas         samajurs         øac#ukebs.
+\m rezo          deda-s         samajur-s         ø-ac#ukeb-s.
+\g Rezo.NOM mother-DAT          bracelet-DAT      R-give-3PRES
+\l Rezo is giving mother a bracelet.
+
+\t rezos       samajuri         uc#ukebia       dedistvis.
+\m rezo-s       samajur-i         u-c#ukeb-ia       dedistvis.
+\g Rezo-DAT bracelet-NOM          R-give-3PERF      mother-for
+\l Rezo had given a bracelet to his mother.
+
+\t vanos          tavisi tavi   elap¢arak¢eba.
+\m vano-s          tavisi tav-i   e-lap¢arak¢eb-a.
+\g     Vano-DAT self-NOM          R-talk-3PRES
+\l Himself is talking to Vano.
+
+\t temuri        tavis tavs       uqvars.
+\m temur-i        tavis tav-s       u-qvar-s.
+\g   Temur-NOM      self-DAT          R-love-3PRES
+\l Himself loves Temur.
+
+\t vano           tavis tavs elap¢arak¢eba.
+\m vano           tavis tav-s e-lap¢arak¢eb-a.
+\g Vano.NOM       self-DAT     R-talk-3PRES
+\l Vano is talking to himself.
+
+\t temurs        tavisi tavi    uqvars.
+\m temur-s        tavisi tav-i    u-qvar-s.
+\g Temur-DAT      self-NOM        R-love-3PRES
+\l Temur loves himself.
+
+\t (is)         vanos       xat¢avs.
+\m (is)         vano-s       xat¢av-s.
+\g (3SG.NOM ) Vano-DAT draw-3PRES
+\l He/She is drawing Vano.
+
+\t (mas)       vano         daurc¢munebia.
+\m (mas)       vano         da-u-rc¢munebi-a.
+\g (3SG.DAT ) Vano-NOM     P REV-R-convince-3PERF
+\l He/She has convinced Vano.
+
+\t nino           umg#eris        vanos.
+\m nino           u-mg#eri-s        vano-s.
+\g Nino.NOM      R-sing-3PRES      Vano-DAT
+\l Nino is singing to Vano.
+
+\t ninos       uqvars           vano.
+\m nino-s       u-qvar-s           vano.
+\g Nino-DAT R-love-3PRES           Vano.NOM
+\l Nino loves Vano.
+
+\t gk¢lavø.
+\m g-k¢lav-ø.
+\g 2-kill-1/2PRES
+\l I kill you.
+
+\t giqvarvar.
+\m g-i-qvar-var.
+\g 2-R-love-1PERF
+\l You love me.
+
+\t vanos tavisi tavi uqvars
+\m vano-s tavisi tav-i u-qvar-s
+\g V.-DAT self-NOM R-love-PRES
+\l Vano loves/has convinced himself.
+
+\t vano      tavis tavs xat¢avs
+\m vano      tavis tav-s xat¢av-s
+\g V.-NOM self-DAT draw-PRES
+\l Vano draws himself.
+
+\t vano       tavis tavs uqvars
+\m vano       tavis tav-s u-qvar-s
+\g  V.-NOM self-DAT R-love-PRES
+\l Himself loves/has convinced Vano.
+
+\t vanos tavisi tavi xat¢avs
+\m vano-s tavisi tav-i xat¢av-s
+\g  V.-ACC self-NOM draw-PRES
+\l Himself draws Vano.
+
+\t k¢ari        ig<eba.
+\m k¢ar-i        i-g<-eb-a.
+\g door-NOM v-open-TS-PRES
+\l The door is opening.
+
+\t gogoebi      imalebian.
+\m gogoeb-i      i-mal-eb-ian.
+\g girls-NOM v-hide-TS-PRES
+\l The girls are hiding.
+
+\t golgi     daic<¢ra
+\m golgi     da-i-c<¢r-a
+\g G.NOM PFX-v-cut-AOR
+\l Golgi was wounded.
+
+\t ninos   golgi     daec<¢ra
+\m nino-s   golgi     da-e-c<¢r-a
+\g N.-DAT G.NOM PFX-v+R-cut-AOR
+\l Nino had Golgi wounded on her.
+
+\t deidebs      gela          uqvarØt.
+\m deideb-s      gela          u-qvar-Ø-t.
+\g aunts-DAT G.NOM             R-love-PRES-PL
+\l The aunts love Gela.
+
+\t deidebs      gela          ec<xubeba(*t).
+\m deideb-s      gela          ec<xubeba(*-t).
+\g aunts-DAT G.NOM             fight.FUT(-PL )
+\l Gela will fight with the   aunts.
+
+\t vas<ls     miscems masc¢avlebels.
+\m vas<l-s     miscems masc¢avlebel-s.
+\g apple-ACC give.3FUT teacher-DAT
+\l He will give an apple to the teacher.
+
+\t vas<li       micemulia           masc¢avleblistvis.
+\m vas<l-i       micemulia           masc¢avleblis-tvis.
+\g apple-NOM give.PASS.3PRES teacher-for
+\l An apple is given to the teacher.
+
+\t deidebs     bavs<vebi       emalebian.
+\m deideb-s     bavs<veb-i       e-malebi-an.
+\g aunts-DAT children-NOM v+R-hide-PRES.PL
+\l The children are hiding from the aunts.
+
+\t deidebi     taviant tavs t daemalen.
+\m deidebi     taviant tavs t da-e-mal-en.
+\g  aunts.NOM selves.DAT           PFX-v+R-hide-AOR.PL
+\l The aunts were hidden from themselves.'14
+
+\t vanos sz<uls           direkt¢ori
+\m vano-s sz<uls           direkt¢or-i
+\g V.-DAT hate.PRES director-NOM
+\l Vano hates the director.
+
+\t direkt¢ori      s<ez<ulebulia
+\m direkt¢or-i      s<ez<ulebulia
+\g director-NOM hate.PASS.PRES
+\l The director is hated.
+
+\t vanos tavisi tavi uqvars
+\m vano-s tavisi tav-i u-qvar-s
+\g V.-DAT self-NOM R-love-PRES
+\l Vano loves/has convinced himself.
+
+\t deidebs    tavianti tavi daemalat.
+\m deideb-s    tavianti tav-i da-e-mal-a-t.
+\g  aunts-DAT selves-NOM PFX-v+ R-hide-AOR-PL
+\l The aunts had themselves hidden on them.
+
+\t (me) sarkesi sens       tavs      vxedav, tans     k ivera.
+\m (me) sarke-si sen-s       tav-s      vxedav, tan-s     k i-vera.
+\g I.NOM mirror-in your-DAT head-DAT I.see.it    body-DAT while/but    cannot
+\l I see your head in the mirror, but I cannot see the body.
+
+\t  senma    tavma     gacama             (sen).
+\m  sen-ma    tav-ma     gacama             (sen).
+\g your-ERG head-ERG he.tormented.you you.NOM
+\l It was yourself who tormented you / made you suffer.
+
+\t sen       acame               seni      tavi.
+\m sen       acame               sen-i      tav-i.
+\g you.ERG you.tormented.him your-NOM       head-NOM
+\l You tormented
+
+\t tavisma       tavma        daxata      kaci.
+\m tavis-ma       tav-ma        daxata      kac-i.
+\g POSS.REFL-ERG REFL-ERG        he.drew.him man-NOM
+\l Himself drew the man.
+
+\t tavis      tavs     uqvars        ivane.
+\m tavis      tav-s     uqvars        ivane.
+\g POSS.REFL   head-DAT he.loves.him Ivane.NOM
+\l Himself loves Ivane
+
+\t ertmaneti
+\m ertmanet-i
+\g  RECIPROCAL-NOM
+\l each other
+
+\t ertmaneti           gvaocebs      cven.
+\m ertmanet-i           gvaocebs      cven.
+\g  RECIPROCAL-NOM      it.surprises.us we.DAT
+\l We are surprised by (something related to) each other.
+
+\t cven      vaocebt           ertmanets.
+\m cven      vaocebt           ertmanet-s.
+\g   we.NOM we.surprise.them RECIPROCAL-DAT
+\l We surprise each other.
+
+\t ertmanets        szult             ivane       da meri.
+\m ertmanet-s        szult             ivane       da meri.
+\g RECIPROCAL-DAT     they.hate.them Ivane.NOMand Meri.NOM
+\l Each other hate Ivane and Meri.
+
+\t vxedav
+\m v-xedav
+\g    1SG.A-see
+\l I see (him/her/it).
+
+\t mxedav
+\m m-xedav
+\g  1SG.P-see
+\l You see me.
+
+\t Mamam       Mzias daantebina       cecxli.
+\m Mama-m       Mzia-s daanteb-in-a       cecxli.
+\g father-ERG Mzia-DAT        light-CAUS-AOR:3SG fire
+\l Father made Mzia light the fire.
+
+\t gelas uqvars nino.
+\m gelas uqvars nino.
+\g Gela:DAT DAT3SG:`love':ABS3        SG:TNS.ASP.MOOD
+\l Gela loves Nino
+
+\t (53)a.    nino     paTara gelastavis tavs Øacvenebs         sarKeSi.
+\m (53)a.    nino     paTara gela-stavis tav-s Ø-acveneb-s         sarKeSi.
+\g           N.-NOM little G.-DAT self-DAT APPL-show-PRES mirror-in
+\l Ninoi showed little Gelaj herselfi /*himself j in the mirror.
+
+\t temurs tavis tavi uqvars.
+\m temur-s tavis tav-i u-qvar-s.
+\g T.-DAT self-NOM v-love-PRES
+\l Temur loves himself.
+
+\t vaSli      micemulia         masCavleblistvis.
+\m vaSl-i      micemulia         masCavleblis-tvis.
+\g apple-NOM give.PASS.PRES teacher-for
+\l An apple is given to the teacher.
+
+\t deidebs    nino       tdeidebi daemalat.
+\m deidebs    nino       tdeidebi da-e-mal-a-t.
+\g aunts.DAT nino.NOM           PAST-APPL.v-hide-3-PL
+\l The aunts had Nino hidden on them.
+
+\t deidebs        tavianti tavi     tdeidebi daemalat.
+\m deidebs        tavianti tavi     tdeidebi da-e-mal-a-t.
+\g  aunts.DAT selves.NOM             PAST-APPL.v-hide-3-PL
+\l The aunts had themselves hidden on them.
+
+\t deidebi      ninos      tdeidebi daemalen.
+\m deidebi      ninos      tdeidebi da-e-mal-en.
+\g aunts.NOM nino.DAT             PAST-APPL.v-hide-3PL
+\l The aunts were hidden to Nino.
+
+\t deidebi       taviant tavs tdeidebi daemalen.
+\m deidebi       taviant tavs tdeidebi da-e-mal-en.
+\g   aunts.NOM selves.DAT              PAST-APPL.v-hide-3PL
+\l The aunts were hidden to themselves.
+
+\t bavsvebi       imalebian
+\m bavsveb-i       i-malebi-an
+\g children-NOM v-hide-3PL
+\l The children are hiding.
+
+\t nino          umalebia        bavsvebs     deidebs
+\m nino          u-malebi-a        bavsveb-s     deideb-s
+\g Nino.NOM APPL-hide-3SG children-ACC aunts-DAT
+\l Nino is hiding the children from the aunts.
+
+\t deidebs    bavsvebi        emalebian.
+\m deideb-s    bavsveb-i        e-malebi-an.
+\g aunts-DAT children-NOM APPL.v-hide-3PL
+\l The children are hiding from the aunts.
+
+\t Secili libër      iu kthye            autorit     të tij.
+\m Secili libër      iu kthye            autorit     të tij.
+\g each book.NOM cl returned.NACT author.DAT            its
+\l Each book was returned to its author.
+
+\t Secilit djalë    iu dha          paga     i tij.
+\m Secilit djalë    iu dha          paga     i tij.
+\g   each     boy.DAT cl gave.NACT pay.NOM         his
+\l Each boy was given his pay.
+
+\t es bavs<vi        nacvenebia as pediatrisatvis    (dedamisis mier)
+\m es bavs<vi        nacvenebia as pediatrisa-tvis    (dedamisis mier)
+\g this child-NOM shown-is       100 pediatricians-to (mother by)
+\l This child is shown to a hundred pediatricians (by its mother).
+
+\t as pediatrisas         nacvenebia(t) es bavs<vi       (dedamisis mier)
+\m as pediatrisa-s         nacvenebia(-t) es bavs<vi       (dedamisis mier)
+\g   100 pediatricians.DAT shown-DAT.PL this child-NOM (mother by)
+\l A hundred pediatricians are shown this child (by its mother).
+
+\t vanos tavis tavi uqvars.
+\m vano-s tavis tav-i uqvars.
+\g V.-DAT self-NOM loves
+\l Vano loves himself.
+
+\t tavis tavs vano      uqvars.
+\m tavis tav-s vano      uqvars.
+\g   self-DAT    V.-NOM loves
+\l Himself loves Vano.
+
+\t (?) gusin           c<ven post¢alions      dzaVlma pexi          mouc<¢ama.
+\m (?) gusin           c<ven post¢alion-s      dzaVlma pexi          mouc<¢ama.
+\g         yesterday our mail-carrier-DAT dog.ERG leg.NOM bite.AOR
+\l A dog bit the leg of our mail-carrier yesterday.
+
+\t bavs<vebi           imalebian.
+\m bavs<veb-i           imalebi-an.
+\g children-NOM         hide-PRES.PL
+\l The children       are hidden.
+
+\t bavs<vebi           vanos emalebian.
+\m bavs<veb-i           vano-s emalebi-an.
+\g children-NOM         V.-DAT hide-PRES.PL
+\l The children       are hidden from Vano.
+
+\t deidas       gela   da pat¢a daek¢argnen/*daek¢arga.
+\m deida-s       gela   da pat¢a daek¢arg-nen/*daek¢arg-a.
+\g aunt-DAT      G.NOM and P.NOM lost-PRES.3PL/lost-PRES.3SG
+\l Gela and    Pata were lost to their aunt.
+
+\t deidebs      gela    da pat¢a daek¢arga/*daek¢argnen.
+\m deideb-s      gela    da pat¢a daek¢arg-a/*daek¢arg-nen.
+\g aunts-DAT     G.NOM and P.NOM lost-PRES.3SG/lost-PRES.3PL
+\l The aunts   had Gela and Pata lost on them.
+
+\t ninom     anaxa          gela                  tavis tavs.
+\m nino-m     a-nax-a          gela                  tav-is tav-s.
+\g   Nino.ERGR-show-3AOR Gela.NOM                  self-GEN self-DAT
+\l Nino showed himself i Gelai.
+
+\t deidebi tavianti tavs  daemalen.2
+\m deideb-i taviant-i tav-s  da-e-mal-en.2
+\g   aunts-NOM selves-NOM self-DAT PREV-R-hidden-3PL.PRES
+\l The aunts were hidden from themselves.
+
+\t deidebi patas       daeKargnen.
+\m deideb-i pata-s       da-e-Karg-nen.
+\g aunts-NOM Pata-DAT       PREV-R-lost-3PL.IMPF
+\l The aunts were lost to Pata.
+
+\t deidebs gela daeKargat.
+\m deideb-s gela da-e-Karg-a-t.
+\g aunts-DAT Gela PREV-R-lost-3PRES-PL
+\l The aunts had Gela lost on them.
+
+\t deidebs gela uqvart.
+\m deideb-s gela u-qvar-t.
+\g aunts-DAT Gela R-love-3PRES.PL
+\l The aunts love Gela.
+
+\t deidebs gela ecxubeba (*t).
+\m deideb-s gela e-cxubeb-a (*-t).
+\g aunts-DAT Gela R-fight-3PRES (*-PL)
+\l Gela will fight with the aunts.
+
+\t ninom anaxa          cven paTara gelas        tavis tavi.
+\m nino-m a-nax-a          cven paTara gela-s        tav-is tav-i.
+\g Nino-ERG R-show-3AOR our little          Gela-DAT self-GEN self-NOM
+\l Nino showed our little Gelai himself i.
+
+\t ninom      gelas tavis deida          anaxa.
+\m nino-m      gela-s tav-is deida          a-nax-a.
+\g Nino-ERG Gela-DAT self-GEN aunt.NOMR-show-3AOR
+\l Nino showed Gelai hisi aunt in the mirror.
+
+\t ninom     anaxa        gela       tavis     tavs   sarkeSi.
+\m nino-m     a-nax-a        gela       tav-is     tav-s   sarkeSi.
+\g Nino-ERG R-show-3AOR Gela.NOM self-GEN self-DAT mirror.in
+\l Ninoi showed herselfi/*himself j Gelaj in the mirror.
+
+\t bavSvebam nino         tavis   dedas            anaxes.
+\m bavSveb-am nino         tav-is   deda-s            a-nax-es.
+\g children-ERG Nino.NOM self-GEN mother-DAT   R-show-3PL.AOR
+\l The children showed heri mother Nino i.
+
+\t nino        tavis tavs akebs.
+\m nino        tav-is tav-s akeb-s.
+\g   Nino.NOM self-GEN self-DAT praise-3PRES
+\l Nino praises herself.
+
+\t ninos      tavis deda      akebs.
+\m nino-s      tav-is deda      akeb-s.
+\g Nino-DAT self-GEN mother.NOM praise-3PRES
+\l Heri mother praises Ninoi.
+
+\t deidebi tavianti tavs  daemalen.
+\m deideb-i taviant-i tav-s  da-e-mal-en.
+\g   aunts-NOM selves-GEN self-DAT PREV-R-hidden-3PL.PRES
+\l The aunts were hidden from themselves.
+
+\t deidebs tavianti tavi  daemalat.
+\m deideb-s taviant-i tav-i  da-e-mal-a-t.
+\g   aunts-DAT selves-GEN self-NOM PREV-R-hidden-3PRES-PL
+\l The aunts had themselves hidden on them.
+
+\t vanos      tavis tavi uqvars.
+\m vano-s      tav-is tav-i u-qvar-s.
+\g Vano-DAT self-GEN self-NOM R-love-3PRES
+\l Vano loves himself .
+
+\t gela         sen      axal sarvals    gikeravs.
+\m gela         sen      axal sarval-s    g-i-kerav-s.
+\g Gela.NOM you.DAT new trousers-DAT 2-R-sew-3PRES
+\l Gela is sewing new trousers for you.
+
+\t sen      nino          giqvars.
+\m sen      nino          g-i-qvar-s.
+\g you.DAT Nino.NOM       2-R-love-3PRES
+\l You love Nino.
+
+\t deidebi tavianti tavs  daemalen.
+\m deideb-i taviant-i tav-s  da-e-mal-en.
+\g   aunts-NOM selves-NOM self-DAT PREV-R-hidden-3PL.PRES
+\l The aunts were hidden from themselves.
+
+\t deidebs gela daeKargat.
+\m deideb-s gela da-e-Karg-a-t.
+\g aunts-DAT Gela PREV-R-lost-3PRES-PL
+\l The aunts had Gela lost on them.
+
+\t bavSvebam nino           [ tavis  deda/*tav]s anaxes
+\m bavSveb-am nino           [ tav-is  deda/*tav]-s a-nax-es
+\g children-ERG Nino-NOM self-GEN mother/*self-DAT R-show-3PL.AOR
+\l The children showed heri mother/*herselfi Nino i.
+
+\t ninos [ tavis deda/*tavi]                   akebs
+\m nino-s [ tav-is deda/*tav-i]                   akeb-s
+\g Nino-ACCself-GEN mother.NOM/*self-NOM          praise-3PRES
+\l Heri mother/*herselfi praises Ninoi.
+
+\t dedam Cerili daCera
+\m dedam Cerili daCera
+\g   motherERG letterABS write3S-3O-Aorist
+\l Mother wrote a letter.
+
+\t Cerili           gKlavs
+\m Cerili           gKlavs
+\g   the-letterNOM kill3S-2O-Present
+\l The letter is killing you.
+
+\t glexi        tesavs        siminds.
+\m glexi        tesavs        siminds.
+\g peasant.nom he-sows-it-I-I corn.dat
+\l The peasant is sowing the corn.
+
+\t glexma      datesa          simindi.
+\m glexma      datesa          simindi.
+\g peasant.erg he-sows-it-II-I corn.nom
+\l The peasant sowed corn.
+
+\t glexs       dautesavs        simindi.
+\m glexs       dautesavs        simindi.
+\g peasant.dat he-sows-it-III-I corn.nom
+\l The peasant has sown corn.
+
+\t K'acma      c'igni           naxa.
+\m K'ac-ma      c'ign-i           nax-a.
+\g man-ERG      book-ABS          see-AOR.3sg
+\l The man saw the book.
+
+\t K'aci      shemovida.
+\m K'ac-i      shemo-vid-a.
+\g man-ABS     in.hither-come-AOR.3sg
+\l The man came in.
+
+\t 2        a.      Gizona       ardoa          edaten                ari          zen
+\m 2        a.      Gizona       ardoa          edaten                ari          zen
+\g                  man-ABS      wine-ABS       drink-IPF             PROG         3sA.PST
+\l The man was drinking wine.
+
+\t C'igni       sad aris?
+\m C'ign-i       sad aris?
+\g book-ABS      where be-3s
+\l Where is the book?
+
+\t Ninom       surati        da=xa ta.
+\m Ninom       surati        da=xa t-a.
+\g Nino.ERG picture.ABS PRV=draw- AOR.SG
+\l Nino drew a picture.
+
+\t Nino         surats       xa tav s.
+\m Nino         surats       xa t-av- s.
+\g Nino.NOM picture.OBJ draw-TM- SG
+\l Nino is drawing a picture.
+
+\t Tavisii deida         ninosi           xatÛavs.
+\m Tavisii deida         nino-si           xatÛav-s.
+\g    self's aunt.NOM Nino-ACC      draw-PRES
+\l Heri aunt is drawing Ninoi.
+
+\t Mat Ana uqvart.
+\m Mat Ana u-qvar-t.
+\g they Ana         APPL-love-DAT.PL
+\l They love Ana.
+
+\t gamegËvijeba
+\m ga-m-e-gËvijeba
+\g PreV-1.DAT- APPL.NACT-be.awake.   FUT
+\l I(   DAT   ) will wake up.
+
+\t Ninon surati da=xaTa
+\m Ninon surati da=xaT-a
+\g Nino-ERG picture-ABS Prev=draw-AORsg
+\l Nino drew a picture
+
+\t Nino surats xaTavs
+\m Nino surats xaT-av-s
+\g Nino-NOM picture-OBJ draw-TM-sg
+\l Nino draws / is drawing a picture
+
+\t  vxaTav
+\m  v-xaT-av
+\g 1NOM-draw-TM
+\l I am drawing
+
+\t  Ninom me da=mxaTa
+\m  Ninom me da=m-xaT-a
+\g Nino-ERG I Prev=1OBJ-draw-AORsg
+\l Nino drew me (my picture)
+
+\t mkÚlavs.
+\m m-kÚlav-s.
+\g 1DAT-kill-3PRES
+\l She/He kills me.
+
+\t gvkÚlavs.
+\m gv-kÚlav-s.
+\g 1PL.DAT-kill-3PRES
+\l She/He kills us.
+
+\t gkÚlavs.
+\m g-kÚlav-s.
+\g 2DAT-kill-3PRES
+\l She/He kills you (sg).
+
+\t miqvars.
+\m m-i-qvar-s.
+\g 1DAT-R-love-3PRES
+\l I love him/her/them.
+
+\t gviqvars.
+\m gv-i-qvar-s.
+\g 1PL.DAT-R-love-3PRES
+\l We love him/her/them.
+
+\t giqvars.
+\m g-i-qvar-s.
+\g 2DAT-R-love-3PRES
+\l You (sg) love him/her/them.
+
+\t vcÚerØ.
+\m v-cÚer-Ø.
+\g 1NOM-write-1/2PRES
+\l I write it.
+
+\t vuqvarvar.
+\m v-u-qvar-var.
+\g 1NOM-R-love-1PRES
+\l She/He loves me.
+
+\t rezo          dedas         samajurs         ØacËukebs.
+\m rezo          deda-s         samajur-s         Ø-acËukeb-s.
+\g Rezo.NOM mother-DAT bracelet-DAT               R-give-3PRES
+\l Rezo is giving mother a bracelet.
+
+\t rezos       samajuri         ucËukebia      dedistvis.
+\m rezo-s       samajur-i         u-cËukeb-ia      dedis-tvis.
+\g Rezo-DAT bracelet-NOM          R-give-3PERF      mother-for
+\l Rezo had given a bracelet to his mother.
+
+\t vanos        tavisi tavi elapÚarakÚeba.
+\m vano-s        tavisi tav-i e-lapÚarakÚeb-a.
+\g   Vano-DAT self-NOM          R-talk-3PRES
+\l Himself is talking to Vano.
+
+\t temuri         tavis tavs       uqvars.
+\m temur-i         tavis tav-s       u-qvar-s.
+\g   Temur-NOM self-DAT                R-love-3PRES
+\l Himself loves Temur.
+
+\t vano           tavis tavs elapÚarakÚeba.
+\m vano           tavis tav-s e-lapÚarakÚeb-a.
+\g Vano.NOM       self-DAT     R-talk-3PRES
+\l Vano is talking to himself.
+
+\t temurs        tavisi tavi       uqvars.
+\m temur-s        tavisi tav-i       u-qvar-s.
+\g Temur-DAT      self-NOM           R-love-3PRES
+\l Temur loves himself.
+
+\t (is)         vanos       xatÚavs.
+\m (is)         vano-s       xatÚav-s.
+\g (3SG.NOM) Vano-DAT draw-3PRES
+\l He/She is drawing Vano.
+
+\t (mas)       vano         daurcÚmunebia.
+\m (mas)       vano         da-u-rcÚmunebi-a.
+\g (3SG.DAT) Vano-NOM PREV-R-convince-3PERF
+\l He/She has convinced Vano.
+
+\t nino           umgËeris          vanos.
+\m nino           u-mgËeri-s          vano-s.
+\g Nino.NOM       R-sing-3PRES         Vano-DAT
+\l Nino is singing to Vano.
+
+\t ninos       uqvars              vano.
+\m nino-s       u-qvar-s              vano.
+\g Nino-DAT R-love-3PRES              Vano.NOM
+\l Nino loves Vano.
+
+\t gkÚlavØ.
+\m g-kÚlav-Ø.
+\g 2-kill-1/2PRES
+\l I kill you.
+
+\t giqvarvar.
+\m g-i-qvar-var.
+\g 2-R-love-1PERF
+\l You love me.
+
+\t vxedav
+\m v-xedav
+\g 1SG.A-see
+\l I see (him/her/it).
+
+\t mxedav
+\m m-xedav
+\g 1SG.P-see
+\l You see me.
+
+\t gicnobs
+\m g-icnobs
+\g 2SG.P-know
+\l [s/he] knows you
+
+\t sam         titmo'rili                 (k'aci)
+\m sam         tit-mo'r-il-i                 (k'aci)
+\g three.OBL finger-cut.off-PTCPL-NOM        man.NO    M
+\l (a man) with three fingers cut off
+
+\t orzemet'          marcvliani             (sit'q'va)
+\m or-ze-met'          marcvl-ian-i             (sit'q'va)
+\g two-on-more.OBL syllable-ED-NOM              word.NOM
+\l (a word) of more than two syllables
+
+\t erti      am       pakt'ortagani
+\m ert-i      am       pakt'or-ta-gan-i
+\g one-NOM this.OBL factor-PL-PART-NO       M
+\l one of these factors
+
+\t sami        (*sam) makvs         mo'rili.
+\m sam-i        (*sam) makvs         mo'rili.
+\g three-NOM three I.have.it cut.off
+\l I have three [e.g. fingers] cut off.
+
+\t gnaxes
+\m g-nax-es
+\g 2.DAT-see-AOR.3pl
+\l They saw you (sg/pl).
+
+\t gnaxat
+\m g-nax-a-t
+\g 2.DAT-see-AOR-pl
+\l (S)he saw you (pl).
+
+\t gnaxa
+\m g-nax-a
+\g 2.DAT-see-AOR
+\l (S)he saw you (sg).
+
+\t miqvarxar
+\m m-i-qvar-xar
+\g 1.DAT-APPL.PART-love-2
+\l I love you.
+
+\t miqvars
+\m m-i-qvar-s
+\g 1.DAT-APPL.PART-love-3
+\l I love him/her/them.
+
+\t giqvarvar
+\m g-i-qvar-var
+\g 2.DAT-APPL.PART-love-1
+\l You love me.
+
+\t giqvars
+\m g-i-qvar-s
+\g 2.DAT-APPL.PART-love-3
+\l You love him/her/them.
+
+\t vuqvarvar
+\m v-u-qvar-var
+\g 1.NOM-APPL-love-1
+\l S/he loves me./They love me.
+
+\t Øuqvarxar
+\m Ø-u-qvar-xar
+\g 2.NOM-APPL-love-2
+\l S/he loves you./They love you.
+
+\t damalavs
+\m da-malav-s
+\g PREV-hide-3
+\l S/he is hiding it.
+
+\t daumalavs
+\m da-u-malav-s
+\g PREV-APPL-hide-3
+\l S/he is hiding it from him/her.
+
+\t damimalavs
+\m da-m-i-malav-s
+\g PREV-1.DAT-APPL.PART-hide-3
+\l S/he is hiding it from me.
+
+\t nino          tavis tavs   simartles ugiars.
+\m nino          tavis tav-s   simartle-s u-giar-s.
+\g Nino.NOM   self self-DAT truth-ACC     APPL-reveal-3
+\l Nino revealed the truth to herself.
+
+\t ninos       tavis tavi   simartles ugiars.
+\m nino-s       tavis tav-i   simartle-s u-giar-s.
+\g  Nino-DAT   self self-NOM truth-ACC   APPL-reveal-3
+\l Herself revealed the truth to Nino.
+
+\t mikixar
+\m m-i-ki-xar
+\g 1.DAT-APPL.PART-praise
+\l I have praised you.
+
+\t mikia
+\m m-i-ki-a
+\g 1.DAT-APPL.PART-praise-3
+\l I have praised him/her/them.
+
+\t gikivar
+\m g-i-ki-var
+\g 2.DAT-APPL.PART-praise
+\l You have praised me.
+
+\t gikia
+\m g-i-ki-a
+\g 2.DAT-APPL.PART-praise-3
+\l You have praised him/her/them.
+
+\t vukivar
+\m v-u-ki-var
+\g 1.NOM-APPL-praise-1
+\l S/he has praised me./They have praised me.
+
+\t Øukixar
+\m Ø-u-ki-xar
+\g 2.NOM-APPL-praise-2
+\l S/he has praised you./They have praised you.
+
+\t vanom     sen   guko                    direktors.
+\m vano-m     sen   g-u-ko                    direktors.
+\g  Vano-ERG you 2.DAT-APPL-   praise.AOR principal-DAT
+\l Vano praised you to the principal.
+
+\t glexi             tesavs            siminds
+\m glexi             tesavs            siminds
+\g peasant.NOM       he-sows-it-I-I    corn.DAT
+\l The peasant is sowing the corn.
+
+\t xedavs
+\m xedav-s
+\g see-S3s
+\l he sees
+
+\t gxedaven/*gxedavent/*gxedavt
+\m g-xedav-en/*g-xedav-en-t/*g-xedav-t
+\g O2-see-S3p
+\l they see you (pl.)
+
+\t gxedavdat
+\m g-xedavd-a-t
+\g 2-see-IMPF:S3s-PL
+\l he saw you (pl.)
+
+\t £vilebs           c'erili            gaugzavniat          mamisatvis
+\m £vil-eb-s           c'eril-i            ga-u-gzavni-a-t          mam-isa-tvis
+\g [child-PL-DAT letter-NOM                have.sent.III.3/3pl      father-GEN-for]
+\l The children will send/sent/have sent their   father a letter.
+
+\t  c'erili       gaegzavna                  £vils
+\m  c'eril-i       ga-e-gzavn-a                  £vil-s
+\g [letter-NOM will.be/was/has.been.sent.3/3 child-DAT]
+\l The letter will be sent/was sent/has been sent to the child.
+
+\t {6}    a.      Z&arisk'acebi          ezo£i       dganan/*dgas
+\m {6}    a.      Z&arisk'ac-eb-i          ezo-£i       dga-nan/*dga-s
+\g                [soldier-PL-NOM          yard-in      stand.I.3pl/*stand.I.3sg]
+\l Soldiers are standing in the garden.
+
+\t cacXvebi               ezo£i       dgas/dganan
+\m cacXv-eb-i               ezo-£i       dga-s/dga-nan
+\g [linden-tree-PL-NOM yard-in           stand.I.3sg/stand.I.3pl]
+\l Linden trees are standing in the garden.
+
+\t {7}    mere Zili              most'acebt tvals            Ø.
+\m {7}    mere Zili              mo-s-t'aceb-t tvals            Ø.
+\g        [then sleep-NOM abduct.I.3/3pl/3 eye-DAT Ø-3pl-DAT]
+\l Then sleep will carry off their eyes.
+
+\t {9}    me         megobari        vtis         c'q'alobit     bevri     mq'avs,            tanac isetebii             arian,       st'umroba          tu    ganizraXes,             veranairi amindi                ver       daabrk'olebt Øi. 
+\m {9}    me         megobari        vtis         c'q'alobit     bevri     mq'avs,            tanac isetebii             arian,       st'umroba          tu    ganizraXes,             veranairi amindi                ver       daabrk'oleb-t Øi. 
+\g        [I-DAT friend-NOM god-GEN grace-INS                    many      have.I.3/1,        also such-NOM-PL are.I.3pl,             guesthood-NOM if         intend.II.3pl/3,        no-kind         weather-NOM cannot hinder.I.3/3pl Ø-3pl-DAT]
+\l By the grace of God I have many friends; furthermore they are the sort of people that if they decide to visit, no kind of weather can hinder them.
+
+\t {10} ar        vici,          ikneb matj tval£ic ucnauri vTManvar da                    amit'omac meridebian. ucXo, dak'virvebuli mzera                      makvs            da      £eiZleba         esec      ak'rtobt     Øj.      
+\m {10} ar        vici,          ikneb matj tval£ic ucnauri vTManvar da                    amit'omac meridebian. ucXo, dak'virvebuli mzera                      makvs            da      £eiZleba         esec      ak'rtob-t     Øj.      
+\g        [not know.I.1/3 perhaps their eye-in-too odd               appear.I.1 and        therefore       avoid.I.3pl/1.strange attentive         look        have.I.3/1        and     possible-is      this-too spook.I.3/3pl Ø-3pl-DAT]
+\l I don't know, I must seem odd to them, and so they avoid me. I have a strange attentive gaze, and perhaps this, too, spooks them.
+
+\t {12} a. es         gogoebi          ertmanets         aint'ereseben zap'rebit
+\m {12} a. es         gogo-eb-i          ertmanet-s         a-int'ereseb-en zap'rebit
+\g         [these     girl-PL-NOM each-other-DAT interest.I.3pl/3             tales-INS]
+\l These     girls are getting each other interested in folk tales.
+
+\t am         gogoebs          ertmaneti         aint'eresebt
+\m am         gogo-eb-s          ertmanet-i         a-int'ereseb-t
+\g [these     girl-PL-DAT        each-other-NOM interest.I.3/3pl]
+\l These     girls are interested in each other.
+
+\t {i}     me           niadag     £ensa sakmesa           gavuk'virvebivar
+\m {i}     me           niadag     £ensa sakme-sa           ga-v-u-k'virvebi-var
+\g         [I-NOM always           your    affair-DAT       surprise.III.1/3]
+\l Your affairs [source,GIO/RO] have always surprised me [experiencer,GS/RS]
+
+\t {i}      £im£ilma Zlier            £eac'uXat          lek'vebi
+\m {i}      £im£il-ma Zlier            £e-a-c'uX-a-t          lek'v-eb-i
+\g          [hunger-ERG greatly bother.II.3/3pl               puppy-PL-NOM]
+\l Hunger was seriously troubling the puppies.
+
+\t {iii} dasc'q'evlot mertma!
+\m {iii} da-s-c'q'evl-o-t mert-ma!
+\g          [damn.II.3/3pl           god-ERG]
+\l God damn them!
+
+\t siberem              k'aci          gaabelat'a
+\m sibere-m              k'ac-i          ga-a-belat'-a
+\g [age-ERG              man-NOM         make.bald.II.3/3]
+\l Age made the man bald.
+
+\t {19} £emoidnen q'aTMeebij. uprosi                eubnebat 0j
+\m {19} £emo-id-nen q'aTMe-eb-ij. upros-i                e-ubneb-a-t 0j
+\g      [enter.IIp.3pl   bandit-PL-NOM.boss-NOM tell.Ip.3/3pl]
+\l The bandits entered. The boss says to them....
+
+\t {20} £vilebi           gamovzardeq'en             rva       ertat.
+\m {20} £vil-eb-i           gamo-v-zard-e-q'en             rva       ertat.
+\g      [child-PL-NOM raise.II.1/3pl                       eight     together]
+\l I raised eight children all together.
+
+\t Studenti            midis
+\m Student-i            midi-s
+\g      student-NOM go.PRES.3SG
+\l The student goes.
+
+\t Studenti         cerils        c'ers.
+\m Student-i         ceril-s        c'er-s.
+\g  student-NOM letter-DAT write.PRES.3SG
+\l The student writes the letter.
+
+\t Studenti             mivida
+\m Student-i             mivid-a
+\g      student-NOM go.AOR.3SG
+\l The student went.
+
+\t Studentma cerili                dac'era
+\m Student-ma ceril-i                da-c'er-a
+\g  student-ERG letter-NOM           PREV-write.AOR.3SG
+\l The student wrote the letter.
+
+\t me           tserils       vc'er
+\m me           tseril-s       v-c'er
+\g     I.NOM letter-DAT 1-write-PRES
+\l I am writing the/a letter.
+
+\t me           cignebi          davc'ere
+\m me           cign-eb-i          da-v-c'er-e
+\g     I.ERG book-PL-NOM           PREV-1-write-INDIC.AOR
+\l I wrote the books.
+
+\t [(monadiris mier) datvis       mok'vla       am t'qesi]    ak'rdzalulia
+\m [(monadir-is mier) datv-is       mok'vla       am t'qesi]    ak'rdzalulia
+\g [(hunter-GEN by) bear-GEN killing.NOM this woods.in] forbidden.it.is.I.2
+\l Killing bears in this woods is forbidden
+
+\t [tamadis         damtknareba supraze] uzrdelobaa
+\m [tamad-is         damtknareba supraze] uzrdelobaa
+\g [tamada-GEN yawning.NOM table.on] rudeness.it.is.I.2
+\l It is rude for the tamada to yawn at the table
+
+\t c'avedi     t'qesi   [datvis     mosak'lavad]
+\m c'avedi     t'qesi   [datv-is     mosak'lavad]
+\g I.went.II.2 woods.in [bear-GEN to.kill]
+\l I went into the woods to kill a bear
+
+\t ninom    acvena                 suratebi   gias
+\m nino-m    acvena                 surateb-i   gia-s
+\g Nino-ERG she.showed.him.it.II.2 pictures-NOM Gia-DAT
+\l Nino showed the pictures to Gia
+
+\t glexi        tesavs       siminds Series I
+\m glex-i        tesavs       simind-s Series I
+\g peasant-NOM he.sows.it.I.1 corn-DAT
+\l The peasant is sowing corn
+
+\t glexma      datesa          simindi Series II
+\m glex-ma      datesa          simind-i Series II
+\g peasant-ERG he.sowed.it.II.1 corn-NOM
+\l The peasant sowed corn
+
+\t megobrebi         ertmanets /     ertimeores       amxneveben        
+\m megobr-eb-i         ertmanet-s /     ertimeore-s       amxneveben        
+\g friend-small PL-NOM RECIPROCAL-DAT / RECIPROCAL-DAT    they.cheer.them.up
+\l The friends cheer up each other
+
+\t bavsvebma ertmaneti      gaicnes
+\m bavsv-eb-ma ertmanet-i      gaicnes
+\g child-PL-ERG RECIPROCAL-NOM they.got.acquainted.with.them
+\l The children met each other
+
+\t bavsvebidan ertma erti    gaicno
+\m bavsv-eb-idan ert-ma ert-i    gaicno
+\g child-PL-from one-ERG one-NOM they.got.acquainted.with.him/her
+\l *Each of the children met the other
+
+\t mei    matj +k , ertmanetij +k / ertimeorej +k      gavacani                 
+\m mei    matj +k , ertmanet-ij +k / ertimeorej +k      gavacani                 
+\g I(ERG) they(DAT) RECIPROCAL-NOM / RECIPROCAL(NOM)    I.introduced.them.to.them
+\l I introduced them to each other
+
+\t bavsvebii pikroben, rom ertmanetisi+j /  ertimeoresi+j tojinebi       dasabania            
+\m bavsv-eb-ii pikroben, rom ertmanet-isi+j /  ertimeore-si+j tojin-eb-i       dasaban-i-a            
+\g child-PL-NOM they.think that RECIPROCAL-GEN / RECIPROCAL-GEN doll-PL-NOM    to.be.washed-NOM-COPULA
+\l The children think that each other's dolls have to be washed
+
+\t mei    ertmanets( j + k ) / ertimeores( j + k ) gavacani         anaj     da elenek    
+\m mei    ertmanet-s( j + k ) / ertimeore-s( j + k ) gavacani         anaj     da elenek    
+\g I(ERG) RECIPROCAL-DAT / RECIPROCAL-DAT I.introduced.them.to.them   Anna-NOM and Elene-NOM
+\l I introduced Anna and Elene to each other
+
+\t ertmanets / ertimeores
+\m ertmanet-s / ertimeore-s
+\g RECIPROCAL-DAT / RECIPROCAL-DAT
+\l We criticize each other
+
+\t ertmanets / ertimeores
+\m ertmanet-s / ertimeore-s
+\g RECIPROCAL-DAT / RECIPROCAL-DAT
+\l We criticize each other
+
+\t cven
+\m cven
+\g we(DAT)
+\l We are surprised by something related to each other
+
+\t gvaocebs                         
+\m gv-a-oc-eb-s                         
+\g O2(PL)-PRE-RAD.VOWEL-surprise-PRES-S3    (=he/she/it/*they.surprise(s).us)
+\l He/she/it/ surprises
+
+\t gvaoceben                        
+\m gv-a-oc-eb-en                        
+\g O2(PL)-PRE-RAD.VOWEL-surprise-PRES-S3    (=*he/*she/*it/they.surprise(s).us)
+\l *He/*she/*it surprises
+
+\t  cven    ertmanets      vaocebt
+\m  cven    ertmanet-s      vaocebt
+\g we(NOM) RECIPROCAL-DAT we.surprise.them
+\l We surprise each other
+
+\t neure buruak     ikusi nau      ni
+\m neure buru-a-k     ikusi nau      ni
+\g my.own head-DET-ERG seen me.has.it I
+\l Myself has seen me
+
+\t Orma k'acma sami                 canta  c'aio.
+\m Orma k'acma sami                 canta  c'aio.
+\g two.ERG man.ERG three.ABS suitcase.ABS carried.3s
+\l Two men carried three suitcases.
+
+\t tavisma tavma gaaketebina  .              ninos             es.
+\m tavis-ma tav-ma gaaketebina  .              nino-s             es.
+\g self 's-E R G self-E R G she.made.her.do.it nino-D        AT   this.NOM
+\l (Something in) Ninoi 's personality made heri do this.
+
+\t ertmanet< ert+man+ert
+\m ertmanet-< ert+man+ert-
+\g              one+E R G+one-
+\l each other
+
+\t tavis tavs     uqvars        ivane.
+\m tavis tav-s     uqvars        ivane.
+\g self 's self-DAT he.loves.him Ivane.N O M
+\l Himself loves Ivane.
+
+\t kocnida                [tavisi      tavi]     natias.
+\m kocnida                [tavis-i      tav-i]     natia-s.
+\g then PA RT really     I.thought that I.was.dreaming.about.it how
+\l I came out and got amazed. Natia has turned into two persons. They stood and talked to each other. Finally they also kissed each other.] It was only then when I really thought that I was dreaming how Natia was being kissed by her(own)self.
+
+\t Burtebi        goravs /        *goraven.
+\m Burt-eb-i        gorav-s /        *gorav-en.
+\g ball-pl-NOM      roll-3sg /       roll-3pl
+\l The balls are rolling.
+
+\t Knutebi        *goravs         / goraven.
+\m Knut-eb-i        *gorav-s         / gorav-en.
+\g kitten-pl-NOM roll-3sg /           roll-3pl
+\l The kittens are rolling.
+
+\t Ninon surati da=xaTa
+\m Ninon surati da=xaT-a
+\g Nino-ERG picture-ABS Prev=draw-AORsg
+\l Nino drew a picture
+
+\t Nino surats xaTavs
+\m Nino surats xaT-av-s
+\g Nino-NOM picture-OBJ draw-TM-sg
+\l Nino draws / is drawing a picture
+
+\t  vxaTav
+\m  v-xaT-av
+\g 1NOM-draw-TM
+\l I am drawing
+
+\t  Ninom me da=mxaTa
+\m  Ninom me da=m-xaT-a
+\g Nino-ERG I Prev=1OBJ-draw-AORsg
+\l Nino drew me (my picture)
+
+\t Studenti            midis
+\m Student-i            midi-s
+\g      student-NOM go.PRES.3SG
+\l The student goes.
+
+\t Studenti         cerils        c'ers.
+\m Student-i         ceril-s        c'er-s.
+\g  student-NOM letter-DAT write.PRES.3SG
+\l The student writes the letter.
+
+\t Studenti             mivida
+\m Student-i             mivid-a
+\g      student-NOM go.AOR.3SG
+\l The student went.
+
+\t Studentma cerili                dac'era
+\m Student-ma ceril-i                da-c'er-a
+\g  student-ERG letter-NOM           PREV-write.AOR.3SG
+\l The student wrote the letter.
+
+\t me           tserils       vc'er
+\m me           tseril-s       v-c'er
+\g     I.NOM letter-DAT 1-write-PRES
+\l I am writing the/a letter.
+
+\t me           cignebi          davc'ere
+\m me           cign-eb-i          da-v-c'er-e
+\g     I.ERG book-PL-NOM           PREV-1-write-INDIC.AOR
+\l I wrote the books.
+
+\t egunotan, neure         buruak         kezkatzen nau
+\m egunotan, neure         buru-a-k         kezkatzen nau
+\g day.DET.in my.own head-DET-ERG worry.HAB me.has.it
+\l These days, my(own)self worries me
+
+\t ertmanet
+\m ertmanet-
+\g RECIPROCAL-
+\l each other
+
+\t (cven)      ertmanets           vaocebt
+\m (cven)      ertmanet-s           vaocebt
+\g we.NOM RECIPROCAL-DAT we.surprise.them
+\l We surprise each other
+
+\t ertmanetis           moxerxebuloba gvaocebs
+\m ertmanet-is           moxerxebuloba gvaocebs
+\g RECIPROCAL-GEN smartness.NOM it.surprises.us we.DAT
+\l Each other's smartness surprises us
+
+\t tavis tavs          uqvars            ivane
+\m tavis tav-s          uqvars            ivane
+\g self 's self-DAT he.loves.him John.NOM
+\l Himself loves John
+
+\t bavsvebi         katas     acvaleben
+\m bavsv-eb-i         kata-s     acvaleben
+\g child-PL-NOM cat-DAT they.torment.it
+\l The children torment the cat
+
+\t bavsvebs         uqvart          t.
+\m bavsv-eb-s         uqvart          t.
+\g child-PL-DAT they.love.it/them sweets-NOM
+\l Children love sweets' `*Children's hearts/mouths/stomachs etc. love sweets
+
+\t (mas)     . quili      .
+\m (mas)     . quil-i      .
+\g he.DAT lie-NOM he.hates.it
+\l He hates lies
+
+\t merabi ekimi ár áris
+\m merab-i ekim-i ár áris
+\g Merab-NOM doctor-NOM NEG he.be
+\l Merab is not a doctor.
+
+\t puli ara=mákvs
+\m puli ara=m-ákvs
+\g money NEG=1sg.OBL-have
+\l I don't have any money.
+
+\t puli ára=makvs
+\m puli ára=m-akvs
+\g money NEG=1sg.OBL-have
+\l I don't have any money.
+
+\t Ketinom Ekas         xalits&a acuka.
+\m Ketino-m Eka-s         xalits&a a-cuk-a.
+\g Ketino-ERG Eka-ACC carpet V-present-AOR.3N
+\l Ketino presented Eka with a carpet.
+
+\t Ketino Ekas        xalits&as    scuknis.
+\m Ketino Eka-s        xalits&a-s    s-cukni-s.
+\g Ketino Eka-ACC carpet-ACC 3D-present-PRES.3N
+\l Ketino presents Eka with a carpet.
+
+\t xalits&a ecukeba                   Ekas.
+\m xalits&a e-cuk-eb-a                   Eka-s.
+\g carpet PASS-present-TH-PRES.3N Eka-ACC
+\l The carpet is presented to Eka.
+
+\t Ketinos     Ekatvis xalits&a ucukebia.
+\m Ketino-s     Eka-tvis xalits&a u-cuk-eb-i-a.
+\g Ketino-ACC Eka-for carpet V-present-TH-EVID-3N
+\l As one says, Ketino presented Eka with a carpet.
+
+\t mzia ucmends                das        pexsacmlebs.
+\m mzia u-cmend-s                da-s        pexsacml-eb-s.
+\g Mzia APPL-clean-PRES.3N sister-ACC shoe-PL-ACC
+\l Mzia cleans her sister the shoes.
+
+\t Mama acers                     misamarts     konverts.
+\m Mama a-cer-s                     misamart-s     konvert-s.
+\g father   APPL-write-PRES.3N address.ACC         envelope-ACC
+\l Father writes an address on the envelope.
+
+\t debs            pexsacmeli      ecmindebat.
+\m deb-s            pexsacmel-i      e-cmind-eb-a-t.
+\g sister.PL-ACC shoe-NOM            APPL.PASS-clean-TH-PRES.3N-PL
+\l The shoe is cleaned for the sisters.
+
+\t das         pexsacmlebi ecmindeba.
+\m da-s         pexsacml-eb-i e-cmind-eb-a.
+\g sister-ACC shoe-PL-NOM APPL.PASS-clean-TH-PRES.3N
+\l The shoes are cleaned for the sister.
+
+\t konvertebs        misamarti      ecerebat.
+\m konvert-eb-s        misamart-i      e-cer-eb-a-t.
+\g envelope-PL-ACC address-NOM APPL.PASS-write-TH-PRES.3N-PL
+\l The address is written on the envelopes.
+
+\t konverts        misamartebi      ecereba.
+\m konvert-s        misamart-eb-i      e-cer-eb-a.
+\g envelope-ACC address-PL-NOM APPL.PASS-write-TH-PRES.3N
+\l The addresses are written on the envelope.
+
+\t Nino        Gias surateba      acvenebs.
+\m Nino        Gia-s surateb-a      acveneb-s.
+\g Nino-Nom Gia-Dat pictures-Dat show-INFL
+\l Nino is showing pictures to Gia.
+
+\t Ninom gias       suratebi      acvena.
+\m Nino-m gia-s       surateb-i      acven-a.
+\g Nino-Erg Gia-Dat pictures-Nom show-INFL
+\l Nino showed the pictures to Gia.
+
+\t Es saxli          Ivanes a=usendeba.
+\m Es saxl-i          Ivane-s a=usendeb-a.
+\g this house-Nom     Ivan-Dat PreV=built-INFL
+\l This house will   be built for Ivan.
+
+\t Es saxli          Ivanes a=usenda.
+\m Es saxl-i          Ivane-s a=usend-a.
+\g this house-Nom     Ivan-Dat PreV=built-INFL
+\l This house was    built for Ivan.
+
+\t Sen      pelamusi             giqvars.
+\m Sen      pelamus-i             g-iqvar-s.
+\g you-Dat pelamusi-Nom           AGR-like-INFL
+\l You like pelamusi.
+
+\t Sen       pelamusi            geqvare.
+\m Sen       pelamus-i            g-eqvar-e.
+\g you-Dat pelamusi-Nom           AGR-like-INFL
+\l You liked pelamusi.
+
+\t kaci     akebs          tavis tavs
+\m kac-i     akebs          tavis tav-s
+\g man-N O M he.praises.him self 's self-D           AT
+\l The man praises himself 
+
+\t seni            tavis   msgavsi xalxistvis
+\m sen-i            tav-is   msgavs-i xalx-is-tvis
+\g  dictator-DAT always it.can.be.searched.by.him/her
+\l For people like yourself the dictator always has a prison cell
+
+\t giorgimi [tavis tavs]i /j bakarij
+\m giorgi-mi [tavis tav-s]i /j bakar-ij
+\g he.described.him.to.him
+\l Giorgi described Bakar to himself 
+
+\t tavis tavs      uqvars       ivane
+\m tavis tav-s      uqvars       ivane
+\g  self 's self-DAT he.loves.him Ivane.NOM
+\l Himself loves Ivane
+
+\t giorgim ako                tavisi                   tavi
+\m giorgi-m ako                tavis-i                   tav-i
+\g Giorgi-E R G he.praised.him self 's-NOM      self-N    OM
+\l Giorgi praised himself 
+
+\t sardalma   jarisk'acebs ubrjana         uk'an daixietol
+\m sardal-ma   jarisk'ac-eb-s u-brjan-a         uk'an da-ixietol
+\g general-erg soldier-pl-dat ov-command-he.aor back prev-sv.retreat.aor.ind.2p
+\l The general ordered the soldiers to retreat
+
+\t Ma1ma jian1jue2 yao1qiu2 wo3 bie2 kai1 men2
+\m Ma1ma jian1jue2 yao1qiu2 wo3 bie2 kai1 men2
+\g Mom resolute request me bie open door
+\l Mom insists that I not open the door
+
+\t Po2po2 quan4 mei4mei bie2 shui4 zai4 kong1tiao2            pang2bian1
+\m Po2po2 quan4 mei4mei bie2 shui4 zai4 kong1tiao2            pang2bian1
+\g Granny urge little.sister bie sleep at air.conditioner side
+\l Granny urged little sister not to sleep beside the air conditioner
+
+\t Po2po2 quan4 mei4mei shui4 zai4 chuang2shang4 ba
+\m Po2po2 quan4 mei4mei shui4 zai4 chuang2shang4 ba
+\g Granny urge little.sister sleep at bed.top             ba
+\l Granny urged little sister to sleep on the bed
+
+\t magram daxedet
+\m magram da-xed-et
+\g but      preverb-look.at-2p.aor
+\l But look!
+
+\t tavisma tavma gaaketebina  .              ninos             es.
+\m tavis-ma tav-ma gaaketebina  .              nino-s             es.
+\g self 's-E R G self-E R G she.made.her.do.it nino-D        AT   this.NOM
+\l (Something in) Ninoi 's personality made heri do this.
+
+\t seizleba       daapikros.
+\m seizleba       daapikros.
+\g it.is.possible (s)he/it.makes.S U B J.him/her.start.think
+\l In a decisive moment a property/aspect of one's own can make everybody start thinking.
+
+\t tavis tavs     uqvars        ivane.
+\m tavis tav-s     uqvars        ivane.
+\g self 's self-DAT he.loves.him Ivane.N O M
+\l Himself loves Ivane.
+
+\t ivanes      uqvars       tavisi     tavi.
+\m ivane-s      uqvars       tavis-i     tav-i.
+\g Ivane-DAT he.loves.him self 's-N O M self-N      OM
+\l Ivane loves himself.
+
+\t tavisma tavma ixsna                        prezidenti.
+\m tavis-ma tav-ma ixsna                        prezident-i.
+\g ..
+\l It was his/her own positive personal properties, and/or his/her achieve- ments, etc., that saved the president.
+
+\t burtis dagoreba bavs&    vis mier
+\m burt-is da-gor-eb-a bavs&    v-is mier
+\g  ball-GEN roll.NML child-GEN by
+\l the rolling of the ball by the child
+
+\t Mt5           vdes
+\m Mt5           vdes
+\g  enemy-ABS die.OPT.3s
+\l May the enemy die!
+
+\t c5           qesi              mosak5 lavad.
+\m c5           qe-si              mosak5 lav-ad.
+\g  go.AOR.1s forest-to bear-GEN kill.PART.FUT-ADV
+\l I went into the woods to kill a bear.
+
+\t Burtebi        goravs /        *goraven.
+\m Burt-eb-i        gorav-s /        *gorav-en.
+\g ball-pl-NOM      roll-3sg /       roll-3pl
+\l The balls are rolling.
+
+\t Knutebi        *goravs         / goraven.
+\m Knut-eb-i        *gorav-s         / gorav-en.
+\g kitten-pl-NOM roll-3sg /          roll-3pl
+\l The kittens are rolling.
+
+\t kalis(a)tvis
+\m kal-is(a)-tvis
+\g woman-GEN-FOR
+\l for the woman
+
+\t kart+ul(ena)ze gada+targmn+ilia
+\m kart+ul(ena)-ze gada+targmn+il-i-a
+\g         (language)-on translated-NOM-is
+\l It is translated into Georgian.
+
+\t a. merabi ekimi ár áris
+\m a. merab-i ekim-i ár áris
+\g Merab-NOM doctor-NOM NEG he.be
+\l Merab is not a doctor.
+
+\t b. puli ara=mákvs
+\m b. puli ara=m-ákvs
+\g money NEG=1sg.OBL-have
+\l I don't have any money.
+
+\t c. puli ára=makvs
+\m c. puli ára=m-akvs
+\g money NEG=1sg.OBL-have
+\l I don't have any money.
+
+\t a. k'art'opils prckvniis?
+\m a. k'art'opils prckvniis?
+\g potato he.peel
+\l Is he peeling the potatoes?
+
+\t b. ak=ac? / *ak=aac?
+\m b. ak=ac? / *ak=aac?
+\g here=too
+\l Here too?
+
+\t veubnebI
+\m v-e-ubn-eb-I
+\g                     1.SG-VV-tell.IPFV-TS-IND
+\l say, tell
+
+\t tkven     daØekit
+\m tkven     da-Ø-ek-i-t
+\g you.PL down-2.SG-sit.SG-AOR-PL
+\l You [one person; plural of politeness] sat down
+
+\t sami      megobarØi              dasxda
+\m sami      megobar-Ø-i              da-sxd-a
+\g three     friend-SG-NOM            down-sit.PL-AOR.3.SG
+\l Three friends sat down
+
+\t prezidentmai      Øixsna       [tavisi         tavi]i
+\m prezidentmai      Ø-i-xsn-a       [tavisi         tavi]i
+\g president:ERG him-i-saved-he head's:NOM head:NOM
+\l The president saved himself
+
+\t shen     ixseni        sheni             tavi
+\m shen     ixseni        shen-i             tav-i
+\g you:ERG you-saved-him your:NOM            head:NOM
+\l You saved yourself
+
+\t Kalisvili cqals       aduebs
+\m Kalisvil-i cqal-s       a-du-eb-s
+\g girl-SUBJ water-DO CS-boil-CS-PRES
+\l The girl brings the water to the boil.
+
+\t Cven     uk've did(eb)i   vart.
+\m Cven     uk've did-(eb)-i   vart.
+\g We-nom already big-(PL)-nom be
+\l We are already big.
+
+\t Me, sesinebulma, mov0k'ali
+\m Me, se-sin-eb-ul-ma, mo-v-0-k'al-i
+\g I-ERG alarmed-ERG PREV-1sS-3sO-kill-AOR
+\l It was I, alarmed, who killed it.
+
+\t vmgerivar.
+\m v-mger-i-v-ar.
+\g 1sS-sing-Ptcpl-1sS-be
+\l I am singing
+
+\t cavsulvar
+\m ca-v-sul-v-ar
+\g PREV-1sS-go-1sS-be
+\l I have gone.
+
+\t is          seirnobs
+\m is          seirn-ob-s
+\g 3SG.NOM     walk.PRS-TS-3SG
+\l (S)he is walking.
+
+\t is           mbans                me
+\m is           m-ban-s                me
+\g 3SG.NOM      1SG-wash.PRS-3SG       1SG
+\l (S)he is washing me.
+
+\t is  seirnobs
+\m is  seirn-ob-s
+\g 3SG walk.PRS-TS-3SG.S
+\l S/he is going.
+
+\t isbans                         mas
+\m is-ban-s                         mas
+\g 3SG 3O-wash.PRS-3SG.A              3SG.ACC
+\l S/he is washing him/her/it.
+
+\t is  iseirna
+\m is  i-seirn-a
+\g 3SG AOR-walk-AOR.3SG.S
+\l S/he was going.
+
+\t man     dabana                            is
+\m man     da--ban-a                            is
+\g 3SG.ERG PREV-3O-wash-AOR.3SG.A               3SG
+\l S/he was washing him/her/it.
+
+\t is          seirnobs
+\m is          seirn-ob-s
+\g 3SG.NOM     walk.PRS-TS-3SG
+\l (S)he is walking.
+
+\t is           mbans                me
+\m is           m-ban-s                me
+\g 3SG.NOM      1SG-wash.PRS-3SG       1SG
+\l (S)he is washing me.
+
+\t Bavs&vs        Cigni                akvs
+\m Bavs&vs        Cigni                a-kv-s
+\g Child-D        book-N               Appl-COP-3sg
+\l The child has a book.
+
+\t Rezo           samajurs       ac&ukebs                         dedas
+\m Rezo           samajurs       ac&ukebs                         dedas
+\g Rezo-N         bracelet-D     give-3S.3O.3IO                   mother-D
+\l Rezo is giving Mother a bracelet.
+
+\t Turme         Rezos samajuri          uc&ukebia dedistvis
+\m Turme         Rezos samajuri          uc&ukebia dedis-tvis
+\g Apparently    Rezo-D          bracelet-N   give-3S.3IO mother-to
+\l Rezo gave a bracelet to his mother.
+
+\t Vanom          darek §a                      dedastan
+\m Vanom          darek §a                      dedastan
+\g Vano-ERG       rang-3S-3O-II-I               mother-at
+\l Vano rang (it) at his mother's
+
+\t Vanom         daurek§a            dedas
+\m Vanom         daurek§a            dedas
+\g Vano-ERG      rang-3S-3O-3IO-II-I mother-D
+\l Vano rang his mother (it
+
+\t burtebi                  goravs
+\m burtebi                  goravs
+\g balls:PL:   NOM           roll:3     SG
+\l Balls/The balls are rolling.
+
+\t vxedav
+\m v-xedav
+\g   1SG-see
+\l I see (him/her/it).
+
+\t mxedav
+\m m-xedav
+\g   1SG.P-see
+\l You see me.
+
+\t (mei )     [cemsi          tavsj ]j vakeb.
+\m (mei )     [cem-si          tav-sj ]j v-a-k-eb.
+\g 1S G.N O M 1P O S S.S G-DAT self-DAT 1ANOM.S G-P RV-praise-   TS
+\l I praise myself.
+
+\t (sen)      sens            tavsakeb.
+\m (sen)      sen-s            tav-s-a-k-eb.
+\g 2S G.N O M 2P O S S.S G-DAT self-DAT 2ANOM.S G-P RV-praise-   TS
+\l You praise yourself.
+
+\t (is)       tavis               tavsakebs.
+\m (is)       tavis               tav-s-a-k-eb-s.
+\g 3S G.N O M 3R E FL.P O S S.S G self-DAT 3BDAT.S G-P                   RV-praise-   TS-3   A N OM.S G
+\l (S)he praises himself/herself.
+
+\t isi       [tavisi ]akebs.
+\m isi       [tavisi ]-a-k-eb-s.
+\g 1S G.N O M 1P O S S.S G 3BDAT.S G-P RV-praise-   TS-3   A N OM.S G
+\l (S)he praises himself/herself.
+
+\t            seni              taviacame.
+\m            sen-i              tav-i-a-cam-e.
+\g 2S G.E R G 2P O S S.S G-N O M self-N   OM   2AERG.S G-P RV-torment-   AO R.I N D I C
+\l You tormented yourself.
+
+\t tavisma                    tavma
+\m tavis-ma                    tav-ma
+\g P V-3 B NOM.S G-P RV-surprise-3   A ERG.S G.AO R.I N D I C   man-N    OM
+\l The man got surprised because of something related to himself.
+
+\t tavisma           tavma daxata  .                                                             kaci.
+\m tavis-ma           tav-ma da--xat-a  .                                                             kac-i.
+\g 3R E FL.P O S S-erg self-E R G P V-3BNOM.SG-draw-3   A ERG.S G.AO R.I N D I C   man-N      OM
+\l Himself drew the man.
+
+\t uqvars                                     giorgi.5
+\m -u-qvar-s                                     giorgi-.5
+\g 3R E FL.P O S S.S G   self-D   AT   3BDAT.S G-P RV-love-3   A N OM.S G   Giorgi-N O      M
+\l Himself loves Giorgi.
+
+\t giorgisuqvars                                          tavisi                        tavi.
+\m giorgi-s-u-qvar-s                                          tavis-i                        tav-i.
+\g Giorgi-D    AT 3 B DAT.S G-P RV-love-3   A N OM.S G   3R E FL.P O S S.S G-N O M   self-N    OM
+\l Giorgi loves himself.
+
+\t amxanagebsaxarebt                                         ertmaneti.
+\m amxanag-eb-s-a-xar-eb-t                                         ertmanet-i.
+\g friend-P L-DAT 3BDAT.S G-P       RV-happy-   T S-P L DAT   R E C-N O M
+\l Something related to each other makes the friends happy.
+
+\t amxanagebiaxareben                                           ertmanets.
+\m amxanag-eb-i-a-xar-eb-en                                           ertmanet-s.
+\g friend-P L-N O M 3BDAT.S G-P RV-happy-TS-3   A NOM.P L R E C-DAT
+\l The friends make each other happy.
+
+\t ( 3 0 ) a. r ezo      samajurs    ackebs             dedas.
+\m ( 3 0 ) a. r ezo      samajurs    ackebs             dedas.
+\g            Rezo.Nom bracelet.Dat he-gives-her-it-Ind mother.Dat
+\l Rezo is giving Mother a bracelet.
+
+\t turne      r ezo s  samajuri       ucukebia    dedastvis.
+\m turne      r ezo s  samajuri       ucukebia    dedastvis.
+\g apparently Rezo.Dat bracelet.Nom he-gave-it-Ev mother-for
+\l Apparently Rezo gave a bracelet to Mother.
+
+\t gelas    uqvars           nino.
+\m gelas    uqvars           nino.
+\g Gela.Dat he-loves-her-Ind Nino.Nom
+\l Gela loves Nino.
+
+\t kacebiklaven                                     datvs/ datvebs.
+\m kac-eb-i-kl-av-en                                     datv-s/ datv-eb-s.
+\g man-P L-N O M 3BDAT.S G-kill-TS-3   A NOM.P L   bear-DAT bear-P L-D   AT
+\l The men kill a bear/bears.
+
+\t ugzavnida.
+\m -u-gzavn-i-d-a.
+\g woman-N O M child-DAT1   16 letter-DAT         2
+\l The woman was sending a letter to the child.
+
+\t                            cerilsugzavnis.
+\m                            ceril-s-u-gzavn-i-s.
+\g woman-NOM    child-DAT1 letter-D      AT 2   3BDAT1.S G-P RV-send-TS-3   A N OM.S G
+\l The woman sends a letter to the child.
+
+\t kali           bavsvs    cerils              gaugzavnis.
+\m kal-i           bavsv-s    ceril-s              ga--u-gzavn-i-s.
+\g woman-NOM    child-DAT1 letter-D      AT 2 P V-3BDAT1.S G-P RV-send-TS-3   A N OM.S G
+\l The woman will send a letter to the child.
+
+\t kals           bavsvistvis cerili               gaugzavnia.
+\m kal-s           bavsv-is-tvis ceril-i               ga--u-gzavn-i-a.
+\g woman-DAT    child-G E N-for letter-NOM       P V-3 B DAT.S G-P RV-send-   PERF-3   A N OM.S G
+\l The woman has sent a letter to the child.
+
+\t kaciasenebs                                               saxls.
+\m kac-i-a-sen-eb-s                                               saxl-s.
+\g man-N O M 3 B DAT.S G-P RV-build-   TS-3   A N OM.S G   house-DAT
+\l The man builds (/is building) a house.
+
+\t aasenebs                                        saxls.
+\m a--a-sen-eb-s                                        saxl-s.
+\g P V-3 B DAT.S G-P RV-build- T S-3 A NOM.S G house-DAT
+\l The man will build a house in five months / during five months.
+
+\t kaci         daelaparaka                                                           mezobels.
+\m kac-i         da--e-laparak-a                                                           mezobel-s.
+\g man-NOM PV-3BDAT.S G-P RV-talk-3             A N OM.S G.A O R.I N D I C   neighbor-D   AT
+\l The man talked to the neighbor.
+
+\t kacielaparakeboda                                                  mezobels.
+\m kac-i-e-laparak-eb-od-a                                                  mezobel-s.
+\g man-NOM   3BDAT.S G-P RV-talk-T S-I M P E R F-3   A N OM.S G   neighbor-D    AT
+\l The man was talking to the neighbor.
+
+\t kacielaparakeba                                       mezobels.
+\m kac-i-e-laparak-eb-a                                       mezobel-s.
+\g man-N O M 3 B DAT.S G-P RV        TS                        neighbor-D
+\l The man talks (/is talking) to the neighbor.
+
+\t kaci         daelaparakeba                                           mezobels.
+\m kac-i         da--e-laparak-eb-a                                           mezobel-s.
+\g man-NOM   P V-3 B DAT.S G-P RV-talk--3   A N OM.S G    neighbor-D      AT
+\l The man will talk to the neighbor.
+
+\t kaci         dalaparakebia17                                                        mezobels.
+\m kac-i         da--laparak-eb-i-a17                                                        mezobel-s.
+\g man-NOM   P V-3 B DAT.S G-talk- T S-P E R F-C O P3     (=3   A N OM.S G   ) neighbor-D   AT
+\l The man has talked to the neighbor.
+
+\t sen        dalaparakebixar                                             mezobels.
+\m sen        da--laparak-eb-i-xar                                             mezobel-s.
+\g 2S G.N O M P V-2ANOM.S G-talk-T S-P     E R F-C O P2   (=C L NOM.SG   ) neighbor-D   AT
+\l You have talked to the neighbor.
+
+\t kali                 pilmis ganmavlobasitiroda.
+\m kal-i                 pilm-is ganmavlobasi-tir-od-a.
+\g woman-NOM     film-G E N during    3BDAT.S G-cry-IMPERF-3    A N OM.S G
+\l The woman cried during the film.
+
+\t baqaqma bevriiqiqina.
+\m baqaq-ma bevr-i-i-qiqin-a.
+\g frog-E R G much-N O M 3BNOM.S G-P RV-croak-3      A ERG.S G.AO R.I N D I C
+\l The frog croaked a lot.
+
+\t baqaqi bevrsqiqinebs.
+\m baqaq-i bevr-s-qiqin-eb-s.
+\g frog-N O M much-DAT 3BDAT.S G-croak-TS-3   A NOM.S G
+\l The frog croaks.
+
+\t baqaqs bevriuqiqinia.
+\m baqaq-s bevr-i-u-qiqin-i-a.
+\g frog-DAT much-N O M 3BDAT.S G-P RV-croak-PERF-3   A NOM.S G
+\l The frog has (apparently) croaked a lot.
+
+\t kvada+gor+eb+ula19                                                 kldidan.      
+\m kva-da+gor+eb+ul-a19                                                 kld-i-dan.      
+\g stone-NOM   P V +roll+ T S + P PA RT-C O P3   (=3    A N OM.S G   ) rock-I N S T-from rolled-is
+\l The stone has rolled down the rock.
+
+\t me            uceb sevizule                                                   papa.
+\m me            uceb se-v-i-zul-e                                                   papa-.
+\g 1S G.ERG   at.once P V-1AERG.S G-P RV-hate-   AO R.I N D I C   porridge-NOM
+\l I (volitionally) hated the porridge at once.
+
+\t me         xuti      tvis                     ganmavlobasi
+\m me         xut-i      tv-is                     ganmavlobasi
+\g 1ANOM.S G-P RV-hate-T S-I M P           ER    F-I N D I C porridge-DAT
+\l I have been (volitionally) hating the porridge during five months.
+
+\t me            semizulebia                                                    papa.
+\m me            se-m-i-zul-eb-i-a                                                    papa-.
+\g 1S G.DAT P V-1BDAT.S G-P RV-hate-T S-P E R F-3   A N OM.S G   porridge-NOM
+\l I have (volitionally) hated the porridge.
+
+\t me            uceb semzulda                                                                        papa.
+\m me            uceb se-m-zul-d-a                                                                        papa-.
+\g 1S G.DAT   at.once P V-1BDAT.S G-hate-INTR-3   A N OM.S G.A O R.I N D I C   porridge-NOM
+\l I (non-volitionally) hated the porridge at once.
+
+\t me       xuti             tvis             ganmavlobasi mzuldeboda                                                       papa.
+\m me       xut-i             tv-is             ganmavlobasi m-zul-d-eb-od-a                                                       papa-.
+\g 1S G.DAT five-N O      M   month-GEN      during          1BDAT.S G-hate-I      N T R-T S-I M P E R F-3   A N OM.S G      porridge-NOM
+\l I have been (non-volitionally) hating the porridge during five months.
+
+\t me            mzuls                                 papa.
+\m me            m-zul-s                                 papa-.
+\g 1S G.DAT   1BDAT.S G-hate-3     A N OM.S G      porridge-NOM
+\l I (non-volitionally) hate the porridge.
+
+\t me            semzuldeba                                                papa.
+\m me            se-m-zul-d-eb-a                                                papa-.
+\g 1S G.DAT   P V-1 B DAT.S G-hate-   I N T R-T S-3   A N OM.S G    porridge-NOM
+\l I will (non-volitionally) hate the porridge.
+
+\t               semzulebia                                                papa.
+\m               se-m-zul-eb-i-a                                                papa-.
+\g 1S G.DAT   P V-1 B DAT.S G-hate-   T S-P E R F-3   A N OM.S G    porridge-NOM
+\l I have (non-volitionally) hated the porridge.
+
+\t kacma dacexa                                                            sesa.
+\m kac-ma da--cex-a                                                            sesa-.
+\g man-E R G P V-3BNOM.SG-chop-3   A ERG.S G.AO R.I N D I C   firewood-NOM
+\l The man chopped firewood.
+
+\t kaciklavs                                          datvs.
+\m kac-i-kl-av-s                                          datv-s.
+\g man-N O M 3 B DAT.S G-kill-   TS-3   A N OM.S G   bear-DAT
+\l The man kills/is killing a bear.
+
+\t kaci         28qviris.
+\m kac-i         28-qvir-i-s.
+\g man-NOM   3BDAT.S G-shout-TS-3    A N OM.S G
+\l The man shouts/is shouting.
+
+\t kaci         moklavs                                      datvs.
+\m kac-i         mo--kl-av-s                                      datv-s.
+\g man-NOM PV-3BDAT.S G-kill-TS-3   A N OM.S G   bear-DAT
+\l The man will kill/be killing a bear.
+
+\t kaci         29iqvirebs.
+\m kac-i         29-i-qvir-eb-s.
+\g man-NOM   3BDAT.S G-P RV-shout-TS-3   A N OM.S G
+\l The man will shout / will be shouting.
+
+\t kacs        mouklavs                                                   datvi.
+\m kac-s        mo--u-kl-av-s                                                   datv-i.
+\g man-D   AT   P V-3 B DAT.S G-P   RV-kill-   TS-3   A N OM.S G   bear-N    OM
+\l The man has (apparently) killed a bear.
+
+\t kacsuqviria.
+\m kac-s-u-qvir-i-a.
+\g man-D   AT   3BDAT.S G-P     RV-shout-     PERF-3   A N OM.S G
+\l The man has (apparently) shouted.
+
+\t kaci         mo+mkvdara.30
+\m kac-i         mo+mkvdar-a.30
+\g man-NOM   P V +dead-C O P 3
+\l The man has (apparently) died.
+
+\t giorgis    levani     arucemia.
+\m giorgi-s    levan-i     ar-u-cem-i-a.
+\g Giorgi-DAT Levan-N O M N E G 3BDAT.S G-P       RV-beat-   PERF-3   A N OM.S G
+\l Giorgi has not beaten Levan.
+
+\t giorgis    ar gaucinia.33
+\m giorgi-s    ar ga--u-cin-i-a.33
+\g Giorgi-DAT N E G P V-3BDAT.S G-P RV-laugh-PERF-3   A N OM.S G
+\l Giorgi has not laughed.
+
+\t (is)       (mas)     gaasrobs.
+\m (is)       (mas)     ga--a-sr-ob-s.
+\g 3S G.N O M 3S G.DAT P V-3BDAT.S G-P RV-dry-   TS-3   A N OM.S G
+\l (S)he will dry it (off/out).
+
+\t (is)       (mas)      caakrobs.
+\m (is)       (mas)      ca--a-kr-ob-s.
+\g 3S G.N O M 3S G.DAT P V-3BDAT.S G-P RV-put.light.out-        TS-3   A N OM.S G
+\l (S)he will put it (light) out.
+
+\t (is)       da35amtknarebs.
+\m (is)       da-35-a-mtknar-eb-s.
+\g 3S G.N O M P V-3BDAT.S G-P RV-yawn-TS-3   A N OM.S G
+\l (S)he will yawn.
+
+\t (is)       amoaxvelebs
+\m (is)       amo--a-xvel-eb-s
+\g 3S G.N O M P V-3BDAT.S G-P RV-cough-TS-3   A N OM.S G
+\l (S)he will cough.
+
+\t                       z apars       mouqveba.
+\m                       z apar-s       mo--u-qv-eb-a.
+\g 3S G.N O M 3S G.DAT fairy.tale-DAT P V-3BDAT.S G-P RV-tell-TS-3   A N OM.S G
+\l (S)he will tell him/her a fairy tale.
+
+\t           .          budes miagno.
+\m           .          bude-s mi--a-gn-o.
+\g fox-E R G bird-G E N nest-DAT P V-3BDAT.S G-P RV-locate-3      A ERG.S G.AO R.I N D I C
+\l The fox located the bird's nest.
+
+\t sen       mogisardavs.
+\m sen       mo-g-i-sard-av-s.
+\g 2S G.DAT P V-2BDAT.S G-P RV-urinate-TS-3   A NOM.S G
+\l You have urinated.
+
+\t bavsvi     41tamasobs.
+\m bavsv-i     41-tamas-ob-s.
+\g child-N O M 3BDAT.S G-play-TS-3   A N OM.S G
+\l The child is playing.
+
+\t bavsvitamasobs                                       damalobanas.
+\m bavsv-i-tamas-ob-s                                       damalobana-s.
+\g child-N O M 3BDAT.S G-play-T S-3ANOM.SG   hide.and.seek-D   AT
+\l The child is playing hide-and-seek.
+
+\t (*is)      tovda.
+\m (*is)      tov-d-a.
+\g 3S G.N O M snow-I M P E R F-3ANOM.S G
+\l It snowed.
+
+\t saxlsi.
+\m saxl-si.
+\g house-in
+\l I have a four-month old puppy at home.
+
+\t damala.
+\m da--mal-a.
+\g Elene-E R G Ana-G E N doll-N O M pillow-G               EN   underneath
+\l Elene hid Ana's doll under the pillow.
+
+\t eleneanas     tojinas balisis     kves             malavs.                     
+\m elene-ana-s     tojina-s balis-is     kves             -mal-av-s.                     
+\g Elene-N O M Ana-G E N doll-DAT pillow-G E N underneath    3BDAT.S G-hide-T S-3ANOM.S G
+\l Elene is hiding Ana's doll under the pillow.
+
+\t namcxvari gamocxva
+\m namcxvari gamocxva
+\g Pastry-Nom baked-2-Aor
+\l The pastry baked
+
+\t rezo samajurs acukebs dedas
+\m rezo samajurs acukebs dedas
+\g Rezo-Nom braclelet-Dat he-gives-her-ir-I-1 mother-Dat
+\l Rezo is giving mother a bracelet
+
+\t Vanos uqvars      tavisi tavi
+\m Vanos uqvars      tavisi tavi
+\g Vano-Dat he-loves-him-I-4 self's self-Nom
+\l Vano loves himself
+
+\t  rezos samajuri ucukebia dedistvis
+\m  rezos samajuri ucukebia dedistvis
+\g Rezo-Dat braclete-Nom he gave-it-III-1 mother-for
+\l (Apparently) Rezo gave a bracelet to his mother
+
+\t  daglodebivar         (me) (sen)
+\m  daglodebivar         (me) (sen)
+\g I awaited-you-III-2 I-Nom you-Dat
+\l (Apparently) I awaited for you
+
+\t  deidas umyeria
+\m  deidas umyeria
+\g aunt-Dat she sang-it-III-3
+\l (Apparently) the aunt sang it
+
+\t merim   damixat'a        (me) surati
+\m meri-m   da-m-i-xat'a        (me) surat-i
+\g Mary-nar pv-1sgObj-prv-paint (1sg) picture-nom
+\l Mary painted a picture for me.
+
+\t (me) saxls   visheneb         *mas
+\m (me) saxl-s   v-i-shen-eb         *mas
+\g (I) house.dat 1Sub j-ver-build-ts *he.dat
+\l I build a house for myself.
+
+\t meri     saxls    ishenebs          *mas
+\m meri     saxl-s    i-shen-eb-s          *mas
+\g Mary.nom house.dat ver-build-ts-3sgSubj *he.dat
+\l Mary builds a house for herself.
+
+\t me vat'exav        j'oxs    (mis)     tavs
+\m me v-a-t'ex-av        j'ox-s    (mis)     tav-s
+\g I 1Sub j-ver-break-ts stick-dat (3sg.gen) head-dat
+\l I break a stick over (his) head.
+
+\t mas     (turme)      saxli    aushenebia.
+\m mas     (turme)      saxl-i    a-u-sheneb-ia.
+\g 3sg.dat (apparently) house.nom pv-ver-build-perf
+\l (S)he has (apparently) built a house.
+
+\t mas     saxli    unda aeshenebi(n)a.
+\m mas     saxl-i    unda a-e-sheneb-i(n)a.
+\g 3sg.dat house.nom must pv-ver-build-pluperf
+\l (S)he was supp osed to have built a house.
+
+\t saxls    asheneb
+\m saxl-s    a-shen-eb
+\g house-dat ver-build-ts
+\l You build a house (b eneficiary not sp ecified).
+
+\t saxls    asheneb    mistvis   / *mas
+\m saxl-s    a-shen-eb    mis-tvis   / *mas
+\g house-dat ver-build-ts he.gen-for / *he.dat
+\l You build a house for him.
+
+\t saxls    usheneb    *mistvis   / mas
+\m saxl-s    u-shen-eb    *mis-tvis   / mas
+\g house-dat ver-build-ts *he.gen-for / he.dat
+\l You build a house for him.
+
+\t saxls    misheneb          *chemtvis / me
+\m saxl-s    m-i-shen-eb          *chem-tvis / me
+\g house-dat 1SgOb j-ver-build-ts *1sg.gen-for / 1sg
+\l You build a house for me.
+
+\t surats     xat'av / *axat'av
+\m surat-s     xat'-av / *a-xat'-av
+\g picture-dat draw-ts
+\l You paint a picture.
+
+\t k'aci  dza ls xat'avs
+\m k'ac-i  dza l-s xat'avs
+\g man.nom dog.dat paint.pres.3sgSubj.3Obj
+\l The man paints / is painting the dog.
+
+\t k'acma dza li daxat'a
+\m k'ac-ma dza l-i daxat'a
+\g man.nar dog.nom paint.aor.3sgSubj.3Obj
+\l The man painted the dog.
+
+\t k'acs  dza li turme      dauxat'avs
+\m k'ac-s  dza l-i turme      dauxat'avs
+\g man.dat dog.nom apparently paint..perf.3sgSubj.3Obj
+\l The man has apparently painted the dog.
+
+\t k'aci   c'igns     p'avles chuknis
+\m k'aci   c'igns     p'avles chuknis
+\g man.nom b o ok.dat Paul.dat give.Pres.1SgSubj.3Obj
+\l The man is giving a b o ok toPaul'.
+
+\t k'acs   c'igni     p'avlesatvis uchukebia
+\m k'acs   c'igni     p'avlesa-tvis uchukebia
+\g man.dat b o ok.nom Paul.gen-for give.Perf.1SgSubj.3Obj
+\l The man has given a b o ok toPaul'.
+
+\t me shen gxat'av
+\m me shen g-xat'av
+\g I you 2sg-paint.pres
+\l I am painting you.
+
+\t shen me dagixat'ivar
+\m shen me da-g-i-xat'ivar
+\g you I pv-2sg-paint.perf
+\l You have (apparently) painted me.
+
+\t gela     irc'munebs tavis      tavs.
+\m gela     irc'munebs tavis      tavs.
+\g Gela.nom convince.fut self.gen self.dat
+\l Gela is convincing himself.
+
+\t gelas    turme      daurc'munebia tavisi   tavi.
+\m gelas    turme      daurc'munebia tavisi   tavi.
+\g Gela.dat apparently convince.perf self.gen self.nom
+\l Gela apparently (has) convinced himself.
+
+\t uk'ushemogabruna
+\m uk'u-she-mo-g-a-brun-a
+\g pvI-pvI I-pvI I I-pron1-prv-turn-scr/pron2
+\l (s)he made you turn back here (aorist).
+
+\t momecit
+\m mo-m-e-c-i-t
+\g pvI-pron1-prv-give-scr-pron2
+\l Give it back to me (addressee in the plural. aorist).
+
+\t dagac'erinebdat
+\m da-g-a-c'er-in-eb-d-a-t
+\g pvI I-pron1-prv-write-caus-ts-em-scr-pron2
+\l (s)he would make you(pl) write it (conditional; used in the consequent clause).
+
+\t dauxat'avs
+\m da-u-xat'-av-s
+\g pvI I-prv-draw-ts-pron2
+\l (s)he will draw it for him/her (fut)
+
+\t shen me k'oment'ars migzavni.
+\m shen me k'oment'ar-s m-i-gzavn-i.
+\g 2sg 1sg comment-dat 1SgObj-prv-send-scr.
+\l You send me comments.
+
+\t shen mas     k'oment'ars ugzavni.
+\m shen mas     k'oment'ar-s u-gzavn-i.
+\g 2sg 3sg.dat comment-dat prv-send-scr.
+\l You send him comments.
+
+\t merim   daxat'a     chemtvis surati
+\m meri-m   da-xat'a     chem-tvis surat-i
+\g Mary-nar pv-paint.aor 1sg-for   picture-nom
+\l Mary painted a picture for me.3 
+
+\t merim   damixat'a        (me) surati
+\m meri-m   da-m-i-xat'a        (me) surat-i
+\g Mary-nar pv-1sgObj-prv-paint (1sg) picture-nom
+\l Mary painted a picture for me.
+
+\t merim   dauxat'a   (mas) surati
+\m meri-m   da-u-xat'a   (mas) surat-i
+\g Mary-nar pv-prv-paint (3sg) picture-nom
+\l Mary painted a picture for him/her.
+
+\t vanom    shen dagxat'a
+\m vanom    shen da-g-xat'-a
+\g Vano-nar you pv-2Obj-paint-scr
+\l Vano painted you.
+
+\t vanom    anzori    sheadara     givis
+\m vanom    anzori    she-adar-a     givis
+\g Vano-nar Anzor-nom pv-compare-scr Givi-dat
+\l Vano compared Anzor to Givi.
+
+\t vanom    anzori    shen shegadara
+\m vanom    anzori    shen she-g-adar-a
+\g Vano-nar Anzor-nom you pv-compare-scr
+\l Vano compared Anzor to you.
+
+\t vanom    shen shegadara       givis
+\m vanom    shen she-g-adar-a       givis
+\g   Vano-nar you pv-2Obj-compare-scr Givi-dat
+\l Vano compared you to Givi.
+
+\t vanom    sheni tavi    sheadara     givis
+\m vanom    sheni tavi    she-adar-a     givis
+\g Vano-nar your head-nom pv-compare-scr Givi-dat
+\l Vano compared you to Givi.
+
+\t vanom    chemi tavi     shen shegadara
+\m vanom    chemi tavi     shen she-g-adar-a
+\g Vano-nar my    head-nom you pv-2Obj-compare-scr
+\l Vano compared me to you.
+
+\t man    momip'ara             misgan      vashli
+\m man    mo-m-i-p'ara             mis-gan      vashl-i
+\g he.nar pv-1sgOb j-prv-steal.aor 3sg.gen-from apple-nom
+\l He stole an apple for me from him/her.
+
+\t shen micek'vav       (me)
+\m shen m-i-cek'v-av       (me)
+\g you 1sgObj-prv-dance-ts (1sg)
+\l You dance for me.
+
+\t shen ucek'vav  (mas)
+\m shen u-cek'v-av  (mas)
+\g you prv-dance-ts (3sg.dat)
+\l You dance for him.
+
+\t vm eri
+\m v-m eri
+\g 1Subj-sing
+\l I sing.
+
+\t me migim ereb
+\m me mi-g-i-m er-eb
+\g 1sg pv-2-ver-sing-ts
+\l I will sing along with you.
+
+\t shen me micxovreb
+\m shen me m-i-cxovr-eb
+\g   2sg 1sg 1sgObj-prv-live-ts
+\l You (will) live for me.
+
+\t shemike              me shvili
+\m she-m-i-k-e              me shvili
+\g pv-1sgObj-prv-praise-aor 1sg child.nom
+\l You praised (my) child for me.
+
+\t is kali        gamigizhebs           bavshvebs
+\m is kali        ga-m-i-gizh-eb-s           bavshvebs
+\g this woman.nom pv-1sgObj-prv-crazy-ts-3sg child.pl.dat
+\l This woman will drive (for me) (my) kids crazy.
+
+\t shen mim eri.
+\m shen m-i-m eri.
+\g 2sg 1sg-prv-sing.pres.2sg
+\l You sing for me / to me.
+
+\t shen chemtvis m eri.
+\m shen chem-tvis m eri.
+\g 2sg 1sg-for    sing.pres.2sg
+\l You sing for me / ?to me.
+
+\t is me miq'viris.
+\m is me m-i-q'viris.
+\g 3sg 1sg 1sg-prv-yell.pres.3sg
+\l He yells for me / at me.
+
+\t is chemtvis q'viris.
+\m is chem-tvis q'viris.
+\g 3sg 1sg-for  yell.pres.3sg
+\l He yells for me / *at me.
+
+\t chit'ma damik'ort'na xeli
+\m chit'ma da-m-i-k'ort'na xeli
+\g bird.nar pv-1sg-prv-p eck hand.nom
+\l The bird p ecked me on the hand.
+
+\t chit'ma chemtvis dak'ort'na *xeli / magida.
+\m chit'ma chem-tvis da-k'ort'na *xeli / magida.
+\g bird.nar 1sg-for  pv-p eck    *hand / table
+\l The bird p ecked *[my hand]/table for me.
+
+\t (me) saxls   visheneb
+\m (me) saxl-s   v-i-shen-eb
+\g (I) house.dat 1Subj-prv-build-ts
+\l I build a house for myself.
+
+\t Meri     saxls    ishenebs
+\m Meri     saxl-s    i-shen-eb-s
+\g Mary.nom house.dat prv-build-ts-3sgSubj
+\l Mary builds a house for herself.
+
+\t vamtknareb
+\m v-a-mtknar-eb
+\g 1Subj-prv-yawn-ts
+\l I yawn.
+
+\t vimtknareb
+\m v-i-mtknar-eb
+\g   1Subj-prv-yawn-ts
+\l I yawn for myself.
+
+\t vcek'vav
+\m v-cek'v-av
+\g 1sgSubj-dance-ts
+\l I dance.
+
+\t vicek'vav
+\m v-i-cek'v-av
+\g   1sgSubj-prv-dance-ts
+\l I dance for myself.
+
+\t me lekcia         mistvis     davic'q'e
+\m me lekcia         mis-tvis     da-v-i-c'q'e
+\g 1sg lecture.nom 3sg.gen-for pv-prv-start.aor
+\l I have started the lecture for him.
+
+\t icini
+\m i-cin-i
+\g prv-laugh-ts
+\l You laugh.
+
+\t Meri      saxls     ishenebs
+\m Meri      saxl-s     i-shen-eb-s
+\g Mary.nom house.dat prv-build-ts-3sgSubj
+\l Mary builds a house for herself.
+
+\t Meri     tavistvis saxls  ashenebs
+\m Meri     tavis-tvis saxl-s  a-shen-eb-s
+\g Mary.nom self-for house.dat prv-build-ts-3sgSubj
+\l Mary builds a house *for herself/alone.
+
+\t me      movich'eri         namcxvari.
+\m me      mo-v-i-ch'er-i         namcxvar-i.
+\g 1sg.nar pv-1sgSubj-prv-cut-scr cake-nom
+\l I cut myself [some] cake.
+
+\t mei     vik'rit'ik'eb         tavsi .
+\m mei     v-i-k'rit'ik'-eb         tav-si .
+\g 1sg.nom 1sgSubj-prv-criticize-ts self-dat
+\l I criticize myself.
+
+\t sheni   ik'rit'ik'eb   tavsi .
+\m sheni   i-k'rit'ik'-eb   tav-si .
+\g 2sg.nom prv-criticize-ts self-dat
+\l You criticize yourself.
+
+\t isi     ik'rit'ik'ebs       tavsi .
+\m isi     i-k'rit'ik'-eb-s       tav-si .
+\g 3sg.nom prv-criticize-ts-3Subj self-dat
+\l He criticizes himself.
+
+\t me      chemi tavi    vake.
+\m me      chem-i tav-i    v-a-k-e.
+\g 1sg.nom my-nom self-nom 1sgSubj-prv-praise-ts
+\l I praised myself.
+
+\t shen    sheni   tavi    adzage.
+\m shen    shen-i   tav-i    a-dzag-e.
+\g 2sg.nom your-nom self-nom prv-curse-ts
+\l You cursed yourself.
+
+\t man     tavisi      tavi    gaamasxra.
+\m man     tav-is-i      tav-i    ga-a-masxr-a.
+\g 3sg.nom self-poss-nom self-nom pv-prv-clown-ts
+\l He made fun of himself.
+
+\t me      chemi tavi    vike.
+\m me      chem-i tav-i    v-i-k-e.
+\g 1sg.nom my-nom self-nom 1sgSubj-prv-praise-ts
+\l I praised myself.
+
+\t shen    sheni   tavi    idzage.
+\m shen    shen-i   tav-i    i-dzag-e.
+\g 2sg.nom your-nom self-nom prv-curse-ts
+\l You cursed yourself.
+
+\t man     tavisi      tavi    gaimasxra.
+\m man     tav-is-i      tav-i    ga-i-masxr-a.
+\g 3sg.nom self-poss-nom self-nom pv-prv-clown-ts
+\l He made fun of himself.
+
+\t me vat'exav       joxs     mis tavs
+\m me v-a-t'ex-av       jox-s     mis tav-s
+\g I 1Subj-prv-break-ts stick-dat his head-dat
+\l I break a stick over his head.
+
+\t me vt'exav     joxs     mis tavze
+\m me v-t'ex-av     jox-s     mis tav-ze
+\g I 1Subj-break-ts stick-dat his head-on
+\l I break a stick over his head.
+
+\t ak'eria
+\m a-k'er-ia
+\g ver-stitch-scr
+\l X is stitched onto Y.
+
+\t t'ots     azis
+\m t'ot-s     a-zis
+\g branch-dat prv-sit.pres
+\l He sits on a tree branch.
+
+\t t'otze   zis
+\m t'ot-ze   zis
+\g branch-on sit.pres
+\l He sits on a tree branch.
+
+\t (me) (shen) mogam ere
+\m (me) (shen) mo-g-a-m ere
+\g (1sg) (2sg) pv-2Obj-prv-sing.aor
+\l I sang you off / sang (at you) as you were leaving.
+
+\t (me) (shen) mogaq'vire
+\m (me) (shen) mo-g-a-q'vire
+\g (1sg) (2sg) pv-2Obj-prv-yell.aor
+\l I yelled at you as you were leaving / yelled in your tracks.
+
+\t k'iserze azis
+\m k'iser-ze a-zis
+\g neck-on prv-sit.pres
+\l He sits on (someone's) neck / lives off of someone.
+
+\t ixat'eba
+\m i-xat'eba
+\g prv-draw.intr.pres
+\l It is b eing drawn.
+
+\t exat'eba          (mas)
+\m e-xat'eba          (mas)
+\g prv-draw.intr.pres (he.dat)
+\l It is b eing drawn for / in front of / on him/her.
+
+\t ilandz  eba
+\m i-landz  eba
+\g prv-curse.pass
+\l (S)he is engaged in cursing'(not relevant who (s)he is cursing).
+
+\t shen sheejibrebi
+\m shen she-e-jibr-ebi
+\g 2sg pv-ver-comp ete-scr
+\l You will comp ete with X (initiate the comp etition in which someone else is also involved).
+
+\t is shen gexmareba
+\m is shen g-e-xmar-eba
+\g 3sg 2sg 2Obj-prv-help-scr
+\l He helps you(sg).
+
+\t Nino     Vakhtangs    miendoba
+\m Nino     Vakhtangs    mi-e-nd-oba
+\g Nino.nom Vakhtang.dat pv-ver-trust-scr
+\l Nino will trust Vakhtang.
+
+\t miindobi
+\m mi-i-nd-obi
+\g   pv-ver-trust-scr
+\l trust
+
+\t sheik'vrebi
+\m she-i-k'vreb-i
+\g pv-prv-group-scr
+\l You will group yourself / concentrate.
+
+\t sheek'vrebi
+\m she-e-k'vr-ebi
+\g pv-prv-group-scr
+\l You and I will group / do something"under the table" together.
+
+\t shen p'olit'ik'ur p'art'ias sheek'vrebi
+\m shen p'olit'ik'ur p'art'ia-s she-e-k'vr-ebi
+\g 2sg p olitical party-dat pv-prv-group-scr
+\l You will join / unite with a p olitical party.'together.
+
+\t ixat'eba
+\m i-xat'-eba
+\g prv-draw-scr
+\l It is drawn.
+
+\t exat'eba
+\m e-xat'-eba
+\g prv-draw-scr
+\l It is drawn for him/her.
+
+\t ic'ereba
+\m i-c'er-eba
+\g prv-draw-scr
+\l It is written.
+
+\t vec'erebi
+\m v-e-c'er-ebi
+\g 1Subj-prv-draw-scr
+\l I am registering.
+
+\t amxanags c'erils     sc'ers
+\m amxanag-s c'eril-s     s-c'er-s
+\g friend-dat letter-dat s/h-write-3SgSubj3Obj
+\l He writes a letter to a friend.
+
+\t amxanagistvis c'erils    mas      vac'erineb       mas
+\m amxanag-is-tvis c'eril-s    mas      v-a-c'er-in-eb       mas
+\g friend-gen-for letter-dat 3sg.dat 1Subj-prv-write-caus-ts
+\l I make him write a letter to a friend.
+
+\t amxanagistvis c'erili    mas       davac'erine        mas
+\m amxanag-is-tvis c'eril-i    mas       da-v-a-c'er-in-e        mas
+\g friend-gen-for letter-nom 3sg.dat pv-1Subj-prv-write-caus-scr
+\l I made him write a letter to a friend.
+
+\t michivleb
+\m m-i-chivl-eb
+\g 1sgObj-prv-sue-ts
+\l You will sue me.
+
+\t michkmet'      xelze
+\m m-i-chkmet'      xelze
+\g 1sgObj-prv-pinch hand.on
+\l You will pinch me on the hand.
+
+\t k'acma mona      mepes mohgvara
+\m k'ac-ma mona      mepe-s mo-h-gvar-a
+\g man-nar slave-nom king-dat pv-s/h-bring-scr
+\l A man brought a slave to the king.
+
+\t dedam     c'erili   shvils   mosc'era
+\m deda-m     c'eril-i   shvil-s   mo-s-c'er-a
+\g mother-nar letter-nom child-dat pv-s/h-write-scr
+\l The mother wrote a letter to the child.
+
+\t kurdma shvili     mamas     most'aca
+\m kurd-ma shvil-i     mama-s     mo-s-t'ac-a
+\g thief-nar child-nom father-dat pv-s/h-kidnap-scr
+\l The thief stole a child from her father.
+
+\t cek'vav
+\m cek'v-av
+\g dance-ts
+\l You dance
+
+\t icek'veb
+\m i-cek'v-eb
+\g prv-dance-ts
+\l You will dance
+
+\t sc'avlob
+\m sc'avl-ob
+\g learn-ts
+\l You are learning
+
+\t isc'avli
+\m i-sc'avl-i
+\g prv-learn-ts
+\l You will b e learning
+
+\t (turme)      saxli    amishenebia.
+\m (turme)      saxl-i    a-m-i-sheneb-ia.
+\g (apparently) house.nom pv-1sgObj-prv-build-perf
+\l I have (apparently) built a house.
+
+\t mas     saxli    aushenebia.
+\m mas     saxl-i    a-u-sheneb-ia.
+\g 3sg.dat house.nom pv-prv-build-perf
+\l (S)he has built a house.
+
+\t saxli    (amxanagistvis) unda ameshenebina.
+\m saxl-i    (amxanag-is-tvis) unda a-m-e-sheneb-ina.
+\g house.nom (friend-gen-for) must pv-1sgObj-prv-build-pluperf
+\l I was supp osed to have built a house.
+
+\t saxli    (amxanagistvis) unda aeshenebina.
+\m saxl-i    (amxanag-is-tvis) unda a-e-sheneb-ina.
+\g house.nom (friend-gen-for) must pv-prv-build-pluperf
+\l (S)he was supp osed to have built a house.
+
+\t saxli    amxanags unda ami/ushenebina.
+\m saxl-i    amxanag-s unda a-m-i/u-sheneb-ina.
+\g   house.nom friend-dat must pv-1sgObj-prv-build-pluperf
+\l I was supp osed to have built a house for a friend.
+
+\t magidaze axali supra       penia.
+\m magida-ze axali supra       pen-ia.
+\g table-on new tablecloth.nom spread-scr
+\l A new tablecloth is spread on the table.
+
+\t magidaze axali supra       gvipenia.
+\m magida-ze axali supra       gv-i-pen-ia.
+\g table-on new tablecloth.nom 1PlObj-prv-spread-scr
+\l A new tablecloth is spread on our table.
+
+\t magidaze axali supra       epina.
+\m magida-ze axali supra       e-pin-a.
+\g table-on new tablecloth.nom prv-spread-scr
+\l A new tablecloth was spread on the table.
+
+\t magidaze axali supra       gvepina.
+\m magida-ze axali supra       gv-e-pin-a.
+\g table-on new tablecloth.nom 1PlObj-prv-spread-scr
+\l A new tablecloth was spread on our table.
+
+\t mem ereba
+\m m-e-m er-eba
+\g 1sgObj-prv-sing-pass
+\l I feel like singing.
+
+\t moec'oneba
+\m mo-e-c'oneba
+\g pv-prv-like
+\l He will like it.
+
+\t eq'vareba
+\m e-q'vareba
+\g pv-prv-love
+\l She will love it.
+
+\t saxls    asheneb    mistvis   / *mas
+\m saxl-s    a-shen-eb    mis-tvis   / *mas
+\g house-dat prv-build-ts he.gen-for / *he.dat
+\l You build a house for him.
+
+\t saxls     usheneb     *mistvis / mas
+\m saxl-s     u-shen-eb     *mis-tvis / mas
+\g house-dat prv-build-ts *he.gen-for / he.dat
+\l You build a house for him.
+
+\t man        momp'ara                       (me) vashli
+\m man        mo-m-p'ara                       (me) vashl-i
+\g he.E   RG PV-1 S G O B J-steal.AO R (1 S G) apple-N O M
+\l He    stole an apple from me.
+
+\t man        momip'ara                           (me) vashli
+\m man        mo-m-i-p'ara                           (me) vashl-i
+\g he.E   R G P V-1 S G O B J-V E R-steal. AO R ( 1 S G ) apple-N O M
+\l He    stole an apple for me.
+
+\t saxli        unda ameshenebina.
+\m saxl-i        unda a-m-e-sheneb-ina.
+\g house.NOM  must P V-1 S G O B J-V E R-build-P L U P E R F
+\l I was   supposed to have built a house.
+
+\t saxls       usheneb         *mistvis        / mas
+\m saxl-s       u-shen-eb         *mis-tvis        / mas
+\g house-DAT    V E R-build- T S *he.G E N-for / he.DAT
+\l You build   a house for him.
+
+\t deidebs    nino       tdeidebi daemalat.
+\m deidebs    nino       tdeidebi da-e-mal-a-t.
+\g aunts.DAT nino.NOM             PAST-APPL.v-hide-3-PL
+\l The aunts had Nino hidden on them.
+
+\t b.* deidebs      tavianti tavi tdeidebi daemalat.
+\m b.* deidebs      tavianti tavi tdeidebi da-e-mal-a-t.
+\g      aunts.DAT selves.NOM               PAST-APPL.v-hide-3-PL
+\l The aunts had themselves hidden on them.
+
+\t deidebi      ninos      tdeidebi daemalen.
+\m deidebi      ninos      tdeidebi da-e-mal-en.
+\g aunts.NOM nino.DAT              PAST-APPL.v-hide-3PL
+\l The aunts were hidden to Nino.
+
+\t deidebi      taviant tavs tdeidebi daemalen.
+\m deidebi      taviant tavs tdeidebi da-e-mal-en.
+\g   aunts.NOM selves.DAT              PAST-APPL.v-hide-3PL
+\l The aunts were hidden to themselves.
+
+\t bavsvebi       imalebian
+\m bavsveb-i       i-malebi-an
+\g children-NOM v-hide-3PL
+\l The children are hiding.
+
+\t b . nino          umalebia        bavsvebs     deidebs
+\m b . nino          u-malebi-a        bavsveb-s     deideb-s
+\g     Nino.NOM APPL-hide-3SG children-ACC aunts-DAT
+\l Nino is hiding the children from the aunts.
+
+\t deidebs       bavsvebi       emalebian.
+\m deideb-s       bavsveb-i       e-malebi-an.
+\g   aunts-DAT children-NOM APPL.v-hide-3PL
+\l The children are hiding from the aunts.
+
+\t (Me)          cigni             davc'ere
+\m (Me)          cign-i             da-v-c'er-e
+\g I.1SG.ERG book.NOM               PREV-1SG-write-INDIC.AOR
+\l I wrote the/a book.
+
+\t c . *(Me)          cignebi       davc'eren/t
+\m c . *(Me)          cign-eb-i       da-v-c'er-en/t
+\g      I.SG.ERG      book-NOM.PL PREV-1SG-write-INDIC.AOR.PL/PL
+\l I wrote the   books.
+
+\t Studenti   cerils    cers.
+\m Student-i   ceril-s    cers.
+\g student-NOM letter-ACC write.PRES
+\l The student   writes the letter.
+
+\t  Studentma     cerili      dacera.
+\m  Student-ma     ceril-i      dacera.
+\g student-ERG     letter-ABS write.PAST
+\l The student   wrote the letter.
+

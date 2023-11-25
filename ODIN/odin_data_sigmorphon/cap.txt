@@ -1,0 +1,50 @@
+\t zhlikla
+\m zh-lik-la
+\g 1PL-drink-IMP
+\l Let us drink!
+
+\t kezizh       likatrani
+\m kezi-zh       lik-a-tra-ni
+\g chicha-1PL drink-IMP-IND-?
+\l Let us drink chicha!
+
+\t wer sum        alkantil          khiyatra
+\m wer sum        alkanti-l          khiy-a-tra
+\g I      good alcalde-1SG           be-FUT-IND
+\l I will be a good alcalde.
+
+\t weril         ana     sum        alkanti        khiyatra
+\m wer-il         ana     sum        alkanti        khiy-a-tra
+\g I-1SG          NEG     good       alcalde        be-FUT-IND
+\l I will not be a good alcalde.
+
+\t amki         majñam         thajñamtra
+\m am-ki         majña-m         thaj-ñ-am-tra
+\g you-TOP       early-2SG       sleep-HAB-2SG-IND
+\l You sleep early.
+
+\t utrumnakki          majñazh        thajchiñtrumtra
+\m utrum-nak-ki          majña-zh        thaj-chiñ-trum-tra
+\g 1PL.IN-PL-TOP         early-1PL.IN    sleep-PERF-1PL.IN-IND
+\l We slept early.
+
+\t zinallal             thajutra
+\m zina-lla-l             thaj-u-tra
+\g alone-DEL-1SG          sleep-DUR-IND
+\l I am sleeping alone.
+
+\t zinallam             thajtra
+\m zina-lla-m             thaj-tra
+\g alone-DEL-2SG          sleep-IND
+\l You are sleeping alone.
+
+\t wernakki      majñal          thajatra
+\m wer-nak-ki      majña-l          thaj-a-tra
+\g 1-PL-TOP        early-FOC.1      sleep-FUT-IND
+\l We (EX) will    sleep early.
+
+\t utrumnakki             majñazh         thajakitra
+\m utrum-nak-ki             majña-zh         thaj-a-ki-tra
+\g we.IN-PL-TOP             early-FOC.2      sleep-FUT+ki-IND
+\l We (IN) will   sleep early.
+

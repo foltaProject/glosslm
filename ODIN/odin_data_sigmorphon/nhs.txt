@@ -1,0 +1,300 @@
+\t quincostaroa trabajo
+\m quin-costar-oa trabajo
+\g them cost-TRNS work
+\l It costs them work
+
+\t costarihui in nêca trabajo
+\m costar-ihui in nêca trabajo
+\g cost-INTRNS the that work
+\l That work is costly
+
+\t Nikneki nikoas tlakemetl
+\m Nikneki nikoas tlakemetl
+\g 1S-3Os-want 1S-3Os-buy-FUT garment-PL-NSF
+\l I want to buy some clothes
+
+\t Nikneki nitlakekoas
+\m Nikneki nitlakekoas
+\g 1S-3Os-want 1S-garment-buy-FUT
+\l I want to buy some clothes
+
+\t Ne niktlasojtla in Maria
+\m Ne niktlasojtla in Maria
+\g I 1S-3Os-love IN Maria
+\l I love Maria
+
+\t Niktlasojtla ne in Maria
+\m Niktlasojtla ne in Maria
+\g 1S-3Os-love I IN Maria
+\l I love Maria
+
+\t Ne in Maria niktlasojtla
+\m Ne in Maria niktlasojtla
+\g I 1S-3Os-love IN Maria
+\l I love Maria
+
+\t In Maria niktlasojtla ne
+\m In Maria niktlasojtla ne
+\g I 1S-3Os-love IN Maria
+\l I love Maria
+
+\t nikchia ke (te) xikoa tlakemetl
+\m nikchia ke (te) xikoa tlakemetl
+\g 1S-3Os-hope that (you) SUBJ-3Os-buy garment-NSF
+\l I hope you buy some clothes
+
+\t Nio niktati nowelti
+\m Nio niktati nowelti
+\g 1S-go 1S-3Os-see my-sister
+\l I'm going to see my sister
+
+\t Nikneki nikoas tlakemetl
+\m Nikneki nikoas tlakemetl
+\g 1S-3Os-want 1S-3Os-buy-FUT clothing
+\l I want to buy some clothes
+
+\t (Ne) nikpalewijtoc in Juan
+\m (Ne) nikpalewijtoc in Juan
+\g (I) 1S-3Os-help-DUR IN Juan
+\l I'm helping Juan
+
+\t (Ye) nejnentoc
+\m (Ye) nejnentoc
+\g (he) 3S-walk-DUR
+\l He's walking
+
+\t ninakakuajtoc
+\m ninakakuajtoc
+\g 1Ss-meat-eat-DUR
+\l I'm eating meat
+
+\t Amo nitekititoc
+\m Amo nitekititoc
+\g not 1S-work-DUR
+\l I'm not working
+
+\t Juan okitak aka
+\m Juan okitak aka
+\g Juan PAST-3S-3Os-see somebody
+\l Juan saw somebody
+
+\t Juan aka okitak
+\m Juan aka okitak
+\g Juan somebody PAST-3S-3Os-see
+\l Juan saw somebody
+
+\t Juan amaka okitak
+\m Juan amaka okitak
+\g Juan nobody PAST-3S-3Os-see
+\l Juan saw nobody
+
+\t Juan okitak amaka
+\m Juan okitak amaka
+\g Juan PAST-3S-3Os-see nobody
+\l Juan saw nobody
+
+\t Amaka witz
+\m Amaka witz
+\g nobody come
+\l Nobody will come
+
+\t Witz amaka
+\m Witz amaka
+\g come nobody
+\l Nobody will come
+
+\t Aka witz
+\m Aka witz
+\g somebody come
+\l Somebody will come
+
+\t Witz aka
+\m Witz aka
+\g come somebody
+\l Somebody will come
+
+\t Juan amo okitak aka
+\m Juan amo okitak aka
+\g Juan not PAST-3S-3Os-see somebody
+\l Juan didn't see anybody
+
+\t In cuchillo de Juan kipalewijtok
+\m In cuchillo de Juan kipalewijtok
+\g the knife of Juan 3S-3Os-help-DUR
+\l Juan's knife is helping him
+
+\t Ye kipia se kalli iztak
+\m Ye kipia se kalli iztak
+\g she 3S-3Os-have a house white
+\l She has a white house
+
+\t Ye kipia se iztak kalli
+\m Ye kipia se iztak kalli
+\g she 3S-3Os-have a white house
+\l She has a white house
+
+\t Niktlalia tlantikuaske    nochipa ne
+\m Niktlalia tlantikuaske    nochipa ne
+\g 1S-3Os-prepare food       daily I
+\l I prepare food every     day
+
+\t Ne niktlasojtla in Maria
+\m Ne niktlasojtla in Maria
+\g I 1S-3Ss-love IN Maria
+\l I love Maria
+
+\t Ne onikmak in tlakatl
+\m Ne onikmak in tlakatl
+\g I PAST-3S-3Os-give IN man-NSF
+\l I hit the man
+
+\t Nowelti okimak nokni
+\m Nowelti okimak nokni
+\g my-sister PAST-3S-3Os-give my-brother
+\l My sister hit my brother
+
+\t Ye kikoas tlakemetl
+\m Ye kikoas tlakemetl
+\g (s)he 3S-3Os-buy-FUT garment-PL-NSF
+\l (S)he will buy clothes
+
+\t Cada tlakatl okipipitzo in isiwa
+\m Cada tlakatl okipipitzo in isiwa
+\g each man-NSF PAST-3S-3Os-kiss IN 3S                POS-wife
+\l Each man kissed his wife
+
+\t Ye kitlasojtla cada tlakatl
+\m Ye kitlasojtla cada tlakatl
+\g (s)he 3S-3Os-love each man-nsf
+\l (S)he loves each man
+
+\t In Juan nochipa kipipitzoa Maria
+\m In Juan nochipa kipipitzoa Maria
+\g IN Juan often 3S-3Os-kiss-VSF Maria
+\l Juan often kisses Maria
+
+\t Juan kipipitzoa nochipa Maria
+\m Juan kipipitzoa nochipa Maria
+\g IN Juan 3S-3Os-kiss-VSF often Maria
+\l Juan kisses often Maria
+
+\t Nikneki ke nikoas tlakemetl
+\m Nikneki ke nikoas tlakemetl
+\g 1S-3Os-want that 1S-3Os-buy-FUT clothing
+\l I want that I will buy some clothes.
+
+\t Nikneki nikoas tlakemetl
+\m Nikneki nikoas tlakemetl
+\g 1S-3Os-want 1S-3Os-buy-FUT clothing
+\l I want to buy something.
+
+\t (Ne) nikpalewijtoc in Juan
+\m (Ne) nikpalewijtoc in Juan
+\g (I) 1S-3Os-help-DUR IN Juan
+\l I'm helping Juan
+
+\t (Ne) nikpalewijtoc in Juan
+\m (Ne) nikpalewijtoc in Juan
+\g (I) 1S-3Os-help-DUR IN Juan
+\l I'm helping Juan
+
+\t (Ne) nimexicatl
+\m (Ne) nimexicatl
+\g (I) 1S-Mexican-NSF
+\l I'm a Mexican/Mexica.
+
+\t (Te) titlakatl
+\m (Te) titlakatl
+\g (I) 2S-man-NSF
+\l You're a man.
+
+\t (Ye) tlakatl
+\m (Ye) tlakatl
+\g (I) man-NSF
+\l He's a man
+
+\t Tisemeh
+\m Tisemeh
+\g 2S-one-PL
+\l We are one.
+
+\t Ne kikoas tlakemetl
+\m Ne kikoas tlakemetl
+\g I 3Os-buy-FUT garment-PL-NSF
+\l I'll buy some clothes.
+
+\t Ne nikoas tlakemetl
+\m Ne nikoas tlakemetl
+\g I 1S-3Os-buy-FUT garment-PL-NSF
+\l I'll buy some clothes.
+
+\t Amo nio niktati nowelti
+\m Amo nio niktati nowelti
+\g not 1S-go 1S-3Os-see my-sister
+\l I'm not going to see my sister
+
+\t Amo nio amo niktati nowelti
+\m Amo nio amo niktati nowelti
+\g not 1S-go amo 1S-3Os-see my-sister
+\l I'm not going to not see my sister
+
+\t Ye kipia se kalli iztak
+\m Ye kipia se kalli iztak
+\g she 3S-3Os-have a house white
+\l She has a white house
+
+\t Ye kipia se iztak kalli
+\m Ye kipia se iztak kalli
+\g she 3S-3Os-have a white house
+\l She has a white house
+
+\t Ne nikamaroa in Maria
+\m Ne nikamaroa in Maria
+\g I 1S-3Ss-love-VSF IN Maria
+\l I love Maria
+
+\t Motrataroa de nin kirescataroa n Pocajontas
+\m Motrataroa de nin kirescataroa n Pocajontas
+\g REF-treat-VSF about this 3S-3Os-escape-VSF IN Pocahontas
+\l It deals with Pocahontas, the one who escaped.
+
+\t quincostaroa trabajo
+\m quin-costar-oa trabajo
+\g them cost-TRNS work
+\l It costs them work
+
+\t costarihui in nêca trabajo
+\m costar-ihui in nêca trabajo
+\g cost-INTRNS the that work
+\l That work is costly
+
+\t Nikneki nikoas tlakemetl
+\m Nikneki nikoas tlakemetl
+\g 1S-3Os-want 1S-3Os-buy-FUT garment-PL-NSF
+\l I want to buy some clothes
+
+\t Nikneki nitlakekoas
+\m Nikneki nitlakekoas
+\g 1S-3Os-want 1S-garment-buy-FUT
+\l I want to buy some clothes
+
+\t Ne niktlasojtla in Maria
+\m Ne niktlasojtla in Maria
+\g I 1S-3Os-love IN Maria
+\l I love Maria
+
+\t Niktlasojtla ne in Maria
+\m Niktlasojtla ne in Maria
+\g 1S-3Os-love I IN Maria
+\l I love Maria
+
+\t Ne in Maria niktlasojtla
+\m Ne in Maria niktlasojtla
+\g I 1S-3Os-love IN Maria
+\l I love Maria
+
+\t In Maria niktlasojtla ne
+\m In Maria niktlasojtla ne
+\g I 1S-3Os-love IN Maria
+\l I love Maria
+

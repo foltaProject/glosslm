@@ -1,0 +1,60 @@
+\t ngai MaNaw hpe gumhpraw jaw niP ai
+\m ngai MaNaw hpe gumhpraw jaw n-iP ai
+\g I    MaNaw OBJ money     give Asp-1st
+\l I gave money to Manaw.
+
+\t MaNaw ngai hpe gumhpraw jaw nuP ai
+\m MaNaw ngai hpe gumhpraw jaw n-uP ai
+\g  MaNaw me OBJ money      give Asp-3rd
+\l Manaw gave me money.
+
+\t nang shi hpe ndai jaw dit ai
+\m nang shi hpe ndai jaw d-it ai
+\g you he OBJ this give d-2nd
+\l You gave him this.
+
+\t nang shi hpe ndai jaw muP ai
+\m nang shi hpe ndai jaw m-uP ai
+\g you he OBJ this give m-3rd
+\l To him, you gave this.
+
+\t shi nang hpe ndai jaw duP ai
+\m shi nang hpe ndai jaw d-uP ai
+\g he you OBJ this give d-3rd
+\l He gave you this.
+
+\t shi nang hpe ndai jaw mit ai
+\m shi nang hpe ndai jaw m-it ai
+\g he nang OBJ this give m-2nd
+\l To you, he gave this.
+
+\t shi nang hpe ndai jaw dit ai
+\m shi nang hpe ndai jaw d-it ai
+\g he nang OBJ this give d-2nd
+\l You were given this by him.
+
+\t wa       ganang        nga     nga         a ni
+\m wa       ganang        nga     nga         a ni
+\g  pig      where       NGA NGA             1/3SG.STA.Q
+\l Where is the pig?
+
+\t Ma Gam            yan         Ma No chye             hkat       nga     ma ai.
+\m Ma Gam            yan         Ma No chye             hkat       nga     ma ai.
+\g   Ma Gam         and...two Ma No          know      each other NGA     3PL.STA
+\l Ma Gam and Ma No know each other.
+
+\t Gum ra          ga gat gum tong            nga      ai.
+\m Gum ra          ga gat gum tong            nga      ai.
+\g     horse         run       gallop           NGA 3SG.STA
+\l The horse is galloping.
+
+\t Shi sa boi             la go       a dup      do        nga    ai.
+\m Shi sa boi             la go       a dup      do        nga    ai.
+\g   he      table        leg         hit        break NGA 3SG.STA
+\l He is breaking the leg of the table.
+
+\t grai htat
+\m grai htat
+\g very thick
+\l the jungle is very thick
+

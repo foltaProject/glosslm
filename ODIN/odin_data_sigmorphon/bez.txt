@@ -1,0 +1,45 @@
+\t Umugosi ihwandihila umudala      ibaluwa.
+\m Umugosi i-hwandih-ila umudala      ibaluwa.
+\g  man     ag-write-app woman        letters
+\l The man is writing the woman     letters.
+
+\t Umudala ahwandihililwe   ibaluwa numugosi.
+\m Umudala a-hwandih-ilil-we   ibaluwa n-umugosi.
+\g woman   ag-write-app/T-pass letters by-man
+\l The woman was written letters by the man.
+
+\t Ibaluwa dzahwandihililwe umudala numugosi.
+\m Ibaluwa dza-hwandih-ilil-we umudala n-umugosi.
+\g   letters ag-write-app/T-pass woman   by-man
+\l Letters were written the woman by the man.
+
+\t Umugosi avindiye      iliduma ibunduhi mumusitu.
+\m Umugosi a-vind-iye      iliduma ibunduhi mu-musitu.
+\g  man     ag-hunt-inst/T leopard gun      in-forest
+\l The man hunted the leopard with the gun in the forest.
+
+\t Iliduma lyavindililwe    ibunduhi mumusitu numugosi.
+\m Iliduma lya-vind-ilil-we    ibunduhi mu-musitu n-umugosi.
+\g leopard ag-hunt-inst/T-pass gun      in-forest by-man
+\l The leopard was hunted with a gun in the forest by the man.
+
+\t umusehe abahile munyumba.
+\m umusehe a-bahile mu-nyumba.
+\g old-man ag-remain in-house
+\l The old man remained in the house.
+
+\t munyumba mwabahilwe   numusehe
+\m mu-nyumba mwa-bahil-we   n-umusehe
+\g in-house ag-remain-pass by-old-man
+\l In the house was remained by the old man.
+
+\t muhijiji mwanyamulililwe umusehe ihidoto numudala
+\m mu-hijiji mwa-nyamul-ilil-we umusehe ihidoto n-umudala
+\g  in-village ag-carry-app/T-pass old-man basket by-woman
+\l In the village was carried (for) the old man the basket by the woman.
+
+\t Munyumba mwabahililwe       avana    numusehe.
+\m Mu-nyumba mwa-bah-ilil-we       avana    n-umusehe.
+\g in-house ag-remain-app/T-pass children by-old-man
+\l In the house was remained (for) the children by the old man.
+

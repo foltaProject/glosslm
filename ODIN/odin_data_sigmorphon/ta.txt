@@ -1,0 +1,700 @@
+\t (naa) vanteen
+\m (naa) va-nt-e-en
+\g 1.SG     come-PAST-AE-1.SG
+\l Icame'[19]3
+
+\t nai      vantaan
+\m nai      va-nt-a-an
+\g dog      come-PAST-AE-1.SG
+\l the dog came
+
+\t makanen
+\m makan-en
+\g son-1.SG
+\l I am the son
+
+\t nallen
+\m nall-en
+\g good-1.SG
+\l I am good
+
+\t nan     nallavan
+\m nan     nall-avan
+\g 1.SG    good-3.SG.M
+\l I am good/a good one
+
+\t nan      ceytavan
+\m nan      cey-t-avan
+\g 1.SG     do-PAST-3.SG.M
+\l I am the one who did (it)
+
+\t avan        manusan
+\m avan        manusan
+\g 3.SG.M      man
+\l he is a man
+
+\t Kumaar vakkiil
+\m Kumaar vakkiil
+\g Kumar      lawyer
+\l Kumar is a lawyer
+
+\t avan         Kripa
+\m avan         Kripa
+\g 3.SG.M       Kripa
+\l that is Kripa
+
+\t Raaman toottattile
+\m Raaman toottattile
+\g Raman garden:LOC
+\l Raman is in the garden
+
+\t Kumaar     vakkiilaaka/aay irukkiraan
+\m Kumaar     vakkiil-aaka/aay iru-kkir-a-an
+\g Kumar      lawyer-ESS       be-PRES-AE-3.SG.M
+\l Kumar is now a lawyer
+
+\t Raaman toottattile irukkiraan
+\m Raaman toottattile iru-kkir-a-an
+\g Raman garden:LOC be-PRES-AE-3.SG.M
+\l Raman is in the garden
+
+\t atu nallaa          irukkutu
+\m atu nall-aa          irukkutu
+\g that good-ESS        be:PRES:3.SG.N
+\l that is good
+
+\t inta peenaa putucaa              irukkutu
+\m inta peenaa putu-c-aa              irukkutu
+\g this pen       new-3.SG.N-ESS be:PRES:3.SG.N
+\l this pen is new (something which is new/as a new one)
+
+\t pani manusan untu
+\m pani manusan untu
+\g snow man           be
+\l there is such a thing as a yeti
+
+\t pallikkuutam Kumaaratu
+\m pallikkuutam Kumaar-atu
+\g school          Kumar-"GEN"/3.SG.N
+\l the school is the one of Kumar
+
+\t paiyan caavi.yaal     katavai.t      tirantaan
+\m paiyan caavi.y-aal     katav-ai.t      tira-nt-a-an
+\g boy      key-INS       door-ACC        open-PAST-AE-3.SG.M
+\l the boy open the door with a key
+
+\t Kumaar vanta          utan           naankal caappituvoom
+\m Kumaar va-nt-a          utan           naankal caappituvoom
+\g Kumar come-PAST-AE immediately we              eat:FUT.1.PL
+\l As soon as Kumar comes, we shall eat
+
+\t Raataa inimai.yaaka.p paati       irukkiraal
+\m Raataa inimai.y-aaka.p paat-i       iru-kkir-a-al
+\g Radha sweetness-ESS sing-AE be-PRES-AE-3.SG.F
+\l Radha has sung sweet (with sweetness)
+
+\t kumaar    oru petti(.yai) vaankinaan
+\m kumaar    oru petti(.y-ai) vaank-in-a-an
+\g Kumar     a     box(-ACC) buy-PAST-AE-3sm
+\l Kumar bought a box
+
+\t konraarai               kaaneen
+\m konraar-ai               kaan-e-en
+\g kill:PAST.3.PL-ACC (not)see-AE-1.SG
+\l I did not see the ones who did the killing
+
+\t kumaar    nalla    cattaikal aintai     vaank.inaan
+\m kumaar    nalla    cattai-kal aint-ai     vaank.in-a-an
+\g Kumar     nice     shirt-PL five-ACC buy:PAST-AE-3SG.M
+\l Kumar bought (the) five nice shirts
+
+\t kumaar    aintu    nalla cattaikal(ai)       vaank.inaan
+\m kumaar    aintu    nalla cattai-kal-(ai)       vaank.in-a-an
+\g Kumar     five     nice shirt-PL-ACC           buy:PAST-AE-3SG.M
+\l Kumar bought five nice shirts
+
+\t oru/inta.p nalla paiyan
+\m oru/inta.p nall-a paiyan
+\g one/this     nice-AE boy
+\l a/this nice boy
+
+\t oru/inta.p putu pustakan
+\m oru/inta.p put-u pustakan
+\g one/this    nice-AE book
+\l a/this new book
+
+\t ellaa    ciri.ya     karkalum
+\m ellaa    ciri.y-a     kar-kal-um
+\g all      small-AE stone-PL-"INCL"
+\l all small stones taken together
+
+\t cila ciri.ya     karkal
+\m cila ciri.y-a     kar-kal
+\g few small-AE stone-PL
+\l a few small stones
+
+\t pustakankal cila.varrai
+\m pustakan-kal cila.v-arr-ai
+\g book-PL       few-"OBL"-ACC
+\l a few books
+
+\t rantu    pacanka
+\m rantu    pacanka
+\g two      boy:PL
+\l two
+
+\t pacankalle      rantu peeru
+\m pacankal-le      rantu peeru
+\g boy:PL-LOC       two     person
+\l two boys
+
+\t nalla cattaikal aintai
+\m nall-a cattai-kal aint-ai
+\g nice-AE shirt-PL five-ACC
+\l the five nice shirts
+
+\t aintu nalla       cattaikal(ai)
+\m aintu nall-a       cattai-kal-(ai)
+\g five nice-AE shirt-PL-(ACC)
+\l (the) five nice shirts
+
+\t neerru     inkee vanta         anta.p paiyanai naan inru paartteen
+\m neerru     inkee va-nt-a         anta.p paiyan-ai naan inru paar-tt-e-en
+\g yesterday here come-PAST-AE that          boy-ACC I today see-PAST-AE-1s
+\l Today I saw that boy who came here yesterday
+
+\t oru azakaana                                       pen
+\m oru azak-aan-a                                       pen
+\g one beauty-become:PAST.-"ADJ.PART"/AE                girl
+\l a beautiful girl
+
+\t oru panam ulla              manitan
+\m oru panam ull-a              manitan
+\g one money be/have-"ADJ.PART" person
+\l a person with money
+
+\t marattu.k kilai
+\m mara-ttu.k kilai
+\g tree-OBL branch
+\l the branck of a tree
+
+\t aracanin         muti
+\m aracan-in         muti
+\g king-"EUPH" crown
+\l the crown of the king
+
+\t naayinatu              vaal
+\m naay-in-atu              vaal
+\g dog-"EUPH"-GEN           tail
+\l the dog's tail
+
+\t aracanatu muti
+\m aracan-atu muti
+\g  king-GEN crown
+\l the king's crown
+
+\t naayutai.ya                         vaal
+\m naay-utai.y-a                         vaal
+\g dog-possess-"ADJ.PART"/AE             tail
+\l the tail belonging to the dog
+
+\t un talai.yil       iti      viza
+\m un talai.y-il       iti      viz-a
+\g you head-LOC        thunder fall-"INF"/"SBJNCT"/AE
+\l may thunder fall on your head
+
+\t inta.p nalla          paiyan
+\m inta.p nall-a          paiyan
+\g this      good-AE      boy
+\l this nice boy
+
+\t mella        vaa
+\m mell-a        va-a
+\g slowly-SC     come-AE/SBJNCT
+\l come slowly
+
+\t Kumaar     vanta        utan         naankal caappituvoom
+\m Kumaar     va-nt-a        utan         naankal caappituvoom
+\g Kumar      come-PAST-AE immediately we         eat:FUT.1.PL
+\l As soon as Kumar comes, we shall eat
+
+\t azukireen
+\m azu-kir-e-en
+\g weep-PRES-AE-1SG
+\l I am weeping
+
+\t azukiraan
+\m azu-kir-a-an
+\g weep-PRES-AE-3SG
+\l he is weeping
+
+\t azukiroom
+\m azu-kir-o-om
+\g weep-PRES-AE-1PL
+\l we are weeping
+
+\t ava ponnu         rompa azaku
+\m ava ponnu         rompa azak-u
+\g her daughter very          beauty-"EV"/AE
+\l her daughter is very beautiful
+
+\t Raataa inimai.yaaka.p paati           irukkiraal
+\m Raataa inimai.y-aaka.p paat-i           iru-kkir-a-al
+\g Radha sweetness-ESS sing-"VBP" be-PRES-AE-3.SG.F
+\l Radha has sung sweet (with sweetness)
+
+\t mantiri      neerru      vantatai           naan keetteen
+\m mantiri      neerru      va-nt-at-ai           naan keet-t-e-en
+\g minister yesterday come-PAST-"NOM"-ACC 1.SG hear-PAST-AE-1.SG
+\l I heard that the minister had come yesterday
+
+\t kumaar   amerikkaa.vukku.p poo.ka    virumpukiraan
+\m kumaar   amerikkaa.v-ukku.p poo.k-a    virumpu-kir-a-an
+\g Kumar    America-DAT          go-"INF" want-PRES-AE-3.SG.M
+\l Kumar wants to go to America
+
+\t kumaar inru      oru mantiri varukiraar           enraan
+\m kumaar inru      oru mantiri varu-kir-a-ar           en-r-a-an
+\g Kumaar today a         minster come-PRES-AE-3.SG.HON say-PAST-3sm
+\l Kumaar said that a minister would come today
+
+\t inru     oru      mantiri      varukiraar                   poolum
+\m inru     oru      mantiri      varu-kir-a-ar                   poolum
+\g today a           minister come-PRES-AE-3.SG.HON               it.seems
+\l It seems that a minister is coming today
+
+\t namo seyyale avaru seyraru
+\m namo seyyale avaru seyraru
+\g we did.not he does
+\l he (honorific) does (what) we did not
+
+\t piLLaiyai   tuunka      vaitteen
+\m piLLaiyai   tuunka      vai-tt-een
+\g child:ACC sleep:INF place-PRT-1SG
+\l I made the child sleep.
+
+\t avaru        jepam          taan    noNTiyai     naTakka     ceytatu     
+\m avaru        jepam          taan    noNTiyai     naTakka     cey-t-atu     
+\g 3.HON(GEN) prayer:NOM indeed cripple:ACC walk:INF            make-PRT-3SG.N
+\l His (someone else's) prayer really made the cripple walk.
+
+\t avan akke               pookattaan          veeZum.
+\m avan akke               pooka-ttaan          veeZum.
+\g 3.SG.M there            go:INF-EMPH         DEB
+\l He must go there.
+
+\t naan viiukku             pooka veeZ iyirukkutu.
+\m naan vii-ukku             pooka veeZ iyirukk-utu.
+\g  1.SG    house-DAT         go:INF DEB:PRS-3.SG.NT
+\l I have to go home.
+
+\t E19.        raman kalaiyil              varalaam.
+\m E19.        raman kalai-yil              vara-laam.
+\g STAM        Raman     tomorrow-LOC       come-POT
+\l It is possible that Raman comes tomorrow.
+
+\t E24. a. ennaale             atu ceyya           mu$iyum.
+\m E24. a. enn-aale             atu ceyya           mu$iyum.
+\g STAM        1.SG-INSTR       that   do:INF able
+\l I can do that.
+
+\t neettu        naan        kuu$$ attukku        vara          mu$iyale.
+\m neettu        naan        kuu$$ att-ukku        vara          mu$iyale.
+\g   Yesterday   1.SG        meeting-DAT           come:INF      able:INF:NEG
+\l Yesterday I couldn't come to the meeting.
+
+\t enakku        tenir           arunta      virupam.
+\m en-akku        tenir           arunta      virupam.
+\g  1.SG-DAT tee:water            drink:INF   like
+\l I would like to drink tee.
+
+\t               inta uu$$e           ka$$a               aarampiccaakka.
+\m               inta uu$$e           ka$$a               aarampiccaakka.
+\g               this   house:ACC build:INF               begin:PST:3.PL
+\l They started building this house six months ago.
+
+\t poona vaaram avakka inta uu$$e                                    ka$$i                    mu$iccaakka.
+\m poona vaaram avakka inta uu$$e                                    ka$$i                    mu$iccaakka.
+\g  last      week       3.PL.M this               house:ACC build:PST.PART                   finish:PST:3.PL
+\l Last week they finished building this house.
+
+\t enu$aiya       (kaal)viral
+\m en-u$aiya       (kaal)viral
+\g 1.SG-GEN        (foot:)finger
+\l my toe
+
+\t enOnOit¿am pan¿am irukkirOatu.
+\m enOnO-it¿am pan¿am iru-kkirO-atu.
+\g  1.SG-LOC money     be-PRS-3.SG.NT
+\l I have money.
+
+\t avau$aiya          vaay         periyatu.
+\m ava-u$aiya          vaay         periy-atu.
+\g  3.SG.F-GEN          mouth        big-NR.NT
+\l Her mouth is big (/a big one).
+
+\t elenavukkup         periya vay.
+\m elena-v-ukku-p         periya vay.
+\g  Elena-/-DAT-/         big         mouth
+\l Elena has a big mouth.
+
+\t avan      enakku       talaiil      a$ittaan.
+\m avan      en-akku       talai-il      a$i-tt-aan.
+\g  3.SG.M 1.SG-DAT head-LOC hit-PST-3.SG.M
+\l He hit me on the head.
+
+\t en(atu)          vayiru valikkutu.
+\m en(-atu)          vayiru valikk-utu.
+\g  1.SG(-GEN)       belly     ache:PRS-3.SG.NT
+\l My belly aches.
+
+\t E118. a. enakku               kai viraikin$ratu.
+\m E118. a. en-akku               kai virai-kin$r-atu.
+\g STAM          1.SG-DAT         hand freeze-PRS-3.SG.NT
+\l My hand is cold.
+
+\t kulOantekku vayirOu rompap pacikkutu.
+\m kulOante-kku vayirOu rompa-p pacikk-utu.
+\g  child-DAT     stomach very-E      hunger:PRS-3.SG.NT
+\l The baby is very hungry.
+
+\t enakku      tale valikkutu.
+\m en-akku      tale valikk-utu.
+\g  1.SG-DAT head ache:PRS-3.SG.NT
+\l I have a headache.
+
+\t enakku      taleyai   valikkutu.
+\m en-akku      tale-yai   vali-kk-utu.
+\g  1.SG-DAT head-ACC ache-PRS-3.SG.NT
+\l I have a headache.
+
+\t u$ampukku nanOrOay        illai.
+\m u$amp-ukku nanOrOay        illai.
+\g  body-DAT      good        be.NEG
+\l I am not well.
+
+\t mayil            porOamaippa$$atu.
+\m mayil            porOamai-p-pa$$-atu.
+\g  peacock         jealousy-/-feel.PST-3.SG-NT
+\l The peacock was jealous.
+
+\t plaika       ekkaai     santosapa$utinarka .
+\m plai-ka       ekka-ai     santosa-pa$uti-n-arka .
+\g  child-PL     1.PL-ACC glad-do-PST-3.HUM.PL
+\l The children amused us.
+
+\t            marOantupoyirOrOu.
+\m            marOa-ntu-poyirOrOu.
+\g            forget-PST.PART-go.PST.3.SG.NT
+\l But he had forgotten the name of the snack.
+
+\t b   unO         mutta      makal¿ enOakku         nFapakam illai.
+\m b   unO         mutta      makal¿ enO-akku         nFapakam illai.
+\g     2.SG.OBL elder         daughter 1.SG-DAT memory             is:not
+\l I do not remember your elder daughter.
+
+\t taliyai           marOantuvi$$aye!
+\m taliy-ai           marOa-ntu-vi$$-ay-e!
+\g   tali-ACC         forget-PST.PART-PST.CMPL-2.SG-EMPH
+\l You've forgotten your tali!
+
+\t avan      vantatuleruntu     enakku      teriyum.
+\m avan      vantatu-leruntu     en-akku      teri-yum.
+\g  3.SG.M come:PST:NR-ABL 1.SG-DAT know-FUT
+\l I know of it from ( the time of'or the fact of') his coming.
+
+\t naan       avanukkaaka          ttuwisakaravan$iyai ttiruttineen.
+\m naan       avan-ukk-aaka          ttuwisakaravan$i-yai ttirutti-n-een.
+\g  1.SG      3.SG.M-DAT-BEN         bicycle-ACC                       repair-PST-1.SG
+\l I fixed the bike for him.
+
+\t naan       avanukku       ttuwisakaravan$iyai ttirutti ku$utteen.
+\m naan       avan-ukku       ttuwisakaravan$i-yai ttirutti ku$u-tt-een.
+\g  1.SG      3.SG.M-DAT bicycle-ACC                          repair      give-PST-1.SG
+\l I fixed the bike for him.
+
+\t raman peterukku           oru katiyai                  vasitaan.
+\m raman peter-ukku           oru kati-yai                  vasitaan.
+\g  Raman     Peter-DAT       one    fairy.tale-ACC read:PST:3.SG.M
+\l Raman read Peter a fairy-tale.
+
+\t anta katti(y)ai     jn kant    n.
+\m anta katti(y)-ai     jn kan-t-    n.
+\g that knife-ACC John see-PST- 3MSG
+\l John saw the knife with which the man killed        the chicken.
+
+\t Kumaarukku cila ninaivukalvantana
+\m Kumaar-ukku cila ninaivu-kal-va-nt-ana
+\g Kumar-DAT a.few memory-PL-NOM come-PAST-3PL.N
+\l Kumar got some memories
+
+\t Kumaarukku raajaavaip pitikkum
+\m Kumaar-ukku raajaav-aip pitikk-um
+\g Kumar-DAT Raja-ACC like-3SG.N
+\l Kumar likes Raja
+
+\t Kumaarukku cila ninaivukalvantana
+\m Kumaar-ukku cila ninaivu-kal-va-nt-ana
+\g Kumar-DAT a.few memory-PL-NOM come-PAST-3PL.N
+\l Kumar got some memories
+
+\t Kumaarukku raa jaavaip pitikkum
+\m Kumaar-ukku raa jaav-aip pitikk-um
+\g Kumar-DAT Ra ja-ACC like-3SG.N
+\l Kumar likes Ra ja
+
+\t Anta     manitan atitta         penmani(y)ai      jn       kantn.                                         
+\m Anta     manitan ati-tt-a         penmani(y)-ai      jn       kan-t-n.                                         
+\g that     man       hit-PAST-PART woman-DO            John     see-PAST-3SG:MASC                      prenominal
+\l John   saw the woman that that man hit.
+
+\t Yaarum varale.
+\m Yaar-um vara-le.
+\g INDEF-FC come-NEG
+\l Nobody came.
+
+\t kumaarukkuk koopam            vantu          kumaar raajaavapi atittaan
+\m kumaar-ukkuk koopam            va-ntu          kumaar raajaav-api ati-tt-aan
+\g Kumar-DAT anger-NOM come-PARTIC NOM Raja-ACC beat-PAST-3sg.M
+\l Kumar got angry and beat Raja
+
+\t /vandaaru=aa/ [vandaar=aa]
+\m /vandaaru=aa/ [vandaar=aa]
+\g came=INT
+\l Did he come?
+
+\t naan inta pustakatte muruka=kie=runtu eraval vaakaneen
+\m naan inta pustakatte muruka=kie=runtu eraval vaakaneen
+\g I this book-acc Murugan=loc=abl loan obtain-past-1s
+\l I borrowed this book from Murugan.
+
+\t kamalaa avan tannai verukkiraan enru ninaittaa
+\m kamalaa avan tann-ai veru-kkir-aan en-ru ninai-tt-aa
+\g Kamala he self-acc hate-pres-3sm say-vbp think-pst-3sf
+\l Kamala thought that he hated him(=Kumaar)
+
+\t kumaar kaDekki poonan; ange tanakku oNNum piDikkale
+\m kumaar kaDekki poonan; ange tanakku oNNum piDikkale
+\g Kumar shop to go-pst-agr there self to anything like not
+\l Kumar went to the shop; he did not like anything there.
+
+\t kamalaa avan tannai verukkiraan enru ninaittaa
+\m kamalaa avan tann-ai veru-kkir-aan en-ru ninai-tt-aa
+\g Kamala he he-acc hate-pres-3sm say-vbp think-pst-3sf
+\l Kamala thought that he hated himself
+
+\t kamalaa avan tannai verukkiraan enru ninaittaa
+\m kamalaa avan tann-ai veru-kkir-aan en-ru ninai-tt-aa
+\g Kamala he she-acc hate-pres-3sm say-vbp think-pst-3sf
+\l Kamala thought that he hated her
+
+\t kumaar    umaa tanne tiTTikiTTaaNNu                  sonnaan
+\m kumaar    umaa tanne tiTTikiTTaaNNu                  sonnaan
+\g Kumar     Uma self-acc scold-pst-VR-pst-agr-that     say-pst-agr
+\l Kumar     said that Uma scolded himself
+
+\t kumaa    r umaa tanne tiTTikiTTaaNNu                sonnaan
+\m kumaa    r umaa tanne tiTTikiTTaaNNu                sonnaan
+\g Kumar       Uma self-acc scold-pst-VR-pst-agr-that   say-pst-agr
+\l Kumar     said that Uma scolded himself
+
+\t a .   kumaar kaDekki poonan; ange avanukku oNNum piDikkale
+\m a .   kumaar kaDekki poonan; ange avanukku oNNum piDikkale
+\g       Kumar shop to go-pst-agr there he to anything like not
+\l Kumar went to the shop; he did not like anything there.
+
+\t kumaar avanai verukkiraan
+\m kumaar avan-ai veru-kkir-aan
+\g Kumar he-Acc hate-pres-3sm
+\l Kumar hates himself
+
+\t avan en tampi
+\m avan en tampi
+\g (that)-he I(OBL) brother
+\l He is my brother
+
+\t a .   kumaar vantaal naan avaniTam colluveen
+\m a .   kumaar va-nt-aal naan avan-iTam collu-v-een
+\g       Kumar come-cond I he-loc say-fu-1s
+\l If Kumar comes I will tell him
+
+\t kumaar vantaal naan ivaniTam colluveen
+\m kumaar va-nt-aal naan ivan-iTam collu-v-een
+\g Kumar come-cond I he-loc say-fu-1s
+\l If Kumar comes I will tell him
+
+\t naan       avanukku       ttuwisakaravan iyai ttirutti     ku ueen
+\m naan       avan-ukku       ttuwisakaravan i-yai ttirutti     ku u--een
+\g  1.SG      3.SG.M-DAT bike-ACC                    repair     give-PST-1.SG
+\l I repaired him the bike
+
+\t naan       avanukkaaka         ttuwisakaravan iyai ttiruttineen
+\m naan       avan-ukk-aaka         ttuwisakaravan i-yai ttirutti-n-een
+\g  1.SG      3.SG.M-DAT-BEN        bike-ACC                  repair-PST-1.SG
+\l I repaired the bike for him
+
+\t avan vantaanaa
+\m avan vantaanaa
+\g he come-past-3sm-ip
+\l Did he come?
+
+\t avan marattu kie okkaantirukkaraa
+\m avan marattu kie okkaantirukkaraa
+\g he tree-obl near be.sitting-pres-3sm
+\l He's sitting near the tree.
+
+\t naan ake pooratukku munnaaiyee,              avan ake vantiruntaan      
+\m naan ake pooratukku munnaaiyee,              avan ake vantiruntaan      
+\g I there go-pres-noml-dat before-emph         he there come-perf-past-3sm
+\l Before I got there, he had arrived.
+
+\t a. avan vantaan
+\m a. avan vantaan
+\g he come-past-3sm
+\l He came.
+
+\t b. avan vantaan
+\m b. avan vantaan
+\g he come-past-3sm
+\l Did he come?
+
+\t c. avan vantaan=aa
+\m c. avan vantaan=aa
+\g he come-past-3sm=ip
+\l Did he come?
+
+\t naan inta pustakatte muruka=kie=runtu eraval vaakaneen
+\m naan inta pustakatte muruka=kie=runtu eraval vaakaneen
+\g I this book-acc Murugan=loc=abl loan obtain-past-1s
+\l I borrowed this book from Murugan.
+
+\t avan    peecalaam
+\m avan    peeca-laam
+\g 3SG     speak-PERM
+\l He is allowed to speak.
+
+\t naan paatte          euttukieen
+\m naan paatt-e          euttu-kieen
+\g I.nom money-ACC take.BEN.PST.PNG
+\l I took the money for myself.
+
+\t avan           talai                 nimirntn
+\m avan           talai                 nimirntn
+\g he.NOM         head.(NOM)            straighten.PST.3   MSG
+\l He straightened his head.
+
+\t vii u neru ka            neru ka
+\m vii u neru ka            neru ka
+\g house draw-close.infin draw-close.infin
+\l as he ca me closer to the house
+
+\t neeram aaka          aaka
+\m neeram aaka          aaka
+\g time   become.infin become.infin
+\l when/because it beca me later and later
+
+\t kataiyai kee u avan cirittaan         cirittaan
+\m kataiyai kee u avan cirittaan         cirittaan
+\g story.acc hear.vbp he laugh.past.3sm laugh.past.3sm
+\l Hearing the story he laughed and laughed.
+
+\t kumaar varavee          vara        maa aan          ¢¢
+\m kumaar varavee          vara        maa aan          ¢¢
+\g Kumar come.infin. emph come.infin will-not.3sm
+\l Kumar just won't come.
+
+\t vaa ga        maa avee             maa een
+\m vaa ga        maa avee             maa een
+\g come.imper.pl will-not.infin.emph will-not.1s
+\l I won't come at all.
+
+\t ma e vantaalum        varalaam
+\m ma e vantaalum        varalaam
+\g rain come.past.conc come.infin-ma y
+\l Rain might just possibly come. 
+
+\t iruntaalum iruppaan
+\m iruntaalum iruppaan
+\g be.past.conc be.fut.3sm
+\l He will probably be (ther e).
+
+\t [eddu]     [giddu]bi are       ka a
+\m [eddu]     [giddu]bi are       ka a
+\g  get-up.vbp echo perf.cond trouble
+\l (We'll be in) trouble if (he) gets up or something.
+
+\t anta nattil     [ oru aracan ]F iruntan¯
+\m anta natt-il     [ oru aracan ]F iru-nt-an¯
+\g that country-loc one king        b e-past
+\l In that country, there was a king."(Herring and Paolillo, 1995)
+
+\t anta nattil                           ¯              ËÊ        ¯¯
+\m anta natt-il                           ¯              ËÊ        ¯¯
+\g                       L OC   É                              be-PA S T
+\l In that country, there was                      A KING      ."(Herring and Paolillo, 1995)
+
+\t Yaarum varale.
+\m Yaar-um vara-le.
+\g INDEF-FC come-NEG
+\l Nobody came.
+
+\t ava vi½zuntatunaale                  a½utaa
+\m ava vi½zuntatunaale                  a½utaa
+\g she fall-PAST-NOMLZR-INSTR weep-PAST-3F.SG
+\l Because she fell, she cried.
+
+\t kamalaa avan tannai verukkiraan enru ninaittaa
+\m kamalaa avan tann-ai veru-kkir-aan en-ru ninai-tt-aa
+\g Kamala he selfACC hatePRES-3SG.M sayVBP thinkPST-3SG.F
+\l Kamala thought that he hated him(=Kumaar)
+
+\t kumaar kaDekki poonan; ange tanakku oNNum piDikkale
+\m kumaar kaDekki poonan; ange tanakku oNNum piDikkale
+\g Kumar shop to goPST.AGR   there self to anything like not
+\l Kumar went to the shop; he did not like anything there.
+
+\t kamalaa avan tannai verukkiraan enru ninaittaa
+\m kamalaa avan tann-ai veru-kkir-aan en-ru ninai-tt-aa
+\g Kamala he heACC hate PRES-3.SG.M sayVBP thinkPST-3SG.F
+\l Kamala thought that he hated himself
+
+\t kamalaa avan tannai verukkiraan enru ninaittaa
+\m kamalaa avan tann-ai veru-kkir-aan en-ru ninai-tt-aa
+\g Kamala he sheACC hatePRES-3SG.M sayVBP think PST-3SG.F
+\l Kamala thought that he hated her
+
+\t kumaar kaDekki poonan; ange avanukku oNNum piDikkale
+\m kumaar kaDekki poonan; ange avanukku oNNum piDikkale
+\g Kumar shop to goPST.AGR there he to anything like not
+\l Kumar went to the shop; he did not like anything there.
+
+\t kumaar avanai verukkiraan
+\m kumaar avan-ai veru-kkir-aan
+\g Kumar heACC hatePRES-3SGM
+\l Kumar hates himself
+
+\t kumaar avaneyee verukaan
+\m kumaar avaneyee verukaan
+\g Kumar heACC.EMPH hatePRST.AGR
+\l Kumar hates himself
+
+\t ivan en tampi
+\m ivan en tampi
+\g (this)-he IOBL brother
+\l He is my brother
+
+\t avan en tampi
+\m avan en tampi
+\g (that)-he IOBL brother
+\l He is my brother
+
+\t kumaar vantaal naan avaniTam colluveen
+\m kumaar va-nt-aal naan avan-iTam collu-v-een
+\g Kumar comeCOND I heLOC sayFUT-1SG
+\l If Kumar comes I will tell him
+
+\t kumaar vantaal naan ivaniTam colluveen
+\m kumaar va-nt-aal naan ivan-iTam collu-v-een
+\g Kumar comeCOND I heLOC say FUT-1SG
+\l If Kumar comes I will tell him
+

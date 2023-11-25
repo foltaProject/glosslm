@@ -1,0 +1,535 @@
+\t Saya ke pasar
+\m Saya ke pasar
+\g I-to-market
+\l I'm going to the market.
+
+\t dia       ada        disitu
+\m dia       ada        disitu
+\g 3.SG      be.(there) there
+\l he is there
+
+\t bapanya              ada sandagor
+\m bapa-nya              ada sandagor
+\g father-POSS.3.SG be businessman
+\l his father is a businessman
+
+\t Ahmadi tahu    Salmahj akan membeli baju               untuk          dirinyai/j/k
+\m Ahmadi tahu    Salmahj akan membeli baju               untuk          dirinyai/j/k
+\g Ahmad know Salmah         will buy           clothes for              self.3SG
+\l Ahmad knows Salmah will buy clothes for him/herself.
+
+\t John      nampak dirinya       di dalam cermin; Frank pun
+\m John      nampak dirinya       di dalam cermin; Frank pun
+\g John      see       self.3SG at inside mirror        Frank also
+\l John saw himself/him in the mirror and Frank did too.
+
+\t Ali        cukur     dirinya     di dalam bilik air; Bill          pun
+\m Ali        cukur     dirinya     di dalam bilik air; Bill          pun
+\g Ali        shave     self.3SG at inside bathroom Bill              also
+\l Ali shaved himself/him in the bathroom. Bill did so too.
+
+\t Dia beli kereta baru.
+\m Dia beli kereta baru.
+\g 3SG buy car            new
+\l He/she bought a new car.
+
+\t Dia belikan         saya     kereta baru.
+\m Dia beli-kan         saya     kereta baru.
+\g 3SG buy-APPL 1SG              car     new
+\l He bought me a new car.
+
+\t Bilek itu besar.
+\m Bilek itu besar.
+\g room the large
+\l The room is large.
+
+\t Dia besarkan          bilek   itu.
+\m Dia besar-kan          bilek   itu.
+\g 3SG large-CAUS room             the
+\l He/she enlarged the room.
+
+\t Aku          buat      budak (i)tu lari dua batu.
+\m Aku          buat      budak (i)tu lari dua batu.
+\g 1st:SG make/do child             the run two mile
+\l I made the child run two miles.
+
+\t Aku          bagi budak (i)tu lari dua        batu.
+\m Aku          bagi budak (i)tu lari dua        batu.
+\g 1st:SG give child             the run two     mile
+\l I had/let the child run two miles.
+
+\t (5) Ahmadi tahu Salmahj akan membeli baju untuk dirinyai/j/k.6
+\m (5) Ahmadi tahu Salmahj akan membeli baju untuk diri-nyai/j/k.6
+\g    Ahmad know Salmah will buy clothes for self-3SG
+\l Ahmad knows Salmah will buy clothes for him/herself.
+
+\t (7) Aminahi tahu saya memberi Sitij buku tentang dirinyai/j/k.
+\m (7) Aminahi tahu saya memberi Sitij buku tentang dirinyai/j/k.
+\g      Aminah know I           give Siti book about self.3SG
+\l Aminah knew I gave Siti a book about her/herself.
+
+\t (11) Johni bilang yang Mary nampak diai di Singapura; Frank pun.
+\m (11) Johni bilang yang Mary nampak diai di Singapura; Frank pun.
+\g             say that Mary          see him at Singapore Frank also
+\l John said that Mary saw him in Singapore and Frank did so too.
+
+\t Fatimahi tahu Alij mengajar dirinya sendiri*i,j .
+\m Fatimahi tahu Alij mengajar dirinya sendiri*i,j .
+\g Fatimah know Ali is teaching self.3SG alone
+\l Fatimah knows that Ali is teaching himself.
+
+\t (14) John nampak dirinya sendiri di dalam cermin; Frank pun.
+\m (14) John nampak dirinya sendiri di dalam cermin; Frank pun.
+\g       John see       self-3psg alone at inside mirror Frank also
+\l John saw himself/him in the mirror and Frank did too .
+
+\t (15) Ali cukur dirinya sendiri di dalam bilik air; Bill pun.
+\m (15) Ali cukur dirinya sendiri di dalam bilik air; Bill pun.
+\g       Ali shave self-3psg alone at inside bathroom Bill also
+\l Ali shaved himself in the bathroom. Bill too shaved himself in the bathroom.
+
+\t (16) John nampak dirinya di dalam cermin; Frank pun.
+\m (16) John nampak dirinya di dalam cermin; Frank pun.
+\g       John see self-3psg at inside mirror Frank also
+\l John saw himself/him in the mirror and Frank did too .
+
+\t (17) Ali cukur dirinya di dalam bilik air; Bill pun.
+\m (17) Ali cukur dirinya di dalam bilik air; Bill pun.
+\g       Ali shave self-3psg at inside bathroom Bill also
+\l Ali shaved himself/him in the bathroom. Bill did so too.
+
+\t (21) Aminah nampak dirinya di dalam cermin.
+\m (21) Aminah nampak dirinya di dalam cermin.
+\g       Aminah saw          self.3ps in inside mirror
+\l Aminah saw herself in the mirror.
+
+\t (24) Aminah nampak ibunya.
+\m (24) Aminah nampak ibu-nya.
+\g      Aminah saw     mother-3ps
+\l Aminah saw her mother.
+
+\t (16) John nampak dirinya di dalam cermin; Frank pun.
+\m (16) John nampak dirinya di dalam cermin; Frank pun.
+\g        John see self-3psg at inside mirror Frank also
+\l John saw himself/him in the mirror and Frank did too .
+
+\t (17) Ali cukur dirinya di dalam bilik air; Bill pun.
+\m (17) Ali cukur dirinya di dalam bilik air; Bill pun.
+\g        Ali shave self-3psg at inside bathroom Bill also
+\l Ali shaved himself/him in the bathroom. Bill did so too.
+
+\t (i) Saya nampaknya.
+\m (i) Saya nampak-nya.
+\g      I    see-3ps
+\l I saw him/her/it.
+
+\t Saya benci dia.
+\m Saya benci dia.
+\g     I        hate     he/she
+\l I hate him/her.
+
+\t Dia        benci           saya.
+\m Dia        benci           saya.
+\g he/she     hate            I
+\l He/she hates me.
+
+\t Ali marah.
+\m Ali marah.
+\g Ali      angry
+\l Ali is angry.
+
+\t Damsir beli celana      sama si    Man       sudah bulubulu.
+\m Damsir beli celana      sama si    Man       sudah bulu-bulu.
+\g Damsir buy trousers SAMA PERS Mansudir PFCT         DISTR~feather
+\l The trousers that Damsir bought with Mansudir are already all frayed.
+
+\t Doni sama Amat mau            ditumbuk dia.
+\m Doni sama Amat mau            di-tumbuk dia.
+\g Doni SAMA Amat want PAT-hit             3
+\l He wants to hit Doni and Amat.
+
+\t b     Mariam      memukul      doktor   itukah       tadi?
+\m b     Mariam      memukul      doktor   itukah       tadi?
+\g       Mariam      meN.beat     doctor   that.kah     just now
+\l Was it the doctor that Mariam beat just now?
+
+\t Mariam       memukul     doktor    itu    tadikah?
+\m Mariam       memukul     doktor    itu    tadikah?
+\g Mariam       meN.beat doctor       that   just now.kah
+\l Was it just now that Mariam beat the doctor?
+
+\t Ali sudah membaca               buku       itu
+\m Ali sudah membaca               buku       itu
+\g Ali PERF        meN.read        book       that
+\l Ali has read the book.
+
+\t Buku    itu    sudah dibaca              Ali
+\m Buku    itu    sudah dibaca              Ali
+\g book that PERF         di.read           Al i
+\l The book has been read by Ali.
+
+\t Saya sudah baca              buku      itu
+\m Saya sudah baca              buku      itu
+\g 1SG      PERF    read        book      that
+\l I have read the book.
+
+\t Buku    itu     sudah saya            baca
+\m Buku    itu     sudah saya            baca
+\g book that PERF           1SG          read
+\l The book, I have read.
+
+\t Bisa  kami          terbangkan   layangan              itu
+\m Bisa  kami          terbangkan   layangan              itu
+\g able 1PL.EXCL       fly          kite                  that
+\l We can fly the kite
+
+\t Buku   itu      saya     sudah     baca
+\m Buku   itu      saya     sudah     baca
+\g book that 1SG            PAST      read
+\l The book, I read.
+
+\t perempuan kepada siapa Ali beri            ubi kentang                 itu
+\m perempuan kepada siapa Ali beri            ubi kentang                 itu
+\g woman         to        w ho    Ali give potato                        that
+\l the woman to whom Ali gave the potato
+
+\t Ali bunuh ayam              yang Aminah sedang memakan
+\m Ali bunuh ayam              yang Aminah sedang memakan
+\g Ali       kill      chicken REL        Aminah PROG          AS.eat
+\l Ali killed the chicken that Aminah is eating.
+
+\t (41) Saya memujuk Fatimah yang Ali suka padanya.
+\m (41) Saya memujuk Fatimah yang Ali suka padanya.
+\g      I persuaded Fatimah that Ali like to   him.
+\l I persuaded Fatimah that Ali likes him  .
+
+\t (42) Saya tahu yang dia bercakap benar.
+\m (42) Saya tahu yang dia bercakap benar.
+\g       I    know that he    speak   truth.
+\l I know that he is speaking the truth.
+
+\t (44) *Siapakah yang Bill tahu bahawa Ali cintai t?
+\m (44) *Siapakah yang Bill tahu bahawa Ali cintai t?
+\g           Who     that Bill know that Ali love
+\l Who does Bill know that Ali loves?
+
+\t (45) Siapakah yang Bill tahu yang Ali cintai t?
+\m (45) Siapakah yang Bill tahu yang Ali cintai t?
+\g       Who     that Bill know that Ali love
+\l Who does Bill know that Ali loves ?
+
+\t a.Siapai (yang) Bill (*mem)beritahu ibunya [yang ti menyintai Fatimah]?
+\m a.Siapai (yang) Bill (*mem)-beritahu ibunya [yang ti men-yintai Fatimah]?
+\g   who that     Bill meN-tell      mother his that     meN-love Fatimah
+\l Who does Bill tell his mother that loves Fatimah?
+
+\t b. Siapa (yang) Ali (*mem)buktikan [yang t mencuri       kereta]?
+\m b. Siapa (yang) Ali (*mem)-buktikan [yang t men-curi       kereta]?
+\g    who that Ali meN-prove               that   meN-steal   car
+\l Who did Ali prove stole the car?
+
+\t (6) Ahmadi tahu Salmahj akan membeli baju       untuk diri     nyai/j.10
+\m (6) Ahmadi tahu Salmahj akan membeli baju       untuk diri-     nyai/j.10
+\g     Ahmad   know Salmah     will buy     clothes for   self-3SG
+\l Ahmad knows Salmah will buy clothes for him/herself.
+
+\t dirinyai,j.
+\m dirinyai,j.
+\g      Ali    tell            Fatimah       that you   like       self.3SG
+\l Ali told Fatimah that you like him/her.
+
+\t Sitii mengingatkan Mohamedj yang saya tahu dirinyai,j.               seorang    penjenayah.
+\m Sitii mengingatkan Mohamedj yang saya tahu dirinyai,j.               seorang    penjenayah.
+\g Siti     remind          Mohamed      that I      know self.3SG      one        criminal   
+\l Siti reminded Mohamed that I know he/she is a criminal.
+
+\t (14) Aminahi tahu saya memberi Sitij buku tentang                 dirinyai/j/k.
+\m (14) Aminahi tahu saya memberi Sitij buku tentang                 dirinyai/j/k.
+\g      Aminah     know I   give        Siti   book about   self.3SG
+\l Aminah knew I gave Siti a book about her/herself.
+
+\t [Ali dan Siti]i memberitahu saya yang [Mohamed dan           Fatimah]j menulis rencana tentang diri merekai/j/k.
+\m [Ali dan Siti]i memberitahu saya yang [Mohamed dan           Fatimah]j menulis rencana tentang diri merekai/j/k.
+\g    Ali and Siti     tell        me   that   Mohamed and      Fatimah     write    article about   self they     
+\l Ali and Fatimah told me that Mohamed and Fatimah wrote        an article about them/themselves.
+
+\t Fatimahi tahu Alij mengajar diai,*j,k.
+\m Fatimahi tahu Alij mengajar diai,*j,k.
+\g Fatimah     know Ali   teach    he/she
+\l Fatimah knows Ali saw him/her.
+
+\t [Bapa     Alij]i nampak    dia*i,j,k.
+\m [Bapa     Alij]i nampak    dia*i,j,k.
+\g father    Ali    see       he/she
+\l Ali's father saw him/her.
+
+\t Budak lelakii itu      nampak dirinya       sendirii,*j.
+\m Budak lelakii itu      nampak dirinya       sendirii,*j.
+\g child boy       that see         self.3SG   alone
+\l That boy saw himself.
+
+\t Fatimahi tahu Alij mengajar          dirinya     sendiri*i,j.
+\m Fatimahi tahu Alij mengajar          dirinya     sendiri*i,j.
+\g Fatimah     know Ali   is.teaching self.3SG         alone
+\l Fatimah knows that Ali is teaching himself.
+
+\t (22) [Ibu   Alij]i telah      menyiram   air   di dirinya sendirii,
+\m (22) [Ibu   Alij]i telah      menyiram   air   di dirinya sendirii,
+\g .mother Ali    already   splash     water on self.3SG alone
+\l Ali's mother splashed water onto herself.
+
+\t [NP Bapa      Sitii]j tidak     suka dirinya sendiri*i/j/*k.
+\m [NP Bapa      Sitii]j tidak     suka dirinya sendiri*i/j/*k.
+\g        father Siti      not    like   self.3SG      alone
+\l Siti's father does not like himself.
+
+\t (25)   [NP Ibu    Alii]j telah     mengenalkan dirinya          sendiri*i/j/*k                          kepada kawankawan saya.
+\m (25)   [NP Ibu    Alii]j telah     mengenalkan dirinya          sendiri*i/j/*k                          kepada kawan-kawan saya.
+\g             mother Ali    already introduce   self.3SG    alone        to       friends       my
+\l Ali's mother has introduced herself to my friends.
+
+\t [Bapa   Alij]i nampak dia*i/j/k.
+\m [Bapa   Alij]i nampak dia*i/j/k.
+\g  father Ali       see        he
+\l Ali's father saw him.
+
+\t [Ibu       Alij]i telah           mengenalkan dia*i/j/k      kepada kawankawan saya.  
+\m [Ibu       Alij]i telah           mengenalkan dia*i/j/k      kepada kawan-kawan saya.  
+\g  mother Ali      already          introduce    he            to      friends         my
+\l Ali's mother has introduced him to my friends.
+
+\t [NP Bapa      Sitij]i tidak suka          dirinyai/j/k.
+\m [NP Bapa      Sitij]i tidak suka          dirinyai/j/k.
+\g      father   Siti      not        like   self.3SG
+\l Siti's father does not like her/himself/him.
+
+\t [NP Ibu       Alij]i   telah        mengenalkan dirinyai/j/k      kepada kawankawan saya.  
+\m [NP Ibu       Alij]i   telah        mengenalkan dirinyai/j/k      kepada kawan-kawan saya.  
+\g      mother   Ali      already introduce        self.3SG          to        friends       my
+\l Ali's mother has introduced him/herself/her to my friends.
+
+\t Sayai tahu Salmahj akan      membeli baju      untuk   dirinyai.
+\m Sayai tahu Salmahj akan      membeli baju      untuk   diri-nyai.
+\g    I    know Salmah   will    buy       clothes for     self-3SG
+\l I know Salmah will buy clothes for him/herself.
+
+\t Ali nampak sendiri.
+\m Ali nampak sendiri.
+\g  Ali see      alone
+\l Ali sees himself.
+
+\t Dia cuba membunuh              diri (sendiri).
+\m Dia cuba membunuh              diri (sendiri).
+\g he   try   TRANSITIVE.kill    self (alone)
+\l He tried to kill himself.
+
+\t Dia nampak diri (sendiri).
+\m Dia nampak diri (sendiri).
+\g he   see      self     (alone)
+\l He saw himself.
+
+\t Saya bercukur.
+\m Saya bercukur.
+\g    I      INTRANSITIVE.shave
+\l I shaved myself.
+
+\t Saya      hias      bilik     ini      dengan bunga
+\m Saya      hias      bilik     ini      dengan bunga
+\g I         decorate room       this     with     flowers
+\l I decorated the room with flowers.
+
+\t Saya      hias      bunga       dalam           bilik     ini
+\m Saya      hias      bunga       dalam           bilik     ini
+\g      I         decorate flowers inside               room      this
+\l I decorated flowers inside the room.
+
+\t Ali memberitahu kamu tadi             [Fatimah membaca apa] ?
+\m Ali memberitahu kamu tadi             [Fatimah membaca apa] ?
+\g Ali tell.PAST        you     just now Fatimah read          what
+\l What did Ali tell you just now Fatimah was reading?
+
+\t Ali memberitahu kamu tadi              [apa (yang) Fatimah baca] ?
+\m Ali memberitahu kamu tadi              [apa (yang) Fatimah baca] ?
+\g Ali tell.PAST         you just now what that Fatimah read
+\l What did Ali tell you just now (that) Fatimah was reading?
+
+\t Dia mahu sama macam / dengan saya.
+\m Dia mahu sama macam / dengan saya.
+\g     3   SG   want   same like          with     me
+\l He wants the same as me.
+
+\t Ali memberitahu kamu tadi             [Fatimah membaca apa] ?
+\m Ali memberitahu kamu tadi             [Fatimah membaca apa] ?
+\g Ali tell.PAST        you     just now Fatimah read          what
+\l What did Ali tell you just now Fatimah was reading?
+
+\t Ali memberitahu kamu tadi              [apa (yang) Fatimah baca] ?
+\m Ali memberitahu kamu tadi              [apa (yang) Fatimah baca] ?
+\g Ali tell.PAST         you just now what that Fatimah read
+\l What did Ali tell you just now (that) Fatimah was reading?
+
+\t Kamu aturkan buku yang mana tanpa baca?
+\m Kamu aturkan buku yang mana tanpa baca?
+\g  you filed book that which without reading
+\l Which book did you file without reading?
+
+\t John percaya yang Mary pergi ke Singapura.
+\m John percaya yang Mary pergi ke Singapura.
+\g John believe COMP Mary go to Singapore
+\l John believed that Mary went to Singapore.
+
+\t Sapa/siapa makan ayam?
+\m Sapa/siapa makan ayam?
+\g who        eat    chicken
+\l Who ate the chicken?
+
+\t  Le   kih m    kih Pakiah?
+\m  Le   kih m    kih Pakiah?
+\g you go not go     Beijing
+\l Are you going to Beijing?
+
+\t  Kih.
+\m  Kih.
+\g go
+\l Yes.
+
+\t Ahmad tahuy    Salmah akan membeli baju    untik dirinya.
+\m Ahmad tahuy    Salmah akan membeli baju    untik diri-nya.
+\g Ahmad know     Salmah will buy     clothes for    self-S3
+\l Ahmad knows    Salmah will buy clothes for him.
+
+\t (b)    Pada masa sebelum ini, aku buat sesuatu yang buruk.
+\m (b)    Pada masa sebelum ini, aku buat sesuatu yang buruk.
+\g        at   time before this I    do something LIG bad
+\l (a)    At some time before this, I did something bad.
+
+\t        yang buruk pasal aku.
+\m        yang buruk pasal aku.
+\g        LIG bad    about me
+\l (a)    If I do this, people will think something bad about me.
+
+\t Kamu aturkan buku yang mana tanpa           baca?
+\m Kamu aturkan buku yang mana tanpa           baca?
+\g     you   filed   book that which without reading
+\l Which book did you file without reading?
+
+\t Kamu aturkan buku yang mana tanpa baca?
+\m Kamu aturkan buku yang mana tanpa baca?
+\g  you filed book that which without reading
+\l Which book did you file without reading?
+
+\t adalah dua tiga pondok kechilkechil bersamasama dekat rumah Temenggong
+\m adalah dua tiga pondok kechil-kechil bersama-sama dekat rumah Temenggong
+\g be     23      hut    small small together         near house Temenggong
+\l There were two or three small huts close together near Temenggong's house.
+
+\t adalah dua tiga pondok kechilkechil bersamasama dekat rumah Temenggong
+\m adalah dua tiga pondok kechil-kechil bersama-sama dekat rumah Temenggong
+\g be     23       hut    small small together          near house Temenggong
+\l There were two or three small huts close together near Temenggong's house.
+
+\t Dia beli kereta baru.
+\m Dia beli kereta baru.
+\g 3SG buy car            new
+\l He/she bought a new car.
+
+\t Dia belikan         saya     kereta baru.
+\m Dia beli-kan         saya     kereta baru.
+\g 3SG buy-APPL 1SG              car     new
+\l He bought me a new car.
+
+\t Bilek itu besar.
+\m Bilek itu besar.
+\g room the large
+\l The room is large.
+
+\t Dia besarkan          bilek   itu.
+\m Dia besar-kan          bilek   itu.
+\g 3SG large-CAUS room             the
+\l He/she enlarged the room.
+
+\t Aku          buat      budak (i)tu lari dua batu.
+\m Aku          buat      budak (i)tu lari dua batu.
+\g 1st:SG make/do child             the run two mile
+\l I made the child run two miles.
+
+\t Aku          bagi budak (i)tu lari dua        batu.
+\m Aku          bagi budak (i)tu lari dua        batu.
+\g 1st:SG give child             the run two     mile
+\l I had/let the child run two miles.
+
+\t mister            sendiri yang   kasi
+\m mister            sendiri yang   kasi
+\g  white.person INT         REL    give
+\l ,You yourself gave them to me.
+
+\t saya tembak sendiri
+\m saya tembak sendiri
+\g  I      shot      REFL
+\l I shot myself.
+
+\t Kenapa David tak     kasi ikan sama dia.
+\m Kenapa David tak     kasi ikan sama dia.
+\g   why              David     NEG         give        fish        with         him/her
+\l Why didn't you (David) give her the fish?
+
+\t Ali    menyuruh    Mariam     [_ memukul                  doktor          itu]
+\m Ali    menyuruh    Mariam     [_ memukul                  doktor          itu]
+\g Ali    meN.ask     Mariam     [_ meN.beat                 doctor         that]
+\l Ali asked Mariam to beat the doctor
+
+\t Ali     menyuruh    doktor    itu    [_ dipukul                  oleh      Mariam]
+\m Ali     menyuruh    doktor    itu    [_ dipukul                  oleh      Mariam]
+\g Ali     meN.ask     doctor    that   [_ di.beat                  by        Mariam]
+\l Ali asked the doctor to be beaten by Mariam
+
+\t Ali    menyuruh     doktor     itu   [_ saya   periksa]
+\m Ali    menyuruh     doktor     itu   [_ saya   periksa]
+\g Ali    meN.ask      doctor     that  [_ 1SG    examine]
+\l Ali asked the doctor to be examined by me
+
+\t b     Mariam      memukul      doktor   itukah       tadi?
+\m b     Mariam      memukul      doktor   itukah       tadi?
+\g       Mariam      meN.beat     doctor   that.kah     just now
+\l Was it the doctor that Mariam beat just now?
+
+\t Mariam       memukul     doktor    itu    tadikah?
+\m Mariam       memukul     doktor    itu    tadikah?
+\g Mariam       meN.beat doctor       that   just now.kah
+\l Was it just now that Mariam beat the doctor?
+
+\t perempuan kepada siapa Ali beri            ubi kentang                 itu
+\m perempuan kepada siapa Ali beri            ubi kentang                 itu
+\g woman         to        w ho    Ali give potato                        that
+\l the woman to whom Ali gave the potato
+
+\t Ali bunuh ayam              yang Aminah sedang memakan
+\m Ali bunuh ayam              yang Aminah sedang memakan
+\g Ali       kill      chicken REL        Aminah PROG          AS.eat
+\l Ali killed the chicken that Aminah is eating.
+
+\t saya      berjalan
+\m saya      berjalan
+\g 1SG(.NOM) walk
+\l I am walking.
+
+\t [pria        itu ]     berjalan
+\m [pria        itu ]     berjalan
+\g  man         the (NOM) walk
+\l The man is walking.
+
+\t sayai     meimandikan           [pria    itu ]
+\m sayai     mei-mandi-kan           [pria    itu ]
+\g 1SG(.NOM) A-wash-APPL              man     the (.ACC)
+\l I am washing the man
+
+\t [pria        itu ]i    meimandikan              saya
+\m [pria        itu ]i    mei-mandi-kan              saya
+\g  man         the (NOM) A-wash-APPL                1SG(.ACC)
+\l The man is washing me.
+
+\t Tuk      terfikir,      Nit sampai hati.
+\m Tuk      terfikir,      Nit sampai hati.
+\g Tuk      TER:think      Nit reach     heart
+\l It struck Tuk that Nit had gone too far (this time).
+

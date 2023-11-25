@@ -1,0 +1,115 @@
+\t Ali eteguhagi abakna poqloda.
+\m Ali e-teguh-agi abakna poqlod-a.
+\g Ali OV-see-APP 3            pencil-DEF
+\l (s)he showed Ali the pencil.
+
+\t (86c ) Ali    biq    Hasan saleng pokol.
+\m (86c ) Ali    biq    Hasan saleng pokol.
+\g     A         and    H       RECIP hit
+\l Ali and Hasan hit each other.
+
+\t (86d) Siti    biq    Marlena        loq     saleng nob iq            kanaq jhuwa.
+\m (86d) Siti    biq    Marlena        loq     saleng nob iq            kanaq jhuwa.
+\g     S         and    M              not     DIST AV:pinch            child that
+\l Siti and Merlena did not pinch the child.
+
+\t (86e) Siti     biq     Marlena        saleng loq      nob iq         kanaq jhuwa.
+\m (86e) Siti     biq     Marlena        saleng loq      nob iq         kanaq jhuwa.
+\g     S          and     M              DIST not        AV:pinch       child that
+\l Siti and Merlena did not pinch the child.
+
+\t Siti    biq    Marlena        loq    saleng tob iq.
+\m Siti    biq    Marlena        loq    saleng tob iq.
+\g S       and    M              not    DIST pinch
+\l Siti and Merlena did not pinch each other.
+
+\t Siti biq      Marlena        saleng loq     tob iq.
+\m Siti biq      Marlena        saleng loq     tob iq.
+\g S       and    M              DIST not       pinch
+\l Siti and Merlena did not pinch each other.
+
+\t Hasan kolmokol(an)          Ali.
+\m Hasan kol-mokol-(an)          Ali.
+\g Hasan REDUP-hit-AN            Ali
+\l Hasan hit Ali several times.
+
+\t Ali    biq    Hasan          buktambukan         bato.
+\m Ali    biq    Hasan          buk-tambuk-an         bato.
+\g A      and    H              REDUP-throw-AN stone
+\l Ali and Hasan threw the stones at each other.
+
+\t Ali    biq    Hasan          atemo                    d`aq taman
+\m Ali    biq    Hasan          a-temo                    d`aq taman
+\g A      and    H              Act.Voice-meet            LOC park
+\l Ali and Hasan met in the park (once).
+
+\t Ali    biq    Hasan          motemoan           d`aq taman
+\m Ali    biq    Hasan          mo-temo-an           d`aq taman
+\g A      and    H              REDUP-meet-AN        LOC park
+\l Ali and Hasan met in the park (more than once).
+
+\t Ali biq Hasan      saleng tambuk bato
+\m Ali biq Hasan      saleng tambuk bato
+\g A and H                      throw      stone
+\l Ali and Hasan threw the stones at each other.
+
+\t Bambang biq Ita saleng ngakan
+\m Bambang biq Ita saleng ngakan
+\g B       and I               AV.eat
+\l Bambang and Ita both ate.
+
+\t Ali biq Hasan saleng tambuk bato
+\m Ali biq Hasan saleng tambuk bato
+\g   A and H                 throw stone
+\l Ali and Hasan threw the stones at each other.
+
+\t Bambang biq Ita saleng ngakan
+\m Bambang biq Ita saleng ngakan
+\g   B         and I         AV.eat
+\l Bambang and Ita both ate.
+
+\t Siti ngera           Hasan       [bari' melle motor].
+\m Siti ngera           Hasan       [bari' melle motor].
+\g S AV.think          H           yesterday AV.buy car
+\l Yesterday Siti thought Hasan bought a car.
+
+\t Hasan          ekera      Siti bari'        [(ja') aba'engi melle motor].
+\m Hasan          e-kera      Siti bari'        [(ja') aba'engi melle motor].
+\g H              OV-think    S     yesterday COMP he            AV.buy car
+\l Siti thought yesterday (that) Hasan bought a car.
+
+\t Ita      abukteagi ja' Hasan           ngeco'      sapedha motor.
+\m Ita      a-bukteagi ja' Hasan           ngeco'      sapedha motor.
+\g I        AV-prove COMP H                AV.steal    motorcycle
+\l Ita proved that Hasan stole the motorcycle.
+
+\t Ita      abukteagi Hasan        ja' ngeco'         sapedha motor.
+\m Ita      a-bukteagi Hasan        ja' ngeco'         sapedha motor.
+\g I        AV-prove H              COMP AV.steal      motorcycle
+\l Ita proved Hasan stole the motorcycle.
+
+\t Siti ngera           parkara     Hasan       ja'    epareksa         dokter juwa
+\m Siti ngera           parkara     Hasan       ja'    e-pareksa         dokter juwa
+\g Siti AV.think about              H           COMP OV-examine doctor          that
+\l Siti thinks about Hasan that that doctor examined him.
+
+\t Siti ngera           Hasan       ja' dokter juwa mareksa               ana'eng.
+\m Siti ngera           Hasan       ja' dokter juwa mareksa               ana'-eng.
+\g S        AV.think    H           COMP doctor that AV.examine           child-DEF
+\l Siti thinks that the doctor examined Hasan's child.
+
+\t Siti ngera           bari'       ja'         nase' la                 daddi tajjin.
+\m Siti ngera           bari'       ja'         nase' la                 daddi tajjin.
+\g S        AV.think    yesterday COMP          rice already become porridge
+\l Siti thought yesterday that it is too late to do anything about it.
+
+\t Siti ngera           nase' bari'        ja' la         daddi tajjin.
+\m Siti ngera           nase' bari'        ja' la         daddi tajjin.
+\g S        AV.think    rice yesterday COMP already become               porridge
+\l Siti thought about the rice yesterday that it had become porridge.
+
+\t Hasan ngera       Bambangi ja' Marlena ngerem paket          dha' Alibi' aba'engi.
+\m Hasan ngera       Bambangi ja' Marlena ngerem paket          dha' Alibi' aba'engi.
+\g H        AV.think B          COMP M          AV.send package to    A and him
+\l Hasan thought about Bambang that Marlena sent a package to Ali and him.
+

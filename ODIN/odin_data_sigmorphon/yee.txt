@@ -1,0 +1,480 @@
+\t al               pun krat.
+\m al               pu-n- kra-t.
+\g machete (V.sg) 3plN-3sgE-cut-PERF
+\l The machete cut them
+
+\t impakulcay.
+\m impa-kul-cay.
+\g 3dlN-2dlA-see
+\l They two saw you two
+
+\t ura              kmpu atkamt
+\m ura              k-mpu- a-tkam-t
+\g coconut.VIsg     VIsg-3plE-1sgA-show-PERF
+\l They showed me the coconut
+
+\t kka tkamtuk              nakn.
+\m k-ka- tkam-tuk-              nakn.
+\g VIsg-1sgE-show-REMOTE.PAST-3sgD
+\l I showed him (the coconut) long ago
+
+\t irpm                 mukultkamt.
+\m irpm                 mu-kul-tkam-t.
+\g coconut palm.IVsg IVsg-2dlA-show-PERF
+\l (I) showed you two a coconut palm
+
+\t ura           kka   tkamrmpun
+\m ura           k-ka-   tkam-r-mpun
+\g coconut.VIsg VIsg-1sgE- show-PERF-3plD
+\l I showed them the coconut
+
+\t ura           kmpu atkamt
+\m ura           k-mpu- a-tkam-t
+\g coconut.VIsg VIsg-3plE- 1sgA-show-PERF
+\l They showed me the coconut
+
+\t ipwa ura              ka    tkamt                 (*knan   atkamt)
+\m ipwa ura              k-a-    tkam-t                 (*k-nan-   a-tkam-t)
+\g 2pl    coconut.VIsg VIsg-1sgA- show-PERF                 VIsg-2plE-1sgA-show-PERF
+\l You(pl) showed me the coconut
+
+\t ura            kmpantkamt                       (*kka nantkamt)
+\m ura            k-mpan-tkam-t                       (*k-ka- nan-tkam-t)
+\g coconut.VIsg VIsg-1E/2sgA- show-PERF                     VIsg-1sgE-2sgA-show-PERF
+\l I showed you(sg) the coconut
+
+\t kampu      atputn
+\m ka-mpu-      a-tput-n
+\g LIKE-3plE- 1sgA-hit- PRES
+\l They are going to hit me
+
+\t pakratpulc kt
+\m pa-kra-tpul-c- kt
+\g  2pcN-1plA-hit-perf-pc
+\l You few hit
+
+\t pakratpulc kt
+\m pa-kra-tpul-c- kt
+\g 2pcN-1dlA-hit-perf-pc
+\l You few hit us two
+
+\t kapwaNkra tay
+\m kapwa-Nkra- tay
+\g     2DL-ABS 1DL-ACC see
+\l You two saw us two.'                                                                                         incorporation exempts a noun from the Case Filter. On this account, multiple
+
+\t a.kampu Natputn
+\m a.ka-mpu- Na-tput-n
+\g         likely 3PL-ERG 1SG-ACC hit     PRES
+\l They are going to hit me.
+
+\t kampu      ÷atputn
+\m ka-mpu-      ÷a-tput-n
+\g likely 3pl-Erg 1sg-Acc hit        pres
+\l They are going to hit me
+
+\t tanan     warum
+\m ta-nan-     wa-r-um
+\g NEG              2pl-Nom go perf                PLUR
+\l You all didn't go
+
+\t ipa      kampantay
+\m ipa      kampan-tay
+\g 1pl     1/2sg-Acc see                                                                                                               Neg
+\l We saw you.
+
+\t ipa tampan       tpulØ                                                                                                        Nom
+\m ipa ta-mpan-       tpul-Ø                                                                                                        Nom
+\g 1pl Neg 1/2sg-Acc hit SG
+\l We didn't hit you two.'                                                                                                          no blocking
+
+\t pun     tay
+\m pu-n-     tay
+\g 3pl-Abs 3sg-Erg see
+\l He saw them.
+
+\t puwat
+\m pu-wa-t
+\g 3pl-Abs go Perf
+\l They went.
+
+\t namputay
+\m na-mpu-tay
+\g 3sg-Abs 3pl-Erg see
+\l They saw him.
+
+\t nan          tay
+\m na-n-          tay
+\g 3sg-Abs 2sg-Nom see
+\l You saw him.
+
+\t paNkrawat
+\m paNkra-wa-t
+\g 2pc-Abs go Perf
+\l You few (paucal2) went.
+
+\t maNa      tay
+\m ma-Na-      tay
+\g 2sg-Abs 1sg-Acc see
+\l You saw me.
+
+\t pun    tay
+\m pu-n-    tay
+\g 3pl-Abs 3sg-Erg see
+\l He saw them.
+
+\t nanan  tay
+\m na-nan-  tay
+\g 3sg-Abs 2sg-Acc see
+\l He saw you.
+
+\t tananwarum
+\m ta-nan-wa-r-um
+\g Neg 2pl-Nom go Perf PL
+\l You all didn't go.
+
+\t kampuNa           tputn
+\m ka-mpu-Na-           tput-n
+\g LIKE 3pl-Erg 1sg-Acc hit Pres
+\l They are going to hit me.
+
+\t tapun      tpulcum
+\m ta-pu-n-      tpul-c-um
+\g Neg 3Abs 4 3sg-Erg hit Perf PL
+\l He didn't hit them.
+
+\t balus^an        kaNklyakaarmn
+\m balus-^an        ka-Nkl-ya-ka-arm-n
+\g airplane-Obl6    LIKE 3pl-Erg come Seq board Pres
+\l Those few will board the plane now.
+
+\t tampu tpulcrm
+\m ta-mpu- tpul-c-rm
+\g Neg 3pl-Erg hit Perf DL
+\l They didn't hit those two.
+
+\t tapu nantpulcrm
+\m ta-pu- nan-tpul-c-rm
+\g Neg 3Erg 2pl-Acc see Perf DL
+\l Those two didn't hit you.
+
+\t ipa   tampan        tpulØ
+\m ipa   ta-mpan-        tpul-Ø
+\g 1pl    Neg 1ag/2sg-Acc hit SG
+\l We didn't hit you.
+
+\t nawn    pun         tpul
+\m nawn    pu-n-         tpul
+\g who-sg 3pl-Abs      3sg-Erg    hit
+\l Who hit them?
+
+\t nawn      pun    tpul
+\m nawn      pu-n-    tpul
+\g who-sg 3pl-Abs 3sg-Erg hit
+\l Who hit them?
+
+\t kampuNa         tputn
+\m ka-mpu-Na-         tput-n
+\g LIKE 3PL-ERG 1SG-ACC hit PRES
+\l They are going      to hit me.
+
+\t NarN                  kan        wakiak
+\m NarN                  ka-n-        wa-kia-k
+\g 1-day-removed        LIKE 2 SG-NOM go N RF UT IRR
+\l It is likely that   you will go tomorrow.
+
+\t kapwaNkra      tay
+\m kapwa-Nkra-      tay
+\g 2DL-ABS 1DL-ACC see
+\l You two saw us two.
+
+\t taka        wat
+\m ta-ka-        wa-t
+\g NEG 1SG-NOM go PERF
+\l I didn't go.
+
+\t puka       tay
+\m pu-ka-       tay
+\g 3PL-ABS 1SG-NOM see
+\l I saw them.
+
+\t pun     tay
+\m pu-n-     tay
+\g 3PL-ABS 3SG-ERG see
+\l He saw them.
+
+\t kampu        Natputn
+\m ka-mpu-        Na-tput-n
+\g likely 3 PL-ERG 1SG-ACC hit PRES
+\l They are going to hit me.
+
+\t puNa     tay
+\m pu-Na-     tay
+\g 3PL-ABS 1SG-ACC see
+\l They saw me.
+
+\t Fa totou faiaoga e tau tohi
+\m Fa totou faiaoga e tau tohi
+\g   HAB-read-teacher ABS-PL-book
+\l Teachers often read books.
+
+\t nampi         tpul
+\m na-mpi-         tpul
+\g 3SG-ABS 3DL-ERG          hit
+\l Those two hit him.
+
+\t taØ             mpitpulcak
+\m ta-Ø             mpi-tpul-c-ak
+\g NEG Ø3SG-ABS       3 DL-ERG hit     PERF SING
+\l Those two didn't hit him.
+
+\t kampu         Natputn
+\m ka-mpu-         Na-tput-n
+\g likely 3PL-ERG 1SG-ACC hit          PRES
+\l They are going to hit me.
+
+\t taØ               Nataycum
+\m ta-Ø               Na-tay-c-um
+\g NEG    Ø3PL-ERG 1 SG-ACC            see  PERF         PLUR
+\l They didn't see me.
+
+\t kanan             wakiak
+\m ka-nan-             wa-kia-k
+\g likely               2 PL-NOM         go N RF UT IRR
+\l You all will probably go.
+
+\t tanan             warum
+\m ta-nan-             wa-r-um
+\g NEG             2 PL-NOM go                PERF        PLUR
+\l You all didn't go.
+
+\t ipa    kampantay
+\m ipa    kampan-tay
+\g 1PL 1/2SG-ACC see
+\l We saw you.
+
+\t ipa tampan            tpulØ
+\m ipa ta-mpan-            tpul-Ø
+\g 1PL NEG 1/2SG-ACC hit SG
+\l We didn't hit you all.
+
+\t ipwakra     tay
+\m ipwa-kra-     tay
+\g 2PL-ABS 1PL-ACC see
+\l You all saw us.
+
+\t taØ           kratpulcum
+\m ta-Ø-           kra-tpul-c-um
+\g NEG Ø2 PL-ABS 1 PL-ACC hit PERF PL
+\l You all didn't hit us.
+
+\t nawrm nampi   tpul?
+\m nawrm na-mpi-   tpul?
+\g who-DL 3SG-ABS 3DL-ERG hit
+\l Who hit him?
+
+\t pakrakaykaykaykwalcampikulanatalkiantukt.
+\m pakra-kaykaykay-kwalca-mpi-kulana-tal-kia-ntu-kt.
+\g   1PAUC.S-quickly-rise-SEQ-walk-start-at.night-REM.PT-PAUC
+\l We few got up at night and quickly started to walk.
+
+\t pakt kulcpul(*kt)
+\m pakt kul-cpul(*-kt)
+\g   1PAUC 2DU.P-hit(*-PAUC)
+\l We few hit you two.
+
+\t punan tay
+\m pu-nan- tay
+\g 3pl.abs 2sg.acc see
+\l They saw you.
+
+\t pun      tay
+\m pu-n-      tay
+\g 3pl.abs 3sg.erg see
+\l He saw them.
+
+\t nawm       mkul   cpulum?
+\m nawm       m-kul-   cpul-um?
+\g who-pl Comp        2pl-Acc hit PLUR
+\l Who hit you all?
+
+\t nawrm     nampitpul?
+\m nawrm     na-mpi-tpul?
+\g who-dual 3sg-Abs 3dual-Erg hit
+\l Which two people hit him?
+
+\t wara ipanaamn
+\m wara ipa-na-am-n
+\g what 1pl-DEF-eat-PRES
+\l What are we going to eat?
+
+\t naw~kt putpul
+\m naw~kt pu-tpul
+\g who-pc 3pl-hit
+\l Who (paucal) did they (plural) hit?
+
+\t (19a) Nakaycay.
+\m (19a) Na-kay-cay.
+\g     3sgO-1plA-see
+\l We saw him.
+
+\t (19b) Ipat^tpul.
+\m (19b) Ipa-t^-tpul.
+\g     1plS-RECIP-hit
+\l We hit each other.
+
+\t  Piakayc^ikiak.
+\m  Pia-kay-c^-i-kia-k.
+\g talkTHEME-1plA-RECIP-tell-NIGHT-IRR
+\l We tell each other.
+
+\t nawm       mØ        kulcpulum?
+\m nawm       m-Ø-        kul-cpul-um?
+\g who-pl Comp Ø3pl-Erg 2pl-Acc hit PLUR
+\l Who hit you all?
+
+\t nawn         Ø impatpul?
+\m nawn         Ø impa-tpul?
+\g who-sg      Ø 3dl-Abs hit
+\l Who did those two hit?
+
+\t nawrm nampitpul?
+\m nawrm na-mpi-tpul?
+\g who-dl 3sg-Abs 3dl-Erg hit
+\l Who hit him?
+
+\t pukatay
+\m pu-ka-tay
+\g 3PL.O-1SG.A-see
+\l I saw them.
+
+\t puatay
+\m pu-a-tay
+\g 3PL.A-1SG.O-see
+\l They saw me.
+
+\t payum narmaN        namputay
+\m payum narmaN        na-mpu-tay
+\g man-PL woman-SG 3SG-3PL-see
+\l The men saw the woman.
+
+\t payum narmaN        puntay
+\m payum narmaN        pu-n-tay
+\g man-PL woman-SG 3PL-3SG-see
+\l The woman saw the men.
+
+\t (70) nabuwulcayprakiak
+\m (70) na-bu-wul-cay-pra-kiak
+\g 3sgO-3sgS-afraid-try.to.make-come-remote.past
+\l They tried to make him afraid as he came
+
+\t (19a) Nakaycay.
+\m (19a) Na-kay-cay.
+\g     3sgO-1plA-see
+\l We saw him.
+
+\t (19b) Ipat^tpul.
+\m (19b) Ipa-t^-tpul.
+\g     1plS-RECIP-hit
+\l We hit each other.
+
+\t  Piakayc^ikiak.
+\m  Pia-kay-c^-i-kia-k.
+\g talkTHEME-1plA-RECIP-tell-NIGHT-IRR
+\l We tell each other.
+
+\t Tpwi           ikayapankiak
+\m Tpwi           i-kay-a-pan-kiak
+\g sago-PLURAL PLURALOBJECT-1PLUR        ALSUBJECT-DEFINITE-pound-tomorrow
+\l We will pound sago tomorrow.
+
+\t (19a) Nakaycay.
+\m (19a) Na-kay-cay.
+\g     3sgO-1plA-see
+\l We saw him.
+
+\t (19b) Ipat^tpul.
+\m (19b) Ipa-t^-tpul.
+\g     1plS-RECIP-hit
+\l We hit each other.
+
+\t  Piakayc^ikiak.
+\m  Pia-kay-c^-i-kia-k.
+\g talkTHEME-1plA-RECIP-tell-NIGHT-IRR
+\l We tell each other.
+
+\t ura              kka tkamrmpun
+\m ura              k-ka- tkam-r-mpun
+\g coconut.VIsg VIsg-1sgE- show-PERF-3plD
+\l I showed them the coconut
+
+\t ura              kmpu atkamt
+\m ura              k-mpu- a-tkam-t
+\g coconut.VIsg VIsg-3plE- 1sgA-show-PERF
+\l They showed me the coconut
+
+\t ipa ura                kkul tkamt             (*knan    atkamt)
+\m ipa ura                k-kul- tkam-t             (*k-nan-    a-tkam-t)
+\g 1pl coconut.VIsg VIsg-2plA- show-PERF               VIsg-2plE-1sgA-show-PERF
+\l We showed you(pl) the coconut
+
+\t ura              kmpantkamt                 (*kka nantkamt)
+\m ura              k-mpan-tkam-t                 (*k-ka- nan-tkam-t)
+\g coconut.VIsg VIsg-1E/2sgA- show-PERF                VIsg-1sgE-2sgA-show-PERF
+\l I showed you(sg) the coconut
+
+\t irpm                  muka tkamtnakn.
+\m irpm                  mu-ka- tkam-t-nakn.
+\g coconut palm.IVsg     IVsg-1sgE-show-PERF-3sgD
+\l I showed him a coconut palm.
+
+\t uraN           kmpu Natkamt
+\m uraN           k-mpu- Na-tkam-t
+\g coconut.VIsg VIsg-3plE-1sgA-show-PERF
+\l They showed me the coconut.
+
+\t uraN             kka tkamrmpun
+\m uraN             k-ka- tkam-r-mpun
+\g coconut.VIsg VIsg-1sgE- show-PERF-3plD
+\l I showed them the coconut
+
+\t uraN             kmpu Natkamt
+\m uraN             k-mpu- Na-tkam-t
+\g coconut.VIsg VIsg-3plE- 1sgA-show-PERF
+\l They showed me the coconut
+
+\t ipa uraN               kkul tkamt             (*knan    Natkamt)
+\m ipa uraN               k-kul- tkam-t             (*k-nan-    Na-tkam-t)
+\g 1pl coconut.VIsg VIsg-2plA- show-PERF               VIsg-2plE-1sgA-show-PERF
+\l We showed you(pl) the coconut
+
+\t uraN             kmpantkamt                 (*kka nantkamt)
+\m uraN             k-mpan-tkam-t                 (*k-ka- nan-tkam-t)
+\g coconut.VIsg VIsg-1E/2sgA- show-PERF                VIsg-1sgE-2sgA-show-PERF
+\l I showed you(sg) the coconut
+
+\t Ura?     kimpukrayawra¥at.
+\m Ura?     ki-mpu-kra-yawra-¥a-t.
+\g  coconut.v.sg v.sg.p-3pl.a-1pl.d-get-give-pfv
+\l They got the coconut for us.
+
+\t Ura      kmpuatkamt.
+\m Ura      k-mpu-a-tkam-t.
+\g coconut          3   SG.T-3PL.A-1   SG.R-show-    PERF
+\l The showed the coconut to me.
+
+\t pa³krakaykaykaykwalcampikulana³talkiantu³kt.
+\m pa³kra-kaykaykay-kwalca-mpi-kulana³-tal-kia-ntu-³kt.
+\g  1PAUC.S-quickly-rise-SEQ-walk-start-at.night-REM.PT-PAUC
+\l We few got up at night and quickly started to walk.
+
+\t pa³kt ³kulcpul(*³kt)
+\m pa³kt ³kul-cpul(*-³kt)
+\g  1PAUC 2DU.P-hit(*-PAUC)
+\l We few hit you two.
+
+\t urampunaakpiapin
+\m ura-mpu-na-akpi-api-n
+\g fire.O-3pl.A-def-back.ncm.sg-put.in-pres
+\l They are putting (their) backs to the fire.'(to warm themselves)
+

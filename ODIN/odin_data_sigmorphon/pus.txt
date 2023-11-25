@@ -1,0 +1,30 @@
+\t (Z ) mana xwrm.
+\m (Z ) mana xwr-m.
+\g I apple eat-1.M.SG
+\l [I] eat the apple.
+
+\t Z *(mana) xwrm.
+\m Z *(mana) xwr-m.
+\g I apple eat-1.M.SG
+\l I eat [the apple].
+
+\t (Ma) mana wxwara.
+\m (Ma) mana w-xwar-a.
+\g I apple PERF-eat-3.F.SG
+\l [I] ate the apple.
+
+\t Ma (mana) wxwara.
+\m Ma (mana) w-xwar-a.
+\g I apple PERF-eat-3.F.SG
+\l I ate [the apple].
+
+\t Di *(taa) plaar me   e dee   wélegi.
+\m Di *(taa) plaar me   e dee   wé-leg-i.
+\g of 2.SG.OBL father   1.SG    must PERF-send-P   RES.3.SG
+\l Your father must    send    me.
+
+\t Plaar mee *(dee) léegi
+\m Plaar mee *(dee) léeg-i
+\g father 1.SG 2.SG send-PRES.3.SG
+\l Your father is sending me.
+

@@ -1,0 +1,1445 @@
+\t Èmèrí mòsé.
+\m Èmèrí mòsé.
+\g Mary be.beautiful
+\l Mary is beautiful.
+
+\t Èmèrí *(yé) mòsè
+\m Èmèrí *(yé) mòsè
+\g Mary be      beautiful(A)
+\l Mary is beautiful(A).
+
+\t Íyé       mwèn ó yá        mwèn       lé     èvbàré nè íràn.
+\m Íyé       mwèn ó yá        mwèn       lé     èvbàré nè íràn.
+\g mother my         she make me.ACC cook food         for them
+\l It's my mother that made me cook food for them.
+
+\t Ùwú Òzó yá          èvbò gó.
+\m Ùwú Òzó yá          èvbò gó.
+\g death Ozo make people wail
+\l Ozo's death made the people wail.
+
+\t Òzó yá      ìkó    zàghá.
+\m Òzó yá      ìkó    zàghá.
+\g Ozo make crowd scatter
+\l Ozo made the crowd scatter.
+
+\t Íyé     mwèn ò yà                mwén lé             èvbàré nè íràn.
+\m Íyé     mwèn ò yà                mwén lé             èvbàré nè íràn.
+\g mother my         she make.HAB me         cook         food   for them
+\l It's my mother that makes me cook for them.
+
+\t Èbé       òré Úyì yá         Èsósá tí!é(*rè).
+\m Èbé       òré Úyì yá         Èsósá tí!é(*-rè).
+\g book FOC Uyi make.PAST Esosa read(-PAST/PERF)
+\l It's a book that Uyi made Esosa read.
+
+\t Ò     yá [VP Èmèrí mòsé]
+\m Ò     yá [VP Èmèrí mòsé]
+\g it    made Mary be.beautiful
+\l It made Mary be beautiful.
+
+\t Òzó yá      èmà sìkán.
+\m Òzó yá      èmà sìkán.
+\g Ozo made yam be.sticky
+\l Ozo made the yam pudding be sticky.
+
+\t Úyì   yá     èmátòn pèrhé.
+\m Úyì   yá     èmátòn pèrhé.
+\g Uyi   make metal be.flat
+\l Uyi made the metal be flat.
+
+\t Ò     yá    òwá bàá.
+\m Ò     yá    òwá bàá.
+\g it    make house be.red
+\l It made the house be red.
+
+\t Ò yá [AP Èmèrí mòsè]
+\m Ò yá [AP Èmèrí mòsè]
+\g it    made Mary beautiful(A)
+\l It made Mary beautiful.
+
+\t Òzó yá      èmiówò sìkànsìkàn.
+\m Òzó yá      èmiówò sìkànsìkàn.
+\g Ozo    made meat       sticky
+\l Ozo made the meat sticky.
+
+\t Úyì yá    èmátòn pèrhè.
+\m Úyì yá    èmátòn pèrhè.
+\g Uyi    make metal flat
+\l Uyi made the metal flat.
+
+\t Ò yá        égógó wòrò.
+\m Ò yá        égógó wòrò.
+\g it    make bell      long
+\l It made the bell long.
+
+\t Òzó yé sò
+\m Òzó yé sò
+\g Ozo is shout
+\l Ozo is shouting.
+
+\t Òzó yé òkhaèmwèn.
+\m Òzó yé òkhaèmwèn.
+\g Ozo is chief
+\l Ozo is a chief.
+
+\t Òzó yé vbè òwá.
+\m Òzó yé vbè òwá.
+\g Ozo is at house
+\l Ozo is in the house.
+
+\t Úyì yá [PredP èmátòn ?(dòó) yé [AP pèrhè ]]
+\m Úyì yá [PredP èmátòn ?(dòó) yé [AP pèrhè ]]
+\g Uyi make       metal INCEP be      flat
+\l Uyi made the metal to be flat.
+
+\t ùtúniénmwèn       óghé èrhán nà
+\m ù-túnién-mwèn       óghé èrhán nà
+\g nom-small-nom of            tree this
+\l the smallness of this tree
+
+\t ùmósémwèn         óghé Èmèrí
+\m ù-mósé-mwèn         óghé Èmèrí
+\g nom-beautiful-nom of     Mary
+\l Mary's beautifulness
+
+\t ùsíkánmwèn    óghé èmió!wó nà
+\m ù-síkán-mwèn    óghé èmió!wó nà
+\g nom-tough-nom of          meat   this
+\l the toughness of this meat
+
+\t ùkhérhémwèn       óghé ágá nà
+\m ù-khérhé-mwèn       óghé ágá nà
+\g nom-small-nom of           chair this
+\l the smallness of this chair
+
+\t étúnién(*óghé èrhán nà)
+\m é-túnién(*óghé èrhán nà)
+\g nom-small(A) of             tree    this
+\l the smallness of this tree
+
+\t ìmòsè           (*óghé Èmèrí)
+\m ì-mòsè           (*óghé Èmèrí)
+\g nom-beautiful of        Mary
+\l Mary's beautifulness
+
+\t ìsìkàn   (#óghé èmió!wó nà)
+\m ì-sìkàn   (#óghé èmió!wó nà)
+\g nom-tough of           meat  this
+\l the toughness of this meat
+
+\t ékhérhé      (*óghé ágá nà)
+\m é-khérhé      (*óghé ágá nà)
+\g nom-small of           chair this
+\l the smallness of the chair
+
+\t Úyì kòkó Àdèsúwà mòsèmòsè.
+\m Úyì kòkó Àdèsúwà mòsèmòsè.
+\g Uyi raise Adesuwa beautiful(A)
+\l Uyi raised Adesuwa to be beautiful.
+
+\t Úyì kòkó Àdèsúwà mòsé.
+\m Úyì kòkó Àdèsúwà mòsé.
+\g Uyi raise Adesuwa be.beautiful
+\l Uyi raised Adesuwa to be beautiful.
+
+\t Àdèsúwà òré Úyì kòkó(rò) mòsèmòsè.
+\m Àdèsúwà òré Úyì kòkó(-rò) mòsèmòsè.
+\g Adesuwa FOC Uyi raise-RV beautiful(A)
+\l It's Adesuwa that Uyi raised to be beautiful.
+
+\t Àdèsúwà òré Úyì kòkó(*rò) mòsé(*rè).
+\m Àdèsúwà òré Úyì kòkó(*-rò) mòsé(*-rè).
+\g Adesuwa FOC Uyi raise-RV be.beautiful(V)
+\l It's Adesuwa that Uyi raised to be beautiful.
+
+\t Àkhé òré Òzó má(è)              wòrò
+\m Àkhé òré Òzó má(-è)              wòrò
+\g pot      FOC Ozo mold-RV long(A)
+\l It's the pot that Ozo molded (to be) long.
+
+\t Òwè Òzó òré Úyì má(*è) wó.
+\m Òwè Òzó òré Úyì má(*-è) wó.
+\g leg     Ozo FOC Uyi mold-RV be.hard
+\l It's Ozo's leg that Uyi molded (to be) hard.
+
+\t Òzó    (*yé) sò.
+\m Òzó    (*yé) sò.
+\g Ozo    is     shout
+\l Ozo is shouting.
+
+\t Òzó rè/*yé òkhaèmwèn.
+\m Òzó rè/*yé òkhaèmwèn.
+\g Ozo    is      chief
+\l Ozo is a chief.
+
+\t Òzó rré/*yé vbè òwá.
+\m Òzó rré/*yé vbè òwá.
+\g Ozo    is         at   house
+\l Ozo is in the house.
+
+\t Íyé       mwèn     ó   yá            mwèn       lé        èvbàré nè íràn.
+\m Íyé       mwèn     ó   yá            mwèn       lé        èvbàré nè íràn.
+\g   mother my she made.PAST            me.ACC cook food            for them
+\l It's my mother that made me cook food for them.
+
+\t Íyé       mwèn ò       yà           mwén        lé        èvbàré nè íràn.
+\m Íyé       mwèn ò       yà           mwén        lé        èvbàré nè íràn.
+\g   mother my      she make.HAB me.ACC cook food                   for them
+\l It's my mother that makes me cook for them.
+
+\t Ò yá           Èmèrí mòsé.
+\m Ò yá           Èmèrí mòsé.
+\g   it made      Mary    be.beautifulV
+\l It made Mary be beautiful.
+
+\t Úyì yá         èmátòn pèrhé.
+\m Úyì yá         èmátòn pèrhé.
+\g   Uyi made metal        be.flatV
+\l Uyi made the metal be flat.
+
+\t Ò yá         Èmèrí mòsè.
+\m Ò yá         Èmèrí mòsè.
+\g it   made     Mary beautifulA
+\l It made Mary beautiful.
+
+\t Úyì yá         èmátòn pèrhè.
+\m Úyì yá         èmátòn pèrhè.
+\g  Uyi    made metal          flatA
+\l Uyi made the metal flat.
+
+\t Úyì    yá [PredP èmátòn ?(dòó) yé [AP pèrhè ]].
+\m Úyì    yá [PredP èmátòn ?(dòó) yé [AP pèrhè ]].
+\g Uyi    make            metal     INCEP be     flat
+\l Uyi made the metal to be flat.
+
+\t Òzó gbé èmátòn (*yé) pèrhè.
+\m Òzó gbé èmátòn (*yé) pèrhè.
+\g Ozo beat metal        (be) flat
+\l Ozo pounded the metal flat.
+
+\t Úyì yá        èmátòn *(yé) pèrhè.
+\m Úyì yá        èmátòn *(yé) pèrhè.
+\g Uyi make metal         be      flat
+\l Uyi made the metal to be flat.
+
+\t Àzàrí hòó      ùkpòn hùán.
+\m Àzàrí hòó      ùkpòn hùán.
+\g Azari wash cloth       be.cleanV
+\l Azari washed the cloth clean.
+
+\t Òzó lé   èmió!wó khién.
+\m Òzó lé   èmió!wó khién.
+\g Ozo cook meat          sell
+\l Ozo cooked meat and sold it.
+
+\t Àdèsúwà òré         Úyì kòkó(rò) mòsèmòsè.
+\m Àdèsúwà òré         Úyì kòkó(-rò) mòsèmòsè.
+\g Adesuwa FOC Uyi raise-RV beautifulA
+\l It's Adesuwa that Uyi raised beautiful.
+
+\t Àdèsúwà      òré    Úyì kòkó(*rò) mòsé(*rè).
+\m Àdèsúwà      òré    Úyì kòkó(*-rò) mòsé(*-rè).
+\g Adesuwa      FOC Uyi raise-RV         be.beautifulV
+\l It's Adesuwa that Uyi raised to be beautiful.
+
+\t Ògbùgbò zùró.
+\m Ògbùgbò zùró.
+\g  farmer      be.foolishV
+\l The farmer is foolish.
+
+\t Ògbùgbò yé zùròzurò.
+\m Ògbùgbò yé zùròzurò.
+\g  farmer      be foolishA
+\l The farmer is foolish.
+
+\t Àgbòn Òzó yé pìrhìpìrhì yè èmwèn èbé.
+\m Àgbòn Òzó yé pìrhìpìrhì yè èmwèn èbé.
+\g life     Ozo be tangled       on matter book
+\l Ozo's life is messed-up over (his) education.
+
+\t Òná rè [àgbòn pìrhìpìrhì (*yè èmwèn èbé)].
+\m Òná rè [àgbòn pìrhìpìrhì (*yè èmwèn èbé)].
+\g this be life        tangled    about matter book
+\l This is a messed-up (*over education) life.
+
+\t Òzó rè /*yè       òmwán zùròzùrò.
+\m Òzó rè /*yè       òmwán zùròzùrò.
+\g Ozo beN/*beA person foolish
+\l Ozo is a foolish person.
+
+\t Úyì     *(rè) òkhaèmwèn.
+\m Úyì     *(rè) òkhaèmwèn.
+\g   Uyi   is      chief
+\l Uyi *(is) a chief.
+
+\t Òzó yá        [Úyì òkhaèmwèn]
+\m Òzó yá        [Úyì òkhaèmwèn]
+\g Ozo     made Uyi       chief
+\l Ozo made Uyi a chief.
+
+\t ($N10) Òzó ghá hàé íghó nè Úyì.
+\m ($N10) Òzó ghá hàé íghó nè Úyì.
+\g        Ozo FUT pay money to Uyi.
+\l Ozo will pay money to Uyi.
+
+\t ($N11) a. Òzó ghá gié!gié/fé!kó/*ègié!gìé/*zùròzùrò kó!kó ògó.
+\m ($N11) a. Òzó ghá gié!gié/fé!kó/*ègié!gìé/*zùròzùrò kó!kó ògó.
+\g           Ozo FUT quickly/slowly/*quickly/*foolishly gather bottle
+\l Ozo will quickly/slowly gather the bottles.
+
+\t Òzó ghá kòkó ògó ègìégìé/zùròzùrò/*gié!gié/*fé!kó
+\m Òzó ghá kòkó ògó ègìégìé/zùròzùrò/*gié!gié/*fé!kó
+\g Ozo FUT gather bottle quickly/foolishly/quickly/slowly
+\l Ozo gathered the bottles quickly/foolishly.
+
+\t ($N13) a. Òzó vbié           la ifuanro igbe.
+\m ($N13) a. Òzó vbié           la ifuanro igbe.
+\g           Ozo sleep(PAST) for minute ten.
+\l Ozo slept for ten minutes.
+
+\t ($N14) a. Èmà           nà sùún.
+\m ($N14) a. Èmà           nà sùún.
+\g           pounded.yam this smooth
+\l This pounded yam is smooth.
+
+\t Èmà           nà sùúnrùn.
+\m Èmà           nà sùún-rùn.
+\g pounded.yam this smooth-RV
+\l This pounded yam became smooth.
+
+\t ($N15) a. *Úyì ghá vbiérè.
+\m ($N15) a. *Úyì ghá vbié-rè.
+\g           Uyi FUT sleep-RV
+\l Uyi will have slept.
+
+\t Òzó ghá!á       kpó!lórò.
+\m Òzó ghá!á       kpó!ló-rò.
+\g Ozo PST/HAB sweep-RV
+\l Ozo used to have swept.
+
+\t Àdésúwà òré Òzó má kó!kórò.
+\m Àdésúwà òré Òzó má kó!kó-rò.
+\g Adesuwa FOC Ozo not raise-RV
+\l It's Adesuwa that Ozo has not raised.
+
+\t ($N16) Òzó rré*(rè) gié!gié
+\m ($N16) Òzó rré-*(rè) gié!gié
+\g           Ozo come-RV quickly
+\l Ozo has quickly come.
+
+\t ($N17) Òzó (ghá) gié!gié rré(*rè)
+\m ($N17) Òzó (ghá) gié!gié rré(*-rè)
+\g           Ozo will quickly come(*-RV)
+\l Ozo will quickly come/quickly came .
+
+\t ($N19) *Òzó lérè     gié!gié ìyán nà.
+\m ($N19) *Òzó lé-rè     gié!gié ìyán nà.
+\g            Ozo cook-RV quickly yam this
+\l Ozo has quickly cooked this yam.
+
+\t ($N20) *Òzó lérè   ìyán nà.
+\m ($N20) *Òzó lé-rè   ìyán nà.
+\g           Ozo cook-RV yam this
+\l Ozo has cooked this yam.
+
+\t ($N21) Ìyán nài òré Òzó lérè      gi é!gié ti
+\m ($N21) Ìyán nài òré Òzó lé-rè      gi é!gié ti
+\g           yam this FOC Ozo cook-RV quickly
+\l This yam, Ozo has quickly cooked.
+
+\t ($N22) a. Òzó guòghó(*rè) àkhé.
+\m ($N22) a. Òzó guòghó(*rè) àkhé.
+\g           Ozo break-RV vase.
+\l Ozo has broken the vase.
+
+\t Àkhéi guòghórè (giégié) ti
+\m Àkhéi guòghó-rè (giégié) ti
+\g pot   break-RV quickly.
+\l The pot has broken (quickly).
+
+\t ($N23) a. Òzó mián!miánrén gèlé wèé Úyì dé ìyán
+\m ($N23) a. Òzó mián!mián-rén gèlé wèé Úyì dé ìyán
+\g           Ozo forget-RV          truly that Uyi buy yam
+\l Ozo has truly forgotten that Uyi bought yams.
+
+\t Àmè òré Òzó tùérè             (gié!gié) yè íkóróbá.
+\m Àmè òré Òzó tùé-rè             (gié!gié) yè íkóróbá.
+\g water FOC Ozo pour-RV quickly into bucket
+\l It's water that Ozo has quickly poured into the bucket.
+
+\t Èmá!tón òré Òzó gbérè            nó!dè.
+\m Èmá!tón òré Òzó gbé-rè            nó!dè.
+\g metal      FOC Ozo beat-RV yesterday.
+\l It's metal that Ozo beat yesterday.
+
+\t ($N36) a. Òzó lé   èvbàré ré.
+\m ($N36) a. Òzó lé   èvbàré ré.
+\g           Ozo cook food eat
+\l Ozo cooked food and ate it.
+
+\t Òzó (gié!gié) suá àkhé dé RESULTATIVE SVC
+\m Òzó (gié!gié) suá àkhé dé RESULTATIVE SVC
+\g Ozo (quickly) push pot fall.
+\l Ozo quickly pushed the pot down.
+
+\t ($N37) a.      Òzó ghá lè     èvbàré (*ghá) rè.
+\m ($N37) a.      Òzó ghá lè     èvbàré (*ghá) rè.
+\g                Ozo FUT cook food (*FUT) eat
+\l Ozo will cook the food and eat it.
+
+\t Òzó má         lé    èvbàré (*má)       ré.
+\m Òzó má         lé    èvbàré (*má)       ré.
+\g Ozo PST/NEG cook food (*PST/NEG) eat.
+\l Ozo didn't cook the food and eate it.
+
+\t ($N80) a.      Òzó ghá suà àkhé (*ghá) dè.
+\m ($N80) a.      Òzó ghá suà àkhé (*ghá) dè.
+\g                Ozo FUT push pot (*FUT) fall
+\l Ozo will push the pot down.
+
+\t Òzó má         suá àkhé (*má)    dé.
+\m Òzó má         suá àkhé (*má)    dé.
+\g Ozo PST/NEG push pot (*PAST/NEG) fall
+\l Ozo didn't push the pot down.
+
+\t Ozo       dere (giegie)          wu
+\m Ozo       de-re (giegie)          wu
+\g      Ozo      fall-RV        quicklydie.
+\l Ozo quickly fell and died.
+
+\t Àkhé òré Òzó suárè           (gié!gié) dé.
+\m Àkhé òré Òzó suá-rè           (gié!gié) dé.
+\g  pot    FOC Ozo push-RV quickly fall
+\l This pot, Ozo (*has) pushed down.
+
+\t ($N39) a. *Èvbàré òré Òzó lérè          khi énrèn
+\m ($N39) a. *Èvbàré òré Òzó lé-rè          khi én-rèn
+\g             food FOC Ozo cook-RV sell-RV
+\l It's food that Ozo has quickly cooked and sold.
+
+\t Àkhé òré Òzó suárè         dére.
+\m Àkhé òré Òzó suá-rè         dé-re.
+\g  pot    FOC Ozo push-RV fall-RV
+\l This pot, Ozo has pushed down.
+
+\t ($N40) a. Òzó hìá rrí       èvbàré.
+\m ($N40) a. Òzó hìá rrí       èvbàré.
+\g           Ozo try eat       food.
+\l Ozo tried to eat the food (and succeeded).
+
+\t Òzó gé!lé mián!mián kìé èkhù.
+\m Òzó gé!lé mián!mián kìé èkhù.
+\g Ozo truly forget        open door
+\l Ozo truly forgot and opened the door.
+
+\t ($N41) a. Òzó hìárè rrí èvbàré.
+\m ($N41) a. Òzó hìá-rè rrí èvbàré.
+\g           Ozo try-RV eat food.
+\l Ozo tried to eat the food (and succeeded).
+
+\t Òzó miànmiánrèn gé!lé kìé èkhù.
+\m Òzó miànmián-rèn gé!lé kìé èkhù.
+\g Ozo forget-RV       truly open door
+\l Ozo has truly forgotten and opened the door.
+
+\t ($N45) a. Àdésúwà òré Òzó kó!kó(ró) mòsè
+\m ($N45) a. Àdésúwà òré Òzó kó!kó-(ró) mòsè
+\g           Adesuwa Foc.Ozo raise-RV beautiful
+\l It's Adesuwa that Ozo raised to be beautiful.
+
+\t Àdésúwà òré Òzó kó!kó(*ró) mòsé.
+\m Àdésúwà òré Òzó kó!kó(-*ró) mòsé.
+\g Adesuwa Foc.Ozo raise-RV   be.beautiful
+\l It's Adesuwa that Ozo raised to be beautiful.
+
+\t ($N46) Obi kwádàrà      Ézè
+\m ($N46) Obi kwá-dà-rà      Ézè
+\g        Obi push-fall-fact Eze
+\l Obi pushed Eze down.
+
+\t ($N47) *Àdá sìrírí jí
+\m ($N47) *Àdá sì-rí-rí jí
+\g        Ada cook-eat-fact yam
+\l Ada cooked and ate the yams.
+
+\t ($N65) a. Òzó dùnmwún èmà ghá khié!n.
+\m ($N65) a. Òzó dùnmwún èmà ghá khié!n.
+\g           Ozo pound      yam ITER sell
+\l Ozo produced pounded yam and sold it repeatedly.
+
+\t Òzó sùá ògó ghá dé.
+\m Òzó sùá ògó ghá dé.
+\g Ozo push bottle ITER fall
+\l Ozo pushed the bottle(s) down repeatedly.
+
+\t Òzó ghá       gbè èwé khièn.
+\m Òzó ghá       gbè èwé khièn.
+\g  Ozo FUT hit goat sell
+\l Ozo will kill the goat and sell it.
+
+\t Òzó ghá         gbè èwé wù.
+\m Òzó ghá         gbè èwé wù.
+\g  Ozo FUT hit goat die
+\l Ozo will strike the goat dead.
+
+\t Òzó ghá        mièn ìyán èvá lé.
+\m Òzó ghá        mièn ìyán èvá lé.
+\g   Ozo FUT find yam two cook
+\l Ozo will find two yams to cook (and do so).
+
+\t Ì ghá      gié!gié guó!ghó àkhé.
+\m Ì ghá      gié!gié guó!ghó àkhé.
+\g   I FUT quickly break            pot.
+\l I will quickly break the pot.
+
+\t Òzó vbó        òkhókhò ìgàn           giégié   khién.
+\m Òzó vbó        òkhókhò ìgàn           giégié   khién.
+\g Ozo pluck chicken feathers quickly sell
+\l Ozo plucked the chicken of feathers and quickly sold them.
+
+\t Òzó fí        àkhé gìégìé      guòghó.
+\m Òzó fí        àkhé gìégìé      guòghó.
+\g Ozo throw pot        quickly break
+\l Ozo threw the pot so that it quickly broke.
+
+\t Òzó tòbórè ghá            lè    èvbàré.
+\m Òzó tòbórè ghá            lè    èvbàré.
+\g   Ozo by.self FUT cook food.
+\l Ozo by himself will quickly cook the food.
+
+\t Òzó kpàán àlìmói tòbórè.
+\m Òzó kpàán àlìmói tòbórè.
+\g   Ozo pluck      orange by-itself
+\l Ozo plucked the orange by itself.
+
+\t Òzó miànmián yá tòbórè             lé     èvbàré.
+\m Òzó miànmián yá tòbórè             lé     èvbàré.
+\g Ozo forgot         to by.self cook food
+\l Ozo forgot to cook the food by himself.
+
+\t Úyì dé        tòbórè.
+\m Úyì dé        tòbórè.
+\g   Uyi fall by.self
+\l Uyi fell by himself.
+
+\t Úyì só         tòbórè.
+\m Úyì só         tòbórè.
+\g  Uyi shout by.self
+\l Uyi shouted by himself.
+
+\t Òzó dé      ìyánk dùnmwún tòbórèk
+\m Òzó dé      ìyánk dùnmwún-- tòbórèk
+\g Ozo buy yam          pound               by.self
+\l Ozo bought the yam and pounded it by itself.
+
+\t Òzó sùá       ògók dé () tòbórèk
+\m Òzó sùá       ògók dé (--) tòbórèk
+\g Ozo     push bottle fall--         by.self
+\l Ozo pushed the bottle down by itself.
+
+\t Òzó mién àlìmói kpá!án (*tòbórè).
+\m Òzó mién àlìmói kpá!án-- (*tòbórè).
+\g Ozo find orange pluck               by-itself
+\l Ozo found an orange to pluck by itself.
+
+\t Òzó mién àlìmói         kpá!án.
+\m Òzó mién àlìmói         kpá!án.
+\g  Ozo find orange pluck
+\l Ozo found an orange to pluck (and did so).
+
+\t Òzó guàló àlìmói kpàán.
+\m Òzó guàló àlìmói kpàán.
+\g  Ozo seek       orange pluck
+\l Ozo looked for an orange and plucked it.
+
+\t Òzó dé     ágá    tótàá yè/yì.
+\m Òzó dé     ágá    tótàá yè/yì--.
+\g Ozo buy chair sit          on
+\l Ozo bought a chair and sat on it.
+
+\t Òzó mién ékítà rhié èmió!wó nà.
+\m Òzó mién ékítà rhié èmió!wó nà.
+\g Ozo find dog give meat                   to
+\l Ozo found a dog to give the meat to.
+
+\t Òzó rhié íghó            hàé Úyì
+\m Òzó rhié íghó            hàé Úyì--
+\g  Ozo take money pay Uyi
+\l Ozo took some money and paid Uyi it.
+
+\t Òzó lèlé       Úyì hàé (érè) íghó.
+\m Òzó lèlé       Úyì hàé (érè) íghó.
+\g  Ozo     follow Uyi pay (him) money.
+\l Ozo followed Uyi and paid him money.
+
+\t Òzó mién Úyì hàé érè              íghó.                  PSVC
+\m Òzó mién Úyì hàé érè              íghó.                  PSVC
+\g Ozo find      Uyi pay him money.
+\l Ozo found Uyi to paid him money.
+
+\t Úyì òré      Òzó hàé *(érè) íghó.
+\m Úyì òré      Òzó hàé *(érè) íghó.
+\g  Uyi FOC Ozo pay him              money
+\l It's Uyi that Ozo paid money.
+
+\t Èmió!wó nà      òré     Òzó mién ékítà rhié nà.
+\m Èmió!wó nà      òré     Òzó mién ékítà rhié-- nà.
+\g Meat        that FOC Ozo find dog give                  to
+\l It's this meat that Ozo found the dog to give to.
+
+\t Ékpétìn òré       Òzó dé     àkhéi mú pro           yì                                                                       i
+\m Ékpétìn òré       Òzó dé     àkhéi mú pro           yì--                                                                       i
+\g  box         FOC Ozo buy pot            put pro              into--
+\l It's a box that Ozo bought a pot and put it in.
+
+\t Obi kwádàrà            Ézè.
+\m Obi kwá-dà-rà            Ézè.
+\g Obi push-fall-FACT Eze
+\l Obi pushed Eze down.
+
+\t Òzó fí         àkhé yè òtíkù.
+\m Òzó fí         àkhé yè òtíkù.
+\g  Ozo throw pot        in trash
+\l Ozo threw the pot into the trash.
+
+\t Òzó fí         àkhé guòghó.
+\m Òzó fí         àkhé guòghó.
+\g  Ozo throw pot        break.
+\l Ozo threw the pot so that it broke.
+
+\t Òzó fí         àkhé yè òtíkù guòghó.
+\m Òzó fí         àkhé yè òtíkù guòghó.
+\g  Ozo      throw pot    in trash break.
+\l Ozo threw the pot into the trash so that it broke.
+
+\t Òzó suá        àkhé ègìégìé/ vbè òwá          dé.
+\m Òzó suá        àkhé ègìégìé/ vbè òwá          dé.
+\g  Ozo     push pot      quickly/ in     house fall
+\l Ozo pushed the pot quickly/in the house down.
+
+\t Òzó suá        àkhé dé    ègìégìé/ vbè òwá.
+\m Òzó suá        àkhé dé    ègìégìé/ vbè òwá.
+\g   Ozo push pot       fall quickly/ in     house
+\l Ozo pushed the pot down quickly/in the house.
+
+\t Òzó rhié ùkpòn yè ékpétìn khién.
+\m Òzó rhié ùkpòn yè ékpétìn khién.
+\g Ozo put     cloth in box            sell
+\l Ozo put the cloth in a box and sold it.
+
+\t Òzó mién èrhán guó!ghó àkhé
+\m Òzó mién èrhán guó!ghó àkhé
+\g   Ozo find stick break           pot
+\l Ozo found a stick and (then) broke the pot.
+
+\t Òzó mién èrhán yá          guó!ghó àkhé
+\m Òzó mién èrhán yá          guó!ghó àkhé
+\g Ozo find stick INF break             pot
+\l Ozo found a stick in order to break the pot.
+
+\t Ì ghá dè ágá né!pèrhè.
+\m Ì ghá dè ágá né!-pèrhè.
+\g I FUT buy chair the-flat.
+\l I will buy the flat chair.
+
+\t Òzó vbó        òkhókhò ìgàn         khién.
+\m Òzó vbó        òkhókhò ìgàn         khién.
+\g Ozo pluck      chicken feathers sell
+\l Ozo plucked the chicken of feathers and sold them (the feathers).
+
+\t Ozo rhié èmió!wó yè epani lé.
+\m Ozo rhié èmió!wó yè epani lé.
+\g  Ozo put meat          in pan      cook
+\l Ozo put the meat in a pan and cooked it.
+
+\t Ékítà gié!gié gbó!ó khú             áhiánmwèn.
+\m Ékítà gié!gié gbó!ó khú             áhiánmwèn.
+\g   dog     quickly bark       chase bird.
+\l The dog quickly barked and chased a bird.
+
+\t Òzó gié!gié rhú!lé sá!án.
+\m Òzó gié!gié rhú!lé sá!án.
+\g   Ozo quickly run         jump
+\l (To win the atheletic contest), Ozo quickly ran and jumped.
+
+\t Ékítà khú        áhiánmwèn gbòó.
+\m Ékítà khú        áhiánmwèn gbòó.
+\g Dog      chase bird            bark
+\l The dog chased a bird and barked.
+
+\t Ètísà      ghà     dè èbéi, ì ghá tiè proi.
+\m Ètísà      ghà     dè èbéi, ì ghá tiè proi.
+\g Teacher COND buy book, I FUT read pro.
+\l If the teacher buys a book, I will read it.
+
+\t Òzó gié!gié ghá           lé     èvbàré (khién).
+\m Òzó gié!gié ghá           lé     èvbàré (khién).
+\g Ozo quickly ITER          cook food       sell.
+\l Ozo quickly repeatedly [cooked food (and sold it)].
+
+\t Òzó fí       ébólù dàá       Úyì (*làdián).
+\m Òzó fí       ébólù dàá       Úyì (*làdián).
+\g Ozo throw ball        toward Uyi    exit
+\l Ozo threw the ball (*away) toward Uyi.
+
+\t Òzó sùá ògó *[tòbórè] dé.
+\m Òzó sùá ògó *[--tòbórè] dé.
+\g Ozo push bottle          itself fall
+\l Ozo pushed the bottle so that it fell (*by itself).
+
+\t Òzó sùá ògó (*ghá) dé.
+\m Òzó sùá ògó (*ghá) dé.
+\g Ozo push bottle ITER fall
+\l Ozo pushed the bottle so that it fell (*repeatedly).
+
+\t Òzó ghá dè ìyán rè.
+\m Òzó ghá dè ìyán rè.
+\g Ozo FUT buy yam eat
+\l Ozo will buy yams and eat them.
+
+\t Òzó ghá gbè èwé khièn ùhùnmwùn érèn. COVERT COORDINATION
+\m Òzó ghá gbè èwé khièn ùhùnmwùn érèn. COVERT COORDINATION
+\g Ozo FUT hit goat sell head                  its
+\l Ozo will kill the goat and sell its head.
+
+\t Òzó ghá gbè èwé khièn.
+\m Òzó ghá gbè èwé khièn.
+\g Ozo FUT hit goat sell
+\l Ozo will kill the goat and sell it.
+
+\t Òzó ghá gbè èwé wù.
+\m Òzó ghá gbè èwé wù.
+\g Ozo FUT hit goat die
+\l Ozo will strike the goat dead.
+
+\t Òzó ghá dè èmà kpèé (pro).
+\m Òzó ghá dè èmà kpèé (pro).
+\g Ozo FUT buy drum play (it)
+\l Ozo will buy a drum and play it.
+
+\t Àmè òré           Òzó gié!gié     tué yè       íkóróbá.
+\m Àmè òré           Òzó gié!gié     tué yè       íkóróbá.
+\g water FOC Ozo quickly pour into bucket
+\l It's water that Ozo quickly poured into the bucket.
+
+\t Àmè òré Òzó tùérè            gié!gié tV yè íkóróbá.
+\m Àmè òré Òzó tùé-rè            gié!gié tV yè íkóróbá.
+\g water FOC Ozo pour-RV quickly              into bucket
+\l It's water that Ozo has quickly poured into the bucket.
+
+\t Òzó ghá/ghá!á/má/í                  gbé!lé èwé khién!né ùhùnmwùn íràn.
+\m Òzó ghá/ghá!á/má/í                  gbé!-lé èwé khién!-né ùhùnmwùn íràn.
+\g Ozo FUT/PIMPF/PNEG/NPNEG kill-PL goat sell-PL head                 their
+\l Ozo will/used to/didn't/won't kill goats and sell their heads.
+
+\t Òzó tòbórè ghá gié!gié lé          èvbàré.
+\m Òzó tòbórè ghá gié!gié lé          èvbàré.
+\g Ozo by.self FUT quickly cook food.
+\l Ozo by himself will quickly cook the food.
+
+\t Òzó ghá (gié!gié) tòbórè lé        èvbàré.
+\m Òzó ghá (gié!gié) tòbórè lé        èvbàré.
+\g Ozo FUT quickly by.self cook food
+\l Ozo will quickly cook the food by himself.
+
+\t Òzó miànmián yá tòbórè lé         èvbàré.
+\m Òzó miànmián yá tòbórè lé         èvbàré.
+\g Ozo forgot      to by.self cook food
+\l Ozo forgot to cook the food by himself.
+
+\t Òzó ghá tòbórè lé       èvbàré rrí órè.
+\m Òzó ghá tòbórè lé       èvbàré rrí órè.
+\g Ozo FUT by.self cook food eat it
+\l Ozo will cook the food by himself and eat it.
+
+\t Òzó lé    ízè tòbórè rrì órè.
+\m Òzó lé    ízè tòbórè rrì órè.
+\g Ozo cook rice by.self ate it
+\l Ozo cooked rice and ate it by himself.
+
+\t (?)Èmió!wó òré Òzó dé (*vbé) lé            ìyán.
+\m (?)Èmió!wó òré Òzó dé-- (*vbé) lé            ìyán.
+\g meat          FOC Ozo buy         and   cook yam
+\l It's meat that Ozo bought and cooked some yams.
+
+\t Òzó ghá dè èmió!wó lè.
+\m Òzó ghá dè èmió!wó lè.
+\g Ozo will buy meat        cook
+\l Ozo will buy some meat and cook it.
+
+\t Òzó ghá tòbórè lé         èvbàré ré.
+\m Òzó ghá tòbórè lé         èvbàré ré.
+\g Ozo FUT by.self cook food eat
+\l Ozo will by himself cook the food and eat it.
+
+\t Òzó lé       èvbàré tòbórè ré.
+\m Òzó lé       èvbàré tòbórè ré.
+\g Ozo cooked food by.self ate
+\l Ozo cooked some food and by himself ate it.
+
+\t Òzó dé né!né èbé tié ègbà nó!kárò.
+\m Òzó dé né!né èbé tié ègbà nó!kárò.
+\g Ozo buy the book read act that.is.first
+\l Ozo bought the book (of plays) and read the first act.
+
+\t Òzó dé né!né èbé tié.
+\m Òzó dé né!né èbé tié.
+\g Ozo buy the book read
+\l Ozo bought the book and read it.
+
+\t Òzó ghá giegie (tobore) dunmwun ìyán.
+\m Òzó ghá giegie (tobore) dunmwun ìyán.
+\g Ozo FUT quickly (by.self) pound         yams
+\l Ozo will quickly pound yams (by himself).
+
+\t Òzó gìégìé ghá dunmwun ìyán.
+\m Òzó gìégìé ghá dunmwun ìyán.
+\g Ozo quickly will pound       yams.
+\l Ozo quickly will pound yams.
+
+\t Òzó gié!gié gbó!ó ívìn        bòló ókà
+\m Òzó gié!gié gbó!ó ívìn        bòló ókà
+\g Ozo quickly plant coconut peel corn
+\l Ozo quickly planted the coconut and [he] peeled the corn.
+
+\t Òzó gié!gié gbó!ó ívìn        gié!gié bó!ló ókà.
+\m Òzó gié!gié gbó!ó ívìn        gié!gié bó!ló ókà.
+\g Ozo quickly plant coconut quickly peel corn
+\l Ozo quickly planted the coconut and [he] quickly peeled the corn.
+
+\t Òzó gié!gié dún!mwún èmà khién!né
+\m Òzó gié!gié dún!mwún èmà khién!-né
+\g Ozo quickly pound        yam sell-PL
+\l Ozo quickly pounded the yams and sold them.
+
+\t Òzó gié!gié dún!mwún èmà gié!gié khié!nné
+\m Òzó gié!gié dún!mwún èmà gié!gié khié!n-né
+\g Ozo quickly pound         yam quickly sell-PL
+\l Ozo quickly pounded the yams and sold them.
+
+\t Òzó suá Úyì dé.
+\m Òzó suá Úyì dé.
+\g Ozo push Uyi fall.
+\l Ozo pushed Uyi, causing him to fall.
+
+\t Ékítà khú áhiánmwèn làdián.
+\m Ékítà khú áhiánmwèn làdián.
+\g dog    chase bird         exit
+\l The dog chased a bird away (causing it to leave).
+
+\t Òzó suá Úyì só.
+\m Òzó suá Úyì só.
+\g Ozo push Uyi shout
+\l Ozo pushed Uyi, causing him to shout.
+
+\t Ékítà khú áhiánmwèn tín.
+\m Ékítà khú áhiánmwèn tín.
+\g Dog     chase bird          fly
+\l The dog chased a bird, causing it to fly.
+
+\t Úyì sùá èwé lá           ùvún.
+\m Úyì sùá èwé lá           ùvún.
+\g Uyi push goat enter hole
+\l Uyi pushed the goat into the hole.
+
+\t Ùvún òré Úyì sú!á èwé lá.
+\m Ùvún òré Úyì sú!á èwé lá--.
+\g Hole FOC Uyi push goat enter--
+\l It's a hole that Uyi pushed the goat into.
+
+\t Ì ghá gié!gié guó!ghó àkhé.
+\m Ì ghá gié!gié guó!ghó àkhé.
+\g I FUT quickly break          pot.
+\l I will quickly break the pot.
+
+\t Úyì gbé Òzó rhé!rhé wú.
+\m Úyì gbé Òzó rhé!rhé wú.
+\g Uyi hit Ozo quickly die
+\l Uyi beat Ozo so that he died quickly.
+
+\t Òzó fí  àkhé gìégìé guòghó.
+\m Òzó fí  àkhé gìégìé guòghó.
+\g Ozo throw pot quickly break
+\l Ozo threw the pot so that it quickly broke.
+
+\t Òzó lé    èvbàré rhé!rhé ré.
+\m Òzó lé    èvbàré rhé!rhé ré.
+\g Ozo cook food quickly eat
+\l Ozo cooked the food and quickly ate it.
+
+\t Òzó vbó òkhókhò ìgàn          gié!gié khién.
+\m Òzó vbó òkhókhò ìgàn          gié!gié khién.
+\g Ozo pluck chicken feathers quickly sell
+\l Ozo plucked the chicken of feathers and quickly sold them.
+
+\t Òzó dùnmwún èmà            khién ègìégìé.
+\m Òzó dùnmwún èmà            khién ègìégìé.
+\g Ozo pound      yam.pudding sell quickly.
+\l Ozo pounded the yam pudding, and sold it quickly.
+
+\t Òzó tié Úyì rré       ègìégìé.
+\m Òzó tié Úyì rré       ègìégìé.
+\g Ozo call Uyi come quickly
+\l Ozo called Uyi in quickly.
+
+\t Òzó hòó ùkpòn fàfá ègìégìé.
+\m Òzó hòó ùkpòn fàfá ègìégìé.
+\g Ozo wash dress fade quickly.
+\l Ozo quickly washed the dress so it faded.
+
+\t Òzó lé èvbàré ègìégìé/ vbè òwá ré.
+\m Òzó lé èvbàré ègìégìé/ vbè òwá ré.
+\g Ozo cook food quickly/ in house eat
+\l Ozo cooked the food quickly/at home and ate it.
+
+\t Òzó suá   àkhé ègìégìé/ vbè   òwá dé.
+\m Òzó suá   àkhé ègìégìé/ vbè   òwá dé.
+\g Ozo push pot quickly/ in house fall
+\l Ozo pushed the pot quickly/in the house down.
+
+\t Ùkhiénmwèn òré Òzó khién èbé.
+\m Ù-khién-mwèn òré Òzó khién èbé.
+\g nom-sell-nom FOC Ozo sell book
+\l It is selling that Ozo did to the book (he didn't give it as a gift).
+
+\t Ùkhiénmwèn òré Úyì lé             èvbàré khién.
+\m Ù-khién-mwèn òré Úyì lé             èvbàré khién.
+\g nom-sell-nom FOC Uyi cook food              sell
+\l It's selling that Uyi cooked the food and did to it.
+
+\t Ùlémwèn         òré Òzó lé         èvbàré khién.
+\m Ù-lé-mwèn         òré Òzó lé         èvbàré khién.
+\g nom-cook-nom FOC Ozo cook food sell
+\l It's cooking that Ozo did to the food and sold it.
+
+\t Ùguó!ghómwèn òré Òzó fí               àkhé guó!ghó.
+\m Ù-guó!ghó-mwèn òré Òzó fí               àkhé guó!ghó.
+\g nom-break-nom         FOC Ozo throw pot break
+\l It's breaking that Ozo threw the pot and it did.
+
+\t Ùfímwèn       òré ò fí         àkhé guó!ghó.
+\m Ù-fí-mwèn       òré ò fí         àkhé guó!ghó.
+\g nom-throw-nom FOC he throw pot break
+\l Its by throwing that he made the pot break (not by striking it).
+
+\t Òzó khién èbé ùkhiénmwèn.
+\m Òzó khién èbé ù-khién-mwèn.
+\g Ozo sell book nom-sell-nom
+\l Ozo sold the book (a selling).
+
+\t Òzó guòghó ékpétìn kié.
+\m Òzó guòghó ékpétìn kié.
+\g Ozo break     box     open
+\l Ozo broke the box open.
+
+\t Ì wón úkpù ká.
+\m Ì wón úkpù ká.
+\g I drink cup dry
+\l I drank the cup dry.
+
+\t Ékítà gbòó Àdésúwà rhió!rré
+\m Ékítà gbòó Àdésúwà rhió!rré
+\g dog    bark Adesuwa wake.up
+\l The dog barked Adesuwa awake.
+
+\t Ò mú né!né èwé (*gié!gié) gbé .
+\m Ò mú né!né èwé (*gié!gié) gbé .
+\g he take the       goat (quickly) kill
+\l He killed the goat.
+
+\t Ébólù wèrrié (*gié!gié)làdián
+\m Ébólù wèrrié (*gié!gié)làdián
+\g ball   roll quickly exit
+\l The ball rolled (*quickly) out.
+
+\t Òmó dé (*gié!gié)wú.
+\m Òmó dé (*gié!gié)wú.
+\g child fall quickly die
+\l The child fell and (*quickly) died.
+
+\t Òzó dé  ìyánk dùnmwún () tòbórèk
+\m Òzó dé  ìyánk dùnmwún (--) tòbórèk
+\g Ozo buy yam        pound          by.self
+\l Ozo bought the yam and pounded it by itself.
+
+\t Òtàsówié dé éwùk yó () tòbórèk
+\m Òtàsówié dé éwùk yó (--) tòbórèk
+\g Otasowie buy dress wear          by.self
+\l Otasowie bought the dress and wore it by itself.
+
+\t Òzó kòkó Àdésúwàk mòsé             () tòbórèk
+\m Òzó kòkó Àdésúwàk mòsé             (--) tòbórèk
+\g Ozo raise Adesuwa be.beautiful                   by.self
+\l Ozo raised Adesuwa to be beautiful by herself.
+
+\t Òzó sùá ògók dé () tòbórèk
+\m Òzó sùá ògók dé (--) tòbórèk
+\g Ozo push bottle fall-- by.self
+\l Ozo pushed the bottle down by itself.
+
+\t Úyì òré íràn sú!á tòbórè dé
+\m Úyì òré íràn sú!á tòbórè dé
+\g Uyi FOC they push by.self fall.
+\l It's Uyi that they pushed down by himself.
+
+\t Úyì dé       tòbórè.
+\m Úyì dé       tòbórè.
+\g Uyi fall by.self
+\l Uyi fell by himself.
+
+\t Àdésúwà mòsé           tòbórè.
+\m Àdésúwà mòsé           tòbórè.
+\g Adesuwa be.beautiful by.self
+\l Adesuwa is beautiful by herself.
+
+\t Ama ato       aduani adi        [e] i
+\m Ama ato       aduani adi        [e] i
+\g Ama has.bought       food       has.eaten        pro
+\l Ama has bought food and eaten it.
+
+\t Kofi bOO       Ama i kuu       no     i.
+\m Kofi bOO       Ama i kuu       no     i.
+\g Kofi hit Ama kill her
+\l Kofi hit Ama and killed her.
+
+\t Kofi frE Yaw ba.
+\m Kofi frE Yaw ba.
+\g Kofi calls Yaw come
+\l Kofi calls Yaw to him.
+
+\t Èvbó khérhé dé      LGB tìé.
+\m Èvbó khérhé dé      LGB tìé.
+\g People few     buy LGB read
+\l Few people buy LGB (Lectures on Government and Binding) and read it.
+
+\t Òzó dé      èbé    tié.
+\m Òzó dé      èbé    tié.
+\g Ozo buy book read
+\l Ozo bought a book and (then) read it.
+
+\t Òzó tié     èbé dé.
+\m Òzó tié     èbé dé.
+\g Ozo read book buy
+\l Ozo read a book and (then) bought it.
+
+\t Ékpétìn       òré Òzó rhié       ùkpòni yì              khién proi.
+\m Ékpétìn       òré Òzó rhié       ùkpòni yì--              khién proi.
+\g box      FOC Ozo put cloth into-- sell pro
+\l It's a box that Ozo put some cloth into and sold it (the cloth).
+
+\t Ékpétìn       òré Òzó dé       àkhéi rhié proi yì
+\m Ékpétìn       òré Òzó dé       àkhéi rhié proi yì--
+\g box      FOC Ozo buy pot put pro into--
+\l It's a box that Ozo bought a pot and put it in.
+
+\t Ékítà (gié!gié) gbòó khú áhiánmwèn.
+\m Ékítà (gié!gié) gbòó khú áhiánmwèn.
+\g dog     (quickly) bark chase bird.
+\l The dog (quickly) barked and chased a bird.
+
+\t Ékítà khú áhiánmwèn gbòó.
+\m Ékítà khú áhiánmwèn gbòó.
+\g Dog chase bird           bark
+\l The dog chased a bird and barked.
+
+\t          ... *Òzó gié!gié rhú!lé sá!án.
+\m          ... *Òzó gié!gié rhú!lé sá!án.
+\g ... Ozo quickly run           jump
+\l (To win the atheletic contest), Ozo quickly ran and jumped.
+
+\t          ... *áhiánmwèn gié!gié tín só.
+\m          ... *áhiánmwèn gié!gié tín só.
+\g ... bird            quickly fly shout
+\l (To protect her babies,) the bird quickly flew and shouted.
+
+\t Ètísà ghà        dè èbéi, ì ghá tiè proi.
+\m Ètísà ghà        dè èbéi, ì ghá tiè proi.
+\g Teacher COND buy book, I FUT read pro.
+\l If the teacher buys a book, I will read it.
+
+\t Ètísà ghà  dè proi, ì ghá tié èbéi.
+\m Ètísà ghà  dè proi, ì ghá tié èbéi.
+\g teacher COND buy pro, I FUT read book.
+\l If the teacher buys it, I will read a/the book.
+
+\t Òzó gié!gié dé proi tié      èbéi.
+\m Òzó gié!gié dé proi tié      èbéi.
+\g Ozo quickly buy pro read book
+\l Ozo quickly bought and read a/the book.
+
+\t Òzó màá Úyì èbé nà.
+\m Òzó màá Úyì èbé nà.
+\g Ozo show Uyi book this
+\l Ozo showed Uyi this book.
+
+\t Òzó hàé Òtà íghó.
+\m Òzó hàé Òtà íghó.
+\g Ozo pay Ota money
+\l Ozo paid Ota money.
+
+\t Òzó rhié òmó ébólù..
+\m Òzó rhié òmó ébólù..
+\g Ozo take child ball
+\l Ozo took the ball from the child.
+
+\t Òzó guòghó Úyì èmá!tón
+\m Òzó guòghó Úyì èmá!tón
+\g Ozo break Uyi metal
+\l Ozo broke Uyi's metal on him.
+
+\t Òzó rhié Àdésúwà èbé màá.
+\m Òzó rhié Àdésúwà èbé màá.
+\g Ozo take Adesuwa book show
+\l Ozo showed Adesuwa a (her) book.
+
+\t Òzó gbé Úyì èmá!tón guòghó.
+\m Òzó gbé Úyì èmá!tón guòghó.
+\g Ozo hit Uyi metal break.
+\l Ozo beat Uyi's metal to pieces.
+
+\t Òzó kòkó òmó mòsèmòsè/ mòsé.
+\m Òzó kòkó òmó mòsèmòsè/ mòsé.
+\g Ozo raise child beautiful(A)/ be.beautiful
+\l Ozo raised the child (to be) beautiful.
+
+\t Òzó gbé èmá!tón guòghó là àwá ókpá.
+\m Òzó gbé èmá!tón guòghó là àwá ókpá.
+\g Ozo beat metal        break for hour one.
+\l Ozo beat the metal into pieces for one hour.
+
+\t Òzó gbé Úyì èmá!tón guòghó.
+\m Òzó gbé Úyì èmá!tón guòghó.
+\g Ozo beat         Uyi             metal          break
+\l Ozo beat the metal flat on/for Uyi.
+
+\t U yi sua ewú la uvÙn
+\m U yi sua ewú la uvÙn
+\g Uyi push goat enter hole
+\l  Uyi pushed the goat into a hole.É
+
+\t ò vÙn ­rú [U yi sÙ!a ewú la]
+\m ò vÙn ­rú [U yi sÙ!a ewú la-]
+\g hole FOC Uyi push goat enter
+\l  It was a hole Uyi pushed the goat into.É
+
+\t Òzó gbòó ívìn        bòló ókà
+\m Òzó gbòó ívìn        bòló ókà
+\g Ozo plant coconut peel corn
+\l Ozo planted coconut and [he] peeled corn.
+
+\t Òzó lé ízè rrí órè
+\m Òzó lé ízè rrí órè
+\g Ozo cook rice eat it
+\l Ozo cooked rice and [he] ate it.
+
+\t Òzó gbé úkpù guòghó
+\m Òzó gbé úkpù guòghó
+\g Ozo hit cup break
+\l Ozo hit the cup and it broke.
+
+\t Òzó lé èvbàré ré
+\m Òzó lé èvbàré ré
+\g Ozo cook food eat
+\l Ozo cooked the food and ate it.
+
+\t Òzó dé èbé tìé
+\m Òzó dé èbé tìé
+\g Ozo buy book read
+\l Ozo bought the book and read it.
+
+\t Òzó dé ìyánk dùnmwún tòbórèk
+\m Òzó dé ìyánk dùnmwún tòbórèk
+\g Ozo buy yam       pound      itself
+\l Ozo bought the yam and pounded it (itself).
+
+\t ògók dé tk tòbórèk
+\m ògók dé tk tòbórèk
+\g bottle fall      itself
+\l The bottle fell, itself (alone).
+
+\t Òzó dùnmwún ìyánk tòbórèk
+\m Òzó dùnmwún ìyánk tòbórèk
+\g Ozo pound        yam itself
+\l Ozo pounded the yam, itself.
+
+\t Òzó    sùá     Àdésúwà gié!gié dé.
+\m Òzó    sùá     Àdésúwà gié!gié dé.
+\g Ozo push Adesuwa quickly fall
+\l Ozo pushed Adesuwa down quickly.
+
+\t Òzó dùnmwún èmà gié!gié khién.
+\m Òzó dùnmwún èmà gié!gié khién.
+\g Ozo pound        yam quickly sell
+\l Ozo pounded the yam and quickly sold it.
+
+\t Òzó tìérè là áwá             ókpá
+\m Òzó tìérè là áwá             ókpá
+\g Ozo read for hour            one
+\l Ozo read for an hour.
+
+\t Òzó tìé èbé là / vbè áwá ókpá
+\m Òzó tìé èbé là / vbè áwá ókpá
+\g Ozo read book for / in hour one
+\l Ozo read a book for an hour/in an hour.
+
+\t Òzó sùá Uyi dé
+\m Òzó sùá Uyi dé
+\g Ozo push Uyi fall
+\l Ozo pushed Uyi and made him fall.
+
+\t Òzó gbé èmá!tón pèrhé
+\m Òzó gbé èmá!tón pèrhé
+\g Ozo hammer metal flat
+\l Ozo hammered the metal flat.
+
+\t Òzó bó        òwá mòsé
+\m Òzó bó        òwá mòsé
+\g Ozo build house be-beautiful
+\l Ozo built the house to be beautiful.
+
+\t Òzó má úkpù zèzé guòghó
+\m Òzó má úkpù zèzé guòghó
+\g Ozo mould cup hard break
+\l Ozo moulded the cup so hard that it broke.
+
+\t Òzó kòkó àdésúwà mòsé vbè ùkpó ìsén/ *là ùkpó ìsén
+\m Òzó kòkó àdésúwà mòsé vbè ùkpó ìsén/ *là ùkpó ìsén
+\g Ozo raise Adesuwa be-beautiful in year five/*for year five
+\l Ozo raised Adesuwa to be beautiful in five years/*for five years.
+
+\t Òzó bó        òwá khién
+\m Òzó bó        òwá khién
+\g Ozo build house sell
+\l Ozo built the house and sold it.
+
+\t Òzó mién úkpù dé khién
+\m Òzó mién úkpù dé khién
+\g Ozo see cup buy sell
+\l Ozo saw the cup, bought it and sold it.
+
+\t Òzó dé ékpò ízè lé là ùkpó ìsén/vbè ùkpó ìsén
+\m Òzó dé ékpò ízè lé là ùkpó ìsén/vbè ùkpó ìsén
+\g Ozo buy bag rice eat for year five/in year five
+\l Ozo bought a bag of rice and ate it for five years/in five years.
+
+\t Òzó dé,      lé èvbàré
+\m Òzó dé,      lé èvbàré
+\g Ozo fall cook food
+\l Ozo fell, and (he) cooked food.
+
+\t Òzó sùá Uyi, dé
+\m Òzó sùá Uyi, dé
+\g Ozo push Uyi fall
+\l Ozo pushed Uyi, and Ozo fell.
+
+\t àkhé guòghó khànmwán
+\m àkhé guòghó khànmwán
+\g pot break          be-short
+\l The pot broke into small pieces.
+
+\t òtá kpàtàkì
+\m òtá kpàtàkì
+\g speech main
+\l the main idea
+
+\t Òtá nà yé kpàtàkì.
+\m Òtá nà yé kpàtàkì.
+\g Speech that be main
+\l that idea is main
+
+\t Èvbàré    oré            Òzó lérè                         khien(ren)
+\m Èvbàré    oré            Òzó lé-rè                         khien(-ren)
+\g food           FOCUS        Ozo cook-PAST                           sell(-PAST)
+\l It is food that Ozo has cooked and sold
+
+\t ozo ha         be     ewe khien
+\m ozo ha         be     ewe khien
+\g Ozo FUT hit           goat sell
+\l Ozo will kill the goat and sell it
+
+\t ozo ha        mien yan eva        le
+\m ozo ha        mien yan eva        le
+\g Ozo FUT find yam two cook
+\l Ozo will find two yams to cook (and do so)
+
+\t Òzó     dé ízè , rri òré
+\m Òzó     dé ízè , rri òré
+\g NAME buy rice          eat it
+\l Ozo bought rice and ate it
+
+\t Èmèrí mòsé.
+\m Èmèrí mòsé.
+\g Mary be.beautifulV
+\l Mary is beautiful.
+
+\t Èmèrí *(yé) mòsèmòsè.
+\m Èmèrí *(yé) mòsèmòsè.
+\g Mary PRED beautifulA
+\l Mary is beautiful.
+
+\t Úyì *(rè) òkhaèmwèn.
+\m Úyì *(rè) òkhaèmwèn.
+\g Uyi PRED chiefN
+\l Uyi is a chief.
+
+\t Èmèrí mòsé.
+\m Èmèrí mòsé.
+\g Mary be.beautifulV
+\l Mary is beautiful.
+
+\t Èmèrí *(yé) mòsèmòsè.
+\m Èmèrí *(yé) mòsèmòsè.
+\g Mary PRED beautifulA
+\l Mary is beautiful.
+
+\t Úyì *(rè) òkhaèmwèn.
+\m Úyì *(rè) òkhaèmwèn.
+\g Uyi PRED chiefN
+\l Uyi is a chief.
+
+\t Òzó ghá gbè èwé wù
+\m Òzó ghá gbè èwé wù
+\g Ozo FUT hit goat die
+\l Ozo will strike the goat dead
+
+\t Òzó tòbórè ghá gié!gié lé èvbàré
+\m Òzó tòbórè ghá gié!gié lé èvbàré
+\g Ozo by self FUT quickly cook food
+\l Ozo by himself will quickly cook the food
+
+\t Òzó miànmián yá tòbórè lé èvbàré
+\m Òzó miànmián yá tòbórè lé èvbàré
+\g Ozo forgot   to by self cook food
+\l Ozo forgot to cook the food by himself
+
+\t Òzó sùá ògó dé tòbórè
+\m Òzó sùá ògó dé tòbórè
+\g  Ozo push bottle fall by self
+\l Ozo pushed the bottle down by itself
+
+\t Úyì dé tòbórè
+\m Úyì dé tòbórè
+\g Uyi fall by self
+\l Uyi fell by himself
+
+\t Òzó lé        èvbàré ré.
+\m Òzó lé        èvbàré ré.
+\g Ozo cook food           eat
+\l Ozo cooked and ate food.
+
+\t Òzó lé        èvbàré rrí      ókè.
+\m Òzó lé        èvbàré rrí      ókè.
+\g Ozo cook food           eat it
+\l Ozo cooked food and ate it.
+
+\t Úyì sùá     èwé   lá     ùvún.
+\m Úyì sùá     èwé   lá     ùvún.
+\g Uyi push goat enter hole
+\l Uyi pushed the goat into the hole.
+
+\t (58) oÝzo?      de?       eÝbe?       kheÛhre?        tiÝe?
+\m (58) oÝzo?      de?       eÝbe?       kheÛhre?        tiÝe?
+\g      Ozo         buy        book        little           read
+\l Ozo bought (a) few books and read them.
+
+\t (59) oÝzo?      suÝa?    eÝrhaÛn        kheÛrhe?       deÝÖle?
+\m (59) oÝzo?      suÝa?    eÝrhaÛn        kheÛrhe?       deÝÖle?
+\g      Ozo         push      tree           few           fall-PL
+\l Ozo push (a) few trees down.
+
+\t (5 0 7 )    Ozo koko Adesuwa mose.
+\m (5 0 7 )    Ozo koko Adesuwa mose.
+\g             O.raise A.beautiful
+\l Ozo raised Adesuwa to be beautiful.
+
+\t (5 0 9 )    Ozo koko Adesuwa mose         vbe Iyoba.
+\m (5 0 9 )    Ozo koko Adesuwa mose         vbe Iyoba.
+\g             O.raise A.beautiful like queen mother
+\l Ozo raised Adesuwa to be beautiful like the Queen Mother.
+
+\t ·z£ hòón århÄn kpÅën         ivòn.
+\m ·z£ hòón århÄn kpÅën         ivòn.
+\g O.climb.AFF tree detach.AFF coconut
+\l  ·z£ climbed [the] tree and picked [a] coconut
+
+\t ·z£ b§l£ ®kÅ gb®©         ivòn.
+\m ·z£ b§l£ ®kÅ gb®©         ivòn.
+\g O.peel.AFF corn plant.AFF coconut
+\l  ·z£ peeled [some] corn and planted [some] coconut
+
+\t Â b©    §wÄ.
+\m Â b©    §wÄ.
+\g 3S buildH house
+\l S/he built [a] house
+
+\t §wa n®      b©
+\m §wa n-®      b©
+\g house DEF-3S buildH
+\l the house that s/he is building [now]
+
+\t §wa n®      b©( r ) å.
+\m §wa n-®      b©-( r ) å.
+\g house DEF-3S buildH-AFF
+\l the house that s/he built
+
+\t "wÄ TMrã "s£sÄ khiênrín.
+\m "wÄ TM-rã "s£sÄ khiên-rín.
+\g mat 3S-COP E.sellH-AFF
+\l It is [a] mat that"s£sÄ sold
+
+\t "wÄ årã    ikhiën.
+\m "wÄ å-rã    i-khiën.
+\g mat 3S-COP 1S-sellH
+\l What I sell/am selling is mats
+
+\t Â k®l© ekhwe.
+\m Â k®l© ekhwe.
+\g 3S pluckH eggplant
+\l S/he picked some eggplants
+
+\t Â k®l® ãkhwe.
+\m Â k®l® ãkhwe.
+\g 3S pluck eggplant
+\l `S/he picks eggplants/is picking eggplants
+
+\t YrÅn k£kor§ dë òm©t§.
+\m YrÅn k£ko-r§ dë òm©t§.
+\g 3P gatherH-AFF buy car
+\l They bought a car together
+
+\t Yzí ®rã ·z£ kanrí n ( bÄnbannÅ) ( d§£) bòg®© vbenianÅ.
+\m Yzí ®-rã ·z£ kan-rí n ( bÄnbannÅ) ( d§£) bòg®© vbenianÅ.
+\g nail 3S-COP O.pressH-AFF now     come "crooked" thus
+\l ·z£ ruined the nail (just now) by nailing it bent like this
+
+\t / rhie êrã na å.
+\m / rhie êrã na å.
+\g 1S take 3S give 3S
+\l I'm giving 3S to 3S
+
+\t / rhóe êrã nÅÄ å.
+\m / rhóe êrã nÅ-Ä å.
+\g 1S take 3S give-AFF 3S
+\l I gave 3S to 3S
+
+\t /yÄn TMrã ·z£ kok£         dunmwØn.
+\m /yÄn TM-rã ·z£ kok£         dunmwØn.
+\g yam 3S-COP O.gather(H! H) pound(H ! H)
+\l It's yams that ·z£ gathered and pounded
+
+\t írèn mi´En èní.
+\m írèn mi´En èní.
+\g     he see elephant
+\l He saw an elephant.
+
+\t ozo mianmian ya tie ebe Ere /*irEn
+\m ozo mianmian ya tie ebe Ere /*irEn
+\g Ozo forget to read book his / his
+\l Ozo forgot to read his book.
+
+\t Òzó ròró wèé Úyì tá            wèé Adesuwa bàá      írèn    òhó!ghé.
+\m Òzó ròró wèé Úyì tá            wèé Adesuwa bàá      írèn    òhó!ghé.
+\g Ozo thinks that Uyi say that Adesuwa accuse him(+L) of.lying
+\l Ozo thinks that Uyi said that Adesuwa accused him (Ozo or Uyi) of lying.
+

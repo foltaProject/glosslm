@@ -1,0 +1,375 @@
+\t Wâpahtam.
+\m Wâpahtam.
+\g see.TI.3
+\l S/he seesit'.
+
+\t Wâpahtamweu.
+\m Wâpahtam-w-e-u.
+\g see.TI.3-relational-TA theme sign (dir.3>3u)-3
+\l S/he sees it (in relation to him/her
+
+\t Wâpameu         napeuh.
+\m Wâpam-e-u         napeu-h.
+\g see.TA-dir.3>3u-3 man-obv(pl)
+\l S/he (prox) sees men (obv
+
+\t Wâpameu         napeuch.
+\m Wâpam-e-u         napeu-ch.
+\g   see.TA-dir.3>3u-3 man-(prox)pl
+\l S/he (prox) sees men (prox
+
+\t Niwâpamâuch       napeuch.
+\m Ni-wâpam-â-u-ch       napeu-ch.
+\g   1-see.TA-dir.1>3-3 man-(prox)pl
+\l I see men (prox
+
+\t (8)Wâpahtam mûhkumâniyû.
+\m (8)Wâpahtam mûhkumân-iyû.
+\g    see.TI.3      knife-obv
+\l S/he (prox) sees a knife (obv
+
+\t Wâpahtam mûhkumân.
+\m Wâpahtam mûhkumân.
+\g     see.TI.3      knife-(prox)
+\l S/he (prox) sees a knife (prox
+
+\t Niwâpahten mûhkumân.
+\m Ni-wâpahten mûhkumân.
+\g  1-see.TI.1      knife-(prox)
+\l I see a knife (prox
+
+\t Wâpahtam.
+\m Wâpa-ht-am.
+\g  see-TI final-TI theme sign(3>Wu)
+\l S/he seesit'.
+
+\t Wâpahtamweu.
+\m Wâpa-ht-am-w-e-u.
+\g see-TI final-TI theme sign(3>Wu)-rel-TA theme sign (dir.3>3u)-3
+\l She sees it (in relation to him/her
+
+\t Pâhkupayihtâu.
+\m Pâhkupayiht-â-u.
+\g dry-AI final-3
+\l S/he driesit'.
+
+\t Pâhkupayihtâweu.
+\m Pâhkupayiht-â-w-e-u.
+\g dry-AI final-rel-TA theme sign (dir.3>3u)-3
+\l She dries it (in relation to him/her
+
+\t Ninipân.
+\m Ni-nip-â-n.
+\g 1-sleep-AI final-1
+\l Isleep'.
+
+\t Ninipâwân.
+\m Ni-nip-â-w-â-n.
+\g 1-sleep-AI final-rel-TA theme sign (dir.1>3)-1
+\l I sleep (in relation to him/her
+
+\t Chische yihtam.
+\m Chische yihtam.
+\g know.TI.3
+\l S/he knowsit'.
+
+\t Nipâu       wîchihch.
+\m Nipâ-u       wîchihch.
+\g sleep.AI-3   3-bed-loc
+\l S/he sleeps in his/her (own)house'.
+
+\t Nipâweu              wîchiyihch.
+\m Nipâ-w-e-u              wîchiyihch.
+\g sleep.AI-rel-dir.3>3u-3 3u-bed-obv.loc
+\l S/he sleeps in his/her (someone else's)house'.
+
+\t Ninipân    chiichihch.
+\m Ni-nipâ-n    chi-ichihch.
+\g 1-sleep.AI-1 2-house.loc
+\l I sleep at yourhouse'.
+
+\t Niwâpahten chimûhkumân.
+\m Ni-wâpahten chi-mûhkumân.
+\g 1-see.TI.1  2-knife-(prox)
+\l I see yourknife'.
+
+\t Chikaschisamuwin.
+\m Chi-kaschisam-uw-in.
+\g 2-cook.until.tender.TI.3-appl-2>1
+\l You cook it (meat) tender forme'.
+
+\t Kaschisam.
+\m Kaschisam.
+\g cook.until.tender.TI.3
+\l S/he cooks it (meat) until tender
+
+\t Kaschisamuweu.
+\m Kaschisam-uw-e-u.
+\g cook.until.tender.TI.3-appl-dir.3>3u-3
+\l S/he cooks it (meat) tender for him/her
+
+\t Kaschisamweu                       wiyasiyû.
+\m Kaschisam-w-e-u                       wiyasiyû.
+\g cook.until.tender.TI.3-rel-dir.3>3u-3 (3u).meat.obv
+\l S/he cooks her/hismeat'.
+
+\t Nichische yihtamihâu.
+\m Ni-chische yihtam-ih-âu.
+\g 1-know.TI-c~aus-dir.1>3
+\l I make it known to him/her
+
+\t Nichische yihtamihîkw.
+\m Ni-chische yihtam-ih-îkw.
+\g 1-know.TI-caus-inv.3>1
+\l She makes it known tome'.
+
+\t Niwâpahtamwîkw.
+\m Ni-wâpahtam-w-îkw.
+\g 1-see.TI-rel-inv.3>1
+\l S/he sees it, in relation tome'.
+
+\t Mar y    nikaschisamuwâu.
+\m Mar y    ni-kaschisam-uw-âu.
+\g Mary     1-cook.until.tender.TI-appl-1>3
+\l I cook it for Mary
+
+\t Mar y    nichische yihtamihâu.
+\m Mar y    ni-chische yihtam-ih-âu.
+\g Mary     1-know.TI-caus-1>3
+\l I make it known to Mary
+
+\t Mar y niwâpahtamwân.
+\m Mar y ni-wâpahtam-w-â-n.
+\g    Mary 1-see.TI-3-rel.dir.1>3-1
+\l I see it, in relation to Mary
+
+\t Mar y ninipâwân.
+\m Mar y ni-nipâ-w-â-n.
+\g    Mary 1-sleep.AI-rel-dir.1>3-1
+\l I sleep, in relation to Mary
+
+\t Umuhkumân niwâpahtamwân.
+\m U-muhkumân ni-wâpahtam-w-â-n.
+\g  3-knife-(prox) 1-see.TI.3-rel-dir.1>3-1
+\l I see her/hisknife'.
+
+\t Chikanawe yihtamuwâu            utâpânâskuh.
+\m Chi-kanawe yihtam-uw-â-u            utâpânâsku-h.
+\g  2-look.after-TI-3-appl-dir.2>3-3 3.sled-obv
+\l You look after her/his sled for him/her
+
+\t Chikanawe yihtamuwâu            utut.
+\m Chi-kanawe yihtam-uw-â-u            utut.
+\g  2-look.after-TI-3-appl-dir.2>3-3 3.canoe
+\l You look after her/his canoe for him/her
+
+\t Chikanaweyihtamwân             utâpânâskuh.
+\m Chi-kanaweyihtam-w-â-n             utâpânâsku-h.
+\g   2-look.after-TI-3-rel-dir.2>3-2 3.sled-obv
+\l You look after her/hissled'.
+
+\t Chikanaweyihtamwân              utut.
+\m Chi-kanaweyihtam-w-â-n              utut.
+\g  2-look.after-TI-3-rel-dir.2>3-2 3.canoe
+\l You look after her/hiscanoe'.
+
+\t Nimiyâhtamwân               usith.
+\m Ni-miyâhtam-w-â-n               usit-h.
+\g  1-smell.TI.3-rel-dir.1>3-1 3.foot-pl
+\l I smell hisfeet'.
+
+\t Nimiyâhtamuwâu.
+\m Ni-miyâhtam-uw-â-u.
+\g    1-smell.TI.3-appl-dir.1>3-3
+\l I smell it forhim'.
+
+\t Miyâhtamweu.
+\m Miyâhtam-w-e-u.
+\g  3-smell.TI.3-rel-dir.3>3u-3
+\l S/he smells it (his/her. . .
+
+\t Miyâhtamuweu.
+\m Miyâhtam-uw-e-u.
+\g  3-smell.TI.3-appl-dir.3>3u-3
+\l S/he smells it for him/her
+
+\t Wâpahtamweu          umûhkumâniyû.
+\m Wâpahtam-w-e-u          u-mûhkumân-iyû.
+\g see.TI.3-rel-dir.3>3u-3 3u-knife-obv
+\l S/he sees his/her (someone else's)knife'.
+
+\t Wâpahtam umûhkumâniyû.
+\m Wâpahtam u-mûhkumân-iyû.
+\g see.TI.3  3u-knife-obv
+\l S/he sees his/her (someone else's)knife'.
+
+\t Wâpahtamweu         umûhkumân.
+\m Wâpahtam-w-e-u         u-mûhkumân.
+\g see.TI.3-rel-dir.3>3u-3 3-knife-(obv)
+\l S/he sees his/her ownknife'.
+
+\t Wâpahtam        umûhkumân        kâ         pîkupayiyich.
+\m Wâpahtam        u-mûhkumân        kâ         pîkupay-iyich.
+\g see.TI.3        3-knife-(obv)     preverb    be.broken.II-Wu
+\l S/he sees her/his own broken (obv)knife'.
+
+\t Wâpahtam umûhkumân      kâ      pîkupayihch.
+\m Wâpahtam u-mûhkumân      kâ      pîkupay-ihch.
+\g  see.TI.3 3-knife-(prox?) preverb be.broken.II-W
+\l S/he sees her/his own broken (prox)knife'.
+
+\t Niwâpahten nimûhkumân kâ         pîkupayihch.
+\m Ni-wâpahten ni-mûhkumân kâ         pîkupay-ihch.
+\g 1-see.TI.1  1-knife-(prox) preverb be.broken.II-W
+\l I see my own brokenknife'.
+
+\t Wâpahtamiyû umûhkumâniyû kâ                     pîkupayiyich.
+\m Wâpahtam-iyû u-mûhkumân-iyû kâ                     pîkupay-iyich.
+\g see.TI.3     3u-knife-obv   preverb                be.broken.II-Wu
+\l S/he (the other) sees his/her own brokenknife'.
+
+\t Nipâu     unipewinihch.
+\m Nipâ-u     u-nipewin-ihch.
+\g sleep.AI-3 3-bed-loc
+\l S/he sleeps in his/her (own)bed'.
+
+\t Nipâweu              unipewiniyihch.
+\m Nipâ-w-e-u              u-nipewin-iyi-hch.
+\g sleep.AI-rel-dir.3>3u-3 3-bed-obv-loc
+\l S/he sleeps in his/her (someone else's)bed'.
+
+\t Apuu         utehtapûnihch.
+\m Apu-u         u-tehtapûn-ihch.
+\g sit.AI-3      3-chair-loc
+\l She sits on her own chair
+
+\t Apuweu             utehtapûniyihch.
+\m Apu-w-e-u             u-tehtapûn-iyi-hch.
+\g sit.AI-rel-dir.3>3u-3 3-chair-obv-loc
+\l She sits on someone else's chair
+
+\t Utapânâskwiyihch apuweu. (utapânâskuyihch)
+\m Utapânâskw-iyi-hch apu-we-u. (utapânâskuyihch)
+\g 3u.sled-obv-loc    sit.AI-rel-TA.3>3u-3
+\l He is sitting on hersled'.
+
+\t Wâpameu                      uutapânâskwh.
+\m Wâpam-e-u                      u-utapânâskw-h.
+\g see.TA-dir.3>3u-3               3-sled-obv
+\l He sees hissled'.
+
+\t Uutapânâskwuhch apû. (utapânâskuhch)
+\m U-utapânâskw-uhch apû. (utapânâskuhch)
+\g 3-sled-loc        sit.AI-3
+\l He is sitting on his (own)sled'.
+
+\t Niwâpahtamwân.
+\m Ni-wâpahtam-w-ân.
+\g 1-see.TI.3-rel-1
+\l I see it, in relation to him/her (his thing
+
+\t Ninipâwân.
+\m Ni-nipâ-w-ân.
+\g 1-sleep.AI-rel-1
+\l I sleep, in relation to him/her (in his bed
+
+\t Elle   se        lave       les   mains.
+\m Elle   se        lave       les   mains.
+\g she    herself   washes     the   hands
+\l She washes herhands'.
+
+\t Nipânû.
+\m Nipâ-nû.
+\g sleep.AI-Impersonal
+\l It is beingslept'.
+
+\t Nipânûyû.
+\m Nipâ-nû-yû.
+\g sleep.AI-Impersonal-yû
+\l It is being slept (at someone else's house
+
+\t Ishka       nipânûwâ.
+\m Ishka       nipâ-nû-wâ.
+\g Preverb     sleep.AI-Impersonal-Subjective
+\l It seems that it is beingslept'.
+
+\t Ishka       nipânûyûwâ.
+\m Ishka       nipâ-nû-yû-wâ.
+\g Preverb     sleep.AI-Impersonal-yû-Subjective
+\l It seems that it is being slept (at someone else's house
+
+\t Kanawâpahtâkanû.
+\m Kanawâpahtâ-kanû.
+\g look-TI-pass
+\l It is being lookedat'.
+
+\t Kanawâpahtâkanûyû.
+\m Kanawâpahtâ-kanû-yû.
+\g look-TI-pass-yû
+\l It is being looked at (while s/he is there
+
+\t Chipah      kanawâpahtâkanûhpanach.
+\m Chipah      kanawâpahtâ-kanûh-panach.
+\g Preverb     look.TI-pass-Indicative P reterit
+\l I should be lookedat'.
+
+\t Niwâpahtamwân                     mistikuyû.
+\m Ni-wâpahtam-w-â-n                     mistiku-yû.
+\g 1-see.TI.3-rel-dir1-3-1               wood-obv
+\l I see a stick (but s/he does not) / (over at her/his place
+
+\t Niwâpahtamwân       mistikuyû mikw namui                          wâpahtam             wî.      
+\m Ni-wâpahtam-w-â-n       mistiku-yû mikw namui                          wâpahtam             wî.      
+\g 1-see.TI.3-rel-dir1-3-1 wood-obv but    not                            see.TA.3             3emphatic
+\l I see a stick, but s/he doesnot'.
+
+\t Niwâpahten              mistikw.
+\m Ni-wâpahten              mistikw.
+\g 1-see.TI.1               wood
+\l I see astick'.
+
+\t Chipah       kanawâpahtâkanûhyihpanh.
+\m Chipah       kanawâpahtâ-kanûh-yih-panh.
+\g Preverb      look.TI-pass-yih-Indicative P reterit
+\l I should be looked at (while s/he is there
+
+\t Nipâyûh.
+\m Nipâ-yûh.
+\g sleep.AI-3u
+\l His/her . . . (child)sleeps'.
+
+\t Kanawâpahtamiyûh.
+\m Kanawâpahtam-iyûh.
+\g look.TI-3u
+\l His/her . . . (child) looks atit'.
+
+\t Aniyâ    nikâwî nika tipâchimuwân        e       chî          tipâchimushtût.
+\m Aniyâ    ni-kâwî ni-ka tipâchimu-w-ân        e       chî          tipâchimushtût.
+\g the-late 1-mother 1-fut tell.AI-rel-dir1>3-1 preverb past         tell.AI.1      
+\l My late mother, I will tell her story, how she told it tome'.
+
+\t Aniyâ nikâwî nika tipâchimuwân.
+\m Aniyâ ni-kâwî ni-ka tipâchimu-w-ân.
+\g the-late 1-mother 1-fut tell.AI-rel-dir1>3-1
+\l I will tell her story, my late mother
+
+\t Nimiye yihtamwân   che     chistuhtet.
+\m Ni-miye yihtam-w-ân   che     chistuhte-t.
+\g 1 be.happy.TI.3-rel-1 preverb leave.AI-3
+\l I am happy (in relation to her) that she isleaving'.
+
+\t Nimiye yihten che      chistuhtet.
+\m Ni-miye yihten che      chistuhte-t.
+\g 1-be.happy.TI.1 preverb leave.AI-3
+\l I am happy that she isleaving'.
+
+\t Nimiye yihtamwân   che     chistuhtet û               napeu.
+\m Ni-miye yihtam-w-ân   che     chistuhte-t û               napeu.
+\g 1-be.happy.TI.3-rel-1 preverb leave.AI-3 this             man(prox)
+\l I am happy (in relation to him [the man]) that the man isleaving'.
+
+\t Nimiye yihtamwân e       mîchisyich utawâshimh.
+\m Ni-miye yihtam-w-ân e       mîchis-yich u-t-awâshim-h.
+\g 1 like.TI.3-rel-1   preverb eat.AI-3u   3-child-obv
+\l I am happy (in relation to the child) that his/her child iseating'.
+

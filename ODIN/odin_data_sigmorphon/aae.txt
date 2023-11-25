@@ -1,0 +1,520 @@
+\t E "SOGEn
+\m E "SOGEn
+\g him they-see
+\l They see him
+
+\t i "japEn k"t@
+\m i "japEn k"t@
+\g to-him they-give this
+\l They give this to him
+
+\t j a "japEn
+\m j a "japEn
+\g to-him it they-give
+\l They give it to him
+
+\t m@ "SOGEn
+\m m@ "SOGEn
+\g me they-see
+\l They see me
+
+\t m E "japEn
+\m m E "japEn
+\g to-me it they-give
+\l They give it to me
+
+\t t E "jaB@
+\m t E "jaB@
+\g           to-you(sg) it I-give
+\l I give it to you
+
+\t E kiS "pa:4
+\m E kiS "pa:4
+\g him he-had seen
+\l He had seen him
+
+\t i kiS "D@n k"t@
+\m i kiS "D@n k"t@
+\g to-him he-had given this
+\l He had given tis to him
+
+\t jai kiS "D@n
+\m ja-i kiS "D@n
+\g to-him it he-had given
+\l He had given it to him
+
+\t m kiS "pa:4
+\m m kiS "pa:4
+\g me he-had seen
+\l He had seen me
+
+\t m E kiS "D@n
+\m m E kiS "D@n
+\g to-me it he-had given
+\l He had given it to me
+
+\t E kOm "la:r
+\m E kOm "la:r
+\g it I-have washed
+\l I have washed it
+
+\t (n@Ng) E/i "kammE/i "fritt@r@
+\m (n@Ng) E/i "kamm-E/i "fritt@r@
+\g (not) him/them I-have-him/them called
+\l I have (not) called him/them
+
+\t (n@Ng@) t E "kammE "h@nn@
+\m (n@Ng@) t E "kamm-E "h@nn@
+\g (not) to-you(sg) it I-have-it given
+\l I have (not) given it to you
+
+\t u kiSE E/ i "Tritur
+\m u kiSE E/ i "Tritur
+\g I had him/them called
+\l I had (would have) called him/ them
+
+\t u kiSE ja "d@jtur
+\m u kiSE ja "d@jtur
+\g I had to-him it given
+\l I had given it to him
+
+\t a"i "kiSE ja "d@jtur
+\m a"i "kiSE ja "d@jtur
+\g he had to-him it given
+\l He had given it to him
+
+\t na "kiSE ja "d@jtur
+\m na "kiSE ja "d@jtur
+\g we had to-him it given
+\l We had given it to him
+
+\t a"i (Ng@) "kiSE m@/ t@ "Tritur
+\m a"i (Ng@) "kiSE m@/ t@ "Tritur
+\g he (not) had me/ you called
+\l He had not called me/ you
+
+\t na "kiSE t@ "Tritur
+\m na "kiSE t@ "Tritur
+\g we had you called
+\l We had called you
+
+\t a"tO "kiSE m@ "Tritur
+\m a"tO "kiSE m@ "Tritur
+\g they had me called
+\l They had called me
+
+\t u kiSE t E "d@jtur
+\m u kiSE t E "d@jtur
+\g I had to-you it given
+\l I had given it to you
+
+\t ti kiSE m E "d@jtur
+\m ti kiSE m E "d@jtur
+\g you-sg had to-me it given
+\l You had given it to me
+
+\t a"i "kiSE m E "d@jtur
+\m a"i "kiSE m E "d@jtur
+\g he had to-me it given
+\l He had given it to me
+
+\t ju "kiSE m E "d@jtur
+\m ju "kiSE m E "d@jtur
+\g you-pl had to-me it given
+\l You had given it to me
+
+\t a"tO (Ng@) "kiSE m E "d@jtur
+\m a"tO (Ng@) "kiSE m E "d@jtur
+\g they (not) had to-me it given
+\l They had (not) given it to me
+
+\t "p4itE
+\m "p4it-E
+\g wait(sg)-him
+\l Wait for him!
+
+\t "p4itm@
+\m "p4it-m@
+\g wait(sg)-me
+\l Wait for me!
+
+\t "p4itna
+\m "p4it-na
+\g wait(sg)-us
+\l Wait for us!
+
+\t "p4itniE
+\m "p4it-ni-E
+\g wait-pl-him
+\l Wait for him!
+
+\t "p4itm@ni
+\m "p4it-m@-ni
+\g wait-me-pl
+\l Wait for me!
+
+\t "zOEOm
+\m "zOEO-m
+\g wake up-sg me
+\l Wake me up!
+
+\t "zOEOna
+\m "zOEO-na
+\g wake up-sg us
+\l Wake us up!
+
+\t "zOEOniE
+\m "zOEO-ni-E
+\g wake up-pl-him
+\l Wake him up!
+
+\t mOs E "p4it
+\m mOs E "p4it
+\g not him wait
+\l Don't wait for him!
+
+\t mOs m "p4it
+\m mOs m "p4it
+\g not me wait
+\l Don't wait for me!
+
+\t mOs na "p4it
+\m mOs na "p4it
+\g not us wait
+\l Don't wait for us!
+
+\t mOs E "p4i(t)ni
+\m mOs E "p4i(t)-ni
+\g not him wait-pl
+\l Don't wait for him!
+
+\t mOs m "p4i(t)ni
+\m mOs m "p4i(t)-ni
+\g not me wait-pl
+\l Don't wait for me!
+
+\t mOs na "p4i(t)ni
+\m mOs na "p4i(t)-ni
+\g not us wait-pl
+\l Don't wait for us!
+
+\t n@Ng E "SOGEn
+\m n@Ng E "SOGEn
+\g not him they-see
+\l They do not see him
+
+\t u t " TO m               t E "b@tS
+\m u t " TO m               t E "b@tS
+\g I to you say             PRT it you-do(subj)
+\l I am telling you        to do it
+
+\t 6 m6 "mi4        t@ N"g46G@tS
+\m 6 m6 "mi4        t@ N"g46G@tS
+\g it-is better     PRT you-get up-subj
+\l it is better    that you get up
+
+\t "ErDa          p@ t E "SOr@
+\m "ErDa          p@ t E "SOr@
+\g I-came         for PRT him I-see(subj)
+\l I came in order to see him
+
+\t "zruDa         p@ mOh E "SOr@
+\m "zruDa         p@ mOh E "SOr@
+\g I-went away for not him I-see
+\l I went away in order not to see him
+
+\t a"i m@ "Ta     t E "b6J
+\m a"i m@ "Ta     t E "b6J
+\g he to-me said PRT it I-do
+\l He told me to do it
+
+\t u "dua         t E "b6tS
+\m u "dua         t E "b6tS
+\g I want         PRT it you-do(subj)
+\l I want you to do it
+
+\t t@ "TOm         (sa) t "vi:tS
+\m t@ "TOm         (sa) t "vi:tS
+\g to-you I-say (that) PRT you-come
+\l I am telling you to come
+
+\t cf.     m@ kOn "TO:n sE "viEn
+\m cf.     m@ kOn "TO:n sE "viEn
+\g         to-me they-have said that he-comes
+\l They have said to me that he comes
+
+\t t@ "TEj@      t@ a "TratS@
+\m t@ "TEj@      t@ a "TratS@
+\g to-you I-said PRT him you-call
+\l I told you   to call him
+
+\t u "kiSa z"OEuE4
+\m u "kiSa z"OEuE4
+\g myself I-had waked up
+\l I had waked up
+
+\t (j)u "kiSa z@"OEeur
+\m (j)u "kiSa z@"OEeur
+\g myself I-had waked up
+\l I had waked up
+
+\t "kiSE u "laxur/ z"OEuitur
+\m "kiSE u "laxur/ z"OEuitur
+\g I-had myself washed/ waked up
+\l I had waked up
+
+\t jOm "la:r
+\m jOm "la:r
+\g I-am washed
+\l I have washed myself
+
+\t cf.   kOm ar"Du
+\m cf.   kOm ar"Du
+\g       I-have come
+\l I have come
+
+\t "kOm "fjOtu ...
+\m "kOm "fjOtu ...
+\g I-have slept
+\l I have slept
+
+\t cf.   "kiSa "arDu
+\m cf.   "kiSa "arDu
+\g       I-had come
+\l I had come
+
+\t "kiSa "fjOtu
+\m "kiSa "fjOtu
+\g I-had slept
+\l I had slept
+
+\t siOE"OEOGu
+\m siOE"OEO-G-u
+\g wake up-M/R-yourself
+\l Wake up!
+
+\t siOE"OEOGuni
+\m siOE"OEO-G-u-ni
+\g wake up-M/R-yourself-pl
+\l Wake up!
+
+\t mOs@ siOE"OEOGu
+\m mOs@ siOE"OEO-G-u
+\g not wake up-M/R-yourself
+\l Don't wake up!
+
+\t mOs@ siOE"OEOGuni
+\m mOs@ siOE"OEO-G-u-ni
+\g not wake up-M/R-yourself-pl
+\l Don't wake up!
+
+\t "viSu
+\m "viS-u
+\g dress up-yourself
+\l Dress yourself up!
+
+\t "viSuni
+\m "viS-u-ni
+\g dress up-yourself-pl
+\l Dress ypourself up!
+
+\t mOs@ "viSu
+\m mOs@ "viS-u
+\g not dress up-yourself
+\l Don't dress yourself up!
+
+\t mOs@ "viSuni
+\m mOs@ "viS-u-ni
+\g not dress up-yourself-pl
+\l Don't dress yourself up!
+
+\t "zOEOu
+\m "zOEO-u
+\g wake up-yourself
+\l Wake up!
+
+\t "zOEOGani
+\m "zOEO-G-a-ni
+\g wake up-M/R-pl
+\l Wake up!
+
+\t mOs u z"OEO
+\m mOs u z"OEO
+\g not yourself wake up
+\l Don't wake up!
+
+\t mOs z"OEOGani
+\m mOs z"OEO-G-a-ni
+\g not wake up-M/R-pl
+\l Don't wake up!
+
+\t "vESu
+\m "vES-u
+\g dress up-yourself
+\l Dress up!
+
+\t "vESani
+\m "vES-a-ni
+\g dress up-M/R-pl
+\l Dress up!
+
+\t mOs u "vES
+\m mOs u "vES
+\g not yourself dress up
+\l Don't dress up!
+
+\t mOs "vESani
+\m mOs "vES-a-ni
+\g not dress up-M/R-pl
+\l Don't dress yourself up!
+
+\t dzi"OXu
+\m dzi"O-X-u
+\g wake up-M/R-yourself
+\l Wake up!
+
+\t dzi"oX@ni
+\m dzi"o-X@-ni
+\g wake up-M/R-pl
+\l Wake up!
+
+\t mis u dzi"OX
+\m mis u dzi"O-X
+\g not yourself wake up-M/R
+\l Don't wake up!
+
+\t mOs dzi"OX@ni
+\m mOs dzi"O-X@-ni
+\g not wake up-M/R-pl
+\l Don't wake up!
+
+\t "viSu
+\m "viS-u
+\g dress up-M/R-yourself
+\l Dress up!
+
+\t "viS@ni
+\m "viS-@-ni
+\g dress up-M/R-pl
+\l Dress up!
+
+\t mis u "viS
+\m mis u "viS
+\g not yourself dress up-M/R
+\l Don't dress up!
+
+\t mis "viS@ni
+\m mis "viS-@-ni
+\g not dress up-M/R-pl
+\l Don't dress yourself up!
+
+\t "Laxu
+\m "La-x-u
+\g wash-M/R-yourself
+\l Wash yourself!
+
+\t "Laxni
+\m "La-x-ni
+\g wash-M/R-pl
+\l Wash yourself!
+
+\t mOs u "Lax
+\m mOs u "La-x
+\g not yourself wash-M/R
+\l Dpon't wash yourself!
+
+\t mOs "Lax@ni
+\m mOs "La-x@-ni
+\g "not wash-M/R-pl
+\l Don't wash yourself!
+
+\t zi"OEeuw@
+\m zi"OEeu-w@
+\g wake up-M/R-yourself
+\l Wake up!
+
+\t zi"OEOnni
+\m zi"OEO-n-ni
+\g wake up-M/R-pl
+\l Wake up!
+
+\t mOs u z@"OEeu
+\m mOs u z@"OEeu
+\g not yourself wake up-M/R
+\l Don't wake up!
+
+\t mOs z@"OEOnni
+\m mOs z@"OEO-n-ni
+\g not wake up-M/R-pl
+\l Don't wake up!
+
+\t "viSu
+\m "viS-u
+\g dress up-yourself
+\l Dress yourself up!
+
+\t "viS@ni
+\m "viS@-ni
+\g dress up-M/R-pl
+\l Dress ypourself up!
+
+\t mOs u "viS
+\m mOs u "viS
+\g not yourself dress up
+\l Don't dress up!
+
+\t mOs "viS@ni
+\m mOs "viS@-ni
+\g not dress up-M/R-pl
+\l Don't dress up!
+
+\t "zOEOxu
+\m "zOEO-x-u
+\g wake up-M/R-yourself
+\l Wake up!
+
+\t "zOEOx@ni
+\m "zOEO-x@-ni
+\g wake up-M/R-pl
+\l Wake up!
+
+\t mOs u z"OEOx
+\m mOs u z"OEO-x
+\g not yourself wake up-M/R
+\l Don't wake up!
+
+\t mOs z"OEOX@ni
+\m mOs z"OEO-X@-ni
+\g not wake up-M/R-pl
+\l Don't wake up!
+
+\t a"i u            veS
+\m a"i u            veS
+\g he himself dressed
+\l he dressed himself
+
+\t u         fj@:
+\m u         fj@:
+\g one       slept
+\l one slept
+
+\t a"ta      u "pan sEmbrE sE SkuEn
+\m a"ta      u "pan sEmbrE sE SkuEn
+\g they one saw-pl always that (they) passed by
+\l They are always seen to pass-by
+
+\t u         tSa:   "cELci
+\m u         tSa:   "cELci
+\g itself it-broke glass-the
+\l The glass broke
+
+\t Nn vv'av ss a cred r
+\m Nn vv'av ss a cred r
+\g Neg you'had-pst.subj. a believe-inf.
+\l Don't believe that!
+
+\t Xhiuvani ka pare se              Maria ka ngrone moghin.
+\m Xhiuvani ka pare se              Maria ka ngrone moghin.
+\g    Xhiuvani has seen COMP Maria has eaten apple
+\l John saw that Maria has eaten the apple.
+

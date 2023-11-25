@@ -1,0 +1,720 @@
+\t Ùdíny Juàny bè'cw       cùn yàg.
+\m Ù-díny Juàny bè'cw       cùn yàg.
+\g com-hit John dog         with stick
+\l John hit that dog with astick'.
+
+\t ¿Tú   ùdíny Juàny cùn     yàg?
+\m ¿Tú   ù-díny Juàny cùn     yàg?
+\g  what com-hit John with stick
+\l What did John with a stick?'3
+
+\t ¿Xhí     cùn ùdíny        Juàny bè'cw?
+\m ¿Xhí     cùn ù-díny        Juàny bè'cw?
+\g what     with com-hit      John dog
+\l What did John hit the dog with?
+
+\t Juà:ny cù'á xpè'cw Màrì:.
+\m Juà:ny cù'á x-pè'cw Màrì:.
+\g John com:grab p-dog Mary
+\l John grabbed Mary's dog.'4:214
+
+\t ¿Tú xpè'cw cù'á   Juàny?
+\m ¿Tú x-pè'cw cù'á   Juàny?
+\g  who p-dog com:grab John
+\l Whose dog did John grab?'4:214
+
+\t Juàny cù'á    bè'cw re'
+\m Juàny cù'á    bè'cw re'
+\g John com:grab dog that
+\l John grabbed that dog.
+
+\t ¿Tú bè'cw cù'á    Juàny?
+\m ¿Tú bè'cw cù'á    Juàny?
+\g which dog com:grab John
+\l Which dog did John grab?
+
+\t Ùdíny Juàny bè'cw cùn         yàg ré'.
+\m Ù-díny Juàny bè'cw cùn         yàg ré'.
+\g com-hit John dog with          stick that
+\l John hit the dog with that stick.
+
+\t ¿Cùn xhí    yàg ùdíny Juàny bè'cw?
+\m ¿Cùn xhí    yàg ù-díny Juàny bè'cw?
+\g  with which stick com-hit John dog
+\l With which stick did John hit the dog?
+
+\t ¿Cùn tú     xcyàg ùdíny Juàny bè'cw?
+\m ¿Cùn tú     x-cyàg ù-díny Juàny bè'cw?
+\g  with whose p-stick com-hit John dog
+\l With whose stick did John hit the dog?
+
+\t ¿Cùn tú     xcyàg    ùdíny Juàny bè'cw?
+\m ¿Cùn tú     x-cyàg    ù-díny Juàny bè'cw?
+\g  with whose p-stick com-hit John dog
+\l With whose stick did John hit the dog?
+
+\t Là'à Juáàny cùn Móòny zèh'èh lòò ìnyá'.
+\m Là'à Juáàny cùn Móòny zèh'èh lòò ìnyá'.
+\g foc John and Ramón went to field
+\l John and Ramón went to the field.
+
+\t Juáàny, Móòny, cùn Màríì
+\m Juáàny, Móòny, cùn Màríì
+\g Juan Ramón and Maria
+\l Juan, Ramón, and Maria.
+
+\t Juáàny cùn      Móòny cùn Màríì
+\m Juáàny cùn      Móòny cùn Màríì
+\g Juan and        Ramón and Maria
+\l Juan and Ramón and Maria.
+
+\t Gwìì Juáàny Ldùá' cùn Màríì.
+\m Gwìì Juáàny Ldùá' cùn Màríì.
+\g com:go Juan Oaxaca with Maria
+\l Juan went to Oaxaca with Maria.
+
+\t Ùdììny Juáàny bèh'cw cùn yààg.
+\m Ù-dììny Juáàny bèh'cw cùn yààg.
+\g com-hit Juan dog      with stick
+\l Juan hit the dog with a stick.
+
+\t Ùnáá      Lwííèhz,      Léhèhn(=nà), Móòny=nà.
+\m Ù-náá      Lwííèhz,      Léhèhn(=nà), Móòny=nà.
+\g com-see:1s Luisa         Elena(=and) Ramón=and
+\l I saw Luisa, Elena, and Ramón.
+
+\t Ùnáá     Lwííèhz=nà,             Léhèhn=nà,   Móòny=nà.
+\m Ù-náá     Lwííèhz=nà,             Léhèhn=nà,   Móòny=nà.
+\g com-see:1s Luisa=conj              Elena=and    Ramón=and
+\l I saw Luisa, Elena, and Ramón.
+
+\t ¿Túú ùnàà Móòny __             Léhèhn=nà.
+\m ¿Túú ù-nàà Móòny __             Léhèhn=nà.
+\g  who com-see Ramón               Elena=and
+\l Who did Ramón see and Elena?
+
+\t Nà ùzíí=yá gèhèht, gèhèhtgúù=nà cùn èhnchiláàd=nà.
+\m Nà ù-zíí=yá gèhèht, gèhèhtgúù=nà cùn èhnchiláàd=nà.
+\g I com-buy=1s tortilla tamale=and and enchilada=and
+\l I bought tortillas, tamales, and enchiladas.
+
+\t Lá=Juáány gù=Móòny zè'èh lòò ìnyá'.
+\m Lá=Juáány gù=Móòny zè'èh lòò ìnyá'.
+\g q=John    or=Ramón com:go to field
+\l Was it John or Ramón who went to the field?
+
+\t Ííty rrcááz=tì'    gèhèht nììzá gèhèhtgúù nììzá èhnchìláàd.
+\m Ííty rr-cááz=tì'    gèhèht nììzá gèhèhtgúù nììzá èhnchìláàd.
+\g neg hab-want:1s=neg tortilla nor tamale   nor enchilada
+\l I don't want tortillas, tamales, or enchiladas.
+
+\t Ííty rrcááz=tì'    yà'y=á'      nììzá gùny=á còsìnáàrr nììzá gùld=à.
+\m Ííty rr-cááz=tì'    yà'y=á'      nììzá g-ùny=á còsìnáàrr nììzá g-ùld=à.
+\g neg hab-want:1s=neg pot:dance=1s nor pot-do=1 cook nor pot-sing=1s
+\l I don't want to dance, cook, or sing.
+
+\t Ííty rrcááz=tì'   gèhèht gèhèhtgúù nììzá èhnchìláàd.
+\m Ííty rr-cááz=tì'   gèhèht gèhèhtgúù nììzá èhnchìláàd.
+\g neg hab-want:1s=neg tortilla tamale       nor enchilada
+\l I don't want tortillas, tamales, or enchiladas.
+
+\t Ííty rrcááz=tì'                nììzá gèhèht nììzá gèhèhtgúù nììzá èhnchìláàd.
+\m Ííty rr-cááz=tì'                nììzá gèhèht nììzá gèhèhtgúù nììzá èhnchìláàd.
+\g   neg hab-want:1s=neg             nor tortilla nor tamale     nor enchilada
+\l I don't want tortillas, tamales, or enchiladas.
+
+\t Juáány ííty=bí nyúút=bì rájte bzììny.
+\m Juáány ííty=bí ny-úút=bì rájte bzììny.
+\g      John not=3 neg-kill=3 all mouse
+\l John didn't kill all the mice.
+
+\t ¿Lá=bèh'ty Juáány bzììny?
+\m ¿Lá=bèh'ty Juáány bzììny?
+\g q=com:kill John    rat
+\l Did John kill the rat?
+
+\t ¿Lá=ííty Juààny nyúúty bzììny?
+\m ¿Lá=ííty Juààny nyúúty bzììny?
+\g  q=not John neg:kill rat
+\l Didn't John kill the rat?
+
+\t ¿Lá=nnà'ì bèh'ty Juààny bzììny?
+\m ¿Lá=nnà'ì bèh'ty Juààny bzììny?
+\g q=yesterday com:kill John rat
+\l Did John kill a rat yesterday?'5:44
+
+\t Ííty ùlù'ù=tì' Juá àny bzyàá lè'è ny bòòls.
+\m Ííty ù-lù'ù=tì' Juá àny bzyàá lè'è ny bòòls.
+\g neg com-put=neg Juan beans in          bag
+\l Juan didn't put the beans in the bag.
+
+\t Ùzìì' Juáàny tòyby xhùmbréh èhjl.                          VSO
+\m Ù-zìì' Juáàny tòyby xhùmbréh èhjl.                          VSO
+\g com-buy Juan a     hat
+\l Juan bought a hat.
+
+\t Ràjc   rù'ld Juáàny
+\m R-àjc   r-ù'ld Juáàny
+\g hab-can hab-sing Juan
+\l Juan can sing.
+
+\t Byàlòò byàjb nìjsgìì.
+\m B-yàlòò b-yàjb nìjsgìì.
+\g com-stop com-fall rain
+\l Rain stopped falling.
+
+\t Byàlòò ùdòàb     Juáàny gèhjs.
+\m B-yàlòò ù-dòàb     Juáàny gèhjs.
+\g com-stop com-smoke Juan cigarette
+\l Juan stop ped sm okin g.
+
+\t Ràjc Juáàny rù'ld
+\m R-àjc Juáàny r-ù'ld
+\g hab-can Juan hab-sing
+\l Juan can sing.
+
+\t Ùzìì' Juáàny tòyby xhùmbréhèhjl.
+\m Ù-zìì' Juáàny tòyby xhùmbréhèhjl.
+\g com-buy Juan a hat
+\l Juan bought a hat.
+
+\t Ùzìì'          Ø tòyby xhùm bréhèhjl.
+\m Ù-zìì'          Ø tòyby xhùm bréhèhjl.
+\g com-buy             a    hat
+\l Bought a hat.'4
+
+\t Ùzì ì'=éhby tòyby xhùmbréhèhjl.
+\m Ù-zì ì'=éhby tòyby xhùmbréhèhjl.
+\g com-buy=3 a        hat
+\l He bought a hat.
+
+\t Ùzì ì'=éhby Juáàny tòyby xhùmbréhèhjl.
+\m Ù-zì ì'=éhby Juáàny tòyby xhùmbréhèhjl.
+\g com-buy=3 John      a    hat
+\l John he bought a hat.
+
+\t Cáàdy Màrí í [gídòbyá' Ø].
+\m Cáàdy Màrí í [gí-dòbyá' Ø].
+\g still:not Maria pot-worry
+\l Maria still isn't worrying.
+
+\t Rrcà'z Juáàny [gú'ld Ø       gìtàrry].
+\m Rr-cà'z Juáàny [gú-'ld Ø       gìtàrry].
+\g hab-want Juan pot-play         guitar
+\l Juan wants to play guitar.
+
+\t Rrcà'z=bí    [gú'ld=bí gìtàrry].
+\m Rr-cà'z=bí    [gú-'ld=bí gìtàrry].
+\g hab-want=3     pot-play=3 guitar
+\l He wants to play guitar.
+
+\t Rrcà'z Juáàny [ízálòò     gúùn y Ø yù'.]
+\m Rr-cà'z Juáàny [í-zálòò     gúùn y Ø yù'.]
+\g hab-want Juan           pot-stop pot:do                  house
+\l Juan wants to stop (i.e. finish) building the house.
+
+\t Rrcà'z=bí [ízálòò gúùn y=bí yù'.]
+\m Rr-cà'z=bí [í-zálòò gúùn y=bí yù'.]
+\g hab-want Juan pot-stop pot:do=3 house
+\l Juan wants to stop building the house.
+
+\t Rrcà'z=bí [íz álòò gúùn y Ø yù'.]
+\m Rr-cà'z=bí [í-z álòò gúùn y Ø yù'.]
+\g hab-want Juan pot-stop pot:do house
+\l Juan wants to st op bui ldin g the ho use.
+
+\t Rrcà'z Juáàny [gú'ld Ø       gìtàrry].
+\m Rr-cà'z Juáàny [gú-'ld Ø       gìtàrry].
+\g hab-want Juan pot-play         guitar
+\l Juan wants to play guitar.
+
+\t Rrcà'z Juáàny [rú'ld Ø gìtàrry].
+\m Rr-cà'z Juáàny [r-ú'ld Ø gìtàrry].
+\g hab-want Juan hab-play guitar
+\l Juan wants to play guitar.
+
+\t Rrcà'z Juáàny [ízálòò        gúùn y Ø yù'.]
+\m Rr-cà'z Juáàny [í-zálòò        gúùn y Ø yù'.]
+\g hab-want Juan pot-stop         pot:do house
+\l Juan wants to stop building the house.
+
+\t Gàjc cú'        bxhùùz=ríí' mììs.
+\m Gàjc cú'        bxhùùz=ríí' mììs.
+\g pot:can pot:have priest=that mass
+\l That priest can celebrate the mass.
+
+\t Ííty nyàjc  nígú'   bxhùùz=ríí' mììs.
+\m Ííty ny-àjc  ní-gú'   bxhùùz=ríí' mììs.
+\g  not neg-can neg-have priest=that mass
+\l That priest cannot celebrate the mass.
+
+\t Ùdì 'by Màríí l àjdy [cùn dè]
+\m Ù-dì 'by Màríí l àjdy [cùn dè]
+\g com-wash Maria clothes with soap:powder
+\l Maria washed the clothes with soap powder.
+
+\t Bìèhl à'z=á' [ùdì'by Màríí làjdy [cùn dè]
+\m Bì-èhl à'z=á' [ù-dì'by Màríí làjdy [cùn dè]
+\g com-forget=1 com-wash Maria clothes with soap:powder
+\l I forgot that Maria washed the clothes with soap powder.
+
+\t [Cùn dè]               byàlòò         ùdì 'by        Màríí l àjdy  .
+\m [Cùn dè]               b-yàlòò         ù-dì 'by        Màríí l àjdy  .
+\g with soap:powder       com-finish      com-wash        Maria clothes
+\l Maria finished washing the clothes with soap powder.
+
+\t Byàlòò         [gù'   Juáàny] chì'í [ùdòàb=bí gèhjs].
+\m B-yàlòò         [gù'   Juáàny] chì'í [ù-dòàb=bí gèhjs].
+\g com-stop        com:drink Juan and [com-smoke=3 cigarette
+\l Juan stopped drinking and smoking cigarettes.
+
+\t Zájc ìcuá'      Màríí gèhèht xíì.
+\m Zájc ì-cuá'      Màríí gèhèht xíì.
+\g pot:can pot-throw Maria tortilla tomorrow
+\l Maria can make tortillas tomorrow.
+
+\t Ràjc    r rxrù 'ny Juáàn y ngàngá'.
+\m Ràjc    r r-xrù 'ny Juáàn y ngàngá'.
+\g hab:can hab-run Juan quickly
+\l Juan can run quickly.
+
+\t Byàlòò ùdòàb     Juáàny gèhjs.
+\m B-yàlòò ù-dòàb     Juáàny gèhjs.
+\g com-stop com-smoke Juan cigarette
+\l Juan stop ped sm okin g cigaret tes.
+
+\t Ùdííny         Juáàny bèh'cw=rè'        cùn yààg.
+\m Ù-dííny         Juáàny bèh'cw=rè'        cùn yààg.
+\g com-hit         Juan dog=that            with stick
+\l Juan hit that dog with astick'.
+
+\t ¿Xhíí cùn ùdííny        Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny        Juààny bèh'cw?
+\g  what with com-hit       Juan dog
+\l What did Juan hit t he dog with?
+
+\t Juààny cù'á   bèh'cw rè'
+\m Juààny cù'á   bèh'cw rè'
+\g Juan com:grab dog that
+\l Juan grabbed that dog.
+
+\t ¿Túú bèh'cw cù'á    Juààny?
+\m ¿Túú bèh'cw cù'á    Juààny?
+\g which dog com:grab Juan
+\l Which dog did Jua n grab?
+
+\t Juààny cù'á   xpèh'cw Màríí
+\m Juààny cù'á   x-pèh'cw Màríí
+\g Juan com:grab p-dog    Maria
+\l Juan grabbed Maria's dog.
+
+\t ¿Túú xpèh'cw cù'á Juààny?
+\m ¿Túú x-pèh'cw cù'á Juààny?
+\g who p-dog com:grab Juan
+\l Whose dog did Juan grab?
+
+\t Juáàny ùdàù tyóp gèhèht.
+\m Juáàny ù-dàù tyóp gèhèht.
+\g Juan com-eat two tortilla
+\l Juan ate two tortillas.
+
+\t ¿Xhíí tyóp ùdàù Juààny?
+\m ¿Xhíí tyóp ù-dàù Juààny?
+\g what two com-eat Juan
+\l What did Juan ea t two of?
+
+\t ¿Túú ùdííny Juààny cùn         yààg?
+\m ¿Túú ù-dííny Juààny cùn         yààg?
+\g  what com-hit Juan with         stick
+\l What (anim.) did Juan hit with a stick ?
+
+\t ¿Xhíí cùn ùdííny            Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny            Juààny bèh'cw?
+\g  what with com-hit           Juan dog
+\l What did Juan hit t he dog with?
+
+\t ¿Xhíí dèjts zúú bèh'cw?
+\m ¿Xhíí dèjts zúú bèh'cw?
+\g  what behind lie dog
+\l What is the dog be hind?
+
+\t ¿Cùn xhíí     ùdííny Juààny bèh'cw?
+\m ¿Cùn xhíí     ù-dííny Juààny bèh'cw?
+\g   with what com-hit Juan dog
+\l With what did Jua n hit the dog?
+
+\t ¿Dèjts xhíí zúú bèh'cw?
+\m ¿Dèjts xhíí zúú bèh'cw?
+\g  behind what lie dog
+\l Behind what is the d og?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g   which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t ¿Túú xpèh'cw cù'á Juààny?
+\m ¿Túú x-pèh'cw cù'á Juààny?
+\g who p-dog com:grab Juan
+\l Whose dog did Juan grab?
+
+\t ¿Túú míèhgw xcùtóòny ndé'?
+\m ¿Túú míèhgw x-cùtóòny ndé'?
+\g     which friend p-shirt this
+\l Which friend's shi rt is this?
+
+\t ¿Xhíí ìrájtè ùdàù Juààny?
+\m ¿Xhíí ìrájtè ù-dàù Juààny?
+\g  what all com-eat Juan
+\l What did Juan ea t all of?
+
+\t ¿ Túú xcùtóòny ìrájtè gèh'èhcy?
+\m ¿ Túú x-cùtóòny ìrájtè gèh'èhcy?
+\g    who p-shirt    all    com:burn
+\l All of whose shirts bu rned?
+
+\t ¿Xhíí chìngáàd ùdàù Juáàny?
+\m ¿Xhíí chìngáàd ù-dàù Juáàny?
+\g  what the:hell com-eat Juan
+\l What the hell di d Juan eat?
+
+\t ¿Túú chìngáàd ùtò'     xcòchá'?
+\m ¿Túú chìngáàd ù-tò'     x-còch-á'?
+\g  who the:hell com-sell p-car-1s
+\l Who the hell sold my car?
+
+\t Rrcàz=á' gàwa' réé=gèhèht.
+\m Rr-càz=á' g-àw-a' réé=gèhèht.
+\g hab-want-1s pot-eat-1s pl=tortilla.
+\l I want to eat tortillas.
+
+\t ¿Xhíí=réé ùzìì' Juáàny?
+\m ¿Xhíí=réé ù-zìì' Juáàny?
+\g what=pl com-buy Juan
+\l What things did Jua n buy?
+
+\t ¿Túú=réé ùzìì' còmííèhd?
+\m ¿Túú=réé ù-zìì' còmííèhd?
+\g  who=pl com-buy food
+\l Which people bo ught food?
+
+\t ¿Túú réé=líèhz    cuágìì?
+\m ¿Túú réé=líèhz    cuágìì?
+\g   who pl=p:house com:burn
+\l The houses of which p erson burned down?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g    which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t ¿Túú míèhgw xcùtóòny ndé'?
+\m ¿Túú míèhgw x-cùtóòny ndé'?
+\g      which friend p-shirt this
+\l Which friend's shi rt is this?
+
+\t T ¿Túú xcùtóòny míèhgw ndé'?
+\m T ¿Túú x-cùtóòny míèhgw ndé'?
+\g     which p-shirt      friend    this
+\l Which friend's shi rt is this?
+
+\t ¿ Túú xcùtóòny ìrájtè gèh'èhcy?
+\m ¿ Túú x-cùtóòny ìrájtè gèh'èhcy?
+\g     who p-shirt   all     com:burn
+\l All of whose shirts bu rned?
+
+\t ¿Túú=réé líèhz   cuágìì?
+\m ¿Túú=réé líèhz   cuágìì?
+\g   who=pl p:house com:burn
+\l The house of which people burned down?
+
+\t Ùdííny           Juáàny bèh'cw=rè'     cùn     yààg.
+\m Ù-dííny           Juáàny bèh'cw=rè'     cùn     yààg.
+\g com-hit           Juan dog=that with stick
+\l Juan hit that dog with astick'.
+
+\t ¿Xhíí cùn ùdííny         Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny         Juààny bèh'cw?
+\g  what with com-hit        Juan dog
+\l What did Juan hit the dog with?
+
+\t ¿Xhíí cùn ùdííny        Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny        Juààny bèh'cw?
+\g  what with com-hit       Juan dog
+\l What did Juan hit the dog with?
+
+\t ¿Xhíí dèjts zúú bèh'cw?
+\m ¿Xhíí dèjts zúú bèh'cw?
+\g  what behind lie dog
+\l What is the dog behind?
+
+\t ¿Cùn xhíí     ùdííny Juààny bèh'cw?
+\m ¿Cùn xhíí     ù-dííny Juààny bèh'cw?
+\g  with what com-hit    Juan dog
+\l With what did Juan hit the dog?
+
+\t ¿Dèjts xhíí zúú bèh'cw?
+\m ¿Dèjts xhíí zúú bèh'cw?
+\g  behind what lie dog
+\l Behind what is the dog?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g   which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t ¿Xhíí chìngáà d ùdàù Juáàny?
+\m ¿Xhíí chìngáà d ù-dàù Juáàny?
+\g  what the:hell com-eat Juan
+\l What the hell did Juan eat?
+
+\t ¿Túú chìngáàd ùtò'      xcòchá'?
+\m ¿Túú chìngáàd ù-tò'      x-còch-á'?
+\g  who the:hell com-sell p-car-1s
+\l Who the hell sold my car?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g   which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t Ùdííny          Juáàny bèh'cw=rè'     cùn       yààg.
+\m Ù-dííny          Juáàny bèh'cw=rè'     cùn       yààg.
+\g com-hit          Juan dog=that with stick
+\l Juan hit that dog with astick'.
+
+\t ¿Xhíí cùn ùdííny         Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny         Juààny bèh'cw?
+\g  what with com-hit        Juan dog
+\l What did Juan hit the dog with?
+
+\t ¿Xhíí cùn ùdííny        Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny        Juààny bèh'cw?
+\g  what with com-hit       Juan dog
+\l What did Juan hit the dog with?
+
+\t ¿Xhíí dèjts zúú bèh'cw?
+\m ¿Xhíí dèjts zúú bèh'cw?
+\g  what behind lie dog
+\l What is the dog behind?
+
+\t ¿Cùn xhíí     ùdííny Juààny bèh'cw?
+\m ¿Cùn xhíí     ù-dííny Juààny bèh'cw?
+\g  with what com-hit    Juan dog
+\l With what did Juan hit the dog?
+
+\t ¿Dèjts xhíí zúú bèh'cw?
+\m ¿Dèjts xhíí zúú bèh'cw?
+\g  behind what lie dog
+\l Behind what is the dog?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g   which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t ¿Xhíí chìngáà d ùdàù Juáàny?
+\m ¿Xhíí chìngáà d ù-dàù Juáàny?
+\g what the:hell com-eat Juan
+\l What the hell did Juan eat?
+
+\t ¿Túú chìngáàd ùtò'   xcòchá'?
+\m ¿Túú chìngáàd ù-tò'   x-còch-á'?
+\g who the:hell com-sell p-car-1s
+\l Who the hell sold my car?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g   which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t Ùdííny          Juáàny bèh'cw=rè'     cùn       yààg.
+\m Ù-dííny          Juáàny bèh'cw=rè'     cùn       yààg.
+\g com-hit          Juan dog=that with stick
+\l Juan hit that dog with astick'.
+
+\t ¿Xhíí cùn ùdííny         Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny         Juààny bèh'cw?
+\g  what with com-hit        Juan dog
+\l What did Juan hit the dog with?
+
+\t ¿Xhíí cùn ùdííny        Juààny bèh'cw?
+\m ¿Xhíí cùn ù-dííny        Juààny bèh'cw?
+\g  what with com-hit       Juan dog
+\l What did Juan hit the dog with?
+
+\t ¿Xhíí dèjts zúú bèh'cw?
+\m ¿Xhíí dèjts zúú bèh'cw?
+\g  what behind lie dog
+\l What is the dog behind?
+
+\t ¿Cùn xhíí     ùdííny Juààny bèh'cw?
+\m ¿Cùn xhíí     ù-dííny Juààny bèh'cw?
+\g  with what com-hit    Juan dog
+\l With what did Juan hit the dog?
+
+\t ¿Dèjts xhíí zúú bèh'cw?
+\m ¿Dèjts xhíí zúú bèh'cw?
+\g  behind what lie dog
+\l Behind what is the dog?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g   which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t ¿Xhíí chìngáà d ùdàù Juáàny?
+\m ¿Xhíí chìngáà d ù-dàù Juáàny?
+\g what the:hell com-eat Juan
+\l What the hell did Juan eat?
+
+\t ¿Túú chìngáàd ùtò'   xcòchá'?
+\m ¿Túú chìngáàd ù-tò'   x-còch-á'?
+\g who the:hell com-sell p-car-1s
+\l Who the hell sold my car?
+
+\t ¿ Xhíí yààg cùn ùdííny Juààny bèh'cw?
+\m ¿ Xhíí yààg cùn ù-dííny Juààny bèh'cw?
+\g   which stick with com-hit Juan dog
+\l With which stick did Juan hit the dog?
+
+\t Ùdííny Juààny bèh'cw re'                   cùn yàg.
+\m Ù-dííny Juààny bèh'cw re'                   cùn yàg.
+\g com-hit John dog     that                   with stick
+\l John hit that do g with astick'.
+
+\t Ùdáù=cà Juáàny bziàá.
+\m Ù-dáù=cà Juáàny bziàá.
+\g com-eat=aff Juan beans
+\l Yes, Juan ate beans.
+
+\t Juáàny=cà ùdáù bziàá.
+\m Juáàny=cà ù-dáù bziàá.
+\g Juan=aff com-eat beans
+\l Yes, Juan (   TO PIC / FOCUS   ) ate beans.
+
+\t Juààny M òráàly=cà ùdáù bzyàá.          Juààny=cà Mòráàly ùdáù bzyàá.  
+\m Juààny M òráàly=cà ù-dáù bzyàá.          Juààny=cà Mòráàly ù-dáù bzyàá.  
+\g Juan Morales=aff com-eat bean            Juan=aff    Morales com-eat bean
+\l Yes, Juan Mo rales (   TO PIC / FOCUS)   ate beans.
+
+\t Juààny Mòrá àly=chà' ùdííny bèh'cw cùn yàg.
+\m Juààny Mòrá àly=chà' ù-dííny bèh'cw cùn yàg.
+\g Juan Morales=maybe com-hit dog     with stick
+\l Maybe Juan M orales (            ) hit the dog with a stick.
+
+\t  Ííty Juáàny=tì' ùlù'ù bzyàá lè'èn bòòls.
+\m  Ííty Juáàny=tì' ù-lù'ù bzyàá lè'èn bòòls.
+\g neg Juan=neg com-put beans in       bag
+\l Juan (               ) didn't put the b eans in the ba g.
+
+\t Ííty bzyàá=tì' ùlù'ù Juáàny lè'èn        bòòls.
+\m Ííty bzyàá=tì' ù-lù'ù Juáàny lè'èn        bòòls.
+\g neg beans=neg com-put Juan in             bag
+\l Juan didn't put the beans (                ) in the bag.
+
+\t Ííty lè'èn=tì'   bòòls ùlù'ù Juáàny bzyàá.
+\m Ííty lè'èn=tì'   bòòls ù-lù'ù Juáàny bzyàá.
+\g neg in=neg       bag com-put Juan beans
+\l Juan didn't put the beans in the bag (NEG                 ).
+
+\t Ííty ùlù'ù=tì' Juáàny bzyàá lè'èn   bòò ls.
+\m Ííty ù-lù'ù=tì' Juáàny bzyàá lè'èn   bòò ls.
+\g neg com-put=neg Juan beans in         bag
+\l Juan didn 't put the beans in the bag.
+
+\t Éè, [xhùmbréèjr] P=cà xhùp áà xmíèhgw C rìstíìn ngààs=nì.
+\m Éè, [xhùmbréèjr] P=cà xhùp áà x-míèhgw C rìstíìn ngààs=nì.
+\g yes hat=aff         father:of p-friend Christina black=3i
+\l Yes, Christina 's friend's father's hat is b lack.
+
+\t Éè, [là'á]P=cà xhùmbréèjr xhùpáà xm íèhgw Crìstíìn ngà às=nì.
+\m Éè, [là'á]P=cà xhùmbréèjr xhùpáà x-m íèhgw Crìstíìn ngà às=nì.
+\g yes det=aff hat           father:of p-friend Christina black=3i
+\l Yes, Christina 's friend's father's hat is b lack.
+
+\t Byàlòò ùdòàb             Juáàny.
+\m B-yàlòò ù-dòàb             Juáàny.
+\g com-stop com-smoke         Juan
+\l Juan stopped smoking.
+
+\t [Cùn dè] byàlòò        ùdì'by     Màríí làjdy.
+\m [Cùn dè] b-yàlòò        ù-dì'by     Màríí làjdy.
+\g with soap com-finish com-wash Maria clothes
+\l Maria finished washing the clothes with soap.
+
+\t Byàlòò         [gù'       Juáàny] chì'í [ùdòàb=bí gèhjs].
+\m B-yàlòò         [gù'       Juáàny] chì'í [ù-dòàb=bí gèhjs].
+\g com-finish com:drink       Juan and [com-smoke=3 cigarette
+\l Juan stopped drinking and smoking cigarettes.
+
+\t  [Ùzíí'  Juáàny gèhèht]S chì'í
+\m  [Ù-zíí'  Juáàny gèhèht]S chì'í
+\g com-eat Mary them
+\l Juan bought tortillas and Mary ate them.
+
+\t Byàlòò ùdòàb    Juáàny gèhjs.
+\m B-yàlòò ù-dòàb    Juáàny gèhjs.
+\g com-stop com-smoke Juan cigarette
+\l Juan stopped smoking.
+
+\t Sàw báád bèhld yù'ù.
+\m S-àw báád bèhld yù'ù.
+\g def-eat duck snake earth
+\l The duck is going to eat a worm.
+
+\t Gâw báád bèhld yù'ù.
+\m G-âw báád bèhld yù'ù.
+\g pot-eat duck snake earth
+\l The duck is going to eat a worm.
+
+\t Báád sàw bèhld yù'ù.
+\m Báád s-àw bèhld yù'ù.
+\g duck def-eat snake earth
+\l The duck (topic/focus) will eat the worm.
+
+\t Báád gâw bèhld yù'ù.
+\m Báád g-âw bèhld yù'ù.
+\g duck pot-eat snake earth
+\l The duck (topic/focus) will eat the worm.
+
+\t Dìáp     gú'ld Màrìì.
+\m Dìáp     g-ú'ld Màrìì.
+\g strongly pot-sing Maria
+\l Maria will sing strongly/loudly.
+
+\t Gú'ld Màrìì dìàp.
+\m G-ú'ld Màrìì dìàp.
+\g def-sing Maria strongly
+\l Maria will sing strongly/loudly.
+
+\t Sù'ld Màrìì dìàp.
+\m S-ù'ld Màrìì dìàp.
+\g def-sing Maria strongly
+\l Maria will sing strongly/loudly.
+
+\t Báád sàw bèhld yù'ù.
+\m Báád s-àw bèhld yù'ù.
+\g duck def-eat snake earth
+\l The duck (topic/focus) will eat the worm.
+
+\t Sàw báád bèhld yù'ù.
+\m S-àw báád bèhld yù'ù.
+\g def-eat duck snake earth
+\l The duck (topic/focus) will eat the worm.
+
+\t Byàlòò ùdòàb             Juáàny.
+\m B-yàlòò ù-dòàb             Juáàny.
+\g com-stop com-smoke         Juan
+\l Juan stopped smoking.
+
+\t [Cùn dè] byàlòò        ùdì'by     Màríí làjdy.
+\m [Cùn dè] b-yàlòò        ù-dì'by     Màríí làjdy.
+\g with soap com-finish com-wash Maria clothes
+\l Maria finished washing the clothes with soap.
+
+\t Byàlòò         [gù'       Juáàny] chì'í [ùdòàb=bí gèhjs].
+\m B-yàlòò         [gù'       Juáàny] chì'í [ù-dòàb=bí gèhjs].
+\g com-finish com:drink       Juan and [com-smoke=3 cigarette
+\l Juan stopped drinking and smoking cigarettes.
+

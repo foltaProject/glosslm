@@ -1,0 +1,155 @@
+\t Öon [ga ma makiny]                              na
+\m Öon [ga ma m-ak-iny]                              na
+\g    boy [REL 1SG 1SG-see-3SG.OBJ]                  DEF
+\l the boy who I saw
+
+\t Wo kanjianle Zhangsan, ni kanjianle Lisi.
+\m Wo kanjian-le Zhangsan, ni kanjian-le Lisi.
+\g  I see-Perf Zhangsan you see-Perf
+\l I saw Zhangsan and you Lisi.
+
+\t Zhangsan chile sange pingguo, Lisi sige juzi.
+\m Zhangsan chi-le san-ge pingguo, Lisi si-ge juzi.
+\g Zhangsan eat-Perf three-Cl apple     Lisi four-Cl oranges
+\l Zhangsan ate three apples and Lisi four oranges.
+
+\t Zhangsan qingle     ta de xuesheng, Lisi ta de tongxue.
+\m Zhangsan qing-le     ta de xuesheng, Lisi ta de tongxue.
+\g  Zhangsan invite-Perf he Mod student Lisi he Mod classmate
+\l Zhangsan invited his students and Lisi his classmate.
+
+\t Wo hewanle          tang, ni qishui.
+\m Wo he-wan-le          tang, ni qishui.
+\g  I drink-finish-Perf soup you soft.drink
+\l I finished the soup, you soft drink.
+
+\t Wo qide zhe pi ma hen lei, ni na pi ma hen lei.
+\m Wo qi-de zhe pi ma hen lei, ni na pi ma hen lei.
+\g  I ride-Res this Cl horse very tired you that Cl horse very tired
+\l I rode that horse and got it tired and you rode that horse and got it tired.
+
+\t Wo songle liangben shu gei Zhangsan, ni sanzhi bi gei Lisi.
+\m Wo song-le liang-ben shu gei Zhangsan, ni san-zhi bi gei Lisi.
+\g  I give-Perf two-Cl book to Zhangsan you three-Cl pen to
+\l I gave two books to Zhangsan and you three pens to Lisi.
+
+\t Wo chile liangwan fan, Zhangsan zhule sanwan tang, Lisi shige shuijiao.
+\m Wo chi-le liang-wan fan, Zhangsan zhu-le san-wan tang, Lisi shi-ge shuijiao.
+\g I ate two-Cl rice Zhangsan cooked three-Cl soup Lisi ten-Cl dumpling
+\l I ate two bowls of rice, Zhangsan cooked three bowls of soup, and Lisi ate ten dumplings.
+
+\t Wo chile liangwan fan, Zhangsan hele sanwan tang, Lisi shige shuijiao.
+\m Wo chi-le liang-wan fan, Zhangsan he-le san-wan tang, Lisi shi-ge shuijiao.
+\g I ate two-Cl rice Zhangsan drank three-Cl soup Lisi ten-Cl dumpling
+\l I ate two bowls of rice, Zhangsan drank three bowls of soup, and Lisi ate ten dumplings.
+
+\t Zhangsan sange pingguo, Lisi sige juzi.
+\m Zhangsan san-ge pingguo, Lisi si-ge juzi.
+\g Zhangsan three-Cl apple     Lisi four-Cl orange
+\l Zhangsan (has) three apples and Lisi four oranges.
+
+\t Wo hewanle          tang, ni qishui.
+\m Wo he-wan-le          tang, ni qishui.
+\g  I drink-finish-Perf soup you soft.drink
+\l I finished the soup, you soft drink.
+
+\t Wo he tang, ni qishui.
+\m Wo he tang, ni qishui.
+\g I drink soup you soft.drink
+\l I drink soup and you soft drink.
+
+\t Wo hele liangwan tang, Zhangsan zhule siwan tang, Lisi                           sanwan tang.
+\m Wo he-le liang-wan tang, Zhangsan zhu-le si-wan tang, Lisi                           san-wan tang.
+\g I drank two-Cl soup Zhangsan cooked four-Cl soup Lisi                              three-Cl soup
+\l I drank two bowls of soup, Zhangsan cooked four bowls of                      soup, and Lisi cooked three bowls of soup.
+
+\t Wo kanjianle Zhangsan, ni Lisi.
+\m Wo kanjian-le Zhangsan, ni Lisi.
+\g  I see-Perf Zhangsan you
+\l I saw Zhangsan and you Lisi.
+
+\t Wo xuanle Zhangsan, ni Lisi.
+\m Wo xuan-le Zhangsan, ni Lisi.
+\g I elect-Perf Zhangsan you
+\l I voted for Zhangsan and you Lisi.
+
+\t Wo songle Zhangsan yiben shu, Lisi yizhi bi.
+\m Wo song-le Zhangsan yi-ben shu, Lisi yi-zhi bi.
+\g I give-Perf Zhangsan one-Cl book Lisi one-Cl pen
+\l I gave Zhangsan a book and Lisi a pen.
+
+\t (?)Ta gei ni Zhangsan, wo Lisi.
+\m (?)Ta gei ni Zhangsan, wo Lisi.
+\g    he give you Zhangsan I
+\l He gave you Zhangsan and me Lisi.
+
+\t Wo fangle yiben shu zai zuozishang, sanzhi bi zai yizishang.
+\m Wo fang-le yi-ben shu zai zuozi-shang, san-zhi bi zai yizi-shang.
+\g I put-Perf one-Cl book on table-top       three-Cl pen on chair-top
+\l I put one book on the table and three pens on the chair.
+
+\t Wo quan      Zhangsan jie yan, Lisi jie jiu.
+\m Wo quan      Zhangsan jie yan, Lisi jie jiu.
+\g I persuade Zhangsan quit smoke Lisi quit wine
+\l I persuade Zhangsan to quit smoking and Lisi to quit drinking.
+
+\t Wo tile     Zhangsan yijiao, Lisi liangjiao.
+\m Wo ti-le     Zhangsan yi-jiao, Lisi liang-jiao.
+\g I kick-Perf Zhangsan one-Cl Lisi two-Cl
+\l I kicked Zhangsan once and Lisi twice.
+
+\t Wo made      Zhangsan hen bu kaixin, Lisi hen bu manyi.
+\m Wo ma-de      Zhangsan hen bu kaixin, Lisi hen bu manyi.
+\g I scold-Res Zhangsan very not happy Lisi very not pleased
+\l I scolded Zhangsan and got him unhappy and scolded Lisi and got him displeased.
+
+\t Zhangsan yiben shu. Lisi wuben shu.
+\m Zhangsan yi-ben shu. Lisi wu-ben shu.
+\g Zhangsan one-Cl book Lisi five-Cl book
+\l Zhangsan has one book and Lisi five books.
+
+\t Zhangsan ma ta huidan.
+\m Zhangsan ma ta huidan.
+\g Zhangsan scold he bastard
+\l Zhangsan called him a bastard.
+
+\t Wo ba Zhangsan ma huaidan.
+\m Wo ba Zhangsan ma huaidan.
+\g  I BA Zhangsan scold bastard
+\l I call Zhangsan a bastard.
+
+\t i   ak wonum kau          l<÷
+\m i   ak won-u-m kau          l<÷
+\g 2SG see son-1SG         at:all Q
+\l did you see my son at all?
+
+\t debge            tol tobio li
+\m deb-ge            tol tobio li
+\g     person-PL kill lion not
+\l the people did not kill the lion
+
+\t b¥s sa ja                    ga
+\m b¥s sa ja                    ga
+\g    dog eat meat COMPLETIVE
+\l the dog has eaten the meat
+
+\t i   ak wonum kau           l<?
+\m i   ak won-u-m kau           l<?
+\g 2SG see son-1SG         at:all Q
+\l did you see my son at all?
+
+\t [b¥s an              ama]ge             b. dàr?dz'yàr  oeoe
+\m [b¥s an              ama]-ge             b. dàr?dz-'yàr  oeoe
+\g        dog of        1SG-PLUR                  cap red-PLUR
+\l my dogs
+
+\t debge            tol tobio li
+\m deb-ge            tol tobio li
+\g      person-PL kill lion not
+\l the people did not kill the lion
+
+\t b¥s sa ja                    ga
+\m b¥s sa ja                    ga
+\g     dog eat meat COMPLETIVE
+\l the dog has eaten the meat
+

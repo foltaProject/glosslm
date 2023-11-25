@@ -1,0 +1,245 @@
+\t (1)a.         Aku     cero latung=k
+\m (1)a.         Aku     cero latung=k
+\g               1s      fry     corn-1s
+\l I fry/am frying corn
+
+\t Latung hitu cero l=aku=i
+\m Latung hitu cero l=aku=i
+\g corn that      fry      by-1s=3s
+\l The corn is (being) fried by me
+
+\t (2)a.         Hi     enu cebong sili          tiwu lewe
+\m (2)a.         Hi     enu cebong sili          tiwu lewe
+\g               ART girl       bath     in      pool long
+\l The girl took a bath in the long pool
+
+\t (3)a.         Hia     pa'u eta      mai     bubung         mbaru hitu=i
+\m (3)a.         Hia     pa'u eta      mai     bubung         mbaru hitu=i
+\g               3s      fall   above from top.roof           house that=3s
+\l (S)he fell down from the roof top of the house
+
+\t Hi    Kode           ka'eng wa   tana=i
+\m Hi    Kode           ka'eng wa   tana=i
+\g ART monkey           stay down ground=3s
+\l The monkey lives on the ground
+
+\t Ise    lonto musi mai         ami=s
+\m Ise    lonto musi mai         ami=s
+\g 3p     sit    behind from 1pi=3p
+\l They sat/were sitting behind us
+
+\t Iti     wa    tanah ghitu=i.         Ghau peke waeng neteng loho=i
+\m Iti     wa    tanah ghitu=i.         Ghau peke waeng neteng loho=i
+\g that    down soil      that=3s       2s    must water every day=3s
+\l He is down there inside the ground. You must water him every day
+
+\t Hia            pa'u eta       mai     bubung                mbaru hitu=i
+\m Hia            pa'u eta       mai     bubung                mbaru hitu=i
+\g 3s             fall   above from top.roof                   house that=3s
+\l (S)he fell down from the top roof of the house
+
+\t b.         Ongga akui
+\m b.         Ongga aku-i
+\g            hit   1s-3s
+\l (S)he hit me
+
+\t (7)a.         Ghau peke waeng=i...
+\m (7)a.         Ghau peke waeng=i...
+\g               2s    must water=3s
+\l You must water him ...
+
+\t Aku     kawe=i         ata    ghitu
+\m Aku     kawe=i         ata    ghitu
+\g 1s      look.for=3s person that
+\l I'm looking for that person
+
+\t (8)a.*        Ghia ongga=k
+\m (8)a.*        Ghia ongga=k
+\g               3s      hit=1s
+\l (S)he hit me
+
+\t Ghia ongga aku
+\m Ghia ongga aku
+\g 3s      hit    1s
+\l (S)he hit me
+
+\t (9)a.         Aku     tombo agu hia
+\m (9)a.         Aku     tombo agu hia
+\g               1s      talk    with 3s
+\l I talked with him/her
+
+\t Aku     tombo agu           hi  Joni
+\m Aku     tombo agu           hi  Joni
+\g 1s      talk    with        ART name
+\l I talked with Joni
+
+\t Mata de         keraeng        tu'a
+\m Mata de         keraeng        tu'a
+\g die     POSS master            old
+\l the death of the older brother/sister
+
+\t Mai de       dokter hitu
+\m Mai de       dokter hitu
+\g come POSS doctor that
+\l The coming/arrival of the doctor
+
+\t Weli de       ende
+\m Weli de       ende
+\g buy POSS mother
+\l The buying (of/by) Mother
+
+\t Pika=d         kaba situ
+\m Pika=d         kaba situ
+\g sell=POSS      buffalo that
+\l The selling of the buffalo
+
+\t Lako=n          ata hitu
+\m Lako=n          ata hitu
+\g go=3s.GEN      person that.s
+\l The leaving of the person
+
+\t Weli=n        mbaru hitu
+\m Weli=n        mbaru hitu
+\g buy=3s.GEN house that
+\l The buying of the house
+
+\t Lako=n          ata situ
+\m Lako=n          ata situ
+\g      go=3s.GEN      person that.p
+\l The leaving of the persons
+
+\t Akit indus=n            acu     hitu dilemdilem=n
+\m Akit indus=n            acu     hitu dilem-dilem=n
+\g bit     cat-3s.GEN dog that.s deep-deep=3s
+\l the dog's bite on the cat is very deep
+
+\t Aku      cero latung=k
+\m Aku      cero latung=k
+\g 1s       fry     corn-1s
+\l I fry/is frying corn
+
+\t Latung hitu cero laku=i
+\m Latung hitu cero l-aku=i
+\g corn that      fry      by-1s=3s
+\l The corn is (being) fried by me
+
+\t Kala           situ    toto=s       l=ise
+\m Kala           situ    toto=s       l=ise
+\g betel.nuts     that.p show=3p       by=3p
+\l The betel nuts were shown by them
+
+\t Latung hitu cero meseng              l=aku
+\m Latung hitu cero meseng              l=aku
+\g corn that     fry     yesterday      by-1s
+\l The corn was fried by me yesterday
+
+\t Cero l=aku latung hitu                        V ­ PP(Oblique) ­NP
+\m Cero l=aku latung hitu                        V ­ PP(Oblique) ­NP
+\g 1s       fry     corn that
+\l I fried the corn
+
+\t Cero aku         latung hitu                      V ­ NP(Subject) ­ NP
+\m Cero aku         latung hitu                      V ­ NP(Subject) ­ NP
+\g   fry      1s      corn that
+\l I fried the corn
+
+\t l=ise ongga ata    hitu
+\m l=ise ongga ata    hitu
+\g   by=3p hit   person that.s
+\l They hit the person
+
+\t Ata     molah [se       aku     ita   __ ]       ghitu rebao             ngo     gi
+\m Ata     molah [se       aku     ita   __ ]       ghitu rebao             ngo     gi
+\g   person girl      REL 1s         see              that just.now           go      already
+\l The girl [that I saw] has just gone
+
+\t Ata     molah [se       __      ita    l=aku ]        ghitu rebao ngo         gi
+\m Ata     molah [se       __      ita    l=aku ]        ghitu rebao ngo         gi
+\g person girl      REL            see    by=1s that just.now        go          already
+\l The girl [that I saw or that was seen by me] has just gone
+
+\t Ata     molah [se      aku     ita     le __ ] ghitu rebao               ngo     gi
+\m Ata     molah [se      aku     ita     le __ ] ghitu rebao               ngo     gi
+\g   person girl      REL 1s        see     by      that just.now             go      already
+\l The girl [that saw me] has just gone
+
+\t Poli=s          emi=d           (l=ise) bao            surak situ
+\m Poli=s          emi=d           (l=ise) bao            surak situ
+\g already=3p      take=POSS by=3p just.now               letter that.p
+\l The letters have been taken (by them) (just now)
+
+\t Toem        tiba=n        tegi      d=ite          (l=ise)
+\m Toem        tiba=n        tegi      d=ite          (l=ise)
+\g not.exist accept-3GEN demand POSS=1p.i             by=3p
+\l Our demand was not accepted (by them)
+
+\t Sai    one      puar, ita       le       ghia   bakuk ghang danakn                      gho     ata     ngai weo        kin      one    lobo    ghaju
+\m Sai    one      puar, ita       le       ghia   bakuk ghang d-anak-n                      gho     ata     ngai weo        kin      one    lobo    ghaju
+\g arrive in       forest see      by       3s     basket rice POSS-child-3.GEN              this    REL     PROG hang       still    in     tip     wood 
+\l Arriving in the forest, he saw the rice basket of his child (still) hanging on a tip of a
+
+\t Aku     puci ngger one          lo'ang
+\m Aku     puci ngger one          lo'ang
+\g 1s      enter to        in      room
+\l I entered (into) the room
+
+\t Aku     puci lo'ang
+\m Aku     puci lo'ang
+\g    1s     enter room
+\l I entered the room
+
+\t Lo'ang hitu puci le          ata    tako
+\m Lo'ang hitu puci le          ata    tako
+\g room that enter by           person steal
+\l The room was entered by a thief
+
+\t Ngger one     lo'ang hitu puci le                ata    tako
+\m Ngger one     lo'ang hitu puci le                ata    tako
+\g   to     in     room that     enter by             person steal
+\l *To the room was entered by a thief
+
+\t Lo'ang hitu puci ata         tako
+\m Lo'ang hitu puci ata         tako
+\g   room that enter person steal
+\l The room was entered by a thief
+
+\t Hia ongga ami
+\m Hia ongga ami
+\g 3SG hit        1Plex
+\l (S)he hit us
+
+\t Ami ongga le hia
+\m Ami ongga le hia
+\g 1Pl.Ex hit    by 3SG
+\l We were hit by him/her
+
+\t Aku puci ngger one lo'ang
+\m Aku puci ngger one lo'ang
+\g 1SG enter to       in room
+\l I entered (into) the room
+
+\t b.* Aku         puci           lo'ang
+\m b.* Aku         puci           lo'ang
+\g     1SG         enter          room
+\l I entered the room
+
+\t Aku     puci    lo'ang hitu      landing         hau     puci    lo'ang ho'o
+\m Aku     puci    lo'ang hitu      landing         hau     puci    lo'ang ho'o
+\g 1SG     enter   room that        but             2       enter   room this  
+\l I enter that room and you enter this room
+
+\t Aku puci ngger one lo'ang
+\m Aku puci ngger one lo'ang
+\g 1SG enter to       in room
+\l I entered (into) the room
+
+\t c Lo'ang hitu puci le ata           tako                 (PASS.)
+\m c Lo'ang hitu puci le ata           tako                 (PASS.)
+\g   room that enter by person steal
+\l The room was entered by a thief
+
+\t d.* Aku         puci    lo'ang                           *(AV)
+\m d.* Aku         puci    lo'ang                           *(AV)
+\g    1SG          enter   room
+\l I entered the room
+

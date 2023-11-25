@@ -1,0 +1,340 @@
+\t Enir              [uzi     ¯
+\m Eni-r              [uzi     ¯
+\g      mother-dat boy.abs i.arrive-pt.part-nmlz i-know-pres
+\l The mother knows that the boy arrived.
+
+\t Enir          [u a      magalu                            biyxo.     
+\m Eni-r          [u a      magalu                            b-iy-xo.     
+\g  mother-dat boy-erg bread.iii.abs iii-eat-pt.part-nmlz     iii-know-pres
+\l The mother knows that the boy ate the bread.
+
+\t enir  [uz¯ magalu       b¯c'ruli] biyxo.
+\m enir  [uz¯ magalu       b¯c'ruli] b-iyxo.
+\g mother boy bread.III.abs ate       III-know
+\l The mother knows the boy ate the bread.
+
+\t enir  [neti c'ohor¯ micxir          a               r/*biyxo
+\m enir  [neti c'ohor-¯ micxir          a               r/*b-iyxo
+\g mother when thief-erg money.III III-steal-pstprt-nmlz IV/*III-knows
+\l The mother knows when the thief stole the money.
+
+\t enir     [uz¯                 bac'silin]         biyxo
+\m eni-r     [uz-¯                 b-ac'-si-lin]         b-iy-xo
+\g   mother-dat boy-erg bread.III.abs III-eat-pst.evid-COMP III-know
+\l The mother knows that the boy ate bread.
+
+\t enir  [uz¯ magalu        a
+\m enir  [uz¯ magalu        a
+\g mother boy bread.III.abs ate       III-know
+\l The mother knows the boy ate the bread.
+
+\t nel¯                             yolin] e is
+\m nel¯                             yol-in] e is
+\g she-erg this IV-good/*III-good is-COMP said
+\l She says it (= that the boy ate the bread) is good.
+
+\t                gagali      taru ]           uzi
+\m                gagali      ta-ru ]           uzi
+\g laugh-PA S TEV
+\l The boy who gave a flower to the girl laughed.
+
+\t kid              yik'ix
+\m kid              y-ik'i-x
+\g girl.ABS.II II-go-PR   ES
+\l The girl goes.
+
+\t uzbikori               bexursi.
+\m uz-bikori               b-exu-r-si.
+\g boy-ERG    snake.ABS.III III-die-CAUS-PSTWIT
+\l The boy killed the snake.
+
+\t enir                  [ uzmagalu              bc'ruli]                  riyxo.    
+\m eni-r                  [ uz-magalu              b-c'-ru-li]                  r-iy-xo.    
+\g       mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS               IV-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir            [ uzmagalu              bc'ruli]       biyxo.     
+\m eni-r            [ uz-magalu              b-c'-ru-li]       b-iy-xo.     
+\g mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS    III-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir          [ t'ekkin              yigu    ylruli]          yiyxo.
+\m eni-r          [ t'ek-kin              y-igu    yl-ru-li]          y-iy-xo.
+\g  mother-DAT   book.II.ABS-FOC    II-good be-PSTPRT-NMLZ   II-know-PRES
+\l The mother knows that the BOOK is good.
+
+\t enir             [ uzul           magalu                     bc'rulli]                    r/biyxo.  
+\m eni-r             [ uz-ul           magalu                     b-c'rul-li]                    r/b-iy-xo.  
+\g  mother-DAT   boy-ERG    yesterday bread.III.ABS               III-eat-PSTPRT-NMLZ        IV/III-know-PRES
+\l The mother knows that the boy ate bread yesterday.
+
+\t enir             [ ul            uzmagalu         bc'rulli]                   r/*biyxo.  
+\m eni-r             [ ul            uz-magalu         b-c'rul-li]                   r/*b-iy-xo.  
+\g  mother-DAT   yesterday boy-ERG   bread.III.ABS     III-eat-PSTPRT-NMLZ        IV/III-know-PRES
+\l The mother knows that the boy ate bread yesterday.
+
+\t [ kidb kaat                t't'ruli]   yiyx        uzir.
+\m [ kidb kaat                t't'ruli]   y-iyx        uzir.
+\g     girl     letter.II.ABS read        II-knows boy
+\l The boy knows that the girl has read the letter.
+
+\t uzir       yiyx    [ kidb kaat                t't'ruli].
+\m uzir       y-iyx    [ kidb kaat                t't'ruli].
+\g boy        II-knows girl     letter.II.ABS read
+\l The boy knows that the girl has read the letter.
+
+\t [ kidb kaat                t'et'ränc'iruli]          yiyx       uzir.
+\m [ kidb kaat                t'et'r-änc'i-ru-li]          y-iyx       uzir.
+\g     girl     letter.II.ABS read-NEG-PSTPRT-NMLZ II-knows boy
+\l The boy knows that the girl has not read the letter.
+
+\t [ kidb kaat                t't'ruli] yiyxnu                  uzir.
+\m [ kidb kaat                t't'ruli] y-iy-x-nu                  uzir.
+\g     girl     letter.II.ABS read        II-knows-PRES-NEG boy
+\l The boy does not know that the girl has read the letter.
+
+\t sibaw ÷waysis     k'et'u   hansi.
+\m sibaw ÷way-sis     k'et'u   han-si.
+\g  every dog-ERG one cat-ABS bite-PSTWIT
+\l Every dog bit a cat.
+
+\t sida       ÷waysibaw      k'et'u     hansi.
+\m sida       ÷way-sibaw      k'et'u     han-si.
+\g  one-OBL dog-ERG every           cat-ABS     bite-PSTWIT
+\l A dog bit every cat.
+
+\t a. sis    uciteler [ sibaw uzi                øik'ixosili] riyxo.
+\m a. sis    uciteler [ sibaw uzi                ø-ik'ixosi-li] r-iyxo.
+\g     one teacher       every boy-I.ABS I-go-NMLZ             IV-know
+\l Some teacher knows that every boy is going.
+
+\t sis        uciteler [ sibaw uzi                øik'ixosili] øiyxo.
+\m sis        uciteler [ sibaw uzi                ø-ik'ixosi-li] ø-iyxo.
+\g      one teacher         every boy-I.ABS I-go-NMLZ           I-know
+\l Some teacher knows that every boy is going.
+
+\t enir        [ uzmagalu      bc'ruli]                     biyxo.     
+\m eni-r        [ uz-magalu      b-c'-ru-li]                     b-iy-xo.     
+\g mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS      III-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir         [ uzmagalu   bc'ruli]                            riyxo.    
+\m eni-r         [ uz-magalu   b-c'-ru-li]                            r-iy-xo.    
+\g  mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS          IV-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir         [ uzmagalu   bc'ruli]                       biyxo.     
+\m eni-r         [ uz-magalu   b-c'-ru-li]                       b-iy-xo.     
+\g  mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS     III-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t kid              yik'ix
+\m kid              y-ik'i-x
+\g girl.ABS.II II-go-PR   ES
+\l The girl goes.
+
+\t uzbikori               bexursi.
+\m uz-bikori               b-exu-r-si.
+\g boy-ERG    snake.ABS.III III-die-CAUS-PSTWIT
+\l The boy killed the snake.
+
+\t enir                  [ uzmagalu              bc'ruli]                  riyxo.    
+\m eni-r                  [ uz-magalu              b-c'-ru-li]                  r-iy-xo.    
+\g       mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS               IV-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir            [ uzmagalu              bc'ruli]       biyxo.     
+\m eni-r            [ uz-magalu              b-c'-ru-li]       b-iy-xo.     
+\g mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS    III-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir          [ t'ekkin              yigu    ylruli]          yiyxo.
+\m eni-r          [ t'ek-kin              y-igu    yl-ru-li]          y-iy-xo.
+\g  mother-DAT   book.II.ABS-FOC    II-good be-PSTPRT-NMLZ   II-know-PRES
+\l The mother knows that the BOOK is good.
+
+\t enir             [ uzul           magalu                     bc'rulli]                    r/biyxo.  
+\m eni-r             [ uz-ul           magalu                     b-c'rul-li]                    r/b-iy-xo.  
+\g  mother-DAT   boy-ERG    yesterday bread.III.ABS               III-eat-PSTPRT-NMLZ        IV/III-know-PRES
+\l The mother knows that the boy ate bread yesterday.
+
+\t enir             [ ul            uzmagalu         bc'rulli]                   r/*biyxo.  
+\m eni-r             [ ul            uz-magalu         b-c'rul-li]                   r/*b-iy-xo.  
+\g  mother-DAT   yesterday boy-ERG   bread.III.ABS     III-eat-PSTPRT-NMLZ        IV/III-know-PRES
+\l The mother knows that the boy ate bread yesterday.
+
+\t [ kidb kaat                t't'ruli]   yiyx        uzir.
+\m [ kidb kaat                t't'ruli]   y-iyx        uzir.
+\g     girl     letter.II.ABS read        II-knows boy
+\l The boy knows that the girl has read the letter.
+
+\t uzir       yiyx    [ kidb kaat                t't'ruli].
+\m uzir       y-iyx    [ kidb kaat                t't'ruli].
+\g boy        II-knows girl     letter.II.ABS read
+\l The boy knows that the girl has read the letter.
+
+\t [ kidb kaat                t'et'ränc'iruli]          yiyx       uzir.
+\m [ kidb kaat                t'et'r-änc'i-ru-li]          y-iyx       uzir.
+\g     girl     letter.II.ABS read-NEG-PSTPRT-NMLZ II-knows boy
+\l The boy knows that the girl has not read the letter.
+
+\t [ kidb kaat                t't'ruli] yiyxnu                  uzir.
+\m [ kidb kaat                t't'ruli] y-iy-x-nu                  uzir.
+\g     girl     letter.II.ABS read        II-knows-PRES-NEG boy
+\l The boy does not know that the girl has read the letter.
+
+\t sibaw ÷waysis     k'et'u   hansi.
+\m sibaw ÷way-sis     k'et'u   han-si.
+\g  every dog-ERG one cat-ABS bite-PSTWIT
+\l Every dog bit a cat.
+
+\t sida       ÷waysibaw      k'et'u     hansi.
+\m sida       ÷way-sibaw      k'et'u     han-si.
+\g  one-OBL dog-ERG every           cat-ABS     bite-PSTWIT
+\l A dog bit every cat.
+
+\t a. sis    uciteler [ sibaw uzi                øik'ixosili] riyxo.
+\m a. sis    uciteler [ sibaw uzi                ø-ik'ixosi-li] r-iyxo.
+\g     one teacher       every boy-I.ABS I-go-NMLZ             IV-know
+\l Some teacher knows that every boy is going.
+
+\t sis        uciteler [ sibaw uzi                øik'ixosili] øiyxo.
+\m sis        uciteler [ sibaw uzi                ø-ik'ixosi-li] ø-iyxo.
+\g      one teacher         every boy-I.ABS I-go-NMLZ           I-know
+\l Some teacher knows that every boy is going.
+
+\t enir        [ uzmagalu      bc'ruli]                     biyxo.     
+\m eni-r        [ uz-magalu      b-c'-ru-li]                     b-iy-xo.     
+\g mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS      III-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir         [ uzmagalu   bc'ruli]                            riyxo.    
+\m eni-r         [ uz-magalu   b-c'-ru-li]                            r-iy-xo.    
+\g  mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS          IV-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t enir         [ uzmagalu   bc'ruli]                       biyxo.     
+\m eni-r         [ uz-magalu   b-c'-ru-li]                       b-iy-xo.     
+\g  mother-DAT boy-ERG bread.ABS.III III-eat-PSTPRT-NMLZ-ABS     III-know-PRES
+\l The mother knows that the boy ate the bread.
+
+\t kid              yik'is
+\m kid              y-ik'is
+\g girl.II.ABS      II-went
+\l The girl went.
+
+\t  kidb        corpa           boys
+\m  kid-b        corpa           b-oys
+\g girl.ERG soup.III.ABS III-made
+\l The girl made soup.
+
+\t kidb         corpa           boda            yoqsi/*boqsi
+\m kid-b         corpa           b-od-a            y-oqsi/*b-oqsi
+\g girl.ERG soup.III.ABS III-make-INF              II-began/*III-began
+\l The girl began to make soup.
+
+\t  kidb        corpa           boda            yicis/*bicis
+\m  kid-b        corpa           b-od-a            y-icis/*b-icis
+\g girl.ERG soup.III.ABS III-make-INF              II-continued/*III-continued
+\l The girl continued to make soup.
+
+\t ak'zaxosi                 hahrig   iixosi              yol
+\m ak'za-xosi                 hah-rig   iixosi              yol
+\g sharpen-PRES.PRT           mill-ERG well     grind-PRES.PRT is
+\l S/he thinks clearly.
+
+\t ak'zaxosi                 hahrig   ia       roqsi
+\m ak'za-xosi                 hah-rig   i-a       roq-si
+\g sharpen-PRES.PRT           mill-ERG well     grind-INF began
+\l S/he began to think clearly.
+
+\t kid            [nel/pro corpa            boda ]           yoqsi
+\m kid            [nel/pro corpa            b-od-a ]           y-oqsi
+\g girl.ABS        she.ERG soup.III.ABS III-make-INF            II-began
+\l The girl began to have her/someone make soup.
+
+\t [yesi zek'             agarawyor utku               roda]            nes nesir   oqsi
+\m [yesi zek'             agarawyo-r utku               roda]            nes nesir   oqsi
+\g this man.I.ERG         relative-DAT house.ABS        build.INF        REFL.DAT    began
+\l The man began for himself (~for his own sake), to build a house for his relative.
+
+\t kid        [kidb         corpa          boda ]             yoqsi
+\m kid        [kid-b         corpa          b-od-a ]             y-oqsi
+\g girl.ABS girl.ERG         soup.III.ABS III-make-INF           II-began
+\l The girl began to make soup.
+
+\t [kidb (*buy) ziya bisra]            yoqsi
+\m [kidb (*buy) ziya bisra]            yoqsi
+\g girl.ERG VAL      cow feed.INF began
+\l The girl (*indeed) began to feed the cow.
+
+\t uzir yiyx    kidbA kaat          t'At'ruli
+\m uzir y-iyx    kidbA kaat          t'At'ruli
+\g boy II-knows girl letter.II.ABS read
+\l The boy knows that the girl has read the letter.
+
+\t Kid         mek'us
+\m Kid         mek'u-s
+\g girl.ABS   be hungry-PAST.WITNESSED
+\l The girl was hungry
+
+\t kid              yik'is
+\m kid              y-ik'is
+\g girl.II.ABS      II-went
+\l The girl went.
+
+\t kidb    corpa             boys
+\m kid-b    corpa             b-oys
+\g girl.ERG soup.III.ABS      III-made
+\l The girl made soup.
+
+\t kidb    corpa             boda         yoqsi/*boqsi
+\m kid-b    corpa             b-od-a         y-oqsi/*b-oqsi
+\g  girl.ERG soup.III.ABS    III-make-INF       II-began/*III-began
+\l The girl began to make soup.
+
+\t kidb     corpa           boda             yicis/*bicis
+\m kid-b     corpa           b-od-a             y-icis/*b-icis
+\g  girl.ERG soup.III.ABS    III-make-INF       II-continued/*III-continued
+\l The girl continued to make soup.
+
+\t ak'zaxosi            hahrig    ia         roqsi
+\m ak'za-xosi            hah-rig    i-a         roq-si
+\g sharpen-PRES.PRT      mill-ERG    well grind-INF     began
+\l S/he began to think clearly.
+
+\t kid       [nel/pro     corpa          boda]            yoqsi
+\m kid       [nel/pro     corpa          b-od-a]            y-oqsi
+\g girl.ABS she.ERG        soup.III.ABS   III-make-INF       II-began
+\l The girl began to have her/someone make soup.
+
+\t [yesi   zek'         agarawyor     utku         roda]       nes nesir       oqsi
+\m [yesi   zek'         agarawyo-r     utku         roda]       nes nesir       oqsi
+\g this    man.I.ERG relative-DAT house.ABS build.INF           REFL.DAT        began
+\l The man began for himself (~for his own sake), to build a house for his relative.
+
+\t kid       [kidb     corpa             boda ]          yoqsi
+\m kid       [kid-b     corpa             b-od-a ]          y-oqsi
+\g girl.ABS girl.ERG    soup.III.ABS      III-make-INF      II-began
+\l The girl began to make soup.
+
+\t kidb     [kidba corpa          boda ]      akarat     nelsi          FORWARD CONTROL
+\m kid-b     [kid-ba corpa          bod-a ]      akarat     nelsi          FORWARD CONTROL
+\g girl-ERG girl-ERG soup.ABS       make-INF attempt        gave
+\l The girl tried to make soup.
+
+\t  kid          [kidb     corpa          boda ]     yoqsi              BACKWARD CONTROL
+\m  kid          [kid-b     corpa          bod-a ]     y-oqsi              BACKWARD CONTROL
+\g girl.ABS      girl-ERG   soup.ABS       make-INF II-began
+\l The girl began to make soup.
+
+\t enir      [ uz magalu                    bc'rui ]                      riyxo
+\m enir      [ uz magalu                    bc'rui ]                      r-iyxo
+\g mother    [ boy bread.III.ABS            ate ].IV                      IV-know
+\l The mother knows
+
+\t enir      [ uz magalu                    bc'rui ]                      biyxo
+\m enir      [ uz magalu                    bc'rui ]                      b-iyxo
+\g mother    [ boy bread.III.ABS            ate ].IV                      III-know
+\l The mother knows
+

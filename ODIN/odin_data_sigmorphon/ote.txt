@@ -1,0 +1,75 @@
+\t Ra Suwa bi hñó.
+\m Ra Suwa bi hñó.
+\g DET Juan 3PAST-MID-                 kill
+\l Somebody killed John.
+
+\t Ra Suwa bi     hñó s h .
+\m Ra Suwa bi     hñó s h .
+\g DET Juan       3PAST-REFL/IMPERS- kill         INT(ADV)
+\l Juan killed   himself
+
+\t Ra Suwa bi      hñós .
+\m Ra Suwa bi      hñós .
+\g                                    IMPERS                  ADV
+\l John killed    himself
+
+\t Bi      hy ní s h
+\m Bi      hy ní s h
+\g 3PAST-cut     INT(ADV)/REFL
+\l He cut himself
+
+\t Ra Suwa bi hñó.
+\m Ra Suwa bi hñó.
+\g  DET   Juan   3   PAST-REFL/MID-kill
+\l Somebody killed Suwa.
+
+\t Ra Suwa bi hñó s h .
+\m Ra Suwa bi hñó s h .
+\g  DET   Juan   3   PAST-REFL/MID-kill   INT
+\l Juan killed himself.
+
+\t Ra Suwa bi hñós .
+\m Ra Suwa bi hñós .
+\g  DET   Juan   3   PAST-REFL/MID-kill-INT
+\l John killed himself.
+
+\t Bi            hy ní s h .
+\m Bi            hy ní s h .
+\g  3   PAST-cut    INT(ADV)/REFL
+\l He cut himself.
+
+\t Ra Suwa bi           nhyó
+\m Ra Suwa bi           n-hyó
+\g DET Juan 3PAST-REFL/MID- kill
+\l Somebody killed Suwa.
+
+\t ra       zí zu÷wéÁ Á
+\m ra       zí zu÷wéÁ Á
+\g ART little animal
+\l the little animal
+
+\t ha maTM                 gixTM               nú ra boxáÁ
+\m ha maTM                 gixTM               nú ra boxáÁ
+\g       Q going.to you.will.take.it that the money
+\l Are you going to take the money?
+
+\t té         gíhoní          wa
+\m té         gíhoní          wa
+\g    what you.seek.it here
+\l What are you looking for here?
+
+\t ra z?zu÷wéÁ          ?
+\m ra z?zu÷wéÁ          ?
+\g     ART little animal
+\l the little animal
+
+\t ha maTM                gixTM               n?ra boxáÁ
+\m ha maTM                gixTM               n?ra boxáÁ
+\g       Q going.to you.will.take.it that the money
+\l Are you going to take the money?
+
+\t t?        gíhon?         wa
+\m t?        gíhon?         wa
+\g     what you.seek.it here
+\l What are you looking for here?
+

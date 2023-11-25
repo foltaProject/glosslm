@@ -1,0 +1,1740 @@
+\t Nevím,         jestli mi             te&     ne &kdo   doporuc&il.
+\m Nevím,         jestli mi             te&     ne &kdo   doporuc&il.
+\g NEG.know.1 SG       whether 1 SG.REC 2 SG.THM someone recommended
+\l I don't know if somebody recommended you to me.
+
+\t Tady je neprodají
+\m Tady je neprodají
+\g here them they.don't.sell
+\l They don't sell them here
+
+\t Eva te zná dobre
+\m Eva te zná dobre
+\g Eva you knows well
+\l Eva knows you well
+
+\t Dnes jsem precetl tu knihu
+\m Dnes jsem precetl tu knihu
+\g today 1SG.AUX read this book
+\l Today I read this book
+
+\t Tu knihu jsi precetl vcera
+\m Tu knihu jsi precetl vcera
+\g this book 2SG.AUX read yesterday
+\l This book you read yesterday
+
+\t Precetli bychom tu knihu
+\m Precetli bychom tu knihu
+\g read 1PL.COND.AUX this book
+\l We would read this book
+
+\t Chteli by se mu predstavit
+\m Chteli by se mu predstavit
+\g want COND REFL 3SG.MASC.DAT introduce
+\l They would want to introduce themselves to him
+
+\t Dal jsem mu je
+\m Dal jsem mu je
+\g gave 1SG.AUX 3SG.MASC.DAT 3PL.ACC
+\l I gave him them
+
+\t Psal list jsem .
+\m Psal list jsem .
+\g   written letter be.1s
+\l I have written the letter.
+
+\t Celou cestu jsme si                    povidali.1
+\m Celou cestu jsme si                    povidali.1
+\g whole wayACC AUX1:pl CL-REFLDAT talk
+\l All the way we talked to each other.
+
+\t Petr celé msíce             hledal       onu knihu
+\m Petr celé msíce             hledal       onu knihu
+\g Petr whole monthACC:PL look-formasc that book
+\l Petr was looking for that book for months.
+
+\t Alzbta ukazuje        prstem      na Jana.
+\m Alzbta ukazuje        prstem      na Jana.
+\g Alzbta point3:sg:PRS fingerINST at Jan
+\l Alzbta points at Jan with the finger.
+
+\t Pletla vetry
+\m Pletla vetry
+\g Imp-knitted-sg-fem sweaters-pl-Acc
+\l She was knitting sweaters
+
+\t Upletla vetry
+\m U-pletla vetry
+\g Perf-knitted-sg-fem sweaters-pl-Acc
+\l She knitted (all) the sweaters
+
+\t Pil kavu
+\m Pil kavu
+\g Imp-drink-sg-masc coffee-Acc
+\l He was drinking coffee
+
+\t Napil se kavy
+\m Na-pil se kavy
+\g Perf-drink-sg-masc refl coffee-Gen
+\l He drank some coffee
+
+\t Upil kavu
+\m U-pil kavu
+\g Perf-drink-sg-masc coffee-Acc
+\l He drank a sip of coffee
+
+\t Vypil kavu
+\m Vy-pil kavu
+\g Perf-drink-sg-masc coffee-Acc
+\l He drank all the coffee
+
+\t (19)a.Ota pil                   víno.
+\m (19)a.Ota pil                   víno.
+\g CZE Ota drank(IMPF.PAST) wine(ACC)
+\l Ota drank wine / ?the wine
+
+\t Ota vypil                    víno.
+\m Ota vypil                    víno.
+\g  Ota drank(PRV.PAST) wine(ACC)
+\l Ota drank the wine / *wine.
+
+\t (20) a. Jedl               hrusku.
+\m (20) a. Jedl               hrusku.
+\g CZE     ate(IMPF.PAST) pear(ACC)
+\l He ate a pear / ?the pear.
+
+\t Sndl           hrusku
+\m Sndl           hrusku
+\g ate(PRV.PAST) pear(ACC)
+\l He ate a/the pear.
+
+\t (21)a.Jedl               hrusky.
+\m (21)a.Jedl               hrusky.
+\g CZE ate(IMPF.PAST) pear(ACC.PL)
+\l He ate pears / ?the pears.
+
+\t Sndl           hrusky
+\m Sndl           hrusky
+\g ate(PRV.PAST) pear(ACC.PL)
+\l He ate the pears / *pears.
+
+\t OdskoãilP           metr           od okna.
+\m Od-skoãilP           metr           od okna.
+\g AWAY-jump.PAST.3SG about meter      from window
+\l He jumped a meter away from the window.
+
+\t PfiiskoãilP        ??metr               k oknu.
+\m Pfii-skoãilP        ??metr               k oknu.
+\g TO-jump.PAST.3SG ??about meter           to window
+\l He jumped a meter to the window.
+
+\t SkoãilP        metr          od branky, aby               chytilP       míã.
+\m SkoãilP        metr          od branky, aby               chytilP       míã.
+\g jump.PAST.3SG about meter from goal           in.order.to catch.PAST.3SG ball
+\l He jumped a meter away from the goal so that he could catch the ball.
+
+\t SkoãilP        metr           k brance, aby            do ní vstfielilP    míã.
+\m SkoãilP        metr           k brance, aby            do ní vstfielilP    míã.
+\g jump.PAST.3SG about meter to goal          in.order.to into it kick.PAST.3SG ball
+\l He jumped a meter to the goal so that he could kick the ball into it.
+
+\t OdskoãilP                od    okna.
+\m Od-skoãilP                od    okna.
+\g  AWAY-jump.PAST.3SG from window
+\l He jumped away from the window.
+
+\t PfiiskoãilP        k oknu.
+\m Pfii-skoãilP        k oknu.
+\g TO-jump.PAST.3SG to window
+\l He jumped to the window.
+
+\t pfiisednoutP          si
+\m pfii-sednoutP          si
+\g TO-sit.down.SML.INF    PART
+\l to sit down to (somebody or something)
+
+\t dokfiiknoutP
+\m do-kfiiknoutP
+\g TO-shout.out.SML.INF
+\l to shout/call out all the way to (somebody)
+
+\t SkoãilP          *vtefiinu         / (?) za vtefiinu.
+\m SkoãilP          *vtefiinu         / (?) za vtefiinu.
+\g jump.PAST.3SG *second.SG.ACC / (?) in second.SG.ACC
+\l He jumped for a second / in a second.
+
+\t K¥vlP              *vtefiinu        / (?) za vtefiinu.
+\m K¥vlP              *vtefiinu        / (?) za vtefiinu.
+\g nod.PAST.3SG       *second.SG.ACC / (?) in second.SG.ACC
+\l He nodded [i.e., lowered and then raised his head] for a second / in a second.
+
+\t HodiloI    se   mi,                  Ïe  jsme trénovaliI  aÏ odpoledne,               protoÏe jsem si      potfiebovalI pfiispatP.
+\m HodiloI    se   mi,                  Ïe  jsme trénovaliI  aÏ odpoledne,               protoÏe jsem si      potfiebovalI pfiispatP.
+\g suited.3SG PART me                   that AUX practiced.1PL until afternoon           because AUX PART needed.1SG sleep.INF       
+\l It was fine with me that we did not practice until afternoon, because I could sleep late (or longer than usual).
+
+\t Bill spalI          celou cestu   do San Franciska.
+\m Bill spalI          celou cestu   do San Franciska.
+\g Bill slept.3SG whole trip         to San Francisco
+\l Bill slept all the way to San Francisco.
+
+\t UdûlalP       mnoho chyb.
+\m UdûlalP       mnoho chyb.
+\g PREF.do.PAST  a.lot.of mistake.PL.GEN
+\l He made a lot of mistakes.
+
+\t ç R e çsilI problém, ale nakonec           ho nevyçreçsilP.
+\m ç R e çsilI problém, ale nakonec           ho nevyçreçsilP.
+\g solve.PAST problem but in.the.end           i t NEG.solve.PAST
+\l He tried to solve the problem, but he did not manage to solve i t in the end.
+
+\t Tento tyden jsme platiliI          elektçrinu.
+\m Tento tyden jsme platiliI          elektçrinu.
+\g this week AUX pay.PAST electricity
+\l We paid the electricity bill this week.
+
+\t Kdo çsilI            ty çsaty?
+\m Kdo çsilI            ty çsaty?
+\g who sew.PAST         this dress
+\l Who sewed this dress?
+
+\t UjístP              chleba
+\m U-jístP              chleba
+\g PREF-eat.INF         bread.SG.GEN
+\l to eat a little from (the/some) bread
+
+\t UpléstP           svetr
+\m U-pléstP           svetr
+\g PREF-knit.INF      sweater.SG.ACC
+\l to knit (and finish knitting) a/the sweater
+
+\t UçreknoutP       se
+\m U-çreknoutP       se
+\g PREF-say.INF      REFL
+\l to
+
+\t UnéstP
+\m U-néstP
+\g PREF-carry
+\l to be able to carry
+
+\t psátI                       NA papír
+\m psátI                       NA papír
+\g write.INF      something on paper
+\l to write/to be writing something on a piece of paper
+
+\t b . NApsatP                        NA papír
+\m b . NA-psatP                        NA papír
+\g     ON-write.INF      something     on paper
+\l to write up something on a piece of paper
+
+\t PostálP             chvíli     na ulici.
+\m Po-stálP             chvíli     na ulici.
+\g ATN-stand.PAST        while      on street
+\l He stood for a while on the street.
+
+\t ProstálP             hodinu     na ulici.
+\m Pro-stálP             hodinu     na ulici.
+\g PERD-stand.PAST       hour       on street
+\l He stood for a while on the street.
+
+\t P   çr epç      çreku.
+\m P   çr e-pç      çreku.
+\g ACROSS-swim.PAST          (across) river.SG.ACC
+\l He crossed a/the river by swimming over it.
+
+\t Odsedl           si asi metr       od okna.
+\m Od-sedl           si asi metr       od okna.
+\g  away-sat.down refl about meter from window
+\l He sat down about a meter away from the window.
+
+\t Pisedl si asi metr k oknu.
+\m Pi-sedl si asi metr k oknu.
+\g  to-sat.down refl about meter to window
+\l He sat down about a meter away from the window.
+
+\t Povytáhl      káru z píkopu.
+\m Po-vy-táhl      káru z píkopu.
+\g att-out-pull cart from ditch
+\l He pulled the cart partly out of the/a ditch.
+
+\t Podotáhl káru k/do píkopu.
+\m Po-do-táhl káru k/do píkopu.
+\g  att-to-pull cart (in)to ditch
+\l He pulled the cart partly into the/a ditch.
+
+\t Petr celé msíce               hledal         onu knihu.
+\m Petr celé msíce               hledal         onu knihu.
+\g Petr whole monthACC:PL looked-forIMP that book
+\l Petr was looking for that book for months.
+
+\t 5)a)     Nase flotila potopila ledoborce
+\m 5)a)     Nase flotila potopila ledoborce
+\g          our    fleet-N sank-3.sg ship-A.pl.masc.
+\l Our fleet sank the ships.
+
+\t Ledoborce                      se potopilo
+\m Ledoborce                      se potopilo
+\g     ice-breaker-A.pl.masc.SE sank-3rd.sg.neut.
+\l We sank the ships.
+
+\t 6)a)         Ledoborec se (jim)        naschvál potopil
+\m 6)a)         Ledoborec se (jim)        naschvál potopil
+\g              icebreaker SE (them-dat.) on.purpose sank
+\l We sank the icebreaker on purpose.
+
+\t Ludmila               mu              dala            kytku.
+\m Ludmila               mu              dala            kytku.
+\g Ludmila:NOM           him:DAT         give:PAST       flower:ACC
+\l Ludmila gave him aflower'.
+
+\t Ludmila              nám            utekla.
+\m Ludmila              nám            utekla.
+\g Ludmila:NOM          1PL:DAT        run.away:PAST
+\l Ludmila ran away fromus'.
+
+\t Tento den          i    stát     jsou     v na_em podv_domí           op_edeny     mnoha m_ty          o _eské jedine_nosti.
+\m Tento den          i    stát     jsou     v na_em podv_domí           op_edeny     mnoha m_ty          o _eské jedine_nosti.
+\g this.SG day.SG and state.SG are.PL in our unconsciousness             wrapped.PL many myths about Czech uniqueness          
+\l This day and this state are surrounded in our unconsciousness by many myths about Czech uniqueness.
+
+\t SlyselI        hlasy                 na chodbe.
+\m SlyselI        hlasy                 na chodbe.
+\g heard-SG       voices-PL-ACC         on corridor
+\l He heard (some) voices in the corridor.
+
+\t UslyselP            hlasy                na chodbe.
+\m UslyselP            hlasy                na chodbe.
+\g PREF-heard-SG       voices-PL-ACC        on corridor
+\l He (suddenly) heard (some) voices in the corridor.
+
+\t PomalovalP            v
+\m PomalovalP            v
+\g PREF-painted-SG wall-SG-ACC
+\l He covered the wall (with slogans).
+
+\t PsalI      dopis.
+\m PsalI      dopis.
+\g wrote-SG letter-SG-ACC 9
+\l He was writing a/the letter.
+
+\t PsalI      dopis.
+\m PsalI      dopis.
+\g wrote-SG letter-SG-ACC
+\l He was writing a/the letter.
+
+\t NapsalP #zadosti / hodne zadosti´
+\m NapsalP #zadosti / hodne zadosti´
+\g            v ´          vv  ´.
+\l He wrote applications / a lot of applications.
+
+\t UslyselP          na chodbe       hlasy.
+\m UslyselP          na chodbe       hlasy.
+\g PREF-heard-SG     on corridor     voices-PL-ACC
+\l He (suddenly/unexpectedly) heard (some) voices in the corridor.
+
+\t PrineslP          ze sklepa                 uhli´
+\m PrineslP          ze sklepa                 uhli´
+\g PREF-carried-SG from-PREP basement-SG-GEN coal
+\l He brought (some) coal from the basement.
+
+\t NakoupilP                  v     v                    v
+\m NakoupilP                  v     v                    v
+\g  PREF-bought-3SG a-lot-of / basket-SG-ACC/ ?five apples-PL-GEN
+\l He bought a lot of / a basket of / five apples.
+
+\t NakoupilP/KoupilP            jsem          je          v kiosku.
+\m NakoupilP/KoupilP            jsem          je          v kiosku.
+\g PREF-bought-SG/bought-SG am-AUX            them-PL-ACC in kiosk
+\l I bought them in the kiosk.
+
+\t DrzelI    v          ruce         knihu.
+\m DrzelI    v          ruce         knihu.
+\g held-SG in-PREP hand-LOC book-SG-ACC
+\l He was holding a/the book in his hand.
+
+\t PilI                v            ´
+\m PilI                v            ´
+\g drank-SG       (?)all-SG-ACC coffee-SG-ACC
+\l He was drinking (?)all the coffee.
+
+\t PilI               v                               v    ´
+\m PilI               v                               v    ´
+\g drank-SG (??)a-lot-of coffee-SG-GEN / (?)two coffees-PL-GEN
+\l He was drinking a lot of coffee / two cups of coffee.
+
+\t SlyselI   nekolik hlasu°          / tri hlasy            na chodbe.
+\m SlyselI   nekolik hlasu°          / tri hlasy            na chodbe.
+\g heard-SG several voices-PL-GEN / three voices-PL-ACC on corridor
+\l He heard several voices / three voices in the corridor.
+
+\t                  proji´ delyI                   .
+\m                  proji´ delyI                   .
+\g trains-PL-NOM PREF-passed-SUF-3PL station-SG-INSTR
+\l The trains were passing through the station.
+
+\t Vlaky                 projelyP             stanici´
+\m Vlaky                 projelyP             stanici´
+\g  trains-PL-NOM        PREF-passed-3PL station-SG-INSTR
+\l (All) the trains passed through the station.
+
+\t UÇz       jsem                vidÇela                   Petrai [ø   i       bÇeÇzet].
+\m UÇz       jsem                vidÇe-l-a                   Petrai [ø   i       bÇeÇze-t].
+\g already AUX:1SG.PRES see-PT-SG.F P:ACC                                  NOM run-INF
+\l I have seen Peter run.
+
+\t VidÇela     jsem                       [jak             Petrovi najednou pÇreskoÇcilo].
+\m VidÇe-l-a     jsem                       [jak             Petrovi najednou pÇreskoÇci-l-o].
+\g see-PT-SG.F AUX:1SG.PRES                 COMP P.:DAT suddenly                         jump.over-PT-SG.N
+\l I have seen Peter suddenly go nuts.
+
+\t Já jsem ho nevidel
+\m Já jsem ho ne-videl
+\g I AUX him NEG-saw
+\l I didn't see him
+
+\t Vsichni tomu neverí
+\m Vsichni tomu ne-verí
+\g all that NEG-believe
+\l Not all of them believe it
+
+\t Voda byla xolodnoj
+\m Voda byla xolodn-oj
+\g water was cold-INSTR
+\l The water was cold
+
+\t Pujdu tam já a ty
+\m Pujdu tam já a ty
+\g will.go.1SG there I and thee
+\l You and I will go there
+
+\t Vera                 e
+\m Vera                 e
+\g yesterday PeterN saw MaryA
+\l Yesterday, Peter saw Mary.
+
+\t bylo b ez    chuti.)
+\m bylo b ez    chuti.)
+\g was without taste)
+\l As far as the cake goes, Martin brought a good one. (But the wine was tasteless.)
+
+\t Dal Petrovi psa k v´noc°m.a   u
+\m Dal Petrovi psa k v´noc°m.a   u
+\g gave to-PeterD dogA for Christmas
+\l He gave Peter a dog for Christmas.
+
+\t Petrovi dal psa k v´noc°m.a   u
+\m Petrovi dal psa k v´noc°m.a   u
+\g to-PeterD gave dogA for Christmas
+\l To Peter, he gave a dog for Christmas.
+
+\t Dal psa Petrovi k v´noc°m.a   u
+\m Dal psa Petrovi k v´noc°m.a   u
+\g gave dogA to-PeterD for Christmas
+\l He gave Peter a dog for Christmas.
+
+\t Opravit jsem se mu                to vera      snail     marn.  e   
+\m Opravit jsem se mu                to vera      snail     marn.  e   
+\g to-repair aux1sg reflA to-himD itA yesterday tried       fruitlessly
+\l I tried to repair it for him yesterday without success.
+
+\t [Ten velky p es] se m  e                   i
+\m [Ten velky p es] se m  e                   i
+\g that big dog reflA of-meG probably is-scared.
+\l That big dog is probably scared of me.
+
+\t jeden provaz.
+\m jeden provaz.
+\g we all,      that together walk,      would1pl , as
+\l should stick together.
+
+\t Z´tra                     ee
+\m Z´tra                     ee
+\g tomorrow would1pl reflA see longer
+\l Tomorrow, we would see each other for a longer time.
+
+\t Z´tra           uz      ee
+\m Z´tra           uz      ee
+\g tomorrow reflA can1pl see longer
+\l Tomorrow, we can see each other for a longer time.
+
+\t Z´tra            ee        uz
+\m Z´tra            ee        uz
+\g tomorrow reflA see longer can1pl
+\l Tomorrow, we CAN see each other for a longer time.
+
+\t Lednici jsme se1 nakonec rozhodli1 koupit           levnou.
+\m Lednici jsme se1 nakonec rozhodli1 koupit           levnou.
+\g fridgeA aux1pl reflA finally decided to-buy         cheapA 
+\l Regarding the fridge, we decide to buy a cheap one.
+
+\t Levnou jsme se1 nakonec rozhodli1 koupit      lednici.
+\m Levnou jsme se1 nakonec rozhodli1 koupit      lednici.
+\g cheapA aux1pl reflA finally decided to-buy    fridgeA 
+\l It was a fridge, that we decided to buy cheaply.
+
+\t jin´         r zi
+\m jin´         r zi
+\g all   ancient roads ­ Via Appia.
+\l From the tomb of Caecilia Metella in the Rome sub- urbs over the dried plateaus of Apulia up to the south- all ancient roads, the Via Appia, in an uninterrupted straight line.
+
+\t Martin se j´    i      ho    nakonec rozhodl         koupit.
+\m Martin se j´    i      ho    nakonec rozhodl         koupit.
+\g MartinN reflA to-herD himA finally decided           to-buy 
+\l Martin finally decided to buy it for her.
+
+\t Martin se1 ji2         ho2 nakonec rozhodl1         koupit2 .
+\m Martin se1 ji2         ho2 nakonec rozhodl1         koupit2 .
+\g MartinN reflA to-herD himA finally decided          to-buy   
+\l Martin finally decided to buy it for her.
+
+\t Martin se1 ji2         ho2 koupit2 nakonec
+\m Martin se1 ji2         ho2 koupit2 nakonec
+\g decided
+\l Martin finally decided to buy it for her. (But Eva is still hesitating.)
+
+\t Koupit2 se1 ji2        ho2 nakonec rozhodl1    Martin.
+\m Koupit2 se1 ji2        ho2 nakonec rozhodl1    Martin.
+\g to-buy reflA to-herD itA finally decided       Martin 
+\l It's Martin who finally decided to buy it for her.
+
+\t Rozhodl1 se1 ji2        ho2 nakonec koupit2    Martin.
+\m Rozhodl1 se1 ji2        ho2 nakonec koupit2    Martin.
+\g decided reflA to-herD itA finally to-buy       Martin 
+\l It's Martin who finally decided to buy it for her.
+
+\t Smal    se (sam) sob.
+\m Smal    se (sam) sob.
+\g laughed reflA (alone) to-refl        D
+\l He laughed to himself.
+
+\t On se ti         j´     ani nepedstavil.
+\m On se ti         j´     ani nepedstavil.
+\g he reflA to-youD to-herD even not-introduced
+\l You know, he did not even introduce himself to her.
+
+\t On ti      se j´  i     ani nepedstavil.
+\m On ti      se j´  i     ani nepedstavil.
+\g he to-youD reflA to-herD even not-introduced
+\l You know, he did not even introduce himself to her.
+
+\t On se j´  i     ti       ani nepedstavil.
+\m On se j´  i     ti       ani nepedstavil.
+\g  he reflA to-herD to-youD even not-introduced
+\l You know, he did not even introduce himself to her.
+
+\t Napad´ a    m jich         z
+\m Napad´ a    m jich         z
+\g come-up on meA of-themG always a-lot
+\l I always come up on a lot of them.
+
+\t Martin by     se j´  i      ho     nakonec rozhodl      koupit.
+\m Martin by     se j´  i      ho     nakonec rozhodl      koupit.
+\g Martin would3 reflA to-herD himA finally decided        to-buy 
+\l Martin would decide to buy it for her at the end.
+
+\t Opravit vak       jsem se mu                 to          vera          z        e   
+\m Opravit vak       jsem se mu                 to          vera          z        e   
+\g repair however aux1sg reflA to-himD          itA         yesterday tried fruitlessly
+\l However, I tried to repair it yesterday     without suc- cess.
+
+\t Vak jsem se mu                     c        snail      marn   e    opravit.
+\m Vak jsem se mu                     c        snail      marn   e    opravit.
+\g however aux1sg reflA to-himD itA yesterday tried       fruitlessly repair  
+\l However, I tried to repair it yesterday without suc- cess.
+
+\t urit       snail1 i   Martin.
+\m urit       snail1 i   Martin.
+\g definitely tried even Martin
+\l Even Martin would try to help him to find it.
+
+\t Martin se1 j´2i      to2 rozhodl1 koupit2 .
+\m Martin se1 j´2i      to2 rozhodl1 koupit2 .
+\g Martin reflA to-herD itA decided to-buy
+\l Martin decided to buy it for her.
+
+\t Martin j´1     r´                   c
+\m Martin j´1     r´                   c
+\g Martin to-herD ordered reflA itA to-learn
+\l Martin ordered her to learn it.
+
+\t Martin mu1       j´2            a     ´
+\m Martin mu1       j´2            a     ´
+\g Martin to-himD to-herD itA forbid to-give
+\l Martin forbid him to give it to her.
+
+\t Martin mu2      j´1             a     ´
+\m Martin mu2      j´1             a     ´
+\g  Martin to-himD to-herD itA forbid to-give
+\l Martin forbid her to give it to him.
+
+\t Martin mu1       j´2    vera                            a
+\m Martin mu1       j´2    vera                            a
+\g to-buy such presents
+\l Martin forbade him to buy her                     such presents yes- terday.
+
+\t Poslat2 se1 mi1       mu2      ho2 dnes nep odailo1 .
+\m Poslat2 se1 mi1       mu2      ho2 dnes nep odailo1 .
+\g to-send reflA to-meD to-himD himA today not-succeeded
+\l I did not succeed in sending it to him today.
+
+\t Poslat2 se1 mi2      mu1      ho2 dnes nep odailo1 .
+\m Poslat2 se1 mi2      mu1      ho2 dnes nep odailo1 .
+\g   to-send reflA to-meD to-himD himA today not-succeeded
+\l He did not succeed in sending it to me today.
+
+\t Poslat2 se1 mu1       mi2     ho2 dnes nep odailo1 .
+\m Poslat2 se1 mu1       mi2     ho2 dnes nep odailo1 .
+\g to-send reflA to-himD to-meD himA today not-succeeded
+\l He did not succeed in sending it to me today.
+
+\t Poslat2 se1        mu2          mi1    ho2       dnes nep odailo1 .
+\m Poslat2 se1        mu2          mi1    ho2       dnes nep odailo1 .
+\g   to-send refl   A   to-him   D   to-meD him   A   today not-succeeded
+\l I did not succeed in sending it to him today.
+
+\t Kup ovat2   takov´   ´                   j´2             vera        Martin   zak´zal1 .
+\m Kup ovat2   takov´   ´                   j´2             vera        Martin   zak´zal1 .
+\g to-buy      such     presents to-him   D   to-her   D    yesterday   Martin   forbade   
+\l Martin forbade him to buy her such presents yes- terday.
+
+\t televizi.
+\m televizi.
+\g TV
+\l Martin forbid Peter to watch TV.
+
+\t ruce.
+\m ruce.
+\g handsA
+\l I haven't seen Martin wash his hands yet.
+
+\t Vl´da          cu      dop oruila1 se 2      p o jistit2 .
+\m Vl´da          cu      dop oruila1 se 2      p o jistit2 .
+\g government to-citizensD recommended reflA    to-insure    
+\l The government recommended the citizens get in- surance.
+
+\t  televizi.
+\m  televizi.
+\g  TV
+\l Martin forbid Peter to watch TV.
+
+\t Nevidl1 jsem 0 si 2          se          ´           ruce. 
+\m Nevidl1 jsem 0 si 2          se          ´           ruce. 
+\g   not-seen aux1sg refl   D   yet MartinA to-wash     handsA
+\l I haven't seen Martin wash his hands yet.
+
+\t Vl´da              cu        dop oruila1        p o jistit2 .
+\m Vl´da              cu        dop oruila1        p o jistit2 .
+\g   government reflA to-citizensD recommended     to-insure    
+\l The government recommended the citizens get in- surance.
+
+\t Pir     vybru si 2         a    i     i         v´mat2          i       sp oteby.    
+\m Pir     vybru si 2         a    i     i         v´mat2          i       sp oteby.    
+\g during selection reflD    customer must         to-pay-attention also    consumptionG
+\l During selection, the   customer must pay attention also to consumption.
+
+\t Martin se 2 snail1 dokonit2 vechno           c
+\m Martin se 2 snail1 dokonit2 vechno           c
+\g Martin reflA tried to-finish everything on-time
+\l Martin tried to finish everything on time.
+
+\t Opravit jsem se mu               to vera          z      marn.  e   
+\m Opravit jsem se mu               to vera          z      marn.  e   
+\g repair aux1sg reflA to-himD itA yesterday tried          fruitlessly
+\l I tried to repair it for him yesterday without success.
+
+\t Pletla vetry
+\m Pletla vetry
+\g Imp-knitted-sg-fem sweaters-pl-Acc
+\l She was knitting sweaters
+
+\t Upletla vetry
+\m U-pletla vetry
+\g Perf-knitted-sg-fem sweaters-pl-Acc
+\l She knitted (all) the sweaters
+
+\t Pil kavu
+\m Pil kavu
+\g Imp-drink-sg-masc coffee-Acc
+\l He was drinking coffee
+
+\t Napil se kavy
+\m Na-pil se kavy
+\g Perf-drink-sg-masc refl coffee-Gen
+\l He drank some coffee
+
+\t Upil kavu
+\m U-pil kavu
+\g Perf-drink-sg-masc coffee-Acc
+\l He drank a sip of coffee
+
+\t Vypil kavu
+\m Vy-pil kavu
+\g Perf-drink-sg-masc coffee-Acc
+\l He drank all the coffee
+
+\t Püjdu          tam já             i          ty
+\m Püjdu          tam já             i          ty
+\g will-go.1sg there I.NOM           and        you.NOM.2SG
+\l Both of you and I will go there.
+
+\t Po              jednom        jablku            sndl    Jan                 a       Petr
+\m Po              jednom        jablku            sndl    Jan                 a       Petr
+\g at-the-rate-of one.LOC        apple-LOC         ate.3sg John.NOM            and     Peter.NOM
+\l John and Peter ate an apple each.
+
+\t Donutil           jsem                 ho              prijít           samotného.
+\m Donutil           jsem                 ho              prijít           samotného.
+\g forced            AUX-1SG              he-ACC          come-INF         alone-ACC
+\l I forced him to come alone.
+
+\t Honza        restal mít       rád Marii.
+\m Honza        restal mít       rád Marii.
+\g Honza-NOM stopped have-INF glad Marie-ACC
+\l Honza stopped liking Maria.
+
+\t Honza        zkousí pomáhat Marii.
+\m Honza        zkousí pomáhat Marii.
+\g Honza-NOM tries help-INF Marie-ACC
+\l Honza tries to help Marie.
+
+\t Petr      se zdál být     nespokojený.
+\m Petr      se zdál být     nespokojený.
+\g Petr-NOM seemed be-INF dissatisfied-NOM
+\l Petr seemed to be dissatisfied
+
+\t Petr      se bál prijít      neohlásený.
+\m Petr      se bál prijít      neohlásený.
+\g Petr-NOM feared come-INF unannounced-NOM
+\l Petr was afraid of arriving impromptu.
+
+\t Být opilý        znamená být      hloupý.
+\m Být opilý        znamená být      hloupý.
+\g be-INF drunk-NOM means be-INF stupid-NOM
+\l Being drunk means being stupid.
+
+\t Donutil            jsem                 ho               rijít           samotného.
+\m Donutil            jsem                 ho               rijít           samotného.
+\g forced             AUX-1SG              he-ACC          come-INF         alone-ACC
+\l I forced him to come alone.
+
+\t           rim                   pacientu              p                                            svlecení        / ??svlecené.       
+\m           rim                   pacientu              p                                            svlecení        / ??svlecené.       
+\g Marie made          five-ACC patients-GEN             come-INF      undressed-GEN                    undressed-NOM        undressed-ACC
+\l Marie made five patients come undressed.
+
+\t Odnaucila         mnoho       záku°       pricházet do skoly ??nevyspalí /       nevyspalé / nevyspalých.
+\m Odnaucila         mnoho       záku°       pricházet do skoly ??nevyspalí /       nevyspalé / nevyspalých.
+\g untaught-3.SG.FEM many-ACC pupils-GEN come-INF to school sleepy-NOM                sleepy-ACC sleepy-GEN 
+\l She taught many pupils to stop coming to school without having proper sleep.
+
+\t Marie videla pet      pacientu°     lezet neosetrených / *neosetrení        / ??neosetrené.   
+\m Marie videla pet      pacientu°     lezet neosetrených / *neosetrení        / ??neosetrené.   
+\g Marie saw five-ACC patients-GEN lie-INF unattended-GEN unattended-NOM           unattended-ACC
+\l Marie saw five patients lying unattended.
+
+\t MalovalI          hesla           (na sténu).
+\m MalovalI          hesla           (na sténu).
+\g paint.PAST.3SG slogan.PL.ACC (on wall)
+\l He painted (the/some) slogans (on the wall).
+
+\t Ivan pil         pivo
+\m Ivan pil         pivo
+\g Ivan drank-impf beer
+\l Ivan was drinking/drank beer
+
+\t Ivan vypil    pivo
+\m Ivan vypil    pivo
+\g Ivan drank-pf beer
+\l Ivan drank the beer
+
+\t Povytáhl                káru        z       p íkopu.
+\m Povytáhl                káru        z       p íkopu.
+\g PO-out-pull-PAST        cart-ACC from ditch-GEN
+\l He pulled the cart   out of the ditch a bit.
+
+\t Podotáhl               káru        do      p íkopu.
+\m Podotáhl               káru        do      p íkopu.
+\g PO-to-pull-PAST         cart-ACC (in)to ditch-GEN
+\l He pulled the cart   (in)to the ditch a bit.
+
+\t Ivan pil         pivo
+\m Ivan pil         pivo
+\g Ivan drank-impf beer
+\l Ivan was drinking/drank beer
+
+\t Ivan vypil    pivo
+\m Ivan vypil    pivo
+\g Ivan drank-pf beer
+\l Ivan drank the beer
+
+\t (22) Psal (I) dopis
+\m (22) Psal (I) dopis
+\g wrote-SG letter-SG-ACC
+\l He was writing a/the letter.
+
+\t Já a        ty    zstaneme          doma
+\m Já a        ty    zstan-eme          doma
+\g I    and you will stay-1ST.PL at home
+\l You and I will stay at home.
+
+\t Bratr a já se                  ucíme           hrát  na klavír
+\m Bratr a já se                  uc-íme           hrát  na klavír
+\g bother and I REFL-ACC teach-1ST.PL to play on piano
+\l My brother and I are learning to play the piano.
+
+\t Tvj otec       a    ty jste             si          podobni
+\m Tvj otec       a    ty j-ste             si          podobni
+\g your father    and you be-2ND.PL REFL-DAT similar
+\l Your father and you are similar.
+
+\t dm                                         porodnici
+\m dm                                         porodnici
+\g two-N                  in                  rnaternity-hospital-in                Podolf-Lsg.
+\l According to Zita's estimate, Kvido was supposed to be born in the first week of August in the year nineteen hundred sixty-two in the maternity hospital in Podolf.
+
+\t taki                nesmZl                  nikdo              jiny               prohlSdnout.
+\m taki                nesmZl                  nikdo              jiny               prohlSdnout.
+\g                     pastmsg
+\l At that time his mother had already   completed twenty seasons in the theater,   although she considered the vast majority of her  primarily children's roles in plays by Jir&ek,   Tyl, Kohout, and Mafenck  to be the mildly compromising sins  of youth. After all, she wa s studying in me fourth year  of law school and she no w thought of her participation  as an extra for the Theater of the Czechoslovak army hi  Vinohrady as merely a  noncommittal game (which of course  did not prevent her from presenting the more or les s random fact  that the expected date of birth coincided with  the theater's vacation time to her more successful  colleagues absolutely as a matter of proper  professional discipline). However paradoxical it may sound,  beneath the veneer of amateur enthusiasm Kvido's mother - the one-time star of school plays ~ was in reality very shy and noone else besides Zita was allowed to examine her.
+
+\t na                    rohu               Anenskiho           ndmisti.
+\m na                    rohu               Anenskiho           ndmisti.
+\g on                    corner-Lsg         Anensk6-Gsgn        square-Gsg.
+\l Zita, the head physician of the Podolf maternity hospital and for many years a friend of grandmother Lfba, who had known Kvido's mother since childhood, patiently tried to cater to her whim and promised her that she would reorganize the doctors* schedules so that on that critical day  there would not be even one man assisting in the "With Zita in Podolf  no birth ever hurts", rhymed  grandmother Liba at lunch, and even  Kvido's father's father, grandfather  Josef, despite his apriori skepticism concerning  everything communist, naturally making no exception for health care,  was willing to admit mat the likelihood  of Kvido's little head being crushed by the hospital tongs  this time was indeed  somewhat lower than it would be elsewhere. The only thing that no one had taken into account was a shaggy black German shepherd which suddenly appeared on the evening of the twenty-seventh of June in the crimson-colored sunlight on the embankment of the Vltava precisely at the moment when Kvido's mother was cumbersomely climbing out of a taxi, and which -- after quickly dashing up unheard - knocked her against the warm plaster of a house on the corner of Anenske* square.
+
+\t Sedm ko?ek        ?ezere         v?chezny    my?i
+\m Sedm ko?ek        ?ezere         v?chezny    my?i
+\g Seven cat.GENpl will eat.3SG.N   all      mice
+\l Seven cats will eat all the mice.
+
+\t Honza       prestal podporovat Marii.
+\m Honza       prestal podporovat Marii.
+\g Honza-NOM stopped support-INF Marie-ACC
+\l Honza stopped supporting Marie.
+
+\t Honza        zkousí podporovat Marii.
+\m Honza        zkousí podporovat Marii.
+\g Honza-NOM tries support-INF Marie-ACC
+\l Honza tries to support Marie.
+
+\t    rídil jsem     Honzovi podporovat Marii.
+\m    rídil jsem     Honzovi podporovat Marii.
+\g ordered AU X-1.SG Honza-DAT support-INF Marie-ACC
+\l I ordered Honza to support Marie
+
+\t Petr      se zdál být     nespokojený.
+\m Petr      se zdál být     nespokojený.
+\g Petr-NOM seemed be-INF dissatisfied-NOM
+\l Petr seemed to be dissatisfied
+
+\t Petr      se bál prijít      neohlásený.
+\m Petr      se bál prijít      neohlásený.
+\g Petr-NOM feared come-INF unannounced-NOM
+\l Petr was afraid of arriving impromptu.
+
+\t Být opilý        znamená být      hloupý.
+\m Být opilý        znamená být      hloupý.
+\g be-INF drunk-NOM means be-INF stupid-NOM
+\l Being drunk means being stupid.
+
+\t Marie p ela pet          pacientu
+\m Marie p ela pet          pacientu
+\g   undressed-ACC
+\l Marie made five patients come undressed.
+
+\t Marie videla pet          pacientu      lezet neoset        / *neoset               neosetrené.     
+\m Marie videla pet          pacientu      lezet neoset        / *neoset               neosetrené.     
+\g Marie saw      five-ACC patients-GEN lie-INF unattended-GEN    unattended-NOM         unattended-ACC
+\l Marie saw five patients lying unattended.
+
+\t Byc         pijanym to byc         glupim.
+\m Byc         pijanym to byc         glupim.
+\g     be-INF drunk-INS is be-INF stupid-INS
+\l To be drunk is to be stupid.
+
+\t Bylo       videt     dost                lidí               vracet se       od        okénka       nespokojení.
+\m Bylo       videt     dost                lidí               vracet se       od        okénka       nespokojení.
+\g   was        seen      enough-NOM          people-GEN         return-INF      from      counter      dissatisfied-NOM
+\l One could see quite a few people return from the counter dissatisfied.
+
+\t Ktery!ch me&stech Václav bydlel           ve?
+\m Ktery!ch me&stech Václav bydlel           ve?
+\g  which city.PL.LOC Vaclav live.PAST.3SG in
+\l Which city does Vaclav live in?
+
+\t Bydlel          jsem ve více me&stech nez& ty jsi bydlel             v
+\m Bydlel          jsem ve více me&stech nez& ty jsi bydlel             v
+\g   live.PAST.1SG aux in more city.PL.GEN than you aux live.PAST.2SG in
+\l I have lived in more cities than you have lived in.
+
+\t Chci           bydlet ve více americky!ch me&stech nez& jsem          bydlel         v europsky!ch me&stech 
+\m Chci           bydlet ve více americky!ch me&stech nez& jsem          bydlel         v europsky!ch me&stech 
+\g want.1SG.PRES live.INF in more American city.PL.GEN than aux          lived.PAST.1SG in European city.PL.LOC
+\l I want to have lived in more American cities than I have lived in European cities.
+
+\t Kdo bydlel        ve ktery ch me&stech?
+\m Kdo bydlel        ve ktery ch me&stech?
+\g who live.PAST.3SG in which city.PL.LOC
+\l Who lives in which city?
+
+\t Karel     hráv á         hokej
+\m Karel     hrá-v á         hokej
+\g Charles play-HAB.PRES hockey
+\l Charles usually plays hockey
+
+\t Karel    bude             hráv athokej
+\m Karel    bude             hrá-v a-thokej
+\g Charles AUX.FUT.3SG play-HAB-INF hockey
+\l Charles will usually play hockey
+
+\t Nesedávej          poçrád   v koutçe!
+\m Nesedá-vej          poçrád   v koutçe!
+\g NEG.sit-HAB.IMP always in corner
+\l Don't constantly/always sit in the corner!
+
+\t  Zapisovával  P        *zrovna      / obyçcejn çe    vysledky
+\m  Zapiso-vá-va-l  P        *zrovna      / obyçcejn çe    vysledky
+\g PREF.write-IPF-HAB-PAST *at that moment / usually results.PL.ACC
+\l He usually recorded the results
+
+\t Pujdu          tam ja        a       ty.
+\m Pujdu          tam ja        a       ty.
+\g Will.go-1SG there I          and     you
+\l I and you will go there.
+
+\t (1)a.             To         jsem              se        ale      (hodne/*trochu) NAbehal !
+\m (1)a.             To         jsem              se        ale      (hodne/*trochu) NAbehal !
+\g                   it         AUX.1SG           REFL but           (a lot/*a little) PREF.run.PAST
+\l Boy, did I run a lot!
+
+\t (1)b.             Hodne/Trochu jsem                            I
+\m (1)b.             Hodne/Trochu jsem                            I
+\g                   a lot/a little        AUX.1SG          run.PAST
+\l I ran a lot / a little.
+
+\t                          NAbehalP                    ç                         ç
+\m                          NAbehalP                    ç                         ç
+\g it      REFL but         PREF.run.PAST on office.PL.LOC / *on office.SG.LOC
+\l Boy, how many times did he have to go to all those various offices!
+
+\t Petr      nám             NAvyprávelPç                  pçríhody                 ze svych cest.
+\m Petr      nám             NAvyprávelPç                  pçríhody                 ze svych cest.
+\g Peter     us.PL.DAT        PREF.tell.PAST                adventure.PL.ACC            from his travels
+\l Peter told us about his many travel adventures.
+
+\t Petr      nám               vyprávelI                                              ze svych cest.
+\m Petr      nám               vyprávelI                                              ze svych cest.
+\g Peter     us.PL.DAT          tell.PAST                   adventure.PL.ACC           from his travels
+\l Peter told / was telling us about his many travel adventures.
+
+\t Petr      nám               DOvyprávelPç                pçríhody                ze svych cest.
+\m Petr      nám               DOvyprávelPç                pçríhody                ze svych cest.
+\g Peter     us.PL.DAT          PREF.tell.PAST              adventure.PL.ACC           from his travels
+\l Peter finished telling us about (all) his travel adventures.
+
+\t Petr      nám                NAvyprávelPç              mnoho/hodne ç      pçríhod.
+\m Petr      nám                NAvyprávelPç              mnoho/hodne ç      pçríhod.
+\g Peter     us.PL.DAT           PREF.tell.PAST            many/a lot of      story.PL.GEN
+\l Peter told us many / a lot   of stories.
+
+\t Petr      nám                NAvyprávelP  ç *dve
+\m Petr      nám                NAvyprávelP  ç *dve
+\g Peter     us.PL.DAT           PREF.tell.PAST *two       story.PL.GEN        / ??a few story.PL.GEN
+\l Peter told us two / a few    stories.
+
+\t Petr     nám                vyprávelI                                      / jen málo
+\m Petr     nám                vyprávelI                                      / jen málo
+\g Peter     us.PL.DAT          tell.PAST          two     story.PL.GEN        / only a few      story.PL.GEN
+\l Peter told / was telling us two stories / only a few stories.
+
+\t Petr      nám               DOvyprávelP         ç      pçríhody         / jen málo         pçríhod.
+\m Petr      nám               DOvyprávelP         ç      pçríhody         / jen málo         pçríhod.
+\g Peter     us.PL.DAT          PREF.tell.PAST two          story.PL.GEN       / only a few      story.PL.GEN
+\l Peter finished telling us two stories / only a few stories.
+
+\t (11)a.             Petr     UpeklP                  housky.
+\m (11)a.             Petr     UpeklP                  housky.
+\g                    Peter    PREF.bake.PAST           roll.PL.ACC
+\l Peter baked (all) the rolls.
+
+\t (11)b.             Petr     peklI            housky.
+\m (11)b.             Petr     peklI            housky.
+\g                    Peter    bake.PAST        roll.PL.ACC
+\l Peter baked/was baking (some/the) rolls.
+
+\t (12)a.             VYpilP                     víno.
+\m (12)a.             VYpilP                     víno.
+\g                    PREF.drink.PAST            wine.SG.ACC
+\l He drank up (all) the wine.
+
+\t (17)a.              Jana     POrozbíjelaP                (*najednou)        çsálky             v myçcce.
+\m (17)a.              Jana     POrozbíjelaP                (*najednou)        çsálky             v myçcce.
+\g                     Jane     PREF.break.PAST              (*all at once)     cup.PL.ACC         in dishwasher
+\l Jane broke (all) the cups in the dishwasher.
+
+\t (17)b.              Jana     rozbilaP             çsálky            v myçcce.
+\m (17)b.              Jana     rozbilaP             çsálky            v myçcce.
+\g                     Jane     break.PAST          cup.PL.ACC         in dishwasher
+\l Jane broke (all) the cups in the dishwasher.
+
+\t (17)c.              Jana     rozbíjelaI         kokosové oçrechy           na malé kousky.
+\m (17)c.              Jana     rozbíjelaI         kokosové oçrechy           na malé kousky.
+\g                     Jane     break.IPF.PAST coconut.PL.ACC                   into small pie
+\l Jane was breaking / broke (some/the) coconuts into small pieces.
+
+\t Pekaçri                      NApekliP                   housky.
+\m Pekaçri                      NApekliP                   housky.
+\g baker.PL.NOM                 PREF.bake.PAST              roll.PL.ACC
+\l Bakers baked a lot of / a large batch of / quite a few rolls.
+
+\t (22)a.            NApsalP                      dopisy              inkoustem.
+\m (22)a.            NApsalP                      dopisy              inkoustem.
+\g                   PREF.write.PAST              letter.PL.ACC       ink.SG.INSTR
+\l He wrote (all) the letters in ink.
+
+\t (22)b.            NApsalP                       ç                 dopisy           inkoustem.
+\m (22)b.            NApsalP                       ç                 dopisy           inkoustem.
+\g                   PREF.write.PAST              all.PL.ACC          letter.PL.ACC    ink.SG.INSTR
+\l He wrote all the letters in ink.
+
+\t (22)c.            NApsalP                      dopisy                   ç        inkoustem.
+\m (22)c.            NApsalP                      dopisy                   ç        inkoustem.
+\g                   PREF.wirte.PAST              letter.PL.ACC       ?*all.SG.INSTR ink.SG.INSTR
+\l He wrote the letters with all the ink.
+
+\t (22)d.            VYpsalP                      na dopisech          ç              inkoust.
+\m (22)d.            VYpsalP                      na dopisech          ç              inkoust.
+\g                   PREF.write.PAST              on letters          all.SG.ACC       ink.SG.ACC
+\l He used up all the ink to write the letters.
+
+\t (23)a.                   ç            hlasy
+\m (23)a.                   ç            hlasy
+\g                    hear.PAST           voice.PL.ACC                on corridor
+\l He heard (some) voices in the corridor.
+
+\t Vidím Pavla          odchazét.
+\m Vidím Pavla          odchazét.
+\g  see.1sg Pavel.acc to-leave
+\l I see Pavel leaving.
+
+\t To vám          (ne)budu             (*ne)ríkat.
+\m To vám          (ne)budu             (*ne)ríkat.
+\g this you-DAT not-AU X-F U T not-say
+\l This, I won't tell you.
+
+\t (Ne)rekl          (*ne)bych                to.
+\m (Ne)rekl          (*ne)bych                to.
+\g not-said-M A S C not-AU X-S B J.1 S G this
+\l I wouldn't say that.
+
+\t Posílat dopisy ti budu          pravidelne kazdý týden.
+\m Posílat dopisy ti budu          pravidelne kazdý týden.
+\g send letters you F U T-AU X regularly every week
+\l Send letters to you I shall regularly every week.
+
+\t Srdecne uvítáni domorodým obyvatelstvem jsme                            rozhodne nebyli.  
+\m Srdecne uvítáni domorodým obyvatelstvem jsme                            rozhodne nebyli.  
+\g cordially greeted original-I N S inhabitants-I N S AU X-P T.1 P L       certainly not-been
+\l For sure, we were not greeted by the original inhabitants cordially.
+
+\t nemel.
+\m nemel.
+\g not-should
+\l Of course I acknowledge that I shouldn't have beaten him up.
+
+\t [ zahodit     ji a vydat se           pesky na útek k východním                hranicím smer    domu ] k jsi                  
+\m [ zahodit     ji a vydat se           pesky na útek k východním                hranicím smer    domu ] k jsi                  
+\g   throw-away her and start-out R E FL on-foot on flight to Eastern             borders direction home AU X-P T.2 S G not-could
+\l You couldn't throw her away and start out on foot, fleeing towards the Eastern borders.
+
+\t Usadit      nastálo jsem                 se     chtel v Patagonii
+\m Usadit      nastálo jsem                 se     chtel v Patagonii
+\g settle-down constantly AU X-P T.1 S G R E FL wanted in P.
+\l I wanted to settle down constantly in Patagonia.
+
+\t napadení turistu °               videli.
+\m napadení turistu °               videli.
+\g attack     tourists-G E N.P L saw
+\l The taxi drivers, who saw the attack on the tourists, could help to clarify the whole case.
+
+\t míst, která uvolnili letosní         absolventi. ]
+\m míst, která uvolnili letosní         absolventi. ]
+\g places which freed this-year's alumni
+\l (About 1600 persons apply for the dormitory.) We could offer only 570 places, (which opened after this year's alumni left.)
+
+\t ] chtela        a chci,         ale také proto, ze . . .
+\m ] chtela        a chci,         ale také proto, ze . . .
+\g    wanted       and want-1 S G but also because that
+\l (. . . then    this is the case not only) because I wanted and want to make a career,      (but also because . . . )
+
+\t Pokud by zákonodárci schválit misi        nestihli,    ...
+\m Pokud by zákonodárci schválit misi        nestihli,    ...
+\g if      S B J legislators approve mission not-managed
+\l If the legislators would not manage to approve of the mission ...
+
+\t                                      politice [ venovat ] skutecne nechtel       ¨t.
+\m                                      politice [ venovat ] skutecne nechtel       ¨t.
+\g but further AU X-P T.1 S G R E FL politics devote      really      not-wanted       
+\l . . . but I really did not want to devote myself to politics any further.
+
+\t ". . . Za druhou puli jsme      vsak [ VP vyhrát] urcite [ FOC            zaslouzili t ]," rekl trenér
+\m ". . . Za druhou puli jsme      vsak [ VP vyhrát] urcite [ FOC            zaslouzili t ]," rekl trenér
+\g during second half AU X-1 P L M P       win     certainly                 deserved         said coach 
+\l But in the second half we surely deserved towin", said the coach.
+
+\t Nikdo nevolá
+\m Nikdo nevolá
+\g N-body neg.calls
+\l Nobody is calling
+
+\t Nikdo volá
+\m Nikdo volá
+\g  N-body calls
+\l Nobody is calling
+
+\t Celá ta vesnice se      tsila          na príma vecei.
+\m Celá ta vesnice se      tsila          na príma vecei.
+\g whole that town refl-cl looked-forward on nice dinner
+\l The whole town looked forward to the nice dinner.
+
+\t ekla jsem             mu             to.
+\m ekla jsem             mu             to.
+\g told aux.1sg.cl him.dat.cl it.acc.cl
+\l I told it to him.
+
+\t Pomáhat ~mu, by=to dnes stálo mnoho.
+\m Pomáhat ~mu, by=to dnes stálo mnoho.
+\g help.inf him.cl would.cl it today cost much
+\l Helping him would cost a lot today.
+
+\t Se      mi vcera        narodil kluk...
+\m Se      mi vcera        narodil kluk...
+\g refl.cl me.cl yesterday born boy
+\l My son was born yesterday....
+
+\t Maminka Vítka zvedla a postavila ho do dveí vagónu. Vítek                          se               tsil...          
+\m Maminka Vítka zvedla a postavila ho do dveí vagónu. Vítek                          se               tsil...          
+\g mom       Vitek brought and stood   him to doors wagon Vitek                       refl-cl          looked-forward-to
+\l Mom took Vitek and put him in the door of the wagon. Vitek was                     looking forward to...
+
+\t Co jsi       koupila synm k           svátku?
+\m Co jsi       koupila synm k           svátku?
+\g what aux.1sg bought sons.dat towards name-day
+\l What did you buy your sons for their name days?
+
+\t HONZOVI jsem       koupila AUTÍCKO a PETROVI KNÍZKU.
+\m HONZOVI jsem       koupila AUTÍCKO a PETROVI KNÍZKU.
+\g Honza.dat aux.1sg bought car.dim.acc and Petr.dat book.acc
+\l Honza I bought a car and Petr a book.
+
+\t Co jsi       dala Honzovi k           narozeninám?
+\m Co jsi       dala Honzovi k           narozeninám?
+\g what aux.2sg gave Honza.dat towards birthday
+\l What did you give Honza for his birthday?
+
+\t KNÍZKU jsem       mu dala.
+\m KNÍZKU jsem       mu dala.
+\g book.acc aux.1sg him.cl gave
+\l I gave him a book.
+
+\t HonzoviT KNIZKUF jsem        dala.
+\m HonzoviT KNIZKUF jsem        dala.
+\g Honza.dat book.acc aux.1sg.cl gave
+\l I gave Honza a book.
+
+\t KNIZKUF HonzoviT jsem        dala.
+\m KNIZKUF HonzoviT jsem        dala.
+\g book.acc Honza.dat aux.1sg.cl gave
+\l I gave Honza a book.
+
+\t Také Mirek by       vyslovil   nesouhlas...Ale tvj kamarád Josef, tomu by            se       to asi  líbilo..A co EMAF by           na to ekla?
+\m Také Mirek by       vyslovil   nesouhlas...Ale tvj kamarád Josef, tomu by            se       to asi  líbilo..--A co EMAF by           na to ekla?
+\g also Mirek would pronounce neg-agree but your friend Josef, that would               refl-cl it maybe like      and what Ema would on it say      
+\l Mirek would also disagree...but your friend Josef, he would probably like it.--And what would EMAF say?
+
+\t Kdy to autoT bys          teda koupil?
+\m Kdy to autoT bys          teda koupil?
+\g when that car would.2sg.cl prt bought
+\l When would you buy the carT?
+
+\t Soudce1 se       podíval zkoumav na Vítzslava2 a ten2/*1 si               pozádal...
+\m Soudce1 se       podíval zkoumav na Vítzslava2 a ten2/*1 si               pozádal...
+\g judge    refl-cl looked searchingly at Vitezslav.acc and that     refl-cl requested
+\l The judge1 looked searchingly at Vítzslav2 and that2/*1 requested...
+
+\t ...do lokálu se      jako tajfun vítil       chlap1 jako hora        a dal1        hajnému Vítzslavovi2 takovou facku, ze ten2/*1 skoncil i           s    ruksakem        na zádech v rohu místnosti na zemi.
+\m ...do lokálu se      jako tajfun vítil       chlap1 jako hora        a dal1        hajnému Vítzslavovi2 takovou facku, ze ten2/*1 skoncil i           s    ruksakem        na zádech v rohu místnosti na zemi.
+\g    to bar    refl-cl like typhoon stormed-in man like mountain and gave            forester Vítzslav.dat such       smack that that ended-up even with backpack            on back in corner room.gen on floor
+\l ...a mountain of a man1 stormed into the bar like a typhoon and gave1 forester Vítzslav2 such a smack in the face that that2/*1 ended up, with his backpack still on his back, on the ground in the corner of the room.
+
+\t ...podala ji         strýcovi1 a ten1          ji    vzal     do ruky a sel s            ní      okamzit k oknu...                      
+\m ...podala ji         strýcovi1 a ten1          ji    vzal     do ruky a sel s            ní      okamzit k oknu...                      
+\g    gave.fem it.fem uncle.dat and that.masc it.fem took.masc to hand and went with        it.fem at-once to window put-on refl-cl glasses
+\l ...she gave it to her uncle1 and that1 took it and went immediately to the window...
+
+\t Harrisona Forda1 si          po operaci dom odvezla na vozíku             jeho        nastávající, seriálová herecka Calista Flockhart2.       Ta2/*Ten1       se      nyní        velice tsí...        
+\m Harrisona Forda1 si          po operaci dom odvezla na vozíku             jeho        nastávající, seriálová herecka Calista Flockhart2.       Ta2/*Ten1       se      nyní        velice tsí...        
+\g Harrison Ford.acc refl-cl after operation to-home brought on wheelchair his           fiance        serial    actress Calista Flockhart.nom that.fem/that.masc refl-cl now         much looks-forward-to
+\l Harrison Ford1 was taken home in a wheelchair after his operation by his fiancé2, serial actress Calista Flockhart. That2/*1 is looking forward to...
+
+\t Mladá zena se          nasilníkovi1 bránila, ten! jí vsak  bat'oh        nakonec vyrval z      rukou...
+\m Mladá zena se          nasilníkovi1 bránila, ten! jí vsak  bat'oh        nakonec vyrval z      rukou...
+\g young woman refl-cl mugger.dat defended that her however backpack        at-end took from hand.instr   
+\l The young woman defended herself against the mugger1; that1, however, in the end, took her backpack...
+
+\t ,,Ten1 jim vsak      nedal     jízdenky, ale ani nevrátil        peníze," ekl Vlkan.
+\m ,,Ten1 jim vsak      nedal     jízdenky, ale ani nevrátil        peníze," ekl Vlkan.
+\g    that them however neg-gave tickets but neither neg-returned money said Vlkan
+\l ...two English speaking foreigners wanted two tickets from the driver and gave him a 2,000 crown note."That, however, did not give them tickets nor return their money,"       said Vlkan.
+
+\t (20a) ...a paní Moutelíková ekla v krám Irenin matce, ze jsme dobrá rodina a                aby     si      m      Irena drzela, protoze jsem   takový vázný a rozumný, (b)   a ZDEKA1 nebral nikdo vázn,                 ponvadz ten1 byl bhvíkdo... 
+\m (20a) ...a paní Moutelíková ekla v krám Irenin matce, ze jsme dobrá rodina a                aby     si      m      Irena drzela, protoze jsem   takový vázný a rozumný, (b)   a ZDEKA1 nebral nikdo vázn,                 ponvadz ten1 byl bhvíkdo... 
+\g          and Mrs.Moutelíková said in shop Irena's mother that are.1pl good family and       so-that refl-cl me.acc Irena held because aux.1sg such serious and good           and Zdenek.acc neg-take no-one seriously because that was god-only-knows
+\l ...and Mrs. Moutelikova said to Irena's mother in the store that we are a good family and Irena should hold on to me because I am serious and good and Zdenk1 no one ever took seriously because that1 is a`God-only knows'...
+
+\t V sobotu    sel Petr1 do krámu.
+\m V sobotu    sel Petr1 do krámu.
+\g in Saturday went Petr to store
+\l On Saturday Petr1 went to the store.
+
+\t Po    cest potkal Janu2.
+\m Po    cest potkal Janu2.
+\g along way met     Jana.acc
+\l Along the way he1 met Jana2.
+
+\t ekla2 mu1         o    svém novém dátku.
+\m ekla2 mu1         o    svém novém dátku.
+\g told.fem him.dat about self's new child
+\l She2 told him1 about her new child.
+
+\t Ta2      uz      musela odejít.
+\m Ta2      uz      musela odejít.
+\g  that.fem already must.fem leave.inf
+\l She2 had to leave.
+
+\t Ten1      uz       musel    odejít.
+\m Ten1      uz       musel    odejít.
+\g  that.masc already must.masc leave.inf
+\l He1 had to leave.
+
+\t Tûch     pût hezkch                dívek     upeklo    dort.
+\m Tûch     pût hezkch                dívek     upeklo    dort.
+\g theseGEN five beautiful      GEN   girls GEN bakedN.SG cake
+\l These five beautiful girls baked a cake.
+
+\t Petr,      ten      si     koupil chleba v krámu.1
+\m Petr,      ten      si     koupil chleba v krámu.1
+\g Petr.nom that.nom refl-cl bought bread in store
+\l Petr, he bought bread at the store.
+
+\t Modrou taskuCT, tu         si      koupila HanaF, ale zlutouCT, tu              si      koupila JanaF.
+\m Modrou taskuCT, tu         si      koupila HanaF, ale zlutouCT, tu              si      koupila JanaF.
+\g blue      bag.acc that.acc refl-cl bought Hana but yellow.acc that.acc          refl-cl bought Jana   
+\l A blue bagCT, HanaF bought one and a yellow oneCT, JanaF bought one.
+
+\t     zámecníka..." ,,Jo, zámecníka snad.
+\m     zámecníka..." ,,Jo, zámecníka snad.
+\g     on Canada so well over year waits they there have good social
+\l "Forget about going to Canada. They won't take an unmarried person there...OK, Maybe a family with children."---"To be sure, they took that locksmith..." "Yeah, a locksmith. But an unmarried intellectual , they wouldn't take one... And also for Canada you have to wait longer than a year. They have good social programs..."
+
+\t     bude       volnej jako pták..."
+\m     bude       volnej jako pták..."
+\g     would-be free like bird
+\l "Jonatán...shine our car, we aren't going to support you for free." And Sebestová whispered behind the fence to Mach, "hey, it's horrible how they are making him a slave, poor thing, a nice life had been awaiting him."..."It would be better for us to make him a sparrow or a chickadee, at least then he would be as free as a bird..."
+
+\t         sberatel... Nosí velký brejle a má hluboký hlas..."
+\m         sberatel... Nosí velký brejle a má hluboký hlas..."
+\g         antiquarian wears large glasses and has deep voice
+\l And all of a sudden Mrs. Sternova called, "Mr. Kopyto!"...Otto was sit- ting and stayed quiet. He was thinking, what a strange name and who is that. "Mr. Kopyto, you don't know him. He is an old acquaintance from Backra," said grandma. " He is some sort of scholar; he translates Ge r- man...Germanist and antiquarian...He wears large glasses and has a deep voice..."
+
+\t b . Sestfie     se tam       pracuje vbornû.
+\m b . Sestfie     se tam       pracuje vbornû.
+\g     sister.dat refl there work.3sg excellently
+\l (My) sister is working excellently there.
+
+\t a . Matematika se             mi         studuje         lehce.
+\m a . Matematika se             mi         studuje         lehce.
+\g     math.nom          refl me.dat study.3sg easily
+\l Math studies easily for me.
+
+\t a . Pfiedstavila      jsem       mu          tû         vãera.
+\m a . Pfiedstavila      jsem       mu          tû         vãera.
+\g     introduced        aux.1sg him.dat you.acc            yesterday
+\l I introduced you to him yesterday.
+
+\t (39)Pfiedstavila                 jsem      se          mu         vãera.
+\m (39)Pfiedstavila                 jsem      se          mu         vãera.
+\g          introduced              aux.1sg self.acc him.dat yesterday
+\l I introduced myself to him yesterday.
+
+\t ·to          je          ko          kome              dao?
+\m ·to          je          ko          kome              dao?
+\g  what        aux.3sg      who whom gave
+\l What did who give to whom?
+
+\t [NPUcebnice organické chemie] mu spadla na hlavu.
+\m [NPUcebnice organické chemie] mu spadla na hlavu.
+\g texbook of-organic chemistry to-him fell on head
+\l The textbook of organic chemistry fell on his head.
+
+\t Kdo ho kde vidl je nejasné.
+\m Kdo ho kde vidl je nejasné.
+\g       who him where saw is unclear
+\l Who saw him where is unclear?
+
+\t Kde si myslís, ze budeme spát?
+\m Kde si myslís, ze budeme spát?
+\g where REFL think-2.SG.that will-1.PL.sleep
+\l Where do you think that we will sleep?
+
+\t Kde si myslís, ze budeme spát?
+\m Kde si myslís, ze budeme spát?
+\g where REFL think-2.SG.that will-1.PL.sleep
+\l Where do you think that we will sleep?
+
+\t (36)   a. (*) Kdo se t ptal co dlá?
+\m (36)   a. (*) Kdo se t ptal co dlá?
+\g who have-3.PL.you asked what does
+\l Who did they ask you what (he) does?
+
+\t To je ten, kdo jsem ti ekl, co dlá.
+\m To je ten, kdo jsem ti ekl, co dlá.
+\g             that is the one who have-1.SG.you told what does
+\l That is the person who I have told you what (he) does.
+
+\t Kdo kdy koho pozval, nevím.
+\m Kdo kdy koho pozval, nevím.
+\g who when whom invited not know-1.SG.
+\l Who invited who when, I don't know.
+
+\t Jovan je kupio sta.
+\m Jovan je kupio sta.
+\g    Jovan is bought what
+\l ,Jovan bought what?`
+
+\t [NP Ucebnice organické chemie] mu spadla na hlavu.
+\m [NP Ucebnice organické chemie] mu spadla na hlavu.
+\g  texbook of-organic chemistry to-him fell on head
+\l The textbook of organic chemistry fell on his head.
+
+\t Kdo ho kde videl je nejasné.
+\m Kdo ho kde videl je nejasné.
+\g  who him where saw is unclear
+\l Who saw him where is unclear?
+
+\t Kde si myslís, ze budeme spát?
+\m Kde si myslís, ze budeme spát?
+\g  where refl.think-2.SG. that will-1.PL.sleep
+\l Where do you think that we will sleep?
+
+\t znacná         odolnost tohoto          materiálu        vuci         korozi
+\m znacná         odolnost tohoto          materiálu        vuci         korozi
+\g significant    resistance this GEN      materialGEN      vis-a-vis   corrosion
+\l the considerable resistance of this material to corrosion
+
+\t Milan moc nejedl
+\m Milan moc nejedl
+\g Milan much neg.ate
+\l Milan hasn't eaten much
+
+\t Milan nevidím nikoho
+\m Milan nevidím nikoho
+\g Milan neg sees n-body.ACC
+\l Milan doesn't see anybody
+
+\t Nikdo nedá nikomu nic
+\m Nikdo nedá nikomu nic
+\g N-body.NOM neg gives n-body.ACC n-thing.DAT
+\l Nobody gives anything to anybody
+
+\t Milan nikomu nevolá.
+\m Milan nikomu nevolá.
+\g Milan n-body neg-call
+\l Milan doesn't call anybody
+
+\t Nevolá nikdo.
+\m Nevolá nikdo.
+\g Neg-calls n-body
+\l Nobody is calling
+
+\t Nikdo nevolá.
+\m Nikdo nevolá.
+\g N-body neg-calls
+\l Nobody is calling
+
+\t a    *Milan ne iká, ze vidí nikoho
+\m a    *Milan ne iká, ze vidí nikoho
+\g      Milan neg-says that see.3SG.PERF n-body
+\l Milan doesn't say that he has seen anybody
+
+\t (7)
+\m (7)
+\g            Milan neg-call
+\l Milan doesn't call
+
+\t Milan nikomu nevolá
+\m Milan nikomu nevolá
+\g Milan n-body neg-call
+\l Milan doesn't call anybody
+
+\t Dnes nikdo nevolá.
+\m Dnes nikdo nevolá.
+\g Today n-body neg-calls
+\l Today nobody is calling
+
+\t Bez nikoho
+\m Bez nikoho
+\g Without n-body
+\l Without anybody
+
+\t Pracuj!
+\m Pracuj!
+\g Work.IMP
+\l Work!
+
+\t Nepracuj!
+\m Nepracuj!
+\g Neg.work.IMP
+\l Don't work!
+
+\t Kazdý nemá takové st stí
+\m Kazdý nemá takové st stí
+\g Everybody neg.has such luck
+\l Not everybody is so lucky
+
+\t Milan moc nejedl
+\m Milan moc nejedl
+\g Milan much neg.eat.perf.
+\l Milan hasn't eaten much
+
+\t Ani nohu jsem (tam) nevidel.
+\m Ani nohu jsem (tam) nevidel.
+\g Neg-even a-leg-ACC.SG I-am (there) neg-seen
+\l I haven't been seeing anyone
+
+\t Petnik by za to nebyl dan
+\m Petnik by za to nebyl dan
+\g A.nickel would for it neg.be given
+\l A single cent wouldn't be paid for it
+
+\t Petnik by za to nedal
+\m Petnik by za to nedal
+\g A.nickel.NPI would for it neg.pay.3SG
+\l He wouldn't pay a single cent for it
+
+\t Nikdo nevolá
+\m Nikdo nevolá
+\g N-body neg.calls
+\l Nobody is calling
+
+\t Nikdo volá
+\m Nikdo volá
+\g  N-body calls
+\l Nobody is calling
+
+\t Milan moc nejedl
+\m Milan moc nejedl
+\g Milan much neg.eat.PERF.
+\l Milan hasn't eaten much
+
+\t Ani nohu jsem (tam) nevidel.
+\m Ani nohu jsem (tam) nevidel.
+\g Neg-even a-leg-ACC.SG I-am (there) neg-seen
+\l I haven't been seeing anyone
+
+\t Milan nevidi
+\m Milan nevidi
+\g Milan neg.sees
+\l Milan doesn't see
+
+\t Milan nevidi nikoho
+\m Milan nevidi nikoho
+\g Milan neg.sees n-body
+\l Milan doesn't see anybody
+
+\t Nevolá nikdo.
+\m Nevolá nikdo.
+\g Neg-calls n-body
+\l Nobody is calling
+
+\t Nikdo nevolá.
+\m Nikdo nevolá.
+\g N-body neg-calls
+\l Nobody is calling
+
+\t Ani nohu jsem (tam) nevidel.
+\m Ani nohu jsem (tam) nevidel.
+\g Neg-even a-leg-ACC.SG I-am (there) neg-seen
+\l I haven't been seeing anyone
+
+\t Jakou cte Petr knihu?
+\m Jakou cte Petr knihu?
+\g which reads Peter book
+\l Which book does Peter read?
+
+\t Jakou cte Petr knihu?
+\m Jakou cte Petr knihu?
+\g which reads Peter book
+\l Which book does Peter read?
+
+\t           zajisována                        na úkor         svobody.
+\m           zajisována                        na úkor         svobody.
+\g           guarantee.PFV.PART.PASS.SG at expense.ACC.SG freedom.GEN.SG
+\l The security in Europe may not be guaranteed at the expense of freedom.
+
+\t Chce        mluvit s      tou z&enou, která napsala ne&jakou hru,             ale        nemohu         si      vzpomenout, {kterou       / *ktera}. 
+\m Chce        mluvit s      tou z&enou, která napsala ne&jakou hru,             ale        nemohu         si      vzpomenout, {kterou       / *ktera}. 
+\g wants.3sg to.talk with the woman who wrote some.ACC play.ACC but                         NEG.can.1sg REFL recall                which.ACC / which.NOM
+\l He wants to talk to the woman who wrote some play, but I can't remember which.
+
+\t {Kterou        hru       / ktera        hra     } chce        mluvit s       tou        z&enou, která napsala (tu) ?   
+\m {Kterou        hru       / ktera        hra     } chce        mluvit s       tou        z&enou, která napsala (tu) ?   
+\g     which.ACC play.ACC / which.NOM play.NOM wants.3sg talk            with the          woman who wrote          it.ACC
+\l Which play does he want to talk to the woman who wrote it?
+
+\t Kdo koho vidl
+\m Kdo koho vidl
+\g who whom saw
+\l who saw whom
+
+\t Kdo ho kde vidl je nejasné
+\m Kdo ho kde vidl je nejasné
+\g who himCL where saw is unclear
+\l it is unclear who saw him where
+
+\t Kdo, podle tebe, co komu dal
+\m Kdo, podle tebe, co komu dal
+\g who according to you what to whom gave
+\l who, according to you, gave what to whom
+
+\t Kdo rychle co komu dal
+\m Kdo rychle co komu dal
+\g who quickly what to whom gave
+\l who quickly gave what to whom
+
+\t Koho kdo vidl
+\m Koho kdo vidl
+\g whom who saw
+\l who saw whom
+
+\t Co kupuje Ivan
+\m Co kupuje Ivan
+\g what buys John
+\l What does John buy
+
+\t V...era Jan koupil knihu
+\m V...era Jan koupil knihu
+\g Yesterday John has-bought book
+\l John has bought a book yesterday
+
+\t Co, podle tebe, komu Petr Íekl [ze Jan dal]
+\m Co, podle tebe, komu Petr Íekl [ze Jan dal]
+\g what, according to you, who Peter said that John gave
+\l What, according to you, did Peter say that John gave to whom
+
+\t Vy,        který      jste      vcera        chybl,                nebudete          dnes        hodnocen.               
+\m Vy,        který      jste      vcera        chybl,                nebudete          dnes        hodnocen.               
+\g you-PL who-SG AUX-2.PL yesterday absent-l.pple-SG                 won't be-2.PL    today         classified-pass.pple-SG.
+\l You, who were absent yesterday, won't be classified today.
+
+\t Te jste      to vy,    kdo uklouzl.
+\m Te jste      to vy,    kdo uklouzl.
+\g now are-2.PL it you-PL who slipped-3.SG
+\l Now it's you who has slipped.
+
+\t Mzete to být práv vy,          který        se     stane tím kamínkem na       vahách.
+\m Mzete to být práv vy,          který        se     stane tím kamínkem na       vahách.
+\g can-2.PL it be just you-PL, which-SG PART becomes-3.SG that pebble on          scales 
+\l It might be you who's going to topple the balance.
+
+\t kikloun        z    trzist,     jakých je v Judsku bezpocet
+\m kikloun        z    trzist,     jakých je v Judsku bezpocet
+\g loudmouth-SG from marketplace, which-PL is in Judea countless
+\l a loudmouth from the marketplace, who are countless in Judea
+
+\t knízata            pisla
+\m knízata            pisla
+\g princes-PL.NEUT arrived-PL.NEUT
+\l the princes have arrived
+
+\t knízata             pisli
+\m knízata             pisli
+\g princes-PL.NEUT arrived-PL.MASC
+\l the princes have arrived
+
+\t    ceská           knízata         pisliPL.MASC
+\m    ceská           knízata         pisli-PL.MASC
+\g -PL.NEUT princes-PL.NEUT arrived-PL.MASC
+\l the Czech princes have arrived
+
+\t jeho velevázená    Výsost         pisla
+\m jeho velevázená    Výsost         pisla
+\g his esteemed-FEM highness-FEM arrived-FEM
+\l His Most Esteemed Highness has arrived
+
+\t jeho velevázená    Výsost          pisel
+\m jeho velevázená    Výsost          pisel
+\g   his esteemed-FEM highness-FEM arrived-MASC
+\l His Most Esteemed Highness has arrived
+
+\t My, král ceský, jsme velice zarmoucen a celá zem s                 námi.
+\m My, král ceský, jsme velice zarmoucen a celá zem s                 námi.
+\g we king Czech are-PL very sad-SG          and whole country with us-PL
+\l We, the King of Bohemia, are in deep sorrow, and the whole country with us.
+
+\t Chceme se zabývat            novými fakty, zstávajíce vrni            osvdceným       metodám.
+\m Chceme se zabývat            novými fakty, zstávajíce vrni            osvdceným       metodám.
+\g want-1.PL PCLE deal with-INF new        facts, staying-PL loyal to-PL proven          methods.
+\l We want to deal with new facts, staying loyal to proven methods.
+
+\t Jsou tak hodný, pane uciteli, a pijdou      mezi    nás.
+\m Jsou tak hodný, pane uciteli, a pijdou      mezi    nás.
+\g be-3.PL so kind-SG Mr.teacher and come-3.PL between us
+\l Be so kind, Teacher, please join us.
+
+\t Tak to dlali uz       nás staícek.
+\m Tak to dlali uz       nás staícek.
+\g so it did-PL already our granddad-SG
+\l This is the way our granddad used to do it already.
+
+\t Spíte       dobe?
+\m Spíte       dobe?
+\g sleep­2.PL well
+\l Do you sleep well?
+
+\t V¢era       sme       sli s          Jirkou do kina.
+\m V¢era       sme       sli s          Jirkou do kina.
+\g yesterday aux.1pl went `with' J.instr to cinema.gen
+\l Yesterday Jirka and I went to the cinema.
+
+\t Kdy maminka                         i   i     i
+\m Kdy maminka                         i   i     i
+\g turn-on-light-PERF
+\l When mom entered the room, daddy turned on the light.
+
+\t Kdy maminka                             i   i     i
+\m Kdy maminka                             i   i     i
+\g turn-on-light-IMPERF
+\l When mom was entering the room, daddy was turning on the light.
+
+\t Kdy maminka                            i   i     i
+\m Kdy maminka                            i   i     i
+\g turn-on-light-PERF
+\l When mom was entering the room, daddy turned on the light.
+
+\t Ne maminka vstoupila                 i   i     i
+\m Ne maminka vstoupila                 i   i     i
+\g turned-on-light-PERF.
+\l Before mom entered the room, daddy turned on the light.
+
+\t Elijah pinesl [ Katce    ]Addr . koku.
+\m Elijah pinesl [ Katce    ]Addr . koku.
+\g Elijah brought Kathy-DAT         kitten-ACC
+\l Elijah brought Kathy a kitten.
+
+\t Christopher [ koce     ]Addr . nerozum´i      .
+\m Christopher [ koce     ]Addr . nerozum´i      .
+\g Christopher kitten-ACC         not-understand
+\l Christopher does not understand the kitten.
+
+\t Honza     koblihu   snedl .
+\m Honza     koblihu   snedl .
+\g Honza-NOM donut-ACC ate
+\l Honza ate the donut.
+
+\t Honza     koblihu   snedl.
+\m Honza     koblihu   snedl.
+\g Honza-NOM donut-ACC ate
+\l Honza ate the donut.
+
+\t Honza     koblihu   snedl .
+\m Honza     koblihu   snedl .
+\g Honza-NOM donut-ACC ate
+\l Honza ate the donut.
+
+\t Honza     koblihu   snedl.
+\m Honza     koblihu   snedl.
+\g Honza-NOM donut-ACC ate
+\l Honza ate the donut.
+
+\t Elijah    koupil        knihu.
+\m Elijah    koupil        knihu.
+\g Elijah-CB bought-NB book-NB.
+\l Elijah bought a B O O K.
+
+\t Muz               v parku D´V K U.
+\m Muz               v parku D´V K U.
+\g man-nom meet-Past in park girl-acc
+\l The man met a girl in a park.
+
+\t Muz     d´
+\m Muz     d´
+\g man-nom girl-acc meet-Past in park
+\l The man met a girl in a park.
+
+\t V za'dech me bolí.
+\m V za'dech me bolí.
+\g in back:LOC I:ACC hurt:3SG
+\l My back HURTS
+
+\t Bolí     me v za'dech.
+\m Bolí     me v za'dech.
+\g hurt:3SG I:ACC in back:LOC
+\l My BACK hurts
+
+\t po   desti vsichni     c h o d í p o le s e
+\m po   desti vsichni     c h o d í p o le s e
+\g searching mushrooms
+\l after a rain everyone walks around the forest and looks for mushrooms
+
+\t Za ervenala se az       po u s i
+\m Za ervenala se az       po u s i
+\g blush        sh e       PO ears.ACC
+\l she blushed up to her ears
+
+\t Po    desti vsichni       c h o d í p o le s e
+\m Po    desti vsichni       c h o d í p o le s e
+\g after rain everybody walk PO forest.LOC
+\l after a rain everyone walks around the forest and looks for mushrooms
+
+\t N kdy      polívku p esolí.
+\m N kdy      polívku p esolí.
+\g Sometimes soup oversalts-PFV.
+\l She sometimes oversalts thesoup'.
+
+\t Vzdycky picházel / pisel          pozd.
+\m Vzdycky picházel / pisel          pozd.
+\g Always came-IPFV / came-P    FV   late.
+\l He always camelate'.
+
+\t Milan nevolá.
+\m Milan nevolá.
+\g Milan SN-call
+\l Milan doesn't call.
+
+\t Oni ti        se       mi      ani       neomluvil.
+\m Oni ti        se       mi      ani       neomluvil.
+\g he you.dat refl.acc me.dat neg-even ap ologized
+\l (I'm telling you), he didn't even ap ologize to me.
+
+\t Tak som        ti      mu         pomohol.
+\m Tak som        ti      mu         pomohol.
+\g so aux.1sg you.dat him.dat help ed
+\l So, listen / would you b elieve it, I help ed him.
+
+\t Milan *(ne)vidi nikoho
+\m Milan *(ne-)vidi nikoho
+\g Milan NEG.saw n-body
+\l Milan didn't see anybody
+
+\t Dnes *(ne)volá nikdo
+\m Dnes *(ne-)volá nikdo
+\g Today NEG.calls n-body
+\l Today nobody calls
+
+\t Dnes nikdo *(ne)volá
+\m Dnes nikdo *(ne-)volá
+\g Today n-body NEG.calls
+\l Today nobody calls
+

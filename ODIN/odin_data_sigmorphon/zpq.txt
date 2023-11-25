@@ -1,0 +1,35 @@
+\t  na       zee             to       bidao sh=naa=te=be                         dxa=le
+\m  na       zee             to       bidao sh=naa=te=be                         dxa=le
+\g and      stat.stand       one      child hab-look=emph=3inf                   north=dir
+\l ...and a boy is standing there facing uphill.
+
+\t sena=te=be                        norte=le
+\m se-na=te=be                        norte=le
+\g hab.pl-look=emph=3inf              north=dir
+\l They're facing north.
+
+\t shna=te=be                        ni=le
+\m sh-na=te=be                        ni=le
+\g hab-look=emph=3inf                 demprox=dir
+\l He's facing this way.
+
+\t na=le
+\m na=le
+\g demdist=dir
+\l That way
+
+\t  sena=te=be              yaa               bdoaha            zxile=le
+\m  se-na=te=be              yaa               bdoaha            zxile=le
+\g hab.pl-look=emph=3inf mountain              waterfall         purring=dir
+\l They're facing Yaa Bdoaha Zxile.
+
+\t na       sena=te=be                        yoo      dao=le
+\m na       se-na=te=be                        yoo      dao=le
+\g and      hab.pl-look=emph=3inf              house sacred=dir
+\l They're facing the church.
+
+\t se=na=be                           dxioo=le
+\m se=na=be                           dxioo=le
+\g hab.pl-look=emph=3inf              patio=le
+\l They're facing the patio.
+

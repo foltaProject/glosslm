@@ -1,0 +1,30 @@
+\t sanene      timon'p
+\m sanene      ti-mon-'p
+\g man         1sg:IIA see-PAST
+\l I saw the man.
+
+\t tamonmia'zp         sanenepa
+\m ta-mon-mia-'zp         sanene-pa
+\g 1sg:I-see-PASS-PAST man-OBL
+\l 1 am seen by the man.
+
+\t tame'p
+\m ta-me'p
+\g 1sg-I go-PAST
+\l 1 went.
+
+\t (125)(sanene)       0mon'qn
+\m (125)(sanene)       0-mon-'qn
+\g       (man)      3SG:iiA see-PAST
+\l He (the man) saw him.
+
+\t 0monmia'y          sanenepa
+\m 0-mon-mia-'y          sanene-pa
+\g 3SG:I see-PASS-PAST man-OBL
+\l He was seen by the man.
+
+\t 0monmia' y
+\m 0-mon-mia-' y
+\g 3SG:I see-PASS-PAST
+\l He was seen.
+

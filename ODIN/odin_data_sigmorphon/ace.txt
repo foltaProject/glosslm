@@ -1,0 +1,355 @@
+\t Gopnyan       ka           geucoÎm          loÎn
+\m Gopnyan       ka           geu-coÎm          loÎn
+\g shep          IN           3-kiss            1p
+\l She kissed me
+
+\t LoÎn    ka     geucoÎm             leÂgopnyan
+\m LoÎn    ka     geu-coÎm             leÂ-gopnyan
+\g 1p      IN     3-kiss-shep
+\l I was kissed by her
+
+\t gopnyan         nalôntimbak'geuh.
+\m gopnyan         na-lôn-timbak'-geuh.
+\g him:ACC         DEC-1SG-shoot-3SG
+\l I shothim'.
+
+\t gopnyan         rhêt(geuh).
+\m gopnyan         rhêt(-geuh).
+\g him:ACC         fall(-3SG)
+\l Hefell'.
+
+\t gopnyan       kageujak               ukeude.
+\m gopnyan       ka-geu-jak               u-keude.
+\g he:NOM        INCH-3SG-go              to-town
+\l He went totown'.
+
+\t Gopnyan ka=geu= jak u=keude.
+\m Gopnyan ka=geu= jak u=keude.
+\g he           already 3.AGT go to market
+\l He went to market.
+
+\t Gopnyan sakêt=geuh.
+\m Gopnyan sakêt=geuh.
+\g he          sick 3.PAT
+\l He is sick.
+
+\t Ji=kap= keuh.
+\m Ji=kap= keuh.
+\g 3.AGT bite 2.PAT
+\l It'll bite you.
+
+\t Gopnyan ka=geu= jak u=keude.
+\m Gopnyan ka=geu= jak u=keude.
+\g he           already 3.AGT go to market
+\l He went to market.
+
+\t Gopnyan sakêt=geuh.
+\m Gopnyan sakêt=geuh.
+\g he          sick 3.PAT
+\l He is sick.
+
+\t Ji=kap= keuh.
+\m Ji=kap= keuh.
+\g 3.AGT bite 2.PAT
+\l It'll bite you.
+
+\t (Lôn) lôn=mat=geuh.
+\m (Lôn) lôn=mat=geuh.
+\g  1POL 1POL=hold=3
+\l I hold him/her.
+
+\t Geu=jak (gopnyan).
+\m Geu=jak (gopnyan).
+\g 3POL=go 3POL
+\l S/He goes.
+
+\t Lôn rhët (=lôn).
+\m Lôn rhët (=lôn).
+\g 1POL fall=1POL
+\l I fall.
+
+\t Lôn lôn=rhët.
+\m Lôn lôn=rhët.
+\g  1POL 1POL=fall
+\l I fall.
+
+\t Gopnyan ka       geu=côm lôn.
+\m Gopnyan ka       geu=côm lôn.
+\g 3POL      INCH 3POL=kiss 1POL
+\l She kissed me.
+
+\t Lôn ka        geu=côm lé        gopnyan.
+\m Lôn ka        geu=côm lé        gopnyan.
+\g 1POL INCH 3POL=kiss ERG 3POL
+\l She kissed me.
+
+\t Ara nyan di=pubeureusih.
+\m Ara nyan di=pubeureusih.
+\g ara that 3FAM=tidy.up
+\l They tidied up that ara tree.
+
+\t Asèe nyan i=kap=keuh.
+\m Asèe nyan i=kap=keuh.
+\g dog that 3FAM=bite=2POL
+\l That dog will bite you.
+
+\t Gopnyan teuntèe [geu=woe].
+\m Gopnyan teuntèe [geu=woe].
+\g 3POL       certain 3POL=return
+\l (S)he is certain to return
+
+\t Gopnyan teuntèe [meungang=geuh].
+\m Gopnyan teuntèe [meungang=geuh].
+\g 3POL       certain win=3POL
+\l (S)he is certain to win.
+
+\t Gopnyan teuntèe [geu=beuet hikayat prang sabi].
+\m Gopnyan teuntèe [geu=beuet hikayat prang sabi].
+\g 3POL       certain 3POL=recite epic        Prang Sabi
+\l He is certain to recite the Prang Sabi epic.
+
+\t Hikayat prang sabi teuntèe [geu=beuet].
+\m Hikayat prang sabi teuntèe [geu=beuet].
+\g epic      Prang Sabi certain 3POL=recite
+\l The epic Prang Sabi is certain to be recited (by him).
+
+\t Gopnyan geu=bloe moto nyan.
+\m Gopnyan geu=bloe moto nyan.
+\g 3POL       3POL=buy car that
+\l (S)he bought that car.
+
+\t Lôn=ngieng ureueng [nyang=bloe moto nyan].
+\m Lôn=ngieng ureueng [nyang=bloe moto nyan].
+\g 1POL=see        person REL=buy car that
+\l I saw the person who bought that car.
+
+\t Lôn=ngieng ureung [nyang=moto nyan (geu=) bloe].
+\m Lôn=ngieng ureung [nyang=moto nyan (geu=) bloe].
+\g  1POL=see        person REL=car that 3POL=buy
+\l I saw the person who bought that car.
+
+\t Lôn=ngieng moto [nyang=geu= bloe lé           ureueng nyan].
+\m Lôn=ngieng moto [nyang=geu= bloe lé           ureueng nyan].
+\g 1POL=see        car REL=3POL= buy ERG person that
+\l I saw the car that was bought by that person.
+
+\t Lôn=ngieng moto [nyang=ureueng nyan geu=bloe].
+\m Lôn=ngieng moto [nyang=ureueng nyan geu=bloe].
+\g  1POL=see        car REL=person that 3POL=buy
+\l I saw the car that was bought by that person.
+
+\t Geutém [(*geu)taguen bu].
+\m Geu-tém [(*geu-)taguen bu].
+\g 3A-want       (3A-) cook rice
+\l She wants to cook rice.
+
+\t Geuyue lôn [(*lôn)peugöt kuwéh].
+\m Geu-yue lôn [(*lôn-)peugöt kuwéh].
+\g 3A-order 1sgU (1sgA-)make cake
+\l (S)he ordered me to make a cake.
+
+\t (Gopnyan) geumat lôn
+\m (Gopnyan) geu-mat lôn
+\g 3sg        3-hold 1sg
+\l she holds me
+
+\t (Lôn) lônmat geuh
+\m (Lôn) lôn-mat geuh
+\g 1sg 1-hold 3sg
+\l I hold her/him
+
+\t Hikayat prang sabi teuntee geubeuet
+\m Hikayat prang sabi teuntee geu-beuet
+\g epic                certain 3-recite
+\l The epic is certain to be recited by him
+
+\t Gopnyan lônanggap na neubi peng baroe
+\m Gopnyan lôn-anggap na neu-bi peng baroe
+\g 3sg       1sg-consider BE-2-give money yesterday
+\l I consider him (that) you gave money to yesterday
+
+\t Ka lôntët     rumoh gopnyan.
+\m Ka lôn-tët     rumoh gopnyan.
+\g IN 1sgA-burn house 3sg
+\l I burned her house.
+
+\t aneuk muda         nyan
+\m aneuk muda         nyan
+\g child     young that
+\l that young child
+
+\t ureueng pula        padè         nyan
+\m ureueng pula        padè         nyan
+\g person      plant rice           that
+\l that person planting rice
+
+\t ji=kap=keuh
+\m ji=kap=keuh
+\g 3       bite 2
+\l It'll bite you!
+
+\t Neu=peusom nyan bek ji=teupeu          lê=gop.
+\m Neu=peusom nyan bek ji=teu-peu          lê=gop.
+\g 2=hide        that NEG 3=know-what by=other:person
+\l Hide that so no one else will know.
+
+\t Ureueng=nyan
+\m Ureueng=nyan
+\g person=that
+\l that person
+
+\t Nyan ji=purapura         teungeut jih.
+\m Nyan ji=pura-pura         teungeut jih.
+\g there 3=pretend-pretend sleep       he
+\l There he goes pretending to sleep.
+
+\t ureueng=nyan.
+\m ureueng=nyan.
+\g person=that
+\l that person.
+
+\t neu=peusom nyan bek ji=teupeu             lê=gop.
+\m neu=peusom nyan bek ji=teu-peu             lê=gop.
+\g 2=hide         that DONT 3=know-what by=other.person
+\l Hide that so that no one else will know.
+
+\t nyan ji=purapura           teungeut jih.
+\m nyan ji=pura-pura           teungeut jih.
+\g there 3=pretend-pretend sleep          he
+\l There he goes pretending to be asleep.
+
+\t ureueng=nyan.
+\m ureueng=nyan.
+\g person=that
+\l that person.
+
+\t neu=peusom nyan bek ji=teupeu             lê=gop.
+\m neu=peusom nyan bek ji=teu-peu             lê=gop.
+\g 2=hide         that DONT 3=know-what by=other.person
+\l Hide that so that no one else will know.
+
+\t nyan ji=purapura           teungeut jih.
+\m nyan ji=pura-pura           teungeut jih.
+\g there 3=pretend-pretend sleep          he
+\l There he goes pretending to be asleep.
+
+\t nyan      aneuk=long
+\m nyan      aneuk=long
+\g that      child=1SG
+\l That is my child
+
+\t Bak geuritan angèn na               lè    peue.
+\m Bak geuritan angèn na               lè    peue.
+\g  at vehicle wind           there.is many what/something
+\l A bicycle (lit. wind-vehicle) has many parts.
+
+\t (gopnyan)        ka    maté       (geuh)              (gopnyan)
+\m (gopnyan)        ka    maté       (-geuh)              (gopnyan)
+\g (3sg-polite)   PERF   die    (3sg-polite-UNDERGOER )   (3sg-polite)
+\l he/she (polite) died
+
+\t (gopnyan)       ka            geumaté (légopnyan)
+\m (gopnyan)       ka            geu-maté (lé-gopnyan)
+\g (3sg-polite)   PERF   3sg-polite-AGT    die (AGT-3sg-polite)
+\l he/she (familiar/polite/reverential) died [intentionally]
+
+\t kèë ka         kublòë buku nyan
+\m kèë ka         ku-blòë buku nyan
+\g 1sg   PERF   1sg-AGT   buy book that
+\l I(top) bought that book
+
+\t Gopnyan ka=geu= jak u=keude.
+\m Gopnyan ka=geu= jak u=keude.
+\g he          already 3         go to market
+\l He went to market.
+
+\t Gopnyan sakêt=geuh.
+\m Gopnyan sakêt=geuh.
+\g he          sick 3
+\l He is sick.
+
+\t Ji=kap= keuh.
+\m Ji=kap= keuh.
+\g 3 bite 2
+\l It'll bite you.
+
+\t aneuk muda         nyan
+\m aneuk muda         nyan
+\g child     young that
+\l that young child
+
+\t ureueng pula        padè         nyan
+\m ureueng pula        padè         nyan
+\g person      plant rice           that
+\l that person planting rice
+
+\t ji=kap=keuh
+\m ji=kap=keuh
+\g 3       bite 2
+\l It'll bite you!
+
+\t Gopnyan nalontimbakgeuh
+\m Gopnyan na-lon-timbak-geuh
+\g He be-1Erg-shoot-3Acc
+\l I shot him
+
+\t  loncroh      pisang
+\m  lon-croh      pisang
+\g 1Erg fry    banana
+\l I am frying banana
+
+\t gopnyan saketgeuh
+\m gopnyan saket-geuh
+\g He    sick-3Acc
+\l He is sick
+
+\t a. gopnyan hanainseuehgeuh keulôn
+\m a. gopnyan hana-inseueh-geuh keu-lôn
+\g  he       NEGBE feel compassion-3 DAT-I
+\l He has no sympathy towards me
+
+\t b. gopnyan hanageuinseueh keulôn
+\m b. gopnyan hana-geu-inseueh keu-lôn
+\g  he        NEGBE 3 feel compassion DAT-I
+\l He has no sympathy towards me
+
+\t b.* gopnyan geutém [ _                           rhët]
+\m b.* gopnyan geu-tém [ _                           rhët]
+\g      he   (NOM)i    3SG   i-want [   PRO   i   fall]
+\l He wants to fall.
+
+\t jijak    gopnyan
+\m ji-jak    gopnyan
+\g 3.A-go 3HON
+\l S/he goes.
+
+\t gopnyan geutém              jak.
+\m gopnyan geu-tém              jak.
+\g 3HON        3HON.A-want go
+\l S/he wants to go.
+
+\t geutém         taguen bu.
+\m geu-tém         taguen bu.
+\g 3HON.A-want cook           rice
+\l S/he wants to cook rice.
+
+\t gopnyan geutém             rhët.
+\m gopnyan geu-tém             rhët.
+\g  3HON       3HON.A-want fall
+\l S/he wants to fall.
+
+\t aneuk agam nyan           jitém geupeuréksa lé dokto.
+\m aneuk agam nyan           ji-tém geu-peuréksa lé dokto.
+\g child    male DEM          3-want 3A-examin e     ERG docto r
+\l That boy wants to be examined by the doctor.
+
+\t Gopnyan geutém jak/*geujak.
+\m Gopnyan geu-tém jak/*geu-jak.
+\g 3SG      3-want   go/*3-go
+\l He wants to go.
+
+\t Gopnyan geutém *hët/geuhët.
+\m Gopnyan geu-tém *hët/geu-hët.
+\g 3SG      3-want     *fall/3-fall
+\l He wants to fall.
+

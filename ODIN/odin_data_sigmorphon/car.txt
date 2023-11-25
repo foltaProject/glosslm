@@ -1,0 +1,50 @@
+\t pentiré    poko         man
+\m pentiré    poko         man
+\g paint      busy.with 3SG.COPULAR
+\l He is painting.'[GFC pentiré]
+
+\t pentiré   poko         man
+\m pentiré   poko         man
+\g paint      busy.with 3SG.COPULAR
+\l He is painting.'[GFC pentiré]
+
+\t (8 1) sikuupiya
+\m (8 1) si-kuupi-ya
+\g       1DIR-bathe-TNS
+\l 1 bathe him.
+
+\t mikuupiya
+\m mi-kuupi-ya
+\g 2DIR-bathe-TNS
+\l You bathe him.
+
+\t 0kuupiyaij
+\m 0-kuupi-ya-ij
+\g 1INV-bathe-TNS-EVID
+\l He bathes me.
+
+\t akuupiyaij
+\m a-kuupi-ya-ij
+\g 2INV-bathes-TNS-EViD
+\l He bathes you.
+
+\t kïkuupiya
+\m kï-kuupi-ya
+\g 112-bathe-TNS
+\l 1bathe you.
+
+\t tï'me           0kuupiyaIj
+\m t-ï'me           0-kuupi-ya-Ij
+\g 3-REFL-child 3-bathe-TNS-EViD
+\l He bathes his own child.
+
+\t kïniikuupiyaij
+\m kï-nii-kuupi-ya-ij
+\g   EVID-3DIR-bathe-TNS-EVlD
+\l He bathes km.
+
+\t am yaako               poore,        tïemu?m&ima                          i?wane maij 
+\m am yaako               poore,        tï-emu?m&i-ma                          i-?wa-ne maij 
+\g some then              '"w           ABS.NMLZR-fool-completely              3-DAT-PL 3.COP
+\l At last at some time he was fooled by them.
+

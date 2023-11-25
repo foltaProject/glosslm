@@ -1,0 +1,1990 @@
+\t 111a   Muli'    i     MARIS.
+\m 111a   M-uli'    i     MARIS.
+\g        npt.af-go.home Nm.F Maris.F
+\l Maris is going home.
+
+\t 111b   Mangkiwa'     i    ASRI   du     piasaw.
+\m 111b   Mang-kiwa'     i    ASRI   du     piasaw.
+\g        npt.af-climb.up Nm.F Asri.F nm.nfo coconut.tree.o
+\l Asri is climbing a coconut tree.
+
+\t Nuli'    i    MARIS.
+\m N-uli'    i    MARIS.
+\g pt.af-go.home Nm.F Maris.F
+\l Maris went home.
+
+\t Nangansak IYO noiyo du     lamud.
+\m Nang-ansak IYO noiyo du     lamud.
+\g pt.af-cook 3s.F com   nm.nfo cooked.rice.o
+\l She cooked rice.
+
+\t Namadangkat AKU du        bilod          dai'.
+\m Nama-dangkat AKU du        bilod          dai'.
+\g pt.af-transfer 1s.F nm.nfo unhusked.rice.o yesterday
+\l I moved the rice yesterday.
+
+\t Nokokolong noiyo DALAING dano.
+\m Noko-kolong noiyo DALAING dano.
+\g pt.af-sleep com    child.F those.fr
+\l Those children have already slept.
+
+\t Mangkiwa'     i    ASRI   du     piasaw         tio' Dangulad.
+\m Mang-kiwa'     i    ASRI   du     piasaw         tio' Dangulad.
+\g npt.af-climb.up Nm.F Asri.F nm.nfo coconut.tree.o loc Dangulad
+\l Asri is climbing coconut trees in Dangulad.
+
+\t 121b   Kiwain     AKU ni      Asri     du     piasaw         odow daitu.
+\m 121b   Kiwa-in     AKU ni      Asri     du     piasaw         odow daitu.
+\g        climb.up-npt.rf 1s.F Nm.nfa Asri.nfa nm.nfo coconut.tree.o day now
+\l Asri is climbing a coconut tree for me today.
+
+\t 121c   Na    kitutu AKU di       An    du     bilod           ino dai'.
+\m 121c   Na    ki-tutu AKU di       An    du     bilod           ino dai'.
+\g        pt.af.pet-pound 1s.F Nm.nfo Ann.o nm.nfo unhusked.rice.o the yesterday.
+\l I asked Ann to pound the rice yesterday.
+
+\t 121d   Nangkiwa'    JABULOW ino du      piasaw.
+\m 121d   Nang-kiwa'    JABULOW ino du      piasaw.
+\g        pt.af-climb.up monkey.F the nm.nfo coconut.tree.o
+\l The monkey climbed a coconut tree.
+
+\t 121e   Kiwain     AKU nu      jabulow    ino du     piasaw         ino.
+\m 121e   Kiwa-in     AKU nu      jabulow    ino du     piasaw         ino.
+\g        climb.up-npt.rf 1s.F nm.nfa monkey.nfa the nm.nfo coconut.tree.o the
+\l The monkey is climbing the coconut tree for me.
+
+\t Ma     pasaboy IRO daki' tio' dasawat.
+\m Ma     pa-saboy IRO daki' tio' dasawat.
+\g npt.af.ca-reach 3p.F 1s.nfo loc top
+\l They made me reach the top.
+
+\t ITAKAW noiyo mangkiwa'     du     piasaw         dano.
+\m ITAKAW noiyo mang-kiwa'     du     piasaw         dano.
+\g 1pe.EF com   npt.af-climb.up nm.nfo coconut.tree.o those.fr
+\l We ourselves will be the ones to climb those coconut trees.
+
+\t I     ASRI noiyo mangkiwa' du      piasaw.
+\m I     ASRI noiyo mang-kiwa' du      piasaw.
+\g Nm.EF Asri com   npt.af-climb nm.nfo coconut tree.o
+\l Asri will be the one to climb the coconut tree.
+
+\t JABULOW   ino noiyo mangkiwa' du       piasaw.
+\m JABULOW   ino noiyo mang-kiwa' du       piasaw.
+\g monkey.EF that com   npt.af-climb nm.nfo coconut.tree.o
+\l That monkey will be the one to climb the coconut tree.
+
+\t Tum    urabas           PIASAW    ino.   (turabas)
+\m T-um-    urabas           PIASAW    ino.   (turabas)
+\g ri-npt.af-float.downstream coconut.F the.fr (float downstream)
+\l The coconut is floating downstream.
+
+\t Putulo'    PINSIL   ino!
+\m Putul-o'    PINSIL   ino!
+\g break-at.gf pencil.F the.fr
+\l Break the pencil!
+
+\t Ansakin     AKU ni      An.
+\m Ansak-in     AKU ni      An.
+\g cook-npt.rf 1s.F Nm.nfa Ann.nfa
+\l Ann is cooking for me.
+
+\t Pangansakan takaw   SUSUAB.
+\m Pang-ansak-an takaw   SUSUAB.
+\g at-cook-tf 1pe.nfa tomorrow.F
+\l The time for us to cook is tomorrow.
+
+\t Manamaalan ku     du     baloy   kuy     TIO' PATIKANG.
+\m Man-amaal-an ku     du     baloy   kuy     TIO' PATIKANG.
+\g npt-build-lf 1s.nfa nm.nfo house.o 1s.pp.r loc Patikang.F
+\l The place I will build my house is there in Patikang.
+
+\t 131b   P:in:aibitan ni     Asri     BUK    mutu   daki'.
+\m 131b   P:-in-:a-ibit-an ni     Asri     BUK    mutu   daki'.
+\g        sa.pt.ca-carry-rf Nm.nfa Asri.nfa book.F 2s.pp.n 1s.nfo
+\l Asri asked me to bring your book.
+
+\t 131c   Papidiso'    PAIS    kutu    du    kalat.
+\m 131c   Pa-pidis-o'    PAIS    kutu    du    kalat.
+\g        ca-cut-at.if knife.F 1s.pp.n nm.nfo rope.o
+\l Use my knife here to cut the rope.
+
+\t Ma     patutu AKU diso     du     bagas.
+\m Ma     pa-tutu AKU diso     du     bagas.
+\g npt.af.ca-pound 1s.F 3s.nfo nm.nfo husked.rice.o
+\l I will get her to pound rice.
+
+\t Ma     tikolong IYO.
+\m Ma     ti-kolong IYO.
+\g npt.af.inv-sleep 3s.F
+\l He is nodding./He feels sleepy.
+
+\t Ma     kilabus   IYO daki'.
+\m Ma     ki-labus   IYO daki'.
+\g npt.af.pet-release 3s.F 1s.nfo
+\l He is asking me to release him.
+
+\t Kumudu duwas    TOMOW                 ino ngai'ngai' ngapuun!
+\m Kumu-du duwas    TOMOW                 ino ngai'ngai' ngapuun!
+\g at.af.dec-sr.pour.out green.rice.wine.jar.F the all        cl.large.round.objects
+\l Every single one of all the rice wine jars kept pouring out by themselves!
+
+\t Mang   intorodog AKU.
+\m Mang   in-torodog AKU.
+\g npt.af.des-stand.up 1s.F
+\l I will try to stand it up.
+
+\t Mang   ila laa' KOW daki'.
+\m Mang   i-la laa' KOW daki'.
+\g npt.af.del-sr.scare 2s.F 1s.nfo
+\l You are deliberately making me scared.
+
+\t Makapa nungkamang IYO.
+\m Makapa nung-kamang IYO.
+\g npt.af.ind-crawl 3s.F
+\l He can crawl by himself.
+
+\t Pa    muniawo    po!
+\m Pa    mun-iawo    po!
+\g at.af.ind-breathe ncom
+\l Breathe again!
+
+\t Ka kakito no    IYO.
+\m Ka ka-kito no    IYO.
+\g re.at.gf-see 3s.nfa 3s.F
+\l She just saw him.
+
+\t Nakasukal AKU iyak, ugad       IRO!
+\m Naka-sukal AKU iyak, ugad       IRO!
+\g after.pt.af-get.up 1s.F emph at.af.go 3p.F
+\l After I got up, as a matter of fact, they left!
+
+\t Mamadayang    IRO du     tin uug.
+\m Mamadayang    IRO du     t-in- uug.
+\g npt.af.spread 3p.F o.inf si-var-dry.in.sun
+\l They are spreading rice to dry it.
+
+\t Muoy AKU tio' du      kasarawan.
+\m M-uoy AKU tio' du      kasarawan.
+\g npt.af-go 1s.F loc nm.nfo jungle.o
+\l I'm going there to the jungle.
+
+\t Nuoy IYO tio' du    kaday.
+\m N-uoy IYO tio' du    kaday.
+\g pt.af-go 3s.F loc nm.nfo store.o
+\l He went to the store.
+
+\t Kuoy du     liwad!
+\m K-uoy du     liwad!
+\g at.af-go nm.nfo outside.o
+\l Go outside!
+
+\t Ka i    nuoy TAKAW pakato'    damuyun!
+\m Ka i    n-uoy TAKAW pa-kato'    damuyun!
+\g neg del.pt.af-go 1pe.F at.af-fight 2p.nfo
+\l None of us plotted to go and fight with you all!
+
+\t Nuli'    IYO dai'.
+\m N-uli'    IYO dai'.
+\g pt.af-go.home 3s.F yesterday
+\l He went home yesterday.
+
+\t 0Uli'!
+\m 0-Uli'!
+\g at.af-go.home
+\l Go home!
+
+\t 0Ondo' dukuwon anu ino, BUAYOI.
+\m 0-Ondo' dukuwon anu ino, BUAYOI.
+\g at.af-ext   dis     thingummy young.man.F
+\l Once there was, it is said, umm, a young man.
+
+\t Nugad IYO du      Koningaw.
+\m N-ugad IYO du      Koningaw.
+\g pt.af-go   3s.F nm.nfo Keningau.o
+\l He went to Keningau.
+
+\t 0Ugad IYO du      gino.
+\m 0-Ugad IYO du      gino.
+\g at.af-go   3s.F nm.nfo there.o
+\l He went there.
+
+\t Mimad     ULUN     ino daki'.
+\m M-imad     ULUN     ino daki'.
+\g npt.af-approach person.F that 1s.nfo
+\l That man is approaching me.
+
+\t Inimad     IYO daki' dai'.
+\m In-imad     IYO daki' dai'.
+\g pt.af-approach 3s.F 1s.nfo yesterday
+\l He approached me yesterday.
+
+\t 0Imad     KOW   diso   daitu!
+\m 0-Imad     KOW   diso   daitu!
+\g at.af-approach 2s.F 3s.nfo now
+\l You approach him now!
+
+\t 0Duli' daitu!
+\m 0-Duli' daitu!
+\g at.af-return now
+\l Return now!
+
+\t 0Torodog!
+\m 0-Torodog!
+\g at.af-stand.up
+\l Stand up!
+
+\t 0Tutu KAW!
+\m 0-Tutu KAW!
+\g at.af-pound 2p.F
+\l You all pound rice!
+
+\t 0Tutu!
+\m 0-Tutu!
+\g at.af-pound
+\l Pound!
+
+\t Molong IRO.
+\m M-olong IRO.
+\g npt.af-sleep 3p.F
+\l They are asleep.
+
+\t Molong AKU tio' du      pisuk.
+\m M-olong AKU tio' du      pisuk.
+\g npt.af-sleep 1s.F loc nm.nfo room.o
+\l I will sleep there in the room.
+
+\t Nolong AKU dai'.
+\m N-olong AKU dai'.
+\g pt.af-sleep 1s.F yesterday
+\l I slept yesterday.
+
+\t Kolong no!
+\m K-olong no!
+\g at.af-sleep com
+\l Sleep!
+
+\t Mangalap IYO du        dalaing ino.
+\m Mang-alap IYO du        dalaing ino.
+\g npt.af-take 3s.F nm.nfo child.o the.fr
+\l She is taking the child.
+
+\t Kai' KAW pangalap du      lias.
+\m Kai' KAW pang-alap du      lias.
+\g neg 2p.F at.af-take nm.nfo reed.o
+\l Don't you all take any reeds.
+
+\t Mangakan AKU.
+\m Mang-akan AKU.
+\g npt.af-eat 1s.F
+\l I am eating.
+
+\t Mangakan IRO du       lamud.
+\m Mang-akan IRO du       lamud.
+\g npt.af-eat 3p.F nm.nfo cooked.rice.o
+\l They are eating rice./They eat rice.
+
+\t Manginum AKU du        tapay.
+\m Mang-inum AKU du        tapay.
+\g npt.af-drink 1s.F nm.nfo rice wine.o
+\l I am drinking rice wine.
+
+\t ITO   noiyo mangansak.
+\m ITO   noiyo mang-ansak.
+\g 1d.EF com   npt.af-cook
+\l You and I will cook.
+
+\t Nangansak AKU noiyo du      lamud.
+\m Nang-ansak AKU noiyo du      lamud.
+\g pt.af-cook 1s.F com    nm.nfo cooked.rice.o
+\l I already cooked rice.
+
+\t Mongomot      AKAY du      bilod           susuab.
+\m Mong-omot      AKAY du      bilod           susuab.
+\g npt.af-stem.cut 1pi.F nm.nfo unhusked.rice.o tomorrow
+\l We will all harvest rice together tomorrow.
+
+\t Nongomot     AKAY du      bilod           dai'.
+\m Nong-omot     AKAY du      bilod           dai'.
+\g pt.af-stem.cut 1pi.F nm.nfo unhusked.rice.o yesterday
+\l We harvested rice yesterday all together.
+
+\t Mangambut IYO diso.
+\m Mang-ambut IYO diso.
+\g npg.af-lie   3s.F 3s.nfo
+\l He is slandering her.
+
+\t Mangibit i      ASNI.
+\m Mang-ibit i      ASNI.
+\g npt af-bring Nm.F Asni.F
+\l Asni will bring it.
+
+\t Mangagik    IYO.
+\m Mang-agik    IYO.
+\g npt.af-thresh 3s.F
+\l He is threshing.
+
+\t Mamalilit ULUN ino du        owoy.
+\m Mama-lilit ULUN ino du        owoy.
+\g npt.af-coil man.F that nm.nfo rattan.o
+\l That man is coiling up the rattan.
+
+\t Pamalamba' i    JON    di     Tuni.
+\m Pama-lamba' i    JON    di     Tuni.
+\g at.af-hit    Nm.F John.F Nm.nfo Tony.o
+\l John hit Tony.
+
+\t Mamalalak    IYO du      karatas ino.
+\m Mama-lalak    IYO du      karatas ino.
+\g npt.af-turning 3s.F nm.nfo papers.o the.fr
+\l She is going to turn the pages.
+
+\t Mamalamba' AKU daki' sondiri.
+\m Mama-lamba' AKU daki' sondiri.
+\g npt.af-hit    1s.F 1s.nfo myself
+\l I hit myself.
+
+\t Mamadayang IRO du      tinuug.
+\m Mama-dayang IRO du      tinuug.
+\g npt.af-spread 3p.F o.inf si.var.dry.in.sun
+\l They are spreading rice to dry it.
+
+\t Namadangkat AKU du        bilod          dai'.
+\m Nama-dangkat AKU du        bilod          dai'.
+\g pt.af-transfer 1s.F nm.nfo unhusked.rice.o yesterday
+\l I moved the rice yesterday.
+
+\t Mamajaga        AKU du      dalaing ino.
+\m Mama-jaga        AKU du      dalaing ino.
+\g npt.af-look.after 1s.F nm.nfo child the.fr
+\l I am looking after the child.
+
+\t Momokok      AKU susuab. (bokok)
+\m Mom-okok      AKU susuab. (bokok)
+\g npt.af-make.dike 1s.F tomorrow (dike)
+\l I will make dikes tomorrow.
+
+\t Magium    YAKA'      ku    du     dangandangan mu    dano.
+\m Mag-ium    YAKA'      ku    du     dangan-dangan mu    dano.
+\g npt.af-search brothers.F ls.pp nm.nfo friend.pl.o   2s.pp those.fr
+\l My brothers are looking for those friends of yours.
+
+\t Magium    i    JON    du     buk    nu.
+\m Mag-ium    i    JON    du     buk    nu.
+\g npt.af-search Nm.F John.F nm.nfo book.o 3s.pp
+\l John is looking for his book.
+
+\t Nagium     IYO daki'.
+\m Nag-ium     IYO daki'.
+\g pt.af-search 3s.F 1s.nfo
+\l He looked for me.
+
+\t Pagium     du     paku'.
+\m Pag-ium     du     paku'.
+\g at.af-search nm.nfo edible.fern.o
+\l Go look for fern.
+
+\t "Pagium    du     duandu' dondo poiyo," kono.
+\m "Pag-ium    du     duandu' dondo poiyo," kono.
+\g at.af-search nm.nfo girl.o ext    ncom    qt
+\l Look to see if there is still a girl,"he said.
+
+\t Magidu'     IRO.
+\m Mag-idu'     IRO.
+\g npt.af-run.away 3p.F
+\l They are running away.
+
+\t Magidu' AKU intod dugitu.
+\m Mag-idu' AKU intod dugitu.
+\g npt.af-leave 1s.F from here
+\l I am going away from here.
+
+\t 23i   Nagidu' i      LIAH   nuli'         du     baloy.
+\m 23i   Nag-idu' i      LIAH   nuli'         du     baloy.
+\g       pt.af-leave Nm.F Liah.F pt.af.go home nm.nfo house.o
+\l Liah ran home to her house.
+
+\t 23j   Nagidu'      i    SARIPAH   intod du    baloy.
+\m 23j   Nag-idu'      i    SARIPAH   intod du    baloy.
+\g       pt.af-run.away Nm.F Saripah.F from nm.nfo house.o
+\l Saripah ran away from home.
+
+\t 23k   Magawang DALAING ino du      urobon    ino.
+\m 23k   Mag-awang DALAING ino du      urobon    ino.
+\g       npt.af-block child.F that nm.nfo doorway.o that
+\l That child is blocking the doorway.
+
+\t 23l   Nagawang PULIS     ino    tio' du    alunalun.
+\m 23l   Nag-awang PULIS     ino    tio' du    alun-alun.
+\g       pt.af-block police.F the.fr loc nm.nfo roadway.o
+\l The police blocked the roadway there.
+
+\t 23m   Magulu IYO.
+\m 23m   Mag-ulu IYO.
+\g       npt.af-head 3s.F
+\l He will go ahead.
+
+\t 23n   ITO   magulu.
+\m 23n   ITO   mag-ulu.
+\g       1d.EF npt.af-head
+\l You and I will be the ones to lead.
+
+\t Pagulu AKU.
+\m Pag-ulu AKU.
+\g at.af-head 1s.F
+\l I will go first.
+
+\t Magusig ASU maino.
+\m Mag-usig ASU maino.
+\g npt.af-bark dog 1pi.pp.fr
+\l Our dog is barking away off there.
+
+\t Magintat          IYO.
+\m Mag-intat          IYO.
+\g npt.af-chew.betel.nut 3s.F
+\l He is chewing betel nut.
+
+\t Magambut IYO.
+\m Mag-ambut IYO.
+\g npt.af-lie   3s.F
+\l He is lying.
+
+\t Nagambut IYO dai'.
+\m Nag-ambut IYO dai'.
+\g pt.af-lie   3s.F yesterday
+\l He lied yesterday.
+
+\t Maginga'    ULUN     ino du      kalabaw         nano.
+\m Mag-inga'    ULUN     ino du      kalabaw         nano.
+\g npt.af-withhold person.F that nm.nfo water.buffalo.o 3s.pp.fr
+\l That man is withholding his buffalo.
+
+\t Maganak IYO daitu.
+\m Mag-anak IYO daitu.
+\g npt.af-child 3s.F now
+\l She is giving birth now.
+
+\t Naganak IYO du         dalaing kusoy.
+\m Nag-anak IYO du         dalaing kusoy.
+\g pt.af-child 3s.F nm.nfo child.o male
+\l She gave birth to a boy.
+
+\t Maguab AKU.
+\m Mag-uab AKU.
+\g npt.af-yawn 1s.F
+\l I am yawning.
+
+\t Paguab AKU paat AKU nambasa        buk ino.
+\m Pag-uab AKU paat AKU nambasa        buk ino.
+\g at.af-yawn 1s.F when 1s.F pt.af.read book that
+\l I yawned when I read that book.
+
+\t Mansu sunu'   IRO.
+\m Man-su sunu'   IRO.
+\g npt.af-sr.line.up 3p.F
+\l They are continuing to line up.
+
+\t Nangkiwa'    JABULOW ino du    baloy.
+\m Nang-kiwa'    JABULOW ino du    baloy.
+\g pt.af-climb.up monkey the nm.nfo house.o
+\l The monkey climbed up a house.
+
+\t Kura'    pantaran KAW du       kalabaw       ngai'ngai' ngainan?
+\m Kura'    pan-taran KAW du       kalabaw       ngai'ngai' ngainan?
+\g how.much at.af-sell 2P.F nm.nfo water.buffalo all         cl.animal
+\l How much will you all sell each one of the water buffaloes for?
+
+\t Mandilit DIPO    ino    du     tataun ino.
+\m Man-dilit DIPO    ino    du     tataun ino.
+\g npt.af-coil snake.F the.fr nm.nfo tree.o the.fr
+\l The snake is coiling around the tree.
+
+\t Mansail    AKU po.
+\m Man-sail    AKU po.
+\g npt.af-pass.by 1s.F ncom
+\l I will just pass by./Excuse me!
+
+\t Nantamung        IYO du      dalaing.
+\m Nan-tamung        IYO du      dalaing.
+\g pt.af-take.care.of 3s.F nm.nfo child.o
+\l She took care of a child.
+
+\t Mangkatu' AKU du       bunga.
+\m Mang-katu' AKU du       bunga.
+\g npt.af-pick 1s.F nm.nfo flower.o
+\l I am picking flowers./I am picking a flower.
+
+\t Mangkidaw    IYO daitu.
+\m Mang-kidaw    IYO daitu.
+\g npt.af-step.on 3s.F now
+\l He is stepping on it now.
+
+\t Mandalom LIAGO  ino.
+\m Man-dalom LIAGO  ino.
+\g npt.af-deep river.F the.fr
+\l The river is deep.
+
+\t Mansikit APUY   nano.
+\m Man-sikit APUY   nano.
+\g npt.af-glow fire.F 3s.pp.fr
+\l His fire is glowing away off there.
+
+\t Mandilit DIPO    dano.
+\m Man-dilit DIPO    dano.
+\g npt.af-coil snake.F those.fr
+\l Those snakes are coiling around themselves.
+
+\t Mampising IRO.
+\m Mam-pising IRO.
+\g npt.af-cut    3p.F
+\l They are cutting each other.
+
+\t Mombobog IRO.
+\m Mom-bobog IRO.
+\g npt.af-hit   3p.F
+\l They are hitting each other.
+
+\t Montobok IRO.
+\m Mon-tobok IRO.
+\g npt.af-stab 3p.F
+\l They are stabbing each other.
+
+\t Mamputul IRO du      tataun ino.
+\m Mam-putul IRO du      tataun ino.
+\g npt.af-break 3p.F nm.nfo stick.o the.fr
+\l They are breaking the sticks to share with each other.
+
+\t Manjaga       IRO.
+\m Man-jaga       IRO.
+\g npt.af-look.after 3p.F
+\l They are looking after each other
+
+\t Mambabak IRO du      piring niro.
+\m Mam-babak IRO du      piring niro.
+\g npt.af-break 3p.F nm.nfo plate.o 3p.pp
+\l They are breaking their plates.
+
+\t Mambunduk    IRO du      pairang niro dano.
+\m Mam-bunduk    IRO du      pairang niro dano.
+\g npt.af-unsheathe 3p.F nm.nfo sword.o 3p.po those.fr
+\l They are all unsheathing those swords of theirs over there.
+
+\t Montopong             IRO.
+\m Mon-topong             IRO.
+\g npt.af-lengthwise.measure 3p.F
+\l They are the same height.
+
+\t Nombolow IYO paat IYO inanak.
+\m Nom-bolow IYO paat IYO in-anak.
+\g pt.af-blind 3s.F when 3s.F pt.af.child
+\l He was blind when he was born.
+
+\t Kai' ilai'      ODOW ino,    mombolow KOW.
+\m Kai' ilai'      ODOW ino,    mom-bolow KOW.
+\g neg look.at.rf sun.F the.fr npt.af-blind 2s.F
+\l Don't look at the sun, you will become blind.
+
+\t Nombongol IYO paat IYO inanak.
+\m Nom-bongol IYO paat IYO inanak.
+\g pt.af-deaf   3s.F when 3s.F pt.af.born
+\l He was deaf when he was born.
+
+\t Makasaboy IYO daitu.
+\m Maka-saboy IYO daitu.
+\g npt.af-arrive 3s.F now.
+\l He is arriving now.
+
+\t Makasaboy AKU du        dasawat ino.
+\m Maka-saboy AKU du        dasawat ino.
+\g npt.af-arrive 1s.F nm.nfo top.o   the.fr
+\l I am able to reach the top there.
+
+\t Makaakan AKU du      lamud         daitu.
+\m Maka-akan AKU du      lamud         daitu.
+\g npt.af-eat 1s.F nm.nfo cooked.rice.o now
+\l I can eat rice now.
+
+\t Ka makaimad       IYO diun.
+\m Ka maka-imad       IYO diun.
+\g neg npt.af-approach 3s.F 2s.nfo
+\l He cannot come near you.
+
+\t Nakasuang AKU du      luang mandalom.
+\m Naka-suang AKU du      luang mandalom.
+\g pt.af-enter 1s.F nm.nfo hole.o der.deep
+\l I got into a deep hole.
+
+\t Makatutu AKU du        bilod           ino    daitu.
+\m Maka-tutu AKU du        bilod           ino    daitu.
+\g npt.af-pound 1s.F nm.nfo unhusked.rice.o the.fr now
+\l I am able to pound the rice now.
+
+\t Kai' onggoyo'   tataun ino, makalamba' KOW du       ulun.
+\m Kai' onggoyo'   tataun ino, maka-lamba' KOW du       ulun.
+\g neg hold.at.gf stick that npt.af-hit      2s.F nm.nfo person.o
+\l Don't carry that stick, you might hit someone.
+
+\t Makalamba' AKU diun.
+\m Maka-lamba' AKU diun.
+\g npt.af-hit    1s.F 2s.nfo
+\l I am able to hit you./I might hit you accidentally.
+
+\t Makasimbul AKU.
+\m Maka-simbul AKU.
+\g npt.af-run    1s.F
+\l I can run./I can race.
+
+\t Nakatutu IYO noiyo du       bilod           ino.
+\m Naka-tutu IYO noiyo du       bilod           ino.
+\g pt.af-pound 3s.F com   nm.nfo unhusked.rice.o the.fr
+\l She has already managed to pound the rice.
+
+\t Pakakudit IRO daki' paat AKU naatu.
+\m Paka-kudit IRO daki' paat AKU na-atu.
+\g at.af-laugh 3p.F 1s.nfo when 1s.F pt.af.fall
+\l They managed laughing at me when I fell down.
+
+\t Maka   pa nungkamang.
+\m Maka   pa nung-kamang.
+\g npt.af.ca.ind-crawl
+\l (He) can crawl by himself.
+
+\t Pakapadusu'      poiyo IRO, pakakito IRO du dipo.
+\m Pakapadusu'      poiyo IRO, paka-kito IRO du dipo.
+\g after.at.af.swim ncom 3p.F at.af-see they nm snake.o
+\l After they went swimming, they happened to see a snake.
+
+\t Nokokolong noiyo DALAING dano.
+\m Noko-kolong noiyo DALAING dano.
+\g pt.af-sleep com    child.F those.fr
+\l Those children have already slept.
+
+\t Nakatutun AKU diso.
+\m Naka-tutun AKU diso.
+\g pt.af-know 1s.F 3s.nfo
+\l I knew her.
+
+\t Ka makarigogot AKU diun.
+\m Ka maka-rigogot AKU diun.
+\g neg npt.af-hate    1s.F 2s.nfo
+\l I am not able to hate you.
+
+\t Nakapa muniawo   IYO dai'.
+\m Nakapa mun-iawo   IYO dai'.
+\g pt.af.ind-breath 3s.F yesterday
+\l He was able to breathe on his own yesterday.
+
+\t Makataam   AKU po    diun, ani'in     AKU du      gula'.
+\m Maka-taam   AKU po    diun, ani'-in     AKU du      gula'.
+\g if.npt.af-answer 1s.F ncom 2s.nfo give.npt.rf 1s.F nm.nfo candy.o
+\l If I can answer you, give me a candy.
+
+\t Pakauli'    IYO du      baloy, kolong       IYO noiyo.
+\m Paka-uli'    IYO du      baloy, kolong       IYO noiyo.
+\g as.soon.as.at.af-go.home 3s.F nm.nfo house.o at.af.sleep 3s.F com
+\l As soon as he got home to his house, he slept.
+
+\t Pakatutu AKU po     du     bilod           ino,   om   ugad     AKU no.
+\m Paka-tutu AKU po     du     bilod           ino,   om   ugad     AKU no.
+\g after.at.af-pound 1s.F ncom nm.nfo unhusked.rice.o the.fr conj at.af.go 1s.F com
+\l After I had pounded the rice, then I went home.
+
+\t Pakalamba' AKU diso    om   pagidu'        IYO.
+\m Paka-lamba' AKU diso    om   pagidu'        IYO.
+\g after.at.af-hit    1s.F 3s.nfo conj at.af.run.away 3s.F
+\l After I hit him, then he ran away.
+
+\t Nakasukal AKU iyak, ugad       IRO!
+\m Naka-sukal AKU iyak, ugad       IRO!
+\g after.pt.af-get.up 1s.F emph at.af.go 3p.F
+\l After I got up, as a matter of fact, they left!
+
+\t Makaadung AKU.
+\m Maka-adung AKU.
+\g npt.af-nose 1s.F
+\l I have a nose.
+
+\t Makabunga.
+\m Maka-bunga.
+\g npt.af-design
+\l (It) has a design.
+
+\t Makakawal AKU.
+\m Maka-kawal AKU.
+\g npt.af-shirt 1s.F
+\l I have a shirt.
+
+\t Makabaloy AKU.
+\m Maka-baloy AKU.
+\g pt.af-house 1s.F
+\l I have a house.
+
+\t Makapiring AKU.
+\m Maka-piring AKU.
+\g npt.af-dishes 1s.F
+\l I have dishes.
+
+\t Makagandang IYO.
+\m Maka-gandang IYO.
+\g npt.af-drum    3s.F
+\l He has a drum.
+
+\t Makaagong AKU.
+\m Maka-agong AKU.
+\g npt.af-gong 1s.F
+\l I have gongs.
+
+\t Makatalingo AKU.
+\m Maka-talingo AKU.
+\g npt.af-ear    1s.F
+\l I have ears.
+
+\t Ma     kilabus   IYO daki'.
+\m Ma     ki-labus   IYO daki'.
+\g npt.af.pet-release 3s.F 1s.nfo
+\l He is asking me to release him.
+
+\t Pa    kilabus   IYO daki' paat IYO inonggoy daki'.
+\m Pa    ki-labus   IYO daki' paat IYO in-onggoy daki'.
+\g at.af.pet-release 3s.F 1s.nfo while 3s.F npt.af.hold   1s.nfo
+\l He asked me to release him while he was the one holding onto me!
+
+\t Ma     kitutu AKU du       bilod           ino.
+\m Ma     ki-tutu AKU du       bilod           ino.
+\g npt.af.pet-pound 1s.F nm.nfo unhusked.rice.o the.fr
+\l I'm asking someone to pound the rice.
+
+\t Na    kitutu AKU di     An    du     bilod           ino dai'.
+\m Na    ki-tutu AKU di     An    du     bilod           ino dai'.
+\g pt.af.pet-pound 1s.F Nm.F Ann.o nm.nfo unhusked.rice.o that yesterday.
+\l I asked Ann to pound that rice yesterday.
+
+\t Pa    kiriu' DALAING ino.
+\m Pa    ki-riu' DALAING ino.
+\g at.af.pet-bathe child.F that
+\l That child is asking to be bathed.
+
+\t Na    kiwara' AKU noiyo diun.
+\m Na    ki-wara' AKU noiyo diun.
+\g pt.af.pet-tell 1s.F com    2s.nfo
+\l I already asked him to tell you.
+
+\t Pa    kiwara' diso!
+\m Pa    ki-wara' diso!
+\g at.af.pet-tell 3s.nfo
+\l (You) ask him to tell (you)!
+
+\t Pa    kilamba' IYO daki'.
+\m Pa    ki-lamba' IYO daki'.
+\g at.af.pet-hit    3s.F 1s.nfo
+\l He asked me to hit him.
+
+\t Ma     tikolong IYO.
+\m Ma     ti-kolong IYO.
+\g npt.af.inv-sleep 3s.F
+\l He is nodding./He feels sleepy.
+
+\t 26b   Na    tikolong AKU dai'.
+\m 26b   Na    ti-kolong AKU dai'.
+\g       pt.af.inv-sleep 1s.F yesterday
+\l I felt sleepy yesterday.
+
+\t 26c   Na    tilamba' AKU diso    dai'.
+\m 26c   Na    ti-lamba' AKU diso    dai'.
+\g       pt.af.inv-hit    1s.F 3s.nfo yesterday
+\l I felt like hitting him yesterday.
+
+\t Ma     tiakan AKU du      manga'.
+\m Ma     ti-akan AKU du      manga'.
+\g npt.af.inv-eat 1s.F nm.nfo mango.o
+\l I feel like eating a mango.
+
+\t Ma     tikito AKU diun.
+\m Ma     ti-kito AKU diun.
+\g npt.af.inv-see 1s.F 2s.nfo
+\l I long to see you.
+
+\t Pa    titorodog AKU.
+\m Pa    ti-torodog AKU.
+\g at.af.inv-stand   1s.F
+\l I feel like standing.
+
+\t Madimbay gitiu' i    MASRI    du   dimbay manginum.
+\m Ma-dimbay gitiu' i    MASRI    du   dimbay manginum.
+\g pt.af-song   might Nm.F Masri.F nm.nfo song.o drinking
+\l Masri might sing a drinking song.
+
+\t 27b     Nadimbay i    RINI   du     dimbay no.
+\m 27b     Na-dimbay i    RINI   du     dimbay no.
+\g         pt.af-song   Nm.F Rini.F nm.nfo song.o 3s.pp
+\l Rini sang her song.
+
+\t 27c     Padimbay KAW du      dimbay Malayu.
+\m 27c     Pa-dimbay KAW du      dimbay Malayu.
+\g         at.af-song   2p.F nm.nfo song.o Malay
+\l You all sing a Malay song!
+
+\t 27d     Kuoy     padusu' KAW!
+\m 27d     Kuoy     pa-dusu' KAW!
+\g         at.af.go at.af-swim 2p.F
+\l You all go and swim!
+
+\t Madu dusu' IRO tio' du      liagu   mandalom.
+\m Ma-du dusu' IRO tio' du      liagu   mandalom.
+\g npt.af-sr.swim 3p.F loc nm.nfo river.o deep
+\l They are always swimming there in the deep part of the river.
+
+\t Mokondo' KOW kia du       dongkot?
+\m Mo-kondo' KOW kia du       dongkot?
+\g npt.af-ext 2s.F ?    nm.nfo spear
+\l Do you have a spear?
+
+\t Mokondo' kia dua pasang      KAWAL   dugitu?
+\m Mo-kondo' kia dua pasang      KAWAL   dugitu?
+\g npt.af-ext ?    two cl.clothes shirt.F here
+\l Are there two shirts here?
+
+\t Mada damba'    IRO.
+\m Ma-da damba'    IRO.
+\g npt.af-sr.hit.magic 3p.F
+\l They keep on hitting at each other.
+
+\t Magagandang po   bagu DALAING dano.
+\m Ma-gagandang po   bagu DALAING dano.
+\g npt.af-sr.drum   ncom then child.F those.fr
+\l Those children can still keep sounding the gongs then.
+
+\t Maalud BUAYOY ino     poiyo.
+\m Ma-alud BUAYOY ino     poiyo.
+\g npt.af-far youth.F the.fr ncom
+\l The young man is still far off.
+
+\t Ma     muniawo    DALAING ino.
+\m Ma     mun-iawo    DALAING ino.
+\g npt.af-ind.breathe child.F that
+\l That child is breathing.
+
+\t Pa    muniawo    IYO poiyo!
+\m Pa    mun-iawo    IYO poiyo!
+\g at.af.ind-breathe 3s.F ncom
+\l He is breathing still!
+
+\t Mapuod   TIMUG    ino.
+\m Ma-puod   TIMUG    ino.
+\g npt.af-strong water.F that
+\l That current is swift.
+
+\t Nobobow DALAING ino.
+\m No-bobow DALAING ino.
+\g pt.af-mute child.F that
+\l That child is mute.
+
+\t Malabung AKU.
+\m Ma-labung AKU.
+\g npt.af-fat    1s.F
+\l I am fat.
+
+\t Mawaad KALAT nu     kalabaw       ino.
+\m Ma-waad KALAT nu     kalabaw       ino.
+\g npt.af-long rope.F nm.po water.buffalo the.fr
+\l The water buffalo's rope is long.
+
+\t Maamu' ANAK    ku.
+\m Ma-amu' ANAK    ku.
+\g npt.af-many child.F 1s.pp
+\l My children are many.
+
+\t Maamu' IRO.
+\m Ma-amu' IRO.
+\g npt.af-many 3p.F
+\l They are many.
+
+\t Madiwa' ULUN     ino.
+\m Ma-diwa' ULUN     ino.
+\g npt.af-short person.F that
+\l That man is short.
+
+\t Masawat BALOY  nano.
+\m Ma-sawat BALOY  nano.
+\g npt.af-high house.F 3s.pp.fr
+\l His house is high.
+
+\t Malampas AKU.
+\m Ma-lampas AKU.
+\g npt.af-tall   1s.F
+\l I am tall.
+
+\t Maria' AKU.
+\m Ma-ria' AKU.
+\g npt.af-red 1s.F
+\l I am red.
+
+\t Malasu' ODOW itu.
+\m Ma-lasu' ODOW itu.
+\g npt.af-hot   sun.F this
+\l This sun is hot.
+
+\t Moosat IYO paat IYO inanak.
+\m Mo-osat IYO paat IYO inanak.
+\g npt.af-small 3s.F when 3s.F pt.af.born
+\l He was small when he was born.
+
+\t Masaga' i    AN   dito.
+\m Ma-saga' i    AN   dito.
+\g npt.af-like Nm.F Ann.F 1d.nfo
+\l Ann likes you and me.
+
+\t Marigogot AKU diun.
+\m Ma-rigogot AKU diun.
+\g npt.af-hate    1s.F 2s.nfo
+\l I hate you.
+
+\t Naingot   i    JON    di     Tuni.
+\m Na-ingot   i    JON    di     Tuni.
+\g pt.af-jealous Nm.F John.F Nm.nfo Tony.o
+\l John was jealous of Tony.
+
+\t Kaingot   IYO poiyo daki', pantangi' AKU no.
+\m Ka-ingot   IYO poiyo daki', pantangi' AKU no.
+\g when.at.af-jealous 3s.F ncom 1s.nfo at.af.sad 1s.F com
+\l When he was jealous of me, I felt sad.
+
+\t Karigogot AKU po    diso, pantangi' IYO noiyo.
+\m Ka-rigogot AKU po    diso, pantangi' IYO noiyo.
+\g when.at.af-hate    1s.F ncom 3s.nfo at.af.sad 3s.F com
+\l When I hated him, he felt sad.
+
+\t Kakadat poiyo IRO, ba...iya'    no IRO daki'.
+\m Ka-kadat poiyo IRO, ba-...iya'    no IRO daki'.
+\g after.at.af-wake ncom 3p.F at.af.go.with com 3s.F 1s.nfo
+\l After they woke up, they went with me.
+
+\t Kasaga' AKU po    diso, om    pakauma'  AKU no di       Alis.
+\m Ka-saga' AKU po    diso, om    pakauma'  AKU no di       Alis.
+\g after.at.af-like 1s.F ncom 3s.nfo conj at.af.meet 1s.F com Nm.nfo Alice.o
+\l After I liked her, then I happened to meet Alice.
+
+\t Pa    sakito IRO.
+\m Pa    sa-kito IRO.
+\g at.af.nsp-see 3p.F
+\l They are all having a look at it together.
+
+\t Pa    sakudit IRO.
+\m Pa    sa-kudit IRO.
+\g at.af.nsp-laugh 3p.F
+\l They are all having a laugh together.
+
+\t Pa    sagarak   IRO.
+\m Pa    sa-garak   IRO.
+\g at.af.nsp-screech 3p.F
+\l They are all screeching together.
+
+\t Pa    sagagang IRO.
+\m Pa    sa-gagang IRO.
+\g at.af.nsp-scream 3p.F
+\l They are all screaming together.
+
+\t Pa    salamba' IRO.
+\m Pa    sa-lamba' IRO.
+\g at.af.nsp-hit    3p.F
+\l They are having a brawl.
+
+\t Ma     nungkamang IYO.
+\m Ma     nung-kamang IYO.
+\g npt.af.ind-crawl 3s.F
+\l He is crawling.
+
+\t Na    nungkamang IYO.
+\m Na    nung-kamang IYO.
+\g pt.af.ind-crawl 3s.F
+\l He crawled.
+
+\t Om, bagu pa     nungkamang IYO.
+\m Om, bagu pa     nung-kamang IYO.
+\g conj then at.af.ind-crawl 3s.F
+\l And then he crawled.
+
+\t Pa    nungkamang!
+\m Pa    nung-kamang!
+\g at.af.ind-crawl
+\l Crawl!
+
+\t Pa    nungkamang AKAW!
+\m Pa    nung-kamang AKAW!
+\g at.af.ind-crawl 2p.EF
+\l All of you crawl!
+
+\t Naka pa muniawo    IYO dai'.
+\m Naka pa mun-iawo    IYO dai'.
+\g pt.af.ind-breathe 3s.F yesterday
+\l He was able to breathe by himself yesterday.
+
+\t Manguyu'uyu' KOW daki'.
+\m Mang-uyu'-uyu' KOW daki'.
+\g npt.af-rr.shame 2s.F 1s.nfo
+\l You are always shaming me.
+
+\t Nangambutambut IYO diso.
+\m Nang-ambut-ambut IYO diso.
+\g pt.af-rr.lying    3s.F 3s.nfo
+\l He was always lying about her.
+
+\t Ugad     dukuwon IRO mangki kitang,      sangulun   kaa kakito,   sangulun   napandakan.    
+\m Ugad     dukuwon IRO mang-ki kitang,      sangulun   kaa kakito,   sangulun   napandakan.    
+\g at.af.go dis     3p.F npt.af-sr.hold.onto one.person neg at.gf.see one.person pt.break.leg.af
+\l They walk on, it is said, continuing to hold onto each other, one man (he's) not able to see (anything), the other man (he's) the one with a leg broken (by the Spirit Bird).
+
+\t Mangku kurakas           dukuwon MONDOW        ino.
+\m Mang-ku kurakas           dukuwon MONDOW        ino.
+\g npt.af.sr-scratch.for.food dis     Spirit.Bird.F the
+\l The Spirit Bird keeps on scratching for food, it is said.
+
+\t Nampa patoy IRO.
+\m Nam-pa patoy IRO.
+\g pt.af-sr.kill 3p.F
+\l They were killing each other.
+
+\t Ponto tobok IRO.
+\m Pon-to tobok IRO.
+\g at.af-sr.jab   3p.F
+\l They were jabbing each other.
+
+\t Manda dayang DUANDU' dano     du    tinuug.
+\m Man-da dayang DUANDU' dano     du    tinuug.
+\g npt.af-sr.spread girl.F those.fr o.inf si.var.dry.in.sun
+\l Those girls are all spreading rice to dry it.
+
+\t 213a   Mang   ila laa' KOW daki'.
+\m 213a   Mang   i-la laa' KOW daki'.
+\g        npt.af.del-sr.scare 2s.F 1s.nfo
+\l You're really trying to scare me.
+
+\t 213b   Mang   ibubua' KOW du       Mondow        ino.
+\m 213b   Mang   i-bubua' KOW du       Mondow        ino.
+\g        npt.af.del-sr.pet 2s.F nm.nfo Spirit.Bird.o the.fr
+\l You are intending to make a pet of the Spirit Bird.
+
+\t 213d   Mag    idodor IYO diun.
+\m 213d   Mag    i-dodor IYO diun.
+\g        npt.af.del-stare 3s.F 2s.nfo
+\l He is deliberately staring at you.
+
+\t 213e   Mag    irurupot    IYO.
+\m 213e   Mag    i-rurupot    IYO.
+\g        npt.af.del-sr.legend 3s.F
+\l He will spin a folk tale.
+
+\t Mang   intorodog   AKU.
+\m Mang   in-torodog   AKU.
+\g npt.af.des-stand.up 1s.F
+\l I will try to stand it up.
+
+\t M      intutun AKU diso.
+\m M      in-tutun AKU diso.
+\g npt.af.des-know 1s.F 3s.nfo
+\l I want to know him.
+
+\t Mang   intutun IYO daki'.
+\m Mang   in-tutun IYO daki'.
+\g npt.af.des-know 3s.F 1s.nfo
+\l He's trying to identify me.
+
+\t M      impadan IYO.
+\m M      im-padan IYO.
+\g npt.af.des-behave 3s.F
+\l He wants to behave.
+
+\t M      ingkurus        JABULOW ino.
+\m M      ing-kurus        JABULOW ino.
+\g npt.af.des-descend.tree monkey.F the.fr
+\l The monkey wants to come down from the tree.
+
+\t N     imbalui      i    MINA    du    Singapura.
+\m N     im-balui      i    MINA    du    Singapura.
+\g pt.af.des-move.house Nm.F Mina.F nm.nfo Singapore.o
+\l Mina wanted to move to Singapore.
+
+\t M      indabugus       DALAING ino.
+\m M      in-dabugus       DALAING ino.
+\g npt.af.des-go.downstream child.F the.fr
+\l The child wants to go downstream.
+
+\t Mang   alampas BUAYOY      dano.
+\m Mang   a-lampas BUAYOY      dano.
+\g npt.af.dt-tall   young.man.F those.fr
+\l Those young men are all tall
+
+\t Mang   adiwa' DALAING dano.
+\m Mang   a-diwa' DALAING dano.
+\g npt.af.dt-short child.F those.fr
+\l Those children are all short.
+
+\t Mang   apura' MANUK     dano.
+\m Mang   a-pura' MANUK     dano.
+\g npt.af.dt-white chicken.F those.fr
+\l Those chickens are all white.
+
+\t Mang   alinsi DAUN   day.
+\m Mang   a-linsi DAUN   day.
+\g npt.af.dt-green leaf.F those.r
+\l Those leaves are all green way off there.
+
+\t Nang asilow BILOD             datu.
+\m Nang a-silow BILOD             datu.
+\g pt.af.dt-yellow unhusked.rice.F these.n
+\l These rice plants here have all ripened.
+
+\t Pang aitom TURUAK      dano.
+\m Pang a-itom TURUAK      dano.
+\g at.af.dt-black cowbird.F those.fr
+\l Those cowbirds were all black.
+
+\t Tapuliyo'    daki'.
+\m Tapuliy-o'    daki'.
+\g repair-at.gf 1s.nfo
+\l Repair (it) for me.
+
+\t Bansiwo'    mu     GITU   disiro.
+\m Bansiw-o'    mu     GITU   disiro.
+\g good-at.gf 2s.nfa it.n.F 3p.nfo
+\l You make it good for them.
+
+\t Potorodogo'!
+\m Po-torodog-o'!
+\g ca-stand-at.gf
+\l Make (it) stand!
+
+\t Padiwon     mu     IYO.
+\m Pa-diw-on     mu     IYO.
+\g ca-bath-npt.gf 2s.nfa 3s.F
+\l You give him a bath.
+
+\t Padiwon     DALAING ino.
+\m Pa-diw-on     DALAING ino.
+\g ca-bath-npt.gf child.F the.fr
+\l Give the child a bath.
+
+\t P: in   :adiu' IYO nu      duandu'   ino.
+\m P: in   :a-diu' IYO nu      duandu'   ino.
+\g sa.pt.gf.ca-bath 3s.F nm.nfa woman.nfa that
+\l That lady bathed him.
+
+\t P: in   :aakan IYO nu     dangan nano.
+\m P: in   :a-akan IYO nu     dangan nano.
+\g sa.pt.gf.ca-eat 3s.F nm.po friend 3s.pp.fr
+\l His friend made him eat.
+
+\t Kai' putulo'    PINSIL   ino!
+\m Kai' putul-o'    PINSIL   ino!
+\g neg break-at.gf pencil.F that
+\l Don't break that pencil!
+
+\t P: in   :a salura' IYO nu        pulis      ino.
+\m P: in   :a sa-lura' IYO nu        pulis      ino.
+\g sa.pt.gf.ca-one.let.go 3s.F nm.nfa police.nfa the.fr
+\l The police let him go.
+
+\t Bobogon     no     MONDOW        ino.
+\m Bobog-on     no     MONDOW        ino.
+\g club-npt.gf 3s.nfa Spirit.Bird.F the.fr
+\l He is going to club the Spirit Bird.
+
+\t "Iyaw, om   ka akanon      AKU mu?"    kono.
+\m "Iyaw, om   ka akan-on      AKU mu?"    kono.
+\g  yes   conj neg eat-npt.gf 1s.F 2s.nfa qt
+\l Yes, and won't you eat me?"he said.
+
+\t "Alapon     ku     ASU   ino du     bubua'," kono.
+\m "Alap-on     ku     ASU   ino du     bubua'," kono.
+\g  get-npt.gf 1s.nfa dog.F that o.inf make.pet qt
+\l I am getting that dog to make a pet of it,"he said.
+
+\t Paibiton ku     GULA'   di     Tiam.
+\m Pa-ibit-on ku     GULA'   di     Tiam.
+\g ca.npt-bring-gf 1s.nfa sugar.F Nm.nfo Tiam.o
+\l I am asking Tiam to bring sugar.
+
+\t Kai' kalaano' to     MONDOW        ino!
+\m Kai' ka-laan-o' to     MONDOW        ino!
+\g neg gf-fear-at 2d.nfa Spirit.Bird.F the.f
+\l Don't let us two fear that Spirit Bird!
+
+\t Katarangon no      LADYU   itu.
+\m Ka-tarang-on no      LADYU   itu.
+\g gf-loud.clear-npt 3s.nfa radio.F the.n
+\l He is making the radio loud and clear
+
+\t Masaboy mu     DASAWAT ino?
+\m Ma-saboy mu     DASAWAT ino?
+\g npt.gf-reach 2s.nfa top.F   the.fr
+\l Can you reach the top?
+
+\t Ka masaboy no     GINO.
+\m Ka ma-saboy no     GINO.
+\g neg npt.gf-reach 3s.nfa it.fr.F
+\l He cannot reach it.
+
+\t Ka nasaboy AKU dai'.
+\m Ka na-saboy AKU dai'.
+\g neg pt.gf-reach 1s.F yesterday
+\l (No one) could reach me yesterday./I could not be reached yesterday (by anyone).
+
+\t Marasak niro    poiyo TIMUG   ino    om   maniyud           no IRO.
+\m Ma-rasak niro    poiyo TIMUG   ino    om   maniyud           no IRO.
+\g npt.gf-dry.up 3p.nfa ncom water.F the.fr conj npt.af.scoop.fish com 3p.F
+\l They will dry up the river first and then they will scoop all the fish.
+
+\t Narasak TIMUG    ino.
+\m Na-rasak TIMUG    ino.
+\g pt.gf-dry.up water.F the.fr
+\l (They) have dried up the river./The river has been dried up.
+
+\t Maabak PIRING ino.
+\m Ma-abak PIRING ino.
+\g npt.gf-break plate.F that
+\l That plate can be broken.
+
+\t Maasab KOW.
+\m Ma-asab KOW.
+\g npt.gf-curse 2s.F
+\l (Someone) will curse you./You might be cursed.
+
+\t Maputul ku     GITU.
+\m Ma-putul ku     GITU.
+\g npt.gf-break 1s.nfa it.n.F
+\l I can break it.
+
+\t Mapua' no    noiyo AKU.
+\m Ma-pua' no    noiyo AKU.
+\g npt.gf-dry 32.nfa com   1s.F
+\l She can dry me.
+
+\t Napua' noiyo DALAING ino.
+\m Na-pua' noiyo DALAING ino.
+\g pt.gf-dry com    child.F that
+\l That child had already been dried.
+
+\t Mapua' noiyo KAIN      dano.
+\m Ma-pua' noiyo KAIN      dano.
+\g npt.gf-dry com    clothes.F those.fr
+\l Those clothes might be dry now.
+
+\t Makada' may    OKOW.
+\m Ma-kada' may    OKOW.
+\g npt.gf-miss 1pi.nfa 2s.F
+\l We all miss you.
+
+\t Nalamba' AKU.
+\m Na-lamba' AKU.
+\g pt.gf-hit    1s.F
+\l (It) hit me./I was hit (by it).
+
+\t Malamba' ni     Jon      i    TUNI.
+\m Ma-lamba' ni     Jon      i    TUNI.
+\g npt.gf-hit    Nm.nfa John.nfa Nm.F Tony.F
+\l John might accidently hit Tony.
+
+\t Malamba' ku     OKOW.
+\m Ma-lamba' ku     OKOW.
+\g npt.gf-hit    1s.nfa 2s.F
+\l I might/can hit you.
+
+\t Malasu' TIMUG   ino.
+\m Ma-lasu' TIMUG   ino.
+\g npt.gf-hot   water.F the.fr
+\l The water is being heated.
+
+\t Malasu' AKU.
+\m Ma-lasu' AKU.
+\g npt.gf-hot   1s.F
+\l I am becoming feverish.
+
+\t Maasa' KAWAL   muno.
+\m Ma-asa' KAWAL   muno.
+\g npt.gf-wet dress.F 2s.pp.fr
+\l That dress of yours will get wet.
+
+\t Maasa' AKU mu!
+\m Ma-asa' AKU mu!
+\g npt.gf-wet 1s.F 2s.nfa
+\l You'll get me wet!
+
+\t Nabunduk    no     PARANG       ino.
+\m Na-bunduk    no     PARANG       ino.
+\g pt.gf-unsheathe 2s.nfa bush.knife.F the.fr
+\l He unsheathed the bush knife.
+
+\t Mabunduk    PARANG       ino.
+\m Ma-bunduk    PARANG       ino.
+\g npt.gf-unsheathe bush.knife.F the.fr
+\l The bush knife can be unsheathed.
+
+\t Matatag mu     BUK   kuy.
+\m Ma-tatag mu     BUK   kuy.
+\g npt.gf-lose 2s.nfa book.F 1s.pp.r
+\l You might lose my book.
+
+\t Ka masukal ku    ULUN     ino.
+\m Ka ma-sukal ku    ULUN     ino.
+\g neg npt.gf-lift 1s.nfa person.F that
+\l I can't lift that man.
+
+\t Naputul no     TATAUN ino.
+\m Na-putul no     TATAUN ino.
+\g pt.gf-break 3s.nfa wood.F the.fr
+\l He broke the stick in half.
+
+\t Nasuu' noiyo ni      Masina    i    RINI.
+\m Na-suu' noiyo ni      Masina    i    RINI.
+\g pt.gf-feed com   Nm.nfa Masina.nfa Nm.F Rini.F
+\l Masina already fed Rini.
+
+\t Nasuu' mu     noiyo DALAING ino?
+\m Na-suu' mu     noiyo DALAING ino?
+\g pt.gf-feed 2s.nfa com   child.F the.fr
+\l Have you fed the child?
+
+\t Maalap ku     BUK    tio' dasawat.
+\m Ma-alap ku     BUK    tio' dasawat.
+\g npt.gf-get 1s.nfa book.F loc above
+\l I can get the book up there.
+
+\t Makama' ku     KARINDU' nano.
+\m Ma-kama' ku     KARINDU' nano.
+\g npt.gf-touch 1s.nfa hand.F   3s.pp.fr
+\l I can touch his hand there.
+
+\t Maining ku    IYO.
+\m Ma-ining ku    IYO.
+\g npt.gf-hear 1s.nfa 3s.F
+\l I hear him.
+
+\t Makito ku    i    ASRI.
+\m Ma-kito ku    i    ASRI.
+\g npt.gf-see 1s.nfa Nm.F Asri.F
+\l I see Asri.
+
+\t Makito AKU ni     Asri.
+\m Ma-kito AKU ni     Asri.
+\g npt.gf-see 1s.F Nm.nfa Asri.nfa
+\l Asri sees me.
+
+\t Maarok ku      GITU.
+\m Ma-arok ku      GITU.
+\g npt.gf-smell 1s.nfa it.n.F
+\l I smell it.
+
+\t Nakito IYO nu     ulun       ino.
+\m Na-kito IYO nu     ulun       ino.
+\g pt.gf-see 3s.F nm.nfa person.nfa that
+\l That person saw him.
+
+\t Naalap ku    BILOD.
+\m Na-alap ku    BILOD.
+\g pt.gf-get 1s.nfa unhusked.rice.F
+\l I got rice.
+
+\t Natutu ku      noiyo BILOD           ino.
+\m Na-tutu ku      noiyo BILOD           ino.
+\g pt.gf-pound 1s.nfa com   unhusked.rice.F the.fr
+\l I have already pounded the rice.
+
+\t Matutu mu      poiyo BILOD          ino    om       ibito'      muli'.            
+\m Ma-tutu mu      poiyo BILOD          ino    om       ibito'      muli'.            
+\g npt.gf-pound 2s.nfa ncom unhusked.rice.F the.fr conj bring.at.gf npt.af.return.home
+\l You pound the rice first and bring it home.
+
+\t "Mawaul ku     LIAS   ino    poiyo om   kawatu, anuon, bagu antopo'."
+\m "Ma-waul ku     LIAS   ino    poiyo om   ka-watu, anuon, bagu antopo'."
+\g  npt.gf-slit 1s.nfa reed.F the.fr ncom conj at.gf-weave ummm    then at.gf.hem
+\l I must slit the reeds first and weave (them), ummm, then hem (them).
+
+\t Kakito dukuwon niro   BUAYOI ino     nombibil    du   Mondow.
+\m Ka-kito dukuwon niro   BUAYOI ino     nombibil    du   Mondow.
+\g at.gf-see dis      3p.nfa youth.F the.fr pt.af.carry nm.o Spirit.Bird
+\l They saw the youth carrying the Spirit Bird on his hip, it is said.
+
+\t Kakito no    DARAA        dano     mandadayang      du    tinuug               om   mamandurun     IRO     du     magidu'.
+\m Ka-kito no    DARAA        dano     mandadayang      du    tinuug               om   mamandurun     IRO     du     mag-idu'.
+\g at.gf-see 3s.nfa young.girl.F those.fr npt.af.sr.spread o.inf si.var.dry.in.sun conj npt.af.scatter 3p.F    o.inf npt.af.run
+\l He sees the young girls,    spreading out the rice to dry, and then they all scatter in every direction to run    away.
+
+\t 32uu    "Koungoungo mu      yak kudi' DU     MONGIBUBUA'     KOW DU      MONDOW!"
+\m 32uu    "Ko-ungo-ungo mu      yak kudi' DU     MONG-I-BUBUA'     KOW DU      MONDOW!"
+\g         at.gf-crazy.rr 2s.nfa emph fool o.inf npt.i.af.make.pet 2s.F nm.nfo                   Spirit.Bird.o
+\l You must be really crazy, indeed a fool, to try to make a pet of Spirit Bird!
+
+\t 32vv    "An gua' kaalapalap mu     MONDOW        iti," konon dukuwon.
+\m 32vv    "An gua' ka-alap-alap mu     MONDOW        iti," konon dukuwon.
+\g          how     at.gf-get.rr    2s.nfa Spirit.Bird.F that.r qt    dis
+\l How in the world did you actually get that elusive Spirit Bird!"they said, it is said.
+
+\t Karasak poiyo TIMUG    ino    om   paniyud         no IRO.
+\m Ka-rasak poiyo TIMUG    ino    om   paniyud         no IRO.
+\g when.at.gf-dry.up ncom water.F the.fr conj at.af.scoop.fish com 3p.F
+\l When (they) dry up the river, then they will scoop fish.
+
+\t Kaabak ku      poiyo PIRING ino om    pantangi'         AKU no.
+\m Ka-abak ku      poiyo PIRING ino om    pantangi'         AKU no.
+\g after.at.gf-break 1s.nfa ncom plate.F that conj at.af.cry         1s.F com
+\l After I broke that plate, then I cried.
+
+\t Kaasab    no     AKU poiyo om    pangampun    AKU diso.
+\m Ka-asab    no     AKU poiyo om    pangampun    AKU diso.
+\g after.at.gf-slander 3s.nfa 1s.F ncom conj at.af.forgive 1s.F 3s.nfo
+\l After he slandered me, then I forgave him.
+
+\t Kaputul ku     poiyo PINSIL   ino   om  patidi'       ku     noiyo.
+\m Ka-putul ku     poiyo PINSIL   ino   om  patidi'       ku     noiyo.
+\g after.at.gf-break 1s.nfa ncom pencil.F the.f conj at.rf.discard 1s.nfa com
+\l After I broke the pencil, then I threw (it) away.
+
+\t Kapua' mu     DALAING    datu    om   pangkawal  KAW disiro.
+\m Ka-pua' mu     DALAING    datu    om   pangkawal  KAW disiro.
+\g after.at.gf-dry 2s.nfa children.F these.n conj at.af.shirt 2p.F 3p.nfo
+\l After you dry these children, then you dress them.
+
+\t Kapua' mu     poiyo KAIN      dano     om lipato'    mu.
+\m Ka-pua' mu     poiyo KAIN      dano     om lipato'    mu.
+\g after.npt.gf-dry 2s.nfa ncom clothes.F those.fr conj at.gf.fold 2s.nfa
+\l After you dry those clothes, then you fold (them).
+
+\t Kalamba' no     poiyo DALAING dano    pagidu'   no IRO.
+\m Ka-lamba' no     poiyo DALAING dano    pagidu'   no IRO.
+\g after.at.gf-hit    3s.nfa ncom child.F those.fr at.af.run com 3p.F
+\l After he hit those children, they ran away.
+
+\t Kapidis ku     poiyo ASU   ino   om   pagidu'        AKU no.
+\m Ka-pidis ku     poiyo ASU   ino   om   pagidu'        AKU no.
+\g after.at.gf-cut   1s.nfa ncom dog.F the.fr conj at.af.run.away 1s.F com
+\l After I had cut the dog, then I ran away.
+
+\t Kalasu' mu     poiyo TIMUG   ino    om   panginum   KOW noiyo.
+\m Ka-lasu' mu     poiyo TIMUG   ino    om   panginum   KOW noiyo.
+\g after.at.gf-hot   2s.nfa ncom water.F the.fr conj at.af.drink 2s.F com
+\l After you have boiled the water, then you drink (it).
+
+\t Kaasa' AKU po    nu     dassam   om   pangkawal  AKU noiyo.
+\m Ka-asa' AKU po    nu     dassam   om   pangkawal  AKU noiyo.
+\g when.at.gf-wet 1s.F ncom nm.nfa rain.nfa conj at.af.shirt 1s.F com
+\l When the rain had made me wet, then I put on a shirt.
+
+\t Kabunduk    poiyo PAIRANG ino om    pagidu'       AKU no.
+\m Ka-bunduk    poiyo PAIRANG ino om    pagidu'       AKU no.
+\g after.at.gf-unsheathe ncom sword.F that conj at.af.run.away 1s.F com
+\l After that sword was unsheathed, then I ran away.
+
+\t Kabunduk    ku     poiyo PAIRANG ino om    pagidu'       IYO no.
+\m Ka-bunduk    ku     poiyo PAIRANG ino om    pagidu'       IYO no.
+\g after.at.gf-unsheathe 1s.nfa ncom sword.F that conj at.af.run.away 3s.F com
+\l After I had unsheathed that sword, then he ran away.
+
+\t Katatag poiyo BUK    kuy     om   pamali   AKU du     baguon.
+\m Ka-tatag poiyo BUK    kuy     om   pamali   AKU du     baguon.
+\g after.at.gf-lose ncom book.F 1s.pp.r then at.af buy 1s.F nm.nfo new.one.o
+\l After (I) had lost my book, then I bought a new one.
+
+\t Molobong IYO poiyo susuab,          muli'   KOW no.
+\m Mo-lobong IYO poiyo susuab,          muli'   KOW no.
+\g when.npt.gf-bury   3s.F ncom tomorrow npt.af.go.home 2s.F com
+\l When he is buried tomorrow, you go home.
+
+\t Kolobong niro   poiyo ULUN ino     om   paguguli'       no IRO.
+\m Ko-lobong niro   poiyo ULUN ino     om   paguguli'       no IRO.
+\g after.at.gf-bury   3p.nfa ncom man.F the.fr conj at.sr.af.go.home com 3p.F
+\l After they had buried the man, then they all went home together.
+
+\t Kaalap no     poiyo BUK    ino, om   buriako' no     noiyo.
+\m Ka-alap no     poiyo BUK    ino, om   buriako' no     noiyo.
+\g after.at.gf-get 3s.nfa ncom book.F that conj tear.at.gf 3s.nfa com
+\l After he had gotten that book, then he tore (it).
+
+\t Katutu no      poiyo BILOD           ino om   buli'i'    no     noiyo.
+\m Ka-tutu no      poiyo BILOD           ino om   buli'i'    no     noiyo.
+\g after.at.gf-pound 3s.nfa ncom unhusked.rice.F that conj at.keep.rf 3s.nfa com
+\l After he first pounded that rice, then he kept (it).
+
+\t Maalud     IYO paiyak     om   makito no     MONDOW        ino!
+\m Maalud     IYO paiyak     om   ma-kito no     MONDOW        ino!
+\g npt.af.far 3s.F ncom.emph conj npt.gf-see 3s.nfa Spirit.Bird.F the.fr
+\l While he is still far off, then that's when he sees the Spirit Bird!
+
+\t Ka kaalap ku      BILOD         itu.
+\m Ka ka-alap ku      BILOD         itu.
+\g re.at.gf-get 1s.nfa unhusked rice.F this
+\l I just got this rice.
+
+\t Katu tutu ku      BAGAS         ino.
+\m Ka-tu tutu ku      BAGAS         ino.
+\g at.gf-re.pound 1s.nfa husked.rice.F that
+\l I have just pounded that rice.
+
+\t Katu tutu BAGAS          ino.
+\m Ka-tu tutu BAGAS          ino.
+\g at.gf-re.pound husked.rice.F that
+\l That rice has just been pounded.
+
+\t Ka katutu no      BILOD           ino.
+\m Ka ka-tutu no      BILOD           ino.
+\g re.at.gf-pound 3s.nfa unhusked rice.F the.fr
+\l He has just pounded the rice.
+
+\t Ka kakito no    IYO.
+\m Ka ka-kito no    IYO.
+\g re.at.gf-see 3s.nfa 3s.F
+\l She just saw him.
+
+\t Ka kakatu' ku     BUNGA   itu.
+\m Ka ka-katu' ku     BUNGA   itu.
+\g re.at.gf-pick 1s.nfa flower.F this
+\l I just picked this flower.
+
+\t Ka kaulig      ku     IYO.
+\m Ka ka-ulig      ku     IYO.
+\g re.at.gf-recognize 1s.nfa 3s.F
+\l I just recognized him.
+
+\t Uligi'    daki'.
+\m Ulig-i'    daki'.
+\g identify-at.rf 1s.nfo
+\l Identify (it) for me.
+
+\t Ibai'    no     BARAIT        ino.
+\m Iba-i'    no     BARAIT        ino.
+\g put.on-at.rf 3s.nfa back.basket.F the.fr
+\l He put on the back basket.
+
+\t Saani'    no     SAPUK     nano.
+\m Saan-i'    no     SAPUK     nano.
+\g carry.on.shoulder-at.rf 3s.nfa blowgun.F 3s.pp.fr
+\l He shouldered his blowgun.
+
+\t Ganggangi'    no     AWAK    nu    Mondow      ino.
+\m Ganggang-i'    no     AWAK    nu    Mondow      ino.
+\g tie.up-at.rf 3s.nfa waist.F nm.po Spirit.Bird the.fr
+\l He tied up the Spirit Bird's waist.
+
+\t Barain     mu     DALAING dano     kain   kalaano'.
+\m Bara-in     mu     DALAING dano     kain   kalaano'.
+\g tell-npt.rf 2s.nfa child.F those.fr neg.pl at.fear.gf
+\l You tell those children not to be afraid.
+
+\t P: in :aibitan ni     Asri     BUK    ino    daki'.
+\m P: in :a-ibit-an ni     Asri     BUK    ino    daki'.
+\g sa.pt.ca-carry-rf Nm.nfa Asri.nfa book.F the.fr 1s.nfo
+\l Asri asked me to bring the book.
+
+\t Tinaanan no     BOUG   ino    du     bulud.
+\m T-in-aan-an no     BOUG   ino    du     bulud.
+\g ri-pt-set-rf 3s.nfa trap.F the.fr nm.nfo hilltop.o
+\l He set the trap on the hilltop.
+
+\t Taanin     no     BOUG   ino    tio' du     bulud.
+\m Taan-in     no     BOUG   ino    tio' du     bulud.
+\g set-npt.rf 3s.nfa trap.F the.fr loc nm.nfo hilltop.o
+\l He is setting the trap there on the hilltop.
+
+\t Ansakin     AKU ni      An.
+\m Ansak-in     AKU ni      An.
+\g cook-npt.rf 1s.F Nm.nfa Ann.nfa
+\l Ann is cooking for me.
+
+\t Binasaan AKU ni       Sumah    du     buk.
+\m B-in-asa-an AKU ni       Sumah    du     buk.
+\g ri-pt-read-rf 1s.F Nm.nfa Sumah.nfa nm.nfo book.o
+\l Sumah read the book to me.
+
+\t Binaraan no     AKU, linumunsut         nak ino     NAGAS.
+\m B-in-ara-an no     AKU, linumunsut         nak ino     NAGAS.
+\g ri-pt-tell-rf 3s.nfa 1s.F ri.pt.af-fall.down just the.fr ground.F
+\l He told me, there has just been a landslide.
+
+\t Ida dadarin     dukuwon TAMPAK ino.
+\m I-da dadar-in     dukuwon TAMPAK ino.
+\g del-sr.stare-at.rf dis     peak   the.fr
+\l (He) kept on staring intently at the peak, it is said.
+
+\t Kapuadin ku     OKOW.
+\m Ka-puad-in ku     OKOW.
+\g at-strong-rf 1s.nfa 2s.F
+\l I am making it strong for you.
+
+\t 4n    "Oyo'          ku     po   BOUG   kuy, ma'   no sinulungon ku,"    kono.
+\m 4n    "Oy-o'          ku     po   BOUG   kuy, ma'   no s-in-ulung-on ku,"    kono.
+\g        at-go.check-gf 1s.nfa ncom trap.F 1s.r maybe com ri-pt-catch-rf 1s.nfa qt
+\l I'll go check my trap first, maybe I've already had a catch in it,"he said.
+
+\t 4o    "Kaduaan, kataluan, dukuwon, kawansuri' ULUN     disom nu    pagun   ino."
+\m 4o    "Ka-dua-an, ka-talu-an, dukuwon, ka-wansur-i' ULUN     disom nu    pagun   ino."
+\g        da-two-ord da-three-ord dis      at-gossip-rf people.F all   3s.po village the
+\l By the second (or) third night, it is said, (the news) was spread to all the people of the village.
+
+\t Papidison     ni     Jon      PAIS    kuno    du     tataun.
+\m Pa-pidis-on     ni     Jon      PAIS    kuno    du     tataun.
+\g ca-cut-npt.if Nm.nfa John.nfa knife.F 1s.pp.fr nm.nfo wood.o
+\l John is hacking wood with that knife of mine.
+
+\t P: in :apidis no     PAIS    ino    du     tataun.
+\m P: in :a-pidis no     PAIS    ino    du     tataun.
+\g sa.pt.ca.if-cut   3s.nfa knife.F the.fr nm.nfo wood.o
+\l He used the knife to hack wood.
+
+\t Papidiso'    PAIS    itu  du     kalat.
+\m Pa-pidis-o'    PAIS    itu  du     kalat.
+\g ca-cut-at.if knife.F the.n nm.nfo rope.o
+\l Use the knife to cut rope.
+
+\t P: in :alamba' ni     Jon      TATAUN ino    du     sisirak.
+\m P: in :a-lamba' ni     Jon      TATAUN ino    du     sisirak.
+\g sa.pt.ca.if-hit    Nm.nfa John.nfa wood.F the.fr nm.nfo bird.o
+\l John used the stick to hit the bird.
+
+\t Palambaa'    TATAUN ino    du    dipo    ino!
+\m Pa-lamba-a'    TATAUN ino    du    dipo    ino!
+\g ca-hit-at.if wood.F the.fr nm.nfo snake.o that
+\l Use the stick to hit the snake!
+
+\t P: in :abambang ni     Jon      BATU   ino    du     asu   makaulos ino!
+\m P: in :a-bambang ni     Jon      BATU   ino    du     asu   makaulos ino!
+\g sa.pt.ca.if-throw   Nm.nfa John.nfa rock.F the.fr nm.nfo dog.o der.mad that
+\l John used the rock to throw at that mad dog!
+
+\t Pabambango'    BATU   ino    du     asu   makaulos ino.
+\m Pa-bambang-o'    BATU   ino    du     asu   makaulos ino.
+\g ca-throw-at.if rock.F the.fr nm.nfo dog.o der.mad that
+\l Use the rock to throw at that mad dog!
+
+\t ATU     pangkatuwan mu     du     bunga   ino?
+\m ATU     pang-katuw-an mu     du     bunga   ino?
+\g where.F at-pick-lf 2s.nfa nm.nfo flower.o that
+\l Where is the place you picked that flower?
+
+\t ATU     nangkatuwan ni     Asni     du     kangkong ino?
+\m ATU     nang-katuw-an ni     Asni     du     kangkong ino?
+\g where.F pt-pick-lf Nm.nfa Asni.nfa nm.nfo spinach.o that
+\l Where is the place Asni picked that spinach?
+
+\t TIO' DUGITU pangkatuwan ku     du     bunga   ino.
+\m TIO' DUGITU pang-katuw-an ku     du     bunga   ino.
+\g loc this.F at-pick-lf 1s.nfa nm.nfo flower.o the
+\l Here is the place where I will pick the flower.
+
+\t ATU    TIO' pangibitan mu     dugino?
+\m ATU    TIO' pang-ibit-an mu     dugino?
+\g what.F loc at-take-lf 2s.nfa that
+\l Where is the place you are taking that?
+
+\t SANGGIRAN pangansakan ku?
+\m SANGGIRAN pang-ansak-an ku?
+\g when.F    at-cook-tf 1s.nfa
+\l When is the time for me to cook?
+
+\t Pangansakan muyun SUSUAB.
+\m Pang-ansak-an muyun SUSUAB.
+\g at-cook-tf 2p.nfa tomorrow.F
+\l The time for us to cook is tomorrow.
+
+\t ATU    TIO' manamaalan mu     du     baloy  mu?
+\m ATU    TIO' man-amaal-an mu     du     baloy  mu?
+\g what.F loc npt-build-lf 2s.nfa nm.nfo house.o 2s.pp
+\l Where is the place you will build your house?
+
+\t Manamaalan ku     du     baloy   kuy     TIO' PATIKANG.
+\m Man-amaal-an ku     du     baloy   kuy     TIO' PATIKANG.
+\g npt-build-lf 1s.nfa nm.nfo house.o 1s.pp.r loc Patikang.F
+\l The place I will build my house is there in Patikang.
+
+\t Nanamaalan no     du     baloy   nay     TIO' NABAWAN.
+\m Nan-amaal-an no     du     baloy   nay     TIO' NABAWAN.
+\g pt-build-lf 3s.nfa nm.nfo house.o 3s.pp.r loc Nabawan.F
+\l The place where he built his house is there in NABAWAN.
+
+\t Masarok AKU   matatagan du     buk    kuy     day.
+\m Masarok AKU   ma-tatag-an du     buk    kuy     day.
+\g always 1s.EF npt.af-lose-sp nm.nfo book.o 1s.pp.r there.r
+\l I am the one who is always losing my book someplace.
+
+\t Mansiwan AKU diun. (bansiw)
+\m M-ansiw-an AKU diun. (bansiw)
+\g npt.af.good-sp 1s.F 2s.nfo (good)
+\l I am the one who really likes (feels good about) you.
+
+\t Naiduwan PINIAWON nano.
+\m Na-iduw-an PINIAWON nano.
+\g pt.af-leave-sp breath.F 3s.pp.fr
+\l It is his life that is really gone.
+
+\t Om, sapa    tindalan IYO du      bulud.
+\m Om, sa-pa-    tindal-an IYO du      bulud.
+\g conj one-at.af-flat.land-sp 3s.F nm.nfo hilltop.o
+\l Then, he was the one to actually make a field on the hilltop.
+
+\t Maduolan AKU du      ulu.
+\m Ma-duol-an AKU du      ulu.
+\g npt.af-sick-sp 1s.F nm.nfo head.o
+\l I am the one who is truly sick with a headache
+
+\t Malasuwan AKU.
+\m Ma-lasuw-an AKU.
+\g npt.af-hot-sp 1s.F
+\l I am the one who really feels hot.
+
+\t Masimuwan AKU.
+\m Ma-simuw-an AKU.
+\g npt.af-cold-sp 1s.F
+\l I am the one who is so cold.
+
+\t Naduolan IYO paat IYO inanak.
+\m Na-duol-an IYO paat IYO inanak.
+\g pt.af-sick-sp 3s.F when 3s.F pt.af.born
+\l He was the one who was so sick when he was born.
+
+\t Kai' imad           daki', matutuan TOKOW! (tokow polite; see Appendix B)
+\m Kai' imad           daki', ma-tutu-an TO-KOW! (tokow polite; see Appendix B)
+\g neg at.af.approach 1s.nfo npt.gf-pound-sp 1s.nfa-2s.F
+\l Don't come near me, the place where I pound might be you!
+
+\t Naimad    an ku     IYO.
+\m Na-imad-    an ku     IYO.
+\g pt.rf-approach-sp 1s.nfa 3s.F
+\l She is the one that I actually got near to.
+
+\t Maansakan AKU no      du     lamud.
+\m Ma-ansak-an AKU no      du     lamud.
+\g npt.rf-cook-sp 1s.F 3s.nfa nm.nfo cooked.rice.o
+\l I am the one he is cooking rice for.
+
+\t Natudungan ku     PUNTI    ino.
+\m Na-tudung-an ku     PUNTI    ino.
+\g pt.gf-sit-sp 1s.nfa banana.F the.fr
+\l The place where I sat was right on the banana.
+
+\t Ka maalapan KOW du      bilod.
+\m Ka ma-alap-an KOW du      bilod.
+\g neg npt.rf-get-sp 2s.F nm.nfo unhusked.rice.o
+\l You are the one (that no one) can ever get rice from.
+
+\t Ka maalapan KOW ni      Jon      du     buk.
+\m Ka ma-alap-an KOW ni      Jon      du     buk.
+\g neg npt.rf-get-sp 2s.F Nm.nfa John.nfa nm.nfo book.o
+\l You are the one John can never get books from.
+
+\t Ka maibitan ku     IYO du      lamud.
+\m Ka ma-ibit-an ku     IYO du      lamud.
+\g neg npt.rf-bring-sp 1s.nfa 3s.F nm.nfo cooked.rice.o
+\l She is the one I can't even bring rice to.
+
+\t Masuuwan ni     An      i    RINI.
+\m Ma-suuw-an ni     An      i    RINI.
+\g npt.gf-feed-sp Nm.nfa Ann.nfa Nm.F Rini.F
+\l Rini is the one An can manage to feed.
+
+\t Mabuliyan ku     BUK    itu.
+\m Ma-buliy-an ku     BUK    itu.
+\g npt.rf-keep-sp 1s.nfa book.F this
+\l This book is the one that I can actually keep.
+
+\t Ka naalapan IYO ni      An du      barait        ino.
+\m Ka na-alap-an IYO ni      An du      barait        ino.
+\g neg pt.rf-get-sp 3s.F Nm.nfa Ann nm.nfo back.basket.o that
+\l The one that Ann could never get that back basket from was him.
+
+\t Main tutunan ku     OKOW.
+\m Ma-in- tutun-an ku     OKOW.
+\g npt.rf-des-know-sp 1s.nfa 2s.F
+\l The one that I want to truly know is you.
+
+\t 712l    Nakatuwan mu     noiyo IYO du      paku'         ino? (katu' to pick)
+\m 712l    Na-katuw-an mu     noiyo IYO du      paku'         ino? (katu' to pick)
+\g         pt.rf-pick-sp 2s.nfa com   3s.F nm.nfo edible.fern.o the.fr
+\l Is she the one you have picked the fern for already?
+
+\t 712m    Madusuwan ku     LIAGO   ino?
+\m 712m    Ma-dusuw-an ku     LIAGO   ino?
+\g         npt.rf-swim-sp 1s.nfa river.F that
+\l Is that river a place where I can swim?
+
+\t Soodow, kaduaan, kataluan, kaapatan, kakada'     no   i BOUG   nay.
+\m Soodow, ka-dua-an, ka-talu-an, ka-apat-an, kakada'     no   i BOUG   nay.
+\g one.day da-two-ord da-three-ord da-four-ord at.think.gf 3s.F r trap.F 3s.pp.r
+\l A day (passes), the second, third, fourth, he remembers his trap away off there.
+
+\t Kapo     sodondom no, kaduaan, kataluan, barai'      pakato'.
+\m Kapo     sodondom no, ka-dua-an, ka-talu-an, barai'      pakato'.
+\g neg.ncom one.night com da-two-ord da-three-ord tell.at.rf at.fight.af
+\l It is hardly one night, the second, the third, (they) conspire to go and fight.
+
+\t Kadaraanan, kabuayoian dano,     kai' kalaano'!
+\m Ka-daraan-an, ka-buayoi-an dano,     kai' kalaano'!
+\g da-girl-cpd da-youth-cpd those.f neg at.fear.gf
+\l (Those) young girls, those young men, (they) shouldn't be afraid of (me)!
+
+\t Ma     pasaboy IYO daki' tio' dasawat.
+\m Ma     pa-saboy IYO daki' tio' dasawat.
+\g npt.af.ca-reach 3s.F 1s.nfo loc top
+\l He made me reach the top.
+
+\t Ma     pala laa' KOW daki'.
+\m Ma     pa-la laa' KOW daki'.
+\g npt.af ca-sr.scare 2s.F 1s.nfo
+\l You keep making me scared.
+
+\t Ma     pauyu'uyu' KOW daki'.
+\m Ma     pa-uyu'-uyu' KOW daki'.
+\g npt.af.ca-rr.shame 2s.F 1s.nfo
+\l You are making me more and more ashamed.
+
+\t Na    pakito IYO daki' du       buk    no   dano     dai'.
+\m Na    pa-kito IYO daki' du       buk    no   dano     dai'.
+\g pt.af.ca-see 3s.F 1s.nfo nm.nfo book.o 3p.pp those.fr yesterday.
+\l He let me see those books of his yesterday.
+
+\t Pa    pakito AKU diso.
+\m Pa    pa-kito AKU diso.
+\g at.af.ca-see 1s.F 3s.nfo.
+\l I will let him see it.
+
+\t Ma     patutu AKU diso     du     bagas.
+\m Ma     pa-tutu AKU diso     du     bagas.
+\g npt.af.ca-pound 1s.F 3s.nfo nm.nfo husked.rice.o
+\l I will get her to pound rice.
+
+\t Ma     pakaus IYO daki'.
+\m Ma     pa-kaus IYO daki'.
+\g npt.af.ca-hurt 3s.F 1s.nfo
+\l He makes me feel hurt.
+
+\t Ma     pataak IYO daki' du       buk.
+\m Ma     pa-taak IYO daki' du       buk.
+\g npt.af.ca-give 3s.F 1s.nfo nm.nfo book.o
+\l He is helpfully giving me the book.
+
+\t 72i   Na    paingot   i    TUNI   di     Jon.
+\m 72i   Na    pa-ingot   i    TUNI   di     Jon.
+\g       pt.af.ca-jealous Nm.F Tony.F Nm.nfo John.o
+\l Tony made John feel jealous.
+
+\t Kaansaki' poiyo nu     pangina'        nu   om   akan     noiyo dugino.
+\m Ka-ansak-i' poiyo nu     pangina'        nu   om   akan     noiyo dugino.
+\g after.at-cook-rf ncom nm.nfa der.Mother.nfa 3s.pp conj eat.at.af comp there
+\l After his mother had cooked (for him), then (he) ate there.
+
+\t 73b   Kaiduwi' poiyo ni     Jon      DALAING ino,  pantangi' IYO noiyo.
+\m 73b   Ka-iduw-i' poiyo ni     Jon      DALAING ino,  pantangi' IYO noiyo.
+\g       after.at-leave-rf ncom Nm.nfa John.nfa child.F the.fr at.af.cry 3s.F com
+\l After John had left the child, he cried.
+
+\t Paka padusu' poiyo IRO, pakakito IRO du       dipo.
+\m Paka pa-dusu' poiyo IRO, paka-kito IRO du       dipo.
+\g after.at.af-swim ncom 3p.F at.af.see 3s.F nm.nfo snake.o
+\l After they went swimming, they happened to see a snake.
+
+\t Paka baiya'    poiyo IRO daki' du      kaday,
+\m Paka ba-iya'    poiyo IRO daki' du      kaday,
+\g after.at.af-go.with ncom 3s.F ls.nfo nm.nfo shop.o
+\l After they went with me to the shop,
+
+\t bantaii'    ku     noiyo IRO om          uli'    AKU.
+\m bantaii'    ku     noiyo IRO om          uli'    AKU.
+\g leave.rf.at 1s.nfa com   3s.F conj at.af.go home 1s.F
+\l I left them and I went home.
+
+\t Kai' pantudung du     kiing nu     urobon ino, kah mansiu      makito     nu     ulun.     
+\m Kai' pantudung du     kiing nu     urobon ino, kah mansiu      makito     nu     ulun.     
+\g neg at.af.sit nm.nfo side.o nm.po doorway the  neg npt.af.good npt.gf.see nm.nfa person.nfa
+\l Don't (you) sit by the side of the doorway, (it) is unseemly for people to see (you) there.
+
+\t Mangakan   KAW poiyo, tarandanon      muyun mamiil             du     lamud ino.
+\m Mangakan   KAW poiyo, tarandanon      muyun mamiil             du     lamud ino.
+\g npt.af.eat 2p.F ncom   npt.careful.gf 2p.nfa npt.af.finger.eat nm.nto rice.o the
+\l When you eat now, you take great care when (you) eat rice with your fingers.
+
+\t Kai' KAW insoinso    pangakan, babalan         KAW.
+\m Kai' KAW inso-inso    pangakan, babalan         KAW.
+\g neg 2p.F at.af.hasty at.af.eat sr.npt.af.choke 2p.F
+\l Don't you be gobbling when (you) eat, you might end up choking.
+
+\t Mamaug      KAW garing du      karindu, bagu mangakan.
+\m Mamaug      KAW garing du      karindu, bagu mangakan.
+\g npt.af.wash 2p.F first nm.nto hand.o    then npt.af.eat
+\l You wash your hands first, then (you) eat.
+
+\t Madiyu'     KAW poiyo isasin        muyun INAN    om ULU     muyun dano.
+\m Madiyu'     KAW poiyo isasin        muyun INAN    om ULU     muyun dano.
+\g npt.af.bath 2p.F ncom npt.rf.scrub 2p.nfa body.F and head.F 2p.pp those
+\l When you bathe now, scrub your bodies and those heads of yours.
+
+\t Injagupin       BUROS muyun.
+\m Injagupin       BUROS muyun.
+\g des.wash.npt.rf face.F 2p.pp
+\l (I) want your faces washed clean.
+
+\t Mantudung poiyo, tarandanon      muyun mantudung, sala'
+\m Mantudung poiyo, tarandanon      muyun mantudung, sala'
+\g npt.af.sit ncom, npt.careful.gf 2p.nfa npt.af.sit at.af.mistake
+\l When (you) sit now, you take great care when (you) sit; (you) make a bad mistake
+
+\t kah pororodon        KARAYAM muyun, makasadu    ULUN     mansail.
+\m kah pororodon        KARAYAM muyun, makasadu    ULUN     mansail.
+\g if ca.extend.npt.gf leg.F    2p.nfa npt.af.trip person.F npt.af.pass
+\l if (you) stretch out your legs, a person passing by might trip.
+
+\t Kai' pororodo'!
+\m Kai' pororodo'!
+\g neg ca.extend.at.gf
+\l Don't (you) stretch out (your legs)!
+
+\t Sala'         kah magidu'.
+\m Sala'         kah magidu'.
+\g at.af.mistake if npt.af.run
+\l (You) make a bad mistake if (you) run.
+
+\t Kai' pagidu'!
+\m Kai' pagidu'!
+\g don't at.af.run
+\l Don't (you) let (yourselves) run!
+
+\t Nuoy IRO padusu'.
+\m N-uoy IRO pa-dusu'.
+\g pt.af-go 3p.F at.af-swim
+\l They went swimming.
+
+\t Paka padusu' poiyo IRO, pakakito IRO du      dipo.
+\m Paka pa-dusu' poiyo IRO, paka-kito IRO du      dipo.
+\g after.at.af-swim ncom 3p.F at.af-see 3p.F nm.nfo snake.o
+\l After they went swimming, they happened to see a snake.
+
+\t Pakakito IRO du      dipo,   0uli'    IRO om pagandang   IRO.
+\m Paka-kito IRO du      dipo,   0-uli'    IRO om pa-gandang   IRO.
+\g after.at.af-see 3p.F nm.nfo snake.o at.go-home 3p.F conj at.af-beat.gongs 3p.F
+\l After they saw the snake, they went home and they played gongs.
+
+\t Pagandang    IRO om    padimbay.
+\m Pa-gandang    IRO om    pa-dimbay.
+\g at.af-play.gongs 3p.F conj at.af-sing
+\l They played gongs and sang a song.
+
+\t Paka padimbay poiyo IRO, panginum no IRO du       tapay.
+\m Paka pa-dimbay poiyo IRO, pang-inum no IRO du       tapay.
+\g after.at.af-sing   ncom 3p.F at.af-drink com 3p.F nm.nfo ricewine.o
+\l After they sang a song, they drank rice wine.
+
+\t Paka panginum poiyo IRO, om     pa    nungkamang no IRO om     kolong IRO.
+\m Paka pang-inum poiyo IRO, om     pa    nung-kamang no IRO om     k-olong IRO.
+\g after.at.af-drink ncom 3p.F conj at.af.each-crawl com 3p.F conj at.sleep 3p.F
+\l After they drank, then they crawled off by themselves and went to sleep.
+
+\t Poko kolong poiyo IRO om    0kadat no IRO naduolan        du ulu.
+\m Poko k-olong poiyo IRO om    0-kadat no IRO naduolan        du ulu.
+\g after.at.af-sleep ncom 3p.F conj at.af-wake com 3p.F pt.af.sick.sp nm head.o
+\l After they slept, then they were the ones to wake up sick with a headache.
+
+\t Kakadat poiyo IRO, baiya'    no IRO daki' du      kaday.
+\m Ka-kadat poiyo IRO, ba-iya'    no IRO daki' du      kaday.
+\g after.at.af-wake ncom 3p.F at.af.go.with com 3p.F 1s.nfo nm.nfo shop.o
+\l After they woke up, they went with me to a shop.
+
+\t Paka baiya'    poiyo IRO daki',     bantaii'    ku     noiyo IRO om    0uli'    AKU.   
+\m Paka ba-iya'    poiyo IRO daki',     bantai-i'    ku     noiyo IRO om    0-uli'    AKU.   
+\g after.at.af-go.with ncom 3p.F 1s.nfo leave-at.rf 1s.nfa com   3p.F conj at.af-go.home ls.F
+\l After they went with me, I left them and I went home.
+

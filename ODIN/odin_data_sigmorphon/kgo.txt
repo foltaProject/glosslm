@@ -1,0 +1,55 @@
+\t  nkáa bárákóorà ósúní        ÚU dà kúblé yáìttóN
+\m  nk-áa bárákóorà ósúní        ÚU dà kúblé yá-ìttóN
+\g PL-be        jackal       INF.share    meat   down   COM-rabbit
+\l The jackal and the rabbit share the meat.
+
+\t máa ádÙkwà tìmyáaré                 yátÙnk Úl ÚbáN yásàrí.
+\m m-áa ádÙkwà tìmyáaré                 yá-tÙnk Úl ÚbáN yá-sàrí.
+\g F-be        INF.take    log          with-knife      with-basket
+\l And she takes the log, the knife and the basket.
+
+\t Ááa             káaw ámà       é.
+\m Á-áa             káaw ámà       é.
+\g NEG C ONN :FEM-CO P man INF :reply NEG
+\l Nobody answers.
+
+\t ´ttààtúná                                           áamà máakùrì.        
+\m -´ttà-àtúná                                           áamà m-áakù-rì.        
+\g        C ONN :MASC-NEG C ONN-PERF :find:TRANS        thing GEN-INF3 :eat-INTR
+\l He found nothing to eat.
+
+\t Áàtúná                      súlì é.
+\m Á-àtúná                      súlì é.
+\g NEG C ONN :MASC-PERF :find:TRANS eggs NEG
+\l He did not find any eggs.
+
+\t Á nóoní                      à à ` `ng é.
+\m Á n-óoní                      à à ` `ng é.
+\g  NEG C ONN :1/2-IMPF :know:TRANS I   him NEG
+\l I do not know him.
+
+\t Nákùuy           àà á        sháày é, íllì àlbúnnù .
+\m N-ák-ùuy           àà á        sháày é, íllì àlbúnnù .
+\g 1/2-PRE T-dr ink I      NEG tea NEG but coffee
+\l I did not dr ink tea, but coffee.
+
+\t  Nákùràà?à òonó
+\m  N-ákùrà-à?à òonó
+\g I-scratch-TR I body
+\l I am scratching myself.
+
+\t  Nántànáà?à öötù
+\m  N-ántàná-à?à öötù
+\g I-arrange-TR I head
+\l I am combing myself.
+
+\t Áàtúná                      súlì é.
+\m Á-àtúná                      súlì é.
+\g NEG C ONN :MASC-PERF :find:TRANS eggs NEG
+\l He did not find any eggs.
+
+\t Á nóoní                      à à ` `ng é.
+\m Á n-óoní                      à à ` `ng é.
+\g  NEG C ONN :1/2-IMPF :know:TRANS I   him NEG
+\l I do not know him.
+

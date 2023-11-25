@@ -1,0 +1,20 @@
+\t Mcesgcnna ncBcrhe mcshcf &cdigullu.
+\m Mcesgcnna nc-Bcrhe mcshcf &cdigu-llu.
+\g Mesgenna ANIM-Berhe book sold.3msgSUBJ-3msgIO
+\l Mesgenna sold Berhe a book.
+
+\t Mcesgcnna nc??                     wo.
+\m Mcesgcnna nc-??                     wo.
+\g Mesgenna ANIM-Berhe book gave.3msgSUBJ-3msgDO
+\l Mesgenna gave Berhe a book.
+
+\t ti m mh r           n ti        m t?s af nakim         s d ddlu
+\m ti m mh r           n ti        m t?s af n-akim         s d dd--l-u
+\g  the teacher        ACC.the book            DAT-doctor    sent-he-DAT-him
+\l The teacher s   ent the book to the doctor
+
+\t ti m mh r           n ti        m t?s af nab dm nt n      s d ddo
+\m ti m mh r           n ti        m t?s af nab dm nt n      s d dd-o
+\g  the teacher        ACC.the book            to  Edmont    on      sent-itM
+\l The teacher s   ent the book to Edmonton
+

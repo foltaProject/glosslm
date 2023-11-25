@@ -1,0 +1,915 @@
+\t Shuko       a ­ ka ­ ly ­e mpunga
+\m Shuko       a ­ ka ­ ly ­e mpunga
+\g             agr-fut-eat-fv    rice
+\l Shuko will eat rice
+
+\t a ­ ka ­ ly ­e mpunga             Shuko
+\m a ­ ka ­ ly ­e mpunga             Shuko
+\g agr-fut-eat-fv      rice
+\l Shuko will eat rice
+
+\t a ­ ka ­ ly ­e mpunga
+\m a ­ ka ­ ly ­e mpunga
+\g agr-fut-eat-fv      rice
+\l (someone) will eat rice
+
+\t ka ­ ly ­e mpunga
+\m ka ­ ly ­e mpunga
+\g  fut-eat-fv   rice
+\l (someone) will eat rice
+
+\t Mwana wangu          ni mfupí     ngako
+\m Mwana wangu          ni m-fupí     ngako
+\g child    my          is   agr-short very
+\l My child is very short
+
+\t Matiyae ­ nze mlume wa Tombi
+\m Matiya-e ­ nze mlume wa Tombi
+\g          agr-past-be husband of
+\l Matiya was Tombi's husband
+
+\t Pomba w ­ a ­ y ­ a          na Mumbi
+\m Pomba w ­ a ­ y ­ a          na Mumbi
+\g           agr-past-go-fv with
+\l Pomba went with Mumbi
+
+\t Selina w ­ a ­ lum ­ iw ­ a        na njoka
+\m Selina w ­ a ­ lum ­ iw ­ a        na njoka
+\g          agr-past-bite-pass-fv      by snake
+\l Selina was bitten by a snake
+
+\t Juve w ­ a ­ w ­ a       kuti nga!
+\m Juve w ­ a ­ w ­ a       kuti nga!
+\g        Agr-past-fall-fv thus ID
+\l Juve fell on his bum with a thud
+
+\t T ­ a ­ on ­ a    Mary    a ­ li    phwítítítí!
+\m T ­ a ­ on ­ a    Mary    a ­ li    phwítítítí!
+\g agr-past-see-fv           agr-be ID
+\l We saw Mary at full speed running away from something
+
+\t Khuzwayo w ­ a ­ mw ­ a             manzi
+\m Khuzwayo w ­ a ­ mw ­ a             manzi
+\g                agr-past-drink-fv water
+\l Khuzwayo drank water
+
+\t Shuko     ni     mfupi
+\m Shuko     ni     m-fupi
+\g          cop agr-short
+\l Shuko is short
+
+\t Newo n ­ a ­ cit ­ a ku ­ mu ­ pay ­ il ­ a         nkhuku Shuko
+\m Newo n ­ a ­ cit ­ a ku ­ mu ­ pay ­ il ­ a         nkhuku Shuko
+\g I       agr-past-do-fv inf-him-kill-appl-fv        chicken
+\l I (actually) killed the chicken for Shuko
+
+\t Sewo t ­ u ­ samb ­ a        kuti     ti ­ on ­ an ­ e       na asimbi
+\m Sewo t ­ u ­ samb ­ a        kuti     ti ­ on ­ an ­ e       na asimbi
+\g we    agr-prog-bathe-fv so.that agr-see-recip-fv         with girls
+\l We are having a bath so that we meet with girls
+
+\t Khuzwayo w ­ a ­ ti ­ uzh ­a         kuti ti ­ ka ­ wel ­ e mailo
+\m Khuzwayo w ­ a ­ ti ­ uzh ­a         kuti ti ­ ka ­ wel ­ e mailo
+\g                agr-past-us-tell-fv    that we-fut-come-fv-tomorrow
+\l Khuzwayo told us that we should come tomorrow
+
+\t Ti ­ samb ­ e m'manja        ti ­ ly ­ e matanga
+\m Ti ­ samb ­ e m'manja        ti ­ ly ­ e matanga
+\g we-bathe-fv        in-hands we-eat-fv        pumpkins'
+\l We should wash (our) hands (so that) we eat pumpkins
+
+\t Mwana w ­ a ­ ly ­ a?
+\m Mwana w ­ a ­ ly ­ a?
+\g child        agr-past-eat-fv
+\l Did the child eat?
+
+\t Khuzwayo w ­ a ­ pay ­ a             cinji?
+\m Khuzwayo w ­ a ­ pay ­ a             cinji?
+\g                agr-past-kill-fv      what
+\l What did Khuzwayo kill?
+
+\t Shuko w ­ a ­ ona           ani?
+\m Shuko w ­ a ­ on-a           ani?
+\g            agr-past-see-fv     who
+\l Who did Shuko see?
+
+\t Nîani        wapaya      koswe
+\m Nî-ani        w-a-pay-a      koswe
+\g Foc-who agr-past-kill rat
+\l Who killed the rat?
+
+\t Nicinji     ca ­ w ­ a ­ pay ­ a Khuzwayo
+\m Ni-cinji     ca ­ w ­ a ­ pay ­ a Khuzwayo
+\g Foc-what foc-agr-past-kill-fv
+\l What did Khuzwayo kill?
+
+\t Lítanga   lamene    law ­a ­ pík ­ a      Tombi     ni    liweme
+\m Lítanga   l-amene    la-w ­a ­ pík ­ a      Tombi     ni    li-weme
+\g pumpkin agr-which rel-agr-past-cook-fv                cop agr-nice
+\l The pumpkin which Tombi cooked is nice
+
+\t Lítanga lamene     w ­a ­ pík ­ a        Tombi ni liweme
+\m Lítanga l-amene     w ­a ­ pík ­ a        Tombi ni li-weme
+\g  pumpkin agr-which agr-pst-cook-fv                 cop agr-nice
+\l The pumpkin which Tombi cooked is nice
+
+\t Lítanga lamene     Tombi     law ­a ­ pík ­ a        ni   liweme
+\m Lítanga l-amene     Tombi     la-w ­a ­ pík ­ a        ni   li-weme
+\g  pumpkin agr-which             rel-agr-past-cook-fv cop agr-nice
+\l The pumpkin which Tombi cooked is nice
+
+\t kwakuti              kwakuti
+\m kwa-ku-ti              kwa-ku-ti
+\g LOC:GEN-INF-such LOC:GEN-INF-such
+\l to such and such a (a certain) place
+
+\t yapita        nkalamo yati            nyatunyatu
+\m ya-pita        nkalamo ya-ti            nyatu-nyatu
+\g 9:PERF-pass 9.lion       9:PERF-MIM IDEO.pad-pad
+\l A lion has just passed going pad-pad!
+
+\t akuti       olwala
+\m a-ku-ti       o-lwala
+\g 1-PRS-MIM 1:PRS-be.ill
+\l They say he is ill
+
+\t onena      kuti      olwala
+\m o-nena      kuti      o-lwala
+\g 1:PRS-say COMP 1:PRS-be.ill
+\l They say he is ill
+
+\t John     o­ zi@samb ­ a
+\m John     o­ zi@-samb ­ a
+\g         3sg-refl-wash-fv
+\l  John washes himself
+
+\t Mary ø ­ e ­ zi@ceka
+\m Mary ø ­ e ­ zi@-cek-a
+\g        3sg-past-refl-cut-fv
+\l  Mary cut herself
+
+\t John o ­ zi@mvi@sha@          nsoni
+\m John o ­ zi@-mv-i@sh-a@          nsoni
+\g       3sg-refl-hear-caus-fv shame
+\l  John is ashamed of himself
+
+\t John     ø ­ e ­ zi@ce@neka
+\m John     ø ­ e ­ zi@-ce@nek-a
+\g        3sg-past-refl-destroy-fv
+\l  John destroyed himself
+
+\t (Sewo)     tu ­ zi@nyanya
+\m (Sewo)     tu ­ zi@-nyany-a
+\g we        1pl-refl-hate-fv
+\l  We hate ourselves
+
+\t Peter ø­ e@la@ ­ i@zha@                   Maria.
+\m Peter ø­ e@-la@ ­ i@zh-a@                   Maria.
+\g       3sg-past-speak-caus-fv
+\l  Peter spoke to Maria
+
+\t Maria øe@ o@n ­ a@          bu@ku@ kuvuli     kwake.
+\m Maria ø-e@- o@n ­ a@          bu@ku@ ku-vuli     kwake.
+\g          3sg.past-see-fv book loc-back loc.hers
+\l  Maria saw a book behind her
+
+\t Peter øe@ zi@gu@l ­ i@l ­ a@       bu@ku.
+\m Peter ø-e@- zi@-gu@l ­ i@l ­ a@       bu@ku.
+\g         3sg-past-buy-appl-fv book
+\l  Peter bought the book for himself
+
+\t Y1a. * Peter øe@ u@zha@         mwi@ni@co@zi@ za@         phwando
+\m Y1a. * Peter ø-e@- u@zh-a@         mwi@ni@co@zi@ za@         phwando
+\g                3sg-past-tell-fv    owner       about feast
+\l  Peter told himself about the feast
+
+\t Y1b. *Maria øe@ u@zh ­ a@               Peter mwi@ni@co^zi za@       phwando
+\m Y1b. *Maria ø-e@- u@zh ­ a@               Peter mwi@ni@co^zi za@       phwando
+\g                 3sg.past-tell-fv            owner    about   feast
+\l  Maria told Peter himself about the feast
+
+\t Yc.    mwinicozi w ­ a ­ vwal ­ a
+\m Yc.    mwinicozi w ­ a ­ vwal ­ a
+\g        owner         3sg-perf-dress.up-fv
+\l  She has dressed herself
+
+\t Yd.    mwinicozi w ­ a ­ samb ­ a
+\m Yd.    mwinicozi w ­ a ­ samb ­ a
+\g        owner       3sg-perf-wash-fv
+\l  She has washed herself
+
+\t Y1e. *Shuko o ­ nen ­ a           kuti       Selina ø ­ e ­ on ­ a    yeve mwinicozi
+\m Y1e. *Shuko o ­ nen ­ a           kuti       Selina ø ­ e ­ on ­ a    yeve mwinicozi
+\g                3sg-say-fv      that             3sg-past-see-fv 3sg       
+\l  Shuko says that Selina saw him
+
+\t Y1f.   Khuzwayo ni$      mwi@ni@co@zi@ wa@ nji@nga@ i$yi$
+\m Y1f.   Khuzwayo ni$      mwi@ni@co@zi@ wa@ nji@nga@ i$yi$
+\g                  cop owner            of bicycle this
+\l  Khuzwayo is the owner of this bicycle
+
+\t Etta   ozi@ nyany ­ a
+\m Etta   o-zi@- nyany ­ a
+\g         3sg-refl-hate-fv
+\l  Etta hates herself
+
+\t Etta ozi@ da@ndaul ­ isha
+\m Etta o-zi@- da@ndaul ­ ish-a
+\g        3sg-refl-worry-caus-fv
+\l  Etta worries herself
+
+\t A5     a.    N ­ e@ ­ zi@ ­ on ­ a
+\m A5     a.    N ­ e@ ­ zi@ ­ on ­ a
+\g               agr-past-refl-see-fv
+\l  I saw myself
+
+\t W ­ e@ ­ zi@ ­ cek ­ a
+\m W ­ e@ ­ zi@ ­ cek ­ a
+\g agr-past-refl-cut-fv
+\l  You cut yourself
+
+\t Ti@ ­ ka ­ sa^mb ­ e
+\m Ti@ ­ ka ­ sa^mb ­ e
+\g agr-fut-wash-fv
+\l  We will wash ourselves
+
+\t Ti ­ zi ­ ya^vy ­ e
+\m Ti ­ zi ­ ya^vy ­ e
+\g agr-refl-help-fv
+\l  We must help ourselves
+
+\t A6a. Paul øe@ sa@mb ­ a@         yeka
+\m A6a. Paul ø-e@- sa@mb ­ a@         y-eka
+\g           3sg-past-wash-fv 3sg-alone
+\l  Paul washed himself
+
+\t Paul øe@ vu@l ­ a@              yeka
+\m Paul ø-e@- vu@l ­ a@              y-eka
+\g      3sg-past-undress-fv 3sg-alone
+\l  Paul undressed himself
+
+\t Paul øe@ vwa@l ­ a@        yeka
+\m Paul ø-e@- vwa@l ­ a@        y-eka
+\g      3sg-past-dress-fv 3sg-alone
+\l  Paul dressed himself
+
+\t Paul øe@ me@t ­ a@         yeka
+\m Paul ø-e@- me@t ­ a@         y-eka
+\g      3sg-past-shave-fv 3sg-alone
+\l  Paul shaved himself
+
+\t A6a1. *Peter o@zi@ ­ a@        yeka
+\m A6a1. *Peter o@-zi@ ­ a@        y-eka
+\g            3sg-know-fv   3sg-alone
+\l  Peter knows himself
+
+\t A7     a.     Mlu@mbwa@na@ a@li@ye@nse øe@ zi@lang ­ a
+\m A7     a.     Mlu@mbwa@na@ a@li@ye@nse ø-e@- zi@-lang ­ a
+\g               boy           every      3sg-pst-look-fv
+\l  Every boy looked at himself
+
+\t Azimai onsee@ zi@u@zh ­ a@ za@ John
+\m Azimai onse-e@- zi@-u@zh ­ a@ za@ John
+\g women all     3pl-past-tell-fv        of
+\l  All the women described John to themselves
+
+\t  a@na@        a@yake  ozi@ ya@vy ­ a@eka
+\m  a@na@        a@yake  o-zi@- ya@vy ­ a@-eka
+\g children some       3pl-refl-help-fv 3pl-alone
+\l  Some children only help themselves
+
+\t A10a) Ne@wo@ ne@ la@ i@l ­ a@             na@ Tony mailo.       Ye@ve@ øe@ o@n ­ a@    Lela.
+\m A10a) Ne@wo@ n-e@- la@ i@l ­ a@             na@ Tony mailo.       Ye@ve@ ø-e@- o@n ­ a@    Lela.
+\g       I      1sg-past-speak-fv with       yesterday    He    3sg-past-see         
+\l  I spoke to Tony yesterday. He saw Lela
+
+\t b) Abraham ali@     kuni?      (ne@wo@) ne@ mu@o@n ­ a@           mumsika.
+\m b) Abraham a-li@     ku-ni?      (ne@wo@) n-e@- mu@-o@n ­ a@           mu-msika.
+\g            3sg-be loc-where (I)     1sg-past-3sg-see-fv loc-market
+\l  Where is Abraham? I saw him in the market
+
+\t c) (Se@wo@) te@ ku@on ­ a.            (We@wo@)     we@ ti@on ­ a ?
+\m c) (Se@wo@) t-e@- ku@-on ­ a.            (We@wo@)     w-e@- ti@-on ­ a ?
+\g  We      1pl-past-2sg-see-fv.You.sg 2sg-past-1pl-see-fv
+\l  We saw you. Did you see us?
+
+\t Fa)    Donna ø ­ e ­ vul ­ a                 wewo
+\m Fa)    Donna ø ­ e ­ vul ­ a                 wewo
+\g                 3sg-past-undress-fv 2sg
+\l  Donna undressed you
+
+\t Donna ø ­ e ­ vul ­ a                   wewo weka
+\m Donna ø ­ e ­ vul ­ a                   wewo w-eka
+\g             3sg-past-undress-fv 2sg 2sg-alone
+\l  Donna undressed you alone
+
+\t A11a) azimai  o@o@n ­ an ­ a
+\m A11a) azimai  o@-o@n ­ an ­ a
+\g     Women 3pl-see-recip-fv
+\l  The women see each other
+
+\t b) alu@mbwa@na@e@ sa@mbi@sh ­ an ­ a
+\m b) alu@mbwa@na@-e@- sa@mb-i@sh ­ an ­ a
+\g boys         3pl-past-wash-caus-recip-fv
+\l  The boys washed each other.
+
+\t c) Ma@do@da@e@ pesul ­ an ­ a            sisi
+\m c) Ma@do@da@-e@- pesul ­ an ­ a            sisi
+\g men       3pl-past-comb-recip-fv hair
+\l  The men combed each other's hair.
+
+\t   ­ e@shu@sh ­ an ­ a
+\m   ­ e@-shu@sh ­ an ­ a
+\g 3pl-past-argue-recip-fv
+\l  They argued with each other
+
+\t e) alu@mbwa@na@e@ ti@mb ­ an ­ a
+\m e) alu@mbwa@na@-e@- ti@mb ­ an ­ a
+\g boys         3pl-past-kick-recip-fv
+\l  The boys kicked each other.
+
+\t f)  o@nya@ny ­ an ­ a
+\m f)  o@-nya@ny ­ an ­ a
+\g 3pl-hate-recip-fv
+\l  They hate each other.
+
+\t A12a) Ma@do@da@e@ zi@ ­ i@sh ­ a@na@                     James
+\m A12a) Ma@do@da@-e@- zi@ ­ i@sh ­ a@n-a@                     James
+\g      Men        3pl-past-know-caus-recip-fv
+\l  The men introduced James to each other
+
+\t   o@ye@nda@e@ la@ i@zh ­ an ­ a
+\m   o@ye@nda@-e@- la@ i@zh ­ an ­ a
+\g travelers     3pl-past-talk.to-reci-fv
+\l  The travelers talked to each other
+
+\t c) Azibu@sae@ mvwi@l ­ a@n ­ a@              mbi@li@      za@wo
+\m c) Azibu@sa-e@- mvwi@l ­ a@n ­ a@              mbi@li@      za@wo
+\g   priests     3pl-past-listen-recip-fv stories their
+\l  The priests heard stories about each other
+
+\t de@ si@y ­ i@l ­ a@n ­ a@                mpha@so@ ku@ntha@ngu kwa@wo
+\m d-e@- si@y ­ i@l ­ a@n ­ a@                mpha@so@ ku@-ntha@ngu kwa@wo
+\g  3pl-past-leave-appl-recip-fv presents loc-front       their
+\l  They left presents in front of each other
+
+\t A13a) Te o@n ­ an ­ a
+\m A13a) T-e- o@n ­ an ­ a
+\g       1pl-past-see-recip-fv
+\l  We saw each other
+
+\t b) Muko^ yavy ­ an ­ a
+\m b) Mu-ko^- yavy ­ an ­ a
+\g   2pl-imp-help-recip-fv
+\l  You (pl) must help each other
+
+\t  Ti$ka sa^mb ­ e               or   Ti@ka zi@sa@mb ­ i@sh ­ e
+\m  Ti$-ka- sa^mb ­ e               or   Ti@-ka- zi@-sa@mb ­ i@sh ­ e
+\g 1pl-fut-wash-fv                    1pl-fut-refl-wash-caus-fv
+\l  We will wash ourselves
+
+\t  Alu@mbwa@na@  a@nyinjie@ ti@mb ­ an ­ a
+\m  Alu@mbwa@na@  a@-nyinji-e@- ti@mb ­ an ­ a
+\g boys          agr-many 3pl-past-kick-recip-fv
+\l  Many boys kicked each other
+
+\t A15a) Paul      øe@ ta@y ­ a@         nsa@pa@to@ za@ke
+\m A15a) Paul      ø-e@- ta@y ­ a@         nsa@pa@to@ za@ke
+\g               3sg-past-lose-fv shoes          his
+\l  Paul lost his shoes
+
+\t Paul øe@ zice@k ­ a@           kwanja
+\m Paul ø-e@- zi-ce@k ­ a@           kwanja
+\g       3sg-past-refl-cut-fv hand
+\l  Paul cut his hand
+
+\t Paul øe@ zi@pi@m ­ a@ kwanja
+\m Paul ø-e@- zi@-pi@m ­ a@ kwanja
+\g        3sg-past-refl-exmine-fv     hand
+\l  Paul examined his hand
+
+\t A17) kuzi@ zi@ ­ i@sh ­ a@             kwa@ Andrew kwe@­ wa@mi@zh ­ a@  mphuzisi
+\m A17) ku-zi@- zi@ ­ i@sh ­ a@             kwa@ Andrew kw-e@­ wa@mi@zh ­ a@  mphuzisi
+\g        Inf-refl-know-caus-fv of                 agr-past-please-fv teacher
+\l  Andrew's introduction of himself impressed the teacher.
+
+\t 3.1A Sam øe zi@lum ­ a
+\m 3.1A Sam ø-e- zi@-lum ­ a
+\g                  3sg-past-refl-bite-fv
+\l  Sam bit himself
+
+\t Maria ø ­ e@ ­ zi@kwa@pu^la
+\m Maria ø ­ e@ ­ zi@-kwa@pu^l-a
+\g        3sg-past-refl-whip-fv
+\l  Maria whipped herself
+
+\t John ø ­     e@ ­ zi@ ­ w ­ ish ­ a
+\m John ø ­     e@ ­ zi@ ­ w ­ ish ­ a
+\g        3sg-past-refl-fall-caus-fv
+\l  John made himself fall
+
+\t John    o­ zi@ye@nd ­ e@l ­ a
+\m John    o­ zi@-ye@nd ­ e@l ­ a
+\g        3sg-refl-walk-applic-fv
+\l  John walks by himself
+
+\t Salome øe zi@lumb ­ a
+\m Salome ø-e- zi@-lumb ­ a
+\g           3sg-past-refl-praise-fv
+\l  Salome praised herself
+
+\t Salome na@ Lazaloe zi@lumb ­ a
+\m Salome na@ Lazalo-e- zi@-lumb ­ a
+\g          and           3pl-past-refl-praise-fv
+\l  Salome and Lazalo praised themselves
+
+\t Juve øe ­ zi@ ­ sa@mb ­ ish ­ a             kumsana
+\m Juve ø-e ­ zi@ ­ sa@mb ­ ish ­ a             ku-msana
+\g         3sg-past-refl-wash-caus-fv   loc-back
+\l  Juve washed himself in the back
+
+\t B10a) ? Libeli a@ku@ ti@     ye@ve@ o@mwvi@k ­ a@          lu@we@me@ nga^ko mu ci
+\m B10a) ? Libeli a@-ku@- ti@     ye@ve@ o@-mwvi@k ­ a@          lu@we@me@ nga^ko mu ci
+\g               3sg-inf-say he     3sg-sound-fv well       more       in        
+\l  Libeli says he sounds better in ciNgoni.
+
+\t Juve øe ­ sa^mb ­ a
+\m Juve ø-e ­ sa^mb ­ a
+\g     3sg-past-wash-fv
+\l  Juve washed himself 
+
+\t .   Juve wa ­ vwa^l ­ a
+\m .   Juve w-a ­ vwa^l ­ a
+\g         3sg-perf-dress-fv
+\l  Juve has dressed himself 
+
+\t Juve wa ­ me^t ­ a
+\m Juve w-a ­ me^t ­ a
+\g     3sg-past-shave-fv
+\l  Juve has shaved himself 
+
+\t .   *Shuko øe ­ u^k ­ a
+\m .   *Shuko ø-e ­ u^k ­ a
+\g               3sg-past-wake.up-fv
+\l  Shuko woke himself up 
+
+\t .     *Shuko øe ­ nkha^l ­ a
+\m .     *Shuko ø-e ­ nkha^l ­ a
+\g                3sg-past-sit-fv
+\l  Shuko sat himself 
+
+\t .     Juve wa ­ vwa^l ­ a
+\m .     Juve w-a ­ vwa^l ­ a
+\g             3sg-perf-dress-fv
+\l  Juve has dressed himself 
+
+\t Juve wa ­ me^t ­ a
+\m Juve w-a ­ me^t ­ a
+\g       3sg-past-shave-fv
+\l  Juve has shaved himself 
+
+\t Juve wa ­ vwal ­ a            yeka
+\m Juve w-a ­ vwal ­ a            y-eka
+\g       3sg-perf-dress-fv     3sg-refl
+\l  Juve has dressed himself 
+
+\t Ma@do^da@e­ zi@­ se@k ­ a@eka
+\m Ma@do^da@-e­ zi@­ se@k ­ a@-eka
+\g men      3pl-past-refl-laugh.at-fv 3pl-refl
+\l  The men laughed at themselves
+
+\t .     Shuko øe@ ­ u@k ­ a@               yeka
+\m .     Shuko ø-e@ ­ u@k ­ a@               y-eka
+\g             3sg-past-wake.up-fv 3sg-refl
+\l  Shuko woke himself up 
+
+\t .     Shuko øe@ ­ nkha@l ­ a@ yeka
+\m .     Shuko ø-e@ ­ nkha@l ­ a@ y-eka
+\g                3sg-past-sit-fv      3sg-refl
+\l  Shuko sat himself 
+
+\t nili   neka
+\m ni-li   n-eka
+\g 1sg-be 1sg-alone
+\l  I am alone
+
+\t Asimbi  alieka
+\m Asimbi  a-li-eka
+\g girls    3pl-be     3pl-alone
+\l  The girls are alone/by themselves
+
+\t N ­ a@ ­ kha@nd ­ a@ ma@nga@ imo@                     yeka
+\m N ­ a@ ­ kha@nd ­ a@ ma@nga@ i-mo@                     y-eka
+\g agr-past-find-fv     mango agr-one agr-only
+\l  I found only one mago
+
+\t Ni ­ ku@ ­ y ­ a@       neka
+\m Ni ­ ku@ ­ y ­ a@       n-eka
+\g agr-inf-go-fv      agr-alone
+\l  I am going alone
+
+\t Juve øe@ ­ zi@ ­ sa@mb ­ ish ­ a              yeka kumsana
+\m Juve ø-e@ ­ zi@ ­ sa@mb ­ ish ­ a              y-eka ku-msana
+\g        3sg-past-refl-wash-caus-fv       3sg-refl loc-back
+\l  Juve washed himself in the back
+
+\t X1    a.       *Shuko     øe timb ­ a
+\m X1    a.       *Shuko     ø-e- timb ­ a
+\g                         3sg-past-hit-fv
+\l  Shuko hit
+
+\t Shuko     øe zi@timb ­ a
+\m Shuko     ø-e- zi@-timb ­ a
+\g          3sg-past-refl-hit-fv
+\l  Shuko hit himself
+
+\t Alu@mbwa@na@e timb ­ a
+\m Alu@mbwa@na@-e- timb ­ a
+\g  boys           3pl-past-hit-fv
+\l  The boys hit
+
+\t d/e.     Alu@mbwa@na@e timb ­ an ­ a
+\m d/e.     Alu@mbwa@na@-e- timb ­ an ­ a
+\g           boys          3pl-past-hit-recip-fv
+\l  The boys hit each other
+
+\t Shuko     øe mu@timb ­ a
+\m Shuko     ø-e- mu@-timb ­ a
+\g           3sg-past-OM-hit-fv
+\l  Shuko hit him
+
+\t Shuko     øe timb ­ a@ Lindiwe
+\m Shuko     ø-e- timb ­ a@ Lindiwe
+\g          3sg-past-hit-fv
+\l  Shuko hit Lindiwe
+
+\t Shuko øe timb ­ a@ yeka
+\m Shuko ø-e- timb ­ a@ y-eka
+\g          3sg-past-hit-fv 3sg-refl
+\l  Shuko hit himself
+
+\t Shuko     øe zi@ti@mb ­ a      yeka
+\m Shuko     ø-e- zi@-ti@mb ­ a      y-eka
+\g          3sg-past-refl-hit-fv 3sg-refl
+\l  Shuko hit himself
+
+\t X2   a.     Shuko     øe sa^mb ­ a
+\m X2   a.     Shuko     ø-e- sa^mb ­ a
+\g                      3sg-past-wash-fv
+\l  Shuko washed (himself)
+
+\t Shuko     øe zi@samb ­ a
+\m Shuko     ø-e- zi@-samb ­ a
+\g          3sg-past-refl-wash-fv
+\l  Shuko washed himself
+
+\t d/e.   Alu@mbwa@na@e@ sa@mb ­ i@sh an ­ a
+\m d/e.   Alu@mbwa@na@-e@- sa@mb ­ i@sh an ­ a
+\g         boys         3pl-past-wash-caus-recip-fv
+\l  The boys washed each other
+
+\t Shuko     øe mu@samb ­ a
+\m Shuko     ø-e- mu@-samb ­ a
+\g           3sg-past-OM-wash-fv
+\l  Shuko washed him
+
+\t Shuko     øe zi@sa@mb ­ i@sh ­ a
+\m Shuko     ø-e- zi@-sa@mb ­ i@sh ­ a
+\g          3sg-past-refl-wash-caus-fv
+\l  Shuko washed himself
+
+\t Alu@mbwa@na@e@ sa@mb ­ an ­ a
+\m Alu@mbwa@na@-e@- sa@mb ­ an ­ a
+\g   boys         3pl-past-wash-recip-fv
+\l  The boys washed each other
+
+\t Shuko øe@ sa@mb ­ a@ yeka
+\m Shuko ø-e@- sa@mb ­ a@ y-eka
+\g          3sg-past-wsh-fv 3sg-refl
+\l  Shuko washed himself
+
+\t Shuko     øe zisamb ­ a    yeka
+\m Shuko     ø-e- zi-samb ­ a    y-eka
+\g          3sg-past-refl-hit-fv 3sg-refl
+\l  Shuko washed himself
+
+\t b) Mumbi     øe zion ­ el ­ a           anyi^na
+\m b) Mumbi     ø-e- zi-on ­ el ­ a           anyi^na
+\g          3sg-past-refl-see-applic-fv his.mother
+\l  Mumbi saw his mother (for himself)
+
+\t Mumbi na@ Shukoe@ o@n ­ a@n ­ a@                anyina@ wawo
+\m Mumbi na@ Shuko-e@- o@n ­ a@n ­ a@                anyina@ wawo
+\g         and         3pl-past-see-recip-fv     mother their
+\l  Mumbi and Shuko saw each other's mother
+
+\t Mumbi na@ Shukoe@ o@n ­ a@            anyina@ wawo
+\m Mumbi na@ Shuko-e@- o@n ­ a@            anyina@ wawo
+\g         and       3pl-past-see-fv    mother their
+\l  Mumbi and Shuko saw their mother
+
+\t R1 * Mumbi na@ Shukoe ­ zi@o@n ­ a@              anyina@ wawo
+\m R1 * Mumbi na@ Shuko-e ­ zi@-o@n ­ a@              anyina@ wawo
+\g            and        3pl-past-refl-see-fv   mother their
+\l  Mumbi and Shuko saw their mother
+
+\t R2 Mumbi na@ Shukoe ­ zi@o@n ­ e@la@               anyina@ wawo
+\m R2 Mumbi na@ Shuko-e ­ zi@-o@n ­ e@l-a@               anyina@ wawo
+\g            and        3pl-past-refl-see-appl-fv    mother their
+\l  Mumbi and Shuko saw their mother for themselves
+
+\t R3 * Mumbi na@ Shukoe ­ zi@o@n ­ a@              anyi^na
+\m R3 * Mumbi na@ Shuko-e ­ zi@-o@n ­ a@              anyi^na
+\g            and        3pl-past-refl-see-fv   mother
+\l  Mumbi and Shuko saw their mother
+
+\t R2 *Mumbi na@ Shukoe ­ zi@o@n ­ e@la@              anyi^na
+\m R2 *Mumbi na@ Shuko-e ­ zi@-o@n ­ e@l-a@              anyi^na
+\g            and        3pl-past-refl-see-appl-fv    mother
+\l  Mumbi and Shuko saw their mother for themselves
+
+\t Mumbi    øe@ o@n ­ a@     anyi^na
+\m Mumbi    ø-e@- o@n ­ a@     anyi^na
+\g     3sg-past-see-fv   his.mother
+\l  Mumbi saw his mother
+
+\t C1a) Mumbi      øe@ zi@on ­ a
+\m C1a) Mumbi      ø-e@- zi@-on ­ a
+\g            3sg-past-refl-see-fv
+\l  Mumbi saw himself
+
+\t c) (Mwe@wo@) mwe@ zi@timb ­ a
+\m c) (Mwe@wo@) mw-e@- zi@-timb ­ a
+\g       you(pl) 2pl-past-refl-hit-fv
+\l  You (pl) hit yourselves
+
+\t  C3c) Msimbi     øe zi@cek ­ a
+\m  C3c) Msimbi     ø-e- zi@-cek ­ a
+\g girl      3sg-past-refl-cut-fv
+\l  The girl cut X
+
+\t C7a) Mary øe twal ­ a          no^ngo kwa@ Tombi
+\m C7a) Mary ø-e- twal ­ a          no^ngo kwa@ Tombi
+\g              3sg-past-deliver-fv pot       to   Tombi
+\l  Mary delivered the pot to Tombi
+
+\t C11') Mary ø ­ e ­ cit ­ ish ­ a@               kuti Hal   a ­ zi ­ on ­ e
+\m C11') Mary ø ­ e ­ cit ­ ish ­ a@               kuti Hal   a ­ zi ­ on ­ e
+\g             3sg-past-do ­ caus-fv        that        3sg-refl-see-fv
+\l  Mary made Hal see himself
+
+\t C13a) Mary øe ­ la il ­ a         na     anyina
+\m C13a) Mary ø-e ­ la il ­ a         na     anyina
+\g              3sg-past-speak-fv with her/his.mother
+\l  Mary spoke with her mother
+
+\t C13a') John          o ­ thand ­ a   anyina
+\m C13a') John          o ­ thand ­ a   anyina
+\g                  3sg-love-fv    his.mother
+\l  John loves his mother
+
+\t C13a".      John o ­ nen ­ a kuti Mary o ­ thand ­ a anyina
+\m C13a".      John o ­ nen ­ a kuti Mary o ­ thand ­ a anyina
+\g             3sg-say-fv that           3sg-love-fv     her.mother
+\l  John says that Mary loves her mother
+
+\t C13a'''.   John o ­ nen ­ a kuti Mary o ­ thand ­ a anyina                   wake
+\m C13a'''.   John o ­ nen ­ a kuti Mary o ­ thand ­ a anyina                   w-ake
+\g            3sg-say-fv that          3sg-love-fv        her.mother 3sg-poss
+\l  John says that Mary loves her mother
+
+\t c) Nick øe ­ la il ­ a         na@        a@bwa@na@  a@ke
+\m c) Nick ø-e ­ la il ­ a         na@        a@bwa@na@  a@ke
+\g         3sg-past-speak-fv with boss          3sg.possess
+\l  Nick spoke to his boss'   (his = Nick) (anaphoric interpretation to Nick is
+
+\t d) Nick øe ­ ik ­ a       bu@ku@ la@ke@                pa the@bulu
+\m d) Nick ø-e ­ ik ­ a       bu@ku@ la@ke@                pa the@bulu
+\g         3sg-past-put-fv book 3sg.posses on table
+\l  Nick put his book on the table'(his = Nick) (anaphoric interpretation to Nick is
+
+\t C13'a) Asimbie ­ mui ­ thyol ­ a        kwanja      mwana   i
+\m C13'a) Asimbi-e ­ mui ­ thyol ­ a        kwanja      mwana   i
+\g     girls   3pl-past-OM-break-fv      hand         child
+\l  The girls broke the child's hand
+
+\t C13'b)      Asimbie ­ mui ­ guz ­ a          malaya      Shuko  i
+\m C13'b)      Asimbi-e ­ mui ­ guz ­ a          malaya      Shuko  i
+\g     girls   3pl-past-OM-break-fv      shirt
+\l  The girls pulled the Shuko's shirt
+
+\t C14a) awisi a Nick o ­ zi@ ­ ku@mbwi^l ­ a
+\m C14a) awisi a Nick o ­ zi@ ­ ku@mbwi^l ­ a
+\g      father of         3sg-refl-admire-fv
+\l  Nick's father admires himself
+
+\t ia.      Maria ø ­ e ­ zi@kwa@pula
+\m ia.      Maria ø ­ e ­ zi@-kwa@pul-a
+\g                3sg-past-refl-whip-fv
+\l  Maria whipped herself
+
+\t ib.      Maria ø ­ e@ ­ kwa@pu@la@ mwa^na
+\m ib.      Maria ø ­ e@ ­ kwa@pu@l-a@ mwa^na
+\g                3sg-past-whip-fv child
+\l  Maria whipped the child
+
+\t iia.     John ø ­      e ­ zi@ ­ w ­ ish ­ a
+\m iia.     John ø ­      e ­ zi@ ­ w ­ ish ­ a
+\g                3sg-past-refl-fall-caus-fv
+\l  John made himself fall
+
+\t John    o­ zi@ye@nd ­ e^l ­ a
+\m John    o­ zi@-ye@nd ­ e^l ­ a
+\g        3sg-refl-walk-applic-fv
+\l  John walks by himself
+
+\t John    o@ ­ ye@nd ­ e@l ­ a mchiza
+\m John    o@ ­ ye@nd ­ e@l ­ a mchiza
+\g        3sg-walk-applic-fv stick
+\l  John walks with a stick
+
+\t C16a) i.          n ­ e ­ zi@ ­ on ­ a
+\m C16a) i.          n ­ e ­ zi@ ­ on ­ a
+\g                   1sg-past-refl-see-fv
+\l  I saw myself
+
+\t t ­ e ­ zi@ ­ on ­ a
+\m t ­ e ­ zi@ ­ on ­ a
+\g 1pl-past-refl-see-fv
+\l  We saw ourselfves
+
+\t mw ­ e ­ zi@ ­ on ­ a
+\m mw ­ e ­ zi@ ­ on ­ a
+\g 2pl-past-refl-see-fv
+\l  You (pl) saw yourselves
+
+\t ø ­ e ­ zi@ ­ on ­ a
+\m ø ­ e ­ zi@ ­ on ­ a
+\g 3sg-past-refl-see-fv
+\l  she saw herself
+
+\t ­ e ­ zi@ ­ on ­ a
+\m ­ e ­ zi@ ­ on ­ a
+\g  3pl-past-refl-see-fv
+\l  They saw themselves
+
+\t  n ­ u ­ zi@ ­ nyany ­ a
+\m  n ­ u ­ zi@ ­ nyany ­ a
+\g 1sg-pres-refl-hate-fv
+\l  I hate myself
+
+\t  n ­ e ­ on ­ a         njo^ka pa@fu@pi na@    newo
+\m  n ­ e ­ on ­ a         njo^ka pa@fu@pi na@    newo
+\g 1sg-past--see-fv snake near     with 1sg
+\l  I saw a snake near me
+
+\t e)i * n ­ u@ ­ ko@nd ­ ew ­ a na@ newo
+\m e)i * n ­ u@ ­ ko@nd ­ ew ­ a na@ newo
+\g    1sg-pres-like-pass-fv     by 1sg
+\l  I am liked by me
+
+\t C18a) mbi@li@       y ­ u ­ zi@ ­ welezh ­ a yeka
+\m C18a) mbi@li@       y ­ u ­ zi@ ­ welezh ­ a y-eka
+\g        history 3sg-pres-refl-repeat-fv     3sg-refl
+\l  history repeats itself
+
+\t nso@mba@ iyi         y ­ u ­ zi@ ­ ly ­ a@          yeka
+\m nso@mba@ iyi         y ­ u ­ zi@ ­ ly ­ a@          y-eka
+\g fish     this 3sg-pres-refl-eat-fv       3sg-refl
+\l  this fish eats itself
+
+\t mchini uwu ø ­ u ­ zi@ ­ cenek ­ a weka
+\m mchini uwu ø ­ u ­ zi@ ­ cenek ­ a w-eka
+\g machine this 3sg-pres-refl-destroy-fv 3sg-refl
+\l  This machine destroys itself
+
+\t C18a') ?mbi@li@         y ­ u ­ zi@ ­ welezh ­ a
+\m C18a') ?mbi@li@         y ­ u ­ zi@ ­ welezh ­ a
+\g           history 3sg-pres-refl-repeat-fv
+\l  history repeats itself
+
+\t C18b') ?nso@mba@ iyi             y ­ u ­ zi@ ­ ly ­ a@
+\m C18b') ?nso@mba@ iyi             y ­ u ­ zi@ ­ ly ­ a@
+\g          fish      this 3sg-pres-refl-eat-fv
+\l  this fish eats itself
+
+\t C18b") nso@mba@ iyi            y ­ u ­ zi@ ­ ly ­ a@       ciphyephye
+\m C18b") nso@mba@ iyi            y ­ u ­ zi@ ­ ly ­ a@       ciphyephye
+\g        fish      this 3sg-pres-refl-eat-fv tail fin
+\l  This fish eats its own tail fin
+
+\t C18'. mipila         y ­ e ­ punth ­ an ­ a         yeka
+\m C18'. mipila         y ­ e ­ punth ­ an ­ a         y-eka
+\g        balls        3pl-past-bump-recip-fv      3pl-alone
+\l  The balls bumped/collided into each other
+
+\t C19a) li@do@da@ li@li@lo@nse l ­ e ­ zi@ ­ on ­ a
+\m C19a) li@do@da@ li@li@lo@nse l ­ e ­ zi@ ­ on ­ a
+\g       Man      every    3sg-past-refl-see-fv
+\l  Every man saw himself
+
+\t  mwa@na@ a@li@ye@nse ø ­ e ­ sa^mb ­ a
+\m  mwa@na@ a@li@ye@nse ø ­ e ­ sa^mb ­ a
+\g child     every     3sg-past-refl-wash-fv
+\l  Every child washed himself
+
+\t  wo@phu@nzila a@li@ye@nse o ­ zi@ ­ nyany ­ a
+\m  wo@phu@nzila a@li@ye@nse o ­ zi@ ­ nyany ­ a
+\g student          every   3sg-refl-hate-fv
+\l  Every student hates himself
+
+\t Azimai  ­ e ­ zi@yavy ­ a
+\m Azimai  ­ e ­ zi@-yavy ­ a
+\g  women 3pl-past-refl-help-fv
+\l  The women helped themselves
+
+\t Khuzwayo na@ Shuko  ­ e ­ zi@ ­ kuman ­ a
+\m Khuzwayo na@ Shuko  ­ e ­ zi@ ­ kuman ­ a
+\g                and        3pl-past-refl-meet-fv
+\l  Khuzwayo and Shuko met each other
+
+\t Khuzwayo na@ Shuko  ­ e ­ zi@ ­ timban ­ a
+\m Khuzwayo na@ Shuko  ­ e ­ zi@ ­ timban ­ a
+\g             and          3pl-past-refl-fight-fv
+\l  Khuzwayo and Shuko fought each other
+
+\t John na@ Mary  ­ e ­ kuman ­ a na@ yeve
+\m John na@ Mary  ­ e ­ kuman ­ a na@ yeve
+\g      and          3pl-past-meet-fv     with 3sg
+\l  John and Mary met (each other) with her
+
+\t azimai      ­ e ­ kuman ­ a          na@ yeve
+\m azimai      ­ e ­ kuman ­ a          na@ yeve
+\g women      3pl-past-meet-fv     with 3sg
+\l  The women met (each other) with her
+
+\t John na@ Mary  ­ e ­ pa ­ an ­ a                    bu@ku@ ili     na@ yeve
+\m John na@ Mary  ­ e ­ pa ­ an ­ a                    bu@ku@ ili     na@ yeve
+\g       and           3pl-past-give-recip-fv book this with 3sg
+\l  John and Mary gave each other this book with her
+
+\t Bill na@ Mary  o ­ ganiz­ a ku@ti@  o ­ kond ­ an ­ a
+\m Bill na@ Mary  o ­ ganiz­ a ku@ti@  o ­ kond ­ an ­ a
+\g    and          3pl-think-fv    that 3pl-like-recip-fv
+\l  Bill and Mary think that they like each other
+
+\t f) Zeke o@ ­ zi ­ a         ku@ti@ Larry o@ ­ ga@niz ­ a@ ku@ti@ Mike o ­  mu@ ­ ko@nd ­ a@ li@ni
+\m f) Zeke o@ ­ zi ­ a         ku@ti@ Larry o@ ­ ga@niz ­ a@ ku@ti@ Mike o ­  mu@ ­ ko@nd ­ a@ li@ni
+\g      3sg-know-fv     that       3sg-think-fv      that      3sg-OM-like-fv NEG                   
+\l  Larry knows that Zeke thinks that Mike does not like him
+
+\t D13a) Zeke ø ­ e ­ nen ­ a ku@ti@ (ye@ve@) ø ­ e ­ zi@ ­ vwalik ­ a
+\m D13a) Zeke ø ­ e ­ nen ­ a ku@ti@ (ye@ve@) ø ­ e ­ zi@ ­ vwalik ­ a
+\g     Zeke 3sg-past-say-fv that (he)           3sg-past-refl-dress-fv
+\l  Zeke said that he dressed himself
+
+\t b) Zeke ø ­ e ­ nen ­ a ku@ti@ (ye@ve@) ø ­ e ­ zi@ ­ cit ­ a
+\m b) Zeke ø ­ e ­ nen ­ a ku@ti@ (ye@ve@) ø ­ e ­ zi@ ­ cit ­ a
+\g Zeke 3sg-past-say-fv that (he)           3sg-past-refl-harm-fv
+\l  Zeke said that he harmed himself
+
+\t D13c) Zeke ø ­ e ­ nen ­ a ku@ti@ (ye@ve@) ø ­ e ­ vwa^l ­ a
+\m D13c) Zeke ø ­ e ­ nen ­ a ku@ti@ (ye@ve@) ø ­ e ­ vwa^l ­ a
+\g      Zeke 3sg-past-say-fv that (he)           3sg-past--dress-fv
+\l  Zeke said that he dressed himself
+
+\t D14a) *Ozzie ø ­ e ­ la il ­ a za@             Harriet kwa@  eve
+\m D14a) *Ozzie ø ­ e ­ la il ­ a za@             Harriet kwa@  eve
+\g              3sg-past-ttalk-fv   about           to   them
+\l  Ozzie talked about Harriet to them
+
+\t Àléndò      àfwíkà
+\m À-léndò      à-fwík-à
+\g 2-visitors SC2.PAST-arrive-FV
+\l (The) guests have arrived
+
+\t Àfwíkà                  àléndò
+\m À-fwík-à                  à-léndò
+\g SC2.PAST-arrive-FV        2-visitors
+\l There have arrived (the) guests
+
+\t Kàtíshà     ówéléngà       mábùkù
+\m Kàtíshà     ó-wéléng-à       má-bùkù
+\g Katisha     SC1.PAST-read-FV 6-books
+\l Katisha was reading books
+
+\t Àfwíkà
+\m À-fwík-à
+\g SC2.past-arrive-FV
+\l They (i.e. the guests) have arrived
+
+\t Àfwíkà,                àléndò
+\m À-fwík-à,                à-léndò
+\g SC2.PAST-arrive-FV       2-guests
+\l They have arrived, the guests
+
+\t Kwàfwíká                           àléndò
+\m Kwà-fwík-á                           à-léndò
+\g SC17.PAST-arrive-FVconj              2-visitors
+\l There have arrived guests
+
+\t Alendo        kwafwika
+\m A-lendo        kwa-fwik-a
+\g 2-visitors      SC17.PAST-arrive-FV
+\l There have arrived guests
+

@@ -1,0 +1,35 @@
+\t chiti         na      ghumubiki pfighuliwa
+\m chi-ti         na      ghumu-biki pfi-ghul-iw-a
+\g 7-chair        and     3-tree        SCd8-buy-pass-fv
+\l The chair and the tree were bought
+
+\t ghumubiki nechikapu               pfighuliwa
+\m ghumu-biki ne-chi-kapu               pfi-ghul-iw-a
+\g 3-tree         and-7-basket          SCd8-buy-pass-fv
+\l The tree and the basket were bought
+
+\t [chiti] EMPH na       ghumubiki chighuliwa
+\m [chi-ti] EMPH na       ghumu-biki chi-ghul-iw-a
+\g 7-chair       and      3-tree        SCd7-buy-pass-fv
+\l The chair and the tree were bought
+
+\t chiti         na      [ghumubiki] EMPH     ughuliwa
+\m chi-ti         na      [ghumu-biki] EMPH     u-ghul-iw-a
+\g 7-chair        and     3-tree                SCd3-buy-pass-fv
+\l The chair and the tree were bought
+
+\t [ichiti] EMPH         na      ghumubiki wanzehe           wachighula
+\m [ichi-ti] EMPH         na      ghumu-biki wanzehe           wa-chi-ghul-a
+\g NP7-chair      and     NP3-tree        elders         SCd2-Ocd7-buy-fv
+\l A chair and a tree the elders bought
+
+\t mayi          kakwambika                           ipfidyo
+\m mayi          ka-kw-ambik-a                           ipfidyo
+\g mother        SCD1.PRES-SM-cook-F            V        food
+\l The mother is cooking food
+
+\t mayi          kapfambika                           ipfidyo
+\m mayi          ka-pf-ambik-a                           ipfidyo
+\g mother        SCD1.PRES-OCD8-cook-FV   food
+\l The mother is cooking food
+

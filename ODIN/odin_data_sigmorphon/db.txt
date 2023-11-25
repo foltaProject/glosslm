@@ -1,0 +1,1575 @@
+\t Bayi barganCORE gambi aPER urga uNUC ba gul        ya a gu   CORE.
+\m Bayi barganCORE gambi aPER urga uNUC ba gul        ya a gu   CORE.
+\g wallaby          mountains speared         man
+\l The man speared the wallaby in the mountains.
+
+\t (1.15)a. Bayi       bargan         bulganØ bagul ya agu     urgau gambia.
+\m (1.15)a. Bayi       bargan         bulgan-Ø ba-gu-l ya a-gu     urga-u gambi-a.
+\g          DET.ABS wallaby-ABS big-ABS DET.ERG man-ERG spear-TNS mountains-LOC
+\l The man speared the big wallaby in the mountains.
+
+\t Ya a gu        urga u gambi a bargan        ba gul bayi        bulgan.
+\m Ya a gu        urga u gambi a bargan        ba gul bayi        bulgan.
+\g man.ERG speared mountains wallaby.ABS DET.ERG DET.ABS big.ABS
+\l The man speared the big wallaby in the mountains.
+
+\t balan        guda       bu an         ba gul yara gu buran
+\m balan        guda       bu an         ba gul yara gu buran
+\g she+ABS dog+ABS descend+PAST he+ERG man+ERG see+PAST
+\l The dog went downhill and was seen by the man
+
+\t bayi       yara      bu an       bulral anyu bagun gudagu
+\m bayi       yara      bu an       bulral anyu bagun gudagu
+\g he+ABS man+ABS descend+PAST see+PAST +ANTI he+ABS dog+DAT
+\l The man went downhill and saw the dog (with antipassive indicator  a-y on the second verb).
+
+\t bayi     yara       bu an      buran ba gul guda
+\m bayi     yara       bu an      buran ba gul guda
+\g he+ABS man+ABS descend+PAST see+PAST he+ERG dog+ABS
+\l The man went downhill and saw the dog (with transitive verb and A argument (yara gu) unexpressed).
+
+\t balan        dugumbil ba gul yara gu balgan.
+\m balan        dugumbil ba gul yara gu balgan.
+\g she+ABS woman+ABS he+ERG man+ERG hit
+\l Man is hitting woman.
+
+\t balan      dugumbil balgan.
+\m balan      dugumbil balgan.
+\g she+ABS woman+ABS hit
+\l woman is being hit [by someone].
+
+\t balan     dugumbil  bani¯u.
+\m balan     dugumbil  bani¯u.
+\g she+ABS woman+ABS come
+\l Woman is coming.
+
+\t Payi        parrkan              pangkul  yarangku jurrkanyu
+\m Payi        parrkan              pang-kul  yarang-ku jurrkanyu
+\g there.ABS wallaby(ABS)           there-ERG man-ERG spear.NONFUT
+\l man is spearing wallaby
+
+\t Payi         yara             paninyu
+\m Payi         yara             paninyu
+\g there(ABS) man(ABS)           come-NONFUT
+\l man is coming
+
+\t bayi waal               baul    ya<au
+\m bayi waal               baul    ya<a-u
+\g   DET      boomerang DET.GEN man-GEN
+\l the man's boomerang
+
+\t uma              yabugu           buran
+\m uma              yabu-gu           bura-n
+\g father-ABS       mother-ERG see-NONFUT
+\l Mother saw father
+
+\t yabu             buralan u  y
+\m yabu             bural-a-n u  y
+\g mother-ABS see-APM-NONFUT (father-DAT)
+\l Mother saw (father)
+
+\t yugu          yarangu          buyban
+\m yugu          yara-ngu          buyba-n
+\g stick-ABS     man-ERG           hide-NONFUT
+\l The man hides the stick.
+
+\t yara          buybayirnyu
+\m yara          buybay-ir-nyu
+\g man-ABS       hide-REFL-NONFUT
+\l The man SE hides. /The man hides something
+
+\t yara          dangaymarinyu
+\m yara          dangaym-ari-nyu
+\g man-ABS       eat-REFL-NONFUT (fruit-DAT)
+\l The man SE eats (the fruit)
+
+\t yabu          buralan u
+\m yabu          bural-a-n u
+\g mother-ABS see-APM-NONFUT (father-DAT)
+\l Mother saw (father)
+
+\t a.         uma banagan u y
+\m a.         uma banaga-n u y
+\g father-ABS return-NONFUT
+\l Father(S) returned
+
+\t uma yabugu buran
+\m uma yabu-gu bura-n
+\g father-ABS mother-ERG see-NONFUT
+\l Mother(A) saw father(O)
+
+\t ana              banagan u y
+\m ana              banaga-n u y
+\g we all-NOM return-NONFUT
+\l We(S) return
+
+\t nyurra           anana             buran.
+\m nyurra           ana-na             bura-n.
+\g you all-NOM we all-ACC              see-NONFUT
+\l You all(A) saw us(O)
+
+\t bayi [ya«a] aNgaymariu
+\m bayi [ya«a] aNgaymariu
+\g NM(ABS):I [`man'(ABS)] `eat':REFL (=-riy):NONFUT
+\l he eats
+
+\t bayi ya«a abandu wagaymariu
+\m bayi ya«a abandu wagaymariu
+\g NM(ABS):I `man'(ABS) `eel':DAT `spear':REFL(=-riy):NONFUT
+\l the man is spearing eels
+
+\t bayi ya«a bangul bargandu urganau.                     
+\m bayi ya«a bangul bargandu urganau.                     
+\g NM(ABS  ):I `man'(ABS) NM:ERG/INST:I `wallaby':ERG/INST      `spear':ay:NONFUT
+\l man is spearing wallaby
+
+\t Bayi yara    bagun dyugumbilgu balgal anyu.
+\m Bayi yara    bagun dyugumbilgu balgal anyu.
+\g man.ABS      woman.DAT             hit.ANTIPASS
+\l The man hit the woman.
+
+\t Numa banagaïu
+\m Numa banaga-ïu
+\g father return-pst
+\l Father returned.
+
+\t yabu NumaNgu buran
+\m yabu Numa-Ngu bura-n
+\g mother father-erg see-pst
+\l Father saw mother.
+
+\t Nana banagaïu
+\m Nana banaga-ïu
+\g 1p return-pst
+\l We returned.
+
+\t ñura banagaïu
+\m ñura banagaïu
+\g 2p return-pst
+\l You returned.
+
+\t ñura ïanana buran
+\m ñura ïana-na bura-n
+\g 2p 1p-acc see-pst
+\l You saw us.
+
+\t ïana ñurana buran
+\m ïana ñura-na bura-n
+\g 1p   2p-acc see-pst
+\l We saw you.
+
+\t yabuØ    banaganyu
+\m yabu-Ø    banaga-nyu
+\g mother-ABS returned-NONFUT
+\l Mother returned.
+
+\t umaØ yabugu                  buran
+\m uma-Ø yabu-gu                  bura-n
+\g father-ABS mother-ERG          saw-NONFUT
+\l Mother saw father.
+
+\t umaØ1 banaganyu         e1 yabugu   buran
+\m uma-Ø1 banaga-nyu         e1 yabu-gu   bura-n
+\g father-ABS return-NONFUT mother-ERG see-NONFUT
+\l Father returned and mother saw (him).
+
+\t yabuØ     umagu            buran
+\m yabu-Ø     uma-gu            bura-n
+\g mother-ABS father-ERG        see-NONFUT
+\l Father saw mother.
+
+\t umaØ buralgnyu                    yabugu
+\m uma-Ø bural-g-nyu                    yabu-gu
+\g father-ABS see-ANTIPASS-NONFUT    mother-DAT
+\l Father saw mother.
+
+\t balan          ugumbilØ ba gul         ya agu   bu an.
+\m balan          ugumbil-Ø ba gul         ya a-gu   bu a-n.
+\g NM:NOM        woman-NOM NM:ERG          man-ERG    see-TNS
+\l The man sees thewoman'.
+
+\t   aa            bayi                ya aØ                      bu an.
+\m   aa            bayi                ya a-Ø                      bu a-n.
+\g ISG:NOM         NM:NOM              man-NOM                     see-TNS
+\l I see theman'.
+
+\t  inda           ayguna           bu an.
+\m  inda           ayguna           bu a-n.
+\g 2SG:NOM        1SG:ACC           see-TNS
+\l You seeme'.
+
+\t  ayguna       ba gul        ya agu    bu an.
+\m  ayguna       ba gul        ya a-gu    bu a-n.
+\g ISG:ACC       NM:ERG        man-ERG     see-TNS.
+\l The man seesme'.
+
+\t   a a/ inda                baniu.
+\m   a a/ inda                bani-u.
+\g 1SG:NOM/2SG:NOM            come-TNS
+\l I am coming/You arecoming'.
+
+\t balan         ugumbilØ                 baniu.
+\m balan         ugumbil-Ø                 bani-u.
+\g NM:NOM       woman-NOM                  come-TNS
+\l The woman iscoming'.
+
+\t balan          ugumbilØ ba gul         ya agu   bu an.
+\m balan          ugumbil-Ø ba gul         ya a-gu   bu a-n.
+\g NM:NOM        woman-NOM NM:ERG          man-ERG    see-TNS
+\l The man sees thewoman'.
+
+\t   aa            bayi                ya aØ                    bu an.
+\m   aa            bayi                ya a-Ø                    bu a-n.
+\g ISG:NOM         NM:NOM              man-NOM                   see-TNS
+\l I see theman'.
+
+\t  inda           ayguna           bu an.
+\m  inda           ayguna           bu a-n.
+\g 2SG:NOM        1SG:ACC           see-TNS
+\l You seeme'.
+
+\t  ayguna       ba gul        ya agu    bu an.
+\m  ayguna       ba gul        ya a-gu    bu a-n.
+\g ISG:ACC       NM:ERG        man-ERG     see-TNS.
+\l The man seesme'.
+
+\t   a a/ inda                            baniu.
+\m   a a/ inda                            bani-u.
+\g 1SG:NOM/2SG:NOM                        come-TNS
+\l I am coming/You arecoming'.
+
+\t balan         ugumbilØ                baniu.
+\m balan         ugumbil-Ø                bani-u.
+\g NM:NOM       woman-NOM                 come-TNS
+\l The woman iscoming'.
+
+\t   uma        banaganyu
+\m   uma        banaga-nyu
+\g father.ABS return-NFUT
+\l Father returned.
+
+\t   uma        yabu�gu buran
+\m   uma        yabu-�gu bura-n
+\g father.ABS mother-ERG see-NFUT
+\l Mother saw father.
+
+\t Nyurra      �anana buran      banaganyu.
+\m Nyurra      �ana-na bura-n      banaga-nyu.
+\g you.all.NOM we.all-ACC see-NONFUT return-NONFUT
+\l =`You saw us and we returned.
+
+\t Yabu          �uma�gu gigan          banagaygu.
+\m Yabu          �uma-�gu giga-n          banaga-ygu.
+\g mother.ABS father-ERG tell-NFUT           return-PURP
+\l Father told Mother       to return.
+
+\t Yabu         �uma�gu gigan              gubi�gu mawali.
+\m Yabu         �uma-�gu giga-n              gubi-�gu mawa-li.
+\g mother.ABS father-ERG tell-NFUT           doctor-ERG examine-PURP
+\l Father told Mother       to be examined by        the doctor.
+
+\t Yabu         �uma�gu gigan         gubi�gu mawali.
+\m Yabu         �uma-�gu giga-n         gubi-�gu mawa-li.
+\g mother.ABS father-ERG tell-NFUT doctor-ERG examine-PURP
+\l Father told Mother to be examined by the doctor.
+
+\t Midigu       aja      palan yibi     buran.
+\m Midi-gu       aja      palan yibi     bura-n.
+\g small-ERG I.NOM that woman see-NFUT
+\l When I was little, I saw that woman.
+
+\t  uma         yabugu buran
+\m  uma         yabu-gu bura-n
+\g father.ABS mother-ERG see-NFUT
+\l Mother saw father.
+
+\t  ana       nyurrana    buran
+\m  ana       nyurra-na    bura-n
+\g we.NOM you.PL-ACC see-NFUT
+\l We saw you.
+
+\t  ana          jaja       amban.
+\m  ana          jaja       amba-n.
+\g we.all.NOM child.ABS hear-NFUT
+\l We heard the child.
+
+\t  anana       jajagu   amban
+\m  ana-na       jaja-gu   amba-n
+\g we.all-ACC child-ERG hear-NFUT
+\l The child heard us.
+
+\t Balan jugumbil     banggul yaranggu balgan    [balan jugumbil] baninyu
+\m Balan jugumbil     banggul yara-nggu balga-n    [balan jugumbil] bani-nyu
+\g F:ABS woman:ABS M:ERG man-ERG hit-NONFUT [F:ABS woman:ABS] come-NONFUT
+\l The man hit the woman and the woman came here.
+
+\t Balan jugumbil     banggul yaranggu balgan  bayi yara                        baninyu
+\m Balan jugumbil     banggul yara-nggu balga-n  bayi yara                        bani-nyu
+\g F:ABS woman:ABS M:ERG man-ERG hit-NONFUT M:ABS man:                      ABS   come-NONFUT
+\l The man hit the woman and the man came here.
+
+\t Bayi yara       baninyu       [bayi yara] bagul jugumbilgu balgalnganyu
+\m Bayi yara       bani-nyu       [bayi yara] bagul jugumbil-gu balgal-nga-nyu
+\g M:ABS man:ABS come-NONFUT [M:ABS man:ABS] F:DAT woman-DAT hit-ANTPAS-NOFUT
+\l The man came here and hit the woman.
+
+\t Bayi        yara         banggun     jugumbiru baran.
+\m Bayi        yara         ba-nggu-n     jugumbi-ru bara-n.
+\g DEM:ACC:I man(^ACC) DEM-ERG-II woman-ERG punch-NF
+\l The woman punched the man.
+
+\t Bayi      yaragarra            balan                jugumbilgarra          baralbaralnbarrinyu.
+\m Bayi      yara-garra            bala-n                jugumbil-garra          baralbaral-nbarri-nyu.
+\g DEM:NOM:I man-one.of.pair(^NOM) DEM:NOM-II            woman-one.of.pair(^NOM) punch:REDUP-RECIP-NF  
+\l The man and the woman punched one another.
+
+\t Balam      wudyuØ
+\m Balam      wudyu-Ø
+\g NM.ABS     fruit-ABS NM.ERG man-ERG eat-NFUT
+\l The man   is eating the fruit.
+
+\t Bayi
+\m Bayi
+\g NM.ABS     man-ABS eat-ANTI-NFUT            NM.DAT fruit-DAT
+\l The man   is eating (fruit).
+
+\t Balam mira        bagul ya agu wugan                       dyugumbiu.
+\m Balam mira        bagul ya a-gu wuga-n                       dyugumbi-u.
+\g NM      beans.ABS NM man-DAT give-TNSNM                      woman-ERG
+\l The woman gave some beans to the man.
+
+\t Balan dyugumbil ba gum miradyu wugala u    bagul ya agu.
+\m Balan dyugumbil ba gum mira-dyu wugal-a- u    bagul ya a-gu.
+\g NM woman.ABS NM beans-INST give-ANTI-TNSNM man-DAT
+\l The woman gave some beans to the man.
+
+\t   ayi ya a     b       mira        wugan                          dyugumbiu.
+\m   ayi ya a     b       mira        wuga-n                          dyugumbi-u.
+\g NM man.ABS NM           beans-INSTgive-TNS NM                      woman-ERG
+\l The woman gave the man some beans.
+
+\t Bayi         ya aØ walmau way dyili.
+\m Ba-yi         ya a-Ø walma-u way dyi-li.
+\g DEIC-ABS.I man-ABS get.up-TNS go.uphill-PURP
+\l The man got up to go uphill.
+
+\t Balan       yabuØ        bagul umagu gigan banagaygu.
+\m Ba-la-n       yabu-Ø        ba-gu-l uma-gu giga-n banagay-gu.
+\g DEIC-ABS-II mother-ABS DEIC-ERG-I father-ERG tell-TNS return-PURP
+\l Father told mother to return.
+
+\t bayi     burrbula ba gul gubigu  baran     __ bajigu
+\m bayi     burrbula ba gul gubi-gu  bara-n     __ baji-gu
+\g I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT    fall.down-PURP
+\l The doctor punched Burrbulai and __i fell down.
+
+\t Naja bayi yara                gigan     gubigu mawali                                           ¡   ¢
+\m Naja bayi yara                giga-n     gubi-gu mawa-li                                           ¡   ¢
+\g I.NOM I.ABS.TH man.ABS tell-NFUT doctor-ERG examine-PURP
+\l I told the man to be examined by the doctor.
+
+\t bayi     yara       walmanu
+\m bayi     yara       walmanu
+\g I.ABS.TH man.ABS got up
+\l The man got up.
+
+\t bayi     yara       wayndin
+\m bayi     yara       wayndin
+\g I.ABS.TH man.ABS went uphill
+\l The man went uphill.
+
+\t [ bayi   burrbula baNgul gubiNgu  baran ]   [ __ bajigu ]
+\m [ bayi   burrbula baNgul gubi-Ngu  bara-n ]   [ __ baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT      fall.down-PURP
+\l The doctor punched Burrbulai and __i fell down.
+
+\t Bayi yara            walNgarra [ Nabaygu ]
+\m Bayi yara            walNgarra [ Naba-ygu ]
+\g I.ABS.TH man.ABS want-NFUT bathe-PURP
+\l The man wanted [ to bathe ].
+
+\t Naja bayi yara                  gigan    [ gubiNgu mawali ]
+\m Naja bayi yara                  giga-n    [ gubi-Ngu mawa-li ]
+\g I.NOM I.ABS.TH man.ABS tell-NFUT doctor-ERG examine-PURP
+\l I told the man to be examined by the doctor.
+
+\t bayi      yara      walmanu
+\m bayi      yara      walmanu
+\g I.ABS.TH man.ABS got up
+\l The man got up.
+
+\t bayi     yara       wayndin
+\m bayi     yara       wayndin
+\g I.ABS.TH man.ABS went uphill
+\l The man went uphill.
+
+\t      bayi yara                  walngarra            [ Nabaygu ]
+\m      bayi yara                  walngarra            [ Naba-ygu ]
+\g I.ABS.TH man.ABS               want-NFUT             bathe-PURP
+\l The man wanted to bathe.
+
+\t      bayi yara                  walNgarra                [ baNgun yibiNgu                         burali ]
+\m      bayi yara                  walNgarra                [ baNgun yibi-Ngu                         bura-li ]
+\g I.ABS.TH man.ABS               want-NFUT             II.ERG.TH woman-ERG                          see-PURP
+\l The man wanted the woman to see him.
+
+\t    bayi    yara miyandaNu               yanu
+\m    bayi    yara miyanda-Nu               yanu
+\g I.ABS.TH man.ABS laugh-REL             go.NFUT
+\l The man who was laughing went.
+
+\t  balan yibi baNgul yaraNgu miyandaNuru                buran
+\m  balan yibi baNgul yara-Ngu miyanda-Nu-ru                bura-n
+\g woman.ABS      man-ERG       laugh-REL-ERG              see-NFUT
+\l The man who was laughing saw the woman.
+
+\t bayi yara          jilwal                                                       gudagu yanu
+\m bayi yara          jilwal                                                       guda-gu yanu
+\g man.ABS             kick-ANTIP-REL                  dog-DAT go.NFUT
+\l The man who kicked the dog went.
+
+\t Bayi yara        walngarra [ nabaygu ]
+\m Bayi yara        walngarra [ naba-ygu ]
+\g I.ABS.TH man.ABS want-NFUT bathe-PURP
+\l The man wanted [ to bathe ].
+
+\t Naja bayi yara             gigan     [ gubingu mawali ]
+\m Naja bayi yara             giga-n     [ gubi-ngu mawa-li ]
+\g  I.NOM I.ABS.TH man.ABS tell-NFUT doctor-ERG examine-PURP
+\l I told the man to be examined by the doctor.
+
+\t (10) [ bayi   burrbula bangul gubingu  baran ]   [ bajigu ]
+\m (10) [ bayi   burrbula bangul gubi-ngu  bara-n ]   [ baji-gu ]
+\g      I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT    fall.down-PURP
+\l The doctor punched Burrbulai and i fell down.
+
+\t      bayi yara                    walngarra               [ nabaygu ]
+\m      bayi yara                    walngarra               [ naba-ygu ]
+\g I.ABS.TH man.ABS                 want-NFUT               bathe-PURP
+\l The man wanted to bathe.
+
+\t      bayi yara        walngarra                  [ buralnaygu       bagun yibigu ]
+\m      bayi yara        walngarra                  [ bural-na-ygu       bagun yibi-gu ]
+\g I.ABS.TH man.ABS     want-NFUT                     see-ANTIP-PURP II.DAT.TH woman-DAT
+\l The man wanted to see the woman.
+
+\t ngaja paninyu
+\m ngaja paninyu
+\g I-nom come-fut
+\l I'm coming.
+
+\t ngaja nginuna palkan
+\m ngaja nginuna palkan
+\g I-nom you-acc hit-nfut
+\l I'm hitting you.
+
+\t ngaja payiyarapalkan
+\m ngaja payiyarapalkan
+\g I-nom there-absman-abs hit-fut
+\l I am hitting man.
+
+\t ngaykuna     pangkul yarangku palkan
+\m ngaykuna     pangkul yarangku palkan
+\g I-acc   there-erg man-erg   hit-nfut
+\l Man is hitting me.
+
+\t payiparrkan pangkul yarangku jurrkanyu
+\m payiparrkan pangkul yarangku jurrkanyu
+\g there-abswallaby-abs there-erg man-erg spear-nfut
+\l Man is spearing wallaby.
+
+\t yabu          banaganyu
+\m yabu          banaga-nyu
+\g mother.ABS return-NFUT
+\l Mother returned.
+
+\t   uma        yabugu buran
+\m   uma        yabu-gu bura-n
+\g father.ABS mother-ERG see-NFUT
+\l Mother saw father.
+
+\t nyurra         banaganyu
+\m nyurra         banaga-nyu
+\g you.PL.NOM return-NFUT
+\l You returned.
+
+\t nyurra           anana   buran
+\m nyurra           ana-na   bura-n
+\g you.PL.NOM we-ACC see-NFUT
+\l You saw us.
+
+\t  ana       nyurrana     buran
+\m  ana       nyurra-na     bura-n
+\g we.NOM you.PL-ACC see-NFUT
+\l We saw you.
+
+\t  ana         jaja        amban.
+\m  ana         jaja        amba-n.
+\g we.all.NOM child.ABS hear-NFUT
+\l We heard the child.
+
+\t  anana      jajagu   amban
+\m  ana-na      jaja-gu   amba-n
+\g we.all-ACC child-ERG hear-NFUT
+\l The child heard us.
+
+\t Midigu      aja      palan yibi    buran.
+\m Midi-gu      aja      palan yibi    bura-n.
+\g small-ERG I.NOM that woman see-NFUT
+\l When I was little, I saw that woman.
+
+\t   uma        banaganyu      yabugu buran
+\m   uma        banaga-nyu      yabu-gu bura-n
+\g father.ABS return-NFUT mother-ERG see-NFUT
+\l Father returned and mother saw him.
+
+\t   uma        yabugu buran       banaganyu
+\m   uma        yabu-gu bura-n       banaga-nyu
+\g father.ABS mother-ERG see-NFUT return-NFUT
+\l Mother saw father and he returned.
+
+\t  ana      banaganyu    nyurra                         buran
+\m  ana      banaga-nyu    nyurra                         bura-n
+\g we.NOM return-NFUT you.PL.NOM                          see-NFUT
+\l We returned and you saw us.
+
+\t nyurra         anana    buran                        banaganyu
+\m nyurra         ana-na    bura-n                        banaga-nyu
+\g you.PL.NOM we-ACC see-NFUT                             return-NFUT
+\l You saw us and we returned.
+
+\t   uma      [banagau]           yabugu buran.
+\m   uma      [banaga-u]           yabu-gu bura-n.
+\g father.ABS return-REL.ABS mother-ERG see-NFUT
+\l Mother saw Father who was returning.
+
+\t   uma       yabugu [banagau rru] buran.
+\m   uma       yabu-gu [banaga-u- rru] bura-n.
+\g father.ABS mother-ERG return-REL- ERG see-NFUT
+\l Mother, who was returning, saw Father.
+
+\t yabu        [burala         u         umagu] banaganyu.
+\m yabu        [bural-a-         u         uma-gu] banaga-nyu.
+\g mother.ABS see-APASS- REL.ABS father-DAT return-NFUT
+\l Mother, who saw Father, was returning.
+
+\t yaragu mija        wamban          jay un
+\m yara-gu mija        wamba-n          jay u-n
+\g man-ERG house       build-NFUT finish-NFUT
+\l The    man finished    building the house.
+
+\t yaragu mija        wamban            uyman.
+\m yara-gu mija        wamba-n            uyma-n.
+\g man-ERG house       build-NFUT do.properly-NFUT
+\l The    man built the   house properly.
+
+\t   uma        banaganyu       yabugu burali.
+\m   uma        banaga-nyu       yabu-gu bura-li.
+\g father.ABS return-NFUT mother-ERG see-PURP
+\l Father returned in order for Mother to see him.
+
+\t   uma        banaganyu       burala       ygu    yabugu.
+\m   uma        banaga-nyu       bural-a-       ygu    yabu-gu.
+\g father.ABS return-NFUT see-APASS- PURP mother-DAT
+\l Father returned in order to see Mother.
+
+\t bayi yarai baniNu bayi yarai bagu djugumbilgu balgalanu
+\m bayi yarai baniNu bayi yarai bagu djugumbilgu balgalanu
+\g   the man      came     the   man the woman                hit
+\l The man came here and Ø hit the woman.
+
+\t ban mugiyam yanun jayilgu ban banaganyu next year
+\m ban mugiyam yanun jayil-gu ban banaganyu next year
+\g   she Name        go    jail-to    she return
+\l Lillian went to jail, she will return next year.
+
+\t guyhgun           banaganyu         ban wawulaygu                       guyigu       
+\m guyhgun           banaga-nyu         ban wawu-lay-gu                       guyi-gu       
+\g     female ghost return-NON-FUT she fetch-ANTIPASSIVE-PURPOSE              male ghost-DAT
+\l The female ghost returned in order to fetch the male ghost.
+
+\t ginyan     one girl Phyllis ginyan    banban lilbit     birabin gen
+\m ginyan     one girl Phyllis ginyan    ban-ban lilbit     birabin gen
+\g she-here                   she-here she-she a little bit scared also
+\l Phyllis here was a bit scared too.
+
+\t ana                 banagan u   y
+\m ana                 banaga-n u   y
+\g  we all-NOM         return-NONFUT
+\l We(S) return
+
+\t ana                 nyurrana             buran.
+\m ana                 nyurra-na             bura-n.
+\g  we all-NOM         you all-ACC           see-NONFUT
+\l We(A) saw you all(O)
+
+\t uma               banagan u y
+\m uma               banaga-n u y
+\g  father-ABS       return-NONFUT
+\l Father(S) returned
+
+\t uma           yabugu         buran
+\m uma           yabu-gu         bura-n
+\g father-ABS    mother-ERG see-NONFUT
+\l Mother(A) saw father(O)
+
+\t Nganja nginuna buran, baninyu.
+\m Nganja nginuna buran, baninyu.
+\g I.nom you.acc saw, came.here
+\l I saw you and [you/*I] came here.
+
+\t ngadya      bangun      dyugumbiru (bayi yara            balgan) 
+\m ngadya      bangun      dyugumbi-ru (bayi yara            balga-n) 
+\g 1sg(NOM) detII-ERG woman-ERG (detI-ACC man-ACC            hit-PRET)
+\l I, the woman (hit the man)
+
+\t ngadya      balan      dyugumbil (baniyu)
+\m ngadya      balan      dyugumbil (bani-yu)
+\g 1sg(NOM) detII(NOM) woman-(NOM) (come-PRET)
+\l I, the woman, (came)
+
+\t ngayguna balan       dyugumbil (balgan bangul     yaranggu)
+\m ngaygu-na balan       dyugumbil (balga-n bangul     yara-nggu)
+\g 1sg-ACC detII(NOM) woman(NOM) (hit-PRET detI-ERG    man-ERG)  
+\l Me, the woman (the man hit)
+
+\t ad a      bani u   ¡
+\m ad a      bani u   ¡
+\g I.NOM     coming
+\l I am coming.
+
+\t inda             ayguna   balgan
+\m inda             ayguna   balgan
+\g you.NOM        I.ACC      hit
+\l You are hitting me.
+
+\t uma           banaganyu
+\m uma           banaganyu
+\g father.ABS    returned
+\l Father returned.
+
+\t uma           yabu gu     buran
+\m uma           yabu gu     buran
+\g father.ABS    mother.ERG saw
+\l Mother saw father.
+
+\t Burrbulagarra               baninyu
+\m Burrbula-garra               bani-nyu
+\g Burrbula-one.of.a.pair come-NF
+\l Burrbula and another person are coming.
+
+\t Burrbulagarra                  Badibadigarra                baninyu
+\m Burrbula-garra                  Badibadi-garra                baninyu
+\g Burrbula-one.of.a.pair Badibadi-one.of.a.pair come-NF
+\l Burrbula, being one of a pair, and Badibadi, being one of a pair, are coming.
+
+\t Bayi     yara       wal garra [ abaygu ]
+\m Bayi     yara       wal garra [ aba-ygu ]
+\g I.ABS.TH man.ABS want-NFUT bathe-PURP
+\l The man wanted [ to bathe ].
+
+\t Naja bayi            yara       gigan    [ gubigu mawali ]
+\m Naja bayi            yara       giga-n    [ gubi-gu mawa-li ]
+\g I.NOM I.ABS.TH man.ABS tell-NFUT doctor-ERG examine-PURP
+\l I told the man to be examined by the doctor.
+
+\t [ bayi   burrbula ba gul gubigu  baran ]   [ __ bajigu ]
+\m [ bayi   burrbula ba gul gubi-gu  bara-n ]   [ __ baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT      fall.down-PURP
+\l The doctor punched Burrbulai and __i fell down.
+
+\t bayi      yara      walmanu
+\m bayi      yara      walmanu
+\g I.ABS.TH man.ABS got up
+\l The man got up.
+
+\t bayi     yara       wayndin
+\m bayi     yara       wayndin
+\g I.ABS.TH man.ABS went uphill
+\l The man went uphill.
+
+\t bayi     yara       wal garra [ abaygu ]
+\m bayi     yara       wal garra [ aba-ygu ]
+\g I.ABS.TH man.ABS want-NFUT bathe-PURP
+\l The man wanted [ to bathe ].
+
+\t bayi     yara       wal garra [ buralaygu bagun  yibigu ]
+\m bayi     yara       wal garra [ bural-a-ygu bagun  yibi-gu ]
+\g I.ABS.TH man.ABS want-NFUT see-ANTIP-PURP II.DAT.TH woman-DAT
+\l The man wanted [ to see the woman ].
+
+\t yabu          umagu gigan        [ banagaygu ]
+\m yabu          uma-gu giga-n        [ banaga-ygu ]
+\g mother.ABS father-ERG tell-NFUT return-PURP
+\l Father told mother [ to return ].
+
+\t ba uljingu             yaraunyjingu      wugalaygu ]
+\m ba ul-jin-gu             yara-uny-jin-gu      wugal-a-ygu ]
+\g I.GEN.TH-OGEN-DAT man-GEN-OGEN-DAT give-ANTIP-PURP
+\l The gubi told me [ to give the man's boomerangs (to him) ].
+
+\t                     wal garra [ ba gun yibigu burali ]    bayi     yara
+\m                     wal garra [ ba gun yibi-gu bura-li ]    bayi     yara
+\g I.ABS.TH man.ABS want-NFUT II.ERG.TH woman-ERG see-PURP 
+\l The man wanted [ the woman to see him ].
+
+\t   aja bayi          yara     gigan     [ gubigu mawali ]
+\m   aja bayi          yara     giga-n     [ gubi-gu mawa-li ]
+\g I.NOM I.ABS.TH man.ABS tell-NFUT gubi-ERG examine-PURP
+\l I told the man to be examined by the doctor.
+
+\t  umagu yabu              gigan   [ banagaygu ]
+\m  uma-gu yabu              giga-n   [ banaga-ygu ]
+\g father-ERG mother.ABS tell-NFUT return-PURP
+\l Father told mother [ to return ].
+
+\t bayi      yara     walmanu
+\m bayi      yara     walmanu
+\g I.ABS.TH man.ABS got up
+\l The man got up.
+
+\t bayi     yara       wayndin
+\m bayi     yara       wayndin
+\g I.ABS.TH man.ABS went uphill
+\l The man went uphill.
+
+\t nana          banaganyu
+\m nana          banaga-nyu
+\g we.PL.NOM return-NFUT
+\l We returned.
+
+\t nyurra         nanana buran
+\m nyurra         nana-na bura-n
+\g you.PL.NOM we.PL-ACC see-NFUT
+\l You all saw us.
+
+\t nana         nyurrana buran
+\m nana         nyurra-na bura-n
+\g we.PL.NOM you.PL-ACC see-NFUT
+\l We saw you all.
+
+\t nyurra          nanana      buran banaganyu
+\m nyurra          nana-na      bura-n banaga-nyu
+\g [ you.PL.NOM we.PL-ACC see-NFUT ] [ return-NFUT ]
+\l You all saw us and (we) returned.
+
+\t Bayi     yara        wal garra [ abaygu ]
+\m Bayi     yara        wal garra [ aba-ygu ]
+\g I.ABS.TH man.ABS want-NFUT bathe-PURP
+\l The man wanted [ to bathe ].
+
+\t Naja bayi            yara       gigan    [ gubigu mawali ]
+\m Naja bayi            yara       giga-n    [ gubi-gu mawa-li ]
+\g I.NOM I.ABS.TH man.ABS tell-NFUT doctor-ERG examine-PURP
+\l I told the man to be examined by the doctor.
+
+\t [ bayi   burrbula ba gul gubigu  baran ]   [ __ bajigu ]
+\m [ bayi   burrbula ba gul gubi-gu  bara-n ]   [ __ baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT      fall.down-PURP
+\l The doctor punched Burrbulai and __i fell down.
+
+\t bayi      yara      walmanu
+\m bayi      yara      walmanu
+\g I.ABS.TH man.ABS got up
+\l The man got up.
+
+\t bayi     yara       wayndin
+\m bayi     yara       wayndin
+\g I.ABS.TH man.ABS went uphill
+\l The man went uphill.
+
+\t (2)a.   yabu          banaganyu
+\m (2)a.   yabu          banaga-nyu
+\g         mother.Abs return-Nonfut
+\l Mother returned.
+
+\t nguma         yabunggu  buran
+\m nguma         yabu-nggu  bura-n
+\g father.Abs    mother-Erg see-Nonfut
+\l Mother saw father.
+
+\t nginda bayi yara     balga
+\m nginda bayi yara     balga
+\g you    man           hit
+\l You hit the man!
+
+\t bayi yara     baNgun dugumbiru balgan
+\m bayi yara     baNgun dugumbi-ru balgan
+\g man           woman-Erg         hit
+\l woman is hitting man
+
+\t (55)a. bala yugu      baNgul yaraNgu        buyban
+\m (55)a. bala yugu      baNgul yara-Ngu        buyban
+\g        stick.Abs      man-Erg                hide
+\l man hides stick
+
+\t bayi yara     buybayiriøu
+\m bayi yara     buyba-yiriøu
+\g man.Abs       hide-Refl
+\l man hides himself
+
+\t (61)a. nguma          banaganyu [           yabunggu     burali]
+\m (61)a. nguma          banaga-nyu [           yabu-nggu     bura-li]
+\g        father.Abs     return-Nonfut (Abs) mother-Erg see-Purp
+\l Father returned in order for mother to see him.
+
+\t nguma          banaganyu [           buralngaygu         yabugu]
+\m nguma          banaga-nyu [           bural-nga-ygu         yabu-gu]
+\g father.Abs     return-Nonfut (Abs) see-AP-Purp              mother-Dat
+\l Father returned in order to see mother.
+
+\t anyja banggul         burrubay        julman                            [bayi          nyalngga        mayiyarraygu]    
+\m anyja banggul         burrubay        julma-n                            [bayi          nyalngga        mayi-yarra-ygu]    
+\g Part Dem.Erg          boil.Abs        squeeze-Nonfut                     Dem.Abs        child.Abs       come.out-begin-Purp
+\l He squeezed the boil, with the result that a male child came out.
+
+\t (64)a. ngana          banaganyu
+\m (64)a. ngana          banaga-nyu
+\g        we.all.Nom return-Nonfut
+\l We returned.
+
+\t nyurra         banaganyu
+\m nyurra         banaga-nyu
+\g you.all.Nom return-Nonfut
+\l You all returned.
+
+\t nyurra                nganana           buran
+\m nyurra                ngana-na           bura-n
+\g you.all.Nom           we.all-Acc         see-Nonfut
+\l You all saw         us.
+
+\t ngana                 nyurrana          buran
+\m ngana                 nyurra-na          bura-n
+\g we.all.Nom            you.all-Acc        see-Nonfut
+\l We saw you          all.
+
+\t xw`il             [naj xwatx'en        hun              ti']
+\m x-w-`il             [naj x-watx'e-n        hun              ti']
+\g 3sAbs.Asp-1sErg-see man 3sAbs.Asp-make-Rel one              this
+\l I saw the man who made this.
+
+\t yibi          njalngangu djilwalnanu        yarangu buran
+\m yibi          njalnga-ngu djilwal-na-nu        yara-ngu bura-n
+\g woman-NOM child-ERG kick-naj-REL-NOM man-ERG see-PRES
+\l The man saw the woman who had kicked the child.
+
+\t [ bayi   burrbula baÆgul gubiÆgu  baran ]   [ __ bajigu ]
+\m [ bayi   burrbula baÆgul gubi-Ægu  bara-n ]   [ __ baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT      fall.down-PURP
+\l The doctor punched Burrbulai and __i fell down.
+
+\t Bayi yara           walÆgarra [ Æabaygu ]
+\m Bayi yara           walÆgarra [ Æaba-ygu ]
+\g I.ABS.TH man.ABS want-NFUT bathe-PURP
+\l The man wanted [ to bathe ].
+
+\t Naja bayi yara                    gigan     [ gubiÆgu mawali ]
+\m Naja bayi yara                    giga-n     [ gubi-Ægu mawa-li ]
+\g I.NOM I.ABS.TH man.ABS tell-NFUT doctor-ERG examine-PURP
+\l I told the man to be examined by the doctor.
+
+\t Numa        yabuNgu     buran         banaganyu
+\m Numa        yabu-Ngu     bura-n         banaga-nyu
+\g father-ABS mother-ERG see-NON.FUT return-NON.FUT
+\l Mother saw father and he (*she) returned.
+
+\t Numa        buralNanyu                  yabugu       banaganyu
+\m Numa        bural-Na-nyu                  yabu-gu       banaga-nyu
+\g father-ABS see-ANTIPASS-NON.FUT mother-DAT return-NON.FUT
+\l Father saw mother and (he) returned.
+
+\t uma yabugu buran
+\m uma yabu-gu bura-n
+\g father-ABS mother-ERG see-NONFUT
+\l Mother saw father
+
+\t yabu(*gu) miyandan u
+\m yabu(*-gu) miyanda-n u
+\g mother-ABS (*ERG) laugh-NONFUT
+\l Mother laughed
+
+\t yabu(*gu) banagan u
+\m yabu(*-gu) banaga-n u
+\g mother-ABS (*ERG) return-NONFUT
+\l Mother returned
+
+\t uma banagan u
+\m uma banaga-n u
+\g    father-ABS return-NONFUT
+\l Father(S) returned
+
+\t  uma yabugu buran
+\m  uma yabu-gu bura-n
+\g father-ABS mother-ERG see-NONFUT
+\l Mother(A) saw father(O)
+
+\t uma yabugu buran
+\m uma yabu-gu bura-n
+\g   father-ABS mother-ERG see-NONFUT
+\l Mother(A) saw father(O)
+
+\t yabu buralan u (umagu)
+\m yabu bural-a-n u (uma-gu)
+\g  mother-ABS see-APM-NONFUT (father-DAT)
+\l Mother(S) saw father
+
+\t yabu banagan u buralan u umagu.
+\m yabu banaga-n u bural-a-n u uma-gu.
+\g  mother-ABS return-NONFUT see-APM-NONFUT father-DAT
+\l father.
+
+\t emakumeak emakumea ikusi du
+\m emakumea-k emakumea ikusi du
+\g   woman-the-ERG woman-the-ABS seen has
+\l The woman(A) saw the woman(O)
+
+\t emakumea erori da
+\m emakumea erori da
+\g woman-the-ABS fallen is
+\l The woman(S) has fallen
+
+\t emakumeak barre egin du
+\m emakumea-k barre egin du
+\g woman-the-ERG laugh done has
+\l The woman(S) has laughed
+
+\t ana                 banagan u
+\m ana                 banaga-n u
+\g  we all-NOM         return-NONFUT
+\l We(S) return
+
+\t ana                 n urrana             buran.
+\m ana                 n urra-na             bura-n.
+\g  we all-NOM         you all-ACC           see-NONFUT
+\l We(A) saw you all(O)
+
+\t uma               banagan u y
+\m uma               banaga-n u y
+\g  father-ABS       return-NONFUT
+\l Father(S) returned
+
+\t uma               yabugu            buran
+\m uma               yabu-gu            bura-n
+\g  father-ABS       mother-ERG see-NONFUT
+\l Mother(A) saw father(O)
+
+\t ana               nyurrana                buran.
+\m ana               nyurra-na                bura-n.
+\g   we all-NOM      you all-ACC             see-NONFUT
+\l We(A) saw you all(O)
+
+\t ana            buralan u      y                 nyurrangu
+\m ana            bural-a-n u      y                 nyurra-ngu
+\g   we all-NOM see-APM-NONFUT                       you all-DAT
+\l We(S) saw you all
+
+\t ana               banagan u   y              buralan u   y                nyurrangu
+\m ana               banaga-n u   y              bural-a-n u   y                nyurra-ngu
+\g we all-NOM        return-NONFUT               see-APM-NONFUT                 you all-DAT
+\l We(S) returned and (S) saw you all
+
+\t ana               buralan u      y                 banagan u y            nyurrangu
+\m ana               bural-a-n u      y                 banaga-n u y            nyurra-ngu
+\g we all-NOM        see-APM-NONFUT                     return-NONFUT           you all-DAT
+\l We(S) saw you all and (S) returned
+
+\t Bayi yara              baninu.
+\m Bayi yara              baninu.
+\g thereI.ABS             man.ABS   coming
+\l A/the man is coming.
+
+\t Balan                   dugumbil        baninu.
+\m Balan                   dugumbil        baninu.
+\g thereII.ABS           woman.ABS    coming
+\l A/the woman is coming.
+
+\t Balan                   dugumbil           bangul    yarangu balgan.
+\m Balan                   dugumbil           bangul    yarangu balgan.
+\g thereII.ABS           woman.ABS       thereI.ERG man.ERG hitting
+\l The man is hitting the woman.
+
+\t Bayi            yara         bangun        dugumbiru balgan.
+\m Bayi            yara         bangun        dugumbiru balgan.
+\g thereI.ABS   man.ABS   thereII.ERG   woman.ERG      hitting
+\l The woman is hitting the man.
+
+\t Bayi        yara         banggun     jugumbiru baran.
+\m Bayi        yara         ba-nggu-n     jugumbi-ru bara-n.
+\g DEM:ACC:I man(^ACC) DEM-ERG-II woman-ERG punch-NF
+\l The woman punched the man.
+
+\t Bayi      yaragarra            balan                jugumbilgarra          baralbaralnbarrinyu.
+\m Bayi      yara-garra            bala-n                jugumbil-garra          baralbaral-nbarri-nyu.
+\g DEM:NOM:I man-one.of.pair(^NOM) DEM:NOM-II            woman-one.of.pair(^NOM) punch:REDUP-RECIP-NF  
+\l The man and the woman punched one another.
+
+\t Bayi        yara         banggun     jugumbiru baran.
+\m Bayi        yara         ba-nggu-n     jugumbi-ru bara-n.
+\g DEM:ACC:I man(^ACC) DEM-ERG-II woman-ERG punch-NF
+\l The woman punched the man.
+
+\t Bayi      yaragarra            balan                jugumbilgarra          baralbaralnbarrinyu.
+\m Bayi      yara-garra            bala-n                jugumbil-garra          baralbaral-nbarri-nyu.
+\g DEM:NOM:I man-one.of.pair(^NOM) DEM:NOM-II            woman-one.of.pair(^NOM) punch:REDUP-RECIP-NF  
+\l The man and the woman punched one another.
+
+\t ana                 banagan u   y
+\m ana                 banaga-n u   y
+\g  we all-NOM         return-NONFUT
+\l We(S) return
+
+\t ana                 nyurrana             buran.
+\m ana                 nyurra-na             bura-n.
+\g  we all-NOM         you all-ACC           see-NONFUT
+\l We(A) saw you all(O)
+
+\t uma               banagan u y
+\m uma               banaga-n u y
+\g  father-ABS       return-NONFUT
+\l Father(S) returned
+
+\t uma           yabugu         buran
+\m uma           yabu-gu         bura-n
+\g father-ABS    mother-ERG see-NONFUT
+\l Mother(A) saw father(O)
+
+\t bayi      ya a      bani u.
+\m bayi      ya a      bani u.
+\g DEM(ABS) man(ABS)         come(NFUT)
+\l The man is coming/came.
+
+\t bayi         ya a         ba gun        ugumbi u       balgan.
+\m bayi         ya a         ba gun        ugumbi u       balgan.
+\g DEM(ABS) man(ABS)         DEM(ERG) woman(ERG)          hit(NFUT)
+\l The woman is hitting/hit the man.
+
+\t Bayi yara      bagun dyugumbilgu balgal anyu.
+\m Bayi yara      bagun dyugumbilgu balgal anyu.
+\g man.ABS        woman.DAT         hit.ANTIPASS
+\l The man hit the woman.
+
+\t Balam     mira¯     baNgun    dyugumbiru wugan                    bagul          yaragu.
+\m Ba-la-m     mira¯     ba-Ngu-n    dyugumbi-ru wuga-n                    ba-gu-l          yara-gu.
+\g DEM-NOM-III    beans      DEM-ERG-II      woman-ERG    give-TNS   DEM-DAT-I   man-DAT
+\l The woman gave the beans to the man.
+
+\t Bayi         yara wugan baNgun                dyugumbiru baNgum               mira¯dyu.
+\m Ba-yi         yara wuga-n ba-Ngu-n                dyugumbi-ru ba-Ngu-m               mira¯-dyu.
+\g DEM-NOM.I     man give-TNS DEM-ERG-II    woman-ERG DEM-INST-I   beans-INST
+\l The woman gave the man beans.
+
+\t bani
+\m bani
+\g come-imp
+\l (You-s/p) come!
+
+\t niï
+\m niï
+\g come-past
+\l (She/you/I/etc) came
+
+\t balangara bayi yara wurgaywurgaybari\u
+\m balangara bayi yara wurgay-wurgay-bari-\u
+\g  two:nom cl man redup-spear-rec-nonfut
+\l The two men are spearing each other
+
+\t Balan                  jugumbil           banggul       yaranggu         nyinayman.
+\m Balan                  jugumbil           banggul       yara-nggu         nyinay-ma-n.
+\g she:abs                woman:abs          he:erg        man-erg           sit-tr-nonfut
+\l The man is sitting with the
+
+\t Balay                  jananggu          bayi          miyandayman.
+\m Balay                  jana-nggu          bayi          miyanday-ma-n.
+\g there                  they-erg           he:abs        laugh-tr-nonfut
+\l They are laughing at the man there
+
+\t Balan                jugumbil          banggul        yaranggu           banggu       yugunggu               balgan.  
+\m Balan                jugumbil          banggul        yara-nggu           banggu       yugu-nggu               balga-n.  
+\g she:abs              woman:abs         he:erg         man-erg             it:erg       stick-erg               hit-nonfut
+\l The man is hitting the woman with a stick.
+
+\t Bala                 yugu              banggul        yaranggu           balgalman         bagun                   jugumbilgu.
+\m Bala                 yugu              banggul        yara-nggu           balga-lma-n         bagun                   jugumbil-gu.
+\g it:abs               stick:abs         he:erg         man-erg             hit-tr-nonfut       she:dat                 woman-dat   
+\l The man is hitting the woman with a stick.
+
+\t Bayi                 nyalngga          banggun        jugumbiru          nyuganaymban           bagum                   jububalagu.
+\m Bayi                 nyalngga          banggun        jugumbi-ru          nyuga-nay-mba-n           bagum                   jububala-gu.
+\g he:abs               boy:abs           she:erg        woman-erg           grind-a/p-tr-nonfut       it:dat                  flour-dat   
+\l The woman is grinding the flour with a boy beside her.
+
+\t uma yabugu buran
+\m uma yabu-gu bura-n
+\g    father-ABS mother-ERG see-NONFUT
+\l Mother(A) saw father(O)
+
+\t nguma        banaganyu
+\m nguma        banaganyu
+\g vader:ABS    kwam.terug
+\l Vader-(S) kwam terug.
+
+\t yabu         banaganyu
+\m yabu         banaganyu
+\g moeder:ABS kwam.terug
+\l Moeder-(S) kwam terug.
+
+\t nguma        yabunggu buran
+\m nguma        yabu-nggu buran
+\g vader:ABS    moeder-ERG zag
+\l Moeder-(A) zag vader-(O).
+
+\t ngana       banaganyu
+\m ngana       banaganyu
+\g wij:NOM kwamen.terug
+\l W ij-(S) kwamen terug.
+
+\t nyurra      banaganyu
+\m nyurra      banaganyu
+\g jullie:NOM kwamen.terug
+\l Jullie-(S) kwamen terug.
+
+\t nyurra      nganana    buran
+\m nyurra      ngana-na    buran
+\g jullie:NOM wij-ACC      zagen
+\l Jullie-(A) zagen ons-(O).
+
+\t a) Balam         miraØ bagun                dyugumbiu wugan bagul  yaagu.
+\m a) Ba-la-m         mira-Ø ba-gu-n                dyugumbi-u wuga-n ba-gu-l  yaa-gu.
+\g    DEIC-ABS-III beans-ABS DEIC-ERG-II woman-ERG give-TNS DEIC-DAT-I man-DAT
+\l The woman [Actor] gave beans [Undergoer] to the man.
+
+\t Bayi      yaaØ wugan bagun            dyugumbiu ba gum           miradyu.
+\m Ba-yi      yaa-Ø wuga-n ba-gu-n            dyugumbi-u ba gum           mira-dyu.
+\g DEIC-ABS.I man-ABS give-TNS DEIC-ERG-II woman-ERG DEIC-INST-III beans-INST
+\l The woman [Actor] gave the man [Undergoer] beans.
+
+\t Numa banaga¯u
+\m Numa banaga-¯u
+\g father return-PAST
+\l Father returned.
+
+\t yabu      NumaNgu      buran
+\m yabu      Numa-Ngu      bura-n
+\g mother father-ERG       see-PAST
+\l Father saw mother.
+
+\t Nana      banaga¯u
+\m Nana      banaga-¯u
+\g 1pl       return-PAST
+\l We returned.
+
+\t Nura      banaga¯u
+\m Nura      banaga-¯u
+\g 2pl       return-PAST
+\l You returned.
+
+\t Nura      Nanana       buran
+\m Nura      Nana-na       bura-n
+\g 2pl       1pl-CM        see-PAST
+\l You saw us.
+
+\t Nana      Nurana       buran
+\m Nana      Nura-na       bura-n
+\g 1pl       2pl-CM        see-PAST
+\l We saw you.
+
+\t nyurra  banagan u    y
+\m nyurra  banaga-n u    y
+\g 2PL.NOM return-NFUT
+\l You all returned.
+
+\t     y    anana
+\m     y    ana-na
+\g 2PL.NOM 1PL-ACC          see-NFUT
+\l You all saw us.
+
+\t  ana        y
+\m  ana        y
+\g 1PL.NOM 2PL-ACC          see-NFUT
+\l W e saw you all.
+
+\t   uma        banagan uy
+\m   uma        banaga-n uy
+\g father.ABS   return-NFUT
+\l Father returned.
+
+\t yabu       banagan u    y
+\m yabu       banaga-n u    y
+\g mother.ABS return-NFUT
+\l Mother returned.
+
+\t   uma        yabugu   buran
+\m   uma        yabu-gu   bura-n
+\g father.ABS   mother.ERG see-NFUT
+\l Mother saw father.
+
+\t yabu         umagu          buran
+\m yabu         uma-gu          bura-n
+\g mother.ABS father.ERG         see-NFUT
+\l Father saw mother.
+
+\t   uma      banagan u  y
+\m   uma      banaga-n u  y
+\g father.ABS return-NFUT
+\l Father returned.
+
+\t   uma      yabugu            buran
+\m   uma      yabu-gu            bura-n
+\g father.ABS mother.ERG          see-NFUT
+\l Mother saw father.
+
+\t [ umai         banagan u]   y    [   i   yabugu   buran ]
+\m [ umai         banaga-n u]   y    [   i   yabu-gu   bura-n ]
+\g  father.ABS    return-NFUT                mother.ERG see-NFUT
+\l Fatheri returned and mother saw (him)i.
+
+\t [ umai         yabugu           buran]     [   i   banaganyu]
+\m [ umai         yabu-gu           bura-n]     [   i   banaga-nyu]
+\g  father.ABS    mother.ERG         see-NFUT            return-NFUT
+\l Mother saw fatheri and (he)i returned.
+
+\t bala       yugu      bangul       yarangu       buyban
+\m bala       yugu      bangul       yara-ngu       buyba-n
+\g IV.ABS     stick(IV) I.ERG        man(I)-ERG     hide-NFUT
+\l The man hides the stick.
+
+\t bayi       yara       buybayirinu
+\m bayi       yara       buyba-yiri-nu
+\g I.ABS      man(I).ABS hide-REFL-NFUT
+\l The man hides himself.
+
+\t [ umai                 y     [   i   yabugu
+\m [ umai                 y     [   i   yabu-gu
+\g  father.ABS   return-NFUT            mother.ERG see-NFUT
+\l Fatheri returned and mother saw (him)i.
+
+\t [ umai          yabugu         buran]        [   i   banaganyu]
+\m [ umai          yabu-gu         bura-n]        [   i   banaga-nyu]
+\g  father.ABS     mother.ERG       see-NFUT               return-NFUT
+\l Mother saw fatheri and (he)i returned.
+
+\t Nganja nginuna buran, baninyu.
+\m Nganja nginuna buran, baninyu.
+\g I.nom you.acc saw, came.here
+\l I saw you and [you/*I] came here.
+
+\t Sonó el teléfono y supo que la iban a matar.    
+\m Sonó el teléfono y supo que la iban a matar.    
+\g rang the telephone and (he/she/it-)knew that her (they-)were-going to kill
+\l The telephone rang and she knew that they were going to kill her.
+
+\t nyurra  banagan u    y
+\m nyurra  banaga-n u    y
+\g 2PL.NOM return-NFUT
+\l You all returned.
+
+\t     y    anana
+\m     y    ana-na
+\g 2PL.NOM 1PL-ACC          see-NFUT
+\l You all saw us.
+
+\t   uma        banagan uy
+\m   uma        banaga-n uy
+\g father.ABS   return-NFUT
+\l Father returned.
+
+\t yabu       banagan u    y
+\m yabu       banaga-n u    y
+\g mother.ABS return-NFUT
+\l Mother returned.
+
+\t   uma        yabugu   buran
+\m   uma        yabu-gu   bura-n
+\g father.ABS   mother.ERG see-NFUT
+\l Mother saw father.
+
+\t yabu         umagu          buran
+\m yabu         uma-gu          bura-n
+\g mother.ABS father.ERG         see-NFUT
+\l Father saw mother.
+
+\t   uma      banagan u  y
+\m   uma      banaga-n u  y
+\g father.ABS return-NFUT
+\l Father returned.
+
+\t   uma      yabugu            buran
+\m   uma      yabu-gu            bura-n
+\g father.ABS mother.ERG          see-NFUT
+\l Mother saw father.
+
+\t [ umai         banagan u]   y    [   i   yabugu   buran ]
+\m [ umai         banaga-n u]   y    [   i   yabu-gu   bura-n ]
+\g  father.ABS    return-NFUT                mother.ERG see-NFUT
+\l Fatheri returned and mother saw (him)i.
+
+\t bala       yugu      bangul       yarangu       buyban
+\m bala       yugu      bangul       yara-ngu       buyba-n
+\g IV.ABS     stick(IV) I.ERG        man(I)-ERG     hide-NFUT
+\l The man hides the stick.
+
+\t bayi       yara       buybayirinu
+\m bayi       yara       buyba-yiri-nu
+\g I.ABS      man(I).ABS hide-REFL-NFUT
+\l The man hides himself.
+
+\t   uma           banaganyu
+\m   uma           banaga-nyu
+\g father.ABS return-NFUT
+\l Father returned.
+
+\t   uma           yabu�gu buran
+\m   uma           yabu-�gu bura-n
+\g father.ABS mother-ERG see-NFUT
+\l Mother saw father.
+
+\t [bayi      burrbulaO baÆgul gubiÆguA baran]       [      S bajigu]      
+\m [bayi      burrbulaO baÆgul gubi-ÆguA bara-n]       [      S baji-gu]      
+\g Dem.Abs Burrbula.Abs Dem.Erg gubi-Erg punch-Nfut             fall.down-Purp
+\l The gubi punched Burrbulai and [hei ] fell down.
+
+\t [Æuma      yabuÆgu buran]
+\m [Æuma      yabu-Ægu buran]
+\g father.Abs mother-Erg saw
+\l Mother saw father.
+
+\t payi       parrkan pangkul yarangku jurrkanyu
+\m payi       parrkan pangkul yara-ngku jurrka-nyu
+\g  CL-Nom wallaby CL-Erg man-Erg       spear-NFUT
+\l The man is spearing the wallaby
+
+\t payi          yara paninyu
+\m payi          yara pani-nyu
+\g  CL-Nom man come-NFUT
+\l The man is coming
+
+\t uma            yabugu      buran      jajagu amban
+\m uma            yabu-gu      bura-n      jaja-gu amba-n
+\g Father-Nom mother-Erg see-NFUT child-Erg hear-NFUT
+\l Mother saw father and the child heard him
+
+\t uma            yabugu      buran      banaganyu
+\m uma            yabu-gu      bura-n      banaga-nyu
+\g Father-Nom mother-Erg see-NFUT return-NONFUT
+\l Mother saw father and he returned
+
+\t uma            banagau          yabugu     buran
+\m uma            banaga-u          yabu-gu     bura-n
+\g Father-Nom return-REL-Nom mother-Erg see-NONFUT
+\l Mother saw father who was returning
+
+\t  yaragu mija wamban
+\m  yara-gu mija wamba-n
+\g man-Erg house build-NFUT
+\l The man built the house
+
+\t         b. yaragu [         mija wamban]         uyman
+\m         b. yara-gu [         mija wamba-n]         uyma-n
+\g man-Erg       PRO    house build-NONFUT do.properly-NONFUT
+\l The man built the house properly
+
+\t payi      parrkan pangkul yarangku jurrkanyu
+\m payi      parrkan pangkul yara-ngku jurrka-nyu
+\g CL-Nom wallaby CL-Erg man-Erg              spear-NFUT
+\l The man is spearing the wallaby
+
+\t  payi          yara paninyu
+\m  payi          yara pani-nyu
+\g CL-Nom man come-NFUT
+\l The man is coming
+
+\t Bayi    ya a b a gu n      dugumbi u        balgan
+\m Bayi    ya a b a gu n      dugumbi u        balgan
+\g Cl-I     man Cl-II.ERG woman.ERG            hit
+\l Woman is hitting man
+
+\t payi       yara           paninyu
+\m payi       yara           pani-nyu
+\g CL(NOM)    man    (NOM)   come-NFUT
+\l The man is coming.
+
+\t payi                parrkan                        pangkul yarangku jurrkanyu
+\m payi                parrkan                        pangkul yara-ngku jurrka-nyu
+\g CL(NOM)             wallaby               (NOM) CL(ERG)    man-ERG    spear-NFUT
+\l The man is spearing the wallaby.
+
+\t payi      yara           paninyu
+\m payi      yara           paninyu
+\g THERE-ABS man-ABS        come-NFUT
+\l man is coming
+
+\t payi      yara           pangkun   jukumpiru palkan
+\m payi      yara           pangkun   jukumpiru palkan
+\g THERE-ABS man-ABS        THERE-ERG woman-ERG hit-NFUT
+\l woman is hitting        man.
+
+\t payi       yara     walmanyu          waynyjili
+\m payi       yara     walmanyu          waynyjili
+\g  THERE-ABS man-ABS get.up-NFUT   [ _ go.uphill-PURP]
+\l man got up [ _ to go uphill]
+
+\t payi     yara     waynyjin       yalu           pangkun tuntungku manjali           
+\m payi     yara     waynyjin       yalu           pangkun tuntungku manjali           
+\g THERE-ABS man-ABS go.uphill-NFUT to.here    [ _ THERE-ERG bird-ERG   point.out-PURP]
+\l man came uphill towards here [(for) the bird to point _ out]
+
+\t Bayi      yaaØ      walmanju waynjdin
+\m Ba-yi      yaa-Ø      walma-nju waynjdi-n
+\g DEIC-ABS man-ABS get.up-TNS go.uphill-TNS
+\l The man got up and went up hill.
+
+\t Bayi       yaaØ      bagun         dugumbiu balgan         badinju     
+\m Ba-yi       yaa-Ø      ba-gun         dugumbi-u balga-n         badi-nju     
+\g DEIC-ABS man-ABS DEIC-ERG woman-ERG hit-TNS                     fall.down-TNS
+\l The woman hit the man and (he) fell down.
+
+\t Bagul    yaagu      balan      dugumbiØ         balgaanju          badinju 
+\m Ba-gul    yaa-gu      ba-la-n      dugumbi-Ø         balga-a-nju          badi-nju 
+\g deic-DAT man-DAT DEIC-ABS woman-ABS                  hit-ANTIPASS-TNS fall.down-TNS
+\l The woman hit the man and (she) fell down.
+
+\t bayi            yara          bagun      dyugumbiru balgan badyinyu.
+\m bayi            yara          bagun      dyugumbiru balga-n badyi-nyu.
+\g DET.sM.NO M man.NO M DET.sF.ERG woman-ERG hit-NFUT fall.down-NFUT
+\l The woman hit the man and he (*she) fell down.
+
+\t [ bayi    burrbula ba gul    gubigu     baran ]      [   bajigu ]
+\m [ bayi    burrbula ba gul    gubi-gu     bara-n ]      [   baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT               fall.down-PURP
+\l The doctor punched Burrbulai and i fell down.
+
+\t    bayi    yara [ miyanda ]u              yanu
+\m    bayi    yara [ miyanda ]-u              yanu
+\g I.ABS.TH man.ABS laugh-REL           go.NFUT
+\l The man who was laughing went.
+
+\t  balan yibi ba gul yaragu [ miyanda ]ur u           buran
+\m  balan yibi ba gul yara-gu [ miyanda ]-u-r u           bura-n
+\g woman.ABS     man-ERG          laugh-REL-ERG          see-NFUT
+\l The man who was laughing saw the woman.
+
+\t bayi yara       [ jilwala]u                gudagu          yanu
+\m bayi yara       [ jilwal-a]-u                guda-gu          yanu
+\g man.ABS           kick-ANTIP-REL               dog-DAT        go.NFUT
+\l The man who kicked the dog went.
+
+\t    bayi burrbula [ ba gul gubigu baran ]      [ bajigu ]
+\m    bayi burrbula [ ba gul gubi-gu bara-n ]      [ baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH gubi-ERG punch-NFUT fall.down-PURP
+\l The gubi punched Burrbulai and (hei) fell down.
+
+\t    bayi    yara   [ yanu ] [ ba gun yibigu        buran ]
+\m    bayi    yara   [ yanu ] [ ba gun yibi-gu        bura-n ]
+\g I.ABS.TH man.ABS go.NFUT II.ERG woman-ERG          see-NFUT
+\l The man went and the woman saw him.
+
+\t      bayi yara        wal garra            [ buralaygu      bagun yibigu ]
+\m      bayi yara        wal garra            [ bural-a-ygu      bagun yibi-gu ]
+\g I.ABS.TH man.ABS     want-NFUT               see-ANTIP-PURP II.DAT.TH woman-DAT
+\l The man wanted to see the woman.
+
+\t      bayi yara        walngarra         [ abaygu ]
+\m      bayi yara        walngarra         [ aba-ygu ]
+\g I.ABS.TH man.ABS     want-NFUT         bathe-PURP
+\l The man wanted to bathe.
+
+\t      bayi yara           wal garra            [ ba gun yibigu     burali ]
+\m      bayi yara           wal garra            [ ba gun yibi-gu     bura-li ]
+\g I.ABS.TH man.ABS        want-NFUT         II.ERG.TH woman-ERG      see-PURP
+\l The man wanted the woman to see him.
+
+\t (18)a. yabu               umagu gigan      [ banagaygu ]
+\m (18)a. yabu               uma-gu giga-n      [ banaga-ygu ]
+\g         mother.ABS father-ERG tell-NFUT return-PURP
+\l Father told mother [ to return ].
+
+\t    nyurra   nanana             buran           banaganyu
+\m    nyurra   nana-na             bura-n           banaga-nyu
+\g you.PL.NOM we.PL-ACC          see-NFUT          return-NFUT
+\l You all saw us and (we) returned.
+
+\t [ bayi    burrbula ba gul    gubigu     baran ]      [   bajigu ]
+\m [ bayi    burrbula ba gul    gubi-gu     bara-n ]      [   baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH doctor-ERG punch-NFUT               fall.down-PURP
+\l The doctor punched Burrbulai and i fell down.
+
+\t  balan yibi ba gul yaragu [ miyanda ]ur u           buran
+\m  balan yibi ba gul yara-gu [ miyanda ]-u-r u           bura-n
+\g woman.ABS     man-ERG          laugh-REL-ERG          see-NFUT
+\l The man who was laughing saw the woman.
+
+\t bayi yara       [ jilwala]u                gudagu          yanu
+\m bayi yara       [ jilwal-a]-u                guda-gu          yanu
+\g man.ABS           kick-ANTIP-REL               dog-DAT        go.NFUT
+\l The man who kicked the dog went.
+
+\t    bayi burrbula [ ba gul gubigu baran ]      [ bajigu ]
+\m    bayi burrbula [ ba gul gubi-gu bara-n ]      [ baji-gu ]
+\g I.ABS.TH B.ABS I.ERG.TH gubi-ERG punch-NFUT fall.down-PURP
+\l The gubi punched Burrbulai and (hei) fell down.
+
+\t    bayi    yara   [ yanu ] [ ba gun yibigu        buran ]
+\m    bayi    yara   [ yanu ] [ ba gun yibi-gu        bura-n ]
+\g I.ABS.TH man.ABS go.NFUT II.ERG woman-ERG          see-NFUT
+\l The man went and the woman saw him.
+
+\t   ba gul gubigu [ bayi burrbula  baran ]      [ bajigu ]
+\m   ba gul gubi-gu [ bayi burrbula  bara-n ]      [ baji-gu ]
+\g I.ERG.TH gubi-ERG I.ABS.TH B.ABS punch-NFUT fall.down-PURP
+\l The gubi j punched Burrbulai and (he j ) fell down.
+
+\t      bayi yara        wal garra            [ buralaygu      bagun yibigu ]
+\m      bayi yara        wal garra            [ bural-a-ygu      bagun yibi-gu ]
+\g I.ABS.TH man.ABS     want-NFUT               see-ANTIP-PURP II.DAT.TH woman-DAT
+\l The man wanted to see the woman.
+
+\t      bayi yara        walngarra         [ abaygu ]
+\m      bayi yara        walngarra         [ aba-ygu ]
+\g I.ABS.TH man.ABS     want-NFUT         bathe-PURP
+\l The man wanted to bathe.
+
+\t      bayi yara           wal garra            [ ba gun yibigu     burali ]
+\m      bayi yara           wal garra            [ ba gun yibi-gu     bura-li ]
+\g I.ABS.TH man.ABS        want-NFUT         II.ERG.TH woman-ERG      see-PURP
+\l The man wanted the woman to see him.
+
+\t (18)a. yabu               umagu gigan      [ banagaygu ]
+\m (18)a. yabu               uma-gu giga-n      [ banaga-ygu ]
+\g         mother.ABS father-ERG tell-NFUT return-PURP
+\l Father told mother [ to return ].
+
+\t     umagu yabu            gigan    [ banagaygu ]
+\m     uma-gu yabu            giga-n    [ banaga-ygu ]
+\g father-ERG mother.ABS tell-NFUT return-PURP
+\l Father told mother [ to return ].
+
+\t Yabu          ngumanggu buraln          banaganyu
+\m Yabu          nguma-nggu bural-n          banaga-nyu
+\g  mother.ABS father-ERG see-NONFUT return-NONFUT
+\l Father saw mother and she returned.
+
+\t Nguma         buralnganyu            yabugu     banaganyu
+\m Nguma         bural-nga-nyu            yabu-gu     banaga-nyu
+\g father.ABS see-ANTIPASS-NONFUT mother-DAT return-NONFUT
+\l Father saw mother andreturned.`
+
+\t Nyurra     nganana buran.
+\m Nyurra     ngana-na bura-n.
+\g 2PL.NOM 1PL.ACC see-NONFUT
+\l You saw us.
+
+\t Nguma       yabunggu     buran.
+\m Nguma       yabu-nggu     bura-n.
+\g father.ABS mother-ERG see-NONFUT
+\l Father saw mother.
+
+\t Nyurra     nganana buran        banaganyu.
+\m Nyurra     ngana-na bura-n        banaga-nyu.
+\g 2PL.NOM 1PL.ACC see-NONFUT return-NONFUT
+\l You saw us and we returned.
+
+\t Ngana      buralnganyu           nyurrangu banaganyu.
+\m Ngana      bural-nga-nyu           nyurra-ngu banaga-nyu.
+\g 1PL.NOM see-ANTIPASS-NONFUT 2SG.DAT           return-NONFUT
+\l We saw you and we returned.
+

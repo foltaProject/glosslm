@@ -1,0 +1,565 @@
+\t Nosi                       mi                go!
+\m Nosi                       mi                go!
+\g carry.2Sg.Imper            1Sg.Dat.Cl        3Sg.Acc.Cl
+\l Carry it for me!
+
+\t Ne       nosi                       mi                go!
+\m Ne       nosi                       mi                go!
+\g Neg      carry.2Sg.Imper            1Sg.Dat.Cl        3Sg.Neut.Acc.Cl
+\l Don't carry it for me!'5
+
+\t Nosi                     mi                go !
+\m Nosi                     mi                go !
+\g carry.2Sg.Imper          1Sg.Dat.Cl        3Sg.Neut.Acc.Cl
+\l Carry it for me!
+
+\t Ne     mi              go                            nosi!
+\m Ne     mi              go                            nosi!
+\g Neg 1Sg.Dat.Cl         3Sg.Neut.Acc.Cl               carry.2Sg.Imper
+\l Don't carry it for me!
+
+\t Ivan ja vikna.
+\m Ivan ja vikna.
+\g   Ivan her call-3sg.Aor
+\l Ivan called her.
+
+\t Vikni          ja!
+\m Vikni          ja!
+\g   call-2sg.Imp her
+\l Call her!
+
+\t Ne vikaj                ja!
+\m Ne vikaj                ja!
+\g Neg call-2sg.Imperf.Imp her
+\l Don't call her!
+
+\t M a.         ,,ovekoti kogoi sto goi vidov ti.
+\m M a.         ,,ovekoti kogoi sto goi vidov ti.
+\g              man     whom that him saw1SG
+\l The man whom I saw
+
+\t Petreta/brata                           ti.
+\m Petreta/brata                           ti.
+\g /Petre+the.M.Sg.Acc/brother.M.Sg.Acc   2Sg.Dat.Cl
+\l I saw Stojan/Petre/your brother.
+
+\t na      Stojana/studentot/edno dete.
+\m na      Stojana/studentot/edno dete.
+\g to      Stojan.Acc/student+the.M.Sg/a boy
+\l I gave the book to Stojan/the student/a boy.
+
+\t Ana/Stojana.
+\m Ana/Stojana.
+\g Ana/Stojan.Acc
+\l We lost Jana's/Stojan's book.
+
+\t masata.
+\m masata.
+\g table+the.F.Sg
+\l I repaired the leg of the table.
+
+\t a   2   mojata               prva                 rabotna              nedela   
+\m a   2   mojata               prva                 rabotna              nedela   
+\g         my.F.Sg+the.F.Sg     first.F.Sg           working.F.Sg         week.F.Sg
+\l my first working week
+
+\t a   2   *DAdov  im                       gi           KNIgite.
+\m a   2   *DAdov  im                       gi           KNIgite.
+\g         give.1Sg.Past 3Pl.Dat.Cl         3Pl.Acc.Cl   books+the.Pl
+\l I have given them the books.
+
+\t b   2       SKInato         mu           e         PALtoto.
+\m b   2       SKInato         mu           e         PALtoto.
+\g             torn.N.Sg       3Sg.M.Dat.Cl is.Cl     coat+the.N.Sg
+\l His coat is torn.
+
+\t pismoto/(*edno pismo)/(*pismo) na deteto/(edno dete)/(*dete).
+\m pismoto/(*edno pismo)/(*pismo) na deteto/(edno dete)/(*dete).
+\g letter+the/(a    letter)/letter    to child+the/(a child)/child
+\l Jana gave the letter/a letter/letter to the child/a child/child.
+
+\t         mi.
+\m         mi.
+\g         1Sg.Dat.Cl
+\l My son got sick.
+
+\t ti.
+\m ti.
+\g 2Sg.Dat.Cl
+\l Your daughter has come to visit him, I hear.
+
+\t vidam/*vidis.
+\m vidam/*vidis.
+\g see.1/2Sg.Perf.Pres
+\l I cannot see him/it.
+
+\t dojde                   vednas.
+\m dojde                   vednas.
+\g come.3Sg.Perf.Pres      immediately
+\l He gave an order for   Marija to come immediately.
+
+\t dades/dadat.
+\m dades/dadat.
+\g give.2Sg/3Pl.Perf.Pres
+\l I want that you/they give it to him.
+
+\t  cueme                 vestite.
+\m  cueme                 vestite.
+\g  hear.1Pl.Perf.Pres    news+the.Pl
+\l We paused in order to hear the news.
+
+\t toa    utre.
+\m toa    utre.
+\g that   tomorrow
+\l He will do that tomorrow.
+
+\t so     Ana.
+\m so     Ana.
+\g with Ana
+\l One can see that you have spoken to Ana.
+
+\t vo     minatoto.
+\m vo     minatoto.
+\g in     past+the.N.Sg
+\l This form is used to express actions that     have taken place before some other actions in the past.
+
+\t imal                 dva       sina.
+\m imal                 dva       sina.
+\g have.M.Sg.l-Part     two       sons
+\l There was a king and he had   two sons.
+
+\t mi.            Ne     bese           doma, na plaza bil.
+\m mi.            Ne     bese           doma, na plaza bil.
+\g 1Sg.Dat.Cl     not    be.3Sg.Past at home on        beach be.l-Part
+\l I called my uncle. He was not at home, [apparently] he was at the beach.
+
+\t M a.        Goi imam videno Petari.
+\m M a.        Goi imam videno Petari.
+\g             himACC have1SG Peter
+\l (I) have seen Peter
+
+\t M a.        ,,ovekoti kogoi sto goi vidov ti.
+\m M a.        ,,ovekoti kogoi sto goi vidov ti.
+\g             manDET whom that himACC saw1SG
+\l The man whom I saw
+
+\t Petreta/brata                           ti.
+\m Petreta/brata                           ti.
+\g /Petre+the.M.Sg.Acc/brother.M.Sg.Acc   2Sg.Dat.Cl
+\l I saw Stojan/Petre/your brother.
+
+\t na      Stojana/studentot/edno dete.
+\m na      Stojana/studentot/edno dete.
+\g to      Stojan.Acc/student+the.M.Sg/a boy
+\l I gave the book to Stojan/the student/a boy.
+
+\t Ana/Stojana.
+\m Ana/Stojana.
+\g Ana/Stojan.Acc
+\l We lost Jana's/Stojan's book.
+
+\t masata.
+\m masata.
+\g table+the.F.Sg
+\l I repaired the leg of the table.
+
+\t a       mojata               prva                 rabotna              nedela   
+\m a       mojata               prva                 rabotna              nedela   
+\g         my.F.Sg+the.F.Sg     first.F.Sg           working.F.Sg         week.F.Sg
+\l my first working week
+
+\t a       *DAdov  im                       gi           KNIgite.
+\m a       *DAdov  im                       gi           KNIgite.
+\g         give.1Sg.Past 3Pl.Dat.Cl         3Pl.Acc.Cl   books+the.Pl
+\l I have given them the books.
+
+\t b           SKInato         mu           e         PALtoto.
+\m b           SKInato         mu           e         PALtoto.
+\g             torn.N.Sg       3Sg.M.Dat.Cl is.Cl     coat+the.N.Sg
+\l His coat is torn.
+
+\t pismoto/(*edno pismo)/(*pismo) na deteto/(edno dete)/(*dete).
+\m pismoto/(*edno pismo)/(*pismo) na deteto/(edno dete)/(*dete).
+\g letter+the/(a    letter)/letter    to child+the/(a child)/child
+\l Jana gave the letter/a letter/letter to the child/a child/child.
+
+\t vo      nivata.
+\m vo      nivata.
+\g in     field+the.F.Sg
+\l He didn't feel like working in the field.
+
+\t b       Mi            se             rasbole                   sin         mi.       
+\m b       Mi            se             rasbole                   sin         mi.       
+\g         1Sg.Dat.Cl    Impers.Acc.Cl get sick.N.Sg.l-Part       son         1Sg.Dat.Cl
+\l My son got sick.
+
+\t ti.
+\m ti.
+\g 2Sg.Dat.Cl
+\l Your daughter has come to visit him, I hear.
+
+\t vidam/*vidis.
+\m vidam/*vidis.
+\g see.1/2Sg.Perf.Pres
+\l I cannot see him/it.
+
+\t dojde                   vednas.
+\m dojde                   vednas.
+\g come.3Sg.Perf.Pres      immediately
+\l He gave an order for   Marija to come immediately.
+
+\t dades/dadat.
+\m dades/dadat.
+\g give.2Sg/3Pl.Perf.Pres
+\l I want that you/they give it to him.
+
+\t  cueme                 vestite.
+\m  cueme                 vestite.
+\g  hear.1Pl.Perf.Pres    news+the.Pl
+\l We paused in order to hear the news.
+
+\t toa    utre.
+\m toa    utre.
+\g that   tomorrow
+\l He will do that tomorrow.
+
+\t so     Ana.
+\m so     Ana.
+\g with Ana
+\l One can see that you have spoken to Ana.
+
+\t vo     minatoto.
+\m vo     minatoto.
+\g in     past+the.N.Sg
+\l This form is used to express actions that     have taken place before some other actions in the past.
+
+\t imal                 dva       sina.
+\m imal                 dva       sina.
+\g have.M.Sg.l-Part     two       sons
+\l There was a king and he had   two sons.
+
+\t mi.            Ne     bese           doma, na plaza bil.
+\m mi.            Ne     bese           doma, na plaza bil.
+\g 1Sg.Dat.Cl     not    be.3Sg.Past at home on        beach be.l-Part
+\l I called my uncle. He was not at home, [apparently] he was at the beach.
+
+\t Zoran     *Ø/ja gleda            mesec inata.
+\m Zoran     *Ø/ja gleda            mesec inata.
+\g Zoran     Ø/it      watches      moon-DEF
+\l Agim/Zoran is watching the moon.
+
+\t N a sostanokot *Ø/go kritikuvaa                   osobeno direktorot.
+\m N a sostanokot *Ø/go kritikuvaa                   osobeno direktorot.
+\g at meeting-DEF Ø/him criticized-3PL-IMPF especially director-DEF
+\l At the meeting they especially criticized the director.
+
+\t Jakuf ja zakopa                      z enata.
+\m Jakuf ja zakopa                      z enata.
+\g  Jakuf her buried-AOR-3SG wife-DEF
+\l Jakuf buried hiswife'.
+
+\t ovoj mojov ostrov
+\m ovoj moj-ov ostrov
+\g this     my-ART island
+\l this island of mine
+
+\t  Go vidov çovekot
+\m  Go vidov çovekot
+\g him I-saw the-man
+\l I saw the man
+
+\t b. Kogo go barate?
+\m b. Kogo go barate?
+\g   who him you-seek
+\l Who are you looking for?
+
+\t M     Ti      go dade.
+\m M     Ti      go dade.
+\g       to=you it gave3SG
+\l (She) gave it to you.
+
+\t Cijai ja bendisuva Petko [ti kola]?
+\m Cijai ja bendisuva Petko [ti kola]?
+\g  whose it like       Petko    car
+\l Whose car does Petko like?
+
+\t Daj             mi     go        ti!
+\m Daj             mi     go        ti!
+\g give-2Sg-Imp me-Dat-Cl it-Acc-Cl you-Sg
+\l You give it to me!
+
+\t M a. Ne     davaj          mu       ja         knigata
+\m M a. Ne     davaj          mu       ja         knigata
+\g      not-Cl give-2Sg-Imp him-Dat-Cl her-Acc-Cl book+the-Cl
+\l Don't give him the book.
+
+\t Ne       ke                              dade©            knigata.   
+\m Ne       ke                              dade©            knigata.   
+\g Not-Cl will-Mod-Cl him-Dat-Cl her-Acc-Cl give-2Sg-Subj    book+the-Cl
+\l You won't give him the book.
+
+\t   dadel                   knigata.
+\m   dadel                   knigata.
+\g   given-l-Part-M-Sg-Subj book+the-Cl
+\l Rumor has it,7 you would be unwilling to give him the book.
+
+\t M a1 Si                mu            go        dal  vc era.
+\m M a1 Si                mu            go        dal  vc era.
+\g      are-2Sg-Aux-Cl him-Dat-Cl it-Acc-Cl given-M-Sg yesterday.
+\l You gave it to him yesterday, I understand.
+
+\t b2       Tatko               si mu.
+\m b2       Tatko               si mu.
+\g father are-2Sg-Aux-Cl him-Dat-Cl
+\l You are his father (so you have to take care of him).
+
+\t b   3   Ti si                    mu             tatko.
+\m b   3   Ti si                    mu             tatko.
+\g         you are-2Sg-Aux-Cl him-Dat-Cl father
+\l YOU are his father (and not anybody else)!
+
+\t c1      ??Si                  mu             mil.
+\m c1      ??Si                  mu             mil.
+\g            are-2Sg-Aux-Cl him-Dat-Cl dear
+\l He likes you.
+
+\t c2      Mil si                   mu.
+\m c2      Mil si                   mu.
+\g         dear are-2Sg-Aux-Cl him-Dat-Cl
+\l He likes you.
+
+\t c3      Ti si                    mu             mil.
+\m c3      Ti si                    mu             mil.
+\g         you are-2Sg-Aux-Cl him-Dat-Cl dear
+\l It is you he likes!
+
+\t d1      ?Mu             e           skinato          paltoto.
+\m d1      ?Mu             e           skinato          paltoto.
+\g          him-Dat-Cl is-3Sg-Cl torn-Pass.Part coat+the-Cl
+\l His coat is torn out.
+
+\t d2      Skinato           mu            e            paltoto.
+\m d2      Skinato           mu            e            paltoto.
+\g         torn-Pass.Part him-Dat-Cl is-3Sg-Cl coat+the-Cl
+\l His coat is torn out.
+
+\t d3      Na Petreta        mu            e            skinato     paltoto.
+\m d3      Na Petreta        mu            e            skinato     paltoto.
+\g         to Peter-Dat him-Dat-Cl is-3Sg-Cl torn-Pass.Part coat+the-Cl
+\l Peter's coat is torn out.
+
+\t  povek!e pati.
+\m  povek!e pati.
+\g more        times
+\l He was told to be punctual more than once.
+
+\t f2      Rec eno          mu            e            da bide        toc en         povek e pati.
+\m f2      Rec eno          mu            e            da bide        toc en         povek e pati.
+\g         told-Past.Part him-Dat-Cl is-3Sg-Cl to be-3Sg-Subj punctual               more times   
+\l He was told to be punctual to be punctual more than once.
+
+\t f3      Na Petreta        mu            e            poveke pati         rec eno           da bide             toc en.
+\m f3      Na Petreta        mu            e            poveke pati         rec eno           da bide             toc en.
+\g         to Peter-Dat him-Dat-Cl is-3Sg-Cl more times                     told-Past.Part to be-3Sg-Subj punctual.      
+\l Peter was told to be punctual more than once.
+
+\t M a. Bi                 (si)              mu          go    dala                 li                 peroto?   
+\m M a. Bi                 (si)              mu          go    dala                 li                 peroto?   
+\g      would-Mod-Cl       are-2Sg-Aux-Cl him-Dat-Cl it-Acc-Cl given-F-Sg           Inter-Cl           pen+the-Cl
+\l Would you be      willing to give him the pen?
+
+\t peroto?
+\m peroto?
+\g pen+the-Cl
+\l Will you give him the pen?
+
+\t Si              mi            go     dal.
+\m Si              mi            go     dal.
+\g are-2Sg-Aux-Cl me-Dat-Cl it-Acc-Cl given-M-Sg
+\l You have allegedly given it to me.
+
+\t M a. ?Mu           e         rec eno       da bide       toc en              povek e pati.
+\m M a. ?Mu           e         rec eno       da bide       toc en              povek e pati.
+\g       him-Dat-Cl is-3Sg-Cl told-Past.Part to be-3Sg-Subj punctual            more times   
+\l He was told to be punctual more than once.
+
+\t Rec eno        mu           e          da bide     toc en      povek e pati.
+\m Rec eno        mu           e          da bide     toc en      povek e pati.
+\g told-Past.Part him-Dat-Cl is-3Sg-Cl to be-3Sg-Subj punctual    more times   
+\l He was told to be punctual more than once.
+
+\t M a. Na Petreta mu              e         povek e pati rec eno             da bide          toc en.
+\m M a. Na Petreta mu              e         povek e pati rec eno             da bide          toc en.
+\g      to Peter-Dat him-Dat-Cl is-3Sg-Cl more times told-Past.Part           to be-3Sg-Subj punctual 
+\l Peter was told more than to be punctual.
+
+\t Na Petreta    mu           e        od     strana na    komisijata          veteno             deka....
+\m Na Petreta    mu           e        od     strana na    komisijata          veteno             deka....
+\g to Peter-Dat him-Dat-Cl is-3Sg-Cl from side       of    commission+the-Cl promised-Past.Part that      
+\l Peter was promised by the commission that....
+
+\t      da bide          toc en.
+\m      da bide          toc en.
+\g      to be-3Sg-Subj punctual
+\l Peter was told more than once to be punctual.
+
+\t Na Petreta     od     strana na komisijata           povek e    pati mu             e          rec eno      da bide         toc en. 
+\m Na Petreta     od     strana na komisijata           povek e    pati mu             e          rec eno      da bide         toc en. 
+\g to Peter-Dat from side       of commission+the-Cl more          times him-Dat-Cl is-3Sg-Cl told-Past.Part to be-3Sg-Subj    punctual
+\l Peter was told by the commission more than once to be punctual.
+
+\t M a. DAva© SÉ          ©to  Ima©.9
+\m M a. DAva© SÉ          ©to  Ima©.9
+\g      give-2Sg everything what have-2Sg
+\l You give (away) whatever you have.
+
+\t k e           si              mu            ja      DAdel                    KNIgata.
+\m k e           si              mu            ja      DAdel                    KNIgata.
+\g will-Mod-Cl are-2sg-Aux-Cl him-Dat-Cl her-Acc-Cl    given-l-Part-M-Sg-Subj book-the  
+\l As reported, you would give him the book.
+
+\t M TI ne ­ k e ­ ´            si ­             mu ­ JA ­             dadel                     KNIgata.
+\m M TI ne ­ k e ­ ´            si ­             mu ­ JA ­             dadel                     KNIgata.
+\g   you not-Cl will-Mod-Cl are-2Sg-Aux-Cl him-Dat-Cl it-Acc-Cl        given-l-Part-M-Sg-Subj book+the-Cl
+\l As reported, you won't give him the book.
+
+\t M a. PokaZI ­ mu ­         go !
+\m M a. PokaZI ­ mu ­         go !
+\g      show-Imper him-Dat-Cl it-Acc-Cl
+\l Show it to him!
+
+\t b. Na ­           MI ­       ti ­           go!
+\m b. Na ­           MI ­       ti ­           go!
+\g     take-Imper me-Eth.Dat-Cl you-2Sg-Dat-Cl it-Acc-Cl
+\l Take it (my dear little one)!
+
+\t M a. NE ­ davaj           NI©to!
+\m M a. NE ­ davaj           NI©to!
+\g      not give-2Sg-Imper nothing
+\l Don't give (away) anything!
+
+\t Ne­DAvaj ­          mu      NI©to!
+\m Ne­DAvaj ­          mu      NI©to!
+\g not give-2Sg-Imper him-Dat-Cl nothing
+\l Don't give him anything!
+
+\t NedaVAJ ­           mu ­    go!
+\m Ne--daVAJ ­           mu ­    go!
+\g not give-2Sg-Imper him-Dat-Cl it-Acc-Cl
+\l Don't give it to him!
+
+\t NWM NE  mu                  go    DAvaj!
+\m NWM NE  mu                  go    DAvaj!
+\g     not      him-Dat-Cl it-Acc-Cl give-2sg-Imper
+\l Don't give it to him!
+
+\t Gi      imame kupeno            knigite
+\m Gi      imame kupeno            knigite
+\g them have1PL buyPASS.PART.NEUT.books-the
+\l We have bought the books
+
+\t Imam       dojdeno
+\m Imam       dojdeno
+\g have1SG.comePASS.PART.NEUT
+\l I have come
+
+\t Kupeno             knigite GI                         IMAME
+\m Kupeno             knigite GI                         IMAME
+\g buyPASS.PART.NEUT.books-the them                     have1PL
+\l Buy the books, we did!
+
+\t Mi ja dadoa smetkata.
+\m Mi ja dadoa smetkata.
+\g Dat Acc gave bill
+\l (He) gave me the bill.
+
+\t Na Petreta (mu        e) povee pati (mu          e) receno da bide     tocen
+\m Na Petreta (mu        e) povee pati (mu          e) receno da bide     tocen
+\g to PeterDAT himDAT is more times himCL.DAT is tellPASS.N to be3SG.SUBJ punctual
+\l Peter was told more than once to be punctual
+
+\t (Vie) (vcera) ste         im        go        (*vcera) dale         proektot    (vcera)
+\m (Vie) (vcera) ste         im        go        (*vcera) dale         proektot    (vcera)
+\g youPL yesterday beAUX.2PL CL.DAT.PL CL.ACC.SG yesterday givePART.PL project-the yesterday
+\l As reported, you gave them the project yesterday
+
+\t (Jana) mu              go           dade       pismoto na deteto
+\m (Jana) mu              go           dade       pismoto na deteto
+\g Jana CL.3SG.M/N.DAT CL.3SG.M/N.ACC givePAST3SG letter+the to child+the
+\l Jana gave the letter to the child
+
+\t Mu             *(e)     skinato            paltoto
+\m Mu             *(e)     skinato            paltoto
+\g 3SG.M/N.DAT.CL be3SG.CL tornPASS.PART.N.SG coat+the
+\l His coat is torn
+
+\t Mu             se       (*e)         skinalo       paltoto
+\m Mu             se       (*e)         skinalo       paltoto
+\g 3SG.M/N.DAT.CL REFL.CL beAUX.3SG.CL tornPART.N.SG coat+the
+\l Reportedly, his coat got torn
+
+\t Mi                 go         dade        Vera        vãera.
+\m Mi                 go         dade        Vera        vãera.
+\g  me.dat            it.acc     gave        Vera        yesterday
+\l Vera gave me it yesterday.
+
+\t (Vie) ste   st e     mu      go kazali.
+\m (Vie) ste   st e     mu      go kazali.
+\g you will aux.2pl him.dat it.acc said
+\l You will have told him it.
+
+\t ,,ovekoti kogoi sto goi vidov ti.
+\m ,,ovekoti kogoi sto goi vidov ti.
+\g man     whom that him saw-1
+\l The man whom I saw
+
+\t M b.        Ti go dade.
+\m M b.        Ti go dade.
+\g             you it gave
+\l (He) gave it to you
+
+\t Me izede ovoj mojov sin.
+\m Me izede ovoj mojov sin.
+\g me ate        this my-this son
+\l This son of mine is killing me.
+
+\t Go sakam          onoj sinion       fustan.
+\m Go sakam          onoj sinion       fustan.
+\g it    want.1sg that blue-that dress
+\l I want that there dress, the blue one.
+
+\t Iskam onâzi sinata roklja.
+\m Iskam onâzi sinata roklja.
+\g I-want that blue-the dress
+\l I want that dress, the blue one.
+
+\t Zobaczyl siebie w lustrze.
+\m Zobaczyl siebie w lustrze.
+\g saw      Self in mirror
+\l He saw himself in a mirror.
+
+\t (3 b )   *Mui      k       dadov           knigatak na Petari.
+\m (3 b )   *Mui      k       dadov           knigatak na Petari.
+\g          him.DAT           give.1.SG.PRT   book.ART to Petar
+\l I gave the book to Petar
+
+\t (2a) ani       pes        by             od    n ho       k rku               chleba         nezval
+\m (2a) ani       pes        by             od    n ho       k rku               chleba         nezval
+\g      not even dog.NOM would              from him.GEN crust.ACC               bread not took       
+\l Not even a dog would take a crus   t of bread from him
+
+\t ani       pes        by             mu         k rku    chleba nezval
+\m ani       pes        by             mu         k rku    chleba nezval
+\g not even dog.NOM would              him.DAT crust.ACC          bread not took
+\l Not even a dog would take away     his crust of bread
+
+\t   a. Ja citam     knigata.
+\m   a. Ja citam     kniga-ta.
+\g it.F read.1.SG book.F-the
+\l I am reading the book.
+
+\t (*Ja) citam     kniga.
+\m (*Ja) citam     kniga.
+\g   it.F read.1.SG book.F
+\l I am reading a book.
+

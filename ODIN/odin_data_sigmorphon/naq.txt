@@ -1,0 +1,295 @@
+\t aopa
+\m ao-pa
+\g man-3.SG.M:RH
+\l it is the/(a) man
+
+\t aop           ke
+\m ao-p           ke
+\g man-3.SG.M:TH COP
+\l it is the man
+
+\t kll?ip              ke ?aopa
+\m kll?i-p              ke ?ao-pa
+\g he-3.SG.M:TH         COP man-3.SG.M:RH
+\l he is the man
+
+\t aop                   ke        ?a          k!?ao?ao
+\m ao-p                   ke        ?a          k!?ao?ao
+\g man-3.SG.M:TH           COP1      COP2        hunter
+\l the man is a hunter
+
+\t aop                   ke        ?a          kai
+\m ao-p                   ke        ?a          kai
+\g man-3.SG.M:TH           COP1      COP2        big
+\l the man is tall
+
+\t aop            ke k!?ao?ao      ko?ií
+\m ao-p            ke k!?ao?ao      ko-?ií
+\g man-3.SG.M:TH COP hunter          REC.PAST-COP3
+\l the man has been a hunter
+
+\t aop            ke kai           ko?ií
+\m ao-p            ke kai           ko-?ií
+\g man-3.SG.M:TH COP great           REC.PAST-COP3
+\l the man has been great
+
+\t aop           ke         ?a         k=?an
+\m ao-p           ke         ?a         k=?an
+\g man-3.SG.M:TH COP1         COP2       know
+\l the man knows
+
+\t aop           ke         k=?an             ko?ií
+\m ao-p           ke         k=?an             ko-?ií
+\g man-3.SG.M:TH COP1         know              REC.PAST-COP3
+\l the man has known
+
+\t aop             ke          ra                      nllae
+\m ao-p             ke          ra                      nllae
+\g man-3.SG.M:TH COP1            COP2.PRES.IMPF          sing
+\l the man is singing
+
+\t aop             ke         ko            nllae              ha?ií
+\m ao-p             ke         ko            nllae              ha-?ií
+\g man-3.SG.M:TH COP1           COP2.REC.PAST sing               REC.ANT-COP3
+\l the man has just been singing
+
+\t `aop             ke     tarasa                   ra             muu
+\m `ao-p             ke     tara-sa                   ra             muu
+\g man-3.SG.M:TH COP1 woman-3.SG.F:RH                 COP2.PRES.IMPF see
+\l the man sees the woman
+
+\t arip            ke      //?ari   tarasa   ko                           muu
+\m ari-p            ke      //?ari   tara-sa   ko                           muu
+\g dog-3.SG.M:TH COP1 yesterday woman-3.SG.F:TH REC.PAST                     see
+\l Yesterday, the dog saw the woman
+
+\t kllip            ke //?ari      ko        muusi
+\m klli-p            ke //?ari      ko        muu-si
+\g he/she-3.SG.M:TH        COP1     yesterday REC.PAST saw-3.SG.F:OBJ
+\l yesterday, he saw her
+
+\t kllip              ke        //?ari    kllisa          ko                  muu
+\m klli-p              ke        //?ari    klli-sa          ko                  muu
+\g he/she-3.SG.M:TH COP1         yesterday he/she-3.SG.F:RH REC.PAST            see
+\l yesterday, he saw her
+
+\t taras            ke       ?aop     xa ko     muuhe
+\m tara-s            ke       ?ao-p     xa ko     muu-he
+\g woman-3.SG.F:TH COP1 man-3.SG.M:TH of REC.PAST see-"PASS"
+\l the woman was seen by the man
+
+\t aopi               (?ì) ke      tarasa           ko         muuhe
+\m ao-pi               (?ì) ke      tara-sa           ko         muu-he
+\g man-3.SG.M:NTS DEM COP1 woman-3.SG.F.RH REC.PAST see-"PASS"
+\l the mán it is who saw the woman
+
+\t aop            xa ? ì    ke           tarasa         ko       muuhe
+\m ao-p            xa ? ì    ke           tara-sa         ko       muu-he
+\g man-3.SG.M:TH of DEM COP1               woman-3.SG.F:RH REC.PAST see-"PASS"
+\l by the man the woman was seen
+
+\t klapi                   ?ì
+\m kla-pi                   ?ì
+\g rain-3.SG.M:NTS DEM/COP1
+\l rain, him it (is)
+
+\t saátsà        kha nii !uupee
+\m saá-tsà        kha nii !uupee
+\g you-2s:FOC INT FUT run.away
+\l will you run away?
+
+\t tií    kai      ?aota
+\m tií    kai      ?ao-ta
+\g I      big      man-1.SG:TH
+\l I, this great man
+
+\t hoa tíí     xuum
+\m hoa tíí     xuu-m
+\g all my thing-3.PL.COMM:TH
+\l all my things
+
+\t tiíta
+\m tií-ta
+\g I-1.SG:TH
+\l I
+
+\t tií    kai      ?aota
+\m tií    kai      ?ao-ta
+\g I      big      man-1.SG.TH
+\l I, this great man
+
+\t hoa tíí     xuum
+\m hoa tíí     xuu-m
+\g all my thing-3.PL.COMM:TH
+\l all my things
+
+\t nee !ona        xuum
+\m nee !ona        xuu-m
+\g this three      thing-3.PL.COMM:TH
+\l these three things
+
+\t nee tií     ? ix a      taras
+\m nee tií     ? ix a      tara-s
+\g this my beautiful wife-3.SG.F:TH
+\l this, my beautiful wife
+
+\t taras            ?ixas                         tiís             nees
+\m tara-s            ?ixa-s                         tií-s             nee-s
+\g wife-3.SG.F:TH beautiful-3.SG.F:TH               my-3.SG.F:TH      this-3.SG.F:TH
+\l this, my beautiful wife
+
+\t nllae=ra               ?aop
+\m nllae=ra               ?ao-p
+\g sing=PRES.IMPF         man-3.SG.M:TH
+\l the man who is singing
+
+\t aop                ra               nllaep                 ke
+\m ao-p                ra               nllae-p                 ke
+\g man-3.SG.M:TH PRES.IMPF               sing-3.SG.M:TH          ASS
+\l it is the mán who is sínging
+
+\t aop            ke //?ari       tarasà       ko                        muu
+\m ao-p            ke //?ari       tara-sà       ko                        muu
+\g man-3sm:TH       ASS yesterday woman-3.SG.F:RH REC.PAST                  see
+\l the man yesterday saw the woman
+
+\t tarasà=p                            ke          //?ari           aopà      ko      muusi          
+\m tara-sà=p                            ke          //?ari           ao-pà      ko      muu-si          
+\g woman-3.SG.F:RH=3.SG.M:TH            ASS         yesterday        man-SG.M:RH REC.PAST see-3.SG.F:OBJ
+\l as for the woman [tara-sà], he [=p], i.e. the man [?ao-pà], saw her yesterday
+
+\t n//ae=p            ke ko
+\m n//ae=p            ke ko
+\g sing=3.SG.M:TH ASS REC.PAST
+\l as for singing, he did (it)
+
+\t n//ae=ra=p                            ke ?aopà
+\m n//ae=ra=p                            ke ?ao-pà
+\g sing=PRES.IMPF=3.SG.M:TH              ASS man-3.SG.M:RH
+\l being singing he is, i.e. the man
+
+\t muusi=ko=p                                      ke ?aopà
+\m muu-si=ko=p                                      ke ?ao-pà
+\g see-3.SG.F:OBJ=REC.PAST=3.SG.M:TH                ASS man-3.SG.M:RH
+\l having seen her, he is, i.e. the man
+
+\t n//ae=ra=p                           ke        ?aopà
+\m n//ae=ra=p                           ke        ?ao-pà
+\g sing=PRES.IMPF=3.SG.M:TH             ASS       man-3.SG.M:RH
+\l the one singing/he, singing, is the man
+
+\t muusi=ko=p                                     ke      ?aopà
+\m muu-si=ko=p                                     ke      ?ao-pà
+\g see-3.SG.F:OBJ=REC.PAST=3.SG.M:TH               ASS     man-3.SG.M:RH
+\l the one having seen her/he, having seen her, is the man
+
+\t Yohanep              ko      haas                     khan!aata     ke !haise           ko            pee     
+\m Yohane-p              ko      haa-s                     khan!aa-ta     ke !hai-se           ko            pee     
+\g John-3.SG.M:TH        REC.PAST come-3.SG.F:TH           behind-1.SG:TH ASS fast-ADVL        REC.PAST      run.away
+\l after (that) John had come, I ran away
+
+\t muusi=ra=se=p                     ke ?aopa                ko=?uu      
+\m muu-si=ra=se=p                     ke ?ao-pa                ko=?uu      
+\g see-3.SG.F:OBJ=PRES=ADVL=3.SG.M:TH ASS man-3.SG.M:RH        REC.PAST eat
+\l when he saw her/while seeing her, the man was eating
+
+\t kaise
+\m kai-se
+\g big-ADVL
+\l greatly
+
+\t ao=ta                 ke ?à
+\m ao=ta                 ke ?à
+\g man=1.SG:TH            ASS COP2
+\l a man I am
+
+\t aotà
+\m ao-tà
+\g man-1.SG:RH
+\l I am a/the man
+
+\t ?ao=ta=?à
+\m ?ao=ta=?à
+\g    man=1.SG:TH=COP
+\l a man I am
+
+\t ta     ?a ?ao
+\m ta     ?a ?ao
+\g 1.SG COP man
+\l I am (a) man
+
+\t ?ì ?ií ti
+\m ?ì ?ií ti
+\g  DEM COP 1.SG:RH
+\l it is me
+
+\t ti        ?ì         ? ií
+\m ti        ?ì         ? ií
+\g   me        DEM        COP
+\l me it is
+
+\t kII?ip
+\m kII?i-p
+\g he/she-3.SG.M:TH
+\l he
+
+\t kII?i=pi              ?ì
+\m kII?i=pi              ?ì
+\g he/she-3.SG:NTS         DEM/COP
+\l he, him it (is
+
+\t klI?i=pà
+\m klI?i=pà
+\g he/she=3.SG.M:RH
+\l it ishim',
+
+\t ao=ta             ke ?à
+\m ao=ta             ke ?à
+\g man-1.SG:TH        ASS COP
+\l a man I am
+
+\t tií=ta        ke         ?à          ?ao
+\m tií=ta        ke         ?à          ?ao
+\g I-1.SG:TH     ASS        COP         man
+\l me, I am a man
+
+\t //?ari=p                ke             muusi
+\m //?ari=p                ke             muu-si
+\g yesterday=3sm:TH        ASS            see-3.SG.F:OBJ
+\l yesterday, he saw her
+
+\t //?ari=s                 ke              muupi
+\m //?ari=s                 ke              muu-pi
+\g yesterday=3.SG.F:TH      ASS             see-3.SG.M:OBJ
+\l yesterday, she saw him
+
+\t haa=ko=p                            ke           ?aopà
+\m haa=ko=p                            ke           ?ao-pà
+\g come=REC.PAST=3.SG.M:TH ASS                      man-3.SG.M:RH)
+\l having just come he did, the man
+
+\t //'««p  ke 'áopà         kè            aí
+\m //'««p  ke 'áop-à         kè            aí
+\g 3SG.M DECL man-SBRD RMPST                 call
+\l He called the man.
+
+\t //'««pa       //a½'è  kè                'éé
+\m //'««p-a       //a½-'è  kè                'éé
+\g 3SG.M-SBRD meat-SBRD RMPST               eat
+\l Did he eat the meat?
+
+\t //a½'ep            //'««pà          kè         'éé
+\m //a½-'e-p            //'««p-à          kè         'éé
+\g meat-SBRD-3SG.M 3SG.M-SBRD             RMPST   eat
+\l Did he eat the meat?
+
+\t 'éép     kè        //'««pà              //a½'è
+\m 'éé-p     kè        //'««p-à              //a½-'è
+\g eat-3SG.M RMPST 3SG.M-SBRD              meat-SBRD
+\l Did he eat the meat?
+
+\t //'««pa       'éép    kè                //a½'è
+\m //'««p-a       'éé-p    kè                //a½-'è
+\g 3SG.M-SBRD eat-3SG.M RMPST              meat-SBRD
+\l Did he eat the meat?
+

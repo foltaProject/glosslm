@@ -1,0 +1,65 @@
+\t aling      Pakulo
+\m aling      Paku-lo
+\g 1+3DL      Paku-COM
+\l I and Paku
+
+\t sikuko=ko           da<pa>Ratana
+\m siku-ko=ko           da<pa>Ra-ta-n-a
+\g louse-PL=3plSubj     search<RECIP>-PROGR.ORIENTED-INTR-IND
+\l They are delousing one another.
+
+\t Honko horare      setaking=ko          go<po>yrikakedkinga.           
+\m Hon-ko hora-re      seta-king=ko          go<po>y-rika-ke-d-king-a.           
+\g child-PL street-LOC dog-DU=3plSubj        kill<RECIP>-CAUS-Compl-TR-3duO-INDIC
+\l The children caused two dogs to fight each other on the street.
+
+\t A<pa>do?tana=le
+\m A<pa>d-o?-ta-n-a=le
+\g miss<REC>-PASS-PROGR.ORIENTED-INTR-INDIC=1pl.excl
+\l We were almost missed by each other.
+
+\t A<pa>dentana=le
+\m A<pa>d-en-ta-n-a=le
+\g miss<REC>-REFL-PROGR.ORIENTED-INTR-INDIC=1pl.excl
+\l We are almost missing each other by ourselves.
+
+\t aiN           hçrçtake         lelliaiN
+\m aiN           hçrçta-ke         lel-li-a-iN
+\g 1S.PRON man-ACC                 see-PAST-IND-1S
+\l I saw a man
+
+\t aiN           maraN daruiN     lelkeda
+\m aiN           maraN daru-iN     lel-ked-a
+\g 1S.PRON big           tree-1S   see-PAST-IND
+\l I saw a big tree
+
+\t kaiN       sena
+\m ka-iN       sen-a
+\g NEG-1S go-IND
+\l I shall not go
+
+\t dayakate aiNke               madalrase omaiNme
+\m dayakate aiN-ke               madal-rase om-a-iN-me
+\g please       1S.PRON-ACC apple-juice give-IND-1SO-2S
+\l please give me apple juice
+
+\t Honko horo nelkedako
+\m Hon-ko horo nel-ke-d-a-ko
+\g  child-pl man see-past-tr-f-3:pl
+\l The children saw the man
+
+\t Honko nepelkenako
+\m Hon-ko n-ep-el-ke-n-a-ko
+\g  child-pl rec-see-past-intr-f-3:pl
+\l The children saw one another
+
+\t sikuko=ko           da<pa>Ratana
+\m siku-ko=ko           da<pa>Ra-ta-n-a
+\g louse-PL=3plSubj     search<RECIP>-PROGR.ORIENTED-INTR-IND
+\l They are delousing one another.
+
+\t sikuko=ko           da<pa>Ratana
+\m siku-ko=ko           da<pa>Ra-ta-n-a
+\g louse-PL=3plSubj     search<RECIP>-PROGR.ORIENTED-INTR-IND
+\l They are delousing one another.
+

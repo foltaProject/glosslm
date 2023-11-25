@@ -1,0 +1,2570 @@
+\t Arma               virumque             cano
+\m Arm-a               vir-um-que             can-o
+\g weapon             neuter.acc.pl.man           masc.acc.sg.and              sing              1st person
+\l I sing about weapons and a man.
+
+\t catullus      clo...diam ama...bat
+\m catullus      clo...diam ama...bat
+\g Catullus.NOM Clodia.ACC loved
+\l Catullus loved Clodia
+
+\t catullum     clo...dia    no...n ama...bat
+\m catullum     clo...dia    no...n ama...bat
+\g Catullus.ACC Clodia.NOM not loved
+\l Clodia didn't love Catullus
+
+\t catullus      libellum corne...li... dedit
+\m catullus      libellum corne...li... dedit
+\g Catullus.NOM book.ACC Cornelius.DAT gave
+\l Catullus gave the book to Cornelius
+
+\t ami...cus    clo...diae corne...lium wi...sit.
+\m ami...cus    clo...diae corne...lium wi...sit.
+\g friend.NOM Clodia.GEN Cornelius.ACC saw
+\l Clodia's friend saw Cornelius
+
+\t catullus      clo...diam ama...bat
+\m catullus      clo...diam ama...bat
+\g Catullus.NOM Clodia.ACC loved
+\l Catullus loved Clodia
+
+\t catullum     clo...dia    no...n ama...bat
+\m catullum     clo...dia    no...n ama...bat
+\g Catullus.ACC Clodia.NOM not loved
+\l Clodia didn't love Catullus
+
+\t catullus      libellum corne...li... dedit
+\m catullus      libellum corne...li... dedit
+\g Catullus.NOM book.ACC Cornelius.DAT gave
+\l Catullus gave the book to Cornelius
+
+\t ami...cus    clo...diae corne...lium wi...sit.
+\m ami...cus    clo...diae corne...lium wi...sit.
+\g friend.NOM Clodia.GEN Cornelius.ACC saw
+\l Clodia's friend saw Cornelius
+
+\t [carni]vorus
+\m [carn-i]vorus
+\g [flesh-SUF] eating
+\l carnivore
+
+\t Archia#s Antiochi#ae     na#tus           est celebri# quondam urbe.
+\m Archia#s Antiochi#ae     na#tus           est celebri# quondam urbe.
+\g ArchiasN AntiochL(=G) having.been.born is populousB once       cityB
+\l Archias was born at Antioch, once a populous city.
+
+\t Nea#poli#, in celeberrimo# oppido#
+\m Nea#poli#, in celeberrimo# oppido#
+\g NaplesL in very.populousB townB
+\l At Naples, a populous town
+
+\t Domi# suae senex        est mortuus.
+\m Domi# suae senex        est mortuus.
+\g HouseL hisG old.manN is having.died
+\l The old man died at his own house.
+
+\t Rhodi# ego no#n fui#,      sed fui# in Bithy#nia#.
+\m Rhodi# ego no#n fui#,      sed fui# in Bithy#nia#.
+\g RhodesL meN not I.was, but I.was in BithyniaB
+\l I was not at Rhodes, but I was in Bithynia.
+
+\t Aristide patria pulso, Persae Graecos aggressi sunt.           
+\m Aristide patria pulso, Persae Graecos aggressi sunt.           
+\g Aristides:ABL country:ABL expelled:ABL Persians Greeks attacked         AUX
+\l Aristides having been exiled, the Persians attacked the Greeks.
+
+\t Aristidem patria pulsum viderunt.
+\m Aristidem patria pulsum viderunt.
+\g Aristides:ACC country:ABL expelled:ACC saw:3pl
+\l They saw Aristides, who had been exiled.
+
+\t ascia         nova
+\m ascia         nova
+\g  axe.NOM new.NOM
+\l a/the new axe
+
+\t ascia nova
+\m asci--a nov--a
+\g  axe.ABL new.ABL
+\l with a/the new axe
+
+\t Puer       hominem vidit
+\m Puer       hominem vidit
+\g boy-[nom] man-[acc] saw
+\l The boy saw the man.
+
+\t Puerum homo          vidit
+\m Puerum homo          vidit
+\g boy-[acc] man-[nom] saw
+\l The man saw the boy.
+
+\t fama        urbem       pervasit
+\m fama        urbem       per-vasit
+\g `rumor      town:ACC    through-roamed
+\l The rumor went around the town.
+
+\t R¯ avit                     ¯           mens¯
+\m R¯ avit                     ¯           mens¯
+\g rule.PERF.3SG he.NOM few.PL.ACC          month.PL.ACC
+\l He ruled for a few months.
+
+\t Die¯                                ¯
+\m Die¯                                ¯
+\g day.GEN remember.FUT.PERF.3SG consul.NOM
+\l The consul will remember the day.
+
+\t E60.     a. Paulus           manus            lauat
+\m E60.     a. Paulus           manus            lauat
+\g    IN        Paul:NOM.SG hand:ACC.PL          wash:3.SG
+\l Paul is washing his hands
+
+\t mihi     eundum      est.
+\m mihi     eundum      est.
+\g  me      go:GER      is
+\l I have to go.
+
+\t puella            dicet.
+\m puell-a            dic-et.
+\g      girl-NOM speak,PRES,3SG
+\l the girl is speaking
+
+\t puella puerum vÌ°dit
+\m puell-a puer-um vÌ°dit
+\g  girl-NOM boy-ACC see,PERF,3SG
+\l the girl saw the boy
+
+\t puella librum puero dedit          ·
+\m puell-a libr-um puer-o dedit          ·
+\g  girl-NOM book-ACC boy-DAT give,PERF,3SG
+\l the girl gave the book to the boy
+
+\t darkoam                ikkasi bia          isoke
+\m dark-oa-m                ikka-si bia          isoke
+\g  woman-that-SUBJ         son-OBJ water gave     TM
+\l the woman gave water to her son
+
+\t [bona                        terra]                   est
+\m [bon-a                        terr-a]                   est
+\g    [good-FEM.NOM.SG land-FEM.NOM.SG] be.PRES.3SG
+\l it is good land
+
+\t [bonam                     terram]                 vidi
+\m [bon-am                     terr-am]                 vidi
+\g  [good-FEM.ACC.SG           land-FEM.ACC.SG] see.1SG
+\l I saw good land
+
+\t inopia
+\m inopi-a
+\g   shortage-FEM.NOM.SG            wine-NEUT.GEN.SG
+\l a wine shortage
+
+\t [pueros    ·        vocantem]                 video
+\m [puer-os    ·        voca-nt-em]                 vide-o
+\g    boy-ACC.PL call-PRES.PTCPL-ACC.SG see.PRES-1SG
+\l I see the one that is calling the boys
+
+\t longum                   video·
+\m long-um                   vide-o·
+\g    tall-ACC.SG.MASC see.PRES-1SG
+\l I see the tall one (masculine)
+
+\t litteras nuntios=que
+\m litteras nuntios=que
+\g letters messages and
+\l letters and messages
+
+\t voce       voltu       motu=que
+\m voce       voltu       motu=que
+\g voice      expression gesture and
+\l (with) voice, expression and gesture
+
+\t Aeduos ceteros=que amicos
+\m Aeduos ceteros=que amicos
+\g Aedui    other    and     friends
+\l the Aedui and other friends
+
+\t  ipse in Italiam magnis itineribus contendit duas=que        ibi     legiones conscribit
+\m  ipse in Italiam magnis itineribus contendit duas=que        ibi     legiones conscribit
+\g self in Italy great marches speeds           two    and       there legions     enrolls
+\l and he speeds to Italy with great marches and enrolls two legions there
+
+\t arcebat   longe Latio     multos=que       per     annos errabant
+\m arcebat   longe Latio     multos=que       per     annos errabant
+\g defended far      Latium many      and      for     years wandered
+\l kept them far from Latium, and for many years they wandered
+
+\t [Labiemun] Terbonium=que
+\m [Labiemun] Terbonium=que
+\g  Labienus Trebonius and
+\l Labienus and Trebonius
+
+\t [oppida] vicos=que
+\m [oppida] vicos=que
+\g  towns villages and
+\l towns and villages
+
+\t [cunctis oppidis] castellis=que [t        desertis]
+\m [cunctis oppidis] castellis=que [t        desertis]
+\g defeated towns fortresses and              deserted
+\l the towns defeated and the fortresses deserted
+
+\t vir [magni ingeni] summa=que [t prudentia]
+\m vir [magni ingeni] summa=que [t prudentia]
+\g man great talent superior and          wisdom
+\l a man of great talent and superior wisdom
+
+\t Galliis superatis Caesar profectus est
+\m Galli-is superat-is Caesar profectus est
+\g Gaul-ABL.PL defeated-ABL.PL Caesar.NOM set.out AUX
+\l With the Gauls defeated, Caesar left
+
+\t Servus      dominum       feret
+\m Servus      dominum       feret
+\g slave-NOM master-ACC strikes
+\l The slave strikes the master.
+
+\t Dominus      servum         feret.
+\m Dominus      servum         feret.
+\g  master-NOM slave-ACC strikes
+\l The master strikes the slave.
+
+\t Servus     cadet.
+\m Servus     cadet.
+\g slave-NOM falls
+\l The servant falls.
+
+\t Dominus      cadet.
+\m Dominus      cadet.
+\g master-NOM falls
+\l The master falls.
+
+\t Et ego et       Cicero meus flagita:bit
+\m Et ego et       Cicero meus flagita:b-it
+\g and I     and Cicero my          will demand-3RD.SG
+\l Both my Cicero and I will demand it.
+
+\t Puella      videt      mensam
+\m Puella      videt      mensam
+\g girl.NOM see.3SG table.ACC
+\l The girl sees the table.
+
+\t Pater         epistulam      scribit
+\m Pater         epistulam      scribit
+\g father.NOM letter.ACC        write.3SG
+\l Father writes a letter.
+
+\t Regina        ius         et     libertatem  civibus
+\m Regina        ius         et     libertatem  civibus
+\g give.INF must.3SG
+\l A queen should give law and freedom to her citizens.
+
+\t Aestate       sol         iam        ante meridiem calidus            est
+\m Aestate       sol         iam        ante meridiem calidus            est
+\g summer.ABL sun.NOM already before noon.ACC hot                        is
+\l In summer the sun is already hot before noon.
+
+\t ubi          [puellam audÌ°vÌ°]
+\m ubi          [puella-m audÌ°-v-Ì°]
+\g    when girl-ACC hear-PERF-1SG
+\l when I heard the girl
+
+\t canis
+\m canis
+\g dog-NOM killed cat-AC C
+\l The dog killed the cat.
+
+\t canem      occidit catus
+\m canem      occidit catus
+\g dog-AC C killed cat-NOM
+\l The cat killed the dog.
+
+\t Munus puellae          datum est.
+\m Munus puellae          datum est.
+\g gift.NOM girl.DAT given is
+\l The gift was given to the girl.
+
+\t Puella venit.
+\m Puella venit.
+\g girl-nom arrives
+\l The girl comes.
+
+\t Puella puerum audit.
+\m Puella puer-um audit.
+\g girl-nom boy-acc hears
+\l The girl hears the boy.
+
+\t Puerum puella audit.
+\m Puer-um puella audit.
+\g boy-acc girl-nom hears
+\l The girl hears the boy.
+
+\t Puella      puerum       videt.
+\m Puella      puerum       videt.
+\g girl:NOM b oy:ACC sees
+\l The girl sees the b oy.
+
+\t Puerum     puella        videt.
+\m Puerum     puella        videt.
+\g b oy:ACC girl:NOM sees
+\l The girl sees the b oy.
+
+\t a. ü Accidit ut erremus.
+\m a. ü Accidit ut erremus.
+\g Happens that we-mistake.
+\l It happens that one makes a mistake.
+
+\t b. ü Accidit ut non veniat.
+\m b. ü Accidit ut non veniat.
+\g Happens that not he-come.
+\l It happens that he not come.
+
+\t a. ü Timeo *( ne ) veniat.
+\m a. ü Timeo *( ne ) veniat.
+\g I-fear not he-come-SUBJ.
+\l I fear that he might come.
+
+\t b. ü Timeo { ne non/ ut} veniat.
+\m b. ü Timeo { ne non/ ut} veniat.
+\g I-fear {not non/ that} he-come-SUBJ.
+\l I fear that he might not come.
+
+\t ü Impedio *(ne ) proficiscatur.
+\m ü Impedio *(ne ) proficiscatur.
+\g I-prevent ne he-leave-SUBJ.
+\l I prevent him to leave.
+
+\t ü Non impedio quin proficiscatur.
+\m ü Non impedio quin proficiscatur.
+\g Not I-prevent quin he-leave-SUBJ.
+\l I don't prevent him to leave.
+
+\t ü Impedione 365 quin veniat?
+\m ü Impedione 365 quin veniat?
+\g I-prevent-ne quin he-come-SUBJ?
+\l Do I prevent him to come?
+
+\t haec      caesari    facienda       erant
+\m haec      caesari    facienda       erant
+\g this.N.Pl Caesar.Dat do.Gerund.N.Pl be.Past.3.Pl
+\l These things had to be done by Caesar.' `Caesar had to do these things.
+
+\t Cuiami amat Cicero [ti puellam]?
+\m Cuiami amat Cicero [ti puellam]?
+\g whose loves Cicero       girl
+\l Whose girl does Cicero love?
+
+\t Qualesi          Cicero amat [ti puellas]?
+\m Qualesi          Cicero amat [ti puellas]?
+\g what-kind-of Cicero loves           girls
+\l What kind of girls does Cicero love?
+
+\t [quae       mihi antea signa                   misisti],     ea            nondum vidi
+\m [quae       mihi antea signa                   misisti],     ea            nondum vidi
+\g REL.N.p ACC 1sDAT earlier statue(N ).p ACC    send.2sPERF DEMpN.ACC not.yet see.1sPERF
+\l I haven't seen yet the statues you sent me recently.
+
+\t castris     hostium        oppositis          tenebantur.
+\m castris     hostium        oppositis          tenebantur.
+\g camp.ABLp enemy.GENp       opposite.ABLp      hold.3p PST.PASS
+\l For the roads that lead to Hibernum and Octogesa were held by the other camps of the enemy.
+
+\t Caesar       omnes druides in Galliaa interfecit.
+\m Caesar       omnes druides in Galliaa interfecit.
+\g Caesar.NOM all.ACC druids.ACC in Gaul.ABL killed
+\l Caesar killed all the Druids in Gaul.
+
+\t Caesarem Romam redire populus voluit.
+\m Caesarem Romam redire populus voluit.
+\g Caesar.ACC Rome-to return      people.NOM wanted
+\l The people wanted Caesar to return to Rome.
+
+\t Senatus             Caesari        provinciam    dedit.
+\m Senatus             Caesari        provinciam    dedit.
+\g senate.NOM          Caesar.DAT province.ACC      gave
+\l The senate gave a/the province to Caesar.
+
+\t Legiones Caesaris multas gentes subegerunt.
+\m Legiones Caesaris multas gentes subegerunt.
+\g legions.NOM Caesar.GEN many.ACC peoples.ACCsubjugated
+\l Caesar's legions subjugated many peoples.
+
+\t Caesare absente, tota Gallia quiescebat.
+\m Caesare absente, tota Gallia quiescebat.
+\g Caesar.ABL gone       all.NOM Gaul.NOM was-peaceful
+\l While Caesar was gone, all Gaul was peaceful.
+
+\t audi/audite
+\m audi/audite
+\g listen-imv-2s/2p
+\l (You-s/p) listen up!
+
+\t udiXsGudiXtis
+\m udiXsGudiXtis
+\g listen-pres-2s/2p
+\l (You-s/p) are listening
+
+\t moneXGmoneXte
+\m moneXGmoneXte
+\g advise-imp.2s/advise-imp.2p
+\l Advise
+
+\t mone:to:/mone:to:te
+\m mone:to:/mone:to:te
+\g advise-imp.fut.2s/advise-imp.fut.2p
+\l Advise (later)
+
+\t moneXisGmoneXitis
+\m moneXisGmoneXitis
+\g advise-fut.2s/advise-fut.2p
+\l You will advise
+
+\t Senatus Populusque Romanus
+\m Senatus Populusque Romanus
+\g Senate people.AND Roman
+\l The Senate and people of Rome.
+
+\t Senatus Populusque Romanus
+\m Senatus Populusque Romanus
+\g Senate people.AND Roman
+\l The Senate and people of Rome.
+
+\t Non dico
+\m Non dico
+\g neg say-1SG
+\l I don't say (anything)
+
+\t Timeo ne veniat87
+\m Timeo ne veniat87
+\g Fear.1SG neg.that comes.3SG
+\l I fear that he comes
+
+\t senatus...              imperium           mihi          dedit
+\m senatus...              imperium           mihi          dedit
+\g Senate-Nominative       command-Accusative me-Dative     gave-3sg
+\l The Senate gave me the command
+
+\t Mercator             quidem                fuit            Syracusis           senex,         ei              sunt          nati                   filii                gemini              duo,                ita     forma             simili            pueri        
+\m Mercator             quidem                fuit            Syracusis           senex,         ei              sunt          nati                   filii                gemini              duo,                ita     forma             simili            pueri        
+\g merchant-M-S-NOM     INDEF-M-S-NOM         be-3-S-PERF     Syracuse-F-PL-LOC old-M-S-NOM      ANA-S-DAT       be-3-S        born PPP-M-PL-NOM     son-M-PL-NOM         twin-M-PL-NOM       two-M-PL-NOM        thus    form-F-S-ABL      alike-S-ABL         boy-M-PL-NOM
+\l There was a certain old merchant in Syracuse who had twin sons, boys so alike in appearance ...
+
+\t ut     quidem            ille                dixit             mihi,        qui            pueros
+\m ut     quidem            ille                dixit             mihi,        qui            pueros
+\g as     INDEF-M-S-NOM     that-M-S-NOM     say-3-S-PERF   I-S-DAT   REL-M-PL-NOM   boy-M-PL-ACC   see-3-S-PLUP
+\l as a certain man who had seen the boys told me
+
+\t Hunc           unum            plurimi            consentiunt      R[omae]          bonorum
+\m Hunc           unum            plurimi            consentiunt      R[omae]          bonorum
+\g best-M-S-ACC   be-INFIN-PERF   man-M-S-ACC        Lucius-M-S-ACC   Scipio-M-S-ACC
+\l Most agree this man, Lucius Scipio, was one of the best men at Rome.
+
+\t Potin     a        me         abeas,               nisi     me        vis        vomere?
+\m Poti-n     a        me         abeas,               nisi     me        vis        vomere?
+\g able-M-S-NOM-Y/N    from     I-S-ABL    go away-2-S-SUBJ     unless   I-S-ACC   wish-2-S   vomit-INFIN
+\l Can't you go away from me ?unless you want me to throw up?
+
+\t Filium        unicum              adulescentulum            habeo       ?ah,      quid                   dixi? ?                [habere       me],          immo         habui.       
+\m Filium        unicum              adulescentulum            habeo       ?ah,      quid                   dixi? ?                [habere       me],          immo         habui.       
+\g son-M-S-ACC   sole-M-S-ACC        youth-M-S-ACC             have-1-S    ah         INTERROG-N-S-ACC       say-1-S-PERF          have-INFIN    I-S-ACC       but          have-1-S-PERF
+\l I have one son, a teenager. Ah, what did I say ?that I have a son? Actually, I had one.
+
+\t Ego       [me        ire...]    senibus          [...Sunium...] dicam              [...ad    mercatum,               [ancillulam           emptum]]             dudum       quam             dixit           Geta.       
+\m Ego       [me        ire...]    senibus          [...Sunium...] dicam              [...ad    mercatum,               [ancillulam           emptum]]             dudum       quam             dixit           Geta.       
+\g I-S-NOM   I-S-ACC    go-INFIN   old-M-PL-DAT     Sunium-N-S-ACC      say-1-S-FUT   to        market-M-S-ACC          maid-DIMIN-F-S-ACC    buy-SUPINE-N-S-ACC   just now    REL-F-S-ACC      say-3-S-PERF    Geta-M-S-NOM
+\l I'll tell the old men I'm going to Sunium to the market to buy the little maid servant that Geta promised just now.
+
+\t Summa              [eludendi...]            occasio              'st         mihi          nunc     [...senes]          et      [Phaedriae          curam           adimere            argentariam].            
+\m Summa              [eludendi...]            occasio              'st         mihi          nunc     [...senes]          et      [Phaedriae          curam           adimere            argentariam].            
+\g highest-F-S-NOM    elude-GERUND-N-S-GEN     occasion-F-S-NOM     be-3-S      I-S-DAT       now      old-M-PL-ACC        and     Phaedria-M-S-DAT    care-F-S-ACC    take away-INFIN    related to silver-F-S-ACC
+\l Now I have the best opportunity to elude the old men and take away from Phaedriae any monetary worry.
+
+\t Credo          [edepol        quidem     dormire        solem].
+\m Credo          [edepol        quidem     dormire        solem].
+\g believe-1-S    indeed         indeed     sleep-INFIN    sun-M-S-ACC
+\l Yes, indeed, I certainly believe the sun is sleeping.
+
+\t Censet         [eo         venturum         obviam          Poenum].
+\m Censet         [eo         venturum         obviam          Poenum].
+\g believe-3-S    to there    come-INFIN-FUT   in the way      Phoenician-M-S-ACC
+\l He believes the Phoenician [i.e. Hannibal] will come there to meet him.
+
+\t Credo         ego         [hac           noctu           Nocturnum          obdormivisse].
+\m Credo         ego         [hac           noctu           Nocturnum          obdormivisse].
+\g believe-1-S   I-S-NOM     this-F-S-ABL   night-F-S-ABL   night-M-S-ACC      go to sleep-INFIN-PERF
+\l I believe Night (has) gone to sleep tonight.
+
+\t Credo            [te           facile       impetrassere].
+\m Credo            [te           facile       impetrassere].
+\g believe-1-S      you-S-ACC     easily       obtain-INFIN-FUT
+\l I believe you'll easily obtain [it].
+
+\t Credo            [ad     summos                  bellatores            acrem                            fore]                   et      [capturum                   spolia             ibi     illum]           qui              meo                   ero adversus                        venerit.                           
+\m Credo            [ad     summos                  bellatores            acrem                            fore]                   et      [capturum                   spolia             ibi     illum]           qui              meo                   ero adversus                        venerit.                           
+\g believe-1-S      to      highest-M-PL-ACC        warrior-M-PL-ACC      fierce-M-S-ACC fleer-M-S-ACC     be-INFIN-FUT            and     take-PART-FUT-M-S-ACC       spoil-N-PL-ACC     there   that-M-S-ACC     REL-M-S-NOM      my-M-S-DAT            master-M-S-DAT                      against            come-3-S-FUTPERF
+\l I believe that one who will come up against my master will be a fierce deserter among the greatest warriors.
+
+\t Quid                 ego        cum        illo             dissertem          amplius,               [quem...]          ego            denique               credo             [...in          pompa                     vectitatum                   iri                  ludis                    pro              citeria],             atque             [cum           spectatoribus sermocinaturum]?                   
+\m Quid                 ego        cum        illo             dissertem          amplius,               [quem...]          ego            denique               credo             [...in          pompa                     vectitatum                   iri                  ludis                    pro              citeria],             atque             [cum           spectatoribus sermocinaturum]?                   
+\g INTERROG-N-S-ACC     I-S-NOM    with       that-M-S-ABL     discuss-1-S-SUBJ   large-COMPAR-N-S-ACC   REL-M-S-ACC        I-S-NOM        finally               believe-1-S       in              parade-F-S-ABL            carry-SUPINE-M-S-ACC         go-INFIN-PASS        game-M-PL-ABL            in front of      effigy-F-S-ABL        and               with           spectator-M-PL-ABL       discuss-PART-FUT-M-S-ACC
+\l Why should I discuss any more with him, since I believe he'll be carried in a parade with the games, in front of his effigy, and he'll discuss [it] with the spectators?
+
+\t Qui                  postquam                 audierat                      [non          datum                        iri                 filio              uxorem              suo],                 numquam                quoiquam                       nostrum           verbum               fecit                neque          id                      aegre           tulit.        
+\m Qui                  postquam                 audierat                      [non          datum                        iri                 filio              uxorem              suo],                 numquam                quoiquam                       nostrum           verbum               fecit                neque          id                      aegre           tulit.        
+\g REL-M-S-NOM          after                    hear-3-S-PLUPERF              not           give-SUPINE-M-S-ACC          go-INFIN-PASS       son-M-S-DAT        wife-F-S-ACC        own-M-S-DAT           never                  INDEFIN-M-S-DAT                I-PL-GEN          word-N-S-ACC         make-3-S-PERF        nor            ANA-N-S-ACC             sickly          carry-3-S-PERF
+\l Ever since he'd heard a wife wouldn't be given to his son, he never said a word to any of us and he didn't take it badly.
+
+\t Hanc            fidem                  sibi                 me                    obsecravit               [qui              se...]         sciret                         [...non            desertum                               iri]                ut           darem.              
+\m Hanc            fidem                  sibi                 me                    obsecravit               [qui              se...]         sciret                         [...non            desertum                               iri]                ut           darem.              
+\g this-F-S-ACC    faith-F-S-ACC          ANA-DAT              I-S-ACC               plead-3-S-PERF           REL-S-ABL         ANA-ACC        know-3-S-IMPERF-SUBJ           not                desert-SUPINE-M--S-ACC                 go-INFIN-PASS                    give-1-S-IMPERF-SUBJ
+\l She begged me to give her this pledge, so that she'd know she won't be deserted.
+
+\t Speravi            ego         [istam            tibi           parituram                        filium].
+\m Speravi            ego         [istam            tibi           parituram                        filium].
+\g hope-1-S-PERF      I-S-NOM     that-F-S-ACC      you-S-DAT      give birth-F-S-ACC-PART-FUT      son-M-S-ACC
+\l I hoped she would bear you a son.
+
+\t Et     ego            [idem...]          spero          [...fore].
+\m Et     ego            [idem...]          spero          [...fore].
+\g and    I-S-NOM        same-N-S-ACC       hope-1-S       be-INFIN-FUT
+\l And I hope the same thing will occur.
+
+\t quae             sperat      [se             nupturam                   viridulo              adolescentulo]
+\m quae             sperat      [se             nupturam                   viridulo              adolescentulo]
+\g REL-F-S-NOM      hope-3-S    ANA-ACC         marry-F-S-ACC-PART-FUT     green-M-S-DAT         youth-M-S-DAT
+\l who hopes she will marry a green young lad
+
+\t Cumque hic                              tam         formosus                   homo                     ac     te          dignus                      puellus   
+\m Cum-que hic                              tam         formosus                   homo                     ac     te          dignus                      puellus   
+\g since-and           this-M-S-NOM      so          shapely-M-S-NOM      human-M-S-NOM         and    you-S-ABL               worthy-M-S-NOM      little boy-M-S-NOM
+\l and since he [is] such a shapely person and a boy worthy of you
+
+\t virago,                           cui               par                 imber               et           ignis             spiritus          et          gravis                terra   
+\m virago,                           cui               par                 imber               et           ignis             spiritus          et          gravis                terra   
+\g female warrior-F-S-NOM     REL-S-DAT         equal-S-NOM      rain-M-S-NOM     and          fire-M-S-NOM   breath-M-S-NOM                    and         heavy-S-NOM      earth-F-S-NOM
+\l a female warrior, to whom rain and fire and breath and heavy earth [are] equal
+
+\t Sed         ego             stolidus;               gratulatum                              med             oportebat          prius.
+\m Sed         ego             stolidus;               gratulatum                              med             oportebat          prius.
+\g but         I-S-NOM      stupid-M-S-NOM       congratulate-SUPI     NE-M-S-ACC       I-S-ACC      behoove-3-S-IMPERF           before
+\l But I [am] stupid; I should have congratulated [you] earlier.
+
+\t Acontizomenos17 fabula                                est            prime           bona.
+\m Acontizomenos17 fabula                                est            prime           bona.
+\g `javelined'                      play-F-S-NOM      be-3-S      first(ly)       good-F-S-NOM
+\l Javelined is a first-rate play.
+
+\t Est         ibi          sub      eo                 saxo                 penitus strata                             harena          ingens              specus18.
+\m Est         ibi          sub      eo                 saxo                 penitus strata                             harena          ingens              specus18.
+\g be-3-S   there        under    that-N-S-ABL    rock-N-S-ABL     deep            strew-PPP-F-S-ABL       sand-F-S-ABL                 huge-S-NOM       cave-M-S-NOM
+\l Under that rock is a huge cave with a stretch of sand deep within.
+
+\t Servorum              est       festus                 dies                  hic               quem          plane          hexametro                   versu                non          dicere          possis.   
+\m Servorum              est       festus                 dies                  hic               quem          plane          hexametro                   versu                non          dicere          possis.   
+\g slave-M-PL-GEN     be-3-S holiday-M-S-NOM     day-M-S-NOM        this-M-S-NOM   REL-M-S-ACC   plainly                       hexameter-M-S-ABL           verse-M-S-ABL     not          say-INFIN    be able-2-S-SUBJ
+\l This is a slaves' holiday which you simply couldn't say in a hexameter verse.
+
+\t Deicerent                       [necesus               ese            [Bacanal                 habere]].
+\m Deicerent                       [necesus               ese            [Bacanal                 habere]].
+\g decide-3-PL-IMPERF-SUBJ         necessary-N-S-ACC      be-INFIN       Bacchic rite-N-S-ACC     have-INFIN
+\l They should it was necessary to have a Bacchic rite.
+
+\t Quanto                   magis          [te            isti             modi                 esse]          intellego,                       tanto,                Antigona,               magis           [me...] par                      est         [...tibi                    consulere          et           parcere].  
+\m Quanto                   magis          [te            isti             modi                 esse]          intellego,                       tanto,                Antigona,               magis           [me...] par                      est         [...tibi                    consulere          et           parcere].  
+\g how much-N-S-ABL         more           you-S-ACC      that-S-GEN       measure-M-S-GEN      be-INFIN       understand-1-S                   so much-N-S-ABL       Antigone-F-S-VOC        more            I-S-ACC      equal-N-S-NOM       be-3-S      you-S-DAT                   counsel-INFIN      and          spare-INFIN
+\l The more I understand you to be in this mood, so much more, Antigone, it's right for me to counsel you and spare you.
+
+\t quia        [temeti                nihil                  allatum]                        intellego.
+\m quia        [temeti                nihil                  allatum]                        intellego.
+\g because     wine-N-S-GEN           nothing-N-S-ACC        carry toward-PPP-N-ACC          understand-1-S
+\l because I understand no wine has been brought in
+
+\t Credidi                 [silicernium                 eius                 me          esse           esurum].
+\m Credidi                 [silicernium                 eius                 me          esse           esurum].
+\g believe-1-S-PERF        funeral feast-N-S-ACC        ANA-M-S-GEN          I-S-ACC     be-INFIN       eat-PART-FUT- M-S-ACC
+\l I believed I was going to eat his funeral feast.
+
+\t [Deumque        de        consilio                hoc              itiner...]            credo                          [...conatum               modo].  
+\m [Deum-que        de        consilio                hoc              itiner...]            credo                          [...conatum               modo].  
+\g god-M-PL-GEN-and           from      advice-N-S-ABL          this-N-S-ABL     journey-N-S-ACC       believe-1-S          attempt-PPP-M-S-ACC       recently
+\l I think [you] recently attempted this journey because of the gods' advice.
+
+\t Ille            [navem             salvam]             nuntiat            aut         [irati              adventum                 senis].    
+\m Ille            [navem             salvam]             nuntiat            aut         [irati              adventum                 senis].    
+\g that-M-S-NOM    ship-F-S-ACC       safe-F-S-ACC        announce-3-S       or          angry-M-S-GEN       arrival-M-S-ACC          old-M-S-GEN
+\l He announces the safe ship or the angry old man's arrival.
+
+\t Nunc        fores                pultabo,            [adesse...]           ut       [...me]        sciat.
+\m Nunc        fores                pultabo,            [adesse...]           ut       [...me]        sciat.
+\g now         door-F-PL-ACC        knock-1-S-FUT       be near-INFIN         COMP     I-S-ACC        know-3-S-SUBJ
+\l Now I'll knock on the door so he'll know I'm here.
+
+\t Neve        inter        ibei         virei               plous        duobus,             mulieribus               plous          tribus              [arfuise]                 velent.              
+\m Neve        inter        ibei         virei               plous        duobus,             mulieribus               plous          tribus              [arfuise]                 velent.              
+\g nor         among        there        man-M-PL-NOM        more         two-M-PL-ABL        woman-F-PL-ABL           more           three-F-PL-ABL      be near-INFIN-PERF        wish-3-PL-IMPERF-SUBJ
+\l Nor should more than two men [or] more than three women want to be present at the same time.
+
+\t Atque       [haud        longe         abesse]            oportet,           verum         longe       hinc            afuit.
+\m Atque       [haud        longe         abesse]            oportet,           verum         longe       hinc            afuit.
+\g and         not          long          be away-INFIN      be fitting-3-S     but           long        from here       be away-3-S-PERF
+\l And it shouldn't be far away, but it was far away from here.
+
+\t Hoc               dolet,           [med          obesse],                  [illos             prodesse],                   [me              obstare],                    [illos               obsequi].               
+\m Hoc               dolet,           [med          obesse],                  [illos             prodesse],                   [me              obstare],                    [illos               obsequi].               
+\g this-N-S-NOM      pain-3-S         I-S-ACC       be in the way-INFIN       that-M-PL-ACC      be of benefit-INFIN          I-S-ACC          stand in the way-INFIN       that-M-PL-ACC        follow after-INFIN-DEPON
+\l This is painful, that I am in the way and they are useful, that I stand in the way and they follow after.
+
+\t Ut        pueri                     infantes            credunt          [signa           omnia           aenea                  vivere            et        esse             homines],          sic      isti              [somnia               ficta                      vera]                  putant,         credunt         [signis           cor              inesse          in        aenis].        
+\m Ut        pueri                     infantes            credunt          [signa           omnia           aenea                  vivere            et        esse             homines],          sic      isti              [somnia               ficta                      vera]                  putant,         credunt         [signis           cor              inesse          in        aenis].        
+\g as        boy-M-PL-NOM              infant-M-PL-NOM     believe-3-PL     sign-N-PL-ACC    all-N-PL-ACC    bronze-N-PL-ACC        live-INFIN        and       be-INFIN         human-M-PL-ACC     thus     that-M-PL-NOM     dream-N-PL-ACC        create-PPP-N-PL-ACC        true-N-PL-ACC          think-3-PL      believe-3-PL    sign-N-PL-ABL     heart-N-S-ACC    be in-INFIN     in        bronze-N-PL-ABL
+\l As young boys believe all bronze images are alive and are human, so those people think the stuff of dreams is real, they believe a heart exists in bronze images.
+
+\t [Inter           orbem                 et        miliarium               unum            digitum              interesse]              oportet.      
+\m [Inter           orbem                 et        miliarium               unum            digitum              interesse]              oportet.      
+\g between          wheel-F-S-ACC         and       mill column-N-S-ACC     one-M-S-ACC     finger-M-S-ACC       be between-INFIN        be fitting-3-S
+\l There should be one finger's width between the wheel and the mill column.
+
+\t Eo               ego             exemplo           servio,      [tergo...]       ut        [...in     rem                   esse]         arbitror.      
+\m Eo               ego             exemplo           servio,      [tergo...]       ut        [...in     rem                   esse]         arbitror.      
+\g ANA-N-S-ABL      I-S-NOM         example-N-S-ABL   serve-1-S    back-N-S-DAT     as        into       affair-F-S-ACC        be-INFIN      think-1-S-DEPON
+\l I serve by this guideline: however I think [something] is useful for my hide.
+
+\t Ego           nullo             possum        remedio          [me        evolvere           ex         his                  turbis].            
+\m Ego           nullo             possum        remedio          [me        evolvere           ex         his                  turbis].            
+\g I-S-NOM       no-N-S-ABL        be able-1-S   remedy-N-S-ABL   I-S-ACC    roll out-INFIN     out of     this-F-PL-ABL        disturbance-F-PL-ABL
+\l I cannot extricate myself from these troubles in any way.
+
+\t Nil                    satis                  firmi              video        quam                       ob              rem                   [accipere           hunc...]          mi            expediat               [...metum]. 
+\m Nil                    satis                  firmi              video        quam                       ob              rem                   [accipere           hunc...]          mi            expediat               [...metum]. 
+\g nothing-N-S-ACC        enough-N-S-ACC         firm-N-S-GEN       see-1-S      INTERROG-F-S-ACC           because of      affair-F-S-ACC        take-INFIN          this-M-S-ACC      I-S-DAT       benefit-3-S-SUBJ       fear-M-S-ACC
+\l I don't see any strong enough reason why it should benefit me to take on this fear.
+
+\t [Sit               [me          scire]...]       volo           [...Decimus           mihi             conscius             Sura]               ne        damnum                faciam.    
+\m [Sit               [me          scire]...]       volo           [...Decimus           mihi             conscius             Sura]               ne        damnum                faciam.    
+\g be-3-S-SUBJ        I-S-ACC      know-INFIN       want-1-S       Decimus-M-S-NOM       I-S-DAT          aware-M-S-NOM        Sura-M-S-NOM        lest      harm-N-S-ACC          do-1-S-SUBJ
+\l I want Decimus Sura to be aware with me that I know [this], so I won't do anything wrong.
+
+\t Nam          ego          [aliquid              contrahere...]             cupio          [...litigi           inter          eos                 duos].      
+\m Nam          ego          [aliquid              contrahere...]             cupio          [...litigi           inter          eos                 duos].      
+\g for          I-S-NOM      INDEFIN-N-S-ACC       draw together-INFIN        wish-1-S       quarrel-N-S-GEN      between        ANA-M-PL-ACC        two-M-PL-ACC
+\l For I want to cause a quarrel between those two.
+
+\t vobis              cum         uno               semel             ubi        aetatem           agere         decretum                  'st          viro       
+\m vobis              cum         uno               semel             ubi        aetatem           agere         decretum                  'st          viro       
+\g you-PL-DAT         with        one-M-S-ABL       at same time      when       age-F-S-ACC       do-INFIN      decide-PPP-N-S-NOM        be-3-S       man-M-S-ABL
+\l when once you have decided to live out your live with one man
+
+\t Per            omnis               tibi             adiuro             deos                  [numquam                 eam            me             deserturum].           
+\m Per            omnis               tibi             adiuro             deos                  [numquam                 eam            me             deserturum].           
+\g through        all-M-PL-ACC        you-S-DAT        swear to-1-S       god-M-PL-ACC          never                    ANA-F-S-ACC    I-S-ACC        desert-PART-FUT-M-S-ACC
+\l I swear to you by all the gods that I will never desert her.
+
+\t quo                     [populum                atque        urbem...]        pacto             [...servare...]        potisset                        [...amplius           Romanam]     
+\m quo                     [populum                atque        urbem...]        pacto             [...servare...]        potisset                        [...amplius           Romanam]     
+\g INTERROG-N-S-ABL        people-M-S-ACC          and          city-F-S-ACC     means-N-S-ABL     save-INFIN             be able-3-S-IMPERF-SUBJ         more                  Roman-F-S-ACC
+\l by what means he might be better able to save the [Roman] people and the Roman city.
+
+\t Donicum videbis                   [me           carpento           vehentem             en    domum               venisse]       
+\m Donicum videbis                   [me           carpento           vehentem             en    domum               venisse]       
+\g when              see-2-S-FUT     I-S-ACC       carriage-N-S-ABL   ride-S-ACC-PART      lo    home-F-S-ACC        come-INFIN-PERF
+\l when you see I've come home riding in a carriage
+
+\t Hic      tu               apte credis                  [quemquam            latrina           petisse]?
+\m Hic      tu               apte credis                  [quemquam            latrina           petisse]?
+\g here     you-S-NOM        aptly        believe-2-S     INDEF-M-S-ACC        latrine-F-S-ABL   seek-INFIN-PERF
+\l Do you really believe someone here has gone to the latrines?
+
+\t [Quemnam             te                 esse]          dicam?
+\m [Quem-nam             te                 esse]          dicam?
+\g    INTERROG-M-S-ACC-for             you-S-ACC          be-INFIN       say-1-S-FUT
+\l Then who will I say you are?
+
+\t [Alcumenam ante aedis                                       stare            saturam]            intellego.
+\m [Alcumenam ante aedis                                       stare            saturam]            intellego.
+\g    Alcmena-F-S-ACC           before     wall-F-PL-ACC       stand-INFIN      full-F-S-ACC        understand-1-S
+\l I understand the pregnant Alcmena is standing in front of the house.
+
+\t [Omnes                    cinaedos               esse]         censes          quia         tu             es?
+\m [Omnes                    cinaedos               esse]         censes          quia         tu             es?
+\g    all-M-PL-ACC           lecher-ACC-M-PL        be-INFIN      believe-2-S     because      you-S-NOM      be-2-S
+\l Do you believe everyone is a lecher because you are?
+
+\t Ne           [tibi           me           esse        ob                  eam                rem              obnoxium]                reare.        
+\m Ne           [tibi           me           esse        ob                  eam                rem              obnoxium]                reare.        
+\g    not       you-S-DAT       I-S-ACC      be-INFIN    because of          ANA-F-S-ACC        thing-F-S-ACC    subject-M-S-ACC          think-2-S-SUBJ
+\l Don't think I'm under your control for that reason.
+
+\t At            vereor cum [te                            esse           Alcmeonis               fratrem]             factis                 dedicat.    
+\m At            vereor cum [te                            esse           Alcmeonis               fratrem]             factis                 dedicat.    
+\g    but        fear-1-S       since      you-S-ACC       be-INFIN       Alcmeon-M-S-GEN brother-M-S-ACC              deed-N-PL-ABL          give out-3-S
+\l But I'm afraid, since he claims with facts that you're Alcmeon's brother.
+
+\t [Pariter             te                esse          erga          illum]            video         ut     [illum                                erga]          scio.   
+\m [Pariter             te                esse          erga          illum]            video         ut     [illum                                erga]          scio.   
+\g    equally           you-S-ACC         be-INFIN      towards       that-M-S-ACC      see-1-S       as     that-M-S-ACC       you-S-ACC          towards        know-1-S
+\l I see you feel the same about him as I know he feels about you.
+
+\t [Eam                 nunc            esse         inventam                   probris                conpotem]                 scis.
+\m [Eam                 nunc            esse         inventam                   probris                conpotem]                 scis.
+\g    ANA-F-S-ACC       now             be-INFIN     found-PPP-S-F-ACC       bad deed-N-PL-ABL        sharing in-F-S-ACC        know-2-S
+\l You know she has been found participating in bad behavior.
+
+\t Scito                    [pro           ratione             fructum       esse].
+\m Scito                    [pro           ratione             fructum       esse].
+\g   know-2-S-IMPERAT-FUT   according to   reckoning-F-S-ABL   use-M-S-ACC   be-INFIN
+\l Realize that the result is in accordance with what you find.'23
+
+\t Nam             [nec        te             neque         me         novisse]            ait        haec.
+\m Nam             [nec        te             neque         me         novisse]            ait        haec.
+\g    for          nor         you-S-ACC      nor           I-S-ACC    know-INFIN-PERF     say-3-S    this-F-S-NOM
+\l For this woman says she knows neither you nor me.
+
+\t Et          enim         vero      quoniam          pro        formam            cepi             huius             in      med              et      statum24,              decet            [et         facta               moresque         huius                            habere             me         similis            item].  
+\m Et          enim         vero      quoniam          pro        formam            cepi             huius             in      med              et      statum24,              decet            [et         facta               mores-que         huius                            habere             me         similis            item].  
+\g    and      for          truly     since                       shape-F-S-ACC     take-1-S-PERF    that-M-S-GEN      into    I-S-ACC          and     standing-M-S-ACC       be fitting-3-S   and         do-PPP-N-PL-ACC     custom-M-PL-ACC-and          that-M-S-GEN          have-INFIN         I-S-ACC    alike-M-PL-ACC     likewise
+\l And truly, since I took upon myself his shape and standing, it's likewise right for me to have his actions and behaviors.
+
+\t [Flexa               non        falsa                    autumare]               dictio               Delphis                solet.           
+\m [Flexa               non        falsa                    autumare]               dictio               Delphis                solet.           
+\g  bend-PPP-N-PL-ACC   not        deceive-PPP-N-PL-ACC     say-INFIN               speaking-f-S-NOM     Delphi-M-PL-LOC        be accustomed-3-S
+\l The oracle at Delphi is accustomed to saying contorted [but] not false words.
+
+\t Philocomasium ...[quam                     in proxumo                  vidisse...]        aiebas           [...te           osculantem          atque        amplexantem            cum altero]                
+\m Philocomasium ...[quam                     in proxumo                  vidisse...]        aiebas           [...te           osculantem          atque        amplexantem            cum altero]                
+\g  Philocomasium-N-S-ACC      REL-F-S-ACC    in   close-SUPER-N-S-ABL see-INFIN-PERF        say-2-S-IMPERF   you-S-ACC        kiss-PART-S-ACC     and          embrace-PART-S-ACC     with        another-M-S-ABL
+\l Philocomasium ... whom you said you saw next door kissing and embracing some man
+
+\t Porro [eunuchum...]                dixti            [...velle        te].
+\m Porro [eunuchum...]                dixti            [...velle        te].
+\g  then      eunuch-M-S-ACC          said-2-S-PERF    want-INFIN       you-S-ACC
+\l Then you said you wanted a eunuch.
+
+\t [[Men            hodie        usquam       convenisse              te]...],        audax,              audes           [...dicere],        postquam           advorsum            mi          imperavi                [ut       huc          venires]?           
+\m [[Me-n            hodie        usquam       convenisse              te]...],        audax,              audes           [...dicere],        postquam           advorsum            mi          imperavi                [ut       huc          venires]?           
+\g  I-S-ACC-Y/N      today        ever         meet-INFIN-PERF         you-S-ACC       daring-M-S-VOC      dare-2-S        say-INFIN           after              opposite            I-S-DAT     order-1-S-PERF          COMP      to here      come-2-S-IMPERF-SUBJ
+\l Do you dare say you meet me some time today, after I ordered you to come here to meet me?
+
+\t Ill'               est         miles              meus              erus,                  qui           hinc               ad        forum             abiit,               gloriosus,             impudens,                         stercoreus, plenus                     periuri            atque adulteri.               Ait          [sese              ultro          omnis         mulieres             sectarier],        is                 deridiculo                     'st          quaqua          incedit          omnibus.    
+\m Ill'               est         miles              meus              erus,                  qui           hinc               ad        forum             abiit,               gloriosus,             impudens,                         stercoreus, plenus                     periuri            atque adulteri.               Ait          [sese              ultro          omnis         mulieres             sectarier],        is                 deridiculo                     'st          quaqua          incedit          omnibus.    
+\g  that-M-S-NOM      be-3-S      soldier-M-S-NOM    my-M-S-NOM        master-M-S-NOM         REL-M-S-NOM   from here          to        forum-N-S-ACC     go away-3-S-PERF     boastful-M-S-NOM       shameless-M-S-NOM-PART            foul-M-S-NOM       full-M-S-NOM        perjury-N-S-GEN    and         adultery-N-S-GEN say-3-S       REFLEX-ACC         beyond         all-F-PL-ACC woman-F-PL-ACC        follow-INFIN       ANA-M-S-NOM        object of ridicule-N-S-DAT     be-3-S       wherever        go in-3-S        all-M-PL-DAT
+\l That soldier is my master, who went from here to the forum, a boastful, shameless, foul man, full of lies and adultery. He even says all the women follow him around. He's an object of ridicule to all wherever he goes.
+
+\t Nullon     ego              Chremetis               pacto                   adfinitatem                                         effugere           potero?        
+\m Nullo-n     ego              Chremetis               pacto                   adfinitatem                                         effugere           potero?        
+\g    no-N-S-ABL-Y/N     I-S-NOM          Chremes-M-S-GEN        means-N-S-ABL            relationship by marriage-F-S-ACC          flee from-INFIN    be able-1-S-FUT
+\l Will I be unable to flee a relationship by marriage with Chremes by any means at all?
+
+\t Nam             ea               oblectat        spes                    aerumnosum                    hospitem            dum            [illud...]         quod               miser                      est           [...clam           esse       alteros]                censet.   
+\m Nam             ea               oblectat        spes                    aerumnosum                    hospitem            dum            [illud...]         quod               miser                      est           [...clam           esse       alteros]                censet.   
+\g    for          ANA-F-S-NOM      please-3-S      hope-F-S-NOM            full of hardship-M-S-ACC      stranger-M-S-ACC    while          that-N-S-ACC       REL-N-S-ACC        wretched-M-S-NOM           be-3-S        in secret          be-INFIN   other-M-PL-ACC          believe-3S
+\l For this hope pleases the stranger beset with hardship while he believes that for which he is wretched is unknown to others.
+
+\t trahere              in       salum           classis               et        vela                  ventorum          animae                immittere    
+\m trahere              in       salum           classis               et        vela                  ventorum          animae                immittere    
+\g    pull-INFIN        into     sea-N-S-ACC     fleet-F-PL-ACC        and       sail-N-PL-ACC         wind-M-PL-GEN     spirit-F-S-DAT        send in-INFIN
+\l to pull the fleets into the sea and send the sails into the rush of the winds
+
+\t Per.        Et ibi         [osculantem meum                       hospitem        cum ista                hospita]                   vidisti?            Scel.      Vidi           (cur         negem       quod              viderim?),          sed [Philocomasium                       me         vidisse]           censui          
+\m Per.        Et ibi         [osculantem meum                       hospitem        cum ista                hospita]                   vidisti?            Scel.      Vidi           (cur         negem       quod              viderim?),          sed [Philocomasium                       me         vidisse]           censui          
+\g  Per.And    there   kiss-PART-S-ACC     my-M-S-ACC        guest-M-S-ACC   with     that-F-S-ABL   guest-F-S-ABL                      see-2-S-PERF        Scel.see-1-S-PERF   why      deny-1-S-SUBJ REL-N-S-ACC         see-1-S-PERF-SUBJ   but    Philocomasium-N-S-ACC                   I-S-ACC    see-INFIN-PERF     believe-1-S-PERF
+\l Per.      And there you saw my male guest kissing that female guest? Scel.      I saw it (why should I deny what I saw?), but I believed it was Philocomasium that I saw.
+
+\t Atque        [id                me          dedisse]             intellego.
+\m Atque        [id                me          dedisse]             intellego.
+\g  but         ANA-N-S-ACC        I-S-ACC     give-INFIN-PERF      understand-1-S
+\l But I understand I gave that.
+
+\t Nil                  equidem,             nisi       [quod             illum...]       audivi          [...dicere].
+\m Nil                  equidem,             nisi       [quod             illum...]       audivi          [...dicere].
+\g  nothing-N-S-NOM     indeed               except     REL-N-S-ACC       that-M-S-ACC    here-1-S-PERF   say-INFIN
+\l [That's] nothing indeed, except what I heard him say.
+
+\t [Haec              me           curaturum]                             dicito.
+\m [Haec              me           curaturum]                             dicito.
+\g  this-N-PL-ACC     I-S-ACC      take care of-PART-FUT-M-S-ACC          say-2-S-IMPERAT-FUT
+\l Say I'll take care of these things.
+
+\t [Hanc              mane          esse...]         oportet          [...ieiunum].
+\m [Hanc              mane          esse...]         oportet          [...ieiunum].
+\g this-F-S-ACC       morning       eat-INFIN        be fitting-3-S   fasting-M-S-ACC
+\l The fasting person should eat this [cabbage] in the morning.
+
+\t [Hanc...]           oportet             [...mane           ieiunum           esse].
+\m [Hanc...]           oportet             [...mane           ieiunum           esse].
+\g this-F-S-ACC        be fitting-3-S      morning           fasting-M-S-ACC    eat-INFIN
+\l The fasting person should eat this [cabbage] in the morning.
+
+\t [clanculum       te          [istaec         flagitia            facere]...]   censebat                  [...potis]?
+\m [clanculum       te          [istaec         flagitia            facere]...]   censebat                  [...potis]?
+\g  in secret       you-S-ACC   that-N-PL-ACC   disgrace-N-PL-ACC   do-INFIN      believe-2-S-IMPERF        able-S-ACC 
+\l Did you believe you could do those wrong deeds of yours in secret?
+
+\t Quid                  ait       tandem, [Glycerium              se        scire         civem                   esse       Atticam].       
+\m Quid                  ait       tandem, [Glycerium              se        scire         civem                   esse       Atticam].       
+\g   INTERROG-N-S-ACC    say-3-S   at length   Glycerium-N-S-ACC   ANA-ACC   know-INFIN    citizen-F-S-ACC         be-INFIN   Athenian-F-S-ACC
+\l What does he say then, that Glycerium knows she's an Athenian citizen.
+
+\t Iovi                  dapali                    culignam            vini             quantam                vis             polluceto.           
+\m Iovi                  dapali                    culignam            vini             quantam                vis             polluceto.           
+\g  Jupiter-M-S-DAT      of the feast-M-S-DAT      cup-F-S-ACC         wine-N-S-GEN     how much--F-S-ACC      wish-2-S        offer-2-S-IMPERAT-FUT
+\l To Jupiter of the feast offer a cup of wine of any size you wish.
+
+\t Ait        [sese          [Athenas              fugere] cupere].
+\m Ait        [sese          [Athenas              fugere] cupere].
+\g  say-3-S   ANA-ACC        Athens-F-PL-ACC       flee-INFIN     wish-INFIN
+\l He says he wants to flee to Athens.
+
+\t sacra                  quae                  [Cronia                 esse]         iterantur          {ab        illis}ABL/*?illisABL
+\m sacra                  quae                  [Cronia                 esse]         iterantur          {ab        illis}ABL/*?illisABL
+\g  sacrifice-N-PL-ACC    REL-N-PL-NOM          Cronia-N-PL-NOM         be-INFIN      repeat-3-PL-PASS   by         that-PL-ABL         
+\l sacrifices that are said by them to be the Cronia [i.e. for Cronus]
+
+\t Illum              dicis cum armis                           aureis,            cuius           tu                legiones               difflavisti              spiritu   ABL   /*ex,ab spirituABL.
+\m Illum              dicis cum armis                           aureis,            cuius           tu                legiones               difflavisti              spiritu   ABL   /*ex,ab spirituABL.
+\g  that-M-S-ACC      say-2-S with      weapon-N-PL-ABL         golden-N-PL-ABL    REL-S-GEN       you-S-NOM         legion-F-PL-ACC        blow away-2-S-PERF       breath-M-S-ABL                     
+\l You mean that one with golden weapons, whose legions you blew away with a breath
+
+\t Non         ego          [illam           mi        dotem...]          duco            [...esse...]   quae                 dos                dicitur           [...sed     pudicitiam         et         pudorem             et           sedatum             cupidinem,        deum                metum,         parentum          amorem         et           cognatum            concordiam].   
+\m Non         ego          [illam           mi        dotem...]          duco            [...esse...]   quae                 dos                dicitur           [...sed     pudicitiam         et         pudorem             et           sedatum             cupidinem,        deum                metum,         parentum          amorem         et           cognatum            concordiam].   
+\g    not      I-S-NOM      that-F-S-ACC     I-S-DAT   dowry-F-S-ACC      lead-1-S        be-INFIN       REL-F-S-NOM          dowry-F-S-NOM      say-3-S-PASS      but         chastity-F-S-ACC   and        modesty-M-S-ACC     and          calm-PPP-M-S-ACC    desire-M-S-ACC    god-M-PL-GEN        fear-M-S-ACC   parent-M-PL-GEN   love-M-S-ACC   and          relative-M-PL-GEN   harmony-F-S-ACC
+\l I don't believe my dowry is that which is said [to be] a dowry, but rather chastity, modesty, calm desire, fear of the gods, love of one's parents and harmony among one's relatives.
+
+\t Haec              urbs            est        Thebae.           In   illisce          habitat                 aedibus            Amphitruo.        
+\m Haec              urbs            est        Thebae.           In   illis-ce          habitat                 aedibus            Amphitruo.        
+\g   this-F-S-NOM    city-F-S-NOM    be-3-S     Thebes-F-PL-NOM   in   that-F-PL-ABL-INTENSIF   live-3-S         wall-F-PL-ABL      Amphitryon-M-S-NOM
+\l This city is Thebes. In those walls over there lives Amphitryon.
+
+\t Hic habitat mulier,                           nomen            quoi,                est         Phronesium;               haeci
+\m Hic habitat mulier,                           nomen            quoi,                est         Phronesium;               haeci
+\g    this-N-S-GEN      generation-N-S-GEN    habit-M-PL-ACC in         ANA-ABL         possess-3-S
+\l Here resides a woman whose name is Phronesium; this one has the habits of this generation.
+
+\t Neque             egoi         {hunc            hominem}j            [huc             hodie           ad        aedis               has...]                sinam               umquam              [...PROj          accedere].    
+\m Neque             egoi         {hunc            hominem}j            [huc             hodie           ad        aedis               has...]                sinam               umquam              [...PROj          accedere].    
+\g    nor            I-S-NOM      this-M-S-ACC     human-M-S-ACC        to here          today           to        wall-F-PL-ACC       this-F-PL-ACC          allow-1-S-FUT       ever                                  approach-INFIN
+\l And I'll never allow this man to come here to this house today.
+
+\t Quo                  modo                 haec           [hinc          huc               transire]           potuit.
+\m Quo                  modo                 haec           [hinc          huc               transire]           potuit.
+\g    REL-M-S-ABL       means-M-S-ABL        this-F-S-NOM   from here      to here           go across-INFIN     be able-3-S-PERF
+\l In that way this woman was able to go across from here to here.
+
+\t    servos             sum, sed [med                 esse           huiusj]                credidi.             Ego           [huncj...]
+\m    servos             sum, sed [med                 esse           huiusj]                credidi.             Ego           [huncj...]
+\g    consider-1-S-IMPERF you-S-ACC        be-INFIN    this-M-S-DAT      and                 hold out-1-S-PERF    business-N-S-ACC
+\l Yes, I certainly know this man: he is my master. In fact, I am his slave, but I believe I was this man's. I used to believe this one was you; I even carried out business for this man.
+
+\t  [...insanire]          praedicantj?
+\m  [...insanire]          praedicantj?
+\g  be insane-INFIN        say before-3-PL-SUBJ
+\l Why is that, that these men here claim I'm insane?
+
+\t Iam        [hosjce              absolutosj]                   censeasi.
+\m Iam        [hosj-ce              absolutosj]                   censeasi.
+\g  now       that-M-PL-ACC-INTENSIF        loose from-PPP-M-PL-ACC       believe-2-S-SUBJ
+\l Now you'd think those were paid for.
+
+\t {Omnium primum                     iste                qui                sit              Sosia}i,            [hoci               dici]             volo.   
+\m {Omnium primum                     iste                qui                sit              Sosia}i,            [hoci               dici]             volo.   
+\g  all-N-PL-GEN      first-N-S-ACC   that-M-S-NOM        INTERROG-M-S-NOM   be-3-s-SUBJ      Sosia-M-S-NOM       this-N-S-ACC        say-INFIN-PASS    want-1-S
+\l First of all, what I want explained is who that Sosia is.
+
+\t  et      conloquarj.
+\m  et      conloquarj.
+\g  and     speak with-1-S-SUBJ-DEPON
+\l But my son-in-law is coming in from the forum. Now I wouldn't dare pass him without stopping and speaking with him.
+
+\t  gaudia].
+\m  gaudia].
+\g  joy-N-PL-ACC
+\l I see Davus. There's no one out of them all that I'd rather [see], for I know he alone will completely rejoice at my joys.
+
+\t Haec                erunt           vilici             officia.               Disciplina              bona                utatur.                   Feriae                serventur. . .      
+\m Haec                erunt           vilici             officia.               Disciplina              bona                utatur.                   Feriae                serventur. . .      
+\g  this-N-PL-NOM      be-3-PL-FUT     overseer-M-S-GEN   duty-N-PL-NOM          discipline-F-S-ABL      good-F-S-ABL        use-3-S-SUBJ-DEPON        holiday-F-PL-NOM      guard-3-PL-PASS-SUBJ
+\l These will be the overseer's duties. He should use good discipline. The holy days should be observed.
+
+\t Egoimet                mihii      non         credoi,            quom         [illaeck             autumare         illumj]             audioi. 
+\m Egoi-met                mihii      non         credoi,            quom         [illaeck             autumare         illumj]             audioi. 
+\g  I-S-NOM-INTENSIF       I-S-DAT    not         believe-1-S        when         that-N-PL-ACC        say-INFIN        that-M-S-ACC        hear-1-S
+\l I don't trust myself when I hear that one say those things.
+
+\t  insanire]           praedicanti,                     egoj         [medj     ...]           adsimulemj                [...insanire],        ut
+\m  insanire]           praedicanti,                     egoj         [medj     ...]           adsimulemj                [...insanire],        ut
+\g  that-M-PL-ACC       from          I-S-ABL        frighten away-1-S-SUBJ
+\l What's better for me than, when they claim I'm insane, I pretend I'm insane in order to frighten them away from me?
+
+\t  [...dici],           [diem                  adimere                    aegritudinem                      hominibus]i.
+\m  [...dici],           [diem                  adimere                    aegritudinem                      hominibus]i.
+\g  say-INFIN-PASS       day-F-S-ACC            take away-INFIN            sickness-F-S-ACC                  human-M-PL-DAT
+\l Or that which I hear said among the common masses is false, that time takes away pain from men.
+
+\t Quae                illi      ad legionem                       facta                        sunt          memorat {pater
+\m Quae                illi      ad legionem                       facta                        sunt          memorat {pater
+\g  REL-F-S-NOM         with       adulterer-M-S-ABL      be-3-S
+\l My father is telling Alcmena what happened to the troops there. She believes he is her husband, when in fact she's with an adulterer.
+
+\t  eiciamk.
+\m  eiciamk.
+\g  throw out-1-S-FUT
+\l Unless you hasten to lead the woman away, I'll throw her out.
+
+\t Tun,          senex,           ais         [habitare              med       in          illisce                                  aedibus]?    
+\m Tu-n,          senex,           ais         [habitare              med       in          illis-ce                                  aedibus]?    
+\g  you-S-NOM-Y/N             old-M-S-NOM      say-2-S     LIVE-INFIN             I-S-ACC   in          that-F-PL-ABL-INTENSIF        wall-F-PL-ABL
+\l Old man, are you saying I live in that house there?
+
+\t Illancin     mulierem                  alere              cum         illa             familia!
+\m Illan-c-in     mulierem                  alere              cum         illa             familia!
+\g  that-F-S-ACC-INTENSIF-Y/N          woman-F-S-ACC             nourish-INFIN      with        that-F-S-ABL     family-F-S-ABL
+\l The very idea of supporting that woman with that family of hers!
+
+\t Solet                  iocari                        saepe          mecum illoc                 modo.
+\m Solet                  iocari                        saepe          me-cum illoc                 modo.
+\g  be accustomed-3-S     joke-INFIN-DEPON              often          I-S-ABL-with      that-M-S-ABL       manner-M-S-ABL
+\l He's used to joking with me often in that manner of his.
+
+\t Num           {vetus                ille                     Cato}              [lacessisse]           conscius             non        erat                ipse                        sibi?  
+\m Num           {vetus                ille                     Cato}              [lacessisse]           conscius             non        erat                ipse                        sibi?  
+\g  N            old-M-S-NOM           that-M-S-NOM             Cato-M-S-NOM       provoke-INFIN-PERF     aware-M-S-NOM        not        be-3-S-IMPERF       INTENSIF-M-S-NOM            ANA-DAT
+\l Surely that famous old Cato wasn't himself unaware that he provoked [people] , was he?
+
+\t Hinc             ego          et           huc           et         illuc       potero             quid                  agant               arbitrarier.     
+\m Hinc             ego          et           huc           et         illuc       potero             quid                  agant               arbitrarier.     
+\g  from here       I-S-NOM      and          to here       and        to there    be able-1-S-FUT    INTERROG-N-S-ACC      do-3-PL-SUBJ        think-INFIN-DEPON
+\l From here I'll able to think about what they're going from both here and there.
+
+\t Ego           ad           forum                     illum              conveniam            atque        illi             hunc                  anulum             dabo            atque     praedicabo           a       tua              uxore            mihi             datum                 esse         eamque     illum           deperire.           
+\m Ego           ad           forum                     illum              conveniam            atque        illi             hunc                  anulum             dabo            atque     praedicabo           a       tua              uxore            mihi             datum                 esse         eam-que     illum           deperire.           
+\g  I-S-NOM      to           forum-N-S-ACC             that-M-S-ACC       meet-1-S-FUT         and          that-M-S-DAT     this-M-S-ACC          ring-M-S-ACC       give-1-S-FUT    and       say before-1-S-FUT   by      your-F-S-ABL     wife-F-S-ABL     I-S-DAT          give-PPP-M-S-ACC      be-INFIN     ANA-F-S-ACC-and     that-M-S-ACC    perish-INFIN
+\l And I'll give this ring to him and say it was given to me by your wife and she's dying [with love] for him.
+
+\t Amphitruoi,                  speravij            egoj           [istami+k          tibii         parituramk                          filiuml],        verum          non          estk        puerol              gravidak.    
+\m Amphitruoi,                  speravij            egoj           [istami+k          tibii         parituramk                          filiuml],        verum          non          estk        puerol              gravidak.    
+\g   Amphitryon-M-S-VOC         hope-1-S-PERF       I-S-NOM        that-F-S-ACC       you-S-DAT     give birth-PART-FUT-F-S-ACC         son-M-S-ACC      but            not          be-3-S      boy-M-S-ABL         heavy-F-S-NOM
+\l Amphitryon, I hoped that [wife] of yours was going bear you a son, but she's not pregnant with a boy.
+
+\t Per           Iovem               deosque omnis                 pro      adiuro,           uxor,                              satin       hoc                est            tibi?,         [me         isti                non       nutasse].                 
+\m Per           Iovem               deos-que omnis                 pro      adiuro,           uxor,                              sati-n       hoc                est            tibi?,         [me         isti                non       nutasse].                 
+\g   through     Jupiter-M-S-ACC     god-M-PL-ACC-and           all-M-PL-ACC               swear to-1-S      wife-F-S-VOC         enough-N-S-NOM-Y/N       this-N-S-NOM       be-3-S         you-S-DAT      I-S-ACC     that-N-S-DAT        not       nod-INFIN-PERF
+\l I swear, wife, by Jupiter and all the gods ?isn't this enough for you? ?I did not nod to that [parasite] of yours.
+
+\t Oculos             hercle egoi                istosj,            improbaj,             ecfodiami           tibij,          ne
+\m Oculos             hercle egoi                istosj,            improbaj,             ecfodiami           tibij,          ne
+\g                 I-S-ACC     observare-INFIN      be able-2-S-IMPERF-SUBJ        INTERROG-N-S-ACC         affair-F-PL-GEN    bear-1-S-SUBJ
+\l Indeed I'll rip out those eyes of yours, you wicked woman, so you can't observe what I'm doing.
+
+\t    linguam             abscidam.
+\m    linguam             abscidam.
+\g    tongue-F-S-ACC      cut off-1-S-FUT
+\l Now I swear I'll cut off that evil tongue of yours, you scoundrel.
+
+\t    [...credere]?
+\m    [...credere]?
+\g    believe-INFIN
+\l Do you want me to believe you about that, even though it's unbelievable?
+
+\t    {flagitium            hominis}i,                 [...cum         istoci              ornatu]?
+\m    {flagitium            hominis}i,                 [...cum         istoci              ornatu]?
+\g    disgrace-N-S-VOC      human-M-S-GEN              with            that-M-S-ABL        ornamentation-M-S-ABL
+\l Aren't you ashamed, you disgrace of a man, to come into my sight with that clothing?
+
+\t Qui          [istucj...]           in                      mentem              'st                 tibii           [...ex     mek...],          {mi                vir}i,                 [...percontarier]?     
+\m Qui          [istucj...]           in                      mentem              'st                 tibii           [...ex     mek...],          {mi                vir}i,                 [...percontarier]?     
+\g    how       that-N-S-ACC          into                    mind-F-S-ACC        be-3-S              you-S-DAT       out of     I-S-ABL           my-M-S-VOC         man-M-S-VOC            investigate-INFIN-DEPON
+\l How has it entered your mind, my husband, to question that of me?
+
+\t Quae              illi    ad legionem               facta                sunt         memorat {pater
+\m Quae              illi    ad legionem               facta                sunt         memorat {pater
+\g   REL-F-S-NOM    with      adulterer-M-S-ABL     be-3-S
+\l My father is telling Alcmena what happened to the troops there. She believes he is her husband, when in fact she's with an adulterer.
+
+\t Meruimus          et    ego       et      pater             de     vobis        et         re               publica.
+\m Meruimus          et    ego       et      pater             de     vobis        et         re               publica.
+\g  earn-1-PL-PERF   and   I-S-NOM   and     father-M-S-NOM    from   you-PL-ABL   and        affair-F-S-ABL   public-F-S-ABL
+\l We ?my father and I ?have earned [something] from you and from the republic.
+
+\t Ea                   signa                nemo                   horum                 familiarium                  videre            poterit:            verum           vos                    videbitis.  
+\m Ea                   signa                nemo                   horum                 familiarium                  videre            poterit:            verum           vos                    videbitis.  
+\g   ANA-N-PL-ACC       sign-N-PL-ACC        no one-M-S-NOM         this-M-PL-GEN         household member-M-PL-GEN    see-iNFIN         be able-3-S-FUT     but             you-PL-NOM             see-2-PL-FUT
+\l Those marks no one in the household will be able to see, but you will see [them].
+
+\t Atque ego                  quoque          etiam, qui                        Iovis               sum      filius,        contagione              mei               patris                metuo             malum.     
+\m Atque ego                  quoque          etiam, qui                        Iovis               sum      filius,        contagione              mei               patris                metuo             malum.     
+\g   but       I-S-NOM        and             also             REL-M-S-NOM      Jupiter-M-S-GEN     be-1-S   son-M-S-NOM    contact-F-S-ABL         my-M-S-GEN        father-M-S-GEN        fear-1-S          bad-N-S-ACC
+\l But even I too, who am the son of Jupiter, fear something bad from contact with my father.
+
+\t Age                    i                      tu                 secundum.
+\m Age                    i                      tu                 secundum.
+\g   drive-2-S-IMPERAT go-2-S-IMPERAT            you-S-NOM          following
+\l Go on, you go behind.
+
+\t   Cereis                   vigiliis               per         vinum              atque        impulsu           adulescentiae].
+\m   Cereis                   vigiliis               per         vinum              atque        impulsu           adulescentiae].
+\g   of Ceres-F-PL-ABL        watch-F-PL-ABL         through     wine-N-S-ACC       and          impulse-M-S-ABL   youth-F-S-GEN
+\l I confess I did wrong to your daughter during the festival of Ceres, [led] by wine and the impulse of youthfulness.
+
+\t Egoi         [mei            amare                hancj]             fateori.
+\m Egoi         [mei            amare                hancj]             fateori.
+\g   I-S-NOM    I-S-ACC         love-INFIN           this-F-S-ACC       confess-1-S-DEPON
+\l I confess I love her.
+
+\t Egoi          [mei         non        pecasse]                      plane        ostendami             aut         poenas   j                 sufferami.     
+\m Egoi          [mei         non        pecasse]                      plane        ostendami             aut         poenas   j                 sufferami.     
+\g  I-S-NOM      I-S-ACC      not        do wrong-INFIN-PERF           plainly      show-1-S-FUT          or          punishment-F-PL-ACC        undergo-1-S-FUT
+\l I'll clearly show I didn't do wrong, or I'll undergo punishment.
+
+\t Tun          [PRO        [te...]           audes           [...Sosiam          esse]           dicere] ,         qui                           ego          sum?  
+\m Tu-n          [PRO        [te...]           audes           [...Sosiam          esse]           dicere] ,         qui                           ego          sum?  
+\g  you-S-NOM-Y/N                       you-S-ACC         dare-2-S        Sosia-M-S-ACC       be-INFIN        say-INFIN         REL-M-S-NOM        I-S-NOM      be-1-S
+\l Do you dare say you are Sosia, when I'm the one who's Sosia?
+
+\t Scisi           tuite           [facta                   velle          mej]          quae                 tui            velisi,                 et        [istuc...]       confidoj            [...a       fratre               mej           impetrassere].  
+\m Scisi           tui-te           [facta                   velle          mej]          quae                 tui            velisi,                 et        [istuc...]       confidoj            [...a       fratre               mej           impetrassere].  
+\g  know-2-S       you-S-NOM-INTENSIF       do-PPP-N-PL-ACC           wish-INFIN    I-S-ACC       REL-N-PL-ACC         you-S-NOM      wish-2-S        and       that-N-S-ACC     trust-1-S           from        brother-M-S-ABL      I-S-ACC       obtain-INFIN-FUT
+\l You yourself know I want done what you want, and I'm confident I'll obtain that from my brother.
+
+\t  virtute                 et         forma                    et       factis               invictissumis]?
+\m  virtute                 et         forma                    et       factis               invictissumis]?
+\g  excellence-F-S-ABL      and        appearance-F-S-ABL       and      do-PPP-N-PL-ABL      not conquer-PPP-SUPER-N-PL-ABL
+\l Why should I tell you what all mortals know, that you, Pyrgopolynices, live on earth as the one with excellence, handsomeness, and the most unconquered feats?
+
+\t Mat.         Tu,              tu             istic,      inquam.        Pen.        Vin           [adferri               noctuam],              quae           tu         tu        usque                         dicat              tibi?    
+\m Mat.         Tu,              tu             istic,      inquam.        Pen.        Vi-n           [adferri               noctuam],              quae           tu         tu        usque                         dicat              tibi?    
+\g  Mat.you-S-NOM        you-S-NOM      there       say-1-S                Pen.wish-2-S-Y/N         carry to-INFIN-PASS    nightly-f-S-ACC        REL-F-S-NOM    tu         tu        continuously                    say-3-S-SUBJ       you-s-DAT
+\l Mat. You, you there, I say. Pen.        Do you want an owl to be brought here that could say"tu tu" to you?
+
+\t   somnis              viditi                prius           quam              [samj             discere] coepiti.
+\m   somnis              viditi                prius           quam              [samj             discere] coepiti.
+\g   dream-M-PL-ABL      see-3-S-PERF          before          than              ANA-F-S-ACC       learn           begin-3-S-PERF
+\l Nor in dreams has anyone seen wisdom, which knowledge is considered [to be], before he has begun to learn it.
+
+\t Etiam, histriones                   anno             cum           in        proscaenio hic              Iovem    i              invocarunt,         venit,                auxilio            isi                    fuit.      
+\m Etiam, histriones                   anno             cum           in        proscaenio hic              Iovem    i              invocarunt,         venit,                auxilio            isi                    fuit.      
+\g   and         actor-M-PL-NOM        year-M-S-ABL     when          in        stage-N-S-ABL    here       Jupiter-M-S-ACC         call on-3-PL-PERF   come-3-S-PERF         help-N-S-DAT       ANA-M-S-NOM            be-3-S-PERF
+\l Yes, last year when the actors on the stage here called on Jupiter, [he] came, he was helpful.
+
+\t     neque                        debetur.
+\m     neque                        debetur.
+\g     nor                          owe-3-S-FUT-PASS
+\l Whoever of them has not so sworn, no one will pay or be owed silver for anything he has gathered.
+
+\t {Donicum pecuniam                               solverit                  aut            satisfecerit            aut      deligarit,                     pecus                et      familia,                     quae                illic        erit,          pigneri            sunto}i.               Siquid                      de       {iis                     rebus}i                 controversiae           erit,          Romae                  iudicium                    fiat.          
+\m {Donicum pecuniam                               solverit                  aut            satisfecerit            aut      deligarit,                     pecus                et      familia,                     quae                illic        erit,          pigneri            sunto}i.               Siquid                      de       {iis                     rebus}i                 controversiae           erit,          Romae                  iudicium                    fiat.          
+\g     until                money-F-S-ACC          pay-3-S-PERF-SUBJ         or             satisfy-3-S-PERF-SUBJ   or       assign-3-S-PERF-SUBJ           cattle-N-S-NOM       and     household-F-S-NOM            REL-F-S-NOM           there      be-3-S-FUT     pledge-N-S-DAT     be-3-PL-SUBJ           anything-N-S-NOM            from     ANA-F-PL-ABL             affair-F-PL-ABL         controversy-F-S-DAT     be-3-S-FUT     Rome-F-S-LOC           judgment-N-S-NOM            become-3-S-SUBJ
+\l Until someone has paid money or security or has assigned the debt, the herds and servants, whatever is there, will be held as pledge. If any part of these matters is controversial, let there be judgment in Rome.
+
+\t     Troiae,                pestem                Pergamo].
+\m     Troiae,                pestem                Pergamo].
+\g     Troy-F-S-DAT           pest-M-S-ACC          Pergamum-N-S-DAT
+\l Then with his divine voice Apollo gave forth that Priam should forebear to take up the first boy who would be born to him afterward, that he would be a tragedy for Troy, a pest for Pergamum.
+
+\t     egregie37           geratj,                  teique    regno                   expellat.
+\m     egregie37           geratj,                  tei-que    regno                   expellat.
+\g     excellently         bear-3-S-SUBJ            you-S-ACC-and          kingdom-N-S-ABL         drive out-3-S-SUBJ
+\l Then take care lest the one you consider to be as dull as a cow, that one should bear a heart fortified with knowledge and drive you out of the kingdom.
+
+\t     pigeat                        [...vendidisse].
+\m     pigeat                        [...vendidisse].
+\g     cause regret-3-S-SUBJ         sell-INFIN-PERF
+\l Those who have sold farms in this region, it should cause them regret to have sold [them] / [them] to have sold them.
+
+\t Tum               meo            patri                   autem          {torulus}   i
+\m Tum               meo            patri                   autem          {torulus}   i
+\g  sign-N-PL-NOM        no one-M-S-NOM         this-M-PL-GEN        household member-M-PL-GEN          see-INFIN      be able-3-S-FUT
+\l But then my father will have a golden knot under his hat. Amphitryon will not have that sign. No one of those in the household will be able to see those signs.
+
+\t  dicei.
+\m  dicei.
+\g  say-2-S-IMPERAT
+\l So go inside and, if the woman is there, order her to go home right away and say these things to her.
+
+\t [Me            tibi           istuc                aetatis           homini                 facinora             puerilia               obicere,                         neque            te decora neque                     tuis                  virtutibus],               [ea                  te                expetere          ex            opibus                 summis                mei               honoris              gratia               mihique              amanti                     ire            opitulatum]                atque        [ea                  te                facere          facinora],           [quae                 istaec...]         aetas              [...fugere facta                          magis          quam             sectari]                  solet,                      [eam...]           pudet           [...me       tibi             in        senecta               obicere                             sollicitudinem].
+\m [Me            tibi           istuc                aetatis           homini                 facinora             puerilia               obicere,                         neque            te decora neque                     tuis                  virtutibus],               [ea                  te                expetere          ex            opibus                 summis                mei               honoris              gratia               mihi-que              amanti                     ire            opitulatum]                atque        [ea                  te                facere          facinora],           [quae                 istaec...]         aetas              [...fugere facta                          magis          quam             sectari]                  solet,                      [eam...]           pudet           [...me       tibi             in        senecta               obicere                             sollicitudinem].
+\g  I-S-ACC       you-S-DAT      that-N-S-ACC         age-F-S-GEN       human-M-S-DAT          deed-N-PL-ACC        boyish-N-PL-ACC        throw in the way of-INFIN        nor              you-S-ACC       honor-N-PL-ACC      your-F-PL-DAT         excellence-F-PL-DAT        ANA-N-PL-ACC         you-S-ACC         seek-INFIN        out of       resource-F-PL-ABL       highest-F-PL-ABL      my-M-S-GEN        honor-M-S-GEN        for the sake of      I-S-DAT-and           love-PART-M-S-DAT          go-INFIN       aid-SUPINE-N-S-ACC         and          ANA-N-PL-ACC         you-S-ACC         do-INFIN        deed-N-PL-ACC        REL-N-PL-ACC          that-N-PL-ACC      age-F-S-NOM        flee-INFIN       do-PPP-N-PL-ACC          more           than             follow-INFIN-DEPON        be accustomed-3-S           ANA-F-S-ACC        shame-3-S       I-S-ACC      you-S-DAT        in        old age-F-S-ACC       throw in the way of-INFIN           anxiety-F-S-ACC 
+\l For me to throw onto you at this time of your life childish actions, ones not worthy of you or your excellence; for [me] to ask you to go help me when I'm in love and for the sake of my honor, all with your best effort; and for you to do those deeds which [a man your] age is accustomed to flee from rather than pursue, it shames me to throw that anxiety to you in your old age.
+
+\t Mittoi          iam    [osculari            atque            amplexari]i,               [idj          nil]                   putoi.   
+\m Mittoi          iam    [osculari            atque            amplexari]i,               [idj          nil]                   putoi.   
+\g  pass-1-S       now    kiss-INFIN-DEPON     and              embrace-INFIN-DEPON        ANA-N-S-ACC   nothing-N-S-ACC        think-1-S
+\l Now I don't mention kissing and embracing, I think it [to be] nothing.
+
+\t  [...morarier].
+\m  [...morarier].
+\g  delay-INFIN-DEPON
+\l [He's a] disgrace of a man who told me his wife would invite her; she denies she wants her.
+
+\t Donec cum tonitru                            voce             missa                     ex        aethere              [adulterumi
+\m Donec cum tonitru                            voce             missa                     ex        aethere              [adulterumi
+\g  ANA-ACC      Jupiter-M-S-NOM          confess-PPP-M-S-NOM       be-3-S
+\l Then with a voice sent with the thunder from the upper air, Jupiter has confessed he is an adulterer.
+
+\t  [...esse].
+\m  [...esse].
+\g  be-INFIN
+\l Already before this woman said she was pregnant by Pamphilus.
+
+\t  quam sibii].
+\m  quam sibii].
+\g  than       ANA-DAT
+\l as the young would aim to please you rather than themselves.
+
+\t   dolo                  malo             oleum                 neque          oleam                subripuisse].
+\m   dolo                  malo             oleum                 neque          oleam                subripuisse].
+\g   trick-M-S-ABL         bad-M-S-ABL      olive oil-N-S-ACC     nor            olive-F-S-ACC        steal-INFIN-PERF
+\l All the producers who have made olive oil shall swear either to the master or to the guardian that they have not, nor has anyone else, stolen through any stratagem of their own any olive oil or olives from the farm of Lucius Manlius.
+
+\t  [projobj        non         deserturumj]]                       [...ut      daremj].
+\m  [proj-obj        non         deserturumj]]                       [...ut      daremj].
+\g                   not         desert-PART-FUT-M-S-ACC             COMP        give-1-S-IMPERF-SUBJ
+\l [She] begged me to give her this pledge, so that she'd know I won't desert her.
+
+\t   conspectum           fugitati     .
+\m   conspectum           fugitati     .
+\g   sight-M-S-ACC        flee-INFIN
+\l He doesn't want you to know he's returned and he even flees from your sight.
+
+\t Quando           imagoi                est       huiusj          in         mek,        certum               est      [prok        hominemj           eludere].  
+\m Quando           imagoi                est       huiusj          in         mek,        certum               est      [prok        hominemj           eludere].  
+\g  when            appearance-F-S-NOM    be-3-S    this-M-S-GEN    in         I-S-ABL     decide-PPP-N-S-NOM   be-3-S                human-M-S-ACC      trick-INFIN
+\l When I look like him [lit.`his appearance is on me'], I'm sure to trick him.
+
+\t Simul               herbaei               inceperinti               [nasci],                  eximitoj                    proi.
+\m Simul               herbaei               inceperinti               [nasci],                  eximitoj                    proi.
+\g  at the same time   grass-F-PL-NOM        begin-3-PL-FUTPERF        be born-INFIN-DEPON       take out-2-S-IMPERAT-FUT
+\l As soon as the weeds have begun to grow, take [them] out.
+
+\t {Rex                Cotus                ille}i               [{duo          hos                  ventos,            austrum
+\m {Rex                Cotus                ille}i               [{duo          hos                  ventos,            austrum
+\g                        be-INFIN        think-INFIN
+\l That famous king Cotys used to say he knew just these two winds, the south and the north [wind], very well, [he] didn't know those gentle south winds [formed] out of the rain cloud, nor did [he] think [they] existed.
+
+\t  odisse              superbosj].
+\m  odisse              superbosj].
+\g  hate-INFIN-PERF     arrogant-M-PL-ACC
+\l But Granius [says] he doesn't despise himself and [he] hates arrogant kings.
+
+\t   B:         Qui        tandem?
+\m   B:         Qui        tandem?
+\g              want-3-S       REL-N-S-ACC       outside     drink-2-S-PERF-SUBJ
+\l B:        But I ask you, is your wife moody?         A:         Ha, you ask?         B:         Well, and?        A:             It's tedious to talk about her; whenever I've come home and sat down beside her, right away she kisses me with a hungry breath.        B:             She makes no mistake with that kiss; she wants you to vomit up what you've drunk away from home.
+
+\t    [...indomitosk,              ferocisk]               atque        [in        currum                PROj inscendere].
+\m    [...indomitosk,              ferocisk]               atque        [in        currum                PROj inscendere].
+\g    untamed-M-PL-ACC             wild-M-PL-ACC           and          into       carriage-M-S-ACC                climb in-INFIN
+\l Now you order me take yoked untamed, wild horses and [me] to climb into the carriage.
+
+\t    darique]         oporteti.
+\m    dari-que]         oporteti.
+\g    give-INFIN-PASS-and            be fitting-3-S
+\l It is fitting for fodder to be prepared in this manner and [for fodder] to be given to the cattle.
+
+\t    adservari],                   verum            [aliquo                   pacto                verbak                mej           his
+\m    adservari],                   verum            [aliquo                   pacto                verbak                mej           his
+\g    give-PART-FUT-F-S-ACC           be-INFIN          and                       come-PART-FUT-F-S-ACC
+\l Say I'm here in town unwillingly and [I] oppose [it], but some way or another I'll send word to them and [I] will come.
+
+\t  [eol               cadere       Fortunamj]              autumanti.
+\m  [eol               cadere       Fortunamj]              autumanti.
+\g  ANA-to there    fall-INFIN   fortunate-F-S-ACC       say-3-PL
+\l The philosophers maintain that Fortune is insane and blind and insensible and they claim that [it] stands on a round rolling stone, because wherever chance has pushed that stone they say Fortune falls there.
+
+\t  aspicioi,               gaudeoi.
+\m  aspicioi,               gaudeoi.
+\g  perceive-1-S            rejoice-1-S
+\l And I rejoice since I see you [are] pregnant and you [are] beautifully swollen.
+
+\t  hac              mecum          semul.
+\m  hac              me-cum          semul.
+\g  this-F-S-ABL     I-S-ABL-with           right away
+\l Now please stop playing games and come this way with me right away.
+
+\t  sustulit?
+\m  sustulit?
+\g  carry away-3-S-PERF
+\l But please, is that the prostitute who kidnapped her?
+
+\t  adducam.
+\m  adducam.
+\g  carry to-1-S-FUT
+\l My Phaedromus, please don't cry. You take care of me so I'm not thirsty, now I'll bring here for you what you like.
+
+\t Meruimus              et        ego          et        pater             proobj          de         vobis            et    re                    publica.      
+\m Meruimus              et        ego          et        pater             proobj          de         vobis            et    re                    publica.      
+\g  earn-1-PL-PERF       and       I-S-NOM       and      father-M-S-NOM                    from       you-PL-ABL       and   affair-F-S-ABL        public-F-S-ABL
+\l We ?my father and I ?have earned [something] from you and from the republic.
+
+\t {Ea                   signa}i            nemo                 horum              familiarium                    videre
+\m {Ea                   signa}i            nemo                 horum              familiarium                    videre
+\g  be able-3-S-FUT       but            you-PL-NOM                      see-2-PL-FUT
+\l Those marks no one in the household will be able to see, but you will see [them].
+
+\t ne        quom           hic       non        videanti           mej          [proj   conficere...]      credant    i               [...{argentum               suom}k]    
+\m ne        quom           hic       non        videanti           mej          [proj   conficere...]      credant    i               [...{argentum               suom}k]    
+\g  lest     when           here      not        see-3-PL-SUBJ      I-S-ACC              finish-INFIN       believe-3-S-PL-SUBJ        silver-N-S-ACC              own-N-S-ACC
+\l lest, when they don't see me here, they believe [I] am using up their money
+
+\t  periisse]               expetitk.
+\m  periisse]               expetitk.
+\g  perish-INFIN-PERF       seek-3-S
+\l They hate [the one] whom they fear they hate, whom each person hates he seeks [him] to perish [lit.`to have perished']'.
+
+\t  [...contingere],            neque          ius             est.
+\m  [...contingere],            neque          ius             est.
+\g  touch-INFIN                 nor            law-N-S-NOM     be-3-S
+\l If you caught your wife in adultery you would kill [her] without a trial with impunity, [but] if she, if you committed adultery or were committed adultery against, would not dare to lay a finger on you, nor is that the law.
+
+\t Edepol tej,                       {mea            Antiphila}j,            laudoi         et     [proj       fortunatamj]                      iudicoi. 
+\m Edepol tej,                       {mea            Antiphila}j,            laudoi         et     [proj       fortunatamj]                      iudicoi. 
+\g  indeed         you-S-ACC         my-F-S-VOC      Antiphila-F-S-VOC       praise-1-S     and                make fortunate-PPP-F-S-ACC        judge-1-S
+\l I praise you indeed, my Antiphila, and I deem [you] fortunate.
+
+\t  amphoramk                mustumj                     inditoi                            et      corticeml         oppicatoi,
+\m  amphoramk                mustumj                     inditoi                            et      corticeml         oppicatoi,
+\g  let down-2-S-IMPERAT-FUT                            into    fishpond-F-S-ACC
+\l If you should want to keep new wine for the whole year, put the new wine into a jar and cover the cork with pitch, let [it] down into the pond.
+
+\t [Sed mi                 avos                     huius             obsecrans                 concredidit          thensaurum         i
+\m [Sed mi                 avos                     huius             obsecrans                 concredidit          thensaurum         i
+\g   beg-PART-M-S-NOM          I-S-ACC   COMP      ANA-N-S-ACC       guard-1-S-IMPERF-SUBJ ANA-S-DAT
+\l But this man's grandfather, pleading, entrusted a treasure trove of gold to me, unbeknownst to everyone: he buried it in the middle of the hearth, begging me to guard [it] for him.
+
+\t   nive      [adeol                 abstulisse                  prok]      vellemj.
+\m   ni-ve      [adeol                 abstulisse                  prok]      vellemj.
+\g   not-or     to ANA-M-S-LOC         steal-INFIN-PERF                       wish-1-S-IMPERF-SUBJ
+\l May the gods destroy me if I have stolen anything from you or even if I should want to have stolen [anything].
+
+\t Numquam              tam          mane        egrediori                     neque         tam        vesperi        domum
+\m Numquam              tam          mane        egrediori                     neque         tam        vesperi        domum
+\g   plow-INFIN                      or         INDEFIN-N-S-ACC          carry-INFIN
+\l Never do I walk outside in the morning or return home in the evening without noticing that on the farm you dig something or plow [it] or carry [it].
+
+\t Nam            [quodj...]              conabari,                   cum           interventum                  est,       [...dicere]
+\m Nam            [quodj...]              conabari,                   cum           interventum                  est,       [...dicere]
+\g   now                        disentangle-1-S-FUT
+\l For now I'll reveal what I was trying to say when I was interrupted.
+
+\t Contraxistis44                frontem,           quia        [tragoediami...] dixit                      [...futurami            hanci]?
+\m Contraxistis44                frontem,           quia        [tragoediami...] dixit                      [...futurami            hanci]?
+\g    god-M-S-NOM       be-1-S                   change-1-S-FUT-PERF
+\l Are you frowning because he said this would be a tragedy? I'm a god; I'll change [it].
+
+\t Subplantare                  aiunt       Graeci.
+\m Subplantare                  aiunt       Graeci.
+\g  trip the heels-INFIN        say-3-PL    Greek-M-PL-NOM
+\l The Greeks say"trip the heels."
+
+\t Abbibere,               hic        non        multum            est      d   siet           an     b.
+\m Abbibere,               hic        non        multum            est      d   siet           an     b.
+\g  drink-FROM-INFIN       here       non        much-N-S-NOM      be-3-S   d   be-3-S-SUBJ    or     b
+\l It doesn't much matter whether there's a <d> or <b> in abbibere
+
+\t Atque         adcurrere scribas                    d      ne       an    c   non      est        quod          quaeras               atque      labores.45   
+\m Atque         adcurrere scribas                    d      ne       an    c   non      est        quod          quaeras               atque      labores.45   
+\g  and          run to-INFIN        write-2-S-SUBJ   d      Y/N      or    c   not      be-3-S     REL-N-S-ACC   ask-2-S-SUBJ          and        work-2-S-SUBJ
+\l And whether you should write"run to" with a <d> or <c> is not what you should ask about or get [yourself] worked up about.
+
+\t    grande            et        grave.
+\m    grande            et        grave.
+\g    large-N-S-ACC     and       heavy-N-S-ACC
+\l He stood still, looked around, sensed, he sets himself onto a lofty place, from here he seizes with his hands a huge and heavy rocky heap.
+
+\t Imperator                      utrimque,           hinc             et       illinc,         Iovi                 vota                  suscipere, utrimque                   hortari                    exercitum.  
+\m Imperator                      utrimque,           hinc             et       illinc,         Iovi                 vota                  suscipere, utrimque                   hortari                    exercitum.  
+\g    commander-M-S-NOM           fromboth sides      from here        and      from there      Jupiter-M-S-DAT      vow-N-PL-ACC          lift up-INFIN       from both sides   urge-INFIN-DEPON           army-M-S-ACC
+\l The commander on each side, from this side and that side, offers up vows to Jupiter, from each side [the command] encourages his army.
+
+\t Tui,          Mysisi,                dum          exeo,            parumper               opperire                hic.
+\m Tui,          Mysisi,                dum          exeo,            parumper               opperire                hic.
+\g  you-S-NOM    Mysis-M-S-VOC          while        go out-1-S       for a little while     wait-INFIN              here
+\l You, Mysis, wait here a little while until I come out.
+
+\t  faciask.
+\m  faciask.
+\g  make-2-S-SUBJ
+\l Put the service-berries in boiled down wine or dry [them], you should make [them] dry.
+
+\t  {bellosum             genus}k]]!
+\m  {bellosum             genus}k]]!
+\g  warlike-N-S-ACC       race-N-S-ACC
+\l For the enemy to try to stir up such a war against a warlike race!
+
+\t   huc          ad         mek             adire             ausumi]!
+\m   huc          ad         mek             adire             ausumi]!
+\g   to here      to         I-S-ACC         come to-INFIN     dare-PPP-DEPON-M-S-ACC
+\l Most outrageous man, for you to have dared come here to me with that speech of yours!
+
+\t   sollicitari]!
+\m   sollicitari]!
+\g   agitate-INFIN-PASS
+\l For me and her to now be made so miserable by your doing!
+
+\t   neque misericordial                        neque          precibusm            molliri                   queasi]j!
+\m   neque misericordial                        neque          precibusm            molliri                   queasi]j!
+\g   nor              mercy-F-S-ABL             nor            prayer-F-PL-ABL      soften-INFIN-PASS         be able-2-S-SUBJ
+\l For you to be of such hard and implacable nature that you can't be softened by either mercy or pleas!
+
+\t   tuam}    k          tutandamk                      aliisl             dedisse]!
+\m   tuam}    k          tutandamk                      aliisl             dedisse]!
+\g   censure-GERUNDIVE-M-S-NOM         thus-Y/N       you-S-ACC      from here    go away-INFIN-PERF       and             life-F-S-ACC
+\l For indeed, Antipho, in many ways you should be blamed for those feelings of yours, for you to have thus left from here and given over your life to be protected by others!
+
+\t Numquam                  [PROi           istucj...]        quivi  i               egoi             [...intellegere].
+\m Numquam                  [PROi           istucj...]        quivi  i               egoi             [...intellegere].
+\g    never                                 that-N-S-ACC      be able-1-S-PERF       I-S-NOM          understand-INFIN
+\l I have never been able to understand that [plan] of yours.
+
+\t    iaceami           egoi            asinusi                   in        luto.
+\m    iaceami           egoi            asinusi                   in        luto.
+\g    lie-1-S-SUBJ      I-S-NOM         donkey-M-S-NOM            in        mud-N-S-ABL
+\l When I couldn't carry my share of the burden, I, the donkey, would lie down in the mud.
+
+\t    amante                   argentum           accipere]             meretrixi                noenu volti.
+\m    amante                   argentum           accipere]             meretrixi                noenu volti.
+\g    love-PART-S-ABL         silver-N-S-ACC     receive-INFIN         prostitute-F-S-NOM       not           wish-3-S
+\l Capital crimes are occurring in the city, for a prostitute doesn't want to take money from a lover.
+
+\t  [...{beneficium                summum}l...]                  nolunti           [...reddere].
+\m  [...{beneficium                summum}l...]                  nolunti           [...reddere].
+\g  good deed-N-S-ACC              highest-N-S-ACC               not wish-3-PL     return-INFIN
+\l They don't want to feed a gluttonous person and they're wise, in my opinion, if they don't want to repay a bad deed with an extremely good deed.
+
+\t Magna                 est        res                  [quam...] egoi                   [...tecum...]         cupio
+\m Magna                 est        res                  [quam...] egoi                   [...te-cum...]         cupio
+\g                       speak-INFIN-DEPON
+\l There's an important matter that I want to speak with you about.
+
+\t  percoctumi                           siccumique               legere],        ne          vinumi             nomen           perdati.
+\m  percoctumi                           siccumi-que               legere],        ne          vinumi             nomen           perdati.
+\g  cook through-PPP-N-S-NOM             dry-N-S-NOM-and           choose-INFIN    lest        wine-N-S-NOM       name-N-S-ACC    lose-3-S-SUBJ
+\l When the grapes are ripe and gathered, see to it that the first is kept for the household and their [needs], and see to it that you're eager to gather only the well-ripened and dry [grapes], lest the wine lose its reputation.
+
+\t  dare].
+\m  dare].
+\g  give-INFIN
+\l I promised to give Casina as wife to our overseer.
+
+\t Tu  i               tamen idem                [has            nuptias...]               perge   i                 [...PROi facere]             ita        ut       facisi.
+\m Tu  i               tamen idem                [has            nuptias...]               perge   i                 [...PROi facere]             ita        ut       facisi.
+\g  you-S-NOM          however        same       this-F-PL-ACC   marriage-F-PL-ACC         continue-2-S-IMPERAT                   do-INFIN        thus       as       do-2-S 
+\l But you go on with the marriage just as you're doing.
+
+\t  ducturum                           patri].
+\m  ducturum                           patri].
+\g  lead-PART-FUT-M-S-ACC              father-M-S-DAT
+\l He never stopped insisting that I tell my father I would marry.
+
+\t pro    i      [Casinamj ...]            egoi          [... uxoremj ...]          promisi   i          [...vilico           nostro             dare].    
+\m pro    i      [Casinamj ...]            egoi          [... uxoremj ...]          promisi   i          [...vilico           nostro             dare].    
+\g               Casina-F-S-ACC            I-S-NOM       wife-F-S-ACC               promise-1-S-PERF     overseer-M-S-DAT     our-M-S-DAT        give-INFIN
+\l I promised to give Casina as wife to our overseer.
+
+\t  fautorem]                  ostendati,        [fore             amicumi]            polliceaturi.
+\m  fautorem]                  ostendati,        [fore             amicumi]            polliceaturi.
+\g  favorer-M-S-ACC            show-3-S-SUBJ     be-INFIN-FUT      friend-M-S-ACC      promise-3-S-SUBJ-DEPON
+\l The one who esteems you, [who] shows himself [to be] an admirer of your youthfulness and appearance, should promise he will be your friend.
+
+\t  inter      sedi            dedise]                   veleti.
+\m  inter      sedi            dedise]                   veleti.
+\g  between    ANA-ACC         give-INFIN-PERF           wish-3-S-FUT
+\l After this no one [of the Bacchanals] should be willing to have sworn together among themselves nor to have vowed together nor to have pledged together nor to have promised together, nor should anyone [of the Bacchanals] be willing to have given a pledge among themselves.
+
+\t Di                me               perdant                 si         ego              tui            quicquam             apstuli,
+\m Di                me               perdant                 si         ego              tui            quicquam             apstuli,
+\g  not-or                    to there       take away-INFIN-PERF               wish-1-S-IMPERF-SUBJ
+\l May the gods destroy me if I stole anything from you, nor would I wish to have stolen anything.
+
+\t [PRO       nequid                        emisse ...]               velit               [... insciente               domino],              neu       [PRO            quid                   dominum                 celavisse]               velit.       
+\m [PRO       ne-quid                        emisse ...]               velit               [... insciente               domino],              neu       [PRO            quid                   dominum                 celavisse]               velit.       
+\g            not-INDEFIN-N-S-ACC            buy-INFIN-PERF            wish-3-S-SUBJ       not know-PART-M-S-ABL        master-M-S-ABL        nor                       INDEFIN-N-S-ACC        master-M-S-ACC          hide-INFIN-PERF          wish-3-S-SUBJ
+\l He should not wish to have sold anything without the master's knowledge, nor should he wish to have hidden anything from the master.
+
+\t  immortalium...]               velimi                  [...habuisse].
+\m  immortalium...]               velimi                  [...habuisse].
+\g  immortal-M-PL-GEN             wish-1-S-SUBJ           have-INFIN-PERF
+\l When we take auspices at home, I'd want [lit.`me'] to have had honor for the immortal gods'.
+
+\t si         pro   i       forte           [PROi         liberi            fieri]                occeperimi
+\m si         pro   i       forte           [PROi         liberi            fieri]                occeperimi
+\g   if                     by chance                     free-M-S-NOM      make-INFIN-PASS       begin-1-S-PERF-SUBJ
+\l if by chance I should have begun to become [lit.`to be made'] free
+
+\t    valeantj.
+\m    valeantj.
+\g    be strong-3-PL-SUBJ
+\l When the grapes have begun to change [lit.`have begun to be made different'], give [them] to the cattle as medicine every year so that they'll be well.
+
+\t     undique            telisk.
+\m     undique            telisk.
+\g     from both sides    weapon-N-PL-ABL
+\l After they were tired out from standing and showering each other with handle-fitted spears, they ran [lit.`run'] together from each side with their weapons.
+
+\t {Lucius                 Cotta               senex}i,            crassij            pater   i        huiusj                 Pacenij50,            magnus     i       fuiti              tricoi                  nummariusi,                        [PROi           solvere       nullik]            lentusi.         
+\m {Lucius                 Cotta               senex}i,            crassij            pater   i        huiusj                 Pacenij50,            magnus     i       fuiti              tricoi                  nummariusi,                        [PROi           solvere       nullik]            lentusi.         
+\g     Lucius-M-S-NOM      Cotta-M-S-NOM       old-M-S-NOM         thick-M-S-GEN      father-M-S-NOM   this-M-S-GEN           Pacenius-M-S-GEN      great-M-S-NOM      be-3-S-PERF        trickster-M-S-NOM       pertaining to money-M-S-NOM                        pay-INFIN     no one-M-S-DAT     tenacious-M-S-NOM
+\l The old man Lucius Cotta, the father of this dull-witted Pacenius, was a great trickster in money matters, tenacious at paying no one.
+
+\t pro    isubj    pro  jobj       [PRO    j       signa                  extemplo             canere]          ac       [PROj        tela                     ob             moenia               offerre]                   imperatj.
+\m pro    i-subj    pro  j-obj       [PRO    j       signa                  extemplo             canere]          ac       [PROj        tela                     ob             moenia               offerre]                   imperatj.
+\g                                                   signal-N-PL-ACC       right away            sing-INFIN       and                   weapon-N-PL-ACC          against        wall-N-PL-ACC        carry against-INFIN        order-3-S
+\l He orders [them] to sound the signals and hurl the weapons against the walls right away.
+
+\t  facinore              operire]                 postulasi.
+\m  facinore              operire]                 postulasi.
+\g  deed-N-S-ABL          cover up-INFIN           order-2-S
+\l You're ordering [someone] to cover up your evil deed with a worse deed.
+
+\t  neque testimoni                          dictio                    'st.
+\m  neque testimoni                          dictio                    'st.
+\g  nor            testimony-N-S-GEN         speaking-F-S-NOM          be-3-S
+\l The laws don't allow a slave to plead a lawsuit, nor is there any taking of his testimony.
+
+\t  obstare]?
+\m  obstare]?
+\g  stand in way-INFIN
+\l Should I let his [lack of] memory stand in the way of my pleasure?
+
+\t pro   i      non      tej              [PROj           porro           procedere]             porcenti.
+\m pro   i      non      tej              [PROj           porro           procedere]             porcenti.
+\g              not      you-S-ACC                        forward         procede-INFIN          prohibit-3-PL
+\l They don't prevent you from moving forward.
+
+\t  aetas,              vox,                vires,                         senectus}i.
+\m  aetas,              vox,                vires,                         senectus}i.
+\g  age-F-S-NOM         voice-F-S-NOM       strength-F-PL-NOM              old age-F-S-NOM
+\l Many things have urged me to come forward here [i.e. as a lawyer in a trial]: years, age, voice, strength, old age.
+
+\t  ire]         pro  isubj   conori                     pro   jsubj   pro  iobj       prohibet          [PROi           baetere].
+\m  ire]         pro  i-subj   conori                     pro   j-subj   pro  i-obj       prohibet          [PROi           baetere].
+\g  go-INFIN                   attempt-1-S-DEPON                                          prohibit-2-S                      go-INFIN
+\l If I stand back he tells me to go; if I try to go he keeps [me] from going.
+
+\t Erei,              salvei,                 pro   j     [salvomi         tei           advenisse]           gaudeoj.
+\m Erei,              salvei,                 pro   j     [salvomi         tei           advenisse]           gaudeoj.
+\g  master-M-S-VOC    be well-2-S-IMPERAT                 safe-M-S-ACC     you-S-ACC     come to-INFIN-PERF   rejoice-1-S
+\l Hello, master, I'm glad you have arrived safe.
+
+\t  [...mittere            amicoj/l].
+\m  [...mittere            amicoj/l].
+\g  send-INFIN             friend-M-S-DAT
+\l To order [someone] to be well is to send greetings [lit.`safety'] to a friend.
+
+\t    conspectum                 ingredi]?
+\m    conspectum                 ingredi]?
+\g    sight-M-S-ACC              walk in-INFIN-DEPON
+\l Doesn't it shame you at all, you scum, to walk into public view?
+
+\t  impune                 insulatami].
+\m  impune                 insulatami].
+\g  without punishment     accuse-PPP-F-S-ACC
+\l Nor indeed will I allow myself to be [lit.`to have been'] falsely accused of wrong.
+
+\t   esse].
+\m   esse].
+\g   be-INFIN
+\l Allow [the jar of brine] to sit [lit.`to have been placed'] for two years in the sun.
+
+\t  habetoi.
+\m  habetoi.
+\g  have-2-S-IMPERAT-FUT
+\l Have the cattle cared for [lit.`having been cared for'] with the greatest diligence.
+
+\t  pigeat                        [...vendidisse].
+\m  pigeat                        [...vendidisse].
+\g  cause regret-3-S-SUBJ         sell-INFIN-PERF
+\l Those who have sold farms in this region, it should cause them regret to have sold [them] / [them] to have sold them.
+
+\t  totam             caveam                    spectatoribus]k.
+\m  totam             caveam                    spectatoribus]k.
+\g  all-F-S-ACC       seating-F-S-ACC           spectator-M-PL-DAT
+\l Now Jupiter has ordered me to beg this of you, that the inspectors go into all of the seats for spectators throughout the auditorium.
+
+\t Tempus                'st           [monere                      me           [hunc             vicinum                          Phaniam            ad        cenam             ut        veniat]].    
+\m Tempus                'st           [monere                      me           [hunc             vicinum                          Phaniam            ad        cenam             ut        veniat]].    
+\g  time-N-S-NOM         be-3-S        remind-INFIN                 I-S-ACC      this-M-S-ACC      neighbor-M-S-ACC                 Phania-M-S-ACC     to        dinner-F-S-ACC    COMP      come-3-S-SUBJ
+\l It's time for me to remind this neighbor Phania to come to dinner.
+
+\t Si      resto  i       pergit         [ut    eami];      si   ire        conor   i           pro   iobj        prohibet         baetere.
+\m Si      resto  i       pergit         [ut    eami];      si   ire        conor   i           pro   i-obj        prohibet         baetere.
+\g  if     stand back-1-S continue-3-S   COMP   go-1-S-SUBJ if   go-INFIN   attempt-1-S-DEPON                      prohibit-2-S     go-INFIN
+\l If I stand back he tells me to go; if I try to go he keeps [me] from going.
+
+\t  amari].
+\m  amari].
+\g  love-INFIN-PASS
+\l Let me kiss [lit.`allow that I kiss'] your little eyes, my love, please allow yourself to be loved.
+
+\t  tacendo                      periise].
+\m  tacendo                      periise].
+\g  be silent-GERUND-N-S-ABL     perish-INFIN-PERF
+\l I must speak out [lit.`it is necessary for me to speak out'], for I know Amyclae perished by keeping silent.
+
+\t  item,          quid                   inutile,             turpe,             inhonestum]].
+\m  item,          quid                   inutile,             turpe,             inhonestum]].
+\g  likewise       INTERROG-N-S-NOM       useless-N-S-NOM      base-N-S-NOM       dishonorable-N-S-NOM
+\l Excellence is knowing what is right and what is honorable for a man, what things are good and likewise what things are bad, what is useless, base, [or] dishonorable.
+
+\t  [...aquamk].
+\m  [...aquamk].
+\g  water-F-S-ACC
+\l Indeed I don't want [to drink wine], for I'm supposed [lit.`it has been decided for me'] to drink water.
+
+\t   mentiri]             meumi.
+\m   mentiri]             meumi.
+\g   lie-INFIN-DEPON      my-N-S-NOM
+\l It is not my [habit, duty, ...] to lie to a friend and family member [or,`friend and acquaintance'].
+
+\t Quid                    est            [agrum           bene         colere]?            Bene           arare.              Quid                   secundum?                Arare.              Quid                       tertium?               Stercorare. 
+\m Quid                    est            [agrum           bene         colere]?            Bene           arare.              Quid                   secundum?                Arare.              Quid                       tertium?               Stercorare. 
+\g  INTERROG-N-S-NOM       be-3-S         field-M-S-ACC    well         cultivate-INFIN     well           plough-INFIN        INTERROG-N-S-NOM       following-N-S-NOM        plough-INFIN        INTERROG-N-S-NOM           third-N-S-NOM          manure-INFIN
+\l What is good cultivation? Good plowing. What's next? Plowing. What's third? Manuring.
+
+\t  sane        Sosia.
+\m  sane        Sosia.
+\g  truly       Sosia-M-S-NOM
+\l When I don't want to be Sosia, you be Sosia.
+
+\t [Id               gratum                   fuisse              avorsum            te]            habeo             gratiam.
+\m [Id               gratum                   fuisse              avorsum            te]            habeo             gratiam.
+\g  ANA-N-S-ACC      pleasing-N-S-ACC         be-INFIN-PERF       toward             you-S-ACC      have-1-S          gratefulness-F-S-ACC
+\l I'm pleased it was pleasing to you.
+
+\t  innoxiioremk].
+\m  innoxiioremk].
+\g  harmless-COMPAR-F-S-ACC
+\l They will believe [lit.`lead the mind into'] their own life is so much more superior and greater and more preferable than more harmless.
+
+\t  Anthr. Cocum                ergo           dico.
+\m  Anthr. Cocum                ergo           dico.
+\g            cook-M-S-ACC      therefore      say-1-S
+\l Pyth. But which of you is the faster? Tell me. Anthr. I am, and much better too. Pyth. I'm asking about a cook, not a thief. Anthr. So I say a cook.
+
+\t  patrik.
+\m  patrik.
+\g  father-M-S-DAT
+\l As a son should be good to his father, so am I good to my father.
+
+\t  ad       disturbandas                            nuptias;                   astute.
+\m  ad       disturbandas                            nuptias;                   astute.
+\g  to       disturb-GERUNDIVE-F-PL-ACC              marriage-F-PL-ACC          cunningly
+\l He wanted this, for us to be lead unaware by false hope, now hoping, with fear removed, [for us] while we were gaping to be taken by surprise, so that there wouldn't be any time for devising how to ruin the wedding; [he did it] cunningly.
+
+\t contra         tueri]?
+\m contra         tueri]?
+\g opposite       look-INFIN-DEPON
+\l What father or relative will want to look at you?
+
+\t Fescenninumk].
+\m Fescenninumk].
+\g from Fescennia-M-S-ACC
+\l Really, I wouldn't want to send a walker and a Fescennian into the colony if I were one of the triumvirs.
+
+\t nunc           histriones            curet]]
+\m nunc           histriones            curet]]
+\g now            actor-M-PL-ACC        care about-3-S-SUBJ
+\l I wouldn't want (for) you to wonder why Jupiter now cares about the actors.
+
+\t [... recipere]
+\m [... recipere]
+\g take back-INFIN
+\l I must do what she demands to be done if I want (for) her to lovingly take me back to her [lit.`to herself'].
+
+\t dare].
+\m dare].
+\g give-INFIN
+\l I promised to give Casina as wife to our overseer.
+
+\t proi promittei                 [hoc j         fore]
+\m proi promittei                 [hoc j         fore]
+\g promise-2-S-IMPERAT            this-N-S-ACC   be-INFIN-FUT
+\l Promise this will be.
+
+\t    et            {patre              uno}                   {uno              die}].
+\m    et            {patre              uno}                   {uno              die}].
+\g    and           father-M-S-ABL      one-M-S-ABL            one-M-S-ABL       day-M-S-ABL
+\l My hope is [he] will discover you [are] two twin brothers born of one mother and one father on the same day.
+
+\t [quod...]                 ego            [...me...]          spero        [...ostenturum].
+\m [quod...]                 ego            [...me...]          spero        [...ostenturum].
+\g    REL-N-S-ACC            I-S-NOM        I-S-ACC             hope-1-S     show-FUT-M-S-ACC
+\l which I hope I'll show
+
+\t Amphitruo,                   speravii         egoi        [istamj          tibii         parituramj                     filiumk].
+\m Amphitruo,                   speravii         egoi        [istamj          tibii         parituramj                     filiumk].
+\g    Amphitryon-M-S-VOC        hope-1-S-PERF    I-S-NOM     that-F-S-ACC     you-S-DAT     give birth-PART-FUT-F-S-ACC    son-M-S-ACC
+\l Amphitryon, I hoped she would bear you a son.
+
+\t    uxoris            loco?
+\m    uxoris            loco?
+\g    wife-F-S-GEN      place-M-S-ABL
+\l Well, do you hope it's allowed for me to do these things any longer for you while your father is alive, that you have a girlfriend in the place of a wife?
+
+\t  despeculassere].
+\m  despeculassere].
+\g  unmirror-INFIN-PRES
+\l eagerly hoping somehow to ungoblet me, to unsilver and unshawl me, to unmirror me from my ivory mirror.
+
+\t Ita            magnae           i                 ut             pro   j         speremj                                [prok               posse        avelli].             
+\m Ita            magnae           i                 ut             pro   j         speremj                                [prok               posse        avelli].             
+\g  thus          great-F-PL-NOM               COMP                           hope-1-S-IMPERF-SUBJ                              be able-INFIN               pluck away-INFIN-PASS
+\l [Their quarrels were] so great that [I]'d hope [she] could be plucked away [from him].
+
+\t  eoi.
+\m  eoi.
+\g  go-1-S
+\l Though I'd pretend I was going to the market, I'm not going.
+
+\t  differri].
+\m  differri].
+\g  carry away-INFIN-PASS
+\l Certainly, [the plan is] that I should pretend I'm carried away with love for him.
+
+\t  pollicitus                               't
+\m  pollicitus                               't
+\g  promise-PPP-DEPON-M-S-NOM             BE-3-S
+\l ten minas which he promised to give me
+
+\t  fidel.
+\m  fidel.
+\g  faith-F-S-ABL
+\l [He] will be fine, on my honor I promise that.
+
+\t    polliceaturi.
+\m    polliceaturi.
+\g    promise-DEPON-3-S-SUBJ
+\l He who likes you, [who] shows himself [to be] an admirer of your youth and appearance, promises [he] will be your friend.
+
+\t  veliti.
+\m  veliti.
+\g  wish-3-S-SUBJ
+\l [He] should not wish to have sold anything without the master's knowledge, nor should [he] wish to have hidden anything from the master.
+
+\t                                                                                                           65
+\m                                                                                                           65
+\g    give-INFIN-PASS
+\l indeed, unless one who prefers to be beaten in a fight
+
+\t [Emortuomi...]                 egoi       [...mei...]        mavelimi            [...leto           malo]         quam
+\m [Emortuomi...]                 egoi       [...mei...]        mavelimi            [...leto           malo]         quam
+\g   not       I-S-NOM     that-M-S-DAT     give-1-S-SUBJ      today       trap-F-PL-ACC   old-M-S-DAT
+\l I'd prefer [lit.`me'] to be dead by some horrible death than not lay a trap for that old man today.
+
+\t pro      i   adsimulatoi                                 quasi             pro i          gubernator           i       siesi.
+\m pro      i   adsimulatoi                                 quasi             pro i          gubernator           i       siesi.
+\g              pretend-2-S-IMPERAT-FUT              as if                            pilot-M-S-NOM             be-2-S-SUBJ
+\l Pretend as if you were the ship's pilot.
+
+\t   modo.
+\m   modo.
+\g   just now
+\l Go away, I don't want to eat at this time of night; I ate just recently.
+
+\t    si         [...male              esse]               occeperit.
+\m    si         [...male              esse]               occeperit.
+\g    if         badly                 be-INFIN            begin-3-S-PERF-SUBJ
+\l For truly it's right for both pain [i.e. of childbirth] and an apple to be given to be given to a pregnant woman so there'll be something she can gnaw at if she's begun to feel badly.
+
+\t    servitutemk].
+\m    servitutemk].
+\g    slavery-F-S-ACC
+\l It [would be] better for me to complain that way about being a slave.
+
+\t   meditari].
+\m   meditari].
+\g   consider-INFIN-DEPON
+\l But in what way and with what verbs it's proper for me to tell the story, first I want to consider by myself.
+
+\t   advigilare]           aequomi             'sti.
+\m   advigilare]           aequomi             'sti.
+\g   guard by-INFIN        equal-N-S-NOM       be-3-S
+\l Since these things are this way now, Antipho, so much is it right for you to be on your guard.
+
+\t   dari,                ancillasl,            mulosm,              mulionesn,                     pedisequoso,
+\m   dari,                ancillasl,            mulosm,              mulionesn,                     pedisequoso,
+\g   well wisher-M-PL-ACC       boy-M-PL-ACC        vehicle-N-PL-ACC         how                   carry-1-S-SUBJ-PASS
+\l For indeed I should be given purple and gold [i.e. expensive clothing and jewelry], handmaids, mules, coachmen, footmen, pages, and vehicles to ride in.
+
+\t Primum                [proj       cavisse]                      oportuit       i             [ne          pro   j        diceresj].
+\m Primum                [proj       cavisse]                      oportuit       i             [ne          pro   j        diceresj].
+\g  first                            be careful-INFIN-PERF         be fitting-3-S-PERF     lest                        say-2-S-IMPERF-SUBJ
+\l First you should have taken care not to speak [lit.`first it was necessary for [you] to have taken care not to speak'].
+
+\t  prius             communicatuml]                     oportuitm?
+\m  prius             communicatuml]                     oportuitm?
+\g  before            communicate-PPP-N-S-ACC    be fitting-3-S-PERF
+\l He had decided to give me a wife today; shouldn't I have know about it beforehand, shouldn't it have been communicated in advance?
+
+\t  domuml]].
+\m  domuml]].
+\g  home-F-S-ACC
+\l And you should say it's high time she should go home.
+
+\t [Quemnam             te                 esse]          dicam?
+\m [Quem-nam             te                 esse]          dicam?
+\g  INTERROG-M-S-ACC-for             you-S-ACC          be-INFIN       say-1-S-FUT
+\l Then who will I say you are?
+
+\t [Alcumenam ante aedis                                     stare            saturam]            intellego.
+\m [Alcumenam ante aedis                                     stare            saturam]            intellego.
+\g  Alcmena-F-S-ACC           before     wall-F-PL-ACC       stand-INFIN      full-F-S-ACC        understand-1-S
+\l I understand the pregnant Alcmena is standing in front of the house.
+
+\t [Omnes                  cinaedos               esse]         censes          quia         tu             es?
+\m [Omnes                  cinaedos               esse]         censes          quia         tu             es?
+\g  all-M-PL-ACC           lecher-ACC-M-PL        be-INFIN      believe-2-S     because      you-S-NOM      be-2-S
+\l Do you believe everyone is a lecher because you are?
+
+\t Ne         [tibi           me           esse        ob                  eam                rem              obnoxium]              reare.        
+\m Ne         [tibi           me           esse        ob                  eam                rem              obnoxium]              reare.        
+\g  not       you-S-DAT       I-S-ACC      be-INFIN    because of          ANA-F-S-ACC        thing-F-S-ACC    subject-M-S-ACC        think-2-S-SUBJ
+\l Don't think I'm under your control for that reason.
+
+\t At          vereor cum [te                            esse           Alcmeonis               fratrem]             factis               dedicat.    
+\m At          vereor cum [te                            esse           Alcmeonis               fratrem]             factis               dedicat.    
+\g  but        fear-1-S       since      you-S-ACC       be-INFIN       Alcmeon-M-S-GEN brother-M-S-ACC              deed-N-PL-ABL        give out-3-S
+\l But I'm afraid, since he claims with facts that you're Alcmeon's brother.
+
+\t [Pariter           te                esse          erga          illum]            video         ut     [illum             ted              erga]          scio.   
+\m [Pariter           te                esse          erga          illum]            video         ut     [illum             ted              erga]          scio.   
+\g  equally           you-S-ACC         be-INFIN      towards       that-M-S-ACC      see-1-S       as     that-M-S-ACC       you-S-ACC        towards        know-1-S
+\l I see you feel the same about him as I know he feels about you.
+
+\t [Eam               nunc            esse         inventam                   probris                conpotem]                 scis.
+\m [Eam               nunc            esse         inventam                   probris                conpotem]                 scis.
+\g  ANA-F-S-ACC       now             be-INFIN     found-PPP-S-F-ACC       bad deed-N-PL-ABL        sharing in-F-S-ACC        know-2-S
+\l You know she has been found participating in bad behavior.
+
+\t Scito                            [pro              ratione                      fructum                     esse].
+\m Scito                            [pro              ratione                      fructum                     esse].
+\g     know-2-S-IMPERAT-FUT         according to      reckoning-F-S-ABL            use-M-S-ACC                 be-INFIN
+\l Realize that the result is in accordance with what you find.'69
+
+\t  bona}        o             doti   p                dixisse                illiq].
+\m  bona}        o             doti   p                dixisse                illiq].
+\g  good-N-PL-ACC       dowry-F-S-DAT        say-INFIN-PERF      that-F-S-DAT
+\l But there's a need of speaking thus, if [you] wish me and my status and my son to be safe, that I have pledged all my good as a dowry for her.
+
+\t    desubito            e                 faucibusk].
+\m    desubito            e                 faucibusk].
+\g    suddenly            out of            throat-F-PL-ABL
+\l I'm in torture that such a tasty morsel was so suddenly snatched out of my throat.
+
+\t pro     i   [quibus          knam         tej...]              aibant       i                      [...exortumj          locisk]?      
+\m pro     i   [quibus          k-nam         tej...]              aibant       i                      [...exortumj          locisk]?      
+\g             INTERROG-M-PL-ABL-for         you-S-ACC      say-3-PL-IMPERF             arise-PPP-DEPON-M-S-ACC              place-M-PL-ABL
+\l From what place [lit.`places'] were they saying you came?
+
+\t    [...praeter             amnem              creterris              sumere             aquam           ex         fonte].
+\m    [...praeter             amnem              creterris              sumere             aquam           ex         fonte].
+\g    before                  stream-M-S-ACC     mixing bowl-F-PL-ABL   take up-INFIN      water-F-S-ACC   out of     fountain-M-S-ABL
+\l for as we saw them happily playing there among themselves, taking up water from the fountain in front of the stream
+
+\t  ad       disturbandas                        nuptias;                 astute.
+\m  ad       disturbandas                        nuptias;                 astute.
+\g  to       disturb-GERUNDIVE-F-PL-ACC          marriage-F-PL-ACC        cunningly
+\l He wanted this, for us to be lead unaware by false hope, now hoping, with fear removed, [for us] while we were gaping to be taken by surprise, so that there wouldn't be any time for devising how to ruin the wedding; [he did it] cunningly.
+
+\t   altero                  nescioquo                adulescente].
+\m   altero                  nescioquo                adulescente].
+\g   another-M-S-ABL         INDEFIN-M-S-ABL          youth-M-S-ABL
+\l But I'm looking at Philocomasium kissing some other young man over there.
+
+\t   te]               contra               [...{conservom                   meum}i]           [cum             suoj                 amatore
+\m   te]               contra               [...{conservom                   meum}i]           [cum             suoj                 amatore
+\g   embrace-PART-S-ACC                     and                              kiss-PART-S-ACC
+\l So if my fellow servant should allege to the soldier he saw her kiss someone else, I'll argue to the contrary my fellow servant saw her at your place embracing and kissing her lover.
+
+\t    altero]].
+\m    altero]].
+\g    another-M-S-ABL
+\l Here's Philocomasium at home ?the one you said you saw kissing and embracing someone else.
+
+\t    intus        cum           alieno                  viro]].
+\m    intus        cum           alieno                  viro]].
+\g    inside       with          another-M-S-ABL         man-M-S-ABL
+\l But I insist I saw her kissing some other man here inside.
+
+\t  hanc              peregrinam]].
+\m  hanc              peregrinam]].
+\g  this-F-S-ACC      foreigner-F-S-ABL
+\l Chremes came to me the next day shouting ?a terrible experience ?he had discovered Pamphilus treated this foreigner as his wife.
+
+\t Tun     [domo          prohibere         peregre   me        advenientem]         postulas?
+\m Tu-n     [domo          prohibere         peregre   me        advenientem]         postulas?
+\g     you-S-NOM-Y/N   home-F-S-ABL   prohibit-INFIN    barely    I-S-ACC   come to-PART-S-ACC   demand-2-S
+\l Do you demand that I prevent him from coming home when he is arriving?
+
+\t  despeculassere].
+\m  despeculassere].
+\g  unmirror-INFIN-PERF
+\l hoping somewhat to ungoblet me, to unsilver and unshawl me, to unmirror me from my ivory mirror.
+
+\t    memorarier].
+\m    memorarier].
+\g    mention-INFIN-PASS
+\l I would rather experience that than have it told to me.
+
+\t  [...quam         Iovem]].
+\m  [...quam         Iovem]].
+\g  than             Jupiter-M-S-ACC
+\l I would have made you prefer [lit.`yourself'] to be Amphitryon than Jupiter.
+
+\t  stupro                 redire             ad         suos                   popularis].
+\m  stupro                 redire             ad         suos                   popularis].
+\g  shame-N-S-ABL          return-INFIN       to         own-M-PL-ACC           fellow countryman-M-PL-ACC
+\l They prefer themselves to die then and there than to return with shame to their own countrymen.
+
+\t  hodie].
+\m  hodie].
+\g  today
+\l [She] says today [she] will kill you with one [of the swords] and the bailiff with the other.
+
+\t  scripturumi                      proj].
+\m  scripturumi                      proj].
+\g  write-INFIN-FUT-M-S-ACC
+\l [He] swears he didn't write [it] and won't write [it] later.
+
+\t pro     i    narrabit        i    [servomj                hinc      sesei a foribus            Sosiamj                 amovisse].
+\m pro     i    narrabit        i    [servomj                hinc      sesei a foribus            Sosiamj                 amovisse].
+\g              tell-3-S-FUT         slave-M-S-ACC           from here ANA-ACC from door-F-PL-ABL Sosia-M-S-ACC           remove-INFIN-PERF
+\l [He] will say the servant Sosiam removed him [lit.`himself'] from this house.
+
+\t pro   i    [[pro             imperio                  vobisj             quod   k              dictum               foret]                    scibat i             [...pro   j    facturosj],                      quippe         qui   i                intellexerat  i         [vereri                  vos j            se   i          et         metuerej].
+\m pro   i    [[pro             imperio                  vobisj             quod   k              dictum               foret]                    scibat i             [...pro   j    facturosj],                      quippe         qui   i                intellexerat  i         [vereri                  vos j            se   i          et         metuerej].
+\g            on behalf of      command-N-S-ABL          you-PL-DAT         REL-N-S-NOM           say-PPP-N-S-NOM      be-3-S-IMPERF-SUBJ        know-3-S-IMPERF                     do-PART-FUT-M-PL-ACC             indeed         REL-M-S-NOM            know-3-S-PLUPERF        revere-INFIN-DEPON       you-PL-ACC       ANA-ACC         and     fear-INFIN   
+\l [He] knew you would do what was commanded of you, indeed he knew you revere and fear him [lit.`himself'].
+
+\t pro   i    dixit i            [a       decemvirisk                 parum            bene         sibi   i      cibariaj                  curataj                        esse].  
+\m pro   i    dixit i            [a       decemvirisk                 parum            bene         sibi   i      cibariaj                  curataj                        esse].  
+\g            say-3-S-PERF       from     ten man-M-PL-ABL            little           well         ANA-DAT       foodstuff-N-PL-ACC        take care of-PPP-N-PL-ACC      be-INFIN
+\l He said little food had been prepared for him [lit.`himself'] by the decemvirs.
+
+\t  miserrimusi].
+\m  miserrimusi].
+\g  miserable-SUPER-M-S-NOM
+\l He was said to be the most miserable of all among the tribes.
+
+\t Res    i             magis quaeritur             i   quam         [t   j   clientum...]           fidesj          cuius              modi                clueatj.          
+\m Res    i             magis quaeritur             i   quam         [t   j   clientum...]           fidesj          cuius              modi                clueatj.          
+\g  affair-F-S-NOM      more        seek-3-S-PASS       than                  client-M-PL-GEN        trust-F-S-NOM   REL-M-S-GEN        means-M-S-GEN       be called-3-S-SUBJ
+\l Their property is more asked about than what sort of trustworthiness is said to belong to their clients.
+
+\t   maximum].
+\m   maximum].
+\g   great-SUPER-N-S-ACC
+\l The two sons of Atreus are said to have done a very great deed.
+
+\t   legum            atque         iurum                 fictorj,            conditorj]                 cluetj.
+\m   legum            atque         iurum                 fictorj,            conditorj]                 cluetj.
+\g   law-F-PL-GEN     and           right-N-PL-GEN        maker-M-S-NOM       establisher-M-S-NOM        be called-3-S
+\l And I consider myself better off compared with that one, who is called the maker and establisher of all laws and rights.
+
+\t [{Maioreque               opere}j...]            ibi        serviles        i                 nuptiae        i              quam         liberales      i                           etiam           [...PROi          curari                                  t i]       solenti.
+\m [{Maiore-que               opere}j...]            ibi        serviles        i                 nuptiae        i              quam         liberales      i                           etiam           [...PROi          curari                                  t i]       solenti.
+\g   greater-N-S-ABL-and               work-N-S-ABL        there      of slaves-F-PL-NOM        wedding-F-PL-NOM       than                  of free persons-F-PL-NOM          even                              take care of-INFIN-PASS                 be accustomed-3-PL          
+\l The weddings of slaves there are accustomed to be celebrated even more grandly than those of free persons.
+
+\t   vis   j
+\m   vis   j
+\g   wish-2-S
+\l although that which you wish can't be done
+
+\t si          qui          sapientiaj                  magis              vestraj                  mors   i              [PROi             devitari         potesti],           namque                Aesculapi       m               liberoruml                     sauciik                       opplent       k         porticusn,                    pro    o      non       potesto                                           
+\m si          qui          sapientiaj                  magis              vestraj                  mors   i              [PROi             devitari         potesti],           nam-que                Aesculapi       m               liberoruml                     sauciik                       opplent       k         porticusn,                    pro    o      non       potesto                                           
+\g   if        how          wisdom-F-S-ABL     more               our-F-S-ABL           death-M-S-NOM                        avoid-INFIN-PASS                be able-3-S         for-and          Aesculapius-M-S-GEN       child-M-PL-GEN        wounded-M-PL-NOM      fill up-3-PL                                         portico-M-PL-ACC                      not       be able-3-S                          approach-INFIN-PASS
+\l if death can somehow be avoided more by our wisdom, for the wounded of Aesculapius'         children fill up the porticos, [it] can't be approached
+
+\t An                   pro    i    {mala                 aetate}      j       mavis        i          [PROi            male           mulcari           {exemplis                   omnibus}k]?
+\m An                   pro    i    {mala                 aetate}      j       mavis        i          [PROi            male           mulcari           {exemplis                   omnibus}k]?
+\g   INTERROG                       bad-F-S-ABL       age-F-S-ABL       prefer-2-S                               badly          thrash-INFIN-PASS        example-N-PL-ABL        all-N-PL-ABL   
+\l Would you prefer at your bad time of life to be trashed about by every kind [of torture]?
+
+\t Nec       proi          [PROi            retrahi...]                 potestur     i             [...imperiisj].
+\m Nec       proi          [PROi            retrahi...]                 potestur     i             [...imperiisj].
+\g  nor                                     draw back-INFIN-PASS     be able-3-S-PASS           command-N-PL-ABL
+\l Nor can [he] be drawn back by commands.
+
+\t si         pro    i     [PROi non                 sarciri]               quitur       i
+\m si         pro    i     [PROi non                 sarciri]               quitur       i
+\g  if                                   not         mend-INFIN-PASS     be able-3-S-PASS
+\l if [it] can't be mended
+
+\t Unde             omniai                  [PROi        perdisci                                  ac        percipi]               queunturi.       
+\m Unde             omniai                  [PROi        perdisci                                  ac        percipi]               queunturi.       
+\g  from there      all-N-PL-NOM                      learn thoroughly-INFIN-PASS            and       comprehend-INFIN-PASS        be able-3-PL-PASS
+\l Everything can be learned thoroughly and comprehended from that.
+
+\t pro      i      iube  i                      tei               [PROj          piari                         t   i       de               mea               pecunia],                   nam            equidem          [insanumi            esse          tei]                certo            scio.   
+\m pro      i      iube  i                      tei               [PROj          piari                         t   i       de               mea               pecunia],                   nam            equidem          [insanumi            esse          tei]                certo            scio.   
+\g                 order-2-S-IMPERAT            you-2-S-ACC                      propitiate-INFIN-PASS                     from             my-F-S-ABL        money-F-S-ABL               for            indeed           insane-M-S-ACC       be-INFIN      you-S-ACC           certainly        know-1-S
+\l Order yourself to be propitiated by using my money, for indeed I certainly know you're insane.
+
+\t  insanissume}i.
+\m  insanissume}i.
+\g  insane-SUPER-M-S-VOC
+\l Else order yourself to be propitiated, you very crazy man.
+
+\t  aetatemo          degeretk?
+\m  aetatemo          degeretk?
+\g  age-F-S-ACC       live out-3-S-IMPERF-SUBJ
+\l Or, so that a citizen might take on no shame on account of her poverty, has she been ordered to be given to her nearest [male relative], so that she might live out her life with one man?
+
+\t  calicibus     m           seri]                           oportetl.
+\m  calicibus     m           seri]                           oportetl.
+\g  pot-F-PL-ABL           sow-INFIN-PASS             be fitting-3-S
+\l Those [plants] you'll want sown more carefully should be sown in pots.
+
+\t   a           vobisk]               voloi.
+\m   a           vobisk]               voloi.
+\g   from        you-PL-ABL         wish-1-S
+\l It's a just and easy thing I want to request [lit.`want requested'] from you.
+
+\t   oportuitj.
+\m   oportuitj.
+\g   be fitting-3-S-PERF
+\l Hurry up, dinner should have already been cooked by now.
+
+\t  sanguine              turpari].
+\m  sanguine              turpari].
+\g  blood-M-S-ABL         debase-INFIN-PASS
+\l I saw all these things set on fire, the life taken away from Priam by violence, the altar of Jupiter debased with blood.
+
+\t  castra  m             hostiumn                    non              incensam                   essentm?
+\m  castra  m             hostiumn                    non              incensam                   essentm?
+\g  camp-N-PL-NOM         enemy-M-PL-GEN              not              burn-PPP-N-PL-NOM          be-3-PL-IMPERF-SUBJ
+\l Now first of all, who has seen someone presented with a crown when no town was captured and no enemy camps were burnt up?
+
+\t  postuloi.
+\m  postuloi.
+\g  order-1-S
+\l For now I'm not demanding that anything be believed of me.
+
+\t  auspiciol                           regnik                           stabilitaj                              scamna                  solumkque            ].
+\m  auspiciol                           regnik                           stabilitaj                              scamna                  solumk-que            ].
+\g  divination by birds-N-S-ABL         kingdom-N-S-GEN                  make firm-PPP-N-PL-ACC                  bench-N-PL-ACC          soil-N-S-ACC-and
+\l Then Romulus perceived by the auspice that the throne and territory of the kingdom had been favorably given to him [lit.`to himself']'.
+
+\t  serviti   l                  finemk                       dari].
+\m  serviti   l                  finemk                       dari].
+\g  servitude-F-S-DAT         end-M-S-ACC               give-INFIN-PASS
+\l I knew this day was given to me as the last one and the end to my slavery.
+
+\t   magis.
+\m   magis.
+\g   more
+\l They say all events occurred in Athens, whereby it should seem more Greek to you.
+
+\t   aut        hodie...]               dicunt       [...mulierem                  aut        ullo              in         saeclo].
+\m   aut        hodie...]               dicunt       [...mulierem                  aut        ullo              in         saeclo].
+\g   or         today                   say-3-PL     woman-F-S-ACC                 or         any-N-S-ABL       in         generation-N-S-ABL
+\l For we are deservedly considered [to be] very talkative, and indeed they say no non- speaking woman has ever been discovered either today or in any generation.
+
+\t  [ab              illisi].
+\m  [ab              illisi].
+\g  by               that-M-PL-ABL
+\l Most of the Greeks and above all Athens perform sacred rites which are said by them to be the"Cronia."
+
+\t  sic              fore]
+\m  sic              fore]
+\g  thus             be-INFIN-FUT
+\l as if these things haven't been reported to you that they will be so [lit.`thus to (fut.) be']
+
+\t  oberit,                         quodl                        non           malefeceruntm,             sed            quia            pro       [pro
+\m  oberit,                         quodl                        non           malefeceruntm,             sed            quia            pro       [pro
+\g                   wish-INFIN-PERF       say-3-PL-PASS         do-INFIN
+\l But if someone says honor is not considered fair because of the fact he has wished to do something well but nevertheless didn't do it, will it be held against the Rhodians not that they did harm but because they are said to have wanted to do it?
+
+\t  {pecus                lanigerum}         l             {eximia                  pulchritudine}m.
+\m  {pecus                lanigerum}         l             {eximia                  pulchritudine}m.
+\g  herd-N-S-ACC    wool bearing-N-S-ACC      outstanding-F-S-ABL      beauty-F-S-ABL
+\l In my dreams a shepherd seemed to drive toward me a woolly flock of exceptional beauty.
+
+\t  ex             proxumo.
+\m  ex             proxumo.
+\g  out of         near-SUPER-M-S-ABL
+\l This Casina will be discovered to be the daughter of this man from next door.
+
+\t pro       i    semper            [ei             tj...]     dictaj             'st        [...esse      haecj]             atque           habitaj                'st         sororj.       
+\m pro       i    semper            [ei             tj...]     dictaj             'st        [...esse      haecj]             atque           habitaj                'st         sororj.       
+\g                always            ANA-S-DAT                  say-PPP-F-S-NOM    be-3-S     be-INFIN      this-F-S-NOM       and             hold-PPP-F-S-NOM       be-3-S      sister-F-S-NOM
+\l She has always been said to be and considered to be that one's sister.
+
+\t   scire            plus         quam         ceteri                   pertisum                  hominem              non
+\m   scire            plus         quam         ceteri                   pertisum                  hominem              non
+\g   tire of-PPP-M-S-ACC        say-INFIN                      race-N-S-ACC
+\l Whereby you may seem more elegant, to know more than the rest of the human race, to say"tiered" instead of "tired."
+
+\t  cum         suo                    amatore               quodam]].
+\m  cum         suo                    amatore               quodam]].
+\g  with        own-M-S-ABL            lover-M-S-ABL         INDEFIN-M-S-ABL
+\l Tonight my twin sister appears to have come from Athens to Ephesus with some lover of hers.
+
+\t    diu?
+\m    diu?
+\g    long time
+\l Does what was done a long time ago seem wonderful?
+
+\t quasi           vero          novom    i        nunc              proferatur      i                    [Iovemj             facere          histrioniamk].
+\m quasi           vero          novom    i        nunc              proferatur      i                    [Iovemj             facere          histrioniamk].
+\g  as if          but           new-N-S-ACC       now               carry forth-3-S-SUBJ-PASS            Jupiter-M-S-ACC     do-INFIN        acting-F-S-ACC
+\l as if indeed it were now spoken of as a new thing for Jupiter to do acting
+
+\t Quid                  est        [agrum           bene        colere]?           Bene        arare.              Quid                 secundum?             Arare.            Quid                      tertium?            Stercorare. 
+\m Quid                  est        [agrum           bene        colere]?           Bene        arare.              Quid                 secundum?             Arare.            Quid                      tertium?            Stercorare. 
+\g  INTERROG-N-S-NOM     be-3-S     field-M-S-ACC    well        cultivate-INFIN    well        plough-INFIN        INTERROG-N-S-NOM     following-N-S-NOM     plough-INFIN      INTERROG-N-S-NOM          third-N-S-NOM       manure-INFIN
+\l What is good cultivation? Good plowing. What's next? Plowing. What's third? Manuring.
+
+\t  histrioniamk].
+\m  histrioniamk].
+\g  acting-F-S-ACC
+\l as if indeed it were now spoken of as a new thing for Jupiter to do acting
+
+\t ubi           [puellam audÌ°vÌ°]
+\m ubi           [puella-m audÌ°-v-Ì°]
+\g     when girl-acc hear-perf-1sg
+\l when I heard the girl
+
+\t Rosa       rubet
+\m Rosa       rube-t
+\g rose       red-3.SG.PRES
+\l The rose is red
+
+\t quae        ex se         natos        ita amant ad quoddam           tempus           et ab eis          ita amantur         
+\m quae        ex se         natos        ita amant ad quoddam           tempus           et ab eis          ita amantur         
+\g which.N.PL from self.ABL born.ACC.PL thus love.3PL to certain.ACC.SG time.ACC.SG       and from them.ABL this love.3PL.PASSIVE
+\l ...which [animals] thus love their offspring for a certain time and thus are loved by them.
+
+\t cuneo           hoc    agmen           disicias
+\m cuneo           hoc    agmen           disici-as
+\g wedge.ABL       this   line           split-2SG.SUBJ.PRES
+\l With a wedge, one could split this (military) line.
+
+\t sint                   beati
+\m sint                   beati
+\g be.3PL.SUBJ.PRES happy.PL
+\l May they be happy!
+
+\t Timeo                 ne              laborem          augeam  
+\m Time-o                 ne              laborem          auge-am  
+\g fear-1SG.IND.PRES COMP                 work.ACC         increase-                                                                        1SG.SUBJ.PRES
+\l I am afraid that I shall increase my work.
+
+\t Ut       mihi   aedis aliquas conducat                 volo
+\m Ut       mihi   aedis aliquas conduc-at                 volo
+\g COMP I.DAT house some buy-3SG.SUBJ.PRES wish.1SG.IND.PRES
+\l I want him to rent a house for me.
+
+\t quid    taces?
+\m quid    tac-es?
+\g why     be.silent-2SG.IND.PRES
+\l Why are you silent?
+
+\t quoad             potuit,                     resistit
+\m quoad             potu-it,                     resist-it
+\g as.long.as        can-3SG.IND.PERF            resist-3SG.IND.PERF
+\l As long as he could, he resisted.
+
+\t dedemus                        ergo    Hannibalem?
+\m ded-emus                        ergo    Hannibal-em?
+\g give.up-1PL.INDIC.FUT           then    Hannibal-ACC
+\l Shall we then give up Hannibal?
+
+\t Puerum      puella        audit
+\m Puer-um      puella        audi-t
+\g jongen-OB    meisje:SU     horen-PR   ES:3SG
+\l Het meisje hoort de jongen.
+
+\t Puella       puerum       audit
+\m Puella       puer-um       audi-t
+\g meisje:SU    jongen-OB     horen-PR          ES:3SG
+\l Het meisje hoort de jongen.
+
+\t Puella        venit
+\m Puella        veni-t
+\g meisje:NOM komen-PR            ES:3SG
+\l Het meisje-(S) komt.
+
+\t Puer         puellam     audit
+\m Puer         puella-m     audi-t
+\g jongen:NOM meisje-ACC horen-PRES:3           SG
+\l De jongen-(A) hoort het meisje-(O).
+
+\t puella           vocat.
+\m puell-a           vocat.
+\g    girl-NOM call.PRES.3SG
+\l the girl is calling
+
+\t puella puerum vÌ°dit
+\m puell-a puer-um vÌ°dit
+\g   girl-NOM boy-ACC see.PERF.3SG
+\l the girl saw the boy
+
+\t puella librum puero dedit           ·
+\m puell-a libr-um puer-o dedit           ·
+\g   girl-NOM book-ACC boy-DAT give.PERF.3SG
+\l the girl gave the book to the boy
+
+\t me         sermonis        taedet
+\m me         sermonis        taedet
+\g  me.ACC talk.GEN.SG.MASC tire.PRES.3RDSG
+\l the talk tires me
+
+\t me         sermonis        taesum            est
+\m me         sermonis        taesum            est
+\g  me.ACC talk.GEN.SG.MASC tire.PSTPRT.NEUTSG be.PRES.3RDSG
+\l the talk has tired me
+
+\t cuncta           maria      terraeque
+\m cuncta           maria      terrae-que
+\g  all.NEUTPL sea.NEUTPL land.FEMPL-and
+\l all seas and lands
+
+\t cunctae terrae          mariaque
+\m cunctae terrae          maria-que
+\g all.FEMPL land.FEMPL sea.NEUTPL-and
+\l all lands and seas
+
+\t Cuius        legis           librum?
+\m Cuius        legis           librum?
+\g whose        read-you        book
+\l Whose book are you reading?
+
+\t [quae       mihi antea signa                   misisti],     ea            nondum vidi
+\m [quae       mihi antea signa                   misisti],     ea            nondum vidi
+\g REL.N.p ACC 1sDAT earlier statue(N ).p ACC    send.2sPERF DEMpN.ACC not.yet see.1sPERF
+\l I haven't seen yet the statues you sent me recently.
+
+\t castris     hostium        oppositis          tenebantur.
+\m castris     hostium        oppositis          tenebantur.
+\g camp.ABLp enemy.GENp       opposite.ABLp      hold.3p PST.PASS
+\l For the roads that lead to Hibernum and Octogesa were held by the other camps of the enemy.
+
+\t non multum        a     magistro            adiuvaretur]
+\m non multum        a     magistro            adiuvaretur]
+\g NEG much.N.ACCs by     teacher.ABLs help.3sPST.SBJV.PASS
+\l many [properties] such that if the orator didn't have them by nature, he couldn't be much helped by a teacher.
+
+\t  [qui [N    PSUBJECT   quid _      egissent]                 nihildum nuntiabatur].
+\m  [qui [N    P-SUBJECT   quid _      egissent]                 nihildum nuntiabatur].
+\g  REL.M.NOMp             REL.N.ACCs achieve.3p PLUPERF.SBJV nothing.yet report.3sPST.PASS
+\l because of the expectation of the envoys of whose achievements nothing was as yet reported
+
+\t Dolabella Delo (ablative) proficiscitur.
+\m Dolabella Delo (ablative) proficiscitur.
+\g Dolabella Delos                 sets out
+\l Dolabella sets out from Delos.
+
+\t Omni       Gallia (ablative)   Romanis interdicit.
+\m Omni       Gallia (ablative)   Romanis interdicit.
+\g all        Gaul                Romans      bars
+\l He bars   the Romans from     all (of) Gaul.
+
+\t Oculis (ablative) se      privavit.
+\m Oculis (ablative) se      privavit.
+\g eyes              himself deprived
+\l He deprived himself of his eyes.
+
+\t Hostes finibus (dative) appropinquant.
+\m Hostes finibus (dative) appropinquant.
+\g enemy border            approach
+\l The enemy approaches the border.
+
+\t Litteras mihi (dative) nuntius      reddidit.
+\m Litteras mihi (dative) nuntius      reddidit.
+\g letter   to me         messenger delivered
+\l The messenger delivered a letter to me.
+
+\t Mihi (dative) placet.
+\m Mihi (dative) placet.
+\g to me           it pleases
+\l It pleases me.
+
+\t Paulo scrive una lettera a Maria.
+\m Paulo scrive una lettera a Maria.
+\g Paul     wrties a          letter  to Mary
+\l Paul is writing a letter to Mary.
+
+\t Nummi in marsupio infuerunt
+\m Nummi in marsupio infuerunt
+\g money in purse        in­be
+\l The money was in the purse.
+
+\t Occurrebat ei         mancam et      debilem praeturam futuram      suam consule Milone
+\m Occurrebat ei         mancam et      debilem praeturam futuram      suam consule Milone
+\g it occurred to him maimed and feeble praetorship would be his consul Milo
+\l It occurred to him that his praetorship would be maimed and feeble, if Milo were consul.
+
+\t Tranquillo ut aiunt          quilibet gubernator est.
+\m Tranquillo ut aiunt          quilibet gubernator est.
+\g tranquil    as they say anyone pilot is
+\l If the weather is tranquil, as they say, any man is a pilot.
+
+\t Legatos ad Caesarem mittunt           rogatum auxilium
+\m Legatos ad Caesarem mittunt           rogatum auxilium
+\g envoys to     Caesar     they send to ask for help
+\l They send envoys to Caesar to ask for help.
+
+\t Non se                 hostem (accusative) vereri sed                   magnitudinem (accusative) silvarum timere dicebant.       
+\m Non se                 hostem (accusative) vereri sed                   magnitudinem (accusative) silvarum timere dicebant.       
+\g not themselves         enemy               to dread but                 vastness                       forest     to fear they say
+\l They said that they did not dread the enemy but did fear the vastness of the forest
+
+\t Caesar   suis (dative) rebus (dative) eos timere voluit.
+\m Caesar   suis (dative) rebus (dative) eos timere voluit.
+\g Caesar   their         things           them to fear wanted
+\l Caesar  wanted them to fear for their own possessions.
+
+\t Cavebo             omnia (accusative).
+\m Cavebo             omnia (accusative).
+\g I will beware      everything
+\l I will be take precautions against everything
+
+\t Melius ei (dative) cavere volo          quam ipse aliis (dative) solet.
+\m Melius ei (dative) cavere volo          quam ipse aliis (dative) solet.
+\g more      for him     beware I wish than        he for others         he is wont
+\l I wish to look out for him more than he is wont to look out for others.
+
+\t Ego         moderor              equum           meum
+\m Ego         moderor              equum           meum
+\g I.NOM       moderate.1SG         horse.ACC       my.ACC
+\l I control my horse.
+
+\t Ego         moderor              orationi   meae
+\m Ego         moderor              orationi   meae
+\g I.NOM       moderate.1SG         speech.DAT my.DAT
+\l I moderate my speech.
+
+\t ... ut         dominus navi (dative) moderaretur
+\m ... ut         dominus navi (dative) moderaretur
+\g     so that    owner      ship            he guided
+\l so that the   owner guided the ship.
+
+\t Sororis tuae filio (dative) moderabor           diligentius.
+\m Sororis tuae filio (dative) moderabor           diligentius.
+\g sister your son                 I will guide very diligently
+\l I will exercise diligent control over your sister's son.
+
+\t Non vinum viris moderari, sed viri vino solent
+\m Non vinum viris moderari, sed viri vino solent
+\g not wine       men control       but men wine accustomed
+\l Wine does not usually control men, but men usually control wine.
+
+\t Cum funditoribus sagittariis­que flumen transgressi sunt
+\m Cum funditoribus sagittariis­que flumen transgressi sunt
+\g with slingers       archers­and        river    crossed     have
+\l They have crossed the river with the slingers and the archers.
+
+\t Pugnis, calcibus, unguibus, morsu denique                 certant.
+\m Pugnis, calcibus, unguibus, morsu denique                 certant.
+\g fists    heels       nails         teeth      even        they fight
+\l They fight with their fists, heels, nails, and even teeth.
+
+\t Lex esse cum telis            vetat.
+\m Lex esse cum telis            vetat.
+\g law to be with weapons it forbids
+\l The law forbids one to be armed.
+
+\t Subsequebatur omnibus copiis.
+\m Subsequebatur omnibus copiis.
+\g he followed      all          forces
+\l He followed with all his forces.
+
+\t [Subsequebatur] cum        omnibus       copiis.
+\m [Subsequebatur] cum        omnibus       copiis.
+\g he followed      with      all           forces
+\l He followed with all his forces.
+
+\t Di administratione (ablative )       rerum vacant.
+\m Di administratione (ablative )       rerum vacant.
+\g gods management                   things they are free
+\l The gods are free from the management of the world.
+
+\t Milites     ab       opere (ablative) vacabant.
+\m Milites     ab       opere (ablative) vacabant.
+\g soldiers    from     work             they were free
+\l The soldiers were free from work.
+
+\t Philosophiae (dative) semper       vaco.
+\m Philosophiae (dative) semper       vaco.
+\g for philosophy          always     I am free
+\l I am always free for philosophy.
+
+\t In   nullum opus (accusative)          mea mens vacat.
+\m In   nullum opus (accusative)          mea mens vacat.
+\g for no         work                  my mind   it is free
+\l My mind has not been free for any work.
+
+\t (92)     Ferris             certant.
+\m (92)     Ferris             certant.
+\g          swords­with        they fight
+\l (91)     They fight with swords.
+
+\t fabri       de        area             nostra.
+\m fabri       de        area             nostra.
+\g workmen from          building­site my
+\l The workmen have     been driven from my building­site by means of armed men.
+
+\t Beate vivere, honeste, id est cum virtute vivere
+\m Beate vivere, honeste, id est cum virtute vivere
+\g happily to live honestly it is           with virtue to live
+\l To live happily is to live honestly, that is, with virtue.
+
+\t Pugnis, calcibus, unguibus, morsu denique                 certant.
+\m Pugnis, calcibus, unguibus, morsu denique                 certant.
+\g fists    heels       nails         teeth      even        they fight
+\l They fight with their fists, heels, nails, and even teeth.
+
+\t Antonius regna addixit pecunia (ablative).
+\m Antonius regna addixit pecunia (ablative).
+\g Antony     thrones sold      money
+\l Antony sold thrones for money.
+
+\t Eriphyla auro (ablative) viri              vitam vendidit.
+\m Eriphyla auro (ablative) viri              vitam vendidit.
+\g Eriphyle gold                   husband life      sold
+\l Eriphyle sold the life of her husband for gold.
+
+\t It    clamor       caelo (dative).
+\m It    clamor       caelo (dative).
+\g rises a shout      to the sky.
+\l A shout rises to the sky
+
+\t It    tristis     ad aethera        clamor.
+\m It    tristis     ad aethera        clamor.
+\g rises sad         to     heavens    a shout
+\l A sad shout rises to the heavens
+
+\t Puer qui pulcher      est puellam quae pulchra est             amat.
+\m Puer qui pulcher      est puellam quae pulchra est             amat.
+\g boy who handsome is        girl      who pretty is             loves
+\l The boy who is handsome loves the girl who is pretty.
+
+\t Arma        virum   que cano        Troiae qui primus ab oris              Italiam fato        profogus     Lavina      que       venit          litora...
+\m Arma        virum   que cano        Troiae qui primus ab oris              Italiam fato        profogus     Lavina      que       venit          litora...
+\g arms        man     and I sing      of Troy who first from coasts          Italy   fate        exiled       Lavinian    and       came           shores   
+\l I sing of arms and the man who first, exiled by fate, came from the coasts of Troy to Italy and the Lavinian shores...
+
+\t Per ego has lacrimas ...             te ... oro ...
+\m Per ego has lacrimas ...             te ... oro ...
+\g with I      these tears              you beg...
+\l With these tears, I beg you ...
+
+\t saevae memorem Iunonis ob                    iram
+\m saevae memorem Iunonis ob                    iram
+\g cruel   mindful      Juno     on account of wrath
+\l on account of the endless (mindful) wrath of cruel Juno
+
+\t Arma       virumque cano.
+\m Arma       virumque cano.
+\g of.arms and.of.man I.sing
+\l I sing of arms and of the man.
+
+\t [...] stabant   autem [...] scribae      constanter accusantes eum [...]
+\m [...] stabant   autem [...] scribae      constanter accusantes eum [...]
+\g       were-3PL thus           scribes    constantly accusing     him    
+\l Thus [...] the scribes were constantly accusing him.
+
+\t mihi       est               liber
+\m mihi       es-t               liber
+\g I-DATsg.be.PRES.-3sg.        book.NOMsg.
+\l I have a book
+
+\t Noli     timere!
+\m Noli     timere!
+\g PROH fear.INF
+\l Don't fear!
+
+\t Dominus            venit
+\m Domin-us            veni-t
+\g master-NOM come-3SG
+\l The master comes.
+
+\t Servus          dominum audit
+\m Serv-us          domin-um audi-t
+\g slave-NOM master-ACC hear-s
+\l The slave hears the master
+
+\t Dominus            venit
+\m Domin-us            veni-t
+\g master-NOM come-3SG
+\l The master comes.
+
+\t Servus         dominum audit
+\m Serv-us         domin-um audi-t
+\g slave-NOM master-ACC hear-s
+\l The slave hears the master
+
+\t Arma         virum=que         cano,          Troiae                    qui         primus            ab oris             / Italiam    fato           profugus            Lavinia=que          venit            / litora.
+\m Arma         virum=que         cano,          Troiae                    qui         primus            ab oris             / Italiam    fato           profugus            Lavinia=que          venit            / litora.
+\g      arms:ACC.PL man:ACC.PL=and sing:1SG.PRES T:GEN.SG who:NOM.SG                   first:NOM.SG      from coast:ABL.PL I:ACC.SG fate:ABL.SG fugitive:NOM.SG              L.:N.ACC.PL=and      come:3SG.PERF shore:ACC.PL
+\l Of arms and the man I sing, who, fugitive by fate, first came from the coasts of Troy to Italy and the Lavinian shores.
+
+\t ascia         nova
+\m ascia         nova
+\g  axe.NOM new.NOM
+\l a/the new axe
+
+\t asciÑa      novÑa
+\m asciÑa      novÑa
+\g  axe.ABL new.ABL
+\l with a/the new axe
+
+\t Rogo Petrum    sententiam.
+\m Rogo Petrum    sententiam.
+\g ask Peter-acc opinion-acc
+\l I ask Peter (his) opinion.
+
+\t Petrus    rogatur     sententiam
+\m Petrus    rogatur     sententiam
+\g Peter-nom ask-passive opinion-acc
+\l Peter is asked (his) opinion.
+
+\t Milites acriter pugnaverunt.
+\m Milites acriter pugnaverunt.
+\g soldiers fiercely fought
+\l The soldiers fought fiercely.
+
+\t Acriter (a militibus) pugnatum est.
+\m Acriter (a militibus) pugnatum est.
+\g fiercely by soldiers fought    is
+\l There was fierce fighting (by the soldiers).
+
+\t Alexander      Dareum      vicit.
+\m Alexander      Dareum      vicit.
+\g Alexander(nom) Darius(acc) conquered
+\l Alexander conquered Darius.
+
+\t Dareus      ab Alexandro victus    est.
+\m Dareus      ab Alexandro victus    est.
+\g Darius(nom) by Alexander conquered is
+\l Darius was conquered by Alexander.
+
+\t Puella      videt      mensam
+\m Puella      videt      mensam
+\g girl.NOM see.3SG table.ACC
+\l The girl sees the table.
+
+\t Habebat       in bibliotheca    Ulpia librum              elephantinum.  
+\m Habebat       in bibliotheca    Ulpia librum              elephantinum.  
+\g have:3SG:IMPF in library:ABL:SG Ulpia book:ACC:SG         of-ivory:ACC:SG
+\l There was an ivory book in the Ulpia library.
+
+\t puella      portam      videt
+\m puella      portam      videt
+\g girl.F.Nom door.F.Acc see.Pres.3.Sg
+\l The girl sees the door.
+
+\t ¯bit         ¯
+\m ¯bit         ¯
+\g go.Fut.3.Sg Rome.Acc.F.Sg
+\l He will go to Rome.
+
+\t haec            Caesar¯i   facienda       er an t
+\m haec            Caesar¯i   facienda       er an t
+\g this.Nom.N.Pl Caesar.Dat make.Gd.Nom.N.Pl be.Past.3.Pl
+\l These things had to be done by Caesar.
+
+\t placeo ¯         tibi
+\m placeo ¯         tibi
+\g please.Pres.1.Sg you.Dat
+\l I please you.
+
+\t puer¯      ¯          ¯
+\m puer¯      ¯          ¯
+\g boy.Nom.Pl by teacher.Abl praise.Pass.3Pl
+\l The boys are praised by the teacher.
+
+\t r o m am       ¯
+\m r o m am       ¯
+\g Rome.Acc see
+\l To see Rome.
+
+\t romam      i
+\m romam      i
+\g Rome.Acc go
+\l To go to Rome.
+
+\t deus explevit mundum omnibus bonis
+\m deus explevit mundum omnibus bonis
+\g god filled world-ACC all-ABL goods-ABL
+\l God filled the world with all good things.
+
+\t Hesperiam    exhausit acquis
+\m Hesperiam    exhausit acquis
+\g Hesperia-ACC emptied waters-ABL
+\l (He) emptied the Hesperia of water.
+
+\t in aquam            cadere
+\m in aquam            cadere
+\g IN water.ACC    to.fall
+\l to fall in the water
+
+\t sub moenibus castra habere
+\m sub moenibus castra habere
+\g SUB wall.pl.abl camp to.have
+\l to have a camp at the foot of the walls
+
+\t sub moenia              venire
+\m sub moenia              venire
+\g SUB wall.pl.acc to.come
+\l to come to the foot of the walls
+
+\t pueros         mentiri turpe            est
+\m pueros         mentiri turpe            est
+\g boy.ACC.PL lie.INF scandalous be.3Sg
+\l that the boys lie is scandalous
+
+\t in urbe           vivere
+\m in urbe           vivere
+\g  IN city.ABL   to.live
+\l to live in the city
+
+\t in terram               cadere
+\m in terram               cadere
+\g I N g rou n d.ACC   to.fall
+\l to fall on the ground
+
+\t  Littera scripta                 est
+\m  Littera scripta                 est
+\g letter.ABS   written.ABS   be.PRES.3SG
+\l The letter is written
+
+\t  Habeo                 pecuniam
+\m  Habeo                 pecuniam
+\g have.PRES.3SG       money.ACC
+\l I have money
+
+\t Terit         tempus          scribendo             epistulas
+\m Terit         tempus          scribe-nd-o             epistulas
+\g he.spends     time            write-GER-ABL           letter.ACC.PL
+\l He spends his time writing letters
+
+\t Terit         tempus          scribendis            epistulis
+\m Terit         tempus          scribe-nd-is            epistulis
+\g he.spends     time            write-GER-ABL.PL      letter.ABL.PL
+\l He spends his time writing letters
+
+\t Caesar        acceptis                      litteris          nuntium mittit
+\m Caesar        accep-t-is                      litteris          nuntium mittit
+\g Caesar.NOM receive-PASS.PART-ABL.PL           letter.ABL        messenger sends
+\l Caesar, having received the letter, sends a messenger
+
+\t recentibus        sceleris eius               vestigiis
+\m recent-ibus        sceleris eius               vestigi-is
+\g recent-ABL.PL      crime       his             trace-ABL.PL
+\l while the traces of his crime were still fresh
+
+\t Dominus est consul.
+\m Dominus est consul.
+\g master.NOM be consul.NOM
+\l The master is consul.
+
+\t                     ¯      ¯             ¯      enumque v¯
+\m                     ¯      ¯             ¯      enumque v¯
+\g attach.IMPF.3.SG
+\l Cethegus was to beset Cicero's door and assault him.
+
+\t et ego et Cicero meus flagitabit.
+\m et ego et Cicero meus flagitabit.
+\g and I and Cicero my will-demand(3sg)
+\l Both my Cicero and I will demand it.
+

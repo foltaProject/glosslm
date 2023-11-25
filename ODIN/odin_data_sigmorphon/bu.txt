@@ -1,0 +1,5050 @@
+\t (3>3) Az im      ja         preporâc &vam.
+\m (3>3) Az im      ja         preporâc &vam.
+\g           I     3PL.REC 3SG.F.THM recommend.PRES.1SG
+\l I recommend her to them.
+
+\t (3>2) * Az im            te          preporâc &vam.
+\m (3>2) * Az im            te          preporâc &vam.
+\g          I     3PL.REC 2SG.THM      recommend.PRES.1SG
+\l I recommend you to them.
+
+\t Az te       preporâc &vam                na tjah.
+\m Az te       preporâc &vam                na tjah.
+\g I     2SG.THM     recommend.PRES.1SG     to   them
+\l I recommend you to them.
+
+\t Koj kogo e vidjal?
+\m Koj kogo e vidjal?
+\g who whom is seen
+\l Who saw whom?
+
+\t Koja ot tezi knigii se cudis         koj znae koj prodava ti ?
+\m Koja ot tezi knigii se cudis         koj znae koj prodava ti ?
+\g   which of these books refl wonder.2sg who knows who sells
+\l Which of these books you wonder who knows who sells?
+
+\t Koj kakvo e napisal?
+\m Koj kakvo e napisal?
+\g who what aux wrote
+\l Who wrote what?
+
+\t Koj aftor koja kniga e napisal?
+\m Koj aftor koja kniga e napisal?
+\g which author which book aux wrote
+\l Which author wrote which book?
+
+\t Koja kniga i otrece senatorat [malvata ce iska
+\m Koja kniga i otrece senatorat [malvata ce iska
+\g   which book denied the senator the rumor that wanted to ban
+\l Which book did the senator deny the rumor that the senator wanted to ban which book?
+
+\t a. *    Koja knigai otrece senatorat [malvata                ce iska da zabrani ti]?
+\m a. *    Koja knigai otrece senatorat [malvata                ce iska da zabrani ti]?
+\g         which book denied the-senator the-rumor that wanted to ban
+\l Which book did the senator deny the rumor that he wanted to ban?
+
+\t Koj    senator koja knigai otrece [malvata ce iska da zabrani ti]?
+\m Koj    senator koja knigai otrece [malvata ce iska da zabrani ti]?
+\g      which senator which book denied the-rumor that wanted to ban
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t Koja ot tezi knigi se ¤cudi      ¤s   koj    znae     koj prodava?
+\m Koja ot tezi knigi se ¤cudi      ¤s   koj    znae     koj prodava?
+\g     which of these books wonder-2s who knows who           sells
+\l Which of these books do you wonder who knows who sells?
+
+\t Majka mu obicha vseki chovek
+\m Majka mu obicha vseki chovek
+\g   mother his love every person
+\l Hisi mother loves everyonei
+
+\t Koj     kogo e vidjal?
+\m Koj     kogo e vidjal?
+\g who whom is seen
+\l Who saw whom?
+
+\t Koj     kude udari Ivan?
+\m Koj     kude udari Ivan?
+\g who where         hit Ivan
+\l Who hit Ivan where?
+
+\t Koj obicha      majka si?
+\m Koj obicha      majka si?
+\g  who loves mother his
+\l Who i loves hisi mother?
+
+\t Kogo obicha majka su?
+\m Kogo obicha majka su?
+\g      who loves mother his
+\l Who i does hisi mother love?
+
+\t Koj kogo e vidjal
+\m Koj kogo e vidjal
+\g  who whom is seen
+\l Who saw whom?
+
+\t Koj kogo e vidjal
+\m Koj kogo e vidjal
+\g  who whom is seen
+\l Who saw whom?
+
+\t a.   * Koja knigai otrece senatorat [malvata       ce iska da zabrani ti]?
+\m a.   * Koja knigai otrece senatorat [malvata       ce iska da zabrani ti]?
+\g        which book denied the-senator the-rumor that wanted to ban
+\l Which book did the senator deny the rumor that he wanted to ban?
+
+\t Koj   senator koja knigai otrece [malvata ce iska da zabrani ti]?
+\m Koj   senator koja knigai otrece [malvata ce iska da zabrani ti]?
+\g   which senator which book denied the-rumor that wanted to ban
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t a.    * Koja knigai otrece senatorat [malvata                    ce iska da zabrani ti]?
+\m a.    * Koja knigai otrece senatorat [malvata                    ce iska da zabrani ti]?
+\g          which book denied the-senator the-rumor that wanted to ban
+\l Which book did the senator deny the rumor that he wanted to ban?
+
+\t Koj      senator koja knigai otrece [malvata ce iska da zabrani ti]?
+\m Koj      senator koja knigai otrece [malvata ce iska da zabrani ti]?
+\g     which senator which book denied the-rumor that wanted to ban
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t Koj kakvo na kogo dade?
+\m Koj kakvo na kogo dade?
+\g Who what to whom gave?
+\l Who gave what to whom?
+
+\t  Koj kakvo na kogo dade?
+\m  Koj kakvo na kogo dade?
+\g who what to whom gave
+\l Who gave what to whom?
+
+\t Koj na kogo kakvo s kakvo napisa?
+\m Koj na kogo kakvo s kakvo napisa?
+\g who to whom what with what wrote
+\l Who wrote what to whom with what?
+
+\t Koj kogo na kogo kakvo ubedi            da dade?
+\m Koj kogo na kogo kakvo ubedi            da dade?
+\g  who whom to whom what convinced to give
+\l Who convinced whom to give what to whom?
+
+\t Koj kakvo viÏda?
+\m Koj kakvo viÏda?
+\g  who what sees
+\l cf. Who sees what?
+
+\t b.*Kakvo koj viÏda?
+\m b.*Kakvo koj viÏda?
+\g     what who sees
+\l cf. * What does who see?
+
+\t Koj ku de udari Ivan
+\m Koj ku de udari Ivan
+\g  who where hit      Ivan
+\l cf. Who hit Ivan where?
+
+\t a.Koj kude C ___ udari Ivan __ ?
+\m a.Koj kude C ___ udari Ivan __ ?
+\g   who where hit Ivan
+\l Who hit Ivan where?
+
+\t Koja kniga otreãe senatorat [malvata ãe iska da zabrani ___ ]?
+\m Koja kniga otreãe senatorat [malvata ãe iska da zabrani ___ ]?
+\g which book denied the-senator the-rumor that wanted to ban
+\l Which book did the senator deny the rumor that he wanted to ban?
+
+\t Koj senator koja kniga otreãe ___ [malvata ãe          iska da zabrani ___]?
+\m Koj senator koja kniga otreãe ___ [malvata ãe          iska da zabrani ___]?
+\g which senator which book denied the-rumor that wanted to ban
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t Koja kniga otreãe senatorat [malvata ãe iska da zabrani ___ ]?
+\m Koja kniga otreãe senatorat [malvata ãe iska da zabrani ___ ]?
+\g which book denied the-senator the-rumor that wanted to ban
+\l Which book did the senator deny the rumor that he wanted to ban?
+
+\t Koj senator koja kniga otreãe ___ [malvata ãe      iska da zabrani ___]?
+\m Koj senator koja kniga otreãe ___ [malvata ãe      iska da zabrani ___]?
+\g which senator which book denied the-rumor that wanted to ban
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t  Koja kniga otre·e senatora*t 1        malva*ta ·e iska da zabrani ___
+\m  Koja kniga otre·e senatora*t 1        malva*ta ·e iska da zabrani ___
+\g which book denied the-senator 1       the-rumor that wanted to ban    
+\l Which book did the senator deny [the rumor that he wanted to ban t]?
+
+\t b.     Koj senator ___ otre ·e    malva*ta ·e iska da zabrani Vojna i Mir 
+\m b.     Koj senator ___ otre ·e    malva*ta ·e iska da zabrani Vojna i Mir 
+\g        which senator denied     the-rumor that wanted to ban war and peace
+\l Which senator denied the rumor that he wanted to ban War and Peace ?
+
+\t Koj senator koja kniga ___ otre ·e                  malva*ta ·e iska da zabrani ___
+\m Koj senator koja kniga ___ otre ·e                  malva*ta ·e iska da zabrani ___
+\g which senator which book     denied              the-rumor that wanted to ban      
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t Koj senator koja kniga ___ otre ·e 1                    malva*ta ·e iska da zabrani    ___
+\m Koj senator koja kniga ___ otre ·e 1                    malva*ta ·e iska da zabrani    ___
+\g which senator which book     denied                  the-rumor that wanted to ban         
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t Kogo kakvo e           pital     Ivan
+\m Kogo kakvo e           pital     Ivan
+\g whom what     AUX asked          Ivan
+\l Who did Ivan ask what?
+
+\t a. Koj kogo kakvo e pital
+\m a. Koj kogo kakvo e pital
+\g    who whom what AUX asked
+\l Who asked whom what?
+
+\t Kogo koj kakvo e pital
+\m Kogo koj kakvo e pital
+\g     whom who what AUX asked
+\l Who asked whom what?
+
+\t Koj kogo viÆda ?
+\m Koj kogo viÆda ?
+\g who whom sees
+\l Who sees whom?
+
+\t a.*   Kakvo se opitva da razbere na kogo dade Ivan ___ ___?
+\m a.*   Kakvo se opitva da razbere na kogo dade Ivan ___ ___?
+\g       wha t SELF try to find-out to whom gave Ivan
+\l What is he trying to find out to whom Ivan gave?
+
+\t Na kogo se opitva da razbere kakvo dade Ivan ___ ___?
+\m Na kogo se opitva da razbere kakvo dade Ivan ___ ___?
+\g to whom SELF try to find-out what gave Ivan
+\l To whom is he trying to find out what Ivan gave?
+
+\t Koj kakvo ___ se opitva da razbere na kogo dade Ivan __ __?
+\m Koj kakvo ___ se opitva da razbere na kogo dade Ivan __ __?
+\g who what SELF try to find-out to whom gave Ivan
+\l Who is trying to find out to whom Ivan gave what?
+
+\t Koj na kogo __ se opitva da razbere kakvo dade Ivan __ __ ?
+\m Koj na kogo __ se opitva da razbere kakvo dade Ivan __ __ ?
+\g   who to whom SELF try to find-out what gave Ivan
+\l Who is trying to find out what Ivan gave to whom?
+
+\t Vidjax [mojata xubava kniga].
+\m Vidja-x [moja-ta xubava kniga].
+\g saw-1sg my-the nice book
+\l I saw my nice book.
+
+\t Vidjax [moja xubava kniga].
+\m Vidja-x [moja xubava kniga].
+\g saw-1sg my nice book
+\l I saw one of my nice books/ I saw a nice book of mine.
+
+\t Vidjax    [xubavata mi kniga].
+\m Vidja-x    [xubava-ta mi kniga].
+\g saw-1sg     nice-the my book
+\l I saw my nice book.
+
+\t Vidjax [interesnata i statija]
+\m Vidja-x [interesna-ta i statija]
+\g saw-1sg interesting-the her article
+\l I saw her interesting article.
+
+\t Vidjax i       [interesnata statija]
+\m Vidja-x i       [interesna-ta statija]
+\g saw-1sg her interesting-the article
+\l I saw her interesting article.
+
+\t Vidjax (*mu)       pomagas&tijat mu      c&ovek.
+\m Vidja-x (*mu)       pomaga-s&ti-jat mu      c&ovek.
+\g saw-1sg 3sg.DAT help-PTCP-the 3sg.DAT person
+\l I saw the person who was helping him
+
+\t mnogoto mu statij i malko knigi
+\m mnogo-to mu statij i malko knigi
+\g many-the his articles and few books
+\l his [many articles and few books]
+
+\t tezi mu i onezi knigi
+\m tezi mu i onezi knigi
+\g these his and those books
+\l [these and those] books of him
+
+\t moite i tvoi xubavi knigi
+\m moi-te i tvoi xubavi knigi
+\g my-the and your nice books
+\l my and your nice books
+
+\t moite stari i tvoite novi idei
+\m moi-te stari i tvoi-te novi idei
+\g my-the old and your-the new ideas
+\l my old and your new ideas
+
+\t iznenadvas&toto me         res&enie
+\m iznenadva-s&to-to me         res&enie
+\g surprise-PTCP-the me.ACC solution
+\l the solution that surprises me
+
+\t  etjal su°m bit knigata.
+\m  etjal su°m bit knigata.
+\g read pf.1s pf.prt book.the
+\l (According to someone,) I am reading the book.
+
+\t Pro ela si bila          knigata
+\m Pro ela si bila          knigata
+\g read.fem be.2s been.fem book.def
+\l You (allegedly) have read the book.
+
+\t Bihte     bili arestuvani ot policiata
+\m Bihte     bili arestuvani ot policiata
+\g would.2pl been arrested by police.def
+\l You would have been arrested by the police.
+
+\t Pro ela si bila          knigata
+\m Pro ela si bila          knigata
+\g read.fem be.2s been.fem book.def
+\l You (allegedly) have read the book.
+
+\t Vidjaxme li knigata?
+\m Vidjaxme li knigata?
+\g see.aorist.1p Q book.def
+\l Did we see the book?
+
+\t Vi dal si go
+\m Vi dal si go
+\g seen have.pres.2s him
+\l You have seen him.
+
+\t [Sre na recenzenta si] li Ivan.
+\m [Sre na recenzenta si] li Ivan.
+\g met.ptc opponent his Q Ivan
+\l Was it meeting his opponent that Ivan did?
+
+\t Penka li te ti dade         knigata?
+\m Penka li te ti dade         knigata?
+\g Penka Q fut 2s.dat give.3s book.def.fem.sg
+\l Is it Penka who will give you the book?
+
+\t Utre       li Penka te ti dade        knigata?
+\m Utre       li Penka te ti dade        knigata?
+\g tomorrow Q Penka fut 2s.dat give.3s book.def.fem.sg
+\l Is it tomorrow that Penka will give you the book?
+
+\t Pro el te su°m ja knigata.
+\m Pro el te su°m ja knigata.
+\g read.ptc fut be.1s it.acc book.def
+\l I will have read the book (by then).
+
+\t  te go vi da
+\m  te go vi da
+\g will him see.pres.2p
+\l You(pl) will see him.
+
+\t Toj ne be e li rabotil tam?
+\m Toj ne be e li rabotil tam?
+\g he neg had Q worked there
+\l Hadn't he worked there?
+
+\t Ne raboti li toj?
+\m Ne raboti li toj?
+\g heg works Q he
+\l Doesn't he work?
+
+\t Proceta te ja knigata.
+\m Proceta te ja knigata.
+\g   read fut.3s it.acc book.def
+\l I will read the book.
+
+\t Razbrah e pro el e knigata.
+\m Razbrah e pro el e knigata.
+\g understood that read had book.def
+\l I understood that he had read the book.
+
+\t Toj go e vi dal.
+\m Toj go e vi dal.
+\g he him pres.3s seen
+\l He saw/has seen him.
+
+\t Kogotoi celunes, (toj)i ste          speceli sstezanieto.
+\m Kogo-toi celunes, (toj)i ste          speceli sstezanieto.
+\g whoACC      kiss2:sg   he      will win         championship.
+\l Whoever you kiss will win the championship.
+
+\t Procetox=i         statija.
+\m Procetox=i         statija.
+\g read.1sg=3fsg article
+\l I read one of her articles.
+
+\t Kounòt razsmja/razplaka bebeto
+\m Kounòt raz-smja/raz-plaka bebeto
+\g clown-DET PV-laugh/cry-3sS/AORIST baby-DET
+\l The clown laughed/cried the baby.
+
+\t Kompanijata na drugi dexo         vinagi razjazda          decata
+\m Kompanijata na drugi dexo         vinagi raz-jazda          decata
+\g company      of other children always PV-eat 3pS/PRES children-DET
+\l The company of other children always gives children an appetite.
+
+\t Toj napisa            pisma *3 casa/za 3 casa
+\m Toj na-pis-a            pisma *3 casa/za 3 casa
+\g he PV-write-3SG/AOR letters *for 3 hours/in 3 hours
+\l He wrote letters in 3 hours.
+
+\t napisa
+\m na-pis-a
+\g PV-write-1SG
+\l to write up
+
+\t namrazja
+\m na-mraz-ja
+\g PV-hate-1SG
+\l to start hating someone
+
+\t Ivan   napisa edno pismo
+\m Ivan   napisa edno pismo
+\g Ivan   Perf-wrote one letter
+\l Ivan   wrote one letter
+
+\t Ivan   napisva edno pismo
+\m Ivan   napisva edno pismo
+\g Ivan   Imp-Perf-wrote one letter
+\l Ivan   used to write one letter
+
+\t Az izpix kafeto
+\m Az izpix kafeto
+\g I Perf-drank coffee-the
+\l I drank the coffee
+
+\t Tri momi ceta izjadoxa pet sandvica
+\m Tri momi ceta izjadoxa pet sandvica
+\g Three girls Perf-eat-Aor.five sandwiches
+\l Three girls ate all together five sandwiches
+
+\t Tri momi ceta izjadoxa po pet sandvica (vsjaka)
+\m Tri momi ceta izjadoxa po pet sandvica (vsjaka)
+\g Three girls Perf-eat-Aor.times five sandwiches
+\l Three girls ate all together five sandwiches
+
+\t Stom        pukne se           zorata, izkarvax             ovcite    nav .
+\m Stom        pukne se           zorata, izkarvax             ovcite    nav .
+\g as-so on-as broke.3sg.perf-imp dawn.the drove.1sg.imp-imp sheep.the outside
+\l As so on as dawn broke (Perf Impf ), I used to drive the sheep out.
+
+\t Pred      mnogo ikoni    oste pop Stefan vo di                djada Nedka. Te se spiraxa              pred sv       pred      obrazite na      arxangelite    Gavrail i    Mixail.
+\m Pred      mnogo ikoni    oste pop Stefan vo di                djada Nedka. Te se spiraxa              pred sv       pred      obrazite na      arxangelite    Gavrail i    Mixail.
+\g before    many icons     other father Stefan led.3sg.imp-aor old Nedko.They refl stopped.3pl.imp-aor before St      before    images.the of    archangels.the Gabriel and Michael.
+\l Father Stefan led (Ipfv. Aorist) old Nedko in front of many other icons. They stopped (Ipfv. Aorist) before St. Nicholas the miracle-worker, ..., before the images of the archangels Gabriel and Michael.
+
+\t Kounòt    razsmja/razplaka         bebeto
+\m Kounòt    raz-smja/raz-plaka         bebeto
+\g clown-DET PV-laugh/cry-3sS/AORIST baby-DET
+\l The clown laughed/cried the baby.
+
+\t Kompanijata      na drugi dexo     vinagi razjaz&da               decata      
+\m Kompanijata      na drugi dexo     vinagi raz-jaz&da               decata      
+\g company          of other children always PV-eat 3pS/PRES          children-DET
+\l The company of other children always gives children an appetite.
+
+\t Toj napisa              pisma *3 c&asa/za 3 c&asa
+\m Toj na-pis-a              pisma *3 c&asa/za 3 c&asa
+\g he PV-write-3SG/AOR letters *for 3 hours/in 3 hours
+\l He wrote the letters in 3 hours.
+
+\t Toj zatancuva       vals mnogo dobre (beginning point)
+\m Toj za-tancuva       vals mnogo dobre (beginning point)
+\g he PV-danced-AOR waltz very         well
+\l He began waltzing well OR He learned to waltz well
+
+\t xudoznikt narisuva           kartini i izleze      da gi prodade         na ulicata   
+\m xudoznikt na-risuva           kartini i izleze      da gi prodade         na ulicata   
+\g the painter PV-paint-AOR/3sg pictures and went out to them sell           on the street
+\l The painter painted some pictures and went out to sell them in the street.
+
+\t Ivan zgotvi          jadene i     go izjade dokato bese goresto
+\m Ivan z-gotvi          jadene i     go izjade dokato bese goresto
+\g Ivan PV-cook-AOR/3sg stew and it ate while was hot
+\l Ivan cooked some stew and ate it while it all was hot.
+
+\t xudoznikt narisuva            kartini za pet casa/*pet casa
+\m xudoznikt na-risuva            kartini za pet casa/*pet casa
+\g the painter PV-paint-AOR/3sg pictures in five hours/*for five hours
+\l The painter painted some pictures in five hours/*for five hours.
+
+\t xudoznikt prerisuva           kartini ?za pet casa/pet casa
+\m xudoznikt pre-risuva           kartini ?za pet casa/pet casa
+\g the painter PV-paint-AOR/3sg pictures in five hours/for five hours
+\l The painter re-painted (some) pictures ?in five hours/for five hours.
+
+\t  decata        se smjaxa         na klouna
+\m  decata        se smjaxa         na klouna
+\g the children REFL laugh-AOR/3pl at the clown
+\l The children laughed at the clown.
+
+\t klouna      razsmja           decata
+\m klouna      raz-smja           decata
+\g  the clown PV-laugh-AOR/3sg the children
+\l The clown made the children laugh.
+
+\t Ivan dade           pari na Marija i tja gi poxarci                 za den  
+\m Ivan dade           pari na Marija i tja gi po-xarci                 za den  
+\g Ivan give-AOR/3sg money to Maria and she it PV-spend-AOR/3sg         in a day
+\l Ivan gave Maria a quantity of money and she spent it in a day.
+
+\t Ivan procete           Vulsebnata planina ot Tomas Man.
+\m Ivan pro-cete           Vulsebnata planina ot Tomas Man.
+\g Ivan PV-read-AOR/3sg the magic mountain by Thomas Mann
+\l Ivan read`The Magic Mountain' by Thomas Mann.
+
+\t Ivan cete           Vulsebnata planina ot Tomas Man.
+\m Ivan cete           Vulsebnata planina ot Tomas Man.
+\g Ivan read-AOR/3sg the magic mountain by Thomas Mann
+\l Ivan read from`The Magic Mountain' by Thomas Mann.
+
+\t Ivan procitase      Vulsebnata planina vsyaka godina.
+\m Ivan pro-cita-se      Vulsebnata planina vsyaka godina.
+\g Ivan PV-read-IMP/3sg the magic mountain every year
+\l Ivan read`The Magic Mountain' completely every year.
+
+\t Ivan cetese       Vulsebnata planina kogato go vidyax.
+\m Ivan cete-se       Vulsebnata planina kogato go vidyax.
+\g Ivan read-IMP/3sg the magic mountain when him (I) saw
+\l Ivan was reading`The Magic Mountain' when I saw him.
+
+\t Ivan jade         sandvici zastoto gi xaresa mnogo
+\m Ivan jade         sandvici zastoto gi xaresa mnogo
+\g Ivan eat-AOR/3sg sandwiches because them liked a lot
+\l Ivan ate a number of sandwiches because he liked them.
+
+\t Ivan jadese       sandvici kogato go vidjax vcera
+\m Ivan jadese       sandvici kogato go vidjax vcera
+\g Ivan eat-IMP/3sg sandwiches when him I-saw yesterday
+\l Ivan was eating sandwiches when I saw him yesterday.
+
+\t  (41) stom napisese              pisma, Marina otivase     da gi pusne na
+\m  (41) stom napisese              pisma, Marina otivase     da gi pusne na
+\g when PV-write-IMP/3sg letters Marina go-IMP/3sg to them mail at postata             the post office
+\l Every time she wrote (specific a number of) letters, Marina went out to mail them at the post office.
+
+\t vojnitzi izjadoxa        krusite      na lozeto
+\m vojnitzi iz-jadoxa        krusite      na lozeto
+\g soldiers PV-eat-AOR/3pl pears-DET in the vineyard
+\l (Some subset of the) soldiers ate the pears in the vineyard.
+
+\t vojnitzi izjazdaxa     krusite    na lozeto      vsjaka godina
+\m vojnitzi iz-jazdaxa     krusite    na lozeto      vsjaka godina
+\g soldiers PV-eat-IMP/3pl pears-DET in the vineyard every year
+\l (Some subset of the) soldiers ate up the pears in the vineyard every year.
+
+\t vojnitzi pjaxa             patrioticni pesni i    vsicki      gi slusaxa
+\m vojnitzi pjaxa             patrioticni pesni i    vsicki      gi slusaxa
+\g soldiers sing-AOR/3pl patriotic songs and everyone them listened
+\l Soldiers sang patriotic songs and everyone listened to them.
+
+\t vojnitzi peexa       patrioticni pesni i vsicki     gi slusaxa
+\m vojnitzi peexa       patrioticni pesni i vsicki     gi slusaxa
+\g soldiers sing-IMP/3pl patriotic songs and everyone them listened
+\l Soldiers were singing patriotic songs and everyone listened to them.
+
+\t nie davame     podarci na decata         za nova godina
+\m nie da-va-me     podarci na decata         za nova godina
+\g we give-PRES/1pl presents to the children for new year
+\l We give presents to the children for the New Year.
+
+\t te s m         pisal
+\m te s m         pisal
+\g  FUT am/1SG write/PPL
+\l I will havewritten'.
+
+\t G b. zagubikh             si                  parite
+\m G b. zagub-ikh             si                  pari-te
+\g            lose-AOR.1.SG REFL.3.SG             money-DEF
+\l ditto
+
+\t Az im         te          preporâchvam.
+\m Az im         te          preporâchvam.
+\g     I they.Dat you.Acc recommend
+\l I am recommending you to them.
+
+\t Na Ivan         mu          (se)    xaresvat    tezi momicheta.
+\m Na Ivan         mu          (se)    xaresvat    tezi momicheta.
+\g Ivan.DAT        Dat.CL (Refl) like.3PL          these girls.NOM
+\l Ivan likes these girls.
+
+\t Na Ivan            mu            (se)   xaresvame      nie.
+\m Na Ivan            mu            (se)   xaresvame      nie.
+\g Ivan.DAT           Dat.CL        (Refl) like.1PL       we.NOM
+\l Ivan likes us.
+
+\t Na Ivan            mu            (se)   xaresvate      vie.
+\m Na Ivan            mu            (se)   xaresvate      vie.
+\g Ivan.DAT           Dat.CL        (Refl) like.2PL       you.PL.NOM
+\l Ivan likes you.
+
+\t Na Ivan            mu       se   privizhdat    tezi momicheta.
+\m Na Ivan            mu       se   privizhdat    tezi momicheta.
+\g Ivan.DAT           Dat.CL Refl imagine.3PL these girls
+\l Ivan has a vision of these girls.
+
+\t Na Ivan            mu            se     privizhdame nie.
+\m Na Ivan            mu            se     privizhdame nie.
+\g Ivan.DAT           Dat.CL        Refl   imagine.1PL we.NOM
+\l Ivan has a vision of us.
+
+\t Na Ivan            mu       se   privizhdate   vie.
+\m Na Ivan            mu       se   privizhdate   vie.
+\g Ivan.DAT           Dat.CL Refl imagine.2PL you.PL.NOM
+\l Ivan has a vision of you.
+
+\t Samijat kral dojde na sâbranieto.
+\m Samijat kral dojde na sâbranieto.
+\g self-the king came to meeting-the
+\l The king himself came to the meeting.
+
+\t Samijat kral ne dojde na sâbranieto.
+\m Samijat kral ne dojde na sâbranieto.
+\g self-the king not came to meeting-the
+\l Even the king did not come to the meeting.
+
+\t Ne    _te      _ete_.
+\m Ne    _te      _ete_.
+\g Neg will read.2Sg
+\l You will notread'.
+
+\t Da            ja           _ete_!
+\m Da            ja           _ete_!
+\g Subj.prt.3Sg.F.Acc.Cl read.2Sg
+\l You should read it!
+
+\t Ja     mi              go                     donesi!
+\m Ja     mi              go                     donesi!
+\g hey    1Sg.Dat.Cl      3Sg.Neut.Acc.Cl        bring.2Sg.Imper
+\l Hey, bring it to me!
+
+\t Donesi                     mi                go!
+\m Donesi                     mi                go!
+\g bring.2Sg.Imper            1Sg.Dat.Cl        3Sg.Neut.Acc.Cl
+\l Bring it to me!
+
+\t Konjaka       mi                    donesi!
+\m Konjaka       mi                    donesi!
+\g cognac-the    1Sg.Dat.Cl            bring.3Sg.Imper
+\l Bring me the cognac!
+
+\t Dade          mi                    go                         Vera.
+\m Dade          mi                    go                         Vera.
+\g gave.3Sg      1Sg.Dat.Cl            3Sg.Neut.Acc.Cl            Vera.
+\l Vera gave it to me.
+
+\t Daj                        mi                go!
+\m Daj                        mi                go!
+\g give.2Sg.Imper             1Sg.Dat.Cl        3Sg.Neut.Acc.Cl
+\l Give it to me!
+
+\t Mi            go                       dade            Vera    v_era.
+\m Mi            go                       dade            Vera    v_era.
+\g 1Sg.Dat.Cl     3Sg.Neut.Acc.Cl          gave.3Sg        Vera    yesterday
+\l Vera gave it to me yesterday.
+
+\t _udja         se               dali             da        ja           _eta.
+\m _udja         se               dali             da        ja           _eta.
+\g wonder.1Sg Acc.Refl.Cl whether                  Subj.prt.3Sg.F.Acc.Cl read.1Sg
+\l I wonder whether to readit'.
+
+\t _e       Pet_r e                 zaminal        ve_e.
+\m _e       Pet_r e                 zaminal        ve_e.
+\g that     Peter 3Sg.Aux           left.Part      already.
+\l Ivan   hopes that Peter has already left.
+
+\t Ivan se        nadjava         Pet_r da                  e          zaminal       ve_e.  
+\m Ivan se        nadjava         Pet_r da                  e          zaminal       ve_e.  
+\g Ivan refl      hopes           Peter Subj.prt.3Sg.Aux              left.Part      already
+\l Ivan hopes that Peter has already left.
+
+\t _udja         se               [dali              da               ja            _eta].  
+\m _udja         se               [dali              da               ja            _eta].  
+\g wonder.1Sg Acc.Refl.Cl whether                    Subj.prt.        3Sg.F.Acc.Cl read.1.sg
+\l I wonder whether to readit'.
+
+\t da                mi            ja            dade.
+\m da                mi            ja            dade.
+\g Subj.prt.1Sg.Dat.Cl    3Sg.Fl.Acc.Cl give.3Sg
+\l I want Ivan to   give me the book.
+
+\t Da            ne      ja       _etes!7
+\m Da            ne      ja       _etes!7
+\g Subj.prt.Neg 3Sg.F.Acc.Cl read.pres.2.sg.
+\l You should not read it!
+
+\t Konjaka       mi               donesi!
+\m Konjaka       mi               donesi!
+\g cognac-the    1Sg.Dat.Cl       bring.2Sg.Imper
+\l Bring me the cognac!
+
+\t Vera mi               go                      dade                    v_era.   
+\m Vera mi               go                      dade                    v_era.   
+\g Vera 1Sg.Dat.Cl       3Sg.Neut.Acc.Cl         gave.3Sg                yesterday
+\l Vera gave it to me yesterday.
+
+\t Ne     ja        _eti!
+\m Ne     ja        _eti!
+\g Neg 3Sg.F.Acc.Cl read.2Sg.Imper
+\l Don't read it!
+
+\t 13 a.       Ne  ceti!
+\m 13 a.       Ne  ceti!
+\g             Neg read-2sg.Imp
+\l Don't read!
+
+\t Ceti         ja!
+\m Ceti         ja!
+\g read-2sg.Imp it
+\l Read it!
+
+\t Ceti         ja!
+\m Ceti         ja!
+\g read-2sg.Imp it
+\l Read it!
+
+\t Ne ja  ceti!
+\m Ne ja  ceti!
+\g Neg it read-2sg.Imp
+\l Don't read it!
+
+\t Ivan nasto java ti govor
+\m Ivan nasto java ti govor
+\g  Ivan insists you speak-2sg.Imp
+\l Ivan insists that you speak.
+
+\t Ko j kak udari Ivan?
+\m Ko j kak udari Ivan?
+\g who how hit Ivan
+\l Who hit Ivan how?
+
+\t  Zabravixme         se.
+\m  Zabravix-me         se.
+\g forgot-1.pl          RR.ACC
+\l We forgot each other.
+
+\t  Bratjata            si          govorjat.
+\m  Bratja-ta            si          govorjat.
+\g brothers-ART          RR.DAT speak
+\l The brothers are talking to each other.
+
+\t Toj           izpiP              *kafe            / kafeto.
+\m Toj           izpiP              *kafe            / kafeto.
+\g  he-NOM PREF-drank-SG *coffee-ACC / coffee-DF-ACC
+\l He drank up (all) the coffee.
+
+\t Ivan kakvo pravi?
+\m Ivan kakvo pravi?
+\g Ivan what does
+\l What is Ivan doing?
+
+\t Ta                            otide
+\m Ta                            otide
+\g she                           leave.3SG.AOR
+\l She left
+
+\t Ta     e                      otisla
+\m Ta     e                      otisla
+\g she    be.3SG.PRES            leave.AOR.l-PRT
+\l She has left
+
+\t Ta                            otisla
+\m Ta                            otisla
+\g she                           leave.AOR.l-PRT
+\l She left (apparently)
+
+\t Ta     bila                   otisla
+\m Ta     bila                   otisla
+\g she    be.l-PRT               leave.AOR.l-PRT
+\l She has left (apparently)
+
+\t Ivan   napisa edno pismo
+\m Ivan   napisa edno pismo
+\g Ivan   Perf-wrote one letter
+\l Ivan   wrote one letter
+
+\t Ivan   napisvase edno pismo
+\m Ivan   napisvase edno pismo
+\g Ivan   Imp-Perf-wrote one letter
+\l Ivan   used to write one letter
+
+\t Az izpix kafeto
+\m Az izpix kafeto
+\g I Perf-drank coffee-the
+\l I drank the coffee
+
+\t Tri momiceta izjadoxa pet sandvica
+\m Tri momiceta izjadoxa pet sandvica
+\g Three girls Perf-eat-Aor.five sandwiches
+\l Three girls ate all together five sandwiches
+
+\t Tri momiceta izjadoxa po pet sandvica (vsjaka)
+\m Tri momiceta izjadoxa po pet sandvica (vsjaka)
+\g Three girls Perf-eat-Aor.times five sandwiches
+\l Three girls ate all together five sandwiches
+
+\t Stom       puknese            zorata, izkarvax              ovcite  navan.
+\m Stom       puknese            zorata, izkarvax              ovcite  navan.
+\g as-soon-as broke.3sg.perf-imp dawn.the drove.1sg.imp-imp sheep.the outside
+\l As soon as dawn broke (Perf Impf), I used to drive the sheep out.
+
+\t Pred      mnogo ikoni    oste pop Stefan vodi                djada Nedka. Te se spiraxa               pred sv. Nikolaj        pred     obrazite na     arxangelite     Gavrail i Mixail.  
+\m Pred      mnogo ikoni    oste pop Stefan vodi                djada Nedka. Te se spiraxa               pred sv. Nikolaj        pred     obrazite na     arxangelite     Gavrail i Mixail.  
+\g before    many icons     other father Stefan led.3sg.imp-aor old Nedko.They refl stopped.3pl.imp-aor before St.Nicholas       before   images.the of   archangels.the Gabriel and Michael.
+\l Father Stefan led (Ipfv. Aorist) old Nedko in front of many other icons. They stopped (Ipfv. Aorist) before St. Nicholas the miracle-worker, ..., before the images of the archangels Gabriel and Michael.
+
+\t B     c.      Pro...el sßm knigata.
+\m B     c.      Pro...el sßm knigata.
+\g               read be-1 book-the
+\l (I) have read the book
+
+\t B a.        Kakvo pro...ete Ivan?
+\m B a.        Kakvo pro...ete Ivan?
+\g              what read-3 Ivan
+\l What did Ivan read?
+
+\t B b.        ?Kakvo bese Ivan pro...el?
+\m B b.        ?Kakvo bese Ivan pro...el?
+\g               what was-3 Ivan read
+\l What had Ivan read?
+
+\t B      c.    Kakvo e pro...el Ivan?
+\m B      c.    Kakvo e pro...el Ivan?
+\g                what be-3 read Ivan
+\l What has Ivan read?
+
+\t B c.       Ivana bese naburzo pro...ela knigite.
+\m B c.       Ivana bese naburzo pro...ela knigite.
+\g            Ivana was-3 quickly read books-the
+\l Ivana had quickly read the books
+
+\t B c.       Ivana (naburzo) e pro...ela (naburzo) knigite (naburzo).
+\m B c.       Ivana (naburzo) e pro...ela (naburzo) knigite (naburzo).
+\g              Ivana quickly be-3 read               books-the
+\l Ivana has quickly read the books
+
+\t Ivana e      ve...e pro...ela knigata.
+\m Ivana e      ve...e pro...ela knigata.
+\g Ivana be-3 already read        book-the
+\l Ivana has already read the book
+
+\t Ivana bese ve...e pro...ela knigata.
+\m Ivana bese ve...e pro...ela knigata.
+\g Ivana was-3 already read         book-the
+\l Ivana had already read the book
+
+\t B           Pro...el sßm knigata.
+\m B           Pro...el sßm knigata.
+\g             read be-1 book-the
+\l (I) have read the book
+
+\t B    c.       Ivan ste doide i ste postoi malko.
+\m B    c.       Ivan ste doide i ste postoi malko.
+\g               John will come-3sg and will stay-3sg some time
+\l John will come and stay for some time
+
+\t B    d.       Ivan e dosul i e ostanal za malko.
+\m B    d.       Ivan e dosul i e ostanal za malko.
+\g               John be-3sg come and be-3sg stayed for some time
+\l John came and stayed for some time
+
+\t B c.         Seloto, voiskata ni go unisto i.
+\m B c.         Seloto, voiskata ni go unisto i.
+\g              village-the, army-the us-Dat it-Acc destroyed
+\l As for (our) village, the army destroyed it
+
+\t B d.        Poiavix        se
+\m B d.        Poiavix        se
+\g             appeared-1sg refl
+\l I appeared
+
+\t R b.         Liam v|zut pe Ioni.
+\m R b.         Li-am v|zut pe Ioni.
+\g              him have1SG seen Peter
+\l (I) have seen John
+
+\t B c.        ,,ovekuti deto goi vidjax ti.
+\m B c.        ,,ovekuti deto goi vidjax ti.
+\g             man-the that him saw-I
+\l The man that (I) saw
+
+\t B c.       Vidjax ja i ja pokanix.
+\m B c.       Vidjax ja i ja pokanix.
+\g            saw-1st her and her invited-1sg
+\l I saw and invited her
+
+\t B a.        Dali Ivan e otisßl?
+\m B a.        Dali Ivan e otisßl?
+\g             wether Ivan be-3 left
+\l Has Ivan left?
+
+\t B b.       Otisßl li e Ivan?
+\m B b.       Otisßl li e Ivan?
+\g            left Q be-3 Ivan
+\l Has Ivan left?
+
+\t B a.         Dal sßm mu go.
+\m B a.         Dal sßm mu go.
+\g              given be-1sg him-Dat it-Acc
+\l (I) have it given it to him
+
+\t B a.        Pokazax mu go.
+\m B a.        Pokazax mu go.
+\g             showed1SG to=him it
+\l (I) showed it to him
+
+\t B a.        Ivan ja obi...a.
+\m B a.        Ivan ja obi...a.
+\g             I her love3SG
+\l John loves her
+
+\t B b.      Az, tvojate maika, sum ti       obestala igra...ki.
+\m B b.      Az, tvojate maika, sum ti       obestala igra...ki.
+\g           I your mother am to=you promised toys
+\l I, your mother'promised you toys
+
+\t b. Koj senator ___ otrece                        malva*ta ce iska da zabraniVojna i Mir       
+\m b. Koj senator ___ otrece                        malva*ta ce iska da zabraniVojna i Mir       
+\g    which senator         denied                  the-rumor that wanted to ban    war and peace
+\l Which senator denied the rumor that he wanted to ban War and Peace?
+
+\t c. Koj senator koja kniga ___ otrece                      malva*ta ce iska da zabrani ___
+\m c. Koj senator koja kniga ___ otrece                      malva*ta ce iska da zabrani ___
+\g    which senator which book denied                       the-rumor that wanted to ban    
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t Ej       ksokrakija!
+\m Ej       ksokrakija!
+\g Interj short-legged+the.M.Sg
+\l You, the short-legged one!
+
+\t        djadja           Moska.
+\m        djadja           Moska.
+\g        uncle.Acc        Mosko.Acc
+\l ... in order to leave a letter to uncle Mosko.
+
+\t dedoto.
+\m dedoto.
+\g grandpa+the.N.Sg
+\l I gave the book to Jana/Stojan/the grandpa.
+
+\t Stojan/dedoto.
+\m Stojan/dedoto.
+\g Stojan/grandpa+the.N.Sg
+\l We lost Jana's/Stojan's/grandpa's book.
+
+\t EDNO PISMO.
+\m EDNO PISMO.
+\g (a letter)
+\l Jana is reading the letter/a letter.
+
+\t (%edno pismo).
+\m (%edno pismo).
+\g [a letter]
+\l It is Jana that is reading the letter/a letter.
+
+\t ti.
+\m ti.
+\g 2Sg.Dat.Cl
+\l Your daughter has come to visit him.
+
+\t mi               gleda           decata.
+\m mi               gleda           decata.
+\g 1Sg.Dat.Cl       looks after     children+the.Pl
+\l I am looking   for a woman to   look after my children.
+
+\t ce     si               otivam.
+\m ce     si               otivam.
+\g That Impers.Dat.Cl      leave.1Sg
+\l I came to inform you   that I am leaving.
+
+\t da               se                     razxozdame.
+\m da               se                     razxozdame.
+\g Subj.Mark         Impers.Acc.Cl         walk.1Pl.Imperf.Pres
+\l If it didn't rain, we would have still be walking.
+
+\t dvama sina.
+\m dvama sina.
+\g two    sons
+\l There was a king and he had two sons.
+
+\t koga kude jade Ana
+\m koga kude jade Ana
+\g when where eat        Ana
+\l When did Ana eat where?
+
+\t koj kogo vizda ?
+\m koj kogo vizda ?
+\g who whom sees
+\l Who sees whom?
+
+\t Koj kogo vizda
+\m Koj kogo vizda
+\g Who whom sees
+\l Who saw whom?
+
+\t Koj kogo vizda
+\m Koj kogo vizda
+\g Who whom sees
+\l Who saw whom?
+
+\t Koj znae    kakvo kade e kupila Mariya
+\m Koj znae    kakvo kade e kupila Mariya
+\g Who knows what where bought Maria
+\l Who knows where Mary bought what?
+
+\t Vidjax i               interesnata  statija.
+\m Vidja-x i               interesna-ta  statija.
+\g saw-1SG 3FSG.DAT interesting-DEF article
+\l Ich sah ihren interessanten Artikel
+
+\t Sled tri godini ti si           mu      gi     pokazvala.
+\m Sled tri godini ti si           mu      gi     pokazvala.
+\g after three years you aux.2sg him.dat them.acc shown
+\l After three years, you have shown him them.
+
+\t Ucitelkata vece       mu        gi      e     pokazvala.
+\m Ucitelkata vece       mu        gi      e     pokazvala.
+\g teacher.def already him.dat them.acc aux.3g shown
+\l The teacher has already shown them to him.
+
+\t Pokazvala si         mu      gi.
+\m Pokazvala si         mu      gi.
+\g shown      aux.2sg him.dat them.acc
+\l You have shown them to him.
+
+\t Pokazvala    mu       gi      e.
+\m Pokazvala    mu       gi      e.
+\g shown        him.dat them.acc aux.2sg
+\l She has shown them to him.
+
+\t I      si       mu      gi        pokazvala.
+\m I      si       mu      gi        pokazvala.
+\g and    aux.2sg him.dat them.acc shown
+\l And   you have shown them to him.
+
+\t Ste    mu      gi         pokazvas.
+\m Ste    mu      gi         pokazvas.
+\g will   him.dat them.acc shown
+\l You   will show them to him.
+
+\t Petko, edin moj prijatel, mi              go         dade.
+\m Petko, edin moj prijatel, mi              go         dade.
+\g Peter a         my      friend     me.dat him.acc gave
+\l Petko, a friend of mine, gave it to me.
+
+\t Ako njakoj,         kojto e s          men, mi       dade njakolko cipa ...
+\m Ako njakoj,         kojto e s          men, mi       dade njakolko cipa ...
+\g if      someone who is with me                me.dat gives several    chips
+\l If someone, who is with me, gives me some chips ...
+
+\t Ivan, s pored       M arija,    go        vizdam     vseki den.
+\m Ivan, s pored       M arija,    go        vizdam     vseki den.
+\g Ivan according Maria            him.acc see.1sg every day
+\l (Talking about) Ivan, according to Maria, I see him every da y.
+
+\t Sled kato si             zivjal dosta s      edna zena, ja         poznavas dobre.
+\m Sled kato si             zivjal dosta s      edna zena, ja         poznavas dobre.
+\g after as        aux.2sg lived enough with a         woman her.acc know.2sg well
+\l After you have lived with a woman enough, you know her well.
+
+\t Dade li Ana knigata na Petko?
+\m Dade li Ana knigata na Petko?
+\g gave Q Ana book.def to Petko
+\l Did Ana give the book to Petko?
+
+\t Dade li mu       go     Ana?
+\m Dade li mu       go     Ana?
+\g gave Q him.dat it.acc Ana
+\l Did Ana give it to him?
+
+\t Ne mu        li     go     dade Ana?
+\m Ne mu        li     go     dade Ana?
+\g neg him.dat Q       it.acc gave Ana
+\l Didn't Ana give it to him?
+
+\t Dala li si      mu       go?
+\m Dala li si      mu       go?
+\g given Q aux.2g him.dat it.acc
+\l Have you given it to him?
+
+\t Ne si        li m u      go   dala?
+\m Ne si        li m u      go   dala?
+\g neg aux.2sg Q him.dat it.acc given
+\l Haven't you given it to him?
+
+\t Zelenu haljinu mi      je      kupila.
+\m Zelenu haljinu mi      je      kupila.
+\g green dress     me.dat aux.sg bought
+\l She bought me a green dress.
+
+\t Anina mu       drugarica nudi cokoladu.
+\m Anina mu       drugarica nudi cokoladu.
+\g Ana's him.dat girlfriend offers chocolate
+\l Ana's girlfriend offers him chocolate.
+
+\t Zanimljivu sam        knjigu citao.
+\m Zanimljivu sam        knjigu citao.
+\g interesting aux.1sg book read
+\l I read an interesting book.
+
+\t Anina dolazi sestra.
+\m Anina dolazi sestra.
+\g Ana's arriving sister
+\l Ana's sister is coming.
+
+\t Kakvu      citas      knjigu?
+\m Kakvu      citas      knjigu?
+\g what-kind read.2sg book
+\l What kind of book are you reading?
+
+\t Prema Mariji        je      Mi    lena trcala.
+\m Prema Mariji        je      Mi    lena trcala.
+\g towards Maria.dat aux.3sg Mi      lena ran
+\l Milena ran towards Maria.
+
+\t Prema trci ona Mariji.
+\m Prema trci ona Mariji.
+\g towards runs she Maria.dat
+\l She is running towards Maria.
+
+\t Kome je          Milena trcala   prema?
+\m Kome je          Milena trcala   prema?
+\g who.dat aux.3sg Milena ran        towards
+\l Who did Milena run towards?
+
+\t PREMA je       Milanu     Marija koracala, a   ne od njega.
+\m PREMA je       Milanu     Marija koracala, a   ne od njega.
+\g towards aux.3sg Milanu.dat Maria walked and not from him
+\l Mary walked TOWARDS Milan, not away from him.
+
+\t Roditelji su         se uspesnih           studenata   razisli.
+\m Roditelji su         se uspesnih           studenata   razisli.
+\g parents    aux.3pl refl successful.gen students.gen dispersed
+\l *The parents dispersed of the successful students.
+
+\t Roditelji dolaze       uspesnih        studenata.
+\m Roditelji dolaze       uspesnih        studenata.
+\g parents    arrive.3pl successful.gen students.gen
+\l *The parents are arriving of the successful students.
+
+\t Dala li si          mu     go?
+\m Dala li si          mu     go?
+\g given Q aux.2g him.dat it.acc
+\l Have you given it to him?
+
+\t Ku pujes l i novu kuu?
+\m Ku pujes l i novu kuu?
+\g buy.2sg Q new house
+\l Are you bu ying a new house?
+
+\t Sestra       e     i    njen       muz           doi u utorak.
+\m Sestra       e     i    njen       muz           doi u utorak.
+\g sestra.nom fut.3sg and her.nom husband.nom come on Tuesday
+\l My sister and her husband will come on Tuesday.
+
+\t Lav        je      Tolstoj       veliki ruski pisac.
+\m Lav        je      Tolstoj       veliki ruski pisac.
+\g Leo.nom aux.3sg Tolstoi.nom great Russian writer
+\l Leo Tolstoi is a great Russian writer.
+
+\t Prijatelji su      moje sestre         upravo stigli.
+\m Prijatelji su      moje sestre         upravo stigli.
+\g friends      aux.3pl my.gen sister.gen just     arrived
+\l Friends of my sister's have just arrived.
+
+\t Sestra     e      mi      ga     i    njen     muz           pokloniti.
+\m Sestra     e      mi      ga     i    njen     muz           pokloniti.
+\g sestra.nom fut.3sg me.dat it.acc and her.nom husband.nom give
+\l My sister and her husband will give it to me.
+
+\t Lav      mi     ga     je       Tolstoj      poklonio.
+\m Lav      mi     ga     je       Tolstoj      poklonio.
+\g Leo.nom me.dat it.acc aux.3sg Tolstoi.nom gave
+\l Leo Tolstoi gave it to me.
+
+\t Prijatelji su       mi      ga moje        sestre    poklonili.
+\m Prijatelji su       mi      ga moje        sestre    poklonili.
+\g friends     aux.3pl me.dat it.acc my.gen sister.gen gave
+\l Friends of my sister's gave it to me.
+
+\t Kakvo obuslavja [ lipsata         na vkus obuslavja kakvo ]?
+\m Kakvo obuslavja [ lipsata         na vkus obuslavja kakvo ]?
+\g what conditions absence.def of taste conditions what
+\l What does the absence of taste condition?
+
+\t Tvome prijatelju#      #su        prodali su  knjigu.#
+\m Tvome prijatelju#      #su        prodali su  knjigu.#
+\g your.dat frend.dat      aux.3pl gave aux.3pl book.acc
+\l To your friend, they   sold the book.
+
+\t Ja#, #tvoja mama#, #sam       ti     obeala sam                  ti      igracku#.
+\m Ja#, #tvoja mama#, #sam       ti     obeala sam                  ti      igracku#.
+\g I     your    mother aux.1sg you.dat promised aux.1sg             you.dat toy
+\l I, your mother, promised you a toy.
+
+\t Toj       go             e          vidjal.
+\m Toj       go             e          vidjal.
+\g he.nom him/it.acc        aux.3sg    seen
+\l He has seen him/it    .
+
+\t E        l i dosl?
+\m E        l i dosl?
+\g aux.3sg Q arrived
+\l Has he come?
+
+\t Ne     sme      im       go        vse oste   pokazali.
+\m Ne     sme      im       go        vse oste   pokazali.
+\g neg    aux.1pl them.dat it.acc still          shown
+\l We   still have not shown it to them.
+
+\t Nie    sme      im       go        vece       kazali.
+\m Nie    sme      im       go        vece       kazali.
+\g we     aux.1pl them.dat it.acc already        said
+\l We   have already said it to them.
+
+\t Pokazvala li mu       gi        e.
+\m Pokazvala li mu       gi        e.
+\g shown      Q him.dat them.acc aux.3sg
+\l Did she show them to him?
+
+\t Ne si         li m u      gi        pokazvala?
+\m Ne si         li m u      gi        pokazvala?
+\g neg aux.2sg Q him.dat them.acc shown
+\l Didn't you show them to him?
+
+\t Ne mu         li gi       e        pokazvala?
+\m Ne mu         li gi       e        pokazvala?
+\g neg him.dat Q them.acc aux.3sg shown
+\l Didn't she show them to him?
+
+\t Bese      li kupila kâsta?
+\m Bese      li kupila kâsta?
+\g had.2/3sg Q bought house
+\l Had you/she bought a house ?
+
+\t Bese li Marija       kupila kâsta?
+\m Bese li Marija       kupila kâsta?
+\g had.3sg Q Maria       bought house
+\l Had Maria bought a   house?
+
+\t Bese     napâlno      zabravila za      srestata.
+\m Bese     napâlno      zabravila za      srestata.
+\g had.3sg completely    forgotten about meeting.def
+\l She had completely   forgotten about the meeting.
+
+\t Kupila li bese     kâsta?
+\m Kupila li bese     kâsta?
+\g bought Q had.3sg house
+\l Had she BOUGHT a house?
+
+\t Gledali bjaxa (samo) filma.
+\m Gledali bjaxa (samo) filma.
+\g saw     had.3pl only film.def
+\l They had seen (only) the FILM.
+
+\t [F Na Marija ] li dadoxte nagradata?
+\m [F Na Marija ] li dadoxte nagradata?
+\g    to Marija Q gave.2pl prize.def
+\l Was it to Maria that you gave the prize?
+
+\t [F Gledali ] li bjaxa (*samo) filma.
+\m [F Gledali ] li bjaxa (*samo) filma.
+\g    saw       Q had.3pl only     film.def
+\l Had they SEEN (*only) the film?
+
+\t Ivan li, toj ti        kaza?
+\m Ivan li, toj ti        kaza?
+\g Ivan Q he you.dat told
+\l *Talking about and was it Ivan who told you?
+
+\t Njakoj li dojde na srestata?
+\m Njakoj li dojde na srestata?
+\g somone Q came to meeting.def
+\l *Was it someone who came to the meeting?
+
+\t Ivan, toj li ti        kaza?
+\m Ivan, toj li ti        kaza?
+\g Ivan he Q you.dat told
+\l Talking about Ivan, was it him who told you?
+
+\t Decata        kakvo gledaxa?
+\m Decata        kakvo gledaxa?
+\g children.def what watched.3pl
+\l As for the children, what were they watching?
+
+\t Decata        gledaxa       li tozi film?
+\m Decata        gledaxa       li tozi film?
+\g children.def watched.3pl Q that film
+\l As for the children, were they watching that movie?
+
+\t Tozi film decata          go     gledaxa.
+\m Tozi film decata          go     gledaxa.
+\g this film children.def it.acc watched.3pl
+\l As for this film, the children were watching it.
+
+\t Filma gledali         go      bjaxa decata.
+\m Filma gledali         go      bjaxa decata.
+\g film watched.3pl it.acc had.3pl children.def
+\l As for the movie, the children had seen it.
+
+\t Na Ivan, knigata kupila mu            ja bese     Marija.
+\m Na Ivan, knigata kupila mu            ja bese     Marija.
+\g for Ivan book.def bought him.dat it.acc had.3sg Maria
+\l As for Ivan and as for the book, it was MARIA who had bought it for him.
+
+\t Na Ivan, spored mene, mu               go dadox.
+\m Na Ivan, spored mene, mu               go dadox.
+\g for Ivan according me        him.dat it.acc gave.1sg
+\l To Ivan, according to me, I gave it.
+
+\t A z sâm       bila napâlno       zabravila za    nego.
+\m A z sâm       bila napâlno       zabravila za    nego.
+\g  I aux.1sg have completely forgotten about him
+\l They say) I have completely forgotten about him.
+
+\t Vjarvam,      si      go       pital    vece.
+\m Vjarvam,      si      go       pital    vece.
+\g believe.1sg aux.2sg him.acc asked       already
+\l I think you asked him already.
+
+\t Ivan, spored     Marija, vidja         li go       vcera        vâv centara?
+\m Ivan, spored     Marija, vidja         li go       vcera        vâv centara?
+\g Ivan according Maria saw.3sg           Q him.acc yesterday in center.def
+\l Ivan, according to Maria, did she    see yesterday in the city center?
+
+\t Vie gledali li ste        go        tozi film?
+\m Vie gledali li ste        go        tozi film?
+\g you saw Q aux.2pl it.acc this film
+\l (As for) you, have you seen this film?
+
+\t Vie ste      go       gledali li    tozi film?
+\m Vie ste      go       gledali li    tozi film?
+\g you aux.2pl it.acc saw         Q    this film
+\l Have you seen it, this film?
+
+\t Tozi film vie ste          go       gledali li?
+\m Tozi film vie ste          go       gledali li?
+\g this film you aux.2pl it.acc saw Q
+\l (As for this film), have you seen it?
+
+\t Knigata li na IvanVazov si          cel (ili raskaza)?
+\m Knigata li na IvanVazov si          cel (ili raskaza)?
+\g book.def Q of Ivan Vazov aux.2sg read or story.def
+\l Was it the book you read by Ivan Vazov (or the story)?
+
+\t Novata li kniga na Ivan vidja?
+\m Novata li kniga na Ivan vidja?
+\g new.def Q book of Ivan saw.2/3sg
+\l Was it the new book by Ivan that you saw?
+
+\t Momiceto li ot          Sofia se razbolja (ili momceto)?
+\m Momiceto li ot          Sofia se razbolja (ili momceto)?
+\g girl.def     Q from Sofia refl get-sick or boy.def
+\l Did the girl from Sofia get sick (or the boy)?
+
+\t Prebrojavaneto li na zajcite            se pravi naesen (ili ciftosvaneto)?
+\m Prebrojavaneto li na zajcite            se pravi naesen (ili ciftosvaneto)?
+\g counting.def      Q of rabbits.def refl make in-fall or mating
+\l Is it the counting of rabbits that takes place in the fall (or the mating)?
+
+\t Zoreto    li Petr   ov vidja     ( il   i Koleto)?
+\m Zoreto    li Petr   ov vidja     ( il   i Koleto)?
+\g Zhore     Q Petr    ov saw.2/3sg or       Kole
+\l Was it    ZHORE    Petrov you saw       (or Kole)?
+
+\t Vladi    li Petr   ov vidja     ( il   i Ivo)?
+\m Vladi    li Petr   ov vidja     ( il   i Ivo)?
+\g Vladi     Q Petr    ov saw.2/3sg or       Ivo
+\l Was it    VLADI    Petrov you saw      (or Ivo)?
+
+\t Protiv li si       ili za?
+\m Protiv li si       ili za?
+\g against Q aux.2sg or for
+\l Are you AGAINST or for?
+
+\t Edna li kniga iskas      (ili dve)?
+\m Edna li kniga iskas      (ili dve)?
+\g one Q book want.2sg or two
+\l Do you want ONE book (or two)?
+
+\t Edna li druga kniga iskas?
+\m Edna li druga kniga iskas?
+\g one    Q other book want.2sg
+\l *Do you want AN other book?
+
+\t Starija li prijatel pokani (ili mladija)?
+\m Starija li prijatel pokani (ili mladija)?
+\g old.def Q friend invited or young.def
+\l Did you invite your OLD friend (or the young one)?
+
+\t Xljaba li i      sireneto    izjade?
+\m Xljaba li i      sireneto    izjade?
+\g bread.def Q and cheese.def ate
+\l Was it the BREAD and the cheese that you ate?
+
+\t Xljab li i      sirene jade?
+\m Xljab li i      sirene jade?
+\g bread     Q and cheese ate
+\l Were you eating BREAD and cheese?
+
+\t Xljaba li i     sireneto      izjade (ili   salatata i       sireneto)?
+\m Xljaba li i     sireneto      izjade (ili   salatata i       sireneto)?
+\g bread.def Q and cheese.def ate         or     salad.def and cheese.def
+\l Was it the BREAD and the cheese that you     ate (or the salad and the cheese)?
+
+\t Razen li xljab i         sirene jade?
+\m Razen li xljab i         sirene jade?
+\g rye       Q bread and cheese ate
+\l Was it RYE bread and cheese that you wer     e eating?
+
+\t V tozi     li grad      si       xodil?
+\m V tozi     li grad      si       xodil?
+\g in this    Q city       aux.2sg went
+\l Have     you been     to that city?
+
+\t Novata kâsta li?
+\m Novata kâsta li?
+\g new.def house Q
+\l Is it a new house?
+
+\t Kakvoi izjade [ ei i    sireneto ]?
+\m Kakvoi izjade [ ei i    sireneto ]?
+\g what     ate        and cheese.def
+\l *What did you eat and the cheese?
+
+\t Sireneto li ste jades s xljab?
+\m Sireneto li ste jades s xljab?
+\g cheese.def Q will eat.2sg with bread
+\l Is the cheese that you are going to eat with bread?
+
+\t Koja li kniga ste mi           podaris?!
+\m Koja li kniga ste mi           podaris?!
+\g which Q book will me.dat give.2sg
+\l Which(ever) book will you give me?!
+
+\t Koj li kakvo kupuva?
+\m Koj li kakvo kupuva?
+\g who Q what buys.3sg
+\l Who on earth bu y s what?
+
+\t Xljabât    sâs sireneto bjaxa/*bese na masata.
+\m Xljabât    sâs sireneto bjaxa/*bese na masata.
+\g bread.def with cheese.def were/was on table
+\l The bread and (with) the cheese were on the table.
+
+\t Koj kakvo l i mi        e        ku pil?
+\m Koj kakvo l i mi        e        ku pil?
+\g who what Q me.dat aux.3sg bought
+\l (I wonder) who has bought me what?
+
+\t Koga kâde li ste se srestnem?34
+\m Koga kâde li ste se srestnem?34
+\g when where Q will refl meet.1pl
+\l (I wonder) when and where we will meet?
+
+\t Koga li kâde li pak ste se         srestnem?
+\m Koga li kâde li pak ste se         srestnem?
+\g when Q where Q again will refl meet.1pl
+\l Whenever (and) wherever will we meet again?
+
+\t Mnogo truden li ispit si       vzel?
+\m Mnogo truden li ispit si       vzel?
+\g very    hard    Q exam aux.2sg took
+\l Did you take a VERY HARD exam?
+
+\t Sâvsem         nova li roklja nosese?
+\m Sâvsem         nova li roklja nosese?
+\g   completely new Q dress wore.2/3sg
+\l Was it a COMPLETELY NEW dress that she/he/you wore?
+
+\t Tolkova mnogo li xora imase?
+\m Tolkova mnogo li xora imase?
+\g  so         many     Q people had.3sg
+\l Were there SO MANY people?
+
+\t Iskljucitelno skâpa    li kola prodade?
+\m Iskljucitelno skâpa    li kola prodade?
+\g exceptionally expensive Q car sold.2/3sg
+\l Was it an EXTREMELY EXPENSIVE car that he/she/you sold?
+
+\t Sâvsem li nova roklja nosese?
+\m Sâvsem li nova roklja nosese?
+\g completely Q new dress wore.2/3sg
+\l Was it a COMPLETELY new dress that she/he/you wore?
+
+\t Tolkova li mnogo xora       imase?
+\m Tolkova li mnogo xora       imase?
+\g so        Q many people had.3sg
+\l Were there SO many peo ple?
+
+\t M nogo l i truden is pi t s i   vzel (ili malko)?
+\m M nogo l i truden is pi t s i   vzel (ili malko)?
+\g very    Q hard exam aux.2sg took or little
+\l Was the exam that you took VERY hard (or only a little)?
+
+\t Mnogo li bese truden ispitât?
+\m Mnogo li bese truden ispitât?
+\g very Q was difficult exam.def
+\l Was the test VERY hard?
+
+\t Iskljucitelno l i skâ pa  kola p rodade?
+\m Iskljucitelno l i skâ pa  kola p rodade?
+\g exceptionally Q expensive car sold.2/3sg
+\l Was it an EXTREMELY expensive car that he/she/y ou sold?
+
+\t Mnogo li sa        mokri râkavite m u?
+\m Mnogo li sa        mokri râkavite m u?
+\g very   Q were wet sleeves.def him.dat
+\l Were his sleeves VERY wet?
+
+\t Izvânredno vaznija             li ispit vze?
+\m Izvânredno vaznija             li ispit vze?
+\g exceptionally important.def Q exam took.2/3sg
+\l Was it the exceptionally difficult exam that she/he/you took?
+
+\t Koj cunkim              kakvo mi       e      dal?
+\m Koj cunkim              kakvo mi       e      dal?
+\g who for­God's­sake what me.dat aux.3sg gave
+\l Who, for God's sake, has given me what for free?
+
+\t Koj pâk      kakvo ti           dava na tebe?
+\m Koj pâk      kakvo ti           dava na tebe?
+\g who EMPH what you.dat gives to you
+\l Who gives you (of all people) what?
+
+\t Koj, spored      tebe, kakvo pie?
+\m Koj, spored      tebe, kakvo pie?
+\g who according you what drinks
+\l Who, according to you, is drinking what?
+
+\t Koj, sâs sigurnost, kakvo koga ste donese?
+\m Koj, sâs sigurnost, kakvo koga ste donese?
+\g who with certainty what when will brings
+\l Who, for sure, will bring what when?
+
+\t Koj prâv kogo e            udaril?
+\m Koj prâv kogo e            udaril?
+\g who first whom aux.3sg hit
+\l Who hit whom first?
+
+\t Koj li       prâv kogo e              udaril?
+\m Koj li       prâv kogo e              udaril?
+\g who Q        first whom aux.3sg hit
+\l Who on      earth hit who first?
+
+\t Koj, navjarno, kâde ste porâca tortata?
+\m Koj, navjarno, kâde ste porâca tortata?
+\g who probably where will order cake.def
+\l Who will perhaps have the cake made where?
+
+\t Koj kakvo li koga ste ni            servira?
+\m Koj kakvo li koga ste ni            servira?
+\g who what Q when will us.dat serve
+\l Who will surprise us with what when, I wonder?
+
+\t Protiv vsickite prijateli li si           govoril?
+\m Protiv vsickite prijateli li si           govoril?
+\g against all.def friends Q aux.2sg spoke
+\l Did you speak AGAINST ALL YOUR FRIENDS?
+
+\t Protiv li si       ili za?
+\m Protiv li si       ili za?
+\g against Q aux.2sg or for
+\l Are you AGAINST or for?
+
+\t Novata li kola prodade?
+\m Novata li kola prodade?
+\g new.def Q car sold.2/3sg
+\l Did she/he/you sell the new car?
+
+\t Az novata         kola si    mislja    ce prodade.
+\m Az novata         kola si    mislja    ce prodade.
+\g I    new.def car refl think.1sg that sold.2/3sg
+\l As for me, I think that it was the new car that he/she/you sold.
+
+\t Novata li kola mislis         ce     prodade?
+\m Novata li kola mislis         ce     prodade?
+\g new.def Q car think.1sg that sold.2/3sg
+\l Was it the NEW car that you think that she/he/you sold?
+
+\t Novata li mislis       ce prodade        kola?
+\m Novata li mislis       ce prodade        kola?
+\g new.def Q think.2sg that sold.2/3sg car
+\l Was it the NEW car that you think he/she/you sold?
+
+\t Novata li prodade Petko kola?
+\m Novata li prodade Petko kola?
+\g new.the Q sold.3sg Petko car
+\l Was it the NEW car that Petko sold?
+
+\t Ivan vec &e     moz &es&e    da   c&ete       i      da     pluva.
+\m Ivan vec &e     moz &-es&e    da   c&et-e       i      da     pluva.
+\g Ivan   already can-PAST.3 SG SBJV read-3 SG and SBJV swim(3 SG )
+\l Ivan could already read and swim.
+
+\t Ivan vec &e        moz &es&e     da    c&ete     i    pis&e.
+\m Ivan vec &e        moz &-es&e     da    c&et-e     i    pis&-e.
+\g  Ivan     already can-PAST.3 SG SBJV read-3 SG and write-3 SG
+\l Ivan could already read and write.
+
+\t Ti       si        mu                     gi            dal.
+\m Ti       si        mu                     gi            dal.
+\g you      aux.2SG him.DAT     them.ACC   gave
+\l You gave him them.
+
+\t Vcera      si        mu              gi          pokazvala.
+\m Vcera      si        mu              gi          pokazvala.
+\g yesterday aux.2SG him.DAT            them.ACC    shown.FEM
+\l You have shown him them yest        erday.
+
+\t Pokazvala si         mu              gi.
+\m Pokazvala si         mu              gi.
+\g shown.FEM aux.2SG him.DAT            them.ACC
+\l You have shown him them.
+
+\t Pokazvala mu         gi               e.
+\m Pokazvala mu         gi               e.
+\g shown.FEM him.DAT them.ACC           aux.3SG
+\l She has shown him them.
+
+\t Kakvo    bese        Ivan procel?
+\m Kakvo    bese        Ivan procel?
+\g what     had.3SG Ivan read.MASC
+\l What    had Ivan read?
+
+\t Bese      mu          ja  procela.
+\m Bese      mu          ja  procela.
+\g had.3SG him.DAT it.ACC read.FEM
+\l She had read it to him.
+
+\t Bese        opredeleno       procela  knigata.
+\m Bese        opredeleno       procela  knigata.
+\g had.3SG     definitely       read.FEM book.DEF
+\l She had   definitely read the book.
+
+\t Bese      li Marija kupila         kâsta?
+\m Bese      li Marija kupila         kâsta?
+\g had.3SG Q Maria bought.FEM house
+\l Had Maria bought a house?
+
+\t Kupila       li (*Marija) bese         (Marija)           kâsta?
+\m Kupila       li (*Marija) bese         (Marija)           kâsta?
+\g bought.FEM Q Maria          had.3SG Maria                 house
+\l Had Maria BOUGHT a house?
+
+\t Pokazvala      li si        mu              gi?
+\m Pokazvala      li si        mu              gi?
+\g showed.FEM Q aux.2SG him.DAT                them.ACC
+\l Have you shown them to him?
+
+\t Pokazvala      li mu        gi              e?
+\m Pokazvala      li mu        gi              e?
+\g showed.FEM Q him.DAT them.ACC              aux.3SG
+\l Has she shown them to him?
+
+\t Ne     mu         li gi         e               pokazvala?
+\m Ne     mu         li gi         e               pokazvala?
+\g NEG him.DAT Q them.ACC aux.3S             G    showed.FEM
+\l Hasn't she shown them to him?
+
+\t Az sâm           vece        ti           ja          dala?!
+\m Az sâm           vece        ti           ja          dala?!
+\g I      aux.1SG already        you.DAT   it.ACC   given.F EM
+\l I have already given it to you?!
+
+\t Novata     kola li         prodade?
+\m Novata     kola li         prodade?
+\g new.DEF car       Foc sold.2/3SG
+\l Was it the new car that she/he/you sold?
+
+\t Sâvsem         nova li        roklja nosese?
+\m Sâvsem         nova li        roklja nosese?
+\g completely     new Foc dress wore.2/3SG
+\l Was it a completely new dress that she/he/you were wearing?
+
+\t Koj    kakvo li       kupuva?
+\m Koj    kakvo li       kupuva?
+\g who what Foc buys.3SG
+\l (I wonder) who is buying what?
+
+\t Tja (vece)       ti          (*vece) ja          (*vece) e               (vece)        dala         (vece).
+\m Tja (vece)       ti          (*vece) ja          (*vece) e               (vece)        dala         (vece).
+\g she already      you.DAT already it.ACC    already aux.3   SG      already             given.FEM already   
+\l She has already given it to you.
+
+\t Tova, koeto pravi nestata interesni,         e,      ce        toj ...
+\m Tova, koeto pravi nestata interesni,         e,      ce        toj ...
+\g that   which makes things interest ing       is      that      he
+\l That which makes things interesting is that he ...
+
+\t Petko, edin moj prijatel, mi                  go        dade.
+\m Petko, edin moj prijatel, mi                  go        dade.
+\g Peter a         my      friend     me.DAT him.ACC gave
+\l Petko, a friend of mine, gave it to me.
+
+\t Ako njakoj,         kojto e s         men, mi           dade njakolko          cipa ...
+\m Ako njakoj,         kojto e s         men, mi           dade njakolko          cipa ...
+\g if      someone who is with me                me.DAT gives several             chips
+\l If someone, who is with me, gives me some chips ...
+
+\t Ivan, spored        Marija,    go         vizdam    vseki den.
+\m Ivan, spored        Marija,    go         vizdam    vseki den.
+\g Ivan according Maria           him.ACC see.1SG every day
+\l (Talking about) Ivan, according to Maria, I see him every day.
+
+\t Sled kato si          zivjal dosta s      edna zena, ja         poznavas      mnogo dobre.
+\m Sled kato si          zivjal dosta s      edna zena, ja         poznavas      mnogo dobre.
+\g after as aux.2SG lived enough with a            woman her.ACC know.2SG        very well
+\l After you have lived with a woman enough, you know her very well.
+
+\t ... i       pokazvala     li si                        mu           gi?
+\m ... i       pokazvala     li si                        mu           gi?
+\g      and    showed.FEM Q aux.2SG                       him.DAT   them.ACC
+\l ... and have you shown them to him?
+
+\t Bese      mu          ja  procela.
+\m Bese      mu          ja  procela.
+\g had.3SG him.DAT it.ACC read.FEM
+\l She had read it to him.
+
+\t Tja    mu                  ja     bese         procela.
+\m Tja    mu                  ja     bese         procela.
+\g she    him.DAT             it.ACC had.3S   G   read.FEM
+\l She had read it to        him.
+
+\t Te sa,          kakto ti          kazax,   gi            predstavili na Petâr.
+\m Te sa,          kakto ti          kazax,   gi            predstavili na Petâr.
+\g they aux.3PL as           you.DAT said.1SG them.ACC   introduced to Peter
+\l They, as I told you, introduced them to Peter.
+
+\t Tja    mu             ja     vece    bese      procela.
+\m Tja    mu             ja     vece    bese      procela.
+\g she    him.DAT        it.ACC already had.3SG   read.FEM
+\l She had read it to   him already.
+
+\t Procela bese       mu        ja,      (a         ne razkazala).
+\m Procela bese       mu        ja,      (a         ne razkazala).
+\g read.FEM had.3SG him.DAT it.ACC and               not told
+\l She had READ it to him (and not told).
+
+\t Procela (*vece)     mu       ja    bese.
+\m Procela (*vece)     mu       ja    bese.
+\g read.FEM already    him.DAT it.ACC had.3        SG
+\l She had already READ the book.
+
+\t Az     bix         (*opredeleno)       mu           ja          (opredeleno) procela.
+\m Az     bix         (*opredeleno)       mu           ja          (opredeleno) procela.
+\g I      cond.1SG definitely             him.DAT   it.ACC   definitely   read.FEM
+\l I would definitely have read it to him.
+
+\t Az     bix        mu           ja             procela.
+\m Az     bix        mu           ja             procela.
+\g I      cond.1SG him.DAT it.ACC   read.FEM
+\l I would have read it to him.
+
+\t Ste        mu           ja    bâda procela.
+\m Ste        mu           ja    bâda procela.
+\g will       him.DAT it.ACC fut.1SG read.FEM
+\l I will have read it to him.
+
+\t Tja          mu         bila          kazala      vsicko.
+\m Tja          mu         bila          kazala      vsicko.
+\g she          him.DAT ren.FEM          told.FEM all
+\l (They       say although I suspect   its veracity, that) she had told him everything.
+
+\t Koj        kogo    viÏda?
+\m Koj        kogo    viÏda?
+\g who        whom sees
+\l Who       sees whom?
+
+\t Koj ti     e   kakvo kazal?
+\m Koj ti     e   kakvo kazal?
+\g who you is what          told
+\l Who told you what?
+
+\t Zavisi ot tova, koj           prâv kogo   e                udaril.
+\m Zavisi ot tova, koj           prâv kogo   e                udaril.
+\g depends on it           who first whom is                   hit
+\l It depends on who hit whom first.
+
+\t Koj, spored     tebe,     kakvo e kazal?
+\m Koj, spored     tebe,     kakvo e kazal?
+\g who according to you what is said
+\l Who, according to you, said what?
+
+\t Koj      misli     ãe   kude    e otiul?
+\m Koj      misli     ãe   kude    e otiul?
+\g who       think-2s that where is gone
+\l Who      do you think went where?
+
+\t Koj kogo      e vidjal?
+\m Koj kogo      e vidjal?
+\g who whom is seen
+\l Who saw whom?
+
+\t Koj kak udari Ivan?
+\m Koj kak udari Ivan?
+\g who how hit         Ivan
+\l Who hit Ivan how?
+
+\t Kogo kak e tselunal Ivan?
+\m Kogo kak e tselunal Ivan?
+\g whom how is kissed          Ivan
+\l How did Ivan kiss whom?
+
+\t Na       kogo       kogo     e     pokazal     Ivan?
+\m Na       kogo       kogo     e     pokazal     Ivan?
+\g to        whom       whom is        pointed out Ivan
+\l Who      did Ivan    point out   to whom?
+
+\t Kogo kak e tselunal Ivan?
+\m Kogo kak e tselunal Ivan?
+\g whom how is kissed          Ivan
+\l How did Ivan kiss whom?
+
+\t Koj kogo      kak e tselunal?
+\m Koj kogo      kak e tselunal?
+\g who whom how is kissed
+\l Who kissed whom how?
+
+\t Kogo kakvo e pital Ivan?
+\m Kogo kakvo e pital Ivan?
+\g whom what is asked Ivan
+\l Whom did Ivan ask what?
+
+\t Koj kogo     kakvo e pital?
+\m Koj kogo     kakvo e pital?
+\g who whom what          is asked
+\l Who asked whom what?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t Zavisi od tova, koj kogo pv e udaril.
+\m Zavisi od tova, koj kogo pv e udaril.
+\g depends on it who whom first is hit
+\l It depends on who whom hits first.
+
+\t Kogo   kak e tselunal?
+\m Kogo   kak e tselunal?
+\g who    how is kissed
+\l Who   did he kiss how?
+
+\t Kak   kogo e tselunal?
+\m Kak   kogo e tselunal?
+\g  how   whom is kissed
+\l Who   did he kiss how?
+
+\t Koj kogo kak e tselunal?
+\m Koj kogo kak e tselunal?
+\g who whom how is kissed
+\l Who kissed whom how?
+
+\t Koj kak kogo e tselunal?
+\m Koj kak kogo e tselunal?
+\g who how whom is kissed
+\l Who kissed whom how?
+
+\t Kogo kak koj e tselunal?
+\m Kogo kak koj e tselunal?
+\g  whom how who is kissed
+\l Who kissed whom how?
+
+\t Koj kogo vizda
+\m Koj kogo vizda
+\g Who whom sees
+\l Who saw whom?
+
+\t Koji kudej mislis [ce e ostisul ti tj]
+\m Koji kudej mislis [ce e ostisul ti tj]
+\g who where think-2s that has gone
+\l Who do you think that went where?
+
+\t Koj kogo vizda
+\m Koj kogo vizda
+\g Who whom sees
+\l Who saw whom?
+
+\t Koj znae kakvo kade e kupila Mariya
+\m Koj znae kakvo kade e kupila Mariya
+\g Who knows what where bought Maria
+\l Who knows where Mary bought what?
+
+\t B a.         Pokazax mu go.
+\m B a.         Pokazax mu go.
+\g              showed1SG himDAT itACC
+\l (I) showed it to him
+
+\t B a.        Ivan ja obi...a.
+\m B a.        Ivan ja obi...a.
+\g             John herACC love3SG
+\l John loves her
+
+\t B     b.     Knigata, [VP/INTP Penka [V' ja   e      dala na Petko ]].
+\m B     b.     Knigata, [VP/INTP Penka [V' ja   e      dala na Petko ]].
+\g              book-the          Penka     itACC be3SG given to Petko
+\l As for the book, Penka gave it to Petko
+
+\t Koj           ka kvo na kogo e                     dal?
+\m Koj           ka kvo na kogo e                     dal?
+\g    Who        what        to whom       has-AUX given
+\l Who gave what to whom?
+
+\t Koj      e             kakvo na kogo dal?
+\m Koj      e             kakvo na kogo dal?
+\g  Who       has-AUX       what      to whom given
+\l Who gave what to whom?
+
+\t Koj koga viz a   d
+\m Koj koga viz a   d
+\g who whom sees
+\l Who sees whom?
+
+\t Ej       ksokrakija!
+\m Ej       ksokrakija!
+\g Interj short-legged+the.M.Sg
+\l You, the short-legged one!
+
+\t        djadja           Moska.
+\m        djadja           Moska.
+\g        uncle.Acc        Mosko.Acc
+\l ... in order to leave a letter to uncle Mosko.
+
+\t dedoto.
+\m dedoto.
+\g grandpa+the.N.Sg
+\l I gave the book to Jana/Stojan/the grandpa.
+
+\t Stojan/dedoto.
+\m Stojan/dedoto.
+\g Stojan/grandpa+the.N.Sg
+\l We lost Jana's/Stojan's/grandpa's book.
+
+\t b       tvojata              xubava        ljatna                 roklja    
+\m b       tvojata              xubava        ljatna                 roklja    
+\g         your.F.Sg+the.F.Sg beautiful.F.Sg summer.Adj.F.Sg         dress.F.Sg
+\l your beautiful summer the dress
+
+\t EDNO PISMO.
+\m EDNO PISMO.
+\g (a letter)
+\l Jana is reading the letter/a letter.
+
+\t (%edno pismo).
+\m (%edno pismo).
+\g [a letter]
+\l It is Jana that is reading the letter/a letter.
+
+\t a       Rasbole                 mi             se              deteto.
+\m a       Rasbole                 mi             se              deteto.
+\g         get sick.N.Sg.l-Part    1Sg.Dat.Cl     Acc.Imp.Cl      child+the.N.Sg
+\l My child got sick.
+
+\t b       Interesni      sa              im            vprosite.
+\m b       Interesni      sa              im            vprosite.
+\g         Interesting.Pl are.3Pl         3Pl.Dat.Cl    questions+the.Pl
+\l Their questions are interesting.
+
+\t ti.
+\m ti.
+\g 2Sg.Dat.Cl
+\l Your daughter has come to visit him.
+
+\t mi               gleda           decata.
+\m mi               gleda           decata.
+\g 1Sg.Dat.Cl       looks after     children+the.Pl
+\l I am looking   for a woman to   look after my children.
+
+\t ce     si               otivam.
+\m ce     si               otivam.
+\g That Impers.Dat.Cl      leave.1Sg
+\l I came to inform you   that I am leaving.
+
+\t da               se                     razxozdame.
+\m da               se                     razxozdame.
+\g Subj.Mark         Impers.Acc.Cl         walk.1Pl.Imperf.Pres
+\l If it didn't rain, we would have still be walking.
+
+\t dvama sina.
+\m dvama sina.
+\g two    sons
+\l There was a king and he had two sons.
+
+\t Zapoznah se        suÏs   zËenata     [napisala                    knigata].
+\m Zapoznah se        suÏs   zËenata     [napisala                    knigata].
+\g met.1sg     REFL   with the.woman          written.ACT.PPL.f.sg   the.book
+\l I met the woman (who has) written the book.
+
+\t N a momceto davam          knigata.
+\m N a momceto davam          knigata.
+\g to boy-DEF give-1SG-PRES book-DEF-FEM
+\l I give the boy the book.
+
+\t Kuc eto            ja          goni edna        kotka.
+\m Kuc eto            ja          goni edna        kotka.
+\g dog-DEF-NEUT it-FEM            chase one        cat-FEM
+\l The dog chases acat'.
+
+\t Na       kogo mu          se             jade          nesto       vkusno?
+\m Na       kogo mu          se             jade          nesto       vkusno?
+\g to      whom him-DAT INTRANS eat-3-SG something   tasty
+\l Who feels like eating something tasty?
+
+\t Toj   e         bil        v Sofija
+\m Toj   e         bil        v Sofija
+\g he    is-AUX was-PT in Sofia
+\l He   has been/was in Sofia.
+
+\t Toj   bil       v Sofija
+\m Toj   bil       v Sofija
+\g he    was-PT in Sofia
+\l He   has been/was/is in Sofia [apparently, supposedly, astoundingly]   .
+
+\t Prikazka Ø/*ja                     razkazvas e     vsjaka vec er.
+\m Prikazka Ø/*ja                     razkazvas e     vsjaka vec er.
+\g   story         Ø/it-FEM-ACC tell-3-SG-IMPF every evening
+\l S/he used to tell a story every evening.
+
+\t Rakavat            e tuk, a m a ra kata         *Ø/ja njama.
+\m Rakavat            e tuk, a m a ra kata         *Ø/ja njama.
+\g    sleeve-DEF is here but arm-DEF it-FEM not-have/isn't
+\l The sleeve is here but the arm isn't.
+
+\t novi t moliv
+\m novi t moliv
+\g newDE F pencil
+\l the new pencil
+
+\t mo t nov moliv
+\m mo t nov moliv
+\g myDE F new pencil
+\l my new pencil
+
+\t Mari , iskax li da nap~lneex?
+\m Mari , iskax li da nap~lneex?
+\g Maria, want2SG QU that gain2SG weight
+\l Maria, do you want to gain weight?
+
+\t Mari , Mileva, iskate li da nap~lneete?
+\m Mari , Mileva, iskate li da nap~lneete?
+\g Maria, Mileava, want2PL QU that gain2PL weight
+\l Maria, Mileva, do you want togainweight?
+
+\t Koj          ka kv o na kogo e                    dal?
+\m Koj          ka kv o na kogo e                    dal?
+\g   Who        what        to whom       has-AUX given
+\l Who gave what to whom?
+
+\t Koj       e               kakvo na kogo dal?
+\m Koj       e               kakvo na kogo dal?
+\g   Who       has-AUX         what      to whom given
+\l Who gave what to whom?
+
+\t Koj koga viz a   d       (same as (1a))
+\m Koj koga viz a   d       (same as (1a))
+\g who whom sees
+\l Who sees whom?
+
+\t Tgda pristpi k nemu mati snovu zevedeovu                   s snma            svoima klanjsti            s     i prossti          nceso          ot            nego.
+\m Tgda pristpi k nemu mati snovu zevedeovu                   s snma            svoima klanjsti            s     i prossti          nceso          ot            nego.
+\g then came.3S to him mother son.DAT Zebedee's.DAT with sons.INST              her.INST bow.PRES.PART REFL and ask.PRES.PART something.GEN from                 him  
+\l Then the mother of the son of Zebedee came to him with her (two) sons, bowing down and asking something from him.
+
+\t Simone imam            ti        ncto      resti...
+\m Simone imam            ti        ncto      resti...
+\g Simon have.PRES.1S you.DAT something say.INF
+\l Simon, I have something to say to you...
+
+\t mnax             bo  zlata        plny sst            ili nc'to     ino.
+\m mnax             bo  zlata        plny sst            ili nc'to     ino.
+\g think.IMPF.3P PRT it gold.GEN full be.PRES.PART or something else.NEUT
+\l ...for they thought it was full of gold or something else.
+
+\t ...zivstii v g'rad nad'ax               s     zlo       nc'to      priti          ot        neju...
+\m ...zivstii v g'rad nad'ax               s     zlo       nc'to      priti          ot        neju...
+\g     living in city          were-sure.3P REFL evil.NEUT              something    from them.DUAL   
+\l ...those living in the city expected to receive something evil from them...
+
+\t Vratata bese razbita, no nestata v stajata bjaxa po mestata              si.
+\m Vratata bese razbita, no nestata v stajata bjaxa po mestata              si.
+\g the.door was broken but the.things in the.room were in the.places REFL
+\l The door had been broken in, but the things in the room were in their (respective) places.
+
+\t Tocno tova e nestoto, koeto              najmnogo drazni.
+\m Tocno tova e nestoto, koeto              naj-mnogo drazni.
+\g exactly that is the.thing REL.NEUT most-of-all irritates.
+\l That is exactly the thing that irritates the most.
+
+\t Stava vpros, ce ima pet nesta, koito trjabva              da se napravjat.
+\m Stava vpros, ce ima pet nesta, koito trjabva              da se napravjat.
+\g arise.3S question that has five things RELis-necessary to REFL do.3P
+\l The issue is that there are five things that need to be done.
+
+\t Za vsicki tezi nesta sa           nuzni       vekove, a ne desetiletija.
+\m Za vsicki tezi nesta sa           nuzni       vekove, a ne desetiletija.
+\g for all       those things are    necessary centuries and not decades
+\l Centuries are needed for all    those things, not decades.
+
+\t ...grazdanite trjabva             da znajat     tova nesto.
+\m ...grazdanite trjabva             da znajat     tova nesto.
+\g     the.citizens is-necessary     to know.3P that thing
+\l ...the citizens need to know    that thing.
+
+\t ...vsjako novo nesto e dobre zabraveno staro.
+\m ...vsjako novo nesto e dobre zabraveno staro.
+\g     every new     thing is well forgotten old
+\l ...every new thing is a well-forgotten old one.
+
+\t Predi dve godini xorata           glasuvaxa      sigurno    za promjanata,         iskajki nesto         podobro.
+\m Predi dve godini xorata           glasuvaxa      sigurno    za promjanata,         iskajki nesto         po-dobro.
+\g before two years the-people voted.3P             decisively for the.change,        want.GER something better      
+\l Two years ago people voted decisively for change, wanting something better.
+
+\t (3>3) Az im      ja          preporâc&vam.
+\m (3>3) Az im      ja          preporâc&vam.
+\g           I     3PL.REC      3SG.F.THM        recommend.PRES.1         SG
+\l I recommend her to them.
+
+\t (3>2) *Az im                     te            preporâc&vam.
+\m (3>2) *Az im                     te            preporâc&vam.
+\g          I      3PL.REC       2SG.THM    recommend.PRES.1        SG
+\l I recommend you to them.
+
+\t Az te                    preporâc&vam                    na tjah.
+\m Az te                    preporâc&vam                    na tjah.
+\g I      2SG.THM        recommend.PRES.1        SG      to    them
+\l I recommend you to them.
+
+\t Az, tvojta majka, ti dadox edna igraçka.
+\m Az, tvojta majka, ti dadox edna igraçka.
+\g I, your mother, you gave a toy
+\l I, your mother, gave you a toy.
+
+\t Koj kogo vi azd
+\m Koj kogo vi azd
+\g who whom sees
+\l Who does whom see
+
+\t Na kogo kakvo dade Ivan?
+\m Na kogo kakvo dade Ivan?
+\g to who what gave Ivan
+\l What did Ivan give to who?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g  who what is bought
+\l Who bought what?
+
+\t Koja kniga koj covek e kupil?
+\m Koja kniga koj covek e kupil?
+\g  which book which man is bought
+\l Which man bought which book?
+
+\t Koj e kupil kakvo?
+\m Koj e kupil kakvo?
+\g  who is bought what
+\l Who bought what?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t Koj koja kniga e kupil?
+\m Koj koja kniga e kupil?
+\g who which book is bought
+\l Who bought which book?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t Koj, spored   tebe, kakvo e kupil?
+\m Koj, spored   tebe, kakvo e kupil?
+\g   who according you what is bought
+\l Who, according to you, bought what?
+
+\t Koj, spored   tebe, koja kniga e kupil?
+\m Koj, spored   tebe, koja kniga e kupil?
+\g  who according you which book is bought
+\l Who, according to you, bought which book?
+
+\t Koj na kogo kogo               e    pokazal?
+\m Koj na kogo kogo               e    pokazal?
+\g  who to whom whom               is   shown
+\l Who showed whom               to   whom?
+
+\t Kogo kak e tselunal Ivan?
+\m Kogo kak e tselunal Ivan?
+\g whom how is kissed Ivan
+\l How did Ivan kiss whom?
+
+\t Koj kogo kak e tselunal?
+\m Koj kogo kak e tselunal?
+\g who whom how is kissed
+\l Who kissed whom how?
+
+\t Kogo kakvo e pital Ivan?
+\m Kogo kakvo e pital Ivan?
+\g whom what is asked Ivan
+\l Whom did Ivan ask what?
+
+\t Koj kogo kakvo e pital?
+\m Koj kogo kakvo e pital?
+\g who whom what is asked
+\l Who asked whom what?
+
+\t Koj na kogo e pokazal kogo?
+\m Koj na kogo e pokazal kogo?
+\g who to whom is shown whom
+\l Who showed whom to whom?
+
+\t Kakvo (*kakvo) misli (*kakvo) Ivan (%kakvo) ce (kakvo) obuslavlja (kakvo)?
+\m Kakvo (*kakvo) misli (*kakvo) Ivan (%kakvo) ce (kakvo) obuslavlja (kakvo)?
+\g what    what thinks             Ivan        that       conditions
+\l What does Ivan think conditions what?
+
+\t Koj kakvo misli Ivan ce obuslavlja?
+\m Koj kakvo misli Ivan ce obuslavlja?
+\g who what thinks Ivan that conditions
+\l Who does Ivan think conditions what?
+
+\t Kakvo toj dade na Petko?
+\m Kakvo toj dade na Petko?
+\g   what he gave to Petko
+\l What did he give to Petko?
+
+\t Cine a citit CE fara       sa        claseze?
+\m Cine a citit CE fara       sa        claseze?
+\g who has read what without SUBJ.PART files
+\l Who read what without filing?
+
+\t (?)Kakvo opredelja kakvo bez           da ocakva?
+\m (?)Kakvo opredelja kakvo bez           da ocakva?
+\g      what determines what without PART anticipates
+\l What determines what without anticipating?
+
+\t Kolkoto pari iska tolkova             misli ce ste i    dam.
+\m Kolkoto pari iska tolkova             misli ce ste i    dam.
+\g how-much money wants that-much thinks that will her give
+\l She thinks that I'll give her as much money as she wants.
+
+\t (5)a. {Tvurde/po*ti/suvsem} e        stjasliv
+\m (5)a. {Tvurde/po*ti/suvsem} e        stjasliv
+\g         quite/almost/rather be-3sg.happy
+\l He is quite/almost/rather happy
+
+\t Izgleda {tvurde/po*ti/suvsem} stjasliv
+\m Izgleda {tvurde/po*ti/suvsem} stjasliv
+\g appear-3sg.quite/almo st/rather happy
+\l He appears quite/almost/rather happy
+
+\t Kakvo obuslavlja kakvo?
+\m Kakvo obuslavlja kakvo?
+\g what conditions what
+\l What conditions what?
+
+\t B     Pro...el sßm     knigata.
+\m B     Pro...el sßm     knigata.
+\g       read aux1SG book-the
+\l I have read the book.
+
+\t B     Ste mu go dadete.
+\m B     Ste mu go dadete.
+\g       will to=him it gave2SG
+\l (You) will give it to him.
+
+\t B     Dal sßm        mu       go.
+\m B     Dal sßm        mu       go.
+\g       given aux1SG to=him it
+\l (I) have given it to him.
+
+\t B     Pokazax      mu     go pismoto.
+\m B     Pokazax      mu     go pismoto.
+\g       showed1SG to=him it the letter
+\l (I) showed him the letter.
+
+\t Dal sßm       mu      go.
+\m Dal sßm       mu      go.
+\g given aux1SG to=him it
+\l (I) have given it to him.
+
+\t Kakvo obuslavlja kakvo?
+\m Kakvo obuslavlja kakvo?
+\g what conditions what
+\l What conditions what?
+
+\t Kakvai        prodade Petko [ti kola]?
+\m Kakvai        prodade Petko [ti kola]?
+\g  what-kind-of sold      Petko    car
+\l What kind of a car did Petko sell?
+
+\t Cijai xaresva Petko [ti kola]?
+\m Cijai xaresva Petko [ti kola]?
+\g  whose likes    Petko     car
+\l Whose car does Petko like?
+
+\t Novatai prodade Petko [ti kola].
+\m Novatai prodade Petko [ti kola].
+\g  new-the sold      Petko    car
+\l The new car, Petko sold.
+
+\t xubavii te ti momiceta
+\m xubavii te ti momiceta
+\g beautiful the girls
+\l the beautiful girls
+
+\t xubavii te ti visoki momiceta
+\m xubavii te ti visoki momiceta
+\g beautiful the tall       girls
+\l the beautiful tall girls
+
+\t kupenata ot Petko kniga
+\m kupena-ta ot Petko kniga
+\g bought-the by Petko book
+\l the book bought by Petko
+
+\t vernijat      na Vera muz
+\m vernij-at      na Vera muz
+\g truthful-the to Vera husband
+\l the husband truthful to Vera
+
+\t mnogo xubavite knigi
+\m mnogo xubavi-te knigi
+\g very      nice-the books
+\l the very nice books
+
+\t  Zabravixme         se.
+\m  Zabravix-me         se.
+\g forgot-1.pl          RR.ACC
+\l We forgot each other.
+
+\t  Bratjata            si          govorjat.
+\m  Bratja-ta            si          govorjat.
+\g brothers-ART          RR.DAT speak
+\l The brothers are talking to each other.
+
+\t Ela           i mi kazi!
+\m Ela           i mi kazi!
+\g come-2sg.Imp and me tell-2sg.Imp
+\l Come and tell me!
+
+\t (2 5 )   a.    *I   van nastojava (ti) govor´.  i
+\m (2 5 )   a.    *I   van nastojava (ti) govor´.  i
+\g                 I   van insists (you) speak-2sg.Imp
+\l    Ivan insists that you speak.
+
+\t Ti      mi           go    daj!
+\m Ti      mi           go    daj!
+\g You-Sg me-Dat-Cl it-Acc-Cl give-2sg-Imp
+\l You give it to me!
+
+\t B          Ne ­ MU ­              go    DAvaj!
+\m B          Ne ­ MU ­              go    DAvaj!
+\g            not     him-Dat-Cl it-Acc-Cl give-2sg-Imper
+\l Don't give it to him!
+
+\t Decata         ja        obicat        Marija/neja.
+\m Decata         ja        obicat        Marija/neja.
+\g children-D E F her-3 S G love-3   PL   Maria/her
+\l The children love her.
+
+\t  Zabravixme         se.
+\m  Zabravix-me         se.
+\g forgot-1.pl          RR.ACC
+\l We forgot each other.
+
+\t  Bratjata            si          govorjat.
+\m  Bratja-ta            si          govorjat.
+\g brothers-ART          RR.DAT speak
+\l The brothers are talking to each other.
+
+\t Gledali        sa       / bjaxa        filma
+\m Gledali        sa       / bjaxa        filma
+\g  watchPART.PL.be3PL.PRES / be3PL.PAST movie-the
+\l (The kids) have / had watched the movie
+
+\t Az sßm mu                  go      dal.
+\m Az sßm mu                  go      dal.
+\g       I have him-dat it-acc given
+\l I have given it tohim'.
+
+\t Ste mu            go    dadete.
+\m Ste mu            go    dadete.
+\g     fut him-dat it-acc give
+\l (You) will give it tohim'.
+
+\t Vizdal li go e?
+\m Vizdal li go e?
+\g       seen Q him-acc has
+\l Has (he) seen him?
+
+\t Ste go vi das li?
+\m Ste go vi das li?
+\g   fut him-acc see Q
+\l Will (you) see him?
+
+\t Ne ste li go vi das?
+\m Ne ste li go vi das?
+\g   neg fut Q him-acc see
+\l Will (you) not see him?
+
+\t Ste e izpil konjaka.
+\m Ste e izpil konjaka.
+\g       will is drunk the cognac
+\l (He) will have drunk the cognac.
+
+\t Dal sßm mu go.
+\m Dal sßm mu go.
+\g     given be1 dat acc
+\l (I) have given it to him.
+
+\t Dal mu go e.
+\m Dal mu go e.
+\g   given dat acc be3
+\l (He) has given it to him.
+
+\t Plaãe        mi        se.
+\m Plaãe        mi        se.
+\g cry.3sg me.dat refl
+\l I feel like crying.
+
+\t Ti          si             mu           gi             pokazvala.
+\m Ti          si             mu           gi             pokazvala.
+\g  You        aux.2sg        him.dat      them.acc       shown.fem
+\l You have shown them to him.
+
+\t I         mi       g o dade Vera vãera.
+\m I         mi       g o dade Vera vãera.
+\g     and me.dat it.acc gave Vera yesterday
+\l And Vera gave it to me yesterday.
+
+\t I          dade li ti           go?
+\m I          dade li ti           go?
+\g     and gave Q you.dat it.acc
+\l And did she/he give it to you?
+
+\t a . Koj         kâde        misli       [ãe     e                 otiâl]?
+\m a . Koj         kâde        misli       [ãe     e                 otiâl]?
+\g     who         where        think.2sg   that    aux.3sg gone
+\l Who do you think has gone where?
+
+\t b . Zavisi         ot   tova, koj      kogo      pr â v e                  udaril.
+\m b . Zavisi         ot   tova, koj      kogo      pr â v e                  udaril.
+\g     depends        on   this     who   whom      first    aux.3sg hit
+\l It depends on who hit whom first.
+
+\t a . Kogo        kak          e              celunal Ivan?
+\m a . Kogo        kak          e              celunal Ivan?
+\g      whom       how          aux.3sg        kissed Ivan
+\l How did Ivan kiss whom?
+
+\t a . Koj         kogo         kak e                  celunal?
+\m a . Koj         kogo         kak e                  celunal?
+\g      who        whom         how aux.3sg kissed
+\l Who kissed whom how?
+
+\t B       Ne mu go pokazax
+\m B       Ne mu go pokazax
+\g         neg dat acc show-1sg
+\l (I) didn't show it to him
+
+\t Sled tri godini ti si           mu      gi     pokazvala.
+\m Sled tri godini ti si           mu      gi     pokazvala.
+\g after three years you aux.2sg him.dat them.acc shown
+\l After three years, you have shown him them.
+
+\t Ucitelkata    vece     mu       gi      e    pokazvala.
+\m Ucitelkata    vece     mu       gi      e    pokazvala.
+\g teacher.def already him.dat them.acc aux.3sg shown
+\l The teacher has already shown them to him.
+
+\t Pokazvala si       mu        gi.
+\m Pokazvala si       mu        gi.
+\g shown     aux.2sg him.dat them.acc
+\l You have shown them to him.
+
+\t Pokazvala    mu       gi      e.
+\m Pokazvala    mu       gi      e.
+\g shown        him.dat them.acc aux.3sg
+\l She has shown them to him.
+
+\t I    si     mu       gi       pokazvala.
+\m I    si     mu       gi       pokazvala.
+\g and aux.2sg him.dat them.acc shown
+\l And you have shown them to him.
+
+\t Ste mu       gi       pokazvas.
+\m Ste mu       gi       pokazvas.
+\g will him.dat them.acc shown
+\l You will show them to him.
+
+\t Petko, edin moj prijatel, mi               go            dade.
+\m Petko, edin moj prijatel, mi               go            dade.
+\g Peter a         my     friend       me.dat him.acc       gave
+\l Petko, a friend of mine, gave it to me.
+
+\t Ako njakoj,       kojto e s         men, mi        dade njakolko            cipa ...
+\m Ako njakoj,       kojto e s         men, mi        dade njakolko            cipa ...
+\g if     someone who is with me             me.dat gives several              chips
+\l If someone, who is with me, gives me some chips ...
+
+\t Ivan, spored       Marija,    go         vizdam     vseki den.
+\m Ivan, spored       Marija,    go         vizdam     vseki den.
+\g Ivan according Maria          him.acc see.1sg       every day
+\l (Talking about) Ivan, according to Maria, I see him every day.
+
+\t Sled kato si           zivjal dosta s     edna zena, ja        poznavas dobre.
+\m Sled kato si           zivjal dosta s     edna zena, ja        poznavas dobre.
+\g after as      aux.2sg lived enough with a       woman her.acc know.2sg well
+\l After you have lived with a woman long enough, you know her well.
+
+\t Dade li Ana knigata na Petko?
+\m Dade li Ana knigata na Petko?
+\g gave Q Ana book.def to Petko
+\l Did Ana give the book to Petko?
+
+\t Dade li mu       go     Ana?
+\m Dade li mu       go     Ana?
+\g gave Q him.dat it.acc Ana
+\l Did Ana give it to him?
+
+\t Ne mu        li     go     dade Ana?
+\m Ne mu        li     go     dade Ana?
+\g neg him.dat Q       it.acc gave Ana
+\l Didn't Ana give it to him?
+
+\t Dala li si        mu       go?
+\m Dala li si        mu       go?
+\g given Q aux.2g him.dat it.acc
+\l Have you given it to him?
+
+\t Ne si        li mu        go  dala?
+\m Ne si        li mu        go  dala?
+\g neg aux.2sg Q him.dat it.acc given
+\l Haven't you given it to him?
+
+\t Kakvo obuslavja [ lipsata         na vkus obuslavja kakvo ]?
+\m Kakvo obuslavja [ lipsata         na vkus obuslavja kakvo ]?
+\g what conditions absence.def of taste conditions what
+\l What does the absence of taste condition?
+
+\t Tvome prijatelju# #su          prodali su knjigu.#
+\m Tvome prijatelju# #su          prodali su knjigu.#
+\g your.dat frend.dat aux.3pl gave aux.3pl book.acc
+\l To your friend, they sold the book.
+
+\t Ja#, #tvoja mama#, #sam       ti     obeala sam                  ti      igracku#.
+\m Ja#, #tvoja mama#, #sam       ti     obeala sam                  ti      igracku#.
+\g I     your    mother aux.1sg you.dat promised aux.1sg             you.dat toy.acc
+\l I, your mother, promised you a toy.
+
+\t Toj      go           e          vidjal.
+\m Toj      go           e          vidjal.
+\g he.nom him/it.acc aux.3sg        seen
+\l He has seen him/it.
+
+\t Ne sme        im       go        vse oste pokazali.
+\m Ne sme        im       go        vse oste pokazali.
+\g neg aux.1pl them.dat it.acc still         shown
+\l We still have not shown it to them.
+
+\t Nie sme      im        go       vece kazali.
+\m Nie sme      im        go       vece kazali.
+\g we aux.1pl them.dat it.acc already said
+\l We have already said it to them.
+
+\t Pokazvala li mu       gi      e.
+\m Pokazvala li mu       gi      e.
+\g shown      Q him.dat them.acc aux.3sg
+\l Did she show them to him?
+
+\t Ne si         li mu     gi     pokazvala?
+\m Ne si         li mu     gi     pokazvala?
+\g neg aux.2sg Q him.dat them.acc shown
+\l Didn't you show them to him?
+
+\t Ne mu         li gi       e    pokazvala?
+\m Ne mu         li gi       e    pokazvala?
+\g neg him.dat Q them.acc aux.3sg shown
+\l Didn't she show them to him?
+
+\t Az      sâm       uz     ti          go     dala.
+\m Az      sâm       uz     ti          go     dala.
+\g I       aux.1sg maybe you.dat        it.acc given.fem
+\l I have maybe already given it to you.
+
+\t Tja ti           uz     go     e              dala.
+\m Tja ti           uz     go     e              dala.
+\g She you.dat       maybe it.acc aux.3sg         given.fem
+\l She has maybe already given it to you.
+
+\t Bese      li kupila kâsta?
+\m Bese      li kupila kâsta?
+\g had.2/3sg Q bought house
+\l Had you/she bought a house ?
+
+\t Bese li Marija kupila kâsta?
+\m Bese li Marija kupila kâsta?
+\g had.3sg Q Maria bought house
+\l Had Maria bought a house?
+
+\t Bese     napâlno/vece       zabravila za        srestata.
+\m Bese     napâlno/vece       zabravila za        srestata.
+\g had.3sg completely/already forgotten about meeting.def
+\l She had completely/already forgotten about the meeting.
+
+\t Kupila li bese     kâsta?
+\m Kupila li bese     kâsta?
+\g bought Q had.3sg house
+\l Had she BOUGHT a house?
+
+\t Gledali bjaxa (samo) filma.
+\m Gledali bjaxa (samo) filma.
+\g saw     had.3pl only film.def
+\l They had seen (only) the FILM.
+
+\t Ivan li, toj ti        kaza?
+\m Ivan li, toj ti        kaza?
+\g Ivan Q he you.dat told
+\l *Talking about and was it Ivan who told you?
+
+\t Njakoj li dojde na srestata?
+\m Njakoj li dojde na srestata?
+\g someone Q came to meeting.def
+\l *Was it someone who came to the meeting?
+
+\t Ivan, toj li ti        kaza?
+\m Ivan, toj li ti        kaza?
+\g Ivan he Q you.dat told
+\l Talking about Ivan, was it him who told you?
+
+\t Decata        kakvo gledaxa?
+\m Decata        kakvo gledaxa?
+\g children.def what watched.3pl
+\l As for the children, what were they watching?
+
+\t Decata        gledaxa       li tozi film?
+\m Decata        gledaxa       li tozi film?
+\g children.def watched.3pl Q that film
+\l As for the children, were they watching that movie?
+
+\t Tozi film decata          go     gledaxa.
+\m Tozi film decata          go     gledaxa.
+\g this film children.def it.acc watched.3pl
+\l As for this film, the children were watching it.
+
+\t Filma gledali         go      bjaxa decata.
+\m Filma gledali         go      bjaxa decata.
+\g film watched.3pl it.acc had.3pl children.def
+\l As for the movie, the children had seen it.
+
+\t Na     Ivan, knigata kupila mu          ja bese     Marija.
+\m Na     Ivan, knigata kupila mu          ja bese     Marija.
+\g for    Ivan book.def bought him.dat it.acc had.3sg Maria
+\l As   for Ivan and as for the book, Maria had BOUGHT it for him.
+
+\t Na Ivan, spored mene, mu               go dadox.
+\m Na Ivan, spored mene, mu               go dadox.
+\g for Ivan according me        him.dat it.acc gave.1sg
+\l To Ivan, according to me, I gave it.
+
+\t Ivan, spored     Marija, vidja      li go       vcera        vâv centâra?
+\m Ivan, spored     Marija, vidja      li go       vcera        vâv centâra?
+\g Ivan according Maria saw.3sg Q him.acc yesterday in                center.def
+\l Ivan, according to Maria, did she see yesterday in the city center?
+
+\t Vie gledali li ste        go        tozi film?
+\m Vie gledali li ste        go        tozi film?
+\g you saw Q aux.2pl it.acc this film
+\l (As for) you, have you seen this film?
+
+\t Vie ste      go       gledali li     tozi film?
+\m Vie ste      go       gledali li     tozi film?
+\g you aux.2pl it.acc saw         Q     this film
+\l Have you seen it, this film?
+
+\t Tozi film vie ste          go       gledali li?
+\m Tozi film vie ste          go       gledali li?
+\g this film you aux.2pl it.acc saw Q
+\l (As for this film), have you seen it?
+
+\t Knigata li na Ivan Vazov si          cel (ili raskaza)?
+\m Knigata li na Ivan Vazov si          cel (ili raskaza)?
+\g book.def Q of Ivan Vazov aux.2sg read or story.def
+\l Was it the book you read by Ivan Vazov (or the story)?
+
+\t Novata li kniga na           Ivan vidja?
+\m Novata li kniga na           Ivan vidja?
+\g new.def Q book of            Ivan saw.2/3sg
+\l Was it the new book by      Ivan that you saw?
+
+\t Momiceto li ot        Sofia se razbolja (ili momceto)?
+\m Momiceto li ot        Sofia se razbolja (ili momceto)?
+\g girl.def    Q from Sofia refl get-sick or boy.def
+\l Did the girl from Sofia get sick (or the boy)?
+
+\t Prebrojavaneto li         na zajcite       se pravi naesen (ili ciftosvaneto)?
+\m Prebrojavaneto li         na zajcite       se pravi naesen (ili ciftosvaneto)?
+\g counting.def      Q       of rabbits.def refl make in-fall or mating
+\l Is it the counting of   rabbits that takes place in the fall (or the mating)?
+
+\t Zoreto li Petrov vidja     (ili Koleto)?
+\m Zoreto li Petrov vidja     (ili Koleto)?
+\g Zhore Q Petrov saw.2/3sg or Kole
+\l Was it ZHORE Petrov you saw (or Kole)?
+
+\t Vladi li Petrov vidja     (ili Ivo)?
+\m Vladi li Petrov vidja     (ili Ivo)?
+\g Vladi Q Petrov saw.2/3sg or Ivo
+\l Was it VLADI Petrov you saw (or Ivo)?
+
+\t Protiv li si       ili za?
+\m Protiv li si       ili za?
+\g against Q aux.2sg or for
+\l Are you AGAINST or for?
+
+\t Edna li kniga iskas     (ili dve)?
+\m Edna li kniga iskas     (ili dve)?
+\g one Q book want.2sg or two
+\l Do you want ONE book (or two)?
+
+\t Edna li druga kniga iskas?
+\m Edna li druga kniga iskas?
+\g one   Q other book want.2sg
+\l *Do you want AN other book?
+
+\t Starija li prijatel pokani (ili mladija)?
+\m Starija li prijatel pokani (ili mladija)?
+\g old.def Q friend invited or young.def
+\l Did you invite your OLD friend (or the young one)?
+
+\t Xljab li i      sirene jade?
+\m Xljab li i      sirene jade?
+\g bread   Q and cheese ate
+\l Were you eating BREAD and cheese?
+
+\t Xljaba li i    sireneto     izjade (ili salatata i       sireneto)?
+\m Xljaba li i    sireneto     izjade (ili salatata i       sireneto)?
+\g bread.def Q and cheese.def ate        or salad.def and cheese.def
+\l Was it the BREAD and the cheese that you ate (or the salad and the cheese)?
+
+\t Râzen li xljab i        sirene jade?
+\m Râzen li xljab i        sirene jade?
+\g rye      Q bread and cheese ate
+\l Was it RYE bread and cheese that you were eating?
+
+\t V tozi li grad si        xodil?
+\m V tozi li grad si        xodil?
+\g in this Q city aux.2sg went
+\l Have you been to that city?
+
+\t Novata kâsta li?
+\m Novata kâsta li?
+\g new.def house Q
+\l Is it a new house?
+
+\t Sireneto li ste jades s xljab?
+\m Sireneto li ste jades s xljab?
+\g cheese.def Q will eat.2sg with bread
+\l Is the cheese that you are going to eat with bread?
+
+\t Koja li kniga ste mi          podaris?!
+\m Koja li kniga ste mi          podaris?!
+\g which Q book will me.dat give.2sg
+\l Which(ever) book will you give me?!
+
+\t Koj li kakvo kupuva?
+\m Koj li kakvo kupuva?
+\g who Q what buys.3sg
+\l Who on earth buys what?
+
+\t Koj kakvo li mi        e        kupil?
+\m Koj kakvo li mi        e        kupil?
+\g who what Q me.dat aux.3sg bought
+\l (I wonder) who has bought me what?
+
+\t Koga kâde li ste se srestnem?43
+\m Koga kâde li ste se srestnem?43
+\g when where Q will refl meet.1pl
+\l (I wonder) when and where we will meet?
+
+\t Mnogo truden li ispit si        vzel?
+\m Mnogo truden li ispit si        vzel?
+\g very    hard     Q exam aux.2sg took
+\l Did you take a VERY HARD exam?
+
+\t Mnogo li truden ispit si        vzel (ili malko)?
+\m Mnogo li truden ispit si        vzel (ili malko)?
+\g very    Q hard exam aux.2sg took or little
+\l Was the exam that you took VERY hard (or only a little)?
+
+\t Mnogo li bese truden ispitât?
+\m Mnogo li bese truden ispitât?
+\g very Q was difficult exam.def
+\l Was the test VERY hard?
+
+\t Izvânredno vaznija           li ispit vze?
+\m Izvânredno vaznija           li ispit vze?
+\g exceptionally important.def Q exam took.2/3sg
+\l Was it the exceptionally important exam that she/he/you took?
+
+\t Koj cunkim          kakvo mi       e        dal?
+\m Koj cunkim          kakvo mi       e        dal?
+\g who for God's sake what me.dat aux.3sg gave
+\l Who, for God's sake, has given me what for free?
+
+\t Koj pâk      kakvo ti          dava na tebe?
+\m Koj pâk      kakvo ti          dava na tebe?
+\g who EMPH what you.dat gives to you
+\l Who gives you (of all people) what?
+
+\t Koj, spored    tebe, kakvo pie?
+\m Koj, spored    tebe, kakvo pie?
+\g who according you what drinks
+\l Who, according to you, is drinking what?
+
+\t Koj, sâs sigurnost, kakvo koga ste donese?
+\m Koj, sâs sigurnost, kakvo koga ste donese?
+\g who with certainty what when will brings
+\l Who, for sure, will bring what when?
+
+\t Koj prâv kogo e        udaril?
+\m Koj prâv kogo e        udaril?
+\g who first whom aux.3sg hit
+\l Who hit whom first?
+
+\t Koj li prâv kogo e                  udaril?
+\m Koj li prâv kogo e                  udaril?
+\g who Q first whom aux.3sg            hit
+\l Who on earth hit who first?
+
+\t Koj, navjarno, kâde ste porâca tortata?
+\m Koj, navjarno, kâde ste porâca tortata?
+\g who probably where will order cake.def
+\l Who will perhaps have the cake made where?
+
+\t Koj kakvo li koga ste ni            servira?
+\m Koj kakvo li koga ste ni            servira?
+\g who what Q when will us.dat serve
+\l Who will surprise us with what when, I wonder?
+
+\t Protiv vsickite prijateli li si     govoril?
+\m Protiv vsickite prijateli li si     govoril?
+\g against all.def friends Q aux.2sg spoke
+\l Did you speak AGAINST ALL YOUR FRIENDS?
+
+\t Protiv li si       ili za?
+\m Protiv li si       ili za?
+\g against Q aux.2sg or for
+\l Are you AGAINST or for?
+
+\t Novata li kola prodade?
+\m Novata li kola prodade?
+\g new.def Q car sold.2/3sg
+\l Did she/he/you sell the new car?
+
+\t Az novata        kola si    m i sl j a ce    prodade.
+\m Az novata        kola si    m i sl j a ce    prodade.
+\g I    new.def car refl think.1sg that sold.2/3sg
+\l As for me, I think that it was the new car that he/she/you sold.
+
+\t Novata     li kola mislis ce        prodade?
+\m Novata     li kola mislis ce        prodade?
+\g new.def Q    car think.1sg that sold.2/3sg
+\l Was it the NEW car that you think that she/he/you sold?
+
+\t Novata li      m i sl i s ce prodade        kola?
+\m Novata li      m i sl i s ce prodade        kola?
+\g new.def Q       think.2sg that sold.2/3sg car
+\l Was it the NEW car that you think he/she/you sold?
+
+\t Novata li prodade Petko kola?
+\m Novata li prodade Petko kola?
+\g new.the Q sold.3sg Petko car
+\l Was it the NEW car that Petko sold?
+
+\t Protiv smo      dijaloga    velikih na stetu        treih zemalja.
+\m Protiv smo      dijaloga    velikih na stetu        treih zemalja.
+\g against are.1pl dialog.gen great.gen to detriment third countries
+\l We are against a dialog between the great powers to the detriment of third countries.
+
+\t E        li dosâl?
+\m E        li dosâl?
+\g aux.3sg Q arrived
+\l Has he arrived?
+
+\t Tova, koeto pravi nestata interesni, e, ce toj ...
+\m Tova, koeto pravi nestata interesni, e, ce toj ...
+\g that   which makes things interest ing is that he
+\l That which makes things interesting is that he ...
+
+\t Na Ivan, knigata bese       mu     ja kupila Marija.
+\m Na Ivan, knigata bese       mu     ja kupila Marija.
+\g for Ivan book had.3sg him.dat it.acc bought Maria
+\l As for Ivan and as for the book, Maria had bought it for him.
+
+\t Az sâm       bila napâlno       zabravila za     nego.
+\m Az sâm       bila napâlno       zabravila za     nego.
+\g I aux.1sg have completely forgotten about him
+\l (They say) I have completely forgotten about him.
+
+\t Vjarvam      si        go      pital       vece.
+\m Vjarvam      si        go      pital       vece.
+\g believe.1sg aux.2sg him.acc asked          already
+\l I believe you asked him already.
+
+\t Xljabât    sâs sireneto bjaxa/*bese na masata.
+\m Xljabât    sâs sireneto bjaxa/*bese na masata.
+\g bread.def with cheese.def were/was on table
+\l The bread and (with) the cheese were on the table.
+
+\t Koga li kâde li pak ste se          srestnem?
+\m Koga li kâde li pak ste se          srestnem?
+\g when Q where Q again will refl meet.1pl
+\l Whenever (and) wherever will we meet again?
+
+\t Sâvsem     nova li roklja nosese?
+\m Sâvsem     nova li roklja nosese?
+\g completely new Q dress wore.2/3sg
+\l Was it a COMPLETELY NEW dress that she/he/you wore?
+
+\t Tolkova mnogo li xora imase?
+\m Tolkova mnogo li xora imase?
+\g so       many    Q people had.3sg
+\l Were there SO MANY people?
+
+\t Iskljucitelno skâpa    li kola prodade?
+\m Iskljucitelno skâpa    li kola prodade?
+\g exceptionally expensive Q car sold.2/3sg
+\l Was it an EXTREMELY EXPENSIVE car that he/she/you sold?
+
+\t Sâvsem li nova roklja nosese?
+\m Sâvsem li nova roklja nosese?
+\g completely Q new dress wore.2/3sg
+\l Was it a COMPLETELY new dress that she/he/you wore?
+
+\t Tolkova li mnogo xora      imase?
+\m Tolkova li mnogo xora      imase?
+\g so       Q many people had.3sg
+\l Were there SO many people?
+
+\t Iskljucitelno li skâpa    kola prodade?
+\m Iskljucitelno li skâpa    kola prodade?
+\g exceptionally Q expensive car sold.2/3sg
+\l Was it an EXTREMELY expensive car that he/she/you sold?
+
+\t Mnogo li sa        mokri râkavite mu?
+\m Mnogo li sa        mokri râkavite mu?
+\g very   Q were wet sleeves.def him.dat
+\l Were his sleeves VERY wet?
+
+\t Trjabva da kupja               kniga.
+\m Trjabva da kupja               kniga.
+\g   Must     to buy.1P.Sg.Pres.book
+\l I must buy a book.
+
+\t Toi zapja                pesen.
+\m Toi za-pja                pesen.
+\g      He pref-sing.3P.Sg.Pperf.song
+\l He started to sing a song.
+
+\t  Toi izpia pesen.
+\m  Toi iz-pia pesen.
+\g He pref-sing-3P.Sg.Pperf.song
+\l He sang a song.
+
+\t Pi                   vodkata edin/za edin chas.
+\m Pi                   vodka-ta edin/za edin chas.
+\g  drink-3P.Sg.Pperf.vodka- the.Fem one/for one hour.
+\l He/she drank the vodka for an hour/in an hour.
+
+\t  Izpi                 vodkata *edin/za edin chas.
+\m  Iz-pi                 vodka-ta *edin/za edin chas.
+\g Pref-drink.3P.Sg.Pperf.vodka- the.Fem.one/for one hour.
+\l He/she drank up the vodka *for an hour/in an hour.
+
+\t Bojadisah ogradata za edin chas/*edin chas
+\m Bojadisah ograda-ta za edin chas/*edin chas
+\g paint.1P.Sg.Pperf.fence-the za one hour/one hour
+\l I painted the fence in an hour/*for an hour.
+
+\t  Prebojadisah ogradata za edin chas/*edni chas.
+\m  Pre-bojadisah ogradata za edin chas/*edni chas.
+\g Pref-paint.1P.Sg.Pperf.fence-the za one hour/one hour
+\l I repainted the fence in an hour/*for an hour.
+
+\t Chetoh poezia *za edin chas/edin chas.
+\m Chetoh poezia *za edin chas/edin chas.
+\g  Read.1Sg.Pperf.poetry za one hour/one hour
+\l I read poetry *in an hour/for an hour.
+
+\t b. Prochetoh poezia za edin chas/*edin chas.
+\m b. Pro-chetoh poezia za edin chas/*edin chas.
+\g       Pref-read.1Sg.Pperf.poetry za one hour/one hour
+\l I read out poetry in an hour/*for an hour.
+
+\t Pochetoh poezia *za edin chas/edin chas.
+\m Po-chetoh poezia *za edin chas/edin chas.
+\g   Pref-read.1Sg.Pperf.poetry za one hour/one hour
+\l I read (for a while) poetry *in an hour/for an hour.
+
+\t a. Poslednata uchastnichka pja                    edin chas/*za edin chas.
+\m a. Poslednata uchastnichka pja                    edin chas/*za edin chas.
+\g Last-the-fem.Participant-fem sing.3P.Sg.Pperf.one hour/for one   hour
+\l The last participant sang for an hour/*in an hour.
+
+\t b. Tja kaza                rechta *edin chas/za edin chas.
+\m b. Tja kaza                rech-ta *edin chas/za edin chas.
+\g      She say.3P.Sg.Pperf.speech-the one hour/for one hour
+\l She said the speech *for an hour/in an hour.
+
+\t a. jabulka
+\m a. jabulka
+\g  apple/Sg./Fem.
+\l an apple
+
+\t  jabulkata
+\m  jabulka-ta
+\g apple/Sg./Fem.-Def.
+\l the apple
+
+\t a. jabulki
+\m a. jabulki
+\g   apple.Pl..Fem.
+\l apples
+
+\t jabulkite
+\m jabulki-te
+\g apple.Pl.Fem-Def.
+\l the apples
+
+\t  Jadoh          jabulki vchera.      Jadjah              jabulkite i razmishljavah                nad juvota.
+\m  Jadoh          jabulki vchera.      Jadjah              jabulkite i razmishljavah                nad juvota.
+\g Eat.1P.Sg.Pperf.apples yesterday     Eat.1P.Sg.Pimperf.apples-the and contemplate-1P.Sg.Pimperf over life-the
+\l I ate apples yesterday. I was eating the apples contemplating about life.
+
+\t Slushah            muzika vchera.         Slushah              muzikata i rmishljavah                     nad jivota.
+\m Slushah            muzika vchera.         Slushah              muzikata i rmishljavah                     nad jivota.
+\g Listen.1P.Sg.Pperf.music   yesterday      Listen.1P.Sg.Pimperf.music-the and contemplate.1P.Sg.Pimperf over life-the 
+\l I listened to music yesterday. I was listening to the music and contemplating about life.
+
+\t John pulni rezervoara *za chas/edin chas.
+\m John pulni rezervoar-a *za chas/edin chas.
+\g John fill.3Sg.Pperf.trunk-the(obl.) za hour/one hour
+\l John filled the tank *in an hour/for an hour.
+
+\t John napulni rezervoara za chas/*edin chas.
+\m John na-pulni rezervoar-a za chas/*edin chas.
+\g John pref-fill.3Sg.Pperf.trunk-the(obl.) za hour/one hour
+\l John filled the tank up in an hour/*for an hour.
+
+\t John prazni               rezervoara *za chas/edin chas.
+\m John prazni               rezervoar-a *za chas/edin chas.
+\g   John empty.3Sg.Pperf.trunk-the(obl.) za hour/one hour
+\l John emptied the tank *in an hour/for an hour.
+
+\t John izprazni               rezervoara za chas/*edin chas.
+\m John iz-prazni               rezervoar-a za chas/*edin chas.
+\g   John pref-empty.3Sg.Pperf.trunk-the(obl.) za hour/one hour
+\l John emptied the tank out in an hour/*for an hour.
+
+\t John prazni dva litra voda ot rezervoara                   ?za chas/edin chas.
+\m John prazni dva litra voda ot rezervoar-a                   ?za chas/edin chas.
+\g    John empty-.Sg.Pperf.two liters water from trunk-the(obl.) za hour/one hour
+\l John emptied two liters of water from the tank ?in an hour/for an hour.
+
+\t John prazni voda ot rezervoara                    * za chas/edin chas.
+\m John prazni voda ot rezervoara                    * za chas/edin chas.
+\g   John empty.3Sg.Pperf.water from trunk-the(obl.) za hour/one hour
+\l John emptied water from the tank *in an hour/for an hour.
+
+\t John izprazni                dva litra voda ot rezervoara za chas/*edin chas.
+\m John iz-prazni                dva litra voda ot rezervoar-a za chas/*edin chas.
+\g    John pref-empty.3Sg.Pperf.two liters water from trunk-the(obl.) za hour/one hour
+\l John emptied out two liters of water from the tank ?in an hour/for an hour.
+
+\t John izprazni voda ot rezervoara za chas/*edin chas.
+\m John iz-prazni voda ot rezervoara za chas/*edin chas.
+\g   John pref-empty.3Sg.Pperf.water from trunk-the(obl.) za hour/one hour
+\l John emptied out water from the tank in an hour/*for an hour.
+
+\t  John chete dve stranici ot knigata *za chas/edin chas.
+\m  John chete dve stranici ot kniga-ta *za chas/edin chas.
+\g John read.3Sg.Pperf.two pages from book-the za hour/one hour
+\l John read two pages of the book *in an hour/for an hour.
+
+\t  John chete         poezia *za chas/edin chas.
+\m  John chete         poezia *za chas/edin chas.
+\g John read.3Sg.Pperf.poetry za hour/one hour
+\l John read poetry *in an hour/for an hour.
+
+\t  John prochete dve stranici ot knigata za chas/*edin chas.
+\m  John pro-chete dve stranici ot kniga-ta za chas/*edin chas.
+\g John pref-read.3Sg.Pperf.two pages from book-the za hour/one hour
+\l John read out two pages of the book *in an hour/for an hour.
+
+\t John prochete           poezia za chas/*edin chas.
+\m John pro-chete           poezia za chas/*edin chas.
+\g John pref-read.3Sg.Pperf.poetry za hour/one hour
+\l John read out poetry in an hour/*for an hour.
+
+\t  John pisa            dve starnici ot statiata si *za 4 chasa/4 chasa.
+\m  John pisa            dve starnici ot statia-ta si *za 4 chasa/4 chasa.
+\g John write.3Sg.Pperf.two pages from atricle-the his za 4 hours/4 hours
+\l John wrote two pages of his article *in 4 hours/4 hours.
+
+\t b. John pisa          poezia *za 4 chasa/4chasa.
+\m b. John pisa          poezia *za 4 chasa/4chasa.
+\g   John write.3Sg.Pperf.poetry za 4 hours/4 hours
+\l John wrote poetry *in 4 hours/for 4 hours.
+
+\t John napisa              dve starnici ot statiata si za 4 chasa/*4 chasa.
+\m John na-pisa              dve starnici ot statia-ta si za 4 chasa/*4 chasa.
+\g John pref-write.3Sg.Pperf.two pages from atricle-the his za 4 hours/4 hours
+\l John wrote down two pages of his article in 4 hours/*for 4 hours.
+
+\t John napisa            poezia za 4 chasa/*4chasa.
+\m John na-pisa            poezia za 4 chasa/*4chasa.
+\g John pref-write.3Sg.Pperf.poetry za 4 hours/4 hours
+\l John wrote down poetry in 4 hours/*for 4 hours.
+
+\t John gotvi           dva kilograma kartofi *za chas/edin chas.
+\m John gotvi           dva kilograma kartofi *za chas/edin chas.
+\g John cook.3Sg.Pperf.two kilos         potatoes za hour/one hour
+\l John cooked two kilos of potatoes *in an hour/for an hour.
+
+\t John gotvi zele *za chasa/edin chas.
+\m John gotvi zele *za chasa/edin chas.
+\g John cook.3Sg.Pperf.cabbage za hour/one hour
+\l John cooked cabbage *in an hour/for an hour.
+
+\t  John sgotvi             tenjera zadusheno za chas/*edin chas.
+\m  John s-gotvi             tenjera zadusheno za chas/*edin chas.
+\g John pref-cook.3Sg.Pperf.pot       stew          za hour/one hour
+\l John cooked up a pot of stew in an hour/*for an hour.
+
+\t John sgotvi                   zele *za chasa/edin chas.
+\m John s-gotvi                   zele *za chasa/edin chas.
+\g John pref-cook.3Sg.Pperf.cabbage za hour/one hour
+\l John cooked cabbage *in an hour/for an hour.
+
+\t John sturga           dva morkova *za deset minuti/deset minuti.
+\m John sturga           dva morkova *za deset minuti/deset minuti.
+\g John grate.3Sg.Pperf.two carrots        za ten minutes     /ten minutes
+\l John grated two carrots *in ten minutes/for ten minutes.
+
+\t John sturga            sirene *za deset minuti/deset minuti.
+\m John sturga            sirene *za deset minuti/deset minuti.
+\g John grate.3Sg.Pperf.cheese za ten minutes       /ten minutes
+\l John grated cheese *in ten minutes/for ten minutes.
+
+\t John nasturga            dva morkova samo za deset minuti/*deset minuti.
+\m John na-sturga            dva morkova samo za deset minuti/*deset minuti.
+\g John pref-grate.3Sg.Pperf.two carrots     just      za ten minutes   /ten minutes
+\l John grated two carrots up in just ten minutes/*for ten minutes.
+
+\t John nasturga          sirene za pastata samo za deset minuti/*deset minuti.
+\m John na-sturga          sirene za pasta-ta samo za deset minuti/*deset minuti.
+\g John pref-grate.3Sg.Pperf.cheese for pasta-the just      za ten minutes   /ten minutes
+\l John grated up cheese for the pasta in just ten minutes/*for ten minutes.
+
+\t  John topli           chainika *za deset minuti/deset minuti.
+\m  John topli           chainika *za deset minuti/deset minuti.
+\g John heat.3Sg.Pperf.pot-the(obl.) za ten minutes/ten minutes
+\l John heated the pot *in ten minutes/for ten minutes.
+
+\t John topli voda *za deset minuti/deset minuti.
+\m John topli voda *za deset minuti/deset minuti.
+\g John heat.3Sg.Pperf.water za ten minutes/ten minutes
+\l John heated water *in ten minutes/for ten minutes.
+
+\t John stopli            chainika za deset minuti/*deset minuti.
+\m John s-topli            chainika za deset minuti/*deset minuti.
+\g John pref-heat.3Sg.Pperf.pot-the(obl.) za ten minutes/ten minutes
+\l John heated the pot up in ten minutes/*for ten minutes.
+
+\t John stopli voda samo za deset minuti/*celi deset minuti.
+\m John s-topli voda samo za deset minuti/*celi deset minuti.
+\g  John pref-heat.3Sg.Pperf.water just za ten minutes/whole ten minutes
+\l John heated water up in just ten minutes/*for whole ten minutes.
+
+\t John topi parcheto shokolad *za dest minuti/deset minuti.
+\m John topi parche-to shokolad *za dest minuti/deset minuti.
+\g John melt.3Sg.Pperf.piece-the chocolate za ten minutes/ten minutes
+\l John melted the piece of chocolate *in ten minutes/for ten minutes.
+
+\t John topi shokolad za keika *za deset minuti/deset minuti.
+\m John topi shokolad za keik-a *za deset minuti/deset minuti.
+\g        John melt.3Sg.Pperf.chocolate for cake-the(obl.) za ten minutes/ten minutes
+\l John melted chocolate for the cake *in ten minutes/for ten minutes.
+
+\t John raztopi              parcheto shokolad za dest minuti/*deset minuti.
+\m John raz-topi              parche-to shokolad za dest minuti/*deset minuti.
+\g    John pref-melt.3Sg.Pperf.piece-the chocolate      za ten minutes/ten minutes
+\l John melted the piece of chocolate down in ten minutes/*for ten minutes.
+
+\t d. John raztopi             shokolad za keika samo za deset minuti/*celi deset.         minuti 
+\m d. John raz-topi             shokolad za keik-a samo za deset minuti/*celi deset.         minuti 
+\g       John pref-melt.3Sg.Pperf.chocolate for cake-the(obl.) just za ten minutes/whole ten minutes
+\l John melted down chocolate for the cake in ten minutes/*for ten minutes.
+
+\t Rastenieto vehna samo *za 5 dni/5 dni.
+\m Rastenie-to vehna samo *za 5 dni/5 dni.
+\g    Plant-the wither.3Sg.Pperf.just za 5 days/5days
+\l The plant withered *in just 5 days/5 days.
+
+\t Plodat vehna na lozata samo *za 3 dni/celi 3 dni.
+\m Plod-at vehna na loza-ta samo *za 3 dni/celi 3 dni.
+\g Fruit-the wither.3Sg.Pperf.on vine-the just za 3 days/whole 3 days
+\l The fruit withered on the vine *in just 3 days/for 3 whole days.
+
+\t Rastenieto uvehna samo za 5 dni/*5 dni.
+\m Rastenie-to u-vehna samo za 5 dni/*5 dni.
+\g  Plant-the pref-wither.3Sg.Pperf.just za 5 days/5days
+\l The plant withered away in just 5 days/*5 days.
+
+\t Plodat vehna na lozata samo *za 3 dni/celi 3 dni.
+\m Plod-at vehna na loza-ta samo *za 3 dni/celi 3 dni.
+\g Fruit-the wither.3Sg.Pperf.on vine-the just za 3 days/whole 3 days
+\l The fruit withered on the vine *in just 3 days/for 3 whole days.
+
+\t  Fotbolistat debelja *za edin sezon/3 sezona podred.
+\m  Fotbolist-at debelja *za edin sezon/3 sezona podred.
+\g Footballer-the put.on.weight.3Sg.Pperf.za one season/3 seasons in/a/row
+\l The footballer put on weight in *in a season/for 3 seasons in a row.
+
+\t  Fotbolistat nadebelja                      za edin sezon/*3 sezona podred.
+\m  Fotbolist-at na-debelja                      za edin sezon/*3 sezona podred.
+\g Footballer-the pref-put.on.weight.3Sg.Pperf.za one season/3 seasons in/a/row
+\l The footballer put on weight in in a season/*for 3 seasons in a row.
+
+\t John izbeli             kurpata za dva chasa/*dva chasa.
+\m John iz-beli             kurpa-ta za dva chasa/*dva chasa.
+\g  John pref-whiten.3Sg.Pperf.towel-the za two hours/two hours.
+\l John whitened up the towel in 2 hours/*for 2 hours.
+
+\t d. John izbeli              pamuk za dva chasa/*dva chasa.
+\m d. John iz-beli              pamuk za dva chasa/*dva chasa.
+\g   John pref-whiten.3Sg.Pperf.cotton za two hours/two hours.
+\l John whitened cotton up in 2 hours/for 2 hours.
+
+\t c. John zatumni             stajata za 2 minuti/*2 minuti.
+\m c. John za-tumni             staja-ta za 2 minuti/*2 minuti.
+\g   John pref-darken.3Sg.Pperf.room-the za 2 minutes/2 minutes
+\l John darkened up the room in 2 minutes/*for 2 minutes.
+
+\t  John zatumni                fotografska hartia za 2 minuti/*2 minuti.
+\m  John za-tumni                fotografska hartia za 2 minuti/*2 minuti.
+\g John pref-darken.3Sg.Pperf.photographic paper     za 2 minutes/2 minutes
+\l John darkened up photographic paper in 2 minutes/*for 2 minutes.
+
+\t  John jade mangoto samo *za minuta/edna minuta.
+\m  John jade mango-to samo *za minuta/edna minuta.
+\g John eat.3Sg.Pperf.mango-the just za minute/one minute
+\l John ate the mango *in just a minute/for a minute.
+
+\t John jade kasha *za 2 minuti/2 minuti.
+\m John jade kasha *za 2 minuti/2 minuti.
+\g John eat.3Sg.Pperf.porridge za 2 minutes/for 2 minutes.
+\l John ate porridge *in 2 minutes/for 2 minutes.
+
+\t John izjade mangoto za 2 minuti/*2 minutes.
+\m John iz-jade mango-to za 2 minuti/*2 minutes.
+\g John pref-eat.3Sg.Pperf.mango-the za 2 minutes/2 minutes
+\l John ate up the mango in 2 minutes/*for 2 minutes.
+
+\t John izjade kasha za 2 minuti/*2 minuti.
+\m John iz-jade kasha za 2 minuti/*2 minuti.
+\g  John pref-eat.3Sg.Pperf.porridge za 2 minutes/ 2 minutes.
+\l John ate up porridge in 2 minutes/*for 2 minutes.
+
+\t a. John pi              devet decilitra sok samo *za minuta/edna minuta.
+\m a. John pi              devet decilitra sok samo *za minuta/edna minuta.
+\g   John drink.3Sg.Pperf.nine    deciliters juice just       za minute/one minute
+\l John drank nine deciliters of juice *in just a minute/for a minute.
+
+\t b. John pi                   sok *za 2 minuti/2 minuti.
+\m b. John pi                   sok *za 2 minuti/2 minuti.
+\g    John drink.3Sg.Pperf.juice za 2 minutes/2 minutes
+\l John drank juice *in 2 minutes/for 2 minutes.
+
+\t John izpi                 devet decilitra sok samo za minuta/*edna minuta.
+\m John iz-pi                 devet decilitra sok samo za minuta/*edna minuta.
+\g John pref-drink.3Sg.Pperf.nine    deciliters juice just za minute/ one minute
+\l John drank nine deciliters of juice up in just a minute/*for a minute.
+
+\t John izpi                   sok za 2 minuti/*2 minuti.
+\m John iz-pi                   sok za 2 minuti/*2 minuti.
+\g  John pref-drink.3Sg.Pperf.juice za 2 minutes/2 minutes
+\l John drank juice up in 2 minutes/*for 2 minutes.
+
+\t a. John upotrebi        burkanche gorchica samo za 2 dena/*celi 2 sedmici.
+\m a. John upotrebi        burkanche gorchica samo za 2 dena/*celi 2 sedmici.
+\g   John use.3Sg.Pperf.jar             mustard          just za 2 days   /whole 2 weeks
+\l John used a jar of mustard *in just 2 days/for whole 2 weeks.
+
+\t John upotrebi         gorchica za sandvichite si za dva dena/*dva dena.
+\m John upotrebi         gorchica za sandvichi-te si za dva dena/*dva dena.
+\g  John use-3Sg.Pperf.mustard for sandwiches-the his za two days/two days
+\l John used mustard for his sandwiches *in two days/for two days.
+
+\t John doupotrebi          burkanche gorchica samo za 2 dena/*celi 2 sedmici.
+\m John do-upotrebi          burkanche gorchica samo za 2 dena/*celi 2 sedmici.
+\g John pref-use.3Sg.Pperf.jar          mustard just za 2 days     /whole 2 weeks
+\l John used up a jar of mustard in just 2 days/*for whole 2 weeks.
+
+\t John doupotrebi          gorchica    za dva dena/*dva dena.
+\m John do-upotrebi          gorchica    za dva dena/*dva dena.
+\g  John pref-use.3Sg.Pperf.mustard     za two days/two days
+\l John used up mustard in two days/*for two days.
+
+\t Trjabva da kupja              kniga.
+\m Trjabva da kupja              kniga.
+\g   Must     to buy-1P.Sg.Pres.book
+\l I must buy a book.
+
+\t a. Toi subori         kushtata za den/*edin den.
+\m a. Toi subori         kushta-ta za den/*edin den.
+\g   He    ruin-3Sg.Pperf.house-the for day/one day
+\l He ruined the house in an hour/for an hour.
+
+\t Toi dosubori          kushtata za den/*edin den.
+\m Toi do-subori          kushta-ta za den/*edin den.
+\g He pref-ruin-3Sg.Pperf.house-the for day/*one day
+\l He ruined the house in an hour/*for an hour.
+
+\t a. Osvetih           stajata s fener za minutka/*edna minutka.
+\m a. Osvetih           staja-ta s fener za minutka/*edna minutka.
+\g  Lighten-3Sg.Pperf.room-the with torch for minute/*one minute
+\l I lightened the room with a torch in a minute/* for a minute.
+
+\t Osvetih              senoto s fener za minutka/*edna minutka.
+\m Osvetih              seno-to s fener za minutka/*edna minutka.
+\g  Lighten-3Sg.Pperf.hay-the with torch for minute/*one minute
+\l I lightened the hay with a torch in a minute/* for a minute.
+
+\t Doosvetih            stajata s fener za minutka/*edna minutka.
+\m Do-osvetih            staja-ta s fener za minutka/*edna minutka.
+\g Pref-lighten-3Sg.Pperf.room-the with torch for minute/*one minute
+\l I lightened the room up with a torch in a minute/* for a minute.
+
+\t d. Doosvetih               senoto s fener za minutka/*edna minutka.
+\m d. Do-osvetih               seno-to s fener za minutka/*edna minutka.
+\g    Pref-lighten-3Sg.Pperf.hay-the with torch for minute/*one minute
+\l I lightened the hay up with a torch in a minute/* for a minute.
+
+\t  John topli           chainika *za deset minuti/deset minuti.
+\m  John topli           chainika *za deset minuti/deset minuti.
+\g John heat.3Sg.Pperf.pot-the(obl.) za ten minutes/ten minutes
+\l John heated the pot *in ten minutes/for ten minutes.
+
+\t John topli voda *za deset minuti/deset minuti.
+\m John topli voda *za deset minuti/deset minuti.
+\g John heat.3Sg.Pperf.water za ten minutes/ten minutes
+\l John heated water *in ten minutes/for ten minutes.
+
+\t John stopli            chainika za deset minuti/*deset minuti.
+\m John s-topli            chainika za deset minuti/*deset minuti.
+\g John pref-heat.3Sg.Pperf.pot-the(obl.) za ten minutes/ten minutes
+\l John heated the pot up in ten minutes/*for ten minutes.
+
+\t John stopli voda samo za deset minuti/*celi deset minuti.
+\m John s-topli voda samo za deset minuti/*celi deset minuti.
+\g  John pref-heat.3Sg.Pperf.water just za ten minutes/whole ten minutes
+\l John heated water up in just ten minutes/*for whole ten minutes.
+
+\t na Ivana knigata az mu        ja      dadox
+\m na Ivana kniga-ta az mu        ja      dadox
+\g to Ivan book-the I 3sg:m:dat 3sg:f:acc give:past:1sg
+\l I gave the book to Ivan.
+
+\t Az       sßm      mu      go       dal.
+\m Az       sßm      mu      go       dal.
+\g I        be-1     him-dat          it-acc   given
+\l I have given it tohim'.
+
+\t Ne GO razbiram.
+\m Ne GO razbiram.
+\g neg it-acc understand-1
+\l (I) don't understand it
+
+\t Ne STE sßm pro...el knigata.
+\m Ne STE sßm pro...el knigata.
+\g  neg fut be-1 read book-the
+\l (I) will not have read the book
+
+\t Ste go     vi das li?
+\m Ste go     vi das li?
+\g fut him-acc see-2 Q
+\l Will (you) see him?
+
+\t Da ne MI ja           dades.
+\m Da ne MI ja           dades.
+\g mod neg me-acc it-acc give-2
+\l Don't give it to me!
+
+\t Ne STE li go        vi das?
+\m Ne STE li go        vi das?
+\g neg fut Q him-acc see-2
+\l Will (you) not see him?
+
+\t Vi dal li go         e?
+\m Vi dal li go         e?
+\g seen Q him-acc be-3
+\l Has (he) seen him?
+
+\t Koj kakvo mu        e    dal?
+\m Koj kakvo mu        e    dal?
+\g who what him-dat be-3 given
+\l Who gave what to him?
+
+\t Knigata, Penka ja      e      dala na Petko.
+\m Knigata, Penka ja      e      dala na Petko.
+\g book-the Penka her-acc be-3 given to Petko
+\l As for the book, Penka gave it to Petko
+
+\t Kakvo pro...ete Ivan?
+\m Kakvo pro...ete Ivan?
+\g  what read-3 Ivan
+\l What did Ivan read?
+
+\t Kakvo bese Ivan pro...el?
+\m Kakvo bese Ivan pro...el?
+\g   what was-3 Ivan read
+\l What had Ivan read?
+
+\t Kakvo e      Ivan pro...el?
+\m Kakvo e      Ivan pro...el?
+\g what be-3 Ivan read
+\l What has Ivan read?
+
+\t Pro...ete li Ivan knigata?
+\m Pro...ete li Ivan knigata?
+\g read-3 Q Ivan book-the
+\l Did Ivan read the book?
+
+\t Bese li Ivan pro...el knigata?
+\m Bese li Ivan pro...el knigata?
+\g was-3 Q Ivan read book-the
+\l Had Ivan read the book?
+
+\t Pro...el li e Ivan knigata?
+\m Pro...el li e Ivan knigata?
+\g read Q be-3 Ivan book-the
+\l Has Ivan read the book?
+
+\t Pro...el sßm knigata.
+\m Pro...el sßm knigata.
+\g read be-1 book-the
+\l (I) have read the book
+
+\t Pro...el ste sßm knigata.
+\m Pro...el ste sßm knigata.
+\g   read fut be-1 book-the
+\l (I) will have read the book
+
+\t Pro...el ne sßm knigata.
+\m Pro...el ne sßm knigata.
+\g   read neg be-1 book-the
+\l (I) have not read the book
+
+\t Ivana bese naburzo pro...ela knigite.
+\m Ivana bese naburzo pro...ela knigite.
+\g Ivana was-3 quickly read books-the
+\l Ivana had quickly read the books
+
+\t Studentite     bjaxa vsi...ki pro...eli knigite.
+\m Studentite     bjaxa vsi...ki pro...eli knigite.
+\g students-the were-3 all        read       books-the
+\l The students had all read the books
+
+\t Ivana e      naburzo pro...ela knigite.
+\m Ivana e      naburzo pro...ela knigite.
+\g   Ivana be-3 quickly read        books-the
+\l Ivana has quickly read the books
+
+\t Studentite sa         vsi...ki pro...eli knigite.
+\m Studentite sa         vsi...ki pro...eli knigite.
+\g   students-the be-3-pl all      read books-the
+\l The students have all read the books
+
+\t Ivana e     ve...e   pro...ela knigata.
+\m Ivana e     ve...e   pro...ela knigata.
+\g Ivana be-3 already read        book-the
+\l Ivana has already read the book
+
+\t Ivana bese ve...e pro...ela knigata.
+\m Ivana bese ve...e pro...ela knigata.
+\g Ivana was-3 already read         book-the
+\l Ivana had already read the book
+
+\t Georgi go       gleda    Marija.
+\m Georgi go       gleda    Marija.
+\g Georgi him-acc watch-3 Marija
+\l Marija is watching Georgi
+
+\t Georgi ja       gleda Marija.
+\m Georgi ja       gleda Marija.
+\g Georgi her-acc watch-3 Marija
+\l Georgi is watching Marija
+
+\t ,,ovekuti deto goi vidjax ti.
+\m ,,ovekuti deto goi vidjax ti.
+\g man-the that him saw-I
+\l The man that (I) saw
+
+\t Dali Ivan e otisßl?
+\m Dali Ivan e otisßl?
+\g wether Ivan be-3 left
+\l Has Ivan left?
+
+\t Otisßl li e Ivan?
+\m Otisßl li e Ivan?
+\g left Q be-3 Ivan
+\l Has Ivan left?
+
+\t Ste sßm pro...el knigata.
+\m Ste sßm pro...el knigata.
+\g fut be-1 read book-the
+\l (I) will have read the book
+
+\t Da ne MI           ja    dades.
+\m Da ne MI           ja    dades.
+\g mod neg me-acc it-acc give-2
+\l Don't give it to me!
+
+\t Ne STE sßm pro...el knigata.
+\m Ne STE sßm pro...el knigata.
+\g  neg fut be-1 read book-the
+\l (I) will not have read the book
+
+\t Obestavam da ne go         otnovo ostavjam sam.
+\m Obestavam da ne go         otnovo ostavjam sam.
+\g   promise-1 to not him-acc again leave-1 alone
+\l I promise to not leave him alone again
+
+\t ,,eti ja!
+\m ,,eti ja!
+\g read-imp it-acc
+\l Read it!
+
+\t Ne JA ...eti!
+\m Ne JA ...eti!
+\g neg it-acc read-imp
+\l Don't read it!
+
+\t Davaiki mu go...
+\m Davaiki mu go...
+\g giving him-dat it-acc
+\l Giving it to him...
+
+\t Kakvo ne pro...ete Ivan?
+\m Kakvo ne pro...ete Ivan?
+\g what neg read-3 Ivan
+\l What didn't Ivan read?
+
+\t Knigata, Penka ja     e     dala na Petko.
+\m Knigata, Penka ja     e     dala na Petko.
+\g book-the Penka it-acc be-3 given to Petko
+\l As for the book, Penka gave it to Petko
+
+\t Knigata, koj mu       e     dal?
+\m Knigata, koj mu       e     dal?
+\g book-the who him-dat be-3 given
+\l As for the book, who gave it to him?
+
+\t Koj kakvo mu       e   dal?
+\m Koj kakvo mu       e   dal?
+\g who what him-dat be-3 given
+\l Who gave what to him?
+
+\t Mislja [CP ...e e isljazßl].
+\m Mislja [CP ...e e isljazßl].
+\g think-1 that be-3 gone out
+\l (I) think that (he) went out
+
+\t Ne znaja [CP dali e isljazßl].
+\m Ne znaja [CP dali e isljazßl].
+\g neg know-1 wether be-3 gone out
+\l (I) don't know wether (he) went out
+
+\t Tova a knigata [CP deto ja kupix].
+\m Tova a knigata [CP deto ja kupix].
+\g this is book-the that it bought-1
+\l This is the book that (I) bought
+
+\t  Ne znam [CP kogo si vidjal].
+\m  Ne znam [CP kogo si vidjal].
+\g neg know-1 who be-2 seen
+\l (I) don't know who (you) saw
+
+\t Izpratix li mu     kniga?
+\m Izpratix li mu     kniga?
+\g sent-1 Q him-dat book
+\l Did (I) send him a book?
+
+\t Ne MU li izpratix kniga?
+\m Ne MU li izpratix kniga?
+\g not him-dat Q sent-1 book
+\l Didn't (I) send him a book?
+
+\t Knigata, Petko li mu e dal?
+\m Knigata, Petko li mu e dal?
+\g book-the-TOP Petko-FOC Q him-dat be-3 given
+\l As for the book, is it Petko who gave it to him?
+
+\t Koj kde mislis [ce e otisl _ _]?
+\m Koj kde mislis [ce e otisl _ _]?
+\g who where think-2.SG.that has gone
+\l Who do you think (that) went where?
+
+\t Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\m Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\g saw-1.SG.a book which wonder-1.SG.who knows who sells
+\l I saw a book which I wonder who knows who sells (it).
+
+\t Kakvo se cudis koj znae koj prodava?
+\m Kakvo se cudis koj znae koj prodava?
+\g   what wonder-2.SG.who knows who sells
+\l What do you wonder who knows who sells?
+
+\t Koja ot tezi knigi se cudis koj znae koj prodava?
+\m Koja ot tezi knigi se cudis koj znae koj prodava?
+\g     which of these books wonder-2.SG.who knows who sells
+\l Which of these books do you wonder who knows who sells?
+
+\t Koj, spored tebe, kakvo e kazal?
+\m Koj, spored tebe, kakvo e kazal?
+\g      who according to you what has said
+\l Who, in your option, said what?
+
+\t Koj kogo vizda?
+\m Koj kogo vizda?
+\g who whom sees
+\l Who sees whom?
+
+\t Koj kogo na kogo e pokazal?
+\m Koj kogo na kogo e pokazal?
+\g who whom to whom has pointed out
+\l Who pointed out who to whom?
+
+\t Zavisi ot tova, koj prv kogo e udaril
+\m Zavisi ot tova, koj prv kogo e udaril
+\g depends on it who first whom is hit
+\l It depends on who hit whom first first.
+
+\t Koj kakvo spored tebe e kazal?
+\m Koj kakvo spored tebe e kazal?
+\g who according to you what has said
+\l Who, in your option, said what?
+
+\t Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\m Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\g saw-1s a book which wonder-1s who knows who sells
+\l I saw a book which I wonder who knows who sells (it).
+
+\t Kakvo se cudis koj znae koj prodava?
+\m Kakvo se cudis koj znae koj prodava?
+\g   what wonder-2s who knows who sells
+\l What do you wonder who knows who sells?
+
+\t Koja ot tezi knigi se cudis koj znae koj prodava?
+\m Koja ot tezi knigi se cudis koj znae koj prodava?
+\g     which of these books wonder-2s who knows who sells
+\l Which of these books do you wonder who knows who sells?
+
+\t Ne razbiras na koja zena kakv mz trjabva. NO SUPERIORITY
+\m Ne razbiras na koja zena kakv mz trjabva. NO SUPERIORITY
+\g NEG understand-2s to which woman what kind man is necessary
+\l You don't understand what kind of man which woman needs.
+
+\t Kogo kakvo e pital Ivan?
+\m Kogo kakvo e pital Ivan?
+\g whom         what is asked Ivan
+\l Who did Ivan ask what?
+
+\t Koj kakvo na kogo kaza?
+\m Koj kakvo na kogo kaza?
+\g who-NOM what-ACC to whom-DAT said
+\l Who said what to whom?
+
+\t Kogo kde e vidjal covekt?
+\m Kogo kde e vidjal covekt?
+\g whom where is seen the man
+\l Who did the man see where?
+
+\t Koj kogo na koj e pokazal?
+\m Koj kogo na koj e pokazal?
+\g who-NOM whom-ACC to who-DAT CL showed
+\l ,Who pointed out whom to who?`
+
+\t Koj kogo vizda?
+\m Koj kogo vizda?
+\g who-NOM whom-ACC sees
+\l Who sees whom?
+
+\t Koj kakvo pravi?
+\m Koj kakvo pravi?
+\g Who-NOM what-ACC does
+\l Who does what?
+
+\t Koj na kogo e dal ximikalkata?
+\m Koj na kogo e dal ximikalkata?
+\g who-NOM to whom-DAT CL given pen-ACC
+\l ,Who gave the pen to whom?`
+
+\t Koj kak ptuva?
+\m Koj kak ptuva?
+\g who how travels
+\l Who travels how?
+
+\t Koj kde ste spi?
+\m Koj kde ste spi?
+\g who where will sleep
+\l Who will sleep where?
+
+\t   Koj zasto ti xaresva?
+\m   Koj zasto ti xaresva?
+\g who-NOM why CL-DAT.2.SG is-pleasing
+\l Who do you liek why?
+
+\t Kakvo kde te udari?
+\m Kakvo kde te udari?
+\g what-NOM where you-ACC hit-3.SG
+\l What hit you where?
+
+\t Kakvo koga e kupil?
+\m Kakvo koga e kupil?
+\g what-ACC when CL bought
+\l When did he buy what?
+
+\t Majka mui obica vseki coveki
+\m Majka mui obica vseki coveki
+\g      mother his love every person
+\l ,Hisi mother loves everyonei.`
+
+\t Kogo kak e tselunal Ivan?
+\m Kogo kak e tselunal Ivan?
+\g whom how is kissed Ivan
+\l ,How did Ivan kiss who?`
+
+\t Kogo kde ste videli?
+\m Kogo kde ste videli?
+\g whom-ACC where CL seen
+\l ,Whom did you see where?`
+
+\t Nisto ne rarbiram.
+\m Nisto ne rarbiram.
+\g nothing NEG understand-1.SG.
+\l I don't understand anything.
+
+\t Kogo kakvo e udarilo?
+\m Kogo kakvo e udarilo?
+\g whom-ACC what-NOM CL hit
+\l What hit whom?
+
+\t Kakvo kogo e udarilo?
+\m Kakvo kogo e udarilo?
+\g what-NOM whom-ACC CL hit
+\l What hit whom?
+
+\t Kogo kakvo e udarilo?
+\m Kogo kakvo e udarilo?
+\g whom-ACC what-NOM CL hit
+\l What hit whom?
+
+\t Koj na kogo kakvo e kazal?
+\m Koj na kogo kakvo e kazal?
+\g who-NOM to whom-DAT what-ACC CL.3.SG said
+\l Who said what to whom?
+
+\t Koga kakvo e kupil?
+\m Koga kakvo e kupil?
+\g when what CL bought
+\l When did he buy what?
+
+\t Koj kogo vizda?
+\m Koj kogo vizda?
+\g who-NOM whom-ACC sees
+\l Who sees whom?
+
+\t Koj kakvo pravi?
+\m Koj kakvo pravi?
+\g Who-NOM what-ACC does
+\l Who does what?
+
+\t Kogo kakvo e udarilo?
+\m Kogo kakvo e udarilo?
+\g whom-ACC what-NOM CL hit
+\l What hit whom?
+
+\t Kakvo kogo e udarilo?
+\m Kakvo kogo e udarilo?
+\g what-NOM whom-ACC CL hit
+\l What hit whom?
+
+\t Koj na kogo e dal ximikalkata?
+\m Koj na kogo e dal ximikalkata?
+\g who-NOM to whom-DAT CL given pen-ACC
+\l Who gave the pen to whom?
+
+\t Koj na koj mu xaresva?
+\m Koj na koj mu xaresva?
+\g who-NOM to who-DAT CL-DAT is-pleasing
+\l Who is pleasing to who?
+
+\t Kogo na kogo e pokazal Ivan?
+\m Kogo na kogo e pokazal Ivan?
+\g whom-ACC to whom-DAT CL showed Ivan-NOM
+\l Whom did Ivan show to whom?
+
+\t Kogo na koj e pokazal Ivan?
+\m Kogo na koj e pokazal Ivan?
+\g Whom-ACC to who-DAT CL showed Ivan-NOM
+\l Whom did Ivan point out to whom?
+
+\t Koj kak ptuva?
+\m Koj kak ptuva?
+\g who how travels
+\l Who travels how?
+
+\t Koj kde ste spi?
+\m Koj kde ste spi?
+\g who where will sleep
+\l Who will sleep where?
+
+\t Koj zasto ti xaresva?
+\m Koj zasto ti xaresva?
+\g who-NOM why CL-DAT.2.SG is-pleasing
+\l Who do you liek why?
+
+\t Kogo kde ste videli?
+\m Kogo kde ste videli?
+\g whom-ACC where CL seen
+\l Whom did you see where?
+
+\t Kakvo koga e kupil?
+\m Kakvo koga e kupil?
+\g what-ACC when CL bought
+\l When did he buy what?
+
+\t Kakvo kde raste?
+\m Kakvo kde raste?
+\g what-NOM where grows
+\l What grows where?
+
+\t Koj kde mislis [ce e otisl _ _]?
+\m Koj kde mislis [ce e otisl _ _]?
+\g who where think-2s that has gone
+\l Who do you think (that) went where?
+
+\t Boris na kogo kakvo kaza [ce ste dade _ _]?
+\m Boris na kogo kakvo kaza [ce ste dade _ _]?
+\g Boris to whom what said that will give-3s
+\l What did Boris say that (he) would give to whom?
+
+\t Coveka, kojto kakvo ne znaes [kakvo kazvat [ce e kupil _ _] ..
+\m Coveka, kojto kakvo ne znaes [kakvo kazvat [ce e kupil _ _] ..
+\g the man who-REL NEG know-2s what say-3p that has bought
+\l The man who you don't know what they say that he bought ..
+
+\t Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\m Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\g saw-1s a book which wonder-1s who knows who sells
+\l I saw a book which I wonder who knows who sells (it).
+
+\t Kakvo se cudis koj znae koj prodava?
+\m Kakvo se cudis koj znae koj prodava?
+\g what wonder-2s who knows who sells
+\l What do you wonder who knows who sells?
+
+\t Koj kakvo ti e kazal?
+\m Koj kakvo ti e kazal?
+\g who what you has told
+\l Who told you what?
+
+\t Zavisi ot tova, koj kogo prv e udaril.
+\m Zavisi ot tova, koj kogo prv e udaril.
+\g depends on it who whom first is hit
+\l It depends on who hit whom first first.
+
+\t Koj kakvo na kogo dade?
+\m Koj kakvo na kogo dade?
+\g who what to whom gave
+\l Who gave what to whom?
+
+\t Koj na kogo kavo s kakvo napisa?
+\m Koj na kogo kavo s kakvo napisa?
+\g who to whom what with what wrote
+\l Who wrote what to whom with what?
+
+\t Koj kogo na kogo kakvo ubedi da dade?
+\m Koj kogo na kogo kakvo ubedi da dade?
+\g who whom to whom what convinced to give
+\l Who convinced whom to give what to whom?
+
+\t Koja kniga otrece senatort [mlvata ce iska da zabrani ____]?
+\m Koja kniga otrece senatort [mlvata ce iska da zabrani ____]?
+\g which book denied the-senator the ­rumor that wanted to ban
+\l Which book did the seantor deny the rumor that he wanted to ban?
+
+\t Koj senator1 koja kniga2 otrece ____1 [mlvata ce e iska da zabrani ____2]?
+\m Koj senator1 koja kniga2 otrece ____1 [mlvata ce e iska da zabrani ____2]?
+\g which senator which book denied the-rumor that wanted to ban
+\l Which senator denied the rumor that he wanted to ban which book?
+
+\t Koj kude mislis [ce e otisul _ _ ]?
+\m Koj kude mislis [ce e otisul _ _ ]?
+\g      who where think-2s that has gone
+\l Who do you think (that) went where?
+
+\t Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\m Vidjah edna kniga, kojatoi se cudja [koj znae [koj prodava _ i]]
+\g   saw-1s a book which wonder-1s who knows who sells
+\l I saw a book which I wonder who knows who sells (it).
+
+\t Kakvo se cudis koj znae koj prodava?
+\m Kakvo se cudis koj znae koj prodava?
+\g    what wonder-2s who knows who sells
+\l What do you wonder who knows who sells?
+
+\t Koja ot tezi knigi se cudis koj znae koj prodava?
+\m Koja ot tezi knigi se cudis koj znae koj prodava?
+\g  which of these books wonder-2s who knows who sells
+\l Which of these books do you wonder who knows who sells?
+
+\t Koj kogo vizda?
+\m Koj kogo vizda?
+\g    who whom sees
+\l Who sees whom?
+
+\t Zavisi ot tova, koj pruv kogo e udaril
+\m Zavisi ot tova, koj pruv kogo e udaril
+\g   depends on it who first whom is hit
+\l It depends on who hit whom first first.
+
+\t Koj kakvo spored tebe e kazal?
+\m Koj kakvo spored tebe e kazal?
+\g    who according to you what has said
+\l Who, in your option, said what? 
+
+\t Koj li kogo e udaril?
+\m Koj li kogo e udaril?
+\g     who Q whom hit
+\l Who(ever) hit who?
+
+\t Kogo kude e vidjal covekut?
+\m Kogo kude e vidjal covekut?
+\g  whom where is seen the man
+\l Who did the man see where?
+
+\t Koj kogo na koj e pokazal?
+\m Koj kogo na koj e pokazal?
+\g    who-NOM whom-ACC to who-DAT CL showed
+\l Who pointed out whom to who?
+
+\t Sta uslovljava sta?
+\m Sta uslovljava sta?
+\g  what conditions what
+\l What conditions what?
+
+\t Koj kogo vizda?
+\m Koj kogo vizda?
+\g  who-NOM whom-ACC sees
+\l Who sees whom?
+
+\t Koj kakvo pravi?
+\m Koj kakvo pravi?
+\g who-NOM what-ACC does
+\l Who does what?
+
+\t Koj na kogo e dal ximikalkata?
+\m Koj na kogo e dal ximikalkata?
+\g who-NOM to whom-DAT CL given pen-ACC
+\l Who gave the pen to whom?
+
+\t Koj kade ste spi?
+\m Koj kade ste spi?
+\g who where will sleep
+\l Who will sleep where?
+
+\t Koj zasto ti xaresva?
+\m Koj zasto ti xaresva?
+\g who-NOM why CL-DAT.2.SG is-pleasing
+\l Who do you liek why?
+
+\t Kakvo kade te udari?
+\m Kakvo kade te udari?
+\g    what-NOM where you-ACC hit-3.SG
+\l What hit you where?
+
+\t Kakvo koga e kupil?
+\m Kakvo koga e kupil?
+\g    what-ACC when CL bought
+\l When did he buy what?
+
+\t Kakvo kade raste?
+\m Kakvo kade raste?
+\g what-NOM where grows
+\l What grows where?
+
+\t uvelicivane        na   produkcijata       od      rabotnici
+\m uvelicivane        na   produkcijata       od      rabotnici
+\g increase           of   productionDEF      by      workers
+\l an increase in the production by workers
+
+\t mojat Rembrandov portret na Aristotel
+\m mojat Rembrandov portret na Aristotel
+\g my-the Rembrandt's portrait of Aristotle
+\l my portrait of Aristotle by Rembrandt
+
+\t na Ivan knigata
+\m na Ivan knigata
+\g book-the of Ivan
+\l Ivan's book
+
+\t novata Ivanova kniga
+\m novata Ivanova kniga
+\g Ivanovata nova kniga
+\l Ivan's new book
+
+\t Ivanovata dârvena kâsta
+\m Ivanovata dârvena kâsta
+\g dârvenata Ivanova kâsta
+\l Ivan's wooden house
+
+\t Ne go eti!
+\m Ne go eti!
+\g Neg it.ACC.CL read.2SG.IMP
+\l Don't read it
+
+\t Ne go eti!
+\m Ne go eti!
+\g Neg it.ACC.CL read.2SG.IMP
+\l Don't read it
+
+\t  Na kogo kakvo dade Ivan?
+\m  Na kogo kakvo dade Ivan?
+\g to who    what gave Ivan
+\l What did Ivan give to who?
+
+\t a. *Koj e kupil kakvo?
+\m a. *Koj e kupil kakvo?
+\g   who is bought what
+\l Who bought what?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t Koj, spored      tebe, kakvo e kupil?
+\m Koj, spored      tebe, kakvo e kupil?
+\g   who according you what is bought
+\l Who, according to you, bought what?
+
+\t Koj, spored     tebe, koja kniga e kupil?
+\m Koj, spored     tebe, koja kniga e kupil?
+\g  who according you which book is bought
+\l Who, according to you, bought which book?
+
+\t Koj na kogo kogo e pokazal?
+\m Koj na kogo kogo e pokazal?
+\g         who to whom whom is pointed-out
+\l Who point out whom to whom?
+
+\t  Kogo kak e tselunal Ivan?
+\m  Kogo kak e tselunal Ivan?
+\g whom how is kissed Ivan
+\l How did Ivan kiss whom?
+
+\t  Koj kogo kak e tselunal?
+\m  Koj kogo kak e tselunal?
+\g who whom how is kissed
+\l Who kissed whom how?
+
+\t  Kogo kakvo e pital Ivan?
+\m  Kogo kakvo e pital Ivan?
+\g whom what is asked Ivan
+\l Whom did Ivan ask what?
+
+\t  Koj kogo kakvo e pital?
+\m  Koj kogo kakvo e pital?
+\g who whom what is asked
+\l Who asked whom what?
+
+\t  Koj na kogo e pokazal kogo?
+\m  Koj na kogo e pokazal kogo?
+\g who to whom is shown whom
+\l Who showed whom to whom?
+
+\t  Kakvo (*kakvo) misli (*kakvo) Ivan (%kakvo) e (kakvo) obuslavlja (kakvo)?
+\m  Kakvo (*kakvo) misli (*kakvo) Ivan (%kakvo) e (kakvo) obuslavlja (kakvo)?
+\g what       what thinks                Ivan          that       conditions
+\l What does Ivan think conditions what?
+
+\t  Koj kakvo misli Ivan e obuslavlja?
+\m  Koj kakvo misli Ivan e obuslavlja?
+\g who what thinks Ivan that conditions
+\l Who does Ivan think conditions what?
+
+\t  Koj kakvo e kupil?
+\m  Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t Koja kniga koj        i   ovek e kupil?
+\m Koja kniga koj        i   ovek e kupil?
+\g which book which man is bought
+\l Which man bought which book?
+
+\t Ko, po            tebi, koga tu e?
+\m Ko, po            tebi, koga tu e?
+\g   who according you whom beats
+\l Who, according to you, is beating whom?
+
+\t Ko, po             tebi, koga vjeruju da tu e?
+\m Ko, po             tebi, koga vjeruju da tu e?
+\g     who according you whom believe that beat
+\l Who, according to you, they believe is beating whom?
+
+\t Tom         ovjeku, ko, po               tebi, ta poklanja?
+\m Tom         ovjeku, ko, po               tebi, ta poklanja?
+\g     that   man.dat who according you what bestows
+\l To that man, who, according to you, bestows what?
+
+\t Ima ko, po            tebi, ta da           mu proda.
+\m Ima ko, po            tebi, ta da           mu proda.
+\g    has who according you what part.him sells
+\l There is someone who, according to you, can sell him something.
+
+\t a.*Kakvo toj dade na Petko?
+\m a.*Kakvo toj dade na Petko?
+\g      what he gave to Petko
+\l What did he give to Petko?
+
+\t (?)Kakvo opredelja kakvo bez         da   o akva?
+\m (?)Kakvo opredelja kakvo bez         da   o akva?
+\g   what determines what without part.anticipates
+\l What determines what without anticipating?
+
+\t Zavisi    ot tova koj prâv kogo e                                        udaril?
+\m Zavisi    ot tova koj prâv kogo e                                        udaril?
+\g  depends on this who first whom AU X.P RES.3 P.SG   hit
+\l It depends on who hit whom first.
+
+\t Koj li kakvo na kogo e                                     dal?
+\m Koj li kakvo na kogo e                                     dal?
+\g who Q what to whom AU X.P RES.3 P.SG   given
+\l Who gave whom what, I wonder?
+
+\t Koj (li) kakvo (li) koga (li) ste ni             servira?
+\m Koj (li) kakvo (li) koga (li) ste ni             servira?
+\g who Q what Q when Q will us.CL surprise-with
+\l Who will surprise us with what when, I wonder?
+
+\t kaze?
+\m kaze?
+\g say
+\l Who, do you want to know, will say what?
+
+\t Koj grozno kakvo e                           bojadisal?
+\m Koj grozno kakvo e                           bojadisal?
+\g who ugly      what AU X.PRE S.3 P.SG   painted
+\l Who has painted what ugly?
+
+\t Koj        koga, navjarno,         kâde      ste porâca      tortata?
+\m Koj        koga, navjarno,         kâde      ste porâca      tortata?
+\g  who        when perhaps            where     will order      cake-the
+\l Who       will perhaps have      the cake   made where    and when?
+
+\t Decata,               ste      vodi li Ivan na cirk?
+\m Decata,               ste      vodi li Ivan na cirk?
+\g kids-the (top)        will     take Q Ivan to circus
+\l The kids, will       Ivan    take them to the circus?
+
+\t Decata,               koj       kâde ste vodi?
+\m Decata,               koj       kâde ste vodi?
+\g kids-the (top)        who       where will take
+\l The kids, who         will   take them where?
+
+\t Sefât,         kakvo kazvas            koga iska?
+\m Sefât,         kakvo kazvas            koga iska?
+\g  boss-the (top) what you-are-saying when want-PRE S.3 P.SG
+\l The boss (you're saying) what does he want when?
+
+\t Tortata        koj kâde e                                  porâcal?
+\m Tortata        koj kâde e                                  porâcal?
+\g cake-the (top) who where AU X.PRE S.3 P.SG     ordered
+\l The cake, who had it made where?
+
+\t Koj speceli           konkursa?
+\m Koj speceli           konkursa?
+\g  who win-PT.3 P.SG competition-the
+\l Who won the competition?
+
+\t koj      speceli           konkursa?
+\m koj      speceli           konkursa?
+\g who      win-PT.3 P.SG competition-the
+\l Ivan   is asking who won the competition?
+
+\t Ivan speceli.
+\m Ivan speceli.
+\g competition-the
+\l (As for) The competition, Ivan has won it.
+
+\t koj speceli?
+\m koj speceli?
+\g competition-the
+\l The competition, who won it?
+
+\t Koj, navjarno, kâde ste porâca tortata?
+\m Koj, navjarno, kâde ste porâca tortata?
+\g who perhaps      where will order cake-the
+\l Who will perhaps have the cake made where?
+
+\t Tortata,        navjarno, koj kâde ste porâca?
+\m Tortata,        navjarno, koj kâde ste porâca?
+\g  cake-the (top) perhaps    who where will order
+\l The cake, who will perhaps have it made where?
+
+\t Tortata        koj, navjarno, kâde ste porâca?
+\m Tortata        koj, navjarno, kâde ste porâca?
+\g  cake-the (top) who perhaps      where will order
+\l The cake, who will perhaps have it made where?
+
+\t Tortata          koj     kâde,     navjarno, koga ste     porâca?
+\m Tortata          koj     kâde,     navjarno, koga ste     porâca?
+\g  cake-the (top)   who     where     perhaps when will      order
+\l The cake, who   will   perhaps   have it made where?
+
+\t Tortata          koj     koga,    navjarno, kâde ste      porâca?
+\m Tortata          koj     koga,    navjarno, kâde ste      porâca?
+\g  cake-the (top)   who     when     perhaps where will      order
+\l The cake, who   will   perhaps   have it made where?
+
+\t e                     dal?
+\m e                     dal?
+\g who              when him.DAT.CL         it.AC C.CL
+\l Who has given it to him when?
+
+\t Filma           IVAN       e                                    gledal.
+\m Filma           IVAN       e                                    gledal.
+\g movie-the (top) Ivan (foc) AU X.PRE S.3 P.SG   seen
+\l The movie, IVAN has seen it.
+
+\t  na cirk.
+\m  na cirk.
+\g  to circus
+\l The kids, mo    m will take to the circus.
+
+\t  na cirk.
+\m  na cirk.
+\g  to circus
+\l As for mom and the kids, she will take them to the circus.
+
+\t Mama       na cirk          decata          ste vodi                  utre.
+\m Mama       na cirk          decata          ste vodi                  utre.
+\g mom (top) to circus (top) the kids (top) will take                    tomorrow
+\l As for mom, the kids and the circus, she will take them              there tomor- row.
+
+\t Decata          na cirk        koj ste vodi utre?
+\m Decata          na cirk        koj ste vodi utre?
+\g kids-the (top) to circus (top) who will take tomorrow
+\l The kids to the circus who will take tomorrow?
+
+\t Decata          na cirk        koj zasto ste vodi utre?
+\m Decata          na cirk        koj zasto ste vodi utre?
+\g kids-the (top) to circus (top) who why will take tomorrow
+\l The kids to the circus, who will take why tomorrow?
+
+\t MAMA         decata              ste     vodi      na cirk?
+\m MAMA         decata              ste     vodi      na cirk?
+\g  mom (foc) kids-the (top)         will    take      to-circus
+\l The kids MOM will take        to the   circus.
+
+\t MAMA         ste vodi.
+\m MAMA         ste vodi.
+\g mom (foc) will take
+\l The kids to the circus MOM will take.
+
+\t Decata          na cirk,        kazvas,       MAMA       ste vodi.
+\m Decata          na cirk,        kazvas,       MAMA       ste vodi.
+\g kids-the (top) to circus (top) you-are saying mom (foc) will take
+\l The kids to the circus, you are saying, MOM will take.
+
+\t Decata kâde ste vodi mama?
+\m Decata kâde ste vodi mama?
+\g kids-the where will take mom
+\l The kids, where will mom take them?
+
+\t Koj koga, navjarno, kâde ste porâca tortata?
+\m Koj koga, navjarno, kâde ste porâca tortata?
+\g  who when perhaps where will order cake-the
+\l Who will perhaps have the cake made where and when?
+
+\t Tortata        koj koga, navjarno, kâde ste porâca?
+\m Tortata        koj koga, navjarno, kâde ste porâca?
+\g  cake-the (top) who when perhaps where will order
+\l The cake, who will perhaps have made where and when?
+
+\t Mama            kogo na cirk             ste vodi?
+\m Mama            kogo na cirk             ste vodi?
+\g  mom (     top) whom to circus (top) will take
+\l Mom      to the circus, who will she take there?
+
+\t Mama            NA CIRK          decata         ste vodi?
+\m Mama            NA CIRK          decata         ste vodi?
+\g  mom (     top) to circus (foc) kids-the (top) will take
+\l Mom      the kids, she will take them TO THE CIRCUS.
+
+\t deteto        iska.
+\m deteto        iska.
+\g child-the     want-PRE S.3 P.SG
+\l As for the    movie, the kid wants it.
+
+\t deteto.
+\m deteto.
+\g child-the
+\l The child    wants the MOVIE.
+
+\t Deteto           FILMA             iska.
+\m Deteto           FILMA             iska.
+\g child-the (top) movie-the (foc) want-PRE S.3 P.SG
+\l As for the child, s/he wants the MOVIE.
+
+\t     Koj kakvo e kupil?
+\m     Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t     JOVANAi su istukli ti.
+\m     JOVANAi su istukli ti.
+\g Jovan      are beaten
+\l Jovan, they beat.
+
+\t   a. Koj kogo e vidjal?
+\m   a. Koj kogo e vidjal?
+\g who whom is seen
+\l Who saw whom?
+
+\t Koj kak udari Ivan?
+\m Koj kak udari Ivan?
+\g  who how hit      Ivan
+\l Who hit Ivan how?
+
+\t  a. *Koj e vidjal kogo?
+\m  a. *Koj e vidjal kogo?
+\g who is seen whom
+\l Who saw whom?
+
+\t Koj udari Ivan kak?
+\m Koj udari Ivan kak?
+\g who hit Ivan how
+\l Who hit Ivan how?
+
+\t  a. Kogo kak e tselunal Ivan?
+\m  a. Kogo kak e tselunal Ivan?
+\g whom how is kissed Ivan
+\l How did Ivan kiss whom?
+
+\t    a. Koj kogo kak e tselunal?
+\m    a. Koj kogo kak e tselunal?
+\g who whom how is kissed
+\l Who kissed whom how?
+
+\t   a. Kogo kakvo e pital Ivan?
+\m   a. Kogo kakvo e pital Ivan?
+\g whom what is asked Ivan
+\l Whom did Ivan ask what?
+
+\t   a. Koj kogo kakvo e pital?
+\m   a. Koj kogo kakvo e pital?
+\g who whom what is asked
+\l Who asked whom what?
+
+\t Ivan e popravil kakvo?
+\m Ivan e popravil kakvo?
+\g Ivan is fixed      what
+\l Ivan fixed what?
+
+\t Na kogo kakvo dade Ivan?
+\m Na kogo kakvo dade Ivan?
+\g to who what gave Ivan
+\l What did Ivan give to who?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g   who what is bought
+\l Who bought what?
+
+\t Koja kniga koj covek e kupil?
+\m Koja kniga koj covek e kupil?
+\g  which book which man is bought
+\l Which man bought which book?
+
+\t Koj e kupil kakvo?
+\m Koj e kupil kakvo?
+\g  who is bought what
+\l Who bought what?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t Ko je kupio koju knjigu?
+\m Ko je kupio koju knjigu?
+\g who is bought which book
+\l Who bought which book?
+
+\t Koj koja kniga e kupil?
+\m Koj koja kniga e kupil?
+\g who which book is bought
+\l Who bought which book?
+
+\t Koj kakvo e kupil?
+\m Koj kakvo e kupil?
+\g who what is bought
+\l Who bought what?
+
+\t Koj, spored   tebe, kakvo e kupil?
+\m Koj, spored   tebe, kakvo e kupil?
+\g   who according you what is bought
+\l Who, according to you, bought what?
+
+\t Koj, spored   tebe, koja kniga e kupil?
+\m Koj, spored   tebe, koja kniga e kupil?
+\g  who according you which book is bought
+\l Who, according to you, bought which book?
+
+\t Koj na kogo kogo               e    pokazal?
+\m Koj na kogo kogo               e    pokazal?
+\g  who to whom whom               is   shown
+\l Who showed whom               to   whom?
+
+\t Kogo kak e tselunal Ivan?
+\m Kogo kak e tselunal Ivan?
+\g whom how is kissed Ivan
+\l How did Ivan kiss whom?
+
+\t Koj kogo kak e tselunal?
+\m Koj kogo kak e tselunal?
+\g who whom how is kissed
+\l Who kissed whom how?
+
+\t Kogo kakvo e pital Ivan?
+\m Kogo kakvo e pital Ivan?
+\g whom what is asked Ivan
+\l Whom did Ivan ask what?
+
+\t Koj kogo kakvo e pital?
+\m Koj kogo kakvo e pital?
+\g who whom what is asked
+\l Who asked whom what?
+
+\t Koj na kogo e pokazal kogo?
+\m Koj na kogo e pokazal kogo?
+\g who to whom is shown whom
+\l Who showed whom to whom?
+
+\t Cine unde ce a adus?
+\m Cine unde ce a adus?
+\g who where what has brought
+\l Who brought what where?
+
+\t Kakvo (*kakvo) misli (*kakvo) Ivan (%kakvo) ce (kakvo) obuslavlja (kakvo)?
+\m Kakvo (*kakvo) misli (*kakvo) Ivan (%kakvo) ce (kakvo) obuslavlja (kakvo)?
+\g what    what thinks             Ivan        that       conditions
+\l What does Ivan think conditions what?
+
+\t Koj kakvo misli Ivan ce obuslavlja?
+\m Koj kakvo misli Ivan ce obuslavlja?
+\g who what thinks Ivan that conditions
+\l Who does Ivan think conditions what?
+
+\t Kakvo toj dade na Petko?
+\m Kakvo toj dade na Petko?
+\g  what he gave to Petko
+\l What did he give to Petko?
+
+\t (?)Kakvo opredelja kakvo bez           da ocakva?
+\m (?)Kakvo opredelja kakvo bez           da ocakva?
+\g      what determines what without PART anticipates
+\l What determines what without anticipating?
+
+\t [poãti nerazrabotenata       u nas] problematika
+\m [poãti nerazrabotena-ta       u nas] problematika
+\g almost not-worked-out-the by us          problematics
+\l the problematics (which are) almost not worked out here [= in Bulgaria] 
+
+\t [poluãenata sâs mâka] stipendija
+\m [poluãenata sâs mâka] stipendija
+\g received-the with pain scholarship
+\l the received with pain scholarship
+
+\t [vernijat na demokratiãni idei]            prezident
+\m [verni-jat na demokratiãni idei]            prezident
+\g faithful-the to democratic         ideas president'
+\l the president (who is) faithful to democratic ideas
+
+\t [kupenite vãera]       knigi
+\m [kupenite vãera]       knigi
+\g bought-the yesterday books
+\l the books (which were) bought yesterday
+
+\t [zabranenata ot zakona] kniga
+\m [zabranenata ot zakona] kniga
+\g forbidden-the by law        book
+\l the book (which is) forbidden by law
+
+\t Onj?mojât sin mi izjade glavata.
+\m Onj?mojât sin mi izjade glavata.
+\g this my-the son me ate             head-the
+\l This son of mine is killing me.
+
+\t [poãti nerazrabotenata      mu        u     nas] problematika
+\m [poãti nerazrabotenata      mu        u     nas] problematika
+\g almost not-worked-out-the him.obl by us             problematics
+\l his problematics (which are) almost not worked out here [= in Bulgaria] 
+
+\t [poluãenata si          sâs mâka] stipendija
+\m [poluãenata si          sâs mâka] stipendija
+\g received-the self.obl with pain scholarship
+\l self's received with pain scholarship
+
+\t [vernijat    ti        na demokratiãni idei]        prezident
+\m [vernijat    ti        na demokratiãni idei]        prezident
+\g faithful-the you.obl to democratic        ideas president'
+\l your president (who is) faithful to democratic ideas
+
+\t [zabranenata mi      ot zakona] kniga
+\m [zabranenata mi      ot zakona] kniga
+\g forbidden-the me.obl by law     book
+\l my book (which is) forbidden by law
+
+\t tezi    ti       (?xubavi) knigi
+\m tezi    ti       (?xubavi) knigi
+\g these you.obl nice        books
+\l these (nice) books of yours
+
+\t tazi neprijatnata ti         Ïena
+\m tazi neprijatnata ti         Ïena
+\g this unpleasant you.obl wife
+\l this unpleasant wife of yours
+
+\t interesnoto     ?        pojavjavane
+\m interesnoto     ?        pojavjavane
+\g interesting-the her.obl appearance
+\l her interesting appearance (on the scene)
+
+\t interesnoto     pojavjavane na Katia
+\m interesnoto     pojavjavane na Katia
+\g interesting-the appearance of Katia
+\l Katia's interesting appearance (on the scene)
+
+\t interesnata ?          misâl na Katia
+\m interesnata ?          misâl na Katia
+\g interesting her.obl thought of Katia
+\l Katia's interesting thought
+
+\t interesnoto       ?        hrumvane na      Katia
+\m interesnoto       ?        hrumvane na      Katia
+\g interesting-the her.obl occurring to        Katia
+\l Katia's interesting idea
+
+\t Na Katia ?           hrumna.
+\m Na Katia ?           hrumna.
+\g to Katia her.obl occurred
+\l Katia had the idea.
+
+\t interesnoto     ?        pojavjavane na Katia
+\m interesnoto     ?        pojavjavane na Katia
+\g interesting-the her.obl appearance of Katia
+\l Katia's interesting appearance (on the scene)
+
+\t [izgarjatata go]       strast
+\m [izgarjatata go]       strast
+\g burning-the him.acc passion
+\l the passion which burns him
+
+\t [upravljavatoto ja]      mnoÏinstvo
+\m [upravljavatoto ja]      mnoÏinstvo
+\g ruling-the       it.acc majority
+\l the majority which rules it
+
+\t %[izgarjatata go]         ti    strast
+\m %[izgarjatata go]         ti    strast
+\g  burning-the him.acc your.obl passion
+\l your passion which burns him
+
+\t %[upravljavatoto ja         im       mnoÏinstvo
+\m %[upravljavatoto ja         im       mnoÏinstvo
+\g  ruling-the         it.acc their.obl majority
+\l their majority which rules it
+
+\t tazi neprijatnata ti         Ïena
+\m tazi neprijatnata ti         Ïena
+\g this unpleasant you.obl wife
+\l this unpleasant wife of yours
+
+\t tezi    ti       (?xubavi) knigi
+\m tezi    ti       (?xubavi) knigi
+\g these you.obl nice        books
+\l these (nice) books of yours
+
+\t xubavoto mu momiãe
+\m xubavoto mu momiãe
+\g pretty-the his girl
+\l his pretty girl
+
+\t tezi    ti       (?xubavi) knigi
+\m tezi    ti       (?xubavi) knigi
+\g these you.obl nice        books
+\l these (nice) books of yours
+
+\t Ko     kogo vidi?
+\m Ko     kogo vidi?
+\g who    whom sees
+\l Who   does whom see
+
+\t Petko mi       go    dade.
+\m Petko mi       go    dade.
+\g Petko me.DAT it.ACC gave
+\l Petko gave it to me.
+
+\t Ti si mu          gi       dal.
+\m Ti si mu          gi       dal.
+\g you are him.DAT them.ACC given
+\l You have given them to him.
+
+\t Nie sme mu       go     dali, i vie ste mu               go     dali (susto).
+\m Nie sme mu       go     dali, i vie ste mu               go     dali (susto).
+\g  we are him.DAT it.ACC given and you are him.DAT         it.ACC given too    
+\l We gave it to him, and you did too.
+
+\t Petko e rabotil vcera.
+\m Petko e rabotil vcera.
+\g Petko is worked yesterday
+\l Petko worked yesterday.
+
+\t Petko prodade novata kola.
+\m Petko prodade novata kola.
+\g  Petko sold     new-the car
+\l Petko sold the new car.
+
+\t Petko prodade novata kola.
+\m Petko prodade novata kola.
+\g Petko sold     new-the car
+\l Petko sold the new car
+
+\t Nova ja prodade kolata (toj).
+\m Nova ja prodade kolata (toj).
+\g new it-cl sold          car-the (he)
+\l It was new car that he sold.
+
+\t Visoki gi          haresva momicetata.
+\m Visoki gi          haresva momicetata.
+\g tall     them-cl likes girls-the
+\l It is tall girls that he likes.
+
+\t Novi knigi na Ivan
+\m Novi knigi na Ivan
+\g new books to Ivan
+\l Ivan's new books.
+
+\t Izrazjavaneto na cuvstvata mu zapocna predi dva dni.
+\m Izrazjavaneto na cuvstvata mu zapocna predi dva dni.
+\g expression of feelings his started before two days
+\l His expressing his feelings started two daysago'.
+
+\t Izrazenieto na liceto j prodalzi dva casa.
+\m Izrazenieto na liceto j prodalzi dva casa.
+\g  expression on face her continued two hours
+\l The expression on her face lasted for two hours.
+
+\t Srestaneto s cuzdenci v prodalzenie na dva dni go iztosti.
+\m Srestaneto s cuzdenci v prodalzenie na dva dni go iztosti.
+\g meeting with foreigners in duration of two days him exhausted
+\l Meeting foreigners for two days exhaustedhim'.
+
+\t Srestata s   cuzdenci v prodalzenie na dva dni go iztosti.
+\m Srestata s   cuzdenci v prodalzenie na dva dni go iztosti.
+\g  meeting with foreigners in duration of two days him exhausted
+\l Meeting foreigners for two days exhausted him.
+
+\t Toj pise pisma spokojno i uvereno.
+\m Toj pise pisma spokojno i uvereno.
+\g he writes letters calmly and confidently
+\l He writes letters calmly andconfidently'.
+
+\t Spokojnoto i uvereno pisane na pisma mu pomaga.
+\m Spokojnoto i uvereno pisane na pisma mu pomaga.
+\g calm.THE and confident writing of letters him help
+\l The calm and confident writing of letters helps him.
+
+\t Cestoto      cukane go iznervi.
+\m Cestoto      cukane go iznervi.
+\g Frequent.THE knocking him nervous made
+\l The frequent knocking made himnervous'.
+
+\t Postojannoto zvânene bese neprijatno.
+\m Postojannoto zvânene bese neprijatno.
+\g Constant.THE ringing was unpleasant
+\l The constant ringing was unpleasant.
+
+\t Cestite         udari po vratata go iznervixa.
+\m Cestite         udari po vratata go iznervixa.
+\g Frequent.PL.THE knocks on wall-THE him nervous made
+\l The frequent knocks made himnervous'.
+
+\t Nalaga    se sâbiraneto na sobstvenicite za da se resi problema           s    pokriva.
+\m Nalaga    se sâbiraneto na sobstvenicite za da se resi problema           s    pokriva.
+\g demanded REFL gathering of owners        for to REFL solve problen        with roof    
+\l The gathering of the owners in order to solve the problem with the roof ismandatory'.
+
+\t Nalaga    se sâbranieto na sobstvenicite za da se resi problema           s    pokriva.
+\m Nalaga    se sâbranieto na sobstvenicite za da se resi problema           s    pokriva.
+\g  demanded REFL gathering of owners        for to REFL solve problen       with roof    
+\l The gathering of the owners in order to solve the problem with the roof ismandatory'.
+
+\t Kolata na Ivan e v garaza.
+\m Kolata na Ivan e v garaza.
+\g Car of John is in garage-THE
+\l John's car is in the garage.
+
+\t Podarakât na Ivan e mnogo xubav.
+\m Podarakât na Ivan e mnogo xubav.
+\g Present.THE of John is very nice
+\l John's present is very nice.
+
+\t Otborât na Ivan e na pârvo mjasto.
+\m Otborât na Ivan e na pârvo mjasto.
+\g team.THE of John is on first place
+\l John's team isfirst'.
+
+\t Pristiganeto na Marija v osem casa       obârka planovete ni.
+\m Pristiganeto na Marija v osem casa       obârka planovete ni.
+\g Arrival.THE of Maria at eight o'clock spoiled plans       ours
+\l Maria's arrival at eight o'clock spoiled our plans.
+
+\t Spaneto na Ivan prodâlzi osem casa.
+\m Spaneto na Ivan prodâlzi osem casa.
+\g Sleep of John lasted eight hours
+\l John's sleep lasted eight hours.
+
+\t Ivan podari            knigata na Petâr.
+\m Ivan podari            knigata na Petâr.
+\g John gave (as present) book to Peter
+\l John gave Peter the book as a present.
+
+\t Podarjavaneto na knigata ot Ivan na Petâr bese iznenada.
+\m Podarjavaneto na knigata ot Ivan na Petâr bese iznenada.
+\g Giving         of book by Ivan to Peter was surprise
+\l John's giving the book to Peter as a present was a surprise.
+
+\t Podarjavaneto na knigata na Petâr bese iznenada.
+\m Podarjavaneto na knigata na Petâr bese iznenada.
+\g Giving        of book to Peter was surprise
+\l Giving the book to Peter was asurprise'.
+
+\t Podarjavaneto na knigata ot Ivan bese iznenada.
+\m Podarjavaneto na knigata ot Ivan bese iznenada.
+\g Giving         of book by Ivan was surprise
+\l John's giving the book as a present was a surprise.
+
+\t Podarjavaneto na knigata bese iznenada.
+\m Podarjavaneto na knigata bese iznenada.
+\g Giving         of book was surprise
+\l The giving of the book was a surprise.
+
+\t Podarjavaneto na Petâr bese iznenada.
+\m Podarjavaneto na Petâr bese iznenada.
+\g  Giving         to Peter was surprise
+\l Giving to Peter was asurprise'.
+
+\t Podarjavaneto ot Ivan bese iznenada.
+\m Podarjavaneto ot Ivan bese iznenada.
+\g  Giving         by Ivan was surprise
+\l John's giving was a surprise.
+
+\t Podarjavaneto na knigata na Ivan bese iznenada.
+\m Podarjavaneto na knigata na Ivan bese iznenada.
+\g  Giving         of book by John was surprise
+\l (intended) John's giving the book was a surprise.
+
+\t Podarakât na Ivan za Petâr bese iznenadvast.
+\m Podarakât na Ivan za Petâr bese iznenadvast.
+\g Present.THE of Ivan for Peter was surprising
+\l Ivan's present for Peter was surprising.
+
+\t Uvazavaneto na roditelite e sâstestven element ot vâzpitanieto.
+\m Uvazavaneto na roditelite e sâstestven element ot vâzpitanieto.
+\g Respect       of parents is crucial      element of upbringing.THE
+\l Respect for parents is a crucial element ofupbringing'.
+
+\t Uvazenieto na roditelite e sâstestven element ot vâzpitanieto.
+\m Uvazenieto na roditelite e sâstestven element ot vâzpitanieto.
+\g Respect     of parents is crucial      element of upbringing.THE
+\l Parents' respect is a crucial element ofupbringing'.
+
+\t Zloupotrebjavaneto s    vlastta
+\m Zloupotrebjavaneto s    vlastta
+\g abuse              with power
+\l abuse of power
+
+\t Narodât ziveese v napregnato ocakvane velikata promjana.
+\m Narodât ziveese v napregnato ocakvane velikata promjana.
+\g People lived in tense          expectation great change
+\l The people lived in tense expectation of the greatchange'.
+
+\t Narodât ziveese tixo, vapreki ocakvaneto      velikata promjana.
+\m Narodât ziveese tixo, vapreki ocakvaneto      velikata promjana.
+\g  People lived quietly, despite expectation.THE great change
+\l The people lived in tense expectation of the greatchange'.
+
+\t Pâtuvaneto v prodalzenie na dva dni ja umori.
+\m Pâtuvaneto v prodalzenie na dva dni ja umori.
+\g travel      in duration    of two days her tired
+\l Travelling for two days tired her.
+
+\t Pâtuvaneto do Varna za sest casa ja umori.
+\m Pâtuvaneto do Varna za sest casa ja umori.
+\g Travel     to Varna in six hours her tired
+\l Travelling to Varna in six hours tiredher'.
+
+\t Razpisvaneto na pismata prodalzi edin cas.
+\m Razpisvaneto na pismata prodalzi edin cas.
+\g signing       of letters.THE went on one hour
+\l The signing of the letters went on for an hour.
+
+\t Razpisvaneto na pismata prikljuci za edin cas.
+\m Razpisvaneto na pismata prikljuci za edin cas.
+\g signing       of letters.THE finished for one hour
+\l The signing of the letters finished in anhour'.
+
+\t Maria razpisa     dokumenta i preblednja.
+\m Maria razpisa     dokumenta i preblednja.
+\g Maria signed.PERF document.THE and paled
+\l Maria signed the document and paled.
+
+\t Maria razpisvase dokumentite v negovo prisâstvie.
+\m Maria razpisvase dokumentite v negovo prisâstvie.
+\g Maria signed.IMP documents.THE in his     presence
+\l Maria was signing the documents in hispresence'.
+
+\t Razpisvaneto na dokumenta ja nakara da preblednee.
+\m Razpisvaneto na dokumenta ja nakara da preblednee.
+\g Signing       of document.THE her made to pale
+\l Signing the document made her pale.
+
+\t Razpisvaneto na dokumentite stavase         v negovo prisâstvie.
+\m Razpisvaneto na dokumentite stavase         v negovo prisâstvie.
+\g Signing.THE of documents was happening in his          presence
+\l The signing of the documents was taking place in his presence.
+
+\t gladuvaneto na vojnicite prez vojnata.
+\m gladuvaneto na vojnicite prez vojnata.
+\g starvation of soldiers during war
+\l The soldiers' starvation during the war.
+
+\t Nepoznavaneto na pravilata ot ucenicite ne gi opravdava.
+\m Nepoznavaneto na pravilata ot ucenicite ne gi opravdava.
+\g not.knowing of rules         by students not them absolve
+\l The students' lack of knowledge of the rules does not absolve them.
+
+\t a.       Koj kogo e        vidjal?
+\m a.       Koj kogo e        vidjal?
+\g          who whom AUX seen
+\l Who saw who?
+
+\t Njakoj       e     vidjal njakogo, no ne znam kogo koj.
+\m Njakoj       e     vidjal njakogo, no ne znam kogo koj.
+\g      someone AUX seen somone but not I.know whom who
+\l Someone saw someone, but I don't know who saw who.
+
+\t Zavisi ot tova, koj kogo prßv e udaril
+\m Zavisi ot tova, koj kogo prßv e udaril
+\g depends on this who whom first has hit
+\l It depends on who hit whom first
+
+\t Kojto kakvoto iska ...
+\m Kojto kakvoto iska ...
+\g who-D    EF   what-D   EF   wants
+\l whoever wants whatever
+
+\t Kakvo kupuva Ivan
+\m Kakvo kupuva Ivan
+\g what buys John
+\l What does John buy
+
+\t Negoi           goi           poznavam    ot            universiteta.
+\m Negoi           goi           poznavam    ot            universiteta.
+\g him.ACC.TONAL him.ACC.CLITIC know.1.SG.PRS from         university
+\l I know him since university
+
+\t Xudoznikt narisuva        kartini i   izleze da gi prodade na ulicata
+\m Xudoznikt na-risuva        kartini i   izleze da gi prodade na ulicata
+\g painter-DET PV-paint-AOR pictures and went out to them sell in street-DET
+\l The painter painted some pictures and went out to sell them in the street.
+
+\t Xudoznikt narisuvase       kartini i    izlizase da gi prodava na ulicata
+\m Xudoznikt na-risuvase       kartini i    izlizase da gi prodava na ulicata
+\g painter-DET PV-paint-IMP pictures and went out to them sell in street-DET
+\l The painter used to paint some pictures and go out to sell them in the street.
+
+\t Xudoznikt narisuva         kartini za pet casa /*pet casa
+\m Xudoznikt na-risuva         kartini za pet casa /*pet casa
+\g painter-DET PV-paint-AOR pictures in five hours / *for five hours
+\l The painter painted some pictures in five hours / *for five hours.
+
+\t Xudoznikt prerisuva         kartini ? za pet casa /pet casa
+\m Xudoznikt pre-risuva         kartini ? za pet casa /pet casa
+\g painter-DET PV-paint-AOR pictures in five hours / for five hours
+\l The painter re-painted (some) pictures in five hours / for five hours.
+
+\t Ivan dade    pari na Marija i tja gi poxarci      za den.
+\m Ivan dade    pari na Marija i tja gi po-xarci      za den.
+\g Ivan give-AOR money to M.and she it PV-spend-AOR in a day
+\l Ivan gave Maria some money and she spent it in a day.
+
+\t  Ivan cete         Vulsebnata planina ot Tomas Man.
+\m  Ivan cete         Vulsebnata planina ot Tomas Man.
+\g John  read-AOR the magic mountain by Thomas Mann
+\l John  read from`The Magic Mountain' by Thomas Mann
+
+\t  Ivan procitase Vulsebnata planina vsyaka godina.
+\m  Ivan pro-cita-se Vulsebnata planina vsyaka godina.
+\g John PV-read-IMP the magic mountain every year
+\l John read`The Magic Mountain' completely every year
+
+\t Ivan cetese     Vulsebnata Planina kogato go vidyax.
+\m Ivan cete-se     Vulsebnata Planina kogato go vidyax.
+\g John read-IMP the magic mountain when him (I) saw
+\l John was reading`The Magic Mountain' when I saw him
+
+\t Marina kupi      kafe i go izpi               goresto
+\m Marina kupi      kafe i go iz-pi               goresto
+\g Marina buy-AOR coffee and it PV-drink-AOR hot
+\l Marina bought a specific quantity of coffee and drank it hot.
+
+\t Vseki den Marina kupuvase kafe i go izpivase           goresto
+\m Vseki den Marina kupuvase kafe i go iz-pivase           goresto
+\g every day Marina buy-IMP coffee and it PV-drink-IMP hot
+\l Every day Marina used to buy a specific quantity of coffee and drink it hot.
+
+\t Vojnitzi pjaxa      patrioticni pesni, i vsicki gi slusaxa.
+\m Vojnitzi pjaxa      patrioticni pesni, i vsicki gi slusaxa.
+\g soldiers sing-AOR patriotic songs, and everyone them listened
+\l Soldiers sang patriotic songs and everyone listened to them.
+
+\t Vojnitzi peexa      patrioticni pesni, i vsicki gi slusaxa.
+\m Vojnitzi peexa      patrioticni pesni, i vsicki gi slusaxa.
+\g soldiers sing-IMP patriotic songs, and everyone them listened
+\l Soldiers were singing patriotic songs and everyone listened to them.
+
+\t Da ne padnes
+\m Da ne padnes
+\g Da ne fall-PFV.
+\l Don't fall.
+
+\t Ko j kogo vizda
+\m Ko j kogo vizda
+\g Who whom sees
+\l Who saw whom?
+
+\t Az     sâm           dosal.
+\m Az     sâm           dosal.
+\g I      be.1SG..PRES come-P.PART
+\l I apparently came.
+
+\t t o y   i z pi l    vs i kot o vi no     v era.
+\m t o y   i z pi l    vs i kot o vi no     v era.
+\g  he      drunk.PFCT all.the      wine yesterday.
+\l ...he apparently drank all the wine yesterday.
+
+\t koj kogo mislis
+\m koj kogo mislis
+\g who what bought
+\l ,,who bought what
+
+\t Koj kogo e pokanil na vecerjata?
+\m Koj kogo e pokanil na vecerjata?
+\g who whom Aux invited to dinner
+\l Who invited who to the dinner?
+
+\t Koe pismo napisa deteto?
+\m Koe pismo napisa deteto?
+\g    which letter wrote the-child
+\l Which letter did the child write?
+
+\t Tja me popita kâde zivee Ivan.
+\m Tja me popita kâde zivee Ivan.
+\g    she me asked where lives Ivan
+\l She asked me where Ivan lives.
+
+\t Za     kakvo vcera     spomena Ivan pred Maria?
+\m Za     kakvo vcera     spomena Ivan pred Maria?
+\g about what yesterday mentioned Ivan to       Maria
+\l What did Ivan mention to Maria yesterday?
+
+\t Kakvo vece     kupi Ivan?
+\m Kakvo vece     kupi Ivan?
+\g what    already bought Ivan
+\l What did Ivan buy already?
+
+\t Otkâde       znae Paulina vsicko tova?
+\m Otkâde       znae Paulina vsicko tova?
+\g from-where knows Paulina all          this
+\l Where does Paulina know all this from?
+
+\t Kogo koj     e    pokanil na vecerjata?
+\m Kogo koj     e    pokanil na vecerjata?
+\g  whom who Aux invited to dinner
+\l Who invited who to the dinner?
+
+\t Tja me popita kogo koj e           pokanil na vecerjata?
+\m Tja me popita kogo koj e           pokanil na vecerjata?
+\g  she me asked whom who Aux invited to dinner
+\l She asked me who invited who to the dinner.
+
+\t Koj kogo e pokanil na vecerjata?
+\m Koj kogo e pokanil na vecerjata?
+\g who whom Aux invited to dinner
+\l Who invited who to the dinner?
+
+\t Koj kogo e            pokanil na veceriata?
+\m Koj kogo e            pokanil na veceriata?
+\g    who whom Aux invited to party
+\l Who invited who to the party?
+
+\t Tja me popita koj kogo e pokanil na veceriata.
+\m Tja me popita koj kogo e pokanil na veceriata.
+\g  she me asked who whom Aux invited to party
+\l She asked me who invited who to the party.
+
+\t Koj kogo e pokanil na vecerjata?
+\m Koj kogo e pokanil na vecerjata?
+\g who whom Aux invited to dinner
+\l Who invited who to the dinner?
+
+\t Kolko      studenti [po kakvo] [ot Bulgaria] vidja?
+\m Kolko      studenti [po kakvo] [ot Bulgaria] vidja?
+\g   how-many students of what from Bulgaria you-saw
+\l How many students of what from Bulgaria did you see?
+
+\t [po kakvo] kolko        studenti [ot Bulgaria] vidja?
+\m [po kakvo] kolko        studenti [ot Bulgaria] vidja?
+\g  of what how-many students from Bulgaria you-saw
+\l How many students of what from Bulgaria did you see?
+
+\t kolko      studenti [ot Bulgaria] [po kakvo] vidja?
+\m kolko      studenti [ot Bulgaria] [po kakvo] vidja?
+\g how-many students from Bulgaria of what you-saw
+\l How many students of what from Bulgaria did you see?
+

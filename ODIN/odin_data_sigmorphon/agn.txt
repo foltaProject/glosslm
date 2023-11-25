@@ -1,0 +1,535 @@
+\t T<om>abid          ami.
+\m T<om>abid          ami.
+\g Irr:AV=accompany 1ExcNom
+\l We will come along.
+
+\t K<in>omosta ami               ta doro=ng taw.
+\m K<in>omosta ami               ta doro=ng taw.
+\g  Perf:PV=greet 1ExcNom GEN many=LIG people
+\l Many people greeted us.
+
+\t K<in>omosta=o          tang bisita.
+\m K<in>omosta=o          tang bisita.
+\g Perf:PV=greet=1sgGen NOM guest
+\l I greeted the guest.
+
+\t Mag=arado=a!13
+\m Mag=arado=a!13
+\g  Irr:AV=plow=2sgNom
+\l Plow!
+
+\t T<om>abid          da?15
+\m T<om>abid          da?15
+\g Irr:AV=accompany 2sgNom
+\l Will you come along?
+
+\t T<om>abid             do.
+\m T<om>abid             do.
+\g  Irr:AV=accompany 1sgNom
+\l (Yes,) I will come along.
+
+\t T<om>abid          si      Pedro?
+\m T<om>abid          si      Pedro?
+\g Irr:AV=accompany PersSgNOM Pedro
+\l Will Pedro come along?
+
+\t T<om>abid           da         Pedro?
+\m T<om>abid           da         Pedro?
+\g Irr:AV=accompany PersPlNOM Pedro
+\l Will Pedro and friends come along?
+
+\t T<om>abid.
+\m T<om>abid.
+\g Irr:AV=accompany
+\l (Yes,) he/they will come along.
+
+\t mano mo
+\m mano mo
+\g chicken 2sgGen
+\l your chicken
+
+\t bisita ta
+\m bisita ta
+\g guest 1IncGen
+\l our guest
+
+\t I=torol 16 lo          tang mano mo         ong bisita ta.
+\m I=torol 16 lo          tang mano mo         ong bisita ta.
+\g  Irr:PV=give 1sgGen NOM chicken 2sgGen OBL guest 1IncGen
+\l I will give your chicken to our guest.
+
+\t I=torol        lo       ong nio.
+\m I=torol        lo       ong nio.
+\g Irr:PV=give 1sgGen OBL 2sgObl
+\l I will give (it) to you.
+
+\t Patay da       tang nandia=ng mano.
+\m Patay da       tang nandia=ng mano.
+\g dead already NOM 3sgObl=LIG chicken
+\l His chicken is dead.
+
+\t Ninopa tang mano?
+\m Ninopa tang mano?
+\g whose NOM chicken
+\l Who does the chicken belong to? (Lit. Whose is the chicken?)
+
+\t Yami,      t<om>abid           ami  ra   lamang.
+\m Yami,      t<om>abid           ami  ra   lamang.
+\g 1ExcFree Irr:AV=accompany 1ExcNom already only
+\l As for us, we'll just come along.
+
+\t Yamo tang matod ang makatetebek.
+\m Yamo tang matod ang makatete-bek.
+\g  2plFree NOM true        LIG pitiful
+\l You are the truly pitiful ones.
+
+\t Sinopa=y paning?
+\m Sinopa=y paning?
+\g who=INV go
+\l Who will go?
+
+\t T<om>abid          tanandia/tanira.
+\m T<om>abid          tanandia/tanira.
+\g Irr:AV=accompany 3sgFree/3plFree
+\l She/He/They will come along.
+
+\t T<om>abid           do         yo!
+\m T<om>abid           do         yo!
+\g Irr:AV=accompany 1sgNom 1sgFree
+\l I will go along (most decidedly/no matter what)!
+
+\t I=torol     lo     tang mano ong bisita ta.
+\m I=torol     lo     tang mano ong bisita ta.
+\g Irr:PV=give 1sgGen NOM chicken OBL guest 1IncGen
+\l I will give the chicken to our guest.
+
+\t Mag=torol ami            ta mano ong bisita ta.
+\m Mag=torol ami            ta mano ong bisita ta.
+\g  Irr:AV=give 1ExcNom GEN chicken OBL guest 1IncGen
+\l We will give a chicken to our guest.
+
+\t I=torol       ni           Pedro tang mano ong bisita ta.
+\m I=torol       ni           Pedro tang mano ong bisita ta.
+\g Irr:PV=give PersSgGEN Pedro NOM chicken OBL guest 1IncGen
+\l Pedro will give the chicken to our guest.
+
+\t I=tabid               da yen.
+\m I=tabid               da yen.
+\g Irr:PV=accompany 2sgNom 1sgObl
+\l I will include you.
+
+\t I=tabid            do        nio!
+\m I=tabid            do        nio!
+\g Irr:PV=accompany 1sgNom 2sgObl
+\l Include me!
+
+\t I=tabid          do     nio!
+\m I=tabid          do     nio!
+\g Irr:PV=accompany 1sgNom 2sgObl
+\l Include me!
+
+\t Indi=o         i=tabid      mo!
+\m Indi=o         i=tabid      mo!
+\g NEG=1sgNom Irr:PV=accompany 2sgGen
+\l Don't include me!
+
+\t I=tabid             ami  nandia.
+\m I=tabid             ami  nandia.
+\g Irr:PV=accompany 1ExcNom 3sgObl
+\l S/He will include us
+
+\t Indi=ami          i=tabid    na.
+\m Indi=ami          i=tabid    na.
+\g NEG=1ExcNom Irr:PV=accompany 3sgGen
+\l S/He will not include us.
+
+\t I=tabid           do   ra      nio!
+\m I=tabid           do   ra      nio!
+\g Irr:PV=accompany 1sgNom already 2sgObl
+\l Include me now!
+
+\t I=tabid              do       kay lagi        nindio!
+\m I=tabid              do       kay lagi        nindio!
+\g Irr:PV=accompany 1sgNom REQ immediate 2plObl
+\l Please include me!
+
+\t Indi=o         ra   i=tabid         mo!
+\m Indi=o         ra   i=tabid         mo!
+\g NEG=1sgNom already Irr:PV=accompany 2sgGen
+\l Don't include me!
+
+\t Indi=o           kay lagi        i=tabid            mi!
+\m Indi=o           kay lagi        i=tabid            mi!
+\g NEG=1sgNom REQ immediate Irr:PV=accompany 2plGen
+\l Please don't include me yet.
+
+\t In=ita=o            tang mga kosi
+\m In=ita=o            tang mga kosi
+\g Perf:PV=see=1sgGen NOM PL cat
+\l I saw the cats.'22
+
+\t S<in>dol        lo       tang inogat ong mga kiro
+\m S<in>dol        lo       tang inogat ong mga kiro
+\g Perf:PV=give 1sgGen NOM leftovers OBL PL dogs
+\l I gave the leftovers to the dogs.
+
+\t I=beg         ga     yen     ong ni Nanay mo!
+\m I=beg         ga     yen     ong ni Nanay mo!
+\g Irr:PV=tell 2sgNom 1sgObl PersSgOBL mother 2sgGen
+\l I'll tell your Mama on you!
+
+\t Magtorol si                Pedro ta mano ong bisita ta.
+\m Magtorol si                Pedro ta mano ong bisita ta.
+\g Irr:AV=give PersSgNOM Pedro GEN chicken OBL guest 1IncGen
+\l Pedro will give a chicken to our guest.
+
+\t I=torol     ni            Pedro tang mano ong bisita ta.
+\m I=torol     ni            Pedro tang mano ong bisita ta.
+\g Irr:PV=give PersSgGEN Pedro NOM chicken OBL guest 1IncGen
+\l Pedro will give the chicken to our guest.
+
+\t I=torol       lo       tang mano ong da        Pedro.
+\m I=torol       lo       tang mano ong da        Pedro.
+\g Irr:PV=give 1SgGen NOM chicken PersPlOBL Pedro
+\l I will give the chicken to Pedro and his companions.
+
+\t Mamansi=olik      da     da         Pedro.
+\m Mamansi=olik      da     da         Pedro.
+\g Irr:AV:PL=go.home already PersPlNOM Pedro
+\l Pedro and friends will go home now.
+
+\t Paning ngo      ong balay ni       Pedro.
+\m Paning ngo      ong balay ni       Pedro.
+\g go      1sgNom OBL house PersSgGEN Pedro
+\l I'm going to Pedro's house.
+
+\t Paning ngo         ong balay da            Pedro.
+\m Paning ngo         ong balay da            Pedro.
+\g  go       1sgNom OBL house PersPlGEN Pedro
+\l I'm going to Pedro's family's house.
+
+\t balay ta mayor
+\m balay ta mayor
+\g house GEN mayor
+\l house of a mayor
+
+\t Balay ta mayor tang i=padeng                 ngo.
+\m Balay ta mayor tang i=pa-deng                 ngo.
+\g house GEN mayor NOM Irr:PV=construct 1sgGen
+\l I will build a mayor's house (ie, a house fit for a mayor).
+
+\t Mag=padeng ngo         ta balay.
+\m Mag=pa-deng ngo         ta balay.
+\g Irr:AV=build 1sgNom GEN house
+\l I will build a house.
+
+\t In=alat         to      ta kiro.
+\m In=alat         to      ta kiro.
+\g  Perf:PV=bite 1sgNom GEN dog
+\l I was bitten by a dog/A dog bit me.
+
+\t balay tang mayor
+\m balay tang mayor
+\g house DEF mayor
+\l house of the mayor
+
+\t Mag=padeng ngo           tang balay.
+\m Mag=pa-deng ngo           tang balay.
+\g Irr:AV=build 1sgNom DEF house
+\l I will build the house.
+
+\t In=alat       to        tang kiro.
+\m In=alat       to        tang kiro.
+\g Perf:PV=bite 1sgNom DEF dog
+\l The dog bit me/I was bitten by the dog.'(with a particular dog in mind)24
+
+\t I=padeng tang lali tang balay.
+\m I=pa-deng tang lali tang balay.
+\g  Irr:PV=build DEF man NOM house
+\l The man will build the house.
+
+\t Mag=torol lo           tang mano ong babay.
+\m Mag=torol lo           tang mano ong babay.
+\g Irr:AV=give 1sgNom DEF chicken OBL woman
+\l I will give the chicken to the woman.
+
+\t Mag=torol lo             tang mano ong tata=ng babay.
+\m Mag=torol lo             tang mano ong tata=ng babay.
+\g  Irr:AV=give 1sgNom DEF chicken OBL one=LIG woman
+\l I will give the chicken to a woman.
+
+\t Mandian, k<imin>abot tang tata=ng lali.
+\m Mandian, k<imin>abot tang tata=ng lali.
+\g now       Perf:PV=arrive NOM one=LIG man
+\l Now, a certain man arrived.
+
+\t G=aning          tanandia, "Magpadeng ngo        ta  tata=ng balay.
+\m G=aning          tanandia, "Magpa-deng ngo        ta  tata=ng balay.
+\g Imperf:AV=say 3sgFree         Irr:AV=build 1sgNom GEN one=LIG house
+\l He said,"I will build a (certain) house.
+
+\t Ang balay          ang na, istar=an no             asta tanopa!"
+\m Ang balay          ang na, istar=an no             asta tanopa!"
+\g NOM house          LIG Prox live=Irr:PV 1sgGen forever
+\l This house,       I will live in (it) forever!
+
+\t Ang mga mola, t<om>abid                da      lamang tanira ong yen.
+\m Ang mga mola, t<om>abid                da      lamang tanira ong yen.
+\g NOM PL child Irr:AV:accompany already only 3plNom OBL 1sgObl
+\l As for the children, they will just come along with me.
+
+\t Ang mola in=alat           ta kiro.
+\m Ang mola in=alat           ta kiro.
+\g NOM child Perf:PV=bite GEN dog
+\l The child was bitten by a dog.
+
+\t Ang kiro nang=alat ta mola.
+\m Ang kiro nang=alat ta mola.
+\g  NOM dog Perf:AV GEN child
+\l The dog bit a child.
+
+\t T<om>abid           (t)ang mola.
+\m T<om>abid           (t)ang mola.
+\g Irr:AV=accompany NOM child
+\l The child will come along.
+
+\t T<om>abid         (t)ang kiro.
+\m T<om>abid         (t)ang kiro.
+\g Irr:AV=accompany NOM dog
+\l The dog will come along.
+
+\t Mag=torol (t)ang babay ta        mano.
+\m Mag=torol (t)ang babay ta        mano.
+\g Irr:AV=give NOM woman GEN chicken
+\l The woman will give a chicken.
+
+\t Magalin      da     (t)ang lali.
+\m Magalin      da     (t)ang lali.
+\g Irr:AV=leave already NOM man
+\l The man will leave now.
+
+\t Tang mola tang i=tabid                do.
+\m Tang mola tang i=tabid                do.
+\g one child NOM Irr:PV=accompany 1sgGen
+\l I will include one (and only one) child.
+
+\t Ang mola tang i=tabid                    do.
+\m Ang mola tang i=tabid                    do.
+\g NOM child NOM Irr:PV=accompany 1sgGen
+\l The child is the one I will include.
+
+\t Mola tang i=tabid                 do.
+\m Mola tang i=tabid                 do.
+\g child NOM Irr:PV=accompany 1sgGen
+\l The one I include will be a child.
+
+\t Nag=adal         lo       ta33 moya talabi.
+\m Nag=adal         lo       ta33 mo-ya talabi.
+\g Perf:AV=study 1sgNom GEN good last.night
+\l I studied hard last night.
+
+\t Pag=adal          lo        ta moya talabi asi=ng g<imin>oy=a.
+\m Pag=adal          lo        ta mo-ya talabi asi=ng g<imin>oy=a.
+\g Imperf:AV=study 1sgNom GEN good last.night D3=LIG Perf:AV=call
+\l I was studying hard last night when you called.
+
+\t Pag=adal          lo       ta moya mandianmay test ong damal!
+\m Pag=adal          lo       ta mo-ya mandian--may test ong damal!
+\g Imperf:AV=study 1sgNom GEN good now/today Exist test tomorrow
+\l I'm studying hard today--there's a test tomorrow!
+
+\t Pag=adal            lo kaldaw=kaldaw.
+\m Pag=adal            lo kaldaw=kaldaw.
+\g Imperf:AV=study 1sgNom daily
+\l I study everyday.
+
+\t Mag=adal lo             ta moya lagatlagat.
+\m Mag=adal lo             ta mo-ya lagat-lagat.
+\g  Fut=study 1sgNom GEN good later.today
+\l I'll study hard (a little bit) later.
+
+\t Pag=isip       po=ng     mag=adal.
+\m Pag=isip       po=ng     mag=adal.
+\g Imp:AV=think 1sgNom=LIG Irr:AV=study
+\l I'm planning to study.
+
+\t Maliwag pala ang mag=adal!
+\m Maliwag pala ang mag=adal!
+\g difficult SURP NOM Irr:AV=study
+\l It's difficult to study, after all!
+
+\t Mag=adal      la       ta           moya!
+\m Mag=adal      la       ta           mo-ya!
+\g Irr:AV=study 2sgNom GEN             good
+\l Study well/hard!
+
+\t Nag=adal        lo   ra.
+\m Nag=adal        lo   ra.
+\g Perf:AV=study 1sgNom already
+\l I already studied.
+
+\t Nag=adal         lo        pa.
+\m Nag=adal         lo        pa.
+\g Perf:AV=study 1sgNom yet
+\l I continued to study./I also studied.
+
+\t Pag=adal       lo       ra.
+\m Pag=adal       lo       ra.
+\g Imp:AV=study 1sgNom already
+\l I am/was already studying.
+
+\t Pag=adal          lo       pa.
+\m Pag=adal          lo       pa.
+\g Imp:AV=study 1sgNom yet
+\l I'm still/also studying.
+
+\t Mag=adal       lo         ra.
+\m Mag=adal       lo         ra.
+\g Irr:AV=study 1sgNom already
+\l I'll study now./I'll start studying now.
+
+\t Nag=adal         din     tang mola.
+\m Nag=adal         din     tang mola.
+\g Perf:AV=study DESID NOM child
+\l The child tried to study (unsuccessfully)/(but no good came of it).
+
+\t Mga nag=adal           din     lamang, na=pasar     ka     rin.
+\m Mga nag=adal           din     lamang, na=pasar     ka     rin.
+\g if     Perf:AV=study DESID only         Perf:AV=pass MIT DESID
+\l If s/he had only studied, s/he would have passed.
+
+\t Mga pag=adal           din, ma=pasar            ka rin.
+\m Mga pag=adal           din, ma=pasar            ka rin.
+\g if     Perf:AV=study DESID Perf:AV=pass MIT DESID
+\l If s/he is studying (as I hope), s/he will pass (I hope).
+
+\t Mga mag=adal           din,    ma=pasar         ka rin.
+\m Mga mag=adal           din,    ma=pasar         ka rin.
+\g  if     Irr:AV=study DESID Perf:AV=pass MIT DESID
+\l If s/he will study (as I hope), s/he will pass (I hope).
+
+\t Soltiras       ka rin!
+\m Soltiras       ka rin!
+\g young.woman MIT DESID
+\l Oh, for a young lady!/Would that there were young ladies around!
+
+\t Balampa nag=adal           tanira ta moya!
+\m Balampa nag=adal           tanira ta mo-ya!
+\g JUSS      Perf:AV=study 3PlNom GEN good
+\l I hope they studied well!/May they have studied well!
+
+\t Balampa pag=adal            tanira ta moya!
+\m Balampa pag=adal            tanira ta mo-ya!
+\g JUSS      Imperf:AV=study 3PlNom GEN good
+\l I hope they are studying well!/May they be studying well!
+
+\t Balampa mag=adal tanira ta moya!
+\m Balampa mag=adal tanira ta mo-ya!
+\g  JUSS      Irr:AV=study 3PlNom GEN good
+\l I hope they will study well!/May they study well!
+
+\t Balampa ra        lamang!
+\m Balampa ra        lamang!
+\g JUSS      already only
+\l May it be (so)!
+
+\t  Namag=adal         tanira.
+\m  Namag=adal         tanira.
+\g Perf:AV:PL=study 3plNom
+\l They studied.
+
+\t  Pamag=adal           tanira.
+\m  Pamag=adal           tanira.
+\g Perf:AV:PL=study 3plNom.
+\l They are/were studying.
+
+\t Mamag=adal              tanira.
+\m Mamag=adal              tanira.
+\g Perf:AV:PL=study 3plNom
+\l They will study.
+
+\t  Napag=adal             tanandia.
+\m  Napag=adal             tanandia.
+\g Perf:AV:ABL=study 3sgNom
+\l S/He happened to study/was able to study.
+
+\t Gapag=adal            tanandia.
+\m Gapag=adal            tanandia.
+\g Imperf:AV:ABL=study 3sgNom
+\l S/He happens to be studying/is able to study.
+
+\t Mapag=adal           tanandia.
+\m Mapag=adal           tanandia.
+\g Irr:AV:ABL=study 3sgNom
+\l S/He will be able to study.
+
+\t    Napamag=adal           tanira.
+\m    Napamag=adal           tanira.
+\g Perf:AV:ABL:PL=study 3plNom
+\l They happened to study/were able to study.
+
+\t Gapamag=adal               tanira.
+\m Gapamag=adal               tanira.
+\g Imperf:AV:ABL:PL=study 3plNom
+\l They happen to be studying/are able to study.
+
+\t (110)   Mapamag=adal            tanira.
+\m (110)   Mapamag=adal            tanira.
+\g         Irr:AV:ABL:PL=study 3plNom
+\l They will be able to study.
+
+\t Nagig=tabid                tang mola ong mga tangay na.
+\m Nagig=tabid                tang mola ong mga tangay na.
+\g Perf:AV:Soc=accompany NOM child OBL PL friend 3sgGen
+\l The child (joined in and) went along with his/her friends.
+
+\t Pagig=tabid                    tang mola ong mga tangay na.
+\m Pagig=tabid                    tang mola ong mga tangay na.
+\g Imperf:AV:Soc=accompany NOM child OBL PL friend 3sgGen
+\l The child (has joined in and) is going along with his/her friends.
+
+\t Magig=tabid               tang mola ong mga tangay na.
+\m Magig=tabid               tang mola ong mga tangay na.
+\g Irr:AV:Soc=accompany NOM child OBL PL friend 3sgGen
+\l The child will (join in and) go along with his/her friends.
+
+\t Nag=tabid=an               tang doroa=ng mola.
+\m Nag=tabid=an               tang doroa=ng mola.
+\g Perf:AV:Recip=accompany NOM two=LIG child
+\l The two children accompanied each other.
+
+\t Pag=tabid=an                 tang doroa=ng mola.
+\m Pag=tabid=an                 tang doroa=ng mola.
+\g Imperf:AV:Recip=accompany NOM two=LIG child
+\l The two children are accompanying each other.
+
+\t Mag=tabid=an               tang doroa=ng mola.
+\m Mag=tabid=an               tang doroa=ng mola.
+\g Irr:AV:Recip=accompany NOM two=LIG child
+\l The two children will accompany each other.
+
+\t Nag=t<ar>abid=an               tang mga mola.
+\m Nag=t<ar>abid=an               tang mga mola.
+\g Perf:AV:Recip=PL=accompany NOM PL child
+\l The children accompanied each other.
+
+\t Namag=tabid=an                tang mga mola.
+\m Namag=tabid=an                tang mga mola.
+\g Perf:AV:PL:Recip=accompany NOM PL child
+\l The children accompanied each other.
+
+\t Namag=t<ar>abid=an                    tang mga mola.
+\m Namag=t<ar>abid=an                    tang mga mola.
+\g Perf:AV:PL:Recip=PL=accompany NOM PL child
+\l The two children accompanied each other.
+
+\t Kaka=olik     ko  lamang.
+\m Kaka=olik     ko  lamang.
+\g RCA=go.home 1sgGen only
+\l I just got home.
+
+\t  Kaka=kabot ni Nanay!
+\m  Kaka=kabot ni Nanay!
+\g RCA=arrive PersSgGen Mother
+\l Mom just got here!
+

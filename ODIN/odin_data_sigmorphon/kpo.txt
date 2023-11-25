@@ -1,0 +1,15 @@
+\t kuma/       /                   kOkU/
+\m kuma/       /                   kOkU/
+\g Kuma       SM3S-give        Koku          goat
+\l Kuma gave Koku a goat
+
+\t kuma/       /                   itukpa/ ka/
+\m kuma/       /                   itukpa/ ka/
+\g Kuma       SM3S-take        goat          give   Koku
+\l Kuma gave Koku a goat
+
+\t kuma/       /                   EgaY
+\m kuma/       /                   EgaY
+\g Kuma       SM3S-lend        money         give   Koku
+\l Kuma lent money to Koku
+

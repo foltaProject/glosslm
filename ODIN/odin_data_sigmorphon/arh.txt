@@ -1,0 +1,40 @@
+\t mikawa'ka
+\m mi-ka-wa'ka
+\g 2.OBJ-APPL.DIR-look
+\l He looked at you.
+
+\t perikindi   mikga
+\m peri-kin-di   mi-k-ga
+\g dog-LIM-TOP 2.OBJ-APPL.DIR-eat
+\l (The jaguar) eats your two dogs.
+
+\t zoza una.
+\m zoza u-na.
+\g go     do-DIST
+\l They went..
+
+\t mougari      awarei                  zozana.
+\m mouga-ri      awarei                  zoza-na.
+\g two-TOP below                     go-DIST
+\l Two men went below.
+
+\t n÷n Juan guasi ingumn nnz¥nni
+\m n÷n Juan guasi ingumn n-nz¥n-ni
+\g      1SG Juan than more                 1SG-old-EVID
+\l I am older than Juan.
+
+\t winnaka              uzhe
+\m win-naka              u-zh-e
+\g 3PL:SUBJ-come         AUX-MED-Q
+\l Did they come?
+
+\t winnaka              uzhin
+\m win-naka              u-zh-in
+\g 3PL:SUBJ-come         AUX-MED-VIS
+\l They came (and I saw it).
+
+\t winnaka              una               ni
+\m win-naka              u-na               ni
+\g 3PL:SUBJ-come         AUX-DIST           CERT
+\l They came (but I didn't see it).
+

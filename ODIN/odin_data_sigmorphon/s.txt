@@ -1,0 +1,30 @@
+\t níni7zha
+\m ní-n-i7-zha
+\g PV-achievementSASP-PERFviewpt-stem
+\l S/he arrived at a point.
+
+\t nínéni7yo7                                          ní ­ né ­ n ­ i7yo7
+\m ní-né-n-i7-yo7                                          ní ­ né ­ n ­ i7-yo7
+\g PV-qualifier-achievementSASP-PERFviewpt-stem            1         6        9
+\l S/he stopped (completed) growing.'                    X         v        V
+
+\t déhji
+\m d-éh-ji
+\g  inceptive-accomplishmentSASP-voice/stem
+\l S/he started to sing.
+
+\t déya
+\m d-é-ya
+\g inceptive-accomplishmentSASP/PERFviewpt-stem
+\l S/he started to go.
+
+\t néti
+\m n-é-ti
+\g  egressive-accomplishmentSASP/PERFviewpt-stem
+\l S/he fell asleep.
+
+\t néhtlah
+\m n-éh-tlah
+\g egressive-accomplishmentSASP-stem
+\l It landed.
+

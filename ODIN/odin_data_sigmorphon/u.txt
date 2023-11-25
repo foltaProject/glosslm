@@ -1,0 +1,440 @@
+\t nuumaroqa      tha Uluta
+\m nuu-maroqa      tha Uluta
+\g picture-2DU.POSS    ART      Uluta
+\l the picture of you and Uluta
+
+\t roo  wela              na' i  ki  laa lae  keka                ba'ita     na'a...
+\m roo  wela              na' i  ki  laa lae  keka                ba'ita     na'a...
+\g two  child             this    PL    REDGO    the y.S EQ    be.big     PERF
+\l Eventually, the two child ren grew u p,  and ...
+
+\t Keero'a   keko        thathami keero'a 'afa       bongi       'eri
+\m Keero'a   keko        thathami keero'a 'a-fa       bongi       'eri
+\g 3DU       3DU.SEQ like            3DU       at-CLF day         that
+\l The two of them liked each other on thatday'.
+
+\t Kamareqa doqoraku            meki       lae mai    qusungadi.
+\m Kamareqa doqora-ku            meki       lae ma-i    qusungadi.
+\g 1du(excl) brother-1sg.pers 1du(excl).fut go venit-at tomorrow
+\l I and my brother will come tomorrow.
+
+\t Nau ma wela nau ki mili                   too siafaqa.
+\m Nau ma wela nau ki mili                   too siafaqa.
+\g 1sg and child 1sg pl 1PL(excl).nonfut stay be.not.well.off
+\l I and my children, we are not well off.
+
+\t Kulu        too bia wane naqi.
+\m Kulu        too bia wane naqi.
+\g 1pl(incl) stay with man this
+\l Let's stay with this man.
+
+\t Kamaroqa tha           Bita moki  lae bii kamiliqa?
+\m Kamaroqa tha           Bita moki  lae bii kamiliqa?
+\g 2du          pers.mkr B.2du.fut go with 1pl(excl)
+\l Will you and Bita come with us?
+
+\t (Kamaroqa) moro           sifo    naqa?
+\m (Kamaroqa) moro           sifo    naqa?
+\g 2du          2du.nonfut descend perf
+\l Are the two of you going down now?
+
+\t (20) a. Kamareqa doqoraku          meki            lae mai           qusungadi.
+\m (20) a. Kamareqa doqora-ku          meki            lae ma-i           qusungadi.
+\g =(1)   1du(excl)brother-1sg.pers1du(excl).futgovenit-at                tomorrow  
+\l I and my brother will come tomorrow.
+
+\t Doqoraku        kamareqa meki                       lae    mai        qusungadi.
+\m Doqora-ku        kamareqa meki                       lae    ma-i        qusungadi.
+\g brother-1sg.pers 1du(excl) 1du(excl).fut             go     venit-at    tomorrow  
+\l My brother and I will come tomorrow.
+
+\t Keeroqa tha          Bita kero        sifo    naqa.
+\m Keeroqa tha          Bita kero        sifo    naqa.
+\g 3du       pers.mkr B.3du.nonfut descend perf
+\l He/she and Bita have gone down.
+
+\t Tha        Bita keeroqa kero           sifo    naqa.
+\m Tha        Bita keeroqa kero           sifo    naqa.
+\g pers.mkr B.3du       3du.nonfut descend perf
+\l Bita and he/she have gone down.
+
+\t Kamareqa tha       Ulufaalu na mere             raa qasi      doo naqi.
+\m Kamareqa tha       Ulufaalu na mere             raa qa-si      doo naqi.
+\g 1du(excl) pers.mkr U.foc 1du(excl).nonfut       work at-part thing this 
+\l It was me and Ulufaalu who worked on this thing.
+
+\t Kamareqa teqe futaa           boqo.
+\m Kamareqa teqe futaa           boqo.
+\g 1DU(excl) one family.line intens
+\l The two of us are one and the same family line.
+
+\t Kamareqa tha            Reni teqe futaa        boqo.
+\m Kamareqa tha            Reni teqe futaa        boqo.
+\g 1DU(excl) pers.mkr R.one family.line intens
+\l I and Reni are one and the same family line.
+
+\t Kera        riki nau.
+\m Kera        riki nau.
+\g 3PL.nonfut see 1sg
+\l They saw me.
+
+\t suli qoe
+\m suli qoe
+\g about 2sg
+\l about you
+
+\t Qo             riki nia?
+\m Qo             riki nia?
+\g 2sg.nonfut see 3sg
+\l Did you see him/her?
+
+\t Qo             riki kera?
+\m Qo             riki kera?
+\g 2sg.nonfut see 3PL
+\l Did you see them?
+
+\t Qo             rikia?
+\m Qo             riki-a?
+\g 2sg.nonfut see-3sg.obj
+\l Did you see him/her?
+
+\t Qo             rikida?
+\m Qo             riki-da?
+\g 2sg.nonfut see-3PL.obj
+\l Did you see them?
+
+\t sulia
+\m suli-a
+\g about-3sg
+\l about him/her
+
+\t Qo             rikia  wane baa?
+\m Qo             riki-a  wane baa?
+\g 2sg.nonfut see-3sg.obj man that
+\l Did you see the man?
+
+\t Qo          {rikia    /*rikida}    wane baa ki?
+\m Qo          {riki-a    /*riki-da}    wane baa ki?
+\g 2sg.nonfut see-3sg.obj / see-3PL.obj man that pl
+\l Did you see the men?
+
+\t Wane e            labataqi nau.
+\m Wane e            laba-taqi nau.
+\g man 3sg.nonfut harm-trans 1sg
+\l The man harmed me.
+
+\t Wane e           labatania      maka nau.
+\m Wane e           laba-tani-a      maka nau.
+\g man 3sg.nonfut harm-trans-3sg.obj father 1sg
+\l The man harmed my father.
+
+\t Wane e            labataqi       kamareqa maka nau.
+\m Wane e            laba-taqi       kamareqa maka nau.
+\g man 3sg.nonfut harm-trans 1DU(excl) father 1sg
+\l The man harmed me and my father.
+
+\t Wane e         labatania        maka nau      kamareqa.
+\m Wane e         laba-tani-a        maka nau      kamareqa.
+\g man 3sg.nonfut harm-trans-3sg.obj father 1sg    1du(excl)
+\l The man harmed my father and me.
+
+\t Toqa       loo     kera               ngata     taqaa     suli           kamareqa wela nau. 
+\m Toqa       loo     kera               ngata     taqaa     suli           kamareqa wela nau. 
+\g people     that.up 3PL.nonfut         speak     be.bad    about          1DU(excl) child 1sg
+\l The people up there speak badly about me and my child.
+
+\t Toqa     loo     kera               ngata     taqaa     sulia          wela    nau kamareqa.
+\m Toqa     loo     kera               ngata     taqaa     suli-a          wela    nau kamareqa.
+\g people   that.up 3PL.nonfut         speak     be.bad    about-3sg.obj   child   1sg 1DU(excl)
+\l The people up there speak badly about my child and me.
+
+\t Kamareqa maka nau,              wane e         labataqi            kamareqa naqa.
+\m Kamareqa maka nau,              wane e         laba-taqi            kamareqa naqa.
+\g 1du(excl) father 1sg            man 3sg.nonfut harm-trans           1du(excl) perf
+\l Me and my father, the man has harmed us.
+
+\t Maka nau kamareqa,             wane e         labataqi      kamareqa naqa.
+\m Maka nau kamareqa,             wane e         laba-taqi      kamareqa naqa.
+\g father 1sg 1du(excl)           man 3sg.nonfut harm-trans     1du(excl) perf
+\l My father and me, the man has harmed us.
+
+\t Wane e            labataqi nau naqa.
+\m Wane e            laba-taqi nau naqa.
+\g man 3sg.nonfut harm-trans 1sg perf
+\l The man has harmed me.
+
+\t Wane e            labatania   naqa maka nau.
+\m Wane e            laba-tani-a   naqa maka nau.
+\g man 3sg.nonfut harm-trans-3.obj perf father 1sg
+\l The man has harmed my father.
+
+\t wane e            labataqi   kamareqa naqa maka nau
+\m wane e            laba-taqi   kamareqa naqa maka nau
+\g man 3sg.nonfut harm-trans 1du(excl) perf father 1sg
+\l The man has harmed me and my father.
+
+\t Wane e           labatania           naqa maka nau kamareqa.
+\m Wane e           laba-tani-a           naqa maka nau kamareqa.
+\g man 3sg.nonfut harm-trans-3sg.obj perf father 1sg 1du(excl)
+\l The man has harmed my father and me.
+
+\t Wane e            labataqi    kamareqa maka nau.
+\m Wane e            laba-taqi    kamareqa maka nau.
+\g man 3sg.nonfut harm-trans 1du(excl) father 1sg
+\l The man harmed me and my father.
+
+\t Kera         thaitoqomamareqa (*kamareqa).
+\m Kera         thaitoqoma-mareqa (*kamareqa).
+\g 3pl.nonfut know-1du(excl).pers 1du(excl)
+\l They know the two of us.
+
+\t thainana        (*nia)
+\m thaina-na        (*nia)
+\g mother-3sg.pers 3sg
+\l his/her mother
+
+\t Ni       nau ku       thaitoqomana                wane neqe.
+\m Ni       nau ku       thaitoqoma-na                wane neqe.
+\g foregr 1sg 1sg.nonfut know-3sg.pers                man this
+\l I know this man.
+
+\t Ni       nau ku       thaitoqomana wane neqe ki.
+\m Ni       nau ku       thaitoqoma-na wane neqe ki.
+\g foregr 1sg 1sg.nonfut know-3sg.pers man this pl
+\l I know these men.
+
+\t Kera        thaitoqomana wela nau kamareqa.
+\m Kera        thaitoqoma-na wela nau kamareqa.
+\g 3pl.nonfut know-3sg.pers child 1sg 1du(excl)
+\l They know my child and me.
+
+\t Kera        thaitoqomamareqa,     kamareqa wela nau.
+\m Kera        thaitoqoma-mareqa,     kamareqa wela nau.
+\g 3pl.nonfut know-1du(excl).pers 1du(excl) child 1sg
+\l They know the two of us, me and my child.
+
+\t Nuutha           Uluta kamaroqa qe              leqa    qasia naqa.
+\m Nuu-tha           Uluta kamaroqa qe              leqa    qasia naqa.
+\g picture-pers.mkr U.2DU          3sg.nonfut be.nice very
+\l The picture of Uluta and you is very nice.
+
+\t thainatha      Bita
+\m thaina-tha      Bita
+\g mother-pers.mkr B.
+\l Bita's mother
+
+\t Kamaroqa tha      Uluta, nuumaroqa       qe         leqa       qasia naqa.
+\m Kamaroqa tha      Uluta, nuu-maroqa       qe         leqa       qasia naqa.
+\g 2du      pers.mkr U.picture-2du.pers 3sg.nonfut be.nice         very       
+\l You and Uluta, the picture of you two is very nice.
+
+\t Nau kwai lae kau          buriani    Saeli²qa keeroqa.
+\m Nau kwai lae kau          buria-ni    Saeli²qa keeroqa.
+\g 1sg 1sg.fut go andat behind-pers.mkr S.3du
+\l I will follow Saeli²qa and him/her.
+
+\t Fanga kamaroqa ni                     Fiona         neq.
+\m Fanga kamaroqa ni                     Fiona         neq.
+\g food      2DU         pers.mkr        F.this.here
+\l Here is your and Fiona's food.
+
+\t Fanga ni              Fiona           kamaroqa neq.
+\m Fanga ni              Fiona           kamaroqa neq.
+\g food      pers.mkr F.2DU      this.here
+\l Here is Fiona's and your food.
+
+\t Roo wane       naqi ki qe               aqi      kesi     raa      suukwaqi      mala kamaroqa tha            Ulufaalu.
+\m Roo wane       naqi ki qe               aqi      ke-si     raa      suukwaqi      mala kamaroqa tha            Ulufaalu.
+\g two man        this pl 3sg.nonfut neg.vb 3PL-neg work               work.hard     as    2DU         pers.mkr U.         
+\l These two    men don't work as hard as you and Ulufaalu.
+
+\t Toqa naqi qe                aqi       kesi     nguu mala tha              Ulufaalu kera.
+\m Toqa naqi qe                aqi       ke-si     nguu mala tha              Ulufaalu kera.
+\g people this 3sg.nonfut neg.vb 3PL-neg sing as                pers.mkr      U.3PL         
+\l These people don't (play and) sing (as well) as Ulufaalu 'n 'em [Ulu- faalu and his musical group].
+
+\t Kukeqe        nau meki             lae uri Honiara qana wiki loo.
+\m Kukeqe        nau meki             lae uri Honiara qana wiki loo.
+\g mature.woman1sg 1DU(excl).fut go to H.at week that.up
+\l My wife and I will go to Honiara next week.
+
+\t Fiona kesi               fula quu?
+\m Fiona ke-si               fula quu?
+\g F.3PL.nonfut-neg arrive yet
+\l Haven't Fiona 'n 'em arrived yet?
+
+\t Kera thaitoqomamareqa wela nau.
+\m Kera thaitoqoma-mareqa wela nau.
+\g 3PL know-1DU(excl).pers child 1sg
+\l They know me and my child.
+
+\t Qoki     takwe i naqo famareqa            tha      Bita.
+\m Qoki     takwe i naqo fa-mareqa            tha      Bita.
+\g 2sg.fut stand at front GOAL-1DU(excl).pers pers.mkr B.
+\l Stand in front of me and Bita.
+
+\t Nuumaroqa        tha       Uluta qe            leqa    qasia naqa.
+\m Nuu-maroqa        tha       Uluta qe            leqa    qasia naqa.
+\g picture-2DU.pers pers.mkr U.3sg.nonfut be.nice very
+\l The picture of you and Uluta is very nice.
+
+\t Tha        Uluta, nuumaroqa          qe           leqa qasia naqa.
+\m Tha        Uluta, nuu-maroqa          qe           leqa qasia naqa.
+\g pers.mkr U.picture-2DU.pers 3sg.nonfut be.nice very
+\l Uluta, the picture of him with you is very nice.
+
+\t Tha        Ulufaalu na mere                     raa     qasi doo      naqi.
+\m Tha        Ulufaalu na mere                     raa     qa-si doo      naqi.
+\g pers.mkr U.foc 1DU(excl).nonfut work at-part thing                     this 
+\l It was Ulufaalu that I worked on this thing with.
+
+\t   (70) Kamareqa tha            Reni teqe futaa        boqo.
+\m   (70) Kamareqa tha            Reni teqe futaa        boqo.
+\g =(24) 1DU(excl) pers.mkr R.one family.line intens
+\l I and Reni are one and the same family line.
+
+\t Tha       Reni teqe futaa       boqo.
+\m Tha       Reni teqe futaa       boqo.
+\g pers.mkr R.one family.line intens
+\l Reni is one and the same family line.
+
+\t   (72) Roo wane naqi ki qe                 aqi     kesi     raa        suukwaqi mala kamaroqa tha  pers.mkr U.Ulufaalu.
+\m   (72) Roo wane naqi ki qe                 aqi     ke-si     raa        suukwaqi mala kamaroqa tha  pers.mkr U.Ulufaalu.
+\g =(57) two man this pl 3sg.nonfut neg.vb 3PL-neg work                    work.hard as     2DU                            
+\l These two men don't work as hard as you and Ulufaalu.
+
+\t Roo wane     naqi   ki qe           aqi      kesi   raa      suukwaqi     mala    tha       Ulufaalu.
+\m Roo wane     naqi   ki qe           aqi      ke-si   raa      suukwaqi     mala    tha       Ulufaalu.
+\g two man      this   pl 3sg.nonfut neg.vb 3PL-neg work         work.hard    as      pers.mkr U.        
+\l These two    men   don't work as hard as Ulufaalu.
+
+\t    (74) Fanga ni           Fiona kamaroqa neq.
+\m    (74) Fanga ni           Fiona kamaroqa neq.
+\g =(56b) food pers.mkr F.2DU    this.here
+\l Here is Fiona's and your food.
+
+\t Fanga ni           Fiona neq.
+\m Fanga ni           Fiona neq.
+\g food pers.mkr F.this.here
+\l Here is Fiona's food.
+
+\t Nau ku             rikida     doqoramu.
+\m Nau ku             riki-da     doqora-mu.
+\g   1sg 1sg.nonfut see-3PL.obj brother-2sg.pers
+\l I saw them and/with your brother.
+
+\t Nau ku             fulatoqoda     toq    qeki sulutala.
+\m Nau ku             fulatoqo-da     toq    qe-ki sulutala.
+\g   1sg 1sg.nonfut meet-3PL.pers people that-pl on.road
+\l I met them and/including those people on the road.
+
+\t Nau ku             rikia  doqoramu.
+\m Nau ku             riki-a  doqora-mu.
+\g 1sg 1sg.nonfut see-3sg.obj brother-2sg.pers
+\l I saw your brother.
+
+\t Nau ku              fulatoqona toq qeki sulutala.
+\m Nau ku              fulatoqo-na toq qe-ki sulutala.
+\g 1sg 1sg.nonfut meet-3sg.pers people that-pl on.road
+\l I met those people on the road.
+
+\t Nuumaroqa        (*kamaroqa) qe           leqa    qasia naqa.
+\m Nuu-maroqa        (*kamaroqa) qe           leqa    qasia naqa.
+\g picture-2DU.pers 2DU            3sg.nonfut be.nice very
+\l The picture of you two is very nice.
+
+\t  (81) a. Nuumaroqa        tha      Uluta qe           leqa    qasia naqa.
+\m  (81) a. Nuu-maroqa        tha      Uluta qe           leqa    qasia naqa.
+\g (=66)    picture-2DU.pers pers.mkr U.3sg.nonfut be.nice very
+\l The picture of you and Uluta is very nice.
+
+\t Saen kera          lae naqa?
+\m Saen kera          lae naqa?
+\g S.3PL.nonfut go perf
+\l Have Saen 'n 'em gone?
+
+\t Lae mai     buiramareqa         ni       Saeli²qa.
+\m Lae ma-i     buira-mareqa         ni       Saeli²qa.
+\g go venit-at behind-1DU(excl).pers pers.mkr S.
+\l Follow me and Saeli²qa.
+
+\t kamiliqa tha         Gerea
+\m kamiliqa tha         Gerea
+\g 1PL(excl) pers.mkr G.
+\l we and/including Gerea
+
+\t Kera tha         Leliana.
+\m Kera tha         Leliana.
+\g 3PL pers.mkr L.
+\l They (were ) with Leliana.
+
+\t Kini   baa ki kera          foria       alo baa ...
+\m Kini   baa ki kera          fori-a       alo baa ...
+\g woman that pl 3pl.nonfut clean-3sg.obj taro that
+\l The women were cleaning the taros, ...
+
+\t Fau neqe ki qe            kuluqa.
+\m Fau neqe ki qe            kuluqa.
+\g stone this pl 3sg.nonfut be.heavy
+\l These stones are heavy.
+
+\t Fau neqe ki kera          kuluqa.
+\m Fau neqe ki kera          kuluqa.
+\g stone this pl 3pl.nonfut be.heavy
+\l These stones are heavy.
+
+\t A: Tei keeroqa?
+\m A: Tei keeroqa?
+\g    who 3DU
+\l Who (is he) with?
+
+\t B: Keeroqa Qaisik.
+\m B: Keeroqa Qaisik.
+\g    3DU        Aisik
+\l He (is) with Aisik.
+
+\t Ni      tei ne           fula mai neri?
+\m Ni      tei n-e           fula mai neri?
+\g foregr who foc-3sg.nonfut arrive venit here.now
+\l Who's arrived?
+
+\t tha        Gerea kera
+\m tha        Gerea kera
+\g pers.mkr G.3PL
+\l Gerea 'n 'em
+
+\t doqoraku        kamareqa
+\m doqora-ku        kamareqa
+\g brother-1sg.pers 1DU(excl)
+\l my brother and I
+
+\t Tha      Gerea kera keki   lae mai    qusungadi keki          rik kulu.    
+\m Tha      Gerea kera keki   lae ma-i    qusungadi keki          rik kulu.    
+\g pers.mkr G.3PL 3PL.fut go venit-at tomorrow 3PL.fut            see 1PL(incl)
+\l Gerea 'n 'em will come to see us tomorrow.
+
+\t Kera tha     Gerea keki    lae mai    qusungadi keki    rik kulu.    
+\m Kera tha     Gerea keki    lae ma-i    qusungadi keki    rik kulu.    
+\g 3PL pers.mkr G.3PL.fut go venit-at tomorrow 3PL.fut      see 1PL(incl)
+\l They, including Gerea, will come to see us tomorrow.
+
+\t Mania, baastoo kere              too ofu.
+\m Mania, baastoo kere              too ofu.
+\g yes      Pastor 3PL.nonfut stay be.together
+\l Yes, the Pastor and the others were together.
+
+\t   (95) Fiona kesi               fula quu?
+\m   (95) Fiona ke-si               fula quu?
+\g =(63) F.3PL.nonfut-neg arrive yet
+\l Haven't Fiona 'n 'em arrived yet?
+
+\t   (96) Tii kamaroqa ni         tei?
+\m   (96) Tii kamaroqa ni         tei?
+\g =(88) tea 2DU          foregr who
+\l Tea for you and who?
+
+\t Moringa tei kera?
+\m Moringa tei kera?
+\g share   who 3PL
+\l Whose [more than two people] share of food [is this]?
+

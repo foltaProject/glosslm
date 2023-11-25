@@ -1,0 +1,30 @@
+\t Capi            te       ipupun
+\m Capi            te       i-pupun
+\g NAME            PAST     1-see
+\l Capi saw me
+
+\t Capi            te       me        ipupun
+\m Capi            te       me        i-pupun
+\g NAME            PAST     PLUR      1-see
+\l Capi saw us (exclusive)
+
+\t humre     te       me       rop     cahhyr
+\m humre     te       me       rop     cahhyr
+\g man       PAST     PLUR     dog     beat
+\l The men beat the dog
+
+\t Hmre              te     po curan.
+\m Hmre              te     po curan.
+\g Man PAST          deer kill
+\l The man killed a deer.
+
+\t Po wa ite             ihcuran.
+\m Po wa i-te             ih-curan.
+\g Deer I 1sS-PAST 3-kill
+\l It was a deer that I killed.
+
+\t Wa ka capi p              na     cume~.
+\m Wa ka capi p              na     cu-me~.
+\g I     FUT Capri wood about 3-order
+\l I ordered Capri about the wood (to cut it).
+

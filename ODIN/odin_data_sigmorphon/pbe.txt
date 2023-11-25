@@ -1,0 +1,120 @@
+\t ce²/e³=ni2        tha³xua¹na¹ ni³u3
+\m ce²-/e³=ni2        tha³-xua¹na¹ ni³u3
+\g give-3>3=INCL CL-Juana            tortilla
+\l Mrs. Juana gives us tortillas.'5
+
+\t tha³xua¹na¹    na3            ce²/e³=ni²=tha³ni³u³
+\m tha³-xua¹na¹    na3            ce²-/e³=ni²=tha³ni³u³
+\g CL-Juana           FOC            give-3>3=INCL=CO tortilla
+\l It is Mrs. Juana who gives us tortillas.
+
+\t ci³/ na³      c³sa¹       k/u³tuã²/a²=nda¹=ci³/
+\m ci³/ na³      c³sa¹       k/u³tuã²-/a²=nda¹=ci³/
+\g pot FOC know.2              PST.paint.2-NEG=PL.2=CO
+\l It is pots that you.PL did not know to paint.
+
+\t ta¹te³ka³    ki¹cu¹    t ¹    si¹ni²ci²nga¹
+\m ta¹te³ka³    ki¹cu¹    t ¹    si¹-ni²ci²nga¹
+\g push.3       REC.3     the CL-boys
+\l These boys push each other.
+
+\t ni²c8he³/e¹    ki¹cu¹a²=nda¹
+\m ni²c8he³-/e¹    ki¹cu¹-a²=nda¹
+\g greet-2>3          REC-2=PL.2
+\l You greet each other.
+
+\t the³the³xu¹k/u³=s¹         t¹ t/e¹=s¹
+\m the³-the³xu¹-k/u³=s¹         t¹ t/e¹=s¹
+\g are-live.3-COM.3=REV        the his.parent=REV
+\l They are living together with his parents.
+
+\t t/i²c8²kua²=nda¹
+\m t/i²c8²-kua²=nda¹
+\g sleep-COM.2=PL.2
+\l You.PL sleep together
+
+\t b      t/i¹c8³kã³=na¹
+\m b      t/i¹c8³-kã³=na¹
+\g        sleep-COM.1=EXCL
+\l We sleep together
+
+\t the¹xu³k/ã³ ki¹ci¹a³=na¹
+\m the¹xu³-k/ã³ ki¹ci¹a³=na¹
+\g are-COM.1           REC.1=EXCL
+\l We are together (like brothers).
+
+\t t/ia¹       ku³ t¹      ndu³a³
+\m t/ia¹       ku³ t¹      ndu³a³
+\g drink.1     and the man
+\l I drink with the man.
+
+\t ka³si¹    na³      molde t/u¹na²si²
+\m ka³si¹    na³      molde t/u¹na²-si²
+\g all       FOC      mould is.made-INST.3
+\l Everything is made with a mould.
+
+\t nda³      tha³te²si²   c/i¹to²ma¹
+\m nda³      tha³te²-si²   c/i¹-to²ma¹
+\g stick     beat-INST.3 CL-Tomas
+\l Mr. Tomas beats with a stick.
+
+\t tu³t/a¹   t/ui³nga²si²/i¹
+\m tu³t/a¹   t/ui³nga²-si²-/i¹
+\g your.foot touch-INST-2>3
+\l You touch him with your foot.
+
+\t tha³te² c/i¹to²ma¹ nda³
+\m tha³te² c/i¹-to²ma¹ nda³
+\g beat.3    CL-Tomas       stick.
+\l Mr. Tomas beats with a stick.
+
+\t ti³sa²       nda³ci²na²
+\m ti³-sa²       nda³ci²na²
+\g come-INST.1 Tehuacán
+\l I come from Tehuacán.
+
+\t xã¹/ã³   ku³ xa²/a²na³ k/ua³c8he²si²=ni²      t¹ ca²a³s²
+\m xã¹/ã³   ku³ xa²/a²na³ k/ua³c8he²-si²=ni²      t¹ ca²a³s²
+\g I        and you          FOC PST.leave-INST.3=INCL the village
+\l You and I left the village together.
+
+\t t¹ s²ã³/       na³ kui¹c/e²ni¹/i²    chã³
+\m t¹ s²ã³/       na³ kui¹-c/e²-ni¹-/i²    chã³
+\g this medicine FOC PST-CAU.3-ill-3>3 child
+\l This medicine made the child ill.
+
+\t t¹ s²ã³/       na³ kui¹c/e²ni¹na³
+\m t¹ s²ã³/       na³ kui¹-c/e²-ni¹-na³
+\g this medicine FOC PST-CAU.3-ill-3>1
+\l This medicine made me ill.
+
+\t si²c/e²sa³/a²=ni²
+\m si²-c/e-²sa³-/a²=ni²
+\g FUT-CAU-work-NEG=INCL
+\l We will not work
+
+\t si²ce²/a²=ni²      sa³/
+\m si²-ce²-/a²=ni²      sa³/
+\g FUT-make-NEG=INCL work
+\l We will not do the work.'20
+
+\t             si²ta²/a³=sa¹       c/a³c8he²=sa¹
+\m             si²-ta²-/a³=sa¹       c/a³c8he²=sa¹
+\g -make-1>3=CO         FUT.leave.3=CO                         FUT
+\l I will make him (boy) leave
+
+\t si²ta²/a³=na¹=sa¹  c/a³c8he²=sa¹
+\m si²-ta²-/a³=na¹=sa¹  c/a³c8he²=sa¹
+\g FUT-make-1>3=EXCL=CO FUT.leave.3=CO
+\l We (EXCL) will make him (boy) leave
+
+\t si²ta²/a³=sa¹      c/a³c8he²=na²=sa¹
+\m si²-ta²-/a³=sa¹      c/a³c8he²=na²=sa¹
+\g FUT-make-1>3=CO           FUT.leave.3=PL.3=CO
+\l I will make them (boys)leave'.
+
+\t t¹  ci³Ni¹ na³ t²/i²si¹/a²=ni²
+\m t¹  ci³Ni¹ na³ t²/i²si¹-/a²=ni²
+\g this word FOC PRES.understand.3-NEG=INCL
+\l We do not understand this word. (This word is not understandable).
+

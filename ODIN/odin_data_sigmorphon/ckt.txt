@@ -1,0 +1,760 @@
+\t Gëmnan tëpirig÷en pojgën
+\m Gëmnan të-piri-g÷en pojgë-n
+\g I.ERG 1sgSUBJ-take-3sgOBJ spear-ABS
+\l I took the spear
+
+\t Gëm tëpojgëpereg÷ak
+\m Gëm të-pojg-ë-pere-g÷ak
+\g I.ABS 1sgSUBJ-spear-take-1sgSUBJ
+\l I took the spear
+
+\t nëjëq÷ew amecatg÷e.
+\m në-jëq-÷ew amecat-g÷e.
+\g ADV-quick-ADV hide-2:SG
+\l You hid quickly.
+
+\t ÷omrëgel
+\m ÷omrë-gel
+\g hard-ice
+\l hard ice
+
+\t t÷arqaworwëk
+\m t÷ar-qaw-orw-ëk
+\g   which-ORDINAL-sledge-LOCATIVE
+\l on which sledge?
+
+\t morëgklassëk
+\m morëg-klass-ëk
+\g   our-class-LOCATIVE
+\l in our class
+
+\t garaqëkëlëënpënacgërëma
+\m g-a-raqë-kë-lë-ënpënacg-ërë-ma
+\g   COMITATIVE-NEGATIVE-what-NEGATIVE-PARTICIPLE-old:man-PL-COMITATIVE
+\l with the old men who do not have what?
+
+\t tëmajÑëkoprantëwatërkën
+\m të-majÑë-kopra-ntëwatë-rkën
+\g   1SG-big-net-set-ASP
+\l I am setting a big net.
+
+\t tumge         mant«wat«n              kupren
+\m tumg-e         mant«wat«n              kupre-n
+\g friend-ERG they-set-it                   net-ABS
+\l The friends set the net
+
+\t tumg«t        kuprant«watg'at
+\m tumg-«t        kupra-nt«watg'at
+\g friend-ABS net-they-set
+\l The friends engaged in net-setting.
+
+\t t ­ u ­ t.
+\m t ­ u ­ t.
+\g  1S:SU-see-2S:OB
+\l I saw you
+
+\t t ­ ktntat ­ (a)k.
+\m t ­ ktntat ­ (a)k.
+\g   1S:SU-run-1S:SU
+\l I ran
+
+\t nan tjon u ­ nin
+\m nan tjon u ­ nin
+\g 3S:ERG 3S:ABS see-3S>3S:OB
+\l (S)he saw him/her/it
+
+\t mnan         tjon tu ­ en
+\m mnan         tjon t-u ­ en
+\g 1S:ERG       3S:ABS 1S:SU-see-3S:OB
+\l (S)he saw him/her/it
+
+\t t­jl­rkn­it
+\m t­jl­rkn­it
+\g 1S:SU-give-PRESI-2S:OB
+\l I give something to you
+
+\t aac&ek÷a      kimit?÷´n                                ne÷n¬?etet÷´n
+\m aac&ek÷a      kimit?÷´n                                ne÷n¬?etet÷´n
+\g youth-ERG      load-ABS                                 3PL.SUB-carry-3SG.OBJ
+\l (The) young men carried away the load
+
+\t ´?tv?et          j´r?et÷?i                            mim¬÷e
+\m ´?tv?et          j´r?et÷?i                            mim¬÷e
+\g boat-ABS         fill-3SG                             water-INSTR
+\l The boat filled with water.
+
+\t ´t¬´´n           (pec&÷et´)                           korav÷´rk´n
+\m ´t¬´´n           (pec&÷et´)                           korav÷´rk´n
+\g father.ABS       food-DAT                             delight.in-PROG.3.SG
+\l Father is happy about the food.
+
+\t aac&ek÷a      kimit?÷´n                      ne÷n¬?etet÷´n
+\m aac&ek÷a      kimit?÷´n                      ne÷n¬?etet÷´n
+\g youth-ERG      load-ABS                       3PL.SUB-carry-3SG.OBJ
+\l (The) young men carried away the load
+
+\t uttnejmewjwninet=÷m.
+\m utt-n-ejmew-jw--ninet=÷m.
+\g   wood-CAUSATIVE-approach-COLLECTIVE-3SG.A.3PL.P=EMPH
+\l He brought them wood
+
+\t g\mnan      g\t          t\l÷u g\t
+\m g\m-nan      g\t          t\-l÷u- g\t
+\g I-ERG you.SG         1SG-see-2SG
+\l I saw you (singular).
+
+\t g\mnan      turi          t\l÷u t\k
+\m g\m-nan      turi          t\-l÷u- t\k
+\g I-ERG you.PL          1SG-see-2PL
+\l I saw you (plural).
+
+\t \nan      g\t                    nel÷ug\t
+\m \-nan      g\t                    ne-l÷u-g\t
+\g he-ERG      you.SG                 3-see-2SG
+\l He saw you (singular).
+
+\t \nan      turi                   nel÷ut\k
+\m \-nan      turi                   ne-l÷u-t\k
+\g he-ERG      you.PL                 3-see-2PL
+\l He saw you (plural).
+
+\t \nan       muri                  nel÷um\k
+\m \-nan       muri                  ne-l÷u-m\k
+\g he-ERG       us                    3-see-1PL
+\l He saw us.
+
+\t g\m t\k\tg\ntatg÷ek
+\m g\m t\-k\tg\ntat-g÷ek
+\g I        1SG-run-1SG
+\l I ran.
+
+\t g\t          ^k\tg\ntat g÷e
+\m g\t          ^-k\tg\ntat- g÷e
+\g you.SG       2-run-2SG
+\l You (singular) ran.
+
+\t muri m\tk\tg\ntat m\k
+\m muri m\t-k\tg\ntat- m\k
+\g we    1PL-run-1PL
+\l We ran.
+
+\t turi          ^k\tg\ntat t\k
+\m turi          ^-k\tg\ntat- t\k
+\g you.PL        2-run-2PL
+\l You (plural) ran.
+
+\t g\m tinewiri~g÷ek
+\m g\m t-ine-wiri~-g÷ek
+\g I       1SG-AP-defend-1SG
+\l I defended (someone).
+
+\t g\t         ^ine wiri~g÷i
+\m g\t         ^-ine- wiri~-g÷i
+\g you.SG      2SG-AP-defend-2SG
+\l You defended (someone).
+
+\t g\m t\wiri~ \tkug÷ek
+\m g\m t\-wiri~- \tku-g÷ek
+\g I      1SG-defend-AP-1SG
+\l I defended (in relation to someone).
+
+\t g\t         ^wiri~ \tkug÷i
+\m g\t         ^-wiri~- \tku-g÷i
+\g you.SG      2SG-defend-AP-2SG
+\l You defended (in relation to someone).
+
+\t g\mnan      g\t          t\l÷u g\t
+\m g\m-nan      g\t          t\-l÷u- g\t
+\g I-ERG you.SG         1SG-see-2SG
+\l I saw you (singular).
+
+\t req´rk´n´m                      igirqej        g´nin            ek´k?
+\m req-´rk´n-´m                      igirqej        g´-nin            ek´k?
+\g do.what?-PROGRESSIVE-EMPHASIS right.now 2SG-POSSESSIVE son.ABSOLUTIVE
+\l What is your son doing right now?
+
+\t \tl\g\n      kawkaw\k m\tq\=rkeleg÷e
+\m \tl\g-\n      kawkaw-\k m\tq\=rkele-g÷e
+\g father-ABS    bread-LOC butter=spread.on-3SG.S
+\l The father   spread butter on the bread.
+
+\t \tl\g\n     t\kec÷a        utkuc÷\=pelag÷e
+\m \tl\g-\n     t\kec÷-a        utkuc÷\=pela-g÷e
+\g father-abs    bait-instr      trap=leave-3sgS
+\l The fathe   r left the ba   it at the trap.
+
+\t tlge          nin            l'ulql           rgtkwannen
+\m tlg-e          n-in            l'ulql           r-gtkwan-nen
+\g father-ERG     3SG-POSS        face.ABS         CAUS-freeze-3SG.3SG.AORIST
+\l Father got his face frozen.
+
+\t tlgn          l'ongtkwatg'e
+\m tlg-n          l'o-n-gtkwat-g'e
+\g father-ABS     face-CAUS-freeze-3SG.AORIST
+\l Father got his face frozen.
+
+\t Gmnan gt               tite       mwinret gt ermetwik.
+\m Gm-nan gt               tite       m-winret- gt ermetwi-k.
+\g I-ERG you.SG.ABS sometime 1SG-help- 2SG grow.strong-INF
+\l Let me help you sometime to grow strong.
+
+\t Morgnan gt             mtre winretgt riwlk ml!o             ge£eyo            t. 
+\m Morg-nan gt             mt-re- winret-gt riwl-k ml!o             ge£e-yo-            t. 
+\g we-ERG you.SG.ABS 1PL-FUT- help-2SG move-INF all.ABS             collect-PASSPRTC- ABSpl
+\l We will help you to move all the collected items.
+
+\t Etip!ey�e kl!        in         �ew£qet          ragtg!.
+\m E-tip!ey�e- k-l!-        in         �ew£qet          ragt-g!.
+\g NEG-sing-      NEG-PART- ABS.SG woman.ABS.SG go.home-3SG
+\l The woman who was not singing went home.
+
+\t Igr ayo! kl!            et enmet mnlqn mk.
+\m Igr a-yo!- k-l!-            et enm-et mn-lqn- mk.
+\g now NEG-reach- NEG-PART- to hill-to 1PL-go-             1PL
+\l Now let us go to the hill which (someone) didn't reach.
+
+\t Enagtat kl!           a    qaak     !aa£eka      winretrkn inet                �ew£qetti.
+\m En-agtat- k-l!-           a    qaa-k     !aa£ek-a      winret-rkn- inet                �ew£qet-ti.
+\g APASS-chase- NEG-PART- ERG reindeer-LOC youth-ERG      help-PRES- 3sERG.3pABS woman-ABS.PL        
+\l The youth who does not chase the reindeer is helping the women.
+
+\t Morgnan gt             mtre winretgt [riwlk ml!o                ge£eyo            t].
+\m Morg-nan gt             mt-re- winret-gt [riwl-k ml!o                ge£e-yo-            t].
+\g we-ERG you.SG.ABS 1PL-FUT- help-2SG move-INF all.ABS                 collect-PASSPRTC- ABSpl
+\l We will help you to move all the collected items.
+
+\t walat mëmnerkën
+\m wala-t më-mne-rkën
+\g knife-ABS.PL 1PL.SUBJ.IMPER-sharpen-ASP
+\l Let's sharpen (our) knife/knives
+
+\t Ñëroq ÷aacekët nëtejkewqinet jarak rëmagtë
+\m Ñëroq ÷aacekë-t në-tejkew-qinet jarak rëmagtë
+\g three boys 3PL.SUBJ-fight-3PL.SUBJ house behind
+\l Three boys are fighting behind the houses
+
+\t Gëmninet ekket igër etejkewke ritÑët
+\m Gëmninet ekke-t igër e-tejkew-ke r-it-Ñët
+\g our son-PL today NEG-fight-NEG FUT-AUX.INTR-3PL
+\l Our sons won't be fighting today
+
+\t Wëtku jëquntetëk tëket÷og÷an peljajo caat
+\m Wëtku jëquntetëk të-ket÷o-g÷an peljajo caat
+\g only having.depart 1SG.SUBJ-remember-3SG.OBJ left lasso
+\l Only when I had gone did I remember the lasso I had left
+
+\t ëmë ergatëk Ñinqeje aket÷oka rëtninet peljajotte lilit
+\m ëmë ergatëk Ñinqej-e a-ket÷o-ka rët-ninet peljajotte lilit
+\g and next.day boy-ERG NEG-remember-NEG AUX.TRANS-
+\l And the day after, the boy didn't remember the gloves he had left
+
+\t Qërirnin tanlëmënqol÷uk lewawnen                 
+\m Qërir-nin tanlëmënqo-l÷u-k lewaw-nen                 
+\g search-3SG.SUBJ/3SG.OBJ everywhere find-INF not.able-        3SG.SUBJ/3SG.OBJ
+\l He looked for her [his wife] everywhere but could not find her
+
+\t Pelagtë Ñelwël ënan l÷unin maglal÷ën.
+\m Pela-gtë Ñelwël ënan l÷unin maglal÷ën.
+\g leave-ALL herd he saw dog-team
+\l (Before, just as he was) leaving the herd, he saw the dog-team
+
+\t ÷aacek opcatkojpë ermekw÷i.
+\m ÷aacek opcatko-jpë ermekw÷i.
+\g youth weight-lifting-ABL grew-strong.
+\l The young man grew strong by lifting weights
+
+\t TëmÑetwata qërëm plekët qëplëtkugënet.
+\m TëmÑetwa-ta qërëm plekët qëplëtkugënet.
+\g lazing-INSTR not boots you-will-finish
+\l You won't finish those boots by lazing around.
+
+\t ëtri gamelgerëtkoma nëpenratkoqinet
+\m ëtri ga-melgerëtko-ma nëpenratkoqinet
+\g they COM-shoot-COM attacked
+\l They attacked shooting.
+
+\t Ñewësqetti megceranma tamenÑërak amqën÷ëco nëtip÷ejÑëqinet.
+\m Ñewësqetti megceran-ma tamenÑërak amqën÷ëco nëtip÷ejÑëqinet.
+\g women work-COM in-workshop always sing
+\l The women always sing while they work in the workshop.
+
+\t Tumge      nant@wat@n kupren.
+\m Tumg-e      na-nt@wat-@n kupre-n.
+\g friends.erg set-trans      net.abs
+\l The friends set the net.
+
+\t Tumg@t koprant@watgPat.
+\m Tumg-@t kopra-nt@wat-gPat.
+\g friends.abs net-set-intr
+\l The friends set nets.
+
+\t g´m       tinetejk´rk´n                     orwet´
+\m g´m       t-ine-tejk´-rk´n                     orw-et´
+\g 1sg.ABS 1sg.-ANTIPAS-make-PRES                 sledge-ALL
+\l I am making a sledge.
+
+\t «tl«g.«n       k«tg«ntat.g?e
+\m «tl«g.«n       k«tg«ntat.g?e
+\g father.ABS ran.3SG-S
+\l The father ran.
+
+\t «tl«g.«n       k«tg«ntat.g?e
+\m «tl«g.«n       k«tg«ntat.g?e
+\g father.ABS ran.3SG-S
+\l The father ran.
+
+\t ekke.te       l?u.nin                «tl«g.«n
+\m ekke.te       l?u.nin                «tl«g.«n
+\g son.ERG      saw.3SG-O/3SG-S        father.ABS
+\l The son saw the father.
+
+\t   tl gn p kirg i        nk am e w ig i.
+\m   tl g-n p kir-g i        nk am e w i-g i.
+\g father-ABS arrive-3sgAOR and      die-3sgAOR
+\l Father came and died.
+
+\t   tl gek k       winrennin              nk am e yetg i.
+\m   tl g-ek k       winren-nin              nk am e yet-g i.
+\g father-ERG son.ABS help-3sg3sg.AOR and             go-3sgAOR
+\l The father helped the son and he (the father or the son) left.
+
+\t   tl gn     ikw i         akkagt       nk am e winretg i
+\m   tl g-n     ik-w i         akka-gt       nk am e winret-g i
+\g father-ABS say-3sgAOR son-DAT and                    help-3sgAOR
+\l The father spoke to the son and he (the father or the son) gave help.
+
+\t etip ey ekl      in         ew cqet      ragtge
+\m e-tip ey e-k-l-      in         ew cqet      ragt-ge
+\g NEG-sing-        NEG-PRTC- ABS.SG woman.ABS gohome-3sg
+\l The woman who was not singing went home.
+
+\t ig r ayokl      et enmet m nelq nm k
+\m ig r a-yo-k-l-      et enm-et m n-elq n-m k
+\g now NEG-reach- NEG-PRTC- to hill-to 1pl-go-                1pl
+\l Now let us go to the hill which (someone) didn't reach.
+
+\t enagtat kl      a        qaak      aaceka                 winretrk ninet             ew cqetti.
+\m en-agtat- k-l-      a        qaa-k      aacek-a                 winret-rk n-inet             ew cqet-ti.
+\g APASS-chase- NEG-PRTC- INSTR reindeer-LOC youth-INSTR           help-PRES.I- 3sgA3plP woman-ABSpl       
+\l The youth who does not chase the reindeer is helping the women.
+
+\t Ek k       yetg i.
+\m Ek k       yet-g i.
+\g son.ABS go-3sg.AOR
+\l The son came.
+
+\t yetln     ek k
+\m yet-l-n     ek k
+\g go-PART- ABS son.ABS
+\l the son who came / is coming
+
+\t Yokwaye       inqey r yegtelewnin.
+\m Yokwa-y-e       inqey r yegtelew-nin.
+\g loon-INTENS- ERG boy.ABS save-3sg3sg.AOR
+\l The great loon saved the boy.
+
+\t yokwayn inenyegtelewl     n
+\m yokwa-y-n ine-nyegtelew--l-     n
+\g loon-INTENS- ABS APASS-save-                       PART-ABS
+\l Loon the savior
+
+\t r yagtalawyo                inqey
+\m r yagtalaw-yo                inqey
+\g save-PASS.PART boy.ABS
+\l the saved boy
+
+\t gvmnan gvt              tvl'ugvt.
+\m gvm-nan gvt              tv-l'u-gvt.
+\g I-ERG         you.SG 1SG-see-2SG
+\l I saw you (singular).
+
+\t gvmnan turi             tvl'utvk
+\m gvm-nan turi             tv-l'u-tvk
+\g I-ERG         you.PL 1SG-see-2PL
+\l I saw you (plural).
+
+\t vnan         gvt        nel'ugvt
+\m v-nan         gvt        ne-l'u-gvt
+\g he-ERG        you.SG 3-see-2SG
+\l He saw you (singular).
+
+\t vnan         turi       nel'utvk
+\m v-nan         turi       ne-l'u-tvk
+\g he-ERG        you.PL 3-see-2PL
+\l He saw you (plural).
+
+\t vnan         muri                nel'umvk
+\m v-nan         muri                ne-l'u-mvk
+\g he-ERG        us                  3-see-1PL
+\l He saw us.
+
+\t gvm        tvkvtgvntatg'ek
+\m gvm        tv-kvtgvntat-g'ek
+\g I          SG-run-1SG
+\l I ran.
+
+\t gvt        Økvtgvntatg'e
+\m gvt        Ø-kvtgvntat-g'e
+\g you.SG 2-run-2SG
+\l You (singular) ran.
+
+\t muri       mvtkvtgvntatmvk
+\m muri       mvt-kvtgvntat-mvk
+\g we         PL-run-1PL
+\l We ran.
+
+\t turi            Økvtgvntattvk
+\m turi            Ø-kvtgvntat-tvk
+\g you.PL          2-run-2PL
+\l You (plural) ran.
+
+\t gvm        tinewiriñg'ek
+\m gvm        t-ine-wiriñ-g'ek
+\g I          1SG-AP-defend-1SG
+\l I defended (someone).
+
+\t gvt             Øinewiriñg'i
+\m gvt             Ø-ine-wiriñ-g'i
+\g you.SG          2SG-AP-defend-2SG
+\l You defended (someone).
+
+\t gvm        tvwiriñvtkug'ek
+\m gvm        tv-wiriñ-vtku-g'ek
+\g I          1SG-defend-AP-1SG
+\l I defended (in relation to someone).
+
+\t gvt             Øwiriñvtkug'i
+\m gvt             Ø-wiriñ-vtku-g'i
+\g you.SG          2SG-defend-AP-2SG
+\l You defended (in relation to someone).
+
+\t gvmnan tumgvt            tvpelyanat
+\m gvm-nan tumg-vt            tv-pelya-nat
+\g I-ERG      comrade-PL      1SG-abandon-3PL
+\l I abandoned the comrades.
+
+\t gvm        tenapelyak          tumge
+\m gvm        t-ena-pelya-k          tumg-e
+\g I          1SG-AP-abandon-1SG comrade-INST
+\l I abandoned the comrade.
+
+\t gvm tvtomgvpelyak
+\m gvm tv-tomg-v-pelya-k
+\g  I     1SG-comrade-V-abandon-1SG
+\l I abandoned comrade(s).
+
+\t gvmnan              gvt              tvl'ugvt
+\m gvm-nan              gvt              tv-l'u-gvt
+\g       I-ERG          you.SG           1SG-see-2SG
+\l I saw you (singular).
+
+\t gvnan              gvm    inel'ug'i
+\m gv-nan              gvm    ine-l'u-g'i
+\g you.SG-ERG          me     INV-see-2SG
+\l You saw me.
+
+\t gvnan              muri   l'utkug'i
+\m gv-nan              muri   l'u-tku-g'i
+\g you.SG-ERG          us     see-INV-2SG
+\l You (plural) saw us.
+
+\t torgvnan           gvm    inel'utvk
+\m torgv-nan           gvm    ine-l'u-tvk
+\g you.PL-ERG          me     INV-see-2PL
+\l You (plural) saw me.
+
+\t torgvnan           muri   l'utkut'k
+\m torgv-nan           muri   l'u-tku-t'k
+\g you.PL-ERG          us     see-INV-2PL
+\l You (plural) saw us.
+
+\t Enan         q aat                  q E r irninet
+\m Enan         q aa-t                  q E r ir-ninet
+\g 3SG.ERG reindeer-ABS.PL              seek-3SG.S/3.PL.O
+\l he looked for the reindeer
+
+\t NejEk 'El'El          tE lgEg'i
+\m Nej-Ek 'El'El          tE lgE-g'i
+\g hill-LOC snow.ABS melt-3SG.S
+\l on the hill, the snow melted
+
+\t NejEk 'ElElgEg'i
+\m Nej-Ek 'ElE-lgE-g'i
+\g hill-LOC snow-melt-3SG.S
+\l on the hill, the     snow melted
+
+\t EtlE ge        q or aN E          tE mnen
+\m EtlE g-e        q or aN E          tE m-nen
+\g father-ERG reindeer.ABS.SG kill-3SG.S/3SG.O
+\l the father killed a/the reindeer
+
+\t qoraN E              E tlE gEnmEg'e
+\m qoraN E              E tlE gE-nmE-g'e
+\g reindeer.ABS.SG father-kill-3SG.S
+\l the reindeer killed the father
+
+\t Enan        r emkEl'in poj gEn                   mcEtkunin
+\m Enan        r emkEl'-in poj g-En                   mcEtku-nin
+\g 3PL.ERG guest-POSS sp ear-ABS                      break-3SG.S/3SG.O(sic!)2
+\l they broke the guest's sp ear
+
+\t Nejin       'El'El     tE lgEg'i
+\m Nej-in       'El'El     tE lgE-g'i
+\g hill-POSS snow.ABS melt-3SG.S
+\l the hill's snow thawed
+
+\t Nej          'ElElgEg'i
+\m Nej          'ElE-lgE-g'i
+\g hill-ABS snow-melt-3SG.S
+\l the hill's snow
+
+\t Etlon       q aarerg'e
+\m Etlon       q aa-rer-g'e
+\g 3SG.ABS reindeer-seek-3SG.S
+\l he looked for reindeer
+
+\t Tumge        nant watn      kupren
+\m Tumg-e        na-nt wat-n      kupre-n
+\g friends.ERG set-TRANS           net.ABS
+\l The friends set the net.
+
+\t Tumgt           koprant watg at   ¡
+\m Tumg-t           kopra-nt wat-g at   ¡
+\g friends.NOM       net-set-INTR
+\l The friends set nets.
+
+\t Tumge           nant watn     kupren
+\m Tumg-e           na-nt wat-n     kupre-n
+\g friends.ERG      set-TRANS        net.ABS
+\l The friends    set the net.
+
+\t inel ut k
+\m ine-l u-t k
+\g D-see-2pl
+\l you (pl.) saw me
+
+\t G umna'n e'le rä'nut        e'ilkä ti'ntiän.
+\m G um-na'n e'le rä'nut        e-'il-kä ti-'nti-än.
+\g 1SG-NOM NEG INDEF +ABS NEG-give-NEG 1SG--3SGOBJ
+\l I had not given him anything.
+
+\t Va'nêvan ni'tvinên, e'nmec nayilhau'nên.
+\m Va'nêvan ni'-tvi-nên, e'nmec n-ayilhau'-nên.
+\g nothing 3SG-tell-3SG because TRANS-fear-3SG
+\l She told him nothing, because she was afraid of him.
+
+\t (100)a. etlege         keyngen      penrenen
+\m (100)a. etleg-e         keyng-en      penre-nen
+\g         father-Erg      bear-Abs      attack-3s.3s.Aor
+\l Father attacked the bear.
+
+\t etlegen        penretkog'e         kayngete
+\m etleg-en        penre-tko-g'e         kayng-ete
+\g father-Abs      attack-AP-3s.Aor      bear-Dat
+\l Father ran at the bear.
+
+\t tEralkowaNerkEn.
+\m tE-ralko-waNerkEn.
+\g 1SG-tent-sew
+\l I am sewing in the tent.
+
+\t mEnnEkiureqepluwicwenmEk
+\m mEn-nEki-ure-qepl-uwicwen-mEk
+\g   1PL.S.IMPER-night-long.ti   me-ball-play-1P   L.S
+\l Let's spend a long time playing ball tonight.
+
+\t tumge         ekek          kayngenmenen
+\m tumg-e         ekek          kaynge-nme-nen
+\g friend-ERG son (ABS) bear-kill-AGR.3SG:3SG
+\l The friend kills a bear for the son.
+
+\t Mennekiureqepluwicwenmek
+\m Men-neki-ure-qepl-uwicwen-mek
+\g 1PL-IMPERATIVE-night-long-ball-play-1PL
+\l Let us play ball for a long time at night.
+
+\t Etip!ey�e kl!        in            �ew¤qet              ragtg!.
+\m E-tip!ey�e- k-l!-        in            �ew¤qet              ragt-g!.
+\g NEG-sing-       NEG-PART- ABS.SG woman.ABS.SG go.home-3SG
+\l The woman who was not singing went home.
+
+\t Igr ayo! kl!            et enmet mnlqn mk.
+\m Igr a-yo!- k-l!-            et enm-et mn-lqn- mk.
+\g now NEG-reach- NEG-PART- to hill-to 1PL-go-                     1PL
+\l Now let us go to the hill which (someone) didn't reach.
+
+\t Enagtat kl!           a     qaak       !aa¤eka       winretrkn inet                 �ew¤qetti.
+\m En-agtat- k-l!-           a     qaa-k       !aa¤ek-a       winret-rkn- inet                 �ew¤qet-ti.
+\g APASS-chase- NEG-PART- ERG reindeer-LOC youth-ERG          help-PRES- 3sERG.3pABS woman-ABS.PL         
+\l The youth who does not chase the reindeer is helping the women.
+
+\t Morg nan m                        net                   walat.
+\m Morg nan m                        net                   walat.
+\g we.ERG        1PL.SUBJ-FUT-sharpen-3PL. OBJ        knives
+\l We will sharpen our knives.
+
+\t Muri    m
+\m Muri    m
+\g we.ABS 1PL.SUBJ-FUT-knive-sharpen-1PL. SUBJ
+\l We will do some knife-sharpening.
+
+\t  P?tv?et     jPr?ennin     mim...e
+\m  P?tv?et     jPr?en-nin     mim...-e
+\g boat-ABS fill-3SG>3.SG water-ERG
+\l Water filled the boat
+
+\t b P?tv?et      jPr?et?i mim...e
+\m b P?tv?et      jPr?et-?i mim...-e
+\g   boat-ABS     fill-3SG   water-INSTR
+\l The boat filled with water
+
+\t aac&eka        kimit?Pn   nen...?etetPn
+\m aac&ek-a        kimit?-Pn   ne-n...?etet-Pn
+\g      youth-ERG load-ABS 3PL.SUB-carry-3SG.OBJ
+\l Young men carried away the load
+
+\t aac&ekPt           inen ...?etet?et      kimit?
+\m aac&ek-Pt           ine-n ...?etet-?et      kimit?
+\g    youth-PL(ABS) APASS-carry-3PL.SUBJ load-INSTR
+\l Young men carried away a load
+
+\t Pmnan Pt             tP...?uPt
+\m Pm-nan Pt             tP-...?u-Pt
+\g I-ERG     you.SG(ABS) 1SG.SUB-see-2SG.OBJ
+\l I saw you
+
+\t Pnan   Pm     Oine...?u?i
+\m P-nan   Pm     O-ine-...?u-?i
+\g he-ERG I (ABS) 3SG.SUB-APASS-see-3SG.SUBJ
+\l He saw me
+
+\t tlareen ntwaqen nnen iik
+\m tla-reen n--twa-qen nnen iik
+\g mother-LOC with.PP HAB-E-be-3sg one year.3sgABS
+\l It stays with its mother for one year.
+
+\t Putka
+\m Pu-tka
+\g  see-33
+\l You see hider.
+
+\t (9 1) neRutak
+\m (9 1) ne-Ru-tak
+\g       INV-see-312
+\l Sfhe sees you.
+
+\t Lluninet
+\m Llu-ninet
+\g see-313PL
+\l She sees them.
+
+\t ne]Pug7en
+\m ne-]Pu-g7en
+\g MV-see-3PW3
+\l They see himher.
+
+\t rinel?ug?i
+\m r-ine-l?u-g?i
+\g FUT-ine-see-211
+\l Thou shalt see me.
+
+\t necel'higam
+\m ne-ce-l'hi-gam
+\g  ne-FUT-see-me
+\l They will see me.
+
+\t UtlUge      mUtqUmUt kawkawUk kilinin.
+\m UtlUg-e      mUtqU-mUt kawkaw-Uk kili-nin.
+\g  father-ERG butter-ABS bread-LOC spread-3sS/3sO
+\l The father spread the butter on the bread.
+
+\t UtlUgUn kawkawUk mUtqUrkeleg'e.
+\m UtlUg-Un kawkaw-Uk mUtqU-rkele-g'e.
+\g  father-ABS bread-LOC butter-spread-3sS
+\l The father spread the butter on the bread.
+
+\t Unnen galage Unkam pelqUntetgi.
+\m Unne-n gala-ge Unkam pelqUntet-gi.
+\g   fish-ABS pass-3sS and       return-3sS
+\l The fish herd passed by and came back.
+
+\t UnnUgalage. GiUtkulUt            migcirUplUtkuget.
+\m UnnU-gala-ge. GiUtkul-Ut            migcirU-plUtku-get.
+\g  fish-pass-3sS fisherman-ABS.PL work-finish-3pS
+\l The fishing season was over. The fisherman stopped their work.
+
+\t UtlUgUn UtwUjUretgi.
+\m UtlUg-Un UtwU-jUret-gi.
+\g  father-ABS boat-flood-3sS
+\l Father's boat flooded (on him).
+
+\t G umna'n e'le rä'nut        e'ilkä ti'ntiän.
+\m G um-na'n e'le rä'nut        e-'il-kä ti-'nti-än.
+\g 1SG-NOM NEG INDEF +ABS NEG-give-NEG 1SG--3SGOBJ
+\l I had not given him anything.
+
+\t Va'nêvan ni'tvinên, e'nmec nayilhau'nên.
+\m Va'nêvan ni'-tvi-nên, e'nmec n-ayilhau'-nên.
+\g nothing 3SG-tell-3SG because TRANS-fear-3SG
+\l She told him nothing, because she was afraid of him.
+
+\t Mbnnbkiureqepluwicwenmbk.
+\m Mbn-nbki-ure-qepl-uwicwen-mbk.
+\g 1PL.IMPER-night-long-ball-play-1PL
+\l Let s play ball for a long time at night.
+
+\t taNam@nan C@kwaNaqa j               Gaqoranmatlen
+\m taN-am@nan C@kwaNaqa j               Ga-qora-nm-at-len
+\g ints-alone p ersonal.name.3sg.abs perf-reindeer-kill-vb-3sg
+\l C@kwaNaqa j all by himself slaughtered reindeer.
+
+\t Mornan mtwirirknt                 tumt
+\m Mor-nan mt-wirirknt                 tum-t
+\g we-ERG      1PL-defend.PRES.1PL.3PL friends-ABS
+\l We are defending the friends.
+
+\t Muri     mtinewirirkn                       tumet
+\m Muri     mt-ine-wirirkn                       tum-et
+\g we.ABS 1PL-ANTIPASS-defend.PRES.1PL friends-all
+\l We are serving as defenders of the friends.
+
+\t weemin         pëc÷ëcën
+\m weem-in         pëc÷ëcën
+\g river-POSS      current
+\l the river's current
+
+\t weemkin        wëkwën
+\m weem-kin        wëkwën
+\g river-REL       rock
+\l the river's rock, the rock in/from the river, the river rock
+
+\t gëmnin         ÷ëtw÷et
+\m gëm-nin         ÷ëtw÷et
+\g 1sg-POSS        boat
+\l my boat
+
+\t Gëm           nermeigëm
+\m Gëm           n-erme-i-gëm
+\g I             N-strong-I-1SG
+\l I am strong
+
+\t Alëmë           gemilgerturi
+\m Alëmë           ge-milger-turi
+\g after all       GE-rifle-2PL
+\l After all, you've got guns
+
+\t ÷ëtt÷ët       gegëntewlinet          jep                 ajwe
+\m ÷ëtt÷ët       ge-gëntew-linet          jep                 ajwe
+\g dogs.ABS      GE-run-3PL               already             yesterday
+\l The dogs ran away yesterday
+
+\t an    nëreqigëm            qonpë          utku
+\m an    në-req-i-gëm            qonpë          utku
+\g so    N-what-I-1SG            always         here
+\l So what am I doing here all the time?
+
+\t taamnan         Ckwaaqaj aqoranmatlen.             qoratmnen                eln         jnnen        
+\m ta-amnan         Ckwaaqaj a-qora-nm-at-len.             qora-tm-nen                el-n         jn-nen        
+\g INTS-alone       C.3sABS      PRF-rein deer-kill-V-3s   rein deer-3sABS kill-3s>3s hide-3sABS   take.off-3s>3s
+\l Cakwangaqaj all by himself slaughtered reindeer. He killed a deer [and] took off its hide.
+

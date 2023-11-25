@@ -1,0 +1,125 @@
+\t dhibi              baranha balimaga
+\m dhibi              bara-nha balima-ga
+\g      bird,ABS fly-PRES sky-LOC
+\l birds are flying in the sky
+
+\t mirigu=na               bura:y       gadhiyi
+\m miri-gu=na               bura:y       gadhiy-i
+\g   dog-ERG=3,ABS          child,ABS bite-PAST
+\l the dog bit the child
+
+\t guya=ndu              bura:y         unhi
+\m guya=ndu              bura:y         u-nhi
+\g   fish,ABS=2,NOM child,ABS give-PAST
+\l you gave a child a fish
+
+\t Mirrigu      yugi            gadhara.
+\m Mirri-gu      yugi            gadha-ra.
+\g dog-ERG       dingo:^ACC bite-PRES
+\l The dogs are biting the dingos.
+
+\t Mirribula:      gadhalanha.
+\m Mirri-bula:      gadha-la-nha.
+\g dog-DU:^NOM bite-RECIP-PRES
+\l The two dogs are biting one another.
+
+\t miri           gadhalanha
+\m miri           gadha-la-nha
+\g dog(ABS)       bite-RECP-PRES
+\l The dogs are biting each other.
+
+\t bura:ygalga:          yadama      mayiminja   / guni:yanbi:=nu:
+\m bura:y-galga:          yadama      mayimi-nja   / guni:-yanbi:=nu:
+\g child-pl+dim+abs good+abs seem-pres / mother+abs-topic=2 obl
+\l The kids look good, and so does your mother
+
+\t Vadhi:gu mirigu girbadja             gadhapa   / Vuruyyanbi:
+\m Vadhi:-gu miri-gu girbadja             gadha-pa   / Vuruy-yanbi:
+\g I+obl-erg dog-erg kangaroo+abs bite-pres / emu+abs-topic
+\l My dog catches kangaroos, and emus too
+
+\t guyanbaga:dhu  gapa
+\m guyan-baga:-dhu  gapa
+\g shy+abs-cntr.Assert-1nom be+pres
+\l But I am shy!
+
+\t winaru       mayiVgiyi bagiyi /    dhurgalaVgu gulamanhi     yanbi:                              
+\m winar-u       mayiVgiyi bagiyi /    dhurgalaV-gu gulama-nhi     -yanbi:                              
+\g woman-erg fail+past /          dig-past      man-erg       hunt               uncuccessfully-past-top
+\l The women did no good digging and the men missed out hunting too
+
+\t Vanala:         giyanhdhanha Vidjila:              mayinjdji  /    mayi          Vinala: giyanhdhanha Varbuyanbi:                  
+\m Vana-la:         giyanhdha-nha Vidji-la:              mayinj-dji  /    mayi          Vina-la: giyanhdha-nha Varbu-yanbi:                  
+\g that-abs-est fear-pres this +circ+est person-circ /                    person+abs this+abs-est            fear-pres             enough-top
+\l That one is afraid of this fe   llow and this fellow is affraid enough   too
+
+\t Mamiegambula:            manabinji
+\m Mamie-gam-bula:            manabi-nji
+\g Mamie-prop-dual+abs hunt-past
+\l Mamie, together with one other person, went hunting
+
+\t Mamiegambula: Evagambula: manabinji
+\m Mamie-gam-bula: Eva-gam-bula: manabi-nji
+\g Mamie-name-dual+abs Eva-name-dual+abs hunt-past
+\l Manie and Eva (and no one else) went hunting
+
+\t (44)                                                                         ==                                     
+\m (44)                                                                         ==                                     
+\g        earth-NAST.WITH-SENS.EVID              this:ABS        be.inside-PRES        feel-PRES-CATEG.ASSERT=1NOM=3ABS
+\l I can tell there's a rabbit in here. I (can) feel it for sure.
+
+\t Mirrigu      yugi            gadhara.
+\m Mirri-gu      yugi            gadha-ra.
+\g dog-ERG       dingo:^ACC bite-PRES
+\l The dogs are biting the dingos.
+
+\t Mirribula:      gadhalanha.
+\m Mirri-bula:      gadha-la-nha.
+\g dog-DU:^NOM bite-RECIP-PRES
+\l The two dogs are biting one another.
+
+\t Mirrigu      yugi            gadhara.
+\m Mirri-gu      yugi            gadha-ra.
+\g dog-ERG       dingo:^ACC bite-PRES
+\l The dogs are biting the dingos.
+
+\t Mirribula:      gadhalanha.
+\m Mirri-bula:      gadha-la-nha.
+\g dog-DU:^NOM bite-RECIP-PRES
+\l The two dogs are biting one another.
+
+\t miriguna          bura:y gadhiyi.
+\m mirigu-na          bura:y gadhiyi.
+\g dog:erg-3sg:abs child:abs bite:past
+\l The dog bit the child.
+
+\t guyanduna            Îunhi.
+\m guya-ndu-na            Îu-nhi.
+\g ®sh:abs-2sgnom-3abs give-past
+\l You gave him ®sh.
+
+\t Îunhidjuluguna.
+\m Îu-nhi-dju-lugu-na.
+\g give-past-1nom-3gen-3abs
+\l I gave it to him.
+
+\t dhibi              baranha balimaga
+\m dhibi              bara-nha balima-ga
+\g      bird.ABS fly-PRES sky-LOC
+\l birds are flying in the sky
+
+\t mirigu=na              bura:y       gadhiyi
+\m miri-gu=na              bura:y       gadhiy-i
+\g  dog-ERG=3.ABS          child.ABS bite-PAST
+\l the dog bit the child
+
+\t guya=ndu             bura:y        unhi
+\m guya=ndu             bura:y        u-nhi
+\g  fish.ABS=2.NOM child.ABS give-PAST
+\l you gave a child a fish
+
+\t (10) Miri      gadhalanha
+\m (10) Miri      gadha-la-nha
+\g    dog(ABS) bite-REC-PRES
+\l The dogs are biting each other
+

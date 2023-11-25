@@ -1,0 +1,20 @@
+\t allquta maqatsirqayki         wamrata.
+\m allqu-ta maqa-tsi-rqa-yki         wamra-ta.
+\g dog-ACC beat-CAUS-PRET-2SG child-ACC
+\l You made the child beat the dog
+
+\t Mamaami                       Mariata qumarqan.
+\m Mama-a-mi                       Maria-ta qu-ma-rqa-n.
+\g  mother-1POSS-EVIDENTIAL        M.-ACC      give-1obj-PAST-3
+\l My mother gave Maria to me
+
+\t Mamaami                      Mariaman       qumarqan.
+\m Mama-a-mi                      Maria-man       qu-ma-rqa-n.
+\g mother-1POSS-EVIDENTIAL        M.-DIR          give-1obj-PAST-3
+\l My mother gave me to Maria
+
+\t rikaq
+\m rika-q
+\g see-1:2
+\l I see you
+

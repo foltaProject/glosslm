@@ -1,0 +1,20 @@
+\t nowande
+\m no-wande
+\g   3,REALIS-rain
+\l it is raining
+
+\t nowande                na    wande/langi / lono / 'oloo
+\m no-wande                na    wande/langi / lono / 'oloo
+\g    3,REALIS-rain         NOM rain / sky / cloud / day
+\l it's raining
+
+\t nowande                na     ia
+\m no-wande                na     ia
+\g    3, REALIS-rain        NOM it
+\l it is raining
+
+\t notinti
+\m no-tinti
+\g   3,REALIS-run
+\l she is running
+

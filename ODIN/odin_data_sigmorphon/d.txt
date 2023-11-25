@@ -1,0 +1,380 @@
+\t b   Giani, duman l vaigest?
+\m b   Giani, duman l vaiges-t?
+\g     John tomorrow him see-you
+\l Will you see John tomorrow?
+
+\t a      Al ploi pa.
+\m a      Al ploi pa.
+\g        SCL rains pa
+\l It is raining
+
+\t c      Ci bel c al è pa!
+\m c      Ci bel c al è pa!
+\g        how nice that SCL is pa
+\l How nice it is!
+
+\t a      *I n mangi pa min tres soni.
+\m a      *I n mangi pa min tres soni.
+\g        SCL neg eat pa neg always potatoes
+\l I do not always eat potatoes
+
+\t b      *E k i l a pa fat
+\m b      *E k i l a pa fat
+\g        yes that SCL have pa done
+\l Sure, I did it
+
+\t a      Al a pa d sigy mangé
+\m a      Al a pa d sigy mangé
+\g        SCL have pa of sure eaten
+\l He has surely eaten
+
+\t c      Al a pa magari bel mangé
+\m c      Al a pa magari bel mangé
+\g        SCL has pa perhaps already eaten
+\l Perhaps he has already eaten
+
+\t a    Inier a pa Giani mangé la ciara
+\m a    Inier a pa Giani mangé la ciara
+\g         yesterday has pa John eaten the meat
+\l Yesterday John ate meat
+
+\t b      *A i m a domané s al n fus pa bel.
+\m b      *A i m a domané s al n fus pa bel.
+\g        SCL SCL me asked if SCL neg was pa nice
+\l He asked me whether it was nice
+
+\t a    Al m a dit c L GIAT aal odù
+\m a    Al m a dit c L GIAT a-al odù
+\g        he me has told that the cat has-he seen
+\l He told that he has seen the cat
+
+\t a   Al m   a dit c DA TRAI l aal odù
+\m a   Al m   a dit c DA TRAI l a-al odù
+\g       he   me has told that sometimes him has-he seen
+\l He    told that he saw him sometimes
+
+\t b     Al   s cruzie c DA TRAI l aal odù
+\m b     Al   s cruzie c DA TRAI l a-al odù
+\g       he   is worried that sometimes him has-he seen
+\l He    is worried because he saw him sometimes
+
+\t a   *Da trai l liber ti ai de   a Giani
+\m a   *Da trai l liber ti a-i de   a Giani
+\g       sometimes the book         to-him have-I given to John
+\l Sometimes I gave a         book to John
+
+\t b    Giani, ci ol pa?
+\m b    Giani, ci o-l pa?
+\g              John what wants-he interrogative marker?
+\l What does John want?
+
+\t (105)a      L liber chi l tol pa?
+\m (105)a      L liber chi l tol pa?
+\g             the book who it takes interrogative marker?
+\l Who is going to take the book?
+
+\t (106)a      Gonot ula vaal pa?
+\m (106)a      Gonot ula va-al pa?
+\g             often where goes-he interrogative marker?
+\l Where does he often go?
+
+\t (107)a      Giani, inier, ci aal pa fat?
+\m (107)a      Giani, inier, ci a-al pa fat?
+\g             John yesterday what has-he interrrogative marker done?
+\l What has John done yesterday?
+
+\t e       Al m a demanee Giani, can c al vagn a ciasa
+\m e       Al m a demanee Giani, can c al vagn a ciasa
+\g         he me has asked John when that he comes at home
+\l He asked me when John is coming home
+
+\t (108)a      *Giani, duman l vaigest
+\m (108)a      *Giani, duman l vaiges-t
+\g             John tomorrow him see-you
+\l You will see John tomorrow
+
+\t b       *Giani, duman l vaigest?
+\m b       *Giani, duman l vaiges-t?
+\g         John tomorrow him see-you
+\l Will you see John tomorrow?
+
+\t L^il!
+\m L^i-l!
+\g read-it (2nd sg)
+\l Read it!
+
+\t Li´el!
+\m Li´e-l!
+\g read-it
+\l Read it!
+
+\t Jit *(ma) zagn!
+\m Jit *(ma) zagn!
+\g go ma       now (2nd pl)
+\l Leave now!
+
+\t L^i*(ma) l liber!
+\m L^i*(ma) l liber!
+\g read ma      the book (2nd sg)
+\l Read the book!
+
+\t Al v? egn.
+\m Al v? egn.
+\g s.cl comes
+\l He is coming.
+
+\t Al l'?o
+\m Al l'?o
+\g s.cl cl wants
+\l He wants it.
+
+\t M`angel ma che spo cr?   esceste.
+\m M`angel ma che spo cr?   esceste.
+\g eat-it ma that then grow (2nd sg)
+\l Eat it and you'll grow.
+
+\t Va ma tres     ad¨erta fora!
+\m Va ma tres     ad¨erta fora!
+\g go ma always straight ahead
+\l Keep going straight ahead!
+
+\t Ch al v?  egnes        ma ince osc compagn.
+\m Ch al v?  egnes        ma ince osc compagn.
+\g that s.cl come (sub j.) ma also your friend
+\l Your friend may come in as well.
+
+\t Puzen  eime ma ciam`oi cialz`   a!
+\m Puzen  eime ma ciam`oi cialz`   a!
+\g clean-me     ma yet     the shoes
+\l Polish my shoes!
+
+\t M`angel     mo!
+\m M`ange-l     mo!
+\g eat-it       mo (2nd sg)
+\l Eat it!
+
+\t Mang? el   mo!
+\m Mang? e-l   mo!
+\g eat-it       mo (2nd pl)
+\l Eat it!
+
+\t M` angel mo ke spo cr? esceste.
+\m M` ange-l mo ke spo cr? esceste.
+\g eat-it     mo that then grow (2nd sg)
+\l Eat it and you'll grow.
+
+\t Al e bun mo p eso ch.
+\m Al e bun mo p eso ch.
+\g it is go o d but heavy
+\l It's go o d but heavy.
+
+\t Mo f`al mo!
+\m Mo f`al mo!
+\g but do-it mo
+\l But do it!
+
+\t Al    'e pa bun!
+\m Al    'e pa bun!
+\g it    is pa good
+\l It   IS good!
+
+\t Can vaste pa a Venezia?
+\m Can vaste pa a Venezia?
+\g when go-cl pa to Venice
+\l When are you going to Venice?
+
+\t CAN vaste a Venezia?
+\m CAN vaste a Venezia?
+\g when go-cl to Venice?
+\l WHEN are you going to Venice?
+
+\t M`angel pa che spo cr?  esceste.
+\m M`angel pa che spo cr?  esceste.
+\g eat-it    pa that then grow
+\l Eat it and you'll grow.
+
+\t a. M`angel pa ma!
+\m a. M`angel pa ma!
+\g    eat-it pa ma
+\l Eat it!
+
+\t Maria ne v? egn nia a ´ciasa.
+\m Maria ne v? egn nia a ´ciasa.
+\g Maria neg comes neg to home
+\l Maria isn't coming home.
+
+\t Maria ne v? egn mine a ?ciasa.
+\m Maria ne v? egn mine a ?ciasa.
+\g Maria neg comes neg to home
+\l Maria isn't coming home.
+
+\t Maria       ne v? egn pa a ´ciasa.
+\m Maria       ne v? egn pa a ´ciasa.
+\g Maria       neg comes neg to home
+\l Maria       isn't coming home.
+
+\t Ne le f`ama no plu!?
+\m Ne le f`ama no plu!?
+\g neg it do ma neg anymore
+\l Don't do it anymore.
+
+\t No pa plu?        le f`!
+\m No pa plu?        le f`!
+\g neg pa anymore it do (2nd sg)
+\l Don't do it anymore!
+
+\t No plu?       le f`!
+\m No plu?       le f`!
+\g neg anymore it do (2nd sg)
+\l Don't do it anymore!
+
+\t No le f`       ?
+\m No le f`       ?
+\g neg it do    anymore
+\l Don't do    it anymore!
+
+\t Ne le f`ama no tres!
+\m Ne le f`ama no tres!
+\g neg it do ma neg always
+\l Don't always do that!
+
+\t No ma tres     le f`!
+\m No ma tres     le f`!
+\g neg ma always it do
+\l Don't always do that!
+
+\t L     e venju                 la        vivano.
+\m L     e venju                 la        vivano.
+\g he is come-MASC.SG the witch.FEM
+\l There came the witch.
+
+\t Da doman           vegn            l     oshore        les   vatges.
+\m Da doman           vegn            l     oshore        les   vatges.
+\g of    morning becomes he fed-MASC.SG the cows-FEM.PL
+\l The cows are fed in the morning.
+
+\t doj     peres pitshuj         ke       i         me prea l         arberk
+\m doj     peres pitshuj         ke       i         me prea l         arberk
+\g   two poor        little-boys who they me ask                  the shelter
+\l two poor little boys who ask me for shelter
+
+\t L     e venju                 la        vivano.
+\m L     e venju                 la        vivano.
+\g he is come-MASC.SG the witch.FEM
+\l There came the witch.
+
+\t Chi     e lo       po     i    ozitegn?
+\m Chi     e lo       po     i    ozitegn?
+\g who is he then the Occitans-MASC.PL
+\l Who are the Occitans?
+
+\t Da doman           vegn            l     oshore        les   vatges.
+\m Da doman           vegn            l     oshore        les   vatges.
+\g of    morning becomes he fed-MASC.SG the cows-FEM.PL
+\l The cows are fed in the morning.
+
+\t A quella sto         el   imprometter da nun         ir      mâ     plü     davent.
+\m A quella sto         el   imprometter da nun         ir      mâ     plü     davent.
+\g  to her      must he promise             to    never go      PART   again away
+\l He must promise to her that he will never go away again.
+
+\t Da che        discuorra el       tuotta pezza?
+\m Da che        discuorra el       tuotta pezza?
+\g  of   what talks              he all    time
+\l What does he talk about all the time?
+
+\t A quests pleds suonda            ena parfetga quietezza.
+\m A quests pleds suonda            ena parfetga quietezza.
+\g to these      words followed a          complete silence
+\l A complete silence followed these words.
+
+\t Tge      fo        pia    ti     onda?
+\m Tge      fo        pia    ti     onda?
+\g what makes then           your aunt
+\l What is your aunt doing?
+
+\t La    brev    ha    la    mumma scret.
+\m La    brev    ha    la    mumma scret.
+\g the letter has the mother            written
+\l The mother wrote the letter.
+
+\t Cura eis ella morta?
+\m Cura eis ella morta?
+\g when is       she died
+\l When has she died?
+
+\t A     que num       porta      igl cratsch             ànc oz.
+\m A     que num       porta      igl cratsch             ànc oz.
+\g and this name bears the baby-of-the-family             still today
+\l And the baby of the family still bears this name today.
+
+\t Cura va'la               la     Nona?
+\m Cura va'la               la     Nona?
+\g when goes-3SG.FEM the grandma
+\l When will grandma leave?
+
+\t Ma il    min    brün     nun     han=a       pudü     verer.
+\m Ma il    min    brün     nun     han=a       pudü     verer.
+\g but the my      brown not        have=they can        see
+\l But they could not see my brown (cat).
+
+\t In quel istess mumaint           il     trid   uorsin as         transmüdet in        ün bel             prinz...
+\m In quel istess mumaint           il     trid   uorsin as         transmüdet in        ün bel             prinz...
+\g in this            moment        the ugly bear          REFL     changed         into a     beautiful    prince  
+\l In this moment, the ugly bear changed into a handsome prince.
+
+\t Il        Segner vulains           luder, cha   nus poassens a chiesa turner.
+\m Il        Segner vulains           luder, cha   nus poassens a chiesa turner.
+\g     the Lord       want-1PL praise that we            can-1PL      to home      turn
+\l We want praise the Lord, so that we can return to home.
+
+\t Nun haivan      nus    forsa    da mangiêr &      da baiver?
+\m Nun haivan      nus    forsa    da mangiêr &      da baiver?
+\g not   have-1pl we      power to eat         and   to drink
+\l Have we not power to eat and to drink?
+
+\t Or         tutta quest na         pôs ti       provar il       teu    fagg.
+\m Or         tutta quest na         pôs ti       provar il       teu    fagg.
+\g     from all       this     not can you prove           the your case
+\l From all this, you cannot prove your case.
+
+\t Mo qui            sarestü        leid...
+\m Mo qui            sarestü        leid...
+\g     but here will-be-you sad
+\l But here, you will be sad...
+
+\t A: Che          tscherchiast tü,          juwen,      in quaista strêda?
+\m A: Che          tscherchi-ast tü,          juwen,      in quaista strêda?
+\g        What search-2sg            you, young man in this              street
+\l What are you looking for?
+
+\t B: Meis frars      veng eau à tscharchiêr, s tü       m'savest    intraguidêr.
+\m B: Meis frars      veng eau à tscharchiêr, s tü       m'sav-est    intraguidêr.
+\g    my     brothers come I      to search     if you me-know-2SG to-guide
+\l I come to search my brothers, if you know how to guide me (to them).
+
+\t Pudaiw       wuo foars'ilg      uaira dyr?
+\m Pud-aiw       wuo foars'ilg      uaira dyr?
+\g   can-2PL     you    perhaps=the truth say
+\l Can you perhaps tell the truth?
+
+\t ùn         tut pert a chësc concurs
+\m ùn         tut pert a chësc concurs
+\g have (1pl) taken part to this competition
+\l We have taken part in this competition.
+
+\t (i) sun sta dër cunten
+\m (i) sun sta dër cunten
+\g (we) are been very glad
+\l we have been very glad
+
+\t da øna na skwadra
+\m da øna na skwadra
+\g from one a team
+\l from one team
+
+\t Ha telefona qualche putela.
+\m Ha telefona qualche putela.
+\g has telephoned some girls
+\l Some girls have telephoned.
+

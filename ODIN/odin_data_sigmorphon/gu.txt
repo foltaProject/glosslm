@@ -1,0 +1,50 @@
+\t Amolu      ke       ta/asi=ra         pipisi=ki
+\m Amolu      ke       ta/asi=ra         pipisi=ki
+\g D:2PC      must     throw=O:3P        cloth=P
+\l You (few) should throw (away) the clothes.
+
+\t /ai           e            /ave/ave
+\m /ai           e            /ave-/ave
+\g stick         S:3S         REDUP-bend
+\l The stick   is bent.
+
+\t mwane         e            /avea            /ai
+\m mwane         e            /ave-a            /ai
+\g man           S:3S         bend-O:3S         stick
+\l The man     bent the stick.
+
+\t e           ovoovo
+\m e           ovo-ovo
+\g     S:3S    REDUP-fight
+\l He is fighting.
+
+\t e           ovoa
+\m e           ovo-a
+\g S:3S        fight-O:3S
+\l He is fighting him.
+
+\t ["amu la         nana/i       va/inia        Titipohona mwela"]      [ara     una giraia          genina          komuina      ma      vanoagina]      [mara      ade ada       [mara       to/ii      siilo giragina] [mara lae]
+\m ["amu la         nana/i       va/i-ni-a        Titipohona mwela"]      [ara     una gira-ia          geni-na          komu-i-na      ma      vanoa-gi-na]      [m-ara      ade a-da       [m-ara       to/i-i      siilo gira-gi-na] [m-ara lae]
+\g   D:2P go        stay         PREP-TR-O:3S man's name child             S:3P    say     D:3P-emph woman-P:3S          village-S-deic CONJ people-P-DEIC         CONJ-S:3P take food-P:3P CONJ-S:3P hold-O:3P basket D:3P-P-DEIC CONJ-S:3P go    
+\l You go and stay with Titipohona, children,"said the women and the men (lit: people) of the village, and they took their food and they held their baskets and they went ...
+
+\t Nu       ilia        a      vali          e      tihi   la   mai
+\m Nu       ili-a        a      vali          e      tihi   la   mai
+\g D:1S     say-O:3S ART rayfish              S:3S   first  go   hither
+\l I said that a rayfish came first.
+
+\t E        ilia        wana          ni        ao/inia      ei
+\m E        ili-a        wa-na          ni        ao/i-ni-a      ei
+\g S:3S     tell-O:3S DAT-P:3S          COMP carry-TR-O:3S       basket
+\l He told him to carry the basket.
+
+\t Amu aoa                na        ra/o       va/amaeu
+\m Amu ao-a                na        ra/o       va/a-mae-u
+\g S:2P     want-O:3S      PERF      DUB        CAUS-die-O:1S
+\l Maybe you wanted to kill me.
+
+\t Nu       se       aoa          zualai
+\m Nu       se       ao-a          zuala-i
+\g D:1S     NEG want-O:3S          stand-S
+\l I don't want to stand.
+

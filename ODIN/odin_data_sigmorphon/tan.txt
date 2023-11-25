@@ -1,0 +1,65 @@
+\t Áudu madug     littáfi.
+\m Áudu mad-ug     littáfi.
+\g A.read-PERF book
+\l Audu read a book.
+
+\t Q: Áudu madgó/*madug ná~? A: Áudu madgó/*madug líttáfi.
+\m Q: Áudu mad-gó/*mad-ug ná~? A: Áudu mad-gó/*mad-ug líttáfi.
+\g    A.read-PERF        what  A.read-PERF      book
+\l What did Audu read?
+
+\t Q: Mairo yaagó ná~? A: Mbáastám wurgói. (V(P)focus)
+\m Q: Mairo yaa-gó ná~? A: Mbáastám wur-gó-i. (V(P)-focus)
+\g    M.do-PERF what  she        laugh-PERF-FOC
+\l What did Mairo do?
+
+\t A: Lak waigó lánda
+\m A: Lak wai-gó lánda
+\g    L.sell-PERF dress
+\l Laku sold [A DRESS]   FOC.
+
+\t A: Lak waigó lánda
+\m A: Lak waig-ó lánda
+\g    L.sell-PERF dress
+\l Laku [sold A DRESS]FOC.
+
+\t A: Lak waigó lánda
+\m A: Lak wai-gó lánda
+\g    L.sell-PERF dress
+\l Laku [SOLD]FOC a dress.
+
+\t t1 wayug landí      nó~1 ?
+\m t1 way-ug land-í      nó~1 ?
+\g    sell-PERF dress-the who
+\l Who sold the dress?
+
+\t Q: Lakú n     yaaj ná~? A: Lakú n      ball    wasíika
+\m Q: Lakú n     yaaj ná~? A: Lakú n      ball    wasíika
+\g    L.
+\l Laku is [writing A LETTER]F.' `What is Laku doing?
+
+\t Q: Lakú n      ball    wasíika yá mad        wasíika?
+\m Q: Lakú n      ball    wasíika yá mad        wasíika?
+\g    L.PROG writing letter     or reading letter
+\l Is Laku WRITING a letter or READING a letter?
+
+\t A: Lakú n      ball    wasíika
+\m A: Lakú n      ball    wasíika
+\g    L.PROG writing letter
+\l Laku is WRITING a letter.
+
+\t N fadgo      núm littáfii, n fadug     wam gáayim
+\m N fad-go      núm littáfi-i, n fad-ug     wam gáayi-m
+\g I buy-PERF only book-the I buy-PERF s.th.else-NEG
+\l I bought only THE BOOK, I bought nothing else.
+
+\t N fadgo      núm littáfii, n yaag      wam gáayim
+\m N fad-go      núm littáfi-i, n yaa-g      wam gáayi-m
+\g I buy-PERF only book-the I do-PERF s.th.else-NEG
+\l I only bought THE BOOK, I did nothing else.
+
+\t N fadgo     núm littáfii, fon di n madgom
+\m N fad-go     núm littáfi-i, fon di n mad-go-m
+\g I buy-PERF only book-the but yet I read-PERF-NEG
+\l I only BOUGHT the book, but I have not read (it) yet.
+

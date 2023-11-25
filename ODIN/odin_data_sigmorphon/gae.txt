@@ -1,0 +1,10 @@
+\t Enami eda          washi palamia
+\m Enami eda          washi pala-mia
+\g man     perceive jaguar run-PERF
+\l A man saw a jaguar and (the jaguar) ran.
+
+\t Enami eda           washi    palamia enami
+\m Enami eda           washi    pala-mia enami
+\g man     perceive    jaguar run-PERF man
+\l A man saw a jaguar and the man ran.
+

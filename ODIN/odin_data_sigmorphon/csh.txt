@@ -1,0 +1,15 @@
+\t cu=la key=a co                          ?epek
+\m cu=la key=a co                          ?e-pek
+\g   he=ERG     I=LOC          book 1       SG.R-give
+\l He gave me a book.
+
+\t ynta uy=la                  keyoweys
+\m ynta uy=la                  key-owey-s
+\g   yeste rday   dog=ERG      I      1SG.P-bite-CONCL
+\l Yesterday a dog bit me.
+
+\t cu=la      key=a    c           epek
+\m cu=la      key=a    c           e-pek
+\g   he=ERG I=LOC      book 1SG.R-give
+\l He gave me a book.
+

@@ -1,0 +1,25 @@
+\t Muusaa yaa              wankè           rìigaa     wà      Sulè.
+\m Muusaa yaa              wankè           rìigaa     wà      Sulè.
+\g Musa      3ms.PERF wash-IV              gown       IX      Sule
+\l Musa washed Sule his gown.
+
+\t Sulè nee          Muusaa yaa             wankè           rìigaa       wà.
+\m Sulè nee          Muusaa yaa             wankè           rìigaa       wà.
+\g Sule      cop.m Musa         3ms.PERF wash-IV             gown         IX
+\l It is Sule that Musa washed a gown for.
+
+\t Sulè nee           Muusaa yaa             wankèe                  wà   rìigaa.
+\m Sulè nee           Muusaa yaa             wankèe                  wà   rìigaa.
+\g Sule cop.m         Musa      3ms.PERF wash-IV-VN                  IX   gown
+\l It is Sule that Musa washed a gown for.
+
+\t Muusaa yaa             wankèe               masà        rìigaa.
+\m Muusaa yaa             wankèe               masà        rìigaa.
+\g Musa      3ms.PERF wash-IV-VN               IX-3ms      gown
+\l Musa washed him his gown.
+
+\t Muusaa yaa             wankè           rìigaa     masà.
+\m Muusaa yaa             wankè           rìigaa     masà.
+\g Musa       3ms.PERF wash-IV             gown       IX-3ms
+\l Musa washed him his gown.
+

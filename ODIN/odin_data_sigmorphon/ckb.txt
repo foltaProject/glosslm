@@ -1,0 +1,110 @@
+\t ÷m pyawxnjr ÷frose                       TM
+\m ÷m pyaw-xnjr ÷-frose                       TM
+\g        this man-this dagger IMPERF-sell
+\l this man sells daggers
+
+\t wartan      nagirt        (leman)
+\m war-tan      nagirt        (leman)
+\g NEG-2S       obtain        (from us)
+\l you did not obtain is (from us)
+
+\t cóntan     zaní
+\m cón-tan     zaní
+\g how-2S      know
+\l how did you know?
+
+\t márekim kust
+\m márek-im kust
+\g snake-1S       kill
+\l I killed a snake
+
+\t wartan        nagirt       (leman)
+\m war-tan        nagirt       (leman)
+\g NEG-2S         obtain       (from us)
+\l you did not obtain is (from us)
+
+\t cóntan        zaní
+\m cón-tan        zaní
+\g how-2S         know
+\l how did you know?
+
+\t márekim kust
+\m márek-im kust
+\g snake-1S       kill
+\l I killed a snake
+
+\t  kirasekey     nermîn
+\m  kiras-eke-y     nermîn
+\g robe-DEF-EZ      Nermin
+\l Narmin's dress
+
+\t min darom
+\m min da-ro-m
+\g 1SG PROG-go.PRS-1SG
+\l I am going.
+
+\t to  daroît
+\m to  da-ro-ît
+\g 2SG PROG-go.PRS-2SG
+\l You are going.
+
+\t min to      dabînim
+\m min to      da-bîn-im
+\g 1SG 2SG.ACC PROG-see.PRS-1SG
+\l I am seeing you.
+
+\t to  min     dabînît
+\m to  min     da-bîn-ît
+\g 2SG 1SG.ACC PROGT-see.PRS-2SG
+\l You are seeing me.
+
+\t min roîshtim
+\m min ro-îsht-im
+\g 1SG go-PST-1SG
+\l I went.
+
+\t to  roîshtît
+\m to  ro-îsht-ît
+\g 2SG go-PST-2SG
+\l You went.
+
+\t min to=m              bînî
+\m min to=m              bîn-î
+\g 1SG 2SG=1SG.A         see-PST
+\l I saw you.
+
+\t to  min=it              bînî
+\m to  min=it              bîn-î
+\g 2SG 1SG=2SG.A           see-PST
+\l You saw me.
+
+\t tom               bînî
+\m to-m               bîn-î
+\g 2SG=1SG.A          see-PST
+\l I saw you.
+
+\t minit             bînî
+\m min-it             bîn-î
+\g 1SG=2SG.A          see-PST
+\l You saw me.
+
+\t (*to)       bînîmît
+\m (*to)       bîn-î-m-ît
+\g 2SG         see-PST-1SG.A-2SG
+\l I saw you
+
+\t (*min)      bînîtim
+\m (*min)      bîn-î-t-im
+\g 1SG         see-PST-2SG.A-1SG
+\l You saw me
+
+\t (min) (*to)   bînîmît
+\m (min) (*to)   bîn-î-m-ît
+\g  1SG 2SG      see-PST-1SG.A-2SG
+\l I saw you
+
+\t (to)   (*min) bînîtim
+\m (to)   (*min) bîn-î-t-im
+\g  2SG   1SG    see-PST-2SG.A-1SG
+\l You saw me
+

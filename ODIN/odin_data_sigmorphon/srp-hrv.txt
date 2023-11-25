@@ -1,0 +1,2830 @@
+\t Ko je koga vidjeo?
+\m Ko je koga vidjeo?
+\g who aux whom seen
+\l Who saw whom?
+
+\t Kome     koga    rece     da je Ivan sreo?
+\m Kome     koga    rece     da je Ivan sreo?
+\g     whom.dat who.acc told.2sg that aux Ivan met
+\l Whom did you tell that Ivan had met whom?
+
+\t ¤Sta  si     me pitao      ko mo/ze da uradi?
+\m ¤Sta  si     me pitao      ko mo/ze da uradi?
+\g  what have-2s me asked who can           to   do
+\l What have you asked me who can do?
+
+\t ¤Sta     si       m e pita o    ko mo/ze da uradi?
+\m ¤Sta     si       m e pita o    ko mo/ze da uradi?
+\g what have-2s me asked who can             to   do
+\l What have you asked me who can do?
+
+\t Njegovi       susjedi     ne vjeruju nijednom politicarui
+\m Njegovi       susjedi     ne vjeruju nijednom politicarui
+\g    his        neighbors not trust      no           politician
+\l His neighbors trust no politician
+
+\t Ko je koga vidjeo?
+\m Ko je koga vidjeo?
+\g who is whom seen
+\l Who saw whom?
+
+\t Ko     si    koga     tvrdio   da je istukao?
+\m Ko     si    koga     tvrdio   da je istukao?
+\g who are whom claimed that is beaten
+\l Who did you claim beat whom?
+
+\t Tko    voli   svoju      majku?
+\m Tko    voli   svoju      majku?
+\g   who loves his-ACC mother-ACC
+\l Who i loves hisi mother?
+
+\t Koga voli     njegova      majka?
+\m Koga voli     njegova      majka?
+\g  who loves his-NOM mother-NOM
+\l Who i does hisi mother love?
+
+\t Koga njegova      majka             misli da    Marija voli?
+\m Koga njegova      majka             misli da    Marija voli?
+\g     who his-NOM mother-NOM thinks that Maria loves
+\l Who i does hisi mother think that Mary loves?
+
+\t Citao1 sam             t1 knjigu
+\m Citao1 sam             t1 knjigu
+\g read have1.Sing./Cl book
+\l I have read the book.
+
+\t  ekali ste bili Marijinu prijateljicu
+\m  ekali ste bili Marijinu prijateljicu
+\g waited are been Marija's friend
+\l You had been waiting for Marija's friend.
+
+\t Beja e sreo Petra
+\m Beja e sreo Petra
+\g was    met Peter
+\l He had met Peter.
+
+\t Marko studira       medicinu
+\m Marko studira       medicinu
+\g Marko study.pres.3s medicine
+\l Marko is studying medicine.
+
+\t Marija li ti    ga dade?
+\m Marija li ti    ga dade?
+\g Maria Q 2s.dat 3s.acc gave.3s
+\l Was it Maria who gave it to you?
+
+\t  ekali ste bili Marijinu prijateljicu
+\m  ekali ste bili Marijinu prijateljicu
+\g waited are been Marija's friend
+\l You had been waiting for Marija's friend.
+
+\t Istukao beja e Petra
+\m Istukao beja e Petra
+\g beaten was Peter
+\l He had beaten Peter.
+
+\t  itao sam        knjigu
+\m  itao sam        knjigu
+\g read have.pres.1s book
+\l I have read a book.
+
+\t Jesam         li itao knjigu
+\m Jesam         li itao knjigu
+\g have.pres.1s Q read book
+\l Have I read a book?
+
+\t Marija migaje dala.
+\m Marija mi-ga-je dala.
+\g Maria me.dat-it.acc-is given.fem.sg
+\l It was Maria that gave it to me.
+
+\t Dala          miga je Marija.
+\m Dala          mi-ga- je Marija.
+\g given.fem.sg me.dat-it.acc-is Maria
+\l Maria has given it to me.
+
+\t Juj°e(?) miga je dala.
+\m Juj°e(?) mi-ga- je dala.
+\g yesterday me.dat-it.acc-is given.fem.sg
+\l It was yesterday that she gave it to me.
+
+\t Lepa              si mi
+\m Lepa              si mi
+\g beautiful.fem.sg are-me.dat
+\l You look very beautiful to me.
+
+\t Za to limugaje poklonila?
+\m Za to li-mu-ga-je poklonila?
+\g why Q-him-it-Aux presented
+\l Why did she present it to him?
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U ovoj je velikoj sobi klavir.
+\m U ovoj je velikoj sobi klavir.
+\g in this aux big room piano
+\l The piano is in this big room.
+
+\t U veliku Jovan ulazi sobu.
+\m U veliku Jovan ulazi sobu.
+\g in big Jovan enters room
+\l Jovan enters the big room.
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U ovoj je velikoj sobi klavir.
+\m U ovoj je velikoj sobi klavir.
+\g in this aux big room piano
+\l The piano is in this big room.
+
+\t Ove godine taj pesnik napisao mi je knjigu.
+\m Ove godine taj pesnik napisao mi je knjigu.
+\g this year that poet write.ptc me AUX book
+\l That poet wrote me a book this year.
+
+\t Anina mi ga je sestra poklonila.
+\m Anina mi ga je sestra poklonila.
+\g Ana.gen me it AUX sister given
+\l Ana's sister has given it to me.
+
+\t b.%* Prijatelji su moje sestre          upravo stigli.
+\m b.%* Prijatelji su moje sestre          upravo stigli.
+\g      friends have my.gen sister.gen just arrived
+\l My sister's friends have just arrived.
+
+\t a.%* Studenti su iz Beograda upravo stigli.
+\m a.%* Studenti su iz Beograda upravo stigli.
+\g      students AUX from Beograd just        arrived
+\l Students from Beograd have just arrived.
+
+\t Roditelji su se       uspe nih       studenata razi li.
+\m Roditelji su se       uspe nih       studenata razi li.
+\g   parents AUX REFL successful.gen students.gen dispersed
+\l The parents of the successful students dispersed.
+
+\t c.%* Sestra e i njen mu          doci u utorak.
+\m c.%* Sestra e i njen mu          doci u utorak.
+\g      sister will and her husband come in Tuesday
+\l My sister and her husband will come on Tuesday.
+
+\t d.%* Lav je Tolstoj veliki ruski pisac.
+\m d.%* Lav je Tolstoj veliki ruski pisac.
+\g      Leo AUX Tolstoy great Russian writer
+\l Leo Tolstoy is a great Russian writer.
+
+\t Djevojka, koju       Ivan voli, je fina.
+\m Djevojka, koju       Ivan voli, je fina.
+\g girl      who.acc Ivan like.3s be.3s pretty
+\l The girl that Ivan loves is pretty.
+
+\t A:     Jesi li bio U ku i?
+\m A:     Jesi li bio U ku i?
+\g        be.2s Q be.ptc IN house
+\l Were you IN the house?
+
+\t B:     Ne, PRED ku om sam bio. / * PRED sam ku om bio.
+\m B:     Ne, PRED ku om sam bio. / * PRED sam ku om bio.
+\g        no, IN-FRONT house be.1s be.ptc
+\l No, I was IN FRONT of the house.
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U velikoj sobi je klavir.
+\m U velikoj sobi je klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U ovoj velikoj je sobi klavir.
+\m U ovoj velikoj je sobi klavir.
+\g    in this big aux room piano
+\l The piano is in this big room.
+
+\t Ne, PRED sam ku om bio.
+\m Ne, PRED sam ku om bio.
+\g   no, IN-FRONT house be.1s be.ptc
+\l No, I was IN FRONT of the house.
+
+\t nhila pamang nhingu pukpewu ku÷a wa:=ngu
+\m nhila pama-ng nhingu pukpe-wu ku÷a wa:=ngu
+\g he.nom man-erg him.dat child-dat dog give=dat.3s
+\l The man gave the dog to the child.
+
+\t Ivan ka e, da je itala Marija knjigu.
+\m Ivan ka e, da je itala Marija knjigu.
+\g Ivan said that is read Marija book
+\l Ivan said that Maria has read the book.
+
+\t On tvrdi da istukao beja e Jovan Petrovog prijatelja.
+\m On tvrdi da istukao beja e Jovan Petrovog prijatelja.
+\g he claims that beaten was Jovan Peter's friend
+\l He claims that Jovan had beaten Peter's friend.
+
+\t Marija migaje dala.
+\m Marija mi-ga-je dala.
+\g Maria me.dat-it.acc-is given.fem.sg
+\l It was Maria that gave it to me.
+
+\t Dala        miga je Marija.
+\m Dala        mi-ga- je Marija.
+\g given.fem.sg me.dat-it.acc-is Maria
+\l Maria has given it to me.
+
+\t Juj°e(?) miga je dala.
+\m Juj°e(?) mi-ga- je dala.
+\g yesterday me.dat-it.acc-is given.fem.sg
+\l It was yesterday that she gave it to me.
+
+\t Lepa           si mi
+\m Lepa           si mi
+\g beautiful.fem.sg are-me.dat
+\l You look very beautiful to me.
+
+\t Zaßto limugaje poklonila?
+\m Zaßto li-mu-ga-je poklonila?
+\g why Q-him-it-Aux presented
+\l Why did she present it to him?
+
+\t Taj pjesnik muje dao      autogram
+\m Taj pjesnik mu-je dao      autogram
+\g this poet him-is give.ptc autograph
+\l This poet has given him an autograph.
+
+\t U zelonoj kuÍi je stanovao.
+\m U zelonoj kuÍi je stanovao.
+\g in green house is stayed
+\l He stayed in the green house.
+
+\t Ivan je kupio zeleno auto.
+\m Ivan je kupio zeleno auto.
+\g Ivan be.3s buy.ptc green car
+\l Ivan bought a green car.
+
+\t Ivan je razbio tatino auto.
+\m Ivan je razbio tatino auto.
+\g Ivan be.3s ruin.ptc fathers car
+\l Ivan has ruined his father's car.
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U ovoj je velikoj sobi klavir.
+\m U ovoj je velikoj sobi klavir.
+\g in this aux big room piano
+\l The piano is in this big room.
+
+\t U veliku Jovan ulazi sobu.
+\m U veliku Jovan ulazi sobu.
+\g in big Jovan enters room
+\l Jovan enters the big room.
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t U ovoj je velikoj sobi klavir.
+\m U ovoj je velikoj sobi klavir.
+\g in this aux big room piano
+\l The piano is in this big room.
+
+\t Ove godine taj pesnik napisao mi je knjigu.
+\m Ove godine taj pesnik napisao mi je knjigu.
+\g this year that poet write.ptc me AUX book
+\l That poet wrote me a book this year.
+
+\t Roditelji uspeßnih      studenata su se         razißli.
+\m Roditelji uspeßnih      studenata su se         razißli.
+\g parents successful.gen students.gen AUX REFL dispersed
+\l The parents of the successful students dispersed.
+
+\t a.%* Studenti su iz Beograda upravo stigli.
+\m a.%* Studenti su iz Beograda upravo stigli.
+\g      students AUX from Beograd just arrived
+\l Students from Beograd have just arrived.
+
+\t Roditelji su se uspeßnih           studenata razißli.
+\m Roditelji su se uspeßnih           studenata razißli.
+\g   parents AUX REFL successful.gen students.gen dispersed
+\l The parents of the successful students dispersed.
+
+\t c.%* Sestra Íe i njen mu        doci u utorak.
+\m c.%* Sestra Íe i njen mu        doci u utorak.
+\g      sister will and her husband come in Tuesday
+\l My sister and her husband will come on Tuesday.
+
+\t d.%* Lav je Tolstoj veliki ruski pisac.
+\m d.%* Lav je Tolstoj veliki ruski pisac.
+\g      Leo AUX Tolstoy great Russian writer
+\l Leo Tolstoy is a great Russian writer.
+
+\t Djevojka, koju      Ivan voli, je fina.
+\m Djevojka, koju      Ivan voli, je fina.
+\g girl     who.acc Ivan like.3s be.3s pretty
+\l The girl that Ivan loves is pretty.
+
+\t Anina mi ga je sestra poklonila.
+\m Anina mi ga je sestra poklonila.
+\g Ana.gen me it AUX sister given
+\l Ana's sister has given it to me.
+
+\t b.%* Prijatelji su moje sestre       upravo stigli.
+\m b.%* Prijatelji su moje sestre       upravo stigli.
+\g      friends have my.gen sister.gen just arrived
+\l My sister's friends have just arrived.
+
+\t A:     Jesi li bio U kuÍi?
+\m A:     Jesi li bio U kuÍi?
+\g        be.2s Q be.ptc IN house
+\l Were you IN the house?
+
+\t B:     Ne, PRED kuÍom sam bio. / * PRED sam kuÍom bio.
+\m B:     Ne, PRED kuÍom sam bio. / * PRED sam kuÍom bio.
+\g        no, IN-FRONT house be.1s be.ptc
+\l No, I was IN FRONT of the house.
+
+\t U velikoj je sobi klavir.
+\m U velikoj je sobi klavir.
+\g in big aux room piano
+\l In the big room is the piano.
+
+\t Nasao     sam ga               pijanog    /      *pijanim
+\m Nasao     sam ga               pijanog    /      *pijanim
+\g found     aux himk-Acc         drunkk-Acc        *-Instr
+\l I found him drunk.
+
+\t Nasao sam ga              pijanog                       / *pijanim
+\m Nasao sam ga              pijanog                       / *pijanim
+\g found aux       himi-Acc drunki-Acc                       *-Instr
+\l I found him drunk.
+
+\t Petar je       mjesecima        trazio        onu knjigu.
+\m Petar je       mjesecima        trazio        onu knjigu.
+\g Petar AUX3:sg monthINSTR:PL look-formasc that book
+\l Petar was looking for that book for months.
+
+\t Mirko olovkom        pise           pismo.
+\m Mirko olovkom        pise           pismo.
+\g Mirko pencilINSTR write3:sg:PRS letter
+\l Mirko writes a/the letter with a/the pencil.
+
+\t Knjizevnost mu       je       bila   samo sredstvom.
+\m Knjizevnost mu       je       bila   samo sredstvom.
+\g literature    CLDAT AUX3:sg COPPST only meansINST
+\l Literature was only a means to an end for him.
+
+\t Petar je        drzao        Jovana lijencinom.
+\m Petar je        drzao        Jovana lijencinom.
+\g Petar AUX3:sg considerPST Jovan layaboutINST
+\l Petar considered Jovan a layabout.
+
+\t Macka koja lezi u kutu               prede.
+\m Macka koja lezi u kutu               prede.
+\g cat       which lies in corner purrs.
+\l The cat that lies in the corner purrs.
+
+\t Snezana se        raduje   onomu sto       cita.
+\m Snezana se        raduje   onomu sto       cita.
+\g Snezana REFL is-happy that         what reads
+\l Snezana enjoys what she reads.
+
+\t Pomagat u               kome god ti budes          pomagao.
+\m Pomagat u               kome god ti budes          pomagao.
+\g  helpInf     AUXFUT:1sg who ever you AUXFUT2:2sg helpPrt
+\l I will help whoever you help.
+
+\t Jovan je     vidio policajca sto ga         je    kaznio.
+\m Jovan je     vidio policajca sto ga         je    kaznio.
+\g Jovan AUX saw policeman sto himCL AUX fined
+\l Jovan saw the policeman that fined him.
+
+\t Jovan je      vidio policajcai cegai se        bojao.
+\m Jovan je      vidio policajcai cegai se        bojao.
+\g  Jovan AUX saw policeman stoGEN REFL was-afraid-of
+\l Jovan saw the policeman that he was afraid of.
+
+\t Jovan je     vidio policajcai sto se         gai             bojao.
+\m Jovan je     vidio policajcai sto se         gai             bojao.
+\g Jovan AUX saw        policeman sto REFL him         CL-GEN   was-afraid-of
+\l Jovan saw the policeman that he was afraid of.
+
+\t Citat u            sto        god ti     budes      citao.
+\m Citat u            sto        god ti     budes      citao.
+\g read AUXFUT:1sg whatACC ever you AUXFUT2:2sg read
+\l I will read whatever you read.
+
+\t Unajmit u              koga/s kim     god budes        pricao.
+\m Unajmit u              koga/s kim     god budes        pricao.
+\g   hire       AUXFUT:1sg whoACC/s+INST ever AUXFUT2:2sg talk
+\l I will hire whoever you talk with.
+
+\t Kupio sam         to       cemu    se    radujem.
+\m Kupio sam         to       cemu    se    radujem.
+\g bought AUX1sg thatACC whatDAT REFL be-happy1sg
+\l I bought what I enjoy.
+
+\t Kupio sam         knjigu     kojoj    se   radujem.
+\m Kupio sam         knjigu     kojoj    se   radujem.
+\g bought AUX1sg bookACC whichDAT REFL be-happy1sg
+\l I bought the book that I enjoy.
+
+\t Koga      god budes          poljubila osvojit e                prvenstvo.
+\m Koga      god budes          poljubila osvojit e                prvenstvo.
+\g whoACC ever beFUT:2:sg kissed           win       willFUT:3:sg championship.
+\l Whoever you kiss will win the championship.
+
+\t (9)a. (Ova)               Miki   je       do§la           iz     Amerike.
+\m (9)a. (Ova)               Miki   je       do§la           iz     Amerike.
+\g       this-NOM.F.SG Miki         AUX came-F.SG from Amerika.
+\l (This) Miki came from America.
+
+\t Poznajem        (jednu)            Miki.
+\m Poznajem        (jednu)            Miki.
+\g    Know-1SG one-ACC.SG Miki
+\l I know (a person named)Miki'.
+
+\t Seam    se   se       (jedne)           stare            Miki.
+\m Seam    se   se       (jedne)           stare            Miki.
+\g remember REFL one-GEN.SG old-GEN.SG Miki
+\l I remember old Miki.
+
+\t On je        tr ao prema        (lepoj)                  Miki.
+\m On je        tr ao prema        (lepoj)                  Miki.
+\g He AUX ran           towards beautiful-DAT.SG Miki
+\l He ran towards (beautiful) Miki.
+
+\t Dolazim      sa       (mojom)           Miki.
+\m Dolazim      sa       (mojom)           Miki.
+\g come-1SG with my-INST.SG Miki
+\l I am coming with Miki.
+
+\t Razgovarali smo        o        (mojoj)         Miki.
+\m Razgovarali smo        o        (mojoj)         Miki.
+\g talked-1PL        AUX about my-LOC.SG Miki
+\l We talked about (my) Miki.
+
+\t Divim se        Larisi / *Miki.
+\m Divim se        Larisi / *Miki.
+\g admire-1SG      REFL         Larisa-DAT / Miki
+\l I admire Larisa / Miki.
+
+\t Ponosim         se           Larisom / *Miki.
+\m Ponosim         se           Larisom / *Miki.
+\g proud-1sg       REFL         Larisa-INST / Miki
+\l I am pround of Larisa / Miki.
+
+\t Odu§evljena       sam       Larisom / *Miki.
+\m Odu§evljena       sam       Larisom / *Miki.
+\g impressed-1SG AUX Larisa-INST / Miki
+\l I am impressed by Larisa / Miki.
+
+\t Divim         se        *(mojoj)     Miki.
+\m Divim         se        *(mojoj)     Miki.
+\g admire-1SG REFL my-DAT.SG Miki
+\l I admire (my) Miki.
+
+\t Odu§evljena          sam       *(mojom)        Miki.
+\m Odu§evljena          sam       *(mojom)        Miki.
+\g   impressed-1SG      AUX       my-INST.SG Miki
+\l I am impressed by (my) Miki.
+
+\t Divim         se        {*braon / lepoj}               Miki.
+\m Divim         se        {*braon / lepoj}               Miki.
+\g admire-1SG REFL brown / beautiful-DAT.SG Miki
+\l I admire {brunette/ beautiful} Miki
+
+\t [Mnogo srpskih                pisaca]             je           oti §lo.
+\m [Mnogo srpskih                pisaca]             je           oti §lo.
+\g many      Serbian-GEN.PL writer-GEN.PL AUX.SG                  left-3.NT.SG
+\l Many Serbian writers have left.
+
+\t [Moja              stara             knjiga]        stalno   pada.
+\m [Moja              stara             knjiga]        stalno   pada.
+\g  my.F.SG.NOM       old.F.SG.NOM      book.NOM always falls.3SG
+\l My old book keeps falling.
+
+\t mojih / zadnjih              pet     godina
+\m mojih / zadnjih              pet     godina
+\g  my.GEN.PL /last.GEN.PL five        year-GEN.PL
+\l my five years / the last five years
+
+\t Poznajem        ove                studente
+\m Poznajem        ove                studente
+\g know-1 SG       this-ACC.PL        student-ACC.PL
+\l I know these students.
+
+\t Poznajem        [ovih            pet studenata].
+\m Poznajem        [ovih            pet studenata].
+\g  know-1 SG this-GEN.PL five student-GEN.PL
+\l I know these five students.
+
+\t Seam                se     ovih          studenata.
+\m Seam                se     ovih          studenata.
+\g remember-1SG REFL this-GEN.PL student-GEN.PL
+\l I remember these students.
+
+\t Seam                 se     [ovih         pet        studenata].
+\m Seam                 se     [ovih         pet        studenata].
+\g  remember-1SG refl          this-GEN.PL five student-GEN.PL
+\l I remember these five students.
+
+\t knjiga      [ovih         studenata]
+\m knjiga      [ovih         studenata]
+\g book        this-GEN.PL student-GEN.PL
+\l a book of these students
+
+\t knjiga [ovih              pet    studenata]
+\m knjiga [ovih              pet    studenata]
+\g  book       this-GEN.PL five student-GEN.PL
+\l a book of these five students
+
+\t pokloniti knjige               [ovim          studentima]
+\m pokloniti knjige               [ovim          studentima]
+\g give-INF     books-ACC this-DAT.PL student-M.PL
+\l to give books to these students
+
+\t pokloniti knjige               [ovih          pet      studenata]
+\m pokloniti knjige               [ovih          pet      studenata]
+\g  give-inf       books-ACC this-GEN.PL five              student-GEN.PL
+\l to give books to these five students
+
+\t upravljanje        [ovim           preduze ima]
+\m upravljanje        [ovim           preduze ima]
+\g  management this-INST.PL company-INST.PL
+\l management of these companies
+
+\t upravljanje         [ovih               pet    preduze a]
+\m upravljanje         [ovih               pet    preduze a]
+\g   management         this-GEN.PL         five   company-GEN.PL
+\l management of these five co mpanies
+
+\t Predsjednik      vlada      zemljom.
+\m Predsjednik      vlada      zemljom.
+\g  president       rules      country-INST
+\l The president rules the country.
+
+\t Predsjednik vlada sa              nekoliko zemalja.
+\m Predsjednik vlada sa              nekoliko zemalja.
+\g   president     rules with        several   countries-GEN
+\l The president rules several countries.
+
+\t On je         lutao      morima.
+\m On je         lutao      morima.
+\g  he AUX       wandered seas-INST
+\l He wandered the seas
+
+\t On      je     lutao        sa      morima.
+\m On      je     lutao        sa      morima.
+\g    he    AUX wandered with           seas-INST
+\l He wandered the seas
+
+\t On je       lutao         pet mora.
+\m On je       lutao         pet mora.
+\g  he AUX wandered           five seas
+\l He wandered five seas.
+
+\t On je         lutao      sa      pet mora.
+\m On je         lutao      sa      pet mora.
+\g    he     AUX wandered with five seas
+\l He wandered five seas.
+
+\t Srpski                pisci                 su            oti §li.
+\m Srpski                pisci                 su            oti §li.
+\g    bian-NOM.M.PL writer-NOM.M.PL AUX.3PL left-M.PL
+\l The Serbian writers have left.
+
+\t (Ova)            Dejn je             do§la               iz      Amerike.
+\m (Ova)            Dejn je             do§la               iz      Amerike.
+\g this-NOM.F.SG Jane         AUX.3SG came-F.SG             from America.
+\l (This) Jane came from America.
+
+\t [Mnogo srpskih pisaca]                           je            oti §lo.
+\m [Mnogo srpskih pisaca]                           je            oti §lo.
+\g [many    Serbian-GEN.PL writer-GEN.PL] AUX.3SG                 left-NT.SG
+\l Many Serbian writers have left.
+
+\t Ova povi§ica je                    iznenadila             Jovana
+\m Ova povi§ica je                    iznenadila             Jovana
+\g     this raise-F.NOM AUX.SG surprised-F.SG John-ACC
+\l This (pay) raise surprised John.
+
+\t Jovana       je         iznenadilo       [§ su se cene poveale].
+\m Jovana       je         iznenadilo       [§ su se cene poveale].
+\g   John-ACC AUX.SG surprised-N.SG [that prices were raised]
+\l That prices have been raised surprised John.
+
+\t {samih /       *samog}         sebe.
+\m {samih /       *samog}         sebe.
+\g own-GEN.PL / *own-GEN.N.SG self-GEN
+\l Five boys were shy about themselves.
+
+\t Marijii       je       bilo ao    sebei .
+\m Marijii       je       bilo ao    sebei .
+\g Mary.DAT AUX           was.NT.SG sorry      self
+\l Mary felt sorry for herself.
+
+\t Otac           mu      c"ita           novine.
+\m Otac           mu      c"ita           novin-e.
+\g  father.NOM he.DAT read.PRES.3sg newspaper-ACC
+\l His father reads newspapers' or`The father reads newspapers to him
+
+\t a. Jovan          ne      voli  tih knjiga
+\m a. Jovan          ne      voli  tih knjiga
+\g     Jovan-Nom neg likes [those books]-GenNeg
+\l Jovan doesn't like those books.
+
+\t Jovan           ne      voli  te      knjige
+\m Jovan           ne      voli  te      knjige
+\g  Jovan-Nom neg likes [those books]-Acc
+\l Jovan doesn't like those books.
+
+\t Petar je       mjesecima       trazio            onu knjigu.
+\m Petar je       mjesecima       trazio            onu knjigu.
+\g Petar is       monthINSTR:PL looked-forIMP       that book
+\l Petar was looking for that book for months.
+
+\t Zanimljive         knjige     mi       stalno           kupuje      Zoran.
+\m Zanimljive         knjige     mi       stalno           kupuje      Zoran.
+\g interesting        books      me.dat constantly         buys        Zoran
+\l Zoran is constantly buying me interesting books.
+
+\t Kupovao           mi      je       stalno           zanimljive      knjige.
+\m Kupovao           mi      je       stalno           zanimljive      knjige.
+\g bought            me.dat aux.3sg constantly         interesting     books
+\l He was constantly buying me interesting books.
+
+\t Zanimljive         mi       knjige       stalno           kupuje     Zoran.
+\m Zanimljive         mi       knjige       stalno           kupuje     Zoran.
+\g interesting        me.dat books          constantly       buys       Zoran
+\l Zoran is constantly buying me interesting books.
+
+\t \X(U stara      raspala     prljava) smo         \X(kola) sjeli
+\m \X(U stara      raspala     prljava) smo         \X(kola) sjeli
+\g in   old        decrepit dirty          aux.1pl.car sat
+\l We got into a dirty decrepit old car.
+
+\t \X(U veliku)     je          Jovan       u ao        \X(sobu)
+\m \X(U veliku)     je          Jovan       u ao        \X(sobu)
+\g in    big        aux.3sg Jovan           walked      room
+\l Jovan walked into a large room.
+
+\t Marija     mu          eli     da     ga             predstavi.
+\m Marija     mu          eli     da     ga             predstavi.
+\g Maria      him.dat wants C            him.acc        introduces
+\l Maria wants to introduce him to him.
+
+\t Ûelio      sam        mu        da     ga        kupim.
+\m Ûelio      sam        mu        da     ga        kupim.
+\g wanted     aux.1sg him.dat      C      it.acc    buy.1sg
+\l I wanted to buy him it.
+
+\t Marko     mu          je              elio      da      ga        kupi.
+\m Marko     mu          je              elio      da      ga        kupi.
+\g Marko     him.dat     aux.3sg        wanted     C       it.acc    buy.3sg
+\l Marko wanted to buy him it.
+
+\t Ne     _itajte !
+\m Ne     _itajte !
+\g Neg read.2Pl.Imper
+\l Do not read!
+
+\t Knjige im             _itajte!
+\m Knjige im             _itajte!
+\g books 3Pl.Dat.Cl      read.2Pl.Imper
+\l Read books to them!
+
+\t Krle_u.
+\m Krle_u.
+\g Krle_a
+\l Maria read Krle_a.
+
+\t Da             Vesna pro_ita ovu knjigu!
+\m Da             Vesna pro_ita ovu knjigu!
+\g Subj.Prt        Vesna reads this book
+\l Vesna should read this book!
+
+\t Da       Vesna       pro_ita        ovu knjigu?
+\m Da       Vesna       pro_ita        ovu knjigu?
+\g Subj.prt.Vesna      read.3Sg       this book
+\l Should Vesna read this book?
+
+\t Koju knjigu da               Vesna pro_ita?
+\m Koju knjigu da               Vesna pro_ita?
+\g which book Subj.prt.Vesna read.3Sg
+\l Which book should Vesna read?
+
+\t              knjigu) Vesna _ita?
+\m              knjigu) Vesna _ita?
+\g              book Vesna read.3Sg
+\l Is it this book that Vesna should read?
+
+\t razaznaje
+\m razaznaje
+\g distinguish.3Sg
+\l (s)he does not distinguish their faces
+
+\t Ne     _itajte                je!
+\m Ne     _itajte                je!
+\g Neg read.2Pl.Imper            3Sg.F.Acc.Cl
+\l Do not read it!
+
+\t Ko       sta         kupuje?
+\m Ko       sta         kupuje?
+\g who      what        buys
+\l Who buys what?
+
+\t Zavisi      od    toga      sta  ko     kupuje
+\m Zavisi      od    toga      sta  ko     kupuje
+\g depends       on    it        what who buys
+\l It depends on who buys what
+
+\t Koga     si     ko       tvrdio      da     je istukao
+\m Koga     si     ko       tvrdio      da     je istukao
+\g whom      are    whom     claimed     that is beaten
+\l Who did you claim beat whom?
+
+\t Cita j       je!
+\m Cita j       je!
+\g read-2sg.Imp it
+\l Read it!
+
+\t Ivan insistira da to  citas.
+\m Ivan insistira da to  citas.
+\g Ivan insists that it read-2sg.Ind
+\l Ivan insists that you read it.
+
+\t On tvrdi da istukao beja Jovan Petrovog prijatelja.
+\m On tvrdi da istukao beja Jovan Petrovog prijatelja.
+\g he claims that beaten was Jovan Peter's friend
+\l He claims that Jovan had beaten Peter's friend.'Embick and Izvorski 1995, 8
+
+\t Ne  citate             je.
+\m Ne  citate             je.
+\g Neg read-2pl.Pres.Ind it
+\l You are not reading it.
+
+\t Ne je  citate.
+\m Ne je  citate.
+\g  Neg it read-2pl.Pres.Ind
+\l You are not reading it.
+
+\t Ko gdje spava?
+\m Ko gdje spava?
+\g who where sleeps
+\l Who sleeps where?
+
+\t Mirko ju                            je                    citao nju.
+\m Mirko ju                            je                    citao nju.
+\g   Mirko it.AC C.C L I T          IC   au x.3   SG         read it.AC   C
+\l Mirko read it it.
+
+\t Ja              sam               otisla
+\m Ja              sam               otis-l-a
+\g I               AUX.1SG           leave-L-FEM.SG
+\l I left (fem.)
+
+\t Ti             si               otisla
+\m Ti             si               otisla
+\g you            AUX.2SG          leave.PRT.FEM.SG
+\l You left (fem.)
+
+\t Vlasta          je              otisla
+\m Vlasta          je              otisla
+\g Vlasta          AUX.3SG         leave.PRT.FEM.SG
+\l Vlasta left
+
+\t Devojke         su            otisle
+\m Devojke         su            otisle
+\g girls           AUX.3PL       leave.PRT.FEM.PL
+\l The girls left/wrote a book
+
+\t Momci          su            otisli
+\m Momci          su            otisli
+\g boys           AUX.3PL       leave.PRT.MASC.PL
+\l The boys left/wrote a book
+
+\t (Ja) nisam go video
+\m (Ja) ni-sam go video
+\g (i) NEG-AUX him saw
+\l I didn't see him
+
+\t Knj``ga              ^ ¯
+\m Knj``ga              ^ ¯
+\g book.NOM     REFL write.PRES
+\l  The book   is being written. 
+
+\t      `            ^ ¯
+\m      `            ^ ¯
+\g book.ACC REFL write.PRES
+\l  The book is being written. 
+
+\t o v i             privatne       zanatlije
+\m o v i             privatne       zanatlije
+\g these.MASC.PLprivate.FEM.PLartisan.PL
+\l these private artisans
+
+\t Ko    sta gdje kupuje?
+\m Ko    sta gdje kupuje?
+\g who what where buys
+\l Who buys what where?
+
+\t Ko koga vidi
+\m Ko koga vidi
+\g Who whom sees
+\l Who sees whom?
+
+\t Ko je sto (*je) kome      (*je) dao
+\m Ko je sto (*je) kome      (*je) dao
+\g Who has what      to whom       given
+\l Who gave what to whom?
+
+\t Nekoliko ljudi             je       kupilo    imanja        u   Tetovu    
+\m Nekoliko ljudi             je       kupilo    imanja        u   Tetovu    
+\g Several person.GEN.pl AUX.3SGN bought.3SG.    home.ACCpl in     Tetovo.LOC
+\l Several people bought homes in Tetovo.
+
+\t Videli    su [coveka,      koji    je   ukrao          kompjuter]
+\m Videli    su [coveka,      koji    je   ukrao          kompjuter]
+\g saw       aux man-acc      who aux stole               computer-acc
+\l They    saw the man who stole the computer.
+
+\t Ko mu je ta        dao?
+\m Ko mu je ta        dao?
+\g who him is what given
+\l Who gave him what?
+
+\t Ko      je prvi    koga    udario?
+\m Ko      je prvi    koga    udario?
+\g who     is first   whom hit
+\l Who   hit whom first?
+
+\t Ko,     po        tebi,    ta      pije?
+\m Ko,     po        tebi,    ta      pije?
+\g who,    according to you what      drinks
+\l Who,  according to you, drinks what?
+
+\t Ko         Ïelite    da   vam ta      kupi?
+\m Ko         Ïelite    da   vam ta      kupi?
+\g who        want-2p that you what buys
+\l Who      do you want to buy you what?
+
+\t Kogo   kâde     e vidjal ãovekut?
+\m Kogo   kâde     e vidjal ãovekut?
+\g whom where is seen         the man
+\l Whom did the man see where?
+
+\t Ko        je ta       prodao?
+\m Ko        je ta       prodao?
+\g who       is what sold
+\l Who      sold what?
+
+\t   Ima ko      ta     da ti      proda.
+\m   Ima ko      ta     da ti      proda.
+\g has      who what that you sells
+\l There is someone who can sell you something.
+
+\t Ko si       koga    tvrdio da je                     istukao?
+\m Ko si       koga    tvrdio da je                     istukao?
+\g who are whom claimed that is                         beaten
+\l Who did you claim beat whom?
+
+\t Ko        li    ta     kupuje?
+\m Ko        li    ta     kupuje?
+\g who       C     what buys
+\l Who      on   earth buys what?
+
+\t Ko ta       kupuje?
+\m Ko ta       kupuje?
+\g who what buys
+\l Who buys what?
+
+\t Ko    ta    gdje    kupuje?
+\m Ko    ta    gdje    kupuje?
+\g who what where buys
+\l Who buys what where?
+
+\t Tu knjigu, ko       je kupio?
+\m Tu knjigu, ko       je kupio?
+\g that book     who is bought
+\l That book, who bought?
+
+\t Tom ãoveku, ko          je ta          poklonio?
+\m Tom ãoveku, ko          je ta          poklonio?
+\g that man         who is what           given
+\l To that man, who gave what?
+
+\t U toj      koli, ko       je ta         zaboravio?
+\m U toj      koli, ko       je ta         zaboravio?
+\g in that school, who is what             forgotten
+\l In that school, who forgot what?
+
+\t Zato je kako istukao Petra?
+\m Zato je kako istukao Petra?
+\g why    is how beaten         Petar
+\l Why did he beat Petar how?
+
+\t Ogledalo           i       cetka za kosu       su      bili            na stolu.
+\m Ogledalo           i       cetka za kosu       su      bili            na stolu.
+\g    mirror.NT.SG and brush-F.SG for hair AUX were-M.PL on table
+\l The mirror and the hair brush were on the table.
+
+\t Ogledalo          i    nalivpero           su      bili / *bila               na stolu.
+\m Ogledalo          i    nalivpero           su      bili / *bila               na stolu.
+\g mirror.NT.SG and fountain pen-NT.SG AUX were-M.PL/*NT.PL on table
+\l The mirror and the fountain pen were on the table.
+
+\t Ova         velika devojka    i      ovo        malo         devojc&e         su       se     lepo   igrale / ?igrali.       
+\m Ova         velika devojka    i      ovo        malo         devojc&e         su       se     lepo   igrale / ?igrali.       
+\g this-F.SG big      girl(F.SG) and this-NT.SG little-NT.SG girl(NT.SG)         aux.pl refl well       played-F.PL/ played-M.PL
+\l This big girl(F) and this little girl(NT) played well.
+
+\t Taj    stari   sudija je       dobro sudio.
+\m Taj    stari   sudija je       dobro sudio.
+\g that.M old.M judge AUX         well     judged.M
+\l That old (male) judge judged well.
+
+\t Ta        stara   sudija je        dobro sudila.
+\m Ta        stara   sudija je        dobro sudila.
+\g that.F old.F judge AUX             well    judged.F
+\l That old (female) judge judged well.
+
+\t To         mlado        sudija      je       dobro   sudilo.
+\m To         mlado        sudija      je       dobro   sudilo.
+\g that.N      young.N      judge       AUX      well    judged.N
+\l That young judge judged well.
+
+\t najsvirepije        / *najsverepiji   [kazne            i   muc&enja]
+\m najsvirepije        / *najsverepiji   [kazne            i   muc&enja]
+\g  cruellest.F.PL       cruellest.M.PL punishments(F.PL) and tortures(NT.PL)
+\l the cruellest punishments and tortures
+
+\t Maria s¶i tata         au fost     vazut¶i          fumînd     marijuana.
+\m Maria s¶i tata         au fost     vazut¶i          fumînd     marijuana.
+\g Maria and father were               seen.M.PL smoking            marijuana
+\l Maria and father were seen smoking marijuana.
+
+\t s&tula                 i   s&taka         bili   su   sve s&to   je tadas&nja       medicina mogla da         mu           pruz&i
+\m s&tula                 i   s&taka         bili   su   sve s&to   je tadas&nja       medicina mogla da         mu           pruz&i
+\g  wooden.leg(FEM ) and crutch(FEM ) been.M.PL are all that je of.that.time           medicine could that him.DAT offer            
+\l A wooden leg and a crutch were all that medical science of that time could offer him.
+
+\t Ovo          moje      devojc&e        i   ovo     tvoje        luc&e         su      se    lepo *igrale        / igrali.
+\m Ovo          moje      devojc&e        i   ovo     tvoje        luc&e         su      se    lepo *igrale        / igrali.
+\g this.NT.SG my.NT.SG girl.NT.SG and this.NT.SG your.NT.SG doll.NT.SG.          aux.pl refl.well played.F.PL / played.M.PL 
+\l My girl(NT) and your"doll" (= girl, NT) played well.
+
+\t Ko kupuje sta gdje?
+\m Ko kupuje sta gdje?
+\g  who buys what where
+\l Who buys what where?
+
+\t PETRA Marija             voli.
+\m PETRA Marija             voli.
+\g Petar-ACC Marija-NOM     loves
+\l Marija loves Petar.
+
+\t Marija        PETRA      voli.
+\m Marija        PETRA      voli.
+\g Marija-NOM Petar-ACC     loves
+\l Marija loves Petar.
+
+\t Ko koga voli?
+\m Ko koga voli?
+\g who whom loves
+\l Who loves whom?
+
+\t Neko      voli nekog.
+\m Neko      voli nekog.
+\g somebody loves somebody
+\l Somebody loves somebody.
+
+\t Ko koga?
+\m Ko koga?
+\g who whom
+\l Who (loves) whom?
+
+\t Ko si koga tvrdio         da je istukao?
+\m Ko si koga tvrdio         da je istukao?
+\g  who are whom claim-2SG that is beaten
+\l Who do you claim that beat whom?
+
+\t Ko koga voli, taj         o    njemu i govori.
+\m Ko koga voli, taj         o    njemu i govori.
+\g who whom loves that.one about him even talks
+\l Everyone talks about the person they love.
+
+\t Ima ko sta da ti proda.
+\m Ima ko sta da ti proda.
+\g has who what that you sells
+\l There is someone who can sell you something.
+
+\t Ko li sta kupuje?
+\m Ko li sta kupuje?
+\g who C what buys
+\l Who on earth buys what?
+
+\t PETRA Marija               voli.
+\m PETRA Marija               voli.
+\g Petar-ACC Marija-NOM loves
+\l It is Petar that Marija loves.
+
+\t PETRA         I IGORA Marija voli.
+\m PETRA         I IGORA Marija voli.
+\g Petar-ACC and Igor-ACC Marija loves
+\l It is Petar and Igor that Marija loves.
+
+\t PETRA         Marija voli.
+\m PETRA         Marija voli.
+\g Petar-ACC Marija loves
+\l It is Petar that Marija loves.
+
+\t Marija voli PETRA I          IGORA.
+\m Marija voli PETRA I          IGORA.
+\g Marija loves Petar-ACC and Igor-ACC
+\l Marija loves Petar and Igor.
+
+\t Marija voli PETRA.
+\m Marija voli PETRA.
+\g Marija loves Petar-ACC
+\l Marija loves Petar.
+
+\t Marija PETRA I IGORA voli.
+\m Marija PETRA I IGORA voli.
+\g Marija Petar-ACC and Igor-ACC loves
+\l It is Petar that Marija loves.
+
+\t Marija PETRA voli.
+\m Marija PETRA voli.
+\g Marija Petar-ACC loves
+\l It is Petar that Marija loves.
+
+\t Oni mudro JOVANA savjetuju.
+\m Oni mudro JOVANA savjetuju.
+\g they wisely Jovan-ACC advise
+\l It is wise of them to advise Jovan.
+
+\t Oni JOVANA mudro savjetuju.
+\m Oni JOVANA mudro savjetuju.
+\g they Jovan-ACC wisely advise
+\l They advise Jovan in a wise manner.
+
+\t JOVANA oni mudro savjetuju.
+\m JOVANA oni mudro savjetuju.
+\g Jovan-ACC they wisely advise
+\l It is wise of them to advise Jovan.
+
+\t Ko mudro koga savjetuje?
+\m Ko mudro koga savjetuje?
+\g who wisely whom advises
+\l ?? Who is it wise of to advise whom?
+
+\t Ko koga mudro savjetuje?
+\m Ko koga mudro savjetuje?
+\g who whom wisely advises
+\l Who advises whom in a wise manner?
+
+\t Koga ko mudro savjetuje?
+\m Koga ko mudro savjetuje?
+\g whom who wisely advises
+\l Who advises whom in a wise manner?
+
+\t A:     Neko      je udario nekog.
+\m A:     Neko      je udario nekog.
+\g        somebody is hit     someone
+\l Somebody hit someone.
+
+\t B:    Ko koga?
+\m B:    Ko koga?
+\g       who whom
+\l Who hit whom?
+
+\t B:    ?*Koga ko?
+\m B:    ?*Koga ko?
+\g         whom who
+\l Who hit whom?
+
+\t A:     Neko      je nekad      ovdje sakrio blago.
+\m A:     Neko      je nekad      ovdje sakrio blago.
+\g        somebody is somewhere here hidden treasure
+\l Somebody hid the treasure here at some point in the past.
+
+\t B:    Ko kad?
+\m B:    Ko kad?
+\g       who when
+\l Who (hid the treasure) when?
+
+\t A:     Neko      je negdje     sakrio blago.
+\m A:     Neko      je negdje     sakrio blago.
+\g        somebody is somewhere hidden treasure
+\l Somebody hid the treasure somewhere.
+
+\t B:    Ko gdje?
+\m B:    Ko gdje?
+\g       who where
+\l Who (hid the treasure) where?
+
+\t A:     Neko     je nekoga sakrio ovdje.
+\m A:     Neko     je nekoga sakrio ovdje.
+\g        somebody is somebody hid here
+\l Somebody hid somebody here.
+
+\t B:    Ko koga?
+\m B:    Ko koga?
+\g       who whom
+\l Who (hid) whom (here)?
+
+\t Ivan je pojeo jabuku, a Petar breskvu.
+\m Ivan je pojeo jabuku, a Petar breskvu.
+\g Ivan is eaten apple, and Petar peach
+\l Ivan ate an apple, and Petar a peach.
+
+\t Ivan je pojeo jabuku, ali Petar breskvu.
+\m Ivan je pojeo jabuku, ali Petar breskvu.
+\g  Ivan is eaten apple, but Petar peach
+\l Ivan ate an apple, but Petar a peach.
+
+\t Ivan je vidio nekoga, ali ne znam koga.
+\m Ivan je vidio nekoga, ali ne znam koga.
+\g Ivan is seen somebody but not know whom
+\l Ivan saw somebody, but I don't know whom.
+
+\t Neko     je vidio nekog,  ali ne znam ko koga.
+\m Neko     je vidio nekog,  ali ne znam ko koga.
+\g somebody is seen somebody but not know who whom
+\l Somebody saw someone, but I don't know who whom.
+
+\t Ivan je volio Mariju, a mislim da Goran Vesnu.
+\m Ivan je volio Mariju, a mislim da Goran Vesnu.
+\g  Ivan is loved Marija, and think that Goran Vesna
+\l Ivan loved Marija, and I think that Goran loved Vesna.
+
+\t A:     Marija je voljela nekog.
+\m A:     Marija je voljela nekog.
+\g        Marija is loved somebody
+\l Marija loved somebody.
+
+\t B:    Koga?
+\m B:    Koga?
+\g       whom
+\l Whom?
+
+\t Marko pise, ali ne znam sta kome.
+\m Marko pise, ali ne znam sta kome.
+\g Marko writes but not know what whom
+\l Marko is writing, but I don't know what he is writing to whom.
+
+\t A:    Marko pise.
+\m A:    Marko pise.
+\g       Marko writes
+\l Marko is writing.
+
+\t B:    Sta kome?
+\m B:    Sta kome?
+\g       what whom
+\l What (is he writing) whom?
+
+\t Marko pise pismo,         a Petar pjesmu
+\m Marko pise pismo,         a Petar pjesmu
+\g Marko writes letter-ACC and Petar poem-ACC
+\l Marko is writing a letter, and Petar a song.
+
+\t Marko pise, a Petar pjesmu
+\m Marko pise, a Petar pjesmu
+\g  Marko writes and Petar poem-ACC
+\l Marko is writing, and Petar a song.
+
+\t A:     Neko      je nekad          ovdje sakrio blago.
+\m A:     Neko      je nekad          ovdje sakrio blago.
+\g        somebody is some.time.ago here hidden treasure
+\l Somebody hid the treasure here at some point in the past.
+
+\t B:    Ko je kad ovdje sakrio blago?
+\m B:    Ko je kad ovdje sakrio blago?
+\g       who is when here hidden treasure
+\l Who hid the treasure here when?
+
+\t A:     Neko      je negdje     sakrio blago.
+\m A:     Neko      je negdje     sakrio blago.
+\g        somebody is somewhere hidden treasure
+\l Somebody hid the treasure somewhere.
+
+\t B:    Ko je gdje sakrio blago?
+\m B:    Ko je gdje sakrio blago?
+\g       who is where hidden treasure
+\l Who hid the treasure where?
+
+\t A:     Neko     je nekoga ovdje sakrio.
+\m A:     Neko     je nekoga ovdje sakrio.
+\g        somebody is somebody here hidden
+\l Somebody hid somebody here.
+
+\t B:    Ko je koga ovdje sakrio?
+\m B:    Ko je koga ovdje sakrio?
+\g       who is whom here hidden
+\l Who hid whom here?
+
+\t Ivan je nekog nekako prevario.
+\m Ivan je nekog nekako prevario.
+\g Ivan is someone somehow cheated
+\l Ivan cheated someone somehow.
+
+\t Koga kako?
+\m Koga kako?
+\g whom how
+\l How (did Ivan cheat) whom?
+
+\t Neko       je nekog   nekako prevario.
+\m Neko       je nekog   nekako prevario.
+\g somebody is someone somehow cheated
+\l Somebody cheated someone somehow.
+
+\t Ko koga kako?
+\m Ko koga kako?
+\g who whom how
+\l How (did) who (cheat) whom?
+
+\t A:   Nekad          je neko     ovdje sakrio blago.
+\m A:   Nekad          je neko     ovdje sakrio blago.
+\g      some.time.ago is somebody here hidden treasure
+\l Somebody hid the treasure here at some point in the past.
+
+\t B:   ?Ko kad?
+\m B:   ?Ko kad?
+\g       who when
+\l Who (hid the treasure) when?
+
+\t Ko je koga udario?
+\m Ko je koga udario?
+\g who is whom hit
+\l Who hit whom?
+
+\t Marija        Petra.
+\m Marija        Petra.
+\g Marija-NOM Petar-ACC
+\l Marija Petar.
+
+\t Petra       Marija.
+\m Petra       Marija.
+\g   Petar-ACC Marija-NOM
+\l Marija Petar.
+
+\t Petra       je udarila Marija.
+\m Petra       je udarila Marija.
+\g  Petar-ACC is hit       Marija-NOM
+\l Marija hit Petar.
+
+\t Taj covek=joj=ga=je poklonio.
+\m Taj covek=joj=ga=je poklonio.
+\g that man=her=it=AUX presented
+\l That man presented her with it
+
+\t Ko coga vidi
+\m Ko coga vidi
+\g Who whom sees
+\l Who sees whom?
+
+\t Koi zelite [da vam sta kupi ti]
+\m Koi zelite [da vam sta kupi ti]
+\g Who want-2p to you what buy-3s
+\l Who do you want to buy you what?
+
+\t Stai zelite [da vam ko kupi ti]
+\m Stai zelite [da vam ko kupi ti]
+\g What want-2p to you who buy-3s
+\l Who do you want to buy you what?
+
+\t Ko je sto (*je) kome (*je) dao
+\m Ko je sto (*je) kome (*je) dao
+\g Who has what      to whom  given
+\l Who gave what to whom?
+
+\t a . (Ja)       smatram ga                budalom          /     budala
+\m a . (Ja)       smatram ga                budalom          /     budala
+\g       I-Nom consider him-Acc a fool-Instr                       a fool-Acc
+\l I consider him a fool.
+
+\t Ja mu ga dajem svaki dan.
+\m Ja mu ga dajem svaki dan.
+\g I him it I-give every day
+\l I give it to him every day.
+
+\t Ja mu ga dajem svaki dan.
+\m Ja mu ga dajem svaki dan.
+\g I him it I-give every day
+\l I give it to him every day.
+
+\t Pisao sam pismo.
+\m Pisao sam pismo.
+\g written am letter
+\l I wrote a letter.
+
+\t Taj mi je pesnik napisao knjigu.
+\m Taj mi je pesnik napisao knjigu.
+\g that to-me is poet written book
+\l That poet wrote me a book.
+
+\t Pisao sam pismo
+\m Pisao sam pismo
+\g written am letter.
+\l I wrote a letter.
+
+\t Devojke su ...itale ovu knjigu.
+\m Devojke su ...itale ovu knjigu.
+\g girls are read this book
+\l The girls were reading this book.
+
+\t Ju...e ste ...itali knjigu.
+\m Ju...e ste ...itali knjigu.
+\g yesterday are read book
+\l Yesterday you read a book.
+
+\t Ovu knjigu smo ve ...itali.
+\m Ovu knjigu smo ve ...itali.
+\g this book are already read
+\l We have already read this book.
+
+\t Ja mu ga ñelim dati.
+\m Ja mu ga ñelim dati.
+\g I to-him it want give
+\l I want to give it to him.
+
+\t Dolazite li ...esto ovamo?
+\m Dolazite li ...esto ovamo?
+\g you-come Question often here
+\l Do you come here often?
+
+\t SC    a.     Ja, tvoja mama, [V'/INTP obeala sam ti       igra...ku].
+\m SC    a.     Ja, tvoja mama, [V'/INTP obeala sam ti       igra...ku].
+\g              I your mom           promised be1SG youDAT toy
+\l I, your mom, promised you a toy
+
+\t Peter se smatra [AP pametnim]
+\m Peter se smatra [AP pametnim]
+\g Peter se considers intelligent-inst.
+\l Peter considers himself intelligent
+
+\t Ko t o s       kome             je      dao?
+\m Ko t o s       kome             je      dao?
+\g    who what to-whom               has     given
+\l Who gave what to whom?
+
+\t Ko      koga vidi
+\m Ko      koga vidi
+\g "Who sees whom?"
+\l Who sees whom?
+
+\t Koga k o       vidi
+\m Koga k o       vidi
+\g whom who sees
+\l Who sees whom?
+
+\t a       Petko      se                         umiva.
+\m a       Petko      se                         umiva.
+\g         Petko      Impers.Acc.Cl              wash.3Sg
+\l Petko     is washing himself.
+
+\t b2      Petko       ga                  umiva.
+\m b2      Petko       ga                  umiva.
+\g         Petko      1Sg.Acc.Cl           shave.3Sg
+\l Petko     is shaving me   .
+
+\t Ko s&ta gdje kupuje?
+\m Ko s&ta gdje kupuje?
+\g who what where buys
+\l Who buys what where?
+
+\t Ko s&ta gdje kupuje?
+\m Ko s&ta gdje kupuje?
+\g who what where buys
+\l Who buys what where?
+
+\t Nemu´                smo                 mu                 kazali.
+\m Nemu´                smo                 mu                 kazali.
+\g    him-DAT            be-AUX-1PL          him-DAT            told-PAST
+\l It was him that we told.
+
+\t Milica ide u kino da gleda lm.
+\m Milica ide u kino da gleda lm.
+\g Milica go3SG to cinema to see3SG lm
+\l Milica goes to the cinema to see a lm.
+
+\t Milica i Ahmet idu u kino da gledaju lm.
+\m Milica i Ahmet idu u kino da gledaju lm.
+\g Milica and Achmet go3PL to cinema to see3PL lm
+\l Milica and Achmet go to the cinema to see a lm.
+
+\t na srpskom jeziku
+\m na srpskom jeziku
+\g on Serbian language
+\l in Serbian
+
+\t Videli    su [coveka,      koji    je   ukrao       kompjuter]
+\m Videli    su [coveka,      koji    je   ukrao       kompjuter]
+\g saw       aux man-acc      who aux stole            computer-acc
+\l They    saw the man who stole the computer.
+
+\t Ko      koga vidi        (same as (1b))
+\m Ko      koga vidi        (same as (1b))
+\g "Who sees whom?"
+\l Who sees whom?
+
+\t Koga k o       vidi
+\m Koga k o       vidi
+\g whom who sees
+\l Who sees whom?
+
+\t b ?Milan ga ñeli da vidi
+\m b ?Milan ga ñeli da vidi
+\g    M.him want-3sg particle see-3sg
+\l M. wishes to see him
+
+\t (i)a Voggyu ku lu kkattu             b *Lu voggyu ku kkattu          
+\m (i)a Voggyu ku lu kkattu             b *Lu voggyu ku kkattu          
+\g      want-1sg particle it buy-1sg        It want-1sg particle buy-1sg
+\l I want to buy it
+
+\t John je ofarbao kucu u crveno.
+\m John je ofarbao kucu u crveno.
+\g John is painted house in red
+\l John painted the house in (the color) red.
+
+\t Kupio mi je zeleno auto.
+\m Kupio mi je zeleno auto.
+\g bought me.DAT AUX.SG green car
+\l He bought me a green car.
+
+\t Ja, tvoja mama,          sam ti igra ku.
+\m Ja, tvoja mama,          sam ti igra ku.
+\g I, your mother, promised AUX you a toy
+\l I, your mother, promised you a toy.
+
+\t I ti go dade Vera v era
+\m I ti go dade Vera v era
+\g and you.DAT it.ACC gave Vera yesterday
+\l And Vera gave it to you yesderday.
+
+\t oni               su         dosli
+\m on-i               su         dosl-i
+\g    3-MASC.PL be.3.PL came-MASC.PL
+\l They came.
+
+\t Ko kogo vidi?
+\m Ko kogo vidi?
+\g who whom saw
+\l Who saw whom?
+
+\t Kogo ko     vidi?
+\m Kogo ko     vidi?
+\g whom who saw
+\l Who saw whom?
+
+\t Ko mu je ta   s      dao
+\m Ko mu je ta   s      dao
+\g who him is what given
+\l Who gave him what?
+
+\t Ko kome        sta   kupi?
+\m Ko kome        sta   kupi?
+\g who to whom what buys
+\l Who buys what to whom?
+
+\t Ko koga voli?
+\m Ko koga voli?
+\g who whom loves
+\l Who loves whom?
+
+\t [Ko koga voli], taj        o     njemu i      govori.
+\m [Ko koga voli], taj        o     njemu i      govori.
+\g  who whom loves that-one about him even talks
+\l Everyone talks about the person they love.
+
+\t Ko koga kazes da je istukao?
+\m Ko koga kazes da je istukao?
+\g  who whom say that is beaten
+\l Who do you say beat whom?
+
+\t (?)Ima ko sta da ti proda.
+\m (?)Ima ko sta da ti proda.
+\g    has who what PART you sells
+\l There is someone who can sell you something.
+
+\t Ko li koga voli?
+\m Ko li koga voli?
+\g  who C whom loves
+\l Who on earth loves whom?
+
+\t Ko sta kupuje?
+\m Ko sta kupuje?
+\g who what buys
+\l Who buys what?
+
+\t JOVANA savjetuje.
+\m JOVANA savjetuje.
+\g Jovan.ACC advises
+\l (S)he advises Jovan.
+
+\t Ko je sta kupio?
+\m Ko je sta kupio?
+\g who is what bought
+\l Who bought what?
+
+\t Ko je kupio koju knjigu?
+\m Ko je kupio koju knjigu?
+\g who is bought which book
+\l Who bought which book?
+
+\t On je kupio koju knjigu?
+\m On je kupio koju knjigu?
+\g   he is bought which book
+\l He bought which book?
+
+\t Tom coveku, ko je sta poklonio?
+\m Tom coveku, ko je sta poklonio?
+\g that man.DAT who is what bestowed
+\l On that man, who bestowed what?
+
+\t Ona je poljubila KOGA?
+\m Ona je poljubila KOGA?
+\g   she is kissed who
+\l She kissed WHO?
+
+\t Sta neprestano sta uslovljava?
+\m Sta neprestano sta uslovljava?
+\g what constantly what conditions
+\l What constantly conditions what?
+
+\t Oni su je/*ju zaboravili.
+\m Oni su je/*ju zaboravili.
+\g they are her forgotten
+\l They forgot her.
+
+\t On ju/*je je zaboravio.
+\m On ju/*je je zaboravio.
+\g he her is forgotten
+\l He forgot her.
+
+\t Ima kome kako da pomogne.
+\m Ima kome kako da pomogne.
+\g  has whom how PART helps
+\l S(he) has someone to help somehow.
+
+\t Ima ko kako kome da pomogne.
+\m Ima ko kako kome da pomogne.
+\g  has who how whom PART helps
+\l There is someone who can somehow help somebody.
+
+\t Ko, po           tebi, koga tuce?
+\m Ko, po           tebi, koga tuce?
+\g   who according you whom beats
+\l Who, according to you, is beating whom?
+
+\t Ko, po          tebi, koga vjeruju da tuce?
+\m Ko, po          tebi, koga vjeruju da tuce?
+\g   who according you whom believe that beat
+\l Who, according to you, do they believe is beating whom?
+
+\t Tom covjeku, ko, po            tebi, sta poklanja?
+\m Tom covjeku, ko, po            tebi, sta poklanja?
+\g   that man.DAT who according you what bestows
+\l On that man, who, according to you, bestows what?
+
+\t Ima ko, po            tebi, sta da mu proda.
+\m Ima ko, po            tebi, sta da mu proda.
+\g   has who according you what PART him sells
+\l There is someone who, according to you, can sell him something.
+
+\t Nisam       citao ni           jedan casopis
+\m Nisam       citao ni           jedan casopis
+\g neg-aux read not even [one journal]-acc
+\l I didn't read even one journal.
+
+\t Nisam  itaocni                jednog     casopisa
+\m Nisam  itaocni                jednog     casopisa
+\g neg-aux read not even [one                journal]-gen
+\l I didn't read even one journal.
+
+\t kupio       sam pet        knjiga
+\m kupio       sam pet        knjiga
+\g bought      aux     5      books-gen
+\l I bought 5 books
+
+\t sa      pet     knjiga /*knjigama
+\m sa      pet     knjiga /*knjigama
+\g with 5          books-gen / *instr
+\l with five books
+
+\t Hoc es      li                doci
+\m Hoc es      li                doci
+\g aux:2sg     Q                 come?
+\l Will you come?
+
+\t Jeste          li        joj             se             predstavili     u      sali
+\m Jeste          li        joj             se             predstavili     u      sali
+\g aux:2pl        Q         3sgf.dat        reflex.acc     introduce       in     hall
+\l Did you introduce yourselves to her in the hall?
+
+\t Da             li        mi              ih             je             dao     Jovan
+\m Da             li        mi              ih             je             dao     Jovan
+\g comp           Q         1sg.dat         3pl.acc        aux:3sg        give    Jovan
+\l Did Jovan give them to me?
+
+\t [Taj       pesnik]             mi             je        napisao       knjigu
+\m [Taj       pesnik]             mi             je        napisao       knjigu
+\g that       poet                1sg.dat        aux:3sg   wrote         book
+\l That poet wrote me a book?
+
+\t Niko ne p ozna je Mariju
+\m Niko ne p ozna je Mariju
+\g no one not knows Mary-ACC
+\l No one knows Mary
+
+\t a . (Ja)      smatram ga                budalom         /      budala
+\m a . (Ja)      smatram ga                budalom         /      budala
+\g      I-Nom consider him-Acc a fool-Instr                       a fool-Acc
+\l I consider him a fool.
+
+\t Nisam  itao ni                                         *jednog casopisa
+\m Nisam  itao ni                                         *jednog casopisa
+\g   neg-aux read not even [one journal]-acc                one journal]-gen
+\l I didn't read even one journal.
+
+\t a .     Kupio        sam knjigu
+\m a .     Kupio        sam knjigu
+\g         bought       aux     book-acc
+\l I bought a book.
+
+\t Kupio            sam pet       knjiga
+\m Kupio            sam pet       knjiga
+\g     bought       aux     5     books-gen
+\l I bought 5 books
+
+\t Bojim se              knjiga
+\m Bojim se              knjiga
+\g      fear     SE      books-gen
+\l I am scared of books.
+
+\t Bojim se             pet       knjiga
+\m Bojim se             pet       knjiga
+\g     fear     SE      5         books-gen
+\l I fear five books
+
+\t a .      Jovan je       pomagao Dijani
+\m a .      Jovan je       pomagao Dijani
+\g          Jovan aux      helped        Dijana-dat
+\l Jovan helped Dijana
+
+\t Jovan         je        pomagao pet         ljudi / ljudima
+\m Jovan         je        pomagao pet         ljudi / ljudima
+\g  Jovan         aux       helped     5        people-gen / dat
+\l Jovan helped five people.
+
+\t Cijegi si vidio [ti oca]?
+\m Cijegi si vidio [ti oca]?
+\g  whose are seen        father
+\l Whose father did you see?
+
+\t Kakvai         si kupio [ti kola]?
+\m Kakvai         si kupio [ti kola]?
+\g what-kind-of are bought        car
+\l What kind of a car did you buy?
+
+\t Tai je vidio [ti kola].
+\m Tai je vidio [ti kola].
+\g that is seen      car
+\l That car, he saw.
+
+\t Lijepei je vidio [ti kuce].
+\m Lijepei je vidio [ti kuce].
+\g beautiful is seen       houses
+\l Beautiful houses, he saw.
+
+\t Kolikoi     je zaradila [ti novca]?
+\m Kolikoi     je zaradila [ti novca]?
+\g how-much is earned           money
+\l How much money did she earn?
+
+\t Petar         je sreo [djevojke iz      ovog grada].
+\m Petar         je sreo [djevojke iz      ovog grada].
+\g Petar         is met girls      from this city
+\l Peter        met girls from this city.
+
+\t Crveno je on               kupio auto prije tri      dana.
+\m Crveno je on               kupio auto prije tri      dana.
+\g red     is he              bought car before three days
+\l He bought a              red car three days ago.
+
+\t Kucei je on vidio lijepe ti.
+\m Kucei je on vidio lijepe ti.
+\g   houses is he seen beautiful
+\l He saw beautiful houses.
+
+\t Visoke je on vidio djevojke.
+\m Visoke je on vidio djevojke.
+\g tall     is he seen girls
+\l Tall girls, he saw.
+
+\t Lijepe    je on vidio djevojke.
+\m Lijepe    je on vidio djevojke.
+\g beautiful is he seen girls
+\l Beautiful girls, he saw.
+
+\t Simpaticnye emu         nravjatsja vysokie studenty.
+\m Simpaticnye emu         nravjatsja vysokie studenty.
+\g  good-looking he-dat likes          tall    students
+\l He likes good-looking tall students.
+
+\t Visoke lijepe     on gleda      djevojke.
+\m Visoke lijepe     on gleda      djevojke.
+\g  tall    beautiful he watches girls
+\l He is watching tall beautiful girls.
+
+\t Bogatii skupaj      [ti sportisti] vole [tj kola].
+\m Bogatii skupaj      [ti sportisti] vole [tj kola].
+\g  rich    expensive       athletes love       cars
+\l Rich athletes love expensive cars.
+
+\t Pravi on/*njega         se   nikad nece pojaviti.
+\m Pravi on/*njega         se   nikad nece pojaviti.
+\g real he.nom/him.acc refl never neg+will show-up
+\l The real him will never show-up.
+
+\t Vidjeli smo pravog njega/*on.
+\m Vidjeli smo pravog njega/*on.
+\g seen are real        him.acc/he.nom
+\l We saw the real him.
+
+\t Znao sam pametnijeg psa od Fida.
+\m Znao sam pametnijeg psa od Fida.
+\g known am smarter       dog than Fido
+\l I've known a dog smarter than Fido.
+
+\t Lijepe    je on vidio visoke djevojke.
+\m Lijepe    je on vidio visoke djevojke.
+\g  beautiful is he seen tall      girls
+\l He saw beautiful tall girls.
+
+\t Koje je Petar novo auto upropastio?
+\m Koje je Petar novo auto upropastio?
+\g which is Petar new car ruined
+\l Which new car did Peter ruin?
+
+\t U veliku on ude          sobu.
+\m U veliku on ude          sobu.
+\g    in big    he entered room
+\l He entered the big room.
+
+\t Zbog       cijih je dosao studenata?
+\m Zbog       cijih je dosao studenata?
+\g because-of whose is arrived students
+\l He arrived because of whose students?
+
+\t Cimei        je on pobegao [zbog              [pretnje ti]]?
+\m Cimei        je on pobegao [zbog              [pretnje ti]]?
+\g  what.instr is he run-away because-of threat
+\l He ran away because of the threat of what?
+
+\t Cimei        ga je [pretnja ti] uplasila?
+\m Cimei        ga je [pretnja ti] uplasila?
+\g what.instr him is threat          scared
+\l The threat of what scared him?
+
+\t Prema velikoj je Jovan trcao kuci.
+\m Prema velikoj je Jovan trcao kuci.
+\g   toward big     is Jovan run house
+\l Jovan ran toward the big house.
+
+\t U lijepu       veliku on ude         sobu.
+\m U lijepu       veliku on ude         sobu.
+\g   in beautiful big       he entered room
+\l He entered the beautiful big room.
+
+\t O     kakvimi       je Jovan procitao clanak [ti studentima]?
+\m O     kakvimi       je Jovan procitao clanak [ti studentima]?
+\g  about what-kind-of is Jovan read         article  students
+\l About what kind of students did Jovan read an article?
+
+\t Cimei        je on pobegao [PP zbog           velike [pretnje ti]]?
+\m Cimei        je on pobegao [PP zbog           velike [pretnje ti]]?
+\g   what.instr is he run-away         because-of big      threat
+\l He ran away because of the big threat of what?
+
+\t Cicinu               je on Tominu                         kolibu             srusio.
+\m Cicinu               je on Tominu                         kolibu             srusio.
+\g uncle's.fem.acc.sg.is he Tom's.fem.acc.sg.                cabin.fem.acc.sg.torn-down
+\l He tore down uncle Tom's cabin.
+
+\t (2 4 )   a.      Knjige im      citajte!
+\m (2 4 )   a.      Knjige im      citajte!
+\g                  books to-them read-2pl.Imp
+\l Read books to them!
+
+\t I   van insistira da je citaj.
+\m I   van insistira da je citaj.
+\g  I   van insists that it read-2sg.Imp
+\l    Ivan insists that you read it.
+
+\t SC Ne c itaj        ga!
+\m SC Ne c itaj        ga!
+\g    not read-2Sg-Imp it-Acc-Cl
+\l Don't read it!
+
+\t Cita jte    je!
+\m Cita jte    je!
+\g read.IMP.2p it
+\l Read it!
+
+\t Deset Ïena               je           kupilo           ovu haljinu.
+\m Deset Ïena               je           kupilo           ovu haljinu.
+\g ten   women        GEN   aux   3.SG   bought   N.SG    this dress
+\l Ten women bought this dress.
+
+\t Bojao sam      se   pet             ljudi.
+\m Bojao sam      se   pet             ljudi.
+\g feared aux1.SG REFL five            people     GEN
+\l I feared five people.
+
+\t âuvao   sam     se   pet ljudi.
+\m âuvao   sam     se   pet ljudi.
+\g guarded aux1.SG REFL five people               GEN
+\l I guarded myself against five people.
+
+\t Domogao       sam     se   pet knjiga.
+\m Domogao       sam     se   pet knjiga.
+\g obtained      aux1.SG REFL five booksGEN
+\l I obtained five books.
+
+\t /??Jovan          je           pomagao        pet ljudi.
+\m /??Jovan          je           pomagao        pet ljudi.
+\g     Jovan          aux   3.SG   helped         five people   GEN
+\l /??`Jovan   helped five people.
+
+\t Predsjednik              vlada zemljom.
+\m Predsjednik              vlada zemljom.
+\g president                rules countryINST
+\l The president rules the country.
+
+\t Jovan je               rukovodio         jednom     fabrikom.
+\m Jovan je               rukovodio         jednom     fabrikom.
+\g Jovan aux       3.SG   managed           oneINST    factoryINST
+\l Jovan managed one factory.
+
+\t Predsjednik vlada sa   pet zemalja.
+\m Predsjednik vlada sa   pet zemalja.
+\g president   rules with five countries                   GEN
+\l The president rules five countries.
+
+\t Jovan je             rukovodio    sa   pet fabrika.
+\m Jovan je             rukovodio    sa   pet fabrika.
+\g Jovan aux    3.SG    managed      with five factoriesGEN
+\l Jovan managed five factories.
+
+\t Jovan je                  hodao     ulicom.
+\m Jovan je                  hodao     ulicom.
+\g Jovan aux         3.SG    walked    streetINST
+\l Jovan walked on the street.
+
+\t Jovan je              hodao pet ulica.
+\m Jovan je              hodao pet ulica.
+\g Jovan aux      3.SG   walked five streetsGEN
+\l Jovan walked on five streets.
+
+\t vlasnik       pet     malih             kuça
+\m vlasnik       pet     malih             kuça
+\g owner         five    small.gen         houses.gen
+\l the owner of five small houses
+
+\t /Jovan je                trãao      prema   pet ljudi.
+\m /Jovan je                trãao      prema   pet ljudi.
+\g   Jovan aux        3.SG   ran        towards five people        GEN
+\l Jovan ran towards five people.
+
+\t Doli    smo     (sa) kolima.
+\m Doli    smo     (sa) kolima.
+\g arrived aux1.PL with carINST
+\l We came by car.
+
+\t Doli         smo     *(sa) pet kola.
+\m Doli         smo     *(sa) pet kola.
+\g arrived      aux1.PL with five carsGEN
+\l We came by five cars.
+
+\t Ja sam        ga           se                 bojao.
+\m Ja sam        ga           se                 bojao.
+\g I A U X-1 S G him/it-G E N refl-ACC   feared
+\l I was afraid of him/it.
+
+\t Covek voleo je                     Mariju.
+\m Covek voleo je                     Mariju.
+\g man-N O M loved A U X-3      SG   Maria-A   CC
+\l The man loved Maria.
+
+\t [Ove godine] # [taj pesnik] mi      je                                napisao knijigu.
+\m [Ove godine] # [taj pesnik] mi      je                                napisao knijigu.
+\g this year      that poet me-D AT A U X-3                       SG   wrote book
+\l That poet wrote me a book this year.
+
+\t Tog Milena voli covjeka.
+\m Tog Milena voli covjeka.
+\g that Milena loves man
+\l Milena loves that man.
+
+\t Zasto/Sta si     ustao tako rano?
+\m Zasto/Sta si     ustao tako rano?
+\g why/WHAT have get up so early
+\l Why did you get up so early?
+
+\t Ko    se      zasto pokunjio?
+\m Ko    se      zasto pokunjio?
+\g who self why get-depressed
+\l *Who is depressed why?
+
+\t Ko    se      sta     pokunjio?
+\m Ko    se      sta     pokunjio?
+\g     who self WHAT get-depressed
+\l *Who is depressed why?
+
+\t oni               su         dosli
+\m on-i               su         dosl-i
+\g    3-MASC.PL be.3.PL came-MASC.PL
+\l They came.
+
+\t a . Znanje                   i intuicija    su           kod njega
+\m a . Znanje                   i intuicija    su           kod njega
+\g           worked.mpl and supplement.mpl refl
+\l Knowledege and intuition have worked together and supplemented each other in him ...
+
+\t sa         pet djevojaka
+\m sa         pet djevojaka
+\g   with five girls.gen
+\l with five girls
+
+\t a . Da       li      ste         mi           ih              danas    kupili?
+\m a . Da       li      ste         mi           ih              danas    kupili?
+\g     C        Q       aux.2pl     me.dat       them.acc        today    bought
+\l Did you buy me them today?
+
+\t Ja#, #tvoja           mama#,        #obeçala     sam           ti            igraãku#.
+\m Ja#, #tvoja           mama#,        #obeçala     sam           ti            igraãku#.
+\g      I       your      mother        promised      aux.1sg       you.dat      toy
+\l I, your mother, promised you a toy.
+
+\t K o          ta           Ïelite      [da     vam               kupi]?
+\m K o          ta           Ïelite      [da     vam               kupi]?
+\g  who         what         want.2pl    that    you               buys
+\l Who do you want to buy you what?
+
+\t Ko           je           prvi koga           udario?
+\m Ko           je           prvi koga           udario?
+\g  who         aux.3sg      first whom hit
+\l Who hit whom first?
+
+\t a . Ko          li           ta             kupuje?
+\m a . Ko          li           ta             kupuje?
+\g      who        Q            what buys
+\l Who on earth buys what?
+
+\t K o          ta           kupuje?
+\m K o          ta           kupuje?
+\g   who        what         buys
+\l Who buys what?
+
+\t Zelenu haljinu mi      je      kupila.
+\m Zelenu haljinu mi      je      kupila.
+\g green dress    me.dat aux.sg bought
+\l She bought me a green dress.
+
+\t Anina mu        drugarica nudi cokoladu.
+\m Anina mu        drugarica nudi cokoladu.
+\g Ana's him.dat girlfriend offers chocolate
+\l Ana's girlfriend offers him chocolate.
+
+\t Zanimljivu sam        knjigu citao.
+\m Zanimljivu sam        knjigu citao.
+\g interesting aux.1sg book read
+\l I read an interesting book.
+
+\t Anina dolazi sestra.
+\m Anina dolazi sestra.
+\g Ana's arriving sister
+\l Ana's sister is coming.
+
+\t Kakvu      citas    knjigu?
+\m Kakvu      citas    knjigu?
+\g what-kind read.2sg book
+\l What kind of book are you reading?
+
+\t Prema Mariji        je      Milena trcala.
+\m Prema Mariji        je      Milena trcala.
+\g towards Maria.dat aux.3sg Milena ran
+\l Milena ran towards Maria.
+
+\t Prema trci ona Mariji.
+\m Prema trci ona Mariji.
+\g towards runs she Maria.dat
+\l She is running towards Maria.
+
+\t Kome je        Milena trcala prema?
+\m Kome je        Milena trcala prema?
+\g who.dat aux.3sg Milena ran towards
+\l Who did Milena run towards?
+
+\t PREMA je       Milanu     Marija koracala, a   ne od njega.
+\m PREMA je       Milanu     Marija koracala, a   ne od njega.
+\g towards aux.3sg Milanu.dat Maria walked and not from him
+\l Mary walked TOWARDS Milan, not away from him.
+
+\t Roditelji su        se uspesnih            studenata razisli.
+\m Roditelji su        se uspesnih            studenata razisli.
+\g   parents aux.3pl refl successful.gen students.gen dispersed
+\l *The parents dispersed of the successful students.
+
+\t Roditelji dolaze       uspesnih        studenata.
+\m Roditelji dolaze       uspesnih        studenata.
+\g parents    arrive.3pl successful.gen students.gen
+\l *The parents are arriving of the successful students.
+
+\t Dala li si          mu     go?
+\m Dala li si          mu     go?
+\g given Q aux.2g him.dat it.acc
+\l Have you given it to him?
+
+\t Kupujes li novu kuu?
+\m Kupujes li novu kuu?
+\g buy.2sg Q new house
+\l Are you buying a new house?
+
+\t Da li si        kupio novu kuu?
+\m Da li si        kupio novu kuu?
+\g C Q aux.2sg bought new house
+\l Did you buy a new house?
+
+\t Sestra     e      i   njen      muz          doi u utorak.
+\m Sestra     e      i   njen      muz          doi u utorak.
+\g sestra.nom fut.3pl and her.nom husband.nom come on Tuesday
+\l My sister and her husband will come on Tuesday.
+
+\t Lav      je        Tolstoj      veliki ruski pisac.
+\m Lav      je        Tolstoj      veliki ruski pisac.
+\g Leo.nom aux.3sg Tolstoi.nom great Russian writer
+\l Leo Tolstoi is a great Russian writer.
+
+\t Prijatelji su      moje sestre         upravo stigli.
+\m Prijatelji su      moje sestre         upravo stigli.
+\g friends      aux.3pl my.gen sister.gen just     arrived
+\l Friends of my sister's have just arrived.
+
+\t Sestra    e       mi     ga      i  njen       muz      pokloniti.
+\m Sestra    e       mi     ga      i  njen       muz      pokloniti.
+\g sestra.nom fut.3pl me.dat it.acc and her.nom husband.nom give
+\l My sister and her husband will give it to me.
+
+\t Lav     mi     ga      je    Tolstoj     poklonio.
+\m Lav     mi     ga      je    Tolstoj     poklonio.
+\g Leo.nom me.dat it.acc aux.3sg Tolstoi.nom gave
+\l Leo Tolstoi gave it to me.
+
+\t Prijatelji su       mi     ga moje        sestre     poklonili.
+\m Prijatelji su       mi     ga moje        sestre     poklonili.
+\g friends     aux.3pl me.dat it.acc my.gen sister.gen gave
+\l Friends of my sister's gave it to me.
+
+\t SC a.       Ja, tvoja mama, obeala sam ti           igra...ku.
+\m SC a.       Ja, tvoja mama, obeala sam ti           igra...ku.
+\g             I your mom        promised be-1 you-dat toy
+\l I, your mom, promised you a toy
+
+\t SC a.       Ona moja sestra koja je u Sarajevu vas se sjea.
+\m SC a.       Ona moja sestra koja je u Sarajevu vas se sjea.
+\g              that my sister who is in Sarajevo you refl remmbers.
+\l My sister who is in Sarajevo remembers you
+
+\t Ko zelite [da vam sta kupi _ ]?
+\m Ko zelite [da vam sta kupi _ ]?
+\g who want-2.PL.to you what buy-3.SG.
+\l Who do you want to buy you what?
+
+\t Sta zelite [da vam ko kupi __ ]?
+\m Sta zelite [da vam ko kupi __ ]?
+\g what want-2.PL.to you who buy-3.SG.
+\l What do you want who to buy you?
+
+\t (34)   a. * Sta si me pitao ko moze da udari?
+\m (34)   a. * Sta si me pitao ko moze da udari?
+\g what have-2.SG.me asked who can to do
+\l What did you ask me who can do?
+
+\t ... osoba, koja sam ti rekao gde (on) zivi
+\m ... osoba, koja sam ti rekao gde (on) zivi
+\g            individual who have-1.SG.you told where (he) lives
+\l ... the individual who I told you where (he) lives
+
+\t Ko koga vidi?
+\m Ko koga vidi?
+\g who whom sees
+\l Who sees whom?
+
+\t Ko je sto kome dao?
+\m Ko je sto kome dao?
+\g who has what to whom given
+\l Who gave what to whom?
+
+\t Kome Jovan koga mudro predstavlja?
+\m Kome Jovan koga mudro predstavlja?
+\g to-whom Jovan whom wisely introduces
+\l Who is Jovan introducing to whom in wise manner?
+
+\t Ko si koga tvrdio da je istukao?
+\m Ko si koga tvrdio da je istukao?
+\g who are whom claimed that is beaten
+\l Who did you claim beat whom?
+
+\t Ko tvrdis da koga voli?
+\m Ko tvrdis da koga voli?
+\g who claim that whom loves
+\l Who do you claim what loves who?
+
+\t Ko    si    koga tvrdio       da   je istukao?
+\m Ko    si    koga tvrdio       da   je istukao?
+\g who   are   whom claimed that is beaten
+\l Who did you claim beat whom?
+
+\t Jovan i Marko      ne znaju        ko     je     koga istukao.
+\m Jovan i Marko      ne znaju        ko     je     koga istukao.
+\g Jovan and Marko not know           who    is     whom beaten
+\l Ivan and Marko do not know who beat whom.
+
+\t Ko li je koga istukao?
+\m Ko li je koga istukao?
+\g who C is whom beaten
+\l Who on earth beat whom?
+
+\t Ko je kupio koju knigu?
+\m Ko je kupio koju knigu?
+\g who is bought which book
+\l Who bought which book?
+
+\t Sta uslovljava sta?
+\m Sta uslovljava sta?
+\g what conditions what
+\l ,What conditions what?`
+
+\t Ko je koga vidio?
+\m Ko je koga vidio?
+\g who is whom seen
+\l Who saw whom?
+
+\t Ko si koga tvrdio da je istukao?
+\m Ko si koga tvrdio da je istukao?
+\g who are whom claimed that is beaten
+\l Who did you claim beat whom?
+
+\t Jovan i Marko ne znaju ko je koga istukao.
+\m Jovan i Marko ne znaju ko je koga istukao.
+\g Jovan and Marko not know who is whom beaten
+\l Ivan and Marko do not know who beat whom.
+
+\t Znate   ko je koga istukao.
+\m Znate   ko je koga istukao.
+\g know    who is whom beaten
+\l ,You    know who beat whom.`
+
+\t Oni JOVANA savjetuju.
+\m Oni JOVANA savjetuju.
+\g they Jovan advise
+\l They advise Ivan. (It is Ivan who they advise.)
+
+\t Ko mudro koga savjetuje?
+\m Ko mudro koga savjetuje?
+\g who wisely whom advises
+\l ?? Who is it wise of to advise whom?
+
+\t Njegovi susjedi ne vjeruju nijednom politicarui.
+\m Njegovi susjedi ne vjeruju nijednom politicarui.
+\g      his neighbors not trust no politician
+\l His neighbors trust no politician.
+
+\t Ko zelite [da vam sta kupi _ ]?
+\m Ko zelite [da vam sta kupi _ ]?
+\g    who whant-2p to you what buy-3s
+\l Who do you want to buy you what?
+
+\t Sta zelite [da vam ko kupi __ ]?
+\m Sta zelite [da vam ko kupi __ ]?
+\g  what want-2p to you who buy-3s
+\l What do you want who to buy you?
+
+\t Sta si me pitao ko moze da udari?
+\m Sta si me pitao ko moze da udari?
+\g    what have-,,s me asked who can to do
+\l What did you ask me who can do?
+
+\t osoba, koja sam ti rekao gde (on) zivi
+\m osoba, koja sam ti rekao gde (on) zivi
+\g  individual who have-1s you told where (he) lives
+\l ... the individual who I told you where (he) lives
+
+\t Ko koga vidi?
+\m Ko koga vidi?
+\g    who whom sees
+\l Who sees whom?
+
+\t Ko je sto kome dao?
+\m Ko je sto kome dao?
+\g    who has what to whom given
+\l Who gave what to whom?
+
+\t Kome Jovan koga mudro predstavlja?
+\m Kome Jovan koga mudro predstavlja?
+\g   to-whom Jovan whom wisely introduces
+\l Who is Jovan introducing to whom in wise manner?
+
+\t Ko         si koga tvrdio da je istukao?
+\m Ko         si koga tvrdio da je istukao?
+\g    who are        whom       claimed that is beaten
+\l Who did you claim beat whom?
+
+\t Ko         si koga tvrdio da je istukao?
+\m Ko         si koga tvrdio da je istukao?
+\g    who are        whom       claimed that is beaten
+\l Who did you claim beat whom?
+
+\t Jovan i Marko            ne znaju           ko   je koga istukao.
+\m Jovan i Marko            ne znaju           ko   je koga istukao.
+\g    Jovan and Marko not know who is whom beaten
+\l Ivan and Marko do not know who beat whom.
+
+\t Ko je kupio koju knigu?
+\m Ko je kupio koju knigu?
+\g  who is bought which book
+\l Who bought which book?
+
+\t Ko je koga vidio?
+\m Ko je koga vidio?
+\g  who is whom seen
+\l Who saw whom?
+
+\t Ko      si koga tvrdio da je istukao?
+\m Ko      si koga tvrdio da je istukao?
+\g  who are        whom       claimed that is beaten
+\l Who did you claim beat whom?
+
+\t Jovan i Marko          ne znaju         ko     je koga istukao.
+\m Jovan i Marko          ne znaju         ko     je koga istukao.
+\g  Jovan and Marko not know who is whom beaten
+\l Ivan and Marko do not know who beat whom.
+
+\t sve    ove     Jovanove       stare     slike      njegove     porodice
+\m sve    ove     Jovanove       stare     slike      njegove     porodice
+\g all    these   John's         old       pictures   his GEN     familyGEN
+\l all of these old pictures of John's of his family
+
+\t I   samu            Mariju      to   nervira.
+\m I   samu            Mariju      to   nervira.
+\g and even            Mary        that irritates
+\l That irritates even Mary.
+
+\t I      nju samu t to       nervira.
+\m I      nju samu t to       nervira.
+\g and her even t that irritates
+\l That irritates even her.
+
+\t  Bez niceg
+\m  Bez niceg
+\g Without n-thing
+\l Without anything
+
+\t a. Ko koga voli?
+\m a. Ko koga voli?
+\g  who whom loves
+\l Who loves whom?
+
+\t a. [Ko koga voli], taj                                    o      njemu i       govori.
+\m a. [Ko koga voli], taj                                    o      njemu i       govori.
+\g   who whom loves that-one about him                                       even talks
+\l Everyone talks about the person they love.
+
+\t  Ko koga ka e da                                    je istukao?
+\m  Ko koga ka e da                                    je istukao?
+\g who whom say                                     that is beaten
+\l Who do you say beat whom?
+
+\t (?)Ima ko          ta                   da        ti proda.
+\m (?)Ima ko          ta                   da        ti proda.
+\g   has who what part.you sells
+\l There is someone who can sell you something.
+
+\t a. Ko li koga voli?
+\m a. Ko li koga voli?
+\g  who C whom loves
+\l Who on earth loves whom?
+
+\t  Ko          ta kupuje?
+\m  Ko          ta kupuje?
+\g who what buys
+\l Who buys what?
+
+\t  JOVANA savjetuje.
+\m  JOVANA savjetuje.
+\g Jovan.acc advises
+\l (S)he advises Jovan.
+
+\t Ko je ta kupio?
+\m Ko je ta kupio?
+\g  who is what bought
+\l Who bought what?
+
+\t  Ko je kupio koju knjigu?
+\m  Ko je kupio koju knjigu?
+\g who is bought which book
+\l Who bought which book?
+
+\t On je kupio koju knjigu?
+\m On je kupio koju knjigu?
+\g   he is bought which book
+\l He bought which book?
+
+\t Tom oveku, ko je ta poklonio?
+\m Tom oveku, ko je ta poklonio?
+\g that man.dat who is what bestowed
+\l To that man, who bestowed what?
+
+\t a. ta neprestano ta                          uslovljava?
+\m a. ta neprestano ta                          uslovljava?
+\g  what constantly what conditions
+\l What constantly conditions what?
+
+\t Ima kome kako da pomogne.
+\m Ima kome kako da pomogne.
+\g has whom how part.helps
+\l S(he) has someone to help somehow.
+
+\t Ima ko kako kome da          pomogne.
+\m Ima ko kako kome da          pomogne.
+\g  has who how whom part.helps
+\l There is someone who can somehow help somebody.
+
+\t Oni su je/*ju zaboravili.
+\m Oni su je/*ju zaboravili.
+\g     they are her forgotten
+\l They forgot her.
+
+\t Sta uslovljava                        sta?
+\m Sta uslovljava                        sta?
+\g what condition-PRE S.3 P.SG    what
+\l What conditions what?
+
+\t Ko mu            (*... ) je                                       sta  kupio?
+\m Ko mu            (*... ) je                                       sta  kupio?
+\g who him.DAT.CL          AU X.PRE S.3 P.SG   what bought
+\l Who bought him what?
+
+\t      Ko je ta kupio?
+\m      Ko je ta kupio?
+\g who is what bought
+\l Who bought what?
+
+\t  a.    Ko            ta kupuje?
+\m  a.    Ko            ta kupuje?
+\g who what buys
+\l Who buys what?
+
+\t a.      Ko         ta gdje kupuje?
+\m a.      Ko         ta gdje kupuje?
+\g who what where buys
+\l Who buys what where?
+
+\t Ko koga voli?
+\m Ko koga voli?
+\g who whom loves
+\l Who loves whom?
+
+\t Ko koga kazes da je istukao?
+\m Ko koga kazes da je istukao?
+\g  who whom say that is beaten
+\l Who do you say beat whom?
+
+\t (?)Ima ko sta da ti proda.
+\m (?)Ima ko sta da ti proda.
+\g    has who what PART you sells
+\l There is someone who can sell you something.
+
+\t Ko li koga voli?
+\m Ko li koga voli?
+\g  who C whom loves
+\l Who on earth loves whom?
+
+\t Ko sta kupuje?
+\m Ko sta kupuje?
+\g who what buys
+\l Who buys what?
+
+\t Ko je sta kupio?
+\m Ko je sta kupio?
+\g who is what bought
+\l Who bought what?
+
+\t On je kupio koju knjigu?
+\m On je kupio koju knjigu?
+\g   he is bought which book
+\l He bought which book?
+
+\t Tom coveku, ko je sta poklonio?
+\m Tom coveku, ko je sta poklonio?
+\g that man.DAT who is what bestowed
+\l On that man, who bestowed what?
+
+\t Sta neprestano sta uslovljava?
+\m Sta neprestano sta uslovljava?
+\g what constantly what conditions
+\l What constantly conditions what?
+
+\t Oni su je/*ju zaboravili.
+\m Oni su je/*ju zaboravili.
+\g  they are her forgotten
+\l They forgot her.
+
+\t On ju/*je je zaboravio.
+\m On ju/*je je zaboravio.
+\g he her is forgotten
+\l He forgot her.
+
+\t Ima kome kako da pomogne.
+\m Ima kome kako da pomogne.
+\g  has whom how PART helps
+\l S(he) has someone to help somehow.
+
+\t Ima ko kako kome da pomogne.
+\m Ima ko kako kome da pomogne.
+\g  has who how whom PART helps
+\l There is someone who can somehow help somebody.
+
+\t Ko, po           tebi, koga tuce?
+\m Ko, po           tebi, koga tuce?
+\g   who according you whom beats
+\l Who, according to you, is beating whom?
+
+\t Ko, po          tebi, koga vjeruju da tuce?
+\m Ko, po          tebi, koga vjeruju da tuce?
+\g   who according you whom believe that beat
+\l Who, according to you, do they believe is beating whom?
+
+\t Tom covjeku, ko, po            tebi, sta poklanja?
+\m Tom covjeku, ko, po            tebi, sta poklanja?
+\g   that man.DAT who according you what bestows
+\l On that man, who, according to you, bestows what?
+
+\t Ima ko, po            tebi, sta da mu proda.
+\m Ima ko, po            tebi, sta da mu proda.
+\g   has who according you what PART him sells
+\l There is someone who, according to you, can sell him something.
+
+\t Ivan je pojeo sve gljive.
+\m Ivan je pojeo sve gljive.
+\g Ivan is eaten all mushrooms
+\l Ivan has eaten all the mushrooms.
+
+\t Sve gljive je pojeo.
+\m Sve gljive je pojeo.
+\g all mushroom is eaten
+\l He has eaten all the mushrooms.
+
+\t Pojeo je sve gljive.
+\m Pojeo je sve gljive.
+\g eaten is all mushrooms
+\l He has eaten all the mushrooms
+
+\t Bio je pojeo sve gljive.
+\m Bio je pojeo sve gljive.
+\g been is eaten all mushrooms
+\l He had eaten all the mushrooms
+
+\t Sretna je.
+\m Sretna je.
+\g happy-AGR is
+\l (she) is happy
+
+\t Pojeo sve gljive Ivan jeste.
+\m Pojeo sve gljive Ivan jeste.
+\g eaten all mushrooms Ivan is
+\l Ivan did eat all the mushrooms.
+
+\t Poljubili su Mariju.
+\m Poljubili su Mariju.
+\g  kissed are Maria
+\l They kissed Maria.
+
+\t a". Poljubili Mariju jesu.
+\m a". Poljubili Mariju jesu.
+\g     kissed Maria are
+\l They did kiss Maria
+
+\t Pojeo je.
+\m Pojeo je.
+\g eaten is
+\l He has eaten something
+
+\t Pojeo li je gljive.
+\m Pojeo li je gljive.
+\g eaten Q is mushrooms
+\l Has he eaten mushrooms?
+
+\t Pojeo nije gljive.
+\m Pojeo nije gljive.
+\g eaten not-is mushrooms
+\l He has not eaten mushrooms.
+
+\t Pojeo gljive nije.
+\m Pojeo gljive nije.
+\g eaten mushrooms not-is
+\l He did not eat mushrooms.
+
+\t Ivan je mudro prodao kuu.
+\m Ivan je mudro prodao kuu.
+\g Ivan is wisely sold house
+\l Ivan sold his house in a wise manner.
+
+\t Prodao je mudro kuu.
+\m Prodao je mudro kuu.
+\g sold is wisely house
+\l He sold his house in a wise manner.
+
+\t Pojeo je gljive IVAN.
+\m Pojeo je gljive IVAN.
+\g eaten is mushrooms Ivan
+\l It is Ivan who ate the mushrooms.
+
+\t Pojeo je bio sve gljive.
+\m Pojeo je bio sve gljive.
+\g eaten is been all mushrooms
+\l He had eaten all the mushrooms.
+
+\t Bio je pojeo sve gljive.
+\m Bio je pojeo sve gljive.
+\g been is eaten all mushrooms
+\l He had eaten all the mushrooms.
+
+\t Pojeo bjese sve gljive.
+\m Pojeo bjese sve gljive.
+\g eaten be-PAST all mushrooms
+\l He has eaten all the mushrooms.
+
+\t Pojeo Ivan bjese sve gljive.
+\m Pojeo Ivan bjese sve gljive.
+\g eaten Ivan be-PAST all mushrooms
+\l Ivan has eaten all the mushrooms.
+
+\t Mudro bjese brzo prodao kuu.
+\m Mudro bjese brzo prodao kuu.
+\g wisely be-PAST quickly sold house
+\l It was wise of him to have sold the house quickly.
+
+\t Mudro bjese brzo prodao kucu.
+\m Mudro bjese brzo prodao kucu.
+\g wisely be-past quickly sold house
+\l It was wise of him to have sold the house quickly.
+
+\t Vas dvoje ste bili cekali Marijinu prijateljicu.
+\m Vas dvoje ste bili cekali Marijinu prijateljicu.
+\g you two are been waited Marija's friend
+\l You two had been waiting for Marija's friend
+
+\t Ivan je bio brzo prodao kuu.
+\m Ivan je bio brzo prodao kuu.
+\g Ivan is been quickly sold house
+\l Ivan has quickly sold the house.
+
+\t van je bio lose popravio radio.
+\m van je bio lose popravio radio.
+\g Ivan is been badly repaired the radio
+\l Ivan has repaired the radio badly.
+
+\t Pojeo je.
+\m Pojeo je.
+\g eaten is
+\l He has eaten something.
+
+\t Ivan je pojeo gljive i popio vino.
+\m Ivan je pojeo gljive i popio vino.
+\g John is eaten mushrooms and drank wine
+\l John has eaten mushrooms and drunk wine
+
+\t Pojeo je gljive i popio vino.
+\m Pojeo je gljive i popio vino.
+\g eaten is mushrooms and drank wine
+\l He has eaten mushrooms and drunk wine
+
+\t Ivan je sigurno pojeo gljive i vjerovatno popio vino.
+\m Ivan je sigurno pojeo gljive i vjerovatno popio vino.
+\g Ivan is certainly eaten mushrooms and probably drank wine
+\l Ivan has certainly eaten mushrooms and probably drunk wine.
+
+\t Vidjeli su Ivana ONI, ali je Marka ONA.
+\m Vidjeli su Ivana ONI, ali je Marka ONA.
+\g seen are Ivan they but is Marko she
+\l THEY have seen Ivan but SHE has seen Marko.
+
+\t Ivo je progovorio          nakon duge pauze i         nastavio govoriti       2 7 7 2    2 v    .
+\m Ivo je progovorio          nakon duge pauze i         nastavio govoriti       2 7 7 2    2 v    .
+\g I.is began-to-talk after long pause and continued talk                  whole hour
+\l Ivo began to talk after the long pause, and continued for the whole hour.
+
+\t Ivo je pojeo sve sendvi e.          Nista nije ostalo!
+\m Ivo je pojeo sve sendvi e.          Nista nije ostalo!
+\g I.is eat-up all sandwiches nothing not left
+\l Ivo ate up all sandwiches. Nothing left!
+
+\t Napokon sam nagovorila Ivu da jede meso. Vise nije vegetarijanac.
+\m Napokon sam nagovorila Ivu da jede meso. Vise nije vegetarijanac.
+\g at last   am persuade I.that eat meat more not vegetarian
+\l I finally persuaded Ivo to eat meat. He's not a vegetarian any more
+
+\t Ivo je namignuo Sofiji (samo jednom).
+\m Ivo je namignuo Sofiji (samo jednom).
+\g I.is winked     S.only once
+\l Ivo winked at Sofia (only once).
+
+\t Mama vodi Ivu u skolu svaki dan.
+\m Mama vodi Ivu u skolu svaki dan.
+\g Mum takes I.to school every day
+\l Mum takes Ivo to school every day.
+
+\t Vidim da mama vodi Ivu u skolu.
+\m Vidim da mama vodi Ivu u skolu.
+\g (I) see that Mum takes I.to school
+\l I can see that Mum is taking Ivo to school.
+
+\t Vlada          je ju6b `Y 6a `Y XW TV TU TS R       odobrila prodaju nezdrave hrane.
+\m Vlada          je ju6b `Y 6a `Y XW TV TU TS R       odobrila prodaju nezdrave hrane.
+\g government is yesterday/today approved sale                          unhealthy food
+\l The government approved the sale of unhealthy food yesterday/today.
+
+\t Vlada          je sutra                        odobrila prodaju nezdrave hrane.
+\m Vlada          je sutra                        odobrila prodaju nezdrave hrane.
+\g government is tomorrow approved sale                          unhealthy food
+\l The government approved the sale of unhealthy food tomorrow.
+
+\t Poljubi       li nju?
+\m Poljubi       li nju?
+\g (he)kiss.Pf Q her
+\l Does s/he kiss her?/Is s/he kissing her?
+
+\t Jovan mi       ga    juce      dade.
+\m Jovan mi       ga    juce      dade.
+\g Jovan me.DAT it.ACC yesterday gave
+\l Jovan gave it to me yesterday.
+
+\t Ti si mu          ih       brzo    dao.
+\m Ti si mu          ih       brzo    dao.
+\g you are him.DAT them.ACC quickly given
+\l You quickly gave them to him.
+
+\t Mi smo mu         ga    dali, a i      vi ste         mu      ga     dali (takodje).
+\m Mi smo mu         ga    dali, a i      vi ste         mu      ga     dali (takodje).
+\g  we are him.DAT it.ACC given and also you are         him.DAT it.ACC given too      
+\l We gave it to him, and you did too.
+
+\t Oni su, kao sto sam vam         rekla, predstavili se      Petru.
+\m Oni su, kao sto sam vam         rekla, predstavili se      Petru.
+\g  they are as      am you.DAT said introduced self.ACC Petar.DAT
+\l They, as I told you, introduced themselves to Petar.
+
+\t Te sa, kakto ti          kazax, predstavili se       na Petur.
+\m Te sa, kakto ti          kazax, predstavili se       na Petur.
+\g  they are as     you.DAT told introduced self.ACC to Peter
+\l They have, as I told you, introduced themselves to Peter.
+
+\t Ti ne si mu               gi        dal.
+\m Ti ne si mu               gi        dal.
+\g you NEG are him.DAT them.ACC given
+\l You have not given them to him.
+
+\t Ti ne si mu                 gi           dal.
+\m Ti ne si mu                 gi           dal.
+\g you NEG are him.DAT them.ACC given
+\l You have not given them to him.
+
+\t Pravi on/*njega              se      nikad nee             pojaviti
+\m Pravi on/*njega              se      nikad nee             pojaviti
+\g real he.nom./him.acc         refl    never neg+will        show-up 
+\l The real him will never show up.
+
+\t Vidjeli       smo pravog             njega/*on
+\m Vidjeli       smo pravog             njega/*on
+\g seen          are     real           him.acc/he.nom
+\l We saw the real him.
+
+\t Na stolu ima secera.
+\m Na stolu ima secera.
+\g on table has cheese-GEN
+\l There is (some) cheese on the table.
+
+\t                          lici                          na njega.
+\m                          lici                          na njega.
+\g                          look.like.IMPFV.PRES.3SG on he.ACC
+\l That will be his son. He looks like him.
+
+\t Plovio je morem.
+\m Plovio je morem.
+\g sailed is sea(instr)
+\l He sailed across the sea.
+
+\t Tom          fabrikom      je upravljano lose.
+\m Tom          fabrikom      je upravljano lose.
+\g that(instr) factory(instr) is managed badly
+\l That factory was managed badly.
+
+\t  Pet ena          je kupilo ovu knjigu za sebe.
+\m  Pet ena          je kupilo ovu knjigu za sebe.
+\g five women(gen) is bought that book for themselves
+\l Five women bought that book for themselves.
+
+\t     Je      razbio vaznu
+\m     Je      razbio vaznu
+\g is      broken vase.ACC
+\l He/she has broken the vase.
+
+\t On je         razbio     vaznu
+\m On je         razbio     vaznu
+\g he is         broken vase.ACC
+\l It is he who has broken the vase.
+
+\t citas
+\m cit-as
+\g read-2sg
+\l you are reading
+
+\t Ne itaj.
+\m Ne itaj.
+\g Neg read-IMP-IPFV.
+\l Don't read
+
+\t Nemoj itati                / nemoj da itas.
+\m Nemoj itati                / nemoj da itas.
+\g  Nemoj read-INF-IPFV  / nemoj da read-P   RES-IPFV.
+\l Don't read
+
+\t Nemoj do i.
+\m Nemoj do i.
+\g  Nemoj come-INF-PFV.
+\l Don't come
+
+\t Ne do i.
+\m Ne do i.
+\g    Neg come-IMP-PFV.
+\l Don'tcome'.
+
+\t Niko   o      tome ni re i     / re     nije rekao.
+\m Niko   o      tome ni re i     / re     ni-je rekao.
+\g Nobody about that neg word-GEN/word-ACC neg-is said.
+\l Nobody said a word aboutit'.
+
+\t Pavle je pitao ko              sta   1   o    njemu govori.
+\m Pavle je pitao ko              sta   1   o    njemu govori.
+\g    Pavle Aux asked who what about him                   says
+\l Pavle asked who says what about him
+
+\t Neko       je video nekog,        ali ne znam ko koga.
+\m Neko       je video nekog,        ali ne znam ko koga.
+\g somebody is seen somebody but not know who whom
+\l Somebody saw someone, but I don't know who whom.
+
+\t nasi       /     nase    gazde
+\m nasi       /     nase    gazde
+\g our.MPL /        our.FPL masters
+\l our masters    
+
+\t ovi              privatne      zanatlije
+\m ovi              privatne      zanatlije
+\g these.MPL        private.FPL   artisans(FPL)
+\l these privat   e artisans
+
+\t Ko je koga vidio?
+\m Ko je koga vidio?
+\g Who is whom seen
+\l Who saw whom?
+
+\t Jovan        i    Marko       ne znaju ko je              koga istukao
+\m Jovan        i    Marko       ne znaju ko je              koga istukao
+\g  Jovan      and   Marko       not know who is            whom beaten
+\l Jovan      and   Marko       do not know who            beat whom
+

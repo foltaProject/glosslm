@@ -1,0 +1,10 @@
+\t ìdan Gizò yaa                yi shillòo, kù                  baa    shì     yàDaa.
+\m ìdan Gizò yaa                yi shillòo, kù                  baa    shì     yàDaa.
+\g if      Spider 3ms.PERF do swing           2p.SUB            give   3ms     peanuts
+\l If Spider has swung, please give him some peanuts.
+
+\t ìdan Gizò ya                     yi shillòo, kù        baa shì gyàDaa.
+\m ìdan Gizò ya                     yi shillòo, kù        baa shì gyàDaa.
+\g once Spider 3ms.REL PERF do swing 2p.SUB give 3ms peanuts
+\l Once Spider has swung, please give him some peanuts.
+

@@ -1,0 +1,20 @@
+\t nymasde:k
+\m ny-masde:k
+\g 1A2/3A1 ­ afraid
+\l I'm afraid of
+
+\t !aherk
+\m !-aherk
+\g 1-put in jail
+\l I put him in
+
+\t         cu:ta:v]ny          c        ny i:lyp .   c
+\m         c-u:ta:v]-ny-          c        ny i:ly-p .   c
+\g [dog      stone-INST SBJ.1-hit]-DEF-NOM black-REAL     
+\l The stone with which I hit the dog was black.
+
+\t inyep     ?intayny         ?i         su:paw matpe                 nyu:?e:m        ?s kwilyk
+\m inyep     ?-intay-ny         ?i         su:paw mat-pe-                 ny-u:?e:-m        ?-s kwily-k-
+\g 1SG.OBL    POSS1-mother-DEF something know          REFL-outstanding-NOM OBJ1-SBJ3-teach-DS SBJ1-sew-REAL-EMPH
+\l My mother, who knows a lot, has taught me to sew.
+

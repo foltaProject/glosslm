@@ -1,0 +1,2135 @@
+\t Angunguaq tikippuq.
+\m Angunguaq tikip-p-u-q.
+\g A.Abs arrive-Ind-Intr-3sg
+\l Angunguaq arrived.
+
+\t Angunguaq aalisakkamik nerivuq.
+\m Angunguaq aalisakka-mik neri-v-u-q.
+\g A.Abs fish-Inst.sg eat-Ind-Intr-3sg
+\l Angunguaq ate fish.
+
+\t Arnajaraq aalisagasi.nngilaq.
+\m Arnajaraq aalisaga-si.nngi-l-a-q.
+\g A.Abs fish-buy-Neg-Ind-Intr-3sg
+\l It is not the case that Arnajaraq bought {a / more than one} fish.
+
+\t Angunguu aalisagaq nerivaa.
+\m Angunguu aalisagaq neri-v-a-a.
+\g A.Erg fish-Abs eat-Ind-Tr-3sg.3sg
+\l Angunguaq ate the/a particular fish.
+
+\t Jaani       itirtuq
+\m Jaani       itir-tuq
+\g Jaani(ABS) enter-IND(3s)
+\l Jaani entered.
+
+\t Jaaniup nanuq       qukir ­tanga
+\m Jaani-up nanuq       qukir ­ta-nga
+\g Jaani-ERG bear(ABS) shoot-IND-3sA:3sU
+\l Jaani shot the bear.
+
+\t Jaani        nanurmik      qukiijuq
+\m Jaani        nanur-mik      quki-i-juq
+\g  Jaani(ABS) bear-SEC       shoot-AP-3s
+\l Jaani shot a bear.
+
+\t nanuq      qukirtau ­laurtuq Jaanimut
+\m nanuq      qukir-ta-u ­laur-tuq Jaani-mut
+\g bear(ABS) shoot-PASSPRT-be-PAST-IND(3s) John-DAT
+\l The bear was shot by John
+
+\t angutiit    arnaq       takulaurtangat atuniit
+\m anguti-it    arnaq       taku-laur-ta-ngat atuniit
+\g man-ERG.pl woman(ABS) see-PAST-IND-3plA:3sU each
+\l The men each saw the woman.
+
+\t arnaup angutiit      takulaurtangit atuniit
+\m arna-up anguti-it      taku-laur-ta-ngit atuniit
+\g woman-ERG man-ABS.pl see-PAST-IND-3sA:3plU each
+\l The woman saw each of the men.
+
+\t angutiit     arnamik takulaurtuit atuniit
+\m anguti-it     arna-mik taku-laur-tu-it atuniit
+\g man-ABS.pl woman-SEC see-PAST-IND-3pl each
+\l The men each saw a woman.
+
+\t  arnaq      angutinik     takulaurtuq atuniit
+\m  arnaq      anguti-nik     taku-laur-tuq atuniit
+\g woman(ABS) man-SEC.pl see-PAST-IND(3s) each
+\l The woman saw each of the men.
+
+\t arnaq      angutinut    takujaulaurtuq (*atuniit)
+\m arnaq      anguti-nut    taku-ja-u-laur-tuq (*atuniit)
+\g woman(ABS) man-DAT.pl see-PASSPRT-be-PAST-IND(3s) (*each)
+\l The woman was seen by (*each of) the men.
+
+\t angutiit  arnamut takujau ­laurtuit atuniit
+\m anguti-it  arna-mut taku-ja-u ­laur-tu-it atuniit
+\g man-ABS.pl woman-DAT see-PASSPRT-be-PAST-IND-3pl each
+\l The men were each seen by the woman.
+
+\t qimirquamik angutinut        aittuilaurtunga atuniit
+\m qimirqua-mik anguti-nut        aittu-i-laur-tu-nga atuniit
+\g book-SEC man-DAT.pl give-AP-PAST-IND-1s each
+\l I gave a book to each of the men.
+
+\t qimirquaqarvini Jaani takusimajara (*atuniit)
+\m qimirquaqarvi-ni Jaani taku-sima-ja-ra (*atuniit)
+\g library-LOC.pl John see-PERF-IND-1s:3s (*each)
+\l I have seen John in (*each of) the libraries.
+
+\t  qirmusijautinut   nanuq     takujaulaurtuq (*atuniit)
+\m  qirmusijauti-nut   nanuq     taku-ja-u-laur-tuq (*atuniit)
+\g binoculars-DAT.pl bear(ABS) see-PASSPRT-be-PAST-IND(3s) (*each)
+\l The bear was seen with (*each of) the binoculars.
+
+\t angutiit       aanniatilaurtangit atuniit
+\m anguti-it       aannia-ti-laur-ta-ngit atuniit
+\g  man-ABS.pl sick-TIT-PAST-IND-3sA:3plU each
+\l It made each of the men sick
+
+\t angutinik aanniatit ­silaurtuq atuniit
+\m anguti-nik aannia-tit ­si-laur-tuq atuniit
+\g man-SEC.pl be.sick-TIT-AP-PAST-IND(3s) each
+\l It made each of the men sick
+
+\t aannia ­nalaurtuq
+\m aannia ­na-laur-tuq
+\g be.sick-NAQ-PAST-IND(3s)
+\l It made people sick
+
+\t angutinut      aannianalaurtuq  (*atuniit)
+\m anguti-nut      aannia-na-laur-tuq  (*atuniit)
+\g man-DAT.pl be.sick-NAQ-PAST-IND(3s) (*each)
+\l It made (*each of) these men sick
+
+\t Jaanimit takinirsaqalaurtuq3
+\m Jaani-mit takinirsaqalaurtuq3
+\g John-ABL there.was.someone.taller
+\l There was someone taller than John.
+
+\t imminit [inutjuaq iqalunniigaluarsuni] takinirsaqalaurtuq
+\m immi-nit [inutjuaq iqalunnii-galuar-su-ni] takinirsaqalaurtuq
+\g self-ABL giant(ABS) be.in.Iqaluit-although-APP-3s there.was.someone.taller
+\l Although the gianti was in Iqaluit, there was someone/something taller than himi/heri
+
+\t a) ullatuq
+\m a) ulla-tuq
+\g   run-IND(3s)
+\l He/she is running.
+
+\t ullagumajuq
+\m ulla-guma-juq
+\g run-want-IND(3s)
+\l He/she wants to run.
+
+\t ullagumanartuq        Jaanimut
+\m ulla-guma-nar-tuq        Jaani-mut
+\g run-want-NAQ-IND(3s) John-DAT
+\l It makes John want to run.
+
+\t Jaanimut ullagumanaraluartilugu
+\m Jaani-mut ulla-guma-na-raluar-ti-lu-gu
+\g  John-DAT run-want-NAQ-although-OBV-APP-3s
+\l Although it made John want to run....
+
+\t (*imminit) [Jaanimut ullagumanaraluartilugu] sukannisaqalaurtuq
+\m (*immi-nit) [Jaani-mut ulla-guma-na-raluar-ti-lu-gu] sukannisaqalaurtuq
+\g self-ABL [John-DAT run-want-NAQ-indeed-OBV-APP-3s] there.was.someone.faster
+\l Although it made John want to run, there was someone faster (*than self).
+
+\t Annimit [Jaanimut ullagumanaraluartilugu] sukannisaqalaurtuq
+\m Anni-mit [Jaani-mut ulla-guma-na-raluar-ti-lu-gu] sukannisaqalaurtuq
+\g   Anni-ABL [John-DAT run-want-NAQ-indeed-OBV-APP-3s] there.was.someone.faster
+\l Although it made John want to run, there was someone faster than Anni.
+
+\t Jaanimik ullagumatitsigaluar ­tilugu
+\m Jaani-mik ulla-guma-tit-si-galuar ­ti-lu-gu
+\g John-SEC run-want-cause-AP-although-OBV-APP-1s
+\l Although he/she/it made John want to run....
+
+\t  imminit [Jaanimik ullagumatitsigaluar ­tilugu] sukannisaqalaurtuq
+\m  immi-nit [Jaani-mik ulla-guma-tit-si-galuar ­ti-lu-gu] sukannisaqalaurtuq
+\g self-ABL John-SEC run-want-cause-AP-although-OBV-APP-3s] there.was.someone.faster
+\l Although he/she/it made Johni want to run, there was someone faster than himi.
+
+\t pattaq     inummarimmut aittulauqtara
+\m pattaq     inummarim-mut aittu-lauq-ta-ra
+\g ball(ABS) adult-DAT give-PAST-IND-1sA:3sU
+\l I gave the ball to the adult.
+
+\t inummarimmik pattaq           aittulauqtara
+\m inummarim-mik pattaq           aittu-lauq-ta-ra
+\g  adult-SEC ball(ABS) give-PAST-IND-1sA:3sU
+\l I gave the ball to the adult.
+
+\t inummarik pattamik aittulauqtara
+\m inummarik patta-mik aittu-lauq-ta-ra
+\g adult(ABS) ball-SEC give-PAST-IND-1sA:3sU
+\l I gave the adult a ball.
+
+\t inummarimmut aittuilaurtunga pattamik
+\m inummarim-mut aittu-i-laur-tu-nga patta-mik
+\g adult-DAT give-AP-PAST-IND-1s ball-SEC
+\l I gave the ball to the adult.
+
+\t inummarimmik aittuilaurtunga pattamik
+\m inummarim-mik aittu-i-laur-tu-nga patta-mik
+\g adult-SEC give-AP-PAST-IND-1s ball-SEC
+\l I gave the adult a ball.
+
+\t Arnap         angut         kamaappaa
+\m Arna-p         angut         kama-ap-p-aa
+\g woman-ERG      man.ABS       be.angry-APPL-MOOD-3S>3S
+\l the woman is angry with the man
+
+\t taqqialu÷up             tuktu              taku÷lau÷NNit÷t÷a÷(N)a
+\m taqqialu÷up             tuktu              taku÷lau÷NNit÷t÷a÷(N)a
+\g T.-ERG                  caribou.ABS        see-PAST-NEG-MOOD-TRANS-3        SG>3SG
+\l Taqqialuk didn't see a (single) caribou.
+
+\t arvi÷up                 qajaq              katja÷kpagu
+\m arvi÷up                 qajaq              katja÷kpagu
+\g M.ABS                   be.frightened-NFUT-MOOD-INTR-3               SG
+\l Miali will be frightened if the bowhead hits any kayak.
+
+\t Kivgak2            (kingminut4)4      keejauvok.
+\m Kivgak2            (kingminut4)4      kee-jau-vok.
+\g servant            dogs               bitten
+\l The servant is bitten (by the dogs).
+
+\t  Asappuq.
+\m  Asap-puq.
+\g wash-IND.3 SG
+\l He washed himself.
+
+\t Suulut    timmisartuliorpoq
+\m Suulut    timmisartu-lior-poq
+\g Søren(ABS) airplane-make-3sS
+\l Søren made an airplane.
+
+\t Ippaksak       Tuglasimik takulauqtunga
+\m Ippaksak       Tuglasi-mik taku-lauq-t-u-nga
+\g yesterday      Douglas-MOD see-past-part-[­tr]-1sABS
+\l Yesterday, I saw Douglas
+
+\t Angutiup      nutaraq       takuvaa.
+\m Anguti-up      nutaraq       taku-v-a-a.
+\g man-ERG child(ABS) see-ind-[+tr]-3sERG.3sABS
+\l the man sees/saw the child
+
+\t Angut          nirivuq.
+\m Angut          niri-v-u-q.
+\g man(ABS)       eat-ind-[­tr]-3sABS
+\l the man eats/ate
+
+\t Angutiup      nutaraq       takuvaa.
+\m Anguti-up      nutaraq       taku-v-a-a.
+\g man-ERG child (ABS) see-ind-[+tr]-3sERG.3sABS
+\l the man sees/saw the child
+
+\t Angut          nirivuq.
+\m Angut          niri-v-u-q.
+\g man(ABS)       eat-ind-[­tr]-3sABS
+\l the man eats/ate
+
+\t Angutiup     tuktu           qukiqpaa
+\m Anguti-up     tuktu           qukiq-p-a-a
+\g man-ERG       caribou (ABS) shoot-ind-[+tr]-3sERG.3sABS
+\l the man shoots/shot the caribou
+
+\t Angut          tikippuq
+\m Angut          tikip-p-u-q
+\g man (ABS) arrive-ind-[+tr]-3sABS
+\l the man arrived
+
+\t Angutiup      nutaraq       takujaa
+\m Anguti-up      nutaraq       taku-j-a-a
+\g man-ERG        child (ABS) see-part-[+tr]-3sERG.3sABS
+\l the man sees/saw the child
+
+\t Angut          nirijuq
+\m Angut          niri-j-u-q
+\g man (ABS) eat-part-[­tr]-3sABS
+\l the man eats/ate
+
+\t Angutiup     nutaraq         tusartaa
+\m Anguti-up     nutaraq         tusar-t-a-a
+\g man-ERG       child (ABS) hear-part-[+tr]-3sERG.3sABS
+\l the man hears/heard the child
+
+\t Angut          quviasuktuq
+\m Angut          quviasuk-t-u-q
+\g man (ABS) be.happy-part-[­tr]-3sABS
+\l the man is happy
+
+\t Angutiup      tuktu          takujaa
+\m Anguti-up      tuktu          taku-j-a-a
+\g man-ERG        caribou (ABS) see-part-[+tr]-3sERG.3sABS
+\l the man sees/saw the caribou
+
+\t Tuktu            (angutimut) takujaujuq
+\m Tuktu            (anguti-mut) taku-jau-j-u-q
+\g caribou (ABS) (man-DAT) see-PASS-part-[­tr]-3sABS
+\l the caribou is seen (by a/the man)
+
+\t Kingmaalisaap atautsiq      iqaluk            takujanga
+\m Kingmaalisaa-p atautsiq      iqaluk            taku-j-a-nga
+\g K.-ERG one (ABS) fish (ABS)            see-part-[+tr]-3sERG.3sABS
+\l Kingmaalisaaq saw a (particular) fish
+
+\t Kingmaalisaaq atautsimik iqalungmik           takuØjuq
+\m Kingmaalisaaq atautsi-mik iqalung-mik           taku-Ø-j-u-q
+\g K.(ABS)       one-MOD fish-MOD                 see-AP-part-[­tr]-3sABS
+\l Kingmaalisaaq saw a fish
+
+\t Ippaksak       Tuglasimik   takulauqtunga
+\m Ippaksak       Tuglasi-mik   taku-lauq-t-u-nga
+\g yesterday      Douglas-MOD see-past-part-[­tr]-1sABS
+\l Yesterday, I saw someone named Douglas
+
+\t Tuglasi         takulauqtara
+\m Tuglasi         taku-lauq-t-a-ra
+\g Douglas (ABS) see-past-part-
+\l I saw Douglas
+
+\t illujuaqaluk        mutuq lauqsimanngitnamali ttauq
+\m illu-juaq-aluk-        mut-uq- lauq-sima-nngit-nama-li- ttauq
+\g house-big-EMPHATIC-DAT-go-past-perf- neg-CAUSALIS-1sABS-but-also
+\l but also, because I never went to the really big house
+
+\t Kingmaalisaap iqaluk       Mialimut tunilauqtanga.
+\m Kingmaalisaa-p iqaluk       Miali-mut tuni-lauq-t-a-nga.
+\g K-ERG fish (ABS) M.-DAT give-past-part-[+tr]-3sERG.3sABS
+\l Kingmaalisaaq give the fish to Miali
+
+\t IqaluktuqqauvitTUQ
+\m Iqaluk-tu-qqau-vit-TUQ-
+\g fish-TUQ-recent.past-interrog.2sABS
+\l Did you(s) eat fish?
+
+\t PaniqarpuqQAQ
+\m Pani-qar-p-u-q-QAQ-
+\g daughter-HAVE-ind-[­tr]-3sABS
+\l (s)he has a daughter
+
+\t AngutiuvungaU
+\m Anguti-u-v-u-nga-U-
+\g man-be-ind-[­tr]-1sABS
+\l I am a man
+
+\t MontrealilialauttuqLIA
+\m Montreali-lia-laut-t-u-q-LIA-
+\g Montréal-go.to-past-part-[­tr]-3sABS
+\l (s)he went to Montréal
+
+\t Akittiq        iqalungmik takuØnngittuq
+\m Akittiq        iqalung-mik taku-Ø-nngit-t-u-q
+\g A.(ABS)       fish-MOD         see-AP-neg-part-[­tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish
+
+\t Kingmaalisaap atautsiq      iqaluk            takujanga
+\m Kingmaalisaa-p atautsiq      iqaluk            taku-j-a-nga
+\g K.-ERG one (ABS) fish (ABS)            see-part-[+tr]-3sERG.3sABS
+\l Kingmaalisaaq saw a (particular) fish
+
+\t Kingmaalisaaq atautsimik iqalungmik          takuØjuq
+\m Kingmaalisaaq atautsi-mik iqalung-mik          taku-Ø-j-u-q
+\g K.(ABS)       one-MOD fish-MOD                see-AP-part-[­tr]-3sABS
+\l Kingmaalisaaq saw a fish
+
+\t Tuktu          takujaangik
+\m Tuktu          taku-j-a-angik
+\g caribou (ABS) see-part-[+tr]-3dERG.3sABS
+\l those two see/saw a caribou
+
+\t Tuktu          takusijaangik
+\m Tuktu          taku-si-j-a-angik
+\g caribou (ABS) see-SI-part-[+tr]-3dERG.3sABS
+\l those two (just) caught sight of a caribou
+
+\t Tuktumik      takuØjut
+\m Tuktu-mik      taku-Ø-j-u-t
+\g caribou-MOD see-AP-part-[­tr]-3pABS
+\l they see/saw a caribou
+
+\t Tuktumik      takuØsiju(u)uk
+\m Tuktu-mik      taku-Ø-si-j-u-(u)uk
+\g caribou-MOD see-AP-SI-part-[tr]-3dABS
+\l those two (just) caught sight of a caribou
+
+\t Ippaksaq,         qallunaarmik          takuqattalauqtunga
+\m Ippaksaq,         qallunaar-mik          taku-qatta-lauq-t-u-nga
+\g yesterday         qallunaaq-MOD.s        see-again&again-past-part-[­tr]-1sABS
+\l Yesterday, I kept seeing different qallunaat
+
+\t Suulaup    aullarniarasugija(ng)a           qaukpat Arnainnuk
+\m Suula-up    aullar-nia-rasugi-j-a-(ng)a           qaukpat Arnainnuk
+\g S.-ERG leave-nfut-think-part-[+tr]-3sERG.3sBS tomorrow A.(ABS)
+\l Suula thinks that Arnainnuk will leave tomorrow
+
+\t Aullalaarumajunga
+\m Aulla-laa-ruma-j-u-nga
+\g leave-fut-want-part-[­tr]-1sABS
+\l I want to leave
+
+\t Aullarumalaaqtunga
+\m Aulla-ruma-laaq-t-u-nga
+\g leave-want-fut-part-[­tr]-1sABS
+\l I will want to leave
+
+\t Sanalaarumajuq
+\m Sana-laa-ruma-j-uq
+\g work-fut-want-part-[­tr]-3sABS
+\l She wants to work someday
+
+\t Sanajumalaaqtuq
+\m Sana-juma-laaq-t-u-q
+\g work-want-fut-part-[­tr]-3sABS
+\l Someday, she will want to work
+
+\t Margarita          Kuinatsaijuk        Ritsatimik
+\m Margarita          Kuinatsa-i-j-u-k        Ritsati-mik
+\g Margarita (ABS) tickle-AP-part-[­tr]-3sABS Richard-MOD
+\l Margarita is tickling Richard
+
+\t Nancy           angkalimmat          ak âgulak          iksivajuk                haksitâgulangmi,            iksivaju         haksitâgulangmi,         Nancymi(k)      tautuktuk.           
+\m Nancy           angka-li-mmat          ak â-gulak          iksiva-j-u-k                haksi-tâ-gulang-mi,            iksiva-ju         haksi-tâ-gulang-mi,         Nancy-mi(k)      tautuk-t-u-k.           
+\g Nancy (ABS) home-progressive-csl.3sABS black.bear-dear     sitting-part-[­tr]-3sABS    hillock-get-dear-LOC.s         sitting-part.     hillock-get-dear-LOC.s      Nancy-MOD        look.at-part-[­tr]-3sABS
+\l ... if Nancy was coming home, the young black bear would be sitting on a little hill, sitting on the little hill, watching Nancy
+
+\t Kingmaalisaaq quviasungniaqtuq innaq           qaikpat
+\m Kingmaalisaaq quviasung-niaq-tuq innaq           qai-kpat
+\g K.(ABS)             happy-nfut-3sABS elder (ABS) come-cond.3sABS
+\l Kingmaalisaaq will be happy if an elder comes
+
+\t Kingmaalisaaq     quviasungniaqtuq                tikippat
+\m Kingmaalisaaq     quviasung-niaq-tuq                tikip-pat
+\g K.(ABS)           happy-nfut-3sABS                  arrive-cond.3sABS
+\l Kingmaalisaaq1 will be happy if (s)he/it          arrives
+
+\t Kingmaalisaaq     quviasungniaqtuq          tikikkuni
+\m Kingmaalisaaq     quviasung-niaq-tuq          tikik-kuni
+\g K.(ABS)           happy-nfut-3sABS            arrive-cond.4sABS
+\l Kingmaalisaaq1 will be happy if he1/*2 arrives
+
+\t Quviasuktut               tikimmat
+\m Quviasuk-t-u-t               tikim-mat
+\g happy-part-[­tr]-3pABS       arrive-csl.3sABS
+\l They are happy, because (s)he arrived
+
+\t Quviasuktut               tikikkami
+\m Quviasuk-t-u-t               tikik-kami
+\g happy-part-[­tr]-3pABS       arrive-csl.4sABS
+\l They1 are happy, because one of them1/*2 arrived
+
+\t Anaanalimaat             numaasukkajaqtut                  nutaraq          tuqukpat     
+\m Anaana-limaa-t             numaasuk-kajaq-t-u-t                  nutaraq          tuquk-pat     
+\g mother-all-ABS.p           be.sad-would-part-[­tr]-3pABS         child (ABS)      die-cond.3sABS
+\l every mother will be sad if a child dies
+
+\t Ilisaijilimaat           aittarusukkajaqtut                                    ilinniaqti            nuqqaqpat     
+\m Ilisaiji-limaa-t           aittarusuk-kajaq-t-u-t                                    ilinniaqti            nuqqaq-pat     
+\g teacher-all-ABS.p          be.disappointed-would-part-[­tr]-3pABS                    student (ABS)         quit-COND.3sABS
+\l every teacher will be disappointed if a student quits
+
+\t Anaanalimaat numaasukkajaqtut           nutarani     tuqukpat
+\m Anaana-limaa-t numaasuk-kajaq-t-u-t           nutara-ni     tuquk-pat
+\g mother-all-ABS.p be.sad-would-part-[­tr]-3pABS child-4sPOSS die-cond.3sABS
+\l every mother1 will be sad if her1/*2 child dies
+
+\t Anaanalimaat numaasukkajaqtut           nutaranga    tuqukpat
+\m Anaana-limaa-t numaasuk-kajaq-t-u-t           nutara-nga    tuquk-pat
+\g mother-all-ABS.p be.sad-would-part-[­tr]-3pABS child-3sPOSS die-cond.3sABS
+\l every mother will be sad if his child dies
+
+\t                nagligijani                           tuqukpat.
+\m                nagligi-j-a-ni                           tuqu-kpat.
+\g                love-part-[+tr]-4sERG.3sABS              die-COND.3sABS
+\l every mother1 will be sad if a child she1/*2 loves dies
+
+\t                nagligijanga                          tuqukpat.
+\m                nagligi-j-a-nga                          tuqu-kpat.
+\g                love-part-[+tr]-3sERG.3sABS              die-COND.3sABS
+\l every mother1 will be sad if a child she2/*1 loves dies
+
+\t         ilinniaqti              ikajuqtavinini  nuqqaqpat
+\m         ilinniaqti              ikajuq-tavinini  nuqqaq-pat
+\g          student(ABS.s)         help-4sERG.3sABS quit-4sABS
+\l every teacher1 will be disappointed if a student (s)he1/*2 helps quits
+
+\t         nagligijaga                         tuqukpat.
+\m         nagligi-j-aga                         tuqu-kpat.
+\g         love-part-[+tr]-1sERG.3sABS           die-COND.3sABS
+\l every mother will be sad if a child that I love dies
+
+\t Mialiup          nagligijani         tuqukpat.
+\m Miali-up          nagligi-j-ani         tuqu-kpat.
+\g M--ERG           love-part-[+tr]-4s.3s die-COND.3sABS
+\l Every mother will be sad if a child Miali loves dies
+
+\t Tuqqialuup tuktu             takulaunngittaa
+\m Tuqqialu-up tuktu             taku-lau-nngit-t-a-a
+\g T.-ERG       caribou(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l Taqqialuk didn't see a caribou
+
+\t Akittiq        iqalungmik            takuØnngittuq
+\m Akittiq        iqalung-mik            taku-Ø-nngit-t-u-q
+\g A.(ABS)        fish-MOD               see-AP-neg-part-[­tr]-3sABS
+\l Akittiq doesn't/didn't see any fish
+
+\t Kingmaalisaap atausiq iqaluk           takujanga
+\m Kingmaalisaa-p atausiq iqaluk           taku-j-a-nga
+\g K.-ERG one (ABS) fish (ABS) see-part-[+tr]-3sERG.3sABS
+\l Kingmaalisaaq saw a (particular) fish
+
+\t Kingmaalisaaq atausimik iqalumik takuØjuq
+\m Kingmaalisaaq atausi-mik iqalu-mik taku-Ø-j-u-q
+\g K.(ABS)       one-MOD fish-MOD see-AP-part-[­tr]-3sABS
+\l Kingmaalisaaq saw a fish
+
+\t Kingmaalisaaq quviasungniaqtuq innaq         qaikpat.
+\m Kingmaalisaaq quviasung-niaq-tuq innaq         qai-kpat.
+\g K.(ABS)          happy-NFUT-3sABS elder(ABS) come-COND.3sABS
+\l Kingmaalisaaq will be happy if an elder comes
+
+\t Kingmaalisaaq quviasungniaqtuq innarmik qaijuqaqØpat.
+\m Kingmaalisaaq quviasung-niaq-tuq innar-mik qai-juqaq-Ø-pat.
+\g K.(ABS) happy-NFUT-3sABS elder-MOD come-someone-AP-COND.3sABS
+\l Kingmaalisaaq will be happy if an elder comes
+
+\t ilisaijilimaat         aittarusukkajaqtut                       ilinniaqti                                                      nuqqaqpat     
+\m ilisaiji-limaa-t         aittarusukka-jaq-t-u-t                       ilinniaqti                                                      nuqqaq-pat     
+\g teacher-all-ABS.p        disappoint-PASS-ind-[­tr]-3pABS student(ABS.s)                                                               quit-COND.3sABS
+\l Every teacher will be disappointed if a student quits
+
+\t ilisaijilimaat         aittarusukkajaqtut
+\m ilisaiji-limaa-t         aitta-rusukka-jaq-t-u-t
+\g teacher-all-ABS.p disappoint-PASS-part-[­tr]-3pABS
+\l Every teacher will be disappointed if a student quits
+
+\t Jaaniø       tikilirtuq.
+\m Jaani-ø       tikilir-tuq.
+\g Jaani-ABS arrive-PART,3SG
+\l Jaani arrives
+
+\t Jaaniup illuø                takuvaa.
+\m Jaani-up illu-ø                taku-vaa.
+\g  Jaani-ERG house-ABS see-INDIC,3SG,3SG
+\l Jaani saw the house
+
+\t angutiup Jaaniø aitupaa                       illumik.
+\m anguti-up Jaani-ø aitu-paa                       illu-mik.
+\g   man-ERG Jaani-ABS give-INDIC,3SG,3SG house-SECONDARY
+\l A man gave Jaani a house
+
+\t Hansip         inuit                     tuquppaa.
+\m Hansi-p         inuit                     tuqup-paa.
+\g Hansi-ERG people:NOM.kill-DEC:3SG:3SG
+\l Hansi killed thepeople'.
+
+\t Hansip         (Aanimit)                ilinniartinnera
+\m Hansi-p         (Aani-mit)                ilinniartin-ner-a
+\g Hansi-ERG Anne-ABL                        teach-NMLZ-DEC:3SG:SG
+\l the teaching of Hansi (by Anne)
+
+\t Ataatani               Juunap      tatig(iv)aa.
+\m Ataata-ni               Juuna-p      tatig(i-v)aa.
+\g father-REFL.POSS Juuna-ERG           trust-IND.TR.3SG.3SG
+\l Juunai trusts hisi father.
+
+\t Aani illumi                nut     ingerlavo       q.
+\m Aani illu-mi-                nut     ingerla-vo-       q.
+\g Anne house-REFL.POSS- DAT            go-IND.INTR- 3SG
+\l Anne is going to her house.
+
+\t Anaanami                  Piita nagligija�a.
+\m Anaana-mi                  Piita nagligi-ja�a.
+\g  mother-REFL.POSS(ERG) Piita love-3SG.3SG
+\l Hisi mother loves Piitai.
+
+\t Miiqqat [Juuna ikiussa llugu]               niriursuipp ut.
+\m Miiqqat [Juuna ikiu-ssa- llu-gu]               niriursui-pp- u-t.
+\g children Juuna help-FUT- INF-3SG               promise-IND- INTR-3PL
+\l The children promised to help Juuna.
+
+\t Miiqqat [qitissa llutik]                   niriursuipp ut.
+\m Miiqqat [qiti-ssa- llu-tik]                   niriursui-pp- u-t.
+\g children dance-FUT- INF-REFL.PL               promise-IND- INTR-3PL
+\l The children promised to dance.
+
+\t nanuq       [Piitap       tuquta  a]
+\m nanuq       [Piita-p       tuqu-ta-  a]
+\g polar.bear Peter-ERG kill-TR.PART- 3SG
+\l a polar bear that Peter killed
+
+\t miiraq      [kamattu            q]
+\m miiraq      [kamat-tu-            q]
+\g child.ABS angry-REL.INTR- SG
+\l the child who is angry
+
+\t angut      [aallaat    tigusima saa]
+\m angut      [aallaat    tigu-sima- sa-a]
+\g  man.ABS gun.ABS take-PRF- REL.TR-3SG
+\l the man who took the gun
+
+\t Atuartup     ataasip     Juuna uqaluqatigisima               nngila a.
+\m Atuartu-p     ataasi-p     Juuna uqaluqatigi-sima-               nngi-la- a.
+\g student-ERG one-ERG Juuna talk.to-PERF-              NEG-IND- 3SG.3SG
+\l No student has talked to Juuna (yet).
+
+\t Atuagaq ataasiq tikissima nngila q.
+\m Atuagaq ataasiq tikis-sima- nngi-la- q.
+\g book      one     come-PERF- NEG-IND- 3SG
+\l One book hasn't come (yet).
+
+\t Juunap      atuagaq ataasiq tigusima nngila                     a.
+\m Juuna-p      atuagaq ataasiq tigu-sima- nngi-la-                     a.
+\g Juuna-ERG book        one     get-PERF- NEG-IND-                     3SG3SG
+\l There is a book which Juuna hasn't got (yet).
+
+\t Amma         kuttiyekont aanaye            swantam wittil wecc
+\m Amma         kuttiyekont aanaye            swantam wittil wecc
+\g pinch.CAUS.PST
+\l Motheri made the childj pinch the elephantk at self'si/*j/*k house.
+
+\t Alanaup ujagak     atjatlugu         anivuk
+\m Alana-up ujagak     atja-tlu-gu         ani-vuk
+\g Alana-ERG rock(ABS) carry-INFIN-3SG.ABS go.out-INDIC.3SG.ABS
+\l While Alana was carrying the rock, she went out.
+
+\t arnap    atisassat irrurlugitirinarsurpuq
+\m arna-p    atisassat irrur-lu-gitirinarsur-puq
+\g woman-ERG clothes wash-INFIN-3SG.ABS-INDIC.3SG.ABS
+\l While the woman was washing the clothes...
+
+\t [arnaq      irinarsurluni]     atisassat    irrurpai                     
+\m [arnaq      irinarsur-lu-ni]     atisassat    irrur-p-a-i                     
+\g [woman(ABS) sing-INFIN-3SG.REFL] clothes(ABS) wash-INDIC-TRANS-3SG.ABS/3PL.ERG
+\l While the woman was singing, she washed the clothes
+
+\t Miiqqat [Junna ikiussallugu]       niriursuipput
+\m Miiqqat [Junna ikiu-ssa-llu-gu]       niriursui-pput
+\g children Junna help-FUT-INFIN-3SG.ABS promise-IND.3PL.ABS
+\l The children promised to help Junna.
+
+\t Alanaup  ujagak    atjatlugu         anivuk
+\m Alana-up  ujagak    atja-tlu-gu         ani-vuk
+\g Alana-ERG rock(ABS) carry-INFIN-3SG.ABS go.out-INDIC.3SG.ABS
+\l While Alana was carrying the rock, she went out.
+
+\t arnap    atisassat irrurlugitirinarsurpuq
+\m arna-p    atisassat irrur-lu-gitirinarsur-puq
+\g woman-ERG clothes wash-INFIN-3SG.ABS-INDIC.3SG.ABS
+\l While the woman was washing the clothes...
+
+\t [arnaq      irinarsurluni]     atisassat         irrurpai                     
+\m [arnaq      irinarsur-lu-ni]     atisassat         irrur-p-a-i                     
+\g [woman(ABS) sing-INFIN-3SG.REFL] clothes(ABS)      wash-INDIC-TRANS-3SG.ABS/3PL.ERG
+\l While the woman was singing, she washed the clothes
+
+\t 28     a.      kivgat                nunangat
+\m 28     a.      kivga-t                nunang-at
+\g                servant-PL.GEN         land-3pPOS
+\l the land of the servants
+
+\t kivgat                 attuarpaat
+\m kivga-t                 attuar-paat
+\g servant-PL.ERG          read-3sABS.3pERG
+\l The servants read it.
+
+\t 29     a.      takuvassigut
+\m 29     a.      taku-vas-si-gut
+\g                see-IND-2pl-1plABS
+\l You saw us.
+
+\t nirivarput
+\m niri-var-put
+\g eat-IND.3sgABS-1pl.ERG
+\l We ate it.
+
+\t Amerikamiuusuqgut
+\m Amerikamiu-u-suq-gut
+\g American-be-ones-1plABS
+\l We who are Americans / We Americans
+
+\t uumasuq pikinnaviirlugu          qilirsurniqarpuq
+\m uumasuq pikin-naviir-lu-gu          qilirsur-niqar-p-u-q
+\g animalj kick.about-prevent-inf-3sg tie.up-pass-ind-itr-3sg
+\l The animal was tied up (by somebo dyi ), proi preventing it from kicking about.
+
+\t Aanip    miiqqat         qasunirarpai
+\m Aani-p    miiqqa-t         qasu-nirar-p-a-i
+\g Aani-erg children-pl.abs be.tired-say-ind-tr-3sg.3pl
+\l Aani said that the children were tired.
+
+\t Hansip    miiqqat          uannut paaritippai
+\m Hansi-p    miiqqat          uan-nut paari-tip-pai
+\g Hansi-erg children.pl.abs me-term lo ok.after-caus-ind.tr.3sg.3pl
+\l Hansi had me lo ok after the children.
+
+\t Kaalip     Pavia     imminit anginirusinnaannginnirarpaa
+\m Kaali-p     Pavia     immi-nit angi-nir-u-sinnaa-nngin-nirar-p-a-a
+\g Kaali-erg Pavia.abs self-abl big-cmp-be-can-neg-say-ind-tr-3sg.3sg
+\l Kaalii said that Paviaj couldn't be taller than selfi/j .
+
+\t Juunap     Kaali     imminik uqaluttuuppaa
+\m Juuna-p     Kaali     immi-nik uqaluttuup-p-a-a
+\g Juuna-erg Kaali.abs self-instr tell-ind-tr-3sg.3sg
+\l Juunai told Kaalij about selfi/*j .
+
+\t Juunap      miiqqat paar(iv)ai
+\m Juuna-p      miiqqat paar(i-v)-ai
+\g Juuna-erg child.pl lo ok.after-ind-tr-3sg.3pl
+\l Juuna is lo oking after the children.
+
+\t Aanip    miiqqat Juunamut paarisur(iv)ai
+\m Aani-p    miiqqa-t Juuna-mut paari-sur(i-v)-ai
+\g Aani-erg child-pl Juuna-term lo ok.after-think-tr-3sg.3pl
+\l Aani thinks that Juuna is lo oking after the children.
+
+\t Jaakup    ammit       qimminit niriniqatsaalivai
+\m Jaaku-p    ammit       qimmi-nit niri-niqa-tsaali-v-a-i
+\g Jaaku-erg skin.pl.abs dog-pl.abl eat-pass-prevent-ind-tr-3sg.3pl
+\l Jaaku prevented the skins from getting eaten by the dogs.
+
+\t Kaalip     Pavia     imminit anginirusinnaannginnirarpaa
+\m Kaali-p     Pavia     immi-nit angi-nir-u-sinnaa-nngin-nirar-p-a-a
+\g Kaali-erg Pavia.abs self-abl big-cmp-be-can-neg-say-ind-tr-3sg.3sg
+\l Kaalii said that Paviaj couldn't be taller than selfi/j .
+
+\t Aalup     Paviamut Suulut        savimminik kapiqquaa
+\m Aalu-p     Pavia-mut Suulut        savim-mi-nik kapi-qqu-aa
+\g Aalu-erg Pavia-term Suulut.abs knife-4sg-mod stab-ask-ind.3sg.3sg
+\l Aaluti told Paviaj to stab Suulutk with hisi/j/*k knife.
+
+\t Piita       uvva
+\m Piita       uvva
+\g Peter       this/here
+\l This/here is Peter
+
+\t paunaarpuq
+\m pa-una-ar-puq
+\g up.there.RESTRICTED-via-move-3SG
+\l He is going via around up there.
+
+\t (95)a. Joosi          quqiqsiyup0                tuttumik
+\m (95)a. Joosi          quqiq-si-y-up-0                tuttu-mik
+\g        Joosi.Abs      shoot-si-Ptcp-Monop-3          caribou-Mod
+\l Joosi shot a caribou.
+
+\t Joosiup       quqikkaniqtanga            tuttu
+\m Joosi-up       quqi-kkaniq-t-a-nga            tuttu
+\g Joosi-Erg      shoot-again-Ptcp-Polyp-3/3     caribou.Abs
+\l Joosi shot the same caribou again.
+
+\t Pitsituvunga.
+\m Pitsi-tu-vunga.
+\g dried.fish-consume-[­TR].IND.1s.
+\l I'm eating dried fish.
+
+\t Suusan Taivitmik nagligusukvuq
+\m Suusan Taivit-mik nagligusuk-vuq
+\g Susan David love-3sg.intr.indic.
+\l Susan loves David
+
+\t Piipi sunamik qukirsirqauvaa
+\m Piipi suna-mik qukir-sir-qau-vaa
+\g Phoebe what-acc shoot-ap-recpst-3sg.intr.interr.
+\l What did Phoebe hit?
+
+\t kina kisumik niuvirqauvaa
+\m kina kisu-mik niuvi-rqau-vaa
+\g who what-acc buy-pst-3sg.intr.interr.
+\l Who bought what?
+
+\t kina qaivaa?
+\m kina qai-vaa?
+\g who come-3sg.interr
+\l Who came?
+
+\t kina sunamit sanavaa
+\m kina suna-mit sana-vaa
+\g who what-acc make-3s.interr
+\l Who made what?
+
+\t anaanaga sunamit takugumavaa?
+\m anaana-ga suna-mit taku-guma-vaa?
+\g mother-my what-acc see-want-3sg.interr
+\l What does my mother want to see?
+
+\t Alana sunamit niuviqauvaa?
+\m Alana suna-mit niuvi-qau-vaa?
+\g Alana what-acc buy-past-3sg.interr
+\l What did Alana buy?
+
+\t Alana titirautimit niuviqaujuq
+\m Alana titirauti-mit niuvi-qau-juq
+\g Alana pencil-acc buy-past-3sg.indic
+\l Alana bought a pencil
+
+\t ataataga kinamut qajaliumat?
+\m ataata-ga kina-mut qaja-liu-mat?
+\g father-my who-allat kayak-make-3sg.caus
+\l Who is my father making a kayak for?
+
+\t nami Lisi ijiqsimavaa?
+\m nami Lisi ijiq-sima-vaa?
+\g where Lisi hide-pres-3sg.interr
+\l Where is Lisi hiding?
+
+\t kina qanga qaigumavaa?
+\m kina qanga qai-guma-vaa?
+\g who when come-want-3sg.interr
+\l Who wants to come when?
+
+\t uvanga qaigumajunga siuru
+\m uvanga qai-guma-junga siuru
+\g 1sg.emph come-want-3sg.indic later
+\l As for me, I want to come later
+
+\t kina sunamit kinamut tunisivaa
+\m kina suna-mit kina-mut tunisi-vaa
+\g who what-acc who-all give-3s.interr
+\l Who gave what to whom?
+
+\t Piipi sunamik qukirsirqauvaa
+\m Piipi suna-mik qukir-sir-qau-vaa
+\g Phoebe what-acc shoot-ap-recpst-3sg.intr.interr.
+\l What did Phoebe hit?
+
+\t kina kinamut sunamit tunisivaa
+\m kina kina-mut suna-mit tunisi-vaa
+\g who who-allat what-acc give-3s.interr
+\l Who gave what to whom?
+
+\t sunaturumavit?
+\m suna-tu-ruma-vit?
+\g what-eat/drink-want-2sg.interr
+\l What do you want to have?
+
+\t titurumavunga
+\m ti-tu-ruma-vunga
+\g tea-eat/drink-want-1sg.indic
+\l I want to have tea
+
+\t iqalumit Miali naksaqtuq
+\m iqalu-mit Miali naksaq-tuq
+\g fish-acc Mary brought-3sg.indic
+\l As for the fish, it was Mary who brought it
+
+\t kina takulaurpaa taiksuminga angummit?
+\m kina taku-laur-paa taiksuminga angu-mmit?
+\g who see-past-3sg.interr that man-abl
+\l Who saw that man?
+
+\t kina takulaurmat taiksuminga angummit?
+\m kina taku-laur-mat taiksuminga angu-mmit?
+\g who see-past-3sg.caus that man-abl
+\l Who (is it that) saw that man?
+
+\t kinamut Alana niuviqauvaa sunamit?
+\m kina-mut Alana niuvi-qau-vaa suna-mit?
+\g who-allat Alana buy-past-3sg.interr what-acc
+\l What did Alana buy for whom?
+
+\t Alana Marinamut kiik niuviqaujuq
+\m Alana Marina-mut kiik niuvi-qau-juq
+\g Alana Marina-allat cake buy-past-3sg.indic
+\l Alana bought Marina a cake
+
+\t aniTjuq
+\m aniT-juq
+\g go.out-par.3sS
+\l S/he went out
+
+\t pinasugiirtuq
+\m pinasugiirtuq
+\g work-TERM-par.3sS
+\l S/he finished working
+
+\t anilirtuq
+\m anilirtuq
+\g go.out-ING-par.3sS
+\l S/he is (in the process of ) going out
+
+\t pisuttuq      (pisukAjuq)                                                                              Simple verb            perfective              atelic perfective      no
+\m pisuttuq      (pisukA-juq)                                                                              Simple verb            perfective              atelic perfective      no
+\g walk-par.3sS                                                                                             Complex verb           perfective              telic perfective       yes
+\l S/he is walking
+
+\t umimakhiuriaqtuqatigitqilimaiqtara
+\m umimak-hiu-riaqtu-qati-gi-tqi-limaiq-t-a-ra
+\g muskox-hunt-go.for-partner-have.as-again-will.no.more-DEC-IND-1SG.3SG
+\l I'll never go muskox hunting with him again.
+
+\t Jakup iglu sanavaa.
+\m Jak-up iglu sana-vaa.
+\g Jake-ERG house(ABS) build-IND.3SG/3SG
+\l Jake is building the house.
+
+\t anguti nirivuq
+\m anguti niri-vuq
+\g man(ABS) eat-IND.3SG
+\l the man is eating
+
+\t Suusan Taivitmik nagligusukpuq3
+\m Suusan Taivit-mik nagligusuk-puq3
+\g Susan David-acc love-3sg.intr.indic
+\l Susan loves David.
+
+\t Taivitmik Suusan nagligusukpuq
+\m Taivit-mik Suusan nagligusuk-puq
+\g David-acc Susan love-3sg.intr.indic
+\l Susan loves David.
+
+\t Taivitmik nagligusukpuq     Suusan
+\m Taivit-mik nagligusuk-puq     Suusan
+\g David-acc love-3sg.intr.indic Susan
+\l Susan loves David.
+
+\t nagligusukpuq      Taivitmik Suusan
+\m nagligusuk-puq      Taivit-mik Suusan
+\g love-3sg.intr.indic David-acc Susan
+\l Susan loves David.
+
+\t nagligusukpuq Suusan Taivitmik
+\m nagligusuk-puq Suusan Taivit-mik
+\g love-3sg.intr.indic Susan David-acc
+\l Susan loves David.
+
+\t Suusan nagligusukpuq Taivitmik
+\m Suusan nagligusuk-puq Taivit-mik
+\g Susan love-3sg.intr.indic David-acc
+\l Susan loves David.
+
+\t imatuaq
+\m ima-tuaq
+\g water-TUAQ
+\l The only one that is water.
+
+\t imainnaq
+\m ima-innaq
+\g water-INNAQ
+\l The one that is only water.
+
+\t imatuinnaq
+\m ima-tuinnaq
+\g water-TUINNAQ
+\l Only the one that is water
+
+\t umiatuaq
+\m umia-tuaq
+\g boat-TUAQ
+\l The only one that is a boat.
+
+\t umianginnaq5
+\m umia-nginnaq5
+\g boat-INNAQ
+\l The one that is only a boat.
+
+\t umiatuinnaq
+\m umia-tuinnaq
+\g boat-TUINNAQ
+\l Only the one that is a boat.
+
+\t isumattuatuq
+\m isuma-ttua-t-u-q
+\g think-TUAQ-DEC-INTR-3SG
+\l He/she is only thinking.
+
+\t isumainnatuq
+\m isuma-inna-t-u-q
+\g think-INNAQ-DEC-INTR-3SG
+\l He/she is only thinking.
+
+\t isumatuinnatuq
+\m isuma-tuinna-t-u-q
+\g think-TUINNAQ-DEC-INTR-3SG
+\l He/she is only thinking.
+
+\t tamarmi9 arnait     anijut
+\m tamar-mi9 arna-it     ani-j-u-t
+\g TAMA-3SG woman-PL leave-DEC-INTR-PL
+\l All the women left.
+
+\t tamarmi    anijut
+\m tamar-mi    ani-j-u-t
+\g TAMA-3SG leave-DEC-INTR-PL
+\l Everybody left.
+
+\t tamatta      anijugut
+\m tamat-ta      ani-j-u-gut
+\g TAMA-1PL leave-DEC-INTR-1PL
+\l All of us left.
+
+\t tamannuk anijuguk
+\m taman-nuk ani-j-u-guk
+\g TAMA-1DU leave-DEC-INTR-1DU
+\l Both of us left.
+
+\t tamassi      anigitti
+\m tamas-si      ani-g-itti
+\g TAMA-2PL leave-IMP-2PL
+\l All of you leave!
+
+\t tamarmi      anijut
+\m tamar-mi      ani-j-u-t
+\g TAMA-3.SG leave-DEC-INTR-PL/DU
+\l All of them left.
+
+\t tamarmik    anijut
+\m tamar-mi-k    ani-j-u-t
+\g TAMA-3-DU leave-DEC-INTR-PL/DU
+\l Both of them left.
+
+\t tamarmi       igluduaq miualauqtara
+\m tamar-mi       iglu-dua-q miua-lauq-t-a-ra
+\g TAMA-3SG house-big-SG paint-PAST-DEC-TR-1SG.3SG
+\l I painted all (of) the house.
+
+\t tamarmi        iglut    miualauqtakka
+\m tamar-mi        iglu-t    miua-lauq-t-a-kka
+\g TAMA-3SG house-PL paint-PAST-DEC-TR-1SG.3PL
+\l I painted all (of) the houses.
+
+\t ujaraliup10     tamarmi palisinit            arnaujut
+\m ujarali-up10     tamar-mi palisi-nit            arna-u-j-u-t
+\g ujaralik-GEN TAMA-3 police-3PL.ACC woman-COP-DEC-TR-PL
+\l All the police of U. are women.
+
+\t ujaraliup      tamarmi arnait                palisiujut
+\m ujarali-up      tamar-mi arna-it                palisi-u-j-u-t
+\g ujaralik-GEN TAMA-3 woman-3PL.ACC police-COP-DEC-TR-PL
+\l All the women of U. are police.
+
+\t ujaraliup palisinit        tamarmi11 arnaujut
+\m ujarali-up palisi-nit        tamar-mi11 arna-u-j-u-t
+\g ujaralik-GEN police-3PL.ACC TAMA-3 woman-COP-DEC-TR-PL
+\l All the police of U. are women.
+
+\t ujaraliup arnait           tamarmi qaatasuqtit
+\m ujarali-up arna-it           tamarmi qaatasuqti-t
+\g ujaralik-GEN woman-3PL.ACC TAMA-3 pilot-PL
+\l All the women of U. are pilots.
+
+\t ujaraliup palisinit    tamarmi qaatasuqtit
+\m ujarali-up palisi-nit    tamar-mi qaatasuqti-t
+\g ujaralik-GEN police-3PL.ACC TAMA-3 pilot-PL
+\l All the police of U. are pilots.
+
+\t autilimaat    iglumi     sanaqaujut
+\m auti-limaa-t    iglu-mi     sana-qau-j-u-t
+\g men-LIMAA-PL house-3.ACC make-PAST-DEC-INTR-PL
+\l All the men made a house.
+
+\t uqalimaakpaa
+\m uqa-limaak-p-a-a
+\g speak-LIMAA-IND13-TR-3SG.3SG
+\l He reads (it).
+
+\t inuusilimaaq
+\m inuusi-limaaq
+\g one's.life-LIMAAQ
+\l A whole life/lifetime.
+
+\t iglulimaaq        miualauqtara
+\m iglu-limaaq        miua-lauq-t-a-ra
+\g house-LIMAAQ paint-PAST-INC-TR-1SG.3SG
+\l I painted all (of) the house.
+
+\t aunasuktilimaat tunilauqtakka      qamutinik
+\m aunasukti-limaa-t tuni-lauq-t-a-kka      qamuti-nik
+\g hunter-LIMAA-PL give-PAST-DEC-TR-1SG.3PL sled-3PL.ACC
+\l I gave sleds to all the hunters.
+
+\t takujalimaakka
+\m taku-j-a-limaa-kka
+\g see-DEC-TR-LIMAA-1SG.3PL
+\l I saw everything/everyone/all.
+
+\t ujaraliup   arnalimaat          palisiujut.
+\m ujarali-up   arna-limaa-t          palisi-u-j-u-t.
+\g Ujaralik-GEN woman-LIMAA-PL police-COP-DEC-INTR-3PL
+\l All the women of Ujaralik are police-officers.
+
+\t ujaraliup     paliisilimaat       arnaujut.
+\m ujarali-up     paliisi-limaa-t       arna-u-j-u-t.
+\g Ujaralik-GEN police-LIMAA-PL woman-COP-DEC-INTR-3PL
+\l All the police-officers of Ujaralik are women.
+
+\t ujaraliup   arnalimaat          qaatasuuqtit
+\m ujarali-up   arna-limaa-t          qaata-suuq-ti-t
+\g Ujaralik-GEN woman-LIMAA-PL fly-one.who-agent-PL
+\l All the women of Ujaralik are pilots.
+
+\t Ujaraliup       paliisilimaat     qaatasuuqtit
+\m Ujaraliup       paliisi-limaa-t     qaata-suuq-ti-t
+\g Ujaralik-GEN police-LIMAA-PL fly-one.who-agent-PL
+\l All the police-officers of Ujaralik are pilots.
+
+\t palisilimaat      quqiqsalauqtut
+\m palisi-limaa-t      quqiqsa-lauq-t-u-t
+\g police-LIMAA-PL shoot-PAST-DEC-INTR-PL
+\l All the police were shooting.
+
+\t ilavut        kaktut
+\m ila-vut        kak-t-u-t
+\g ILA-1PL.GEN hunger-DEC-INTR-PL
+\l Some of us are hungry.
+
+\t ilait        kaktut
+\m ila-it        kak-t-u-t
+\g ILA-3PL.GEN hunger-DEC-INTR-PL
+\l Some of them are hungry.
+
+\t ujaraliup arnait         ilait        palisiujut
+\m ujaraliup arna-it         ila-it        palisi-u-j-u-t
+\g Ujaralik-GEN woman-PL.ACC ILA.3PL.GEN police-COP-DEC-INTR-PL
+\l Some of the women of Ujaralik are police.
+
+\t ujaraliup palisinit      ilait      arnaujut
+\m ujarali-up palisi-nit      ila-it      arna-u-j-u-t
+\g Ujaralik-GEN police-PL.ACC ILA.3PL.GEN woman-COP-DEC-INTR-PL
+\l Some of the police of Ujaralik are women.
+
+\t ujaraliup    arnait      ilait         qaatasuqtit
+\m ujaraliup    arna-it      ila-it         qaatasuqti-t
+\g Ujaralik-GEN woman-PL.ACC ILA.3PL.GEN pilot-PL
+\l Some of the women of Ujaralik are pilots.
+
+\t ujaraliup palisinit      ilait         qaatasuqtit
+\m ujarali-up palisi-nit      ila-it         qaatasuqti-t
+\g Ujaralik-GEN police-PL.ACC ILA.3PL.GEN pilot-PL
+\l Some of the police of Ujaralik are pilots.
+
+\t tuktuit   uvanit   takuqaujuit
+\m tuktu-it   uvanit   taku-qau-j-u-it
+\g caribou.PL 1SG.ACC see-PAST-DEC-INTR-PL
+\l (Some) caribou saw me.
+
+\t immumit        kuvisiqqaujunga
+\m immu-mit        kuvisiq-qau-j-u-nga
+\g milk.ACC.SG spill.PAST-DEC-INTR-1SG
+\l I spilt (some) milk.
+
+\t atunit          miuaqlugit
+\m atu-nit          miuaq-lu-git
+\g ATU-3PL.ACC paint-CONJ-3PL
+\l Paint each (of them).
+
+\t uqalimaagait atunit             titiqqaliit
+\m uqalimaaga-it atu-nit             titiqqa-li-it
+\g book-PL        ATU-3PL.ACC letter-which.has-PL
+\l Each of the books has letters in it.
+
+\t anijuinnait
+\m ani-j-u-inna-it
+\g leave-DEC-INTR-INNAQ-PL
+\l Everybody left.
+
+\t palisinit      arnainnait
+\m palisinit      arnainnait
+\g police-CASE woman-INNAQ-PL
+\l All the police officers are women.
+
+\t ippaksaq tapagijaqaqtuinnaulauqtut
+\m ippaksaq tapagijaqaq-tuinna-u-lauq-t-u-t
+\g yesterday tease-TUINNAQ-COP-PAST-DEC-INTR-PL
+\l Yesterday, everyone teased (someone).
+
+\t qamutiqaqtuinnauittugut
+\m qamuti-qaq-tuinna-u-it-t-u-gut
+\g sled-have-TUINNAQ-COP-NEG-DEC-INTR-1PL
+\l We don't all have sleds.
+
+\t Taqqialuup tuktu             takulaunngitta(ng)a15
+\m Taqqialu-up tuktu             taku-lau-nngit-t-a-(ng)a15
+\g T.-ERG       caribou(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l There is a (certain) caribou that Taqqialuk didn't see.
+
+\t angunasukti atautsiq anilaunngittuq
+\m angunasukti atautsiq ani-lau-nngit-t-u-q
+\g hunter(ABS) one(ABS) leave-past-neg-part-[-tr]-3sABS
+\l There is one (particular) hunter that didn't leave.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t Akittiq iqalungmik takunngittuq
+\m Akittiq iqalung-mik taku--nngit-t-u-q
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g  hunter-ERG       one-ERG     U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l No hunter saw Ulluriaq.
+
+\t ilinniarqtiup Maliktaq uqallaqatigilaunngitta(ng)a
+\m ilinniarqti-up Maliktaq uqallaqatigi-lau-nngit-t-a-(ng)a
+\g  student-ERG    M.(ABS) talk.with-past-neg-part-[+tr]-3sERG.3sABS
+\l No student talked with Maliktaq.
+
+\t una      kiisilauqtuq               uumia
+\m una      kiisi-lauq-t-u-q               uumia
+\g this.one bite-PAST-DEC-INTR-3SG this.one.ACC
+\l This one bit that one.
+
+\t palisinit      arnaujut.
+\m palisi-nit      arna-u-j-u-t.
+\g police-ACC.PL woman-COP-DEC-INTR-3PL
+\l The police-officers are women.
+
+\t savik    atutsiaqtuq
+\m savik    atu-tsiaq-tuq
+\g knife    useful-very-DEC-INTR-3.SG
+\l A certain knife is useful.
+
+\t saviit atutsiaqtuit
+\m savi-it atu-tsiaq-t-u-it
+\g knife-PL useful-very-DEC-INTR-3.PL
+\l Knives are useful.
+
+\t qimmiq niqimit nirisuuq.
+\m qimmiq niqi-mit niri-suu-q.
+\g dog     meat-ACC eat-one.who-3SG
+\l A (certain) dog eats meat.
+
+\t qimmiit niqimit nirisuut
+\m qimmi-it niqi-mit niri-suu-t
+\g dog-PL meat-ACC eat-one.who-3SG
+\l Dogs eat meat.
+
+\t Taqqialuup tuktu             takulaunngitta(ng)a24
+\m Taqqialu-up tuktu             taku-lau-nngit-t-a-(ng)a24
+\g T.-ERG       caribou(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l There is a (certain) caribou that Taqqialuk didn't see.
+
+\t angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g hunter-ERG         one-ERG U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l There is one hunter that didn't leave.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t Akittiq iqalungmik takunngittuq
+\m Akittiq iqalung-mik taku--nngit-t-u-q
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t paliisi arnauju(q)
+\m paliisi arna-u-j-u-(q)
+\g police woman-COP-DEC-INTR-3SG
+\l The police-officer is a woman.
+
+\t ilait         iqaluktusuuuittut
+\m ila-it         iqaluk-tu-suu-u-it-tut
+\g part-3PL.GEN fish-consume-one.who-COP-NEG-IND-INTR-3PL
+\l Some (people) don't eat fish.
+
+\t atausiuittuq
+\m atausi-u-it-t-u-q
+\g one-COP-NEG-IND-INTR-3SG
+\l There isn't one.
+
+\t qamutiqaqtuinnauittugut
+\m qamuti-qaq-tuinna-u-it-t-u-gut
+\g sled-have-TUINNAQ-COP-NEG-IND-INTR-1PL
+\l We don't all have sleds.
+
+\t Angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m Angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g hunter-ERG     one-ERG U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l No hunter saw Ulluriaq.
+
+\t Angunasukti atautsiq anilaunngittuq
+\m Angunasukti atautsiq ani-lau-nngit-t-u-q
+\g hunter(ABS) one(ABS) leave-past-neg-part-[-tr]-3sABS
+\l It is not the case that any hunter left.
+
+\t Akittiq iqalungmik takunngittuq
+\m Akittiq iqalung-mik taku--nngit-t-u-q
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t autilimaat    iglumi     sanaqaujut
+\m auti-limaa-t    iglu-mi     sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC.SG craft-PAST-IND-INTR-3PL
+\l All the men made a house.
+
+\t autilimaat    igluni    sanaqaujut
+\m auti-limaa-t    iglu-ni    sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC-PL craft-PAST-IND-INTR-3PL
+\l All the men made houses.
+
+\t tamarmi autit nanuualiuqqaujut
+\m tamar-mi auti-t nanu-ua-liuq-qau-j-u-t
+\g all-ACC man-PL polar.bear-pretend-make-PAST-IND-INTR-3PL
+\l All the men made a/some polar bear carving(s).
+
+\t autit qamutiliutuinnaqqaujut
+\m auti-t qamuti-liu-tuinnaq-qau-j-u-t
+\g man-PL sled-make-TUINNAQ-PAST-IND-INTR-3PL
+\l All the men made a sled/sleds.
+
+\t Angutiup nutaraq     takuvaa
+\m Anguti-up nutaraq     taku-v-a-a
+\g man-ERG child(ABS) see-ind-[+tr]-3sERG.3sABS
+\l The man sees/saw the child
+
+\t Petaup    anautaq      suraktaa
+\m Peta-up    anautaq      surak-taa
+\g Peter-ERG stick(ABS) break-PART.3SG/3SG
+\l Peter broke the stick
+
+\t takujara
+\m taku-j-a-ra
+\g see-DEC-TR-3SG.3SG
+\l He saw it.
+
+\t takujuq
+\m taku-j-u-q
+\g see-DEC-INTR-3SG
+\l He saw.
+
+\t Angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m Angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g hunter-ERG      one-ERG U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l There is one hunter who didn't see Ulluriaq.
+
+\t Angunasukti atautsiq anilaunngittuq
+\m Angunasukti atautsiq ani-lau-nngit-t-u-q
+\g hunter(ABS) one(ABS) leave-past-neg-part-[-tr]-3sABS
+\l There is one (particular) hunter that didn't leave.
+
+\t Akittiq iqalungmik takunngittuq                                  ~
+\m Akittiq iqalung-mik taku--nngit-t-u-q                                  ~
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t qamutiqaqtuinnauittugut
+\m qamuti-qaq-tuinna-u-it-t-u-gut
+\g sled-have-TUINNAQ-COP-NEG-IND-INTR-1PL
+\l We don't all have sleds.
+
+\t tamarmi autit nanuualiuqqaujut
+\m tamar-mi auti-t nanu-ua-liuq-qau-j-u-t
+\g all-ACC32 man-PL polar.bear-pretend-make-PAST-IND-INTR-3PL
+\l All the men made a/some polar bear carving(s).
+
+\t autit qamutiliutuinnaqqaujut
+\m auti-t qamuti-liu-tuinnaq-qau-j-u-t
+\g man-PL sled-make-TUINNAQ-PAST-IND-INTR-3PL
+\l All the men made a sled/sleds.
+
+\t autilimaat    iglumi          sanaqaujut
+\m auti-limaa-t    iglu-mi          sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC.SG craft-PAST-IND-INTR-3PL
+\l All the men made a (single) house.
+
+\t autilimaat    igluni    sanaqaujut
+\m auti-limaa-t    iglu-ni    sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC-PL craft-PAST-IND-INTR-3PL
+\l All the men made houses.
+
+\t Suusan Taivitmik nagligusukvuq
+\m Suusan Taivit-mik nagligusuk-vuq
+\g Susan David love-3sg.intr.indic.
+\l Susan loves David
+
+\t Piipi sunamik qukirsirqauvaa
+\m Piipi suna-mik qukir-sir-qau-vaa
+\g Phoebe what-acc shoot-ap-recpst-3sg.intr.interr.
+\l What did Phoebe hit?
+
+\t kina kisumik niuvirqauvaa
+\m kina kisu-mik niuvi-rqau-vaa
+\g who what-acc buy-pst-3sg.intr.interr.
+\l Who bought what?
+
+\t sunaturumavit?
+\m suna-tu-ruma-vit?
+\g what-eat/drink-want-2sg.interr
+\l What do you want to have?
+
+\t titurumavunga
+\m ti-tu-ruma-vunga
+\g tea-eat/drink-want-1sg.indic
+\l I want to have tea
+
+\t iqalumit Miali naksaqtuq
+\m iqalu-mit Miali naksaq-tuq
+\g fish-acc Mary brought-3sg.indic
+\l As for the fish, it was Mary who brought it
+
+\t kina takulaurpaa taiksuminga angummit?
+\m kina taku-laur-paa taiksuminga angu-mmit?
+\g who see-past-3sg.interr that man-abl
+\l Who saw that man?
+
+\t kina takulaurmat taiksuminga angummit?
+\m kina taku-laur-mat taiksuminga angu-mmit?
+\g who see-past-3sg.caus that man-abl
+\l Who (is it that) saw that man?
+
+\t kinamut Alana niuviqauvaa sunamit?
+\m kina-mut Alana niuvi-qau-vaa suna-mit?
+\g who-allat Alana buy-past-3sg.interr what-acc
+\l What did Alana buy for whom?
+
+\t Alana Marinamut kiik niuviqaujuq
+\m Alana Marina-mut kiik niuvi-qau-juq
+\g Alana Marina-allat cake buy-past-3sg.indic
+\l Alana bought Marina a cake
+
+\t Jakup iglu sanavaa.
+\m Jak-up iglu sana-vaa.
+\g Jake-ERG house(ABS) build-IND.3SG/3SG
+\l Jake is building the house.
+
+\t anguti nirivuq
+\m anguti niri-vuq
+\g man(ABS) eat-IND.3SG
+\l the man is eating
+
+\t Jake        sanavuq         iglumik.
+\m Jake        sana-vuq         iglu-mik.
+\g Jake(ABS) build-IND.3SG house-ACC
+\l Jake is building a house.'1
+
+\t iqaluktutuinnasuuujua
+\m iqaluk-tu-tuinna-suu-u-j-u-a
+\g fish-eat-only-one.who-COP-IND-INTR-1SG
+\l I only eat fish.'2
+
+\t Suusan Taivitmik nagligusukpuq3
+\m Suusan Taivit-mik nagligusuk-puq3
+\g Susan David-acc love-3sg.intr.indic
+\l Susan loves David.
+
+\t Taivitmik Suusan nagligusukpuq
+\m Taivit-mik Suusan nagligusuk-puq
+\g David-acc Susan love-3sg.intr.indic
+\l Susan loves David.
+
+\t Taivitmik nagligusukpuq     Suusan
+\m Taivit-mik nagligusuk-puq     Suusan
+\g David-acc love-3sg.intr.indic Susan
+\l Susan loves David.
+
+\t nagligusukpuq      Taivitmik Suusan
+\m nagligusuk-puq      Taivit-mik Suusan
+\g love-3sg.intr.indic David-acc Susan
+\l Susan loves David.
+
+\t nagligusukpuq Suusan Taivitmik
+\m nagligusuk-puq Suusan Taivit-mik
+\g love-3sg.intr.indic Susan David-acc
+\l Susan loves David.
+
+\t Suusan nagligusukpuq Taivitmik
+\m Suusan nagligusuk-puq Taivit-mik
+\g Susan love-3sg.intr.indic David-acc
+\l Susan loves David.
+
+\t imatuaq
+\m ima-tuaq
+\g water-TUAQ
+\l The only one that is water.
+
+\t imainnaq
+\m ima-innaq
+\g water-INNAQ
+\l The one that is only water.
+
+\t imatuinnaq
+\m ima-tuinnaq
+\g water-TUINNAQ
+\l Only the one that is water
+
+\t umiatuaq
+\m umia-tuaq
+\g boat-TUAQ
+\l The only one that is a boat.
+
+\t umianginnaq5
+\m umia-nginnaq5
+\g boat-INNAQ
+\l The one that is only a boat.
+
+\t umiatuinnaq
+\m umia-tuinnaq
+\g boat-TUINNAQ
+\l Only the one that is a boat.
+
+\t isumattuatuq
+\m isuma-ttua-t-u-q
+\g think-TUAQ-DEC-INTR-3SG
+\l He/she is only thinking.
+
+\t isumainnatuq
+\m isuma-inna-t-u-q
+\g think-INNAQ-DEC-INTR-3SG
+\l He/she is only thinking.
+
+\t isumatuinnatuq
+\m isuma-tuinna-t-u-q
+\g think-TUINNAQ-DEC-INTR-3SG
+\l He/she is only thinking.
+
+\t tamarmi9 arnait     anijut
+\m tamar-mi9 arna-it     ani-j-u-t
+\g TAMA-3SG woman-PL leave-DEC-INTR-PL
+\l All the women left.
+
+\t tamarmi    anijut
+\m tamar-mi    ani-j-u-t
+\g TAMA-3SG leave-DEC-INTR-PL
+\l Everybody left.
+
+\t tamatta      anijugut
+\m tamat-ta      ani-j-u-gut
+\g TAMA-1PL leave-DEC-INTR-1PL
+\l All of us left.
+
+\t tamannuk anijuguk
+\m taman-nuk ani-j-u-guk
+\g TAMA-1DU leave-DEC-INTR-1DU
+\l Both of us left.
+
+\t tamassi      anigitti
+\m tamas-si      ani-g-itti
+\g TAMA-2PL leave-IMP-2PL
+\l All of you leave!
+
+\t tamarmi      anijut
+\m tamar-mi      ani-j-u-t
+\g TAMA-3.SG leave-DEC-INTR-PL/DU
+\l All of them left.
+
+\t tamarmik    anijut
+\m tamar-mi-k    ani-j-u-t
+\g TAMA-3-DU leave-DEC-INTR-PL/DU
+\l Both of them left.
+
+\t tamarmi       igluduaq miualauqtara
+\m tamar-mi       iglu-dua-q miua-lauq-t-a-ra
+\g TAMA-3SG house-big-SG paint-PAST-DEC-TR-1SG.3SG
+\l I painted all (of) the house.
+
+\t tamarmi        iglut    miualauqtakka
+\m tamar-mi        iglu-t    miua-lauq-t-a-kka
+\g TAMA-3SG house-PL paint-PAST-DEC-TR-1SG.3PL
+\l I painted all (of) the houses.
+
+\t ujaraliup10     tamarmi palisinit            arnaujut
+\m ujarali-up10     tamar-mi palisi-nit            arna-u-j-u-t
+\g ujaralik-GEN TAMA-3 police-3PL.ACC woman-COP-DEC-TR-PL
+\l All the police of U. are women.
+
+\t ujaraliup      tamarmi arnait                palisiujut
+\m ujarali-up      tamar-mi arna-it                palisi-u-j-u-t
+\g ujaralik-GEN TAMA-3 woman-3PL.ACC police-COP-DEC-TR-PL
+\l All the women of U. are police.
+
+\t ujaraliup palisinit        tamarmi11 arnaujut
+\m ujarali-up palisi-nit        tamar-mi11 arna-u-j-u-t
+\g ujaralik-GEN police-3PL.ACC TAMA-3 woman-COP-DEC-TR-PL
+\l All the police of U. are women.
+
+\t ujaraliup arnait           tamarmi qaatasuqtit
+\m ujarali-up arna-it           tamarmi qaatasuqti-t
+\g ujaralik-GEN woman-3PL.ACC TAMA-3 pilot-PL
+\l All the women of U. are pilots.
+
+\t ujaraliup palisinit    tamarmi qaatasuqtit
+\m ujarali-up palisi-nit    tamar-mi qaatasuqti-t
+\g ujaralik-GEN police-3PL.ACC TAMA-3 pilot-PL
+\l All the police of U. are pilots.
+
+\t autilimaat    iglumi     sanaqaujut
+\m auti-limaa-t    iglu-mi     sana-qau-j-u-t
+\g men-LIMAA-PL house-3.ACC make-PAST-DEC-INTR-PL
+\l All the men made a house.
+
+\t uqalimaakpaa
+\m uqa-limaak-p-a-a
+\g speak-LIMAA-IND13-TR-3SG.3SG
+\l He reads (it).
+
+\t inuusilimaaq
+\m inuusi-limaaq
+\g one's.life-LIMAAQ
+\l A whole life/lifetime.
+
+\t iglulimaaq        miualauqtara
+\m iglu-limaaq        miua-lauq-t-a-ra
+\g house-LIMAAQ paint-PAST-INC-TR-1SG.3SG
+\l I painted all (of) the house.
+
+\t aunasuktilimaat tunilauqtakka      qamutinik
+\m aunasukti-limaa-t tuni-lauq-t-a-kka      qamuti-nik
+\g hunter-LIMAA-PL give-PAST-DEC-TR-1SG.3PL sled-3PL.ACC
+\l I gave sleds to all the hunters.
+
+\t takujalimaakka
+\m taku-j-a-limaa-kka
+\g see-DEC-TR-LIMAA-1SG.3PL
+\l I saw everything/everyone/all.
+
+\t ujaraliup   arnalimaat          palisiujut.
+\m ujarali-up   arna-limaa-t          palisi-u-j-u-t.
+\g Ujaralik-GEN woman-LIMAA-PL police-COP-DEC-INTR-3PL
+\l All the women of Ujaralik are police-officers.
+
+\t ujaraliup     paliisilimaat       arnaujut.
+\m ujarali-up     paliisi-limaa-t       arna-u-j-u-t.
+\g Ujaralik-GEN police-LIMAA-PL woman-COP-DEC-INTR-3PL
+\l All the police-officers of Ujaralik are women.
+
+\t ujaraliup   arnalimaat          qaatasuuqtit
+\m ujarali-up   arna-limaa-t          qaata-suuq-ti-t
+\g Ujaralik-GEN woman-LIMAA-PL fly-one.who-agent-PL
+\l All the women of Ujaralik are pilots.
+
+\t Ujaraliup       paliisilimaat     qaatasuuqtit
+\m Ujaraliup       paliisi-limaa-t     qaata-suuq-ti-t
+\g Ujaralik-GEN police-LIMAA-PL fly-one.who-agent-PL
+\l All the police-officers of Ujaralik are pilots.
+
+\t palisilimaat      quqiqsalauqtut
+\m palisi-limaa-t      quqiqsa-lauq-t-u-t
+\g police-LIMAA-PL shoot-PAST-DEC-INTR-PL
+\l All the police were shooting.
+
+\t ilait        inuit      iqalumi kisiani nirisuut
+\m ila-it        inu-it      iqalu-mi kisiani niri-suu-t
+\g ILA-3PL.GEN person-PL fish-ACC but            eat-one.who-PL
+\l Some people only eat fish.
+
+\t ilavut        kaktut
+\m ila-vut        kak-t-u-t
+\g ILA-1PL.GEN hunger-DEC-INTR-PL
+\l Some of us are hungry.
+
+\t ilait        kaktut
+\m ila-it        kak-t-u-t
+\g ILA-3PL.GEN hunger-DEC-INTR-PL
+\l Some of them are hungry.
+
+\t ujaraliup arnait         ilait        palisiujut
+\m ujaraliup arna-it         ila-it        palisi-u-j-u-t
+\g Ujaralik-GEN woman-PL.ACC ILA.3PL.GEN police-COP-DEC-INTR-PL
+\l Some of the women of Ujaralik are police.
+
+\t ujaraliup palisinit      ilait      arnaujut
+\m ujarali-up palisi-nit      ila-it      arna-u-j-u-t
+\g Ujaralik-GEN police-PL.ACC ILA.3PL.GEN woman-COP-DEC-INTR-PL
+\l Some of the police of Ujaralik are women.
+
+\t ujaraliup    arnait      ilait         qaatasuqtit
+\m ujaraliup    arna-it      ila-it         qaatasuqti-t
+\g Ujaralik-GEN woman-PL.ACC ILA.3PL.GEN pilot-PL
+\l Some of the women of Ujaralik are pilots.
+
+\t ujaraliup palisinit      ilait         qaatasuqtit
+\m ujarali-up palisi-nit      ila-it         qaatasuqti-t
+\g Ujaralik-GEN police-PL.ACC ILA.3PL.GEN pilot-PL
+\l Some of the police of Ujaralik are pilots.
+
+\t tuktuit   uvanit   takuqaujuit
+\m tuktu-it   uvanit   taku-qau-j-u-it
+\g caribou.PL 1SG.ACC see-PAST-DEC-INTR-PL
+\l (Some) caribou saw me.
+
+\t immumit        kuvisiqqaujunga
+\m immu-mit        kuvisiq-qau-j-u-nga
+\g milk.ACC.SG spill.PAST-DEC-INTR-1SG
+\l I spilt (some) milk.
+
+\t atunit          miuaqlugit
+\m atu-nit          miuaq-lu-git
+\g ATU-3PL.ACC paint-CONJ-3PL
+\l Paint each (of them).
+
+\t uqalimaagait atunit             titiqqaliit
+\m uqalimaaga-it atu-nit             titiqqa-li-it
+\g book-PL        ATU-3PL.ACC letter-which.has-PL
+\l Each of the books has letters in it.
+
+\t anijuinnait
+\m ani-j-u-inna-it
+\g leave-DEC-INTR-INNAQ-PL
+\l Everybody left.
+
+\t palisinit      arnainnait
+\m palisinit      arnainnait
+\g police-CASE woman-INNAQ-PL
+\l All the police officers are women.
+
+\t ippaksaq tapagijaqaqtuinnaulauqtut
+\m ippaksaq tapagijaqaq-tuinna-u-lauq-t-u-t
+\g yesterday tease-TUINNAQ-COP-PAST-DEC-INTR-PL
+\l Yesterday, everyone teased (someone).
+
+\t qamutiqaqtuinnauittugut
+\m qamuti-qaq-tuinna-u-it-t-u-gut
+\g sled-have-TUINNAQ-COP-NEG-DEC-INTR-1PL
+\l We don't all have sleds.
+
+\t Bill iqalumi niriinnaujaqtu(q)       unnukku(t)
+\m Bill iqalu-mi niri-inna-u-jaq-t-u-(q)       unnuk-ku(t)
+\g B.fish.ACC eat-INNAQ-COP-FUT-DEC-INTR-3.SG evening-VIAL
+\l Bill will always eat fish in the evening.
+
+\t Taqqialuup tuktu             takulaunngitta(ng)a15
+\m Taqqialu-up tuktu             taku-lau-nngit-t-a-(ng)a15
+\g T.-ERG       caribou(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l Taqqialuk didn't see a (single) caribou.
+
+\t angunasukti atautsiq anilaunngittuq
+\m angunasukti atautsiq ani-lau-nngit-t-u-q
+\g hunter(ABS) one(ABS) leave-past-neg-part-[-tr]-3sABS
+\l It is not the case that any hunter left.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t Akittiq iqalungmik takunngittuq
+\m Akittiq iqalung-mik taku--nngit-t-u-q
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g  hunter-ERG       one-ERG     U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l No hunter saw Ulluriaq.
+
+\t ilinniarqtiup Maliktaq uqallaqatigilaunngitta(ng)a
+\m ilinniarqti-up Maliktaq uqallaqatigi-lau-nngit-t-a-(ng)a
+\g  student-ERG    M.(ABS) talk.with-past-neg-part-[+tr]-3sERG.3sABS
+\l No student talked with Maliktaq.
+
+\t una      kiisilauqtuq               uumia
+\m una      kiisi-lauq-t-u-q               uumia
+\g this.one bite-PAST-DEC-INTR-3SG this.one.ACC
+\l This one bit that one.
+
+\t palisinit      arnaujut.
+\m palisi-nit      arna-u-j-u-t.
+\g police-ACC.PL woman-COP-DEC-INTR-3PL
+\l The police-officers are women.
+
+\t savik    atutsiaqtuq
+\m savik    atu-tsiaq-tuq
+\g knife    useful-very-DEC-INTR-3.SG
+\l A certain knife is useful.
+
+\t saviit atutsiaqtuit
+\m savi-it atu-tsiaq-t-u-it
+\g knife-PL useful-very-DEC-INTR-3.PL
+\l Knives are useful.
+
+\t qimmiq niqimit nirisuuq.
+\m qimmiq niqi-mit niri-suu-q.
+\g dog     meat-ACC eat-one.who-3SG
+\l A (certain) dog eats meat.
+
+\t qimmiit niqimit nirisuut
+\m qimmi-it niqi-mit niri-suu-t
+\g dog-PL meat-ACC eat-one.who-3SG
+\l Dogs eat meat.
+
+\t Taqqialuup tuktu             takulaunngitta(ng)a24
+\m Taqqialu-up tuktu             taku-lau-nngit-t-a-(ng)a24
+\g T.-ERG       caribou(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l Taqqialuk didn't see a (single) caribou.
+
+\t angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g hunter-ERG         one-ERG U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l It is not the case that any hunter left.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t Akittiq iqalungmik takunngittuq
+\m Akittiq iqalung-mik taku--nngit-t-u-q
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t paliisi arnauju(q)
+\m paliisi arna-u-j-u-(q)
+\g police woman-COP-DEC-INTR-3SG
+\l The police-officer is a woman.
+
+\t ilait         iqaluktusuuuittut
+\m ila-it         iqaluk-tu-suu-u-it-tut
+\g part-3PL.GEN fish-consume-one.who-COP-NEG-IND-INTR-3PL
+\l Some (people) don't eat fish.
+
+\t atausiuittuq
+\m atausi-u-it-t-u-q
+\g one-COP-NEG-IND-INTR-3SG
+\l There isn't one.
+
+\t qamutiqaqtuinnauittugut
+\m qamuti-qaq-tuinna-u-it-t-u-gut
+\g sled-have-TUINNAQ-COP-NEG-IND-INTR-1PL
+\l We don't all have sleds.
+
+\t Angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m Angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g hunter-ERG     one-ERG U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l No hunter saw Ulluriaq.
+
+\t Angunasukti atautsiq anilaunngittuq
+\m Angunasukti atautsiq ani-lau-nngit-t-u-q
+\g hunter(ABS) one(ABS) leave-past-neg-part-[-tr]-3sABS
+\l It is not the case that any hunter left.
+
+\t Akittiq iqalungmik takunngittuq
+\m Akittiq iqalung-mik taku--nngit-t-u-q
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t autilimaat    iglumi     sanaqaujut
+\m auti-limaa-t    iglu-mi     sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC.SG craft-PAST-IND-INTR-3PL
+\l All the men made a house.
+
+\t autilimaat    igluni    sanaqaujut
+\m auti-limaa-t    iglu-ni    sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC-PL craft-PAST-IND-INTR-3PL
+\l All the men made houses.
+
+\t tamarmi autit nanuualiuqqaujut
+\m tamar-mi auti-t nanu-ua-liuq-qau-j-u-t
+\g all-ACC man-PL polar.bear-pretend-make-PAST-IND-INTR-3PL
+\l All the men made a/some polar bear carving(s).
+
+\t autit qamutiliutuinnaqqaujut
+\m auti-t qamuti-liu-tuinnaq-qau-j-u-t
+\g man-PL sled-make-TUINNAQ-PAST-IND-INTR-3PL
+\l All the men made a sled/sleds.
+
+\t Angutiup nutaraq     takuvaa
+\m Anguti-up nutaraq     taku-v-a-a
+\g man-ERG child(ABS) see-ind-[+tr]-3sERG.3sABS
+\l The man sees/saw the child
+
+\t Petaup    anautaq      suraktaa
+\m Peta-up    anautaq      surak-taa
+\g Peter-ERG stick(ABS) break-PART.3SG/3SG
+\l Peter broke the stick
+
+\t takujara
+\m taku-j-a-ra
+\g see-DEC-TR-3SG.3SG
+\l He saw it.
+
+\t takujuq
+\m taku-j-u-q
+\g see-DEC-INTR-3SG
+\l He saw.
+
+\t Angunasuktiup atautsiup Ulluriaq takulaunngitta(ng)a
+\m Angunasukti-up atautsi-up Ulluriaq taku-lau-nngit-t-a-(ng)a
+\g hunter-ERG      one-ERG U.(ABS) see-past-neg-part-[+tr]-3sERG.3sABS
+\l No hunter saw Ulluriaq.
+
+\t Angunasukti atautsiq anilaunngittuq
+\m Angunasukti atautsiq ani-lau-nngit-t-u-q
+\g hunter(ABS) one(ABS) leave-past-neg-part-[-tr]-3sABS
+\l It is not the case that any hunter left.
+
+\t Akittiq iqalungmik takunngittuq                                  ~
+\m Akittiq iqalung-mik taku--nngit-t-u-q                                  ~
+\g A.(ABS) fish-MOD see-AP-neg-part-[-tr]-3sABS
+\l Akittiq didn't/doesn't see (even) a single fish.
+
+\t Ulluriaq iqaluktunngittuq
+\m Ulluriaq iqaluk-tu-nngit-t-u-q
+\g U.(ABS) fish-TUQ-neg-part-[-tr]-3sABS
+\l Ulluriaq didn't eat a (single) fish.
+
+\t qamutiqaqtuinnauittugut
+\m qamuti-qaq-tuinna-u-it-t-u-gut
+\g sled-have-TUINNAQ-COP-NEG-IND-INTR-1PL
+\l We don't all have sleds.
+
+\t tamarmi autit nanuualiuqqaujut
+\m tamar-mi auti-t nanu-ua-liuq-qau-j-u-t
+\g all-ACC32 man-PL polar.bear-pretend-make-PAST-IND-INTR-3PL
+\l All the men made a/some polar bear carving(s).
+
+\t autit qamutiliutuinnaqqaujut
+\m auti-t qamuti-liu-tuinnaq-qau-j-u-t
+\g man-PL sled-make-TUINNAQ-PAST-IND-INTR-3PL
+\l All the men made a sled/sleds.
+
+\t autilimaat    iglumi          sanaqaujut
+\m auti-limaa-t    iglu-mi          sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC.SG craft-PAST-IND-INTR-3PL
+\l All the men made a (single) house.
+
+\t autilimaat    igluni    sanaqaujut
+\m auti-limaa-t    iglu-ni    sana-qau-j-u-t
+\g man-LIMAA-PL house-ACC-PL craft-PAST-IND-INTR-3PL
+\l All the men made houses.
+
+\t ilinniaqtiujuq2
+\m ilinniaqti-u--juq2
+\g student-be--part.3sg
+\l He is a student
+
+\t mumiqtuq
+\m mumiq--tuq
+\g dance--part.3sg
+\l He is dancing
+
+\t qimirmut igluliuqtuq
+\m qimir-mut iglu-liuq--tuq
+\g dog-DAT house-make--part.3sg
+\l He is building a dog house
+
+\t tikittuq
+\m tikit--tuq
+\g arrive--part.3sg
+\l He just arrived
+
+\t imaaqtuq
+\m imaaq--tuq
+\g fall.in.the.water--part.3sg
+\l He just fell down into the water
+
+\t tikituq         ippaksaq
+\m tiki--tuq         ippaksaq
+\g  arrive--part.3sg yesterday
+\l He arrived yesterday
+
+\t tikilauqtuq ippaksaq
+\m tiki-lauq-tuq ippaksaq
+\g arrive-part.3sg yesterday
+\l He arrived yesterday
+
+\t tikiqqaujuq        ulluuk
+\m tiki-qqau-juq        ulluuk
+\g arrive-past-part.3sg this morning
+\l He arrived this morning
+
+\t tikituq         ulluuk
+\m tiki--tuq         ulluuk
+\g  arrive--part.3sg this morning
+\l He arrived this morning
+
+\t jaan mumilauqtuq ippaksaq
+\m jaan mumi-lauq-tuq ippaksaq
+\g John dance-lauq-part.3s yesterday
+\l John danced yesterday
+
+\t jaan mumiqtuq ippaksaq
+\m jaan mumiq--tuq ippaksaq
+\g  John dance--part.3s yesterday
+\l John danced yesterday
+
+\t jaan ilinniaqtiulauqtuq 1990mit
+\m jaan ilinniaqti-u-lauq-tuq 1990-mit
+\g  student-be-lauq-part.3s 1990-in
+\l John was a student in 1990
+
+\t jaan ilinniaqtiujuq      1990mit
+\m jaan ilinniaqti-u--juq      1990-mit
+\g  John student-be--part.3s 1990-in
+\l John was a student in 1990
+
+\t qimirmut igluliuqlauqtuq
+\m qimir-mut iglu-liuq-lauq-tuq
+\g dog-DAT house-make-lauq-part.3sg
+\l He is building a dog house
+
+\t qimirmut igluliuqtuq
+\m qimir-mut iglu-liuq--tuq
+\g dog-DAT house-make--part.3sg
+\l He is building a dog house
+
+\t jaan niritillugu      miali uqalimaalauqtuq
+\m jaan niri--tillugu      miali uqalimaa-lauq-tuq
+\g John eat-PRES-CONT.3s Mary read-PAST-part.3sg
+\l When John was eating Mary was reading
+
+\t miali mumilaungittillugu    niriqqaujuq
+\m miali mumi-lau-ngit-tillugu    niri-qqau-juq
+\g Mary dance-PAST-NEG-CONT.3s eat-PAST-part.3sg
+\l Before Mary danced, she ate.
+
+\t miali mumianiktillugu      nirilauqtuq
+\m miali mumi-anik--tillugu      niri-lauq-tuq
+\g dance-PERF-PRES.CONT.3s eat-PAST-part.3sg
+\l After Mary danced, she ate.
+
+\t angutiup arnaq       kuniktaa
+\m anguti-up arnaq       kunik-taa
+\g man-ERG woman(abs) kiss-part.3sg/3sg
+\l The man kissed the woman
+
+\t anguti     nirivuq
+\m anguti     niri-vuq
+\g man(abs) eat-ind.3sg
+\l The man is eating.
+
+\t anguti    kuniksivuq    arnamik
+\m anguti    kunik-si-vuq    arna-mik
+\g man(abs) kiss-AP-ind.3sg woman-acc
+\l The man is kissing a woman.
+
+\t anguti     nirivuq niqimik
+\m anguti     niri-vuq niqi-mik
+\g man(abs) eat-ind.3sg meat-mik
+\l The man is eating meat.
+
+\t Peter quqirsijuq nanurnit
+\m Peter quqir-si-juq nanur-nit
+\g Peter(abs) shoot-AP-part.3sg.bear-acc.pl
+\l Peter is shooting at bears
+
+\t Peter quqirsiqqaujuq nanurnit
+\m Peter quqir-si-qqau-juq nanur-nit
+\g Peter(abs) shoot-AP-PAST-part.3sg bear-acc.pl
+\l Peter shot at bears today.
+
+\t Peter suraksijuq naalautimit
+\m Peter surak-si-juq naalauti-mit
+\g Peter break-AP-part.3sg radio-acc
+\l Peter is damaging the radio.
+
+\t Peter suraksiqqaujuq naalautimit
+\m Peter surak-si-qqau-juq naalauti-mit
+\g Peter(ABS) break-AP-PAST-part.3sg radio-acc
+\l Peter damaged the radio today.
+
+\t angut?anijuq
+\m angut-?anijuq
+\g man-ABS went out
+\l The man went out
+
+\t arnaup    angut?kunigaa
+\m arna-up    angut-?kunigaa
+\g woman-ERG man-ABS kissed
+\l The woman kissed the man
+
+\t Jaaniup nasaa
+\m Jaani-up nasaa
+\g John-ERG hat
+\l John's hat
+
+\t kapijaq
+\m kapi-jaq
+\g stab-NOM
+\l the stabbed one
+
+\t angutiup       kapijaa
+\m anguti-up       kapi-ja-a
+\g man-ERG/GEN stab-NOM-3s
+\l the man's stabbed one
+
+\t Jaaniø            tikilirtuq.
+\m Jaani-ø            tikilir-tuq.
+\g      Jaani-ABS arrive-PART.3SG
+\l Jaani arrives
+
+\t Jaaniup illuø               takuvaa.
+\m Jaani-up illu-ø               taku-vaa.
+\g Jaani-ERG house-ABS see-INDIC.3SG.3SG
+\l Jaani saw the house
+
+\t angutiup Jaaniø aitupaa                       illumik.
+\m anguti-up Jaani-ø aitu-paa                       illu-mik.
+\g  man-ERG Jaani-ABS give-INDIC.3SG.3SG house-SECONDARY
+\l A man gave Jaani a house
+
+\t Miiqqat [Juuna ikiussa llugu]         niriursuipp ut.
+\m Miiqqat [Juuna ikiu-ssa- llu-gu]         niriursui-pp- u-t.
+\g children Juuna help-FUT- INF-3SG         promise-IND- INTR-3PL
+\l The children promised to help Juuna.
+
+\t Miiqqat [qitissa llutik]              niriursuipp ut.
+\m Miiqqat [qiti-ssa- llu-tik]              niriursui-pp- u-t.
+\g children dance-FUT- INF-REFL.PL          promise-IND- INTR-3PL
+\l The children promised to dance.
+
+\t nanuq       [Piitap       tuquta  a]
+\m nanuq       [Piita-p       tuqu-ta-  a]
+\g polar.bear Peter-ERG kill-TR.PART- 3SG
+\l a polar bear that Peter killed
+
+\t miiraq      [kamattu            q]
+\m miiraq      [kamat-tu-            q]
+\g child.ABS angry-REL.INTR- SG
+\l the child who is angry
+
+\t angut      [aallaat    tigusima saa]
+\m angut      [aallaat    tigu-sima- sa-a]
+\g  man.ABS gun.ABS take-PRF- REL.TR-3SG
+\l the man who took the gun
+
+\t a. illumi miiraq ataasiq qianngulaq
+\m a. illumi miiraq ataasiq qia-nngu-la-q
+\g today child one cry-not-IND-3SG
+\l One child did not cry today
+
+\t  illumi atuartu ataatsip Juuna uqalugatiginngilaa
+\m  illumi atuartu ataatsi-p Juuna uqalugatigi-nngi-la-a
+\g today student-ERG one-ERG Juuna talk.to-not-IND-3SG.3SG
+\l No student talked to Juuna today
+
+\t a. angut        qungujuppuq
+\m a. angut        qungujup-p-u-q
+\g  man-Nom smile-Ind-[-tr]-3sg
+\l The man smiled
+
+\t b. (uanga)     qungujuppunga
+\m b. (uanga)     qungujup-p-u-nga
+\g  me-Nom smile-Ind-[-tr]-1sg
+\l I smiled
+
+\t c. angutip (uanga)      urnippaanga
+\m c. anguti-p (uanga)      urnip-p-a-a-nga
+\g  man-Erg me-Nom approach-Ind-[+tr]-3sg-1sg
+\l The man approached me
+
+\t Angut    arnamik     kuniksijuq
+\m Angut    arna-mik     kunik-si-juq
+\g man.A BS woman.ACC kiss-A N T IP A SS-IN TR.3SG
+\l The man kissed the woman
+
+\t Angut    arnaup         kunigaa.
+\m Angut    arna-up         kuni-ga-a.
+\g man.A BS woman.ERG/GEN kiss-P A SS-3SG.
+\l The woman kissed the man
+

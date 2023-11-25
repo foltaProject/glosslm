@@ -1,0 +1,35 @@
+\t rionti    tawasin         Tanana.
+\m rio-n-ti    t-awasi-n         Tana-na.
+\g find-PST-3S the-searchers-NOM Tana-ACC
+\l The searchers found Tana.
+
+\t balunti    tawasin           Tanana rion.
+\m balu-n-ti    t-awasi-n           Tana-na rio-n.
+\g must-PST-3S the-searchers-NOM Tana-ACC find-INF
+\l The searchers had to find Tana.
+
+\t tawasin          rionse    Tanana.
+\m t-awasi-n          rio-n-se    Tana-na.
+\g the-searchers-NOM find-PST-3PL Tana-ACC
+\l The searchers found Tana.
+
+\t duripunse      ittial rionti    tawasin        Tanana.
+\m durip-un-se      itti-al rio-n-ti    t-awasi-n        Tana-na.
+\g claimed-PST-3PL that-it find-PST-3S the-searchers-NOM Tana-ACC
+\l They claimed that the searchers found Tana.
+
+\t duripunse      itti tawasin          rionse   Tanana.
+\m durip-un-se      itti t-awasi-n          rio-n-se   Tana-na.
+\g claimed-PST-3PL that the-searchers-NOM find-PST-3PL Tana-ACC
+\l They claimed that the searchers found Tana.
+
+\t li sosinti  tsi Tanana?
+\m li sosi-n-ti  tsi Tana-na?
+\g Q see-PST-3S you Tana
+\l Did you see Tana?
+
+\t li sosinit  Tanana?
+\m li sosi-n-it  Tana-na?
+\g Q see-PST-2S Tana
+\l Did you see Tana?
+

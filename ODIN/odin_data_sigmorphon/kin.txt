@@ -1,0 +1,580 @@
+\t Umugóre arásomera             umuhuûngu igitabo.
+\m Umugóre a-rá-som-er-a             umuhuûngu igitabo.
+\g woman    SP-PRES-read-APPL-ASP boy          book
+\l The woman is reading a book for the boy.
+
+\t Umukoôbwa araandikirwa               t     íbárúwa n'ûmuhuûngu.
+\m Umukoôbwa a-ra-andik-ir-w-a               t     íbárúwa n'ûmuhuûngu.
+\g girl           SP-PRES-write-APPL-PASS-ASP letter           by boy
+\l The girl is having the letter written for her by the boy.
+
+\t Íbárúwa iraandikirwa                   umukoôbwa t n'ûmuhuûngu.
+\m Íbárúwa i-ra-andik-ir-w-a                   umukoôbwa t n'ûmuhuûngu.
+\g letter     SP-PRES-write-APPL-PASS-ASP girl             by boy
+\l The letter is written for the girl by the boy.
+
+\t Umuhuungu kisoma igitabo.
+\m Umuhuungu ki-som-a igitabo.
+\g  1.boy           1.TOP-PRES-read-ASP 7.book
+\l The boy is reading the book.
+
+\t Igitabo      kisoma            umuhuungu.
+\m Igitabo      ki-som-a            umuhuungu.
+\g  7.book      7.TOP-read-ASP      1.boy
+\l The book is being read by the boy.
+
+\t Umuhuuflngu a(ra)soma          igitabo.
+\m Umuhuuflngu a-(ra)-som-a          igitabo.
+\g boy.1          1-(AF)-read-IMPF book.7
+\l The boy is reading the book.
+
+\t Igitabo kisoma        umuhuuflngu.
+\m Igitabo ki-som-a        umuhuuflngu.
+\g book.7 7-read-IMPF boy.1
+\l It is the boy who is reading the book.
+
+\t Umuhuuflngu arasoma            igitabo.              S sV O
+\m Umuhuuflngu a-ra-som-a            igitabo.              S s-V O
+\g boy.1          1-AF-read-IMPF book.7
+\l The boy is reading the book.
+
+\t Igitabo kisoma        umuhuuflngu.                    O oV S
+\m Igitabo ki-som-a        umuhuuflngu.                    O o-V S
+\g book.7 7-read-IMPF boy.1
+\l It is the boy who is reading the book.
+
+\t Umugabo arásomera umugóre.
+\m Umugabo a-rá-som-er-a umugóre.
+\g Man      SP-pres-read-appl-asp woman
+\l The man is reading for the woman.
+
+\t ábáana      biicayého                   uburiri
+\m ábá-ana      b-iica-yé-ho                   ubu-riri
+\g DEF:HUM.PL-child HUM.P L.SBJ-sit-PF-APPL.LOC       DEF:CL.14-table
+\l The children are sitting on the table.
+
+\t a. Umugóre ara andikiish a                   íbarúwa íkarámu.
+\m a. Umugóre a-ra- andik-iish- a                   íbarúwa íkarámu.
+\g      woman she-PRES-write- INSTR-ASP letter pen
+\l The woman     is writing a letter with a pen.
+
+\t b. Umwáalímu     arasomeesha                abányéeshuúri ibitabo.
+\m b. Umwáalímu     a-ra-som-eesh-a                abányéeshuúri ibitabo.
+\g     teacher        he-PRES- read-CAUS-ASP students           books
+\l The teacher   is making the students read books.
+
+\t (4.34)a. Umukoôbwa arasoma                  igitabo.
+\m (4.34)a. Umukoôbwa a-ra-som-a                  igitabo.
+\g          girl            1-PRES-read-MOOD book
+\l The girl is reading a book.
+
+\t Umukoôbwa arasomera                     umuhuûngu igitabo.
+\m Umukoôbwa a-ra-som-er-a                     umuhuûngu igitabo.
+\g girl           1-PRES-read-APPL-MOOD boy               book
+\l The girl is reading the boy a book.
+
+\t (4.35)a. Umugóre aráhéera                    umugabo ímbwa ibíryo.
+\m (4.35)a. Umugóre a-rá-hé-er-a                    umugabo ímbwa ibíryo.
+\g          woman 1-PRES-give-APPL-MOOD man                   dog     food
+\l The woman is giving food to the dog for the man.
+
+\t Ibíryo biráhéerwa                      umugabo ímbwa n'ûmugóre.
+\m Ibíryo bi-rá-hé-er-w-a                      umugabo ímbwa n'ûmugóre.
+\g food 8-PRES-give-APPL-PASS-MOOD man                    dog by woman
+\l The food is being given to the dog for the man by the woman.
+
+\t Ímbwa iráhéerwa                         umugabo ibíryo n'ûmugóre.
+\m Ímbwa i-rá-hé-er-w-a                         umugabo ibíryo n'ûmugóre.
+\g dog      4-PRES-give-APPL-PASS-MOOD man                 food by woman
+\l The dog is being given food for the man by the woman.
+
+\t Umugabo aráhéerwa                          ímbwa ibíryo n'ûmugóre.
+\m Umugabo a-rá-hé-er-w-a                          ímbwa ibíryo n'ûmugóre.
+\g man        1-PRES-give-APPL-PASS-MOOD dog food by woman
+\l The man benefits from the woman giving food to the dog.
+
+\t (4.36)a. Úmwáana      yaanditse          izíná rye      mu igitabo cy'ûmugabo.
+\m (4.36)a. Úmwáana      y-a-andits-e          izíná rye      mu igitabo cy'ûmugabo.
+\g          child        1-PAST-write-MOOD name of.him        in book of man
+\l The child   wrote his name in the man's book.
+
+\t Úmwáana       yaandikiyémo                   umugabo igitabo izíná rye.
+\m Úmwáana       y-a-andik-i-yé-mo                   umugabo igitabo izíná rye.
+\g child         1-PAST-write-APPL-MOOD-LOC          man     book name of.him
+\l The child   wrote in the man's book his name.
+
+\t Umukoôbw a araandikirwa                           íbárúwa    n'ûmuhuûngu.
+\m Umukoôbw a a-ra-andik-ir-w-a                           íbárúwa    n'ûmuhuûngu.
+\g girl              SP-P RES-write-APP L-PASS-ASP letter           by boy
+\l The girl is having the letter written for her by the boy
+
+\t Íbárúwa       iraandikirwa               umukoôbwa          n'ûmuhuûngu.
+\m Íbárúwa       i-ra-andik-ir-w-a               umukoôbwa          n'ûmuhuûngu.
+\g letter        SP-P RES-write-APP L-PASS-ASP girl                 by boy
+\l The letter is written for the girl by the boy
+
+\t Ishuûri ryooherejwého               igitabo n'úúmwáalímu.
+\m Ishuûri ry-oohere-j-w-é-ho               igitabo n'úúmwáalímu.
+\g school SP-send-ASP-PASS-ASP-LOC book by teacher
+\l The school was sent the book by the teacher
+
+\t Igit abo  cyooherejwého               ishuûri n'úúmwáalímu.
+\m Igit abo  cy-oohere-j-w-é-ho               ishuûri n'úúmwáalímu.
+\g book       SP-send-ASP-PASS-ASP-LOC school by teacher
+\l The book was sent to school by the teacher.
+
+\t Umugóre arámuheerai                    ímbwa ibíryo.
+\m Umugóre a-rá-mu-he-er-ai                    ímbwa ibíryo.
+\g woman     SP-P RES-OP-give-APP L-ASP dog        food
+\l The woman is giving food to the dog for him
+
+\t Umugóre arábiheera                     umugabo      ímbwa.
+\m Umugóre a-rá-bi-he-er-a                     umugabo      ímbwa.
+\g woman     SP-P RES-OP-give-APP L-ASP man                dog
+\l The woman is giving it to the dog for the man
+
+\t Úmwáalímu       yaryooherejého       igitabo.
+\m Úmwáalímu       y-a-ry-oohere-jé-ho       igitabo.
+\g teacher         SP-PAST-OP-send-ASP-LOC book
+\l The teacher sent the book to it
+
+\t Úmw áalímu yacyooherejého           ishuûri.
+\m Úmw áalímu y-a-cy-oohere-jé-ho           ishuûri.
+\g teacher         SP-PAST-OP-send-ASP-LOC school
+\l The teacher sent it to school
+
+\t ndashaka          kuvúgana        na    [direkteri ubwe]
+\m nda-shaka          ku-vúga-na        na    [direkteri ub-we]
+\g  1SG.PRES-want INF-speak-SOC with director SELF-3POSS
+\l I want to talk to the director himself.
+
+\t devoirs        árazíikórera
+\m devoirs        á-ra-z-íi-kór-er-a
+\g  homework 3SG-PRES-OBJ-REFL-do-APPL-IMPF
+\l He does his homework himself.
+
+\t Umukoôbw a araandikirwa                           íbárúwa    n'ûmuhuûngu.
+\m Umukoôbw a a-ra-andik-ir-w-a                           íbárúwa    n'ûmuhuûngu.
+\g girl              SP-P RES-write-APP L-PASS-ASP letter           by boy
+\l The girl is having the letter written for her by the boy
+
+\t Íbárúwa       iraandikirwa               umukoôbwa          n'ûmuhuûngu.
+\m Íbárúwa       i-ra-andik-ir-w-a               umukoôbwa          n'ûmuhuûngu.
+\g letter        SP-P RES-write-APP L-PASS-ASP girl                 by boy
+\l The letter is written for the girl by the boy
+
+\t Ishuûri ryooherejwého               igitabo n'úúmwáalímu.
+\m Ishuûri ry-oohere-j-w-é-ho               igitabo n'úúmwáalímu.
+\g school SP-send-ASP-PASS-ASP-LOC book by teacher
+\l The school was sent the book by the teacher
+
+\t Igit abo  cyooherejwého               ishuûri n'úúmwáalímu.
+\m Igit abo  cy-oohere-j-w-é-ho               ishuûri n'úúmwáalímu.
+\g book       SP-send-ASP-PASS-ASP-LOC school by teacher
+\l The book was sent to school by the teacher.
+
+\t Umugóre arámuheerai                    ímbwa ibíryo.
+\m Umugóre a-rá-mu-he-er-ai                    ímbwa ibíryo.
+\g woman     SP-P RES-OP-give-APP L-ASP dog        food
+\l The woman is giving food to the dog for him
+
+\t Umugóre arábiheera                     umugabo      ímbwa.
+\m Umugóre a-rá-bi-he-er-a                     umugabo      ímbwa.
+\g woman     SP-P RES-OP-give-APP L-ASP man                dog
+\l The woman is giving it to the dog for the man
+
+\t Úmwáalímu       yaryooherejého       igitabo.
+\m Úmwáalímu       y-a-ry-oohere-jé-ho       igitabo.
+\g teacher         SP-PAST-OP-send-ASP-LOC book
+\l The teacher sent the book to it
+
+\t Úmw áalímu yacyooherejého           ishuûri.
+\m Úmw áalímu y-a-cy-oohere-jé-ho           ishuûri.
+\g teacher         SP-PAST-OP-send-ASP-LOC school
+\l The teacher sent it to school
+
+\t Umug~re. ar            lereka     _b_ana amashusho.
+\m Umug~re. a-r-            lerek-a     _b_ana amashusho.
+\g woman she-PRES- show-ASP children pictures
+\l The woman is showing the children pictures.
+
+\t Ab_ana bar            lerekw      a    amashusho n'mug~re.
+\m Ab_ana ba-r-            lerek-w-      a    amashusho n'mug~re.
+\g children they-PRES- show-PASS- ASP pictures            by.woman
+\l The children are being shown pictures by the woman.
+
+\t Amashusho ar      lerekw     a     _b_ana n'mug~re.
+\m Amashusho a-r-      lerek-w-     a     _b_ana n'mug~re.
+\g pictures       they-PRES- show-PASS- ASP children by.woman
+\l The pictures are being shown to the children by the woman.
+
+\t umugabo yahaaye            umugore igitabo.
+\m umugabo y-a-haa-ye            umugore igitabo.
+\g man         S-PAST-give-ASP woman book
+\l The man gave the woman the book.
+
+\t umugore     yahaawe           igitabo (n'umugabo.
+\m umugore     y-a-haa-w-e           igitabo (n'umugabo.
+\g woman       S-PAST-give-PASS-ASP book (by-man)
+\l The woman was given the book (by the man).
+
+\t igitabo cyahaawe             umugore (n'umugabo.
+\m igitabo cy-a-haa-w-e             umugore (n'umugabo.
+\g book     S-PAST-give-PASS-ASP woman (by-man)
+\l The book was given to the woman (by the man).
+
+\t Yohani yayimwoherereje.
+\m Yohani y-a-yi-mw-oher-er-eje.
+\g John    3sg:past(A)-3sg(T)-3sg(R)-send-appl-asp
+\l John sent it to her.
+
+\t Umugore      jise    nde?
+\m Umugore      jise    nde?
+\g woman         killed who
+\l Who did   the woman kill?
+
+\t Ninde      umugore jíse ?
+\m Ni-nde      umugore jíse ?
+\g  FOC-who     woman kill
+\l Who did   the woman kill?
+
+\t Nde jise umunhu?
+\m Nde jise umunhu?
+\g  who killed man
+\l Who killed the man?
+
+\t Nde jiswe        na umunhu?
+\m Nde jis-we        na umunhu?
+\g  who killed-PASS by man
+\l Who was killed by the man?
+
+\t Ninde uíse         umunhu?
+\m Ni-nde u-íse         umunhu?
+\g FOC-who SP-killed man
+\l Who killed the man?
+
+\t Ninde uíswe         na umunhu?
+\m Ni-nde u-ís-we         na umunhu?
+\g FOC-who SP-kill-PASS by man
+\l Who was killed by the man?
+
+\t b. umugóre uavunnye       úmwáana ukúboko
+\m b. umugóre u-a-vun-nye       úmwáana ukúboko
+\g    woman   3sS-Pst-break-Asp child   arm
+\l The woman broke the child's arm.
+
+\t Umugóre ?réreka        umuhuûngu umukuoôbwa      amaguru
+\m Umugóre ?r-érek-a        umuhuûngu umukuoôbwa      amaguru
+\g  woman   she-PRES-show-ASP boy       girl          legs   
+\l The woman is showing the boy the girl's legs.
+
+\t Yohani yayimwoherereje.
+\m Yohani y-a-yi-mw-oher-er-eje.
+\g    John        subj-past-obj:it-obj:her-send-appl-asp
+\l John sent it to her.
+
+\t a. Umugóre ara andikiish a                   íbarúwa íkarámu.
+\m a. Umugóre a-ra- andik-iish- a                   íbarúwa íkarámu.
+\g      woman she-PRES-write- INSTR-ASP letter pen
+\l The woman     is writing a letter with a pen.
+
+\t b. Umwáalímu     arasomeesha                abányéeshuúri ibitabo.
+\m b. Umwáalímu     a-ra-som-eesh-a                abányéeshuúri ibitabo.
+\g     teacher        he-PRES- read-CAUS-ASP students           books
+\l The teacher   is making the students read books.
+
+\t Umugóre akora         akazi        ku     amafaraanga              máke
+\m Umugóre a-kora         akazi        ku     amafaraanga              máke
+\g woman     3SG-work work             for    money                    few
+\l The woman does the work for a small amount of money.
+
+\t Umugóre akorera               akazi      amafaraanga           máke
+\m Umugóre a-kor-era               akazi      amafaraanga           máke
+\g woman      3SG-work-APPL        work       money                 few
+\l The woman does the work for a small amount of money.
+
+\t umugóre      arakôra          akazi               n'ûmweête
+\m umugóre      a-ra-kôr-a          akazi               n'-ûmweête
+\g woman        3SG-PRES-do-FV work                     COM-enthusiasm
+\l The woman is working with enthusiasm.
+
+\t umugóre      arakôrana                   akazi     ûmweête
+\m umugóre      a-ra-kôr-an-a                   akazi     ûmweête
+\g woman        3SG-PRES-do-COM-FV              work      enthusiasm
+\l The woman is working with enthusiasm.
+
+\t umubyeeyi a0korana                  numwaana         we
+\m umubyeeyi a-0-kor-ana                  n-umwaana         we
+\g parent       3SG-PRES-work-SOC CNJ-child                 her
+\l The mother is working with the child (who is also working)
+
+\t urushíingé runíni
+\m u-ru-shíingé ru-níni
+\g   DET-XI-needle XI-big
+\l the/a big needle
+
+\t ubwáato     buníni
+\m u-bw-áato     bu-níni
+\g   DET-XIV-boat XIV-big
+\l the/a big boat
+
+\t Umugabo yahaaye      umugóre igitabo.
+\m Umugabo y-a-haa-ye      umugóre igitabo.
+\g man     he-pst-give-asp woman   book
+\l The man gave the woman the book.
+
+\t Igitabo cyahaawe         umugóre n'ûmugabo.
+\m Igitabo cy-a-haa-w-e         umugóre n'ûmugabo.
+\g book    it-pst-give-pass-asp woman   by man
+\l The book was given to the woman by the man.
+
+\t Umugóre yahaawe           igitabo n'ûmugabo.
+\m Umugóre y-a-haa-w-e           igitabo n'ûmugabo.
+\g woman   she-pst-give-pass-asp book    by man
+\l The woman was given the book by the man.
+
+\t Umugóre aráhéera           umugabo ímbwa ibíryo.
+\m Umugóre a-rá-hé-er-a           umugabo ímbwa ibíryo.
+\g woman   she-pres-give-appl-asp man     dog   food
+\l The woman is giving food to the dog for the man.
+
+\t (60)a. Umugabo aráhéerwa             ímbwa ibíryo n'ûmugóre.
+\m (60)a. Umugabo a-rá-hé-er-w-a             ímbwa ibíryo n'ûmugóre.
+\g        man     he-pres-give-appl-pass-asp dog   food   by woman
+\l The man is given food for the dog by the woman.
+
+\t Ímbwa iráhéerwa             umugabo ibíryo n'ûmugóre.
+\m Ímbwa i-rá-hé-er-w-a             umugabo ibíryo n'ûmugóre.
+\g dog   it-pres-give-appl-pass-asp man     food   by woman
+\l The dog is given food for the man by the woman.
+
+\t Ibíryo biráhéerwa            umugabo ímbwa n'ûmugóre.
+\m Ibíryo bi-rá-hé-er-w-a            umugabo ímbwa n'ûmugóre.
+\g food   it-pres-give-appl-pass-asp man     dog   by woman
+\l The food is given to the dog for the man by the woman.
+
+\t Umugabo araandikiisha       íbárúwa íkárámu.
+\m Umugabo a-ra-andik-iish-a       íbárúwa íkárámu.
+\g man     he-pres-write-instr-asp letter pen
+\l The man is writing a letter with the pen.
+
+\t Íbárúwa iraandikiishwa          íkárámu n'ûmugabo.
+\m Íbárúwa i-ra-andik-iish-w-a          íkárámu n'ûmugabo.
+\g letter it-pres-write-instr-pass-asp pen      by man
+\l The letter is being written with a pen by the man.
+
+\t Íkárámu iraandikiishwa          íbárúwa n'ûmugabo.
+\m Íkárámu i-ra-andik-iish-w-a          íbárúwa n'ûmugabo.
+\g pen     it-pres-write-instr-pass-asp letter by man
+\l The pen is used to write a letter by the man.
+
+\t Umuhuûngu   yaandikiishirije       umukoôbwa íbárúwa íkárámu.
+\m Umuhuûngu   y-a-andik-iish-ir-ije       umukoôbwa íbárúwa íkárámu.
+\g  boy        he-pst-write-instr-appl-asp girl      letter pen
+\l The boy  wrote the letter with the girl's pen.
+
+\t n'ûmuhuûngu.
+\m n'ûmuhuûngu.
+\g by boy
+\l The girl had her pen used by the boy to write a letter.
+
+\t   n'ûmuhuûngu.
+\m   n'ûmuhuûngu.
+\g   by boy
+\l The letter was written with the girl's pen by the boy.
+
+\t   n'ûmuhuûngu.
+\m   n'ûmuhuûngu.
+\g   by boy
+\l The pen of the girl was used to write a letter by the boy.
+
+\t Úmwáalímu yaandikiishije      imibáre íngwa ku kíbááho.
+\m Úmwáalímu y-a-andik-iish-ije      imibáre íngwa ku kíbááho.
+\g teacher    he-pst-write-instr-asp math    chalk on blackboard
+\l The teacher wrote with chalk math on the blackboard.
+
+\t Ku kíbáaho    haraandikiishwa         imibáre íngwa     n'úúmwáalímu.
+\m Ku kíbáaho    ha-ra-andik-iish-w-a         imibáre íngwa     n'úúmwáalímu.
+\g on blackboard it-pres-write-instr-pass-asp math     chalk    by teacher   
+\l Math is being written on the blackboard with chalk by the teacher.
+
+\t Umugabo yahaaye      umugóre igitabo.
+\m Umugabo y-a-haa-ye      umugóre igitabo.
+\g man     he-pst-give-asp woman   book
+\l The man gave the woman the book.
+
+\t (88)a. Igitabo cyahaawe         umugóre n'ûmugabo.
+\m (88)a. Igitabo cy-a-haa-w-e         umugóre n'ûmugabo.
+\g        book    it-pst-give-pass-asp woman   by man
+\l The book was given to the woman by the man.
+
+\t Umugóre yahaawe           igitabo n'ûmugabo.
+\m Umugóre y-a-haa-w-e           igitabo n'ûmugabo.
+\g woman   she-pst-give-pass-asp book    by man
+\l The woman was given the book by the man.
+
+\t Umugabo   yakímuhaaye.
+\m Umugabo   y-a-kí-mu-haa-ye.
+\g  man      he-pst-it-him-give-asp
+\l The man  gave it to him.
+
+\t Yagihaawe          n'ûmugabo.
+\m Y-a-gi-haa-w-e          n'ûmugabo.
+\g he-pst-it-give-pass-asp by man
+\l He was given it by the man.
+
+\t Cyamuhaawe          n'ûmugabo.
+\m Cy-a-mu-haa-w-e          n'ûmugabo.
+\g  it-pst-him-give-pass-asp by man
+\l It was given to him by the man.
+
+\t abashiytsi bóonyíne barasiinziira         muri iyi inzu
+\m aba-shiytsi bóo-nyíne ba-ra-siinziir-a         muri iyi inzu
+\g CL2-guests CL2-only CL2-PROGR-sleep-IMPF in this house
+\l Only the guests are sleeping in this house
+
+\t muri iyi inzu harasiinzira                abashiytsi gusa
+\m muri iyi inzu ha-ra-siinzir-a                aba-shiytsi gusa
+\g  in this house CL16-PROGR-sleep-IMPF CL2-guest only
+\l In this house are sleeping only guests.
+
+\t (harariríimba abashyitsi)
+\m (harariríimba abashyitsi)
+\g (guests       are singing
+\l There are GUESTS singing.
+
+\t abashyitsi barariríimbira mu gisagára
+\m aba-shyitsi ba-ra-riríimbir-a mu gisagára
+\g CL2-guest CL2-PRES-sing-IMPF in village
+\l The guests are singing in the village.
+
+\t harariríimbira       abashyitsi mu gisagára
+\m ha-ra-riríimbir-a       aba-shyitsi mu gisagára
+\g  CL16-PRES-sing-IMPF CL2-guest in village
+\l There are guests singing in the village.
+
+\t harariríimbira      mu gisagára abashyitsi
+\m ha-ra-riríimbir-a      mu gisagára aba-shyitsi
+\g  CL16-PRES-sing-IMPF in village CL2-guest
+\l There are guests singing in the village.
+
+\t abashiytsii barasíinzíira      muri iyi inzu Øi
+\m aba-shiytsii ba-ra-síinzíir-a      muri iyi inzu Øi
+\g CL2-PROGR-and-snore-IMPF
+\l The guests are sleeping in this house and Ø are snoring.
+
+\t muri iyi inzu harasíinzíira          abashiytsii
+\m muri iyi inzu ha-ra-síinzíir-a          aba-shiytsii
+\g  CL16-PROGR-and-snore-IMPF
+\l In this house GUESTS are sleeping and Ø are snoring.
+
+\t abashiytsii barasíinzíira       muri iyi inzu            [Øi kuruhuuka mbere yo gukora]   
+\m aba-shiytsii ba-ra-síinzíir-a       muri iyi inzu            [Øi ku-ruhuuka mbere yo gu-kora]   
+\g CL2-guest CL2-PROGR-sleep-IMPF in this house                     INF-rest     before of INF-work
+\l The guests are sleeping in this house to get some rest before work.
+
+\t muri iyi inzu harasíinzíira           abashiytsii     [Øi kuruhuuka mbere yo gukora]   
+\m muri iyi inzu ha-ra-síinzíir-a           aba-shiytsii     [Øi ku-ruhuuka mbere yo gu-kora]   
+\g  in this house CL16-PROGR-sleep-IMPF CL2-guest                INF-rest     before of INF-work
+\l In this house, GUESTS are sleeping to get some rest before work.
+
+\t Umugore       jise nde?
+\m Umugore       jise nde?
+\g woman         killed who
+\l Who did      the woman kill?
+
+\t Ninde        umugore j´se ?
+\m Ni-nde        umugore j´se ?
+\g FO C-who      woman kill
+\l Who did      the woman kill?
+
+\t Nde jise umunhu?
+\m Nde jise umunhu?
+\g   who killed man
+\l Who killed the man?
+
+\t Nde jiswe        na umunhu?
+\m Nde jis-we        na umunhu?
+\g   who killed-PA S S by man
+\l Who was killed by the man?
+
+\t Ninde u´se      umunhu?
+\m Ni-nde u-´se      umunhu?
+\g FO C-who SP-killed man
+\l Who killed the man?
+
+\t Ninde u´swe         na umunhu?
+\m Ni-nde u-´s-we         na umunhu?
+\g FO C-who SP-kill-PA S S by man
+\l Who was killed by the man?
+
+\t Umwaana      yataaye igitabo mu maazi
+\m Umwaana      yataaye igitabo mu maazi
+\g child        threw book in water
+\l The child   has thrown the book into the water
+
+\t Umwaana      yataayemo amaazi igitabo
+\m Umwaana      yataaye-mo amaazi igitabo
+\g child        threw APPL water book
+\l The child   has thrown the book into the water
+
+\t (11)* Yatweeretse     igitabo [ umwaalimu yooherejeho       ishuuri]
+\m (11)* Yatweeretse     igitabo [ umwaalimu yoohereje-ho       ishuuri]
+\g       he-showed-us book         teacher     sent        APPL school
+\l He showed us the book that the teacher sent to school
+
+\t N'iibaruwa [     umugabo yaandikiisha ikaramu]
+\m N'iibaruwa [     umugabo yaandik-iish-a ikaramu]
+\g be-letter        man        write     APPL pen
+\l It's the letter that the man is writing with the pen
+
+\t Umwaalimu         yoohereje igitabo kw'iishuuri
+\m Umwaalimu         yoohereje igitabo kw'iishuuri
+\g  teacher          sent       book to-school
+\l The teacher    sent the book to school
+
+\t Umwaalimu         yooherejeho       ishuuri igitabo
+\m Umwaalimu         yoohereje-ho       ishuuri igitabo
+\g  teacher          sent        APPL school book
+\l The teacher    sent the book to school
+
+\t Umuhuungu arasoma                       ^    ^
+\m Umuhuungu a-ra-som-a                       ^    ^
+\g boy          he-Pres-read-Asp book of-girl
+\l The boy is reading the book of the girl.
+
+\t Umuhuungu arasomera                      ^
+\m Umuhuungu a-ra-som-er-a                      ^
+\g boy          he-Pres-read-Appl-Asp girl           book
+\l The boy is reading the book of the girl.
+
+\t umukoobwa arasoma            [igitabo [cy'uumwaana w'umugore]].
+\m umukoobwa a-ra-som-a            [igitabo [cy'uumwaana w'umugore]].
+\g girl          Sp-Pres-read-Asp book of-child              of-woman
+\l The girl is reading the book of the child of the woman.
+
+\t umukoobwa arasom­era               [uumwaana w'umugore] [igitabo ].
+\m umukoobwa a-ra-som­er-a               [uumwaana w'umugore] [igitabo ].
+\g girl          Sp-Pres-read-Appl-Asp child           of-woman book
+\l The girl is reading the book of the child of the woman.
+
+\t umukoobwa arasomera          umugore [igitabo [cy'uumwaana ]].
+\m umukoobwa a-ra-som-er-a          umugore [igitabo [cy'uumwaana ]].
+\g   girl          Sp-Pres-read-Asp woman book of-child
+\l The girl is reading the book of the child of the woman.
+
+\t umukoobwa arasomerera umugore uumwaana [igitabo ].
+\m umukoobwa a-ra-som-er-er-a umugore uumwaana [igitabo ].
+\g   girl          Sp-Pres-read-Asp woman child             book
+\l The girl is reading the book of the child of the woman.
+
+\t Umugabo yavunnye         ukuguru k'uumwaana w'umugore.
+\m Umugabo y-a-vun-nye         ukuguru k'uumwaana w'umugore.
+\g man       he-Pst-break-Asp leg      of-child    of-woman
+\l The man broke the leg of the woman's child.
+
+\t Umugabo yavunnye         umwaana w'umugore ukuguru.
+\m Umugabo y-a-vun-nye         umwaana w'umugore ukuguru.
+\g man       he-Pst-break-Asp child      of-woman leg
+\l The man broke the leg of the woman's child.
+

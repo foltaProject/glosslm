@@ -1,0 +1,75 @@
+\t malakakaay          ci kacaw atu ci ofad
+\m mala-kaka-ay          ci kacaw atu ci ofad
+\g Rec-elder.sibling-AY Ncm Kacaw and Ncm Ofad
+\l Kacaw and Ofad are brothers.
+
+\t malaramuday       ci    kacaw atu ci panay
+\m mala-ramud-ay       ci    kacaw atu ci panay
+\g Rec-spouse-AY     Ncm Kacaw        and Ncm Panay
+\l Panay and Kacaw are husband and wife.
+
+\t malawidanay             ci kacaw atu ci ofad
+\m mala-widan-ay             ci kacaw atu ci ofad
+\g Rec-friend-AY             Ncm Kacaw and Ncm Ofad
+\l Kacaw and Ofad are friends.
+
+\t ma'araw            ni ofad ku niyah i daningoan
+\m ma-'araw            ni ofad ku niyah i daningoan
+\g  PF-see       Gen Ofad Nom self Loc mirror
+\l Ofad saw himself in the mirror.
+
+\t minengeng kaku tu tireng no niyah i daningoan
+\m mi-nengeng kaku tu tireng no niyah i daningoan
+\g AF-see 1Sg.Nom Obl body Gen self Loc mirror
+\l I saw my own body in the mirror.
+
+\t malametmet cangra tu kamay
+\m mala-metmet cangra tu kamay
+\g  Rec-shake     3Pl.Nom Acc hand
+\l They shook hands.
+
+\t malapalu      cangra      a   tatusa
+\m mala-palu      cangra      a   ta-tusa
+\g Rec-hit        3Pl.Nom Lnk CLF-two
+\l They two hit each other.
+
+\t malala'ola'op       cangra
+\m mala-la'o-la'op       cangra
+\g Rec-Red-chase        3Pl.Nom
+\l They (a group of people) were chasing after each other.
+
+\t malakakilim       tu wacu        cangra
+\m mala-ka-kilim       tu wacu        cangra
+\g Rec-Red-look.for Obl dog           3Pl.Nom
+\l They (together) looked for their dog.
+
+\t malalikel         cangra        a tatusa   pafuli' takuwanan tu cecay a cutad
+\m mala-likel         cangra        a ta-tusa   pafuli' takuwanan tu cecay a cutad
+\g Rec-sharing        3Pl.Nom       Lnk CLF-two give.AF 1Sg.Obl   Obl one Lnk book
+\l They (each of them) gave me a book.
+
+\t malasapapulitien    nangra ku cudad
+\m mala-sa-pa-puliti-en    nangra ku cudad
+\g Rec-SA-Red-throw-PF 3Pl.Gen Nom book
+\l They threw the books at each other.
+
+\t k<um>aenan ni dongi kuni              a tali.
+\m k<um>aen-an ni dongi kuni              a tali.
+\g PF-eat-PF       Gen Dongi this.Nom A taro
+\l Dongi ate this taro.
+
+\t mafana' kaku tuni            a demak.
+\m ma-fana' kaku tuni            a demak.
+\g AF-know I.Nom this.Acc A matter
+\l I know this matter.
+
+\t t<um>angic kuni           wawa.
+\m t<um>angic kuni           wawa.
+\g    AF-cry        this.Nom kid
+\l This kid is crying.
+
+\t i        cuwa        kisu         mafuti'
+\m i        cuwa        kisu         ma-futi'
+\g Prep     where       2s.Nom       AF-sleep
+\l Where   will you sleep?
+

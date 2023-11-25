@@ -1,0 +1,1390 @@
+\t anjumne     xat              likhnaa     hai.
+\m anjum-ne     xat              likh-naa     hai.
+\g Anjum-ERG letter-NOM write-INF             is
+\l Anjum wants to write a letter
+
+\t anjumko     xat              likhnaa     hai.
+\m anjum-ko     xat              likh-naa     hai.
+\g Anjum-ACC letter-NOM write-INF             is
+\l Anjum has to write a letter
+
+\t anjumne        saddafko        masaalaa     cakhvayaa.
+\m anjum-ne        saddaf-ko        masaalaa     cakh-va-yaa.
+\g  Anjum.f-ERG Saddaf.f-ACC spice.m             taste-CAUS-PERF.msg
+\l Anjum had Saddaf taste the seasoning
+
+\t anjumne        saddafse        masaalaa     cakhvayaa.
+\m anjum-ne        saddaf-se        masaalaa     cakh-va-yaa.
+\g  Anjum.f-ERG Saddaf.f-INST spice.m            taste-CAUS-PERF.msg
+\l Anjum had the seasoning tasted by Saddaf
+
+\t anjumne           saddafse/*ko          paoda      kaatayaa.
+\m anjum-ne           saddaf-se/*ko          paoda      kaat-a-yaa.
+\g     Anjum.f-ERG Saddaf.f-INST/ACC plant.m cut-CAUS-PERF.msg
+\l Anjum had Saddaf cut a/the plant
+
+\t anjumne        saddafko/*se          khaanaa khilayaa.
+\m anjum-ne        saddaf-ko/*se          khaanaa khil-a-yaa.
+\g  Anjum.f-ERG Saddaf.f-ACC/INST food.m eat-CAUS-PERF.msg
+\l Anjum gave Saddaf food to eat
+
+\t jon=nee marii=koo kyaa diiyaa?
+\m jon=nee marii=koo kyaa diiyaa?
+\g John=Erg Mary=Dat what gave
+\l What did John give to Mary?
+
+\t AnjUm=ne     sAddAf=ko       [xAt        likhne]=ko   kAha
+\m AnjUm=ne     sAddAf=ko       [xAt        likh-ne]=ko   kAh-a
+\g Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Saddaf to write the letter.
+
+\t radh a=ne    mohAn=ko      [kitab    pAr hne]=ko mAjbur kiya
+\m radh a=ne    mohAn=ko      [kitab    pAr h-ne]=ko mAjbur ki-ya
+\g Radha.F=Erg Mohan.M=Dat book.FNom read-Inf.Obl=Acc force do-Perf.M.Sg
+\l Radha forced Mohan to read a book.
+
+\t radh a=ne    mohAn=ko      [kitab    pAr hne]=pAr     mAjbur kiya
+\m radh a=ne    mohAn=ko      [kitab    pAr h-ne]=pAr     mAjbur ki-ya
+\g Radha.F=Erg Mohan.M=Dat book.F.Nom read-Inf.Obl=on(Loc) force do-Perf.M.Sg
+\l Radha forced Mohan to read a book.
+
+\t vo        rone      lAgi
+\m vo        ro-ne      lAg-i
+\g Pron.Nom cry-Inf.Obl be.attached-Perf.F.Sg
+\l She began to cry.
+
+\t kis=ne        kUtte=ko        gh Ar ke AndAr      aane       dia?
+\m kis=ne        kUtte=ko        gh Ar ke AndAr      aa-ne       di-a?
+\g who.Obl=Erg dog.M.Obl=Dat house Gen.Obl inside come-Inf.Obl give-Perf.M.Sg
+\l Who let the dog come into the house?
+
+\t nadya=ne     xAt           likh liya
+\m nadya=ne     xAt           likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t nadya=ne      mAkan         bAna diya
+\m nadya=ne      mAkan         bAna di-ya
+\g Nadya.F=Erg house.M.Nom make give-Perf.M.Sg
+\l Nadya built a house (completely, for somebody else).
+
+\t mAriAm       imel         likh rAhi      thi                 jAb vili           kAmre=me ~     aya       
+\m mAriAm       imel         likh rAh-i      th-i                 jAb vili           kAmre=me ~     a-ya       
+\g Miriam.F.Nom e-mail.F.Nom write Prog-F.Sg be.Past-F.Sg         when Willi.M.Nom room.M.Obl=in come-Perf.M.Sg
+\l Miriam was writing an e-mail when Willi came into the room.
+
+\t mAriAm       imel         likh mar rAhi      thi             jAb vili          kAmre=me   ~     aya      
+\m mAriAm       imel         likh mar rAh-i      th-i             jAb vili          kAmre=me   ~     a-ya      
+\g Miriam.F.Nom e-mail.F.Nom write hit Prog-F.Sg be.Past-F.Sg     when Willi.M.Nom room.M.Obl=in come-Perf.M.Sg
+\l Miriam was dashing off an e-mail when Willi came into the room.
+
+\t Us=ne/*vo             xAt          likha
+\m Us=ne/*vo             xAt          likh-a
+\g Pron.Obl=Erg/Pron.Nom letter.M.Nom write-Perf.M.Sg
+\l He wrote a letter.
+
+\t Us=ne/*vo                xAt       likh liya
+\m Us=ne/*vo                xAt       likh li-ya
+\g Pron.Obl=Erg/Pron.Nom letter.M.Nom write take-Perf.M.Sg
+\l He wrote a letter (completely).
+
+\t Adnan          gari   cAlata         hE
+\m Adnan          gari   cAla-ta         hE
+\g Adnan.M.Nom car.F.Nom drive-Impf.M.Sg be.Pres.3.Sg
+\l Adnan drives a car.
+
+\t Adnan=ne      gari        cAlayi     hEi
+\m Adnan=ne      gari        cAla-yi     hEi
+\g Adnan.M=Erg car.F.Nom drive-Perf.F.Sg be.Pres.3.Sg
+\l Adnan has driven a car.
+
+\t nadya=ne     gari=ko cAlaya          hE
+\m nadya=ne     gari=ko cAla-ya          hE
+\g Nadya.F=Erg car.F=Acc drive-Perf.M.Sg be.Pres.3.Sg
+\l Nadya has driven the car.
+
+\t nadya=ne      mAkan         bAna liya
+\m nadya=ne      mAkan         bAna li-ya
+\g Nadya.F=Erg house.M.Nom make take-Perf.M.Sg
+\l Nadya built a house (completely).
+
+\t nadya=ne      kUrsi           bAna li
+\m nadya=ne      kUrsi           bAna l-i
+\g Nadya.F=Erg chair.F.Sg.Nom make take-Perf.F.Sg
+\l Nadya built a chair (completely).
+
+\t AnjUm=ne      sAddAf=ko      xAt      likhne      diya
+\m AnjUm=ne      sAddAf=ko      xAt      likh-ne      di-ya
+\g Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl give-Perf.M.Sg
+\l Anjum let Saddaf write a letter.
+
+\t AnjUm=ne      sAddAf=ko     cit th i likhne     di
+\m AnjUm=ne      sAddAf=ko     cit th i likh-ne     d-i
+\g Anjum.F=Erg Saddaf.F=Dat note.F.Nom write-Inf.Obl give-Perf.F.Sg
+\l Anjum let Saddaf write a note.
+
+\t AnjUm=ne     sAddAf=ko       [xAt        lik hne]=ko  kAha
+\m AnjUm=ne     sAddAf=ko       [xAt        lik h-ne]=ko  kAh-a
+\g Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Saddaf to write the letter.
+
+\t AnjUm=ne     sAddAf=ko       [cit th i likhne]=ko   kAha
+\m AnjUm=ne     sAddAf=ko       [cit th i likh-ne]=ko   kAh-a
+\g Anjum.F=Erg Saddaf.F=Dat note.F.Nom write-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Saddaf to write the note.
+
+\t  AndAr rAkhne     diya
+\m  AndAr rAkh-ne     di-ya
+\g  inside put-Inf.Obl give-Perf.M.Sg
+\l Anjum, having opened the door, let Saddaf put the luggage inside.
+
+\t  AndAr rAkhne=ko      kAha
+\m  AndAr rAkh-ne=ko      kAh-a
+\g  inside put-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Saddaf to put the luggage inside, after having opened the door.
+
+\t AnjUm=ne sAddAf=ko          Apne               ke AndAr bula diya
+\m AnjUm=ne sAddAf=ko          Apn-e               ke AndAr bula di-ya
+\g Anjum.F=Erg Saddaf.F=Acc self-Obl house.M Gen.Obl inside call give-Perf.M.Sg
+\l Anjum asked Saddaf into self 's (Anjum's) house.
+
+\t likh to nadya           xAt=ko         legi
+\m likh to nadya           xAt=ko         l-e-g-i
+\g write Top Nadya.F.Nom letter.M=Acc take-3.Sg-Fut-F.Sg
+\l As for writing, Nadya will be able to write a letter.
+
+\t likhne      to AnjUm=ne       sAddAf=ko        citth i di
+\m likh-ne      to AnjUm=ne       sAddAf=ko        citth i d-i
+\g write-Inf.Obl Top Anjum.F=Erg Saddaf.F=Dat note.F.Sg.Nom give-Perf.F.Sg
+\l As for writing, Anjum let Saddaf write a note.
+
+\t nadya=ne     AnjUm=ko      nikAlne    diya
+\m nadya=ne     AnjUm=ko      nikAl-ne    di-ya
+\g Nadya.F=Erg Anjum.F=Dat emerge-Inf.Obl give-Perf.M.Sg
+\l Nadya let Anjum get out.
+
+\t AnjUm=ne      sAddAf=ko      xAt      likhne      diya
+\m AnjUm=ne      sAddAf=ko      xAt      likh-ne      di-ya
+\g Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl give-Perf.M.Sg
+\l Anjum let Saddaf write a letter.
+
+\t nadya=ne     AnjUm=ko     nikala
+\m nadya=ne     AnjUm=ko     nikal-a
+\g Nadya.F=Erg Anjum.F=Acc emerge.Caus-Perf.M.Sg
+\l Nadya pulled Anjum out.
+
+\t AnjUm=ne     sAddAf=ko        xAt           likhvaya
+\m AnjUm=ne     sAddAf=ko        xAt           likh-va-ya
+\g Anjum.F=Erg Saddaf.F=Acc letter.M.Nom write-Caus-Perf.M.Sg
+\l Anjum had the letter written for Saddaf/taught Saddaf to write the letter.
+
+\t nadya        rone      lAgi
+\m nadya        ro-ne      lAg-i
+\g Nadya.F.Nom cry-Inf.Obl be.attached-Perf.F.Sg
+\l Nadya began to cry.
+
+\t nadya          gir gayi
+\m nadya          gir ga-yi
+\g Nadya.F.Nom fall go-Perf.F.Sg
+\l Nadya fell (down).
+
+\t nadya         xAt=ko         likh legi
+\m nadya         xAt=ko         likh l-e-g-i
+\g Nadya.F.Nom letter.M=Acc write take-3.Sg-Fut-F.Sg
+\l Nadya will be able to write a letter.
+
+\t nadya         likh xAt=ko           legi
+\m nadya         likh xAt=ko           l-e-g-i
+\g  Nadya.F.Nom write letter.M=Acc take-3.Sg-Fut-F.Sg
+\l Nadya will be able to write a letter.
+
+\t                                                 i    x     degi]
+\m                                                 i    x     d-e-g-i]
+\g Anjum.F.Nom Saddaf.F=Dat necklace.M.Nom not make-Inf.Obl give-3.Sg-Fut-F.Sg
+\l Anjum will not let Saddaf make a necklace.
+
+\t AnjUm         sAddAf=ko     har              bAnane n h~ degi x
+\m AnjUm         sAddAf=ko     har              bAna-ne n h~ d-e-g-i x
+\g Anjum.F.Nom Saddaf.F=Dat necklace.M.Nom make-Inf.Obl not give-3.Sg-Fut-F.Sg
+\l Anjum will not let Saddaf make a necklace.
+
+\t AnjUm          har                 ix        sAddAf=ko   degi
+\m AnjUm          har                 ix        sAddAf=ko   d-e-g-i
+\g Anjum.F.Nom necklace.M.Nom not make-Inf.Obl Saddaf.F=Dat give-3.Sg-Fut-F.Sg
+\l Anjum will let Saddaf not make a necklace.
+
+\t nadya=ne        sAddAf=ko           xAt         likh lene     diya
+\m nadya=ne        sAddAf=ko           xAt         likh le-ne     di-ya
+\g Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write take-Inf.Obl give-Perf.M.Sg
+\l Nadya let Saddaf write a letter (completely).
+
+\t /???nadya=ne     sAddAf=ko         xAt          lik h ne    de diya
+\m /???nadya=ne     sAddAf=ko         xAt          lik h ne    de di-ya
+\g    Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write-Inf.Obl give give-Perf.M.Sg
+\l Nadya completely let Saddaf write a letter.
+
+\t nadya=ne     (AnjUm=se)        xAt         likhvaya
+\m nadya=ne     (AnjUm=se)        xAt         likh-va-ya
+\g Nadya.F=Erg (Anjum.F=Inst) letter.M.Nom write-Caus-Perf.M.Sg
+\l Nadya had the letter written (by Anjum).
+
+\t nadya=ne     AnjUm=ko         (yassin=se)    xAt          lik hvaya
+\m nadya=ne     AnjUm=ko         (yassin=se)    xAt          lik h-va-ya
+\g Nadya.F=Erg Anjum.F=Acc (Yassin.M=Inst) letter.M.Nom write-Caus-Perf.M.Sg
+\l Nadya had the letter written for Anjum/taught Anjum to write the letter (by Yassin).
+
+\t nAdyA      AyI
+\m nAdyA      AyI
+\g Nadya.Nom come.Perf.F.Sg
+\l Nadya came.
+
+\t nAdyA       A    gayI
+\m nAdyA       A    gayI
+\g Nadya.Nom come go.Perf.F.Sg
+\l Nadya arrived.
+
+\t nAdyA       A     paRI
+\m nAdyA       A     paRI
+\g Nadya.Nom come fall.Perf.F.Sg
+\l Nadya arrived (suddenly, unexpectedly).
+
+\t nAdyA=nE gAnA        gayA
+\m nAdyA=nE gAnA        gayA
+\g Nadya=Erg song.Nom sing.Perf.M.Sg
+\l Nadya sang a song.
+
+\t nAdyA       gAnA       gA paRI
+\m nAdyA       gAnA       gA paRI
+\g Nadya.Nom song.Nom sing fall.Perf.F.Sg
+\l Nadya burst into song.
+
+\t nAdyA=nE gAnA         gA lIyA
+\m nAdyA=nE gAnA         gA lIyA
+\g Nadya=Erg song.Nom sing take.Perf.M.Sg
+\l Nadya sang a song (completely).
+
+\t nAdyA       sOyI
+\m nAdyA       sOyI
+\g Nadya.Nom sleep.Perf.F.Sg
+\l Nadya slept.
+
+\t yassin=nE nAdyA=kO sOnE            dIyA
+\m yassin=nE nAdyA=kO sOnE            dIyA
+\g Yassin=Erg Nadya=Dat sleep.Inf.Obl give.Perf.M.Sg
+\l Yassin let Nadya sleep.
+
+\t nAdyA      has paRI
+\m nAdyA      has paRI
+\g Nadya.Nom laugh fall.Perf.F.Sg
+\l Nadya laughed (suddenly, unexpectedly).
+
+\t yassin=nE nAdyA=kO sOnE dIyA
+\m yassin=nE nAdyA=kO sOnE dIyA
+\g Yassin=Erg Nadya=Dat sleep.Inf give.Perf.M.Sg
+\l Yassin let Nadya sleep.
+
+\t yassin=nE nAdyA=kO gHar           banAnE dIyA
+\m yassin=nE nAdyA=kO gHar           banAnE dIyA
+\g Yassin=Erg Nadya=Dat house.Nom make.Inf give.Perf.M.Sg
+\l Yassin let Nadya build a house.
+
+\t yassin=nE nAdyA=kO sO jAnE dIyA
+\m yassin=nE nAdyA=kO sO jAnE dIyA
+\g Yassin=Erg Nadya=Dat sleep go.Inf give.Perf.M.Sg
+\l Yassin let Nadya sleep.
+
+\t yassin=nE nAdyA=kO gHar           banA lEnE dIyA
+\m yassin=nE nAdyA=kO gHar           banA lEnE dIyA
+\g Yassin=Erg Nadya=Dat house.Nom make take.Inf give.Perf.M.Sg
+\l Yassin let Nadya build a house.
+
+\t  [mã] bais               barf=se        yahãã rah           rahaa           h
+\m  [mã] bais               barf=se        yahãã rah           rah-aa           h
+\g I.NOM twenty-two winter=from here live                      Stat=MSG         be.PRST.1.SG
+\l Itopic have been living here for 22 years.
+
+\t rozaanaa           is      hii      sarak=se      guzartaa                 h
+\m rozaanaa           is      hii      sarak=se      guzar-taa                 h
+\g daily              this    EMPH     street.F=from pass-IMPF.MSG          be.PRST.1.SG
+\l Daily (Icont.topic) go through   this street.
+
+\t anjumne        xat                      likhnaa           hai.
+\m anjum-ne        xat                      likh-naa           hai.
+\g Anjum-ERG       letter-NOM               write-INF          is
+\l Anjum wants to write a letter.
+
+\t anjumko         xat                  likhnaa hai.
+\m anjum-ko         xat                  likh-naa hai.
+\g Anjum-ACC        letter-NOM           write-INF          is
+\l Anjum has to write a letter.
+
+\t ra:m              khã:sa:.
+\m ra:m              khã:s-a:.
+\g Ram-NOM           coughed
+\l Ram coughed.
+
+\t ra:m=ne khã:sa:.
+\m ra:m=ne khã:s-a:.
+\g Ram-ERG         coughed
+\l Ram coughed (purposefully).
+
+\t nadya=ne     xt             likh liya
+\m nadya=ne     xt             likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t nadya=ne     xt             likh liya
+\m nadya=ne     xt             likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t s=ne/vo ¢                 xt       likh para
+\m s=ne/vo ¢                 xt       likh par-a
+\g Pron.Obl=Erg/Pron.Nom letter.M.Nom write fall-Perf.M.Sg
+\l He fell to writing a letter.
+
+\t vo              so   £ati        vati      thi
+\m vo              so   £a-ti        vati      th-i
+\g Pron.3.Sg.Nom sleep go-Impf.F.Sg go.Redup be.Past-Sg.F
+\l She used to keep going to sleep (at inopportune moments).
+
+\t vo              so  r hi ¡  thi
+\m vo              so  r h-i ¡  th-i
+\g Pron.3.Sg.Nom sleep Prog-F.Sg be.Past-Sg.F
+\l She was sleeping.
+
+\t vo              so  r hi¡   vahi       thi
+\m vo              so  r h-i¡   vahi       th-i
+\g  Pron.3.Sg.Nom sleep Prog-F.Sg Prog.Redup be.Past-Sg.F
+\l She was sleeping.
+
+\t nadya=ne         x t=ko             likh mara
+\m nadya=ne         x t=ko             likh mar-a
+\g Nadya.F.Sg=Erg letter.M.Sg=Acc write hit-Perf.M.Sg
+\l Nadya dashed off the letter (forcefully).
+
+\t nadya=ne         xt               likh dita
+\m nadya=ne         xt               likh di-ta
+\g Nadya.F.Sg=Erg letter.M.Sg.Nom write give-Perf.M.Sg
+\l Nadya wrote the letter (for somebo dy else).
+
+\t nadya            h s p r.i
+\m nadya            h s p r-.i
+\g Nadya.F.Sg.Nom laugh fall-Perf.F.Sg
+\l Nadya burst out laughing.
+
+\t     ~               ¢.
+\m     ~               ¢.
+\g pigeon.M.Pl.Nom     fly go-Perf.M.Pl
+\l The pigeons flew   away.
+
+\t nadya=ne         s dd f=ko         xt       likhne      diya
+\m nadya=ne         s dd f=ko         xt       likh-ne      di-ya
+\g Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write-Inf.Obl give-Perf.M.Sg
+\l Nadya let Saddaf write a letter.
+
+\t nadya=ne     xt             likh liya
+\m nadya=ne     xt             likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t nadya=ne         s dd f=ko          xt          likh lene     diya
+\m nadya=ne         s dd f=ko          xt          likh le-ne     di-ya
+\g Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write take-Inf.Obl give-Perf.M.Sg
+\l Nadya let Saddaf write a letter (completely).
+
+\t /???nadya=ne      s dd f=ko          xt         likh ne     de diya
+\m /???nadya=ne      s dd f=ko          xt         likh ne     de di-ya
+\g    Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write-Inf.Obl give give-Perf.M.Sg
+\l Nadya completely let Saddaf write a letter.
+
+\t anjum                uth pari
+\m anjum                uth par-i
+\g   anjum.FEM.NOM rise fall-PERF.FEM.SG
+\l Anjum suddenly got up
+
+\t anjum=nee     saddaf=koo [xat           likhnee]=koo  kahaa
+\m anjum=nee     saddaf=koo [xat           likh-nee]=koo  kah-aa
+\g Anjum.F=Erg Saddaf.F=Dat letter.M=Nom write-Inf.Obl=Acc say-             Perf.M.Sg
+\l Anjum told Saddaf to write the letter
+
+\t raadhDD QHHPRKDQ NRR>NLWDDESDÄhnee]=koo
+\m raadhDD QHHPRKDQ NRR>NLWDDESDÄh-nee]=koo
+\g  force   do-Perf.M.Sg
+\l Radha forced Mohan to read a book
+
+\t raadhDD QHHPRKDQ NRR>NLWDDESDÄhnee]=kee liiyee          majbuur kiyaa      
+\m raadhDD QHHPRKDQ NRR>NLWDDESDÄh-nee]=kee liiyee          majbuur ki-yaa      
+\g  Radha.F=Erg Mohan.M=Dat book.F=Nom read-Inf.Obl=for     force   do-Perf.M.Sg
+\l Radha forced Mohan to read a book
+
+\t vo        ronee      lagii
+\m vo        ro-nee      lag-ii
+\g Pron.Nom cry-Inf.Obl be.attached-Perf.F.Sg
+\l She began to cry
+
+\t kis=nee      kuttee=koo      ghar kee andar
+\m kis=nee      kuttee=koo      ghar kee andar
+\g come-Inf.Obl give-Perf.M.Sg
+\l Who let the dog come into the house?
+
+\t naadyaa=nee xat          likh liiyaa
+\m naadyaa=nee xat          likh lii-yaa
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely)
+
+\t naadyaa=nee makaan            banaa diiyaa
+\m naadyaa=nee makaan            banaa dii-yaa
+\g Nadya.F=Erg house.M.Nom make give-Perf.M.Sg
+\l Nadya built a house (completely, for somebody else)
+
+\t mariam        iimeel        likh rahii       thii                  jab vilii          kamree=mÁÁDyaa           
+\m mariam        iimeel        likh rah-ii       th-ii                  jab vilii          kamree=mÁÁD-yaa           
+\g Miriam.F.Nom e-mail.F.Nom write PROG-F.Sg be.Past-F.Sg               when Willi.M.Nom room.M.Obl=in come-Perf.M.Sg
+\l Miriam was writing an e-mail when Willi came into the room
+
+\t mariam         iimeel        likh maar rahii             thii        jab vilii           kamree=mÁÁDyaa          
+\m mariam         iimeel        likh maar rah-ii             th-ii        jab vilii           kamree=mÁÁD-yaa          
+\g Miriam.F.Nom e-mail.F.Nom write hit      PROG-F.Sg        be.Past-F.Sg when Willi.M.Nom room.M.Obl=in come-Perf.M.Sg
+\l Miriam was dashing off an e-mail when Willi came into the room
+
+\t anjum=nee saddaf=koo [PRO xat                likhnee]=koo
+\m anjum=nee saddaf=koo [PRO xat                likh-nee]=koo
+\g say-Perf.M.Sg}
+\l Anjum told Saddaf to write the letter
+
+\t naadyaa=nee anjum=koo nikalnee        diiyaa
+\m naadyaa=nee anjum=koo nikal-nee        dii-yaa
+\g nadya.F=Erg anjum.F=Dat emerge-Inf.Obl give-Perf.M.Sg
+\l Nadya let Anjum get out
+
+\t anjum=nee saddaf=koo xat             likhnee      
+\m anjum=nee saddaf=koo xat             likh-nee      
+\g anjum.F=Erg saddaf.F=Dar letter.M.Nom write-Inf.Obl        dii-yaa give-Perf.M.Sg
+\l Anjum let Saddaf write a letter
+
+\t naadyaa=nee (anjum=see) xat                likhvaayaa
+\m naadyaa=nee (anjum=see) xat                likh-vaa-yaa
+\g nadya.F=Erg (anjum.F=Inst) letter.M.Nom write-Caus-Perf.M.Sg
+\l Nadya had the letter written (by Anjum).
+
+\t naadyaa=nee anjum=koo (yassin=see)         xat          likhvaayaa
+\m naadyaa=nee anjum=koo (yassin=see)         xat          likh-vaa-yaa
+\g nadya.F=Erg anjum.F=Acc (yassin.M=Inst) letter.M.Nom write-Caus-Perf.M.Sg
+\l Nadya had the letter written for Anjum/taught Anjum to write the letter (by Yassin).
+
+\t naadyaa=nee anjum=koo nikaalaa
+\m naadyaa=nee anjum=koo nikaal-aa
+\g nadya.F=Erg anjum.F=Acc emerge.Caus-Perf.M.Sg
+\l Nadya pulled Anjum out
+
+\t anjum=nee saddaf=koo xat                   likhnaayaa
+\m anjum=nee saddaf=koo xat                   likh-naa-yaa
+\g anjum.F=Erg saddaf.F=Acc letter.M.Nom write-Caus-Perf.M.Sg
+\l Anjum had the letter written for Saddaf/taught Saddaf to write the letter
+
+\t naadyaa       roonee    lagii
+\m naadyaa       roo-nee    lag-ii
+\g  nadya.F.Nom cry-Inf.Obl be.attached-Perf.F.Sg
+\l Nadya began to cry
+
+\t naadyaa=nee xat             likh lii=yaa
+\m naadyaa=nee xat             likh lii=yaa
+\g  nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely)
+
+\t naadyaa        gir gayii
+\m naadyaa        gir ga-yii
+\g  nadya.F=Erg fall go-Perf.F.Sg
+\l Nadya fell (down)
+
+\t nAdyA      AyI
+\m nAdyA      AyI
+\g Nadya.Nom come.Perf.F.Sg
+\l Nadya came.
+
+\t nAdyA       A    gayI
+\m nAdyA       A    gayI
+\g Nadya.Nom come go.Perf.F.Sg
+\l Nadya arrived.
+
+\t nAdyA       A     paRI
+\m nAdyA       A     paRI
+\g Nadya.Nom come fall.Perf.F.Sg
+\l Nadya arrived (suddenly, unexpectedly).
+
+\t nAdyA=nE gAnA        gayA
+\m nAdyA=nE gAnA        gayA
+\g Nadya=Erg song.Nom sing.Perf.M.Sg
+\l Nadya sang a song.
+
+\t nAdyA       gAnA       gA paRI
+\m nAdyA       gAnA       gA paRI
+\g Nadya.Nom song.Nom sing fall.Perf.F.Sg
+\l Nadya burst into song.
+
+\t nAdyA=nE gAnA         gA lIyA
+\m nAdyA=nE gAnA         gA lIyA
+\g Nadya=Erg song.Nom sing take.Perf.M.Sg
+\l Nadya sang a song (completely).
+
+\t nAdyA       sOyI
+\m nAdyA       sOyI
+\g Nadya.Nom sleep.Perf.F.Sg
+\l Nadya slept.
+
+\t yassin=nE nAdyA=kO sOnE            dIyA
+\m yassin=nE nAdyA=kO sOnE            dIyA
+\g Yassin=Erg Nadya=Dat sleep.Inf.Obl give.Perf.M.Sg
+\l Yassin let Nadya sleep.
+
+\t nAdyA      has paRI
+\m nAdyA      has paRI
+\g Nadya.Nom laugh fall.Perf.F.Sg
+\l Nadya laughed (suddenly, unexpectedly).
+
+\t yassin=nE nAdyA=kO sOnE dIyA
+\m yassin=nE nAdyA=kO sOnE dIyA
+\g Yassin=Erg Nadya=Dat sleep.Inf give.Perf.M.Sg
+\l Yassin let Nadya sleep.
+
+\t yassin=nE nAdyA=kO gHar           banAnE dIyA
+\m yassin=nE nAdyA=kO gHar           banAnE dIyA
+\g Yassin=Erg Nadya=Dat house.Nom make.Inf give.Perf.M.Sg
+\l Yassin let Nadya build a house.
+
+\t yassin=nE nAdyA=kO sO jAnE dIyA
+\m yassin=nE nAdyA=kO sO jAnE dIyA
+\g Yassin=Erg Nadya=Dat sleep go.Inf give.Perf.M.Sg
+\l Yassin let Nadya sleep.
+
+\t yassin=nE nAdyA=kO gHar           banA lEnE dIyA
+\m yassin=nE nAdyA=kO gHar           banA lEnE dIyA
+\g Yassin=Erg Nadya=Dat house.Nom make take.Inf give.Perf.M.Sg
+\l Yassin let Nadya build a house.
+
+\t ram=ne       k hani=ko      yad      ki
+\m ram=ne       k hani=ko      yad      k-i
+\g Ram.M.Sg=Erg story.F.Sg=Acc memory.F do-Perf.F.Sg
+\l Ram remembered the story.
+
+\t nadya=ne     xt            likh liya
+\m nadya=ne     xt            likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t nadya=ne      gh r          b na liya
+\m nadya=ne      gh r          b na li-ya
+\g Nadya.F=Erg house.M.Nom make take-Perf.M.Sg
+\l Nadya built a house (completely, for herself).
+
+\t nadya=ne      gh r          b na diya
+\m nadya=ne      gh r          b na di-ya
+\g Nadya.F=Erg house.M.Nom make give-Perf.M.Sg
+\l Nadya built a house (completely, for somebody else).
+
+\t kisi=ne     batua                 kh o diya
+\m kisi=ne     batua                 kh o di-ya
+\g someone=Erg wallet.M.Sg.Nom lose give-Perf.M.Sg
+\l Somebody lost their wallet.
+
+\t nadya=ne    dÍËm n=ko pani=me duba
+\m nadya=ne    dÍËm n=ko pani=me dub-a
+\g Nadya.F=Erg enemy=Acc water=in drown-Caus give-Perf.M.Sg
+\l Nadya drowned the enemy in the water (forcefully).
+
+\t nadya=ne    dÍËm n=ko pani=me duba
+\m nadya=ne    dÍËm n=ko pani=me dub-a
+\g Nadya.F=Erg enemy=Acc water=in drown-Caus give-Perf.M.Sg
+\l Nadya drowned the enemy in the water (forcefully).
+
+\t m ~     ro duga
+\m m ~     ro d-u-g-a
+\g I.Nom cry give-1.Sg-Fut-M.Sg
+\l I will cry.
+
+\t vo     [likhe   or p rhe]gi
+\m vo     [likh-e   or p rh-e]-gi
+\g Pron.3 write-3.Sg and read-3.Sg-Fut.Fem.Sg
+\l She will read and write.
+
+\t m~        bh i ayi
+\m m~        bh i a-yi
+\g I.Nom now came-Perf.F.Sg
+\l I'll be right there (come right away).
+
+\t is l          rki     ki        Ëadi           hone   vali     h
+\m is l          rki     ki        Ëadi           ho-ne   vali     h
+\g this g       irl.F.Sg Gen.F.Sg marriage.Nom be-Inf.Obl one.F.Sg be.Pres.3.Sg
+\l This        girl's wedding is taking place so on.
+
+\t is l      rki     ki        Ëadi           hone   ko h
+\m is l      rki     ki        Ëadi           ho-ne   ko h
+\g this g   irl.F.Sg Gen.F.Sg marriage.Nom be-Inf.Obl Acc be.Pres.3.Sg
+\l This    girl's wedding is taking place so on.
+
+\t            to           sb           log            cÍp                    ho            gye
+\m            to           sb           log            cÍp                    ho            g-ye
+\g            though       all          people.Nom     quiet                   become        go.Perf.M.Pl
+\l When t     he do cto   r was about to speak, everybo dy fell   quiet.
+
+\t (1 5 )    njum          aj                               c li
+\m (1 5 )    njum          aj                               c l-i
+\g          Anjum.F.Sg.Nom to day morning scho ol.F.Sg.Lo c walk-Perf.F.Sg
+\l Anjum walked/went to scho ol this morning.
+
+\t (1 6 )    njum=ne         adnan=ko     dekha       h
+\m (1 6 )    njum=ne         adnan=ko     dekh-a       h
+\g          Anjum.F.Sg=Erg Adnan.M.Sg=Acc see-Perf.M.Sg be.Pres.3.Sg
+\l Anjum has seen Adnan.
+
+\t (1 7 )    njum=ne        adnan=ko      dekha       tha
+\m (1 7 )    njum=ne        adnan=ko      dekh-a       th-a
+\g          Anjum.F.Sg=Erg Adnan.M.Sg=Acc see-Perf.M.Sg be.Past-M.Sg
+\l Anjum had seen Adnan.
+
+\t (1 9 )    njum           adnan=ko      marti       h
+\m (1 9 )    njum           adnan=ko      mar-t-i       h
+\g          Anjum.F.Sg.Nom Adnan.M.Sg=Acc hit-Perf.f.Sg be.Pres.3.Sg
+\l Anjum hits Adnan.
+
+\t (2 0 )    njum            adnan=ko     marti       thi
+\m (2 0 )    njum            adnan=ko     mar-t-i       th-i
+\g          Anjum.F.Sg.Nom Adnan.M.Sg=Acc hit-Perf.F.Sg be.Past-F.Sg
+\l Anjum used to hit Adnan.
+
+\t m~     tala l gati          ...
+\m m~     tala l ga-t-i          ...
+\g I.Nom lo ck put-on-Impf-F.Sg
+\l Had I put on a lo ck, . . .
+
+\t (2 2 ) a .    njum             adnan=ko    mar r hi          h
+\m (2 2 ) a .    njum             adnan=ko    mar r h-i          h
+\g              Anjum.F.Sg.Nom Adnan.M.Sg=Acc hit stay-Perf.f.Sg be.Pres.3.Sg
+\l Anjum is hitting Adnan.
+
+\t  njum            adnan=ko     mar r hi          thi
+\m  njum            adnan=ko     mar r h-i          th-i
+\g Anjum.F.Sg.Nom Adnan.M.Sg=Acc hit stay-Perf.F.Sg be.Past-F.Sg
+\l Anjum was hitting Adnan.
+
+\t kÍtta          bho~kta   r ha
+\m kÍtta          bho~k-t-a   r h-a
+\g dog.M.Sg.Nom bark-Impf-M.Sg stay-Perf.M.Sg
+\l The dog kept on barking.
+
+\t kÍtta          bho~kta   r hta
+\m kÍtta          bho~k-t-a   r h-t-a
+\g dog.M.Sg.Nom bark-Impf-M.Sg stay-Impf-M.Sg
+\l The dog keeps on barking.
+
+\t kÍtta          bho~kta       j at a     h
+\m kÍtta          bho~k-t-a       j a-t- a     h
+\g dog.M.Sg.Nom bark-Impf-M.Sg go-Impf.M.Sg be.Pres.3.Sg
+\l The dog keeps on barking (willfully, over a long time).
+
+\t kÍtta          bho~kta       c la            j at a h
+\m kÍtta          bho~k-t-a       c l-a            j a-t- a h
+\g dog.M.Sg.Nom bark-Impf-M.Sg walk-Perf.M.Sg go-Impf.M.Sg be.Pres.3.Sg
+\l The dog keeps on barking (willfully, over a long time).
+
+\t kÍtta          bho~kta       c la            ja r ha          h
+\m kÍtta          bho~k-t-a       c l-a            ja r h-a          h
+\g dog.M.Sg.Nom bark-Impf-M.Sg walk-Perf.M.Sg go stay-Perf.M.Sg be.Pres.3.Sg
+\l The dog keeps on barking (willfully, over a long time, continuously).
+
+\t m t bola            k ro
+\m m t bol-a            k r-o
+\g not speak-Perf.M.Sg do-2.Fam
+\l You shouldn't keep speaking (saying things when you shouldn't)!
+
+\t milne      aya            k ro
+\m mil-n-e      a-ya            k r-o
+\g meet-Inf-Obl come-Perf.M.Sg do-2.Fam
+\l You should keep coming to visit.
+
+\t nadya=ne     xt             likh liya
+\m nadya=ne     xt             likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t nadya=ne      m kan         b na diya
+\m nadya=ne      m kan         b na di-ya
+\g Nadya.F=Erg house.M.Nom make give-Perf.M.Sg
+\l Nadya built a house (completely, for somebo dy else).
+
+\t nadya          gir gyi
+\m nadya          gir g-yi
+\g Nadya.F.Nom fall go-Perf.F.Sg
+\l Nadya fell (down).
+
+\t nadya            m kan          b na cÍki              h
+\m nadya            m kan          b na cÍk-i              h
+\g Nadya.F.Sg.Nom house.M.Nom make pick-up-Perf.F.Sg be.Pres.3.Sg
+\l Nadya has built a house (finished it completely, already).
+
+\t nadya            ga cÍki              h
+\m nadya            ga cÍk-i              h
+\g Nadya.F.Sg.Nom sing pick-up-Perf.F.Sg be.Pres.3.Sg
+\l Nadya has sung (completely, already).
+
+\t nadya           m kan           b nane l gi         h
+\m nadya           m kan           b na-n-e l g-i         h
+\g Nadya.F.Sg.Nom house.M.Nom make-Inf-Obl begin-Perf.F.Sg be.Pres.3.Sg
+\l Nadya began building a house.
+
+\t t m=ne nadya=ko        kh ana       diya?
+\m t m=ne nadya=ko        kh ana       di-ya?
+\g you=Erg Nadya.F=Dat fo o d.M.Sg.Nom give-Perf.M.Sg
+\l Did you give Nadya (some) fo o d?
+
+\t ji,        diya
+\m ji,        di-ya
+\g yes.Polite give-Perf.M.Sg
+\l Yes, gave.
+
+\t ram            gari       x ridega
+\m ram            gari       x rid-e-g-a
+\g Ram.M.Sg.Nom car.F.Sg.Nom buy-3.Sg-Fut-M.Sg
+\l Ram will buy a/the car.
+
+\t ram             gari=ko         x ridega
+\m ram             gari=ko         x rid-e-g-a
+\g Ram.M.Sg.Nom car.F.Sg=Acc buy-3.Sg-Fut-M.Sg
+\l Ram will buy the car (a specific car).
+
+\t ram             gari=ko   x ridega
+\m ram             gari=ko   x rid-e-g-a
+\g Ram.M.Sg.Nom car.F.Sg=Acc buy-3.Sg-Fut-M.Sg
+\l Ram will buy the car.
+
+\t ram=ne        gari=ko     x rida
+\m ram=ne        gari=ko     x rid-a
+\g Ram.M.Sg=Erg car.F.Sg=Acc buy-Perf.M.Sg
+\l Ram has bought the car.
+
+\t ram            kh ~a
+\m ram            kh ~-a
+\g Ram.M.Sg.Nom cough-Perf.M.Sg
+\l Ram coughed.
+
+\t ram=ne        kh ~a
+\m ram=ne        kh ~-a
+\g Ram.M.Sg=Erg cough-Perf.M.Sg
+\l Ram coughed (purposefully).
+
+\t nadya=ko        zu             jana      h
+\m nadya=ko        zu             ja-na      h
+\g Nadya.F.Sg=Dat zo o.M.Sg.Lo c go-Inf.M.Sg be.Pres.3.Sg
+\l Nadya has/wants to go to the zo o.
+
+\t nadya=ne       k hani          yad       ki
+\m nadya=ne       k hani          yad       k-i
+\g Nadya.F.Sg=Erg story.F.Sg.Nom memory do-Perf.F.Sg
+\l Nadya remembered the story (actively).
+
+\t  njÍm=ne    s dd f=ko       masala      c khvaya
+\m  njÍm=ne    s dd f=ko       masala      c kh-va-ya
+\g Anjum.F=Erg Saddaf.F=Acc spice.M.Nom taste-Caus-Perf.M.Sg
+\l Anjum had Saddaf taste the seasoning.
+
+\t  njÍm=ne    s dd f=se       masala         c khvaya
+\m  njÍm=ne    s dd f=se       masala         c kh-va-ya
+\g Anjum.F=Erg Saddaf.F=Inst spice.M.Nom taste-=bf Caus-Perf.M.Sg
+\l Anjum had the seasoning tasted by Saddaf.
+
+\t nadya=ne         zu              jana    h
+\m nadya=ne         zu              ja-na    h
+\g Nadya.F.Sg=Erg zo o.M.Sg.Lo c go-Inf.M.Sg be.Pres.3.Sg
+\l Nadya wants to go to the zo o.
+
+\t nadya=ko        zu             jana      h
+\m nadya=ko        zu             ja-na      h
+\g Nadya.F.Sg=Dat zo o.M.Sg.Lo c go-Inf.M.Sg be.Pres.3.Sg
+\l Nadya has/wants to go to the zo o.
+
+\t ji,        diya
+\m ji,        di-ya
+\g yes.Polite give-Perf.M.Sg
+\l Yes, gave.
+
+\t yassin         Ëer=ko       dekhta tha
+\m yassin         Ëer=ko       dekh-t-a th-a
+\g Yassin.M.Nom lion.M=Acc see-Impf-M.Sg be.Past-M.Sg
+\l Yassin used to watch the lion.
+
+\t  dnan          gari   calata         h
+\m  dnan          gari   cala-ta         h
+\g Adnan.M.Nom car.F.Nom drive-Impf.M.Sg be.Pres.3.Sg
+\l Adnan drives a car.
+
+\t nadya=ne/ dnan=ne         gari    calayi         h
+\m nadya=ne/ dnan=ne         gari    cala-yi         h
+\g Nadya.F=Erg/Adnan.M=Erg car.F.Nom drive-Perf.F.Sg be.Pres.3.Sg
+\l Nadya has driven a car.
+
+\t nadya=ne      gari=ko    calaya      h
+\m nadya=ne      gari=ko    cala-ya      h
+\g Nadya.F=Erg car.F=Acc drive-Perf.M.Sg be.Pres.3.Sg
+\l Nadya has driven the car.
+
+\t Anjum xat likhtii hai
+\m Anjum xat likhtii hai
+\g Anjum letter writing is
+\l Anjum writes a letter
+
+\t Nadya          [lahor or karach i]=se hE.
+\m Nadya          [lahor or karach i]=se hE.
+\g Nadya.F.SG.NOM Lahore and Karachi INST be.PRES.3.SG
+\l Nadya is from Lahore and Karachi.
+
+\t nadya=ne     xt             likh liya
+\m nadya=ne     xt             likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t nadya=ne      m kan         b na diya
+\m nadya=ne      m kan         b na di-ya
+\g Nadya.F=Erg house.M.Nom make give-Perf.M.Sg
+\l Nadya built a house (completely, for somebo dy else).
+
+\t nadya            h s p ri.
+\m nadya            h s p r-i.
+\g Nadya.F.Sg.Nom laugh fall-Perf.F.Sg
+\l Nadya burst out laughing.
+
+\t a .    njÍm=ne      s dd f=ko       xt      likhne      diya
+\m a .    njÍm=ne      s dd f=ko       xt      likh-ne      di-ya
+\g       Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl give-Perf.M.Sg
+\l Anjum let Saddaf write a letter.
+
+\t kis=ne        kÍtte=ko         gh r ke nd r      ane         dia?
+\m kis=ne        kÍtte=ko         gh r ke nd r      a-ne         di-a?
+\g who.Obl=Erg dog.M.Obl=Dat house Gen.Obl inside come-Inf.Obl give-Perf.M.Sg
+\l Who let the dog come into the house?
+
+\t m kan           b na
+\m m kan           b n-a
+\g house.M.Sg.Nom be made-Perf.M.Sg
+\l The house was built.
+
+\t  njÍm=ne      m kan        b naya
+\m  njÍm=ne      m kan        b n-a-ya
+\g Anjum.F=Erg house.M.Sg.Nom be made-Caus-Perf.M.Sg
+\l Anjum built a house.
+
+\t nadya=ko       k hani           yad      ayi
+\m nadya=ko       k hani           yad      a-yi
+\g Nadya.F.Sg=Dat story.F.Sg.Nom memory come-Perf.F.Sg
+\l Nadya remembered the story (the story came to Nadya).
+
+\t nadya=ne       k hani          yad       ki
+\m nadya=ne       k hani          yad       k-i
+\g Nadya.F.Sg=Erg story.F.Sg.Nom memory do-Perf.F.Sg
+\l Nadya remembered the story (actively).
+
+\t p rhi        nah~ijati
+\m p rh-i        nah~ija-ti
+\g read-Impf.F.Sg not go-Impf.F.Sg
+\l Nadya do es not have the ability to read this Urdu letter.
+
+\t  njÍm=ne      s dd f=ko      [x t        likhne]=ko   k ha
+\m  njÍm=ne      s dd f=ko      [x t        likh-ne]=ko   k h-a
+\g Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Saddaf to write the letter.
+
+\t billi          bistar    [ke      nich e] so rahi       h
+\m billi          bistar    [ke      nich e] so rah-i       h
+\g cat.F.Sg.Nom bed.M.Sg Gen.Obl under sleep stay-Perf.F.Sg be.Pres.3.Sg
+\l The cat is sleeping under the bed.
+
+\t nadya             s dd f=se     bat           k r r hi         h
+\m nadya             s dd f=se     bat           k r r h-i         h
+\g Nadya.F.Sg.Nom Saddaf.F.Sg=Inst talk.F.Sg.Nom do stay-Perf.F.Sg be.Pres.3.Sg
+\l Nadya is talking to Saddaf.
+
+\t vo        rone      l gi
+\m vo        ro-ne      l g-i
+\g Pron.Nom cry-Inf.Obl be.attached-Perf.F.Sg
+\l She began to cry.
+
+\t vo         a      cÍka
+\m vo         a      cÍk-a
+\g Pron.Nom come lift-Perf.M.Sg
+\l He has arrived.
+
+\t nadya=ne     xt             likh liya
+\m nadya=ne     xt             likh li-ya
+\g Nadya.F=Erg letter.M.Nom write take-Perf.M.Sg
+\l Nadya wrote a letter (completely).
+
+\t (1 7 ) a .    dnan          g a ri c lata         h
+\m (1 7 ) a .    dnan          g a ri c la-ta         h
+\g              Adnan.M.Nom car.F.Nom drive-Impf.M.Sg be.Pres.3.Sg
+\l Adnan drives a car.
+
+\t  dnan=ne       gari       c layi     h
+\m  dnan=ne       gari       c la-yi     h
+\g Adnan.M=Erg car.F.Nom drive-Perf.F.Sg be.Pres.3.Sg
+\l Adnan has driven a car.
+
+\t nadya=ne      gari=ko    c laya      h
+\m nadya=ne      gari=ko    c la-ya      h
+\g Nadya.F=Erg car.F=Acc drive-Perf.M.Sg be.Pres.3.Sg
+\l Nadya has driven the car.
+
+\t (1 8 ) a .    njÍm=ne      s dd f=ko       xt      likhne      diya
+\m (1 8 ) a .    njÍm=ne      s dd f=ko       xt      likh-ne      di-ya
+\g              Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl give-Perf.M.Sg
+\l Anjum let Saddaf write a letter.
+
+\t (1 9 ) a .     njÍm=ne      s dd f=ko      [x t        likhne]=ko   k ha
+\m (1 9 ) a .     njÍm=ne      s dd f=ko      [x t        likh-ne]=ko   k h-a
+\g               Anjum.F=Erg Saddaf.F=Dat letter.M.Nom write-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Saddaf to write the letter.
+
+\t           nd r r khne=ko      k ha
+\m           nd r r kh-ne=ko      k h-a
+\g          inside put-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Saddaf to put the luggage inside, after having opened the do or.
+
+\t (2 5 )    njÍm=nei     dnan=koj         pnii,  j gari c lane       di
+\m (2 5 )    njÍm=nei     dnan=koj         pn-ii,  j gari c la-ne       d-i
+\g          Anjum.F=Erg Adnan.M=Dat self-F.Sg car.F.Sg.Nom drive-Inf.Obl give-Perf.F.Sg
+\l Anjum let Adnan drive self 's (Anjum's) car.
+
+\t (2 6 )    njÍm=nei      dnan=koj [ pni?  i, j gari .       c lane]=ko   k ha
+\m (2 6 )    njÍm=nei      dnan=koj [ pn-i?  i, j gari .       c la-ne]=ko   k h-a
+\g          Anjum.F=Erg Adnan.M=Dat self-F.Sg car.F.Sg.Nom drive-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Adnan to drive self 's (Adnan's) car.
+
+\t  njÍm=nei   dnan=koj Ís=ki i, j, k gari      c lane       di           
+\m  njÍm=nei   dnan=koj Ís=ki i, j, k gari      c la-ne       d-i           
+\g Anjum.F=Erg Adnan.M=Dat pron=Gen.F car.F=Nom drive-Inf.Obl give-Perf.F.Sg
+\l Anjum let Adnan drive his car.
+
+\t c lane]=ko       k ha
+\m c la-ne]=ko       k h-a
+\g drive-Inf.Obl=Acc say-Perf.M.Sg
+\l Anjum told Adnan to drive his/her car.
+
+\t nadya=ne       xt              likh diya
+\m nadya=ne       xt              likh di-ya
+\g Nadya.F.Sg=Erg letter.M.Sg.Nom write give-Perf.M.Sg
+\l Nadya wrote the letter (completely, for somebo dy else).
+
+\t vo              so    �ati       thi
+\m vo              so    �a-ti       th-i
+\g Pron.3.Sg.Nom sleep go-Impf.F.Sg be.Past-Sg.F
+\l She to used to go to sleep.
+
+\t vo              so  r hi     thi
+\m vo              so  r h-i     th-i
+\g Pron.3.Sg.Nom sleep Prog-F.Sg be.Past-Sg.F
+\l She was sleeping.
+
+\t vo              so  r hi     vahi       thi
+\m vo              so  r h-i     vahi       th-i
+\g  Pron.3.Sg.Nom sleep Prog-F.Sg Prog.Redup be.Past-Sg.F
+\l She was sleeping.
+
+\t nadya=ne         x t=ko             likh mara
+\m nadya=ne         x t=ko             likh mar-a
+\g Nadya.F.Sg=Erg letter.M.Sg=Acc write hit-Perf.M.Sg
+\l Nadya dashed off the letter (forcefully).
+
+\t nadya=ne         xt               likh diya
+\m nadya=ne         xt               likh di-ya
+\g Nadya.F.Sg=Erg letter.M.Sg.Nom write give-Perf.M.Sg
+\l Nadya wrote the letter (completely, for somebo dy else).
+
+\t nadya=ne         xt               likh liya
+\m nadya=ne         xt               likh li-ya
+\g Nadya.F.Sg=Erg letter.M.Sg.Nom write take-Perf.M.Sg
+\l Nadya wrote the letter (completely, for herself ).
+
+\t nadya=ne         s dd f=ko         xt       likhne      diya
+\m nadya=ne         s dd f=ko         xt       likh-ne      di-ya
+\g Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write-Inf.Obl give-Perf.M.Sg
+\l Nadya let Saddaf write a letter.
+
+\t nadya=ne         s dd f=ko          xt          likh lene     diya
+\m nadya=ne         s dd f=ko          xt          likh le-ne     di-ya
+\g Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write take-Inf.Obl give-Perf.M.Sg
+\l Nadya let Saddaf write a letter (completely).
+
+\t /???nadya=ne      s dd f=ko          xt         likh ne     de liya
+\m /???nadya=ne      s dd f=ko          xt         likh ne     de li-ya
+\g    Nadya.F.Sg=Erg Saddaf.F.Sg=Dat letter.M.Nom write-Inf.Obl give take-Perf.M.Sg
+\l Nadya completely let Saddaf write a letter.
+
+\t nadya           cai         piti           h / th i
+\m nadya           cai         pi-ti           h / th i
+\g Nadya.F.Sg.Nom tea.F.Sg.Nom drink-Impf.F.Sg be.Sg.Pres/be.F.Sg.Past
+\l Nadya drinks/drank tea.
+
+\t nadya             g a ri        c la leti       (h )
+\m nadya             g a ri        c la le-ti       (h )
+\g Nadya.F.Sg.Nom car.F.Sg.Nom drive take-Impf.F.Sg be.Pres.Sg
+\l Nadya do es/will drive a car.
+
+\t nadya=se          g a ri         c layi     jati        (h )
+\m nadya=se          g a ri         c la-yi     ja-ti        (h )
+\g Nadya.F.Sg=Inst car.F.Sg.Nom drive-Perf.F.Sg go-Impf.F.Sg be.Pres.Sg
+\l Nadya has the ability to drive a car.
+
+\t p rhi         nah~ijati
+\m p rh-i         nah~ija-ti
+\g be.Pres.Sg
+\l Nadya do es not have the ability to read this Urdu letter.
+
+\t nadya=ne         g a ri       c la li           (h )
+\m nadya=ne         g a ri       c la l-i           (h )
+\g Nadya.F.Sg=Erg car.F.Sg.Nom drive take-Perf.F.Sg be.Pres.Sg
+\l Nadya has driven a/the car.
+
+\t nadya             g a ri        c la leti       (h )
+\m nadya             g a ri        c la le-ti       (h )
+\g Nadya.F.Sg.Nom car.F.Sg.Nom drive take-Impf.F.Sg be.Pres.Sg
+\l Nadya do es/will drive a car.
+
+\t nadya             b cc~=ko            .                   deti               h         
+\m nadya             b cc~=ko            .                   de-ti               h         
+\g Nadya.F.Sg.Nom child.Pl.Obl=Dat toffee.F.Sg.Nom give      give-Impf.F.Sg      be.Pres.Sg
+\l Nadya will/do es give toffee to children.
+
+\t nadya            cai        pi    s kti        h
+\m nadya            cai        pi    s k-ti        h
+\g Nadya.F.Sg.Nom tea.F.Sg.Nom drink can-Impf.F.Sg be.Sg.Pres
+\l Nadya can drink tea.
+
+\t nadya             g a ri        c la leti       (h )
+\m nadya             g a ri        c la le-ti       (h )
+\g Nadya.F.Sg.Nom car.F.Sg.Nom drive take-Impf.F.Sg be.Pres.Sg
+\l Nadya do es/will drive a car.
+
+\t (6 4 ) a .    cch a, urdu           bh i bolti         h?
+\m (6 4 ) a .    cch a, urdu           bh i bol-ti         h?
+\g              yes     Urdu.F.Sg.Nom also speak-Impf.F.Sg be.Pres.Sg
+\l So, she also speaks Urdu?
+
+\t bole?
+\m bol-e?
+\g yes yes speak take-Impf.F.Sg be.Pres.Sg why not
+\l Yes, yes, she (do es) speak Urdu. Why shouldn't she?
+
+\t nadya            g a ri       c la leti           h,                 m gar c lati              hi      nah~i
+\m nadya            g a ri       c la le-ti           h,                 m gar c la-ti              hi      nah~i
+\g Nadya.F.Sg.Nom      car.F.Sg.Nom drive take-Impf.F.Sg be.Pres.Sg      but   drive-Impf.F.Sg Emph         not  
+\l Nadya do es/will   drive a car, but do esn't.
+
+\t legi
+\m le-gi
+\g take-Fut.F.Sg
+\l If the road is go o d, Nadya will ride a bicycle.
+
+\t nadya             g a ri        c la leti       (h )
+\m nadya             g a ri        c la le-ti       (h )
+\g Nadya.F.Sg.Nom car.F.Sg.Nom drive take-Impf.F.Sg be.Pres.Sg
+\l Nadya do es/will drive a car.
+
+\t gari          nadya              c la leti      (h )
+\m gari          nadya              c la le-ti      (h )
+\g car.F.Sg.Nom Nadya.F.Sg.Nom drive take-Impf.F.Sg be.Pres.Sg
+\l Nadya do es/will drive a car.
+
+\t nadya=se          g a ri         c layi     j ati     (h )
+\m nadya=se          g a ri         c la-yi     j a-ti     (h )
+\g Nadya.F.Sg=Inst car.F.Sg.Nom drive-Perf.F.Sg go-Impf.F.Sg be.Pres.Sg
+\l Nadya has the ability to drive a car.
+
+\t (h )
+\m (h )
+\g be.Pres.Sg
+\l Nadya do es not have the ability to read this Urdu letter.
+
+\t vo         c l nah~ s kti
+\m vo         c l nah~ s k-ti
+\g Pron.Nom walk not can-Impf.F.Sg be.Pres.Sg
+\l She can't walk.
+
+\t vo         bilkÍl    c l nah~is kti      h
+\m vo         bilkÍl    c l nah~is k-ti      h
+\g Pron.Nom absolutely walk not can-Impf.F.Sg be.Pres.Sg
+\l She absolutely cannot walk.
+
+\t (h )
+\m (h )
+\g be.Pres.Sg
+\l Nadya has the ability   to read this Urdu letter.
+
+\t nadya=se          g a ri         c layi     j ati     h
+\m nadya=se          g a ri         c la-yi     j a-ti     h
+\g Nadya.F.Sg=Inst car.F.Sg.Nom drive-Perf.F.Sg go-Impf.F.Sg be.Pres.Sg
+\l Nadya has the ability to drive a/the car.
+
+\t gari              nadya=se       c layi     j ati     h
+\m gari              nadya=se       c la-yi     j a-ti     h
+\g Nadya.F.Sg=Inst car.F.Sg.Nom drive-Perf.F.Sg go-Impf.F.Sg be.Pres.Sg
+\l Nadya has the ability to drive the car.
+
+\t nadya            g a ri      c la s kti        h
+\m nadya            g a ri      c la s k-ti        h
+\g Nadya.F.Sg.Nom car.F.Sg.Nom drive can-Impf.F.Sg be.Pres.Sg
+\l Nadya can drive a/the car.
+
+\t gari             nadya      c la s kti         h
+\m gari             nadya      c la s k-ti         h
+\g Nadya.F.Sg.Nom car.F.Sg.Nom drive can-Impf.F.Sg be.Pres.Sg
+\l Nadya can drive the car.
+
+\t (9 7 )    njÍm=ne         p th r=ko    bahar nikal liya
+\m (9 7 )    njÍm=ne         p th r=ko    bahar nikal li-ya
+\g          Anjum.F.Sg=Erg stone.M=Acc out extract take-Perf.M.Sg
+\l Anjum extracted the stone.
+
+\t a . ra m            g a ri    calata         (h)
+\m a . ra m            g a ri    cala-ta         (h)
+\g     Ram.M.Sg.Nom car.M.Sg.Nom drive-Impf.M.Sg be.Pres.3.Sg
+\l Ram drives a car.
+
+\t ram=ne         g a ri       calayi         (h)
+\m ram=ne         g a ri       cala-yi         (h)
+\g Ram.M.Sg=Erg car.M.Sg.Nom drive-Perf.M.F.Sg be.Pres.3.Sg
+\l Ram has driven a/the car.
+
+\t nadya=ne       k hani          yad       ki
+\m nadya=ne       k hani          yad       k-i
+\g Nadya.F.Sg=Erg story.F.Sg.Nom memory do-Perf.F.Sg
+\l Nadya remembered the story (actively).
+
+\t nadya=ko       k hani           yad      ayi
+\m nadya=ko       k hani           yad      a-yi
+\g Nadya.F.Sg=Dat story.F.Sg.Nom memory come-Perf.F.Sg
+\l Nadya remembered the story (the story came to Nadya).
+
+\t (2 0 ) a . ra m            g a ri    c lata         (h)
+\m (2 0 ) a . ra m            g a ri    c la-ta         (h)
+\g            Ram.M.Sg.Nom car.M.Sg.Nom drive-Impf.M.Sg be.Pres.3.Sg
+\l Ram drives a car.
+
+\t ram=ne         g a ri       c layi       (h)
+\m ram=ne         g a ri       c la-yi       (h)
+\g Ram.M.Sg=Erg car.F.Sg.Nom drive-Perf.F.Sg be.Pres.3.Sg
+\l Ram has driven a/the car.
+
+\t (2 2 )    njÍm=ne       s dd f=ko      citth i         di
+\m (2 2 )    njÍm=ne       s dd f=ko      citth i         d-i
+\g          Anjum.F.Sg=Erg Saddaf.F.Sg=Dat letter.F.Sg.Nom give-Perf.F.Sg
+\l Anjum gave Saddaf a letter.
+
+\t nadya=ko         k hani           yad    ayi
+\m nadya=ko         k hani           yad    a-yi
+\g Nadya.F.Sg=Dat story.F.Sg.Nom     memory come-Perf.F.Sg
+\l Nadya remembered the story.
+
+\t nadya=ne       k hani          yad       ki
+\m nadya=ne       k hani          yad       k-i
+\g Nadya.F.Sg=Erg story.F.Sg.Nom memory do-Perf.F.Sg
+\l Nadya remembered the story (actively).
+
+\t nadya=ko       k hani           yad      ayi
+\m nadya=ko       k hani           yad      a-yi
+\g Nadya.F.Sg=Dat story.F.Sg.Nom memory come-Perf.F.Sg
+\l Nadya remembered the story (the story came to Nadya).
+
+\t nadya=ne          aj    lahor=se    fon    kiya
+\m nadya=ne          aj    lahor=se    fon    ki-ya
+\g Nadya.F.Sg=Erg to day Lahore=Inst phone do-Perf.M.Sg
+\l Nadya called from Lahore to day.
+
+\t sÍnar=ne              sone=se            har               b naya
+\m sÍnar=ne              sone=se            har               b na-ya
+\g goldsmith.M.Sg=Erg gold.M.Sg.Obl=Inst necklace.M.Sg.Nom make-Perf.M.Sg
+\l The goldsmith made a necklace out of the gold.
+
+\t nadya             s dd f=se        bat           k r r hi        h
+\m nadya             s dd f=se        bat           k r r h-i        h
+\g Nadya.F.Sg.Nom Saddaf.F.Sg=Inst talk.F.Sg.Nom do stay-Perf.F.Sg be.Pres.3.Sg
+\l Nadya is talking to Saddaf.
+
+\t nadya=se          ye urdu=ki              citth i         parhi        n h~i         j ati      
+\m nadya=se          ye urdu=k-i              citth i         parh-i        n h~i         j a-ti      
+\g Nadya.F.Sg=Inst this Urdu=Gen-F.Sg         letter.F.Sg.Nom read-Impf.F.Sg not          go-Impf.F.Sg
+\l Nadya do es not have the ability to rea   d this Urdu letter.
+
+\t vo         gir jaegi
+\m vo         gir ja-e-g-i
+\g Pron.3.Sg fall go-3.Sg-Fut-F.Sg
+\l She will fall.
+
+\t us=se            gira        jaega
+\m us=se            gir-a        ja-e-g-a
+\g Pron.3.Sg=Inst fall-Perf.M.Sg go-3.Sg-Fut-M.Sg
+\l She will be able to fall.
+
+\t nadya=ne           jiraf=ko               dekhna       h
+\m nadya=ne           jiraf=ko               dekh-na       h
+\g Nadya.F.Sg=Erg     giraffe.M.Sg=Acc       see-Inf.M.Sg   be.Pres.3.Sg
+\l Nadya wants to   see the giraffe.
+
+\t tumhe       pattaa   hae agar vah laka bhaasaavijnan parhtaa hai?
+\m tumhe       pattaa   hae agar vah laka bhaasaa-vijnan parhtaa hai?
+\g you(DAT) ­ knowledge ­ is ­ if ­ DET ­ boy ­ linguistics ­ study ­ is
+\l Do you know if that boy studies linguistics?
+
+\t anjum=ne     saddaf=se       masaalaa(=ko)    cakhvayaa
+\m anjum=ne     saddaf=se       masaalaa(=ko)    cakh-va-yaa
+\g Anjum.F=Erg Saddaf.F=Inst spice.M.Nom/(Acc) taste-Caus-Perf.M.Sg
+\l Anjum had the seasoning tasted by Saddaf.
+
+\t ( 7 1 ) n ad y a         kitab       layi
+\m ( 7 1 ) n ad y a         kitab       la-yi
+\g         Nadya.F.Sg.Nom book.F.Sg.Nom bring-Perf.F.Sg
+\l Nadya brought a book.
+
+\t nadya=ko           Íssa             ay a
+\m nadya=ko           Íssa             a-y a
+\g  Nadya.F.Sg=Dat anger.M.Sg.Nom be come-Perf.M.Sg
+\l Nadya got angry.
+
+\t ram=ne        kh ~a
+\m ram=ne        kh ~-a
+\g Ram.M.Sg=Erg cough-Perf.M.Sg
+\l Ram coughed (purposefully).
+
+\t AnjUm=ne     sAddAf=ko       masala     cAkhvaya
+\m AnjUm=ne     sAddAf=ko       masala     cAkh-va-ya
+\g Anjum.F=Erg Saddaf.F=Acc spice.M.Nom taste-Caus-Perf.M.Sg
+\l Anjum had Saddaf taste the seasoning.
+
+\t AnjUm=ne     sAddAf=se       masala        cAkhvaya
+\m AnjUm=ne     sAddAf=se       masala        cAkh-va-ya
+\g Anjum.F=Erg Saddaf.F=Inst spice.M.Nom taste-Caus-Perf.M.Sg
+\l Anjum had the seasoning tasted by Saddaf.
+
+\t nadya=ne       kAhani          yad       ki
+\m nadya=ne       kAhani          yad       k-i
+\g Nadya.F.Sg=Erg story.F.Sg.Nom memory do-Perf.F.Sg
+\l Nadya remembered the story (actively).
+
+\t nadya=ko       kAhani          yad    ayi
+\m nadya=ko       kAhani          yad    a-yi
+\g Nadya.F.Sg=Dat story.F.Sg.Nom memory come-Perf.F.Sg
+\l Nadya remembered the story (memory came to Nadya).
+
+\t nadya=ko        zu             jana      hE
+\m nadya=ko        zu             ja-na      hE
+\g Nadya.F.Sg=Dat zo o.M.Sg.Lo c go-Inf.M.Sg be.Pres.3.Sg
+\l Nadya has/wants to go to the zo o.
+
+\t Adnan ne gari      tËalayi     hi.
+\m Adnan ne gari      tËala-yi     h-i.
+\g Adnan car.NOM.F drive-PERF.F.SG be-PRES.3.SG
+\l Adnan has driven a car.
+
+\t Nadya ne gari ko tËalaya   hi.
+\m Nadya ne gari ko tËala-ya   h-i.
+\g Nadya car.F drive-PERF.M.SG be-PRES.3.SG
+\l Nadya has driven the car.
+
+\t us adm¯ ko t¯n pustke d¯jie.
+\m us adm¯ ko t¯n pustke d¯jie.
+\g that man      three books give
+\l Please give that man three books.
+
+\t mujhe patr likhie.
+\m mujhe patr likhie.
+\g me     letter write
+\l Please write me a letter.
+
+\t akram ko samose pasand hã~.
+\m akram ko samose pasand hã~.
+\g Akram samose like      be
+\l Akram likes samosas.
+
+\t ye bas kahã se at¯ hai?
+\m ye bas kahã se at¯ hai?
+\g this bus where come be
+\l Where does this bus come from?
+
+\t mã~ido din se b¯mar hu.
+\m mã~ido din se b¯mar hu.
+\g I two days sick be
+\l I have been sick for two days.
+
+\t mujh se ais¯ dava ¯     kha¯ nah~ jat¯.
+\m mujh se ais¯ dava ¯     kha¯ nah~ jat¯.
+\g I        such medicine take not go
+\l I can't possibly take such medicine.
+
+\t hath¯        ¯   ¯      ~    ¯
+\m hath¯        ¯   ¯      ~    ¯
+\g elephant fifty thousand    be obtained
+\l The elephant was purchased for fifty thousand.
+
+\t yah rah sahar tak jat¯ hai.
+\m yah rah sahar tak jat¯ hai.
+\g this path city     go be
+\l This path goes as far as te city.
+
+\t mã~ikal       tak yahã rahuga.
+\m mã~ikal       tak yahã rahuga.
+\g I tomorrow         here remain
+\l I shall remain here until tomorrow.
+
+\t nadya [ lahor or karachi ] se hai.
+\m nadya [ lahor or karachi ] se hai.
+\g Nadya Lahore and Karachi        be
+\l Nadya is from Lahore and Karachi.
+
+\t   .¯        s¯ta                 ¯
+\m   .¯        s¯ta                 ¯
+\g boy.SG.M.DIR Sita.SG.F.OBL look.IMPF.SG.M be.PRES.3.SG
+\l The boy looks at Sita.
+
+\t   .                ¯      parh¯.
+\m   .                ¯      parh¯.
+\g boy.SG.M.OBL book.SG.F.DIR read.PERF.SG.F
+\l The boy read the book.
+
+\t   .          ne s¯ta              ¯
+\m   .          ne s¯ta              ¯
+\g girl.PL.F.OBL Sita.SG.F.OBL look.PERF.DFT
+\l The girls looked at Sita.
+
+\t   .           roy¯.
+\m   .           roy¯.
+\g girl.PL.F.DIR cry.PERF.PL.F
+\l The girls cried.
+
+\t hai.
+\m hai.
+\g be.PRES.3.SG
+\l Ram's book appears good to him. (lit. to Ram his book appears good)
+
+\t mujh se ais¯ dava ¯            kha¯        nah~ jat¯.
+\m mujh se ais¯ dava ¯            kha¯        nah~ jat¯.
+\g I.OBL such medicine.SG.F.DIR take.IMPF.SG.F not go.IMPF.SG.F
+\l I can't possibly take such medicine.
+
+\t                 ¯         nah~ jaega.
+\m                 ¯         nah~ jaega.
+\g (s)he.OBL walk.PERF.DFT not go.FUT.DFT
+\l (S)he can't possibly walk.
+
+\t                              ¯´ ¯    nah¯ kiya.
+\m                              ¯´ ¯    nah¯ kiya.
+\g morning.SG.F.OBL Ali.SG.M breakfast.DFT not do.PERF.DFT
+\l Ali didn't take breakfast this morning.
+
+\t  dadar se aya    ¯¯           hu.
+\m  dadar se aya    ¯¯           hu.
+\g PRO Dadar from come.PERF.M.SG be.PRES.1.SG
+\l (I) have just come from Dadar.
+
+\t   .          ne s¯ta              ¯
+\m   .          ne s¯ta              ¯
+\g girl.PL.F.OBL Sita.SG.F.OBL look.PERF.DFT
+\l The girls looked at Sita.
+

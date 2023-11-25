@@ -1,0 +1,65 @@
+\t Môj strýko je / bol    clenom        JRD.
+\m Môj strýko je / bol    clenom        JRD.
+\g my uncle COPPRS / PST memberINST JRD
+\l My uncle is / was member of a JRD (farmer's co-operative).
+
+\t Kukuchin         bol    lekar.
+\m Kukuchin         bol    lekar.
+\g Kukuchin         was    doctor-NOM
+\l Kukuchin was a doctor [his main characteristic].
+
+\t Kukuchin         bol    lekarom.
+\m Kukuchin         bol    lekarom.
+\g Kukuchin         was    doctor-INSTR
+\l Kukuchin was [happened to be] a doctor.
+
+\t Vybrali ego prezidentom
+\m Vybrali ego prezident-om
+\g they.elected him.ACC president-INSTR
+\l They elected him president
+
+\t Ivan pil pivo
+\m Ivan pil pivo
+\g Ivan Imp-drank beer
+\l Ivan was drinking/drank beer
+
+\t Ivan vypil dva piva
+\m Ivan vypil dva piva
+\g Ivan Perf-drank two beer
+\l Ivan drank two beers
+
+\t Poãul sam           psa     vyt'.
+\m Poãul sam           psa     vyt'.
+\g  heard aux.1sg dog.acc to-howl
+\l I heard the dog howling.
+
+\t (2 7 )         Nap´sal som list.
+\m (2 7 )         Nap´sal som list.
+\g                written am letter
+\l I have written a letter.
+
+\t            nemôzem/nevládzem         to        vydrza.
+\m            nemôzem/nevládzem         to        vydrza.
+\g            not-can.PRES.1SG          that      stand.INF
+\l I have not seen you for three days, I can't stand that any longer.
+
+\t            stan,         lebo        nemali                 kladivo.
+\m            stan,         lebo        nemali                 kladivo.
+\g            tent.ACC.SG   because     not-have.PAST.3PL      hammer.ACC.SG
+\l Our friends couldn't put up the tent because they didn't have a hammer.
+
+\t               vybra               spôsob         smrti
+\m               vybra               spôsob         smrti
+\g               choose.PFV.INF      way.ACC.SG     death.GEN.SG
+\l In the state of Utah the prisoners sentenced to death can choose the way they will die.
+
+\t             mechanikmi.
+\m             mechanikmi.
+\g             mechanic.INSTR.PL
+\l The car couldn't be repaired by the mechanics.
+
+\t Stará mama, ktorá k nam vcera prisli, povedali ...
+\m Stará mama, ktorá k nam vcera prisli, povedali ...
+\g Grandma-SG who-SG to us yesterday came-PL said-PL...
+\l Grandma, who came to see us yesterday, said . . . 
+

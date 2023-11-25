@@ -1,0 +1,660 @@
+\t pawRat      a       tinana            tu         sunis paqaynEp3
+\m pawRat      a       tina-na            tu         sunis pa-qaynEp3
+\g force       Nom mother-3S.Gen Acc                 child Cau(AV)-sleep4
+\l His mo   ther forced a child to sleep.
+
+\t mErinana=iku           tu     sunis   parusit.
+\m mErinana=iku           tu     sunis   pa-rusit.
+\g persuade=1S.Nom        Acc child      Cau(AV)-leave
+\l I persuaded a child   to leave.
+
+\t pawRatannai     ni       abasi ayku          pa/tuN tu   taquq
+\m pawRat-an-nai     ni       abasi ayku          pa-/tuN tu   taquq
+\g force-PV-3S.Gen Gen        Abas 1S.Nom         Cau-kill Acc chicken
+\l Abas forced me to kill   a chicken.
+
+\t b.?? pawRatannai     ni       abasi ayku          m/tuN tu   taquq
+\m b.?? pawRat-an-nai     ni       abasi ayku          m-/tuN tu   taquq
+\g      force-PV-3S.Gen Gen        Abas 1S.Nom         AV-kill Acc chicken
+\l Abas forced me to kill   a chicken.
+
+\t mpaska=isu          mE/tuN tu    taquq
+\m m-paska=isu          mE-/tuN tu    taquq
+\g AV-try=2S.Nom AV-kill Acc chicken
+\l You tried to kill a chicken.
+
+\t paskaanna=pa          mE/tuN tu    taquq
+\m paska-an-na=pa          mE-/tuN tu    taquq
+\g try-PV-3S.Gen=Fut AV-kill Acc chicken
+\l He will try to kill a chicken.
+
+\t pemukun     ya              ci            buya       ci          abasan1
+\m p-em-ukun     ya              ci            buya       ci          abas-an1
+\g hit-AF        Nom             Ncm           Buya       Ncm         Abas-Loc
+\l Buya hit Abas.
+
+\t simpukun    ya         ci                 buya       atu ci            utay
+\m sim-pukun    ya         ci                 buya       atu ci            utay
+\g Rec-hit      Nom        Ncm                Buya       and Ncm           Utay
+\l Buya and Utay hit each other.
+
+\t qemnut      ya       ci                  buya       ci          abasan
+\m q-em-nut      ya       ci                  buya       ci          abas-an
+\g angry-AF      Nom      Ncm                 Buya       Ncm         Abas-Loc
+\l Buya is mad at Abas.
+
+\t simqenut    ya        ci        buya                 atu ci            abas
+\m sim-qenut    ya        ci        buya                 atu ci            abas
+\g Rec-angry    Nom       Ncm       Buya                 and Ncm           Abas
+\l Buya and Abas are mad at each other.
+
+\t mabalyuti          (ni abas)          repaw     'nay
+\m ma-balyu-ti          (ni abas)          repaw     'nay
+\g   MA-sell-Pfv        Gen Abas           house     that
+\l The house was sold (by Abas).
+
+\t malizaq ayku             ci     utayan
+\m ma-lizaq ayku             ci     utay-an
+\g  MA-like 1Sg.Nom Ncm Utay.Acc
+\l I used to like Utay.
+
+\t bawa 'nay masalin taiRuRan
+\m bawa 'nay ma-salin ta-iRuR-an
+\g boat that MA-float Loc-river-Loc
+\l The boat floats on the river.
+
+\t makawit          ci        abas                atu ci             buya
+\m ma-kawit          ci        abas                atu ci             buya
+\g Rec-hold_hands Ncm          Abas                and Ncm            Buya
+\l Abas and Buya held hands.
+
+\t simkawit         ci        abas                atu ci             buya
+\m sim-kawit         ci        abas                atu ci             buya
+\g Rec-hold_hands Ncm          Abas                and Ncm            Buya
+\l Abas and Buya held hands.
+
+\t mapaRu           qanyawu
+\m ma-paRu           qanyawu
+\g Rec-hug           3Pl.Nom
+\l They hugged.
+
+\t simpaRu     qanyawu
+\m sim-paRu     qanyawu
+\g Rec-hug       3Pl.Nom
+\l They hugged.
+
+\t qatabung       ayku      ci          abasan
+\m qatabung       ayku      ci          abas-an
+\g meet.AF        1Sg.Nom Ncm           Abas-Loc
+\l I met Abas.
+
+\t simqatabung ya          ci          abas       atu ci       utay
+\m sim-qatabung ya          ci          abas       atu ci       utay
+\g Rec-meet     Nom         Ncm         Abas       and Ncm      Utay
+\l Abas and Utay met.
+
+\t semeles     tu qulusna        qanyawu
+\m s-em-eles     tu qulus-na        qanyawu
+\g change-AF     Acc clothes-3.Gen 3Pl.Nom
+\l They changed clothes.
+
+\t simseles    tu qulusna     qanyawu
+\m sim-seles    tu qulus-na     qanyawu
+\g Rec-change Acc clothes-3.Gen 3Pl.Nom
+\l They exchanged clothes.
+
+\t metatuqez    qanyawu kinawsa
+\m me-tatuqez    qanyawu kinawsa
+\g AF-argue      3Pl.Nom two.human
+\l They two argued.
+
+\t mapul         kintulu       sunis             'nay
+\m m-apul         kintulu       sunis             'nay
+\g AF-fight       three.human child               that
+\l The three children fought.
+
+\t nantina     ci        abas      atu ci                  imui
+\m nan-tina     ci        abas      atu ci                  imui
+\g Rec-mother Ncm         Abas      and Ncm                 Imui
+\l Abas and Imui are mother and daughter.
+
+\t nankaput      qanyawu
+\m nan-kaput      qanyawu
+\g Rec-friend     3Pl.Nom
+\l They are friends.
+
+\t nanepaw6    ci        buya     atu ci                       ukis
+\m nan-epaw6    ci        buya     atu ci                       ukis
+\g Rec-house    Ncm       Buya     and Ncm                      Ukis
+\l Buya and Ukis are husband and wife.
+
+\t simqenut        ci              buya   ci              abas
+\m sim-qenut        ci              buya   ci              abas
+\g  Rec-angry    Ncm       Buya      Ncm                   Abas
+\l Buya and Abas are mad at each other.
+
+\t simpukun      kinsepat       sunis              'nay
+\m sim-pukun      kinsepat       sunis              'nay
+\g Rec-hit        four.human child                  that
+\l The four children hit each other.
+
+\t simtatanuz       sunis     'nay7
+\m sim-ta-tanuz       sunis     'nay7
+\g Rec-Red-chase      child     that
+\l Those children chased each other.
+
+\t simkirim     aymi          tu wasu
+\m sim-kirim     aymi          tu wasu
+\g Rec-look_for 1Pl.excl.Nom Acc dog
+\l We looked for the dog(s).
+
+\t masulun sunis a           yawu kemirim            tu    wasuna
+\m masulun sunis a           yawu k-em-irim            tu    wasu-na
+\g   together    child Link that AF-look_for           Acc dog-3.Gen
+\l Those children look for their dog together.
+
+\t matapun qanyawu sanmay
+\m matapun qanyawu sanmay
+\g  together    3Pl.Nom cook
+\l They cook together.
+
+\t (22) simpukun   ci          abas         atu ci         buya       ci        utayan
+\m (22) sim-pukun   ci          abas         atu ci         buya       ci        utay-an
+\g      Rec-hit     Ncm         Abas         and Ncm        Buya       Ncm       Utay-Loc
+\l Abas and Buya hit Utay.
+
+\t simtayta aymi          tu sunisniaq
+\m sim-tayta aymi          tu sunis-niaq
+\g Rec-see 1Pl.excl.Nom Acc child-1Pl.excl.Gen
+\l We met up with our child/children.
+
+\t simuRing     qanyawu
+\m sim-uRing     qanyawu
+\g Rec-cry       3Pl.Nom
+\l They cried.
+
+\t (26) simtebeR   ci        abas     atu ci                        buya        tu zapan      ni utay 
+\m (26) sim-tebeR   ci        abas     atu ci                        buya        tu zapan      ni utay 
+\g      Rec-step    Ncm       Abas     and Ncm                       Buya        Acc foot      Gen Utay
+\l Abas and Buya both stepped on Utay's foot.
+
+\t simburaan        na qanyawu                      tu Raq          ci           buya
+\m sim-bura-an        na qanyawu                      tu Raq          ci           buya
+\g Rec-give-NAF       Gen 3Pl                         Acc liquor      Ncm          Buya
+\l They all gave Buya liquor.
+
+\t tatutunguz ci        utay atu ci       abas manan
+\m tatutunguz ci        utay atu ci       abas m-anan
+\g   each         Ncm Utay and Ncm Abas AF-return_home
+\l Utay and Abas each returns home.
+
+\t tatutunguz wasu 'nay Raytunguz
+\m tatutunguz wasu 'nay Raytunguz
+\g  each         dog that bark.AF
+\l Each of those dogs is barking.
+
+\t simliatip    ya         ci        abas       atu sunisna
+\m sim-liatip    ya         ci        abas       atu sunis-na
+\g Rec-take_care Nom        Ncm       Abas       and child-3.Gen
+\l Abas and her child take care of each other.
+
+\t metatuqez    qanyawu kinawsa
+\m me-tatuqez    qanyawu kinawsa
+\g AF-argue      3Pl.Nom two.human
+\l They two argued.
+
+\t mapul         kintulu       sunis        'nay
+\m m-apul         kintulu       sunis        'nay
+\g AF-fight       three.human child          that
+\l The three children fought.
+
+\t simtatanuz      ya          ci          abas
+\m sim-ta-tanuz      ya          ci          abas
+\g  Rec-Red-chase      Nom         Ncm         Abas
+\l Abas chases.
+
+\t simpukun ya          ci                 buya       ci         utayan
+\m sim-pukun ya          ci                 buya       ci         utay-an
+\g  Rec-hit      Nom       Ncm                Buya       Ncm        Utay-Loc
+\l Buya hit Utay together.
+
+\t simtebeR ci          abas       tu zapan                 ni utay
+\m sim-tebeR ci          abas       tu zapan                 ni utay
+\g  Rec-step      Ncm      Abas       Acc foot                 Gen Utay
+\l Abas all stepped on Utay's foot.
+
+\t pemukun     ci         buya          ci        abasan
+\m p-em-ukun     ci         buya          ci        abas-an
+\g hit-AF        Ncm        Buya          Ncm       Abas-Loc
+\l Buya hit Abas.
+
+\t simpukun    ci         buya           atu ci        utay
+\m sim-pukun    ci         buya           atu ci        utay
+\g Rec-hit      Ncm        Buya           and Ncm       Utay
+\l Buya and Utay hit each other.
+
+\t masang simiRaw         tu melanay simetung           qanyawu
+\m masang sim-iRaw         tu melanay sim-etung           qanyawu
+\g before Rec-rob          Acc land       Rec-kill        3Pl.Nom
+\l They robbed each other for the land and killed each other in the past.
+
+\t simselesimi                 tu qulus
+\m sim-seles-imi                 tu qulus
+\g Rec-change-1.Pl.excl.Nom      Acc clothes
+\l We exchange clothes.
+
+\t taytaanna      ni buya             ci       abas
+\m tayta-an-na      ni buya             ci       abas
+\g see-NAF-3.Gen    Gen Buya            Ncm      Abas
+\l Buya saw Abas.
+
+\t simtaytaanna      qanyawu
+\m sim-tayta-an-na      qanyawu
+\g  Rec-see-NAF-3.Gen 3Pl.Nom
+\l They saw each other.
+
+\t Ratutanku              ci          buya
+\m Ratut-an-ku              ci          buya
+\g scare-NAF-1Sg.Gen        Ncm         Buya
+\l I scared Buya.
+
+\t simRatutanna       qanyawu
+\m sim-Ratut-an-na       qanyawu
+\g  Rec-scare-NAF-3.Gen 3Sg.Nom
+\l They scared each other.
+
+\t semelesiku            tu qulus        tu tawki
+\m s-em-eles-iku            tu qulus        tu tawki
+\g change-AF-1Sg.Nom Acc clothes Acc seller
+\l I changed the clothes with the seller.
+
+\t selesanku              ya         qulus     tatawkian
+\m seles-an-ku              ya         qulus     ta-tawki-an
+\g change-NAF-1Sg.Gen Nom              clothes   Loc-seller-Loc
+\l I changed the clothes with the seller.
+
+\t simselesan      na           qanyawu        ya       qulusna
+\m sim-seles-an      na           qanyawu        ya       qulus-na
+\g Rec-change-NAF 3.Gen           3Pl            Nom      clothes-3.Gen
+\l They exchanged clothes.
+
+\t meliwayiku                  tu kelisyu       ci         buyaan
+\m me-liway-iku                  tu kelisyu       ci         buya-an
+\g AF-lend/borrow-1Sg.Nom        Acc money        Ncm        Buya-Loc
+\l I lent Buya money.
+
+\t simliway         tu kelisyu ya                ci         buya       atu      ci abas 
+\m sim-liway         tu kelisyu ya                ci         buya       atu      ci abas 
+\g Rec-lend/borrow Acc money Nom                  Ncm        Buya       and      Ncm Abas
+\l Buya and Abas lent each other money.
+
+\t buraan      ni buya          ci        utay          tu usiq peRasku Raq
+\m bura-an      ni buya          ci        utay          tu usiq peRasku Raq
+\g give-NAF     Gen Buya         Ncm       Utay          Acc one bottle  liquor
+\l Buya gave Utay a bottle of liquor.
+
+\t simbura tu Raq        ya         ci           utay       atu ci           buya
+\m sim-bura tu Raq        ya         ci           utay       atu ci           buya
+\g Rec-gave Acc liquor    Nom        Ncm          Utay       and Ncm          Buya
+\l Utay and Buya gave each other liquor.
+
+\t semanu ci        buya      ci         abasan           tu lanas         ni            utay
+\m s-em-anu ci        buya      ci         abas-an           tu lanas         ni            utay
+\g tell-AF Ncm        Buya      Ncm        Abas-Loc          Acc thing        Gen           Utay
+\l Buya told Abas things about Utay.
+
+\t simsanu ci         abas      atu ci           buya       tu lanas         ni       utay
+\m sim-sanu ci         abas      atu ci           buya       tu lanas         ni       utay
+\g Rec-tell Ncm        Abas      and Ncm          Buya       Acc thing        Gen      Utay
+\l Abas and Buya told each other things about Utay.
+
+\t b'. simliwayanna                      ni buya      atu ci         abas          ya       kelisyu
+\m b'. sim-liway-an-na                      ni buya      atu ci         abas          ya       kelisyu
+\g     Rec-lend/borrow-NAF-3.Gen            Gen Buya     and Ncm        Abas           Nom      money 
+\l Buya and Abas lent each other money.
+
+\t b'. simburaanna         ni utay         atu ci          buya      ya           Raq   
+\m b'. sim-bura-an-na         ni utay         atu ci          buya      ya           Raq   
+\g     Rec-give-NAF-3.Gen Gen Utay            and Ncm         Buya      Nom          liquor
+\l Utay and Buya gave each other liquor.
+
+\t simsanuanna         ni abas         atu ci         buya      ya            lanas     ni utay 
+\m sim-sanu-an-na         ni abas         atu ci         buya      ya            lanas     ni utay 
+\g Rec-tell-NAF-3.Gen     Gen Abas        and Ncm        Buya      Nom           thing     Gen Utay
+\l Abas and Buya told each other things about Utay.
+
+\t sipiq    aysu              ci          abasan
+\m sipiq    aysu              ci          abas-an
+\g kick.AF 2Sg.Nom            Ncm         Abas-Loc
+\l You kicked Abas.
+
+\t sipiqanna         ya           napawanna
+\m sipiq-an-na         ya           napawan-na
+\g kick-NAF-3.Gen Nom               spouse-3.Gen
+\l He kicked his wife.
+
+\t simsipiq     sunis     'nay      tu zapanna
+\m sim-sipiq     sunis     'nay      tu zapan-na
+\g Rec-kick      child     that      Acc foot-3.Gen
+\l Those children kicked each other on the feet.
+
+\t simsipiqan        na sunis          'nay       ya       zapanna
+\m sim-sipiq-an        na sunis          'nay       ya       zapan-na
+\g  Rec-kick-NAF        Gen child         that       Nom      foot-3.Gen
+\l Those children kicked each other on the feet.
+
+\t yau tanian muRing=ay sunis 'nay
+\m yau tanian muRing=ay sunis 'nay
+\g be where cry                 child that
+\l Where is that child who cried.
+
+\t siqulus tu       tbaRi'=ay suaniku
+\m siqulus tu       tbaRi'=ay suani-ku
+\g wear      Acc red              sibling-my
+\l My sister wears red clothes.
+
+\t tiana='ay sunis Rubatang
+\m tiana='ay sunis Rubatang
+\g who         child beautiful
+\l Whose child is (more) beautiful?
+
+\t zaku='ay sunis zau
+\m zaku='ay sunis zau
+\g mine        child this
+\l This is my child.
+
+\t pmukun=ti       aizipna     tu    kinturu='ay    sunis
+\m pmukun=ti       aizipna     tu    kinturu='ay    sunis
+\g hit=Asp         he          Acc three            child
+\l He hit three children.
+
+\t pmukun=ti       abas     tu    mwaza='ay wasu
+\m pmukun=ti       abas     tu    mwaza='ay wasu
+\g hit=Asp         Abas Acc many                dog
+\l Abas hit many dogs.
+
+\t pukunanku     qman=ay tu            qawpiR          sunis 'nay
+\m pukunan-ku     qman=ay tu            qawpiR          sunis 'nay
+\g beat-1S.Gen eat             Acc      sweet potato child that
+\l The child who ate sweet potatoes     was beaten by me.
+
+\t [    S mringi       ei tu       repaw]=ay           wasu   i
+\m [    S mringi       ei tu       repaw]=ay           wasu   i
+\g        look after        Acc house                  dog
+\l the dog that looks after our house
+
+\t [   S kinturu='ay      ei ]   sunisi
+\m [   S kinturu='ay      ei ]   sunisi
+\g       three                   child
+\l three children.
+
+\t nengi sanuan             na      sunis a        yau
+\m nengi sanu-an             na      sunis a        yau
+\g good educate-Nmz          Gen child Lig          that
+\l That child's education is good.
+
+\t qasianem=iku tu         kerawkawayanku
+\m qa-sianem=iku tu         kerawkaway-an-ku
+\g think=1S.Nom Acc work-Nmz-1S.Gen
+\l I am thinking/worrying about my work.
+
+\t mrizaq=iku              qenalilumenna
+\m m-rizaq=iku              qena-lilumen-na
+\g AV-like=1S.Nom           Nmz-honest-3S.Gen
+\l I like his honesty.
+
+\t maytis tu                qenasubungana
+\m maytis tu                qena-subunga-na
+\g fear        Acc          Nmz-lonely-3S.Gen
+\l He fears loneliness.
+
+\t mai utani qenasianemanna
+\m mai utani qena-sianem-an-na
+\g Neg much Nmz-learn-Nmz-3S.Gen
+\l His knowledge is not much.
+
+\t mai tu        qenasiqalan       razat        a       yau
+\m mai tu        qena-siqal-an       razat        a       yau
+\g Neg Acc Nmz-polite-Nmz person                  Lig     that
+\l That person has no politeness/shame.
+
+\t mai     tu     qenaytisan
+\m mai     tu     q-en-aytis-an
+\g Neg     Acc fear-Nmz-Nmz
+\l He/She has no fear.
+
+\t pa'uRing ya         wasu      tu   sunis
+\m pa-'uRing ya         wasu      tu   sunis
+\g Cau-cry      Nom dog           Acc child
+\l The dog made the child cry.
+
+\t pamisian ni         tina      ti    abas
+\m pa-misian ni         tina      ti    abas
+\g Cau-fat      Gen     mother Nom Abas
+\l Mother made Abas become fat
+
+\t babaran na           paRibautan      sunis   a      yau
+\m babaran na           pa-Ribaut-an      sunis   a      yau
+\g hit         Gen Nmz-to fish-Nmz child          Lig    that
+\l The child was hit by the fisher.
+
+\t mazmum pataqsianku
+\m mazmum pa-taqsi-an-ku
+\g many          Nmz-study-Nmz-1S.Gen
+\l My students are many (in number).
+
+\t nengi      pazazasan          na   lamu
+\m nengi      pa-zazas-an          na   lamu
+\g good       Nmz-lead-Nmz         Gen village
+\l The village leader is good.
+
+\t tmingaR=iku        tu     pakerawkawayan
+\m tmingaR=iku        tu     pa-kerawkaway-an
+\g hire=1S.Nom Acc Nmz-work-Nmz
+\l I hire a worker.
+
+\t mai=ti       tu       qanan
+\m mai=ti       tu       qan-an
+\g Neg=Asp Acc           eat-Nmz
+\l There is no food left.
+
+\t yau uzisan           muzis
+\m yau uzis-an           muzis
+\g is     bathe-Nmz bathe
+\l He is bathing in the bathroom.
+
+\t qaqaytisan zaqisanna             tu        paRin
+\m qaqaytisan zaqis-an-na             tu        paRin
+\g dangerous     climb-Nmz-3S.Gen Acc           tree
+\l His climbing tree is dangerous.
+
+\t nengi taitaen sarekiawanna
+\m nengi taitaen sarekiaw-an-na
+\g good looking dance-Nmz-3S.Gen
+\l Her dancing is beautiful.
+
+\t nengi ipiran       satezayanna
+\m nengi ipiran       satezay-an-na
+\g good listen        sing-Nmz-3S.Gen
+\l Her singing is sweet.
+
+\t nantama       ci        utay atu ci buya
+\m nan-tama       ci        utay atu ci buya
+\g  Rec-father    Ncm       Utay and Ncm Buya
+\l Utay and Buya are father and son.
+
+\t nankaput qanyau
+\m nan-kaput qanyau
+\g  Rec-friend 3Pl.Nom
+\l They are friends.
+
+\t nanepaw4 ci       buya atu ci ukis
+\m nan-epaw4 ci       buya atu ci ukis
+\g Rec-house Ncm      Buya and Ncm Ukis
+\l Buya and Ukis are husband and wife.
+
+\t mipesiku                 ti          mayku
+\m m-ipes-iku                 ti          mayku
+\g AF-dislike-1Sg.Nom        Ncm         1Sg.Acc
+\l I dislike myself.
+
+\t tebuqansu                aysu
+\m tebuq-an-su                aysu
+\g cut-NAF-2Sg.Gen            2Sg.Nom
+\l You cut yourself.
+
+\t muRubu         ci          buya ti mayzipna
+\m muRubu         ci          buya ti mayzipna
+\g praise.AF      Ncm         Buya Ncm 3Sg.Acc
+\l Buya praises himself.
+
+\t taytaan ni buya tapaninuwanan ayzipna
+\m tayta-an ni buya ta-paninuwan-an ayzipna
+\g  see-NAF Gen Buya Loc-mirror-Loc 3Sg.Nom
+\l Buya saw himself in the mirror.
+
+\t simpukun          ci        buya ci       abas
+\m sim-pukun          ci        buya ci       abas
+\g Rec-hit Ncm        Buya      Ncm  Abas
+\l Buya and Abas hit each other.
+
+\t simtatanuz         sunis     'nay15
+\m sim-ta-tanuz         sunis     'nay15
+\g Rec-Red-chase        child     that
+\l Those children chased after each other.
+
+\t simkirim      aymi          tu wasu
+\m sim-kirim      aymi          tu wasu
+\g Rec-look.for 1Pl.Excl.Nom Obl dog
+\l We looked for the dog (together).
+
+\t simkirim        aymi       tu wasu
+\m sim-kirim        aymi       tu wasu
+\g Rec-look.for 1Pl.Excl.Nom Obl dog
+\l We each looked for our own dog.
+
+\t (i) tatutunguz ci utay          atu ci abas        manan
+\m (i) tatutunguz ci utay          atu ci abas        m-anan
+\g each               Ncm Utay and Ncm Abas           AF-return.home
+\l Utay and Abas each returns home.
+
+\t (ii) tatutunguz wasu      'nay Raytunguz
+\m (ii) tatutunguz wasu      'nay Raytunguz
+\g each         dog          that bark.AF
+\l Each of those dogs is barking.
+
+\t simliatip     ya        ci        abas       atu sunisna
+\m sim-liatip     ya        ci        abas       atu sunis-na
+\g Rec-take.care Nom        Ncm       Abas       and child-3.Gen
+\l Abas and her child take care of each other.
+
+\t simpukun ya ci buya
+\m sim-pukun ya ci buya
+\g Rec-hit     Nom Ncm Buya
+\l Buya hit each other.
+
+\t simpukun ya ci          buya atu ci utay
+\m sim-pukun ya ci          buya atu ci utay
+\g Rec-hit Nom Ncm          Buya and Ncm Utay
+\l Buya and Utay hit each other.
+
+\t simtatanuz ya ci utay
+\m sim-ta-tanuz ya ci utay
+\g Rec-Red-chase Nom Ncm Utay
+\l Utay chased each other.
+
+\t simtatanuz ya sunis 'nay
+\m sim-ta-tanuz ya sunis 'nay
+\g Rec-Red-chase Nom child that
+\l Those children chased each other.
+
+\t simpukun          ci        buya     ci        abas
+\m sim-pukun          ci        buya     ci        abas
+\g Rec-hit Ncm        Buya      Ncm      Abas
+\l Buya and Abas hit each other.
+
+\t simbura tu Raq           ya   ci       utay      atu             ci        buya
+\m sim-bura tu Raq           ya   ci       utay      atu             ci        buya
+\g  Rec-give Obl liquor      Nom Ncm       Utay      and             Ncm       Buya
+\l Utay and Buya gave each other liquor.
+
+\t simburaanna            ni utay atu        ci buya              ya        Raq
+\m sim-bura-an-na            ni utay atu        ci buya              ya        Raq
+\g  Rec-give-PF-3.Gen        Gen Utay and       Ncm Buya             Nom       liquor
+\l Utay and Buya gave each other liquor.
+
+\t sunis zau
+\m sunis zau
+\g kid this
+\l this kid
+
+\t zau ay razat
+\m zau ay razat
+\g this AY man
+\l this man
+
+\t bawa' zaku
+\m bawa' zaku
+\g boat my
+\l my boat
+
+\t zaku ay bawa'17
+\m zaku ay bawa'17
+\g my AY boat
+\l my boat
+
+\t razat zau/'nay
+\m razat zau/'nay
+\g man this that
+\l this/that man
+
+\t zau/'nay ay razat
+\m zau/'nay ay razat
+\g this that AY man
+\l this/that man
+
+\t razat a yau
+\m razat a yau
+\g man A that
+\l that man
+
+\t qananku=pa ya        tiRuR 'nay
+\m qan-an-ku=pa ya        tiRuR 'nay
+\g eat-PF-I=Imp Nom egg           that
+\l That egg will be eaten by me.
+
+\t supaR=iku tu sunis 'nay
+\m supaR=iku tu sunis 'nay
+\g know(AF)=I Acc kid that
+\l I know that kid.
+
+\t bawa' zaku
+\m bawa' zaku
+\g boat my
+\l my boat
+
+\t zaku ay bawa'
+\m zaku ay bawa'
+\g my AY boat
+\l my boat
+
+\t kinturu ay razat
+\m kin-turu ay razat
+\g KIN-three AY person
+\l three people
+
+\t (u)turu ay wasu
+\m (u)-turu ay wasu
+\g  U-three AY dog
+\l three dogs
+
+\t meniz mRasa tu sulal ya razat.
+\m m-eniz m-Rasa tu sulal ya razat.
+\g AV-all AV-buy Obl book Nom person
+\l All the people bought the books.
+
+\t nizanna mRasa ya sulal.
+\m niz-an-na m-Rasa ya sulal.
+\g All-PV-his AV-buy Nom book
+\l He bought all the books.
+

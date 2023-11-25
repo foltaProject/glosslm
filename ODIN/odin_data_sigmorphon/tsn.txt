@@ -1,0 +1,185 @@
+\t ke     mo     apeetse                 kuku
+\m ke     mo     ape-ets-e                 kuku
+\g SC1 OC1 cook-appl-perf                  9.chicken
+\l I cooked him/her the chicken
+
+\t dikwelo       tse           ke               boneng
+\m dikwelo       tse           ke               bone-ng
+\g NP10-books REL10             SC1sg.past       see-REL
+\l The books which I saw ... 
+
+\t Ke bonye              monna yo maabane
+\m Ke bonye              monna yo maabane
+\g SM1sg-see.PFT-FIN 1-man 1.DEM yesterday
+\l I saw this man yesterday
+
+\t [Go (*ba) nwa bojalwa mo       mebileng]
+\m [Go (*ba) nwa bojalwa mo       mebileng]
+\g ga go a siama      NEG-S3:15-PFT-be.good-FIN
+\l It is not good (for them) to drink beer in the streets
+
+\t (9)a.    Basadi *(ba) nwa          bojalwa      mo      mebileng
+\m (9)a.    Basadi *(ba) nwa          bojalwa      mo      mebileng
+\g          2-woman S3:2-drink-FIN 14-beer         PREP 4-street-LOC
+\l Women drink beer in the streets
+
+\t [Go nwa bojalwa Basadi mo mebileng]
+\m [Go nwa bojalwa Basadi mo mebileng]
+\g ga go a siama   NEG-S3:15-PFT-be.good-FIN
+\l Women drinking beer in the streets is not proper
+
+\t mo ga gago mo goa ]
+\m mo ga gago mo goa ]
+\g 15.DEM 15.GEN-PRO2S 15.LK            15-new
+\l I like this new way you have to cook meat
+
+\t goletsa katara mo gontle
+\m go-lets-a katara mo go-ntle
+\g INF-cry.CAUS-FIN guitar     15.LK     15-nice
+\l a nice guitar playing
+
+\t [go nwa bojalwa ga basadi mo mebileng]
+\m [go nwa bojalwa ga basadi mo mebileng]
+\g INF-drink-FIN 14-beer      15.GEN-2-woman PREP 4-street-LOC
+\l I do not like women's drinking beer in the streets
+
+\t go bina mo ke go ratang
+\m go bina mo ke go ratang
+\g INF-danser-FIN 15.LK     S1S-O3:15-like-FIN-REL
+\l a dance I like
+
+\t nako [ya go goroga ga baeng]
+\m nako [ya go goroga ga baeng]
+\g 9.time 9.GEN-INF-arrive-FIN 15.GEN-2-guest
+\l the time of the arrival of the guests
+
+\t Ba ne ba utlwa [ka [go koma ga gagwe]]
+\m Ba ne ba utlwa [ka [go koma ga gagwe]]
+\g gore o lwala thata     COMP S3:1-be sick-FIN very
+\l They felt from his moaning that he was very sick
+
+\t [Go mpotsa] go a ntapisa.
+\m [Go mpotsa] go a ntapisa.
+\g Questioning          makes me tired
+\l It's tiring that people ask (me) questions
+
+\t (17)a Ke itse monna yo sentle.
+\m (17)a Ke itse monna yo sentle.
+\g         S1S-know-FIN 1-man        1.DEM 7-good
+\l I know this man well
+
+\t (19)a O gakgamalela bopelokgale jwa mosimanee.
+\m (19)a O gakgamalela bopelokgale jwa mosimanee.
+\g         S3:1-be surprised-APPL-FIN 14-courage           14.GEN-1-boy
+\l He is surprised by the courage of the boy
+
+\t ­Ee, ke go utlule.
+\m ­Ee, ke go utlule.
+\g yes, S1S-O3:15-hear-PFT-FIN
+\l Did you hear this European speak Tswana ? ­ Yes, I heard it
+
+\t (22)a Re aga maraka [go sireletsa dikgomo mo dibataneng].
+\m (22)a Re aga maraka [go sireletsa dikgomo mo dibataneng].
+\g          of prey-LOC
+\l We build kraals so as to protect cows from beasts of prey
+
+\t Re aga maraka [gore dikgomo di sirelediwe mo dibataneng].
+\m Re aga maraka [gore dikgomo di sirelediwe mo dibataneng].
+\g S1P-build-FIN 6-kraal       COMP 8/10-cow S3:8/10-protect-PSV-FIN
+\l We build kraals so that cows are protected from beasts of prey
+
+\t (23)a O rata [go letsa katara].
+\m (23)a O rata [go letsa katara].
+\g          S3:1-like-FIN INF-cry.CAUS-FIN 9.guitar
+\l He likes playing (the) guitar
+
+\t Ba mo leta [go goroga].
+\m Ba mo leta [go goroga].
+\g  S3:2-O3:1-wait-FIN INF-arrive-FIN
+\l They are waiting for him to arrive
+
+\t (24)a O rata thata [go letsa katara].
+\m (24)a O rata thata [go letsa katara].
+\g         S3:1-like-FIN much INF-cry.CAUS-FIN 9.guitar
+\l He likes very much playing (the) guitar
+
+\t Ke itse sentle [gore Mpho o tsamaile].
+\m Ke itse sentle [gore Mpho o tsamaile].
+\g  S1S-know-FIN 7-good COMP 1.Mpho S3:1-go away-PFT-FIN
+\l I know well that Mpho has gone
+
+\t (25)a O gakgamala [go utlwa Lekgoa le mmuisa ka Setswana].
+\m (25)a O gakgamala [go utlwa Lekgoa le mmuisa ka Setswana].
+\g         S3:5-O3:1-speak-CAUS-FIN PREP 7-
+\l He is surprised to hear the European speaking to him in Tswana
+
+\t O gakgamala [gore Lekgoa le le bua Setswana].
+\m O gakgamala [gore Lekgoa le le bua Setswana].
+\g  tswana
+\l He is surprised that this European speaks Tswana
+
+\t       ­Ee, *o go rata thata.
+\m       ­Ee, *o go rata thata.
+\g         yes S3:1-O3:15-like-FIN much
+\l Does he likes playing (the) guitar? ­Yes, he likes it a lot
+
+\t ­Ee, ke utlule jalo / *ke go utlule.
+\m ­Ee, ke utlule jalo / *ke go utlule.
+\g  yes S1S-hear-PFT-FIN thus           S1S-O3:15-hear-PFT-FIN
+\l Did you hear that Mpho bought a car? ­Yes, I heard that / it
+
+\t         Xa/lIYqÓU/aY          le/
+\m         Xa/-lIY-qÓU/aY          le/
+\g         15.GEN-5-European 5.DEM
+\l He is surprised by the fact that this European speaks Tswana
+
+\t O gakgamala [go utlwa Lekgoa le mmuisa ka Setswana].
+\m O gakgamala [go utlwa Lekgoa le mmuisa ka Setswana].
+\g  S3:5-O3:1-speak-CAUS-FIN PREP 7-
+\l He is surprised to hear the European speaking to him in Tswana
+
+\t UtsileY
+\m U-tsileY
+\g   SMC   1-come.TAM
+\l He has come
+
+\t kIXUboIY
+\m kI-XU-boIY
+\g  SM1S-OM2S-see.TAM
+\l I've seen you
+
+\t kIlUrekileY
+\m kI-lU-rekileY
+\g  SM1S-OMC   11-buy.TAM
+\l I've bought it (the lamp)
+
+\t kIlUXUfileY
+\m kI-lU-XU-fileY
+\g  SM1S-OMC   11-OM2S-give.TAM
+\l I've given it to you (the lamp)
+
+\t kIfile/                  Y       lUkwalOY
+\m kI-file/                  Y       lUkwalOY
+\g SM1S-give.TAM CL2.child CL11.book
+\l I've given a book to the children
+
+\t kIlUbafileY
+\m kI-lU-ba-fileY
+\g SM1S-OMC       11-OMC2-give.TAM
+\l I've given it (the book) to them
+
+\t bana/            //                   lUkwalOY
+\m bana/            //                   lUkwalOY
+\g CL2.child SMC      2-give.PSV.TAM CL11.book
+\l The children were given a book
+
+\t lUkwalO/            //                       bana/
+\m lUkwalO/            //                       bana/
+\g CL11.book         SMC   11-give.PSV.TAM      CL2.child
+\l The book was given to the children
+
+\t dijo [tse     bana ba di          jeleng]
+\m dijo [tse     bana ba di          jel-e-ng]
+\g food8 DEM8 child2 SP2 OC8 eat-PAST-R              S
+\l the food which the children ate
+

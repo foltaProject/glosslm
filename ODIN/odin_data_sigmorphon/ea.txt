@@ -1,0 +1,90 @@
+\t Kyomo kyane kelE@               kesç@ga
+\m Ky-omo ky-ane ke-lE@               ke-sç@ga
+\g 7-village 7-my      7-COP          7-good
+\l My village is good.
+
+\t Byomo byane belE@               besç@ga
+\m By-omo by-ane be-lE@               be-sç@ga
+\g 8-village 8-my     8-COP           8-good
+\l My villages are good.
+
+\t Góno mokóló no góno          mwána belE@  basçsU@.7
+\m Gó-no mo-kóló no gó-no          mw-ána be-lE@  ba-sçsU@.7
+\g 1-this    1-adult and 1-this        1-child 2-COP 2-weak
+\l This adult and this child are weak.
+
+\t /     c.    Kéno kitugá           no kéno kekonde belE@ banE@nE@.
+\m /     c.    Ké-no ki-tugá           no ké-no ke-konde be-lE@ ba-nE@nE@.
+\g             7-this 7-lame person and 7-this 7-leader 2-COP 2-big
+\l This lame person and this leader are big.
+
+\t /     d.    Béno bétugá        no béno bekonde belE@     banE@nE@.
+\m /     d.    Bé-no bé-tugá        no bé-no be-konde be-lE@     ba-nE@nE@.
+\g             8-this 8-lame person and 2-this 2-child         2-COP 2-big
+\l Those lame people and those leaders are big.
+
+\t Góno mkází no zénoombe             belE@       bakále.8
+\m Gó-no m-kází no zé-no-ombe             be-lE@       ba-kále.8
+\g 1-this    1-wife and 9-this         9-cattle              2-COP        2-mean
+\l This wife and this cattle are mean.
+
+\t Báno     bakází no zénoombe             belE@          bakále.
+\m Bá-no     ba-kází no zé-no-ombe             be-lE@          ba-kále.
+\g 2-this    2-wife and 10-this 10-cattle                    2-COP        2-mean
+\l These wives and these cattle are mean.
+
+\t Káno      karé   no góno mokíkolo belE@ banE@nE@.
+\m Ká-no      ka-ré   no gó-no mo-kíkolo be-lE@ ba-nE@nE@.
+\g 12-this 12-tree and 1-this 1-woman 2-COP 2-big
+\l This tree and this woman are big.
+
+\t /     b.    Tóno      toré   no báno bakíkolo belE@ banE@nE@.
+\m /     b.    Tó-no      to-ré   no bá-no ba-kíkolo be-lE@ ba-nE@nE@.
+\g             13-this 13-tree and 2-this 2-woman 2-COP 2-big
+\l Those trees and those women are big.
+
+\t Léno     ikozí    no léno               igyugu melE@              mabé.
+\m Lé-no     i-kozí    no lé-no               i-gyugu me-lE@              ma-bé.
+\g 5-this    5-rock and 5-this                   5-egg   6-COP            6-bad
+\l This rock and this egg are bad.
+
+\t Góno mUswáki         no góno        moré      zelE@ mibé.
+\m Gó-no mU-swáki         no gó-no        mo-ré      ze-lE@ mi-bé.
+\g 3-this    3-toothbrush and 3-this        3-tree     4-COP 4-bad
+\l This toothbrush and this tree are bad.
+
+\t Máno makozí no máno mugu melE@                      manE@nE@.
+\m Má-no ma-kozí no má-no mu-gu me-lE@                      ma-nE@nE@.
+\g 6-this   6-rock and 6-this        6-egg       6-COP 6-big
+\l Those rocks and those eggs are big.
+
+\t /    b.   Zéno    mi­swáki       no zéno        merézelE@    nnE@nE@.
+\m /    b.   Zé-no    mi­swáki       no zé-no        me-réze-lE@    n-nE@nE@.
+\g           4-this   4-toothbrush and 4-this        4-tree    4-COP 4-big
+\l Those toothbrushes and those trees are big.
+
+\t Zénó     numbá no kéno       kyná belE@         benE@nE@.
+\m Zé-nó     n-umbá no ké-no       ky-ná be-lE@         be-nE@nE@.
+\g 9-this    9-house and 7-this        7-fish  8-COP        8-big
+\l This house and this fish are big.
+
+\t Zénó     numbá no béno       byná belE@         benE@nE@.
+\m Zé-nó     n-umbá no bé-no       by-ná be-lE@         be-nE@nE@.
+\g 10-this 10-house and 8-this         8-fish  8-COP        8-big
+\l Those houses and those fishes are big.
+
+\t Góno mU­swáki            no léno ikozí belE@          benE@nE@.
+\m Gó-no mU­swáki            no lé-no i-kozí be-lE@          be-nE@nE@.
+\g 3-this    3-toothbrush and 5-this 5-rock 8-COP            8-big
+\l This toothbrush and this rock are big.
+
+\t Zéno mi­swáki       no máno makozí belE@           benE@nE@.
+\m Zé-no mi­swáki       no má-no ma-kozí be-lE@           be-nE@nE@.
+\g 4-this 4-toothbrush and 5-this 5-rock 8-COP                8-big
+\l Those toothbrushes and those rocks are big.
+
+\t Kno         kerabo     kelE@      kenE@nE@ kobelelga
+\m K-no         ke-rabo     ke-lE@      ke-nE@nE@ ko-be-lelga
+\g 7-this       7-book      7-COP       7-big      to-8 Object Prefix-surpass
+\l This book is biggest.
+

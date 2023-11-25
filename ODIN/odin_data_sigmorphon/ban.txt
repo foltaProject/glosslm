@@ -1,0 +1,995 @@
+\t Ia pules.
+\m Ia pules.
+\g 3rd sleep
+\l (s)he is sleeping.
+
+\t Bawi adol       ida.
+\m Bawi adol       ida.
+\g  pig OV.sell 3sg
+\l (s)he sold a pig
+
+\t b . Ida     ngadol bawi.
+\m b . Ida     ng-adol bawi.
+\g     3sg AV-sell pig
+\l (s)he sold a pig
+
+\t Ia meliang     I Wayan   potlote ento.
+\m Ia meli-ang     I Wayan   potlot-e ento.
+\g 3rd AV.buy-APPL ART Wayan pencil-DEF that
+\l (s)he bought Wayan the pencil.
+
+\t Potlote ento    beliang=a               I Wayan.
+\m Potlote ento    beli-ang=a               I Wayan.
+\g pencil-DEF that OV.buy-APPL=3            Art Wayan
+\l (s)he bought Wayan the pencil.
+
+\t b . I Wayan       beliang=a            potlote ento.
+\m b . I Wayan       beli-ang=a            potlote ento.
+\g     Art Wayan     OV.buy-APPL=3 pencil-DEF that
+\l (s)he bought Wayan the pencil.
+
+\t Ia beliang     I Wayan               potlote ento.
+\m Ia beli-ang     I Wayan               potlot-e ento.
+\g  3rd OV.buy-APPL Art Wayan             pencil-DEF that
+\l (s)he bought Wayan the pencil.
+
+\t Ida     nyingakin ragan idane
+\m Ida     nyingakin ragan idane
+\g 3sg AV-see          self
+\l (s)he saw himself/herself
+
+\t b . Ragan idane cingakin ida
+\m b . Ragan idane cingakin ida
+\g     self        OV.see 3SG
+\l (s)he saw himself/herself
+
+\t Ngenah        sajan [kapelihanne      engkebang ci].
+\m Ngenah        sajan [kapelihan-ne      engkebang ci].
+\g    seem       much mistake-3POSS OV.hide            2nd
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t ngenah sajan [ci ngengkebang kapelihanne].
+\m ngenah sajan [ci ngengkebang kapelihan-ne].
+\g seem       much 2nd AV.hide           mistake-3POSS
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t (16)a. Nyoman Santosa        tawang  tiang      mulih.
+\m (16)a. Nyoman Santosa        tawang  tiang      mulih.
+\g           (name)             OV.know 1st        go.home
+\l I knew that Nyoman Santosa went home.
+
+\t b . Tiang nawang Nyoman Santosa mulih.
+\m b . Tiang nawang Nyoman Santosa mulih.
+\g     1st   AV-know (name)              go.home
+\l I knew that Nyoman Santosa went home.
+
+\t Takonang tiang apa iai ngenah sig {awaknei / ia*i } jelek sajan.
+\m Takonang tiang apa iai ngenah sig {awaknei / ia*i } jelek sajan.
+\g OV.ask 1st Q 3rd seem         to self               bad very
+\l I asked (him) whether he seemed to himself/him to be very ugly.
+
+\t Iai ngenah pesan       sig cange ngajumngajum awaknei / ia *i
+\m Iai ngenah pesan       sig cange ngajum-ngajum awaknei / ia *i
+\g     3rd seem very      to me     AV.boast-boast self
+\l Hei seems to me to boast of himselfi /him*i
+
+\t (22)a. Awaknei     ngenah pesan sig cange ajumajum=ai
+\m (22)a. Awaknei     ngenah pesan sig cange ajum-ajum=ai
+\g           self     seem very     to me       OV.boast-boast=3
+\l Hei seems to me to boast of himselfi
+
+\t Cang ngaden        {awak cange/*cang} suba mati.
+\m Cang ngaden        {awak cange/*cang} suba mati.
+\g 1sg AV.think myself / *me              already dead
+\l I believed myself/*me to be dead already.
+
+\t b . {Awak cange/*cang kaden          cang suba mati.
+\m b . {Awak cange/*cang kaden          cang suba mati.
+\g     myself/*me           OV.think 1sg already dead
+\l I believed myself/*me to be dead already.
+
+\t b . {Awaknei / *Iai } tawang=ai lakar tangkep polisi.
+\m b . {Awaknei / *Iai } tawang=ai lakar tangkep polisi.
+\g     self / 3rd         OV.know=3 FUT OV.arrest police
+\l Hei knew that the police would arrest selfi./him*i.
+
+\t Cang      ngaden      iai suba ningalin awaknei/ ia*i
+\m Cang      ngaden      iai suba ningalin awaknei/ ia*i
+\g    1sg AV.think 3rd already AV.see self / 3rd
+\l I believe himi to have seen himselfi / him*i.
+
+\t Iai kaden        cang suba     ningalin awaknei / ia*i
+\m Iai kaden        cang suba     ningalin awaknei / ia*i
+\g 3rd OV.think 1sg already AV.see self
+\l I believe him to have seen himself.
+
+\t Cang ngaden       awaknei suba tingalin=ai.
+\m Cang ngaden       awaknei suba tingalin=ai.
+\g 1sg AV.think selfi          already OV.see=3
+\l I believe him to have seen himself.
+
+\t b . Awaknei kaden        cang suba tingalin=ai.
+\m b . Awaknei kaden        cang suba tingalin=ai.
+\g     selfi      OV.think 1sg already OV.see=3
+\l I believe him to have seen himself.
+
+\t Ia         pules.
+\m Ia         pules.
+\g 3 sleep
+\l (s)he is sleeping.
+
+\t (4)a.         anake cenik        [ane gugut cicing] ento.
+\m (4)a.         anak-e cenik        [ane gugut cicing] ento.
+\g               person-DEF small [REL OV.bite dog] that
+\l the child whom the dog bit
+
+\t cicing [ane anake cenik ento      gugut].
+\m cicing [ane anak-e cenik ento      gugut].
+\g dog      [REL person-DEF small that OV.bite]
+\l the dog that bit the child
+
+\t (5)a.         I Warta [ane maca          koran].
+\m (5)a.         I Warta [ane maca          koran].
+\g               Art Warta [REL AV.read newspaper]
+\l Warta who read the newspaper
+
+\t koran      [ane I Warta maca].
+\m koran      [ane I Warta maca].
+\g  newspaper [REL Art Warta AV.read]
+\l the newspaper that Warta read
+
+\t (6)a.        Ia ngejang pipisne          di paon
+\m (6)a.        Ia ngejang pipis-ne          di paon
+\g              3 AV.put money-3POSS at kitchen
+\l He put his money in the kitchen.
+
+\t di paon ane ia ngejang pipisne
+\m di paon ane ia ngejang pipisne
+\g at kitchen REL 3 AV.put money-3POSS
+\l in the kitchen, where he put his money
+
+\t (7)a.        ngenah ia         mobog.
+\m (7)a.        ngenah ia         mobog.
+\g              seem      3       lie
+\l It seems that (s)he is lying.
+
+\t Ia ngenah        mobog.
+\m Ia ngenah        mobog.
+\g 3     seem       lie
+\l (s)he seems to be lying.
+
+\t Ngenah sajan [kapelihanne engkebang ci].
+\m Ngenah sajan [kapelihan-ne engkebang ci].
+\g seem       much mistake-3POSS OV.hide           2
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t ngenah sajan [ci          ngengkebang kapelihanne].
+\m ngenah sajan [ci          ngengkebang kapelihan-ne].
+\g seem       much 2         AV.hide        mistake-3POSS
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t Tiang enggal ___ ngadep umah.
+\m Tiang enggal ___ ngadep umah.
+\g 1        quick          AV.sell house
+\l It is quick for me to sell a house.
+
+\t Petengne ento Nyoman Santosa keweh ngidemang paningalan
+\m Peteng-ne ento Nyoman Santosa keweh ngidemang paningalan
+\g night-DEF that Nyoman Santosa difficult AV.close eyes
+\l That night, it was difficult for Nyoman Santosa to close (his) eyes.
+
+\t Petengne ento paningalan keweh Nyoman Santosa ngidemang
+\m Peteng-ne ento paningalan keweh Nyoman Santosa ngidemang
+\g night-DEF that eyes              difficult Nyoman Santosa AV.close
+\l That night, it was difficult for Nyoman Santosa to close (his) eyes.
+
+\t (15) a.     Keweh [ia         ngalihang    I Nyoman      gae di Jakarta]
+\m (15) a.     Keweh [ia         ngalihang    I Nyoman      gae di Jakarta]
+\g             difficult 3       AV.find-APPL I Nyoman      job in Jakarta
+\l It is difficult for him/her to find a job for I Nyoman in Jakarta.
+
+\t (16) a.     (Pidan) ia    ngalihang        Nyoman      gae di Jakarta..
+\m (16) a.     (Pidan) ia    ngalih-ang        Nyoman      gae di Jakarta..
+\g             ago     3     AV.find-APPL      Nyoman      job in Jakarta
+\l (S)he found a job for Nyoman in Jakarta a while ago.
+
+\t (17) a.     (Sangetsanget) ia   nepak    gamelane.
+\m (17) a.     (Sanget-sanget) ia   nepak    gamelan-e.
+\g             very-very       3    AV.hit   gamelan-DEF
+\l (S)he was hitting the gamelan really hard.
+
+\t Enggalang          tiang nyemak         pipisne.
+\m Enggal-ang          tiang nyemak         pipis-ne.
+\g OV.quick-CAUS 1             AV.take      money-3POSS
+\l I quickly took his/her money.
+
+\t Tiang ngenggalang          nyemak pipisne
+\m Tiang ngenggal-ang          nyemak pipis-ne
+\g 1        AV.quick-CAUS AV.take money-3POSS
+\l I quickly took his/her money.
+
+\t Ia    enggal kema
+\m Ia    enggal kema
+\g 3     quick go.there
+\l (S)he went there quickly.
+
+\t Ia    ngengalang       kema
+\m Ia    ngengal-ang       kema
+\g 3     AV.quick-CAUS     go.there
+\l (S)he made it quick to go there.
+
+\t Ia    ibi         kema.
+\m Ia    ibi         kema.
+\g 3     yesterday go.there
+\l (S)he went there yesterday.
+
+\t Ia    ngibiang           kema.
+\m Ia    ngibi-ang           kema.
+\g 3      AV.yesterday-CAUS go.there
+\l (S)he made yesterday be the day to go there.
+
+\t (22)a.         Nyoman Santosa tawang       tiang mulih.
+\m (22)a.         Nyoman Santosa tawang       tiang mulih.
+\g                (name) OV.know 1      go.home
+\l I knew that Nyoman Santosa went home.
+
+\t Tiang nawang Nyoman Santosa mulih.
+\m Tiang nawang Nyoman Santosa mulih.
+\g 1      AV-know (name)            go.home
+\l I knew that Nyoman Santosa went home.
+
+\t Polisi tawang=a         lakar nangkep      Wayan.
+\m Polisi tawang=a         lakar nangkep      Wayan.
+\g police OV.know=3        FUT AV.arrest      Wayan
+\l He knew that the police would arrest Wayan.
+
+\t Wayan tawang=a         polisi lakar   nangkep ___.
+\m Wayan tawang=a         polisi lakar   nangkep ___.
+\g Wayan OV.know=3         police FUT     AV.arrest
+\l He knew that the police would arrest Wayan.
+
+\t (25)a.         Tiang edot      [___ teka].
+\m (25)a.         Tiang edot      [___ teka].
+\g                1       want         come
+\l I want to come.
+
+\t Tiang edot [___ meriksa               dokter].
+\m Tiang edot [___ meriksa               dokter].
+\g 1       want          AV.examine      doctor
+\l I want to examine a doctor.
+
+\t Tiang edot [___ periksa               dokter].
+\m Tiang edot [___ periksa               dokter].
+\g 1       want         OV.examine       doctor
+\l I want to be examined by a doctor.
+
+\t Tiang majanji maang           Nyoman    pipis.
+\m Tiang majanji maang           Nyoman    pipis.
+\g       promise AV.give         Nyoman    money
+\l 1
+
+\t Tiang majanji pipis      baang ___         Nyoman.
+\m Tiang majanji pipis      baang ___         Nyoman.
+\g 1       promise money OV.give               Nyoman
+\l I promised to give Nyoman money.
+
+\t (28)a.      Nasine amah        cicing.
+\m (28)a.      Nasi-ne amah        cicing.
+\g             rice-DEF OV.eat dog
+\l A dog ate the rice.
+
+\t Amah cicing nasine.
+\m Amah cicing nasi-ne.
+\g eat       dog    rice-DEF
+\l A dog ate the rice.
+
+\t (30)a.      Tiang ngemaang Wayan nasi.
+\m (30)a.      Tiang nge-maang Wayan nasi.
+\g             1      AV.give     Wayan rice
+\l I gave Wayan rice.
+
+\t Ngemaang Wayan nasi tiang.
+\m Nge-maang Wayan nasi tiang.
+\g AV.give      Wayan rice 1
+\l I gave Wayan rice.
+
+\t (31)a.       Wayan baang        tiang   nasi
+\m (31)a.       Wayan baang        tiang   nasi
+\g              Wayan OV.give 1            rice
+\l I gave Wayan rice.
+
+\t Wayan baang nasi tiang
+\m Wayan baang nasi tiang
+\g Wayan     OV.give rice 1
+\l I gave Wayan rice.
+
+\t Baang tiang nasi Wayan
+\m Baang tiang nasi Wayan
+\g OV.give 1      rice Wayan
+\l I gave Wayan rice.
+
+\t Bukune      jemak=a
+\m Buku-ne      jemak=a
+\g book-DEF OV.take=3
+\l (S)he took the book.
+
+\t (33)a.      Bungkusan dadua jemakang=a         Nyoman Santosa
+\m (33)a.      Bungkusan dadua jemak-ang=a         Nyoman Santosa
+\g             package      two     OV.take-APPL=3        (name)
+\l (s)he brought two packages for Nyoman Santosa.
+
+\t Nyoman Santosa jemakang=a          bungkusan dadua
+\m Nyoman Santosa jemak-ang=a          bungkusan dadua
+\g (name)             OV.take-APPL=3 package     two
+\l (s)he brought two packages for Nyoman Santosa
+
+\t (34)a.      I Wayan        gugut       cicing /*cicinge ento.
+\m (34)a.      I Wayan        gugut       cicing /*cicinge ento.
+\g             Art Wayan      OV.bite     dog /dog that
+\l A/*the dog bit Wayan.
+
+\t ia   alih          [dagang celeng uli    Badung]
+\m ia   alih          [dagang celeng uli    Badung]
+\g 3    OV.look.for trader pig        from Badung
+\l A pig trader from Badung looked for him/her.
+
+\t Tiang lakar mulih,        bas makelo ten nepukin i meme.
+\m Tiang lakar mulih,        bas makelo ten nepukin i meme.
+\g 1       will go.home too long          NEG AV.see     Art mother
+\l I will go home, it's too long (for me) not to see (my) mother.
+
+\t Miribne         atiatina,        apang ten kadenanga      ngambul.
+\m Mirib-ne         ati-ati-na,        apang ten kadenanga      ngambul.
+\g apparently-DEF OV.wait-wait-3       so    NEG OV.think=3     run.away
+\l ...so that she doesn't think that I'm running away; it seems she is waiting for me.
+
+\t Ia dengokin tiang ibi               ajak makejang
+\m Ia dengokin tiang ibi               ajak makejang
+\g 3      OV.visit 1         yesterday accompany all
+\l We all visited him/her yesterday
+
+\t Wayan nakonin tiang ibi           ajak makejang
+\m Wayan nakonin tiang ibi           ajak makejang
+\g Wayan AV-ask 1          yesterday accompany all
+\l Wayan asked us all yesterday.
+
+\t Awakne tingalin=a.
+\m Awakne tingalin=a.
+\g self     OV.see=3
+\l (S)he saw herself/himself.
+
+\t Ia     ningalin awakne.
+\m Ia     ningalin awakne.
+\g 3      AV.see      self
+\l (S)he saw herself/himself.
+
+\t Awakne gugut         cicing
+\m Awakne gugut         cicing
+\g self       OV-bite    dog
+\l A dog bit itself
+
+\t Cicing ngugut awakne
+\m Cicing ngugut awakne
+\g dog      AV-bite self
+\l A dog bit itself.
+
+\t Sabilang anak ceniki jemakang        tiang bungkusannei
+\m Sabilang anak ceniki jemak-ang        tiang bungkusan-nei
+\g every person small OV-take-APPL 1           package-3POSS
+\l For every child I brought his/her package.
+
+\t Tiang matakon sig Nyomane unduk I Wayane.
+\m Tiang matakon sig Nyoman-e unduk I Wayan-e.
+\g 1       ask       to Nyoman-DEF about I Wayan-DEF
+\l I asked (to) Nyoman about I Wayan.
+
+\t Tiang matakon unduk I Wayane           sig Nyomane
+\m Tiang matakon unduk I Wayan-e           sig Nyoman-e
+\g 1         ask      about I Wayan-DEF to Nyoman-DEF
+\l I asked (to) Nyoman about I Wyan.
+
+\t Tiang matakon sig sabilang anakei ane teka unduk umahnei
+\m Tiang matakon sig sabilang anak-ei ane teka unduk umah-nei
+\g 1       ask       to every person-DEF REL come about house-3POSS
+\l I asked (to) every personi who came about his/heri house.
+
+\t Tiang matakon unduk umahnei sig sabilang anakei ane teka.
+\m Tiang matakon unduk umah-nei sig sabilang anak-ei ane teka.
+\g 1       ask       about house-3POSS to every person-DEF REL come
+\l I asked about his/heri house (to) every personi who came.
+
+\t Ia      meliang        I Wayan            potlote ento.
+\m Ia      meli-ang        I Wayan            potlot-e ento.
+\g 3       AV-buy-APPL ART Wayan              pencil-DEF that
+\l (s)he bought Wayan the pencil.
+
+\t (59)a.      Potlote ento     beliang=a             I Wayan.
+\m (59)a.      Potlote ento     beli-ang=a             I Wayan.
+\g             pencil-DEF that OV.buy-APPL=3           Art Wayan
+\l (s)he bought Wayan the pencil.
+
+\t I Wayan      beliang=a        potlote ento.
+\m I Wayan      beli-ang=a        potlote ento.
+\g Art Wayan OV.buy-APPL=3 pencil-DEF that
+\l (s)he bought Wayan the pencil.
+
+\t Ia     beliang       I Wayan              potlote ento.
+\m Ia     beli-ang       I Wayan              potlot-e ento.
+\g  3      OV.buy-APPL Art Wayan               pencil-DEF that
+\l (s)he bought Wayan the pencil.
+
+\t Ia       ngelap bangun
+\m Ia       ngelap bangun
+\g 3 deliberate     get up
+\l (S)he got up on purpose.
+
+\t (Tu)     matangi!
+\m (Tu)     ma-tangi!
+\g 2 get up
+\l (you) get up.
+
+\t Bukune      nenggel         di mejane
+\m Buku-ne      nenggel         di mejane
+\g book-DEF at.the.edge.of at table-DEF
+\l The book is at the edge of the table.
+
+\t Poqloda     eteguhagi abakna (daq) Ali.
+\m Poqlod-a     e-teguh-agi abakna (daq) Ali.
+\g pencil-DEF OV-see-APP 3         (to) Ali
+\l (s)he showed Ali the pencil.
+
+\t Awakne tingalin=a.
+\m Awakne tingalin=a.
+\g self     OV.see=3
+\l (S)he saw herself/himself.
+
+\t (74)a.          Nyoman Santosa tawang       tiang mulih.
+\m (74)a.          Nyoman Santosa tawang       tiang mulih.
+\g                 (name) OV.know 1      go.home
+\l I knew that Nyoman Santosa went home.
+
+\t Tiang nawang Nyoman Santosa mulih.
+\m Tiang nawang Nyoman Santosa mulih.
+\g 1      AV-know (name)            go.home
+\l I knew that Nyoman Santosa went home.
+
+\t Cang ngaden          awak cange suba mati.
+\m Cang ngaden          awak cange suba mati.
+\g 1       AV.think     myself       already dead
+\l I believed myself to be dead already.
+
+\t Awak cange kaden           cang suba       mati.
+\m Awak cange kaden           cang suba       mati.
+\g myself        OV.think 1           already dead
+\l I believed myself to be dead already.
+
+\t (78)a.       Adin              caine       sakit.
+\m (78)a.       Adin              cai-ne       sakit.
+\g              younger-sibling 2-DEF          ill
+\l Your younger sibling is ill.
+
+\t Adin            caine     sakitang      cai.
+\m Adin            cai-ne     sakit-ang      cai.
+\g younger-sibling 2-DEF      OV.ill-CAUS
+\l You hurt your younger sibling.
+
+\t (80)a.      Cai       nyakitang awak caine
+\m (80)a.      Cai       nyakit-ang awak cai-ne
+\g             2 AV.ill-CAUS yourself
+\l You hurt yourself.
+
+\t Awak caine sakitang    cai.
+\m Awak caine sakit-ang    cai.
+\g yourself    OV.ill-CAUS 2
+\l You hurt yourself.
+
+\t Tiang ngugutang         lalipine  sig Nyomanne.
+\m Tiang ngugut-ang         lalipine  sig Nyoman-ne.
+\g 1      AV-bite-CAUS      snake-DEF at Nyoman-DEF
+\l I made the snake bite Nyoman.
+
+\t Tiang ngugutang          awakne sig lalipine
+\m Tiang ngugut-ang          awakne sig lalipi-ne
+\g   1     AV-bite-CAUS self         at snake-DEF
+\l I made the snake bite itself.
+
+\t Tiang nyuunin                 Ni Luh Wayan banten.
+\m Tiang nyuun-in                 Ni Luh Wayan banten.
+\g 1      AV-carry.on.head-CAUS Ni Luh Wayan offering
+\l I made Ni Luh Wayan carry the offering.
+
+\t (84)a.     Sabilang jlemai nyuunin              Ni Luh Wayan bantennei
+\m (84)a.     Sabilang jlemai nyuun-in              Ni Luh Wayan banten-nei
+\g            every person    AV-bear.on.head-CAUS Ni Luh Wayan offering-3POSS
+\l Every personi made Ni Luh Wayan carry his/her offeringi.
+
+\t [Sabilang tukang banten]i suunin                  tiang   bantennei
+\m [Sabilang tukang banten]i suun-in                  tiang   banten-nei
+\g every    maker offering OV-bear.on.head-CAUS 1             offering-3POSS
+\l I made every offering-makeri carry his/her offeringi.
+
+\t Sabilang jlemai nyuunin                 pianaknei     banten
+\m Sabilang jlemai nyuun-in                 pianak-nei     banten
+\g every person    AV.bear.on.head-CAUS child-3POSS offering
+\l Every personi made his/heri child carry an offering on the head.
+
+\t Sabilang banteni suunin                     tiang [tukang bantenne]i.
+\m Sabilang banteni suun-in                     tiang [tukang banten-ne]i.
+\g   every offering     OV-bear.on.head-CAUS 1          maker offering-3POSS
+\l I had every offeringi carried by its offering-makeri.
+
+\t Cai nekain                kantore ene.
+\m Cai neka-in                kantor-e ene.
+\g 2   AV.come-APPL           office-DEF this
+\l You came to this office.
+
+\t (88)a.      Bungkusan dadua jemakang=a            Nyoman Santosa.
+\m (88)a.      Bungkusan dadua jemak-ang=a            Nyoman Santosa.
+\g             package      two     OV.take-APPL=3 (name)
+\l (s)he brought two packages to Nyoman Santosa.
+
+\t Nyoman Santosa jemakang=a          bungkusan dadua.
+\m Nyoman Santosa jemak-ang=a          bungkusan dadua.
+\g (name)             OV.take-APPL=3 package     two
+\l (s)he brought two packages to Nyoman Santosa.
+
+\t (89)a.      *sabilang potrekan edengin=a             jlemanne.
+\m (89)a.      *sabilang potrekan edeng-in=a             jleman-ne.
+\g             every picture      OV.show-APPL=3 person-POSS
+\l (S)he showed every picturei (to) itsi owner.
+
+\t Sabilang jlema   OV.edengin=a potrekanne.
+\m Sabilang jlema   OV.edeng-in=a potrekan-ne.
+\g every person     show-APPL=3 picture-POSS
+\l (S)he showed every personi his/heri picture.
+
+\t (90)a.      Sabilang toko anggehin=a                baasne ane paling luunga
+\m (90)a.      Sabilang toko anggeh-in=a                baas-ne ane paling luunga
+\g             every shop     OV.charge-APPL=3 rice-POSS best
+\l In every shopi (s)he bought itsi best rice on credit.
+
+\t Sabilang sate jangin=a              bodagne.
+\m Sabilang sate jang-in=a              bodag-ne.
+\g  every satay     OV.put-APPL=3        basket-POSS
+\l (S)he put every satayi in itsi basket
+
+\t Bukune     jemaka        teken Wayan.
+\m Buku-ne     jemak-a        teken Wayan.
+\g book-DEF OV.take-PASS by Wayan
+\l The book has been taken by Wayan.
+
+\t Okan idane sampun katumbasang motor anyar         (antuk ida)
+\m Okan idane sampun ka-tumbas-ang motor anyar         (antuk ida)
+\g child 3-DEF already PASS-buy-APPL motor-bike new (by 3)
+\l His child was bought a new motor bike (by him/her).
+
+\t Motor anyar    sampun katumbasang okan idane (antuk ida)
+\m Motor anyar    sampun ka-tumbas-ang okan idane (antuk ida)
+\g motor-bike new already PASS-buy-APPL child 3-DEF (by 3)
+\l A new motor bike was bought (for) his child (by him/her).
+
+\t Awaknei/j edengin=aj      anak cenike entoi di kacane
+\m Awaknei/j edengin=aj      anak cenik-e entoi di kaca-ne
+\g self      OV.show=3       person small that in mirror-DEF
+\l Hej showed the childi himselfi/j in the mirror
+
+\t Bambange ento pulangin=ai              awaknei
+\m Bambang-e ento pulang-in=ai              awaknei
+\g hole-DEF that       OV.drop=APPL=3       self
+\l In the hole (s)hei dumped herself/himselfi.
+
+\t Bambange punika kapulangin          ragan idanei   antuk idai.
+\m Bambang-e punika ka-pulang-in          ragan idanei   antuk idai.
+\g   hole-DEF that        PASS-drop-APPL self              by 3
+\l In the hole, (s)hei dumped herself/himselfi .
+
+\t [Anake cenik ento]i edengin=aj awaknei/j di kacane
+\m [Anake cenik ento]i edengin=aj awaknei/j di kacane
+\g person small that OV.show=3 self                  at mirror-DEF
+\l Hej showed the childi himselfi/j in the mirror.
+
+\t Anake cenik entoi edengina awaknei/*j di kacane            teken iaj
+\m Anake cenik entoi edengin-a awaknei/*j di kacane            teken iaj
+\g person small that show-PASS self              at mirror-DEF by 3
+\l The childi was shown himselfi/*j in the mirror by himj.
+
+\t Anake alit punikai kaedengin raganei/*j ring kacane antuk idaj
+\m Anake alit punikai ka-edengin raganei/*j ring kacane antuk idaj
+\g person small that PASS-show self           at mirror-DEF by 3
+\l The childi was shown himselfi/*j in the mirror by himj.
+
+\t Idai     inceg pisan ngrunguang sisian idane.
+\m Idai     inceg pisan ng-runguang sisian idane.
+\g 3 busy very      AV.care       student 3-DEF
+\l (S)hei was very busy taking care of his/her students
+
+\t (107)a.    Jani sabilang anak bajangi ngenah sajan sig reramanei            suba matunangan.
+\m (107)a.    Jani sabilang anak bajangi ngenah sajan sig rerama-nei            suba matunangan.
+\g            now every person young AV.seem very to parent-3POSS               already ma-lover
+\l Nowadays it is very apparent to heri parents that every young girli has got a lover.
+
+\t Iai tusing nawang apa ia/?*awaknei suba ngemaang I Nyoman pipisne
+\m Iai tusing nawang apa ia/?*awaknei suba ngemaang I Nyoman pipis-ne
+\g 3 NEG know          Q 3/self           PERF give       I Nyoman money-3POSS
+\l Shei does not know whether shei has given I Nyoman his money
+
+\t Awaknei tawang=ai lakar tangkep polisi.
+\m Awaknei tawang=ai lakar tangkep polisi.
+\g self    OV.know=3 FUT OV.arrest police
+\l Hei knew that the police would arrest selfi.
+
+\t Iai    nawang             iai    lakar tangkep       polisi.
+\m Iai    nawang             iai    lakar tangkep       polisi.
+\g  3      AV.know            3      FUT     OV.arrest   police
+\l Hei knew that the police    would arrest himi.
+
+\t Iai tawang=ai        lakar tangkep polisi.
+\m Iai tawang=ai        lakar tangkep polisi.
+\g  3 OV.know=3          FUT OV.arrest police
+\l Hei knew that the police would arrest himi.
+
+\t  anake         [ane panakne        ngeling] ento
+\m  anake         [ane panakne        ngeling] ento
+\g person-DEF REL child-3POSS cry           that
+\l the person whose son is crying
+
+\t [Anake      [ane tiang ngalih     panakne]
+\m [Anake      [ane tiang ngalih     panakne]
+\g person-DEF REL 1         AV.search child-3POSS
+\l the person whose son I searched
+
+\t Ipun kaicen        jinah antuk Bapak Guru
+\m Ipun ka-icen        jinah antuk Bapak Guru
+\g 3      PASS-give    money by       father teacher
+\l (S)he was given money by the teacher
+
+\t Nyoman        belianga         nasi           teken I   Meme
+\m Nyoman        beli-ang-a         nasi           teken I   Meme
+\g NAME          buy-APPL-PASS      rice           by    ART mother
+\l Rice was bought for Nyoman by Mother
+
+\t Wayan        maang      Nyoman                pipis
+\m Wayan        maang      Nyoman                pipis
+\g NAME         AV.give    NAME                  money
+\l Wayan gave Nyoman money
+
+\t Nyoman        baang=a    pipis
+\m Nyoman        baang=a    pipis
+\g NAME          OV.give=3  money
+\l (S)he gave NYOMAN (not someone else) money
+
+\t Nyoman      baanga       pipis (teken Wayan)
+\m Nyoman      baang-a       pipis (teken Wayan)
+\g NAME        give-PASS     money by Wayan
+\l Nyoman was given money (by Wayan)
+
+\t Tiang numbas        tamba
+\m Tiang numbas        tamba
+\g 1      AV.buy       medicine
+\l I bought medicine
+
+\t Dampare       ento tegakin            tiang
+\m Dampar-e       ento tegak-in            tiang
+\g bench-DEF that OV.sit-APPL              1
+\l The bench, I sat on (it)
+
+\t Ia meliang            Nyoman     umah
+\m Ia meli-ang            Nyoman     umah
+\g 3 AV.buy-APPL          name       house
+\l (S)he bought a house for Nyoman
+
+\t Nyoman beliang=a             umah
+\m Nyoman beli-ang=a             umah
+\g name     OV.buy-APPL=3        house
+\l For Nyoman, (s)he bought a house
+
+\t Umah         ene ane       beliang=a Nyoman
+\m Umah         ene ane       beliang=a Nyoman
+\g house        this REL OV.buy=3 name
+\l It is this house that (s)he bought for Nyoman
+
+\t Awakne tusing       runguang=a
+\m Awak-ne tusing       runguang=a
+\g self-3    NEG        OV.care=3
+\l Himself/herself, (s)he didn't care (with)
+
+\t Raganidane      tan sida cingakin       ida
+\m Raganidane      tan sida cingakin       ida
+\g self-3          NEG can      OV.see     3
+\l Himself/herself, (s)he cannot see
+
+\t Raganidane tan sida kacingakin            antuk ida
+\m Raganidane tan sida ka-cingakin            antuk ida
+\g  self-3          NEG can      PASS-see       by    3
+\l Himself/herself cannot be seen by him/her
+
+\t d.?* Ida tan       sida kacingakin     antuk     raganidane
+\m d.?* Ida tan       sida kacingakin     antuk     raganidane
+\g     3     NEG can PASS-see             by        self-3
+\l (S)he cannot be seen by himself/herself
+
+\t Awakne        tingalin=a
+\m Awakne        tingalin=a
+\g self-3        OV.see=3
+\l Himself/herself, (s)he saw
+
+\t c. ??Awakne tingalina teken ia
+\m c. ??Awakne tingalin-a teken ia
+\g self-3   see-PASS by       3
+\l Himself/herself was seen by him/her
+
+\t d.* Ia tingalina teken awakne
+\m d.* Ia tingalin-a teken awakne
+\g    3     see-PASS by          self-3
+\l (S)he was seen by himself/herself
+
+\t Ia nanemin     tebanne      kaselakutuh.
+\m Ia nanem-in     teban-ne      kasela-kutuh.
+\g 3 AGT.plant-APPL backyard-3POSS cassava
+\l (S)he planted cassava in his/her backyard.
+
+\t Kaselakutuh tanemin=a tebanne.
+\m Kasela-kutuh tanem-in=a teban-ne.
+\g cassava        OBJ.plant-APPL backyard-3POSS
+\l (S)he planted CASSAVA (i.e. nothing else) in his/her backyard.
+
+\t Tebanne          tanemin=a kaselakutuh.
+\m Teban-ne          tanem-in=a kasela-kutuh.
+\g backyard-3POSS OBJ.plant-APPL cassava
+\l In his/her backyard, (s)he planted cassava.
+
+\t Tiang tawang=a [ngalih        Luh Sari].
+\m Tiang tawang=a [ng-alih        Luh Sari].
+\g 1     OBJ.know=3 AGT-look.for Luh Sari
+\l Of me she knew I         was looking for Luh Sari.
+
+\t Tiang tawanga=a [Luh Sari alih].
+\m Tiang tawanga=a [Luh Sari alih].
+\g  1     OBJ.know=3 Luh Sari OBJ.look.for
+\l Of me (s)he knew         that Luh Sari was being looked for by me.
+
+\t b.       [Naar      ubad      ento] tegarang tiang.
+\m b.       [Naar      ubad      ento] tegarang tiang.
+\g           AGT.eat medicine that OBJ.try 1
+\l I tried to take the medicine.
+
+\t [naar      ubad      ento] tegarang tiang
+\m [naar      ubad      ento] tegarang tiang
+\g  ACT.eat medicine that DO.try I
+\l To take the medicine I tried.
+
+\t [ngalih       Luh Sari] ane tawang=a        tiang
+\m [ng-alih       Luh Sari] ane tawang=a        tiang
+\g  ACT-look.for Luh Sari REL DO.know=3 I
+\l Looking for Luh Sari is what (s)he knows of me.
+
+\t cerikcerik      jani     lebihan      sing      demen         teken     jaja roti
+\m cerik-cerik      jani     lebihan      sing      demen         teken     jaja roti
+\g children         now      more         NEG       like          with      cake
+\l Children today more and more do not like cakes
+
+\t Tiang     demen         gati     ajak    roke
+\m Tiang     demen         gati     ajak    rok-e
+\g 1SG       like          much     with    dress-DEF
+\l I like the dress.
+
+\t Roke           demenin       tiang
+\m Rok-e           demen-in       tiang
+\g dress-DEF       like-AD        1SG
+\l I like the dress.
+
+\t Nyoman lempag tiang
+\m Nyoman lempag tiang
+\g Nyoman hit           1SG
+\l I hit Nyoman
+
+\t Tiang nglempag Nyoman
+\m Tiang nglempag Nyoman
+\g 1SG       N.hit      Nyoman
+\l I hit Nyoman
+
+\t padine kaambil (teken Made)
+\m padi-ne ka-ambil (teken Made)
+\g rice-def pass-take (with Made)
+\l The rice has been taken (by Made).
+
+\t tiang ane       gugut cicing
+\m tiang ane       gugut cicing
+\g 1sg rel subj ov.bite dog
+\l I am the one the dog bites.
+
+\t cicinge ane       ngugut tiang
+\m cicing-e ane       ngugut tiang
+\g dog-def rel subj av.bite 1sg
+\l The dog is the one who bit me.
+
+\t awak caine    pedihang cai
+\m awak cai-ne    pedihang cai
+\g self 2sg-poss ov.blame 2sg
+\l You blamed yourself.
+
+\t ... bajune        suba    maumbah.
+\m ... bajune        suba    ma-umbah.
+\g     clothes:def   perf    ma-wash
+\l ... the clothes have been washed.
+
+\t jagane            ampun maurab.
+\m jagane            ampun ma-urab.
+\g  vegetable:def    perf    ma-mix
+\l The vegetables have been mixed up.
+
+\t torise mabok gading.
+\m torise ma-bok gading.
+\g   tourist   ma-hair
+\l The tourist has blonde hair.
+
+\t Gurune          nto    ngirim          buku    sig/*ke         anake         nto
+\m Guru-ne          nto    ngirim          buku    sig/*ke         anak-e         nto
+\g teacher-DEF      that   AV.send         book    to              person-DEF     that
+\l The teacher sent a book to the person
+
+\t Gurune          nto    ngirim          buku    ke/*sig         Indonesia
+\m Guru-ne          nto    ngirim          buku    ke/*sig         Indonesia
+\g teacher-DEF      that   AV.send         book    to              Indonesia
+\l The teacher sent a book to Indonesia
+
+\t           ergativity                          i   Nc r y
+\m           ergativity                          i   N-c r y
+\g 3SG.O       scold          1SG.A then
+\l I scolded her/himi, then s/hei cried.
+
+\t tiang edot [            i    periksa     dokter ]
+\m tiang edot [            i    periksa     dokter ]
+\g 1SG.A want                   examine     doctor.A
+\l I want to be examined by a doctor.
+
+\t kapelihanine   ngenah sajan                       [   i   engkebang ci   ]
+\m kapelihani-ne   ngenah sajan                       [   i   engkebang ci   ]
+\g mistake.O-3POSS seem   much                                hide      2SG.A
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t Nyoman   lempag             tiang                                   O   VA
+\m Nyoman   lempag             tiang                                   O   VA
+\g Nyoman.O hit                1SG.A
+\l I hit Nyoman.
+
+\t tiang         nglempag Nyoman                                  A   NV O
+\m tiang         ng-lempag Nyoman                                  A   N-V O
+\g 1SG.A         N-hit     Nyoman.O
+\l I hit Nyoman.
+
+\t [tiangi     ngopak          ia   ] lantas [      i   ngeling]
+\m [tiangi     ng-opak          ia   ] lantas [      i   ng-eling]
+\g  1SG.A      N-scold          3SG.O then               N-c r y
+\l Ii scolded her/him, then (I)i cried.
+
+\t tiangi edot [         i    meriksa             dokter ]
+\m tiangi edot [         i    meriksa             dokter ]
+\g 1SG.A want                 N \examine          doctor.O
+\l I want to examine a doctor.
+
+\t cii   ngenah sajan                [   i   ngengkebang kapelihanne   ]
+\m cii   ngenah sajan                [   i   ng-engkebang kapelihan-ne   ]
+\g 2SG.A seem   much                         N-hide       mistake.O-3POSS
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t [tiang   i   ngiopak    ia   ] lantas [ngieling]
+\m [tiang   i   ngi-opak    ia   ] lantas [ngi-eling]
+\g  1SG         A-scold     3SG.O then     A-c ry
+\l Ii scolded her/him, then (I)i cried.
+
+\t tiangi edot           [mieriksa            dokter ]
+\m tiangi edot           [mieriksa            dokter ]
+\g 1SG.A want             A\examine           doctor.O
+\l I want to examine a doctor.
+
+\t cii          ngenah sajan      [ngiengkebang kapelihanne   ]
+\m cii          ngenah sajan      [ngi-engkebang kapelihan-ne   ]
+\g 2SG          seem   much        A-hide        mistake.O-3POSS
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t caii     niebek        awaki
+\m caii     ni-ebek        awaki
+\g 2SG      A-stab         self.O
+\l You stabbed yourself.
+
+\t iai      ngiantung      awaki
+\m iai      ngiantung      awaki
+\g 3SG      A\hang         self.O
+\l S/he hanged herself/himself.
+
+\t tiangi mielihang        [awak     tiangie ]
+\m tiangi mielihang        [awak     tiangi-e ]
+\g 1SG A\blame              self.O   1SG-GEN
+\l I blamed myself.
+
+\t awak        ipelihang      caii
+\m awak        i-pelihang      caii
+\g   self    i   O-blame      2SG.A
+\l You blamed yourself.
+
+\t [awak caiine ] ipelihang caii
+\m [awak caii-ne ] i-pelihang caii
+\g self  2SG-GEN O-blame      2SG.A
+\l You blamed yourself.
+
+\t tiang edot [            i    periksa     dokter ]
+\m tiang edot [            i    periksa     dokter ]
+\g 1SG.A want                   examine     doctor.A
+\l I want to be examined by a doctor.
+
+\t kapelihanine   ngenah sajan                       [   i   engkebang ci   ]
+\m kapelihani-ne   ngenah sajan                       [   i   engkebang ci   ]
+\g mistake.O-3POSS seem   much                                hide      2SG.A
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t tiangi edot [         i    meriksa             dokter ]
+\m tiangi edot [         i    meriksa             dokter ]
+\g 1SG.A want                 N \examine          doctor.O
+\l I want to examine a doctor.
+
+\t cii   ngenah sajan                [   i   ngengkebang kapelihanne   ]
+\m cii   ngenah sajan                [   i   ng-engkebang kapelihan-ne   ]
+\g 2SG.A seem   much                         N-hide       mistake.O-3POSS
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t tiangi edot           [mieriksa            dokter ]
+\m tiangi edot           [mieriksa            dokter ]
+\g 1SG.A want             A\examine           doctor.O
+\l I want to examine a doctor.
+
+\t cii          ngenah sajan      [ngiengkebang kapelihanne   ]
+\m cii          ngenah sajan      [ngi-engkebang kapelihan-ne   ]
+\g 2SG          seem   much        A-hide        mistake.O-3POSS
+\l It is very apparent that you are hiding his/her wrongdoing.
+
+\t caii     niebek        awaki
+\m caii     ni-ebek        awaki
+\g 2SG      A-stab         self.O
+\l You stabbed yourself.
+
+\t iai      ngiantung      awaki
+\m iai      ngiantung      awaki
+\g 3SG      A\hang         self.O
+\l S/he hanged herself/himself.
+
+\t tiangi mielihang        [awak     tiangie ]
+\m tiangi mielihang        [awak     tiangi-e ]
+\g 1SG A\blame              self.O   1SG-GEN
+\l I blamed myself.
+
+\t awak    i   ipelihang      caii
+\m awak    i   i-pelihang      caii
+\g   self        O-blame      2SG.A
+\l You blamed yourself.
+
+\t [awak caiine ] ipelihang caii
+\m [awak caii-ne ] i-pelihang caii
+\g self  2SG-GEN O-blame      2SG.A
+\l You blamed yourself.
+
+\t cerikcerik      jani     lebihan      sing      demen         teken     jaja roti
+\m cerik-cerik      jani     lebihan      sing      demen         teken     jaja roti
+\g children         now      more         NEG       like          with      cake
+\l Children today more and more do not like cakes
+
+\t Tiang     demen         gati     ajak    roke
+\m Tiang     demen         gati     ajak    rok-e
+\g 1SG       like          much     with    dress-DEF
+\l I like the dress.
+
+\t Roke           demenin       tiang
+\m Rok-e           demen-in       tiang
+\g dress-DEF       like-AD        1SG
+\l I like the dress.
+
+\t Nyoman lempag tiang
+\m Nyoman lempag tiang
+\g Nyoman hit           1SG
+\l I hit Nyoman
+
+\t Tiang nglempag Nyoman
+\m Tiang nglempag Nyoman
+\g 1SG       N.hit      Nyoman
+\l I hit Nyoman
+

@@ -1,0 +1,405 @@
+\t No st< parlare
+\m No st< parlare
+\g Neg stay talk-inf.
+\l Don't talk!
+
+\t Vienlo?
+\m Vien-lo?
+\g    comes-S.CL
+\l Is he coming?
+
+\t Nol         vien?
+\m Nol         vien?
+\g   NEG-S.CL comes
+\l Isn't he coming?
+
+\t Che roba che l magna!
+\m Che roba che l magna!
+\g  what stuff that he eats
+\l The things he eats!
+
+\t No galo magna tuto!
+\m No ga-lo magna tuto!
+\g  NEG has-S.CL eaten everything
+\l He ate everything!
+
+\t Che roba che l magna!
+\m Che roba che l magna!
+\g  what stuff that he eats
+\l The things he eats!
+
+\t No galo magna tuto!
+\m No ga-lo magna tuto!
+\g  NEG has-S.CL eaten everything
+\l He ate everything!
+
+\t b. *No ze incredibile che belo che el ze.
+\m b. *No ze incredibile che belo che el ze.
+\g       NEG is incredible how cute that S.CL is
+\l a. *It isn't amazing how very cute he is.
+
+\t A to sorela, che libro vorissito regalarghe?
+\m A to sorela, che libro vorissi-to regalar-ghe?
+\g   to your sister which book want-S.CL give-her
+\l To your sister, which book would you like to give as a gift?
+
+\t To sorela, a chi la gali              presenta?
+\m To sorela, a chi la ga-li              presenta?
+\g   your sister to who her have-S.CL introduced
+\l Your sister, to whom have they introduced her?
+
+\t Che bel libro, a to sorela, che i           ghe ga regala!
+\m Che bel libro, a to sorela, che i           ghe ga regala!
+\g  what nice book to your sister that S.CL her have given
+\l What a nice book, to your sister, they gave her as a gift!
+
+\t In che bel posto, to fjolo, che te lo ga manda!
+\m In che bel posto, to fjolo, che te lo ga manda!
+\g in what nice place your son that S.CL him have sent
+\l In what a nice place, your son, you sent him!
+
+\t Cossa che l       magnava!
+\m Cossa che l       magnava!
+\g  what that S.CL ate
+\l What things he ate!
+
+\t Che libro che te lezi!
+\m Che libro che te lezi!
+\g what book that S.CL read
+\l What a book you are reading!
+
+\t Cossa [ no ghe diselo ]!
+\m Cossa [ no ghe dise-lo ]!
+\g  what NEG him says-S.CL
+\l What things he's telling him!
+
+\t Che libro [ no lezito ]!
+\m Che libro [ no lezi-to ]!
+\g what book NEG read-S.CL
+\l What a book you are reading!
+
+\t Cossa che l        magnava?
+\m Cossa che l        magnava?
+\g   what that S.CL ate
+\l What did he eat?
+
+\t Cossa no gala magna?
+\m Cossa no ga-la magna?
+\g   what NEG has-S.CL eaten
+\l What didn't she eat?
+
+\t (Ecome) se l           ga pianto!
+\m (Ecome) se l           ga pianto!
+\g     and how if S.CL has cried
+\l And how she cried so!
+
+\t No galo magna tuto!
+\m No ga-lo magna tuto!
+\g   NEG has-S.CL eaten everything
+\l He's eaten everything!
+
+\t Che alto che l         ze!
+\m Che alto che l         ze!
+\g   what tall that S.CL is
+\l How tall he is!
+
+\t Chi che l        ga fato inrabiare!
+\m Chi che l        ga fato inrabiare!
+\g   who that S.CL has made to get angry
+\l The people he made angry!
+
+\t Cossa che l      magnava!
+\m Cossa che l      magnava!
+\g  what that S.CL ate
+\l What things he ate!
+
+\t Cossa, a to sorela, (che) i       ghe ga regala!
+\m Cossa, a to sorela, (che) i       ghe ga regala!
+\g   what to your sister that S.CL her have given
+\l What, to your sister, they gave her as a gift!
+
+\t No galo magna tuto!
+\m No ga-lo magna tuto!
+\g   neg has-S.CL eaten everything
+\l He ate everything!
+
+\t a       Ara ch'a vegno       Loreo
+\m a       Ara ch'a vegno       Loreo
+\g         look that+SCL come
+\l Look, I am coming
+
+\t c       No so sa vegno
+\m c       No so sa vegno
+\g         not know if+SCL come
+\l I do not know whether I will come
+
+\t a       Ara che el vien      Loreo
+\m a       Ara che el vien      Loreo
+\g         look that+SCL comes
+\l Look, he is coming
+
+\t (A)          vegno        da      Vicensa.
+\m (A)          vegno        da      Vicensa.
+\g CLIT.1SG     come-1SG from Vicenza
+\l I come from Vicenza.
+
+\t (A)          vegnemo      da      Vicensa.
+\m (A)          vegnemo      da      Vicensa.
+\g CLIT.1PL     come-1PL from Vicenza
+\l We come from Vicenza.
+
+\t Da `ndó           vien*(to)      ti?
+\m Da `ndó           vien-*(to)      ti?
+\g    where-from come-CLIT.2SG you
+\l Where do you come from?
+
+\t Ti       te         vien    da    Montecio.
+\m Ti       te         vien    da    Montecio.
+\g    you   CLIT.2SG   come from Montecio
+\l You come from Montecio.
+
+\t Da `ndó               vegni*(o)          (voaltri)?
+\m Da `ndó               vegni-*(o)          (voaltri)?
+\g      where-from come-CLIT.2PL you.PL
+\l Where do you come from?
+
+\t (A)          vegní           da     Durlo.
+\m (A)          vegní           da     Durlo.
+\g  CLIT.2PL    come-2PL from Durlo
+\l You come from Durlo.
+
+\t Da `ndó           vien*(lo)                   sto   omo?
+\m Da `ndó           vien-*(lo)                   sto   omo?
+\g  where-from come-CLIT.3SG.MASC                 this man
+\l Where does this man come from?
+
+\t Elo/lu *(el)                   vien     da      Durlo.
+\m Elo/lu *(el)                   vien     da      Durlo.
+\g  he        CLIT.3SG.MASC       come from Durlo
+\l He comes from Durlo.
+
+\t Da `ndó           vien*(la)                 sta dona?
+\m Da `ndó           vien-*(la)                 sta dona?
+\g  where-from come-CLIT.3SG.FEM this woman
+\l Where does this woman come from?
+
+\t Voaltri   a          vegní        da     Durlo.
+\m Voaltri   a          vegní        da     Durlo.
+\g you.PL    CLIT.2PL   come-2PL     from Durlo
+\l You come from Durlo.
+
+\t Ela *(la)                vien    da        Arzegnan.
+\m Ela *(la)                vien    da        Arzegnan.
+\g  she   CLIT.3SG.FEM      come from Arzignano
+\l She comes from Arzignano.
+
+\t Da `ndó         vien*(li)                  lori?
+\m Da `ndó         vien-*(li)                  lori?
+\g  where-from come-CLIT.3PL.MASC        they.MASC
+\l Where do they come from?
+
+\t Lori           *(i)                vien      da     Malo.
+\m Lori           *(i)                vien      da     Malo.
+\g  they.MASC      CLIT.3PL.MASC      come from Malo
+\l They come from Malo.
+
+\t Da `ndó         vien*(le)                 lore?
+\m Da `ndó         vien-*(le)                 lore?
+\g  where-from come-CLIT.3PL.FEM              they.FEM
+\l Where do they come from?
+
+\t Lore         *(le)              vien   da      Ciampo.
+\m Lore         *(le)              vien   da      Ciampo.
+\g  they.FEM     CLIT.3PL.FEM      come from Ciampo
+\l They come from Ciampo.
+
+\t             no    vegno           da     Vicensa.
+\m             no    vegno           da     Vicensa.
+\g CLIT.1SG    not come-1SG from Vicenza
+\l I do not come from Vicensa.
+
+\t (A)           no    vegnemo         da     Vicensa.
+\m (A)           no    vegnemo         da     Vicensa.
+\g   CLIT.1PL    not come-1PL from Vicenza
+\l We do not come from Vicenza.
+
+\t No          te          vien       da     Vicensa.
+\m No          te          vien       da     Vicensa.
+\g       not   CLIT.2SG    come from Vicenza
+\l You do not come from Vicenza.
+
+\t No      la                 vien     da      Vicensa.48
+\m No      la                 vien     da      Vicensa.48
+\g   not   CLIT.3SG.FEM       come from Vicenza
+\l She does not come from Vicenza.
+
+\t Lu     nol                vien    a   casa    stasera.
+\m Lu     no-l                vien    a   casa    stasera.
+\g he     not-CLIT.3SG.MASC come      to home tonight
+\l He is not coming home tonight.
+
+\t Ti          a           no    te              vien     da       Vicensa.
+\m Ti          a           no    te              vien     da       Vicensa.
+\g     you     CLIT.2SG    not   CLIT.2SG        come from Vicenza
+\l You do not come from Vicenza.
+
+\t No      vienle                mia   a   casa    stasera?
+\m No      vien-le                mia   a   casa    stasera?
+\g not     come-CLIT.3PL.FEM      PRT   to home tonight
+\l Are they really not coming home tonight?
+
+\t No la     vien
+\m No la     vien
+\g not she come
+\l She does not come.
+
+\t Go da fare na roba.
+\m Go da fare na roba.
+\g pro have to do something
+\l Ihave to do something.
+
+\t Cossa goi da fare?
+\m Cossa goi da fare?
+\g What have-Icl to do
+\l What do I have to do?
+
+\t Cossa ghèto da fare?
+\m Cossa ghèto da fare?
+\g What have-youcl to do?
+\l What do you have to do?
+
+\t Cossa ze che la magna?
+\m Cossa ze che la magna?
+\g What is that she eats
+\l What does she eat?
+
+\t Cossa la dise?
+\m Cossa la dise?
+\g What she says
+\l What does she say?
+
+\t Atu fat che?
+\m A-tu fat che?
+\g Have you done what
+\l What have you done?
+
+\t (A)          vegno        da      Vicensa.
+\m (A)          vegno        da      Vicensa.
+\g CLIT.1SG     come-1SG from Vicenza
+\l I come from Vicenza.
+
+\t (A)          vegnemo      da      Vicensa.
+\m (A)          vegnemo      da      Vicensa.
+\g CLIT.1PL     come-1PL from Vicenza
+\l We come from Vicenza.
+
+\t Da `ndó           vien*(to)      ti?
+\m Da `ndó           vien-*(to)      ti?
+\g    where-from come-CLIT.2SG you
+\l Where do you come from?
+
+\t Ti       te         vien    da    Montecio.
+\m Ti       te         vien    da    Montecio.
+\g    you   CLIT.2SG   come from Montecio
+\l You come from Montecio.
+
+\t Da `ndó               vegni*(o)          (voaltri)?
+\m Da `ndó               vegni-*(o)          (voaltri)?
+\g      where-from come-CLIT.2PL you.PL
+\l Where do you come from?
+
+\t (A)          vegní           da     Durlo.
+\m (A)          vegní           da     Durlo.
+\g  CLIT.2PL    come-2PL from Durlo
+\l You come from Durlo.
+
+\t Da `ndó           vien*(lo)                   sto   omo?
+\m Da `ndó           vien-*(lo)                   sto   omo?
+\g  where-from come-CLIT.3SG.MASC                 this man
+\l Where does this man come from?
+
+\t Elo/lu *(el)                   vien     da      Durlo.
+\m Elo/lu *(el)                   vien     da      Durlo.
+\g  he        CLIT.3SG.MASC       come from Durlo
+\l He comes from Durlo.
+
+\t Da `ndó           vien*(la)                 sta dona?
+\m Da `ndó           vien-*(la)                 sta dona?
+\g  where-from come-CLIT.3SG.FEM this woman
+\l Where does this woman come from?
+
+\t Voaltri   a          vegní        da     Durlo.
+\m Voaltri   a          vegní        da     Durlo.
+\g you.PL    CLIT.2PL   come-2PL     from Durlo
+\l You come from Durlo.
+
+\t Ela *(la)                vien    da        Arzegnan.
+\m Ela *(la)                vien    da        Arzegnan.
+\g  she   CLIT.3SG.FEM      come from Arzignano
+\l She comes from Arzignano.
+
+\t Da `ndó         vien*(li)                  lori?
+\m Da `ndó         vien-*(li)                  lori?
+\g  where-from come-CLIT.3PL.MASC        they.MASC
+\l Where do they come from?
+
+\t Lori           *(i)                vien      da     Malo.
+\m Lori           *(i)                vien      da     Malo.
+\g  they.MASC      CLIT.3PL.MASC      come from Malo
+\l They come from Malo.
+
+\t Da `ndó         vien*(le)                 lore?
+\m Da `ndó         vien-*(le)                 lore?
+\g  where-from come-CLIT.3PL.FEM              they.FEM
+\l Where do they come from?
+
+\t Lore         *(le)              vien   da      Ciampo.
+\m Lore         *(le)              vien   da      Ciampo.
+\g  they.FEM     CLIT.3PL.FEM      come from Ciampo
+\l They come from Ciampo.
+
+\t             no    vegno           da     Vicensa.
+\m             no    vegno           da     Vicensa.
+\g CLIT.1SG    not come-1SG from Vicenza
+\l I do not come from Vicensa.
+
+\t (A)           no    vegnemo         da     Vicensa.
+\m (A)           no    vegnemo         da     Vicensa.
+\g   CLIT.1PL    not come-1PL from Vicenza
+\l We do not come from Vicenza.
+
+\t No          te          vien       da     Vicensa.
+\m No          te          vien       da     Vicensa.
+\g       not   CLIT.2SG    come from Vicenza
+\l You do not come from Vicenza.
+
+\t No      la                 vien     da      Vicensa.48
+\m No      la                 vien     da      Vicensa.48
+\g   not   CLIT.3SG.FEM       come from Vicenza
+\l She does not come from Vicenza.
+
+\t Lu     nol                vien    a   casa    stasera.
+\m Lu     no-l                vien    a   casa    stasera.
+\g he     not-CLIT.3SG.MASC come      to home tonight
+\l He is not coming home tonight.
+
+\t Ti          a           no    te              vien     da       Vicensa.
+\m Ti          a           no    te              vien     da       Vicensa.
+\g     you     CLIT.2SG    not   CLIT.2SG        come from Vicenza
+\l You do not come from Vicenza.
+
+\t No      vienle                mia   a   casa    stasera?
+\m No      vien-le                mia   a   casa    stasera?
+\g not     come-CLIT.3PL.FEM      PRT   to home tonight
+\l Are they really not coming home tonight?
+
+\t No la     vien
+\m No la     vien
+\g not she come
+\l She does not come.
+
+\t Ndo elo ndat endoe?
+\m Ndo e-lo ndat endoe?
+\g Where is-he gone where
+\l Where has he gone? 
+

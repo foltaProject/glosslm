@@ -1,0 +1,55 @@
+\t No     tere     aila   eko=ne.
+\m No     tere     aila   eko=ne.
+\g 3PL    chop tree       axe=INSTR
+\l They cut the trees down with axes.
+
+\t No     tere     aila   ninkleli.
+\m No     tere     aila   ninkleli.
+\g 3PL    chop tree       garden
+\l They cut the trees down in the garden.
+
+\t No     panteri     ala   nala.
+\m No     panteri     ala   nala.
+\g 3PL    PL.ascend sun     tooth
+\l They went to the mountain.
+
+\t no    tere     aila   eko=ne          ninkleli.
+\m no    tere     aila   eko=ne          ninkleli.
+\g  3PL    chop tree       axe=INSTR       garden
+\l They cut the trees down with axes in the garden.
+
+\t No      nem       eko     tere    aila   ninkleli.
+\m No      n-em       eko     tere    aila   ninkleli.
+\g 3PL     3PL-get    axe     chop tree      garden
+\l They took axes and cut the trees down in the garden.
+
+\t No     panteri        ninkleli tere        aila  eko=ne.
+\m No     panteri        ninkleli tere        aila  eko=ne.
+\g 3PL    PL.ascend      garden      chop tree      axe=INSTR
+\l They went to the garden and cut the trees down with axes.
+
+\t no    panteri     ala   nala , (pleni /             tolla     moa=ne)
+\m no    panteri     ala   nala , (pleni /             tolla     moa=ne)
+\g  3PL    PL.ascend sun     tooth        path           bird      mother=INSTR
+\l They went to the mountain by road/plane.
+
+\t No     nupane pleni panteri         ala         nala.
+\m No     n-upane pleni panteri         ala         nala.
+\g 3PL    3PL-follow path PL.ascend sun             tooth
+\l They went to the mountain by road.
+
+\t No     panteri     tolla moa         panteri   ala             nala.
+\m No     panteri     tolla moa         panteri   ala             nala.
+\g 3PL    PL.ascend bird mother         PL.ascend sun             tooth
+\l They went to the mountain by road/plane.
+
+\t Yine mamplo au              puno sa           ese wae         e       asu               pente au        ani     sa       ese     fanta palo            tiroa          palo       nal     mairop.
+\m Yine mamplo au              puno sa           ese w-ae         e       asu               pente au        ani     sa       ese     fanta palo            tiroa          palo       nal     mairop.
+\g 2SG     rinse       sago pith        T OP     IRR 2/3SG-sit    SG.be sago.strainer       with sago milk TOP IRR                   fall     go.down      sago.trough go.down       sago catcher   
+\l When you rinse sago, the scrapings stop at the strainer,      and the milk goes down from the trough to the sago catcher.
+
+\t No     tere     eko=ne        aila.
+\m No     tere     eko=ne        aila.
+\g 3PL    chop axe=INSTR         tree
+\l They cut the trees down with axes.
+

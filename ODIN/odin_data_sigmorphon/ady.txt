@@ -1,0 +1,95 @@
+\t S'ak°'em d°z'r øjwç'as'
+\m S'ak°'e-m d°z'-r ø-j-wç'-a-s'
+\g hunter-ERG wolf-ABS         O3SG-S3SG-kill-PF-ASSRT
+\l The hunter killed the wolf
+
+\t Je÷'m            pismor     øt
+\m Je÷'-m            pismo-r     ø--t-
+\g he(/himself)-ERG letter-ABS O3SG-S3SG-write-PRF
+\l He (himself) wrote the letter
+
+\t Je÷'ø             mek°'e÷'
+\m Je÷'-ø             me-k°'e-÷'
+\g he(/himself)-ABS S3SG-go.PRS-REV
+\l He (himself) returns
+
+\t jELesEm EB'weV          [ShwenC'EmB'e   (se)       sEwenew]            QqEBeB'ER
+\m jELesEm EB'weV          [ShwenC'Em-B'e   (se)       sE-we-new]            Q-qEBeB'ER
+\g this        year        gun-INSTR        1SG.ABS 1SG.ABS-shoot-SUP 3SG.ABS-happened
+\l This year it so happened that I shot my gun.
+
+\t jELesEm EB'weV          [ShwenC'EmB'e   sEwenew]            (*se) sEqEBeB'ER
+\m jELesEm EB'weV          [ShwenC'Em-B'e   sE-we-new]            (*se) sE-qEBeB'ER
+\g this        year        gun-INSTR        1SG.ABS-shoot-SUP 1ABS 1SG.ABS-happened
+\l This year I happened to shoot my gun.
+
+\t QqEBeBErep
+\m Q-qEBeBEr-ep
+\g 3SG.ABS-happen-NEG
+\l All the boys do not happen to write a letter.
+
+\t [pIaIetfEm      pjEsmer      QatxEnew ]                      QqEBeBER
+\m [pIaIe-tfE-m      pjEsme-r      Q-a-txE-new ]                      Q-qEBeBER
+\g girl-five-ERG     letter-ABS    3SG.ABS-3ERG.PL-write-SUP 3SG.ABS-happened
+\l Five girls happened to write a letter/letters.
+
+\t Ò'Em (yE)ESkEVarar sEdø
+\m Ò'E-m (yE-)E-Sk-E-Va-ra-r sEd-ø
+\g man-obl (what-)he-eat-trans-past-part-abs what-abs
+\l What is it that the man ate (that time)?
+
+\t . se      sEfaj         somjEI     qEsatEnew.
+\m . se      sE-faj         som-jE-I     qE-s-a-tE-n-ew.
+\g   I       1SG-want      rouble-100    INV-1SG-3PL-give-FUT-ADV
+\l I want them to give me 100roubles'.
+
+\t tHapSa     wEzEfajer        qEwatEnew?
+\m tHapSa     wE-zE-faj-er        qE-w-a-tE-n-ew?
+\g  how.much 1SG-REL-want-ABS INV-2SG-3PL-give-FUT-ADV
+\l How much do you want them to give you?
+
+\t se sEqeKWaR            somjEI     qEsatEnew.
+\m se sE-qe-KWa-R            somjEI     qE-s-a-tE-n-ew.
+\g I 1SG-INV-come-PERF rouble-100 INV-1SG-3PL-give-FUT-ADV
+\l I came so that they give me 100roubles'.
+
+\t se seI&e      Hasan qEzereKWaRer.
+\m se se-I&e      Hasan qE-zere-KWa-R-er.
+\g I 1SG-know Hasan INV-zere-come-PERF-ABS
+\l I know that Hasancame'.
+
+\t b.*heta      wEzEI&erer        qEzereKWaRer?
+\m b.*heta      wE-zE-I&e-re-r        qE-zere-KWa-R-er?
+\g    who       2SG-REL-know-BCG-ABS INV-zere-come-PERF-ABS
+\l Whom do you know to have come?
+
+\t wEqEzC&'eKWaRer
+\m wE-qE-z-C&'e-KWa-Re-r
+\g 2   SG.SO-INV-REL-REASON-go-PST-ABS
+\l the reason why you have come
+
+\t sEqezEwEbEtEnC&'e                 se sEzS'ES'Enere                 c&Efxem
+\m sE-qe-zE-wEbEtE-n-C&'e                 se sE-z-S'E-S'Ene-re                 c&Ef-xe-m
+\g    1SG.SO-INV-REL-catch-FUT2-INS I            1SG.SO-REL-LOC-be.afraid-BCG person-PL-ERG
+\l people such that I am afraid that they will catch me
+
+\t jELesEm EB'weV        [ShwenC'EmB'e    (se) sEwenew]          QqEBeB'ER
+\m jELesEm EB'weV        [ShwenC'Em-B'e    (se) sE-we-new]          Q-qEBeB'ER
+\g this        year      gun-INSTR      1SG.ABS      1SG.ABS-shoot-SUP 3SG.ABS-happened
+\l This year it so happened that I shot my gun.
+
+\t jELesEm EB'weV        [ShwenC'EmB'e    sEwenew]         (*se) sEqEBeB'ER
+\m jELesEm EB'weV        [ShwenC'Em-B'e    sE-we-new]         (*se) sE-qEBeB'ER
+\g this        year         gun-INSTR         1SG.ABS-shoot-SUP 1ABS 1SG.ABS-happened
+\l This year I happened to shoot my gun.
+
+\t        QqEBeBErep
+\m        Q-qEBeBEr-ep
+\g        3SG.ABS-happen-NEG
+\l All the boys do not happen to write/be writing a letter.
+
+\t [pIaIetfEm      pjEsmer     QatxEnew]                    QqEBeBER
+\m [pIaIe-tfE-m      pjEsme-r     Q-a-txE-new]                    Q-qEBeBER
+\g girl-five-ERG     letter-ABS      3SG.ABS-3ERG.PL-write-SUP 3SG.ABS-happened
+\l Five girls happened to write a letter/letters.
+
