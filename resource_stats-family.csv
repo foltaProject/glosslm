@@ -3,7 +3,7 @@ Algic [algi1248],49331,49331,0,98662
 Tsimshian [tsim1258],157,157,15,329
 Nakh-Daghestanian [nakh1245],8609,8609,53,17271
 Austronesian [aust1307],8077,8077,3484,19638
-Atlantic-Congo [atla1278],10529,10529,1105,22163
+Atlantic-Congo [atla1278],10531,10531,1105,22167
 Mayan [maya1287],12032,12032,50,24114
 Athabaskan-Eyak-Tlingit [atha1245],289,289,31,609
 Indo-European [indo1319],29021,29024,11673,69718
@@ -21,7 +21,7 @@ Eastern Jebel [east2386],1,1,0,2
 Otomanguean [otom1299],379,379,40,798
 Nubian [nubi1251],9,9,0,18
 Kartvelian [kart1248],688,688,3,1379
-Bookkeeping [book1242],1012,1012,6,2030
+Bookkeeping [book1242],732,732,5,1469
 Mande [mand1469],80,80,55,215
 Tai-Kadai [taik1256],385,385,23,793
 Iroquoian [iroq1247],52,52,5,109
@@ -32,14 +32,14 @@ Totonacan [toto1251],8,8,0,16
 Sign Language [sign1238],58,58,9,125
 Mongolic-Khitan [mong1349],497,497,41,1035
 Mailuan [mail1249],0,0,1,1
-Uto-Aztecan [utoa1244],1602,1602,81,3285
+Uto-Aztecan [utoa1244],1662,1662,81,3405
 Cochimi-Yuman [coch1271],92,92,12,196
 Nuclear Trans New Guinea [nucl1709],2333,2333,205,4871
 Eskimo-Aleut [eski1264],561,561,6,1128
 Tupian [tupi1275],1016,1016,12,2044
 Sahaptian [saha1239],128,128,0,256
 Ijoid [ijoi1239],68,68,0,136
-Hmong-Mien [hmon1336],11,11,87,109
+Hmong-Mien [hmon1336],57,57,87,201
 Quechuan [quec1387],574,574,0,1148
 Dizoid [dizo1235],3,3,0,6
 Tungusic [tung1282],288,288,32,608
@@ -111,6 +111,7 @@ Chonan [chon1288],1,1,0,2
 Barbacoan [barb1265],98,98,1,197
 Southern Daly [sout2772],4,4,0,8
 Gunwinyguan [gunw1250],159,159,0,318
+Chumashan [chum1262],2,2,1,5
 Chocoan [choc1280],3,3,0,6
 Ndu [nduu1242],10,10,0,20
 Wintuan [wint1258],10,10,1,21
@@ -133,7 +134,7 @@ Palaihnihan [pala1350],2,2,0,4
 Dagan [daga1274],9,9,0,18
 Maningrida [mani1293],7,7,0,14
 Piawi [piaw1238],4,4,0,8
-Wakashan [waka1280],8,8,0,16
+Wakashan [waka1280],178,178,0,356
 Baining [bain1263],1,1,0,2
 Pomoan [pomo1273],35,35,0,70
 Miwok-Costanoan [miwo1274],4,4,0,8
