@@ -1,8 +1,0 @@
-\t vandaag
-\g of-day
-\l today
-
-\t daags
-\g day- SUFFIX
-\l daily
-

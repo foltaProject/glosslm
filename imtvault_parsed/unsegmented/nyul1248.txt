@@ -1,8 +1,0 @@
-\t gooyarrarda aarli minØnyagal ?
-\g two=Q fish 2-TR-[PST]-catch-REC.PST
-\l Was it two fish that you caught?
-
-\t ngayarda nga .n .k .iid .a broomengan , gardi joowarda ?
-\g 1MIN=Q go PN-ALL or 2MIN=Q
-\l Will I go to Broome today or will it be you?
-

@@ -1,8 +1,0 @@
-\t Jaime maza atal paytizi
-\g Jaime one chicken buy-PST-NLOCUT
-\l Jaime bought a chicken.
-
-\t Carmenna Jaimeta maza atal paynintizi
-\g Carmen=TOP Jaime=ACC one chicken buy-CAUS-PST-NLOCUT
-\l Carmen caused Jaime to buy a chicken.
-
