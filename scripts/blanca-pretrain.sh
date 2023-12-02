@@ -16,5 +16,5 @@ module purge
 module load anaconda
 # Run Python Script
 conda activate AutoIGT
-cd "/projects/migi8081/AutoIGT/Automatic-IGT-Glossing/src"
-python3 token_class_model.py train --lang ntu --track open
+cd "/projects/migi8081/glosslm/src"
+python3 pretrain_multilingual_model.py --mode train --model_path

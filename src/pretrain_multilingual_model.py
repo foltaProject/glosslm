@@ -139,13 +139,21 @@ def main(
     mode: str,
     model_path: str,
 ):
+    pretrained_model = "google/byt5-base"
+
     random.seed(0)
     if mode == "train":
-        wandb.init(project="glossLM", entity="wav2gloss")
+        wandb.init(project="glossLM", entity="wav2gloss", config={
+            "model": pretrained_model,
+            "segmentation_mode": "all", # "all", "segmented", "unsegmented"
+            "translations": "yes", # "yes", "no", "yes_bert"
+            "typological_info": "none", # "none", "glottofamily", "glottotree", "grambank", "lang2vec"
+            "synthetic_data": "none", # "none", "chatgpt", "treebank", "galactic_deps"
+            "curriculum": "none",
+        })
 
     MODEL_INPUT_LENGTH = 1024
 
-    pretrained_model = "google/byt5-base"
 
     if mode == "train":
         tokenizer = transformers.ByT5Tokenizer.from_pretrained(
