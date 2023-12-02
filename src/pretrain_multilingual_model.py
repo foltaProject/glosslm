@@ -10,7 +10,7 @@ import wandb
 import random
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
-torch.backends.cuda.matmul.allow_tf32 = True
+# torch.backends.cuda.matmul.allow_tf32 = True
 
 
 def create_prompt(row):
@@ -119,7 +119,7 @@ def create_trainer(
         # load_best_model_at_end=True,
         report_to="wandb",
         logging_steps=100,
-        tf32=True,
+        # tf32=True,
     )
 
     return transformers.Trainer(
