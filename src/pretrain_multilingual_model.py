@@ -4,10 +4,13 @@ import datasets
 import evaluate
 import fire
 import numpy as np
+import os
 import torch
 import transformers
 import wandb
 import random
+
+DEBUG = False
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 # torch.backends.cuda.matmul.allow_tf32 = True
@@ -15,20 +18,23 @@ device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 def create_prompt(row):
     """Processing function for rows in the dataset, creates an input prompt from the fields in the row."""
+    transcription = ' '.join((row['transcription']).split())
+    glosses = ' '.join((row['glosses']).split())
     lang = 'an unknown language' if row['language'] == '' else row['language']
     is_segmented = 'unknown' if row['is_segmented'] == '' else row['is_segmented']
     prompt = f"""Provide the glosses for the following line of Interlinear Glossed Text for a sentence in {lang}.
 
-Transcription in {lang}: {row['transcription']}
+Transcription in {lang}: {transcription}
 Transcription segmented into morphemes: {is_segmented}
 """
-    if row['translation'] != '':
-        prompt += f"Translation in {row['metalang']}: {row['translation']}\n"
+    if row['translation'] is not None:
+        translation = ' '.join((row['translation']).split())
+        prompt += f"Translation in {row['metalang']}: {translation}\n"
 
     prompt += 'Glosses: '
 
     row['prompt'] = prompt
-    row['glosses'] = row['glosses'] if row['glosses'] != '' else None
+    row['glosses'] = glosses
     return row
 
 
@@ -36,7 +42,7 @@ def tokenize(tokenizer: transformers.ByT5Tokenizer, max_length: int):
     def _tokenize(batch):
         nonlocal tokenizer, max_length
 
-        if "gloss" in batch:
+        if "glosses" in batch:
             targets = batch["glosses"]
         else:
             targets = None
@@ -142,7 +148,7 @@ def main(
     pretrained_model = "google/byt5-base"
 
     random.seed(0)
-    if mode == "train":
+    if mode == "train" and not DEBUG:
         wandb.init(project="glossLM", entity="wav2gloss", config={
             "model": pretrained_model,
             "segmentation_mode": "all", # "all", "segmented", "unsegmented"
@@ -154,13 +160,16 @@ def main(
 
     MODEL_INPUT_LENGTH = 1024
 
-
     if mode == "train":
         tokenizer = transformers.ByT5Tokenizer.from_pretrained(
             pretrained_model, use_fast=False
         )
 
         dataset = datasets.load_dataset('lecslab/glosslm-split')
+        # filter out samples with empty transcription or gloss fields
+        # TODO: fix this in dataset source
+        dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
+
         dataset = dataset.map(create_prompt)
         dataset = dataset.map(
             tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
@@ -168,6 +177,7 @@ def main(
 
         dataset["train"] = dataset["train"].shuffle()
 
+        print(f"Loading model from {pretrained_model}")
         model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model)
         trainer = create_trainer(
             model,
@@ -180,6 +190,8 @@ def main(
 
         print("Training...")
         trainer.train()
+        if not os.path.exists(model_path):
+            os.makedirs(model_path)
         print(f"Saving model to {model_path}")
         trainer.save_model(model_path)
         print(f"Model saved at {model_path}")
