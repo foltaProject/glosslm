@@ -13,6 +13,7 @@ import random
 DEBUG = False
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
+print(device)
 # torch.backends.cuda.matmul.allow_tf32 = True
 
 
@@ -22,14 +23,15 @@ def create_prompt(row):
     glosses = ' '.join((row['glosses']).split())
     lang = 'an unknown language' if row['language'] == '' else row['language']
     is_segmented = 'unknown' if row['is_segmented'] == '' else row['is_segmented']
-    prompt = f"""Provide the glosses for the following line of Interlinear Glossed Text for a sentence in {lang}.
+    prompt = f"""Provide the glosses for the following transcription in {lang}.
 
 Transcription in {lang}: {transcription}
-Transcription segmented into morphemes: {is_segmented}
+Transcription segmented: {is_segmented}
 """
     if row['translation'] is not None:
-        translation = ' '.join((row['translation']).split())
-        prompt += f"Translation in {row['metalang']}: {translation}\n"
+        if len(row['translation'].strip()) > 0:
+            translation = ' '.join((row['translation']).split())
+            prompt += f"Translation in {row['metalang']}: {translation}\n"
 
     prompt += 'Glosses: '
 
@@ -116,6 +118,7 @@ def create_trainer(
         learning_rate=lr,
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=1,
+        eval_accumulation_steps=10,
         gradient_accumulation_steps=64,
         # gradient_checkpointing=True,
         weight_decay=0.01,
@@ -183,7 +186,7 @@ def main(
             model,
             dataset=dataset,
             tokenizer=tokenizer,
-            batch_size=16,
+            batch_size=2,
             lr=5e-5,
             max_epochs=10,
         )
