@@ -1,0 +1,899 @@
+ID,pred,is_segmented,glottocode
+st_test_lezg1247_0,and DETER.M-guy-ERG-ATTR big necklace-ERG with one pair-EVID,yes,lezg1247
+st_test_lezg1247_0,and the.guy-NOM picked.up necklace-NOM with one necklace,no,lezg1247
+st_test_lezg1247_1,and this-NOM.PL real-NOM.PL story.NOM.PL-REL-NOM.PL,yes,lezg1247
+st_test_lezg1247_1,and all stories-NOM.PL-real-NOM.PL-be-IND.PST.3,no,lezg1247
+st_test_lezg1247_2,1PL-run far-ABL there,yes,lezg1247
+st_test_lezg1247_2,1PL-run-PRET far-ABL there-ABL,no,lezg1247
+st_test_lezg1247_3,1PL.EXCL 1PL.EXCL-GO seaside-SUPER-ALL go-1PL.EXCL-DEF say-3SG.SA-DEF,yes,lezg1247
+st_test_lezg1247_3,let’s.go.IMP this sea-side-DIR say-PRS.3SG horse-DIR,no,lezg1247
+st_test_lezg1247_4,1SG.ERG vacation.GEN on send-AOR.1SG,yes,lezg1247
+st_test_lezg1247_4,1SG-ABS.PAST vacation-INESS 1SG.ABS send.AOR.1SG,no,lezg1247
+st_test_lezg1247_5,go-IMP say-IMP and me-ABL soil-ABL some horse-ABL walk-IMP where horse-ABL where walk-IMP some soil-ABL say-IMP some horse-ABL not walk-IMP and walk-IMP and walk-IMP some do-IMP and walk-IMP some do-IMP and walk-IMP some do-IMP and walk-IMP and walk-IMP,yes,lezg1247
+st_test_lezg1247_5,go-IMP he say-PRES me soil bring-IMP my horse-DAT soil bring-IMP where horse-DAT and bring-IMP so do-PERS so do-PERS so do-PERS not do-PERS do-PERS do-PERS not do-PERS do-PERS do-PERS not.do-PERS do-PERS do-PERS not.do-PERS do-PERS do-PERS not.do-PERS do-PERS do-PERS not.do-PERS do-PERS do-PERS not.do-PERS do-PERS do-PERS not.do-PERS do-PERS do-PERS not.do-PERS do-PERS go-IMP do-PERS do-PERS not.do-PERS do-PERS not.do-PERS do-PERS go-IMP do-PERS not.do-PERS do-PERS go-IMP do-PERS not.do-PERS do-PERS go-IMP do-PERS not.do-PERS do-PERS go-IMP do-PERS not.do-PERS do-PERS go-IMP do-PERS not.do-PERS do-PERS go-IMP do-PERS not.do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PERS do-PERS go.PERS do-PERS do-PERS not.do-PER,no,lezg1247
+st_test_lezg1247_6,ask-AOR.1PL we show-AOR.1PL road show.INF.1PL the see.INF 1PL.DAT,yes,lezg1247
+st_test_lezg1247_6,ask-AOR.1PL we road show-AOR.1PL road show-AOR.1PL we,no,lezg1247
+st_test_lezg1247_7,Berlin-ABL France-ABL-DIR,yes,lezg1247
+st_test_lezg1247_7,Berlin-ABL France-ABL,no,lezg1247
+st_test_lezg1247_8,when 1PL road-GEN 1PL.SUBJ-go-1PL.AOR,yes,lezg1247
+st_test_lezg1247_8,when 1PL-NOM road-GEN 1PL-return-IPFT,no,lezg1247
+st_test_lezg1247_9,they-GEN home-PL-3-COM exist.PRS-PL-3,yes,lezg1247
+st_test_lezg1247_9,they-GEN home-PL-3 have-PL,no,lezg1247
+st_test_lezg1247_10,3PL.ERG 1SG.ABS take.care.of-1SG-PRET and-3SG.ABS 3SG.ABS 3SG.ABS 3SG.ABS 3SG.ABS-kind-ABS 1SG.DAT-3PL.ERG very-ADV,yes,lezg1247
+st_test_lezg1247_10,they-ERG me-ABS take.care.of-1SG-AUX.PRS and they-ERG the-DAT the-DAT small-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT PRT-DAT,no,lezg1247
+st_test_lezg1247_11,when Samur-ABS newspaper-ERG came.3sgSUBJ,yes,lezg1247
+st_test_lezg1247_11,when Samur newspaper came.3sg,no,lezg1247
+st_test_lezg1247_12,want-PRS.3SG.ABS DEM.ERG guy-DAT evil do-INF-3SG.AOR,yes,lezg1247
+st_test_lezg1247_12,he.NOM s/he.NOM do.PRS.3SG evil.NOM guy.DAT,no,lezg1247
+st_test_lezg1247_13,what do-DUR-NEG say-PART-ERG he this-ERG I.see-PAST-NEG-AOR-3SG now-DUR king-ERG this-ERG owner-ERG me-DAT pearl-ERG,yes,lezg1247
+st_test_lezg1247_13,what do-PRES he-say-PAST he-ERG this-I-NEG-see-PAST this-I-NEG now king-ERG want-PRES me-ABL owner.of.pearls,no,lezg1247
+st_test_lezg1247_14,she.ERG DEM.ERG find-AOR-3SG one.ABS form.ABS create.PRS-3SG.SBJ and this.ABS form.ABS-ABS write.PRS-3SG.SBJ and one.ABS form.ABS-again write.PRS-3SG.SBJ,yes,lezg1247
+st_test_lezg1247_14,she.ERG DEM.ERG PV-show.AOR.3SG form.ABS trans.ABS and this.ABS form.ABS write.AOR.3SG book.ABS and this.ABS do.PRS.3SG-write.AOR.3SG,no,lezg1247
+st_test_lezg1247_15,yes this boatman-ABL-SG.M say-PST he.also-ABL guy-ABL deceive-PST me.ABL and take-PST this.ABL-SG.M home-ALL-SG.M take-PRS-SG.M this.ABL-SG.M-ABL he.ABL-SG.M-ABL he.ABL-SG.M-ABL he.ABL-SG.M-ABL take-PRS-SG.M he.ABL-SG.M-ABL he.ABL-SG.M-ABL he.ABL-SG.M-ABL he.ABL-SG.M-ABL he.ABL-sit-PRS this.ABL-SG.M-ABL 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.M 3SG.REFL-ABL-SG.,yes,lezg1247
+st_test_lezg1247_15,yes this boatman-ABL say-PART he.ABS also-ABL me.ABL guy-ABL deceive-CONV me.ABL take-CONV me.ABL home-ALL this.ABL,no,lezg1247
+st_test_lezg1247_16,no say-PRET he wound-ERG my lip-LOC lip-LOC please-PRET me give-IMP water-DAT some that ladel-DAT,yes,lezg1247
+st_test_lezg1247_16,no say-PRET-EVID you wound my lip-ABL lip-ABL please give-IMP water some that ladel-DAT,no,lezg1247
+st_test_lezg1247_17,PROV what way work-POT.NEG,yes,lezg1247
+st_test_lezg1247_17,PROV what this-ABL work-POT-NEG,no,lezg1247
+st_test_lezg1247_18,shepherd-ERG dog-ABS NEG treat-NEG thus-EVID-3 thus,yes,lezg1247
+st_test_lezg1247_18,shepherd-DAT PL-DAT NEG-treat-PRS.NEG dog-DAT.PL this.way NEG,no,lezg1247
+st_test_lezg1247_19,3SG 1SG.ERG village-DAT say-PST.3SG and village-DAT concert-DAT give-PST.1SG-DAT and also village-DAT village-DAT,yes,lezg1247
+st_test_lezg1247_19,3SG 1SG-say-PST 3SG.ERG.POSS-village-LOC and 1SG-say-PST concert-DEF give-PST and also 1SG-say-PST 3SG.ERG.POSS-village-LOC,no,lezg1247
+st_test_lezg1247_20,we road-ACC 1PL-see-FUT-NEG 1PL.NOM-be.able.PST-1/2PL,yes,lezg1247
+st_test_lezg1247_20,we even road-DIST 1PL.SUBJ.IRR-PF-see-FUT,no,lezg1247
+st_test_lezg1247_21,and that we(ERG) guys-ERG PV-3-ABS-3-ERG hear-CVB 3-ABS that day 3-ABS-3-ERG give-INF,yes,lezg1247
+st_test_lezg1247_21,DEM DEM DEM guy-PL-DAT hear-CAUS-INF 3SG.ABS our DEM give-INF 3SG.ABS that.day,no,lezg1247
+st_test_lezg1247_22,and 3SG 3SG.ERG 3SG.ERG first-ATTR-ABS person.ABS arrow.GEN scale-GEN according 3SG.ERG more arrow-GEN,yes,lezg1247
+st_test_lezg1247_22,and 3SG 3SG.ERG 3SG.ERG first-ATTR person.ABS.SG valuable scale.ABS.SG according 3SG.ERG arrow.LOC scale-ABS.SG,no,lezg1247
+st_test_lezg1247_23,DEM.DIST-ATTR-ERG village-DET-INESS house-DET that.one DET.DIST-ERG small-PL,yes,lezg1247
+st_test_lezg1247_23,DEM.DIST-DEF.PL village-DEF-INESS house-PL that-INESS small-PL were-PL,no,lezg1247
+st_test_lezg1247_24,he-ERG A.NOM take-AOR.3SG-1PL the.GEN.SG.M A.NOM.SG.M in city-DAT-1PL,yes,lezg1247
+st_test_lezg1247_24,he.NOM ART-DAT 1-take.PST ART-DAT 1-ABS in city-DAT,no,lezg1247
+st_test_lezg1247_25,yes they-ABS they-ERG,yes,lezg1247
+st_test_lezg1247_25,yes they-say-AOR.3PL,no,lezg1247
+st_test_lezg1247_26,how-ATTR-EVID sudur-ERG village-ERG that devil-ERG high-ERG village-ERG-SG-ERG close day-ERG-SG-ERG mountain-ERG to sudur-ERG COP.3,yes,lezg1247
+st_test_lezg1247_26,as.you.know sudur.NOM that.ABS village.ABS in.a.river.ABS highest.ABL mountains.ABL the.ABS sudur.ABS the.ABS mountains.ABL the.ABS sudur.ABS to.the.ABS sudur.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to.the.ABS to,no,lezg1247
+st_test_lezg1247_27,3SG.F-NOM 3SG.F-DAT order-DAT-REFL cut.off.heads-EP-INF,yes,lezg1247
+st_test_lezg1247_27,3SG.ERG.PFV 3SG.ERG.PFV 3SG.SBJ-give.PFV-3SG.AOR head-stop-LOC,no,lezg1247
+st_test_lezg1247_28,1SG many-ADV-EP-PRED through DET-thing-EP-ABS.SG go,yes,lezg1247
+st_test_lezg1247_28,1SG many-ABL through thing-ABL 1SG.ABS,no,lezg1247
+st_test_lezg1247_29,2SG-DAT still-ATTR word-PL sweetheart-DAT say-INF your-DAT heart-DAT,yes,lezg1247
+st_test_lezg1247_29,you(NOM) words(NOM) still say-INF sweetheart-DAT your.heart-LOC you.say-INF,no,lezg1247
+st_test_lezg1247_30,say this.ABS write.PRET-CVB the.say.PRET-CVB I here do.PRET-CVB tonight.ABL come.PRET-CVB-AUX.PST.3SG and this.ABS this.ABS do.PRET-CVB he.do.PRET-CVB write.PRET-CVB and dastan.ABS,yes,lezg1247
+st_test_lezg1247_30,he.NOM thing.ABS write.PRET.3SG stage.ABS the.ABS how.I-ABL I.NOM tonight.ABL and this.ABS thing.ABS do.PRET.3SG he.NOM do.PRET.3SG he.NOM do.PRET.3SG dastan.ABS and write.PRET.3SG,no,lezg1247
+st_test_lezg1247_31,1SG-NOM so scared be-1SG-PST,yes,lezg1247
+st_test_lezg1247_31,1SG so scared 1SG-be-1SG,no,lezg1247
+st_test_lezg1247_32,"and-DAT she.ERG see-PSTII3SG-AOR legend-ERG that, he.NOM write-PSTII3SG-ABS and day-DAT-ABS direct-INF daring.NOM",yes,lezg1247
+st_test_lezg1247_32,see-PAST she.ERG really legend.ABS that he.NOM write.IPFV.3SG and day.NOM do.PRS.3SG write.IPFV.3SG dar.ABS,no,lezg1247
+st_test_lezg1247_33,I-GEN daughter.in.law-NOM at house-LOC have,yes,lezg1247
+st_test_lezg1247_33,I GEN daughter.in.law at home-LOC have,no,lezg1247
+st_test_lezg1247_34,so-GEN-INSTR courtyard.NOM NEG-AUX-1SG enter.PRS-E-1SG-DEF even-INSTR PV-1SG-go-INF,yes,lezg1247
+st_test_lezg1247_34,so-GEN courtyard.LOC NEG can.PST.1SG-NEG even can.PRS.1SG,no,lezg1247
+st_test_lezg1247_35,what do-DUR-NEG say-PART-ERG he this-ERG I.see-PAST-NEG-AOR-3SG now-DUR king-ERG this-ERG owner-ERG me-DAT pearl-ERG,yes,lezg1247
+st_test_lezg1247_35,what do-PRES he-say-PAST he-ERG this-I-NEG-see-PAST this-I-NEG now king-ERG want-PRES me-ABL owner.of.pearls,no,lezg1247
+st_test_lezg1247_36,small.girl-PL small.girl-PL dish-PL rice-PL take.PRES.3PL small.girl-PL-ABS and there small.girl-PL-ABS,yes,lezg1247
+st_test_lezg1247_36,"small-girl-PL small-PL, dish-PL, rice-PL take-AOR,3PL small-GEN small-GEN small-GEN and there small-GEN...",no,lezg1247
+st_test_lezg1247_37,son-DAT my son-DAT die ground-DAT,yes,lezg1247
+st_test_lezg1247_37,young.man-NOM.SG my.F.NOM.SG dog-DIM kiss-PRS.3SG last.F-NOM.SG,no,lezg1247
+st_test_lezg1247_38,and-3sg-ERG come-PRET sell-AOR.3sg and 3sg.ERG ask.PRET sell.INF.3sg and 3sg.DAT-sell.INF which.NOM.sg say.PRET there 3sg.ABS-sell.INF-AOR.3sg,yes,lezg1247
+st_test_lezg1247_38,he come-PRET sell-AOR.3sg and he.ABS sell-AOR.3sg and wood-DET sell-INF there sell-AOR.3sg,no,lezg1247
+st_test_lezg1247_39,second son-DAT say-PST now 1SG-DAT go.FUT and 2SG.DAT father-DAT and bring-PST and,yes,lezg1247
+st_test_lezg1247_39,second-ORD son-OBL say-PST-3 now 1SG.ABS go-CONV 2-bring-CONV 2-go-CONV 2-go-CONV 2-go-CONV 3-go-CONV,no,lezg1247
+st_test_lezg1247_40,1sg say that-DAT 1-ABS ok-DAT-1SG say-PAST that 1-ABS,yes,lezg1247
+st_test_lezg1247_40,I.ERG say.PRET 1SG.ABS ok-1SG.POSS that-1SG.ABS say.PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET say-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRET I.ABS ok-PRE,no,lezg1247
+st_test_lezg1247_41,sea-DAT-PRED bottom-DAT-PRED 1SG must-DAT-PRED go.INF sea-DAT-PRED fight-DAT-PRED Sea-DAT steed-DAT sea-DAT,yes,lezg1247
+st_test_lezg1247_41,sea-DAT 1SG-AUX and 1-AUX bottom-LOC and sea-DAT fight-AOR with sea-DAT steed-DAT 1-AUX-go-INF,no,lezg1247
+st_test_lezg1247_42,and girl-NOM start-PST king become-PST start-AOR-3SG start.reign-DET-NOM start.reign-DET-NOM,yes,lezg1247
+st_test_lezg1247_42,and girl-NOM start-PST king-NOM become-PST and do-PST start-PST-reign-NOM,no,lezg1247
+st_test_lezg1247_43,DEM.ABS weather-ABS hot be-INF and friends-ABS decide-INF my.DAT to,yes,lezg1247
+st_test_lezg1247_43,weather-ABS hot was and my friends-ABS decide to...,no,lezg1247
+st_test_lezg1247_44,carry.IMP and this portrait say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-say.PRES-province-GEN-spring-GEN head-GEN-spring top-GEN place.IMP-DAT-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-sg top-GEN-,yes,lezg1247
+st_test_lezg1247_44,carry-IMP and this portrait she-said-ABL and place-IMP spring-GEN head-INE at spring-GEN head-INE top-DEF at province-GEN head-DEF at top-DEF at top-DEF at top-DEF at top-DEF province-GEN at top-DEF at top-DEF at top-DEF at top-DEF province-GEN at top-DEF at top-DEF at top-DEF province-GEN at top-DEF at top-DEF at top-DEF at top-DEF at top-DEF at top-DEF at top-DEF at top-DEF at top-DEF at top-DEF do-INE,no,lezg1247
+st_test_lezg1247_45,we and facility-ABL return-1PL.AOR-PTCP,yes,lezg1247
+st_test_lezg1247_45,we and PROG-return-1PL.AOR-PTCPL facility-ABL.SG,no,lezg1247
+st_test_lezg1247_46,do-IPFV.PST-1SG housework-ACC all 1SG.ABS brother-1PL.EXCL and three sister-ACC one,yes,lezg1247
+st_test_lezg1247_46,1SG-do-IPFV housework-ACC all who-ACC three brother-PL-ABS and one sister-ABS one-ABS,no,lezg1247
+st_test_lezg1247_47,3SG.ERG do.what-PRS.WITH.SG,yes,lezg1247
+st_test_lezg1247_47,3SG.ERG what-do-PRS.WITH.SG,no,lezg1247
+st_test_lezg1247_48,one person plough-put-AOR.PTCP-ATTR Bebir uncle be-PST,yes,lezg1247
+st_test_lezg1247_48,one person plough-putting-ATTR person uncle-ACC bebir-NOM,no,lezg1247
+st_test_lezg1247_49,horse-ABS back return-AOR now we.ERG go-AOR king-GEN-ABS daughter get-AOR,yes,lezg1247
+st_test_lezg1247_49,horse-DET back-AOR-3SG-come-AOR-3SG-and now we.EXCL go-AOR-3SG-and say-AOR-3SG-and king-GEN-ATTR daughter get-AOR-3SG-AOR,no,lezg1247
+st_test_lezg1247_50,then finish-EVID... we-ERG we mortar.men we-EX then we-DAT PRV-exist-EVID-1 three there,yes,lezg1247
+st_test_lezg1247_50,then DEICT-finish-PERF... DEICT-ABS.SG we mortar-PL-ABS.PL the-PL 1PL PROX-1PL PRED-finish-PERF.1PL three the-PL,no,lezg1247
+st_test_lezg1247_51,five.CL centimeters-CL-EX-PST and DET crane-GEN tip-DET-GEN line-DET with in.kross.ABL DET DET santia only draw-PST,yes,lezg1247
+st_test_lezg1247_51,five-CLF.centimeters and the.NOM.PL crane-GEN.PL between and the.line-GEN.PL and the.GEN.PL sand-GEN.PL only exist.PST.PTCP,no,lezg1247
+st_test_lezg1247_52,you where-to go-Q,yes,lezg1247
+st_test_lezg1247_52,you where-to go-Q,no,lezg1247
+st_test_lezg1247_53,and-3SG-ADV that good-live-DAT live.well-DAT strength-ABL-PX with earn.INF we.live-DAT-PX we.live.PRS we.live-DAT,yes,lezg1247
+st_test_lezg1247_53,and after that we.live.PRS.1PL good.live.PRS.1PL we.live.PRS.1PL we.live.PRS.1PL we.live.PRS.1PL we.live.PRS.1PL,no,lezg1247
+st_test_lezg1247_54,send.FUT.1SG-and match-ABS.PL-ABS.PL and send.FUT.1SG,yes,lezg1247
+st_test_lezg1247_54,and matchmakers send.FUT.1SG,no,lezg1247
+st_test_lezg1247_55,he.NOM-DEF-ERG wood.NOM and things.carried.IPFV.3SG-REL-ERG school.DAT this.DAT,yes,lezg1247
+st_test_lezg1247_55,he.ERG wood.ABS what.ABS PRV-carry-AOR.3SG school.DAT this.ABS,no,lezg1247
+st_test_lezg1247_56,then-ABL we-ACC Berlin-ABL-Poland-ABL,yes,lezg1247
+st_test_lezg1247_56,then-3PL.ERG-take.PERF-1PL.ABS we-1PL.ABS Berlin-ABL-1PL.ABS,no,lezg1247
+st_test_lezg1247_57,sea-steed-DEF 3SG sea-steed-DEF horse,yes,lezg1247
+st_test_lezg1247_57,sea.steed-DEF 3SG.COP sea.steed-DEF horse,no,lezg1247
+st_test_lezg1247_58,she knock-AOR.3SG and open-AOR.3SG door open-AOR.3SG there old.woman old.woman exist EXIST,yes,lezg1247
+st_test_lezg1247_58,she knock-CVB and open-CVB door open-CVB old.woman one exist EXIST,no,lezg1247
+st_test_lezg1247_59,our father-ABS die-AOR.3SG and mother-ABS want-AOR.3SG go-AOR.3SG wood-ABS to forest-ALL-ABL,yes,lezg1247
+st_test_lezg1247_59,and father-our die-PAST.PTCP-ABS.3SG and mother-our work-go-INF forest-to wood-bring-INF,no,lezg1247
+st_test_lezg1247_60,and after that ATTR year work-1SG.PRET and ten-DAT at culture.house-DAT-ERG,yes,lezg1247
+st_test_lezg1247_60,and after that ART year 1SG.NOM work-PST.1SG.SG and after that do.PST.1SG.SG,no,lezg1247
+st_test_lezg1247_61,they-ERG you.SG.DAT ache spirit-LAT-give-FUT:3 2SG.DAT-give-FUT:3,yes,lezg1247
+st_test_lezg1247_61,they-ERG you-DAT hurt-ERG head-DAT give-FUT-3PL.SUBJ,no,lezg1247
+st_test_lezg1247_62,,yes,lezg1247
+st_test_lezg1247_62,,no,lezg1247
+st_test_lezg1247_63,she lonely 3SG was,yes,lezg1247
+st_test_lezg1247_63,she lonely 3SG was,no,lezg1247
+st_test_lezg1247_64,at.this.moment-EMPH this.moment-EMPH he.take-AOR.3PL and house-DIR-DIR,yes,lezg1247
+st_test_lezg1247_64,and this.moment here he.take.PST and house-DIR,no,lezg1247
+st_test_lezg1247_65,child-NOM I.EXIST,yes,lezg1247
+st_test_lezg1247_65,child-NOM I.EXIST,no,lezg1247
+st_test_lezg1247_66,we(NOM) one decision-LOC came.1,yes,lezg1247
+st_test_lezg1247_66,we(NOM) one-DAT decision-DAT came.1,no,lezg1247
+st_test_lezg1247_67,where-ABL want.PRES.3SG she-ABS find-CONV she-ABS bring.IMPV.1SG,yes,lezg1247
+st_test_lezg1247_67,where-ABL is.needed.INC she.ABS find.IMP she.ABS bring.IMP me.DAT,no,lezg1247
+st_test_lezg1247_68,1PL-NOM there-LOC return-1PL.AOR,yes,lezg1247
+st_test_lezg1247_68,1PL-NOM 1PL-return there,no,lezg1247
+st_test_lezg1247_69,guy-DET-ERG say-PST oh king where she.find.3SG.say-PST oh king-DET she.find.3SG.say-PST oh king-DET what-INST do.1SG.say-PRS how do.1SG.this-PRS,yes,lezg1247
+st_test_lezg1247_69,say-PART-ERG guy-ERG oh king-ERG oh king-ERG she.find-1SG oh-king-ERG oh king-ERG she.find-1SG no idea have-1SG oh do-1SG this-ABS do-1SG,no,lezg1247
+st_test_lezg1247_70,Sevastopol-LOC battle-INE exist-PRT,yes,lezg1247
+st_test_lezg1247_70,Sevastopol-LOC battle-ABS 3SG-be-PST,no,lezg1247
+st_test_lezg1247_71,donkey.ABL and king.ABS mount-AOR.3PL donkey.ABS horse-ABS donkey.ABS light.AOR.3PL donkey.ABS light.ABS send.AOR.3PL donkey.ABS he.ERG go.AOR.3SG village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG go.AOR.3SG send.out.village.ABL he.ERG,yes,lezg1247
+st_test_lezg1247_71,donkey.ABL and king.ABS this.ABS donkey.ABS or donkey.ABS light.ABS or donkey.ABS him.ABS send.ABS out.ABL him.ABS send.out.ABS village.ABL he.ERG out.ABL village.ABL out.ABL,no,lezg1247
+st_test_lezg1247_72,that happening guy-DEF and girl-DEF returned … guy-DEF returned their.own province-DEF-DAT,yes,lezg1247
+st_test_lezg1247_72,DEM.ABS that.ABS guy.ABS and girl.ABS return-AOR.3PL guy.ABS guy.ABS dem.ABS dem.ABS their.own province-DAT,no,lezg1247
+st_test_lezg1247_73,when that before when did.PRET.1PL die.PRET.1PL Christian religion-DET.NOM.SG,yes,lezg1247
+st_test_lezg1247_73,when before that-ABS when 1-PRS-have-AOR die-AOR we-ERG have-AOR Christian religion,no,lezg1247
+st_test_lezg1247_74,1-PL.ERG 1-PL.ERG hide-1,yes,lezg1247
+st_test_lezg1247_74,1PL.ERG 1PL.ERG-hide-1PL.ERG PREV-1PL.ERG,no,lezg1247
+st_test_lezg1247_75,then-DET vacation ABS.SG.M finish-AOR.3SG,yes,lezg1247
+st_test_lezg1247_75,then vacation ABS.SG.M end-ABS.SG.M 3SG.ABS.SG.M,no,lezg1247
+st_test_lezg1247_76,but PRON.DAT.PL-ADD-PL raw.NOM.PL material.NOM.PL-ADD Rafik.GEN.PL-ADD scene.GEN.PL-ADD record.PRS.3SG Rafik.GEN.PL-ADD so.that.ADV so.that.ADV so.that.ADV do.PRS.3SG work.ADJ.NOM.PL-ADD again we.NOM.PL do.PRS.3SG do.PRS.3SG work.ADJ.NOM.PL-ADD again we.NOM.PL do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG work.NOM.PL-ADD again we.NOM.PL do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.PRS.3SG do.P,yes,lezg1247
+st_test_lezg1247_76,but we.DUAL-ADD raw-ATTR material-ATTR Rafik-GEN scene-DAT record-INF Rafik-GEN short scene-DAT and that work-ATTR with that did create.INF work-ATTR,no,lezg1247
+st_test_lezg1247_77,answer.IMP.ABS and sweetheart.ABS you.ERG you.DAT exist.PRES.2SG.SUBJ.IMPF,yes,lezg1247
+st_test_lezg1247_77,answer-IMP-ABS and ashuq-ABS if you-DAT sweetheart-DAT exist-INF-REFL-INF,no,lezg1247
+st_test_lezg1247_78,1SG same-ADV there go-PRS-1SG-PRTC 1SG.GEN childhood.GEN but see-PRS-1SG same-ADV same-ADV same bug-ADV big.ADV,yes,lezg1247
+st_test_lezg1247_78,1SG DEM.ABS PV-1SG-go-PRS 1SG.GEN-childhood-LOC since 1SG.GEN-child-ABS but 3SG.REM.ABS-NEG-see-PRS-1SG DEM.ABS DEM.ABS DEM.ABS DEM.ABS big.ABS since bug.ABS,no,lezg1247
+st_test_lezg1247_79,1PL.ERG stay-1PL.EXCL.LOC,yes,lezg1247
+st_test_lezg1247_79,we there talk-RESI-1PL.AGT-stay-1PL.AOR,no,lezg1247
+st_test_lezg1247_80,and-NOM 3PL.ERG 1PL.ABS take-AOR.3PL 1PL.ABS soviet-DAT-1PL.ABS country-DAT-1PL.ABS,yes,lezg1247
+st_test_lezg1247_80,and 3PL.ERG 1PL.ABS take-AOR.3PL 1PL.ABS soviet-INF country-DAT,no,lezg1247
+st_test_lezg1247_81,,yes,lezg1247
+st_test_lezg1247_81,,no,lezg1247
+st_test_lezg1247_82,3SG-return-EVID again young.man-DAT-ERG toward return-AOR.3SG,yes,lezg1247
+st_test_lezg1247_82,again he.NOM young.man-DAT again return-AOR,no,lezg1247
+st_test_lezg1247_83,1SG-NOM so afraid be-PST,yes,lezg1247
+st_test_lezg1247_83,1SG so afraid 1SG-be-PST,no,lezg1247
+st_test_lezg1247_84,we together-ADJ be.together-AOR-1 till end PREV-end-ORD-ADJ,yes,lezg1247
+st_test_lezg1247_84,we(NOM) the-GEN-INSTR we.must.be-INF together till end-INSTR,no,lezg1247
+st_test_lezg1247_85,3SG-ERG Khirdalan-LOC be.PRS.3SG,yes,lezg1247
+st_test_lezg1247_85,3SG-ERG Khirdalan-LOC be.PRS.3SG,no,lezg1247
+st_test_lezg1247_86,and we not what-ABS agree-FUT-NEG agree-FUT-NEG,yes,lezg1247
+st_test_lezg1247_86,and we not what agree-FUT-INF agree-FUT-INF,no,lezg1247
+st_test_natu1246_0,but Fr. Lesile four student anymore NEG-3SG-LOC-COP-NEG,yes,natu1246
+st_test_natu1246_0,but Fr. Leslie anymore still four there student-PL-LOC-NEG,no,natu1246
+st_test_natu1246_1,group-POSS3 of Mr.Lore,yes,natu1246
+st_test_natu1246_1,group-POSS3 Mr.Lore,no,natu1246
+st_test_natu1246_2,DET father-1SG PREP-speech-3POSS IPFV-hear-3POSS brother John thank-ADV-DIST John thank-ADV-DIST John DET PREP-speech-2POSS PRT,yes,natu1246
+st_test_natu1246_2,then my.father PROX-DIST-hear-INSTR Brother John then PROX-DIST-DIST-DIST then thank-DIST John that PROX-DIST-DIST PREP,no,natu1246
+st_test_natu1246_3,and PROG-IPFV-PST2-1PL-also one PREF-DEM-IPFV-PST1-1PL-also down-LOC foot stand,yes,natu1246
+st_test_natu1246_3,and PROG-stand-SS-AUX-3PL also person-DEF-ACC down-LOC foot stand-SS-AUX,no,natu1246
+st_test_natu1246_4,then look.over-PROG-3SG room then what we do-PST-1PL sad-STAT he-DTR very sad-STAT-3SG because 3SG-forbidden-1PL enter-PST-1PL room then not image image,yes,natu1246
+st_test_natu1246_4,then look_over-PRET room then what do-PRET when sad-PRET very sad-PRET because sad-PRET we-enter-PRET room belonging to the_image cross,no,natu1246
+st_test_natu1246_5,3-want-IPFV 3-run-DES-IPFV-3-PL but also far be-REAL-3,yes,natu1246
+st_test_natu1246_5,3-PL 3-run-DES-IPFV-3-PL but too far be-REM.PST:3,no,natu1246
+st_test_natu1246_6,leave-DIR-1PL we 3PL.ABL and sleep-DIR-1PL we 3PL.ABS with pineapple field DET school,yes,natu1246
+st_test_natu1246_6,we.left-behind-INSTR we.slept we.with there pineapple.field we.slept school,no,natu1246
+st_test_natu1246_7,3SG.REAL-choose-INDEF INDEF-PL man-PL INDEF-3SG.POSS 3SG.REAL-be INDEF.3SG.REAL-DECL,yes,natu1246
+st_test_natu1246_7,3SG-choose-PERF INDEF-3SG INDEF-3SG.REL INDEF-3SG.REL INDEF-3SG.REL-be INDEF-committee COP-INF,no,natu1246
+st_test_natu1246_8,DEM DEM 3SG occupation earn-SS living fly-IPFV-SS fish-IPFV-SS kite,yes,natu1246
+st_test_natu1246_8,DEM thing 3SG earn one life fly-SS.CVB fly-SS.CVB kite,no,natu1246
+st_test_natu1246_9,thus we two paddle-ASP-1DU DEF-AUX-1DU,yes,natu1246
+st_test_natu1246_9,thus we-1DU DET PRT-paddle.off-PRT PRT-AUX-1DU,no,natu1246
+st_test_natu1246_10,DET Captain-DET two-LOC 3-see-SS 3-DET 3SG DIR-cry-PERF-3SG,yes,natu1246
+st_test_natu1246_10,two Captain 3SG-piece see-SS.CVB 3DU cry-3SG-PST,no,natu1246
+st_test_natu1246_11,Aijz leave-PAST-3SG Reefs and travel-INV-1PL-ACC we.place Nea,yes,natu1246
+st_test_natu1246_11,Aijz reef-PL-ACC leave-CONJ-1PL-CONJ we-ALL Nea,no,natu1246
+st_test_natu1246_12,there-DIR-1PL five minute lay.down,yes,natu1246
+st_test_natu1246_12,there-DIST-ALL five minute lie.down-PAST-1PL,no,natu1246
+st_test_natu1246_13,father-1SG marry-AUX-3SG 1SG village Nemya' near Nea,yes,natu1246
+st_test_natu1246_13,1SG-father-1SG marry-IPFV INTERJ village-ALL Nemya' near Nea,no,natu1246
+st_test_natu1246_14,3-ACC 1SG.OBJ-collect-CAUS-HORT-Q,yes,natu1246
+st_test_natu1246_14,3-ACC 1SG.OBJ-collect-CAUS-IPFV-Q,no,natu1246
+st_test_natu1246_15,INSTR-DECL-QUOT-3PL INDEF-QUOT-1SG INTERJ in.law-COM Sanders Balo,yes,natu1246
+st_test_natu1246_15,I-DAT-3-PASS-3-PAST 1-say-3-PAST 1SG in.law-COM Sanders Balo,no,natu1246
+st_test_natu1246_16,DIST sickness-TR-PNESS-DIST-3SG.SBJ-TOP DIST Captain-PL DIST 3SG.SUBJ-say-TR-PNESS DEM3SG.SUBJ PROG-rest-TR-IPFV-3SG.SUBJ-TOP PREP Pauabu,yes,natu1246
+st_test_natu1246_16,then sick-INTR.PRES-3SG.SUBJ-INTR.PRES then Captain 3SG.SUBJ-say-PAST 3SG.SUBJ rest-?-INTR.PRES at Pauabu,no,natu1246
+st_test_natu1246_17,enter-PRET there 1SG January 1937,yes,natu1246
+st_test_natu1246_17,enter-PRET-1SG there January-DAT 1937,no,natu1246
+st_test_natu1246_18,PRT all those vowels good-PRT-3PL very INTENS speaking INTENS Natqgu,yes,natu1246
+st_test_natu1246_18,very all those vowels good-PROG-3PL very speak-CVB.SIM.PL with Natqgu,no,natu1246
+st_test_natu1246_19,this INTR-make-PRS-PL thing-PL 3PL-GEN food double 3PL-GEN doctor and 3PL-GEN captain and 3PL-GEN crew 3PL-GEN-food 3PL-GEN,yes,natu1246
+st_test_natu1246_19,they INF.make-PRS.PASS-PL-DAT they food double things give-PASS-PST doctor and captain and they crew they double they,no,natu1246
+st_test_natu1246_20,but 3SG.NOM-bring-ANTIP-IPFV one DET student-DET-ACC-DET DEM Sunday then 3SG.SUBJ-differently-IPFV-3SG.OBJ-DET,yes,natu1246
+st_test_natu1246_20,but 3SG.NOM-different student DEM Sunday DEM 3SG.SUBJ-go-COND,no,natu1246
+st_test_natu1246_21,work-BEN-IPFV-1SG PREP Cooperative Society nine months,yes,natu1246
+st_test_natu1246_21,work-BEN-1SG.IND DET Cooperative Society nine month-ABS.1SG.IND,no,natu1246
+st_test_natu1246_22,cook-PST DEM.3-ANIM.3 house and good-ANTC-TRANS-1PL.ANIM-3 DET God and Ellen and 3SG.3-eat-DIR,yes,natu1246
+st_test_natu1246_22,cook DEM-3-ANIM home and we-thank-1PL.INCL for God and Ellen and 3-ANIM-3-eat,no,natu1246
+st_test_natu1246_23,3SG.SUBJ-INTR-go-CONV and 3SG.SUBJ-INTR-dark-CONV and 3DU.SUBJ-INTR-sleep-CONV-3SG.SUBJ,yes,natu1246
+st_test_natu1246_23,3-PRS-go-CONV and 3-AUX-DIST and 3SG:REAL-darkness-REAL and 3SG:REAL-sleep-REAL-3SG,no,natu1246
+st_test_natu1246_24,house 1PL NEG.EX.COP-PAST because rain-CAUS-?PASS-PAST-1PL 1PL mat-1PL POSS.1PL,yes,natu1246
+st_test_natu1246_24,house 1PL NEG.EX.COP NEG rain-CAUS-1PL mat-1PL with,no,natu1246
+st_test_natu1246_25,grandmother-HAB-1SG,yes,natu1246
+st_test_natu1246_25,grandmother-POSS-1SG,no,natu1246
+st_test_natu1246_26,start-DIR INF-carry-1PL INDEF eight-o'clock one night-ORD one night-ORD only then army cargo finish-load-CAUS-DIR-INDEF,yes,natu1246
+st_test_natu1246_26,start 1PL-carry-PRES INDEF hour-PL-INSTR INDEF morning-LOC and INDEF nine hour-PL-INSTR INDEF night-ALL INDEF army.cargo and finish COP INDEF load-CAUS-PASS-PST-1PL,no,natu1246
+st_test_natu1246_27,when 1PL-reach-PRES-1PL-3SG Paumalepc evenl distribute-PRES-1SG 3DU 40 cents,yes,natu1246
+st_test_natu1246_27,when 1PL-reach-1PL-DS Paumalepc evenl distributed-even 3PL-DAT 40 cents,no,natu1246
+st_test_natu1246_28,but there one NEG bad-INCP there 3SG.NOM-bite-PASS-PSTR-1PL.SBJ and 1PL.SBJ student-PL.SBJ-1PL.SBJ-ELS sick along 1PL.SBJ-EXIST-INCP,yes,natu1246
+st_test_natu1246_28,but there one thing bad there bite-PASS-PROG-1PL and we students-PL-3PL-SUBJ sick along sickness,no,natu1246
+st_test_natu1246_29,be.aligned-CAUS-ANTCP-AUX-1SG spear 1SG.POSS-DAT 1SG.AS-take-3SG.AO and 1SG.AS-spear-put-and 3SG.AS-put.again and 1SG DIR 1SG.AS-light-INTR-AUX,yes,natu1246
+st_test_natu1246_29,blow-INCL-ANIM-TR spear 1SG-GEN-spear 1SG-get.down-3SG.II and 1SG spear-and 1SG-put.in-3SG.II and 1SG DET light-SS-INTR.AUX,no,natu1246
+st_test_natu1246_30,thirteen more chapter-COMPAR-NONFUT-3SG,yes,natu1246
+st_test_natu1246_30,thirteen-LOC thirteen-ABS-NMLZ-chapter-ABS,no,natu1246
+st_test_natu1246_31,those-students-PL there stand-COM-3SG surprised,yes,natu1246
+st_test_natu1246_31,students-DEF-3PL there 3SG-stand-ABL 3SG-about 3DU-with 3DU-stand-INST 3DU,no,natu1246
+st_test_natu1246_32,DEM3SG INAL breadfruit DET breadfruit-DET hold-1SG-DET-LOC DET vine single DET-root 1SG.hold,yes,natu1246
+st_test_natu1246_32,DEM-DIST INAN.SG breadfruit DET breadfruit hold-1SG-DET DET vine single DET root 1SG-hold,no,natu1246
+st_test_natu1246_33,that GEN-1SG woman 1PL-birth-LOC die IPFV-3SG.SBJ-3SG.OBJ,yes,natu1246
+st_test_natu1246_33,that woman POSS.1SG-LOC childbirth-LOC die IPFV-3SG.SBJ-PST,no,natu1246
+st_test_natu1246_34,well DISC DEM.DUAL-DUAL-DUAL-DUAL DEM.DUAL-DUAL-DUAL DEM.ANAPHORIC-DUAL-make.things-DUAL-3DUAL-DUAL cross.ANAPHORIC,yes,natu1246
+st_test_natu1246_34,good DISC then DUAL-DUAL-DUAL think-PAST-3DU.SUBJ how make.things-CONT-3DU.SUBJ cross-INSTR,no,natu1246
+st_test_natu1246_35,rain DET INCL-covered-SS.CVB DET we DET DET-go-1PL.EXCL,yes,natu1246
+st_test_natu1246_35,rain-DEF DEF INF.cover-3SG.PAST DEF when DEF DEF-go-1PL.PAST,no,natu1246
+st_test_natu1246_36,we then DIST DIST-INV-*walk-PERF-1PL river DIST DIST-INV-go-PERF-1PL DIST coconut DIST field,yes,natu1246
+st_test_natu1246_36,we-GEN then DIST IPFV-cross-IPFV-1PL river-LOC DIST IPFV-go-IPFV-1PL coconut field-LOC DIST school,no,natu1246
+st_test_natu1246_37,take.down-PST-1PL-3SG that boat and then paddle start-INCEP-COMPL-PST-1PL home,yes,natu1246
+st_test_natu1246_37,1PL-take-1PL-3SG that boat-LOC and 3SG-PAST paddle start-1PL-3SG home,no,natu1246
+st_test_natu1246_38,then 3SG.OBJ-say-PST-1SG.OBJ-EMPH 1SG.OBL-DAT DEM man-PL DEM.PL NEG 3SG.SUBJ-COP wooden,yes,natu1246
+st_test_natu1246_38,then thus say-PRS-1SG.OBJ-3SG.OBJ DEM man PL-DEM.PROX-NEG PRES-3PL wooden-PL COP-INF,no,natu1246
+st_test_natu1246_39,1SG EMPH DEM first-3SG-ACC DEM people join-REL PRO DEM PRO DEM PRO DEM join-REL-PRO be-REL-INTR-1SG-AUX-REL-1SG,yes,natu1246
+st_test_natu1246_39,1SG PTCL that person PLUR join-REL-PAST-3SG.LOC-REL,no,natu1246
+st_test_natu1246_40,long.time be-SS.CVB 1PL-search-PRF-1PL-COND-1PL after 3SG.OBJ-find-1PL-IPFV,yes,natu1246
+st_test_natu1246_40,long time search-PRTS-PL-CONV DEM3SG DEM3SG-ABS1-find-1PL.ABS,no,natu1246
+st_test_natu1246_41,1SG-DIR-treat-IPFV-PL-GEN money three month-GEN like.that 3SG went,yes,natu1246
+st_test_natu1246_41,1SG-treat-SS.CVB money three month-POSS.1SG like.that 3SG go-PST.3SG,no,natu1246
+st_test_natu1246_42,INDEF DUR.PRO INDEF at INDEF 3-NEG-IPFV-see-NEG-AOR-3-DEF DEF school they 3-go-DISTR-IPFV-3-DEP DEF school,yes,natu1246
+st_test_natu1246_42,INT DEM-3-PL-DAT INT DEM-3-NEG-see-PRS.NEG DET school 3-PL-DIST 3-PAST-go-PRS.NEG DET school,no,natu1246
+st_test_natu1246_43,this-PL-LOC-NOM IPFV-learn-IPFV INDEF.ABS school and IPFV-translate-IPFV Scriptures,yes,natu1246
+st_test_natu1246_43,these teach-PROG-3PL INDEF.LOC school and translate-PROG-3PL Scriptures,no,natu1246
+st_test_natu1246_44,we-ALL DET leader-LOC us PV-upset-PST-3SG say-PST-3SG say-PST-3SG why PV-obey-NEG-PST-1SG-ALL 1SG-words-ABL,yes,natu1246
+st_test_natu1246_44,leader we.PL-COM upset-PASS-PST say-PST say-PST-us-3SG say-PST why distribute-PRS.NEG-ACC-1SG words,no,natu1246
+st_test_natu1246_45,big building one-government stood on posts with raised floor,yes,natu1246
+st_test_natu1246_45,big building on.the.government stood on posts with raised floor,no,natu1246
+st_test_natu1246_46,ERG.3-tell-PRF Rick ERG.1SG 3SG 3-go-IND but other 3SG.REAL-come-IND 3SG.REAL,yes,natu1246
+st_test_natu1246_46,tell-IND Rick that-ALL IND 3SG-go-IND but other IND 3SG-get-IND DET 3SG-man IND 3SG-go-COND 3SG.INAN,no,natu1246
+st_test_natu1246_47,3SG-travel-1PL-3SG and 3SG-disembark-1PL wharf house Auki,yes,natu1246
+st_test_natu1246_47,3SG-travel-1PL-SUBJ-DS and 3SG-disembark-1PL wharf LOC Auki,no,natu1246
+st_test_natu1246_48,DIST sleep.PL-DUR-1PL.SUBJ-IPFV DIST there open.night rain DIST-heavy DIST DIST-fall-PRET wind-INST DIST lightning DIST thunder,yes,natu1246
+st_test_natu1246_48,when 1PL-sleep-PROG-IPFV DET there open.night rain heavy DET fall-PRET wind-GEN lightning DET thunder,no,natu1246
+st_test_natu1246_49,1SG-father-1SG say-PART 3SG.OBL DEM small-POSS 1SG son DEM small-POSS DEM allow-NEG-POSS but 1SG-AUX 3SG-big-POSS one brother-LOC allow 1SG-be.allow,yes,natu1246
+st_test_natu1246_49,1SG-father-1SG 1SG-3SG say-PAST 3SG small.son 1SG small.son-3SG 1SG-allow-NEG but 1SG-AUX 3SG-grandparent-3SG one brother-ABL allow can.allow,no,natu1246
+st_test_natu1246_50,group two all PV-DISTR-trade-APPL-3DU,yes,natu1246
+st_test_natu1246_50,group-DUAL two all PREF-DISTR-trade-3DUAL,no,natu1246
+st_test_natu1246_51,miracle second-OBJ PART this one PART-see-PAST prefect PART and ASP-say-PART-tell-AOR-1SG thus how 1SG-see-PAST-1SG-PART,yes,natu1246
+st_test_natu1246_51,miracle second POSS this DEM one prefect POSS and 3SG tell-1SG.OBJ-tell-APPL-3SG.OBJ DEM DEM 1SG-saw-1SG-3SG.OBJ,no,natu1246
+st_test_natu1246_52,and bird-DU bona bird DET water sacrifice Cross-DAT 3DU-ignite-PST 3DU fire-DAT and 3DU burn-PST-3DU,yes,natu1246
+st_test_natu1246_52,and two-DU bird sacrifice was Cross 3DU-ignite-PST 3DU fire 3DU burn-PST,no,natu1246
+st_test_natu1246_53,DEICT 3ABS-DIR-go-ANT-3ABS shoot-ANTP-3ABS DET-man DET and 3ABS-3NEG-ANTP-3ABS wireless DET,yes,natu1246
+st_test_natu1246_53,DEM3-REPET-DIR 3-go-PERF-REPET shoot-PERF-3 DEM3-man-DEF and 3SG>3SG-smash-CAUS-DEF wireless-DEF,no,natu1246
+st_test_natu1246_54,student-3PL-? three student Guadalcanal 3SG-also-AUX also 3SG.SUBJ-lead-PST 3PL,yes,natu1246
+st_test_natu1246_54,student-3-PL three student Gualekanal also they.are lead they.ABS,no,natu1246
+st_test_natu1246_55,1SG-NSBJ-tell-DUR-AUX INT two SUB-1SG-student Pawa school at,yes,natu1246
+st_test_natu1246_55,students at Pawa school,no,natu1246
+st_test_natu1246_56,1INCL.INAL-schooling-ABS begin-INC-BD DET DET-work-ABS NEG INAL-demand-ABS still demand-ANTCP-ANT-ANTIP-ANT DET 1INAL-schooling-ABS break.off-INCP-ANT,yes,natu1246
+st_test_natu1246_56,schooling-our begin DET good-ADVZR NEG well still demand-ADVZR DET schooling break.off-little-ANTIP-3SG.INAN,no,natu1246
+st_test_natu1246_57,call-CONV Jesus and same-ADV person save-3SG>3PL,yes,natu1246
+st_test_natu1246_57,call-CONV Jesus-3 and save-3 people-3 just.the.same.time DEICT-save-3,no,natu1246
+st_test_natu1246_58,give-PAST-3SG.OBJ 3SG.DAT Srpi OBJ-translate-INF Gospel-DAT REL write-PAST Matthew,yes,natu1246
+st_test_natu1246_58,give-PAST-3SG.DAT 3SG.DAT Srpi translate-CAUS-INF-3SG.DAT Gospel-ACC-3SG.DAT write-PAST.3SG.DAT Matthew,no,natu1246
+st_test_natu1246_59,1SG father-COM roof four-CL house roof four CL panel two CL be-PRT,yes,natu1246
+st_test_natu1246_59,1SG father-COM roof four-DAT roof four panel-DAT two room COP,no,natu1246
+st_test_natu1246_60,mister Manfort I.ABS I.say-PST-1SG.OBJ-3SG while I.ABS ship I.ABS first-help-IND-AUX they.ABS I.ABS two-ABS I.ABS-teach-ABS because two I.ABS-teacher-ABS there,yes,natu1246
+st_test_natu1246_60,Mr.Manfort I.ABS tell-PAST-1SG.OBJ-3SG when I.ABS I.ABS wait-PART-ABS ship teach-ANT-ABL they.ABS I.ABS two class two teacher NEG.AUX,no,natu1246
+st_test_natu1246_61,then then statue-DIR evening father that food PST-take-PST-3 room-DIR where Menabz where food PST-statue-DIR-AN-3 Cross statue,yes,natu1246
+st_test_natu1246_61,then then then evening father then my food room.into then Menabz then food then took.into-PRS-1SG statue Cross,no,natu1246
+st_test_natu1246_62,that-ABL brother John say-PRS that your.daughter-ABL come-PST-ABL-SS and who cook-PST-?that food,yes,natu1246
+st_test_natu1246_62,Huna-brother say-PRF Jon say-PRF AUX your.daughter-POSS bush-ABL bring-PST so and that-ABL food do-PST-3PL who-POSS food,no,natu1246
+st_test_natu1246_63,but 3SG.ABS-NEG-eat-NEG-3SG.ABS insecurely-ANTC-ANTC-3SG.ABS fall sea,yes,natu1246
+st_test_natu1246_63,but eat-NEG.PROX-3SG.IND insecurely fall-PRET sea,no,natu1246
+st_test_natu1246_64,I ERG.1-tell-AOR 3SG.NONF INAN.M.SG NEG,yes,natu1246
+st_test_natu1246_64,I tell-PRON this-ERG I not tell-PRES-1SG>3SG.OBJ,no,natu1246
+st_test_natu1246_65,when we.are.arriving-PST-1PL.ABS Point Cruz we.saw-PST-1PL.ABS many warships anchored-DIR-PST Lungga and some anchored-DIR-PST and some anchored-DIR-PST airplanes-DIR-PST airplanes-DIR-PST,yes,natu1246
+st_test_natu1246_65,when 1PL-reach-PAST-1PL Point Cruz 1PL warship-PL anchor-PASS-PAST Lungga 1PL-some 1PL go.out-PAST 1PL go.out-PAST airplane-PL 1PL fly-PAST-3PL,no,natu1246
+st_test_natu1246_66,DISC bead-DETR-1PL.INCL DET Bead.point 1PL.INCL-DUR-more-AUX-DISC DET bail-AUX-DISC-DUR-EVID since more powerful-ADJ-DETR-INTR.PFV-DISC,yes,natu1246
+st_test_natu1246_66,then 1PL.SBJ-reach-DIR DET Bead.point 1SG.SBJ-paddle-DIR DET bail-DIR since more powerful-ANTCP-INCP-DIR,no,natu1246
+st_test_natu1246_67,3SG-GEN name say-PST Joseph Tealo,yes,natu1246
+st_test_natu1246_67,3SG-GEN name say-PST Joseph Tealo,no,natu1246
+st_test_natu1246_68,but we big thing DET.ANIM-REL miss-AUX.PST-1 ERG.3 cartridge,yes,natu1246
+st_test_natu1246_68,but we big thing they missed-us cartridges,no,natu1246
+st_test_natu1246_69,then then 1SG-say-PAST PREP Rick that 1DU-take-PAST-DUAL some letter another POSS-delete-1DU.INCL PREP alphabet GEN Natqgu,yes,natu1246
+st_test_natu1246_69,two-DIR then I.say-PAST PREP Rick that our-DU some letter two-DU deleted-DUR PREP alphabet ABL Natqgu,no,natu1246
+st_test_natu1246_70,until-1PL.INCL daylight dance-ANTC-THE-3SG.ABS,yes,natu1246
+st_test_natu1246_70,1PL-dance until daylight,no,natu1246
+st_test_natu1246_71,but 3SG.A-tell-1SG.OBJ-3SG.INAN DET 1SG.A-paddle.out-TR-3SG.INAN-TOP DET.PL 1PL.A-plant-TR-IND Dxi lest NEG 3SG.A-spoil-TR-3SG.INAN,yes,natu1246
+st_test_natu1246_71,but 3SG.A-3SG.O-1SG.O DET 1SG.SUBJ-should-TR INV-1PL.INCL 3SG.ABS-plant-1PL.INCL Dxi lest NEG 3SG.ABS-spoil-TR,no,natu1246
+st_test_natu1246_72,then siren DET again-sound-PERF-3SG then DET Japan 3SG.REFL-fly-PERF-3SG,yes,natu1246
+st_test_natu1246_72,then siren DET 3SG.SUBJ-sound-again 3SG.SUBJ-do DET Japan 3SG.SUBJ-fly-REM.PST:3SG.SUBJ-again,no,natu1246
+st_test_natu1246_73,one day of-AUG-3DU and Menabz 1DU.SUBJ-INTR-kill-PST two two dove-AUG CONJ,yes,natu1246
+st_test_natu1246_73,one-day 1SG-GEN father-3SG.POSS and Menabz 1SG-killed-3DU.SU dove two male.dove but,no,natu1246
+st_test_natu1246_74,school at Naim PV-Graciosa bay-DAT-3 Naban,yes,natu1246
+st_test_natu1246_74,School at Naim PLACE-PASS-IPFV Naban,no,natu1246
+st_test_natu1246_75,one man name-COP-PST Metalo,yes,natu1246
+st_test_natu1246_75,one-ADD INDEF name-INCH PASS-PST Metalo,no,natu1246
+st_test_natu1246_76,1SG.GEN-father-1SG.POSS DAT hear-IPFV-3SG.SUBJ-3SG.OBJ-IPFV Mzdealwx 3SG.SUBJ-believe-IPFV-3SG.SUBJ-REL God DEM3PL.GEN brother DEM3PL.GEN also 3SG.SUBJ-believe-IPFV-3SG.SUBJ-3SG.SUBJ,yes,natu1246
+st_test_natu1246_76,when 1SG father-1SG hear-3SG.PST Mzdealwx 3SG.SUBJ-position-3SG.POSS God DEM brothers DEM also 3SG.SUBJ-position-3SG.POSS also,no,natu1246
+st_test_natu1246_77,kite who string break-PRF story,yes,natu1246
+st_test_natu1246_77,string of Kite who string broke story,no,natu1246
+st_test_natu1246_78,army-GEN head DIR say-3SG that what kind man be-2SG,yes,natu1246
+st_test_natu1246_78,head-3SG.POSS further army say-3SG.PAST what kind man-3SG.POSS,no,natu1246
+st_test_natu1246_79,but COP.PST DET strong-ART-PROX DET wind strong so long.time-ART-PROX-INCL-AUX.PST Nzlvz,yes,natu1246
+st_test_natu1246_79,but be-PROX DET strong-ABL DET wind southwest so long.time-ABL-3DU.S Nzlvz,no,natu1246
+st_test_natu1246_80,then also 3SG.A-take-DIR DET Rick Frank Yrpusz 3SG.A-be-DIR-also DET translator also,yes,natu1246
+st_test_natu1246_80,then also take-PRT-3SG DET Rick Frank Yrpusz 3SG.OBJ-like-CAUS-PST DET translator also,no,natu1246
+st_test_natu1246_81,and begin-BEN-1PL-PST Uta finishing Pa'lz and island this thoroughly covered-PASS-PST this GEN-work-ABL Gary Simons,yes,natu1246
+st_test_natu1246_81,and begin-BEN-1PL Uta finish-GER Pa'lz and island this thoroughly covered this work Gary Simons,no,natu1246
+st_test_natu1246_82,we PROG-go-1PL ascend ASP-1PL down-1PL ASP-1PL assand ASP-DIST-go-1PL river large-ACC-1PL,yes,natu1246
+st_test_natu1246_82,1PL PROG-go-SS.CVB 1PL PROG-1PL-go-DS.CVB 1PL-go-DS.CVB and large-ACC river cross-1PL.PST,no,natu1246
+st_test_natu1246_83,god-DAT and such-ADJ so what believe-SUBJ-1PL and trust-IND-1PL say-SUBJ and Jesus and father-DAT and all this day stay-SUBJ-1PL say world,yes,natu1246
+st_test_natu1246_83,god and such so so believe-SR and trust-POT-1PL so who Jesus and father and all who live-SR so who world,no,natu1246
+st_test_natu1246_84,then student then Sikaiana island climb-PRT-3SG,yes,natu1246
+st_test_natu1246_84,student-3SG then then Sikaiana island III-climb-3SG,no,natu1246
+st_test_natu1246_85,this sign be-PRT 3SG.NOUN-powerful sign miracle,yes,natu1246
+st_test_natu1246_85,this-3SG sign be-PRT sign-POSS.3SG sign miracle,no,natu1246
+st_test_natu1246_86,day one tree 1SG-go-PST-GER day GEN breadfruit,yes,natu1246
+st_test_natu1246_86,one day breadfruit tree-ABL walk-IPFV-1SG breadfruit tree-ABL away,no,natu1246
+st_test_natu1246_87,Anna Teao AUX end-CAUS-PRES DET 3SG school arrive-SS DET DET 1PL-partner-1PL DET INTR-teach-1PL,yes,natu1246
+st_test_natu1246_87,Anna Teao then 3SG-finish-COMPL-3SG then 3SG school and 1DU DU-partner 1DU DU-teach-COMPL-1,no,natu1246
+st_test_natu1246_88,EP 79. difficulty-POSS-3 Natqgu the language person-PLUR translate-POSS-3 person.PLUR,yes,natu1246
+st_test_natu1246_88,EP 79. difficulty Natqgu person-PL-DAT Language translate-REL-PL-DAT person-PL-DAT,no,natu1246
+st_test_natu1246_89,INAL-3-take.off.fire-DIR-PROX then INAL-3-light-PRS-DIR DEM leaf then INAL-3-lay.out-DIR there chicken small-ALL-3-ANIM-DIR,yes,natu1246
+st_test_natu1246_89,"IV-take.off.fire-3PL, DET IV-remove-IND-3PL DET leaf DET IV-lay.out.leaves DET chicken IV-small-DISTR-AV-3PL",no,natu1246
+st_test_natu1246_90,two-GROUP Miracle split-DUR four wartime and,yes,natu1246
+st_test_natu1246_90,two-GROUP Miracle Miracle split-3 and Fourth Wartime REL,no,natu1246
+st_test_natu1246_91,DET.INAL 3SG.REAL-see-INAL 3SG.REAL-be.about-INAL-3PL.CONT DET.Japan 3DU.REAL-flee-REAL-3PL.ANIM,yes,natu1246
+st_test_natu1246_91,when 3PL-INDEF.OBJ-DIST 3SG.SUBJ-INDEF.SUBJ-be-INDEF.SUBJ INDEF.ART Japan 3PL fled,no,natu1246
+st_test_natu1246_92,but that one-LOC DEM INDEF-person-PL-3 later accept-3PL INDEF-believe-DETR-ACC Goodnews,yes,natu1246
+st_test_natu1246_92,but that person-PL-3SG later accept-3PL believe-NOM-3PL Goodnews-ACC,no,natu1246
+st_test_natu1246_93,second-3SG Yamzli PASS-PST bear Narnztilolx PASS-year 1918,yes,natu1246
+st_test_natu1246_93,second Yamzli PASS-PST be.born Narnztilolx PASS-PST year 1918,no,natu1246
+st_test_natu1246_94,we large-ABS building build-PST-1PL,yes,natu1246
+st_test_natu1246_94,we-DAT build-big-ABS NEG build-1PL-3SG,no,natu1246
+st_test_natu1246_95,start-again-1PL Noipx and sleep-1PL Nebz,yes,natu1246
+st_test_natu1246_95,begin-ANT.CONV-1PL Noipx and slept.at Nebz,no,natu1246
+st_test_natu1246_96,and Mr.Shadrach Sunday 3SG.ABS 3SG.ABS-FOC 3SG.ABS-headmaster GEN school DEM.ANAPHORIC,yes,natu1246
+st_test_natu1246_96,TOP Mr. Shadrach Sunday REL-3SG Headmaster the school POSTP,no,natu1246
+st_test_natu1246_97,but DIR-know-ANAPH-DIR DET INDEF-3PL-go-again-3PL-ABS 3PL door 3SG-break-PRT those DET door other-3SG,yes,natu1246
+st_test_natu1246_97,but DIR-1SG.AGT-know-DIR DET 3-return-again 3-PROX door break-PRT someone DET door other,no,natu1246
+st_test_natu1246_98,that-ALL-ALL place fork-PRTC-LOC 1SG there 1SG-stand-REM.PST-1SG,yes,natu1246
+st_test_natu1246_98,fork-ALL there 1SG-go-PST 3SG and 1SG stand-PST,no,natu1246
+st_test_nyan1302_0,so 1-do 1-dine-PRS,yes,nyan1302
+st_test_nyan1302_0,so 1-do 1-dine,no,nyan1302
+st_test_nyan1302_1,ba2-child 1SG be.two PRT,yes,nyan1302
+st_test_nyan1302_1,2.person 1SM-DET 8-ASS-1SG NEG,no,nyan1302
+st_test_nyan1302_2,1SG PRT INF-rise-IND 3PL-be 3PL-be,yes,nyan1302
+st_test_nyan1302_2,1SG PREP NMLZ-do sleep sleep,no,nyan1302
+st_test_nyan1302_3,ba-girl CL15-dog CL1-give CL1.tired,yes,nyan1302
+st_test_nyan1302_3,2.boy 15-15-RET 1-go 1-DET,no,nyan1302
+st_test_nyan1302_4,2-stolen 17.LOC 2-go 17.LOC DEM,yes,nyan1302
+st_test_nyan1302_4,2.stolen-PL 17-out 2-go 17-out DEM,no,nyan1302
+st_test_nyan1302_5,1SG-NEG-stand-PRES 15-door 1SG-die PRES,yes,nyan1302
+st_test_nyan1302_5,1SG-start INF-do.IPFV quickly PRT,no,nyan1302
+st_test_nyan1302_6,go-2,yes,nyan1302
+st_test_nyan1302_6,go-TAM,no,nyan1302
+st_test_nyan1302_7,1.SG PRO.3 1.SG-die with 9.dog,yes,nyan1302
+st_test_nyan1302_7,1.SG PRO.3 1.SG-die 10-house house,no,nyan1302
+st_test_nyan1302_8,AUG-9.breast 9/10.girl 10-ASSOC 1SG,yes,nyan1302
+st_test_nyan1302_8,boy boy should PRT 1SG,no,nyan1302
+st_test_nyan1302_9,non.subject-1/2.PRON.NON.SG,yes,nyan1302
+st_test_nyan1302_9,no,no,nyan1302
+st_test_nyan1302_10,NEG -sing NEG-die-PRS,yes,nyan1302
+st_test_nyan1302_10,EXCL 2-be.PRS 6-good,no,nyan1302
+st_test_nyan1302_11,NEG go COMP CL.2-child CL.2-die fufu PRT,yes,nyan1302
+st_test_nyan1302_11,NEG go 2.boy these 3.food PREP,no,nyan1302
+st_test_nyan1302_12,go,yes,nyan1302
+st_test_nyan1302_12,oh,no,nyan1302
+st_test_nyan1302_13,plate big GEN PRO.3SG say COMP 3SG-like-PRS.3SG,yes,nyan1302
+st_test_nyan1302_13,lion small go AUX say COMP listen-PAST,no,nyan1302
+st_test_nyan1302_14,10.PL 2-stone 10.PL hear,yes,nyan1302
+st_test_nyan1302_14,10.PL 2-stone 10.POSS hurt,no,nyan1302
+st_test_nyan1302_15,girl PL-DEM,yes,nyan1302
+st_test_nyan1302_15,go-NEG 9.DEM,no,nyan1302
+st_test_nyan1302_16,go PROG say COMP human.brother(1) 2SG die PREP do-PL,yes,nyan1302
+st_test_nyan1302_16,go PROG say COMP human.brother(1) 2SG die PREP dinner,no,nyan1302
+st_test_nyan1302_17,but 3.PL-bite still PRES 3SG-die,yes,nyan1302
+st_test_nyan1302_17,but both scissors be NEG-die,no,nyan1302
+st_test_nyan1302_18,2.PRON 1SG already 1SG-burn 1SG,yes,nyan1302
+st_test_nyan1302_18,2/3.PRON 1SG already die-INF 1SG,no,nyan1302
+st_test_nyan1302_19,1.PRON 3.SG LOG-bathe 1 PREP DEM,yes,nyan1302
+st_test_nyan1302_19,Gaké go LOG boy child DET,no,nyan1302
+st_test_nyan1302_20,3SG house bitter bitter 3SG.REAL-have.INF.3SG.SBJ-take.INF.3SG.OBJ-TAM,yes,nyan1302
+st_test_nyan1302_20,3SG 1SG-die 1SG-husband 9-book 6-book,no,nyan1302
+st_test_nyan1302_21,NEG COMP 1SG-like-IPFV 1SG 1SG-die-IPFV,yes,nyan1302
+st_test_nyan1302_21,NEG COMP 1.SG-like-IPFV with 9.difficulty,no,nyan1302
+st_test_nyan1302_22,1-ASS 1-dog KE-bite NEG,yes,nyan1302
+st_test_nyan1302_22,1-PRS 1-dog Kwant-burn NEG,no,nyan1302
+st_test_nyan1302_23,1 PRS.3-do-PRS wound.of.1 DEM 3-PRS Kwant.of.1 DEM POSTP,yes,nyan1302
+st_test_nyan1302_23,1 2-do-PRS wind-PL DEM 3-PRS slim-PL DEM PRON.1SG,no,nyan1302
+st_test_nyan1302_24,14-birds,yes,nyan1302
+st_test_nyan1302_24,14-birds,no,nyan1302
+st_test_nyan1302_25,disturb-NEG NEG,yes,nyan1302
+st_test_nyan1302_25,disturb-NEG NEG,no,nyan1302
+st_test_nyan1302_26,EXPL PRT blood CL-PST-PRT stop,yes,nyan1302
+st_test_nyan1302_26,thing 1SG blood 1-PERF come-PERF,no,nyan1302
+st_test_nyan1302_27,girl-PL that,yes,nyan1302
+st_test_nyan1302_27,girl go,no,nyan1302
+st_test_nyan1302_28,those 3-divide children,yes,nyan1302
+st_test_nyan1302_28,so abhor child,no,nyan1302
+st_test_nyan1302_29,one 1-door 1-door 1-fast-1-tie-IPFV,yes,nyan1302
+st_test_nyan1302_29,2.ERG 1SG 2SG 3SG-die-PRF-RECP,no,nyan1302
+st_test_nyan1302_30,1.girl PRT 14-four 2 14-good,yes,nyan1302
+st_test_nyan1302_30,1.girl PRED 14-beat 2-all 14-good,no,nyan1302
+st_test_nyan1302_31,those.who two three-two 1SG eat the.house-PL,yes,nyan1302
+st_test_nyan1302_31,those.who husband boy 1SG eat those,no,nyan1302
+st_test_nyan1302_32,go-FR-2SG NEG do 2.store DET,yes,nyan1302
+st_test_nyan1302_32,grandmother 1SG die children DET,no,nyan1302
+st_test_nyan1302_33,1PL 3PL-bite.PRS-butt 3SG-day 3SG-day,yes,nyan1302
+st_test_nyan1302_33,1SG be.PRS.1SG-butt 9-grass 9-down,no,nyan1302
+st_test_nyan1302_34,go IPFV.1SG-die-IPFV,yes,nyan1302
+st_test_nyan1302_34,go uncock-NEG,no,nyan1302
+st_test_nyan1302_35,2-girl-1-PRS hunger AUG-1PL,yes,nyan1302
+st_test_nyan1302_35,2.girls 13-be.PRS.HAB two,no,nyan1302
+st_test_nyan1302_36,A-go 3SG-PRES 9/10.good,yes,nyan1302
+st_test_nyan1302_36,NEG 1PL-PRS 9/10.ginger,no,nyan1302
+st_test_nyan1302_37,so 1.PL-boy 7-die 1SG go strong,yes,nyan1302
+st_test_nyan1302_37,so PRO/DEM two 1SG do swell-swell,no,nyan1302
+st_test_nyan1302_38,2.PL-2-PRS 2.PL-bite PRS.NEG stay NEG-do,yes,nyan1302
+st_test_nyan1302_38,2.person 2-pro with 1.there emphatic,no,nyan1302
+st_test_nyan1302_39,no.one INF do baby banana ball strong strong,yes,nyan1302
+st_test_nyan1302_39,no.one be doubt baby but IDEO.not sing.IPFV,no,nyan1302
+st_test_nyan1302_40,N2-good,yes,nyan1302
+st_test_nyan1302_40,N2-go-N2,no,nyan1302
+st_test_nyan1302_41,NEG-drink-IPFV 1SG NEG-disturb-IPFV go-INF,yes,nyan1302
+st_test_nyan1302_41,NEG-2-sit-IPFV with 9-foot this,no,nyan1302
+st_test_nyan1302_42,2.PL-be.PRS thus EXCL 9.milk that 3-go 9-ASSOC,yes,nyan1302
+st_test_nyan1302_42,2.persons 10-die PRES 9.food PREP 9.children that,no,nyan1302
+st_test_nyan1302_43,NEG PRT do CL.2-trousers DEM cause.travel house,yes,nyan1302
+st_test_nyan1302_43,NEG PRT be.PRS CL.2-child DEF give.birth.PRF hearsay,no,nyan1302
+st_test_nyan1302_44,1-person 1-die-PRF 1-die 1-die-PRF,yes,nyan1302
+st_test_nyan1302_44,people say-PRS.DIST say-PRS.DIST say-PRS.DIST,no,nyan1302
+st_test_nyan1302_45,2.PL COMP 1.PL-be 14-die,yes,nyan1302
+st_test_nyan1302_45,2.PL COMP 1.PRS.NEG 9-good,no,nyan1302
+st_test_nyan1302_46,stomach 3-PL 3-be-PRS so go-3-PL 3-PL 3-PL,yes,nyan1302
+st_test_nyan1302_46,stomach three three-big so go-down do-divide put,no,nyan1302
+st_test_nyan1302_47,1-PL 14-be.happy,yes,nyan1302
+st_test_nyan1302_47,1SG NEG-buy,no,nyan1302
+st_test_nyan1302_48,be8-rabbit 1DEM 1SG-give.PRF 1SG 1SG-AUX go,yes,nyan1302
+st_test_nyan1302_48,better.who one 3SG 1SG 1SG-PRS.HAB go,no,nyan1302
+st_test_nyan1302_49,go NEG -PRS.1SG 2-die 1SG die.PST,yes,nyan1302
+st_test_nyan1302_49,15-give 2-pronoun 2.children 1SG die.PRES,no,nyan1302
+st_test_nyan1302_50,2-girl 2-big 6-dance-PRS PRT,yes,nyan1302
+st_test_nyan1302_50,2-girl 2-big language-PL PRT,no,nyan1302
+st_test_nyan1302_51,2.PL-boy 1SG boy 2.PL-give that go 1.PL-do that go,yes,nyan1302
+st_test_nyan1302_51,2.PL 1SG die 2-ASS? go? 1.PL? go?,no,nyan1302
+st_test_nyan1302_52,bollow CL9-tree CL9-good,yes,nyan1302
+st_test_nyan1302_52,Bolo school 3SG-go-LOC,no,nyan1302
+st_test_nyan1302_53,NEG-do.PRS-3SG 1SG NEG-die-PRS,yes,nyan1302
+st_test_nyan1302_53,NEG 2SG die-PRS/FUT-NEG,no,nyan1302
+st_test_nyan1302_54,1SG 1SG die,yes,nyan1302
+st_test_nyan1302_54,1SG 1SG die,no,nyan1302
+st_test_nyan1302_55,1SG 2SG-be.PRS 2SG worry-LOC LOC this,yes,nyan1302
+st_test_nyan1302_55,NEG sing.IRR 1SG do.PRS 17 do.PRS 1SG,no,nyan1302
+st_test_nyan1302_56,herself,yes,nyan1302
+st_test_nyan1302_56,herself,no,nyan1302
+st_test_nyan1302_57,1SG already 1SG -die,yes,nyan1302
+st_test_nyan1302_57,1SG already 1SG-husband NEG-die,no,nyan1302
+st_test_nyan1302_58,2.PRON 1SG.PRON.Q even 2-PRS.PROG-go,yes,nyan1302
+st_test_nyan1302_58,2.PRON dinner with child-PLUR,no,nyan1302
+st_test_nyan1302_59,2.PL 1SG.PRO stop 3SG do house,yes,nyan1302
+st_test_nyan1302_59,we.EXCL boy 3PL-be 3SG.ACC hate,no,nyan1302
+st_test_nyan1302_60,those 3PL-do-PL thus 1SG-do with live,yes,nyan1302
+st_test_nyan1302_60,1.PL be.two three 3-ground LOC NEG,no,nyan1302
+st_test_nyan1302_61,2SG PROG-die-PRS 3SG-go sit,yes,nyan1302
+st_test_nyan1302_61,EXCL sing-PRS.CONJ 3SG-go sit.IPFV,no,nyan1302
+st_test_nyan1302_62,1-tart 13-bird 13-enter go see 1-like-PRS.HAB-1SG see PRT,yes,nyan1302
+st_test_nyan1302_62,E.NOM box 3rd.NOM-do go since 3rd.NOM-do-PRS since 1SG,no,nyan1302
+st_test_nyan1302_63,sun sweet-sweet two PRT 3SG 3SG-give store the,yes,nyan1302
+st_test_nyan1302_63,sun sweet sweet PRT PRT 3SG go stood sweet NEG,no,nyan1302
+st_test_nyan1302_64,2-stolen-2-two 6-blood NEG 3-do PRO.OBJ,yes,nyan1302
+st_test_nyan1302_64,2.blossom-2.of 6-blood NEG door POSTP,no,nyan1302
+st_test_nyan1302_65,2SG girl NEG-drink-NEG,yes,nyan1302
+st_test_nyan1302_65,2SG give.birth NEG,no,nyan1302
+st_test_nyan1302_66,1.SG-hunger,yes,nyan1302
+st_test_nyan1302_66,1.SM-die,no,nyan1302
+st_test_nyan1302_67,3SG-disturb.IPFV 3SG child,yes,nyan1302
+st_test_nyan1302_67,1.PL-rise-IND 1.PL PREP,no,nyan1302
+st_test_nyan1302_68,be8-raw LOC-give.birth-PL,yes,nyan1302
+st_test_nyan1302_68,beans LOC.PRE-bird,no,nyan1302
+st_test_nyan1302_69,NEG-be.PRS.HAB 3SG.GEN-ground LOC NEG,yes,nyan1302
+st_test_nyan1302_69,Ebedience 3SG-do-PRS.HAB PRT LOC/EVN,no,nyan1302
+st_test_nyan1302_70,1SG 3SG-buy 1SG about NEG,yes,nyan1302
+st_test_nyan1302_70,1SG PRO.3SG-give 1SG body NEG,no,nyan1302
+st_test_nyan1302_71,1SG,yes,nyan1302
+st_test_nyan1302_71,1SG-PRON.TOP,no,nyan1302
+st_test_nyan1302_72,so 1-boy 1-give this IPF-do-IPFV,yes,nyan1302
+st_test_nyan1302_72,so 1.PRON 2SG give 9.divide-LOC,no,nyan1302
+st_test_nyan1302_73,tree NP-down,yes,nyan1302
+st_test_nyan1302_73,hunger a-house,no,nyan1302
+st_test_nyan1302_74,you,yes,nyan1302
+st_test_nyan1302_74,Yoo,no,nyan1302
+st_test_nyan1302_75,2.boy-2-prohibitive 1-eat-PRS then 1-eat-PRS,yes,nyan1302
+st_test_nyan1302_75,these 3-group one 3-group,no,nyan1302
+st_test_nyan1302_76,EXPL-2-girl 17 14-be.PRS-NEG,yes,nyan1302
+st_test_nyan1302_76,POSS.2-boy 17 NEG-buy,no,nyan1302
+st_test_nyan1302_77,she 9-dog 9.DEM,yes,nyan1302
+st_test_nyan1302_77,she 9.PRON 9.SM-PRS.HAB,no,nyan1302
+st_test_nyan1302_78,E-rain COMP 3SG-praise CL2-drink,yes,nyan1302
+st_test_nyan1302_78,10.girl COMP 1-do 2-good,no,nyan1302
+st_test_nyan1302_79,3SG 13-die NEG go-IND,yes,nyan1302
+st_test_nyan1302_79,3.SG 14-be.habitually NEG good,no,nyan1302
+st_test_nyan1302_80,sit-stand,yes,nyan1302
+st_test_nyan1302_80,even-er,no,nyan1302
+st_test_nyan1302_81,NEG rice NEG-eat PRT,yes,nyan1302
+st_test_nyan1302_81,NEG rich.tree-PRT ground.tree-PRT PRO.1SG,no,nyan1302
+st_test_nyan1302_82,3.SG IPF-be.sitting bottle.PRT water LOC-down,yes,nyan1302
+st_test_nyan1302_82,3.SG 4-bow 2-all 3.PL.SM-PST2 4-like,no,nyan1302
+st_test_nyan1302_83,1-drink 1-AFF bull this,yes,nyan1302
+st_test_nyan1302_83,2.PRON 2.PRS water not,no,nyan1302
+st_test_nyan1302_84,six 14-find-PRS 3SG 9-game NEG,yes,nyan1302
+st_test_nyan1302_84,s/he.2 14-be.unlocated-NEG be.PRS.14 9.house NEG,no,nyan1302
+st_test_nyan1302_85,ba2-woman two ATTR-2-give NEG,yes,nyan1302
+st_test_nyan1302_85,Badze four.even.PST COMPL-2-give.IPFV NEG,no,nyan1302
+st_test_nyan1302_86,hunger DET,yes,nyan1302
+st_test_nyan1302_86,hunger DEM,no,nyan1302
+st_test_nyan1302_87,1SG 3PL-die-PRS.HAB 1SG-go 9.divide,yes,nyan1302
+st_test_nyan1302_87,1SG be.old.IPFV 1SG-go 9.divide,no,nyan1302
+st_test_nyan1302_88,3SG 3SG.RP-3SG.AP-hurt do.3SG.TR-HAB,yes,nyan1302
+st_test_nyan1302_88,3SG 3SG.RP-hurt turtle,no,nyan1302
+st_test_nyan1302_89,2.person NEG-buy-LOC,yes,nyan1302
+st_test_nyan1302_89,Wono NMLZ-go.IRR,no,nyan1302
+st_test_nyan1302_90,3.PL-build-PL 1SG 3SG-give 3SG,yes,nyan1302
+st_test_nyan1302_90,buffalo I 1.SG-give 1.SG-die,no,nyan1302
+st_test_nyan1302_91,2.PRON 1SG go 9-eat,yes,nyan1302
+st_test_nyan1302_91,you-PROG go PRT 3PL-PRES.PROG,no,nyan1302
+st_test_nyan1302_92,this.way 1SG child-PL store,yes,nyan1302
+st_test_nyan1302_92,this.way 1SG child four,no,nyan1302
+st_test_nyan1302_93,girl 1SG die.PST 3SG-AUX POSS,yes,nyan1302
+st_test_nyan1302_93,young.woman 1SG die-PRES.PROG thus 1SG,no,nyan1302
+st_test_nyan1302_94,go NEG -die,yes,nyan1302
+st_test_nyan1302_94,go-INF this.way-POSTP,no,nyan1302
+st_test_nyan1302_95,1-dance-IPFV 1-eat-PRS,yes,nyan1302
+st_test_nyan1302_95,2.distriction-PL 2.districtive-PL,no,nyan1302
+st_test_nyan1302_96,baby-2-POSS.2SG with sickness sickness,yes,nyan1302
+st_test_nyan1302_96,boys with too.much too.much,no,nyan1302
+st_test_nyan1302_97,go home with CL2-small,yes,nyan1302
+st_test_nyan1302_97,go home with boys,no,nyan1302
+st_test_nyan1302_98,2.person-PL 5-die go 2.ASS 1-PERS-go,yes,nyan1302
+st_test_nyan1302_98,2.person 6-DEM go 2SG PERF-go,no,nyan1302
+st_test_nyan1302_99,you,yes,nyan1302
+st_test_nyan1302_99,you,no,nyan1302
+st_test_nyan1302_100,ba2-child 2 PRO.OBJ-sit door,yes,nyan1302
+st_test_nyan1302_100,battles with NEG-do six-VN,no,nyan1302
+st_test_nyan1302_101,2SG 1SG.die NEG,yes,nyan1302
+st_test_nyan1302_101,2SG 3SG.LIG-husband NEG,no,nyan1302
+st_test_nyan1302_102,1SG 2SG-be.PRS 2SG worry-LOC LOC this,yes,nyan1302
+st_test_nyan1302_102,NEG sing.IRR 1SG do.PRS 17 do.PRS 1SG,no,nyan1302
+st_test_nyan1302_103,2.person 1SM-dance-NEG,yes,nyan1302
+st_test_nyan1302_103,Wono NEG-dance-NEG,no,nyan1302
+st_test_nyan1302_104,3PL-be.PRS-3PL-store NEG,yes,nyan1302
+st_test_nyan1302_104,be8-be8-cows POSS.PROG.2,no,nyan1302
+st_test_nyan1302_105,1SG PROG 3SG 1SG-die PRT,yes,nyan1302
+st_test_nyan1302_105,1SG 2SG-praise 3SG 1SG-die PRT,no,nyan1302
+st_test_nyan1302_106,garden/court-LOC,yes,nyan1302
+st_test_nyan1302_106,garden/court-NEG,no,nyan1302
+st_test_nyan1302_107,1SG disturb.IPFV 1SG-go NEG,yes,nyan1302
+st_test_nyan1302_107,2SG dinner 3SG-go NEG,no,nyan1302
+st_test_nyan1302_108,1 14-be.such 7-night 1>3 2.SM-be.sick with live,yes,nyan1302
+st_test_nyan1302_108,1 1-be.PRS 7-night 1:ATT both-two LOC like,no,nyan1302
+st_test_nyan1302_109,1SG-build KW-1SG.CON NEG-go,yes,nyan1302
+st_test_nyan1302_109,1.PRON 1SG-die 1.PRON 14-go,no,nyan1302
+st_test_nyan1302_110,3SG child-PL GEN-life,yes,nyan1302
+st_test_nyan1302_110,3SG child 7-like,no,nyan1302
+st_test_nyan1302_111,1 PL girls 3 PL-before GOAL-do CLF-plate CLF-trees CLF-platter,yes,nyan1302
+st_test_nyan1302_111,1 PL girl-PL 1-PL-SUBJ?-do?-do?-do?-do,no,nyan1302
+st_test_nyan1302_112,NEG -sit NEG-drink with NEG-drink,yes,nyan1302
+st_test_nyan1302_112,ERG-two ERG-drink-PROG with CL-two,no,nyan1302
+st_test_nyan1302_113,2SG PROG-do 1SG do,yes,nyan1302
+st_test_nyan1302_113,2.SG PROG-do 1.SG-REFL do,no,nyan1302
+st_test_nyan1302_114,strong woman strong 3SG-do girl LOC PRO.1SG,yes,nyan1302
+st_test_nyan1302_114,strong woman strong 3SG-give-NEG book LOC PRO.1SG,no,nyan1302
+st_test_nyan1302_115,go NEG 2SG-be.PRS that 3SG do LOG PRT,yes,nyan1302
+st_test_nyan1302_115,NEG end 2.SG-do 2.SG-AUX go NEG do PRT,no,nyan1302
+st_test_nyan1302_116,2-distriction NEG good 2-distriction,yes,nyan1302
+st_test_nyan1302_116,2.person 3SG.REAL-stay 6.SM 2.PERSon,no,nyan1302
+st_test_nyan1302_117,KAN 3-go.IPFV 3-go.IPFV give 3-do.IPFV,yes,nyan1302
+st_test_nyan1302_117,2.PRON 1-PRS-burn 1-PRS-burn go 9-house,no,nyan1302
+st_test_nyan1302_118,2-ruin 2-PST 1-die-PRS.NEG-NEG,yes,nyan1302
+st_test_nyan1302_118,Batrugbu s/he she-die-NEG,no,nyan1302
+st_test_nyan1302_119,2.PRON go-IPFV with house,yes,nyan1302
+st_test_nyan1302_119,2.PRON 1SG-die 1SG-AUX house,no,nyan1302
+st_test_nyan1302_120,2.PL winter so go-IPFV go,yes,nyan1302
+st_test_nyan1302_120,Blo younger.brother-REFL sit go-INF go-INF,no,nyan1302
+st_test_nyan1302_121,1SG PRO.3SG food NEG LOG-do-PL die-IPFV,yes,nyan1302
+st_test_nyan1302_121,1SG PRO.3SG.M 3SG.REL LOG.3SG.F-do thus,no,nyan1302
+st_test_nyan1302_122,rock PRT go,yes,nyan1302
+st_test_nyan1302_122,rock PRT good,no,nyan1302
+st_test_nyan1302_123,the-sunshone-1SG,yes,nyan1302
+st_test_nyan1302_123,plate-PROX,no,nyan1302
+st_test_nyan1302_124,2-boy 2-2-girl this,yes,nyan1302
+st_test_nyan1302_124,2.boy 2.boy-2-ask that,no,nyan1302
+st_test_nyan1302_125,1SG sit,yes,nyan1302
+st_test_nyan1302_125,PRT 3.PL,no,nyan1302
+st_test_nyan1302_126,14-birds,yes,nyan1302
+st_test_nyan1302_126,14-birds,no,nyan1302
+st_test_nyan1302_127,so 1SG.PRON 3SG.RP 3SG.LIG-bought for,yes,nyan1302
+st_test_nyan1302_127,1.PRON 1-PRS-die 10-TNS 3-girl POSS,no,nyan1302
+st_test_nyan1302_128,3SG 2-child DET,yes,nyan1302
+st_test_nyan1302_128,3.SG child-PL DET,no,nyan1302
+st_test_nyan1302_129,this-CL1 CL1-bite strong,yes,nyan1302
+st_test_nyan1302_129,those 1-dogs strong,no,nyan1302
+st_test_nyan1302_130,N.SG-girl N.PL,yes,nyan1302
+st_test_nyan1302_130,N.SG-like N.PL-PST,no,nyan1302
+st_test_nyan1302_131,ki-búné-búné,yes,nyan1302
+st_test_nyan1302_131,kibu-drink-PL-RECP,no,nyan1302
+st_test_nyan1302_132,15-die,yes,nyan1302
+st_test_nyan1302_132,15-greet-NEG,no,nyan1302
+st_test_nyan1302_133,1SG-go 1SG-go,yes,nyan1302
+st_test_nyan1302_133,3.SG-go 3.SG.PRS-HAB,no,nyan1302
+st_test_nyan1302_134,8-8-ries 8-door,yes,nyan1302
+st_test_nyan1302_134,these those,no,nyan1302
+st_test_nyan1302_135,3SG human NEG-die,yes,nyan1302
+st_test_nyan1302_135,3.SG child NEG,no,nyan1302
+st_test_nyan1302_136,AUG-1.PL.SM 1.PL.SM-give.PFV 6-good 9,yes,nyan1302
+st_test_nyan1302_136,1-child 1-give-PRF 1-child 9-DEM,no,nyan1302
+st_test_nyan1302_137,no.one since 3.SG 3.PL-buy to-do.INF-REL,yes,nyan1302
+st_test_nyan1302_137,go-INF sit and fool do-INF-die-LOC,no,nyan1302
+st_test_nyan1302_138,so 8-bear 1SG child 2-stolen,yes,nyan1302
+st_test_nyan1302_138,so bear 1SG child boys,no,nyan1302
+st_test_nyan1302_139,1SG bother-AGR NEG NEG-die-PRS NEG,yes,nyan1302
+st_test_nyan1302_139,1.SG boy 1.COMPL 6-die PRES,no,nyan1302
+st_test_nyan1302_140,noon 3PL before 1PL go 14-dog 10.LOC Begbe,yes,nyan1302
+st_test_nyan1302_140,Anoo 3.SG after FOC go _ garden _ Begbe _,no,nyan1302
+st_test_nyan1302_141,1.sit 1-this 1-four 1-dance 13-come.up house,yes,nyan1302
+st_test_nyan1302_141,1.SG PRO.3 1-PRS.HAB 1-follow 9-gather.IPFV,no,nyan1302
+st_test_nyan1302_142,3SG 13SG 3PL-disturb-RP-finish-IPFV,yes,nyan1302
+st_test_nyan1302_142,even 1SG-dog 8-bite-PRS.PROG-IND,no,nyan1302
+st_test_nyan1302_143,E-you.PL 1SG-die.PST PRT,yes,nyan1302
+st_test_nyan1302_143,you.PL 2.PRS-die-PRS.HAB this,no,nyan1302
+st_test_nyan1302_144,run 3SG-NEG,yes,nyan1302
+st_test_nyan1302_144,dinner-whether NEG,no,nyan1302
+st_test_nyan1302_145,2-2-friend 1-DEM,yes,nyan1302
+st_test_nyan1302_145,2.boy 1,no,nyan1302
+st_test_nyan1302_146,AUG-2.PL-girl 1SG.PRS.NEG go PRO.NEG,yes,nyan1302
+st_test_nyan1302_146,AUG-2-child 1.little NEG go PRES,no,nyan1302
+st_test_nyan1302_147,district 3SG.POSS good,yes,nyan1302
+st_test_nyan1302_147,Kliso 3P-RN sit,no,nyan1302
+st_test_nyan1302_148,2-girl 2-2-girl 2-girl 2 2-five,yes,nyan1302
+st_test_nyan1302_148,2-girl 2-2-give 1-give 1-full,no,nyan1302
+st_test_nyan1302_149,2-girl 7-die,yes,nyan1302
+st_test_nyan1302_149,2.girl 7-die,no,nyan1302
+st_test_nyan1302_150,so 3PL-be.PRS 3SG Kwants go through PRT,yes,nyan1302
+st_test_nyan1302_150,so 3PL and girl-PL with tooth DET,no,nyan1302
+st_test_nyan1302_151,sit be.sitting-REL NEG,yes,nyan1302
+st_test_nyan1302_151,sit do.HAB NEG,no,nyan1302
+st_test_nyan1302_152,2-PL 2-PRS-burn go 9-DET not,yes,nyan1302
+st_test_nyan1302_152,2.PL 2-PST-burn-PRT give 3-DET door,no,nyan1302
+st_test_nyan1302_153,1-eat 14-fine,yes,nyan1302
+st_test_nyan1302_153,1-eat 14-big,no,nyan1302
+st_test_nyan1302_154,bollow CL9-tree CL9-good,yes,nyan1302
+st_test_nyan1302_154,Bolo school 3SG-go-LOC,no,nyan1302
+st_test_nyan1302_155,sit INF-do thus so be.PRS thus go INF-do thus store PREP PRO.OBJ PRES.OBJ PRES.OBJ,yes,nyan1302
+st_test_nyan1302_155,1.SG but so since do give.birth bould.the under so PRT school say PRT,no,nyan1302
+st_test_nyan1302_156,AUG-2.PL-girl NEG-do PRO.OBJ,yes,nyan1302
+st_test_nyan1302_156,ABS.2SG-forest 1SG-husband POSTP,no,nyan1302
+st_test_nyan1302_157,NZ-be.sick-NZ with uncle-DEF 1SG die that,yes,nyan1302
+st_test_nyan1302_157,NEG-be.PRS-NEG with uncle-LOC 1SG die.PRS you,no,nyan1302
+st_test_nyan1302_158,2-IPF-return NEG,yes,nyan1302
+st_test_nyan1302_158,2-IPFV.SBJ-1-tie NEG,no,nyan1302
+st_test_nyan1302_159,noon 3PL before 1PL go 14-dog 10.LOC Begbe,yes,nyan1302
+st_test_nyan1302_159,Anoo 3.SG after FOC go _ garden _ Begbe _,no,nyan1302
+st_test_nyan1302_160,this.who 1-bite.PRS.HAB good 1-time 1-drink-NEG,yes,nyan1302
+st_test_nyan1302_160,this.who 1-be.two go.that 1-door 1-could,no,nyan1302
+st_test_nyan1302_161,NEG 1PL-die NEG,yes,nyan1302
+st_test_nyan1302_161,pro.3.SG-give.3.SG-PRS.HAB NEG,no,nyan1302
+st_test_nyan1302_162,1SG-give,yes,nyan1302
+st_test_nyan1302_162,ground-NEG,no,nyan1302
+st_test_nyan1302_163,1-stolen-PL E. 3SG KE-sing,yes,nyan1302
+st_test_nyan1302_163,store POSS.NAME 3SG NEG-die,no,nyan1302
+st_test_nyan1302_164,1PL 2-stolenus 1PL,yes,nyan1302
+st_test_nyan1302_164,1.PL 2.PL-bird 12-all,no,nyan1302
+st_test_nyan1302_165,so both-both-two go with Banya under Nyagbo,yes,nyan1302
+st_test_nyan1302_165,so both go with Banya under Nyagbo,no,nyan1302
+st_test_nyan1302_166,2SG-PRS.HAB 3SG 2SG die NEG-die,yes,nyan1302
+st_test_nyan1302_166,you.PL PRT 2PL give.HAB three,no,nyan1302
+st_test_nyan1302_167,NEG 1SG-drink with 4-cousin,yes,nyan1302
+st_test_nyan1302_167,go NEG but 1PL.SM-PRS.HAB-AUX,no,nyan1302
+st_test_nyan1302_168,Alase 3SG 2-go LOC 3SG-do PRT,yes,nyan1302
+st_test_nyan1302_168,Alase 3.SG 2.PRON LOC 3.SG-die PRT,no,nyan1302
+st_test_nyan1302_169,district 3SG.POSS good,yes,nyan1302
+st_test_nyan1302_169,Kliso 3P-RN sit,no,nyan1302
+st_test_nyan1302_170,fall,yes,nyan1302
+st_test_nyan1302_170,goose,no,nyan1302
+st_test_nyan1302_171,win-NOM,yes,nyan1302
+st_test_nyan1302_171,win-RL,no,nyan1302
+st_test_nyan1302_172,14-be.two-PRS KU 14.OBJ,yes,nyan1302
+st_test_nyan1302_172,bush.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.diffic,no,nyan1302
+st_test_nyan1302_173,CL4-basket DEM PRO.3-PRS.1SG-AUX NEG,yes,nyan1302
+st_test_nyan1302_173,garden six die-PRS.HAB NEG,no,nyan1302
+st_test_nyan1302_174,AUG-10.dinistor 10 PRO.3SG-go 9.ground,yes,nyan1302
+st_test_nyan1302_174,AUG-1SG-drink that PRO.3SG-be.PRS 9.ground,no,nyan1302
+st_test_nyan1302_175,NEG 2SG 3SG-do 3SG-that 3SG-die-PRS NEG,yes,nyan1302
+st_test_nyan1302_175,NEG 2SG PROG-do thing house this,no,nyan1302
+st_test_nyan1302_176,EXPL CL2-two give-FV CL2-girl CL2-two,yes,nyan1302
+st_test_nyan1302_176,EXPL banana go banana too,no,nyan1302
+st_test_nyan1302_177,POSS.1PL-husband 1PL-go 1SG-go,yes,nyan1302
+st_test_nyan1302_177,plate NEG good,no,nyan1302
+st_test_nyan1302_178,cure-NOM boy INF.NEG-burn-PRT 3SG-AUX house,yes,nyan1302
+st_test_nyan1302_178,Klisoo boy know-NEG PRO.OBJ do.HAB,no,nyan1302
+st_test_nyan1302_179,3SG-PST girl,yes,nyan1302
+st_test_nyan1302_179,go-PST 1SG,no,nyan1302
+st_test_nyan1302_180,hunger Begbe and bear.PRS 3PL-be 3PL-give 3PL-do Hahute,yes,nyan1302
+st_test_nyan1302_180,3PL Begbe CONJ 3PL-do PRT 3PL-do 3PL-beat that Hahute,no,nyan1302
+st_test_nyan1302_181,1SG stop-stop PRES.CONJ,yes,nyan1302
+st_test_nyan1302_181,1SG much.wind-fool PRES.CONTR,no,nyan1302
+st_test_nyan1302_182,girl,yes,nyan1302
+st_test_nyan1302_182,girl,no,nyan1302
+st_test_nyan1302_183,CL2-person that CL2-bite-PRS.HAB CL2-girl NEG,yes,nyan1302
+st_test_nyan1302_183,2.person 2SG 2-bite-DEP 2-girl NEG,no,nyan1302
+st_test_nyan1302_184,1SG be.PRS when Kána bought-APPL (1SG) POSTP,yes,nyan1302
+st_test_nyan1302_184,CONJ 1.PRON two CONJ 1.PRON-give uncle POSS,no,nyan1302
+st_test_nyan1302_185,banana-CL1 dog,yes,nyan1302
+st_test_nyan1302_185,banana house,no,nyan1302
+st_test_nyan1302_186,1SG go 9.DEM,yes,nyan1302
+st_test_nyan1302_186,1.PRS go 9.DEM,no,nyan1302
+st_test_nyan1302_187,go PROG 2SG food CL 1PL POST-go,yes,nyan1302
+st_test_nyan1302_187,go NEG 2.PRS food DET NEG,no,nyan1302
+st_test_nyan1302_188,thing 1SG 3SG-do have 3SG-two,yes,nyan1302
+st_test_nyan1302_188,bones break stomach have these,no,nyan1302
+st_test_nyan1302_189,14-be.two-PRS KU 14.OBJ,yes,nyan1302
+st_test_nyan1302_189,bush.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.difficult.and.diffic,no,nyan1302
+st_test_nyan1302_190,1.girl 1-be.PRS 1-die-PRS,yes,nyan1302
+st_test_nyan1302_190,1.sit 1SG-do 1SG-dine,no,nyan1302
+st_test_nyan1302_191,2SG 2-do COMP 2-come-IPFV good,yes,nyan1302
+st_test_nyan1302_191,2.PRON smoke-PRES? business good,no,nyan1302
+st_test_nyan1302_192,2-PL go 2-PRS NEG,yes,nyan1302
+st_test_nyan1302_192,2.PL go 2.PL-go NEG,no,nyan1302
+st_test_nyan1302_193,1SG-POSS girl 1SG-PRS.HAB 1SG-AUX who,yes,nyan1302
+st_test_nyan1302_193,1SG give.IPFV 1SG.REL 1SG-give who-LOC,no,nyan1302
+st_test_nyan1302_194,girl NOM-dog,yes,nyan1302
+st_test_nyan1302_194,give.birth hand,no,nyan1302
+st_test_nyan1302_195,2.boy-2-PRS-NEG 2-pronoun 2-boy 1-DET there NEG do NEG 1-say-PRS PRON,yes,nyan1302
+st_test_nyan1302_195,baba-baba banana banana there NEG do NEG deprive.IRR PRON,no,nyan1302
+st_test_nyan1302_196,1SG 1SG-give 6-divide then 1SG 1SG-die.PST,yes,nyan1302
+st_test_nyan1302_196,1SG 1SG-give 6-divide then 1SG 1SG-die-PST,no,nyan1302
+st_test_nyan1302_197,garden/court-LOC,yes,nyan1302
+st_test_nyan1302_197,garden/court-NEG,no,nyan1302
+st_test_nyan1302_198,NEG PRT do CL.2-trousers DEM cause.travel house,yes,nyan1302
+st_test_nyan1302_198,NEG PRT be.PRS CL.2-child DEF give.birth.PRF hearsay,no,nyan1302
+st_test_nyan1302_199,NEG 1PL-die PREP 2PL house,yes,nyan1302
+st_test_nyan1302_199,go 9/10.PROG 1SG die 9/10.PROG,no,nyan1302
+st_test_nyan1302_200,1.go 10-door 11-uncle,yes,nyan1302
+st_test_nyan1302_200,1.PST-go 10.PROX 11-upright,no,nyan1302
+st_test_nyan1302_201,2-person 1SG-be.PRS 17,yes,nyan1302
+st_test_nyan1302_201,2.person 2-PRS.NEG DEM,no,nyan1302
+st_test_nyan1302_202,hunger die,yes,nyan1302
+st_test_nyan1302_202,hunger did,no,nyan1302
+st_test_nyan1302_203,INF-do.INF-TA 2SG-go NEG,yes,nyan1302
+st_test_nyan1302_203,15-die-PRS 6-good 9,no,nyan1302
+st_test_nyan1302_204,I-husband Mawu AGR-go.PRF.3,yes,nyan1302
+st_test_nyan1302_204,PRO.3SG.PRON Mawú 3SG.PRES-go.PERF,no,nyan1302
+st_test_nyan1302_205,NZR-rib 3SG.PRS go.out.PRS,yes,nyan1302
+st_test_nyan1302_205,PN 2SG die-PRS/PROG,no,nyan1302
+st_test_nyan1302_206,2-district-PL,yes,nyan1302
+st_test_nyan1302_206,2-districtive-PLUR,no,nyan1302
+st_test_nyan1302_207,1SG-PRES 1SG-die 1PL POSTP,yes,nyan1302
+st_test_nyan1302_207,1SG-be 6-girl 1PL die,no,nyan1302
+st_test_nyan1302_208,so 3-short-REL 3SG-AUX,yes,nyan1302
+st_test_nyan1302_208,so 1.SG-bother PRT,no,nyan1302
+st_test_nyan1302_209,3.SG be.two-NEG sit.HAB,yes,nyan1302
+st_test_nyan1302_209,3.SG be.PRS.3SG sit.INF,no,nyan1302
+st_test_nyan1302_210,in.order.to 2SG IPF-stop-RECP-FV the-2SG,yes,nyan1302
+st_test_nyan1302_210,in.order.to 2SG districted.with-1SG these,no,nyan1302
+st_test_nyan1302_211,1.PL be.PRS thus both-two COMP-do COMP-do PRS,yes,nyan1302
+st_test_nyan1302_211,1.PL be.PRS thus both-LOC COMP PRO.OBJ PRO.OBJ,no,nyan1302
+st_test_nyan1302_212,garden/court-LOC LOC/N,yes,nyan1302
+st_test_nyan1302_212,run-IT-PRS/FOC NEG,no,nyan1302
+st_test_nyan1302_213,2-2-friend 1-DEM,yes,nyan1302
+st_test_nyan1302_213,2.boy 1,no,nyan1302
+st_test_nyan1302_214,1SG die-NEG,yes,nyan1302
+st_test_nyan1302_214,1SG.PRS.NEG disturb.IRR-2SG,no,nyan1302
+st_test_nyan1302_215,this new 1SG 3SG-die-IPFV NEG,yes,nyan1302
+st_test_nyan1302_215,the.same.time you.PL pres.3SG work the.last.not,no,nyan1302
+st_test_nyan1302_216,3SG distant-two CL-boy CL-room,yes,nyan1302
+st_test_nyan1302_216,3.SG both COMP-buy CL-border,no,nyan1302
+st_test_nyan1302_217,disturbed.things,yes,nyan1302
+st_test_nyan1302_217,enthernal.NOM-PL,no,nyan1302
+st_test_nyan1302_218,3SG.POSS-husband 1SG-stop,yes,nyan1302
+st_test_nyan1302_218,girl 13-four,no,nyan1302
+st_test_nyan1302_219,tree-DEF NEG COMP-3SG look-PRS COMP-3SG COMP-die,yes,nyan1302
+st_test_nyan1302_219,sun stay stay be.PRS.HAB before strong bought,no,nyan1302
+st_test_nyan1302_220,AGR-die,yes,nyan1302
+st_test_nyan1302_220,listen-NEG,no,nyan1302
+st_test_nyan1302_221,that thing 2SG be.PRS 9-ground LOC 9-ground,yes,nyan1302
+st_test_nyan1302_221,that good 2SG be sit-INF store with door,no,nyan1302
+st_test_nyan1302_222,thing 1-and 1-AUX do 1-cook PRT,yes,nyan1302
+st_test_nyan1302_222,NEG 1-do 2-AUX give 2-come PRT,no,nyan1302
+st_test_nyan1302_223,1SG die-IPFV CL-1SG PRT,yes,nyan1302
+st_test_nyan1302_223,1.PL hunt.IPFV 7.four PRT,no,nyan1302
+st_test_nyan1302_224,go NEG -die,yes,nyan1302
+st_test_nyan1302_224,go-INF this.way-POSTP,no,nyan1302
+st_test_nyan1302_225,1.SG 2.PRON go 2.SG 1-2.PRS-give NEG,yes,nyan1302
+st_test_nyan1302_225,EXCL we 1PL-be 2PL ancient NEG,no,nyan1302
+st_test_nyan1302_226,1-child 9 and 1-die,yes,nyan1302
+st_test_nyan1302_226,1.PL give.IRR 1SG NEG-die,no,nyan1302
+st_test_nyan1302_227,girl-PL sit,yes,nyan1302
+st_test_nyan1302_227,boy-PL die,no,nyan1302
+st_test_nyan1302_228,1SG 1SG-fall 2SG 6-girl 1SG do COMP 2SG stop,yes,nyan1302
+st_test_nyan1302_228,1SG food 2SG 1SG-die 1SG do CONJ 2SG start,no,nyan1302
+st_test_nyan1302_229,1SG PRS-spill with-2SG PRS-do.PRS 1SG-do PREP 1SG-do,yes,nyan1302
+st_test_nyan1302_229,1.PL 1SG.PRS-burn with 10-grain 10-two then 10-go,no,nyan1302
+st_test_nyan1302_230,3PL-be.PST this 3SG.ABS Avenoo,yes,nyan1302
+st_test_nyan1302_230,beans sit -NEG Aveno,no,nyan1302
+st_test_nyan1302_231,ba2-person INF-die DEM 3SG-die NEG die,yes,nyan1302
+st_test_nyan1302_231,bush GENR do 3SG do NEG die,no,nyan1302
+st_test_nyan1302_232,NEG 2-2-girl 6 9-four 10-go,yes,nyan1302
+st_test_nyan1302_232,NEG 2-be.PRS 6-mango 9-uncle 9-DEM,no,nyan1302
+st_test_nyan1302_233,1PL-PRS.FOC-1PL-die 7-district DEM,yes,nyan1302
+st_test_nyan1302_233,1PL-die 7-die PRT,no,nyan1302
+st_test_nyan1302_234,you,yes,nyan1302
+st_test_nyan1302_234,young.man,no,nyan1302
+st_test_nyan1302_235,girl-2SG 1SG do give speak,yes,nyan1302
+st_test_nyan1302_235,cow 13 die PRES PRON.15,no,nyan1302
+st_test_nyan1302_236,women two 3SG 3PL-do 14-uproot POSTP,yes,nyan1302
+st_test_nyan1302_236,women 6-girls 3.SG us 8-four PROX,no,nyan1302
+st_test_nyan1302_237,NEG-2SG distinguish-INF,yes,nyan1302
+st_test_nyan1302_237,N.PRON.PRON.2SG understand.IRR,no,nyan1302
+st_test_nyan1302_238,NEG PRT rice PRT go PRT,yes,nyan1302
+st_test_nyan1302_238,NEG FOC win-PROG FOC go PROG,no,nyan1302
+st_test_nyan1302_239,1.PRON 14-be.up 1.SM-PRS 6.four,yes,nyan1302
+st_test_nyan1302_239,1.SG bubbara 1-PRS 6-four,no,nyan1302
+st_test_nyan1302_240,go stay sit,yes,nyan1302
+st_test_nyan1302_240,go stay FOC,no,nyan1302
+st_test_nyan1302_241,NEG-do.PRS-3SG COMP CL.2-child small small,yes,nyan1302
+st_test_nyan1302_241,3.SG-die COMP child 1.PROX 1,no,nyan1302
+st_test_nyan1302_242,thus COMP CL.2-child CL.2-ASSOC 3SG.CONT die-IPFV house the top,yes,nyan1302
+st_test_nyan1302_242,3.SG COMP 2.PL 1.SG-be.PRS 1.SG-butter-INTR house-LOC DEM DEF,no,nyan1302
+st_test_nyan1302_243,go-REV,yes,nyan1302
+st_test_nyan1302_243,kill-NEG,no,nyan1302
+st_test_nyan1302_244,AUG-transform go 1SG uproot,yes,nyan1302
+st_test_nyan1302_244,AUG-1SG.sit 1SG PRO.1SG under,no,nyan1302
+st_test_nyan1302_245,bollow CL9-tree CL9-good,yes,nyan1302
+st_test_nyan1302_245,Bolo school 3SG-go-LOC,no,nyan1302
+st_test_nyan1302_246,store-PL,yes,nyan1302
+st_test_nyan1302_246,ten(CL)-ASSOC.PRT,no,nyan1302
+st_test_nyan1302_247,1SG-say 1SG-die,yes,nyan1302
+st_test_nyan1302_247,1.SG-give 10.SM-dinner,no,nyan1302
+st_test_nyan1302_248,NZ-be.sick-NZ with uncle-DEF 1SG die that,yes,nyan1302
+st_test_nyan1302_248,NEG-be.PRS-NEG with uncle-LOC 1SG die.PRS you,no,nyan1302
+st_test_nyan1302_249,LOG N2-person N2-prohibition NEG PRON.1SG,yes,nyan1302
+st_test_nyan1302_249,EXPL 1.PL-be.PST 6.girl 6-two PREP PRON.1SG,no,nyan1302
+st_test_nyan1302_250,2.PL PREP ten 3-four 3-two NEG,yes,nyan1302
+st_test_nyan1302_250,2.PL PRT finish-IPFV 2.PL-be.PRS 2-two NEG,no,nyan1302
+st_test_nyan1302_251,3 13-be.PRS when both 13-go IPFV-go,yes,nyan1302
+st_test_nyan1302_251,3 13.PRON 13-be.PRS both 13-go IPFV-go-IPFV,no,nyan1302
+st_test_nyan1302_252,NEG 1PL-die NEG,yes,nyan1302
+st_test_nyan1302_252,pro.3.SG-give.3.SG-PRS.HAB NEG,no,nyan1302
+st_test_nyan1302_253,garden/child-PL,yes,nyan1302
+st_test_nyan1302_253,beat-PL,no,nyan1302
+st_test_nyan1302_254,3PL PRO.3SG the boy 3PL PRO.3SG go,yes,nyan1302
+st_test_nyan1302_254,3PL PRO.3SG the girl-3SG 3PL PRO.3SG go,no,nyan1302
+st_test_nyan1302_255,garden/court 3PL-2-give NEG,yes,nyan1302
+st_test_nyan1302_255,garden/court-PL do.HAB thing,no,nyan1302
+st_test_nyan1302_256,garden/child-PL,yes,nyan1302
+st_test_nyan1302_256,beat-PL,no,nyan1302
+st_test_nyan1302_257,ABS-2-five,yes,nyan1302
+st_test_nyan1302_257,ABS-2-fine,no,nyan1302
+st_test_nyan1302_258,2SG PROG-die-PRS 3SG-go NEG,yes,nyan1302
+st_test_nyan1302_258,EXCL sing.IPFV 3SG-go NEG,no,nyan1302
+st_test_nyan1302_259,thus COMP CL.2-child CL.2-ASSOC 3SG.CONT die-IPFV house the top,yes,nyan1302
+st_test_nyan1302_259,3.SG COMP 2.PL 1.SG-be.PRS 1.SG-butter-INTR house-LOC DEM DEF,no,nyan1302
+st_test_nyan1302_260,AUG-hand,yes,nyan1302
+st_test_nyan1302_260,life-NOM,no,nyan1302
+st_test_nyan1302_261,so 2.boy-PL 1SG 14-give-IPFV PRT,yes,nyan1302
+st_test_nyan1302_261,so hungers 1SG die-PRES.PROG PRT,no,nyan1302
+st_test_nyan1302_262,3SG 1SG-be.PRS 2SG.REL 1SG.SM-IPFV-start-IPFV PRT,yes,nyan1302
+st_test_nyan1302_262,3.SG 2SG both 3PL-be 1.SG-bought-IPFV PRT,no,nyan1302

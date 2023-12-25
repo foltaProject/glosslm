@@ -5,10 +5,12 @@ import evaluate
 import fire
 import numpy as np
 import os
+import pandas as pd
 import torch
 import transformers
 import wandb
 import random
+from tqdm import tqdm
 
 DEBUG = False
 
@@ -147,6 +149,7 @@ def create_trainer(
 def main(
     mode: str,
     model_path: str,
+    test_split: str = None,
 ):
     pretrained_model = "google/byt5-base"
 
@@ -199,7 +202,44 @@ def main(
         trainer.save_model(model_path)
         print(f"Model saved at {model_path}")
     elif mode == "predict":
-        pass
+        tokenizer = transformers.ByT5Tokenizer.from_pretrained(
+            pretrained_model, use_fast=False
+        )
+        dataset = datasets.load_dataset('lecslab/glosslm-split')
+        dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
+        assert test_split in ['id', 'ood']
+        if test_split == 'id':
+            predict_dataset = dataset["test_ID"]
+        else:
+            predict_dataset = dataset["test_OOD"]
+        predict_dataset = predict_dataset.map(create_prompt)
+        predict_dataset = predict_dataset.map(
+            tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
+        )
+        print(predict_dataset)
+        preds = []
+        ids = predict_dataset["ID"]
+        is_segmented = predict_dataset["is_segmented"]
+        glottocode = predict_dataset["glottocode"]
+        model = transformers.AutoModelForPreTraining.from_pretrained(
+                model_path).to(device)
+        for ex in tqdm(predict_dataset["input_ids"]):
+            preds.append(
+                tokenizer.decode(
+                    model.generate(
+                        torch.tensor([ex]).to(device),
+                        max_length=MODEL_INPUT_LENGTH,
+                    )[0],
+                    skip_special_tokens=True,
+                )
+            )
+        preds_df = pd.DataFrame({
+            "ID": ids,
+            "glottocode": glottocode,
+            "is_segmented": is_segmented,
+            "pred": preds,
+        })
+        preds_df.to_csv(f"{test_split}-preds.csv", index=False)
 
 
 if __name__ == "__main__":
