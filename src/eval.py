@@ -5,6 +5,7 @@ Adapted from SIGMORPHON 2023 Shared Task code
 
 import datasets
 import json
+import os
 import pandas as pd
 import re
 from typing import List
@@ -116,33 +117,68 @@ def eval_word_glosses(pred_words: List[List[str]], gold_words: List[List[str]]):
     return {"word_level": word_eval, "bleu": bleu}
 
 
-def evaluate_igt(pred_path: str, test_split: str, verbose=True):
+def evaluate_igt(
+    pred_path: str,
+    test_split: str,
+    segmented: bool = True,
+    verbose=True
+):
     """Performs evaluation of a predicted IGT file"""
 
+    def _eval(preds: List[str], gold: List[str]):
+        pred_words = [str(pred).split() for pred in preds]
+        gold_words = [gloss.split() for gloss in gold]
+        word_eval = eval_accuracy(pred_words, gold_words)
+
+        pred_morphemes = [re.split(r"\s|-", str(pred)) for pred in preds]
+        gold_morphemes = [re.split(r"\s|-", gloss) for gloss in gold]
+
+        eval_dict = {
+            "word_level": word_eval,
+            **eval_morpheme_glosses(
+                pred_morphemes=pred_morphemes, gold_morphemes=gold_morphemes
+            ),
+        }
+        return eval_dict
+
+    all_eval = {}
     pred_df = pd.read_csv(pred_path)
+    if segmented:
+        pred_df = pred_df[pred_df["is_segmented"] == "yes"]
+    else:
+        pred_df = pred_df[pred_df["is_segmented"] != "no"]
     preds = pred_df["pred"]
 
     assert test_split in ["test_ID", "test_OOD"]
     dataset = datasets.load_dataset('lecslab/glosslm-split', split=test_split)
+    if segmented:
+        dataset = dataset.filter(lambda x: x["is_segmented"] == "yes")
+    else:
+        dataset = dataset.filter(lambda x: x["is_segmented"] != "no")
     assert pred_df["ID"].tolist() == dataset["ID"]
     gold = dataset["glosses"]
+    all_eval["all"] = _eval(preds, gold)
 
-    pred_words = [str(pred).split() for pred in preds]
-    gold_words = [gloss.split() for gloss in gold]
-    word_eval = eval_accuracy(pred_words, gold_words)
+    for lang in pred_df["glottocode"].unique():
+        lang_dataset = dataset.filter(lambda x: x["glottocode"] == lang)
+        lang_preds = pred_df[pred_df["glottocode"] == lang]
+        assert lang_preds["ID"].tolist() == lang_dataset["ID"]
+        preds = lang_preds["pred"]
+        gold = lang_dataset["glosses"]
+        all_eval[lang] = _eval(preds, gold)
 
-    pred_morphemes = [re.split(r"\s|-", str(pred)) for pred in preds]
-    gold_morphemes = [re.split(r"\s|-", gloss) for gloss in gold]
+    results_dir = os.path.dirname(pred_path)
+    if segmented:
+        results_path = f"{results_dir}/{test_split}-segmented.json"
+    else:
+        results_path = f"{results_dir}/{test_split}-unsegmented.json"
+    with open(results_path, 'x') as outfile:
+        json.dump(all_eval, outfile, sort_keys=True, indent=4)
 
-    all_eval = {
-        "word_level": word_eval,
-        **eval_morpheme_glosses(
-            pred_morphemes=pred_morphemes, gold_morphemes=gold_morphemes
-        ),
-    }
     if verbose:
         print(test_split)
         print(json.dumps(all_eval, sort_keys=True, indent=4))
+
     return all_eval
 
 
@@ -160,7 +196,8 @@ def evaluate_igt(pred_path: str, test_split: str, verbose=True):
     required=True,
 )
 def main(pred: str, test_split: str):
-    evaluate_igt(pred, test_split)
+    evaluate_igt(pred, test_split, segmented=True)
+    evaluate_igt(pred, test_split, segmented=False)
 
 
 if __name__ == "__main__":
