@@ -12,7 +12,7 @@ from compute_metrics import compute_metrics
 
 DEBUG = False
 
-device = "cuda:0" if torch.cuda.is_available() else "mps"
+device = "cuda:0" if torch.cuda.is_available() else "cpu"
 print(device)
 # torch.backends.cuda.matmul.allow_tf32 = True
 
