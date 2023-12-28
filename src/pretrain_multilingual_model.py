@@ -1,5 +1,3 @@
-import pathlib
-
 import datasets
 import evaluate
 import fire
@@ -10,11 +8,11 @@ import torch
 import transformers
 import wandb
 import random
-from tqdm import tqdm
+from compute_metrics import compute_metrics
 
 DEBUG = False
 
-device = "cuda:0" if torch.cuda.is_available() else "cpu"
+device = "cuda:0" if torch.cuda.is_available() else "mps"
 print(device)
 # torch.backends.cuda.matmul.allow_tf32 = True
 
@@ -72,38 +70,6 @@ def create_trainer(
     max_epochs,
 ):
     print("Creating trainer...")
-    metric = evaluate.load("chrf")
-
-    def postprocess_text(preds, labels):
-        preds = [pred.strip() for pred in preds]
-        labels = [[label.strip()] for label in labels]
-
-        return preds, labels
-
-    def compute_metrics(eval_preds):
-        preds, labels = eval_preds
-        if isinstance(preds, tuple):
-            preds = preds[0]
-        preds = preds.argmax(-1)
-        decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
-        # Replace -100 in the labels as we can't decode them.
-        labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
-        decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
-
-        # Some simple post-processing
-        decoded_preds, decoded_labels = postprocess_text(decoded_preds, decoded_labels)
-
-        result = metric.compute(
-            predictions=decoded_preds, references=decoded_labels, word_order=2
-        )
-        result = {"chrf++": result["score"]}
-
-        prediction_lens = [
-            np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds
-        ]
-        result["gen_len"] = np.mean(prediction_lens)
-        result = {k: round(v, 4) for k, v in result.items()}
-        return result
 
     optimizer = transformers.optimization.Adafactor(
         model.parameters(),
@@ -114,7 +80,7 @@ def create_trainer(
     )
     lr_scheduler = transformers.optimization.AdafactorSchedule(optimizer)
 
-    args = transformers.TrainingArguments(
+    args = transformers.Seq2SeqTrainingArguments(
         output_dir="training-checkpoints",
         evaluation_strategy="epoch",
         learning_rate=lr,
@@ -127,13 +93,16 @@ def create_trainer(
         save_strategy="epoch",
         save_total_limit=3,
         num_train_epochs=max_epochs,
+        predict_with_generate=True,
         # load_best_model_at_end=True,
-        report_to="wandb",
         logging_steps=100,
+        generation_max_length=1024,
+        generation_num_beams=3,
+        report_to="wandb",
         # tf32=True,
     )
 
-    return transformers.Trainer(
+    return transformers.Seq2SeqTrainer(
         model,
         args,
         optimizers=[optimizer, lr_scheduler],
@@ -143,6 +112,7 @@ def create_trainer(
         train_dataset=dataset["train"] if dataset else None,
         eval_dataset=dataset["eval_ID"],
         compute_metrics=compute_metrics,
+        tokenizer=tokenizer
     )
 
 
@@ -166,34 +136,31 @@ def main(
 
     MODEL_INPUT_LENGTH = 1024
 
+    tokenizer = transformers.ByT5Tokenizer.from_pretrained(
+        pretrained_model, use_fast=False
+    )
+    dataset = datasets.load_dataset('lecslab/glosslm-split')
+    dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
+    dataset = dataset.map(create_prompt)
+    dataset = dataset.map(
+        tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
+    )
+
+    dataset["train"] = dataset["train"].shuffle()
+
+    print(f"Loading model from {pretrained_model}")
+    model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model if mode == 'train' else model_path)
+    model.generation_config.max_new_tokens = MODEL_INPUT_LENGTH
+    trainer = create_trainer(
+        model,
+        dataset=dataset,
+        tokenizer=tokenizer,
+        batch_size=2,
+        lr=5e-5,
+        max_epochs=10,
+    )
+
     if mode == "train":
-        tokenizer = transformers.ByT5Tokenizer.from_pretrained(
-            pretrained_model, use_fast=False
-        )
-
-        dataset = datasets.load_dataset('lecslab/glosslm-split')
-        # filter out samples with empty transcription or gloss fields
-        # TODO: fix this in dataset source
-        dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
-
-        dataset = dataset.map(create_prompt)
-        dataset = dataset.map(
-            tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
-        )
-
-        dataset["train"] = dataset["train"].shuffle()
-
-        print(f"Loading model from {pretrained_model}")
-        model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model)
-        trainer = create_trainer(
-            model,
-            dataset=dataset,
-            tokenizer=tokenizer,
-            batch_size=2,
-            lr=5e-5,
-            max_epochs=10,
-        )
-
         print("Training...")
         trainer.train()
         if not os.path.exists(model_path):
@@ -201,45 +168,24 @@ def main(
         print(f"Saving model to {model_path}")
         trainer.save_model(model_path)
         print(f"Model saved at {model_path}")
+
     elif mode == "predict":
-        tokenizer = transformers.ByT5Tokenizer.from_pretrained(
-            pretrained_model, use_fast=False
-        )
-        dataset = datasets.load_dataset('lecslab/glosslm-split')
-        dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
+        print("Creating predictions...")
+
         assert test_split in ['id', 'ood']
-        if test_split == 'id':
-            predict_dataset = dataset["test_ID"]
-        else:
-            predict_dataset = dataset["test_OOD"]
-        predict_dataset = predict_dataset.map(create_prompt)
-        predict_dataset = predict_dataset.map(
-            tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
-        )
-        print(predict_dataset)
-        preds = []
-        ids = predict_dataset["ID"]
-        is_segmented = predict_dataset["is_segmented"]
-        glottocode = predict_dataset["glottocode"]
-        model = transformers.AutoModelForPreTraining.from_pretrained(
-                model_path).to(device)
-        for ex in tqdm(predict_dataset["input_ids"]):
-            preds.append(
-                tokenizer.decode(
-                    model.generate(
-                        torch.tensor([ex]).to(device),
-                        max_length=MODEL_INPUT_LENGTH,
-                    )[0],
-                    skip_special_tokens=True,
-                )
-            )
+        test_split = "test_" + test_split.upper()
+
+        preds = trainer.predict(dataset[test_split])
+        labels = np.where(preds.label_ids != -100, preds.label_ids, tokenizer.pad_token_id)
+        preds = tokenizer.batch_decode(labels, skip_special_tokens=True)
         preds_df = pd.DataFrame({
-            "ID": ids,
-            "glottocode": glottocode,
-            "is_segmented": is_segmented,
+            "ID": dataset[test_split]["ID"],
+            "glottocode": dataset[test_split]["glottocode"],
+            "is_segmented": dataset[test_split]["is_segmented"],
             "pred": preds,
         })
         preds_df.to_csv(f"{test_split}-preds.csv", index=False)
+        print(f"Predictions for {test_split} data saved to {test_split}-preds.csv")
 
 
 if __name__ == "__main__":
