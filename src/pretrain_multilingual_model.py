@@ -111,7 +111,7 @@ def create_trainer(
         ),
         train_dataset=dataset["train"] if dataset else None,
         eval_dataset=dataset["eval_ID"],
-        compute_metrics=compute_metrics,
+        compute_metrics=compute_metrics(tokenizer),
         tokenizer=tokenizer
     )
 
@@ -150,7 +150,6 @@ def main(
 
     print(f"Loading model from {pretrained_model}")
     model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model if mode == 'train' else model_path)
-    model.generation_config.max_new_tokens = MODEL_INPUT_LENGTH
     trainer = create_trainer(
         model,
         dataset=dataset,
