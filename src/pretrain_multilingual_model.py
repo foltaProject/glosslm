@@ -97,7 +97,7 @@ def create_trainer(
         # load_best_model_at_end=True,
         logging_steps=100,
         generation_max_length=1024,
-        generation_num_beams=3,
+        # generation_num_beams=3,
         report_to="wandb",
         # tf32=True,
     )
