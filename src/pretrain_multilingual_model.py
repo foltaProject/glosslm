@@ -96,8 +96,8 @@ def create_trainer(
         predict_with_generate=True,
         # load_best_model_at_end=True,
         logging_steps=100,
-        # generation_max_length=1024,
-        # generation_num_beams=3,
+        generation_max_length=1024,
+        generation_num_beams=3,
         report_to="wandb",
         # tf32=True,
     )
@@ -175,7 +175,7 @@ def main(
         test_split = "test_" + test_split.upper()
 
         preds = trainer.predict(dataset[test_split])
-        labels = np.where(preds.label_ids != -100, preds.label_ids, tokenizer.pad_token_id)
+        labels = np.where(preds.predictions != -100, preds.predictions, tokenizer.pad_token_id)
         preds = tokenizer.batch_decode(labels, skip_special_tokens=True)
         preds_df = pd.DataFrame({
             "ID": dataset[test_split]["ID"],
