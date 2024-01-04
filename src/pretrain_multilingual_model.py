@@ -61,6 +61,20 @@ def tokenize(tokenizer: transformers.ByT5Tokenizer, max_length: int):
     return _tokenize
 
 
+class DelayedEarlyStoppingCallback(transformers.EarlyStoppingCallback):
+    def __init__(self, *args, start_epoch=1, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.start_epoch = start_epoch
+
+    def on_evaluate(self, args, state: transformers.TrainerState, control: transformers.TrainerControl, **kwargs):
+        # Only start applying early stopping logic after start_epoch
+        if state.epoch >= self.start_epoch:
+            super().on_evaluate(args, state, control, **kwargs)
+        else:
+            # Reset the patience if we're before the start_epoch
+            self.patience = 0
+
+
 def create_trainer(
     model,
     dataset,
@@ -68,7 +82,10 @@ def create_trainer(
     batch_size,
     lr,
     max_epochs,
+    use_early_stopping,
+    id_or_ood,
 ):
+    assert id_or_ood in ["ID", "OOD"]
     print("Creating trainer...")
 
     optimizer = transformers.optimization.Adafactor(
@@ -109,10 +126,11 @@ def create_trainer(
         data_collator=transformers.DataCollatorForSeq2Seq(
             tokenizer, model=model, label_pad_token_id=tokenizer.pad_token_id
         ),
-        train_dataset=dataset["train"] if dataset else None,
-        eval_dataset=dataset["eval_ID"],
+        train_dataset=dataset["train" if id_or_ood == "ID" else "train_OOD"] if dataset else None,
+        eval_dataset=dataset[f"eval_{id_or_ood}"],
         compute_metrics=compute_metrics(tokenizer),
-        tokenizer=tokenizer
+        tokenizer=tokenizer,
+        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=3)] if use_early_stopping else []
     )
 
 
@@ -120,11 +138,16 @@ def main(
     mode: str,
     model_path: str,
     test_split: str = None,
+    ft_glottocode: str = None,
 ):
+    assert mode in ["train", "predict", "finetune"]
+    assert (test_split is not None) if mode == "predict" else True
+    assert (ft_glottocode is not None) if mode == "finetune" else True
+
     pretrained_model = "google/byt5-base"
 
     random.seed(0)
-    if mode == "train" and not DEBUG:
+    if (mode == "train" or mode == "finetune") and not DEBUG:
         wandb.init(project="glossLM", entity="wav2gloss", config={
             "model": pretrained_model,
             "segmentation_mode": "all", # "all", "segmented", "unsegmented"
@@ -132,6 +155,7 @@ def main(
             "typological_info": "none", # "none", "glottofamily", "glottotree", "grambank", "lang2vec"
             "synthetic_data": "none", # "none", "chatgpt", "treebank", "galactic_deps"
             "curriculum": "none",
+            "finetuning_language": ft_glottocode
         })
 
     MODEL_INPUT_LENGTH = 1024
@@ -141,12 +165,21 @@ def main(
     )
     dataset = datasets.load_dataset('lecslab/glosslm-split')
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
+
+    # If finetuning, we may need to switch to using the OOD data splits
+    id_or_ood = "ID"
+    if mode == "finetune":
+        dataset = dataset.filter(lambda row: row["glottocode"] == ft_glottocode)
+        if dataset['eval_ID'].num_rows == 0 and dataset['eval_OOD'].num_rows != 0:
+            id_or_ood = "OOD"
+
     dataset = dataset.map(create_prompt)
     dataset = dataset.map(
         tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
     )
 
     dataset["train"] = dataset["train"].shuffle()
+    dataset["train_OOD"] = dataset["train_OOD"].shuffle()
 
     print(f"Loading model from {pretrained_model}")
     model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model if mode == 'train' else model_path)
@@ -157,9 +190,11 @@ def main(
         batch_size=2,
         lr=5e-5,
         max_epochs=10,
+        use_early_stopping=(mode == "train"),
+        id_or_ood=id_or_ood,
     )
 
-    if mode == "train":
+    if mode == "train" or mode == "finetune":
         print("Training...")
         trainer.train()
         if not os.path.exists(model_path):
