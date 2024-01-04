@@ -8,7 +8,7 @@
 #SBATCH --partition=blanca-curc-gpu
 #SBATCH --account=blanca-curc-gpu
 #SBATCH --out=finetune_glosslm.%j.out      # Output file name
-#SBATCH --error=_finetune_glosslm.%j.err
+#SBATCH --error=finetune_glosslm.%j.err
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=michael.ginn@colorado.edu
 
@@ -19,9 +19,9 @@ module load anaconda
 # Run Python Script
 conda activate AutoIGT
 cd "/projects/migi8081/glosslm/src"
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode arap1274 --model_path ../models/finetuned-arp
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode dido1241 --model_path ../models/finetuned-ddo
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode uspa1245 --model_path ../models/finetuned-usp
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode nyan1302 --model_path ../models/finetuned-nyb
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode natu1246 --model_path ../models/finetuned-ntu
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode lezg1247 --model_path ../models/finetuned-lez
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode arap1274 --output_model_path ../models/finetuned-arp --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode dido1241 --output_model_path ../models/finetuned-ddo --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode uspa1245 --output_model_path ../models/finetuned-usp --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode nyan1302 --output_model_path ../models/finetuned-nyb --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode natu1246 --output_model_path ../models/finetuned-ntu --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode lezg1247 --output_model_path ../models/finetuned-lez --pretrained_model lecslab/byt5-translation-all

@@ -20,4 +20,4 @@ exp_name="byt5_translation_all"
 echo $exp_name
 
 cd "./src"
-python3 pretrain_multilingual_model.py --mode train --model_path ${model_dir}${exp_name}
+python3 pretrain_multilingual_model.py --mode train --output_model_path ${model_dir}${exp_name}

@@ -136,13 +136,15 @@ def create_trainer(
 
 def main(
     mode: str,
-    model_path: str,
+    output_model_path: str = None,
+    pretrained_model: str = None,
     test_split: str = None,
     ft_glottocode: str = None,
 ):
     assert mode in ["train", "predict", "finetune"]
-    assert (test_split is not None) if mode == "predict" else True
-    assert (ft_glottocode is not None) if mode == "finetune" else True
+    assert (output_model_path is not None) if mode == "train" else True
+    assert (test_split is not None and pretrained_model is not None) if mode == "predict" else True
+    assert (ft_glottocode is not None and pretrained_model is not None and output_model_path is not None) if mode == "finetune" else True
 
     pretrained_model = "google/byt5-base"
 
@@ -182,7 +184,7 @@ def main(
     dataset["train_OOD"] = dataset["train_OOD"].shuffle()
 
     print(f"Loading model from {pretrained_model}")
-    model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model if mode == 'train' else model_path)
+    model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model if mode == 'train' else pretrained_model)
     trainer = create_trainer(
         model,
         dataset=dataset,
@@ -197,11 +199,11 @@ def main(
     if mode == "train" or mode == "finetune":
         print("Training...")
         trainer.train()
-        if not os.path.exists(model_path):
-            os.makedirs(model_path)
-        print(f"Saving model to {model_path}")
-        trainer.save_model(model_path)
-        print(f"Model saved at {model_path}")
+        if not os.path.exists(output_model_path):
+            os.makedirs(output_model_path)
+        print(f"Saving model to {output_model_path}")
+        trainer.save_model(output_model_path)
+        print(f"Model saved at {output_model_path}")
 
     elif mode == "predict":
         print("Creating predictions...")

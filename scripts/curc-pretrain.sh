@@ -19,4 +19,4 @@ module load anaconda
 # Run Python Script
 conda activate AutoIGT
 cd "/projects/migi8081/glosslm/src"
-python3 pretrain_multilingual_model.py --mode train --model_path ../models/pretrained_1
+python3 pretrain_multilingual_model.py --mode train --output_model_path ../models/pretrained_1
