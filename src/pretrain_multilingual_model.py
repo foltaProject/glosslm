@@ -150,7 +150,11 @@ def main(
 
     random.seed(0)
     if (mode == "train" or mode == "finetune") and not DEBUG:
-        wandb.init(project="glossLM", entity="wav2gloss", config={
+        run_name = "byt5-translation"
+        if mode == "finetune":
+            run_name += "ft-" + ft_glottocode
+        
+        wandb.init(project="glossLM", entity="wav2gloss", name=run_name, config={
             "model": pretrained_model,
             "segmentation_mode": "all", # "all", "segmented", "unsegmented"
             "translations": "yes", # "yes", "no", "yes_bert"
