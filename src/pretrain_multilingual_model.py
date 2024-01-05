@@ -165,7 +165,7 @@ def main(
     MODEL_INPUT_LENGTH = 1024
 
     tokenizer = transformers.ByT5Tokenizer.from_pretrained(
-        pretrained_model, use_fast=False
+        "google/byt5-base", use_fast=False
     )
     dataset = datasets.load_dataset('lecslab/glosslm-split')
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
