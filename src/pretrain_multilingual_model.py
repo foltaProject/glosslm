@@ -146,14 +146,12 @@ def main(
     assert (test_split is not None and pretrained_model is not None) if mode == "predict" else True
     assert (ft_glottocode is not None and pretrained_model is not None and output_model_path is not None) if mode == "finetune" else True
 
-    pretrained_model = "google/byt5-base"
-
     random.seed(0)
     if (mode == "train" or mode == "finetune") and not DEBUG:
         run_name = "byt5-translation"
         if mode == "finetune":
             run_name += "ft-" + ft_glottocode
-        
+
         wandb.init(project="glossLM", entity="wav2gloss", name=run_name, config={
             "model": pretrained_model,
             "segmentation_mode": "all", # "all", "segmented", "unsegmented"
@@ -188,7 +186,7 @@ def main(
     dataset["train_OOD"] = dataset["train_OOD"].shuffle()
 
     print(f"Loading model from {pretrained_model}")
-    model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model if mode == 'train' else pretrained_model)
+    model = transformers.T5ForConditionalGeneration.from_pretrained("google/byt5-base" if mode == 'train' else pretrained_model)
     trainer = create_trainer(
         model,
         dataset=dataset,
