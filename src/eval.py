@@ -146,7 +146,7 @@ def evaluate_igt(
     if segmented:
         pred_df = pred_df[pred_df["is_segmented"] == "yes"]
     else:
-        pred_df = pred_df[pred_df["is_segmented"] != "no"]
+        pred_df = pred_df[pred_df["is_segmented"] != "yes"]
     preds = pred_df["pred"]
 
     assert test_split in ["test_ID", "test_OOD"]
