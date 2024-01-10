@@ -111,7 +111,7 @@ def create_trainer(
         save_total_limit=3,
         num_train_epochs=max_epochs,
         predict_with_generate=True,
-        # load_best_model_at_end=True,
+        load_best_model_at_end=use_early_stopping,
         logging_steps=100,
         generation_max_length=1024,
         generation_num_beams=3,
