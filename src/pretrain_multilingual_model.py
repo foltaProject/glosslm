@@ -140,6 +140,7 @@ def main(
     pretrained_model: str = None,
     test_split: str = None,
     ft_glottocode: str = None,
+    max_epochs: int = 10,
 ):
     assert mode in ["train", "predict", "finetune"]
     assert (output_model_path is not None) if mode == "train" else True
@@ -193,8 +194,8 @@ def main(
         tokenizer=tokenizer,
         batch_size=2,
         lr=5e-5,
-        max_epochs=10,
-        use_early_stopping=(mode == "train"),
+        max_epochs=max_epochs,
+        use_early_stopping=(mode == "finetune"),
         id_or_ood=id_or_ood,
     )
 

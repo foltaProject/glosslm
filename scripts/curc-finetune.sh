@@ -19,9 +19,9 @@ module load anaconda
 # Run Python Script
 conda activate AutoIGT
 cd "/projects/migi8081/glosslm/src"
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode arap1274 --output_model_path ../models/finetuned-arp --pretrained_model lecslab/byt5-translation-all
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode dido1241 --output_model_path ../models/finetuned-ddo --pretrained_model lecslab/byt5-translation-all
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode uspa1245 --output_model_path ../models/finetuned-usp --pretrained_model lecslab/byt5-translation-all
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode nyan1302 --output_model_path ../models/finetuned-nyb --pretrained_model lecslab/byt5-translation-all
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode natu1246 --output_model_path ../models/finetuned-ntu --pretrained_model lecslab/byt5-translation-all
-python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode lezg1247 --output_model_path ../models/finetuned-lez --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode arap1274 --output_model_path ../models/finetuned-arp --max_epochs 100 --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode dido1241 --output_model_path ../models/finetuned-ddo --max_epochs 100 --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode uspa1245 --output_model_path ../models/finetuned-usp --max_epochs 100 --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode nyan1302 --output_model_path ../models/finetuned-nyb --max_epochs 100 --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode natu1246 --output_model_path ../models/finetuned-ntu --max_epochs 100 --pretrained_model lecslab/byt5-translation-all
+python3 pretrain_multilingual_model.py --mode finetune --ft_glottocode lezg1247 --output_model_path ../models/finetuned-lez --max_epochs 100 --pretrained_model lecslab/byt5-translation-all
