@@ -223,7 +223,7 @@ def main(
             "is_segmented": dataset[test_split]["is_segmented"],
             "pred": preds,
         })
-        preds_df.to_csv(f"{test_split}-preds.csv", index=False)
+        preds_df.to_csv(f"{ft_glottocode}-{test_split}-preds.csv", index=False)
         print(f"Predictions for {test_split} data saved to {test_split}-preds.csv")
 
 
