@@ -177,6 +177,7 @@ def main(
         dataset = dataset.filter(lambda row: row["glottocode"] == ft_glottocode)
         if dataset['eval_ID'].num_rows == 0 and dataset['eval_OOD'].num_rows != 0:
             id_or_ood = "OOD"
+        max_epochs = 100
 
     dataset = dataset.map(create_prompt)
     dataset = dataset.map(
@@ -195,7 +196,7 @@ def main(
         batch_size=2,
         lr=5e-5,
         max_epochs=max_epochs,
-        use_early_stopping=(mode == "finetune"),
+        use_early_stopping=False, # (mode == "finetune"),
         id_or_ood=id_or_ood,
     )
 
