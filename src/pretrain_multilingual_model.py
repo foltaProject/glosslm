@@ -117,6 +117,7 @@ def create_trainer(
         generation_max_length=1024,
         generation_num_beams=3,
         report_to="wandb",
+        metric_for_best_model="chrf++"
         # tf32=True,
     )
 
@@ -131,7 +132,7 @@ def create_trainer(
         eval_dataset=dataset[f"eval_{id_or_ood}"],
         compute_metrics=compute_metrics(tokenizer),
         tokenizer=tokenizer,
-        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=3)] if use_early_stopping else []
+        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=10)] if use_early_stopping else []
     )
 
 
@@ -207,7 +208,7 @@ def main(
         batch_size=2,
         lr=5e-5,
         max_epochs=max_epochs,
-        use_early_stopping=False, # (mode == "finetune"),
+        use_early_stopping=(mode == "finetune"),
         id_or_ood=id_or_ood,
     )
 
