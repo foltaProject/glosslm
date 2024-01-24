@@ -8,6 +8,7 @@ import json
 import os
 import pandas as pd
 import re
+from jiwer import wer
 from typing import List
 
 import click
@@ -100,6 +101,20 @@ def eval_stems_grams(pred: List[List[str]], gold: List[List[str]]) -> dict:
     return {"stem": stem_perf, "gram": gram_perf}
 
 
+def eval_error_rate(pred: List[str], gold: List[str]) -> float:
+    prediction = ' '.join(pred)
+    reference = ' '.join(gold)
+    return wer(reference, prediction)
+
+
+def eval_avg_error_rate(pred: List[List[str]], gold: List[List[str]]) -> float:
+    total_error_rate = 0
+    for (sample_pred, sample_gold) in zip(pred, gold):
+        total_error_rate += eval_error_rate(sample_pred, sample_gold)
+    avg_error_rate = total_error_rate / len(pred)
+    return avg_error_rate
+
+
 def eval_morpheme_glosses(
     pred_morphemes: List[List[str]], gold_morphemes: List[List[str]]
 ):
@@ -107,14 +122,16 @@ def eval_morpheme_glosses(
     morpheme_eval = eval_accuracy(pred_morphemes, gold_morphemes)
     class_eval = eval_stems_grams(pred_morphemes, gold_morphemes)
     bleu = bleu_score(pred_morphemes, [[line] for line in gold_morphemes])
-    return {"morpheme_level": morpheme_eval, "classes": class_eval, "bleu": bleu}
+    mer = eval_avg_error_rate(pred_morphemes, gold_morphemes)
+    return {"morpheme_level": morpheme_eval, "classes": class_eval, "bleu": bleu, "MER": mer}
 
 
 def eval_word_glosses(pred_words: List[List[str]], gold_words: List[List[str]]):
     """Evaluates the performance at the morpheme level"""
     word_eval = eval_accuracy(pred_words, gold_words)
     bleu = bleu_score(pred_words, [[line] for line in gold_words])
-    return {"word_level": word_eval, "bleu": bleu}
+    wer = eval_avg_error_rate(pred_words, gold_words)
+    return {"word_level": word_eval, "bleu": bleu, "WER": wer}
 
 
 def evaluate_igt(
@@ -128,13 +145,15 @@ def evaluate_igt(
     def _eval(preds: List[str], gold: List[str]):
         pred_words = [str(pred).split() for pred in preds]
         gold_words = [gloss.split() for gloss in gold]
-        word_eval = eval_accuracy(pred_words, gold_words)
+        # word_eval = eval_accuracy(pred_words, gold_words)
 
         pred_morphemes = [re.split(r"\s|-", str(pred)) for pred in preds]
         gold_morphemes = [re.split(r"\s|-", gloss) for gloss in gold]
 
         eval_dict = {
-            "word_level": word_eval,
+            **eval_word_glosses(
+                pred_words=pred_words, gold_words=gold_words
+            ),
             **eval_morpheme_glosses(
                 pred_morphemes=pred_morphemes, gold_morphemes=gold_morphemes
             ),

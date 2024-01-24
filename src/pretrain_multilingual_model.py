@@ -11,6 +11,7 @@ import random
 from compute_metrics import compute_metrics
 
 DEBUG = False
+EXCLUDE_ST_SEG = True
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 print(device)
@@ -149,7 +150,7 @@ def main(
 
     random.seed(0)
     if (mode == "train" or mode == "finetune") and not DEBUG:
-        run_name = "byt5-translation"
+        run_name = "byt5-translation-all_st_unseg"
         if mode == "finetune":
             run_name += "ft-" + ft_glottocode
 
@@ -170,6 +171,16 @@ def main(
     )
     dataset = datasets.load_dataset('lecslab/glosslm-split')
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
+
+    # filtering out the shared task segmented data for comparison
+    # set EXCLUDE_ST_SEG to False if we want to include everything
+    if mode == "train" and EXCLUDE_ST_SEG:
+        print("excluding segmented shared task data")
+        dataset_st = dataset.filter(lambda x: x["source"] == "sigmorphon_st")
+        dataset_st_unseg = dataset_st.filter(lambda x: x["is_segmented"] == "no")
+        dataset_no_st = dataset.filter(lambda x: x["source"] != "sigmorphon_st")
+        dataset["train"] = datasets.concatenate_datasets([dataset_no_st["train"], dataset_st_unseg["train"]])
+        print(dataset["train"])
 
     # If finetuning, we may need to switch to using the OOD data splits
     id_or_ood = "ID"
