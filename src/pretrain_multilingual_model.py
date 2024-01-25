@@ -170,7 +170,7 @@ def main(
     tokenizer = transformers.ByT5Tokenizer.from_pretrained(
         "google/byt5-base", use_fast=False
     )
-    dataset = datasets.load_dataset('lecslab/glosslm-split')
+    dataset = datasets.load_dataset('lecslab/glosslm-split', download_mode='force_redownload')
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
 
     # filtering out the shared task segmented data for comparison
