@@ -109,7 +109,7 @@ def create_trainer(
         # gradient_checkpointing=True,
         weight_decay=0.01,
         save_strategy="epoch",
-        save_total_limit=3,
+        save_total_limit=10 if use_early_stopping else 3,
         num_train_epochs=max_epochs,
         predict_with_generate=True,
         load_best_model_at_end=use_early_stopping,
