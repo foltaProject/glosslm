@@ -8,7 +8,7 @@
 #SBATCH --partition=blanca-curc-gpu
 #SBATCH --account=blanca-curc-gpu
 #SBATCH --out=train_glosslm.%j.out      # Output file name
-#SBATCH --error_train_glosslm.%j.err
+#SBATCH --error=train_glosslm.%j.err
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=michael.ginn@colorado.edu
 
