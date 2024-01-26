@@ -11,7 +11,7 @@ import random
 from compute_metrics import compute_metrics
 
 DEBUG = False
-EXCLUDE_ST_SEG = True
+EXCLUDE_ST_SEG = False
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 print(device)
@@ -142,7 +142,7 @@ def main(
     pretrained_model: str = None,
     test_split: str = None,
     ft_glottocode: str = None,
-    max_epochs: int = 10,
+    max_epochs: int = 15,
 ):
     assert mode in ["train", "predict", "finetune"]
     assert (output_model_path is not None) if mode == "train" else True
@@ -151,7 +151,7 @@ def main(
 
     random.seed(0)
     if (mode == "train" or mode == "finetune") and not DEBUG:
-        run_name = "byt5-translation-all_st_unseg"
+        run_name = "byt5-translation-all-v2"
         if mode == "finetune":
             run_name += "ft-" + ft_glottocode
 
@@ -170,6 +170,7 @@ def main(
     tokenizer = transformers.ByT5Tokenizer.from_pretrained(
         "google/byt5-base", use_fast=False
     )
+    # dataset = datasets.load_dataset('lecslab/glosslm-split', download_mode='force_redownload')
     dataset = datasets.load_dataset('lecslab/glosslm-split')
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
 
@@ -181,7 +182,6 @@ def main(
         dataset_st_unseg = dataset_st.filter(lambda x: x["is_segmented"] == "no")
         dataset_no_st = dataset.filter(lambda x: x["source"] != "sigmorphon_st")
         dataset["train"] = datasets.concatenate_datasets([dataset_no_st["train"], dataset_st_unseg["train"]])
-        print(dataset["train"])
 
     # If finetuning, we may need to switch to using the OOD data splits
     id_or_ood = "ID"
@@ -196,6 +196,7 @@ def main(
         tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
     )
 
+    print(dataset["train"])
     dataset["train"] = dataset["train"].shuffle()
     dataset["train_OOD"] = dataset["train_OOD"].shuffle()
 
@@ -235,6 +236,7 @@ def main(
             "glottocode": dataset[test_split]["glottocode"],
             "is_segmented": dataset[test_split]["is_segmented"],
             "pred": preds,
+            "gold": dataset[test_split]["glosses"],
         })
         preds_df.to_csv(f"{ft_glottocode}-{test_split}-preds.csv", index=False)
         print(f"Predictions for {test_split} data saved to {test_split}-preds.csv")
