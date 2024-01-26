@@ -1,3 +1,6 @@
 [submodule "imtvault"]
 	path = imtvault
 	url = https://github.com/cldf-datasets/imtvault.git
+[submodule "data/apics"]
+	path = data/apics
+	url = https://github.com/cldf-datasets/apics.git
