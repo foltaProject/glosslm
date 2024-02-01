@@ -11,7 +11,6 @@ import random
 from compute_metrics import compute_metrics
 
 DEBUG = False
-EXCLUDE_ST_SEG = False
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 print(device)
@@ -78,6 +77,8 @@ class DelayedEarlyStoppingCallback(transformers.EarlyStoppingCallback):
 
 def create_trainer(
     model,
+    output_dir,
+    checkpoint_path,
     dataset,
     tokenizer,
     batch_size,
@@ -98,8 +99,9 @@ def create_trainer(
     )
     lr_scheduler = transformers.optimization.AdafactorSchedule(optimizer)
 
+    print(f"checkpoints saving to {output_dir}")
     args = transformers.Seq2SeqTrainingArguments(
-        output_dir="training-checkpoints",
+        output_dir=output_dir,
         evaluation_strategy="epoch",
         learning_rate=lr,
         per_device_train_batch_size=batch_size,
@@ -117,7 +119,7 @@ def create_trainer(
         generation_max_length=1024,
         generation_num_beams=3,
         report_to="wandb",
-        metric_for_best_model="chrf++"
+        metric_for_best_model="chrf++",
         # tf32=True,
     )
 
@@ -138,11 +140,14 @@ def create_trainer(
 
 def main(
     mode: str,
+    exp_name: str,
     output_model_path: str = None,
+    checkpoint_path: str = None,
     pretrained_model: str = None,
     test_split: str = None,
     ft_glottocode: str = None,
-    max_epochs: int = 15,
+    max_epochs: int = 13,
+    exclude_st_seg: bool = False,
 ):
     assert mode in ["train", "predict", "finetune"]
     assert (output_model_path is not None) if mode == "train" else True
@@ -151,7 +156,7 @@ def main(
 
     random.seed(0)
     if (mode == "train" or mode == "finetune") and not DEBUG:
-        run_name = "byt5-translation-all-v2"
+        run_name = exp_name
         if mode == "finetune":
             run_name += "ft-" + ft_glottocode
 
@@ -170,12 +175,11 @@ def main(
     tokenizer = transformers.ByT5Tokenizer.from_pretrained(
         "google/byt5-base", use_fast=False
     )
-    dataset = datasets.load_dataset('lecslab/glosslm-split', download_mode='force_redownload')
+    dataset = datasets.load_dataset('lecslab/glosslm-split')
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
 
     # filtering out the shared task segmented data for comparison
-    # set EXCLUDE_ST_SEG to False if we want to include everything
-    if mode == "train" and EXCLUDE_ST_SEG:
+    if mode == "train" and exclude_st_seg:
         print("excluding segmented shared task data")
         dataset_st = dataset.filter(lambda x: x["source"] == "sigmorphon_st")
         dataset_st_unseg = dataset_st.filter(lambda x: x["is_segmented"] == "no")
@@ -199,10 +203,15 @@ def main(
     dataset["train"] = dataset["train"].shuffle()
     dataset["train_OOD"] = dataset["train_OOD"].shuffle()
 
+    if mode == "train":
+        pretrained_model = "google/byt5-base"
     print(f"Loading model from {pretrained_model}")
-    model = transformers.T5ForConditionalGeneration.from_pretrained("google/byt5-base" if mode == 'train' else pretrained_model)
+    model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model)
+    if not os.path.exists(f"training-checkpoints/{exp_name}"):
+        os.makedirs(f"training-checkpoints/{exp_name}")
     trainer = create_trainer(
         model,
+        output_dir=f"training-checkpoints/{exp_name}",
         dataset=dataset,
         tokenizer=tokenizer,
         batch_size=2,
@@ -210,11 +219,12 @@ def main(
         max_epochs=max_epochs,
         use_early_stopping=(mode == "finetune"),
         id_or_ood=id_or_ood,
+        checkpoint_path=checkpoint_path,
     )
 
     if mode == "train" or mode == "finetune":
         print("Training...")
-        trainer.train()
+        trainer.train(checkpoint_path)
         if not os.path.exists(output_model_path):
             os.makedirs(output_model_path)
         print(f"Saving model to {output_model_path}")
