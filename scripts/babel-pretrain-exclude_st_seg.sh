@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --job-name=glosslm-all-v2
-#SBATCH --output ./slurm-out/byt5-translation-all-v2-%j.out
+#SBATCH --job-name=glosslm-all_st_unseg-v2
+#SBATCH --output ./slurm-out/byt5-translation-all_st_unseg-v2-%j.out
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:6000Ada:1
 #SBATCH --mem=96GB
@@ -15,8 +15,8 @@ conda activate text2gloss
 
 model_dir="/data/tir/projects/tir6/general/ltjuatja/glosslm/"
 # checkpoint_path="/home/ltjuatja/glosslm/src/training-checkpoints/checkpoint-31474"
-exp_name="2_1-byt5-translation-all-v2"
-exclude_st_seg="False"
+exp_name="2_1-byt5-translation-all_st_unseg-v2"
+exclude_st_seg="True"
 
 echo $exp_name
 echo $exclude_st_seg
