@@ -15,6 +15,11 @@ import click
 from torchtext.data.metrics import bleu_score
 
 
+def strip_gloss_punctuation(glosses: str):
+    """Strips any punctuation from gloss string (assuming it is surrounded by spaces)"""
+    return re.sub(r"(\s|^)[^\w\s](\s|$)", " ", glosses).strip()
+
+
 def eval_accuracy(pred: List[List[str]], gold: List[List[str]]) -> dict:
     """Computes the average and overall accuracy, where predicted labels must be
     in the correct position in the list."""
@@ -143,6 +148,9 @@ def evaluate_igt(
     """Performs evaluation of a predicted IGT file"""
 
     def _eval(preds: List[str], gold: List[str]):
+        preds = [strip_gloss_punctuation(pred) for pred in preds]
+        gold = [strip_gloss_punctuation(g) for g in gold]
+        
         pred_words = [str(pred).split() for pred in preds]
         gold_words = [gloss.split() for gloss in gold]
         # word_eval = eval_accuracy(pred_words, gold_words)

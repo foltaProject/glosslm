@@ -9,6 +9,7 @@ import transformers
 import wandb
 import random
 from compute_metrics import compute_metrics
+from eval import strip_gloss_punctuation
 
 DEBUG = False
 
@@ -121,6 +122,7 @@ def create_trainer(
         report_to="wandb",
         metric_for_best_model="chrf++",
         # tf32=True,
+
     )
 
     return transformers.Seq2SeqTrainer(
@@ -134,7 +136,7 @@ def create_trainer(
         eval_dataset=dataset[f"eval_{id_or_ood}"],
         compute_metrics=compute_metrics(tokenizer),
         tokenizer=tokenizer,
-        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=10)] if use_early_stopping else []
+        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=10)] if use_early_stopping else [],
     )
 
 
@@ -158,7 +160,7 @@ def main(
     if (mode == "train" or mode == "finetune") and not DEBUG:
         run_name = exp_name
         if mode == "finetune":
-            run_name += "ft-" + ft_glottocode
+            run_name += "-ft-" + ft_glottocode
 
         wandb.init(project="glossLM", entity="wav2gloss", name=run_name, config={
             "model": pretrained_model,
@@ -240,6 +242,8 @@ def main(
         preds = trainer.predict(dataset[test_split])
         labels = np.where(preds.predictions != -100, preds.predictions, tokenizer.pad_token_id)
         preds = tokenizer.batch_decode(labels, skip_special_tokens=True)
+        preds = [strip_gloss_punctuation(pred) for pred in preds]
+
         preds_df = pd.DataFrame({
             "ID": dataset[test_split]["ID"],
             "glottocode": dataset[test_split]["glottocode"],
