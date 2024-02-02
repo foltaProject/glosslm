@@ -182,14 +182,14 @@ def evaluate_igt(
         dataset = dataset.filter(lambda x: x["is_segmented"] == "yes")
     else:
         dataset = dataset.filter(lambda x: x["is_segmented"] != "no")
-    assert pred_df["ID"].tolist() == dataset["ID"]
+    assert pred_df["id"].tolist() == dataset["ID"]
     gold = dataset["glosses"]
     all_eval["all"] = _eval(preds, gold)
 
     for lang in pred_df["glottocode"].unique():
         lang_dataset = dataset.filter(lambda x: x["glottocode"] == lang)
         lang_preds = pred_df[pred_df["glottocode"] == lang]
-        assert lang_preds["ID"].tolist() == lang_dataset["ID"]
+        assert lang_preds["id"].tolist() == lang_dataset["ID"]
         preds = lang_preds["pred"]
         gold = lang_dataset["glosses"]
         all_eval[lang] = _eval(preds, gold)

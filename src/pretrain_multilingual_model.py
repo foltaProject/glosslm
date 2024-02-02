@@ -244,12 +244,14 @@ def main(
         preds = tokenizer.batch_decode(labels, skip_special_tokens=True)
         preds = [strip_gloss_punctuation(pred) for pred in preds]
 
+        gold = [strip_gloss_punctuation(g) for g in dataset[test_split]["glosses"]]
+
         preds_df = pd.DataFrame({
-            "ID": dataset[test_split]["ID"],
+            "id": dataset[test_split]["id"],
             "glottocode": dataset[test_split]["glottocode"],
             "is_segmented": dataset[test_split]["is_segmented"],
             "pred": preds,
-            "gold": dataset[test_split]["glosses"],
+            "gold": gold,
         })
         preds_df.to_csv(f"{ft_glottocode}-{test_split}-preds.csv", index=False)
         print(f"Predictions for {test_split} data saved to {test_split}-preds.csv")
