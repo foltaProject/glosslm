@@ -22,5 +22,5 @@ cd "/projects/migi8081/glosslm/src"
 
 for lang in arap1274 dido1241 uspa1245 nyan1302 natu1246 lezg1247
 do
-  python3 pretrain_multilingual_model.py --mode finetune --exp_name byt5-baseline-${lang} --ft_glottocode ${lang} --output_model_path ../models/byt5-baseline-${lang} --max_epochs 20 --pretrained_model
+  python3 pretrain_multilingual_model.py --mode finetune --exp_name byt5-baseline-${lang} --ft_glottocode ${lang} --output_model_path ../models/byt5-baseline-${lang} --max_epochs 20 --pretrained_model "google/byt5-base"
 done
