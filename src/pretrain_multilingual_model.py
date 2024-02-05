@@ -63,7 +63,7 @@ def tokenize(tokenizer: transformers.ByT5Tokenizer, max_length: int):
 
 
 class DelayedEarlyStoppingCallback(transformers.EarlyStoppingCallback):
-    def __init__(self, *args, start_epoch=1, **kwargs):
+    def __init__(self, *args, start_epoch=15, **kwargs):
         super().__init__(*args, **kwargs)
         self.start_epoch = start_epoch
 
@@ -136,7 +136,7 @@ def create_trainer(
         eval_dataset=dataset[f"eval_{id_or_ood}"],
         compute_metrics=compute_metrics(tokenizer),
         tokenizer=tokenizer,
-        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=10)] if use_early_stopping else [],
+        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=3)] if use_early_stopping else [],
     )
 
 
