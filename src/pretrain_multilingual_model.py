@@ -226,6 +226,8 @@ def main(
 
     if mode == "train" or mode == "finetune":
         print("Training...")
+        if checkpoint_path is not None:
+            print(f"Continuing training from {checkpoint_path}")
         trainer.train(checkpoint_path)
         if not os.path.exists(output_model_path):
             os.makedirs(output_model_path)
@@ -234,9 +236,12 @@ def main(
         print(f"Model saved at {output_model_path}")
 
     elif mode == "predict":
+        if not os.path.exists(f"../preds/{exp_name}"):
+            os.makedirs(f"../preds/{exp_name}")
+
         print("Creating predictions...")
 
-        assert test_split in ['id', 'ood']
+        assert test_split in ['ID', 'OOD']
         test_split = "test_" + test_split.upper()
 
         preds = trainer.predict(dataset[test_split])
@@ -253,8 +258,8 @@ def main(
             "pred": preds,
             "gold": gold,
         })
-        preds_df.to_csv(f"{ft_glottocode}-{test_split}-preds.csv", index=False)
-        print(f"Predictions for {test_split} data saved to {test_split}-preds.csv")
+        preds_df.to_csv(f"../preds/{exp_name}/{ft_glottocode}-{test_split}-preds.csv", index=False)
+        print(f"Predictions for {test_split} data saved to preds/{exp_name}/{test_split}-preds.csv")
 
 
 if __name__ == "__main__":
