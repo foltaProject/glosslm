@@ -158,10 +158,7 @@ def main(
 
     random.seed(0)
     if (mode == "train" or mode == "finetune") and not DEBUG:
-        if exp_name is not None:
-            run_name = exp_name
-        else:
-            run_name = "byt5-translation"
+        run_name = exp_name
         if mode == "finetune":
             run_name += "-ft-" + ft_glottocode
 
@@ -239,7 +236,6 @@ def main(
         print(f"Model saved at {output_model_path}")
 
     elif mode == "predict":
-        assert exp_name is not None, "exp_name must be provided"
         if not os.path.exists(f"../preds/{exp_name}"):
             os.makedirs(f"../preds/{exp_name}")
 
