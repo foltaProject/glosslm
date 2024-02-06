@@ -236,6 +236,7 @@ def main(
         print(f"Model saved at {output_model_path}")
 
     elif mode == "predict":
+        assert exp_name is not None, "exp_name must be provided"
         if not os.path.exists(f"../preds/{exp_name}"):
             os.makedirs(f"../preds/{exp_name}")
 
