@@ -158,7 +158,10 @@ def main(
 
     random.seed(0)
     if (mode == "train" or mode == "finetune") and not DEBUG:
-        run_name = exp_name
+        if exp_name is not None:
+            run_name = exp_name
+        else:
+            run_name = "byt5-translation"
         if mode == "finetune":
             run_name += "-ft-" + ft_glottocode
 
