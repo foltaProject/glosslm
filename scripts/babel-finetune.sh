@@ -1,23 +1,23 @@
 #!/bin/bash
-#SBATCH --job-name=nyb-all-finetune
-#SBATCH --output ./slurm-out/nyb-finetune-byt5-translation-all-v2-%j.out
+#SBATCH --job-name=ntu-all-finetune
+#SBATCH --output ./slurm-out/ntu-finetune-byt5-translation-all-v2-%j.out
 #SBATCH --nodes=1
-#SBATCH --gres=gpu:6000Ada:1
+#SBATCH --gres=gpu:A100_80GB:1
 #SBATCH --mem=96GB
-#SBATCH --time=5-00:00:00
+#SBATCH --time=2-00:00:00
 #SBATCH --mail-user=lindiat@andrew.cmu.edu
 #SBATCH --mail-type=END,FAIL
-#SBATCH --partition=long
+#SBATCH --partition=general
 
 source ~/.bashrc
 conda init bash
 conda activate text2gloss
 
-# ft_glottocode="natu1246"
-# lang_code="ntu"
+ft_glottocode="natu1246"
+lang_code="ntu"
 
-ft_glottocode="nyan1302"
-lang_code="nyb"
+# ft_glottocode="nyan1302"
+# lang_code="nyb"
 
 model_dir="/data/tir/projects/tir6/general/ltjuatja/glosslm/"
 

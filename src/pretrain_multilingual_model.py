@@ -18,6 +18,19 @@ print(device)
 # torch.backends.cuda.matmul.allow_tf32 = True
 
 
+def get_lang(glottocode):
+    lang_map = {
+        "arap127": "arp",
+        "gitx1241": "git",
+        "dido1241": "ddo",
+        "uspa1245": "usp",
+        "nyan1302": "nyb",
+        "natu1246": "ntu",
+        "lezg1247": "lez",
+    }
+    return lang_map[glottocode]
+
+
 def create_prompt(row):
     """Processing function for rows in the dataset, creates an input prompt from the fields in the row."""
     transcription = ' '.join((row['transcription']).split())
@@ -244,6 +257,14 @@ def main(
         assert test_split in ['ID', 'OOD']
         test_split = "test_" + test_split.upper()
 
+        pred_path = f"../preds/{exp_name}/{test_split}-preds.csv"
+
+        # only generate preds for finetuning lang if specified
+        if ft_glottocode is not None:
+            dataset = dataset.filter(lambda row: row["glottocode"] == ft_glottocode)
+            lang = get_lang(ft_glottocode)
+            pred_path = f"../preds/{lang}-{exp_name}/{test_split}-preds.csv"
+
         preds = trainer.predict(dataset[test_split])
         labels = np.where(preds.predictions != -100, preds.predictions, tokenizer.pad_token_id)
         preds = tokenizer.batch_decode(labels, skip_special_tokens=True)
@@ -258,8 +279,9 @@ def main(
             "pred": preds,
             "gold": gold,
         })
-        preds_df.to_csv(f"../preds/{exp_name}/{test_split}-preds.csv", index=False)
-        print(f"Predictions for {test_split} data saved to preds/{exp_name}/{test_split}-preds.csv")
+
+        preds_df.to_csv(pred_path, index=False)
+        print(f"Predictions for {test_split} data saved to {pred_path}")
 
 
 if __name__ == "__main__":

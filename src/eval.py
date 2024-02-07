@@ -142,6 +142,7 @@ def eval_word_glosses(pred_words: List[List[str]], gold_words: List[List[str]]):
 def evaluate_igt(
     pred_path: str,
     test_split: str,
+    ft_glottocode: str = None,
     segmented: bool = True,
     verbose=True
 ):
@@ -150,7 +151,6 @@ def evaluate_igt(
     def _eval(preds: List[str], gold: List[str]):
         preds = [strip_gloss_punctuation(pred) for pred in preds]
         gold = [strip_gloss_punctuation(g) for g in gold]
-        
         pred_words = [str(pred).split() for pred in preds]
         gold_words = [gloss.split() for gloss in gold]
         # word_eval = eval_accuracy(pred_words, gold_words)
@@ -182,9 +182,10 @@ def evaluate_igt(
         dataset = dataset.filter(lambda x: x["is_segmented"] == "yes")
     else:
         dataset = dataset.filter(lambda x: x["is_segmented"] != "no")
-    assert pred_df["id"].tolist() == dataset["id"]
-    gold = dataset["glosses"]
-    all_eval["all"] = _eval(preds, gold)
+    if ft_glottocode is None:
+        assert pred_df["id"].tolist() == dataset["id"]
+        gold = dataset["glosses"]
+        all_eval["all"] = _eval(preds, gold)
 
     for lang in pred_df["glottocode"].unique():
         lang_dataset = dataset.filter(lambda x: x["glottocode"] == lang)
@@ -222,9 +223,15 @@ def evaluate_igt(
     type=str,
     required=True,
 )
-def main(pred: str, test_split: str):
-    evaluate_igt(pred, test_split, segmented=True)
-    evaluate_igt(pred, test_split, segmented=False)
+@click.option(
+    "--ft_glottocode",
+    help="Glottode of finetuning language",
+    type=str,
+    required=False,
+)
+def main(pred: str, test_split: str, ft_glottocode):
+    evaluate_igt(pred, test_split, segmented=True, ft_glottocode=ft_glottocode)
+    evaluate_igt(pred, test_split, segmented=False, ft_glottocode=ft_glottocode)
 
 
 if __name__ == "__main__":
