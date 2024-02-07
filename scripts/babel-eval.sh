@@ -1,9 +1,9 @@
 #!/bin/bash
 #SBATCH --job-name=pred-gloss-lm
-#SBATCH --output ./slurm-out/pred-byt5-translation-all-v2-%j.out
+#SBATCH --output ./slurm-out/pred-byt5-translation-all_st_unseg-v2-%j.out
 #SBATCH --nodes=1
-#SBATCH --gres=gpu:A6000:1
 #SBATCH --mem=48GB
+#SBATCH --gres=gpu:A6000:1
 #SBATCH --time=6:00:00
 #SBATCH --mail-user=lindiat@andrew.cmu.edu
 #SBATCH --partition=general
@@ -12,7 +12,7 @@ source ~/.bashrc
 conda init bash
 conda activate text2gloss
 
-exp_name="byt5-translation-all-v2"
+exp_name="byt5-translation-all_st_unseg-v2"
 pretrained_model="/data/tir/projects/tir6/general/ltjuatja/glosslm/${exp_name}/"
 
 cd "./src"
@@ -24,6 +24,6 @@ do
         --pretrained_model ${pretrained_model} \
         --test_split ${test_split}
     python3 eval.py \
-        --pred ../preds/${exp_name}/test_${test_split}-preds.csv
+        --pred ../preds/${exp_name}/test_${test_split}-preds.csv \
         --test_split test_${test_split}
 done
