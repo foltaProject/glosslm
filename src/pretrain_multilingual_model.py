@@ -258,7 +258,7 @@ def main(
             "pred": preds,
             "gold": gold,
         })
-        preds_df.to_csv(f"../preds/{exp_name}/{ft_glottocode}-{test_split}-preds.csv", index=False)
+        preds_df.to_csv(f"../preds/{exp_name}/{test_split}-preds.csv", index=False)
         print(f"Predictions for {test_split} data saved to preds/{exp_name}/{test_split}-preds.csv")
 
 
