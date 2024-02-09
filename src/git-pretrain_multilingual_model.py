@@ -123,7 +123,7 @@ def create_trainer(
         eval_accumulation_steps=10,
         gradient_accumulation_steps=64,
         # gradient_checkpointing=True,
-        weight_decay=0.01,
+        # weight_decay=0.01,
         save_strategy="epoch",
         save_total_limit=10 if use_early_stopping else 3,
         num_train_epochs=max_epochs,
@@ -149,7 +149,7 @@ def create_trainer(
         eval_dataset=dataset[f"eval_{id_or_ood}"],
         compute_metrics=compute_metrics(tokenizer),
         tokenizer=tokenizer,
-        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=3)] if use_early_stopping else [],
+        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=15)] if use_early_stopping else [],
     )
 
 
@@ -163,7 +163,6 @@ def main(
     ft_glottocode: str = None,
     max_epochs: int = 13,
     exclude_st_seg: bool = False,
-    checkpoint_save_dir: str = "training_checkpoints/",
 ):
     assert mode in ["train", "predict", "finetune"]
     assert (output_model_path is not None) if mode == "train" else True
@@ -206,12 +205,9 @@ def main(
     id_or_ood = "ID"
     if mode == "finetune":
         dataset = dataset.filter(lambda row: row["glottocode"] == ft_glottocode)
-        if exclude_st_seg:
-            print("excluding segmented shared task data")
-            dataset = dataset.filter(lambda row: row["is_segmented"] == "no")
         if dataset['eval_ID'].num_rows == 0 and dataset['eval_OOD'].num_rows != 0:
             id_or_ood = "OOD"
-        max_epochs = 100
+        max_epochs = 500
 
     dataset = dataset.map(create_prompt)
     dataset = dataset.map(
@@ -226,18 +222,18 @@ def main(
         pretrained_model = "google/byt5-base"
     print(f"Loading model from {pretrained_model}")
     model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model)
-    output_dir = os.path.join(checkpoint_save_dir, exp_name)
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    if not os.path.exists(f"training-checkpoints/{exp_name}"):
+        os.makedirs(f"training-checkpoints/{exp_name}")
     trainer = create_trainer(
         model,
-        output_dir=output_dir,
+        output_dir=f"training-checkpoints/{exp_name}",
         dataset=dataset,
         tokenizer=tokenizer,
         batch_size=2,
         lr=5e-5,
         max_epochs=max_epochs,
-        use_early_stopping=(mode == "finetune"),
+        # use_early_stopping=(mode == "finetune"),
+        use_early_stopping=False,
         id_or_ood=id_or_ood,
         checkpoint_path=checkpoint_path,
     )
