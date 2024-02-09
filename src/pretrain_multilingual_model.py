@@ -288,6 +288,22 @@ def main(
         })
 
         preds_df.to_csv(pred_path, index=False)
+
+        def clean_preds(preds):
+            corrected_preds = preds.replace('\.$', '', regex=True)
+            corrected_preds = corrected_preds.replace('\,', '', regex=True)
+            corrected_preds = corrected_preds.replace('»', '', regex=True)
+            corrected_preds = corrected_preds.replace('«', '', regex=True)
+            corrected_preds = corrected_preds.replace('\"', '', regex=True)
+            corrected_preds = corrected_preds.replace('\. ', ' ', regex=True)
+            corrected_preds = corrected_preds.replace('\.\.+', '', regex=True)
+            corrected_preds = corrected_preds.replace('\ +', ' ', regex=True)
+            return corrected_preds
+
+        preds_df['pred'] = clean_preds(preds_df['pred'])
+        preds_df['gold'] = clean_preds(preds_df['gold'])
+        preds_df.to_csv(pred_path[:-4] + '.postprocessed.csv', index=False)
+
         print(f"Predictions for {test_split} data saved to {pred_path}")
 
 

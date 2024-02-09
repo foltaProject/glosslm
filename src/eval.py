@@ -170,36 +170,33 @@ def evaluate_igt(
 
     all_eval = {}
     pred_df = pd.read_csv(pred_path).fillna('')
-    if segmented:
-        pred_df = pred_df[pred_df["is_segmented"] == "yes"]
-    else:
-        pred_df = pred_df[pred_df["is_segmented"] != "yes"]
-    preds = pred_df["pred"]
+    pred_df = pred_df[pred_df["is_segmented"] == ("yes" if segmented else "no") ]
+
+    if len(pred_df) == 0:
+        return {}
 
     assert test_split in ["test_ID", "test_OOD"]
-    dataset = datasets.load_dataset('lecslab/glosslm-split', split=test_split)
-    if segmented:
-        dataset = dataset.filter(lambda x: x["is_segmented"] == "yes")
-    else:
-        dataset = dataset.filter(lambda x: x["is_segmented"] != "no")
+    # dataset = datasets.load_dataset('lecslab/glosslm-split', split=test_split)
+    # if segmented:
+    #     dataset = dataset.filter(lambda x: x["is_segmented"] == "yes")
+    # else:
+    #     dataset = dataset.filter(lambda x: x["is_segmented"] != "no")
+
     if ft_glottocode is None:
-        assert pred_df["id"].tolist() == dataset["id"]
-        gold = dataset["glosses"]
-        all_eval["all"] = _eval(preds, gold)
+        # assert pred_df["id"].tolist() == dataset["id"]
+        # gold = dataset["glosses"]
+        all_eval["all"] = _eval(pred_df["pred"], pred_df["gold"])
 
     for lang in pred_df["glottocode"].unique():
-        lang_dataset = dataset.filter(lambda x: x["glottocode"] == lang)
+        # lang_dataset = dataset.filter(lambda x: x["glottocode"] == lang)
         lang_preds = pred_df[pred_df["glottocode"] == lang]
-        assert lang_preds["id"].tolist() == lang_dataset["id"]
-        preds = lang_preds["pred"]
-        gold = lang_dataset["glosses"]
-        all_eval[lang] = _eval(preds, gold)
+        # assert lang_preds["id"].tolist() == lang_dataset["id"]
+        # preds = lang_preds["pred"]
+        # gold = lang_dataset["glosses"]
+        all_eval[lang] = _eval(lang_preds["pred"], lang_preds["gold"])
 
     results_dir = os.path.dirname(pred_path)
-    if segmented:
-        results_path = f"{results_dir}/{test_split}-segmented.json"
-    else:
-        results_path = f"{results_dir}/{test_split}-unsegmented.json"
+    results_path = f"{results_dir}/{test_split}-{'segmented' if segmented else 'unsegmented'}.json"
     with open(results_path, 'x') as outfile:
         json.dump(all_eval, outfile, sort_keys=True, indent=4)
 
