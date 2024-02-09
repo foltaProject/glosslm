@@ -20,7 +20,12 @@ module load anaconda
 conda activate AutoIGT
 cd "/projects/migi8081/glosslm/src"
 
-for glottocode in arap1274 dido1241 uspa1245 nyan1302 natu1246 lezg1247
+for glottocode in arap1274 dido1241 uspa1245
 do
-  python3 pretrain_multilingual_model.py --mode predict --pretrained_model /rc_scratch/migi8081/models/byt5-baseline-${glottocode} --test_split id --ft_glottocode $glottocode --exp_name predict-baseline-${glottocode}
+  python3 pretrain_multilingual_model.py --mode predict --pretrained_model /rc_scratch/migi8081/models/byt5-baseline-${glottocode} --test_split ID --ft_glottocode $glottocode --exp_name predict-baseline-${glottocode}
+done
+
+for glottocode in nyan1302 natu1246 lezg1247
+do
+  python3 pretrain_multilingual_model.py --mode predict --pretrained_model /rc_scratch/migi8081/models/byt5-baseline-${glottocode} --test_split OOD --ft_glottocode $glottocode --exp_name predict-baseline-${glottocode}
 done
