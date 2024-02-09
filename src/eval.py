@@ -169,7 +169,7 @@ def evaluate_igt(
         return eval_dict
 
     all_eval = {}
-    pred_df = pd.read_csv(pred_path)
+    pred_df = pd.read_csv(pred_path).fillna('')
     if segmented:
         pred_df = pred_df[pred_df["is_segmented"] == "yes"]
     else:
