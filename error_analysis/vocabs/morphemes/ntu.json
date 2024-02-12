@@ -1,0 +1,3941 @@
+{
+    "!\"": [
+        "!\""
+    ],
+    "!”": [
+        "!”"
+    ],
+    "\"": [
+        "\""
+    ],
+    "*glc": [
+        "shatter"
+    ],
+    "*plx": [
+        "go.through"
+    ],
+    ",": [
+        ","
+    ],
+    ".": [
+        "."
+    ],
+    ".\"": [
+        ".\""
+    ],
+    ".”": [
+        ".”"
+    ],
+    "02": [
+        "02"
+    ],
+    "04": [
+        "04"
+    ],
+    "05": [
+        "05"
+    ],
+    "07": [
+        "07"
+    ],
+    "08": [
+        "08"
+    ],
+    "09": [
+        "09"
+    ],
+    "10": [
+        "10"
+    ],
+    "12": [
+        "12"
+    ],
+    "14": [
+        "14"
+    ],
+    "15": [
+        "15"
+    ],
+    "16": [
+        "16"
+    ],
+    "17": [
+        "17"
+    ],
+    "1700": [
+        "1700"
+    ],
+    "18": [
+        "18"
+    ],
+    "1800": [
+        "1800"
+    ],
+    "19": [
+        "19"
+    ],
+    "1900": [
+        "1900"
+    ],
+    "1915": [
+        "1915"
+    ],
+    "1921": [
+        "1921"
+    ],
+    "1924": [
+        "1924"
+    ],
+    "1928": [
+        "1928"
+    ],
+    "1929": [
+        "1929"
+    ],
+    "1930": [
+        "1930"
+    ],
+    "1932": [
+        "1932"
+    ],
+    "1934": [
+        "1934"
+    ],
+    "1935": [
+        "1935"
+    ],
+    "1936": [
+        "1936"
+    ],
+    "1937": [
+        "1937"
+    ],
+    "1938": [
+        "1938"
+    ],
+    "1939": [
+        "1939"
+    ],
+    "1940": [
+        "1940"
+    ],
+    "1943": [
+        "1943"
+    ],
+    "1948": [
+        "1948"
+    ],
+    "1949": [
+        "1949"
+    ],
+    "1950": [
+        "1950"
+    ],
+    "1951": [
+        "1951"
+    ],
+    "1952": [
+        "1952"
+    ],
+    "1953": [
+        "1953"
+    ],
+    "1954": [
+        "1954"
+    ],
+    "1955": [
+        "1955"
+    ],
+    "1956": [
+        "1956"
+    ],
+    "1958": [
+        "1958"
+    ],
+    "1962": [
+        "1962"
+    ],
+    "1963": [
+        "1963"
+    ],
+    "1965": [
+        "1965"
+    ],
+    "1967": [
+        "1967"
+    ],
+    "1968": [
+        "1968"
+    ],
+    "1972": [
+        "1972"
+    ],
+    "1974": [
+        "1974"
+    ],
+    "1977": [
+        "1977"
+    ],
+    "1978": [
+        "1978"
+    ],
+    "1988": [
+        "1988"
+    ],
+    "1989": [
+        "1989"
+    ],
+    "1991": [
+        "1991"
+    ],
+    "1993": [
+        "1993"
+    ],
+    "1996": [
+        "1996"
+    ],
+    "20": [
+        "20"
+    ],
+    "2005": [
+        "2005"
+    ],
+    "2006": [
+        "2006"
+    ],
+    "2008": [
+        "2008"
+    ],
+    "23": [
+        "23"
+    ],
+    "26": [
+        "26"
+    ],
+    "27": [
+        "27"
+    ],
+    "29": [
+        "29"
+    ],
+    "32": [
+        "32"
+    ],
+    "33": [
+        "33"
+    ],
+    "34": [
+        "34"
+    ],
+    "35": [
+        "35"
+    ],
+    "38": [
+        "38"
+    ],
+    "39": [
+        "39"
+    ],
+    "40": [
+        "40"
+    ],
+    "44": [
+        "44"
+    ],
+    "45": [
+        "45"
+    ],
+    "47": [
+        "47"
+    ],
+    "49": [
+        "49"
+    ],
+    "50": [
+        "50"
+    ],
+    "52": [
+        "52"
+    ],
+    "53": [
+        "53"
+    ],
+    "54": [
+        "54"
+    ],
+    "56": [
+        "56"
+    ],
+    "58": [
+        "58"
+    ],
+    "60": [
+        "60"
+    ],
+    "61": [
+        "61"
+    ],
+    "62": [
+        "62"
+    ],
+    "64": [
+        "64"
+    ],
+    "65": [
+        "65"
+    ],
+    "66": [
+        "66"
+    ],
+    "67": [
+        "67"
+    ],
+    "68": [
+        "68"
+    ],
+    "69": [
+        "69"
+    ],
+    "7": [
+        "7"
+    ],
+    "70": [
+        "70"
+    ],
+    "71": [
+        "71"
+    ],
+    "72": [
+        "72"
+    ],
+    "73": [
+        "73"
+    ],
+    "74": [
+        "74"
+    ],
+    "75": [
+        "75"
+    ],
+    "76": [
+        "76"
+    ],
+    "78": [
+        "78"
+    ],
+    "81": [
+        "81"
+    ],
+    "82": [
+        "82"
+    ],
+    "9": [
+        "9"
+    ],
+    ":": [
+        ":"
+    ],
+    ";": [
+        ";"
+    ],
+    "?": [
+        "?"
+    ],
+    "?\"": [
+        "?\""
+    ],
+    "?”": [
+        "?”"
+    ],
+    "Aglikan": [
+        "Anglican"
+    ],
+    "Agnes": [
+        "Agnes"
+    ],
+    "Aijz": [
+        "Aijz"
+    ],
+    "Akanipua": [
+        "Akanipua"
+    ],
+    "Alankaula": [
+        "Alankaula"
+    ],
+    "Alankaulz": [
+        "Alankaulz"
+    ],
+    "Alfred": [
+        "Alfred"
+    ],
+    "Andru": [
+        "Andru"
+    ],
+    "Anika": [
+        "Anika"
+    ],
+    "Anuta": [
+        "Anuta.Is"
+    ],
+    "Aogzs": [
+        "August"
+    ],
+    "Are": [
+        "Are"
+    ],
+    "Asdikon": [
+        "Archdeacon"
+    ],
+    "Atq": [
+        "Atq"
+    ],
+    "Auki": [
+        "Auki"
+    ],
+    "Austrelia": [
+        "Australia"
+    ],
+    "Bade": [
+        "Bade"
+    ],
+    "Badle": [
+        "Baddeley"
+    ],
+    "Baengr": [
+        "Baengr"
+    ],
+    "Balo": [
+        "Balo"
+    ],
+    "Balq": [
+        "Balq"
+    ],
+    "Bapo": [
+        "Bapo"
+    ],
+    "Basil": [
+        "Basil"
+    ],
+    "Be": [
+        "Be.god"
+    ],
+    "Bei": [
+        "Bay"
+    ],
+    "Ben": [
+        "Ben"
+    ],
+    "Binii": [
+        "Binii"
+    ],
+    "Biukan": [
+        "Biukan"
+    ],
+    "Boerger": [
+        "Boerger"
+    ],
+    "Bokapwr": [
+        "Bokapwr"
+    ],
+    "Bolen": [
+        "Bolen"
+    ],
+    "Bomio": [
+        "Bomio"
+    ],
+    "Boo": [
+        "Boo"
+    ],
+    "Brenda": [
+        "Brenda"
+    ],
+    "Bungana": [
+        "Bungana"
+    ],
+    "Bwapc": [
+        "Bwapc"
+    ],
+    "Bwrnebwr": [
+        "Bwrnebwr"
+    ],
+    "Bwzng": [
+        "Bwzng"
+    ],
+    "Bznwz": [
+        "Bznwz.vil"
+    ],
+    "Cecil": [
+        "Cecil"
+    ],
+    "Churchill": [
+        "Churchill"
+    ],
+    "Clq": [
+        "Clq"
+    ],
+    "DO": [
+        "DO"
+    ],
+    "Dani": [
+        "Dani"
+    ],
+    "Daniel": [
+        "Daniel"
+    ],
+    "Dapq": [
+        "Duff.Is"
+    ],
+    "Dckta": [
+        "Dckta"
+    ],
+    "Disebz": [
+        "December"
+    ],
+    "Dora": [
+        "Dora"
+    ],
+    "Dxi": [
+        "Dxi"
+    ],
+    "Dxvo": [
+        "DXVO"
+    ],
+    "Edwin": [
+        "Edwin"
+    ],
+    "Elisabet": [
+        "Elisabet"
+    ],
+    "Elizabeth": [
+        "Elizabeth"
+    ],
+    "Ellen": [
+        "Ellen"
+    ],
+    "Elsie": [
+        "Elsie"
+    ],
+    "Emily": [
+        "Emily"
+    ],
+    "Enre": [
+        "Enre"
+    ],
+    "Eprol": [
+        "April"
+    ],
+    "Esuz": [
+        "Esuz"
+    ],
+    "Filip": [
+        "Philip"
+    ],
+    "Fiu": [
+        "Fiu.vil"
+    ],
+    "Foks": [
+        "Foks"
+    ],
+    "Fox": [
+        "Fox"
+    ],
+    "Frank": [
+        "Frank"
+    ],
+    "Fredrik": [
+        "Fredrik"
+    ],
+    "Gari": [
+        "Gari"
+    ],
+    "Gct": [
+        "god"
+    ],
+    "Gela": [
+        "Gela"
+    ],
+    "Gresosa": [
+        "Graciosa"
+    ],
+    "Grin": [
+        "Grin"
+    ],
+    "Gwalekana": [
+        "Guadalcanal"
+    ],
+    "Hill": [
+        "Hill"
+    ],
+    "Ikai": [
+        "Ikai"
+    ],
+    "Ilovz": [
+        "Ilovz"
+    ],
+    "Ilrmztangi": [
+        "Ilrmztangi"
+    ],
+    "Ilztrkalr": [
+        "Ilztrkalr"
+    ],
+    "Imanuel": [
+        "Immanuel"
+    ],
+    "Imztq": [
+        "Imztq"
+    ],
+    "Inaoxngr": [
+        "Inaoxngr"
+    ],
+    "Inglan": [
+        "England"
+    ],
+    "Inglis": [
+        "English"
+    ],
+    "Ini": [
+        "Ini"
+    ],
+    "Isabel": [
+        "Isabel"
+    ],
+    "Itopwz": [
+        "Itopwz"
+    ],
+    "Ituku": [
+        "Ituku"
+    ],
+    "Ivaio": [
+        "Ivaio"
+    ],
+    "Iwongr": [
+        "Iwongr"
+    ],
+    "Iwxbu": [
+        "Iwxbu"
+    ],
+    "Jane": [
+        "Jane"
+    ],
+    "Japan": [
+        "Japan"
+    ],
+    "Jenwzri": [
+        "January"
+    ],
+    "Jim": [
+        "Jim"
+    ],
+    "Jiszs": [
+        "Jesus"
+    ],
+    "Jon": [
+        "John"
+    ],
+    "Jos": [
+        "Jos"
+    ],
+    "Josip": [
+        "Joseph"
+    ],
+    "Josis": [
+        "Josis"
+    ],
+    "Julae": [
+        "July"
+    ],
+    "Jun": [
+        "June"
+    ],
+    "Jzmzne": [
+        "Germany"
+    ],
+    "Katerin": [
+        "Katerin"
+    ],
+    "Kcoporetiv": [
+        "Kcoporetiv"
+    ],
+    "Kennedy": [
+        "Kennedy"
+    ],
+    "Ketea": [
+        "Ketea"
+    ],
+    "Kirakira": [
+        "Kirakira"
+    ],
+    "Komisina": [
+        "Komisina"
+    ],
+    "Kopuria": [
+        "Kopuria"
+    ],
+    "Kros": [
+        "Cross"
+    ],
+    "Krus": [
+        "Cruz"
+    ],
+    "Kwin": [
+        "Kwin"
+    ],
+    "Kzbzni": [
+        "Company"
+    ],
+    "Kzpznizm": [
+        "Capernaum"
+    ],
+    "Lapuro": [
+        "Lapuro"
+    ],
+    "Leonard": [
+        "Leonard"
+    ],
+    "Lesile": [
+        "Lesile"
+    ],
+    "Lipz": [
+        "Livers"
+    ],
+    "Loki": [
+        "Loki"
+    ],
+    "Lore": [
+        "Lore"
+    ],
+    "Lrlvz": [
+        "Lrlvz"
+    ],
+    "Lrmz": [
+        "Lrmz"
+    ],
+    "Luga": [
+        "Lungga"
+    ],
+    "Luk": [
+        "Luke"
+    ],
+    "Lvepx": [
+        "Lvepx.vil"
+    ],
+    "Lwovz": [
+        "Lwovz"
+    ],
+    "Lzpli": [
+        "Lzpli"
+    ],
+    "Maekol": [
+        "Michael"
+    ],
+    "Mak": [
+        "Mark"
+    ],
+    "Malaita": [
+        "Malaita"
+    ],
+    "Maluu": [
+        "Maluu"
+    ],
+    "Mancu": [
+        "Mancu.vil"
+    ],
+    "Manfoot": [
+        "Manfoot"
+    ],
+    "Mas": [
+        "March"
+    ],
+    "Mateas": [
+        "Matthias"
+    ],
+    "Mathias": [
+        "Mathias"
+    ],
+    "Mcnika": [
+        "Mcnika"
+    ],
+    "Meabr": [
+        "Meabr"
+    ],
+    "Meamupa": [
+        "Meamupa"
+    ],
+    "Medrka'": [
+        "Medrka'"
+    ],
+    "Meleu": [
+        "Meleu"
+    ],
+    "Melomate": [
+        "Melomate"
+    ],
+    "Menabz": [
+        "Menabz"
+    ],
+    "Menaip": [
+        "Menaip"
+    ],
+    "Menapi": [
+        "Menapi"
+    ],
+    "Menckzpo": [
+        "Menckzpo"
+    ],
+    "Menrlwz": [
+        "Menrlwz"
+    ],
+    "Menrq": [
+        "Menrq"
+    ],
+    "Menzq": [
+        "Menzq"
+    ],
+    "Mepalu": [
+        "Mepalu"
+    ],
+    "Mepapna": [
+        "Mepapna"
+    ],
+    "Merlve": [
+        "Merlve"
+    ],
+    "Metalo": [
+        "Metalo"
+    ],
+    "Metrkrbade": [
+        "Metrkrbade"
+    ],
+    "Mewz": [
+        "Mewz"
+    ],
+    "Mona": [
+        "Mona"
+    ],
+    "Mr": [
+        "Mr"
+    ],
+    "Mrnzq": [
+        "Mrnzq.vil"
+    ],
+    "Mwekati": [
+        "Mwekati"
+    ],
+    "Mwelea": [
+        "Mwelea"
+    ],
+    "Mzdealwx": [
+        "Mzdealwx"
+    ],
+    "Mzdxmingr": [
+        "Mzdxmingr.village"
+    ],
+    "Mzjzbxlo": [
+        "Mzjzbxlo",
+        "Mzjzbxlo.vil"
+    ],
+    "Mzli": [
+        "Mzli"
+    ],
+    "Mzlo": [
+        "Mzlo",
+        "Malo"
+    ],
+    "Mznanq": [
+        "Mznanq"
+    ],
+    "Mznzmipc'": [
+        "Mznzmipc'"
+    ],
+    "Mztq": [
+        "Matq"
+    ],
+    "Nabakxenga": [
+        "Nabakxenga"
+    ],
+    "Nabzlue": [
+        "Nabzlue.vil"
+    ],
+    "Nabzn": [
+        "Naban"
+    ],
+    "Nagu": [
+        "Nagu"
+    ],
+    "Naim": [
+        "Naim"
+    ],
+    "Namc": [
+        "Namc"
+    ],
+    "Naplosx": [
+        "Naplosx"
+    ],
+    "Napr": [
+        "Napr.vil"
+    ],
+    "Narnztilolx": [
+        "Narnztilolx.vil"
+    ],
+    "Natqgu": [
+        "Natqgu"
+    ],
+    "Ncmix": [
+        "Ncmix.vil"
+    ],
+    "Ncnia": [
+        "Ncnia.vil"
+    ],
+    "Ncnqmz": [
+        "Ncnqmz.vil"
+    ],
+    "Ncokz": [
+        "Nookz.vil"
+    ],
+    "Ncole": [
+        "Noole.vil"
+    ],
+    "Nea": [
+        "Nea.vil"
+    ],
+    "Neboi": [
+        "Neboi.vil"
+    ],
+    "Nebrnz": [
+        "Nebrnz.vil"
+    ],
+    "Nemya": [
+        "Nemya"
+    ],
+    "Nemya'": [
+        "Nemya'.Is"
+    ],
+    "Neo": [
+        "Neo.vil"
+    ],
+    "Nepa'": [
+        "Nepa'"
+    ],
+    "Nepr": [
+        "Nepr.vil"
+    ],
+    "Nepwzli": [
+        "Nepwzli.district"
+    ],
+    "Nevi": [
+        "Navy"
+    ],
+    "Niu": [
+        "New"
+    ],
+    "Novebz": [
+        "November"
+    ],
+    "Nrpakxmrlz": [
+        "Good.News"
+    ],
+    "Nrrle": [
+        "Nrrle.vil"
+    ],
+    "Nzlqwc": [
+        "Nzlqwc"
+    ],
+    "Nzlvz": [
+        "Reef.Is"
+    ],
+    "Nzo": [
+        "Nzo"
+    ],
+    "Nzryrngrkxtr": [
+        "Nzryrngrkxtr"
+    ],
+    "Ol": [
+        "All"
+    ],
+    "Oti": [
+        "Oti"
+    ],
+    "Pa'lz": [
+        "Pa'lz"
+    ],
+    "Parapolo": [
+        "Parapolo"
+    ],
+    "Pauabu": [
+        "Pauabu"
+    ],
+    "Paumalepc": [
+        "Paumalepc"
+    ],
+    "Pawa": [
+        "Pawa.school",
+        "Pawa"
+    ],
+    "Pileni": [
+        "Pileni.Is"
+    ],
+    "Pilip": [
+        "Pilip"
+    ],
+    "Pingalr": [
+        "Pingalr"
+    ],
+    "Pita": [
+        "Peter"
+    ],
+    "Pol": [
+        "Paul"
+    ],
+    "Polykap": [
+        "Polykap"
+    ],
+    "Poodo": [
+        "Poodo"
+    ],
+    "Primiz": [
+        "Premier"
+    ],
+    "Prpx": [
+        "Prpx"
+    ],
+    "R": [
+        "R",
+        "Er"
+    ],
+    "Renols": [
+        "Renols"
+    ],
+    "Residen": [
+        "Residen"
+    ],
+    "Rik": [
+        "Rik"
+    ],
+    "Roklip": [
+        "Roklip"
+    ],
+    "Roman": [
+        "Catholic"
+    ],
+    "SSEC": [
+        "SSEC"
+    ],
+    "Sada": [
+        "Santa"
+    ],
+    "Sade": [
+        "Sunday"
+    ],
+    "Saemon": [
+        "Simon"
+    ],
+    "Saemons": [
+        "Saemons"
+    ],
+    "Sam": [
+        "Psalm"
+    ],
+    "Samson": [
+        "Sampson"
+    ],
+    "Samwel": [
+        "Samuel"
+    ],
+    "Samwi": [
+        "Samwi"
+    ],
+    "Saotzn": [
+        "Southern"
+    ],
+    "Satqde": [
+        "Saturday"
+    ],
+    "Savo": [
+        "Savo"
+    ],
+    "Selwin": [
+        "Selwin"
+    ],
+    "Sen": [
+        "St."
+    ],
+    "Sens": [
+        "Saints"
+    ],
+    "Sevenoklck": [
+        "Sevenoklck"
+    ],
+    "Sikaiana": [
+        "Sikaiana"
+    ],
+    "Silan": [
+        "Zealand"
+    ],
+    "Silas": [
+        "Silas"
+    ],
+    "Siota": [
+        "Siota"
+    ],
+    "Skul": [
+        "Skul"
+    ],
+    "Sophia": [
+        "Sophia"
+    ],
+    "Sosaeti": [
+        "Sosaeti",
+        "Society"
+    ],
+    "Srpi": [
+        "Srpi"
+    ],
+    "Stanley": [
+        "Stanley"
+    ],
+    "Stibad": [
+        "Stibad"
+    ],
+    "Stipin": [
+        "Stipin"
+    ],
+    "Susi": [
+        "Susi"
+    ],
+    "Telenapo": [
+        "Telenapo"
+    ],
+    "Tenaru": [
+        "Tenaru"
+    ],
+    "Tikopia": [
+        "Tikopia.Is"
+    ],
+    "Tobaita": [
+        "Tobaita"
+    ],
+    "Toke": [
+        "Toke"
+    ],
+    "Tomas": [
+        "Thomas"
+    ],
+    "Tomson": [
+        "Tomson"
+    ],
+    "Trmctu": [
+        "Trmctu"
+    ],
+    "Tulzgi": [
+        "Tulagi"
+    ],
+    "Tzlede": [
+        "Tzlede"
+    ],
+    "Tznbol": [
+        "Tznbol"
+    ],
+    "Tzngarare": [
+        "Tzngarare"
+    ],
+    "Usi": [
+        "Usi"
+    ],
+    "Utupua": [
+        "Utupua.Is"
+    ],
+    "Vanikoro": [
+        "Vanikoro.Is"
+    ],
+    "Vanuatu": [
+        "Vanuatu"
+    ],
+    "Vea": [
+        "Vea"
+    ],
+    "Veranaaso": [
+        "Veranaaso"
+    ],
+    "Veronika": [
+        "Veronika"
+    ],
+    "Vxngr": [
+        "Vxngr.vil"
+    ],
+    "Wes": [
+        "Wes"
+    ],
+    "Wili": [
+        "Wili"
+    ],
+    "Wurm": [
+        "Wurm"
+    ],
+    "Yati": [
+        "Yati"
+    ],
+    "Yc": [
+        "Yc.village"
+    ],
+    "Yiz": [
+        "Year"
+    ],
+    "Yrngao": [
+        "Yrngao"
+    ],
+    "Yrpusz": [
+        "Yrpusz"
+    ],
+    "a": [
+        "CAUS",
+        "oh!"
+    ],
+    "a'": [
+        "but"
+    ],
+    "abc": [
+        "call.out"
+    ],
+    "ablzo": [
+        "ablzo"
+    ],
+    "abrelz": [
+        "umbrella"
+    ],
+    "abrtz": [
+        "be.happy"
+    ],
+    "abz": [
+        "try"
+    ],
+    "abzo": [
+        "start"
+    ],
+    "abzpx": [
+        "test.out"
+    ],
+    "aclve": [
+        "oversee"
+    ],
+    "aelwa": [
+        "show"
+    ],
+    "aenzli": [
+        "wait"
+    ],
+    "aepz": [
+        "near"
+    ],
+    "aglqpz'": [
+        "flash"
+    ],
+    "agz": [
+        "anchor"
+    ],
+    "aki": [
+        "distribute"
+    ],
+    "akxlr": [
+        "roasted.greens.on.stone"
+    ],
+    "akya'": [
+        "play.brass.instr"
+    ],
+    "ale": [
+        "do"
+    ],
+    "alfabet": [
+        "alphabet"
+    ],
+    "alilvc": [
+        "sail"
+    ],
+    "alo": [
+        "forever"
+    ],
+    "alvc": [
+        "push"
+    ],
+    "alvz": [
+        "teach"
+    ],
+    "alvztr": [
+        "teach"
+    ],
+    "alzu": [
+        "instead"
+    ],
+    "ama": [
+        "rest",
+        "stop"
+    ],
+    "amc": [
+        "hire"
+    ],
+    "ami": [
+        "army"
+    ],
+    "amingr": [
+        "dry.out"
+    ],
+    "amnq": [
+        "bequeath"
+    ],
+    "amrlx": [
+        "all"
+    ],
+    "amrlz": [
+        "heal"
+    ],
+    "amu": [
+        "2AUGI"
+    ],
+    "angida": [
+        "fulfill"
+    ],
+    "angidr": [
+        "really",
+        "well"
+    ],
+    "angio": [
+        "angio",
+        "worship"
+    ],
+    "angrlvz": [
+        "sing.praises"
+    ],
+    "ao": [
+        "think"
+    ],
+    "aokz": [
+        "watch"
+    ],
+    "aolvz": [
+        "accept"
+    ],
+    "apqtr": [
+        "enflame"
+    ],
+    "aprpx": [
+        "release"
+    ],
+    "apu": [
+        "be.like"
+    ],
+    "apusr": [
+        "regard.as"
+    ],
+    "apx": [
+        "restrict"
+    ],
+    "arlapx": [
+        "save"
+    ],
+    "ata": [
+        "collect"
+    ],
+    "ataki": [
+        "injured"
+    ],
+    "ate": [
+        "afterward"
+    ],
+    "atubq": [
+        "straighten"
+    ],
+    "atulz": [
+        "build"
+    ],
+    "atwrnr": [
+        "wholly"
+    ],
+    "atwzlr": [
+        "dispatch"
+    ],
+    "aveati": [
+        "summon"
+    ],
+    "awi": [
+        "thank"
+    ],
+    "awrkxtr": [
+        "baptize"
+    ],
+    "ayo": [
+        "walk"
+    ],
+    "ayrkrpx": [
+        "complete"
+    ],
+    "ayrni": [
+        "play.strummed.instrument"
+    ],
+    "ayrnr": [
+        "first"
+    ],
+    "ayrplapx": [
+        "punish"
+    ],
+    "ayzpr": [
+        "cut.in.two"
+    ],
+    "ayzu": [
+        "begin"
+    ],
+    "ayzutr": [
+        "begin"
+    ],
+    "ba": [
+        "DAT"
+    ],
+    "bade": [
+        "DAT.3MINII"
+    ],
+    "badr": [
+        "DAT.3AUGII",
+        "ᴄᴏᴍ.ᴘʟ"
+    ],
+    "bagr": [
+        "DAT.1AUGII"
+    ],
+    "bagu": [
+        "DAT.12AUGII"
+    ],
+    "bam": [
+        "DAT.2MINII"
+    ],
+    "bange": [
+        "DAT.1MINII"
+    ],
+    "banyapu": [
+        "pineapple"
+    ],
+    "bao": [
+        "blow",
+        "cold"
+    ],
+    "be": [
+        "story",
+        "still",
+        "skin"
+    ],
+    "bea": [
+        "midday"
+    ],
+    "belenga": [
+        "belenga"
+    ],
+    "belo": [
+        "bell"
+    ],
+    "bi": [
+        "bake"
+    ],
+    "bia": [
+        "breadfruit"
+    ],
+    "bingar": [
+        "small.red.ant"
+    ],
+    "bisket": [
+        "cracker"
+    ],
+    "bisop": [
+        "bishop"
+    ],
+    "biz": [
+        "beer"
+    ],
+    "blaopu": [
+        "be.brown"
+    ],
+    "blq": [
+        "be.black"
+    ],
+    "blqki": [
+        "dirty"
+    ],
+    "blrkq": [
+        "grandmother"
+    ],
+    "blxget": [
+        "blanket"
+    ],
+    "blz": [
+        "offering",
+        "sacrifice"
+    ],
+    "blzmr": [
+        "myriad"
+    ],
+    "bo": [
+        "bz(PDIR.YON).o(1MINI)",
+        "black"
+    ],
+    "boi": [
+        "long"
+    ],
+    "boksing": [
+        "boxing"
+    ],
+    "bom": [
+        "bomb"
+    ],
+    "bona": [
+        "pigeon"
+    ],
+    "bongavz": [
+        "sky"
+    ],
+    "bot": [
+        "boat"
+    ],
+    "bq": [
+        "kill",
+        "yesterday",
+        "ash"
+    ],
+    "bqnc": [
+        "long.ago"
+    ],
+    "bqtc": [
+        "wart"
+    ],
+    "br": [
+        "br",
+        "ripe",
+        "trust",
+        "net"
+    ],
+    "bret": [
+        "bread"
+    ],
+    "brka": [
+        "dislodged"
+    ],
+    "brlclvz": [
+        "embrace"
+    ],
+    "brlxkz": [
+        "thirsty"
+    ],
+    "brma": [
+        "home"
+    ],
+    "brtq": [
+        "shut"
+    ],
+    "buk": [
+        "book"
+    ],
+    "but": [
+        "shoe"
+    ],
+    "bute'": [
+        "corner.3D"
+    ],
+    "bwa": [
+        "shark"
+    ],
+    "bx": [
+        "twist",
+        "gray",
+        "support"
+    ],
+    "bxki": [
+        "bag"
+    ],
+    "bxli": [
+        "basket"
+    ],
+    "bxn": [
+        "band"
+    ],
+    "bxpiz": [
+        "split"
+    ],
+    "bxpli": [
+        "rip"
+    ],
+    "bz": [
+        "PDIR.YON",
+        "boundary",
+        "die",
+        "bludgeon"
+    ],
+    "bzo": [
+        "army"
+    ],
+    "c": [
+        "c",
+        "across"
+    ],
+    "ckrle": [
+        "pineapple"
+    ],
+    "da": [
+        "thing"
+    ],
+    "dabu": [
+        "heart"
+    ],
+    "dakxnzng": [
+        "food"
+    ],
+    "dalr": [
+        "things.of",
+        "people.of"
+    ],
+    "dapu": [
+        "piece"
+    ],
+    "dc": [
+        "fall"
+    ],
+    "dcbz": [
+        "cloud"
+    ],
+    "dckrlzde": [
+        "chapter"
+    ],
+    "dckta": [
+        "doctor.med"
+    ],
+    "dcpwe": [
+        "salt.water"
+    ],
+    "dcpx": [
+        "remember",
+        "reveal"
+    ],
+    "de": [
+        "3MINII"
+    ],
+    "dekc": [
+        "this"
+    ],
+    "dela": [
+        "there.it.is"
+    ],
+    "delc": [
+        "this"
+    ],
+    "digi": [
+        "dinghy"
+    ],
+    "dikon": [
+        "deacon"
+    ],
+    "diksonare": [
+        "dictionary"
+    ],
+    "do": [
+        "hang"
+    ],
+    "doa": [
+        "child",
+        "person"
+    ],
+    "dq": [
+        "INDF.SG"
+    ],
+    "dr": [
+        "3AUGII"
+    ],
+    "draea": [
+        "drier"
+    ],
+    "dril": [
+        "drill"
+    ],
+    "drka'": [
+        "demon",
+        "spirit.being"
+    ],
+    "drlve": [
+        "where"
+    ],
+    "drlz": [
+        "colour",
+        "design"
+    ],
+    "drta'": [
+        "food",
+        "sand"
+    ],
+    "drtc'": [
+        "ground"
+    ],
+    "drtq": [
+        "name",
+        "body"
+    ],
+    "drtwr": [
+        "neck",
+        "mind"
+    ],
+    "drtwrde": [
+        "drtwrde"
+    ],
+    "drvr": [
+        "cover.from.rain"
+    ],
+    "du": [
+        "INDF.PL"
+    ],
+    "dwa": [
+        "jump",
+        "flee"
+    ],
+    "dwalzm": [
+        "awaken"
+    ],
+    "dwami": [
+        "escape.with"
+    ],
+    "dwasz": [
+        "leave"
+    ],
+    "dwati": [
+        "befall"
+    ],
+    "dwatr": [
+        "enter"
+    ],
+    "dxbu": [
+        "lake"
+    ],
+    "dxvo": [
+        "tsunami"
+    ],
+    "dz": [
+        "GDIR.UP"
+    ],
+    "dzbe": [
+        "group"
+    ],
+    "dzbede": [
+        "group"
+    ],
+    "dzbi": [
+        "famine"
+    ],
+    "dzbr": [
+        "root"
+    ],
+    "dztu": [
+        "possessions"
+    ],
+    "dzu": [
+        "portion"
+    ],
+    "e": [
+        "or",
+        "yes",
+        "that.one"
+    ],
+    "ebio": [
+        "sea.swell"
+    ],
+    "ebir": [
+        "repeatedly"
+    ],
+    "eke": [
+        "INTJ"
+    ],
+    "ekq": [
+        "dig"
+    ],
+    "ela": [
+        "dance"
+    ],
+    "elalz": [
+        "elalz"
+    ],
+    "elr": [
+        "therein"
+    ],
+    "emwr": [
+        "last"
+    ],
+    "ena": [
+        "just"
+    ],
+    "enjin": [
+        "engine"
+    ],
+    "enqmi": [
+        "enemy"
+    ],
+    "epe": [
+        "leeward"
+    ],
+    "esablq": [
+        "turn.one's.back"
+    ],
+    "esz'": [
+        "be.one"
+    ],
+    "esz'mz": [
+        "six"
+    ],
+    "esz'ngr": [
+        "exceedingly",
+        "most"
+    ],
+    "esz'ti": [
+        "become.one"
+    ],
+    "esz'txu": [
+        "only.one"
+    ],
+    "etr": [
+        "RECP"
+    ],
+    "etu": [
+        "be.big"
+    ],
+    "eu": [
+        "yes"
+    ],
+    "ezpct": [
+        "airport"
+    ],
+    "fom": [
+        "form"
+    ],
+    "gas": [
+        "propane"
+    ],
+    "gi": [
+        "12MINII"
+    ],
+    "glq": [
+        "carry"
+    ],
+    "glr": [
+        "be.dry"
+    ],
+    "glx": [
+        "recognize"
+    ],
+    "gq": [
+        "hole"
+    ],
+    "gr": [
+        "1AUGII"
+    ],
+    "gu": [
+        "12AUGII"
+    ],
+    "gzpman": [
+        "government"
+    ],
+    "haosboe": [
+        "houseboy"
+    ],
+    "hat": [
+        "hat"
+    ],
+    "hedmastz": [
+        "headmaster"
+    ],
+    "hou": [
+        "hoe"
+    ],
+    "ikla": [
+        "whip"
+    ],
+    "ikz": [
+        "cut.grass"
+    ],
+    "inyx": [
+        "daughter"
+    ],
+    "ipq": [
+        "forgive"
+    ],
+    "ita": [
+        "grandfather"
+    ],
+    "joseph": [
+        "joseph"
+    ],
+    "ka": [
+        "give",
+        "DEM2.PROΧ",
+        "not.yet"
+    ],
+    "kai": [
+        "first",
+        "pudding"
+    ],
+    "kalo": [
+        "loincloth"
+    ],
+    "kalrla": [
+        "tomorrow"
+    ],
+    "kalz": [
+        "pick.up"
+    ],
+    "kampi": [
+        "camp"
+    ],
+    "kang": [
+        "these"
+    ],
+    "kansrl": [
+        "council"
+    ],
+    "kapq": [
+        "hidden"
+    ],
+    "kapu": [
+        "happened"
+    ],
+    "kaputr": [
+        "arrive"
+    ],
+    "kaputrpq": [
+        "arrive"
+    ],
+    "kapx": [
+        "remove"
+    ],
+    "kati": [
+        "call.out"
+    ],
+    "katkis": [
+        "catechist"
+    ],
+    "katris": [
+        "bullet"
+    ],
+    "katx": [
+        "remove"
+    ],
+    "kau": [
+        "last.night"
+    ],
+    "kc": [
+        "DEM2.DIST"
+    ],
+    "kcma": [
+        "that.one"
+    ],
+    "kcmiti": [
+        "committee"
+    ],
+    "kcng": [
+        "those"
+    ],
+    "kcpwz": [
+        "same"
+    ],
+    "kcti": [
+        "marvel"
+    ],
+    "ke'": [
+        "1MINII"
+    ],
+    "ki": [
+        "path",
+        "12MINI"
+    ],
+    "kilz": [
+        "drag"
+    ],
+    "kio": [
+        "chicken"
+    ],
+    "klas": [
+        "class"
+    ],
+    "kosi": [
+        "course"
+    ],
+    "kq": [
+        "pick",
+        "cover"
+    ],
+    "kqle": [
+        "call",
+        "call.someone"
+    ],
+    "kqlu": [
+        "many"
+    ],
+    "kqtu": [
+        "push.over"
+    ],
+    "kr": [
+        "NMLZ.POSS",
+        "1AUGI",
+        "RPRN2"
+    ],
+    "kra": [
+        "ORD"
+    ],
+    "kraesz'mz": [
+        "sixth"
+    ],
+    "kranzlvqn": [
+        "fifth"
+    ],
+    "krikit": [
+        "cricket"
+    ],
+    "krka'": [
+        "pray"
+    ],
+    "krkc": [
+        "RPRN2.DEM2.DIST"
+    ],
+    "krla": [
+        "RPRN2.DEM1.PROΧ"
+    ],
+    "krlc": [
+        "krlc"
+    ],
+    "krlcng": [
+        "these"
+    ],
+    "krlz": [
+        "reach",
+        "know",
+        "be.able"
+    ],
+    "krlzu": [
+        "wait!"
+    ],
+    "krnge": [
+        "krnge"
+    ],
+    "krnyz": [
+        "that.of"
+    ],
+    "kros": [
+        "cross"
+    ],
+    "kru": [
+        "crew"
+    ],
+    "ku": [
+        "12AUGI"
+    ],
+    "kuki": [
+        "cook"
+    ],
+    "kuli": [
+        "dog"
+    ],
+    "kumara": [
+        "kumara"
+    ],
+    "kx": [
+        "SUBR"
+    ],
+    "kxakrlz": [
+        "teacher"
+    ],
+    "kxaonrwx": [
+        "peacemaker"
+    ],
+    "kxbq": [
+        "uncle.nephew"
+    ],
+    "kxetu": [
+        "leader",
+        "Lord"
+    ],
+    "kxkz": [
+        "shaman"
+    ],
+    "kxmu": [
+        "be.like",
+        "how"
+    ],
+    "kxnzakrlz": [
+        "teachers"
+    ],
+    "kxnzalvztrng": [
+        "teachers"
+    ],
+    "kxnzetung": [
+        "bigmen"
+    ],
+    "kxnzmnztrng": [
+        "sorcerers"
+    ],
+    "kxpipz": [
+        "little"
+    ],
+    "kxrpalz": [
+        "creator"
+    ],
+    "kxsqki": [
+        "sore"
+    ],
+    "kz": [
+        "also",
+        "grate.coconut",
+        "kz"
+    ],
+    "kzble": [
+        "different"
+    ],
+    "kzbznyon": [
+        "companions"
+    ],
+    "kzdo": [
+        "highest.level.in.law"
+    ],
+    "kzdq": [
+        "a"
+    ],
+    "kzdu": [
+        "AT.ΦNT.PL"
+    ],
+    "kzdung": [
+        "AT.ΦNT.PL.PL"
+    ],
+    "kzpora": [
+        "copra"
+    ],
+    "kzpten": [
+        "captain"
+    ],
+    "kzte": [
+        "friend"
+    ],
+    "kzu": [
+        "cow"
+    ],
+    "la": [
+        "la",
+        "DEM1.PROΧ"
+    ],
+    "lala": [
+        "rough.surfaced"
+    ],
+    "lalztq": [
+        "listen"
+    ],
+    "lawi": [
+        "cut.in.two"
+    ],
+    "lc": [
+        "talk",
+        "DEM1.DIST"
+    ],
+    "lcde": [
+        "there"
+    ],
+    "lcdeng": [
+        "those"
+    ],
+    "lcglz": [
+        "lumber.tree"
+    ],
+    "lclr": [
+        "field"
+    ],
+    "lcng": [
+        "these"
+    ],
+    "lcpwz": [
+        "same"
+    ],
+    "lcsu": [
+        "ship"
+    ],
+    "le": [
+        "3MINIA",
+        "3MINIIP"
+    ],
+    "legou": [
+        "creeper.climber"
+    ],
+    "legru": [
+        "creeper.climber"
+    ],
+    "leka": [
+        "give.food"
+    ],
+    "lemwzlo": [
+        "creeper.climber"
+    ],
+    "lengq": [
+        "3AUGII"
+    ],
+    "leplz": [
+        "people"
+    ],
+    "letz": [
+        "letter.note"
+    ],
+    "letzlvz": [
+        "elders"
+    ],
+    "leu": [
+        "leaf"
+    ],
+    "leuwaga": [
+        "bird's.nest.fern"
+    ],
+    "li": [
+        "two"
+    ],
+    "lika": [
+        "kite"
+    ],
+    "lni": [
+        "lni"
+    ],
+    "lolvz": [
+        "hold"
+    ],
+    "lons": [
+        "launch"
+    ],
+    "loprta": [
+        "king.tree.greens"
+    ],
+    "lore": [
+        "lore"
+    ],
+    "lozbq": [
+        "night"
+    ],
+    "lr": [
+        "TPNYM",
+        "PCLF.ASSOC",
+        "3AUGIA",
+        "lr",
+        "3AUGIIP",
+        "sea.hawk"
+    ],
+    "lrmztangi": [
+        "foreigner"
+    ],
+    "lrpr": [
+        "wet"
+    ],
+    "lrpz": [
+        "cloth"
+    ],
+    "lrpzki": [
+        "road"
+    ],
+    "lrpzu": [
+        "tapa.cloth"
+    ],
+    "lrtzlvz": [
+        "elders"
+    ],
+    "lu": [
+        "live",
+        "wear.around.neck"
+    ],
+    "lue": [
+        "water",
+        "river"
+    ],
+    "luekxpiz": [
+        "medicine"
+    ],
+    "lvabe": [
+        "float"
+    ],
+    "lvc": [
+        "fly"
+    ],
+    "lvz": [
+        "about",
+        "thruout"
+    ],
+    "lx": [
+        "away.from"
+    ],
+    "lxblr": [
+        "lxblr",
+        "together",
+        "each"
+    ],
+    "lxe": [
+        "mother.aunt"
+    ],
+    "lxkq": [
+        "yam"
+    ],
+    "lxkqti": [
+        "spotted"
+    ],
+    "lxlr": [
+        "isolated"
+    ],
+    "lxlvr": [
+        "turn"
+    ],
+    "lxngi": [
+        "lean"
+    ],
+    "lxngiti": [
+        "believe",
+        "obey"
+    ],
+    "lxplz": [
+        "puncture"
+    ],
+    "lz": [
+        "GDIR.UP",
+        "carve.wood"
+    ],
+    "lzbq": [
+        "REFL"
+    ],
+    "lzm": [
+        "wooden.bowl"
+    ],
+    "m": [
+        "2MINII",
+        "PDIR.HITHER"
+    ],
+    "ma": [
+        "house",
+        "lest",
+        "go",
+        "hopeless",
+        "bite",
+        "useless"
+    ],
+    "maboi": [
+        "outer.reef"
+    ],
+    "mabr": [
+        "chew"
+    ],
+    "mailz": [
+        "lead"
+    ],
+    "maket": [
+        "market"
+    ],
+    "makx": [
+        "bite"
+    ],
+    "makxtr": [
+        "church.building"
+    ],
+    "male": [
+        "hold"
+    ],
+    "malvz": [
+        "smoke.tobacco"
+    ],
+    "mama": [
+        "priest"
+    ],
+    "manyzkxnzyagoxng": [
+        "hospital"
+    ],
+    "masingan": [
+        "machine.gun"
+    ],
+    "matelq": [
+        "lean.to"
+    ],
+    "matq": [
+        "powerful"
+    ],
+    "mc": [
+        "see",
+        "mc",
+        "left.side"
+    ],
+    "mclr": [
+        "possessions"
+    ],
+    "mclrla": [
+        "mosquito"
+    ],
+    "mcpx": [
+        "choose"
+    ],
+    "me": [
+        "place",
+        "mq(PDIR.HITHER).q(2MINI)",
+        "me"
+    ],
+    "medesin": [
+        "medicine"
+    ],
+    "mei": [
+        "broken.stick.like.obj"
+    ],
+    "melrmq": [
+        "grandfather"
+    ],
+    "melz": [
+        "awaken"
+    ],
+    "mepyr": [
+        "blood"
+    ],
+    "mepz": [
+        "shore"
+    ],
+    "merikol": [
+        "miracle"
+    ],
+    "mi": [
+        "DPV"
+    ],
+    "mibi": [
+        "rotten"
+    ],
+    "mibiz": [
+        "purple"
+    ],
+    "mika": [
+        "gather"
+    ],
+    "milzpq": [
+        "evening"
+    ],
+    "mingr": [
+        "dry"
+    ],
+    "mista": [
+        "mista"
+    ],
+    "mitin": [
+        "hold.a.meeting"
+    ],
+    "mnc": [
+        "be"
+    ],
+    "mne": [
+        "wait"
+    ],
+    "mneti": [
+        "wait"
+    ],
+    "mnq": [
+        "drink"
+    ],
+    "mnr": [
+        "PCLF.FIRE"
+    ],
+    "mnztr": [
+        "do.sorcery"
+    ],
+    "mou": [
+        "again",
+        "further"
+    ],
+    "mq": [
+        "PDIR.HITHER",
+        "2MINII",
+        "PCLF.DRINK",
+        "behind",
+        "hand"
+    ],
+    "mqbq": [
+        "green"
+    ],
+    "mqlrpi": [
+        "be.comforted"
+    ],
+    "mqngi": [
+        "tight"
+    ],
+    "mqngr": [
+        "image",
+        "spirit"
+    ],
+    "mr": [
+        "place"
+    ],
+    "mrbr": [
+        "famine",
+        "be.lost"
+    ],
+    "mrbrpxm": [
+        "lack"
+    ],
+    "mrge": [
+        "play"
+    ],
+    "mrka": [
+        "here"
+    ],
+    "mrkc": [
+        "place.DEM2.DIST",
+        "where"
+    ],
+    "mrla": [
+        "there"
+    ],
+    "mrlc": [
+        "there"
+    ],
+    "mrlcde": [
+        "there"
+    ],
+    "mrlx": [
+        "son",
+        "guy"
+    ],
+    "mrlz": [
+        "be.good"
+    ],
+    "mrlzvxi": [
+        "extremely.good"
+    ],
+    "mrna": [
+        "new"
+    ],
+    "mrnyz": [
+        "home"
+    ],
+    "mrtu": [
+        "fall"
+    ],
+    "mrvr": [
+        "rotten"
+    ],
+    "mu": [
+        "eat",
+        "desire",
+        "2AUGII",
+        "be.like"
+    ],
+    "muli": [
+        "piece"
+    ],
+    "murde": [
+        "because",
+        "so.that"
+    ],
+    "musr": [
+        "treat.like.that"
+    ],
+    "muvi": [
+        "movie"
+    ],
+    "mwa": [
+        "fish",
+        "hunt"
+    ],
+    "mweita": [
+        "grandfather"
+    ],
+    "mwelr": [
+        "fear",
+        "afraid"
+    ],
+    "mwi": [
+        "sleep",
+        "mwi"
+    ],
+    "mwible": [
+        "dream"
+    ],
+    "mwitr": [
+        "sleep"
+    ],
+    "mwxlr": [
+        "fear"
+    ],
+    "mya": [
+        "surpass"
+    ],
+    "myapxbz": [
+        "important"
+    ],
+    "myx": [
+        "where"
+    ],
+    "mz": [
+        "PREP",
+        "eye",
+        "die"
+    ],
+    "mzbq": [
+        "day"
+    ],
+    "mzle": [
+        "brother"
+    ],
+    "mzli": [
+        "time"
+    ],
+    "mzlir": [
+        "midst"
+    ],
+    "mzlwe": [
+        "brother.of.a.female"
+    ],
+    "mznr": [
+        "be.empty"
+    ],
+    "mztea": [
+        "village"
+    ],
+    "n": [
+        "2MINI"
+    ],
+    "na": [
+        "IRR",
+        "PCLF.FOOD",
+        "3AUG.IRR.PAS"
+    ],
+    "nabr": [
+        "grass"
+    ],
+    "nabx": [
+        "fathom"
+    ],
+    "nabxbz": [
+        "fence"
+    ],
+    "nabz": [
+        "area",
+        "song",
+        "number",
+        "insides",
+        "heart"
+    ],
+    "nadq": [
+        "black.ant"
+    ],
+    "nanyc": [
+        "foot"
+    ],
+    "naonrx": [
+        "doorway"
+    ],
+    "naq": [
+        "Malay.apple"
+    ],
+    "nar": [
+        "head"
+    ],
+    "narlue": [
+        "profession"
+    ],
+    "narncbr": [
+        "price"
+    ],
+    "nartrkla": [
+        "headland"
+    ],
+    "natq": [
+        "word",
+        "sound",
+        "language"
+    ],
+    "nc": [
+        "tree",
+        "fish",
+        "stick"
+    ],
+    "ncblo": [
+        "mankind"
+    ],
+    "ncboi": [
+        "needlefish"
+    ],
+    "ncbr": [
+        "cross"
+    ],
+    "ncdr": [
+        "COM.DU"
+    ],
+    "nctq": [
+        "point",
+        "nctq",
+        "peninsula",
+        "half"
+    ],
+    "ncu": [
+        "base"
+    ],
+    "ncvr": [
+        "meat"
+    ],
+    "ne": [
+        "1MINII",
+        "start",
+        "scream",
+        "PCLF.RSBL",
+        "INTS",
+        "DSTR",
+        "progressive"
+    ],
+    "neimr": [
+        "egg"
+    ],
+    "neke": [
+        "who"
+    ],
+    "nekeng": [
+        "who"
+    ],
+    "nelc": [
+        "nose.shell",
+        "nelc.dance"
+    ],
+    "nengq": [
+        "earthquake"
+    ],
+    "nenq": [
+        "wind"
+    ],
+    "nepi": [
+        "sun"
+    ],
+    "nesrkr": [
+        "lesser.yam"
+    ],
+    "newz": [
+        "mountain"
+    ],
+    "ng": [
+        "3AUGIS"
+    ],
+    "ngale": [
+        "around"
+    ],
+    "ngc": [
+        "burn"
+    ],
+    "nge": [
+        "1MINII",
+        "nge"
+    ],
+    "ngelu": [
+        "light.the.way"
+    ],
+    "ngi": [
+        "be"
+    ],
+    "ngilo": [
+        "saturated"
+    ],
+    "ngini": [
+        "become"
+    ],
+    "ngq": [
+        "PL",
+        "3AUGIS",
+        "eat"
+    ],
+    "ngqba": [
+        "vomit"
+    ],
+    "ngr": [
+        "APPL",
+        "NMLZ",
+        "GEN1A",
+        "PROP",
+        "sing"
+    ],
+    "ngrla": [
+        "crawl"
+    ],
+    "ngrli": [
+        "trampled"
+    ],
+    "ngrlr": [
+        "hurry"
+    ],
+    "ngrlx": [
+        "daylight"
+    ],
+    "ni": [
+        "be",
+        "ACC",
+        "pick"
+    ],
+    "nibq": [
+        "kill"
+    ],
+    "nibr": [
+        "back.part"
+    ],
+    "nide": [
+        "be.3MINII"
+    ],
+    "nidr": [
+        "be.3ᴀᴜɢII"
+    ],
+    "nigr": [
+        "be.1AUGII"
+    ],
+    "nigu": [
+        "be.12AUGII"
+    ],
+    "nike": [
+        "what"
+    ],
+    "nim": [
+        "be.2MINII"
+    ],
+    "nimu": [
+        "be.2AUGII"
+    ],
+    "ninge": [
+        "be.1MINII"
+    ],
+    "ninz": [
+        "ngalinut"
+    ],
+    "nivz": [
+        "love"
+    ],
+    "noli": [
+        "hog.plum.fruit"
+    ],
+    "nou": [
+        "base"
+    ],
+    "nounc": [
+        "tree",
+        "stick"
+    ],
+    "nounenq": [
+        "cyclone"
+    ],
+    "nourla": [
+        "morning"
+    ],
+    "nq": [
+        "2MINI"
+    ],
+    "nqblq": [
+        "follow"
+    ],
+    "nqesa'": [
+        "banana.fibre.weaving"
+    ],
+    "nqlvi": [
+        "side"
+    ],
+    "nqmq": [
+        "way"
+    ],
+    "nqni": [
+        "mat"
+    ],
+    "nqvi": [
+        "rope",
+        "ancestral.line"
+    ],
+    "nr": [
+        "nr"
+    ],
+    "nra": [
+        "additional",
+        "fruit"
+    ],
+    "nrbalq": [
+        "nil"
+    ],
+    "nrc": [
+        "wave"
+    ],
+    "nrkrdrtq": [
+        "body"
+    ],
+    "nrla": [
+        "branch"
+    ],
+    "nrlanc": [
+        "garden"
+    ],
+    "nrlar": [
+        "side"
+    ],
+    "nrlc": [
+        "place"
+    ],
+    "nrlckxbq": [
+        "night"
+    ],
+    "nrpa": [
+        "news"
+    ],
+    "nrpq": [
+        "flower"
+    ],
+    "nrtq": [
+        "sand.seashell"
+    ],
+    "nrwx": [
+        "peace"
+    ],
+    "nrz": [
+        "dance.ring",
+        "paddle"
+    ],
+    "nu": [
+        "food.parcel",
+        "wrap"
+    ],
+    "nua'mu": [
+        "canoe"
+    ],
+    "nubla": [
+        "flood"
+    ],
+    "nuzmu": [
+        "canoe"
+    ],
+    "nwei'": [
+        "parrotfish"
+    ],
+    "nya": [
+        "taro"
+    ],
+    "nyr": [
+        "fire"
+    ],
+    "nyz": [
+        "PCLF.B&G"
+    ],
+    "nz": [
+        "3AUG",
+        "NMLZ1",
+        "PAS"
+    ],
+    "nzalvzngr": [
+        "nzalvzngr"
+    ],
+    "nzelangr": [
+        "dance"
+    ],
+    "nzkrka'": [
+        "prayer"
+    ],
+    "nzkrka'ngr": [
+        "prayer"
+    ],
+    "nzlc": [
+        "place"
+    ],
+    "nzlu": [
+        "coconut"
+    ],
+    "nzlvqn": [
+        "five"
+    ],
+    "nzmq": [
+        "grove"
+    ],
+    "nzmrgengr": [
+        "play"
+    ],
+    "nzmu": [
+        "if",
+        "then"
+    ],
+    "nzokatrngr": [
+        "nzokatrngr"
+    ],
+    "nzpnu": [
+        "ten"
+    ],
+    "nzrlwxngr": [
+        "reading"
+    ],
+    "nzrmangr": [
+        "brideprice.event"
+    ],
+    "nzryrngr": [
+        "writing"
+    ],
+    "nzryrngrkxtr": [
+        "holy.writings"
+    ],
+    "nzvecngr": [
+        "war"
+    ],
+    "nzwr": [
+        "time"
+    ],
+    "nzycmnengr": [
+        "speaking"
+    ],
+    "nzyrlzngr": [
+        "wedding"
+    ],
+    "o": [
+        "GDIR.DOWN",
+        "1MIN.CMB",
+        "go",
+        "or",
+        "o"
+    ],
+    "obla": [
+        "young.man"
+    ],
+    "obq": [
+        "look",
+        "awake",
+        "watch"
+    ],
+    "oda": [
+        "be.destroyed"
+    ],
+    "odu": [
+        "be.friends"
+    ],
+    "ofisz": [
+        "officer"
+    ],
+    "okatr": [
+        "help"
+    ],
+    "okla": [
+        "visit"
+    ],
+    "oliq": [
+        "prepare"
+    ],
+    "oliqti": [
+        "prepare.for"
+    ],
+    "olta": [
+        "altar"
+    ],
+    "olvi": [
+        "girl"
+    ],
+    "olvxti": [
+        "inspect"
+    ],
+    "olvz": [
+        "female",
+        "wife"
+    ],
+    "olz": [
+        "climb"
+    ],
+    "opilvz": [
+        "entwine"
+    ],
+    "opx": [
+        "go.out",
+        "clear"
+    ],
+    "opxm": [
+        "seems"
+    ],
+    "osz": [
+        "climb"
+    ],
+    "oti": [
+        "take"
+    ],
+    "otx": [
+        "pass"
+    ],
+    "otxpx": [
+        "go.out"
+    ],
+    "pas": [
+        "pass.exam"
+    ],
+    "pasto": [
+        "pastor"
+    ],
+    "pawi": [
+        "cut"
+    ],
+    "pc": [
+        "red"
+    ],
+    "pct": [
+        "pot"
+    ],
+    "pe": [
+        "COS",
+        "plant"
+    ],
+    "peao": [
+        "torch",
+        "dry.coconut.leaf"
+    ],
+    "pepz": [
+        "paper"
+    ],
+    "peti": [
+        "plant"
+    ],
+    "peto": [
+        "bush"
+    ],
+    "pi": [
+        "say",
+        "pi",
+        "think"
+    ],
+    "pilvz": [
+        "bandage"
+    ],
+    "pilz": [
+        "curse"
+    ],
+    "pipx": [
+        "declare"
+    ],
+    "pipz": [
+        "little.bit"
+    ],
+    "pistol": [
+        "pistol"
+    ],
+    "plamei": [
+        "break"
+    ],
+    "planteson": [
+        "plantation"
+    ],
+    "plastik": [
+        "plastic"
+    ],
+    "plc": [
+        "ripe",
+        "yellowish.green"
+    ],
+    "plrkqtu": [
+        "overgrown"
+    ],
+    "plx": [
+        "shark.fishing"
+    ],
+    "plzpx": [
+        "confess"
+    ],
+    "pna": [
+        "steal"
+    ],
+    "pna'": [
+        "shoot"
+    ],
+    "pnati": [
+        "steal"
+    ],
+    "pnu'ti": [
+        "treat.sore"
+    ],
+    "pnuti": [
+        "treat.sore"
+    ],
+    "pnz": [
+        "CMPL",
+        "shoot"
+    ],
+    "pnz'": [
+        "shoot",
+        "pnz'"
+    ],
+    "po": [
+        "young",
+        "move"
+    ],
+    "poi": [
+        "pig"
+    ],
+    "pokia": [
+        "lie"
+    ],
+    "popz'": [
+        "bow"
+    ],
+    "pq": [
+        "hot",
+        "PDIR.HITHER"
+    ],
+    "pr": [
+        "go",
+        "crack"
+    ],
+    "prcpelz": [
+        "propeller"
+    ],
+    "presiden": [
+        "president"
+    ],
+    "presin": [
+        "prison"
+    ],
+    "pripekt": [
+        "prefect"
+    ],
+    "prki": [
+        "white"
+    ],
+    "prla": [
+        "sea"
+    ],
+    "prngei": [
+        "creep"
+    ],
+    "profesz": [
+        "professor"
+    ],
+    "provins": [
+        "province"
+    ],
+    "prtr": [
+        "enter.in"
+    ],
+    "prtz": [
+        "happen",
+        "enter"
+    ],
+    "pu": [
+        "gun"
+    ],
+    "pulis": [
+        "police"
+    ],
+    "pwq": [
+        "only"
+    ],
+    "pwr": [
+        "defecate"
+    ],
+    "pwrkilvc": [
+        "startled"
+    ],
+    "pwx": [
+        "four"
+    ],
+    "pwz": [
+        "just",
+        "pwz"
+    ],
+    "px": [
+        "GDIR.OUT",
+        "refuse"
+    ],
+    "pxi": [
+        "wear.clothing"
+    ],
+    "pxyq": [
+        "wear"
+    ],
+    "pz": [
+        "PDIR.YON",
+        "cut.flesh"
+    ],
+    "pz'": [
+        "make.pudding"
+    ],
+    "q": [
+        "2MINI"
+    ],
+    "r": [
+        "GEN1A",
+        "MID",
+        "APPL",
+        "GEN1B"
+    ],
+    "raes": [
+        "rice"
+    ],
+    "rblx": [
+        "be.difficult"
+    ],
+    "rbr": [
+        "wrong"
+    ],
+    "rdatr": [
+        "persevere"
+    ],
+    "rkalz": [
+        "leave",
+        "set.out"
+    ],
+    "rke": [
+        "pick"
+    ],
+    "rkq": [
+        "pick"
+    ],
+    "rla": [
+        "morning",
+        "flee"
+    ],
+    "rlapx": [
+        "rescued"
+    ],
+    "rlasz": [
+        "leave"
+    ],
+    "rlilr": [
+        "both"
+    ],
+    "rlimz": [
+        "seven"
+    ],
+    "rlr": [
+        "allow"
+    ],
+    "rlru": [
+        "far"
+    ],
+    "rlwx": [
+        "read",
+        "count"
+    ],
+    "rlx": [
+        "ask"
+    ],
+    "rlxti": [
+        "ask.for"
+    ],
+    "rmcti": [
+        "meet"
+    ],
+    "rmnq": [
+        "drink"
+    ],
+    "rmnr": [
+        "last"
+    ],
+    "rngalx": [
+        "dawn"
+    ],
+    "rnzlvz": [
+        "step.on"
+    ],
+    "rpi": [
+        "said"
+    ],
+    "rpna'": [
+        "shoot"
+    ],
+    "rpwa'": [
+        "forbid"
+    ],
+    "rpwxmz": [
+        "nine"
+    ],
+    "rtangr": [
+        "search"
+    ],
+    "rtangrti": [
+        "search"
+    ],
+    "rtc": [
+        "throw",
+        "right"
+    ],
+    "rtctx": [
+        "throw.away"
+    ],
+    "rtqmz": [
+        "eight"
+    ],
+    "rtrngr": [
+        "do",
+        "take.hold.of"
+    ],
+    "rtwz": [
+        "take"
+    ],
+    "rum": [
+        "room"
+    ],
+    "ryapwx": [
+        "tell.a.story",
+        "converse"
+    ],
+    "sa": [
+        "IPFV"
+    ],
+    "sc": [
+        "PFV",
+        "PCLF.HAND"
+    ],
+    "se": [
+        "yet"
+    ],
+    "sef": [
+        "foodsafe"
+    ],
+    "sekaen": [
+        "shake.hands"
+    ],
+    "sekondzre": [
+        "secondary"
+    ],
+    "sele": [
+        "here"
+    ],
+    "seleng": [
+        "they.here"
+    ],
+    "set": [
+        "sector"
+    ],
+    "sezman": [
+        "chairman"
+    ],
+    "sikapu": [
+        "smoke"
+    ],
+    "siklu": [
+        "be.schooled",
+        "siklu"
+    ],
+    "sinia": [
+        "senior"
+    ],
+    "skul": [
+        "be.schooled",
+        "school",
+        "skul"
+    ],
+    "skulboe": [
+        "schoolboy"
+    ],
+    "sokz": [
+        "soccer"
+    ],
+    "sore": [
+        "sorry"
+    ],
+    "sport": [
+        "sport"
+    ],
+    "sr": [
+        "thusly"
+    ],
+    "srlrni": [
+        "coin"
+    ],
+    "stoa": [
+        "store"
+    ],
+    "stoakipz": [
+        "storekeeper"
+    ],
+    "stol": [
+        "stoll"
+    ],
+    "su": [
+        "be.cooking"
+    ],
+    "supe": [
+        "cooked"
+    ],
+    "suti": [
+        "want"
+    ],
+    "sx": [
+        "away.from"
+    ],
+    "sz": [
+        "very"
+    ],
+    "ta": [
+        "ring",
+        "fall"
+    ],
+    "tabao": [
+        "papaya"
+    ],
+    "tabr": [
+        "crush"
+    ],
+    "taea": [
+        "tire"
+    ],
+    "taepis": [
+        "typist"
+    ],
+    "takes": [
+        "tax"
+    ],
+    "takitr": [
+        "fitting"
+    ],
+    "tamiti": [
+        "persuade"
+    ],
+    "taol": [
+        "towel"
+    ],
+    "taplxsr": [
+        "be.distributed.evenly"
+    ],
+    "tave": [
+        "break"
+    ],
+    "tawa": [
+        "tower"
+    ],
+    "tcprtr": [
+        "stub"
+    ],
+    "te": [
+        "pull",
+        "3MINII"
+    ],
+    "tebol": [
+        "tebol"
+    ],
+    "teka": [
+        "ignite",
+        "weave.by.loom",
+        "weave.by.hand"
+    ],
+    "tekqtr": [
+        "exchange"
+    ],
+    "telvz": [
+        "ignite"
+    ],
+    "temz": [
+        "moon",
+        "month"
+    ],
+    "teomo": [
+        "manioc"
+    ],
+    "tes": [
+        "test"
+    ],
+    "testimcne": [
+        "testimony"
+    ],
+    "tewa": [
+        "rain"
+    ],
+    "ti": [
+        "TR",
+        "shine",
+        "PLCT"
+    ],
+    "tin": [
+        "can"
+    ],
+    "toki": [
+        "knife"
+    ],
+    "tolwa": [
+        "bind"
+    ],
+    "tonga": [
+        "wind.SE"
+    ],
+    "topwz": [
+        "be.small"
+    ],
+    "topwzne": [
+        "small"
+    ],
+    "tosi": [
+        "torchlight"
+    ],
+    "tq": [
+        "RL",
+        "three",
+        "RL.PAS"
+    ],
+    "tqlvr": [
+        "how.many"
+    ],
+    "tqlvz": [
+        "nail"
+    ],
+    "tr": [
+        "GDIR.IN",
+        "NEG",
+        "tr",
+        "holy",
+        "3AUGII"
+    ],
+    "trak": [
+        "truck"
+    ],
+    "traolvzu": [
+        "disagree"
+    ],
+    "trau": [
+        "money"
+    ],
+    "trgalr": [
+        "never.yet"
+    ],
+    "trka": [
+        "bad"
+    ],
+    "trkrlebq": [
+        "mortar"
+    ],
+    "trlaki": [
+        "wind.W"
+    ],
+    "trlipu": [
+        "rain.storm"
+    ],
+    "trloka": [
+        "swamp"
+    ],
+    "trmctu": [
+        "island"
+    ],
+    "trpengr": [
+        "not.anymore"
+    ],
+    "trpnzngr": [
+        "none"
+    ],
+    "trpq": [
+        "wild.taro"
+    ],
+    "trpu": [
+        "conch.shell"
+    ],
+    "trpulu": [
+        "fruiting.branch"
+    ],
+    "trte": [
+        "father"
+    ],
+    "trtingr": [
+        "no"
+    ],
+    "trtxpnzngr": [
+        "none.at.all"
+    ],
+    "tu": [
+        "stand"
+    ],
+    "tulr": [
+        "force"
+    ],
+    "tulz": [
+        "stand.up"
+    ],
+    "tutr": [
+        "be.struck",
+        "fulfill"
+    ],
+    "twz": [
+        "take"
+    ],
+    "tx": [
+        "INTS"
+    ],
+    "txne": [
+        "lowly"
+    ],
+    "txpwz": [
+        "only"
+    ],
+    "tz": [
+        "RL.3AUG",
+        "RL.PAS"
+    ],
+    "tzsiu": [
+        "monk"
+    ],
+    "u": [
+        "NEG"
+    ],
+    "utc": [
+        "bird"
+    ],
+    "vaol": [
+        "vowel"
+    ],
+    "vau": [
+        "middle"
+    ],
+    "ve": [
+        "accompany"
+    ],
+    "vea": [
+        "ask",
+        "war"
+    ],
+    "vec": [
+        "fight",
+        "pull"
+    ],
+    "vi": [
+        "squeeze"
+    ],
+    "vo": [
+        "travel",
+        "run.in.game"
+    ],
+    "vri": [
+        "star"
+    ],
+    "vz": [
+        "go",
+        "feel.sad",
+        "vz"
+    ],
+    "vzne": [
+        "walk"
+    ],
+    "vztr": [
+        "enter"
+    ],
+    "waea": [
+        "wire"
+    ],
+    "waelas": [
+        "wireless"
+    ],
+    "wai": [
+        "do"
+    ],
+    "wiki": [
+        "week"
+    ],
+    "wisol": [
+        "whistle"
+    ],
+    "wop": [
+        "wharf"
+    ],
+    "wq": [
+        "wq",
+        "blow.(wind)"
+    ],
+    "wrkxtr": [
+        "baptised"
+    ],
+    "wxbu": [
+        "sit"
+    ],
+    "wxliki": [
+        "be.in.pieces"
+    ],
+    "wz": [
+        "work",
+        "wz"
+    ],
+    "wzti": [
+        "wash"
+    ],
+    "x": [
+        "and",
+        "1MINI"
+    ],
+    "xlr": [
+        "hear"
+    ],
+    "xngi": [
+        "feel"
+    ],
+    "xpe": [
+        "pay",
+        "buy"
+    ],
+    "xplr": [
+        "strong"
+    ],
+    "ya": [
+        "paddle",
+        "ya"
+    ],
+    "yagox": [
+        "be.sick"
+    ],
+    "yaluli": [
+        "colorful"
+    ],
+    "yame": [
+        "sway"
+    ],
+    "yane": [
+        "paddling"
+    ],
+    "yangrnga": [
+        "weak"
+    ],
+    "yapilwz": [
+        "tangle"
+    ],
+    "yapwx": [
+        "tell"
+    ],
+    "yc": [
+        "stay",
+        "sorry"
+    ],
+    "ycblq": [
+        "naked"
+    ],
+    "ycmne": [
+        "speak"
+    ],
+    "ycpq": [
+        "wipe",
+        "wash"
+    ],
+    "ycpwz": [
+        "stay.back"
+    ],
+    "yctxo": [
+        "left.over"
+    ],
+    "ye": [
+        "only",
+        "in.fact",
+        "instead"
+    ],
+    "yiz": [
+        "year"
+    ],
+    "yolx": [
+        "remove.from.fire"
+    ],
+    "yr": [
+        "write",
+        "eat",
+        "draw"
+    ],
+    "yrbq": [
+        "lying.down"
+    ],
+    "yrbu": [
+        "full"
+    ],
+    "yrke": [
+        "exclaimed"
+    ],
+    "yrkr": [
+        "depart",
+        "finish",
+        "gather"
+    ],
+    "yrkrpx": [
+        "finished"
+    ],
+    "yrle": [
+        "flow",
+        "boil"
+    ],
+    "yrlq": [
+        "put"
+    ],
+    "yrlwr": [
+        "gather"
+    ],
+    "yrlz": [
+        "be.married",
+        "yrlz"
+    ],
+    "yrngz": [
+        "bent"
+    ],
+    "yrni": [
+        "cry"
+    ],
+    "yrpale": [
+        "laugh"
+    ],
+    "yrpla": [
+        "bang"
+    ],
+    "yrplati": [
+        "understand"
+    ],
+    "yrpu": [
+        "bang.against.st"
+    ],
+    "yrvi": [
+        "pull.out"
+    ],
+    "yz": [
+        "outside"
+    ],
+    "yzkr": [
+        "peel"
+    ],
+    "yzlo": [
+        "yellow"
+    ],
+    "yzlu": [
+        "return",
+        "reply"
+    ],
+    "yzpr": [
+        "break"
+    ],
+    "yzu": [
+        "begin"
+    ],
+    "yzuo": [
+        "start"
+    ],
+    "yzutr": [
+        "begin"
+    ],
+    "zbq": [
+        "day"
+    ],
+    "zbqkranzlvqn": [
+        "Friday"
+    ],
+    "zbrlxkz": [
+        "thirst"
+    ],
+    "zbz": [
+        "so.then"
+    ],
+    "zero": [
+        "zero"
+    ],
+    "zgu": [
+        "zgu"
+    ],
+    "zli": [
+        "along"
+    ],
+    "zlwz": [
+        "much"
+    ],
+    "zmatq": [
+        "power"
+    ],
+    "zmio": [
+        "shadow"
+    ],
+    "zpwx": [
+        "true",
+        "well"
+    ],
+    "zvz": [
+        "always"
+    ],
+    "zyagox": [
+        "sickness"
+    ],
+    "Ø": [
+        "3MINIS"
+    ],
+    "’,": [
+        "’,"
+    ],
+    "“": [
+        "“"
+    ],
+    "…": [
+        "…"
+    ]
+}

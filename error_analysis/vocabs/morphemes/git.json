@@ -1,0 +1,430 @@
+{
+    "'ak̲xw": [
+        "able"
+    ],
+    "'m": [
+        "1PL.II"
+    ],
+    "'nakw": [
+        "long"
+    ],
+    "'nii": [
+        "on"
+    ],
+    "'nim": [
+        "DES"
+    ],
+    "'nit": [
+        "3.III"
+    ],
+    "'wa": [
+        "find",
+        "reach"
+    ],
+    "'wihl": [
+        "around"
+    ],
+    "'wii": [
+        "big"
+    ],
+    "'witxw": [
+        "come"
+    ],
+    "'y": [
+        "1SG.II"
+    ],
+    "Canadanska": [
+        "Canadian"
+    ],
+    "Denmark": [
+        "Denmark"
+    ],
+    "IBM": [
+        "IBM"
+    ],
+    "Spain": [
+        "Spain"
+    ],
+    "Stockholm": [
+        "Stockholm"
+    ],
+    "a": [
+        "TR",
+        "PREP"
+    ],
+    "aam": [
+        "good"
+    ],
+    "aats'ip": [
+        "door"
+    ],
+    "agwi": [
+        "what"
+    ],
+    "agwiyukw": [
+        "because"
+    ],
+    "aks": [
+        "water"
+    ],
+    "ak̲": [
+        "lack"
+    ],
+    "am": [
+        "good"
+    ],
+    "amxsiwaa": [
+        "white.person"
+    ],
+    "an": [
+        "NMLZ",
+        "AX"
+    ],
+    "ap": [
+        "VER"
+    ],
+    "baasax̲": [
+        "separate"
+    ],
+    "baasx": [
+        "fear"
+    ],
+    "bakw": [
+        "arrive.PL"
+    ],
+    "bak̲": [
+        "try"
+    ],
+    "bax̲": [
+        "run"
+    ],
+    "daa": [
+        "SPT"
+    ],
+    "dii": [
+        "FOC"
+    ],
+    "diit": [
+        "3PL.II"
+    ],
+    "dim": [
+        "PROSP"
+    ],
+    "dok̲": [
+        "take.PL"
+    ],
+    "doosda": [
+        "across"
+    ],
+    "flika": [
+        "girl"
+    ],
+    "geenix": [
+        "upriver"
+    ],
+    "gi": [
+        "place",
+        "PR.EVID"
+    ],
+    "giihl": [
+        "lay"
+    ],
+    "guu": [
+        "take"
+    ],
+    "guxws": [
+        "back"
+    ],
+    "gwila'l": [
+        "three"
+    ],
+    "gya'a": [
+        "see"
+    ],
+    "g̲a": [
+        "DISTR"
+    ],
+    "g̲adaax": [
+        "perimeter"
+    ],
+    "g̲an": [
+        "PCNJ",
+        "REAS"
+    ],
+    "g̲ani": [
+        "continually"
+    ],
+    "g̲anuutxw": [
+        "week"
+    ],
+    "g̲ay": [
+        "CNTR"
+    ],
+    "g̲oo": [
+        "LOC"
+    ],
+    "g̲ook̲": [
+        "first"
+    ],
+    "g̲oot": [
+        "heart"
+    ],
+    "ha": [
+        "INS"
+    ],
+    "ha'w": [
+        "go.home"
+    ],
+    "hahla'lst": [
+        "work"
+    ],
+    "he": [
+        "say"
+    ],
+    "hl": [
+        "CN"
+    ],
+    "hla": [
+        "PART"
+    ],
+    "hlaa": [
+        "INCEP"
+    ],
+    "hlgu": [
+        "small"
+    ],
+    "hlguxws": [
+        "unable.to"
+    ],
+    "hli": [
+        "PART"
+    ],
+    "hoo": [
+        "again"
+    ],
+    "i": [
+        "TR",
+        "T"
+    ],
+    "ii": [
+        "CCNJ"
+    ],
+    "ii'uxwt": [
+        "man.PL"
+    ],
+    "imaa": [
+        "EPIS"
+    ],
+    "in": [
+        "CAUS2"
+    ],
+    "isxw": [
+        "pee"
+    ],
+    "it": [
+        "SX"
+    ],
+    "jap": [
+        "make"
+    ],
+    "ji": [
+        "IRR"
+    ],
+    "jok̲": [
+        "live"
+    ],
+    "k'i'y": [
+        "one"
+    ],
+    "k'uuhl": [
+        "year"
+    ],
+    "kw'as": [
+        "break"
+    ],
+    "ky'aa": [
+        "short.prepare"
+    ],
+    "k̲'aa": [
+        "short.time"
+    ],
+    "k̲'ak̲": [
+        "open"
+    ],
+    "lax̲": [
+        "on"
+    ],
+    "lax̲'ni": [
+        "hear"
+    ],
+    "ligi": [
+        "DWID"
+    ],
+    "lip": [
+        "SELF"
+    ],
+    "loo": [
+        "OBL"
+    ],
+    "luu": [
+        "in"
+    ],
+    "mail'y": [
+        "mail"
+    ],
+    "n": [
+        "1.I"
+    ],
+    "na": [
+        "1.I"
+    ],
+    "naa": [
+        "who"
+    ],
+    "naks": [
+        "spouse"
+    ],
+    "nee": [
+        "NEG",
+        "not.so"
+    ],
+    "ni": [
+        "1.I"
+    ],
+    "no'o": [
+        "hole"
+    ],
+    "office": [
+        "office"
+    ],
+    "oo": [
+        "oh"
+    ],
+    "pipe": [
+        "pipe"
+    ],
+    "pole": [
+        "pole"
+    ],
+    "s": [
+        "PN",
+        "PASS"
+    ],
+    "sdil": [
+        "accompany"
+    ],
+    "sgi": [
+        "lie.on"
+    ],
+    "sgwaa'ytxw": [
+        "rest"
+    ],
+    "sg̲a": [
+        "block.way"
+    ],
+    "si": [
+        "CAUS1"
+    ],
+    "si'ix": [
+        "try"
+    ],
+    "siip'": [
+        "like"
+    ],
+    "sxw": [
+        "ANTIP"
+    ],
+    "t": [
+        "T",
+        "3.II",
+        "3.I",
+        "PN",
+        "DM"
+    ],
+    "t'aahl": [
+        "pick"
+    ],
+    "t'akw": [
+        "turn"
+    ],
+    "t'ilx̲oo": [
+        "thought"
+    ],
+    "train": [
+        "train"
+    ],
+    "ts'im": [
+        "in"
+    ],
+    "ts'imil": [
+        "inside"
+    ],
+    "txw": [
+        "PASS"
+    ],
+    "un": [
+        "DEM.PROX"
+    ],
+    "up": [
+        "in.case"
+    ],
+    "wa": [
+        "name"
+    ],
+    "wag̲ayt": [
+        "completely"
+    ],
+    "wan": [
+        "sit.PL"
+    ],
+    "wil": [
+        "LVB",
+        "COMP"
+    ],
+    "wila": [
+        "MANR"
+    ],
+    "wilp": [
+        "house"
+    ],
+    "wok̲": [
+        "sleep"
+    ],
+    "xhlii": [
+        "all.the.way"
+    ],
+    "xsaxw": [
+        "go.out"
+    ],
+    "xseek̲": [
+        "go.out.PL"
+    ],
+    "xsi": [
+        "out"
+    ],
+    "xw": [
+        "PASS",
+        "VAL"
+    ],
+    "xwin": [
+        "DEM.PROX"
+    ],
+    "yalt": [
+        "return"
+    ],
+    "yats": [
+        "hit"
+    ],
+    "yee": [
+        "go"
+    ],
+    "yo'oxs": [
+        "wash"
+    ],
+    "yukw": [
+        "IPFV"
+    ],
+    "yuxw": [
+        "follow"
+    ]
+}

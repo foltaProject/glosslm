@@ -1,0 +1,4905 @@
+{
+    "*committee": [
+        "**committee"
+    ],
+    "*fine": [
+        "fine"
+    ],
+    "Akumawú-ɔ́": [
+        "Akumawu_clan-DEF"
+    ],
+    "Asafoatsyɛ": [
+        "war_chief"
+    ],
+    "Avɛnɔ": [
+        "Aveno"
+    ],
+    "Bamálɛ̃́": [
+        "Nyigbe"
+    ],
+    "Banyá": [
+        "Nyagbo_Sroe",
+        "Banya",
+        "Esroe"
+    ],
+    "Banyá-á": [
+        "Nyagbo_Sroe-DEF"
+    ],
+    "Begbe": [
+        "Konda"
+    ],
+    "Egɛ̃": [
+        "Accra"
+    ],
+    "Eɖiɛwónɔ": [
+        "Ediewono"
+    ],
+    "Hahuté": [
+        "Hahute"
+    ],
+    "Máwú": [
+        "God"
+    ],
+    "Nyagasí": [
+        "Nyagasi"
+    ],
+    "Okú-mɛ": [
+        "Oku-inside"
+    ],
+    "Okú-ɔ́": [
+        "Oku-DEF"
+    ],
+    "Oxomɛ": [
+        "Oxome_clan"
+    ],
+    "Tingbě": [
+        "Ewe_language"
+    ],
+    "a": [
+        "AM",
+        "CM"
+    ],
+    "a-á": [
+        "3SG-PROG"
+    ],
+    "a-á-mɔ": [
+        "3SG-PROG-see"
+    ],
+    "a-á-pɛ": [
+        "3SG-PROG-want",
+        "AM-PROG-look_for"
+    ],
+    "a-á-wɔɛ": [
+        "3SG-PROG-deceive"
+    ],
+    "a-á-wɛ̃": [
+        "3SG-PROG-drink",
+        "AM-PROG-drink"
+    ],
+    "a-á-ɖɔ": [
+        "AM-PROG-say"
+    ],
+    "a-ba": [
+        "AM-come",
+        "SCONN-come",
+        "3SG-come"
+    ],
+    "a-ba-ba": [
+        "AM-VENTIVE-come"
+    ],
+    "a-ba-baka": [
+        "SCONN-VENTIVE-remind"
+    ],
+    "a-ba-balɛ": [
+        "3SG-FUT-pour"
+    ],
+    "a-ba-bá": [
+        "SCONN-FUT-come",
+        "3SG-FUT-come"
+    ],
+    "a-ba-bhɛtɛ": [
+        "3SG-FUT-do"
+    ],
+    "a-ba-dɔ": [
+        "3SG-FUT-sleep"
+    ],
+    "a-ba-gbagba": [
+        "AM-FUT-overflow"
+    ],
+    "a-ba-kpâ": [
+        "3SG-FUT-be_dry"
+    ],
+    "a-ba-kɔ́": [
+        "AM-FUT-give",
+        "3SG-FUT-give"
+    ],
+    "a-ba-lɔkɔ": [
+        "3SG-VENTIVE-take",
+        "3SG-FUT-take"
+    ],
+    "a-ba-ma": [
+        "AM-VENTIVE-NEG:be_at"
+    ],
+    "a-ba-mɔ": [
+        "SCONN-VENTIVE-see",
+        "3SG-VENTIVE-find"
+    ],
+    "a-ba-ná": [
+        "3SG-VENTIVE-suffice"
+    ],
+    "a-ba-plɛ́nɔ": [
+        "AM-VENTIVE-add_to"
+    ],
+    "a-ba-shɔ": [
+        "3SG-VENTIVE-pierce"
+    ],
+    "a-ba-shɛ̃": [
+        "3SG-VENTIVE-leave"
+    ],
+    "a-ba-tóŋú": [
+        "3SG-FUT-be_able"
+    ],
+    "a-ba-tsɛ́": [
+        "3SG-VENTIVE-take"
+    ],
+    "a-ba-tɔ": [
+        "SCONN-VENTIVE-cook"
+    ],
+    "a-ba-vɛ": [
+        "AM-FUT-go"
+    ],
+    "a-ba-yikɛ": [
+        "AM-FUT-receive"
+    ],
+    "a-ba-zã": [
+        "AM-VENTIVE-remain",
+        "AM-FUT-remain",
+        "SCONN-VENTIVE-remain"
+    ],
+    "a-ba-ŋa": [
+        "AM-FUT-eat"
+    ],
+    "a-baka": [
+        "SCONN-remind"
+    ],
+    "a-balɛ": [
+        "SCONN-pour"
+    ],
+    "a-bá": [
+        "SCONN-come",
+        "AM-come",
+        "3SG-come"
+    ],
+    "a-bha": [
+        "CM-top",
+        "AM-top",
+        "SCONN-top"
+    ],
+    "a-bha-": [
+        "CM-top-"
+    ],
+    "a-bha-ma": [
+        "AM-top-NEG:be_at"
+    ],
+    "a-bhlatɔ": [
+        "CM-other"
+    ],
+    "a-bhɛtɛ": [
+        "AM-do",
+        "SCONN-do",
+        "3SG-do"
+    ],
+    "a-bɔbɔ": [
+        "3SG-bend"
+    ],
+    "a-da": [
+        "3SG-ITIVE"
+    ],
+    "a-da-kpɛ́": [
+        "AM-ITIVE-put"
+    ],
+    "a-da-lɔkɔ": [
+        "3SG-ITIVE-take"
+    ],
+    "a-da-nyana": [
+        "AM-ITIVE-hold"
+    ],
+    "a-da-nyɔ́": [
+        "3SG-ITIVE-roam"
+    ],
+    "a-da-sɔkɛ́": [
+        "3SG-ITIVE-pluck"
+    ],
+    "a-da-wɔ̃sɔ̃": [
+        "AM-ITIVE-lie"
+    ],
+    "a-da-wɛ̃": [
+        "3SG-ITIVE-drink"
+    ],
+    "a-dalɛ̃": [
+        "3SG-open"
+    ],
+    "a-dá": [
+        "CM-sister"
+    ],
+    "a-dámɛ": [
+        "CM-crown"
+    ],
+    "a-di-zã": [
+        "3SG-ITIVE-remain"
+    ],
+    "a-dza": [
+        "3SG-REP"
+    ],
+    "a-dzi": [
+        "AM-become"
+    ],
+    "a-dzya-alɛ́": [
+        "INTER-brother-PL"
+    ],
+    "a-dzɛ̃": [
+        "CM-woman"
+    ],
+    "a-dzɛ̃-ɛ́": [
+        "CM-woman-DEF"
+    ],
+    "a-dzɛ̃núvɔɛ": [
+        "CM-girl"
+    ],
+    "a-dzɛ̃̌": [
+        "CM-woman"
+    ],
+    "a-dzɛ̃̌-ɛ́": [
+        "CM-woman-DEF"
+    ],
+    "a-dɔ̌": [
+        "AM-to_land_at"
+    ],
+    "a-fɔ̃": [
+        "AM-fart"
+    ],
+    "a-gã": [
+        "AM-walk",
+        "CM-animal"
+    ],
+    "a-gbana": [
+        "3SG-lead",
+        "SCONN-lead"
+    ],
+    "a-gbɔ": [
+        "CM-Tafi_person"
+    ],
+    "a-gbɛ̃": [
+        "CM-bowl"
+    ],
+    "a-glɔ": [
+        "CM-each_other"
+    ],
+    "a-gɛ": [
+        "3SG-NEG:PST"
+    ],
+    "a-gɛ-ba-á-wɛ̃": [
+        "3SG-REL-3PL-PROG-drink"
+    ],
+    "a-gɛ-ba-ɖɔ": [
+        "3SG-NEG:PST-VENTIVE-say"
+    ],
+    "a-gɛ-fuyã": [
+        "3SG-NEG:PST-cut_in_bunches"
+    ],
+    "a-gɛ-pɛ": [
+        "AM-NEG:PST-want"
+    ],
+    "a-gɛ-tsyɔ": [
+        "3SG-NEG:PST-quickly"
+    ],
+    "a-hĩa": [
+        "3SG-need"
+    ],
+    "a-hĩá": [
+        "3SG-need"
+    ],
+    "a-hĩ́á": [
+        "AM-need"
+    ],
+    "a-hwana": [
+        "AM-move"
+    ],
+    "a-hɔɛ": [
+        "CM-hand",
+        "AM-hand"
+    ],
+    "a-ka": [
+        "CM-father"
+    ],
+    "a-ka-alɛ": [
+        "CM:PL-father-PL"
+    ],
+    "a-ka-alɛ́": [
+        "CM-father-PL",
+        "CM-ancestor-PL"
+    ],
+    "a-ka-á-bá": [
+        "AM-still-PROG-come"
+    ],
+    "a-ka-álɛ́": [
+        "CM-then-PL",
+        "CM-father-PL"
+    ],
+    "a-kaka": [
+        "SCONN-disperse",
+        "AM-disperse"
+    ],
+    "a-kakála": [
+        "CM-announcer"
+    ],
+    "a-kanyáka": [
+        "CM-everybody"
+    ],
+    "a-kasɛ́": [
+        "AM-teach",
+        "3SG-show",
+        "3SG-teach",
+        "CM:PL-teach"
+    ],
+    "a-ká": [
+        "AM-make_contact"
+    ],
+    "a-kála": [
+        "AM-announce"
+    ],
+    "a-kányáka": [
+        "CM-every"
+    ],
+    "a-kpa": [
+        "AM-begin"
+    ],
+    "a-kpasɛ": [
+        "3SG-be_contained",
+        "AM-be_contained",
+        "SCONN-be_contained",
+        "CM-be_contained"
+    ],
+    "a-kpâ": [
+        "3SG-be_dry"
+    ],
+    "a-kpɛ́": [
+        "SCONN-put_in",
+        "AM-put_in",
+        "3SG-put",
+        "3SG-put_in",
+        "SCONN-put",
+        "AM-put"
+    ],
+    "a-kukɔlí": [
+        "CM-necklace",
+        "CM-bead"
+    ],
+    "a-kɔ": [
+        "AM-give"
+    ],
+    "a-kɔlɔ": [
+        "CM-bark|shell"
+    ],
+    "a-kɔlɛ": [
+        "AM-cough"
+    ],
+    "a-kɔ́": [
+        "SCONN-give",
+        "AM-give",
+        "3SG-give"
+    ],
+    "a-kɔ́lɔ́": [
+        "CM-bark",
+        "CM-outer_covering"
+    ],
+    "a-lɔkɔ": [
+        "SCONN-take",
+        "CM-take",
+        "3SG-take",
+        "AM-take"
+    ],
+    "a-lɔkɔ-e": [
+        "3SG-take-1SG"
+    ],
+    "a-lɔkɔ-ɛ": [
+        "AM-take-3SG",
+        "3SG-take-3SG"
+    ],
+    "a-lɔ́": [
+        "3SG-get_up"
+    ],
+    "a-lɛ": [
+        "CM-3SG",
+        "AM-be_at",
+        "CM-3PL",
+        "CM-this",
+        "3SG-this",
+        "CM:PL-this",
+        "AM-this",
+        "CM:PL-3PL"
+    ],
+    "a-lɛ́": [
+        "CM-that",
+        "AM-be_at",
+        "3SG-be_at",
+        "3SG-3SG",
+        "CM-3SG"
+    ],
+    "a-ma": [
+        "AM-NEG:be_at"
+    ],
+    "a-mánkraɖo": [
+        "CM-chief_priest"
+    ],
+    "a-mpɛ": [
+        "CM-side"
+    ],
+    "a-mɔ": [
+        "AM-see",
+        "SCONN-see",
+        "3SG-see"
+    ],
+    "a-mɔ́": [
+        "CM-unprocessed_rice"
+    ],
+    "a-mɛ": [
+        "CM-face"
+    ],
+    "a-ná": [
+        "3SG-suffice"
+    ],
+    "a-nuvɔ": [
+        "CM-child"
+    ],
+    "a-nyana": [
+        "AM-hold",
+        "3SG-hold"
+    ],
+    "a-nyanya": [
+        "CM-sick_person"
+    ],
+    "a-nyá": [
+        "CM-tie",
+        "AM-tie",
+        "3SG-just"
+    ],
+    "a-nyá-da-wɛ̃": [
+        "3SG-just-ITIVE-drink"
+    ],
+    "a-nyɛ": [
+        "CM-man"
+    ],
+    "a-nyɛ-ɛ́": [
+        "CM-maN-DEF",
+        "CM-man-DEF"
+    ],
+    "a-nyɛ́": [
+        "CM-man"
+    ],
+    "a-nyɛ́-ɛ́": [
+        "CM-man-DEF"
+    ],
+    "a-nyɛ́núvɔɛ": [
+        "CM-boy",
+        "AM-boy"
+    ],
+    "a-nɔ": [
+        "CM-person"
+    ],
+    "a-nɔ-dzɛ̃": [
+        "CM-person-woman"
+    ],
+    "a-nɔ-nyɛ́": [
+        "CM-person-man"
+    ],
+    "a-nɔ-ɔ": [
+        "CM-person-DEF"
+    ],
+    "a-nɔnyíánɔ": [
+        "CM-everyone"
+    ],
+    "a-nɔ́dzyramɛ": [
+        "CM-human_being"
+    ],
+    "a-nɔ́dzɛ̃": [
+        "CM-female_person",
+        "CM-female"
+    ],
+    "a-nɛ": [
+        "3SG-NEG:be",
+        "CM-NEG:be"
+    ],
+    "a-paleté-ɛ́": [
+        "CM-master-DEF"
+    ],
+    "a-plɛ́nɔ": [
+        "3SG-help"
+    ],
+    "a-pwɛ̃": [
+        "SCONN-look_through"
+    ],
+    "a-pɔ̃́": [
+        "AM-drop",
+        "3SG-drop"
+    ],
+    "a-pɛ": [
+        "3SG-want",
+        "AM-look_for",
+        "AM-want"
+    ],
+    "a-safo": [
+        "CM-youth"
+    ],
+    "a-safoatsyɛ": [
+        "CM-warrior"
+    ],
+    "a-sha": [
+        "CM-horn"
+    ],
+    "a-shwĩ": [
+        "CM-chief"
+    ],
+    "a-shwĩ-álɛ́": [
+        "CM-grandfather-PL"
+    ],
+    "a-shɛ̃": [
+        "3SG-leave",
+        "AM-leave"
+    ],
+    "a-sɔkɛ́": [
+        "AM-pluck"
+    ],
+    "a-sɔlɛ": [
+        "3SG-catch_fire",
+        "SCONN-catch_fire",
+        "AM-catch_fire"
+    ],
+    "a-sɛ": [
+        "SCONN-that",
+        "3SG-say",
+        "AM-say",
+        "AM-that",
+        "SCONN-say"
+    ],
+    "a-sɛnɛ́": [
+        "CM-lie"
+    ],
+    "a-sɛ́m": [
+        "CM-matter"
+    ],
+    "a-ta": [
+        "SCONN-carry_on_back"
+    ],
+    "a-toró": [
+        "SCONN-spin"
+    ],
+    "a-tɔ": [
+        "SCONN-cook",
+        "3SG-cook"
+    ],
+    "a-tɔɖɔ": [
+        "SCONN-put_on",
+        "AM-put_on"
+    ],
+    "a-tɛ́-ba-nyá": [
+        "3SG-NEG:PRES-FUT-tie"
+    ],
+    "a-tɛ́-ba-tɔnɔ": [
+        "SCONN-already-VENTIVE-follow"
+    ],
+    "a-tɛ́-lɔkɔ": [
+        "3SG-already-take"
+    ],
+    "a-vɔbɔ́": [
+        "CM:PL-frog",
+        "AM-bury"
+    ],
+    "a-vɛ": [
+        "3SG-go",
+        "SCONN-go",
+        "AM-go"
+    ],
+    "a-vɛ-nɔ": [
+        "SCONN-go-COMITATIVE"
+    ],
+    "a-wa": [
+        "AM-do"
+    ],
+    "a-wɔ̃hũ̌": [
+        "CM-eye"
+    ],
+    "a-wɔ̃sɔ̃": [
+        "AM-lie"
+    ],
+    "a-wɛ̃": [
+        "3SG-drink",
+        "AM-drink"
+    ],
+    "a-xátsá": [
+        "CM-wrap",
+        "3SG-wrap"
+    ],
+    "a-xwɛ̃": [
+        "CM-work"
+    ],
+    "a-xwɛ̃-wa-kɔ́": [
+        "CM-work-do-place"
+    ],
+    "a-yakpa": [
+        "CM-bush"
+    ],
+    "a-yalɛ": [
+        "3SG-gather"
+    ],
+    "a-yĩsɛ": [
+        "CM-sand"
+    ],
+    "a-yɔrɔ": [
+        "3SG-wilt",
+        "3SG-wither"
+    ],
+    "a-yɛ": [
+        "CM-forest"
+    ],
+    "a-yɛ-ɛ": [
+        "CM-forest-TP"
+    ],
+    "a-yɛkɛ": [
+        "AM-receive"
+    ],
+    "a-yɛ̌": [
+        "CM-forest"
+    ],
+    "a-zaa-bhɛtɛ-i": [
+        "AM-not_again-do-3SG"
+    ],
+    "a-zã": [
+        "AM-remain"
+    ],
+    "a-zǎ": [
+        "AM-pass_the_night"
+    ],
+    "a-zhĩá": [
+        "SCONN-need"
+    ],
+    "a-zɛ": [
+        "AM-REP",
+        "3SG-REP"
+    ],
+    "a-zɛ-a-ba": [
+        "AM-REP-AM-come"
+    ],
+    "a-zɛ-a-gbana": [
+        "3SG-REP-3SG-lead"
+    ],
+    "a-zɛ-a-nyana": [
+        "AM-REP-SCONN-hold"
+    ],
+    "a-zɛ-a-vɛ": [
+        "AM-REP-AM-go"
+    ],
+    "a-ŋa": [
+        "AM-eat"
+    ],
+    "a-ɖɔ": [
+        "3SG-say"
+    ],
+    "aa": [
+        "well"
+    ],
+    "adewu": [
+        "hunting_garment"
+    ],
+    "afa": [
+        "who"
+    ],
+    "ahã": [
+        "that's_right"
+    ],
+    "akanyáka": [
+        "everybody"
+    ],
+    "akumawú": [
+        "Akumawu"
+    ],
+    "aló": [
+        "or"
+    ],
+    "alóbɔ-dɔ̃": [
+        "orCM:PL-thing"
+    ],
+    "alɛ́": [
+        "PL",
+        "3PL"
+    ],
+    "amaneɛ́": [
+        "what_is_it"
+    ],
+    "ana": [
+        "thus"
+    ],
+    "ansɛ": [
+        "as"
+    ],
+    "ao": [
+        "no"
+    ],
+    "aɖatsigoé": [
+        "tree_name"
+    ],
+    "aɖufeɛ̃́hókúí": [
+        "adufehokui"
+    ],
+    "aɖuƒéɛhókúí": [
+        "NAME"
+    ],
+    "á": [
+        "PROG"
+    ],
+    "á-kaka": [
+        "AM-disperse"
+    ],
+    "á-lɔ́kɔ": [
+        "AM-take"
+    ],
+    "á-lɛ́": [
+        "CM-3SG"
+    ],
+    "á-pɛ": [
+        "PROG-look_for"
+    ],
+    "á-xwɛ̃": [
+        "DEF-work"
+    ],
+    "á-ŋa": [
+        "PROG-eat"
+    ],
+    "álɛ́": [
+        "3PL"
+    ],
+    "ánána": [
+        "nobody"
+    ],
+    "áníí": [
+        "thus"
+    ],
+    "ba": [
+        "CM:PL",
+        "cheat",
+        "come",
+        "3PL"
+    ],
+    "ba-á-balɛ": [
+        "3PL-PROG-pour"
+    ],
+    "ba-á-bhɛtɛ": [
+        "3PL-PROG-do"
+    ],
+    "ba-á-gã": [
+        "3PL-PROG-walk"
+    ],
+    "ba-á-gbana": [
+        "3PL-PROG-marry",
+        "CM:PL-PROG-marry"
+    ],
+    "ba-á-ka": [
+        "3PL-PROG-say"
+    ],
+    "ba-á-mɔ": [
+        "3PL-PROG-find"
+    ],
+    "ba-á-pɛ": [
+        "3PL-PROG-look_for"
+    ],
+    "ba-á-tɔɖɔ": [
+        "3PL-PROG-put_on"
+    ],
+    "ba-á-wɛ̃": [
+        "3PL-PROG-drink"
+    ],
+    "ba-á-ɖɔ": [
+        "3PL-PROG-say"
+    ],
+    "ba-ba": [
+        "FUT-come",
+        "3PL-come"
+    ],
+    "ba-ba-á-kpɛ́": [
+        "3PL-VENTIVE-PROG-put_in"
+    ],
+    "ba-ba-bhɛtɛ": [
+        "3PL-FUT-do"
+    ],
+    "ba-ba-bɔ́": [
+        "3PL-VENTIVE-narrate"
+    ],
+    "ba-ba-dzyɔ": [
+        "3PL-FUT-contribute"
+    ],
+    "ba-ba-kɔ": [
+        "3PL-VENTIVE-give"
+    ],
+    "ba-ba-kɔ́": [
+        "3PL-FUT-give",
+        "3PL-VENTIVE-give"
+    ],
+    "ba-ba-kɔ́-ɛ": [
+        "3PL-FUT-give-3SG"
+    ],
+    "ba-ba-lɔkɔ": [
+        "3PL-FUT-take"
+    ],
+    "ba-ba-lɔ́": [
+        "3PL-VENTIVE-get_up"
+    ],
+    "ba-ba-mana": [
+        "3PL-FUT-come_with"
+    ],
+    "ba-ba-plɛ́nɔ": [
+        "3PL-VENTIVE-help"
+    ],
+    "ba-ba-sɛnɔ": [
+        "3PL-VENTIVE-greet"
+    ],
+    "ba-ba-tɔ": [
+        "3PL-FUT-cook"
+    ],
+    "ba-ba-tɔɖɔ": [
+        "3PL-FUT-put_on"
+    ],
+    "ba-ba-wa": [
+        "3PL-FUT-do"
+    ],
+    "ba-ba-wɛ̃": [
+        "3PL-FUT-drink",
+        "3PL-3PL-drink"
+    ],
+    "ba-ba-yɛkɛ": [
+        "CM:PL-FUT-receive"
+    ],
+    "ba-ba-yɛ̌": [
+        "3PL-VENTIVE-break"
+    ],
+    "ba-ba-ɖɔ": [
+        "3PL-FUT-say"
+    ],
+    "ba-bá": [
+        "AM-come"
+    ],
+    "ba-bá-á": [
+        "VENTIVE-come-DEF"
+    ],
+    "ba-bhɛtɛ": [
+        "3PL-do"
+    ],
+    "ba-bí": [
+        "FUT-be_cooked"
+    ],
+    "ba-da-kpɛ́": [
+        "AM-ITIVE-put_in"
+    ],
+    "ba-da-lɔkɔ": [
+        "3PL-ITIVE-take"
+    ],
+    "ba-da-yɛ̌": [
+        "3PL-ITIVE-break"
+    ],
+    "ba-dã": [
+        "3PL-close"
+    ],
+    "ba-dě": [
+        "FUT-come_from"
+    ],
+    "ba-dza": [
+        "3PL-weed"
+    ],
+    "ba-dzɛ̃̌": [
+        "CM:PL-woman"
+    ],
+    "ba-dzɛ̃̌-nuvɔɛ": [
+        "CM:PL-woman-child"
+    ],
+    "ba-dzɛ̃̌-ɛ́": [
+        "CM:PL-woman-DEF"
+    ],
+    "ba-dɛ": [
+        "3PL-go_to"
+    ],
+    "ba-dɛmɛ́": [
+        "CM:PL-agree"
+    ],
+    "ba-fla": [
+        "3PL-pass"
+    ],
+    "ba-gã": [
+        "3PL-walk",
+        "AM-walk"
+    ],
+    "ba-gbagba": [
+        "3PL-spread"
+    ],
+    "ba-gbana": [
+        "3PL-lead",
+        "3PL-accompany"
+    ],
+    "ba-gɛ": [
+        "3PL-REL"
+    ],
+    "ba-gɛ-mɔ": [
+        "3PL-NEG:PST-see",
+        "3PL-NEG:PST-find"
+    ],
+    "ba-ka": [
+        "CM:PL-father"
+    ],
+    "ba-ka-á-bhɛtɛ": [
+        "FUT-still-PROG-do"
+    ],
+    "ba-kla": [
+        "3PL-count"
+    ],
+    "ba-kpasɛ": [
+        "3PL-be_contained"
+    ],
+    "ba-kpɛ́": [
+        "3PL-put_in"
+    ],
+    "ba-kpɛ́-ɛ": [
+        "3PL-put_in-3SG"
+    ],
+    "ba-kɔ": [
+        "3PL-give"
+    ],
+    "ba-kɔnú": [
+        "CM:PL-custom"
+    ],
+    "ba-kɔ́": [
+        "3PL-give"
+    ],
+    "ba-lɔkɔ": [
+        "3PL-take"
+    ],
+    "ba-ma-leté": [
+        "CM:PL-state-owner"
+    ],
+    "ba-ma-ɛ": [
+        "VENTIVE-NEG:be_at-3SG"
+    ],
+    "ba-mana": [
+        "3PL-come_with"
+    ],
+    "ba-mɔ": [
+        "3PL-see"
+    ],
+    "ba-nyá": [
+        "3PL-tie"
+    ],
+    "ba-nyɛ́": [
+        "CM:PL-man"
+    ],
+    "ba-nyɛ́-ɛ́": [
+        "CM:PL-man-DEF"
+    ],
+    "ba-nɔ": [
+        "CM:PL-person"
+    ],
+    "ba-plɛ́nɔ": [
+        "3PL-help"
+    ],
+    "ba-shɛ̃": [
+        "3PL-leave"
+    ],
+    "ba-sɛ": [
+        "3PL-say"
+    ],
+    "ba-sɛnɔ": [
+        "3PL-greet"
+    ],
+    "ba-tá": [
+        "3PL-draw"
+    ],
+    "ba-té-ba-bɔ": [
+        "3PL-NEG:PRES-VENTIVE-crow"
+    ],
+    "ba-trugbu": [
+        "CM:PL-Tutrugbu_person"
+    ],
+    "ba-trugbu-dzi": [
+        "CM:PL-Tutrugbu_person-become"
+    ],
+    "ba-trugbu-ma": [
+        "CM:PL-Tutrugbu_person-state"
+    ],
+    "ba-trugbu-ɔ": [
+        "CM:PL-Tutrugbu_person-DEF"
+    ],
+    "ba-trugbu-ɔblɔ": [
+        "CM:PL-Tutrugbu_person-DEF1PL"
+    ],
+    "ba-tswa-": [
+        "VENTIVE-meet-"
+    ],
+    "ba-tsyiami": [
+        "CM-spokesperson"
+    ],
+    "ba-tɔɖɔ": [
+        "3PL-put_on"
+    ],
+    "ba-tɛ́-ba-kpɛ́": [
+        "AM-NEG:PRES-FUT-put_in"
+    ],
+    "ba-tɛ́-bágɛ": [
+        "AM-already-comeREL"
+    ],
+    "ba-tɛ́-gã": [
+        "3PL-already-walk"
+    ],
+    "ba-tɛ́-ka-á-bhɛtɛ": [
+        "3PL-NEG:PRES-not_yet-PROG-do",
+        "3PL-NEG:PRES-still-PROG-do"
+    ],
+    "ba-tɛ́-ka-á-kpɛ́samɛ": [
+        "AM-NEG:PRES-still-PROG-put_inhappiness"
+    ],
+    "ba-tɛ́-wa": [
+        "3PL-already-do"
+    ],
+    "ba-vɔbɔ́-ɛ": [
+        "3PL-bury-3SG"
+    ],
+    "ba-vɛ": [
+        "FUT-go",
+        "3PL-go"
+    ],
+    "ba-wa": [
+        "3PL-do"
+    ],
+    "ba-wá": [
+        "CM:PL-medicine"
+    ],
+    "ba-wɛ̃": [
+        "3PL-drink"
+    ],
+    "ba-yikɛ": [
+        "3PL-receive"
+    ],
+    "ba-yɔ́": [
+        "FUT-be_cold"
+    ],
+    "ba-yɛkɛ": [
+        "AM-receive",
+        "3PL-receive"
+    ],
+    "ba-yɛ̌": [
+        "3PL-break"
+    ],
+    "ba-zã": [
+        "3PL-remain"
+    ],
+    "ba-zhĩã": [
+        "3PL-sing"
+    ],
+    "ba-zɛ": [
+        "3PL-REP"
+    ],
+    "ba-zɛ-a-shɛ̃": [
+        "3PL-REP-SCONN-leave"
+    ],
+    "ba-ŋa": [
+        "3PL-eat"
+    ],
+    "ba-ɖɔ": [
+        "FUT-say"
+    ],
+    "ba-ɖɔ-ɔ": [
+        "3PL-say-TP"
+    ],
+    "bage": [
+        "bag"
+    ],
+    "bage-ɛ́": [
+        "bag-DEF"
+    ],
+    "baka": [
+        "remind"
+    ],
+    "balɛ": [
+        "3PL",
+        "their"
+    ],
+    "bamɛ": [
+        "face"
+    ],
+    "bá": [
+        "come"
+    ],
+    "bá-tɔɖɔ": [
+        "come-put_on"
+    ],
+    "be": [
+        "time"
+    ],
+    "be-be-bhui": [
+        "3PL-FUT-cut"
+    ],
+    "be-be-bú": [
+        "3PL-FUT-buy_liquid_stuff"
+    ],
+    "be-be-dzi": [
+        "3PL-VENITIVE-be_located"
+    ],
+    "be-be-dzǔ": [
+        "3PL-VENITIVE-set_down",
+        "3PL-FUT-set_down"
+    ],
+    "be-be-kú": [
+        "3PL-VENITIVE-reach"
+    ],
+    "be-be-tsu": [
+        "FUT-FUT-dig"
+    ],
+    "be-be-tsyina": [
+        "3PL-VENITIVE-turn",
+        "3PL-VENITIVE-turn_round"
+    ],
+    "be-be-tũ": [
+        "3PL-FUT-stamp"
+    ],
+    "be-be-vũ": [
+        "3PL-FUT-catch"
+    ],
+    "be-be-yi": [
+        "3PL-FUT-appear",
+        "3PL-VENITIVE-appear"
+    ],
+    "be-be-yǐ": [
+        "3PL-FUT-kill"
+    ],
+    "be-be-ɖiɛrr": [
+        "3PL-VENITIVE-look_atuhm"
+    ],
+    "be-béle": [
+        "AM-finish"
+    ],
+    "be-bolé": [
+        "3PL-untie"
+    ],
+    "be-de-bhui": [
+        "3PL-ITIVE-cut"
+    ],
+    "be-de-kú": [
+        "3PL-ITIVE-reach"
+    ],
+    "be-dě": [
+        "3PL-come_from",
+        "AM-come_from"
+    ],
+    "be-dzi-": [
+        "3PL-be_located-"
+    ],
+    "be-dzǔ": [
+        "3PL-set_down"
+    ],
+    "be-é-bú": [
+        "3PL-PROG-buy_liquid_stuff"
+    ],
+    "be-é-po": [
+        "3PL-PROG-wait_for"
+    ],
+    "be-é-tú": [
+        "3PL-PROG-pound"
+    ],
+    "be-é-ɖi": [
+        "3PL-PROG-look_at"
+    ],
+    "be-feké": [
+        "AM-lift"
+    ],
+    "be-fu": [
+        "CM:PL-guest"
+    ],
+    "be-fu-alɛ́": [
+        "CM:PL-guest-PL"
+    ],
+    "be-ge-téŋú": [
+        "3PL-NEG:PST-be_able"
+    ],
+    "be-gi-lũ": [
+        "CM:PL-NEG:PRES-hear"
+    ],
+    "be-gi-ze-lũ": [
+        "3PL-NEG:PRES-REP-hear"
+    ],
+    "be-ingbe-ɛ́": [
+        "CM:PL-Ewe_people-DEF"
+    ],
+    "be-ke-dě": [
+        "3PL-still-come_from",
+        "AM-still-come_from"
+    ],
+    "be-klu": [
+        "AM-call",
+        "3PL-call"
+    ],
+    "be-klǔ": [
+        "3PL-call"
+    ],
+    "be-kusí": [
+        "CM:PL-chief"
+    ],
+    "be-kusí-ɛ́": [
+        "CM:PL-chief-DEF"
+    ],
+    "be-kú": [
+        "3PL-reach"
+    ],
+    "be-li": [
+        "3PL-be_at"
+    ],
+    "be-lũ": [
+        "AM-hear"
+    ],
+    "be-nu": [
+        "CM:PL-beverage"
+    ],
+    "be-se": [
+        "3PL-say"
+    ],
+    "be-se-ɖǐ": [
+        "3PL-say-look_at"
+    ],
+    "be-sheshe": [
+        "CM:PL-old",
+        "CM:PL-old_person"
+    ],
+    "be-shopo": [
+        "CM:PL-family_member"
+    ],
+    "be-shopo-ɔ": [
+        "CM:PL-family_member-DEF"
+    ],
+    "be-si": [
+        "3PL-flee"
+    ],
+    "be-sí": [
+        "CM:PL-tree",
+        "3PL-flee"
+    ],
+    "be-sí-ɛ́": [
+        "CM:PL-tree-DEF"
+    ],
+    "be-telí": [
+        "CM:PL-certain"
+    ],
+    "be-té-tukú": [
+        "3PL-NEG:PRES-carry"
+    ],
+    "be-ti": [
+        "3PL-know",
+        "AM-know"
+    ],
+    "be-tí-be-ti": [
+        "3PL-NEG:PRES-FUT-know"
+    ],
+    "be-tí-nyí": [
+        "3PL-NEG:PRES-know"
+    ],
+    "be-tī": [
+        "3PL-know"
+    ],
+    "be-tī-be-tī": [
+        "3PL-know-3PL-know"
+    ],
+    "be-toró": [
+        "3PL-spin"
+    ],
+    "be-tsi-ɛ": [
+        "CM:PL-bee-DEF"
+    ],
+    "be-tsi-ɛ́": [
+        "CM:PL-bee-DEF"
+    ],
+    "be-tsí": [
+        "CM:PL-bee"
+    ],
+    "be-tsokú": [
+        "AM-enter"
+    ],
+    "be-tsyina": [
+        "3PL-turn_round"
+    ],
+    "be-tú": [
+        "3PL-pound"
+    ],
+    "be-tú-ɔ́": [
+        "CM:PL-mountain-DEF"
+    ],
+    "be-vũ": [
+        "3PL-catch"
+    ],
+    "be-wole": [
+        "CM:PL-month"
+    ],
+    "be-wulú": [
+        "3PL-bathe"
+    ],
+    "be-yi": [
+        "3PL-fill",
+        "3PL-go"
+    ],
+    "be-yí": [
+        "CM:PL-child_of"
+    ],
+    "be-yuku": [
+        "VENITIVE-be_full"
+    ],
+    "be-ze-be-dzi": [
+        "3PL-REP-VENITIVE-be_located"
+    ],
+    "be-ze-be-kú": [
+        "3PL-REP-VENITIVE-reach"
+    ],
+    "be-ze-be-tsodzi": [
+        "3PL-REP-VENITIVE-return"
+    ],
+    "be-ze-be-tukú-i": [
+        "3PL-REP-VENITIVE-carry-3SG"
+    ],
+    "be-ze-de-kú": [
+        "3PL-REP-ITIVE-reach"
+    ],
+    "be-ze-kú": [
+        "3PL-REP-reach"
+    ],
+    "be-ze-tsodzi": [
+        "3PL-REP-return"
+    ],
+    "be-zhǐ": [
+        "AM-descend"
+    ],
+    "be-zĩ": [
+        "AM-be_spoilt"
+    ],
+    "be-ɖi": [
+        "3PL-look_at"
+    ],
+    "beke": [
+        "complete"
+    ],
+    "beke-ɛ́": [
+        "complete-DEF"
+    ],
+    "benyíbe": [
+        "everytime"
+    ],
+    "béke": [
+        "complete"
+    ],
+    "béke-ɛ": [
+        "complete-TP"
+    ],
+    "bha": [
+        "side"
+    ],
+    "bha-ma": [
+        "two-NEG:be_at",
+        "top-NEG:be_at"
+    ],
+    "bhlatɔ": [
+        "other"
+    ],
+    "bhoso": [
+        "be_first_to"
+    ],
+    "bhúlí": [
+        "small"
+    ],
+    "bhɛtɛ": [
+        "do"
+    ],
+    "bhɛtɛ-kɔ́": [
+        "do-place"
+    ],
+    "bhɛtɛ-ɛ": [
+        "do-3SG"
+    ],
+    "bisi-bisi": [
+        "ask-ask"
+    ],
+    "biskwit": [
+        "biscuit"
+    ],
+    "bí-si": [
+        "be_cooked-ground"
+    ],
+    "bladzǒ": [
+        "plantain"
+    ],
+    "bleoo-bleoo": [
+        "gently-gently"
+    ],
+    "blɔ": [
+        "1PL"
+    ],
+    "blɔa-ka-alɛ́": [
+        "1PLCM-ancestor-PL"
+    ],
+    "blɛwuu": [
+        "gently"
+    ],
+    "bu": [
+        "CM"
+    ],
+    "bu-ba-dɛ": [
+        "1PL-FUT-ITIVE"
+    ],
+    "bu-ba-tu": [
+        "1PL-FUT-grind"
+    ],
+    "bu-béle": [
+        "AM-finish"
+    ],
+    "bu-bisi": [
+        "1PL-ask"
+    ],
+    "bu-bísi-í": [
+        "1PL-ask-3SG"
+    ],
+    "bu-dě": [
+        "1PL-come_from"
+    ],
+    "bu-dzǐ": [
+        "1PL-be_located"
+    ],
+    "bu-dzyini-e": [
+        "1PL-break-3SG"
+    ],
+    "bu-dzyuɖí": [
+        "CM-dawadawa_tree"
+    ],
+    "bu-dzyuɖí-ɛ́": [
+        "CM-dawadawa_tree-DEF"
+    ],
+    "bu-ge": [
+        "1PL-stir"
+    ],
+    "bu-hú": [
+        "1PL-hit"
+    ],
+    "bu-klu": [
+        "1PL-call"
+    ],
+    "bu-klǔ": [
+        "1PL-call"
+    ],
+    "bu-kóéyi": [
+        "CM-exit"
+    ],
+    "bu-kusi": [
+        "CM-chief"
+    ],
+    "bu-kusi-": [
+        "CM-chief-"
+    ],
+    "bu-kusí": [
+        "CM-chief"
+    ],
+    "bu-kú": [
+        "1PL-reach"
+    ],
+    "bu-kũ": [
+        "CM-yam"
+    ],
+    "bu-litú-ɔ": [
+        "CM-hole_in_palm_tree_for_tapping-DEF"
+    ],
+    "bu-litú-ɔ́": [
+        "CM-tapping_hole-DEF"
+    ],
+    "bu-lí": [
+        "CM-palmtree"
+    ],
+    "bu-lí-ɛ́": [
+        "CM-palmtree-DEF"
+    ],
+    "bu-lĩ": [
+        "CM-water"
+    ],
+    "bu-lĩ-ɛ́": [
+        "CM-water-DEF"
+    ],
+    "bu-lĩ́": [
+        "CM-water"
+    ],
+    "bu-lĩ́-ɛ́": [
+        "CM-water-DEF",
+        "CM-river-DEF"
+    ],
+    "bu-lĩ́-ɛ́ko": [
+        "CM-water-DEFjust"
+    ],
+    "bu-luhũ̌": [
+        "CM-trouble"
+    ],
+    "bu-lú": [
+        "1PL-set_down"
+    ],
+    "bu-nu": [
+        "CM-beverage",
+        "1PL-be"
+    ],
+    "bu-nu-ɔ": [
+        "CM-beverage-DEF",
+        "AM-beverage-DEF"
+    ],
+    "bu-nuvɔɛ": [
+        "CM-child"
+    ],
+    "bu-nyí": [
+        "1PL-know"
+    ],
+    "bu-nyúmú": [
+        "1PL-wrap_cloth_around_oneself"
+    ],
+    "bu-plukpá": [
+        "CM-book"
+    ],
+    "bu-she": [
+        "AM-be_old"
+    ],
+    "bu-shenu": [
+        "CM-alcoholic_beverage"
+    ],
+    "bu-si": [
+        "CM-tree"
+    ],
+    "bu-sí": [
+        "CM-tree"
+    ],
+    "bu-sí-ɛ́": [
+        "CM-tree-DEF"
+    ],
+    "bu-tí": [
+        "1PL-know"
+    ],
+    "bu-tí-nyí": [
+        "1PL-NEG:PRES-know"
+    ],
+    "bu-tí-pú": [
+        "CM-NEG:PRES-puncture"
+    ],
+    "bu-toró": [
+        "1PL-spin"
+    ],
+    "bu-tsiɖi": [
+        "1PL-be_on",
+        "CM-be_on"
+    ],
+    "bu-tsí-ɛ́": [
+        "CM-death-DEF"
+    ],
+    "bu-tsǐ": [
+        "AM-die"
+    ],
+    "bu-tsokú": [
+        "AM-enter"
+    ],
+    "bu-tu": [
+        "1PL-grind"
+    ],
+    "bu-tukú": [
+        "1PL-carry"
+    ],
+    "bu-tukú-i": [
+        "1PL-carry-3SG"
+    ],
+    "bu-tú": [
+        "CM-pound"
+    ],
+    "bu-tú-ɔ́": [
+        "CM-mountain-DEF"
+    ],
+    "bu-ú-bú": [
+        "1PL-PROG-remove"
+    ],
+    "bu-ú-hǔ": [
+        "1PL-PROG-hit"
+    ],
+    "bu-ú-kú": [
+        "AM-PROG-be_high(river)"
+    ],
+    "bu-ú-shwí": [
+        "1PL-PROG-fetch_liquid"
+    ],
+    "bu-ú-tsǐ": [
+        "AM-PROG-die"
+    ],
+    "bu-vũ": [
+        "CM-room"
+    ],
+    "bu-vũ-ɔ": [
+        "CM-room-DEF"
+    ],
+    "bu-vɛ": [
+        "1PL-go"
+    ],
+    "bu-wí": [
+        "CM-fever",
+        "CM-sun"
+    ],
+    "bu-wí-ɛ́": [
+        "CM-fever-DEF"
+    ],
+    "bu-zi-wu": [
+        "AM-REP-climb"
+    ],
+    "bui": [
+        "word"
+    ],
+    "bulí": [
+        "small"
+    ],
+    "bulí-ɛ́": [
+        "little-DEF"
+    ],
+    "bulíí": [
+        "little"
+    ],
+    "bú": [
+        "remove"
+    ],
+    "búí": [
+        "word"
+    ],
+    "búlí": [
+        "small"
+    ],
+    "búlí-í": [
+        "snail-PROG"
+    ],
+    "bɔ": [
+        "1PL"
+    ],
+    "bɔ-ba": [
+        "1PL-FUT",
+        "1PL-come"
+    ],
+    "bɔ-ba-á-bú": [
+        "1PL-FUT-PROG-remove"
+    ],
+    "bɔ-ba-bhɛtɛ": [
+        "1PL-FUT-do"
+    ],
+    "bɔ-ba-bú": [
+        "1PL-FUT-remove"
+    ],
+    "bɔ-ba-gagãlĩ": [
+        "AM-FUT-be_hard"
+    ],
+    "bɔ-ba-gbã": [
+        "1PL-FUT-roast"
+    ],
+    "bɔ-ba-kpɛ́": [
+        "1PL-FUT-put",
+        "1PL-VENTIVE-put_in",
+        "1PL-FUT-put_in"
+    ],
+    "bɔ-ba-kɔ́": [
+        "1PL-FUT-give"
+    ],
+    "bɔ-ba-lũ": [
+        "1PL-VENTIVE-hear"
+    ],
+    "bɔ-ba-lɔkɔ": [
+        "1PL-FUT-take"
+    ],
+    "bɔ-ba-shogo": [
+        "1PL-VENTIVE-gather"
+    ],
+    "bɔ-ba-shɔ̃": [
+        "1PL-FUT-gather"
+    ],
+    "bɔ-ba-tsokú": [
+        "AM-FUT-enter"
+    ],
+    "bɔ-ba-tsyu": [
+        "1PL-FUT-dig"
+    ],
+    "bɔ-ba-tɔɖɔ": [
+        "1PL-FUT-put_on"
+    ],
+    "bɔ-ba-vɛ": [
+        "1PL-FUT-go"
+    ],
+    "bɔ-ba-zã": [
+        "AM-FUT-remain"
+    ],
+    "bɔ-ba-ŋa": [
+        "1PL-FUT-eat"
+    ],
+    "bɔ-ba-ɖi": [
+        "1PL-FUT-look_at"
+    ],
+    "bɔ-ba-ɖɔ": [
+        "1PL-FUT-say"
+    ],
+    "bɔ-bá": [
+        "1PL-come",
+        "AM-come"
+    ],
+    "bɔ-bha": [
+        "CM-time"
+    ],
+    "bɔ-bhla": [
+        "CM-second"
+    ],
+    "bɔ-bhɛtɛ": [
+        "1PL-do"
+    ],
+    "bɔ-dě": [
+        "1PL-come_from"
+    ],
+    "bɔ-dza-kpɛ́": [
+        "AM-at_all-put_in"
+    ],
+    "bɔ-dzya": [
+        "CM:PL-meat",
+        "1PL-weed"
+    ],
+    "bɔ-dzyɛ̌": [
+        "CM-twigs"
+    ],
+    "bɔ-dɔ̃": [
+        "CM:PL-thing",
+        "CM-thing",
+        "1PL-thing"
+    ],
+    "bɔ-dɛ": [
+        "1PL-ITIVE"
+    ],
+    "bɔ-dɛ-balɛ": [
+        "1PL-ITIVE-get_ready"
+    ],
+    "bɔ-gagãlĩ": [
+        "AM-be_hard"
+    ],
+    "bɔ-gbana": [
+        "1PL-lead"
+    ],
+    "bɔ-gbána": [
+        "1PL-lead"
+    ],
+    "bɔ-gbã": [
+        "1PL-roast"
+    ],
+    "bɔ-gɔgɔ̃ɛ": [
+        "CM-last"
+    ],
+    "bɔ-gɛ-mɔ": [
+        "1PL-NEG:PST-find"
+    ],
+    "bɔ-hɔɛ́": [
+        "1PL-grind"
+    ],
+    "bɔ-ka": [
+        "1PL-still"
+    ],
+    "bɔ-ka-ba-kú": [
+        "CM:PL-still-FUT-reach"
+    ],
+    "bɔ-kasɛ́": [
+        "1PL-teach"
+    ],
+    "bɔ-kpasɛ": [
+        "CM-learn"
+    ],
+    "bɔ-kpɛ́": [
+        "1PL-put",
+        "1PL-put_in"
+    ],
+    "bɔ-kɔ́": [
+        "1PL-give"
+    ],
+    "bɔ-kɔ̃́": [
+        "CM-corn_meal"
+    ],
+    "bɔ-lɔkɔ": [
+        "1PL-take"
+    ],
+    "bɔ-lɛ": [
+        "1PL-be_at",
+        "CM:PL-3PL",
+        "AM-3SG",
+        "AM-3PL"
+    ],
+    "bɔ-lɛ́": [
+        "1PL-be_at"
+    ],
+    "bɔ-má": [
+        "1PL-separate"
+    ],
+    "bɔ-mɔ": [
+        "1PL-find",
+        "CM:PL-find",
+        "1PL-see",
+        "CM-see"
+    ],
+    "bɔ-nya": [
+        "CM:PL-sickness",
+        "CM-sickness"
+    ],
+    "bɔ-nyana": [
+        "1PL-hold"
+    ],
+    "bɔ-pá": [
+        "CM:PL-house"
+    ],
+    "bɔ-pã́": [
+        "CM-house"
+    ],
+    "bɔ-pã́-mɛ": [
+        "CM-house-inside"
+    ],
+    "bɔ-pɛ̃": [
+        "AM-be_good"
+    ],
+    "bɔ-sɔlɛ": [
+        "AM-catch_fire"
+    ],
+    "bɔ-sɛ": [
+        "1PL-say"
+    ],
+    "bɔ-tɔ": [
+        "1PL-cook"
+    ],
+    "bɔ-tɔɖɔ": [
+        "1PL-put_on"
+    ],
+    "bɔ-tɔ̃́": [
+        "CM-edge",
+        "CM:PL-ash"
+    ],
+    "bɔ-vɔbɔ́": [
+        "1PL-bury"
+    ],
+    "bɔ-vɛ": [
+        "1PL-go"
+    ],
+    "bɔ-wa": [
+        "1PL-do"
+    ],
+    "bɔ-wá": [
+        "CM-herb",
+        "CM-medicine",
+        "CM:PL-medicine",
+        "CM:PL-herb"
+    ],
+    "bɔ-wɛ": [
+        "CM:PL-finger"
+    ],
+    "bɔ-wɛ̃": [
+        "1PL-drink"
+    ],
+    "bɔ-ya": [
+        "CM:PL-stomach"
+    ],
+    "bɔ-yikɛ": [
+        "1PL-receive"
+    ],
+    "bɔ-yɛkɛ": [
+        "1PL-receive"
+    ],
+    "bɔ-zaa-pɔɛ": [
+        "AM-not_again-to_pain"
+    ],
+    "bɔ-zã": [
+        "1PL-remain"
+    ],
+    "bɔ-ŋa": [
+        "1PL-eat"
+    ],
+    "bɔ-ɔ́-kpɛ́": [
+        "1PL-PROG-put_in",
+        "1PL-PROG-put"
+    ],
+    "bɔ-ɔ́-kɔ": [
+        "1PL-PROG-give"
+    ],
+    "bɔ-ɔ́-kɔ́": [
+        "1PL-PROG-give"
+    ],
+    "bɔ-ɔ́-wa": [
+        "1PL-PROG-do"
+    ],
+    "bɔ-ɔ́-ŋa": [
+        "1PL-PROG-eat"
+    ],
+    "bɔ-ɖɔ": [
+        "1PL-say"
+    ],
+    "bɔ-ɖɔ-ɔ": [
+        "1PL-say-TP"
+    ],
+    "bɔkɔɔ": [
+        "peaceful"
+    ],
+    "bɔlɔ": [
+        "1PL:POSS",
+        "1PL"
+    ],
+    "bɔɛ": [
+        "a_little"
+    ],
+    "dawadáwá": [
+        "dawadawa"
+    ],
+    "dã": [
+        "close"
+    ],
+    "dénɔ": [
+        "from"
+    ],
+    "di-kú": [
+        "ITIVE-reach"
+    ],
+    "drɔ́nɔ": [
+        "thing"
+    ],
+    "duku": [
+        "blow"
+    ],
+    "dza": [
+        "at_all"
+    ],
+    "dzã̌-dzã̌": [
+        "become_ripe-become_ripe"
+    ],
+    "dzi": [
+        "be",
+        "become"
+    ],
+    "dzidze": [
+        "return"
+    ],
+    "dzíɖuɖu": [
+        "government"
+    ],
+    "dzǐ": [
+        "buy"
+    ],
+    "dzogbenyáklɛ̄": [
+        "shrub_name"
+    ],
+    "dzǔ": [
+        "set_down"
+    ],
+    "dzyalélélé": [
+        "shock_exclamation"
+    ],
+    "dzyoró": [
+        "desire"
+    ],
+    "dzyosu": [
+        "blood"
+    ],
+    "dɔnyɛ́dɔ̃": [
+        "everything"
+    ],
+    "dɔ̌": [
+        "to_land_at"
+    ],
+    "dɛ": [
+        "ITIVE"
+    ],
+    "e": [
+        "CM"
+    ],
+    "e-be-dzeni": [
+        "3SG-FUT-look_nice_on"
+    ],
+    "e-be-dzini": [
+        "3SG-VENITIVE-repeat"
+    ],
+    "e-be-dzǐ": [
+        "3SG-FUT-buy"
+    ],
+    "e-be-kú": [
+        "3SG-VENITIVE-reach"
+    ],
+    "e-be-lɛ́": [
+        "AM-VENITIVE-be_at"
+    ],
+    "e-be-téŋú": [
+        "3SG-FUT-be_able",
+        "AM-FUT-be_able"
+    ],
+    "e-be-tsǐ": [
+        "AM-FUT-die"
+    ],
+    "e-be-wokú": [
+        "3SG-FUT-climb_up"
+    ],
+    "e-be-wokúa-nyɛ́núvɔɛ": [
+        "AM-VENITIVE-climb_upCM-boy"
+    ],
+    "e-be-zhǐ": [
+        "AM-VENITIVE-descend"
+    ],
+    "e-be-ɖi": [
+        "3SG-VENITIVE-look_at"
+    ],
+    "e-béle": [
+        "AM-finish"
+    ],
+    "e-bhǒ": [
+        "3SG-knock"
+    ],
+    "e-bisi": [
+        "3SG-ask"
+    ],
+    "e-blidě": [
+        "CM-pineapple"
+    ],
+    "e-bú": [
+        "CM-dog",
+        "3SG-remove"
+    ],
+    "e-bú-ɔ": [
+        "CM-dog-DEF"
+    ],
+    "e-búí": [
+        "CM-word"
+    ],
+    "e-búí-ɛ́": [
+        "CM-word-DEF"
+    ],
+    "e-de-wokú": [
+        "3SG-ITIVE-climb",
+        "3SG-ITIVE-climb_up"
+    ],
+    "e-de-ɛ́": [
+        "3SG-back-DEF"
+    ],
+    "e-dě": [
+        "AM-come_from",
+        "CM-back"
+    ],
+    "e-di-tsokú": [
+        "3SG-ITIVE-enter"
+    ],
+    "e-dĩ": [
+        "CM-type"
+    ],
+    "e-dze-béle": [
+        "AM-REP-finish",
+        "AM-not_anymore-finish"
+    ],
+    "e-dzi": [
+        "AM-be",
+        "AM-become",
+        "3SG-be",
+        "AM-be_located"
+    ],
+    "e-dzi-ɛ": [
+        "3SG-become-TP"
+    ],
+    "e-dzidze": [
+        "3SG-return"
+    ],
+    "e-é-bisi": [
+        "AM-PROG-ask"
+    ],
+    "e-é-kpũ": [
+        "3SG-PROG-hide"
+    ],
+    "e-é-shogo": [
+        "3SG-PROG-gather"
+    ],
+    "e-é-si": [
+        "3SG-PROG-flee"
+    ],
+    "e-é-wu": [
+        "3SG-PROG-climb"
+    ],
+    "e-é-ɖi": [
+        "3SG-PROG-look_at"
+    ],
+    "e-é-ɖǐ": [
+        "3SG-PROG-look_at"
+    ],
+    "e-féké": [
+        "3SG-lift"
+    ],
+    "e-féké-é": [
+        "3SG-lift-3SG"
+    ],
+    "e-fĩ́": [
+        "CM-impurity"
+    ],
+    "e-gbogbǒ": [
+        "CM-clan"
+    ],
+    "e-gbogbǒ-ɔ́": [
+        "CM-clan-DEF"
+    ],
+    "e-gi": [
+        "AM-NEG"
+    ],
+    "e-gi-se": [
+        "AM-NEG-say"
+    ],
+    "e-gi-se-e-kú-i": [
+        "AM-NEG-say-CM-reach-3SG"
+    ],
+    "e-hwi": [
+        "CM-rope"
+    ],
+    "e-ke-bolé": [
+        "3SG-REP-untie"
+    ],
+    "e-kesi": [
+        "CM-down"
+    ],
+    "e-klǔ": [
+        "3SG-call"
+    ],
+    "e-kóéyi": [
+        "3SG-exit",
+        "AM-exit"
+    ],
+    "e-kpe": [
+        "AM-be_many"
+    ],
+    "e-kpú": [
+        "CM-corpse"
+    ],
+    "e-kpũ": [
+        "AM-hide"
+    ],
+    "e-kusi": [
+        "CM-chief"
+    ],
+    "e-kusí": [
+        "CM-chief"
+    ],
+    "e-kusí-ɛ́": [
+        "CM-chief-DEF"
+    ],
+    "e-kú": [
+        "3SG-reach",
+        "AM-reach"
+    ],
+    "e-kú-ɔ": [
+        "3SG-reach-TP"
+    ],
+    "e-leté-ɛ́": [
+        "CM-owner-DEF"
+    ],
+    "e-lí": [
+        "SCONN-be_at",
+        "3SG-be_at"
+    ],
+    "e-lĩ": [
+        "CM-mother"
+    ],
+    "e-lĩ-alɛ́": [
+        "CM-mother-PL"
+    ],
+    "e-lu": [
+        "SCONN-set_do"
+    ],
+    "e-lú": [
+        "SCONN-set_down"
+    ],
+    "e-lũ-": [
+        "1SG-hear-"
+    ],
+    "e-lɛ": [
+        "AM-this"
+    ],
+    "e-lɛ́": [
+        "3SG-be_at",
+        "AM-be_at",
+        "CM-that"
+    ],
+    "e-munɔ": [
+        "3SG-find"
+    ],
+    "e-nu": [
+        "3SG-be",
+        "AM-be",
+        "CM-be"
+    ],
+    "e-nú": [
+        "AM-be"
+    ],
+    "e-pidzyá": [
+        "CM-goat"
+    ],
+    "e-pidzyǎ": [
+        "CM-goat"
+    ],
+    "e-plǔ": [
+        "AM-wash"
+    ],
+    "e-se-ɖǐ": [
+        "3SG-say-look_at",
+        "AM-say-look_at"
+    ],
+    "e-sheshe": [
+        "CM-old_persoN"
+    ],
+    "e-si": [
+        "3SG-flee"
+    ],
+    "e-sí": [
+        "CM-underneath",
+        "CM-down"
+    ],
+    "e-sɛe-de-kpũ": [
+        "3SG-say3SG-ITIVE-hide"
+    ],
+    "e-takpú": [
+        "3SG-head"
+    ],
+    "e-ti": [
+        "AM-know"
+    ],
+    "e-tití": [
+        "CM-sky",
+        "CM-heaven"
+    ],
+    "e-tití-ɛ́": [
+        "CM-sky-DEF"
+    ],
+    "e-tí-é-kóéyi": [
+        "3SG-NEG:PRES-PROG-exit"
+    ],
+    "e-tí-ke-téŋú": [
+        "3SG-NEG:PRES-still-be_able"
+    ],
+    "e-tí-nyí": [
+        "3SG-NEG:PRES-know"
+    ],
+    "e-tī": [
+        "3SG-know"
+    ],
+    "e-tsiɖi": [
+        "3SG-be_on",
+        "SCONN-be_on"
+    ],
+    "e-tsǐ": [
+        "AM-die"
+    ],
+    "e-tsǐ-ɛ": [
+        "AM-die-TP",
+        "3SG-die-TP"
+    ],
+    "e-tsu": [
+        "CM-pile"
+    ],
+    "e-tsyina": [
+        "AM-turn",
+        "AM-turn_round",
+        "3SG-turn_round"
+    ],
+    "e-vũ": [
+        "AM-catch"
+    ],
+    "e-wi": [
+        "CM-day"
+    ],
+    "e-woku": [
+        "3SG-climb"
+    ],
+    "e-wokú": [
+        "3SG-climb_up",
+        "AM-climb_up"
+    ],
+    "e-wu": [
+        "AM-climb",
+        "3SG-climb"
+    ],
+    "e-wu-nɔ": [
+        "SCONN-climb-COMITATIVE",
+        "3SG-climb-COMITATIVE"
+    ],
+    "e-wulɔ": [
+        "SCONN-again"
+    ],
+    "e-wunɔ": [
+        "3SG-raise",
+        "AM-raise"
+    ],
+    "e-wúlɛ́": [
+        "AM-again"
+    ],
+    "e-yi": [
+        "AM-appear"
+    ],
+    "e-yí": [
+        "CM-child_of"
+    ],
+    "e-yí-álɛ́": [
+        "CM-child_of-PL"
+    ],
+    "e-yí-e-lĩ-ɛ́": [
+        "CM-child_of-CM-mother-DEF"
+    ],
+    "e-yí-ɛ́": [
+        "CM-child_of-DEF",
+        "CM-seed-DEF",
+        "AM-seed-DEF"
+    ],
+    "e-yuyu": [
+        "AM-fruit"
+    ],
+    "e-yuyu-ɔ": [
+        "CM-fruit-DEF"
+    ],
+    "e-ze-be-kú": [
+        "3SG-REP-VENITIVE-reach"
+    ],
+    "e-ze-be-yi": [
+        "3SG-REP-VENITIVE-appear"
+    ],
+    "e-ze-de-lɛ́": [
+        "AM-REP-ITIVE-be_at"
+    ],
+    "e-ze-kóéyi": [
+        "AM-REP-exit",
+        "3SG-REP-exit"
+    ],
+    "e-ze-kú": [
+        "3SG-REP-reach"
+    ],
+    "e-ze-wunɔ": [
+        "3SG-REP-raise"
+    ],
+    "e-zhǐ": [
+        "3SG-descend"
+    ],
+    "e-zi-dzidze": [
+        "3SG-REP-return"
+    ],
+    "e-zĩ": [
+        "3SG-be_spoilt"
+    ],
+    "e-zĩ-ɛ": [
+        "3SG-be_spoilt-TP"
+    ],
+    "e-zurú": [
+        "AM-steal",
+        "SCONN-steal"
+    ],
+    "e-ɖi": [
+        "AM-look_at",
+        "3SG-look_at"
+    ],
+    "e-ɖǐ": [
+        "SCONN-look_at"
+    ],
+    "ee": [
+        "yes"
+    ],
+    "eea-mɔ": [
+        "yes3SG-see"
+    ],
+    "err": [
+        "uhm"
+    ],
+    "é": [
+        "PART",
+        "ADDR",
+        "PROG",
+        "PRT"
+    ],
+    "é-dze-é-wu": [
+        "3SG:NEG-REP-PROG-climb"
+    ],
+    "é-dzi": [
+        "PROG-be"
+    ],
+    "é-wunɔ": [
+        "PROG-raise"
+    ],
+    "fakɔ́": [
+        "where"
+    ],
+    "fatɛ": [
+        "carve",
+        "peel"
+    ],
+    "fever": [
+        "fever"
+    ],
+    "fla": [
+        "pass"
+    ],
+    "flógo": [
+        "before"
+    ],
+    "fóto": [
+        "photograph"
+    ],
+    "fufu": [
+        "fufu"
+    ],
+    "gagali-": [
+        "be_hard-"
+    ],
+    "gagãlĩ": [
+        "be_hard"
+    ],
+    "gagãlĩ-ɛ́": [
+        "be_hard-DEF"
+    ],
+    "gaké": [
+        "but"
+    ],
+    "gazé": [
+        "metal_pot"
+    ],
+    "gã": [
+        "walk"
+    ],
+    "gbagbla": [
+        "big"
+    ],
+    "gbãtɔ": [
+        "first"
+    ],
+    "gbã́": [
+        "first"
+    ],
+    "gbã́tɔ": [
+        "first"
+    ],
+    "gbe": [
+        "message"
+    ],
+    "gbe-a": [
+        "message-INTER"
+    ],
+    "gbogbǒ": [
+        "clan"
+    ],
+    "gbɔxé": [
+        "asthma"
+    ],
+    "ge-nú": [
+        "NEG:PST-be"
+    ],
+    "gũ": [
+        "root"
+    ],
+    "gɔgɔɛ": [
+        "last"
+    ],
+    "gɔgɔ̃ɛ": [
+        "last"
+    ],
+    "gɔɔ-gagãlĩ-ɛ": [
+        "not_anymore-be_hard-TP"
+    ],
+    "gɛ": [
+        "REL"
+    ],
+    "gɛ-nɛ": [
+        "REL-NEG:be"
+    ],
+    "gɛ-sɛ": [
+        "NEG:PST-say"
+    ],
+    "ho-ho": [
+        "widower-widower"
+    ],
+    "hohoe": [
+        "big"
+    ],
+    "hoo": [
+        "noisy"
+    ],
+    "hōlō": [
+        "six"
+    ],
+    "i-bhoso": [
+        "1SG-be_first_to"
+    ],
+    "i-bó-i": [
+        "1SG-tap_palmwine-3SG"
+    ],
+    "i-búí": [
+        "CM:PL-word"
+    ],
+    "i-duku": [
+        "1SG-blow"
+    ],
+    "i-dzi": [
+        "1SG-be"
+    ],
+    "i-dzidze": [
+        "1SG-return"
+    ],
+    "i-dzini": [
+        "1SG-repeat"
+    ],
+    "i-dzǔ": [
+        "1SG-set_down"
+    ],
+    "i-fu": [
+        "CM:PL-fire"
+    ],
+    "i-hú": [
+        "1SG-hit"
+    ],
+    "i-í": [
+        "1SG-PROG"
+    ],
+    "i-í-bó": [
+        "1SG-PROG-tap_palmwine"
+    ],
+    "i-í-klǔ": [
+        "1SG-PROG-call"
+    ],
+    "i-klagbu": [
+        "CM-stone"
+    ],
+    "i-lɛ": [
+        "CM:PL-3PL"
+    ],
+    "i-lɛ́": [
+        "CM:PL-that"
+    ],
+    "i-nye": [
+        "CM-name"
+    ],
+    "i-nyí": [
+        "1SG-know"
+    ],
+    "i-plukpá": [
+        "CM:PL-book"
+    ],
+    "i-shumɛ": [
+        "CM:PL-body"
+    ],
+    "i-shú": [
+        "CM:PL-skin"
+    ],
+    "i-sí": [
+        "CM:PL-tree"
+    ],
+    "i-sí-gũ": [
+        "CM:PL-tree-root"
+    ],
+    "i-vũnɔ": [
+        "1SG-hold"
+    ],
+    "i-wulu": [
+        "1SG-blow"
+    ],
+    "ka": [
+        "father",
+        "AM"
+    ],
+    "ka-bha": [
+        "CM-top"
+    ],
+    "ka-klǔ": [
+        "not_yet-call"
+    ],
+    "ka-lɛ": [
+        "CM-this"
+    ],
+    "ka-lɛlɛ": [
+        "CM-fourth"
+    ],
+    "ka-mpɛ": [
+        "CM-side"
+    ],
+    "ka-shɛ̃": [
+        "CM-waist"
+    ],
+    "ka-tsiɖi": [
+        "CM-be_on"
+    ],
+    "ka-wlãkɛ́": [
+        "CM-struggle"
+    ],
+    "ka-yiesí": [
+        "CM-lower_abdomen"
+    ],
+    "ka-zhwɛ": [
+        "CM-bird"
+    ],
+    "ka-ɖɔ": [
+        "CM-speech"
+    ],
+    "kaka": [
+        "disperse"
+    ],
+    "kana": [
+        "thus"
+    ],
+    "kantsě": [
+        "calabash"
+    ],
+    "kasɛ́": [
+        "teach"
+    ],
+    "kábá": [
+        "quickly"
+    ],
+    "kányáka": [
+        "every"
+    ],
+    "káplɛ": [
+        "penny"
+    ],
+    "kã": [
+        "hair"
+    ],
+    "kã́": [
+        "then"
+    ],
+    "ke-dé": [
+        "CM-back"
+    ],
+    "ke-dé-ɛ́": [
+        "CM-back-DEF"
+    ],
+    "ke-dě": [
+        "CM-back"
+    ],
+    "ke-dulu-ɔ": [
+        "CM-door-DEF"
+    ],
+    "ke-dulũ": [
+        "CM-entrance"
+    ],
+    "ke-dzi": [
+        "CM-be"
+    ],
+    "ke-gbu-ɔ": [
+        "CM-chair-DEF"
+    ],
+    "ke-gbu-ɔ́": [
+        "CM-chair-DEF"
+    ],
+    "ke-kóéyi": [
+        "CM-exit"
+    ],
+    "ke-li": [
+        "CM-river"
+    ],
+    "ke-li-takpú": [
+        "not_yet-AM-head"
+    ],
+    "ke-litakpú": [
+        "CM-palm_fruit_bunch"
+    ],
+    "ke-litú": [
+        "CM-tapping_hole"
+    ],
+    "ke-litú-ɔ": [
+        "CM-tapping_hole-DEF"
+    ],
+    "ke-lí": [
+        "CM-palmtree",
+        "CM-day"
+    ],
+    "ke-lĩkekpu": [
+        "CM-spring"
+    ],
+    "ke-lĩ́": [
+        "CM-river"
+    ],
+    "ke-lĩ́-ɛ́": [
+        "CM-river-DEF"
+    ],
+    "ke-pí-ɛ́": [
+        "CM-hometown-DEF"
+    ],
+    "ke-si": [
+        "CM-ground"
+    ],
+    "ke-siakpá": [
+        "CM-ground",
+        "CM-grouNd"
+    ],
+    "ke-sí": [
+        "CM-underneath",
+        "CM-down",
+        "AM-underneath"
+    ],
+    "ke-sí-ɛ́": [
+        "CM-down-DEF"
+    ],
+    "ke-tsukpu": [
+        "CM-pot"
+    ],
+    "ke-tsukpu-ɔ": [
+        "CM-pot-DEF"
+    ],
+    "kesi": [
+        "underneath"
+    ],
+    "kesiɔ-zã-kɔ́": [
+        "underneathCM-remain-place"
+    ],
+    "kesí": [
+        "down"
+    ],
+    "ké": [
+        "same",
+        "REP"
+    ],
+    "kéɖe": [
+        "what"
+    ],
+    "kéɖeso": [
+        "why"
+    ],
+    "ki": [
+        "CM"
+    ],
+    "ki-be": [
+        "CM-time"
+    ],
+    "ki-be-ɛ": [
+        "CM-time-TP"
+    ],
+    "ki-benyíbe": [
+        "CM-everytime"
+    ],
+    "ki-béle": [
+        "CM-finish"
+    ],
+    "ki-blidě": [
+        "CM-pineapple"
+    ],
+    "ki-bui": [
+        "CM-word"
+    ],
+    "ki-bui-nye-bui": [
+        "CM-word-every-word"
+    ],
+    "ki-bui-ɛ́": [
+        "CM-word-DEF"
+    ],
+    "ki-búí": [
+        "CM-word"
+    ],
+    "ki-búí-ɛ": [
+        "CM-word-TP"
+    ],
+    "ki-búí-ɛ́": [
+        "CM-word-DEF"
+    ],
+    "ki-dě": [
+        "CM-back"
+    ],
+    "ki-dia-mɔ́": [
+        "CM-typeCM-unprocessed_rice"
+    ],
+    "ki-dĩ": [
+        "CM-type"
+    ],
+    "ki-dzo": [
+        "CM-road",
+        "CM-IMP:PROG"
+    ],
+    "ki-dzǒ": [
+        "CM-path",
+        "CM-road"
+    ],
+    "ki-fu": [
+        "CM-fear"
+    ],
+    "ki-fu-ɔ": [
+        "CM-fire-DEF"
+    ],
+    "ki-fú": [
+        "CM-fire"
+    ],
+    "ki-fú-ɔ": [
+        "CM-fire-DEF"
+    ],
+    "ki-fú-ɔ́": [
+        "CM-fire-DEF",
+        "CM-light-DEF"
+    ],
+    "ki-gbogbǒ-ɔ": [
+        "CM-clan-DEF"
+    ],
+    "ki-hwi": [
+        "CM-rope"
+    ],
+    "ki-kũ": [
+        "CM-yam"
+    ],
+    "ki-kũ-ɔ": [
+        "CM-yam-DEF"
+    ],
+    "ki-nu": [
+        "CM-be"
+    ],
+    "ki-nyé": [
+        "CM-name"
+    ],
+    "ki-nyé-ɛ́": [
+        "CM-name-DEF"
+    ],
+    "ki-plukpá": [
+        "CM-book"
+    ],
+    "ki-puli": [
+        "CM-container"
+    ],
+    "ki-shi": [
+        "CM-between",
+        "CM-stick"
+    ],
+    "ki-shu": [
+        "CM-Saturday"
+    ],
+    "ki-shú": [
+        "CM-skin"
+    ],
+    "ki-telu": [
+        "CM-chest"
+    ],
+    "ki-temɛ": [
+        "CM-chest"
+    ],
+    "ki-teɖe": [
+        "CM-anthill"
+    ],
+    "ki-tití": [
+        "CM-sky"
+    ],
+    "ki-tití-ayɛ́": [
+        "CM-heaven-own"
+    ],
+    "ki-toró": [
+        "CM-spin"
+    ],
+    "ki-tsikpi": [
+        "CM-pot"
+    ],
+    "ki-tsiɖi": [
+        "CM-be_on"
+    ],
+    "ki-tsu": [
+        "CM-pile"
+    ],
+    "ki-vũ-ɔ́": [
+        "CM-day_removed-DEF"
+    ],
+    "ki-wi": [
+        "CM-day"
+    ],
+    "ki-zĩzĩ": [
+        "CM-trouble"
+    ],
+    "kliso": [
+        "therefore"
+    ],
+    "kliso-ɔ": [
+        "therefore-DEF",
+        "therefore-TP"
+    ],
+    "klɛ": [
+        "then",
+        "here"
+    ],
+    "klɛ́": [
+        "there"
+    ],
+    "ko": [
+        "just"
+    ],
+    "ko-ɔ": [
+        "just-TP",
+        "just-DEF",
+        "still-TP"
+    ],
+    "ko-ɔlɛ-zaa-zĩ": [
+        "just-TP3SG-not_again-be_spoilt"
+    ],
+    "koa-lɔkɔ": [
+        "justSCONN-take"
+    ],
+    "kobu-lĩ́-ɛ́": [
+        "justCM-water-DEF"
+    ],
+    "kokoko": [
+        "by_all_means"
+    ],
+    "kopɛ": [
+        "justthen"
+    ],
+    "kóéyi": [
+        "exit"
+    ],
+    "kókó": [
+        "porridge"
+    ],
+    "kóŋ́": [
+        "especially"
+    ],
+    "kpa": [
+        "force_open"
+    ],
+    "kpasí": [
+        "good"
+    ],
+    "kpasɛ": [
+        "be_contained",
+        "learn"
+    ],
+    "kplɔ̃": [
+        "table"
+    ],
+    "kpóó": [
+        "quietly"
+    ],
+    "kpũ": [
+        "hide"
+    ],
+    "kpɛkpɛ́": [
+        "hot"
+    ],
+    "kpɛ́": [
+        "put_in",
+        "put"
+    ],
+    "kpɛ́-kpɛ́naálɛ́": [
+        "put_in-put_inis_there"
+    ],
+    "kpɛ́-ɛ": [
+        "put-3SG",
+        "put_in-3SG"
+    ],
+    "kráńtɛ": [
+        "cutlass"
+    ],
+    "kumɛ": [
+        "Okume"
+    ],
+    "kuráte": [
+        "banana"
+    ],
+    "kú": [
+        "be_high(river)",
+        "reach"
+    ],
+    "kúnú": [
+        "funeral"
+    ],
+    "kúráá": [
+        "at_all"
+    ],
+    "kɔ": [
+        "give"
+    ],
+    "kɔnú": [
+        "custom"
+    ],
+    "kɔshɔkɔ́": [
+        "kwashiorkor"
+    ],
+    "kɔ́": [
+        "give",
+        "place"
+    ],
+    "kɔ́-ɛ": [
+        "give-3SG"
+    ],
+    "kɔ́a-nɔ": [
+        "giveCM-person"
+    ],
+    "kɔ́dzyí-ɛ́": [
+        "hospital-TP"
+    ],
+    "kɔ́xóé": [
+        "village"
+    ],
+    "kɛ": [
+        "3SG",
+        "CM"
+    ],
+    "kɛ-ba": [
+        "3SG-FUT",
+        "3SG-cheat",
+        "AM-FUT"
+    ],
+    "kɛ-ba-á-vɛ": [
+        "AM-FUT-PROG-go"
+    ],
+    "kɛ-ba-lɛ́": [
+        "3SG-VENTIVE-be_at"
+    ],
+    "kɛ-ba-tóŋú": [
+        "AM-FUT-be_able"
+    ],
+    "kɛ-ba-tsyɔ": [
+        "AM-FUT-quickly"
+    ],
+    "kɛ-ba-zã": [
+        "AM-FUT-remain"
+    ],
+    "kɛ-bá": [
+        "3SG-come"
+    ],
+    "kɛ-bhwɛ̃": [
+        "CM-white_clay"
+    ],
+    "kɛ-bhɛtɛ": [
+        "CM-do"
+    ],
+    "kɛ-blɔ́mí": [
+        "CM-whistle"
+    ],
+    "kɛ-blɛkpɛ": [
+        "CM-left"
+    ],
+    "kɛ-bwɛ̌": [
+        "CM-little"
+    ],
+    "kɛ-bɔɛ": [
+        "CM-a_little"
+    ],
+    "kɛ-dɔnyɛ́dɔ̃kɛ-tɛ́-ɛ́-wɛ̃": [
+        "CM-everythingAM-NEG:PRES-PROG-show"
+    ],
+    "kɛ-dɔ̃": [
+        "CM-thing",
+        "3SG-thing"
+    ],
+    "kɛ-dɔ̃-nyɛ́-dɔ̃": [
+        "CM-thing-every-thing"
+    ],
+    "kɛ-fɔ̃́": [
+        "CM-froth"
+    ],
+    "kɛ-gã": [
+        "CM-walk"
+    ],
+    "kɛ-gɔ": [
+        "CM-year"
+    ],
+    "kɛ-gɔ-ɔ": [
+        "CM-year-DEF"
+    ],
+    "kɛ-gɛ-dzyɔ": [
+        "AM-NEG:PST-be_right"
+    ],
+    "kɛ-gɛ-zã": [
+        "3SG-NEG:PST-remain"
+    ],
+    "kɛ-hĩa": [
+        "3SG-need"
+    ],
+    "kɛ-hĩá": [
+        "3SG-need",
+        "CM-need"
+    ],
+    "kɛ-kányáka": [
+        "CM-everything"
+    ],
+    "kɛ-klagbu": [
+        "CM-stone",
+        "CM-rock"
+    ],
+    "kɛ-klagbu-ɔ": [
+        "CM-stone-DEF"
+    ],
+    "kɛ-kpɔkplɔ": [
+        "CM-frog"
+    ],
+    "kɛ-kɔlɔ": [
+        "CM-bark|shell"
+    ],
+    "kɛ-lɔ́": [
+        "CM-rise"
+    ],
+    "kɛ-lɔ̃́mɛ́": [
+        "CM-kelome_tree"
+    ],
+    "kɛ-lɛ": [
+        "3SG-be_at"
+    ],
+    "kɛ-nyákakɛ-tɛ́-ba-ba": [
+        "CM-everyCM-NEG:PRES-FUT-come"
+    ],
+    "kɛ-pɔtɛ́": [
+        "CM-cloth"
+    ],
+    "kɛ-pɛ̃": [
+        "3SG-be_good"
+    ],
+    "kɛ-sha": [
+        "CM-horn"
+    ],
+    "kɛ-shwɛ": [
+        "CM-basket"
+    ],
+    "kɛ-takpú": [
+        "CM-head"
+    ],
+    "kɛ-takpú-ɔ": [
+        "CM-head-DEF"
+    ],
+    "kɛ-takpú-ɔ́": [
+        "CM-head-DEF"
+    ],
+    "kɛ-toró": [
+        "CM-spin"
+    ],
+    "kɛ-tsɔ": [
+        "AM-rise_early"
+    ],
+    "kɛ-tsɛrɛ́": [
+        "CM-leg"
+    ],
+    "kɛ-tɛ-sɔlɛ": [
+        "AM-NEG-burn"
+    ],
+    "kɛ-tɛ́-ba-ba": [
+        "CM-NEG:PRES-FUT-come"
+    ],
+    "kɛ-tɛ́-ba-nyanya": [
+        "3SG-NEG:PRES-FUT-go_bad"
+    ],
+    "kɛ-tɛ́-ka-á-vɛ": [
+        "3SG-NEG:PRES-not_yet-PROG-go"
+    ],
+    "kɛ-tɛ́-sɔlɛ": [
+        "3SG-NEG:PRES-catch_fire"
+    ],
+    "kɛ-vlɔ̌": [
+        "CM-morning"
+    ],
+    "kɛ-vɔbɔ́": [
+        "CM-frog"
+    ],
+    "kɛ-walɔ": [
+        "CM-Monday"
+    ],
+    "kɛ-wã": [
+        "CM-side"
+    ],
+    "kɛ-wɛ": [
+        "CM-finger"
+    ],
+    "kɛ-xwɛ̃": [
+        "CM-work"
+    ],
+    "kɛ-yɔ": [
+        "CM-small_pot"
+    ],
+    "kɛ-zã": [
+        "CM-remain"
+    ],
+    "kɛ-ŋaŋa": [
+        "CM-food"
+    ],
+    "kɛ-ɖaŋu": [
+        "CM-advice"
+    ],
+    "kɛfɔ": [
+        "ten"
+    ],
+    "kɛlɛ": [
+        "3SG",
+        "then",
+        "here",
+        "this"
+    ],
+    "kɛlɛ-nu": [
+        "3SG-be"
+    ],
+    "kɛlɛerr": [
+        "hereuhm"
+    ],
+    "kɛlɛso": [
+        "therefore"
+    ],
+    "kɛlɛ́": [
+        "there",
+        "that"
+    ],
+    "kɛɖɛ": [
+        "what"
+    ],
+    "kɛ́lɛ": [
+        "here"
+    ],
+    "kɛ́lɛ́": [
+        "there"
+    ],
+    "la-": [
+        "AM-"
+    ],
+    "la-lɛ́": [
+        "AM-be_at"
+    ],
+    "le-é-ɖǐ": [
+        "3PL-PROG-look_at"
+    ],
+    "le-wu": [
+        "3PL-climb"
+    ],
+    "leté-ɛ́": [
+        "owner-DEF"
+    ],
+    "li": [
+        "AM"
+    ],
+    "lí": [
+        "be_at",
+        "palmtree"
+    ],
+    "lí-ɛ́": [
+        "palmtree-DEF"
+    ],
+    "lĩ́": [
+        "water"
+    ],
+    "lo": [
+        "ADDRESSIVE_PARTICLE",
+        "ADDR"
+    ],
+    "lo-she": [
+        "AM-be_old"
+    ],
+    "lo-tí-tũ": [
+        "AM-NEG:PRES-stamp"
+    ],
+    "lo-yi-é": [
+        "AM-appear-ADDR"
+    ],
+    "lu": [
+        "set_dowN"
+    ],
+    "luhũ": [
+        "trouble"
+    ],
+    "luhũ̌": [
+        "trouble"
+    ],
+    "lú": [
+        "set_down"
+    ],
+    "lũ": [
+        "hear"
+    ],
+    "lṹ": [
+        "matter"
+    ],
+    "lɔ": [
+        "IPL",
+        "1PL"
+    ],
+    "lɔ-kpasɛ": [
+        "3SG-be_contained"
+    ],
+    "lɔ-lɛ": [
+        "3SG-be_at"
+    ],
+    "lɔ-nɛ": [
+        "AM-be_wide"
+    ],
+    "lɔ-sɔlɛ": [
+        "3SG-catch_fire"
+    ],
+    "lɔ-tu": [
+        "1PL-grind"
+    ],
+    "lɔ-tú": [
+        "1PL-pound"
+    ],
+    "lɔ-zɛ-kpɛ́": [
+        "1PL-REP-put_in"
+    ],
+    "lɔkɔ": [
+        "take"
+    ],
+    "lɔkɔ-ɛ": [
+        "take-3SG"
+    ],
+    "lɔ́": [
+        "1PL"
+    ],
+    "lɛ": [
+        "this",
+        "3SG",
+        "be_at"
+    ],
+    "lɛ-lɛ́": [
+        "3PL-be_at"
+    ],
+    "lɛ́": [
+        "be_at",
+        "3SG",
+        "that",
+        "air"
+    ],
+    "ma": [
+        "NEG:be_at",
+        "state"
+    ],
+    "mahógani": [
+        "mahogany"
+    ],
+    "mana": [
+        "come_with"
+    ],
+    "mapo": [
+        "probaby"
+    ],
+    "me": [
+        "ISG"
+    ],
+    "me-klu": [
+        "ISG-call"
+    ],
+    "meke": [
+        "finish"
+    ],
+    "méke": [
+        "finish"
+    ],
+    "mi-í-bú": [
+        "1SG-PROG-remove"
+    ],
+    "mi-nu-": [
+        "1SG-be-"
+    ],
+    "mi-nyí": [
+        "1SG-know"
+    ],
+    "mi-tsyina": [
+        "1SG-turn_round"
+    ],
+    "mɔ": [
+        "find",
+        "see"
+    ],
+    "mɛ": [
+        "1SG",
+        "inside",
+        "1SG:Poss",
+        "in"
+    ],
+    "mɛ-ayɛ́": [
+        "1SG:Poss-own",
+        "1SG-own",
+        "inside-own"
+    ],
+    "mɛ-ba-vɛ": [
+        "1SG-FUT-go"
+    ],
+    "mɛ-lɔkɔ": [
+        "1SG-take"
+    ],
+    "mɛ-mɔ": [
+        "1SG-see"
+    ],
+    "mɛ-tɔ": [
+        "1SG-cook"
+    ],
+    "mɛ-ɛ": [
+        "inside-TP"
+    ],
+    "mɛ-ɛ́-kasɛ́": [
+        "1SG-PROG-teach"
+    ],
+    "mɛɛ-ɛ́-bá": [
+        "inside1SG-PROG-come"
+    ],
+    "naálɛ": [
+        "is_this"
+    ],
+    "nána": [
+        "not_any"
+    ],
+    "ndɔgbe": [
+        "sun_in"
+    ],
+    "no-bo-bú": [
+        "2PL-VENITIVE-remove"
+    ],
+    "no-bo-ó-ɖǐ": [
+        "1PL-VENITIVE-PROG-look_at"
+    ],
+    "no-bo-tóŋú": [
+        "1PL-FUT-be_able"
+    ],
+    "no-lũ": [
+        "1PL-hear"
+    ],
+    "no-putɔ": [
+        "1PL-go_ahead_of"
+    ],
+    "no-ze-ó-ɖǐ": [
+        "2PL-REP-PROG-look_at"
+    ],
+    "no-zɛ-ó-ɖǐ": [
+        "1PL-REP-PROG-look_at"
+    ],
+    "nu": [
+        "be"
+    ],
+    "nu-": [
+        "be-"
+    ],
+    "nyamaa": [
+        "excessively"
+    ],
+    "nyé-ɛ́": [
+        "name-DEF"
+    ],
+    "nyimɔ": [
+        "nyimo"
+    ],
+    "nyimɔ́": [
+        "shrub_name"
+    ],
+    "nyɔ̃́ɔ̃́": [
+        "scattered"
+    ],
+    "nyɛmɛ": [
+        "wake_up"
+    ],
+    "nyɛ́": [
+        "every"
+    ],
+    "nɔ": [
+        "TP",
+        "2PL",
+        "DEF",
+        "COMITATIVE"
+    ],
+    "nɔ-bá": [
+        "2PL-come"
+    ],
+    "nɔ-bɔ": [
+        "2PL-FUT"
+    ],
+    "nɔ-hwa": [
+        "2PL-hurry"
+    ],
+    "nɔ-kɔ́": [
+        "2PL-give"
+    ],
+    "nɔ-lɛ́": [
+        "2PL-be_at"
+    ],
+    "nɔ-mɔ": [
+        "2PL-see"
+    ],
+    "nɔ-pɛ": [
+        "2PL-want"
+    ],
+    "nɔ-ɔ́-mɔ": [
+        "2PL-PROG-see"
+    ],
+    "nɔ-ɖɔ": [
+        "2PL-say"
+    ],
+    "nɔnɔ́": [
+        "be_DEF"
+    ],
+    "nɔɔ́lɛ": [
+        "is_this"
+    ],
+    "nɔɔ́lɛ́": [
+        "is_that"
+    ],
+    "nɔɔ́lɛ̄": [
+        "is_this"
+    ],
+    "nɔ́": [
+        "DEF",
+        "TP"
+    ],
+    "nɔ́-nɔ́": [
+        "DEF-DEF"
+    ],
+    "nɔ́kɔ́": [
+        "DEFgive"
+    ],
+    "nɛ": [
+        "with"
+    ],
+    "nɛ-ɛ": [
+        "with-3SG"
+    ],
+    "nɛɛ́lɛ": [
+        "is_this"
+    ],
+    "nɛɛ́lɛ́": [
+        "is_that"
+    ],
+    "nɛ́": [
+        "at"
+    ],
+    "nɛ́bu-litú-ɔ": [
+        "atCM-hole_in_palm_tree_for_tapping-DEF"
+    ],
+    "o-bhia": [
+        "CM-torch"
+    ],
+    "o-bisi": [
+        "2SG-ask"
+    ],
+    "o-bo-bú": [
+        "2SG-FUT-remove"
+    ],
+    "o-bo-di-wu": [
+        "2SG-FUT-ITIVE-climb"
+    ],
+    "o-bo-fatɛ-e": [
+        "2SG-FUT-carve-3SG"
+    ],
+    "o-bo-hǔ": [
+        "2SG-FUT-make_hole"
+    ],
+    "o-bo-kú": [
+        "2SG-FUT-reach"
+    ],
+    "o-bo-lɔkɔ": [
+        "2SG-FUT-take"
+    ],
+    "o-bo-pú": [
+        "2SG-FUT-puncture"
+    ],
+    "o-bo-súsú": [
+        "2SG-FUT-think",
+        "CM-FUT-think"
+    ],
+    "o-bo-tóŋú": [
+        "2SG-FUT-be_able"
+    ],
+    "o-bo-tro": [
+        "2SG-FUT-spin"
+    ],
+    "o-bo-yǐ": [
+        "2SG-FUT-kill"
+    ],
+    "o-bó": [
+        "2SG-tap_palmwine"
+    ],
+    "o-bú": [
+        "2SG-remove"
+    ],
+    "o-búɔ́": [
+        "CM-today"
+    ],
+    "o-de-o-bisi": [
+        "2SG-ITIVE-2SG-ask"
+    ],
+    "o-di-wu": [
+        "2SG-ITIVE-climb"
+    ],
+    "o-duku": [
+        "2SG-blow"
+    ],
+    "o-duku-kɔ́-é": [
+        "CM-blow-place-ADDR"
+    ],
+    "o-fu": [
+        "CM-palm_wine_tapping_brush"
+    ],
+    "o-fú": [
+        "CM-tapping_brush"
+    ],
+    "o-gi-múnɔ": [
+        "2SG-NEG:PRES-find",
+        "2SG-NEG:PST-find"
+    ],
+    "o-gũ": [
+        "CM-root"
+    ],
+    "o-gũ-ɔ": [
+        "CM-root-DEF"
+    ],
+    "o-hu": [
+        "CM-vehicle"
+    ],
+    "o-hui-ɛ": [
+        "CM-rope-TP"
+    ],
+    "o-ko-lũ": [
+        "2SG-not_yet-hear"
+    ],
+    "o-ko-lṹ": [
+        "2SG-not_yet-matter"
+    ],
+    "o-kóéyi": [
+        "2SG-exit"
+    ],
+    "o-kumɛ": [
+        "CM-Okume"
+    ],
+    "o-kú-ɔ́": [
+        "CM-reach-DEF"
+    ],
+    "o-li": [
+        "CM-neck"
+    ],
+    "o-li-ɛ́": [
+        "CM-neck-DEF"
+    ],
+    "o-lĩ́": [
+        "CM-soup"
+    ],
+    "o-luhũ": [
+        "CM-trouble"
+    ],
+    "o-lumamwɛ́": [
+        "CM-fresh_palm_leaf"
+    ],
+    "o-lũ": [
+        "2SG-hear",
+        "CM-hear"
+    ],
+    "o-lũ-": [
+        "CM-hear-"
+    ],
+    "o-lũgbǔ": [
+        "CM-mouth"
+    ],
+    "o-lũgbǔ-ɔ": [
+        "CM-mouth-DEF"
+    ],
+    "o-lɔ": [
+        "CM-1PL",
+        "CM-3SG",
+        "CM-IPL"
+    ],
+    "o-lɛ́": [
+        "CM-be_at"
+    ],
+    "o-mumwɛ́": [
+        "CM-lemon"
+    ],
+    "o-múnɔ": [
+        "2SG-find"
+    ],
+    "o-nu": [
+        "2SG-be"
+    ],
+    "o-nyí": [
+        "2SG-know"
+    ],
+    "o-o": [
+        "CM-CM"
+    ],
+    "o-plǔ": [
+        "2SG-wash"
+    ],
+    "o-she": [
+        "2SG-be_old"
+    ],
+    "o-si-ɛ́": [
+        "CM-tree-DEF"
+    ],
+    "o-sigũ": [
+        "CM-root"
+    ],
+    "o-sí": [
+        "CM-tree"
+    ],
+    "o-sí-ɛ́": [
+        "CM-tree-DEF"
+    ],
+    "o-subha": [
+        "CM-hearth",
+        "CM-rain"
+    ],
+    "o-sɛ": [
+        "2SG-say"
+    ],
+    "o-ti": [
+        "2SG-know"
+    ],
+    "o-tí-bú": [
+        "2SG-already-remove"
+    ],
+    "o-tí-nyí": [
+        "2SG-NEG:PRES-know"
+    ],
+    "o-toró": [
+        "2SG-spin"
+    ],
+    "o-tsu": [
+        "2SG-dig"
+    ],
+    "o-tsyina": [
+        "2SG-turn_round"
+    ],
+    "o-tugba": [
+        "CM-front"
+    ],
+    "o-tɔ": [
+        "2SG-cook"
+    ],
+    "o-yi": [
+        "2SG-appear"
+    ],
+    "o-zhǐtá-mɛ-ɛ́": [
+        "CM-nine-inside-DEF"
+    ],
+    "o-zi": [
+        "CM-hole"
+    ],
+    "o-zi-ɛ": [
+        "CM-hole-DEF",
+        "CM-hole-TP"
+    ],
+    "o-zi-ɛ́": [
+        "CM-hole-DEF"
+    ],
+    "o-zĩ": [
+        "CM-noise"
+    ],
+    "o-zĩ̌": [
+        "CM-noise"
+    ],
+    "o-ŋúsɛ̃́": [
+        "CM-strength"
+    ],
+    "o-ɔ": [
+        "just-TP"
+    ],
+    "o-ɖotí": [
+        "CM-cotton"
+    ],
+    "oo": [
+        "ADDR"
+    ],
+    "otsi": [
+        "Now"
+    ],
+    "otsí": [
+        "now"
+    ],
+    "otsí-ɛ": [
+        "now-TP"
+    ],
+    "otsíɛ́": [
+        "now"
+    ],
+    "ónupɛ": [
+        "if"
+    ],
+    "ónú": [
+        "if"
+    ],
+    "ónúpɛ": [
+        "if"
+    ],
+    "pampro": [
+        "bamboo"
+    ],
+    "pã́-mɛ": [
+        "house-inside"
+    ],
+    "pétéé": [
+        "all"
+    ],
+    "piapi": [
+        "well"
+    ],
+    "piapíí": [
+        "well"
+    ],
+    "piapííki-benyíbe": [
+        "wellCM-everytime"
+    ],
+    "plǔ": [
+        "wash"
+    ],
+    "plɛnɔ": [
+        "help",
+        "add"
+    ],
+    "pú": [
+        "puncture"
+    ],
+    "pɔ": [
+        "however"
+    ],
+    "pɔtɔpɔtɔ": [
+        "very_well"
+    ],
+    "pɔtɛ́": [
+        "cloth"
+    ],
+    "pɛ": [
+        "then",
+        "look_for"
+    ],
+    "pɛkɛ-kányáka": [
+        "thenCM-every"
+    ],
+    "pɛn": [
+        "pen"
+    ],
+    "pɛ́": [
+        "only"
+    ],
+    "pɛ́pɛ́pɛ́": [
+        "exactly"
+    ],
+    "regent": [
+        "regent"
+    ],
+    "riɖiɖi": [
+        "continuously"
+    ],
+    "riɖiɖiɖi": [
+        "for_a_long_time"
+    ],
+    "salí": [
+        "thing",
+        "some"
+    ],
+    "samɛ": [
+        "happiness"
+    ],
+    "schnapps": [
+        "schnapps"
+    ],
+    "séƒoƒo": [
+        "flower"
+    ],
+    "sheshe": [
+        "old"
+    ],
+    "shi": [
+        "between"
+    ],
+    "shogo": [
+        "gather"
+    ],
+    "shudzya": [
+        "flesh"
+    ],
+    "shumɛ": [
+        "body"
+    ],
+    "shumɛvevétɔ": [
+        "bodyespecially"
+    ],
+    "shú": [
+        "skin",
+        "skiN"
+    ],
+    "shú-yɔ-yɔ": [
+        "kin-be_cold-be_cold"
+    ],
+    "sina": [
+        "greet"
+    ],
+    "sisɛ": [
+        "at_a_distance"
+    ],
+    "so": [
+        "therefore"
+    ],
+    "so-ɔ": [
+        "therefore-DEF",
+        "therefore-TP"
+    ],
+    "subha": [
+        "rain"
+    ],
+    "sukúu": [
+        "school"
+    ],
+    "susú": [
+        "thought"
+    ],
+    "sɔlɛ": [
+        "burn",
+        "catch_fire"
+    ],
+    "sɔlɛmɛ": [
+        "church"
+    ],
+    "sɛ": [
+        "that",
+        "say"
+    ],
+    "sɛ-ɛ": [
+        "that-TP"
+    ],
+    "sɛba-tɛ́-gã": [
+        "say3PL-already-walk"
+    ],
+    "sɛmpúá": [
+        "type_boil"
+    ],
+    "sɛ́": [
+        "finish"
+    ],
+    "sɛ̃́ɛ́": [
+        "shortly"
+    ],
+    "sɛ̃́ɛ̃́": [
+        "shortly"
+    ],
+    "t-ɔ́": [
+        "ear-PROG"
+    ],
+    "ta": [
+        "swell"
+    ],
+    "ta-bha": [
+        "AM-two"
+    ],
+    "takpú-ɔ": [
+        "head-DEF"
+    ],
+    "takpɛ́kpɛ́": [
+        "meeting"
+    ],
+    "tatá": [
+        "three"
+    ],
+    "tá": [
+        "boil_swells"
+    ],
+    "tá-tá": [
+        "boil_swells-boil_swells"
+    ],
+    "te": [
+        "AM"
+    ],
+    "te-gegéné-ɛ́": [
+        "AM-seven-DEF"
+    ],
+    "te-nikpó": [
+        "AM-one"
+    ],
+    "te-nukpó": [
+        "AM-one"
+    ],
+    "telí": [
+        "certain"
+    ],
+    "tenukpó": [
+        "one"
+    ],
+    "tetí": [
+        "five"
+    ],
+    "ti": [
+        "CM"
+    ],
+    "ti-gegéné": [
+        "CM-seven"
+    ],
+    "ti-hlǒ": [
+        "AM-six"
+    ],
+    "ti-nikpó": [
+        "AM-one"
+    ],
+    "ti-nikpó-ɔ": [
+        "AM-one-TP"
+    ],
+    "ti-toró-toró": [
+        "CM-spin-spin"
+    ],
+    "ti-tsyitsyina": [
+        "CM-change"
+    ],
+    "tilí": [
+        "certain"
+    ],
+    "titi": [
+        "sky"
+    ],
+    "tití": [
+        "sky"
+    ],
+    "tí-ke-é-wu": [
+        "NEG:PRES-not_yet-PROG-climb"
+    ],
+    "títí": [
+        "upright"
+    ],
+    "to-nukpó": [
+        "AM-one"
+    ],
+    "tolí": [
+        "certain"
+    ],
+    "toró": [
+        "spin"
+    ],
+    "tramɛ": [
+        "third"
+    ],
+    "trǎ": [
+        "sleep"
+    ],
+    "trǎ-dɔ-dɔ": [
+        "sleep-sleep-sleep"
+    ],
+    "tsã́": [
+        "formerly"
+    ],
+    "tsã́-tsã́-tsã́": [
+        "formerly-formerly-formerly"
+    ],
+    "tseɖé": [
+        "tell"
+    ],
+    "tsiɖi": [
+        "be_on"
+    ],
+    "tsǐ": [
+        "die"
+    ],
+    "tsyáká": [
+        "mix"
+    ],
+    "tsyáló": [
+        "maybe"
+    ],
+    "tsyámi": [
+        "spokesperson"
+    ],
+    "tsyiami": [
+        "spokesperson"
+    ],
+    "tsyɔ": [
+        "quickly"
+    ],
+    "tsyɛ́": [
+        "also"
+    ],
+    "tsɔ̃ɔ̃": [
+        "right_away"
+    ],
+    "tsɛrɛ": [
+        "foot"
+    ],
+    "tu-trugbu": [
+        "CM-Tutrugbu_person"
+    ],
+    "tulí": [
+        "a_certain"
+    ],
+    "tumpá": [
+        "bottle"
+    ],
+    "tútútú": [
+        "exactly"
+    ],
+    "tɔ": [
+        "cook"
+    ],
+    "tɔ-tá": [
+        "AM-three"
+    ],
+    "tɔɖɔ": [
+        "put_on"
+    ],
+    "tɔ́gbé": [
+        "chief"
+    ],
+    "tɔ̃": [
+        "edge"
+    ],
+    "tɛ": [
+        "COMP"
+    ],
+    "tɛ-á-kpɛ́": [
+        "NEG-PROG-put"
+    ],
+    "tɛ-ba-ba": [
+        "COMP-come-come"
+    ],
+    "tɛ-bha": [
+        "AM-two",
+        "CM-two"
+    ],
+    "tɛ-lɔ̃́": [
+        "CM-palm_chaff"
+    ],
+    "tɛ-lɛ́": [
+        "CM-be_at"
+    ],
+    "tɛ-pɛ̃-pɛ̃": [
+        "CM-be_good-be_good"
+    ],
+    "tɛ-ta": [
+        "AM-three"
+    ],
+    "tɛ-tá": [
+        "CM-three"
+    ],
+    "tɛ-wa": [
+        "CM-grass",
+        "CM-herb"
+    ],
+    "tɛ-wá": [
+        "CM-medicine",
+        "CM-herb"
+    ],
+    "tɛ-wá-a": [
+        "CM-grass-DET"
+    ],
+    "tɛ-wã-wlãkɛ́": [
+        "CM-side-struggle"
+    ],
+    "tɛ-wãwlãkɛ́": [
+        "CM-struggle"
+    ],
+    "tɛ-wɔ̃nɔ": [
+        "CM-rubbish"
+    ],
+    "tɛ-xɔ̃ɛ": [
+        "CM-chaff"
+    ],
+    "tɛ-zã-zã": [
+        "CM-remain-remain"
+    ],
+    "tɛ́-ba-bá": [
+        "NEG:PRES-FUT-come"
+    ],
+    "tɛ́-dɛmɛ́": [
+        "NEG:PRES-agree"
+    ],
+    "vevétɔ": [
+        "especially"
+    ],
+    "veviétɔ": [
+        "especially"
+    ],
+    "vévě": [
+        "important"
+    ],
+    "vũ": [
+        "catch"
+    ],
+    "vũnɔ": [
+        "hold"
+    ],
+    "vɔvɔ": [
+        "new"
+    ],
+    "vɛ": [
+        "go"
+    ],
+    "vɛ-nɔ": [
+        "go-COMITATIVE"
+    ],
+    "wa": [
+        "do"
+    ],
+    "wa-kɔ́": [
+        "do-place"
+    ],
+    "watch": [
+        "watch"
+    ],
+    "wá": [
+        "medicine"
+    ],
+    "wo": [
+        "2SG"
+    ],
+    "wo-ayɛ́": [
+        "2SG-own"
+    ],
+    "wokú": [
+        "climb_up"
+    ],
+    "wole": [
+        "month"
+    ],
+    "wonɔ": [
+        "2PL"
+    ],
+    "wu": [
+        "climb"
+    ],
+    "wu-nɔ": [
+        "climb-COMITATIVE"
+    ],
+    "wulu": [
+        "blow"
+    ],
+    "wulɔ": [
+        "again"
+    ],
+    "wunɔ": [
+        "raise"
+    ],
+    "wɔ": [
+        "2SG",
+        "2SG:Poss"
+    ],
+    "wɔ-": [
+        "2SG-"
+    ],
+    "wɔayɛ́": [
+        "yours"
+    ],
+    "wɔnɔ": [
+        "2PL",
+        "2PL:Poss"
+    ],
+    "wɔ́": [
+        "remain"
+    ],
+    "wɛ̃": [
+        "drink"
+    ],
+    "xɔ́nɔ́": [
+        "as_for"
+    ],
+    "xɔ̃́nɔ́": [
+        "as_for"
+    ],
+    "yalɛ": [
+        "that_one",
+        "this_one"
+    ],
+    "yá": [
+        "stomach"
+    ],
+    "yálɛ": [
+        "this_one"
+    ],
+    "yálɛ́": [
+        "that_one"
+    ],
+    "ye-dzi": [
+        "AM-be_located"
+    ],
+    "ye-nu": [
+        "3SG-be",
+        "AM-be"
+    ],
+    "yé": [
+        "FOC"
+    ],
+    "yi-yi-ɛ": [
+        "appear-appear-TP"
+    ],
+    "yi-yi-ɛ́": [
+        "appear-appear-DEF"
+    ],
+    "yǐ": [
+        "kill"
+    ],
+    "yǐ-i": [
+        "kill-3SG"
+    ],
+    "yǐ-yǐ-ɛ": [
+        "kill-kill-TP"
+    ],
+    "yǐ-yǐ-ɛ́": [
+        "kill-kill-DEF"
+    ],
+    "yoo": [
+        "ok"
+    ],
+    "yuyu": [
+        "fruit"
+    ],
+    "yuyu-ɔ": [
+        "fruit-DEF"
+    ],
+    "yǔ": [
+        "weave"
+    ],
+    "yɔdǒ": [
+        "grave"
+    ],
+    "yɔ́": [
+        "be_cold",
+        "be_peaceful"
+    ],
+    "yɔ̃́ɔ̃́": [
+        "completely"
+    ],
+    "yɛ": [
+        "FOC",
+        "3SG",
+        "3SG:Poss"
+    ],
+    "yɛ-a-wɔ": [
+        "3SG-AM-remain"
+    ],
+    "zã": [
+        "remain"
+    ],
+    "zã-zã": [
+        "remain-remain"
+    ],
+    "zhĩá": [
+        "need"
+    ],
+    "zhǐ": [
+        "descend"
+    ],
+    "zĩzĩ": [
+        "trouble"
+    ],
+    "zurú": [
+        "steal"
+    ],
+    "zɛ-a-kpɛ́": [
+        "REP-SCONN-put_in"
+    ],
+    "zɛ-bá": [
+        "REP-come"
+    ],
+    "zɛ-plɛ́nɔ": [
+        "REP-add_to"
+    ],
+    "zɛ-wa": [
+        "REP-do"
+    ],
+    "zɛzɛ̃̌": [
+        "one"
+    ],
+    "zɛ́zɛ̃̌": [
+        "one"
+    ],
+    "ŋa": [
+        "eat"
+    ],
+    "ŋlɔmɛ": [
+        "write"
+    ],
+    "ŋútɔ́": [
+        "very"
+    ],
+    "ŋútɔ́-ŋútɔ́": [
+        "very-very"
+    ],
+    "ɔ": [
+        "TP",
+        "DEF"
+    ],
+    "ɔ-": [
+        "DEF-"
+    ],
+    "ɔ-bá": [
+        "AM-come",
+        "2SG-FUT",
+        "2SG-come"
+    ],
+    "ɔ-bha": [
+        "CM-side"
+    ],
+    "ɔ-bhia": [
+        "CM-friend",
+        "CM-torch"
+    ],
+    "ɔ-bhíá": [
+        "CM-torch"
+    ],
+    "ɔ-bhɛtɛ": [
+        "2SG-do"
+    ],
+    "ɔ-bɔ": [
+        "2SG-FUT"
+    ],
+    "ɔ-bɔ-ba": [
+        "2SG-FUT-come"
+    ],
+    "ɔ-bɔ-bá": [
+        "2SG-VENITIVE-come"
+    ],
+    "ɔ-bɔ-bhɛtɛ": [
+        "2SG-FUT-do"
+    ],
+    "ɔ-bɔ-gã": [
+        "2SG-FUT-walk"
+    ],
+    "ɔ-bɔ-kasɛ́": [
+        "2SG-FUT-teach"
+    ],
+    "ɔ-bɔ-kpɛ́": [
+        "2SG-FUT-put_in"
+    ],
+    "ɔ-bɔ-mɔ": [
+        "2SG-FUT-see"
+    ],
+    "ɔ-bɔ-shɛ̃-nɔ": [
+        "2SG-FUT-leave-COMITATIVE"
+    ],
+    "ɔ-bɔ-tɔ": [
+        "2SG-AM-cook"
+    ],
+    "ɔ-bɔ-tɔnɔ": [
+        "2SG-FUT-follow"
+    ],
+    "ɔ-bɔ-tɔ̃": [
+        "2SG-FUT-set_fire"
+    ],
+    "ɔ-bɔ-zã": [
+        "2SG-FUT-remain"
+    ],
+    "ɔ-dzɛdzɛ̃́": [
+        "CM-story"
+    ],
+    "ɔ-dɛ": [
+        "2SG-go_to",
+        "2SG-sell"
+    ],
+    "ɔ-fɔfuyã": [
+        "CM-spirit"
+    ],
+    "ɔ-gã": [
+        "2SG-walk"
+    ],
+    "ɔ-gla": [
+        "CM-jaw"
+    ],
+    "ɔ-gɔnɛ́": [
+        "CM-week"
+    ],
+    "ɔ-gɔnɛ́-ɛ́": [
+        "2SG-week-DEF"
+    ],
+    "ɔ-gɛ": [
+        "2SG-NEG:PST"
+    ],
+    "ɔ-gɛ-mɔ": [
+        "2SG-NEG:PST-see"
+    ],
+    "ɔ-gɛ-ná": [
+        "2SG-NEG:PST-suffice"
+    ],
+    "ɔ-hɔɛ": [
+        "CM-hand"
+    ],
+    "ɔ-kpasɛ": [
+        "AM-be_contained"
+    ],
+    "ɔ-kplɔ̃": [
+        "CM-table"
+    ],
+    "ɔ-kpɛ": [
+        "2SG-put"
+    ],
+    "ɔ-kpɛ́": [
+        "2SG-put_in",
+        "2SG-put"
+    ],
+    "ɔ-kɔ": [
+        "CM-custom"
+    ],
+    "ɔ-kɔ-ɔ": [
+        "CM-custom-DEF"
+    ],
+    "ɔ-kɔkɔ́": [
+        "CM-fowl"
+    ],
+    "ɔ-kɔnyɔ́kɔ": [
+        "CM-everywhere"
+    ],
+    "ɔ-kɔ́": [
+        "CM-place",
+        "TP-place",
+        "2SG-give"
+    ],
+    "ɔ-kɔ́yɛ": [
+        "CM-place3SG:Poss"
+    ],
+    "ɔ-kɔ̃ɛ̃": [
+        "CM-soap"
+    ],
+    "ɔ-lɔ": [
+        "CM-1PL",
+        "CM-3SG",
+        "CM-IPL"
+    ],
+    "ɔ-lɔkɔ": [
+        "2SG-take"
+    ],
+    "ɔ-lɛ": [
+        "CM-3SG",
+        "AM-be_at",
+        "CM-this",
+        "CM-3PL",
+        "AM-this"
+    ],
+    "ɔ-lɛ́": [
+        "CM-that",
+        "2SG-be_at",
+        "CM-3SG",
+        "AM-that",
+        "AM-be_at",
+        "CM-it"
+    ],
+    "ɔ-ma": [
+        "CM-state"
+    ],
+    "ɔ-ma-xwɛ̃": [
+        "CM-state-work"
+    ],
+    "ɔ-mana": [
+        "2SG-come_with"
+    ],
+    "ɔ-mɔ": [
+        "2SG-see"
+    ],
+    "ɔ-mɔ-ɛ": [
+        "2SG-see-3SG"
+    ],
+    "ɔ-nyana-kɔ": [
+        "CM-hold-place"
+    ],
+    "ɔ-nyá": [
+        "2SG-tie"
+    ],
+    "ɔ-nyɔ́": [
+        "2SG-just",
+        "CM-smoke"
+    ],
+    "ɔ-nyɔ́-ɔ": [
+        "CM-smoke-DEF"
+    ],
+    "ɔ-plɛ́nɔ": [
+        "AM-add_to"
+    ],
+    "ɔ-pɛ": [
+        "2SG-look_for"
+    ],
+    "ɔ-sa": [
+        "CM-osa_herb"
+    ],
+    "ɔ-shɛ̃": [
+        "2SG-leave"
+    ],
+    "ɔ-sɛ": [
+        "2SG-say",
+        "AM-that",
+        "TP-say"
+    ],
+    "ɔ-tã": [
+        "2SG-chew",
+        "2SG-eat"
+    ],
+    "ɔ-tẽ": [
+        "2SG-cut"
+    ],
+    "ɔ-tsrɛ̌": [
+        "CM-leg"
+    ],
+    "ɔ-tɔ": [
+        "2SG-cook"
+    ],
+    "ɔ-tɛtɛrɛ": [
+        "CM-blow_pipe"
+    ],
+    "ɔ-tɛ́-bɔ-dɛ": [
+        "2SG-NEG:PRES-FUT-go_to"
+    ],
+    "ɔ-vɛ": [
+        "2SG-go"
+    ],
+    "ɔ-wá": [
+        "CM-medicine"
+    ],
+    "ɔ-wlago": [
+        "CM-evening"
+    ],
+    "ɔ-wɛ̃": [
+        "2SG-show",
+        "CM-show",
+        "2SG-drink"
+    ],
+    "ɔ-xlɔ́": [
+        "2SG-scrape"
+    ],
+    "ɔ-yayǎ": [
+        "CM-dust"
+    ],
+    "ɔ-yikɛ": [
+        "2SG-receive"
+    ],
+    "ɔ-zã": [
+        "2SG-remain"
+    ],
+    "ɔ-zã-kɔ́": [
+        "CM-remain-place"
+    ],
+    "ɔ-zã-kɔ́-e-leté": [
+        "CM-remain-place-CM-owner"
+    ],
+    "ɔ-zhĩá-zhĩá": [
+        "CM-need-need"
+    ],
+    "ɔ-zɔ-kpɛ́": [
+        "2SG-REP-put_in"
+    ],
+    "ɔ-zɛ": [
+        "AM-REP",
+        "2SG-REP"
+    ],
+    "ɔ-ŋa": [
+        "2SG-eat"
+    ],
+    "ɔ-ɔ-ŋa": [
+        "CM-CM-eat"
+    ],
+    "ɔ-ɔ́-ba": [
+        "2SG-PROG-come"
+    ],
+    "ɔ-ɔ́-mɔ": [
+        "2SG-PROG-see"
+    ],
+    "ɔ-ɖa": [
+        "CM-iron"
+    ],
+    "ɔ-ɖɔ-ɛ": [
+        "2SG-say-3SG"
+    ],
+    "ɔlɔ́": [
+        "1PL"
+    ],
+    "ɔtɛtrɛ": [
+        "blow_pipe"
+    ],
+    "ɔ́": [
+        "TP",
+        "DEF",
+        "PROG"
+    ],
+    "ɖaŋu": [
+        "advice"
+    ],
+    "ɖi": [
+        "look_at"
+    ],
+    "ɖǐ": [
+        "look_at"
+    ],
+    "ɖotí": [
+        "cotton"
+    ],
+    "ɖɔ": [
+        "say"
+    ],
+    "ɛ": [
+        "TP",
+        "CM",
+        "3SG",
+        "1SG",
+        "DEF"
+    ],
+    "ɛ-ba-ba": [
+        "3SG-FUT-come"
+    ],
+    "ɛ-ba-balɛ": [
+        "1SG-VENTIVE-pour"
+    ],
+    "ɛ-ba-bó": [
+        "1SG-FUT-tap_palmwine"
+    ],
+    "ɛ-ba-kpɛ́": [
+        "1SG-FUT-put_in"
+    ],
+    "ɛ-ba-shɔ": [
+        "3SG-VENTIVE-pierce"
+    ],
+    "ɛ-ba-téŋú": [
+        "1SG-FUT-be_able"
+    ],
+    "ɛ-ba-tóŋú": [
+        "1SG-FUT-be_able"
+    ],
+    "ɛ-ba-tɔ̃": [
+        "1SG-FUT-set_fire",
+        "1SG-FUT-join"
+    ],
+    "ɛ-ba-ɖɔ": [
+        "1SG-FUT-say",
+        "1SG-VENTIVE-say"
+    ],
+    "ɛ-bá": [
+        "CM-come"
+    ],
+    "ɛ-bhiti-i": [
+        "1SG-do-3SG"
+    ],
+    "ɛ-bhɛtɛ": [
+        "1SG-do"
+    ],
+    "ɛ-bobohɛ": [
+        "CM-tapping_knife"
+    ],
+    "ɛ-bú": [
+        "CM-dog"
+    ],
+    "ɛ-dzyɔ": [
+        "3SG-be_straight"
+    ],
+    "ɛ-dzɛ́kɛ̄": [
+        "1SG-forget"
+    ],
+    "ɛ-dɔ̃": [
+        "CM-thing",
+        "CM-squirrel"
+    ],
+    "ɛ-dɛmɛ́": [
+        "1SG-respond"
+    ],
+    "ɛ-fatɛ-i": [
+        "1SG-carve-3SG"
+    ],
+    "ɛ-gɔnɛ": [
+        "CM-week"
+    ],
+    "ɛ-gɔnɛ́": [
+        "CM-week"
+    ],
+    "ɛ-gɛ-zã": [
+        "1SG-NEG:PST-remain"
+    ],
+    "ɛ-hɔɛ": [
+        "CM-hand"
+    ],
+    "ɛ-hɛ̌": [
+        "CM-knife"
+    ],
+    "ɛ-klɛ": [
+        "CM-then",
+        "CM-here"
+    ],
+    "ɛ-klɛ́": [
+        "CM-there"
+    ],
+    "ɛ-kpã́": [
+        "CM-life"
+    ],
+    "ɛ-kɔ": [
+        "CM-custom"
+    ],
+    "ɛ-kɛlɛ": [
+        "CM-here",
+        "CM-this"
+    ],
+    "ɛ-lĩ-ɛ́": [
+        "CM-mother-DEF"
+    ],
+    "ɛ-lɔkɔ": [
+        "1SG-take"
+    ],
+    "ɛ-lɛ": [
+        "CM-3SG",
+        "CM-this",
+        "CM-3PL"
+    ],
+    "ɛ-lɛ́": [
+        "CM-that",
+        "CM-3SG",
+        "3SG-be_at"
+    ],
+    "ɛ-ma": [
+        "CM-state"
+    ],
+    "ɛ-mɔ": [
+        "1SG-see",
+        "3SG-see"
+    ],
+    "ɛ-pɛ̃": [
+        "3SG-be_good"
+    ],
+    "ɛ-sha-álɛ́": [
+        "CM-law-PL"
+    ],
+    "ɛ-takpú-ɔ": [
+        "CM-head-DEF"
+    ],
+    "ɛ-tɔ̃": [
+        "1SG-set_fire"
+    ],
+    "ɛ-tɛ́-mɔ": [
+        "1SG-NEG:PRES-see"
+    ],
+    "ɛ-tɛ́-ɛ́-mɔ": [
+        "1SG-NEG:PRES-PROG-see"
+    ],
+    "ɛ-vɛ": [
+        "1SG-go"
+    ],
+    "ɛ-wa": [
+        "1SG-do"
+    ],
+    "ɛ-wɛ": [
+        "CM-finger"
+    ],
+    "ɛ-ya": [
+        "CM-stomach"
+    ],
+    "ɛ-yá": [
+        "CM-stomach"
+    ],
+    "ɛ-yá-ó-múnɔ-kɔ": [
+        "TP-stomach-PROG-find-place"
+    ],
+    "ɛ-yikɛ": [
+        "1SG-receive"
+    ],
+    "ɛ-zã-kɔ́": [
+        "CM-remain-place"
+    ],
+    "ɛ-ze-bolé": [
+        "3SG-REP-untie"
+    ],
+    "ɛ-zɛ-ba-lɔkɔ": [
+        "1SG-REP-FUT-take"
+    ],
+    "ɛ-zɛ-lɔkɔ": [
+        "1SG-REP-take"
+    ],
+    "ɛ-zɛ-lɔkɔ-ɛ": [
+        "1SG-REP-take-3SG"
+    ],
+    "ɛ-zɛ-mɔ": [
+        "1SG-REP-see"
+    ],
+    "ɛ-ŋaŋa": [
+        "CM-food"
+    ],
+    "ɛ-ɖa": [
+        "CM-hour"
+    ],
+    "ɛ-ɖɔ": [
+        "1SG-say"
+    ],
+    "ɛ-ɛ́-bhɛtɛ": [
+        "CM-PROG-do"
+    ],
+    "ɛ-ɛ́-kpɛ́": [
+        "1SG-PROG-put_in"
+    ],
+    "ɛ-ɛ́-ɖɔ": [
+        "1SG-PROG-say",
+        "3SG-PROG-say"
+    ],
+    "ɛhɛ́ɛ": [
+        "that's_right"
+    ],
+    "ɛhɛ̃́ɛ̃": [
+        "that's_right"
+    ],
+    "ɛlɛ": [
+        "four"
+    ],
+    "ɛrr": [
+        "uhm"
+    ],
+    "ɛɛ": [
+        "yes"
+    ],
+    "ɛ́": [
+        "DEF"
+    ],
+    "ɛ́-kasɛ́": [
+        "PROG-teach"
+    ],
+    "ɛ́-kpɛ́": [
+        "PROG-put"
+    ],
+    "̃ŋlɔmɛ": [
+        "write"
+    ]
+}

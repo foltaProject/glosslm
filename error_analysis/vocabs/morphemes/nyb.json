@@ -1,0 +1,2318 @@
+{
+    "*committee": [
+        "**committee"
+    ],
+    "*fine": [
+        "fine"
+    ],
+    "Akumawú": [
+        "Akumawu_clan"
+    ],
+    "Asafoatsyɛ": [
+        "war_chief"
+    ],
+    "Avɛnɔ": [
+        "Aveno"
+    ],
+    "Bamálɛ̃́": [
+        "Nyigbe"
+    ],
+    "Banyá": [
+        "Nyagbo_Sroe",
+        "Banya",
+        "Esroe"
+    ],
+    "Begbe": [
+        "Konda"
+    ],
+    "Egɛ̃": [
+        "Accra"
+    ],
+    "Eɖiɛwónɔ": [
+        "Ediewono"
+    ],
+    "Hahuté": [
+        "Hahute"
+    ],
+    "Máwú": [
+        "God"
+    ],
+    "Nyagasí": [
+        "Nyagasi"
+    ],
+    "Okú": [
+        "Oku"
+    ],
+    "Oxomɛ": [
+        "Oxome_clan"
+    ],
+    "Tingbě": [
+        "Ewe_language"
+    ],
+    "a": [
+        "CM",
+        "3SG",
+        "SCONN",
+        "AM",
+        "CM:PL",
+        "INTER",
+        "DET"
+    ],
+    "aa": [
+        "well"
+    ],
+    "adewu": [
+        "hunting_garment"
+    ],
+    "afa": [
+        "who"
+    ],
+    "ahã": [
+        "that's_right"
+    ],
+    "akanyáka": [
+        "everybody"
+    ],
+    "akumawú": [
+        "Akumawu"
+    ],
+    "aló": [
+        "or"
+    ],
+    "alóbɔ": [
+        "orCM:PL"
+    ],
+    "alɛ": [
+        "PL"
+    ],
+    "alɛ́": [
+        "PL",
+        "3PL"
+    ],
+    "amaneɛ́": [
+        "what_is_it"
+    ],
+    "ana": [
+        "thus"
+    ],
+    "ansɛ": [
+        "as"
+    ],
+    "ao": [
+        "no"
+    ],
+    "ayɛ́": [
+        "own"
+    ],
+    "aɖatsigoé": [
+        "tree_name"
+    ],
+    "aɖufeɛ̃́hókúí": [
+        "adufehokui"
+    ],
+    "aɖuƒéɛhókúí": [
+        "NAME"
+    ],
+    "á": [
+        "PROG",
+        "DEF",
+        "CM",
+        "AM"
+    ],
+    "álɛ́": [
+        "PL",
+        "3PL"
+    ],
+    "ánána": [
+        "nobody"
+    ],
+    "áníí": [
+        "thus"
+    ],
+    "ba": [
+        "FUT",
+        "3PL",
+        "CM:PL",
+        "AM",
+        "VENTIVE",
+        "come",
+        "cheat",
+        "CM"
+    ],
+    "bage": [
+        "bag"
+    ],
+    "baka": [
+        "remind"
+    ],
+    "balɛ": [
+        "3PL",
+        "get_ready",
+        "pour",
+        "their"
+    ],
+    "bamɛ": [
+        "face"
+    ],
+    "bá": [
+        "come",
+        "FUT"
+    ],
+    "bágɛ": [
+        "comeREL"
+    ],
+    "be": [
+        "3PL",
+        "CM:PL",
+        "FUT",
+        "AM",
+        "VENITIVE",
+        "time"
+    ],
+    "beke": [
+        "complete"
+    ],
+    "benyíbe": [
+        "everytime"
+    ],
+    "béke": [
+        "complete"
+    ],
+    "béle": [
+        "finish"
+    ],
+    "bha": [
+        "two",
+        "top",
+        "side",
+        "time"
+    ],
+    "bhia": [
+        "friend",
+        "torch"
+    ],
+    "bhiti": [
+        "do"
+    ],
+    "bhíá": [
+        "torch"
+    ],
+    "bhla": [
+        "second"
+    ],
+    "bhlatɔ": [
+        "other"
+    ],
+    "bhoso": [
+        "be_first_to"
+    ],
+    "bhǒ": [
+        "knock"
+    ],
+    "bhui": [
+        "cut"
+    ],
+    "bhúlí": [
+        "small"
+    ],
+    "bhwɛ̃": [
+        "white_clay"
+    ],
+    "bhɛtɛ": [
+        "do"
+    ],
+    "bisi": [
+        "ask"
+    ],
+    "biskwit": [
+        "biscuit"
+    ],
+    "bí": [
+        "be_cooked"
+    ],
+    "bísi": [
+        "ask"
+    ],
+    "bladzǒ": [
+        "plantain"
+    ],
+    "bleoo": [
+        "gently"
+    ],
+    "blidě": [
+        "pineapple"
+    ],
+    "blɔ": [
+        "1PL"
+    ],
+    "blɔa": [
+        "1PLCM"
+    ],
+    "blɔ́mí": [
+        "whistle"
+    ],
+    "blɛkpɛ": [
+        "left"
+    ],
+    "blɛwuu": [
+        "gently"
+    ],
+    "bo": [
+        "FUT",
+        "VENITIVE"
+    ],
+    "bobohɛ": [
+        "tapping_knife"
+    ],
+    "bolé": [
+        "untie"
+    ],
+    "bó": [
+        "tap_palmwine"
+    ],
+    "bu": [
+        "CM",
+        "1PL",
+        "AM"
+    ],
+    "bui": [
+        "word"
+    ],
+    "bulí": [
+        "little",
+        "small"
+    ],
+    "bulíí": [
+        "little"
+    ],
+    "bú": [
+        "buy_liquid_stuff",
+        "dog",
+        "remove"
+    ],
+    "búí": [
+        "word"
+    ],
+    "búlí": [
+        "small",
+        "snail"
+    ],
+    "búɔ́": [
+        "today"
+    ],
+    "bwɛ̌": [
+        "little"
+    ],
+    "bɔ": [
+        "1PL",
+        "CM",
+        "AM",
+        "CM:PL",
+        "FUT",
+        "crow",
+        "VENITIVE"
+    ],
+    "bɔbɔ": [
+        "bend"
+    ],
+    "bɔkɔɔ": [
+        "peaceful"
+    ],
+    "bɔlɔ": [
+        "1PL:POSS",
+        "1PL"
+    ],
+    "bɔɛ": [
+        "a_little"
+    ],
+    "bɔ́": [
+        "narrate"
+    ],
+    "da": [
+        "ITIVE"
+    ],
+    "dalɛ̃": [
+        "open"
+    ],
+    "dawadáwá": [
+        "dawadawa"
+    ],
+    "dá": [
+        "sister"
+    ],
+    "dámɛ": [
+        "crown"
+    ],
+    "dã": [
+        "close"
+    ],
+    "de": [
+        "ITIVE",
+        "back"
+    ],
+    "dé": [
+        "back"
+    ],
+    "dénɔ": [
+        "from"
+    ],
+    "dě": [
+        "come_from",
+        "back"
+    ],
+    "di": [
+        "ITIVE"
+    ],
+    "dia": [
+        "typeCM"
+    ],
+    "dĩ": [
+        "type"
+    ],
+    "drɔ́nɔ": [
+        "thing"
+    ],
+    "duku": [
+        "blow"
+    ],
+    "dulu": [
+        "door"
+    ],
+    "dulũ": [
+        "entrance"
+    ],
+    "dza": [
+        "at_all",
+        "weed",
+        "REP"
+    ],
+    "dzã̌": [
+        "become_ripe"
+    ],
+    "dze": [
+        "REP",
+        "not_anymore"
+    ],
+    "dzeni": [
+        "look_nice_on"
+    ],
+    "dzi": [
+        "be",
+        "become",
+        "be_located"
+    ],
+    "dzidze": [
+        "return"
+    ],
+    "dzini": [
+        "repeat"
+    ],
+    "dzíɖuɖu": [
+        "government"
+    ],
+    "dzǐ": [
+        "buy",
+        "be_located"
+    ],
+    "dzo": [
+        "road",
+        "IMP:PROG"
+    ],
+    "dzogbenyáklɛ̄": [
+        "shrub_name"
+    ],
+    "dzǒ": [
+        "path",
+        "road"
+    ],
+    "dzǔ": [
+        "set_down"
+    ],
+    "dzya": [
+        "meat",
+        "weed",
+        "brother"
+    ],
+    "dzyalélélé": [
+        "shock_exclamation"
+    ],
+    "dzyini": [
+        "break"
+    ],
+    "dzyoró": [
+        "desire"
+    ],
+    "dzyosu": [
+        "blood"
+    ],
+    "dzyuɖí": [
+        "dawadawa_tree"
+    ],
+    "dzyɔ": [
+        "be_straight",
+        "be_right",
+        "contribute"
+    ],
+    "dzyɛ̌": [
+        "twigs"
+    ],
+    "dzɛdzɛ̃́": [
+        "story"
+    ],
+    "dzɛ́kɛ̄": [
+        "forget"
+    ],
+    "dzɛ̃": [
+        "woman"
+    ],
+    "dzɛ̃núvɔɛ": [
+        "girl"
+    ],
+    "dzɛ̃̌": [
+        "woman"
+    ],
+    "dɔ": [
+        "sleep"
+    ],
+    "dɔnyɛ́dɔ̃": [
+        "everything"
+    ],
+    "dɔnyɛ́dɔ̃kɛ": [
+        "everythingAM"
+    ],
+    "dɔ̃": [
+        "thing",
+        "squirrel"
+    ],
+    "dɔ̌": [
+        "to_land_at"
+    ],
+    "dɛ": [
+        "ITIVE",
+        "go_to",
+        "sell"
+    ],
+    "dɛmɛ́": [
+        "respond",
+        "agree"
+    ],
+    "e": [
+        "CM",
+        "AM",
+        "3SG",
+        "SCONN",
+        "1SG"
+    ],
+    "ee": [
+        "yes"
+    ],
+    "eea": [
+        "yes3SG"
+    ],
+    "err": [
+        "uhm"
+    ],
+    "é": [
+        "PART",
+        "PROG",
+        "ADDR",
+        "3SG:NEG",
+        "PRT",
+        "3SG"
+    ],
+    "fakɔ́": [
+        "where"
+    ],
+    "fatɛ": [
+        "carve",
+        "peel"
+    ],
+    "feké": [
+        "lift"
+    ],
+    "fever": [
+        "fever"
+    ],
+    "féké": [
+        "lift"
+    ],
+    "fĩ́": [
+        "impurity"
+    ],
+    "fla": [
+        "pass"
+    ],
+    "flógo": [
+        "before"
+    ],
+    "fóto": [
+        "photograph"
+    ],
+    "fu": [
+        "guest",
+        "fire",
+        "palm_wine_tapping_brush",
+        "fear"
+    ],
+    "fufu": [
+        "fufu"
+    ],
+    "fuyã": [
+        "cut_in_bunches"
+    ],
+    "fú": [
+        "fire",
+        "light",
+        "tapping_brush"
+    ],
+    "fɔfuyã": [
+        "spirit"
+    ],
+    "fɔ̃": [
+        "fart"
+    ],
+    "fɔ̃́": [
+        "froth"
+    ],
+    "gagali": [
+        "be_hard"
+    ],
+    "gagãlĩ": [
+        "be_hard"
+    ],
+    "gaké": [
+        "but"
+    ],
+    "gazé": [
+        "metal_pot"
+    ],
+    "gã": [
+        "walk",
+        "animal"
+    ],
+    "gbagba": [
+        "spread",
+        "overflow"
+    ],
+    "gbagbla": [
+        "big"
+    ],
+    "gbana": [
+        "lead",
+        "marry",
+        "accompany"
+    ],
+    "gbána": [
+        "lead"
+    ],
+    "gbã": [
+        "roast"
+    ],
+    "gbãtɔ": [
+        "first"
+    ],
+    "gbã́": [
+        "first"
+    ],
+    "gbã́tɔ": [
+        "first"
+    ],
+    "gbe": [
+        "message"
+    ],
+    "gbogbǒ": [
+        "clan"
+    ],
+    "gbu": [
+        "chair"
+    ],
+    "gbɔ": [
+        "Tafi_person"
+    ],
+    "gbɔxé": [
+        "asthma"
+    ],
+    "gbɛ̃": [
+        "bowl"
+    ],
+    "ge": [
+        "NEG:PST",
+        "stir"
+    ],
+    "gegéné": [
+        "seven"
+    ],
+    "gi": [
+        "NEG:PRES",
+        "NEG",
+        "NEG:PST"
+    ],
+    "gla": [
+        "jaw"
+    ],
+    "glɔ": [
+        "each_other"
+    ],
+    "gũ": [
+        "root"
+    ],
+    "gɔ": [
+        "year"
+    ],
+    "gɔgɔɛ": [
+        "last"
+    ],
+    "gɔgɔ̃ɛ": [
+        "last"
+    ],
+    "gɔnɛ": [
+        "week"
+    ],
+    "gɔnɛ́": [
+        "week"
+    ],
+    "gɔɔ": [
+        "not_anymore"
+    ],
+    "gɛ": [
+        "REL",
+        "NEG:PST"
+    ],
+    "hĩa": [
+        "need"
+    ],
+    "hĩá": [
+        "need"
+    ],
+    "hĩ́á": [
+        "need"
+    ],
+    "hlǒ": [
+        "six"
+    ],
+    "ho": [
+        "widower"
+    ],
+    "hohoe": [
+        "big"
+    ],
+    "hoo": [
+        "noisy"
+    ],
+    "hōlō": [
+        "six"
+    ],
+    "hu": [
+        "vehicle"
+    ],
+    "hui": [
+        "rope"
+    ],
+    "hú": [
+        "hit"
+    ],
+    "hǔ": [
+        "make_hole",
+        "hit"
+    ],
+    "hwa": [
+        "hurry"
+    ],
+    "hwana": [
+        "move"
+    ],
+    "hwi": [
+        "rope"
+    ],
+    "hɔɛ": [
+        "hand"
+    ],
+    "hɔɛ́": [
+        "grind"
+    ],
+    "hɛ̌": [
+        "knife"
+    ],
+    "i": [
+        "3SG",
+        "CM:PL",
+        "1SG",
+        "CM"
+    ],
+    "ingbe": [
+        "Ewe_people"
+    ],
+    "í": [
+        "PROG",
+        "3SG"
+    ],
+    "ka": [
+        "CM",
+        "not_yet",
+        "father",
+        "then",
+        "ancestor",
+        "say",
+        "still",
+        "AM"
+    ],
+    "kaka": [
+        "disperse"
+    ],
+    "kakála": [
+        "announcer"
+    ],
+    "kana": [
+        "thus"
+    ],
+    "kantsě": [
+        "calabash"
+    ],
+    "kanyáka": [
+        "everybody"
+    ],
+    "kasɛ́": [
+        "teach",
+        "show"
+    ],
+    "ká": [
+        "make_contact"
+    ],
+    "kábá": [
+        "quickly"
+    ],
+    "kála": [
+        "announce"
+    ],
+    "kányáka": [
+        "every",
+        "everything"
+    ],
+    "káplɛ": [
+        "penny"
+    ],
+    "kã": [
+        "hair"
+    ],
+    "kã́": [
+        "then"
+    ],
+    "ke": [
+        "CM",
+        "not_yet",
+        "still",
+        "AM",
+        "REP"
+    ],
+    "kesi": [
+        "underneath",
+        "down"
+    ],
+    "kesiɔ": [
+        "underneathCM"
+    ],
+    "kesí": [
+        "down"
+    ],
+    "ké": [
+        "same",
+        "REP"
+    ],
+    "kéɖe": [
+        "what"
+    ],
+    "kéɖeso": [
+        "why"
+    ],
+    "ki": [
+        "CM"
+    ],
+    "kla": [
+        "count"
+    ],
+    "klagbu": [
+        "stone",
+        "rock"
+    ],
+    "kliso": [
+        "therefore"
+    ],
+    "klu": [
+        "call"
+    ],
+    "klǔ": [
+        "call"
+    ],
+    "klɛ": [
+        "then",
+        "here"
+    ],
+    "klɛ́": [
+        "there"
+    ],
+    "ko": [
+        "just",
+        "not_yet",
+        "still"
+    ],
+    "koa": [
+        "justSCONN"
+    ],
+    "kobu": [
+        "justCM"
+    ],
+    "kokoko": [
+        "by_all_means"
+    ],
+    "kopɛ": [
+        "justthen"
+    ],
+    "kóéyi": [
+        "exit"
+    ],
+    "kókó": [
+        "porridge"
+    ],
+    "kóŋ́": [
+        "especially"
+    ],
+    "kpa": [
+        "force_open",
+        "begin"
+    ],
+    "kpasí": [
+        "good"
+    ],
+    "kpasɛ": [
+        "be_contained",
+        "learn"
+    ],
+    "kpâ": [
+        "be_dry"
+    ],
+    "kpã́": [
+        "life"
+    ],
+    "kpe": [
+        "be_many"
+    ],
+    "kplɔ̃": [
+        "table"
+    ],
+    "kpóó": [
+        "quietly"
+    ],
+    "kpú": [
+        "corpse"
+    ],
+    "kpũ": [
+        "hide"
+    ],
+    "kpɔkplɔ": [
+        "frog"
+    ],
+    "kpɛ": [
+        "put"
+    ],
+    "kpɛkpɛ́": [
+        "hot"
+    ],
+    "kpɛ́": [
+        "put_in",
+        "put"
+    ],
+    "kpɛ́naálɛ́": [
+        "put_inis_there"
+    ],
+    "kpɛ́samɛ": [
+        "put_inhappiness"
+    ],
+    "kráńtɛ": [
+        "cutlass"
+    ],
+    "kukɔlí": [
+        "necklace",
+        "bead"
+    ],
+    "kumɛ": [
+        "Okume"
+    ],
+    "kuráte": [
+        "banana"
+    ],
+    "kusi": [
+        "chief"
+    ],
+    "kusí": [
+        "chief"
+    ],
+    "kú": [
+        "reach",
+        "be_high(river)"
+    ],
+    "kúnú": [
+        "funeral"
+    ],
+    "kúráá": [
+        "at_all"
+    ],
+    "kũ": [
+        "yam"
+    ],
+    "kɔ": [
+        "give",
+        "custom",
+        "place"
+    ],
+    "kɔkɔ́": [
+        "fowl"
+    ],
+    "kɔlɔ": [
+        "bark|shell"
+    ],
+    "kɔlɛ": [
+        "cough"
+    ],
+    "kɔnú": [
+        "custom"
+    ],
+    "kɔnyɔ́kɔ": [
+        "everywhere"
+    ],
+    "kɔshɔkɔ́": [
+        "kwashiorkor"
+    ],
+    "kɔ́": [
+        "give",
+        "place"
+    ],
+    "kɔ́a": [
+        "giveCM"
+    ],
+    "kɔ́dzyí": [
+        "hospital"
+    ],
+    "kɔ́lɔ́": [
+        "bark",
+        "outer_covering"
+    ],
+    "kɔ́xóé": [
+        "village"
+    ],
+    "kɔ́yɛ": [
+        "place3SG:Poss"
+    ],
+    "kɔ̃ɛ̃": [
+        "soap"
+    ],
+    "kɔ̃́": [
+        "corn_meal"
+    ],
+    "kɛ": [
+        "3SG",
+        "CM",
+        "AM"
+    ],
+    "kɛfɔ": [
+        "ten"
+    ],
+    "kɛlɛ": [
+        "3SG",
+        "then",
+        "here",
+        "this"
+    ],
+    "kɛlɛerr": [
+        "hereuhm"
+    ],
+    "kɛlɛso": [
+        "therefore"
+    ],
+    "kɛlɛ́": [
+        "there",
+        "that"
+    ],
+    "kɛɖɛ": [
+        "what"
+    ],
+    "kɛ́lɛ": [
+        "here"
+    ],
+    "kɛ́lɛ́": [
+        "there"
+    ],
+    "la": [
+        "AM"
+    ],
+    "le": [
+        "3PL"
+    ],
+    "leté": [
+        "owner"
+    ],
+    "li": [
+        "AM",
+        "river",
+        "neck",
+        "be_at"
+    ],
+    "litakpú": [
+        "palm_fruit_bunch"
+    ],
+    "litú": [
+        "hole_in_palm_tree_for_tapping",
+        "tapping_hole"
+    ],
+    "lí": [
+        "palmtree",
+        "be_at",
+        "day"
+    ],
+    "lĩ": [
+        "mother",
+        "water"
+    ],
+    "lĩkekpu": [
+        "spring"
+    ],
+    "lĩ́": [
+        "water",
+        "river",
+        "soup"
+    ],
+    "lo": [
+        "ADDRESSIVE_PARTICLE",
+        "ADDR",
+        "AM"
+    ],
+    "lu": [
+        "set_dowN",
+        "set_do"
+    ],
+    "luhũ": [
+        "trouble"
+    ],
+    "luhũ̌": [
+        "trouble"
+    ],
+    "lumamwɛ́": [
+        "fresh_palm_leaf"
+    ],
+    "lú": [
+        "set_down"
+    ],
+    "lũ": [
+        "hear"
+    ],
+    "lũgbǔ": [
+        "mouth"
+    ],
+    "lṹ": [
+        "matter"
+    ],
+    "lɔ": [
+        "IPL",
+        "1PL",
+        "3SG",
+        "AM"
+    ],
+    "lɔkɔ": [
+        "take"
+    ],
+    "lɔ́": [
+        "1PL",
+        "get_up",
+        "rise"
+    ],
+    "lɔ́kɔ": [
+        "take"
+    ],
+    "lɔ̃́": [
+        "palm_chaff"
+    ],
+    "lɔ̃́mɛ́": [
+        "kelome_tree"
+    ],
+    "lɛ": [
+        "3SG",
+        "be_at",
+        "this",
+        "3PL"
+    ],
+    "lɛlɛ": [
+        "fourth"
+    ],
+    "lɛ́": [
+        "be_at",
+        "that",
+        "3SG",
+        "air",
+        "it"
+    ],
+    "ma": [
+        "state",
+        "NEG:be_at"
+    ],
+    "mahógani": [
+        "mahogany"
+    ],
+    "mana": [
+        "come_with"
+    ],
+    "mapo": [
+        "probaby"
+    ],
+    "má": [
+        "separate"
+    ],
+    "mánkraɖo": [
+        "chief_priest"
+    ],
+    "me": [
+        "ISG"
+    ],
+    "meke": [
+        "finish"
+    ],
+    "méke": [
+        "finish"
+    ],
+    "mi": [
+        "1SG"
+    ],
+    "mpɛ": [
+        "side"
+    ],
+    "mumwɛ́": [
+        "lemon"
+    ],
+    "munɔ": [
+        "find"
+    ],
+    "múnɔ": [
+        "find"
+    ],
+    "mɔ": [
+        "see",
+        "find"
+    ],
+    "mɔ́": [
+        "unprocessed_rice"
+    ],
+    "mɛ": [
+        "1SG",
+        "inside",
+        "1SG:Poss",
+        "in",
+        "face"
+    ],
+    "mɛɛ": [
+        "inside1SG"
+    ],
+    "naálɛ": [
+        "is_this"
+    ],
+    "ná": [
+        "suffice"
+    ],
+    "nána": [
+        "not_any"
+    ],
+    "ndɔgbe": [
+        "sun_in"
+    ],
+    "nikpó": [
+        "one"
+    ],
+    "no": [
+        "1PL",
+        "2PL"
+    ],
+    "nu": [
+        "be",
+        "beverage"
+    ],
+    "nukpó": [
+        "one"
+    ],
+    "nuvɔ": [
+        "child"
+    ],
+    "nuvɔɛ": [
+        "child"
+    ],
+    "nú": [
+        "be"
+    ],
+    "nya": [
+        "sickness"
+    ],
+    "nyamaa": [
+        "excessively"
+    ],
+    "nyana": [
+        "hold"
+    ],
+    "nyanya": [
+        "sick_person",
+        "go_bad"
+    ],
+    "nyá": [
+        "tie",
+        "just"
+    ],
+    "nyákakɛ": [
+        "everyCM"
+    ],
+    "nye": [
+        "every",
+        "name"
+    ],
+    "nyé": [
+        "name"
+    ],
+    "nyimɔ": [
+        "nyimo"
+    ],
+    "nyimɔ́": [
+        "shrub_name"
+    ],
+    "nyí": [
+        "know"
+    ],
+    "nyúmú": [
+        "wrap_cloth_around_oneself"
+    ],
+    "nyɔ́": [
+        "smoke",
+        "roam",
+        "just"
+    ],
+    "nyɔ̃́ɔ̃́": [
+        "scattered"
+    ],
+    "nyɛ": [
+        "maN",
+        "man"
+    ],
+    "nyɛmɛ": [
+        "wake_up"
+    ],
+    "nyɛ́": [
+        "every",
+        "man"
+    ],
+    "nyɛ́núvɔɛ": [
+        "boy"
+    ],
+    "nɔ": [
+        "person",
+        "2PL",
+        "COMITATIVE",
+        "TP",
+        "DEF"
+    ],
+    "nɔnyíánɔ": [
+        "everyone"
+    ],
+    "nɔnɔ́": [
+        "be_DEF"
+    ],
+    "nɔɔ́lɛ": [
+        "is_this"
+    ],
+    "nɔɔ́lɛ́": [
+        "is_that"
+    ],
+    "nɔɔ́lɛ̄": [
+        "is_this"
+    ],
+    "nɔ́": [
+        "DEF",
+        "TP"
+    ],
+    "nɔ́dzyramɛ": [
+        "human_being"
+    ],
+    "nɔ́dzɛ̃": [
+        "female_person",
+        "female"
+    ],
+    "nɔ́kɔ́": [
+        "DEFgive"
+    ],
+    "nɛ": [
+        "with",
+        "NEG:be",
+        "be_wide"
+    ],
+    "nɛɛ́lɛ": [
+        "is_this"
+    ],
+    "nɛɛ́lɛ́": [
+        "is_that"
+    ],
+    "nɛ́": [
+        "at"
+    ],
+    "nɛ́bu": [
+        "atCM"
+    ],
+    "o": [
+        "2SG",
+        "CM",
+        "just"
+    ],
+    "oo": [
+        "ADDR"
+    ],
+    "otsi": [
+        "Now"
+    ],
+    "otsí": [
+        "now"
+    ],
+    "otsíɛ́": [
+        "now"
+    ],
+    "ó": [
+        "PROG"
+    ],
+    "ónupɛ": [
+        "if"
+    ],
+    "ónú": [
+        "if"
+    ],
+    "ónúpɛ": [
+        "if"
+    ],
+    "paleté": [
+        "master"
+    ],
+    "pampro": [
+        "bamboo"
+    ],
+    "pá": [
+        "house"
+    ],
+    "pã́": [
+        "house"
+    ],
+    "pétéé": [
+        "all"
+    ],
+    "piapi": [
+        "well"
+    ],
+    "piapíí": [
+        "well"
+    ],
+    "piapííki": [
+        "wellCM"
+    ],
+    "pidzyá": [
+        "goat"
+    ],
+    "pidzyǎ": [
+        "goat"
+    ],
+    "pí": [
+        "hometown"
+    ],
+    "plukpá": [
+        "book"
+    ],
+    "plǔ": [
+        "wash"
+    ],
+    "plɛnɔ": [
+        "help",
+        "add"
+    ],
+    "plɛ́nɔ": [
+        "add_to",
+        "help"
+    ],
+    "po": [
+        "wait_for"
+    ],
+    "puli": [
+        "container"
+    ],
+    "putɔ": [
+        "go_ahead_of"
+    ],
+    "pú": [
+        "puncture"
+    ],
+    "pwɛ̃": [
+        "look_through"
+    ],
+    "pɔ": [
+        "however"
+    ],
+    "pɔtɔpɔtɔ": [
+        "very_well"
+    ],
+    "pɔtɛ́": [
+        "cloth"
+    ],
+    "pɔɛ": [
+        "to_pain"
+    ],
+    "pɔ̃́": [
+        "drop"
+    ],
+    "pɛ": [
+        "then",
+        "want",
+        "look_for"
+    ],
+    "pɛkɛ": [
+        "thenCM"
+    ],
+    "pɛn": [
+        "pen"
+    ],
+    "pɛ́": [
+        "only"
+    ],
+    "pɛ́pɛ́pɛ́": [
+        "exactly"
+    ],
+    "pɛ̃": [
+        "be_good"
+    ],
+    "regent": [
+        "regent"
+    ],
+    "riɖiɖi": [
+        "continuously"
+    ],
+    "riɖiɖiɖi": [
+        "for_a_long_time"
+    ],
+    "sa": [
+        "osa_herb"
+    ],
+    "safo": [
+        "youth"
+    ],
+    "safoatsyɛ": [
+        "warrior"
+    ],
+    "salí": [
+        "thing",
+        "some"
+    ],
+    "samɛ": [
+        "happiness"
+    ],
+    "schnapps": [
+        "schnapps"
+    ],
+    "se": [
+        "say"
+    ],
+    "séƒoƒo": [
+        "flower"
+    ],
+    "sha": [
+        "horn",
+        "law"
+    ],
+    "she": [
+        "be_old"
+    ],
+    "shenu": [
+        "alcoholic_beverage"
+    ],
+    "sheshe": [
+        "old_persoN",
+        "old",
+        "old_person"
+    ],
+    "shi": [
+        "between",
+        "stick"
+    ],
+    "shogo": [
+        "gather"
+    ],
+    "shopo": [
+        "family_member"
+    ],
+    "shu": [
+        "Saturday"
+    ],
+    "shudzya": [
+        "flesh"
+    ],
+    "shumɛ": [
+        "body"
+    ],
+    "shumɛvevétɔ": [
+        "bodyespecially"
+    ],
+    "shú": [
+        "skin",
+        "skiN",
+        "kin"
+    ],
+    "shwí": [
+        "fetch_liquid"
+    ],
+    "shwĩ": [
+        "chief",
+        "grandfather"
+    ],
+    "shwɛ": [
+        "basket"
+    ],
+    "shɔ": [
+        "pierce"
+    ],
+    "shɔ̃": [
+        "gather"
+    ],
+    "shɛ̃": [
+        "leave",
+        "waist"
+    ],
+    "si": [
+        "ground",
+        "flee",
+        "tree"
+    ],
+    "siakpá": [
+        "ground",
+        "grouNd"
+    ],
+    "sigũ": [
+        "root"
+    ],
+    "sina": [
+        "greet"
+    ],
+    "sisɛ": [
+        "at_a_distance"
+    ],
+    "sí": [
+        "tree",
+        "underneath",
+        "down",
+        "flee"
+    ],
+    "so": [
+        "therefore"
+    ],
+    "subha": [
+        "hearth",
+        "rain"
+    ],
+    "sukúu": [
+        "school"
+    ],
+    "susú": [
+        "thought"
+    ],
+    "súsú": [
+        "think"
+    ],
+    "sɔkɛ́": [
+        "pluck"
+    ],
+    "sɔlɛ": [
+        "catch_fire",
+        "burn"
+    ],
+    "sɔlɛmɛ": [
+        "church"
+    ],
+    "sɛ": [
+        "that",
+        "say"
+    ],
+    "sɛba": [
+        "say3PL"
+    ],
+    "sɛe": [
+        "say3SG"
+    ],
+    "sɛmpúá": [
+        "type_boil"
+    ],
+    "sɛnɔ": [
+        "greet"
+    ],
+    "sɛnɛ́": [
+        "lie"
+    ],
+    "sɛ́": [
+        "finish"
+    ],
+    "sɛ́m": [
+        "matter"
+    ],
+    "sɛ̃́ɛ́": [
+        "shortly"
+    ],
+    "sɛ̃́ɛ̃́": [
+        "shortly"
+    ],
+    "t": [
+        "ear"
+    ],
+    "ta": [
+        "AM",
+        "three",
+        "swell",
+        "carry_on_back"
+    ],
+    "takpú": [
+        "head"
+    ],
+    "takpɛ́kpɛ́": [
+        "meeting"
+    ],
+    "tatá": [
+        "three"
+    ],
+    "tá": [
+        "three",
+        "boil_swells",
+        "draw"
+    ],
+    "tã": [
+        "chew",
+        "eat"
+    ],
+    "te": [
+        "AM"
+    ],
+    "telí": [
+        "certain"
+    ],
+    "telu": [
+        "chest"
+    ],
+    "temɛ": [
+        "chest"
+    ],
+    "tenukpó": [
+        "one"
+    ],
+    "tetí": [
+        "five"
+    ],
+    "teɖe": [
+        "anthill"
+    ],
+    "té": [
+        "NEG:PRES"
+    ],
+    "téŋú": [
+        "be_able"
+    ],
+    "tẽ": [
+        "cut"
+    ],
+    "ti": [
+        "know",
+        "AM",
+        "CM"
+    ],
+    "tilí": [
+        "certain"
+    ],
+    "titi": [
+        "sky"
+    ],
+    "tití": [
+        "sky",
+        "heaven"
+    ],
+    "tí": [
+        "NEG:PRES",
+        "know",
+        "already"
+    ],
+    "títí": [
+        "upright"
+    ],
+    "tī": [
+        "know"
+    ],
+    "to": [
+        "AM"
+    ],
+    "tolí": [
+        "certain"
+    ],
+    "toró": [
+        "spin"
+    ],
+    "tóŋú": [
+        "be_able"
+    ],
+    "tramɛ": [
+        "third"
+    ],
+    "trǎ": [
+        "sleep"
+    ],
+    "tro": [
+        "spin"
+    ],
+    "trugbu": [
+        "Tutrugbu_person"
+    ],
+    "tsã́": [
+        "formerly"
+    ],
+    "tseɖé": [
+        "tell"
+    ],
+    "tsi": [
+        "bee"
+    ],
+    "tsikpi": [
+        "pot"
+    ],
+    "tsiɖi": [
+        "be_on"
+    ],
+    "tsí": [
+        "death",
+        "bee"
+    ],
+    "tsǐ": [
+        "die"
+    ],
+    "tsodzi": [
+        "return"
+    ],
+    "tsokú": [
+        "enter"
+    ],
+    "tsrɛ̌": [
+        "leg"
+    ],
+    "tsu": [
+        "pile",
+        "dig"
+    ],
+    "tsukpu": [
+        "pot"
+    ],
+    "tswa": [
+        "meet"
+    ],
+    "tsyáká": [
+        "mix"
+    ],
+    "tsyáló": [
+        "maybe"
+    ],
+    "tsyámi": [
+        "spokesperson"
+    ],
+    "tsyiami": [
+        "spokesperson"
+    ],
+    "tsyina": [
+        "turn_round",
+        "turn"
+    ],
+    "tsyitsyina": [
+        "change"
+    ],
+    "tsyu": [
+        "dig"
+    ],
+    "tsyɔ": [
+        "quickly"
+    ],
+    "tsyɛ́": [
+        "also"
+    ],
+    "tsɔ": [
+        "rise_early"
+    ],
+    "tsɔ̃ɔ̃": [
+        "right_away"
+    ],
+    "tsɛrɛ": [
+        "foot"
+    ],
+    "tsɛrɛ́": [
+        "leg"
+    ],
+    "tsɛ́": [
+        "take"
+    ],
+    "tu": [
+        "grind",
+        "CM"
+    ],
+    "tugba": [
+        "front"
+    ],
+    "tukú": [
+        "carry"
+    ],
+    "tulí": [
+        "a_certain"
+    ],
+    "tumpá": [
+        "bottle"
+    ],
+    "tú": [
+        "mountain",
+        "pound"
+    ],
+    "tútútú": [
+        "exactly"
+    ],
+    "tũ": [
+        "stamp"
+    ],
+    "tɔ": [
+        "cook",
+        "AM"
+    ],
+    "tɔnɔ": [
+        "follow"
+    ],
+    "tɔɖɔ": [
+        "put_on"
+    ],
+    "tɔ́gbé": [
+        "chief"
+    ],
+    "tɔ̃": [
+        "set_fire",
+        "edge",
+        "join"
+    ],
+    "tɔ̃́": [
+        "edge",
+        "ash"
+    ],
+    "tɛ": [
+        "CM",
+        "COMP",
+        "AM",
+        "NEG"
+    ],
+    "tɛtɛrɛ": [
+        "blow_pipe"
+    ],
+    "tɛ́": [
+        "already",
+        "NEG:PRES"
+    ],
+    "ú": [
+        "PROG"
+    ],
+    "vevétɔ": [
+        "especially"
+    ],
+    "veviétɔ": [
+        "especially"
+    ],
+    "vévě": [
+        "important"
+    ],
+    "vlɔ̌": [
+        "morning"
+    ],
+    "vũ": [
+        "room",
+        "catch",
+        "day_removed"
+    ],
+    "vũnɔ": [
+        "hold"
+    ],
+    "vɔbɔ́": [
+        "frog",
+        "bury"
+    ],
+    "vɔvɔ": [
+        "new"
+    ],
+    "vɛ": [
+        "go"
+    ],
+    "wa": [
+        "do",
+        "grass",
+        "herb"
+    ],
+    "walɔ": [
+        "Monday"
+    ],
+    "watch": [
+        "watch"
+    ],
+    "wá": [
+        "medicine",
+        "herb",
+        "grass"
+    ],
+    "wã": [
+        "side"
+    ],
+    "wãwlãkɛ́": [
+        "struggle"
+    ],
+    "wi": [
+        "day"
+    ],
+    "wí": [
+        "fever",
+        "sun"
+    ],
+    "wlago": [
+        "evening"
+    ],
+    "wlãkɛ́": [
+        "struggle"
+    ],
+    "wo": [
+        "2SG"
+    ],
+    "woku": [
+        "climb"
+    ],
+    "wokú": [
+        "climb",
+        "climb_up"
+    ],
+    "wokúa": [
+        "climb_upCM"
+    ],
+    "wole": [
+        "month"
+    ],
+    "wonɔ": [
+        "2PL"
+    ],
+    "wu": [
+        "climb"
+    ],
+    "wulu": [
+        "blow"
+    ],
+    "wulú": [
+        "bathe"
+    ],
+    "wulɔ": [
+        "again"
+    ],
+    "wunɔ": [
+        "raise"
+    ],
+    "wúlɛ́": [
+        "again"
+    ],
+    "wɔ": [
+        "2SG",
+        "2SG:Poss",
+        "remain"
+    ],
+    "wɔayɛ́": [
+        "yours"
+    ],
+    "wɔnɔ": [
+        "2PL",
+        "2PL:Poss"
+    ],
+    "wɔɛ": [
+        "deceive"
+    ],
+    "wɔ́": [
+        "remain"
+    ],
+    "wɔ̃hũ̌": [
+        "eye"
+    ],
+    "wɔ̃nɔ": [
+        "rubbish"
+    ],
+    "wɔ̃sɔ̃": [
+        "lie"
+    ],
+    "wɛ": [
+        "finger"
+    ],
+    "wɛ̃": [
+        "drink",
+        "show"
+    ],
+    "xátsá": [
+        "wrap"
+    ],
+    "xlɔ́": [
+        "scrape"
+    ],
+    "xwɛ̃": [
+        "work"
+    ],
+    "xɔ́nɔ́": [
+        "as_for"
+    ],
+    "xɔ̃ɛ": [
+        "chaff"
+    ],
+    "xɔ̃́nɔ́": [
+        "as_for"
+    ],
+    "ya": [
+        "stomach"
+    ],
+    "yakpa": [
+        "bush"
+    ],
+    "yalɛ": [
+        "gather",
+        "that_one",
+        "this_one"
+    ],
+    "yayǎ": [
+        "dust"
+    ],
+    "yá": [
+        "stomach"
+    ],
+    "yálɛ": [
+        "this_one"
+    ],
+    "yálɛ́": [
+        "that_one"
+    ],
+    "ye": [
+        "3SG",
+        "AM"
+    ],
+    "yé": [
+        "FOC"
+    ],
+    "yi": [
+        "appear",
+        "fill",
+        "go"
+    ],
+    "yiesí": [
+        "lower_abdomen"
+    ],
+    "yikɛ": [
+        "receive"
+    ],
+    "yí": [
+        "child_of",
+        "seed"
+    ],
+    "yĩsɛ": [
+        "sand"
+    ],
+    "yǐ": [
+        "kill"
+    ],
+    "yoo": [
+        "ok"
+    ],
+    "yuku": [
+        "be_full"
+    ],
+    "yuyu": [
+        "fruit"
+    ],
+    "yǔ": [
+        "weave"
+    ],
+    "yɔ": [
+        "small_pot",
+        "be_cold"
+    ],
+    "yɔdǒ": [
+        "grave"
+    ],
+    "yɔrɔ": [
+        "wilt",
+        "wither"
+    ],
+    "yɔ́": [
+        "be_cold",
+        "be_peaceful"
+    ],
+    "yɔ̃́ɔ̃́": [
+        "completely"
+    ],
+    "yɛ": [
+        "FOC",
+        "3SG",
+        "3SG:Poss",
+        "forest"
+    ],
+    "yɛkɛ": [
+        "receive"
+    ],
+    "yɛ̌": [
+        "forest",
+        "break"
+    ],
+    "zaa": [
+        "not_again"
+    ],
+    "zã": [
+        "remain"
+    ],
+    "zǎ": [
+        "pass_the_night"
+    ],
+    "ze": [
+        "REP"
+    ],
+    "zhĩá": [
+        "need"
+    ],
+    "zhĩã": [
+        "sing"
+    ],
+    "zhǐ": [
+        "descend"
+    ],
+    "zhǐtá": [
+        "nine"
+    ],
+    "zhwɛ": [
+        "bird"
+    ],
+    "zi": [
+        "hole",
+        "REP"
+    ],
+    "zĩ": [
+        "be_spoilt",
+        "noise"
+    ],
+    "zĩzĩ": [
+        "trouble"
+    ],
+    "zĩ̌": [
+        "noise"
+    ],
+    "zurú": [
+        "steal"
+    ],
+    "zɔ": [
+        "REP"
+    ],
+    "zɛ": [
+        "REP"
+    ],
+    "zɛzɛ̃̌": [
+        "one"
+    ],
+    "zɛ́zɛ̃̌": [
+        "one"
+    ],
+    "ŋa": [
+        "eat"
+    ],
+    "ŋaŋa": [
+        "food"
+    ],
+    "ŋlɔmɛ": [
+        "write"
+    ],
+    "ŋúsɛ̃́": [
+        "strength"
+    ],
+    "ŋútɔ́": [
+        "very"
+    ],
+    "ɔ": [
+        "CM",
+        "2SG",
+        "DEF",
+        "TP",
+        "AM"
+    ],
+    "ɔblɔ": [
+        "DEF1PL"
+    ],
+    "ɔlɔ́": [
+        "1PL"
+    ],
+    "ɔlɛ": [
+        "TP3SG"
+    ],
+    "ɔtɛtrɛ": [
+        "blow_pipe"
+    ],
+    "ɔ́": [
+        "TP",
+        "DEF",
+        "PROG"
+    ],
+    "ɖa": [
+        "hour",
+        "iron"
+    ],
+    "ɖaŋu": [
+        "advice"
+    ],
+    "ɖi": [
+        "look_at"
+    ],
+    "ɖiɛrr": [
+        "look_atuhm"
+    ],
+    "ɖǐ": [
+        "look_at"
+    ],
+    "ɖotí": [
+        "cotton"
+    ],
+    "ɖɔ": [
+        "say",
+        "speech"
+    ],
+    "ɛ": [
+        "TP",
+        "CM",
+        "3SG",
+        "DEF",
+        "1SG"
+    ],
+    "ɛhɛ́ɛ": [
+        "that's_right"
+    ],
+    "ɛhɛ̃́ɛ̃": [
+        "that's_right"
+    ],
+    "ɛlɛ": [
+        "four"
+    ],
+    "ɛrr": [
+        "uhm"
+    ],
+    "ɛɛ": [
+        "yes"
+    ],
+    "ɛ́": [
+        "DEF",
+        "PROG",
+        "TP"
+    ],
+    "ɛ́ko": [
+        "DEFjust"
+    ],
+    "̃ŋlɔmɛ": [
+        "write"
+    ]
+}

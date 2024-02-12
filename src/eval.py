@@ -15,20 +15,62 @@ import click
 from torchtext.data.metrics import bleu_score
 
 
+def get_lang(glottocode):
+    lang_map = {
+        "arap1274": "arp",
+        "gitx1241": "git",
+        "dido1241": "ddo",
+        "uspa1245": "usp",
+        "nyan1302": "nyb",
+        "natu1246": "ntu",
+        "lezg1247": "lez",
+    }
+    return lang_map[glottocode]
+
+
 def strip_gloss_punctuation(glosses: str):
     """Strips any punctuation from gloss string (assuming it is surrounded by spaces)"""
     return re.sub(r"(\s|^)[^\w\s](\s|$)", " ", glosses).strip()
 
 
-def eval_accuracy(pred: List[List[str]], gold: List[List[str]]) -> dict:
+def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[str]], vocab: dict) -> dict:
     """Computes the average and overall accuracy, where predicted labels must be
     in the correct position in the list."""
     total_correct_predictions = 0
+    total_correct_iv_preds = 0
+    total_correct_oov_preds = 0
     total_tokens = 0
+    total_iv_tokens = 0
     summed_accuracies = 0
 
-    for entry_pred, entry_gold, i in zip(pred, gold, range(len(gold))):
+    if segs is None:
+        for entry_pred, entry_gold, i in zip(pred, gold, range(len(gold))):
+            entry_correct_predictions = 0
+
+            for token_index in range(len(entry_gold)):
+                # For each token, check if it matches
+                if (
+                    token_index < len(entry_pred)
+                    and entry_pred[token_index] == entry_gold[token_index]
+                    and entry_pred[token_index] != "[UNK]"
+                ):
+                    entry_correct_predictions += 1
+
+            entry_accuracy = entry_correct_predictions / len(entry_gold)
+            summed_accuracies += entry_accuracy
+
+            total_correct_predictions += entry_correct_predictions
+            total_tokens += len(entry_gold)
+
+        total_entries = len(gold)
+        average_accuracy = summed_accuracies / total_entries
+        overall_accuracy = total_correct_predictions / total_tokens
+        return {"average_accuracy": average_accuracy, "accuracy": overall_accuracy}
+
+    for entry_segs, entry_pred, entry_gold, i in zip(segs, pred, gold, range(len(gold))):
         entry_correct_predictions = 0
+        iv_entry_correct_predictions = 0
+        oov_entry_correct_predictions = 0
 
         for token_index in range(len(entry_gold)):
             # For each token, check if it matches
@@ -38,17 +80,45 @@ def eval_accuracy(pred: List[List[str]], gold: List[List[str]]) -> dict:
                 and entry_pred[token_index] != "[UNK]"
             ):
                 entry_correct_predictions += 1
+                if (
+                    entry_segs[token_index] in vocab.keys()
+                    and entry_gold[token_index] in vocab[entry_segs[token_index]]
+                ):
+                    total_iv_tokens += 1
+                    iv_entry_correct_predictions += 1
+                else:
+                    oov_entry_correct_predictions += 1
+            else:
+                if (
+                    entry_segs[token_index] in vocab.keys()
+                    and entry_gold[token_index] in vocab[entry_segs[token_index]]
+                ):
+                    total_iv_tokens += 1
 
         entry_accuracy = entry_correct_predictions / len(entry_gold)
         summed_accuracies += entry_accuracy
 
         total_correct_predictions += entry_correct_predictions
+        total_correct_iv_preds += iv_entry_correct_predictions
+        total_correct_oov_preds += oov_entry_correct_predictions
+
         total_tokens += len(entry_gold)
+        total_oov_tokens = total_tokens - total_iv_tokens
 
     total_entries = len(gold)
     average_accuracy = summed_accuracies / total_entries
     overall_accuracy = total_correct_predictions / total_tokens
-    return {"average_accuracy": average_accuracy, "accuracy": overall_accuracy}
+    overall_in_vocab = total_correct_iv_preds / (
+        total_iv_tokens + 0.0000001
+    )
+    overall_oov = total_correct_oov_preds / (total_oov_tokens + 0.0000001)
+
+    return {
+        "average_accuracy": average_accuracy,
+        "accuracy": overall_accuracy,
+        "in_vocab_accuracy": overall_in_vocab,
+        "oov_accuracy": overall_oov,
+    }
 
 
 def eval_stems_grams(pred: List[List[str]], gold: List[List[str]]) -> dict:
@@ -121,19 +191,21 @@ def eval_avg_error_rate(pred: List[List[str]], gold: List[List[str]]) -> float:
 
 
 def eval_morpheme_glosses(
-    pred_morphemes: List[List[str]], gold_morphemes: List[List[str]]
+    seg_morphemes: List[List[str]], pred_morphemes: List[List[str]], gold_morphemes: List[List[str]], morph_dict: dict,
 ):
     """Evaluates the performance at the morpheme level"""
-    morpheme_eval = eval_accuracy(pred_morphemes, gold_morphemes)
+    morpheme_eval = eval_accuracy(seg_morphemes, pred_morphemes, gold_morphemes, morph_dict)
     class_eval = eval_stems_grams(pred_morphemes, gold_morphemes)
     bleu = bleu_score(pred_morphemes, [[line] for line in gold_morphemes])
     mer = eval_avg_error_rate(pred_morphemes, gold_morphemes)
     return {"morpheme_level": morpheme_eval, "classes": class_eval, "bleu": bleu, "MER": mer}
 
 
-def eval_word_glosses(pred_words: List[List[str]], gold_words: List[List[str]]):
+def eval_word_glosses(
+    seg_words: List[List[str]], pred_words: List[List[str]], gold_words: List[List[str]], word_dict: dict,
+):
     """Evaluates the performance at the morpheme level"""
-    word_eval = eval_accuracy(pred_words, gold_words)
+    word_eval = eval_accuracy(seg_words, pred_words, gold_words, word_dict)
     bleu = bleu_score(pred_words, [[line] for line in gold_words])
     wer = eval_avg_error_rate(pred_words, gold_words)
     return {"word_level": word_eval, "bleu": bleu, "WER": wer}
@@ -148,22 +220,26 @@ def evaluate_igt(
 ):
     """Performs evaluation of a predicted IGT file"""
 
-    def _eval(preds: List[str], gold: List[str]):
+    def _eval(segs: List[str], preds: List[str], gold: List[str], morph_dict: dict, word_dict: dict, segmented: bool):
         preds = [strip_gloss_punctuation(pred) for pred in preds]
         gold = [strip_gloss_punctuation(g) for g in gold]
+        seg_words = [str(seg).split() for seg in segs]
         pred_words = [str(pred).split() for pred in preds]
         gold_words = [gloss.split() for gloss in gold]
-        # word_eval = eval_accuracy(pred_words, gold_words)
 
+        if segmented:
+            seg_morphemes = [re.split(r"\s|-", str(seg)) for seg in segs]
+        else:
+            seg_morphemes = None
         pred_morphemes = [re.split(r"\s|-", str(pred)) for pred in preds]
         gold_morphemes = [re.split(r"\s|-", gloss) for gloss in gold]
 
         eval_dict = {
             **eval_word_glosses(
-                pred_words=pred_words, gold_words=gold_words
+                seg_words=seg_words, pred_words=pred_words, gold_words=gold_words, word_dict=word_dict
             ),
             **eval_morpheme_glosses(
-                pred_morphemes=pred_morphemes, gold_morphemes=gold_morphemes
+                seg_morphemes=seg_morphemes, pred_morphemes=pred_morphemes, gold_morphemes=gold_morphemes, morph_dict=morph_dict
             ),
         }
         return eval_dict
@@ -176,24 +252,21 @@ def evaluate_igt(
         return {}
 
     assert test_split in ["test_ID", "test_OOD"]
-    # dataset = datasets.load_dataset('lecslab/glosslm-split', split=test_split)
-    # if segmented:
-    #     dataset = dataset.filter(lambda x: x["is_segmented"] == "yes")
-    # else:
-    #     dataset = dataset.filter(lambda x: x["is_segmented"] != "no")
 
     if ft_glottocode is None:
-        # assert pred_df["id"].tolist() == dataset["id"]
-        # gold = dataset["glosses"]
         all_eval["all"] = _eval(pred_df["pred"], pred_df["gold"])
 
     for lang in pred_df["glottocode"].unique():
-        # lang_dataset = dataset.filter(lambda x: x["glottocode"] == lang)
         lang_preds = pred_df[pred_df["glottocode"] == lang]
-        # assert lang_preds["id"].tolist() == lang_dataset["id"]
-        # preds = lang_preds["pred"]
-        # gold = lang_dataset["glosses"]
-        all_eval[lang] = _eval(lang_preds["pred"], lang_preds["gold"])
+        with open(f"../error_analysis/vocabs/morphemes/{get_lang(lang)}.json") as morph_json:
+            morph_dict = json.load(morph_json)
+        if segmented:
+            with open(f"../error_analysis/vocabs/words/{get_lang(lang)}-seg.json") as word_json:
+                word_dict = json.load(word_json)
+        else:
+            with open(f"../error_analysis/vocabs/words/{get_lang(lang)}-unseg.json") as word_json:
+                word_dict = json.load(word_json)
+        all_eval[lang] = _eval(lang_preds["transcription"], lang_preds["pred"], lang_preds["gold"], morph_dict, word_dict, segmented)
 
     results_dir = os.path.dirname(pred_path)
     results_path = f"{results_dir}/{test_split}-{'segmented' if segmented else 'unsegmented'}.json"
@@ -226,9 +299,19 @@ def evaluate_igt(
     type=str,
     required=False,
 )
-def main(pred: str, test_split: str, ft_glottocode):
-    evaluate_igt(pred, test_split, segmented=True, ft_glottocode=ft_glottocode)
-    evaluate_igt(pred, test_split, segmented=False, ft_glottocode=ft_glottocode)
+@click.option(
+    "--not_segmented",
+    help="Evalaute only unsegmented (True), otherwise evaluate both",
+    type=bool,
+    required=False,
+    default=False,
+)
+def main(pred: str, test_split: str, ft_glottocode, not_segmented):
+    if not_segmented:
+        evaluate_igt(pred, test_split, segmented=False, ft_glottocode=ft_glottocode)
+    else:
+        evaluate_igt(pred, test_split, segmented=True, ft_glottocode=ft_glottocode)
+        evaluate_igt(pred, test_split, segmented=False, ft_glottocode=ft_glottocode)
 
 
 if __name__ == "__main__":

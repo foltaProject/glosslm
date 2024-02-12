@@ -1,0 +1,1267 @@
+,id,glottocode,is_segmented,pred,gold,transcription
+0,st_test_uspa1245_0,uspa1245,yes,CONJ COM-quedar perder DIM niño E3S-SREL E3S-esposa,CONJ COM-quedar perder DIM niño E3S-SREL E3S-esposa,i x-kan seche' ra lek'l r-k'i r-ixóqil
+1,st_test_uspa1245_0,uspa1245,no,CONJ COM-quedar-E3S perder-ENF DIM niño E3S-SREL AFE-esposa,CONJ COM-quedar perder DIM niño E3S-SREL E3S-esposa,I xkaj seche' ra lék'el rk'i rixóqil .
+2,st_test_uspa1245_1,uspa1245,yes,COM-venir ART mujer COM-quedar-dar DIM niño E3S-SREL E3S-abuelo,COM-venir ART mujer COM-dejar-dar DIM niño E3S-SREL E3S-abuelo,x-pe man ánim x-ka-ye' ra lek'el r-k'i j-maam
+3,st_test_uspa1245_1,uspa1245,no,COM-venir ART mujer COM-quedar-dar DIM niño E3S-SREL E3S-abuelo,COM-venir ART mujer COM-dejar-dar DIM niño E3S-SREL E3S-abuelo,Xpe man anm xkaye' ra lék'el rk'i jmaam .
+4,st_test_uspa1245_2,uspa1245,yes,CONJ COM-venir E3S-abuelo E3S-ver DIM niño,CONJ COM-venir E3S-abuelo E3S-ver DIM niño,i x-pe j-maam r-il ra lék'el
+5,st_test_uspa1245_2,uspa1245,no,CONJ COM-venir E3S-abuelo E3S-ver DIM niño,CONJ COM-venir E3S-abuelo E3S-ver DIM niño,I xpe jmaam ril ra lék'el .
+6,st_test_uspa1245_3,uspa1245,yes,CONJ COM-crecer DIM mujer,CONJ COM-crecer DIM mujer,i x-k'iiy ra ánim
+7,st_test_uspa1245_3,uspa1245,no,CONJ COM-crecer DIM mujer,CONJ COM-crecer DIM mujer,"I xk'iy ra anm ,"
+8,st_test_uspa1245_4,uspa1245,yes,COM-crecer COM-hacer señorita mujer,COM-crecer COM-hacer señorita mujer,x-k'iiy x-en q'opoj ánim
+9,st_test_uspa1245_4,uspa1245,no,COM-crecer COM-hacer señorita mujer,COM-crecer COM-hacer señorita mujer,xk'iiy xen q'opoj anm .
+10,st_test_uspa1245_5,uspa1245,yes,EXS uno hombre E3S-nombre sergio,EXS uno hombre E3S-decir Sergio,wi' jun wunaq j-b'iij Sergiyo
+11,st_test_uspa1245_5,uspa1245,no,EXS uno hombre E3S-nombre sergio,EXS uno hombre E3S-decir Sergio,"Wi' jun wunaq jb'ij Sergiyo ,"
+12,st_test_uspa1245_6,uspa1245,yes,COM-hablar-AP él/ella,COM-hablar-AP él/ella,x-ch'ab'e-n re
+13,st_test_uspa1245_6,uspa1245,no,COM-hablar-AP él/ella,COM-hablar-AP él/ella,xch'ab'en re .
+14,st_test_uspa1245_7,uspa1245,yes,CONJ esta@bien,CONJ bueno,i jaan
+15,st_test_uspa1245_7,uspa1245,no,CONJ esta@bien,CONJ bueno,"I jaan ,"
+16,st_test_uspa1245_8,uspa1245,yes,dice DIM mujer él/ella ART hombre sergio,decir DIM mujer SREL ART hombre Sergio,cha' ra anm re man wunaq Sergiyo
+17,st_test_uspa1245_8,uspa1245,no,dice DIM mujer él/ella ART hombre sergio,decir DIM mujer SREL ART hombre Sergio,cha' ra anm re man wunaq Sergiyo .
+18,st_test_uspa1245_9,uspa1245,yes,viejo viejo PART AFE E3S-abuelo,viejo viejo PART AFE E3S-abuelo,ri'j ri'j chaq tzik' j-maam
+19,st_test_uspa1245_9,uspa1245,no,viejo viejo PART AFE E3S-abuelo,viejo viejo PART AFE E3S-abuelo,"Ri'j , ri'j chaq tzik' jmaam ,"
+20,st_test_uspa1245_10,uspa1245,yes,compañero AFE E3S-abuela,compañero AFE E3S-abuela,pech tzik' j-tiit'
+21,st_test_uspa1245_10,uspa1245,no,compañero AFE E3S-abuela,compañero AFE E3S-abuela,pech tzik' jtit'.
+22,st_test_uspa1245_11,uspa1245,yes,CONJ viejo PART AFE E3S-abuelo,CONJ viejo PART AFE E3S-abuelo,i ri'j chaq tzik' j-maam
+23,st_test_uspa1245_11,uspa1245,no,CONJ viejo PART AFE E3S-abuelo,CONJ viejo PART AFE E3S-abuelo,"I ri'j chaq tzik' jmaam ,"
+24,st_test_uspa1245_12,uspa1245,yes,compañero E3S-abuela,compañero E3S-abuela,pech j-tiit'
+25,st_test_uspa1245_12,uspa1245,no,compañero E3S-abuela,compañero E3S-abuela,pech jtit'.
+26,st_test_uspa1245_13,uspa1245,yes,E3S-ver ART joven hombre,E3S-ver ART joven hombre,r-il man k'ojol wunaq
+27,st_test_uspa1245_13,uspa1245,no,E3S-ver ART joven hombre,E3S-ver ART joven hombre,"Ril man k'ojol wunaq ,"
+28,st_test_uspa1245_14,uspa1245,yes,viejo PART AFE E3S-abuelo,viejo PART AFE E3S-abuelo,ri'j chaq tzik' j-maam
+29,st_test_uspa1245_14,uspa1245,no,viejo PART AFE E3S-abuelo,viejo PART AFE E3S-abuelo,ri'j chaq tzik' jmaam .
+30,st_test_uspa1245_15,uspa1245,yes,COM-poder PREP-E3S enamorar-SC DIM mujer,COM-poder PREP-E3S cantinear-SC DIM mujer,x-kwin chi-j b'ochi-j ra anim
+31,st_test_uspa1245_15,uspa1245,no,COM-poder PREP-E3S enamorar-SREL DIM mujer,COM-poder PREP-E3S cantinear-SC DIM mujer,Xkwin chij b'ochij ra anm
+32,st_test_uspa1245_16,uspa1245,yes,COM-llevar DIR E3S-SREL??? mamá,COM-recibir DIR E3S-SREL quitar mamá,x-k'om b'i r-k'i maj chuuch
+33,st_test_uspa1245_16,uspa1245,no,COM-llevar DIR E3S-SREL ART-E3S mamá,COM-recibir DIR E3S-SREL quitar mamá,xk'om b'i rk'i maj chuuch .
+34,st_test_uspa1245_17,uspa1245,yes,COM-llegar E3S-SREL ART-E3S mamá,COM-llegar E3S-SREL ART-E3S mamá,x-taw r-k'i maa-j chuuch
+35,st_test_uspa1245_17,uspa1245,no,COM-llegar E3S-SREL ART-E3S mamá,COM-llegar E3S-SREL ART-E3S mamá,Xtaw rk'i maaj chuuch
+36,st_test_uspa1245_18,uspa1245,yes,COM-decir él/ella,COM-decir él/ella,x-iij re
+37,st_test_uspa1245_18,uspa1245,no,COM-decir él/ella,COM-decir él/ella,xiij re .
+38,st_test_uspa1245_19,uspa1245,yes,COM-A1S-traer-DIR DIM mujer,COM-E1S-recibir-DIR DIM mujer,x-in-k'oma-ch' ra ánim
+39,st_test_uspa1245_19,uspa1245,no,COM-A1S-traer-ENF-DIR DIM mujer,COM-E1S-recibir-DIR DIM mujer,"Xink'omach' ra anm ,"
+40,st_test_uspa1245_20,uspa1245,yes,dice él/ella ART-E3S mamá,decir él/ella ART-E3S mamá,cha' re ma-j chuuch
+41,st_test_uspa1245_20,uspa1245,no,dice él/ella ART-E3S mamá,decir él/ella ART-E3S mamá,cha' re maj chuuch .
+42,st_test_uspa1245_21,uspa1245,yes,PART ART-E3S mamá COM-decir él/ella ART Sergio,PART ART-E3S mamá COM-decir él/ella ART Sergio,ruk' ma-j chuuch x-iij re man Sergiyo
+43,st_test_uspa1245_21,uspa1245,no,PART ART-E3S mamá COM-decir él/ella ART Sergio,PART ART-E3S mamá COM-decir él/ella ART Sergio,Ruk' maj chuuch xiij re man Sergiyo .
+44,st_test_uspa1245_22,uspa1245,yes,INT-E3S-querer-SC ART mujer DEM E2S-SREL,INT-E3S-trabajar-SC ART mujer DEM E2S-SREL,nee-j-chuku-j man anim li a-wi'l
+45,st_test_uspa1245_22,uspa1245,no,INT-E3S-querer-SC ART mujer DEM E2S-SREL,INT-E3S-trabajar-SC ART mujer DEM E2S-SREL,"Neejchukuj man anm li awi'l ,"
+46,st_test_uspa1245_23,uspa1245,yes,ART sucio E3S-SREL mujer,ART sucio E3S-SREL mujer,man tz'il r-ij anim
+47,st_test_uspa1245_23,uspa1245,no,ART sucio E3S-SREL mujer,ART sucio E3S-SREL mujer,"man tz'il rij anm ,"
+48,st_test_uspa1245_24,uspa1245,yes,decir él/ella ART Sergios,decir él/ella ART Sergio,cha' re man Sergiyos
+49,st_test_uspa1245_24,uspa1245,no,decir él/ella ART Sergios,decir él/ella ART Sergio,cha' re man Sergiyos .
+50,st_test_uspa1245_25,uspa1245,yes,aunque@sea sucio E3S-SREL,aunque@sea sucio E3S-SREL,enkesey tz'il r-ij
+51,st_test_uspa1245_25,uspa1245,no,aunque@sea sucio E3S-SREL,aunque@sea sucio E3S-SREL,"Enkesey tz'il rij ,"
+52,st_test_uspa1245_26,uspa1245,yes,yo INC-querer-ENF E3S-SREL,yo INC-querer-ENF E3S-cara,iin ch-waj-i' j-wiich
+53,st_test_uspa1245_26,uspa1245,no,yo INC-querer-ENF E3S-SREL,yo INC-querer-ENF E3S-cara,"iin chuwaji' jwich ,"
+54,st_test_uspa1245_27,uspa1245,yes,decir ART Sergio,decir ART Sergio,cha' man Sergiyo
+55,st_test_uspa1245_27,uspa1245,no,decir ART Sergio,decir ART Sergio,cha' man Sergiyo .
+56,st_test_uspa1245_28,uspa1245,yes,bueno-DEM aunque@sea sucio,bueno-DEM aunque@sea sucio,tzi-le enkesey tz'il
+57,st_test_uspa1245_28,uspa1245,no,bueno-PART aunque@sea sucio,bueno-DEM aunque@sea sucio,"Tzile enkesey tz'il ,"
+58,st_test_uspa1245_29,uspa1245,yes,yo INC-querer-ENF E3S-SREL,yo INC-querer-ENF E3S-cara,iin ch-waaj-i' j-wiich
+59,st_test_uspa1245_29,uspa1245,no,yo INC-querer-ENF E3S-SREL,yo INC-querer-ENF E3S-cara,"iin chuwaji' jwich ,"
+60,st_test_uspa1245_30,uspa1245,yes,decir ART sergio,decir ART Sergio,cha' man Sergiyo
+61,st_test_uspa1245_30,uspa1245,no,decir ART sergio,decir ART Sergio,cha' man Sergiyo .
+62,st_test_uspa1245_31,uspa1245,yes,CONJ COM-venir ART-E3S mamá INC-E3S-pegar DIM mujer,CONJ COM-venir ART-E3S mamá INC-E3S-pegar DIM mujer,i x-pe ma-j chuuch ti-j-sek' ra ánim
+63,st_test_uspa1245_31,uspa1245,no,CONJ COM-venir ART-E3S mamá INC-E3S-pegar DIM mujer,CONJ COM-venir ART-E3S mamá INC-E3S-pegar DIM mujer,I xpe maj chuuch tijsek' ra anm .
+64,st_test_uspa1245_32,uspa1245,yes,CONJ cuando ART Sergio INC-salir PREP trabajo,CONJ cuando ART Sergio INC-salir PREP trabajo,i kwand man Sergiyo t-el li chaak
+65,st_test_uspa1245_32,uspa1245,no,CONJ cuando ART Sergio INC-salir PREP trabajo,CONJ cuando ART Sergio INC-salir PREP trabajo,"I kuwand man Sergiyo t'el li chaak ,"
+66,st_test_uspa1245_33,uspa1245,yes,ART-E3S INC-venir ART-E3S mamá,ART-E3S INC-venir ART-E3S mamá,ma-j t-pe ma-j chuuch
+67,st_test_uspa1245_33,uspa1245,no,ART-E3S INC-venir ART-E3S mamá,ART-E3S INC-venir ART-E3S mamá,"maj tpe maj chuuch ,"
+68,st_test_uspa1245_34,uspa1245,yes,angelica INC-E3S-pegar DIM mujer,Angelica INC-E3S-pegar DIM mujer,Angelika' ti-j-sek' ra anim
+69,st_test_uspa1245_34,uspa1245,no,angelica INC-E3S-pegar DIM mujer,Angelica INC-E3S-pegar DIM mujer,Angelika tijsek' ra anm .
+70,st_test_uspa1245_35,uspa1245,yes,CONJ INC-llegar PART,CONJ INC-llegar PART,i t-yu' chik
+71,st_test_uspa1245_35,uspa1245,no,CONJ INC-llegar PART,CONJ INC-llegar PART,I tyuq chik
+72,st_test_uspa1245_36,uspa1245,yes,INC-regresar-DIR ART E3S-hijo@de@mujer PREP trabajo,INC-regresar-DIR ART E3S-hijo PREP trabajo,t-q'aj-ch man r-k'laal li chaak
+73,st_test_uspa1245_36,uspa1245,no,INC-regresar-DIR ART E3S-hijo PREP trabajo,INC-regresar-DIR ART E3S-hijo PREP trabajo,tq'ajch man rk'lal li chaak .
+74,st_test_uspa1245_37,uspa1245,yes,INC-entrar PREP-E3S meter-SC palabra él/ella ART E3S-hijo,INC-entrar PREP-E3S meter-SC palabra él/ella ART E3S-hijo,t-ok chi-j koj-ik tzij re man r-k'laal
+75,st_test_uspa1245_37,uspa1245,no,entrar PREP-E3S meter-SC palabra él/ella ART E3S-hijo,INC-entrar PREP-E3S meter-SC palabra él/ella ART E3S-hijo,Tok chij kojik tzij re man rk'lal .
+76,st_test_uspa1245_38,uspa1245,yes,INC-venir PART ART E3S-hijo,INC-venir PART ART E3S-hijo,t-pe chik man r-k'laal
+77,st_test_uspa1245_38,uspa1245,no,INC-venir PART ART E3S-hijo,INC-venir PART ART E3S-hijo,"Tpe chik man rk'lal ,"
+78,st_test_uspa1245_39,uspa1245,yes,INC-entrar PREP-E3S pegar-SC DIM mujer,INC-meter PREP-E3S pegar-SC DIM mujer,t'-ok chi-j sek'-ik ra anim
+79,st_test_uspa1245_39,uspa1245,no,INC-entrar PREP-E3S pegar DIM mujer,INC-meter PREP-E3S pegar-SC DIM mujer,t'ok chij sek'ik' ra anm .
+80,st_test_uspa1245_40,uspa1245,yes,CONJ COM-venir-SC ART-E3S mamá angelica,CONJ COM-venir-SC quitar ART Angelica,i x-pet-k maj chuuch Angelika'
+81,st_test_uspa1245_40,uspa1245,no,CONJ COM-venir-SC ART-E3S mamá angelica,CONJ COM-venir-SC quitar ART Angelica,"I xpetk maj chuuch Angelika ,"
+82,st_test_uspa1245_41,uspa1245,yes,COM-hacer aconsejar ART E3S-hijo,COM-hacer consejar ART E3S-hijo,x-en konsejar man r-k'lal
+83,st_test_uspa1245_41,uspa1245,no,COM-hacer aconsejar ART E3S-hijo,COM-hacer consejar ART E3S-hijo,xen konsejar man rk'lal
+84,st_test_uspa1245_42,uspa1245,yes,que COM-salir-??? DIR PREP-SREL DIM mujer,que COM-salir-PAS DIR PREP-SREL DIM mujer,ke x-el-maj b'i ch-uch ra anim
+85,st_test_uspa1245_42,uspa1245,no,que COM-salir-??? DIR PREP-SREL DIM mujer,que COM-salir-PAS DIR PREP-SREL DIM mujer,ke xelmaj b'i chuch ra anm .
+86,st_test_uspa1245_43,uspa1245,yes,COM-mandar DIR ART E3S-hojo mexico,COM-PL DIR ART E3S-hijo México,x-taq b'i man r-k'laal Mexiko
+87,st_test_uspa1245_43,uspa1245,no,COM-mandar DIR ART E3S-hojo mexico,COM-PL DIR ART E3S-hijo México,Xtaq b'i man rk'lal Mexiko .
+88,st_test_uspa1245_44,uspa1245,yes,COM-venir PART,COM-venir PART,x-pe chik
+89,st_test_uspa1245_44,uspa1245,no,COM-venir PART,COM-venir PART,Xpe chik
+90,st_test_uspa1245_45,uspa1245,yes,cuando COM-E3S-ver ART-E3S mamá,cuando COM-E3S-ver ART-E3S mamá,kond x-r-il ma-j chuuch
+91,st_test_uspa1245_45,uspa1245,no,cuando COM-ver ART-E3S mamá,cuando COM-E3S-ver ART-E3S mamá,"kond xril maj chuuch ,"
+92,st_test_uspa1245_46,uspa1245,yes,NEG PART-ENF ART E3S-hijo,NEG PREP-ENF ART E3S-hijo,ta' chk-i' man r-k'laal
+93,st_test_uspa1245_46,uspa1245,no,NEG PART-ENF ART E3S-hijo,NEG PREP-ENF ART E3S-hijo,"ta' chki' man rk'lal ,"
+94,st_test_uspa1245_47,uspa1245,yes,COM-venir ART E3S-mamá,COM-venir ART E3S-mamá,x-pe man j-chuuch
+95,st_test_uspa1245_47,uspa1245,no,COM-venir ART E3S-mamá,COM-venir ART E3S-mamá,xpe man jchuuch
+96,st_test_uspa1245_48,uspa1245,yes,COM-entrar PREP-E3S pegar-SC DIM mujer,COM-entrar PREP-E3S pegar-SC DIM mujer,x-ok chi-j sek'-ik ra anim
+97,st_test_uspa1245_48,uspa1245,no,COM-entrar PREP-E3S pegar-SC DIM mujer,COM-entrar PREP-E3S pegar-SC DIM mujer,xok chij sek'ik ra anm .
+98,st_test_uspa1245_49,uspa1245,yes,CONJ COM-venir COM-hacer uno día,CONJ COM-venir COM-hacer uno día,i x-pe x-en jun q'iij
+99,st_test_uspa1245_49,uspa1245,no,CONJ COM-venir COM-hacer uno día,CONJ COM-venir COM-hacer uno día,"I xpe xen jun q'iij ,"
+100,st_test_uspa1245_50,uspa1245,yes,COM-hacer uno grande-???-SC lodasal,COM-hacer uno grande-PP-SC lodo,x-en jun nim-laa-j xoq'o'l
+101,st_test_uspa1245_50,uspa1245,no,COM-hacer uno grande-??? lodasal,COM-hacer uno grande-PP-SC lodo,"xen jun nimlaaj xoq'o'l ,"
+102,st_test_uspa1245_51,uspa1245,yes,INC-lodasal-PART ART lodasal,INC-batir-PART ART lodo,t-puq'-w man xoq'o'l
+103,st_test_uspa1245_51,uspa1245,no,INC-lodasal ART lodasal,INC-batir-PART ART lodo,tpuq'w man xoq'o'l
+104,st_test_uspa1245_52,uspa1245,yes,INC-pegajoso-AP-SC,INC-pegar-AP-SC,t-nek'-ow-k
+105,st_test_uspa1245_52,uspa1245,no,INC-pegajoso-SC,INC-pegar-AP-SC,tnek'owk .
+106,st_test_uspa1245_53,uspa1245,yes,COM-tirar unos collar SREL,COM-tirar unos collar SREL,x-t'oj ni'j uu xílj
+107,st_test_uspa1245_53,uspa1245,no,COM-tirar unos collar SREL,COM-tirar unos collar SREL,"Xt'oj ni'j uu xilj ,"
+108,st_test_uspa1245_54,uspa1245,yes,compañero PREP dinero,compañero unos dinero,pech n'j pwaq
+109,st_test_uspa1245_54,uspa1245,no,compañero PP dinero,compañero unos dinero,pech ni'j pwaq .
+110,st_test_uspa1245_55,uspa1245,yes,CONJ COM-decir él/ella DIM mujer,CONJ COM-decir él/ella DIM mujer,i x-i'j re ra anim
+111,st_test_uspa1245_55,uspa1245,no,CONJ COM-decir él/ella DIM mujer,CONJ COM-decir él/ella DIM mujer,I xi'j re ra anm .
+112,st_test_uspa1245_56,uspa1245,yes,INC-E2S-sacar-PAS ART perla PREP ART lodo,INC-E2S-E2S-PAS ART collar PREP ART lodo,t-a-we-saaj maq uu li man xoq'o'l
+113,st_test_uspa1245_56,uspa1245,no,INC-E2S-sacar-SC ART perla PREP ART lodo,INC-E2S-E2S-PAS ART collar PREP ART lodo,Tawesaj maq uu li man xoq'o'l
+114,st_test_uspa1245_57,uspa1245,yes,PREP PREP PREP E2S-diente,en en en E2S-diente,la' la' la' aw-ee
+115,st_test_uspa1245_57,uspa1245,no,PREP PREP PREP E2S-SREL,en en en E2S-diente,"la', la', la' awee ."
+116,st_test_uspa1245_58,uspa1245,yes,CONJ en E2S-parar-INS INC-E2S-menear-adelgazar ART lodo,CONJ PREP E2S-cara-INS INC-E2S-menear-PP ART lodo,i la' a-key-b'el t-a-tuk-xij man xoq'o'l
+117,st_test_uspa1245_58,uspa1245,no,CONJ en E2S-cara INC-E2S-rebuelver ART lodo-SAB,CONJ PREP E2S-cara-INS INC-E2S-menear-PP ART lodo,"I la' akeyb'el tatukxij man xoq'o'l ,"
+118,st_test_uspa1245_59,uspa1245,yes,INC-E2S-buscar ART collar SREL,INC-E2S-buscar ART collar SREL,t-a-tok maq uu xílj
+119,st_test_uspa1245_59,uspa1245,no,INC-E2S-buscar ART collar adentro,INC-E2S-buscar ART collar SREL,"tatok maq uu xilj ,"
+120,st_test_uspa1245_60,uspa1245,yes,decir él/ella decir,decir él/ella decir,cha' re cha'
+121,st_test_uspa1245_60,uspa1245,no,dice él/ella dice,decir él/ella decir,"cha' re cha',"
+122,st_test_uspa1245_61,uspa1245,yes,él/ella mujer DIM mujer,él/ella mujer DIM mujer,re anm ra anim
+123,st_test_uspa1245_61,uspa1245,no,E3S-SREL mujer DIM mujer,él/ella mujer DIM mujer,"re anm ra anm ,"
+124,st_test_uspa1245_62,uspa1245,yes,ITS-??? INC-llorar,ITS-PP INC-llorar,seb'-laaj t'-oq'
+125,st_test_uspa1245_62,uspa1245,no,ITS INC-llorar,ITS-PP INC-llorar,seb'laaj t'oq'.
+126,st_test_uspa1245_63,uspa1245,yes,ITS-??? llorar,ITS-PP llorar,seb'-laaj toq'
+127,st_test_uspa1245_63,uspa1245,no,ITS INC-llorar,ITS-PP llorar,"Seb'laaj t'oq',"
+128,st_test_uspa1245_64,uspa1245,yes,angelica INT-modo INC-sacar-PAS ART collar PREP lodo,Angelica INT-modo INC-SREL-PAS ART collar DEM lodo,Angelika ne-moo tu-we-sáj man uu li xoq'o'l
+129,st_test_uspa1245_64,uspa1245,no,angelica INT-modo INC-sacar-PAS ART collar DEM lodo-SAB,Angelica INT-modo INC-SREL-PAS ART collar DEM lodo,"Angelika nemoo tuwesaj man uu li xoq'o'l ,"
+130,st_test_uspa1245_65,uspa1245,yes,si NEG INC-enseñar-AP-SC,si NEG INC-eseñar-AP-SC,si kita' t-k'utu-n-k
+131,st_test_uspa1245_65,uspa1245,no,si NEG INC-enseñar-AP-SC,si NEG INC-eseñar-AP-SC,"si kita' tk'utunk ,"
+132,st_test_uspa1245_66,uspa1245,yes,decir,decir,cha'
+133,st_test_uspa1245_66,uspa1245,no,decir,decir,cha'.
+134,st_test_uspa1245_67,uspa1245,yes,ITS-??? INC-llorar DIM mujer,ITS-PP INC-llorar DIM mujer,seb'-laaj t-oq' ra anim
+135,st_test_uspa1245_67,uspa1245,no,ITS INC-llorar DIM mujer,ITS-PP INC-llorar DIM mujer,"Seb'laaj t'oq' ra anm ,"
+136,st_test_uspa1245_68,uspa1245,yes,arrodillar-ITR,arrodillar-ITR,xuk-er
+137,st_test_uspa1245_68,uspa1245,no,arrodillar-ITR,arrodillar-ITR,"xuker ,"
+138,st_test_uspa1245_69,uspa1245,yes,COM-entrar PREP-E3S buscar-SC ART collar adentro ART lodazal,COM-entrar PREP-E3S buscar-SC ART collar adentro ART lodo,x-ok chi-j tok-ik maq uu xílj man xoq'o'l
+139,st_test_uspa1245_69,uspa1245,no,COM-entrar PREP-E3S buscar-SC ART collar adentro ART lodazal,COM-entrar PREP-E3S buscar-SC ART collar adentro ART lodo,"Xok chij tokik maq uu xilj man xoq'o'l ,"
+140,st_test_uspa1245_70,uspa1245,yes,CONJ Angel mejor INC-E3S-reir-SC E3S-SREL DIM mujer,CONJ ART Angel mejor INC-E3S-reir-E3S E3S-cara DIM mujer,i man Angel jor ti-j-tze'-j j-wiich ra anim
+141,st_test_uspa1245_70,uspa1245,no,CONJ Angel mejor INC-E3S-reir-SC E3S-SREL DIM mujer,CONJ ART Angel mejor INC-E3S-reir-E3S E3S-cara DIM mujer,I man Angel jor tijtze'j jwich ra anm .
+142,st_test_uspa1245_71,uspa1245,yes,despacio despacio COM-venir-ENF COM-venir,despacio despacio COM-venir-??? COM-venir,usil usil x-pet-e x-pet
+143,st_test_uspa1245_71,uspa1245,no,despacio despacio COM-venir-ENF COM-venir,despacio despacio COM-venir-??? COM-venir,"Usil , usil xpete , xpet ,"
+144,st_test_uspa1245_72,uspa1245,yes,COM-venir ART mujer COM-decir él/ella,COM-venir ART mujer COM-decir él/ella,x-pe man anim x-i'j re
+145,st_test_uspa1245_72,uspa1245,no,COM-venir ART mujer COM-decir él/ella,COM-venir ART mujer COM-decir él/ella,xpe man anm xi'j re .
+146,st_test_uspa1245_73,uspa1245,yes,INT-E3S porque-E3S E2S-tú/usted SREL aqui,INT-E3S trabajar-E3S COND-E2S SREL aqui,ne-j chuku-j w-at uk'il niri
+147,st_test_uspa1245_73,uspa1245,no,INT porque estar SREL aqui,INT-E3S trabajar-E3S COND-E2S SREL aqui,"Nej chukuj wat uk'il niri ,"
+148,st_test_uspa1245_74,uspa1245,yes,NEG PART-ENF ART Sergio,NEG PART-ENF ART Sergio,ta' chik-i' man Sergiyo
+149,st_test_uspa1245_74,uspa1245,no,NEG PART-ENF ART Sergio,NEG PART-ENF ART Sergio,"ta' chiki' man Sergiyo ,"
+150,st_test_uspa1245_75,uspa1245,yes,decir él/ella,dice él/ella,cha' re
+151,st_test_uspa1245_75,uspa1245,no,decir él/ella,dice él/ella,cha' re .
+152,st_test_uspa1245_76,uspa1245,yes,E3S-ver,E3S-ver,r-iil
+153,st_test_uspa1245_76,uspa1245,no,E3S-ver,E3S-ver,"Riil ,"
+154,st_test_uspa1245_77,uspa1245,yes,COM-oir DIM mujer DEM DEM,COM-oir DIM mujer DEM DEM,x-ta ra anim non li
+155,st_test_uspa1245_77,uspa1245,no,COM-oir DIM mujer DEM DEM,COM-oir DIM mujer DEM DEM,xta ra anm non li .
+156,st_test_uspa1245_78,uspa1245,yes,ir COM-DIR-E3S-buscar-ENF E3S-trabajo,ir COM-DIR-E3S-buscar-ENF E3S-trabajo,xe' x-i-j-tok'-e j-chaak
+157,st_test_uspa1245_78,uspa1245,no,ir COM-DIR-E3S-buscar-ENF E3S-trabajo,ir COM-DIR-E3S-buscar-ENF E3S-trabajo,"Xe' xijtoke' jchaak ,"
+158,st_test_uspa1245_79,uspa1245,yes,COM-DIR-E3S-buscar-ENF E3S-trabajo,COM-DIR-E3S-buscar-ENF E3S-trabajo,x-i-j-tok-e' j-chaak
+159,st_test_uspa1245_79,uspa1245,no,COM-DIR-E3S-buscar-ENF E3S-trabajo,COM-DIR-E3S-buscar-ENF E3S-trabajo,xijtoke' jchaak .
+160,st_test_uspa1245_80,uspa1245,yes,E3S-SREL uno mujer PART,E3S-SREL uno mujer PART,r-k'i jun anim chik
+161,st_test_uspa1245_80,uspa1245,no,E3S-SREL uno mujer PART,E3S-SREL uno mujer PART,Rk'i jun anm chik .
+162,st_test_uspa1245_81,uspa1245,yes,CONJ COM-decir ART mujer él/ella,CONJ COM-decir ART mujer él/ella,i x-i'j man anim re
+163,st_test_uspa1245_81,uspa1245,no,CONJ decir ART mujer él/ella,CONJ COM-decir ART mujer él/ella,I xi'j man anm re .
+164,st_test_uspa1245_82,uspa1245,yes,???-??? COM-decir DIM mujer él/ella,COND-NEG COM-decir DIM mujer él/ella,kon-t x-i'j ra anim re
+165,st_test_uspa1245_82,uspa1245,no,?????? DIM mujer él/ella,COND-NEG COM-decir DIM mujer él/ella,Kont xi'j ra anm re .
+166,st_test_uspa1245_83,uspa1245,yes,ART E3S-dueño casa,ART E3S-dueño casa,man r-ajo jaa
+167,st_test_uspa1245_83,uspa1245,no,ART DIM-dueño casa,ART E3S-dueño casa,Man rajo jaa .
+168,st_test_uspa1245_84,uspa1245,yes,???-??? trabajo???,COND-NEG trabajo SREL,kon-ta' chaak ák'el
+169,st_test_uspa1245_84,uspa1245,no,PART-NEG trabajo E2S-SREL,COND-NEG trabajo SREL,"Konta' chaak ák'al ,"
+170,st_test_uspa1245_85,uspa1245,yes,decir él/ella ART mujer,decir él/ella ART mujer,cha' re man anim
+171,st_test_uspa1245_85,uspa1245,no,decir él/ella ART mujer,decir él/ella ART mujer,cha' re man anm .
+172,st_test_uspa1245_86,uspa1245,yes,no NEG,no NEG,noo kita'
+173,st_test_uspa1245_86,uspa1245,no,no NEG,no NEG,"Noo kita',"
+174,st_test_uspa1245_87,uspa1245,yes,dice ART mujer él/ella,decir ART mujer él/ella,cha' man anim re
+175,st_test_uspa1245_87,uspa1245,no,dice ART mujer él/ella,decir ART mujer él/ella,cha' man anm re .
+176,st_test_uspa1245_88,uspa1245,yes,ir PART PREP uno casa PART,ir PART PREP uno casa PART,xe' chik la' jun jaa chik
+177,st_test_uspa1245_88,uspa1245,no,ir PART PREP uno casa PART,ir PART PREP uno casa PART,Xe' chik la' jun jaa chik .
+178,st_test_uspa1245_89,uspa1245,yes,CONJ allí COM-dar-PAS E3S-trabajo,CONJ allí COM-dar-PAS E3S-trabajo,i kla' x-ye'-sáj j-chaak
+179,st_test_uspa1245_89,uspa1245,no,CONJ allí COM-dar-PAS E3S-trabajo,CONJ allí COM-dar-PAS E3S-trabajo,I kla' xyesaj jchaak .
+180,st_test_uspa1245_90,uspa1245,yes,entonces CONJ cabal,entonces CONJ cabal,tons i kabal
+181,st_test_uspa1245_90,uspa1245,no,entonces CONJ cabal,entonces CONJ cabal,Ntons i kabal .
+182,st_test_uspa1245_91,uspa1245,yes,CONJ loque dónde COM-DIR-E3S-pedir-ENF E3S-trabajo,CONJ loque dónde COM-DIR-E3S-???-??? E3S-trabajo,i loke lamas x-i-j-ta'-e' j-chaak
+183,st_test_uspa1245_91,uspa1245,no,CONJ loque dónde COM-DIR-E3S-pedir E3S-trabajo,CONJ loque dónde COM-DIR-E3S-???-??? E3S-trabajo,I loke lamas xijte' jchaak
+184,st_test_uspa1245_92,uspa1245,yes,COM-dar E3S-trabajo DIM mujer,COM-dar E3S-trabajo DIM mujer,x-ya' j-chaak ra anim
+185,st_test_uspa1245_92,uspa1245,no,COM-dar E3S-trabajo DIM mujer,COM-dar E3S-trabajo DIM mujer,"xya' jchaak ra anm ,"
+186,st_test_uspa1245_93,uspa1245,yes,COM-decir él/ella,ir-decir él/ella,x-i'j re
+187,st_test_uspa1245_93,uspa1245,no,COM-decir él/ella,ir-decir él/ella,xi'j re .
+188,st_test_uspa1245_94,uspa1245,yes,aqui PART INC-E2S-barrer casa,aqui PART INC-E2S-barrer casa,niri xaq t-a-mes jaa
+189,st_test_uspa1245_94,uspa1245,no,aqui PART INC-E2S-barrer casa,aqui PART INC-E2S-barrer casa,Niri xaq tames jaa
+190,st_test_uspa1245_95,uspa1245,yes,CONJ INC-E2S-lavar cosas,CONJ INC-E3S-lavar cosas,i t-a-ch'aj qelen
+191,st_test_uspa1245_95,uspa1245,no,CONJ INC-E2S-lavar cosas,CONJ INC-E3S-lavar cosas,i tach'aj qelen
+192,st_test_uspa1245_96,uspa1245,yes,CONJ PART DEM INC-E2S-hacer,CONJ PART DEM INC-E2S-hacer,i xaq li t-a-b'an
+193,st_test_uspa1245_96,uspa1245,no,CONJ PART DEM INC-E2S-hacer,CONJ PART DEM INC-E2S-hacer,"i xaq li ta'an ,"
+194,st_test_uspa1245_97,uspa1245,yes,INC-decir él/ella,INC-decir él/ella,t-cha' re
+195,st_test_uspa1245_97,uspa1245,no,INC-decir él/ella,INC-decir él/ella,tcha' re .
+196,st_test_uspa1245_98,uspa1245,yes,PREP-E3S segundo día COM-llegar ART-E3S ART-E3S E3S-hermano,PREP-E3S segundo día COM-llegar ART-E3S ART-E3S E3S-hermano,la-j kab' q'iij x-uq ma-j ma-j j-xib'al
+197,st_test_uspa1245_98,uspa1245,no,PREP segundo día COM-llegar ART-E3S ART-E3S E3S-hermano,PREP-E3S segundo día COM-llegar ART-E3S ART-E3S E3S-hermano,"Laj kab' q'iij xuq maj , maj jxib'al ."
+198,st_test_uspa1245_99,uspa1245,yes,COM-decir él/ella,COM-decir él/ella,x-i'j re
+199,st_test_uspa1245_99,uspa1245,no,COM-decir él/ella,COM-decir él/ella,"Xi'j re ,"
+200,st_test_uspa1245_100,uspa1245,yes,COM-decir ART mujer él/ella PART-E3S hermano,COM-decir ART mujer él/ella ART-E3S hermano,x-i'j man anim re ma-j xib'al
+201,st_test_uspa1245_100,uspa1245,no,COM-decir ART mujer él/ella PART-E3S hermano,COM-decir ART mujer él/ella ART-E3S hermano,xi'j man anm re maj xib'al .
+202,st_test_uspa1245_101,uspa1245,yes,INC-E1S-ver-ENF DIM mujer DEM DEM,INC-SREL-ver-E1S DIM mujer DEM DEM,t-w-i'l-i'n ra anim ri ri'
+203,st_test_uspa1245_101,uspa1245,no,INC-SREL-yo DIM mujer DEM DEM,INC-SREL-ver-E1S DIM mujer DEM DEM,"Twilin ra anm ri ri',"
+204,st_test_uspa1245_102,uspa1245,yes,E2S-hija loque COM-quedar E2S-olvidar-ENF primero,E2S-hija loque COM-quedar E2S-perder-ENF primero,a-rab'in loke x-k'a'n a-sach-e' nab'e
+205,st_test_uspa1245_102,uspa1245,no,E2S-hija loque COM-quedar E2S-olvidar-ENF primero,E2S-hija loque COM-quedar E2S-perder-ENF primero,arab'in loke xkan asache' nab'e .
+206,st_test_uspa1245_103,uspa1245,yes,cuando COM-A2S-casarse E3S-SREL ART uno mujer,cuando COM-A2S-casar E3S-SREL ART uno mujer,kand x-at-k'uli' r-k'i man jun anim
+207,st_test_uspa1245_103,uspa1245,no,cuando COM-A2S-casarse E3S-SREL ART uno mujer,cuando COM-A2S-casar E3S-SREL ART uno mujer,"Kand xatk'uli' rk'i man jun anm ,"
+208,st_test_uspa1245_104,uspa1245,yes,decir,decir,cha'
+209,st_test_uspa1245_104,uspa1245,no,decir,decir,cha'.
+210,st_test_uspa1245_105,uspa1245,yes,COM-venir ART-E3S hermano llamar PL DIM mujer,COM-venir ART-E3S hermano llamar PL DIM mujer,x-pe ma-j xib'al sik'ij taq ra anim
+211,st_test_uspa1245_105,uspa1245,no,COM-venir ART-E3S hermano llamar PL DIM mujer,COM-venir ART-E3S hermano llamar PL DIM mujer,"Xpe maj xib'al sik'ij taq ra anime ,"
+212,st_test_uspa1245_106,uspa1245,yes,COM-preguntar-SC PL INT E3S-nombre,COM-pedir-SC PL INT E3S-nombre,x-tz'ona-j taq neen j-b'iij
+213,st_test_uspa1245_106,uspa1245,no,COM-preguntar-SC PL INT E3S-nombre,COM-pedir-SC PL INT E3S-nombre,xtz'onaj taq neen jb'ij .
+214,st_test_uspa1245_107,uspa1245,yes,CONJ PART DIM mujer COM-decir,CONJ PART DIM mujer COM-decir,i ruk' ra anim x-i'j
+215,st_test_uspa1245_107,uspa1245,no,CONJ PART DIM mujer COM-decir,CONJ PART DIM mujer COM-decir,I ruk' ra anm xi'j .
+216,st_test_uspa1245_108,uspa1245,yes,que yo E1S-nombre Marimar,que yo yo-nombre Miramar,kee iin iin-b'iij Marimar
+217,st_test_uspa1245_108,uspa1245,no,que yo E1S-nombre Marimar,que yo yo-nombre Miramar,"Kee iin ínb'iij Marimar ,"
+218,st_test_uspa1245_109,uspa1245,yes,dice él/ella ART-E3S,decir él/ella ART-E3S,cha' re ma-j
+219,st_test_uspa1245_109,uspa1245,no,dice él/ella ART-E3S,decir él/ella ART-E3S,"cha' re maj ,"
+220,st_test_uspa1245_110,uspa1245,yes,ART-E3S uno hombre,ART-E3S uno hombre,ma-j jun wunaq
+221,st_test_uspa1245_110,uspa1245,no,??? uno hombre,ART-E3S uno hombre,maj jun wunaq .
+222,st_test_uspa1245_111,uspa1245,yes,entonces COM-venir ART hombre COM,entonces COM-venir ART hombre COM,toses x-pe man wunaq x
+223,st_test_uspa1245_111,uspa1245,no,entonces COM-venir ART hombre COM,entonces COM-venir ART hombre COM,Toses xpe man wunaq x .
+224,st_test_uspa1245_112,uspa1245,yes,cierto DEM tú/usted-ENF tú/usted-ENF E1S-hija,cierto DEM tú/usted-ENF tú/usted-ENF A1S-hija,tz'et ri aat-i' aat-i' in-rab'in
+225,st_test_uspa1245_112,uspa1245,no,cierto DEM tú/usted-ENF tú/usted-ENF E1S-hija,cierto DEM tú/usted-ENF tú/usted-ENF A1S-hija,"Tz'et ri aati , aati inrab'in ,"
+226,st_test_uspa1245_113,uspa1245,yes,como conocer-ENF E3S-nombre,como conocer-ENF E3S-nombre,kom ch'eb'-aa j-b'ij
+227,st_test_uspa1245_113,uspa1245,no,como conocer-ENF E3S-nombre,como conocer-ENF E3S-nombre,kom ch'eb'aa jb'ij
+228,st_test_uspa1245_114,uspa1245,yes,DEM tú/usted-ENF E1S-hija,DEM tú/usted-ENF A1S-hija,ri aat-i' in-rab'in
+229,st_test_uspa1245_114,uspa1245,no,DEM tú/usted-ENF E1S-hija,DEM tú/usted-ENF A1S-hija,ri aati inrab'in
+230,st_test_uspa1245_115,uspa1245,yes,COM-tú/usted quedar E1S-perder-ENF antiguamente,COM-E2S quedar E1S-perder-ENF antiguamente,x-at' kan in-sach-e' ójor
+231,st_test_uspa1245_115,uspa1245,no,COM-tú/usted quedar E1S-perder-ENF antiguamente,COM-E2S quedar E1S-perder-ENF antiguamente,"xat kan inseche' ójor ,"
+232,st_test_uspa1245_116,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+233,st_test_uspa1245_116,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+234,st_test_uspa1245_117,uspa1245,yes,CONJ hora NEG PART-ENF tú/usted trabajo-AP-SC,CONJ hora NEG PART-ENF tú/usted trabajo-AP-SC,i oori ta' chik-i' aat chak-un-k
+235,st_test_uspa1245_117,uspa1245,no,CONJ hora NEG PART-ENF tú/usted trabajo-AP-SC,CONJ hora NEG PART-ENF tú/usted trabajo-AP-SC,"I oori ta' chiki' aat chakunk ,"
+236,st_test_uspa1245_118,uspa1245,yes,NEG PART-ENF tú/usted trabajo-AP-SC,NEG PART-ENF tú/usted trabajo-AP-SC,ta' chk-i' aat chak-un-k
+237,st_test_uspa1245_118,uspa1245,no,NEG PART-ENF tú/usted trabajo-AP-SC,NEG PART-ENF tú/usted trabajo-AP-SC,ta' chki' aat chakunk .
+238,st_test_uspa1245_119,uspa1245,yes,loque NEG INC-A1S-hacer INC-E2S-SREL,loque NEG INC-A1S-hacer INC-E2S-SREL,lok ta' t-in-b'an ch-aw-e
+239,st_test_uspa1245_119,uspa1245,no,loque NEG INC-A1S-hacer INC-E2S-SREL,loque NEG INC-A1S-hacer INC-E2S-SREL,"Lok ta' tinb'an chawe ,"
+240,st_test_uspa1245_120,uspa1245,yes,INC-E1S-pagar a a INC-E1S-pagar,INC-E2S-pagar E2S E2S COM-E2S-pagar,t-in-toj aa a t-in-toj
+241,st_test_uspa1245_120,uspa1245,no,INC-E1S-pagar a E2S-INC-E1S-meter lestudio,INC-E2S-pagar E2S E2S COM-E2S-pagar,"tintoj aa atinkoj lestudy ,"
+242,st_test_uspa1245_121,uspa1245,yes,decir él/ella decir,dice él/ella dice,cha' re cha'
+243,st_test_uspa1245_121,uspa1245,no,decir él/ella decir,dice él/ella dice,cha' re cha'.
+244,st_test_uspa1245_122,uspa1245,yes,esta@bien,bueno,jaan
+245,st_test_uspa1245_122,uspa1245,no,esta@bien,bueno,"Jaan ,"
+246,st_test_uspa1245_123,uspa1245,yes,decir él/ella,dice él/ella,cha' re
+247,st_test_uspa1245_123,uspa1245,no,decir él/ella,dice él/ella,cha' re .
+248,st_test_uspa1245_124,uspa1245,yes,CONJ NEG pero entonces COM-decir DIM mujer,a no pero entonces COM-decir DIM mujer,a no per tons x-i'j ra anim
+249,st_test_uspa1245_124,uspa1245,no,CONJ NEG pero entonces COM-decir DIM mujer,a no pero entonces COM-decir DIM mujer,"A no per tons xi'j ra anm ,"
+250,st_test_uspa1245_125,uspa1245,yes,dice,dice,cha'
+251,st_test_uspa1245_125,uspa1245,no,dice,dice,cha'.
+252,st_test_uspa1245_126,uspa1245,yes,si yo trabajo INC-E1S-buscar,si yo trabajo INC-E1S-buscar,si iin chaak t-an-tok
+253,st_test_uspa1245_126,uspa1245,no,si yo trabajo INC-E1S-buscar,si yo trabajo INC-E1S-buscar,"Si iin chaak tantok ,"
+254,st_test_uspa1245_127,uspa1245,yes,NEG NEG DEM NEG DEM apagar INC-E2S-decir PREP-E1S-SREL,NEG NEG DEM NEG DEM asi@como INC-E2S-decir PREP-E1S-SREL,ma ma jilon ta' li chup t-a-ij ch-uw-e
+255,st_test_uspa1245_127,uspa1245,no,NEG NEG DEM NEG DEM asi@como INC-E2S-decir INC-E1S-SREL,NEG NEG DEM NEG DEM asi@como INC-E2S-decir PREP-E1S-SREL,"ma , ma jinon ta' li chup ta'ij chuwe ."
+256,st_test_uspa1245_128,uspa1245,yes,A1S-E2S-meter PREP-estudio,yo-E2S-meter PREP-estudio,in-aa-koj l-estudy
+257,st_test_uspa1245_128,uspa1245,no,E1S-E2S-meter PREP-estudio,yo-E2S-meter PREP-estudio,"Inaakoj lestudy ,"
+258,st_test_uspa1245_129,uspa1245,yes,decir,decir,cha'
+259,st_test_uspa1245_129,uspa1245,no,decir,decir,cha'.
+260,st_test_uspa1245_130,uspa1245,yes,aunque tú/usted trabajo INC-E2S-querer,aunque@sea tú/usted trabajo INC-E1S-querer,enkesey aat chaak ch-aw-aj
+261,st_test_uspa1245_130,uspa1245,no,aunque tú/usted trabajo INC-E2S-querer,aunque@sea tú/usted trabajo INC-E1S-querer,"Enkesey aat chaak chawaj ,"
+262,st_test_uspa1245_131,uspa1245,yes,como ahora COM-el/ella llegar-ENF SREL,como ahora COM-E2S alargar-ENF SREL,kom yori x-at' yuq-i'n uk'iil
+263,st_test_uspa1245_131,uspa1245,no,como ahora hacer llegar-ENF SREL,como ahora COM-E2S alargar-ENF SREL,kom yori xat yuqi'n uk'il .
+264,st_test_uspa1245_132,uspa1245,yes,CONJ tú/usted-ENF E1S-hija,CONJ tú/usted-ENF E1S-hija,i aat-i' in-rab'in
+265,st_test_uspa1245_132,uspa1245,no,CONJ tú/usted-ENF E1S-hija,CONJ tú/usted-ENF E1S-hija,I aati' inrab'in
+266,st_test_uspa1245_133,uspa1245,yes,CONJ ahora INC-E2S-conocer yo-DIR yo E2S-papá,CONJ ahaora INC-A2S-conocer A1S-SREL yo E2S-papá,i yori t-a-ch'eb' in-ch iin a-qaaj
+267,st_test_uspa1245_133,uspa1245,no,CONJ ahora INC-E2S-conocer E1S-SREL yo E2S-papá,CONJ ahaora INC-A2S-conocer A1S-SREL yo E2S-papá,i yori tach'eb' inwch iin aqaaj .
+268,st_test_uspa1245_134,uspa1245,yes,CONJ tú/usted E1S-hija,CONJ tú/usted A1S-hija,i aat in-rab'in
+269,st_test_uspa1245_134,uspa1245,no,CONJ tú/usted E1S-hija,CONJ tú/usted A1S-hija,"I aat inrab'in ,"
+270,st_test_uspa1245_135,uspa1245,yes,decir él/ella,dice él/ella,cha' re
+271,st_test_uspa1245_135,uspa1245,no,decir él/ella,dice él/ella,cha' re .
+272,st_test_uspa1245_136,uspa1245,yes,esta@bien,bueno,jaan
+273,st_test_uspa1245_136,uspa1245,no,esta@bien,bueno,"Jaan ,"
+274,st_test_uspa1245_137,uspa1245,yes,dice DIM mujer él/ella,dice DIM mujer él/ella,cha' ra anim re
+275,st_test_uspa1245_137,uspa1245,no,dice DIM mujer él/ella,dice DIM mujer él/ella,cha' ra anm re .
+276,st_test_uspa1245_138,uspa1245,yes,COM-meter-ENF PREP-estudio,COM-meter-INC PREP-estudio,x-koj-t le-study
+277,st_test_uspa1245_138,uspa1245,no,COM-meter-ENF PREP-estudio,COM-meter-INC PREP-estudio,"Xkojt lestudy ,"
+278,st_test_uspa1245_139,uspa1245,yes,COM-meter-ENF PREP-estudio,COM-meter-INC PREP-estudio,x-koj-t le-study
+279,st_test_uspa1245_139,uspa1245,no,COM-metido PREP-estudio,COM-meter-INC PREP-estudio,xjokt lestudy .
+280,st_test_uspa1245_140,uspa1245,yes,CONJ COM-venir DIM mujer COM-hacer estudio,CONJ COM-venir DIM mujer COM-hacer estudiar,i x-pe ra anm x-en estudiyar
+281,st_test_uspa1245_140,uspa1245,no,CONJ COM-venir DIM mujer COM-hacer estudio-ITR,CONJ COM-venir DIM mujer COM-hacer estudiar,I xpe ra anm xen estudiyar .
+282,st_test_uspa1245_141,uspa1245,yes,CONJ ART E3S-papá licenciado-ENF,CONJ ART E3S-papá licenciado-ENF,i man j-qaaj lisensiyad-i'n
+283,st_test_uspa1245_141,uspa1245,no,CONJ ART E3S-papá licenciado-ENF,CONJ ART E3S-papá licenciado-ENF,"I man jqaaj lisensiyadin ,"
+284,st_test_uspa1245_142,uspa1245,yes,CONJ NEG COM-decir él/ella ART??? que NEG PART-ENF INC-agarrar-AP DIM mujer,CONJ NEG ir-decir él/ella ART ??? que NEG PART-ENF INC-agarrar-AP DIM mujer,i ta' x-i'j re man (ranamb') ke ta' chk-i' t-chap-on ra anim
+285,st_test_uspa1245_142,uspa1245,no,CONJ NEG COM-decir él/ella ART E3S-mujer que NEG PART-ENF INC-agarrar-AP DIM mujer,CONJ NEG ir-decir él/ella ART ??? que NEG PART-ENF INC-agarrar-AP DIM mujer,I ta xi'j re man ranamb' ke ta' chki' tchapon ra anm .
+286,st_test_uspa1245_143,uspa1245,yes,esta@bien,bueno,jaan
+287,st_test_uspa1245_143,uspa1245,no,esta@bien,bueno,"Jaan ,"
+288,st_test_uspa1245_144,uspa1245,yes,dice ART??? él/ella,decir ART ??? él/ella,cha' man (ranamb') re
+289,st_test_uspa1245_144,uspa1245,no,dice ART E3S-hermana él/ella,decir ART ??? él/ella,"cha' man ranamb' re ,"
+290,st_test_uspa1245_145,uspa1245,yes,PART INC-E3S-hace estudiar DIM mujer todo,PART INC-E3S-hacer estudiar DIM mujer todo,chaq t-r-en estudyar ra anim juntiir
+291,st_test_uspa1245_145,uspa1245,no,PART INC-E3S-hace estudiar DIM mujer todo,PART INC-E3S-hacer estudiar DIM mujer todo,chaq tren estudyar ra anm juntir .
+292,st_test_uspa1245_146,uspa1245,yes,CONJ ART-E3S papá EXS E3S-trabajo,CONJ ART-E3S papá EXS E3S-trabajo,i ma-j qaaj wi' j-chaak
+293,st_test_uspa1245_146,uspa1245,no,CONJ ART-E3S papá EXS E3S-trabajo,CONJ ART-E3S papá EXS E3S-trabajo,I maj qaaj wi' jchaak .
+294,st_test_uspa1245_147,uspa1245,yes,COM-venir uno día,COM-venir uno día,x-pe jun q'iij
+295,st_test_uspa1245_147,uspa1245,no,COM-venir uno día,COM-venir uno día,"Xpe jun q'iij ,"
+296,st_test_uspa1245_148,uspa1245,yes,PART papá COM-decir él/ella ART E3S-hermana,quitar papá ir-decir él/ella ART E3S-hermana,maj qaaj x-i'j re man r-anab'
+297,st_test_uspa1245_148,uspa1245,no,ART-E3S papá COM-decir él/ella ART E3S-hermana,quitar papá ir-decir él/ella ART E3S-hermana,maj qaaj xi'j re man ranab'.
+298,st_test_uspa1245_149,uspa1245,yes,cuándo??? PREP trabajo,cuando ??? PREP trabajo,kond (ti') laj chaak
+299,st_test_uspa1245_149,uspa1245,no,cuándo INC PREP trabajo,cuando ??? PREP trabajo,Kond ti' laj chaak
+300,st_test_uspa1245_150,uspa1245,yes,COM-quedar PREP casa,COM-quedar PREP casa,x-kan la jaa
+301,st_test_uspa1245_150,uspa1245,no,COM-quedar PREP casa,COM-quedar PREP casa,"xkan la jaa ,"
+302,st_test_uspa1245_151,uspa1245,yes,COM-decir él/ella ART E3S-hermana,COM-decir él/ella ART E3S-hermana,x-i'j re man r-anab'
+303,st_test_uspa1245_151,uspa1245,no,COM-decir él/ella ART E3S-hermana,COM-decir él/ella ART E3S-hermana,xi'j re man ranab'.
+304,st_test_uspa1245_152,uspa1245,yes,INC-E2S-vestir INC-E2S-vestir ART mujer,INC-adornar INC-adornar ART mujer,ti-wiq ti-wiq man ánim
+305,st_test_uspa1245_152,uspa1245,no,INC-E2S-vestir INC-E2S-vestir ART mujer,INC-adornar INC-adornar ART mujer,"Tawiq , tawiq man anm ."
+306,st_test_uspa1245_153,uspa1245,yes,CONJ INC-pasar-AP-ENF uno-rato,CONJ INC-pasar-E1S-ENF uno-rato,i t-q'ax-iin-e' jun-rat
+307,st_test_uspa1245_153,uspa1245,no,CONJ INC-pasar-ENF uno-rato,CONJ INC-pasar-E1S-ENF uno-rato,"I tq'axime' junrat ,"
+308,st_test_uspa1245_154,uspa1245,yes,PART INC-E1S-ENF uno A1S-mandado allí,PART INC-E1S-ENF uno A1S-mandado PART-DEM,xaq t-in-e' jun in-tajkiil ki-li
+309,st_test_uspa1245_154,uspa1245,no,PART INC-ENF uno A1S-mandado allí,PART INC-E1S-ENF uno A1S-mandado PART-DEM,"xaq tine' jun intajkiil kili ,"
+310,st_test_uspa1245_155,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+311,st_test_uspa1245_155,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+312,st_test_uspa1245_156,uspa1245,yes,esta@bien,bueno,jaan
+313,st_test_uspa1245_156,uspa1245,no,esta@bien,bueno,"Jaan ,"
+314,st_test_uspa1245_157,uspa1245,yes,decir ART E3S-hermana,decir ART E3S-hermana,cha' man r-anab'
+315,st_test_uspa1245_157,uspa1245,no,decir ART E3S-hermana,decir ART E3S-hermana,cha' man ranab'.
+316,st_test_uspa1245_158,uspa1245,yes,pero INC-E2S-buscar ART ropa,pero INC-E2S-buscar ART ropa,per t-a-tok maq atz'iq
+317,st_test_uspa1245_158,uspa1245,no,pero INC-E2S-buscar ART ropa,pero INC-E2S-buscar ART ropa,"Per tatok maq atz'iq ,"
+318,st_test_uspa1245_159,uspa1245,yes,más bueno PL ropa INC-E2S-meter PREP E3S-SREL,más bueno PL ropa PART-meter PREP E3S-SREL,mas qus taq atz'iq ta-koj chi r-ij
+319,st_test_uspa1245_159,uspa1245,no,más bueno PL ropa INC-E2S-meter PREP E3S-SREL,más bueno PL ropa PART-meter PREP E3S-SREL,mas qus taq atz'iq takoj chi rij .
+320,st_test_uspa1245_160,uspa1245,yes,compañero ART zapato,compañero ART zapato,pech maq xajab'
+321,st_test_uspa1245_160,uspa1245,no,compañero ART zapato,compañero ART zapato,"Pech maq xajab',"
+322,st_test_uspa1245_161,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+323,st_test_uspa1245_161,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+324,st_test_uspa1245_162,uspa1245,yes,esta@bien,bueno,jaan
+325,st_test_uspa1245_162,uspa1245,no,esta@bien,bueno,"Jaan ,"
+326,st_test_uspa1245_163,uspa1245,yes,decir ART E3S-hermana,decir ART E3S-hermana,cha' man r-anab'
+327,st_test_uspa1245_163,uspa1245,no,decir ART E3S-hermana,decir ART E3S-hermana,"cha' man ranab',"
+328,st_test_uspa1245_164,uspa1245,yes,COM-buscar-ENF-DIR ART ropa,COM-buscar-ENF-DIR ART ropa,x-tok-e'-ch maq atz'iq
+329,st_test_uspa1245_164,uspa1245,no,COM-buscar-ENF-DIR ART ropa,COM-buscar-ENF-DIR ART ropa,"xtoke'ch' maq atz'iq ,"
+330,st_test_uspa1245_165,uspa1245,yes,ART galan PL zapato,ART galan PL zapato,maq galan taq xajab'
+331,st_test_uspa1245_165,uspa1245,no,ART galan PL zapato,ART galan PL zapato,"maq galan taq xajab',"
+332,st_test_uspa1245_166,uspa1245,yes,compañero ropa todo COM-meter PREP E3S-SREL,compañero ropa todo COM-usar PREP E3S-SREL,pech atz'iq juntir x-koj chi r-ij
+333,st_test_uspa1245_166,uspa1245,no,compañero ropa todo COM-meter PREP E3S-SREL,compañero ropa todo COM-usar PREP E3S-SREL,pech atz'iq juntir xkoj chi rij .
+334,st_test_uspa1245_167,uspa1245,yes,cuando COM-regresar-DIR,cuando COM-regresar-DIR,kwand x-q'aj-ch
+335,st_test_uspa1245_167,uspa1245,no,cuando COM-regresar-DIR,cuando COM-regresar-DIR,"Kwand xq'ajch ,"
+336,st_test_uspa1245_168,uspa1245,yes,COM-regresar-DIR ART-E3S papá,COM-regresar-DIR ART-E3S papá,x-q'aj-ch ma-j qaaj
+337,st_test_uspa1245_168,uspa1245,no,COM-regresar-DIR ART-E3S papá,COM-regresar-DIR ART-E3S papá,xq'ajch maj qaaj .
+338,st_test_uspa1245_169,uspa1245,yes,COM-decir él/ella ya COM-contentar-???-ENF,COM-decir él/ella ya COM-adornar-PAS-ENF,x-i re ya x-wiq-maj-i'
+339,st_test_uspa1245_169,uspa1245,no,COM-decir él/ella ya COM-E1S-reglado-ENF,COM-decir él/ella ya COM-adornar-PAS-ENF,Xi re ya xwiqmaji'.
+340,st_test_uspa1245_170,uspa1245,yes,ya,ya,ya
+341,st_test_uspa1245_170,uspa1245,no,ya,ya,"Ya ,"
+342,st_test_uspa1245_171,uspa1245,yes,dice ART-E3S E3S-hermana él/ella,dice ART-E3S E3S-hermana él/ella,cha' ma-j r-anab' re
+343,st_test_uspa1245_171,uspa1245,no,dice ART-E3S E3S-hermana él/ella,dice ART-E3S E3S-hermana él/ella,cha' maj ranab' re .
+344,st_test_uspa1245_172,uspa1245,yes,bueno ir,bueno ir,bwen jo'
+345,st_test_uspa1245_172,uspa1245,no,bueno ir,bueno ir,"Bwen jo',"
+346,st_test_uspa1245_173,uspa1245,yes,decir él/ella ART-E3S hija,decir él/ella ART-E3S hija,cha' re ma-j rab'in
+347,st_test_uspa1245_173,uspa1245,no,decir él/ella ART-E3S hija,decir él/ella ART-E3S hija,cha' re maj rab'in .
+348,st_test_uspa1245_174,uspa1245,yes,esta@bien,bueno,jaan
+349,st_test_uspa1245_174,uspa1245,no,esta@bien,bueno,"Jaan ,"
+350,st_test_uspa1245_175,uspa1245,yes,decir ART-E3S hija,decir ART-E3S hija,cha' ma-j rab'in
+351,st_test_uspa1245_175,uspa1245,no,dice ART-E3S E3S-hija,decir ART-E3S hija,"cha' maaj rab'in ,"
+352,st_test_uspa1245_176,uspa1245,yes,ir E3S-SREL,ir E3S-SREL,xe' r-k'il
+353,st_test_uspa1245_176,uspa1245,no,ir E3S-SREL,ir E3S-SREL,xe' rk'il .
+354,st_test_uspa1245_177,uspa1245,yes,CONJ COM-llegar PL PREP-E3S orilla,CONJ COM-llegar PL PREP-E3S orilla,i x-taw taq chi-j chi'
+355,st_test_uspa1245_177,uspa1245,no,CONJ COM-llegar PL PREP-E3S orilla,CONJ COM-llegar PL PREP-E3S orilla,I xtaw taq chij chi'.
+356,st_test_uspa1245_178,uspa1245,yes,CONJ COM-llegar PL PREP uno grande día,CONJ COM-llegar PL PREP uno grande día,i x-taw taq chi jun nim q'iij
+357,st_test_uspa1245_178,uspa1245,no,CONJ COM-llegar PL PREP uno grande día,CONJ COM-llegar PL PREP uno grande día,"I xtaw taq chi jun nim q'iij ,"
+358,st_test_uspa1245_179,uspa1245,yes,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día,x-taw taq chi nim q'iij
+359,st_test_uspa1245_179,uspa1245,no,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día,xtaw taq chi nim q'iij .
+360,st_test_uspa1245_180,uspa1245,yes,cuando COM-llegar PL adentro grande día,cuando COM-llegar PL SREL grande día,kwand x-taw taq xílj nim q'iij
+361,st_test_uspa1245_180,uspa1245,no,cuando COM-llegar PL adentro grande día,cuando COM-llegar PL SREL grande día,Kwand xtaw taq xilj nim q'iij .
+362,st_test_uspa1245_181,uspa1245,yes,COM-venir ART-E3S papá,COM-venir ART-E3S papá,x-pe ma-j qaaj
+363,st_test_uspa1245_181,uspa1245,no,COM-venir ART-E3S papá,COM-venir ART-E3S papá,"Xpe maj qaaj ,"
+364,st_test_uspa1245_182,uspa1245,yes,como EXS E3S-vehículo COM-recibir DIR uno-E3S,como EXS E3S-vehículo COM-llevar DIR uno-E3S,kom wi' j-ch'iich' x-k'om b'i ju-j
+365,st_test_uspa1245_182,uspa1245,no,como EXS E3S-vehículo COM-recibir DIR uno-E3S,como EXS E3S-vehículo COM-llevar DIR uno-E3S,kom wi' jch'ich' xk'om b'i juj .
+366,st_test_uspa1245_183,uspa1245,yes,COM-meter DIR hija PREP vehículo,COM-meter DIR hija PREP vehículo,x-koj b'i rab'in li ch'iich'
+367,st_test_uspa1245_183,uspa1245,no,COM-meter DIR E3S-hija PREP vehículo,COM-meter DIR hija PREP vehículo,Xkoj b'i rab'in li ch'ich'.
+368,st_test_uspa1245_184,uspa1245,yes,CONJ COM-venir PL,CONJ COM-venir PL,i x-pe taq
+369,st_test_uspa1245_184,uspa1245,no,CONJ COM-venir PL,CONJ COM-venir PL,"I xpe taq ,"
+370,st_test_uspa1245_185,uspa1245,yes,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día,x-taw taq li nim q'iij
+371,st_test_uspa1245_185,uspa1245,no,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día,xtaw taq li nim q'iij .
+372,st_test_uspa1245_186,uspa1245,yes,entonces ART-E3S papá,entonces ART-E3S papá,ntos ma-j qaaj
+373,st_test_uspa1245_186,uspa1245,no,entonces ART-E3S papá,entonces ART-E3S papá,"Ntos maj qaaj ,"
+374,st_test_uspa1245_187,uspa1245,yes,COM-bajar-PAS PREP vehículo,COM-bajar-PAS PREP vehículo,x-qe-sáj li ch'iich'
+375,st_test_uspa1245_187,uspa1245,no,COM-bajar-PAS PREP vehículo,COM-bajar-PAS PREP vehículo,"xqasaj li ch'ich',"
+376,st_test_uspa1245_188,uspa1245,yes,COM-agarrar DIR COM-SREL mano hija,COM-agarrar DIR COM-decir mano hija,x-chop b'ik x-ij q'ab' rab'in
+377,st_test_uspa1245_188,uspa1245,no,COM-agarrar DIR mano mano E3S-hija,COM-agarrar DIR COM-decir mano hija,xchop b'ik xij q'ab' rab'in .
+378,st_test_uspa1245_189,uspa1245,yes,PART ART E3S-esposo ART sergio primero,E3S-PART ART E3S-esposo ART Sergio primero,r-uk'u man r-ichijil man Sergiyo nab'e
+379,st_test_uspa1245_189,uspa1245,no,PART ART E3S-esposo ART sergio primero,E3S-PART ART E3S-esposo ART Sergio primero,"Ruk'u man richjil man Sergiyo nab'e ,"
+380,st_test_uspa1245_190,uspa1245,yes,loque COM-recibir-AP DIM mujer,loque COM-recibir-AP DIM mujer,loke x-k'om-ow ra ánim
+381,st_test_uspa1245_190,uspa1245,no,loque COM-recibir-AP DIM mujer,loque COM-recibir-AP DIM mujer,loke xk'omow ra anm .
+382,st_test_uspa1245_191,uspa1245,yes,duro PART mirar PREP E3S-SREL,duro PART ver PREP E3S-SREL,kow chaq latun chi r-ij
+383,st_test_uspa1245_191,uspa1245,no,duro PART mirar PREP E3S-SREL,duro PART ver PREP E3S-SREL,"Kow chaq latun chi rij ,"
+384,st_test_uspa1245_192,uspa1245,yes,dice,decir,cha'
+385,st_test_uspa1245_192,uspa1245,no,dice,decir,cha'.
+386,st_test_uspa1245_193,uspa1245,yes,EXS uno-E3S compañero,EXS uno-E3S compañero,wi' ju-j pech
+387,st_test_uspa1245_193,uspa1245,no,EXS uno-E3S compañero,EXS uno-E3S compañero,Wi' juj pech .
+388,st_test_uspa1245_194,uspa1245,yes,DEM-PART ART Marimar DEM,DEM-INT ART Marimar DEM,ri'-nti man Marimar li
+389,st_test_uspa1245_194,uspa1245,no,DEM-PART-PART ART Marimar DEM,DEM-INT ART Marimar DEM,"Ri'nti man Marimar li ,"
+390,st_test_uspa1245_195,uspa1245,yes,DEM-PART ART Marimar DEM,DEM-INT ART Marimar DEM,ri'-nti man Marimar li
+391,st_test_uspa1245_195,uspa1245,no,DEM-PART ART Marimar DEM,DEM-INT ART Marimar DEM,ri'nti man Marimar li .
+392,st_test_uspa1245_196,uspa1245,yes,loque COM-quedar E1S-dar allá E3S-SREL yo-mamá,loque COM-quedar A1S-dar allá E3S-SREL E1S-mamá,loke x-kan in-ye' jli r-k'i in-aan
+393,st_test_uspa1245_196,uspa1245,no,loque COM-quedar A1S-dar allá E3S-SREL yo-mamá,loque COM-quedar A1S-dar allá E3S-SREL E1S-mamá,"Loke xkan inye' jli rk'i inaan ,"
+394,st_test_uspa1245_197,uspa1245,yes,decir él/ella ART,dice él/ella ART,cha' re man
+395,st_test_uspa1245_197,uspa1245,no,decir él/ella ART,dice él/ella ART,cha' re man .
+396,st_test_uspa1245_198,uspa1245,yes,DEM DEM-NEG-ENF,DEM DEM-NEG-ENF,li ri-ta'-a'n
+397,st_test_uspa1245_198,uspa1245,no,DEM DEM-NEG,DEM DEM-NEG-ENF,li rita'n .
+398,st_test_uspa1245_199,uspa1245,yes,pero como Marimar DEM NEG INC-E3S-NEG-MED,por como Marimar DEM NEG INC-E3S-NEG-MED,por kom Marirmar ri' ta' ti-j-ma-aaj
+399,st_test_uspa1245_199,uspa1245,no,pero como Marimar DEM NEG INC-E3S-parecer,por como Marimar DEM NEG INC-E3S-NEG-MED,"Por kom Marimar ri' ta' tijmaaj ,"
+400,st_test_uspa1245_200,uspa1245,yes,igual INC-igual yamero igual INC-igual,igual INC-ver yamero igual INC-ver,nik' t-latun yamer nik' t-latun
+401,st_test_uspa1245_200,uspa1245,no,igual INC-igual yamero igual INC-igual,igual INC-ver yamero igual INC-ver,nik' tlatun yamer nik' tlatun .
+402,st_test_uspa1245_201,uspa1245,yes,loque E3S-vistuario Marimar DEM-NEG DEM,loque E3S-vistuario Marimar DEM-NEG DEM,loke j-bistuwaro Marimar jilon-ta' li
+403,st_test_uspa1245_201,uspa1245,no,loque E3S-vistuario Marimar DEM-NEG DEM,loque E3S-vistuario Marimar DEM-NEG DEM,"Loke jbistuwaro Marimar jilonta' li ,"
+404,st_test_uspa1245_202,uspa1245,yes,peor NEG INT INC-comprar-PART él/ella allá,peor NEG INT INC-adornar-PART él/ella allá,pyor kita' neen t-wiq-w re jili
+405,st_test_uspa1245_202,uspa1245,no,peor NEG INT INC-comprar-PART él/ella allá,peor NEG INT INC-adornar-PART él/ella allá,"pyor kita' len twiqw re jili ,"
+406,st_test_uspa1245_203,uspa1245,yes,dice ART-E3S-compañero,decir ART-E3S-compañero,cha' ma-j-pech
+407,st_test_uspa1245_203,uspa1245,no,dice ART-E3S-compañero,decir ART-E3S-compañero,cha' majpech .
+408,st_test_uspa1245_204,uspa1245,yes,duro PART INC-E3S-ver E3S-SREL,duro PART INC-E3S-ver E3S-cara,kow chaq t-r-il j-wich
+409,st_test_uspa1245_204,uspa1245,no,duro PART INC-E3S-ver E3S-SREL,duro PART INC-E3S-ver E3S-cara,"Kow chaq tril jwich ,"
+410,st_test_uspa1245_205,uspa1245,yes,duro PART INC-E3S-ver E3S-SREL,duro PART INC-E3S-ver E3S-cara,kow chaq t-r-il j-wiich
+411,st_test_uspa1245_205,uspa1245,no,duro PART INC-E3S-ver E3S-SREL,duro PART INC-E3S-ver E3S-cara,"kow chaq tril jwich ,"
+412,st_test_uspa1245_206,uspa1245,yes,todo INC-E3S-ver E3S-rosto INT-modo E3S-ver-SC,todo INC-E3S-ver E3S-cara INT-modo E3S-ver-SC,juntir t-r-il j-wiich ne-mo r-il-ik
+413,st_test_uspa1245_206,uspa1245,no,todo??? E3S-rosto INT-modo E3S-ver-SC,todo INC-E3S-ver E3S-cara INT-modo E3S-ver-SC,juntir tril jwich nemo rilik .
+414,st_test_uspa1245_207,uspa1245,yes,INC-E1S-ver-yo DEM-ENF DEM-ENF DEM-ENF,INC-SREL-ver-E1S DEM-ENF DEM-ENF DEM-ENF,t-w-il-in ri-i'n ri-i'n ri-i'n
+415,st_test_uspa1245_207,uspa1245,no,INC-SREL-yo DEM-ENF DEM-ENF DEM-ENF,INC-SREL-ver-E1S DEM-ENF DEM-ENF DEM-ENF,"Twilin rii'n , rii'n , rii'n ,"
+416,st_test_uspa1245_208,uspa1245,yes,dice él/ella ART-E3S compañero,decir él/ella ART-E3S compañero,cha' re ma-j pech
+417,st_test_uspa1245_208,uspa1245,no,dice él/ella ART-E3S compañero,decir él/ella ART-E3S compañero,cha' re maj pech .
+418,st_test_uspa1245_209,uspa1245,yes,no DEM NEG,no DEM NEG,noo ri' ta'n
+419,st_test_uspa1245_209,uspa1245,no,no DEM NEG,no DEM NEG,"Noo ri' ta'n ,"
+420,st_test_uspa1245_210,uspa1245,yes,INC-despacio INC-despacio COM-venir ART-E3S,INC-despacio INC-despacio COM-venir ART-E3S,ch-usiil ch-usiil x-pe ma-j
+421,st_test_uspa1245_210,uspa1245,no,INC-despacio INC-despacio COM-venir ART-E3S,INC-despacio INC-despacio COM-venir ART-E3S,"chusil , chusil xpe maj ,"
+422,st_test_uspa1245_211,uspa1245,yes,COM-hacer valor COM-hablar-SC,COM-hacer valor COM-hablar-SC,x-en anm x-ch'ab'e-j
+423,st_test_uspa1245_211,uspa1245,no,COM-hacer valor COM-hablar-SC,COM-hacer valor COM-hablar-SC,xen anm xch'ab'ej .
+424,st_test_uspa1245_212,uspa1245,yes,ir-E3S apreguntar-SC E3S-nombre,ir-E3S pedir-E3S E3S-nombre,xe-j tz'ona-j j-b'iij
+425,st_test_uspa1245_212,uspa1245,no,ir apreguntar-SC E3S-nombre,ir-E3S pedir-E3S E3S-nombre,Xej tz'onaj jb'ij .
+426,st_test_uspa1245_213,uspa1245,yes,INT E2S-nombre,INT E2S-nombre,neen a-b'iij
+427,st_test_uspa1245_213,uspa1245,no,INT E2S-nombre,INT E2S-nombre,"Neen áb'ij ,"
+428,st_test_uspa1245_214,uspa1245,yes,decir él/ella,dice él/ella,cha' re
+429,st_test_uspa1245_214,uspa1245,no,decir él/ella,dice él/ella,cha' re .
+430,st_test_uspa1245_215,uspa1245,yes,yo,yo,iin
+431,st_test_uspa1245_215,uspa1245,no,yo,yo,"Iin ,"
+432,st_test_uspa1245_216,uspa1245,yes,como COM-venir ART-E3S papá,como COM-venir ART-E3S papá,kom x-pe ma-j qaaj
+433,st_test_uspa1245_216,uspa1245,no,como COM-venir ART-E3S papá,como COM-venir ART-E3S papá,"kom xpe maj qaaj ,"
+434,st_test_uspa1245_217,uspa1245,yes,COM-cambiar E3S-nombre,COM-dolor E3S-nombre,x-k'ex j-b'iij
+435,st_test_uspa1245_217,uspa1245,no,COM-cambiar E3S-nombre,COM-dolor E3S-nombre,"xk'ex jb'ij ,"
+436,st_test_uspa1245_218,uspa1245,yes,como ya EXS PART E3S-SREL,como ya EXS PART E3S-SREL,kom ya wi' chaq r-k'il
+437,st_test_uspa1245_218,uspa1245,no,como ya EXS PART E3S-SREL,como ya EXS PART E3S-SREL,"kom ya wi' chaq rk'il ,"
+438,st_test_uspa1245_219,uspa1245,yes,COM-cambiar E3S-nombre,COM-dolor E3S-nombre,x-k'ex j-b'iij
+439,st_test_uspa1245_219,uspa1245,no,COM-cambiar E3S-nombre,COM-dolor E3S-nombre,xk'ex jb'ij .
+440,st_test_uspa1245_220,uspa1245,yes,COM-meter E3S-nombre Beyaldama,COM-meter E3S-nombre Beyaldama,x-koj j-b'ij Beyaldama
+441,st_test_uspa1245_220,uspa1245,no,COM-meter E3S-nombre Beyaldama,COM-meter E3S-nombre Beyaldama,"Xkoj jb'ij Beyaldama ,"
+442,st_test_uspa1245_221,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+443,st_test_uspa1245_221,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+444,st_test_uspa1245_222,uspa1245,yes,INT E2S-nombre,INT E2S-nombre,neen a-b'iij
+445,st_test_uspa1245_222,uspa1245,no,INT E2S-nombre,INT E2S-nombre,"Neen áb'ij ,"
+446,st_test_uspa1245_223,uspa1245,yes,dice ART Sergio él/ella,dice ART Sergio él/ella,cha' man Sergiyo re
+447,st_test_uspa1245_223,uspa1245,no,dice ART Sergio él/ella,dice ART Sergio él/ella,cha' man Sergiyo re .
+448,st_test_uspa1245_224,uspa1245,yes,yo Beyaldama,yo Beyaldama,iin Beyaldama
+449,st_test_uspa1245_224,uspa1245,no,yo Beyaldama,yo Beyaldama,"Iin Beyaldama ,"
+450,st_test_uspa1245_225,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+451,st_test_uspa1245_225,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+452,st_test_uspa1245_226,uspa1245,yes,COM-entrar PREP-E3S serar-SC E3S-SREL PREP E3S-SREL ART hombre,COM-entrar PREP-E3S cerrar-SC E3S-ojo PREP E3S-SREL ART hombre,x-ok chi-j mutz'-ik j-wich chi r-ij man wunaq
+453,st_test_uspa1245_226,uspa1245,no,COM-entrar PREP-E3S serar-SC E3S-SREL PREP E3S-SREL ART hombre,COM-entrar PREP-E3S cerrar-SC E3S-ojo PREP E3S-SREL ART hombre,"Xok chij mutz'ik jwich chi rij man wunaq ,"
+454,st_test_uspa1245_227,uspa1245,yes,loque ir-INC-PART E3S-nombre él/ella,loque ir-preguntar-PART E3S-nombre él/ella,loke xe'-ta-w j-b'iij re
+455,st_test_uspa1245_227,uspa1245,no,loque ir-PART E3S-nombre él/ella,loque ir-preguntar-PART E3S-nombre él/ella,loke xe'taw jb'ij re .
+456,st_test_uspa1245_228,uspa1245,yes,entonces COM-venir COM-venir ART-E3S papá,entonces COM-venir COM-venir ART-E3S papá,tons x-pet x-pet ma-j qaaj
+457,st_test_uspa1245_228,uspa1245,no,entonces COM-venir COM-venir ART-E3S papá,entonces COM-venir COM-venir ART-E3S papá,"Tons xpet , xpe maj qaaj ."
+458,st_test_uspa1245_229,uspa1245,yes,COM-DIR-sentar-ITR PL,COM-DIR-sentar-ITR PL,x-i'-kub'-er taq
+459,st_test_uspa1245_229,uspa1245,no,COM-DIR-sentar-ITR PL,COM-DIR-sentar-ITR PL,"Xi'kub'er taq ,"
+460,st_test_uspa1245_230,uspa1245,yes,al-bueno rato COM-entrar marimba,al-buen rato COM-entrar marimba,al-buen rat x-ok q'ojoom
+461,st_test_uspa1245_230,uspa1245,no,al@bueno rato COM-entrar marimba,al-buen rato COM-entrar marimba,albwen rat xok q'ojoom .
+462,st_test_uspa1245_231,uspa1245,yes,entonces ART-E3S papá COM-entrar PREP baile-SC E3S-SREL,entonces ART-E3S papá COM-entrar PREP baile-SC E3S-SREL,tons ma-j qaaj x-ok chi xojo-j r-k'il
+463,st_test_uspa1245_231,uspa1245,no,entonces ART-E3S papá COM-entrar PREP baile E3S-SREL,entonces ART-E3S papá COM-entrar PREP baile-SC E3S-SREL,Tons maj qaaj xok chi xojoj rk'il .
+464,st_test_uspa1245_232,uspa1245,yes,PART ART hombre loque COM-recibir-AP él/ella,PART ART hombre loque COM-recibir-AP él/ella,ruk' man wunaq loke x-k'om-ow re
+465,st_test_uspa1245_232,uspa1245,no,PART ART hombre loque COM-recibir-AP él/ella,PART ART hombre loque COM-recibir-AP él/ella,Ruk' man wunaq loke xk'omow re .
+466,st_test_uspa1245_233,uspa1245,yes,duro PART INC-ver,duro PART INC-ver,kow chaq t-latun
+467,st_test_uspa1245_233,uspa1245,no,duro PART INC-ver,duro PART INC-ver,Kow chaq tlatun .
+468,st_test_uspa1245_234,uspa1245,yes,yo INC-E1S-SREL-PAS-ENF PREP baile-SC,yo INC-E1S-E1S-sacar-PAS-ENF DEM baile-SC,iin t-an-w-e-saj-i' li xojo-j
+469,st_test_uspa1245_234,uspa1245,no,yo INC-E1S-sacar-SC-ENF PREP baile,yo INC-E1S-E1S-sacar-PAS-ENF DEM baile-SC,"Iin tanwesaji' li xojoj ,"
+470,st_test_uspa1245_235,uspa1245,yes,dice él/ella ART-E3S compañero,decir él/ella ART-E3S compañero,cha' re ma-j pech
+471,st_test_uspa1245_235,uspa1245,no,dice él/ella ART-E3S compañero,decir él/ella ART-E3S compañero,cha' re maj pech .
+472,st_test_uspa1245_236,uspa1245,yes,sacala,sacar-PAS,e-saj
+473,st_test_uspa1245_236,uspa1245,no,sacala,sacar-PAS,"esaj ,"
+474,st_test_uspa1245_237,uspa1245,yes,dice ART-E3S compañero él/ella,decir ART-E3S compañero él/ella,cha' ma-j pech re
+475,st_test_uspa1245_237,uspa1245,no,dice ART-E3S compañero él/ella,decir ART-E3S compañero él/ella,cha' maj pech re .
+476,st_test_uspa1245_238,uspa1245,yes,esta@bien,esta@bien,jaan
+477,st_test_uspa1245_238,uspa1245,no,esta@bien,esta@bien,"Jaan ,"
+478,st_test_uspa1245_239,uspa1245,yes,esta@bien,esta@bien,jaan
+479,st_test_uspa1245_239,uspa1245,no,esta@bien,esta@bien,"jaan ,"
+480,st_test_uspa1245_240,uspa1245,yes,decir ART Sergio,decir ART Sergio,cha' man Sergiyo
+481,st_test_uspa1245_240,uspa1245,no,decir ART Sergio,decir ART Sergio,cha' man Sergiyo .
+482,st_test_uspa1245_241,uspa1245,yes,despacio COM-hacer mujer COM-hablar-SC ART mujer,despacio COM-hacer valor COM-hablar-E3S ART mujer,usil x-en anm x-ch'ab'e-j man anim
+483,st_test_uspa1245_241,uspa1245,no,despacio COM-hacer mujer COM-hablar-SC ART mujer,despacio COM-hacer valor COM-hablar-E3S ART mujer,Usil xen anm xch'ab'ej man anm .
+484,st_test_uspa1245_242,uspa1245,yes,ir PREP baile-nosotros,ir DEM baile-SC,jo' li xojo-j
+485,st_test_uspa1245_242,uspa1245,no,ir PREP COM-baile,ir DEM baile-SC,"Jo' li xojoj ,"
+486,st_test_uspa1245_243,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+487,st_test_uspa1245_243,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+488,st_test_uspa1245_244,uspa1245,yes,bueno,bueno,bwen
+489,st_test_uspa1245_244,uspa1245,no,bueno,bueno,"Bwen ,"
+490,st_test_uspa1245_245,uspa1245,yes,dice ART mujer él/ella,dice ART mujer él/ella,cha' man anm re
+491,st_test_uspa1245_245,uspa1245,no,dice ART mujer él/ella,dice ART mujer él/ella,cha' man anm re .
+492,st_test_uspa1245_246,uspa1245,yes,vaile-AP PL allí,baile-AP PL allí,xoj-ow taq kla'
+493,st_test_uspa1245_246,uspa1245,no,vaile PL allí,baile-AP PL allí,"Xojow taq kila',"
+494,st_test_uspa1245_247,uspa1245,yes,COM-preguntar-SC él/ella,COM-pedir-SC él/ella,x-tz'ona-j re
+495,st_test_uspa1245_247,uspa1245,no,COM-preguntar-SC él/ella,COM-pedir-SC él/ella,xtz'onaj re .
+496,st_test_uspa1245_248,uspa1245,yes,E2S-esposo-ENF ART hombre DEM,E2S-esposo-ENF ART hombre DEM,aw-ichijil-i' man wunaq li
+497,st_test_uspa1245_248,uspa1245,no,E2S-esposo-AFI-ENF ART hombre DEM,E2S-esposo-ENF ART hombre DEM,"Awichjili' man wunaq li ,"
+498,st_test_uspa1245_249,uspa1245,yes,INT E2S-hacer-SC E3S-SREL,INT E2S-hacer-SC E3S-SREL,neen a-b'an-ik r-k'il
+499,st_test_uspa1245_249,uspa1245,no,INT E2S-hacer-SC E3S-SREL,INT E2S-hacer-SC E3S-SREL,"neen ab'anik rk'il ,"
+500,st_test_uspa1245_250,uspa1245,yes,decir él/ella ART mujer,decir él/ella ART mujer,cha' re man anim
+501,st_test_uspa1245_250,uspa1245,no,decir él/ella ART mujer,decir él/ella ART mujer,cha' re man anm .
+502,st_test_uspa1245_251,uspa1245,yes,no DEM E1S-papá-ENF,no DEM A1S-papá-ENF,noo li in-qaj-i'n
+503,st_test_uspa1245_251,uspa1245,no,no DEM E1S-papá-ENF,no DEM A1S-papá-ENF,"Noo li inqajin ,"
+504,st_test_uspa1245_252,uspa1245,yes,decir ART mujer,decir ART mujer,cha' man anim
+505,st_test_uspa1245_252,uspa1245,no,decir ART mujer,decir ART mujer,cha' man anm .
+506,st_test_uspa1245_253,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+507,st_test_uspa1245_253,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+508,st_test_uspa1245_254,uspa1245,yes,entonces COM-terminar uno piesa,entonces COM-terminar uno marimba,tose x-k'is jun q'ojoom
+509,st_test_uspa1245_254,uspa1245,no,entonces COM-terminar uno piesa,entonces COM-terminar uno marimba,Tose xk'is jun q'ojoom .
+510,st_test_uspa1245_255,uspa1245,yes,entonces ART-E3S papá COM-recibir PART PREP vehículo,entonces ART-E3S papá COM-recibir PART PREP vehículo,toos ma-j qaaj x-k'am chik li ch'iich'
+511,st_test_uspa1245_255,uspa1245,no,entonces ART-E3S papá COM-recibir PART PREP vehículo,entonces ART-E3S papá COM-recibir PART PREP vehículo,"Toos maj qaaj xk'am chik li ch'ich',"
+512,st_test_uspa1245_256,uspa1245,yes,COM-recibir DIR PREP E3S-casa,COM-recibir DIR PREP E3S-casa,x-k'am b'i chi r-chooch
+513,st_test_uspa1245_256,uspa1245,no,COM-recibir DIR PREP E3S-casa,COM-recibir DIR PREP E3S-casa,"xk'om b'i chi rchoch ,"
+514,st_test_uspa1245_257,uspa1245,yes,COM-recibir DIR PREP E3S-casa,COM-recibir DIR PREP E3S-casa,x-k'om b'i chi r-chooch
+515,st_test_uspa1245_257,uspa1245,no,COM-recibir DIR PREP E3S-casa,COM-recibir DIR PREP E3S-casa,xk'om b'i chi rchoch .
+516,st_test_uspa1245_258,uspa1245,yes,CONJ COM-llegar PREP-E3S E3S-casa,CONJ COM-llegar PREP-E3S E3S-casa,i x-taw la-j r-choch
+517,st_test_uspa1245_258,uspa1245,no,CONJ COM-llegar PREP E3S-casa,CONJ COM-llegar PREP-E3S E3S-casa,"I xtaw laj rchoch ,"
+518,st_test_uspa1245_259,uspa1245,yes,allí como EXS E3S-cargar ART-E3S papá todo,allí como EXS E3S-cargo ART-E3S papá todo,kla' kom wi' r-eqle'n ma-j qaaj juntir
+519,st_test_uspa1245_259,uspa1245,no,allí como EXS E3S-cargar-ENF ART-E3S papá todo,allí como EXS E3S-cargo ART-E3S papá todo,kla' kom wi' reqle'n maj qaaj juntir .
+520,st_test_uspa1245_260,uspa1245,yes,allí COM-quedar-E3S entegar-ENF todo tierra,allí COM-quedar-E3S repartir-ENF todo tierra,kla' x-ka-j jach-e' juntir ulew
+521,st_test_uspa1245_260,uspa1245,no,allí COM-quedar entegado todo tierra,allí COM-quedar-E3S repartir-ENF todo tierra,"Kla' xkaj jache' juntir ulew ,"
+522,st_test_uspa1245_261,uspa1245,yes,cosas él/ella ART-E3S hija,cosas SREL ART-E3S hija,qlen re ma-j rab'in
+523,st_test_uspa1245_261,uspa1245,no,cosas él/ella ART-E3S hija,cosas SREL ART-E3S hija,qlen re maj rab'in .
+524,st_test_uspa1245_262,uspa1245,yes,como E3S-hija PART,como E3S-hija PART,kom j-rab'in chaq
+525,st_test_uspa1245_262,uspa1245,no,como E3S-hija PART,como E3S-hija PART,"Kom jrab'in chaq ,"
+526,st_test_uspa1245_263,uspa1245,yes,COM-conocer E3S-SREL,COM-conocer E3S-cara,x-ch'ob' j-wiich
+527,st_test_uspa1245_263,uspa1245,no,COM-conocer E3S-SREL,COM-conocer E3S-cara,"xch'ob' jwich ,"
+528,st_test_uspa1245_264,uspa1245,yes,COM-quedar-E3S entregar-ENF todo cosas,COM-quedar-E3S entregar-ENF todo cosas,x-ka-j jach-e' juntir qelen
+529,st_test_uspa1245_264,uspa1245,no,COM-quedar E3S-entregar todo cosas,COM-quedar-E3S entregar-ENF todo cosas,xkaj jache' juntir qelen .
+530,st_test_uspa1245_265,uspa1245,yes,CONJ escrituras todo,CONJ escrituras todo,i eskrituras juntir
+531,st_test_uspa1245_265,uspa1245,no,CONJ escrituras todo,CONJ escrituras todo,"I eskrituras juntir ,"
+532,st_test_uspa1245_266,uspa1245,yes,loque E3S-trabajo ART-E3S papá,loque E3S-trabajo ART-E3S papá,loke j-chaak ma-j qaaj
+533,st_test_uspa1245_266,uspa1245,no,loque E3S-trabajo ART-E3S papá,loque E3S-trabajo ART-E3S papá,"loke jchaak maj qaaj ,"
+534,st_test_uspa1245_267,uspa1245,yes,COM-quedar-E3S dar él/ella E3S-hija,COM-quedar-E3S dar él/ella E3S-E3S-hija,x-ka-j ye' re j-r-ab'in
+535,st_test_uspa1245_267,uspa1245,no,COM-quedar dar PART E3S-hija,COM-quedar-E3S dar él/ella E3S-E3S-hija,xkaj ye' re jrab'in .
+536,st_test_uspa1245_268,uspa1245,yes,CONJ COM-venir COM-venir ART hombre,CONJ COM-venir COM-venir ART hombre,i x-pe x-pe man wunaq
+537,st_test_uspa1245_268,uspa1245,no,CONJ COM-venir COM-venir ART hombre,CONJ COM-venir COM-venir ART hombre,"I xpe , xpe man wunaq ,"
+538,st_test_uspa1245_269,uspa1245,yes,desear-PAS PART E3S-SREL ART mujer,desear-PAS PART E3S-cara ART mujer,ray-aaj chik j-wiich man anim
+539,st_test_uspa1245_269,uspa1245,no,desear-querer PART E3S-SREL ART mujer,desear-PAS PART E3S-cara ART mujer,rayaaj chik jwich man anm .
+540,st_test_uspa1245_270,uspa1245,yes,como bien??? PART,como bien adornar-PP PART,kom byen wiq-il chaq
+541,st_test_uspa1245_270,uspa1245,no,como bien??? PART,como bien adornar-PP PART,"Kom byen wiqil chaq ,"
+542,st_test_uspa1245_271,uspa1245,yes,allí COM-pedir,allí COM-encontrar,kla' x-ta'
+543,st_test_uspa1245_271,uspa1245,no,allí COM-pedir,allí COM-encontrar,"kla' xta ,"
+544,st_test_uspa1245_272,uspa1245,yes,COM-salir PREP-E3S trabajo,COM-salir PREP-E3S trabajo,x-el la-j chaak
+545,st_test_uspa1245_272,uspa1245,no,COM-salir PREP trabajo,COM-salir PREP-E3S trabajo,xel laj chaak .
+546,st_test_uspa1245_273,uspa1245,yes,CONJ COM-DIR-E3S-pedir E3S-trabajo E3S-SREL ART mujer,CONJ COM-DIR-E3S-pedir E3S-trabajo E3S-SREL ART mujer,i x-i-j-te' j-chaak r-k'il man anim
+547,st_test_uspa1245_273,uspa1245,no,CONJ COM-DIR-E3S-pedir E3S-trabajo E3S-SREL ART mujer,CONJ COM-DIR-E3S-pedir E3S-trabajo E3S-SREL ART mujer,I xijte' jchaak rk'il man anm .
+548,st_test_uspa1245_274,uspa1245,yes,como COM-morir-ENF E3S-papá,como COM-morir-ENF E3S-papá,kom x-kam-i' j-qaaj
+549,st_test_uspa1245_274,uspa1245,no,como COM-morir-ENF E3S-papá,como COM-morir-ENF E3S-papá,Kom xkami' jqaaj .
+550,st_test_uspa1245_275,uspa1245,yes,entonces COM-quedar cosas PREP-E3S mano,entonces COM-quedar cosas PREP-E3S mano,tons x-kan qelen la-j q'ab'
+551,st_test_uspa1245_275,uspa1245,no,entonces COM-quedar cosas PREP mano,entonces COM-quedar cosas PREP-E3S mano,Tons xkan qelen laj q'ab'.
+552,st_test_uspa1245_276,uspa1245,yes,COM-venir él/ella COM-DIR-E3S-pedir E3S-trabajo E3S-SREL,COM-venir él/ella COM-DIR-E3S-pedir E3S-trabajo E3S-SREL,x-pe re x-i-j-te' j-chaak r-k'il
+553,st_test_uspa1245_276,uspa1245,no,COM-venir él/ella COM-DIR-E3S-pedir E3S-trabajo E3S-SREL,COM-venir él/ella COM-DIR-E3S-pedir E3S-trabajo E3S-SREL,"Xpe re xijte' jchaak rk'il ,"
+554,st_test_uspa1245_277,uspa1245,yes,E3S-SREL ART mujer,E3S-SREL ART mujer,r-k'i man anim
+555,st_test_uspa1245_277,uspa1245,no,E3S-SREL ART mujer,E3S-SREL ART mujer,rk'i man anm .
+556,st_test_uspa1245_278,uspa1245,yes,COM-venir ART mujer,COM-venir ART mujer,x-pe man anm
+557,st_test_uspa1245_278,uspa1245,no,COM-venir ART mujer,COM-venir ART mujer,Xpe man anm .
+558,st_test_uspa1245_279,uspa1245,yes,esta@bien EXS trabjo SREL,esta@bien EXS trabajo SREL,tawen wi' chaak uk'iil
+559,st_test_uspa1245_279,uspa1245,no,esta@bien EXS trabjo SREL,esta@bien EXS trabajo SREL,"Tawen wi' chaak uk'il ,"
+560,st_test_uspa1245_280,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+561,st_test_uspa1245_280,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+562,st_test_uspa1245_281,uspa1245,yes,COM-dar-PAS E3S-trabajo,COM-dar-PAS E3S-trabajo,x-ye'-sáj j-chaak
+563,st_test_uspa1245_281,uspa1245,no,COM-dar-PAS E3S-trabajo,COM-dar-PAS E3S-trabajo,Xye'saj jchaak
+564,st_test_uspa1245_282,uspa1245,yes,CONJ COM-dar-PAS uno-E3S E3S-casa,CONJ COM-dar-PAS uno-E3S E3S-casa,i x-ye'-sáj ju-j r-ichoch
+565,st_test_uspa1245_282,uspa1245,no,CONJ COM-dar-PAS uno-E3S E3S-casa,CONJ COM-dar-PAS uno-E3S E3S-casa,i xye'saj juj richoch
+566,st_test_uspa1245_283,uspa1245,yes,dónde INC-dormir,dónde INC-dormir,lamas tu-wer
+567,st_test_uspa1245_283,uspa1245,no,dónde INC-dormir,dónde INC-dormir,"lamas tuwer ,"
+568,st_test_uspa1245_284,uspa1245,yes,COM-dar-PAS uno-E3S E3S-casa PREP dormir-ITR,COM-dar-PAS uno-E3S E3S-casa PREP INC-dormir,x-ye'-sáj ju-j r-ichoch la tu-wer
+569,st_test_uspa1245_284,uspa1245,no,COM-dar-PAS uno-E3S E3S-casa PREP dormir,COM-dar-PAS uno-E3S E3S-casa PREP INC-dormir,xye'saj juj richoch la tuwer .
+570,st_test_uspa1245_285,uspa1245,yes,CONJ COM-entrar en trabajo,CONJ COM-entrar PREP trabajo,i x-ok li chaak
+571,st_test_uspa1245_285,uspa1245,no,CONJ COM-entrar en trabajo,CONJ COM-entrar PREP trabajo,"I xok li chaak ,"
+572,st_test_uspa1245_286,uspa1245,yes,COM-entrar PREP trabajo,COM-entrar PREP trabajo,x-ok li chaak
+573,st_test_uspa1245_286,uspa1245,no,COM-entrar PREP trabajo,COM-entrar PREP trabajo,xok li chaak .
+574,st_test_uspa1245_287,uspa1245,yes,CONJ PART ART mamá ART Angelica,CONJ PART ART mamá ART Angelica,i ruk' man chuuch man Angelika
+575,st_test_uspa1245_287,uspa1245,no,CONJ PART ART mamá ART angelica,CONJ PART ART mamá ART Angelica,"I ruk' man chuuch man Angelika ,"
+576,st_test_uspa1245_288,uspa1245,yes,COM-quedar-PP PL E3S-SREL ART-E3S papá,COM-quedar-PP PL E3S-SREL ART-E3S papá,x-kan-el taq r-k'i ma-j qaaj
+577,st_test_uspa1245_288,uspa1245,no,COM-quedar-PP PL E3S-SREL ART-E3S papá,COM-quedar-PP PL E3S-SREL ART-E3S papá,"xkanel taq rk'i maj qaaj ,"
+578,st_test_uspa1245_289,uspa1245,yes,allá,allá,jri
+579,st_test_uspa1245_289,uspa1245,no,allá,allá,jri .
+580,st_test_uspa1245_290,uspa1245,yes,COM-venir ART Angelica COM-buscar uno diferente hombre PART,COM-venir ART Angelica COM-buscar uno diferente hombre PART,x-pe man Angelika x-tok jun jalaan wunaq chik
+581,st_test_uspa1245_290,uspa1245,no,COM-venir ART Angelica COM-buscar uno diferente hombre PART,COM-venir ART Angelica COM-buscar uno diferente hombre PART,"Xpe man Angelika xtok jun jalaan wunaq chik ,"
+582,st_test_uspa1245_291,uspa1245,yes,COM-buscar uno diferente hombre PART,COM-buscar uno diferente hombre PART,x-tok jun jalaan wunaq chik
+583,st_test_uspa1245_291,uspa1245,no,COM-buscar uno diferente hombre PART,COM-buscar uno diferente hombre PART,xtok jun jalaan wunaq chik .
+584,st_test_uspa1245_292,uspa1245,yes,CONJ COM-venir uno-E3S E3S-papá ART Sergio,CONJ COM-venir uno-E3S E3S-papá ART Sergio,i x-pe ju-j j-qaaj man Sergiyo
+585,st_test_uspa1245_292,uspa1245,no,CONJ COM-venir uno-E3S E3S-papá ART Sergio,CONJ COM-venir uno-E3S E3S-papá ART Sergio,"I xpe juj jqaaj man Sergiyo ,"
+586,st_test_uspa1245_293,uspa1245,yes,cabal COM-DIR-E3S-encontrar ART Angelica E3S-SREL uno diferente hombre,cabal COM-DIR-E3S-encontrar ART Angelica E3S-SREL uno diferente hombre,kabal x-i-j-te' man Angelika r-k'i jun jalaan wunaq
+587,st_test_uspa1245_293,uspa1245,no,cabal COM-DIR-E3S-encontrar ART Angelica E3S-SREL uno diferente hombre,cabal COM-DIR-E3S-encontrar ART Angelica E3S-SREL uno diferente hombre,kabal xijte' man Angelika rk'i jun jalaan wunaq .
+588,st_test_uspa1245_294,uspa1245,yes,CONJ COM-venir E3S-papá ART sergio,CONJ COM-venir E3S-papá ART Sergio,i x-pe j-qaaj man Sergiyo
+589,st_test_uspa1245_294,uspa1245,no,CONJ COM-venir E3S-papá ART sergio,CONJ COM-venir E3S-papá ART Sergio,I xpe jqaaj man Sergiyo
+590,st_test_uspa1245_295,uspa1245,yes,COM-matar-CAU-SC ART dos hombre,COM-morir-PAS ART segundo hombre,x-kom-saaj man kab' wunaq
+591,st_test_uspa1245_295,uspa1245,no,COM-matar-CAU-SC ART dos hombre,COM-morir-PAS ART segundo hombre,xkomsaaj man kab' wunaq
+592,st_test_uspa1245_296,uspa1245,yes,él/ella E3S-SREL E3S-esposa,él/ella E3S-SREL E3S-esposa,re r-k'i r-xóqil
+593,st_test_uspa1245_296,uspa1245,no,él/ella E3S-SREL E3S-esposa,él/ella E3S-SREL E3S-esposa,re rk'i rxóqil .
+594,st_test_uspa1245_297,uspa1245,yes,COM-matar-CAU-SC ART hombre,COM-morir-PAS ART hombre,x-kom-saaj man wunaq
+595,st_test_uspa1245_297,uspa1245,no,COM-matar-CAU-SC ART hombre,COM-morir-PAS ART hombre,xkomsaaj man wunaq .
+596,st_test_uspa1245_298,uspa1245,yes,E3S-SREL COM-E2S-dar PL,E3S-SREL COM-E2S-dar PL,j-wi'l x-a-ye' taq
+597,st_test_uspa1245_298,uspa1245,no,E3S-SREL COM-E2S-dar PL,E3S-SREL COM-E2S-dar PL,"Jwi'l xaye' taq ,"
+598,st_test_uspa1245_299,uspa1245,yes,COM-E2S-decir-PL-ENF él/ella autoridad,COM-A2S-decir-PL-ENF SREL autoridad,x-a-b'ij-tq-a' re q'ab'tzij
+599,st_test_uspa1245_299,uspa1245,no,COM-E2S-decir-PL-ENF él/ella E1P-palabra,COM-A2S-decir-PL-ENF SREL autoridad,xab'ijtqa' re q'ab'tziij
+600,st_test_uspa1245_300,uspa1245,yes,que ART hombre,que ART hombre,ke man wunaq
+601,st_test_uspa1245_300,uspa1245,no,que ART hombre,que ART hombre,ke man wunaq .
+602,st_test_uspa1245_301,uspa1245,yes,COM-matar-CAU-SC ART E3S-segundo E3S-esposo,COM-morir-PAS ART E3S-segundo E3S-esposo,x-kom-saaj man j-kab' r-ichijil
+603,st_test_uspa1245_301,uspa1245,no,COM-matar-CAU-SC ART E3S-segundo E3S-esposo,COM-morir-PAS ART E3S-segundo E3S-esposo,"Xkomsaaj man jkab' richjil ,"
+604,st_test_uspa1245_302,uspa1245,yes,ART mujer PART,ART mujer PART,man anim chik
+605,st_test_uspa1245_302,uspa1245,no,ART mujer PART,ART mujer PART,man anm chik .
+606,st_test_uspa1245_303,uspa1245,yes,agarrar-PP PART E3S-SREL ART-E3S papá ART Sergio,agarrar-PP PART E3S-SREL ART-E3S papá ART Sergio,chop-el chaq r-ij ma-j qaaj man Sergiyo
+607,st_test_uspa1245_303,uspa1245,no,agarrar-PP PART E3S-SREL ART-E3S papá ART Sergio,agarrar-PP PART E3S-SREL ART-E3S papá ART Sergio,Chopel chaq rij maj qaaj man Sergiyo
+608,st_test_uspa1245_304,uspa1245,yes,PART INC-entrar DEM carcel,él/ella INC-entrar PREP carcel,re t'-ok li karsel
+609,st_test_uspa1245_304,uspa1245,no,PART INC-entrar DEM carcel,él/ella INC-entrar PREP carcel,re t'ok li karsel .
+610,st_test_uspa1245_305,uspa1245,yes,loque COM-hacer ART Angelica,loque COM-hacer ART Angelica,loke x-en man Angelika'
+611,st_test_uspa1245_305,uspa1245,no,loque COM-hacer ART Angelica,loque COM-hacer ART Angelica,"Loke xen man Angelika ,"
+612,st_test_uspa1245_306,uspa1245,yes,COM-hablar-SC DIR ART E3S-hijo,COM-hablarle-SC DIR ART E3S-hijo,x-ch'ab'e-j b'i man r-k'lal
+613,st_test_uspa1245_306,uspa1245,no,COM-hablar-SC DIR ART E3S-hijo,COM-hablarle-SC DIR ART E3S-hijo,xch'ab'ej b'i man rk'lal
+614,st_test_uspa1245_307,uspa1245,yes,PREP PREP vehículo,PREP PREP vehículo,li li ch'ich'
+615,st_test_uspa1245_307,uspa1245,no,PREP PREP vehículo,PREP PREP vehículo,li li ch'ich'.
+616,st_test_uspa1245_308,uspa1245,yes,CONJ derrepente INC-E2S-querer INC-E2S-buscar E3S-trabajo E2S-papá allí,CONJ de@repente INC-E2S-querer INC-E2S-buscar E3S-trabajo E2S-papá allá,i pen ch-aw-aj t-a-tok j-chaak a-qaaj jili
+617,st_test_uspa1245_308,uspa1245,no,CONJ de@repente INC-E2S-querer INC-E3S-buscar E3S-trabajo E2S-papá allí,CONJ de@repente INC-E2S-querer INC-E2S-buscar E3S-trabajo E2S-papá allá,"I pen chawaj tatok jchaak aqaaj jili ,"
+618,st_test_uspa1245_309,uspa1245,yes,aqui carcel PART E3S-SREL,aqui carcel PART E3S-SREL,niri kársel chaq r-ij
+619,st_test_uspa1245_309,uspa1245,no,aqui carcel PART E3S-SREL,aqui carcel PART E3S-SREL,niri kársel chaq rij .
+620,st_test_uspa1245_310,uspa1245,yes,COM-morir-PAS uno hombre,COM-morir-PAS uno hombre,x-kom-sáj jun wunaq
+621,st_test_uspa1245_310,uspa1245,no,COM-morir-PAS uno hombre,COM-morir-PAS uno hombre,"Xkomsaj jun wunaq ,"
+622,st_test_uspa1245_311,uspa1245,yes,decir él/ella ART,dice él/ella ART,cha' re man
+623,st_test_uspa1245_311,uspa1245,no,decir él/ella ART,dice él/ella ART,cha' re man .
+624,st_test_uspa1245_312,uspa1245,yes,E3S-hijo,E3S-hijo,r-k'lal
+625,st_test_uspa1245_312,uspa1245,no,E3S-hijo,E3S-hijo,Rk'lal .
+626,st_test_uspa1245_313,uspa1245,yes,decir él/ella INC-venir aqui INC-E1S-buscar E3S-trabajo,decir él/ella INC-venir aqui INC-E1S-buscar E3S-trabajo,b'ij re t-pe niri t-an-tok j-chaak
+627,st_test_uspa1245_313,uspa1245,no,decir él/ella INC-venir aqui INC-E1S-buscar E3S-trabajo,decir él/ella INC-venir aqui INC-E1S-buscar E3S-trabajo,"B'ij re tpe niri tantok jchaak ,"
+628,st_test_uspa1245_314,uspa1245,yes,dice ART Sergio él/ella,decir ART Sergio él/ella,cha' man Sergiy re
+629,st_test_uspa1245_314,uspa1245,no,dice ART Sergio él/ella,decir ART Sergio él/ella,cha' man Sergiy re .
+630,st_test_uspa1245_315,uspa1245,yes,COM-venir ART Sergio COM-hablar-SC ART mujer,COM-venir ART Sergio COM-hablarle-SC ART mujer,x-pe man Sergiy x-ch'ab'e-j man anim
+631,st_test_uspa1245_315,uspa1245,no,COM-venir ART Sergio COM-hablar-SC ART mujer,COM-venir ART Sergio COM-hablarle-SC ART mujer,Xpe man Sergiy xch'ab'ej man anm .
+632,st_test_uspa1245_316,uspa1245,yes,CONJ que derrepente INC-E2S-querer ENF INC-E2S-hacer uno favor,CONJ que derepente INC-E2S-querer CONJ INC-E2S-hacer uno favor,i ke pent ch-aw-aj ni' t-a-b'an jun toq'ob'
+633,st_test_uspa1245_316,uspa1245,no,CONJ que derrepente INC-E2S-querer ENF INC-E2S-hacer uno favor,CONJ que derepente INC-E2S-querer CONJ INC-E2S-hacer uno favor,"I ke pent chawaj ni' tab'an jun toq'ob',"
+634,st_test_uspa1245_317,uspa1245,yes,INC-E2S-meter,INC-E2S-ITS,t-a-koj
+635,st_test_uspa1245_317,uspa1245,no,INC-E2S-meter,INC-E2S-ITS,"takoj ,"
+636,st_test_uspa1245_318,uspa1245,yes,INC-E2S-buscar-ENF E3S-trabajo E1S-papá,INC-E3S-buscar-ENF E3S-trabajo A1S-papá,t-a-tok-o j-chaak in-taat
+637,st_test_uspa1245_318,uspa1245,no,INC-E2S-buscar-AP E3S-trabajo E1S-papá,INC-E3S-buscar-ENF E3S-trabajo A1S-papá,"tatoko' jchaak intaat ,"
+638,st_test_uspa1245_319,uspa1245,yes,allá NEG PART-ENF bueno EXS,allá NEG PART-ENF bueno EXS,jili ta' chk-i' tzii wi'
+639,st_test_uspa1245_319,uspa1245,no,allá NEG PART-ENF bueno EXS,allá NEG PART-ENF bueno EXS,jili ta' chki' tzii wi'.
+640,st_test_uspa1245_320,uspa1245,yes,CONJ carcel E3S-SREL,CONJ carcel E3S-SREL,i kars r-ij
+641,st_test_uspa1245_320,uspa1245,no,CONJ carcel E3S-SREL,CONJ carcel E3S-SREL,"I kars rij ,"
+642,st_test_uspa1245_321,uspa1245,yes,saber INT COM-hacer,saber INT COM-hacer,saa neen x-en
+643,st_test_uspa1245_321,uspa1245,no,saber INT COM-hacer,saber INT COM-hacer,saa neen xen .
+644,st_test_uspa1245_322,uspa1245,yes,INC-E2S-decir PART INC-venir,INC-E3S-decir él/ella INC-venir,t-a'-i'j re t-pet
+645,st_test_uspa1245_322,uspa1245,no,PART-decir PART INC-venir,INC-E3S-decir él/ella INC-venir,"Ta'i'j re tpet ,"
+646,st_test_uspa1245_323,uspa1245,yes,decir él/ella ART Sergio,decir él/ella ART Sergio,cha' re man Sergiyo
+647,st_test_uspa1245_323,uspa1245,no,decir él/ella ART Sergio,decir él/ella ART Sergio,"cha' re man Sergiyo ,"
+648,st_test_uspa1245_324,uspa1245,yes,INC-decir ART Sergio COM-hablar PART,INC-decir ART Sergio COM-hablar PART,t'-iij man Sergiyo x-ch'aw chik
+649,st_test_uspa1245_324,uspa1245,no,decir ART Sergio COM-hablar PART,INC-decir ART Sergio COM-hablar PART,t'iij man Sergiyo xch'aw chik .
+650,st_test_uspa1245_325,uspa1245,yes,decir-PART INC-venir,decir-él/ella INC-venir,ij-re t-pet
+651,st_test_uspa1245_325,uspa1245,no,decir-PART INC-venir,decir-él/ella INC-venir,Ijre tpet .
+652,st_test_uspa1245_326,uspa1245,yes,esta@bien,bueno,jaan
+653,st_test_uspa1245_326,uspa1245,no,esta@bien,bueno,"Jaan ,"
+654,st_test_uspa1245_327,uspa1245,yes,dice ART-E3S papá,decir ART-E3S papá,cha' ma-j qaaj
+655,st_test_uspa1245_327,uspa1245,no,decir ART-E3S papá,decir ART-E3S papá,cha' maj qaaj .
+656,st_test_uspa1245_328,uspa1245,yes,ir cuando COM-llegar PL,ir cuando COM-llegar PL,xek' kwand x-taw taq
+657,st_test_uspa1245_328,uspa1245,no,ir cuando COM-llegar PL,ir cuando COM-llegar PL,"Xek' kuwand xtaw taq ,"
+658,st_test_uspa1245_329,uspa1245,yes,COM-llegar COM-DIR-E3S encotrar ART-E3S papá,COM-llegar COM-DIR-E3S encontrar ART-E3S papá,x-taw x-i-j k'uli' ma-j qaaj
+659,st_test_uspa1245_329,uspa1245,no,COM-llegar COM-DIR-E3S encotrar-ENF ART-E3S papá,COM-llegar COM-DIR-E3S encontrar ART-E3S papá,xtaw xij k'ule' maj qaaj .
+660,st_test_uspa1245_330,uspa1245,yes,COM-venir COM-recibir ART-E3S papá PREP-E3S E3S-casa ART mujer,COM-venir COM-recibir ART-E3S papá PREP-E3S E3S-casa ART mujer,x-pet x-k'am ma-j qaaj la-j r-ichoch man anim
+661,st_test_uspa1245_330,uspa1245,no,COM-venir COM-recibir ART-E3S papá PREP E3S-casa ART mujer,COM-venir COM-recibir ART-E3S papá PREP-E3S E3S-casa ART mujer,Xpet xk'am maj qaaj laj richoch man anm .
+662,st_test_uspa1245_331,uspa1245,yes,COM-decir él/ella,COM-decir él/ella,x-i'j re
+663,st_test_uspa1245_331,uspa1245,no,COM-decir él/ella,COM-decir él/ella,Xi'j re .
+664,st_test_uspa1245_332,uspa1245,yes,eso@es DEM E1S-papá,DEM DEM E1S-papá,ri' ri in-taat
+665,st_test_uspa1245_332,uspa1245,no,eso@es DEM E1S-papá,DEM DEM E1S-papá,"Ri' ri intaat ,"
+666,st_test_uspa1245_333,uspa1245,yes,repente INC-E2S-querer INC-E2S-buscar E3S-trabajo,de@repente INC-E2S-querer INC-E2S-buscar E3S-trabajo,pen ch-w-aj t-a-tok j-chaak
+667,st_test_uspa1245_333,uspa1245,no,repente INC-E2S-querer INC-E2S-buscar E3S-trabajo,de@repente INC-E2S-querer INC-E2S-buscar E3S-trabajo,"pen chawaj tatok jchaak ,"
+668,st_test_uspa1245_334,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+669,st_test_uspa1245_334,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+670,st_test_uspa1245_335,uspa1245,yes,INT E3S-nombre E2S-papá,INT E3S-nombre E2S-papá,neen j-b'iij a-qaaj
+671,st_test_uspa1245_335,uspa1245,no,INT E3S-nombre E2S-papá,INT E3S-nombre E2S-papá,"Neen jb'ij aqaaj ,"
+672,st_test_uspa1245_336,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+673,st_test_uspa1245_336,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+674,st_test_uspa1245_337,uspa1245,yes,renato E3S-nombre,Renato E3S-nombre,Renato j-b'iij
+675,st_test_uspa1245_337,uspa1245,no,renato E3S-nombre,Renato E3S-nombre,Renato jb'ij .
+676,st_test_uspa1245_338,uspa1245,yes,INT E2S-nombre,INT E2S-nombre,neen a-b'iij
+677,st_test_uspa1245_338,uspa1245,no,INT E2S-nombre,INT E2S-nombre,"Neen áb'ij ,"
+678,st_test_uspa1245_339,uspa1245,yes,dice él/ella ART hombre,decir él/ella ART hombre,cha' re man wunaq
+679,st_test_uspa1245_339,uspa1245,no,dice él/ella ART hombre,decir él/ella ART hombre,cha' re man wunaq .
+680,st_test_uspa1245_340,uspa1245,yes,yo Renato,yo Renato,iin Renato
+681,st_test_uspa1245_340,uspa1245,no,yo Renato,yo Renato,"Iin Renato ,"
+682,st_test_uspa1245_341,uspa1245,yes,renato A1S-nombre,renato E1S-nombre,Renato ín-b'iij
+683,st_test_uspa1245_341,uspa1245,no,renato A1S-llamar,renato E1S-nombre,"Renato ínb'ij ,"
+684,st_test_uspa1245_342,uspa1245,yes,decir ART hombre él/ella ART mujer,decir ART hombre él/ella ART mujer,cha' man wunaq re man anim
+685,st_test_uspa1245_342,uspa1245,no,dice ART hombre él/ella ART mujer,decir ART hombre él/ella ART mujer,cha' man wunaq re man anm .
+686,st_test_uspa1245_343,uspa1245,yes,COM-venir ART mujer COM-ir entrar-PART PREP-E3S E3S-casa,COM-venir ART mujer COM-DIR entrar-PART PREP-E3S E3S-casa,x-pe man anim x-i' ok-chik la-j r-ichoch
+687,st_test_uspa1245_343,uspa1245,no,COM-venir ART mujer ir entrar-PART PREP E3S-casa,COM-venir ART mujer COM-DIR entrar-PART PREP-E3S E3S-casa,xpe man anm xi' okchik laj richoch .
+688,st_test_uspa1245_344,uspa1245,yes,PART ART-E3S papá ART Sergio,PART ART-E3S papá ART Sergio,ruk' ma-j qaaj man Sergiyo
+689,st_test_uspa1245_344,uspa1245,no,PART ART-E3S papá ART sergio,PART ART-E3S papá ART Sergio,"Ruk' maj qaaj man Sergiyo ,"
+690,st_test_uspa1245_345,uspa1245,yes,decir,decir,cha'
+691,st_test_uspa1245_345,uspa1245,no,decir,decir,cha'.
+692,st_test_uspa1245_346,uspa1245,yes,INC-E1S-ver-ENF DEM ART mujer COM-estar E1P-SREL antiguamente,INC-E1S-SREL-yo DEM ART mujer COM-estar E1P-SREL antiguamente,t-w-i'l-i'n ri' man anim x-wa'x q-ik'il ójor
+693,st_test_uspa1245_346,uspa1245,no,INC-SREL-yo DEM ART mujer COM-estar E1P-SREL antiguamente,INC-E1S-SREL-yo DEM ART mujer COM-estar E1P-SREL antiguamente,"Twilin ri' man anm xwa'x qik'il ójor ,"
+694,st_test_uspa1245_347,uspa1245,yes,decir él/ella ART-E3S hijo,decir él/ella ART-E3S hijo,cha' re ma-j k'ajol
+695,st_test_uspa1245_347,uspa1245,no,decir él/ella ART-E3S hijo,decir él/ella ART-E3S hijo,cha' re maj k'ajol .
+696,st_test_uspa1245_348,uspa1245,yes,DEM NEG DEM NEG,DEM NEG DEM NEG,ri' ta'n ri' ta'n
+697,st_test_uspa1245_348,uspa1245,no,DEM NEG DEM NEG,DEM NEG DEM NEG,"Ri' ta'n , ri' ta'n ,"
+698,st_test_uspa1245_349,uspa1245,yes,decir ART-E3S hijo,decir ART-E3S hijo,cha' ma-j k'ajol
+699,st_test_uspa1245_349,uspa1245,no,decir ART-E3S hijo,decir ART-E3S hijo,cha' maj k'ajol .
+700,st_test_uspa1245_350,uspa1245,yes,COM-reconocer E3S-SREL,COM-conocer E3S-cara,x-ch'eb' j-wiich
+701,st_test_uspa1245_350,uspa1245,no,COM-reconocer E3S-SREL,COM-conocer E3S-cara,xch'eb' jwich .
+702,st_test_uspa1245_351,uspa1245,yes,decir entonces COM-venir ART mujer,decir entonces COM-venir ART mujer,cha' tos x-pe man anim
+703,st_test_uspa1245_351,uspa1245,no,decir entonces COM-venir ART mujer,decir entonces COM-venir ART mujer,"Cha' tons xpe man anm ,"
+704,st_test_uspa1245_352,uspa1245,yes,COM-reconocer E3S-SREL,COM-conocer E3S-cara,x-ch'eb' j-wich
+705,st_test_uspa1245_352,uspa1245,no,COM-reconocer E3S-SREL,COM-conocer E3S-cara,"xch'eb' jwich ,"
+706,st_test_uspa1245_353,uspa1245,yes,dice,decir,cha'
+707,st_test_uspa1245_353,uspa1245,no,dice,decir,cha'.
+708,st_test_uspa1245_354,uspa1245,yes,entonces COM-preguntar-SC él/ella,entonces COM-pedir-E3S él/ella,toos x-tz'ona-j re
+709,st_test_uspa1245_354,uspa1245,no,entonces COM-preguntar-SC él/ella,entonces COM-pedir-E3S él/ella,Toos xtz'onaj re .
+710,st_test_uspa1245_355,uspa1245,yes,entonces tú/usted tú/usted renato,entonces tú/usted tú/usted renato,toos at aat renat
+711,st_test_uspa1245_355,uspa1245,no,entonces tú/usted tú/usted renato,entonces tú/usted tú/usted renato,"Toos at aat renat ,"
+712,st_test_uspa1245_356,uspa1245,yes,entonces a entonces tú/usted-ENF,entonces CONJ entonces tú/usted-ENF,toos a' antons at-i'n
+713,st_test_uspa1245_356,uspa1245,no,entonces a entonces tú/usted-ENF,entonces CONJ entonces tú/usted-ENF,"toos a' antons ati'n ,"
+714,st_test_uspa1245_357,uspa1245,yes,decir,decir,cha'
+715,st_test_uspa1245_357,uspa1245,no,decir,decir,cha'.
+716,st_test_uspa1245_358,uspa1245,yes,entonces esta@bien EXS E2S-trabajo aqui,entonces esta@bien EXS E2S-trabajo aqui,toos tawen wi' a-chaak niri
+717,st_test_uspa1245_358,uspa1245,no,entonces esta@bien EXS E2S-trabajo aqui,entonces esta@bien EXS E2S-trabajo aqui,Toos tawen wi' achaak niri .
+718,st_test_uspa1245_359,uspa1245,yes,entonces COM-decir PART ART Sergio,entonces COM-decir PART ART Sergio,toos x-i'j chik man Sergiyo
+719,st_test_uspa1245_359,uspa1245,no,entonces COM-decir PART ART Sergio,entonces COM-decir PART ART Sergio,Toos xi'j chik man Sergiyo .
+720,st_test_uspa1245_360,uspa1245,yes,hacer venir INC-E2S-querer INC-E2S-buscar uno-E3S cuarto E1S-papá,hacer pena INC-E3S-querer INC-E2S-buscar uno-E3 cuarto A1S-papá,b'an pen ch-aw-aj t-a-tok ju-j kwart in-taat
+721,st_test_uspa1245_360,uspa1245,no,hacer venir INC-E2S-querer INC-E2S-buscar uno-E3S cuarto E1S-papá,hacer pena INC-E3S-querer INC-E2S-buscar uno-E3 cuarto A1S-papá,B'an pen chawaj tatok juj kwart intaat
+722,st_test_uspa1245_361,uspa1245,yes,dónde INC-estar,dónde INC-estar,lamas t-wa'x
+723,st_test_uspa1245_361,uspa1245,no,dónde INC-estar,dónde INC-estar,"lamas twa'x ,"
+724,st_test_uspa1245_362,uspa1245,yes,INC-dormir,INC-dormir,t-wer
+725,st_test_uspa1245_362,uspa1245,no,INC-dormir,INC-dormir,twer .
+726,st_test_uspa1245_363,uspa1245,yes,esta@bien PART uno casa DEM,esta@bien PART uno casa DEM,tziin ko' jun jaa li
+727,st_test_uspa1245_363,uspa1245,no,esta@bien PART uno casa DEM,esta@bien PART uno casa DEM,"Tziin ko' jun jaa li ,"
+728,st_test_uspa1245_364,uspa1245,yes,decir,decir,cha'
+729,st_test_uspa1245_364,uspa1245,no,decir,decir,"cha',"
+730,st_test_uspa1245_365,uspa1245,yes,COM-buscar-PAS E3S-trabajo,COM-buscar-PAS E3S-trabajo,x-tok-sáj j-chaak
+731,st_test_uspa1245_365,uspa1245,no,COM-buscar-PAS E3S-trabajo,COM-buscar-PAS E3S-trabajo,xtoksaj jchaak .
+732,st_test_uspa1245_366,uspa1245,yes,E3S-PART COM-buscar-PAS E3S-trabajo E3S-SREL uno mujer,E3S-DEM-PART COM-buscar-PAS E3S-trabajo E3S-SREL uno mujer,r-u-k'u x-tok-sáj j-chaak j-wi'l jun anim
+733,st_test_uspa1245_366,uspa1245,no,PART COM-buscar-PAS E3S-trabajo E3S-SREL uno mujer,E3S-DEM-PART COM-buscar-PAS E3S-trabajo E3S-SREL uno mujer,Ruk'u xtoksaj jchaak jwi' jun anm .
+734,st_test_uspa1245_367,uspa1245,yes,E3S-PART E3S-esposa ART hombre COM-quedar,E3S-PART E3S-esposa ART hombre COM-quedar,r-k'u r-xoqil man wunaq x-kan
+735,st_test_uspa1245_367,uspa1245,no,E3S-PART E3S-esposa ART hombre COM-quedar,E3S-PART E3S-esposa ART hombre COM-quedar,"Rk'u rxóqil man wunaq xkan ,"
+736,st_test_uspa1245_368,uspa1245,yes,??? ITS llorar,??? ITS llorar,(sow) seb'laaj t'oq'
+737,st_test_uspa1245_368,uspa1245,no,admiración ITS INC-llorar,??? ITS llorar,"sow seb'laaj t'oq',"
+738,st_test_uspa1245_369,uspa1245,yes,decir,decir,cha'
+739,st_test_uspa1245_369,uspa1245,no,decir,decir,"cha',"
+740,st_test_uspa1245_370,uspa1245,yes,PREP E3S-SREL ART E3S-esposo,PREP E3S-SREL ART E3S-esposo,chi r-ij man r-chijiil
+741,st_test_uspa1245_370,uspa1245,no,PREP E3S-SREL ART E3S-esposo,PREP E3S-SREL ART E3S-esposo,"chi rij man rchjil ,"
+742,st_test_uspa1245_371,uspa1245,yes,compañero ART E3S-hijo,compañero ART E3S-hijo,pech man r-k'laal
+743,st_test_uspa1245_371,uspa1245,no,compañero ART E3S-hijo,compañero ART E3S-hijo,pech man rk'lal .
+744,st_test_uspa1245_372,uspa1245,yes,porque E3S-solo PART quedar-PP,porque E3S-sola PART quedar-quedar,porke r-k'a'n chaq kan-el
+745,st_test_uspa1245_372,uspa1245,no,porque E3S-solo PART quedar-PP,porque E3S-sola PART quedar-quedar,"Porke rk'an chaq kanel ,"
+746,st_test_uspa1245_373,uspa1245,yes,poco INC-E3S-hablar-SC ART E3S-esposo,poco INC-E3S-hablarle-SC ART E3S-esposo,pok ti-j-ch'ab'e-j man r-ichijil
+747,st_test_uspa1245_373,uspa1245,no,poco??? ART E3S-esposo,poco INC-E3S-hablarle-SC ART E3S-esposo,pok tijch'ab'ej man richjil .
+748,st_test_uspa1245_374,uspa1245,yes,que PART uno favor ART mujer,que hacer uno favor ART mujer,ke ne' jun toq'ob' man anim
+749,st_test_uspa1245_374,uspa1245,no,que PART uno favor ART mujer,que hacer uno favor ART mujer,Ke ne' jun toq'ob' man anm
+750,st_test_uspa1245_375,uspa1245,yes,buscar-PAS uno E3S-casa dónde INC-estar,buscar-PAS uno E3S-casa dónde INC-estar,tok-sáj jun r-ichoch lamas te-wa'x
+751,st_test_uspa1245_375,uspa1245,no,buscar-PAS uno E3S-casa dónde INC-estar,buscar-PAS uno E3S-casa dónde INC-estar,toksaj jun richoch lamas t'ewa'x .
+752,st_test_uspa1245_376,uspa1245,yes,porque él/ella poco INC-tristeza-AP PREP E3S-SREL ART E3S-esposo ir,porque él/ella poco INC-tristeza-AP PREP E3S-SREL ART E3S-esposo ir,porke re pok t-b'is-on chi r-ij man r-ichijil xe'
+753,st_test_uspa1245_376,uspa1245,no,porque él/ella poco INC-tristeza-AP PREP E3S-SREL ART E3S-esposo ir,porque él/ella poco INC-tristeza-AP PREP E3S-SREL ART E3S-esposo ir,Porke re pok tb'ison chi rij man richjil xe'.
+754,st_test_uspa1245_377,uspa1245,yes,como tres mes,como tres mes,komo uxib' ik'
+755,st_test_uspa1245_377,uspa1245,no,como tres mes,como tres mes,"Komo uxub' ik',"
+756,st_test_uspa1245_378,uspa1245,yes,cuatro mes,cuatro mes,kijab' iik'
+757,st_test_uspa1245_378,uspa1245,no,cuatro mes,cuatro mes,"kijab' ik',"
+758,st_test_uspa1245_379,uspa1245,yes,E3S-trabajo ART E3S-esposo,E3S-trabajo ART E3S-esposo,j-chaak man r-ichijil
+759,st_test_uspa1245_379,uspa1245,no,E3S-trabajo ART E3S-esposo,E3S-trabajo ART E3S-esposo,jchaak man richjil .
+760,st_test_uspa1245_380,uspa1245,yes,entonces COM-llegar PART ART,entonces COM-llegar PART ART,toos x-taw chik man
+761,st_test_uspa1245_380,uspa1245,no,entonces COM-llegar PART ART,entonces COM-llegar PART ART,"Toos xtaw chik man ,"
+762,st_test_uspa1245_381,uspa1245,yes,COM-llegar PART COM-llegar PART ART E3S-esposa PREP-E3S E3S-decir él/ella,COM-llegar PART COM-llegar PART ART E3S-esposa PREP-E3S E3S-decir él/ella,x-taw chik x-taw chik man r-ixóqil chi-j j-b'ij re
+763,st_test_uspa1245_381,uspa1245,no,COM-llegar PART COM-llegar PART ART E3S-esposa PREP-E3S E3S-decir él/ella,COM-llegar PART COM-llegar PART ART E3S-esposa PREP-E3S E3S-decir él/ella,"xtaw chik xtaw chik , man rixóqil chij jb'ij re ."
+764,st_test_uspa1245_382,uspa1245,yes,COM-DIR-E3S decir él/ella,COM-DIR-E3S decir él/ella,x-i-j b'ij re
+765,st_test_uspa1245_382,uspa1245,no,COM-ir decir él/ella,COM-DIR-E3S decir él/ella,"Xij b'ij re ,"
+766,st_test_uspa1245_383,uspa1245,yes,COM-DIR-E3S él/ella ART,COM-DIR-E3S él/ella ART,x-i'-j re man
+767,st_test_uspa1245_383,uspa1245,no,ir-E3S él/ella ART,COM-DIR-E3S él/ella ART,xi'j re man .
+768,st_test_uspa1245_384,uspa1245,yes,COM-venir ART-E3S papá compañero ART-E3S hijo,COM-venir ART-E3S papá compañero ART-E3S hijo,x-pe ma-j qaaj pech ma-j k'ajol
+769,st_test_uspa1245_384,uspa1245,no,COM-venir ART-E3S papá compañero ART-E3S hijo,COM-venir ART-E3S papá compañero ART-E3S hijo,Xpe maj qaaj pech maj k'ajol .
+770,st_test_uspa1245_385,uspa1245,yes,COM-decir PL él/ella ART mujer,COM-decir PL él/ella ART mujer,x-i'j taq re man anim
+771,st_test_uspa1245_385,uspa1245,no,COM-decir PL él/ella ART mujer,COM-decir PL él/ella ART mujer,Xi'j taq re man anm .
+772,st_test_uspa1245_386,uspa1245,yes,derrepente INC-E2S-querer INC-E2S-buscar uno-E3S E1P-casa,de@repente INC-E1S-querer INC-E2S-buscar uno-E3S E1P-casa,pent ch-aw-aj t-a-tok ju-j q-choch
+773,st_test_uspa1245_386,uspa1245,no,derrepente INC-E2S-querer INC-E2S-buscar uno-E3S E1P-casa,de@repente INC-E1S-querer INC-E2S-buscar uno-E3S E1P-casa,"Pent chawaj tatok juj qchoch ,"
+774,st_test_uspa1245_387,uspa1245,yes,esque E1S-esposa INC-tristeza-AP PREP-E1P-SREL,esque E1S-esposa INC-tristeza-AP INC-E1P-SREL,esk w-xóq t-b'is-on ch-q-ij
+775,st_test_uspa1245_387,uspa1245,no,esque E1S-esposa INC-tristeza-AP PREP-E1P-SREL,esque E1S-esposa INC-tristeza-AP INC-E1P-SREL,"esk wxóqil tb'ison chqij ,"
+776,st_test_uspa1245_388,uspa1245,yes,EXS allá,EXS allá,wi' jili
+777,st_test_uspa1245_388,uspa1245,no,EXS allá,EXS allá,"wi' jili ,"
+778,st_test_uspa1245_389,uspa1245,yes,decir él/ella ART mujer,decir él/ella ART mujer,cha' re man anim
+779,st_test_uspa1245_389,uspa1245,no,decir él/ella ART mujer,decir él/ella ART mujer,"cha' re man anm ,"
+780,st_test_uspa1245_390,uspa1245,yes,INC-decir él/ella ART,INC-decir él/ella ART,t-cha' re man
+781,st_test_uspa1245_390,uspa1245,no,INC-decir él/ella ART,INC-decir él/ella ART,"tcha' re man ,"
+782,st_test_uspa1245_391,uspa1245,yes,INC-dice él/ella ART mujer,INC-decir él/ella ART mujer,t-cha' re man anim
+783,st_test_uspa1245_391,uspa1245,no,INC-dice él/ella ART mujer,INC-decir él/ella ART mujer,"tcha' re man anm ,"
+784,st_test_uspa1245_392,uspa1245,yes,dice,decir,cha'
+785,st_test_uspa1245_392,uspa1245,no,dice,decir,cha'.
+786,st_test_uspa1245_393,uspa1245,yes,bueno-DEM decir PART INC-venir,bueno-DEM decir él/ella INC-venir,tzi-li b'ij re t-pet
+787,st_test_uspa1245_393,uspa1245,no,bueno-DEM decir PART INC-venir,bueno-DEM decir él/ella INC-venir,"Tzili b'ij re tpet ,"
+788,st_test_uspa1245_394,uspa1245,yes,dice ART mujer él/ella ART hombre,decir ART mujer él/ella ART hombre,cha' man anim re man wunaq
+789,st_test_uspa1245_394,uspa1245,no,dice ART mujer él/ella ART hombre,decir ART mujer él/ella ART hombre,cha' man anm re man wunaq .
+790,st_test_uspa1245_395,uspa1245,yes,COM-venir COM-E3S-ENF PART ART-E3S E3S-esposa,COM-venir COM-llegar-E3S-ENF PART ART-E3S E3S-esposa,x-pet x-u-j-ne' chik ma-j r-xóqil
+791,st_test_uspa1245_395,uspa1245,no,COM-venir traer-ENF PART ART-E3S E3S-esposa,COM-venir COM-llegar-E3S-ENF PART ART-E3S E3S-esposa,Xpet xujme' chik maj rxóqil .
+792,st_test_uspa1245_396,uspa1245,yes,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer,i x-taaw man anim
+793,st_test_uspa1245_396,uspa1245,no,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer,I xtaaw man anm .
+794,st_test_uspa1245_397,uspa1245,yes,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer,i x-taw man anim
+795,st_test_uspa1245_397,uspa1245,no,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer,"I xtaw man anm ,"
+796,st_test_uspa1245_398,uspa1245,yes,COM-decir él/ella ART,COM-decir él/ella ART,x-i'j re man
+797,st_test_uspa1245_398,uspa1245,no,COM-decir él/ella ART,COM-decir él/ella ART,"xi'j re man ,"
+798,st_test_uspa1245_399,uspa1245,yes,COM-decir él/ella ART E3S-hijo,COM-decir él/ella ART E3S-hijo,x-i'j re man r-k'laal
+799,st_test_uspa1245_399,uspa1245,no,COM-decir él/ella ART E3S-hijo,COM-decir él/ella ART E3S-hijo,xi'j re man rk'lal .
+800,st_test_uspa1245_400,uspa1245,yes,INT-PART INT-PART INT PART-ENF mujer DEM,INT-PART INT-PART INT PART-ENF mujer DEM,neen-ch neen-ch neen chik-i' anim li
+801,st_test_uspa1245_400,uspa1245,no,INT-PART INT-PART INT PART-ENF mujer DEM,INT-PART INT-PART INT PART-ENF mujer DEM,"Neench , neench neen chiki' anm li ,"
+802,st_test_uspa1245_401,uspa1245,yes,DEM PART-ENF mujer nosotros trabajo-AP-SC,DEM PART-ENF mujer nosotros trabajo-AP-SC,ri' chk-i' anim oj chaak-un-k
+803,st_test_uspa1245_401,uspa1245,no,DEM PART-ENF mujer nosotros trabajo-AP-SC,DEM PART-ENF mujer nosotros trabajo-AP-SC,"ri' chki' anm oj chakunk ,"
+804,st_test_uspa1245_402,uspa1245,yes,nosotros trabajo-AP,nosotros trabajo-AP,oj chaak-un
+805,st_test_uspa1245_402,uspa1245,no,nosotros trabajo-AP,nosotros trabajo-AP,"oj chakun ,"
+806,st_test_uspa1245_403,uspa1245,yes,decir él/ella ART,decir él/ella ART,cha' re man
+807,st_test_uspa1245_403,uspa1245,no,decir él/ella ART,decir él/ella ART,"cha' re man ,"
+808,st_test_uspa1245_404,uspa1245,yes,dice él/ella ART hombre,decir él/ella ART hombre,cha' re man wunaq
+809,st_test_uspa1245_404,uspa1245,no,decir él/ella ART hombre,decir él/ella ART hombre,cha' re man wunaq .
+810,st_test_uspa1245_405,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+811,st_test_uspa1245_405,uspa1245,no,decir él/ella,decir él/ella,"cha' re ,"
+812,st_test_uspa1245_406,uspa1245,yes,COM-decir él/ella,COM-decir él/ella,x-i'j re
+813,st_test_uspa1245_406,uspa1245,no,COM-decir él/ella,COM-decir él/ella,xi'j re .
+814,st_test_uspa1245_407,uspa1245,yes,eso@es DEM E1S-mamá,DEM DEM A1S-mamá,ri' ri in-naan
+815,st_test_uspa1245_407,uspa1245,no,eso@es DEM E1S-mamá,DEM DEM A1S-mamá,"Ri' ri innaan ,"
+816,st_test_uspa1245_408,uspa1245,yes,decir él/ella,dice él/ella,cha' re
+817,st_test_uspa1245_408,uspa1245,no,decir él/ella,dice él/ella,cha' re .
+818,st_test_uspa1245_409,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+819,st_test_uspa1245_409,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+820,st_test_uspa1245_410,uspa1245,yes,dice ART mujer él/ella,dice ART mujer él/ella,cha' man anim re
+821,st_test_uspa1245_410,uspa1245,no,dice ART mujer él/ella,dice ART mujer él/ella,cha' man anm re .
+822,st_test_uspa1245_411,uspa1245,yes,COM-venir,COM-venir,x-pet
+823,st_test_uspa1245_411,uspa1245,no,COM-venir,COM-venir,"Xpet ,"
+824,st_test_uspa1245_412,uspa1245,yes,COM-venir ART mujer,COM-venir ART mujer,x-pe man anim
+825,st_test_uspa1245_412,uspa1245,no,COM-venir ART mujer,COM-venir ART mujer,xpe man anm .
+826,st_test_uspa1245_413,uspa1245,yes,eso@es él/ella INT E3S-nombre E2S-mamá,DEM él/ella INT E3S-nombre E2S-mamá,ri' re neen j-b'iij a-naan
+827,st_test_uspa1245_413,uspa1245,no,DEM él/ella INT E3S-decir E2S-mamá,DEM él/ella INT E3S-nombre E2S-mamá,"Ri' re neen jb'ij anaan ,"
+828,st_test_uspa1245_414,uspa1245,yes,dice él/ella Angelica,decir él/ella Angelica,cha' re Angelika
+829,st_test_uspa1245_414,uspa1245,no,dice él/ella Angelica,decir él/ella Angelica,"cha' re Angelika ,"
+830,st_test_uspa1245_415,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+831,st_test_uspa1245_415,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+832,st_test_uspa1245_416,uspa1245,yes,INC-E1S-ver yo,INC-E1S-ver yo,t-w-il in
+833,st_test_uspa1245_416,uspa1245,no,INC-E1S-ver yo,INC-E1S-ver yo,"Twil in ,"
+834,st_test_uspa1245_417,uspa1245,yes,entonces ir-PART ART mujer PREP casa,entonces ir-PART ART mujer PREP casa,toos xe'-chik man anim la jaa
+835,st_test_uspa1245_417,uspa1245,no,entonces ir-PART ART mujer PREP casa,entonces ir-PART ART mujer PREP casa,toos xe'chik man anm la jaa .
+836,st_test_uspa1245_418,uspa1245,yes,E3S-casa PART COM-DIR-E3S-escribir-SC unos papel PART,E3S-casa PART COM-DIR-E3S-escribir-E3S unos papel PART,r-ichoch chik x-e'-j-tz'ib'a-j ni'j wuj chik
+837,st_test_uspa1245_418,uspa1245,no,E3S-casa PART COM-DIR-E3S-escribir-SC unos papel PART,E3S-casa PART COM-DIR-E3S-escribir-E3S unos papel PART,Richoch chik xe'jtz'ib'aj ni'j wuj chik .
+838,st_test_uspa1245_419,uspa1245,yes,COM-venir ART mujer,COM-venir ART mujer,x-pe man anim
+839,st_test_uspa1245_419,uspa1245,no,COM-venir ART mujer,COM-venir ART mujer,"xpe man anm ,"
+840,st_test_uspa1245_420,uspa1245,yes,ir,ir,xe'
+841,st_test_uspa1245_420,uspa1245,no,ir,ir,xe'.
+842,st_test_uspa1245_421,uspa1245,yes,INC-E1S-ver yo DEM ART ART ART marimar,INC-E1S-ver yo DEM ART ART ART Marimar,t-w-il in ri man maa man Marimar
+843,st_test_uspa1245_421,uspa1245,no,INC-SREL yo DEM ART ART ART marimar,INC-E1S-ver yo DEM ART ART ART Marimar,"Twil in ri man , maa man Marimar"
+844,st_test_uspa1245_422,uspa1245,yes,COM-estar E1P-SREL antiguamente,COM-estar E1P-SREL antiguamente,x-wa'x q-ik'il ójor
+845,st_test_uspa1245_422,uspa1245,no,COM-estar E1P-SREL antiguamente,COM-estar E1P-SREL antiguamente,"xwa'x qik'il ójor ,"
+846,st_test_uspa1245_423,uspa1245,yes,dice ART-E3S mamá él/ella,decir ART-E3S mamá él/ella,cha' ma-j chuuch re
+847,st_test_uspa1245_423,uspa1245,no,dice ART-E3S mamá él/ella,decir ART-E3S mamá él/ella,cha' maj chuuch re .
+848,st_test_uspa1245_424,uspa1245,yes,no DEM NEG,no DEM NEG,noo ri' ta'n
+849,st_test_uspa1245_424,uspa1245,no,no DEM NEG,no DEM NEG,"Noo ri' ta'n ,"
+850,st_test_uspa1245_425,uspa1245,yes,decir,decir,cha'
+851,st_test_uspa1245_425,uspa1245,no,decir,decir,"cha',"
+852,st_test_uspa1245_426,uspa1245,yes,dice,decir,cha'
+853,st_test_uspa1245_426,uspa1245,no,dice,decir,cha'.
+854,st_test_uspa1245_427,uspa1245,yes,él/ella COM-venir PART ART,él/ella COM-venir PART ART,re x-pe chik man
+855,st_test_uspa1245_427,uspa1245,no,él/ella COM-venir PART ART,él/ella COM-venir PART ART,"Re xpe chik man ,"
+856,st_test_uspa1245_428,uspa1245,yes,COM-venir ART hombre,COM-venir ART hombre,x-pe man wunaq
+857,st_test_uspa1245_428,uspa1245,no,COM-venir ART hombre,COM-venir ART hombre,xpe man wunaq .
+858,st_test_uspa1245_429,uspa1245,yes,derrepente PART uno casa DEM,de@repente PART uno casa DEM,pent ko' jun jaa li
+859,st_test_uspa1245_429,uspa1245,no,derrepente PART uno casa DEM,de@repente PART uno casa DEM,Pent ko' jun jaa li
+860,st_test_uspa1245_430,uspa1245,yes,dónde INC-estar E2S-mamá,dónde INC-estar E2S-mamá,lamas t-wa'x a-naan
+861,st_test_uspa1245_430,uspa1245,no,dónde INC-estar E2S-mamá,dónde INC-estar E2S-mamá,"lamas twa'x anaan ,"
+862,st_test_uspa1245_431,uspa1245,yes,compañero E2S-papá,compañero E2S-papá,pech a-qaaj
+863,st_test_uspa1245_431,uspa1245,no,compañero E2S-papá,compañero E2S-papá,"pech aqaaj ,"
+864,st_test_uspa1245_432,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+865,st_test_uspa1245_432,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+866,st_test_uspa1245_433,uspa1245,yes,esta@bien,bueno,jaan
+867,st_test_uspa1245_433,uspa1245,no,esta@bien,bueno,"Jaan ,"
+868,st_test_uspa1245_434,uspa1245,yes,decir ART,decir ART,cha' man
+869,st_test_uspa1245_434,uspa1245,no,decir ART,decir ART,"cha' man ,"
+870,st_test_uspa1245_435,uspa1245,yes,decir ART,decir ART,cha' man
+871,st_test_uspa1245_435,uspa1245,no,decir ART,decir ART,"cha' man ,"
+872,st_test_uspa1245_436,uspa1245,yes,ART angelica COM-DIR-estar PREP E3S-casa,ART Angelica COM-DIR-estar PREP-E3S E3S-casa,man Angelika x-i'-wa'x la-j r-ichoch
+873,st_test_uspa1245_436,uspa1245,no,ART angelica ir PREP E3S-casa,ART Angelica COM-DIR-estar PREP-E3S E3S-casa,man Angelika xi'wa'x laj richoch .
+874,st_test_uspa1245_437,uspa1245,yes,INC-E1S-ver yo DEM ART Marimar,INC-E1S-ver yo DEM ART Marimar,t-w-il iin ri' man Marimar
+875,st_test_uspa1245_437,uspa1245,no,INC-SREL yo DEM ART Marimar,INC-E1S-ver yo DEM ART Marimar,"Twil in ri' man Marimar ,"
+876,st_test_uspa1245_438,uspa1245,yes,porque EXS INC-enseñar-AP PREP-E3S rostro DEM-ENF,porque EXS INC-enseñar-AP PREP-E3S cara DEM-ENF,porke wi' t-k'ut-un la-j keyb'el ri-i'n
+877,st_test_uspa1245_438,uspa1245,no,porque EXS INC-enseñar-AP PREP rostro DEM-ENF,porque EXS INC-enseñar-AP PREP-E3S cara DEM-ENF,"porke wi' tk'utun laj keyb'el rii'n ,"
+878,st_test_uspa1245_439,uspa1245,yes,decir ART Angelica él/ella ART Sergio,decir ART Angelica él/ella ART Sergio,cha' man Angelika re man Sergiyo
+879,st_test_uspa1245_439,uspa1245,no,decir ART Angelica él/ella ART Sergio,decir ART Angelica él/ella ART Sergio,cha' man Angelika re man Sergiyo .
+880,st_test_uspa1245_440,uspa1245,yes,DEM NEG,DEM NEG,ri' ta'n
+881,st_test_uspa1245_440,uspa1245,no,DEM NEG,DEM NEG,"Ri' ta'n ,"
+882,st_test_uspa1245_441,uspa1245,yes,dice ART Sergio él/ella,decir ART Sergio él/ella,cha' man Sergiyo re
+883,st_test_uspa1245_441,uspa1245,no,dice ART Sergio él/ella,decir ART Sergio él/ella,cha' man Sergiyo re .
+884,st_test_uspa1245_442,uspa1245,yes,COM-venir PART ART Angelica,COM-venir PART ART Angelica,x-pe chik man Angelika
+885,st_test_uspa1245_442,uspa1245,no,COM-venir PART ART Angelica,COM-venir PART ART Angelica,Xpe chik man Angelika .
+886,st_test_uspa1245_443,uspa1245,yes,DEM DEM INC-enseñar-AP PREP-E3S cara DEM-ENF,DEM DEM INC-ver-AP PREP-E3S cara DEM-ENF,ri' ri t-k'utun-un la-j keyb'el ri-ii'n
+887,st_test_uspa1245_443,uspa1245,no,DEM DEM INC-notar-AP PREP cara-INS DEM-ENF,DEM DEM INC-ver-AP PREP-E3S cara DEM-ENF,"ri' ri tkutun laj keyb'el rii'n ,"
+888,st_test_uspa1245_444,uspa1245,yes,decir él/ella decir,decir él/ella dice,cha' re cha'
+889,st_test_uspa1245_444,uspa1245,no,decir él/ella decir,decir él/ella dice,cha' re cha'.
+890,st_test_uspa1245_445,uspa1245,yes,él/ella ART DEM NEG,SREL ART DEM NEG,re man ri' ta'n
+891,st_test_uspa1245_445,uspa1245,no,él/ella ART DEM NEG,SREL ART DEM NEG,"Re man ri' ta'n ,"
+892,st_test_uspa1245_446,uspa1245,yes,dice,decir,cha'
+893,st_test_uspa1245_446,uspa1245,no,dice,decir,"cha',"
+894,st_test_uspa1245_447,uspa1245,yes,PART ART marima,PART ART Marimar,ruk' man Marimar
+895,st_test_uspa1245_447,uspa1245,no,PART ART marima,PART ART Marimar,"ruk' man Marimar ,"
+896,st_test_uspa1245_448,uspa1245,yes,INC-E3S-conocer-ENF E3S-SREL,INC-E3S-conocer-ENF E3S-cara,ti-j-ch'eb'-aa j-wiich
+897,st_test_uspa1245_448,uspa1245,no,INC-E3S-conocer-ENF E3S-SREL,INC-E3S-conocer-ENF E3S-cara,"tijch'eb'aa jwich ,"
+898,st_test_uspa1245_449,uspa1245,yes,decir,decir,cha'
+899,st_test_uspa1245_449,uspa1245,no,decir,decir,cha'.
+900,st_test_uspa1245_450,uspa1245,yes,tú/usted,tú/usted,aat
+901,st_test_uspa1245_450,uspa1245,no,tú/usted,tú/usted,"At ,"
+902,st_test_uspa1245_451,uspa1245,yes,tú/usted-SC DEM Angelica,tú/usted-ENF DEM Angelica,at-i' ri Angelika
+903,st_test_uspa1245_451,uspa1245,no,tú/usted-ENF DEM Angelica,tú/usted-ENF DEM Angelica,"¿ati' ri Angelika ?,"
+904,st_test_uspa1245_452,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+905,st_test_uspa1245_452,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+906,st_test_uspa1245_453,uspa1245,yes,yo-ENF,yo-ENF,iin-i'n
+907,st_test_uspa1245_453,uspa1245,no,yo-ENF,yo-ENF,"Iini'n ,"
+908,st_test_uspa1245_454,uspa1245,yes,decir,decir,cha'
+909,st_test_uspa1245_454,uspa1245,no,decir,decir,cha'.
+910,st_test_uspa1245_455,uspa1245,yes,ha,CONJ,a'
+911,st_test_uspa1245_455,uspa1245,no,ha,CONJ,"A',"
+912,st_test_uspa1245_456,uspa1245,yes,decir ART Marimar él/ella,decir ART Marimar él/ella,cha' man Marimar re
+913,st_test_uspa1245_456,uspa1245,no,decir ART Marimar él/ella,decir ART Marimar él/ella,cha' man Marimar re .
+914,st_test_uspa1245_457,uspa1245,yes,entonces tú/usted-ENF E2S-hijo-ENF ART Sergio,entonces tú/usted-ENF E2S-hijo-ENF ART Sergio,toos aat-i' aw-k'lal-i' man Sergiyo
+915,st_test_uspa1245_457,uspa1245,no,entonces tú/usted-ENF E2S-hijo-ENF ART Sergio,entonces tú/usted-ENF E2S-hijo-ENF ART Sergio,Toos aati' awk'lali' man Sergiyo .
+916,st_test_uspa1245_458,uspa1245,yes,E1S-hijo-ENF,E1S-hijo-ENF,w-ik'lal-i'n
+917,st_test_uspa1245_458,uspa1245,no,E1S-hijo-ENF,E1S-hijo-ENF,Wik'lali'n .
+918,st_test_uspa1245_459,uspa1245,yes,CONJ E2S-esposo ART Renato,CONJ E2S-esposo ART Renato,i aw-ichjil man Renato
+919,st_test_uspa1245_459,uspa1245,no,CONJ E2S-esposo ART renato,CONJ E2S-esposo ART Renato,I awichjil man Renato .
+920,st_test_uspa1245_460,uspa1245,yes,E1S-esposo-ENF,E1S-esposo-ENF,w-ichjil-i'n
+921,st_test_uspa1245_460,uspa1245,no,E1S-esposo-ENF,E1S-esposo-ENF,Wichjili'n .
+922,st_test_uspa1245_461,uspa1245,yes,entonces tú/usted-ENF DEM,entonces tú/usted-ENF DEM,tons aat-i' ri
+923,st_test_uspa1245_461,uspa1245,no,entonces tú/usted-ENF DEM,entonces tú/usted-ENF DEM,"Tons aati' ri ,"
+924,st_test_uspa1245_462,uspa1245,yes,tú/usted-ENF DEM COM-E2S-hacer PL daño INC-SREL antiguamente,tú/usted-ENF DEM COM-E2S-hacer PL daño INC-SREL antiguamente,aat-i' ri x-a-'an taq k'ex ch-we ójor
+925,st_test_uspa1245_462,uspa1245,no,tú/usted-ENF DEM COM-E2S-hacer PL daño INC-E1S-SREL antiguamente,tú/usted-ENF DEM COM-E2S-hacer PL daño INC-SREL antiguamente,"aati' ri xa'an taq k'ex chuwe ójor ,"
+926,st_test_uspa1245_463,uspa1245,yes,decir ART,decir ART,cha' man
+927,st_test_uspa1245_463,uspa1245,no,decir ART,decir ART,"cha' man ,"
+928,st_test_uspa1245_464,uspa1245,yes,dice ART Marimar él/ella,decir ART Marimar él/ella,cha' man Marimar re
+929,st_test_uspa1245_464,uspa1245,no,dice ART Marimar él/ella,decir ART Marimar él/ella,cha' man Marimar re .
+930,st_test_uspa1245_465,uspa1245,yes,PART COM-oir ART Angelica DEM DEM,PART COM-oir ART Angelica DEM DEM,ruk' x-ta man Angelika jilon li
+931,st_test_uspa1245_465,uspa1245,no,PART COM-oir ART Angelica DEM DEM,PART COM-oir ART Angelica DEM DEM,Ruk' xta man Angelika jinon li .
+932,st_test_uspa1245_466,uspa1245,yes,arrodillar-ITR-SC,garabato-ITR-SC,xuk-er-ik
+933,st_test_uspa1245_466,uspa1245,no,arrodillar-ITR-SC,garabato-ITR-SC,Xukerik .
+934,st_test_uspa1245_467,uspa1245,yes,dios perdonar E1S-pecado,dios perdonar A1S-pecado,yoos kuy in-maak
+935,st_test_uspa1245_467,uspa1245,no,Dios perdonar E1S-pecado,dios perdonar A1S-pecado,"Yoos kuy inmak ,"
+936,st_test_uspa1245_468,uspa1245,yes,perdonar E1S-pecado nosotros-ENF DEM COM-E1P-hacer dolor INC-E2S-SREL,perdonar A1S-pecado somos-ENF DEM COM-E1P-hacer dolor INC-E2S-SREL,kuy in-maak oj-i' ri x-qa-'an k'ex ch-aw-e
+937,st_test_uspa1245_468,uspa1245,no,perdonar E1S-pecado nosotros-ENF DEM COM-E1P-hacer dolor INC-E2S-SREL,perdonar A1S-pecado somos-ENF DEM COM-E1P-hacer dolor INC-E2S-SREL,kuy inmak oji' ri xqa'an k'ex chawe .
+938,st_test_uspa1245_469,uspa1245,yes,pero hora perdonar E1P-pecado,pero ahora perdonar E1P-pecado,per ori kuy qa-maak
+939,st_test_uspa1245_469,uspa1245,no,pero hora perdonar E1P-pecado,pero ahora perdonar E1P-pecado,"Per ori kuy qamak ,"
+940,st_test_uspa1245_470,uspa1245,yes,decir,decir,cha'
+941,st_test_uspa1245_470,uspa1245,no,decir,decir,"cha',"
+942,st_test_uspa1245_471,uspa1245,yes,COM-venir COM-recibir,COM-venir COM-recibir,x-pet x-k'om
+943,st_test_uspa1245_471,uspa1245,no,COM-venir COM-recibir,COM-venir COM-recibir,"xpet xk'om ,"
+944,st_test_uspa1245_472,uspa1245,yes,arrodillar-ITR PREP-SREL uno Marimar,garabato-ITR PREP-SREL uno Marimar,xuk-er ch-uch jun Marimar
+945,st_test_uspa1245_472,uspa1245,no,arrodillar-ITR PREP-SREL uno Marimar,garabato-ITR PREP-SREL uno Marimar,xuker chuch jun Marimar .
+946,st_test_uspa1245_473,uspa1245,yes,COM-recibir E3S-mano,COM-recibir E3S-mano,x-k'am j-q'aab'
+947,st_test_uspa1245_473,uspa1245,no,COM-recibir E3S-mano,COM-recibir E3S-mano,"Xk'am jq'ab',"
+948,st_test_uspa1245_474,uspa1245,yes,besar E3S-mano,oler E3S-mano,siq j-q'aab'
+949,st_test_uspa1245_474,uspa1245,no,besar E3S-mano,oler E3S-mano,"siq jq'ab',"
+950,st_test_uspa1245_475,uspa1245,yes,COM-besar E3S-mano,COM-beso E3S-mano,x-tz'ub' j-q'aab'
+951,st_test_uspa1245_475,uspa1245,no,COM-besar E3S-mano,COM-beso E3S-mano,"xtz'ub' jq'ab',"
+952,st_test_uspa1245_476,uspa1245,yes,compañero E3S-pies Miramar,compañero E3S-pies Marimar,pech r-qan Marimar
+953,st_test_uspa1245_476,uspa1245,no,compañero E3S-pies Miramar,compañero E3S-pies Marimar,pech rqan Marimar .
+954,st_test_uspa1245_477,uspa1245,yes,arrodillar-ITR PREP-SREL,garaabto-ITR PREP-SREL,xuk-er ch-uch
+955,st_test_uspa1245_477,uspa1245,no,arrodillar-ITR enfrente@de,garaabto-ITR PREP-SREL,Xuker chuch .
+956,st_test_uspa1245_478,uspa1245,yes,no NEG INC-E1S-querer tú/usted arrodillar-ITR PREP-E1S-SREL,no NEG INC-E1S-querer tú/usted garabato-ITR PREP-E1S-SREL,noo ta' ch-uw-aaj aat xuk-er ch-i'n-wch
+957,st_test_uspa1245_478,uspa1245,no,no NEG INC-querer tú/usted arrodillar-ITR PREP-E2S-SREL,no NEG INC-E1S-querer tú/usted garabato-ITR PREP-E1S-SREL,"Noo ta' chuwaj aat xuker chinwch ,"
+958,st_test_uspa1245_479,uspa1245,yes,loque COM-hacer-ENF,loque COM-hacer-ENF,loke x-an-a'n
+959,st_test_uspa1245_479,uspa1245,no,loque COM-hacer-ENF,loque COM-hacer-ENF,"loke xana'n ,"
+960,st_test_uspa1245_480,uspa1245,yes,loque COM-E2S-hacer INC-SREL yo,loque COM-E2S-hacer INC-SREL yo,loke x-a-b'an ch-we iin
+961,st_test_uspa1245_480,uspa1245,no,loque COM-E2S-hacer INC-SREL yo,loque COM-E2S-hacer INC-SREL yo,loke xab'an chwe iin .
+962,st_test_uspa1245_481,uspa1245,yes,NEG INC-olvidar INC-SREL,NEG INC-perder INC-SREL,ta' t-sach ch-we
+963,st_test_uspa1245_481,uspa1245,no,NEG INC-olvidar INC-SREL,NEG INC-perder INC-SREL,Ta' tsach chwe .
+964,st_test_uspa1245_482,uspa1245,yes,CONJ yo NEG modo INC-olvidar INC-SREL,CONJ yo NEG modo INC-perder INC-SREL,i iin ta' moo t-sach ch-we
+965,st_test_uspa1245_482,uspa1245,no,CONJ yo NEG modo INC-olvidar INC-SREL,CONJ yo NEG modo INC-perder INC-SREL,"I iin ta' moo tsach chwe ,"
+966,st_test_uspa1245_483,uspa1245,yes,porque poco dolor COM-E2S-hacer INC-SREL,por-que poco dolor COM-E2S-hacer INC-SREL,por-k pok k'ex x-a-'an ch-we
+967,st_test_uspa1245_483,uspa1245,no,porque poco dolor COM-E2S-hacer INC-SREL,por-que poco dolor COM-E2S-hacer INC-SREL,"pork pok k'ex xa'an chwe ,"
+968,st_test_uspa1245_484,uspa1245,yes,decir ART Marimar él/ella,decir ART Marimar PART,cha' man Marimar re
+969,st_test_uspa1245_484,uspa1245,no,decir ART Marimar él/ella,decir ART Marimar PART,cha' man Marimar re .
+970,st_test_uspa1245_485,uspa1245,yes,no perdonar E1S-culpa,no perdonar A1S-pecado,noo kuy in-maak
+971,st_test_uspa1245_485,uspa1245,no,no perdonar E1S-culpa,no perdonar A1S-pecado,"Noo kuy inmak ,"
+972,st_test_uspa1245_486,uspa1245,yes,perdonar A1S-culpa,perdonar A1S-culpa,kuy in-maak
+973,st_test_uspa1245_486,uspa1245,no,perdonar E1S-culpa,perdonar A1S-culpa,"kuy inmak ,"
+974,st_test_uspa1245_487,uspa1245,yes,INC-decir él/ella,INC-decir él/ella,t-cha' re
+975,st_test_uspa1245_487,uspa1245,no,INC-decir él/ella,INC-decir él/ella,tcha' re .
+976,st_test_uspa1245_488,uspa1245,yes,no levantar-AP,no levantar-AP,noo b'it-en
+977,st_test_uspa1245_488,uspa1245,no,no levantar-IMP,no levantar-AP,"Noo b'iten ,"
+978,st_test_uspa1245_489,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+979,st_test_uspa1245_489,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+980,st_test_uspa1245_490,uspa1245,yes,esta@bien,bueno,jaan
+981,st_test_uspa1245_490,uspa1245,no,esta@bien,bueno,"Jaan ,"
+982,st_test_uspa1245_491,uspa1245,yes,decir,decir,cha'
+983,st_test_uspa1245_491,uspa1245,no,decir,decir,"cha',"
+984,st_test_uspa1245_492,uspa1245,yes,COM-levantar mejor llorar llorar,COM-levantar mejor llorar llorar,x-b'it jor t'oq' toq'
+985,st_test_uspa1245_492,uspa1245,no,COM-levantar mejor llorar llorar,COM-levantar mejor llorar llorar,"xb'it jor t'oq', t'oq'."
+986,st_test_uspa1245_493,uspa1245,yes,COM-venir-ENF COM-venir ART,COM-venir-ENF COM-venir ART,x-pet-i' x-pet man
+987,st_test_uspa1245_493,uspa1245,no,COM-venir-ENF COM-venir ART,COM-venir-ENF COM-venir ART,"Xpeti , xpet man ,"
+988,st_test_uspa1245_494,uspa1245,yes,COM-venir ART Marimar,COM-venir ART Marimar,x-pe man Marimar
+989,st_test_uspa1245_494,uspa1245,no,COM-venir ART Marimar,COM-venir ART Marimar,xpe man Marimar .
+990,st_test_uspa1245_495,uspa1245,yes,esta@bien PART E2S-trabajo-PL DEM,esta@bien aqui@esta E2S-trabajo-PL DEM,tawen ko' a-chaak-aq li
+991,st_test_uspa1245_495,uspa1245,no,esta@bien PART E2S-trabajo-PL DEM,esta@bien aqui@esta E2S-trabajo-PL DEM,"Tawen ko' achaakaq li ,"
+992,st_test_uspa1245_496,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+993,st_test_uspa1245_496,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+994,st_test_uspa1245_497,uspa1245,yes,despacio despacio,despacio despacio,usil usil
+995,st_test_uspa1245_497,uspa1245,no,despacio despacio,despacio despacio,"Usil , usil"
+996,st_test_uspa1245_498,uspa1245,yes,como EXS PART E3S-trabajo,como EXS PART E3S-trabajo,kom wi' chaq j-chaak
+997,st_test_uspa1245_498,uspa1245,no,como EXS PART E3S-trabajo,como EXS PART E3S-trabajo,"kom wi' chaq jchaak ,"
+998,st_test_uspa1245_499,uspa1245,yes,EXS PART E3S-compañero ART Marimar,EXS PART E3S-compañero ART Marimar,wi' chaq j-pech man Marimar
+999,st_test_uspa1245_499,uspa1245,no,EXS PART E3S-compañero ART Marimar,EXS PART E3S-compañero ART Marimar,wi' chaq jpech man Marimar .
+1000,st_test_uspa1245_500,uspa1245,yes,EXS PART mucho E3S-compañero persona,EXS PART crecer E3S-compañero persona,wi' chaq k'iy j-pech kristyaan
+1001,st_test_uspa1245_500,uspa1245,no,EXS PART mucho E3S-compañero persona,EXS PART crecer E3S-compañero persona,"Wi' chaq k'iy jpech kristyan ,"
+1002,st_test_uspa1245_501,uspa1245,yes,despacio COM-venir PART uno Marimar,despacio COM-venir PART uno Marimar,usil x-pe chik jun Marimar
+1003,st_test_uspa1245_501,uspa1245,no,despacio COM-venir PART uno Marimar,despacio COM-venir PART uno Marimar,"Usil xpe chik jun Marimar ,"
+1004,st_test_uspa1245_502,uspa1245,yes,COM-buscar uno moso,COM-buscar uno moso,x-tok jun moos
+1005,st_test_uspa1245_502,uspa1245,no,COM-buscar uno moso,COM-buscar uno moso,"xtok jun moos ,"
+1006,st_test_uspa1245_503,uspa1245,yes,COM-buscar uno moso,COM-buscar uno moso,x-tok jun moos
+1007,st_test_uspa1245_503,uspa1245,no,COM-buscar uno moso,COM-buscar uno moso,xtok jun moos .
+1008,st_test_uspa1245_504,uspa1245,yes,COM-mandar PART ART-E3S moso,COM-mandar PART ART-E3S moso,x-taq chik ma-j moos
+1009,st_test_uspa1245_504,uspa1245,no,COM-mandar PART ART-E3S moso,COM-mandar PART ART-E3S moso,Xtaq chik maj moos .
+1010,st_test_uspa1245_505,uspa1245,yes,DIR-buscar-SC lodo lodo PART,va-buscar-SC unos lodo PART,b'a-tok-ik ni'j xoq'o'l chik
+1011,st_test_uspa1245_505,uspa1245,no,baya-buscar-SC lodo COM-lodar-PP PART,va-buscar-SC unos lodo PART,B'atokik ni'j xoq'o'l chik .
+1012,st_test_uspa1245_506,uspa1245,yes,CONJ COM-venir PART él/ella,CONJ COM-venir PART él/ella,i x-pe chik re
+1013,st_test_uspa1245_506,uspa1245,no,CONJ COM-venir PART él/ella,CONJ COM-venir PART él/ella,"I xpe chik re ,"
+1014,st_test_uspa1245_507,uspa1245,yes,COM-tirar PART,COM-tirar PART,x-t'oj chik
+1015,st_test_uspa1245_507,uspa1245,no,COM-tirar PART,COM-tirar PART,"xt'oj chik ,"
+1016,st_test_uspa1245_508,uspa1245,yes,COM-hacer PART E3S-mismo PART él/ella ART Angelicale,COM-hacer PART E3S-tuco PART él/ella ART Angelica,x-en chik j-k'ixel chik re man Angelika
+1017,st_test_uspa1245_508,uspa1245,no,COM-hacer PART E3S-mismo PART él/ella ART Angelicale,COM-hacer PART E3S-tuco PART él/ella ART Angelica,xen chik jk'iixel chik re man Angelika .
+1018,st_test_uspa1245_509,uspa1245,yes,INT modo COM-hacer ART Angelica él/ella antiguamente,INT modo COM-hacer ART Angelica él/ella antiguamente,neen moo x-en man Angelika re ójor
+1019,st_test_uspa1245_509,uspa1245,no,INT modo COM-hacer ART Angelica él/ella antiguamente,INT modo COM-hacer ART Angelica él/ella antiguamente,Neen moo xen man Angelika re ójor .
+1020,st_test_uspa1245_510,uspa1245,yes,cuando EXS E3S-SREL ART Sergio,cuando EXS E3S-SREL ART Sergio,kwand wi' r-k'i man Sergiyo
+1021,st_test_uspa1245_510,uspa1245,no,cuando EXS E3S-SREL ART Sergio,cuando EXS E3S-SREL ART Sergio,Kwand wi' rk'i man Sergiyo .
+1022,st_test_uspa1245_511,uspa1245,yes,entonces ART marimar COM-hacer PART E3S-hacer él/ella ART ART Angelica,entonces ART Marimar COM-hacer PART E3S-tuco él/ella ART ART Angelica,toos man Marimar x-en chik j-k'ixel re man man Angelika
+1023,st_test_uspa1245_511,uspa1245,no,entonces ART Marimar COM-hacer PART E3S-hacer-??? él/ella ART ART Angelica,entonces ART Marimar COM-hacer PART E3S-tuco él/ella ART ART Angelica,Toos man Marimar xen chik jk'ixel re man man Angelika .
+1024,st_test_uspa1245_512,uspa1245,yes,INT-modo COM-hacer-PAS él/ella,INT-modo COM-hacer-PAS él/ella,ne-moo x-en-sáj re
+1025,st_test_uspa1245_512,uspa1245,no,INT-modo COM-hacer-PAS él/ella,INT-modo COM-hacer-PAS él/ella,Nemoo xensaj re .
+1026,st_test_uspa1245_513,uspa1245,yes,CONJ él/ella E3S-solo NEG PART-ENF ART E3S-solo NEG PART-ENF,CONJ él/ella E3S-solo NEG PART-ENF ART E3S-solo NEG PART-ENF,i re r-ik'an ta' chik-i' man r-ik'an ta' chik-i'
+1027,st_test_uspa1245_513,uspa1245,no,CONJ él/ella E3S-solo NEG PART-ENF ART E3S-solo NEG PART-ENF,CONJ él/ella E3S-solo NEG PART-ENF ART E3S-solo NEG PART-ENF,"I re rk'an ta' chiki' man rk'an ta' chiki',"
+1028,st_test_uspa1245_514,uspa1245,yes,INT-modo COM-hacer loque ART COM-hacer ART Angelica él/ella,INT-modo COM-hacer loque ART COM-hacer ART Angelica él/ella,ne-moo x-en loke man x-en man Angelika re
+1029,st_test_uspa1245_514,uspa1245,no,INT-modo COM-hacer loque ART COM-hacer ART Angelica él/ella,INT-modo COM-hacer loque ART COM-hacer ART Angelica él/ella,nemoo xen loke man xen man Angelika re .
+1030,st_test_uspa1245_515,uspa1245,yes,si no que él/ella COM-hacer invitar todo ART E3S-compañero licenciado,si no que él/ella COM-hacer invitar todo ART E3S-compañero licenciado,si no ke re x-en inbitar juntiir maq j-pech lisensiyado
+1031,st_test_uspa1245_515,uspa1245,no,si no que él/ella COM-hacer invitar todo ART E3S-compañero licenciado,si no que él/ella COM-hacer invitar todo ART E3S-compañero licenciado,Si no ke re xen inbitar juntir maq jpech lisensiyado .
+1032,st_test_uspa1245_516,uspa1245,yes,todo PREP-SREL todo todo persona,todo PREP-SREL todo todo persona,juntir ch-uch juntir juntir kristyan
+1033,st_test_uspa1245_516,uspa1245,no,todo PREP-SREL todo todo persona,todo PREP-SREL todo todo persona,"Juntir chuch juntir , juntir kristyan ,"
+1034,st_test_uspa1245_517,uspa1245,yes,loque-??? loque COM-hacer ART Angelica él/ella,loque-COM loque COM-hacer ART Angelica él/ella,loke-x loke x-en man Angelika re
+1035,st_test_uspa1245_517,uspa1245,no,loque loque COM-hacer ART Angelica él/ella,loque-COM loque COM-hacer ART Angelica él/ella,lokex loke xen man Angelika re .
+1036,st_test_uspa1245_518,uspa1245,yes,yo INC-A1S-hacer PART él/ella,yo INC-E1S-hacer PART él/ella,iin t-an-b'an chik re
+1037,st_test_uspa1245_518,uspa1245,no,yo INC-A1S-hacer PART él/ella,yo INC-E1S-hacer PART él/ella,"Iin tanb'an chik re ,"
+1038,st_test_uspa1245_519,uspa1245,yes,decir él/ella,decir él/ella,cha' re
+1039,st_test_uspa1245_519,uspa1245,no,decir él/ella,decir él/ella,cha' re .
+1040,st_test_uspa1245_520,uspa1245,yes,COM-hacer PART invotar,COM-hacer PART invitar,x-en chik inbitar
+1041,st_test_uspa1245_520,uspa1245,no,COM-hacer PART invotar,COM-hacer PART invitar,"Xen chik inbitar ,"
+1042,st_test_uspa1245_521,uspa1245,yes,COM-venir él/ella,COM-venir él/ella,x-pe re
+1043,st_test_uspa1245_521,uspa1245,no,COM-venir él/ella,COM-venir él/ella,"xpe re ,"
+1044,st_test_uspa1245_522,uspa1245,yes,COM-decir PART persona,COM-decir PART persona,x-i'j re kristyan
+1045,st_test_uspa1245_522,uspa1245,no,COM-decir él/ella persona,COM-decir PART persona,xi'j re kristyan .
+1046,st_test_uspa1245_523,uspa1245,yes,DEM-DEM COM-hacer ART mujer DEM PREP-SREL antiguamente,DEM-DEM COM-hacer ART mujer DEM PREP-SREL antiguamente,on-li x-en man anim li ch-we ójor
+1047,st_test_uspa1245_523,uspa1245,no,DEM-DEM COM-hacer ART mujer DEM INC-SREL antiguamente,DEM-DEM COM-hacer ART mujer DEM PREP-SREL antiguamente,Onli xen man anm li chwe ójor .
+1048,st_test_uspa1245_524,uspa1245,yes,cuando yo pequeño COM-yo-ir E3S-SREL ART E3S-hijo,cuando yo pequeño COM-E1S-ir E3S-SREL ART E3S-hijo,kwand iin nuch' x-in-b'e r-k'i man r-k'lal
+1049,st_test_uspa1245_524,uspa1245,no,cuando yo pequeño COM-E1S-ir E3S-SREL ART E3S-hijo,cuando yo pequeño COM-E1S-ir E3S-SREL ART E3S-hijo,Kwand iin nuch' xinb'e rk'i man rk'lal .
+1050,st_test_uspa1245_525,uspa1245,yes,DEM DEM COM-hacer INC-SREL,DEM DEM COM-hacer PREP-SREL,jlon li x-en ch-we
+1051,st_test_uspa1245_525,uspa1245,no,DEM DEM COM-hacer INC-SREL,DEM DEM COM-hacer PREP-SREL,Jnon li xen chwe .
+1052,st_test_uspa1245_526,uspa1245,yes,CONJ hora INC-A1S-hacer yo E3S-mismo él/ella,CONJ ahora INC-E1S-hacer yo E3S-tuco él/ella,i ori t-in-b'an iin j-k'ixel re
+1053,st_test_uspa1245_526,uspa1245,no,CONJ hora INC-A1S-hacer yo E3S-mismo-??? él/ella,CONJ ahora INC-E1S-hacer yo E3S-tuco él/ella,I ori tinb'an iin jk'ixel re .
+1054,st_test_uspa1245_527,uspa1245,yes,pero solo-NEG PART-ENF,pero E1S-sola-NEG PART-ENF,per u-k'an-ta' chik-i'
+1055,st_test_uspa1245_527,uspa1245,no,pero solo-NEG PART-ENF,pero E1S-sola-NEG PART-ENF,"Per uk'anta' chiki',"
+1056,st_test_uspa1245_528,uspa1245,yes,yo INC-E1S-hacer,yo INC-E1S-hacer,iin t-in-a'n
+1057,st_test_uspa1245_528,uspa1245,no,yo INC-E1S-hacer,yo INC-E1S-hacer,"iin tina'n ,"
+1058,st_test_uspa1245_529,uspa1245,yes,yo PREP-SREL,yo PREP-SREL,iin ch-uch
+1059,st_test_uspa1245_529,uspa1245,no,yo PREP-SREL,yo PREP-SREL,iin chuch
+1060,st_test_uspa1245_530,uspa1245,yes,no@que PREP-E2S-SREL tú/usted-PL todo,no@que PREP-E2S-SREL E2P-PL todo,noke ch-aw-ch at-aq juntiir
+1061,st_test_uspa1245_530,uspa1245,no,no@que PREP-E2S-SREL ustedes todo,no@que PREP-E2S-SREL E2P-PL todo,noke chawch ataq juntir .
+1062,st_test_uspa1245_531,uspa1245,yes,INC-E2S-ver PL INT modo COM-hacer yo INC-SREL,INC-E2S-ver PL INT modo COM-hacer yo INC-SREL,t-aw-il taq neen moo x-en iin ch-we
+1063,st_test_uspa1245_531,uspa1245,no,INC-E2S-ver PL INT modo COM-hacer yo INC-SREL,INC-E2S-ver PL INT modo COM-hacer yo INC-SREL,"Tawil taq neen moo xen iin chwe ,"
+1064,st_test_uspa1245_532,uspa1245,yes,decir,decir,cha'
+1065,st_test_uspa1245_532,uspa1245,no,decir,decir,cha'.
+1066,st_test_uspa1245_533,uspa1245,yes,CONJ hora INC-yo-ENF E3S-hacer él/ella,CONJ hora INC-E1S-hacer E3S-tuco él/ella,i ori t-in-a'n j-k'ixel re
+1067,st_test_uspa1245_533,uspa1245,no,CONJ hora INC-E1S-ENF E3S-terminar-PP él/ella,CONJ hora INC-E1S-hacer E3S-tuco él/ella,"I ori tina'n jk'ixel re ,"
+1068,st_test_uspa1245_534,uspa1245,yes,decir,decir,cha'
+1069,st_test_uspa1245_534,uspa1245,no,decir,decir,cha'
+1070,st_test_uspa1245_535,uspa1245,yes,decir ART Marimar,decir ART Marimar,cha' man Marimar
+1071,st_test_uspa1245_535,uspa1245,no,decir ART Marimar,decir ART Marimar,cha' man Marimar .
+1072,st_test_uspa1245_536,uspa1245,yes,COM-venir PART él/ella,COM-venir PART él/ella,x-pe chik re
+1073,st_test_uspa1245_536,uspa1245,no,COM-venir PART él/ella,COM-venir PART él/ella,"Xpe chik re ,"
+1074,st_test_uspa1245_537,uspa1245,yes,COM-tirar PART unos,COM-tirar PART unos,x-t'oj chik ni'j
+1075,st_test_uspa1245_537,uspa1245,no,COM-tirar PART unos,COM-tirar PART unos,"xt'o'j chik ni'j ,"
+1076,st_test_uspa1245_538,uspa1245,yes,uno collar uno collar,uno collar uno collar,jun uu jun uu
+1077,st_test_uspa1245_538,uspa1245,no,uno collar uno collar,uno collar uno collar,jun uu jun uu
+1078,st_test_uspa1245_539,uspa1245,yes,compañero otros cosas PART DEM SREL,compañero unos cosas PART PREP lodo,pech ni'j qelen chik li xoq'o'l
+1079,st_test_uspa1245_539,uspa1245,no,compañero otros cosas PART DEM COM-lodo-SAB,compañero unos cosas PART PREP lodo,pech ni'j qelen chik li xoq'o'l .
+1080,st_test_uspa1245_540,uspa1245,yes,INC-E2S-sacar-PAS ART collar DEM,INC-E2S-sacar-PAS ART collar DEM,t-aw-e-saj man uu ri
+1081,st_test_uspa1245_540,uspa1245,no,INC-E2S-sacar-SC ART collar DEM,INC-E2S-sacar-PAS ART collar DEM,Tawesaj man uu rii .
+1082,st_test_uspa1245_541,uspa1245,yes,CONJ INC-E2S-sentir-SC enseñar,CONJ INC-E2S-sentir-SC PART,i t-aw-ik'aa-j k'ut
+1083,st_test_uspa1245_541,uspa1245,no,CONJ INC-E2S-sentir-SC enseñar,CONJ INC-E2S-sentir-SC PART,"I tawik'aaj k'ut ,"
+1084,st_test_uspa1245_542,uspa1245,yes,loque NEG bueno COM-E2S-hacer INC-E1S-SREL-ENF,loque NEG bueno COM-E2S-hacer PREP-E1S-SREL-yo,loke ta' tzii x-a-b'an ch-w-e-i'n
+1085,st_test_uspa1245_542,uspa1245,no,loque NEG bueno COM-E2S-hacer PREP-E1S-yo,loque NEG bueno COM-E2S-hacer PREP-E1S-SREL-yo,loke ta' tzii xab'an chuweyin .
+1086,st_test_uspa1245_543,uspa1245,yes,CONJ INC-E2S-sentir-SC enseñar NEG dolor COM-E2S-hacer INC-SREL-ENF,CONJ INC-E2S-sentir-SC PART NEG dolor COM-E2S-hacer PREP-E1S-SREL-yo,i t-aw-ik'aa-j k'ut ta' k'ex x-a-b'an ch-w-e-i'n
+1087,st_test_uspa1245_543,uspa1245,no,CONJ INC-E2S-sentir-PAS dolor NEG dolor COM-E2S-hacer PREP-E1S-yo,CONJ INC-E2S-sentir-SC PART NEG dolor COM-E2S-hacer PREP-E1S-SREL-yo,"I tawik'aaj k'ut ta' k'ex xab'an chuweyin ,"
+1088,st_test_uspa1245_544,uspa1245,yes,decir ART Marimar él/ella,decir ART Marimar él/ella,cha' man Marimar re
+1089,st_test_uspa1245_544,uspa1245,no,decir ART Marimar él/ella,decir ART Marimar él/ella,cha' man Marimar re .
+1090,st_test_uspa1245_545,uspa1245,yes,esta@bien,bueno,jaan
+1091,st_test_uspa1245_545,uspa1245,no,esta@bien,bueno,"Jaan ,"
+1092,st_test_uspa1245_546,uspa1245,yes,decir,decir,cha'
+1093,st_test_uspa1245_546,uspa1245,no,decir,decir,"cha',"
+1094,st_test_uspa1245_547,uspa1245,yes,COM-ir hablar-SC PL Marimar,COM-decir hablarle-E3S PL Marimar,x-ij ch'ab'e-j taq Marimar
+1095,st_test_uspa1245_547,uspa1245,no,COM-DIR-E3S hablar-SC PL Marimar,COM-decir hablarle-E3S PL Marimar,xij ch'ab'ej taq Marimar
+1096,st_test_uspa1245_548,uspa1245,yes,compañero ART-E3S E3S-esposo,compañero ART-E3S E3S-esposo,pech ma-j r-ichjil
+1097,st_test_uspa1245_548,uspa1245,no,compañero ART-E3S E3S-esposo,compañero ART-E3S E3S-esposo,pech maj richjil .
+1098,st_test_uspa1245_549,uspa1245,yes,INT-modo INC-E2S-hacer PART E1S-mamá DEM DEM,INT-modo INC-E2S-hacer él/ella E1S-mamá DEM DEM,ne-moo t-a-b'an re in-naan jnon li
+1099,st_test_uspa1245_549,uspa1245,no,INT-modo INC-E2S-hacer PART E1S-mamá DEM DEM,INT-modo INC-E2S-hacer él/ella E1S-mamá DEM DEM,"Nemoo ta'an re innaan jnon li ,"
+1100,st_test_uspa1245_550,uspa1245,yes,perdonar E3S-pecado,perdonar E3S-pecado,kuy j-maak
+1101,st_test_uspa1245_550,uspa1245,no,perdonar E3S-pecado,perdonar E3S-pecado,"kuy jmak ,"
+1102,st_test_uspa1245_551,uspa1245,yes,perdonar E3S-pecado,perder E3S-pecado,sach j-mak
+1103,st_test_uspa1245_551,uspa1245,no,perdonar E3S-pecado,perder E3S-pecado,"sech jmak ,"
+1104,st_test_uspa1245_552,uspa1245,yes,él/ella NEG E3S-conocimiento loque COM-hacer INC-E2S-SREL antiguamente,él/ella NEG E3S-conocimiento loque COM-hacer INC-E2S-SREL antiguamente,re ta' r-etam loke x-en ch-aw-e ójor
+1105,st_test_uspa1245_552,uspa1245,no,él/ella NEG E3S-conocimiento loque COM-hacer INC-E2S-SREL antiguamente,él/ella NEG E3S-conocimiento loque COM-hacer INC-E2S-SREL antiguamente,re ta' retam loke xen chawe ójor .
+1106,st_test_uspa1245_553,uspa1245,yes,pero hora perdonar E1P-pecado,pero ahora perdonar E1P-pecado,per ori kuy qa-mak
+1107,st_test_uspa1245_553,uspa1245,no,pero hora perdonar E1P-pecado,pero ahora perdonar E1P-pecado,"Per ori kuy qamak ,"
+1108,st_test_uspa1245_554,uspa1245,yes,arrodillar-ITR PL PREP-SREL,garabato-ITR PL PREP-SREL,xuk-er taq ch-uch
+1109,st_test_uspa1245_554,uspa1245,no,arrodillar-ITR PL PREP-SREL,garabato-ITR PL PREP-SREL,"xuker taq chuch ,"
+1110,st_test_uspa1245_555,uspa1245,yes,dice,decir,cha'
+1111,st_test_uspa1245_555,uspa1245,no,dice,decir,cha'.
+1112,st_test_uspa1245_556,uspa1245,yes,no NEG INC-E1S-perdonar E2S-pecado-PL,no NEG INC-E1S-perdonar E2S-pecado-PL,noo ta' t-an-kuy a-mak-aq
+1113,st_test_uspa1245_556,uspa1245,no,no NEG INC-E1S-perdonar E2S-pecado-PL,no NEG INC-E1S-perdonar E2S-pecado-PL,"Noo ta' tankuy amakaq ,"
+1114,st_test_uspa1245_557,uspa1245,yes,porque poco dolor COM-E2S-hacer PL INC-SREL,por-que poco dolor COM-E2S-hacer PL INC-SREL,por-k pok k'ex x-a-b'an taq ch-we
+1115,st_test_uspa1245_557,uspa1245,no,porque poco daño COM-E2S-hacer PL INC-SREL,por-que poco dolor COM-E2S-hacer PL INC-SREL,pork pok k'ex xab'an taq chwe .
+1116,st_test_uspa1245_558,uspa1245,yes,CONJ asta COM-E2S-quemar-ENF PL AFE E1S-papá,CONJ asta COM-E2S-quemar-ENF PL AFE A1S-papá,i ast x-a-k'at-e' taq tzik' in-taat
+1117,st_test_uspa1245_558,uspa1245,no,CONJ asta COM-E2S-quemar-ENF PL AFE E1S-papá,CONJ asta COM-E2S-quemar-ENF PL AFE A1S-papá,I ast xak'ate' taq tzik' intaat .
+1118,st_test_uspa1245_559,uspa1245,yes,CONJ AFE E1S-abuelo,CONJ AFE E1S-abuelo,i tzik' in-maam
+1119,st_test_uspa1245_559,uspa1245,no,CONJ AFE E1S-abuelo,CONJ AFE E1S-abuelo,"I tzik' inmaam ,"
+1120,st_test_uspa1245_560,uspa1245,yes,poco ya viejo PART,poco ya viejo PART,pok ya ri'j chaq
+1121,st_test_uspa1245_560,uspa1245,no,poco ya viejo PART,poco ya viejo PART,"pok ya ri'j chaq ,"
+1122,st_test_uspa1245_561,uspa1245,yes,COM-E2S-quemar-ENF PL E3S-casa,COM-E2S-quemar-ENF PL E3S-casa,x-a-k'at-e' taq r-ichoch
+1123,st_test_uspa1245_561,uspa1245,no,COM-E2S-quemar-ENF PL E3S-casa,COM-E2S-quemar-ENF PL E3S-casa,xak'ate' taq richoch .
+1124,st_test_uspa1245_562,uspa1245,yes,para que loque INC-E2S-hacer PL PREP-SREL-ENF,para que loque INC-E2S-hacer PL INC-SREL-yo,par ke loke t-a-'an taq ch-we-i'n
+1125,st_test_uspa1245_562,uspa1245,no,para que loque INC-hacer PL PREP-E1S-yo,para que loque INC-E2S-hacer PL INC-SREL-yo,"Par ke loke ta'an taq chuweyin ,"
+1126,st_test_uspa1245_563,uspa1245,yes,NEG INC-E3S-ver ellos/ellas,NEG INC-E3S-ver ellos/ellas,ta' t-r-il rechaq
+1127,st_test_uspa1245_563,uspa1245,no,NEG INC-E3S-ver ellos/ellas,NEG INC-E3S-ver ellos/ellas,"ta' tril rechaq ,"
+1128,st_test_uspa1245_564,uspa1245,yes,NEG INC-E3S-ver ellos/ellas,NEG INC-E3S-ver ellos/ellas,ta' t-r-il rechaq
+1129,st_test_uspa1245_564,uspa1245,no,NEG INC-E3S-ver ellos/ellas,NEG INC-E3S-ver ellos/ellas,ta' tril rechaq
+1130,st_test_uspa1245_565,uspa1245,yes,COM-E2S-quemar-ENF E3S-casa AFE E1S-abuelo,COM-E2S-quemar-ENF E3S-casa AFE A1S-abuelo,x-a-k'at-e' r-ichoch tzik' in-maam
+1131,st_test_uspa1245_565,uspa1245,no,COM-E2S-quemar-ENF E3S-casa AFE E1S-abuelo,COM-E2S-quemar-ENF E3S-casa AFE A1S-abuelo,xak'ate' richoch tzik' inmaam .
+1132,st_test_uspa1245_566,uspa1245,yes,todo asta COM-quemar-PL PREP fuego,todo ests COM-quemar-PL PREP fuego,juntir est x-k'at-aq li q'aaq'
+1133,st_test_uspa1245_566,uspa1245,no,todo asta COM-quemar-PL PREP fuego,todo ests COM-quemar-PL PREP fuego,"Juntir , est xk'ataq li q'aaq'."
+1134,st_test_uspa1245_567,uspa1245,yes,poco dolor COM-E2S-hacer PL él/ella,poco dolor COM-E2S-hacer PL él/ella,pok k'ex x-a-'an taq re
+1135,st_test_uspa1245_567,uspa1245,no,poco dolor COM-E2S-hacer PL E3S-SREL,poco dolor COM-E2S-hacer PL él/ella,"Pok k'ex xa'an taq re ,"
+1136,st_test_uspa1245_568,uspa1245,yes,COM-E2S-morir-PAS PL E1S-abuelo,COM-E2S-morir-PAS PL A1S-abuelo,x-a-kam-sáj taq in-maam
+1137,st_test_uspa1245_568,uspa1245,no,COM-E2S-morir-PAS PL E1S-abuelo,COM-E2S-morir-PAS PL A1S-abuelo,xakamsaj taq inmaam
+1138,st_test_uspa1245_569,uspa1245,yes,todo,todo,juntiir
+1139,st_test_uspa1245_569,uspa1245,no,todo,todo,"juntir ,"
+1140,st_test_uspa1245_570,uspa1245,yes,decir ART Marimar ellos/ellas,decir ART Marimar ellos/ellas,cha' man Marimar rechaq
+1141,st_test_uspa1245_570,uspa1245,no,decir ART Marimar ellos/ellas,decir ART Marimar ellos/ellas,cha' man Marimar rechaq .
+1142,st_test_uspa1245_571,uspa1245,yes,no perdonar E1P-pecado,no perdonar E1P-pecado,noo kuy qa-mak
+1143,st_test_uspa1245_571,uspa1245,no,no perdonar E1P-pecado,no perdonar E1P-pecado,"Noo kuy qamak ,"
+1144,st_test_uspa1245_572,uspa1245,yes,perdonar E1P-pecado,perdonar E1P-pecado,kuy qa-maak
+1145,st_test_uspa1245_572,uspa1245,no,perdonar E1P-pecado,perdonar E1P-pecado,"kuy qamak ,"
+1146,st_test_uspa1245_573,uspa1245,yes,dice PL él/ella,decir PL él/ella,cha' taq re
+1147,st_test_uspa1245_573,uspa1245,no,dice PL él/ella,decir PL él/ella,cha' taq re .
+1148,st_test_uspa1245_574,uspa1245,yes,NEG ahora porque COM-E2S-morir-PAS PL E1S-abuelo,no ahora poco COM-E2S-morir-PAS PL A1S-abuelo,noo ljori pok x-a-kam-sáj taq in-maam
+1149,st_test_uspa1245_574,uspa1245,no,no ahora porque COM-E2S-morir-PAS PL E1S-abuelo,no ahora poco COM-E2S-morir-PAS PL A1S-abuelo,"Noo lori pok xakamsaj taq inmaam ,"
+1150,st_test_uspa1245_575,uspa1245,yes,E1S-abuela,A1S-abuela,in-tit'
+1151,st_test_uspa1245_575,uspa1245,no,E1S-abuela,A1S-abuela,intit'
+1152,st_test_uspa1245_576,uspa1245,yes,todo PREP casa,todo PREP casa,juntir la jaa
+1153,st_test_uspa1245_576,uspa1245,no,todo PREP casa,todo PREP casa,juntir la jaa .
+1154,st_test_uspa1245_577,uspa1245,yes,CONJ COM-E2S-quemar-PL E3S-casa,CONJ COM-E2S-quemar-PL E3S-casa,i x-a-k'at-aq r-ichoch
+1155,st_test_uspa1245_577,uspa1245,no,CONJ COM-E2S-quemar-PL E3S-casa,CONJ COM-E2S-quemar-PL E3S-casa,I xak'ataq richoch .
+1156,st_test_uspa1245_578,uspa1245,yes,CONJ cuando COM-morir ellos/ellas,CONJ cuando COM-morir ellos/ellas,i kwand x-kom rechaq
+1157,st_test_uspa1245_578,uspa1245,no,CONJ cuando COM-morir ellos/ellas,CONJ cuando COM-morir ellos/ellas,"I kwand xkom rechaq ,"
+1158,st_test_uspa1245_579,uspa1245,yes,COM-E2S-hacer PL daño PREP-E1S-SREL-ENF,COM-E2S-hacer PL dolor INC-E1S-SREL-yo,x-a-'an taq k'ex ch-w-e-i'n
+1159,st_test_uspa1245_579,uspa1245,no,COM-E2S-hacer PL daño PREP-SREL-yo,COM-E2S-hacer PL dolor INC-E1S-SREL-yo,"xa'an taq k'ex chweyin ,"
+1160,st_test_uspa1245_580,uspa1245,yes,decir ART Marimar,decir ART Marimar,cha' man Marimar
+1161,st_test_uspa1245_580,uspa1245,no,decir ART Marimar,decir ART Marimar,cha' man Marimar .
+1162,st_test_uspa1245_581,uspa1245,yes,CONJ CONJ ahora sentir PL enseñar INT modo COM-E2S-hacer PL INC-SREL,CONJ a ahora sentir PL PART INT modo COM-E2S-hacer PL INC-SREL,i a oraa ik'aj taq k'ut neen moo x-a-'an taq ch-we
+1163,st_test_uspa1245_581,uspa1245,no,CONJ CONJ ahora sentir PL enseñar INT modo COM-E2S-hacer PL INC-SREL,CONJ a ahora sentir PL PART INT modo COM-E2S-hacer PL INC-SREL,I a oraa ik'aj taq k'ut neen moo xa'an taq chwe .
+1164,st_test_uspa1245_582,uspa1245,yes,saque-PAS PL ART nombre hombre,sacar-PAS PL ART nombre él/ella,e-saj taq man b'ij re
+1165,st_test_uspa1245_582,uspa1245,no,saquen-PART PL ART nombre E3S-SREL,sacar-PAS PL ART nombre él/ella,"Esaaj taq man b'ij re ,"
+1166,st_test_uspa1245_583,uspa1245,yes,E2S-mamá INC-E3S-saquir-PAS ART collar PREP lodo,E2S-mamá INC-E3S-sacar-PAS ART collar PREP lodo,a-naan t-r-e-sáj man uu li xoq'o'l
+1167,st_test_uspa1245_583,uspa1245,no,E2S-mamá INC-E3S-saquir-SC ART collar PREP lodo,E2S-mamá INC-E3S-sacar-PAS ART collar PREP lodo,anaan tresaj man uu li xoq'o'l .
+1168,st_test_uspa1245_584,uspa1245,yes,esta@bien,bueno,jaan
+1169,st_test_uspa1245_584,uspa1245,no,esta@bien,bueno,Jaan .
+1170,st_test_uspa1245_585,uspa1245,yes,dios perdonar E1S-pecado,dios perdonar A1S-pecado,yoos kuy in-maak
+1171,st_test_uspa1245_585,uspa1245,no,Dios perdonar E1S-pecado,dios perdonar A1S-pecado,"Yoos kuy inmak ,"
+1172,st_test_uspa1245_586,uspa1245,yes,yo NEG E1S-conocimiento loque COM-A1S-hacer INC-E2S-SREL,yo NEG E1S-conocimiento loque COM-A1S-hacer PREP-E2S-SREL,iin ta' w-etaam loke x-in-an ch-aw-e
+1173,st_test_uspa1245_586,uspa1245,no,yo NEG E1S-conocimiento loque COM-yo-hacer INC-E2S-SREL,yo NEG E1S-conocimiento loque COM-A1S-hacer PREP-E2S-SREL,iin ta' wetam loke xinan chawe .
+1174,st_test_uspa1245_587,uspa1245,yes,no sacar-SC,no sacar-PAS,noo e-saj
+1175,st_test_uspa1245_587,uspa1245,no,no sacar-SC,no sacar-PAS,Noo esaj
+1176,st_test_uspa1245_588,uspa1245,yes,CONJ ya@estubo,CONJ ya-estubo,i ya-stu
+1177,st_test_uspa1245_588,uspa1245,no,CONJ ya@estubo,CONJ ya-estubo,"i yastu ,"
+1178,st_test_uspa1245_589,uspa1245,yes,decir ART Marimar,decir ART Marimar,cha' man Marimar
+1179,st_test_uspa1245_589,uspa1245,no,decir ART Marimar,decir ART Marimar,cha' man Marimar .
+1180,st_test_uspa1245_590,uspa1245,yes,bueno,bueno,weno
+1181,st_test_uspa1245_590,uspa1245,no,bueno,bueno,"Ween ,"
+1182,st_test_uspa1245_591,uspa1245,yes,decir ART angelica,decir ART Angelica,cha' man Angelika
+1183,st_test_uspa1245_591,uspa1245,no,decir ART angelica,decir ART Angelica,"cha' man Angelika ,"
+1184,st_test_uspa1245_592,uspa1245,yes,arrodillar-ITR,garabato-ITR,xuk-er
+1185,st_test_uspa1245_592,uspa1245,no,arrodillar-ITR,garabato-ITR,"xuker ,"
+1186,st_test_uspa1245_593,uspa1245,yes,buscar INC-llorar PREP-E3S-sacar-PAS ART collar PREP lodo,buscar INC-llorar INC-E3S-sacar-PAS ART collar PREP lodo,tok t'-oq' ch-r-e-sáj man uu li xoq'o'l
+1187,st_test_uspa1245_593,uspa1245,no,buscar INC-llorar PREP-E3S-sacar-SC ART collar PREP lodo-SAB,buscar INC-llorar INC-E3S-sacar-PAS ART collar PREP lodo,tok t'oq' chresaj man uu li xoq'o'l .
+1188,st_test_uspa1245_594,uspa1245,yes,terminar-PP E3S-embarrar PREP-SREL persona,terminar-SAB E3S-cara PREP-SREL persona,k'is-il j-keyeb'el ch-uch kristyan
+1189,st_test_uspa1245_594,uspa1245,no,terminar-PP E3S-embarrar-INS PREP-SREL persona,terminar-SAB E3S-cara PREP-SREL persona,"K'isil jkeyeb'el chuch kristyan ,"
+1190,st_test_uspa1245_595,uspa1245,yes,INC-meter E3S-nariz DEM SREL,INC-meter E3S-nariz PREP lodo,ti-jut j-tzam li xoq'o'l
+1191,st_test_uspa1245_595,uspa1245,no,INC-meter E3S-nariz DEM lodo-SAB,INC-meter E3S-nariz PREP lodo,"tijut jtzam li xoq'o'l ,"
+1192,st_test_uspa1245_596,uspa1245,yes,INC-E3S-sacar-PAS ART collar PREP lodo,INC-E3S-sacar-PAS ART collar PREP lodo,t-r-e-sáj man uu li xoq'o'l
+1193,st_test_uspa1245_596,uspa1245,no,INC-E3-sacar-SC ART collar PREP lodo-SAB,INC-E3S-sacar-PAS ART collar PREP lodo,tresaj man uu li xoq'o'l .
+1194,st_test_uspa1245_597,uspa1245,yes,entonces COM-venir ART,entonces COM-venir ART,toos x-pe man
+1195,st_test_uspa1245_597,uspa1245,no,entonces COM-venir ART,entonces COM-venir ART,"Toos xpe man ,"
+1196,st_test_uspa1245_598,uspa1245,yes,COM-venir ART,COM-venir ART,x-pe man
+1197,st_test_uspa1245_598,uspa1245,no,COM-venir ART,COM-venir ART,xpe man .
+1198,st_test_uspa1245_599,uspa1245,yes,entonces ART Angelica INC-E3-sacar-PAS,entonces ART Angelica INC-E3S-sacar-PAS,tons man Angelika t-r-e-sáj
+1199,st_test_uspa1245_599,uspa1245,no,entonces ART Angelica INC-E3-sacar-SC,entonces ART Angelica INC-E3S-sacar-PAS,"Tons man Angelika tresaj ,"
+1200,st_test_uspa1245_600,uspa1245,yes,menear-SC ART lodo PREP-E3S-cara,menear-SC ART lodo PREP-E3S-cara,tukxi-j man xoq'o'l la-j-keyb'el
+1201,st_test_uspa1245_600,uspa1245,no,??? ART lodo???,menear-SC ART lodo PREP-E3S-cara,tukxij man xoq'o'l lajkeyb'el .
+1202,st_test_uspa1245_601,uspa1245,yes,INC-E3S-sacar-PAS,INC-E3S-sacar-PAS,t-r-e-sáj
+1203,st_test_uspa1245_601,uspa1245,no,INC-E3-sacar-SC,INC-E3S-sacar-PAS,"Tresaj ,"
+1204,st_test_uspa1245_602,uspa1245,yes,muebrar-SC ART lodo PREP-E3S cara,menear-SC ART lodo PREP-E3S cara,tukxi-j man xoq'o'l la-j keyeb'el
+1205,st_test_uspa1245_602,uspa1245,no,??? ART lodo PREP cara,menear-SC ART lodo PREP-E3S cara,"tukxij man xoq'o'l laj keyeb'el ,"
+1206,st_test_uspa1245_603,uspa1245,yes,INC-E3S-sacar-PAS ART collar PREP-SREL persona,INC-E3S-sacar-PAS ART collar PREP-SREL persona,t-r-e-sáj man uu ch-uch kristyan
+1207,st_test_uspa1245_603,uspa1245,no,INC-E3-sacar-SC ART collar enfrente@de persona,INC-E3S-sacar-PAS ART collar PREP-SREL persona,tresaj man uu chuch kristyan .
+1208,st_test_uspa1245_604,uspa1245,yes,CONJ PART ART E3S-compañero E3S-compañero ART Marimar,CONJ PART ART E3S-compañero E3S-compañero ART Marimar,i ruk' maq j-pech j-pech man Marimar
+1209,st_test_uspa1245_604,uspa1245,no,CONJ PART ART E3S-compañero E3S-compañero ART Marimar,CONJ PART ART E3S-compañero E3S-compañero ART Marimar,"I ruk' maq jpech , jpech man Marimar ."
+1210,st_test_uspa1245_605,uspa1245,yes,COM-decir él/ella que,COM-decir él/ella que,x-i'j re kee
+1211,st_test_uspa1245_605,uspa1245,no,COM-decir él/ella que,COM-decir él/ella que,Xi'j re kee .
+1212,st_test_uspa1245_606,uspa1245,yes,???-PART COM-hacer PL INC-E2S-SREL,???-PART COM-hacer PL INC-E2S-SREL,(lo)-nk'u x-en taq ch-aw-e
+1213,st_test_uspa1245_606,uspa1245,no,DEM-PART COM-hacer PL INC-E2S-SREL,???-PART COM-hacer PL INC-E2S-SREL,Lonk'u xen taq chawe .
+1214,st_test_uspa1245_607,uspa1245,yes,DEM COM-hacer PL INC-E1S-SREL-ENF antiguamente,DEM COM-hacer PL INC-E1S-SREL-yo antiguamente,jilon x-en taq ch-w-e-i'n ójor
+1215,st_test_uspa1245_607,uspa1245,no,DEM COM-hacer PL INC-SREL-yo antiguamente,DEM COM-hacer PL INC-E1S-SREL-yo antiguamente,"Jilon xen taq chweyin ójor ,"
+1216,st_test_uspa1245_608,uspa1245,yes,cuando COM-E1S-ir E3S-SREL-PL,cuando COM-E1S-ir E3S-SREL-PL,kwand x-in-b'e r-k'il-aq
+1217,st_test_uspa1245_608,uspa1245,no,cuando COM-E1S-ir E3S-SREL-PL,cuando COM-E1S-ir E3S-SREL-PL,kwand xinb'e rk'ilaq .
+1218,st_test_uspa1245_609,uspa1245,yes,CONJ ahora COM-llegar PL aqui,CONJ ahora COM-llegar PL aqui,i yori x-uq taq niri
+1219,st_test_uspa1245_609,uspa1245,no,CONJ ahora COM-llegar PL aqui,CONJ ahora COM-llegar PL aqui,"I yori xuq taq niri ,"
+1220,st_test_uspa1245_610,uspa1245,yes,dice ART Marimar él/ella ART E3S-compañero,decir ART Marimar PART ART E3S-compañero,cha' man Marimar re maq j-pech
+1221,st_test_uspa1245_610,uspa1245,no,dice ART Marimar él/ella ART E3S-compañero,decir ART Marimar PART ART E3S-compañero,cha' man Marimar re maq jpech .
+1222,st_test_uspa1245_611,uspa1245,yes,COM-venir ART E3S-compañero,COM-venir ART E3S-compañero,x-pe maq j-pech
+1223,st_test_uspa1245_611,uspa1245,no,COM-venir ART E3S-compañero,COM-venir ART E3S-compañero,Xpe maq jpech .
+1224,st_test_uspa1245_612,uspa1245,yes,entonces NEG bueno COM-hacer PL INC-E2S-SREL,entonces NEG bueno COM-hacer PL INC-E2S-SREL,tons ta' tzii x-en taq ch-aw-e
+1225,st_test_uspa1245_612,uspa1245,no,entonces NEG bueno COM-hacer PL INC-E2S-SREL,entonces NEG bueno COM-hacer PL INC-E2S-SREL,"Tons ta' tzii xen taq chawe ,"
+1226,st_test_uspa1245_613,uspa1245,yes,COM-venir ART Angelica mejor ITS INC-llorar,COM-venir ART Angelica mejor ITS INC-llorar,x-pe man Angelika jor sub'laaj ti-oq'
+1227,st_test_uspa1245_613,uspa1245,no,COM-venir ART Angelica mejor ITS-??? INC-llorar,COM-venir ART Angelica mejor ITS INC-llorar,"xpe man Angelika jor sub'laaj t'oq',"
+1228,st_test_uspa1245_614,uspa1245,yes,PREP-SREL ART persona,PREP-SREL ART persona,ch-uch man kristyan
+1229,st_test_uspa1245_614,uspa1245,no,PREP-SREL ART persona,PREP-SREL ART persona,chuch man kristyan .
+1230,st_test_uspa1245_615,uspa1245,yes,COM-entrar PREP-E3S menear-SC ART lodo,COM-entrar PREP-E3S menear-SC ART lodo,x-ok chi-j tukxi-j man xoq'o'l
+1231,st_test_uspa1245_615,uspa1245,no,COM-entrar PREP-E3S menear ART lodo-SAB,COM-entrar PREP-E3S menear-SC ART lodo,Xok chij tukxij man xoq'o'l
+1232,st_test_uspa1245_616,uspa1245,yes,PREP-SREL persona todo,PREP-SREL persona todo,ch-uch kristyan juntiir
+1233,st_test_uspa1245_616,uspa1245,no,PREP-SREL persona todo,PREP-SREL persona todo,chuch kristyan juntir .
+1234,st_test_uspa1245_617,uspa1245,yes,COM-entrar PREP-E3S E3-sacar-PAS ART collar adentro,COM-entrar PREP-E3S E3S-sacar-PAS ART collar adentro,x-ok chi-j r-e-sáj man uu xílj
+1235,st_test_uspa1245_617,uspa1245,no,COM-entrar PREP-E3S E3-sacar-SC ART collar adentro,COM-entrar PREP-E3S E3S-sacar-PAS ART collar adentro,Xok chij resaj man uu xilj .
+1236,st_test_uspa1245_618,uspa1245,yes,CONJ CONJ COM-venir ART Marimar,CONJ CONJ COM-venir ART Marimar,i i x-pe man Marimar
+1237,st_test_uspa1245_618,uspa1245,no,CONJ CONJ COM-venir ART Marimar,CONJ CONJ COM-venir ART Marimar,I i xpe man Marimar
+1238,st_test_uspa1245_619,uspa1245,yes,COM-entrar PREP-E3S escribir-SC adentro grande-PL libros,COM-entrar PREP-E3S escribir-SC adentro grande-PL libros,x-ok chi-j tzib'a-j xílj nim-aq libros
+1239,st_test_uspa1245_619,uspa1245,no,COM-entrar PREP-E3S escribir-SC adentro grande libros,COM-entrar PREP-E3S escribir-SC adentro grande-PL libros,xok chij tz'ib'aj xilj nimaq libros
+1240,st_test_uspa1245_620,uspa1245,yes,todo,todo,juntiir
+1241,st_test_uspa1245_620,uspa1245,no,todo,todo,juntir .
+1242,st_test_uspa1245_621,uspa1245,yes,loque COM-hacer-PAS él/ella,loque COM-hacer-PAS él/ella,loke x-en-sáj re
+1243,st_test_uspa1245_621,uspa1245,no,loque COM-hacer-PAS él/ella,loque COM-hacer-PAS él/ella,Loke xensaj re .
+1244,st_test_uspa1245_622,uspa1245,yes,como licenciada PART,como licenciado PART,kom lisensiyad chaq
+1245,st_test_uspa1245_622,uspa1245,no,como licenciada PART,como licenciado PART,"Kom lisensiyad chaq ,"
+1246,st_test_uspa1245_623,uspa1245,yes,todo EXS PART E3S-trabajo todo,todo EXS PART E3S-trabajo todo,juntir wi' chaq j-chaak juntiir
+1247,st_test_uspa1245_623,uspa1245,no,todo EXS PART E3S-trabajo todo,todo EXS PART E3S-trabajo todo,juntir wi' chaq jchaak juntir .
+1248,st_test_uspa1245_624,uspa1245,yes,CONJ DEM DEM lique COM-hacer-PAS ellos/ellas antiguamente,CONJ DEM DEM loque COM-hacer-PAS ellos/ellas antiguamente,i ri' li like x-en-sáj rechaq ójor
+1249,st_test_uspa1245_624,uspa1245,no,CONJ DEM DEM lique COM-hacer-PAS ellos/ellas antiguamente,CONJ DEM DEM loque COM-hacer-PAS ellos/ellas antiguamente,I ri' li like xensaj rechaq ójor .
+1250,st_test_uspa1245_625,uspa1245,yes,por es loque INC-hacer-PAS antiguamente,por es loque INC-hacer-PAS antiguamente,por es loke t-b'en-sáj ójor
+1251,st_test_uspa1245_625,uspa1245,no,por es loque INC-hacer-PAS antiguamente,por es loque INC-hacer-PAS antiguamente,"Por es loke tb'ensaj ójor ,"
+1252,st_test_uspa1245_626,uspa1245,yes,loque INC-E3-hacer persona PART otros persona,loque INC-E3S-hacer persona él/ella difeernte persona,loke t-r-en kristyan re jalan kristyan
+1253,st_test_uspa1245_626,uspa1245,no,loque INC-E3-hacer persona PART otros persona,loque INC-E3S-hacer persona él/ella difeernte persona,loke tren kristyan re jalan kristyan .
+1254,st_test_uspa1245_627,uspa1245,yes,siempre INC-E3S-pagar PART,siempre INC-E3S-pagar PART,syempre ti-j-toj na
+1255,st_test_uspa1245_627,uspa1245,no,siempre INC-E3S-pagar PART,siempre INC-E3S-pagar PART,Syempre tijtoj na
+1256,st_test_uspa1245_628,uspa1245,yes,otros persona PART,diferente persona PART,jalan kristyan chik
+1257,st_test_uspa1245_628,uspa1245,no,otros persona PART,diferente persona PART,jalan kristyan chik .
+1258,st_test_uspa1245_629,uspa1245,yes,otros persona PART,diferente persona PART,jalan kristyan chik
+1259,st_test_uspa1245_629,uspa1245,no,otros persona PART,diferente persona PART,"Jalan kristyan chik ,"
+1260,st_test_uspa1245_630,uspa1245,yes,loque INC-E3S-hacer uno persona PART uno persona,loque INC-E3S-hacer uno persona PART uno persona,loke t-r-en jun kristyan re jun kristyaan
+1261,st_test_uspa1245_630,uspa1245,no,loque INC-E3S-hacer uno persona PART uno persona,loque INC-E3S-hacer uno persona PART uno persona,loke tren jun kristyan re jun kristyan .
+1262,st_test_uspa1245_631,uspa1245,yes,siempre INC-E3S-pagar PART loque INC-E3S-hacer PART,siempre INC-E3S-pagar PART loque INC-E3S-hacer SREL,syempr ti-j-toj na loke t-r-en re
+1263,st_test_uspa1245_631,uspa1245,no,siempre INC-E3S-pagar PART loque INC-E3S-hacer PART,siempre INC-E3S-pagar PART loque INC-E3S-hacer SREL,Syempr tijtoj na loke tren re .
+1264,st_test_uspa1245_632,uspa1245,yes,DEM DEM INC-E1S-decir,DEM DEM INC-E1S-decir,ri' li t-an-b'ij
+1265,st_test_uspa1245_632,uspa1245,no,DEM DEM INC-E1S-decir,DEM DEM INC-E1S-decir,Ri' li tanb'ij .

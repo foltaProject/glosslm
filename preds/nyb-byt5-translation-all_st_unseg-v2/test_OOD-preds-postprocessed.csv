@@ -1,0 +1,527 @@
+,id,glottocode,is_segmented,pred,gold,transcription
+0,st_test_nyan1302_0,nyan1302,yes,then 3SG-put CM-noise-DEF,then 3SG-put CM-noise-DEF,pɛ a-kpɛ́ o-zĩ-ɛ́
+1,st_test_nyan1302_0,nyan1302,no,then 3SG-put CM-noise-DEF,then 3SG-put CM-noise-DEF,"pɛ akpɛ́ ozĩɛ́,"
+2,st_test_nyan1302_1,nyan1302,yes,3PL-greet 1PL complete TP,3PL-greet 1PL complete TP,ba-sɛnɔ ɔlɔ́ béke ɛ
+3,st_test_nyan1302_1,nyan1302,no,3PL-greet 1PL complete TP,3PL-greet 1PL complete TP,"basɛnɔ ɔlɔ́ béke ɛ ,"
+4,st_test_nyan1302_2,nyan1302,yes,3SG with CM-word-DEF CM:PL-small CM:PL-small,3SG with CM-dog-DEF 3PL-be_at 3PL-be_at,yɛ nɛ e-bú-ɔ be-lí be-lí
+5,st_test_nyan1302_2,nyan1302,no,3SG with CM-dog-DEF 3PL-be_at 3PL-be_at,3SG with CM-dog-DEF 3PL-be_at 3PL-be_at,yi n' ebúɔ belí belí
+6,st_test_nyan1302_3,nyan1302,yes,3PL-take CM-Okume SCONN-give 1PL,3PL-take CM-Okume SCONN-give 1PL,ba-lɔkɔ o-kumɛ a-kɔ́ ɔlɔ́
+7,st_test_nyan1302_3,nyan1302,no,3PL-take CM-Okume SCONN-give 1PL,3PL-take CM-Okume SCONN-give 1PL,balɔkɔ okumɛ akɔ́ ɔlɔ́.
+8,st_test_nyan1302_4,nyan1302,yes,3PL-put_on funeral 3PL-do funeral just,3PL-put_on funeral 3PL-do funeral just,ba-tɔɖɔ kúnú ba-wa kúnú ko
+9,st_test_nyan1302_4,nyan1302,no,3PL-put_on funeral 3PL-do funeral just,3PL-put_on funeral 3PL-do funeral just,"batɔɖɔ kúnú bawa kúnú ko ,"
+10,st_test_nyan1302_5,nyan1302,yes,2SG-NEG:PRES-FUT-go_to CM-chief CM-house inside,2SG-NEG:PRES-FUT-go_to CM-chief CM-house inside,ɔ-tɛ́-bɔ-dɛ e-kusí bɔ-pã́ mɛ
+11,st_test_nyan1302_5,nyan1302,no,2SG-NEG:PRES-FUT-go_to CM-chief CM-house inside,2SG-NEG:PRES-FUT-go_to CM-chief CM-house inside,ɔtɛ́bɔdɛ ekusí bɔpã́ mɛ
+12,st_test_nyan1302_6,nyan1302,yes,just-DEF,just-TP,ko-ɔ
+13,st_test_nyan1302_6,nyan1302,no,just-DEF,just-TP,"koɔ ,"
+14,st_test_nyan1302_7,nyan1302,yes,then 3SG-come CM-table DEF skin,then 3SG-come CM-table DEF skiN,klɛ a-ba ɔ-kplɔ̃ nɔ́ shú
+15,st_test_nyan1302_7,nyan1302,no,then 3SG-come CM-table DEF skiN,then 3SG-come CM-table DEF skiN,"klɛ aba ɔkplɔ̃ nɔ́ shú,"
+16,st_test_nyan1302_8,nyan1302,yes,CM-clan big three AM-be_at inside,CM-clan overflow three AM-this inside,e-gbogbǒ gbagba tatá a-lɛ mɛ
+17,st_test_nyan1302_8,nyan1302,no,CM-clan big three AM-be_at inside,CM-clan overflow three AM-this inside,"egbogbǒ gbagbla tatá alɛ mɛ ,"
+18,st_test_nyan1302_9,nyan1302,yes,yes,yes,ee
+19,st_test_nyan1302_9,nyan1302,no,yes,yes,"ee ,"
+20,st_test_nyan1302_10,nyan1302,yes,SCONN-that 3PL-receive SCONN-give-3SG,3SG-say 3PL-receive SCONN-give-3SG,a-sɛ ba-yɛkɛ a-kɔ́-ɛ
+21,st_test_nyan1302_10,nyan1302,no,SCONN-that 3PL-receive SCONN-give-3SG,3SG-say 3PL-receive SCONN-give-3SG,"asɛ bayɛkɛ akɔ́ɛ ,"
+22,st_test_nyan1302_11,nyan1302,yes,then then 3PL-take CM-child_of become_ripe at,then then 3PL-take CM:PL-eye become_red-become_red at,kɛlɛ kã́ ba-lɔkɔ a-wɔ̃hũ̌ dzã̌-dzã̌ nɛ́
+23,st_test_nyan1302_11,nyan1302,no,then then 3PL-take CM-lie be_cold-be_cold at,then then 3PL-take CM:PL-eye become_red-become_red at,kɛlɛ kã́ balɔkɔ awɔ̃hũ̌ dzã̌dzã̌ nɛ́
+24,st_test_nyan1302_12,nyan1302,yes,ADDRESSIVE_PARTICLE,ADDRESSIVE_PARTICLE,lo
+25,st_test_nyan1302_12,nyan1302,no,ADDRESSIVE_PARTICLE,ADDRESSIVE_PARTICLE,"loo ,"
+26,st_test_nyan1302_13,nyan1302,yes,therefore no_matter_what 3SG be_at that COMP 2SG-take-3SG,therefore by_all_means 3SG be_at that COMP 2SG-take-3SG,kliso kokoko kɛ lɛ sɛ tɛ ɔ-lɔkɔ-ɛ
+27,st_test_nyan1302_13,nyan1302,no,therefore RED-one 3SG be_at that COMP 2SG-take-3SG,therefore by_all_means 3SG be_at that COMP 2SG-take-3SG,kliso kokoko kɛ lɛ sɛ tɛ ɔlɔkɔɛ
+28,st_test_nyan1302_14,nyan1302,yes,1PL CM:PL-Tutrugbu_person TP skin,1PL CM:PL-Tutrugbu_person TP skin,blɔ ba-trugbu ɔ shú
+29,st_test_nyan1302_14,nyan1302,no,1PL CM:PL-Tutrugbu_person TP skin,1PL CM:PL-Tutrugbu_person TP skin,blɔ batrugbu ɔ shú
+30,st_test_nyan1302_15,nyan1302,yes,then 3PL-pound,then 3PL-grind,kɛlɛ be-tu
+31,st_test_nyan1302_15,nyan1302,no,then 3PL-pound,then 3PL-grind,"kɛlɛ betu ,"
+32,st_test_nyan1302_16,nyan1302,yes,3SG be_at that COMP nyimo 3SG remain TP 3SG-remain,3SG be_at that COMP shrub_name 3SG:Poss root TP AM-remain,kɛ lɛ sɛ tɛ nyimɔ́ yɛ gũ ɔ lɔ-zã
+33,st_test_nyan1302_16,nyan1302,no,3SG be_at that COMP everyone 3SG remain TP 3SG-remain,3SG be_at that COMP shrub_name 3SG:Poss root TP AM-remain,kɛ lɛ sɛ tɛ nyimɔ́ yɛ gũ ɔ lɔzã
+34,st_test_nyan1302_17,nyan1302,yes,thus 1PL-thing be_at 3SG:Poss CM-top,thus CM:PL-thing be_on 3SG:Poss CM-top,kana bɔ-dɔ̃ tsiɖi yɛ a-bha
+35,st_test_nyan1302_17,nyan1302,no,thus CM:PL-thing be_at 3SG:Poss CM-top,thus CM:PL-thing be_on 3SG:Poss CM-top,kana bɔdɔ̃ tsiɖi yɛ abha
+36,st_test_nyan1302_18,nyan1302,yes,DEF inside or CM-basket inside,DEF in or CM-container in,nɔ mɛ aló ki-puli mɛ
+37,st_test_nyan1302_18,nyan1302,no,DEF inside or CM-basket inside,DEF in or CM-container in,"nɔ mɛ aló kipuli mɛ ,"
+38,st_test_nyan1302_19,nyan1302,yes,but REL 1SG-do thus just,but REL 1SG-do thus just,gaké gɛ ɛ-bhɛtɛ ana ko
+39,st_test_nyan1302_19,nyan1302,no,but REL 1SG-do thus just,but REL 1SG-do thus just,"Gaké gɛ ɛbhɛtɛ ana ko ,"
+40,st_test_nyan1302_20,nyan1302,yes,REL if uhm CM-body 1SG-PROG-put,REL if uhm CM:PL-body CM-PROG-put_in,gɛ ónúpɛ err i-shumɛ ɛ-ɛ́-kpɛ́
+41,st_test_nyan1302_20,nyan1302,no,REL if uhm 1SG-body 1SG-PROG-put,REL if uhm CM:PL-body CM-PROG-put_in,gɛ ónúpɛ err ishumɛ ɛɛ́kpɛ́
+42,st_test_nyan1302_21,nyan1302,yes,3SG-need that 1SG-put_in-3SG at CM-hole-DEF,3SG-need that 1SG-put_in-3SG at CM-hole-DEF,a-hĩá sɛ mɛ-kpɛ́-ɛ nɛ́ o-zi-ɛ́
+43,st_test_nyan1302_21,nyan1302,no,3SG-need that 1SG-put_in-3SG at CM-hole-DEF,3SG-need that 1SG-put_in-3SG at CM-hole-DEF,ahĩá sɛ mɛkpɛ́ɛ nɛ́ oziɛ́
+44,st_test_nyan1302_22,nyan1302,yes,CM-this AM-blow CM-do REL,CM:PL-3PL CM-leaf CM-do REL,a-lɛ a-wulakpá kɛ-bhɛtɛ gɛ
+45,st_test_nyan1302_22,nyan1302,no,CM-this AM-blow CM-do REL,CM:PL-3PL CM-leaf CM-do REL,alɛ awulakpá kɛbhɛtɛ gɛ
+46,st_test_nyan1302_23,nyan1302,yes,uhm CM-man-DEF one REL AM-be_at CM-place DEF inside,uhm CM-man-DEF one REL AM-be_at CM-left DEF inside,err a-nyɛ́-ɛ́ tenukpó gɛ a-lɛ kɛ-blɛkpɛ́ nɔ́ mɛ
+47,st_test_nyan1302_23,nyan1302,no,uhm CM-man-DEF one REL AM-be_at CM-little-place DEF inside,uhm CM-man-DEF one REL AM-be_at CM-left DEF inside,"err anyɛ́ɛ́ tenukpó gɛ alɛ kɛblɛkpɛ́ nɔ́ mɛ ,"
+48,st_test_nyan1302_24,nyan1302,yes,AM-REP-climb,AM-REP-climb,bu-zi-wu
+49,st_test_nyan1302_24,nyan1302,no,AM-REP-climb,AM-REP-climb,buziwu
+50,st_test_nyan1302_25,nyan1302,yes,chief TP,church TP,sɔlɛmɛ ɛ
+51,st_test_nyan1302_25,nyan1302,no,chief TP,church TP,"sɔlɛmɛ ɛ ,"
+52,st_test_nyan1302_26,nyan1302,yes,CM-that at 1PL CM-state-PL all,CM-3SG at 1PL CM-ancestor-PL all,ɛ-lɛ́ nɛ́ blɔ a-ka-alɛ́ pétéé
+53,st_test_nyan1302_26,nyan1302,no,CM-that at 1PL CM-father-PL all,CM-3SG at 1PL CM-ancestor-PL all,"ɛlɛ́ nɛ́ blɔ akaalɛ́ pétéé,"
+54,st_test_nyan1302_27,nyan1302,yes,CM-back just,CM-go just,ki-dé ko
+55,st_test_nyan1302_27,nyan1302,no,CM-back just,CM-go just,"kidé ko ,"
+56,st_test_nyan1302_28,nyan1302,yes,then 3SG-do thus,then 3SG-do thus,pɛ a-bhɛtɛ ana
+57,st_test_nyan1302_28,nyan1302,no,then 3SG-do thus,then 3SG-do thus,pɛ abhɛtɛ ana
+58,st_test_nyan1302_29,nyan1302,yes,if CM-person AM-be 2SG-remain-place-CM-owner-DEF,if CM-person SCONN-be CM-remain-place-CM-owner-DEF,ónú a-nɔ e-nu ɔ-zã-kɔ́-e-leté-ɛ́
+59,st_test_nyan1302_29,nyan1302,no,if CM-person AM-be CM-remain-place-CM-owner-DEF,if CM-person SCONN-be CM-remain-place-CM-owner-DEF,"ónú anɔ enu ɔzãkɔ́eletéɛ́,"
+60,st_test_nyan1302_30,nyan1302,yes,then well 1PL-be_on 2PL CM-top,then well 1PL-be_on 2PL CM-top,klɛ aa bu-tsiɖi wonɔ a-bha
+61,st_test_nyan1302_30,nyan1302,no,then well 1PL-be_on 2PL CM-top,then well 1PL-be_on 2PL CM-top,klɛ aa butsiɖi wonɔ abha
+62,st_test_nyan1302_31,nyan1302,yes,all 3PL CM-house inside REL 3SG-be,all 3PL CM-house inside REL 3SG-be,pétéé balɛ bɔ-pã́ mɛ gɛ e-nu
+63,st_test_nyan1302_31,nyan1302,no,all 3PL CM-house inside REL 3SG-be,all 3PL CM-house inside REL 3SG-be,pétéé balɛ bɔpã́ mɛ gɛ enu
+64,st_test_nyan1302_32,nyan1302,yes,3SG-NEG:PST-be_right at 1PL CM:PL-Tutrugbu_person TP,AM-NEG:PST-be_straight at 1PL CM:PL-Tutrugbu_person DEF,kɛ-gɛ-dzyɔ nɛ́ blɔ ba-trugbu ɔ
+65,st_test_nyan1302_32,nyan1302,no,3SG-NEG:PST-be_right at 1PL CM:PL-Tutrugbu_person TP,AM-NEG:PST-be_straight at 1PL CM:PL-Tutrugbu_person DEF,kɛgɛdzyɔ nɛ́ blɔ batrugbu ɔ
+66,st_test_nyan1302_33,nyan1302,yes,COMP 3PL-NEG:PRES-carry CM-corpse SCONN-again,COMP 3PL-NEG:PRES-carry CM-corpse SCONN-again,tɛ be-té-tukú e-kpú e-wulɔ
+67,st_test_nyan1302_33,nyan1302,no,COMP 3PL-NEG:PRES-carry CM-corpse SCONN-again,COMP 3PL-NEG:PRES-carry CM-corpse SCONN-again,tɛ betétukú ekpú ewulɔ
+68,st_test_nyan1302_34,nyan1302,yes,then 2SG-FUT-lift-3SG,then 2SG-FUT-finish_work_on_farm-3SG,kɛlɛ o-bo-feté-e
+69,st_test_nyan1302_34,nyan1302,no,then 2SG-FUT-come_from-3SG,then 2SG-FUT-finish_work_on_farm-3SG,kɛlɛ obofetée .
+70,st_test_nyan1302_35,nyan1302,yes,3PL-REP-SCONN-leave month AM-two,3PL-REP-SCONN-leave month AM-two,ba-zɛ-a-shɛ̃ wole tɛ-bha
+71,st_test_nyan1302_35,nyan1302,no,3PL-REP-SCONN-leave month AM-two,3PL-REP-SCONN-leave month AM-two,bazɛashɛ̃ wole tɛbha
+72,st_test_nyan1302_36,nyan1302,yes,AM-give CM-3SG be_hard,AM-give CM-3SG blessing,a-kɔ́ ɔ-lɛ́ yayrá
+73,st_test_nyan1302_36,nyan1302,no,AM-give CM-3SG be_hard,AM-give CM-3SG blessing,"akɔ́ ɔlɛ́ yayrá,"
+74,st_test_nyan1302_37,nyan1302,yes,then 2SG-come CM-road inside be_contained quietly,then 2SG-come CM-road inside be_peaceful very_well,pɛ ɔ-bá ki-dzǒ mɛ yɔ́ pɔtɔpɔtɔ
+75,st_test_nyan1302_37,nyan1302,no,then 2SG-come CM-road inside be_cold very_well,then 2SG-come CM-road inside be_peaceful very_well,"pɛ ɔbá kidzǒ mɛ yɔ́ pɔtɔpɔtɔ ,"
+76,st_test_nyan1302_38,nyan1302,yes,1PL-PROG-eat CM:PL-thing at 3PL CM-between,1PL-PROG-eat CM:PL-thing at 3PL CM-between,bɔ-ɔ́-ŋa bɔ-dɔ̃ nɛ́ balɛ ki-shi
+77,st_test_nyan1302_38,nyan1302,no,1PL-PROG-eat CM:PL-thing at 3PL CM-between,1PL-PROG-eat CM:PL-thing at 3PL CM-between,"bɔɔ́ŋa bɔdɔ̃ nɛ́ balɛ kishi ,"
+78,st_test_nyan1302_39,nyan1302,yes,shortly just then 3PL-do CM-water hot then,shortly just then 3PL-do CM-water hot then,sɛ̃́ɛ̃́ ko klɛ ba-bhɛtɛ bu-lĩ́ kpɛkpɛ́ pɛ
+79,st_test_nyan1302_39,nyan1302,no,shortly just then 3PL-do CM-water hot then,shortly just then 3PL-do CM-water hot then,Sɛ̃́ɛ̃́ ko klɛ babhɛtɛ bulĩ́ kpɛkpɛ́ pɛ
+80,st_test_nyan1302_40,nyan1302,yes,CM-hand,CM-hand,a-hɔɛ
+81,st_test_nyan1302_40,nyan1302,no,CM-hand,CM-hand,"ahɔɛ ,"
+82,st_test_nyan1302_41,nyan1302,yes,CM-boy DEF AM-say-look_at just-DEF,CM-boy DEF AM-say-look_at just-DEF,a-nyɛ́núvɔɛ nɔ́ e-se-ɖǐ ko-ɔ
+83,st_test_nyan1302_41,nyan1302,no,CM-boy DEF AM-say-look_at just-DEF,CM-boy DEF AM-say-look_at just-DEF,"anyɛ́núvɔɛ nɔ́ eseɖǐ koɔ ,"
+84,st_test_nyan1302_42,nyan1302,yes,3PL-sweat CM-down at CM-mouth DEF CM-top just-DEF,3PL-lie down at bed DEF CM-top just-TP,ba-wɔ̃sɔ̃ kesí nɛ́ ɛmpá nɔ́ a-bha ko-ɔ
+85,st_test_nyan1302_42,nyan1302,no,CM:PL-small-thing PROG-die at CM-mouth DEF CM-top just-DEF,3PL-lie down at bed DEF CM-top just-TP,"bawɔ̃sɔ̃ ésí nɛ́ ɛmpá n' abha koɔ ,"
+86,st_test_nyan1302_43,nyan1302,yes,then be_at 1PL CM:PL-Tutrugbu_person DEF all skin,this be_at 1PL CM:PL-Tutrugbu_person DEF all skin,kɛlɛ lɛ blɔ ba-trugbu ɔ pétéé shú
+87,st_test_nyan1302_43,nyan1302,no,then be_at 1PL CM:PL-Tutrugbu_person DEF all skin,this be_at 1PL CM:PL-Tutrugbu_person DEF all skin,"Kɛlɛ lɛ blɔ batrugbu ɔ pétéé shú,"
+88,st_test_nyan1302_44,nyan1302,yes,2SG-remove CM-child_of-DEF AM-child_of AM-child_of-DEF,2SG-remove CM-child_of-DEF CM-child_of CM-child_of-DEF,o-bú e-yí-ɛ́ e-yí e-yí-ɛ́
+89,st_test_nyan1302_44,nyan1302,no,2SG-remove CM-child_of-DEF CM-child_of CM-child_of-DEF,2SG-remove CM-child_of-DEF CM-child_of CM-child_of-DEF,obú eyíɛ́... eyí eyíɛ́...
+90,st_test_nyan1302_45,nyan1302,yes,3SG-be that CM-day AM-finish,3SG-be that CM-day AM-finish,ye-nu sɛ ke-lí e-béle
+91,st_test_nyan1302_45,nyan1302,no,3SG-be that CM-day AM-finish,3SG-be that CM-day AM-finish,"yenu sɛ kelí ebéle ,"
+92,st_test_nyan1302_46,nyan1302,yes,now 1PL-find CM-water-DEF then CM-a_little a_little a_little,now 1PL-find CM-water-DEF then CM-a_little a_little a_little,otsí bɔ-mɔ bu-lĩ́-ɛ́ pɛ kɛ-bɔɛ bɔɛ bɔɛ
+93,st_test_nyan1302_46,nyan1302,no,now 1PL-find CM-water-DEF then CM-a_little a_little a_little,now 1PL-find CM-water-DEF then CM-a_little a_little a_little,otsí bɔmɔ bulĩ́ɛ́ pɛ kɛbɔɛ bɔɛ bɔɛ
+94,st_test_nyan1302_47,nyan1302,yes,3SG-NEG:be CM-water,3SG-NEG:be CM-water,a-nɛ bu-lĩ́
+95,st_test_nyan1302_47,nyan1302,no,3SG-NEG:be CM-water,3SG-NEG:be CM-water,"anɛ bulĩ́,"
+96,st_test_nyan1302_48,nyan1302,yes,CM:PL-certain if CM-hand inside AM-be_at 2SG,CM:PL-certain if CM-hand inside AM-be_at 2SG,be-telí ónú a-hɔɛ mɛ a-lɛ́ wɔ
+97,st_test_nyan1302_48,nyan1302,no,CM:PL-certain if CM-hand inside AM-be_at 2SG,CM:PL-certain if CM-hand inside AM-be_at 2SG,betelí ónú ahɔɛ mɛ alɛ́ wɔ
+98,st_test_nyan1302_49,nyan1302,yes,then CM:PL-person AM-VENTIVE-add_to 3SG a_little,then CM:PL-person AM-VENTIVE-add_to 3SG a_little,klɛ ba-nɔ a-ba-plɛ́nɔ yɛ bɔɛ
+99,st_test_nyan1302_49,nyan1302,no,then CM:PL-person AM-VENTIVE-add_to 3SG a_little,then CM:PL-person AM-VENTIVE-add_to 3SG a_little,Klɛ ba-nɔ abaplɛ́nɔ yɛ bɔɛ .
+100,st_test_nyan1302_50,nyan1302,yes,3PL-REL 3PL-tie CM-law-PL this,3PL-REL 3PL-tie CM-law-PL this,ba-gɛ ba-nyá ɛ-sha-álɛ́ lɛ
+101,st_test_nyan1302_50,nyan1302,no,3PL-REL 3PL-tie CM-law-PL this,3PL-REL 3PL-tie CM-law-PL this,bagɛ banyá ɛshaálɛ́ lɛ
+102,st_test_nyan1302_51,nyan1302,yes,1PL-take 3SG do CM:PL-medicine DEF give CM-person DEF 3PL,1PL-take 3SG do CM-medicine DEF give CM-person DEF 3PL,bɔ-lɔkɔ yɛ bhɛtɛ bɔ-wá nɔ́ kɔ́ a-nɔ nɔ́ álɛ́
+103,st_test_nyan1302_51,nyan1302,no,1PL-take 3SG do CM-medicine DEF give CM-person DEF 3PL,1PL-take 3SG do CM-medicine DEF give CM-person DEF 3PL,"bɔlɔkɔ yɛ bhɛtɛ bɔwá nɔ́ kɔ́ anɔ nɔ́ álɛ́,"
+104,st_test_nyan1302_52,nyan1302,yes,1PL:POSS CM:PL-skin CM-hand,1PL:POSS CM:PL-skin CM-hand,bɔlɔ i-shú a-hɔɛ
+105,st_test_nyan1302_52,nyan1302,no,1PL:POSS CM:PL-skin CM-hand,1PL:POSS CM:PL-skin CM-hand,Bɔlɔ ishú ahɔɛ
+106,st_test_nyan1302_53,nyan1302,yes,CM-man-DEF 3SG AM-take-3SG,CM-man-DEF FOC 3SG-take-3SG,a-nyɛ́-ɛ́ yɛ a-lɔkɔ-ɛ
+107,st_test_nyan1302_53,nyan1302,no,CM-man-DEF 3SG AM-take-3SG,CM-man-DEF FOC 3SG-take-3SG,"anyɛ́ɛ́ yɛ alɔkɔɛ ,"
+108,st_test_nyan1302_54,nyan1302,yes,eat eat in,eat eat inside,ŋa ŋa mɛ
+109,st_test_nyan1302_54,nyan1302,no,eat eat in,eat eat inside,ŋa ŋa mɛ
+110,st_test_nyan1302_55,nyan1302,yes,COMP 2SG-know just little-DEF be_high(river) ADDR,COMP 2SG-know just little-DEF be_high(river) ADDR,tɛ o-ti ko bulí-ɛ́ kú oo
+111,st_test_nyan1302_55,nyan1302,no,COMP 2SG-know just little-DEF be_high(river) ADDR,COMP 2SG-know just little-DEF be_high(river) ADDR,tɛ oti ko bulíɛ́ kú oo .
+112,st_test_nyan1302_56,nyan1302,yes,climb,climb,wu
+113,st_test_nyan1302_56,nyan1302,no,climb,climb,wu
+114,st_test_nyan1302_57,nyan1302,yes,that thus chief AM-PROG-say,that thus chief 3SG-PROG-say,sɛ kana tɔ́gbé a-á-ɖɔ
+115,st_test_nyan1302_57,nyan1302,no,that thus chief AM-PROG-say,that thus chief 3SG-PROG-say,"sɛ kana tɔ́gbé aáɖɔ ,"
+116,st_test_nyan1302_58,nyan1302,yes,ok spokesperson thus 3PL-PROG-say,ok spokesperson thus 3PL-PROG-say,yoo tsyámi kana ba-á-ɖɔ
+117,st_test_nyan1302_58,nyan1302,no,ok spokesperson thus 3PL-PROG-say,ok spokesperson thus 3PL-PROG-say,"yoo tsyámi kana baáɖɔ ,"
+118,st_test_nyan1302_59,nyan1302,yes,CM-be 1PL-small a_certain REL be_contained,3SG-be CM:PL-sickness a_certain REL be_contained,e-nu bɔ-nya tulí gɛ kpasɛ
+119,st_test_nyan1302_59,nyan1302,no,3SG-be CM-sickness a_certain REL be_contained,3SG-be CM:PL-sickness a_certain REL be_contained,enu bɔnya tulí gɛ kpasɛ
+120,st_test_nyan1302_60,nyan1302,yes,therefore CM:PL-bee-DEF all AM-disperse at there,therefore CM:PL-die-DEF all AM-disperse at there,so be-tsi-ɛ́ pétéé a-kaka nɛ́ klɛ́
+121,st_test_nyan1302_60,nyan1302,no,therefore CM:PL-bee-DEF all PROG-disperse at there,therefore CM:PL-die-DEF all AM-disperse at there,"so betsiɛ́ pétéé ákaka nɛ́ klɛ́,"
+122,st_test_nyan1302_61,nyan1302,yes,yes CM-fire-DEF AM-give that,yes CM-fire-DEF AM-give that,ee ki-fú-ɔ a-kɔ́ sɛ
+123,st_test_nyan1302_61,nyan1302,no,yes CM-fire-DEF AM-give that,yes CM-fire-DEF AM-give that,ee kifúɔ akɔ́ sɛ ...
+124,st_test_nyan1302_62,nyan1302,yes,CM-woman AM-one AM-be_at 3SG CM-side 3SG-take-eat-1SG CM-side 1SG,CM-woman AM-one AM-be_located AM CM-side CM-thisCM-right-inside CM-side inside,a-dzɛ̃ te-nikpó e-dzi kɛ ka-mpɛ a-lɛkɛ-ŋa-mɛ ka-mpɛ mɛ
+125,st_test_nyan1302_62,nyan1302,no,CM-woman AM-one AM-be_at 3SG CM-spoke AM-take-eat CM-spoke inside,CM-woman AM-one AM-be_located AM CM-side CM-thisCM-right-inside CM-side inside,adzɛ̃ tenikpó edzi kɛ ... kampi alɛkɛŋamɛ kampɛ mɛ .
+126,st_test_nyan1302_63,nyan1302,yes,CM ask-ask certain be_at 3SG:Poss CM-hand 3SG-ask just,CM ask-ask certain be_at 3SG:Poss CM-hand 3SG-ask just,ti bisi-bisi tilí lɛ́ yɛ a-hɔɛ e-bisi ko
+127,st_test_nyan1302_63,nyan1302,no,CM ask-ask certain be_at 3SG:Poss CM-hand 3SG-ask just,CM ask-ask certain be_at 3SG:Poss CM-hand 3SG-ask just,ti bisibisi tilí lɛ́ yɛ ahɔɛ ebisi ko
+128,st_test_nyan1302_64,nyan1302,yes,3PL-NEG:PRES-VENTIVE-crow CM-whistle at CM-state inside,3PL-NEG:PRES-VENTIVE-crow CM-whistle at CM-state inside,ba-té-ba-bɔ kɛ-blɔ́mí nɛ́ ɔ-ma mɛ
+129,st_test_nyan1302_64,nyan1302,no,3PL-NEG:PRES-VENTIVE-crow CM-whistle at CM-state inside,3PL-NEG:PRES-VENTIVE-crow CM-whistle at CM-state inside,batébabɔ kɛblɔ́mí nɛ́ ɔma mɛ .
+130,st_test_nyan1302_65,nyan1302,yes,2SG also 2SG-say-3SG,2SG also 2SG-say-3SG,wɔ tsyɛ́ ɔ-ɖɔ-ɛ
+131,st_test_nyan1302_65,nyan1302,no,2SG also 2SG-say-3SG,2SG also 2SG-say-3SG,wɔ tsyɛ́ ɔɖɔɛ
+132,st_test_nyan1302_66,nyan1302,yes,inside-own,inside-own,mɛ-ayɛ́
+133,st_test_nyan1302_66,nyan1302,no,inside-own,inside-own,mɛayɛ́
+134,st_test_nyan1302_67,nyan1302,yes,2SG-do 3SG thus,2SG-do 3SG thus,ɔ-bhɛtɛ yɛ ana
+135,st_test_nyan1302_67,nyan1302,no,2SG-do 3SG thus,2SG-do 3SG thus,"ɔbhɛtɛ yɛ ana ,"
+136,st_test_nyan1302_68,nyan1302,yes,CM:PL-bee AM-NEG-REP-reach,CM:PL-bee AM-NEG-REP-reach,be-tsí e-gi-ze-kú
+137,st_test_nyan1302_68,nyan1302,no,CM:PL-bee AM-NEG-REP-reach,CM:PL-bee AM-NEG-REP-reach,betsí egizekú
+138,st_test_nyan1302_69,nyan1302,yes,3SG-FUT-buy CM-soap with 3SG,3SG-FUT-buy CM-soap with 3SG,e-be-dzǐ ɔ-kɔ̃ɛ̃ nɛ ɛ
+139,st_test_nyan1302_69,nyan1302,no,3SG-FUT-buy CM-soap with 3SG,3SG-FUT-buy CM-soap with 3SG,ebedzǐ ɔkɔ̃ɛ̃ nɛ ɛ
+140,st_test_nyan1302_70,nyan1302,yes,uhm 2SG-FUT take do with,uhm 2SG-FUT take do with,err ɔ-bɔ lɔkɔ bhɛtɛ nɛ
+141,st_test_nyan1302_70,nyan1302,no,uhm 2SG-FUT take do with,uhm 2SG-FUT take do with,"err ɔbɔ lɔkɔ bhɛtɛ nɛ ,"
+142,st_test_nyan1302_71,nyan1302,yes,in,inside,mɛ
+143,st_test_nyan1302_71,nyan1302,no,in,inside,"mɛ ,"
+144,st_test_nyan1302_72,nyan1302,yes,then 3SG-take CM-hand set_down CM-down-DEF,then 3SG-take CM-hand set_down CM-ground-DEF,pɛ a-lɔkɔ ɔ-hɔɛ dzǔ ke-sí-ɛ́
+145,st_test_nyan1302_72,nyan1302,no,then 3SG-take CM-hand set_down CM-down-DEF,then 3SG-take CM-hand set_down CM-ground-DEF,pɛ alɔkɔ ɔhɔɛ dzǔ kesíɛ́
+146,st_test_nyan1302_73,nyan1302,yes,skin CM-work,skin CM-work,shú a-xwɛ̃
+147,st_test_nyan1302_73,nyan1302,no,skin CM-work,skin CM-work,shú axwɛ̃
+148,st_test_nyan1302_74,nyan1302,yes,ok,ok,yoo
+149,st_test_nyan1302_74,nyan1302,no,ok,ok,Yoo
+150,st_test_nyan1302_75,nyan1302,yes,1PL-FUT-dig CM-hole-DEF for_a_long_time CM-hole-DEF,1PL-FUT-dig CM-hole-DEF for_a_long_time CM-hole-DEF,bɔ-ba-tsyu o-zi-ɛ́ riɖiɖiɖi o-zi-ɛ́
+151,st_test_nyan1302_75,nyan1302,no,1PL-FUT-dig CM-hole-DEF for_a_long_time CM-hole-DEF,1PL-FUT-dig CM-hole-DEF for_a_long_time CM-hole-DEF,bɔbatsyu oziɛ́ riɖiɖiɖi oziɛ́...
+152,st_test_nyan1302_76,nyan1302,yes,1SG-FUT-give that CM-palmtree-DEF,1SG-FUT-give that CM-palmtree-DEF,ɛ-ba-kɔ́ sɛ bu-lí-ɛ́
+153,st_test_nyan1302_76,nyan1302,no,1SG-FUT-give that CM-palmtree-DEF,1SG-FUT-give that CM-palmtree-DEF,ɛbakɔ́ sɛ bulíɛ́
+154,st_test_nyan1302_77,nyan1302,yes,then 1SG-know uhm,then 1SG-know uhm,pɛ i-nyí err
+155,st_test_nyan1302_77,nyan1302,no,then 1SG-know uhm,then 1SG-know uhm,"pɛ inyí err ,"
+156,st_test_nyan1302_78,nyan1302,yes,3SG-turn_round CM-back SCONN-put_in CM:PL-woman,3SG-turn_round CM-back SCONN-put_in CM:PL-woman,e-tsyina ke-dě a-kpɛ́ ba-dzɛ̃̌
+157,st_test_nyan1302_78,nyan1302,no,3SG-turn_round CM-back SCONN-put_in CM:PL-woman,3SG-turn_round CM-back SCONN-put_in CM:PL-woman,etsyina kedě akpɛ́ badzɛ̃̌
+158,st_test_nyan1302_79,nyan1302,yes,REL 3SG-exit come just-DEF,REL 3SG-exit come just-TP,gɛ e-kóéyi bá ko-ɔ
+159,st_test_nyan1302_79,nyan1302,no,REL 3SG-exit come just-DEF,REL 3SG-exit come just-TP,"Gɛ ekóéyi bá koɔ ,"
+160,st_test_nyan1302_80,nyan1302,yes,go,go-go,vɛ-vɛ
+161,st_test_nyan1302_80,nyan1302,no,now,go-go,"vɛvɛ ,"
+162,st_test_nyan1302_81,nyan1302,yes,CM-there all CM-river inside,CM-there all CM-river inside,ɛ-klɛ́ pétéé ke-lĩ́ mɛ
+163,st_test_nyan1302_81,nyan1302,no,CM-there all CM-river inside,CM-there all CM-river inside,"ɛklɛ́ pétéé kelĩ́ mɛ ,"
+164,st_test_nyan1302_82,nyan1302,yes,REL 3SG-VENITIVE-reach CM:PL-house a_certain CM-there,REL 3SG-VENITIVE-reach CM:PL-house a_certain CM-there,gɛ e-be-kú bɔ-pá tulí ɛ-klɛ́
+165,st_test_nyan1302_82,nyan1302,no,REL 3SG-VENITIVE-reach CM:PL-mouth a_certain CM-there,REL 3SG-VENITIVE-reach CM:PL-house a_certain CM-there,gɛ ebekú bɔpá tulí ɛklɛ́
+166,st_test_nyan1302_83,nyan1302,yes,2SG-do 2SG-be_at CM-palmtree DEF,2SG-do CM-3SG small TP,ɔ-bhɛtɛ ɔ-lɛ bulí nɔ́
+167,st_test_nyan1302_83,nyan1302,no,2SG-do CM-3SG little TP,2SG-do CM-3SG small TP,"ɔbhɛtɛ ɔlɛ bulí nɔ́,"
+168,st_test_nyan1302_84,nyan1302,yes,now CM-dawadawa_tree-DEF 3SG:Poss CM-fruit TP,now CM-dawadawa_tree-DEF 3SG:Poss CM-fruit DEF,otsí bu-dzyuɖí-ɛ́ yɛ e-yuyu ɔ
+169,st_test_nyan1302_84,nyan1302,no,now CM-dawadawa_tree-DEF 3SG:Poss CM-fruit TP,now CM-dawadawa_tree-DEF 3SG:Poss CM-fruit DEF,"otsí budzyuɖíɛ́ yɛ eyuyu ɔ ,"
+170,st_test_nyan1302_85,nyan1302,yes,CM:PL-woman all AM-FUT-go there,CM:PL-woman all AM-FUT-go there,ba-dzɛ̃̌ pétéé a-ba-vɛ kɛlɛ́
+171,st_test_nyan1302_85,nyan1302,no,CM:PL-woman all AM-FUT-go there,CM:PL-woman all AM-FUT-go there,Badzɛ̃̌ pétéé abavɛ kɛlɛ́
+172,st_test_nyan1302_86,nyan1302,yes,matter DEF,matter DEF,lṹ ɔ
+173,st_test_nyan1302_86,nyan1302,no,matter DEF,matter DEF,"lṹ ɔ ,"
+174,st_test_nyan1302_87,nyan1302,yes,just 3PL-REP-VENITIVE-reach CM-place certain,just 3PL-REP-VENITIVE-reach CM-place certain,ko be-ze-be-kú ɔ-kɔ́ tolí
+175,st_test_nyan1302_87,nyan1302,no,just 3PL-REP-VENITIVE-reach CM-place certain,just 3PL-REP-VENITIVE-reach CM-place certain,"ko bezebekú ɔkɔ́ tolí,"
+176,st_test_nyan1302_88,nyan1302,yes,REL 1SG-NEG:PST-remain therefore-TP,REL 1SG-NEG:PST-remain therefore-TP,gɛ ɛ-gɛ-zã so-ɔ
+177,st_test_nyan1302_88,nyan1302,no,REL 1SG-NEG:PST-remain therefore-TP,REL 1SG-NEG:PST-remain therefore-TP,Gɛ ɛgɛzã soɔ
+178,st_test_nyan1302_89,nyan1302,yes,2PL CM-hometown-DEF,2PL CM-hometown-DEF,wonɔ ke-pí-ɛ́
+179,st_test_nyan1302_89,nyan1302,no,2PL CM-hometown-DEF,2PL CM-hometown-DEF,Wonɔ epíɛ́
+180,st_test_nyan1302_90,nyan1302,yes,CM-water-DEF inside SCONN-give 1PL,CM-river-DEF inside SCONN-give 1PL,bu-lĩ́-ɛ́ mɛ a-kɔ́ ɔlɔ́
+181,st_test_nyan1302_90,nyan1302,no,CM-river-DEF inside SCONN-give 1PL,CM-river-DEF inside SCONN-give 1PL,bulĩ́ɛ́ mɛ akɔ́ ɔlɔ́.
+182,st_test_nyan1302_91,nyan1302,yes,2SG-own also thus 3SG-be,2SG-own also thus 3SG-be,wo-ayɛ́ tsyɛ́ kana ye-dzi
+183,st_test_nyan1302_91,nyan1302,no,2SG-own also thus 3SG-become,2SG-own also thus 3SG-be,woayɛ́ tsyɛ́ kana yedzi ?
+184,st_test_nyan1302_92,nyan1302,yes,meanwhile with CM:PL-medicine certain,mix with CM:PL-medicine certain,tsyáká nɛ ba-wá telí
+185,st_test_nyan1302_92,nyan1302,no,meanwhile with CM:PL-medicine certain,mix with CM:PL-medicine certain,"tsyáká nɛ bawá telí,"
+186,st_test_nyan1302_93,nyan1302,yes,well at return:PRES CM-3SG inside,well at period CM-this inside,piapíí nɛ́ ɣeɣíyi a-lɛ mɛ
+187,st_test_nyan1302_93,nyan1302,no,well at REP-come-ADDR CM:PL-this inside,well at period CM-this inside,"piapíí nɛ́ ɣeɣíyi alɛ mɛ ,"
+188,st_test_nyan1302_94,nyan1302,yes,then 3SG-show,then 3SG-show,kɛlɛ a-kasɛ́
+189,st_test_nyan1302_94,nyan1302,no,then 3SG-show,then 3SG-show,kɛlɛ akasɛ́...
+190,st_test_nyan1302_95,nyan1302,yes,CM-tree-DEF 2SG-become-3SG,CM-tree-DEF AM-become-3SG,o-sí-ɛ́ o-dzi-i
+191,st_test_nyan1302_95,nyan1302,no,CM-tree-DEF 2SG-become,CM-tree-DEF AM-become-3SG,"osíɛ́ odzii ,"
+192,st_test_nyan1302_96,nyan1302,yes,3PL-FUT-drink with happiness happiness,3PL-3PL-drink with happiness happiness,ba-ba-wɛ̃ nɛ samɛ samɛ
+193,st_test_nyan1302_96,nyan1302,no,3PL-FUT-drink with happiness happiness,3PL-3PL-drink with happiness happiness,"babawɛ̃ nɛ samɛ samɛ ,"
+194,st_test_nyan1302_97,nyan1302,yes,then thing DEF AM-FUT-overflow,then thing DEF AM-FUT-overflow,kɛlɛ salí nɔ́ a-ba-gbagba
+195,st_test_nyan1302_97,nyan1302,no,then thing DEF AM-FUT-overflow,then thing DEF AM-FUT-overflow,kɛlɛ salí nɔ́ abagbagba
+196,st_test_nyan1302_98,nyan1302,yes,1PL-put CM-advice give 2SG:Poss CM:PL-father-PL,1PL-put CM-advice give 2SG:Poss CM:PL-father-PL,bɔ-kpɛ́ kɛ-ɖaŋu kɔ wɔ a-ka-alɛ
+197,st_test_nyan1302_98,nyan1302,no,1PL-put CM-advice give 2SG:Poss CM:PL-father-PL,1PL-put CM-advice give 2SG:Poss CM:PL-father-PL,bɔkpɛ́ kɛɖaŋu kɔ wɔ akaalɛ
+198,st_test_nyan1302_99,nyan1302,yes,ok,ok,yoo
+199,st_test_nyan1302_99,nyan1302,no,ok,ok,"yoo ,"
+200,st_test_nyan1302_100,nyan1302,yes,CM:PL-spokesperson DEF inside-own one,CM-spokesperson DEF inside-own one,ba-tsyiami nɔ́ mɛ-ayɛ́ tenukpó
+201,st_test_nyan1302_100,nyan1302,no,CM:PL-spokesperson DEF inside-own one,CM-spokesperson DEF inside-own one,"batsyiami nɔ́ mɛayɛ́ tenukpó,"
+202,st_test_nyan1302_101,nyan1302,yes,ok 2PL walk,ok 2PL:Poss walk,yoo wɔnɔ gã
+203,st_test_nyan1302_101,nyan1302,no,ok 2PL walk,ok 2PL:Poss walk,yoo wɔnɔ gã
+204,st_test_nyan1302_102,nyan1302,yes,COMP 2SG-know just little-DEF be_high(river) ADDR,COMP 2SG-know just little-DEF be_high(river) ADDR,tɛ o-ti ko bulí-ɛ́ kú oo
+205,st_test_nyan1302_102,nyan1302,no,COMP 2SG-know just little-DEF be_high(river) ADDR,COMP 2SG-know just little-DEF be_high(river) ADDR,tɛ oti ko bulíɛ́ kú oo .
+206,st_test_nyan1302_103,nyan1302,yes,2PL INTER-brother-PL,2PL INTER-brother-PL,wonɔ a-dzya-alɛ́
+207,st_test_nyan1302_103,nyan1302,no,2PL INTER-brother-PL,2PL INTER-brother-PL,"Wonɔ adzyaalɛ́,"
+208,st_test_nyan1302_104,nyan1302,yes,3PL-REP-VENITIVE-return SCONN-come,3PL-REP-VENITIVE-return SCONN-come,be-ze-be-tsodzi a-bá
+209,st_test_nyan1302_104,nyan1302,no,3PL-REP-VENITIVE-return SCONN-come,3PL-REP-VENITIVE-return SCONN-come,bezebetsodzi abá
+210,st_test_nyan1302_105,nyan1302,yes,therefore 2PL REL 2SG-be TP,therefore 2PL REL 2SG-become TP,so wonɔ gɛ o-dzi ɛ
+211,st_test_nyan1302_105,nyan1302,no,therefore 2PL REL 2SG-be_located TP,therefore 2PL REL 2SG-become TP,"so wonɔ gɛ odzi ɛ ,"
+212,st_test_nyan1302_106,nyan1302,yes,all,all,pétéé
+213,st_test_nyan1302_106,nyan1302,no,all,all,"pétéé,"
+214,st_test_nyan1302_107,nyan1302,yes,yes spokesperson AM-be_at there,yes spokesperson 2SG-be_at there,ee tsyámi ɔ-lɛ klɛ́
+215,st_test_nyan1302_107,nyan1302,no,yes spokesperson 2SG-be_at there,yes spokesperson 2SG-be_at there,ee tsyámi ɔlɛ klɛ́?
+216,st_test_nyan1302_108,nyan1302,yes,that CM-today CM-school TP 1PL-VENTIVE-gather at here,that CM-today CM-Saturday TP 1PL-FUT-gather at here,sɛ o-búɔ́ ki-shu ɔ́ bɔ-ba-shɔ̃ nɛ́ klɛ
+217,st_test_nyan1302_108,nyan1302,no,that CM-today CM-stone TP 1PL-FUT-gather at here,that CM-today CM-Saturday TP 1PL-FUT-gather at here,"sɛ obúɔ́ kishu ɔ́ bɔbashɔ̃ nɛ́ klɛ ,"
+218,st_test_nyan1302_109,nyan1302,yes,2SG-take CM-chair AM-chair,2SG-take CM-kelome_tree CM-bark|shell,ɔ-lɔkɔ kɛ-lɔ̃́mɛ́ a-kɔlɔ
+219,st_test_nyan1302_109,nyan1302,no,2SG-take CM-road AM-burn,2SG-take CM-kelome_tree CM-bark|shell,"ɔlɔkɔ kɛlɔ̃́mɛ́ akɔlɔ ,"
+220,st_test_nyan1302_110,nyan1302,yes,REL 3PL-do CM-work,REL 3PL-do CM-work,gɛ ba-wa kɛ-xwɛ̃
+221,st_test_nyan1302_110,nyan1302,no,REL 3PL-do CM-work,REL 3PL-do CM-work,"gɛ bawa kɛxwɛ̃,"
+222,st_test_nyan1302_111,nyan1302,yes,uhm 3SG-walk big certain 3PL-say CM-year AM-one AM-hole AM-one,uhm CM-animal big certain 3PL-that CM-year AM-one 3SG-horn AM-one,err a-gã hohoe telí ba-sɛ kɛ-gɔ te-nikpó kɛ-sha te-nikpó
+223,st_test_nyan1302_111,nyan1302,no,uhm CM-walk big certain 3PL-say CM-year AM-one AM-hole AM-one,uhm CM-animal big certain 3PL-that CM-year AM-one 3SG-horn AM-one,"err agã hohoe telí basɛ kɛgɔ tenikpó kɛsha tenikpó,"
+224,st_test_nyan1302_112,nyan1302,yes,3SG-PROG-come CM-boy DEF CM-side,3SG-PROG-come CM-boy DEF CM-side,a-á-bá a-nyɛ́núvɔɛ nɔ́ ɔ-bha
+225,st_test_nyan1302_112,nyan1302,no,3SG-PROG-come CM-boy DEF CM-side,3SG-PROG-come CM-boy DEF CM-side,"aábá anyɛ́núvɔɛ nɔ́ ɔbha ,"
+226,st_test_nyan1302_113,nyan1302,yes,3SG ISG-call at here,3SG ISG-call at here,yɛ me-klu nɛ́ klɛ
+227,st_test_nyan1302_113,nyan1302,no,3SG ISG-call at here,3SG ISG-call at here,"yɛ meklu nɛ́ klɛ ,"
+228,st_test_nyan1302_114,nyan1302,yes,1PL foot 1PL CM-hand be_contained CM-word DEF inside,1PL foot 1PL CM-hand be_contained CM-word DEF inside,blɔ tsɛrɛ blɔ ɔ-hɔɛ kpasɛ ki-bui ɛ́ mɛ
+229,st_test_nyan1302_114,nyan1302,no,1PL foot 1PL CM-hand be_contained CM-word DEF inside,1PL foot 1PL CM-hand be_contained CM-word DEF inside,"blɔ tsɛrɛ blɔ ɔhɔɛ kpasɛ kibui ɛ́ mɛ ,"
+230,st_test_nyan1302_115,nyan1302,yes,then if CM-work DEF DEF REL CM be_at,then if CM-work DEF DEF REL CM be_at,kɛlɛ ónúpɛ kɛ-xwɛ̃ nɔ́ nɔ́ gɛ ɛ lɛ
+231,st_test_nyan1302_115,nyan1302,no,then if CM-work DEF DEF REL CM be_at,then if CM-work DEF DEF REL CM be_at,"Kɛlɛ ónúpɛ kɛxwɛ̃ nɔ́ nɔ́ gɛ ɛ lɛ ,"
+232,st_test_nyan1302_116,nyan1302,yes,3PL-do CM-3SG then 3PL-REP,3PL-do CM-3SG then 3PL-REP,ba-bhɛtɛ ɛ-lɛ kɛlɛ ba-zɛ
+233,st_test_nyan1302_116,nyan1302,no,3PL-do CM-3SG then 3PL-REP,3PL-do CM-3SG then 3PL-REP,babhɛtɛ ɛ-lɛ kɛlɛ bazɛ
+234,st_test_nyan1302_117,nyan1302,yes,then CM-announcer AM-announce give CM-state,then CM-announcer AM-announce give CM-state,kã́ a-kakála a-kála kɔ́ ɔ-ma
+235,st_test_nyan1302_117,nyan1302,no,then CM-announcer AM-announce give CM-state,then CM-announcer AM-announce give CM-state,"kã́ akakála akála kɔ́ ɔma ,"
+236,st_test_nyan1302_118,nyan1302,yes,CM:PL-Tutrugbu_person CM-state CM-nine-inside-DEF,CM:PL-Tutrugbu_person CM-state CM-nine-inside-DEF,ba-trugbu ɔ-ma o-zhǐtá-mɛ-ɛ́
+237,st_test_nyan1302_118,nyan1302,no,CM:PL-Tutrugbu_person CM-state CM-nine-inside-DEF,CM:PL-Tutrugbu_person CM-state CM-nine-inside-DEF,"Batrugbu ɔma ozhǐtámɛɛ́,"
+238,st_test_nyan1302_119,nyan1302,yes,3SG:Poss CM-side not_any skin,separate CM-side not_any skin,má ka-mpɛ nána shú
+239,st_test_nyan1302_119,nyan1302,no,inside CM-side not_any skin,separate CM-side not_any skin,"má kampɛ nána shú,"
+240,st_test_nyan1302_120,nyan1302,yes,1PL mix then 1PL-be_at here,1PL mix then 1PL-be_at here,blɔ tsyáká pɛ bɔ-lɛ kɛlɛ
+241,st_test_nyan1302_120,nyan1302,no,1PL mix then 1PL-be_at here,1PL mix then 1PL-be_at here,"Blɔ tsyáká pɛ bɔlɛ kɛlɛ ,"
+242,st_test_nyan1302_121,nyan1302,yes,uhm therefore REL 1SG-NEG:PST-remain therefore-TP,uhm therefore REL 1SG-NEG:PST-remain therefore-TP,err kliso gɛ ɛ-gɛ-zã so-ɔ
+243,st_test_nyan1302_121,nyan1302,no,uhm therefore REL 1SG-NEG:PST-remain therefore-TP,uhm therefore REL 1SG-NEG:PST-remain therefore-TP,err kliso gɛ ɛgɛzã soɔ
+244,st_test_nyan1302_122,nyan1302,yes,certain at there,certain at there,telí nɛ́ klɛ́
+245,st_test_nyan1302_122,nyan1302,no,certain at there,certain at there,"telí nɛ́ klɛ́,"
+246,st_test_nyan1302_123,nyan1302,yes,3SG-FUT-be_hard,3SG-VENITIVE-touch,e-be-hunɔ
+247,st_test_nyan1302_123,nyan1302,no,3SG-FUT-hold,3SG-VENITIVE-touch,"ebehunɔ ,"
+248,st_test_nyan1302_124,nyan1302,yes,3PL-come 3PL-VENTIVE-greet 1PL,3PL-come cheat-VENTIVE-greet 1PL,ba-ba ba-ba-sɛnɔ ɔlɔ́
+249,st_test_nyan1302_124,nyan1302,no,3PL-come 3PL-VENTIVE-greet 1PL,3PL-come cheat-VENTIVE-greet 1PL,"baba babasɛnɔ ɔlɔ́,"
+250,st_test_nyan1302_125,nyan1302,yes,well uhm,well uhm,aa err
+251,st_test_nyan1302_125,nyan1302,no,well uhm,well uhm,Aa err ...
+252,st_test_nyan1302_126,nyan1302,yes,AM-REP-climb,AM-REP-climb,bu-zi-wu
+253,st_test_nyan1302_126,nyan1302,no,AM-REP-climb,AM-REP-climb,buziwu
+254,st_test_nyan1302_127,nyan1302,yes,therefore now right_away REL 1SG-do thus,therefore now right_away REL 1SG-do thus,so otsíɛ́ tsɔ̃ɔ̃ gɛ ɛ-bhɛtɛ ana
+255,st_test_nyan1302_127,nyan1302,no,therefore now right_away REL 1SG-do thus,therefore now right_away REL 1SG-do thus,"so otsíɛ́ tsɔ̃ɔ̃ gɛ ɛbhɛtɛ ana ,"
+256,st_test_nyan1302_128,nyan1302,yes,REL 3PL-lead 1PL,REL 3PL-lead 1PL,gɛ ba-gbana lɔ
+257,st_test_nyan1302_128,nyan1302,no,REL 3PL-lead 1PL,REL 3PL-lead 1PL,gɛ bagbana lɔ .
+258,st_test_nyan1302_129,nyan1302,yes,1PL-say 2SG-do exactly,3SG-say CM-do exactly,lɔ-sɛ ɔ-bhɛtɛ tútútú
+259,st_test_nyan1302_129,nyan1302,no,3SG-say 2SG-do exactly,3SG-say CM-do exactly,lɔsɛ ɔbhɛtɛ tútútú
+260,st_test_nyan1302_130,nyan1302,yes,SCONN-take come_with,SCONN-take come_with,a-lɔkɔ mana
+261,st_test_nyan1302_130,nyan1302,no,SCONN-take come_with,SCONN-take come_with,alɔkɔ mana
+262,st_test_nyan1302_131,nyan1302,yes,CM-word-every-word,CM-word-every-word,ki-búí-nyɛ́-búí
+263,st_test_nyan1302_131,nyan1302,no,CM-word-every-word,CM-word-every-word,"kibúínyɛ́búí,"
+264,st_test_nyan1302_132,nyan1302,yes,CM-Okume,CM-Okume,o-kumɛ
+265,st_test_nyan1302_132,nyan1302,no,CM-Okume,CM-Okume,"okumɛ ,"
+266,st_test_nyan1302_133,nyan1302,yes,CM-1PL CM-hand,CM-1PL CM-hand,ɔ-lɔ a-hɔɛ
+267,st_test_nyan1302_133,nyan1302,no,CM-1PL CM-hand,CM-1PL CM-hand,"ɔlɔ ahɔɛ ,"
+268,st_test_nyan1302_134,nyan1302,yes,3PL-FUT-buy_liquid_stuff CM:PL-beverage,3PL-FUT-buy_liquid_stuff CM:PL-beverage,be-be-bú be-nu
+269,st_test_nyan1302_134,nyan1302,no,3PL-FUT-buy_liquid_stuff CM:PL-beverage,3PL-FUT-buy_liquid_stuff CM:PL-beverage,"bebebú benu ,"
+270,st_test_nyan1302_135,nyan1302,yes,REL 3PL PROG-eat,REL 3PL PROG-eat,gɛ balɛ á-ŋa
+271,st_test_nyan1302_135,nyan1302,no,REL 3PL PROG-eat,REL 3PL PROG-eat,"gɛ balɛ áŋa ,"
+272,st_test_nyan1302_136,nyan1302,yes,SCONN-take CM-hand SCONN-set_fire message,3SG-take CM-hand SCONN-make_contact jaw,a-lɔkɔ a-hɔɛ a-tɔ̃́ gla
+273,st_test_nyan1302_136,nyan1302,no,SCONN-take CM-hand SCONN-set_fire meat,3SG-take CM-hand SCONN-make_contact jaw,"alɔkɔ ahɔɛ atɔ̃́ gla ,"
+274,st_test_nyan1302_137,nyan1302,yes,3SG-be that REL 3PL-set_down CM-chief-DEF,3SG-be that REL 3PL-set_down CM-chief-DEF,kɛlɛ-nu sɛ gɛ be-dzǔ e-kusí-ɛ́
+275,st_test_nyan1302_137,nyan1302,no,3SG-be that REL 3PL-set_down CM-chief-DEF,3SG-be that REL 3PL-set_down CM-chief-DEF,"kɛlɛnu sɛ gɛ bedzǔ ekusíɛ́,"
+276,st_test_nyan1302_138,nyan1302,yes,then 3PL-call 1SG thus CM:PL-Tutrugbu_person,then AM-call 1SG thus CM:PL-Tutrugbu_person,pɛ be-klu mɛ ana ba-trugbu
+277,st_test_nyan1302_138,nyan1302,no,then AM-call 1SG thus CM:PL-Tutrugbu_person,then AM-call 1SG thus CM:PL-Tutrugbu_person,pɛ beklu mɛ ana batrugbu
+278,st_test_nyan1302_139,nyan1302,yes,hair 1PL-ITIVE do CM-state-work ADDR,hair 1PL-ITIVE do CM-state-work ADDR,kã bɔ-dɛ wa ɔ-ma-xwɛ̃ é
+279,st_test_nyan1302_139,nyan1302,no,hair 1PL-ITIVE do CM-state-work ADDR,hair 1PL-ITIVE do CM-state-work ADDR,kã bɔdɛ wa ɔmaxwɛ̃ é.
+280,st_test_nyan1302_140,nyan1302,yes,CM-person FOC die at here CM-today also Konda,CM-person FOC die at here CM-today also Konda,a-nɔ yé tsǐ nɛ́ kɛ́lɛ o-búɔ́ tsyɛ́ Begbe
+281,st_test_nyan1302_140,nyan1302,no,CM-person FOC die at here CM-today also Konda,CM-person FOC die at here CM-today also Konda,Anɔ yé tsǐ nɛ́ kɛ́lɛ obúɔ́ tsyɛ́ Begbe
+282,st_test_nyan1302_141,nyan1302,yes,then 3SG-see CM-walk CM-horn AM-two certain,then 3SG-see CM-animal CM-horn AM-two certain,klɛ a-mɔ a-gã a-sha ta-bha telí
+283,st_test_nyan1302_141,nyan1302,no,then 3SG-see CM-animal CM-horn AM-two certain,then 3SG-see CM-animal CM-horn AM-two certain,"klɛ amɔ agã asha tabha telí,"
+284,st_test_nyan1302_142,nyan1302,yes,REL-with now 3PL-REP-VENITIVE-carry-3SG,REL-NEG:be now 3PL-REP-VENITIVE-carry-3SG,gɛ-nɛ otsí be-ze-be-tukú-i
+285,st_test_nyan1302_142,nyan1302,no,REL-NEG:be now 3PL-REP-VENITIVE-carry-3SG,REL-NEG:be now 3PL-REP-VENITIVE-carry-3SG,gɛnɛ otsí bezebetukúi
+286,st_test_nyan1302_143,nyan1302,yes,3SG-remove CM-boy DEF,SCONN-catch CM-boy DEF,e-vũ a-nyɛ́núvɔɛ nɔ́
+287,st_test_nyan1302_143,nyan1302,no,3SG-descend CM-boy DEF,SCONN-catch CM-boy DEF,"evũ anyɛ́núvɔɛ nɔ́,"
+288,st_test_nyan1302_144,nyan1302,yes,spokesperson DEF-that,spokesperson 2SG-be_at,tsyámi ɔ-lɛ́
+289,st_test_nyan1302_144,nyan1302,no,spokesperson 2SG-be_at,spokesperson 2SG-be_at,tsyámi ɔlɛ́?
+290,st_test_nyan1302_145,nyan1302,yes,3PL-VENTIVE-help CM-1PL,3PL-VENTIVE-help CM-1PL,ba-ba-plɛ́nɔ o-lɔ
+291,st_test_nyan1302_145,nyan1302,no,3PL-VENTIVE-help CM-1PL,3PL-VENTIVE-help CM-1PL,babaplɛ́nɔ olɔ .
+292,st_test_nyan1302_146,nyan1302,yes,3SG-VENTIVE-remain well at 3SG inside,AM-3PL-remain well at this inside,a-ba-zã piapíí nɛ́ kɛlɛ mɛ
+293,st_test_nyan1302_146,nyan1302,no,3SG-VENTIVE-remain well at 3SG inside,AM-3PL-remain well at this inside,"abazã piapíí nɛ́ kɛlɛ mɛ ,"
+294,st_test_nyan1302_147,nyan1302,yes,therefore uhm 1PL,therefore uhm 1PL,kliso err bɔ
+295,st_test_nyan1302_147,nyan1302,no,therefore uhm 1PL,therefore uhm 1PL,Kliso err bɔ ...
+296,st_test_nyan1302_148,nyan1302,yes,3PL-say 3PL-FUT-give SCONN-say 1PL 1PL-do,3PL-say 3PL-FUT-give SCONN-that 1PL 1PL-do,ba-sɛ ba-ba-kɔ́ a-sɛ bɔ bɔ-bhɛtɛ
+297,st_test_nyan1302_148,nyan1302,no,3PL-say 3PL-FUT-give SCONN-that 1PL 1PL-do,3PL-say 3PL-FUT-give SCONN-that 1PL 1PL-do,basɛ babakɔ́ asɛ bɔ bɔbhɛtɛ
+298,st_test_nyan1302_149,nyan1302,yes,3PL-woman CM-between,CM:PL-woman CM-between,ba-dzɛ̃̌ ki-shi
+299,st_test_nyan1302_149,nyan1302,no,3PL-woman CM-between,CM:PL-woman CM-between,"badzɛ̃̌ kishi ,"
+300,st_test_nyan1302_150,nyan1302,yes,then 3PL-descend SCONN-go CM-important DEF hear TP,then 3PL-descend AM-go CM-valley DEF matter TP,pɛ be-zhǐ a-vɛ kɛ-dádamɛ nɔ́ lṹ ɔ
+301,st_test_nyan1302_150,nyan1302,no,then 3PL-descend SCONN-go CM-struggle DEF hear TP,then 3PL-descend AM-go CM-valley DEF matter TP,pɛ bezhǐ avɛ kɛdádamɛ nɔ́ lṹ ɔ
+302,st_test_nyan1302_151,nyan1302,yes,then 3PL-FUT-appear CM-show,then 3PL-VENITIVE-appear CM-show,pɛ be-be-yi ɔ-wɛ̃
+303,st_test_nyan1302_151,nyan1302,no,then 3PL-VENITIVE-appear CM-show,then 3PL-VENITIVE-appear CM-show,pɛ bebeyi ɔwɛ̃
+304,st_test_nyan1302_152,nyan1302,yes,1PL-this 3PL-PROG-do give 1PL first,CM:PL-3PL 3PL-PROG-do give 1PL first,bɔ-lɛ ba-á-bhɛtɛ kɔ́ ɔlɔ́ gbã́
+305,st_test_nyan1302_152,nyan1302,no,1PL:POSS 3PL-PROG-do give 1PL first,CM:PL-3PL 3PL-PROG-do give 1PL first,"bɔlɛ baábhɛtɛ kɔ́ ɔlɔ́ gbã́,"
+306,st_test_nyan1302_153,nyan1302,yes,CM-this CM-fever,CM-3SG CM-sun,a-lɛ bu-wí
+307,st_test_nyan1302_153,nyan1302,no,CM-this CM-fever,CM-3SG CM-sun,alɛ buwí
+308,st_test_nyan1302_154,nyan1302,yes,1PL:POSS CM:PL-skin CM-hand,1PL:POSS CM:PL-skin CM-hand,bɔlɔ i-shú a-hɔɛ
+309,st_test_nyan1302_154,nyan1302,no,1PL:POSS CM:PL-skin CM-hand,1PL:POSS CM:PL-skin CM-hand,Bɔlɔ ishú ahɔɛ
+310,st_test_nyan1302_155,nyan1302,yes,then 3SG-show therefore then 1PL also 3SG-do as 1PL be_at CM:PL-skin CM-hand inside,then 3SG-show therefore then 1PL also 3SG-do as 1PL be_at CM:PL-skin CM-hand inside,klɛ a-kasɛ́ so pɛ blɔ tsyɛ́ a-bhɛtɛ ansɛ bɔ lɛ́ i-shú a-hɔɛ mɛ
+311,st_test_nyan1302_155,nyan1302,no,then 3SG-show therefore then 1PL also 3SG-do as 1PL be_at CM:PL-skin CM-hand inside,then 3SG-show therefore then 1PL also 3SG-do as 1PL be_at CM:PL-skin CM-hand inside,klɛ akasɛ́ so pɛ blɔ tsyɛ́ abhɛtɛ ansɛ bɔ lɛ́ ishú ahɔɛ mɛ .
+312,st_test_nyan1302_156,nyan1302,yes,3SG-VENTIVE-remain CM-stone inside,AM-FUT-remain CM-chair inside,a-ba-zã ke-gbu mɛ
+313,st_test_nyan1302_156,nyan1302,no,3SG-VENTIVE-remain CM-chair inside,AM-FUT-remain CM-chair inside,abazã kegbu mɛ
+314,st_test_nyan1302_157,nyan1302,yes,CM-owner-DEF at CM-reach-DEF 1SG also ADDR,CM-owner-DEF at CM-reach-DEF inside also ADDR,e-leté-ɛ́ nɛ́ o-kú-ɔ́ mɛ tsyɛ́ oo
+315,st_test_nyan1302_157,nyan1302,no,CM-owner-DEF at CM-reach-DEF inside also ADDR,CM-owner-DEF at CM-reach-DEF inside also ADDR,"eletéɛ́ nɛ́ okúɔ́ mɛ tsyɛ́ oo ,"
+316,st_test_nyan1302_158,nyan1302,yes,3PL-NEG:PRES-do CM-that,3PL-NEG:PRES-do CM-3SG,ba-tɛ́-bhɛtɛ ɛ-lɛ́
+317,st_test_nyan1302_158,nyan1302,no,3PL-NEG:PRES-do CM-3SG,3PL-NEG:PRES-do CM-3SG,batɛ́bhɛtɛ ɛlɛ́
+318,st_test_nyan1302_159,nyan1302,yes,CM-person FOC die at here CM-today also Konda,CM-person FOC die at here CM-today also Konda,a-nɔ yé tsǐ nɛ́ kɛ́lɛ o-búɔ́ tsyɛ́ Begbe
+319,st_test_nyan1302_159,nyan1302,no,CM-person FOC die at here CM-today also Konda,CM-person FOC die at here CM-today also Konda,Anɔ yé tsǐ nɛ́ kɛ́lɛ obúɔ́ tsyɛ́ Begbe
+320,st_test_nyan1302_160,nyan1302,yes,therefore 2SG-do 3SG 2SG-puncture CM-hole-DEF,therefore 2SG-do then 2SG-puncture CM-hole-DEF,kliso ɔ-bhɛtɛ kɛlɛ o-pú o-zi-ɛ́
+321,st_test_nyan1302_160,nyan1302,no,therefore 2SG-do 3SG 2SG-puncture CM-hole-DEF,therefore 2SG-do then 2SG-puncture CM-hole-DEF,"kliso ɔbhɛtɛ kɛlɛ opú oziɛ́,"
+322,st_test_nyan1302_161,nyan1302,yes,CM-here 1SG-see finish,CM-here 1SG-see finish,ɛ-klɛ mɛ-mɔ sɛ́
+323,st_test_nyan1302_161,nyan1302,no,CM-here 1SG-see finish,CM-here 1SG-see finish,"ɛklɛ mɛmɔ sɛ́,"
+324,st_test_nyan1302_162,nyan1302,yes,2SG-go,2SG-go,ɔ-vɛ
+325,st_test_nyan1302_162,nyan1302,no,2SG-go,2SG-go,"ɔvɛ ,"
+326,st_test_nyan1302_163,nyan1302,yes,2SG-FUT-ITIVE-climb Ediewono 3SG CM-stone,2SG-FUT-ITIVE-climb Ediewono 3SG CM-stone,o-bo-di-wu Eɖiɛwónɔ yɛ kɛ-klagbu
+327,st_test_nyan1302_163,nyan1302,no,2SG-FUT-ITIVE-climb Ediewono 3SG CM-stone,2SG-FUT-ITIVE-climb Ediewono 3SG CM-stone,obodiwu Eɖiɛwónɔ yɛ kɛklagbu
+328,st_test_nyan1302_164,nyan1302,yes,1PL CM:PL-Tutrugbu_person white,1PL CM:PL-Tutrugbu_person custom,blɔ ba-trugbu kɔnú
+329,st_test_nyan1302_164,nyan1302,no,1PL CM:PL-Tutrugbu_person funeral,1PL CM:PL-Tutrugbu_person custom,"blɔ batrugbu kɔnú,"
+330,st_test_nyan1302_165,nyan1302,yes,then 1PL-FUT-remain 3SG at Banya or God,then 1PL-come-remain here at Banya or Nyagbo,pɛ bɔ-bá-zã kɛlɛ nɛ́ Banyá aló Nyagbo
+331,st_test_nyan1302_165,nyan1302,no,then 1PL-FUT-remain here at Nyagbo_Sroe or Nyagbo_Sroe,then 1PL-come-remain here at Banya or Nyagbo,pɛ bɔbázã kɛlɛ nɛ́ Banyá aló Nyagbo
+332,st_test_nyan1302_166,nyan1302,yes,2SG-own REL 2SG also 2SG-hold,2SG-own REL 2SG also PROG-hold,wo-ayɛ́ gɛ wɔ tsyɛ́ ó-vũnɔ
+333,st_test_nyan1302_166,nyan1302,no,2SG-own REL 2SG also is_taking,2SG-own REL 2SG also PROG-hold,"woayɛ́ gɛ wɔ tsyɛ́ óvũnɔ ,"
+334,st_test_nyan1302_167,nyan1302,yes,then CM-woman DEF AM-REP-exit,then CM-woman DEF AM-REP-exit,kɛlɛ a-dzɛ̃ nɔ́ e-ze-kóéyi
+335,st_test_nyan1302_167,nyan1302,no,then CM-woman DEF AM-REP-exit,then CM-woman DEF AM-REP-exit,kɛlɛ adzɛ̃ nɔ́ ezekóéyi .
+336,st_test_nyan1302_168,nyan1302,yes,CM:PL-teach REL CM-man DEF 3SG-go first,because REL CM-man DEF AM-get_up first,alasɛ gɛ a-nyɛ́ ɛ́ a-lɔ́ gbã́
+337,st_test_nyan1302_168,nyan1302,no,3SG-say REL CM-man DEF 3SG-get_up first,because REL CM-man DEF AM-get_up first,"alasɛ gɛ anyɛ́ ɛ́ alɔ́ gbã́,"
+338,st_test_nyan1302_169,nyan1302,yes,therefore uhm 1PL,therefore uhm 1PL,kliso err bɔ
+339,st_test_nyan1302_169,nyan1302,no,therefore uhm 1PL,therefore uhm 1PL,Kliso err bɔ ...
+340,st_test_nyan1302_170,nyan1302,yes,therefore,by_all_means,faa
+341,st_test_nyan1302_170,nyan1302,no,therefore-well,by_all_means,"faa ,"
+342,st_test_nyan1302_171,nyan1302,yes,trouble,trouble,luhũ̌
+343,st_test_nyan1302_171,nyan1302,no,trouble,trouble,"luhũ̌,"
+344,st_test_nyan1302_172,nyan1302,yes,CM-water-DEF be_high(river) ADDR,CM-water-DEF be_high(river) ADDR,bu-lĩ́-ɛ́ kú oo
+345,st_test_nyan1302_172,nyan1302,no,CM-water-DEF be_high(river) ADDR,CM-water-DEF be_high(river) ADDR,bulĩ́ɛ́ kú oo
+346,st_test_nyan1302_173,nyan1302,yes,CM-pile then 1PL-PROG-do there,CM-pile then 1PL-PROG-do that,ki-tsu pɛ bɔ-ɔ́-wa kɛlɛ́
+347,st_test_nyan1302_173,nyan1302,no,CM-pile then 1PL-PROG-do that,CM-pile then 1PL-PROG-do that,"kitsu pɛ bɔɔ́wa kɛlɛ́,"
+348,st_test_nyan1302_174,nyan1302,yes,CM-spokesperson DEF inside-own one,CM-spokesperson DEF inside-own one,a-tsyiami nɔ́ mɛ-ayɛ́ tenukpó
+349,st_test_nyan1302_174,nyan1302,no,CM-spokesperson DEF inside-own one,CM-spokesperson DEF inside-own one,"atsyiami nɔ́ mɛayɛ́ tenukpó,"
+350,st_test_nyan1302_175,nyan1302,yes,then 3SG AM-look_for AM-that 3SG-catch-3SG just,then 3SG AM-want SCONN-that SCONN-catch-3SG just,kɛlɛ yɛ a-pɛ a-sɛ e-vũ-i ko
+351,st_test_nyan1302_175,nyan1302,no,then 3SG AM-want AM-that CM-change just,then 3SG AM-want SCONN-that SCONN-catch-3SG just,"kɛlɛ yɛ apɛ asɛ evũi ko ,"
+352,st_test_nyan1302_176,nyan1302,yes,CM-there CM:PL-leave just-DEF 3PL-FUT-reach CM-place,CM-there 3PL-leave just-DEF 3PL-VENITIVE-reach CM-place,ɛ-klɛ́ ba-shɛ̃ ko-ɔ be-be-kú ɔ-kɔ́
+353,st_test_nyan1302_176,nyan1302,no,CM-there CM:PL-leave just-DEF 3PL-VENITIVE-reach CM-place,CM-there 3PL-leave just-DEF 3PL-VENITIVE-reach CM-place,ɛklɛ́ bashɛ̃ koɔ bebekú ɔkɔ́
+354,st_test_nyan1302_177,nyan1302,yes,3PL-say SCONN-look_at just-DEF,3PL-say SCONN-look_at just-DEF,be-se e-ɖǐ ko-ɔ
+355,st_test_nyan1302_177,nyan1302,no,3PL-say SCONN-look_at just-TP,3PL-say SCONN-look_at just-DEF,"bese eɖǐ koɔ ,"
+356,st_test_nyan1302_178,nyan1302,yes,therefore-DEF 1PL:POSS CM-river-DEF CM-this skin,therefore-DEF 1PL:POSS CM-river-DEF CM-this skin,kliso-ɔ bɔlɔ ke-lĩ́-ɛ́ a-lɛ shú
+357,st_test_nyan1302_178,nyan1302,no,therefore-DEF 1PL:POSS CM-river-DEF CM-this skin,therefore-DEF 1PL:POSS CM-river-DEF CM-this skin,Klisoɔ bɔlɔ kelĩ́ɛ́ alɛ shú
+358,st_test_nyan1302_179,nyan1302,yes,CM-state thus,CM-state thus,ɔ-ma ana
+359,st_test_nyan1302_179,nyan1302,no,CM-state thus,CM-state thus,ɔma ana .
+360,st_test_nyan1302_180,nyan1302,yes,uhm Konda with CM:PL-guest REL 3PL-come_from CM:PL-certain AM-come_from Hahute,uhm Konda with CM:PL-guest REL 3PL-come_from CM:PL-certain AM-come_from Hahute,err Begbe nɛ be-fu gɛ be-dě be-telí e-dě Hahuté
+361,st_test_nyan1302_180,nyan1302,no,uhm Konda with CM:PL-guest REL 3PL-come_from CM:PL-certain AM-come_from Hahute,uhm Konda with CM:PL-guest REL 3PL-come_from CM:PL-certain AM-come_from Hahute,"err Begbe nɛ befu gɛ bedě betelí edě Hahuté,"
+362,st_test_nyan1302_181,nyan1302,yes,walk gently-gently thus,walk gently-gently thus,gã bleoo-bleoo ana
+363,st_test_nyan1302_181,nyan1302,no,walk gently-gently thus,walk gently-gently thus,gã bleoobleoo ana
+364,st_test_nyan1302_182,nyan1302,yes,thus,thus,ana
+365,st_test_nyan1302_182,nyan1302,no,thus,thus,ana ?
+366,st_test_nyan1302_183,nyan1302,yes,CM:PL-person DEF 3PL-ITIVE-put_in CM:PL-thing at,CM:PL-person DEF AM-ITIVE-put_in CM:PL-thing at,ba-nɔ nɔ́ ba-da-kpɛ́ bɔ-dɔ̃ nɛ́
+367,st_test_nyan1302_183,nyan1302,no,CM:PL-person DEF AM-ITIVE-put_in CM:PL-thing at,CM:PL-person DEF AM-ITIVE-put_in CM:PL-thing at,banɔ nɔ́ badakpɛ́ bɔdɔ̃ nɛ́
+368,st_test_nyan1302_184,nyan1302,yes,then 1PL all then 1PL-go CM-work inside,then 1PL all then 1PL-go CM-work inside,kã́ bɔlɔ pétéé kã́ bɔ-vɛ a-xwɛ̃ mɛ
+369,st_test_nyan1302_184,nyan1302,no,then 1PL all then 1PL-go CM-work inside,then 1PL all then 1PL-go CM-work inside,"kã́ bɔlɔ pétéé kã́ bɔvɛ axwɛ̃ mɛ ,"
+370,st_test_nyan1302_185,nyan1302,yes,CM:PL-medicine skin,CM:PL-medicine skin,ba-wá shú
+371,st_test_nyan1302_185,nyan1302,no,CM:PL-medicine skin,CM:PL-medicine skin,"bawá shú,"
+372,st_test_nyan1302_186,nyan1302,yes,at here completely,at here completely,nɛ́ kɛ́lɛ yɔ̃́ɔ̃́
+373,st_test_nyan1302_186,nyan1302,no,at here completely,at here completely,nɛ́ kɛ́lɛ yɔ̃́ɔ̃́.
+374,st_test_nyan1302_187,nyan1302,yes,then 3PL also return climb SCONN-go,then 3PL also return climb SCONN-go,klɛ balɛ tsyɛ́ dzidze wu a-vɛ
+375,st_test_nyan1302_187,nyan1302,no,then 3PL also return climb SCONN-go,then 3PL also return climb SCONN-go,"klɛ balɛ tsyɛ́ dzidze wu avɛ ,"
+376,st_test_nyan1302_188,nyan1302,yes,therefore then 2SG-place put_in 2SG-see,therefore then 2SG-pierce put_in 2SG-see,kliso kã́ ɔ-shɔ kpɛ́ ɔ-mɔ
+377,st_test_nyan1302_188,nyan1302,no,therefore then 2SG-pierce put_in 2SG-see,therefore then 2SG-pierce put_in 2SG-see,"kliso kã́ ɔshɔ kpɛ́ ɔmɔ ,"
+378,st_test_nyan1302_189,nyan1302,yes,CM-water-DEF be_high(river) ADDR,CM-water-DEF be_high(river) ADDR,bu-lĩ́-ɛ́ kú oo
+379,st_test_nyan1302_189,nyan1302,no,CM-water-DEF be_high(river) ADDR,CM-water-DEF be_high(river) ADDR,bulĩ́ɛ́ kú oo
+380,st_test_nyan1302_190,nyan1302,yes,then 3SG-put_in CM-noise-DEF,then 3SG-put_in CM-noise-DEF,klɛ a-kpɛ́ o-zĩ̌-ɛ́
+381,st_test_nyan1302_190,nyan1302,no,then 3SG-put_in CM-noise-DEF,then 3SG-put_in CM-noise-DEF,klɛ akpɛ́ ozĩ̌ɛ́
+382,st_test_nyan1302_191,nyan1302,yes,3SG 3PL-say that CM-beverage-DEF be_good,FOC 3PL-say that CM-beverage-DEF be_good,yɛ ba-ɖɔ sɛ bu-nu-ɔ pɛ̃
+383,st_test_nyan1302_191,nyan1302,no,3SG 3PL-say that CM-beverage-DEF be_good,FOC 3PL-say that CM-beverage-DEF be_good,yɛ baɖɔ sɛ bunuɔ pɛ̃.
+384,st_test_nyan1302_192,nyan1302,yes,1PL-separate give CM:PL-person DEF,1PL-separate give CM:PL-person DEF,bɔ-má kɔ́ ba-nɔ nɔ́
+385,st_test_nyan1302_192,nyan1302,no,1PL-separate give CM:PL-person DEF,1PL-separate give CM:PL-person DEF,"bɔmá kɔ́ banɔ nɔ́,"
+386,st_test_nyan1302_193,nyan1302,yes,2SG-see then 2SG-set_down 2SG-be_at thus,2SG-see then 2SG-pull CM-3SG thus,ɔ-mɔ kã́ o-he ɔ-lɛ́ áníí
+387,st_test_nyan1302_193,nyan1302,no,2SG-see then 2SG-set_down CM-3SG thus,2SG-see then 2SG-pull CM-3SG thus,"ɔmɔ kã́ ohe ɔlɛ́ áníí,"
+388,st_test_nyan1302_194,nyan1302,yes,then 3SG-leave,then 3SG-leave,klɛ a-shɛ̃
+389,st_test_nyan1302_194,nyan1302,no,then 3SG-leave,then 3SG-leave,"klɛ ashɛ̃,"
+390,st_test_nyan1302_195,nyan1302,yes,3PL-3PL-PROG-put_in CM:PL-thing SCONN-give 1PL at there at CM-river-DEF inside,3PL-VENTIVE-PROG-put_in CM:PL-thing SCONN-give 1PL at there at CM-river-DEF inside,ba-ba-á-kpɛ́ bɔ-dɔ̃ a-kɔ́ ɔlɔ́ nɛ́ klɛ́ nɛ́ bu-lĩ́-ɛ́ mɛ
+391,st_test_nyan1302_195,nyan1302,no,3PL-VENTIVE-PROG-put_in CM:PL-thing SCONN-give 1PL at there at CM-river-DEF inside,3PL-VENTIVE-PROG-put_in CM:PL-thing SCONN-give 1PL at there at CM-river-DEF inside,"babaákpɛ́ bɔdɔ̃ akɔ́ ɔlɔ́ nɛ́ klɛ́ nɛ́ bulĩ́ɛ́ mɛ ,"
+392,st_test_nyan1302_196,nyan1302,yes,3SG CM-place 1SG-remain therefore 3SG AM-teach,3SG:Poss CM-place 1SG-remain therefore 3SG AM-teach,yɛ ɔ-kɔ́ mɛ-zã so yɛ a-kasɛ́
+393,st_test_nyan1302_196,nyan1302,no,3SG CM-place 1SG-remain therefore 3SG CM-teach,3SG:Poss CM-place 1SG-remain therefore 3SG AM-teach,yɛ ɔkɔ́ mɛzã so yɛ akasɛ́
+394,st_test_nyan1302_197,nyan1302,yes,all,all,pétéé
+395,st_test_nyan1302_197,nyan1302,no,all,all,"pétéé,"
+396,st_test_nyan1302_198,nyan1302,yes,then be_at 1PL CM:PL-Tutrugbu_person DEF all skin,this be_at 1PL CM:PL-Tutrugbu_person DEF all skin,kɛlɛ lɛ blɔ ba-trugbu ɔ pétéé shú
+397,st_test_nyan1302_198,nyan1302,no,then be_at 1PL CM:PL-Tutrugbu_person DEF all skin,this be_at 1PL CM:PL-Tutrugbu_person DEF all skin,"Kɛlɛ lɛ blɔ batrugbu ɔ pétéé shú,"
+398,st_test_nyan1302_199,nyan1302,yes,then 3SG-NEG:PRES-finish at 2SG:Poss body,then 3SG-already-finish at 2SG:Poss body,kɛlɛ e-tí-béle nɛ́ wɔ shumɛ
+399,st_test_nyan1302_199,nyan1302,no,then 3SG-NEG:PRES-finish at 2SG:Poss body,then 3SG-already-finish at 2SG:Poss body,kɛlɛ etíbéle nɛ́ wɔ shumɛ
+400,st_test_nyan1302_200,nyan1302,yes,this_one 3SG-be CM-fresh_palm_leaf,this_one 3SG-be CM-palm_frond,yálɛ ye-nu o-lumamɔɛ
+401,st_test_nyan1302_200,nyan1302,no,this_one 3SG-be CM-fresh_palm_leaf,this_one 3SG-be CM-palm_frond,"yálɛ yenu olumamɔɛ ,"
+402,st_test_nyan1302_201,nyan1302,yes,1PL-put_in CM:PL-that just,1PL-put_in 3PL just,bɔ-kpɛ́ alɛ́ ko
+403,st_test_nyan1302_201,nyan1302,no,1PL-put_in PROG-be_at just,1PL-put_in 3PL just,"bɔkpɛ́ ́alɛ́ ko ,"
+404,st_test_nyan1302_202,nyan1302,yes,Srõ DEF,Sroe DEF,Srṍé nɔ́
+405,st_test_nyan1302_202,nyan1302,no,Srõ DEF,Sroe DEF,"Srṍé nɔ́,"
+406,st_test_nyan1302_203,nyan1302,yes,CM-chief-DEF AM-give message,CM-chief-DEF AM-give message,e-kusí-ɛ́ a-kɔ́ gbe
+407,st_test_nyan1302_203,nyan1302,no,CM-chief-DEF AM-give message,CM-chief-DEF AM-give message,"ekusíɛ́ akɔ́ gbe ,"
+408,st_test_nyan1302_204,nyan1302,yes,1SG-hit Mawu CM-hand,1SG-hit God CM-hand,i-hú Máwú a-hɔɛ
+409,st_test_nyan1302_204,nyan1302,no,1SG-hit God CM-hand,1SG-hit God CM-hand,"ihú Máwú ahɔɛ ,"
+410,st_test_nyan1302_205,nyan1302,yes,CM-cotton DEF is_this,CM-cotton DEF is_this,o-ɖotí nɔ́ nɔɔ́lɛ
+411,st_test_nyan1302_205,nyan1302,no,CM-cotton DEF is_this,CM-cotton DEF is_this,"oɖotí nɔ́ nɔɔ́lɛ ,"
+412,st_test_nyan1302_206,nyan1302,yes,3SG-FUT-take-3SG,3SG-FUT-take-3SG,a-ba-lɔkɔ-ɛ
+413,st_test_nyan1302_206,nyan1302,no,3SG-FUT-take-3SG,3SG-FUT-take-3SG,"abalɔkɔɛ ,"
+414,st_test_nyan1302_207,nyan1302,yes,CM-3SG SCONN-that 1PL be,CM-3SG SCONN-that 1PL be,ɔ-lɛ a-sɛ blɔ nu 
+415,st_test_nyan1302_207,nyan1302,no,CM-3SG SCONN-that 1PL be,CM-3SG SCONN-that 1PL be,ɔlɛ asɛ blɔ nú
+416,st_test_nyan1302_208,nyan1302,yes,then 2SG-VENITIVE-come CM-3SG,then 2SG-VENITIVE-come CM-this,pɛ ɔ-bɔ-bá a-lɛ
+417,st_test_nyan1302_208,nyan1302,no,then 2SG-VENITIVE-come CM-this,then 2SG-VENITIVE-come CM-this,pɛ ɔbɔbá alɛ
+418,st_test_nyan1302_209,nyan1302,yes,REL 3PL-call that,REL 3PL-call that,gɛ be-klǔ sɛ
+419,st_test_nyan1302_209,nyan1302,no,REL 3PL-call that,REL 3PL-call that,gɛ beklǔ sɛ ...
+420,st_test_nyan1302_210,nyan1302,yes,but 3SG CM-struggle-DEF-place AM-show,but 3SG:Poss CM-leg-CM-place AM-show,gaké yɛ kɛ-tsrɛ̌-ɔ-kɔ́ lɔ-wɛ̃
+421,st_test_nyan1302_210,nyan1302,no,but 3SG CM-struggle AM-drink,but 3SG:Poss CM-leg-CM-place AM-show,"gaké yɛ kɛtsrɛ̌ɔkɔ́ lɔwɛ̃,"
+422,st_test_nyan1302_211,nyan1302,yes,uhm 1PL all 1PL-do CM-time CM-top PRT,uhm 1PL all 1PL-do CM-time CM-top PRT,err blɔ pétéé bɔ-bhɛtɛ ki-be a-bha é
+423,st_test_nyan1302_211,nyan1302,no,uhm 1PL all 1PL-do CM-time CM-top PRT,uhm 1PL all 1PL-do CM-time CM-top PRT,err blɔ pétéé bɔbhɛtɛ kibe abha é
+424,st_test_nyan1302_212,nyan1302,yes,cloth TP,cloth TP,pɔtɛ́ ɛ
+425,st_test_nyan1302_212,nyan1302,no,cloth TP,cloth TP,"(pɔtɛ́) ɛ ,"
+426,st_test_nyan1302_213,nyan1302,yes,3PL-VENTIVE-help CM-1PL,3PL-VENTIVE-help CM-1PL,ba-ba-plɛ́nɔ o-lɔ
+427,st_test_nyan1302_213,nyan1302,no,3PL-VENTIVE-help CM-1PL,3PL-VENTIVE-help CM-1PL,babaplɛ́nɔ olɔ .
+428,st_test_nyan1302_214,nyan1302,yes,at CM-waist,at CM-waist,nɛ́ ka-shɛ̃
+429,st_test_nyan1302_214,nyan1302,no,at CM-waist,at CM-waist,"nɛ́ kashɛ̃,"
+430,st_test_nyan1302_215,nyan1302,yes,therefore shrub_name 3SG:Poss CM-root-DEF 1PL-be_at,therefore shrub_name 3SG:Poss CM-root-DEF AM-be_at,kliso nyimɔ́ yɛ o-gũ-ɔ lɔ-lɛ
+431,st_test_nyan1302_215,nyan1302,no,therefore shrub_name 3SG:Poss CM-root-DEF 1PL-be_at,therefore shrub_name 3SG:Poss CM-root-DEF AM-be_at,"kliso nyimɔ́ yɛ ogũɔ lɔlɛ ,"
+432,st_test_nyan1302_216,nyan1302,yes,REL 1PL-do CM-word AM-one,REL 1PL-do CM-word AM-one,gɛ bɔ-bhɛtɛ ki-búí ti-nikpó
+433,st_test_nyan1302_216,nyan1302,no,REL 1PL-do CM-word AM-one,REL 1PL-do CM-word AM-one,"gɛ bɔbhɛtɛ kibúí tinikpó,"
+434,st_test_nyan1302_217,nyan1302,yes,down,down,kesí
+435,st_test_nyan1302_217,nyan1302,no,down,down,"ésí,"
+436,st_test_nyan1302_218,nyan1302,yes,go-COMITATIVE CM-front,go-COMITATIVE CM-front,vɛ-nɔ o-tugba
+437,st_test_nyan1302_218,nyan1302,no,go-COMITATIVE CM-front,go-COMITATIVE CM-front,"vɛnɔ otugba ,"
+438,st_test_nyan1302_219,nyan1302,yes,therefore-DEF that CM-time owner-DEF AM-know CM-word,therefore-DEF that CM-time owner-DEF AM-know CM-word,kliso-ɔ kɛlɛ́ ki-be leté-ɛ́ be-ti ki-búí
+439,st_test_nyan1302_219,nyan1302,no,therefore-DEF that CM-time owner-DEF AM-know CM-word,therefore-DEF that CM-time owner-DEF AM-know CM-word,"klisoɔ kɛlɛ́ kibe letéɛ́ beti kibúí,"
+440,st_test_nyan1302_220,nyan1302,yes,CM-there,CM-there,ɛ-klɛ́
+441,st_test_nyan1302_220,nyan1302,no,CM-there,CM-there,ɛklɛ́
+442,st_test_nyan1302_221,nyan1302,yes,therefore then 3SG be_at CM-one at there,therefore then 3SG be_at CM-upright at there,so kɛlɛ yɛ lí e-tété nɛ́ klɛ́
+443,st_test_nyan1302_221,nyan1302,no,therefore then 3SG be_at CM-struggle at there,therefore then 3SG be_at CM-upright at there,"so kɛlɛ yɛ lí etété nɛ́ klɛ́,"
+444,st_test_nyan1302_222,nyan1302,yes,then 2SG-return CM-3SG REL 2SG-leave CM-3SG,then CM-rope CM-that REL AM-be_far CM:PL-this,kɛlɛ o-hui ɔ-lɛ́ gɛ o-dze a-lɛ
+445,st_test_nyan1302_222,nyan1302,no,then 2SG-return CM-3SG REL 2SG-leave CM-3SG,then CM-rope CM-that REL AM-be_far CM:PL-this,"kɛlɛ ohui ɔlɛ́ gɛ odze alɛ ,"
+446,st_test_nyan1302_223,nyan1302,yes,uhm therefore-DEF CM-path be_at,uhm therefore-TP CM-path be_at,err so-ɔ ki-dzǒ lɛ́
+447,st_test_nyan1302_223,nyan1302,no,uhm therefore-DEF CM-path be_at,uhm therefore-TP CM-path be_at,"err soɔ kidzǒ lɛ́,"
+448,st_test_nyan1302_224,nyan1302,yes,then 3SG-show,then 3SG-show,kɛlɛ a-kasɛ́
+449,st_test_nyan1302_224,nyan1302,no,then 3SG-show,then 3SG-show,kɛlɛ akasɛ́...
+450,st_test_nyan1302_225,nyan1302,yes,REL CM-be this_one 3SG AM-FUT-give that,REL 3SG-be this_one FOC 3SG-FUT-give that,gɛ e-nu yálɛ yɛ a-ba-kɔ́ sɛ
+451,st_test_nyan1302_225,nyan1302,no,REL CM-be this_one 3SG AM-FUT-give that,REL 3SG-be this_one FOC 3SG-FUT-give that,gɛ enu yálɛ yɛ abakɔ́ sɛ
+452,st_test_nyan1302_226,nyan1302,yes,CM-person time DEF AM-do,CM-person every person AM-do,a-nɔ nyá nɔ a-bhɛtɛ
+453,st_test_nyan1302_226,nyan1302,no,CM-person time DEF AM-do,CM-person every person AM-do,"anɔ nyá nɔ abhɛtɛ ,"
+454,st_test_nyan1302_227,nyan1302,yes,CM:PL-medicine DEF,CM:PL-medicine DEF,bɔ-wá nɔ́
+455,st_test_nyan1302_227,nyan1302,no,CM:PL-medicine DEF,CM:PL-medicine DEF,bɔwá nɔ́.
+456,st_test_nyan1302_228,nyan1302,yes,inside 3SG-remove 3SG CM-teach 1SG that thus 3SG spin,1SG:Poss CM-grandmother FOC AM-teach 1SG that thus 3SG spin,mɛ e-dzě yɛ a-kasɛ́ mɛ sɛ kana yɛ toró
+457,st_test_nyan1302_228,nyan1302,no,inside AM-remain 3SG CM-teach 1SG that thus 3SG spin,1SG:Poss CM-grandmother FOC AM-teach 1SG that thus 3SG spin,mɛ edzě yɛ akasɛ́ mɛ sɛ kana yɛ toró
+458,st_test_nyan1302_229,nyan1302,yes,uhm CM-frog 3PL-climb AM-be_on CM-tree DEF CM-top,uhm CM:PL-frog 3PL-climb SCONN-be_on CM-tree DEF CM-top,ɛrr a-vɔbɔ́ le-wu e-tsiɖi o-sí nɔ́ a-bha
+459,st_test_nyan1302_229,nyan1302,no,uhm CM-frog SCONN-climb AM-be_on CM-tree DEF CM-top,uhm CM:PL-frog 3PL-climb SCONN-be_on CM-tree DEF CM-top,"ɛrr avɔbɔ́ lewu etsiɖi osí nɔ́ abha ,"
+460,st_test_nyan1302_230,nyan1302,yes,CM:PL-certain AM-come_from uhm Aveno,CM:PL-certain AM-come_from uhm Aveno,be-telí e-dě err Avɛnɔ
+461,st_test_nyan1302_230,nyan1302,no,CM:PL-certain AM-come_from uhm Aveno,CM:PL-certain AM-come_from uhm Aveno,betelí edě err Avɛnɔ .
+462,st_test_nyan1302_231,nyan1302,yes,1PL-know CM-remain REL 2SG-remain at 1PL,1PL-know CM-remain REL 2SG-remain at 1PL,bu-nyí kɛ-zã gɛ ɔ-zã nɛ́ blɔ
+463,st_test_nyan1302_231,nyan1302,no,1PL-know CM-remain REL 2SG-remain at 1PL,1PL-know CM-remain REL 2SG-remain at 1PL,bunyí kɛzã gɛ ɔzã nɛ́ blɔ
+464,st_test_nyan1302_232,nyan1302,yes,then 3PL-VENTIVE-take come_with CM-old_person CM-place,then 3PL-FUT-take come_with CM-old CM-place,kɛlɛ ba-ba-lɔkɔ mana e-sheshe ɔ-kɔ́
+465,st_test_nyan1302_232,nyan1302,no,then 3PL-VENTIVE-take come_with CM-old_person CM-place,then 3PL-FUT-take come_with CM-old CM-place,"kɛlɛ babalɔkɔ mana esheshe ɔkɔ́,"
+466,st_test_nyan1302_233,nyan1302,yes,NEG:PRES-not_yet-PROG-climb CM-stone DEF,NEG:PRES-not_yet-PROG-climb CM-stone DEF,tí-ke-é-wu kɛ-klagbu ɔ́
+467,st_test_nyan1302_233,nyan1302,no,NEG:PRES-not_yet-PROG-climb CM-stone DEF,NEG:PRES-not_yet-PROG-climb CM-stone DEF,tíkeéwu kɛklagbu ɔ́
+468,st_test_nyan1302_234,nyan1302,yes,ok,ok,yoo
+469,st_test_nyan1302_234,nyan1302,no,ok,ok,yoo
+470,st_test_nyan1302_235,nyan1302,yes,CM-light-DEF quickly catch_fire COMP 1SG-blow,CM-fire-DEF quickly burn COMP 1SG-blow,ki-fu-ɔ tsyɔ sɔlɛ tɛ i-duku
+471,st_test_nyan1302_235,nyan1302,no,CM-fire-DEF quickly catch_fire COMP 1SG-blow,CM-fire-DEF quickly burn COMP 1SG-blow,kifuɔ tsyɔ sɔlɛ tɛ iduku .
+472,st_test_nyan1302_236,nyan1302,yes,raise blow REL 3SG-be CM-dawadawa_tree 3SG,hold be_hard REL 3SG-be CM-dawadawa_tree 3SG:Poss,vũnɔ gagãlĩ gɛ e-nu bu-dzyuɖí yɛ
+473,st_test_nyan1302_236,nyan1302,no,raise be_hard REL 3SG-be CM-dawadawa_tree 3SG,hold be_hard REL 3SG-be CM-dawadawa_tree 3SG:Poss,vũnɔ gagãlĩ gɛ enu budzyuɖí yɛ
+474,st_test_nyan1302_237,nyan1302,yes,CM-unprocessed_rice 1PL-grind,CM-unprocessed_rice 1PL-grind,a-mɔ́ lɔ-tu
+475,st_test_nyan1302_237,nyan1302,no,CM-unprocessed_rice 1PL-grind,CM-unprocessed_rice 1PL-grind,"amɔ́ lɔtu ,"
+476,st_test_nyan1302_238,nyan1302,yes,well 2PL also 2PL place be_cold,well 2PL also 2PL place be_cold,aa nɔ tsyɛ́ nɔ kɔ́ yɔ́
+477,st_test_nyan1302_238,nyan1302,no,well 2PL also 2PL place be_cold,well 2PL also 2PL place be_cold,Aa nɔ tsyɛ́ nɔ kɔ́ yɔ́.
+478,st_test_nyan1302_239,nyan1302,yes,then 1PL-ask CM-3PL what_is_it,then 1PL-ask CM-3PL what_is_it,kã́ bu-bisi a-lɛ amaneɛ́
+479,st_test_nyan1302_239,nyan1302,no,then 1PL-ask CM-3PL what_is_it,then 1PL-ask CM-3PL what_is_it,kã́ bubisi alɛ amaneɛ́.
+480,st_test_nyan1302_240,nyan1302,yes,give CM:PL father,give CM:PL father,kɔ ba ka
+481,st_test_nyan1302_240,nyan1302,no,give CM:PL father,give CM:PL father,"kɔ ba ka ,"
+482,st_test_nyan1302_241,nyan1302,yes,1SG-REP-see that CM:PL-person AM big,1SG-REP-see that CM:PL-person AM four,ɛ-zɛ-mɔ sɛ ba-nɔ ta tá
+483,st_test_nyan1302_241,nyan1302,no,1SG-REP-see that CM:PL-person AM be_contained,1SG-REP-see that CM:PL-person AM four,"ɛzɛmɔ sɛ banɔ ta tá,"
+484,st_test_nyan1302_242,nyan1302,yes,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,gaké tɛ a-ba-ná ki-be telí kobu-lĩ́-ɛ́ ŋútɔ́ nɔ́ ko
+485,st_test_nyan1302_242,nyan1302,no,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,gaké tɛ abaná kibe telí kobulĩ́ɛ́ ŋútɔ́ nɔ́ ko .
+486,st_test_nyan1302_243,nyan1302,yes,CM-day_removed,CM-day_removed,ki-vũ
+487,st_test_nyan1302_243,nyan1302,no,CM-day_removed,CM-day_removed,kivũ.
+488,st_test_nyan1302_244,nyan1302,yes,3SG-do give inside as,3SG-do give inside as,a-bhɛtɛ kɔ́ mɛ ansɛ
+489,st_test_nyan1302_244,nyan1302,no,3SG-do give inside as,3SG-do give inside as,abhɛtɛ kɔ́ mɛ ansɛ
+490,st_test_nyan1302_245,nyan1302,yes,1PL:POSS CM:PL-skin CM-hand,1PL:POSS CM:PL-skin CM-hand,bɔlɔ i-shú a-hɔɛ
+491,st_test_nyan1302_245,nyan1302,no,1PL:POSS CM:PL-skin CM-hand,1PL:POSS CM:PL-skin CM-hand,Bɔlɔ ishú ahɔɛ
+492,st_test_nyan1302_246,nyan1302,yes,one,one,tenukpó
+493,st_test_nyan1302_246,nyan1302,no,one,one,"tenukpó,"
+494,st_test_nyan1302_247,nyan1302,yes,2SG-say CM-lie,2SG-say CM-lie,ɔ-sɛ a-sɛnɛ́
+495,st_test_nyan1302_247,nyan1302,no,2SG-say CM-lie,2SG-say CM-lie,"ɔsɛ asɛnɛ́,"
+496,st_test_nyan1302_248,nyan1302,yes,CM-owner-DEF at CM-reach-DEF 1SG also ADDR,CM-owner-DEF at CM-reach-DEF inside also ADDR,e-leté-ɛ́ nɛ́ o-kú-ɔ́ mɛ tsyɛ́ oo
+497,st_test_nyan1302_248,nyan1302,no,CM-owner-DEF at CM-reach-DEF inside also ADDR,CM-owner-DEF at CM-reach-DEF inside also ADDR,"eletéɛ́ nɛ́ okúɔ́ mɛ tsyɛ́ oo ,"
+498,st_test_nyan1302_249,nyan1302,yes,DEF 3SG-take go-COMITATIVE CM-room DEF inside,DEF SCONN-take go-COMITATIVE CM-room DEF inside,ɛ́ a-lɔkɔ vɛ-nɔ bu-vũ nɔ́ mɛ
+499,st_test_nyan1302_249,nyan1302,no,DEF 3SG-take go-COMITATIVE CM-room DEF inside,DEF SCONN-take go-COMITATIVE CM-room DEF inside,ɛ́ alɔkɔ vɛnɔ buvũ nɔ́ mɛ
+500,st_test_nyan1302_250,nyan1302,yes,3PL that all 3PL-be CM:PL-medicine REL,3PL that all AM-be CM:PL-medicine REL,balɛ lɛ́ pétéé be-nu ba-wá gɛ
+501,st_test_nyan1302_250,nyan1302,no,3PL that all 3PL-be CM:PL-medicine REL,3PL that all AM-be CM:PL-medicine REL,balɛ lɛ́ pétéé benu bawá gɛ
+502,st_test_nyan1302_251,nyan1302,yes,REL 3SG-be schnapps bottle AM-two CM-bark|shell,REL 3SG-be schnapps bottle AM-two CM-bark|shell,gɛ e-nu schnapps tumpá ta-bha kɛ-kɔlɔ
+503,st_test_nyan1302_251,nyan1302,no,REL 3SG-be schnapps bottle AM-two CM-bark|shell,REL 3SG-be schnapps bottle AM-two CM-bark|shell,gɛ enu schnapps tumpá tabha kɛkɔlɔ
+504,st_test_nyan1302_252,nyan1302,yes,CM-here 1SG-see finish,CM-here 1SG-see finish,ɛ-klɛ mɛ-mɔ sɛ́
+505,st_test_nyan1302_252,nyan1302,no,CM-here 1SG-see finish,CM-here 1SG-see finish,"ɛklɛ mɛmɔ sɛ́,"
+506,st_test_nyan1302_253,nyan1302,yes,CM:PL-bee,3PL-know,be-ti
+507,st_test_nyan1302_253,nyan1302,no,CM:PL-knife,3PL-know,beti
+508,st_test_nyan1302_254,nyan1302,yes,1PL take CM-3SG CM-outside 1PL take cook,1PL take CM-3SG CM-bark 1PL take cook,bɔ lɔkɔ ɔ-lɛ a-kɔ́lɔ́ bɔ lɔkɔ tɔ
+509,st_test_nyan1302_254,nyan1302,no,1PL take CM-3SG CM-outside 1PL take cook,1PL take CM-3SG CM-bark 1PL take cook,bɔ lɔkɔ ɔlɛ akɔ́lɔ́ bɔ lɔkɔ tɔ
+510,st_test_nyan1302_255,nyan1302,yes,all 1PL-FUT-put_on CM-that,all 1PL-FUT-put_on CM-3SG,pétéé bɔ-ba-tɔɖɔ ɛ-lɛ́
+511,st_test_nyan1302_255,nyan1302,no,all 1PL-FUT-put_on CM-3SG,all 1PL-FUT-put_on CM-3SG,"pétéé bɔbatɔɖɔ ɛlɛ́,"
+512,st_test_nyan1302_256,nyan1302,yes,CM:PL-bee,3PL-know,be-ti
+513,st_test_nyan1302_256,nyan1302,no,CM:PL-knife,3PL-know,beti
+514,st_test_nyan1302_257,nyan1302,yes,3SG-FUT-pour,AM-FUT-open,a-ba-dalɛ̃
+515,st_test_nyan1302_257,nyan1302,no,3SG-FUT-pour,AM-FUT-open,"abadalɛ̃,"
+516,st_test_nyan1302_258,nyan1302,yes,yes CM-fire-DEF AM-give that,yes CM-fire-DEF AM-give that,ee ki-fú-ɔ́ a-kɔ́ sɛ
+517,st_test_nyan1302_258,nyan1302,no,yes CM-fire-DEF AM-give that,yes CM-fire-DEF AM-give that,ee kifúɔ́ akɔ́ sɛ ...
+518,st_test_nyan1302_259,nyan1302,yes,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,gaké tɛ a-ba-ná ki-be telí kobu-lĩ́-ɛ́ ŋútɔ́ nɔ́ ko
+519,st_test_nyan1302_259,nyan1302,no,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,but COMP 3SG-VENTIVE-suffice CM-time certain justCM-water-DEF very DEF just,gaké tɛ abaná kibe telí kobulĩ́ɛ́ ŋútɔ́ nɔ́ ko .
+520,st_test_nyan1302_260,nyan1302,yes,3SG-untie,CM-untie,e-bolé
+521,st_test_nyan1302_260,nyan1302,no,3SG-untie,CM-untie,"ebolé,"
+522,st_test_nyan1302_261,nyan1302,yes,then 3PL-put_in-3SG at CM-room-DEF inside,then 3PL-put_in-3SG at CM-room-DEF inside,pɛ ba-kpɛ́-ɛ nɛ́ bu-vũ-ɔ mɛ
+523,st_test_nyan1302_261,nyan1302,no,then 3PL-put_in-3SG at CM-room-DEF inside,then 3PL-put_in-3SG at CM-room-DEF inside,"pɛ bakpɛ́ɛ nɛ́ buvũɔ mɛ ,"
+524,st_test_nyan1302_262,nyan1302,yes,REL 3SG-be CM:PL-thing a_certain NEG:PRES-FUT-come-CM-state inside,REL 3SG-be CM:PL-thing a_certain NEG:PRES-FUT-comeCM-state inside,gɛ e-nu bɔ-dɔ̃ tulí tɛ́-ba-báɔ-ma mɛ
+525,st_test_nyan1302_262,nyan1302,no,REL 3SG-be CM:PL-thing a_certain NEG:PRES-FUT-come-CM-state inside,REL 3SG-be CM:PL-thing a_certain NEG:PRES-FUT-comeCM-state inside,gɛ enu bɔdɔ̃ tulí tɛ́babáɔma mɛ .

@@ -1,0 +1,7816 @@
+{
+    "!\"": [
+        "!\""
+    ],
+    "!”": [
+        "!”"
+    ],
+    "\"": [
+        "\""
+    ],
+    ",": [
+        ","
+    ],
+    ".": [
+        "."
+    ],
+    ".\"": [
+        ".\""
+    ],
+    ".”": [
+        ".”"
+    ],
+    "02": [
+        "02"
+    ],
+    "04": [
+        "04"
+    ],
+    "05": [
+        "05"
+    ],
+    "07": [
+        "07"
+    ],
+    "08": [
+        "08"
+    ],
+    "09": [
+        "09"
+    ],
+    "10": [
+        "10"
+    ],
+    "12": [
+        "12"
+    ],
+    "14": [
+        "14"
+    ],
+    "15": [
+        "15"
+    ],
+    "16": [
+        "16"
+    ],
+    "17": [
+        "17"
+    ],
+    "1700": [
+        "1700"
+    ],
+    "18": [
+        "18"
+    ],
+    "1800": [
+        "1800"
+    ],
+    "19": [
+        "19"
+    ],
+    "1900": [
+        "1900"
+    ],
+    "1915": [
+        "1915"
+    ],
+    "1921": [
+        "1921"
+    ],
+    "1924": [
+        "1924"
+    ],
+    "1928": [
+        "1928"
+    ],
+    "1929": [
+        "1929"
+    ],
+    "1930": [
+        "1930"
+    ],
+    "1932": [
+        "1932"
+    ],
+    "1934": [
+        "1934"
+    ],
+    "1935": [
+        "1935"
+    ],
+    "1936": [
+        "1936"
+    ],
+    "1937": [
+        "1937"
+    ],
+    "1938": [
+        "1938"
+    ],
+    "1939": [
+        "1939"
+    ],
+    "1940": [
+        "1940"
+    ],
+    "1943": [
+        "1943"
+    ],
+    "1948": [
+        "1948"
+    ],
+    "1949": [
+        "1949"
+    ],
+    "1950": [
+        "1950"
+    ],
+    "1951": [
+        "1951"
+    ],
+    "1952": [
+        "1952"
+    ],
+    "1953": [
+        "1953"
+    ],
+    "1954": [
+        "1954"
+    ],
+    "1955": [
+        "1955"
+    ],
+    "1956": [
+        "1956"
+    ],
+    "1958": [
+        "1958"
+    ],
+    "1962": [
+        "1962"
+    ],
+    "1963": [
+        "1963"
+    ],
+    "1965": [
+        "1965"
+    ],
+    "1967": [
+        "1967"
+    ],
+    "1968": [
+        "1968"
+    ],
+    "1972": [
+        "1972"
+    ],
+    "1974": [
+        "1974"
+    ],
+    "1977": [
+        "1977"
+    ],
+    "1978": [
+        "1978"
+    ],
+    "1988": [
+        "1988"
+    ],
+    "1989": [
+        "1989"
+    ],
+    "1991": [
+        "1991"
+    ],
+    "1993": [
+        "1993"
+    ],
+    "1996": [
+        "1996"
+    ],
+    "20": [
+        "20"
+    ],
+    "2005": [
+        "2005"
+    ],
+    "2006": [
+        "2006"
+    ],
+    "2008": [
+        "2008"
+    ],
+    "23": [
+        "23"
+    ],
+    "26": [
+        "26"
+    ],
+    "27": [
+        "27"
+    ],
+    "29": [
+        "29"
+    ],
+    "32": [
+        "32"
+    ],
+    "33": [
+        "33"
+    ],
+    "34": [
+        "34"
+    ],
+    "35": [
+        "35"
+    ],
+    "38": [
+        "38"
+    ],
+    "39": [
+        "39"
+    ],
+    "40": [
+        "40"
+    ],
+    "44": [
+        "44"
+    ],
+    "45": [
+        "45"
+    ],
+    "47": [
+        "47"
+    ],
+    "49": [
+        "49"
+    ],
+    "50": [
+        "50"
+    ],
+    "52": [
+        "52"
+    ],
+    "53": [
+        "53"
+    ],
+    "54": [
+        "54"
+    ],
+    "56": [
+        "56"
+    ],
+    "58": [
+        "58"
+    ],
+    "60": [
+        "60"
+    ],
+    "61": [
+        "61"
+    ],
+    "62": [
+        "62"
+    ],
+    "64": [
+        "64"
+    ],
+    "65": [
+        "65"
+    ],
+    "66": [
+        "66"
+    ],
+    "67": [
+        "67"
+    ],
+    "68": [
+        "68"
+    ],
+    "69": [
+        "69"
+    ],
+    "7": [
+        "7"
+    ],
+    "70": [
+        "70"
+    ],
+    "71": [
+        "71"
+    ],
+    "72": [
+        "72"
+    ],
+    "73": [
+        "73"
+    ],
+    "74": [
+        "74"
+    ],
+    "75": [
+        "75"
+    ],
+    "76": [
+        "76"
+    ],
+    "78": [
+        "78"
+    ],
+    "81": [
+        "81"
+    ],
+    "82": [
+        "82"
+    ],
+    "9": [
+        "9"
+    ],
+    ":": [
+        ":"
+    ],
+    ";": [
+        ";"
+    ],
+    "?": [
+        "?"
+    ],
+    "?\"": [
+        "?\""
+    ],
+    "?”": [
+        "?”"
+    ],
+    "Aglikan": [
+        "Anglican"
+    ],
+    "Agnes": [
+        "Agnes"
+    ],
+    "Aijz": [
+        "Aijz"
+    ],
+    "Akanipua": [
+        "Akanipua"
+    ],
+    "Alankaula": [
+        "Alankaula"
+    ],
+    "Alankaulz": [
+        "Alankaulz"
+    ],
+    "Alfred": [
+        "Alfred"
+    ],
+    "Andru": [
+        "Andru"
+    ],
+    "Anika": [
+        "Anika"
+    ],
+    "Anuta": [
+        "Anuta.Is"
+    ],
+    "Aogzs": [
+        "August"
+    ],
+    "Are": [
+        "Are"
+    ],
+    "Asdikon": [
+        "Archdeacon"
+    ],
+    "Atq": [
+        "Atq"
+    ],
+    "Auki": [
+        "Auki"
+    ],
+    "Austrelia": [
+        "Australia"
+    ],
+    "Bade": [
+        "Bade"
+    ],
+    "Badle": [
+        "Baddeley"
+    ],
+    "Baengr": [
+        "Baengr"
+    ],
+    "Balo": [
+        "Balo"
+    ],
+    "Balq": [
+        "Balq"
+    ],
+    "Bapo": [
+        "Bapo"
+    ],
+    "Basil": [
+        "Basil"
+    ],
+    "Be": [
+        "Be.god"
+    ],
+    "Bei": [
+        "Bay"
+    ],
+    "Ben": [
+        "Ben"
+    ],
+    "Binii": [
+        "Binii"
+    ],
+    "Biukan": [
+        "Biukan"
+    ],
+    "Boerger": [
+        "Boerger"
+    ],
+    "Bokapwr": [
+        "Bokapwr"
+    ],
+    "Bolen": [
+        "Bolen"
+    ],
+    "Bomio": [
+        "Bomio"
+    ],
+    "Boo": [
+        "Boo"
+    ],
+    "Brenda": [
+        "Brenda"
+    ],
+    "Bungana": [
+        "Bungana"
+    ],
+    "Bwapc": [
+        "Bwapc"
+    ],
+    "Bwrnebwr": [
+        "Bwrnebwr"
+    ],
+    "Bwzng": [
+        "Bwzng"
+    ],
+    "Bznwz": [
+        "Bznwz.vil"
+    ],
+    "Cecil": [
+        "Cecil"
+    ],
+    "Churchill": [
+        "Churchill"
+    ],
+    "Clq": [
+        "Clq"
+    ],
+    "DO": [
+        "DO"
+    ],
+    "Dani": [
+        "Dani"
+    ],
+    "Daniel": [
+        "Daniel"
+    ],
+    "Dapq": [
+        "Duff.Is"
+    ],
+    "Dckta": [
+        "Dckta"
+    ],
+    "Disebz": [
+        "December"
+    ],
+    "Dora": [
+        "Dora"
+    ],
+    "Dxi": [
+        "Dxi"
+    ],
+    "Dxvo": [
+        "DXVO"
+    ],
+    "Edwin": [
+        "Edwin"
+    ],
+    "Elisabet": [
+        "Elisabet"
+    ],
+    "Elizabeth": [
+        "Elizabeth"
+    ],
+    "Ellen": [
+        "Ellen"
+    ],
+    "Elsie": [
+        "Elsie"
+    ],
+    "Emily": [
+        "Emily"
+    ],
+    "Enre": [
+        "Enre"
+    ],
+    "Eprol": [
+        "April"
+    ],
+    "Esuz": [
+        "Esuz"
+    ],
+    "Filip": [
+        "Philip"
+    ],
+    "Fiu": [
+        "Fiu.vil"
+    ],
+    "Foks": [
+        "Foks"
+    ],
+    "Fox": [
+        "Fox"
+    ],
+    "Frank": [
+        "Frank"
+    ],
+    "Fredrik": [
+        "Fredrik"
+    ],
+    "Gari": [
+        "Gari"
+    ],
+    "Gct": [
+        "god"
+    ],
+    "Gela": [
+        "Gela"
+    ],
+    "Gresosa": [
+        "Graciosa"
+    ],
+    "Grin": [
+        "Grin"
+    ],
+    "Gwalekana": [
+        "Guadalcanal"
+    ],
+    "Hill": [
+        "Hill"
+    ],
+    "Ikai": [
+        "Ikai"
+    ],
+    "Ilovz": [
+        "Ilovz"
+    ],
+    "Ilrmztangi": [
+        "Ilrmztangi"
+    ],
+    "Ilztrkalr": [
+        "Ilztrkalr"
+    ],
+    "Imanuel": [
+        "Immanuel"
+    ],
+    "Imztq": [
+        "Imztq"
+    ],
+    "Inaoxngr": [
+        "Inaoxngr"
+    ],
+    "Inglan": [
+        "England"
+    ],
+    "Inglis": [
+        "English"
+    ],
+    "Ini": [
+        "Ini"
+    ],
+    "Isabel": [
+        "Isabel"
+    ],
+    "Itopwz": [
+        "Itopwz"
+    ],
+    "Ituku": [
+        "Ituku"
+    ],
+    "Ivaio": [
+        "Ivaio"
+    ],
+    "Iwongr": [
+        "Iwongr"
+    ],
+    "Iwxbu": [
+        "Iwxbu"
+    ],
+    "Jane": [
+        "Jane"
+    ],
+    "Japan": [
+        "Japan"
+    ],
+    "Jenwzri": [
+        "January"
+    ],
+    "Jim": [
+        "Jim"
+    ],
+    "Jiszs": [
+        "Jesus"
+    ],
+    "Jon": [
+        "John"
+    ],
+    "Jos": [
+        "Jos"
+    ],
+    "Josip": [
+        "Joseph"
+    ],
+    "Josis": [
+        "Josis"
+    ],
+    "Julae": [
+        "July"
+    ],
+    "Jun": [
+        "June"
+    ],
+    "Jzmzne": [
+        "Germany"
+    ],
+    "Katerin": [
+        "Katerin"
+    ],
+    "Kcoporetiv": [
+        "Kcoporetiv"
+    ],
+    "Kennedy": [
+        "Kennedy"
+    ],
+    "Ketea": [
+        "Ketea"
+    ],
+    "Kirakira": [
+        "Kirakira"
+    ],
+    "Komisina": [
+        "Komisina"
+    ],
+    "Kopuria": [
+        "Kopuria"
+    ],
+    "Kros": [
+        "Cross"
+    ],
+    "Krus": [
+        "Cruz"
+    ],
+    "Kwin": [
+        "Kwin"
+    ],
+    "Kzbzni": [
+        "Company"
+    ],
+    "Kzpznizm": [
+        "Capernaum"
+    ],
+    "Lapuro": [
+        "Lapuro"
+    ],
+    "Leonard": [
+        "Leonard"
+    ],
+    "Lesile": [
+        "Lesile"
+    ],
+    "Lipz": [
+        "Livers"
+    ],
+    "Loki": [
+        "Loki"
+    ],
+    "Lore": [
+        "Lore"
+    ],
+    "Lrlvz": [
+        "Lrlvz"
+    ],
+    "Lrmz": [
+        "Lrmz"
+    ],
+    "Luga": [
+        "Lungga"
+    ],
+    "Luk": [
+        "Luke"
+    ],
+    "Lvepx": [
+        "Lvepx.vil"
+    ],
+    "Lwovz": [
+        "Lwovz"
+    ],
+    "Lzpli": [
+        "Lzpli"
+    ],
+    "Maekol": [
+        "Michael"
+    ],
+    "Mak": [
+        "Mark"
+    ],
+    "Malaita": [
+        "Malaita"
+    ],
+    "Maluu": [
+        "Maluu"
+    ],
+    "Mancu": [
+        "Mancu.vil"
+    ],
+    "Manfoot": [
+        "Manfoot"
+    ],
+    "Mas": [
+        "March"
+    ],
+    "Mateas": [
+        "Matthias"
+    ],
+    "Mathias": [
+        "Mathias"
+    ],
+    "Mcnika": [
+        "Mcnika"
+    ],
+    "Meabr": [
+        "Meabr"
+    ],
+    "Meamupa": [
+        "Meamupa"
+    ],
+    "Medrka'": [
+        "Medrka'"
+    ],
+    "Meleu": [
+        "Meleu"
+    ],
+    "Melomate": [
+        "Melomate"
+    ],
+    "Menabz": [
+        "Menabz"
+    ],
+    "Menaip": [
+        "Menaip"
+    ],
+    "Menapi": [
+        "Menapi"
+    ],
+    "Menckzpo": [
+        "Menckzpo"
+    ],
+    "Menrlwz": [
+        "Menrlwz"
+    ],
+    "Menrq": [
+        "Menrq"
+    ],
+    "Menzq": [
+        "Menzq"
+    ],
+    "Mepalu": [
+        "Mepalu"
+    ],
+    "Mepapna": [
+        "Mepapna"
+    ],
+    "Merlve": [
+        "Merlve"
+    ],
+    "Metalo": [
+        "Metalo"
+    ],
+    "Metrkrbade": [
+        "Metrkrbade"
+    ],
+    "Mewz": [
+        "Mewz"
+    ],
+    "Mona": [
+        "Mona"
+    ],
+    "Mr": [
+        "Mr"
+    ],
+    "Mrnzq": [
+        "Mrnzq.vil"
+    ],
+    "Mwekati": [
+        "Mwekati"
+    ],
+    "Mwelea": [
+        "Mwelea"
+    ],
+    "Mzdealwx": [
+        "Mzdealwx"
+    ],
+    "Mzdxmingr": [
+        "Mzdxmingr.village"
+    ],
+    "Mzjzbxlo": [
+        "Mzjzbxlo",
+        "Mzjzbxlo.vil"
+    ],
+    "Mzli": [
+        "Mzli"
+    ],
+    "Mzlo": [
+        "Mzlo",
+        "Malo"
+    ],
+    "Mznanq": [
+        "Mznanq"
+    ],
+    "Mznzmipc'": [
+        "Mznzmipc'"
+    ],
+    "Mztq": [
+        "Matq"
+    ],
+    "Nabakxenga": [
+        "Nabakxenga"
+    ],
+    "Nabzlue": [
+        "Nabzlue.vil"
+    ],
+    "Nabzn": [
+        "Naban"
+    ],
+    "Nagu": [
+        "Nagu"
+    ],
+    "Naim": [
+        "Naim"
+    ],
+    "Namc": [
+        "Namc"
+    ],
+    "Naplosx": [
+        "Naplosx"
+    ],
+    "Napr": [
+        "Napr.vil"
+    ],
+    "Narnztilolx": [
+        "Narnztilolx.vil"
+    ],
+    "Natqgu": [
+        "Natqgu"
+    ],
+    "Ncmix": [
+        "Ncmix.vil"
+    ],
+    "Ncnia": [
+        "Ncnia.vil"
+    ],
+    "Ncnqmz": [
+        "Ncnqmz.vil"
+    ],
+    "Ncokz": [
+        "Nookz.vil"
+    ],
+    "Ncole": [
+        "Noole.vil"
+    ],
+    "Nea": [
+        "Nea.vil"
+    ],
+    "Neboi": [
+        "Neboi.vil"
+    ],
+    "Nebrnz": [
+        "Nebrnz.vil"
+    ],
+    "Nemya": [
+        "Nemya"
+    ],
+    "Nemya'": [
+        "Nemya'.Is"
+    ],
+    "Neo": [
+        "Neo.vil"
+    ],
+    "Nepa'": [
+        "Nepa'"
+    ],
+    "Nepr": [
+        "Nepr.vil"
+    ],
+    "Nepwzli": [
+        "Nepwzli.district"
+    ],
+    "Nevi": [
+        "Navy"
+    ],
+    "Niu": [
+        "New"
+    ],
+    "Novebz": [
+        "November"
+    ],
+    "Nrpakxmrlz": [
+        "Good.News"
+    ],
+    "Nrrle": [
+        "Nrrle.vil"
+    ],
+    "Nzlqwc": [
+        "Nzlqwc"
+    ],
+    "Nzlvz": [
+        "Reef.Is"
+    ],
+    "Nzo": [
+        "Nzo"
+    ],
+    "Nzryrngrkxtr": [
+        "Nzryrngrkxtr"
+    ],
+    "Ol": [
+        "All"
+    ],
+    "Oti": [
+        "Oti"
+    ],
+    "Pa'lz": [
+        "Pa'lz"
+    ],
+    "Parapolo": [
+        "Parapolo"
+    ],
+    "Pauabu": [
+        "Pauabu"
+    ],
+    "Paumalepc": [
+        "Paumalepc"
+    ],
+    "Pawa": [
+        "Pawa.school",
+        "Pawa"
+    ],
+    "Pileni": [
+        "Pileni.Is"
+    ],
+    "Pilip": [
+        "Pilip"
+    ],
+    "Pingalr": [
+        "Pingalr"
+    ],
+    "Pita": [
+        "Peter"
+    ],
+    "Pol": [
+        "Paul"
+    ],
+    "Polykap": [
+        "Polykap"
+    ],
+    "Poodo": [
+        "Poodo"
+    ],
+    "Primiz": [
+        "Premier"
+    ],
+    "Prpx": [
+        "Prpx"
+    ],
+    "R": [
+        "R",
+        "Er"
+    ],
+    "Renols": [
+        "Renols"
+    ],
+    "Residen": [
+        "Residen"
+    ],
+    "Rik": [
+        "Rik"
+    ],
+    "Roklip": [
+        "Roklip"
+    ],
+    "Roman": [
+        "Catholic"
+    ],
+    "SSEC": [
+        "SSEC"
+    ],
+    "Sada": [
+        "Santa"
+    ],
+    "Sade": [
+        "Sunday"
+    ],
+    "Saemon": [
+        "Simon"
+    ],
+    "Saemons": [
+        "Saemons"
+    ],
+    "Sam": [
+        "Psalm"
+    ],
+    "Samson": [
+        "Sampson"
+    ],
+    "Samwel": [
+        "Samuel"
+    ],
+    "Samwi": [
+        "Samwi"
+    ],
+    "Saotzn": [
+        "Southern"
+    ],
+    "Satqde": [
+        "Saturday"
+    ],
+    "Savo": [
+        "Savo"
+    ],
+    "Selwin": [
+        "Selwin"
+    ],
+    "Sen": [
+        "St."
+    ],
+    "Sens": [
+        "Saints"
+    ],
+    "Sevenoklck": [
+        "Sevenoklck"
+    ],
+    "Sikaiana": [
+        "Sikaiana"
+    ],
+    "Silan": [
+        "Zealand"
+    ],
+    "Silas": [
+        "Silas"
+    ],
+    "Siota": [
+        "Siota"
+    ],
+    "Skul": [
+        "Skul"
+    ],
+    "Sophia": [
+        "Sophia"
+    ],
+    "Sosaeti": [
+        "Sosaeti",
+        "Society"
+    ],
+    "Srpi": [
+        "Srpi"
+    ],
+    "Stanley": [
+        "Stanley"
+    ],
+    "Stibad": [
+        "Stibad"
+    ],
+    "Stipin": [
+        "Stipin"
+    ],
+    "Susi": [
+        "Susi"
+    ],
+    "Telenapo": [
+        "Telenapo"
+    ],
+    "Tenaru": [
+        "Tenaru"
+    ],
+    "Tikopia": [
+        "Tikopia.Is"
+    ],
+    "Tobaita": [
+        "Tobaita"
+    ],
+    "Toke": [
+        "Toke"
+    ],
+    "Tomas": [
+        "Thomas"
+    ],
+    "Tomson": [
+        "Tomson"
+    ],
+    "Trmctu": [
+        "Trmctu"
+    ],
+    "Tulzgi": [
+        "Tulagi"
+    ],
+    "Tzlede": [
+        "Tzlede"
+    ],
+    "Tznbol": [
+        "Tznbol"
+    ],
+    "Tzngarare": [
+        "Tzngarare"
+    ],
+    "Usi": [
+        "Usi"
+    ],
+    "Utupua": [
+        "Utupua.Is"
+    ],
+    "Vanikoro": [
+        "Vanikoro.Is"
+    ],
+    "Vanuatu": [
+        "Vanuatu"
+    ],
+    "Vea": [
+        "Vea"
+    ],
+    "Veranaaso": [
+        "Veranaaso"
+    ],
+    "Veronika": [
+        "Veronika"
+    ],
+    "Vxngr": [
+        "Vxngr.vil"
+    ],
+    "Wes": [
+        "Wes"
+    ],
+    "Wili": [
+        "Wili"
+    ],
+    "Wurm": [
+        "Wurm"
+    ],
+    "Yati": [
+        "Yati"
+    ],
+    "Yc": [
+        "Yc.village"
+    ],
+    "Yiz": [
+        "Year"
+    ],
+    "Yrngao": [
+        "Yrngao"
+    ],
+    "Yrpusz": [
+        "Yrpusz"
+    ],
+    "a": [
+        "oh!"
+    ],
+    "a'": [
+        "but"
+    ],
+    "abrelz": [
+        "umbrella"
+    ],
+    "abrtrbo": [
+        "CAUS-trust-GDIR.IN-bz(PDIR.YON).o(1MINI)"
+    ],
+    "abrtztxngrde": [
+        "be.happy-INTS-APPL-3MINII"
+    ],
+    "abrtztxngrne": [
+        "be.happy-INTS-APPL-1MINII"
+    ],
+    "abrtztxpekr": [
+        "be.happy-INTS-COS-1AUGI"
+    ],
+    "abzkzle": [
+        "try-also-3MINIA"
+    ],
+    "abzo": [
+        "start"
+    ],
+    "abzokr": [
+        "start-1AUGI"
+    ],
+    "aclvebzle": [
+        "oversee-PDIR.YON-3MINIA"
+    ],
+    "aclvele": [
+        "oversee-3MINIA"
+    ],
+    "aelwapxpnz": [
+        "show-GDIR.OUT-CMPL"
+    ],
+    "aglqpz'": [
+        "flash"
+    ],
+    "aglqtrmqgr": [
+        "CAUS-carry-GDIR.IN-PDIR.HITHER-1AUGII"
+    ],
+    "aglrkr": [
+        "CAUS-be.dry-1AUGI"
+    ],
+    "agz": [
+        "anchor"
+    ],
+    "akiokr": [
+        "distribute-GDIR.DOWN-1AUGI"
+    ],
+    "alele": [
+        "do-3MINIA"
+    ],
+    "alfabet": [
+        "alphabet"
+    ],
+    "alo": [
+        "forever"
+    ],
+    "alvztrle": [
+        "teach-3MINIA"
+    ],
+    "alvztrmoux": [
+        "teach-again-1MINI"
+    ],
+    "alvztrngrne": [
+        "teach-APPL-1MINII"
+    ],
+    "alvztrtxngrne": [
+        "teach-INTS-APPL-1MINII"
+    ],
+    "alvztrx": [
+        "teach-1MINI"
+    ],
+    "ami": [
+        "army"
+    ],
+    "amnqtxtrbo": [
+        "bequeath-INTS-GDIR.IN-bz(PDIR.YON).o(1MINI)"
+    ],
+    "amrlx": [
+        "all"
+    ],
+    "amrlxpe": [
+        "all-COS"
+    ],
+    "amukxtrtx": [
+        "CAUS-eat-SUBR-holy-INTS"
+    ],
+    "angctikr": [
+        "CAUS-burn-TR-1AUGI"
+    ],
+    "angidatipnzle": [
+        "fulfill-TR-CMPL-3MINIA"
+    ],
+    "angidr": [
+        "really"
+    ],
+    "aolvz": [
+        "accept"
+    ],
+    "aolvzbz": [
+        "accept-PDIR.YON"
+    ],
+    "aoti": [
+        "think-TR"
+    ],
+    "apqtrle": [
+        "CAUS-hot-GDIR.IN-3MINIA"
+    ],
+    "apule": [
+        "be.like-3MINIA"
+    ],
+    "asumipebo": [
+        "CAUS-be.cooking-DPV-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "atalxblrkr": [
+        "collect-together-1AUGI"
+    ],
+    "ataplxsrle": [
+        "CAUS-be.distributed.evenly-3MINIA"
+    ],
+    "ateØ": [
+        "afterward-3MINIS"
+    ],
+    "atrkatitxatwrnrngrde": [
+        "CAUS-bad-TR-INTS-wholly-APPL-3MINII"
+    ],
+    "atubxlzle": [
+        "CAUS-stand-support-GDIR.UP-3MINIA"
+    ],
+    "atulzngr": [
+        "CAUS-stand-GDIR.UP-APPL"
+    ],
+    "atulztxkr": [
+        "build-INTS-1AUGI"
+    ],
+    "atutrpele": [
+        "CAUS-fulfill-COS-3MINIA"
+    ],
+    "atwzlrngrmq": [
+        "dispatch-APPL-PDIR.HITHER"
+    ],
+    "atwzlrngrmqle": [
+        "dispatch-APPL-PDIR.HITHER-3MINIA"
+    ],
+    "aveatizvzmqle": [
+        "summon-always-PDIR.HITHER-3MINIA"
+    ],
+    "awitxbo": [
+        "thank-INTS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "awitxngrbo": [
+        "thank-INTS-APPL-bz(PDIR.YON).o(1MINI)"
+    ],
+    "ayamemqxle": [
+        "CAUS-sway-PDIR.HITHER-1MINI-3MINIIP"
+    ],
+    "ayrnr": [
+        "first"
+    ],
+    "ayrplapx": [
+        "punish"
+    ],
+    "ayzlubzle": [
+        "CAUS-reply-PDIR.YON-3MINIA"
+    ],
+    "ayzlumqle": [
+        "CAUS-return-PDIR.HITHER-3MINIA"
+    ],
+    "ayzlungrbo": [
+        "CAUS-reply-APPL-bz(PDIR.YON).o(1MINI)"
+    ],
+    "ayzprtilzpnzkaix": [
+        "cut.in.two-TR-GDIR.UP-CMPL-first-1MINI"
+    ],
+    "bade": [
+        "DAT.3MINII"
+    ],
+    "badr": [
+        "DAT.3AUGII",
+        "ᴄᴏᴍ.ᴘʟ"
+    ],
+    "bagr": [
+        "DAT.1AUGII"
+    ],
+    "bagu": [
+        "DAT.12AUGII"
+    ],
+    "bam": [
+        "DAT.2MINII"
+    ],
+    "bange": [
+        "DAT.1MINII"
+    ],
+    "banyapu": [
+        "pineapple"
+    ],
+    "baone": [
+        "cold-INTS"
+    ],
+    "baongrde": [
+        "blow-APPL-3MINII"
+    ],
+    "be": [
+        "story",
+        "skin"
+    ],
+    "bea": [
+        "midday"
+    ],
+    "belenga": [
+        "belenga"
+    ],
+    "belo": [
+        "bell"
+    ],
+    "bia": [
+        "breadfruit"
+    ],
+    "bingar": [
+        "small.red.ant"
+    ],
+    "bisket": [
+        "cracker"
+    ],
+    "bisop": [
+        "bishop"
+    ],
+    "biz": [
+        "beer"
+    ],
+    "blaopu": [
+        "be.brown"
+    ],
+    "blq": [
+        "be.black"
+    ],
+    "blrkqgr": [
+        "grandmother-1AUGII"
+    ],
+    "blrkqnge": [
+        "grandmother-1MINII"
+    ],
+    "blxget": [
+        "blanket"
+    ],
+    "blz": [
+        "offering",
+        "sacrifice"
+    ],
+    "blzmr": [
+        "myriad"
+    ],
+    "bo": [
+        "black"
+    ],
+    "boi": [
+        "long"
+    ],
+    "boitx": [
+        "long-INTS"
+    ],
+    "boksing": [
+        "boxing"
+    ],
+    "bom": [
+        "bomb"
+    ],
+    "bomle": [
+        "bomb-3MINIA"
+    ],
+    "bona": [
+        "pigeon"
+    ],
+    "bongavz": [
+        "sky"
+    ],
+    "bot": [
+        "boat"
+    ],
+    "bq": [
+        "yesterday",
+        "ash"
+    ],
+    "bqnc": [
+        "long.ago"
+    ],
+    "bqpe": [
+        "kill-COS"
+    ],
+    "bqtc": [
+        "wart"
+    ],
+    "br": [
+        "br",
+        "net"
+    ],
+    "bret": [
+        "bread"
+    ],
+    "brma": [
+        "home"
+    ],
+    "brtitx": [
+        "ripe-TR-INTS"
+    ],
+    "buk": [
+        "book"
+    ],
+    "but": [
+        "shoe"
+    ],
+    "bute'": [
+        "corner.3D"
+    ],
+    "bwa": [
+        "shark"
+    ],
+    "bx": [
+        "gray"
+    ],
+    "bxki": [
+        "bag"
+    ],
+    "bxli": [
+        "basket"
+    ],
+    "bxn": [
+        "band"
+    ],
+    "bxpizpxØ": [
+        "split-GDIR.OUT-3MINIS"
+    ],
+    "bxplitipe": [
+        "rip-TR-COS"
+    ],
+    "bxtrtxpwz": [
+        "twist-GDIR.IN-INTS-just"
+    ],
+    "bz": [
+        "boundary",
+        "bludgeon",
+        "die"
+    ],
+    "bzamu": [
+        "die-2AUGI"
+    ],
+    "bzngrde": [
+        "bludgeon-APPL-3MINII"
+    ],
+    "bzo": [
+        "army"
+    ],
+    "bzpekr": [
+        "die-COS-1AUGI"
+    ],
+    "bzprlzpemq": [
+        "die-crack-GDIR.UP-COS-PDIR.HITHER"
+    ],
+    "bztipede": [
+        "die-TR-COS-3MINII"
+    ],
+    "bztxpnz": [
+        "die-INTS-CMPL"
+    ],
+    "ckrle": [
+        "pineapple"
+    ],
+    "da": [
+        "thing"
+    ],
+    "dabungr": [
+        "heart-GEN1A"
+    ],
+    "dakc": [
+        "thing-DEM2.DIST"
+    ],
+    "dakxnzng": [
+        "food"
+    ],
+    "dalc": [
+        "thing-DEM1.DIST"
+    ],
+    "dalr": [
+        "things.of",
+        "people.of"
+    ],
+    "dapu": [
+        "piece"
+    ],
+    "dc": [
+        "fall"
+    ],
+    "dc*plxtipe": [
+        "fall-go.through-TR-COS"
+    ],
+    "dcbz": [
+        "cloud"
+    ],
+    "dckrlzde": [
+        "chapter"
+    ],
+    "dckta": [
+        "doctor.med"
+    ],
+    "dcpwe": [
+        "salt.water"
+    ],
+    "dekc": [
+        "this"
+    ],
+    "dela": [
+        "there.it.is"
+    ],
+    "delc": [
+        "this"
+    ],
+    "digi": [
+        "dinghy"
+    ],
+    "dikon": [
+        "deacon"
+    ],
+    "diksonare": [
+        "dictionary"
+    ],
+    "doa": [
+        "child",
+        "person"
+    ],
+    "dq": [
+        "INDF.SG"
+    ],
+    "draea": [
+        "drier"
+    ],
+    "dril": [
+        "drill"
+    ],
+    "drka'": [
+        "demon",
+        "spirit.being"
+    ],
+    "drlve": [
+        "where"
+    ],
+    "drlz": [
+        "design"
+    ],
+    "drlzde": [
+        "colour-3MINII"
+    ],
+    "drlzdr": [
+        "colour-3AUGII"
+    ],
+    "drlzdrngq": [
+        "colour-3AUGII-PL"
+    ],
+    "drta'": [
+        "sand"
+    ],
+    "drta'dr": [
+        "food-3AUGII"
+    ],
+    "drtc'": [
+        "ground"
+    ],
+    "drtq": [
+        "name"
+    ],
+    "drtqde": [
+        "name-3MINII",
+        "body-3MINII"
+    ],
+    "drtqdr": [
+        "name-3AUGII",
+        "body-3AUGII"
+    ],
+    "drtqgr": [
+        "body-1AUGII"
+    ],
+    "drtqmq": [
+        "body-2MINII"
+    ],
+    "drtqnge": [
+        "body-1MINII"
+    ],
+    "drtwr": [
+        "mind"
+    ],
+    "drtwrde": [
+        "drtwrde"
+    ],
+    "drtwrdr": [
+        "neck-3AUGII",
+        "mind-3AUGII"
+    ],
+    "drtwrgr": [
+        "neck-1AUGII"
+    ],
+    "drtwrmq": [
+        "neck-2MINII"
+    ],
+    "drtwrnge": [
+        "mind-1MINII"
+    ],
+    "drtwrngele": [
+        "neck-1MINII-3MINIIP"
+    ],
+    "drvrminemqle": [
+        "cover.from.rain-DPV-INTS-PDIR.HITHER-3MINIA"
+    ],
+    "drvrngrgr": [
+        "cover.from.rain-APPL-1AUGII"
+    ],
+    "du": [
+        "INDF.PL"
+    ],
+    "dwa*plxngrtipekr": [
+        "jump-go.through-APPL-TR-COS-1AUGI"
+    ],
+    "dwakr": [
+        "jump-1AUGI"
+    ],
+    "dwalzmmqgr": [
+        "awaken-PDIR.HITHER-1AUGII"
+    ],
+    "dwalzmqgr": [
+        "flee-GDIR.UP-PDIR.HITHER-1AUGII"
+    ],
+    "dwalzmrbrlzngrmqgr": [
+        "awaken-wrong-GDIR.UP-APPL-PDIR.HITHER-1AUGII"
+    ],
+    "dwamitxtrzpwxkr": [
+        "escape.with-INTS-GDIR.IN-true-1AUGI"
+    ],
+    "dwaobzkr": [
+        "jump-GDIR.DOWN-PDIR.YON-1AUGI"
+    ],
+    "dwaozvzle": [
+        "jump-GDIR.DOWN-always-3MINIA"
+    ],
+    "dwasxpxkzmqgr": [
+        "jump-away.from-GDIR.OUT-also-PDIR.HITHER-1AUGII"
+    ],
+    "dwatrbzkr": [
+        "jump-GDIR.IN-PDIR.YON-1AUGI"
+    ],
+    "dxbu": [
+        "lake"
+    ],
+    "dxvo": [
+        "tsunami"
+    ],
+    "dzbe": [
+        "group"
+    ],
+    "dzbede": [
+        "group"
+    ],
+    "dzbedr": [
+        "group-3AUGII"
+    ],
+    "dzbi": [
+        "famine"
+    ],
+    "dzbr": [
+        "root"
+    ],
+    "dzbrde": [
+        "root-3MINII"
+    ],
+    "dzbrdr": [
+        "root-3AUGII"
+    ],
+    "dztu": [
+        "possessions"
+    ],
+    "dztudr": [
+        "possessions-3AUGII"
+    ],
+    "dzu": [
+        "portion"
+    ],
+    "e": [
+        "or",
+        "yes"
+    ],
+    "ebio": [
+        "sea.swell"
+    ],
+    "eke": [
+        "INTJ"
+    ],
+    "ekqtxkr": [
+        "dig-INTS-1AUGI"
+    ],
+    "ela": [
+        "that.one-DEM1.PROΧ"
+    ],
+    "elalztxmq": [
+        "elalz-INTS-PDIR.HITHER"
+    ],
+    "elr": [
+        "therein"
+    ],
+    "emwrngr": [
+        "last-APPL"
+    ],
+    "ena": [
+        "just"
+    ],
+    "enjin": [
+        "engine"
+    ],
+    "enqmi": [
+        "enemy"
+    ],
+    "esablqpxmq": [
+        "turn.one's.back-GDIR.OUT-PDIR.HITHER"
+    ],
+    "esz'": [
+        "be.one"
+    ],
+    "esz'mz": [
+        "six"
+    ],
+    "esz'ti": [
+        "be.one-TR"
+    ],
+    "esz'txu": [
+        "only.one"
+    ],
+    "etu": [
+        "be.big"
+    ],
+    "etunepx": [
+        "be.big-INTS-GDIR.OUT"
+    ],
+    "etunepxzvzle": [
+        "be.big-INTS-GDIR.OUT-always-3MINIA"
+    ],
+    "etutx": [
+        "be.big-INTS"
+    ],
+    "eu": [
+        "yes"
+    ],
+    "ezpct": [
+        "airport"
+    ],
+    "fom": [
+        "form"
+    ],
+    "gas": [
+        "propane"
+    ],
+    "glqlzmqle": [
+        "carry-GDIR.UP-PDIR.HITHER-3MINIA"
+    ],
+    "glqtxole": [
+        "carry-INTS-GDIR.DOWN-3MINIA"
+    ],
+    "glrtipengq": [
+        "be.dry-TR-COS-PL"
+    ],
+    "gq": [
+        "hole"
+    ],
+    "gzpman": [
+        "government"
+    ],
+    "haosboe": [
+        "houseboy"
+    ],
+    "hat": [
+        "hat"
+    ],
+    "hedmastz": [
+        "headmaster"
+    ],
+    "houkr": [
+        "hoe-1AUGI"
+    ],
+    "ikzkr": [
+        "cut.grass-1AUGI"
+    ],
+    "inyx": [
+        "daughter"
+    ],
+    "inyxdengq": [
+        "daughter-3MINII-PL"
+    ],
+    "ipqpebo": [
+        "forgive-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "itange": [
+        "grandfather-1MINII"
+    ],
+    "joseph": [
+        "joseph"
+    ],
+    "ka": [
+        "DEM2.PROΧ"
+    ],
+    "kabo": [
+        "give-bz(PDIR.YON).o(1MINI)"
+    ],
+    "kai": [
+        "first",
+        "pudding"
+    ],
+    "kalo": [
+        "loincloth"
+    ],
+    "kalrla": [
+        "tomorrow"
+    ],
+    "kampi": [
+        "camp"
+    ],
+    "kamq": [
+        "give-PDIR.HITHER"
+    ],
+    "kamqle": [
+        "give-PDIR.HITHER-3MINIA"
+    ],
+    "kang": [
+        "these"
+    ],
+    "kansrl": [
+        "council"
+    ],
+    "kaputrpq": [
+        "arrive"
+    ],
+    "kapxmqx": [
+        "remove-PDIR.HITHER-1MINI"
+    ],
+    "kapxomqamu": [
+        "remove-GDIR.DOWN-PDIR.HITHER-2AUGI"
+    ],
+    "kapxtxlzmqle": [
+        "remove-INTS-GDIR.UP-PDIR.HITHER-3MINIA"
+    ],
+    "katitxpxkzx": [
+        "call.out-INTS-GDIR.OUT-also-1MINI"
+    ],
+    "katkis": [
+        "catechist"
+    ],
+    "katris": [
+        "bullet"
+    ],
+    "kau": [
+        "last.night"
+    ],
+    "kazvzbo": [
+        "give-always-bz(PDIR.YON).o(1MINI)"
+    ],
+    "kc": [
+        "DEM2.DIST"
+    ],
+    "kcma": [
+        "that.one"
+    ],
+    "kcmiti": [
+        "committee"
+    ],
+    "kcng": [
+        "those"
+    ],
+    "kcngpe": [
+        "those-COS"
+    ],
+    "kcpe": [
+        "DEM2.DIST-COS"
+    ],
+    "kcpwz": [
+        "same"
+    ],
+    "kctitxpxx": [
+        "marvel-INTS-GDIR.OUT-1MINI"
+    ],
+    "kilznede": [
+        "drag-INTS-3MINII"
+    ],
+    "kio": [
+        "chicken"
+    ],
+    "klas": [
+        "class"
+    ],
+    "kosi": [
+        "course"
+    ],
+    "kq": [
+        "cover"
+    ],
+    "kqlepele": [
+        "call.someone-COS-3MINIA"
+    ],
+    "kqlu": [
+        "many"
+    ],
+    "kqlupe": [
+        "many-COS"
+    ],
+    "kqlutx": [
+        "many-INTS"
+    ],
+    "kqlutxpe": [
+        "many-INTS-COS"
+    ],
+    "kqomqle": [
+        "cover-GDIR.DOWN-PDIR.HITHER-3MINIA"
+    ],
+    "kqtitxkzkr": [
+        "pick-TR-INTS-kz-1AUGI"
+    ],
+    "kraesz'mz": [
+        "sixth"
+    ],
+    "krali": [
+        "ORD-two"
+    ],
+    "kranzlvqn": [
+        "fifth"
+    ],
+    "krapwx": [
+        "ORD-four"
+    ],
+    "kratq": [
+        "ORD-three"
+    ],
+    "krde": [
+        "NMLZ.POSS-3MINII"
+    ],
+    "krikit": [
+        "cricket"
+    ],
+    "krka'nepwzkr": [
+        "pray-INTS-just-1AUGI"
+    ],
+    "krka'txkr": [
+        "pray-INTS-1AUGI"
+    ],
+    "krkc": [
+        "RPRN2.DEM2.DIST"
+    ],
+    "krla": [
+        "RPRN2.DEM1.PROΧ"
+    ],
+    "krlc": [
+        "krlc"
+    ],
+    "krlcde": [
+        "RPRN2-DEM1.DIST-3MINII"
+    ],
+    "krlcdengq": [
+        "RPRN2-DEM1.DIST-3MINII-PL"
+    ],
+    "krlcng": [
+        "these"
+    ],
+    "krlzangidrkr": [
+        "know-really-1AUGI"
+    ],
+    "krlzbo": [
+        "reach-bz(PDIR.YON).o(1MINI)"
+    ],
+    "krlzbzkr": [
+        "reach-PDIR.YON-1AUGI"
+    ],
+    "krlzbzle": [
+        "reach-PDIR.YON-3MINIA",
+        "know-PDIR.YON-3MINIA"
+    ],
+    "krlzle": [
+        "be.able-3MINIA"
+    ],
+    "krlzlzbo": [
+        "reach-GDIR.UP-bz(PDIR.YON).o(1MINI)"
+    ],
+    "krlzlzbzkr": [
+        "reach-GDIR.UP-PDIR.YON-1AUGI"
+    ],
+    "krlzmqgr": [
+        "reach-PDIR.HITHER-1AUGII"
+    ],
+    "krlzmqle": [
+        "reach-PDIR.HITHER-3MINIA"
+    ],
+    "krlzpebo": [
+        "know-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "krlzpekr": [
+        "know-COS-1AUGI"
+    ],
+    "krlztxzpwxbzle": [
+        "reach-INTS-true-PDIR.YON-3MINIA"
+    ],
+    "krlzu": [
+        "wait!"
+    ],
+    "krnedr": [
+        "RPRN2-PCLF.RSBL-3AUGII"
+    ],
+    "krnyzdr": [
+        "that.of-3AUGII"
+    ],
+    "kros": [
+        "cross"
+    ],
+    "krscdr": [
+        "RPRN2-PCLF.HAND-3AUGII"
+    ],
+    "kru": [
+        "crew"
+    ],
+    "kuli": [
+        "dog"
+    ],
+    "kumara": [
+        "kumara"
+    ],
+    "kx": [
+        "SUBR"
+    ],
+    "kxakrlz": [
+        "teacher"
+    ],
+    "kxalvztr": [
+        "SUBR-teach"
+    ],
+    "kxaonrwx": [
+        "peacemaker"
+    ],
+    "kxbqgr": [
+        "uncle.nephew-1AUGII"
+    ],
+    "kxbqngq": [
+        "uncle.nephew-PL"
+    ],
+    "kxesz'": [
+        "SUBR-be.one"
+    ],
+    "kxesz'ne": [
+        "SUBR-be.one-INTS"
+    ],
+    "kxetu": [
+        "leader",
+        "Lord"
+    ],
+    "kxetubz": [
+        "SUBR-be.big-PDIR.YON"
+    ],
+    "kxetutingq": [
+        "SUBR-be.big-TR-PL"
+    ],
+    "kxglr": [
+        "SUBR-be.dry"
+    ],
+    "kxkqlu": [
+        "SUBR-many"
+    ],
+    "kxkz": [
+        "shaman"
+    ],
+    "kxli": [
+        "SUBR-two"
+    ],
+    "kxmc": [
+        "SUBR-left.side"
+    ],
+    "kxmrna": [
+        "SUBR-new"
+    ],
+    "kxmu": [
+        "be.like",
+        "how"
+    ],
+    "kxmukzle": [
+        "be.like-also-3MINIA"
+    ],
+    "kxmule": [
+        "SUBR-be.like-3MINIA"
+    ],
+    "kxmyapxbz": [
+        "SUBR-important"
+    ],
+    "kxngrlxobzle": [
+        "SUBR-daylight-GDIR.DOWN-PDIR.YON-3MINIA"
+    ],
+    "kxnzakrlz": [
+        "teachers"
+    ],
+    "kxnzakrlzng": [
+        "SUBR-NMLZ1-CAUS-know-3AUGIS"
+    ],
+    "kxnzalvzting": [
+        "SUBR-NMLZ1-teach-TR-3AUGIS"
+    ],
+    "kxnzalvztrng": [
+        "teachers"
+    ],
+    "kxnzaonrwx": [
+        "SUBR-3AUG-CAUS-go-peace"
+    ],
+    "kxnzetu": [
+        "SUBR-3AUG-be.big"
+    ],
+    "kxnzetung": [
+        "bigmen"
+    ],
+    "kxnzkqlu": [
+        "SUBR-3AUG-many"
+    ],
+    "kxnzmnztrng": [
+        "sorcerers"
+    ],
+    "kxnzngq": [
+        "SUBR-PAS-eat"
+    ],
+    "kxnzrtekqtr": [
+        "SUBR-3AUG-MID-exchange"
+    ],
+    "kxnzsiklu": [
+        "SUBR-3AUG-be.schooled"
+    ],
+    "kxnzsiklung": [
+        "SUBR-NMLZ1-siklu-3AUGIS",
+        "SUBR-NMLZ1-be.schooled-3AUGIS"
+    ],
+    "kxnztopwz": [
+        "SUBR-3AUG-be.small"
+    ],
+    "kxnztopwzngq": [
+        "SUBR-3AUG-be.small-PL"
+    ],
+    "kxnzyagoxngq": [
+        "SUBR-3AUG-be.sick-3AUGIS"
+    ],
+    "kxpipz": [
+        "little"
+    ],
+    "kxplc": [
+        "SUBR-ripe"
+    ],
+    "kxpo": [
+        "SUBR-young"
+    ],
+    "kxprki": [
+        "SUBR-white"
+    ],
+    "kxrpalz": [
+        "creator"
+    ],
+    "kxrtc": [
+        "SUBR-right"
+    ],
+    "kxrtekqtr": [
+        "SUBR-MID-exchange"
+    ],
+    "kxsqki": [
+        "sore"
+    ],
+    "kxtopwz": [
+        "SUBR-be.small"
+    ],
+    "kxtopwzne": [
+        "SUBR-be.small-INTS"
+    ],
+    "kxtopwztingq": [
+        "SUBR-be.small-TR-PL"
+    ],
+    "kxtq": [
+        "SUBR-three"
+    ],
+    "kxtrka": [
+        "SUBR-bad"
+    ],
+    "kxtrmrlzu": [
+        "SUBR-NEG-be.good-NEG"
+    ],
+    "kxwzle": [
+        "SUBR-work-3MINIA"
+    ],
+    "kxyagox": [
+        "SUBR-be.sick"
+    ],
+    "kxyrlz": [
+        "SUBR-be.married"
+    ],
+    "kxyrngzpxmq": [
+        "SUBR-bent-GDIR.OUT-PDIR.HITHER"
+    ],
+    "kxyzlo": [
+        "SUBR-yellow"
+    ],
+    "kz": [
+        "also"
+    ],
+    "kzble": [
+        "different"
+    ],
+    "kzblengq": [
+        "different-PL"
+    ],
+    "kzbznyon": [
+        "companions"
+    ],
+    "kzdo": [
+        "highest.level.in.law"
+    ],
+    "kzdq": [
+        "a"
+    ],
+    "kzdu": [
+        "AT.ΦNT.PL"
+    ],
+    "kzdung": [
+        "AT.ΦNT.PL.PL"
+    ],
+    "kzpora": [
+        "copra"
+    ],
+    "kzporapekr": [
+        "copra-COS-1AUGI"
+    ],
+    "kzpten": [
+        "captain"
+    ],
+    "kztede": [
+        "friend-3MINII"
+    ],
+    "kztedengq": [
+        "friend-3MINII-PL"
+    ],
+    "kztegr": [
+        "friend-1AUGII"
+    ],
+    "kztengengq": [
+        "friend-1MINII-PL"
+    ],
+    "kzu": [
+        "cow"
+    ],
+    "la": [
+        "DEM1.PROΧ"
+    ],
+    "lalztq": [
+        "listen"
+    ],
+    "langq": [
+        "DEM1.PROΧ-PL"
+    ],
+    "lape": [
+        "DEM1.PROΧ-COS"
+    ],
+    "lapwz": [
+        "DEM1.PROΧ-just"
+    ],
+    "lc": [
+        "DEM1.DIST"
+    ],
+    "lcapqbzle": [
+        "talk-CAUS-hot-PDIR.YON-3MINIA"
+    ],
+    "lcde": [
+        "there"
+    ],
+    "lcdeng": [
+        "those"
+    ],
+    "lcdepwz": [
+        "there-just"
+    ],
+    "lcglz": [
+        "lumber.tree"
+    ],
+    "lclr": [
+        "field"
+    ],
+    "lcng": [
+        "these"
+    ],
+    "lcpwz": [
+        "same"
+    ],
+    "lcsu": [
+        "ship"
+    ],
+    "lcsukxlvc": [
+        "ship-SUBR-fly"
+    ],
+    "le": [
+        "3MINIIP"
+    ],
+    "legou": [
+        "creeper.climber"
+    ],
+    "legru": [
+        "creeper.climber"
+    ],
+    "lemwzlo": [
+        "creeper.climber"
+    ],
+    "leplz": [
+        "people"
+    ],
+    "letz": [
+        "letter.note"
+    ],
+    "letzlvz": [
+        "elders"
+    ],
+    "leu": [
+        "leaf"
+    ],
+    "leuwaga": [
+        "bird's.nest.fern"
+    ],
+    "li": [
+        "two"
+    ],
+    "lika": [
+        "kite"
+    ],
+    "lilxblr": [
+        "two-together"
+    ],
+    "linezvzkr": [
+        "two-DSTR-always-1AUGI"
+    ],
+    "litxtr": [
+        "two-INTS-GDIR.IN"
+    ],
+    "lni": [
+        "lni"
+    ],
+    "lons": [
+        "launch"
+    ],
+    "loprta": [
+        "king.tree.greens"
+    ],
+    "lore": [
+        "lore"
+    ],
+    "lozbq": [
+        "night"
+    ],
+    "lr": [
+        "TPNYM",
+        "PCLF.ASSOC",
+        "lr",
+        "sea.hawk"
+    ],
+    "lrNea": [
+        "TPNYM-Nea.vil"
+    ],
+    "lrde": [
+        "PCLF.ASSOC-3MINII"
+    ],
+    "lrdr": [
+        "PCLF.ASSOC-3AUGII"
+    ],
+    "lrmztangi": [
+        "foreigner"
+    ],
+    "lrpz": [
+        "cloth"
+    ],
+    "lrpzki": [
+        "road"
+    ],
+    "lrpzu": [
+        "tapa.cloth"
+    ],
+    "lrtzlvz": [
+        "elders"
+    ],
+    "lu": [
+        "live"
+    ],
+    "lue": [
+        "water",
+        "river"
+    ],
+    "luekxpiz": [
+        "medicine"
+    ],
+    "lule": [
+        "wear.around.neck-3MINIA"
+    ],
+    "lvabetxpwzkr": [
+        "float-INTS-just-1AUGI"
+    ],
+    "lvcalzumq": [
+        "fly-instead-PDIR.HITHER"
+    ],
+    "lxe": [
+        "mother.aunt"
+    ],
+    "lxede": [
+        "mother.aunt-3MINII"
+    ],
+    "lxegr": [
+        "mother.aunt-1AUGII"
+    ],
+    "lxenge": [
+        "mother.aunt-nge",
+        "mother.aunt-1MINII"
+    ],
+    "lxkq": [
+        "yam"
+    ],
+    "lxlvrkimqle": [
+        "turn-path-PDIR.HITHER-3MINIA"
+    ],
+    "lzm": [
+        "wooden.bowl"
+    ],
+    "lzokr": [
+        "carve.wood-GDIR.DOWN-1AUGI"
+    ],
+    "ma": [
+        "house",
+        "lest",
+        "bite"
+    ],
+    "maboi": [
+        "outer.reef"
+    ],
+    "mailzle": [
+        "lead-3MINIA"
+    ],
+    "maket": [
+        "market"
+    ],
+    "makxpele": [
+        "bite-COS-3MINIA"
+    ],
+    "makxtr": [
+        "church.building"
+    ],
+    "mama": [
+        "priest"
+    ],
+    "manyzdengq": [
+        "house-PCLF.B&G-3MINII-PL"
+    ],
+    "manyzkxnzyagoxng": [
+        "hospital"
+    ],
+    "masingan": [
+        "machine.gun"
+    ],
+    "matelq": [
+        "lean.to"
+    ],
+    "matinetr": [
+        "useless-TR-INTS-GDIR.IN"
+    ],
+    "matqnepx": [
+        "powerful-INTS-GDIR.OUT"
+    ],
+    "matxbz": [
+        "hopeless-INTS-PDIR.YON"
+    ],
+    "mc": [
+        "mc",
+        "see"
+    ],
+    "mcangidrpex": [
+        "see-really-COS-1MINI"
+    ],
+    "mcangidrxngq": [
+        "see-really-1MINI-PL"
+    ],
+    "mcbzkr": [
+        "see-PDIR.YON-1AUGI"
+    ],
+    "mckr": [
+        "see-1AUGI"
+    ],
+    "mckzamu": [
+        "see-also-2AUGI"
+    ],
+    "mcle": [
+        "see-3MINIA"
+    ],
+    "mclrgr": [
+        "possessions-1AUGII"
+    ],
+    "mclrla": [
+        "mosquito"
+    ],
+    "mclzkr": [
+        "see-GDIR.UP-1AUGI"
+    ],
+    "mcmoux": [
+        "see-again-1MINI"
+    ],
+    "mcomq": [
+        "see-GDIR.DOWN-PDIR.HITHER"
+    ],
+    "mcpxmq": [
+        "see-GDIR.OUT-PDIR.HITHER"
+    ],
+    "mcq": [
+        "see-2MINI"
+    ],
+    "mctrpzle": [
+        "see-GDIR.IN-PDIR.YON-3MINIA"
+    ],
+    "mcx": [
+        "see-1MINI"
+    ],
+    "mcxle": [
+        "see-1MINI-3MINIIP"
+    ],
+    "mcxngq": [
+        "see-1MINI-PL"
+    ],
+    "me": [
+        "place",
+        "me"
+    ],
+    "medesin": [
+        "medicine"
+    ],
+    "meitxzero": [
+        "broken.stick.like.obj-INTS-zero"
+    ],
+    "melrmqdrngq": [
+        "grandfather-3AUGII-PL"
+    ],
+    "melzmqx": [
+        "awaken-PDIR.HITHER-1MINI"
+    ],
+    "mepyr": [
+        "blood"
+    ],
+    "mepz": [
+        "shore"
+    ],
+    "merikol": [
+        "miracle"
+    ],
+    "mibiz": [
+        "purple"
+    ],
+    "milzpq": [
+        "evening"
+    ],
+    "mista": [
+        "mista"
+    ],
+    "mnc": [
+        "be"
+    ],
+    "mncabrtztxbo": [
+        "be-be.happy-INTS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "mncepelzle": [
+        "be-leeward-GDIR.UP-3MINIA"
+    ],
+    "mnckapqngrgr": [
+        "be-hidden-APPL-1AUGII"
+    ],
+    "mnckr": [
+        "be-1AUGI"
+    ],
+    "mncnemoungrgr": [
+        "be-DSTR-again-APPL-1AUGII"
+    ],
+    "mncpex": [
+        "be-COS-1MINI"
+    ],
+    "mncpwzkr": [
+        "be-just-1AUGI"
+    ],
+    "mnctikr": [
+        "be-TR-1AUGI"
+    ],
+    "mnctiomqgr": [
+        "be-TR-GDIR.DOWN-PDIR.HITHER-1AUGII"
+    ],
+    "mnctix": [
+        "be-TR-1MINI"
+    ],
+    "mnctxpwzkr": [
+        "be-INTS-just-1AUGI"
+    ],
+    "mncx": [
+        "be-1MINI"
+    ],
+    "mnqtipele": [
+        "drink-TR-COS-3MINIA"
+    ],
+    "mnrgr": [
+        "PCLF.FIRE-1AUGII"
+    ],
+    "mou": [
+        "again",
+        "further"
+    ],
+    "mq": [
+        "behind",
+        "hand"
+    ],
+    "mqbq": [
+        "green"
+    ],
+    "mqde": [
+        "PCLF.DRINK-3MINII",
+        "hand-3MINII"
+    ],
+    "mqdr": [
+        "PCLF.DRINK-3AUGII"
+    ],
+    "mqgr": [
+        "PCLF.DRINK-1AUGII"
+    ],
+    "mqgu": [
+        "PCLF.DRINK-12AUGII"
+    ],
+    "mqnge": [
+        "hand-1MINII"
+    ],
+    "mqngr": [
+        "image",
+        "spirit"
+    ],
+    "mqngrde": [
+        "image-3MINII"
+    ],
+    "mqngrmq": [
+        "spirit-2MINII"
+    ],
+    "mrbrlzmq": [
+        "be.lost-GDIR.UP-PDIR.HITHER"
+    ],
+    "mrbrpe": [
+        "be.lost-COS"
+    ],
+    "mrbrpxm": [
+        "lack"
+    ],
+    "mrbrtitrpe": [
+        "be.lost-TR-GDIR.IN-COS"
+    ],
+    "mrbrtx": [
+        "be.lost-INTS"
+    ],
+    "mrgekr": [
+        "play-1AUGI"
+    ],
+    "mrka": [
+        "here"
+    ],
+    "mrkc": [
+        "place.DEM2.DIST",
+        "where"
+    ],
+    "mrkcpe": [
+        "place.DEM2.DIST-COS"
+    ],
+    "mrla": [
+        "there"
+    ],
+    "mrlc": [
+        "there"
+    ],
+    "mrlcde": [
+        "there"
+    ],
+    "mrlx": [
+        "guy"
+    ],
+    "mrlxmq": [
+        "son-2MINII"
+    ],
+    "mrlz": [
+        "be.good"
+    ],
+    "mrlzpe": [
+        "be.good-COS"
+    ],
+    "mrlzvxi": [
+        "extremely.good"
+    ],
+    "mrlzvxitxngrde": [
+        "extremely.good-INTS-APPL-3MINII"
+    ],
+    "mrnyzdr": [
+        "home-3AUGII"
+    ],
+    "mrtupe": [
+        "fall-COS"
+    ],
+    "mrtutxzero": [
+        "fall-INTS-zero"
+    ],
+    "mrvrtipe": [
+        "rotten-TR-COS"
+    ],
+    "mukr": [
+        "eat-1AUGI"
+    ],
+    "mule": [
+        "desire-3MINIA"
+    ],
+    "muli": [
+        "piece"
+    ],
+    "mulzpekr": [
+        "eat-GDIR.UP-COS-1AUGI"
+    ],
+    "murde": [
+        "because",
+        "so.that"
+    ],
+    "mutrngrgr": [
+        "eat-GDIR.IN-APPL-1AUGII"
+    ],
+    "muvi": [
+        "movie"
+    ],
+    "mwakr": [
+        "fish-1AUGI",
+        "hunt-1AUGI"
+    ],
+    "mwatipe": [
+        "fish-TR-COS"
+    ],
+    "mweitange": [
+        "grandfather-1MINII"
+    ],
+    "mwelrzlwzkr": [
+        "fear-much-1AUGI"
+    ],
+    "mwikr": [
+        "sleep-1AUGI"
+    ],
+    "mwilxlrtxpwzamu": [
+        "sleep-isolated-INTS-pwz-2AUGI"
+    ],
+    "mwingrgr": [
+        "sleep-APPL-1AUGII"
+    ],
+    "mwitr": [
+        "sleep"
+    ],
+    "mwitxkzkr": [
+        "sleep-INTS-also-1AUGI"
+    ],
+    "myaszpxkzle": [
+        "surpass-very-GDIR.OUT-also-3MINIA"
+    ],
+    "myaszpxle": [
+        "surpass-very-GDIR.OUT-3MINIA"
+    ],
+    "myx": [
+        "where"
+    ],
+    "mz": [
+        "PREP",
+        "eye"
+    ],
+    "mzbq": [
+        "day"
+    ],
+    "mzke'": [
+        "eye-1MINII"
+    ],
+    "mzkr": [
+        "eye-1AUGI"
+    ],
+    "mzledengq": [
+        "brother-3MINII-PL"
+    ],
+    "mzlenge": [
+        "brother-1MINII"
+    ],
+    "mzli": [
+        "time"
+    ],
+    "mzlir": [
+        "midst"
+    ],
+    "mzlwengq": [
+        "brother.of.a.female-PL"
+    ],
+    "mznrØ": [
+        "be.empty-3MINIS"
+    ],
+    "mzte": [
+        "eye-3MINII"
+    ],
+    "mztea": [
+        "village"
+    ],
+    "mztr": [
+        "eye-3AUGII"
+    ],
+    "mztupe": [
+        "die-stand-COS"
+    ],
+    "naabzbzlr": [
+        "IRR-try-PDIR.YON-3AUGIA"
+    ],
+    "naaelwatibz": [
+        "IRR-show-TR-PDIR.YON"
+    ],
+    "naaelwatingrbz": [
+        "IRR-show-TR-APPL-PDIR.YON"
+    ],
+    "naaenzlikaikr": [
+        "IRR-wait-first-1AUGI"
+    ],
+    "naaenzlimqgr": [
+        "IRR-wait-PDIR.HITHER-1AUGII"
+    ],
+    "naaenzlipwzlr": [
+        "IRR-wait-just-3AUGIA"
+    ],
+    "naaenzlitxki": [
+        "IRR-wait-INTS-12MINI"
+    ],
+    "naaglqamu": [
+        "IRR-CAUS-carry-2AUGI"
+    ],
+    "naaglqbzlr": [
+        "IRR-CAUS-carry-PDIR.YON-3AUGIA"
+    ],
+    "naaglqkzng": [
+        "IRR-CAUS-carry-also-3AUGIS"
+    ],
+    "naaglqpekr": [
+        "IRR-CAUS-carry-COS-1AUGI"
+    ],
+    "naakxlrngr": [
+        "IRR-roasted.greens.on.stone-APPL"
+    ],
+    "naalekaibzng": [
+        "IRR-do-first-PDIR.YON-3AUGIS"
+    ],
+    "naalvctrlzbqgr": [
+        "IRR-push-GDIR.IN-REFL-1AUGII"
+    ],
+    "naalvztrngrdr": [
+        "IRR-teach-APPL-3AUGII"
+    ],
+    "naalvztrx": [
+        "IRR-teach-1MINI"
+    ],
+    "naamingrngrgr": [
+        "IRR-dry.out-APPL-1AUGII"
+    ],
+    "naamingrtingrdr": [
+        "IRR-dry.out-TR-APPL-3AUGII"
+    ],
+    "naaoti": [
+        "IRR-CAUS-take"
+    ],
+    "naaprpxbo": [
+        "IRR-release-bz(PDIR.YON).o(1MINI)"
+    ],
+    "naatutrpz": [
+        "IRR-CAUS-stand-GDIR.IN-PDIR.YON"
+    ],
+    "naatwzlrngrde": [
+        "IRR-dispatch-APPL-3MINII"
+    ],
+    "naatwzlrngrgr": [
+        "IRR-dispatch-APPL-1AUGII"
+    ],
+    "naavzmqle": [
+        "IRR-CAUS-go-PDIR.HITHER-3MINIA"
+    ],
+    "naayrkrpxx": [
+        "IRR-CAUS-finish-GDIR.OUT-1MINI"
+    ],
+    "naayrplapxxngq": [
+        "IRR-punish-1MINI-PL"
+    ],
+    "nabo": [
+        "PCLF.FOOD-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nabomlr": [
+        "IRR-bomb-3AUGIA"
+    ],
+    "nabr": [
+        "grass"
+    ],
+    "nabx": [
+        "fathom"
+    ],
+    "nabxbz": [
+        "fence"
+    ],
+    "nabz": [
+        "area",
+        "number",
+        "insides"
+    ],
+    "nabzdr": [
+        "heart-3AUGII"
+    ],
+    "nabzkxtrngq": [
+        "song-SUBR-holy-PL"
+    ],
+    "nabzmipele": [
+        "IRR-die-DPV-COS-3MINIA"
+    ],
+    "nabznepi": [
+        "area-sun"
+    ],
+    "nabzng": [
+        "IRR-die-3AUGIS"
+    ],
+    "nabzngrnq": [
+        "IRR-die-APPL-2MINI"
+    ],
+    "nabztrkzx": [
+        "IRR-die-GDIR.IN-also-1MINI"
+    ],
+    "nade": [
+        "PCLF.FOOD-3MINII"
+    ],
+    "nadotxomq": [
+        "IRR-hang-INTS-GDIR.DOWN-PDIR.HITHER"
+    ],
+    "nadq": [
+        "black.ant"
+    ],
+    "nadr": [
+        "PCLF.FOOD-3AUGII"
+    ],
+    "nadrvrngrbo": [
+        "IRR-cover.from.rain-APPL-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nadwapekr": [
+        "IRR-jump-COS-1AUGI"
+    ],
+    "nadwaszpekr": [
+        "IRR-leave-COS-1AUGI"
+    ],
+    "nadwatitx": [
+        "IRR-jump-TR-INTS"
+    ],
+    "nadwatrbzkr": [
+        "IRR-jump-GDIR.IN-PDIR.YON-1AUGI"
+    ],
+    "nadwatrkr": [
+        "IRR-jump-GDIR.IN-1AUGI"
+    ],
+    "naesz'mz": [
+        "IRR-six"
+    ],
+    "naesz'mzng": [
+        "IRR-six-3AUGIS"
+    ],
+    "naesz'tikzmq": [
+        "IRR-become.one-also-PDIR.HITHER"
+    ],
+    "nagr": [
+        "PCLF.FOOD-1AUGII"
+    ],
+    "naipqpxngr": [
+        "IRR-forgive-GDIR.OUT-APPL"
+    ],
+    "nakabo": [
+        "IRR-give-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nakabz": [
+        "IRR-give-PDIR.YON",
+        "3AUG.IRR.PAS-give-PDIR.YON"
+    ],
+    "nakabzkr": [
+        "IRR-give-PDIR.YON-1AUGI"
+    ],
+    "nakatxbzle": [
+        "IRR-remove-PDIR.YON-3MINIA"
+    ],
+    "nakazpwxbzle": [
+        "IRR-give-true-PDIR.YON-3MINIA"
+    ],
+    "nakqtxomq": [
+        "IRR-cover-INTS-GDIR.DOWN-PDIR.HITHER"
+    ],
+    "nakrka'txkaiki": [
+        "IRR-pray-INTS-first-12MINI"
+    ],
+    "nakrlzkaile": [
+        "IRR-know-first-3MINIA"
+    ],
+    "nali": [
+        "IRR-two"
+    ],
+    "nalxngitikzamu": [
+        "IRR-believe-also-2AUGI"
+    ],
+    "nalxngitile": [
+        "IRR-believe-3MINIA"
+    ],
+    "namckaile": [
+        "IRR-see-first-3MINIA"
+    ],
+    "namckr": [
+        "IRR-see-1AUGI"
+    ],
+    "namcle": [
+        "IRR-see-3MINIA"
+    ],
+    "namcx": [
+        "IRR-mc-1MINI"
+    ],
+    "namncpwz": [
+        "IRR-be-just"
+    ],
+    "namnqq": [
+        "IRR-drink-2MINI"
+    ],
+    "namrbrtitr": [
+        "IRR-be.lost-TR-GDIR.IN"
+    ],
+    "namrlzØ": [
+        "IRR-be.good-3MINIS"
+    ],
+    "namupeku": [
+        "IRR-eat-COS-12AUGI"
+    ],
+    "namwi": [
+        "IRR-sleep"
+    ],
+    "namwingr": [
+        "IRR-sleep-APPL"
+    ],
+    "namznrpeØ": [
+        "IRR-be.empty-COS-3MINIS"
+    ],
+    "nangelubo": [
+        "IRR-light.the.way-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nangelunengrdr": [
+        "IRR-light.the.way-INTS-APPL-3AUGII"
+    ],
+    "nangelungr": [
+        "IRR-light.the.way-APPL"
+    ],
+    "nangi": [
+        "IRR-be"
+    ],
+    "nanginibo": [
+        "IRR-become-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nangininge": [
+        "IRR-become-1MINII"
+    ],
+    "nanginipegr": [
+        "IRR-become-COS-1AUGII"
+    ],
+    "nangipe": [
+        "IRR-be-COS"
+    ],
+    "nangqamu": [
+        "IRR-eat-2AUGI"
+    ],
+    "nangqdr": [
+        "IRR-eat-3AUGII"
+    ],
+    "nangqkr": [
+        "IRR-eat-1AUGI"
+    ],
+    "nanibqkapqlr": [
+        "IRR-kill-hidden-3AUGIA"
+    ],
+    "nanyc": [
+        "foot"
+    ],
+    "nanycde": [
+        "foot-3MINII"
+    ],
+    "naobqlvztizpwxx": [
+        "IRR-look-thruout-TR-true-1MINI"
+    ],
+    "naokatrlzbqgr": [
+        "IRR-help-REFL-1AUGII"
+    ],
+    "naokatrmqlr": [
+        "IRR-help-PDIR.HITHER-3AUGIA"
+    ],
+    "naokatrx": [
+        "IRR-help-1MINI"
+    ],
+    "naoklatitrmoumqgr": [
+        "IRR-visit-TR-GDIR.IN-again-PDIR.HITHER-1AUGII"
+    ],
+    "naomimqx": [
+        "IRR-go-DPV-PDIR.HITHER-1MINI"
+    ],
+    "naonrx": [
+        "doorway"
+    ],
+    "napeti": [
+        "IRR-plant"
+    ],
+    "napibzkr": [
+        "IRR-say-PDIR.YON-1AUGI"
+    ],
+    "napilvzti": [
+        "IRR-bandage-TR"
+    ],
+    "napimoumqx": [
+        "IRR-say-again-PDIR.HITHER-1MINI"
+    ],
+    "napinemqx": [
+        "IRR-say-DSTR-PDIR.HITHER-1MINI"
+    ],
+    "napipxlzbqng": [
+        "IRR-declare-REFL-3AUGIS"
+    ],
+    "napitrmoubo": [
+        "IRR-say-GDIR.IN-again-bz(PDIR.YON).o(1MINI)"
+    ],
+    "napitxbzo": [
+        "IRR-say-INTS-PDIR.YON-1MIN.CMB"
+    ],
+    "napitxtrmoubo": [
+        "IRR-say-INTS-GDIR.IN-again-bz(PDIR.YON).o(1MINI)"
+    ],
+    "napromq": [
+        "IRR-go-GDIR.DOWN-PDIR.HITHER"
+    ],
+    "naprtxpxpex": [
+        "IRR-go-INTS-GDIR.OUT-COS-1MINI"
+    ],
+    "naprtzlr": [
+        "IRR-happen-3AUGIA"
+    ],
+    "naq": [
+        "Malay.apple"
+    ],
+    "nar": [
+        "head"
+    ],
+    "narbingr": [
+        "IRR-MID-bake-APPL"
+    ],
+    "narbompengq": [
+        "IRR-MID-bomb-COS-PL"
+    ],
+    "narde": [
+        "head-3MINII"
+    ],
+    "narlalzkr": [
+        "IRR-flee-GDIR.UP-1AUGI"
+    ],
+    "narlapxq": [
+        "IRR-rescued-2MINI"
+    ],
+    "narlrngrme": [
+        "IRR-allow-APPL-mq(PDIR.HITHER).q(2MINI)"
+    ],
+    "narlue": [
+        "profession"
+    ],
+    "narlxngitiatepex": [
+        "IRR-MID-believe-afterward-COS-1MINI"
+    ],
+    "narlxtibo": [
+        "IRR-ask.for-bz(PDIR.YON).o(1MINI)"
+    ],
+    "narlxtibzme": [
+        "IRR-ask.for-PDIR.YON-mq(PDIR.HITHER).q(2MINI)"
+    ],
+    "narlxtitxbo": [
+        "IRR-ask.for-INTS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "narlxtitxpwzkr": [
+        "IRR-ask-TR-only-1AUGI"
+    ],
+    "narlxtrbzkr": [
+        "IRR-ask-GDIR.IN-PDIR.YON-1AUGI"
+    ],
+    "narlxzpwxbzkr": [
+        "IRR-ask-true-PDIR.YON-1AUGI"
+    ],
+    "narmq": [
+        "head-2MINII"
+    ],
+    "narncbr": [
+        "price"
+    ],
+    "narnge": [
+        "head-1MINII"
+    ],
+    "narpnz'": [
+        "IRR-MID-shoot"
+    ],
+    "narpz'ngr": [
+        "IRR-MID-make.pudding-APPL"
+    ],
+    "nartrkla": [
+        "headland"
+    ],
+    "nartwzmq": [
+        "IRR-take-PDIR.HITHER"
+    ],
+    "nartwzobz": [
+        "IRR-MID-take-GDIR.DOWN-PDIR.YON"
+    ],
+    "naryzkrngrgr": [
+        "IRR-MID-peel-APPL-1AUGII"
+    ],
+    "natekqtr": [
+        "IRR-exchange"
+    ],
+    "natekqtrle": [
+        "IRR-exchange-3MINIA"
+    ],
+    "natekqtrngr": [
+        "IRR-exchange-APPL"
+    ],
+    "natq": [
+        "word",
+        "sound",
+        "language"
+    ],
+    "natqde": [
+        "word-3MINII"
+    ],
+    "natqdr": [
+        "word-3AUGII"
+    ],
+    "natqgr": [
+        "word-1AUGII"
+    ],
+    "natqnge": [
+        "word-1MINII"
+    ],
+    "natrkazlwzle": [
+        "IRR-bad-much-3MINIA"
+    ],
+    "natwzbzlr": [
+        "IRR-take-PDIR.YON-3AUGIA"
+    ],
+    "natwzle": [
+        "IRR-take-3MINIA"
+    ],
+    "natwzpex": [
+        "IRR-take-COS-1MINI"
+    ],
+    "navex": [
+        "IRR-accompany-1MINI"
+    ],
+    "navobzkr": [
+        "IRR-travel-PDIR.YON-1AUGI"
+    ],
+    "navopekr": [
+        "IRR-travel-COS-1AUGI"
+    ],
+    "navopengrgr": [
+        "IRR-travel-COS-APPL-1AUGII"
+    ],
+    "navz": [
+        "IRR-go"
+    ],
+    "navzbz": [
+        "IRR-go-PDIR.YON"
+    ],
+    "navzbzkr": [
+        "IRR-go-PDIR.YON-1AUGI"
+    ],
+    "navzbzng": [
+        "IRR-go-PDIR.YON-3AUGIS"
+    ],
+    "navzdzkr": [
+        "IRR-go-GDIR.UP-1AUGI"
+    ],
+    "navzkaibo": [
+        "IRR-go-first-bz(PDIR.YON).o(1MINI)"
+    ],
+    "navzkaikr": [
+        "IRR-go-first-1AUGI"
+    ],
+    "navzkaing": [
+        "IRR-go-first-3AUGIS"
+    ],
+    "navzkitxpwzlr": [
+        "IRR-go-path-INTS-just-3AUGIA"
+    ],
+    "navzkr": [
+        "IRR-go-1AUGI"
+    ],
+    "navzkrlzbo": [
+        "IRR-go-reach-bz(PDIR.YON).o(1MINI)"
+    ],
+    "navzmq": [
+        "IRR-go-PDIR.HITHER"
+    ],
+    "navzmqgr": [
+        "IRR-go-PDIR.HITHER-1AUGII"
+    ],
+    "navzne": [
+        "IRR-go-1MINII"
+    ],
+    "navzng": [
+        "IRR-go-3AUGIS"
+    ],
+    "navzngr": [
+        "IRR-feel.sad-APPL"
+    ],
+    "navznqblqle": [
+        "IRR-go-follow-3MINIA"
+    ],
+    "navzpelr": [
+        "IRR-go-COS-3AUGIA"
+    ],
+    "navzpxkrmqle": [
+        "IRR-go-GDIR.OUT-NMLZ.POSS-PDIR.HITHER-3MINIA"
+    ],
+    "navztx": [
+        "IRR-go-INTS"
+    ],
+    "navzØ": [
+        "IRR-go-3MINIS"
+    ],
+    "nawrkxtrkaingq": [
+        "IRR-baptised-first-3AUGIS"
+    ],
+    "nawrkxtrØ": [
+        "IRR-baptised-3MINIS"
+    ],
+    "nawzangidrkr": [
+        "IRR-work-well-1AUGI"
+    ],
+    "nawzpengrde": [
+        "IRR-work-COS-APPL-3MINII"
+    ],
+    "naxpe": [
+        "3AUG.IRR.PAS-pay"
+    ],
+    "nayagoxng": [
+        "IRR-be.sick-3AUGIS"
+    ],
+    "nayapwxkzx": [
+        "IRR-tell-also-1MINI"
+    ],
+    "naycngr": [
+        "IRR-stay-APPL"
+    ],
+    "naycpqngrgr": [
+        "IRR-wipe-APPL-1AUGII"
+    ],
+    "nayctipxmq": [
+        "IRR-stay-TR-GDIR.OUT-PDIR.HITHER"
+    ],
+    "nayr": [
+        "IRR-write"
+    ],
+    "nayrlzmoux": [
+        "IRR-be.married-again-1MINI"
+    ],
+    "nayzutrpe": [
+        "IRR-begin-COS"
+    ],
+    "nc": [
+        "tree",
+        "fish",
+        "stick"
+    ],
+    "ncblo": [
+        "mankind"
+    ],
+    "ncboi": [
+        "needlefish"
+    ],
+    "ncbr": [
+        "cross"
+    ],
+    "ncdr": [
+        "COM.DU"
+    ],
+    "nctq": [
+        "point",
+        "peninsula"
+    ],
+    "nctqde": [
+        "nctq-3MINII",
+        "half-3MINII",
+        "point-3MINII"
+    ],
+    "ncu": [
+        "base"
+    ],
+    "ncvr": [
+        "meat"
+    ],
+    "ne": [
+        "PCLF.RSBL"
+    ],
+    "nede": [
+        "PCLF.RSBL-3MINII"
+    ],
+    "nedengq": [
+        "PCLF.RSBL-3MINII-PL"
+    ],
+    "nedr": [
+        "PCLF.RSBL-3AUGII"
+    ],
+    "nedrngq": [
+        "PCLF.RSBL-3AUGII-PL"
+    ],
+    "negr": [
+        "PCLF.RSBL-1AUGII"
+    ],
+    "negungq": [
+        "PCLF.RSBL-12AUGII-PL"
+    ],
+    "neimr": [
+        "egg"
+    ],
+    "neke": [
+        "who"
+    ],
+    "nekeng": [
+        "who"
+    ],
+    "nelc": [
+        "nose.shell",
+        "nelc.dance"
+    ],
+    "nemq": [
+        "PCLF.RSBL-2MINII"
+    ],
+    "nemungq": [
+        "PCLF.RSBL-2AUGII-PL"
+    ],
+    "nenge": [
+        "PCLF.RSBL-1MINII"
+    ],
+    "nengq": [
+        "earthquake"
+    ],
+    "nenq": [
+        "wind"
+    ],
+    "nepi": [
+        "sun"
+    ],
+    "nesrkr": [
+        "lesser.yam"
+    ],
+    "netxpxpnzx": [
+        "scream-INTS-GDIR.OUT-CMPL-1MINI"
+    ],
+    "newz": [
+        "mountain"
+    ],
+    "ngi": [
+        "be"
+    ],
+    "ngipe": [
+        "be-COS"
+    ],
+    "ngitxpwz": [
+        "be-only"
+    ],
+    "ngr": [
+        "GEN1A"
+    ],
+    "ngrde": [
+        "GEN1A-3MINII"
+    ],
+    "ngrdengq": [
+        "sing-3MINII-PL",
+        "GEN1A-3MINII-PL"
+    ],
+    "ngrdr": [
+        "GEN1A-3AUGII"
+    ],
+    "ngrgu": [
+        "GEN1A-12AUGII"
+    ],
+    "ngrlrkr": [
+        "hurry-1AUGI"
+    ],
+    "ngrlrmimqle": [
+        "hurry-DPV-PDIR.HITHER-3MINIA"
+    ],
+    "ngrlxobzle": [
+        "daylight-GDIR.DOWN-PDIR.YON-3MINIA"
+    ],
+    "ngrmu": [
+        "sing-2AUGII"
+    ],
+    "nibqti": [
+        "kill-TR"
+    ],
+    "nibr": [
+        "back.part"
+    ],
+    "nibrde": [
+        "back.part-3MINII"
+    ],
+    "nibrgr": [
+        "back.part-1AUGII"
+    ],
+    "nibrnge": [
+        "back.part-1MINII"
+    ],
+    "nide": [
+        "be.3MINII"
+    ],
+    "nidr": [
+        "be.3ᴀᴜɢII"
+    ],
+    "nigr": [
+        "be.1AUGII"
+    ],
+    "nigu": [
+        "be.12AUGII"
+    ],
+    "nike": [
+        "what"
+    ],
+    "nikzmqx": [
+        "be-also-PDIR.HITHER-1MINI"
+    ],
+    "nim": [
+        "be.2MINII"
+    ],
+    "nimu": [
+        "be.2AUGII"
+    ],
+    "ninge": [
+        "be.1MINII"
+    ],
+    "ninz": [
+        "ngalinut"
+    ],
+    "nivz": [
+        "love"
+    ],
+    "noli": [
+        "hog.plum.fruit"
+    ],
+    "nou": [
+        "base"
+    ],
+    "noude": [
+        "base-3MINII"
+    ],
+    "nounc": [
+        "tree",
+        "stick"
+    ],
+    "nounenq": [
+        "cyclone"
+    ],
+    "nourla": [
+        "morning"
+    ],
+    "nqesa'": [
+        "banana.fibre.weaving"
+    ],
+    "nqlvi": [
+        "side"
+    ],
+    "nqmq": [
+        "way"
+    ],
+    "nqni": [
+        "mat"
+    ],
+    "nqvi": [
+        "rope",
+        "ancestral.line"
+    ],
+    "nr": [
+        "nr"
+    ],
+    "nra": [
+        "fruit"
+    ],
+    "nrc": [
+        "wave"
+    ],
+    "nrkrdrtq": [
+        "body"
+    ],
+    "nrla": [
+        "branch"
+    ],
+    "nrlade": [
+        "branch-3MINII"
+    ],
+    "nrlanc": [
+        "garden"
+    ],
+    "nrlar": [
+        "side"
+    ],
+    "nrlargr": [
+        "side-1AUGII"
+    ],
+    "nrlc": [
+        "place"
+    ],
+    "nrlckxbq": [
+        "night"
+    ],
+    "nrlckxbqpe": [
+        "night-COS"
+    ],
+    "nrpa": [
+        "news"
+    ],
+    "nrpqde": [
+        "flower-3MINII"
+    ],
+    "nrtq": [
+        "sand.seashell"
+    ],
+    "nrwx": [
+        "peace"
+    ],
+    "nrz": [
+        "dance.ring",
+        "paddle"
+    ],
+    "nua'mu": [
+        "canoe"
+    ],
+    "nubla": [
+        "flood"
+    ],
+    "nutitxkr": [
+        "wrap-TR-INTS-1AUGI"
+    ],
+    "nuzmu": [
+        "canoe"
+    ],
+    "nwei'": [
+        "parrotfish"
+    ],
+    "nya": [
+        "taro"
+    ],
+    "nyr": [
+        "fire"
+    ],
+    "nyz": [
+        "PCLF.B&G"
+    ],
+    "nyzde": [
+        "PCLF.B&G-3MINII"
+    ],
+    "nyzdr": [
+        "PCLF.B&G-3AUGII"
+    ],
+    "nyzgr": [
+        "PCLF.B&G-1AUGII"
+    ],
+    "nyzgu": [
+        "PCLF.B&G-12AUGII"
+    ],
+    "nyznge": [
+        "PCLF.B&G-1MINII"
+    ],
+    "nyzzgu": [
+        "PCLF.B&G-zgu"
+    ],
+    "nzabrtrkrbzkr": [
+        "NMLZ1-CAUS-trust-GDIR.IN-NMLZ.POSS-PDIR.YON-1AUGI"
+    ],
+    "nzabrtzkr": [
+        "NMLZ1-be.happy-1AUGI"
+    ],
+    "nzabrtzkrgr": [
+        "NMLZ1-be.happy-NMLZ.POSS-1AUGII"
+    ],
+    "nzabrtzlvzlr": [
+        "3AUG-be.happy-about-3AUGIA"
+    ],
+    "nzabrtzngr": [
+        "NMLZ1-be.happy-NMLZ"
+    ],
+    "nzabrtztxzlwzngr": [
+        "3AUG-be.happy-INTS-much-APPL"
+    ],
+    "nzabzokr": [
+        "NMLZ1-start-NMLZ.POSS"
+    ],
+    "nzabzong": [
+        "3AUG-start-3AUGIS"
+    ],
+    "nzabzpxkrbzle": [
+        "NMLZ1-test.out-NMLZ.POSS-PDIR.YON-3MINIA"
+    ],
+    "nzaclvengr": [
+        "NMLZ1-oversee-NMLZ"
+    ],
+    "nzadcpxlzbqngrbz": [
+        "PAS-CAUS-reveal-REFL-APPL-PDIR.YON"
+    ],
+    "nzadolzmoulr": [
+        "3AUG-CAUS-hang-GDIR.UP-again-3AUGIA"
+    ],
+    "nzaelwakzngrbz": [
+        "3AUG-show-kz-APPL-PDIR.YON"
+    ],
+    "nzaelwapxkzngrbz": [
+        "PAS-show-GDIR.OUT-also-APPL-PDIR.YON"
+    ],
+    "nzaglqkrbzkr": [
+        "NMLZ1-CAUS-carry-NMLZ.POSS-PDIR.YON-1AUGI"
+    ],
+    "nzakititrlr": [
+        "3AUG-distribute-TR-GDIR.IN-3AUGIA"
+    ],
+    "nzalebz": [
+        "3AUG-do-PDIR.YON"
+    ],
+    "nzalekrdrle": [
+        "NMLZ1-do-NMLZ.POSS-3AUGII-3MINIA"
+    ],
+    "nzalelr": [
+        "3AUG-do-3AUGIA"
+    ],
+    "nzalvckrde": [
+        "NMLZ1-CAUS-fly-NMLZ.POSS-3MINII"
+    ],
+    "nzalvckrgr": [
+        "NMLZ1-CAUS-fly-NMLZ.POSS-1AUGII"
+    ],
+    "nzalvzngr": [
+        "nzalvzngr"
+    ],
+    "nzalvztingq": [
+        "3AUG-teach-TR-3AUGIS"
+    ],
+    "nzalvztrkrnge": [
+        "NMLZ1-teach-krnge"
+    ],
+    "nzalvztrlr": [
+        "3AUG-teach-3AUGIA"
+    ],
+    "nzalvztrngr": [
+        "NMLZ1-teach-NMLZ"
+    ],
+    "nzalxngitikr": [
+        "NMLZ1-CAUS-lean-TR-NMLZ.POSS"
+    ],
+    "nzamakrde": [
+        "NMLZ1-rest-NMLZ.POSS-3MINII"
+    ],
+    "nzamcti": [
+        "PAS-hire-TR"
+    ],
+    "nzamctikzlr": [
+        "3AUG-hire-TR-also-3AUGIA"
+    ],
+    "nzamnqlvzngr": [
+        "PAS-bequeath-thruout-APPL"
+    ],
+    "nzamukxtrkrde": [
+        "NMLZ1-CAUS-eat-SUBR-holy-NMLZ.POSS-3MINII"
+    ],
+    "nzangctingrdr": [
+        "3AUG-CAUS-burn-TR-APPL-3AUGII"
+    ],
+    "nzangiokrdr": [
+        "NMLZ1-worship-NMLZ.POSS-3AUGII"
+    ],
+    "nzangiolr": [
+        "3AUG-worship-3AUGIA"
+    ],
+    "nzangiotxpwzlr": [
+        "3AUG-angio-INTS-just-3AUGIA"
+    ],
+    "nzangrlvznedr": [
+        "3AUG-sing.praises-DSTR-3AUGII"
+    ],
+    "nzaobqlxblrbzlr": [
+        "3AUG-CAUS-look-together-PDIR.YON-3AUGIA"
+    ],
+    "nzaolvzbzlr": [
+        "3AUG-accept-PDIR.YON-3AUGIA"
+    ],
+    "nzapqtrkrbzlr": [
+        "NMLZ1-enflame-NMLZ.POSS-PDIR.YON-3AUGIA"
+    ],
+    "nzapresinngr": [
+        "PAS-CAUS-prison-APPL"
+    ],
+    "nzaprpxkrbo": [
+        "NMLZ1-release-NMLZ.POSS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nzapusrkrdr": [
+        "NMLZ1-regard.as-NMLZ.POSS-3AUGII"
+    ],
+    "nzapxngr": [
+        "PAS-restrict-APPL"
+    ],
+    "nzapxngrbz": [
+        "PAS-restrict-APPL-PDIR.YON"
+    ],
+    "nzapxngrmq": [
+        "PAS-restrict-APPL-PDIR.HITHER"
+    ],
+    "nzarlapxkr": [
+        "NMLZ1-save-NMLZ.POSS"
+    ],
+    "nzarlapxkrde": [
+        "NMLZ1-save-NMLZ.POSS-3MINII"
+    ],
+    "nzasung": [
+        "3AUG-CAUS-be.cooking-3AUGIS"
+    ],
+    "nzataki": [
+        "PAS-injured"
+    ],
+    "nzatolwangrngq": [
+        "PAS-CAUS-bind-APPL-PL"
+    ],
+    "nzatrkati": [
+        "PAS-CAUS-bad-TR"
+    ],
+    "nzatrkatikrbzlr": [
+        "NMLZ1-CAUS-bad-TR-NMLZ.POSS-PDIR.YON-3AUGIA"
+    ],
+    "nzatubqtikrdr": [
+        "NMLZ1-straighten-TR-NMLZ.POSS-3AUGII"
+    ],
+    "nzatwzlrpwz": [
+        "PAS-dispatch-just"
+    ],
+    "nzavzkrmqle": [
+        "NMLZ1-CAUS-go-NMLZ.POSS-PDIR.HITHER-3MINIA"
+    ],
+    "nzawitxmq": [
+        "PAS-thank-INTS-PDIR.HITHER"
+    ],
+    "nzayonepekrdr": [
+        "NMLZ1-walk-INTS-COS-NMLZ.POSS-3AUGII"
+    ],
+    "nzayrlwrpxlxblrkrgr": [
+        "NMLZ1-CAUS-gather-GDIR.OUT-lxblr-NMLZ.POSS-1AUGII"
+    ],
+    "nzayrplapxkrde": [
+        "NMLZ1-punish-NMLZ.POSS-3MINII"
+    ],
+    "nzbaokrde": [
+        "NMLZ1-cold-NMLZ.POSS-3MINII"
+    ],
+    "nzblqking": [
+        "3AUG-dirty-3AUGIS"
+    ],
+    "nzbrkapxmqlr": [
+        "NMLZ1-dislodged-GDIR.OUT-PDIR.HITHER-3AUGIA"
+    ],
+    "nzbrlclvznepxkzmq": [
+        "3AUG-embrace-INTS-GDIR.OUT-also-PDIR.HITHER"
+    ],
+    "nzbxlilvcokrmqlr": [
+        "NMLZ1-basket-fly-GDIR.DOWN-NMLZ.POSS-PDIR.HITHER-3AUGIA"
+    ],
+    "nzbzkrgr": [
+        "NMLZ1-die-NMLZ.POSS-1AUGII"
+    ],
+    "nzbzng": [
+        "3AUG-die-3AUGIS"
+    ],
+    "nzbztialzungq": [
+        "3AUG-die-TR-instead-3AUGIS"
+    ],
+    "nzbztilxblrngq": [
+        "3AUG-die-PLCT-together-3AUGIS"
+    ],
+    "nzdczlwzkr": [
+        "NMLZ1-fall-much-NMLZ.POSS"
+    ],
+    "nzdczvzngq": [
+        "3AUG-fall-always-3AUGIS"
+    ],
+    "nzdwalzm": [
+        "3AUG-awaken"
+    ],
+    "nzdwalzmrbrlzngrmq": [
+        "3AUG-awaken-wrong-GDIR.UP-APPL-PDIR.HITHER"
+    ],
+    "nzdwaokrnge": [
+        "NMLZ1-jump-GDIR.DOWN-NMLZ.POSS-1MINII"
+    ],
+    "nzdwaongr": [
+        "NMLZ1-jump-GDIR.DOWN-NMLZ"
+    ],
+    "nzdwaopekzmq": [
+        "NMLZ1-jump-GDIR.DOWN-COS-also-PDIR.HITHER"
+    ],
+    "nzdwaszbz": [
+        "3AUG-leave-PDIR.YON"
+    ],
+    "nzdwaszdr": [
+        "3AUG-leave-3AUGII"
+    ],
+    "nzdwatrkrdr": [
+        "NMLZ1-enter-NMLZ.POSS-3AUGII"
+    ],
+    "nzdwatrngr": [
+        "NMLZ1-jump-GDIR.IN-NMLZ"
+    ],
+    "nzdwatxcng": [
+        "3AUG-jump-INTS-across-3AUGIS"
+    ],
+    "nzelangr": [
+        "dance"
+    ],
+    "nzesz'mzng": [
+        "3AUG-six-3AUGIS"
+    ],
+    "nzglqlzmoulr": [
+        "3AUG-carry-GDIR.UP-again-3AUGIA"
+    ],
+    "nzglqlzmqlr": [
+        "3AUG-carry-GDIR.UP-PDIR.HITHER-3AUGIA"
+    ],
+    "nzglqolr": [
+        "3AUG-carry-GDIR.DOWN-3AUGIA"
+    ],
+    "nzglqpxmqlr": [
+        "3AUG-carry-GDIR.OUT-PDIR.HITHER-3AUGIA"
+    ],
+    "nzglqtrpemq": [
+        "PAS-carry-GDIR.IN-COS-PDIR.HITHER"
+    ],
+    "nzglrpekrdr": [
+        "NMLZ1-be.dry-COS-NMLZ.POSS-3AUGII"
+    ],
+    "nzglxpe": [
+        "3AUG-recognize-COS"
+    ],
+    "nziklapwz": [
+        "PAS-whip-just"
+    ],
+    "nziklatxpwzng": [
+        "PAS-whip-only-3AUGIS"
+    ],
+    "nzkakrmqle": [
+        "NMLZ1-give-NMLZ.POSS-PDIR.HITHER-3MINIA"
+    ],
+    "nzkamq": [
+        "PAS-give-PDIR.HITHER"
+    ],
+    "nzkapxlzmqlr": [
+        "3AUG-remove-GDIR.UP-PDIR.HITHER-3AUGIA"
+    ],
+    "nzkapxlzngrmqlrle": [
+        "3AUG-remove-GDIR.UP-APPL-PDIR.HITHER-3AUGIA-3MINIA"
+    ],
+    "nzkapxmqlr": [
+        "3AUG-remove-PDIR.HITHER-3AUGIA"
+    ],
+    "nzkatxkrbzle": [
+        "NMLZ1-remove-NMLZ.POSS-PDIR.YON-3MINIA"
+    ],
+    "nzkatxkrde": [
+        "NMLZ1-remove-NMLZ.POSS-3MINII"
+    ],
+    "nzkatxpe": [
+        "PAS-remove-COS"
+    ],
+    "nzkatxpxkrbzle": [
+        "NMLZ1-remove-GDIR.OUT-NMLZ.POSS-PDIR.YON-3MINIA"
+    ],
+    "nzkctitxpxesz'ngr": [
+        "3AUG-marvel-INTS-GDIR.OUT-exceedingly"
+    ],
+    "nzkqlekrnge": [
+        "NMLZ1-call-NMLZ.POSS-1MINII"
+    ],
+    "nzkqlu": [
+        "3AUG-many"
+    ],
+    "nzkqlupengq": [
+        "3AUG-many-COS-3AUGIS"
+    ],
+    "nzkqokrmq": [
+        "NMLZ1-cover-GDIR.DOWN-NMLZ.POSS-PDIR.HITHER"
+    ],
+    "nzkqtutikrdelr": [
+        "NMLZ1-push.over-TR-NMLZ.POSS-3MINII-3AUGIIP"
+    ],
+    "nzkrka'": [
+        "prayer"
+    ],
+    "nzkrka'krbzle": [
+        "NMLZ1-pray-NMLZ.POSS-PDIR.YON-3MINIA"
+    ],
+    "nzkrka'krde": [
+        "NMLZ1-pray-NMLZ.POSS-3MINII"
+    ],
+    "nzkrka'krgr": [
+        "NMLZ1-pray-NMLZ.POSS-1AUGII"
+    ],
+    "nzkrka'ngr": [
+        "prayer"
+    ],
+    "nzkrka'pxkrmqlr": [
+        "NMLZ1-pray-GDIR.OUT-NMLZ.POSS-PDIR.HITHER-3AUGIA"
+    ],
+    "nzkrlzlr": [
+        "NMLZ1-know-3AUGIA"
+    ],
+    "nzkrlzmqlr": [
+        "3AUG-reach-PDIR.HITHER-3AUGIA"
+    ],
+    "nzkrlztrpz": [
+        "PAS-know-GDIR.IN-PDIR.YON"
+    ],
+    "nzkuking": [
+        "3AUG-cook-3AUGIS"
+    ],
+    "nzlalatikr": [
+        "NMLZ1-rough.surfaced-TR-NMLZ.POSS"
+    ],
+    "nzlalztqkrde": [
+        "NMLZ1-listen-NMLZ.POSS-3MINII"
+    ],
+    "nzlc": [
+        "place"
+    ],
+    "nzlcapqbzngr": [
+        "NMLZ1-talk-CAUS-hot-PDIR.YON-NMLZ"
+    ],
+    "nzlekazvzmqlr": [
+        "3AUG-give.food-always-PDIR.HITHER-3AUGIA"
+    ],
+    "nzlikrgr": [
+        "NMLZ1-two-NMLZ.POSS-1AUGII"
+    ],
+    "nzling": [
+        "3AUG-two-3AUGIS"
+    ],
+    "nzlu": [
+        "coconut"
+    ],
+    "nzlutxpwzngq": [
+        "3AUG-live-INTS-just-3AUGIS"
+    ],
+    "nzlvckrmqlr": [
+        "NMLZ1-fly-NMLZ.POSS-PDIR.HITHER-3AUGIA"
+    ],
+    "nzlvqn": [
+        "five"
+    ],
+    "nzlxngitikrgr": [
+        "NMLZ1-believe-NMLZ.POSS-1AUGII"
+    ],
+    "nzlxplztx": [
+        "PAS-puncture-INTS"
+    ],
+    "nzlz": [
+        "PAS-carve.wood"
+    ],
+    "nzmabr": [
+        "PAS-chew"
+    ],
+    "nzmalebzlr": [
+        "3AUG-hold-PDIR.YON-3AUGIA"
+    ],
+    "nzmanqblqlr": [
+        "3AUG-go-follow-3AUGIA"
+    ],
+    "nzmc": [
+        "PAS-see",
+        "3AUG-see"
+    ],
+    "nzmckrde": [
+        "NMLZ1-mc-NMLZ.POSS-3MINII",
+        "NMLZ1-see-NMLZ.POSS-3MINII"
+    ],
+    "nzmcomqlr": [
+        "3AUG-see-GDIR.DOWN-PDIR.HITHER-3AUGIA"
+    ],
+    "nzmcpekzpz": [
+        "PAS-see-COS-also-PDIR.YON"
+    ],
+    "nzmcpx": [
+        "PAS-see-GDIR.OUT"
+    ],
+    "nzmcpxkzlr": [
+        "3AUG-choose-also-3AUGIA"
+    ],
+    "nzmcpxlr": [
+        "3AUG-mc-GDIR.OUT-3AUGIA"
+    ],
+    "nzmctr": [
+        "3AUG-see-3AUGII"
+    ],
+    "nzmctrpemqlr": [
+        "3AUG-see-GDIR.IN-COS-PDIR.HITHER-3AUGIA"
+    ],
+    "nzmeitrpz": [
+        "PAS-broken.stick.like.obj-GDIR.IN-PDIR.YON"
+    ],
+    "nzmingrkrgr": [
+        "NMLZ1-dry-NMLZ.POSS-1AUGII"
+    ],
+    "nzmitinngrdr": [
+        "3AUG-hold.a.meeting-APPL-3AUGII"
+    ],
+    "nzmnclr": [
+        "3AUG-be-3AUGIA"
+    ],
+    "nzmnclzbz": [
+        "NMLZ1-be-GDIR.UP-PDIR.YON"
+    ],
+    "nzmncngq": [
+        "3AUG-be-3AUGIS"
+    ],
+    "nzmncngr": [
+        "NMLZ1-be-NMLZ"
+    ],
+    "nzmncpekrgr": [
+        "NMLZ1-be-COS-NMLZ.POSS-1AUGII"
+    ],
+    "nzmncpeng": [
+        "3AUG-be-COS-3AUGIS"
+    ],
+    "nzmnctipxmqlr": [
+        "3AUG-be-TR-GDIR.OUT-PDIR.HITHER-3AUGIA"
+    ],
+    "nzmnctrmq": [
+        "NMLZ1-be-GDIR.IN-PDIR.HITHER"
+    ],
+    "nzmneti": [
+        "PAS-wait-TR"
+    ],
+    "nzmq": [
+        "grove"
+    ],
+    "nzmqlrpikrnge": [
+        "NMLZ1-be.comforted-NMLZ.POSS-1MINII"
+    ],
+    "nzmrbrtrkrde": [
+        "NMLZ1-famine-GDIR.IN-NMLZ.POSS-3MINII"
+    ],
+    "nzmrbrtrkrdr": [
+        "NMLZ1-famine-GDIR.IN-NMLZ.POSS-3AUGII"
+    ],
+    "nzmrgengr": [
+        "play"
+    ],
+    "nzmrlzkr": [
+        "NMLZ1-be.good-NMLZ.POSS"
+    ],
+    "nzmu": [
+        "if",
+        "then"
+    ],
+    "nzmukrdr": [
+        "NMLZ1-eat-NMLZ.POSS-3AUGII"
+    ],
+    "nzmukrgr": [
+        "NMLZ1-eat-NMLZ.POSS-1AUGII"
+    ],
+    "nzmulr": [
+        "3AUG-desire-3AUGIA"
+    ],
+    "nzmungr": [
+        "NMLZ1-eat-NMLZ"
+    ],
+    "nzmwakrde": [
+        "NMLZ1-fish-NMLZ.POSS-3MINII"
+    ],
+    "nzmwakrgr": [
+        "NMLZ1-fish-NMLZ.POSS-1AUGII"
+    ],
+    "nzmwelrkrgr": [
+        "NMLZ1-fear-NMLZ.POSS-1AUGII"
+    ],
+    "nzmwelrng": [
+        "3AUG-afraid-3AUGIS"
+    ],
+    "nzmwibletilr": [
+        "3AUG-dream-TR-3AUGIA"
+    ],
+    "nzmwingr": [
+        "NMLZ1-sleep-NMLZ"
+    ],
+    "nzmwingrdr": [
+        "3AUG-sleep-APPL-3AUGII"
+    ],
+    "nzmwipekrnge": [
+        "NMLZ1-sleep-COS-NMLZ.POSS-1MINII"
+    ],
+    "nzmwipxmq": [
+        "3AUG-sleep-GDIR.OUT-PDIR.HITHER"
+    ],
+    "nzmwxlrng": [
+        "3AUG-fear-3AUGIS"
+    ],
+    "nzmznrkrde": [
+        "NMLZ1-be.empty-NMLZ.POSS-3MINII"
+    ],
+    "nznekrde": [
+        "NMLZ1-scream-NMLZ.POSS-3MINII"
+    ],
+    "nznemilr": [
+        "3AUG-scream-DPV-3AUGIA"
+    ],
+    "nznepeng": [
+        "3AUG-scream-COS-3AUGIS"
+    ],
+    "nzngikr": [
+        "NMLZ1-be-NMLZ.POSS"
+    ],
+    "nzngikrdr": [
+        "NMLZ1-be-NMLZ.POSS-3AUGII"
+    ],
+    "nznginikrde": [
+        "NMLZ1-become-NMLZ.POSS-3MINII"
+    ],
+    "nznginikrnge": [
+        "NMLZ1-become-NMLZ.POSS-1MINII"
+    ],
+    "nzngitrpengrkr": [
+        "NMLZ1-be-not.anymore-NMLZ.POSS"
+    ],
+    "nzngqbangr": [
+        "NMLZ1-vomit-NMLZ"
+    ],
+    "nzngrlrpxkrmqgr": [
+        "NMLZ1-hurry-GDIR.OUT-NMLZ.POSS-PDIR.HITHER-1AUGII"
+    ],
+    "nznur": [
+        "NMLZ1-food.parcel-GEN1A"
+    ],
+    "nznurde": [
+        "NMLZ1-food.parcel-GEN1A-3MINII"
+    ],
+    "nzobqbzngq": [
+        "3AUG-awake-PDIR.YON-3AUGIS"
+    ],
+    "nzobqkapqkr": [
+        "NMLZ1-watch-hidden-1AUGI"
+    ],
+    "nzobqmoumqng": [
+        "3AUG-look-again-PDIR.HITHER-3AUGIS"
+    ],
+    "nzobqpxbz": [
+        "3AUG-look-GDIR.OUT-PDIR.YON"
+    ],
+    "nzokatrkr": [
+        "NMLZ1-help-NMLZ.POSS"
+    ],
+    "nzokatrkzmqlr": [
+        "3AUG-help-also-PDIR.HITHER-3AUGIA"
+    ],
+    "nzokatrngr": [
+        "nzokatrngr"
+    ],
+    "nzokatrpekzlr": [
+        "3AUG-help-COS-also-3AUGIA"
+    ],
+    "nzokrm": [
+        "NMLZ1-go-NMLZ.POSS-PDIR.HITHER"
+    ],
+    "nzoliqkr": [
+        "NMLZ1-prepare-NMLZ.POSS"
+    ],
+    "nzoliqngr": [
+        "NMLZ1-prepare-NMLZ"
+    ],
+    "nzoliqti": [
+        "PAS-prepare.for"
+    ],
+    "nzolvxtikrde": [
+        "NMLZ1-inspect-NMLZ.POSS-3MINII"
+    ],
+    "nzongaletiongrmqlr": [
+        "3AUG-go-around-TR-GDIR.DOWN-APPL-PDIR.HITHER-3AUGIA"
+    ],
+    "nzopxngrmq": [
+        "NMLZ1-clear-APPL-PDIR.HITHER"
+    ],
+    "nzotikrmqle": [
+        "NMLZ1-take-NMLZ.POSS-PDIR.HITHER-3MINIA"
+    ],
+    "nzotilr": [
+        "3AUG-take-3AUGIA"
+    ],
+    "nzotipekrmq": [
+        "NMLZ1-take-COS-NMLZ.POSS-PDIR.HITHER"
+    ],
+    "nzotrbzng": [
+        "3AUG-go-GDIR.IN-PDIR.YON-3AUGIS"
+    ],
+    "nzotrngr": [
+        "NMLZ1-go-GDIR.IN-NMLZ"
+    ],
+    "nzpas": [
+        "PAS-pass.exam"
+    ],
+    "nzpctikr": [
+        "NMLZ1-red-TR-NMLZ.POSS"
+    ],
+    "nzpibzlr": [
+        "3AUG-say-PDIR.YON-3AUGIA"
+    ],
+    "nzpibzlrle": [
+        "3AUG-say-PDIR.YON-3AUGIA-3MINIIP"
+    ],
+    "nzpipxlzbqkaing": [
+        "3AUG-declare-REFL-first-3AUGIS"
+    ],
+    "nzplzpxkrmqmu": [
+        "NMLZ1-confess-NMLZ.POSS-PDIR.HITHER-2AUGII"
+    ],
+    "nzpnang": [
+        "3AUG-steal-3AUGIS"
+    ],
+    "nzpnatikrbzlr": [
+        "NMLZ1-steal-TR-NMLZ.POSS-PDIR.YON-3AUGIA"
+    ],
+    "nzpnatikrbzmu": [
+        "NMLZ1-steal-TR-NMLZ.POSS-PDIR.YON-2AUGII"
+    ],
+    "nzpnatikrgr": [
+        "NMLZ1-steal-TR-NMLZ.POSS-1AUGII"
+    ],
+    "nzpnatilr": [
+        "3AUG-steal-TR-3AUGIA"
+    ],
+    "nzpnu": [
+        "ten"
+    ],
+    "nzpnuesz'nradeesz'": [
+        "ten-be.one-additional-3MINII-be.one"
+    ],
+    "nzpnuesz'nradeli": [
+        "ten-be.one-additional-3MINII-two",
+        "ten-be.one-fruit-3MINII-two"
+    ],
+    "nzpnuesz'nradenzlvqn": [
+        "ten-be.one-additional-3MINII-five"
+    ],
+    "nzpnuesz'nradepwx": [
+        "ten-be.one-additional-3MINII-four"
+    ],
+    "nzpnulinradeli": [
+        "ten-two-additional-3MINII-two"
+    ],
+    "nzpnunradeli": [
+        "ten-fruit-3MINII-two"
+    ],
+    "nzpnutitx": [
+        "PAS-treat.sore-INTS"
+    ],
+    "nzpnz'": [
+        "PAS-shoot"
+    ],
+    "nzpnzbzlr": [
+        "3AUG-shoot-PDIR.YON-3AUGIA"
+    ],
+    "nzprtrkrnge": [
+        "NMLZ1-enter.in-NMLZ.POSS-1MINII"
+    ],
+    "nzprtrkzmqng": [
+        "3AUG-enter.in-also-PDIR.HITHER-3AUGIS"
+    ],
+    "nzprtrmoumq": [
+        "3AUG-enter.in-again-PDIR.HITHER"
+    ],
+    "nzprtrng": [
+        "3AUG-enter.in-3AUGIS"
+    ],
+    "nzprtzkrbzlr": [
+        "NMLZ1-enter-NMLZ.POSS-PDIR.YON-3AUGIA"
+    ],
+    "nzprtzmoubzngq": [
+        "3AUG-enter-again-PDIR.YON-3AUGIS"
+    ],
+    "nzpwrngr": [
+        "NMLZ1-defecate-NMLZ"
+    ],
+    "nzpwxngq": [
+        "3AUG-four-3AUGIS"
+    ],
+    "nzrbomkr": [
+        "NMLZ1-MID-bomb-NMLZ.POSS"
+    ],
+    "nzrkabz": [
+        "PAS-MID-give-PDIR.YON"
+    ],
+    "nzrkakrbz": [
+        "NMLZ1-MID-give-NMLZ.POSS-PDIR.YON"
+    ],
+    "nzrkakrmqle": [
+        "NMLZ1-MID-give-NMLZ.POSS-PDIR.HITHER-3MINIA"
+    ],
+    "nzrkalzmqngq": [
+        "3AUG-leave-PDIR.HITHER-3AUGIS"
+    ],
+    "nzrkatxkrde": [
+        "NMLZ1-MID-remove-NMLZ.POSS-3MINII"
+    ],
+    "nzrkatxkrdr": [
+        "NMLZ1-MID-remove-NMLZ.POSS-3AUGII"
+    ],
+    "nzrkatxngr": [
+        "NMLZ1-MID-remove-NMLZ"
+    ],
+    "nzrkzngr": [
+        "NMLZ1-MID-grate.coconut-NMLZ"
+    ],
+    "nzrlalzkrgr": [
+        "NMLZ1-flee-GDIR.UP-NMLZ.POSS-1AUGII"
+    ],
+    "nzrlaszkrgr": [
+        "NMLZ1-leave-NMLZ.POSS-1AUGII"
+    ],
+    "nzrlimzng": [
+        "3AUG-seven-3AUGIS"
+    ],
+    "nzrlwxkrdr": [
+        "NMLZ1-read-NMLZ.POSS-3AUGII"
+    ],
+    "nzrlwxngr": [
+        "reading"
+    ],
+    "nzrlxkqtiongr": [
+        "NMLZ1-MID-spotted-GDIR.DOWN-APPL"
+    ],
+    "nzrlxngitingr": [
+        "NMLZ1-MID-lean-TR-NMLZ"
+    ],
+    "nzrlxtikrbz": [
+        "NMLZ1-ask.for-NMLZ.POSS-PDIR.YON"
+    ],
+    "nzrlxtikrmqlr": [
+        "NMLZ1-ask.for-NMLZ.POSS-PDIR.HITHER-3AUGIA"
+    ],
+    "nzrlzkrbzle": [
+        "NMLZ1-MID-carve.wood-NMLZ.POSS-PDIR.YON-3MINIA"
+    ],
+    "nzrlzngr": [
+        "NMLZ1-MID-carve.wood-APPL"
+    ],
+    "nzrmale": [
+        "3AUG-MID-hold"
+    ],
+    "nzrmalvzaepztrkrgr": [
+        "NMLZ1-MID-smoke.tobacco-near-GDIR.IN-NMLZ.POSS-1AUGII"
+    ],
+    "nzrmalvzkrgr": [
+        "NMLZ1-MID-smoke.tobacco-NMLZ.POSS-1AUGII"
+    ],
+    "nzrmangr": [
+        "brideprice.event"
+    ],
+    "nzrmckrbz": [
+        "NMLZ1-MID-see-NMLZ.POSS-PDIR.YON"
+    ],
+    "nzrmckrnge": [
+        "NMLZ1-MID-mc-NMLZ.POSS-1MINII"
+    ],
+    "nzrmctikrdr": [
+        "NMLZ1-meet-NMLZ.POSS-3AUGII"
+    ],
+    "nzrmctilr": [
+        "3AUG-meet-3AUGIA"
+    ],
+    "nzrmctinedr": [
+        "3AUG-meet-INTS-3AUGII"
+    ],
+    "nzrmnqkrdr": [
+        "NMLZ1-drink-NMLZ.POSS-3AUGII"
+    ],
+    "nzrmnqtxng": [
+        "3AUG-drink-INTS-3AUGIS"
+    ],
+    "nzrmusrtikrbo": [
+        "NMLZ1-MID-treat.like.that-TR-NMLZ.POSS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nzrngisckrde": [
+        "NMLZ1-MID-be-PCLF.HAND-NMLZ.POSS-3MINII"
+    ],
+    "nzrnibqkrdr": [
+        "NMLZ1-MID-kill-NMLZ.POSS-3AUGII"
+    ],
+    "nzrnibqngr": [
+        "NMLZ1-MID-kill-NMLZ"
+    ],
+    "nzrpibz": [
+        "3AUG-MID-say-PDIR.YON",
+        "PAS-MID-say-PDIR.YON"
+    ],
+    "nzrpikrbo": [
+        "NMLZ1-MID-say-NMLZ.POSS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nzrpikrde": [
+        "NMLZ1-MID-say-NMLZ.POSS-3MINII"
+    ],
+    "nzrpikrm": [
+        "NMLZ1-said-NMLZ.POSS-2MINII"
+    ],
+    "nzrpikrme": [
+        "NMLZ1-MID-say-NMLZ.POSS-mq(PDIR.HITHER).q(2MINI)"
+    ],
+    "nzrpikrnge": [
+        "NMLZ1-MID-pi-NMLZ.POSS-1MINII"
+    ],
+    "nzrpilr": [
+        "NMLZ1-MID-say-3AUGIA",
+        "3AUG-MID-say-3AUGIA"
+    ],
+    "nzrpilzmqlr": [
+        "3AUG-MID-say-GDIR.UP-PDIR.HITHER-3AUGIA"
+    ],
+    "nzrpilzngr": [
+        "PAS-MID-curse-APPL",
+        "PAS-MID-curse-NMLZ"
+    ],
+    "nzrpimq": [
+        "3AUG-MID-say-PDIR.HITHER"
+    ],
+    "nzrpimqlr": [
+        "3AUG-MID-say-PDIR.HITHER-3AUGIA"
+    ],
+    "nzrplameitikrde": [
+        "NMLZ1-MID-break-TR-NMLZ.POSS-3MINII"
+    ],
+    "nzrplxkrdr": [
+        "NMLZ1-MID-shark.fishing-NMLZ.POSS-3AUGII"
+    ],
+    "nzrpna'neopekrmqlr": [
+        "3AUG-MID-shoot-DSTR-GDIR.DOWN-COS-NMLZ.POSS-PDIR.HITHER-3AUGIA"
+    ],
+    "nzrpwa'ngrbzlr": [
+        "3AUG-forbid-APPL-PDIR.YON-3AUGIA"
+    ],
+    "nzrpwa'ngrmqlr": [
+        "3AUG-forbid-APPL-PDIR.HITHER-3AUGIA"
+    ],
+    "nzrpzngr": [
+        "NMLZ1-MID-cut.flesh-APPL"
+    ],
+    "nzrtangrtikrgr": [
+        "NMLZ1-search-TR-NMLZ.POSS-1AUGII"
+    ],
+    "nzrtangrtingr": [
+        "NMLZ1-search-NMLZ"
+    ],
+    "nzrtcolzbqngrdr": [
+        "3AUG-throw-GDIR.DOWN-REFL-APPL-3AUGII"
+    ],
+    "nzrtcongrdr": [
+        "3AUG-throw-GDIR.DOWN-APPL-3AUGII"
+    ],
+    "nzrtekangr": [
+        "NMLZ1-MID-weave.by.loom-APPL",
+        "NMLZ1-MID-weave.by.hand-NMLZ"
+    ],
+    "nzrtekqtrkrnge": [
+        "NMLZ1-MID-exchange-NMLZ.POSS-1MINII"
+    ],
+    "nzrtekqtrngr": [
+        "NMLZ1-MID-exchange-APPL",
+        "NMLZ1-MID-exchange-NMLZ"
+    ],
+    "nzrtrngrtialzupwzlr": [
+        "3AUG-do-TR-instead-just-3AUGIA"
+    ],
+    "nzrtrngrtibz": [
+        "PAS-do-TR-PDIR.YON"
+    ],
+    "nzrtrngrtiolr": [
+        "3AUG-do-TR-GDIR.DOWN-3AUGIA"
+    ],
+    "nzrtrngrtitrkrnge": [
+        "NMLZ1-do-TR-GDIR.IN-NMLZ.POSS-1MINII"
+    ],
+    "nzrtwzkrmqlr": [
+        "NMLZ1-MID-take-NMLZ.POSS-PDIR.HITHER-3AUGIA"
+    ],
+    "nzrtwzkzmqng": [
+        "3AUG-MID-take-also-PDIR.HITHER-3AUGIS"
+    ],
+    "nzrtwzngr": [
+        "NMLZ1-take-NMLZ"
+    ],
+    "nzrtwztimqng": [
+        "3AUG-take-TR-PDIR.HITHER-3AUGIS"
+    ],
+    "nzrvingr": [
+        "NMLZ1-MID-squeeze-APPL"
+    ],
+    "nzryapwxkrdr": [
+        "NMLZ1-tell.a.story-NMLZ.POSS-3AUGII"
+    ],
+    "nzryrngr": [
+        "writing"
+    ],
+    "nzryrngrkxtr": [
+        "holy.writings"
+    ],
+    "nzryrtingr": [
+        "NMLZ1-MID-draw-TR-NMLZ"
+    ],
+    "nzryzutrngr": [
+        "NMLZ1-MID-begin-GDIR.IN-NMLZ"
+    ],
+    "nzsiklukrnge": [
+        "NMLZ1-be.schooled-NMLZ.POSS-1MINII"
+    ],
+    "nzsiklungr": [
+        "NMLZ1-be.schooled-NMLZ"
+    ],
+    "nzsuti": [
+        "3AUG-want"
+    ],
+    "nzsutipe": [
+        "3AUG-want-COS"
+    ],
+    "nztabr": [
+        "PAS-crush"
+    ],
+    "nztamititrkrgu": [
+        "NMLZ1-persuade-GDIR.IN-NMLZ.POSS-12AUGII"
+    ],
+    "nztavelr": [
+        "3AUG-break-3AUGIA"
+    ],
+    "nztavetr": [
+        "PAS-break-GDIR.IN"
+    ],
+    "nztavetrlr": [
+        "3AUG-break-GDIR.IN-3AUGIA"
+    ],
+    "nztekqtrkrnge": [
+        "NMLZ1-exchange-NMLZ.POSS-1MINII"
+    ],
+    "nztekqtrngr": [
+        "NMLZ1-exchange-NMLZ"
+    ],
+    "nztelvzlr": [
+        "3AUG-ignite-3AUGIA"
+    ],
+    "nzteslr": [
+        "3AUG-test-3AUGIA"
+    ],
+    "nztialokr": [
+        "NMLZ1-shine-forever-NMLZ.POSS"
+    ],
+    "nztq": [
+        "3AUG-three"
+    ],
+    "nztqlvztrngr": [
+        "PAS-nail-GDIR.IN-APPL"
+    ],
+    "nztqngq": [
+        "3AUG-three-PL"
+    ],
+    "nztulzmq": [
+        "3AUG-stand-GDIR.UP-PDIR.HITHER"
+    ],
+    "nztungr": [
+        "3AUG-stand-APPL"
+    ],
+    "nztwzkrnge": [
+        "NMLZ1-take-NMLZ.POSS-1MINII"
+    ],
+    "nztwzlr": [
+        "3AUG-take-3AUGIA"
+    ],
+    "nzveanengq": [
+        "3AUG-ask-INTS-3AUGIS"
+    ],
+    "nzveckr": [
+        "NMLZ1-fight-1AUGI",
+        "NMLZ1-fight-NMLZ.POSS"
+    ],
+    "nzveclzmqlr": [
+        "3AUG-pull-GDIR.UP-PDIR.HITHER-3AUGIA"
+    ],
+    "nzvecng": [
+        "3AUG-fight-3AUGIS"
+    ],
+    "nzvecngr": [
+        "war"
+    ],
+    "nzvokrde": [
+        "NMLZ1-travel-NMLZ.POSS-3MINII"
+    ],
+    "nzvokrgr": [
+        "NMLZ1-travel-NMLZ.POSS-1AUGII"
+    ],
+    "nzvokrmq": [
+        "NMLZ1-travel-NMLZ.POSS-PDIR.HITHER"
+    ],
+    "nzvolr": [
+        "3AUG-run.in.game-3AUGIA"
+    ],
+    "nzvomqng": [
+        "3AUG-travel-PDIR.HITHER-3AUGIS"
+    ],
+    "nzvong": [
+        "3AUG-travel-3AUGIS"
+    ],
+    "nzvz": [
+        "3AUG-go"
+    ],
+    "nzvzbzng": [
+        "3AUG-go-PDIR.YON-3AUGIS"
+    ],
+    "nzvzdzmqng": [
+        "3AUG-go-GDIR.UP-PDIR.HITHER-3AUGIS"
+    ],
+    "nzvzdzpekrmq": [
+        "NMLZ1-go-GDIR.UP-COS-NMLZ.POSS-PDIR.HITHER"
+    ],
+    "nzvzkaikrgr": [
+        "NMLZ1-go-first-NMLZ.POSS-1AUGII"
+    ],
+    "nzvzkaing": [
+        "3AUG-go-first-3AUGIS"
+    ],
+    "nzvzkilr": [
+        "3AUG-go-path-3AUGIA"
+    ],
+    "nzvzkiolr": [
+        "NMLZ1-go-path-GDIR.DOWN-3AUGIA"
+    ],
+    "nzvzkiopekzlr": [
+        "3AUG-go-path-GDIR.DOWN-COS-also-3AUGIA"
+    ],
+    "nzvzkr": [
+        "NMLZ1-feel.sad-NMLZ.POSS"
+    ],
+    "nzvzkrbo": [
+        "NMLZ1-go-NMLZ.POSS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nzvzkrbzkr": [
+        "NMLZ1-go-NMLZ.POSS-PDIR.YON-1AUGI"
+    ],
+    "nzvzkrdr": [
+        "NMLZ1-go-NMLZ.POSS-3AUGII"
+    ],
+    "nzvzkrgr": [
+        "NMLZ1-go-NMLZ.POSS-1AUGII"
+    ],
+    "nzvzkrmqgr": [
+        "NMLZ1-go-NMLZ.POSS-PDIR.HITHER-1AUGII"
+    ],
+    "nzvzkrnge": [
+        "NMLZ1-go-NMLZ.POSS-1MINII"
+    ],
+    "nzvzmikrgr": [
+        "NMLZ1-go-DPV-NMLZ.POSS-1AUGII"
+    ],
+    "nzvzmqng": [
+        "3AUG-go-PDIR.HITHER-3AUGIS"
+    ],
+    "nzvznekrdr": [
+        "NMLZ1-walk-NMLZ.POSS-3AUGII"
+    ],
+    "nzvznekrgr": [
+        "NMLZ1-go-INTS-NMLZ.POSS-1AUGII"
+    ],
+    "nzvzng": [
+        "3AUG-go-3AUGIS"
+    ],
+    "nzvzngr": [
+        "NMLZ1-go-APPL"
+    ],
+    "nzvzngrmqlr": [
+        "3AUG-go-APPL-PDIR.HITHER-3AUGIA"
+    ],
+    "nzvznqblqkrnge": [
+        "NMLZ1-go-follow-NMLZ.POSS-1MINII"
+    ],
+    "nzvzokrdr": [
+        "NMLZ1-go-GDIR.DOWN-NMLZ.POSS-3AUGII"
+    ],
+    "nzvzokrmoumqkr": [
+        "NMLZ1-go-GDIR.DOWN-NMLZ.POSS-again-PDIR.HITHER-1AUGI"
+    ],
+    "nzvzokzng": [
+        "3AUG-go-GDIR.DOWN-also-3AUGIS"
+    ],
+    "nzvzpeng": [
+        "3AUG-go-COS-3AUGIS"
+    ],
+    "nzvzpxmqng": [
+        "3AUG-go-GDIR.OUT-PDIR.HITHER-3AUGIS"
+    ],
+    "nzvzrbrkrdr": [
+        "NMLZ1-go-wrong-NMLZ.POSS-3AUGII"
+    ],
+    "nzvztrng": [
+        "3AUG-go-GDIR.IN-3AUGIS"
+    ],
+    "nzwqkr": [
+        "NMLZ1-blow.(wind)-NMLZ.POSS"
+    ],
+    "nzwqkrde": [
+        "NMLZ1-blow.(wind)-NMLZ.POSS-3MINII"
+    ],
+    "nzwrde": [
+        "time-3MINII"
+    ],
+    "nzwrkxtrngr": [
+        "NMLZ1-baptised-NMLZ"
+    ],
+    "nzwzkr": [
+        "NMLZ1-work-NMLZ.POSS"
+    ],
+    "nzwzkrde": [
+        "NMLZ1-work-NMLZ.POSS-3MINII"
+    ],
+    "nzwzkrgi": [
+        "NMLZ1-work-NMLZ.POSS-12MINII"
+    ],
+    "nzwzkrgr": [
+        "NMLZ1-work-NMLZ.POSS-1AUGII"
+    ],
+    "nzwzkrgrle": [
+        "NMLZ1-work-NMLZ.POSS-1AUGII-3MINIA"
+    ],
+    "nzwzkrmq": [
+        "NMLZ1-work-NMLZ.POSS-2MINII"
+    ],
+    "nzwzkrnge": [
+        "NMLZ1-work-NMLZ.POSS-1MINII"
+    ],
+    "nzwzlxblrkrgr": [
+        "NMLZ1-work-together-NMLZ.POSS-1AUGII"
+    ],
+    "nzwzngr": [
+        "NMLZ1-work-NMLZ",
+        "NMLZ1-work-PROP"
+    ],
+    "nzwztikrbzle": [
+        "NMLZ1-work-TR-NMLZ.POSS-PDIR.YON-3MINIA"
+    ],
+    "nzwztrkrngengq": [
+        "NMLZ1-work-tr-1AUGI-1MINII-PL"
+    ],
+    "nzxlr": [
+        "3AUG-hear"
+    ],
+    "nzxlrbz": [
+        "3AUG-hear-PDIR.YON"
+    ],
+    "nzxlrbzlrle": [
+        "3AUG-hear-PDIR.YON-3AUGIA-3MINIIP"
+    ],
+    "nzxlrmqlr": [
+        "3AUG-hear-PDIR.HITHER-3AUGIA"
+    ],
+    "nzxpengr": [
+        "PAS-pay-APPL"
+    ],
+    "nzxpepemq": [
+        "PAS-pay-COS-PDIR.HITHER"
+    ],
+    "nzxpepxngrmq": [
+        "PAS-pay-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "nzxplrkr": [
+        "NMLZ1-strong-NMLZ.POSS"
+    ],
+    "nzyagoxkrde": [
+        "NMLZ1-be.sick-NMLZ.POSS-3MINII"
+    ],
+    "nzyanekrdr": [
+        "NMLZ1-paddling-NMLZ.POSS-3AUGII"
+    ],
+    "nzyangrngatxzlwzpengrdr": [
+        "3AUG-weak-INTS-much-COS-APPL-3AUGII"
+    ],
+    "nzyazvzng": [
+        "3AUG-ya-always-3AUGIS"
+    ],
+    "nzycblqng": [
+        "3AUG-naked-3AUGIS"
+    ],
+    "nzycmne": [
+        "PAS-speak"
+    ],
+    "nzycmnekr": [
+        "NMLZ1-speak-NMLZ.POSS"
+    ],
+    "nzycmnekrbo": [
+        "NMLZ1-speak-NMLZ.POSS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "nzycmnekrbzlr": [
+        "NMLZ1-speak-NMLZ.POSS-PDIR.YON-3AUGIA"
+    ],
+    "nzycmnekrde": [
+        "NMLZ1-speak-NMLZ.POSS-3MINII"
+    ],
+    "nzycmnekrgr": [
+        "NMLZ1-speak-NMLZ.POSS-1AUGII"
+    ],
+    "nzycmnekrmqle": [
+        "NMLZ1-speak-NMLZ.POSS-PDIR.HITHER-3MINIA"
+    ],
+    "nzycmnengr": [
+        "speaking"
+    ],
+    "nzycngr": [
+        "NMLZ1-sorry-APPL"
+    ],
+    "nzyrbz": [
+        "PAS-write-PDIR.YON"
+    ],
+    "nzyrkrmqng": [
+        "3AUG-gather-PDIR.HITHER-3AUGIS"
+    ],
+    "nzyrlekr": [
+        "NMLZ1-flow-NMLZ.POSS"
+    ],
+    "nzyrlekrde": [
+        "NMLZ1-boil-NMLZ.POSS-3MINII"
+    ],
+    "nzyrletikrde": [
+        "NMLZ1-flow-TR-NMLZ.POSS-3MINII"
+    ],
+    "nzyrlqbz": [
+        "3AUG-put-PDIR.YON"
+    ],
+    "nzyrlqtrbzlr": [
+        "3AUG-put-GDIR.IN-PDIR.YON-3AUGIA"
+    ],
+    "nzyrlwrmqng": [
+        "3AUG-gather-PDIR.HITHER-3AUGIS"
+    ],
+    "nzyrlzkrnge": [
+        "NMLZ1-be.married-NMLZ.POSS-1MINII"
+    ],
+    "nzyrlzng": [
+        "3AUG-be.married-3AUGIS"
+    ],
+    "nzyrlzngr": [
+        "wedding"
+    ],
+    "nzyrmq": [
+        "PAS-write-PDIR.HITHER"
+    ],
+    "nzyrpuokrmqle": [
+        "NMLZ1-bang.against.st-GDIR.DOWN-NMLZ.POSS-PDIR.HITHER-3MINIA"
+    ],
+    "nzyzlukrgr": [
+        "NMLZ1-return-NMLZ.POSS-1AUGII"
+    ],
+    "nzyzlukrmqgr": [
+        "NMLZ1-return-NMLZ.POSS-PDIR.HITHER-1AUGII"
+    ],
+    "nzyzlukrmqo": [
+        "NMLZ1-return-NMLZ.POSS-PDIR.HITHER-1MIN.CMB"
+    ],
+    "o": [
+        "or"
+    ],
+    "obla": [
+        "young.man"
+    ],
+    "obqkimqx": [
+        "look-path-PDIR.HITHER-1MINI"
+    ],
+    "obqobz": [
+        "look-GDIR.DOWN-PDIR.YON"
+    ],
+    "obqpxØ": [
+        "look-GDIR.OUT-3MINIS"
+    ],
+    "odatitxatwrnrngrde": [
+        "be.destroyed-TR-INTS-wholly-APPL-3MINII"
+    ],
+    "ofisz": [
+        "officer"
+    ],
+    "okatrmq": [
+        "help-PDIR.HITHER"
+    ],
+    "oliqlzkr": [
+        "prepare-GDIR.UP-1AUGI"
+    ],
+    "olta": [
+        "altar"
+    ],
+    "olvi": [
+        "girl"
+    ],
+    "olvxtile": [
+        "inspect-3MINIA"
+    ],
+    "olvz": [
+        "female",
+        "wife"
+    ],
+    "olzbo": [
+        "climb-bz(PDIR.YON).o(1MINI)"
+    ],
+    "omi": [
+        "go-DPV"
+    ],
+    "omitxpxbzle": [
+        "go-DPV-INTS-GDIR.OUT-PDIR.YON-3MINIA"
+    ],
+    "opx": [
+        "clear"
+    ],
+    "opxm": [
+        "seems"
+    ],
+    "oszbzle": [
+        "climb-PDIR.YON-3MINIA"
+    ],
+    "otiamu": [
+        "take-2AUGI"
+    ],
+    "otibz": [
+        "take-PDIR.YON"
+    ],
+    "otibzle": [
+        "take-PDIR.YON-3MINIA"
+    ],
+    "otitxne": [
+        "take-INTS-1MINII"
+    ],
+    "otx": [
+        "pass"
+    ],
+    "otxpx": [
+        "go.out"
+    ],
+    "pasto": [
+        "pastor"
+    ],
+    "pawitxne": [
+        "cut-INTS-1MINII"
+    ],
+    "pc": [
+        "red"
+    ],
+    "pct": [
+        "pot"
+    ],
+    "peao": [
+        "torch",
+        "dry.coconut.leaf"
+    ],
+    "pepz": [
+        "paper"
+    ],
+    "petikr": [
+        "plant-TR-1AUGI"
+    ],
+    "peto": [
+        "bush"
+    ],
+    "pibz": [
+        "say-PDIR.YON"
+    ],
+    "pikzbo": [
+        "say-also-bz(PDIR.YON).o(1MINI)"
+    ],
+    "pikzmqle": [
+        "say-also-PDIR.HITHER-3MINIA"
+    ],
+    "pimq": [
+        "say-PDIR.HITHER"
+    ],
+    "pipz": [
+        "little.bit"
+    ],
+    "pistol": [
+        "pistol"
+    ],
+    "pitxmqle": [
+        "say-INTS-PDIR.HITHER-3MINIA"
+    ],
+    "planteson": [
+        "plantation"
+    ],
+    "plastik": [
+        "plastic"
+    ],
+    "plc": [
+        "yellowish.green"
+    ],
+    "plctitxlxblrpe": [
+        "ripe-TR-INTS-each-COS"
+    ],
+    "plrkqtu": [
+        "overgrown"
+    ],
+    "pnatibzkr": [
+        "steal-TR-PDIR.YON-1AUGI"
+    ],
+    "pnatikr": [
+        "steal-TR-1AUGI"
+    ],
+    "pnz'": [
+        "pnz'"
+    ],
+    "pnz'moule": [
+        "shoot-again-3MINIA"
+    ],
+    "poi": [
+        "pig"
+    ],
+    "pokiabzkr": [
+        "lie-PDIR.YON-1AUGI"
+    ],
+    "popz'": [
+        "bow"
+    ],
+    "prckr": [
+        "go-c-1AUGI"
+    ],
+    "prcpelz": [
+        "propeller"
+    ],
+    "presiden": [
+        "president"
+    ],
+    "pripekt": [
+        "prefect"
+    ],
+    "prki": [
+        "white"
+    ],
+    "prla": [
+        "sea"
+    ],
+    "prlzkr": [
+        "go-GDIR.UP-1AUGI"
+    ],
+    "prngeitxbz": [
+        "creep-INTS-PDIR.YON"
+    ],
+    "profesz": [
+        "professor"
+    ],
+    "provins": [
+        "province"
+    ],
+    "prtrmq": [
+        "go-GDIR.IN-PDIR.HITHER"
+    ],
+    "prtrx": [
+        "enter.in-1MINI"
+    ],
+    "prtztingq": [
+        "happen-TR-PL"
+    ],
+    "prtztxbzkr": [
+        "enter-INTS-PDIR.YON-1AUGI"
+    ],
+    "pu": [
+        "gun"
+    ],
+    "pulis": [
+        "police"
+    ],
+    "pwrkilvcngrgr": [
+        "startled-APPL-1AUGII"
+    ],
+    "pwx": [
+        "four"
+    ],
+    "pwz": [
+        "just"
+    ],
+    "pxiØ": [
+        "wear.clothing-3MINIS"
+    ],
+    "pxngrde": [
+        "refuse-APPL-3MINII"
+    ],
+    "r": [
+        "GEN1A",
+        "GEN1B"
+    ],
+    "raes": [
+        "rice"
+    ],
+    "rblx": [
+        "be.difficult"
+    ],
+    "rblxesz'ngr": [
+        "be.difficult-exceedingly"
+    ],
+    "rblxtxpele": [
+        "be.difficult-INTS-COS-3MINIA"
+    ],
+    "rde": [
+        "GEN1A-3MINII",
+        "GEN1B-3MINII"
+    ],
+    "rdr": [
+        "GEN1A-3AUGII"
+    ],
+    "rdrngq": [
+        "GEN1A-3AUGII-PL"
+    ],
+    "rglqkr": [
+        "MID-carry-1AUGI"
+    ],
+    "rglqpxkr": [
+        "MID-carry-GDIR.OUT-1AUGI"
+    ],
+    "rgr": [
+        "GEN1A-1AUGII"
+    ],
+    "rgrngq": [
+        "GEN1A-1AUGII-PL"
+    ],
+    "rkalzmqgr": [
+        "set.out-PDIR.HITHER-1AUGII"
+    ],
+    "rkamq": [
+        "MID-give-PDIR.HITHER"
+    ],
+    "rkatrmq": [
+        "MID-give-GDIR.IN-PDIR.HITHER"
+    ],
+    "rkatxmq": [
+        "MID-give-INTS-PDIR.HITHER"
+    ],
+    "rkqtxkr": [
+        "pick-INTS-1AUGI"
+    ],
+    "rkrlz": [
+        "MID-know"
+    ],
+    "rla": [
+        "morning"
+    ],
+    "rlapxngrnengq": [
+        "rescued-APPL-1MINII-PL"
+    ],
+    "rlapxx": [
+        "rescued-1MINI"
+    ],
+    "rlaszkr": [
+        "leave-1AUGI"
+    ],
+    "rlilr": [
+        "both"
+    ],
+    "rlimz": [
+        "seven"
+    ],
+    "rlir": [
+        "MID-two-APPL"
+    ],
+    "rlirdr": [
+        "MID-two-APPL-3AUGII"
+    ],
+    "rlirgr": [
+        "MID-two-APPL-1AUGII"
+    ],
+    "rlirmu": [
+        "MID-two-APPL-2AUGII"
+    ],
+    "rlwxkr": [
+        "count-1AUGI"
+    ],
+    "rlxngiti": [
+        "MID-believe"
+    ],
+    "rlxngitile": [
+        "MID-obey-3MINIA"
+    ],
+    "rmale": [
+        "MID-hold"
+    ],
+    "rmctile": [
+        "GEN1A-see-TR-3MINIA"
+    ],
+    "rmctipekr": [
+        "meet-COS-1AUGI"
+    ],
+    "rmikatxkr": [
+        "MID-gather-INTS-1AUGI"
+    ],
+    "rmnrngrbz": [
+        "last-APPL-PDIR.YON"
+    ],
+    "rmnrngrtxbzle": [
+        "last-APPL-INTS-PDIR.YON-3MINIA"
+    ],
+    "rngalx": [
+        "dawn"
+    ],
+    "rnge": [
+        "GEN1A-1MINII"
+    ],
+    "rnipex": [
+        "MID-pick-COS-1MINI"
+    ],
+    "rnzlvzole": [
+        "step.on-GDIR.DOWN-3MINIA"
+    ],
+    "rpibo": [
+        "MID-say-bz(PDIR.YON).o(1MINI)"
+    ],
+    "rpibz": [
+        "MID-say-PDIR.YON"
+    ],
+    "rpibzle": [
+        "MID-say-PDIR.YON-3MINIA"
+    ],
+    "rpile": [
+        "MID-say-3MINIA"
+    ],
+    "rpimoubz": [
+        "said-again-PDIR.YON"
+    ],
+    "rpimoumq": [
+        "said-again-PDIR.HITHER"
+    ],
+    "rpimoumqle": [
+        "said-again-PDIR.HITHER-3MINIA"
+    ],
+    "rpimq": [
+        "MID-say-PDIR.HITHER"
+    ],
+    "rpimqle": [
+        "MID-say-PDIR.HITHER-3MINIA"
+    ],
+    "rpiobzle": [
+        "MID-say-GDIR.DOWN-PDIR.YON-3MINIA"
+    ],
+    "rpiomoubzle": [
+        "MID-say-o-again-PDIR.YON-3MINIA"
+    ],
+    "rpitrmq": [
+        "MID-pi-GDIR.IN-PDIR.HITHER"
+    ],
+    "rpix": [
+        "MID-say-1MINI"
+    ],
+    "rpnz'pe": [
+        "MID-shoot-COS"
+    ],
+    "rpwa'ngrbo": [
+        "forbid-APPL-bz(PDIR.YON).o(1MINI)"
+    ],
+    "rpwa'ngrbz": [
+        "forbid-APPL-PDIR.YON"
+    ],
+    "rpwa'txngrbo": [
+        "forbid-INTS-APPL-bz(PDIR.YON).o(1MINI)"
+    ],
+    "rpwxmz": [
+        "nine"
+    ],
+    "rtangrØ": [
+        "search-3MINIS"
+    ],
+    "rtclzngrde": [
+        "throw-GDIR.UP-APPL-3MINII"
+    ],
+    "rtcongrde": [
+        "throw-GDIR.DOWN-APPL-3MINII"
+    ],
+    "rtctxngrgr": [
+        "throw-INTS-APPL-1AUGII"
+    ],
+    "rtqmz": [
+        "eight"
+    ],
+    "rtqrdr": [
+        "MID-three-APPL-3AUGII"
+    ],
+    "rtqrgr": [
+        "MID-three-APPL-1AUGII"
+    ],
+    "rtrngrtiox": [
+        "take.hold.of-TR-GDIR.DOWN-1MINI"
+    ],
+    "rtrngrtitrle": [
+        "take.hold.of-TR-GDIR.IN-3MINIA"
+    ],
+    "rtwztxnrbalqbo": [
+        "MID-take-INTS-nil-bz(PDIR.YON).o(1MINI)"
+    ],
+    "rum": [
+        "room"
+    ],
+    "ryapwxzvzkr": [
+        "MID-tell-always-1AUGI"
+    ],
+    "ryrmq": [
+        "MID-write-PDIR.HITHER"
+    ],
+    "ryzkr": [
+        "MID-peel"
+    ],
+    "sa": [
+        "IPFV"
+    ],
+    "sc": [
+        "PFV",
+        "PCLF.HAND"
+    ],
+    "scde": [
+        "PCLF.HAND-3MINII"
+    ],
+    "scdengq": [
+        "PCLF.HAND-3MINII-PL"
+    ],
+    "scdr": [
+        "PCLF.HAND-3AUGII"
+    ],
+    "scgi": [
+        "PCLF.HAND-12MINII"
+    ],
+    "scgr": [
+        "PCLF.HAND-1AUGII"
+    ],
+    "scgu": [
+        "PCLF.HAND-12AUGII"
+    ],
+    "scmq": [
+        "PCLF.HAND-2MINII"
+    ],
+    "scnge": [
+        "PCLF.HAND-1MINII"
+    ],
+    "se": [
+        "yet"
+    ],
+    "sef": [
+        "foodsafe"
+    ],
+    "sekaentxkr": [
+        "shake.hands-INTS-1AUGI"
+    ],
+    "sekondzre": [
+        "secondary"
+    ],
+    "sele": [
+        "here"
+    ],
+    "seleng": [
+        "they.here"
+    ],
+    "set": [
+        "sector"
+    ],
+    "sezman": [
+        "chairman"
+    ],
+    "sikapu": [
+        "smoke"
+    ],
+    "sikaputxpwz": [
+        "smoke-INTS-just"
+    ],
+    "sinia": [
+        "senior"
+    ],
+    "skul": [
+        "be.schooled",
+        "school",
+        "skul"
+    ],
+    "skulboe": [
+        "schoolboy"
+    ],
+    "sokz": [
+        "soccer"
+    ],
+    "sore": [
+        "sorry"
+    ],
+    "sport": [
+        "sport"
+    ],
+    "srlrni": [
+        "coin"
+    ],
+    "stoa": [
+        "store"
+    ],
+    "stoakipz": [
+        "storekeeper"
+    ],
+    "stol": [
+        "stoll"
+    ],
+    "supe": [
+        "cooked"
+    ],
+    "suti": [
+        "want"
+    ],
+    "sutitxzlwz": [
+        "want-INTS-much"
+    ],
+    "ta*glc": [
+        "ring-shatter"
+    ],
+    "tabao": [
+        "papaya"
+    ],
+    "taea": [
+        "tire"
+    ],
+    "taepis": [
+        "typist"
+    ],
+    "takes": [
+        "tax"
+    ],
+    "takitr": [
+        "fitting"
+    ],
+    "takitrtxpwz": [
+        "fitting-INTS-just"
+    ],
+    "takitrtxpwzle": [
+        "fitting-INTS-just-3MINIA"
+    ],
+    "taol": [
+        "towel"
+    ],
+    "taplxsrgr": [
+        "be.distributed.evenly-1AUGII"
+    ],
+    "tatxpxzero": [
+        "fall-INTS-GDIR.OUT-zero"
+    ],
+    "tawa": [
+        "tower"
+    ],
+    "tcprtrngr": [
+        "stub-APPL"
+    ],
+    "tebol": [
+        "tebol"
+    ],
+    "tekatrtxbzle": [
+        "ignite-GDIR.IN-INTS-PDIR.YON-3MINIA"
+    ],
+    "temz": [
+        "moon",
+        "month"
+    ],
+    "teomo": [
+        "manioc"
+    ],
+    "teox": [
+        "pull-GDIR.DOWN-1MINI"
+    ],
+    "testimcne": [
+        "testimony"
+    ],
+    "tewa": [
+        "rain"
+    ],
+    "tin": [
+        "can"
+    ],
+    "toki": [
+        "knife"
+    ],
+    "tokir": [
+        "knife-GEN1A"
+    ],
+    "tonga": [
+        "wind.SE"
+    ],
+    "topwz": [
+        "be.small"
+    ],
+    "topwzne": [
+        "small"
+    ],
+    "tosi": [
+        "torchlight"
+    ],
+    "tq": [
+        "three"
+    ],
+    "tqabcnene": [
+        "RL-call.out-INTS-1MINII"
+    ],
+    "tqablzoatele": [
+        "RL-ablzo-afterward-3MINIA"
+    ],
+    "tqabrtzzvzngrgr": [
+        "RL-be.happy-always-APPL-1AUGII"
+    ],
+    "tqaclvex": [
+        "RL-oversee-1MINI"
+    ],
+    "tqaenzlikr": [
+        "RL-wait-1AUGI"
+    ],
+    "tqaenzlitingrgr": [
+        "RL-wait-TR-APPL-1AUGII"
+    ],
+    "tqaglqpekr": [
+        "RL-CAUS-carry-COS-1AUGI"
+    ],
+    "tqalekr": [
+        "RL-do-1AUGI"
+    ],
+    "tqalepeq": [
+        "RL-do-COS-2MINI"
+    ],
+    "tqalilvcnengrde": [
+        "RL-sail-DSTR-APPL-3MINII"
+    ],
+    "tqalvclzbqngrgr": [
+        "RL-push-REFL-APPL-1AUGII"
+    ],
+    "tqalvctrlzbqpe": [
+        "RL-push-GDIR.IN-REFL-COS"
+    ],
+    "tqalvznetrpexlengq": [
+        "RL-teach-start-GDIR.IN-COS-1MINI-3AUGII"
+    ],
+    "tqalvzpxpex": [
+        "RL-teach-GDIR.OUT-COS-1MINI"
+    ],
+    "tqalvztrpex": [
+        "RL-teach-COS-1MINI"
+    ],
+    "tqamaatekr": [
+        "RL-rest-afterward-1AUGI"
+    ],
+    "tqamaopeØ": [
+        "RL-stop-GDIR.DOWN-COS-3MINIS"
+    ],
+    "tqamqngitrzlwzpele": [
+        "RL-CAUS-tight-GDIR.IN-much-COS-3MINIA"
+    ],
+    "tqamrbrtrpele": [
+        "RL-CAUS-be.lost-GDIR.IN-COS-3MINIA"
+    ],
+    "tqamrlz": [
+        "RL-heal"
+    ],
+    "tqamukxtr": [
+        "RL-CAUS-eat-SUBR-holy"
+    ],
+    "tqamznrpele": [
+        "RL-CAUS-be.empty-COS-3MINIA"
+    ],
+    "tqaokz": [
+        "RL-watch"
+    ],
+    "tqasiklu": [
+        "RL-CAUS-be.schooled"
+    ],
+    "tqasiklupelelengq": [
+        "RL-CAUS-be.schooled-COS-3MINIA-3AUGII"
+    ],
+    "tqasupebzØ": [
+        "RL-CAUS-be.cooking-COS-PDIR.YON-3MINIS"
+    ],
+    "tqatatrpele": [
+        "RL-collect-GDIR.IN-COS-3MINIA"
+    ],
+    "tqatwzlrpe": [
+        "RL-dispatch-COS"
+    ],
+    "tqatwzlrpemqle": [
+        "RL-dispatch-COS-PDIR.HITHER-3MINIA"
+    ],
+    "tqawipebo": [
+        "RL-thank-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqawipebzkr": [
+        "RL-thank-COS-PDIR.YON-1AUGI"
+    ],
+    "tqawrkxtrpele": [
+        "RL-baptize-COS-3MINIA"
+    ],
+    "tqayagoxle": [
+        "RL-CAUS-be.sick-3MINIA"
+    ],
+    "tqayrkrpex": [
+        "RL-CAUS-finish-COS-1MINI"
+    ],
+    "tqayrnipe": [
+        "RL-CAUS-cry-COS"
+    ],
+    "tqayrnipele": [
+        "RL-CAUS-cry-COS-3MINIA"
+    ],
+    "tqayzluatele": [
+        "RL-CAUS-return-afterward-3MINIA"
+    ],
+    "tqayzlupele": [
+        "RL-CAUS-return-COS-3MINIA"
+    ],
+    "tqayzutrngrne": [
+        "RL-begin-APPL-1MINII"
+    ],
+    "tqayzutxtr": [
+        "RL-begin-INTS-GDIR.IN"
+    ],
+    "tqbrlxkzpe": [
+        "RL-thirsty-COS"
+    ],
+    "tqbxplcopemq": [
+        "RL-twist-ripe-GDIR.DOWN-COS-PDIR.HITHER"
+    ],
+    "tqbzpe": [
+        "RL-die-COS"
+    ],
+    "tqdc": [
+        "RL-fall"
+    ],
+    "tqdcpe": [
+        "RL-fall-COS"
+    ],
+    "tqdcpxmqØ": [
+        "RL-fall-GDIR.OUT-PDIR.HITHER-3MINIS"
+    ],
+    "tqdcpxpeØ": [
+        "RL-remember-COS-3MINIS"
+    ],
+    "tqdolapxngrne": [
+        "RL-hang-la-GDIR.OUT-APPL-1MINII"
+    ],
+    "tqdopxngrne": [
+        "RL-hang-GDIR.OUT-APPL-1MINII"
+    ],
+    "tqdotr": [
+        "RL-hang-GDIR.IN"
+    ],
+    "tqdotrbe": [
+        "RL-hang-GDIR.IN-still"
+    ],
+    "tqdotrpex": [
+        "RL-hang-GDIR.IN-COS-1MINI"
+    ],
+    "tqdwalzmpemqgr": [
+        "RL-awaken-COS-PDIR.HITHER-1AUGII"
+    ],
+    "tqdwapxpe": [
+        "RL-jump-GDIR.OUT-COS"
+    ],
+    "tqdwatibzle": [
+        "RL-befall-PDIR.YON-3MINIA"
+    ],
+    "tqdwatimqle": [
+        "RL-befall-PDIR.HITHER-3MINIA"
+    ],
+    "tqdwatrpe": [
+        "RL-jump-GDIR.IN-COS"
+    ],
+    "tqdwatrpekr": [
+        "RL-jump-GDIR.IN-COS-1AUGI"
+    ],
+    "tqelapebz": [
+        "RL-dance-COS-PDIR.YON"
+    ],
+    "tqetunepxpe": [
+        "RL-be.big-INTS-GDIR.OUT-COS"
+    ],
+    "tqkabzkr": [
+        "RL-give-PDIR.YON-1AUGI"
+    ],
+    "tqkalzkilzmqxlr": [
+        "RL-pick.up-path-GDIR.UP-PDIR.HITHER-1MINI-3AUGIIP"
+    ],
+    "tqkapebo": [
+        "RL-give-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqkaputrngrbz": [
+        "RL-arrive-APPL-PDIR.YON"
+    ],
+    "tqkaputrngrm": [
+        "RL-arrive-APPL-2MINII"
+    ],
+    "tqkaputrpekzpz": [
+        "RL-arrive-COS-also-PDIR.YON"
+    ],
+    "tqkaputrpemq": [
+        "RL-happened-GDIR.IN-COS-PDIR.HITHER"
+    ],
+    "tqkqlepebzle": [
+        "RL-call-COS-PDIR.YON-3MINIA"
+    ],
+    "tqkrka'pebzØ": [
+        "RL-pray-COS-PDIR.YON-3MINIS"
+    ],
+    "tqkrka'pekr": [
+        "RL-pray-COS-1AUGI"
+    ],
+    "tqkrka'peØ": [
+        "RL-pray-COS-3MINIS"
+    ],
+    "tqkrlzatebzkr": [
+        "RL-reach-afterward-PDIR.YON-1AUGI"
+    ],
+    "tqkukingramu": [
+        "RL-cook-APPL-2AUGI"
+    ],
+    "tqkukipengrne": [
+        "RL-cook-COS-APPL-1MINII"
+    ],
+    "tqlawititxne": [
+        "RL.PAS-cut.in.two-TR-INTS-INTS"
+    ],
+    "tqlipe": [
+        "RL-two-COS"
+    ],
+    "tqlitrpebz": [
+        "RL-two-GDIR.IN-COS-PDIR.YON"
+    ],
+    "tqlolvzpemoux": [
+        "RL-hold-COS-again-1MINI"
+    ],
+    "tqlux": [
+        "RL-wear.around.neck-1MINI"
+    ],
+    "tqlvcnqblqmoule": [
+        "RL-fly-follow-again-3MINIA"
+    ],
+    "tqlvr": [
+        "how.many"
+    ],
+    "tqlxlvrkipx": [
+        "RL-turn-path-GDIR.OUT"
+    ],
+    "tqlxngitiatex": [
+        "RL-believe-afterward-1MINI"
+    ],
+    "tqmatq": [
+        "RL-powerful"
+    ],
+    "tqmatqesz'ngr": [
+        "RL-powerful-most"
+    ],
+    "tqmcpekr": [
+        "RL-see-COS-1AUGI"
+    ],
+    "tqmcpele": [
+        "RL-see-COS-3MINIA"
+    ],
+    "tqmcpex": [
+        "RL-see-COS-1MINI"
+    ],
+    "tqmctiamu": [
+        "RL-see-TR-2AUGI"
+    ],
+    "tqmctipekr": [
+        "RL-see-TR-COS-1AUGI"
+    ],
+    "tqmeipe": [
+        "RL-broken.stick.like.obj-COS"
+    ],
+    "tqmeipxØ": [
+        "RL-broken.stick.like.obj-GDIR.OUT-3MINIS"
+    ],
+    "tqmeitio": [
+        "RL.PAS-broken.stick.like.obj-TR-GDIR.DOWN"
+    ],
+    "tqmibi": [
+        "RL-rotten"
+    ],
+    "tqmnc": [
+        "RL-be"
+    ],
+    "tqmncnetrpemqgr": [
+        "RL-be-INTS-GDIR.IN-COS-PDIR.HITHER-1AUGII"
+    ],
+    "tqmncpeku": [
+        "RL-be-COS-12AUGI"
+    ],
+    "tqmncpex": [
+        "RL-be-COS-1MINI"
+    ],
+    "tqmnctikr": [
+        "RL-be-TR-1AUGI"
+    ],
+    "tqmnctxpwzkr": [
+        "RL-be-INTS-just-1AUGI"
+    ],
+    "tqmrbr": [
+        "RL-be.lost"
+    ],
+    "tqmrlz": [
+        "RL-be.good"
+    ],
+    "tqmrlzmoule": [
+        "RL-be.good-again-3MINIA"
+    ],
+    "tqmrlzpeØ": [
+        "RL-be.good-COS-3MINIS"
+    ],
+    "tqmrlzx": [
+        "RL-be.good-1MINI"
+    ],
+    "tqmrtungrde": [
+        "RL-fall-APPL-3MINII"
+    ],
+    "tqmu": [
+        "RL-be.like"
+    ],
+    "tqmukr": [
+        "RL-eat-1AUGI"
+    ],
+    "tqmungrbe": [
+        "RL-eat-APPL-still"
+    ],
+    "tqmungrgr": [
+        "RL-eat-APPL-1AUGII"
+    ],
+    "tqmupekr": [
+        "RL-eat-COS-1AUGI"
+    ],
+    "tqmupekzkr": [
+        "RL-eat-COS-also-1AUGI"
+    ],
+    "tqmwelrpekr": [
+        "RL-fear-COS-1AUGI"
+    ],
+    "tqmwingrgr": [
+        "RL-sleep-APPL-1AUGII"
+    ],
+    "tqmwipekr": [
+        "RL-sleep-COS-1AUGI"
+    ],
+    "tqmwipex": [
+        "RL-sleep-COS-1MINI"
+    ],
+    "tqmwitxlzmq": [
+        "RL-sleep-INTS-GDIR.UP-PDIR.HITHER"
+    ],
+    "tqmwitxpeØ": [
+        "RL-sleep-INTS-COS-3MINIS"
+    ],
+    "tqmznrpeØ": [
+        "RL-be.empty-COS-3MINIS"
+    ],
+    "tqnepe": [
+        "RL-scream-COS"
+    ],
+    "tqnepex": [
+        "RL-scream-COS-1MINI"
+    ],
+    "tqngcneomq": [
+        "RL-burn-INTS-GDIR.DOWN-PDIR.HITHER"
+    ],
+    "tqngi": [
+        "RL-be"
+    ],
+    "tqngilo": [
+        "RL-saturated"
+    ],
+    "tqnginipenge": [
+        "RL-become-COS-1MINII"
+    ],
+    "tqngqamu": [
+        "RL-eat-2AUGI"
+    ],
+    "tqngrli": [
+        "RL-trampled"
+    ],
+    "tqngrlrpekr": [
+        "RL-hurry-COS-1AUGI"
+    ],
+    "tqngrlrpxpekr": [
+        "RL-hurry-GDIR.OUT-COS-1AUGI"
+    ],
+    "tqngrlrpxpemqØ": [
+        "RL-hurry-GDIR.OUT-COS-PDIR.HITHER-3MINIS"
+    ],
+    "tqngrlxope": [
+        "RL-daylight-GDIR.DOWN-COS"
+    ],
+    "tqobqlzpex": [
+        "RL-look-GDIR.UP-COS-1MINI"
+    ],
+    "tqobqnene": [
+        "RL-look-DSTR-1MINII"
+    ],
+    "tqobqtrpe": [
+        "RL-look-GDIR.IN-COS"
+    ],
+    "tqoliqtipebzle": [
+        "RL-prepare-TR-COS-PDIR.YON-3MINIA"
+    ],
+    "tqolvxtiatele": [
+        "RL-inspect-afterward-3MINIA"
+    ],
+    "tqope": [
+        "RL-go-COS"
+    ],
+    "tqopilvz": [
+        "RL-entwine"
+    ],
+    "tqopxpengrde": [
+        "RL-go.out-COS-APPL-3MINII"
+    ],
+    "tqoszpex": [
+        "RL-climb-COS-1MINI"
+    ],
+    "tqotimqle": [
+        "RL-take-PDIR.HITHER-3MINIA"
+    ],
+    "tqotipebzle": [
+        "RL-take-COS-PDIR.YON-3MINIA"
+    ],
+    "tqotitrpemqle": [
+        "RL-take-GDIR.IN-COS-PDIR.HITHER-3MINIA"
+    ],
+    "tqozliopekr": [
+        "RL-go-along-GDIR.DOWN-COS-1AUGI"
+    ],
+    "tqpi": [
+        "RL-say"
+    ],
+    "tqpibo": [
+        "RL-say-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqpibzkr": [
+        "RL-say-PDIR.YON-1AUGI"
+    ],
+    "tqpipebo": [
+        "RL-say-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqpipebz": [
+        "RL-say-COS-PDIR.YON"
+    ],
+    "tqpipebzle": [
+        "RL-say-COS-PDIR.YON-3MINIA"
+    ],
+    "tqpipem": [
+        "RL-say-COS-2MINII"
+    ],
+    "tqpipengrbole": [
+        "RL-say-COS-APPL-bz(PDIR.YON).o(1MINI)-3MINIIP"
+    ],
+    "tqplrkqtu": [
+        "RL-overgrown"
+    ],
+    "tqpnz'pele": [
+        "RL-shoot-COS-3MINIA"
+    ],
+    "tqpoope": [
+        "RL-move-GDIR.DOWN-COS"
+    ],
+    "tqprkilzmq": [
+        "RL-white-GDIR.UP-PDIR.HITHER"
+    ],
+    "tqprongrgr": [
+        "RL-go-GDIR.DOWN-APPL-1AUGII"
+    ],
+    "tqrblxtile": [
+        "RL-be.difficult-TR-3MINIA"
+    ],
+    "tqrdatrpwz": [
+        "RL-persevere-just"
+    ],
+    "tqrglqtikr": [
+        "RL-MID-carry-TR-1AUGI"
+    ],
+    "tqrkabz": [
+        "RL.PAS-MID-give-PDIR.YON"
+    ],
+    "tqrkalzpemqgr": [
+        "RL-set.out-COS-PDIR.HITHER-1AUGII"
+    ],
+    "tqrkeatex": [
+        "RL-pick-afterward-1MINI"
+    ],
+    "tqrkqtipe": [
+        "RL-MID-pick-TR-COS"
+    ],
+    "tqrlrpebzle": [
+        "RL-allow-COS-PDIR.YON-3MINIA"
+    ],
+    "tqrlrpengrmqle": [
+        "RL-allow-COS-APPL-PDIR.HITHER-3MINIA"
+    ],
+    "tqrlxplz": [
+        "RL.PAS-MID-puncture"
+    ],
+    "tqrlxtipebzkr": [
+        "RL-ask-TR-COS-PDIR.YON-1AUGI"
+    ],
+    "tqrlxtipebzle": [
+        "RL-ask.for-COS-PDIR.YON-3MINIA"
+    ],
+    "tqrmctipex": [
+        "RL-MID-see-TR-COS-1MINI"
+    ],
+    "tqrpibo": [
+        "RL-MID-say-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqrpibzle": [
+        "RL-MID-say-PDIR.YON-3MINIA"
+    ],
+    "tqrpimqle": [
+        "RL-MID-say-PDIR.HITHER-3MINIA"
+    ],
+    "tqrpingrn": [
+        "RL-MID-pi-APPL-2MINI"
+    ],
+    "tqrpipebo": [
+        "RL-MID-say-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqrpipebz": [
+        "RL-MID-say-COS-PDIR.YON"
+    ],
+    "tqrpipebzle": [
+        "RL-MID-say-COS-PDIR.YON-3MINIA"
+    ],
+    "tqrpipemq": [
+        "RL-MID-say-COS-PDIR.HITHER"
+    ],
+    "tqrpipemqle": [
+        "RL-MID-say-COS-PDIR.HITHER-3MINIA"
+    ],
+    "tqrpipex": [
+        "RL-MID-say-COS-1MINI"
+    ],
+    "tqrpirn": [
+        "RL-MID-say-APPL-2MINI"
+    ],
+    "tqrpna'ngrmq": [
+        "RL-shoot-APPL-PDIR.HITHER"
+    ],
+    "tqrpna'pengrmqle": [
+        "RL-shoot-COS-APPL-PDIR.HITHER-3MINIA"
+    ],
+    "tqrpnu'ti": [
+        "RL.PAS-MID-treat.sore"
+    ],
+    "tqrpnz'pebz": [
+        "RL-MID-shoot-COS-PDIR.YON"
+    ],
+    "tqrpwa'ngrbzme": [
+        "RL-forbid-APPL-PDIR.YON-mq(PDIR.HITHER).q(2MINI)"
+    ],
+    "tqrtangrne": [
+        "RL-search-DSTR"
+    ],
+    "tqrtangrtipex": [
+        "RL-search-TR-COS-1MINI"
+    ],
+    "tqrtqmz": [
+        "RL-eight"
+    ],
+    "tqrtrngrtibzme": [
+        "RL-do-TR-PDIR.YON-mq(PDIR.HITHER).q(2MINI)"
+    ],
+    "tqrwztio": [
+        "RL-MID-wash-GDIR.DOWN"
+    ],
+    "tqryapwxpebz": [
+        "RL-converse-COS-PDIR.YON"
+    ],
+    "tqryapwxpemqØ": [
+        "RL-MID-tell-COS-PDIR.HITHER-3MINIS"
+    ],
+    "tqryrngrne": [
+        "RL-MID-eat-APPL-1MINII",
+        "RL-MID-draw-APPL-1MINII"
+    ],
+    "tqryrpebz": [
+        "RL-MID-write-COS-PDIR.YON"
+    ],
+    "tqsiklubengrne": [
+        "RL-be.schooled-still-APPL-1MINII"
+    ],
+    "tqtatipe": [
+        "RL-ring-TR-COS"
+    ],
+    "tqtingr": [
+        "RL-shine-APPL"
+    ],
+    "tqtopwzbengrne": [
+        "RL-be.small-still-APPL-1MINII"
+    ],
+    "tqtrka": [
+        "RL-bad"
+    ],
+    "tqtrkami": [
+        "RL-bad-DPV"
+    ],
+    "tqtrkangr": [
+        "RL-bad-APPL"
+    ],
+    "tqtrkape": [
+        "RL-bad-COS"
+    ],
+    "tqtunepwz": [
+        "RL-stand-INTS-just"
+    ],
+    "tqtuomqØ": [
+        "RL-stand-GDIR.DOWN-PDIR.HITHER-3MINIS"
+    ],
+    "tqtupxmq": [
+        "RL-stand-GDIR.OUT-PDIR.HITHER"
+    ],
+    "tqtupxngrmq": [
+        "RL-stand-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "tqtutrmq": [
+        "RL-stand-GDIR.IN-PDIR.HITHER"
+    ],
+    "tqtutxpekr": [
+        "RL-stand-INTS-COS-1AUGI"
+    ],
+    "tqtutxpxmqØ": [
+        "RL-stand-INTS-GDIR.OUT-PDIR.HITHER-3MINIS"
+    ],
+    "tqtwzle": [
+        "RL-take-3MINIA"
+    ],
+    "tqtwzpe": [
+        "RL-take-COS"
+    ],
+    "tqtwzpebzle": [
+        "RL-take-COS-PDIR.YON-3MINIA"
+    ],
+    "tqtwzx": [
+        "RL-take-1MINI"
+    ],
+    "tqveapebz": [
+        "RL-ask-COS-PDIR.YON"
+    ],
+    "tqveapemq": [
+        "RL-ask-COS-PDIR.HITHER"
+    ],
+    "tqvobe": [
+        "RL-run.in.game-still"
+    ],
+    "tqvolzpemoux": [
+        "RL-travel-GDIR.UP-COS-again-1MINI"
+    ],
+    "tqvomitrpekr": [
+        "RL-travel-DPV-GDIR.IN-COS-1AUGI"
+    ],
+    "tqvongr": [
+        "RL-travel-APPL"
+    ],
+    "tqvongrgr": [
+        "RL-travel-APPL-1AUGII"
+    ],
+    "tqvopekr": [
+        "RL-travel-COS-1AUGI"
+    ],
+    "tqvopex": [
+        "RL-travel-COS-1MINI"
+    ],
+    "tqvopwz": [
+        "RL-run.in.game-just"
+    ],
+    "tqvopxpe": [
+        "RL-travel-GDIR.OUT-COS"
+    ],
+    "tqvoØ": [
+        "RL-travel-3MINIS"
+    ],
+    "tqvzbo": [
+        "RL-go-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqvzbz": [
+        "RL-go-PDIR.YON"
+    ],
+    "tqvzbzkr": [
+        "RL-go-PDIR.YON-1AUGI"
+    ],
+    "tqvzdzpekr": [
+        "RL-go-GDIR.UP-COS-1AUGI"
+    ],
+    "tqvzdzpengrmqgr": [
+        "RL-go-GDIR.UP-COS-APPL-PDIR.HITHER-1AUGII"
+    ],
+    "tqvzkilzmqle": [
+        "RL-go-path-GDIR.UP-PDIR.HITHER-3MINIA"
+    ],
+    "tqvzkilzpekr": [
+        "RL-go-path-GDIR.UP-COS-1AUGI"
+    ],
+    "tqvzkipx": [
+        "RL-go-path-GDIR.OUT"
+    ],
+    "tqvzkipxkr": [
+        "RL-go-path-GDIR.OUT-1AUGI"
+    ],
+    "tqvzmitrpeleng": [
+        "RL-go-DPV-GDIR.IN-COS-3MINIA-3AUGIS"
+    ],
+    "tqvznekr": [
+        "RL-go-INTS-1AUGI"
+    ],
+    "tqvznezvzkr": [
+        "RL-go-DSTR-always-1AUGI"
+    ],
+    "tqvzngrne": [
+        "RL-go-APPL-1MINII"
+    ],
+    "tqvznqblqnene": [
+        "RL-go-follow-INTS-1MINII"
+    ],
+    "tqvzopekr": [
+        "RL-go-GDIR.DOWN-COS-1AUGI"
+    ],
+    "tqvzopex": [
+        "RL-vz-GDIR.DOWN-COS-1MINI"
+    ],
+    "tqvzpe": [
+        "RL-go-COS"
+    ],
+    "tqvzpebo": [
+        "RL-go-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqvzpebzkr": [
+        "RL-go-COS-PDIR.YON-1AUGI"
+    ],
+    "tqvzpebzØ": [
+        "RL-go-COS-PDIR.YON-3MINIS"
+    ],
+    "tqvzpekr": [
+        "RL-go-COS-1AUGI"
+    ],
+    "tqvzpemouku": [
+        "RL-go-COS-again-12AUGI"
+    ],
+    "tqvzpemq": [
+        "RL-go-COS-PDIR.HITHER"
+    ],
+    "tqvzpemqgr": [
+        "RL-go-COS-PDIR.HITHER-1AUGII"
+    ],
+    "tqvzpex": [
+        "RL-go-COS-1MINI"
+    ],
+    "tqvzpxpe": [
+        "RL-go-GDIR.OUT-COS"
+    ],
+    "tqvztrmoubzkr": [
+        "RL-enter-again-PDIR.YON-1AUGI"
+    ],
+    "tqvztrpebo": [
+        "RL-go-GDIR.IN-COS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "tqvztrpekr": [
+        "RL-go-GDIR.IN-COS-1AUGI"
+    ],
+    "tqvztx": [
+        "RL-go-INTS"
+    ],
+    "tqwai": [
+        "RL-do"
+    ],
+    "tqwaipele": [
+        "RL-do-COS-3MINIA"
+    ],
+    "tqwaipex": [
+        "RL-do-COS-1MINI"
+    ],
+    "tqwqpeØ": [
+        "RL-blow.(wind)-COS-3MINIS"
+    ],
+    "tqwrkxtrngrgr": [
+        "RL-baptised-APPL-1AUGII"
+    ],
+    "tqwxbungalelvzkr": [
+        "RL-sit-around-thruout-1AUGI"
+    ],
+    "tqwxbungalelvzpekr": [
+        "RL-sit-around-thruout-COS-1AUGI"
+    ],
+    "tqwxbupxmqØ": [
+        "RL-sit-GDIR.OUT-PDIR.HITHER-3MINIS"
+    ],
+    "tqwxbupxngrmq": [
+        "RL-sit-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "tqwxbupxØ": [
+        "RL-sit-GDIR.OUT-3MINIS"
+    ],
+    "tqwxlikitxpx": [
+        "RL-be.in.pieces-INTS-GDIR.OUT"
+    ],
+    "tqwzngrgr": [
+        "RL-work-APPL-1AUGII"
+    ],
+    "tqwztrbex": [
+        "RL-work-GDIR.IN-still-1MINI"
+    ],
+    "tqxlrpekr": [
+        "RL-hear-COS-1AUGI"
+    ],
+    "tqxlrpex": [
+        "RL-hear-COS-1MINI"
+    ],
+    "tqxngiatebzkr": [
+        "RL-feel-afterward-PDIR.YON-1AUGI"
+    ],
+    "tqxpex": [
+        "RL-pay-1MINI"
+    ],
+    "tqxplr": [
+        "RL-strong"
+    ],
+    "tqyagox": [
+        "RL-be.sick"
+    ],
+    "tqyagoxpeØ": [
+        "RL-be.sick-COS-3MINIS"
+    ],
+    "tqyamqgr": [
+        "RL-paddle-PDIR.HITHER-1AUGII"
+    ],
+    "tqyangrkaipzkr": [
+        "RL-paddle-APPL-first-PDIR.YON-1AUGI"
+    ],
+    "tqyapwxtipemqle": [
+        "RL-tell-TR-COS-PDIR.HITHER-3MINIA"
+    ],
+    "tqyapxpe": [
+        "RL-paddle-GDIR.OUT-COS"
+    ],
+    "tqyapxpebzØ": [
+        "RL-paddle-GDIR.OUT-COS-PDIR.YON-3MINIS"
+    ],
+    "tqyapxpekr": [
+        "RL-paddle-GDIR.OUT-COS-1AUGI"
+    ],
+    "tqycmnengrgr": [
+        "RL-speak-APPL-1AUGII"
+    ],
+    "tqycmnepeamu": [
+        "RL-speak-COS-2AUGI"
+    ],
+    "tqycngr": [
+        "RL-stay-APPL"
+    ],
+    "tqycomqØ": [
+        "RL-stay-GDIR.DOWN-PDIR.HITHER-3MINIS"
+    ],
+    "tqycongr": [
+        "RL-stay-GDIR.DOWN-APPL"
+    ],
+    "tqyr": [
+        "RL-write"
+    ],
+    "tqyrkelvzq": [
+        "RL-exclaimed-about-2MINI"
+    ],
+    "tqyrkelvzx": [
+        "RL-exclaimed-about-1MINI"
+    ],
+    "tqyrkex": [
+        "RL-exclaimed-1MINI"
+    ],
+    "tqyrkrkipxle": [
+        "RL-depart-path-GDIR.OUT-3MINIA"
+    ],
+    "tqyrkrpe": [
+        "RL-finish-COS"
+    ],
+    "tqyrkrpengr": [
+        "RL-finish-COS-APPL"
+    ],
+    "tqyrkrpxpe": [
+        "RL-depart-GDIR.OUT-COS"
+    ],
+    "tqyrlwrpxngrmq": [
+        "RL-gather-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "tqyrlzayrnrngrne": [
+        "RL-yrlz-first-APPL-1MINII"
+    ],
+    "tqyrlzngrne": [
+        "RL-be.married-APPL-1MINII"
+    ],
+    "tqyrmq": [
+        "RL-write-PDIR.HITHER"
+    ],
+    "tqyrninepekzmq": [
+        "RL-cry-INTS-COS-also-PDIR.HITHER"
+    ],
+    "tqyrnipemoumqx": [
+        "RL-cry-COS-again-PDIR.HITHER-1MINI"
+    ],
+    "tqyrnipeØ": [
+        "RL-cry-COS-3MINIS"
+    ],
+    "tqyrplatrngr": [
+        "RL-bang-GDIR.IN-APPL"
+    ],
+    "tqyrplatrpe": [
+        "RL-bang-GDIR.IN-COS"
+    ],
+    "tqyrputipxpe": [
+        "RL-bang.against.st-TR-GDIR.OUT-COS"
+    ],
+    "tqyrvilx": [
+        "RL-pull.out-away.from"
+    ],
+    "tqyzlumimoubzle": [
+        "RL-return-DPV-again-PDIR.YON-3MINIA"
+    ],
+    "tqyzlumipemoux": [
+        "RL-return-DPV-COS-again-1MINI"
+    ],
+    "tqyzlupemoux": [
+        "RL-return-COS-again-1MINI"
+    ],
+    "tqyzlupemqx": [
+        "RL-return-COS-PDIR.HITHER-1MINI"
+    ],
+    "tqyzlupengrmqgr": [
+        "RL-return-COS-APPL-PDIR.HITHER-1AUGII"
+    ],
+    "tqyzprlzngrmq": [
+        "RL-break-GDIR.UP-APPL-PDIR.HITHER"
+    ],
+    "trak": [
+        "truck"
+    ],
+    "traolvzu": [
+        "disagree"
+    ],
+    "trau": [
+        "money"
+    ],
+    "trayrkrpxbou": [
+        "NEG-complete-bz(PDIR.YON).o(1MINI)-NEG"
+    ],
+    "trayzlumqleu": [
+        "NEG-CAUS-return-PDIR.HITHER-3MINIA-NEG"
+    ],
+    "trayzlupxmqleu": [
+        "NEG-CAUS-return-GDIR.OUT-PDIR.HITHER-3MINIA-NEG"
+    ],
+    "trboiu": [
+        "NEG-long-NEG"
+    ],
+    "trdokzu": [
+        "NEG-hang-also-NEG"
+    ],
+    "trdou": [
+        "NEG-hang-NEG"
+    ],
+    "trdwatramuu": [
+        "NEG-jump-GDIR.IN-2AUGI-NEG"
+    ],
+    "trgalr": [
+        "never.yet"
+    ],
+    "trka": [
+        "bad"
+    ],
+    "trkaesz'ngr": [
+        "bad-exceedingly"
+    ],
+    "trkaku": [
+        "bad-12AUGI"
+    ],
+    "trkqomqleu": [
+        "NEG-pick-GDIR.DOWN-PDIR.HITHER-3MINIA-NEG"
+    ],
+    "trkrlebq": [
+        "mortar"
+    ],
+    "trkrlzamuu": [
+        "NEG-know-2AUGI-NEG"
+    ],
+    "trkrlzkru": [
+        "NEG-know-1AUGI-NEG"
+    ],
+    "trkrlzleu": [
+        "NEG-reach-3MINIA-NEG"
+    ],
+    "trkrlzxu": [
+        "NEG-know-1MINI-NEG"
+    ],
+    "trlaki": [
+        "wind.W"
+    ],
+    "trlipu": [
+        "rain.storm"
+    ],
+    "trloka": [
+        "swamp"
+    ],
+    "trlrprkru": [
+        "NEG-wet-1AUGI-NEG"
+    ],
+    "trmalexu": [
+        "NEG-hold-1MINI-NEG"
+    ],
+    "trmatqzlwzu": [
+        "NEG-powerful-much-NEG"
+    ],
+    "trmcleu": [
+        "NEG-see-3MINIA-NEG"
+    ],
+    "trmctu": [
+        "island"
+    ],
+    "trmcxu": [
+        "NEG-see-1MINI-NEG"
+    ],
+    "trmncnezpwxpekru": [
+        "NEG-be-progressive-true-COS-1AUGI-NEG"
+    ],
+    "trmwipekru": [
+        "NEG-mwi-COS-1AUGI-NEG"
+    ],
+    "trmwipnzu": [
+        "NEG-sleep-CMPL-NEG"
+    ],
+    "trnangipeu": [
+        "NEG-IRR-be-COS-NEG"
+    ],
+    "trnanibqleu": [
+        "NEG-IRR-kill-3MINIA-NEG"
+    ],
+    "trngiu": [
+        "NEG-be-NEG"
+    ],
+    "trngiØu": [
+        "NEG-be-3MINIS-NEG"
+    ],
+    "trnikamqle": [
+        "NEG-be-not.yet-PDIR.HITHER-3MINIA"
+    ],
+    "trnimqgru": [
+        "NEG-be-PDIR.HITHER-1AUGII-NEG"
+    ],
+    "trnzaolvzpwzu": [
+        "NEG-3AUG-accept-just-NEG"
+    ],
+    "trnzayotipelru": [
+        "NEG-3AUG-walk-TR-COS-3AUGIA-NEG"
+    ],
+    "trnzkqlukrpepwqgru": [
+        "NEG-NMLZ1-many-NMLZ.POSS-COS-only-1AUGII-NEG"
+    ],
+    "trnzlxngitikalr": [
+        "NEG-3AUG-obey-not.yet-3AUGIA"
+    ],
+    "trnzmcpelru": [
+        "NEG-3AUG-see-COS-3AUGIA-NEG"
+    ],
+    "trnzmnetiu": [
+        "NEG-PAS-wait-NEG"
+    ],
+    "trnzpikrbou": [
+        "NEG-NMLZ1-say-NMLZ.POSS-bz(PDIR.YON).o(1MINI)-NEG"
+    ],
+    "trnzpresinu": [
+        "NEG-PAS-prison-NEG"
+    ],
+    "trnzsikluzpwxkrgru": [
+        "NEG-NMLZ1-be.schooled-well-NMLZ.POSS-1AUGII-NEG"
+    ],
+    "tropxu": [
+        "NEG-go.out-NEG"
+    ],
+    "trpasxu": [
+        "NEG-pass.exam-1MINI-NEG"
+    ],
+    "trpengr": [
+        "not.anymore"
+    ],
+    "trplrkqtuu": [
+        "NEG-overgrown-NEG"
+    ],
+    "trpnzngr": [
+        "none"
+    ],
+    "trpnzngrpwz": [
+        "none-just"
+    ],
+    "trpq": [
+        "wild.taro"
+    ],
+    "trpu": [
+        "conch.shell"
+    ],
+    "trpulu": [
+        "fruiting.branch"
+    ],
+    "trpxngrneu": [
+        "NEG-refuse-APPL-INTS-NEG"
+    ],
+    "trrblxpwzu": [
+        "NEG-be.difficult-just-NEG"
+    ],
+    "trrlrngrmqleu": [
+        "NEG-allow-APPL-PDIR.HITHER-3MINIA-NEG"
+    ],
+    "trrmabru": [
+        "NEG-MID-chew-NEG"
+    ],
+    "trrmnqu": [
+        "NEG-drink-NEG"
+    ],
+    "trrpwa'ngrpwzleu": [
+        "NEG-forbid-APPL-just-3MINIA-NEG"
+    ],
+    "trrtwzxu": [
+        "NEG-MID-take-1MINI-NEG"
+    ],
+    "trscu": [
+        "NEG-PCLF.HAND-NEG"
+    ],
+    "trsuka": [
+        "NEG-be.cooking-not.yet"
+    ],
+    "trsutiu": [
+        "NEG-want-NEG"
+    ],
+    "trtakitru": [
+        "NEG-fitting-NEG"
+    ],
+    "trte": [
+        "father"
+    ],
+    "trtegrngq": [
+        "father-1AUGII-PL"
+    ],
+    "trtenge": [
+        "father-1MINII"
+    ],
+    "trtingr": [
+        "no"
+    ],
+    "trtqdwaopengrdeu": [
+        "NEG-RL-jump-GDIR.DOWN-COS-APPL-3MINII-NEG"
+    ],
+    "trtqvzzpwxu": [
+        "NEG-RL-go-true-NEG"
+    ],
+    "trtqwzpeu": [
+        "NEG-RL-work-COS-NEG"
+    ],
+    "trtupeu": [
+        "NEG-stand-COS-NEG"
+    ],
+    "trtxpnzngr": [
+        "none.at.all"
+    ],
+    "trtzrpna'peu": [
+        "NEG-RL.PAS-MID-shoot-COS-NEG"
+    ],
+    "trvzkru": [
+        "NEG-go-1AUGI-NEG"
+    ],
+    "trvzkzu": [
+        "NEG-feel.sad-also-NEG"
+    ],
+    "trvzou": [
+        "NEG-go-GDIR.DOWN-NEG"
+    ],
+    "trvzpxmqu": [
+        "NEG-go-GDIR.OUT-PDIR.HITHER-NEG"
+    ],
+    "trwzpeleu": [
+        "NEG-work-COS-3MINIA-NEG"
+    ],
+    "trwzpeu": [
+        "NEG-work-COS-NEG"
+    ],
+    "tryclvzopeu": [
+        "NEG-stay-about-GDIR.DOWN-COS-NEG"
+    ],
+    "tryrkrpxzpwxka": [
+        "NEG-finish-GDIR.OUT-true-not.yet"
+    ],
+    "tryrnipequ": [
+        "NEG-cry-COS-2MINI-NEG"
+    ],
+    "tryrplatitrpzu": [
+        "NEG-understand-GDIR.IN-PDIR.YON-NEG"
+    ],
+    "tu": [
+        "stand"
+    ],
+    "tulxblrkr": [
+        "stand-together-1AUGI"
+    ],
+    "tulzmq": [
+        "stand.up-PDIR.HITHER"
+    ],
+    "tulzmqo": [
+        "stand-GDIR.UP-PDIR.HITHER-1MIN.CMB"
+    ],
+    "tumq": [
+        "stand-PDIR.HITHER"
+    ],
+    "tunepwz": [
+        "stand-INTS-just"
+    ],
+    "tuomq": [
+        "stand-GDIR.DOWN-PDIR.HITHER"
+    ],
+    "tupxmq": [
+        "stand-GDIR.OUT-PDIR.HITHER"
+    ],
+    "tupxngrmq": [
+        "stand-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "tuti": [
+        "stand-TR"
+    ],
+    "tutipxngrmqØ": [
+        "stand-TR-GDIR.OUT-APPL-PDIR.HITHER-3MINIS"
+    ],
+    "tutr": [
+        "be.struck"
+    ],
+    "tutrmoupq": [
+        "fulfill-again-PDIR.HITHER"
+    ],
+    "tutrmqØ": [
+        "stand-GDIR.IN-PDIR.HITHER-3MINIS"
+    ],
+    "tutrngq": [
+        "be.struck-PL"
+    ],
+    "tutrpzØ": [
+        "stand-GDIR.IN-PDIR.YON-3MINIS"
+    ],
+    "tutxpwz": [
+        "stand-INTS-just"
+    ],
+    "tutxpxmqØ": [
+        "stand-INTS-GDIR.OUT-PDIR.HITHER-3MINIS"
+    ],
+    "twzkipxlele": [
+        "take-path-GDIR.OUT-3MINIA-3MINIIP"
+    ],
+    "twztrkr": [
+        "take-GDIR.IN-1AUGI"
+    ],
+    "twztrle": [
+        "take-GDIR.IN-3MINIA"
+    ],
+    "twztxbo": [
+        "take-INTS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "twzx": [
+        "take-1MINI"
+    ],
+    "txne": [
+        "lowly"
+    ],
+    "txpwz": [
+        "only"
+    ],
+    "tzaelwatingrbz": [
+        "RL.3AUG-show-TR-APPL-PDIR.YON"
+    ],
+    "tzakilzbqpe": [
+        "RL.3AUG-distribute-REFL-COS"
+    ],
+    "tzakya'kzmqng": [
+        "RL.3AUG-play.brass.instr-also-PDIR.HITHER-3AUGIS"
+    ],
+    "tzalvztrng": [
+        "RL.3AUG-teach-3AUGIS"
+    ],
+    "tzamrbrtrlr": [
+        "RL.3AUG-CAUS-be.lost-GDIR.IN-3AUGIA"
+    ],
+    "tzangcpebzlr": [
+        "RL.3AUG-CAUS-burn-COS-PDIR.YON-3AUGIA"
+    ],
+    "tzangiolr": [
+        "RL.3AUG-worship-3AUGIA"
+    ],
+    "tzangrlvzneopelr": [
+        "RL.3AUG-sing.praises-INTS-GDIR.DOWN-COS-3AUGIA"
+    ],
+    "tzapulr": [
+        "RL.3AUG-be.like-3AUGIA"
+    ],
+    "tzatwzlrmoulr": [
+        "RL.3AUG-dispatch-again-3AUGIA"
+    ],
+    "tzatwzlrpengrmqlr": [
+        "RL.3AUG-dispatch-COS-APPL-PDIR.HITHER-3AUGIA"
+    ],
+    "tzaveatipe": [
+        "RL.3AUG-CAUS-ask-TR-COS"
+    ],
+    "tzawztrpelr": [
+        "RL.3AUG-CAUS-work-GDIR.IN-COS-3AUGIA"
+    ],
+    "tzayoti": [
+        "RL.PAS-walk-TR"
+    ],
+    "tzayrnikzmqng": [
+        "RL.3AUG-play.strummed.instrument-also-PDIR.HITHER-3AUGIS"
+    ],
+    "tzayzlu": [
+        "RL.PAS-CAUS-return"
+    ],
+    "tzetung": [
+        "RL.3AUG-be.big-3AUGIS"
+    ],
+    "tzglqtrpemq": [
+        "RL.PAS-carry-GDIR.IN-COS-PDIR.HITHER"
+    ],
+    "tzkabz": [
+        "RL.PAS-give-PDIR.YON"
+    ],
+    "tzkamoubzlr": [
+        "RL.3AUG-give-again-PDIR.YON-3AUGIA"
+    ],
+    "tzkamqlr": [
+        "RL.3AUG-give-PDIR.HITHER-3AUGIA"
+    ],
+    "tzkaputrpe": [
+        "RL.3AUG-arrive-COS"
+    ],
+    "tzkatxpe": [
+        "RL.PAS-remove-COS"
+    ],
+    "tzkrlzpeatelr": [
+        "RL.3AUG-reach-COS-afterward-3AUGIA"
+    ],
+    "tzkuking": [
+        "RL.3AUG-cook-3AUGIS"
+    ],
+    "tzkukirpelr": [
+        "RL.3AUG-cook-APPL-COS-3AUGIA"
+    ],
+    "tzlvcateng": [
+        "RL.3AUG-fly-afterward-3AUGIS"
+    ],
+    "tzlvcmqng": [
+        "RL.3AUG-fly-PDIR.HITHER-3AUGIS"
+    ],
+    "tzlvcrlrupeng": [
+        "RL.3AUG-fly-far-COS-3AUGIS"
+    ],
+    "tzmalebzlr": [
+        "RL.3AUG-hold-PDIR.YON-3AUGIA"
+    ],
+    "tzmanqblqpelr": [
+        "RL.3AUG-go-follow-COS-3AUGIA"
+    ],
+    "tzmcngr": [
+        "RL.PAS-see-APPL"
+    ],
+    "tzmcpe": [
+        "RL.PAS-see-COS",
+        "RL.3AUG-see-COS"
+    ],
+    "tzmcpxmoulr": [
+        "RL.3AUG-choose-again-3AUGIA"
+    ],
+    "tzmcpxpelr": [
+        "RL.3AUG-choose-COS-3AUGIA"
+    ],
+    "tzmctxpwz": [
+        "RL.3AUG-see-only"
+    ],
+    "tzmncngq": [
+        "RL.3AUG-be-3AUGIS"
+    ],
+    "tzmncpengrmqlr": [
+        "RL.3AUG-be-COS-APPL-PDIR.HITHER-3AUGIA"
+    ],
+    "tzmnctxpeng": [
+        "RL.3AUG-be-INTS-COS-3AUGIS"
+    ],
+    "tzmnctxpwz": [
+        "RL.3AUG-be-INTS-just"
+    ],
+    "tzmupengrdr": [
+        "RL.3AUG-eat-COS-APPL-3AUGII"
+    ],
+    "tzmwelrng": [
+        "RL.3AUG-fear-3AUGIS"
+    ],
+    "tzmwingrdr": [
+        "RL.3AUG-sleep-APPL-3AUGII"
+    ],
+    "tzmwipxngrmq": [
+        "RL.3AUG-sleep-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "tzmwipxngrmqlr": [
+        "RL.3AUG-sleep-GDIR.OUT-APPL-PDIR.HITHER-3AUGIA"
+    ],
+    "tzngrlalvztipelr": [
+        "RL.3AUG-crawl-thruout-TR-COS-3AUGIA"
+    ],
+    "tzngrlrlzmoumqng": [
+        "RL.3AUG-hurry-GDIR.UP-again-PDIR.HITHER-3AUGIS"
+    ],
+    "tzobqkapqpxpeng": [
+        "RL.3AUG-look-hidden-GDIR.OUT-COS-3AUGIS"
+    ],
+    "tzodutrlxblrmoungq": [
+        "RL.3AUG-be.friends-GDIR.IN-together-again-3AUGIS"
+    ],
+    "tzpipebzlr": [
+        "RL.3AUG-say-COS-PDIR.YON-3AUGIA"
+    ],
+    "tzpnatibzlr": [
+        "RL.3AUG-steal-PDIR.YON-3AUGIA"
+    ],
+    "tzpnzlzbqngr": [
+        "RL.3AUG-shoot-REFL-APPL"
+    ],
+    "tzpnznqblqpe": [
+        "RL.3AUG-shoot-follow-COS"
+    ],
+    "tzpresinngq": [
+        "RL.PAS-prison-PL"
+    ],
+    "tzprtrmoumq": [
+        "RL.3AUG-enter.in-again-PDIR.HITHER"
+    ],
+    "tzpxingrdr": [
+        "RL.PAS-wear.clothing-APPL-3AUGII"
+    ],
+    "tzpxyqbeng": [
+        "RL.3AUG-wear-still-3AUGIS"
+    ],
+    "tzrkalzpemq": [
+        "RL.3AUG-leave-COS-PDIR.HITHER"
+    ],
+    "tzrlxngitikaingq": [
+        "RL.3AUG-MID-believe-first-3AUGIS"
+    ],
+    "tzrlxtimqlr": [
+        "RL.3AUG-ask-TR-PDIR.HITHER-3AUGIA"
+    ],
+    "tzrmctipelr": [
+        "RL.3AUG-meet-COS-3AUGIA"
+    ],
+    "tzrpibz": [
+        "RL.PAS-MID-say-PDIR.YON"
+    ],
+    "tzrpipelr": [
+        "RL.3AUG-MID-think-COS-3AUGIA"
+    ],
+    "tzrpipemqlr": [
+        "RL.3AUG-MID-say-COS-PDIR.HITHER-3AUGIA"
+    ],
+    "tzrpnztrbzng": [
+        "RL.3AUG-MID-shoot-GDIR.IN-PDIR.YON-3AUGIS"
+    ],
+    "tzrtangrpe": [
+        "RL.3AUG-search-COS"
+    ],
+    "tzrtctxngr": [
+        "RL.3AUG-throw.away-APPL"
+    ],
+    "tzrtctxngrdr": [
+        "RL.3AUG-throw.away-APPL-3AUGII"
+    ],
+    "tzrtwzkzng": [
+        "RL.3AUG-MID-take-also-3AUGIS"
+    ],
+    "tzrtwzting": [
+        "RL.3AUG-take-TR-3AUGIS"
+    ],
+    "tzrtwztipekzng": [
+        "RL.3AUG-MID-take-TR-COS-also-3AUGIS"
+    ],
+    "tzryzkrng": [
+        "RL.3AUG-MID-peel-3AUGIS"
+    ],
+    "tzsiklupxngrmqlr": [
+        "RL.3AUG-be.schooled-GDIR.OUT-APPL-PDIR.HITHER-3AUGIA"
+    ],
+    "tzsikluti": [
+        "RL.PAS-be.schooled-TR"
+    ],
+    "tzsiu": [
+        "monk"
+    ],
+    "tztavetrkzlr": [
+        "RL.3AUG-break-GDIR.IN-also-3AUGIA"
+    ],
+    "tztavetrlr": [
+        "RL.3AUG-break-GDIR.IN-3AUGIA"
+    ],
+    "tztavetrpelr": [
+        "RL.3AUG-break-GDIR.IN-COS-3AUGIA"
+    ],
+    "tztekqtrpengq": [
+        "RL.3AUG-exchange-COS-PL"
+    ],
+    "tztulrtrpemq": [
+        "RL.3AUG-force-GDIR.IN-COS-2MINII"
+    ],
+    "tztwzmqlr": [
+        "RL.3AUG-take-PDIR.HITHER-3AUGIA"
+    ],
+    "tztwznedr": [
+        "RL.3AUG-take-progressive-3AUGII"
+    ],
+    "tzveatipebzlr": [
+        "RL.3AUG-ask-TR-COS-PDIR.YON-3AUGIA"
+    ],
+    "tzvecpeng": [
+        "RL.3AUG-fight-COS-3AUGIS"
+    ],
+    "tzveopebz": [
+        "RL.3AUG-accompany-GDIR.DOWN-COS-PDIR.YON"
+    ],
+    "tzvopengq": [
+        "RL.3AUG-travel-COS-3AUGIS",
+        "RL.3AUG-run.in.game-COS-3AUGIS"
+    ],
+    "tzvzbeng": [
+        "RL.3AUG-go-still-3AUGIS"
+    ],
+    "tzvzkipxlr": [
+        "RL.3AUG-go-path-GDIR.OUT-3AUGIA"
+    ],
+    "tzvzngrmqng": [
+        "RL.3AUG-go-APPL-PDIR.HITHER-3AUGIS"
+    ],
+    "tzvzopeng": [
+        "RL.3AUG-go-GDIR.DOWN-COS-3AUGIS"
+    ],
+    "tzvzpe": [
+        "RL.3AUG-go-COS"
+    ],
+    "tzvzpekaing": [
+        "RL.3AUG-go-COS-first-3AUGIS"
+    ],
+    "tzvzpeng": [
+        "RL.3AUG-go-COS-3AUGIS"
+    ],
+    "tzwaisrngrdr": [
+        "RL.3AUG-do-thusly-APPL-3AUGII"
+    ],
+    "tzwrkxtrpengq": [
+        "RL.3AUG-baptised-COS-3AUGIS"
+    ],
+    "tzwzng": [
+        "RL.3AUG-work-3AUGIS"
+    ],
+    "tzwzngrpebzlr": [
+        "RL.3AUG-wz-APPL-COS-PDIR.YON-3AUGIA"
+    ],
+    "tzxlropelr": [
+        "RL.3AUG-hear-GDIR.DOWN-COS-3AUGIA"
+    ],
+    "tzxpengrdr": [
+        "RL.3AUG-buy-APPL-3AUGII"
+    ],
+    "tzxpetrmq": [
+        "RL.3AUG-pay-GDIR.IN-PDIR.HITHER"
+    ],
+    "tzyamipebzlr": [
+        "RL.3AUG-paddle-DPV-COS-PDIR.YON-3AUGIA"
+    ],
+    "tzyapwxtipebzlr": [
+        "RL.3AUG-tell-TR-COS-PDIR.YON-3AUGIA"
+    ],
+    "tzyapxpengq": [
+        "RL.3AUG-paddle-GDIR.OUT-COS-3AUGIS"
+    ],
+    "tzycmnemq": [
+        "RL.3AUG-speak-PDIR.HITHER"
+    ],
+    "tzycmnetrpengrdr": [
+        "RL.3AUG-speak-GDIR.IN-COS-APPL-3AUGII"
+    ],
+    "tzycpengr": [
+        "RL.3AUG-sorry-COS-APPL"
+    ],
+    "tzyrlwrlxblrpeng": [
+        "RL.3AUG-gather-together-COS-3AUGIS"
+    ],
+    "tzyrlwrtinebe": [
+        "RL.3AUG-gather-TR-INTS-still"
+    ],
+    "tzyrpalelvzpelr": [
+        "RL.3AUG-laugh-about-COS-3AUGIA"
+    ],
+    "tzyzlupemoubzngq": [
+        "RL.3AUG-return-COS-again-PDIR.YON-3AUGIS"
+    ],
+    "utc": [
+        "bird"
+    ],
+    "vaol": [
+        "vowel"
+    ],
+    "vau": [
+        "middle"
+    ],
+    "vea": [
+        "war"
+    ],
+    "veakapq": [
+        "war-hidden"
+    ],
+    "veamoumq": [
+        "ask-again-PDIR.HITHER"
+    ],
+    "veamrlz": [
+        "war-be.good"
+    ],
+    "vecomqamu": [
+        "pull-GDIR.DOWN-PDIR.HITHER-2AUGI"
+    ],
+    "vex": [
+        "accompany-1MINI"
+    ],
+    "vo": [
+        "travel"
+    ],
+    "vokaiamu": [
+        "travel-first-2AUGI"
+    ],
+    "vokr": [
+        "travel-1AUGI"
+    ],
+    "vomikr": [
+        "travel-DPV-1AUGI"
+    ],
+    "vomq": [
+        "travel-PDIR.HITHER"
+    ],
+    "vomqle": [
+        "travel-PDIR.HITHER-3MINIA"
+    ],
+    "vomqo": [
+        "travel-PDIR.HITHER-1MIN.CMB"
+    ],
+    "vongrmqle": [
+        "travel-APPL-PDIR.HITHER-3MINIA"
+    ],
+    "vongrmqØ": [
+        "travel-APPL-PDIR.HITHER-3MINIS"
+    ],
+    "voomqx": [
+        "travel-GDIR.DOWN-PDIR.HITHER-1MINI"
+    ],
+    "vopxbzkr": [
+        "travel-GDIR.OUT-PDIR.YON-1AUGI"
+    ],
+    "vox": [
+        "travel-1MINI"
+    ],
+    "vri": [
+        "star"
+    ],
+    "vz": [
+        "go"
+    ],
+    "vzbo": [
+        "go-bz(PDIR.YON).o(1MINI)"
+    ],
+    "vzbz": [
+        "go-PDIR.YON"
+    ],
+    "vzbzkr": [
+        "go-PDIR.YON-1AUGI"
+    ],
+    "vzkimqle": [
+        "go-path-PDIR.HITHER-3MINIA"
+    ],
+    "vzkipebzkr": [
+        "go-path-COS-PDIR.YON-1AUGI"
+    ],
+    "vzkipemqle": [
+        "go-path-COS-PDIR.HITHER-3MINIA"
+    ],
+    "vzkr": [
+        "go-1AUGI"
+    ],
+    "vzmoux": [
+        "go-again-1MINI"
+    ],
+    "vzmqØ": [
+        "go-PDIR.HITHER-3MINIS"
+    ],
+    "vzne": [
+        "go-1MINII"
+    ],
+    "vznekr": [
+        "walk-1AUGI"
+    ],
+    "vzngrbzkr": [
+        "go-APPL-PDIR.YON-1AUGI"
+    ],
+    "vznqblqmq": [
+        "go-follow-PDIR.HITHER"
+    ],
+    "vznrbalqnekr": [
+        "go-nil-DSTR-1AUGI"
+    ],
+    "vzobzle": [
+        "go-GDIR.DOWN-PDIR.YON-3MINIA"
+    ],
+    "vzox": [
+        "go-GDIR.DOWN-1MINI"
+    ],
+    "vzpxbzkr": [
+        "go-GDIR.OUT-PDIR.YON-1AUGI"
+    ],
+    "vztrkr": [
+        "go-GDIR.IN-1AUGI"
+    ],
+    "vztrkzpz": [
+        "go-GDIR.IN-also-PDIR.YON"
+    ],
+    "vztrmoukr": [
+        "go-GDIR.IN-again-1AUGI"
+    ],
+    "vztrmoumqx": [
+        "go-GDIR.IN-again-PDIR.HITHER-1MINI"
+    ],
+    "vztrngr": [
+        "enter-APPL"
+    ],
+    "vztrpz": [
+        "go-GDIR.IN-PDIR.YON"
+    ],
+    "vztxalo": [
+        "go-INTS-forever"
+    ],
+    "vztxpengrde": [
+        "feel.sad-INTS-COS-APPL-3MINII"
+    ],
+    "vztxØ": [
+        "feel.sad-INTS-3MINIS"
+    ],
+    "vzx": [
+        "go-1MINI"
+    ],
+    "waea": [
+        "wire"
+    ],
+    "waelas": [
+        "wireless"
+    ],
+    "waikzle": [
+        "do-also-3MINIA"
+    ],
+    "waile": [
+        "do-3MINIA"
+    ],
+    "waipnzle": [
+        "do-CMPL-3MINIA"
+    ],
+    "wiki": [
+        "week"
+    ],
+    "wisol": [
+        "whistle"
+    ],
+    "wop": [
+        "wharf"
+    ],
+    "wq": [
+        "wq"
+    ],
+    "wxbupxngrmq": [
+        "sit-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "wzkr": [
+        "work-1AUGI"
+    ],
+    "wzngr": [
+        "work-APPL"
+    ],
+    "wzngrmqle": [
+        "work-APPL-PDIR.HITHER-3MINIA"
+    ],
+    "wztitxbzo": [
+        "work-TR-INTS-PDIR.YON-1MIN.CMB"
+    ],
+    "wztitxkr": [
+        "work-TR-INTS-1AUGI"
+    ],
+    "wztxngrpwzkr": [
+        "work-INTS-APPL-just-1AUGI"
+    ],
+    "wztxpwzkr": [
+        "work-INTS-just-1AUGI"
+    ],
+    "wzx": [
+        "work-1MINI"
+    ],
+    "x": [
+        "and"
+    ],
+    "xlr": [
+        "hear"
+    ],
+    "xlrbo": [
+        "hear-bz(PDIR.YON).o(1MINI)"
+    ],
+    "xlrbole": [
+        "hear-bz(PDIR.YON).o(1MINI)-3MINIIP"
+    ],
+    "xlrbzkr": [
+        "hear-PDIR.YON-1AUGI"
+    ],
+    "xlrbzle": [
+        "hear-PDIR.YON-3MINIA"
+    ],
+    "xlrkrle": [
+        "hear-1AUGI-3MINIIP"
+    ],
+    "xlrlele": [
+        "hear-3MINIA-3MINIIP"
+    ],
+    "xlrmoukr": [
+        "hear-again-1AUGI"
+    ],
+    "xlrx": [
+        "hear-1MINI"
+    ],
+    "xpetixng": [
+        "pay-TR-1MINI-3AUGIS"
+    ],
+    "xpex": [
+        "pay-1MINI"
+    ],
+    "xplr": [
+        "strong"
+    ],
+    "yabzkr": [
+        "paddle-PDIR.YON-1AUGI"
+    ],
+    "yagox": [
+        "be.sick"
+    ],
+    "yagoxkzngr": [
+        "be.sick-also-APPL"
+    ],
+    "yagoxtx": [
+        "be.sick-INTS"
+    ],
+    "yaluli": [
+        "colorful"
+    ],
+    "yanekrlzpwzkr": [
+        "paddle-INTS-be.able-just-1AUGI"
+    ],
+    "yanezvzkr": [
+        "paddle-INTS-always-1AUGI"
+    ],
+    "yaoØ": [
+        "paddle-GDIR.DOWN-3MINIS"
+    ],
+    "yapilwztrpeØ": [
+        "tangle-GDIR.IN-COS-3MINIS"
+    ],
+    "yapwxtizpwxmqamu": [
+        "tell-TR-true-PDIR.HITHER-2AUGI"
+    ],
+    "yapwxtizvzbzkr": [
+        "tell-TR-always-PDIR.YON-1AUGI"
+    ],
+    "yapxkr": [
+        "paddle-GDIR.OUT-1AUGI"
+    ],
+    "yc": [
+        "stay"
+    ],
+    "ycaepztr": [
+        "stay-near-GDIR.IN"
+    ],
+    "ycbemq": [
+        "stay-still-PDIR.HITHER"
+    ],
+    "yclxblrbz": [
+        "stay-together-PDIR.YON"
+    ],
+    "yclxlr": [
+        "stay-isolated"
+    ],
+    "yclzkzpzØ": [
+        "stay-GDIR.UP-also-PDIR.YON-3MINIS"
+    ],
+    "ycmnekimqle": [
+        "speak-path-PDIR.HITHER-3MINIA"
+    ],
+    "ycmnepe": [
+        "speak-COS"
+    ],
+    "ycmnetrbzkr": [
+        "speak-GDIR.IN-PDIR.YON-1AUGI"
+    ],
+    "ycngr": [
+        "stay-APPL"
+    ],
+    "ycnrbalq": [
+        "stay-nil"
+    ],
+    "ycpe": [
+        "stay-COS"
+    ],
+    "ycpqtipekr": [
+        "wipe-TR-COS-1AUGI"
+    ],
+    "ycpqtxpxx": [
+        "wash-INTS-GDIR.OUT-1MINI"
+    ],
+    "ycpwz": [
+        "stay.back"
+    ],
+    "ycpx": [
+        "stay-GDIR.OUT"
+    ],
+    "yctitxpwzle": [
+        "stay-TR-INTS-pwz-3MINIA"
+    ],
+    "yctrpengr": [
+        "stay-GDIR.IN-COS-APPL"
+    ],
+    "yctxbz": [
+        "stay-INTS-PDIR.YON"
+    ],
+    "yctxo": [
+        "left.over"
+    ],
+    "ye": [
+        "only",
+        "in.fact",
+        "instead"
+    ],
+    "yiz": [
+        "year"
+    ],
+    "yolxomqamu": [
+        "remove.from.fire-GDIR.DOWN-PDIR.HITHER-2AUGI"
+    ],
+    "yr": [
+        "write"
+    ],
+    "yrbqoamu": [
+        "lying.down-GDIR.DOWN-2AUGI"
+    ],
+    "yrbu": [
+        "full"
+    ],
+    "yrbutipeng": [
+        "full-TR-COS-3AUGIS"
+    ],
+    "yrkrbzkr": [
+        "depart-PDIR.YON-1AUGI"
+    ],
+    "yrkrmitxpx": [
+        "finish-DPV-INTS-GDIR.OUT"
+    ],
+    "yrkrpx": [
+        "finished"
+    ],
+    "yrkrpxbo": [
+        "finished-bz(PDIR.YON).o(1MINI)"
+    ],
+    "yrkrpxbzØ": [
+        "finish-GDIR.OUT-PDIR.YON-3MINIS"
+    ],
+    "yrkrpxx": [
+        "depart-GDIR.OUT-1MINI"
+    ],
+    "yrkrtxoØ": [
+        "finish-INTS-GDIR.DOWN-3MINIS"
+    ],
+    "yrkrtxtrku": [
+        "depart-INTS-GDIR.IN-12AUGI"
+    ],
+    "yrlqbzkr": [
+        "put-PDIR.YON-1AUGI"
+    ],
+    "yrlqbzle": [
+        "put-PDIR.YON-3MINIA"
+    ],
+    "yrlqtrlxblrbzle": [
+        "put-GDIR.IN-together-PDIR.YON-3MINIA"
+    ],
+    "yrlqtx": [
+        "put-INTS"
+    ],
+    "yrlqtxbo": [
+        "put-INTS-bz(PDIR.YON).o(1MINI)"
+    ],
+    "yrlqtxmoux": [
+        "put-INTS-again-1MINI"
+    ],
+    "yrlqtxtrkr": [
+        "put-INTS-GDIR.IN-1AUGI"
+    ],
+    "yrlwrpxngrmq": [
+        "gather-GDIR.OUT-APPL-PDIR.HITHER"
+    ],
+    "yrlztile": [
+        "be.married-TR-3MINIA"
+    ],
+    "yrlztix": [
+        "be.married-TR-1MINI"
+    ],
+    "yrlzx": [
+        "be.married-1MINI"
+    ],
+    "yrmq": [
+        "write-PDIR.HITHER"
+    ],
+    "yrniebirpengq": [
+        "cry-repeatedly-COS-PL"
+    ],
+    "yrnietrtxkr": [
+        "cry-RECP-INTS-1AUGI"
+    ],
+    "yrnineopebz": [
+        "cry-INTS-GDIR.DOWN-COS-PDIR.YON"
+    ],
+    "yrole": [
+        "write-GDIR.DOWN-3MINIA"
+    ],
+    "yrplabrtqpe": [
+        "bang-shut-COS"
+    ],
+    "yrplatrngr": [
+        "bang-GDIR.IN-APPL"
+    ],
+    "yrpupe": [
+        "bang.against.st-COS"
+    ],
+    "yrvitxkzle": [
+        "pull.out-INTS-also-3MINIA"
+    ],
+    "yz": [
+        "outside"
+    ],
+    "yzlu": [
+        "return"
+    ],
+    "yzlumitxmoux": [
+        "return-DPV-INTS-again-1MINI"
+    ],
+    "yzlumq": [
+        "return-PDIR.HITHER"
+    ],
+    "yzlumqgr": [
+        "return-PDIR.HITHER-1AUGII"
+    ],
+    "yzlumqx": [
+        "return-PDIR.HITHER-1MINI"
+    ],
+    "yzlutxpe": [
+        "return-INTS-COS"
+    ],
+    "yzprlzmq": [
+        "break-GDIR.UP-PDIR.HITHER"
+    ],
+    "yzuo": [
+        "start"
+    ],
+    "yzuomoukr": [
+        "start-again-1AUGI"
+    ],
+    "yzutr": [
+        "begin"
+    ],
+    "yzutrpnz": [
+        "begin-GDIR.IN-CMPL"
+    ],
+    "yzutrx": [
+        "begin-GDIR.IN-1MINI"
+    ],
+    "zbq": [
+        "day"
+    ],
+    "zbqkranzlvqn": [
+        "Friday"
+    ],
+    "zbqkxtr": [
+        "day-SUBR-holy"
+    ],
+    "zbrlxkz": [
+        "thirst"
+    ],
+    "zbz": [
+        "so.then"
+    ],
+    "zlwz": [
+        "much"
+    ],
+    "zmatq": [
+        "power"
+    ],
+    "zmio": [
+        "shadow"
+    ],
+    "zpwxtx": [
+        "true-INTS"
+    ],
+    "zyagox": [
+        "sickness"
+    ],
+    "’,": [
+        "’,"
+    ],
+    "“": [
+        "“"
+    ],
+    "…": [
+        "…"
+    ]
+}
