@@ -22,8 +22,8 @@
         "word_level": {
             "accuracy": 0.873773987206823,
             "average_accuracy": 0.8775881032804175,
-            "in_vocab_accuracy": 0.9177664973687547,
-            "oov_accuracy": 0.8620782725813204
+            "in_vocab_accuracy": 0.9233038347537873,
+            "oov_accuracy": 0.8457429048131638
         }
     }
 }

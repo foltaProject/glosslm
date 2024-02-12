@@ -204,7 +204,7 @@ def eval_morpheme_glosses(
 def eval_word_glosses(
     seg_words: List[List[str]], pred_words: List[List[str]], gold_words: List[List[str]], word_dict: dict,
 ):
-    """Evaluates the performance at the morpheme level"""
+    """Evaluates the performance at the word level"""
     word_eval = eval_accuracy(seg_words, pred_words, gold_words, word_dict)
     bleu = bleu_score(pred_words, [[line] for line in gold_words])
     wer = eval_avg_error_rate(pred_words, gold_words)
@@ -270,7 +270,7 @@ def evaluate_igt(
 
     results_dir = os.path.dirname(pred_path)
     results_path = f"{results_dir}/{test_split}-{'segmented' if segmented else 'unsegmented'}.json"
-    with open(results_path, 'x') as outfile:
+    with open(results_path, 'w') as outfile:
         json.dump(all_eval, outfile, sort_keys=True, indent=4)
 
     if verbose:

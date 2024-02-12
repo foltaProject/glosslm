@@ -107,6 +107,9 @@
     "?»": [
         "?»"
     ],
+    "Mадни": [
+        "more-FOC"
+    ],
     "«": [
         "«"
     ],
@@ -125,26 +128,77 @@
     "АФия": [
         "Afiya"
     ],
-    "Абурдикай": [
+    "Абур": [
+        "they"
+    ],
+    "Абуриз": [
+        "they-OBL-DAT"
+    ],
+    "Абурикай": [
         "they-ERG-SUB-EL"
+    ],
+    "Абурни": [
+        "they-FOC"
+    ],
+    "Абуру": [
+        "they-ERG"
+    ],
+    "Абурувай": [
+        "obl.stm-ABS.PL-ERG-AD-EL"
+    ],
+    "Авуна": [
+        "make,.do-AOR"
+    ],
+    "Агатна": [
+        "approch-AOC"
+    ],
+    "Адаз": [
+        "he-DAT",
+        "that-OBL-DAT"
+    ],
+    "Адалай": [
+        "it-SPSS-EL"
+    ],
+    "Адан": [
+        "he-GEN"
     ],
     "Азербайджан": [
         "Azerbaijan"
     ],
-    "Азербайджане": [
+    "Азербайджанда": [
         "Azerbaijan-INESS"
     ],
     "Азербайджанни": [
         "Azerbaijan-FOC"
     ],
-    "Акуртӏа": [
-        "seen"
+    "Акатда": [
+        "fall-ENT"
+    ],
+    "АкуртӀа": [
+        "seen-COND",
+        "hit-AOP-COND",
+        "saw"
+    ],
+    "Акъадарда": [
+        "mount.ENT"
     ],
     "Акъадра": [
         "mount.IMPV"
     ],
+    "Акъахда": [
+        "mount.IMPV-INESS"
+    ],
     "АкӀ": [
         "like.that"
+    ],
+    "Алатайла": [
+        "passing.TEMP-PST-TEMP"
+    ],
+    "Алатда": [
+        "pass-ENT"
+    ],
+    "Алатна": [
+        "pass-AOC"
     ],
     "Аллагь": [
         "Allah"
@@ -152,38 +206,100 @@
     "Аллагьдиз": [
         "Allah-OBL-DAT"
     ],
-    "Аляскадиндин": [
+    "Алцурарда": [
+        "decieved.ENT-ENT"
+    ],
+    "Аляскадин": [
         "Alyaska's-ERG-GEN"
     ],
-    "Америкадиндин": [
+    "Америкадин": [
         "America's-ERG-GEN"
     ],
-    "Анадырдайдиз": [
+    "Ана": [
+        "there"
+    ],
+    "Анадырдани": [
+        "Anadyr.from-INESS-FOC"
+    ],
+    "Анадырдиз": [
         "Anadyr.from-DIR-DAT",
         "Anadyr.from-ERG-DAT"
     ],
-    "Анадырдайени": [
-        "Anadyr.from-INESS-FOC"
+    "Анай": [
+        "there.from",
+        "there-PST"
+    ],
+    "Анжах": [
+        "only"
+    ],
+    "Асеф": [
+        "Asef"
+    ],
+    "Атайла": [
+        "coming-PST-TEMP"
+    ],
+    "Атана": [
+        "come-AOC"
+    ],
+    "Атанва": [
+        "coming-PERF"
+    ],
+    "АтӀуз": [
+        "cutting.IMC-DAT"
     ],
     "АтӀутӀ": [
         "cut.IMPV"
     ],
+    "Ахпа": [
+        "then",
+        "After"
+    ],
+    "Ахпани": [
+        "After-FOC"
+    ],
     "Ахтынский": [
         "Akhtinsky"
+    ],
+    "Ахъаюнмаз": [
+        "release.IMMANT-IMC"
+    ],
+    "Ахьтин": [
+        "like.that"
+    ],
+    "Ашкъидин": [
+        "love-ERG-GEN"
+    ],
+    "Ашукь": [
+        "ashuq"
+    ],
+    "Аялар": [
+        "child-PL"
     ],
     "БТР": [
         "APC"
     ],
-    "Бакудиздиз": [
+    "Бакида": [
+        "Baku-INESS"
+    ],
+    "Бакидиз": [
+        "Baku-ERG-DAT"
+    ],
+    "Бакуда": [
+        "Baku-INESS"
+    ],
+    "Бакудиз": [
         "Baku.to-DIR-DAT"
     ],
-    "Бакуе": [
-        "Baku-INESS"
+    "БалкӀан": [
+        "horse"
+    ],
+    "БалкӀанди": [
+        "horse-ERG"
     ],
     "БацӀ": [
         "Bats"
     ],
-    "Баш.уьсте": [
+    "Баш~уьсте": [
         "IT.WILL.BE.DONE"
     ],
     "Бебир": [
@@ -192,32 +308,49 @@
     "Безханум": [
         "Bezkhanum"
     ],
+    "Безханума": [
+        "Bezkhanum-ERG"
+    ],
     "Безхануман": [
         "Bezkhanum's"
     ],
-    "Безханумди": [
-        "Bezkhanum-ERG"
-    ],
-    "Безханумдихъ": [
+    "Безханумахъ": [
         "Bezkhanum-ERG-POESS"
+    ],
+    "Белке": [
+        "maybe"
     ],
     "Бельгиядиз": [
         "Belgium-DIR-DAT"
     ],
-    "Берлинай": [
+    "Берлиндай": [
         "Berlin-INELAT"
     ],
     "Берлиндиз": [
         "Berlin-DIR-DAT"
     ],
     "Бес": [
-        "And.but"
+        "And.but",
+        "but"
     ],
     "Бешир": [
         "Beshir"
     ],
+    "Ва": [
+        "and"
+    ],
+    "Вад": [
+        "five"
+    ],
     "Ваз": [
+        "2sg-DAT",
         "you"
+    ],
+    "Вак": [
+        "you.with"
+    ],
+    "Вахт": [
+        "time"
     ],
     "Вач": [
         "go.IMPV"
@@ -225,17 +358,101 @@
     "Ваъ": [
         "no"
     ],
+    "Вегьена": [
+        "threw-AOC"
+    ],
+    "Везиятда": [
+        "condition-INESS"
+    ],
     "Велибег": [
         "Velibeg"
     ],
-    "Велибегдин": [
-        "Velibeg-ERG-GEN"
+    "Велибеган": [
+        "Velibeg-ERG-GEN",
+        "Velibeg-GEN"
+    ],
+    "Ви": [
+        "2sg.gen"
+    ],
+    "Вил": [
+        "eye"
+    ],
+    "Вири": [
+        "all"
+    ],
+    "Вирини": [
+        "Everything-FOC"
+    ],
+    "Вич": [
+        "himself"
+    ],
+    "Вичизни": [
+        "himself-ERG-DAT-FOC"
+    ],
+    "Вичин": [
+        "he-GEN",
+        "himself-ERG-GEN",
+        "himself-OBL-GEN"
+    ],
+    "Вичини": [
+        "himself-ERG-FOC"
+    ],
+    "Вични": [
+        "himself-FOC"
+    ],
+    "Вобщем": [
+        "anyway"
+    ],
+    "Вообще": [
+        "commonly"
+    ],
+    "Вот": [
+        "there"
     ],
     "Ву": [
         "you"
     ],
-    "Вунди": [
+    "Вун": [
+        "2sg.abs"
+    ],
+    "Вуна": [
+        "2sg.erg",
+        "2sg.abs-OBL",
         "you-ERG"
+    ],
+    "Вунани": [
+        "2sg.abs-ERG-FOC"
+    ],
+    "Вуч": [
+        "what"
+    ],
+    "Вучиз": [
+        "what-ERG-DAT"
+    ],
+    "Гагьатзава": [
+        "escape-IMPF"
+    ],
+    "Гада": [
+        "boy"
+    ],
+    "Гададизни": [
+        "boy-ERG-DAT-Q"
+    ],
+    "Гададини": [
+        "guy.ERG.and",
+        "boy-DIR-GEN-ERG"
+    ],
+    "Гадани": [
+        "boy-FOC"
+    ],
+    "Галатна": [
+        "tire-AOC"
+    ],
+    "Гатдамаз": [
+        "escape-ENT-IMMANT"
+    ],
+    "Гаф": [
+        "word"
     ],
     "Гила": [
         "now"
@@ -246,54 +463,223 @@
     "Гуржистандиз": [
         "Georgia-DIR-DAT"
     ],
+    "Гъел": [
+        "plough"
+    ],
+    "Гъилин": [
+        "hand-OBL-GEN"
+    ],
+    "Гьа": [
+        "that,.the.same",
+        "today"
+    ],
+    "Гьа~бередани": [
+        "AT.THAT.TIME-INESS-FOC"
+    ],
     "Гьаа": [
         "Yes"
+    ],
+    "Гьабурни": [
+        "them-Q"
     ],
     "Гьагь": [
         "yes"
     ],
+    "Гьада": [
+        "then"
+    ],
+    "Гьадазни": [
+        "she-DAT-FOC"
+    ],
+    "Гьадалай": [
+        "today-OBL-SUPER-EL",
+        "she-TEMP-AOP"
+    ],
     "Гьаджи": [
         "Hadji"
+    ],
+    "Гьакъикъетда": [
+        "really-INESS"
     ],
     "ГьакӀ": [
         "like.that",
         "in.this.way"
     ],
+    "Гьамани": [
+        "it.also-FOC"
+    ],
+    "Гьана": [
+        "there"
+    ],
+    "Гьанал": [
+        "that-OBL-SPSS"
+    ],
+    "Гьар": [
+        "every"
+    ],
+    "Гьарада": [
+        "everybody-ERG"
+    ],
+    "Гьетта": [
+        "also"
+    ],
     "Гьим": [
         "that.one"
     ],
-    "Дербентдадин": [
-        "Derbent.in-OBL-GEN"
+    "Гьинай": [
+        "where-PST"
     ],
-    "Дербентдае": [
+    "Гьиниз": [
+        "where"
+    ],
+    "Гьисятда": [
+        "now-INESS"
+    ],
+    "Гьуьлуьн": [
+        "sea-OBL-GEN"
+    ],
+    "Дежурныйдиз": [
+        "on..duty-ERG-DAT"
+    ],
+    "Дербентда": [
         "Derbent.in-INESS"
+    ],
+    "Дербентдин": [
+        "Derbent.in-OBL-GEN"
     ],
     "Джагьан": [
         "Jahan"
     ],
+    "Джафер": [
+        "Jaffer"
+    ],
+    "Дидедин": [
+        "mother-DIR-GEN"
+    ],
     "Дуьз": [
         "right"
+    ],
+    "Егьена": [
+        "is.putting-AOR"
+    ],
+    "Еке": [
+        "great"
+    ],
+    "Жаваб": [
+        "answer"
+    ],
+    "Жамаатди": [
+        "people-DIR"
+    ],
+    "Жемятдизни": [
+        "people.to.and"
+    ],
+    "Жи": [
+        "1pl.gen"
+    ],
+    "За": [
+        "1sg.ERG"
+    ],
+    "Зав": [
+        "1sg.ERG-AD"
+    ],
+    "Заз": [
+        "1sg.ERG-DAT"
+    ],
+    "Зазни": [
+        "1sg.ERG-DAT-FOC"
+    ],
+    "Закай": [
+        "1sg.ERG-SUB-EL"
+    ],
+    "Зани": [
+        "1sg.ERG-FOC"
+    ],
+    "Занни": [
+        "1sg.ERG-GEN-FOC"
     ],
     "Зейналабдин": [
         "Zeynalabdin"
     ],
-    "Зейнеддиндин": [
+    "Зейнеддинан": [
         "Zeynaddin-ERG-GEN"
     ],
-    "И.арада": [
+    "Зерна": [
+        "run"
+    ],
+    "Зи": [
+        "1sg.gen"
+    ],
+    "Зу": [
+        "my"
+    ],
+    "Зун": [
+        "1sg.abs"
+    ],
+    "Зунни": [
+        "1sg.abs-FOC"
+    ],
+    "И": [
+        "this"
+    ],
+    "И~арада": [
+        "AT.THIS.MOMENT-INESS",
         "AT.THIS.MOMENT"
     ],
-    "И.арадае": [
-        "AT.THIS.MOMENT-INESS"
+    "Ибурикай": [
+        "they.from"
     ],
     "Ибурни": [
+        "they-FOC",
         "they.and"
     ],
-    "Игила": [
-        "now"
+    "Ибуру": [
+        "these-ERG"
+    ],
+    "Ибурузни": [
+        "these-ERG-DAT-FOC",
+        "they.to.also"
+    ],
+    "Ибуруни": [
+        "They.and",
+        "these-ERG-Q",
+        "these-ERG-FOC"
+    ],
+    "Иван": [
+        "night-ERG-GEN"
+    ],
+    "Ида": [
+        "her",
+        "he.from"
+    ],
+    "Идаз": [
+        "her-DAT",
+        "he.also-DAT"
+    ],
+    "Идазни": [
+        "he.also-DAT-FOC",
+        "her-DAT-Q"
+    ],
+    "Идакай": [
+        "she.and-SBSS-INELAT"
+    ],
+    "Идан": [
+        "he.also-GEN"
+    ],
+    "Идани": [
+        "her-FOC",
+        "her-AND",
+        "he.and",
+        "her-FOCUS"
     ],
     "Идрис": [
         "Idris"
+    ],
+    "Ийида": [
+        "make-ENT"
+    ],
+    "Ийимир": [
+        "make-PROH"
     ],
     "Икьван": [
         "so.much"
@@ -302,13 +688,36 @@
         "like.this"
     ],
     "Им": [
+        "he",
         "this"
+    ],
+    "Има": [
+        "this.one"
+    ],
+    "Имани": [
+        "this-Q",
+        "this-FOC"
+    ],
+    "Имни": [
+        "he-FOC"
     ],
     "Имран": [
         "Imran"
     ],
-    "Имранди": [
+    "Имрана": [
         "Imran-ERG"
+    ],
+    "Ина": [
+        "here"
+    ],
+    "Инай": [
+        "here-PST"
+    ],
+    "Инални": [
+        "here-FOC"
+    ],
+    "Иниз": [
+        "here-DAT"
     ],
     "Исабалади": [
         "Isabala-ERG"
@@ -322,14 +731,81 @@
     "Иси": [
         "Isi"
     ],
+    "Исятда": [
+        "now-INESS"
+    ],
     "Йисан": [
         "year's"
     ],
-    "Кандивал": [
+    "Кани": [
+        "dear-ERG",
+        "want-ERG"
+    ],
+    "Канивал": [
         "want-ERG-PURP"
     ],
-    "КилигунайтӀа": [
+    "Катна": [
+        "running.AOC"
+    ],
+    "Квез": [
+        "2pl.dat"
+    ],
+    "КилигайтӀа": [
         "look-AOP-COND"
+    ],
+    "КицӀ": [
+        "dog"
+    ],
+    "Крарикай": [
+        "things-ERG-SBSS-INELAT"
+    ],
+    "Къазах": [
+        "kazakh"
+    ],
+    "Къазахстанда": [
+        "Kazakhstan.in-INESS"
+    ],
+    "Къамни": [
+        "sadness.also-FOC"
+    ],
+    "Къанивилин": [
+        "want-ERG-PL-ERG-GEN"
+    ],
+    "Къарлай": [
+        "days-SPSS-EL"
+    ],
+    "Къачуз": [
+        "take-INF"
+    ],
+    "Къваззава": [
+        "stayed-IMPF"
+    ],
+    "Къведа": [
+        "come-ENT"
+    ],
+    "Къе": [
+        "today"
+    ],
+    "Къеледиз": [
+        "fortress-OBL-DAT"
+    ],
+    "Къеледин": [
+        "fortress-OBL-GEN"
+    ],
+    "Къулухъ": [
+        "after"
+    ],
+    "Кьве": [
+        "two"
+    ],
+    "Кьвед~лагьай": [
+        "SECOND"
+    ],
+    "Кьведаз": [
+        "two-OBL-DAT"
+    ],
+    "Кьуьзуь": [
+        "old"
     ],
     "КӀватӀна": [
         "to.gather-AOR"
@@ -337,14 +813,27 @@
     "КӀцар": [
         "Gusar"
     ],
+    "Лагьана": [
+        "say-AOR"
+    ],
     "Лежет": [
         "Ledjet"
     ],
+    "Лезгиярни": [
+        "Lezgi-PL-FOC"
+    ],
+    "Лейли": [
+        "Leyli"
+    ],
     "Ленинграддин": [
+        "Leningrad's-DIR-GEN",
         "Leningrad-ERG-GEN"
     ],
     "Ленинградом": [
         "Leningrad"
+    ],
+    "Литвада": [
+        "Lithuania-INESS"
     ],
     "Литвадиз": [
         "Lithuania-DIR-DAT"
@@ -352,14 +841,32 @@
     "Литвадин": [
         "Lithuania-DIR-GEN"
     ],
-    "Литвае": [
-        "Lithuania-INESS"
+    "Лув": [
+        "wing"
+    ],
+    "Лугьузва": [
+        "say-IMPF"
+    ],
+    "Мадни": [
+        "more-FOC"
     ],
     "Мама": [
         "mother"
     ],
-    "Мегьманандин": [
+    "Мамани": [
+        "mother-FOC"
+    ],
+    "Масадаз": [
+        "sell-INESS-DAT"
+    ],
+    "Машин": [
+        "car"
+    ],
+    "Мегьманан": [
         "Mehman's-OBL-GEN"
+    ],
+    "Межлис": [
+        "event"
     ],
     "Межнун": [
         "Medjnun"
@@ -368,38 +875,93 @@
         "Migragh",
         "Migrah"
     ],
+    "Мицибуру": [
+        "others-ERG"
+    ],
+    "Мугьубатдин": [
+        "love-OBL-GEN"
+    ],
     "На": [
         "you"
+    ],
+    "Назир": [
+        "Nazir"
+    ],
+    "Накьвар": [
+        "soil-AD-PL"
     ],
     "Насруллагь": [
         "Nasrullah"
     ],
-    "Новгороддае": [
+    "Негъен": [
+        "evening"
+    ],
+    "Но": [
+        "But"
+    ],
+    "Новгородда": [
         "Novgorod.in-INESS"
+    ],
+    "Ну": [
+        "well"
     ],
     "Нуьсрет": [
         "Nusret"
     ],
-    "Нуьсретдихъ": [
+    "Нуьсретахъ": [
         "Nusret-ERG-POESS"
     ],
-    "Огонь.Копида": [
+    "О": [
+        "Too"
+    ],
+    "Огонь~Копида": [
         "OGON.KOPY.IN"
     ],
-    "Она.гуьре": [
+    "Он": [
+        "he"
+    ],
+    "Она~гуьре": [
         "THERFORE"
+    ],
+    "Паекни": [
+        "ration"
+    ],
+    "Палкан": [
+        "horse"
     ],
     "Пара": [
         "very"
     ],
-    "Польшаай": [
+    "Паспортар": [
+        "pasport-PL"
+    ],
+    "Писвал": [
+        "evil-PURP"
+    ],
+    "Польшадай": [
+        "Poland-INESS-PST",
         "Poland-INELAT"
     ],
-    "Польшаей": [
-        "Poland-INESS-PST"
+    "Пуд": [
+        "three"
+    ],
+    "Пятьдесят": [
+        "fifty"
     ],
     "Рагьуллагь": [
         "Rahulla"
+    ],
+    "Рази": [
+        "agree"
+    ],
+    "Рак": [
+        "door"
+    ],
+    "Рекье": [
+        "way-INESS"
+    ],
+    "Рехъ": [
+        "road"
     ],
     "Россиядин": [
         "Russia-OBL-GEN"
@@ -407,15 +969,46 @@
     "Руслан": [
         "Ruslan"
     ],
+    "Руш": [
+        "girl"
+    ],
+    "Руша": [
+        "girl-ERG"
+    ],
+    "Рушани": [
+        "girl-ERG-FOC"
+    ],
+    "Рушарин": [
+        "girl-PL-ERG-GEN"
+    ],
+    "Рушахъ": [
+        "girl.with"
+    ],
+    "Рушни": [
+        "girl-FOC"
+    ],
     "СССР": [
         "USSR"
     ],
     "Са": [
+        "one",
         "only"
+    ],
+    "Сад": [
+        "one"
+    ],
+    "Сад~лагьана": [
+        "SUDDENLY-AOR"
+    ],
+    "Садра": [
+        "once"
     ],
     "Самур": [
         "\"Samur\"",
         "\"Samur'"
+    ],
+    "Сарах": [
+        "once"
     ],
     "Себри": [
         "Sabri"
@@ -423,14 +1016,35 @@
     "Себрилла": [
         "Sebrilla"
     ],
+    "Себриллагьахъ": [
+        "Sebrilla"
+    ],
+    "Севастопольда": [
+        "Sevastopol-INESS"
+    ],
+    "Севастопольдиз": [
+        "Sevastopol-ERG-DAT"
+    ],
     "Севда": [
         "Sevda"
     ],
     "Седакъет": [
         "Sedaget"
     ],
+    "Серинвал": [
+        "cool-PURP"
+    ],
+    "Случайно": [
+        "accidentally"
+    ],
     "Советдин": [
         "Soviet-ERG-GEN"
+    ],
+    "Сонра": [
+        "after"
+    ],
+    "Сонрани": [
+        "after-FOC"
     ],
     "Суракьиз": [
         "asking"
@@ -438,17 +1052,32 @@
     "Тагиев": [
         "Tagiyev"
     ],
-    "Тагиевди": [
+    "Тагиева": [
         "Tagiyev-ERG"
     ],
-    "Тагиевдиз": [
+    "Тагиеваз": [
         "Tagiyev-ERG-DAT"
+    ],
+    "Таниш": [
+        "acquainted"
+    ],
+    "ТапарарзаватӀа": [
+        "lie-IMPF-COND"
     ],
     "Твах": [
         "carry.IMPV"
     ],
-    "ТӀарамарнаарда": [
-        "secured-PL-ENT"
+    "Текче": [
+        "only"
+    ],
+    "Техминан": [
+        "About"
+    ],
+    "Трамплин": [
+        "springboard"
+    ],
+    "Тухуда": [
+        "take-INESS"
     ],
     "ТӀванлай": [
         "from.there"
@@ -456,38 +1085,114 @@
     "ТӀимил": [
         "little"
     ],
+    "Ун": [
+        "yes"
+    ],
     "Уъ": [
         "yes"
     ],
-    "Францияай": [
+    "Фена": [
+        "go-AOR",
+        "go-AOC"
+    ],
+    "Фена-фена": [
+        "go-AOR"
+    ],
+    "Фергьад": [
+        "Ferhad"
+    ],
+    "Фида": [
+        "go-ENT",
+        "go-INESS",
+        "go-FUT"
+    ],
+    "Фидайла": [
+        "go-PST-TEMP"
+    ],
+    "Фидамаз": [
+        "go.FUT-FUT-IMMANT"
+    ],
+    "Франциядай": [
         "France-INELAT"
     ],
     "Франциядиз": [
         "France-DIR-DAT"
     ],
+    "Фу": [
+        "bread"
+    ],
+    "Хвеши": [
+        "happy"
+    ],
+    "Хкадарда": [
+        "jumps-INESS"
+    ],
+    "Хтайла": [
+        "return-PST-TEMP"
+    ],
+    "Хтана": [
+        "return-AOR"
+    ],
+    "Хтуларни": [
+        "grandchild-PL-FOC"
+    ],
     "Худат": [
         "Khudat"
     ],
-    "Хырдалане": [
+    "Хуьруьз": [
+        "village-OBL-DAT"
+    ],
+    "Хъфена": [
+        "go-AOR"
+    ],
+    "Хъфида": [
+        "go-ENT"
+    ],
+    "Хырдаланда": [
         "Khyrdalan-INESS"
+    ],
+    "ХьайитӀа": [
+        "be.AOP.COND"
     ],
     "Хьуй": [
         "Let.it.be"
     ],
-    "Цайлапандикай": [
+    "Цайлапанрикай": [
         "lightning-OBL-SUB-EL"
     ],
     "ЦӀуьгъвенай": [
         "behind"
     ],
-    "Чан": [
-        "dear"
+    "Чаз": [
+        "1pl.gen-DAT"
     ],
-    "Чох.сагъол": [
+    "Чан": [
+        "dear",
+        "soul"
+    ],
+    "Чи": [
+        "1pl.gen"
+    ],
+    "Чка": [
+        "place"
+    ],
+    "Чох~сагъол": [
         "THANK.YOU"
     ],
-    "Чукоткае": [
+    "Чпивай": [
+        "themselves-AD-EL"
+    ],
+    "Чпин": [
+        "their.own"
+    ],
+    "Чукоткада": [
         "Chukotka-INESS"
+    ],
+    "Чун": [
+        "1pl.abs"
+    ],
+    "Чунни": [
+        "1pl.abs-FOC"
     ],
     "ЧӀехи": [
         "Oldest",
@@ -502,83 +1207,127 @@
     "Шагьдагъдин": [
         "Shahdag-OBL-GEN"
     ],
-    "Шемседдиндин": [
+    "Шемседдинан": [
         "Shemseddin-OBL-GEN"
     ],
-    "Шоллардайай": [
+    "Ширин": [
+        "Shirin"
+    ],
+    "Шоллардай": [
         "Shollar.from-INELAT"
     ],
     "Шуьбяддин": [
         "Shubyaddin"
     ],
-    "Эверада": [
-        "call.IMPV-ENT"
+    "Эвел": [
+        "before"
     ],
-    "Эверае": [
+    "Эвера": [
+        "call?-ERG"
+    ],
+    "Эверда": [
         "call.IMPV-INESS"
     ],
-    "Эверана": [
-        "call.IMPV-AOC"
-    ],
-    "ЭвецӀдада": [
+    "ЭвецӀда": [
         "went.down.ENT-ENT"
+    ],
+    "Эвли": [
+        "married"
     ],
     "Эгер": [
         "if"
     ],
+    "Эгьтибарсуз": [
+        "unfaithful"
+    ],
+    "Эй": [
+        "hey"
+    ],
+    "Эйиб": [
+        "shame"
+    ],
     "ЭкъецӀна": [
         "appearing.AOC"
+    ],
+    "Элквена": [
+        "turned-AOR"
+    ],
+    "Элкъвезва": [
+        "turns-IMPF"
+    ],
+    "Элкъуьгъ": [
+        "turn.back"
+    ],
+    "Элчиярни": [
+        "matchmakers.also-PL-FOC"
+    ],
+    "Эскервиле": [
+        "military.service",
+        "military.service-INESS"
+    ],
+    "Эхир": [
+        "after.all"
+    ],
+    "Эхирни": [
+        "end-FOC"
+    ],
+    "Эхъвез": [
+        "bathing-INF"
+    ],
+    "Юлдашарикай": [
+        "friend-PL-OBL-SUB-EL"
     ],
     "Юсуф": [
         "Yusif"
     ],
     "Я": [
+        "was",
         "hey"
     ],
-    "Яламадинидини": [
+    "Ядни": [
+        "water-AND"
+    ],
+    "Яламадини": [
         "Yalama's-DIR-FOC",
         "Yalama's-DIR-Q"
     ],
+    "Яни": [
+        "cop-FOC"
+    ],
+    "Яргъал": [
+        "far"
+    ],
     "ЯхцӀур": [
         "fourty"
+    ],
+    "Яшамишда": [
+        "live-ENT"
     ],
     "а": [
         "that"
     ],
     "абур": [
-        "they"
+        "they",
+        "obl.stm-ABS.PL"
     ],
-    "абурди": [
-        "they-ERG"
-    ],
-    "абурдивай": [
-        "obl.stm-ABS.PL-ERG-AD-EL"
-    ],
-    "абурдиз": [
-        "they-OBL-DAT",
-        "they-ERG-DAT"
-    ],
-    "абурдил": [
+    "абурал": [
         "obl.stm-ABS.PL-ERG-SPSS"
     ],
-    "абурдин": [
+    "абури": [
+        "they-ERG"
+    ],
+    "абуриз": [
+        "they-ERG-DAT"
+    ],
+    "абурин": [
         "they-ERG-GEN"
     ],
-    "абурни": [
-        "they-FOC"
+    "абуруз": [
+        "they-ERG-DAT"
     ],
     "ава": [
         "cop",
         "is"
-    ],
-    "аваай": [
-        "is-AOP"
-    ],
-    "аваайди": [
-        "is-AOP-SBST"
-    ],
-    "аваайла": [
-        "is-AOP-TEMP"
     ],
     "аваз": [
         "is-DAT",
@@ -589,6 +1338,7 @@
     ],
     "авай": [
         "is-PTP",
+        "is-AOP",
         "is-PST",
         "cop-PTP",
         "cop-PST"
@@ -597,26 +1347,26 @@
         "existed"
     ],
     "авайди": [
+        "is-AOP-SBST",
         "is-PST-SBST",
         "cop-PTP-SBST"
     ],
     "авайла": [
+        "is-AOP-TEMP",
         "is-PST-TEMP"
     ],
     "авани": [
         "is-FOC"
     ],
-    "авариядиздиз": [
+    "авариядиз": [
         "accident.into-OBL-DAT"
     ],
-    "аватнае": [
+    "аватда": [
         "fell-INESS"
     ],
-    "аватнана": [
+    "аватна": [
+        "fall-AOR",
         "fell-AOR"
-    ],
-    "аватунна": [
-        "fall-AOR"
     ],
     "аватӀа": [
         "is-COND"
@@ -633,31 +1383,28 @@
     "авудна": [
         "taking.down.AOC"
     ],
-    "авунна": [
+    "авуна": [
         "make,.do-AOR",
         "make,.do-AOC"
+    ],
+    "агакьарна": [
+        "pass.on-PL-AOR"
     ],
     "агакьда": [
         "pass.on-ENT"
     ],
-    "агакьунарна": [
-        "pass.on-PL-AOR"
-    ],
-    "агакьунна": [
+    "агакьна": [
         "pass.on-AOC"
     ],
-    "агатунз": [
+    "агатиз": [
         "approch-INF"
     ],
-    "агатунна": [
-        "approch-AOC"
+    "агъана": [
+        "bring-AOC",
+        "bring-AOR"
     ],
     "агъзур": [
         "100"
-    ],
-    "агъинна": [
-        "bring-AOC",
-        "bring-AOR"
     ],
     "агъуз": [
         "down"
@@ -673,7 +1420,8 @@
         "he-AD"
     ],
     "адаз": [
-        "he-DAT"
+        "he-DAT",
+        "that-OBL-DAT"
     ],
     "адакай": [
         "he-SBSS-INELAT"
@@ -681,41 +1429,33 @@
     "адал": [
         "it-SPSS"
     ],
-    "адалай": [
-        "it-SPSS-EL"
-    ],
     "адан": [
+        "he-GEN",
         "his"
     ],
     "адетар": [
         "tradtition-PL"
     ],
-    "адиз": [
-        "that-OBL-DAT"
-    ],
-    "азербайджанарар": [
+    "азербайджанар": [
         "azebaijanis-PL"
     ],
-    "айинай": [
+    "айир": [
         "made-AOP"
     ],
-    "акакьдае": [
+    "акакьда": [
         "reached.ENT-INESS"
     ],
-    "акатунда": [
-        "fall-ENT"
-    ],
-    "акахьнвай": [
+    "акахьнавай": [
         "closer.us-PERF-PTP"
     ],
-    "аквазвазва": [
+    "аквада": [
+        "to.see-ENT"
+    ],
+    "аквазва": [
         "see.is-IMPF"
     ],
-    "аквазвазваай": [
+    "аквазвай": [
         "see.is-IMPF-AOP"
-    ],
-    "аквазда": [
-        "to.see-ENT"
     ],
     "акван": [
         "look.HORT"
@@ -723,24 +1463,23 @@
     "аку": [
         "look"
     ],
-    "акун": [
-        "seen"
+    "акуна": [
+        "see-AOR",
+        "hit-AOC",
+        "see-AOC"
     ],
     "акунгаз": [
         "see.like"
     ],
-    "акунна": [
-        "see-AOR",
-        "see-AOC"
-    ],
-    "акунтӀа": [
-        "seen-COND"
+    "акур": [
+        "seen"
     ],
     "акурла": [
         "seen-TEMP"
     ],
     "акуртӀа": [
-        "saw"
+        "seen-COND",
+        "seen"
     ],
     "акутӀа": [
         "look-COND"
@@ -748,158 +1487,121 @@
     "акъадарда": [
         "mount.ENT"
     ],
-    "акъадардана": [
+    "акъадарна": [
         "mount.ENT-AOR"
     ],
     "акъат": [
         "apperance"
     ],
-    "акъатзвач": [
+    "акъатзавач": [
         "apperance-IMPF-NEG"
     ],
     "акъатна": [
-        "apperance-AOR"
-    ],
-    "акъатун": [
-        "apperance"
-    ],
-    "акъатунна": [
-        "apperance-AOC",
-        "apperance-AOR"
-    ],
-    "акъахе": [
-        "mount.IMPV-INESS"
+        "apperance-AOR",
+        "apperance-AOC"
     ],
     "акъахна": [
-        "mount.IMPV-AOR"
-    ],
-    "акъахунна": [
+        "mount.IMPV-AOR",
         "climbing-AOC"
     ],
-    "акъваззва": [
-        "to.stay-IMPF"
-    ],
-    "акъвазиндай": [
-        "stop-ENT-PTP"
-    ],
-    "акъвазунна": [
+    "акъвазарна": [
         "make.stopping-AOC"
     ],
-    "акъвенванва": [
-        "walked-PERF"
+    "акъвазва": [
+        "to.stay-IMPF"
     ],
-    "акъвензва": [
+    "акъваздай": [
+        "stop-ENT-PTP"
+    ],
+    "акъвезва": [
         "walk-IMPF"
     ],
-    "акъудзва": [
+    "акъвенва": [
+        "walked-PERF"
+    ],
+    "акъудзава": [
         "get.out-IMPF"
     ],
-    "акъудинна": [
-        "let.us.out-AOR"
-    ],
-    "акъудна": [
-        "get.out-AOC"
-    ],
-    "акъудунзвайди": [
+    "акъудзавайди": [
         "take.out-IMPF-PST-SBST"
     ],
-    "акъудунна": [
+    "акъудна": [
+        "let.us.out-AOR",
+        "get.out-AOC",
         "take.out-AOC"
     ],
-    "акьанз": [
+    "акьаз": [
         "hit-INF"
     ],
-    "акьахунна": [
+    "акьахна": [
         "jumping-AOC"
     ],
     "акьуллу": [
         "clever"
     ],
-    "акьунайтӀа": [
-        "hit-AOP-COND"
-    ],
-    "акьунна": [
-        "hit-AOC"
-    ],
     "ала": [
         "is.there"
-    ],
-    "алаай": [
-        "is.there-AOP"
     ],
     "алад": [
         "exceed"
     ],
-    "аладарда": [
+    "аладар": [
         "longed.ENT"
     ],
-    "аладардада": [
+    "аладарда": [
         "longed.ENT-ENT"
     ],
     "алай": [
         "is.there-PST",
-        "is.there-PTP"
+        "is.there-PTP",
+        "is.there-AOP"
     ],
-    "алатайлайла": [
-        "passing.TEMP-PST-TEMP"
-    ],
-    "алатнада": [
+    "алатда": [
         "pass-ENT"
     ],
-    "алатунда": [
-        "pass-ENT"
-    ],
-    "алатунна": [
+    "алатна": [
         "pass-AOC"
     ],
     "алатӀа": [
         "is.there-COND"
     ],
-    "алдатмишарзаваарзва": [
+    "алдатмишарзава": [
         "deceive-PL-IMPF"
     ],
-    "алифбаралдил": [
+    "алифбарал": [
         "alphabets.to-OBL-SPSS"
     ],
     "алман": [
         "the.German"
     ],
-    "алукӀнана": [
+    "алукӀна": [
         "wear.AOC-AOR"
     ],
-    "алцурардаармир": [
+    "алцурармир": [
         "decieved.ENT-PL-PROH"
     ],
-    "алцурардаарна": [
-        "decieved.ENT-PL-AOR"
-    ],
-    "алцурардада": [
-        "decieved.ENT-ENT"
-    ],
     "алцурарна": [
-        "deceiving.AOC"
+        "deceiving.AOC",
+        "decieved.ENT-PL-AOR"
     ],
     "ам": [
         "it",
         "that"
     ],
     "ама": [
-        "exist.doesn't",
         "still.be,.remain",
         "but",
         "he"
     ],
-    "амаай": [
+    "амай": [
         "he-AOP"
     ],
-    "амаайди": [
-        "still.be,.remain-AOP-SBST"
-    ],
-    "амаайла": [
-        "exist.doesn't-AOP-TEMP"
-    ],
     "амайди": [
+        "still.be,.remain-AOP-SBST",
         "he-PTP-SBST"
+    ],
+    "амайла": [
+        "exist.doesn't-AOP-TEMP"
     ],
     "амалдив": [
         "with.slyness-OBL-ADESS"
@@ -911,6 +1613,7 @@
     ],
     "амач": [
         "be.in.CONT-NEG",
+        "exist.doesn't",
         "still.be,.remain-NEG"
     ],
     "амачир": [
@@ -925,29 +1628,24 @@
     "амни": [
         "those.and"
     ],
-    "амукъдада": [
+    "амукъда": [
         "will.stay-ENT"
     ],
-    "амукъунзва": [
+    "амукъзава": [
         "stay-IMPF"
     ],
-    "амукьунн": [
+    "амукьин": [
         "remain-HORT"
     ],
     "ана": [
         "there"
     ],
-    "анаай": [
-        "there-AOP"
-    ],
-    "анаарз": [
-        "there-PL-DAT"
-    ],
-    "анавайй": [
+    "анавай": [
         "there.from-PST"
     ],
     "анай": [
-        "there.from"
+        "there-PST",
+        "there-AOP"
     ],
     "анайни": [
         "there-PST-Q"
@@ -955,14 +1653,15 @@
     "анал": [
         "that.on"
     ],
+    "анариз": [
+        "there-PL-DAT"
+    ],
     "анжах": [
         "only"
     ],
     "аниз": [
+        "there-DAT",
         "that-DAT"
-    ],
-    "анизз": [
-        "there-DAT"
     ],
     "анихъ": [
         "that-POESS"
@@ -973,17 +1672,15 @@
     "анриз": [
         "there"
     ],
-    "арабардиз": [
+    "арабриз": [
         "arab-PL-OBL-DAT"
     ],
-    "арадае": [
+    "арада": [
+        "among-INESS",
         "between-INESS"
     ],
     "арадай": [
         "among"
-    ],
-    "арадайе": [
-        "among-INESS"
     ],
     "арадлай": [
         "a.while.after"
@@ -994,63 +1691,47 @@
     "архаин": [
         "comfort"
     ],
-    "асвальтел": [
+    "асвальтдал": [
         "asphalt-INESS-SPSS"
     ],
-    "асеф": [
-        "Asef"
-    ],
-    "атайй": [
+    "атай": [
+        "come-PTP",
         "coming-PST"
     ],
-    "атаййла": [
-        "coming-PST-TEMP",
+    "атайди": [
+        "come-PST-SBST"
+    ],
+    "атайла": [
         "coming-PTP-TEMP"
     ],
-    "атайна": [
-        "coming-AOR"
+    "атана": [
+        "coming-AOR",
+        "come-AOR",
+        "come-AOC"
     ],
-    "атайнва": [
-        "coming-PERF"
-    ],
-    "атана.агакьда": [
+    "атана~агакьда": [
         "REACHED.ENT"
     ],
-    "атнунна": [
-        "come-AOR"
+    "атанва": [
+        "coming-PERF"
     ],
     "атун": [
         "come"
     ],
-    "атунй": [
-        "come-PTP"
-    ],
-    "атунйди": [
-        "come-PST-SBST"
-    ],
-    "атунна": [
-        "come-AOC",
-        "come-AOR"
-    ],
     "атӀуд": [
         "cut"
     ],
-    "атӀудз": [
+    "атӀуз": [
         "cut-INF"
     ],
-    "атӀузз": [
-        "cutting.IMC-DAT"
-    ],
-    "ахварадиз": [
-        "dream.in-ERG-DAT"
-    ],
-    "ахварди": [
+    "ахвара": [
+        "dream-INESS",
         "dream-ERG"
     ],
-    "ахваре": [
-        "dream-INESS"
+    "ахвариз": [
+        "dream.in-ERG-DAT"
     ],
-    "ахкунана": [
+    "ахкуна": [
         "seing.AOC-AOR"
     ],
     "ахпа": [
@@ -1063,26 +1744,21 @@
     "ахпадиказ": [
         "then"
     ],
-    "ахпани": [
-        "After-FOC"
-    ],
     "ахъайда": [
+        "open-PST-ENT",
         "released.ENT"
+    ],
+    "ахъайзава": [
+        "open-IMPF"
     ],
     "ахъайна": [
         "open-AOR"
     ],
-    "ахъайунзва": [
-        "open-IMPF"
-    ],
-    "ахъатайдилайайдилай": [
+    "ахъатайдилай": [
         "appear.of-AOP-SBST-TEMP-PST"
     ],
-    "ахъатунзва": [
+    "ахъатзава": [
         "appereance-IMPF"
-    ],
-    "ахъаюнмазз": [
-        "release.IMMANT-IMC"
     ],
     "ахъая": [
         "send.away.IMPV"
@@ -1090,29 +1766,24 @@
     "ахьтин": [
         "like.that"
     ],
+    "ацакьна": [
+        "sit-AOR"
+    ],
     "ацукьарда": [
         "seat.ENT"
     ],
     "ацукьарна": [
         "boarding.AOC"
     ],
-    "ацукьнада": [
+    "ацукьда": [
         "sitting.down.AOC-ENT"
-    ],
-    "ацукьунна": [
-        "sit-AOR"
     ],
     "ашар": [
         "plov-PL"
     ],
     "ашкъидикай": [
-        "love-ERG-SBSS-EL"
-    ],
-    "ашкъидикдиай": [
+        "love-ERG-SBSS-EL",
         "love-ERG-SBSS-ERG-INELAT"
-    ],
-    "ашкъидин": [
-        "love-ERG-GEN"
     ],
     "ашукь": [
         "ashuq"
@@ -1134,10 +1805,10 @@
     "аялар": [
         "child-PL"
     ],
-    "аяларди": [
+    "аялари": [
         "child-PL-ERG"
     ],
-    "аялардихъ": [
+    "аяларихъ": [
         "child-PL-OBL-POESS"
     ],
     "аялдин": [
@@ -1146,7 +1817,7 @@
     "аяр": [
         "nice"
     ],
-    "багъишламишатӀанизва": [
+    "багъишламишзава": [
         "present-IMPF"
     ],
     "багъишна": [
@@ -1155,26 +1826,21 @@
     "баде": [
         "grandmother"
     ],
-    "бакудиз": [
-        "Baku-ERG-DAT"
-    ],
-    "бакуе": [
-        "Baku-INESS"
-    ],
     "бала": [
         "baby"
     ],
-    "балаар": [
+    "балаяр": [
         "baby-PL"
     ],
     "балкӀан": [
         "horse"
     ],
+    "балкӀандал": [
+        "horse-OBL-SPSS",
+        "horse-SPSS"
+    ],
     "балкӀанди": [
         "horse-ERG"
-    ],
-    "балкӀандил": [
-        "horse-OBL-SPSS"
     ],
     "балкӀандин": [
         "horse-ERG-GEN"
@@ -1182,26 +1848,18 @@
     "балкӀандини": [
         "horse-ERG-FOC"
     ],
-    "балкӀанл": [
-        "horse-SPSS"
-    ],
     "бахтавар": [
         "happy"
     ],
     "башламишда": [
-        "started.ENT"
-    ],
-    "башламишдае": [
+        "started.ENT",
         "started.ENT-INESS"
     ],
-    "башламишдазва": [
+    "башламишзава": [
         "started.ENT-IMPF"
     ],
     "башламишна": [
         "started-AOR"
-    ],
-    "бебир": [
-        "Bebir"
     ],
     "беес": [
         "but"
@@ -1213,10 +1871,8 @@
         "time"
     ],
     "береда": [
+        "time-INESS",
         "time-ENT"
-    ],
-    "берее": [
-        "time-INESS"
     ],
     "бес": [
         "but"
@@ -1250,11 +1906,11 @@
     "бубадихъ": [
         "father-OBL-POESS"
     ],
+    "булахдал": [
+        "spring-INESS-SPSS"
+    ],
     "булахдин": [
         "spring-DIR-GEN"
-    ],
-    "булахел": [
-        "spring-INESS-SPSS"
     ],
     "бурулгъан": [
         "whirlpool"
@@ -1269,11 +1925,11 @@
         "five"
     ],
     "ваз": [
-        "2sg-DAT"
+        "2sg-DAT",
+        "you"
     ],
     "вак": [
-        "pig",
-        "you.with"
+        "pig"
     ],
     "вакай": [
         "2sg-SBSS-EL"
@@ -1287,7 +1943,7 @@
     "ван": [
         "voice"
     ],
-    "ван.хьунч": [
+    "ван~хьанач": [
         "LISTEN-NEG"
     ],
     "варз": [
@@ -1296,22 +1952,25 @@
     "вах": [
         "sister"
     ],
-    "вахарни": [
+    "вахвални": [
         "sister-PL-FOC"
     ],
-    "вахгунда": [
-        "return-FUT"
+    "вахгана": [
+        "return-AOR"
     ],
-    "вахгунна": [
+    "вахкана": [
         "give-AOR"
+    ],
+    "вахкуда": [
+        "return-FUT"
     ],
     "вахт": [
         "time"
     ],
-    "вахтарди": [
+    "вахтара": [
         "time-PL-ERG"
     ],
-    "вахтдине": [
+    "вахтинда": [
         "time-ERG-GEN-INESS"
     ],
     "вахча": [
@@ -1320,41 +1979,30 @@
     "вахъ": [
         "2sg-POESS"
     ],
-    "вацради": [
+    "вацра": [
         "month.in-ERG"
+    ],
+    "вач": [
+        "go.IMPV"
     ],
     "ваъ": [
         "no"
     ],
     "вегьена": [
-        "threw"
-    ],
-    "вегьенадаай": [
-        "throwing.AOC-ENT-AOP"
-    ],
-    "вегьенана": [
+        "threw-AOC",
         "threw-AOR"
     ],
-    "вегьенз": [
+    "вегьиз": [
         "threw-IMC"
     ],
-    "вегьенна": [
-        "threw-AOC"
-    ],
-    "везирардиз": [
+    "везирриз": [
         "viziers-ERG-DAT"
     ],
-    "везияте": [
-        "condition-INESS"
-    ],
-    "векьердиз": [
-        "hay-ERG-DAT"
-    ],
-    "векьерер": [
+    "векьер": [
         "hay-PL"
     ],
-    "велибеган": [
-        "Velibeg-GEN"
+    "векьиз": [
+        "hay-ERG-DAT"
     ],
     "верци": [
         "sweet"
@@ -1368,18 +2016,15 @@
     "вил": [
         "eye"
     ],
-    "вилаятдадиз": [
+    "вилаятда": [
+        "province.in-INESS"
+    ],
+    "вилаятдиз": [
         "province.in-DIR-DAT",
         "province.in-ERG-DAT"
     ],
-    "вилаятдадин": [
+    "вилаятдин": [
         "country.in-DIR-GEN"
-    ],
-    "вилаятдае": [
-        "province.in-INESS"
-    ],
-    "вилдикай": [
-        "eye-OBL-SUB-EL"
     ],
     "вилер": [
         "eye-PL"
@@ -1390,91 +2035,67 @@
     "вилик": [
         "before"
     ],
+    "виликай": [
+        "eye-OBL-SUB-EL"
+    ],
+    "вине": [
+        "over"
+    ],
     "винел": [
         "on"
     ],
     "винелай": [
-        "over"
-    ],
-    "винелайлай": [
         "over-SPSS-INELAT"
     ],
-    "виняйй": [
+    "виняй": [
         "height.from-PST"
     ],
     "вири": [
         "all"
     ],
-    "вириез": [
+    "виридаз": [
         "Everything-INESS-DAT"
     ],
     "вирини": [
         "Everything-FOC"
     ],
     "вич": [
-        "himself"
+        "himself",
+        "2sg.gen-NEG"
     ],
     "вичал": [
+        "himself-ERG-SPSS",
         "on.itself"
-    ],
-    "вичди": [
-        "himself-ERG"
-    ],
-    "вичдивай": [
-        "himself-OBL-AD-EL"
-    ],
-    "вичдиз": [
-        "himself-ERG-DAT"
-    ],
-    "вичдизни": [
-        "himself-ERG-DAT-FOC"
-    ],
-    "вичдикай": [
-        "himself-ERG-SBSS-EL"
-    ],
-    "вичдил": [
-        "himself-ERG-SPSS"
-    ],
-    "вичдин": [
-        "himself-OBL-GEN",
-        "himself-ERG-GEN"
-    ],
-    "вичдини": [
-        "himself-ERG-FOC"
     ],
     "вичелай": [
         "himself-INESS-SPSS-AOP"
     ],
+    "вичи": [
+        "himself-ERG"
+    ],
+    "вичивай": [
+        "himself-OBL-AD-EL"
+    ],
+    "вичиз": [
+        "himself-ERG-DAT"
+    ],
+    "вичикай": [
+        "himself-ERG-SBSS-EL"
+    ],
     "вичин": [
+        "himself-OBL-GEN",
+        "himself-ERG-GEN",
         "her"
-    ],
-    "вични": [
-        "himself-FOC"
-    ],
-    "вобщем": [
-        "anyway"
     ],
     "военный": [
         "military"
-    ],
-    "вообще": [
-        "commonly"
-    ],
-    "вот": [
-        "there"
     ],
     "вун": [
         "2sg.abs"
     ],
     "вуна": [
-        "2sg.erg"
-    ],
-    "вунди": [
         "2sg.abs-ERG",
-        "2sg.abs-OBL"
-    ],
-    "вундини": [
-        "2sg.abs-ERG-FOC"
+        "2sg.erg"
     ],
     "вутӀ": [
         "where"
@@ -1485,10 +2106,10 @@
     "вуч": [
         "what"
     ],
-    "вучдиз": [
+    "вучиз": [
         "what-ERG-DAT"
     ],
-    "вучдин": [
+    "вучин": [
         "what-ERG-GEN"
     ],
     "вуш": [
@@ -1497,22 +2118,15 @@
     "вушда": [
         "what-ENT"
     ],
-    "вушунда": [
-        "what-ENT"
-    ],
     "высоковольтный": [
         "high.voltage"
     ],
-    "гагьатназва": [
+    "гагьатзава": [
+        "escape-IMPF",
         "escaped-IMPF"
     ],
-    "гагьатнана": [
-        "escaped-AOR"
-    ],
-    "гагьатунзва": [
-        "escape-IMPF"
-    ],
-    "гагьатунна": [
+    "гагьатна": [
+        "escaped-AOR",
         "escape-AOR"
     ],
     "гада": [
@@ -1531,17 +2145,13 @@
         "boy-DIR-DAT"
     ],
     "гададизни": [
-        "boy-ERG-DAT-Q",
         "boy-ERG-DAT-FOC"
     ],
     "гададин": [
         "boy-DIR-GEN"
     ],
-    "гададинди": [
-        "boy-DIR-GEN-ERG"
-    ],
     "гададини": [
-        "guy.ERG.and"
+        "boy-DIR-GEN-ERG"
     ],
     "гадайри": [
         "boys"
@@ -1553,8 +2163,14 @@
         "boy-FOC",
         "boy-Q"
     ],
+    "гадар": [
+        "threw"
+    ],
     "газет": [
         "newspaper"
+    ],
+    "газетдани": [
+        "newspaper-INESS-FOC"
     ],
     "газетдиз": [
         "newspaper-OBL-DAT"
@@ -1562,39 +2178,48 @@
     "газетдин": [
         "newspaper-OBL-GEN"
     ],
-    "газетени": [
-        "newspaper-INESS-FOC"
+    "гайдалай": [
+        "give-PST-ENT-SPSS-AOP"
+    ],
+    "гайи": [
+        "give-AOP"
     ],
     "галаз": [
-        "with"
-    ],
-    "галазз": [
+        "with",
         "with-DAT"
-    ],
-    "галазй": [
-        "with-PST"
     ],
     "галазни": [
         "with-FOC"
     ],
     "галай": [
-        "was"
+        "was",
+        "with-PST"
     ],
-    "галатунна": [
-        "tire-AOR",
-        "tire-AOC"
+    "галатна": [
+        "tire-AOR"
     ],
-    "галатуннвай": [
+    "галатнавай": [
         "tire-PERF-PTP"
     ],
-    "галатуннвайди": [
+    "галатнавайди": [
         "tire-PERF-PTP-SBST"
     ],
     "галукь": [
         "hit"
     ],
     "гана": [
+        "give-AOR",
+        "give-AOC",
         "giving.AOC"
+    ],
+    "ганач": [
+        "give-AOC-NEG"
+    ],
+    "ганва": [
+        "give-PERF"
+    ],
+    "ганвай": [
+        "give-PST"
     ],
     "гатаз": [
         "beat-INF"
@@ -1602,13 +2227,10 @@
     "гатана": [
         "knock-AOC"
     ],
-    "гатинданмаз": [
-        "escape-ENT-IMMANT"
-    ],
-    "гатиндин": [
+    "гатдин": [
         "escape-SBST-MSD"
     ],
-    "гатинна": [
+    "гатна": [
         "escape-AOR"
     ],
     "гатфар": [
@@ -1618,42 +2240,47 @@
         "word"
     ],
     "гафар": [
-        "words"
+        "words",
+        "word-PL"
     ],
-    "гафариз.аламукьнава": [
-        "STAYED.TALKING"
-    ],
-    "гафарунда": [
+    "гафарда": [
         "talking-FUT"
     ],
-    "гафарунзва": [
+    "гафарзава": [
         "talking-IMPF"
     ],
-    "гафарунна": [
+    "гафариз~аламукьнава": [
+        "STAYED.TALKING"
+    ],
+    "гафарна": [
         "talking-AOC"
     ],
     "гафни": [
         "word-FOC"
     ],
-    "гваз": [
-        "with"
+    "гвадардай": [
+        "throwing.AOC-ENT-AOP"
     ],
-    "гвайтир": [
+    "гваз": [
+        "with",
+        "have-DAT"
+    ],
+    "гвай": [
         "was"
     ],
-    "гевгьерарар": [
+    "гевгьерар": [
         "pearls-PL"
     ],
-    "гевгьерардин": [
+    "гевгьеррин": [
         "pearls-ERG-GEN"
     ],
     "гейчек": [
         "beautiful"
     ],
-    "гелерихъхъ": [
+    "гелерихъ": [
         "footprint.to-POESS"
     ],
-    "гелкъвенна": [
+    "гелкъвена": [
         "looked.for-AOR"
     ],
     "гзаф": [
@@ -1662,8 +2289,8 @@
     "гила": [
         "now"
     ],
-    "гилани": [
-        "now-FOC"
+    "гила-": [
+        "now"
     ],
     "градус": [
         "degree"
@@ -1671,20 +2298,25 @@
     "границадиз": [
         "border-DIR-DAT"
     ],
-    "гудада": [
-        "give-ENT"
+    "гуда": [
+        "give-ENT",
+        "give-FUT",
+        "to.give-FUT"
     ],
-    "гудадаайвал": [
+    "гудайвал": [
         "give.will-ENT-AOP-PURP"
     ],
-    "гудаз": [
-        "give.will-DAT",
-        "give.will-IMC"
-    ],
-    "гудий.вал": [
+    "гудий~вал": [
         "TO.GIVE"
     ],
-    "гуззва": [
+    "гуз": [
+        "give.will-DAT",
+        "to.give-INF",
+        "give-IMC",
+        "give.will-IMC"
+    ],
+    "гузва": [
+        "to.give-IMPF",
         "give-IMPF"
     ],
     "гум": [
@@ -1697,40 +2329,8 @@
         "give.HORT",
         "to.give"
     ],
-    "гунай": [
-        "give-AOP"
-    ],
-    "гунда": [
-        "give-FUT",
-        "to.give-FUT"
-    ],
-    "гунз": [
-        "to.give-INF",
-        "give-IMC"
-    ],
-    "гунзва": [
-        "to.give-IMPF",
-        "give-IMPF"
-    ],
     "гуникай": [
         "giving-SBSS-AOP"
-    ],
-    "гунй": [
-        "give-PST"
-    ],
-    "гунйдалай": [
-        "give-PST-ENT-SPSS-AOP"
-    ],
-    "гунна": [
-        "give-AOC",
-        "return-AOR",
-        "give-AOR"
-    ],
-    "гуннач": [
-        "give-AOC-NEG"
-    ],
-    "гуннва": [
-        "give-PERF"
     ],
     "гутунна": [
         "attaching-AOC"
@@ -1738,26 +2338,27 @@
     "гуьгъуьна": [
         "behind"
     ],
-    "гуьзлемишинзва": [
+    "гуьзлемишзава": [
         "wait-IMPF"
     ],
     "гуьре": [
         "for"
     ],
-    "гъавурда.акьуна": [
-        "UNDERSTAND.AOR"
+    "гуьрметарна": [
+        "respect.do-PL-AOR"
     ],
-    "гъавурда.акьунана": [
-        "UNDERSTAND.AOR-AOR"
+    "гъавурда~акьуна": [
+        "UNDERSTAND.AOR-AOR",
+        "UNDERSTAND.AOR"
     ],
     "гъалиб": [
         "victorious"
     ],
-    "гъанана": [
+    "гъана": [
         "bring-AOR",
         "brought.AOR-AOR"
     ],
-    "гъананвай": [
+    "гъанвай": [
         "brought.AOR-PERF-PST"
     ],
     "гъваш": [
@@ -1776,103 +2377,75 @@
     "гъелни": [
         "plough-FOC"
     ],
-    "гъидада": [
+    "гъида": [
         "will.bring-ENT"
     ],
-    "гъидаз": [
-        "will.bring-DAT"
-    ],
-    "гъидан": [
-        "will.bring-HORT"
-    ],
     "гъиз": [
-        "bring.IMC"
+        "bring.IMC",
+        "will.bring-DAT"
     ],
     "гъил": [
         "hand"
     ],
-    "гъилай": [
-        "hand-EL"
-    ],
-    "гъилдин": [
-        "hand-OBL-GEN"
-    ],
     "гъиле": [
         "hand-INESS"
     ],
-    "гъилевдиз": [
+    "гъилеваз": [
         "hand-OBL-DAT"
     ],
-    "гъилердив": [
+    "гъилерив": [
         "hand-PL-ERG-AD"
     ],
     "гъиляй": [
-        "arm.from"
+        "arm.from",
+        "hand-EL"
     ],
     "гъин": [
-        "bring.HORT"
+        "bring.HORT",
+        "will.bring-HORT"
     ],
-    "гъишнини": [
+    "гъишни": [
         "bring.IMPV.Q-FOC"
     ],
-    "гъуьлуьндин": [
+    "гъуьлуьн": [
         "sea-ERG-GEN"
     ],
     "гьа": [
         "that,.the.same",
         "today"
     ],
-    "гьа.бередае": [
+    "гьа~береда": [
         "AT.THAT.TIME-INESS"
-    ],
-    "гьа.бередаени": [
-        "AT.THAT.TIME-INESS-FOC"
     ],
     "гьабур": [
         "them"
     ],
-    "гьабурди": [
+    "гьабури": [
         "them-ERG"
     ],
-    "гьабурдизни": [
+    "гьабуризни": [
         "them-ERG-DAT-FOC"
     ],
-    "гьабурдилаай": [
+    "гьабурилай": [
         "them-ERG-TEMP-AOP"
     ],
-    "гьабурдин": [
-        "them-ERG-GEN"
-    ],
     "гьабурни": [
-        "them-Q",
         "them-FOC"
+    ],
+    "гьабурун": [
+        "them-ERG-GEN"
     ],
     "гьава": [
         "weather"
     ],
-    "гьаванардин": [
-        "animal-PL-ERG-GEN"
-    ],
     "гьада": [
-        "then",
         "she"
     ],
     "гьадаз": [
-        "she-DAT"
-    ],
-    "гьадазни": [
-        "she-DAT-FOC"
-    ],
-    "гьадалаай": [
-        "she-TEMP-AOP"
-    ],
-    "гьадиз": [
+        "she-DAT",
         "that,.the.same-ERG-DAT"
     ],
-    "гьадилай": [
-        "today-OBL-SUPER-EL"
-    ],
-    "гьадин": [
+    "гьадан": [
         "that,.the.same-OBL-GEN"
     ],
     "гьадисени": [
@@ -1884,47 +2457,41 @@
     "гьайван": [
         "animal"
     ],
-    "гьакъикъете": [
-        "really-INESS"
+    "гьайванарин": [
+        "animal-PL-ERG-GEN"
     ],
     "гьакӀ": [
         "just"
     ],
-    "гьакӀди": [
+    "гьакӀа": [
         "just-ERG"
     ],
-    "гьалардикай": [
+    "гьаларикай": [
         "solution-PL-ERG-SBSS-EL"
     ],
-    "гьале": [
+    "гьалда": [
         "solution-INESS"
     ],
     "гьам": [
         "that"
     ],
-    "гьамамдадиз": [
+    "гьамамдиз": [
         "bathhouse.in?-DIR-DAT"
     ],
-    "гьаманини": [
-        "it.also-FOC"
-    ],
     "гьана": [
+        "today-AOR",
         "there"
     ],
     "гьанай": [
         "that-INELAT"
     ],
     "гьанал": [
+        "that-OBL-SPSS",
         "there-SPSS"
     ],
-    "гьандиз": [
-        "that-ERG-DAT"
-    ],
-    "гьандил": [
-        "that-OBL-SPSS"
-    ],
     "гьаниз": [
-        "there"
+        "there",
+        "that-ERG-DAT"
     ],
     "гьанузди": [
         "there-DIR"
@@ -1935,71 +2502,63 @@
     "гьарад": [
         "everybody"
     ],
-    "гьарадди": [
-        "everybody-ERG"
-    ],
-    "гьарайунзу": [
+    "гьарайзу": [
         "screaming-UNK"
     ],
-    "гьатдада": [
+    "гьатда": [
         "enter.FUT-FUT"
     ],
-    "гьатдана": [
-        "enter.FUT-AOR"
-    ],
-    "гьатунна": [
+    "гьатна": [
         "enter-AOC",
+        "enter.FUT-AOR",
         "enter-AOR"
     ],
-    "гьатуннва": [
+    "гьатнава": [
         "enter-PERF"
     ],
     "гьафте": [
         "week"
     ],
-    "гьафтее": [
+    "гьафтеда": [
         "week-INESS"
     ],
-    "гьахнва": [
-        "enter-PERF"
-    ],
-    "гьахунна": [
+    "гьахна": [
         "enter-AOR"
     ],
-    "гьахьинн": [
+    "гьахнава": [
+        "enter-PERF"
+    ],
+    "гьахьин": [
         "enter-HORT"
     ],
-    "гьахьтдин": [
-        "enter-OBL-GEN"
-    ],
-    "гьахьунай": [
+    "гьахьтай": [
         "enter-AOP"
     ],
-    "гьаятдалай": [
-        "yard.in-INELAT"
-    ],
-    "гьаятдалел": [
-        "yard.in-INESS-SPSS"
+    "гьахьтин": [
+        "enter-OBL-GEN"
     ],
     "гьаятдиз": [
         "life-OBL-DAT"
     ],
-    "гьаятдилайдилай": [
+    "гьаятдилай": [
         "life.from-SBST-SPSS-AOP"
     ],
     "гьаятдин": [
         "life-OBL-GEN"
     ],
-    "гьелбетдае": [
-        "Of.course-INESS"
+    "гьейетдай": [
+        "yard.in-INELAT"
     ],
-    "гьетта": [
-        "also"
+    "гьейетдал": [
+        "yard.in-INESS-SPSS"
+    ],
+    "гьелбетда": [
+        "Of.course-INESS"
     ],
     "гьефте": [
         "week"
     ],
-    "гьефтедилаай": [
+    "гьефтедлай": [
         "week-ERG-TEMP-INELAT"
     ],
     "гьи": [
@@ -2014,11 +2573,11 @@
     "гьикӀ": [
         "how"
     ],
-    "гьимаенда.йашамиш": [
-        "BROUGHT.UP"
-    ],
-    "гьимаене": [
+    "гьимаенда": [
         "brought.up-INESS"
+    ],
+    "гьимаенда~йашамиш": [
+        "BROUGHT.UP"
     ],
     "гьин": [
         "which"
@@ -2027,7 +2586,7 @@
         "where"
     ],
     "гьинай": [
-        "where-PST"
+        "which-INELAT"
     ],
     "гьинал": [
         "where-SPSS"
@@ -2036,11 +2595,8 @@
         "where.to",
         "where"
     ],
-    "гьисабинзва": [
+    "гьисабзава": [
         "count-IMPF"
-    ],
-    "гьисяте": [
-        "now-INESS"
     ],
     "гьич": [
         "never"
@@ -2054,18 +2610,17 @@
     "гьундуьрда": [
         "high"
     ],
-    "гьутӏанал": [
+    "гьутӀанал": [
         "that.yonder-SPSS"
     ],
-    "гьуьлундиз": [
-        "sea-ERG-DAT"
-    ],
-    "гьуьлундин": [
-        "sea-OBL-GEN",
+    "гьуьлун": [
         "sea-ERG-GEN"
     ],
-    "гьуьрметинарна": [
-        "respect.do-PL-AOR"
+    "гьуьлуьз": [
+        "sea-ERG-DAT"
+    ],
+    "гьуьлуьн": [
+        "sea-OBL-GEN"
     ],
     "гьым": [
         "Uhm"
@@ -2076,10 +2631,10 @@
     "дагъви": [
         "mountain.person"
     ],
-    "дагъвиардиз": [
+    "дагъвийриз": [
         "mountain.person-PL-ERG-DAT"
     ],
-    "дагълардилай": [
+    "дагъларилай": [
         "mountain-SPSS-PL-ERG-SPSS-EL"
     ],
     "дагъустанвидин": [
@@ -2094,13 +2649,13 @@
     "дахадихъ": [
         "elder.brother-OBL-POESS"
     ],
-    "девире": [
+    "девирда": [
         "time-INESS"
     ],
     "девлет": [
         "country"
     ],
-    "девлетарди": [
+    "девлетари": [
         "country-PL-ERG"
     ],
     "дегьшет": [
@@ -2121,7 +2676,7 @@
     "дели": [
         "mad"
     ],
-    "дерддинай": [
+    "дердинай": [
         "grief-ERG-GEN-EL"
     ],
     "дередин": [
@@ -2133,16 +2688,13 @@
     "десте": [
         "group"
     ],
-    "джафер": [
-        "Jaffer"
-    ],
     "диване": [
         "lovesick"
     ],
     "диде": [
         "mother"
     ],
-    "дидеарни": [
+    "дидевални": [
         "mother-PL-FOC"
     ],
     "дидеди": [
@@ -2166,13 +2718,13 @@
     "дили": [
         "language"
     ],
-    "динжвалдаарна": [
+    "динжарна": [
         "will.have.a.rest-PL-AOR"
     ],
-    "динжвалдавалда": [
+    "динжвалда": [
         "will.have.a.rest-PURP-FUT"
     ],
-    "дишегьлиярниарни": [
+    "дишегьлиярни": [
         "women.also-PL-FOC"
     ],
     "документар": [
@@ -2190,10 +2742,10 @@
     "дуствал": [
         "friendship"
     ],
-    "дустдини": [
+    "дустини": [
         "friend-ERG-FOC"
     ],
-    "дустндиз": [
+    "дустиниз": [
         "friend-HORT-ERG-DAT"
     ],
     "дуьз": [
@@ -2202,13 +2754,13 @@
     "дуьздик": [
         "right-DIR-SBSS"
     ],
-    "дуьзмуьшунайди": [
+    "дуьзмуьшайди": [
         "endure-AOP-DIR"
     ],
     "еврей": [
         "jewish"
     ],
-    "егьезавана": [
+    "егьена": [
         "is.putting-AOR"
     ],
     "еке": [
@@ -2220,21 +2772,30 @@
     "жаван": [
         "young"
     ],
+    "жагъурда": [
+        "find-ENT"
+    ],
     "жагъурна": [
         "find-AOR"
-    ],
-    "жагъурунда": [
-        "find-ENT"
     ],
     "жаза": [
         "punishment"
     ],
-    "жанавурди": [
+    "жамаатдин": [
+        "people-DIR-GEN"
+    ],
+    "жанавурри": [
         "wolk-ERG"
     ],
     "жеда": [
+        "be-ENT",
+        "be-INESS",
+        "be-FUT",
         "became.ENT",
         "was.ENT"
+    ],
+    "жеда~чавай": [
+        "be-FUT-TO.US-EL"
     ],
     "жедай": [
         "be-FUT-PTP"
@@ -2248,62 +2809,41 @@
     "жедач": [
         "can-NEG"
     ],
-    "жедачавай": [
-        "be-FUT-TO.US-EL"
-    ],
     "жедашни": [
         "can-NEG-FOC"
     ],
     "жедиш": [
         "be-SBST-NEG"
     ],
-    "жее": [
-        "be-INESS"
-    ],
     "жезва": [
         "be-IMPF"
     ],
+    "жезвай": [
+        "being-IMPF-PST"
+    ],
+    "жезвайди": [
+        "be-IMPF-PTP-DIR"
+    ],
     "жезвач": [
         "be-IMPF-NEG"
+    ],
+    "жезвачир": [
+        "be-IMPF-NEG.PST"
     ],
     "желб": [
         "attract"
     ],
     "жемир": [
-        "don't.be"
-    ],
-    "жемирмир": [
         "don't.be-PROH"
     ],
     "жемят": [
         "public"
     ],
-    "жемятарди": [
-        "people-DIR"
-    ],
-    "жемятардин": [
-        "people-DIR-GEN"
-    ],
     "жемятдиз": [
         "people.to"
     ],
-    "жемятдизни": [
-        "people.to.and"
-    ],
     "жен": [
         "being"
-    ],
-    "женда": [
-        "be-FUT"
-    ],
-    "жензвай": [
-        "being-IMPF-PST"
-    ],
-    "жензвайди": [
-        "be-IMPF-PTP-DIR"
-    ],
-    "жензвачир": [
-        "be-IMPF-NEG.PST"
     ],
     "жени": [
         "be.FUT.Q"
@@ -2323,22 +2863,20 @@
     "жув": [
         "us"
     ],
-    "жуваз": [
-        "yourself-DAT"
-    ],
-    "жувди": [
+    "жува": [
         "us-ERG"
     ],
-    "жувдиз": [
-        "us-ERG-DAT"
+    "жуваз": [
+        "us-ERG-DAT",
+        "yourself-DAT"
     ],
-    "жувдизни": [
+    "жувазни": [
         "us-ERG-DAT-FOC"
     ],
-    "жувдин": [
+    "жуван": [
         "us-OBL-GEN"
     ],
-    "жугванз": [
+    "жугваз": [
         "to.suffer-INF"
     ],
     "жузун": [
@@ -2356,26 +2894,18 @@
     "за": [
         "1sg.ERG"
     ],
-    "зав": [
-        "1sg.ERG-AD"
-    ],
-    "заваз": [
-        "I-DAT"
-    ],
     "завай": [
         "1sg.ERG-AD-EL"
     ],
     "заз": [
-        "1sg.ERG-DAT"
+        "1sg.ERG-DAT",
+        "I-DAT"
     ],
     "зазни": [
         "1sg.ERG-DAT-FOC"
     ],
     "зайиф": [
         "weak"
-    ],
-    "закай": [
-        "1sg.ERG-SUB-EL"
     ],
     "зал": [
         "1sg.ERG-SPSS"
@@ -2388,9 +2918,6 @@
     ],
     "зани": [
         "1sg.ERG-FOC"
-    ],
-    "занни": [
-        "1sg.ERG-GEN-FOC"
     ],
     "запрос": [
         "demand"
@@ -2413,7 +2940,7 @@
     "захъ": [
         "1sg.ERG-POESS"
     ],
-    "звоникел": [
+    "звоникдал": [
         "ring.button-INESS-SPSS"
     ],
     "зейиф": [
@@ -2422,14 +2949,9 @@
     "земляк": [
         "fellow.countryman"
     ],
-    "зенгина": [
+    "зенгна": [
+        "call-AOR",
         "let.call-AOR"
-    ],
-    "зенгинна": [
-        "call-AOR"
-    ],
-    "зерин": [
-        "run"
     ],
     "зи": [
         "1sg.gen"
@@ -2438,7 +2960,8 @@
         "my"
     ],
     "зу": [
-        "my"
+        "my",
+        "1sg.gen"
     ],
     "зун": [
         "1sg.abs"
@@ -2462,45 +2985,35 @@
         "exemplary"
     ],
     "ибур": [
-        "these"
+        "these",
+        "this-ABS.PL"
     ],
-    "ибурди": [
-        "these-ERG"
-    ],
-    "ибурдивай": [
-        "these-OBL-AD-EL"
-    ],
-    "ибурдиз": [
+    "ибуриз": [
         "these-OBL-DAT"
     ],
-    "ибурдизни": [
-        "these-ERG-DAT-FOC"
-    ],
-    "ибурдин": [
+    "ибурин": [
         "these-ERG-GEN",
-        "these-OBL-GEN"
-    ],
-    "ибурдини": [
-        "these-ERG-Q",
-        "these-ERG-FOC"
-    ],
-    "ибурикай": [
-        "they.from"
+        "these-OBL-GEN",
+        "this-ABS.PL-ERG-GEN"
     ],
     "ибурни": [
+        "these-FOC",
         "They"
     ],
     "ибуру": [
-        "They"
+        "They",
+        "these-ERG"
     ],
-    "ибурузни": [
-        "they.to.also"
+    "ибурувай": [
+        "these-OBL-AD-EL"
     ],
     "ибурун": [
+        "these-ERG-GEN",
         "their"
     ],
     "ибуруни": [
-        "They.and"
+        "They.and",
+        "these-ERG-Q"
     ],
     "иви": [
         "blood"
@@ -2515,51 +3028,30 @@
         "now"
     ],
     "ида": [
-        "her"
-    ],
-    "идавай": [
-        "he.from"
+        "her",
+        "this-ERG"
     ],
     "идаз": [
-        "her-DAT"
-    ],
-    "идазл": [
-        "him.to-SPSS"
-    ],
-    "идазни": [
-        "her-DAT-Q"
-    ],
-    "идан": [
-        "his"
-    ],
-    "идани": [
-        "he.and"
-    ],
-    "иданиз": [
         "he.also-DAT",
+        "her-DAT",
         "be-DAT"
     ],
-    "иданизни": [
-        "he.also-DAT-FOC"
-    ],
-    "иданикай": [
-        "she.and-SBSS-INELAT",
+    "идакай": [
         "he.also-SBSS-EL"
     ],
-    "иданил": [
-        "he.again-SPSS"
+    "идал": [
+        "he.again-SPSS",
+        "him.to-SPSS"
     ],
-    "иданин": [
+    "идан": [
+        "his",
         "he.also-GEN"
     ],
-    "иданини": [
+    "идани": [
         "he.also-FOC"
     ],
-    "иддихатизз": [
+    "иддихатиз": [
         "to.have.a.rest-INF"
-    ],
-    "иди": [
-        "this-ERG"
     ],
     "иер": [
         "beautiful"
@@ -2570,13 +3062,14 @@
     "изагьатар": [
         "testomonies"
     ],
-    "изатнана": [
+    "изатна": [
         "that.thing-AOR"
     ],
     "ийида": [
         "make-ENT"
     ],
-    "ийидаай": [
+    "ийидай": [
+        "do-FUT-PST",
         "make-ENT-INELAT"
     ],
     "ийидаш": [
@@ -2596,19 +3089,14 @@
         "make-PROH"
     ],
     "ийин": [
+        "do-MSD",
         "make-HORT",
         "make-GEN"
-    ],
-    "ийиндай": [
-        "do-FUT-PST"
-    ],
-    "ийинн": [
-        "do-MSD"
     ],
     "икьван": [
         "so.much"
     ],
-    "икьрарар": [
+    "икьрар": [
         "decision-PL",
         "agreement-PL"
     ],
@@ -2621,22 +3109,19 @@
     "илисарда": [
         "hidden?-PL-ENT"
     ],
-    "илисинна": [
+    "илисна": [
         "hidden-AOC"
     ],
     "им": [
-        "he",
         "she",
         "it",
-        "this"
+        "this",
+        "he",
+        "this-ABS"
     ],
     "има": [
         "this.one",
         "this"
-    ],
-    "имани": [
-        "this-Q",
-        "this-FOC"
     ],
     "имидини": [
         "uncle-OBL-AND"
@@ -2653,20 +3138,15 @@
     "ина": [
         "here"
     ],
-    "инади": [
-        "here-ERG"
-    ],
     "инай": [
         "here-PST"
     ],
     "инал": [
-        "here"
+        "here",
+        "here-SPSS"
     ],
     "иналай": [
         "here-SPSS-AOP"
-    ],
-    "инални": [
-        "here-FOC"
     ],
     "инани": [
         "here-FOC"
@@ -2674,7 +3154,10 @@
     "инанмиш": [
         "believe"
     ],
-    "инизз": [
+    "инара": [
+        "here-ERG"
+    ],
+    "иниз": [
         "here-DAT"
     ],
     "иникъ": [
@@ -2692,22 +3175,25 @@
     "инсанди": [
         "man-ERG"
     ],
-    "инсандин": [
-        "man-ERG-GEN"
-    ],
     "инсандихъ": [
         "man-ERG-POESS"
     ],
-    "истирагьатайдалайайдалай": [
+    "инсанрин": [
+        "man-ERG-GEN"
+    ],
+    "истирагьатайдалай": [
         "rest.from-AOP-ENT-TEMP-PST"
     ],
-    "историяар": [
+    "историяр": [
         "story-PL"
     ],
-    "истрагьетинна": [
+    "истрагьетна": [
         "have.are.rest-AOR"
     ],
-    "исятдае": [
+    "исяатни": [
+        "now-FOC"
+    ],
+    "исятда": [
         "now-INESS"
     ],
     "итем": [
@@ -2725,7 +3211,7 @@
     "ихьтин": [
         "such"
     ],
-    "ичӀернана": [
+    "ичӀерна": [
         "pouring.AOC-AOR"
     ],
     "ичӀи": [
@@ -2734,13 +3220,13 @@
     "ишаре": [
         "sign"
     ],
-    "иштиракунна": [
+    "иштиракна": [
         "participate-AOR"
     ],
-    "йаймишинна": [
+    "йаймишна": [
         "spread-AOR"
     ],
-    "йашамишунзва": [
+    "йашамишзава": [
         "live-IMPF"
     ],
     "йикъуз": [
@@ -2752,22 +3238,21 @@
     "йисар": [
         "year-PL"
     ],
-    "йисдиз": [
+    "йисиз": [
         "year-ERG-DAT"
     ],
-    "йитарар": [
+    "йитар": [
         "waters-PL"
     ],
     "йиф": [
         "night"
     ],
-    "йифдиз": [
+    "йифен": [
+        "night-OBL-GEN"
+    ],
+    "йифиз": [
         "night-OBL-DAT",
         "night-ERG-DAT"
-    ],
-    "йифдин": [
-        "night-OBL-GEN",
-        "night-ERG-GEN"
     ],
     "кагъаз": [
         "paper"
@@ -2775,8 +3260,11 @@
     "казарма": [
         "barrack"
     ],
-    "казармаел": [
+    "казармадал": [
         "barrack-INESS-SPSS"
+    ],
+    "кайла": [
+        "burn-PTP-TEMP"
     ],
     "кам": [
         "step"
@@ -2787,19 +3275,17 @@
     "камуз": [
         "to.the.bottom"
     ],
-    "канди": [
-        "want-ERG"
+    "кана": [
+        "burn-AOR"
     ],
-    "канивалвалдин": [
-        "love-PURP-ERG-GEN"
-    ],
-    "каниди": [
+    "кани": [
         "dear-ERG"
     ],
-    "канидивилдин": [
+    "канивилин": [
+        "love-PURP-ERG-GEN",
         "dear-ERG-.NESS-ERG-GEN"
     ],
-    "капаше": [
+    "капашда": [
         "hadful-INESS"
     ],
     "капитан": [
@@ -2817,40 +3303,35 @@
     "касдиз": [
         "man-OBL-DAT"
     ],
-    "касдин": [
-        "man-OBL-GEN"
-    ],
     "кассетар": [
         "casset-PL"
+    ],
+    "кастин": [
+        "man-OBL-GEN"
     ],
     "катда": [
         "ran.ENT"
     ],
-    "катинна": [
-        "running-AOC"
-    ],
     "катна": [
-        "running.AOC"
+        "running-AOC"
     ],
     "каф": [
         "foam"
     ],
-    "качалдивайдивай": [
+    "качалдивай": [
         "being.bald-DIR-AD-AOP"
     ],
     "кван": [
         "please.do"
     ],
     "квез": [
-        "2pl.dat"
+        "2pl.dat",
+        "you.to-DAT"
     ],
     "квезни": [
         "2pl.dat-FOC"
     ],
-    "квезниз": [
-        "you.to-DAT"
-    ],
-    "квекайай": [
+    "квекай": [
         "from.ya'll-AOP"
     ],
     "кеф": [
@@ -2868,31 +3349,25 @@
     "кицӀ": [
         "dog"
     ],
-    "кицӀдиз": [
+    "кицӀиз": [
         "dog-ERG-DAT"
     ],
-    "кицӀдин": [
+    "кицӀин": [
         "dog-ERG-GEN"
     ],
-    "кицӀдихъ": [
+    "кицӀихъ": [
         "dog-ERG-POESS"
-    ],
-    "кицӏ": [
-        "dog"
-    ],
-    "кицӏдизни": [
-        "dog-ERG-DAT-FOC"
     ],
     "кичӀе": [
         "fear"
     ],
-    "кишиннинзва": [
+    "кишинзава": [
         "hungry.also-GEN-IMPF"
     ],
-    "ккӀидада": [
+    "ккӀида": [
         "fight.FUT-ENT"
     ],
-    "ковше": [
+    "ковшда": [
         "mug?-INESS"
     ],
     "комиссоватна": [
@@ -2907,53 +3382,41 @@
     "крар": [
         "things"
     ],
-    "крардикай": [
-        "things-ERG-SBSS-INELAT"
-    ],
-    "ксунна": [
+    "ксана": [
         "sleep-AOR"
     ],
-    "ксуннвай": [
+    "ксанвай": [
         "sleep-PERF-PTP"
     ],
     "ктаб": [
         "book"
     ],
-    "ктабе": [
+    "ктабда": [
         "book-INESS"
     ],
-    "ктадмирмир": [
+    "ктадмир": [
         "touch.not.PROHIB-PROH"
     ],
     "ктӀан": [
         "beat"
     ],
-    "куднана": [
+    "кудна": [
         "hang.AOC-AOR"
     ],
-    "кумазнини": [
+    "кумазни": [
         "as.soon.as-FOC"
-    ],
-    "кунйла": [
-        "burn-PTP-TEMP"
-    ],
-    "кунна": [
-        "burn-AOR"
     ],
     "купча": [
         "bill.of.sale"
     ],
-    "кутадада": [
+    "кутада": [
         "put.ENT-ENT"
     ],
-    "кутунана": [
+    "кутуна": [
         "put-AOC"
     ],
-    "кутунанва": [
+    "кутунва": [
         "put-PERF"
-    ],
-    "кутунна": [
-        "put-AOC"
     ],
     "кутӀур": [
         "create"
@@ -2961,7 +3424,7 @@
     "кутӀура": [
         "create"
     ],
-    "кучукунна": [
+    "кучукна": [
         "bury-AOR"
     ],
     "куь": [
@@ -2991,29 +3454,32 @@
     "куьтях": [
         "finish"
     ],
-    "куьтяхинна": [
+    "куьтяхна": [
         "finished-AOC"
     ],
     "куьч": [
         "move"
     ],
-    "кхьананва": [
+    "кхьайтӀа": [
+        "write-PST-COND"
+    ],
+    "кхьана": [
+        "write-AOR"
+    ],
+    "кхьанва": [
         "write-PERF"
     ],
-    "кхьиддаай": [
+    "кхьидай": [
         "writing-ENT-AOP"
     ],
     "кхьин": [
         "to.write"
     ],
-    "кхьинйтӀа": [
-        "write-PST-COND"
-    ],
-    "кхьинна": [
-        "write-AOR"
-    ],
     "кхьихь": [
         "write"
+    ],
+    "кцӀизни": [
+        "dog-ERG-DAT-FOC"
     ],
     "къабагъы": [
         "front"
@@ -3021,53 +3487,42 @@
     "къавумдини": [
         "relative-DIR-FOC"
     ],
-    "къагъанана": [
+    "къагъана": [
         "bring.again-AOR"
     ],
     "къаз": [
         "to.catch"
     ],
-    "къазах": [
-        "kazakh"
-    ],
-    "къазахстандае": [
-        "Kazakhstan.in-INESS"
-    ],
-    "къакъатнана": [
+    "къакъатна": [
         "separate.AOR-AOR"
     ],
-    "къакъуднана": [
+    "къакъудна": [
         "removing.AOC-AOR"
     ],
     "къалай": [
+        "day.till-INELAT",
         "day.from"
     ],
     "къалди": [
         "day.till-DIR"
     ],
-    "къалурзва": [
+    "къалурзава": [
         "show-IMPF"
     ],
-    "къалурунзвач": [
+    "къалурзавач": [
         "show-IMPF-NEG"
     ],
-    "къалурунна": [
+    "къалурна": [
         "show-AOR",
         "show-AOC"
-    ],
-    "къамнини": [
-        "sadness.also-FOC"
-    ],
-    "къандиардин": [
-        "want-ERG-PL-ERG-GEN"
     ],
     "къанни": [
         "twenty"
     ],
-    "къанни.вад": [
+    "къанни~вад": [
         "TWENTY.FIVE"
     ],
-    "къапинадина": [
+    "къапина": [
         "jar-ERG-AOR"
     ],
     "къарагъна": [
@@ -3076,19 +3531,14 @@
     "къари": [
         "old.woman"
     ],
-    "къарлай": [
-        "days-SPSS-EL"
-    ],
-    "къатканва": [
-        "lied-PERF"
-    ],
-    "къаткунна": [
+    "къаткана": [
         "lie-AOC"
     ],
-    "къаткуннва": [
+    "къатканава": [
+        "lied-PERF",
         "lie-PERF"
     ],
-    "къахчунана": [
+    "къахчуна": [
         "take-AOR"
     ],
     "къачал": [
@@ -3098,71 +3548,56 @@
         "out"
     ],
     "къачу": [
-        "take.IMPV"
-    ],
-    "къачуда": [
-        "take-FUT"
-    ],
-    "къачуе": [
-        "take-INESS"
-    ],
-    "къачун": [
+        "take.IMPV",
         "take"
     ],
-    "къачуна": [
-        "take-AOR"
+    "къачуда": [
+        "take-FUT",
+        "take-INESS"
     ],
-    "къачунда": [
-        "take-FUT"
-    ],
-    "къачунз": [
+    "къачуз": [
         "take-INF"
     ],
-    "къачунла": [
+    "къачуна": [
+        "take-AOC",
+        "take-AOR"
+    ],
+    "къачурла": [
+        "take.TEMP-TEMP",
         "take-TEMP"
-    ],
-    "къачунна": [
-        "take-AOC"
-    ],
-    "къачуннва": [
-        "buy-PERF"
-    ],
-    "къачурлала": [
-        "take.TEMP-TEMP"
     ],
     "къвазара": [
         "stop"
     ],
-    "къвазназва": [
-        "stayed-IMPF"
-    ],
-    "къвазнана": [
+    "къвазна": [
         "stayed-AOR",
         "stopped.AOR-AOR"
     ],
-    "къвазнанва": [
+    "къвазнава": [
         "stayed-PERF"
     ],
-    "къвалахунзва": [
+    "къвалахзава": [
         "working-IMPF"
     ],
     "къван": [
         "stone"
     ],
-    "къванана": [
+    "къвана": [
         "fell-AOR"
     ],
-    "къванардин": [
+    "къванерин": [
         "stone-PL-OBL-GEN"
     ],
     "къвед": [
         "two"
     ],
     "къведа": [
-        "come-ENT"
+        "come-ENT",
+        "come-INESS",
+        "come-FUT"
     ],
-    "къвее": [
-        "come-INESS"
+    "къведий": [
+        "come-SBST-PST"
     ],
     "къвез": [
         "coming"
@@ -3170,14 +3605,8 @@
     "къвезва": [
         "come-IMPF"
     ],
-    "къвенда": [
-        "come-FUT"
-    ],
-    "къвендий": [
-        "come-SBST-PST"
-    ],
-    "къвензва": [
-        "come-IMPF"
+    "къгъанава": [
+        "buy-PERF"
     ],
     "къе": [
         "today"
@@ -3194,24 +3623,25 @@
     "къеледиз": [
         "fortress-OBL-DAT"
     ],
-    "къеледин": [
-        "fortress-OBL-GEN"
-    ],
     "къен": [
         "inside"
     ],
-    "къендар": [
+    "къендер": [
         "sugarcube-PL"
     ],
-    "къендин": [
-        "today-GEN-ERG-GEN"
-    ],
     "къене": [
+        "inside-INESS",
         "inside"
+    ],
+    "къенин": [
+        "today-GEN-ERG-GEN"
     ],
     "къерардиз": [
         "decision-OBL-DAT",
         "decision-ERG-DAT"
+    ],
+    "къерехда": [
+        "side-INESS"
     ],
     "къерехдив": [
         "bank-ERG-AD"
@@ -3221,9 +3651,6 @@
     ],
     "къерехдилай": [
         "bank-DIR-SPSS-EL"
-    ],
-    "къерехе": [
-        "side-INESS"
     ],
     "къери": [
         "more"
@@ -3249,44 +3676,38 @@
     "къужахда": [
         "in.the.arms"
     ],
-    "къужахтавдиз": [
+    "къужахтаваз": [
         "hand.in-OBL-DAT"
     ],
     "къула": [
-        "fireplace.in"
+        "fireplace.in",
+        "fireplace-INESS"
     ],
-    "къулдиз": [
+    "къулаз": [
         "fireplace-OBL-DAT"
     ],
     "къулдурни": [
         "robbers-Q"
     ],
-    "къуле": [
-        "fireplace-INESS"
-    ],
     "къулухъ": [
         "after"
     ],
     "къуна": [
-        "took"
+        "took-AOR",
+        "took",
+        "take-AOR",
+        "took-AOC"
     ],
     "къунва": [
         "took"
     ],
-    "къунвана": [
-        "took-AOR",
-        "took-AOC"
-    ],
-    "къунна": [
-        "take-AOR"
-    ],
     "къунши": [
         "neighbor"
     ],
-    "къуншиар": [
+    "къуншияр": [
         "neighbor-PL"
     ],
-    "къуранз": [
+    "къураз": [
         "pine-DAT"
     ],
     "къуру": [
@@ -3295,14 +3716,12 @@
     "къуш": [
         "bird"
     ],
-    "къуьнелел": [
+    "къуьнел": [
         "shoulder-INESS-SPSS"
     ],
-    "кьадада": [
+    "кьада": [
+        "bought-INESS",
         "bought-ENT"
-    ],
-    "кьадае": [
-        "bought-INESS"
     ],
     "кьадар": [
         "enough"
@@ -3310,7 +3729,7 @@
     "кьадатӀа": [
         "take.FUT.COND"
     ],
-    "кьатӀизвазва": [
+    "кьатӀизва": [
         "see-IMPF"
     ],
     "кьван": [
@@ -3322,26 +3741,23 @@
     "кьвед": [
         "two"
     ],
-    "кьвед.лагьай": [
-        "SECOND"
-    ],
-    "кьведдиз": [
-        "two-OBL-DAT"
-    ],
-    "кьведини": [
+    "кьведани": [
         "two-ERG-Q"
     ],
     "кьей": [
         "die"
     ],
-    "кьенаай": [
+    "кьейи": [
         "die.AOC-AOP"
     ],
-    "кьенана": [
+    "кьена": [
         "died.AOC-AOC"
     ],
-    "кьенанва": [
+    "кьенва": [
         "died.AOC-PERF"
+    ],
+    "кьенвай": [
+        "die-PERF-PST"
     ],
     "кьехе": [
         "neck"
@@ -3350,23 +3766,13 @@
         "head",
         "chapter"
     ],
-    "кьилай": [
-        "chapter-EL"
-    ],
-    "кьилдилни": [
-        "chapter-ERG-SPSS-FOC"
-    ],
-    "кьилдин": [
-        "chapter-ERG-GEN"
-    ],
-    "кьилдихъ": [
-        "chapter-OBL-POESS"
-    ],
-    "кьилдихъни": [
-        "head-OBL-POESS-FOC"
-    ],
     "кьилел": [
+        "chapter-INESS-SPSS",
+        "head-INESS-SPSS",
         "top.on"
+    ],
+    "кьилелни": [
+        "chapter-ERG-SPSS-FOC"
     ],
     "кьилер": [
         "chapter-PL"
@@ -3374,11 +3780,23 @@
     "кьилерни": [
         "chapter-PL-FOC"
     ],
-    "кьилз": [
+    "кьилиз": [
         "chapter-IMC"
+    ],
+    "кьилин": [
+        "chapter-ERG-GEN"
+    ],
+    "кьилихъ": [
+        "chapter-OBL-POESS"
+    ],
+    "кьилихъни": [
+        "head-OBL-POESS-FOC"
     ],
     "кьилни": [
         "chapter-FOC"
+    ],
+    "кьиляй": [
+        "chapter-EL"
     ],
     "кьимет": [
         "price"
@@ -3386,7 +3804,7 @@
     "кьиса": [
         "a.story"
     ],
-    "кьисметдае": [
+    "кьисметда": [
         "fate-INESS"
     ],
     "кьуд": [
@@ -3398,10 +3816,8 @@
     "кьулухь": [
         "after"
     ],
-    "кьунана": [
-        "took-AOR"
-    ],
-    "кьунна": [
+    "кьуна": [
+        "took-AOR",
         "took-AOC"
     ],
     "кьуьзуь": [
@@ -3416,7 +3832,7 @@
     "кьуьруьдаказ": [
         "basically"
     ],
-    "кюветдиздиз": [
+    "кюветдиз": [
         "ditch-DIR-DAT"
     ],
     "кӀадар": [
@@ -3425,9 +3841,13 @@
     "кӀан": [
         "want"
     ],
+    "кӀана": [
+        "want-INESS"
+    ],
     "кӀанда": [
         "want-FUT",
-        "want-ENT"
+        "want-ENT",
+        "want-INESS"
     ],
     "кӀандай": [
         "want-ENT-PST"
@@ -3435,28 +3855,28 @@
     "кӀандани": [
         "want-ENT-FOC"
     ],
-    "кӀанди": [
-        "want-ERG"
+    "кӀанзава": [
+        "want-IMPF"
     ],
-    "кӀандиз": [
-        "want-ERG-DAT",
-        "botoom.at-ERG-DAT"
-    ],
-    "кӀандик": [
-        "want-ERG-SBSS"
-    ],
-    "кӀане": [
-        "want-INESS"
+    "кӀанзавай": [
+        "want-IMPF-PST",
+        "want-IMPF-PTP"
     ],
     "кӀанзва": [
         "want-IMPF"
     ],
-    "кӀанзвай": [
-        "want-IMPF-PST",
-        "want-IMPF-PTP"
+    "кӀани": [
+        "want-ERG"
+    ],
+    "кӀаник": [
+        "want-ERG-SBSS"
     ],
     "кӀантӀани": [
         "want.COND.FOC"
+    ],
+    "кӀануз": [
+        "want-ERG-DAT",
+        "botoom.at-ERG-DAT"
     ],
     "кӀарабни": [
         "bone-Q"
@@ -3464,23 +3884,24 @@
     "кӀарасар": [
         "wood-PL"
     ],
-    "кӀарасарар": [
-        "wood-PL"
-    ],
     "кӀарасарни": [
         "wood-PL-FOC"
     ],
-    "кӀваларе": [
+    "кӀвала": [
+        "house-INESS"
+    ],
+    "кӀвалара": [
         "house-PL-INESS"
     ],
     "кӀвалах": [
         "deed"
     ],
-    "кӀвалдиз": [
-        "house-OBL-DAT"
-    ],
     "кӀвале": [
+        "house-INESS",
         "room.at"
+    ],
+    "кӀвализ": [
+        "house-OBL-DAT"
     ],
     "кӀватӀ": [
         "group"
@@ -3494,13 +3915,13 @@
     "кӀевиз": [
         "strong"
     ],
-    "кӀевиннвай": [
+    "кӀевнавай": [
         "cover-PERF-PTP"
     ],
     "кӀелдин": [
         "read-SBST-HORT"
     ],
-    "кӀукӀвдил": [
+    "кӀукӀвал": [
         "top.on-OBL-SPSS"
     ],
     "кӀурцӀул": [
@@ -3518,30 +3939,33 @@
     "кӀурцӀулдихъ": [
         "puppy-DIR-POESS"
     ],
-    "кӀцарвиар": [
+    "кӀцарвияр": [
         "gusaris-PL"
     ],
     "лагердиз": [
         "camp-DIR-DAT"
     ],
-    "лагьа": [
+    "лагь": [
         "say.IMP",
         "say"
     ],
-    "лагьаай": [
-        "say-AOP"
-    ],
-    "лагьадина": [
-        "say-ERG-AOR"
-    ],
     "лагьай": [
-        "say-PST"
+        "say-PST",
+        "say-AOP"
     ],
     "лагьайвал": [
         "say-PST-PURP"
     ],
+    "лагьайтӀа": [
+        "say-PST-COND"
+    ],
     "лагьана": [
-        "say-AOR"
+        "say-AOC",
+        "say-AOR",
+        "say-ERG-AOR"
+    ],
+    "лагьанач": [
+        "say-AOR-NEG"
     ],
     "лайих": [
         "worthy"
@@ -3555,16 +3979,7 @@
     "лезги": [
         "Lezgi"
     ],
-    "лезгиарни": [
-        "Lezgi-PL-FOC"
-    ],
-    "лейли": [
-        "Leyli"
-    ],
-    "ленинграддиндин": [
-        "Leningrad's-DIR-GEN"
-    ],
-    "лепеярар": [
+    "лепеяр": [
         "waves-PL"
     ],
     "летний": [
@@ -3573,30 +3988,24 @@
     "линия": [
         "line"
     ],
-    "лув": [
-        "wing"
-    ],
-    "лув.ганана": [
+    "лув~гана": [
         "FLEW-AOR"
     ],
     "лугьуда": [
-        "said.ENT"
-    ],
-    "лугьудаай": [
-        "say-ENT-AOP"
+        "say-ENT",
+        "say-INESS",
+        "said.ENT",
+        "say-FUT"
     ],
     "лугьудай": [
-        "say-FUT-PST"
-    ],
-    "лугьуе": [
-        "say-INESS"
-    ],
-    "лугьуей": [
+        "say-FUT-PST",
+        "say-ENT-AOP",
         "say-INESS-PST"
     ],
     "лугьуз": [
         "say-IMC",
-        "say-DAT"
+        "say-DAT",
+        "say-INF"
     ],
     "лугьузва": [
         "say-IMPF"
@@ -3607,38 +4016,17 @@
     "лугьун": [
         "say-MSD"
     ],
-    "лугьунда": [
-        "say-FUT",
-        "say-ENT"
-    ],
-    "лугьунз": [
-        "say-IMC",
-        "say-INF"
-    ],
-    "лугьунзва": [
-        "say-IMPF"
-    ],
-    "лугьунйтӀа": [
-        "say-PST-COND"
-    ],
-    "лугьунна": [
-        "say-AOC",
-        "say-AOR"
-    ],
-    "лугьуннач": [
-        "say-AOR-NEG"
-    ],
-    "лугьунрай": [
+    "лугьурай": [
         "say-OPT"
     ],
-    "луьквензаванзва": [
+    "луьквензава": [
         "grumbles-HORT-IMPF"
+    ],
+    "луьткведа": [
+        "boat-INESS"
     ],
     "луьткведаваз": [
         "boat.in.being.IMC"
-    ],
-    "луьтквее": [
-        "boat-INESS"
     ],
     "луьтквечидини": [
         "boatman-DIR-FOC"
@@ -3653,13 +4041,15 @@
         "you.know",
         "here.you.go"
     ],
-    "магьалдае": [
+    "магьалда": [
         "district-INESS"
     ],
     "мад": [
         "more"
     ],
     "мадни": [
+        "more-FOC",
+        "more-Q",
         "again"
     ],
     "мама": [
@@ -3667,9 +4057,6 @@
     ],
     "мамадиз": [
         "mother-OBL-DAT"
-    ],
-    "мамани": [
-        "mother-FOC"
     ],
     "ман": [
         "you.know"
@@ -3680,7 +4067,7 @@
     "мани": [
         "song"
     ],
-    "манийдиз": [
+    "манийриз": [
         "song-PST-OBL-DAT"
     ],
     "маракьлы": [
@@ -3691,9 +4078,6 @@
     ],
     "маса": [
         "other"
-    ],
-    "масаез": [
-        "sell-INESS-DAT"
     ],
     "масан": [
         "beauty"
@@ -3710,19 +4094,19 @@
     "машинар": [
         "car-PL"
     ],
-    "машинарди": [
+    "машинара": [
         "car-PL-ERG"
     ],
     "межлис": [
         "event"
     ],
-    "межлисе": [
+    "межлисда": [
         "even-INESS"
     ],
     "мез": [
         "tongue"
     ],
-    "мейдандалел": [
+    "мейдандал": [
         "town.square-INESS-SPSS"
     ],
     "мейил": [
@@ -3737,10 +4121,10 @@
     "месела": [
         "story"
     ],
-    "меслегьетарнана": [
+    "меслегьетарна": [
         "decided-AOR"
     ],
-    "меслятдивв": [
+    "меслятдив": [
         "advice.at-AD"
     ],
     "метлеб": [
@@ -3752,20 +4136,18 @@
     "метӀегъ": [
         "kind"
     ],
-    "мехъерарар": [
+    "мехъерар": [
         "wedding-PL"
     ],
-    "мехъерарарда": [
+    "мехъерарда": [
         "wedding-PL-ENT"
     ],
-    "мехъерарарна": [
+    "мехъерарна": [
+        "being.wed.AOC",
         "wedding-PL-AOR"
     ],
-    "мехъерардихъ": [
+    "мехъерихъ": [
         "wedding-ERG-POESS"
-    ],
-    "мехъерарна": [
-        "being.wed.AOC"
     ],
     "миллет": [
         "nation"
@@ -3788,13 +4170,10 @@
     "мицибур": [
         "others"
     ],
-    "мицибурди": [
-        "others-ERG"
-    ],
     "мицид": [
         "another"
     ],
-    "мицидди": [
+    "мицида": [
         "another-ERG"
     ],
     "момент": [
@@ -3815,6 +4194,9 @@
     "мугьарибе": [
         "war"
     ],
+    "мугьарибейра": [
+        "war"
+    ],
     "мугьубат": [
         "love"
     ],
@@ -3822,8 +4204,7 @@
         "love-ERG-SBSS-EL"
     ],
     "мугьубатдин": [
-        "love-ERG-GEN",
-        "love-OBL-GEN"
+        "love-ERG-GEN"
     ],
     "мукьвал": [
         "near"
@@ -3834,7 +4215,7 @@
     "муькуь": [
         "other.one"
     ],
-    "муькуьбурунидини": [
+    "муькуьбуруни": [
         "others.and-ERG-FOC"
     ],
     "муьстекъил": [
@@ -3847,22 +4228,17 @@
         "strong"
     ],
     "на": [
-        "you"
+        "you",
+        "2sg.erg"
     ],
     "нагьахъ": [
         "in.vain"
     ],
-    "назир": [
-        "Nazir"
-    ],
     "накьв": [
         "soil"
     ],
-    "накьвадикайдикай": [
+    "накьвадикай": [
         "soil.from.under-DIR-SBSS-INELAT"
-    ],
-    "накьввар": [
-        "soil-AD-PL"
     ],
     "направление": [
         "direction.(rus)"
@@ -3870,25 +4246,22 @@
     "не": [
         "not"
     ],
-    "не.исе": [
+    "не~исе": [
         "ANYWAY"
     ],
     "негъе": [
         "evening"
     ],
-    "негъен": [
-        "evening"
-    ],
     "некедикай": [
         "milk-SBSS-EL"
     ],
-    "немецардиз": [
+    "немецариз": [
         "german-PL-ERG-DAT"
     ],
-    "немецардинни": [
+    "немецаринни": [
         "Germans-ERG-GEN-FOC"
     ],
-    "немецархъ": [
+    "немецарихъ": [
         "Germans-POESS"
     ],
     "немецди": [
@@ -3906,20 +4279,11 @@
     "ният": [
         "intention"
     ],
-    "но": [
-        "But"
-    ],
-    "ну": [
-        "well"
-    ],
     "няни": [
         "evening"
     ],
     "нянихъди": [
         "evening-POESS-DIR"
-    ],
-    "о": [
-        "Too"
     ],
     "обед": [
         "dinner"
@@ -3927,14 +4291,13 @@
     "оказывается": [
         "turned.out"
     ],
-    "окруженияе": [
+    "окруженияда": [
         "encirclement-INESS"
     ],
     "он": [
-        "ten",
-        "he"
+        "ten"
     ],
-    "ондокъкъуздиздиз": [
+    "ондокъкъуздиз": [
         "nineteen.in-DIR-DAT"
     ],
     "отвечает": [
@@ -3943,7 +4306,7 @@
     "отпуска": [
         "vacation"
     ],
-    "охранади": [
+    "охрана": [
         "security-ERG"
     ],
     "паб": [
@@ -3951,9 +4314,6 @@
     ],
     "пад": [
         "side"
-    ],
-    "паекни": [
-        "ration"
     ],
     "пакани": [
         "tomorrow-Q"
@@ -3964,29 +4324,25 @@
     "палкандивай": [
         "horse-OBL-AD-EL"
     ],
-    "пападиз": [
-        "wife-ERG-DAT"
-    ],
     "папаз": [
+        "wife-ERG-DAT",
         "wife-DAT"
     ],
     "пара": [
         "very"
     ],
-    "паркдинай": [
+    "паркинай": [
         "park-ERG-GEN-AOP"
     ],
-    "паркдинз": [
+    "паркиниз": [
         "park-ERG-GEN-DAT"
     ],
     "паспорт": [
         "pasport"
     ],
-    "паспортар": [
-        "pasport-PL"
-    ],
     "патав": [
-        "to"
+        "to",
+        "side.on-AD"
     ],
     "патай": [
         "side"
@@ -3995,12 +4351,11 @@
         "for"
     ],
     "патал": [
+        "side-OBL-SPSS",
         "for"
     ],
     "паталай": [
-        "side.on-INELAT"
-    ],
-    "паталдиай": [
+        "side.on-INELAT",
         "side.on-SPSS-ERG-INELAT",
         "side.on-SPSS-ERG-AOP"
     ],
@@ -4008,19 +4363,15 @@
         "side.on-FOC"
     ],
     "патахъ": [
+        "side.on-POESS",
         "side"
-    ],
-    "патдил": [
-        "side-OBL-SPSS"
     ],
     "пачагь": [
         "king"
     ],
-    "пачагьвалдадиз": [
-        "reigned.ENT-ERG-DAT"
-    ],
     "пачагьвализ": [
-        "reign.to"
+        "reign.to",
+        "reigned.ENT-ERG-DAT"
     ],
     "пачагьдиз": [
         "king-DIR-DAT"
@@ -4034,14 +4385,12 @@
     "пачагьни": [
         "king-Q"
     ],
-    "певицаярниарни": [
+    "певицаярни": [
         "singers.also-PL-FOC"
     ],
     "пекер": [
+        "clothes-PL",
         "clothes"
-    ],
-    "пекерер": [
-        "clothes-PL"
     ],
     "пекерни": [
         "clothes-FOC"
@@ -4049,7 +4398,7 @@
     "пекни": [
         "cloth"
     ],
-    "пенжерай": [
+    "пенжердай": [
         "window-INELAT"
     ],
     "пепе": [
@@ -4058,13 +4407,10 @@
     "пешком": [
         "on.foot"
     ],
-    "пиларамаярар": [
+    "пиларамаяр": [
         "saw.mills-PL"
     ],
-    "писвалвал": [
-        "evil-PURP"
-    ],
-    "пичиндил": [
+    "пичинал": [
         "stove-OBL-SPSS"
     ],
     "плен": [
@@ -4088,29 +4434,23 @@
     "пуд": [
         "three"
     ],
-    "пудди": [
+    "пуда": [
         "three-ERG"
     ],
     "пул": [
         "money"
     ],
-    "пятьдесят": [
-        "fifty"
-    ],
-    "пӀузарарарар": [
+    "пӀузарар": [
         "lips-PL-PL"
     ],
-    "пӀузарарарел": [
+    "пӀузаррал": [
         "lips-PL-INESS-SPSS"
     ],
     "рази": [
         "agree"
     ],
-    "райондиздиз": [
+    "райондиз": [
         "coutryside.to-DIR-DAT"
-    ],
-    "рак": [
-        "door"
     ],
     "ракъайтӀа": [
         "send.PTP.COND"
@@ -4118,29 +4458,29 @@
     "ракъуда": [
         "sent.ENT"
     ],
-    "ракъурунзва": [
+    "ракъузва": [
         "send-IMPF"
     ],
-    "рахазз": [
+    "рахаз": [
         "speak.to-INF"
     ],
-    "рахкудада": [
+    "рахазва": [
+        "speak-IMPF"
+    ],
+    "рахкана": [
+        "give.back-AOR"
+    ],
+    "рахкуда": [
         "sent.ENT-ENT"
     ],
-    "рахкъурнва": [
+    "рахкъурнава": [
         "send-PERF"
-    ],
-    "рахунзва": [
-        "speak-IMPF"
     ],
     "регьет": [
         "easy"
     ],
     "регьметлу": [
         "dead"
-    ],
-    "рекъдиз": [
-        "way,.road-ERG-DAT"
     ],
     "рекъе": [
         "way,.road-INESS"
@@ -4151,31 +4491,29 @@
     "рекъелай": [
         "way,.road-INESS-SUPER-AOP"
     ],
-    "рекъиннвай": [
-        "die-PERF-PST"
-    ],
-    "рекьар": [
-        "way-PL"
-    ],
-    "рекьдиз": [
-        "way-ERG-DAT"
+    "рекъиз": [
+        "way,.road-ERG-DAT"
     ],
     "рекье": [
         "way-INESS"
     ],
+    "рекьер": [
+        "way-PL"
+    ],
     "рекьида": [
+        "die-INESS",
         "die-FUT"
     ],
-    "рекьие": [
-        "die-INESS"
+    "рекьиз": [
+        "way-ERG-DAT"
     ],
-    "республикаардиз": [
+    "республикайриз": [
         "countries-PL-ERG-DAT"
     ],
     "рессамдиз": [
         "artist-DIR-DAT"
     ],
-    "ресторандиздиз": [
+    "ресторандиз": [
         "restaurant.to-OBL-DAT"
     ],
     "рехъ": [
@@ -4185,14 +4523,14 @@
     "рикӀ": [
         "heart"
     ],
-    "рикӀдивайни": [
-        "heart-ERG-AD-EL-FOC"
-    ],
-    "рикӀдил": [
+    "рикӀал": [
         "heart-OBL-SPSS"
     ],
     "рикӀе": [
         "heart-INESS"
+    ],
+    "рикӀивайни": [
+        "heart-ERG-AD-EL-FOC"
     ],
     "ругуд": [
         "six"
@@ -4200,42 +4538,33 @@
     "ругь": [
         "soul"
     ],
-    "руказардиз": [
-        "forest.to-PL-ERG-DAT"
-    ],
-    "руказдиз": [
+    "руказ": [
         "forest.to-OBL-DAT"
+    ],
+    "рукариз": [
+        "forest.to-PL-ERG-DAT"
     ],
     "руш": [
         "girl"
     ],
     "руша": [
+        "girl-ERG",
         "girl"
+    ],
+    "рушаз": [
+        "girl-ERG-DAT",
+        "girl-OBL-DAT"
+    ],
+    "рушан": [
+        "girl-ERG-GEN"
     ],
     "рушар": [
         "girl-PL"
     ],
-    "рушардин": [
-        "girl-PL-ERG-GEN"
-    ],
-    "рушахъ": [
-        "girl.with"
-    ],
-    "рушди": [
-        "girl-ERG"
-    ],
-    "рушдиз": [
-        "girl-ERG-DAT",
-        "girl-OBL-DAT"
-    ],
-    "рушдин": [
-        "girl-ERG-GEN"
-    ],
-    "рушдини": [
-        "girl-ERG-FOC"
-    ],
     "рушни": [
-        "girl.and"
+        "girl.and",
+        "girl-FOC",
+        "girl-Q"
     ],
     "са": [
         "one"
@@ -4243,41 +4572,33 @@
     "сабур": [
         "patience"
     ],
-    "сагъ.хьурай": [
+    "сагъ~хьурай": [
         "THANK.YOU"
     ],
-    "сагъарнаарна": [
+    "сагъарна": [
         "heal.AOC-PL-AOR"
     ],
-    "сагъарнарай": [
+    "сагърай": [
         "heal.AOC-OPT"
     ],
     "сад": [
         "one"
     ],
-    "сад.лагьанана": [
+    "сад~лагьана": [
         "SUDDENLY-AOR"
     ],
-    "садди": [
+    "сада": [
         "one-ERG"
     ],
     "садни": [
         "one-FOC"
     ],
-    "садра": [
-        "once"
-    ],
-    "садрани": [
-        "once-FOC"
-    ],
     "сакит": [
         "calm"
     ],
     "сакӀани": [
+        "in.no.way-FOC",
         "in.no.way"
-    ],
-    "сакӀанини": [
-        "in.no.way-FOC"
     ],
     "саламат": [
         "well"
@@ -4285,13 +4606,16 @@
     "санал": [
         "together"
     ],
+    "сандрани": [
+        "once-FOC"
+    ],
     "саниз": [
         "because.of"
     ],
     "сарах": [
         "once"
     ],
-    "саягъе": [
+    "саягъда": [
         "from.in-INESS"
     ],
     "свас": [
@@ -4300,22 +4624,13 @@
     "свасни": [
         "bride"
     ],
-    "себриллагьахъ": [
-        "Sebrilla"
-    ],
     "сев": [
         "bear"
-    ],
-    "севастопольдиз": [
-        "Sevastopol-ERG-DAT"
-    ],
-    "севастополье": [
-        "Sevastopol-INESS"
     ],
     "сегьви": [
         "mistake"
     ],
-    "сегьнее": [
+    "сегьнеда": [
         "stage-INESS"
     ],
     "седакъетли": [
@@ -4324,29 +4639,23 @@
     "семь": [
         "seven"
     ],
-    "сергьеддае": [
+    "сергьедда": [
         "border.on-INESS"
     ],
-    "сергьеддаел": [
+    "сергьеддал": [
         "border.on-INESS-SPSS"
-    ],
-    "серинвал": [
-        "cool-PURP"
     ],
     "сеферни": [
         "time-FOC"
     ],
-    "сивдиз": [
+    "сивиз": [
         "mouth-ERG-DAT"
     ],
-    "служитайдиайди": [
+    "служитайди": [
         "had.been.serving-AOP-SBST"
     ],
-    "служитинна": [
+    "служитна": [
         "served-AOR"
-    ],
-    "случайно": [
-        "accidentally"
     ],
     "солдат": [
         "soldier"
@@ -4357,29 +4666,23 @@
     "сонра": [
         "after"
     ],
-    "сонрани": [
-        "after-FOC"
-    ],
     "стан": [
         "stati"
     ],
     "станция": [
         "station"
     ],
+    "станциядал": [
+        "station-INESS-SPSS"
+    ],
     "станциядин": [
         "station-DIR-GEN"
-    ],
-    "станцияел": [
-        "station-INESS-SPSS"
     ],
     "стихотворение": [
         "poem"
     ],
     "стха": [
         "brother"
-    ],
-    "стхаар": [
-        "brother-PL"
     ],
     "стхади": [
         "brother-ERG"
@@ -4397,7 +4700,10 @@
         "brother-AND",
         "brother-FOC"
     ],
-    "суварилайдилай": [
+    "стхаяр": [
+        "brother-PL"
+    ],
+    "суварилай": [
         "party's-OBL-SUPER-EL"
     ],
     "сура": [
@@ -4406,22 +4712,25 @@
     "суьгьбетарна": [
         "talk-AOC"
     ],
-    "суьгьбетарнада": [
+    "суьгьбетда": [
         "talked-FUT"
     ],
-    "сятдиндин": [
+    "сятдин": [
         "o'clock-ERG-GEN"
     ],
-    "тавунвайай": [
-        "not.make.PRF.PTP-AOP"
-    ],
-    "тавунвайнвай": [
+    "тавунвай": [
         "not.make.PRF.PTP-PERF-PST"
+    ],
+    "тавунмаз": [
+        "don't.be"
+    ],
+    "тавур": [
+        "not.make.PRF.PTP-AOP"
     ],
     "тавуртӀа": [
         "NEG.make.PTP-COND"
     ],
-    "тагудайдаай": [
+    "тагудай": [
         "NEG.giving.FUT.PTP-ENT-AOP"
     ],
     "тагьминан": [
@@ -4430,20 +4739,23 @@
     "тада": [
         "put.ENT"
     ],
-    "тамамарунарна": [
+    "тазвайди": [
+        "leave-IMPF-PTP-SBST"
+    ],
+    "тамамарна": [
         "finished-AOP-AOC"
     ],
     "тамаша": [
         "look.IMP"
     ],
+    "тамашава": [
+        "look"
+    ],
     "тамашайтӀа": [
         "look.IMP-PST-COND"
     ],
-    "тамашана": [
+    "тамашна": [
         "look.IMP-AOR"
-    ],
-    "тамашун": [
-        "look"
     ],
     "тамир": [
         "leave-PROH"
@@ -4454,22 +4766,13 @@
     "тан": [
         "put.HORT"
     ],
-    "танзвайди": [
-        "leave-IMPF-PTP-SBST"
-    ],
-    "таниш": [
-        "acquainted"
-    ],
-    "тапарарзватӀа": [
-        "lie-IMPF-COND"
-    ],
     "тапарармир": [
         "lie-PROH"
     ],
-    "тарафаре": [
+    "тарафара": [
         "area-INESS"
     ],
-    "тарифарадиди": [
+    "тарифаради": [
         "praised-SBST"
     ],
     "тахтунал": [
@@ -4478,23 +4781,16 @@
     "тахурай": [
         "not.die-AOP"
     ],
-    "тахьайтӀатӀа": [
-        "if.not.helps-COND"
-    ],
-    "тахьанаайтӀа": [
+    "тахьайтӀа": [
+        "if.not.helps-COND",
         "could't-AOP-COND"
     ],
-    "тахьанана": [
+    "тахьана": [
         "could't-AOR"
     ],
-    "тахьунарай": [
-        "can-PL-AOP"
-    ],
-    "тахьунрай": [
+    "тахьурай": [
+        "can-PL-AOP",
         "can't-OPT"
-    ],
-    "тек": [
-        "only"
     ],
     "телефон": [
         "phone"
@@ -4509,10 +4805,7 @@
         "backwards",
         "on.the.contrary"
     ],
-    "техминан": [
-        "About"
-    ],
-    "тийинз": [
+    "тийиз": [
         "don't-INF"
     ],
     "тике": [
@@ -4527,13 +4820,10 @@
     "только": [
         "only"
     ],
-    "трамплин": [
-        "springboard"
-    ],
     "туна": [
-        "puting.AOC"
-    ],
-    "тунна": [
+        "keep-AOC",
+        "keep-AOR",
+        "puting.AOC",
         "put-AOR"
     ],
     "тупӀаларни": [
@@ -4542,23 +4832,16 @@
     "тур": [
         "put.IMPV"
     ],
-    "тухванана": [
-        "bringing.AOC-AOR"
+    "тухвана": [
+        "bringing.AOC-AOR",
+        "bringing-AOC"
     ],
     "тухуда": [
         "take-ENT"
     ],
-    "тухудазвай": [
+    "тухузвай": [
+        "bringing-IMPF-PST",
         "take.FUT-IMPF-PST"
-    ],
-    "тухуе": [
-        "take-INESS"
-    ],
-    "тухунзвай": [
-        "bringing-IMPF-PST"
-    ],
-    "тухунна": [
-        "bringing-AOC"
     ],
     "тухурла": [
         "when.taking.TEMP"
@@ -4574,13 +4857,13 @@
     "туширни": [
         "cop.PST.NEG-Q"
     ],
-    "туькӀуьрайладаай": [
-        "creating.after-ENT-AOP"
-    ],
-    "туькӀуьрунайла": [
+    "туькӀуьрайла": [
         "created-AOP-TEMP"
     ],
-    "туьтар": [
+    "туькӀуьрдай": [
+        "creating.after-ENT-AOP"
+    ],
+    "туьтер": [
         "throat-PL"
     ],
     "тфенг": [
@@ -4598,14 +4881,14 @@
     "тӀа": [
         "if"
     ],
+    "тӀарарда": [
+        "secured-PL-ENT"
+    ],
     "тӀва": [
         "other"
     ],
     "тӀвар": [
         "name"
-    ],
-    "тӀвардиз": [
-        "name-ERG-DAT"
     ],
     "тӀварни": [
         "name-Q",
@@ -4614,16 +4897,19 @@
     "тӀварча": [
         "name.to"
     ],
+    "тӀварчиз": [
+        "name-ERG-DAT"
+    ],
     "тӀимил": [
         "little"
     ],
-    "тӀимил.кьван": [
+    "тӀимил~кьван": [
         "A.LITTLE"
     ],
     "тӀун": [
         "do.it.IMPV"
     ],
-    "тӀуьнана": [
+    "тӀуьна": [
         "ate-AOC"
     ],
     "уже": [
@@ -4632,13 +4918,16 @@
     "ун": [
         "yes"
     ],
-    "учебкадае": [
+    "учебкада": [
         "training.in-INESS"
     ],
-    "уьлуьхуннвач": [
+    "уьлкведиз": [
+        "country.to-DIR-DAT"
+    ],
+    "уьлуьхнавач": [
         "extinguish-PERF-NEG"
     ],
-    "уьмурдиндин": [
+    "уьмурдин": [
         "life's-DIR-GEN"
     ],
     "уьчуьн": [
@@ -4650,57 +4939,65 @@
     "фад": [
         "quickly"
     ],
-    "феда": [
-        "go-ENT"
-    ],
-    "феданмаз": [
-        "go-FUT-IMMANT",
-        "go-ENT-IMMANT"
-    ],
-    "фее": [
-        "go-INESS"
-    ],
-    "фез": [
-        "go-INF",
-        "go-DAT"
-    ],
-    "фезва": [
-        "go-IMPF"
-    ],
     "фей": [
         "go-PST"
     ],
-    "фейдалаай": [
+    "фейдалай": [
         "go-PST-ENT-TEMP-AOP"
+    ],
+    "фейила": [
+        "go-AOP-TEMP"
     ],
     "фейитӀа": [
         "going.PTP.COND"
     ],
-    "фен": [
-        "go-MSD",
-        "go-GEN"
+    "фейла": [
+        "go-PST-TEMP"
     ],
     "фена": [
         "go-AOR",
-        "go-AOC"
+        "go-AOC",
+        "to.go-AOR"
+    ],
+    "фенава": [
+        "go-PERF"
+    ],
+    "фенавай": [
+        "go-PERF-PTP"
+    ],
+    "фенай": [
+        "go-AOR-PTP"
     ],
     "фенва": [
         "go-PERF"
     ],
-    "фендигарардилди": [
+    "фенвач": [
+        "go-PERF-NEG"
+    ],
+    "фендигарвилелди": [
         "by.cunning-PL-OBL-SUPER-DIR"
     ],
-    "фергьад": [
-        "Ferhad"
+    "фида": [
+        "go-ENT",
+        "go-INESS",
+        "go-FUT"
     ],
-    "фидаданмаз": [
-        "go.FUT-FUT-IMMANT"
+    "фидамаз": [
+        "go-FUT-IMMANT",
+        "go-ENT-IMMANT"
     ],
-    "фидайла": [
-        "go-PST-TEMP"
+    "физ": [
+        "go-INF",
+        "go-DAT"
     ],
-    "физавазвай": [
+    "физава": [
+        "go.out-IMPF"
+    ],
+    "физавай": [
         "going.is-IMPF-PST"
+    ],
+    "физва": [
+        "go-IMPF"
     ],
     "фикир": [
         "thought"
@@ -4708,7 +5005,7 @@
     "фикирайдалай": [
         "a.thinking.MSD.off"
     ],
-    "фикирарзва": [
+    "фикирарзава": [
         "attention-PL-IMPF"
     ],
     "фикирарни": [
@@ -4717,51 +5014,21 @@
     "фикирда": [
         "attention-ENT"
     ],
-    "фикирдаай": [
+    "фикирдай": [
         "attention-ENT-AOP"
     ],
     "фикирдиз": [
         "attention-DIR-DAT"
     ],
-    "фикиринна": [
+    "фикирна": [
         "thing-AOR"
     ],
     "философия": [
         "philosopy"
     ],
-    "финайла": [
-        "go-AOP-TEMP"
-    ],
-    "финда": [
-        "go-ENT",
-        "go-FUT"
-    ],
-    "финз": [
-        "go-INF"
-    ],
-    "финзва": [
-        "go-IMPF",
-        "go.out-IMPF"
-    ],
-    "финйла": [
-        "go-PST-TEMP"
-    ],
-    "финн": [
-        "go-MSD"
-    ],
-    "финна": [
-        "go-AOR",
-        "go-AOC",
-        "to.go-AOR"
-    ],
-    "финнай": [
-        "go-AOR-PTP"
-    ],
-    "финнвай": [
-        "go-PERF-PTP"
-    ],
-    "финнвач": [
-        "go-PERF-NEG"
+    "фин": [
+        "go-MSD",
+        "go-GEN"
     ],
     "фу": [
         "bread"
@@ -4785,10 +5052,10 @@
     "халади": [
         "aunt-ERG"
     ],
-    "халкьдизниарни": [
+    "халкьарни": [
         "people.to.also-PL-FOC"
     ],
-    "халкьдизнидизни": [
+    "халкьдизни": [
         "people.to.also-ERG-DAT-Q"
     ],
     "халу": [
@@ -4800,17 +5067,23 @@
     "хан": [
         "break"
     ],
+    "хана": [
+        "be-AOR"
+    ],
     "ханум": [
         "Ma'am"
     ],
-    "ханумди": [
+    "ханума": [
         "Ma'am-ERG"
     ],
-    "харадил": [
+    "харадал": [
         "pile-OBL-SPSS"
     ],
     "характер": [
         "character"
+    ],
+    "хата": [
+        "mistake"
     ],
     "хва": [
         "son"
@@ -4818,14 +5091,14 @@
     "хванахво": [
         "friend"
     ],
-    "хвенана": [
+    "хвена": [
         "kept-AOR",
         "kept-AOC"
     ],
     "хвеши": [
         "happy"
     ],
-    "хвешиардивай": [
+    "хвешивиливай": [
         "happy-PL-OBL-AD-EL"
     ],
     "хгана": [
@@ -4840,7 +5113,7 @@
     "хипер": [
         "sheep"
     ],
-    "хиялей": [
+    "хиялдай": [
         "dream-INESS-PST"
     ],
     "хкадар": [
@@ -4849,10 +5122,7 @@
     "хкадарда": [
         "jumps-ENT"
     ],
-    "хкадаре": [
-        "jumps-INESS"
-    ],
-    "хкадарзва": [
+    "хкадарзава": [
         "jumps-IMPF"
     ],
     "хкаж": [
@@ -4861,25 +5131,25 @@
     "хкаждий": [
         "up-SBST-PST"
     ],
-    "хкатинн": [
+    "хкатин": [
         "leave-HORT"
-    ],
-    "хквеарла": [
-        "return-PL-TEMP"
     ],
     "хкведа": [
         "return-ENT"
     ],
-    "хквееай": [
+    "хкведай": [
         "return-INESS-AOP"
     ],
-    "хкезвазва": [
+    "хкверла": [
+        "return-PL-TEMP"
+    ],
+    "хкезва": [
         "returnes-IMPF"
     ],
     "хкягъа": [
         "choose.IMP"
     ],
-    "хкягъада": [
+    "хкягъда": [
         "choose.IMP-ENT"
     ],
     "хпер": [
@@ -4892,24 +5162,14 @@
         "return-AOR",
         "return-AOC"
     ],
+    "хтанава": [
+        "return-PERF"
+    ],
     "хтанва": [
         "return-PERF"
     ],
-    "хтуларни": [
-        "grandchild-PL-FOC"
-    ],
     "хтулни": [
         "grandchild-FOC"
-    ],
-    "хтунйла": [
-        "return-PST-TEMP"
-    ],
-    "хтунна": [
-        "return-AOR",
-        "return-AOC"
-    ],
-    "хтуннва": [
-        "return-PERF"
     ],
     "хур": [
         "village"
@@ -4920,42 +5180,36 @@
     "хуш": [
         "pleasant"
     ],
-    "хуьзз": [
-        "to.keep-DAT"
-    ],
-    "хуьнда": [
+    "хуьда": [
         "defend-FUT"
     ],
-    "хуьнз": [
-        "defend-INF"
+    "хуьз": [
+        "defend-INF",
+        "to.keep-DAT"
     ],
     "хуьр": [
         "village"
     ],
-    "хуьрай": [
-        "village-INELAT"
-    ],
-    "хуьрдиз": [
-        "village-OBL-DAT",
-        "village-ERG-DAT"
-    ],
-    "хуьрдин": [
-        "village-ERG-GEN"
-    ],
     "хуьре": [
         "village-INESS"
-    ],
-    "хуьреай": [
-        "village.in-INELAT"
-    ],
-    "хуьредин": [
-        "village.in-OBL-GEN"
     ],
     "хуьрей": [
         "village.out.of"
     ],
-    "хуьруьзз": [
-        "village.to-DAT"
+    "хуьруз": [
+        "village-ERG-DAT"
+    ],
+    "хуьруьз": [
+        "village.to-DAT",
+        "village-OBL-DAT"
+    ],
+    "хуьруьн": [
+        "village-ERG-GEN",
+        "village.in-OBL-GEN"
+    ],
+    "хуьряй": [
+        "village-INELAT",
+        "village.in-INELAT"
     ],
     "хъайа": [
         "be"
@@ -4978,13 +5232,13 @@
     "хъел": [
         "anger"
     ],
-    "хъийидадаай": [
-        "did.again.ENT-ENT-AOP"
-    ],
-    "хъийидае": [
+    "хъийида": [
         "did.again.ENT-INESS"
     ],
-    "хъийидаз": [
+    "хъийидай": [
+        "did.again.ENT-ENT-AOP"
+    ],
+    "хъийиз": [
         "did.again.ENT-DAT"
     ],
     "хъсан": [
@@ -4996,78 +5250,91 @@
     "хъсандик": [
         "good-OBL-SBSS"
     ],
-    "хъунна": [
-        "be-AOR"
+    "хъфейдалай": [
+        "go-PST-FUT-TEMP-PST"
     ],
     "хъфелахъди": [
         "go-TEMP-POESS-DIR"
     ],
     "хъфена": [
-        "go-AOR"
+        "go-AOR",
+        "returned-AOR",
+        "go-AOC"
     ],
-    "хъфенана": [
-        "returned-AOR"
-    ],
-    "хъфидазва": [
-        "leave.FUT-IMPF"
+    "хъфенвач": [
+        "go-PERF-NEG"
     ],
     "хъфизва": [
-        "go.IMPF"
+        "go.IMPF",
+        "leave.FUT-IMPF"
     ],
     "хъфин": [
         "go.back.HORT"
     ],
-    "хъфинда": [
-        "go-ENT"
-    ],
-    "хъфинйдалай": [
-        "go-PST-FUT-TEMP-PST"
-    ],
-    "хъфинна": [
-        "go-AOR",
-        "go-AOC"
-    ],
-    "хъфиннвач": [
-        "go-PERF-NEG"
-    ],
-    "хьа": [
-        "be",
-        "being.AOC",
-        "happened"
-    ],
-    "хьаайдалай": [
-        "happened-AOP-FUT-TEMP-PST"
-    ],
-    "хьаайди": [
-        "happened-AOP-SBST"
-    ],
-    "хьаайдилаай": [
-        "happened.AOR-AOP-DIR-TEMP-AOP"
-    ],
-    "хьаайла": [
-        "happened-AOP-TEMP"
-    ],
     "хьай": [
         "happened-PTP"
     ],
+    "хьайи": [
+        "be-AOP"
+    ],
+    "хьайидалай": [
+        "happened-AOP-FUT-TEMP-PST"
+    ],
+    "хьайиди": [
+        "happened-AOP-SBST"
+    ],
+    "хьайидилай": [
+        "happened.AOR-AOP-DIR-TEMP-AOP"
+    ],
+    "хьайила": [
+        "happened-AOP-TEMP",
+        "be-AOP-TEMP"
+    ],
     "хьайитӀа": [
+        "born-COND",
         "be.AOP.COND"
     ],
     "хьайитӀани": [
         "born-COND-FOC"
     ],
+    "хьайла": [
+        "be-PST-TEMP"
+    ],
     "хьана": [
+        "be-AOC",
+        "be-AOR",
         "happened-AOR",
+        "be",
+        "being.AOC",
+        "happened",
         "happened-AOC"
     ],
+    "хьанава": [
+        "happened-PERF"
+    ],
+    "хьанатӀа": [
+        "be-AOR-COND"
+    ],
     "хьанач": [
+        "be-AOR-NEG",
         "happened-AOR-NEG"
     ],
+    "хьаначтӀани": [
+        "be-AOC-NEG-COND-FOC"
+    ],
+    "хьанаш": [
+        "be-AOR-NEG"
+    ],
     "хьанва": [
-        "happened-PERF"
+        "happened-PERF",
+        "be-PERF"
     ],
     "хьанвади": [
         "happened-PERF-SBST"
+    ],
+    "хьанвай": [
+        "be-PERF-PST",
+        "be-PERF-PTP"
     ],
     "хьанватӀа": [
         "happened-PERF-COND"
@@ -5080,10 +5347,11 @@
         "happen"
     ],
     "хьиз": [
+        "happen-DAT",
         "as",
         "like"
     ],
-    "хьийбурбур": [
+    "хьийбур": [
         "happened-ABS.PL"
     ],
     "хьир": [
@@ -5093,68 +5361,30 @@
         "like"
     ],
     "хьуй": [
+        "be-PST",
         "if.do",
         "let.it.be",
-        "let.it.be.OPT"
-    ],
-    "хьуйй": [
+        "let.it.be.OPT",
         "if.do-PST"
     ],
-    "хьунай": [
-        "be-AOP"
-    ],
-    "хьунайла": [
-        "be-AOP-TEMP"
-    ],
-    "хьунй": [
-        "be-PST"
-    ],
-    "хьунйла": [
-        "be-PST-TEMP"
-    ],
-    "хьунна": [
-        "be-AOC",
-        "be-AOR"
-    ],
-    "хьуннатӀа": [
-        "be-AOR-COND"
-    ],
-    "хьуннач": [
-        "be-AOR-NEG"
-    ],
-    "хьунначтӀани": [
-        "be-AOC-NEG-COND-FOC"
-    ],
-    "хьуннаш": [
-        "be-AOR-NEG"
-    ],
-    "хьуннва": [
-        "be-PERF"
-    ],
-    "хьуннвай": [
-        "be-PERF-PST",
-        "be-PERF-PTP"
-    ],
     "хьурай": [
-        "be.will"
-    ],
-    "хьурайай": [
+        "be.will",
         "be.will-AOP"
     ],
     "хьухь": [
         "be.IMPV",
         "be"
     ],
-    "цавалайардиз": [
+    "цавариз": [
         "air.from.off-PL-ERG-DAT"
     ],
     "цай": [
         "fire"
     ],
-    "цацардив": [
+    "цацарив": [
         "thorns-OBL-ADESS"
     ],
-    "цванана": [
+    "цвана": [
         "put.in.AOC-AOR"
     ],
     "це": [
@@ -5166,13 +5396,13 @@
     "цехер": [
         "wood.shops"
     ],
-    "цехерди": [
+    "цехера": [
         "wood.shops-ERG"
     ],
     "ци": [
         "why"
     ],
-    "цуьгъвенлайлаай": [
+    "цуьгъвенлай": [
         "after-TEMP-AOP"
     ],
     "цуьк": [
@@ -5181,7 +5411,7 @@
     "цӀай": [
         "fire"
     ],
-    "цӀайиндикай": [
+    "цӀайиникай": [
         "fire's-OBL-SUB-EL"
     ],
     "цӀайни": [
@@ -5193,7 +5423,7 @@
     "цӀийиз": [
         "new-DAT"
     ],
-    "цӀикьведаздиз": [
+    "цӀикьведаз": [
         "twelve-OBL-DAT"
     ],
     "цӀувад": [
@@ -5219,10 +5449,14 @@
         "give",
         "give.IMPV"
     ],
-    "чавайай": [
+    "чав": [
+        "1pl.gen-ADESS"
+    ],
+    "чавай": [
         "help-INELAT"
     ],
     "чаз": [
+        "1pl.gen-DAT",
         "us"
     ],
     "чазди": [
@@ -5232,7 +5466,9 @@
         "us"
     ],
     "чал": [
-        "water.on"
+        "give-SPSS",
+        "water.on",
+        "water-SPSS"
     ],
     "чан": [
         "dear",
@@ -5245,16 +5481,14 @@
     "части": [
         "unit"
     ],
-    "частиндиз": [
+    "частиниз": [
         "unit-GEN-ERG-DAT"
     ],
     "чашмиш": [
         "make.mistakes"
     ],
     "чаяр": [
-        "tea"
-    ],
-    "чаярар": [
+        "tea",
         "tea-PL"
     ],
     "че": [
@@ -5263,17 +5497,16 @@
     "чи": [
         "1pl.gen"
     ],
-    "чив": [
-        "1pl.gen-ADESS"
+    "чида": [
+        "know-INESS",
+        "know-ENT"
     ],
-    "чидаай": [
+    "чидай": [
+        "face-FUT-PST",
         "know-AOP"
     ],
-    "чие": [
-        "know-INESS"
-    ],
     "чиз": [
-        "1pl.gen-DAT"
+        "water-DAT"
     ],
     "чизва": [
         "know-IMPF"
@@ -5287,26 +5520,17 @@
     "чизвач": [
         "know-IMPF-NEG"
     ],
-    "чиладил": [
+    "чилал": [
         "ground.in-ERG-SPSS"
     ],
     "чин": [
         "know-MSD"
     ],
-    "чинда": [
-        "know-ENT"
-    ],
-    "чиндай": [
-        "face-FUT-PST"
-    ],
-    "чинди": [
+    "чина": [
         "face-OBL",
         "face-ERG"
     ],
-    "чинзва": [
-        "know-IMPF"
-    ],
-    "чипдин": [
+    "чипин": [
         "themselves-ERG-GEN"
     ],
     "чипни": [
@@ -5315,26 +5539,27 @@
     "чир": [
         "knowledge"
     ],
+    "чир~хьана": [
+        "know-BE-AOR"
+    ],
     "чира": [
         "separated"
     ],
-    "чирадаздиз": [
+    "чирадаз": [
         "another.to-ERG-DAT"
     ],
-    "чиринна": [
+    "чирна": [
         "know-AOR"
-    ],
-    "чирхьунна": [
-        "know-BE-AOR"
     ],
     "чирчадай": [
         "cook-ENT-PTP"
     ],
-    "чка": [
-        "place"
-    ],
-    "чкаай": [
+    "чкадай": [
         "place-INELAT"
+    ],
+    "чкадал": [
+        "place-INESS-SPSS",
+        "place-OBL-SPSS"
     ],
     "чкадиз": [
         "place-OBL-DAT"
@@ -5342,23 +5567,14 @@
     "чкадикай": [
         "place-OBL-SUB-EL"
     ],
-    "чкадил": [
-        "place-OBL-SPSS"
-    ],
-    "чкадилай": [
+    "чкадлай": [
         "place-ERG-SPSS-EL",
         "place-ERG-SPSS-INELAT"
-    ],
-    "чкаел": [
-        "place-INESS-SPSS"
     ],
     "чна": [
         "1pl.erg"
     ],
-    "чпивай": [
-        "themselves-AD-EL"
-    ],
-    "чпиз.чпиз.мукьвал": [
+    "чпиз~чпиз~мукьвал": [
         "THEMSELVES.ASSOCIATED"
     ],
     "чпин": [
@@ -5378,9 +5594,6 @@
     ],
     "чун": [
         "1pl.abs"
-    ],
-    "чунни": [
-        "1pl.abs-FOC"
     ],
     "чурчазвайди": [
         "cook-IMPF-PTP-SBST"
@@ -5403,23 +5616,22 @@
     "чуьнуьх": [
         "steal.INF"
     ],
-    "чуьнуьх.хьанана": [
+    "чуьнуьх~хьана": [
         "HID-AOR"
     ],
-    "чуьнуьхинарзва": [
+    "чуьнуьхарзава": [
         "steal-AOP-IMPF"
     ],
-    "чӀавардиай": [
-        "time-PL-ERG-INELAT"
-    ],
-    "чӀавдиз": [
-        "time-ERG-DAT"
-    ],
-    "чӀавдилди": [
+    "чӀавалди": [
         "time-ERG-SPSS-DIR"
     ],
+    "чӀаварай": [
+        "time-PL-ERG-INELAT"
+    ],
     "чӀавуз": [
-        "time.in"
+        "time.in",
+        "time-ERG-DAT",
+        "time-DAT"
     ],
     "чӀавузни": [
         "time.in-Q"
@@ -5427,16 +5639,16 @@
     "чӀал": [
         "language"
     ],
+    "чӀалалди": [
+        "language-OBL-SUPER-DIR"
+    ],
     "чӀалах": [
         "belivie"
     ],
-    "чӀалах.жедае": [
+    "чӀалах~жеда": [
         "BELIVED.ENT-INESS"
     ],
-    "чӀалдилди": [
-        "language-OBL-SUPER-DIR"
-    ],
-    "чӀахмахдиндин": [
+    "чӀахмахдин": [
         "flint.from-DIR-GEN"
     ],
     "чӀехи": [
@@ -5445,7 +5657,7 @@
     "чӀувал": [
         "time.of"
     ],
-    "чӀугвазнва": [
+    "чӀугнава": [
         "draw.INF-PERF"
     ],
     "чӀулав": [
@@ -5460,7 +5672,7 @@
     "шад": [
         "happy"
     ],
-    "шапӀаар": [
+    "шапӀаяр": [
         "puppy-PL"
     ],
     "шегьердиз": [
@@ -5476,13 +5688,13 @@
     "шей": [
         "thing"
     ],
-    "шейардив": [
-        "thing-PL-OBL-ADESS"
-    ],
     "шейер": [
         "thing-PL"
     ],
-    "шехьинзва": [
+    "шейэрив": [
+        "thing-PL-OBL-ADESS"
+    ],
+    "шехьзава": [
         "cry-IMPF"
     ],
     "шеъ": [
@@ -5491,17 +5703,14 @@
     "шив": [
         "steed"
     ],
-    "шиврехъхъ": [
+    "шиврехъ": [
         "steed.under-POESS"
     ],
     "шикил": [
         "picture"
     ],
-    "шикиле": [
+    "шикилда": [
         "picture-INESS"
-    ],
-    "ширин": [
-        "Shirin"
     ],
     "шофердиз": [
         "driver-DIR-DAT"
@@ -5509,7 +5718,7 @@
     "шумуд": [
         "more"
     ],
-    "шумудардихъ": [
+    "шумудрахъ": [
         "more-PL-OBL-POESS"
     ],
     "шуькуьр": [
@@ -5524,58 +5733,44 @@
     "эвера": [
         "call.IMPV"
     ],
-    "эверади": [
-        "call?-ERG"
+    "эверда": [
+        "call.IMPV-ENT"
     ],
-    "эверинна": [
+    "эверна": [
         "call-AOR",
-        "call-AOC"
+        "call-AOC",
+        "call.IMPV-AOC"
     ],
     "эвеца": [
         "get.down.IMPV"
     ],
-    "эвецӀнана": [
+    "эвецӀна": [
         "went.down-AOR",
         "going.down.AOC-AOR"
     ],
-    "эвецӀнанач": [
+    "эвецӀнаша": [
         "going.down.AOC-AOR-NEG"
     ],
-    "эвецӀунна": [
-        "went.down-AOR"
-    ],
-    "эвицӀ.хъийа": [
+    "эвицӀ~хъийа": [
         "COME.DOWN"
     ],
-    "эвицӀ.хъийана": [
-        "COME.DOWN-AOR"
-    ],
-    "эвицӀ.хъувунана": [
+    "эвицӀ~хъувуна": [
         "CAME.DOWN-AOR"
     ],
-    "эвлендирмишинна": [
+    "эвицӀна": [
+        "COME.DOWN-AOR"
+    ],
+    "эвлендирмишна": [
         "married-AOR"
     ],
-    "эвли": [
-        "married"
-    ],
-    "эгекьайлаайла": [
+    "эгекьайла": [
         "approach-AOP-TEMP"
     ],
     "эгер": [
         "if"
     ],
-    "эгьтибарсуз": [
-        "unfaithful"
-    ],
     "эдалет": [
         "justice"
-    ],
-    "эй": [
-        "hey"
-    ],
-    "эйиб": [
-        "shame"
     ],
     "эквез": [
         "look.after-DAT"
@@ -5583,19 +5778,19 @@
     "экеча": [
         "come.out"
     ],
-    "экечӀинзвай": [
+    "экечӀзавай": [
         "climbing-IMPF-PTP"
     ],
-    "экуьндилди": [
+    "экуьнелди": [
         "morning-OBL-SUPER-DIR"
     ],
-    "экъвенда": [
+    "экъведа": [
         "walk-FUT"
     ],
-    "экъвенна": [
+    "экъвена": [
         "walk-AOR"
     ],
-    "экъечӀун": [
+    "экъечӀа": [
         "go"
     ],
     "эламетар": [
@@ -5604,36 +5799,17 @@
     "элкведиз": [
         "country-ERG-DAT"
     ],
-    "элкведиздиз": [
-        "country.to-DIR-DAT"
-    ],
-    "элквенана": [
-        "turned-AOR"
-    ],
-    "элкъвезна": [
-        "turns-AOR"
-    ],
-    "элкъвензва": [
-        "turns-IMPF"
-    ],
-    "элкъвенна": [
+    "элкъвена": [
         "turns-AOR",
         "turns-AOC"
-    ],
-    "элкъен": [
-        "turn.back"
-    ],
-    "элкъуьрна": [
-        "give.back-AOR"
     ],
     "элкъуьрнин": [
         "give.back-FOC-GEN"
     ],
-    "элчиярниарни": [
-        "matchmakers.also-PL-FOC",
+    "элчиярни": [
         "matchmakers.also-PL-AND"
     ],
-    "энциклопедияйарар": [
+    "энциклопедияйар": [
         "encyclopedis-PL"
     ],
     "эрзе": [
@@ -5648,11 +5824,11 @@
     "эрменидихъ": [
         "armenian-DIR-POESS"
     ],
-    "эскервиларз": [
-        "military.service-PL-DAT"
-    ],
     "эскервиле": [
-        "military.service"
+        "military.service-INESS"
+    ],
+    "эскервилиз": [
+        "military.service-PL-DAT"
     ],
     "эх": [
         "patience"
@@ -5660,20 +5836,14 @@
     "эхир": [
         "after.all"
     ],
-    "эхирни": [
-        "end-FOC"
-    ],
     "эхтилат": [
         "story"
     ],
-    "эхтилатарунна": [
+    "эхтилатарна": [
         "talking-AOR"
     ],
     "эхцигкъия": [
         "put.again"
-    ],
-    "эхъвенз": [
-        "bathing-INF"
     ],
     "эхьир": [
         "in."
@@ -5690,7 +5860,7 @@
     "эцигда": [
         "put.IMPV-ENT"
     ],
-    "эцигнва": [
+    "эцигнава": [
         "put.IMPV-PERF"
     ],
     "югъ": [
@@ -5699,11 +5869,8 @@
     "юлдаш": [
         "friend"
     ],
-    "юлдашарди": [
+    "юлдашари": [
         "friend-PL-ERG"
-    ],
-    "юлдашардикай": [
-        "friend-PL-OBL-SUB-EL"
     ],
     "юлдашди": [
         "friend-DIR"
@@ -5720,7 +5887,10 @@
         "was",
         "cop"
     ],
-    "яб.акалнма": [
+    "я~тӀа": [
+        "cop-COND"
+    ],
+    "яб~акалнама": [
         "HEARD-PERF.CONT"
     ],
     "явашдак": [
@@ -5735,13 +5905,13 @@
     "ягъайтавур": [
         "shoot"
     ],
-    "ягъанан": [
+    "ягъан": [
         "hit-HORT"
     ],
-    "ягъанана": [
+    "ягъана": [
         "hit-AOR"
     ],
-    "ягън": [
+    "ягъун": [
         "strike-MSD"
     ],
     "яд": [
@@ -5768,8 +5938,13 @@
     "яма": [
         "is"
     ],
+    "яман": [
+        "was"
+    ],
     "яни": [
-        "cop.Q"
+        "cop-FOC",
+        "cop.Q",
+        "cop-Q"
     ],
     "яр": [
         "sweetheart"
@@ -5777,7 +5952,7 @@
     "яраб": [
         "I.wonder"
     ],
-    "яратмишин": [
+    "яратмиша": [
         "create"
     ],
     "яргъай": [
@@ -5786,7 +5961,7 @@
     "яргъал": [
         "far"
     ],
-    "яргъалдиай": [
+    "яргъалай": [
         "far-ERG-INELAT"
     ],
     "ярдиз": [
@@ -5796,12 +5971,12 @@
     "яру": [
         "red"
     ],
-    "ярх.хьайай": [
+    "ярх~хьай": [
         "TURNED.AROUND-AOP"
     ],
     "ятӀа": [
-        "cop-COND",
-        "was-COND"
+        "was-COND",
+        "cop-COND"
     ],
     "ятӀани": [
         "is.if"
@@ -5812,14 +5987,11 @@
     "яхъ": [
         "take"
     ],
-    "яцарардивай": [
+    "яцаривай": [
         "bulls-PL-ERG-AD-EL"
     ],
     "яшайиш": [
         "living.person"
-    ],
-    "яшамишда": [
-        "live-ENT"
     ],
     "–": [
         "–"

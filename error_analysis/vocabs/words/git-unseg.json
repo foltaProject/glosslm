@@ -1,9 +1,22 @@
 {
+    "\"Dim": [
+        "PROSP"
+    ],
+    "\"Ii": [
+        "CCNJ"
+    ],
+    "\"Oo,": [
+        "oh"
+    ],
+    "'Nakwhl": [
+        "long-CN"
+    ],
     "'nakwhl": [
         "long-CN"
     ],
     "'nii": [
-        "on"
+        "on",
+        "1.I-CCNJ"
     ],
     "'nim": [
         "DES"
@@ -17,7 +30,7 @@
     "'wahl": [
         "find-CN"
     ],
-    "'wai'm": [
+    "'wayi'm.": [
         "reach-TR-1PL.II"
     ],
     "'wihl": [
@@ -26,22 +39,46 @@
     "'wii": [
         "big"
     ],
-    "'witxwit": [
+    "'witxwit.": [
         "come-SX"
+    ],
+    "Agwiyukwhl": [
+        "because-CN"
+    ],
+    "Ak̲hl": [
+        "lack-CN"
+    ],
+    "Ap": [
+        "VER"
     ],
     "Canadanska": [
         "Canadian"
     ],
-    "Denmark": [
+    "Denmark.": [
         "Denmark"
     ],
-    "IBM": [
+    "Gigeenix.": [
+        "place-upriver"
+    ],
+    "Hlaa": [
+        "INCEP"
+    ],
+    "IBM.": [
         "IBM"
+    ],
+    "Ii": [
+        "CCNJ"
+    ],
+    "Nii": [
+        "1.I-CCNJ"
     ],
     "Spain": [
         "Spain"
     ],
     "Stockholm": [
+        "Stockholm"
+    ],
+    "Stockholm.": [
         "Stockholm"
     ],
     "aam": [
@@ -50,13 +87,13 @@
     "aats'ip": [
         "door"
     ],
+    "aats'ip.": [
+        "door"
+    ],
     "agwihl": [
         "what-CN"
     ],
-    "agwiyukwhl": [
-        "because-CN"
-    ],
-    "aks": [
+    "aks.\"": [
         "water"
     ],
     "ak̲hl": [
@@ -68,19 +105,19 @@
     "amhl": [
         "good-CN"
     ],
-    "amxsiwaa": [
+    "amxsiwaa.": [
         "white.person"
     ],
     "andoosda": [
         "NMLZ-across"
     ],
+    "anhahla'lsdi'y.": [
+        "NMLZ-work-1SG.II"
+    ],
     "anhahla'lst": [
         "NMLZ-work"
     ],
-    "anhahla'lst'y": [
-        "NMLZ-work-1SG.II"
-    ],
-    "ansiip'insxw'y": [
+    "ansiip'insxwi'y": [
         "NMLZ-like-CAUS2-ANTIP-1SG.II"
     ],
     "ant": [
@@ -89,22 +126,22 @@
     "ap": [
         "VER"
     ],
-    "baasax̲xw'm": [
-        "separate-PASS-1PL.II"
-    ],
     "baasxi'y": [
         "fear-TR-1SG.II"
     ],
-    "bakw'm": [
+    "bagu'm": [
         "arrive.PL-1PL.II"
     ],
-    "bak̲a'y": [
+    "bag̲a'y,": [
         "try-TR-1SG.II"
+    ],
+    "basax̲xu'm": [
+        "separate-PASS-1PL.II"
     ],
     "bax̲hl": [
         "run-CN"
     ],
-    "daaimaahl": [
+    "daayimaahl": [
         "SPT-EPIS-CN"
     ],
     "dim": [
@@ -119,10 +156,10 @@
     "gi": [
         "PR.EVID"
     ],
-    "gigeenix": [
-        "place-upriver"
+    "giihli'y": [
+        "lay-1SG.II"
     ],
-    "giihl'y": [
+    "giihli'y,": [
         "lay-1SG.II"
     ],
     "guuhl": [
@@ -143,7 +180,7 @@
     "gya'ahl": [
         "see-CN"
     ],
-    "g̲a'nakwit": [
+    "g̲a'nagwit": [
         "DISTR-long-SX"
     ],
     "g̲adaaxhl": [
@@ -155,52 +192,55 @@
     "g̲anhl": [
         "PCNJ-CN"
     ],
-    "g̲aniwilat": [
-        "continually-MANR-3.I"
-    ],
-    "g̲anuutxw": [
+    "g̲anuutxw,": [
         "week"
     ],
-    "g̲ayhoo": [
+    "g̲anwilat": [
+        "continually-MANR-3.I"
+    ],
+    "g̲ayoo": [
         "CNTR-again"
     ],
     "g̲oohl": [
         "LOC-CN"
     ],
-    "g̲oosxwin": [
+    "g̲oosun.\"": [
         "LOC-PN-DEM.PROX"
     ],
-    "ha'niig̲oot'y": [
+    "ha'niig̲oodi'y": [
         "INS-on-heart-1SG.II"
     ],
-    "ha'niisgwaa'ytxw": [
+    "ha'niisgwaa'ytxw.": [
         "INS-on-rest"
     ],
     "ha'niisgwaa'ytxwhl": [
         "INS-on-rest-CN"
     ],
-    "ha'niiwan": [
+    "ha'niiwan.": [
         "INS-on-sit.PL"
     ],
-    "ha'niiyo'oxsxw": [
+    "ha'niiyo'oxsxw.": [
         "INS-on-wash-VAL"
     ],
-    "ha'w'y": [
+    "ha'wi'y": [
         "go.home-1SG.II"
     ],
-    "hahla'lst'm": [
-        "work-1PL.II"
+    "ha'wi'y.": [
+        "go.home-1SG.II"
     ],
-    "hahla'lst'y": [
-        "work-1SG.II"
-    ],
-    "hahla'lstit": [
+    "hahla'ljit.": [
         "work-SX"
     ],
-    "he'y": [
+    "hahla'lsdi'm": [
+        "work-1PL.II"
+    ],
+    "hahla'lsdi'y": [
+        "work-1SG.II"
+    ],
+    "he'y.": [
         "say-1SG.II"
     ],
-    "hediit": [
+    "hediit,": [
         "say-3PL.II"
     ],
     "hehl": [
@@ -215,7 +255,7 @@
     "hlgu": [
         "small"
     ],
-    "hlguxwsxw'y": [
+    "hlguxwsxwi'y,": [
         "unable.to-PASS-1SG.II"
     ],
     "hlidaa": [
@@ -230,14 +270,14 @@
     "iin": [
         "CCNJ-1.I"
     ],
-    "isxw'y": [
+    "isxwi'y": [
         "pee-1SG.II"
+    ],
+    "jabi'y": [
+        "make-TR-1SG.II"
     ],
     "japhl": [
         "make-CN"
-    ],
-    "japi'y": [
-        "make-TR-1SG.II"
     ],
     "ji": [
         "IRR"
@@ -266,7 +306,7 @@
     "lax̲": [
         "on"
     ],
-    "lax̲'nisxw'y": [
+    "lax̲'nisxwi'y": [
         "hear-ANTIP-1SG.II"
     ],
     "ligi": [
@@ -281,16 +321,25 @@
     "loot": [
         "OBL-3.II"
     ],
+    "loot,": [
+        "OBL-3.II"
+    ],
+    "loot.": [
+        "OBL-3.II"
+    ],
     "luu": [
         "in"
     ],
-    "mail'y": [
+    "mail'y.": [
         "mail"
     ],
-    "n": [
+    "na": [
         "1.I"
     ],
     "naa": [
+        "who"
+    ],
+    "naa.": [
         "who"
     ],
     "nakst": [
@@ -303,7 +352,10 @@
         "NEG-FOC-3.I",
         "NEG-FOC-DM"
     ],
-    "neet": [
+    "neet,": [
+        "not.so-3.II"
+    ],
+    "neet.": [
         "not.so-3.II"
     ],
     "nii": [
@@ -312,17 +364,20 @@
     "no'o": [
         "hole"
     ],
-    "office'y": [
+    "office'y.": [
         "office-1SG.II"
-    ],
-    "oo": [
-        "oh"
     ],
     "pipe": [
         "pipe"
     ],
+    "pipe--": [
+        "pipe"
+    ],
     "pole": [
         "pole"
+    ],
+    "sawatdiit.": [
+        "CAUS1-name-T-3PL.II"
     ],
     "sdilhl": [
         "accompany-CN"
@@ -336,13 +391,10 @@
     "si'ix": [
         "try"
     ],
-    "siwatdiit": [
-        "CAUS1-name-T-3PL.II"
-    ],
     "t'aahlihl": [
         "pick-T-CN"
     ],
-    "t'ilx̲ootxw'y": [
+    "t'ilx̲ootxwi'y,": [
         "thought-PASS-1SG.II"
     ],
     "train": [
@@ -357,53 +409,59 @@
     "tun": [
         "DM-DEM.PROX"
     ],
-    "upji": [
+    "upja": [
         "in.case-IRR"
     ],
     "wag̲ayt": [
         "completely"
     ],
-    "wil": [
-        "COMP"
-    ],
-    "wil'm": [
-        "LVB-1PL.II"
-    ],
-    "wil'y": [
-        "LVB-1SG.II"
-    ],
-    "wilhl": [
+    "wihl": [
         "COMP-CN",
         "LVB-CN"
     ],
-    "wilna": [
-        "COMP-1.I"
+    "wil": [
+        "COMP"
     ],
-    "wilni": [
-        "COMP-1.I"
+    "wili'm,": [
+        "LVB-1PL.II"
+    ],
+    "wili'y": [
+        "LVB-1SG.II"
+    ],
+    "wili'y,": [
+        "LVB-1SG.II"
+    ],
+    "wili'y.": [
+        "LVB-1SG.II"
     ],
     "wilp": [
         "house"
     ],
-    "wok̲s'y": [
+    "wina": [
+        "COMP-1.I"
+    ],
+    "wok̲si'y.": [
         "sleep-PASS-1SG.II"
     ],
     "xhlii": [
         "all.the.way"
     ],
-    "xsaxw'y": [
+    "xsa'ak̲xwi'y": [
+        "out-able-1SG.II"
+    ],
+    "xsawi'y": [
         "go.out-1SG.II"
     ],
-    "xseek̲": [
+    "xseek̲.": [
+        "go.out.PL"
+    ],
+    "xseek̲.\"": [
         "go.out.PL"
     ],
     "xsi": [
         "out"
     ],
-    "xsi'ak̲xw'y": [
-        "out-able-1SG.II"
-    ],
-    "yaltxw'm": [
+    "yaltxu'm": [
         "return-PASS-1PL.II"
     ],
     "yatshl": [
@@ -415,13 +473,13 @@
     "yukwhl": [
         "IPFV-CN"
     ],
+    "yuwi'y,": [
+        "follow-TR-1SG.II"
+    ],
     "yuxwdiithl": [
         "follow-3PL.II-CN"
     ],
     "yuxwhl": [
         "follow-CN"
-    ],
-    "yuxwi'y": [
-        "follow-TR-1SG.II"
     ]
 }
