@@ -20,7 +20,7 @@ print(device)
 
 def get_lang(glottocode):
     lang_map = {
-        "arap127": "arp",
+        "arap1274": "arp",
         "gitx1241": "git",
         "dido1241": "ddo",
         "uspa1245": "usp",
