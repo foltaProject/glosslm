@@ -10,6 +10,7 @@ import pandas as pd
 import re
 from jiwer import wer
 from typing import List
+import evaluate
 
 import click
 from torchtext.data.metrics import bleu_score
@@ -158,6 +159,11 @@ def evaluate_igt(
         pred_morphemes = [re.split(r"\s|-", str(pred)) for pred in preds]
         gold_morphemes = [re.split(r"\s|-", gloss) for gloss in gold]
 
+        chrf = evaluate.load("chrf")
+        chrf_score = chrf.compute(
+            predictions=preds, references=gold, word_order=2
+        )
+
         eval_dict = {
             **eval_word_glosses(
                 pred_words=pred_words, gold_words=gold_words
@@ -165,6 +171,7 @@ def evaluate_igt(
             **eval_morpheme_glosses(
                 pred_morphemes=pred_morphemes, gold_morphemes=gold_morphemes
             ),
+            'chrf': chrf_score['score']
         }
         return eval_dict
 
