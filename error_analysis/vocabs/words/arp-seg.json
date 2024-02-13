@@ -58,9 +58,7 @@
         "gee.whiz!"
     ],
     "'iiheihoo": [
-        "oh.gosh!"
-    ],
-    "'iiheihoo,": [
+        "oh.gosh!",
         "exclamation.of.surprise,.gee!"
     ],
     "'iiheihoowun": [
@@ -221,7 +219,7 @@
     "11": [
         "11"
     ],
-    "1875.": [
+    "1875": [
         "1875."
     ],
     "1897": [
@@ -1643,7 +1641,7 @@
     "80": [
         "80"
     ],
-    "8:45,": [
+    "8:45": [
         "8:45,"
     ],
     "90": [
@@ -2311,14 +2309,12 @@
     "Friday": [
         "Friday"
     ],
-    "Ft.": [
+    "Ft": [
         "Ft."
     ],
     "G": [
+        "G.",
         "Grandchild"
-    ],
-    "G.": [
-        "G."
     ],
     "GF": [
         "Grandfather"
@@ -3294,10 +3290,10 @@
     "Spoonhunter": [
         "Spoonhunter"
     ],
-    "Sr.": [
+    "Sr": [
         "Sr."
     ],
-    "St.": [
+    "St": [
         "St."
     ],
     "Star": [
@@ -9582,7 +9578,7 @@
     "ce'i-kohei'i-t": [
         "again-stand.up-3.S"
     ],
-    "ce'i-kohei.i-yohkoni'": [
+    "ce'i-koheii-yohkoni'": [
         "again-stand.up-3P.SUBJ"
     ],
     "ce'i-koyih'ohu-ehk": [
@@ -15715,7 +15711,7 @@
     "co'on-yee-yih'oon-oot": [
         "always-REDUP-chase.in.hunting-3S"
     ],
-    "co'oneenotei.i": [
+    "co'oneenoteii": [
         "furry.sheep"
     ],
     "co'oni-ini": [
@@ -19256,7 +19252,7 @@
     "he'ih-'ihei3e-n": [
         "NARRPAST-heavy-OBV.S"
     ],
-    "he'ih-'ihkoho.oe": [
+    "he'ih-'ihkohooe": [
         "NARRPAST-raise.hand(s)"
     ],
     "he'ih-'ihkotee": [
@@ -33579,7 +33575,7 @@
         "FUT-back-stand.up-3.S",
         "FUT-again-stand.up-3.S"
     ],
-    "heet-ce'-kohei.inoo-'": [
+    "heet-ce'-koheiinoo-'": [
         "FUT-again-stand-0S"
     ],
     "heet-ce'-koonen-owunee": [
@@ -40596,7 +40592,7 @@
     "heetih-noxohoe-heen-eeckoohu-no'": [
         "so.that-quickly-REDUP-go.home-12"
     ],
-    "heetih-noxow-sii-ceeceehiiyihi(sp?)-'": [
+    "heetih-noxow-sii-ceeceehiiyihi(sp)-'": [
         "so.that-INTENSE-INTENSE-have.zig.zag.marks-0S"
     ],
     "heetih-onobeihi-t": [
@@ -44082,7 +44078,7 @@
     "hehnee-ceneeseihi-t": [
         "EMPHATIC-IC.spirited,.wild,.crazy-3.S"
     ],
-    "hehnee-hoowo.ooto'on-einoo": [
+    "hehnee-hoowoooto'on-einoo": [
         "EMPHATIC-IC.put.s.o..under.stress,.in.difficult.strats-3S"
     ],
     "hehnee-nee'eetoh-noo-nouse-'": [
@@ -47775,7 +47771,7 @@
     "het-ce'-no'usee": [
         "IMPER.FUT-again-arrive"
     ],
-    "het-ce'-nootookohei'i.": [
+    "het-ce'-nootookohei'i": [
         "IMPER.FUT-again-fetch.water"
     ],
     "het-ce'-won-ei'towuun-oot": [
@@ -54200,9 +54196,6 @@
     "hiisi-ites-oono'": [
         "PERF-meet-2"
     ],
-    "hiisi.i": [
-        "days"
-    ],
     "hiisiben-ein": [
         "put.to.bed-3S"
     ],
@@ -55625,7 +55618,7 @@
     "hit-eixo'oniin-inoo": [
         "3S-clothes-pers.PL"
     ],
-    "hit-eixo.on-in": [
+    "hit-eixoon-in": [
         "4S-clothing-4POSS"
     ],
     "hit-eixoon-inoo": [
@@ -56283,9 +56276,6 @@
     ],
     "ho'oowu'": [
         "house"
-    ],
-    "ho'oowu.u": [
-        "houses"
     ],
     "ho'oowuu": [
         "houses"
@@ -72720,7 +72710,7 @@
     "ne-3ei3i'o'": [
         "1S-underarm"
     ],
-    "ne-3eiiyeino'oowu.u": [
+    "ne-3eiiyeino'oowuu": [
         "1S-storehouses"
     ],
     "ne-3iihoho": [
@@ -77289,7 +77279,7 @@
         "this",
         "this.one"
     ],
-    "neh'eeno(?)": [
+    "neh'eeno()": [
         "this"
     ],
     "neh'eheiniisi'": [
@@ -82311,11 +82301,11 @@
     "nih'ii-ciixookohei-noo": [
         "PAST.IMPERF-go.far.to.fetch.water-1S"
     ],
+    "nih'ii-co'on-": [
+        "PAST.IMPERF-always-???"
+    ],
     "nih'ii-co'on-3i'oku-3i'": [
         "PAST.IMPERF-always-sit-3PL"
-    ],
-    "nih'ii-co'on-???": [
-        "PAST.IMPERF-always-???"
     ],
     "nih'ii-co'on-P": [
         "PAST.IMPERF-always-pause"
@@ -83993,7 +83983,7 @@
     "nih'iis-3oo'oekuuheihi-t": [
         "PAST.PERF-stuck.upright.in.ground-3.S"
     ],
-    "nih'iis-3oo3eeneet(?)-owoo": [
+    "nih'iis-3oo3eeneet()-owoo": [
         "PAST.what-recall-1S"
     ],
     "nih'iis-3ooxuunon-einoo": [
@@ -85024,9 +85014,6 @@
     "nih'oo3ou-woxu'uuwo": [
         "white.person-medicines"
     ],
-    "nih'oo3ou.u": [
-        "white.person(s)"
-    ],
     "nih'oo3ouh'o'": [
         "poor.White.people"
     ],
@@ -85131,6 +85118,9 @@
     ],
     "nih'oo3outeen": [
         "Whites,.\"white.tribe\""
+    ],
+    "nih'oo3ouu": [
+        "white.person(s)"
     ],
     "nih'oo3ouwox": [
         "pig",
@@ -90807,7 +90797,7 @@
     "nih-co'on-niiteheiw-o'": [
         "PAST-always-help-1S"
     ],
-    "nih-co'on-niitoxu.uni-3i'": [
+    "nih-co'on-niitoxuuni-3i'": [
         "PAST-always-work.together-3PL"
     ],
     "nih-co'on-no'koohu-t": [
@@ -101954,9 +101944,6 @@
     ],
     "niibei-no'": [
         "sing-pers.PL"
-    ],
-    "niibei.": [
-        "sing"
     ],
     "niibeihii-ho": [
         "singer-OBV.PL"
@@ -122999,7 +122986,7 @@
     "wonotonou": [
         "ears,.tipi.flaps"
     ],
-    "wonotonou.u": [
+    "wonotonouu": [
         "ears,.tipi.flaps"
     ],
     "woo'": [
