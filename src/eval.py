@@ -68,6 +68,8 @@ def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[
         return {"average_accuracy": average_accuracy, "accuracy": overall_accuracy}
 
     for entry_segs, entry_pred, entry_gold, i in zip(segs, pred, gold, range(len(gold))):
+        entry_segs = re.sub(r'([.,…«»\?!])', '', " ".join(entry_segs)).split()
+
         entry_correct_predictions = 0
         iv_entry_correct_predictions = 0
         oov_entry_correct_predictions = 0
