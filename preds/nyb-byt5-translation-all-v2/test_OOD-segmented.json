@@ -19,13 +19,15 @@
             "accuracy": 0.9073520621637776,
             "average_accuracy": 0.9109760011851264,
             "in_vocab_accuracy": 0.923311016377157,
-            "oov_accuracy": 0.03333333322222222
+            "oov_accuracy": 0.03333333322222222,
+            "oov_rate": 0.017931858936043037
         },
         "word_level": {
             "accuracy": 0.8770104068117314,
             "average_accuracy": 0.8779573299535279,
             "in_vocab_accuracy": 0.9276859503173879,
-            "oov_accuracy": 0.32584269626309814
+            "oov_accuracy": 0.32584269626309814,
+            "oov_rate": 0.08420056764427625
         }
     }
 }

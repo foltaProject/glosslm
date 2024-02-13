@@ -23,7 +23,8 @@
             "accuracy": 0.8618732261116367,
             "average_accuracy": 0.8518890699499069,
             "in_vocab_accuracy": 0.9234913792108307,
-            "oov_accuracy": 0.418604650838291
+            "oov_accuracy": 0.418604650838291,
+            "oov_rate": 0.12204351939451277
         }
     }
 }

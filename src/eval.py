@@ -77,7 +77,7 @@ def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[
             if (
                 token_index < len(entry_pred)
                 and entry_pred[token_index] == entry_gold[token_index]
-                and entry_pred[token_index] != "[UNK]"
+                # and entry_pred[token_index] != "[UNK]"
             ):
                 entry_correct_predictions += 1
                 if (
@@ -112,12 +112,14 @@ def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[
         total_iv_tokens + 0.0000001
     )
     overall_oov = total_correct_oov_preds / (total_oov_tokens + 0.0000001)
+    oov_rate = total_oov_tokens / total_tokens
 
     return {
         "average_accuracy": average_accuracy,
         "accuracy": overall_accuracy,
         "in_vocab_accuracy": overall_in_vocab,
         "oov_accuracy": overall_oov,
+        "oov_rate": oov_rate
     }
 
 
