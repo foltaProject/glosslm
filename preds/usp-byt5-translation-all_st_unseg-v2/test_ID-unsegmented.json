@@ -22,9 +22,9 @@
         "word_level": {
             "accuracy": 0.8095634095634096,
             "average_accuracy": 0.7902841892178393,
-            "in_vocab_accuracy": 0.8915343914872204,
-            "oov_accuracy": 0.5087378639788859,
-            "oov_rate": 0.21413721413721415
+            "in_vocab_accuracy": 0.8955304253691152,
+            "oov_accuracy": 0.518248175087911,
+            "oov_rate": 0.22785862785862787
         }
     }
 }

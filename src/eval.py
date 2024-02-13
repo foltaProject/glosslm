@@ -33,7 +33,7 @@ def strip_gloss_punctuation(glosses: str):
     return re.sub(r"(\s|^)[^\w\s](\s|$)", " ", glosses).strip()
 
 
-def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[str]], vocab: dict) -> dict:
+def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[str]], vocab: dict, morph: bool = True) -> dict:
     """Computes the average and overall accuracy, where predicted labels must be
     in the correct position in the list."""
     total_correct_predictions = 0
@@ -68,7 +68,8 @@ def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[
         return {"average_accuracy": average_accuracy, "accuracy": overall_accuracy}
 
     for entry_segs, entry_pred, entry_gold, i in zip(segs, pred, gold, range(len(gold))):
-        entry_segs = re.sub(r'([.,…«»\?!])', '', " ".join(entry_segs)).split()
+        if not morph:
+            entry_segs = re.sub(r'([.,…«»\?!])', '', " ".join(entry_segs)).split()
 
         entry_correct_predictions = 0
         iv_entry_correct_predictions = 0
@@ -82,6 +83,10 @@ def eval_accuracy(segs: List[List[str]], pred: List[List[str]], gold: List[List[
                 # and entry_pred[token_index] != "[UNK]"
             ):
                 entry_correct_predictions += 1
+                # try:
+                #     seg = entry_segs[token_index]
+                # except:
+                #     print(entry_segs)
                 if (
                     entry_segs[token_index] in vocab.keys()
                     and entry_gold[token_index] in vocab[entry_segs[token_index]]
@@ -209,7 +214,7 @@ def eval_word_glosses(
     seg_words: List[List[str]], pred_words: List[List[str]], gold_words: List[List[str]], word_dict: dict,
 ):
     """Evaluates the performance at the word level"""
-    word_eval = eval_accuracy(seg_words, pred_words, gold_words, word_dict)
+    word_eval = eval_accuracy(seg_words, pred_words, gold_words, word_dict, morph=False)
     bleu = bleu_score(pred_words, [[line] for line in gold_words])
     wer = eval_avg_error_rate(pred_words, gold_words)
     return {"word_level": word_eval, "bleu": bleu, "WER": wer}
