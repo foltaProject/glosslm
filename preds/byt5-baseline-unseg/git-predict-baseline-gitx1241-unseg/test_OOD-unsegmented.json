@@ -1,0 +1,28 @@
+{
+    "gitx1241": {
+        "MER": 1.7004184385776675,
+        "WER": 3.0800507763743057,
+        "bleu": 0.0,
+        "chrf": 7.576017187996823,
+        "classes": {
+            "gram": {
+                "f1": 0,
+                "prec": 0.0,
+                "rec": 0.0
+            },
+            "stem": {
+                "f1": 0,
+                "prec": 0.0,
+                "rec": 0.0
+            }
+        },
+        "morpheme_level": {
+            "accuracy": 0.0,
+            "average_accuracy": 0.0
+        },
+        "word_level": {
+            "accuracy": 0.0,
+            "average_accuracy": 0.0
+        }
+    }
+}
