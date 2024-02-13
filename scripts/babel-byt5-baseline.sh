@@ -41,8 +41,8 @@ python3 git-pretrain_multilingual_model.py \
     --mode finetune \
     --exp_name byt5-baseline-unseg-${lang_code} \
     --ft_glottocode ${ft_glottocode} \
-    --output_model_path ${model_dir}{lang_code}-byt5-baseline-unseg \
-    --max_epochs 200 \
+    --output_model_path ${model_dir}${lang_code}-byt5-baseline-unseg \
+    --max_epochs 500 \
     --pretrained_model "google/byt5-base" \
     --exclude_st_seg True \
     --checkpoint_save_dir ${model_dir}training-checkpoints
