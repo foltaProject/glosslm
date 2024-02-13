@@ -135,7 +135,6 @@ def create_trainer(
         report_to="wandb",
         metric_for_best_model="chrf++",
         # tf32=True,
-
     )
 
     return transformers.Seq2SeqTrainer(
@@ -161,7 +160,7 @@ def main(
     pretrained_model: str = None,
     test_split: str = None,
     ft_glottocode: str = None,
-    max_epochs: int = 13,
+    max_epochs: int = 500,
     exclude_st_seg: bool = False,
 ):
     assert mode in ["train", "predict", "finetune"]
@@ -205,6 +204,9 @@ def main(
     id_or_ood = "ID"
     if mode == "finetune":
         dataset = dataset.filter(lambda row: row["glottocode"] == ft_glottocode)
+        if exclude_st_seg:
+            print("excluding segmented shared task data")
+            dataset = dataset.filter(lambda row: row["is_segmented"] == "no")
         if dataset['eval_ID'].num_rows == 0 and dataset['eval_OOD'].num_rows != 0:
             id_or_ood = "OOD"
         max_epochs = 500
@@ -232,8 +234,7 @@ def main(
         batch_size=2,
         lr=5e-5,
         max_epochs=max_epochs,
-        # use_early_stopping=(mode == "finetune"),
-        use_early_stopping=False,
+        use_early_stopping=(mode == "finetune"),
         id_or_ood=id_or_ood,
         checkpoint_path=checkpoint_path,
     )
