@@ -204,7 +204,7 @@ def evaluate_igt(
 
     results_dir = os.path.dirname(pred_path)
     results_path = f"{results_dir}/{test_split}-{'segmented' if segmented else 'unsegmented'}.json"
-    with open(results_path, 'x') as outfile:
+    with open(results_path, 'w') as outfile:
         json.dump(all_eval, outfile, sort_keys=True, indent=4)
 
     if verbose:
