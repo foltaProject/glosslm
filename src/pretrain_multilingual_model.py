@@ -31,7 +31,10 @@ def get_lang(glottocode):
     return lang_map[glottocode]
 
 
-def create_prompt(row):
+def create_prompt(
+    row,
+    use_translation: bool = True,
+):
     """Processing function for rows in the dataset, creates an input prompt from the fields in the row."""
     transcription = ' '.join((row['transcription']).split())
     glosses = ' '.join((row['glosses']).split())
@@ -42,7 +45,7 @@ def create_prompt(row):
 Transcription in {lang}: {transcription}
 Transcription segmented: {is_segmented}
 """
-    if row['translation'] is not None:
+    if row['translation'] is not None and use_translation:
         if len(row['translation'].strip()) > 0:
             translation = ' '.join((row['translation']).split())
             prompt += f"Translation in {row['metalang']}: {translation}\n"
@@ -163,6 +166,7 @@ def main(
     ft_glottocode: str = None,
     max_epochs: int = 13,
     exclude_st_seg: bool = False,
+    use_translation: bool = True,
     checkpoint_save_dir: str = "training_checkpoints/",
 ):
     assert mode in ["train", "predict", "finetune"]
@@ -179,7 +183,7 @@ def main(
         wandb.init(project="glossLM", entity="wav2gloss", name=run_name, config={
             "model": pretrained_model,
             "segmentation_mode": "all", # "all", "segmented", "unsegmented"
-            "translations": "yes", # "yes", "no", "yes_bert"
+            "use translations": use_translation, # "yes", "no", "yes_bert"
             "typological_info": "none", # "none", "glottofamily", "glottotree", "grambank", "lang2vec"
             "synthetic_data": "none", # "none", "chatgpt", "treebank", "galactic_deps"
             "curriculum": "none",
@@ -211,9 +215,13 @@ def main(
             dataset = dataset.filter(lambda row: row["is_segmented"] == "no")
         if dataset['eval_ID'].num_rows == 0 and dataset['eval_OOD'].num_rows != 0:
             id_or_ood = "OOD"
-        max_epochs = 100
+        # at minimum, finetune for 100 epochs
+        if max_epochs < 100:
+            max_epochs = 100
 
-    dataset = dataset.map(create_prompt)
+    if not use_translation:
+        print("excluding translations")
+    dataset = dataset.map(create_prompt, fn_kwargs={"use_translation": use_translation})
     dataset = dataset.map(
         tokenize(tokenizer, max_length=MODEL_INPUT_LENGTH), batched=True
     )
