@@ -102,6 +102,7 @@ def create_trainer(
     lr,
     max_epochs,
     use_early_stopping,
+    early_stopping_patience,
     id_or_ood,
 ):
     assert id_or_ood in ["ID", "OOD"]
@@ -152,7 +153,7 @@ def create_trainer(
         eval_dataset=dataset[f"eval_{id_or_ood}"],
         compute_metrics=compute_metrics(tokenizer),
         tokenizer=tokenizer,
-        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=3)] if use_early_stopping else [],
+        callbacks=[DelayedEarlyStoppingCallback(early_stopping_patience=early_stopping_patience)] if use_early_stopping else [],
     )
 
 
@@ -165,6 +166,7 @@ def main(
     test_split: str = None,
     ft_glottocode: str = None,
     max_epochs: int = 13,
+    early_stopping_patience: int = 3,
     exclude_st_seg: bool = False,
     use_translation: bool = True,
     checkpoint_save_dir: str = "training_checkpoints/",
@@ -246,6 +248,7 @@ def main(
         lr=5e-5,
         max_epochs=max_epochs,
         use_early_stopping=(mode == "finetune"),
+        early_stopping_patience=early_stopping_patience,
         id_or_ood=id_or_ood,
         checkpoint_path=checkpoint_path,
     )
