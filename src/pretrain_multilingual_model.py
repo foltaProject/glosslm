@@ -139,7 +139,8 @@ def create_trainer(
         report_to="wandb",
         metric_for_best_model="chrf++",
         # tf32=True,
-
+        fp16=True,
+        dataloader_num_workers=4,
     )
 
     return transformers.Seq2SeqTrainer(
@@ -169,6 +170,7 @@ def main(
     early_stopping_patience: int = 3,
     exclude_st_seg: bool = False,
     use_translation: bool = True,
+    use_unimorph: bool = True,
     checkpoint_save_dir: str = "training_checkpoints/",
 ):
     assert mode in ["train", "predict", "finetune"]
@@ -177,6 +179,7 @@ def main(
     assert (ft_glottocode is not None and pretrained_model is not None and output_model_path is not None) if mode == "finetune" else True
 
     random.seed(0)
+
     if (mode == "train" or mode == "finetune") and not DEBUG:
         run_name = exp_name
         if mode == "finetune":
@@ -197,7 +200,11 @@ def main(
     tokenizer = transformers.ByT5Tokenizer.from_pretrained(
         "google/byt5-base", use_fast=False
     )
-    dataset = datasets.load_dataset('lecslab/glosslm-split')
+
+    if use_unimorph:
+        dataset = datasets.load_dataset('lecslab/glosslm-split-unimorph')
+    else:
+        dataset = datasets.load_dataset('lecslab/glosslm-split')
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
 
     # filtering out the shared task segmented data for comparison
