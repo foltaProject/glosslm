@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --nodes=1           # Number of requested nodes
-#SBATCH --gres=gpu:4
+#SBATCH --gres=gpu:3
 #SBATCH --ntasks=4          # Number of requested cores
 #SBATCH --mem=32G
 #SBATCH --time=7-00:00:00          # Max walltime              # Specify QOS
@@ -20,11 +20,12 @@ module load anaconda
 conda activate AutoIGT
 cd "/projects/migi8081/glosslm/src"
 
+exp_name="unimorph-unseg-distributed"
 exclude_st_seg="True"
 use_unimorph="True"
 
 torchrun --nproc_per_node=4 pretrain_multilingual_model.py \
     --mode train --exp_name ${exp_name} \
-    --output_model_path ${model_dir}${exp_name} \
+    --output_model_path /projects/migi8081/glosslm/models/${exp_name} \
     --exclude_st_seg ${exclude_st_seg} \
     --use_unimorph ${use_unimorph}
