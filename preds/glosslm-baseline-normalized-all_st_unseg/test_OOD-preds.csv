@@ -1,0 +1,487 @@
+id,glottocode,is_segmented,pred,gold
+st_test_gitx1241_0,gitx1241,no,tell-1.SG.SBJV 1.SG.SBJV about when COMP white.person-POSS come-3.PL.CONJ white.person-POSS first Kitwancool then,PROSP tell-T-TR-1.SG.2 MANR LVB-CN COMP in toward come.PL-CN PL-white-ATTR person LOC-CN inhabitants-1.PL.2 Kitwancool long.ago
+st_test_gitx1241_1,gitx1241,no,for.a.long.time NEG long.after 3.PL.PROX people arrive arrive 3.PL.PROX RECIP-gather.COMP-3.PL.COM DET people Kitwancool,not.yet-FOC long PART-SPT come.PL-CN person ASSOC-DEM.PRX CCNJ together-heart-CAUS2-3.PL.2-CN PART person-T-CN Kitwancool
+st_test_gitx1241_2,gitx1241,no,want-3.PL PROSP tell-3.PL.SBJV 3.PL.SBJV COMP PROSP about DET-3.SG.POSS-inside 3.PL.SBJV PROSP village PRO,desire-3.PL.2 PROSP tell-3.PL.2 COMP INCEP PROSP new INS-on-dwell-3.2 LOC-CN COMP sit-CN village-CN Kitwancool
+st_test_gitx1241_3,gitx1241,no,plan so-called government so-called COMP 3.PL.SUBJ DEM FUT Indian-3.PL.SUBJ interior-3.PL.SUBJ indian-3.PL.SUBJ so-called so-called,3.3 CAUS1-heart-PASS-CN government CAUS1-name-T-3.PL.2 CCNJ PROSP on sit.PL-CN PROSP live-CN plainly-PL-people LOC-CN on reserve CAUS1-name-T-3.PL.2
+st_test_gitx1241_4,gitx1241,no,what only 3.PL.ERG 3.PL.ERG ask Kitwancool-people 1.PL.EXCL.ERG here live-1.PL.EXCL.ABS 1.PL.EXCL.ABS on.the.other.land 1.PL.EXCL.ART,what REAS-be/do-3.2 QUOT.3.SG-CN PART people-T-CN Gitwinhlguu'l PREP-CN on dwell-1.PL.2 LOC-CN land-1.PL.2 LOC-PRO-DEM.PRX
+st_test_gitx1241_5,gitx1241,no,3.PL hear-3.PL.CONJ COMP PROG call-3.PL.CONJ surveyor-3.PL.CONJ DET surveyors,CCNJ hear-3.PL.2 COMP PROSP come.PL-CN CAUS1-name-T-3.PL.2 PREP-CN surveyors
+st_test_gitx1241_6,gitx1241,no,they FUT measure.out-3.PL.CONJ tall-long-3.PL.CONJ that.one what it.is.named reserve 3.POSS-name-3.PL.CONJ,so PROSP-FOC measure-3.PL.2-CN DISTR-long-SX-CN perimeter PROSP COMP leave-CN reserve CAUS1-name-PASS-QUDD
+st_test_gitx1241_7,gitx1241,no,the people agree that big-reserve they agree they want-3pl reserve that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ that want-3sg.CONJ reserv,CCNJ good COMP unanimously say-CN Kitwancool PROSP big-large PROSP completely across leave LOC-CN one-CN mountain PROSP CCNJ into.low.plane leave LOC-CN one-CN river LOC-CN Skeena.river on DISTR-find-SX upstream leave LOC-CN Mejiaadin 3.3-CN want-3.PL.2-CN reserve
+st_test_gitx1241_8,gitx1241,no,he disagreed DEM Indian Agent so-called DEM Indian Agent DEM 3.gather.COMP.BEN DEM 3.gather.COMP.BEN people 3.gather.COMP.BEN 3.gather.COMP.BEN,so CCNJ NEG-FOC say-CN Indian Agent-EPIS CAUS1-name-PASS-SX PREP-CN Indian Agent AX-3.1 together-heart-CAUS2-CN people together-sit.PL-3.PL.2
+st_test_gitx1241_9,gitx1241,no,and already 1.PL.EXCL say-3.PL.SBJV DET village Kitwancool that NEG.EX do-2.PL.SBJV how 1.PL.EXCL want-1.PL.SBJV do-1.PL.SBJV DET very small-COMP reserve DET already be-2.PL.SBJV,CCNJ on COMP say-CN PART person-T-CN Kitwancool IRR-SPT NEG-IRR LVB-2.PL.2 so CCNJ NEG-PROSP-FOC want-1.PL.2 PREP-CN only small-little-CN land-CN PROSP in make-TR-2.PL.2
+st_test_gitx1241_10,gitx1241,no,here although people.of.Kitwancool say.PRF.3.PL.NEG little.reserve little.reserve say.PRF.3.PL.NEG little.reserve NEG want.PROSP 1.PL.POSS land give.away-3.PL.CONJ 3.PL.speaker 3.PL.speaker,so though LBV-3.2-like-CN say-CN Kitwancool CCNJ NEG-FOC want-3.PL.2 PREP-CN reserve NEG-FOC want-1.PL.2 PROSP 1.PL.1 away give-CN territory-1.PL.2 QUOT.3.PL
+st_test_gitx1241_11,gitx1241,no,and they.told COMP Indian Agent PROSP stop surveyors they.will.chase.away surveyors,CCNJ say-3.PL.2-REPORT PREP-CN Indian Agent PROSP-3.1 stop-CAUS2-CN surveyors PROSP away flee-CAUS2-3.PL.2-CN surveyors
+st_test_gitx1241_12,gitx1241,no,hey even.though said.3s COMP Kitwancool COMP NEG 3.PL.wanted.4 reserve COMP 3.PL.came.back surveyors surveyors,so though LVB-3.2-like-CN say-CN Gitwinhlguu'l CCNJ NEG-FOC want-3.PL.2-CN reserve CCNJ just-again come.PL-3.2-REPORT-CN surveyors
+st_test_gitx1241_13,gitx1241,no,and they.started measure.out-3.PL.COMP settlement.DET little only they.sit,CCNJ CAUS1-sit-1.PL.2-ATTR measure-3.PL.2-CN circumference-CN little on INS-on-live
+st_test_gitx1241_14,gitx1241,no,and stand.by-3.PL.CONJ and after 3.PL.CONJ tell-3.PL.CONJ COMP surveyors NEG.it.is.good FUT-3.PL.CONJ right that depart-3.PL.CONJ,CCNJ PL-watch-3.2-REPORT-CN person PFV say-3.PL.2 PREP-CN surveyors NEG-2.1-FOC right PROSP LVB-2.PL.2 IRR-SPT CAUS1-sit-DETR-2.PL.2
+st_test_gitx1241_15,gitx1241,no,he TOP 3.PL.SBJV-3.PL.ACC-continue AUX.TR surveyors,CCNJ VER continually-MANR do-CN surveyors
+st_test_gitx1241_16,gitx1241,no,"one DET chief-OBV one gather-3OBJ DET people.of.the.village people.of.the.village, and they.said we.FUT oppose-1.PL.EXCL we.FUT chase-1.PL.EXCL DET",so CCNJ together-heart-CAUS2-CN one.HUM-CN chief PART person-T-CN Kitwancool CCNJ say-3.PL.2 PROSP block.way-lie-PASS-TR-1.PL.2 PROSP away run.away-CAUS2-1.PL.2 3.PL.3
+st_test_gitx1241_17,gitx1241,no,1.PL.SBJV FUT-want-1.PL.ACC PREP support young.man help PREP 1.PL.POSS,CCNJ want-1.PL.2 PROSP near stand-PASS-CN still grow-ATTR man PROSP AX-3.1 help-1.PL.2
+st_test_gitx1241_18,gitx1241,no,and DEM-COMP 3.PL.SBJV-do-3.PL.ACC,so 3.3-CN LVB-3.PL.2
+st_test_gitx1241_19,gitx1241,no,3.PL mob-3.PL.PST surveyors,CCNJ-3.1 swarm-3.PL.2-CN surveyors
+st_test_gitx1241_20,gitx1241,no,3.PL 3.PL.COM-take tape 3.PL.COM measure,CCNJ-3.1 take.PL-3.PL.2-CN NMLZ-measure-DETR tape 1.PL.1 CAUS1-name-T-3.2
+st_test_gitx1241_21,gitx1241,no,take-3.PL.COMP tool-PL surveyors equipment 3.POSS-name-PL tool-PL surveyors,take.PL-3.PL.2-CN NMLZ-use-DETR surveyors equipment CAUS1-name-T-CN NMLZ-use-DETR-CN surveyors
+st_test_gitx1241_22,gitx1241,no,and already completely chop-3.PL.CONT with axes,CCNJ-3.1 truly all.over PL-chop-3.PL.2 PREP-CN axe
+st_test_gitx1241_23,gitx1241,no,and chase-3.PL.COMP surveyors,CCNJ-3.1 run.away-CAUS2-3.PL.2-CN surveyors
+st_test_gitx1241_24,gitx1241,no,NEG long.after DET arrive-CONT police,NEG-FOC long-3.2 CCNJ come.PL-CN police
+st_test_gitx1241_25,gitx1241,no,they.arrested.people those.PL those.PL thought.that they.thought COMP when that.PL they.destroyed.them tools.PL surveyors.PL,stop.in.motion-take.PL-3.PL.2-CN who-CN CNTR thought-3.PL.2 accompany-ANTIP-SX PREP-CN COMP truly all.over PL-empty-CAUS2-3.PL.2-CN NMLZ-use-DETR-CN surveyors
+st_test_gitx1241_26,gitx1241,no,and jail-COMP-3.PL.COMP,CCNJ-3.1 in-sit.PL-CAUS2-3.PL.2
+st_test_gitx1241_27,gitx1241,no,after take.away-CONJ police-CONJ away DEM COMP-3.PL.PRX destroy-CONJ tool-3.PL.PRX surveyor-3.PL.PRX surveyor-3.PL.PRX still object-3.PL.PRX DEM DEM tool-3.PL.PRX Kitwancool.people-3.PL.PRX,PFV-3.1 COM-leave.PL-CN police-CN people AX-3.1 truly completely PL-chop-CN NMLZ-use-DETR-CN surveyors CCNJ continually 3.3-CN say-CN PART person-T-CN Kitwancool
+st_test_gitx1241_28,gitx1241,no,absolutely POSS oppose-1.PL.APPRX,VER PROSP block-lie.on-PASS-TR-1.PL.2
+st_test_gitx1241_29,gitx1241,no,and there.are.three.ones also chiefs jailed three.ones Oakalla Prison jailed,CCNJ in-sit.PL-CN DWID three.HUM-EPIS-CN true-PL-person LOC-CN Oakalla Prison CAUS1-name-PASS-QUDD
+st_test_gitx1241_30,gitx1241,no,NEG 3.PL.PST-record-PASS.PROG QUANT incarcerated-3.PL.PST,DWID write-EPIS-CN year in-sit.PL-3.PL.2
+st_test_gitx1241_31,gitx1241,no,while DEM in.prison chiefs DEM DET surveyors DET surveyors,so CCNJ IPFV-CN in-sit.PL-CN true-PL-person ASSOC-DEM.PRX CCNJ just-again come.PL-CN surveyors
+st_test_gitx1241_32,gitx1241,no,he he hurriedly there that.one little.reserve only that.one he.gave-it Indian Agent how that.one he.gave-it Kitwancool,so CCNJ truly DUR-hurry-3.PL.2 CCNJ-3.1 measure-3.PL.2-CN small-little-CN on INS-on-earth give-TR-CN Indian Agent DM-DEM.PRX PREP-CN PART person-T-CN Kitwancool
+st_test_gitx1241_33,gitx1241,no,one mile by one mile 1.PL.EXCL.ABS say-3.SG.PST,one mile by one mile QUOT.1.PL 1.PL.3
+st_test_gitx1241_34,gitx1241,no,because frightened surveyors CONJ today DEM.4 villagers COMP villagers say.4 that.4 they.should.not NEG made surveyor's reserve,MS.AMT-CN afraid.PL-CN surveyors CCNJ VER 3.3-CN REAS-COMP-CN say-CN Kitwancool now NEG-FOC CIRC.NECC-PROSP-FOC around sit-T-CN surveyors reserve
+st_test_gitx1241_35,gitx1241,no,NEG DET INDF 3.PL.sign 3.PL.say 3.PL.say,NEG-FOC what IRR mark-3.PL.2 QUOT.3.SG-CN say-3.2
+st_test_gitx1241_36,gitx1241,no,that-COP 3.SG.SUBJ-3.SG.ACC,3.3-CN CNT.AMT-3.2
+st_test_lezg1247_0,lezg1247,no,and guy(FEM)-NOM.SG pick_up.PST.3.SG necklace(FEM)-NOM.SG one.NOM.SG pair.NOM.SG necklace(FEM)-NOM.SG,this boy-DIR-GEN-ERG hand threw-AOR one pair take-INESS
+st_test_lezg1247_1,lezg1247,no,in.this.thing-NOM.PL real-NOM.PL story-NOM.PL and,reflxv-FOC be-PERF-PST work-PL was
+st_test_lezg1247_2,lezg1247,no,far.ABL run-ITER-AOR-1.PL.EXCL there,far apperance-AOR 1pl.abs ...
+st_test_lezg1247_3,lezg1247,no,PTCL 1.PL.INCL sea-REFL-GEN.SG sea-DAT.SG say-PST.3.SG,come go-GEN sea-OBL-GEN bank-ERG-DAT say-ENT
+st_test_lezg1247_4,lezg1247,no,1.SG-ACC.1.SG holiday-DAT.FEM.SG send-PASS.PST.PTCP-NOM.FEM.SG be.INAN.PST.1.SG,then vacation give-AOR 1sg.ERG-DAT
+st_test_lezg1247_5,lezg1247,no,go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP] go[IMP],"go-AOR », say-AOR « you », say-AOR « 1sg.gen horse-ERG-GEN leg hit not.make.PRF.PTP-PERF-PST one place-ERG-SPSS-EL say-AOR « 1sg.ERG-DAT one piece », say-AOR soil bring.IMPV say-AOR"
+st_test_lezg1247_6,lezg1247,no,"ask.IPFV.PST1.1.PL 1.PL.NOM road(FEM)[NOM.SG] show-IPFV.NFIN, 1.PL.NOM 1.PL.DAT make.INFER.NOM.SG","say-AOR 1pl.erg way,.road-INESS-SPSS CAME.DOWN-AOR road separated you.know"
+st_test_lezg1247_7,lezg1247,no,Berlin-ABL France-ALL,Berlin-INELAT France-DIR-DAT
+st_test_lezg1247_8,lezg1247,no,when 1.PL road-PROL 1.PL-return-PST,1pl.abs road took-AOR return-PL-TEMP
+st_test_lezg1247_9,lezg1247,no,they-GEN.PL home-PL-NOM.PL have-3.PL,them-Q HOUSE-PL-DAT-days-DAT appereance-AOR
+st_test_lezg1247_10,lezg1247,no,and and keep.care.of-IPFV-3.PL 1.SG.DAT and you.PL.NOM keep.CVB-IPFV-PST-3.PL kind-INTENS-INTENS-INTENS-INTENS very,good our took.care-DIR-SBSS remain-AOR 1sg.ERG-DAT great was favours show-AOR people-DIR-GEN side.on-AOP
+st_test_lezg1247_11,lezg1247,no,"""Samur.NOM newspaper.NOM come.PERF.3.SG","""Samur"" newspaper come-PTP time-INESS 00 20"
+st_test_lezg1247_12,lezg1247,no,want-PRS.3.SG 3.SG.NOM.MASC evil-ACC.FEM 3.SG.DAT.MASC guy-DAT.MASC,evil-PURP make-DAT want-IPFV even boy-DIR-DAT
+st_test_lezg1247_13,lezg1247,no,what do-NFIN say-PST2-1.SG DEM.SG.NOM NEG-see-PST2-1.SG see-PST2-1.SG pearl-GEN.PL now owner.NOM.SG pearl-GEN.PL 1.SG.DAT owner.NOM.SG,"1sg.ERG what-ERG-GEN », say-ENT but « to.see-IPFV-NEG-FOC », say-ENT « king-DIR-DAT 1sg.ERG-AT-EL now pearls-ERG-GEN owner want-IPFV »."
+st_test_lezg1247_14,lezg1247,no,and this.ABL form.ABL create-PST.3.SG and this.ABL form.ABL book.ABL and this.ABL write-PST.3.SG,"Sedaget Ma'am-ERG himself-ERG-GEN form creating.after-AOR and that,.the.same form-DIR-AT put-AOR this book write-PERF"
+st_test_lezg1247_15,lezg1247,no,yes this boatman say.PST.3.SG also say.PST.3.SG also say.PST.3.SG 1.SG.ACC say.PST.3.SG guy.ABL deceive.PST.3.SG deceive.PST.3.SG say.PST.3.SG also,"today this boatman-DIR-FOC », say-AOR « he.also-FOC », say-AOR 1sg.abs », say-AOR « guy.from removing.AOC-AOR », say-AOR « decieved.ENT-PL-AOR himself-ERG-GEN house-OBL-DAT take.FUT-IPFV-PST was"
+st_test_lezg1247_16,lezg1247,no,no say-PST2-3sg please lip-PL-OBL-SUPER water in say-PRS2-3sg please please water with me-ABL that ladel water,"no », say-ENT « 1sg.gen lips-PL-INESS-SPSS wound happened-PERF say-ENT « that mug?-INESS is-DAT one water order.IMPV please.do 1sg.ERG-DAT »."
+st_test_lezg1247_17,lezg1247,no,not this.way work-NFIN be.able-PRS-3.SG work-NFIN,"like.that will.not.be that », say-ENT"
+st_test_lezg1247_18,lezg1247,no,shepherd-PL dog.PL.NOM this.way treat-NEG.PRS.3.PL thus so.ADV,shepherd-DIR dog-DAT such move-PL make-FUT-PST cop.NEG
+st_test_lezg1247_19,lezg1247,no,3.SG say-PST village-NOM.SG language-NOM.SG and village-NOM.SG concert-NOM.SG and 1.SG say-PST village-NOM.SG,1pl.gen village-INESS come-AOC say-PST-TEMP 1sg.ERG come-AOC concert-Q give-PST-SBST was this village.in-INESS come-AOR
+st_test_lezg1247_20,lezg1247,no,we NEG.COND.1.PL road-DEF.ABS see-1.PL.EXCL.PRS,road to.see-DAT will.stay-AOR-DAT SUDDENLY-AOR
+st_test_lezg1247_21,lezg1247,no,well hear-CVB this our guy-PL-ERG cassete-ACC 3.SG.DAT that.day day cassete(ACC) 3.SG.DAT give-NFIN,this case seen 1pl.gen-ABS.PL-ERG say-AOR that hey.man today give you.know 1pl.gen-ADESS
+st_test_lezg1247_22,lezg1247,no,and she.put.in first and.PTCP person.NOM.SG.FEM more.PTCP price.NOM.SG.FEM according.to position.NOM.SG.FEM scale.arrow.NOM.SG.FEM position.NOM.SG.FEM,"and then how that,.the.same scale-DIR-GEN arrow very up happened-PERF-COND that before put-PERF"
+st_test_lezg1247_23,lezg1247,no,that-GEN.SG village-GEN.SG in-PL-LOC-PL house:NOM.PL be:PST.3.PL small:NOM.PL be:PST.3.PL,village-ERG-GEN they-ERG-GEN house-ERG-PL ground.in-ERG cop low-INESS window
+st_test_lezg1247_24,lezg1247,no,now A-kidadarna Attaches kidarna here in city-NOM.FEM.SG,he.also-GEN mount.ENT-AOR then bring.again-AOR 1pl.abs one city-DIR-DAT
+st_test_lezg1247_25,lezg1247,no,yes say-PST-3.PL,"Let.it.be », say-ENT"
+st_test_lezg1247_26,lezg1247,no,as.you.know as.you.know as.you.know which village high mountains-PL-ATTR:ACC.PL.MASC high.mountains-ATTR:ACC.PL.MASC high.mountains-ATTR:ACC.PL.MASC village.NOM.PL.MASC and Sudur.NOM.SG.FEM be.PRS.3.SG,Sudur-ERG-FOC 2pl-DAT knowing-FUT.PTP-PURP 1pl.gen valley-INESS is-PST EVERYTHING-INESS-SPSS-EL-FOC high mountain-SPSS-PL-ERG-AT close-SPSS one village.in was
+st_test_lezg1247_27,lezg1247,no,and she.NOM thier.heads.ACC cut.off-FUT.3.SG,cutting.IMC-DAT give-AOR these-ERG-GEN chapter-PL-FOC
+st_test_lezg1247_28,lezg1247,no,1.SG through-PROG-1.SG very.much thing-PL.ACC go.PST.1.SG,my chapter-ERG-SPSS-FOC very coming-PST-SBST cop
+st_test_lezg1247_29,lezg1247,no,you.DAT still you.DAT heart.DAT sweetheart-DAT.PL say.NFIN.ACT sweetheart-DAT.PL,want-ERG sweetheart-DIR-DAT 2sg.gen heart-INESS say-FUT-PST word-PL he-Q
+st_test_lezg1247_30,lezg1247,no,what here write.PST.3.SG stage.PST.3.SG well how and here come.PST.1.SG tonight.night.NOM.SG and with this.NOM.SG here do.PST.PTCP.NOM.SG write.PRS.3.SG dastan.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NOM.SG.NO,"seen things write-AOC stage not today-AT-DAT 1sg.ERG come-AOC how make,.do-AOC-COND this one thing her created-AOC himself-ERG created-AOC writing-IMC-AOP-DIR was dastan"
+st_test_lezg1247_31,lezg1247,no,1.NOM so fear be(come)-AOR.PTCP,1sg.ERG-DAT great fear be-AOR
+st_test_lezg1247_32,lezg1247,no,Conj she this.LOC act.PTCP.FEM see.PTCP.FEM that deal.NOM legend.NOM.FEM and honor.DAT.FEM write.IPFV.3.SG write.IPFV.3.SG dasstand.NOM.FEM,concert-PL give.will-DAT go-PST-TEMP seen-COND that but really-INESS-EL her himself-ERG-DAT write-PERF dastan
+st_test_lezg1247_33,lezg1247,no,1.SG.DAT home-LOC daughter.in.law-FEM.SG.NOM with hunter-in-law-FEM.SG.NOM have,1sg.ERG-DAT now house-INESS one wife-FOC cop
+st_test_lezg1247_34,lezg1247,no,because.of.that because.of 1.SG.NOM courtyard-NOM.FEM.SG.ACC-NEG-1.SG.NEG 3.SG.GEN enter.PST,she-SBSS-EL ashamed 1sg.ERG-AT-EL yard.in-INESS-SPSS-FOCUS go-IMC be-IPFV-NEG
+st_test_lezg1247_35,lezg1247,no,what do-NFIN say-PST2-1.SG DEM.SG.NOM NEG-see-PST2-1.SG see-PST2-1.SG pearl-GEN.PL now owner.NOM.SG pearl-GEN.PL 1.SG.DAT owner.NOM.SG,"1sg.ERG what-ERG-GEN », say-ENT but « to.see-IPFV-NEG-FOC », say-ENT « king-DIR-DAT 1sg.ERG-AT-EL now pearls-ERG-GEN owner want-IPFV »."
+st_test_lezg1247_36,lezg1247,no,young.girl-PL young.girl-PL dish.PL rice.PL take.PST.PTCP and there young.girl-PL,pans-PL dishes-PL rice-PL they with go-AOR there young girl-PL-ERG this great girl-PL-ERG ...
+st_test_lezg1247_37,lezg1247,no,PRO man.NOM.SG work.DAT.SG kid.NOM.SG lady.NOM.SG,himself-ERG more what-ENT so.much say-AOR
+st_test_lezg1247_38,lezg1247,no,and.then ask.PST.3.SG land.PST.3.SG 3.SG.ACC he.ACC and.PT.3.SG he.ACC wood.ACC and.the.ACC that.ACC which.ABS that.ABS land.PST.3.SG,he.also-DAT coming-AOR say-PERF that here this wood-PL 2sg.gen 1sg.ERG-DAT sell give say-PERF 06 29
+st_test_lezg1247_39,lezg1247,no,two~two-son-INDF.NOM.SG say-PST.3.SG son-DEF.NOM.SG now this.DAT.SG go.PRS.1.SG soon-DEF.NOM.SG soon-DEF.NOM.SG and bring.PRS.1.SG soon-DEF.NOM.SG,"SECOND boy-ERG say-AOR 1sg.abs go-INESS father », say-AOR « now-INESS 1sg.ERG will.bring-ENT », say-AOR"
+st_test_lezg1247_40,lezg1247,no,1.SG.NOM say.PST.1.SG 1.SG.DAT well-1.SG straight-1.SG 1.SG.NOM say.PRS.3.SG,more one thing-FOC happened-AOR-NEG say-AOR 1sg.ERG yes
+st_test_lezg1247_41,lezg1247,no,and go-NFIN sea-ALL 1.SG bottom-ALL and sea-ALL 1.must fight-NFIN steed-INS with sea-steed-ALL sea-PL-ALL sea-PL-ALL sea-PL-DAT,sea-OBL-GEN want-ERG-DAT a.going.MSD for-INELAT-FOC 1sg.abs sea-OBL-GEN steed-ERG-POESS with-DAT fight.AOC want-IPFV say-ENT
+st_test_lezg1247_42,lezg1247,no,and this girl(FEM)[NOM.SG] become-PST.FEM.SG king(FEM)[NOM.SG] reign-NOM.SG.FEM-DAT.SG self-GEN.SG girl(FEM)[NOM.SG]-NOM.SG,this girl-Q king happened-AOR now started.ENT-INESS himself-ERG-GEN reigned.ENT-ERG-DAT
+st_test_lezg1247_43,lezg1247,no,illda-FEM-NOM.SG weather-NOM.SG hot-PTCP be.PST1.3.SG and friend-NOM.PL 1.GEN.PL decide.PST.3.PL say.PRS.3.PL say.PRS.3.PL,friend-PL-ERG advice see-AOR that weather today-GEN as warm was ...
+st_test_lezg1247_44,lezg1247,no,here and this portrait carry-IMP say-IMP and spring-GEN province-GEN head-GEN spring-GEN head-GEN head-GEN head-GEN head-GEN place-IMP spring-GEN head-GEN head-LOC head-LOC place-IMP,"carry.IMPV this 1sg.gen picture », say-ENT « that ,» say-INESS there.from-PST country.in-DIR-GEN chapter-INESS-SPSS is.there-PST spring-DIR-GEN chapter-INESS-SPSS put.IMPV say-ENT"
+st_test_lezg1247_45,lezg1247,no,we and facility-ABL.SG 1.PL-return-PST,1pl.erg this facility.from-DIR-SPSS-EL return-PL-TEMP
+st_test_lezg1247_46,lezg1247,no,housework-NOM.PL all housework do-PST:1.SG we three brother-NOM.PL and one sister-NOM.PL do-PST:1.PL we,house-OBL-GEN work-PL all 1sg.ERG-SPSS happened-AOR three brother-FOC one sister happened-AOR 1sg.abs
+st_test_lezg1247_47,lezg1247,no,what FUT-do-3.SG,he what-IPFV
+st_test_lezg1247_48,lezg1247,no,and plough.DAT PROG-put-IPFV-PTCP person.NOM person.NOM bebir.NOM,this plough who.was.putting-IPFV-PST-SBST Bebir uncle happened-AOR
+st_test_lezg1247_49,lezg1247,no,horse.DEF return.PST.3.SG say.PST.3.SG king.DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM daughter.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM daughter.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.POSS.FEM-DEF.,"return-AOR horse « Yes », say-AOR now help-INELAT go-DAT be-ENT say-AOR « king-DIR-GEN girl will.bring-DAT »."
+st_test_lezg1247_50,lezg1247,no,"then finish-PST.3.SG... finish-PST.3.SG we.PL.NOM mortar.man-PL.NOM we.PL.NOM, we.PL.NOM two-PL-NOM we.PL.GEN two.PL.NOM",finish happened-AOR ... there-SPSS 1pl.abs mortar.men was mine-PL threw.ENT-ENT-PST three person
+st_test_lezg1247_51,lezg1247,no,five.NOM.PL centimeter-NOM.PL and exist.PST.3.PL crane-NOM.PL tip-NOM.PL between with crane-NOM.PL with five.NOM.PL centimeter-NOM.PL between amuuk-NOM.PL,high.voltage line-DIR-GEN-FOC this our crane-DIR-GEN arrow-DIR-GEN between-INESS one so.much one five centimeter place remain-AOR
+st_test_lezg1247_52,lezg1247,no,2.SG go-PRS-2.SG,you where ?»
+st_test_lezg1247_53,lezg1247,no,afterwards that-ABL good-live-IPFV-PRS-1.PL.EXCL live-DAT.PL hard.work with work this.ABL hard.work work-DAT.PL live-DAT.PRS-1.PL.EXCL,there-SPSS-EL after labour-POSTR earning-NFIN us-ERG-DAT one hadful bread good-DIR-SBSS live be-AOR
+st_test_lezg1247_54,lezg1247,no,and matchmaker-PL-ACC.PL 1.SG send-FUT.1.SG,matchmakers.also-PL-FOC send-IPFV 1sg.ERG say-AOR .»
+st_test_lezg1247_55,lezg1247,no,DEM.REM.NOM.SG school-DAT.SG wood(FEM)-ACC.SG shool-DAT.SG so what.NOM.SG,school-DIR-GEN wood thing putting-ENT-PST one was
+st_test_lezg1247_56,lezg1247,no,from.Poland take.PST-3.PL Berlin-ALL,Poland-INELAT that-DAT Berlin-DIR-DAT
+st_test_lezg1247_57,lezg1247,no,sea-steed-FEM.NOM.SG is sea-steed-FEM.NOM.SG horse-FEM.NOM.SG,sea-OBL-GEN steed sea-OBL-GEN horse
+st_test_lezg1247_58,lezg1247,no,and knock-AOR.3.SG and quick-AOR.3.SG open-AOR.3.SG and woman-NOM.SG woman-NOM.SG there-AUX.PRS.3.SG one.FEM.NOM.SG old.woman.NOM.SG,door knock-AOC quickly open-AOR look.IMP-PST-COND one old old.woman grandmother cop
+st_test_lezg1247_59,lezg1247,no,we(PL) die.PST.PTCP die.PST.PTCP-NOM.SG father(NOM.SG) forest-ALL go.PST.PTCP-NOM.SG forest-DAT.SG with wood(NOM.SG),"our mother grandfather-FOC still.be,.remain-NEG wood-PL bring-AOC dear-IPFV you.know feild-INESS-PST"
+st_test_lezg1247_60,lezg1247,no,and.after that.NOM.FEM.SG and ten year.NOM.FEM.SG 1.DAT.SG work.IPFV-PST.1.SG and culture.house.NOM.FEM.SG and dom.kind.NOM.FEM.SG,there-SPSS-EL after 1sg.ERG ten year working-AOR this field-INESS 1sg.ERG house.of.culture.in-ERG-INESS
+st_test_lezg1247_61,lezg1247,no,they you.DAT head.DAT ache-PRS-3.PL speak-PRS-3.PL,"they-ERG 2sg.gen head secured-PL-ENT », say-ENT"
+st_test_lezg1247_62,lezg1247,no,nan-NOM.FEM.SG,05 16
+st_test_lezg1247_63,lezg1247,no,3.SG.DAT be.PST-3.SG 3.SG.GEN lonely.NOM.SG,"alone old.woman was still.be,.remain"
+st_test_lezg1247_64,lezg1247,no,and~this.moment this.moment 3.SG-ACC catch-PST-3.PL and house-OBL.FEM-DAT.SG,AT.THIS.MOMENT-INESS bought-ENT he.and take-ENT this house-OBL-DAT
+st_test_lezg1247_65,lezg1247,no,1.SG-child-POSS.1.SG be.PRS.3.SG,child-FOC cop
+st_test_lezg1247_66,lezg1247,no,we.EXCL decision-LOC come.PST-1.PL,1pl.abs decision one was
+st_test_lezg1247_67,lezg1247,no,where-ABL need-APPR-PASS-PRS.2.PL her.ACC find-IMP.2.PL 1.DAT-ABL bring-IMP.2.PL,where-PST want.COND.FOC 1sg.ERG-DAT find-AOR bring ».
+st_test_lezg1247_68,lezg1247,no,we-NOM.PL there return-AOR.3.SG,1pl.abs-FOC here-SPSS return-AOR
+st_test_lezg1247_69,lezg1247,no,guy-DAT.MASC say-PST.3.SG INTERJ king where find-NFIN guy-DAT.MASC say-PST.3.SG where idea be.PRS.3.SG and what do-PRS.1.SG how do-PRS.1.SG,"boy-DIR-GEN-ERG say-ENT oh king 1sg.ERG which-INELAT bring.HORT », say-ENT « 1sg.ERG-DAT know-IPFV-NEG even 1sg.ERG 2sg-DAT what-ERG-GEN how make-GEN ?»"
+st_test_lezg1247_70,lezg1247,no,Sevastopol-OBL.FEM-LOC battle-NOM.SG be.PST-3,Sevastopol-INESS war happened-AOR
+st_test_lezg1247_71,lezg1247,no,donkey.DAT.PL this.DAT.SG king.DAT.SG donkey.DAT.SG mount.PST.3.PL horse.DAT.SG donkey.DAT.SG light.PST.3.PL donkey.DAT.SG donkey.DAT.SG light.PST.3.PL fire.DAT.SG donkey.DAT.SG and him.DAT.SG send.PST.3.PL village.ABL.SG,mount.ENT this king these-ERG donkey.on horse-SPSS mount.ENT donkey.on mount.ENT or fire.and released.ENT he this village.out.of down
+st_test_lezg1247_72,lezg1247,no,that.NOM happening.NOM guy.NOM and girl.NOM return.PST.3 _ guy.NOM girl.NOM return.PST.3 self.NOM self.DAT province.DAT,they.and that.happing.AOC return-ENT this boy-Q girl boy-Q girl return-ENT these their.own province.in-ERG-DAT
+st_test_lezg1247_73,lezg1247,no,this.NOM.FEM.SG before Christian-NOM.FEM.SG before religion-NOM.FEM.SG we Christian-NOM.FEM.SG have-NFIN that.NOM.FEM.SG time.NOM.FEM.SG,1pl.abs then before still Christian religion be.in.CONT-AOP time was 1pl.gen-DAT
+st_test_lezg1247_74,lezg1247,no,1.PL.INCL-ERG 1.PL.INCL-DAT~1.PL.INCL-DAT hide-1.PL.INCL,1pl.abs-FOC HID-AOR stopped.AOR-AOR
+st_test_lezg1247_75,lezg1247,no,then that.REM.NOM.SG vacation.NOM.SG finish-PST.3.SG finish-PST.3.SG,here-FOC then time finish happened-AOR
+st_test_lezg1247_76,lezg1247,no,well Attiikan good-NOM.FEM.SG material-NOM.FEM.SG also raw-NOM.FEM.SG material-NOM.FEM.SG that.NOM.FEM.SG scene.NOM.FEM.SG record-NOM.FEM.SG such.NOM.FEM.SG such.NOM.FEM.SG such.NOM.FEM.SG and.PTCP.NOM.FEM.SG combine.NOM.FEM.SG and.PTCP.NOM.FEM.SG work.NOM.FEM.SG and.PTCP.NOM.FEM.SG and.PTCP.NOM.FEM.SG with.PREP work.NOM.FEM.SG and.PTCP.NOM.FEM.SG and.PTCP.NOM.FEM.SG combine.NOM.FEM.SG and.PTCP.NOM.FEM.SG,"But Rafik's-OBL-GEN raw material-FOC 2pl.abs-ERG shooting-AOP material that,.the.same stage-INESS it.also-FOC 1pl.gen-DAT want-FUT that 1pl.erg combine.will-AOR one thing over-SPSS take.out-HORT"
+st_test_lezg1247_77,lezg1247,no,answer.IMP and.PTCP ashuq if you.DAT sweetheart-NOM.SG and.PTCP have.sweetheart-NOM.SG,answer was ashuq boy 2sg-DAT 2sg.gen want-ERG sweetheart is-Q
+st_test_lezg1247_78,lezg1247,no,1.SG.NOM see.PST-AUX.PST-1.SG here childhood-ABL 1.SG.NOM go.PST-AUX.PST-1.SG but see.PST-AUX.PST-1.SG such.NOM see.PST-AUX.PST-AUX.PST-3.SG such.NOM see.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-AUX.PST-A,1sg.ERG-DAT never-FOC small time-OBL-SUPER-EL 1sg.abs so.much go-NFIN return-AOR-FOC 1sg.ERG-DAT never-FOC like.that bug see-PERF-NEG.PST
+st_test_lezg1247_79,lezg1247,no,we there talk-1.PL.EXC-AUX.PST,1pl.abs STAYED.TALKING
+st_test_lezg1247_80,lezg1247,no,and they.PL.NOM we.PL.ACC 1.PL.ACC-take-PST again soviet.NOM country.LOC,there-PST then with return-PERF 1pl.abs Soviet-ERG-GEN country.to-DIR-DAT
+st_test_lezg1247_81,lezg1247,no,nan-NOM.FEM.SG,06 18
+st_test_lezg1247_82,lezg1247,no,again boy.NOM.SG little.DAT.SG that.DAT.SG return-PST.3.SG,return-INESS himself boy-DIR-GEN to more-FOC
+st_test_lezg1247_83,lezg1247,no,1.SG.DAT so fear be(come)-AOR.PTCP,1sg.ERG-DAT great fear be-AOR
+st_test_lezg1247_84,lezg1247,no,we surprise-IPFV-PTCP together till together be-IPFV-PTCP,1pl.abs say-IPFV doomsday-DIR-GEN day.till together be-FUT-PST-PURP
+st_test_lezg1247_85,lezg1247,no,that-Khirdalan-LOC.FEM.SG-INESS Khirdalan-LOC.FEM.SG-INESS baku,Baku-INESS Khyrdalan-INESS cop
+st_test_lezg1247_86,lezg1247,no,and we whether agree-NFIN know-PRS-1.PL know-PRS-1.PL,"but still.be,.remain 1pl.erg know-ENT-NEG give-FUT-AND give-FUT-NEG-AND"
+st_test_natu1246_0,natu1246,no,but Mama Leslie anymore four student 3-COM 3-COP-NEG-already,but priest Lesile ᴄᴏᴍ.ᴘʟ child those four NEG-PASS-be-COS-NEG
+st_test_natu1246_1,natu1246,no,43.Group NE Mr.Lore,43 group-3MINII PCLF.RSBL Mr Lore
+st_test_natu1246_2,natu1246,no,when father-1.SG.POSS speech-3.SG.POSS hear-3.SG.POSS Brother John say-3.SG.POSS-3.SG.DAT when very.much John thank-3.PL.DAT speech-3.PL.POSS PART,SUBR hear-PDIR.YON father-1MINII NMLZ1-speak-NMLZ.POSS-PDIR.YON monk John PFV RL-MID-say-COS-PDIR.YON-3MINIA SUBR “ thank-INTS-COS John PREP NMLZ1-speak-NMLZ.POSS-2MINII DEM1.PROΧ
+st_test_natu1246_3,natu1246,no,and people some PART-stand-DUR where foot be-3.SG,and 3AUG-be-GDIR.UP-PDIR.YON-3AUGIS place.DEM.2.REM RL-stand-GDIR.DOWN-APPL-PDIR.HITHER foot-3MINII AT.ΦNT.PL.PL people
+st_test_natu1246_4,natu1246,no,when look.over-CONV room what we do and what we do sad-CONV very sad-CONV NEG say-CONV our-forbid-CONV because our-enter-CONV cross-GEN image belonging.to,SUBR look-thruout-TR-3MINIA room DEM.2.REM and see-3MINII thing SUBR do-PLCT-1AUGI-PL neck-3MINII feel.sad-INTS because NEG-NMLZ1-say-NMLZ.POSS-PDIR.HITHER-3MINIA-NEG DAT.1AUGII NMLZ1-forbid-NMLZ.POSS-3MINII NMLZ1-jump-GDIR.IN-NMLZ.POSS-1AUGII PREP room PCLF.B&G image cross
+st_test_natu1246_5,natu1246,no,3.PL-bush-LAT 3.PL-want-PST-PL but distance far-ADV be-PART-3.SG,3AUG-desire-3AUGIA IRR-hurry-path-GDIR.IN-3AUGIA bush but place long-GDIR.OUT-PDIR.HITHER
+st_test_natu1246_6,natu1246,no,FUT-leave-POSIT-PL there POSTP-ABL and sleep-POSTP-ABL there POSTP-ABL pineapple field-3POSS school,leave-PDIR.HITHER-1AUGII ᴄᴏᴍ.ᴘʟ place.DEM.2.REM and sleep-INTS-1AUGI ᴄᴏᴍ.ᴘʟ PREP field pineapple PCLF.B&G school
+st_test_natu1246_7,natu1246,no,AGR-choose GEN-PL man GEN-PL some GEN-PL his GEN-committee be,choose-3MINIA those mankind SUBR IRR-be be.3ᴀᴜɢII committee PCLF.RSBL-3MINII
+st_test_natu1246_8,natu1246,no,living earn occupation fishing.kites flying,thing SUBR be profession PCLF.HAND-3MINII PREP NMLZ1-ply.trade-NMLZ.POSS-3MINII NMLZ1-CAUS-fly-NMLZ.POSS-3MINII kite
+st_test_natu1246_9,natu1246,no,PART we two PST-paddle-PST PART-AUX-1.PL,so.then be.1AUGII DEM.2.REM RL-paddle-COS-1AUGI MID-two-APPL-1AUGII
+st_test_natu1246_10,natu1246,no,when Captain two-DISTR see-DISTR two cry-3.SG,SUBR see-PDIR.YON captain nctq-3MINII NMLZ1-two-NMLZ.POSS-3MINII PFV RL-cry-COS-3MINIS
+st_test_natu1246_11,natu1246,no,Aijz Reefs-ACC leave-CONV 1.PL-travel-1.PL-CONV towards Nea,Aijz leave-PDIR.HITHER-3MINIS Reef.Is PFV RL-travel-path-COS-PDIR.HITHER-3MINIA DAT.1AUGII Nea.vil
+st_test_natu1246_12,natu1246,no,there-ALL five minute 1.PL-lie.down,lying.down-TR-1AUGI place.DEM.2.REM minute five
+st_test_natu1246_13,natu1246,no,1POSS-father 1POSS-marry-PST to island Nemya' nea village,father-1MINII be.married-GDIR.DOWN-3MINIS PREP island Nemya'.Is place.DEM.2.REM Nea.vil
+st_test_natu1246_14,natu1246,no,Q 1.SG-collect-CAUS-2.SG-3.PL,allow-2MINI NMLZ1-collect-NMLZ.POSS-1MINII-3MINIA ?”
+st_test_natu1246_15,natu1246,no,IPFV-be.paired say-PRF-PST1-1.SG 1.SG.GEN in.law Sanders Balo,NMLZ1-MID-say-3AUGIA IRR-two-1AUGI PREP highest.level.in.law-1MINII sadas Balo
+st_test_natu1246_16,natu1246,no,then sick-INCH-CONV-get-CONV-INCH-CONV the pauabu Captain hospital-LOC there rest-INCH-CONV AUX-CONV Pauabu,SUBR be.sick-INTS-much-COS-3MINIA DEM.2.REM PFV RL-said-COS captain IRR-lying.down-INTS-COS PREP house-PCLF.B&G-SUBR-3AUG-be.sick-3AUGIS place.DEM.2.REM Pauabu
+st_test_natu1246_17,natu1246,no,enter-PERF there to January 1937,enter.in-1MINI therein PREP January 1937
+st_test_natu1246_18,natu1246,no,vowel this-GEN vowel-PL really good be-PROG-3.PL speak-NFIN there Natqgu,vowel these all good-INTS-GDIR.IN really PREP speaking PREP Natqgu
+st_test_natu1246_19,natu1246,no,INST POSS.3.PL-food-POSS3.PL double thing give.PASS give.PASS doctor and and captain and and crew their and,PREP PASS-do-APPL-PDIR.YON NMLZ1-eat-APPL PCLF.FOOD-3AUGII portion two-just PCLF.FOOD-2MINI doctor.med DEM.2.REM PREP captain and PCLF.FOOD-2MINI crew PCLF.RSBL-3AUGII-PL DEM.2.REM
+st_test_natu1246_20,natu1246,no,but different student DET Sunday day PV-arrive-CAUS-CONV,but MID-go-DPV-PDIR.HITHER person SUBR be.different-TR-GDIR.OUT-each-PL PREP Sunday those RL-go-APPL-PDIR.HITHER-3MINIA
+st_test_natu1246_21,natu1246,no,nine-only one Cooperative Society month-3.SG work-DUR-PERF-1.SG,work-TR-INTS-PDIR.YON-1MIN.CMB PREP Kcoporetiv Sosaeti moon nine
+st_test_natu1246_22,natu1246,no,cook 3.SG.FEM-ACC.home take CONJ 2.SG-ACC-thank God CONJ Ellen DIR PV-ERG.3.SG-eat,be.cooking-INTS take-bz(PDIR.YON).o(1MINI) home and thank-INTS-APPL-PDIR.YON-1AUGI PREP god and Ellen DEM.2.REM RL-eat-COS
+st_test_natu1246_23,natu1246,no,keep.going and it.got.dark and they.slept,3AUG-go-PDIR.YON-3AUGIS and place DEM.2.REM RL-dark-COS and PFV RL.3AUG-sleep-COS-3AUGIS
+st_test_natu1246_24,natu1246,no,house 1.PL.INCL.POSS be-PST CONJ rain-POSS-PL 1.PL.INCL.POSS cover-PST,because none PCLF.B&G-1AUGII house umbrella-TR-INTS-COS-APPL-1AUGII mat PCLF.FIRE-1AUGII-PL
+st_test_natu1246_25,natu1246,no,EP 01.Ancestor-1.SG-PL,01 ancestor-1MINII-PL
+st_test_natu1246_26,natu1246,no,night start-PST on o'clock-LOC eight hour-LOC on and on nine o'clock-LOC until nine hour-LOC only army cargo load-COMP-1.PL,start-1AUGI NMLZ1-CAUS-carry-NMLZ PREP area-sun DEM.2.REM RL-eight PREP morning go go reach-PDIR.YON-3MINIA area-sun DEM.2.REM RL-nine PREP night and possessions-3AUGII army DEM.2.REM RL-finish-GDIR.IN-afterward-PDIR.HITHER
+st_test_natu1246_27,natu1246,no,when PROG-PST-DUR-reach Paumalepc PTCL 1.SG-distributed 40 cents,PREP NMLZ1-reach-NMLZ.POSS-PDIR.YON-1AUGI Paumalepc PFV RL-CAUS-be.distributed.evenly-COS-1MINI be.3ᴀᴜɢII 40 sents
+st_test_natu1246_28,natu1246,no,but one thing REL bad be bitten-insects and REL PROG-sick-insects we with students,but thing be.one SUBR bad-GDIR.IN therein MID-bite-much-APPL flying.insect and be.sick-always-APPL-1AUGII ᴄᴏᴍ.ᴘʟ child SUBR-3AUG-be.schooled
+st_test_natu1246_29,natu1246,no,climb-CAUS-PERF-1.SG.DAT spear 1.SG.DAT-take.down 1.SG.DAT-back 1.SG.DAT 1.SG.DAT 1.SG.DAT-spear-1.SG.DAT spear-1.SG.DAT-1.SG.DAT then 1.SG.DAT-way to 1.SG.DAT-light-CAUS-IPFV,hurry-TR-INTS-GDIR.UP-1MINI spear PCLF.HAND-1MINII take-GDIR.DOWN-PDIR.HITHER-1MINI and PFV RL-spear-COS-1MINI put-INTS-1MINII and be.1MINII DEM.2.REM RL-light.the.way-again-1MINI
+st_test_natu1246_30,natu1246,no,chapter threen,chapter DEM.2.REM ten-be.one-additional-3MINII-three
+st_test_natu1246_31,natu1246,no,students-PL there with stand-NFIN-3.PL be.surprised,3AUG-startled-APPL person those PASS-stand-COS-PDIR.YON ᴄᴏᴍ.ᴘʟ
+st_test_natu1246_32,natu1246,no,this branch 1 hold breadfruit root one living.creeper vine hold,branch tree breadfruit DEM.2.REM RL-hold-1MINI hold-DPV-1MINI-3MINIIP DEM.2.REM root creeper.climber SUBR-live be.one
+st_test_natu1246_33,natu1246,no,that woman-1.SG wife-3.SG 3.SG-die childbirth die-3.SG,wife GEN1A-1MINII there die-APPL-3MINII child SUBR-be.small
+st_test_natu1246_34,natu1246,no,"well, then two.then they.thought how make.things.right.with.the.cross they.make them.them.them.them.them.them.them.them.them.them.them.them.them.them.them.them.them",be.good PFV RL.3AUG-say-COS-3AUGIA MID-two-APPL-3AUGII SUBR-IRR-be.like IRR-CAUS-be.good-GDIR.IN-APPL-PDIR.YON-3AUGIA mind cross
+st_test_natu1246_35,natu1246,no,rain time 3.SG-break-IPFV DET rain time 1.PL-leave-IPFV,rain SUBR cover-GDIR.DOWN-PDIR.HITHER-3MINIA DEM.2.REM be.1AUGII DEM.2.REM RL-go-COS-1AUGI
+st_test_natu1246_36,natu1246,no,then river over 1.PL-cross-VENT-IPFV and 1.PL-enter-IPFV coconut field IN 3.be-NZR school,so.then be.1AUGII DEM.2.REM RL-swim.on.top-be.middle.of-across-COS-1AUGI water and RL-go-GDIR.IN-COS-1AUGI PREP field tree coconut PCLF.B&G school
+st_test_natu1246_37,natu1246,no,1.PL:EXCL-take.down-CONV to boat to down-CONV home 1.PL:EXCL-paddle-CONV EVID,take-GDIR.DOWN-PDIR.HITHER-1AUGII PREP boat and be.1AUGII DEM.2.REM RL-paddle-COS-PDIR.HITHER-1AUGII home
+st_test_natu1246_38,natu1246,no,then say-ANTIP-COMP-1.SG.DAT-FOC NEG DEM.PRX-PL men be-PRS-3.PL wooden-PRS-3.PL be-PRS-3.PL,PFV RL-MID-say-COS-PDIR.HITHER-3MINIA DAT-1MINII SUBR “ NEG-be-NEG mankind these these stick
+st_test_natu1246_39,natu1246,no,1.SG PTCL who first believe DEM.ANAPHORIC-ACC people join-CAUS-CONV DEM.ANAPHORIC-ACC,be.1MINII INDF.SG SUBR enter.in-PDIR.YON-3MINIS ᴄᴏᴍ.ᴘʟ people those RL.3AUG-MID-believe-first-APPL-3AUGIS
+st_test_natu1246_40,natu1246,no,long.time search-PERF-1.PL.EXCL-CONV only 1.PL.EXCL-DAT-find,time long-INTS NMLZ1-search-TR-NMLZ.POSS-1AUGII-3MINIIP and PFV RL-mc-afterward-1AUGI
+st_test_natu1246_41,natu1246,no,1.SG-treat-NMLZ-PL money three month for so go-PRF.3.PL,NMLZ1-MID-treat.like.that-TR-NMLZ.POSS-bz(PDIR.YON).o(1MINI) DEM1.REM money PCLF.HAND-3AUGII people fitting moon SUBR three
+st_test_natu1246_42,natu1246,no,when NEG-3.PL-see what NEG at school NEG 3.PL-go to school,SUBR none DEM.2.REM thing SUBR 3AUG-see-GDIR.OUT-PDIR.YON-3AUGIA PREP school PFV RL.3AUG-go-GDIR.OUT-COS-PDIR.YON-3AUGIS PREP school
+st_test_natu1246_43,natu1246,no,this-PL teach-PST-3.PL to school and translate-PST-3.PL Scripture-PL,RPRN2-DEM1.REM-3MINII-PL NMLZ1-teach-NMLZ PREP school and NMLZ1-MID-exchange-NMLZ holy.writings
+st_test_natu1246_44,natu1246,no,boss one leader was.upset to POSS.1.PL-tell-1.PL to POSS.1.PL-tell-1.PL to POSS.1.PL why POSS.1.SG-word-CAUS-PRED-1.PL be.NEG-IMP.2.PL,"SUBR-be.big DEM.2.REM mind-3MINII PFV RL-bad-COS-PDIR.HITHER DAT.1AUGII RL-MID-say-COS-PDIR.HITHER-3MINIA DAT.1AUGII SUBR "" why NEG-obey-APPL-PDIR.HITHER-2AUGI-NEG word-1MINII"
+st_test_natu1246_45,natu1246,no,big building government on posts stand.PST,a house SUBR-be.big PCLF.B&G government stand PREP floor
+st_test_natu1246_46,natu1246,no,ERG-Rick Rick say-PRF-3.SG DUB COMP DUB go-3.SG POSTP other.man DUB APPRX-3.SG DUB 3.SG-replace 3.SG,MID-say-PDIR.HITHER Rik DAT.1MINII SUBR IRR-go-COS but IPFV IRR-go-PDIR.HITHER INDF.SG mankind different SUBR IRR-exchange-3MINIA be.3MINII
+st_test_natu1246_47,natu1246,no,1.PL-travel in.it 1.PL-disembark wharf in Auki,travel-GDIR.IN-PDIR.YON-1AUGI and descend-1AUGI PREP wharf Auki
+st_test_natu1246_48,natu1246,no,when 1.PL-sleep-CONV open at.night heavy rain fall-CONV wind with lightning and thunder,SUBR sleep-isolated-APPL-1AUGII DEM.2.REM PREP night rain SUBR-be.big DEM.2.REM RL-fall-COS go-DPV-PDIR.HITHER wind lightning and thunder
+st_test_natu1246_49,natu1246,no,father-1.SG.POSS say-PST-3.SG DAT-3.SG DAT small that son-1.SG.POSS 1.SG-allow-PRS-1.SG NEG 1.SG-allow-PRS-1.SG>3.SG DAT-3.PL.POSS bigger.brother-3.PL.POSS one-3.PL.POSS allow-PRS.1.SG,MID-say-PDIR.YON father-1MINII DAT.3MINII SUBR “ son-1MINII DEM1.PROΧ be.small NEG-allow-APPL-bz(PDIR.YON).o(1MINI)-NEG but know-1MINI PASS-allow-APPL-PDIR.YON a brother-3MINII those RL-be.big .”
+st_test_natu1246_50,natu1246,no,group-ACC two place PART-DU-group-PART,group these two 3AUG-exchange-REFL-3AUGIS
+st_test_natu1246_51,natu1246,no,miracle second be.3.SG DEM.PRX one see.3.SG.PST prefect be.3.SG.PST and see.3.SG.PST-1.SG.ACC-1.SG.ACC DEM.PRX 1.SG.ACC-tell.1.SG.ACC-FUT.1.SG.ACC how how 1.SG.ACC-see.3.SG.ACC-FUT.3.SG.ACC,miracle ORD-two DEM1.REM be.3MINII DEM.2.REM RL-see-COS prefect DEM1.REM and RL-say-COS-PDIR.HITHER-3MINIA DAT.1MINII IRR-tell-TR-GDIR.OUT-bz(PDIR.YON).o(1MINI) DAT.2AUGII be.like NMLZ1-see-NMLZ.POSS-1MINII-3MINIA
+st_test_natu1246_52,natu1246,no,and bird-PL bona bird-PL two heart sacrifice be-3.PL fire-POSS-PL ignite-3.PL and burn-3.PL,and heart-kr pigeon those two be sacrifice-NMLZ.POSS cross 3AUG-ignite-3AUGIA fire GEN1A-3MINII and PFV RL.3AUG-CAUS-burn-COS-3AUGIA
+st_test_natu1246_53,natu1246,no,so PV-3-go just-COMP shoot-ANTIP-COMP DET-man and PV-3-smash-ANTIP-COMP wireless PV-3,PFV RL-go-COS-PDIR.YON-3MINIS shoot-INTS-3MINII mankind DEM.2.REM and ring-shatter-INTS-3MINII wireless DEM.2.REM
+st_test_natu1246_54,natu1246,no,student-PL also three student Guadalcanal 3.PL-ABL to lead 3.PL,3AUG-go-also-3AUGIS DAT.3AUGII child TPNYM Guadalcanal 3AUG-three-3AUGIS SUBR IRR-lead-3AUGIA be.3ᴀᴜɢII
+st_test_natu1246_55,natu1246,no,1.SG-tell-word-APPL student two miracle Pawa Merikol at,30 NMLZ1-MID-tell-NMLZ.POSS-bz(PDIR.YON).o(1MINI) PREP child SUBR-3AUG-be.schooled Pawa.school miracle two
+st_test_natu1246_56,natu1246,no,school-NMLZ begin-PNCT but not.go.well because work still demand-PNCT but schooling short-break.off-PNCT,NMLZ1-be.schooled-NMLZ.POSS-1AUGII begin-GDIR.IN-COS but NEG-go-well-not.yet because NMLZ1-work-NMLZ DEM1.PROΧ RL-be.demanding-INTS-GDIR.OUT-still but NMLZ1-be.schooled-NMLZ short-break-progressive
+st_test_natu1246_57,natu1246,no,call-CONV Jesus-ACC and same.time-CONV save-PRS.3.SG people-ACC save-PRS.3.SG,NMLZ1-MID-call.someone-NMLZ Jesus and save-3MINIA people time there-just
+st_test_natu1246_58,natu1246,no,he-3.SG DET Srpi translate-CAUS-NFIN Gospel REL 3.SG-write-3PRES Matthew,give-PDIR.YON-3MINIA PREP Srpi IRR-exchange-3MINIA Good.News DEM.2.REM RL-write Matthew
+st_test_natu1246_59,natu1246,no,1 father-1.SG.POSS-with roof four having.panels 1 house having.rooms and two room-ACC be.at:3.SG,house PCLF.B&G-1AUGII ᴄᴏᴍ.ᴘʟ father-1MINII be house 4.piece.roof and room GEN1A-3MINII two
+st_test_natu1246_60,natu1246,no,Mr. Manfort that 1.SG.DAT wait.for ship 1.SG.DAT wait.for 1.SG.DAT-help-1.SG.DAT-3.PL.ACC first 1.SG.DAT-help-1.SG.DAT-3.PL.PAT because class without teacher there,mista Manfoot PFV RL-MID-say-COS-PDIR.HITHER-3MINIA DAT.1MINII SUBR time DEM.2.REM RL-wait-APPL-1MINII ship IRR-help-first-1MINI be.3ᴀᴜɢII PREP NMLZ1-teach-NMLZ because class two none SUBR-3AUG-CAUS-know-GDIR.IN-3AUGIS therein
+st_test_natu1246_61,natu1246,no,then evening behind evening my.father and that food take.in that Menabz that room that behind stand.up-CONV cross statue,so.then time DEM.2.REM-COS evening food those PFV RL-take-GDIR.DOWN-COS father-1MINII PREP Menabz PREP room DEM.2.REM RL-stand-GDIR.OUT-APPL-PDIR.HITHER image cross
+st_test_natu1246_62,natu1246,no,brother GEN John say-3.SG DAT your.girl bush-ABL come-PST that.NOM food-ACC who-ERG COP-PST,"MID-say-PDIR.YON monk John DAT.3MINII SUBR "" daughter-2MINII go-COS-PDIR.HITHER-3MINIS bush this RL-CAUS-be.cooking-3MINIA food these ?"""
+st_test_natu1246_63,natu1246,no,but NEG-eat-3-NEG insecurely-AUX fall-PERF sea,but NEG-eat-CMPL-3MINIA-NEG hold-dodge-INTS-3MINII fall.down sea
+st_test_natu1246_64,natu1246,no,and 1.told him-EMPH NEG 1.does,and MID-say-bz(PDIR.YON).o(1MINI) DAT.3MINII SUBR no
+st_test_natu1246_65,natu1246,no,"when we.reached Point Cruz we.saw many warships anchored Lungga, when some go.out and some entered airplanes flew.around",SUBR reach-PDIR.YON-1AUGI Point Krus PFV RL-see-COS-PDIR.YON-1AUGI ship GEN1A war SUBR-many NMLZ1-float-GDIR.IN-NMLZ.POSS-3MINII Lungga and AT.ΦNT.PL.PL PFV RL.3AUG-travel-GDIR.OUT-3AUGIS and AT.ΦNT.PL NMLZ1-travel-GDIR.IN-PDIR.HITHER-3AUGIS ship-SUBR-fly PFV RL.3AUG-fly-DSTR-3AUGIS
+st_test_natu1246_66,natu1246,no,time bead.point time 1.PL.INCL-arrive 1.PL.INCL-paddle NEG bail-CONT-CONV wind only more.much powerful-CONT-CONT,SUBR reach-PDIR.HITHER-1AUGII DEM.2.REM Nctekzmuli NEG-paddle-COS-1MINI-NEG but bail-INTS-COS-PDIR.HITHER-1MIN.CMB because wind powerful-INTS-much-COS
+st_test_natu1246_67,natu1246,no,name-3POSS SUBJ be-3PST Joseph Tealo,name child there Joseph Tealo
+st_test_natu1246_68,natu1246,no,we we REL SUB-1.PL completely miss-3.PL cartridges,but be.1AUGII thing SUBR be.big miss-INTS-APPL bullet
+st_test_natu1246_69,natu1246,no,at.that.time PRO.1.SG said that Rick two letters be.deleted be.used.to deleted that alphabet with Natqgu,time there say-bz(PDIR.YON).o(1MINI) PREP Rik SUBR IRR-take-again-12MINI INDF.PL letter.note those RL.3AUG-throw.away-APPL PREP alphabet GEN1A Natqgu
+st_test_natu1246_70,natu1246,no,daylight until we.danced,dance-1AUGI place daylight-INTS-GDIR.DOWN-3MINIS
+st_test_natu1246_71,natu1246,no,but ERG.3-say-AFF.2.SG DET-ACC.1.SG paddle-AFF.2.SG-OPT-ACC.1.SG DET-ACC.1.PL 1.PL-plant-PERF Dxi lest NEG 1.PL-spoil-AFF.2.PL,but MID-say-PDIR.HITHER-3MINIA SUBR IRR-paddle-TR-GDIR.OUT-1MINI RPRN2.DEM4.PL RL-plant-TR-1AUGI Dxi because lest RL-rotten-INTS-GDIR.IN
+st_test_natu1246_72,natu1246,no,then sound DET siren-NOM again DET the Japan fly.away,so.then whistle DEM.2.REM RL-cry-COS-3MINIS again SUBR lr Japan 3AUG-fly-COS-3AUGIS
+st_test_natu1246_73,natu1246,no,one.day day two and Menabz male.dove two kill-PST do,a day father-1MINII and Menabz 3AUG-CAUS-die-3AUGIA pigeon SUBR mankind-PROPR two
+st_test_natu1246_74,natu1246,no,school at Naim PASS-move-PRTC Naban,63 school DEM.2.REM Naim PASS-carry-GDIR.IN-PDIR.HITHER Naban
+st_test_natu1246_75,natu1246,no,one-man name be-PART-3PST Metalo,a DEM.2.REM mankind name-3MINII Metalo
+st_test_natu1246_76,natu1246,no,my.father when heard-3.SG 1POSS-father Mzdealwx believe-3.SG-IPFV God those brothers too believe-3.SG-IPFV,father-1MINII SUBR hear-PDIR.YON-3MINIA NMLZ1-say-GDIR.OUT-NMLZ.POSS Mzdealwx NMLZ1-believe-NMLZ.POSS-3MINII god GEN1A-3AUGII monk those PFV RL-obey-COS-also-3MINIA
+st_test_natu1246_77,natu1246,no,11.Story Kite Whostring broke 3.SG-body,11 story GEN1A kite SUBR rope PCLF.ASSOC-3MINII break
+st_test_natu1246_78,natu1246,no,FEM-head-army further say go say 2.SG what.kind.of man,"said-again-PDIR.YON leader GEN1A army SUBR "" be.2MINII mankind who ?"""
+st_test_natu1246_79,natu1246,no,wind PRED DET southwest-ABL DET wind be REP long.time Nzlvz,but wind SUBR be-INTS-3MINII DEM.2.REM PREP wind.SW PFV RL.3AUG-be-INTS-forever-COS-3AUGIS Reef.Is
+st_test_natu1246_80,natu1246,no,then also PORT-3.SG-take-DAT DET Rick Frank Yrpusz take-CAUS-DAT INDF tranklator also,so.then PFV RL-take-COS also Rik Frank Yrpusz NMLZ1-become-NMLZ.POSS-3MINII also SUBR-MID-exchange word
+st_test_natu1246_81,natu1246,no,and we.start-PST Uta finishing Pa'lz and island this thoroughly cover-PASS with work Gary Simons,and start-again-1AUGI Uta finished Pa'lz and island DEM.2.PROΧ PFV RL-stand-thruout-COS PREP NMLZ1-work-NMLZ.POSS Gari Saemons
+st_test_natu1246_82,natu1246,no,TOP 1.PL.INCL-DAT-go.up and 1.PL.INCL-DAT-go.down 1.PL.INCL-DAT-go.down and 1.PL.INCL-DAT-cross.rivers large,PREP NMLZ1-go-NMLZ.POSS-1AUGII DEM.2.REM RL-go-GDIR.UP-1AUGI RL-go-GDIR.DOWN-1AUGI and RL-MID-cross-TR-1AUGI water SUBR-be.big-TR-PL
+st_test_natu1246_83,natu1246,no,god-GEN such things believe-NFIN and PROG-trust-NFIN do-PROG-1.PL with Jesus-GEN and father-3.SG God-GEN all things live-PROG-PROG and world-LOC,show-GDIR.OUT god thing SUBR-be.like-3MINIA these so.that IRR-believe-12AUGI and IRR-CAUS-trust-GDIR.IN-PDIR.YON-12AUGI neck-12AUGII PREP Jesus and father-3MINII god PREP thing all time DEM.2.PROΧ RL-live-APPL-12AUGII PREP world
+st_test_natu1246_84,natu1246,no,then student from Sikaiana island PV-ascend-TRM.PST,so.then a child TPNYM Sikaiana PFV RL-climb-COS-PDIR.YON
+st_test_natu1246_85,natu1246,no,this-PL one-PL sign-PL powerful one-PL miracle,krlc a sign SUBR-powerful a miracle
+st_test_natu1246_86,natu1246,no,one-day breadfruit tree-ABL 1.SG-go.away-DUR one-day 1.SG-AUX,a DEM.2.REM day IRR-go-away.from-1MINI a tree breadfruit
+st_test_natu1246_87,natu1246,no,Anna Teao time finish-DETR-3.SG DETR her school come and PERF-teach with-ART time we.partner,Anna Teao SUBR depart-GDIR.OUT-3MINIA DEM.2.REM PREP school travel-PDIR.HITHER PFV RL-two-COS-1AUGI COM.DU PREP NMLZ1-teach-NMLZ
+st_test_natu1246_88,natu1246,no,EP 79.difficulty Natqgu people Language REL-AGR-ALL translate-PERF PLUR,79 NMLZ1-be.difficult-NMLZ.POSS-PDIR.YON Natqgu DAT.3AUGII people those RL.3AUG-MID-exchange-3AUGIS word
+st_test_natu1246_89,natu1246,no,ITER-take.off.fire-3.PL when IPFV-leave-3.PL-IPFV there outside when IPFV-lay.out-3.PL go-3.PL chicken into.small.pieces-DIM-3.PL,3AUG-remove.from.fire-GDIR.DOWN-PDIR.HITHER-3AUGIA SUBR 3AUG-give-GDIR.DOWN-PDIR.YON-3AUGIA-3MINIIP PREP leaf SUBR 3AUG-lay-3AUGIA place.DEM.2.REM chicken those be.in.pieces-INTS-GDIR.OUT-CMPL
+st_test_natu1246_90,natu1246,no,EP 42.POSS-group Split Miracle four wartime four,42 group-3AUGII two-COS miracle ORD-four PREP Mzli R Vea
+st_test_natu1246_91,natu1246,no,when have.advice-PTCP.NOM.PL realize-INCH-PTCP.NOM.PL the Japan self.NOM.PL fled.PTCP.NOM.PL,SUBR 3AUG-recognize-3AUGIA NMLZ1-become-NMLZ.POSS-3AUGII lr Japan PFV RL.3AUG-flee-COS-3AUGIS
+st_test_natu1246_92,natu1246,no,but after some people later accept-3.PL believing-3.PL goodnews-3.PL,but PREP back.part-3MINII PFV RL.3AUG-accept-afterward-PDIR.YON AT.ΦNT.PL.PL people NMLZ1-obey-NMLZ.POSS-3AUGII Good.News
+st_test_natu1246_93,natu1246,no,two Yamzli POSS-3.SG be.born-PTCP Narnztilolx POSS.3.SG year 1918,ORD-two Yamzli eye-3MINII PASS-see Narnztilolx.vil PREP year 1918
+st_test_natu1246_94,natu1246,no,because PO-build-PST large building,because MID-work-APPL-1AUGII house SUBR-be.big-TR-PL
+st_test_natu1246_95,natu1246,no,start-again Noipx and we.slept Nebz,start-again-1AUGI Ncipx.vil and sleep-1AUGI Nebz.vil
+st_test_natu1246_96,natu1246,no,and Mr.Shadrach Sunday DET headmaster that school be,and mista Sadrak Sunday SUBR be SUBR-be.big GEN1A school DEM1.REM
+st_test_natu1246_97,natu1246,no,but not.know-1.SG-PRS whether 3.PL-behind-return-HAB those door-ACC break door-ACC other-ACC other.one someone,but NEG-know-1MINI-NEG SUBR 3AUG-return-again-PDIR.HITHER-3AUGIS be.3ᴀᴜɢII these RL.3AUG-break-3AUGIA doorway DEM1.REM or person different-PL .”
+st_test_natu1246_98,natu1246,no,fork-GER POSTP-ILLA 1.SG-go.uphill-CONV there and 1.SG-stand-CONV,travel-GDIR.UP-1MINI place.DEM.2.REM RL-fork-APPL-3MINII be.1MINII DEM.2.REM RL-stand-COS-1MINI
+st_test_nyan1302_0,nyan1302,no,so P1-have NFIN-extinguish,then 3.SG-put CLS-noise-DEF
+st_test_nyan1302_1,nyan1302,no,baseno 3.SG-go 3.PL.NOM PRO,3.PL-greet 1.PL complete TP
+st_test_nyan1302_2,nyan1302,no,1.SG PREP leg-PL two two,3.SG with CLS-dog-DEF 3.PL-be_at 3.PL-be_at
+st_test_nyan1302_3,nyan1302,no,baloko dog 3.SG-bit 3.SG-go,3.PL-take CLS-Okume SCONN-give 1.PL
+st_test_nyan1302_4,nyan1302,no,ba2-drink both 3.PL-take both NEG,3.PL-put_on funeral 3.PL-do funeral just
+st_test_nyan1302_5,nyan1302,no,DEF-short NFIN-drink bitter 1.SG,2.SG-NEG:PRS-FUT-go_to CLS-chief CLS-house inside
+st_test_nyan1302_6,nyan1302,no,good,just-TP
+st_test_nyan1302_7,nyan1302,no,plate POSS.3.PL NOM-PRO.1.PL PRO.1.PL tell,then 3.SG-come CLS-table DEF skiN
+st_test_nyan1302_8,nyan1302,no,straw straw four 3.SG-be 1.SG,CLS-clan overflow three AM-this inside
+st_test_nyan1302_9,nyan1302,no,yes,yes
+st_test_nyan1302_10,nyan1302,no,PRO NEG-yell-CONN NEG,3.SG-say 3.PL-receive SCONN-give-3.SG
+st_test_nyan1302_11,nyan1302,no,Kele PROG baloko NOM-PX-see IDEO POSTP,then then 3.PL-take CLS:PL-eye become_red-become_red at
+st_test_nyan1302_12,nyan1302,no,good,ADDRESSIVE_PARTICLE
+st_test_nyan1302_13,nyan1302,no,child small 3.SG be that person 3.SG DEM COP,therefore by_all_means 3.SG be_at that COMP 2.SG-take-3.SG
+st_test_nyan1302_14,nyan1302,no,plate NOM-full DEF tell,1.PL CLS:PL-Tutrugbu_person TP skin
+st_test_nyan1302_15,nyan1302,no,child beauch,then 3.PL-grind
+st_test_nyan1302_16,nyan1302,no,CONN COP that COP man LOG give -AFF the-time,3.SG be_at that COMP shrub_name 3.SG:Poss root TP AM-remain
+st_test_nyan1302_17,nyan1302,no,kana body strong be NOM-young,thus CLS:PL-thing be_on 3.SG:Poss CLS-top
+st_test_nyan1302_18,nyan1302,no,1 1.SG NOM-take box 1.SG,DEF in or CLS-container in
+st_test_nyan1302_19,nyan1302,no,Gaké hit bread DET NEG,but REL 1.SG-do thus just
+st_test_nyan1302_20,nyan1302,no,MED 1-boy 1-beat belly 3-good,REL if uhm CLS:PL-body CLS-PROG-put_in
+st_test_nyan1302_21,nyan1302,no,1-woman so 1-be.old:PST with 3-rest,3.SG-need that 1.SG-put_in-3.SG at CLS-hole-DEF
+st_test_nyan1302_22,nyan1302,no,1-PRO 1-break-PROG NEG-be.skinny NEG,CLS:PL-3.PL CLS-leaf CLS-do REL
+st_test_nyan1302_23,nyan1302,no,woman that boy bridge NOM-bridge NOM-bridge PREP 1.SG,uhm CLS-man-DEF one REL AM-be_at CLS-left DEF inside
+st_test_nyan1302_24,nyan1302,no,14-beat-PLUR-TOP,AM-REP-climb
+st_test_nyan1302_25,nyan1302,no,stole-NMLZ NEG,church TP
+st_test_nyan1302_26,nyan1302,no,food POSS bring NOM-fish quickly,CLS-3.SG at 1.PL CLS-ancestor-PL all
+st_test_nyan1302_27,nyan1302,no,NEG-say NEG,CLS-go just
+st_test_nyan1302_28,nyan1302,no,only NOM-understand-PST DEM,then 3.SG-do thus
+st_test_nyan1302_29,nyan1302,no,one POSS.3.SG brain 3.SG-break-INTENS-INTENS,if CLS-person SCONN-be CLS-remain-place-CLS-owner-DEF
+st_test_nyan1302_30,nyan1302,no,Klɛ 3.SG-PST butterfly cat NOM-beat,then well 1.PL-be_on 2.PL CLS-top
+st_test_nyan1302_31,nyan1302,no,five NOM 3.PL-quit 1.SG bring home,all 3.PL CLS-house inside REL 3.SG-be
+st_test_nyan1302_32,nyan1302,no,Kɛgɛdzy PST bring vocal NP,AM-NEG:PST-be_straight at 1.PL CLS:PL-Tutrugbu_person DEF
+st_test_nyan1302_33,nyan1302,no,1.SG 2.PL-IPFV.3.SBJV-break.PRF NOM-break NOM-beer,COMP 3.PL-NEG:PRS-carry CLS-corpse SCONN-again
+st_test_nyan1302_34,nyan1302,no,Kɛlɛ NOM-short,then 2.SG-FUT-finish_work_on_farm-3.SG
+st_test_nyan1302_35,nyan1302,no,bazɛa-shap 2-beat FV,3.PL-REP-SCONN-leave month AM-two
+st_test_nyan1302_36,nyan1302,no,Akɔ 3.SG-PROG YA-fry,AM-give CLS-3.SG blessing
+st_test_nyan1302_37,nyan1302,no,so then NOM-work 1 be quickly,then 2.SG-come CLS-road inside be_peaceful very_well
+st_test_nyan1302_38,nyan1302,no,boy bowl POSS.1.SG stop hot,1.PL-PROG-eat CLS:PL-thing at 3.PL CLS-between
+st_test_nyan1302_39,nyan1302,no,1 1.SG break baby 10.CL quickly through,shortly just then 3.PL-do CLS-water hot then
+st_test_nyan1302_40,nyan1302,no,1-grandmother,CLS-hand
+st_test_nyan1302_41,nyan1302,no,1-village-PL with 9-hunger NEG,CLS-boy DEF AM-say-look_at just-DEF
+st_test_nyan1302_42,nyan1302,no,baw-friend 3.SG-be.located at box CONN box top,3.PL-lie down at bed DEF CLS-top just-TP
+st_test_nyan1302_43,nyan1302,no,Kelɛ FOC blow football 3.SG little tell,this be_at 1.PL CLS:PL-Tutrugbu_person DEF all skin
+st_test_nyan1302_44,nyan1302,no,old.man 3.SG-COP 3.SG-COP 3.SG-COP,2.SG-remove CLS-child_of-DEF CLS-child_of CLS-child_of-DEF
+st_test_nyan1302_45,nyan1302,no,1.PL.EXCL that does breakfruit,3.SG-be that CLS-day AM-finish
+st_test_nyan1302_46,nyan1302,no,old.man break NOM-bite then NOM-hit-PFV hit-PFV hit-PFV,now 1.PL-find CLS-water-DEF then CLS-a_little a_little a_little
+st_test_nyan1302_47,nyan1302,no,1-PRON smoke,3.SG-NEG:be CLS-water
+st_test_nyan1302_48,nyan1302,no,betelij one NOM-place 1 NOM-be.located there,CLS:PL-certain if CLS-hand inside AM-be_at 2.SG
+st_test_nyan1302_49,nyan1302,no,Kle 3.PL-drink spoil 3.SG break,then CLS:PL-person AM-VENTIVE-add_to 3.SG a_little
+st_test_nyan1302_50,nyan1302,no,2-person 2-POSS.1.PL 6-hour NEG,3.PL-REL 3.PL-tie CLS-law-PL this
+st_test_nyan1302_51,nyan1302,no,Boloko 3.SG bring-PST bowl DEM go mouth DEM go,1.PL-take 3.SG do CLS-medicine DEF give CLS-person DEF 3.PL
+st_test_nyan1302_52,nyan1302,no,Bolo it-manage they-see,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_53,nyan1302,no,1.SG.NOM 3.SG.ACC 1.SG.NOM-drink.IPFV,CLS-man-DEF FOC 3.SG-take-3.SG
+st_test_nyan1302_54,nyan1302,no,NEG NEG 1.SG,eat eat inside
+st_test_nyan1302_55,nyan1302,no,CONN only 1.SG let.know-CIRC 17 NEG,COMP 2.SG-know just little-DEF be_high(river) ADDR
+st_test_nyan1302_56,nyan1302,no,heaven,climb
+st_test_nyan1302_57,nyan1302,no,so do-PST leg-beat 3.SG.NOM-three,that thus chief 3.SG-PROG-say
+st_test_nyan1302_58,nyan1302,no,well teacher let.know children,ok spokesperson thus 3.PL-PROG-say
+st_test_nyan1302_59,nyan1302,no,plate boy 3.PL-PROG drink good,3.SG-be CLS:PL-sickness a_certain REL be_contained
+st_test_nyan1302_60,nyan1302,no,so betsy just NOM-be.located with foot,therefore CLS:PL-die-DEF all AM-disperse at there
+st_test_nyan1302_61,nyan1302,no,1.SG 7-drink 6-DEM still,yes CLS-fire-DEF AM-give that
+st_test_nyan1302_62,nyan1302,no,NOM-take box NOM-entrepreneutrative CONN spoil NOM-drink-INDF spoil COP,CLS-woman AM-one AM-be_located AM CLS-side CLS-thisCM-right-inside CLS-side inside
+st_test_nyan1302_63,nyan1302,no,1 bisybisy bisycle DEM 1 PRO-see-PERF bisycle NEG,CLS ask-ask certain be_at 3.SG:Poss CLS-hand 3.SG-ask just
+st_test_nyan1302_64,nyan1302,no,baterball store PRT 3.SG.NOM 1.SG.ACC,3.PL-NEG:PRS-VENTIVE-crow CLS-whistle at CLS-state inside
+st_test_nyan1302_65,nyan1302,no,2.SG hear stone,2.SG also 2.SG-say-3.SG
+st_test_nyan1302_66,nyan1302,no,1.SG-PST-come,inside-own
+st_test_nyan1302_67,nyan1302,no,1-breath 3.SG companion,2.SG-do 3.SG thus
+st_test_nyan1302_68,nyan1302,no,betsy NOM-zeku-SEC,CLS:PL-bee AM-NEG-REP-reach
+st_test_nyan1302_69,nyan1302,no,bird 3.SG-greet-IPFV with NEG,3.SG-FUT-buy CLS-soap with 3.SG
+st_test_nyan1302_70,nyan1302,no,fish PRO two bring-PRF PRO.1.SG,uhm 2.SG-FUT take do with
+st_test_nyan1302_71,nyan1302,no,1-drink,inside
+st_test_nyan1302_72,nyan1302,no,so NOM-dog 3.SG-bring-PFV water big,then 3.SG-take CLS-hand set_down CLS-ground-DEF
+st_test_nyan1302_73,nyan1302,no,man NOM-fish,skin CLS-work
+st_test_nyan1302_74,nyan1302,no,oil-oven,ok
+st_test_nyan1302_75,nyan1302,no,bobatsyu woman-PL soft-PL woman-PL,1.PL-FUT-dig CLS-hole-DEF for_a_long_time CLS-hole-DEF
+st_test_nyan1302_76,nyan1302,no,PL-pepper and beat.PST,1.SG-FUT-give that CLS-palmtree-DEF
+st_test_nyan1302_77,nyan1302,no,still 9OBJ-2.SG companion,then 1.SG-know uhm
+st_test_nyan1302_78,nyan1302,no,etsyina big NOM-PRF 3.SG-drink,3.SG-turn_round CLS-back SCONN-put_in CLS:PL-woman
+st_test_nyan1302_79,nyan1302,no,it NOM-yellow NOM beat,REL 3.SG-exit come just-TP
+st_test_nyan1302_80,nyan1302,no,only-one,go-go
+st_test_nyan1302_81,nyan1302,no,plate PERF-be.located be-located 1,CLS-there all CLS-river inside
+st_test_nyan1302_82,nyan1302,no,FOC boy 3.PL-two bring five,REL 3.SG-VENITIVE-reach CLS:PL-house a_certain CLS-there
+st_test_nyan1302_83,nyan1302,no,1-breath 3.SG-COP cold DEM,2.SG-do CLS-3.SG small TP
+st_test_nyan1302_84,nyan1302,no,old.man NOM-tomorrow be NOM-understand.PRS NOM,now CLS-dawadawa_tree-DEF 3.SG:Poss CLS-fruit DEF
+st_test_nyan1302_85,nyan1302,no,Badzer PERF-give NOM-bird NEG,CLS:PL-woman all AM-FUT-go there
+st_test_nyan1302_86,nyan1302,no,two one,matter DEF
+st_test_nyan1302_87,nyan1302,no,1.SG 2.PL-RECP-1.PL 3.SG-ACC.NMLZ be.located.to,just 3.PL-REP-VENITIVE-reach CLS-place certain
+st_test_nyan1302_88,nyan1302,no,drink NOM-drink-INT two,REL 1.SG-NEG:PST-remain therefore-TP
+st_test_nyan1302_89,nyan1302,no,Wonɔ POSS-young,2.PL CLS-hometown-DEF
+st_test_nyan1302_90,nyan1302,no,Buli 1 PFX-leave 3-three,CLS-river-DEF inside SCONN-give 1.PL
+st_test_nyan1302_91,nyan1302,no,2.SG-V-FOC Q boy POSS.3.SG-eat,2.SG-own also thus 3.SG-be
+st_test_nyan1302_92,nyan1302,no,quite PRO.1.SG bring.home bird,mix with CLS:PL-medicine certain
+st_test_nyan1302_93,nyan1302,no,without physic DEM 3.SG.NOM-be.located 1.SG.NOM-be.located 1.SG.NOM,well at period CLS-this inside
+st_test_nyan1302_94,nyan1302,no,Kɛlɛ PNC-PERF-shatter,then 3.SG-show
+st_test_nyan1302_95,nyan1302,no,2.SG-run 2.SG-eat,CLS-tree-DEF AM-become-3.SG
+st_test_nyan1302_96,nyan1302,no,girl-PL 1.SG small small,3.PL-3.PL-drink with happiness happiness
+st_test_nyan1302_97,nyan1302,no,Kelɛ buy PREP NOM-skin,then thing DEF AM-FUT-overflow
+st_test_nyan1302_98,nyan1302,no,plate NOM-two DEM be.LOC NOM-yesterday,1.PL-put CLS-advice give 2.SG:Poss CLS:PL-father-PL
+st_test_nyan1302_99,nyan1302,no,oye,ok
+st_test_nyan1302_100,nyan1302,no,batsyiami DEM 1.SG-PST-bring women,CLS-spokesperson DEF inside-own one
+st_test_nyan1302_101,nyan1302,no,1.SG 3.SG-PST NOM,ok 2.PL:Poss walk
+st_test_nyan1302_102,nyan1302,no,CONN only 1.SG let.know-CIRC 17 NEG,COMP 2.SG-know just little-DEF be_high(river) ADDR
+st_test_nyan1302_103,nyan1302,no,Wonɔ 3.SG-hide-NEG,2.PL INTER-brother-PL
+st_test_nyan1302_104,nyan1302,no,bezebezebetsodze children,3.PL-REP-VENITIVE-return SCONN-come
+st_test_nyan1302_105,nyan1302,no,so come-IND 3.SG NOM-arrive NEG,therefore 2.PL REL 2.SG-become TP
+st_test_nyan1302_106,nyan1302,no,pétéé,all
+st_test_nyan1302_107,nyan1302,no,2.SG monkey 3.SG-COP white,yes spokesperson 2.SG-be_at there
+st_test_nyan1302_108,nyan1302,no,and over monkey DEM vehicle DEM beautiful,that CLS-today CLS-Saturday TP 1.PL-FUT-gather at here
+st_test_nyan1302_109,nyan1302,no,1-dress 7-two 1-dress,2.SG-take CLS-kelome_tree CLS-bark|shell
+st_test_nyan1302_110,nyan1302,no,3.SG boy scraps,REL 3.PL-do CLS-work
+st_test_nyan1302_111,nyan1302,no,woman two tree branch-PL big NOM-break NOM-break NOM-break NOM-break NOM-break,uhm CLS-animal big certain 3.PL-that CLS-year AM-one 3.SG-horn AM-one
+st_test_nyan1302_112,nyan1302,no,EXPL NOM-young-person with DEM,3.SG-PROG-come CLS-boy DEF CLS-side
+st_test_nyan1302_113,nyan1302,no,1.SG NEG-drink 1.SG NEG,3.SG 1.SG-call at here
+st_test_nyan1302_114,nyan1302,no,fish run-ADV fish 3.SG-reach-PST become beautiful 3.SG.NOM PRO1S,1.PL foot 1.PL CLS-hand be_contained CLS-word DEF inside
+st_test_nyan1302_115,nyan1302,no,Kelɛ 3.SG-bring NOM-rice 1.SG 2.SG sit 3.SG NEG,then if CLS-work DEF DEF REL CLS be_at
+st_test_nyan1302_116,nyan1302,no,baby 3.SG-PROG COP 2-beat,3.PL-do CLS-3.SG then 3.PL-REP
+st_test_nyan1302_117,nyan1302,no,NEG A1-NEG-burn A1-NEG give NEG,then CLS-announcer AM-announce give CLS-state
+st_test_nyan1302_118,nyan1302,no,Batrugbu 3.SG-beat 3.SG-REFL-meat-PROG,CLS:PL-Tutrugbu_person CLS-state CLS-nine-inside-DEF
+st_test_nyan1302_119,nyan1302,no,1:PROG sing CONSEC-1.PL tell,separate CLS-side not_any skin
+st_test_nyan1302_120,nyan1302,no,Bloo stop-IMP that be-IMP let.know,1.PL mix then 1.PL-be_at here
+st_test_nyan1302_121,nyan1302,no,her child with box two,uhm therefore REL 1.SG-NEG:PST-remain therefore-TP
+st_test_nyan1302_122,nyan1302,no,bone with hollow,certain at there
+st_test_nyan1302_123,nyan1302,no,PRO.1.SG-uproot-NMLZ,3.SG-VENITIVE-touch
+st_test_nyan1302_124,nyan1302,no,mother mother-self 3.SG-go,3.PL-come cheat-VENTIVE-greet 1.PL
+st_test_nyan1302_125,nyan1302,no,3.SG-PROC die-FV,well uhm
+st_test_nyan1302_126,nyan1302,no,14-beat-PLUR-TOP,AM-REP-climb
+st_test_nyan1302_127,nyan1302,no,so 2.SG-PROG wipe-ACC drink store DEM,therefore now right_away REL 1.SG-do thus
+st_test_nyan1302_128,nyan1302,no,3.SG NFIN-break DET,REL 3.PL-lead 1.PL
+st_test_nyan1302_129,nyan1302,no,Losso 3.SG-break-PST fast-fast,3.SG-say CLS-do exactly
+st_test_nyan1302_130,nyan1302,no,NOM-drink go-PST,SCONN-take come_with
+st_test_nyan1302_131,nyan1302,no,short.leg-offspring,CLS-word-every-word
+st_test_nyan1302_132,nyan1302,no,NFIN-drink,CLS-Okume
+st_test_nyan1302_133,nyan1302,no,3.SG-grandmother 3.SG-handle,CLS-1.PL CLS-hand
+st_test_nyan1302_134,nyan1302,no,platernal.lesson berry,3.PL-FUT-buy_liquid_stuff CLS:PL-beverage
+st_test_nyan1302_135,nyan1302,no,3.SG sit NOM-P2,REL 3.PL PROG-eat
+st_test_nyan1302_136,nyan1302,no,Aloko NOM-take-PST NOM-good FV,3.SG-take CLS-hand SCONN-make_contact jaw
+st_test_nyan1302_137,nyan1302,no,Kɛlɛnu sɛ did NOM-hit store,3.SG-be that REL 3.PL-set_down CLS-chief-DEF
+st_test_nyan1302_138,nyan1302,no,so beklu 1.SG CONN beat-fast,then AM-call 1.SG thus CLS:PL-Tutrugbu_person
+st_test_nyan1302_139,nyan1302,no,NEG body come DEM NEG-harpy NEG,hair 1.PL-ITIVE do CLS-state-work ADDR
+st_test_nyan1302_140,nyan1302,no,Ano 3.SG beat 1.SG go children take Begbe,CLS-person FOC die at here CLS-today also Konda
+st_test_nyan1302_141,nyan1302,no,play CONN AGR-do NOM-beat bread bread,then 3.SG-see CLS-animal CLS-horn AM-two certain
+st_test_nyan1302_142,nyan1302,no,COMP 1-PRO 3.PL-RECP-8-break-IPFV,REL-NEG:be now 3.PL-REP-VENITIVE-carry-3.SG
+st_test_nyan1302_143,nyan1302,no,plate NOM-young-two three,SCONN-catch CLS-boy DEF
+st_test_nyan1302_144,nyan1302,no,mistake 3.SG-COP,spokesperson 2.SG-be_at
+st_test_nyan1302_145,nyan1302,no,baby-plate two,3.PL-VENTIVE-help CLS-1.PL
+st_test_nyan1302_146,nyan1302,no,AUG-2.PL quite PRO1S NEG give 1.SG,AM-3.PL-remain well at this inside
+st_test_nyan1302_147,nyan1302,no,Kliso 3.SG-cover body,therefore uhm 1.PL
+st_test_nyan1302_148,nyan1302,no,2-sister 2-friend 2-sister 3.PL 2-break-PRF,3.PL-say 3.PL-FUT-give SCONN-that 1.PL 1.PL-do
+st_test_nyan1302_149,nyan1302,no,2.PL-hide bike,CLS:PL-woman CLS-between
+st_test_nyan1302_150,nyan1302,no,so INV-return NOM-be strawberries DEM bring NOM,then 3.PL-descend AM-go CLS-valley DEF matter TP
+st_test_nyan1302_151,nyan1302,no,so give-GO-IPFV NOM-wife,then 3.PL-VENITIVE-appear CLS-show
+st_test_nyan1302_152,nyan1302,no,boy 3.PL.NOM-PST2-break-PST go 3.SG-house break,CLS:PL-3.PL 3.PL-PROG-do give 1.PL first
+st_test_nyan1302_153,nyan1302,no,1-PRS NEG-sing,CLS-3.SG CLS-sun
+st_test_nyan1302_154,nyan1302,no,Bolo it-manage they-see,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_155,nyan1302,no,plate NOM-short thus then blood fill NOM-break bucket they COP NOM-watch NOM-arrive 1.SG,then 3.SG-show therefore then 1.PL also 3.SG-do as 1.PL be_at CLS:PL-skin CLS-hand inside
+st_test_nyan1302_156,nyan1302,no,AUG-2.PL bone 1.SG,AM-FUT-remain CLS-chair inside
+st_test_nyan1302_157,nyan1302,no,fish FOC NFIN.LOC 1.SG hear EMPH,CLS-owner-DEF at CLS-reach-DEF inside also ADDR
+st_test_nyan1302_158,nyan1302,no,2-PROG-bring-PRF 6-NEG,3.PL-NEG:PRS-do CLS-3.SG
+st_test_nyan1302_159,nyan1302,no,Ano 3.SG beat 1.SG go children take Begbe,CLS-person FOC die at here CLS-today also Konda
+st_test_nyan1302_160,nyan1302,no,child 3.SG-bring-PST bucket 3.SG-bring NOM-beating,therefore 2.SG-do then 2.SG-puncture CLS-hole-DEF
+st_test_nyan1302_161,nyan1302,no,plate NOM-P2SG sleep,CLS-here 1.SG-see finish
+st_test_nyan1302_162,nyan1302,no,3.SG-grain,2.SG-go
+st_test_nyan1302_163,nyan1302,no,obody-ACC Obody-DEF 3.SG CONSEC-black,2.SG-FUT-ITIVE-climb Ediewono 3.SG CLS-stone
+st_test_nyan1302_164,nyan1302,no,plate NOM-flower go-PL,1.PL CLS:PL-Tutrugbu_person custom
+st_test_nyan1302_165,nyan1302,no,so little brain PREP Banya 3.SG-bring Nyagbo,then 1.PL-come-remain here at Banya or Nyagbo
+st_test_nyan1302_166,nyan1302,no,1.SG-VOC like 3.SG live two-three,2.SG-own REL 2.SG also PROG-hold
+st_test_nyan1302_167,nyan1302,no,Kelɛ PERF-eat with box-PL,then CLS-woman DEF AM-REP-exit
+st_test_nyan1302_168,nyan1302,no,Alase sit NOM-who LOC Alow NOM,because REL CLS-man DEF AM-get_up first
+st_test_nyan1302_169,nyan1302,no,Kliso 3.SG-cover body,therefore uhm 1.PL
+st_test_nyan1302_170,nyan1302,no,fall[NOM],by_all_means
+st_test_nyan1302_171,nyan1302,no,two-two,trouble
+st_test_nyan1302_172,nyan1302,no,PRO 1.SG ACC.INDF,CLS-water-DEF be_high(river) ADDR
+st_test_nyan1302_173,nyan1302,no,boy DEM live-PROG NEG,CLS-pile then 1.PL-PROG-do that
+st_test_nyan1302_174,nyan1302,no,teacher DEM 1.SG-PST-bring black.medicine,CLS-spokesperson DEF inside-own one
+st_test_nyan1302_175,nyan1302,no,Kɛlɛ FOC NOM-pro NOM-still NOM-good NEG,then 3.SG AM-want SCONN-that SCONN-catch-3.SG just
+st_test_nyan1302_176,nyan1302,no,plate boy NEG beat two three,CLS-there 3.PL-leave just-DEF 3.PL-VENITIVE-reach CLS-place
+st_test_nyan1302_177,nyan1302,no,1.SG-burn 3.SG-go NEG,3.PL-say SCONN-look_at just-DEF
+st_test_nyan1302_178,nyan1302,no,Klisoo big kelisoo 3.SG-PRS tell,therefore-DEF 1.PL:POSS CLS-river-DEF CLS-this skin
+st_test_nyan1302_179,nyan1302,no,DEM child,CLS-state thus
+st_test_nyan1302_180,nyan1302,no,woman Begbe CONJ beg FOC 3.PL-beat better 3.SG-be Hahute,uhm Konda with CLS:PL-guest REL 3.PL-come_from CLS:PL-certain AM-come_from Hahute
+st_test_nyan1302_181,nyan1302,no,NOM drink-drink DEM,walk gently-gently thus
+st_test_nyan1302_182,nyan1302,no,go-FV,thus
+st_test_nyan1302_183,nyan1302,no,boy DEM boy-PROG 3.PL-break PREP,CLS:PL-person DEF AM-ITIVE-put_in CLS:PL-thing at
+st_test_nyan1302_184,nyan1302,no,NEG become some NEG beat NOM-fish 1.SG,then 1.PL all then 1.PL-go CLS-work inside
+st_test_nyan1302_185,nyan1302,no,baw tell,CLS:PL-medicine skin
+st_test_nyan1302_186,nyan1302,no,1.SG go-PST woman,at here completely
+st_test_nyan1302_187,nyan1302,no,plate only NEG women three NEG,then 3.PL also return climb SCONN-go
+st_test_nyan1302_188,nyan1302,no,child POSS NOM-train give NOM-woman,therefore then 2.SG-pierce put_in 2.SG-see
+st_test_nyan1302_189,nyan1302,no,PRO 1.SG ACC.INDF,CLS-water-DEF be_high(river) ADDR
+st_test_nyan1302_190,nyan1302,no,klɛ PX-be.filled NOM-inside,then 3.SG-put_in CLS-noise-DEF
+st_test_nyan1302_191,nyan1302,no,1.SG PROG sɛ burnt PROG,FOC 3.PL-say that CLS-beverage-DEF be_good
+st_test_nyan1302_192,nyan1302,no,Boma go boy DEF,1.PL-separate give CLS:PL-person DEF
+st_test_nyan1302_193,nyan1302,no,girl NEG 3.SG-bring.home 3.SG-COP 3.SG.COP,2.SG-see then 2.SG-pull CLS-3.SG thus
+st_test_nyan1302_194,nyan1302,no,mango POSS-sheep,then 3.SG-leave
+st_test_nyan1302_195,nyan1302,no,baby 3.PL-be NOM-place 3.SG-be PROG be PROG beat PROG beat-PROG me,3.PL-VENTIVE-PROG-put_in CLS:PL-thing SCONN-give 1.PL at there at CLS-river-DEF inside
+st_test_nyan1302_196,nyan1302,no,1 PFX-drink meat thus 1 PFX-sick,3.SG:Poss CLS-place 1.SG-remain therefore 3.SG AM-teach
+st_test_nyan1302_197,nyan1302,no,pétéé,all
+st_test_nyan1302_198,nyan1302,no,Kelɛ FOC blow football 3.SG little tell,this be_at 1.PL CLS:PL-Tutrugbu_person DEF all skin
+st_test_nyan1302_199,nyan1302,no,K;D NOM-picture PVC 3.SG bone,then 3.SG-already-finish at 2.SG:Poss body
+st_test_nyan1302_200,nyan1302,no,1.SG-PRO 1.SG-ACC 11-beat-PROJ,this_one 3.SG-be CLS-palm_frond
+st_test_nyan1302_201,nyan1302,no,pineapple 3.PL-PROG NEG,1.PL-put_in 3.PL just
+st_test_nyan1302_202,nyan1302,no,PRO DEM,Sroe DEF
+st_test_nyan1302_203,nyan1302,no,story NOM-DEF big,CLS-chief-DEF AM-give message
+st_test_nyan1302_204,nyan1302,no,1.SG-see Mawu 3.SG-see-PERF,1.SG-hit God CLS-hand
+st_test_nyan1302_205,nyan1302,no,2.SG-order 2.SG.NOM 2.SG-ACC-NEG,CLS-cotton DEF is_this
+st_test_nyan1302_206,nyan1302,no,PRO-2.PL-little,3.SG-FUT-take-3.SG
+st_test_nyan1302_207,nyan1302,no,old.man PERF-set blood three,CLS-3.SG SCONN-that 1.PL be
+st_test_nyan1302_208,nyan1302,no,so DEF-sheep NOM-be.LOC,then 2.SG-VENITIVE-come CLS-this
+st_test_nyan1302_209,nyan1302,no,3.PL PROG-arrive with,REL 3.PL-call that
+st_test_nyan1302_210,nyan1302,no,boy 3.SG NOM-P1-fry-IPFV tomorrow,but 3.SG:Poss CLS-leg-CLS-place AM-show
+st_test_nyan1302_211,nyan1302,no,wind broken QUAL 3.PL-break seven CL-bear NEG,uhm 1.PL all 1.PL-do CLS-time CLS-top PRT
+st_test_nyan1302_212,nyan1302,no,(little) oh,cloth TP
+st_test_nyan1302_213,nyan1302,no,baby-plate two,3.PL-VENTIVE-help CLS-1.PL
+st_test_nyan1302_214,nyan1302,no,1.SG PROG-sharpen,at CLS-waist
+st_test_nyan1302_215,nyan1302,no,child male 3.SG NOM-drink two,therefore shrub_name 3.SG:Poss CLS-root-DEF AM-be_at
+st_test_nyan1302_216,nyan1302,no,Maybe bring.home-PST shoe five,REL 1.PL-do CLS-word AM-one
+st_test_nyan1302_217,nyan1302,no,1.SG-greet,down
+st_test_nyan1302_218,nyan1302,no,1.PL-bring 1.PL-drink,go-COMITATIVE CLS-front
+st_test_nyan1302_219,nyan1302,no,ceremonial.transport that NOM-be four 3.PL-be.located NOM-be.located,therefore-DEF that CLS-time owner-DEF AM-know CLS-word
+st_test_nyan1302_220,nyan1302,no,3.SG-dress,CLS-there
+st_test_nyan1302_221,nyan1302,no,thus Kɛlɛ 3.SG be NOM-short P1 NEG,therefore then 3.SG be_at CLS-upright at there
+st_test_nyan1302_222,nyan1302,no,Kɛlɛ NOM-arrive 3.SG-NEG drink NOM-eat that,then CLS-rope CLS-that REL AM-be_far CLS:PL-this
+st_test_nyan1302_223,nyan1302,no,1.SG take CL-ground NEG,uhm therefore-TP CLS-path be_at
+st_test_nyan1302_224,nyan1302,no,Kɛlɛ PNC-PERF-shatter,then 3.SG-show
+st_test_nyan1302_225,nyan1302,no,inter 1 NOM be NOM-pet two,REL 3.SG-be this_one FOC 3.SG-FUT-give that
+st_test_nyan1302_226,nyan1302,no,person that person NOM-beat-PST,CLS-person every person AM-do
+st_test_nyan1302_227,nyan1302,no,PROG-come with,CLS:PL-medicine DEF
+st_test_nyan1302_228,nyan1302,no,1 PFX-consume COP NOM-sharp 1 CONSEC back 1 COP strong,1.SG:Poss CLS-grandmother FOC AM-teach 1.SG that thus 3.SG spin
+st_test_nyan1302_229,nyan1302,no,her Avobo both NOM-beat 1-drink DEM NEG,uhm CLS:PL-frog 3.PL-climb SCONN-be_on CLS-tree DEF CLS-top
+st_test_nyan1302_230,nyan1302,no,betely 3.SG-bring 3.SG-ACC Avɛno,CLS:PL-certain AM-come_from uhm Aveno
+st_test_nyan1302_231,nyan1302,no,bunya NOM-complete by NOM-complete PRED tomorrow,1.PL-know CLS-remain REL 2.SG-remain at 1.PL
+st_test_nyan1302_232,nyan1302,no,Kɛlɛ female NOM-beat fish NOM-beat,then 3.PL-FUT-take come_with CLS-old CLS-place
+st_test_nyan1302_233,nyan1302,no,NEG-boy NEG-bone NEG,NEG:PRS-not_yet-PROG-climb CLS-stone DEF
+st_test_nyan1302_234,nyan1302,no,toe,ok
+st_test_nyan1302_235,nyan1302,no,monkey strong two produce with hand/arm,CLS-fire-DEF quickly burn COMP 1.SG-blow
+st_test_nyan1302_236,nyan1302,no,plate big-black be meat NOM-drink-INDF PRS.HAB,hold be_hard REL 3.SG-be CLS-dawadawa_tree 3.SG:Poss
+st_test_nyan1302_237,nyan1302,no,DEM-ANAPHORIC lotten,CLS-unprocessed_rice 1.PL-grind
+st_test_nyan1302_238,nyan1302,no,Aa DEM strike 2.SG go there,well 2.PL also 2.PL place be_cold
+st_test_nyan1302_239,nyan1302,no,Kã bubisi 3.SG-be women,then 1.PL-ask CLS-3.PL what_is_it
+st_test_nyan1302_240,nyan1302,no,3.SG come NEG,give CLS:PL father
+st_test_nyan1302_241,nyan1302,no,Ezɛmo sɛ boy beat.3.SG beat.3.SG,1.SG-REP-see that CLS:PL-person AM four
+st_test_nyan1302_242,nyan1302,no,but FOC children say brain NOM-brew pot POSS.3.SG that NEG,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just
+st_test_nyan1302_243,nyan1302,no,seven,CLS-day_removed
+st_test_nyan1302_244,nyan1302,no,Abhetɛ 3.SG.SBJV 1.SG NOM-drink,3.SG-do give inside as
+st_test_nyan1302_245,nyan1302,no,Bolo it-manage they-see,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_246,nyan1302,no,ten-monkey,one
+st_test_nyan1302_247,nyan1302,no,3.SG-say a-sɛnɛ,2.SG-say CLS-lie
+st_test_nyan1302_248,nyan1302,no,fish FOC NFIN.LOC 1.SG hear EMPH,CLS-owner-DEF at CLS-reach-DEF inside also ADDR
+st_test_nyan1302_249,nyan1302,no,LOC Aloko bridge big PREP 1.SG,DEF SCONN-take go-COMITATIVE CLS-room DEF inside
+st_test_nyan1302_250,nyan1302,no,ball FOC quite 3.PL-beat 3.PL-two NEG,3.PL that all AM-be CLS:PL-medicine REL
+st_test_nyan1302_251,nyan1302,no,indeed 1 NOM-beat broke NOM-beer NEG-DEM,REL 3.SG-be schnapps bottle AM-two CLS-bark|shell
+st_test_nyan1302_252,nyan1302,no,plate NOM-P2SG sleep,CLS-here 1.SG-see finish
+st_test_nyan1302_253,nyan1302,no,plate-PL,3.PL-know
+st_test_nyan1302_254,nyan1302,no,3.PL HAB-AUX DEM NOM-door 3.PL HAB-AUX NEG,1.PL take CLS-3.SG CLS-bark 1.PL take cook
+st_test_nyan1302_255,nyan1302,no,PERF-REM.INAN 2-PL-live DEM,all 1.PL-FUT-put_on CLS-3.SG
+st_test_nyan1302_256,nyan1302,no,plate-PL,3.PL-know
+st_test_nyan1302_257,nyan1302,no,stone-pot,AM-FUT-open
+st_test_nyan1302_258,nyan1302,no,water big NOM-drink that,yes CLS-fire-DEF AM-give that
+st_test_nyan1302_259,nyan1302,no,but FOC children say brain NOM-brew pot POSS.3.SG that NEG,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just
+st_test_nyan1302_260,nyan1302,no,gold,CLS-untie
+st_test_nyan1302_261,nyan1302,no,so NEG-completely 1.SG NEG-die 1.SG,then 3.PL-put_in-3.SG at CLS-room-DEF inside
+st_test_nyan1302_262,nyan1302,no,indeed body little NOM.PL-be NOM.INDF-hungry 1.SG.ACC,REL 3.SG-be CLS:PL-thing a_certain NEG:PRS-FUT-comeCM-state inside
