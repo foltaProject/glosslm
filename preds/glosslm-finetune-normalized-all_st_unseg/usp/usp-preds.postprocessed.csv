@@ -1,0 +1,1267 @@
+id,glottocode,is_segmented,pred,gold
+st_test_uspa1245_0,uspa1245,yes,CONJ COM-quedar perder DIM niño ERG.3.SG-N.REL ERG.3.SG-esposa,CONJ COM-quedar perder DIM niño ERG.3.SG-N.REL ERG.3.SG-esposa
+st_test_uspa1245_0,uspa1245,no,CONJ COM-quedar perder-EMPH DIM niño ERG.3.SG-N.REL ERG.3.SG-esposa,CONJ COM-quedar perder DIM niño ERG.3.SG-N.REL ERG.3.SG-esposa
+st_test_uspa1245_1,uspa1245,yes,COM-venir ART mujer COM-quedar-dar DIM niño ERG.3.SG-N.REL ERG.3.SG-abuelo,COM-venir ART mujer COM-dejar-dar DIM niño ERG.3.SG-N.REL ERG.3.SG-abuelo
+st_test_uspa1245_1,uspa1245,no,COM-venir ART mujer COM-quedar-EMPH DIM??? ERG.3.SG-N.REL ERG.3.SG-abuelo,COM-venir ART mujer COM-dejar-dar DIM niño ERG.3.SG-N.REL ERG.3.SG-abuelo
+st_test_uspa1245_2,uspa1245,yes,CONJ COM-venir ERG.3.SG-abuelo ERG.3.SG-ver DIM niño,CONJ COM-venir ERG.3.SG-abuelo ERG.3.SG-ver DIM niño
+st_test_uspa1245_2,uspa1245,no,CONJ COM-venir ERG.3.SG-abuelo ERG.3.SG-ver DIM niño,CONJ COM-venir ERG.3.SG-abuelo ERG.3.SG-ver DIM niño
+st_test_uspa1245_3,uspa1245,yes,CONJ COM-crecer DIM mujer,CONJ COM-crecer DIM mujer
+st_test_uspa1245_3,uspa1245,no,CONJ COM-crecer DIM mujer,CONJ COM-crecer DIM mujer
+st_test_uspa1245_4,uspa1245,yes,COM-crecer COM-hacer señorita alma,COM-crecer COM-hacer señorita mujer
+st_test_uspa1245_4,uspa1245,no,COM-crecer COM-hacer señorita mujer,COM-crecer COM-hacer señorita mujer
+st_test_uspa1245_5,uspa1245,yes,EXS uno hombre ERG.3.SG-nombre sergio,EXS uno hombre ERG.3.SG-decir Sergio
+st_test_uspa1245_5,uspa1245,no,EXS uno hombre ERG.3.SG-nombre sergio,EXS uno hombre ERG.3.SG-decir Sergio
+st_test_uspa1245_6,uspa1245,yes,COM-hablar-ANTIP él/ella,COM-hablar-ANTIP él/ella
+st_test_uspa1245_6,uspa1245,no,COM-hablar-ANTIP él/ella,COM-hablar-ANTIP él/ella
+st_test_uspa1245_7,uspa1245,yes,CONJ esta@bien,CONJ bueno
+st_test_uspa1245_7,uspa1245,no,CONJ esta@bien,CONJ bueno
+st_test_uspa1245_8,uspa1245,yes,dice DIM mujer él/ella ART hombre sergio,decir DIM mujer N.REL ART hombre Sergio
+st_test_uspa1245_8,uspa1245,no,dice DIM mujer él/ella ART hombre sergio,decir DIM mujer N.REL ART hombre Sergio
+st_test_uspa1245_9,uspa1245,yes,viejo viejo PART AFE ERG.3.SG-abuelo,viejo viejo PART AFE ERG.3.SG-abuelo
+st_test_uspa1245_9,uspa1245,no,viejo viejo PART AFE ERG.3.SG-abuelo,viejo viejo PART AFE ERG.3.SG-abuelo
+st_test_uspa1245_10,uspa1245,yes,compañero AFE ERG.3.SG-abuela,compañero AFE ERG.3.SG-abuela
+st_test_uspa1245_10,uspa1245,no,compañero AFE ERG.3.SG-abuela,compañero AFE ERG.3.SG-abuela
+st_test_uspa1245_11,uspa1245,yes,CONJ viejo PART AFE ERG.3.SG-abuelo,CONJ viejo PART AFE ERG.3.SG-abuelo
+st_test_uspa1245_11,uspa1245,no,CONJ viejo PART AFE ERG.3.SG-abuelo,CONJ viejo PART AFE ERG.3.SG-abuelo
+st_test_uspa1245_12,uspa1245,yes,compañero ERG.3.SG-abuela,compañero ERG.3.SG-abuela
+st_test_uspa1245_12,uspa1245,no,compañero ERG.3.SG-abuela,compañero ERG.3.SG-abuela
+st_test_uspa1245_13,uspa1245,yes,ERG.3.SG-ver ART joven hombre,ERG.3.SG-ver ART joven hombre
+st_test_uspa1245_13,uspa1245,no,ERG.3.SG-ver ART joven hombre,ERG.3.SG-ver ART joven hombre
+st_test_uspa1245_14,uspa1245,yes,viejo PART AFE ERG.3.SG-abuelo,viejo PART AFE ERG.3.SG-abuelo
+st_test_uspa1245_14,uspa1245,no,viejo PART AFE ERG.3.SG-abuelo,viejo PART AFE ERG.3.SG-abuelo
+st_test_uspa1245_15,uspa1245,yes,COM-poder PREP-ERG.3.SG enamorar-SC DIM mujer,COM-poder PREP-ERG.3.SG cantinear-SC DIM mujer
+st_test_uspa1245_15,uspa1245,no,COM-poder PREP-ERG.3.SG joven DIM mujer,COM-poder PREP-ERG.3.SG cantinear-SC DIM mujer
+st_test_uspa1245_16,uspa1245,yes,COM-llevar DIR ERG.3.SG-N.REL ART-ERG.3.SG mamá,COM-recibir DIR ERG.3.SG-N.REL quitar mamá
+st_test_uspa1245_16,uspa1245,no,COM-llevar DIR ERG.3.SG-N.REL ART-ERG.3.SG mamá,COM-recibir DIR ERG.3.SG-N.REL quitar mamá
+st_test_uspa1245_17,uspa1245,yes,COM-llegar ERG.3.SG-N.REL ART-ERG.3.SG mamá,COM-llegar ERG.3.SG-N.REL ART-ERG.3.SG mamá
+st_test_uspa1245_17,uspa1245,no,COM-llegar ERG.3.SG-N.REL mamá mamá,COM-llegar ERG.3.SG-N.REL ART-ERG.3.SG mamá
+st_test_uspa1245_18,uspa1245,yes,COM-decir él/ella,COM-decir él/ella
+st_test_uspa1245_18,uspa1245,no,COM-decir él/ella,COM-decir él/ella
+st_test_uspa1245_19,uspa1245,yes,COM-A1S-traer-DIR DIM mujer,COM-ERG.1.SG-recibir-DIR DIM mujer
+st_test_uspa1245_19,uspa1245,no,COM-A1S-recibir-EMPH-DIR DIM mujer,COM-ERG.1.SG-recibir-DIR DIM mujer
+st_test_uspa1245_20,uspa1245,yes,dice él/ella ART-ERG.3.SG mamá,decir él/ella ART-ERG.3.SG mamá
+st_test_uspa1245_20,uspa1245,no,dice él/ella ART-ERG.3.SG mamá,decir él/ella ART-ERG.3.SG mamá
+st_test_uspa1245_21,uspa1245,yes,PART ART-ERG.3.SG mamá COM-decir él/ella ART Sergio,PART ART-ERG.3.SG mamá COM-decir él/ella ART Sergio
+st_test_uspa1245_21,uspa1245,no,PART ART-ERG.3.SG mamá COM-decir él/ella ART Sergio,PART ART-ERG.3.SG mamá COM-decir él/ella ART Sergio
+st_test_uspa1245_22,uspa1245,yes,INT-ERG.3.SG-aguantar-SC ART mujer DEM ERG.2.SG-N.REL,INT-ERG.3.SG-trabajar-SC ART mujer DEM ERG.2.SG-N.REL
+st_test_uspa1245_22,uspa1245,no,INT-ERG.3.SG-aguantar-SC ART mujer DEM ERG.2.SG-N.REL,INT-ERG.3.SG-trabajar-SC ART mujer DEM ERG.2.SG-N.REL
+st_test_uspa1245_23,uspa1245,yes,ART sucio ERG.3.SG-N.REL mujer,ART sucio ERG.3.SG-N.REL mujer
+st_test_uspa1245_23,uspa1245,no,ART sucio ERG.3.SG-N.REL mujer,ART sucio ERG.3.SG-N.REL mujer
+st_test_uspa1245_24,uspa1245,yes,dice él/ella ART Sergios,decir él/ella ART Sergio
+st_test_uspa1245_24,uspa1245,no,dice él/ella ART Sergios,decir él/ella ART Sergio
+st_test_uspa1245_25,uspa1245,yes,aunque@sea sucio ERG.3.SG-N.REL,aunque@sea sucio ERG.3.SG-N.REL
+st_test_uspa1245_25,uspa1245,no,aunque@sea sucio ERG.3.SG-N.REL,aunque@sea sucio ERG.3.SG-N.REL
+st_test_uspa1245_26,uspa1245,yes,yo APPRX-querer-EMPH ERG.3.SG-N.REL,yo APPRX-querer-EMPH ERG.3.SG-cara
+st_test_uspa1245_26,uspa1245,no,yo APPRX-querer-EMPH ERG.3.SG-N.REL,yo APPRX-querer-EMPH ERG.3.SG-cara
+st_test_uspa1245_27,uspa1245,yes,dice ART sergio,decir ART Sergio
+st_test_uspa1245_27,uspa1245,no,dice ART Sergio,decir ART Sergio
+st_test_uspa1245_28,uspa1245,yes,bueno-PART aunque@sea sucio,bueno-DEM aunque@sea sucio
+st_test_uspa1245_28,uspa1245,no,bueno-DEM aunque@sea sucio,bueno-DEM aunque@sea sucio
+st_test_uspa1245_29,uspa1245,yes,yo APPRX-querer-EMPH ERG.3.SG-N.REL,yo APPRX-querer-EMPH ERG.3.SG-cara
+st_test_uspa1245_29,uspa1245,no,yo APPRX-querer-EMPH ERG.3.SG-N.REL,yo APPRX-querer-EMPH ERG.3.SG-cara
+st_test_uspa1245_30,uspa1245,yes,dice ART sergio,decir ART Sergio
+st_test_uspa1245_30,uspa1245,no,dice ART sergio,decir ART Sergio
+st_test_uspa1245_31,uspa1245,yes,CONJ COM-venir ART-ERG.3.SG mamá APPRX-ERG.3.SG-pegar DIM mujer,CONJ COM-venir ART-ERG.3.SG mamá APPRX-ERG.3.SG-pegar DIM mujer
+st_test_uspa1245_31,uspa1245,no,CONJ COM-venir ART-ERG.3.SG mamá APPRX-ERG.3.SG-pegar DIM mujer,CONJ COM-venir ART-ERG.3.SG mamá APPRX-ERG.3.SG-pegar DIM mujer
+st_test_uspa1245_32,uspa1245,yes,CONJ cuando ART Sergio APPRX-salir PREP trabajo,CONJ cuando ART Sergio APPRX-salir PREP trabajo
+st_test_uspa1245_32,uspa1245,no,CONJ cuando ART sergio APPRX-salir PREP trabajo,CONJ cuando ART Sergio APPRX-salir PREP trabajo
+st_test_uspa1245_33,uspa1245,yes,PART-ERG.3.SG APPRX-venir ART-ERG.3.SG mamá,ART-ERG.3.SG APPRX-venir ART-ERG.3.SG mamá
+st_test_uspa1245_33,uspa1245,no,ART-ERG.3.SG APPRX-venir ART-ERG.3.SG mamá,ART-ERG.3.SG APPRX-venir ART-ERG.3.SG mamá
+st_test_uspa1245_34,uspa1245,yes,Angelica APPRX-ERG.3.SG-pegar DIM mujer,Angelica APPRX-ERG.3.SG-pegar DIM mujer
+st_test_uspa1245_34,uspa1245,no,Angelica APPRX-ERG.3.SG-pegar DIM mujer,Angelica APPRX-ERG.3.SG-pegar DIM mujer
+st_test_uspa1245_35,uspa1245,yes,CONJ APPRX-llegar PART,CONJ APPRX-llegar PART
+st_test_uspa1245_35,uspa1245,no,CONJ APPRX-llegar PART,CONJ APPRX-llegar PART
+st_test_uspa1245_36,uspa1245,yes,APPRX-regresar-DIR ART ERG.3.SG-hijo@de@mujer DEM trabajo,APPRX-regresar-DIR ART ERG.3.SG-hijo PREP trabajo
+st_test_uspa1245_36,uspa1245,no,APPRX-regresar-DIR ART ERG.3.SG-hijo@de@mujer DEM trabajo,APPRX-regresar-DIR ART ERG.3.SG-hijo PREP trabajo
+st_test_uspa1245_37,uspa1245,yes,APPRX-entrar PREP-ERG.3.SG meter-SC palabra él/ella ART ERG.3.SG-hijo,APPRX-entrar PREP-ERG.3.SG meter-SC palabra él/ella ART ERG.3.SG-hijo
+st_test_uspa1245_37,uspa1245,no,entrar PREP-ERG.3.SG meter-SC palabra él/ella ART ERG.3.SG-hijo,APPRX-entrar PREP-ERG.3.SG meter-SC palabra él/ella ART ERG.3.SG-hijo
+st_test_uspa1245_38,uspa1245,yes,APPRX-venir PART ART ERG.3.SG-hijo,APPRX-venir PART ART ERG.3.SG-hijo
+st_test_uspa1245_38,uspa1245,no,APPRX-venir PART ART ERG.3.SG-hijo,APPRX-venir PART ART ERG.3.SG-hijo
+st_test_uspa1245_39,uspa1245,yes,APPRX-entrar PREP-ERG.3.SG pegar-SC DIM mujer,APPRX-meter PREP-ERG.3.SG pegar-SC DIM mujer
+st_test_uspa1245_39,uspa1245,no,APPRX-entrar PREP-ERG.3.SG pegar DIM mujer,APPRX-meter PREP-ERG.3.SG pegar-SC DIM mujer
+st_test_uspa1245_40,uspa1245,yes,CONJ COM-venir-SC ART-ERG.3.SG mamá Angelica,CONJ COM-venir-SC quitar ART Angelica
+st_test_uspa1245_40,uspa1245,no,CONJ COM-venir-SC ART-ERG.3.SG mamá Angelica,CONJ COM-venir-SC quitar ART Angelica
+st_test_uspa1245_41,uspa1245,yes,COM-hacer aconsejar ART ERG.3.SG-hijo,COM-hacer consejar ART ERG.3.SG-hijo
+st_test_uspa1245_41,uspa1245,no,COM-hacer aconsejar ART ERG.3.SG-hijo,COM-hacer consejar ART ERG.3.SG-hijo
+st_test_uspa1245_42,uspa1245,yes,que COM-salir-??? DIR PREP-N.REL DIM mujer,que COM-salir-PASS DIR PREP-N.REL DIM mujer
+st_test_uspa1245_42,uspa1245,no,que COM-salir-??? DIR PREP-N.REL DIM mujer,que COM-salir-PASS DIR PREP-N.REL DIM mujer
+st_test_uspa1245_43,uspa1245,yes,COM-mandar DIR ART ERG.3.SG-hojo Mexico,COM-PL DIR ART ERG.3.SG-hijo México
+st_test_uspa1245_43,uspa1245,no,COM-mandar DIR ART ERG.3.SG-hojo Mexico,COM-PL DIR ART ERG.3.SG-hijo México
+st_test_uspa1245_44,uspa1245,yes,COM-venir PART,COM-venir PART
+st_test_uspa1245_44,uspa1245,no,COM-venir PART,COM-venir PART
+st_test_uspa1245_45,uspa1245,yes,cuando COM-ERG.3.SG-ver ART-ERG.3.SG mamá,cuando COM-ERG.3.SG-ver ART-ERG.3.SG mamá
+st_test_uspa1245_45,uspa1245,no,cuando COM-ERG.3.SG-ver ART-ERG.3.SG mamá,cuando COM-ERG.3.SG-ver ART-ERG.3.SG mamá
+st_test_uspa1245_46,uspa1245,yes,NEG PART-EMPH ART ERG.3.SG-hijo,NEG PREP-EMPH ART ERG.3.SG-hijo
+st_test_uspa1245_46,uspa1245,no,NEG PART-EMPH ART ERG.3.SG-hijo,NEG PREP-EMPH ART ERG.3.SG-hijo
+st_test_uspa1245_47,uspa1245,yes,COM-venir ART ERG.3.SG-mamá,COM-venir ART ERG.3.SG-mamá
+st_test_uspa1245_47,uspa1245,no,COM-venir ART ERG.3.SG-mamá,COM-venir ART ERG.3.SG-mamá
+st_test_uspa1245_48,uspa1245,yes,COM-entrar PREP-ERG.3.SG pegar-SC DIM mujer,COM-entrar PREP-ERG.3.SG pegar-SC DIM mujer
+st_test_uspa1245_48,uspa1245,no,COM-entrar PREP-ERG.3.SG pegar-SC DIM mujer,COM-entrar PREP-ERG.3.SG pegar-SC DIM mujer
+st_test_uspa1245_49,uspa1245,yes,CONJ COM-venir COM-hacer uno día,CONJ COM-venir COM-hacer uno día
+st_test_uspa1245_49,uspa1245,no,CONJ COM-venir COM-hacer uno día,CONJ COM-venir COM-hacer uno día
+st_test_uspa1245_50,uspa1245,yes,COM-hacer uno grande-??? lodasal,COM-hacer uno grande-PP-SC lodo
+st_test_uspa1245_50,uspa1245,no,COM-hacer uno grande-??? lodasal,COM-hacer uno grande-PP-SC lodo
+st_test_uspa1245_51,uspa1245,yes,APPRX-lodasal ART lodasal,APPRX-batir-PART ART lodo
+st_test_uspa1245_51,uspa1245,no,APPRX-lodasal ART lodasal,APPRX-batir-PART ART lodo
+st_test_uspa1245_52,uspa1245,yes,APPRX-pegajoso-ANTIP-SC,APPRX-pegar-ANTIP-SC
+st_test_uspa1245_52,uspa1245,no,APPRX-pegajoso-ANTIP-SC,APPRX-pegar-ANTIP-SC
+st_test_uspa1245_53,uspa1245,yes,COM-tirar algunos collar N.REL,COM-tirar unos collar N.REL
+st_test_uspa1245_53,uspa1245,no,COM-tirar algunos collar adentro,COM-tirar unos collar N.REL
+st_test_uspa1245_54,uspa1245,yes,compañero junto dinero,compañero unos dinero
+st_test_uspa1245_54,uspa1245,no,compañero algunos dinero,compañero unos dinero
+st_test_uspa1245_55,uspa1245,yes,CONJ COM-decir él/ella DIM mujer,CONJ COM-decir él/ella DIM mujer
+st_test_uspa1245_55,uspa1245,no,CONJ COM-decir él/ella DIM mujer,CONJ COM-decir él/ella DIM mujer
+st_test_uspa1245_56,uspa1245,yes,APPRX-ERG.2.SG-sacar-SC ART perla DEM ART lodo,APPRX-ERG.2.SG-ERG.2.SG-PASS ART collar PREP ART lodo
+st_test_uspa1245_56,uspa1245,no,APPRX-E2-sacar-SC ART perla DEM ART lodo,APPRX-ERG.2.SG-ERG.2.SG-PASS ART collar PREP ART lodo
+st_test_uspa1245_57,uspa1245,yes,PREP PREP PREP ERG.2.SG-diente,en en en ERG.2.SG-diente
+st_test_uspa1245_57,uspa1245,no,PREP PREP PREP ERG.2.SG-diente,en en en ERG.2.SG-diente
+st_test_uspa1245_58,uspa1245,yes,CONJ PREP ERG.2.SG-cara APPRX-ERG.2.SG-llenar-??? ART lodo,CONJ PREP ERG.2.SG-cara-INS APPRX-ERG.2.SG-menear-PP ART lodo
+st_test_uspa1245_58,uspa1245,no,CONJ PREP ERG.2.SG-cara APPRX-ERG.2.SG-rebuelar ART lodo,CONJ PREP ERG.2.SG-cara-INS APPRX-ERG.2.SG-menear-PP ART lodo
+st_test_uspa1245_59,uspa1245,yes,APPRX-ERG.2.SG-buscar ART collar N.REL,APPRX-ERG.2.SG-buscar ART collar N.REL
+st_test_uspa1245_59,uspa1245,no,APPRX-ERG.2.SG-buscar ART collar adentro,APPRX-ERG.2.SG-buscar ART collar N.REL
+st_test_uspa1245_60,uspa1245,yes,dice él/ella dice,decir él/ella decir
+st_test_uspa1245_60,uspa1245,no,dice él/ella dice,decir él/ella decir
+st_test_uspa1245_61,uspa1245,yes,DIM mujer DIM mujer,él/ella mujer DIM mujer
+st_test_uspa1245_61,uspa1245,no,DIM mujer DIM mujer,él/ella mujer DIM mujer
+st_test_uspa1245_62,uspa1245,yes,ITS-??? APPRX-llorar,ITS-PP APPRX-llorar
+st_test_uspa1245_62,uspa1245,no,ITS APPRX-llorar,ITS-PP APPRX-llorar
+st_test_uspa1245_63,uspa1245,yes,ITS llorar,ITS-PP llorar
+st_test_uspa1245_63,uspa1245,no,ITS APPRX-llorar,ITS-PP llorar
+st_test_uspa1245_64,uspa1245,yes,angelica INT-modo APPRX-ERG.1.SG-sacar-PASS ART tierra DEM collar@instrumentos,Angelica INT-modo APPRX-N.REL-PASS ART collar DEM lodo
+st_test_uspa1245_64,uspa1245,no,angelica INT-modo APPRX-sacar-PASS ART tierra DEM COM-collar-PP,Angelica INT-modo APPRX-N.REL-PASS ART collar DEM lodo
+st_test_uspa1245_65,uspa1245,yes,si NEG APPRX-enseñar-ANTIP-SC,si NEG APPRX-eseñar-ANTIP-SC
+st_test_uspa1245_65,uspa1245,no,si NEG APPRX-enseñar-ANTIP-SC,si NEG APPRX-eseñar-ANTIP-SC
+st_test_uspa1245_66,uspa1245,yes,decir,decir
+st_test_uspa1245_66,uspa1245,no,decir,decir
+st_test_uspa1245_67,uspa1245,yes,ITS-??? APPRX-llorar DIM mujer,ITS-PP APPRX-llorar DIM mujer
+st_test_uspa1245_67,uspa1245,no,ITS APPRX-llorar DIM mujer,ITS-PP APPRX-llorar DIM mujer
+st_test_uspa1245_68,uspa1245,yes,arrodillar-ITR,arrodillar-ITR
+st_test_uspa1245_68,uspa1245,no,arrodillar-ITR,arrodillar-ITR
+st_test_uspa1245_69,uspa1245,yes,COM-entrar PREP-ERG.3.SG buscar-SC ART collar N.REL ART lodazal,COM-entrar PREP-ERG.3.SG buscar-SC ART collar adentro ART lodo
+st_test_uspa1245_69,uspa1245,no,COM-entrar PREP-ERG.3.SG buscar-SC ART collar adentro ART lodazal,COM-entrar PREP-ERG.3.SG buscar-SC ART collar adentro ART lodo
+st_test_uspa1245_70,uspa1245,yes,CONJ ART angelica mejor APPRX-ERG.3.SG-reir-SC ERG.3.SG-N.REL DIM mujer,CONJ ART Angel mejor APPRX-ERG.3.SG-reir-ERG.3.SG ERG.3.SG-cara DIM mujer
+st_test_uspa1245_70,uspa1245,no,CONJ ART angelica mejor APPRX-ERG.3.SG-reir-SC ERG.3.SG-N.REL DIM mujer,CONJ ART Angel mejor APPRX-ERG.3.SG-reir-ERG.3.SG ERG.3.SG-cara DIM mujer
+st_test_uspa1245_71,uspa1245,yes,despacio despacio COM-venir-EMPH COM-venir,despacio despacio COM-venir-??? COM-venir
+st_test_uspa1245_71,uspa1245,no,despacio despacio COM-venir COM-venir,despacio despacio COM-venir-??? COM-venir
+st_test_uspa1245_72,uspa1245,yes,COM-venir ART mujer COM-decir él/ella,COM-venir ART mujer COM-decir él/ella
+st_test_uspa1245_72,uspa1245,no,COM-venir ART mujer COM-decir él/ella,COM-venir ART mujer COM-decir él/ella
+st_test_uspa1245_73,uspa1245,yes,INT-ERG.3.SG porque-SC ERG.1.SG-tú/usted N.REL aqui,INT-ERG.3.SG trabajar-ERG.3.SG COND-ERG.2.SG N.REL aqui
+st_test_uspa1245_73,uspa1245,no,INT-ERG.3.SG por@que estar N.REL aqui,INT-ERG.3.SG trabajar-ERG.3.SG COND-ERG.2.SG N.REL aqui
+st_test_uspa1245_74,uspa1245,yes,NEG PART-EMPH ART Sergio,NEG PART-EMPH ART Sergio
+st_test_uspa1245_74,uspa1245,no,NEG PART-EMPH ART Sergio,NEG PART-EMPH ART Sergio
+st_test_uspa1245_75,uspa1245,yes,decir él/ella,dice él/ella
+st_test_uspa1245_75,uspa1245,no,decir él/ella,dice él/ella
+st_test_uspa1245_76,uspa1245,yes,ERG.3.SG-ver,ERG.3.SG-ver
+st_test_uspa1245_76,uspa1245,no,ERG.3.SG-ver,ERG.3.SG-ver
+st_test_uspa1245_77,uspa1245,yes,COM-oir DIM mujer DEM DEM,COM-oir DIM mujer DEM DEM
+st_test_uspa1245_77,uspa1245,no,COM-oir DIM mujer DEM DEM,COM-oir DIM mujer DEM DEM
+st_test_uspa1245_78,uspa1245,yes,ir COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo,ir COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo
+st_test_uspa1245_78,uspa1245,no,ir COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo,ir COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo
+st_test_uspa1245_79,uspa1245,yes,COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo,COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo
+st_test_uspa1245_79,uspa1245,no,COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo,COM-DIR-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo
+st_test_uspa1245_80,uspa1245,yes,ERG.3.SG-N.REL un mujer PART,ERG.3.SG-N.REL uno mujer PART
+st_test_uspa1245_80,uspa1245,no,ERG.3.SG-N.REL uno mujer PART,ERG.3.SG-N.REL uno mujer PART
+st_test_uspa1245_81,uspa1245,yes,CONJ COM-decir ART mujer él/ella,CONJ COM-decir ART mujer él/ella
+st_test_uspa1245_81,uspa1245,no,CONJ COM-decir ART mujer él/ella,CONJ COM-decir ART mujer él/ella
+st_test_uspa1245_82,uspa1245,yes,??? COM-decir DIM mujer él/ella,COND-NEG COM-decir DIM mujer él/ella
+st_test_uspa1245_82,uspa1245,no,?????? DIM mujer él/ella,COND-NEG COM-decir DIM mujer él/ella
+st_test_uspa1245_83,uspa1245,yes,ART ERG.3.SG-dueño casa,ART ERG.3.SG-dueño casa
+st_test_uspa1245_83,uspa1245,no,ART ERG.3.SG-dueño casa,ART ERG.3.SG-dueño casa
+st_test_uspa1245_84,uspa1245,yes,PART-NEG trabajo ERG.2.SG-N.REL,COND-NEG trabajo N.REL
+st_test_uspa1245_84,uspa1245,no,PART-NEG trabajo ERG.2.SG-N.REL,COND-NEG trabajo N.REL
+st_test_uspa1245_85,uspa1245,yes,dice él/ella ART mujer,decir él/ella ART mujer
+st_test_uspa1245_85,uspa1245,no,dice él/ella ART mujer,decir él/ella ART mujer
+st_test_uspa1245_86,uspa1245,yes,no NEG,no NEG
+st_test_uspa1245_86,uspa1245,no,no NEG,no NEG
+st_test_uspa1245_87,uspa1245,yes,dice ART mujer él/ella,decir ART mujer él/ella
+st_test_uspa1245_87,uspa1245,no,dice ART mujer él/ella,decir ART mujer él/ella
+st_test_uspa1245_88,uspa1245,yes,ir PART PREP uno casa PART,ir PART PREP uno casa PART
+st_test_uspa1245_88,uspa1245,no,ir PART PREP uno casa PART,ir PART PREP uno casa PART
+st_test_uspa1245_89,uspa1245,yes,CONJ allí COM-dar-PASS ERG.3.SG-trabajo,CONJ allí COM-dar-PASS ERG.3.SG-trabajo
+st_test_uspa1245_89,uspa1245,no,CONJ allí COM-dar-PASS ERG.3.SG-trabajo,CONJ allí COM-dar-PASS ERG.3.SG-trabajo
+st_test_uspa1245_90,uspa1245,yes,entonces CONJ cabal,entonces CONJ cabal
+st_test_uspa1245_90,uspa1245,no,entonces CONJ cabal,entonces CONJ cabal
+st_test_uspa1245_91,uspa1245,yes,CONJ loque dónde COM-DIR-ERG.3.SG-pedir-EMPH ERG.3.SG-trabajo,CONJ loque dónde COM-DIR-ERG.3.SG-???-??? ERG.3.SG-trabajo
+st_test_uspa1245_91,uspa1245,no,CONJ loque dónde COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo,CONJ loque dónde COM-DIR-ERG.3.SG-???-??? ERG.3.SG-trabajo
+st_test_uspa1245_92,uspa1245,yes,COM-dar ERG.3.SG-trabajo DIM mujer,COM-dar ERG.3.SG-trabajo DIM mujer
+st_test_uspa1245_92,uspa1245,no,COM-dar ERG.3.SG-trabajo DIM mujer,COM-dar ERG.3.SG-trabajo DIM mujer
+st_test_uspa1245_93,uspa1245,yes,COM-decir él/ella,ir-decir él/ella
+st_test_uspa1245_93,uspa1245,no,COM-decir él/ella,ir-decir él/ella
+st_test_uspa1245_94,uspa1245,yes,aqui solo APPRX-A2S-barrer casa,aqui PART APPRX-ERG.2.SG-barrer casa
+st_test_uspa1245_94,uspa1245,no,aqui solo APPRX-ERG.3.SG-barrer casa,aqui PART APPRX-ERG.2.SG-barrer casa
+st_test_uspa1245_95,uspa1245,yes,CONJ APPRX-ERG.2.SG-lavar cosas,CONJ APPRX-ERG.3.SG-lavar cosas
+st_test_uspa1245_95,uspa1245,no,CONJ APPRX-ERG.2.SG-lavar cosas,CONJ APPRX-ERG.3.SG-lavar cosas
+st_test_uspa1245_96,uspa1245,yes,CONJ PART DEM APPRX-ERG.2.SG-hacer,CONJ PART DEM APPRX-ERG.2.SG-hacer
+st_test_uspa1245_96,uspa1245,no,CONJ PART DEM APPRX-ERG.2.SG-hacer,CONJ PART DEM APPRX-ERG.2.SG-hacer
+st_test_uspa1245_97,uspa1245,yes,APPRX-dice él/ella,APPRX-decir él/ella
+st_test_uspa1245_97,uspa1245,no,APPRX-dice él/ella,APPRX-decir él/ella
+st_test_uspa1245_98,uspa1245,yes,PREP-ERG.3.SG segundo día COM-llegar ART-ERG.3.SG ART-ERG.3.SG ERG.3.SG-hermano,PREP-ERG.3.SG segundo día COM-llegar ART-ERG.3.SG ART-ERG.3.SG ERG.3.SG-hermano
+st_test_uspa1245_98,uspa1245,no,PREP segundo día COM-llegar ART-ERG.3.SG ART-ERG.3.SG ERG.3.SG-hermano,PREP-ERG.3.SG segundo día COM-llegar ART-ERG.3.SG ART-ERG.3.SG ERG.3.SG-hermano
+st_test_uspa1245_99,uspa1245,yes,COM-decir él/ella,COM-decir él/ella
+st_test_uspa1245_99,uspa1245,no,??? ERG.3.SG-N.REL,COM-decir él/ella
+st_test_uspa1245_100,uspa1245,yes,COM-decir ART mujer él/ella ART-ERG.3.SG hermano,COM-decir ART mujer él/ella ART-ERG.3.SG hermano
+st_test_uspa1245_100,uspa1245,no,COM-decir ART mujer él/ella ART-ERG.3.SG hermano,COM-decir ART mujer él/ella ART-ERG.3.SG hermano
+st_test_uspa1245_101,uspa1245,yes,APPRX-ERG.1.SG-ver-EMPH DIM mujer DEM DEM,APPRX-N.REL-ver-ERG.1.SG DIM mujer DEM DEM
+st_test_uspa1245_101,uspa1245,no,APPRX-N.REL-yo DIM mujer DEM DEM,APPRX-N.REL-ver-ERG.1.SG DIM mujer DEM DEM
+st_test_uspa1245_102,uspa1245,yes,ERG.2.SG-hija loque COM-quedar ERG.2.SG-olvidar-EMPH primero,ERG.2.SG-hija loque COM-quedar ERG.2.SG-perder-EMPH primero
+st_test_uspa1245_102,uspa1245,no,ERG.2.SG-hija loque COM-quedar ERG.2.SG-olvidar-EMPH primero,ERG.2.SG-hija loque COM-quedar ERG.2.SG-perder-EMPH primero
+st_test_uspa1245_103,uspa1245,yes,cuando COM-A2S-casarse ERG.3.SG-N.REL ART uno mujer,cuando COM-A2S-casar ERG.3.SG-N.REL ART uno mujer
+st_test_uspa1245_103,uspa1245,no,cuando??? ERG.3.SG-N.REL ART uno mujer,cuando COM-A2S-casar ERG.3.SG-N.REL ART uno mujer
+st_test_uspa1245_104,uspa1245,yes,decir,decir
+st_test_uspa1245_104,uspa1245,no,decir,decir
+st_test_uspa1245_105,uspa1245,yes,COM-venir ART-ERG.3.SG hermano llamar PL DIM mujer,COM-venir ART-ERG.3.SG hermano llamar PL DIM mujer
+st_test_uspa1245_105,uspa1245,no,COM-venir ART-ERG.3.SG hermano llamar PL DIM mujer,COM-venir ART-ERG.3.SG hermano llamar PL DIM mujer
+st_test_uspa1245_106,uspa1245,yes,COM-preguntar-SC PL INT ERG.3.SG-nombre,COM-pedir-SC PL INT ERG.3.SG-nombre
+st_test_uspa1245_106,uspa1245,no,COM-preguntar-SC PL INT ERG.3.SG-nombre,COM-pedir-SC PL INT ERG.3.SG-nombre
+st_test_uspa1245_107,uspa1245,yes,CONJ PART DIM mujer COM-decir,CONJ PART DIM mujer COM-decir
+st_test_uspa1245_107,uspa1245,no,CONJ PART DIM mujer COM-decir,CONJ PART DIM mujer COM-decir
+st_test_uspa1245_108,uspa1245,yes,que yo ERG.1.SG-nombre Marimar,que yo yo-nombre Miramar
+st_test_uspa1245_108,uspa1245,no,que yo ERG.1.SG-nombre Marimar,que yo yo-nombre Miramar
+st_test_uspa1245_109,uspa1245,yes,decir él/ella ART-ERG.3.SG,decir él/ella ART-ERG.3.SG
+st_test_uspa1245_109,uspa1245,no,decir él/ella ART-ERG.3.SG,decir él/ella ART-ERG.3.SG
+st_test_uspa1245_110,uspa1245,yes,ART-ERG.3.SG uno hombre,ART-ERG.3.SG uno hombre
+st_test_uspa1245_110,uspa1245,no,ART-ERG.3.SG uno hombre,ART-ERG.3.SG uno hombre
+st_test_uspa1245_111,uspa1245,yes,entonces COM-venir ART hombre COM,entonces COM-venir ART hombre COM
+st_test_uspa1245_111,uspa1245,no,entonces COM-venir ART hombre COM,entonces COM-venir ART hombre COM
+st_test_uspa1245_112,uspa1245,yes,cierto DEM tú/usted-EMPH tú/usted-EMPH ERG.1.SG-hija,cierto DEM tú/usted-EMPH tú/usted-EMPH A1S-hija
+st_test_uspa1245_112,uspa1245,no,cierto DEM tú/usted-EMPH tú/usted-EMPH ERG.1.SG-hija-EMPH,cierto DEM tú/usted-EMPH tú/usted-EMPH A1S-hija
+st_test_uspa1245_113,uspa1245,yes,como conocer-??? ERG.3.SG-nombre,como conocer-EMPH ERG.3.SG-nombre
+st_test_uspa1245_113,uspa1245,no,como conocer-??? ERG.3.SG-nombre,como conocer-EMPH ERG.3.SG-nombre
+st_test_uspa1245_114,uspa1245,yes,DEM tú/usted-EMPH A1S-hija,DEM tú/usted-EMPH A1S-hija
+st_test_uspa1245_114,uspa1245,no,DEM tú/usted-EMPH A1S-hija-EMPH,DEM tú/usted-EMPH A1S-hija
+st_test_uspa1245_115,uspa1245,yes,COM-tú/usted-dir quedar A1S-perder-EMPH antiguamente,COM-ERG.2.SG quedar ERG.1.SG-perder-EMPH antiguamente
+st_test_uspa1245_115,uspa1245,no,COM-tú/usted quedar A1S-perder-EMPH antiguamente,COM-ERG.2.SG quedar ERG.1.SG-perder-EMPH antiguamente
+st_test_uspa1245_116,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_116,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_117,uspa1245,yes,CONJ hora NEG PART-EMPH tú/usted trabajo-ANTIP-SC,CONJ hora NEG PART-EMPH tú/usted trabajo-ANTIP-SC
+st_test_uspa1245_117,uspa1245,no,CONJ hora NEG PART-EMPH tú/usted trabajo-ANTIP-SC,CONJ hora NEG PART-EMPH tú/usted trabajo-ANTIP-SC
+st_test_uspa1245_118,uspa1245,yes,NEG PART-EMPH tú/usted trabajo-ANTIP-SC,NEG PART-EMPH tú/usted trabajo-ANTIP-SC
+st_test_uspa1245_118,uspa1245,no,NEG PART-EMPH tú/usted trabajo-ANTIP-SC,NEG PART-EMPH tú/usted trabajo-ANTIP-SC
+st_test_uspa1245_119,uspa1245,yes,loque NEG APPRX-A1S-hacer PREP-ERG.2.SG-N.REL,loque NEG APPRX-A1S-hacer APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_119,uspa1245,no,loque NEG APPRX-A1S-hacer APPRX-ERG.2.SG-N.REL,loque NEG APPRX-A1S-hacer APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_120,uspa1245,yes,APPRX-ERG.1.SG-pagar a a APPRX-ERG.1.SG-pagar,APPRX-ERG.2.SG-pagar ERG.2.SG ERG.2.SG COM-ERG.2.SG-pagar
+st_test_uspa1245_120,uspa1245,no,APPRX-ERG.1.SG-pagar a A2S-ERG.1.SG-meter lestudy,APPRX-ERG.2.SG-pagar ERG.2.SG ERG.2.SG COM-ERG.2.SG-pagar
+st_test_uspa1245_121,uspa1245,yes,decir él/ella decir,dice él/ella dice
+st_test_uspa1245_121,uspa1245,no,decir él/ella decir,dice él/ella dice
+st_test_uspa1245_122,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_122,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_123,uspa1245,yes,decir él/ella,dice él/ella
+st_test_uspa1245_123,uspa1245,no,decir él/ella,dice él/ella
+st_test_uspa1245_124,uspa1245,yes,CONJ NEG pero entonces COM-decir DIM mujer,a no pero entonces COM-decir DIM mujer
+st_test_uspa1245_124,uspa1245,no,CONJ NEG pero entonces COM-decir DIM mujer,a no pero entonces COM-decir DIM mujer
+st_test_uspa1245_125,uspa1245,yes,dice,dice
+st_test_uspa1245_125,uspa1245,no,dice,dice
+st_test_uspa1245_126,uspa1245,yes,si yo trabajo APPRX-A1S-buscar,si yo trabajo APPRX-ERG.1.SG-buscar
+st_test_uspa1245_126,uspa1245,no,si yo trabajo APPRX-ERG.1.SG-buscar,si yo trabajo APPRX-ERG.1.SG-buscar
+st_test_uspa1245_127,uspa1245,yes,NEG NEG asi NEG DEM asi@compañero APPRX-ERG.2.SG-decir PREP-ERG.1.SG-N.REL,NEG NEG DEM NEG DEM asi@como APPRX-ERG.2.SG-decir PREP-ERG.1.SG-N.REL
+st_test_uspa1245_127,uspa1245,no,NEG NEG DEM NEG DEM asi@compañero APPRX-ERG.2.SG-decir APPRX-ERG.1.SG-N.REL,NEG NEG DEM NEG DEM asi@como APPRX-ERG.2.SG-decir PREP-ERG.1.SG-N.REL
+st_test_uspa1245_128,uspa1245,yes,A1S-ERG.2.SG-meter PREP-estudio,yo-ERG.2.SG-meter PREP-estudio
+st_test_uspa1245_128,uspa1245,no,A1S-tú/usted-meter PREP-estudio,yo-ERG.2.SG-meter PREP-estudio
+st_test_uspa1245_129,uspa1245,yes,dice,decir
+st_test_uspa1245_129,uspa1245,no,dice,decir
+st_test_uspa1245_130,uspa1245,yes,aunque@sea tú/usted trabajo APPRX-ERG.2.SG-querer,aunque@sea tú/usted trabajo APPRX-ERG.1.SG-querer
+st_test_uspa1245_130,uspa1245,no,aunque@sea tú/usted trabajo APPRX-ERG.2.SG-querer,aunque@sea tú/usted trabajo APPRX-ERG.1.SG-querer
+st_test_uspa1245_131,uspa1245,yes,como ahora COM-tú/usted-encontrar llegar-EMPH N.REL,como ahora COM-ERG.2.SG alargar-EMPH N.REL
+st_test_uspa1245_131,uspa1245,no,como ahora COM-tú/usted llegar-EMPH N.REL,como ahora COM-ERG.2.SG alargar-EMPH N.REL
+st_test_uspa1245_132,uspa1245,yes,CONJ tú/usted-EMPH A1S-hija,CONJ tú/usted-EMPH ERG.1.SG-hija
+st_test_uspa1245_132,uspa1245,no,CONJ tú/usted-EMPH A1S-hija-EMPH,CONJ tú/usted-EMPH ERG.1.SG-hija
+st_test_uspa1245_133,uspa1245,yes,CONJ ahora APPRX-ERG.2.SG-conocer ERG.1.SG-DIR yo ERG.2.SG-papá,CONJ ahaora APPRX-A2S-conocer A1S-N.REL yo ERG.2.SG-papá
+st_test_uspa1245_133,uspa1245,no,CONJ ahora APPRX-ERG.2.SG-conocer ERG.1.SG-N.REL yo ERG.2.SG-papá,CONJ ahaora APPRX-A2S-conocer A1S-N.REL yo ERG.2.SG-papá
+st_test_uspa1245_134,uspa1245,yes,CONJ tú/usted ERG.1.SG-hija,CONJ tú/usted A1S-hija
+st_test_uspa1245_134,uspa1245,no,CONJ tú/usted ERG.1.SG-hija-EMPH,CONJ tú/usted A1S-hija
+st_test_uspa1245_135,uspa1245,yes,decir él/ella,dice él/ella
+st_test_uspa1245_135,uspa1245,no,decir él/ella,dice él/ella
+st_test_uspa1245_136,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_136,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_137,uspa1245,yes,dice DIM mujer él/ella,dice DIM mujer él/ella
+st_test_uspa1245_137,uspa1245,no,dice DIM mujer él/ella,dice DIM mujer él/ella
+st_test_uspa1245_138,uspa1245,yes,COM-meter-EMPH PREP-estudio,COM-meter-APPRX PREP-estudio
+st_test_uspa1245_138,uspa1245,no,COM-meter PREP-estudio,COM-meter-APPRX PREP-estudio
+st_test_uspa1245_139,uspa1245,yes,COM-meter-EMPH PREP-estudio,COM-meter-APPRX PREP-estudio
+st_test_uspa1245_139,uspa1245,no,COM-meter-ANTIP PREP-estudio,COM-meter-APPRX PREP-estudio
+st_test_uspa1245_140,uspa1245,yes,CONJ COM-venir DIM mujer COM-hacer estudio-ITR,CONJ COM-venir DIM mujer COM-hacer estudiar
+st_test_uspa1245_140,uspa1245,no,CONJ COM-venir DIM mujer COM-hacer estudio-ITR,CONJ COM-venir DIM mujer COM-hacer estudiar
+st_test_uspa1245_141,uspa1245,yes,CONJ ART ERG.3.SG-papá licenciado-EMPH,CONJ ART ERG.3.SG-papá licenciado-EMPH
+st_test_uspa1245_141,uspa1245,no,CONJ ART ERG.3.SG-papá licenciado-EMPH,CONJ ART ERG.3.SG-papá licenciado-EMPH
+st_test_uspa1245_142,uspa1245,yes,CONJ NEG COM-decir él/ella ART (hermana) que NEG PART-EMPH APPRX-agarrar-ANTIP DIM mujer,CONJ NEG ir-decir él/ella ART ??? que NEG PART-EMPH APPRX-agarrar-ANTIP DIM mujer
+st_test_uspa1245_142,uspa1245,no,CONJ NEG COM-decir él/ella ART hermana que NEG PART-EMPH APPRX-agarrar-ANTIP DIM mujer,CONJ NEG ir-decir él/ella ART ??? que NEG PART-EMPH APPRX-agarrar-ANTIP DIM mujer
+st_test_uspa1245_143,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_143,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_144,uspa1245,yes,dice ART (ERG.3.SG-hermana) él/ella,decir ART ??? él/ella
+st_test_uspa1245_144,uspa1245,no,dice ART ERG.3.SG-hermana él/ella,decir ART ??? él/ella
+st_test_uspa1245_145,uspa1245,yes,PART APPRX-ERG.3.SG-hacer estudiar DIM mujer todo,PART APPRX-ERG.3.SG-hacer estudiar DIM mujer todo
+st_test_uspa1245_145,uspa1245,no,PART APPRX-ERG.3.SG-hacer estudiar DIM mujer todo,PART APPRX-ERG.3.SG-hacer estudiar DIM mujer todo
+st_test_uspa1245_146,uspa1245,yes,CONJ ART-ERG.3.SG papá EXS ERG.3.SG-trabajo,CONJ ART-ERG.3.SG papá EXS ERG.3.SG-trabajo
+st_test_uspa1245_146,uspa1245,no,CONJ ART-ERG.3.SG papá EXS ERG.3.SG-trabajo,CONJ ART-ERG.3.SG papá EXS ERG.3.SG-trabajo
+st_test_uspa1245_147,uspa1245,yes,COM-venir uno día,COM-venir uno día
+st_test_uspa1245_147,uspa1245,no,COM-venir uno día,COM-venir uno día
+st_test_uspa1245_148,uspa1245,yes,ART-ERG.3.SG papá COM-decir él/ella ART ERG.3.SG-hermana,quitar papá ir-decir él/ella ART ERG.3.SG-hermana
+st_test_uspa1245_148,uspa1245,no,ART-ERG.3.SG papá COM-decir él/ella ART hermana,quitar papá ir-decir él/ella ART ERG.3.SG-hermana
+st_test_uspa1245_149,uspa1245,yes,cuando??? PREP trabajo,cuando ??? PREP trabajo
+st_test_uspa1245_149,uspa1245,no,cuando??? PREP trabajo,cuando ??? PREP trabajo
+st_test_uspa1245_150,uspa1245,yes,COM-quedar PREP casa,COM-quedar PREP casa
+st_test_uspa1245_150,uspa1245,no,COM-quedar PREP casa,COM-quedar PREP casa
+st_test_uspa1245_151,uspa1245,yes,COM-decir él/ella ART ERG.3.SG-hermana,COM-decir él/ella ART ERG.3.SG-hermana
+st_test_uspa1245_151,uspa1245,no,COM-decir él/ella ART ERG.3.SG-hermana,COM-decir él/ella ART ERG.3.SG-hermana
+st_test_uspa1245_152,uspa1245,yes,APPRX-vestir APPRX-vestir ART mujer,APPRX-adornar APPRX-adornar ART mujer
+st_test_uspa1245_152,uspa1245,no,APPRX-ERG.2.SG-vestir APPRX-ERG.2.SG-vestir ART mujer,APPRX-adornar APPRX-adornar ART mujer
+st_test_uspa1245_153,uspa1245,yes,CONJ APPRX-traer-ANTIP-EMPH uno-rato,CONJ APPRX-pasar-ERG.1.SG-EMPH uno-rato
+st_test_uspa1245_153,uspa1245,no,CONJ APPRX-traer-???-EMPH uno-rato,CONJ APPRX-pasar-ERG.1.SG-EMPH uno-rato
+st_test_uspa1245_154,uspa1245,yes,PART APPRX-ERG.1.SG-EMPH uno ERG.1.SG-mandado PART-DEM,PART APPRX-ERG.1.SG-EMPH uno A1S-mandado PART-DEM
+st_test_uspa1245_154,uspa1245,no,PART APPRX-ERG.1.SG-EMPH uno ERG.1.SG-mandado allí,PART APPRX-ERG.1.SG-EMPH uno A1S-mandado PART-DEM
+st_test_uspa1245_155,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_155,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_156,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_156,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_157,uspa1245,yes,dice ART ERG.3.SG-hermana,decir ART ERG.3.SG-hermana
+st_test_uspa1245_157,uspa1245,no,dice ART ERG.3.SG-hermana,decir ART ERG.3.SG-hermana
+st_test_uspa1245_158,uspa1245,yes,pero APPRX-ERG.2.SG-buscar ART ropa,pero APPRX-ERG.2.SG-buscar ART ropa
+st_test_uspa1245_158,uspa1245,no,pero APPRX-ERG.2.SG-buscar ART ropa,pero APPRX-ERG.2.SG-buscar ART ropa
+st_test_uspa1245_159,uspa1245,yes,más bueno PL ropa APPRX-meter PREP ERG.3.SG-N.REL,más bueno PL ropa PART-meter PREP ERG.3.SG-N.REL
+st_test_uspa1245_159,uspa1245,no,más bueno PL ropa APPRX-ERG.2.SG-meter PREP ERG.3.SG-N.REL,más bueno PL ropa PART-meter PREP ERG.3.SG-N.REL
+st_test_uspa1245_160,uspa1245,yes,compañero ART zapato,compañero ART zapato
+st_test_uspa1245_160,uspa1245,no,compañero ART zapato,compañero ART zapato
+st_test_uspa1245_161,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_161,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_162,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_162,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_163,uspa1245,yes,dice ART ERG.3.SG-hermana,decir ART ERG.3.SG-hermana
+st_test_uspa1245_163,uspa1245,no,dice ART ERG.3.SG-hermana,decir ART ERG.3.SG-hermana
+st_test_uspa1245_164,uspa1245,yes,COM-buscar-EMPH-DIR ART ropa,COM-buscar-EMPH-DIR ART ropa
+st_test_uspa1245_164,uspa1245,no,COM-buscar-EMPH-DIR ART ropa,COM-buscar-EMPH-DIR ART ropa
+st_test_uspa1245_165,uspa1245,yes,ART galán PL zapato,ART galan PL zapato
+st_test_uspa1245_165,uspa1245,no,ART galán PL zapato,ART galan PL zapato
+st_test_uspa1245_166,uspa1245,yes,compañía ropa todo COM-meter PREP ERG.3.SG-N.REL,compañero ropa todo COM-usar PREP ERG.3.SG-N.REL
+st_test_uspa1245_166,uspa1245,no,compañero ropa todo COM-meter PREP ERG.3.SG-N.REL,compañero ropa todo COM-usar PREP ERG.3.SG-N.REL
+st_test_uspa1245_167,uspa1245,yes,cuando COM-regresar-DIR,cuando COM-regresar-DIR
+st_test_uspa1245_167,uspa1245,no,cuando COM-regresar-DIR,cuando COM-regresar-DIR
+st_test_uspa1245_168,uspa1245,yes,COM-regresar-DIR ART-ERG.3.SG papá,COM-regresar-DIR ART-ERG.3.SG papá
+st_test_uspa1245_168,uspa1245,no,COM-regresar-DIR ART-ERG.3.SG papá,COM-regresar-DIR ART-ERG.3.SG papá
+st_test_uspa1245_169,uspa1245,yes,COM-decir él/ella ya COM-areglar-???-EMPH,COM-decir él/ella ya COM-adornar-PASS-EMPH
+st_test_uspa1245_169,uspa1245,no,COM-decir él/ella ya COM-areglar-???-EMPH,COM-decir él/ella ya COM-adornar-PASS-EMPH
+st_test_uspa1245_170,uspa1245,yes,ya,ya
+st_test_uspa1245_170,uspa1245,no,ya,ya
+st_test_uspa1245_171,uspa1245,yes,dice ART-ERG.3.SG ERG.3.SG-hermana él/ella,dice ART-ERG.3.SG ERG.3.SG-hermana él/ella
+st_test_uspa1245_171,uspa1245,no,dice ART-ERG.3.SG ERG.3.SG-hermana él/ella,dice ART-ERG.3.SG ERG.3.SG-hermana él/ella
+st_test_uspa1245_172,uspa1245,yes,bueno ir,bueno ir
+st_test_uspa1245_172,uspa1245,no,bueno ir,bueno ir
+st_test_uspa1245_173,uspa1245,yes,dice él/ella ART-ERG.3.SG hija,decir él/ella ART-ERG.3.SG hija
+st_test_uspa1245_173,uspa1245,no,dice él/ella ART-ERG.3.SG hija,decir él/ella ART-ERG.3.SG hija
+st_test_uspa1245_174,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_174,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_175,uspa1245,yes,dice ART-ERG.3.SG hija,decir ART-ERG.3.SG hija
+st_test_uspa1245_175,uspa1245,no,dice ART-ERG.3.SG hija,decir ART-ERG.3.SG hija
+st_test_uspa1245_176,uspa1245,yes,ir ERG.3.SG-N.REL,ir ERG.3.SG-N.REL
+st_test_uspa1245_176,uspa1245,no,ir ERG.3.SG-N.REL,ir ERG.3.SG-N.REL
+st_test_uspa1245_177,uspa1245,yes,CONJ COM-llegar PL PREP-ERG.3.SG orilla,CONJ COM-llegar PL PREP-ERG.3.SG orilla
+st_test_uspa1245_177,uspa1245,no,CONJ COM-llegar PL PREP-ERG.3.SG orilla,CONJ COM-llegar PL PREP-ERG.3.SG orilla
+st_test_uspa1245_178,uspa1245,yes,CONJ COM-llegar PL PREP uno grande día,CONJ COM-llegar PL PREP uno grande día
+st_test_uspa1245_178,uspa1245,no,CONJ COM-llegar PL PREP uno grande día,CONJ COM-llegar PL PREP uno grande día
+st_test_uspa1245_179,uspa1245,yes,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día
+st_test_uspa1245_179,uspa1245,no,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día
+st_test_uspa1245_180,uspa1245,yes,cuando COM-llegar PL N.REL grande día,cuando COM-llegar PL N.REL grande día
+st_test_uspa1245_180,uspa1245,no,cuando COM-llegar PL adentro grande día,cuando COM-llegar PL N.REL grande día
+st_test_uspa1245_181,uspa1245,yes,COM-venir ART-ERG.3.SG papá,COM-venir ART-ERG.3.SG papá
+st_test_uspa1245_181,uspa1245,no,COM-venir ART-ERG.3.SG papá,COM-venir ART-ERG.3.SG papá
+st_test_uspa1245_182,uspa1245,yes,como EXS ERG.3.SG-vehículo COM-recibir DIR uno-???,como EXS ERG.3.SG-vehículo COM-llevar DIR uno-ERG.3.SG
+st_test_uspa1245_182,uspa1245,no,como EXS ERG.3.SG-vehículo COM-recibir DIR uno-ERG.3.SG,como EXS ERG.3.SG-vehículo COM-llevar DIR uno-ERG.3.SG
+st_test_uspa1245_183,uspa1245,yes,COM-meter DIR hija PREP vehículo,COM-meter DIR hija PREP vehículo
+st_test_uspa1245_183,uspa1245,no,COM-meter DIR ERG.3.SG-hija PREP vehículo,COM-meter DIR hija PREP vehículo
+st_test_uspa1245_184,uspa1245,yes,CONJ COM-venir PL,CONJ COM-venir PL
+st_test_uspa1245_184,uspa1245,no,CONJ COM-venir PL,CONJ COM-venir PL
+st_test_uspa1245_185,uspa1245,yes,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día
+st_test_uspa1245_185,uspa1245,no,COM-llegar PL PREP grande día,COM-llegar PL PREP grande día
+st_test_uspa1245_186,uspa1245,yes,entonces ART-ERG.3.SG papá,entonces ART-ERG.3.SG papá
+st_test_uspa1245_186,uspa1245,no,entonces ART-ERG.3.SG papá,entonces ART-ERG.3.SG papá
+st_test_uspa1245_187,uspa1245,yes,COM-bajar-PASS PREP vehículo,COM-bajar-PASS PREP vehículo
+st_test_uspa1245_187,uspa1245,no,COM-bajar-PASS PREP vehículo,COM-bajar-PASS PREP vehículo
+st_test_uspa1245_188,uspa1245,yes,COM-agarrar DIR N.REL mano hija,COM-agarrar DIR COM-decir mano hija
+st_test_uspa1245_188,uspa1245,no,COM-agarrar DIR N.REL mano hija,COM-agarrar DIR COM-decir mano hija
+st_test_uspa1245_189,uspa1245,yes,PART ART ERG.3.SG-hijo@de@mujer ART sergio primero,ERG.3.SG-PART ART ERG.3.SG-esposo ART Sergio primero
+st_test_uspa1245_189,uspa1245,no,PART ART ERG.3.SG-hijo ART sergio primero,ERG.3.SG-PART ART ERG.3.SG-esposo ART Sergio primero
+st_test_uspa1245_190,uspa1245,yes,loque COM-recibir-ANTIP DIM mujer,loque COM-recibir-ANTIP DIM mujer
+st_test_uspa1245_190,uspa1245,no,loque COM-recibir-ANTIP DIM mujer,loque COM-recibir-ANTIP DIM mujer
+st_test_uspa1245_191,uspa1245,yes,duro PART mirar PREP ERG.3.SG-N.REL,duro PART ver PREP ERG.3.SG-N.REL
+st_test_uspa1245_191,uspa1245,no,duro PART mirar PREP ERG.3.SG-N.REL,duro PART ver PREP ERG.3.SG-N.REL
+st_test_uspa1245_192,uspa1245,yes,dice,decir
+st_test_uspa1245_192,uspa1245,no,dice,decir
+st_test_uspa1245_193,uspa1245,yes,EXS uno-ERG.3.SG compañero,EXS uno-ERG.3.SG compañero
+st_test_uspa1245_193,uspa1245,no,EXS uno-ERG.3.SG compañero,EXS uno-ERG.3.SG compañero
+st_test_uspa1245_194,uspa1245,yes,DEM-PART ART Marimar DEM,DEM-INT ART Marimar DEM
+st_test_uspa1245_194,uspa1245,no,DEM-PART ART Marimar DEM,DEM-INT ART Marimar DEM
+st_test_uspa1245_195,uspa1245,yes,DEM-PART ART Marimar DEM,DEM-INT ART Marimar DEM
+st_test_uspa1245_195,uspa1245,no,DEM-PART ART Marimar DEM,DEM-INT ART Marimar DEM
+st_test_uspa1245_196,uspa1245,yes,loque COM-quedar A1S-dar allá ERG.3.SG-N.REL A1S-mamá,loque COM-quedar A1S-dar allá ERG.3.SG-N.REL ERG.1.SG-mamá
+st_test_uspa1245_196,uspa1245,no,loque COM-quedar A1S-dar allá ERG.3.SG-N.REL A1S-mamá,loque COM-quedar A1S-dar allá ERG.3.SG-N.REL ERG.1.SG-mamá
+st_test_uspa1245_197,uspa1245,yes,decir él/ella ART,dice él/ella ART
+st_test_uspa1245_197,uspa1245,no,decir él/ella ART,dice él/ella ART
+st_test_uspa1245_198,uspa1245,yes,DEM DEM-NEG-EMPH,DEM DEM-NEG-EMPH
+st_test_uspa1245_198,uspa1245,no,DEM DEM-NEG,DEM DEM-NEG-EMPH
+st_test_uspa1245_199,uspa1245,yes,por como Marimar DEM NEG APPRX-ERG.3.SG-NEG-PASS,por como Marimar DEM NEG APPRX-ERG.3.SG-NEG-MED
+st_test_uspa1245_199,uspa1245,no,por como Marimar DEM NEG APPRX-ERG.3.SG-???,por como Marimar DEM NEG APPRX-ERG.3.SG-NEG-MED
+st_test_uspa1245_200,uspa1245,yes,igual ART-cara yamero igual ART-cara,igual APPRX-ver yamero igual APPRX-ver
+st_test_uspa1245_200,uspa1245,no,igual ART-cara yamero igual ART-cara,igual APPRX-ver yamero igual APPRX-ver
+st_test_uspa1245_201,uspa1245,yes,loque ERG.3.SG-vistuario Marimar DEM-NEG DEM,loque ERG.3.SG-vistuario Marimar DEM-NEG DEM
+st_test_uspa1245_201,uspa1245,no,loque ERG.3.SG-vistuario Marimar DEM-NEG DEM,loque ERG.3.SG-vistuario Marimar DEM-NEG DEM
+st_test_uspa1245_202,uspa1245,yes,peor NEG INT APPRX-comprar-PART él/ella allá,peor NEG INT APPRX-adornar-PART él/ella allá
+st_test_uspa1245_202,uspa1245,no,peor NEG quien APPRX-comprar-PART él/ella allá,peor NEG INT APPRX-adornar-PART él/ella allá
+st_test_uspa1245_203,uspa1245,yes,dice ART-ERG.3.SG-compañero,decir ART-ERG.3.SG-compañero
+st_test_uspa1245_203,uspa1245,no,dice ART-ERG.3.SG-compañero,decir ART-ERG.3.SG-compañero
+st_test_uspa1245_204,uspa1245,yes,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-N.REL,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-cara
+st_test_uspa1245_204,uspa1245,no,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-N.REL,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-cara
+st_test_uspa1245_205,uspa1245,yes,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-cara,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-cara
+st_test_uspa1245_205,uspa1245,no,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-cara,duro PART APPRX-ERG.3.SG-ver ERG.3.SG-cara
+st_test_uspa1245_206,uspa1245,yes,todo APPRX-ERG.3.SG-ver ERG.3.SG-N.REL INT-modo ERG.3.SG-ver-SC,todo APPRX-ERG.3.SG-ver ERG.3.SG-cara INT-modo ERG.3.SG-ver-SC
+st_test_uspa1245_206,uspa1245,no,todo APPRX-ERG.3.SG-ver ERG.3.SG-rosto INT-modo ERG.3.SG-ver-SC,todo APPRX-ERG.3.SG-ver ERG.3.SG-cara INT-modo ERG.3.SG-ver-SC
+st_test_uspa1245_207,uspa1245,yes,APPRX-ERG.1.SG-ver-yo DEM-EMPH DEM-EMPH DEM-EMPH,APPRX-N.REL-ver-ERG.1.SG DEM-EMPH DEM-EMPH DEM-EMPH
+st_test_uspa1245_207,uspa1245,no,APPRX-N.REL-yo DEM-EMPH DEM-EMPH DEM-EMPH,APPRX-N.REL-ver-ERG.1.SG DEM-EMPH DEM-EMPH DEM-EMPH
+st_test_uspa1245_208,uspa1245,yes,dice él/ella ART-ERG.3.SG compañero,decir él/ella ART-ERG.3.SG compañero
+st_test_uspa1245_208,uspa1245,no,dice él/ella ART-ERG.3.SG compañero,decir él/ella ART-ERG.3.SG compañero
+st_test_uspa1245_209,uspa1245,yes,no DEM NEG,no DEM NEG
+st_test_uspa1245_209,uspa1245,no,no DEM NEG,no DEM NEG
+st_test_uspa1245_210,uspa1245,yes,PREP-despacio PREP-despacio COM-venir ART-ERG.3.SG,APPRX-despacio APPRX-despacio COM-venir ART-ERG.3.SG
+st_test_uspa1245_210,uspa1245,no,PREP-despacio PREP-despacio COM-venir ART-ERG.3.SG,APPRX-despacio APPRX-despacio COM-venir ART-ERG.3.SG
+st_test_uspa1245_211,uspa1245,yes,COM-hacer mujer COM-hablar-SC,COM-hacer valor COM-hablar-SC
+st_test_uspa1245_211,uspa1245,no,COM-hacer mujer COM-hablar-SC,COM-hacer valor COM-hablar-SC
+st_test_uspa1245_212,uspa1245,yes,ir-ERG.3.SG apreguntar-SC ERG.3.SG-nombre,ir-ERG.3.SG pedir-ERG.3.SG ERG.3.SG-nombre
+st_test_uspa1245_212,uspa1245,no,ir apreguntar-SC ERG.3.SG-nombre,ir-ERG.3.SG pedir-ERG.3.SG ERG.3.SG-nombre
+st_test_uspa1245_213,uspa1245,yes,INT ERG.2.SG-nombre,INT ERG.2.SG-nombre
+st_test_uspa1245_213,uspa1245,no,INT ERG.2.SG-nombre,INT ERG.2.SG-nombre
+st_test_uspa1245_214,uspa1245,yes,decir él/ella,dice él/ella
+st_test_uspa1245_214,uspa1245,no,decir él/ella,dice él/ella
+st_test_uspa1245_215,uspa1245,yes,yo,yo
+st_test_uspa1245_215,uspa1245,no,yo,yo
+st_test_uspa1245_216,uspa1245,yes,como COM-venir ART-ERG.3.SG papá,como COM-venir ART-ERG.3.SG papá
+st_test_uspa1245_216,uspa1245,no,como COM-venir ART-ERG.3.SG papá,como COM-venir ART-ERG.3.SG papá
+st_test_uspa1245_217,uspa1245,yes,COM-cambiar ERG.3.SG-nombre,COM-dolor ERG.3.SG-nombre
+st_test_uspa1245_217,uspa1245,no,COM-cambiar ERG.3.SG-nombre,COM-dolor ERG.3.SG-nombre
+st_test_uspa1245_218,uspa1245,yes,como ya EXS PART ERG.3.SG-N.REL,como ya EXS PART ERG.3.SG-N.REL
+st_test_uspa1245_218,uspa1245,no,como ya EXS PART ERG.3.SG-N.REL,como ya EXS PART ERG.3.SG-N.REL
+st_test_uspa1245_219,uspa1245,yes,COM-cambiar ERG.3.SG-nombre,COM-dolor ERG.3.SG-nombre
+st_test_uspa1245_219,uspa1245,no,COM-cambiar ERG.3.SG-nombre,COM-dolor ERG.3.SG-nombre
+st_test_uspa1245_220,uspa1245,yes,COM-meter ERG.3.SG-nombre Beyaldama,COM-meter ERG.3.SG-nombre Beyaldama
+st_test_uspa1245_220,uspa1245,no,COM-meter ERG.3.SG-nombre Beyaldama,COM-meter ERG.3.SG-nombre Beyaldama
+st_test_uspa1245_221,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_221,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_222,uspa1245,yes,INT ERG.2.SG-nombre,INT ERG.2.SG-nombre
+st_test_uspa1245_222,uspa1245,no,INT ERG.2.SG-decir-SC,INT ERG.2.SG-nombre
+st_test_uspa1245_223,uspa1245,yes,dice ART Sergio él/ella,dice ART Sergio él/ella
+st_test_uspa1245_223,uspa1245,no,dice ART Sergio él/ella,dice ART Sergio él/ella
+st_test_uspa1245_224,uspa1245,yes,yo Beyaldama,yo Beyaldama
+st_test_uspa1245_224,uspa1245,no,yo Beyaldama,yo Beyaldama
+st_test_uspa1245_225,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_225,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_226,uspa1245,yes,COM-entrar PREP-ERG.3.SG poner@ojo-SC ERG.3.SG-N.REL PREP ERG.3.SG-N.REL ART hombre,COM-entrar PREP-ERG.3.SG cerrar-SC ERG.3.SG-ojo PREP ERG.3.SG-N.REL ART hombre
+st_test_uspa1245_226,uspa1245,no,COM-entrar PREP-ERG.3.SG poner@ojo-SC ERG.3.SG-N.REL PREP ERG.3.SG-N.REL ART hombre,COM-entrar PREP-ERG.3.SG cerrar-SC ERG.3.SG-ojo PREP ERG.3.SG-N.REL ART hombre
+st_test_uspa1245_227,uspa1245,yes,loque ir-preguntar-PART ERG.3.SG-nombre él/ella,loque ir-preguntar-PART ERG.3.SG-nombre él/ella
+st_test_uspa1245_227,uspa1245,no,loque ir-PART ERG.3.SG-nombre él/ella,loque ir-preguntar-PART ERG.3.SG-nombre él/ella
+st_test_uspa1245_228,uspa1245,yes,entonces COM-venir COM-venir ART-ERG.3.SG papá,entonces COM-venir COM-venir ART-ERG.3.SG papá
+st_test_uspa1245_228,uspa1245,no,entonces COM-venir COM-venir ART-ERG.3.SG papá,entonces COM-venir COM-venir ART-ERG.3.SG papá
+st_test_uspa1245_229,uspa1245,yes,COM-DIR-sentar-ITR PL,COM-DIR-sentar-ITR PL
+st_test_uspa1245_229,uspa1245,no,COM-DIR-sentar-ITR PL,COM-DIR-sentar-ITR PL
+st_test_uspa1245_230,uspa1245,yes,al@bueno rato COM-entrar marimba,al-buen rato COM-entrar marimba
+st_test_uspa1245_230,uspa1245,no,al@bueno rato COM-entrar marimba,al-buen rato COM-entrar marimba
+st_test_uspa1245_231,uspa1245,yes,entonces ART-ERG.3.SG papá COM-entrar PREP baile-SC ERG.3.SG-N.REL,entonces ART-ERG.3.SG papá COM-entrar PREP baile-SC ERG.3.SG-N.REL
+st_test_uspa1245_231,uspa1245,no,entonces ART-ERG.3.SG papá COM-entrar PREP baile ERG.3.SG-N.REL,entonces ART-ERG.3.SG papá COM-entrar PREP baile-SC ERG.3.SG-N.REL
+st_test_uspa1245_232,uspa1245,yes,PART ART hombre loque COM-recibir-ANTIP él/ella,PART ART hombre loque COM-recibir-ANTIP él/ella
+st_test_uspa1245_232,uspa1245,no,PART ART hombre loque COM-recibir-ANTIP él/ella,PART ART hombre loque COM-recibir-ANTIP él/ella
+st_test_uspa1245_233,uspa1245,yes,duro PART APPRX-ver,duro PART APPRX-ver
+st_test_uspa1245_233,uspa1245,no,duro PART APPRX-ver,duro PART APPRX-ver
+st_test_uspa1245_234,uspa1245,yes,yo APPRX-A1S-ERG.1.SG-sacar-PASS-EMPH DEM baile-SC,yo APPRX-ERG.1.SG-ERG.1.SG-sacar-PASS-EMPH DEM baile-SC
+st_test_uspa1245_234,uspa1245,no,yo APPRX-ERG.1.SG-sacar-SC-EMPH DEM baile,yo APPRX-ERG.1.SG-ERG.1.SG-sacar-PASS-EMPH DEM baile-SC
+st_test_uspa1245_235,uspa1245,yes,dice él/ella ART-ERG.3.SG compañero,decir él/ella ART-ERG.3.SG compañero
+st_test_uspa1245_235,uspa1245,no,dice él/ella ART-ERG.3.SG compañero,decir él/ella ART-ERG.3.SG compañero
+st_test_uspa1245_236,uspa1245,yes,sacala,sacar-PASS
+st_test_uspa1245_236,uspa1245,no,sacala,sacar-PASS
+st_test_uspa1245_237,uspa1245,yes,dice ART-ERG.3.SG compañero él/ella,decir ART-ERG.3.SG compañero él/ella
+st_test_uspa1245_237,uspa1245,no,dice ART-ERG.3.SG compañero él/ella,decir ART-ERG.3.SG compañero él/ella
+st_test_uspa1245_238,uspa1245,yes,esta@bien,esta@bien
+st_test_uspa1245_238,uspa1245,no,esta@bien,esta@bien
+st_test_uspa1245_239,uspa1245,yes,esta@bien,esta@bien
+st_test_uspa1245_239,uspa1245,no,esta@bien,esta@bien
+st_test_uspa1245_240,uspa1245,yes,dice ART sergio,decir ART Sergio
+st_test_uspa1245_240,uspa1245,no,dice ART Sergio,decir ART Sergio
+st_test_uspa1245_241,uspa1245,yes,poco@a@poco COM-hacer mujer COM-hablar-SC ART mujer,despacio COM-hacer valor COM-hablar-ERG.3.SG ART mujer
+st_test_uspa1245_241,uspa1245,no,poco@a@poco COM-hacer mujer COM-hablar-SC ART mujer,despacio COM-hacer valor COM-hablar-ERG.3.SG ART mujer
+st_test_uspa1245_242,uspa1245,yes,ir PREP baile-SC,ir DEM baile-SC
+st_test_uspa1245_242,uspa1245,no,ir PREP baile,ir DEM baile-SC
+st_test_uspa1245_243,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_243,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_244,uspa1245,yes,bueno,bueno
+st_test_uspa1245_244,uspa1245,no,bueno,bueno
+st_test_uspa1245_245,uspa1245,yes,dice ART mujer él/ella,dice ART mujer él/ella
+st_test_uspa1245_245,uspa1245,no,dice ART mujer él/ella,dice ART mujer él/ella
+st_test_uspa1245_246,uspa1245,yes,baile-ANTIP PL allí,baile-ANTIP PL allí
+st_test_uspa1245_246,uspa1245,no,baile-ANTIP PL allí,baile-ANTIP PL allí
+st_test_uspa1245_247,uspa1245,yes,COM-preguntar-SC él/ella,COM-pedir-SC él/ella
+st_test_uspa1245_247,uspa1245,no,COM-preguntar-SC él/ella,COM-pedir-SC él/ella
+st_test_uspa1245_248,uspa1245,yes,ERG.2.SG-esposo-EMPH ART hombre DEM,ERG.2.SG-esposo-EMPH ART hombre DEM
+st_test_uspa1245_248,uspa1245,no,ERG.2.SG-esposo-???-EMPH ART hombre DEM,ERG.2.SG-esposo-EMPH ART hombre DEM
+st_test_uspa1245_249,uspa1245,yes,INT ERG.2.SG-hacer-SC ERG.3.SG-N.REL,INT ERG.2.SG-hacer-SC ERG.3.SG-N.REL
+st_test_uspa1245_249,uspa1245,no,INT ERG.2.SG-hacer-SC ERG.3.SG-N.REL,INT ERG.2.SG-hacer-SC ERG.3.SG-N.REL
+st_test_uspa1245_250,uspa1245,yes,dice él/ella ART mujer,decir él/ella ART mujer
+st_test_uspa1245_250,uspa1245,no,dice él/ella ART mujer,decir él/ella ART mujer
+st_test_uspa1245_251,uspa1245,yes,no DEM ERG.1.SG-papá-EMPH,no DEM A1S-papá-EMPH
+st_test_uspa1245_251,uspa1245,no,no DEM ERG.1.SG-papá-EMPH,no DEM A1S-papá-EMPH
+st_test_uspa1245_252,uspa1245,yes,dice ART mujer,decir ART mujer
+st_test_uspa1245_252,uspa1245,no,dice ART mujer,decir ART mujer
+st_test_uspa1245_253,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_253,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_254,uspa1245,yes,entonces COM-terminar uno piesa,entonces COM-terminar uno marimba
+st_test_uspa1245_254,uspa1245,no,entonces COM-terminar uno piesa,entonces COM-terminar uno marimba
+st_test_uspa1245_255,uspa1245,yes,entonces ART-ERG.3.SG papá COM-recibir PART PREP vehículo,entonces ART-ERG.3.SG papá COM-recibir PART PREP vehículo
+st_test_uspa1245_255,uspa1245,no,entonces ART-ERG.3.SG papá COM-recibir PART PREP vehículo,entonces ART-ERG.3.SG papá COM-recibir PART PREP vehículo
+st_test_uspa1245_256,uspa1245,yes,COM-llevar DIR PREP ERG.3.SG-casa,COM-recibir DIR PREP ERG.3.SG-casa
+st_test_uspa1245_256,uspa1245,no,COM-recibir DIR PREP ERG.3.SG-casa,COM-recibir DIR PREP ERG.3.SG-casa
+st_test_uspa1245_257,uspa1245,yes,COM-recibir DIR PREP ERG.3.SG-casa,COM-recibir DIR PREP ERG.3.SG-casa
+st_test_uspa1245_257,uspa1245,no,COM-recibir DIR PREP ERG.3.SG-casa,COM-recibir DIR PREP ERG.3.SG-casa
+st_test_uspa1245_258,uspa1245,yes,CONJ COM-llegar PREP ERG.3.SG-casa,CONJ COM-llegar PREP-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_258,uspa1245,no,CONJ COM-llegar PREP ERG.3.SG-casa,CONJ COM-llegar PREP-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_259,uspa1245,yes,allí como EXS ERG.3.SG-cargo ART-ERG.3.SG papá todo,allí como EXS ERG.3.SG-cargo ART-ERG.3.SG papá todo
+st_test_uspa1245_259,uspa1245,no,allí como EXS ERG.3.SG-cargo ART-ERG.3.SG papá todo,allí como EXS ERG.3.SG-cargo ART-ERG.3.SG papá todo
+st_test_uspa1245_260,uspa1245,yes,allí COM-quedar-ERG.3.SG entegar-EMPH todo tierra,allí COM-quedar-ERG.3.SG repartir-EMPH todo tierra
+st_test_uspa1245_260,uspa1245,no,allí COM-quedar ERG.3.SG-entegar-DIR todo tierra,allí COM-quedar-ERG.3.SG repartir-EMPH todo tierra
+st_test_uspa1245_261,uspa1245,yes,cosas él/ella ART-ERG.3.SG hija,cosas N.REL ART-ERG.3.SG hija
+st_test_uspa1245_261,uspa1245,no,cosas él/ella ART-ERG.3.SG hija,cosas N.REL ART-ERG.3.SG hija
+st_test_uspa1245_262,uspa1245,yes,como ERG.3.SG-hija PART,como ERG.3.SG-hija PART
+st_test_uspa1245_262,uspa1245,no,como ERG.3.SG-hija PART,como ERG.3.SG-hija PART
+st_test_uspa1245_263,uspa1245,yes,COM-conocer ERG.3.SG-N.REL,COM-conocer ERG.3.SG-cara
+st_test_uspa1245_263,uspa1245,no,COM-conocer ERG.3.SG-N.REL,COM-conocer ERG.3.SG-cara
+st_test_uspa1245_264,uspa1245,yes,COM-quedar-ERG.3.SG entregar-EMPH todo cosas,COM-quedar-ERG.3.SG entregar-EMPH todo cosas
+st_test_uspa1245_264,uspa1245,no,COM-quedar ERG.3.SG-entregar todo cosas,COM-quedar-ERG.3.SG entregar-EMPH todo cosas
+st_test_uspa1245_265,uspa1245,yes,CONJ escrituras todo,CONJ escrituras todo
+st_test_uspa1245_265,uspa1245,no,CONJ escrituras todo,CONJ escrituras todo
+st_test_uspa1245_266,uspa1245,yes,loque ERG.3.SG-trabajo ART-ERG.3.SG papá,loque ERG.3.SG-trabajo ART-ERG.3.SG papá
+st_test_uspa1245_266,uspa1245,no,loque ERG.3.SG-trabajo ART-ERG.3.SG papá,loque ERG.3.SG-trabajo ART-ERG.3.SG papá
+st_test_uspa1245_267,uspa1245,yes,COM-quedar-ERG.3.SG dar ERG.3.SG-N.REL ERG.3.SG-hija,COM-quedar-ERG.3.SG dar él/ella ERG.3.SG-ERG.3.SG-hija
+st_test_uspa1245_267,uspa1245,no,COM-quedar-ERG.3.SG dar ERG.3.SG-N.REL ERG.3.SG-hija,COM-quedar-ERG.3.SG dar él/ella ERG.3.SG-ERG.3.SG-hija
+st_test_uspa1245_268,uspa1245,yes,CONJ COM-venir COM-venir ART hombre,CONJ COM-venir COM-venir ART hombre
+st_test_uspa1245_268,uspa1245,no,CONJ COM-venir COM-venir ART hombre,CONJ COM-venir COM-venir ART hombre
+st_test_uspa1245_269,uspa1245,yes,desear-querer PART ERG.3.SG-N.REL ART mujer,desear-PASS PART ERG.3.SG-cara ART mujer
+st_test_uspa1245_269,uspa1245,no,desear-SC PART ERG.3.SG-N.REL ART mujer,desear-PASS PART ERG.3.SG-cara ART mujer
+st_test_uspa1245_270,uspa1245,yes,como bien comer-SAB PART,como bien adornar-PP PART
+st_test_uspa1245_270,uspa1245,no,como bien comer-SAB PART,como bien adornar-PP PART
+st_test_uspa1245_271,uspa1245,yes,allí COM-pedir,allí COM-encontrar
+st_test_uspa1245_271,uspa1245,no,allí COM-oir,allí COM-encontrar
+st_test_uspa1245_272,uspa1245,yes,COM-salir PREP-ERG.3.SG trabajo,COM-salir PREP-ERG.3.SG trabajo
+st_test_uspa1245_272,uspa1245,no,COM-salir PREP trabajo,COM-salir PREP-ERG.3.SG trabajo
+st_test_uspa1245_273,uspa1245,yes,CONJ COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL ART mujer,CONJ COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL ART mujer
+st_test_uspa1245_273,uspa1245,no,CONJ COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL ART mujer,CONJ COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL ART mujer
+st_test_uspa1245_274,uspa1245,yes,como COM-morir-EMPH ERG.3.SG-papá,como COM-morir-EMPH ERG.3.SG-papá
+st_test_uspa1245_274,uspa1245,no,como COM-morir-EMPH ERG.3.SG-papá,como COM-morir-EMPH ERG.3.SG-papá
+st_test_uspa1245_275,uspa1245,yes,entonces COM-quedar cosas PREP-ERG.3.SG mano,entonces COM-quedar cosas PREP-ERG.3.SG mano
+st_test_uspa1245_275,uspa1245,no,entonces COM-quedar cosas PREP mano,entonces COM-quedar cosas PREP-ERG.3.SG mano
+st_test_uspa1245_276,uspa1245,yes,COM-venir él/ella COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL,COM-venir él/ella COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL
+st_test_uspa1245_276,uspa1245,no,COM-venir él/ella COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL,COM-venir él/ella COM-DIR-ERG.3.SG-pedir ERG.3.SG-trabajo ERG.3.SG-N.REL
+st_test_uspa1245_277,uspa1245,yes,ERG.3.SG-N.REL ART mujer,ERG.3.SG-N.REL ART mujer
+st_test_uspa1245_277,uspa1245,no,ERG.3.SG-N.REL ART mujer,ERG.3.SG-N.REL ART mujer
+st_test_uspa1245_278,uspa1245,yes,COM-venir ART mujer,COM-venir ART mujer
+st_test_uspa1245_278,uspa1245,no,COM-venir ART mujer,COM-venir ART mujer
+st_test_uspa1245_279,uspa1245,yes,esta@bien EXS trabajo N.REL,esta@bien EXS trabajo N.REL
+st_test_uspa1245_279,uspa1245,no,esta@bien EXS trabajo N.REL,esta@bien EXS trabajo N.REL
+st_test_uspa1245_280,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_280,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_281,uspa1245,yes,COM-dar-PASS ERG.3.SG-trabajo,COM-dar-PASS ERG.3.SG-trabajo
+st_test_uspa1245_281,uspa1245,no,COM-dar-PASS ERG.3.SG-trabajo,COM-dar-PASS ERG.3.SG-trabajo
+st_test_uspa1245_282,uspa1245,yes,CONJ COM-dar-PASS uno-ERG.3.SG ERG.3.SG-casa,CONJ COM-dar-PASS uno-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_282,uspa1245,no,CONJ COM-dar-PASS uno-ERG.3.SG E3-casa,CONJ COM-dar-PASS uno-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_283,uspa1245,yes,dónde APPRX-dormir,dónde APPRX-dormir
+st_test_uspa1245_283,uspa1245,no,dónde dueño,dónde APPRX-dormir
+st_test_uspa1245_284,uspa1245,yes,COM-dar-PASS uno-ERG.3.SG ERG.3.SG-casa PREP???,COM-dar-PASS uno-ERG.3.SG ERG.3.SG-casa PREP APPRX-dormir
+st_test_uspa1245_284,uspa1245,no,COM-dar-PASS uno-ERG.3.SG ERG.3.SG-casa PREP dormir,COM-dar-PASS uno-ERG.3.SG ERG.3.SG-casa PREP APPRX-dormir
+st_test_uspa1245_285,uspa1245,yes,CONJ COM-entrar PREP trabajo,CONJ COM-entrar PREP trabajo
+st_test_uspa1245_285,uspa1245,no,CONJ COM-entrar PREP trabajo,CONJ COM-entrar PREP trabajo
+st_test_uspa1245_286,uspa1245,yes,COM-entrar PREP trabajo,COM-entrar PREP trabajo
+st_test_uspa1245_286,uspa1245,no,COM-entrar PREP trabajo,COM-entrar PREP trabajo
+st_test_uspa1245_287,uspa1245,yes,CONJ PART ART mamá ART angelica,CONJ PART ART mamá ART Angelica
+st_test_uspa1245_287,uspa1245,no,CONJ PART ART mamá ART angelica,CONJ PART ART mamá ART Angelica
+st_test_uspa1245_288,uspa1245,yes,COM-quedar-PP PL ERG.3.SG-N.REL ART-ERG.3.SG papá,COM-quedar-PP PL ERG.3.SG-N.REL ART-ERG.3.SG papá
+st_test_uspa1245_288,uspa1245,no,COM-quedar-PP PL ERG.3.SG-N.REL ART-ERG.3.SG papá,COM-quedar-PP PL ERG.3.SG-N.REL ART-ERG.3.SG papá
+st_test_uspa1245_289,uspa1245,yes,algunos-DEM,allá
+st_test_uspa1245_289,uspa1245,no,algunos-DEM,allá
+st_test_uspa1245_290,uspa1245,yes,COM-venir ART Angelica COM-buscar uno diferente hombre PART,COM-venir ART Angelica COM-buscar uno diferente hombre PART
+st_test_uspa1245_290,uspa1245,no,COM-venir ART Angelica COM-buscar uno diferente hombre PART,COM-venir ART Angelica COM-buscar uno diferente hombre PART
+st_test_uspa1245_291,uspa1245,yes,COM-buscar uno diferente hombre PART,COM-buscar uno diferente hombre PART
+st_test_uspa1245_291,uspa1245,no,COM-buscar uno diferente hombre PART,COM-buscar uno diferente hombre PART
+st_test_uspa1245_292,uspa1245,yes,CONJ COM-venir uno-ERG.3.SG ERG.3.SG-papá ART sergio,CONJ COM-venir uno-ERG.3.SG ERG.3.SG-papá ART Sergio
+st_test_uspa1245_292,uspa1245,no,CONJ COM-venir uno-ERG.3.SG ERG.3.SG-papá ART sergio,CONJ COM-venir uno-ERG.3.SG ERG.3.SG-papá ART Sergio
+st_test_uspa1245_293,uspa1245,yes,cabal COM-DIR-ERG.3.SG-encontrar ART Angelica ERG.3.SG-N.REL uno diferente hombre,cabal COM-DIR-ERG.3.SG-encontrar ART Angelica ERG.3.SG-N.REL uno diferente hombre
+st_test_uspa1245_293,uspa1245,no,cabal??? ART Angelica ERG.3.SG-N.REL un diferente hombre,cabal COM-DIR-ERG.3.SG-encontrar ART Angelica ERG.3.SG-N.REL uno diferente hombre
+st_test_uspa1245_294,uspa1245,yes,CONJ COM-venir ERG.3.SG-papá ART sergio,CONJ COM-venir ERG.3.SG-papá ART Sergio
+st_test_uspa1245_294,uspa1245,no,CONJ COM-venir ERG.3.SG-papá ART sergio,CONJ COM-venir ERG.3.SG-papá ART Sergio
+st_test_uspa1245_295,uspa1245,yes,COM-matar-PASS ART dos hombre,COM-morir-PASS ART segundo hombre
+st_test_uspa1245_295,uspa1245,no,COM-matar-CAU-SC ART dos hombre,COM-morir-PASS ART segundo hombre
+st_test_uspa1245_296,uspa1245,yes,él/ella ERG.3.SG-N.REL ERG.3.SG-esposa,él/ella ERG.3.SG-N.REL ERG.3.SG-esposa
+st_test_uspa1245_296,uspa1245,no,él/ella ERG.3.SG-N.REL ERG.3.SG-esposa,él/ella ERG.3.SG-N.REL ERG.3.SG-esposa
+st_test_uspa1245_297,uspa1245,yes,COM-matar-CAU-SC ART hombre,COM-morir-PASS ART hombre
+st_test_uspa1245_297,uspa1245,no,COM-matar-CAU-SC ART hombre,COM-morir-PASS ART hombre
+st_test_uspa1245_298,uspa1245,yes,ERG.3.SG-N.REL COM-ERG.2.SG-dar PL,ERG.3.SG-N.REL COM-ERG.2.SG-dar PL
+st_test_uspa1245_298,uspa1245,no,ERG.3.SG-N.REL COM-ERG.2.SG-dar PL,ERG.3.SG-N.REL COM-ERG.2.SG-dar PL
+st_test_uspa1245_299,uspa1245,yes,COM-ERG.2.SG-decir-PL-EMPH él/ella palabra,COM-A2S-decir-PL-EMPH N.REL autoridad
+st_test_uspa1245_299,uspa1245,no,COM-ERG.2.SG-decir-PL-EMPH él/ella palabra,COM-A2S-decir-PL-EMPH N.REL autoridad
+st_test_uspa1245_300,uspa1245,yes,que ART hombre,que ART hombre
+st_test_uspa1245_300,uspa1245,no,que ART hombre,que ART hombre
+st_test_uspa1245_301,uspa1245,yes,COM-morir-PASS ART ERG.3.SG-dos ERG.3.SG-esposo,COM-morir-PASS ART ERG.3.SG-segundo ERG.3.SG-esposo
+st_test_uspa1245_301,uspa1245,no,COM-morir-PASS ART ERG.3.SG-dos ERG.3.SG-esposo,COM-morir-PASS ART ERG.3.SG-segundo ERG.3.SG-esposo
+st_test_uspa1245_302,uspa1245,yes,ART mujer PART,ART mujer PART
+st_test_uspa1245_302,uspa1245,no,ART mujer PART,ART mujer PART
+st_test_uspa1245_303,uspa1245,yes,agarrar-PP PART ERG.3.SG-N.REL ART-ERG.3.SG papá ART Sergio,agarrar-PP PART ERG.3.SG-N.REL ART-ERG.3.SG papá ART Sergio
+st_test_uspa1245_303,uspa1245,no,agarrar-SAB PART ERG.3.SG-N.REL ART-ERG.3.SG papá ART Sergio,agarrar-PP PART ERG.3.SG-N.REL ART-ERG.3.SG papá ART Sergio
+st_test_uspa1245_304,uspa1245,yes,él/ella APPRX-entrar PREP carcel,él/ella APPRX-entrar PREP carcel
+st_test_uspa1245_304,uspa1245,no,él/ella APPRX-entrar PREP carcel,él/ella APPRX-entrar PREP carcel
+st_test_uspa1245_305,uspa1245,yes,loque COM-hacer ART Angelica,loque COM-hacer ART Angelica
+st_test_uspa1245_305,uspa1245,no,loque COM-hacer ART Angelica,loque COM-hacer ART Angelica
+st_test_uspa1245_306,uspa1245,yes,COM-hablar-SC DIR ART ERG.3.SG-hijo,COM-hablarle-SC DIR ART ERG.3.SG-hijo
+st_test_uspa1245_306,uspa1245,no,COM-hablar-SC DIR ART ERG.3.SG-hijo,COM-hablarle-SC DIR ART ERG.3.SG-hijo
+st_test_uspa1245_307,uspa1245,yes,PREP PREP vehículo,PREP PREP vehículo
+st_test_uspa1245_307,uspa1245,no,PREP PREP vehículo,PREP PREP vehículo
+st_test_uspa1245_308,uspa1245,yes,CONJ de@repente APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar ERG.3.SG-trabajo ERG.2.SG-papá allí,CONJ de@repente APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar ERG.3.SG-trabajo ERG.2.SG-papá allá
+st_test_uspa1245_308,uspa1245,no,CONJ de@repente APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar ERG.3.SG-trabajo ERG.2.SG-papá allí,CONJ de@repente APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar ERG.3.SG-trabajo ERG.2.SG-papá allá
+st_test_uspa1245_309,uspa1245,yes,aqui carcel PART ERG.3.SG-N.REL,aqui carcel PART ERG.3.SG-N.REL
+st_test_uspa1245_309,uspa1245,no,aqui carcel PART ERG.3.SG-N.REL,aqui carcel PART ERG.3.SG-N.REL
+st_test_uspa1245_310,uspa1245,yes,COM-morir-PASS uno hombre,COM-morir-PASS uno hombre
+st_test_uspa1245_310,uspa1245,no,COM-morir-PASS uno hombre,COM-morir-PASS uno hombre
+st_test_uspa1245_311,uspa1245,yes,decir él/ella ART,dice él/ella ART
+st_test_uspa1245_311,uspa1245,no,decir él/ella ART,dice él/ella ART
+st_test_uspa1245_312,uspa1245,yes,ERG.3.SG-hijo,ERG.3.SG-hijo
+st_test_uspa1245_312,uspa1245,no,ERG.3.SG-hijo,ERG.3.SG-hijo
+st_test_uspa1245_313,uspa1245,yes,decir él/ella APPRX-venir aqui APPRX-A1S-buscar ERG.3.SG-trabajo,decir él/ella APPRX-venir aqui APPRX-ERG.1.SG-buscar ERG.3.SG-trabajo
+st_test_uspa1245_313,uspa1245,no,decir él/ella APPRX-venir aqui APPRX-ERG.1.SG-buscar ERG.3.SG-trabajo,decir él/ella APPRX-venir aqui APPRX-ERG.1.SG-buscar ERG.3.SG-trabajo
+st_test_uspa1245_314,uspa1245,yes,dice ART Sergio él/ella,decir ART Sergio él/ella
+st_test_uspa1245_314,uspa1245,no,dice ART Sergio él/ella,decir ART Sergio él/ella
+st_test_uspa1245_315,uspa1245,yes,COM-venir ART Sergio COM-hablar-SC ART mujer,COM-venir ART Sergio COM-hablarle-SC ART mujer
+st_test_uspa1245_315,uspa1245,no,COM-venir ART Sergio COM-hablar-SC ART mujer,COM-venir ART Sergio COM-hablarle-SC ART mujer
+st_test_uspa1245_316,uspa1245,yes,CONJ que derrepente APPRX-ERG.2.SG-querer AFI APPRX-ERG.2.SG-hacer uno favor,CONJ que derepente APPRX-ERG.2.SG-querer CONJ APPRX-ERG.2.SG-hacer uno favor
+st_test_uspa1245_316,uspa1245,no,CONJ que derrepente APPRX-ERG.2.SG-querer AFI APPRX-ERG.2.SG-hacer uno favor,CONJ que derepente APPRX-ERG.2.SG-querer CONJ APPRX-ERG.2.SG-hacer uno favor
+st_test_uspa1245_317,uspa1245,yes,APPRX-ERG.2.SG-meter,APPRX-ERG.2.SG-ITS
+st_test_uspa1245_317,uspa1245,no,APPRX-meter,APPRX-ERG.2.SG-ITS
+st_test_uspa1245_318,uspa1245,yes,APPRX-ERG.2.SG-buscar-SC ERG.3.SG-trabajo ERG.1.SG-papá,APPRX-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo A1S-papá
+st_test_uspa1245_318,uspa1245,no,APPRX-ERG.2.SG-buscar-ANTIP ERG.3.SG-trabajo ERG.1.SG-papá,APPRX-ERG.3.SG-buscar-EMPH ERG.3.SG-trabajo A1S-papá
+st_test_uspa1245_319,uspa1245,yes,allá NEG PART-EMPH bueno EXS,allá NEG PART-EMPH bueno EXS
+st_test_uspa1245_319,uspa1245,no,allá NEG PART-EMPH bueno EXS,allá NEG PART-EMPH bueno EXS
+st_test_uspa1245_320,uspa1245,yes,CONJ carcel ERG.3.SG-N.REL,CONJ carcel ERG.3.SG-N.REL
+st_test_uspa1245_320,uspa1245,no,CONJ carcel ERG.3.SG-N.REL,CONJ carcel ERG.3.SG-N.REL
+st_test_uspa1245_321,uspa1245,yes,saber INT COM-hacer,saber INT COM-hacer
+st_test_uspa1245_321,uspa1245,no,saber INT COM-hacer,saber INT COM-hacer
+st_test_uspa1245_322,uspa1245,yes,APPRX-ERG.2.SG-decir él/ella APPRX-venir,APPRX-ERG.3.SG-decir él/ella APPRX-venir
+st_test_uspa1245_322,uspa1245,no,APPRX-ERG.2.SG-decir él/ella APPRX-venir,APPRX-ERG.3.SG-decir él/ella APPRX-venir
+st_test_uspa1245_323,uspa1245,yes,dice él/ella ART sergio,decir él/ella ART Sergio
+st_test_uspa1245_323,uspa1245,no,dice él/ella ART sergio,decir él/ella ART Sergio
+st_test_uspa1245_324,uspa1245,yes,??? ART Sergio COM-hablar PART,APPRX-decir ART Sergio COM-hablar PART
+st_test_uspa1245_324,uspa1245,no,decir ART Sergio COM-hablar PART,APPRX-decir ART Sergio COM-hablar PART
+st_test_uspa1245_325,uspa1245,yes,digal-PART APPRX-venir,decir-él/ella APPRX-venir
+st_test_uspa1245_325,uspa1245,no,digal-PART APPRX-venir,decir-él/ella APPRX-venir
+st_test_uspa1245_326,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_326,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_327,uspa1245,yes,dice ART-ERG.3.SG papá,decir ART-ERG.3.SG papá
+st_test_uspa1245_327,uspa1245,no,dice ART-ERG.3.SG papá,decir ART-ERG.3.SG papá
+st_test_uspa1245_328,uspa1245,yes,ir cuando COM-llegar PL,ir cuando COM-llegar PL
+st_test_uspa1245_328,uspa1245,no,ir cuando COM-llegar PL,ir cuando COM-llegar PL
+st_test_uspa1245_329,uspa1245,yes,COM-llegar COM-DIR-ERG.3.SG encotrar-EMPH ART-ERG.3.SG papá,COM-llegar COM-DIR-ERG.3.SG encontrar ART-ERG.3.SG papá
+st_test_uspa1245_329,uspa1245,no,COM-llegar COM-DIR-ERG.3.SG encontrar-EMPH ART-ERG.3.SG papá,COM-llegar COM-DIR-ERG.3.SG encontrar ART-ERG.3.SG papá
+st_test_uspa1245_330,uspa1245,yes,COM-venir COM-recibir ART-ERG.3.SG papá PREP ERG.3.SG-casa ART mujer,COM-venir COM-recibir ART-ERG.3.SG papá PREP-ERG.3.SG ERG.3.SG-casa ART mujer
+st_test_uspa1245_330,uspa1245,no,COM-venir COM-recibir ART-ERG.3.SG papá PREP ERG.3.SG-casa ART mujer,COM-venir COM-recibir ART-ERG.3.SG papá PREP-ERG.3.SG ERG.3.SG-casa ART mujer
+st_test_uspa1245_331,uspa1245,yes,COM-decir él/ella,COM-decir él/ella
+st_test_uspa1245_331,uspa1245,no,COM-decir él/ella,COM-decir él/ella
+st_test_uspa1245_332,uspa1245,yes,eso@es DEM ERG.1.SG-papá,DEM DEM ERG.1.SG-papá
+st_test_uspa1245_332,uspa1245,no,eso@es DEM ERG.1.SG-papá,DEM DEM ERG.1.SG-papá
+st_test_uspa1245_333,uspa1245,yes,pente APPRX-querer APPRX-ERG.2.SG-buscar ERG.3.SG-trabajo,de@repente APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar ERG.3.SG-trabajo
+st_test_uspa1245_333,uspa1245,no,pente APPRX-ERG.2.SG-querer APPRX-buscar ERG.3.SG-trabajo,de@repente APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar ERG.3.SG-trabajo
+st_test_uspa1245_334,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_334,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_335,uspa1245,yes,INT ERG.3.SG-nombre ERG.2.SG-papá,INT ERG.3.SG-nombre ERG.2.SG-papá
+st_test_uspa1245_335,uspa1245,no,INT ERG.3.SG-decir ERG.2.SG-papá,INT ERG.3.SG-nombre ERG.2.SG-papá
+st_test_uspa1245_336,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_336,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_337,uspa1245,yes,renato ERG.3.SG-nombre,Renato ERG.3.SG-nombre
+st_test_uspa1245_337,uspa1245,no,renato ERG.3.SG-nombre,Renato ERG.3.SG-nombre
+st_test_uspa1245_338,uspa1245,yes,INT ERG.2.SG-nombre,INT ERG.2.SG-nombre
+st_test_uspa1245_338,uspa1245,no,INT ERG.2.SG-nombre,INT ERG.2.SG-nombre
+st_test_uspa1245_339,uspa1245,yes,decir él/ella ART hombre,decir él/ella ART hombre
+st_test_uspa1245_339,uspa1245,no,decir él/ella ART hombre,decir él/ella ART hombre
+st_test_uspa1245_340,uspa1245,yes,yo Renato,yo Renato
+st_test_uspa1245_340,uspa1245,no,yo Renato,yo Renato
+st_test_uspa1245_341,uspa1245,yes,Renato A1S-nombre,renato ERG.1.SG-nombre
+st_test_uspa1245_341,uspa1245,no,Renato A1S-decir,renato ERG.1.SG-nombre
+st_test_uspa1245_342,uspa1245,yes,dice ART hombre él/ella ART mujer,decir ART hombre él/ella ART mujer
+st_test_uspa1245_342,uspa1245,no,dice ART hombre él/ella ART mujer,decir ART hombre él/ella ART mujer
+st_test_uspa1245_343,uspa1245,yes,COM-venir ART mujer COM-DIR entrar-PART PREP ERG.3.SG-casa,COM-venir ART mujer COM-DIR entrar-PART PREP-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_343,uspa1245,no,COM-venir ART mujer ir entrar-PART PREP ERG.3.SG-casa,COM-venir ART mujer COM-DIR entrar-PART PREP-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_344,uspa1245,yes,PART ART-ERG.3.SG papá ART Sergio,PART ART-ERG.3.SG papá ART Sergio
+st_test_uspa1245_344,uspa1245,no,PART ART-ERG.3.SG papá ART Sergio,PART ART-ERG.3.SG papá ART Sergio
+st_test_uspa1245_345,uspa1245,yes,decir,decir
+st_test_uspa1245_345,uspa1245,no,decir,decir
+st_test_uspa1245_346,uspa1245,yes,APPRX-ERG.1.SG-ver-EMPH DEM ART mujer COM-estar ERG.1.PL-N.REL antiguamente,APPRX-ERG.1.SG-N.REL-yo DEM ART mujer COM-estar ERG.1.PL-N.REL antiguamente
+st_test_uspa1245_346,uspa1245,no,APPRX-N.REL-yo DEM ART mujer COM-estar ERG.1.PL-N.REL antiguamente,APPRX-ERG.1.SG-N.REL-yo DEM ART mujer COM-estar ERG.1.PL-N.REL antiguamente
+st_test_uspa1245_347,uspa1245,yes,decir él/ella ART-ERG.3.SG hijo,decir él/ella ART-ERG.3.SG hijo
+st_test_uspa1245_347,uspa1245,no,decir él/ella ART-ERG.3.SG hijo,decir él/ella ART-ERG.3.SG hijo
+st_test_uspa1245_348,uspa1245,yes,eso@es NEG eso@es NEG,DEM NEG DEM NEG
+st_test_uspa1245_348,uspa1245,no,DEM NEG DEM NEG,DEM NEG DEM NEG
+st_test_uspa1245_349,uspa1245,yes,dice ART-ERG.3.SG hijo,decir ART-ERG.3.SG hijo
+st_test_uspa1245_349,uspa1245,no,dice ART-ERG.3.SG hijo,decir ART-ERG.3.SG hijo
+st_test_uspa1245_350,uspa1245,yes,COM-reconocer ERG.3.SG-N.REL,COM-conocer ERG.3.SG-cara
+st_test_uspa1245_350,uspa1245,no,COM-reconocer ERG.3.SG-N.REL,COM-conocer ERG.3.SG-cara
+st_test_uspa1245_351,uspa1245,yes,dice entonces COM-venir ART mujer,decir entonces COM-venir ART mujer
+st_test_uspa1245_351,uspa1245,no,dice entonces COM-venir ART mujer,decir entonces COM-venir ART mujer
+st_test_uspa1245_352,uspa1245,yes,COM-reconocer ERG.3.SG-N.REL,COM-conocer ERG.3.SG-cara
+st_test_uspa1245_352,uspa1245,no,COM-reconocer ERG.3.SG-N.REL,COM-conocer ERG.3.SG-cara
+st_test_uspa1245_353,uspa1245,yes,dice,decir
+st_test_uspa1245_353,uspa1245,no,dice,decir
+st_test_uspa1245_354,uspa1245,yes,entonces COM-preguntar-SC él/ella,entonces COM-pedir-ERG.3.SG él/ella
+st_test_uspa1245_354,uspa1245,no,entonces COM-preguntar-SC él/ella,entonces COM-pedir-ERG.3.SG él/ella
+st_test_uspa1245_355,uspa1245,yes,entonces tú/usted tú/usted renato,entonces tú/usted tú/usted renato
+st_test_uspa1245_355,uspa1245,no,entonces tú/usted tú/usted renato,entonces tú/usted tú/usted renato
+st_test_uspa1245_356,uspa1245,yes,entonces a entonces tú/usted-EMPH,entonces CONJ entonces tú/usted-EMPH
+st_test_uspa1245_356,uspa1245,no,entonces a entonces tú/usted-EMPH,entonces CONJ entonces tú/usted-EMPH
+st_test_uspa1245_357,uspa1245,yes,decir,decir
+st_test_uspa1245_357,uspa1245,no,decir,decir
+st_test_uspa1245_358,uspa1245,yes,entonces esta@bien EXS ERG.2.SG-trabajo aqui,entonces esta@bien EXS ERG.2.SG-trabajo aqui
+st_test_uspa1245_358,uspa1245,no,entonces esta@bien EXS ERG.2.SG-trabajo aqui,entonces esta@bien EXS ERG.2.SG-trabajo aqui
+st_test_uspa1245_359,uspa1245,yes,entonces COM-decir PART ART sergio,entonces COM-decir PART ART Sergio
+st_test_uspa1245_359,uspa1245,no,entonces COM-decir PART ART Sergio,entonces COM-decir PART ART Sergio
+st_test_uspa1245_360,uspa1245,yes,hacer peno APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar uno-ERG.3.SG cuarto ERG.1.SG-papá,hacer pena APPRX-ERG.3.SG-querer APPRX-ERG.2.SG-buscar uno-E3 cuarto A1S-papá
+st_test_uspa1245_360,uspa1245,no,hacer peno APPRX-ERG.2.SG-querer APPRX-buscar uno-ERG.3.SG cuarto ERG.1.SG-papá,hacer pena APPRX-ERG.3.SG-querer APPRX-ERG.2.SG-buscar uno-E3 cuarto A1S-papá
+st_test_uspa1245_361,uspa1245,yes,dónde APPRX-estar,dónde APPRX-estar
+st_test_uspa1245_361,uspa1245,no,dónde APPRX-estar,dónde APPRX-estar
+st_test_uspa1245_362,uspa1245,yes,APPRX-dormir,APPRX-dormir
+st_test_uspa1245_362,uspa1245,no,APPRX-dormir,APPRX-dormir
+st_test_uspa1245_363,uspa1245,yes,esta@bien PART uno casa DEM,esta@bien PART uno casa DEM
+st_test_uspa1245_363,uspa1245,no,esta@bien PART uno casa DEM,esta@bien PART uno casa DEM
+st_test_uspa1245_364,uspa1245,yes,decir,decir
+st_test_uspa1245_364,uspa1245,no,decir,decir
+st_test_uspa1245_365,uspa1245,yes,COM-buscar-PASS ERG.3.SG-trabajo,COM-buscar-PASS ERG.3.SG-trabajo
+st_test_uspa1245_365,uspa1245,no,COM-buscar-PASS ERG.3.SG-trabajo,COM-buscar-PASS ERG.3.SG-trabajo
+st_test_uspa1245_366,uspa1245,yes,PART COM-buscar-PASS ERG.3.SG-trabajo ERG.3.SG-N.REL uno mujer,ERG.3.SG-DEM-PART COM-buscar-PASS ERG.3.SG-trabajo ERG.3.SG-N.REL uno mujer
+st_test_uspa1245_366,uspa1245,no,PART COM-buscar-PASS ERG.3.SG-trabajo ERG.3.SG-N.REL uno mujer,ERG.3.SG-DEM-PART COM-buscar-PASS ERG.3.SG-trabajo ERG.3.SG-N.REL uno mujer
+st_test_uspa1245_367,uspa1245,yes,PART ERG.3.SG-esposa ART hombre COM-quedar,ERG.3.SG-PART ERG.3.SG-esposa ART hombre COM-quedar
+st_test_uspa1245_367,uspa1245,no,PART ERG.3.SG-esposa ART hombre COM-quedar,ERG.3.SG-PART ERG.3.SG-esposa ART hombre COM-quedar
+st_test_uspa1245_368,uspa1245,yes,??? ITS APPRX-llorar,??? ITS llorar
+st_test_uspa1245_368,uspa1245,no,sowo ITS APPRX-llorar,??? ITS llorar
+st_test_uspa1245_369,uspa1245,yes,decir,decir
+st_test_uspa1245_369,uspa1245,no,decir,decir
+st_test_uspa1245_370,uspa1245,yes,PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo,PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo
+st_test_uspa1245_370,uspa1245,no,PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo,PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo
+st_test_uspa1245_371,uspa1245,yes,compañero ART ERG.3.SG-hijo,compañero ART ERG.3.SG-hijo
+st_test_uspa1245_371,uspa1245,no,compañero ART ERG.3.SG-hijo,compañero ART ERG.3.SG-hijo
+st_test_uspa1245_372,uspa1245,yes,porque ERG.3.SG-solo PART quedar-PP,porque ERG.3.SG-sola PART quedar-quedar
+st_test_uspa1245_372,uspa1245,no,porque ERG.3.SG-solo PART quedar-PP,porque ERG.3.SG-sola PART quedar-quedar
+st_test_uspa1245_373,uspa1245,yes,poco??? ART ERG.3.SG-esposo,poco APPRX-ERG.3.SG-hablarle-SC ART ERG.3.SG-esposo
+st_test_uspa1245_373,uspa1245,no,poco??? ART ERG.3.SG-esposo,poco APPRX-ERG.3.SG-hablarle-SC ART ERG.3.SG-esposo
+st_test_uspa1245_374,uspa1245,yes,que PART uno favor ART mujer,que hacer uno favor ART mujer
+st_test_uspa1245_374,uspa1245,no,que PART uno favor ART mujer,que hacer uno favor ART mujer
+st_test_uspa1245_375,uspa1245,yes,buscar-PASS un ERG.3.SG-casa dónde APPRX-estar,buscar-PASS uno ERG.3.SG-casa dónde APPRX-estar
+st_test_uspa1245_375,uspa1245,no,buscar-PASS uno ERG.3.SG-casa dónde APPRX-estar,buscar-PASS uno ERG.3.SG-casa dónde APPRX-estar
+st_test_uspa1245_376,uspa1245,yes,porque él/ella poco APPRX-tristeza-ANTIP PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo ir,porque él/ella poco APPRX-tristeza-ANTIP PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo ir
+st_test_uspa1245_376,uspa1245,no,porque él/ella poco APPRX-tristeza-ANTIP PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo ir,porque él/ella poco APPRX-tristeza-ANTIP PREP ERG.3.SG-N.REL ART ERG.3.SG-esposo ir
+st_test_uspa1245_377,uspa1245,yes,como tres mes,como tres mes
+st_test_uspa1245_377,uspa1245,no,como tres mes,como tres mes
+st_test_uspa1245_378,uspa1245,yes,cuatro luna,cuatro mes
+st_test_uspa1245_378,uspa1245,no,cuatro mes,cuatro mes
+st_test_uspa1245_379,uspa1245,yes,ERG.3.SG-trabajo ART ERG.3.SG-esposo,ERG.3.SG-trabajo ART ERG.3.SG-esposo
+st_test_uspa1245_379,uspa1245,no,ERG.3.SG-trabajo ART ERG.3.SG-esposo,ERG.3.SG-trabajo ART ERG.3.SG-esposo
+st_test_uspa1245_380,uspa1245,yes,entonces COM-llegar PART ART,entonces COM-llegar PART ART
+st_test_uspa1245_380,uspa1245,no,entonces COM-llegar PART ART,entonces COM-llegar PART ART
+st_test_uspa1245_381,uspa1245,yes,COM-llegar PART COM-llegar PART ART ERG.3.SG-esposa PREP-ERG.3.SG ERG.3.SG-decir él/ella,COM-llegar PART COM-llegar PART ART ERG.3.SG-esposa PREP-ERG.3.SG ERG.3.SG-decir él/ella
+st_test_uspa1245_381,uspa1245,no,COM-llegar PART COM-llegar PART ART ERG.3.SG-esposa PREP-ERG.3.SG ERG.3.SG-decir él/ella,COM-llegar PART COM-llegar PART ART ERG.3.SG-esposa PREP-ERG.3.SG ERG.3.SG-decir él/ella
+st_test_uspa1245_382,uspa1245,yes,COM-DIR-ERG.3.SG decir él/ella,COM-DIR-ERG.3.SG decir él/ella
+st_test_uspa1245_382,uspa1245,no,??? decir él/ella,COM-DIR-ERG.3.SG decir él/ella
+st_test_uspa1245_383,uspa1245,yes,COM-decir él/ella ART,COM-DIR-ERG.3.SG él/ella ART
+st_test_uspa1245_383,uspa1245,no,COM-decir él/ella ART,COM-DIR-ERG.3.SG él/ella ART
+st_test_uspa1245_384,uspa1245,yes,COM-venir ART-ERG.3.SG papá compañero ART-ERG.3.SG hijo,COM-venir ART-ERG.3.SG papá compañero ART-ERG.3.SG hijo
+st_test_uspa1245_384,uspa1245,no,COM-venir ART-ERG.3.SG papá compañero ART-ERG.3.SG hijo,COM-venir ART-ERG.3.SG papá compañero ART-ERG.3.SG hijo
+st_test_uspa1245_385,uspa1245,yes,COM-decir PL él/ella ART mujer,COM-decir PL él/ella ART mujer
+st_test_uspa1245_385,uspa1245,no,COM-decir PL él/ella ART mujer,COM-decir PL él/ella ART mujer
+st_test_uspa1245_386,uspa1245,yes,derrepente APPRX-ERG.2.SG-querer APPRX-ERG.2.SG-buscar uno-ERG.3.SG ERG.1.PL-casa,de@repente APPRX-ERG.1.SG-querer APPRX-ERG.2.SG-buscar uno-ERG.3.SG ERG.1.PL-casa
+st_test_uspa1245_386,uspa1245,no,derrepente APPRX-ERG.2.SG-querer APPRX-buscar uno-ERG.3.SG ERG.1.PL-casa,de@repente APPRX-ERG.1.SG-querer APPRX-ERG.2.SG-buscar uno-ERG.3.SG ERG.1.PL-casa
+st_test_uspa1245_387,uspa1245,yes,esque ERG.1.SG-esposa APPRX-tristeza-ANTIP PREP-ERG.1.PL-N.REL,esque ERG.1.SG-esposa APPRX-tristeza-ANTIP APPRX-ERG.1.PL-N.REL
+st_test_uspa1245_387,uspa1245,no,esque ERG.1.SG-esposa APPRX-tristeza-ANTIP PREP-ERG.1.PL-N.REL,esque ERG.1.SG-esposa APPRX-tristeza-ANTIP APPRX-ERG.1.PL-N.REL
+st_test_uspa1245_388,uspa1245,yes,EXS allá,EXS allá
+st_test_uspa1245_388,uspa1245,no,EXS allá,EXS allá
+st_test_uspa1245_389,uspa1245,yes,dice él/ella ART mujer,decir él/ella ART mujer
+st_test_uspa1245_389,uspa1245,no,dice él/ella ART mujer,decir él/ella ART mujer
+st_test_uspa1245_390,uspa1245,yes,APPRX-decir él/ella ART,APPRX-decir él/ella ART
+st_test_uspa1245_390,uspa1245,no,APPRX-decir él/ella ART,APPRX-decir él/ella ART
+st_test_uspa1245_391,uspa1245,yes,APPRX-dice él/ella ART mujer,APPRX-decir él/ella ART mujer
+st_test_uspa1245_391,uspa1245,no,APPRX-dice él/ella ART mujer,APPRX-decir él/ella ART mujer
+st_test_uspa1245_392,uspa1245,yes,dice,decir
+st_test_uspa1245_392,uspa1245,no,dice,decir
+st_test_uspa1245_393,uspa1245,yes,bueno-DEM decir él/ella APPRX-venir,bueno-DEM decir él/ella APPRX-venir
+st_test_uspa1245_393,uspa1245,no,bueno-DEM decir él/ella APPRX-venir,bueno-DEM decir él/ella APPRX-venir
+st_test_uspa1245_394,uspa1245,yes,dice ART mujer él/ella ART hombre,decir ART mujer él/ella ART hombre
+st_test_uspa1245_394,uspa1245,no,dice ART mujer él/ella ART hombre,decir ART mujer él/ella ART hombre
+st_test_uspa1245_395,uspa1245,yes,COM-venir COM-??? PART ART-ERG.3.SG ERG.3.SG-esposa,COM-venir COM-llegar-ERG.3.SG-EMPH PART ART-ERG.3.SG ERG.3.SG-esposa
+st_test_uspa1245_395,uspa1245,no,COM-venir??? PART ART-ERG.3.SG ERG.3.SG-esposa,COM-venir COM-llegar-ERG.3.SG-EMPH PART ART-ERG.3.SG ERG.3.SG-esposa
+st_test_uspa1245_396,uspa1245,yes,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer
+st_test_uspa1245_396,uspa1245,no,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer
+st_test_uspa1245_397,uspa1245,yes,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer
+st_test_uspa1245_397,uspa1245,no,CONJ COM-llegar ART mujer,CONJ COM-llegar ART mujer
+st_test_uspa1245_398,uspa1245,yes,COM-decir él/ella ART,COM-decir él/ella ART
+st_test_uspa1245_398,uspa1245,no,??? él/ella ART,COM-decir él/ella ART
+st_test_uspa1245_399,uspa1245,yes,COM-decir él/ella ART ERG.3.SG-hijo,COM-decir él/ella ART ERG.3.SG-hijo
+st_test_uspa1245_399,uspa1245,no,COM-decir él/ella ART ERG.3.SG-hijo,COM-decir él/ella ART ERG.3.SG-hijo
+st_test_uspa1245_400,uspa1245,yes,INT-DIR INT-DIR INT PART-EMPH mujer DEM,INT-PART INT-PART INT PART-EMPH mujer DEM
+st_test_uspa1245_400,uspa1245,no,INT-DIR INT-DIR INT PART-EMPH mujer DEM,INT-PART INT-PART INT PART-EMPH mujer DEM
+st_test_uspa1245_401,uspa1245,yes,DEM PART-EMPH ERG.1.PL-gente nosotros trabajo-ANTIP-SC,DEM PART-EMPH mujer nosotros trabajo-ANTIP-SC
+st_test_uspa1245_401,uspa1245,no,DEM PART-EMPH mujer nosotros trabajo-ANTIP-SC,DEM PART-EMPH mujer nosotros trabajo-ANTIP-SC
+st_test_uspa1245_402,uspa1245,yes,A1P trabajo-ANTIP,nosotros trabajo-ANTIP
+st_test_uspa1245_402,uspa1245,no,A1P trabajo-ANTIP,nosotros trabajo-ANTIP
+st_test_uspa1245_403,uspa1245,yes,decir él/ella ART,decir él/ella ART
+st_test_uspa1245_403,uspa1245,no,dice él/ella ART,decir él/ella ART
+st_test_uspa1245_404,uspa1245,yes,decir él/ella ART hombre,decir él/ella ART hombre
+st_test_uspa1245_404,uspa1245,no,decir él/ella ART hombre,decir él/ella ART hombre
+st_test_uspa1245_405,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_405,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_406,uspa1245,yes,COM-decir él/ella,COM-decir él/ella
+st_test_uspa1245_406,uspa1245,no,COM-decir él/ella,COM-decir él/ella
+st_test_uspa1245_407,uspa1245,yes,eso@es DEM A1S-mamá,DEM DEM A1S-mamá
+st_test_uspa1245_407,uspa1245,no,eso@es DEM A1S-mamá,DEM DEM A1S-mamá
+st_test_uspa1245_408,uspa1245,yes,decir él/ella,dice él/ella
+st_test_uspa1245_408,uspa1245,no,decir él/ella,dice él/ella
+st_test_uspa1245_409,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_409,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_410,uspa1245,yes,dice ART mujer él/ella,dice ART mujer él/ella
+st_test_uspa1245_410,uspa1245,no,dice ART mujer él/ella,dice ART mujer él/ella
+st_test_uspa1245_411,uspa1245,yes,COM-venir,COM-venir
+st_test_uspa1245_411,uspa1245,no,COM-venir,COM-venir
+st_test_uspa1245_412,uspa1245,yes,COM-venir ART mujer,COM-venir ART mujer
+st_test_uspa1245_412,uspa1245,no,COM-venir ART mujer,COM-venir ART mujer
+st_test_uspa1245_413,uspa1245,yes,DEM él/ella INT ERG.3.SG-nombre ERG.2.SG-mamá,DEM él/ella INT ERG.3.SG-nombre ERG.2.SG-mamá
+st_test_uspa1245_413,uspa1245,no,DEM él/ella INT ERG.3.SG-decir ERG.2.SG-mamá,DEM él/ella INT ERG.3.SG-nombre ERG.2.SG-mamá
+st_test_uspa1245_414,uspa1245,yes,decir él/ella Angelica,decir él/ella Angelica
+st_test_uspa1245_414,uspa1245,no,decir él/ella Angelica,decir él/ella Angelica
+st_test_uspa1245_415,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_415,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_416,uspa1245,yes,APPRX-ERG.1.SG-ver yo,APPRX-ERG.1.SG-ver yo
+st_test_uspa1245_416,uspa1245,no,APPRX-N.REL yo,APPRX-ERG.1.SG-ver yo
+st_test_uspa1245_417,uspa1245,yes,entonces ir-PART ART mujer PREP casa,entonces ir-PART ART mujer PREP casa
+st_test_uspa1245_417,uspa1245,no,entonces ir-PART ART mujer PREP casa,entonces ir-PART ART mujer PREP casa
+st_test_uspa1245_418,uspa1245,yes,ERG.3.SG-casa PART COM-ir-ERG.3.SG-escribir-SC unos papeles PART,ERG.3.SG-casa PART COM-DIR-ERG.3.SG-escribir-ERG.3.SG unos papel PART
+st_test_uspa1245_418,uspa1245,no,ERG.3.SG-casa PART COM-ir-ERG.3.SG-escribir-SC unos papeles PART,ERG.3.SG-casa PART COM-DIR-ERG.3.SG-escribir-ERG.3.SG unos papel PART
+st_test_uspa1245_419,uspa1245,yes,COM-venir ART mujer,COM-venir ART mujer
+st_test_uspa1245_419,uspa1245,no,COM-venir ART mujer,COM-venir ART mujer
+st_test_uspa1245_420,uspa1245,yes,ir,ir
+st_test_uspa1245_420,uspa1245,no,ir,ir
+st_test_uspa1245_421,uspa1245,yes,APPRX-ERG.1.SG-ver yo DEM ART PART ART Marimar,APPRX-ERG.1.SG-ver yo DEM ART ART ART Marimar
+st_test_uspa1245_421,uspa1245,no,APPRX-ERG.1.SG-ver yo DEM ART PART ART Marimar,APPRX-ERG.1.SG-ver yo DEM ART ART ART Marimar
+st_test_uspa1245_422,uspa1245,yes,COM-estar ERG.1.PL-N.REL antiguamente,COM-estar ERG.1.PL-N.REL antiguamente
+st_test_uspa1245_422,uspa1245,no,COM-estar ERG.1.PL-N.REL antiguamente,COM-estar ERG.1.PL-N.REL antiguamente
+st_test_uspa1245_423,uspa1245,yes,dice ART-ERG.3.SG mamá él/ella,decir ART-ERG.3.SG mamá él/ella
+st_test_uspa1245_423,uspa1245,no,dice ART-ERG.3.SG mamá él/ella,decir ART-ERG.3.SG mamá él/ella
+st_test_uspa1245_424,uspa1245,yes,no DEM NEG,no DEM NEG
+st_test_uspa1245_424,uspa1245,no,no DEM NEG,no DEM NEG
+st_test_uspa1245_425,uspa1245,yes,decir,decir
+st_test_uspa1245_425,uspa1245,no,decir,decir
+st_test_uspa1245_426,uspa1245,yes,dice,decir
+st_test_uspa1245_426,uspa1245,no,dice,decir
+st_test_uspa1245_427,uspa1245,yes,él/ella COM-venir PART ART,él/ella COM-venir PART ART
+st_test_uspa1245_427,uspa1245,no,él/ella COM-venir PART ART,él/ella COM-venir PART ART
+st_test_uspa1245_428,uspa1245,yes,COM-venir ART hombre,COM-venir ART hombre
+st_test_uspa1245_428,uspa1245,no,COM-venir ART hombre,COM-venir ART hombre
+st_test_uspa1245_429,uspa1245,yes,derrepente PART uno casa DEM,de@repente PART uno casa DEM
+st_test_uspa1245_429,uspa1245,no,derrepente PART uno casa DEM,de@repente PART uno casa DEM
+st_test_uspa1245_430,uspa1245,yes,dónde APPRX-estar ERG.2.SG-mamá,dónde APPRX-estar ERG.2.SG-mamá
+st_test_uspa1245_430,uspa1245,no,dónde APPRX-estar ERG.2.SG-mamá,dónde APPRX-estar ERG.2.SG-mamá
+st_test_uspa1245_431,uspa1245,yes,compañero ERG.2.SG-papá,compañero ERG.2.SG-papá
+st_test_uspa1245_431,uspa1245,no,compañero ERG.2.SG-papá,compañero ERG.2.SG-papá
+st_test_uspa1245_432,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_432,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_433,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_433,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_434,uspa1245,yes,decir ART,decir ART
+st_test_uspa1245_434,uspa1245,no,decir ART,decir ART
+st_test_uspa1245_435,uspa1245,yes,decir ART,decir ART
+st_test_uspa1245_435,uspa1245,no,decir ART,decir ART
+st_test_uspa1245_436,uspa1245,yes,ART angelica COM-DIR-estar PREP ERG.3.SG-casa,ART Angelica COM-DIR-estar PREP-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_436,uspa1245,no,ART angelica COM-DIR-estar PREP ERG.3.SG-casa,ART Angelica COM-DIR-estar PREP-ERG.3.SG ERG.3.SG-casa
+st_test_uspa1245_437,uspa1245,yes,APPRX-ERG.1.SG-ver yo DEM ART marimar,APPRX-ERG.1.SG-ver yo DEM ART Marimar
+st_test_uspa1245_437,uspa1245,no,APPRX-N.REL yo DEM ART marimar,APPRX-ERG.1.SG-ver yo DEM ART Marimar
+st_test_uspa1245_438,uspa1245,yes,porque EXS APPRX-enseñar-ANTIP PREP-ERG.3.SG rostro DEM-EMPH,porque EXS APPRX-enseñar-ANTIP PREP-ERG.3.SG cara DEM-EMPH
+st_test_uspa1245_438,uspa1245,no,porque EXS APPRX-enseñar-ANTIP PREP rostro DEM-EMPH,porque EXS APPRX-enseñar-ANTIP PREP-ERG.3.SG cara DEM-EMPH
+st_test_uspa1245_439,uspa1245,yes,dice ART Angelica él/ella ART Sergio,decir ART Angelica él/ella ART Sergio
+st_test_uspa1245_439,uspa1245,no,dice ART angelica él/ella ART Sergio,decir ART Angelica él/ella ART Sergio
+st_test_uspa1245_440,uspa1245,yes,DEM NEG,DEM NEG
+st_test_uspa1245_440,uspa1245,no,DEM NEG,DEM NEG
+st_test_uspa1245_441,uspa1245,yes,dice ART Sergio él/ella,decir ART Sergio él/ella
+st_test_uspa1245_441,uspa1245,no,dice ART Sergio él/ella,decir ART Sergio él/ella
+st_test_uspa1245_442,uspa1245,yes,COM-venir PART ART angelica,COM-venir PART ART Angelica
+st_test_uspa1245_442,uspa1245,no,COM-venir PART ART angelica,COM-venir PART ART Angelica
+st_test_uspa1245_443,uspa1245,yes,DEM DEM APPRX-enseñar-ANTIP PREP-??? venta-INS DEM-EMPH,DEM DEM APPRX-ver-ANTIP PREP-ERG.3.SG cara DEM-EMPH
+st_test_uspa1245_443,uspa1245,no,DEM DEM APPRX-enseñar-ANTIP PREP venta-INS DEM-EMPH,DEM DEM APPRX-ver-ANTIP PREP-ERG.3.SG cara DEM-EMPH
+st_test_uspa1245_444,uspa1245,yes,decir él/ella decir,decir él/ella dice
+st_test_uspa1245_444,uspa1245,no,decir él/ella decir,decir él/ella dice
+st_test_uspa1245_445,uspa1245,yes,él/ella ART DEM NEG,N.REL ART DEM NEG
+st_test_uspa1245_445,uspa1245,no,él/ella ART DEM NEG,N.REL ART DEM NEG
+st_test_uspa1245_446,uspa1245,yes,dice,decir
+st_test_uspa1245_446,uspa1245,no,dice,decir
+st_test_uspa1245_447,uspa1245,yes,PART ART Marimar,PART ART Marimar
+st_test_uspa1245_447,uspa1245,no,PART ART marima,PART ART Marimar
+st_test_uspa1245_448,uspa1245,yes,APPRX-ERG.3.SG-conocer-??? ERG.3.SG-N.REL,APPRX-ERG.3.SG-conocer-EMPH ERG.3.SG-cara
+st_test_uspa1245_448,uspa1245,no,APPRX-ERG.3.SG-conocer-??? ERG.3.SG-N.REL,APPRX-ERG.3.SG-conocer-EMPH ERG.3.SG-cara
+st_test_uspa1245_449,uspa1245,yes,decir,decir
+st_test_uspa1245_449,uspa1245,no,decir,decir
+st_test_uspa1245_450,uspa1245,yes,tú/usted,tú/usted
+st_test_uspa1245_450,uspa1245,no,tú/usted,tú/usted
+st_test_uspa1245_451,uspa1245,yes,tú/usted-SC DEM Angelica,tú/usted-EMPH DEM Angelica
+st_test_uspa1245_451,uspa1245,no,tú/usted-SC DEM Angelica,tú/usted-EMPH DEM Angelica
+st_test_uspa1245_452,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_452,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_453,uspa1245,yes,yo-EMPH,yo-EMPH
+st_test_uspa1245_453,uspa1245,no,yo-EMPH,yo-EMPH
+st_test_uspa1245_454,uspa1245,yes,decir,decir
+st_test_uspa1245_454,uspa1245,no,decir,decir
+st_test_uspa1245_455,uspa1245,yes,a,CONJ
+st_test_uspa1245_455,uspa1245,no,a,CONJ
+st_test_uspa1245_456,uspa1245,yes,decir ART Marimar él/ella,decir ART Marimar él/ella
+st_test_uspa1245_456,uspa1245,no,decir ART Marimar él/ella,decir ART Marimar él/ella
+st_test_uspa1245_457,uspa1245,yes,entonces tú/usted-EMPH ERG.2.SG-hijo-EMPH ART Sergio,entonces tú/usted-EMPH ERG.2.SG-hijo-EMPH ART Sergio
+st_test_uspa1245_457,uspa1245,no,entonces tú/usted-EMPH ERG.2.SG-hijo-EMPH ART Sergio,entonces tú/usted-EMPH ERG.2.SG-hijo-EMPH ART Sergio
+st_test_uspa1245_458,uspa1245,yes,ERG.1.SG-hijo-EMPH,ERG.1.SG-hijo-EMPH
+st_test_uspa1245_458,uspa1245,no,ERG.1.SG-hijo-EMPH,ERG.1.SG-hijo-EMPH
+st_test_uspa1245_459,uspa1245,yes,CONJ ERG.2.SG-esposo ART Renato,CONJ ERG.2.SG-esposo ART Renato
+st_test_uspa1245_459,uspa1245,no,CONJ ERG.2.SG-esposo ART Renato,CONJ ERG.2.SG-esposo ART Renato
+st_test_uspa1245_460,uspa1245,yes,ERG.1.SG-esposo-EMPH,ERG.1.SG-esposo-EMPH
+st_test_uspa1245_460,uspa1245,no,ERG.1.SG-esposo-EMPH,ERG.1.SG-esposo-EMPH
+st_test_uspa1245_461,uspa1245,yes,entonces tú/usted-EMPH DEM,entonces tú/usted-EMPH DEM
+st_test_uspa1245_461,uspa1245,no,entonces tú/usted-EMPH DEM,entonces tú/usted-EMPH DEM
+st_test_uspa1245_462,uspa1245,yes,tú/usted-EMPH DEM COM-ERG.2.SG-hacer PL dolor APPRX-N.REL antiguamente,tú/usted-EMPH DEM COM-ERG.2.SG-hacer PL daño APPRX-N.REL antiguamente
+st_test_uspa1245_462,uspa1245,no,tú/usted-SC DEM COM-ERG.2.SG-hacer PL dolor PREP-ERG.1.SG-N.REL antiguamente,tú/usted-EMPH DEM COM-ERG.2.SG-hacer PL daño APPRX-N.REL antiguamente
+st_test_uspa1245_463,uspa1245,yes,decir ART,decir ART
+st_test_uspa1245_463,uspa1245,no,decir ART,decir ART
+st_test_uspa1245_464,uspa1245,yes,decir ART Marimar él/ella,decir ART Marimar él/ella
+st_test_uspa1245_464,uspa1245,no,decir ART Marimar él/ella,decir ART Marimar él/ella
+st_test_uspa1245_465,uspa1245,yes,PART COM-oir ART angelica DEM DEM,PART COM-oir ART Angelica DEM DEM
+st_test_uspa1245_465,uspa1245,no,PART COM-oir ART angelica DEM DEM,PART COM-oir ART Angelica DEM DEM
+st_test_uspa1245_466,uspa1245,yes,arrodillar-ITR-SC,garabato-ITR-SC
+st_test_uspa1245_466,uspa1245,no,arrodillar-ITR-SC,garabato-ITR-SC
+st_test_uspa1245_467,uspa1245,yes,dios perdonar A1S-pecado,dios perdonar A1S-pecado
+st_test_uspa1245_467,uspa1245,no,Dios perdonar A1S-pecado,dios perdonar A1S-pecado
+st_test_uspa1245_468,uspa1245,yes,perdonar A1S-pecado nosotros-EMPH DEM COM-ERG.1.PL-hacer dolor APPRX-ERG.2.SG-N.REL,perdonar A1S-pecado somos-EMPH DEM COM-ERG.1.PL-hacer dolor APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_468,uspa1245,no,perdonar A1S-pecado nosotros-EMPH DEM COM-ERG.1.PL-hacer dolor APPRX-ERG.2.SG-N.REL,perdonar A1S-pecado somos-EMPH DEM COM-ERG.1.PL-hacer dolor APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_469,uspa1245,yes,pero hora perdonar ERG.1.PL-pecado,pero ahora perdonar ERG.1.PL-pecado
+st_test_uspa1245_469,uspa1245,no,pero hora perdonar ERG.1.PL-falta,pero ahora perdonar ERG.1.PL-pecado
+st_test_uspa1245_470,uspa1245,yes,decir,decir
+st_test_uspa1245_470,uspa1245,no,decir,decir
+st_test_uspa1245_471,uspa1245,yes,COM-venir COM-recibir,COM-venir COM-recibir
+st_test_uspa1245_471,uspa1245,no,COM-venir COM-recibir,COM-venir COM-recibir
+st_test_uspa1245_472,uspa1245,yes,arrodillar-ITR PREP-N.REL uno Marimar,garabato-ITR PREP-N.REL uno Marimar
+st_test_uspa1245_472,uspa1245,no,arrodillar-ITR PREP-N.REL uno Marimar,garabato-ITR PREP-N.REL uno Marimar
+st_test_uspa1245_473,uspa1245,yes,COM-recibir ERG.3.SG-mano,COM-recibir ERG.3.SG-mano
+st_test_uspa1245_473,uspa1245,no,COM-recibir ERG.3.SG-mano,COM-recibir ERG.3.SG-mano
+st_test_uspa1245_474,uspa1245,yes,besar ERG.3.SG-mano,oler ERG.3.SG-mano
+st_test_uspa1245_474,uspa1245,no,besar ERG.3.SG-mano,oler ERG.3.SG-mano
+st_test_uspa1245_475,uspa1245,yes,COM-besar ERG.3.SG-mano,COM-beso ERG.3.SG-mano
+st_test_uspa1245_475,uspa1245,no,COM-besar ERG.3.SG-mano,COM-beso ERG.3.SG-mano
+st_test_uspa1245_476,uspa1245,yes,compañero ERG.3.SG-pies Marimar,compañero ERG.3.SG-pies Marimar
+st_test_uspa1245_476,uspa1245,no,compañero ERG.3.SG-pies Marimar,compañero ERG.3.SG-pies Marimar
+st_test_uspa1245_477,uspa1245,yes,arrodillar-ITR PREP-N.REL,garaabto-ITR PREP-N.REL
+st_test_uspa1245_477,uspa1245,no,arrodillar-ITR PREP-N.REL,garaabto-ITR PREP-N.REL
+st_test_uspa1245_478,uspa1245,yes,no NEG APPRX-querer tú/usted arrodillar-ITR PREP-ERG.1.SG-N.REL,no NEG APPRX-ERG.1.SG-querer tú/usted garabato-ITR PREP-ERG.1.SG-N.REL
+st_test_uspa1245_478,uspa1245,no,no NEG APPRX-querer tú/usted arrodillar-ITR PREP-ERG.1.SG-N.REL,no NEG APPRX-ERG.1.SG-querer tú/usted garabato-ITR PREP-ERG.1.SG-N.REL
+st_test_uspa1245_479,uspa1245,yes,loque COM-hacer-EMPH,loque COM-hacer-EMPH
+st_test_uspa1245_479,uspa1245,no,loque COM-hacer-EMPH,loque COM-hacer-EMPH
+st_test_uspa1245_480,uspa1245,yes,loque COM-ERG.2.SG-hacer APPRX-N.REL yo,loque COM-ERG.2.SG-hacer APPRX-N.REL yo
+st_test_uspa1245_480,uspa1245,no,loque COM-ERG.2.SG-hacer APPRX-N.REL yo,loque COM-ERG.2.SG-hacer APPRX-N.REL yo
+st_test_uspa1245_481,uspa1245,yes,NEG APPRX-olvidar APPRX-N.REL,NEG APPRX-perder APPRX-N.REL
+st_test_uspa1245_481,uspa1245,no,NEG APPRX-perder APPRX-N.REL,NEG APPRX-perder APPRX-N.REL
+st_test_uspa1245_482,uspa1245,yes,CONJ yo NEG modo APPRX-perder APPRX-N.REL,CONJ yo NEG modo APPRX-perder APPRX-N.REL
+st_test_uspa1245_482,uspa1245,no,CONJ yo NEG modo APPRX-perder APPRX-N.REL,CONJ yo NEG modo APPRX-perder APPRX-N.REL
+st_test_uspa1245_483,uspa1245,yes,porque poco dolor COM-ERG.2.SG-hacer APPRX-N.REL,por-que poco dolor COM-ERG.2.SG-hacer APPRX-N.REL
+st_test_uspa1245_483,uspa1245,no,porque poco dolor COM-ERG.2.SG-hacer APPRX-N.REL,por-que poco dolor COM-ERG.2.SG-hacer APPRX-N.REL
+st_test_uspa1245_484,uspa1245,yes,decir ART Marimar él/ella,decir ART Marimar PART
+st_test_uspa1245_484,uspa1245,no,decir ART Marimar él/ella,decir ART Marimar PART
+st_test_uspa1245_485,uspa1245,yes,no perdonar ERG.1.SG-culpa,no perdonar A1S-pecado
+st_test_uspa1245_485,uspa1245,no,no perdonar ERG.1.SG-culpa,no perdonar A1S-pecado
+st_test_uspa1245_486,uspa1245,yes,perdonar ERG.1.SG-culpa,perdonar A1S-culpa
+st_test_uspa1245_486,uspa1245,no,perdonar A1S-culpa,perdonar A1S-culpa
+st_test_uspa1245_487,uspa1245,yes,APPRX-dice él/ella,APPRX-decir él/ella
+st_test_uspa1245_487,uspa1245,no,APPRX-dice él/ella,APPRX-decir él/ella
+st_test_uspa1245_488,uspa1245,yes,no levantar-IMP,no levantar-ANTIP
+st_test_uspa1245_488,uspa1245,no,no levantar-IMP,no levantar-ANTIP
+st_test_uspa1245_489,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_489,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_490,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_490,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_491,uspa1245,yes,decir,decir
+st_test_uspa1245_491,uspa1245,no,decir,decir
+st_test_uspa1245_492,uspa1245,yes,COM-levantar mejor APPRX-llorar APPRX-llorar,COM-levantar mejor llorar llorar
+st_test_uspa1245_492,uspa1245,no,COM-levantar mejor APPRX-llorar APPRX-llorar,COM-levantar mejor llorar llorar
+st_test_uspa1245_493,uspa1245,yes,COM-venir-EMPH COM-venir ART,COM-venir-EMPH COM-venir ART
+st_test_uspa1245_493,uspa1245,no,COM-venir-EMPH COM-venir ART,COM-venir-EMPH COM-venir ART
+st_test_uspa1245_494,uspa1245,yes,COM-venir ART Marimar,COM-venir ART Marimar
+st_test_uspa1245_494,uspa1245,no,COM-venir ART Marimar,COM-venir ART Marimar
+st_test_uspa1245_495,uspa1245,yes,esta@bien PART ERG.2.SG-trabajo-PL DEM,esta@bien aqui@esta ERG.2.SG-trabajo-PL DEM
+st_test_uspa1245_495,uspa1245,no,esta@bien PART ERG.2.SG-trabajo-PL DEM,esta@bien aqui@esta ERG.2.SG-trabajo-PL DEM
+st_test_uspa1245_496,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_496,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_497,uspa1245,yes,despacio despacio,despacio despacio
+st_test_uspa1245_497,uspa1245,no,despacio despacio,despacio despacio
+st_test_uspa1245_498,uspa1245,yes,como EXS PART ERG.3.SG-trabajo,como EXS PART ERG.3.SG-trabajo
+st_test_uspa1245_498,uspa1245,no,como EXS PART ERG.3.SG-trabajo,como EXS PART ERG.3.SG-trabajo
+st_test_uspa1245_499,uspa1245,yes,EXS PART ERG.3.SG-compañero ART Marimar,EXS PART ERG.3.SG-compañero ART Marimar
+st_test_uspa1245_499,uspa1245,no,EXS PART ERG.3.SG-compañero ART Marimar,EXS PART ERG.3.SG-compañero ART Marimar
+st_test_uspa1245_500,uspa1245,yes,EXS PART mucho ERG.3.SG-compañero persona,EXS PART crecer ERG.3.SG-compañero persona
+st_test_uspa1245_500,uspa1245,no,EXS PART mucho ERG.3.SG-compañero persona,EXS PART crecer ERG.3.SG-compañero persona
+st_test_uspa1245_501,uspa1245,yes,despacio COM-venir PART uno Marimar,despacio COM-venir PART uno Marimar
+st_test_uspa1245_501,uspa1245,no,despacio COM-venir PART uno Marimar,despacio COM-venir PART uno Marimar
+st_test_uspa1245_502,uspa1245,yes,COM-buscar uno mozo,COM-buscar uno moso
+st_test_uspa1245_502,uspa1245,no,COM-buscar uno lomoso,COM-buscar uno moso
+st_test_uspa1245_503,uspa1245,yes,COM-buscar uno mozo,COM-buscar uno moso
+st_test_uspa1245_503,uspa1245,no,COM-buscar uno lomoso,COM-buscar uno moso
+st_test_uspa1245_504,uspa1245,yes,COM-mandar PART ART-ERG.3.SG lomoso,COM-mandar PART ART-ERG.3.SG moso
+st_test_uspa1245_504,uspa1245,no,COM-mandar PART ART-ERG.3.SG lomos,COM-mandar PART ART-ERG.3.SG moso
+st_test_uspa1245_505,uspa1245,yes,DIR-buscar-SC lodo COM-fuerza PART,va-buscar-SC unos lodo PART
+st_test_uspa1245_505,uspa1245,no,N.REL-buscar-SC lodo COM-fuerza PART,va-buscar-SC unos lodo PART
+st_test_uspa1245_506,uspa1245,yes,CONJ COM-venir PART él/ella,CONJ COM-venir PART él/ella
+st_test_uspa1245_506,uspa1245,no,CONJ COM-venir PART él/ella,CONJ COM-venir PART él/ella
+st_test_uspa1245_507,uspa1245,yes,COM-tirar PART,COM-tirar PART
+st_test_uspa1245_507,uspa1245,no,COM-tirar PART,COM-tirar PART
+st_test_uspa1245_508,uspa1245,yes,COM-hacer PART ERG.3.SG-mismo PART él/ella ART angelicale,COM-hacer PART ERG.3.SG-tuco PART él/ella ART Angelica
+st_test_uspa1245_508,uspa1245,no,COM-hacer PART ERG.3.SG-mismo PART él/ella ART angelicale,COM-hacer PART ERG.3.SG-tuco PART él/ella ART Angelica
+st_test_uspa1245_509,uspa1245,yes,INT modo COM-hacer ART Angelica él/ella antiguamente,INT modo COM-hacer ART Angelica él/ella antiguamente
+st_test_uspa1245_509,uspa1245,no,INT modo COM-hacer ART Angelica él/ella antiguamente,INT modo COM-hacer ART Angelica él/ella antiguamente
+st_test_uspa1245_510,uspa1245,yes,cuando EXS ERG.3.SG-N.REL ART Sergio,cuando EXS ERG.3.SG-N.REL ART Sergio
+st_test_uspa1245_510,uspa1245,no,cuando EXS ERG.3.SG-N.REL ART Sergio,cuando EXS ERG.3.SG-N.REL ART Sergio
+st_test_uspa1245_511,uspa1245,yes,entonces ART Marimar COM-hacer PART ERG.3.SG-hacer-PP él/ella ART ART angelica,entonces ART Marimar COM-hacer PART ERG.3.SG-tuco él/ella ART ART Angelica
+st_test_uspa1245_511,uspa1245,no,entonces ART Marimar COM-hacer PART ERG.3.SG-hacer-PP él/ella ART ART angelica,entonces ART Marimar COM-hacer PART ERG.3.SG-tuco él/ella ART ART Angelica
+st_test_uspa1245_512,uspa1245,yes,INT-modo COM-hacer-PASS él/ella,INT-modo COM-hacer-PASS él/ella
+st_test_uspa1245_512,uspa1245,no,INT-modo COM-hacer-PASS él/ella,INT-modo COM-hacer-PASS él/ella
+st_test_uspa1245_513,uspa1245,yes,CONJ él/ella ERG.3.SG-solo NEG PART-EMPH ART ERG.3.SG-solo NEG PART-EMPH,CONJ él/ella ERG.3.SG-solo NEG PART-EMPH ART ERG.3.SG-solo NEG PART-EMPH
+st_test_uspa1245_513,uspa1245,no,CONJ él/ella ERG.3.SG-solo NEG PART-EMPH ART ERG.3.SG-solo NEG PART-EMPH,CONJ él/ella ERG.3.SG-solo NEG PART-EMPH ART ERG.3.SG-solo NEG PART-EMPH
+st_test_uspa1245_514,uspa1245,yes,INT-modo COM-hacer loque ART COM-hacer ART angelica él/ella,INT-modo COM-hacer loque ART COM-hacer ART Angelica él/ella
+st_test_uspa1245_514,uspa1245,no,INT-modo COM-hacer loque ART COM-hacer ART Angelica él/ella,INT-modo COM-hacer loque ART COM-hacer ART Angelica él/ella
+st_test_uspa1245_515,uspa1245,yes,si no que él/ella COM-hacer invitar todo ART ERG.3.SG-compañero licenciado,si no que él/ella COM-hacer invitar todo ART ERG.3.SG-compañero licenciado
+st_test_uspa1245_515,uspa1245,no,si no que él/ella COM-hacer invitar todo ART ERG.3.SG-compañero licenciado,si no que él/ella COM-hacer invitar todo ART ERG.3.SG-compañero licenciado
+st_test_uspa1245_516,uspa1245,yes,todo PREP-N.REL todo todo persona,todo PREP-N.REL todo todo persona
+st_test_uspa1245_516,uspa1245,no,todo PREP-N.REL todo todo persona,todo PREP-N.REL todo todo persona
+st_test_uspa1245_517,uspa1245,yes,loque loque COM-hacer ART Angelica él/ella,loque-COM loque COM-hacer ART Angelica él/ella
+st_test_uspa1245_517,uspa1245,no,loque loque COM-hacer ART Angelica él/ella,loque-COM loque COM-hacer ART Angelica él/ella
+st_test_uspa1245_518,uspa1245,yes,yo APPRX-A1S-hacer PART él/ella,yo APPRX-ERG.1.SG-hacer PART él/ella
+st_test_uspa1245_518,uspa1245,no,yo APPRX-A1S-hacer PART él/ella,yo APPRX-ERG.1.SG-hacer PART él/ella
+st_test_uspa1245_519,uspa1245,yes,decir él/ella,decir él/ella
+st_test_uspa1245_519,uspa1245,no,decir él/ella,decir él/ella
+st_test_uspa1245_520,uspa1245,yes,COM-hacer PART invotar,COM-hacer PART invitar
+st_test_uspa1245_520,uspa1245,no,COM-hacer PART invotar,COM-hacer PART invitar
+st_test_uspa1245_521,uspa1245,yes,COM-venir él/ella,COM-venir él/ella
+st_test_uspa1245_521,uspa1245,no,COM-venir él/ella,COM-venir él/ella
+st_test_uspa1245_522,uspa1245,yes,COM-decir él/ella persona,COM-decir PART persona
+st_test_uspa1245_522,uspa1245,no,COM-decir él/ella persona,COM-decir PART persona
+st_test_uspa1245_523,uspa1245,yes,DEM-DEM COM-hacer ART mujer DEM PREP-N.REL antiguamente,DEM-DEM COM-hacer ART mujer DEM PREP-N.REL antiguamente
+st_test_uspa1245_523,uspa1245,no,DEM-DEM COM-hacer ART mujer DEM APPRX-N.REL antiguamente,DEM-DEM COM-hacer ART mujer DEM PREP-N.REL antiguamente
+st_test_uspa1245_524,uspa1245,yes,cuando yo pequeño COM-ERG.1.SG-ir ERG.3.SG-N.REL ART ERG.3.SG-hijo,cuando yo pequeño COM-ERG.1.SG-ir ERG.3.SG-N.REL ART ERG.3.SG-hijo
+st_test_uspa1245_524,uspa1245,no,cuando yo pequeño COM-ERG.1.SG-ir ERG.3.SG-N.REL ART ERG.3.SG-hijo,cuando yo pequeño COM-ERG.1.SG-ir ERG.3.SG-N.REL ART ERG.3.SG-hijo
+st_test_uspa1245_525,uspa1245,yes,AFI DEM COM-hacer APPRX-N.REL,DEM DEM COM-hacer PREP-N.REL
+st_test_uspa1245_525,uspa1245,no,AFI DEM COM-hacer APPRX-N.REL,DEM DEM COM-hacer PREP-N.REL
+st_test_uspa1245_526,uspa1245,yes,CONJ hora APPRX-ERG.1.SG-hacer yo ERG.3.SG-mismo él/ella,CONJ ahora APPRX-ERG.1.SG-hacer yo ERG.3.SG-tuco él/ella
+st_test_uspa1245_526,uspa1245,no,CONJ hora APPRX-A1S-hacer yo ERG.3.SG-mismo él/ella,CONJ ahora APPRX-ERG.1.SG-hacer yo ERG.3.SG-tuco él/ella
+st_test_uspa1245_527,uspa1245,yes,pero??? PART-EMPH,pero ERG.1.SG-sola-NEG PART-EMPH
+st_test_uspa1245_527,uspa1245,no,pero solo-NEG PART-EMPH,pero ERG.1.SG-sola-NEG PART-EMPH
+st_test_uspa1245_528,uspa1245,yes,yo APPRX-ERG.1.SG-hacer,yo APPRX-ERG.1.SG-hacer
+st_test_uspa1245_528,uspa1245,no,yo APPRX-ERG.1.SG-hacer,yo APPRX-ERG.1.SG-hacer
+st_test_uspa1245_529,uspa1245,yes,yo PREP-N.REL,yo PREP-N.REL
+st_test_uspa1245_529,uspa1245,no,yo PREP-N.REL,yo PREP-N.REL
+st_test_uspa1245_530,uspa1245,yes,no@que PREP-ERG.2.SG-N.REL A2S-PL todo,no@que PREP-ERG.2.SG-N.REL E2P-PL todo
+st_test_uspa1245_530,uspa1245,no,no@que PREP-ERG.2.SG-N.REL E2P-PL todo,no@que PREP-ERG.2.SG-N.REL E2P-PL todo
+st_test_uspa1245_531,uspa1245,yes,??? PL INT modo COM-hacer yo APPRX-N.REL,APPRX-ERG.2.SG-ver PL INT modo COM-hacer yo APPRX-N.REL
+st_test_uspa1245_531,uspa1245,no,APPRX-ERG.2.SG-ver PL INT modo COM-hacer yo APPRX-N.REL,APPRX-ERG.2.SG-ver PL INT modo COM-hacer yo APPRX-N.REL
+st_test_uspa1245_532,uspa1245,yes,decir,decir
+st_test_uspa1245_532,uspa1245,no,decir,decir
+st_test_uspa1245_533,uspa1245,yes,CONJ hora APPRX-ERG.1.SG-EMPH ERG.3.SG-hacer él/ella,CONJ hora APPRX-ERG.1.SG-hacer ERG.3.SG-tuco él/ella
+st_test_uspa1245_533,uspa1245,no,CONJ hora APPRX-ERG.1.SG-EMPH ERG.3.SG-recordar-PP él/ella,CONJ hora APPRX-ERG.1.SG-hacer ERG.3.SG-tuco él/ella
+st_test_uspa1245_534,uspa1245,yes,decir,decir
+st_test_uspa1245_534,uspa1245,no,decir,decir
+st_test_uspa1245_535,uspa1245,yes,decir ART Marimar,decir ART Marimar
+st_test_uspa1245_535,uspa1245,no,decir ART Marimar,decir ART Marimar
+st_test_uspa1245_536,uspa1245,yes,COM-venir PART él/ella,COM-venir PART él/ella
+st_test_uspa1245_536,uspa1245,no,COM-venir PART él/ella,COM-venir PART él/ella
+st_test_uspa1245_537,uspa1245,yes,COM-tirar PART unos,COM-tirar PART unos
+st_test_uspa1245_537,uspa1245,no,COM-tirar PART unos,COM-tirar PART unos
+st_test_uspa1245_538,uspa1245,yes,uno collar uno collar,uno collar uno collar
+st_test_uspa1245_538,uspa1245,no,uno collar uno collar,uno collar uno collar
+st_test_uspa1245_539,uspa1245,yes,compañero algunos cosas PART PREP N.REL-lodo,compañero unos cosas PART PREP lodo
+st_test_uspa1245_539,uspa1245,no,compañero algunos cosas PART PREP N.REL-lodo-PP,compañero unos cosas PART PREP lodo
+st_test_uspa1245_540,uspa1245,yes,APPRX-ERG.2.SG-sacar-SC ART collar DEM,APPRX-ERG.2.SG-sacar-PASS ART collar DEM
+st_test_uspa1245_540,uspa1245,no,APPRX-ERG.2.SG-sacar-SC ART collar DEM,APPRX-ERG.2.SG-sacar-PASS ART collar DEM
+st_test_uspa1245_541,uspa1245,yes,CONJ APPRX-ERG.2.SG-sentir-SC enseñar,CONJ APPRX-ERG.2.SG-sentir-SC PART
+st_test_uspa1245_541,uspa1245,no,CONJ APPRX-ERG.2.SG-sentir-SC enseñar,CONJ APPRX-ERG.2.SG-sentir-SC PART
+st_test_uspa1245_542,uspa1245,yes,loque NEG bueno COM-ERG.2.SG-hacer APPRX-ERG.1.SG-N.REL-EMPH,loque NEG bueno COM-ERG.2.SG-hacer PREP-ERG.1.SG-N.REL-yo
+st_test_uspa1245_542,uspa1245,no,loque NEG bueno COM-ERG.2.SG-hacer PREP-ERG.1.SG-yo,loque NEG bueno COM-ERG.2.SG-hacer PREP-ERG.1.SG-N.REL-yo
+st_test_uspa1245_543,uspa1245,yes,CONJ APPRX-ERG.2.SG-sentir-SC enseñar NEG dolor COM-ERG.2.SG-hacer APPRX-ERG.1.SG-N.REL-EMPH,CONJ APPRX-ERG.2.SG-sentir-SC PART NEG dolor COM-ERG.2.SG-hacer PREP-ERG.1.SG-N.REL-yo
+st_test_uspa1245_543,uspa1245,no,CONJ APPRX-ERG.2.SG-sentir-SC enseñar NEG dolor COM-ERG.2.SG-hacer PREP-ERG.1.SG-N.REL-yo,CONJ APPRX-ERG.2.SG-sentir-SC PART NEG dolor COM-ERG.2.SG-hacer PREP-ERG.1.SG-N.REL-yo
+st_test_uspa1245_544,uspa1245,yes,decir ART Marimar él/ella,decir ART Marimar él/ella
+st_test_uspa1245_544,uspa1245,no,decir ART Marimar él/ella,decir ART Marimar él/ella
+st_test_uspa1245_545,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_545,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_546,uspa1245,yes,decir,decir
+st_test_uspa1245_546,uspa1245,no,decir,decir
+st_test_uspa1245_547,uspa1245,yes,COM-decir hablar-SC PL Marimar,COM-decir hablarle-ERG.3.SG PL Marimar
+st_test_uspa1245_547,uspa1245,no,COM-DIR-ERG.3.SG hablar-SC PL Marimar,COM-decir hablarle-ERG.3.SG PL Marimar
+st_test_uspa1245_548,uspa1245,yes,compañía ART-ERG.3.SG ERG.3.SG-esposo,compañero ART-ERG.3.SG ERG.3.SG-esposo
+st_test_uspa1245_548,uspa1245,no,compañía ART-ERG.3.SG ERG.3.SG-esposo,compañero ART-ERG.3.SG ERG.3.SG-esposo
+st_test_uspa1245_549,uspa1245,yes,INT-modo APPRX-ERG.2.SG-hacer PART ERG.1.SG-mamá DEM DEM,INT-modo APPRX-ERG.2.SG-hacer él/ella ERG.1.SG-mamá DEM DEM
+st_test_uspa1245_549,uspa1245,no,INT-modo APPRX-ERG.2.SG-hacer PART ERG.1.SG-mamá DEM DEM,INT-modo APPRX-ERG.2.SG-hacer él/ella ERG.1.SG-mamá DEM DEM
+st_test_uspa1245_550,uspa1245,yes,perdonar ERG.3.SG-pecado,perdonar ERG.3.SG-pecado
+st_test_uspa1245_550,uspa1245,no,perdonar ERG.3.SG-pecado,perdonar ERG.3.SG-pecado
+st_test_uspa1245_551,uspa1245,yes,perdonar ERG.3.SG-pecado,perder ERG.3.SG-pecado
+st_test_uspa1245_551,uspa1245,no,perdonar ERG.3.SG-pecado,perder ERG.3.SG-pecado
+st_test_uspa1245_552,uspa1245,yes,él/ella NEG ERG.3.SG-conocimiento loque COM-hacer APPRX-ERG.2.SG-N.REL antiguamente,él/ella NEG ERG.3.SG-conocimiento loque COM-hacer APPRX-ERG.2.SG-N.REL antiguamente
+st_test_uspa1245_552,uspa1245,no,él/ella NEG ERG.3.SG-conocimiento loque COM-hacer APPRX-ERG.2.SG-N.REL antiguamente,él/ella NEG ERG.3.SG-conocimiento loque COM-hacer APPRX-ERG.2.SG-N.REL antiguamente
+st_test_uspa1245_553,uspa1245,yes,pero hora perdonar ERG.1.PL-pecado,pero ahora perdonar ERG.1.PL-pecado
+st_test_uspa1245_553,uspa1245,no,pero hora perdonar ERG.1.PL-pecado,pero ahora perdonar ERG.1.PL-pecado
+st_test_uspa1245_554,uspa1245,yes,arrodillar-ITR PL PREP-N.REL,garabato-ITR PL PREP-N.REL
+st_test_uspa1245_554,uspa1245,no,arrodillar-ITR PL enfrente@de,garabato-ITR PL PREP-N.REL
+st_test_uspa1245_555,uspa1245,yes,dice,decir
+st_test_uspa1245_555,uspa1245,no,dice,decir
+st_test_uspa1245_556,uspa1245,yes,no NEG APPRX-A1S-perdonar ERG.2.SG-pecado-PL,no NEG APPRX-ERG.1.SG-perdonar ERG.2.SG-pecado-PL
+st_test_uspa1245_556,uspa1245,no,no NEG APPRX-ERG.1.SG-perdonar ERG.2.SG-pecado-PL,no NEG APPRX-ERG.1.SG-perdonar ERG.2.SG-pecado-PL
+st_test_uspa1245_557,uspa1245,yes,porque poco dolor COM-ERG.2.SG-hacer PL PREP-N.REL,por-que poco dolor COM-ERG.2.SG-hacer PL APPRX-N.REL
+st_test_uspa1245_557,uspa1245,no,porque poco dolor COM-ERG.2.SG-hacer PL APPRX-N.REL,por-que poco dolor COM-ERG.2.SG-hacer PL APPRX-N.REL
+st_test_uspa1245_558,uspa1245,yes,CONJ asta COM-ERG.2.SG-quemar-EMPH PL AFE ERG.1.SG-papá,CONJ asta COM-ERG.2.SG-quemar-EMPH PL AFE A1S-papá
+st_test_uspa1245_558,uspa1245,no,CONJ asta COM-ERG.2.SG-quemar-EMPH PL AFE ERG.1.SG-papá,CONJ asta COM-ERG.2.SG-quemar-EMPH PL AFE A1S-papá
+st_test_uspa1245_559,uspa1245,yes,CONJ AFE ERG.1.SG-abuelo,CONJ AFE ERG.1.SG-abuelo
+st_test_uspa1245_559,uspa1245,no,CONJ AFE ERG.1.SG-abuelo,CONJ AFE ERG.1.SG-abuelo
+st_test_uspa1245_560,uspa1245,yes,poco ya viejo PART,poco ya viejo PART
+st_test_uspa1245_560,uspa1245,no,poco ya viejo PART,poco ya viejo PART
+st_test_uspa1245_561,uspa1245,yes,COM-DIR-ERG.2.SG-quemar-EMPH PL ERG.3.SG-casa,COM-ERG.2.SG-quemar-EMPH PL ERG.3.SG-casa
+st_test_uspa1245_561,uspa1245,no,COM-ERG.2.SG-quemar-EMPH PL ERG.3.SG-casa,COM-ERG.2.SG-quemar-EMPH PL ERG.3.SG-casa
+st_test_uspa1245_562,uspa1245,yes,para que loque APPRX-ERG.2.SG-hacer PL PREP-ERG.1.SG-N.REL-EMPH,para que loque APPRX-ERG.2.SG-hacer PL APPRX-N.REL-yo
+st_test_uspa1245_562,uspa1245,no,para que loque APPRX-ERG.2.SG-hacer PL PREP-ERG.1.SG-N.REL-yo,para que loque APPRX-ERG.2.SG-hacer PL APPRX-N.REL-yo
+st_test_uspa1245_563,uspa1245,yes,NEG APPRX-ERG.3.SG-ver ellos/ellas,NEG APPRX-ERG.3.SG-ver ellos/ellas
+st_test_uspa1245_563,uspa1245,no,NEG APPRX-ERG.3.SG-ver ellos/ellas,NEG APPRX-ERG.3.SG-ver ellos/ellas
+st_test_uspa1245_564,uspa1245,yes,NEG APPRX-ERG.3.SG-ver ellos/ellas,NEG APPRX-ERG.3.SG-ver ellos/ellas
+st_test_uspa1245_564,uspa1245,no,NEG APPRX-ERG.3.SG-ver ellos/ellas,NEG APPRX-ERG.3.SG-ver ellos/ellas
+st_test_uspa1245_565,uspa1245,yes,COM-ERG.2.SG-quemar-EMPH ERG.3.SG-casa AFE ERG.1.SG-abuelo,COM-ERG.2.SG-quemar-EMPH ERG.3.SG-casa AFE A1S-abuelo
+st_test_uspa1245_565,uspa1245,no,COM-ERG.2.SG-quemar-EMPH ERG.3.SG-casa AFE ERG.1.SG-abuelo,COM-ERG.2.SG-quemar-EMPH ERG.3.SG-casa AFE A1S-abuelo
+st_test_uspa1245_566,uspa1245,yes,todo asta COM-quemar-PL PREP fuego,todo ests COM-quemar-PL PREP fuego
+st_test_uspa1245_566,uspa1245,no,todo asta COM-quemar-PL PREP fuego,todo ests COM-quemar-PL PREP fuego
+st_test_uspa1245_567,uspa1245,yes,poco dolor COM-ERG.2.SG-hacer PL él/ella,poco dolor COM-ERG.2.SG-hacer PL él/ella
+st_test_uspa1245_567,uspa1245,no,poco dolor COM-ERG.2.SG-hacer PL él/ella,poco dolor COM-ERG.2.SG-hacer PL él/ella
+st_test_uspa1245_568,uspa1245,yes,COM-ERG.2.SG-morir-PASS PL ERG.1.SG-abuelo,COM-ERG.2.SG-morir-PASS PL A1S-abuelo
+st_test_uspa1245_568,uspa1245,no,COM-ERG.2.SG-morir-PASS PL ERG.1.SG-abuelo,COM-ERG.2.SG-morir-PASS PL A1S-abuelo
+st_test_uspa1245_569,uspa1245,yes,todo,todo
+st_test_uspa1245_569,uspa1245,no,todo,todo
+st_test_uspa1245_570,uspa1245,yes,dice ART Marimar ellos/ellas,decir ART Marimar ellos/ellas
+st_test_uspa1245_570,uspa1245,no,dice ART Marimar ellos/ellas,decir ART Marimar ellos/ellas
+st_test_uspa1245_571,uspa1245,yes,no perdonar ERG.1.PL-pecado,no perdonar ERG.1.PL-pecado
+st_test_uspa1245_571,uspa1245,no,no perdonar ERG.1.PL-pecado,no perdonar ERG.1.PL-pecado
+st_test_uspa1245_572,uspa1245,yes,perdonar ERG.1.PL-pecado,perdonar ERG.1.PL-pecado
+st_test_uspa1245_572,uspa1245,no,perdonar ERG.1.PL-pecado,perdonar ERG.1.PL-pecado
+st_test_uspa1245_573,uspa1245,yes,dice PL él/ella,decir PL él/ella
+st_test_uspa1245_573,uspa1245,no,dice PL él/ella,decir PL él/ella
+st_test_uspa1245_574,uspa1245,yes,NEG ahora poco COM-ERG.2.SG-morir-PASS PL ERG.1.SG-abuelo,no ahora poco COM-ERG.2.SG-morir-PASS PL A1S-abuelo
+st_test_uspa1245_574,uspa1245,no,NEG ahora poco COM-ERG.2.SG-morir-PASS PL ERG.1.SG-abuelo,no ahora poco COM-ERG.2.SG-morir-PASS PL A1S-abuelo
+st_test_uspa1245_575,uspa1245,yes,ERG.1.SG-abuela,A1S-abuela
+st_test_uspa1245_575,uspa1245,no,ERG.1.SG-abuela,A1S-abuela
+st_test_uspa1245_576,uspa1245,yes,todo PREP casa,todo PREP casa
+st_test_uspa1245_576,uspa1245,no,todo PREP casa,todo PREP casa
+st_test_uspa1245_577,uspa1245,yes,CONJ COM-ERG.2.SG-quemar-PL ERG.3.SG-casa,CONJ COM-ERG.2.SG-quemar-PL ERG.3.SG-casa
+st_test_uspa1245_577,uspa1245,no,CONJ COM-ERG.2.SG-quemar-PL ERG.3.SG-casa,CONJ COM-ERG.2.SG-quemar-PL ERG.3.SG-casa
+st_test_uspa1245_578,uspa1245,yes,CONJ cuando COM-morir ellos/ellas,CONJ cuando COM-morir ellos/ellas
+st_test_uspa1245_578,uspa1245,no,CONJ cuando COM-morir ellos/ellas,CONJ cuando COM-morir ellos/ellas
+st_test_uspa1245_579,uspa1245,yes,COM-ERG.2.SG-hacer PL dolor APPRX-ERG.1.SG-N.REL-EMPH,COM-ERG.2.SG-hacer PL dolor APPRX-ERG.1.SG-N.REL-yo
+st_test_uspa1245_579,uspa1245,no,COM-ERG.2.SG-hacer PL daño PREP-N.REL-yo,COM-ERG.2.SG-hacer PL dolor APPRX-ERG.1.SG-N.REL-yo
+st_test_uspa1245_580,uspa1245,yes,decir ART Marimar,decir ART Marimar
+st_test_uspa1245_580,uspa1245,no,decir ART Marimar,decir ART Marimar
+st_test_uspa1245_581,uspa1245,yes,CONJ CONJ ahora sentar-SC PL enseñar INT modo COM-ERG.2.SG-hacer PL APPRX-ERG.1.SG-N.REL,CONJ a ahora sentir PL PART INT modo COM-ERG.2.SG-hacer PL APPRX-N.REL
+st_test_uspa1245_581,uspa1245,no,CONJ CONJ hora sentar-SC PL enseñar INT modo COM-ERG.2.SG-hacer PL APPRX-N.REL,CONJ a ahora sentir PL PART INT modo COM-ERG.2.SG-hacer PL APPRX-N.REL
+st_test_uspa1245_582,uspa1245,yes,sacar-SC PL ART decir él/ella,sacar-PASS PL ART nombre él/ella
+st_test_uspa1245_582,uspa1245,no,sacar-SC PL ART decir él/ella,sacar-PASS PL ART nombre él/ella
+st_test_uspa1245_583,uspa1245,yes,ERG.2.SG-mamá APPRX-ERG.3.SG-saque-PASS ART tierra DEM collar@de@lodo,ERG.2.SG-mamá APPRX-ERG.3.SG-sacar-PASS ART collar PREP lodo
+st_test_uspa1245_583,uspa1245,no,ERG.2.SG-mamá APPRX-ERG.3.SG-saqcar-SC ART tierra DEM N.REL-collar-AGT,ERG.2.SG-mamá APPRX-ERG.3.SG-sacar-PASS ART collar PREP lodo
+st_test_uspa1245_584,uspa1245,yes,esta@bien,bueno
+st_test_uspa1245_584,uspa1245,no,esta@bien,bueno
+st_test_uspa1245_585,uspa1245,yes,dios perdonar A1S-pecado,dios perdonar A1S-pecado
+st_test_uspa1245_585,uspa1245,no,Dios perdonar ERG.1.SG-pecado,dios perdonar A1S-pecado
+st_test_uspa1245_586,uspa1245,yes,yo NEG ERG.1.SG-conocimiento loque COM-ERG.1.SG-hacer APPRX-ERG.2.SG-N.REL,yo NEG ERG.1.SG-conocimiento loque COM-A1S-hacer PREP-ERG.2.SG-N.REL
+st_test_uspa1245_586,uspa1245,no,yo NEG ERG.1.SG-conocimiento loque COM-ERG.1.SG-hacer APPRX-ERG.2.SG-N.REL,yo NEG ERG.1.SG-conocimiento loque COM-A1S-hacer PREP-ERG.2.SG-N.REL
+st_test_uspa1245_587,uspa1245,yes,no sacar-SC,no sacar-PASS
+st_test_uspa1245_587,uspa1245,no,no sacar-SC,no sacar-PASS
+st_test_uspa1245_588,uspa1245,yes,CONJ ya-estubo,CONJ ya-estubo
+st_test_uspa1245_588,uspa1245,no,CONJ ya@estubo,CONJ ya-estubo
+st_test_uspa1245_589,uspa1245,yes,dice ART Marimar,decir ART Marimar
+st_test_uspa1245_589,uspa1245,no,dice ART Marimar,decir ART Marimar
+st_test_uspa1245_590,uspa1245,yes,bueno,bueno
+st_test_uspa1245_590,uspa1245,no,bueno,bueno
+st_test_uspa1245_591,uspa1245,yes,decir ART angelica,decir ART Angelica
+st_test_uspa1245_591,uspa1245,no,decir ART angelica,decir ART Angelica
+st_test_uspa1245_592,uspa1245,yes,arrodillar-ITR,garabato-ITR
+st_test_uspa1245_592,uspa1245,no,arrodillar-ITR,garabato-ITR
+st_test_uspa1245_593,uspa1245,yes,buscar APPRX-llorar PREP-ERG.3.SG-sacar-PASS ART collar DEM N.REL-lodo,buscar APPRX-llorar APPRX-ERG.3.SG-sacar-PASS ART collar PREP lodo
+st_test_uspa1245_593,uspa1245,no,buscar APPRX-llorar APPRX-ERG.3.SG-sacar-SC ART collar DEM N.REL-lodo,buscar APPRX-llorar APPRX-ERG.3.SG-sacar-PASS ART collar PREP lodo
+st_test_uspa1245_594,uspa1245,yes,terminar-SAB ERG.3.SG-embarrar-INS PREP-N.REL persona,terminar-SAB ERG.3.SG-cara PREP-N.REL persona
+st_test_uspa1245_594,uspa1245,no,PL-PART ERG.3.SG-embarrar-INS PREP-N.REL persona,terminar-SAB ERG.3.SG-cara PREP-N.REL persona
+st_test_uspa1245_595,uspa1245,yes,APPRX-entrar ERG.3.SG-nariz PREP lodo,APPRX-meter ERG.3.SG-nariz PREP lodo
+st_test_uspa1245_595,uspa1245,no,APPRX-entrar ERG.3.SG-nariz PREP N.REL-lodo,APPRX-meter ERG.3.SG-nariz PREP lodo
+st_test_uspa1245_596,uspa1245,yes,APPRX-ERG.3.SG-sacar-PASS ART collar DEM lodo,APPRX-ERG.3.SG-sacar-PASS ART collar PREP lodo
+st_test_uspa1245_596,uspa1245,no,APPRX-ERG.3.SG-sacar-SC ART collar DEM N.REL-lodo,APPRX-ERG.3.SG-sacar-PASS ART collar PREP lodo
+st_test_uspa1245_597,uspa1245,yes,entonces COM-venir ART,entonces COM-venir ART
+st_test_uspa1245_597,uspa1245,no,entonces COM-venir ART,entonces COM-venir ART
+st_test_uspa1245_598,uspa1245,yes,COM-venir ART,COM-venir ART
+st_test_uspa1245_598,uspa1245,no,COM-venir ART,COM-venir ART
+st_test_uspa1245_599,uspa1245,yes,entonces ART angelica APPRX-ERG.3.SG-sacar-PASS,entonces ART Angelica APPRX-ERG.3.SG-sacar-PASS
+st_test_uspa1245_599,uspa1245,no,entonces ART angelica APPRX-ERG.3.SG-sacar-SC,entonces ART Angelica APPRX-ERG.3.SG-sacar-PASS
+st_test_uspa1245_600,uspa1245,yes,??? ART lodo PREP-ERG.3.SG-cara,menear-SC ART lodo PREP-ERG.3.SG-cara
+st_test_uspa1245_600,uspa1245,no,??? ART lodo PREP-ERG.3.SG-cara,menear-SC ART lodo PREP-ERG.3.SG-cara
+st_test_uspa1245_601,uspa1245,yes,APPRX-ERG.3.SG-sacar-PASS,APPRX-ERG.3.SG-sacar-PASS
+st_test_uspa1245_601,uspa1245,no,APPRX-E3-sacar-SC,APPRX-ERG.3.SG-sacar-PASS
+st_test_uspa1245_602,uspa1245,yes,??? ART lodo PREP-??? cara,menear-SC ART lodo PREP-ERG.3.SG cara
+st_test_uspa1245_602,uspa1245,no,??? ART lodo PREP cara,menear-SC ART lodo PREP-ERG.3.SG cara
+st_test_uspa1245_603,uspa1245,yes,APPRX-ERG.3.SG-sacar-PASS ART collar PREP-N.REL persona,APPRX-ERG.3.SG-sacar-PASS ART collar PREP-N.REL persona
+st_test_uspa1245_603,uspa1245,no,APPRX-ERG.3.SG-sacar-SC ART collar PREP-N.REL persona,APPRX-ERG.3.SG-sacar-PASS ART collar PREP-N.REL persona
+st_test_uspa1245_604,uspa1245,yes,CONJ PART ART ERG.3.SG-compañero ERG.3.SG-compañero ART Marimar,CONJ PART ART ERG.3.SG-compañero ERG.3.SG-compañero ART Marimar
+st_test_uspa1245_604,uspa1245,no,CONJ PART ART ERG.3.SG-compañero ERG.3.SG-compañero ART Marimar,CONJ PART ART ERG.3.SG-compañero ERG.3.SG-compañero ART Marimar
+st_test_uspa1245_605,uspa1245,yes,COM-decir él/ella que,COM-decir él/ella que
+st_test_uspa1245_605,uspa1245,no,COM-decir él/ella que,COM-decir él/ella que
+st_test_uspa1245_606,uspa1245,yes,???-PART COM-hacer PL PREP-ERG.2.SG-N.REL,???-PART COM-hacer PL APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_606,uspa1245,no,PART-PART COM-hacer PL APPRX-ERG.2.SG-N.REL,???-PART COM-hacer PL APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_607,uspa1245,yes,DEM COM-hacer PL PREP-ERG.1.SG-N.REL-EMPH antiguamente,DEM COM-hacer PL APPRX-ERG.1.SG-N.REL-yo antiguamente
+st_test_uspa1245_607,uspa1245,no,DEM COM-hacer PL PREP-N.REL-yo antiguamente,DEM COM-hacer PL APPRX-ERG.1.SG-N.REL-yo antiguamente
+st_test_uspa1245_608,uspa1245,yes,cuando??? ERG.3.SG-N.REL-PL,cuando COM-ERG.1.SG-ir ERG.3.SG-N.REL-PL
+st_test_uspa1245_608,uspa1245,no,cuando??? ERG.3.SG-N.REL-PL,cuando COM-ERG.1.SG-ir ERG.3.SG-N.REL-PL
+st_test_uspa1245_609,uspa1245,yes,CONJ ahora COM-llegar PL aqui,CONJ ahora COM-llegar PL aqui
+st_test_uspa1245_609,uspa1245,no,CONJ ahora COM-llegar PL aqui,CONJ ahora COM-llegar PL aqui
+st_test_uspa1245_610,uspa1245,yes,dice ART Marimar él/ella ART ERG.3.SG-compañero,decir ART Marimar PART ART ERG.3.SG-compañero
+st_test_uspa1245_610,uspa1245,no,dice ART Marimar él/ella ART ERG.3.SG-compañero,decir ART Marimar PART ART ERG.3.SG-compañero
+st_test_uspa1245_611,uspa1245,yes,COM-venir ART ERG.3.SG-compañero,COM-venir ART ERG.3.SG-compañero
+st_test_uspa1245_611,uspa1245,no,COM-venir ART ERG.3.SG-compañero,COM-venir ART ERG.3.SG-compañero
+st_test_uspa1245_612,uspa1245,yes,entonces NEG bueno COM-hacer PL PREP-ERG.2.SG-N.REL,entonces NEG bueno COM-hacer PL APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_612,uspa1245,no,entonces NEG bueno COM-hacer PL APPRX-ERG.2.SG-N.REL,entonces NEG bueno COM-hacer PL APPRX-ERG.2.SG-N.REL
+st_test_uspa1245_613,uspa1245,yes,COM-venir ART angelica mejor ITS APPRX-llorar,COM-venir ART Angelica mejor ITS APPRX-llorar
+st_test_uspa1245_613,uspa1245,no,COM-venir ART angelica mejor ITS-??? APPRX-llorar,COM-venir ART Angelica mejor ITS APPRX-llorar
+st_test_uspa1245_614,uspa1245,yes,PREP-N.REL ART persona,PREP-N.REL ART persona
+st_test_uspa1245_614,uspa1245,no,PREP-N.REL ART persona,PREP-N.REL ART persona
+st_test_uspa1245_615,uspa1245,yes,COM-entrar PREP-ERG.3.SG menear-??? ART lodo,COM-entrar PREP-ERG.3.SG menear-SC ART lodo
+st_test_uspa1245_615,uspa1245,no,COM-entrar PREP-ERG.3.SG menear ART lodo,COM-entrar PREP-ERG.3.SG menear-SC ART lodo
+st_test_uspa1245_616,uspa1245,yes,PREP-N.REL persona todo,PREP-N.REL persona todo
+st_test_uspa1245_616,uspa1245,no,PREP-N.REL persona todo,PREP-N.REL persona todo
+st_test_uspa1245_617,uspa1245,yes,COM-entrar PREP-ERG.3.SG ERG.3.SG-sacar-PASS ART collar adentro,COM-entrar PREP-ERG.3.SG ERG.3.SG-sacar-PASS ART collar adentro
+st_test_uspa1245_617,uspa1245,no,COM-entrar PREP-ERG.3.SG E3-sacar-SC ART collar adentro,COM-entrar PREP-ERG.3.SG ERG.3.SG-sacar-PASS ART collar adentro
+st_test_uspa1245_618,uspa1245,yes,CONJ CONJ COM-venir ART Marimar,CONJ CONJ COM-venir ART Marimar
+st_test_uspa1245_618,uspa1245,no,CONJ CONJ COM-venir ART Marimar,CONJ CONJ COM-venir ART Marimar
+st_test_uspa1245_619,uspa1245,yes,COM-entrar PREP-ERG.3.SG escribir-SC N.REL grande-PL libros,COM-entrar PREP-ERG.3.SG escribir-SC adentro grande-PL libros
+st_test_uspa1245_619,uspa1245,no,COM-entrar PREP-ERG.3.SG escribir-SC N.REL grande libros,COM-entrar PREP-ERG.3.SG escribir-SC adentro grande-PL libros
+st_test_uspa1245_620,uspa1245,yes,todo,todo
+st_test_uspa1245_620,uspa1245,no,todo,todo
+st_test_uspa1245_621,uspa1245,yes,loque COM-hacer-PASS él/ella,loque COM-hacer-PASS él/ella
+st_test_uspa1245_621,uspa1245,no,loque COM-hacer-PASS él/ella,loque COM-hacer-PASS él/ella
+st_test_uspa1245_622,uspa1245,yes,como??? PART,como licenciado PART
+st_test_uspa1245_622,uspa1245,no,como licenciada PART,como licenciado PART
+st_test_uspa1245_623,uspa1245,yes,todo EXS PART ERG.3.SG-trabajo todo,todo EXS PART ERG.3.SG-trabajo todo
+st_test_uspa1245_623,uspa1245,no,todo EXS PART ERG.3.SG-trabajo todo,todo EXS PART ERG.3.SG-trabajo todo
+st_test_uspa1245_624,uspa1245,yes,CONJ DEM DEM loque COM-hacer-PASS ellos/ellas antiguamente,CONJ DEM DEM loque COM-hacer-PASS ellos/ellas antiguamente
+st_test_uspa1245_624,uspa1245,no,CONJ DEM DEM loque COM-hacer-PASS ellos/ellas antiguamente,CONJ DEM DEM loque COM-hacer-PASS ellos/ellas antiguamente
+st_test_uspa1245_625,uspa1245,yes,por eso loque APPRX-hacer-PASS antiguamente,por es loque APPRX-hacer-PASS antiguamente
+st_test_uspa1245_625,uspa1245,no,por eso loque APPRX-hacer-PASS antiguamente,por es loque APPRX-hacer-PASS antiguamente
+st_test_uspa1245_626,uspa1245,yes,loque APPRX-ERG.3.SG-hacer persona PART diferente persona,loque APPRX-ERG.3.SG-hacer persona él/ella difeernte persona
+st_test_uspa1245_626,uspa1245,no,loque APPRX-ERG.3.SG-hacer persona PART diferente persona,loque APPRX-ERG.3.SG-hacer persona él/ella difeernte persona
+st_test_uspa1245_627,uspa1245,yes,siempre APPRX-ERG.3.SG-pagar PART,siempre APPRX-ERG.3.SG-pagar PART
+st_test_uspa1245_627,uspa1245,no,siempre APPRX-ERG.3.SG-pagar PART,siempre APPRX-ERG.3.SG-pagar PART
+st_test_uspa1245_628,uspa1245,yes,diferente persona PART,diferente persona PART
+st_test_uspa1245_628,uspa1245,no,diferente persona PART,diferente persona PART
+st_test_uspa1245_629,uspa1245,yes,diferente persona PART,diferente persona PART
+st_test_uspa1245_629,uspa1245,no,diferente persona PART,diferente persona PART
+st_test_uspa1245_630,uspa1245,yes,loque APPRX-ERG.3.SG-hacer uno persona él/ella uno persona,loque APPRX-ERG.3.SG-hacer uno persona PART uno persona
+st_test_uspa1245_630,uspa1245,no,loque APPRX-ERG.3.SG-hacer uno persona él/ella uno persona,loque APPRX-ERG.3.SG-hacer uno persona PART uno persona
+st_test_uspa1245_631,uspa1245,yes,siempre APPRX-ERG.3.SG-pagar PART loque APPRX-ERG.3.SG-hacer él/ella,siempre APPRX-ERG.3.SG-pagar PART loque APPRX-ERG.3.SG-hacer N.REL
+st_test_uspa1245_631,uspa1245,no,siempre APPRX-ERG.3.SG-pagar PART loque APPRX-ERG.3.SG-hacer él/ella,siempre APPRX-ERG.3.SG-pagar PART loque APPRX-ERG.3.SG-hacer N.REL
+st_test_uspa1245_632,uspa1245,yes,DEM DEM APPRX-ERG.1.SG-decir,DEM DEM APPRX-ERG.1.SG-decir
+st_test_uspa1245_632,uspa1245,no,AFI DEM APPRX-ERG.1.SG-decir,DEM DEM APPRX-ERG.1.SG-decir

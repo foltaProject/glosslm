@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=pred-gloss-lm
-#SBATCH --output ./slurm-out/pred-byt5-finetuned-%j.out
+#SBATCH --output ./slurm-out/pred-glosslm-norm-%j.out
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:A6000:1
 #SBATCH --mem=48GB
@@ -12,86 +12,29 @@ source ~/.bashrc
 conda init bash
 conda activate text2gloss
 
-exp_name="all-no_trans"
-ft_glottocode="arap1274"
-lang_code="arp"
-test_split="ID"
-cd "./src"
-# pretrained_model="/data/tir/projects/tir6/general/ltjuatja/glosslm/finetune-no_trans/finetune-${ft_glottocode}-${exp_name}/"
-# echo $ft_glottocode
-# cd "./src"
-# python3 pretrain_multilingual_model.py \
-#     --mode predict \
-#     --exp_name $exp_name \
-#     --pretrained_model ${pretrained_model} \
-#     --ft_glottocode ${ft_glottocode} \
-#     --test_split ${test_split}
+exp_name="glosslm-finetune-normalized-all_st_unseg"
 
-exp_name="all-no_trans"
-ft_glottocode="arap1274"
-lang_code="arp"
-test_split="ID"
-
-echo $ft_glottocode
-python3 eval.py \
-    --pred /home/ltjuatja/glosslm/preds/glosslm-all-no_trans/${lang_code}-${exp_name}/test_${test_split}-preds.postprocessed.csv \
-    --ft_glottocode ${ft_glottocode} \
-    --test_split test_${test_split} \
+# declare -A ID_langs=( [arp]="arap1274" ["ddo"]="dido1241" ["usp"]="uspa1245")
+# declare -A ID_langs=( [arp]="arap1274" )
+# declare -A OOD_langs=( [git]="gitx1241" [lez]="lezg1247" [ntu]="natu1246" [nyb]="nyan1302" )
+declare -A OOD_langs=( [git]="gitx1241" )
 
 
-exp_name="all-no_trans"
-ft_glottocode="dido1241"
-lang_code="ddo"
-test_split="ID"
+for lang in "${!OOD_langs[@]}" 
+do
+    echo $lang
+    ft_glottocode="${OOD_langs[$lang]}"
+    pretrained_model="/data/tir/projects/tir6/general/ltjuatja/glosslm/finetune-normalized/${ft_glottocode}"
+    test_split="OOD"
+    cd "./src"
+    python3 pretrain_multilingual_model_normalized.py \
+        --mode predict \
+        --exp_name $exp_name \
+        --pretrained_model ${pretrained_model} \
+        --ft_glottocode ${ft_glottocode} \
+        --test_split ${test_split}
+    python eval.py \
+        --pred ../preds/${exp_name}/${lang}/${lang}-preds.postprocessed.csv \
+        --test_split test_${test_split}
+done
 
-echo $ft_glottocode
-python3 eval.py \
-    --pred /home/ltjuatja/glosslm/preds/glosslm-all-no_trans/${lang_code}-${exp_name}/test_${test_split}-preds.postprocessed.csv \
-    --ft_glottocode ${ft_glottocode} \
-    --test_split test_${test_split} \
-
-exp_name="all-no_trans"
-ft_glottocode="uspa1245"
-lang_code="usp"
-test_split="ID"
-
-echo $ft_glottocode
-python3 eval.py \
-    --pred /home/ltjuatja/glosslm/preds/glosslm-all-no_trans/${lang_code}-${exp_name}/test_${test_split}-preds.postprocessed.csv \
-    --ft_glottocode ${ft_glottocode} \
-    --test_split test_${test_split} \
-
-
-exp_name="all-no_trans"
-ft_glottocode="gitx1241"
-lang_code="git"
-test_split="OOD"
-
-echo $ft_glottocode
-python3 eval.py \
-    --pred /home/ltjuatja/glosslm/preds/glosslm-all-no_trans/${lang_code}-${exp_name}/test_${test_split}-preds.postprocessed.csv \
-    --ft_glottocode ${ft_glottocode} \
-    --test_split test_${test_split} \
-
-exp_name="all-no_trans"
-ft_glottocode="lezg1247"
-lang_code="lez"
-test_split="OOD"
-
-echo $ft_glottocode
-python3 eval.py \
-    --pred /home/ltjuatja/glosslm/preds/glosslm-all-no_trans/${lang_code}-${exp_name}/test_${test_split}-preds.postprocessed.csv \
-    --ft_glottocode ${ft_glottocode} \
-    --test_split test_${test_split} \
-
-
-exp_name="all-no_trans"
-ft_glottocode="natu1246"
-lang_code="ntu"
-test_split="OOD"
-
-echo $ft_glottocode
-python3 eval.py \
-    --pred /home/ltjuatja/glosslm/preds/glosslm-all-no_trans/${lang_code}-${exp_name}/test_${test_split}-preds.postprocessed.csv \
-    --ft_glottocode ${ft_glottocode} \
-    --test_split test_${test_split} \

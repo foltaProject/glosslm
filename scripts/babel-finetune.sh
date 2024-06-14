@@ -2,20 +2,23 @@
 #SBATCH --job-name=arp-all-no_trans
 #SBATCH --output ./slurm-out/arp-all-no_trans-%j.out
 #SBATCH --nodes=1
-#SBATCH --gres=gpu:A6000:1
+#SBATCH --gres=gpu:L40:1
 #SBATCH --mem=48GB
-#SBATCH --time=5-00:00:00
+#SBATCH --time=2-00:00:00
 #SBATCH --mail-user=lindiat@andrew.cmu.edu
 #SBATCH --mail-type=END,FAIL
-#SBATCH --partition=long
+#SBATCH --partition=general
 
 source ~/.bashrc
 conda init bash
 conda activate text2gloss
 
-ft_glottocode="arap1274"
-lang_code="arp"
-checkpoint_path="/home/ltjuatja/glosslm/src/training_checkpoints/finetune-arap1274-all-no_trans/all-no_trans/checkpoint-6726"
+# max_epochs=100
+# early_stopping_patience=3
+
+# ft_glottocode="arap1274"
+# lang_code="arp"
+# checkpoint_path="/home/ltjuatja/glosslm/src/training_checkpoints/finetune-arap1274-all-no_trans/all-no_trans/checkpoint-6726"
 
 # ft_glottocode="dido1241"
 # lang_code="ddo"
@@ -29,10 +32,10 @@ checkpoint_path="/home/ltjuatja/glosslm/src/training_checkpoints/finetune-arap12
 # ft_glottocode="natu1246"
 # lang_code="ntu"
 
-# ft_glottocode="gitx1241"
-# lang_code="git"
-# max_epochs=500
-# early_stopping_patience=15
+ft_glottocode="gitx1241"
+lang_code="git"
+max_epochs=500
+early_stopping_patience=15
 
 
 model_dir="/data/tir/projects/tir6/general/ltjuatja/glosslm/finetune-no_trans/"
@@ -50,6 +53,8 @@ python3 pretrain_multilingual_model.py \
     --ft_glottocode ${ft_glottocode} \
     --output_model_path ${model_dir}${save_dir} \
     --pretrained_model ${pretrained_model} \
+    --max_epochs ${max_epochs} \
+    --early_stopping_patience ${early_stopping_patience} \
     --exclude_st_seg False \
     --use_translation False \
     --checkpoint_path $checkpoint_path \

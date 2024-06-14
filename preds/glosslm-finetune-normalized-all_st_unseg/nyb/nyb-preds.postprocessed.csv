@@ -1,0 +1,527 @@
+id,glottocode,is_segmented,pred,gold
+st_test_nyan1302_0,nyan1302,yes,then 3.SG-put CLS-noise-DEF,then 3.SG-put CLS-noise-DEF
+st_test_nyan1302_0,nyan1302,no,then 3.SG-put CLS-noise-DEF,then 3.SG-put CLS-noise-DEF
+st_test_nyan1302_1,nyan1302,yes,3.PL-greet 1.PL complete TP,3.PL-greet 1.PL complete TP
+st_test_nyan1302_1,nyan1302,no,3.PL-greet 1.PL complete TP,3.PL-greet 1.PL complete TP
+st_test_nyan1302_2,nyan1302,yes,3.SG with CLS-dog-DEF 3.PL-be_at 3.PL-be_at,3.SG with CLS-dog-DEF 3.PL-be_at 3.PL-be_at
+st_test_nyan1302_2,nyan1302,no,3.SG with CLS-dog-DEF 3.PL-be_at 3.PL-be_at,3.SG with CLS-dog-DEF 3.PL-be_at 3.PL-be_at
+st_test_nyan1302_3,nyan1302,yes,3.PL-take CLS-Okume SCONN-give 1.PL,3.PL-take CLS-Okume SCONN-give 1.PL
+st_test_nyan1302_3,nyan1302,no,3.PL-take CLS-Okume SCONN-give 1.PL,3.PL-take CLS-Okume SCONN-give 1.PL
+st_test_nyan1302_4,nyan1302,yes,3.PL-put_on funeral 3.PL-do funeral just,3.PL-put_on funeral 3.PL-do funeral just
+st_test_nyan1302_4,nyan1302,no,3.PL-put_on funeral 3.PL-do funeral just,3.PL-put_on funeral 3.PL-do funeral just
+st_test_nyan1302_5,nyan1302,yes,2.SG-NEG:PRS-FUT-go_to CLS-chief CLS-house inside,2.SG-NEG:PRS-FUT-go_to CLS-chief CLS-house inside
+st_test_nyan1302_5,nyan1302,no,2.SG-NEG:PRS-FUT-go_to CLS-chief CLS-house inside,2.SG-NEG:PRS-FUT-go_to CLS-chief CLS-house inside
+st_test_nyan1302_6,nyan1302,yes,just-DEF,just-TP
+st_test_nyan1302_6,nyan1302,no,just-DEF,just-TP
+st_test_nyan1302_7,nyan1302,yes,then 3.SG-come CLS-table DEF skiN,then 3.SG-come CLS-table DEF skiN
+st_test_nyan1302_7,nyan1302,no,then 3.SG-come CLS-table DEF skiN,then 3.SG-come CLS-table DEF skiN
+st_test_nyan1302_8,nyan1302,yes,CLS-clan big three AM-this inside,CLS-clan overflow three AM-this inside
+st_test_nyan1302_8,nyan1302,no,CLS-clan big three AM-this inside,CLS-clan overflow three AM-this inside
+st_test_nyan1302_9,nyan1302,yes,yes,yes
+st_test_nyan1302_9,nyan1302,no,yes,yes
+st_test_nyan1302_10,nyan1302,yes,3.SG-say 3.PL-receive SCONN-give-3.SG,3.SG-say 3.PL-receive SCONN-give-3.SG
+st_test_nyan1302_10,nyan1302,no,3.SG-say 3.PL-receive SCONN-give-3.SG,3.SG-say 3.PL-receive SCONN-give-3.SG
+st_test_nyan1302_11,nyan1302,yes,then then 3.PL-take CLS-evening become_ripe-become_ripe at,then then 3.PL-take CLS:PL-eye become_red-become_red at
+st_test_nyan1302_11,nyan1302,no,then then 3.PL-take CLS-eye become_ripe-become_ripe at,then then 3.PL-take CLS:PL-eye become_red-become_red at
+st_test_nyan1302_12,nyan1302,yes,ADDRESSIVE_PARTICLE,ADDRESSIVE_PARTICLE
+st_test_nyan1302_12,nyan1302,no,ADDRESSIVE_PARTICLE,ADDRESSIVE_PARTICLE
+st_test_nyan1302_13,nyan1302,yes,therefore be_cold 3.SG be_at that COMP 2.SG-take-3.SG,therefore by_all_means 3.SG be_at that COMP 2.SG-take-3.SG
+st_test_nyan1302_13,nyan1302,no,therefore be_cold 3.SG be_at that COMP 2.SG-take-3.SG,therefore by_all_means 3.SG be_at that COMP 2.SG-take-3.SG
+st_test_nyan1302_14,nyan1302,yes,1.PL CLS:PL-Tutrugbu_person TP skin,1.PL CLS:PL-Tutrugbu_person TP skin
+st_test_nyan1302_14,nyan1302,no,1.PL CLS:PL-Tutrugbu_person TP skin,1.PL CLS:PL-Tutrugbu_person TP skin
+st_test_nyan1302_15,nyan1302,yes,then 3.PL-pound,then 3.PL-grind
+st_test_nyan1302_15,nyan1302,no,then 3.PL-pound,then 3.PL-grind
+st_test_nyan1302_16,nyan1302,yes,3.SG be_at that COMP everyone 3.SG walk TP 3.SG-remain,3.SG be_at that COMP shrub_name 3.SG:Poss root TP AM-remain
+st_test_nyan1302_16,nyan1302,no,3.SG be_at that COMP nyimo 3.SG remain TP 3.SG-remain,3.SG be_at that COMP shrub_name 3.SG:Poss root TP AM-remain
+st_test_nyan1302_17,nyan1302,yes,thus 1.PL-thing be_on FOC CLS-top,thus CLS:PL-thing be_on 3.SG:Poss CLS-top
+st_test_nyan1302_17,nyan1302,no,thus 1.PL-thing be_on 3.SG:Poss CLS-top,thus CLS:PL-thing be_on 3.SG:Poss CLS-top
+st_test_nyan1302_18,nyan1302,yes,DEF inside or CLS-container inside,DEF in or CLS-container in
+st_test_nyan1302_18,nyan1302,no,DEF inside or CLS-container inside,DEF in or CLS-container in
+st_test_nyan1302_19,nyan1302,yes,but REL 1.SG-do thus just,but REL 1.SG-do thus just
+st_test_nyan1302_19,nyan1302,no,but REL 1.SG-do thus just,but REL 1.SG-do thus just
+st_test_nyan1302_20,nyan1302,yes,REL if uhm CLS-body 1.SG-PROG-put_in,REL if uhm CLS:PL-body CLS-PROG-put_in
+st_test_nyan1302_20,nyan1302,no,REL if uhm CLS:PL-body 1.SG-PROG-put_in,REL if uhm CLS:PL-body CLS-PROG-put_in
+st_test_nyan1302_21,nyan1302,yes,3.SG-need that 1.SG-put_in-3.SG at CLS-hole-DEF,3.SG-need that 1.SG-put_in-3.SG at CLS-hole-DEF
+st_test_nyan1302_21,nyan1302,no,3.SG-need that 1.SG-put_in-3.SG at CLS-hole-DEF,3.SG-need that 1.SG-put_in-3.SG at CLS-hole-DEF
+st_test_nyan1302_22,nyan1302,yes,CLS-this AM-bury CLS-do REL,CLS:PL-3.PL CLS-leaf CLS-do REL
+st_test_nyan1302_22,nyan1302,no,CLS-this AM-blow CLS-dog REL,CLS:PL-3.PL CLS-leaf CLS-do REL
+st_test_nyan1302_23,nyan1302,yes,uhm CLS-man-DEF one REL AM-be_at CLS-place DEF inside,uhm CLS-man-DEF one REL AM-be_at CLS-left DEF inside
+st_test_nyan1302_23,nyan1302,no,uhm CLS-man-DEF one REL AM-this CLS-left DEF inside,uhm CLS-man-DEF one REL AM-be_at CLS-left DEF inside
+st_test_nyan1302_24,nyan1302,yes,AM-REP-climb,AM-REP-climb
+st_test_nyan1302_24,nyan1302,no,AM-REP-climb,AM-REP-climb
+st_test_nyan1302_25,nyan1302,yes,church TP,church TP
+st_test_nyan1302_25,nyan1302,no,church TP,church TP
+st_test_nyan1302_26,nyan1302,yes,CLS-that at 1.PL CLS-father-all-PL all,CLS-3.SG at 1.PL CLS-ancestor-PL all
+st_test_nyan1302_26,nyan1302,no,CLS-3.SG at 1.PL CLS-father-PL all,CLS-3.SG at 1.PL CLS-ancestor-PL all
+st_test_nyan1302_27,nyan1302,yes,CLS-back just,CLS-go just
+st_test_nyan1302_27,nyan1302,no,CLS-back just,CLS-go just
+st_test_nyan1302_28,nyan1302,yes,then 3.SG-do thus,then 3.SG-do thus
+st_test_nyan1302_28,nyan1302,no,then 3.SG-do thus,then 3.SG-do thus
+st_test_nyan1302_29,nyan1302,yes,if CLS-person AM-be CLS-remain-place-CLS-owner-DEF,if CLS-person SCONN-be CLS-remain-place-CLS-owner-DEF
+st_test_nyan1302_29,nyan1302,no,if CLS-person AM-be CLS-remain-place-CLS-owner-DEF,if CLS-person SCONN-be CLS-remain-place-CLS-owner-DEF
+st_test_nyan1302_30,nyan1302,yes,then well 1.PL-be_on 2.PL CLS-top,then well 1.PL-be_on 2.PL CLS-top
+st_test_nyan1302_30,nyan1302,no,then well 1.PL-be_on 2.PL CLS-top,then well 1.PL-be_on 2.PL CLS-top
+st_test_nyan1302_31,nyan1302,yes,all 3.PL CLS-house inside REL 3.SG-be,all 3.PL CLS-house inside REL 3.SG-be
+st_test_nyan1302_31,nyan1302,no,all 3.PL CLS-house inside REL 3.SG-be,all 3.PL CLS-house inside REL 3.SG-be
+st_test_nyan1302_32,nyan1302,yes,CLS-NEG:PST-be_right at 1.PL CLS:PL-Tutrugbu_person TP,AM-NEG:PST-be_straight at 1.PL CLS:PL-Tutrugbu_person DEF
+st_test_nyan1302_32,nyan1302,no,CLS-NEG:PST-be_right at 1.PL CLS:PL-Tutrugbu_person TP,AM-NEG:PST-be_straight at 1.PL CLS:PL-Tutrugbu_person DEF
+st_test_nyan1302_33,nyan1302,yes,COMP 3.PL-NEG:PRS-carry CLS-corpse SCONN-again,COMP 3.PL-NEG:PRS-carry CLS-corpse SCONN-again
+st_test_nyan1302_33,nyan1302,no,COMP 3.PL-NEG:PRS-carry CLS-corpse SCONN-again,COMP 3.PL-NEG:PRS-carry CLS-corpse SCONN-again
+st_test_nyan1302_34,nyan1302,yes,then 2.SG-FUT-open-3.SG,then 2.SG-FUT-finish_work_on_farm-3.SG
+st_test_nyan1302_34,nyan1302,no,then 2.SG-FUT-overflow-3.SG,then 2.SG-FUT-finish_work_on_farm-3.SG
+st_test_nyan1302_35,nyan1302,yes,3.PL-REP-SCONN-leave month AM-two,3.PL-REP-SCONN-leave month AM-two
+st_test_nyan1302_35,nyan1302,no,3.PL-REP-SCONN-leave month AM-two,3.PL-REP-SCONN-leave month AM-two
+st_test_nyan1302_36,nyan1302,yes,AM-give CLS-3.SG therefore,AM-give CLS-3.SG blessing
+st_test_nyan1302_36,nyan1302,no,AM-give CLS-3.SG therefore,AM-give CLS-3.SG blessing
+st_test_nyan1302_37,nyan1302,yes,then 2.SG-come CLS-road inside be_peaceful very_well,then 2.SG-come CLS-road inside be_peaceful very_well
+st_test_nyan1302_37,nyan1302,no,then 2.SG-come CLS-road inside be_peaceful very_well,then 2.SG-come CLS-road inside be_peaceful very_well
+st_test_nyan1302_38,nyan1302,yes,1.PL-PROG-eat CLS:PL-thing at 3.PL CLS-between,1.PL-PROG-eat CLS:PL-thing at 3.PL CLS-between
+st_test_nyan1302_38,nyan1302,no,1.PL-PROG-eat CLS:PL-thing at 3.PL CLS-between,1.PL-PROG-eat CLS:PL-thing at 3.PL CLS-between
+st_test_nyan1302_39,nyan1302,yes,shortly just then 3.PL-do CLS-water hot then,shortly just then 3.PL-do CLS-water hot then
+st_test_nyan1302_39,nyan1302,no,shortly just then 3.PL-do CLS-water hot then,shortly just then 3.PL-do CLS-water hot then
+st_test_nyan1302_40,nyan1302,yes,CLS-hand,CLS-hand
+st_test_nyan1302_40,nyan1302,no,CLS-hand,CLS-hand
+st_test_nyan1302_41,nyan1302,yes,CLS-boy DEF AM-say-look_at just-TP,CLS-boy DEF AM-say-look_at just-DEF
+st_test_nyan1302_41,nyan1302,no,CLS-boy DEF AM-say-look_at just-TP,CLS-boy DEF AM-say-look_at just-DEF
+st_test_nyan1302_42,nyan1302,yes,3.PL-lie CLS-underneath at CLS-place DEF CLS-top just-TP,3.PL-lie down at bed DEF CLS-top just-TP
+st_test_nyan1302_42,nyan1302,no,3.PL-lie down at CLS-hometown DEF CLS-top just-TP,3.PL-lie down at bed DEF CLS-top just-TP
+st_test_nyan1302_43,nyan1302,yes,then this 1.PL CLS:PL-Tutrugbu_person TP all skin,this be_at 1.PL CLS:PL-Tutrugbu_person DEF all skin
+st_test_nyan1302_43,nyan1302,no,then this 1.PL CLS:PL-Tutrugbu_person TP all skin,this be_at 1.PL CLS:PL-Tutrugbu_person DEF all skin
+st_test_nyan1302_44,nyan1302,yes,2.SG-remove CLS-child_of-DEF AM-child_of CLS-child_of-DEF,2.SG-remove CLS-child_of-DEF CLS-child_of CLS-child_of-DEF
+st_test_nyan1302_44,nyan1302,no,2.SG-remove CLS-child_of-DEF CLS-child_of CLS-child_of-DEF,2.SG-remove CLS-child_of-DEF CLS-child_of CLS-child_of-DEF
+st_test_nyan1302_45,nyan1302,yes,3.SG-be that CLS-day AM-finish,3.SG-be that CLS-day AM-finish
+st_test_nyan1302_45,nyan1302,no,3.SG-be that CLS-day AM-finish,3.SG-be that CLS-day AM-finish
+st_test_nyan1302_46,nyan1302,yes,now 1.PL-find CLS-water-DEF then CLS-a_little a_little a_little,now 1.PL-find CLS-water-DEF then CLS-a_little a_little a_little
+st_test_nyan1302_46,nyan1302,no,now 1.PL-find CLS-water-DEF then CLS-a_little a_little a_little,now 1.PL-find CLS-water-DEF then CLS-a_little a_little a_little
+st_test_nyan1302_47,nyan1302,yes,3.SG-NEG:be CLS-water,3.SG-NEG:be CLS-water
+st_test_nyan1302_47,nyan1302,no,3.SG-NEG:be CLS-water,3.SG-NEG:be CLS-water
+st_test_nyan1302_48,nyan1302,yes,CLS:PL-certain if CLS-hand inside AM-be_at 2.SG,CLS:PL-certain if CLS-hand inside AM-be_at 2.SG
+st_test_nyan1302_48,nyan1302,no,CLS:PL-certain if CLS-hand inside AM-be_at 2.SG,CLS:PL-certain if CLS-hand inside AM-be_at 2.SG
+st_test_nyan1302_49,nyan1302,yes,then CLS:PL-person AM-VENTIVE-add_to 3.SG a_little,then CLS:PL-person AM-VENTIVE-add_to 3.SG a_little
+st_test_nyan1302_49,nyan1302,no,then CLS:PL-person AM-VENTIVE-add_to 3.SG a_little,then CLS:PL-person AM-VENTIVE-add_to 3.SG a_little
+st_test_nyan1302_50,nyan1302,yes,3.PL-REL 3.PL-tie CLS-law-PL this,3.PL-REL 3.PL-tie CLS-law-PL this
+st_test_nyan1302_50,nyan1302,no,3.PL-REL 3.PL-tie CLS-law-PL this,3.PL-REL 3.PL-tie CLS-law-PL this
+st_test_nyan1302_51,nyan1302,yes,1.PL-take 3.SG do CLS-medicine DEF give CLS-person DEF 3.PL,1.PL-take 3.SG do CLS-medicine DEF give CLS-person DEF 3.PL
+st_test_nyan1302_51,nyan1302,no,1.PL-take 3.SG do CLS-medicine DEF give CLS-person DEF 3.PL,1.PL-take 3.SG do CLS-medicine DEF give CLS-person DEF 3.PL
+st_test_nyan1302_52,nyan1302,yes,1.PL:POSS CLS:PL-skin CLS-hand,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_52,nyan1302,no,1.PL:POSS CLS:PL-skin CLS-hand,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_53,nyan1302,yes,CLS-man-DEF 3.SG AM-take-3.SG,CLS-man-DEF FOC 3.SG-take-3.SG
+st_test_nyan1302_53,nyan1302,no,CLS-man-DEF 3.SG AM-take-3.SG,CLS-man-DEF FOC 3.SG-take-3.SG
+st_test_nyan1302_54,nyan1302,yes,eat eat inside,eat eat inside
+st_test_nyan1302_54,nyan1302,no,eat eat inside,eat eat inside
+st_test_nyan1302_55,nyan1302,yes,COMP 2.SG-know just little-DEF be_high(river) ADDR,COMP 2.SG-know just little-DEF be_high(river) ADDR
+st_test_nyan1302_55,nyan1302,no,COMP 2.SG-know just little-DEF be_high(river) ADDR,COMP 2.SG-know just little-DEF be_high(river) ADDR
+st_test_nyan1302_56,nyan1302,yes,climb,climb
+st_test_nyan1302_56,nyan1302,no,climb,climb
+st_test_nyan1302_57,nyan1302,yes,that thus chief 3.SG-PROG-say,that thus chief 3.SG-PROG-say
+st_test_nyan1302_57,nyan1302,no,that thus chief AM-PROG-say,that thus chief 3.SG-PROG-say
+st_test_nyan1302_58,nyan1302,yes,ok spokesperson thus 3.PL-PROG-say,ok spokesperson thus 3.PL-PROG-say
+st_test_nyan1302_58,nyan1302,no,ok spokesperson thus 3.PL-PROG-say,ok spokesperson thus 3.PL-PROG-say
+st_test_nyan1302_59,nyan1302,yes,3.SG-be CLS-sick_person a_certain REL be_contained,3.SG-be CLS:PL-sickness a_certain REL be_contained
+st_test_nyan1302_59,nyan1302,no,3.SG-be CLS-sickness a_certain REL be_contained,3.SG-be CLS:PL-sickness a_certain REL be_contained
+st_test_nyan1302_60,nyan1302,yes,therefore CLS:PL-bee-DEF all AM-disperse at there,therefore CLS:PL-die-DEF all AM-disperse at there
+st_test_nyan1302_60,nyan1302,no,therefore CLS:PL-bee-DEF all AM-disperse at there,therefore CLS:PL-die-DEF all AM-disperse at there
+st_test_nyan1302_61,nyan1302,yes,yes CLS-fire-DEF AM-give that,yes CLS-fire-DEF AM-give that
+st_test_nyan1302_61,nyan1302,no,yes CLS-fire-DEF AM-give that,yes CLS-fire-DEF AM-give that
+st_test_nyan1302_62,nyan1302,yes,CLS-woman AM-one AM-be_located 3.SG CLS-side AM-leak-eat-1.PL:POSS CLS-side inside,CLS-woman AM-one AM-be_located AM CLS-side CLS-thisCM-right-inside CLS-side inside
+st_test_nyan1302_62,nyan1302,no,CLS-woman AM-one AM-become that CLS-side AM-as-far-inside CLS-side inside,CLS-woman AM-one AM-be_located AM CLS-side CLS-thisCM-right-inside CLS-side inside
+st_test_nyan1302_63,nyan1302,yes,CLS ask-ask certain be_at 3.SG:Poss CLS-hand 3.SG-ask just,CLS ask-ask certain be_at 3.SG:Poss CLS-hand 3.SG-ask just
+st_test_nyan1302_63,nyan1302,no,CLS ask-ask certain be_at 3.SG:Poss CLS-hand 3.SG-ask just,CLS ask-ask certain be_at 3.SG:Poss CLS-hand 3.SG-ask just
+st_test_nyan1302_64,nyan1302,yes,3.PL-NEG:PRS-VENTIVE-crow CLS-whistle at CLS-state inside,3.PL-NEG:PRS-VENTIVE-crow CLS-whistle at CLS-state inside
+st_test_nyan1302_64,nyan1302,no,3.PL-NEG:PRS-VENTIVE-crow CLS-whistle at CLS-state inside,3.PL-NEG:PRS-VENTIVE-crow CLS-whistle at CLS-state inside
+st_test_nyan1302_65,nyan1302,yes,2.SG also 2.SG-say-3.SG,2.SG also 2.SG-say-3.SG
+st_test_nyan1302_65,nyan1302,no,2.SG also 2.SG-say-3.SG,2.SG also 2.SG-say-3.SG
+st_test_nyan1302_66,nyan1302,yes,inside-own,inside-own
+st_test_nyan1302_66,nyan1302,no,inside-own,inside-own
+st_test_nyan1302_67,nyan1302,yes,2.SG-do 3.SG thus,2.SG-do 3.SG thus
+st_test_nyan1302_67,nyan1302,no,2.SG-do 3.SG thus,2.SG-do 3.SG thus
+st_test_nyan1302_68,nyan1302,yes,CLS:PL-bee AM-NEG-REP-reach,CLS:PL-bee AM-NEG-REP-reach
+st_test_nyan1302_68,nyan1302,no,CLS:PL-bee AM-NEG-REP-reach,CLS:PL-bee AM-NEG-REP-reach
+st_test_nyan1302_69,nyan1302,yes,3.SG-FUT-buy CLS-soap with 3.SG,3.SG-FUT-buy CLS-soap with 3.SG
+st_test_nyan1302_69,nyan1302,no,3.SG-FUT-buy CLS-soap with 3.SG,3.SG-FUT-buy CLS-soap with 3.SG
+st_test_nyan1302_70,nyan1302,yes,uhm 2.SG-FUT take do with,uhm 2.SG-FUT take do with
+st_test_nyan1302_70,nyan1302,no,uhm 2.SG-FUT take do with,uhm 2.SG-FUT take do with
+st_test_nyan1302_71,nyan1302,yes,inside,inside
+st_test_nyan1302_71,nyan1302,no,inside,inside
+st_test_nyan1302_72,nyan1302,yes,then 3.SG-take CLS-hand set_down CLS-down-DEF,then 3.SG-take CLS-hand set_down CLS-ground-DEF
+st_test_nyan1302_72,nyan1302,no,then 3.SG-take CLS-hand set_down CLS-down-DEF,then 3.SG-take CLS-hand set_down CLS-ground-DEF
+st_test_nyan1302_73,nyan1302,yes,skin CLS-work,skin CLS-work
+st_test_nyan1302_73,nyan1302,no,skin CLS-work,skin CLS-work
+st_test_nyan1302_74,nyan1302,yes,ok,ok
+st_test_nyan1302_74,nyan1302,no,ok,ok
+st_test_nyan1302_75,nyan1302,yes,1.PL-FUT-dig CLS-hole-DEF for_a_long_time CLS-hole-DEF,1.PL-FUT-dig CLS-hole-DEF for_a_long_time CLS-hole-DEF
+st_test_nyan1302_75,nyan1302,no,1.PL-FUT-dig CLS-hole-DEF for_a_long_time CLS-hole-DEF,1.PL-FUT-dig CLS-hole-DEF for_a_long_time CLS-hole-DEF
+st_test_nyan1302_76,nyan1302,yes,1.SG-FUT-give that CLS-palmtree-DEF,1.SG-FUT-give that CLS-palmtree-DEF
+st_test_nyan1302_76,nyan1302,no,1.SG-FUT-give that CLS-palmtree-DEF,1.SG-FUT-give that CLS-palmtree-DEF
+st_test_nyan1302_77,nyan1302,yes,then 1.SG-know uhm,then 1.SG-know uhm
+st_test_nyan1302_77,nyan1302,no,then 1.SG-know uhm,then 1.SG-know uhm
+st_test_nyan1302_78,nyan1302,yes,3.SG-turn_round CLS-back SCONN-put_in CLS:PL-woman,3.SG-turn_round CLS-back SCONN-put_in CLS:PL-woman
+st_test_nyan1302_78,nyan1302,no,3.SG-turn_round CLS-back SCONN-put_in CLS:PL-woman,3.SG-turn_round CLS-back SCONN-put_in CLS:PL-woman
+st_test_nyan1302_79,nyan1302,yes,REL 3.SG-exit come just-TP,REL 3.SG-exit come just-TP
+st_test_nyan1302_79,nyan1302,no,REL 3.SG-exit come just-TP,REL 3.SG-exit come just-TP
+st_test_nyan1302_80,nyan1302,yes,go-go,go-go
+st_test_nyan1302_80,nyan1302,no,good,go-go
+st_test_nyan1302_81,nyan1302,yes,CLS-there all CLS-river inside,CLS-there all CLS-river inside
+st_test_nyan1302_81,nyan1302,no,CLS-there all CLS-river inside,CLS-there all CLS-river inside
+st_test_nyan1302_82,nyan1302,yes,REL 3.SG-VENITIVE-reach CLS-house a_certain CLS-there,REL 3.SG-VENITIVE-reach CLS:PL-house a_certain CLS-there
+st_test_nyan1302_82,nyan1302,no,REL 3.SG-VENITIVE-reach CLS-house a_certain CLS-there,REL 3.SG-VENITIVE-reach CLS:PL-house a_certain CLS-there
+st_test_nyan1302_83,nyan1302,yes,2.SG-do CLS-this CLS-palmtree DEF,2.SG-do CLS-3.SG small TP
+st_test_nyan1302_83,nyan1302,no,2.SG-do CLS-this CLS-palmtree TP,2.SG-do CLS-3.SG small TP
+st_test_nyan1302_84,nyan1302,yes,now CLS-dawadawa_tree-DEF 3.SG:Poss CLS-fruit TP,now CLS-dawadawa_tree-DEF 3.SG:Poss CLS-fruit DEF
+st_test_nyan1302_84,nyan1302,no,now CLS-dawadawa_tree-DEF 3.SG:Poss CLS-fruit TP,now CLS-dawadawa_tree-DEF 3.SG:Poss CLS-fruit DEF
+st_test_nyan1302_85,nyan1302,yes,CLS:PL-woman all AM-FUT-go there,CLS:PL-woman all AM-FUT-go there
+st_test_nyan1302_85,nyan1302,no,CLS:PL-woman all AM-FUT-go there,CLS:PL-woman all AM-FUT-go there
+st_test_nyan1302_86,nyan1302,yes,matter DEF,matter DEF
+st_test_nyan1302_86,nyan1302,no,matter DEF,matter DEF
+st_test_nyan1302_87,nyan1302,yes,just 3.PL-REP-VENITIVE-reach CLS-place certain,just 3.PL-REP-VENITIVE-reach CLS-place certain
+st_test_nyan1302_87,nyan1302,no,just 3.PL-REP-VENITIVE-reach CLS-place certain,just 3.PL-REP-VENITIVE-reach CLS-place certain
+st_test_nyan1302_88,nyan1302,yes,REL 1.SG-NEG:PST-remain therefore-TP,REL 1.SG-NEG:PST-remain therefore-TP
+st_test_nyan1302_88,nyan1302,no,REL 1.SG-NEG:PST-remain therefore-TP,REL 1.SG-NEG:PST-remain therefore-TP
+st_test_nyan1302_89,nyan1302,yes,2.PL CLS-hometown-DEF,2.PL CLS-hometown-DEF
+st_test_nyan1302_89,nyan1302,no,2.PL CLS-hometown-DEF,2.PL CLS-hometown-DEF
+st_test_nyan1302_90,nyan1302,yes,CLS-river-DEF inside SCONN-give 1.PL,CLS-river-DEF inside SCONN-give 1.PL
+st_test_nyan1302_90,nyan1302,no,CLS-river-DEF inside SCONN-give 1.PL,CLS-river-DEF inside SCONN-give 1.PL
+st_test_nyan1302_91,nyan1302,yes,2.SG-own also thus AM-be_located,2.SG-own also thus 3.SG-be
+st_test_nyan1302_91,nyan1302,no,2.SG-own also thus AM-be_located,2.SG-own also thus 3.SG-be
+st_test_nyan1302_92,nyan1302,yes,many with CLS:PL-medicine certain,mix with CLS:PL-medicine certain
+st_test_nyan1302_92,nyan1302,no,many with CLS:PL-medicine certain,mix with CLS:PL-medicine certain
+st_test_nyan1302_93,nyan1302,yes,well at CLS-exit CLS-this inside,well at period CLS-this inside
+st_test_nyan1302_93,nyan1302,no,well at CLS-exit CLS-this inside,well at period CLS-this inside
+st_test_nyan1302_94,nyan1302,yes,then 3.SG-show,then 3.SG-show
+st_test_nyan1302_94,nyan1302,no,then 3.SG-show,then 3.SG-show
+st_test_nyan1302_95,nyan1302,yes,CLS-tree-DEF AM-be_located-3.SG,CLS-tree-DEF AM-become-3.SG
+st_test_nyan1302_95,nyan1302,no,CLS-tree-DEF AM-become-3.SG,CLS-tree-DEF AM-become-3.SG
+st_test_nyan1302_96,nyan1302,yes,3.PL-FUT-drink with happiness happiness,3.PL-3.PL-drink with happiness happiness
+st_test_nyan1302_96,nyan1302,no,3.PL-FUT-drink with happiness happiness,3.PL-3.PL-drink with happiness happiness
+st_test_nyan1302_97,nyan1302,yes,then thing DEF AM-FUT-overflow,then thing DEF AM-FUT-overflow
+st_test_nyan1302_97,nyan1302,no,then thing DEF AM-FUT-overflow,then thing DEF AM-FUT-overflow
+st_test_nyan1302_98,nyan1302,yes,1.PL-put CLS-advice give 2.SG:Poss CLS-father-PL,1.PL-put CLS-advice give 2.SG:Poss CLS:PL-father-PL
+st_test_nyan1302_98,nyan1302,no,1.PL-put CLS-advice give 2.SG:Poss CLS:PL-father-PL,1.PL-put CLS-advice give 2.SG:Poss CLS:PL-father-PL
+st_test_nyan1302_99,nyan1302,yes,ok,ok
+st_test_nyan1302_99,nyan1302,no,ok,ok
+st_test_nyan1302_100,nyan1302,yes,CLS-spokesperson DEF inside-own one,CLS-spokesperson DEF inside-own one
+st_test_nyan1302_100,nyan1302,no,CLS-spokesperson DEF inside-own one,CLS-spokesperson DEF inside-own one
+st_test_nyan1302_101,nyan1302,yes,ok 2.PL walk,ok 2.PL:Poss walk
+st_test_nyan1302_101,nyan1302,no,ok 2.PL walk,ok 2.PL:Poss walk
+st_test_nyan1302_102,nyan1302,yes,COMP 2.SG-know just little-DEF be_high(river) ADDR,COMP 2.SG-know just little-DEF be_high(river) ADDR
+st_test_nyan1302_102,nyan1302,no,COMP 2.SG-know just little-DEF be_high(river) ADDR,COMP 2.SG-know just little-DEF be_high(river) ADDR
+st_test_nyan1302_103,nyan1302,yes,2.PL CLS-brother-PL,2.PL INTER-brother-PL
+st_test_nyan1302_103,nyan1302,no,2.PL INTER-brother-PL,2.PL INTER-brother-PL
+st_test_nyan1302_104,nyan1302,yes,3.PL-REP-VENITIVE-return SCONN-come,3.PL-REP-VENITIVE-return SCONN-come
+st_test_nyan1302_104,nyan1302,no,3.PL-REP-VENITIVE-return SCONN-come,3.PL-REP-VENITIVE-return SCONN-come
+st_test_nyan1302_105,nyan1302,yes,therefore 2.PL REL 2.SG-be TP,therefore 2.PL REL 2.SG-become TP
+st_test_nyan1302_105,nyan1302,no,therefore 2.PL REL 2.SG-be_located TP,therefore 2.PL REL 2.SG-become TP
+st_test_nyan1302_106,nyan1302,yes,all,all
+st_test_nyan1302_106,nyan1302,no,all,all
+st_test_nyan1302_107,nyan1302,yes,yes spokesperson AM-this there,yes spokesperson 2.SG-be_at there
+st_test_nyan1302_107,nyan1302,no,yes spokesperson 2.SG-be_at there,yes spokesperson 2.SG-be_at there
+st_test_nyan1302_108,nyan1302,yes,that CLS-today CLS-Saturday TP 1.PL-FUT-gather at here,that CLS-today CLS-Saturday TP 1.PL-FUT-gather at here
+st_test_nyan1302_108,nyan1302,no,that CLS-today CLS-Saturday TP 1.PL-FUT-gather at here,that CLS-today CLS-Saturday TP 1.PL-FUT-gather at here
+st_test_nyan1302_109,nyan1302,yes,2.SG-take CLS-kelome_tree CLS-bark|shell,2.SG-take CLS-kelome_tree CLS-bark|shell
+st_test_nyan1302_109,nyan1302,no,2.SG-take CLS-kelome_tree CLS-bark|shell,2.SG-take CLS-kelome_tree CLS-bark|shell
+st_test_nyan1302_110,nyan1302,yes,REL 3.PL-do CLS-work,REL 3.PL-do CLS-work
+st_test_nyan1302_110,nyan1302,no,REL 3.PL-do CLS-work,REL 3.PL-do CLS-work
+st_test_nyan1302_111,nyan1302,yes,uhm CLS-animal bright_away certain 3.PL-say CLS-year AM-one AM-hold AM-one,uhm CLS-animal big certain 3.PL-that CLS-year AM-one 3.SG-horn AM-one
+st_test_nyan1302_111,nyan1302,no,uhm CLS-animal bright_away certain 3.PL-say CLS-year AM-one CLS-horn AM-one,uhm CLS-animal big certain 3.PL-that CLS-year AM-one 3.SG-horn AM-one
+st_test_nyan1302_112,nyan1302,yes,3.SG-PROG-come CLS-boy DEF CLS-side,3.SG-PROG-come CLS-boy DEF CLS-side
+st_test_nyan1302_112,nyan1302,no,3.SG-PROG-come CLS-boy DEF CLS-side,3.SG-PROG-come CLS-boy DEF CLS-side
+st_test_nyan1302_113,nyan1302,yes,3.SG 1.SG-call at here,3.SG 1.SG-call at here
+st_test_nyan1302_113,nyan1302,no,3.SG 1.SG-call at here,3.SG 1.SG-call at here
+st_test_nyan1302_114,nyan1302,yes,1.PL foot 1.PL CLS-hand be_contained CLS-word DEF inside,1.PL foot 1.PL CLS-hand be_contained CLS-word DEF inside
+st_test_nyan1302_114,nyan1302,no,1.PL foot 1.PL CLS-hand be_contained CLS-word DEF inside,1.PL foot 1.PL CLS-hand be_contained CLS-word DEF inside
+st_test_nyan1302_115,nyan1302,yes,then if CLS-work DEF DEF REL CLS be_at,then if CLS-work DEF DEF REL CLS be_at
+st_test_nyan1302_115,nyan1302,no,then if CLS-work DEF DEF REL CLS be_at,then if CLS-work DEF DEF REL CLS be_at
+st_test_nyan1302_116,nyan1302,yes,3.PL-do CLS-3.SG then 3.PL-REP,3.PL-do CLS-3.SG then 3.PL-REP
+st_test_nyan1302_116,nyan1302,no,3.PL-do CLS-3.SG then 3.PL-REP,3.PL-do CLS-3.SG then 3.PL-REP
+st_test_nyan1302_117,nyan1302,yes,then CLS-announcer AM-announce give CLS-state,then CLS-announcer AM-announce give CLS-state
+st_test_nyan1302_117,nyan1302,no,then CLS-announcer AM-announce give CLS-state,then CLS-announcer AM-announce give CLS-state
+st_test_nyan1302_118,nyan1302,yes,CLS:PL-Tutrugbu_person CLS-state CLS-nine-inside-DEF,CLS:PL-Tutrugbu_person CLS-state CLS-nine-inside-DEF
+st_test_nyan1302_118,nyan1302,no,CLS:PL-Tutrugbu_person CLS-state CLS-nine-inside-DEF,CLS:PL-Tutrugbu_person CLS-state CLS-nine-inside-DEF
+st_test_nyan1302_119,nyan1302,yes,NEG:be_at CLS-side not_any skin,separate CLS-side not_any skin
+st_test_nyan1302_119,nyan1302,no,come_from CLS-side not_any skin,separate CLS-side not_any skin
+st_test_nyan1302_120,nyan1302,yes,1.PL mix then 1.PL-be_at here,1.PL mix then 1.PL-be_at here
+st_test_nyan1302_120,nyan1302,no,1.PL mix then 1.PL-be_at here,1.PL mix then 1.PL-be_at here
+st_test_nyan1302_121,nyan1302,yes,uhm therefore REL 1.SG-NEG:PST-remain therefore-TP,uhm therefore REL 1.SG-NEG:PST-remain therefore-TP
+st_test_nyan1302_121,nyan1302,no,uhm therefore REL 1.SG-NEG:PST-remain therefore-TP,uhm therefore REL 1.SG-NEG:PST-remain therefore-TP
+st_test_nyan1302_122,nyan1302,yes,certain at there,certain at there
+st_test_nyan1302_122,nyan1302,no,certain at there,certain at there
+st_test_nyan1302_123,nyan1302,yes,3.SG-FUT-kill,3.SG-VENITIVE-touch
+st_test_nyan1302_123,nyan1302,no,3.SG-FUT-knock,3.SG-VENITIVE-touch
+st_test_nyan1302_124,nyan1302,yes,3.PL-come 3.PL-VENTIVE-greet 1.PL,3.PL-come cheat-VENTIVE-greet 1.PL
+st_test_nyan1302_124,nyan1302,no,3.PL-come 3.PL-VENTIVE-greet 1.PL,3.PL-come cheat-VENTIVE-greet 1.PL
+st_test_nyan1302_125,nyan1302,yes,well uhm,well uhm
+st_test_nyan1302_125,nyan1302,no,well uhm,well uhm
+st_test_nyan1302_126,nyan1302,yes,AM-REP-climb,AM-REP-climb
+st_test_nyan1302_126,nyan1302,no,AM-REP-climb,AM-REP-climb
+st_test_nyan1302_127,nyan1302,yes,therefore now right_away REL 1.SG-do thus,therefore now right_away REL 1.SG-do thus
+st_test_nyan1302_127,nyan1302,no,therefore now right_away REL 1.SG-do thus,therefore now right_away REL 1.SG-do thus
+st_test_nyan1302_128,nyan1302,yes,REL 3.PL-lead 1.PL,REL 3.PL-lead 1.PL
+st_test_nyan1302_128,nyan1302,no,REL 3.PL-lead 1.PL,REL 3.PL-lead 1.PL
+st_test_nyan1302_129,nyan1302,yes,3.SG-say 2.SG-do exactly,3.SG-say CLS-do exactly
+st_test_nyan1302_129,nyan1302,no,3.SG-say 2.SG-do exactly,3.SG-say CLS-do exactly
+st_test_nyan1302_130,nyan1302,yes,SCONN-take come_with,SCONN-take come_with
+st_test_nyan1302_130,nyan1302,no,SCONN-take come_with,SCONN-take come_with
+st_test_nyan1302_131,nyan1302,yes,CLS-word-every-word,CLS-word-every-word
+st_test_nyan1302_131,nyan1302,no,CLS-word-every-word,CLS-word-every-word
+st_test_nyan1302_132,nyan1302,yes,CLS-Okume,CLS-Okume
+st_test_nyan1302_132,nyan1302,no,CLS-Okume,CLS-Okume
+st_test_nyan1302_133,nyan1302,yes,CLS-1.PL CLS-hand,CLS-1.PL CLS-hand
+st_test_nyan1302_133,nyan1302,no,CLS-1.PL CLS-hand,CLS-1.PL CLS-hand
+st_test_nyan1302_134,nyan1302,yes,3.PL-FUT-buy_liquid_stuff CLS:PL-beverage,3.PL-FUT-buy_liquid_stuff CLS:PL-beverage
+st_test_nyan1302_134,nyan1302,no,3.PL-FUT-buy_liquid_stuff CLS:PL-beverage,3.PL-FUT-buy_liquid_stuff CLS:PL-beverage
+st_test_nyan1302_135,nyan1302,yes,REL 3.PL PROG-eat,REL 3.PL PROG-eat
+st_test_nyan1302_135,nyan1302,no,REL 3.PL PROG-eat,REL 3.PL PROG-eat
+st_test_nyan1302_136,nyan1302,yes,3.SG-take CLS-hand SCONN-set_fire more,3.SG-take CLS-hand SCONN-make_contact jaw
+st_test_nyan1302_136,nyan1302,no,3.SG-take CLS-hand 3.SG-set_fire be_at,3.SG-take CLS-hand SCONN-make_contact jaw
+st_test_nyan1302_137,nyan1302,yes,3.SG-be that REL 3.PL-set_down CLS-chief-DEF,3.SG-be that REL 3.PL-set_down CLS-chief-DEF
+st_test_nyan1302_137,nyan1302,no,3.SG-be that REL 3.PL-set_down CLS-chief-DEF,3.SG-be that REL 3.PL-set_down CLS-chief-DEF
+st_test_nyan1302_138,nyan1302,yes,then AM-call 1.SG thus CLS:PL-Tutrugbu_person,then AM-call 1.SG thus CLS:PL-Tutrugbu_person
+st_test_nyan1302_138,nyan1302,no,then AM-call 1.SG thus CLS:PL-Tutrugbu_person,then AM-call 1.SG thus CLS:PL-Tutrugbu_person
+st_test_nyan1302_139,nyan1302,yes,hair 1.PL-ITIVE do CLS-state-work ADDR,hair 1.PL-ITIVE do CLS-state-work ADDR
+st_test_nyan1302_139,nyan1302,no,hair 1.PL-ITIVE do CLS-state-work ADDR,hair 1.PL-ITIVE do CLS-state-work ADDR
+st_test_nyan1302_140,nyan1302,yes,CLS-person FOC die at here CLS-today also Konda,CLS-person FOC die at here CLS-today also Konda
+st_test_nyan1302_140,nyan1302,no,CLS-person FOC die at here CLS-today also Konda,CLS-person FOC die at here CLS-today also Konda
+st_test_nyan1302_141,nyan1302,yes,then 3.SG-see CLS-animal CLS-horn AM-two certain,then 3.SG-see CLS-animal CLS-horn AM-two certain
+st_test_nyan1302_141,nyan1302,no,then 3.SG-see CLS-animal CLS-horn AM-two certain,then 3.SG-see CLS-animal CLS-horn AM-two certain
+st_test_nyan1302_142,nyan1302,yes,REL-NEG:be now 3.PL-REP-VENITIVE-carry-3.SG,REL-NEG:be now 3.PL-REP-VENITIVE-carry-3.SG
+st_test_nyan1302_142,nyan1302,no,REL-NEG:be now 3.PL-REP-VENITIVE-carry-3.SG,REL-NEG:be now 3.PL-REP-VENITIVE-carry-3.SG
+st_test_nyan1302_143,nyan1302,yes,3.SG-child CLS-boy DEF,SCONN-catch CLS-boy DEF
+st_test_nyan1302_143,nyan1302,no,3.SG-child CLS-boy DEF,SCONN-catch CLS-boy DEF
+st_test_nyan1302_144,nyan1302,yes,spokesperson CLS-that,spokesperson 2.SG-be_at
+st_test_nyan1302_144,nyan1302,no,spokesperson 2.SG-be_at,spokesperson 2.SG-be_at
+st_test_nyan1302_145,nyan1302,yes,3.PL-VENTIVE-help CLS-1.PL,3.PL-VENTIVE-help CLS-1.PL
+st_test_nyan1302_145,nyan1302,no,3.PL-VENTIVE-help CLS-1.PL,3.PL-VENTIVE-help CLS-1.PL
+st_test_nyan1302_146,nyan1302,yes,3.SG-FUT-remain well at there inside,AM-3.PL-remain well at this inside
+st_test_nyan1302_146,nyan1302,no,AM-VENTIVE-remain well at here inside,AM-3.PL-remain well at this inside
+st_test_nyan1302_147,nyan1302,yes,therefore uhm 1.PL,therefore uhm 1.PL
+st_test_nyan1302_147,nyan1302,no,therefore uhm 1.PL,therefore uhm 1.PL
+st_test_nyan1302_148,nyan1302,yes,3.PL-say 3.PL-FUT-give SCONN-that 1.PL 1.PL-do,3.PL-say 3.PL-FUT-give SCONN-that 1.PL 1.PL-do
+st_test_nyan1302_148,nyan1302,no,3.PL-say 3.PL-FUT-give SCONN-that 1.PL 1.PL-do,3.PL-say 3.PL-FUT-give SCONN-that 1.PL 1.PL-do
+st_test_nyan1302_149,nyan1302,yes,3.PL-woman CLS-between,CLS:PL-woman CLS-between
+st_test_nyan1302_149,nyan1302,no,3.PL-woman CLS-between,CLS:PL-woman CLS-between
+st_test_nyan1302_150,nyan1302,yes,then 3.PL-descend SCONN-go CLS-ground DEF matter TP,then 3.PL-descend AM-go CLS-valley DEF matter TP
+st_test_nyan1302_150,nyan1302,no,then 3.PL-descend SCONN-go CLS-IDPH DEF matter TP,then 3.PL-descend AM-go CLS-valley DEF matter TP
+st_test_nyan1302_151,nyan1302,yes,then 3.PL-VENITIVE-appear CLS-show,then 3.PL-VENITIVE-appear CLS-show
+st_test_nyan1302_151,nyan1302,no,then 3.PL-VENITIVE-appear CLS-show,then 3.PL-VENITIVE-appear CLS-show
+st_test_nyan1302_152,nyan1302,yes,CLS:PL-3.SG 3.PL-PROG-do give 1.PL first,CLS:PL-3.PL 3.PL-PROG-do give 1.PL first
+st_test_nyan1302_152,nyan1302,no,CLS:PL-3.SG 3.PL-PROG-do give 1.PL first,CLS:PL-3.PL 3.PL-PROG-do give 1.PL first
+st_test_nyan1302_153,nyan1302,yes,CLS-this CLS-fever,CLS-3.SG CLS-sun
+st_test_nyan1302_153,nyan1302,no,CLS-this CLS-fever,CLS-3.SG CLS-sun
+st_test_nyan1302_154,nyan1302,yes,1.PL:POSS CLS:PL-skin CLS-hand,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_154,nyan1302,no,1.PL:POSS CLS:PL-skin CLS-hand,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_155,nyan1302,yes,then 3.SG-show therefore then 1.PL also 3.SG-do as 1.PL be_at CLS:PL-skin CLS-hand inside,then 3.SG-show therefore then 1.PL also 3.SG-do as 1.PL be_at CLS:PL-skin CLS-hand inside
+st_test_nyan1302_155,nyan1302,no,then 3.SG-show therefore then 1.PL also 3.SG-do as 1.PL be_at CLS:PL-skin CLS-hand inside,then 3.SG-show therefore then 1.PL also 3.SG-do as 1.PL be_at CLS:PL-skin CLS-hand inside
+st_test_nyan1302_156,nyan1302,yes,3.SG-FUT-remain CLS-chair inside,AM-FUT-remain CLS-chair inside
+st_test_nyan1302_156,nyan1302,no,3.SG-VENTIVE-remain CLS-chair inside,AM-FUT-remain CLS-chair inside
+st_test_nyan1302_157,nyan1302,yes,CLS-owner-DEF at CLS-reach-DEF inside also ADDR,CLS-owner-DEF at CLS-reach-DEF inside also ADDR
+st_test_nyan1302_157,nyan1302,no,CLS-owner-DEF at CLS-reach-DEF inside also ADDR,CLS-owner-DEF at CLS-reach-DEF inside also ADDR
+st_test_nyan1302_158,nyan1302,yes,3.PL-NEG:PRS-do CLS-that,3.PL-NEG:PRS-do CLS-3.SG
+st_test_nyan1302_158,nyan1302,no,3.PL-NEG:PRS-do CLS-3.SG,3.PL-NEG:PRS-do CLS-3.SG
+st_test_nyan1302_159,nyan1302,yes,CLS-person FOC die at here CLS-today also Konda,CLS-person FOC die at here CLS-today also Konda
+st_test_nyan1302_159,nyan1302,no,CLS-person FOC die at here CLS-today also Konda,CLS-person FOC die at here CLS-today also Konda
+st_test_nyan1302_160,nyan1302,yes,therefore 2.SG-do then 2.SG-puncture CLS-hole-DEF,therefore 2.SG-do then 2.SG-puncture CLS-hole-DEF
+st_test_nyan1302_160,nyan1302,no,therefore 2.SG-do then 2.SG-puncture CLS-hole-DEF,therefore 2.SG-do then 2.SG-puncture CLS-hole-DEF
+st_test_nyan1302_161,nyan1302,yes,CLS-here 1.SG-see finish,CLS-here 1.SG-see finish
+st_test_nyan1302_161,nyan1302,no,CLS-here 1.SG-see finish,CLS-here 1.SG-see finish
+st_test_nyan1302_162,nyan1302,yes,2.SG-go,2.SG-go
+st_test_nyan1302_162,nyan1302,no,2.SG-go,2.SG-go
+st_test_nyan1302_163,nyan1302,yes,2.SG-FUT-ITIVE-climb Ediewono 3.SG CLS-stone,2.SG-FUT-ITIVE-climb Ediewono 3.SG CLS-stone
+st_test_nyan1302_163,nyan1302,no,2.SG-FUT-ITIVE-climb Ediewono 3.SG CLS-stone,2.SG-FUT-ITIVE-climb Ediewono 3.SG CLS-stone
+st_test_nyan1302_164,nyan1302,yes,1.PL CLS:PL-Tutrugbu_person certain,1.PL CLS:PL-Tutrugbu_person custom
+st_test_nyan1302_164,nyan1302,no,1.PL CLS:PL-Tutrugbu_person certain,1.PL CLS:PL-Tutrugbu_person custom
+st_test_nyan1302_165,nyan1302,yes,then 1.PL-FUT-remain 3.SG at Banya or Nyagbo_Sroe,then 1.PL-come-remain here at Banya or Nyagbo
+st_test_nyan1302_165,nyan1302,no,then 1.PL-FUT-remain 3.SG at Nyagbo_Sroe or Nyagbo_Sroe,then 1.PL-come-remain here at Banya or Nyagbo
+st_test_nyan1302_166,nyan1302,yes,2.SG-own REL 2.SG also 2.SG-hold,2.SG-own REL 2.SG also PROG-hold
+st_test_nyan1302_166,nyan1302,no,2.SG-own REL 2.SG also PROG-handle,2.SG-own REL 2.SG also PROG-hold
+st_test_nyan1302_167,nyan1302,yes,then CLS-woman DEF AM-REP-exit,then CLS-woman DEF AM-REP-exit
+st_test_nyan1302_167,nyan1302,no,then CLS-woman DEF AM-REP-exit,then CLS-woman DEF AM-REP-exit
+st_test_nyan1302_168,nyan1302,yes,that REL CLS-man DEF AM-get_up first,because REL CLS-man DEF AM-get_up first
+st_test_nyan1302_168,nyan1302,no,3.SG-say REL CLS-man DEF AM-get_up first,because REL CLS-man DEF AM-get_up first
+st_test_nyan1302_169,nyan1302,yes,therefore uhm 1.PL,therefore uhm 1.PL
+st_test_nyan1302_169,nyan1302,no,therefore uhm 1.PL,therefore uhm 1.PL
+st_test_nyan1302_170,nyan1302,yes,knife,by_all_means
+st_test_nyan1302_170,nyan1302,no,hole-ADDR,by_all_means
+st_test_nyan1302_171,nyan1302,yes,trouble,trouble
+st_test_nyan1302_171,nyan1302,no,trouble,trouble
+st_test_nyan1302_172,nyan1302,yes,CLS-water-DEF be_high(river) ADDR,CLS-water-DEF be_high(river) ADDR
+st_test_nyan1302_172,nyan1302,no,CLS-water-DEF be_high(river) ADDR,CLS-water-DEF be_high(river) ADDR
+st_test_nyan1302_173,nyan1302,yes,CLS-pile then 1.PL-PROG-do there,CLS-pile then 1.PL-PROG-do that
+st_test_nyan1302_173,nyan1302,no,CLS-pile then 1.PL-PROG-do that,CLS-pile then 1.PL-PROG-do that
+st_test_nyan1302_174,nyan1302,yes,CLS-spokesperson DEF inside-own one,CLS-spokesperson DEF inside-own one
+st_test_nyan1302_174,nyan1302,no,CLS-spokesperson DEF inside-own one,CLS-spokesperson DEF inside-own one
+st_test_nyan1302_175,nyan1302,yes,then 3.SG AM-want SCONN-say 2.SG-come_from-3.SG just,then 3.SG AM-want SCONN-that SCONN-catch-3.SG just
+st_test_nyan1302_175,nyan1302,no,then 3.SG AM-want SCONN-that 3.SG-come_from just,then 3.SG AM-want SCONN-that SCONN-catch-3.SG just
+st_test_nyan1302_176,nyan1302,yes,CLS-there 3.PL-leave just-TP 3.PL-VENITIVE-reach CLS-place,CLS-there 3.PL-leave just-DEF 3.PL-VENITIVE-reach CLS-place
+st_test_nyan1302_176,nyan1302,no,CLS-there 3.PL-leave just-TP 3.PL-VENITIVE-reach CLS-place,CLS-there 3.PL-leave just-DEF 3.PL-VENITIVE-reach CLS-place
+st_test_nyan1302_177,nyan1302,yes,3.PL-say AM-look_at just-TP,3.PL-say SCONN-look_at just-DEF
+st_test_nyan1302_177,nyan1302,no,3.PL-say AM-look_at just-TP,3.PL-say SCONN-look_at just-DEF
+st_test_nyan1302_178,nyan1302,yes,therefore-DEF 1.PL:POSS CLS-river-DEF CLS-this skin,therefore-DEF 1.PL:POSS CLS-river-DEF CLS-this skin
+st_test_nyan1302_178,nyan1302,no,therefore-DEF 1.PL:POSS CLS-river-DEF CLS-this skin,therefore-DEF 1.PL:POSS CLS-river-DEF CLS-this skin
+st_test_nyan1302_179,nyan1302,yes,CLS-state thus,CLS-state thus
+st_test_nyan1302_179,nyan1302,no,CLS-state thus,CLS-state thus
+st_test_nyan1302_180,nyan1302,yes,uhm Konda with CLS:PL-guest REL 3.PL-come_from CLS:PL-certain AM-come_from Hahute,uhm Konda with CLS:PL-guest REL 3.PL-come_from CLS:PL-certain AM-come_from Hahute
+st_test_nyan1302_180,nyan1302,no,uhm Konda with CLS:PL-guest REL 3.PL-come_from CLS:PL-certain AM-come_from Hahute,uhm Konda with CLS:PL-guest REL 3.PL-come_from CLS:PL-certain AM-come_from Hahute
+st_test_nyan1302_181,nyan1302,yes,walk gently-gently thus,walk gently-gently thus
+st_test_nyan1302_181,nyan1302,no,walk gently-gently thus,walk gently-gently thus
+st_test_nyan1302_182,nyan1302,yes,thus,thus
+st_test_nyan1302_182,nyan1302,no,thus,thus
+st_test_nyan1302_183,nyan1302,yes,CLS:PL-person DEF AM-ITIVE-put_in CLS:PL-thing at,CLS:PL-person DEF AM-ITIVE-put_in CLS:PL-thing at
+st_test_nyan1302_183,nyan1302,no,CLS:PL-person DEF AM-ITIVE-put_in CLS:PL-thing at,CLS:PL-person DEF AM-ITIVE-put_in CLS:PL-thing at
+st_test_nyan1302_184,nyan1302,yes,then 1.PL all then 1.PL-go CLS-work inside,then 1.PL all then 1.PL-go CLS-work inside
+st_test_nyan1302_184,nyan1302,no,then 1.PL all then 1.PL-go CLS-work inside,then 1.PL all then 1.PL-go CLS-work inside
+st_test_nyan1302_185,nyan1302,yes,CLS:PL-medicine skin,CLS:PL-medicine skin
+st_test_nyan1302_185,nyan1302,no,CLS:PL-medicine skin,CLS:PL-medicine skin
+st_test_nyan1302_186,nyan1302,yes,at here completely,at here completely
+st_test_nyan1302_186,nyan1302,no,at here completely,at here completely
+st_test_nyan1302_187,nyan1302,yes,then 3.PL also return climb SCONN-go,then 3.PL also return climb SCONN-go
+st_test_nyan1302_187,nyan1302,no,then 3.PL also return climb SCONN-go,then 3.PL also return climb SCONN-go
+st_test_nyan1302_188,nyan1302,yes,therefore then 2.SG-grind put_in 2.SG-see,therefore then 2.SG-pierce put_in 2.SG-see
+st_test_nyan1302_188,nyan1302,no,therefore then 2.SG-grind put_in 2.SG-see,therefore then 2.SG-pierce put_in 2.SG-see
+st_test_nyan1302_189,nyan1302,yes,CLS-water-DEF be_high(river) ADDR,CLS-water-DEF be_high(river) ADDR
+st_test_nyan1302_189,nyan1302,no,CLS-water-DEF be_high(river) ADDR,CLS-water-DEF be_high(river) ADDR
+st_test_nyan1302_190,nyan1302,yes,then 3.SG-put_in CLS-noise-DEF,then 3.SG-put_in CLS-noise-DEF
+st_test_nyan1302_190,nyan1302,no,then 3.SG-put_in CLS-noise-DEF,then 3.SG-put_in CLS-noise-DEF
+st_test_nyan1302_191,nyan1302,yes,3.SG 3.PL-say that CLS-beverage-DEF put_in,FOC 3.PL-say that CLS-beverage-DEF be_good
+st_test_nyan1302_191,nyan1302,no,3.SG 3.PL-say that CLS-beverage-DEF put_in,FOC 3.PL-say that CLS-beverage-DEF be_good
+st_test_nyan1302_192,nyan1302,yes,1.PL-separate give CLS:PL-person DEF,1.PL-separate give CLS:PL-person DEF
+st_test_nyan1302_192,nyan1302,no,1.PL-separate give CLS:PL-person DEF,1.PL-separate give CLS:PL-person DEF
+st_test_nyan1302_193,nyan1302,yes,2.SG-see then 2.SG-tap_palmwine 2.SG-be_at thus,2.SG-see then 2.SG-pull CLS-3.SG thus
+st_test_nyan1302_193,nyan1302,no,2.SG-see then 2.SG-know CLS-3.SG thus,2.SG-see then 2.SG-pull CLS-3.SG thus
+st_test_nyan1302_194,nyan1302,yes,then 3.SG-leave,then 3.SG-leave
+st_test_nyan1302_194,nyan1302,no,then 3.SG-leave,then 3.SG-leave
+st_test_nyan1302_195,nyan1302,yes,3.PL-VENTIVE-PROG-put_in CLS:PL-thing SCONN-give 1.PL at there at CLS-river-DEF inside,3.PL-VENTIVE-PROG-put_in CLS:PL-thing SCONN-give 1.PL at there at CLS-river-DEF inside
+st_test_nyan1302_195,nyan1302,no,3.PL-VENTIVE-PROG-put_in CLS:PL-thing SCONN-give 1.PL at there at CLS-river-DEF inside,3.PL-VENTIVE-PROG-put_in CLS:PL-thing SCONN-give 1.PL at there at CLS-river-DEF inside
+st_test_nyan1302_196,nyan1302,yes,3.SG CLS-place 1.SG-remain therefore 3.SG CLS-teach,3.SG:Poss CLS-place 1.SG-remain therefore 3.SG AM-teach
+st_test_nyan1302_196,nyan1302,no,3.SG CLS-place 1.SG-remain therefore 3.SG CLS-teach,3.SG:Poss CLS-place 1.SG-remain therefore 3.SG AM-teach
+st_test_nyan1302_197,nyan1302,yes,all,all
+st_test_nyan1302_197,nyan1302,no,all,all
+st_test_nyan1302_198,nyan1302,yes,then this 1.PL CLS:PL-Tutrugbu_person TP all skin,this be_at 1.PL CLS:PL-Tutrugbu_person DEF all skin
+st_test_nyan1302_198,nyan1302,no,then this 1.PL CLS:PL-Tutrugbu_person TP all skin,this be_at 1.PL CLS:PL-Tutrugbu_person DEF all skin
+st_test_nyan1302_199,nyan1302,yes,then 3.SG-NEG:PRS-finish at 2.SG:Poss body,then 3.SG-already-finish at 2.SG:Poss body
+st_test_nyan1302_199,nyan1302,no,then 3.SG-NEG:PRS-finish at 2.SG:Poss body,then 3.SG-already-finish at 2.SG:Poss body
+st_test_nyan1302_200,nyan1302,yes,this_one 3.SG-be CLS-fresh_palm_leaf,this_one 3.SG-be CLS-palm_frond
+st_test_nyan1302_200,nyan1302,no,this_one 3.SG-be CLS-fresh_palm_leaf-3.SG,this_one 3.SG-be CLS-palm_frond
+st_test_nyan1302_201,nyan1302,yes,1.PL-put_in CLS-3.SG just,1.PL-put_in 3.PL just
+st_test_nyan1302_201,nyan1302,no,1.PL-put_in 3.PL just,1.PL-put_in 3.PL just
+st_test_nyan1302_202,nyan1302,yes,matter DEF,Sroe DEF
+st_test_nyan1302_202,nyan1302,no,matter DEF,Sroe DEF
+st_test_nyan1302_203,nyan1302,yes,CLS-chief-DEF AM-give message,CLS-chief-DEF AM-give message
+st_test_nyan1302_203,nyan1302,no,CLS-chief-DEF AM-give message,CLS-chief-DEF AM-give message
+st_test_nyan1302_204,nyan1302,yes,1.SG-hit God CLS-hand,1.SG-hit God CLS-hand
+st_test_nyan1302_204,nyan1302,no,1.SG-hit God CLS-hand,1.SG-hit God CLS-hand
+st_test_nyan1302_205,nyan1302,yes,CLS-cotton DEF is_this,CLS-cotton DEF is_this
+st_test_nyan1302_205,nyan1302,no,CLS-cotton DEF is_this,CLS-cotton DEF is_this
+st_test_nyan1302_206,nyan1302,yes,3.SG-FUT-take-3.SG,3.SG-FUT-take-3.SG
+st_test_nyan1302_206,nyan1302,no,3.SG-VENTIVE-take-3.SG,3.SG-FUT-take-3.SG
+st_test_nyan1302_207,nyan1302,yes,CLS-3.SG SCONN-that 1.PL be,CLS-3.SG SCONN-that 1.PL be
+st_test_nyan1302_207,nyan1302,no,CLS-3.SG SCONN-that 1.PL be,CLS-3.SG SCONN-that 1.PL be
+st_test_nyan1302_208,nyan1302,yes,then 2.SG-VENITIVE-come CLS-this,then 2.SG-VENITIVE-come CLS-this
+st_test_nyan1302_208,nyan1302,no,then 2.SG-VENITIVE-come CLS-this,then 2.SG-VENITIVE-come CLS-this
+st_test_nyan1302_209,nyan1302,yes,REL 3.PL-call that,REL 3.PL-call that
+st_test_nyan1302_209,nyan1302,no,REL 3.PL-call that,REL 3.PL-call that
+st_test_nyan1302_210,nyan1302,yes,but 3.SG CLS-leg-DEF-place 1.PL-drink,but 3.SG:Poss CLS-leg-CLS-place AM-show
+st_test_nyan1302_210,nyan1302,no,but 3.SG CLS-leg-place 1.PL-drink,but 3.SG:Poss CLS-leg-CLS-place AM-show
+st_test_nyan1302_211,nyan1302,yes,uhm 1.PL all 1.PL-do CLS-time CLS-top PRT,uhm 1.PL all 1.PL-do CLS-time CLS-top PRT
+st_test_nyan1302_211,nyan1302,no,uhm 1.PL all 1.PL-do CLS-time CLS-top PRT,uhm 1.PL all 1.PL-do CLS-time CLS-top PRT
+st_test_nyan1302_212,nyan1302,yes,cloth TP,cloth TP
+st_test_nyan1302_212,nyan1302,no,cloth TP,cloth TP
+st_test_nyan1302_213,nyan1302,yes,3.PL-VENTIVE-help CLS-1.PL,3.PL-VENTIVE-help CLS-1.PL
+st_test_nyan1302_213,nyan1302,no,3.PL-VENTIVE-help CLS-1.PL,3.PL-VENTIVE-help CLS-1.PL
+st_test_nyan1302_214,nyan1302,yes,at CLS-waist,at CLS-waist
+st_test_nyan1302_214,nyan1302,no,at CLS-waist,at CLS-waist
+st_test_nyan1302_215,nyan1302,yes,therefore nyimo 3.SG:Poss CLS-root-DEF 1.PL-be_at,therefore shrub_name 3.SG:Poss CLS-root-DEF AM-be_at
+st_test_nyan1302_215,nyan1302,no,therefore nyimo 3.SG:Poss CLS-root-DEF 3.SG-be_at,therefore shrub_name 3.SG:Poss CLS-root-DEF AM-be_at
+st_test_nyan1302_216,nyan1302,yes,REL 1.PL-do CLS-word AM-one,REL 1.PL-do CLS-word AM-one
+st_test_nyan1302_216,nyan1302,no,REL 1.PL-do CLS-word AM-one,REL 1.PL-do CLS-word AM-one
+st_test_nyan1302_217,nyan1302,yes,CLS-underneath,down
+st_test_nyan1302_217,nyan1302,no,down,down
+st_test_nyan1302_218,nyan1302,yes,go-COMITATIVE CLS-front,go-COMITATIVE CLS-front
+st_test_nyan1302_218,nyan1302,no,go-COMITATIVE CLS-front,go-COMITATIVE CLS-front
+st_test_nyan1302_219,nyan1302,yes,therefore-DEF that CLS-time owner-DEF AM-know CLS-word,therefore-DEF that CLS-time owner-DEF AM-know CLS-word
+st_test_nyan1302_219,nyan1302,no,therefore-DEF that CLS-time owner-DEF AM-know CLS-word,therefore-DEF that CLS-time owner-DEF AM-know CLS-word
+st_test_nyan1302_220,nyan1302,yes,CLS-there,CLS-there
+st_test_nyan1302_220,nyan1302,no,CLS-there,CLS-there
+st_test_nyan1302_221,nyan1302,yes,therefore then 3.SG be_at 3.SG-only at there,therefore then 3.SG be_at CLS-upright at there
+st_test_nyan1302_221,nyan1302,no,therefore then 3.SG be_at 3.SG-one at there,therefore then 3.SG be_at CLS-upright at there
+st_test_nyan1302_222,nyan1302,yes,then 2.SG-walk CLS-that REL 2.SG-eat CLS-this,then CLS-rope CLS-that REL AM-be_far CLS:PL-this
+st_test_nyan1302_222,nyan1302,no,then 2.SG-return CLS-3.SG REL 2.SG-come[FUT] CLS-3.SG,then CLS-rope CLS-that REL AM-be_far CLS:PL-this
+st_test_nyan1302_223,nyan1302,yes,uhm therefore-TP CLS-path be_at,uhm therefore-TP CLS-path be_at
+st_test_nyan1302_223,nyan1302,no,uhm therefore-TP CLS-path be_at,uhm therefore-TP CLS-path be_at
+st_test_nyan1302_224,nyan1302,yes,then 3.SG-show,then 3.SG-show
+st_test_nyan1302_224,nyan1302,no,then 3.SG-show,then 3.SG-show
+st_test_nyan1302_225,nyan1302,yes,REL 3.SG-be this_one 3.SG AM-FUT-give that,REL 3.SG-be this_one FOC 3.SG-FUT-give that
+st_test_nyan1302_225,nyan1302,no,REL 3.SG-be this_one 3.SG AM-FUT-give that,REL 3.SG-be this_one FOC 3.SG-FUT-give that
+st_test_nyan1302_226,nyan1302,yes,CLS-person tie DEF AM-do,CLS-person every person AM-do
+st_test_nyan1302_226,nyan1302,no,CLS-person tie DEF AM-do,CLS-person every person AM-do
+st_test_nyan1302_227,nyan1302,yes,CLS-medicine DEF,CLS:PL-medicine DEF
+st_test_nyan1302_227,nyan1302,no,CLS-medicine DEF,CLS:PL-medicine DEF
+st_test_nyan1302_228,nyan1302,yes,inside 3.SG-return 3.SG:Poss CLS-teach 1.SG that thus 3.SG spin,1.SG:Poss CLS-grandmother FOC AM-teach 1.SG that thus 3.SG spin
+st_test_nyan1302_228,nyan1302,no,inside 3.SG-return 3.SG:Poss CLS-teach 1.SG that thus 3.SG spin,1.SG:Poss CLS-grandmother FOC AM-teach 1.SG that thus 3.SG spin
+st_test_nyan1302_229,nyan1302,yes,uhm CLS-frog AM-climb SCONN-be_on CLS-tree DEF CLS-top,uhm CLS:PL-frog 3.PL-climb SCONN-be_on CLS-tree DEF CLS-top
+st_test_nyan1302_229,nyan1302,no,uhm CLS-frog AM-climb SCONN-be_on CLS-tree DEF CLS-top,uhm CLS:PL-frog 3.PL-climb SCONN-be_on CLS-tree DEF CLS-top
+st_test_nyan1302_230,nyan1302,yes,CLS:PL-certain AM-come_from uhm Aveno,CLS:PL-certain AM-come_from uhm Aveno
+st_test_nyan1302_230,nyan1302,no,CLS:PL-certain AM-come_from uhm Aveno,CLS:PL-certain AM-come_from uhm Aveno
+st_test_nyan1302_231,nyan1302,yes,1.PL-know CLS-remain REL 2.SG-remain at 1.PL,1.PL-know CLS-remain REL 2.SG-remain at 1.PL
+st_test_nyan1302_231,nyan1302,no,1.PL-know CLS-remain REL 2.SG-remain at 1.PL,1.PL-know CLS-remain REL 2.SG-remain at 1.PL
+st_test_nyan1302_232,nyan1302,yes,then 3.PL-VENTIVE-take come_with CLS-old_person CLS-place,then 3.PL-FUT-take come_with CLS-old CLS-place
+st_test_nyan1302_232,nyan1302,no,then 3.PL-VENTIVE-take come_with CLS-old_person CLS-place,then 3.PL-FUT-take come_with CLS-old CLS-place
+st_test_nyan1302_233,nyan1302,yes,NEG:PRS-not_yet-PROG-climb CLS-stone DEF,NEG:PRS-not_yet-PROG-climb CLS-stone DEF
+st_test_nyan1302_233,nyan1302,no,NEG:PRS-not_yet-PROG-climb CLS-stone DEF,NEG:PRS-not_yet-PROG-climb CLS-stone DEF
+st_test_nyan1302_234,nyan1302,yes,ok,ok
+st_test_nyan1302_234,nyan1302,no,ok,ok
+st_test_nyan1302_235,nyan1302,yes,CLS-light-DEF quickly catch_fire COMP 1.SG-blow,CLS-fire-DEF quickly burn COMP 1.SG-blow
+st_test_nyan1302_235,nyan1302,no,CLS-light-DEF quickly catch_fire COMP 1.SG-blow,CLS-fire-DEF quickly burn COMP 1.SG-blow
+st_test_nyan1302_236,nyan1302,yes,child be_hard REL 3.SG-be CLS-dawadawa_tree 3.SG,hold be_hard REL 3.SG-be CLS-dawadawa_tree 3.SG:Poss
+st_test_nyan1302_236,nyan1302,no,house be_hard REL 3.SG-be CLS-dawadawa_tree 3.SG,hold be_hard REL 3.SG-be CLS-dawadawa_tree 3.SG:Poss
+st_test_nyan1302_237,nyan1302,yes,CLS-unprocessed_rice 1.PL-pound,CLS-unprocessed_rice 1.PL-grind
+st_test_nyan1302_237,nyan1302,no,CLS-unprocessed_rice 1.PL-grind,CLS-unprocessed_rice 1.PL-grind
+st_test_nyan1302_238,nyan1302,yes,well 2.PL also 2.PL place be_cold,well 2.PL also 2.PL place be_cold
+st_test_nyan1302_238,nyan1302,no,well 2.PL also 2.PL place be_cold,well 2.PL also 2.PL place be_cold
+st_test_nyan1302_239,nyan1302,yes,then 1.PL-ask CLS-3.PL what_is_it,then 1.PL-ask CLS-3.PL what_is_it
+st_test_nyan1302_239,nyan1302,no,then 1.PL-ask CLS-3.PL what_is_it,then 1.PL-ask CLS-3.PL what_is_it
+st_test_nyan1302_240,nyan1302,yes,give CLS:PL father,give CLS:PL father
+st_test_nyan1302_240,nyan1302,no,give CLS:PL father,give CLS:PL father
+st_test_nyan1302_241,nyan1302,yes,1.SG-REP-see that CLS:PL-person be_cold be_cold,1.SG-REP-see that CLS:PL-person AM four
+st_test_nyan1302_241,nyan1302,no,1.SG-REP-see that CLS:PL-person AM-REP-see AM-NEG:PST-see,1.SG-REP-see that CLS:PL-person AM four
+st_test_nyan1302_242,nyan1302,yes,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just
+st_test_nyan1302_242,nyan1302,no,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just
+st_test_nyan1302_243,nyan1302,yes,CLS-day_removed,CLS-day_removed
+st_test_nyan1302_243,nyan1302,no,CLS-day_removed,CLS-day_removed
+st_test_nyan1302_244,nyan1302,yes,3.SG-do give inside as,3.SG-do give inside as
+st_test_nyan1302_244,nyan1302,no,3.SG-do give inside as,3.SG-do give inside as
+st_test_nyan1302_245,nyan1302,yes,1.PL:POSS CLS:PL-skin CLS-hand,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_245,nyan1302,no,1.PL:POSS CLS:PL-skin CLS-hand,1.PL:POSS CLS:PL-skin CLS-hand
+st_test_nyan1302_246,nyan1302,yes,one,one
+st_test_nyan1302_246,nyan1302,no,one,one
+st_test_nyan1302_247,nyan1302,yes,2.SG-say CLS-lie,2.SG-say CLS-lie
+st_test_nyan1302_247,nyan1302,no,2.SG-say CLS-lie,2.SG-say CLS-lie
+st_test_nyan1302_248,nyan1302,yes,CLS-owner-DEF at CLS-reach-DEF inside also ADDR,CLS-owner-DEF at CLS-reach-DEF inside also ADDR
+st_test_nyan1302_248,nyan1302,no,CLS-owner-DEF at CLS-reach-DEF inside also ADDR,CLS-owner-DEF at CLS-reach-DEF inside also ADDR
+st_test_nyan1302_249,nyan1302,yes,LOC 3.SG-take go-COMITATIVE CLS-room DEF inside,DEF SCONN-take go-COMITATIVE CLS-room DEF inside
+st_test_nyan1302_249,nyan1302,no,LOC 3.SG-take go-COMITATIVE CLS-room DEF inside,DEF SCONN-take go-COMITATIVE CLS-room DEF inside
+st_test_nyan1302_250,nyan1302,yes,3.PL that all 3.PL-be CLS:PL-medicine REL,3.PL that all AM-be CLS:PL-medicine REL
+st_test_nyan1302_250,nyan1302,no,3.PL that all 3.PL-be CLS:PL-medicine REL,3.PL that all AM-be CLS:PL-medicine REL
+st_test_nyan1302_251,nyan1302,yes,REL 3.SG-be schnapps bottle AM-two CLS-bark|shell,REL 3.SG-be schnapps bottle AM-two CLS-bark|shell
+st_test_nyan1302_251,nyan1302,no,REL 3.SG-be schnapps bottle AM-two CLS-bark|shell,REL 3.SG-be schnapps bottle AM-two CLS-bark|shell
+st_test_nyan1302_252,nyan1302,yes,CLS-here 1.SG-see finish,CLS-here 1.SG-see finish
+st_test_nyan1302_252,nyan1302,no,CLS-here 1.SG-see finish,CLS-here 1.SG-see finish
+st_test_nyan1302_253,nyan1302,yes,3.PL-know,3.PL-know
+st_test_nyan1302_253,nyan1302,no,3.PL-know,3.PL-know
+st_test_nyan1302_254,nyan1302,yes,1.PL take CLS-3.SG CLS-bark|shell 1.PL take cook,1.PL take CLS-3.SG CLS-bark 1.PL take cook
+st_test_nyan1302_254,nyan1302,no,1.PL take CLS-this CLS-bark|shell 1.PL take cook,1.PL take CLS-3.SG CLS-bark 1.PL take cook
+st_test_nyan1302_255,nyan1302,yes,all 1.PL-FUT-put_on CLS-3.SG,all 1.PL-FUT-put_on CLS-3.SG
+st_test_nyan1302_255,nyan1302,no,all 1.PL-FUT-put_on CLS-3.SG,all 1.PL-FUT-put_on CLS-3.SG
+st_test_nyan1302_256,nyan1302,yes,3.PL-know,3.PL-know
+st_test_nyan1302_256,nyan1302,no,3.PL-know,3.PL-know
+st_test_nyan1302_257,nyan1302,yes,3.SG-FUT-dig,AM-FUT-open
+st_test_nyan1302_257,nyan1302,no,3.SG-FUT-put_in,AM-FUT-open
+st_test_nyan1302_258,nyan1302,yes,yes CLS-fire-DEF AM-give that,yes CLS-fire-DEF AM-give that
+st_test_nyan1302_258,nyan1302,no,yes CLS-fire-DEF AM-give that,yes CLS-fire-DEF AM-give that
+st_test_nyan1302_259,nyan1302,yes,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just
+st_test_nyan1302_259,nyan1302,no,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just,but COMP 3.SG-VENTIVE-suffice CLS-time certain justCM-water-DEF very DEF just
+st_test_nyan1302_260,nyan1302,yes,3.SG-untie,CLS-untie
+st_test_nyan1302_260,nyan1302,no,3.SG-untie,CLS-untie
+st_test_nyan1302_261,nyan1302,yes,then 3.PL-put_in-3.SG at CLS-room-DEF inside,then 3.PL-put_in-3.SG at CLS-room-DEF inside
+st_test_nyan1302_261,nyan1302,no,then 3.PL-put_in-3.SG at CLS-room-DEF inside,then 3.PL-put_in-3.SG at CLS-room-DEF inside
+st_test_nyan1302_262,nyan1302,yes,REL 3.SG-be CLS-thing a_certain NEG:PRS-FUT-come-state inside,REL 3.SG-be CLS:PL-thing a_certain NEG:PRS-FUT-comeCM-state inside
+st_test_nyan1302_262,nyan1302,no,REL 3.SG-be CLS:PL-thing a_certain NEG:PRS-FUT-come-CLS-state inside,REL 3.SG-be CLS:PL-thing a_certain NEG:PRS-FUT-comeCM-state inside
