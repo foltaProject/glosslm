@@ -248,8 +248,8 @@ def main(
     print(f"Loading model from {pretrained_model}")
     model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model)
     output_dir = os.path.join(checkpoint_save_dir, exp_name)
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    # if not os.path.exists(output_dir):
+    #     os.makedirs(output_dir)
     trainer = create_trainer(
         model,
         output_dir=output_dir,
@@ -269,8 +269,8 @@ def main(
         if checkpoint_path is not None:
             print(f"Continuing training from {checkpoint_path}")
         trainer.train(checkpoint_path)
-        if not os.path.exists(output_model_path):
-            os.makedirs(output_model_path)
+        # if not os.path.exists(output_model_path):
+        #     os.makedirs(output_model_path)
         print(f"Saving model to {output_model_path}")
         trainer.save_model(output_model_path)
         print(f"Model saved at {output_model_path}")
