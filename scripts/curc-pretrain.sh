@@ -12,10 +12,9 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=michael.ginn@colorado.edu
 
-module load gcc/11.2.0
-
 # purge all existing modules
 module purge
+module load gcc/11.2.0
 # Load the python module
 module load anaconda
 # Run Python Script
