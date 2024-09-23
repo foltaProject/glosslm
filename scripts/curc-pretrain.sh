@@ -12,6 +12,8 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=michael.ginn@colorado.edu
 
+module load gcc/11.2.0
+
 # purge all existing modules
 module purge
 # Load the python module
@@ -20,11 +22,11 @@ module load anaconda
 conda activate AutoIGT
 cd "/projects/migi8081/glosslm/src"
 
-exp_name="unimorph-unseg-distributed"
-exclude_st_seg="True"
-use_unimorph="True"
+exp_name="underrep-langs"
+exclude_st_seg="False"
+use_unimorph="False"
 
-torchrun --nproc_per_node=4 pretrain_multilingual_model.py \
+torchrun --nproc_per_node=3 pretrain_multilingual_model.py \
     --mode train --exp_name ${exp_name} \
     --output_model_path /projects/migi8081/glosslm/models/${exp_name} \
     --exclude_st_seg ${exclude_st_seg} \
