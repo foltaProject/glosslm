@@ -205,6 +205,10 @@ def main(
         dataset = datasets.load_dataset('lecslab/glosslm-split-unimorph')
     else:
         dataset = datasets.load_dataset('lecslab/glosslm-split')
+        nyan_train = dataset['train_OOD'].filter(lambda row: row['glottocode'] == 'nyan1302').shuffle().select(range(1000))
+        natu_train = dataset['train_OOD'].filter(lambda row: row['glottocode'] == 'natu1246').shuffle().select(range(500))
+
+        dataset['train'] = datasets.concatenate_datasets([dataset['train'], nyan_train, natu_train])
     dataset = dataset.filter(lambda x: x["transcription"] is not None and x["glosses"] is not None)
 
     # filtering out the shared task segmented data for comparison
