@@ -139,8 +139,8 @@ def create_trainer(
         report_to="wandb",
         metric_for_best_model="chrf++",
         # tf32=True,
-        fp16=True,
-        dataloader_num_workers=4,
+        # fp16=True,
+        dataloader_num_workers=3,
     )
 
     return transformers.Seq2SeqTrainer(
