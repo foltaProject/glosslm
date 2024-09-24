@@ -2,7 +2,7 @@
 #SBATCH --nodes=1           # Number of requested nodes
 #SBATCH --gres=gpu:3
 #SBATCH --ntasks=3     # Number of requested cores
-#SBATCH --mem=32G
+#SBATCH --mem=64G
 #SBATCH --time=7-00:00:00          # Max walltime              # Specify QOS
 #SBATCH --qos=blanca-curc-gpu
 #SBATCH --partition=blanca-curc-gpu
@@ -29,4 +29,5 @@ torchrun --nproc_per_node=3 pretrain_multilingual_model.py \
     --mode train --exp_name ${exp_name} \
     --output_model_path /projects/migi8081/glosslm/models/${exp_name} \
     --exclude_st_seg ${exclude_st_seg} \
-    --use_unimorph ${use_unimorph}
+    --use_unimorph ${use_unimorph} \
+    --checkpoint_save_dir /scratch/alpine/migi8081/glosslm/
