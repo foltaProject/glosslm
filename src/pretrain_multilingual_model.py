@@ -247,6 +247,7 @@ def main(
         pretrained_model = "google/byt5-base"
     print(f"Loading model from {pretrained_model}")
     model = transformers.T5ForConditionalGeneration.from_pretrained(pretrained_model)
+    for param in model.parameters(): param.data = param.data.contiguous()
     output_dir = os.path.join(checkpoint_save_dir, exp_name)
     # if not os.path.exists(output_dir):
     #     os.makedirs(output_dir)
