@@ -19,4 +19,4 @@ module load anaconda
 # Run Python Script
 conda activate AutoIGT
 cd "/projects/migi8081/glosslm/src"
-python3 pretrain_multilingual_model.py --mode predict --pretrained_model lecslab/byt5-translation-all --test_split id
+python3 pretrain_multilingual_model.py --mode predict --pretrained_model /projects/migi8081/glosslm/models/underrep-langs --test_split ood --ft_glottocode nyan1302
