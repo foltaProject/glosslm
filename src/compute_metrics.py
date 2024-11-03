@@ -3,6 +3,7 @@ import numpy as np
 from transformers import EvalPrediction
 
 def compute_metrics(tokenizer):
+    """Creates the `compute_metrics` function that includes chrF, accuracy, and other metrics"""
     chrf = evaluate.load("chrf")
 
     def postprocess_text(preds, labels):
@@ -28,7 +29,7 @@ def compute_metrics(tokenizer):
         result = chrf.compute(
             predictions=decoded_preds, references=decoded_labels, word_order=2
         )
-        result = {"chrf++": result["score"]}
+        result = {"chrf++": result["score"]} # type: ignore
 
         prediction_lens = [
             np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds
