@@ -3,16 +3,16 @@ Contains the evaluation scripts for comparing predicted and gold IGT
 Adapted from SIGMORPHON 2023 Shared Task code
 """
 
-import datasets
 import json
 import os
-import pandas as pd
 import re
-from jiwer import wer
 from typing import List
-import evaluate
 
 import click
+import datasets
+import evaluate
+import pandas as pd
+from jiwer import wer
 from torchtext.data.metrics import bleu_score
 
 
@@ -108,14 +108,14 @@ def eval_stems_grams(pred: List[List[str]], gold: List[List[str]]) -> dict:
 
 
 def eval_error_rate(pred: List[str], gold: List[str]) -> float:
-    prediction = ' '.join(pred)
-    reference = ' '.join(gold)
+    prediction = " ".join(pred)
+    reference = " ".join(gold)
     return wer(reference, prediction)
 
 
 def eval_avg_error_rate(pred: List[List[str]], gold: List[List[str]]) -> float:
     total_error_rate = 0
-    for (sample_pred, sample_gold) in zip(pred, gold):
+    for sample_pred, sample_gold in zip(pred, gold):
         total_error_rate += eval_error_rate(sample_pred, sample_gold)
     avg_error_rate = total_error_rate / len(pred)
     return avg_error_rate
@@ -129,7 +129,12 @@ def eval_morpheme_glosses(
     class_eval = eval_stems_grams(pred_morphemes, gold_morphemes)
     bleu = bleu_score(pred_morphemes, [[line] for line in gold_morphemes])
     mer = eval_avg_error_rate(pred_morphemes, gold_morphemes)
-    return {"morpheme_level": morpheme_eval, "classes": class_eval, "bleu": bleu, "MER": mer}
+    return {
+        "morpheme_level": morpheme_eval,
+        "classes": class_eval,
+        "bleu": bleu,
+        "MER": mer,
+    }
 
 
 def eval_word_glosses(pred_words: List[List[str]], gold_words: List[List[str]]):
@@ -140,29 +145,27 @@ def eval_word_glosses(pred_words: List[List[str]], gold_words: List[List[str]]):
     return {"word_level": word_eval, "bleu": bleu, "WER": wer}
 
 
-def eval_incorrect_gloss_from_translations(pred_morphemes: List[List[str]], gold_morphemes: List[List[str]], ids: List[str], dataset: datasets.Dataset):
+def eval_incorrect_gloss_from_translations(
+    pred_morphemes: List[List[str]],
+    gold_morphemes: List[List[str]],
+    ids: List[str],
+    dataset: datasets.Dataset,
+):
     """Computes the ratio of incorrect glosses that appear in the translation but nowhere else, with respect to the total number of incorrect glosses"""
     total_incorrect = 0
     total_incorrect_in_transl = 0
 
-    translations = dataset.filter(lambda x: x["id"] in ids)['translation']
+    translations = dataset.filter(lambda x: x["id"] in ids)["translation"]
 
     for pred, gold, id in zip(pred_morphemes, gold_morphemes, ids):
         translation = translations[ids.index(id)].split()
         for token_index in range(len(gold)):
             # Find incorrect preds
-            if (
-                token_index < len(pred)
-                and pred[token_index] != gold[token_index]
-            ):
+            if token_index < len(pred) and pred[token_index] != gold[token_index]:
                 total_incorrect += 1
-                if (
-                    pred[token_index] in translation
-                    and pred[token_index] not in gold
-                ):
+                if pred[token_index] in translation and pred[token_index] not in gold:
                     total_incorrect_in_transl += 1
     return total_incorrect_in_transl / total_incorrect
-
 
 
 def evaluate_igt(
@@ -170,7 +173,7 @@ def evaluate_igt(
     test_split: str,
     ft_glottocode: str = None,
     segmented: bool = True,
-    verbose=True
+    verbose=True,
 ):
     """Performs evaluation of a predicted IGT file"""
 
@@ -188,33 +191,31 @@ def evaluate_igt(
         gold_morphemes = [re.split(r"\s|-", gloss) for gloss in gold]
 
         chrf = evaluate.load("chrf")
-        chrf_score = chrf.compute(
-            predictions=preds, references=gold, word_order=2
+        chrf_score = chrf.compute(predictions=preds, references=gold, word_order=2)
+
+        incorrect_gloss_from_transl = eval_incorrect_gloss_from_translations(
+            pred_morphemes, gold_morphemes, lang_preds["id"].tolist(), dataset
         )
 
-        incorrect_gloss_from_transl = eval_incorrect_gloss_from_translations(pred_morphemes, gold_morphemes, lang_preds["id"].tolist(), dataset)
-
         eval_dict = {
-            **eval_word_glosses(
-                pred_words=pred_words, gold_words=gold_words
-            ),
+            **eval_word_glosses(pred_words=pred_words, gold_words=gold_words),
             **eval_morpheme_glosses(
                 pred_morphemes=pred_morphemes, gold_morphemes=gold_morphemes
             ),
-            'chrf': chrf_score['score'],
-            'inc_gloss_from_transl_rate': incorrect_gloss_from_transl
+            "chrf": chrf_score["score"],
+            "inc_gloss_from_transl_rate": incorrect_gloss_from_transl,
         }
         return eval_dict
 
     all_eval = {}
-    pred_df = pd.read_csv(pred_path).fillna('')
-    pred_df = pred_df[pred_df["is_segmented"] == ("yes" if segmented else "no") ]
+    pred_df = pd.read_csv(pred_path).fillna("")
+    pred_df = pred_df[pred_df["is_segmented"] == ("yes" if segmented else "no")]
 
     if len(pred_df) == 0:
         return {}
 
     assert test_split in ["test_ID", "test_OOD"]
-    dataset = datasets.load_dataset('lecslab/glosslm-split', split=test_split)
+    dataset = datasets.load_dataset("lecslab/glosslm-split", split=test_split)
     if segmented:
         dataset = dataset.filter(lambda x: x["is_segmented"] == "yes")
     else:
@@ -234,8 +235,10 @@ def evaluate_igt(
         all_eval[lang] = _eval(lang_preds, dataset)
 
     results_dir = os.path.dirname(pred_path)
-    results_path = f"{results_dir}/{test_split}-{'segmented' if segmented else 'unsegmented'}.json"
-    with open(results_path, 'w') as outfile:
+    results_path = (
+        f"{results_dir}/{test_split}-{'segmented' if segmented else 'unsegmented'}.json"
+    )
+    with open(results_path, "w") as outfile:
         json.dump(all_eval, outfile, sort_keys=True, indent=4)
 
     if verbose:
