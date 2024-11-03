@@ -7,7 +7,7 @@ from typing import cast
 import datasets
 import pandas as pd
 
-from eval import strip_gloss_punctuation
+from training.eval import strip_gloss_punctuation
 
 dataset = cast(datasets.DatasetDict, datasets.load_dataset("lecslab/glosslm-split"))
 

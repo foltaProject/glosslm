@@ -12,8 +12,8 @@ import click
 import datasets
 import evaluate
 import pandas as pd
+from glossing.bleu import bleu_score
 from jiwer import wer
-from torchtext.data.metrics import bleu_score
 
 
 def strip_gloss_punctuation(glosses: str):
