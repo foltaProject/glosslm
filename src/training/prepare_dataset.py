@@ -4,7 +4,27 @@ import datasets
 import transformers
 
 from training.experiment_config import ExperimentConfig
-from training.utils import tokenize
+
+
+def tokenize(tokenizer: transformers.ByT5Tokenizer, max_length: int):
+    def _tokenize(batch):
+        nonlocal tokenizer, max_length
+
+        if "glosses" in batch:
+            targets = batch["glosses"]
+        else:
+            targets = None
+
+        model_inputs = tokenizer(
+            batch["prompt"],
+            text_target=targets,
+            truncation=True,
+            padding=False,
+            max_length=max_length,
+        )
+        return model_inputs
+
+    return _tokenize
 
 
 def create_prompt(row: Dict, use_translation: bool = True):

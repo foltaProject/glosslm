@@ -162,5 +162,4 @@ if __name__ == "__main__":
         overrides=args.overrides or "",
         dataclass_type=ExperimentConfig,
     )
-    breakpoint()
     run(config)
