@@ -78,4 +78,5 @@ output_model_path = /projects/migi8081/glosslm/models/glosslm-pretrained-base
 
 The full list of possible options is in [experiment_config.py](src/training/experiment_config.py). In addition to the config file, you can specify any parameter overrides with `-o key1=val1 key2=val2`.
 
-If you'd like to run finetuning on a new language, you'll probably need to write your own training script. You can use `run.py` as a reference for how we implemented finetuning.
+> [!NOTE]  
+> If you'd like to run finetuning on a new language, you'll probably need to write your own training script. You can use `run.py` as a reference for how we implemented finetuning.
