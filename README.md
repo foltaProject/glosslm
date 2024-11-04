@@ -8,8 +8,14 @@ A Massively Multilingual Corpus and Pretrained Model for Interlinear Glossed Tex
 ```python
 import transformers
 
-def gloss_with_gloss_lm(transcription: str, translation: str, lang: str, metalang: str, is_segmented: bool):
-    prompt = f"""Provide the glosses for the following transcription in {lang}.
+# Your inputs
+transcription = "o sey xtok rixoqiil"
+translation = "O sea busca esposa."
+lang = "Uspanteco"
+metalang = "Spanish"
+is_segmented = False
+
+prompt = f"""Provide the glosses for the following transcription in {lang}.
 
 Transcription in {lang}: {transcription}
 Transcription segmented: {is_segmented}
@@ -17,26 +23,16 @@ Translation in {metalang}: {translation}\n
 Glosses: 
 """
 
-    model = transformers.T5ForConditionalGeneration.from_pretrained("lecslab/glosslm")
-    tokenizer = transformers.ByT5Tokenizer.from_pretrained(
-        "google/byt5-base", use_fast=False
-    )
-    
-    inputs = tokenizer(prompt, return_tensors="pt")
-    outputs = tokenizer.batch_decode(
-        model.generate(**inputs, max_length=1024), skip_special_tokens=True
-    )
-    return outputs[0]
-
-# Your inputs
-glosses = gloss_with_gloss_lm(
-    transcription="o sey xtok rixoqiil",
-    translation = "O sea busca esposa.",
-    lang = "Uspanteco",
-    metalang = "Spanish",
-    is_segmented = False
+model = transformers.T5ForConditionalGeneration.from_pretrained("lecslab/glosslm")
+tokenizer = transformers.ByT5Tokenizer.from_pretrained(
+    "google/byt5-base", use_fast=False
 )
-print(glosses) # o sea COM-buscar E3S-esposa
+
+inputs = tokenizer(prompt, return_tensors="pt")
+outputs = tokenizer.batch_decode(
+    model.generate(**inputs, max_length=1024), skip_special_tokens=True
+)
+print(outputs[0]) # o sea COM-buscar E3S-esposa
 ```
 
 ## Background
