@@ -151,7 +151,16 @@ if __name__ == "__main__":
     parser.add_argument(
         "-c", "--config", help="A config file (cfg, ini) with configuration parameters"
     )
+    parser.add_argument(
+        "-o",
+        "--overrides",
+        help="Override config arguments, in the format `key1=value1 key2=value2`",
+    )
     args = parser.parse_args()
-
-    config = config_to_dataclass(args.config, ExperimentConfig)
+    config = config_to_dataclass(
+        config_path=args.config,
+        overrides=args.overrides or "",
+        dataclass_type=ExperimentConfig,
+    )
+    breakpoint()
     run(config)
