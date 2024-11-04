@@ -24,14 +24,10 @@ Glosses:
 """
 
 model = transformers.T5ForConditionalGeneration.from_pretrained("lecslab/glosslm")
-tokenizer = transformers.ByT5Tokenizer.from_pretrained(
-    "google/byt5-base", use_fast=False
-)
+tokenizer = transformers.ByT5Tokenizer.from_pretrained("google/byt5-base", use_fast=False)
 
 inputs = tokenizer(prompt, return_tensors="pt")
-outputs = tokenizer.batch_decode(
-    model.generate(**inputs, max_length=1024), skip_special_tokens=True
-)
+outputs = tokenizer.batch_decode(model.generate(**inputs, max_length=1024), skip_special_tokens=True)
 print(outputs[0]) # o sea COM-buscar E3S-esposa
 ```
 
