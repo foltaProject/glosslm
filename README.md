@@ -4,7 +4,33 @@ A Massively Multilingual Corpus and Pretrained Model for Interlinear Glossed Tex
 [📄 Paper](https://arxiv.org/abs/2403.06399) | [📦 Models and data](https://huggingface.co/collections/lecslab/glosslm-66da150854209e910113dd87)
 
 
-## Usage
+## Overview
+GlossLM consists of a multilingual corpus of IGT and pretrained models for interlinear glossing.
+
+## Background
+Interlinear Glossed Text (IGT) is a common format in language documentation projects. It looks something like this:
+
+```
+o sey x  -tok    r  -ixoqiil
+o sea COM-buscar E3S-esposa
+“O sea busca esposa.”
+```
+
+The three lines are as follows:
+- The **transcription** line is a sentence in the target language (possibly segmented into morphemes)
+- The **gloss** line gives an linguistic gloss for each morpheme in the transcription
+- The **translation** line is a translation into a higher-resource language
+
+Creating consistent and large IGT datasets is time-consuming and error-prone. The goal of **automated interlinear glossing** is to aid in this task by **predicting the gloss line given the transcription and translation line**. 
+
+## Using the dataset
+```python
+import datasets
+
+glosslm_corpus = datasets.load_dataset("lecslab/glosslm-corpus")
+```
+
+## Using the model
 ```python
 import transformers
 
@@ -31,23 +57,34 @@ outputs = tokenizer.batch_decode(model.generate(**inputs, max_length=1024), skip
 print(outputs[0]) # o sea COM-buscar E3S-esposa
 ```
 
-## Background
-Interlinear Glossed Text (IGT) is a common format in language documentation projects. It looks something like this:
+## License
 
+
+## Citation
 ```
-o sey x  -tok    r  -ixoqiil
-o sea COM-buscar E3S-esposa
-“O sea busca esposa.”
+@inproceedings{ginn-etal-2024-glosslm,
+    title = "{G}loss{LM}: A Massively Multilingual Corpus and Pretrained Model for Interlinear Glossed Text",
+    author = "Ginn, Michael  and
+      Tjuatja, Lindia  and
+      He, Taiqi  and
+      Rice, Enora  and
+      Neubig, Graham  and
+      Palmer, Alexis  and
+      Levin, Lori",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.683",
+    pages = "12267--12286",
+}
 ```
 
-The three lines are as follows:
-- The **transcription** line is a sentence in the target language (possibly segmented into morphemes)
-- The **gloss** line gives an linguistic gloss for each morpheme in the transcription
-- The **translation** line is a translation into a higher-resource language
-
-Creating consistent and large IGT datasets is time-consuming and error-prone. The goal of **automated interlinear glossing** is to aid in this task by **predicting the gloss line given the transcription and translation line**. 
-
-## Detailed Usage
+## Running Experiments
 Interested in replicating or modifying our experiments? Pretraining, finetuning, and inference are handled with `run.py`, as follows:
 ```bash
 python run.py -c some_config_file.cfg -o key1=val1 key2=val2
